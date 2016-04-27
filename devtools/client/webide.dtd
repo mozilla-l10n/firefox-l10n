@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Annat">
 <!ENTITY runtimePanel_installsimulator "Installera Simulator">
 <!ENTITY runtimePanel_noadbhelper "Installera ADB Hjälpprogram">
-<!ENTITY runtimePanel_nousbdevice "Kan inte hitta din enhet?">
+
 <!ENTITY runtimePanel_refreshDevices_label "Uppdatera enheter">
 <!-- Lense -->
 

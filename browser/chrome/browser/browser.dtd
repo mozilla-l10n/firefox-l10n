@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Prenumerera på denna sida…">
 <!ENTITY addCurPagesCmd.label "Bokmärke för alla flikar…">
 <!ENTITY showAllBookmarks2.label "Visa alla bokmärken">
-<!ENTITY unsortedBookmarksCmd.label "Osorterade bokmärken">
+<!ENTITY recentBookmarks.label "Nyligen bokmärkt">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Visa fler bokmärken">
 
 <!ENTITY backCmd.label                "Bakåt">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Visa lagringsmeddelandet för app-offline">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Hantera dina inloggningsuppgifter">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Kontrollera om du vill spara ditt lösenord">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Visa installationsmeddelandet för app">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Hantera insticksmodulanvändning på denna sida">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Ändra om du kan ta emot meddelanden från webbplatsen">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bokmärken">
-<!ENTITY bookmarksMenuButton.unsorted.label "Osorterade bokmärken">
+
 <!ENTITY viewBookmarksSidebar2.label        "Visa i sidofältet Bokmärken">
 <!ENTITY viewBookmarksToolbar.label         "Visa Bokmärkesfältet">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Webbutvecklare">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Anslut…">
-<!ENTITY devtoolsConnect.accesskey    "u">
-
-<!ENTITY errorConsoleCmd.label        "Felkonsol">
-<!ENTITY errorConsoleCmd.accesskey    "F">
-
-<!ENTITY remoteWebConsoleCmd.label    "Fjärrwebbkonsol">
-
-<!ENTITY browserConsoleCmd.label      "Webbläsarkonsol">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "b">
-
 <!ENTITY inspectContextMenu.label     "Inspektera element">
 <!ENTITY inspectContextMenu.accesskey "e">
-
-<!ENTITY responsiveDesignTool.label   "Responsiv designvy">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Färgpipett">
-<!ENTITY eyedropper.accesskey "F">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Kladdblocket">
-<!ENTITY scratchpad.accesskey         "K">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Webbläsarverktyg">
-<!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Verktyg för webbläsarinnehåll">
-<!ENTITY browserContentToolboxMenu.accesskey "t">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Stäng Utvecklarfältet">
-<!ENTITY devToolbarMenu.label              "Utvecklarfältet">
-<!ENTITY devToolbarMenu.accesskey          "U">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Visa verktygen">
-<!ENTITY devToolboxMenuItem.accesskey      "V">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Visa/dölj utvecklarverktygen">
-<!ENTITY devToolbarOtherToolsButton.label  "Fler verktyg">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Hämta fler verktyg">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "H">
 
 <!ENTITY fileMenu.label         "Arkiv"> 
 <!ENTITY fileMenu.accesskey       "A">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Klipp ut">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "K"> 
-<!ENTITY copyCmd.label            "Kopiera">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "o"> 
+
 <!ENTITY pasteCmd.label           "Klistra in">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "l"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Öppna Hjälp-menyn">
 
 <!ENTITY appMenuRemoteTabs.label "Synkade flikar">
-<!ENTITY appMenuRemoteTabs.fetching.label "Hämtar synkade flikar…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Inga öppna flikar">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Logga in på Firefox från dina andra enheter för att visa deras flikar här.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synkroniseringsinställningar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logga in för att se en lista med flikar från dina andra enheter.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logga in till Sync">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Din anslutning till den här sidan är inte privat. Information som du skickar kan ses av andra personer (som t.ex. lösenord, meddelanden, bankkort, osv.).">
 <!ENTITY identity.description.insecureLoginForms "Inloggningsinformation du anger på denna sida är inte säker och kan äventyras.">
 <!ENTITY identity.description.weakCipher "Din anslutning till den här webbsidan använder en svag kryptering och är inte privat.">
-<!ENTITY identity.description.weakCipher2 "Andra personer kan se din information eller ändra webbsidans innehåll/uppförande.">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; har blockerat några osäkra komponenter på sidan.">
 <!ENTITY identity.description.passiveLoaded "Anslutningen till denna webbplats är inte privat och andra personer kan se din information.">
 <!ENTITY identity.description.passiveLoaded2 "Den här webbplatsen har innehåll som inte är säkert (t.ex. bilder).">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Synkade flikar">
 
 <!ENTITY syncedTabs.sidebar.label              "Synkade Flikar">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Hämta synkade Flikar…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Logga in på Firefox från dina andra enheter för att visa deras flikar här.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Logga in för att se en lista med flikar från dina andra enheter.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Inga öppna flikar">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Öppna inställningar för &syncBrand.shortName.label;">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Slå på fliksynkronisering för att visa en lista med flikar från dina andra enheter.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Öppna den här fliken">
-<!ENTITY syncedTabs.context.openTab.accesskey               "d">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Bokmärk denna flik…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bokmärk denna flik…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
