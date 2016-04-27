@@ -61,7 +61,7 @@
 <!ENTITY rights.safebrowsing-b "Kulemaza vipengee vya Kuvinjari Salama hakupendekezwi kwani kunaweza kusababisha kwenda kwenye tovuti ambazo sio salama.   Kama ungependa kulemaza kipengee kikamilifu, fuata hatua hizi:">
 <!ENTITY rights.safebrowsing-term1 "Fungua mapendeleo ya programu">
 <!ENTITY rights.safebrowsing-term2 "Fungua chaguo za Usalama">
-<!ENTITY rights.safebrowsing-term3 "Kagua tena chaguo kwa &quot;&blockAttackSites.label;&quot; na &quot;&blockWebForgeries.label;&quot;">
+
 <!ENTITY rights.safebrowsing-term4 "Kuvinjari Salama sasa kumelemazwa">
 <!-- location aware browsing points for branded builds -->
 

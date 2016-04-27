@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;Usanidi">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "Karibu! kama hujawahi kutumia &syncBrand.fullName.label; awali, utahitajika kuunda akaunti mpya.">
 <!ENTITY button.createNewAccount.label "Unda Akaunti Mpya">
 <!ENTITY button.haveAccount.label      "Nina Akaunti">
 
 <!ENTITY setup.choicePage.title.label     "Umetumia &syncBrand.fullName.label; awali?">
-<!ENTITY setup.choicePage.new.label       "Sijatumia &syncBrand.shortName.label; hapo awali">
-<!ENTITY setup.choicePage.existing2.label "Tayari ninatumia &syncBrand.shortName.label; kwenye kifaa kingine">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Sava">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "Oanisha Kifaa">
 <!ENTITY addDevice.showMeHow.label          "Nionyeshe jinsi.">
-<!ENTITY addDevice.dontHaveDevice.label     "Sina kifaa hicho">
+
 
 <!ENTITY addDevice.setup.enterCode.label    "Kisha, ingiza kodi hii:">
 
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "Vifaa vya nyongeza">
 <!ENTITY engine.addons.accesskey    "V">
 
-<!ENTITY choice2a.merge.main.label       "Changanya data ya kifaa hiki na data yangu ya &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Imependekezwa:">
 <!ENTITY choice2a.client.main.label      "Badilisha data yote kwenye kifaa hiki na data ya &syncBrand.shortName.label;">
-<!ENTITY choice2a.server.main.label      "Badilisha vifaa vingine vyote na data za kifaa hiki">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Thibitisha">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; sasa itachanganya data ya yote ya kivinjari ya kifaa hiki katika akaunti yako ya Ulandanishi.">
+
 <!ENTITY confirm.client3.label         "Onyo: Data ya &brandShortName; ifuatayo kwenye kifaa hiki kitafutwa:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; kisha itanakili data yako ya &syncBrand.fullName.label; kwa kifaa hiki.">
 <!ENTITY confirm.server2.label         "Onyo: Vifaa vifuatavyo vitaandikwa juu na data yako ya kienyeji:">

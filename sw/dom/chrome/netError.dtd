@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Faili Haiptikani">
 <!ENTITY fileNotFound.longDesc "<ul><li>Huenda kipengee kimepewa jina jipya, kimeondolewa, au kimehamishwa?</li><li>Kuna kosa la uendelezo, matumizi ya herufi kubwa, au makosa mengine ya uchapaji katika anwani?</li><li>Una ruhusa za ufikivu za kutosha kwa vipengee vilivyoombwa?</li></ul>">
 
+
+
 <!ENTITY generic.title "Haiwezi Kukamilisha Ombi Hili">
 <!ENTITY generic.longDesc "<p>Maelezo ya ziada kuhusu shida au kosa hili kwa sasa hayapatikani.</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "XUL ya Mbali">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwafahamisha juu ya tatizo hili.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
