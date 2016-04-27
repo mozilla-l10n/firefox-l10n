@@ -159,7 +159,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "இப்பக்கத்தில் சந்தாபெறுக">
 <!ENTITY addCurPagesCmd.label "அனைத்துத் தத்தல்களையும் புத்தகக்குறியிடுக…">
 <!ENTITY showAllBookmarks2.label "அனைத்துப் புத்தகக்குறிகளையும் காட்டுக">
-<!ENTITY unsortedBookmarksCmd.label "வரிசையாக்கப்படாத புத்தகக்குறிகள்">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் புத்தகக்குறிகளைக் காட்டுக">
 
 <!ENTITY backButton.tooltip           "ஒரு பக்கம் பின்னால் செல்">
@@ -199,7 +200,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!ENTITY searchItem.title             "தேடு">
 <!-- Toolbar items -->
 
@@ -207,7 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "புத்தகக்குறிகள்">
-<!ENTITY bookmarksMenuButton.unsorted.label "வரிசைப்படுத்தப்படாத புத்தகக்குறிகள்">
+
 
 <!ENTITY viewBookmarksToolbar.label         "புத்தகக்குறிகள் கருவிப்பட்டையைக் காட்டுக">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -235,71 +235,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "இணையத்தள அபிவிருத்தியாளர்">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-
-
-
-
-<!ENTITY devtoolsConnect.label        "இணை...">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "வழுப் பணியகம்">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-
-<!ENTITY remoteWebConsoleCmd.label    "தொலைநிலை இணைய பணியகம்">
-
-
-
-
 <!ENTITY inspectContextMenu.label     "உறுப்பாய்வு செய்க">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "இசைவு வடிவமைப்பு நோக்கு ">
-<!ENTITY responsiveDesignTool.accesskey "R">
-
-
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "கிறுக்கல் அட்டை">
-<!ENTITY scratchpad.accesskey         "S">
-<!ENTITY scratchpad.keycode           "VK_F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-
-<!ENTITY devToolbarCloseButton.tooltiptext "அபிவிருத்தியாளர் கருவிப் பட்டையை மூடவும்">
-<!ENTITY devToolbarMenu.label              "அபிவிருத்தியாளர் கருவிப்பட்டை">
-<!ENTITY devToolbarMenu.accesskey          "v">
-
-
-
-
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "கருவிகளை நிலைமாற்றுக">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
-
-
-<!ENTITY devToolbarToolsButton.tooltip     "அபிவிருத்தியாளர் கருவிகளை நிலைமாற்றுக">
-<!ENTITY devToolbarOtherToolsButton.label  "இதர கருவிகள்">
-
-<!ENTITY getMoreDevtoolsCmd.label        "கூடுதல் கருவிகளை பெறக">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "கோப்பு"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -331,9 +268,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY cutCmd.key             "X">  
 
-<!ENTITY copyCmd.label            "நகலெடு">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+
 <!ENTITY pasteCmd.label           "ஒட்டு">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -380,7 +317,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
@@ -388,6 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -739,8 +676,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
+
+
+
 
 
 
