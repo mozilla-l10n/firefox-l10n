@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "Wšu pytansku historiju z tutoho grata zhašeć?">
 <!ENTITY pref_clearHistory_title "Pytansku historiju zhašeć">
 
-<!ENTITY pref_searchProvider_title "Pytawa">
-
 <!ENTITY search_widget_button_label "Pytać">
 
 <!ENTITY network_error_title "Žadyn internetny zwisk">
