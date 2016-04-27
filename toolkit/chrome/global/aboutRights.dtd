@@ -61,7 +61,7 @@
 <!ENTITY rights.safebrowsing-b "Safe Browsing বৈশিষ্ট্য অসামৰ্থবান কৰাটো উপদেশিত নহয় কাৰণ ইয়াৰ ফলত আপুনি অসুৰক্ষিত ছাইটসমূহত যাব পাৰে।  যদি আপুনি এই বৈশিষ্ট্য সম্পূৰ্ণভাৱে অসামৰ্থবান কৰিব বিচাৰে, এই স্তৰসমূহ অনুকৰণ কৰক:">
 <!ENTITY rights.safebrowsing-term1 "এপ্লিকেচন পছন্দসমূহ খোলক">
 <!ENTITY rights.safebrowsing-term2 "সুৰক্ষা নিৰ্বাচন বাছক">
-<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; আৰু &quot;&blockWebForgeries.label;&quot; লে বিকল্পসমূহ আনচেক কৰক">
+
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing এতিয়া অসামৰ্থবান">
 <!-- location aware browsing points for branded builds -->
 
