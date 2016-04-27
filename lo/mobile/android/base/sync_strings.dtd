@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "ແທັບ">
 <!ENTITY bookmarks.folder.toolbar.label "ແຖບເຄື່ອງມືບຸກມາກສ໌">
-<!ENTITY bookmarks.folder.unfiled.label "ຈັດລຳດັບບຸກມາກຄືນໃຫມ່">
+
 <!ENTITY bookmarks.folder.desktop.label "ບຸກມາກສ໌ເດສກ໌ທັອບ">
 <!ENTITY bookmarks.folder.mobile.label "ບຸກມາກສ໌ມືຖື">
-<!ENTITY bookmarks.folder.readinglist.label "ລາຍການການອ່ານ">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "ປັກ">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "ຕິດຕັ້ງ &syncBrand.shortName.label; ເພື່ອສົ່ງແທັບ">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "ຕິດຕັ້ງ &syncBrand.fullName.label; ໃນອຸປະກອນຂອງທ່ານເພື່ອສົ່ງແທັບໄປຫາອຸປະກອນອື່ນໆ.">
-<!ENTITY sync.text.tab.sent.label "ແທັບຂອງທ່ານໄດ້ຖືກສົ່ງໄປແລ້ວ.">
-<!ENTITY sync.text.tab.not.sent.label "ມີບັນຫາໃນການນຳສົ່ງແທັບຂອງທ່ານ.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "ບັນຊີໄຟຟັອກ">
-
-<!ENTITY fxaccount_custom_server_account_title "ການນໍາໃຊ້ບັນຊີໃນເຄື່ອງແມ່ຂ່າຍ">
-<!ENTITY fxaccount_custom_server_sync_title "ການເກັບຮັກສາຂໍ້ມູນ Sync ໄວ້ໃນເຄື່ອງແມ່ຂ່າຍ">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "ອີເມວລ໌">
-<!ENTITY fxaccount_password_hint "ລະຫັດຜ່ານ">
-<!ENTITY fxaccount_password_hide "ເຊື່ອງ">
-<!ENTITY fxaccount_password_show "ສະແດງ">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "ກັບຄືນໄປສູ່ການຄົ້ນຫາ">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "ເງື່ອນໄຂການໃຫ້ບໍລິການ">
-<!ENTITY fxaccount_policy_linkprivacy "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ">
+<!ENTITY fxaccount_back_to_browsing "ກັບຄືນໄປສູ່ການຄົ້ນຫາ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "ຍິນດີຕ້ອນຮັບສູ່ &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "ລົ່ງຊື່ເຂົ້າໃຊ້ເພື່ອ Sync ແທັບຂອງທ່ານ, ບຸກມາກສ໌, ການເຂົ້າສູ່ລະບົບ ແລະ ອື່ນໆ.">
 <!ENTITY fxaccount_getting_started_get_started "ເລີ່ມຕົ້ນເຮັດວຽກ">
 <!ENTITY fxaccount_getting_started_old_firefox "ກຳລັງນຳໃຊ້ຮຸ່ນເກົ່າຂອງ &syncBrand.shortName.label;?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "ສ້າງບັນຊີໄຟຟັອກ">
-<!ENTITY fxaccount_create_account_password_length_restriction "ຕ້ອງມີຢ່າງຫນ້ອຍ 8 ຕົວອັກສອນ">
-<!ENTITY fxaccount_create_account_day_of_birth "ວັນ">
-<!ENTITY fxaccount_create_account_month_of_birth "ເດືອນ">
-<!ENTITY fxaccount_create_account_year_of_birth "ປີເກີດ">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "ເພື່ອດຳເນີນການຕໍ່, ຂ້າພະເຈົ້າຍອມຮັບຕາມ &formatS1; ແລະ &formatS2; ຂອງການບໍລິການຄຣາວຂອງໄຟຟັອກ.">
-<!ENTITY fxaccount_create_account_button "ຕໍ່ໄປ">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "ເລືອກສິ່ງທີ່ຕ້ອງການຈະ Sync">
-<!ENTITY fxaccount_create_account_sign_in_instead "ມີບັນຊີລຽບລ້ອຍແລ້ວບໍ່? ເຂົ້າສູ່ລະບົບ">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 ຫຼື ກ່ອນຫນ້ານັ້ນ">
-<!ENTITY fxaccount_create_account_unknown_error "ບໍ່ສາມາດສ້າງບັນຊີນີ້ໄດ້">
-
-<!ENTITY fxaccount_account_create_not_allowed "ບໍ່ສາມາດສ້າງບັນຊີນີ້ໄດ້">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "ທ່ານຕ້ອງຕອບສະຫນອງກັບຄວາມຕ້ອງການທາງອາຍຸເພື່ອສ້າງບັນຊີ.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "ຮຽນຮູ້ເພີ່ມເຕີມ">
-
-<!ENTITY fxaccount_confirm_account_header "ຢືນຢັນບັນຊີຂອງທ່ານ">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "Link ຢືນຢັນໄດ້ຖືກສົ່ງໄປຫາ &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "ສົ່ງອີເມວຄືນໃຫມ່">
-<!ENTITY fxaccount_confirm_account_change_email "ລືມທີ່ຢູ່ອີເມວນີ້ ຫລື ບໍ?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "ອີເມວລ໌ຢືນຢັນສົ່ງໄປ">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "ບໍ່ສາມາດສົ່ງອີເມວລ໌ຢືນຢັນໄປ">
-<!ENTITY fxaccount_resend_unlock_code_button_label "ສົ່ງອີເມວປົດລັອກຄືນໃຫມ່">
-<!ENTITY fxaccount_unlock_code_sent "ອີເມວປົດລັອກໄດ້ສົ່ງໄປ">
-<!ENTITY fxaccount_unlock_code_not_sent "ບໍ່ສາມາດສົ່ງອີເມວປົດລັອກ">
-
-<!ENTITY fxaccount_sign_in_sub_header "ເຂົ້າສູ່ລະບົບ">
-<!ENTITY fxaccount_sign_in_button_label "ເຂົ້າສູ່ລະບົບ">
-<!ENTITY fxaccount_sign_in_forgot_password "ລື່ມລະຫັດຜ່ານ?">
-<!ENTITY fxaccount_sign_in_create_account_instead "ສ້າງບັນຊີ">
-<!ENTITY fxaccount_sign_in_unknown_error "ບໍ່ສາມາດເຂົ້າສູ່ລະບົບ">
-
-<!ENTITY fxaccount_account_verified_sub_header "ບັນຊີໄດ້ຮັບການຢືນຢັນ">
-<!ENTITY fxaccount_account_verified_description2 "ຂໍ້ມູນຂອງທ່ານຈະເລີ່ມຕົ້ນການຊິງຊົ່ວຂະນະ.">
-
-<!ENTITY fxaccount_migration_finished_header "ການອັບເກຣດສຳເລັດແລ້ວ">
-
-<!ENTITY fxaccount_update_credentials_header "ເຂົ້າສູ່ລະບົບ">
-<!ENTITY fxaccount_update_credentials_button_label "ເຂົ້າສູ່ລະບົບ">
-<!ENTITY fxaccount_update_credentials_unknown_error "ບໍ່ສາມາດເຂົ້າສູ່ລະບົບ">
-
-<!ENTITY fxaccount_finish_migrating_header "ເຂົ້າສູ່ລະບົບເພື່ອສຳເລັດການອັບເກຣດ">
-<!ENTITY fxaccount_finish_migrating_button_label "ສຳເລັດການອັບເກຣດແລ້ວ">
-<!ENTITY fxaccount_finish_migrating_description "ການອັບເກຣດແມ່ນນຳໃຊ້ປະລິມານຂໍ້ມູນຫລາຍ. ມັນຈະເປັນການດີທີ່ຈະອັບເກຣດຜ່ານທາງໄວຟາຍ.">
-
-<!ENTITY fxaccount_status_header2 "ບັນຊີໄຟຟັອກ">
 <!ENTITY fxaccount_status_signed_in_as "ເຂົ້າສູ່ລະບົບດ້ວຍ">
 <!ENTITY fxaccount_status_manage_account "ຈັດການບັນຊີ">
 <!ENTITY fxaccount_status_auth_server "ບັນຊີໃນເຄື່ອງແມ່ຂ່າຍ">
@@ -154,8 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "ເງື່ອນໄຂການໃຫ້ບໍລິການ">
-<!ENTITY fxaccount_status_linkprivacy "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ">
+
 <!ENTITY fxaccount_status_more "ເພີ່ມເຕີມ &ellipsis;">
 <!ENTITY fxaccount_remove_account "ຕັດການເຊື່ອມຕໍ່&ellipsis;">
 
@@ -192,7 +112,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "ເຄື່ອງແມ່ເຄື່ອຂ່າຍທຳງານຫນັກ, ຫລອງເຂົ້າໃຫມ່ອີກເທືອຫນື່ງໃນໄວໆນີ້">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "ເຄື່ອງແມ່ເຄື່ອຂ່າຍທຳງານຫນັກ, ຫລອງເຂົ້າໃຫມ່ອີກເທືອຫນື່ງໃນໄວໆນີ້ ">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ມັນມີບັນຫາ">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບເຄື່ອຂ່າຍ">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "ບັນຊີຖືກລັອກ. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ບໍ່ໄດ້ເຊື່ອມຕໍ່">
@@ -204,8 +123,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "ແຕະເພື່ອເຂົ້າສູ່ລະບົບດ້ວຍ &formatS;">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
-<!ENTITY old_sync_deprecated_notification_title "ລົ່ງຊື່ເຂົ້າໃຊ້ເພື່ອດຳເນີນການ Syncing">
-<!ENTITY old_sync_deprecated_notification_content "ບັນຊີຂອງທ່ານບໍ່ໄດ້ຮັບການສະໜັບສະໜູນອີກຕໍ່ໄປ">

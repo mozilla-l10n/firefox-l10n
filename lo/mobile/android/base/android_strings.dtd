@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "ບໍ່ມີພື້ນທີ່ວ່າງພຽງພໍສຳລັບ &brandShortName; ເພື່ອເລີ່ມທຳງານ">
-<!ENTITY  error_loading_file "ໄດ້ມີຂໍ້ຜິດພາດເກີດຂື້ນໃນຂະນະທີ່ກຳລັງໂລດຟາຍທີ່ຈຳເປັນໃນການເປີດ &brandShortName;">
-
 <!ENTITY firstrun_panel_title_welcome "ຍິນດີຕ້ອນຮັບ">
 <!ENTITY  onboard_start_message3 "ຄົ້ນຫາດ້ວຍ &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "ສ້າງປະສົບການໃນການທ່ອງເວັບເທິງມີຖືເປັນໄປຕາມເອກະລັກຂອງຕົວທ່ານເອງ.">
@@ -27,12 +23,16 @@
 <!ENTITY firstrun_button_next "ຕໍ່ໄປ">
 
 <!ENTITY  onboard_start_restricted1 "ທ່ອງເວັບຢ່າງປອດໄພ ແລະ ຢູ່ພາຍໃຕ້ການຄວບຄຸມຂອງທ່ານດ້ວຍລຸ້ນນີ້ຂອງ &brandShortName;.">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "ບຸກມາກສ໌">
 <!ENTITY  history_title "ປະວັດການໃຊ້ງານ">
-<!ENTITY  reading_list_title "ລາຍການການອ່ານ">
+
 <!ENTITY  recent_tabs_title "ແທັບມື້ກີ້ນີ້">
 
 <!ENTITY  switch_to_tab "ຍ້າຍໄປຫາແທັບ">
@@ -49,12 +49,6 @@
 <!ENTITY  sending_crash_report " ສົ່ງລາຍງານຂໍ້ຜິດພາດ\u2026">
 <!ENTITY  crash_close_label "ປິດ">
 <!ENTITY  crash_restart_label "ເລີ່ມຕົ້ນໃຫມ່ &brandShortName;">
-<!ENTITY  exit_label "ອອກ">
-
-<!ENTITY  launcher_shortcuts_title "&brandShortName; ເວັບແອັບ">
-<!ENTITY  launcher_shortcuts_empty "ບໍ່ມີການຄົ້ນພົບເວັບແອັບ">
-
-<!ENTITY choose_file "ເລືອກຟາຍ">
 
 <!ENTITY url_bar_default_text2 "ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ຂອງເວັບໄຊຕ໌ໃສ່">
 
@@ -69,13 +63,20 @@
 <!ENTITY bookmark_updated "ໄດ້ອັບເດດບຸກມາກ">
 <!ENTITY bookmark_options "ຕົວເລືອກ">
 
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+
 <!ENTITY history_today_section "ມື້ນີ້">
 <!ENTITY history_yesterday_section "ມື້ວານ">
 <!ENTITY history_week_section3 "7 ມື້ກ່ອນ">
-<!ENTITY history_this_month_section "ເດືອນນີ້">
 <!ENTITY history_older_section3 "ອາຍຸເກີນ 6 ເດືອນ">
 
-<!ENTITY go "ໄປ">
 <!ENTITY search "ຊອກຫາ">
 <!ENTITY reload "ໂລດຄືນໃຫມ່">
 <!ENTITY forward "ໄປຂ້າງຫນ້າ">
@@ -108,7 +109,7 @@
 <!ENTITY settings "ການຕັ້ງຄ່າ">
 <!ENTITY settings_title "ການຕັ້ງຄ່າ">
 <!ENTITY pref_category_general "ທົ່ວໄປ">
-<!ENTITY pref_category_general_summary2 "ຫນ້າລັກ, ພາສາ, ແຖບ URL">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -131,9 +132,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "ບຸກມາກ">
-<!ENTITY overlay_share_reading_list_btn_label "ເພີ່ມເຂົ້າໄປໃນລາຍການອ່ານ">
 <!ENTITY overlay_share_bookmark_btn_label_already "ບຸກມາກໄວ້ຮຽບຮ້ອຍແລ້ວ">
-<!ENTITY overlay_share_reading_list_btn_label_already "ມີຢູ່ໃນລາຍການອ່ານແລ້ວ">
 <!ENTITY overlay_share_send_other "ສົ່ງໄປຫາອຸປະກອນອື່ນໆ">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -149,14 +148,15 @@
 <!ENTITY overlay_no_synced_devices "ບໍ່ພົບອຸປະກອນທີ່ເຊື່ອມຕໍ່ກັບບັນຊີໄຟຟັອກ">
 
 <!ENTITY pref_category_search3 "ຊອກຫາ">
-<!ENTITY pref_category_search_summary "ດັດແກ້ຕົວຊອກຫາຂອງທ່ານ">
+
 <!ENTITY pref_category_accessibility "ການເຂົ້າເຖິງ">
 <!ENTITY pref_category_accessibility_summary2 "ຂະໜາດຕົວຫນັງສື, ຂະຫຍາຍ, ປ້ອນສຽງເຂົ້າ">
 <!ENTITY pref_category_privacy_short "ຄວາມເປັນສ່ວນຕົວ">
-<!ENTITY pref_category_privacy_summary3 "ການຕິດຕາມ, ຄຸກກີ, ການເລືອກຂໍ້ມູນ">
+
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "ກ່ຽວກັບ &brandShortName;, ຄຳຖາມທີພົບເປັນປະຈຳ, ຄໍາຄຶດຄໍາເຫັນ">
 <!ENTITY pref_category_datareporting "ເລືອກຂໍ້ມູນ">
+
 <!ENTITY pref_learn_more "ຮຽນຮູ້ເພີ່ມເຕີມ">
 <!ENTITY pref_category_installed_search_engines "ໄດ້ທຳການຕິດຕັ້ງລະບົບການຄົ້ນຫາແລ້ວ">
 <!ENTITY pref_category_add_search_providers "ເພີ່ມຕົວຄົ້ນຫາເຂົ້າໄປອີກ">
@@ -168,10 +168,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "ຄຳແນະນຳ: ເພີ່ມທຸກໆເວັບໃຊ້ເຂົ້າໄປໃນລາຍການຜູ້ສະຫນອງການຄົ້ນຫາຂອງທ່ານໂດຍການກົດຄ້າງໄວ້ໃນຫ້ອງຄົ້ນຫາ ແລະ ຫລັງຈາກນັ້ນກົດທີ່ກາ &formatI; ">
 <!ENTITY pref_category_advanced "ຂັ້ນສູງ">
-<!ENTITY pref_category_advanced_summary2 "ກູ້ຄືນແທັບ, ປັກອິນ, ເຄື່ອງມືສຳລັບນັກພັດທະນາ">
-<!ENTITY pref_developer_remotedebugging "ການດີບັກທາງໃກ">
+
+
+
+
+
 <!ENTITY pref_developer_remotedebugging_usb "ການດີບັກ (Debugging) ທາງໃກຜ່ານທາງ USB">
 <!ENTITY pref_developer_remotedebugging_wifi "ການດີບັກ (Debugging) ທາງໃກຜ່ານທາງ Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ການດີບັກ Wi-Fi ອຸປະກອນຂອງທ່ານຕ້ອງໄດ້ຮັບການຕິດຕັ້ງໂປແກມອ່ານລະຫັດ QR.">
@@ -181,18 +183,10 @@
 <!ENTITY pref_category_home "ໜ້າຫຼັກ">
 <!ENTITY pref_category_home_summary "ດັດແປງຫນ້າຫຼັກຂອງທ່ານ">
 <!ENTITY pref_category_home_panels "ແຜງ">
-<!ENTITY home_add_panel_title "ເພີ່ມແຜງໃຫມ່">
-<!ENTITY home_add_panel_empty "ຂໍອະໄພ, ພວກເຮົາບໍ່ສາມາດພົບພາແນຣທີ່ຈະເພີ່ມສຳລັບທ່ານ.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "&formatS; ໄດ້ເພີ່ມຫນ້າຫລັກແລ້ວ">
-<!ENTITY pref_category_home_content_settings "ການຕັ້ງຄ່າເນື້ອຫາ">
-<!ENTITY pref_home_updates "ອັບເດດອັດຕະໂນມັດ">
+
+
 <!ENTITY pref_home_updates_enabled "ເປີດໃຊ້ງານແລ້ວ">
 <!ENTITY pref_home_updates_wifi "ຜ່ານທາງ Wi-Fi ເທົ່ານັ້ນ">
-<!ENTITY pref_home_suggested_sites "ສະແດງຜົນການແນະນຳການເວັບໃຊ້">
-<!ENTITY pref_home_suggested_sites_summary "ສະແດງຈຸດເຊື່ອມໂຍງໄປຫາເວັບຕ່າງໆໄວ້ເທິງຫນ້າຫລັກທີ່ພວກເຮົາຄິດວ່າທ່ານອາດຈະໃຫ້ຄວາມສົນໃຈ">
 <!ENTITY pref_category_home_homepage "ຫນ້າຫລັກ">
 <!ENTITY home_homepage_title "ຕັ້ງເປັນຫນ້າຫລັກ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -216,6 +210,7 @@
 <!ENTITY pref_header_search "ຊອກຫາ">
 <!ENTITY pref_header_privacy_short "ຄວາມເປັນສ່ວນຕົວ">
 <!ENTITY pref_header_accessibility "ການເຂົ້າເຖິງ">
+
 <!ENTITY pref_header_advanced "ຂັ້ນສູງ">
 <!ENTITY pref_header_help "ຊ່ວຍເຫລືອ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -225,6 +220,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "ເປີດໃຊ້ງານ, ປະກອບໄປດ້ວຍບຸກຄົນທີ່ສາມ">
 <!ENTITY pref_cookies_disabled "ປິດໃຊ້ງານ">
 
+
+
+
 <!ENTITY pref_tap_to_load_images_title2 "ສະແດງຮູບພາບ">
 <!ENTITY pref_tap_to_load_images_enabled "ຕະຫລອດເວລາ">
 <!ENTITY pref_tap_to_load_images_data "ຜ່ານທາງ Wi-Fi ເທົ່ານັ້ນ">
@@ -232,7 +230,7 @@
 
 <!ENTITY pref_show_web_fonts "ສະແດງຕົວອັກສອນເວັບ">
 
-<!ENTITY pref_tracking_protection_title "ການປ້ອງກັນການຕິດຕາມ">
+
 <!ENTITY pref_tracking_protection_summary3 "ເປີດໃຫ້ໃຊ້ງານໃນການຄົ້ນຫາແບບສ່ວນຕົວ">
 <!ENTITY pref_donottrack_title "ບໍ່ຕິດຕາມ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ຈະບອກເວັບໃຊ້ທີ່ທ່ານບໍ່ຕ້ອງການໃຫ້ຖືກຕິດຕາມ">
@@ -240,6 +238,8 @@
 <!ENTITY pref_tracking_protection_enabled "ເປີດໃຊ້ງານແລ້ວ">
 <!ENTITY pref_tracking_protection_enabled_pb "ເປີດໃຫ້ໃຊ້ງານໃນການຄົ້ນຫາແບບສ່ວນຕົວ">
 <!ENTITY pref_tracking_protection_disabled "ປິດໃຊ້ງານ">
+
+
 
 <!ENTITY tracking_protection_prompt_title "ຂະນະນີ້ມີການປ້ອງກັນການຕິດຕາມ">
 <!ENTITY tracking_protection_prompt_text "ບັອກອົງປະກອບການຕິດຕາມເພື່ອເຮັດໃຫ້ທ່ານບໍ່ຕ້ອງກັງວົນ.">
@@ -259,7 +259,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "ໄປທີ່ການຕັ້ງຄ່າ">
-<!ENTITY tab_queue_notification_title "&brandShortName;">
+
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -273,10 +273,19 @@
 
 <!ENTITY tab_queue_notification_settings "ເພື່ອ \&quot;ເປີດຫຼາຍໆລີ້ງພ້ອມກັນ\&quot;, ກະລຸນາອະນຸຍາດສິດທິໃຫ້ແກ່ \u0027ແຕ້ມໄດ້ໃນ apps ອື່ນໆ\u0027 ສຳລັບ &brandShortName;">
 
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "ການເຂົ້າລະຫັດຕົວອັກສອນ">
 <!ENTITY pref_char_encoding_on "ສະແດງລາຍການ">
 <!ENTITY pref_char_encoding_off "ບໍ່ຕ້ອງສະແດງລາຍການ">
-<!ENTITY pref_clear_private_data "ລົບລ້າງຂໍ້ມູນສ່ວນໂຕ">
+
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ລົບລ້າງຕອນນີ້ເລີຍ">
@@ -285,7 +294,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "ເລືອກຂໍ້ມູນທີ່ຕ້ອງການລົບລ້າງ">
 <!ENTITY pref_plugins "ປັກອິນ">
 <!ENTITY pref_plugins_enabled "ເປີດໃຊ້ງານແລ້ວ">
-<!ENTITY pref_plugins_tap_to_play "ແຕະເພື່ອຫລີ້ນ">
+
 <!ENTITY pref_plugins_disabled "ໄດ້ປິດໃຊ້ງານແລ້ວ">
 <!ENTITY pref_text_size "ຂະໜາດຕົວຫນັງສື">
 <!ENTITY pref_restore_tabs "ກູ້ຄືນແທັບ">
@@ -335,7 +344,6 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "ດາວໂລດ">
 <!ENTITY pref_private_data_syncedTabs "Synced ແທັບ">
 
-
 <!ENTITY pref_about_firefox "ກ່ຽວກັບ &brandShortName;">
 <!ENTITY pref_vendor_faqs "ຄຳຖາມທີພົບເປັນປະຈຳ">
 <!ENTITY pref_vendor_feedback "ໃຫ້ຄຳແນະນຳ">
@@ -353,10 +361,12 @@ size. -->
 <!ENTITY pref_panels_move_down "ຍ້າຍລົງ">
 
 <!ENTITY datareporting_notification_title "&brandShortName; ສະຖິຕິ &amp; ຂໍ້ມູນ">
-<!ENTITY datareporting_notification_action_long "ເລືອກຂໍ້ມູນທີ່ທ່ານຕ້ອງການຈະແຊ">
 <!ENTITY datareporting_notification_action "ເລືອກສິ່ງທີ່ຕ້ອງການຈະແຊ">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "ເລືອກຂໍ້ມູນທີ່ທ່ານຕ້ອງການຈະແຊ">
 <!ENTITY datareporting_notification_summary "ເພື່ອປັບປຸງໃຫ້ທ່ານໃຊ້ງານໄດ້ງ່າຍຂື້ນ, &brandShortName; ສົ່ງບາງຂໍ້ມູນແບບອັດຕະໂນມັດໄປຫາ &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "ເພື່ອປັບປຸງໃຫ້ທ່ານໃຊ້ງານໄດ້ງ່າຍຂື້ນ, &brandShortName;...">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -379,7 +389,6 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "ອັບເດດອັດຕະໂນມັດ">
 <!ENTITY pref_update_autodownload_wifi "ຜ່ານທາງ Wi-Fi ເທົ່ານັ້ນ">
 <!ENTITY pref_update_autodownload_never "ບໍ່ເຄີຍ">
 <!ENTITY pref_update_autodownload_always "ຕະຫລອດເວລາ">
@@ -390,7 +399,7 @@ size. -->
 <!ENTITY quit "ອອກ">
 
 <!ENTITY addons "Add-ons">
-<!ENTITY logins "ລັອກອິນ">
+
 <!ENTITY downloads "ດາວໂຫລດ">
 <!ENTITY char_encoding "ການເຂົ້າລະຫັດຕົວອັກສອນ">
 
@@ -409,7 +418,6 @@ size. -->
 <!ENTITY close_private_tabs "ປິດແທັບສ່ວນຕົວ">
 <!ENTITY tabs_normal "ແທັບ">
 <!ENTITY tabs_private "ສ່ວນຕົວ">
-<!ENTITY tabs_synced "ຊິງ">
 <!ENTITY set_image_fail "ບໍ່ສາມາດຕັ້ງຄ່າຮູບພາບໄດ້">
 <!ENTITY set_image_path_fail "ບໍ່ສາມາດບັນທຶກຮູບພາບ">
 <!ENTITY set_image_chooser_title "ກໍານົດຮູບພາບໃຫ້ເປັນ">
@@ -443,8 +451,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Pin ເວັບໄຊຕ໌">
 <!ENTITY contextmenu_top_sites_unpin "Unpin ເວັບໄຊຕ໌">
 <!ENTITY contextmenu_add_search_engine "ເພີ່ມລະບົບການຊອກຫາ">
-<!ENTITY contextmenu_mark_read "ໝາຍໄວ້ວ່າໄດ້ອ່ານແລ້ວ">
-<!ENTITY contextmenu_mark_unread "ໝາຍໄວ້ວ່າຫຍັງບໍ່ທັນໄດ້ອ່ານເທື່ອ">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -464,7 +470,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "ຂະຫຍາຍພື້ນທີ່ຂະຫນາດນ້ອຍ">
-<!ENTITY pref_magnifying_glass_enabled_summary "ຂະຫຍາຍລີ້ງ ແລະ ຊ່ອງປ້ອນຂໍ້ມູນເມື່ອທ່ານເຕະໃກ້ມັນ">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -489,21 +495,6 @@ size. -->
 <!ENTITY site_settings_title3       "ການຕັ້ງຄ່າເວັບໄຊຕ໌">
 <!ENTITY site_settings_cancel       "ຍົກເລີກ">
 <!ENTITY site_settings_clear        "ລົບລ້າງ">
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-
-<!ENTITY reading_list_added3 "ໄດ້ເພີ່ມເຂົ້າໄປໃນລາຍການອ່ານແລ້ວ">
-<!ENTITY reading_list_removed "ຫນ້າເວັບໄຊຕ໌ໄດ້ຖືກລົບອອກຈາກລາຍການອ່ານຂອງທ່ານແລ້ວ">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "ລົບອອກຈາກລາຍການອ່ານ">
-<!ENTITY reading_list_duplicate "ຫນ້າເວັບໄດ້ມີຢູ່ໃນລາຍການອ່ານຂອງທ່ານແລ້ວ">
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
-<!ENTITY reading_list_time_minutes2 "&formatD; ນາທີ">
-<!ENTITY reading_list_time_over_an_hour "ກ່ວາຫນຶ່ງຊົ່ວໂມງ">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -532,6 +523,7 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; ຫນ້າທໍາອິດ">
 <!ENTITY home_history_title "ປະຫວັດການໃຊ້ງານ">
+
 <!ENTITY home_clear_history_button "ລົບລ້າງປະຫວັດຂອງການຊອກຫາ">
 <!ENTITY home_clear_history_confirm "ທ່ານຫມັ້ນໃຈແລ້ວບໍ່ວ່າທ່ານຕ້ອງການລົບລ້າງປະຫວັດການໃຊ້ງານຂອງທ່ານທີ່ຜ່ານມາ?">
 <!ENTITY home_bookmarks_empty "Bookmarks ທີ່ທ່ານບັນທຶກໄວ້ສະແດງຂື້ນຢູ່ນີ້.">
@@ -540,11 +532,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "ແທັບຂອງທ່ານມື້ກີ້ນີ້ໄດ້ສະແດງຂື້ນຢູ່ນີ້.">
 <!ENTITY home_open_all "ເປີດທັງຫມົດ">
 <!ENTITY home_most_recent_empty "ເວັບໄຊຕ໌ທີ່ທ່ານຫາກໍ່ເຂົ້າໄປເບິງມື້ກີ້ນີ້ສະແດງຂື້ນຢູ່ທີ່ນີ້.">
-<!ENTITY home_selected_empty "ເວັບໄຊຕ໌ທີ່່ທານໄດ້ເຂົ້າໄປເບິງໃນຊ່ວງເວລາທີ່ທ່ານໄດ້ເລືອກໄວ້ໄດ້ສະແດງຂື້ນຢູ່ທີນີ້.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: ນຳໃຊ້ &formatS1; ແທັບສ່ວນຕົວໃຫມ່ &formatS2; ຈະບໍ່ບັນທຶກປະຫວັດການໃຊ້ງານຂອງທ່ານ.">
-<!ENTITY home_reading_list_empty "ຫົວຂໍ້ທີ່ທ່ານບັນທຶກໄວ້ສຳລັບອ່ານຕາມຫລັງສະແດງຂື້ນຢູ່ນີ້.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -553,21 +543,11 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_back_to_filter "ຍ້ອນກັບໄປທີ່ &formatS;">
-
-<!ENTITY home_remote_tabs_title "Synced ແທັບ">
-<!ENTITY home_remote_tabs_empty "ແທັບຂອງທ່ານຈາກອຸປະກອນອື່ນໄດ້ສະແດງຂື້ນຢູ່ນີ້.">
-<!ENTITY home_remote_tabs_unable_to_connect "ບໍ່ສາມາດເຊື່ອມຕໍ່">
-<!ENTITY home_remote_tabs_need_to_sign_in "ກະລຸນາເຂົ້າສູ່ລະບົບເພື່ອເຊື່ອມຕໍ່ຫາບັນຊີໄຟຟັອກຂອງທ່ານອີກ ແລະ ດຳເນີນການຊີງຕໍ່ໄປ.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "ບັນຊີໄຟຟັອກໃຫມ່ຂອງທ່ານພ້ອມໃຊ້ງານແລ້ວ!">
-
-<!ENTITY home_remote_tabs_trouble_verifying "ມີບັນຫາໃນການຢືນຢັນບັນຊີຂອງທ່ານຫລືບໍ?">
-<!ENTITY home_remote_tabs_need_to_verify "ກະລຸນາຢືນຢັນບັນຊີໄຟຟັອກຂອງທ່ານເພື່ອເລີມການຊີງ.">
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 ອຸປະກອນທີ່ເຊື່ອງໄວ້">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; ອຸປະກອນທີ່ເຊື່ອງໄວ້">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -582,7 +562,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "ປ້ອນຄຳທີ່ຕ້ອງການຄົ້ນຫາໃສ່">
 
-<!ENTITY filepicker_title "ເລືອກຟາຍຂໍ້ມູນ">
 <!ENTITY filepicker_audio_title "ເລືອກ ຫລື ບັນທຶກສຽງ">
 <!ENTITY filepicker_image_title "ເລືອກ ຫລື ຖ່າຍຮູບພາບ">
 <!ENTITY filepicker_video_title "ເລືອກ ຫລື ບັນທຶກວິດີໂອ">
@@ -611,8 +590,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "ເນື້ອຫາບາງສ່ວນໃນຫນ້າເວັບນີ້ບໍ່ມີຄວາມປອດໄພ (ເຊັ່ນວ່າຮູບພາບ).">
 <!ENTITY mixed_content_protection_disabled1 "ທ່ານໄດ້ປິດໃຊ້ງານການປ້ອງກັນເນື້ອຫາທີ່ບໍ່ມີຄວາມປອດໄພ.">
 <!-- Tracking content notifications in site identity popup -->
-
-<!ENTITY doorhanger_tracking_title "ການປ້ອງກັນການຕິດຕາມ">
 <!ENTITY doorhanger_tracking_state_enabled "ເປີດໃຊ້ງານແລ້ວ">
 <!ENTITY doorhanger_tracking_state_disabled "ປິດໃຊ້ງານແລ້ວ">
 <!ENTITY doorhanger_tracking_message_enabled1 "ຄວາມພະຍາຍາມທີ່ຈະຕິດຕາມພຶດຕິກໍາການອອນໄລນ໌ຂອງທ່ານໄດ້ຖືກບລັອກ.">
@@ -622,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "ຮຽນຮູ້ເພີ່ມເຕີມ">
 <!ENTITY enable_protection "ເປີດໃຊ້ການປ້ອງກັນ">
 <!ENTITY disable_protection "ປິດໃຊ້ການປ້ອງກັນ ">
-<!ENTITY keep_blocking "ບລັອກໄວ້ຄືເກົ່າ">
 
 <!ENTITY private_data_success "ລ້າງຂໍ້ມູນສ່ວນໂຕ">
 <!ENTITY private_data_fail "ບໍ່ສາມາດລ້າງບາງຂໍ້ມູນສ່ວນໂຕໄດ້">
@@ -714,12 +690,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "Synced ຄັ້ງຫລ່າສຸດ: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Synced ຄັ້ງຫລ່າສຸດ: ບໍ່ເຄຍ">
-
-<!ENTITY intent_uri_cannot_open "ບໍ່ສາມາດເປີດລີ້ງ">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+
 <!ENTITY intent_uri_private_browsing_prompt "ລີ້ງນີ້ຈະເປີດໃນ &formatS;. ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການອອກຈາກໂມດການທ່ອງເວັບແບບສ່ວນຕົວ?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -778,3 +753,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY whatsnew_notification_title "&brandShortName; ແມ່ນລຸ້ນລ່າສຸດແລ້ວ">
 <!ENTITY whatsnew_notification_summary "ຊອກເບິງວ່າມີຫຍັງໃຫມ່ໃນລຸ້ນນີ້">
+
+
+
+

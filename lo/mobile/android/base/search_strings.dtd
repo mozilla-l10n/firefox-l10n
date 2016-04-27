@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "ລຶບປະຫວັດການຄົ້ນຫາທັງຫມົດຈາກອຸປະກອນນີ້?">
 <!ENTITY pref_clearHistory_title "ລ້າງປະຫວັດການຄົ້ນຫາ">
 
-<!ENTITY pref_searchProvider_title "ເຄື່ອງມືຄົ້ນຫາ">
-
 <!ENTITY search_widget_button_label "ຊອກຫາ">
 
 <!ENTITY network_error_title "ບໍ່ມີການເຊື່ອມຕໍ່ກັບອິນເຕີເນັດ">
