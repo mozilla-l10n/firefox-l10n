@@ -18,9 +18,11 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> වෙබ් අඩවියේ හිමිකරු එය නිසි ලෙස සකසා නැත. ඔබේ තොරතුරු  සොරකම් කිරීම වැලක් වීම සඳහා, &brandShortName; මෙම වෙබ් අඩවියට සම්බන්ධ වී නැත.">
 <!ENTITY certerror.returnToPreviousPage.label "පසුපසට යන්න">
-<!ENTITY certerror.learnMore "තවත් දැනගන්න…">
+<!ENTITY certerror.learnMore "තවත් දැනගන්න...">
 <!ENTITY certerror.advanced.label "උසස් කළ">
 
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "මෙම අඩවියට  &brandShortName; සම්බන්ධවන්නෙ ආරක්ෂිත ආකාරයෙන්ම පමණක් බව විශෙෂිතව දැක් වීමට HTTP Strict Transport Security (HSTS)  භාවිත කරයි to specify that &brandShortName; only connect
+to it securely. එම නිසා මෙම සහතිකයට කිසිදු හැර දැමීමක් එක් කළ නොහැක.">
 
 <!ENTITY certerror.expert.content "ඔබ සිදුවන්නේ කුමක්දැයි දන්නේ නම් ඔබට 
  &brandShortName; වෙත අඩවියේ අනන්‍යතාවය විශ්වාස කරන ලෙස කිව හැක.  
@@ -29,5 +31,6 @@ was trying to connect. -->
 <!ENTITY certerror.expert.contentPara2 "ඔබට මෙම අඩවිය විශ්වාස නොවන 
  අනන්‍යතාවයක් භාවිතා නොකරන්නේ මන්දැයි පැහැදිලි අවබෝධයක් නැතිනම් නොසලකා හැරීමක් එක්කරන්නට එපා.">
 <!ENTITY certerror.addException.label "නොසලකා හැරීමක් එක් කරන්න…">
-<!ENTITY certerror.copyToClipboard.label "පෙළ ක්ලිප්බොඩ්ර් වෙත පිටපත් කරන්න">
+<!ENTITY certerror.copyToClipboard.label "පෙළ පසුරු පුවරුවට පිටපත් කරන්න">
 
+<!ENTITY errorReporting.automatic "Mozilla ට මෙවැනි නිසිලෙස සකසු අඩවි ගැන දැන ගැනීමට උදව් වීම සඳහා මෙවැනි දෝෂ වාර්ථා කරන්න">
