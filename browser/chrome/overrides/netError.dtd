@@ -100,11 +100,9 @@
 <!ENTITY nssFailure2.title "La connexiun segira n'è betg reussida">
 <!ENTITY nssFailure2.longDesc2 "<p>La pagina dumandada na po betg vegnir mussada, perquai che l'autenticitad da las datas na po betg vegnir verifitgada.</p><ul><li>Contactescha per plaschair ils administraturs da la website per infurmar els davart quest problem.</li></ul>">
 
-<!ENTITY nssBadCert.title "La connexiun segira n'è betg reussida">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Quai pudess esser in problem cun la configuraziun dal server, u insatgi vul sa dar per quest server.</li> 
-<li>Sche ti has connectà cun success cun quest server en il passà, sa tracti eventualmain mo d'ina errur temporara e ti pos empruvar pli tard anc ina giada.</li> 
-</ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>Eventualmain n'è la website temporarmain betg cuntanschibla. Emprova per plaschair pli tard anc ina giada.</li> 
@@ -119,21 +117,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>La pagina che ti emprovas da contemplar na po betg vegnir mussada pervia dad ina errur en las datas tramessas.</p><ul><li>Contactescha per plaschair il possessur da la website per l'infurmar davart quest problem.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Ti pos era agiuntar ina regla d'excepziun…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Bandunar questa pagina!">
 <!ENTITY securityOverride.exceptionButtonLabel "Agiuntar in'excepziun…">
-
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-<!ENTITY securityOverride.warningContent "
-<p>Ti na duessas betg agiuntar in'excepziun, sche ti na ta fidas betg absolutamain da la segirezza da la connexiun actuala u sche ti n'has fin ussa betg retschavì in avertiment per quest server.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
 
 <!ENTITY errorReporting.automatic2 "Rapportar talas errurs per gidar a Mozilla dad identifitgar e bloccar paginas che pon donnegiar tes computer">
 <!ENTITY errorReporting.learnMore "Ulteriuras infurmaziuns…">
@@ -153,3 +137,7 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoAdvanced.title "Extendì">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> utilisescha ina tecnologia da segirezza antiquada e vulnerabla per attatgas. In attatgader pudess leger senza gronds sforzs las infurmaziuns che paran dad esser segiradas.">
 <!ENTITY weakCryptoAdvanced.override "(Betg segir) Emprova da chargiar <span class='hostname'></span> cun utilisar ina tecnologia da segirezza antiquada">
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
