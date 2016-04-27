@@ -24,9 +24,10 @@
 
 <!ENTITY  onboard_start_restricted1 "ปลอดภัยและอยู่ในการควบคุมด้วยรุ่นแบบเรียบง่ายนี้ของ &brandShortName;">
 
+<!ENTITY  reading_list_migration_title "เชื่อมต่อรายการอ่านแล้ว">
 
 <!ENTITY  reading_list_migration_goto_bookmarks "ไปยังที่คั่นหน้า">
-
+<!ENTITY  reading_list_migration_bookmarks_hidden "แผงที่คั่นหน้าของคุณถูกซ่อน">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -171,11 +172,11 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_category_advanced "ขั้นสูง">
-
+<!ENTITY pref_category_advanced_summary3 "การเรียกคืนแท็บ การประหยัดข้อมูล เครื่องมือนักพัฒนา">
 <!ENTITY pref_category_notifications "การแจ้งเตือน">
-
-
-
+<!ENTITY pref_category_notifications_summary "คุณลักษณะใหม่ การปรับปรุงเว็บไซต์">
+<!ENTITY pref_content_notifications "การปรับปรุงเว็บไซต์">
+<!ENTITY pref_content_notifications_summary2 "ค้นพบเนื้อหาใหม่จากไซต์ที่รองรับ">
 <!ENTITY pref_developer_remotedebugging_usb "การดีบั๊กระยะไกลผ่าน USB">
 <!ENTITY pref_developer_remotedebugging_wifi "การดีบั๊กระยะไกลผ่าน Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "การดีบั๊กบน Wi-Fi จำเป็นต้องให้อุปกรณ์ของคุณมีแอปตัวอ่านรหัส QR ติดตั้งอยู่">
@@ -186,7 +187,7 @@
 <!ENTITY pref_category_home_summary "ปรับแต่งหน้าแรกของคุณ">
 <!ENTITY pref_category_home_panels "แผง">
 <!ENTITY pref_category_home_add_ons "ส่วนเสริม">
-
+<!ENTITY pref_home_updates2 "การปรับปรุงเนื้อหา">
 <!ENTITY pref_home_updates_enabled "ถูกเปิดใช้งาน">
 <!ENTITY pref_home_updates_wifi "เฉพาะผ่าน Wi-Fi">
 <!ENTITY pref_category_home_homepage "หน้าแรก">
@@ -222,6 +223,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "ถูกเปิดใช้งาน ยกเว้นจากบุคคลที่สาม">
 <!ENTITY pref_cookies_disabled "ถูกปิดใช้งาน">
 
+<!ENTITY pref_category_data_saver "การประหยัดข้อมูล">
 <!ENTITY pref_category_media "สื่อ">
 <!ENTITY pref_category_developer_tools "เครื่องมือนักพัฒนา">
 
@@ -243,7 +245,7 @@
 <!ENTITY pref_tracking_protection_disabled "ถูกปิดใช้งาน">
 
 <!ENTITY pref_whats_new_notification "มีอะไรใหม่ใน &brandShortName;">
-
+<!ENTITY pref_whats_new_notification_summary "เรียนรู้เกี่ยวกับคุณลักษณะใหม่หลังจากการปรับปรุง">
 
 <!ENTITY tracking_protection_prompt_title "ขณะนี้มาพร้อมการป้องกันการตามรอย">
 <!ENTITY tracking_protection_prompt_text "ปิดกั้นองค์ประกอบที่ตามรอยอย่างต่อเนื่อง คุณจึงไม่จำเป็นต้องกังวล">
@@ -282,10 +284,12 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!ENTITY content_notification_title_plural "ปรับปรุง &formatD; เว็บไซต์แล้ว">
+<!ENTITY content_notification_action_settings "ตั้งค่าการแจ้งเตือน">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "ปรับปรุงเมื่อ &formatS;">
 
 <!ENTITY pref_char_encoding "รหัสอักขระ">
 <!ENTITY pref_char_encoding_on "แสดงเมนู">
@@ -349,6 +353,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "ดาวน์โหลด">
 <!ENTITY pref_private_data_syncedTabs "แท็บที่ผสาน">
 
+<!ENTITY pref_default_browser "ทำให้เป็นเบราว์เซอร์ปริยาย">
 <!ENTITY pref_about_firefox "เกี่ยวกับ &brandShortName;">
 <!ENTITY pref_vendor_faqs "คำถามที่พบบ่อย">
 <!ENTITY pref_vendor_feedback "เสนอข้อคิดเห็น">
