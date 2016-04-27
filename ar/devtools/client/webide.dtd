@@ -79,7 +79,7 @@
 <!ENTITY runtimePanel_other "أخرى">
 <!ENTITY runtimePanel_installsimulator "ثبّت محاكيًا">
 <!ENTITY runtimePanel_noadbhelper "ثبّت «مساعد Adb»">
-<!ENTITY runtimePanel_nousbdevice "لم تجد جهازك؟">
+
 
 <!-- Lense -->
 

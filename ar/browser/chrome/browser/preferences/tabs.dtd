@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "نبّهني عند فتح عدة ألسنة أن هذا قد يبطئ &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "ف">
 
-<!ENTITY restoreTabsOnDemand.label        "لا تحمّل الألسنة إلا بعد اختيارها">
-<!ENTITY restoreTabsOnDemand.accesskey    "خ">
-
 <!ENTITY switchToNewTabs.label        "عند فتح رابط في لسان جديد، انتقل إليه مباشرة">
 <!ENTITY switchToNewTabs.accesskey    "ط">
 

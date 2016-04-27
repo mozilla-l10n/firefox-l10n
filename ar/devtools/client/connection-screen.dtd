@@ -23,8 +23,6 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-
-<!ENTITY remoteHelp "يمكن لأدوات فيرفكس للمطورين تنقيح الأجهزة البعيدة (فيرفكس لأندرويد ونظام فيرفكس مثلًا). تأكد من تفعيل خيار ’التنقيح البعيد‘ في الجهاز البعيد. للمزيد، طالع ">
 <!ENTITY remoteDocumentation "التوثيق">
 <!ENTITY remoteHelpSuffix ".">
 
