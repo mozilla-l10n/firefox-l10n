@@ -11,7 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "O">
 <!ENTITY helpTroubleshootingInfo.label      "Tietoja ongelmatilanteisiin">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
-<!ENTITY helpSafeMode.label     "Käynnistä uudelleen lisäosat pois päältä…">
+<!ENTITY helpSafeMode.label     "Käynnistä uudelleen ilman lisäosia…">
 <!ENTITY helpSafeMode.accesskey "K">
 <!ENTITY releaseCmd2.label "Julkaisutiedot">
 <!ENTITY releaseCmd2.accesskey "J">
