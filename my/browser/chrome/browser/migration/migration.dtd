@@ -13,8 +13,8 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
-<!ENTITY importFromNothing.label        "တစုံတခုကို မတင်သွင်းပါနဲ့">
-<!ENTITY importFromNothing.accesskey    "မ">
+
+
 <!ENTITY importFromSafari.label         "ဆာဖာရီ">
 <!ENTITY importFromSafari.accesskey     "ဆ">
 <!ENTITY importFromCanary.label         "Chrome Canary">

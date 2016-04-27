@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "လုံခြုံသော ရှာဖွေခြင်းအား ပိတ်ထားခြင်းကို အားမပေးပါအဘယ့်ကြောင့်ဆိုသော် မလုံခြုံသော ဝတ်ဆိုက်များမှ တိုက်ခိုက်ခြင်းကို ခံရနိုင်ဖွယ်ရှိသောကြောင့်ဖြစ်သည်။၎င်းအောင်း သင်အမှန်တကယ် ဖြုတ်ချင်လိုပါက အောက်ပါအချက်များကိုလိုက်လံဆောင်ရွက်ပါ :">
 <!ENTITY rights.safebrowsing-term1 "အက်ပလီးကေးရှင်းအပြင်အဆင်များအားဖွင့်ပါ။">
 <!ENTITY rights.safebrowsing-term2 "လုံခြုံရေးအပြင်အဆင်အားရွေးပါ">
-<!ENTITY rights.safebrowsing-term3 "ရွေးပိုင်ခွင့် &quot;&blockAttackSites.label;&quot; နှင့် &quot;&blockWebForgeries.label;&quot; တို့ကို ပယ်ဖျယ်ပါ">
+
 <!ENTITY rights.safebrowsing-term4 "လုံခြုံသောအင်တာနက်အသုံးပြုခြင်းအပြင်အဆင်အား ဖျက်သိမ်းပြီး။">
 <!-- location aware browsing points for branded builds -->
 

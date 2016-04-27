@@ -23,8 +23,6 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-
-<!ENTITY remoteHelp "မီးမြေခွေး တီထွင်သူများဆိုင်ရာ ကိရိယာများသည် အဝေးရောက်ကိရိယာများ(ဥပမာအားဖြင့် အန်းဒရွိုက်အတွက် မီးမြေခွေး၊ မီးမြေခွေးစနစ်)ကို အမှားစစ်နိုင်သည်။ သင်သည် အဝေးရောက်ကိရိယာရှိ 'အဝေးထိန်းအမှားစစ်ခြင်း' ကို ဖွင့်ပေးရန် လိုအပ်သည်။ ">
 <!ENTITY remoteDocumentation "မှတ်တမ်းမှတ်ရာတွင် အသေးစိတ်ကြည့်ပါ။">
 <!ENTITY remoteHelpSuffix ".">
 

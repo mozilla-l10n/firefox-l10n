@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; တပ်ဆင်ခြင်း">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "ကြိုဆိုပါတယ်။ &syncBrand.fullName.label; ကို တစ်ခါမှ အသုံးမပြုဖူးဘူးဆိုရင် ပထမဆုံး အကောင့်အသစ်တစ်ခု တည်ဆောက်ဖို့ လိုအပ်ပါတယ်။">
 <!ENTITY button.createNewAccount.label "အကောင့်အသစ်ပြုလုပ်မည်။">
 <!ENTITY button.haveAccount.label      "ကျွန်ုပ်တွင်အကောင့်တစ်ခုရှိပြီးဖြစ်သည်">
 
 <!ENTITY setup.choicePage.title.label     "သင်&syncBrand.fullName.label;အား ယခင်က သုံးဘူးပါသလား?">
-<!ENTITY setup.choicePage.new.label       "&syncBrand.shortName.label; အားယခင်ကမသုံးဘူးပါ။">
-<!ENTITY setup.choicePage.existing2.label "အခြားစက်တွင် &syncBrand.shortName.label; အားသုံးပြီးဖြစ်သည်။">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "ဆာဗာ">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "ပစ္စည်းတစ်ခုအားတွဲမည်။">
 <!ENTITY addDevice.showMeHow.label          "မည်သို့လုပ်ရမည်ကိုကျွန်ုပ်အားပြပါ။">
-<!ENTITY addDevice.dontHaveDevice.label     "ကျွန်တော့်တွင်သင်နှင့်သုံးရန်ကိရိယာမရှိပါ။">
+
 <!ENTITY pairDevice.setup.description.label  "စသုံးရန်အတွက် &quot;ကိရိယာတပ်&quot; အားသင့် အီလက်ထရောနစ်ပစ္စည်းတွင်ရွေးပါ">
 <!ENTITY addDevice.setup.enterCode.label    "ထို့နောက်ကုဒ်အားဖြည့်သွင်းပါ။">
 <!ENTITY pairDevice.dialog.description.label "သင်၏ ကိရိယာအသစ်အား စသုံးရန် &quot;ထပ်တူချိတ်ဆက်အားတပ်ဆင်&quot; ကိုရွေးပါ">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "ပေါင်းထည့်ဆော့ဝဲများ">
 <!ENTITY engine.addons.accesskey    "ပ">
 
-<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
 <!ENTITY choice2.merge.recommended.label "အကြုံပြုထားသည့်အရာများ">
 <!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
-<!ENTITY choice2a.server.main.label      "အခြားကိရိယာများ ရှိ အချက်အလက်များအား ယခု ကိရိယာထဲရှိ အချက်အလက်များဖြင့် ဖယ်ရှားမည်။">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "အတည်ပြုပါ">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; သည် ယခုကိရိယာ၏ ဘယောက်ဆာ အချက်အလက်များအား ချိတ်ဆက်အကောင့်သို့ သယ်ယူသွားမည်။">
+
 <!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; သည် &syncBrand.fullName.label; မှအချက်အလက်အား ဤကိရိယာသို့ကူးယူမည်။">
 <!ENTITY confirm.server2.label         "သတိပေးချက်၊အောက်ပါကိရိယာများသည်သင်၏မူလအချက်အလက်များအထက်တွင်မှတ်သားသွားမည်ဖြစ်သည်။">

@@ -2,54 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "သင်သည် လက်ရှိတွင် သီးသန့်ဝင်းဒိုးတွင် ရှိမနေပါ။">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Pလုံခြုံရေးအထူးစနစ် အားဖွင့်ပါ။ ">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "သင်သည် လက်ရှိတွင် သီးသန့်ဝင်းဒိုးတွင် ရှိမနေပါ။">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Pလုံခြုံရေးအထူးစနစ် အားဖွင့်ပါ။ ">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-<!ENTITY privateBrowsing.title                 "လုံခြုံစွာဝတ်ဆိုက်ကြည့်ရှူခြင်း">
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
-     Width of the Private Browsing section. This should depend primarily on the
-     length of the headers and text, but should be roughly 1.5 times the width
-     of the Tracking Protection section, and in general not much larger than
-     30em to prevent the sections from wrapping on smaller window sizes.
-     -->
 
-<!ENTITY aboutPrivateBrowsing.width1           "30em">
-<!ENTITY aboutPrivateBrowsing.title            "သင်သည် သီးသန့် ရှာဖွေကြည့်ရှူနေသည်">
 
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "မသိမ်းဆည်းခဲ့ပါ">
-<!ENTITY aboutPrivateBrowsing.info.history     "မှတ်တမ်း">
-<!ENTITY aboutPrivateBrowsing.info.searches    "ရှာဖွေချက်များ">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "ကွတ်ကီးများ">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles " ယာယီ ဖိုင်များ">
 
-<!ENTITY aboutPrivateBrowsing.info.saved       "သိမ်းဆည်းပြီး">
-<!ENTITY aboutPrivateBrowsing.info.downloads   "ဒေါင်းလုဒ်ဖိုင်များ">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks   "မှတ်သားချက်များ">
 
-<!ENTITY aboutPrivateBrowsing.note1            "သင် သွားရောက်ခဲ့သော စာမျက်နှာများ ကို အင်တာနက် ဝန်ဆောင်မှု ပေးသူ (သို့) သင့် လုပ်ငန်းရှင်မှ ခြေရာခံနိုင်သည်ကို ကျေးဇူးပြု၍ သတိပြုပေးပါ">
-<!ENTITY aboutPrivateBrowsing.learnMore        "ဆက်လက်ဖတ်">
-<!-- LOCALIZATION NOTE (trackingProtection.width1):
-     Width of the Tracking Protection section. It is fine for the enabled or
-     disabled indicator or the words in the title to wrap to the next line, but
-     you can expand or reduce this section to fit better, as long as the width
-     of the Private Browsing section is roughly 1.5 times the width of this one.
-     Note that the required space may vary between platforms because fonts are
-     different, so testing on Windows, Mac, and Linux is encouraged.
-     -->
 
-<!ENTITY trackingProtection.width1             "22em">
-<!ENTITY trackingProtection.title              "ခြေရာခံခြင်း မှ အကာအကွယ်">
-<!-- LOCALIZATION NOTE (trackingProtection.state.width):
-     Width of the element representing the enabled or disabled indicator.
-     -->
 
-<!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "ဖွင့်">
-<!ENTITY trackingProtection.state.disabled     "ပိတ်">
 
-<!ENTITY trackingProtection.description1       "သီးသန့် ဝင်းဒိုး မှ သင့်အွန်လိုင်း လှုပ်ရှားမှုများကို ခြေရာခံနိုင်မည့် အစိတ်အပိုင်းများကို ပိတ်ပင်ထားပါသည်">
 
-<!ENTITY trackingProtection.disable            "ခြေရာခံခြင်း အကာကွယ်ကို ပိတ်မည်">
-<!ENTITY trackingProtection.enable             "ခြေရာခံခြင်း အကာကွယ်ကို ဖွင့်မည်">
-<!ENTITY trackingProtection.startTour1         "အလုပ်များ ဘယ်လို လုပ်သွားသည်ကို ကြည့်ပါ">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY trackingProtection.title                        "ခြေရာခံခြင်း မှ အကာအကွယ်">
+
+

@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "ဖိုင် မတွေ့ရပါ">
 <!ENTITY fileNotFound.longDesc "<ul><li>သင်ရှည်သည့်ပစ္စည်းအားအမည်ပြောင်းလိုက်ခြင်းသော်လည်ကောင်းရွေးလိုက်ခြင်းသော်လည်းကောင်းလုပ်လိုက်သေးလား။</li><li>လိပ်စာရေးရာတွင်စာလုံးပေါင်းအကြီးအသေးသို့မဟုတ်တိုက်ပိုအမှားများရှိနေလား</li><li>သို့မဟုတ်သင့်မှာ လုံလောက်သောခွင့်ပြုချက်ရရှိထားပါသလား</li></ul>">
 
+
+
 <!ENTITY generic.title "တောင်းဆိုချက်ကို မဖြည့်စွမ်းနိုင်ပါ">
 <!ENTITY generic.longDesc "<p>ဤမှားယွင်းမှူအတွက်နောက်ထပ်ဆက်လက်လေ့လာရန်အချက်အလက်များမရှိသေးပါ။</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "အားဖယ်ပါ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်အားဤပြသာနားအားတင်ပြရန်ဆက်သွယ်ပါ</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
