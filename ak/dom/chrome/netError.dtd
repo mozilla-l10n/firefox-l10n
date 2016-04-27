@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Ennhu fael no">
 <!ENTITY fileNotFound.longDesc "<ul><li>Etumi ba no sɛ ade a wo rehwehwɛ no wɔato no din foforo, woeyi efiri hɔ koraa anaaso wɔde kɔ beebi foforo</li><li>Mfomso bi wɔ adrɛs ne nkyerɛwee no mu anaa?</li><li>Wo wɔ tumi sɛ wo bɛhwɛ ade yi anaa?</li></ul>">
 
+
+
 <!ENTITY generic.title "Renntumi Nnwie Mbisae">
 <!ENTITY generic.longDesc "<p>Infɔmehyɛn fa haw anaaso mfomso yi bi nni hɔ.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "XUL remoot">
 <!ENTITY remoteXUL.longDesc "<p><ul><li> Yɛsrɛ wo sɛ bisa wɔn a wɛbsaet yi yɛ wɔn de ma wɔnhwɛ asɛm yi ho asɛm nka.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
