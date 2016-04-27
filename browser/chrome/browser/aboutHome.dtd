@@ -18,7 +18,6 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Kulula ukuqhelana ne-Firefox yakho kanye ngohlobo ofuna ngalo. <a>Khetha kumawaka ezongezelelo</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "I-&brandFullName; isimahla yaye yisoftwe evulekele uwonke-wonke ye-Mozilla Foundation engenzi-nzuzo. <a>Wazi amalungelo akho…</a>">
 

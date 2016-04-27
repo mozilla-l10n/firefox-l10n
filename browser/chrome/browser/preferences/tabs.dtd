@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Ndilumkise xa uvula iithebhu ezininzi ezingacothisa i-&brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "c">
 
-<!ENTITY restoreTabsOnDemand.label        "Musa ukulayisha iithebhu de zibe zikhethiwe">
-<!ENTITY restoreTabsOnDemand.accesskey    "d">
-
 <!ENTITY switchToNewTabs.label        "Xa ndivula ikhonkco kwithebhu entsha, tshintshela kuyo ngokukhawuleza">
 <!ENTITY switchToNewTabs.accesskey    "a">
 

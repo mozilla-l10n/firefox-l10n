@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "Udidi lwebhokisi">
-<!ENTITY margin.tooltip         "umda">
-<!ENTITY border.tooltip         "umda">
-<!ENTITY padding.tooltip        "Inyusela ukumila">
-<!ENTITY content.tooltip        "isiqulatho">
+<!ENTITY layoutViewTitle          "Udidi lwebhokisi">
+<!ENTITY margin.tooltip           "umda">
+<!ENTITY border.tooltip           "umda">
+<!ENTITY padding.tooltip          "Inyusela ukumila">
+<!ENTITY content.tooltip          "isiqulatho">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
