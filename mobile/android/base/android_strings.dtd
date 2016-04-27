@@ -3,11 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "I a pas pro d\u0027espaci disponible per permetre a &brandShortName; de s\u0027aviar.">
-<!ENTITY  error_loading_file "Una error s\u0027es producha en ensajant de cargar de fichièrs necessaris per aviar &brandShortName;">
-
-
-
 
 
 
@@ -24,12 +19,16 @@
 
 
 
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Marcapaginas">
 <!ENTITY  history_title "Istoric">
-<!ENTITY  reading_list_title "Lista de lectura">
+
 
 
 <!ENTITY  switch_to_tab "Anar a l\u0027onglet">
@@ -46,12 +45,6 @@
 <!ENTITY  sending_crash_report "Mandadís del rapòrt de plantatge\u2026">
 <!ENTITY  crash_close_label "Tampar">
 <!ENTITY  crash_restart_label "Tornar aviar &brandShortName;">
-<!ENTITY  exit_label "Sortir">
-
-<!ENTITY  launcher_shortcuts_title "Aplicacions Web per &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "Cap d\u0027aplicacion Web pas trobada">
-
-<!ENTITY choose_file "Causir un fichièr">
 
 
 
@@ -63,13 +56,20 @@
 <!ENTITY bookmark_updated "Marcapaginas mes a jorn">
 <!ENTITY bookmark_options "Opcions">
 
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+
 <!ENTITY history_today_section "Uèi">
 <!ENTITY history_yesterday_section "Ièr">
 
 
 
-
-<!ENTITY go "Anar">
 <!ENTITY search "Recercar">
 <!ENTITY reload "Tornar cargar">
 <!ENTITY forward "Pagina seguenta">
@@ -117,8 +117,6 @@
      "to bookmark", not the noun "a bookmark". -->
 
 
-
-
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -137,6 +135,7 @@
 
 
 <!ENTITY pref_category_datareporting "Donadas collectadas">
+
 <!ENTITY pref_learn_more "Ne saber mai…">
 <!ENTITY pref_category_installed_search_engines "Motors de recèrca installats">
 <!ENTITY pref_category_add_search_providers "Apondre de motors de recèrca">
@@ -150,7 +149,10 @@
      it is applicable. -->
 
 
-<!ENTITY pref_developer_remotedebugging "Desbugatge distant">
+
+
+
+
 
 
 
@@ -160,17 +162,10 @@
 <!ENTITY pref_category_home "Acuèlh">
 <!ENTITY pref_category_home_summary "Personalizatz vòstra pagina d\u0027acuèlh">
 <!ENTITY pref_category_home_panels "Panèls">
-<!ENTITY home_add_panel_title "Apondre un panèl novèl">
-
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
 
 
 <!ENTITY pref_home_updates_enabled "Activat">
 <!ENTITY pref_home_updates_wifi "Solament per Wi-Fi">
-
-
 
 
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -193,10 +188,17 @@
 
 
 
+
 <!ENTITY pref_cookies_menu "Cookies">
 
 <!ENTITY pref_cookies_not_accept_foreign "Autorizats, levat cookies tèrces">
 <!ENTITY pref_cookies_disabled "Desactivat">
+
+
+
+
+
+
 
 
 
@@ -234,6 +236,15 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "Encodatge de caractèrs">
 <!ENTITY pref_char_encoding_on "Afichar lo menú">
 <!ENTITY pref_char_encoding_off "Amagar lo menú">
@@ -245,7 +256,7 @@
 
 <!ENTITY pref_plugins "Empeutons (Plugins)">
 
-<!ENTITY pref_plugins_tap_to_play "Tocar per aviar la lectura">
+
 
 <!ENTITY pref_text_size "Talha del tèxte">
 
@@ -293,7 +304,6 @@ size. -->
 
 
 
-
 <!ENTITY pref_about_firefox "A prepaus de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Retorns d\u0027utilizacion">
@@ -310,11 +320,12 @@ size. -->
 
 
 <!ENTITY datareporting_notification_title "estatisticas &amp; donadas de &brandShortName;">
-<!ENTITY datareporting_notification_action_long "Causir quinas informacions mandi">
 <!ENTITY datareporting_notification_action "Causir çò que mandi">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Causir quinas informacions mandi">
 <!ENTITY datareporting_notification_summary "Per melhorar vòstra navigacion, &brandShortName; manda automaticament certanas informacions a &vendorShortName;.">
-
-
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -362,7 +373,6 @@ size. -->
 
 
 <!ENTITY tabs_private "Privats">
-<!ENTITY tabs_synced "Sincronizats">
 <!ENTITY set_image_fail "Impossible de partejar aqueste imatge">
 
 <!ENTITY set_image_chooser_title "Enregistrar l\u0027imatge jos">
@@ -392,8 +402,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Espingolar aqueste Site">
 <!ENTITY contextmenu_top_sites_unpin "Despingolar aqueste Site ">
 <!ENTITY contextmenu_add_search_engine "Apondre un motor de recèrca">
-
-
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -431,16 +439,6 @@ size. -->
 <!ENTITY site_settings_title3       "Paramètres del site">
 
 <!ENTITY site_settings_clear        "Escafar">
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-<!ENTITY reading_list_removed "Pagina levada de vòstra lista de lectura">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_duplicate "Pagina ja aponduda a vòstra lista de lectura">
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -469,27 +467,17 @@ size. -->
 
 
 
+
 <!ENTITY home_last_tabs_title "Vòstres darrièrs onglets dobèrts">
 
 
 <!ENTITY home_most_recent_empty "Los sites visitats recentament s\u0027afichan aicí.">
-
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_reading_list_empty "Los articles enregistrats per pus tard s\u0027afichan aicí. ">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_remote_tabs_title "Onglets sincronizats">
-
-<!ENTITY home_remote_tabs_unable_to_connect "Impossible de se connectar">
-
-
-
-
-
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -535,7 +523,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Ne saber mai">
-
 
 
 
@@ -606,7 +593,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -651,4 +637,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+
+
+
 

@@ -29,78 +29,17 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiquetas">
 <!ENTITY bookmarks.folder.toolbar.label "Barra personala">
-<!ENTITY bookmarks.folder.unfiled.label "Marcapaginas pas ordenats">
+
 <!ENTITY bookmarks.folder.desktop.label "Marcapaginas ordenador">
 <!ENTITY bookmarks.folder.mobile.label "Marcapaginas mobils">
-<!ENTITY bookmarks.folder.readinglist.label "Lista de lectura">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Espingolat">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Installar &syncBrand.shortName.label; per mandar d\u0027onglets">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Installar &syncBrand.fullName.label; sus vòstre aparelh per mandar d\u0027onglets a d\u0027autres aparelhs.">
-<!ENTITY sync.text.tab.sent.label "Vòstre onglet es estat mandat !">
-<!ENTITY sync.text.tab.not.sent.label "Un problèma s\u0027es produch al moment del mandadís de vòstre onglet.">
 <!-- Firefox Account strings. -->
-
-
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_password_hide "Amagar">
-<!ENTITY fxaccount_password_show "Afichar">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
-
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Se connectar a &syncBrand.shortName.label;">
-
-
-
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
-
-
-
-
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_button "Seguent">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Causir çò que mandi">
-
-
-
-
-
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Ne saber mai…">
-
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -158,12 +97,8 @@
 
 
 
-
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
