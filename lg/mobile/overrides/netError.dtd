@@ -24,10 +24,10 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kebera erinnya ly'enteresi oba liri mu nnukuta nnene oba lyasobeddwa mukuliwandiika.</li> <li>Kebera olabe oba enteresi yagyibwawo, oba ya kyusibbwa erinnya oba nga lyasanguddwa.</li> </ul>">
 
 
-<!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "<p>&brandShortName; terisobola kutikka muko guno olw'ensonga ezimu.</p>">
 
-<!ENTITY malformedURI.title "Endagiriro tetukana">
+<!ENTITY generic.title "Oops.">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -35,7 +35,7 @@
 
 
 <!ENTITY notCached.title "Ekiseera kyekiwandiko Kiwedeko">
-<!ENTITY notCached.longDesc "<p>Ekiwandiko ekisabbidwa tekiriwo mu terekero lya &brandShortName;'s.</p><ul><li>Nga ekyokwerinda, &brandShortName; tedamu kusaba ekiwandiko nga kino yoka.</li><li>Koona Gezako Nate okudamu okusaba ekiwandiko okuva ku kibanja kya yo.</li></ul>">
+
 
 <!ENTITY netOffline.title "Toli ku lutimbe">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -53,7 +53,6 @@
 <!ENTITY netTimeout.title "Obudde bw'okuyunga buweddeyo">
 
 
-<!ENTITY unknownProtocolFound.title "Endagiriro teyategeerekese">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Oyinza okwetaaga okuteekamu pulogulamu za kompyuta endala okuggulawo endagiriro eno.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Kompyuta enfuga zinayo egaanyi obuyunzi">
@@ -63,7 +62,6 @@
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY redirectLoop.title "Omuko guno tegulagirira bulungi">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Obuzibu buno oluusi busobola okuleetebwa okulemesa oba okugaana okukiriza  kuki.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Engabirizi ezemu nga tekissubirwa">
@@ -73,7 +71,7 @@
 
 
 <!ENTITY nssBadCert.title "Okuyunga Okwesigika Kugaanye">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Kino kisobola okuba ekizibu ekivudde ku nteekateeka ya enviisirizi kagaba, oba kisobola okuba nga waliwo agezaako okwefuula kagaba.</li> <li>Bwoba ng'oyungiddwa ku ngabizi bulungi emabegako, ensobi eyinza obutaba yaluberera era oyinza okugezako edda.okuba yakaseera katono, osobola okuddamu okugezaako oluvannyuma.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -102,3 +100,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
