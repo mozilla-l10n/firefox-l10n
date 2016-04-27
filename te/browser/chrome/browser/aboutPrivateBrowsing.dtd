@@ -2,54 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "మీరు ప్రస్తుతం అంతరంగిక విండోలో లేరు.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "ఆంతరంగిక విండో తెరువుము">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "మీరు ప్రస్తుతం అంతరంగిక విండోలో లేరు.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "ఆంతరంగిక విండో తెరువుము">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-<!ENTITY privateBrowsing.title                 "గోప్య వీక్షణం">
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
-     Width of the Private Browsing section. This should depend primarily on the
-     length of the headers and text, but should be roughly 1.5 times the width
-     of the Tracking Protection section, and in general not much larger than
-     30em to prevent the sections from wrapping on smaller window sizes.
-     -->
 
-<!ENTITY aboutPrivateBrowsing.width1           "30em">
-<!ENTITY aboutPrivateBrowsing.title            "మీరు రహస్యంగా విహారిస్తున్నారు">
 
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "భద్రపరచబడనివి">
-<!ENTITY aboutPrivateBrowsing.info.history     "చరిత్ర">
-<!ENTITY aboutPrivateBrowsing.info.searches    "శోధనలు">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "కుకీలు">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "తాత్కాలిక ఫైళ్ళు">
 
-<!ENTITY aboutPrivateBrowsing.info.saved       "భద్రమయ్యేవి">
-<!ENTITY aboutPrivateBrowsing.info.downloads   "డౌన్‌లోడ్లు">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks   "ఇష్టాంశాలు">
 
-<!ENTITY aboutPrivateBrowsing.note1            "మీరు ఏయే పేజీలు చూసారో ఇప్పటికీ మీ యాజమాన్యం లేదా మీ అంతర్జాల సేవాదారు తెలుసుకోగలరని గమనించండి.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "ఇంకా తెలుసుకోండి.">
-<!-- LOCALIZATION NOTE (trackingProtection.width1):
-     Width of the Tracking Protection section. It is fine for the enabled or
-     disabled indicator or the words in the title to wrap to the next line, but
-     you can expand or reduce this section to fit better, as long as the width
-     of the Private Browsing section is roughly 1.5 times the width of this one.
-     Note that the required space may vary between platforms because fonts are
-     different, so testing on Windows, Mac, and Linux is encouraged.
-     -->
 
-<!ENTITY trackingProtection.width1             "22em">
-<!ENTITY trackingProtection.title              "ట్రాకింగ్ సంరక్షణ">
-<!-- LOCALIZATION NOTE (trackingProtection.state.width):
-     Width of the element representing the enabled or disabled indicator.
-     -->
 
-<!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "చేతనం">
-<!ENTITY trackingProtection.state.disabled     "అచేతనం">
 
-<!ENTITY trackingProtection.description1       "పేజీలలో మీ విహారణ జాడ తెలుసుకునే భాగాలను అంతరంగిక కిటికీలు ఇప్పడు నిరోధిస్తాయి.">
 
-<!ENTITY trackingProtection.disable            "ట్రాకింగ్ సంరక్షణను అచేతనించు">
-<!ENTITY trackingProtection.enable             "ట్రాకింగ్ సంరక్షణను చేతనించు">
-<!ENTITY trackingProtection.startTour1         "ఇది ఎలా పనిచేస్తుందో చూడండి">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY trackingProtection.title                        "ట్రాకింగ్ సంరక్షణ">
+
+

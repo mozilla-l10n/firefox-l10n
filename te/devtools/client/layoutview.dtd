@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "పెట్టె రకం">
-<!ENTITY margin.tooltip         "మార్జిన్">
-<!ENTITY border.tooltip         "హద్దు">
-<!ENTITY padding.tooltip        "పాడింగ్">
-<!ENTITY content.tooltip        "విషయం">
+<!ENTITY layoutViewTitle          "పెట్టె రకం">
+<!ENTITY margin.tooltip           "మార్జిన్">
+<!ENTITY border.tooltip           "హద్దు">
+<!ENTITY padding.tooltip          "పాడింగ్">
+<!ENTITY content.tooltip          "విషయం">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
