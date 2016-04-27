@@ -18,6 +18,8 @@
 
 <!ENTITY fileNotFound.longDesc "<ul><li>Fa selo se teilwe leina sesha, se ntshiwa kana se fudusitswe?</li><li>Aa gona le phosego ya mokwalo mo atereseng?</li><li>Aa o na le teseletso e e motia mo selong se o se batlang?</li></ul>">
 
+
+
 <!ENTITY generic.title "Ga e kgone go feleletsa topo">
 <!ENTITY generic.longDesc "<p>Tshedimosetso ya tlaleletso ka bothata jo kgotsa phoso gaeyo mo bogompienong.</p>">
 
@@ -75,3 +77,6 @@
 
 <!ENTITY remoteXUL.title "Ntsha XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

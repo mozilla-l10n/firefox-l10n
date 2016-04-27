@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Ikwadise mo Tsebeng e...">
 <!ENTITY addCurPagesCmd.label "Ikwadise mo Tsebeng e...">
 <!ENTITY showAllBookmarks2.label "Supa Matshwaotsebe Otlhe">
-<!ENTITY unsortedBookmarksCmd.label "Matshwaotsebe a sa Tlhaolwang">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Supa matshwaotsebe a le mantsi">
 
 <!ENTITY backCmd.label                "Morago">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Leba molaetsa - polokelo o sa golaganang wa tiriso">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Laola tshedimosetso ya gago ya go tsena">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Netefatsa fa o batla go boloka khunololamoraba ya gago">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Leba molaetsa - tsenyo wa tiriso">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Laola tiriso ya segokaganyi mo tsebeng e">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Fetola gore a o kgona go amogela dikitsiso gotsweng mo saeteng">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Matshwaotsebe">
-<!ENTITY bookmarksMenuButton.unsorted.label "Matshwaotsebe a sa Tlhaolwang">
+
 <!ENTITY viewBookmarksSidebar2.label        "&amp;Leba Matshwaotsebe a Barathoko">
 <!ENTITY viewBookmarksToolbar.label         "&amp;Leba Matshwaotsebe a Bara ya didiriswa">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Mmopi wa Webo">
 <!ENTITY webDeveloperMenu.accesskey   "M">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Tlamela Badiri">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Gokaganya">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "Phoso Console">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-
-<!ENTITY remoteWebConsoleCmd.label    "Console ya Webo e Kgakala">
-
-<!ENTITY browserConsoleCmd.label      "Console ya Sebatli">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
-
 <!ENTITY inspectContextMenu.label     "Tlhatlhoba Tlhakakaelo">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "Tsibogo ya Tebego ya thadiso">
-<!ENTITY responsiveDesignTool.accesskey "T">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Setsholetsammala">
-<!ENTITY eyedropper.accesskey "S">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Pampitshana ya Kgobola Kgobola">
-<!ENTITY scratchpad.accesskey         "P">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Bokoso ya Didirisiwa ya Sebatli">
-<!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Sebatlii sa Sediriswa Diteng">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Tswala Bara ya didiriswa ya Mmopi">
-<!ENTITY devToolbarMenu.label              "Bara ya Didirisiwa ya Mmopi">
-<!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY webide.label                      "Webo ya IDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Thefosano ya Didirisiwa">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Thefosano Didirisiwa tsa Mmopi">
-<!ENTITY devToolbarOtherToolsButton.label  "Didirisiwa tse Dintsi">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Tsaya Didirsiwa tse Dintsi">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "D">
 
 <!ENTITY fileMenu.label         "Faele"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Sega">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "S"> 
-<!ENTITY copyCmd.label            "Kopolola">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
+
 <!ENTITY pasteCmd.label           "Kgomaretsa">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "K"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Bula Menu wa Thuso">
 
 <!ENTITY appMenuRemoteTabs.label "Rulaganya ka tsamaisano Dithebe">
-<!ENTITY appMenuRemoteTabs.fetching.label "Tseyo Dithebe tse di Rulagantsweng ka tsamaiso...">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ga gona dithebe tse di butsweng">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Tsena tirong mo Firefox o dirisa didiriswa tse dingwe tsa gago go leba dithebe tsa tsone fa.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Thulaganya ka tsamaisano ya Dikgethwa">
 
 
@@ -765,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Kgolagano ya gago mo saete eno ga e poraefete. Tshedimosetso e o e romelang e ka lebiwa ke batho ba bangwe (jaaka dikhunololamoraba, melaetsa, dikaratamolato, le tse dingwe.).">
 
 <!ENTITY identity.description.weakCipher "Kgolagano ya gago mo saete eno e dirisa mokgwatshireletso o bokoa gape ga e poraefete.">
-<!ENTITY identity.description.weakCipher2 "Batho bangwe ba kgona go leba tshedimosetso ya gago kgotsa go fetola tiro - tsamaiso ya webosaete.">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; e kgoreleditse dikarolo tsa tsebe eno tse di sa sireletsegang.">
 <!ENTITY identity.description.passiveLoaded "Kgolagano ya gago ga e poraefete ka jalo tshedimosetso e o e abelanang le saete e ka lebiwa ke batho ba bangwe.">
 <!ENTITY identity.description.passiveLoaded2 "Webosaete eno e tshotse diteng tse di sa sireletsegang (jaaka ditshwantsho).">
@@ -791,13 +719,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Dithebe tsa Sebatli">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
-<!ENTITY syncedTabs.sidebar.fetching.label     "Tseyo ya Dithebe tse di Rulagantsweng ka tsamaiso...">
+
+
 
 
 
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
+
+
+
 
 
 
