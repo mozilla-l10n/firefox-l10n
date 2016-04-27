@@ -2,54 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "अहाँ अखन निजी विंडो मे नहि छी.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "निजी विंडो खोलू (P)">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "अहाँ अखन निजी विंडो मे नहि छी.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "निजी विंडो खोलू (P)">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-<!ENTITY privateBrowsing.title                 "निज ब्राउजिंग">
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
-     Width of the Private Browsing section. This should depend primarily on the
-     length of the headers and text, but should be roughly 1.5 times the width
-     of the Tracking Protection section, and in general not much larger than
-     30em to prevent the sections from wrapping on smaller window sizes.
-     -->
 
-<!ENTITY aboutPrivateBrowsing.width1           "30em">
-<!ENTITY aboutPrivateBrowsing.title            "अहाँ निजी तौर पर ब्राउज़ कए रहल छी">
 
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "नहि सहेजल गेल">
-<!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
-<!ENTITY aboutPrivateBrowsing.info.searches    "ताकू">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "कुकीज">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "अस्थाई फाइल">
 
-<!ENTITY aboutPrivateBrowsing.info.saved       "सहेजल गेल">
-<!ENTITY aboutPrivateBrowsing.info.downloads   "डाउनलोड">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bookmarks">
 
-<!ENTITY aboutPrivateBrowsing.note1            "कृपया ध्यान राखू कि अहाँक कर्मचारी वा इन्टरनेट सेवा प्रदाता ओ पृष्ठ कए जेकरा अहाँ विजिट करैत छी ओहि पर नजर राखि सकैत अछि">
-<!ENTITY aboutPrivateBrowsing.learnMore        "बेसी  जानू.">
-<!-- LOCALIZATION NOTE (trackingProtection.width1):
-     Width of the Tracking Protection section. It is fine for the enabled or
-     disabled indicator or the words in the title to wrap to the next line, but
-     you can expand or reduce this section to fit better, as long as the width
-     of the Private Browsing section is roughly 1.5 times the width of this one.
-     Note that the required space may vary between platforms because fonts are
-     different, so testing on Windows, Mac, and Linux is encouraged.
-     -->
 
-<!ENTITY trackingProtection.width1             "26em">
-<!ENTITY trackingProtection.title              "ट्रैकिंग सुरक्षा">
-<!-- LOCALIZATION NOTE (trackingProtection.state.width):
-     Width of the element representing the enabled or disabled indicator.
-     -->
 
-<!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "शुरू">
-<!ENTITY trackingProtection.state.disabled     "बन्न">
 
-<!ENTITY trackingProtection.description1       "आब निजी विंडो पृष्ठ केर ओहि भाग कए ब्लॉक कए सकैत अछि, जे अहाँक ऑनलाइन गतिविधि ट्रैक कए सकैत अछि. ">
 
-<!ENTITY trackingProtection.disable            "ट्रैकिंग सुरक्षा बन्न करू">
-<!ENTITY trackingProtection.enable             "ट्रैकिंग सुरक्षा चालू करू">
-<!ENTITY trackingProtection.startTour1         "देखू ई कोन तरहे काज करैत अछि">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY trackingProtection.title                        "ट्रैकिंग सुरक्षा">
+
+

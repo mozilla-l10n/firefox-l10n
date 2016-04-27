@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "हमरा चेताउ जखन अनेक टैबक खोलनाइ &brandShortName; केँ धीमा करैत अछि">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "जखन धरि चुनल नहि जाए टैब लोड नहि करू (u)">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
-
 <!ENTITY switchToNewTabs.label        "जखन हम नव टैब मे कड़ी खोलैत छी, एहिमे तुरंत जाउ">
 <!ENTITY switchToNewTabs.accesskey    "h">
 

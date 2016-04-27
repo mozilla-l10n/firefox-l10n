@@ -19,23 +19,23 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "सर्वर नहि भेटल">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>पता केँ टाइपिंग त्रुटि क लेल जाँचे जहिना जे <strong>ww</strong>.example.com बजाए <strong>www</strong>.example.com के</li> <li> जँ  अहाँ ककरो पृष्ठ केँ लोड करब मे असमर्थ अछि , अपने कंप्यूटर सँजाल कनेक्शन क जाँच  करू .</li> <li> जँ  अहाँक कंप्यूटर अथवा सँजाल फायरवाल अथवा प्राक्सी सँ सुरक्षित  अछि , सुनिश्चित करू जे &brandShortName; केँ वेब क अभिगम क लेल अनुमति प्राप्त  अछि .</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "फाइल नहि भेटल">
 <!ENTITY fileNotFound.longDesc "<ul> <li>कैपिटलाइजेशन अथवा दूसरी टाइपिंग त्रुटि क लेल फाइल नाम जाँचू.</li> <li>जाँचे ई देखब क लेल जे फाइल खिसकलया, फेर नामकरण कएल अथवा मेटायल गेल छल.</li> </ul>">
 
 
-<!ENTITY generic.title "ओफ्फ.">
-<!ENTITY generic.longDesc "<p>&brandShortName; किछु कारणक लेल एहि पृष्ठ केँ लोड नहि कए सकैत अछि .</p>">
 
-<!ENTITY malformedURI.title "पता वैध नहि अछि ">
-<!ENTITY malformedURI.longDesc "<ul> <li>वेब पता प्रायः एहि तरह लिखा जाएत अछि <strong>http://www.example.com/</strong></li> <li>सुनिश्चित करू जे अहाँ फारवर्ड स्लैश क प्रयोग कए रहल छी (यानी <strong>/</strong>).</li> </ul>">
+<!ENTITY generic.title "ओफ्फ.">
+
+
+
 
 <!ENTITY netInterrupt.title "कनेक्शन बाधित कएल गेल छल">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "दस्तावेजक समय खतम भेल">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
 
 <!ENTITY netOffline.title "Offline mode">
 <!ENTITY netOffline.longDesc2 "<ul> <li>&quot;फेर कोशिश करू&quot; केँ आनलाइन अवस्थामे जएबाक लेल दबाउ आओर पृष्ठ फेर लोड करू.</li> </ul>">
@@ -52,7 +52,6 @@
 <!ENTITY netTimeout.title "कनेक्शनक समय समाप्त भए गेल">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "पता समझाएल नहि गेल छल">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>अहाँ आन साफ्टवेयर कए एहि पता कए खोलबाक लेल स्थापित कए सकैत छी.</li> .</ul>">
 
 <!ENTITY proxyConnectFailure.title "प्राक्सी सर्वर कनेक्शन अस्वीकार कए रहल अछि ">
@@ -61,19 +60,17 @@
 <!ENTITY proxyResolveFailure.title "प्राक्सी सर्वर ढ़ूढ़वमे असमर्थ">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>प्राक्सी सेटिंगक जाँच सुनिश्चित करबाक लेल करू जे ओ सही अछि.</li> <li>सुनिश्चित करबाक लेल जाँचू जे अहाँक कंप्यूटरक पास कार्यशील सँजाल कनेक्शन अछि .</li> <li> जों अहाँक कंप्यूटर वा सँजाल फायरवाल वा प्राक्सीसँ सुरक्षित अछि, सुनिश्चित करू कि &brandShortName; क वेबक अभिगमक लेल अनुमति प्राप्त अछि.</li> </ul>">
 
-<!ENTITY redirectLoop.title "पृष्ठ ठीकसँ पुनर्निर्देशित नहि कए रहल अछि ">
 <!ENTITY redirectLoop.longDesc "<ul> <li>ई समस्या कहियो-कहियो कुकीक स्वीकार करब वा निष्क्रिय करबाक कारण होइत अछि.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "सर्वर सँ अप्रत्याशित अनुक्रिया">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>सुनिश्चित करबाक लेल जाँचू जे अहाँक सिस्टम मे निज सुरक्षा प्रबंधक स्थापित अछि .</li> <li>इ सर्वर पर केकरो गैर मानक विन्यासक कारण भए सकैत अछि.</li> </ul>">
 
-<!ENTITY nssFailure2.title "सुरक्षित कनेक्शन विफल">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>पृष्ठ जेकरा अहाँ देखबाक कोशिश कए रहल छी नहि देखाओल जाए सकैत अछि किएक प्राप्त आंकड़ा क प्रमाणिकता जांचल नहि जाए सकल.</li> <li>कृपया वेब साइट मालिक कए एहि समस्याक संबंध मे सूचित करबाक लेल संपर्क करू.</li> </ul>">
 
-<!ENTITY nssBadCert.title "सुरक्षित कनेक्शन विफल">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>इ सर्वर विन्यासक सँग समस्या भए सकैत अछि, वा कोनो दोसर सर्वरक रूपेँ छद्म रूपसँ एबाक कोशिश कए सकैत अछि.</li> <li>जँ अहाँ सर्वरस पहिने सफलतापूर्वक कनेक्ट भए चुकल अछि, त्रुटि अस्थायी भए सकैत अछि, आओर अहाँ एकरा बादमे फेर कोशिश कए सकैत  अछि.</li> </ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
-<!ENTITY sharedLongDesc "<ul> <li>साइट अस्थायी रूपसँ अनुपलब्ध वा अत्यधिक व्यस्त भए सकैत अछि. किछु कालमे फेर कोशिश करू.</li> <li>जों अहाँ केकरो पृष्ठ कए लोड करबामे असमर्थ छी,  अपन कंप्यूटर सँजाल संयोजनक जाँच करू.</li> <li> जों अहाँक कंप्यूटर वा सँजाल केकरो फायरवाल वा प्राक्सीस संरक्षित अछि , सुनिश्चित करू जे &brandShortName; वेबक पहुँचबाक लेल अनुमति प्राप्त अछि.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
@@ -82,16 +79,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "अथवा अहाँ एकटा अपवाद जोड़ि सकैत अछि …">
-<!ENTITY securityOverride.getMeOutOfHereButton "एतय सँ हमरा बाहर लए जाउ!">
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोड़ू…">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-
-<!ENTITY securityOverride.warningContent "<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.learnMore "आओर जानू…">
 
@@ -102,9 +90,14 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-<!ENTITY weakCryptoUsed.title "अहाँक कनेक्शन सुरक्षित नहि अछि">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> आब पुरान भ गेल अछि आओर हमला खातिर भेद्य भ चुकल अछि. एक हमला द्वारा अहाँक सूचना जकरा अहाँ सुरक्षित बुझैत छी ओ आसानी सँ प्रकट भ सकैत अछि.">
 <!ENTITY weakCryptoAdvanced.override "(Not secure) लोड करबाक कोसिस करू <span class='hostname'></span> पुरानसुरक्षा क उपयोग सँ ">
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
