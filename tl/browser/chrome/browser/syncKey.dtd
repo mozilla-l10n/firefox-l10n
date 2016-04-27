@@ -6,8 +6,8 @@
 
 <!ENTITY syncKey.keepItSafe.heading       "Panatilihing itong ligtas">
 <!ENTITY syncKey.keepItSafe1.description  "Huwag mong iwala ang susing ito.">
-<!ENTITY syncKey.keepItSafe2.description  "Hindi kami nag-iimbak ng isa pang kopya ng iyong key (hindi na ito magiging lihim kung ganun man!) kaya ">
-<!ENTITY syncKey.keepItSafe3.description  "hindi ka namin matulungan na mabawi ito">
+
+
 
 <!ENTITY syncKey.findOutMore1.label       "Makialam tungkol sa &syncBrand.fullName.label; at sa inyong privacy sa ">
 <!ENTITY syncKey.findOutMore2.label       ".">

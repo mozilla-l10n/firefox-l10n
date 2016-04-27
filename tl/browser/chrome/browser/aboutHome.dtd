@@ -18,7 +18,6 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Madali lang i-customize ang iyong Firefox ayon sa iyong mga kagustuhan. <a>Pumili mula sa libo-libong mga add-on</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "Ang &brandFullName; ay libre at open source na software mula sa non-profit na Mozilla Foundation. <a>Alamin ang iyong karapatan…</a>">
 

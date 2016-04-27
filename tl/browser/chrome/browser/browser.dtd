@@ -154,7 +154,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Mag-subscribe sa web page na ito…">
 <!ENTITY addCurPagesCmd.label "I-bookmark ang lahat ng mga tab…">
 <!ENTITY showAllBookmarks2.label "Ipakita and Lahat na mga Bookmark">
-<!ENTITY unsortedBookmarksCmd.label "Bookmark na Hindi Magkasunod">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Magpakita ng karagdagang mga bookmark">
 
 <!ENTITY backButton.tooltip           "Bumalik nang isang pahina">
@@ -194,13 +195,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!ENTITY searchItem.title             "Hanapin">
 <!-- Toolbar items -->
 
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.unsorted.label "Bookmark na Hindi Magkasunod">
+
 
 <!ENTITY viewBookmarksToolbar.label         "Tingnan ang Bookmarks Toolbar">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -228,62 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY devToolsCmd.keytext          "F12">
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY inspectContextMenu.accesskey "I">
-
-
-
-
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Isara ang Developer Toolbar">
-
-
-
-
-
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "I-toggle ang Tools">
-<!ENTITY devToolboxMenuItem.accesskey      "I">
-
-
-
-
-
 
 
 
@@ -361,7 +306,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
@@ -369,6 +313,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -708,8 +653,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
+
+
+
 
 
 

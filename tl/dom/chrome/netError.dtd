@@ -13,6 +13,8 @@
 <!ENTITY fileNotFound.title "File Hindi Natagpuan">
 
 
+
+
 <!ENTITY generic.longDesc "<p>Karagdagang impormasyon tungkol sa problema o error na ito ay kasalukuyang hindi magagamit.</p>">
 
 <!ENTITY malformedURI.longDesc "<p> Ang ibinigay na address ay nasa hindi kilalang format. Mangyaring suriin ang location bar para sa mga pagkakamali at subukan muli. </p>">
@@ -65,3 +67,6 @@
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

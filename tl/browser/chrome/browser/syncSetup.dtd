@@ -8,7 +8,7 @@
 <!ENTITY button.haveAccount.label      "Ako ay may Account">
 
 <!ENTITY setup.choicePage.title.label     "Nagamit mo na ba ang &syncBrand.fullName.label; dati?">
-<!ENTITY setup.choicePage.new.label       "Hindi ko kailanman nagamit ang &syncBrand.shortName.label;">
+
 
 <!-- New Account AND Existing Account -->
 
@@ -55,7 +55,7 @@
 
 <!ENTITY pairDevice.title.label             "I-pares sa isa pang Aparato">
 <!ENTITY addDevice.showMeHow.label          "Ipakita sa akin kung papaano.">
-<!ENTITY addDevice.dontHaveDevice.label     "Wala sa akin ang kagamitan">
+
 <!ENTITY pairDevice.setup.description.label  "Para i-activate, piliin ang &quot;Pare a Device&quot; sa iyong isa pang device.">
 <!ENTITY addDevice.setup.enterCode.label    "Kung gayon, ipasok ang code na ito:">
 <!ENTITY pairDevice.dialog.description.label "Para i-activate ang bago mong device, piliin ang &quot;Set Up Sync&quot; sa iyong device.">
@@ -97,7 +97,7 @@
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Kumpirmahin">
-<!ENTITY confirm.merge2.label    "I-merge ng &syncBrand.fullName.label; ang lahat ng data ng device na ito sa iyong Sync account.">
+
 
 
 <!ENTITY confirm.server2.label         "Babala: Papalitan ng inyong local data ang mga datos sa mga sumusunod na device:">
