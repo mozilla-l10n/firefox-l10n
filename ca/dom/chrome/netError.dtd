@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "No s'ha trobat el fitxer">
 <!ENTITY fileNotFound.longDesc "<ul><li>Pot ser que l'element hagi canviat de nom, s'hagi esborrat o canviat d'ubicació?</li><li>Que hi ha cap error ortogràfic, de majúscules/minúscules, o bé tipogràfic a l'adreça?</li><li>Teniu suficients permisos d'accés per accedir a l'element sol·licitat?</li></ul>">
 
+
+
 <!ENTITY generic.title "No es pot completar la sol·licitud">
 <!ENTITY generic.longDesc "<p>No hi ha informació disponible actualment sobre aquest problema o error.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "XUL remot">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
