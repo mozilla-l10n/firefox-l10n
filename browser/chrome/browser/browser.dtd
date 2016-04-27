@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "ამ გვერდის გამოწერა...">
 <!ENTITY addCurPagesCmd.label "ყველა ჩანართის ჩანიშვნა...">
 <!ENTITY showAllBookmarks2.label "ყველა სანიშნის ჩვენება">
-<!ENTITY recentBookmarks.label "ბოლოს ჩანიშნულები">
 <!ENTITY unsortedBookmarksCmd.label "დაუხარისხებელი სანიშნები">
 <!ENTITY bookmarksToolbarChevron.tooltip "მეტი სანიშნების ჩვენება">
 
