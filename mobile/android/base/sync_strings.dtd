@@ -29,101 +29,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "റ്റാഗുകള്‍">
 <!ENTITY bookmarks.folder.toolbar.label "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ഉപകരണപ്പട്ട">
-<!ENTITY bookmarks.folder.unfiled.label "ക്രമത്തിലല്ലാത്ത അടയാളക്കുറിപ്പുകള്‍">
+
 <!ENTITY bookmarks.folder.desktop.label "പണിയിടത്തിലുള്ള അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY bookmarks.folder.mobile.label "മൊബൈല്‍ അടയാളക്കുറിപ്പുകള്‍">
-<!ENTITY bookmarks.folder.readinglist.label "പട്ടിക വായിക്കുന്നു">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "ചേര്‍ത്ത സൈറ്റുകള്‍">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "റ്റാബുകള്‍ അയയ്ക്കുന്നതിനു് &syncBrand.shortName.label; സജ്ജമാക്കുക">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "മറ്റു് ഉപകരണങ്ങള്‍ക്കു് റ്റാബുകള്‍ അയയ്ക്കുന്നതിനു്, &syncBrand.fullName.label; സജ്ജമാക്കുക.">
-<!ENTITY sync.text.tab.sent.label "നിങ്ങളുടെ ടാബ് അയച്ചു!">
-<!ENTITY sync.text.tab.not.sent.label "നിങ്ങളുടെ ടാബ് അയക്കുന്നതിൽ തടസ്സം നേരിട്ടു.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "ഫയർഫോക്സ് അക്കൗണ്ടുകള്‍">
-
-<!ENTITY fxaccount_custom_server_account_title "സര്‍വറില്‍ അക്കൌണ്ട് ഉപയോഗിയ്ക്കുന്നു">
-<!ENTITY fxaccount_custom_server_sync_title "സര്‍വറില്‍ സിന്‍ക് ഡേറ്റാ സൂക്ഷിയ്ക്കുന്നു">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "ഈമെയില്‍">
-
-<!ENTITY fxaccount_password_hide "ഒളിപ്പിക്കുക">
-<!ENTITY fxaccount_password_show "പ്രദര്‍ശിപ്പിക്കുക">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "ബ്രൗസിംഗിലേക്ക് തിരികെ">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "സേവന നിബന്ധനകള്‍">
-<!ENTITY fxaccount_policy_linkprivacy "സ്വകാര്യ വ്യവസ്ഥകള്‍">
+<!ENTITY fxaccount_back_to_browsing "ബ്രൗസിംഗിലേക്ക് തിരികെ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;-ലേക്കു് സ്വാഗതം">
 
 <!ENTITY fxaccount_getting_started_get_started "ഉപയോഗിച്ചു് തൂടങ്ങൂ">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label;-ന്റെ പഴയ പതിപ്പു് ഉപയോഗിയ്ക്കുന്നോ?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "ഒരു ഫയര്‍ഫോക്സ് അക്കൌണ്ട് തയ്യാറാക്കുക">
-<!ENTITY fxaccount_create_account_password_length_restriction "കുറഞ്ഞതു് 8 അക്ഷരങ്ങളുണ്ടായിരിയ്ക്കണം">
-
-
-<!ENTITY fxaccount_create_account_year_of_birth "ജനന വര്‍ഷം">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "ഫയര്‍ഫോക്സ് ക്ലൌഡ് സേവനങ്ങളുടെ &formatS1;, &formatS2; എന്നിവയുമായി മുമ്പോട്ട് തുടരുന്നു.">
-<!ENTITY fxaccount_create_account_button "അടുത്തതു്">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "എന്താണ് സിന്‍ക് ചെയ്യേണ്ടതെന്നു് തെരഞ്ഞെടുക്കുക">
-<!ENTITY fxaccount_create_account_sign_in_instead "അക്കൗണ്ട് ഉണ്ടെങ്കില്‍ പ്രവേശിക്കാം">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 യൊ അതിനു മുമ്പോ">
-<!ENTITY fxaccount_create_account_unknown_error "അക്കൗണ്ട് നിർമ്മിക്കാൻ സാധിച്ചില്ല">
-
-<!ENTITY fxaccount_account_create_not_allowed "അക്കൗണ്ട് നിർമ്മിക്കാൻ സാധിക്കില്ല">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "അക്കൌണ്ട് തയ്യാറാക്കുന്നതിനു്, ചില പ്രായപരിമിതികളുണ്ടു്.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "കൂടുതല്‍ അറിയുക">
-
-<!ENTITY fxaccount_confirm_account_header "അക്കൌണ്ട് ഉറപ്പാക്കുക">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "ഉറപ്പാക്കുന്നതിനുള്ളൊരു കണ്ണി &formatS;-ലേക്കു് അയച്ചു">
-<!ENTITY fxaccount_confirm_account_resend_email "മെയില്‍ വീണ്ടും അയയ്ക്കൂ">
-
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "ഉറപ്പാക്കുന്നതിനുള്ള മെയില്‍ അയച്ചു">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "ഉറപ്പാക്കുന്നതിനുള്ള മെയില്‍ അയയ്ക്കുവാനായില്ല">
-
-
-
-
-<!ENTITY fxaccount_sign_in_sub_header "പ്രവേശിയ്ക്കുക">
-<!ENTITY fxaccount_sign_in_button_label "പ്രവേശിയ്ക്കുക">
-<!ENTITY fxaccount_sign_in_forgot_password "രഹസ്യവാക്ക് മറന്നോ?">
-<!ENTITY fxaccount_sign_in_create_account_instead "അക്കൗണ്ട്‌ ഉണ്ടാക്കുക">
-<!ENTITY fxaccount_sign_in_unknown_error "പ്രവേശിക്കാൻ സാധിച്ചില്ല">
-
-<!ENTITY fxaccount_account_verified_sub_header "അക്കൗണ്ട് ഉറപ്പാക്കി">
-<!ENTITY fxaccount_account_verified_description2 "അനുനിമിഷം ഡേറ്റാ സിന്‍ക് ചെയ്യുവാന്‍ ആരംഭിയ്ക്കുന്നു.">
-
-
-<!ENTITY fxaccount_update_credentials_header "പ്രവേശിക്കുക">
-<!ENTITY fxaccount_update_credentials_button_label "പ്രവേശിയ്ക്കുക">
-<!ENTITY fxaccount_update_credentials_unknown_error "പ്രവേശിക്കാൻ സാധ്യമായില്ല">
-
-<!ENTITY fxaccount_finish_migrating_button_label "നവീകരണം അവസാനിപ്പിക്കുക">
-
-
-<!ENTITY fxaccount_status_header2 "ഫയർഫോക്സ് അക്കൗണ്ട്">
 <!ENTITY fxaccount_status_signed_in_as "ഇങ്ങനെ പ്രവേശിച്ചിരിയ്ക്കുന്നു">
 
 <!ENTITY fxaccount_status_auth_server "അക്കൌണ്ട് സര്‍വര്‍">
@@ -148,8 +71,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "സേവന നിബന്ധനകള്‍">
-<!ENTITY fxaccount_status_linkprivacy "സ്വകാര്യ അറിയിപ്പു്">
+
 <!ENTITY fxaccount_status_more "കൂടുതല്‍&ellipsis;">
 
 
@@ -185,7 +107,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "സർവർ തിരക്കിലാണ്, പിന്നീട്‌ ശ്രമിക്കുക">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "സര്‍വര്‍ ഫ്രീയല്ല, പിന്നീടു് വീണ്ടും ശ്രമിയ്ക്കുക">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ഒരു പ്രശ്നമുണ്ടായി">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "നെറ്റ്‌വര്‍ക്കിലേക്കു് കണക്ട് ചെയ്യുവാനായില്ല">
 
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; കണക്ട് ചെയ്തിട്ടില്ല">
@@ -194,6 +115,3 @@
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
