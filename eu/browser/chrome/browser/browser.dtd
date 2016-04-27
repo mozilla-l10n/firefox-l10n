@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Harpidetu orri honetara…">
 <!ENTITY addCurPagesCmd.label "Egin fitxa guztien laster-marka…">
 <!ENTITY showAllBookmarks2.label "Erakutsi laster-marka guztiak">
-<!ENTITY unsortedBookmarksCmd.label "Ordenatu gabeko laster-markak">
+<!ENTITY recentBookmarks.label "Azken laster-markak">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Erakutsi laster-marka gehiago">
 
 <!ENTITY backCmd.label                "Atzera">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ikusi aplikazioaren lineaz kanpoko biltegiratzearen mezua">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Kudeatu zure saio-hasiera informazioa">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Markatu pasahitza gorde nahi baduzu">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Ikusi aplikazioaren instalazio-mezua">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Kudeatu pluginen erabilera orri honetan">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Aldatu gunetik jakinarazpenik jaso dezakezun ala ez">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Laster-markak">
-<!ENTITY bookmarksMenuButton.unsorted.label "Ordenatu gabeko laster-markak">
+
 <!ENTITY viewBookmarksSidebar2.label        "Ikusi laster-marken tresna-barra">
 <!ENTITY viewBookmarksToolbar.label         "Ikusi laster-marken tresna-barra">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Web garapena">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Zerbitzu-langileak">
-<!ENTITY devtoolsServiceWorkers.accesskey  "n">
-
-<!ENTITY devtoolsConnect.label        "Konektatu…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "Errore-kontsola">
-<!ENTITY errorConsoleCmd.accesskey    "k">
-
-<!ENTITY remoteWebConsoleCmd.label    "Urruneko web kontsola">
-
-<!ENTITY browserConsoleCmd.label      "Nabigatzailearen kontsola">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "N">
-
 <!ENTITY inspectContextMenu.label     "Ikuskatu elementua">
 <!ENTITY inspectContextMenu.accesskey "s">
-
-<!ENTITY responsiveDesignTool.label   "Diseinu arduratsuko ikuspegia">
-<!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Tanta-kontagailua">
-<!ENTITY eyedropper.accesskey "n">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Zirriborroa">
-<!ENTITY scratchpad.accesskey         "Z">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Nabigatzailearen tresna-koadroa">
-<!ENTITY browserToolboxMenu.accesskey "N">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Nabigatzaile-edukiaren tresna-kutxa">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Itxi garatzailearen tresna-barra">
-<!ENTITY devToolbarMenu.label              "Garatzailearen tresna-barra">
-<!ENTITY devToolbarMenu.accesskey          "G">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Txandakatu tresnak">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Txandakatu garatzaile-tresnak">
-<!ENTITY devToolbarOtherToolsButton.label  "Tresna gehiago">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Eskuratu tresna gehiago">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "E">
 
 <!ENTITY fileMenu.label         "Fitxategia"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Ebaki">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "E"> 
-<!ENTITY copyCmd.label            "Kopiatu">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
+
 <!ENTITY pasteCmd.label           "Itsatsi">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "I"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Ireki laguntza-menua">
 
 <!ENTITY appMenuRemoteTabs.label "Sinkronizatutako fitxak">
-<!ENTITY appMenuRemoteTabs.fetching.label "Sinkronizatutako fitxak eskuratzen…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Irekitako fitxarik ez">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Hasi saioa Firefoxen zure beste gailuetatik horien fitxak hemen ikusteko.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync hobespenak">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Hasi saioa zure beste gailuetako fitxak ikusteko.">
 <!ENTITY appMenuRemoteTabs.signin.label "Hasi saioa Sync-en">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Gune honetarako zure konexioa ez da pribatua. Bidaltzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu txartelak, etab.).">
 <!ENTITY identity.description.insecureLoginForms "Orri honetan sartzen duzun saio-hasiera informazioa ez da segurua eta arriskuan egon liteke.">
 <!ENTITY identity.description.weakCipher "Gune honetarako zure konexioak zifraketa ahula erabiltzen du eta ez da pribatua.">
-<!ENTITY identity.description.weakCipher2 "Besteek zure informazioa ikusi edo webgunearen portaera alda lezakete.">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName;(e)k seguruak ez diren orri honetako zatiak blokeatu ditu.">
 <!ENTITY identity.description.passiveLoaded "Zure konexioa ez da pribatua eta gunearekin partekatzen duzun informazioa besteek ikus lezakete.">
 <!ENTITY identity.description.passiveLoaded2 "Wegune honek segurua ez den edukia dauka (adibidez irudiak).">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Sinkronizatutako fitxak">
 
 <!ENTITY syncedTabs.sidebar.label              "Sinkronizatutako fitxak">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Sinkronizatutako fitxak eskuratzen…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Hasi saioa Firefoxen zure beste gailuetatik horien fitxak hemen ikusteko.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Hasi saioa zure beste gailuetako fitxak ikusteko.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Irekitako fitxarik ez">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Ireki &syncBrand.shortName.label; hobespenak">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktibatu fitxak sinkronizatzea zure beste gailuetako fitxen zerrenda ikusteko.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Ireki fitxa hau">
-<!ENTITY syncedTabs.context.openTab.accesskey               "I">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Egin fitxa honen laster-marka…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "E">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Egin fitxa honen laster-marka…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "E">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
