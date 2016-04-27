@@ -63,7 +63,6 @@
 <!ENTITY rights.safebrowsing-b "გვერდების უსაფრთხოდ დათვალიერების ფუნქციის გამორთვა არაა სასურველი, რადგან შედეგად შეიძლება ეწვიოთ სახიფათო საიტებს.  თუ მაინც გსურთ ფუნქციის სრულად გათიშვა, მიჰყევით შემდეგ მითითებებს:">
 <!ENTITY rights.safebrowsing-term1 "გახსენით პროგრამის პარამეტრები">
 <!ENTITY rights.safebrowsing-term2 "გადადით უსაფთხოებაზე">
-<!ENTITY rights.safebrowsing-term3 "მოხსენით მონიშვნა &quot;&blockAttackSites.label;&quot;-ს და &quot;&blockWebForgeries.label;&quot;-ს">
 <!ENTITY rights.safebrowsing-term4 "და უსაფრთხო რეჟიმი გამოირთვება">
 
 <!-- location aware browsing points for branded builds -->
