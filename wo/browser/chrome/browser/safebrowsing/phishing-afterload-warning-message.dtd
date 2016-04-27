@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Génn fii !">
 <!ENTITY safeb.palm.decline.label "Bul faale artu bii">
-<!ENTITY safeb.palm.notforgery.label2 "Lii du royaalu dalub web…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 <!ENTITY safeb.palm.reportPage.label "Lu tax ñu boloke dal bi?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Xët bu bon !">
@@ -14,11 +14,7 @@
 
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
-<!ENTITY safeb.blocked.phishingPage.title "Dalu royaal !">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Dalub web bi ci <span id='phishing_sitename'/> yéene nañu ni royaal la, boloke nañu ko, ñi ngi sukkandiku ci say taamu kaarange .">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Dalub web royaal yi seen liggéey mooy indi la ba nga joxe say, ni mu kooy defe mooy toppandoo dal yi nga wóólu .</p><p>Dugal ay xibaar ci xët wile mën na jur saccum dantite walla leneen.</p>">
-
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

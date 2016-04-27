@@ -8,9 +8,7 @@
 <!ENTITY loadError.label "Jumte ci yebum xët wi">
 <!ENTITY retry.label "Jéemaatal">
 
-
 <!-- Specific error messages -->
-
 
 <!ENTITY connectionFailure.title "Jokkoo bi lajj na">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -54,7 +52,6 @@ connection.</li>
 <!ENTITY notCached.longDesc "<p>Jukki bi ñu laaj amatu ci &brandShortName;'.</p><ul><li>ngir kaarange, &brandShortName; du tëb rekk laj yenn jukki yi.</li><li>Cuqal ci jeemat ngir laajaat jukki bi ci dal bi.</li></ul>">
 
 <!ENTITY netOffline.title "Anamu jokkoodiku">
-
 
 <!ENTITY contentEncodingError.title "Jumte ci suulaale ëmb gi">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -105,7 +102,6 @@ sampu na ci sa doxalin.</li>
 
 <!ENTITY nssFailure2.title "Lajju jokkoo bi ànd ak kaarange">
 
-
 <!ENTITY nssBadCert.title "Lajjum jokkoo bi and ak kaarange">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Lii më na nekk ni ñu tabbe serwëër bi walla mu nekk nit kuy jeema nangu dantite serwëër bi 
@@ -115,18 +111,6 @@ mën nga jéemaat ci kanam.</li>
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul><li>Dal bi mën na nekk kenn mënu cee jot walla mu bari liggéey jeemaaatal ci kanam</li><li>Su fekkee mënuloo joow ci benn dal, seetal sa jokkoo ordinatëër ak lëkkale gi.</li><li>Su fekkee sa ordinatëër walla sa lëkkale danu leen aar ak paarfë walla benn proxy seetal ndax &brandShortName; am ndigal agg ci Web bi.</li></ul>">
-
-<!ENTITY malwareBlocked.title "Ñaaw njort ci dal bu bon !">
-<!ENTITY malwareBlocked.longDesc "<p>Ay dal yu bon ñi ngiy jéema samp ay porogaraam yuy sacc say xibaari bopp,di jëfandikoo sa ordinatëër ngir song yeneen walla yaq sa doxalin.</p> 
-<p>Boroom dal yi fook ni da ñu leen tuumaal <a href='http://www.stopbadware.org/home/reviewinfo'>ab nafar</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Dal bi royaal la !">
-<!ENTITY phishingBlocked.longDesc "<p>Dugal say xibaari bopp ci xët bile mën na tax ñu sacc sa dantite walla beneen foród.</p> 
-<p>Giiri dali royaal yu ni mel dañu leen di jëfandikoo ci ay e mail foród ngir di song songu dolinka, da ñuy toppandoo ay cosaan yoo wóolu .</p>">
-
-
 
 <!ENTITY cspBlocked.title "Boloke ak benn taxawayu kaaraange këmb">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; dafa tere yebum xët wi ci noonu ndax xët wi dafa am taxawaayu kaaraange këmb bu ko nanguwul.</p>">
@@ -138,21 +122,16 @@ mën nga jéemaat ci kanam.</li>
 <!ENTITY securityOverride.linkText "Walla mën nga yokk lu kenn tëggaalewul…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Génnal xët wi !">
 <!ENTITY securityOverride.exceptionButtonLabel "Yokk lu kenn tëggaalewul…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
-
 <!ENTITY securityOverride.warningContent "<p>Waruloo yokk lu kenn tëggaalewul boo dee jëfandikoo jokkoo internet boo wóoluwul walla boo tammul di jot ay artu ci serwëër bi .</p> 
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
-
-
-
-
-
 
 
 <!ENTITY remoteXUL.title "XUL bu sori">
@@ -163,6 +142,3 @@ functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
-
-
