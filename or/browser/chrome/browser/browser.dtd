@@ -167,7 +167,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "ଏହି ପୃଷ୍ଠାକୁ କିଣନ୍ତୁ…">
 <!ENTITY addCurPagesCmd.label "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ…">
 <!ENTITY showAllBookmarks2.label "ସମସ୍ତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
-<!ENTITY unsortedBookmarksCmd.label "ଅସଜଡ଼ା ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଦର୍ଶାନ୍ତୁ">
 
 <!ENTITY backCmd.label                "ପଛକୁ">
@@ -208,7 +209,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!ENTITY searchItem.title             "ସନ୍ଧାନ">
 <!-- Toolbar items --> 
 
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
-<!ENTITY bookmarksMenuButton.unsorted.label "ଅସଜ୍ଜିତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
+
 <!ENTITY viewBookmarksSidebar2.label        "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକର ସାଧନପଟିକୁ ଦେଖନ୍ତୁ">
 <!ENTITY viewBookmarksToolbar.label         "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକର ସାଧନପଟିକୁ ଦେଖନ୍ତୁ">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -248,76 +248,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ୱେବ ବିକାଶକ">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-
-
-<!ENTITY devtoolsConnect.label        "ସଂଯୋଗ କରନ୍ତୁ…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "ତ୍ରୁଟି କୋନସଲ">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-
-<!ENTITY remoteWebConsoleCmd.label    "ସୁଦୂର ୱେବ କୋନସୋଲ">
-
-<!ENTITY browserConsoleCmd.label      "ବ୍ରାଉଜର କୋନସୋଲ">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
-
 <!ENTITY inspectContextMenu.label     "ଉପାଦାନକୁ ନିରୀକ୍ଷଣ କରନ୍ତୁ">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "ପ୍ରତିକ୍ରିୟାଶୀଳ ସଂରଚନା ଦୃଶ୍ୟ">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "ଆଖି ଡ୍ରପର">
-<!ENTITY eyedropper.accesskey "y">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "ସ୍କ୍ରାଚପ୍ୟାଡ">
-<!ENTITY scratchpad.accesskey         "S">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "ବ୍ରାଉଜର ସାଧନ ବାକ୍ସ (e)">
-<!ENTITY browserToolboxMenu.accesskey "e">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-
-<!ENTITY devToolbarCloseButton.tooltiptext "ବିକାଶକାରୀ ସାଧନପଟିକୁ ବନ୍ଦ କରନ୍ତୁ">
-<!ENTITY devToolbarMenu.label              "ବିକାଶକାରୀ ସାଧନପଟି">
-<!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "ସାଧନଗୁଡ଼ିକୁ ଆଗପଛ କରନ୍ତୁ">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "ବିକାଶକାରୀ ସାଧନଗୁଡ଼ିକୁ ଆଗପଛ କରନ୍ତୁ">
-<!ENTITY devToolbarOtherToolsButton.label  "ଅଧିକ ସାଧନଗୁଡ଼ିକ">
-
-<!ENTITY getMoreDevtoolsCmd.label        "ଅଧିକ ଉପକରଣ ଆଣନ୍ତୁ">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "ଫାଇଲ"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -349,9 +281,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "କାଟନ୍ତୁ">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "ନକଲ କରନ୍ତୁ">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+
 <!ENTITY pasteCmd.label           "ଲଗାନ୍ତୁ">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -400,7 +332,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "ପୁରୁଣାତଥ୍ୟ ପାର୍ଶ୍ୱପଟିକୁ ଦେଖନ୍ତୁ">
 <!ENTITY appMenuHelp.tooltip "ସହାୟତା ତାଲିକାକୁ ଖୋଲନ୍ତୁ">
 
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
@@ -408,6 +339,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -767,8 +699,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
+
+
+
 
 
 

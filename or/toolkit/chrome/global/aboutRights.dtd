@@ -61,7 +61,7 @@
 <!ENTITY rights.safebrowsing-b "ସୁରକ୍ଷିତ ବ୍ରାଉଜିଙ୍ଗ ବିଶେଷତାକୁ ନିଷ୍କ୍ରିୟ କରିବା ଫଳରେଏହା ଅସୁରକ୍ଷିତ ସାଇଟକୁ ଯାଇପାରେ। ଯଦି ଆପଣ ଏହି ବିଶେଷତାକୁ ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ  ନିଷ୍କ୍ରିୟ କରିବା ପାଇଁ ଚାହୁଁଛନ୍ତି, ତେବେ ନିମ୍ନଲିଖିତ ପଦକ୍ଷେପଗୁଡ଼ିକୁ ଅନୁସରଣ କରନ୍ତୁ:">
 <!ENTITY rights.safebrowsing-term1 "ପ୍ରୟୋଗ ପସନ୍ଦଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ">
 <!ENTITY rights.safebrowsing-term2 "ସୁରକ୍ଷା ଚୟନକୁ ବାଛନ୍ତୁ">
-<!ENTITY rights.safebrowsing-term3 " &quot;&blockAttackSites.label;&quot; ଏବଂ &quot;&blockWebForgeries.label;&quot; ରେ ଥିବା ବିକଳ୍ପଗୁଡ଼ିକୁ ଅବଛା କରନ୍ତୁ।">
+
 <!ENTITY rights.safebrowsing-term4 "ସୁରକ୍ଷିତ ବ୍ରାଉଜିଙ୍ଗକୁ ବର୍ତ୍ତମାନ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି">
 <!-- location aware browsing points for branded builds -->
 
