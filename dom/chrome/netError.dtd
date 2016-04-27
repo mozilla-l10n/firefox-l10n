@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "கோப்பை காணவில்லை">
 <!ENTITY fileNotFound.longDesc "வலைமனை முகவரி குறிப்பிட்ட கோப்பை காணவில்லை (URL). இந்த கோப்பு உள்ளதா எனவும் கோப்பை அணுக போதிய அனுமதி உள்ளதா எனவும் பார்க்கவும்.">
 
+
+
 <!ENTITY generic.title "கோரிக்கையை முடிக்க முடியவில்லை">
 <!ENTITY generic.longDesc "பக்கத்தை ஏற்ற முடியவில்லை காரணம் பக்கம் இல்லை அல்லது குறிப்பிட்ட இடம் தவறு.<br/>வலைமனை முகவரி (URL) தவறான வடிவில் உள்ளது.">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "தொலைநிலை XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>வலைத்தள உரிமையாளர்களைத் தொடர்புகொண்டு இந்த சிக்கல் குறித்து தெரிவிக்கவும்.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

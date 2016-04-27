@@ -2,51 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "நீங்கள் தற்போது தனிப்பட்ட சாளரத்தில் இல்லை.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "ஒரு தனிப்பட்ட சாளரத்தைத் திற">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "நீங்கள் தற்போது தனிப்பட்ட சாளரத்தில் இல்லை.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "ஒரு தனிப்பட்ட சாளரத்தைத் திற">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "த">
 
-<!ENTITY privateBrowsing.title                 "தனிப்பட்ட உலாவல்">
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
-     Width of the Private Browsing section. This should depend primarily on the
-     length of the headers and text, but should be roughly 1.5 times the width
-     of the Tracking Protection section, and in general not much larger than
-     30em to prevent the sections from wrapping on smaller window sizes.
-     -->
-<!ENTITY aboutPrivateBrowsing.title            "நீங்கள் தனித்து உலாவுகிறீர்கள்">
-
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "சேமிக்கப்படவில்லை">
-<!ENTITY aboutPrivateBrowsing.info.history     "வரலாறு">
-<!ENTITY aboutPrivateBrowsing.info.searches    "தேடல்கள்">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "குக்கீகள்">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "தற்காலிக கோப்புகள்">
-
-<!ENTITY aboutPrivateBrowsing.info.saved       "சேமிக்கப்பட்டது">
-<!ENTITY aboutPrivateBrowsing.info.downloads   "பதிவிறக்கங்கள்">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks   "புத்தகக்குறிகள்">
-
-<!ENTITY aboutPrivateBrowsing.note1            "உங்கள் முதலாளி அல்லது இணையச் சேவை வழங்குநர் நீங்கள் உபயோகித்த பக்கங்களை பின்பற்ற வாய்ப்பு உள்ளதை தயவு செய்து மனதில் கொள்ளவும்.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "மேலும் அறிய.">
-<!-- LOCALIZATION NOTE (trackingProtection.width1):
-     Width of the Tracking Protection section. It is fine for the enabled or
-     disabled indicator or the words in the title to wrap to the next line, but
-     you can expand or reduce this section to fit better, as long as the width
-     of the Private Browsing section is roughly 1.5 times the width of this one.
-     Note that the required space may vary between platforms because fonts are
-     different, so testing on Windows, Mac, and Linux is encouraged.
-     -->
-
-<!ENTITY trackingProtection.width1             "22em">
-<!ENTITY trackingProtection.title              "தடமறியல் பாதுகாப்பு">
-<!-- LOCALIZATION NOTE (trackingProtection.state.width):
-     Width of the element representing the enabled or disabled indicator.
-     -->
-
-<!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "உயிற்பி">
-<!ENTITY trackingProtection.state.disabled     "அணை">
 
 
-<!ENTITY trackingProtection.disable            "தடமறியல் பாதுகாப்பை அணைக்கவும்">
-<!ENTITY trackingProtection.enable             "தடமறியல் பாதுகாப்பை உயிற்பிக்கவும்">
-<!ENTITY trackingProtection.startTour1         "இது எப்படி வேலை செய்கிறது என்று பார்க்கவும்">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY trackingProtection.title                        "தடமறியல் பாதுகாப்பு">
+
+

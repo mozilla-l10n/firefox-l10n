@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "பல கீற்றுகளை திறக்கும் போது &brandShortName; மெதுவாகும் என்பதை எச்சரி">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "தேர்வு செய்யும் வரை கீற்றுகளை ஏற்ற வேண்டாம்">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
-
 <!ENTITY switchToNewTabs.label        "நான்  இணைப்பை புதிய கீற்றில் திறக்கும் போது, உடனே அதற்கு மாறவும்">
 <!ENTITY switchToNewTabs.accesskey    "h">
 
