@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Avertizează-mă când deschiderea mai multor file ar putea încetini &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "Nu încărca filele până nu sunt selectate">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
-
 <!ENTITY switchToNewTabs.label        "La deschiderea unui link într-o filă nouă, comută la ea imediat">
 <!ENTITY switchToNewTabs.accesskey    "h">
 

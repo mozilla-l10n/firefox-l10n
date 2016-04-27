@@ -201,8 +201,8 @@ values from browser.dtd.  -->
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogs.label    "Activați jurnalele persistente">
-<!ENTITY options.enablePersistentLogs.tooltip  "Dacă activați această opțiune Consola web și Monitorizarea rețelei nu vor curăța conținutul acestora de fiecare dată când navigați pe o pagină nouă">
+<!ENTITY options.enablePersistentLogs.label    "Activează jurnalele persistente">
+<!ENTITY options.enablePersistentLogs.tooltip  "Dacă activezi această opțiune consola web și monitorizarea rețelei nu vor șterge conținutul acestora de fiecare dată când navighezi pe o pagină nouă">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference

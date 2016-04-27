@@ -58,7 +58,7 @@
 <!ENTITY  permissionsFor        "Permisiuni pentru:">
 <!ENTITY  permPlugins           "Activează pluginurile">
 
-<!ENTITY  permClearStorage           "Curăță datele stocate">
+<!ENTITY  permClearStorage           "Șterge stocarea">
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Securitate">

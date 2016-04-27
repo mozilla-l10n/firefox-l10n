@@ -167,7 +167,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Abonează-te la această pagină…">
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele…">
 <!ENTITY showAllBookmarks2.label "Arată toate semnele de carte">
-<!ENTITY unsortedBookmarksCmd.label "Semne de carte nesortate">
+<!ENTITY recentBookmarks.label "Recent însemnate">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe semne de carte">
 
 <!ENTITY backCmd.label                "Înapoi">
@@ -205,7 +206,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!ENTITY urlbar.translateNotificationAnchor.label       "Tradu această pagină">
 
 
@@ -221,7 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Semne de carte">
-<!ENTITY bookmarksMenuButton.unsorted.label "Semne de carte nesortate">
+
 <!ENTITY viewBookmarksSidebar2.label        "Arată bara cu semne de carte">
 <!ENTITY viewBookmarksToolbar.label         "Arată bara cu semne de carte">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -251,78 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Dezvoltator web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-
-
-<!ENTITY devtoolsConnect.label        "Conectare…">
-<!ENTITY devtoolsConnect.accesskey    "C">
-
-<!ENTITY errorConsoleCmd.label        "Consolă de erori">
-<!ENTITY errorConsoleCmd.accesskey    "e">
-
-<!ENTITY remoteWebConsoleCmd.label    "Consolă web la distanță">
-
-<!ENTITY browserConsoleCmd.label      "Consolă pentru browser">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "C">
-
 <!ENTITY inspectContextMenu.label     "Inspectează elementul">
 <!ENTITY inspectContextMenu.accesskey "S">
-
-<!ENTITY responsiveDesignTool.label   "Vezi designul receptiv">
-<!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Pipetă">
-<!ENTITY eyedropper.accesskey "e">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Editor JavaScript">
-<!ENTITY scratchpad.accesskey         "S">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Trusa de unelte pentru browser">
-<!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Trusa de unelte a conținutului pentru browser">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Închide bara de dezvoltare">
-<!ENTITY devToolbarMenu.label              "Bară de dezvoltare">
-<!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Activează uneltele">
-<!ENTITY devToolboxMenuItem.accesskey      "t">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Comută uneltele de dezvoltare">
-<!ENTITY devToolbarOtherToolsButton.label  "Mai multe unelte">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Obține mai multe unelte">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "m">
 
 <!ENTITY fileMenu.label         "Fișier"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -354,9 +284,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Taie">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "T"> 
-<!ENTITY copyCmd.label            "Copiază">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+
 <!ENTITY pasteCmd.label           "Lipește">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "p"> 
@@ -371,7 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Curăță istoricul recent…">
+<!ENTITY clearRecentHistory.label               "Șterge istoricul recent…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -400,13 +330,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Finalizează personalizarea">
 <!ENTITY appMenuHistory.label "Istoric">
 <!ENTITY appMenuHistory.showAll.label "Arată tot istoricul">
-<!ENTITY appMenuHistory.clearRecent.label "Curăță istoricul recent…">
+<!ENTITY appMenuHistory.clearRecent.label "Șterge istoricul recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurează sesiunea anterioară">
 <!ENTITY appMenuHistory.viewSidebar.label "Vezi bara laterală cu istoricul">
 <!ENTITY appMenuHelp.tooltip "Deschide meniul Ajutor">
 
 <!ENTITY appMenuRemoteTabs.label "File sincronizate">
-<!ENTITY appMenuRemoteTabs.fetching.label "Se preiau filele sincronizate…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nicio filă deschisă">
@@ -415,6 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -759,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Conexiunea ta la acest site nu este privată. Informațiile pe care le trimiți pot fi văzute de alții (cum ar fi parolele, mesajele, carduri de credit, etc.).">
 <!ENTITY identity.description.insecureLoginForms "Informațiile de autentificare pe care le introduci pe această pagină nu sunt securizate și pot fi compromise.">
 <!ENTITY identity.description.weakCipher "Conexiunea ta la acest site folosește criptare slabă și nu este privată.">
-<!ENTITY identity.description.weakCipher2 "Alte persoane pot vedea informațiile tale sau pot modifica comportamentul site-ului.">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; a blocat părți ale acestei pagini care nu sunt sigure.">
 <!ENTITY identity.description.passiveLoaded "Conexiunea ta nu este privată și informațiile pe care le împărtășești cu acest site pot fi văzute de alții.">
 <!ENTITY identity.description.passiveLoaded2 "Acest site are conținut nesigur (cum ar fi imagini).">
@@ -791,10 +721,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nicio filă deschisă">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Deschide preferințele &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
+
+
+
 
 
 

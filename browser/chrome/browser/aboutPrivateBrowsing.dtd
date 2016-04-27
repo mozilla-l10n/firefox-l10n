@@ -2,54 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "În prezent nu sunteți într-o fereastră privată.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Deschide o fereastră privată">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "În prezent nu sunteți într-o fereastră privată.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Deschide o fereastră privată">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
-<!ENTITY privateBrowsing.title                 "Navigare privată">
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
-     Width of the Private Browsing section. This should depend primarily on the
-     length of the headers and text, but should be roughly 1.5 times the width
-     of the Tracking Protection section, and in general not much larger than
-     30em to prevent the sections from wrapping on smaller window sizes.
-     -->
+<!ENTITY privateBrowsing.title.tracking                  "Navigare privată cu protecție față de urmărire">
 
-<!ENTITY aboutPrivateBrowsing.width1           "32em">
-<!ENTITY aboutPrivateBrowsing.title            "Navighezi în mod privat">
 
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "Nu au fost salvate">
-<!ENTITY aboutPrivateBrowsing.info.history     "Istoricul">
-<!ENTITY aboutPrivateBrowsing.info.searches    "Căutările">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookie-urile">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Fișierele temporare">
 
-<!ENTITY aboutPrivateBrowsing.info.saved       "Salvate">
-<!ENTITY aboutPrivateBrowsing.info.downloads   "Descărcările">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Semnele de carte">
 
-<!ENTITY aboutPrivateBrowsing.note1            "Te rugăm să reții că angajatorul sau furnizorul de servicii internet poate urmări în continuare ce pagini vizitezi.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Află mai multe.">
-<!-- LOCALIZATION NOTE (trackingProtection.width1):
-     Width of the Tracking Protection section. It is fine for the enabled or
-     disabled indicator or the words in the title to wrap to the next line, but
-     you can expand or reduce this section to fit better, as long as the width
-     of the Private Browsing section is roughly 1.5 times the width of this one.
-     Note that the required space may vary between platforms because fonts are
-     different, so testing on Windows, Mac, and Linux is encouraged.
-     -->
 
-<!ENTITY trackingProtection.width1             "22em">
-<!ENTITY trackingProtection.title              "Protecție față de urmărire">
-<!-- LOCALIZATION NOTE (trackingProtection.state.width):
-     Width of the element representing the enabled or disabled indicator.
-     -->
 
-<!ENTITY trackingProtection.state.width        "10ch">
-<!ENTITY trackingProtection.state.enabled      "PORNITĂ">
-<!ENTITY trackingProtection.state.disabled     "OPRITĂ">
 
-<!ENTITY trackingProtection.description1       "Ferestrele private acum blochează părți ale paginii care îți pot urmări activitatea de navigare.">
 
-<!ENTITY trackingProtection.disable            "Oprește protecția față de urmărire">
-<!ENTITY trackingProtection.enable             "Pornește protecția față de urmărire">
-<!ENTITY trackingProtection.startTour1         "Vezi cum funcționează aceasta">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY trackingProtection.title                        "Protecție față de urmărire">
+
+
