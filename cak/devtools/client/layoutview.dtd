@@ -16,8 +16,13 @@
 
 
 
-<!ENTITY layoutViewTitle        "Rub'anikil Kaxa">
-<!ENTITY margin.tooltip         "ruchi'">
-<!ENTITY border.tooltip         "ruchi'">
-<!ENTITY padding.tooltip        "nojsan">
-<!ENTITY content.tooltip        "rupam">
+<!ENTITY layoutViewTitle          "Rub'anikil Kaxa">
+<!ENTITY margin.tooltip           "ruchi'">
+<!ENTITY border.tooltip           "ruchi'">
+<!ENTITY padding.tooltip          "nojsan">
+<!ENTITY content.tooltip          "rupam">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
+
+<!ENTITY geometry.button.tooltip  "Ruk'ojlem nuk'unem">

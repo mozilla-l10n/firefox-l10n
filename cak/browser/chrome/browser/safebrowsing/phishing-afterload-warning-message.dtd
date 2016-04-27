@@ -4,8 +4,15 @@
 
 <!ENTITY safeb.palm.accept.label "¡Kinel el wawe!">
 <!ENTITY safeb.palm.decline.label "Tijerepüx re rutzijol k'ayewal re'">
-<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
-<!ENTITY safeb.palm.notdeceptive.label "Re re' man q'olonel ta chi ruxaq k'amaya'l…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
+  item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
+  shown. -->
+<!ENTITY safeb.palm.notdeceptive.label "Re re' man jun ta q'olonel chi ruxaq k'amaya'l…">
+<!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
+  safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
+  report-phishing.dtd are never shown at the same time, the same accesskey can
+  be used for them. -->
+<!ENTITY safeb.palm.notdeceptive.accesskey "q">
 <!ENTITY safeb.palm.reportPage.label "¿Atux ruma toq q'aton re jun ruxaq k'amaya'l re'?">
 <!ENTITY safeb.palm.whyForbidden.label "¿Atux ruma toq xq'eleb'ëx re jun ruxaq k'amaya'l re'?">
 

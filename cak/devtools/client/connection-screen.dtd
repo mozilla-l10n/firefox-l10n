@@ -24,7 +24,7 @@
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
 
-<!ENTITY remoteHelp "Ri nuk'unel taq rusamajib'äl Firefox tikiren nikipararej näj okisaxela' (Firefox richin Android chuqa' Firefox OS, choj jun tz'etb'äl). Tatz'eta' chi xatzïj ri ruwäch 'Näj pararenïk' pa ri näj okisaxel. Richin ch'aqa' chik etamab'äl tatz'eta' ri   ">
+<!ENTITY remoteHelp "Ri nuk'unel taq rusamajib'al Firefox tikirel yekipararej näj okisaxela' (Firefox richin Android chuqa' Firefox OS, pa tz'etb'äl). Tatz'eta' chi tzijïl ri cha'oj ‘Näj pararenïk’ pa ri näj okisaxel. Richin ch'aqa' chik etamab'äl tatz'eta' ri ">
 <!ENTITY remoteDocumentation "yaköl wuj">
 <!ENTITY remoteHelpSuffix ".">
 

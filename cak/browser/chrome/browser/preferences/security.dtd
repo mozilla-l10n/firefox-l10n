@@ -6,19 +6,19 @@
 
 <!ENTITY  warnAddonInstall.label        "Tiya' rutzijol jampe' toq ri ruxaq k'amaya'l nrajo' yeruyäk taq tz'aqat">
 <!ENTITY  warnAddonInstall.accesskey    "T">
-<!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
-  The methods by which forged (phished) and attack sites will be detected by
-  phishing providers will vary from human review to machine-based heuristics to a
-  combination of both, so it's important that these strings and
-  useDownloadedList.label convey the meaning "reported" (and not something like
-  "known").
+<!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
+  It is important that wording follows the guidelines outlined on this page:
+  https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
-<!ENTITY  blockAttackSites.label     "Keq'at taq ruxaq k'amaya'l ya'on ketal chi ye'eläq'">
-<!ENTITY  blockAttackSites.accesskey "q">
+<!ENTITY  enableSafeBrowsing.label        "Keq'at k'ayew chuqa' q'olonel rupam">
+<!ENTITY  enableSafeBrowsing.accesskey    "K">
 
-<!ENTITY  blockWebForgeries.label     "Keq'at ri taq ruxaq k'amaya'l ya'on ketal chi e q'olonel">
-<!ENTITY  blockWebForgeries.accesskey "K">
+<!ENTITY  blockDownloads.label            "Keq'at k'ayew taq qasanïk">
+<!ENTITY  blockDownloads.accesskey        "k">
+
+<!ENTITY  blockUncommonUnwanted.label     "Tiya' pe rutzijol chwe pa ruwi' ri itzel chuqa' man relik ta taq kema'">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Taq man relik ta…">
 <!ENTITY  addonExceptions.accesskey     "r">

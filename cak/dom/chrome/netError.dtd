@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Man xilitäj ta ri yakb'äl">
 <!ENTITY fileNotFound.longDesc "<ul><li>¿Rik'in jub'a' chi tajin nisik'ïx chik, xyujtäj o xk'ex rub'ey ri ch'akulal?</li><li>¿La k'o jun sachoj pa ruwi' rutz'ib'axik, nimatz'ib' o jun chik chi sachoj toq xtz'ib'äx ri ochochib'äl?</li><li>¿La kiya'on aq'ij richin yatok chupam ri ch'akulal xk'utüx?</li></ul>">
 
+
+
 <!ENTITY generic.title "Man xtikïr ta xutz'aqatisaj ri k'utunïk">
 <!ENTITY generic.longDesc "<p>Majun na'oj k'o chi rij re k'ayewal o sachoj re'.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "Näj XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, tatz'ib'aj el chi ke ri rajaw ri ruxaq k'amaya'l richin naya' rutzijol re k'ayewal re'.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Tatz'ib'aj ab'i' pa re ruxaq wuj…">
 <!ENTITY addCurPagesCmd.label "Taya' ronojel ri taq ruwi'…">
 <!ENTITY showAllBookmarks2.label "Kek'ut konojel ri taq etal">
-<!ENTITY unsortedBookmarksCmd.label "Taq samajib'äl majun ketal">
+<!ENTITY recentBookmarks.label "K'a ja xya' ketal">
+<!ENTITY otherBookmarksCmd.label "Ch'aqa' chik taq Yaketal">
 <!ENTITY bookmarksToolbarChevron.tooltip "Kek'ut pe ch'aqa' chik taq etal">
 
 <!ENTITY backCmd.label                "Chi ruwäch">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Titz'e ri ruyakik taq rutzijol richin ri chokoy toq elenäq el pa k'amab'ey">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Tanuk'samajij ri awetamab'al  richin awokem pa molojri'ïl">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Tacha' we nawajo' nayäk ri ewan atzij">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Titz'et ri rutzijol ruyakik ri chokoy">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Tinuk'samajïx kokisaxik ri taq tz'aqat pa re ruxaq k'amaya'l re'">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Tijalwachïx we yatikïr ye'ak'ül taq rutzijol re ruxaq k'amaya'l re'">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Taq retal">
-<!ENTITY bookmarksMenuButton.unsorted.label "Taq etal man echa'on ta">
+<!ENTITY bookmarksMenuButton.other.label "Ch'aqa' chik taq Yaketal">
 <!ENTITY viewBookmarksSidebar2.label        "Rutz'etik Sidebar Etal ">
 <!ENTITY viewBookmarksToolbar.label         "Rutz'etik ri rucholanel samajib'äl">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Nuk'unel ajk'amaya'l">
 <!ENTITY webDeveloperMenu.accesskey   "a">
 
-<!ENTITY devToolsCmd.keycode          "VK_F2">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Rutzijik…">
-<!ENTITY devtoolsConnect.accesskey    "i">
-
-<!ENTITY errorConsoleCmd.label        "Rucholajem ri man e ütz ta">
-<!ENTITY errorConsoleCmd.accesskey    "a">
-
-<!ENTITY remoteWebConsoleCmd.label    "Näj K'amaya'l silob'äl">
-
-<!ENTITY browserConsoleCmd.label      "Rusilob'al k'anöy k'amaya'l">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "k">
-
 <!ENTITY inspectContextMenu.label     "Rutz'etik atuxtäq">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "K'amonel wachib'en rutzub'al">
-<!ENTITY responsiveDesignTool.accesskey "w">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "K'olojb'onil">
-<!ENTITY eyedropper.accesskey "o">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Yujb'äl">
-<!ENTITY scratchpad.accesskey         "Y">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Kikaxa taq samajib'äl richin okik'amaya'l">
-<!ENTITY browserToolboxMenu.accesskey "i">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Kikaxa taq samajib'äl richin rupam okik'amaya'l">
-<!ENTITY browserContentToolboxMenu.accesskey "k">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Rutz'apixik kicha'osamaj nuk'unela' ">
-<!ENTITY devToolbarMenu.label              "Ruch'a'osamaj nuk'unel">
-<!ENTITY devToolbarMenu.accesskey          "c">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Ruk'utik taq Samajib'äl">
-<!ENTITY devToolboxMenuItem.accesskey      "i">
-<!ENTITY devToolboxMenuItem.keytext        "Rïn">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Kitzijik taq samajib'äl kichin ri ajnuk'üy">
-<!ENTITY devToolbarOtherToolsButton.label  "Juley chik Samajib'äl">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Rutz'etik ch'aqa' chik samajib'äl">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "c">
 
 <!ENTITY fileMenu.label         "Yakb'äl"> 
 <!ENTITY fileMenu.accesskey       "Y">
@@ -358,7 +287,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Tiqupïx">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "q"> 
-<!ENTITY copyCmd.label            "Wachib'exïk">  
+<!ENTITY copyCmd.label            "Tiwachib'ëx">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "c"> 
 <!ENTITY pasteCmd.label           "Titz'ajb'äx">  
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Tijaq ri to'onel MENU">
 
 <!ENTITY appMenuRemoteTabs.label "Ximon taq ruwi'">
-<!ENTITY appMenuRemoteTabs.fetching.label "Tajin yek'ulutäj ri ximon taq ruwi'…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Majun ruwi' ejaqon">
@@ -420,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Tatikirisaj molojri'ïl pa Firefox pa juley chik taq okisaxel richin ye'atz'ët taq ruwi' awichin wawe.">
+<!ENTITY appMenuRemoteTabs.noclients.title "¡K'a majani' yexïm ri taq ruwi'…!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Kexim ri taq ajowanik">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
 <!ENTITY appMenuRemoteTabs.signin.label "Tatikirisaj molojri'ïl pa Sync">
@@ -796,8 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Ximon taq ruwi'">
 
 <!ENTITY syncedTabs.sidebar.label              "Ximon taq ruwi'">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Tajin yek'ulutäj ri ximon taq ruwi'…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Tatikirisaj molojri'ïl pa Firefox pa juley chik taq okisaxel richin ye'atz'ët taq ruwi' awichin wawe.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Tatikirisaj molojri'ïl pa Firefox pa juley chik taq okisaxel richin ye'atz'ët taq ruwi' awichin wawe'.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "¡K'a majani' yexïm ri taq ruwi'…!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Majun taq ruwi' ejaqon">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Tajin yejaq ri taq rajowab'al &syncBrand.shortName.label;">
@@ -805,10 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Tatzija' ri kiximoj taq ruwi' richin natz'ët kicholajem taq ruwi' pa ch'aqa' chik taq okisaxel.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Tijaq re ruwi' re'">
-<!ENTITY syncedTabs.context.openTab.accesskey               "T">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Titz'aqatisäx re ruxaq re' pa taq etal…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "T">
+<!ENTITY syncedTabs.context.open.label                       "Tijaq">
+<!ENTITY syncedTabs.context.open.accesskey                   "a">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Tijaq pa jun k'ak'a' ruwi'">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Tijaq pa jun k'ak'a' tzuwach">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Tijaq pa jun k'ak'a' ichinan tzuwäch">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "i">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Titz'aqatisäx re ruxaq re' pa taq etal…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "T">
+<!ENTITY syncedTabs.context.copy.label                       "Tiwachib'ëx">
+<!ENTITY syncedTabs.context.copy.accesskey                   "c">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Juley chik">
 <!ENTITY runtimePanel_installsimulator "Tiyak ri SIMULATOR">
 <!ENTITY runtimePanel_noadbhelper "Tiyak ADB to'onel">
-<!ENTITY runtimePanel_nousbdevice "¿La man yatikïr ta natz'ët ri awokisaxel?">
+
 <!ENTITY runtimePanel_refreshDevices_label "Kek'ex ri taq okisaxel">
 <!-- Lense -->
 

@@ -2,54 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "Wakami man at k'o ta chupam jun ichina tzuwäch.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Tijaq jun ichinan tzuwäch">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Wakami man at k'o ta chupam jun ichina tzuwäch.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Tijaq jun ichinan tzuwäch">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "i">
 
-<!ENTITY privateBrowsing.title                 "Ichinan okem pa k'amaya'l">
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
-     Width of the Private Browsing section. This should depend primarily on the
-     length of the headers and text, but should be roughly 1.5 times the width
-     of the Tracking Protection section, and in general not much larger than
-     30em to prevent the sections from wrapping on smaller window sizes.
-     -->
+<!ENTITY privateBrowsing.title                           "Ichinan okem pa k'amaya'l">
+<!ENTITY privateBrowsing.title.tracking                  "Ichinan okik'amaya'l rik'in chajinem richin ilonem">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Toq yatok pa jun ichina tzuwäch, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "man tuyäk">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "taq ruxaq etz'eton">
+<!ENTITY aboutPrivateBrowsing.info.searches              "taq kanob'äl">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "taq kaxlanwey">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "jumej taq yakb'äl">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "xtiyak">
+<!ENTITY aboutPrivateBrowsing.info.saved.after           "awichin:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "taq qasanïk">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "taq yaketal">
+<!ENTITY aboutPrivateBrowsing.note.before                "Ichinan okem pa k'amaya'l ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "man nub'än ta chawec chi man tetamäx awäch">
+<!ENTITY aboutPrivateBrowsing.note.after                 " pa k'amaya'l. Ri ya'öl ak'amaya'l o ri asamajinel, k'a nitikïr na nutzu' ri taq ruxaq k'amaya'l ri ye'atzu'.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Tetamäx chaqa' chik chi rij">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Ichinan okem pa k'amaya'l">
 
-<!ENTITY aboutPrivateBrowsing.width1           "30em">
-<!ENTITY aboutPrivateBrowsing.title            "Atokinäq pan ichinan k'amaya'l">
-
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "Man yakon ta">
-<!ENTITY aboutPrivateBrowsing.info.history     "Natab’äl">
-<!ENTITY aboutPrivateBrowsing.info.searches    "Taq kanob'äl">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "Taq kaxlanwey">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Jumej taq yakb'äl">
-
-<!ENTITY aboutPrivateBrowsing.info.saved       "Yakon">
-<!ENTITY aboutPrivateBrowsing.info.downloads   "Taq qasa’n">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Taq etal">
-
-<!ENTITY aboutPrivateBrowsing.note1            "Tab'ana' utzil, tanataj chi ri asamajinel o ri aya'öl k'amaya'l, k'a nitikïr na nutzu' ri taq ruxaq k'amaya' ri rat xke'atzu'.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Tetamäx ch'aqa' chik.">
-<!-- LOCALIZATION NOTE (trackingProtection.width1):
-     Width of the Tracking Protection section. It is fine for the enabled or
-     disabled indicator or the words in the title to wrap to the next line, but
-     you can expand or reduce this section to fit better, as long as the width
-     of the Private Browsing section is roughly 1.5 times the width of this one.
-     Note that the required space may vary between platforms because fonts are
-     different, so testing on Windows, Mac, and Linux is encouraged.
-     -->
-
-<!ENTITY trackingProtection.width1             "22em">
-<!ENTITY trackingProtection.title              "Ruchajinik kanoxïk">
-<!-- LOCALIZATION NOTE (trackingProtection.state.width):
-     Width of the element representing the enabled or disabled indicator.
-     -->
-
-<!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "TZIJÏL">
-<!ENTITY trackingProtection.state.disabled     "CHUPUJ">
-
-<!ENTITY trackingProtection.description1       "Ri ichinan taq tzuwäch yekiq'ät jujun taq ruchak'ulal ruxaq k'amaya'l, ri yetikïr nikïl ri nasamajij pa okik'amaya'l.">
-
-<!ENTITY trackingProtection.disable            "Tajin nichup ri ruchajixik kanoxïk">
-<!ENTITY trackingProtection.enable             "Tajin nichup ri ruchajixik kanoxïk">
-<!ENTITY trackingProtection.startTour1         "Titzu' achike rub'eyal nisamäj re re'">
+<!ENTITY trackingProtection.title                        "Ruchajinik kanoxïk">
+<!ENTITY trackingProtection.description2                 "Jujun ruxaq k'amaya'l nikokisaj kanonela', ri yetikïr nikinik'oj ri asamaj pa k'amaya'l. Rik'in rojqaxik ri Ruchajixik Firefox xkeruq'ät k'ïy taq ojqanela', ri yetikïr nikik'oj etamab'äl chi rij rub'eyal runa'oj ri okema pa k'amaya'l.">
+<!ENTITY trackingProtection.startTour1                   "Tatz'eta' rub'eyal nisamäj">

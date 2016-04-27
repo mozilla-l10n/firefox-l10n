@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Man ruk'amon ta nachüp ri ütz okem pa kematz'ib', ruma chi rik'in jub'a' katok chupam itzel taq ruxaq k'amaya'l. We nawajo' jumul nachüp re rusamaj re', tawoqaj re jujun taq rucholajil re:">
 <!ENTITY rights.safebrowsing-term1 "Tajaqa' ri taq rajowaxik samajel">
 <!ENTITY rights.safebrowsing-term2 "Tacha' ri rucha'oj chajinem">
-<!ENTITY rights.safebrowsing-term3 "Ke&apos;achupu&apos; ri taq cha&apos;oj &quot;&blockAttackSites.label;&quot; chuqa&apos; &quot;&blockWebForgeries.label;&quot;">
+
 <!ENTITY rights.safebrowsing-term4 "Wakami ri ütz okem pa k'amaya'l chupül">
 <!-- location aware browsing points for branded builds -->
 
