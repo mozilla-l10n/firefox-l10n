@@ -19,11 +19,13 @@
 <!ENTITY dnsNotFound.title "Man xilitäj ta ri ruk'u'x samaj">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Tanik'oj chi ri ochochib'äl xatz'ib'aj, majun taq sachoj chupam achi'el <strong>ww</strong>tz'eteb'äl.com pa ruk'exel ri  <strong>www</strong>tz'eteb'äl.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Tikanöx</button> </div> <li>We man yatikïr ta nasamajib'ej majun ruxaq k'amaya'l, tanik'oj ri taq rutzij ri awokisaxel o ri awokem Wi-Fi. <button id='wifi'>Titzij Wi-Fi</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Tanik'oj chi ri ochochib'äl xatz'ib'aj, majun taq sachoj richin tz'ib'anik chupam achi'el <strong>ww</strong>.tz'eteb'äl.com pa ruk'exel ri  <strong>www</strong>.tz'eteb'äl.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Tikanöx</button> </div> <li>We man yatikïr ta nasamajib'ej majun ruxaq k'amaya'l, tanik'oj ri taq rutzij ri awokisaxel o ri Mek'am awokem. <button id='wifi'>Titzij Mek'am</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Man xilitäj ta ri yakb'äl">
 <!ENTITY fileNotFound.longDesc "<ul>   <li>Tatz'eta' chi majun sachoj pa rutz'ib'axik ri yakb'äl, achi'el chuqa' ri nimatz'ib'.</li>   <li>Tatz'eta' we man silon ta el ri yakb'äl, jalon rub'i' o elesan el.</li>   </ul>">
 
+<!ENTITY fileAccessDenied.title "Xq'at rutz'etik ri yakb'äl">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Rik'in jub'a' xyuj el, xsilöx el o ri ruya'oj q'ij yakb'än niq'aton rutz'etik.</li> </ul>">
 
 <!ENTITY generic.title "uy.">
 <!ENTITY generic.longDesc "<p>&brandShortName; k'o jun achoj ruma toq man nutikirisaj ta el re jun ruxaq k'amaya'l re'.</p>">
@@ -37,7 +39,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "K'isinäq ruq'ijul re wuj ">
-<!ENTITY notCached.longDesc "<p>Man niq'alaj ta chik pa rewa'n &brandShortName;.</p><ul><li> ri wuj nakanoj. Richin nichajin &brandShortName; man nuk'utuj ta chik pa ruyonil chajin tan wuj.</li><li>Tapitz'a' qa pa Titojtob'ëx chik richin nik'utüx chik ri ruwujil k'amaya'l.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Man niq'alaj ta chik pa rewa'n &brandShortName;.</p><ul><li>ri wuj nakanoj. Richin nichajin &brandShortName; man nuk'utuj ta chik pa ruyonil chajin tan wuj.</li><li>Tapitz'a' qa pa Titojtob'ëx chik richin nik'utüx chik ri ruwujil k'amaya'l.</li></ul>">
 
 <!ENTITY netOffline.title "Pa rub'eyal majun ximoj">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -81,7 +83,7 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> <li>Rik'in jub'a' man q'aläj ta wakami o janila tajin nokisäx ri ruxaq k'amaya'l. Tatojtob'ej pa jun chik mej.</li> <li>We man nok ta pa majun ruxaq k'amaya'l, tanik'oj ri rutzij awoyonib'al o rokem pa Wi-Fi. <button id='wifi'>Titzij ri Wi-Fi</button> </li> </ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>Rik'in jub'a' man q'aläj ta wakami o janila tajin nokisäx ri ruxaq k'amaya'l. Tatojtob'ej pa jun chik mej.</li> <li>We man nok ta pa majun ruxaq k'amaya'l, tanik'oj ri rutzij awoyonib'al o rokem pa Mek'am. <button id='wifi'>Titzij ri Mek'am</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Q'aton ruma ri chajinel rupam na'oj">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xjaqatäj ruma ri ruxaq k'amaya'l k'o ruchajinel rupam na'oj, ri man nuya' ta q'ij.</p>">
@@ -108,7 +110,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Q'axinäq chi etamab'äl: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "K'o pan itzelal ri awokem">
+<!ENTITY weakCryptoUsed.title "Itzel ri awokem">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Nimaläj chi etamab'äl: SSL_ERRO_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Itzel ri awokem">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> nrokisaj k'ak'a' samaj richin jikomal, ri e ojer chuqa' man k'ayew ta yeq'eleb'ëx. Jun q'eleb'enel chanin nuya' rutzijol ri etamab'äl, ri nina'ojïx chi e chajin. Ri runuk'samajel ruxaq k'amaya'l k'o chi nutz'ët nab'ey ri ruk'u'x samaj chuwäch nitikïr nutz'ët ri ruxaq k'amaya'l.</p><p>Runimatz'ib' sachoj: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
