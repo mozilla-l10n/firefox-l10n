@@ -486,8 +486,8 @@
 <!ENTITY errorConsoleCmd.label "Consolă de erori">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY clearRecentHistory.label "Curăță istoricul recent…">
-<!ENTITY clearRecentHistory.accesskey "r">
+<!ENTITY clearRecentHistory.label "Șterge istoricul recent…">
+<!ENTITY clearRecentHistory.accesskey "i">
 <!ENTITY accountManagerCmd2.label "Setările conturilor">
 <!ENTITY accountManagerCmd2.accesskey "c">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
