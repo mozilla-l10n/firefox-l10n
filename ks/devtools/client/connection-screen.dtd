@@ -23,8 +23,6 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-
-<!ENTITY remoteHelp "فایر فوکْس ڈیولپر ٹول ہیکن ڈیبگ ریموٹ ڈیوایس ( فایر فوکْس اینڈرویِڈ تْہ فایر فوکْس او ایس، مثلن)۔ یقینی بنأیو کِہ توہیہ چُھ آن کورمُت ریموٹ ڈیبگینگ اوپشن ریموٹ ڈیوایسس منز۔ مزید باپت، وْچھیو">
 <!ENTITY remoteDocumentation "ڈاکیمینٹیشن">
 <!ENTITY remoteHelpSuffix ".">
 

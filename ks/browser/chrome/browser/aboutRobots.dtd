@@ -15,10 +15,8 @@
 <!ENTITY robots.errorShortDescText "عَس چھَ آمِت تُہ۪ی  سمكھِن۪ی اَمن تئ بہتری سٲت!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
 <!ENTITY robots.errorLongDesc1 "رابوٹ ما ہیکن نْہ أکس انسانس زخمی کْرتھ یا، بے حسی ذریعہ ، ہیکن أکس انسانس نقصان واتنأوتھ۔">
-<!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn't believe..." -->
-<!ENTITY robots.errorLongDesc2 "روبوٹسٲو چھَ تِم چیز وَچھ مِت یمن پ۪یٹھ نئ تُہئ انسان پژھ كریو.">
-<!-- Book: Hitchhiker's Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
-<!ENTITY robots.errorLongDesc3 "روبوٹس چھَ تُہند پلاسٹِك دوست یمن سٲتھ روزنس منز لُطف چھُ.">
+<!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..." -->
+<!-- Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
 <!-- TV: Futurama. Bender's first line is "Bite my shiny metal ass." -->
 <!ENTITY robots.errorLongDesc4 "روبوٹسن چھُ چمك دار میٹلُك پتِم حصئ یتھ نئ ژوپ گژھ۪ی ہینئ یُن">
 <!-- TV: Battlestar Galactica (2004 series). From the opening text. -->

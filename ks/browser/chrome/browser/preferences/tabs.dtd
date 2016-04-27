@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "می۪ی كریو آگاو یل۪ی  متعداد ٹیبس كھولن ویز۪ی   &amp;لوت گژھ۪ی برانڈ شاٹ ناو">
 <!ENTITY warnOpenManyTabs.accesskey   "ب">
 
-<!ENTITY restoreTabsOnDemand.label        "لوڈ مْہ کْریو ٹیب یوتام نْہ ژارنْہ یِیِہ &amp;">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
-
 <!ENTITY switchToNewTabs.label        "ییلہ بْہ اکھ لینک اوپْن چُھس کران أکس نْوِس ٹیبس منز، اتھ کُن کْریو فورن سوچ&amp;">
 <!ENTITY switchToNewTabs.accesskey    "h">
 

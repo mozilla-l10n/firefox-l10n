@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "&amp;سینک برانڈ۔ فُل ناو۔ لیبل؛ سیٹ اپ">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "خوش آمدید! اگر نْہ توہیہ زانہہ استعمال کورمُت چُھ &amp;سینک برانڈ۔ فُل ناو۔ لیبل؛ برونہہ، توہیہ چُھ ضرارت اکھ نُو ایکاوُنٹ بناونُک۔">
 <!ENTITY button.createNewAccount.label "نئو كھاتئ كھولیو">
 <!ENTITY button.haveAccount.label      "می۪ی چھُ كھاتئ">
 
 <!ENTITY setup.choicePage.title.label     "تُہ۪ی  چھُ زاںہ استیمال كرمُت  Brand.fullName.label;  ام۪ی برونتھ">
-<!ENTITY setup.choicePage.new.label       "می۪ی چھُ نئ زاںہ استیمال كرمُت  &syncBrand.shortName.label;  ام۪ی برونٹھ">
-<!ENTITY setup.choicePage.existing2.label "بْہ چُس گوڈے بْیِس ڈیوایسس پیٹھ استعمال کران  &amp;سینک برانڈ۔ شاٹ ناو۔ لیبل؛   ">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "سرور">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "آلئ جوڈيو">
 <!ENTITY addDevice.showMeHow.label          "می۪ی ہٲویو كِتھ كئن">
-<!ENTITY addDevice.dontHaveDevice.label     "می۪ی چھُ آلئ سٲتھ">
+
 <!ENTITY pairDevice.setup.description.label  "ایکٹیویٹ کرنْہ باپت، ژأریو پننِس بْیِس ڈیوایسس پیٹھ  &quot;اکھ ڈیوایس کْریو پَییر&quot;  ">
 <!ENTITY addDevice.setup.enterCode.label    "پتئ كریو كوڈ دٲخل">
 <!ENTITY pairDevice.dialog.description.label "پنُن نُو ڈیوایِس ایکٹیویٹ کرنْہ باپت، ژأریو ڈیوایسس پیٹھ  &quot;سینک کْریو سیٹ اپ&quot; ">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "&amp; ایڈ آنس">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2a.merge.main.label       "مْرْج کْریو ییمہ ڈیوایسُک ڈاٹا ماے &amp;سینک برانڈ۔شاٹ ناو۔لیبل؛ڈاٹا سْیت">
 <!ENTITY choice2.merge.recommended.label "مشوَرئ یوان دِنئ">
 <!ENTITY choice2a.client.main.label      "بدلأیو تمام ڈاٹا یتھ ڈیوایسس پیٹھ ماے &amp;سینک برانڈ۔شاٹ ناو۔لیبل؛ڈاٹا سْیت">
-<!ENTITY choice2a.server.main.label      "تمام ڈیوایس بدلأیو ییمہ ڈیوایسْک ڈاٹا سْیت">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "تصدیق کریو">
-<!ENTITY confirm.merge2.label    "سینک برانڈ۔ فُل ناو۔ لیبل؛ کرِ وْنْی مْرْج ییمہ ڈیوایسُک تمام براوزر ڈاٹا تُہندس سینک ایکاونٹس منز۔&amp;">
+
 <!ENTITY confirm.client3.label         "آگأہی: یہ &amp;برانڈ شاٹ ناو؛ ڈاٹا یِیہ ڈیلیٹ کرنْہ یتھ ڈیوایسس پیٹھ:">
 <!ENTITY confirm.client2.moreinfo.label " &amp;برانڈ شاٹ ناو؛ کرِ کاپی تُہند &amp;سینک برانڈ۔ فُل ناو۔ لیبل؛ ڈاٹا یتھ ڈیوایسس کُن۔ ">
 <!ENTITY confirm.server2.label         "آگأہی: یِم ڈیوایس گژھن اووررایِٹ تُہندِ لوکل ڈاٹا سْیت: ">

@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "فائل آی نئ اَتھ۪ی:">
 <!ENTITY fileNotFound.longDesc "<ul><li>کیاہ یہ آیٹم ہیکواہ  رینیم کْرتھ، ہٹأوتھ، یا دوبار لوکیٹ کْرتھ؟</li><li>کیاہ یتھ ایڈرسس منز چھاہ کانہہ سُپیلینگ، کیپٹالایزیشن، یا بدل کانہہ ٹایپوگرافیکل ایرر؟</li><li>کیاہ توہیہ چھاہ کأفی ایسیس اجازت درخواست کرنْہ آمتِس آیٹمس؟</li></ul>">
 
+
+
 <!ENTITY generic.title "درخواست ہیكٲو نئ پورئ كریتھ">
 <!ENTITY generic.longDesc "<p>اضأفی انفارمیشن یتھ پرابلیم ی یررس مُتلق چُھ وْنکینس غیر دستیاب۔</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "ریموٹ XUL">
 <!ENTITY remoteXUL.longDesc "</p><ul><li>مہربأنی کْرتھ کْریو کنٹیکٹْہ ویب سایِٹ مألک تِمن امہ پرابلیم ہْنز جانکأری دِنْہ باپت۔</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
