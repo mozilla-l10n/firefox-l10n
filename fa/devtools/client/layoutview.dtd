@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "مدل جعبه">
-<!ENTITY margin.tooltip         "حاشیه">
-<!ENTITY border.tooltip         "لبه">
-<!ENTITY padding.tooltip        "لایی‌ گذاری">
-<!ENTITY content.tooltip        "محتوا">
+<!ENTITY layoutViewTitle          "مدل جعبه">
+<!ENTITY margin.tooltip           "حاشیه">
+<!ENTITY border.tooltip           "لبه">
+<!ENTITY padding.tooltip          "لایی‌ گذاری">
+<!ENTITY content.tooltip          "محتوا">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->

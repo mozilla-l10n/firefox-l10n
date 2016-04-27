@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "در صورتی که باز کردن چند زبانه بتواند باعث کند کردن &brandShortName; بشود، به من هشدار بده">
 <!ENTITY warnOpenManyTabs.accesskey   "ک">
 
-<!ENTITY restoreTabsOnDemand.label        "تا زمانی که زبانه‌ها انتخاب نشده اند، آنها را بارگذاری نکن">
-<!ENTITY restoreTabsOnDemand.accesskey    "ز">
-
 <!ENTITY switchToNewTabs.label        "هنگامی که یک پیوند را در زبانه جدید باز میکنم، بلافاصله آن زبانه نمایش داده شود">
 <!ENTITY switchToNewTabs.accesskey    "ه">
 

@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "پرونده پیدا نشد">
 <!ENTITY fileNotFound.longDesc "<ul><li>آیا امکان دارد پروندهٔ مورد نظر تغییر نام یا محل داده باشد یا حذف شده باشد؟</li><li>آیا اشکال املائی، بزرگی یا کوچکی حروف یا دیگر اشکالات نوشتاری در نشانی وجود دارد؟</li><li>آیا مجوزهای دسترسی کافی برای دست‌یابی به این نشانی را دارید؟</li></ul>">
 
+
+
 <!ENTITY generic.title "درخواست قابل به پایان رساندن نیست">
 <!ENTITY generic.longDesc "<p>اطلاعات بیشتر در مورد این مشکل یا خطا در حال حاضر در دسترس نیست.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "XUL راه دور">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>لطفاً با صاحب این وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

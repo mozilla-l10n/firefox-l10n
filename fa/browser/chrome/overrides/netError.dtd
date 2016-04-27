@@ -19,23 +19,23 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "کارگزار پیدا نشد">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>نشانی را برای اشتباهات تایپی بررسی کنید که مثلا <strong>ww </strong>.example.com به طور اشتباه به جای <strong>www</strong>.example.com وارد نشده باشد.</li> <li>اگر نمی‌توانید هیچ صفحه‌ای را بارگذاری کنید، اتصال شبکه رایانه را بررسی کنید.</li> <li>اگر رایانه یا شبکه شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که &brandShortName; دسترسی به وب را دارد.</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "پرونده پیدا نشد">
 <!ENTITY fileNotFound.longDesc "<ul><li>صحتِ نام پرونده را برای احتمال وجود غلط املایی بررسی کنید. </li><li>بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نام یافته، یا پاک شده است.</li></ul>">
 
 
-<!ENTITY generic.title "متأسفیم.">
-<!ENTITY generic.longDesc "<p>&brandShortName; به دلایلی نمی‌تواند این صفحه را نمایش دهد.</p>">
 
-<!ENTITY malformedURI.title "این نشانی معتبر نیست">
-<!ENTITY malformedURI.longDesc "<ul><li>نشانی‌های وب معمولاً به این صورت نوشته می‌شوند <strong>http://www.example.com/</strong></li> <li>مطمئن شوید که از ممیز درست استفاده می‌کنید (یعنی <strong>/</strong>).</li> </ul>">
+<!ENTITY generic.title "متأسفیم.">
+
+
+
 
 <!ENTITY netInterrupt.title "اتصال مختل شد">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "پروندۀ منقضی">
-<!ENTITY notCached.longDesc "<p> پروندۀ درخواستی در حافظۀ &brandShortName; موجود نیست.</p><ul><li>برای احتیاط امنیتی بیشتر، &brandShortName; دیگر به‌طور خودکار درخواست پرونده‌های حساس نمی‌کند.</li><li>برای درخواست مجدد پرونده از این سایت، روی دکمۀ &quot;تلاش دوباره&quot; کلیک کنید.</li></ul>">
+
 
 <!ENTITY netOffline.title "حالت منفصل">
 <!ENTITY netOffline.longDesc2 "<ul><li>دکمۀ &quot;تلاش دوباره&quot; را فشار دهید  تا به حالت آنلاین برگردید و صفحه را دوباره بارگذاری کنید.</li></ul>">
@@ -52,7 +52,6 @@
 <!ENTITY netTimeout.title "مهلت اتصال تمام شد">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "نشانی قابل فهم نبود">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li> ممکن است نیاز به نصب برنامهٔ دیگری برای باز نمودن این نشانی داشته باشید. </li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "کارگزار پیشکار از برقراری اتصال خودداری می‌کند.">
@@ -61,19 +60,17 @@
 <!ENTITY proxyResolveFailure.title "کارگزار پیشکار پیدا نشد">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>بررسی کنید که تنظیمات پیشکار صحیح باشند.</li> <li>بررسی کنید تا مطمئن شوید که اتصال شبکهٔ رایانۀ شما به درستی کار می‌کند.</li> <li>اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود، مطمئن شوید که &brandShortName; اجازهٔ دسترسی به وب را دارد.</li> </ul>">
 
-<!ENTITY redirectLoop.title "این صفحه درست تغییر مسیر نمی‌دهد">
 <!ENTITY redirectLoop.longDesc "<ul> <li>این مشکل گاهی ممکن است به دلیل غیر فعال کردن یا خودداری از قبول کوکی‌ها به وجود بیاید.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "جواب غیرمنتظره از کارگزار">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>مطمئن شوید که «مدیریت امنیت شخصی» روی رایانهٔ شما نصب شده باشد.</li> <li>این اشکال ممکن است از پیکربندی غیر استاندارد کارگزار باشد.</li> </ul>">
 
-<!ENTITY nssFailure2.title "برقراری اتصال ایمن شکست خورد">
 <!ENTITY nssFailure2.longDesc2 "<ul><li>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست، زیرا تأیید اعتبار اطلاعات دریافتی امکان‌پذیر نیست.</li><li>لطفاً با صاحبان این سایت تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul>">
 
-<!ENTITY nssBadCert.title "برقراری اتصال ایمن شکست خورد">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>علت می‌تواند اشکالی در تنظیم سرور،  یا تلاش شخصی برای وانمود کردن خود به جای این سرور باشد.</li> <li>اگر در گذشته با موفقیت به این سرور متصل شده‌اید،  امکان دارد این اشکال موقتی باشد، و می‌توانید بعداً دوباره تلاش کنید.</li> </ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
-<!ENTITY sharedLongDesc "<ul> <li>ممکن است این پایگاه به طور موقت خارج از دسترس یا بیش از حد مشغول باشد.  چند دقیقه صبر کنید و بعد دوباره تلاش کنید.</li> <li>اگر نمی‌توانید هیچ صفحه‌ای را مرور کنید، اتصال شبکهٔ رایانه  را بررسی کنید.</li> <li>اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود  مطمئن شوید که &brandShortName; اجازهٔ دسترسی به وب را دارد.</li> </ul>">
 
 <!ENTITY cspBlocked.title "مسدود شده بنا بر سیاست امنیتی محتوا">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; از بارگیری این صفحه به این شیوه جلوگیری کرد، زیرا این صفحه دارای یک سیاست امنیتی است که این کار در تضاد با آن قرار دارد.</p>">
@@ -82,16 +79,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست، زیرا تأیید اعتبار اطلاعات دریافتی امکان‌پذیر نیست.</p><ul><li>لطفاً با صاحبان این وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "یا می‌توانید یک استثنا اضافه کنید…">
-<!ENTITY securityOverride.getMeOutOfHereButton "ترک این مکان!">
 <!ENTITY securityOverride.exceptionButtonLabel "افزودن استثنا…">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-
-<!ENTITY securityOverride.warningContent "<p>اگر از اتصال اینترنتی استفاده می‌کنید که کاملاً به آن اطمینان ندارید، یا اگر معمولاً در هنگام بازدید از این وب‌گاه اخطاری دریافت نمی‌کنید، نباید استثنائی اضافه کنید.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "خطاهایی مانند این را گزارش کنید تا به موزیلا برای شناسایی و مسدود کردن سایت‌های مخرب کمک کنید.">
 <!ENTITY errorReporting.learnMore "اطلاعات بیشتر…">
@@ -104,10 +92,15 @@ functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "اطلاعات پیشرفته: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "اتصال شما امن نیست">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "اطلاعات پیشرفته: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "پیشرفته">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> از تکنولوژی امنیتی منسوخ شده استفاده می‌کند که در برابر حمله‌ها آسیب‌پذیر است. یک مهاجم به راحتی می‌تواند اطلاعاتی که شما فکر می‌کنید امن هستند را افشا کند.">
 <!ENTITY weakCryptoAdvanced.override "(امن نیست) تلاش برای بارگذاری <span class='hostname'></span>با استفاده از امنیت منسوخ شده">
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

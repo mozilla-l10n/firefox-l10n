@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "آبونه شدن در این صفحه…">
 <!ENTITY addCurPagesCmd.label "نشانک‌گذاری تمامی زبانه‌ها…">
 <!ENTITY showAllBookmarks2.label "نمایش همهٔ نشانک‌ها">
-<!ENTITY unsortedBookmarksCmd.label "نشانک‌های مرتب نشده">
+<!ENTITY recentBookmarks.label "به تازگی نشانک‌گذاری شده">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "نشانک‌های بیشتری نمایش داده شود">
 
 <!ENTITY backCmd.label                "برگشت">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "نمایش پیامِ فضای ذخیره‌سازی برون‌خط برنامه">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "مدیریت اطلاعات ورود به سایت‌ها">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "بررسی کنید که آیا می‌خواهید گذرواژه خود را ذخیره کنید">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "نمایش پیامِ نصبِ برنامه">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "مدیریت پلاگین‌های استفاده شده در این صفحه">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "اینکه آیا می‌توانید از این سایت اعلان دریافت کنید یا خیر را تغییر دهید">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "نشانک‌ها">
-<!ENTITY bookmarksMenuButton.unsorted.label "نشانک‌های مرتب نشده">
+
 <!ENTITY viewBookmarksSidebar2.label        "نمایش نوار ابزار نشانک‌ها">
 <!ENTITY viewBookmarksToolbar.label         "نمایش نوار ابزار نشانک‌ها">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "توسعه‌دهندۀ وب">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "اتصال…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "پیشانهٔ خطاها">
-<!ENTITY errorConsoleCmd.accesskey    "پ">
-
-<!ENTITY remoteWebConsoleCmd.label    "کنسول وب از راه دور">
-
-<!ENTITY browserConsoleCmd.label      "پایانه مرورگر">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "م">
-
 <!ENTITY inspectContextMenu.label     "بازرسی عناصر">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "نمای طراحی پاسخگو">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "قطره چکان">
-<!ENTITY eyedropper.accesskey "ط">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "چرک نویس">
-<!ENTITY scratchpad.accesskey         "S">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "جعبه‌ابزار مرورگر">
-<!ENTITY browserToolboxMenu.accesskey "و">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "جعبه‌ابزار محتوایی مرورگر">
-<!ENTITY browserContentToolboxMenu.accesskey "ا">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "بستن نوار توسعه دهنده">
-<!ENTITY devToolbarMenu.label              "نوار توسعه دهنده">
-<!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F4">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "ابزارها">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "فعال کردن ابزارهای توسعه‌دهنده">
-<!ENTITY devToolbarOtherToolsButton.label  "ابزارهای بیشتر">
-
-<!ENTITY getMoreDevtoolsCmd.label        "دریافت ابزارهای بیشتر">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "ا">
 
 <!ENTITY fileMenu.label         "فایل"> 
 <!ENTITY fileMenu.accesskey       "ف">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "بریدن">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ر"> 
-<!ENTITY copyCmd.label            "رونوشت">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "ر"> 
+
 <!ENTITY pasteCmd.label           "جایگذاری">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "ج"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "باز کردن منوراهنما">
 
 <!ENTITY appMenuRemoteTabs.label "زبانه‌های همگام‌سازی شده">
-<!ENTITY appMenuRemoteTabs.fetching.label "در حال دریافت زبانه‌های همگام‌سازی شده…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "بدون زبانهٔ باز">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "در دستگاه‌های دیگر خود وارد حساب فایرفاکس شوید تا زبانه‌های باز آنها را اینجا ببینید.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "ترجیحات همگام‌سازی">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "وارد شوید تا فهرست زبانه‌ها را از دستگاه‌های دیگر خود ببینید.">
 <!ENTITY appMenuRemoteTabs.signin.label "برای همگام‌سازی وارد شوید">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "اتصال شما با این سایت خصوصی نیست. اطلاعاتی که شما ثبت می‌کنید ممکن است توسط دیگران دیده شود (مانند گذرواژه‌ها، پیام‌ها، کارت‌های بانکی و غیره).">
 <!ENTITY identity.description.insecureLoginForms "اطلاعات ورود شما که در این صفحه وارد می‌کنید امن نیستند و ممکن است در معرض خطر باشند.">
 <!ENTITY identity.description.weakCipher "اتصال شما با این سایت از کدگذاری ضعیفی استفاده می‌کند و خصوصی نیست.">
-<!ENTITY identity.description.weakCipher2 "افراد دیگر می‌توانند اطلاعات شما را ببینید یا رفتار سایت را تغییر دهند.">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; قسمت‌هایی از این صفحه را که ایمن نیستند، مسدود کرده است.">
 <!ENTITY identity.description.passiveLoaded "اتصال شما خصوصی نیست و اطلاعاتی که با سایت اشتراک می‌گذارید می‌تواند توسط دیگران دیده شود.">
 <!ENTITY identity.description.passiveLoaded2 "این سایت حاوی محتوایی است که ایمن نیستند (مانند تصاویر).">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "زبانه‌های همگام‌سازی شده">
 
 <!ENTITY syncedTabs.sidebar.label              "زبانه‌های همگام شده">
-<!ENTITY syncedTabs.sidebar.fetching.label     "در حال دریافت زبانه‌های همگام شده…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "در دستگاه‌های دیگر خود، وارد حساب فایرفاکس شوید تا زبانه‌های باز آنها را اینجا ببینید.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "برای نمایش فهرست زبانه‌ها از دستگاه‌های دیگر وارد شوید.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "بدون زبانهٔ باز">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "باز کردن ترجیحات &syncBrand.shortName.label;">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "همگام‌سازی زبانه‌ها را برای نمایش فهرست زبانه‌ها در دستگاه‌های دیگر خود روشن کنید.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "باز کردن این زبانه">
-<!ENTITY syncedTabs.context.openTab.accesskey               "ب">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "نشانک‌گذاری این زبانه…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "ن">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "نشانک‌گذاری این زبانه…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ن">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "هم‌گام‌سازی">
