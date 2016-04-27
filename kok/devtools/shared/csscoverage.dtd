@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "लोड करपाची गती तुमी हालोवन बेगीन करू शकता">
 <!ENTITY csscoverage.optimize.body2 "पानाच्या तळाचे टॅग्ज आणि ओळीन नवे तयार करता">
-<!ENTITY csscoverage.optimize.body3 "वयल्या 'लोड करात' घडणुकेपयली जाय आशिल्ल्या शैलींसयत घटक. तुमका जाय ते शैली ब्लॉक्स हांगा आसात:">
+
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

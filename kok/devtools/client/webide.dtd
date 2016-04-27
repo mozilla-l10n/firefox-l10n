@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "हेर">
 <!ENTITY runtimePanel_installsimulator "सिम्युलेटर्स प्रतिष्ठापित करात">
 <!ENTITY runtimePanel_noadbhelper "ADB मदत करपी प्रतिष्ठापित करात">
-<!ENTITY runtimePanel_nousbdevice "तुमचे उपकरण दिसना?">
+
 
 <!-- Lense -->
 

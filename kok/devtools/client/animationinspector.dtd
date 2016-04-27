@@ -14,10 +14,6 @@
 
 
 <!ENTITY animationInspectorTitle "एनिमेशन">
-<!-- LOCALIZATION NOTE (invalidElement): This is the label shown in the panel
-     when an invalid node is currently selected in the inspector. -->
-
-<!ENTITY invalidElement "सध्याच्या घटकाक एनिमेशन मेळूंक ना.">
 <!-- LOCALIZATION NOTE (selectElement): This is the label shown in the panel
      when an invalid node is currently selected in the inspector, to invite the
      user to select a new node by clicking on the element-picker icon. -->

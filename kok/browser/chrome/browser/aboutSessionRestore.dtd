@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "विंडो &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "सुरू करू या!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "यश!">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "तुमचे अँड-ऑन्स आनी कस्टमाझेशन्स काडल्यात आनी तुमची ब्रावजर स्थापितां परत मुळाव्यान केल्यात. तरीय तुमचो प्रस्न सुटू नाजल्यार,">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "तुमी किदे करपाक शकता ताजे वीशीं अदिक शिकात.">

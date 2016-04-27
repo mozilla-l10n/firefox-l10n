@@ -2,39 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "तुमी सद्या खाजगी विंडोन ना.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "खाजगी विंडो उगडात">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "तुमी सद्या खाजगी विंडोन ना.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "खाजगी विंडो उगडात">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ख">
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
-     Width of the Private Browsing section. This should depend primarily on the
-     length of the headers and text, but should be roughly 1.5 times the width
-     of the Tracking Protection section, and in general not much larger than
-     30em to prevent the sections from wrapping on smaller window sizes.
-     -->
-<!ENTITY aboutPrivateBrowsing.title            "तुमी खाजगीपणान ब्रावज करता">
-
-<!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
-
-<!ENTITY aboutPrivateBrowsing.info.cookies     "कुकीज">
 
 
-<!ENTITY aboutPrivateBrowsing.info.downloads   "डाऊनलोड">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks   "बुकमार्क ">
 
-<!ENTITY aboutPrivateBrowsing.learnMore        "अदिक शिकात.">
-<!-- LOCALIZATION NOTE (trackingProtection.width1):
-     Width of the Tracking Protection section. It is fine for the enabled or
-     disabled indicator or the words in the title to wrap to the next line, but
-     you can expand or reduce this section to fit better, as long as the width
-     of the Private Browsing section is roughly 1.5 times the width of this one.
-     Note that the required space may vary between platforms because fonts are
-     different, so testing on Windows, Mac, and Linux is encouraged.
-     -->
 
-<!-- LOCALIZATION NOTE (trackingProtection.state.width):
-     Width of the element representing the enabled or disabled indicator.
-     -->
+
+
+
+
+
+
+
+
+
+
+
 
 
 

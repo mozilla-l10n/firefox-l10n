@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; सेटअप">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "येवकार! तुमी पयली &syncBrand.fullName.label; केन्नाच वापरू ना, जाल्यार तुमका नवे खाते तयार करचे पडटले.">
 <!ENTITY button.createNewAccount.label "नवे खाते तयार करात">
 <!ENTITY button.haveAccount.label      "म्हजे खाते आसा">
 
 <!ENTITY setup.choicePage.title.label     "तुमी पयली &syncBrand.fullName.label; वापल्ला?">
-<!ENTITY setup.choicePage.new.label       "हावे केन्नाच &syncBrand.shortName.label; पयली वापरूंक ना">
-<!ENTITY setup.choicePage.existing2.label "हाव पयलीसावन् &syncBrand.shortName.label; हेर उपकरणाचेर वापरता.">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "सर्वर">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "उपकरणाची जोडी करात">
 <!ENTITY addDevice.showMeHow.label          "माका कशे ते दाखयात.">
-<!ENTITY addDevice.dontHaveDevice.label     "म्हजे बरोबर उपकरण ना">
+
 <!ENTITY pairDevice.setup.description.label  "सक्रिय करपाक, तुमच्या हेर उपकरणार &quot;उपकरणाची जोडी करात&quot; निवडात">
 <!ENTITY addDevice.setup.enterCode.label    "मागीर हो कोड दियात:">
 <!ENTITY pairDevice.dialog.description.label "तुमचे नवे उपकरण सक्रिय करपाक, उपकरणाचेर &quot;सिंक थारायात&quot; निवडात">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        " जोडात">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2a.merge.main.label       "म्हज्या &syncBrand.shortName.label; डेटांत ह्या उपकरणाचो डेटा विलीन करात.">
 <!ENTITY choice2.merge.recommended.label "शिफारस केल्या:">
 <!ENTITY choice2a.client.main.label      "ह्या उपकरणावेलो सगळो डेटा म्हज्या &syncBrand.shortName.label; डेटाकडेन बदलात.">
-<!ENTITY choice2a.server.main.label      "ह्या उपकरणाच्या डेटाकडेन हेर सगळी उपकरणा बदलात.">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "दुजोरो दियात">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; आता ह्या उपकरणाचो सगळो ब्रावजर डेटा तुमच्या सिंक खात्यान विलीन करतलो.">
+
 <!ENTITY confirm.client3.label         "शिटकावणी: ह्या उपकरणावेलो मुखावेलो &brandShortName; डेटा काडून उडयलो वतलो :">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; उपरांत तुमचो &syncBrand.fullName.label; डेटा ह्या उपकरणाचेर प्रत करतलो.">
 <!ENTITY confirm.server2.label         "शिटकावणी: मुखावेली उपकरणां तुमच्या थळाव्या डेटाचेर वयर बरयली वतली:">

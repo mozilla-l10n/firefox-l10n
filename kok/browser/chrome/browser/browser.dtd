@@ -167,7 +167,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "ह्या पानांक वर्गणीदार करात...">
 <!ENTITY addCurPagesCmd.label "सगळे टॅब्स पुस्तकखूणों करात...">
 <!ENTITY showAllBookmarks2.label "सगळे बूकमार्क दाखोवचे">
-<!ENTITY unsortedBookmarksCmd.label "वर्गिकरण करूनाशिल्यो पुस्तकखुणो ">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "अदीक बूकमार्क दाखोवचे">
 
 <!ENTITY backCmd.label                "फाटीं">
@@ -208,7 +209,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!ENTITY searchItem.title             "सोद">
 <!-- Toolbar items --> 
 
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "बुकमार्क ">
-<!ENTITY bookmarksMenuButton.unsorted.label "वर्गिकरण करूनाशिल्यो पुस्तकखुणो ">
+
 <!ENTITY viewBookmarksSidebar2.label        "बुकमार्कस् सायडबार पळयात">
 <!ENTITY viewBookmarksToolbar.label         "बूकर्मार्क्स साधनपट्टी दृश्य करची">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -248,76 +248,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "वॅब डॅवलॉपर">
 <!ENTITY webDeveloperMenu.accesskey   "व">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-
-
-<!ENTITY devtoolsConnect.label        "Connect…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "त्रुटी कंसोल">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-
-<!ENTITY remoteWebConsoleCmd.label    "रिमोट वेब कन्सोल">
-
-<!ENTITY browserConsoleCmd.label      "ब्रावजर कन्सोल">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "ब">
-
 <!ENTITY inspectContextMenu.label     "घटक तपासात">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "प्रतिसादात्मक डिजाईन व्हिव">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Eyedropper">
-<!ENTITY eyedropper.accesskey "y">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "स्क्रॅचपॅड">
-<!ENTITY scratchpad.accesskey         "स">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Browser साधनपेटी">
-<!ENTITY browserToolboxMenu.accesskey "e">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-
-<!ENTITY devToolbarCloseButton.tooltiptext "सुदारपी साधनपट्टी बंद करात">
-<!ENTITY devToolbarMenu.label              "सुदारपी साधनपट्टी">
-<!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "अदलाबदल साधनां">
-<!ENTITY devToolboxMenuItem.accesskey      "अ">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "अदलाबदल विकास साधनां">
-<!ENTITY devToolbarOtherToolsButton.label  "अदिक साधनां">
-
-<!ENTITY getMoreDevtoolsCmd.label        "अदीक साधनां मेळोवचीं">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "अ">
 
 <!ENTITY fileMenu.label         "धारिका"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -349,9 +281,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "कापात">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "आनी प्रत">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+
 <!ENTITY pasteCmd.label           "दसयात">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -400,7 +332,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास सायडबार पळयात">
 <!ENTITY appMenuHelp.tooltip "मदत मेनू उगडात">
 
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
@@ -408,6 +339,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -768,8 +700,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
+
+
+
 
 
 

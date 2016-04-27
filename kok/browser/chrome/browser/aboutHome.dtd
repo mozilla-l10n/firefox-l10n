@@ -18,7 +18,6 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "तुमचे फायरफॉक्स तुमका जाय तशे कस्टमायझ करप सोपे. <a>हजरांनी अँड-ऑन्सामदल्यान निवडात</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "बगर-नफो मॉझिल्ला संस्थेचे &brandFullName; फुकट आनी ओपन स्त्रोत सॉफ्टवेर आसा. <a>तुमचे हक्क जाणात…</a>">
 

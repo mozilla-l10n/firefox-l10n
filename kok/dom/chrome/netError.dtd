@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "धारिका मेळूंक ना">
 <!ENTITY fileNotFound.longDesc "<ul><li>वस्तीक नवे नाव दिले, काडून उडयले वो परतून दवरले?</li><li>नाम्यांत स्पेलिंग, कॅपिटलायझेशन, वो हेर टंकलेखन एरर आसात?</li><li>विनंती केल्ल्या वस्तीक तुमचेकडेन जाय त्यो प्रवेश परवानग्यो आसात?</li></ul>">
 
+
+
 <!ENTITY generic.title "विनंती पुराय करपाक शकना.">
 <!ENTITY generic.longDesc "<p>ह्या आडमेळाविशीं वो एरराविशीं आदिक माहिती सद्या उपलब्ध ना.</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "रिमोट XUL">
 <!ENTITY remoteXUL.longDesc "</p><ul><li>ह्या आडमेळाविशी कळोवपाक मात्शे तुमच्या वेबसायट मालकांक संपर्क करात.</li></ul>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

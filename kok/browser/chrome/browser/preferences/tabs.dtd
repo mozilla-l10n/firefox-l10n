@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "अनेक टॅबां उक्ती करतास्तना म्हाका शिटकावणी दियात. ताका लागून &brandShortName; हळू जाव येता.">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "निवडच्या पयली टॅब्स चालू करू नाकात.">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
-
 <!ENTITY switchToNewTabs.label        "जेन्ना हाव नव्या टॅबांत जोड उक्ती करता, तातूंत ताबडतोब घालात. ">
 <!ENTITY switchToNewTabs.accesskey    "h">
 

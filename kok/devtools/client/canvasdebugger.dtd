@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "चेर क्लीक करात">
-<!ENTITY canvasDebuggerUI.emptyNotice2    "एनिमेशन चौकटीचो कॉल स्टॅक रेकॉर्ड करपाक बटण.">
+
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed

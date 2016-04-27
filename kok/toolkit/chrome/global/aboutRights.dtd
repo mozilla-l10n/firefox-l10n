@@ -61,7 +61,7 @@
 <!ENTITY rights.safebrowsing-b "सुरक्षित ब्रावजिंग वैशिष्ट्य अक्षम करपाची शिफारस ना कारण अशे केल्यार तुमी असुरक्षित सायटींनी वचू शकतात. तुमी वैशिष्ट्य पुराय तरेन अक्षम करपाचे आसल्यार, मुखावयल्या पावलांफाटल्यान वचात:">
 <!ENTITY rights.safebrowsing-term1 "अनुप्रयोग प्राधान्यां उगडात">
 <!ENTITY rights.safebrowsing-term2 "सुरक्षा निवड निवडात">
-<!ENTITY rights.safebrowsing-term3 " &quot;&blockAttackSites.label;&quot; आणि &quot;&blockWebForgeries.label;&quot; विकल्पांवेली खूण काडात ">
+
 <!ENTITY rights.safebrowsing-term4 "सुरक्षित ब्रावजिंग आता निश्क्रीय केलां">
 <!-- location aware browsing points for branded builds -->
 

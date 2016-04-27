@@ -23,8 +23,6 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-
-<!ENTITY remoteHelp "फायरफॉक्स विकासक साधनां रिमोट उपकरणां (एनड्रॉय्डाखातीर फायरपॉक्स आनी फायरपॉक्स OS, देखीक) डिबग करपाक शकता . रिमोट उपकरणांन तुमी 'रिमोट डिबगींग' विकल्प चालू केला हाजी खात्री करात. अदिक माहितेखातीर, पळयात">
 <!ENTITY remoteDocumentation "दस्तावेजीकरण ">
 <!ENTITY remoteHelpSuffix ".">
 
