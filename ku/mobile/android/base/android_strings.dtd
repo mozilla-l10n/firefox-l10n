@@ -3,11 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "Ji bo destpêkirina &brandShortName;ê têra xwe ciyê vala tune ye.">
-<!ENTITY  error_loading_file "Dema ku barkirina pelên ji bo destpêkirina &brandShortName;ê pêwîst dihat ceribandin çewtî çêbû.">
-
-
-
 
 
 
@@ -24,12 +19,16 @@
 
 
 
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Bijare">
 <!ENTITY  history_title "Raborî">
-<!ENTITY  reading_list_title "Lîsteya Xwendinê">
+
 
 
 <!ENTITY  switch_to_tab "Biçe hilpekînê">
@@ -46,12 +45,6 @@
 <!ENTITY  sending_crash_report "Rapora hilweşînê tê şandin\u2026">
 <!ENTITY  crash_close_label "Bigire">
 <!ENTITY  crash_restart_label "&brandShortName;ê venû bike">
-<!ENTITY  exit_label "Derkeve">
-
-<!ENTITY  launcher_shortcuts_title "Bernamekokên Webê yên &brandShortName;ê">
-<!ENTITY  launcher_shortcuts_empty "Hîç bernamekoka webê nehat dîtin">
-
-<!ENTITY choose_file "Pelî Hilbijêre">
 
 
 
@@ -63,13 +56,19 @@
 <!ENTITY bookmark_updated "Bijare hat nûkirin">
 <!ENTITY bookmark_options "Vebijark">
 
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+
 <!ENTITY history_today_section "Îro">
 <!ENTITY history_yesterday_section "Do">
 
 
-
-
-<!ENTITY go "Biçê">
 
 <!ENTITY reload "Nû bike">
 <!ENTITY forward "Pêşve">
@@ -117,8 +116,6 @@
      "to bookmark", not the noun "a bookmark". -->
 
 
-
-
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -137,6 +134,7 @@
 
 
 <!ENTITY pref_category_datareporting "Vebijarkên daneyan">
+
 <!ENTITY pref_learn_more "Bêtir bizane">
 <!ENTITY pref_category_installed_search_engines "Motorên lêgerînê yên barkirî">
 <!ENTITY pref_category_add_search_providers "Zêdetir peydakerên lêgerînê lê zêde bike">
@@ -150,7 +148,6 @@
      it is applicable. -->
 
 
-<!ENTITY pref_developer_remotedebugging "Ji dûr ve parzûnkirina çewtiyan">
 
 
 
@@ -161,9 +158,6 @@
 
 
 
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
 
 
 
@@ -192,10 +186,17 @@
 
 
 
+
 <!ENTITY pref_cookies_menu "Çerez">
 
 <!ENTITY pref_cookies_not_accept_foreign "Çalak, ji bî partiyên 3yemîn">
 <!ENTITY pref_cookies_disabled "Neçalak">
+
+
+
+
+
+
 
 
 
@@ -233,6 +234,15 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "Kodkirina karakteran">
 <!ENTITY pref_char_encoding_on "Menuyê nîşan bide">
 <!ENTITY pref_char_encoding_off "Menuyê nîşan nede">
@@ -244,7 +254,7 @@
 
 <!ENTITY pref_plugins "Pêvek">
 
-<!ENTITY pref_plugins_tap_to_play "Bipelîne ku bê lêxistin">
+
 
 <!ENTITY pref_text_size "Mezinahiya nivîsê">
 
@@ -289,6 +299,7 @@ size. -->
 
 
 
+
 <!ENTITY pref_vendor_faqs "PPP">
 
 
@@ -301,10 +312,12 @@ size. -->
 
 
 
-<!ENTITY datareporting_notification_action_long "Agahiyên ku dê bên parvekirin hilbijêre">
 <!ENTITY datareporting_notification_action "Tiştên parve bikî hilbijêre">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Agahiyên ku dê bên parvekirin hilbijêre">
 <!ENTITY datareporting_notification_summary "Ji bo pêşvebirina azmûna te, &brandShortName; hin agahiyan xweber ji &vendorShortName;ê re dişîne">
-<!ENTITY datareporting_notification_summary_short "Ji bo pêşvebirina azmûnên te &brandShortName;…">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -355,7 +368,6 @@ size. -->
 
 
 
-
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -381,8 +393,6 @@ size. -->
 
 <!ENTITY contextmenu_top_sites_pin "Malperê sabît bike">
 <!ENTITY contextmenu_top_sites_unpin "Malperê nesabît bike">
-
-
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -416,16 +426,6 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -458,19 +458,10 @@ size. -->
 
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-
-
-
-
-
-
-
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -512,7 +503,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- Common mixed and tracking content strings in site identity popup -->
-
 
 
 
@@ -577,7 +567,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -622,4 +611,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+
+
+
 
