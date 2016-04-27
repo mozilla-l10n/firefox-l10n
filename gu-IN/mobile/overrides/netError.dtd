@@ -24,10 +24,10 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>કેપીટલ અક્ષરોના ઉપયોગ માટે અથવા અન્ય લખતી વખતની ક્ષતિઓ માટે ફાઇલનું નામ ચકાસો.</li> <li>ફાઇલને ખસેડવામાં આવી હતી, તેનું નામ બદલવામાં આવ્યું હતુ કે તેને કાઢી મૂકવામાં આવી હતી તે જોવા માટે ચકાસો.</li> </ul>">
 
 
-<!ENTITY generic.title "અરર.">
-<!ENTITY generic.longDesc "<p>કોઇક કારણસર &brandShortName; આ પાનું લાવી શકતું નથી.</p>">
 
-<!ENTITY malformedURI.title "સરનામું બરાબર નથી">
+<!ENTITY generic.title "અરર.">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -35,7 +35,7 @@
 
 
 <!ENTITY notCached.title "દસ્તાવેજ નિવૃત્ત થઇ ગયું">
-<!ENTITY notCached.longDesc "<p>અરજી થયેલ દસ્તાવેજ &brandShortName; ની કૅશમાં ઉપલબ્ધ નથી.</p><ul><li>સુરક્ષા સાવધાની હેઠળ, &brandShortName; સંવેદનશીલ દસ્તાવેજો માટે આપોઆપ પુનઃઅરજી કરતું નથી.</li><li>વેબસાઇટ પરથી દસ્તાવેજની પુનઃઅરજી કરવા માટે ફરી પ્રયાસ કરો ક્લિક કરો.</li></ul>">
+
 
 <!ENTITY netOffline.title "ઑફલાઇન સ્થિતિ">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -53,7 +53,6 @@
 <!ENTITY netTimeout.title "જોડાણનો સમય સમાપ્ત થઇ ગયો">
 
 
-<!ENTITY unknownProtocolFound.title "સરનામું સમજાયું નહિ">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>આ સરનામું ખોલવા માટે તમારે અન્ય સૉફ્ટવેર સ્થાપિત કરવાની જરૂર પડી શકે.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "પ્રૉક્સી સર્વર જોડાણો નકારી રહ્યું છે">
@@ -63,7 +62,6 @@
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY redirectLoop.title "પાનું બરાબર પુનઃદિશામાન થતું નથી">
 <!ENTITY redirectLoop.longDesc "<ul> <li>આ સમસ્યા અમુક વાર કુકીઓ સ્વીકારવાનું નિષ્ક્રિય કરવાથી કે નકારવાથી પણ આવી શકે.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "સર્વર તરફથી અનિચ્છનિય પ્રત્યુત્તર">
@@ -73,7 +71,7 @@
 
 
 <!ENTITY nssBadCert.title "સુરક્ષિત જોડાણ નિષ્ફળ">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>સર્વરના રૂપરેખાંકન સાથે સમસ્યા હોઇ શકે, અથવા કોઇક સર્વર સાથે છેડછાડ કરવાનો પ્રયાસ કરી રહ્યું હોઇ શકે.</li> <li>જો તમે ભૂતકાળમાં આ સર્વર સાથે સફળતાપૂર્વક જોડાણ કર્યું હોય, તો ક્ષતિ ક્ષણિક હોઇ શકે, અને તમે પછીથી ફરી પ્રયાસ કરી શકો.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -101,3 +99,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
