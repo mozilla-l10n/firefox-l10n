@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Privat surfning">
 
 <!ENTITY trackingProtection.title                        "Spårningsskydd">
-
-
+<!ENTITY trackingProtection.description2                 "Vissa webbplatser använder spårare som kan övervaka din aktivitet över hela internet. Med spårningsskydd kommer Firefox blockera många spårare som kan samla information om dina surfvanor.">
+<!ENTITY trackingProtection.startTour1                   "Se hur det fungerar">
