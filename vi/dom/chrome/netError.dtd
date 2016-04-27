@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Không tìm thấy tập tin">
 <!ENTITY fileNotFound.longDesc "<ul><li>Có khi nào mục này đã bị đổi tên hoặc di chuyển không?</li><li>Có lỗi chính tả, lỗi HOA-thường, hay lỗi gõ chữ nào khác trong phần địa chỉ không?</li><li>Bạn có đủ quyền hạn để yêu cầu mục này không?</li></ul>">
 
+
+
 <!ENTITY generic.title "Không thể hoàn tất yêu cầu">
 <!ENTITY generic.longDesc "<p>Thông tin thêm về vấn đề hoặc lỗi này hiện không có.</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Vui lòng liên hệ với chủ trang web để báo với họ vấn đề này.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

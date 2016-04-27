@@ -167,7 +167,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Đăng kí theo dõi trang này…">
 <!ENTITY addCurPagesCmd.label "Đánh dấu tất cả các tab…">
 <!ENTITY showAllBookmarks2.label "Các trang đã đánh dấu">
-<!ENTITY unsortedBookmarksCmd.label "Các đánh dấu chưa phân loại">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các trang đánh dấu">
 
 <!ENTITY backCmd.label                "Lùi">
@@ -208,7 +209,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!ENTITY searchItem.title             "Tìm kiếm">
 <!-- Toolbar items --> 
 
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Đánh dấu trang">
-<!ENTITY bookmarksMenuButton.unsorted.label "Các trang đánh dấu chưa sắp xếp">
+
 <!ENTITY viewBookmarksSidebar2.label        "Hiển thị thanh lề đánh dấu trang">
 <!ENTITY viewBookmarksToolbar.label         "Hiển thị thanh đánh dấu trang">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -248,78 +248,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Nhà phát triển Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-
-
-<!ENTITY devtoolsConnect.label        "Kết nối...">
-<!ENTITY devtoolsConnect.accesskey    "n">
-
-<!ENTITY errorConsoleCmd.label        "Error Console">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-
-<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
-
-<!ENTITY browserConsoleCmd.label      "Browser Console">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
-
 <!ENTITY inspectContextMenu.label     "Kiểm tra đối tượng HTML">
 <!ENTITY inspectContextMenu.accesskey "T">
-
-<!ENTITY responsiveDesignTool.label   "Chế độ Responsive Design">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Chọn màu">
-<!ENTITY eyedropper.accesskey "m">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "S">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Browser Toolbox">
-<!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Browser Content Toolbox">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Đóng thanh công cụ lập trình">
-<!ENTITY devToolbarMenu.label              "Thanh công cụ lập trình">
-<!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Bật tắt công cụ">
-<!ENTITY devToolboxMenuItem.accesskey      "B">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Bật tắt công cụ lập trình">
-<!ENTITY devToolbarOtherToolsButton.label  "Thêm công cụ">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Tải thêm công cụ">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "m">
 
 <!ENTITY fileMenu.label         "Tập tin"> 
 <!ENTITY fileMenu.accesskey       "T">
@@ -351,9 +281,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Cắt">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "Chép">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+
 <!ENTITY pasteCmd.label           "Dán">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "D"> 
@@ -402,7 +332,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Hiển thị thanh lề nhật ký">
 <!ENTITY appMenuHelp.tooltip "Mở menu trợ giúp">
 
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
@@ -410,6 +339,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -754,7 +684,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Kết nối của bạn đến trang này không được bảo mật. Thông tin bạn gửi có thể bị thấy bởi người khác (ví dụ như mật khẩu, tin nhắn, thẻ tín dụng).">
 
 <!ENTITY identity.description.weakCipher "Kết nối đến trang này sử dụng mã hóa yếu và không bảo mật.">
-<!ENTITY identity.description.weakCipher2 "Người khác có thể thấy thông tin của bạn hoặc thay đổi hành vi của trang.">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; đã chặn những phần không an toàn của trang này.">
 <!ENTITY identity.description.passiveLoaded "Kết nối không được bảo mật và thông tin bạn chia sẻ với trang này có thể bị thấy bởi người khác.">
 <!ENTITY identity.description.passiveLoaded2 "Trang web này chứa nội dung không an toàn (ví dụ: ảnh).">
@@ -785,8 +715,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
+
+
+
 
 
 

@@ -14,5 +14,8 @@
   -  the corresponding box is hovered. -->
 
 
-<!ENTITY padding.tooltip        "padding (khoảng cách đệm)">
-<!ENTITY content.tooltip        "nội dung">
+<!ENTITY padding.tooltip          "padding (khoảng cách đệm)">
+<!ENTITY content.tooltip          "nội dung">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
