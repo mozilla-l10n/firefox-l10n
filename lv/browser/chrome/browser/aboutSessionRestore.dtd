@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "Logs &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "Lai notiek!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Veiksme!">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Jūšu papildinājumu un pārlūka pielāgojumi ir novākti. Iestatījumi ir atjaunoti uz noklusētajiem. Ja šis nav atrisinājis problēmu, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "uzziniet ko vēl jūs varat darīt.">
@@ -52,9 +45,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "Migrēt citas cilņu grupas">
-<!ENTITY tabgroupsmigration.pagetitle2          "Mēs esam aizvākuši cilņu grupas, jūsu cilnes ir saglabātas">
+
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Uzziniet par papildinājumiem, kas aizvieto cilņu grupas">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; saglabāja jūsu cilnes grāmatzīmēs, lai nekas nepazustu.">
+
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Parādīt saglabātās cilņu grupas">
 <!ENTITY tabgroupsmigration.restoredescription  "Jūs varat arī atjaunot visas vai dažas fona grupas logā tagad:">
 

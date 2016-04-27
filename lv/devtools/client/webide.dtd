@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Citas">
 <!ENTITY runtimePanel_installsimulator "Instalēt simulatoru">
 <!ENTITY runtimePanel_noadbhelper "Instalēt ADB palīgu">
-<!ENTITY runtimePanel_nousbdevice "Neredzat savas ierīces?">
+
 <!ENTITY runtimePanel_refreshDevices_label "Atsvaidzināt ierīces">
 <!-- Lense -->
 

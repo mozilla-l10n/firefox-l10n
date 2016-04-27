@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "Kastes modelis">
-<!ENTITY margin.tooltip         "margin">
-<!ENTITY border.tooltip         "border">
-<!ENTITY padding.tooltip        "padding">
-<!ENTITY content.tooltip        "saturs">
+<!ENTITY layoutViewTitle          "Kastes modelis">
+<!ENTITY margin.tooltip           "margin">
+<!ENTITY border.tooltip           "border">
+<!ENTITY padding.tooltip          "padding">
+<!ENTITY content.tooltip          "saturs">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->

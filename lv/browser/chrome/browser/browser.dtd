@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Pierakstīties uz šo lapu…">
 <!ENTITY addCurPagesCmd.label "Saglabāt visas cilnes grāmatzīmēs…">
 <!ENTITY showAllBookmarks2.label "Rādīt visas grāmatzīmes">
-<!ENTITY unsortedBookmarksCmd.label "Nešķirotās grāmatzīmes">
+<!ENTITY recentBookmarks.label "Nesen saglabātās">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Rādīt vairāk grāmatzīmju">
 
 <!ENTITY backCmd.label                "Atpakaļ">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Aplūkot lietotnes nesaistes datu paziņojumu">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Pārvaldīt autorizācijas informāciju">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Atzīmējiet, ja vēlaties saglabāt paroli">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Aplūkot lietotnes instalēšanas paziņojumu">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Pārvaldīt spraudņu lietojumu šajā lapā">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Mainiet, vai šī lapa var parādīt paziņojumus">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Grāmatzīmes">
-<!ENTITY bookmarksMenuButton.unsorted.label "Nešķirotās grāmatzīmes">
+
 <!ENTITY viewBookmarksSidebar2.label        "Atvērt grāmatzīmes sānjoslā">
 <!ENTITY viewBookmarksToolbar.label         "Attēlo grāmatzīmes sānu joslā">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Tīmekļa izstrādātājs">
 <!ENTITY webDeveloperMenu.accesskey   "T">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Pakalpojumu darbinieki">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Pieslēgties…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "Kļūdu pārlūks">
-<!ENTITY errorConsoleCmd.accesskey    "K">
-
-<!ENTITY remoteWebConsoleCmd.label    "Attālināta tīmekļa konsole">
-
-<!ENTITY browserConsoleCmd.label      "Pārlūka konsole">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "P">
-
 <!ENTITY inspectContextMenu.label     "Izmeklēt">
 <!ENTITY inspectContextMenu.accesskey "I">
-
-<!ENTITY responsiveDesignTool.label   "Adaptīvā dizaina režīms">
-<!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Pipete">
-<!ENTITY eyedropper.accesskey "i">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Javascript smilškaste">
-<!ENTITY scratchpad.accesskey         "e">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Pārlūka rīki">
-<!ENTITY browserToolboxMenu.accesskey "r">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Pārlūka satura rīki">
-<!ENTITY browserContentToolboxMenu.accesskey "k">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Aizvērt izstrādātāja rīkjoslu">
-<!ENTITY devToolbarMenu.label              "Izstrādātāja rīkjosla">
-<!ENTITY devToolbarMenu.accesskey          "j">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Ieslēgt rīkus">
-<!ENTITY devToolboxMenuItem.accesskey      "t">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Ieslēgt izstrādātāju rīkus">
-<!ENTITY devToolbarOtherToolsButton.label  "Vairāk rīku">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Iegūt vairāk rīku">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "r">
 
 <!ENTITY fileMenu.label         "Fails"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Izgriezt">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "Kopēt">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
+
 <!ENTITY pasteCmd.label           "Ielīmēt">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "I"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Atvērt palīdzības izvēlni">
 
 <!ENTITY appMenuRemoteTabs.label "Sinhronizētās cilnes">
-<!ENTITY appMenuRemoteTabs.fetching.label "Iegūst sinhronizētās cilnes…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nav atvērto cilņu">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Pierakstieties Firefox citās ierīcēs, lai redzētu šeit cilnes no šīm ierīcēm.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sinhronizācijas iestatījumi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Pierakstieties, lai redzētu šeit cilnes no šīm ierīcēm.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pieslēgties Sync">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Jūsu savienojums ar šo lapu nav drošs. Lapai nosūtītā informācija (piemēram paroles, ziņojumi vai kredītkartes dati) var būt pieejami citiem.">
 <!ENTITY identity.description.insecureLoginForms "Dati, ko ievadīsiet šajā lapā nav aizsargāti un var tikt pārtverti.">
 <!ENTITY identity.description.weakCipher "Jūsu savienojums ar šo lapu izmanto vāju šifrēšanu un nav privāts.">
-<!ENTITY identity.description.weakCipher2 "Citi cilvēki var aplūkot jūsu informāciju vai modificēt lapas uzvedību.">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; bloķēja nedrošo saturu šajā lapā.">
 <!ENTITY identity.description.passiveLoaded "Jūsu savienojums ar šo lapu nav drošs, lapai nosūtītā informācija var būt pieejami citiem.">
 <!ENTITY identity.description.passiveLoaded2 "Šīs lapas daļas (piemēram attēli) nav drošas.">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Sinhronizētās cilnes">
 
 <!ENTITY syncedTabs.sidebar.label              "Sinhronizētās cilnes">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Iegūst sinhronizētās cilnes…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Pierakstieties Firefox citās ierīcēs, lai redzētu šeit cilnes no šīm ierīcēm.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Pierakstieties, lai redzētu šeit cilnes no šīm ierīcēm.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nav atvērto cilņu">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Atvērt &syncBrand.shortName.label; iestatījumus">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ieslēdziet cilņu sinhronizāciju, lai redzētu cilnes no citām ierīcēm.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Atvērt šo cilni">
-<!ENTITY syncedTabs.context.openTab.accesskey               "A">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Saglabāt šo lapu grāmatzīmēs…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "b">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Saglabāt šo lapu grāmatzīmēs…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "b">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sinhronizēt">
