@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "Néha felgyorsítható a betöltés a ">
 <!ENTITY csscoverage.optimize.body2 "címkék áthelyezésével az oldal aljára, és új inline ">
-<!ENTITY csscoverage.optimize.body3 "elem létrehozásával a „load” esemény előtt szükséges stílusokkal. A következő stílusblokkok szükségesek:">
+
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

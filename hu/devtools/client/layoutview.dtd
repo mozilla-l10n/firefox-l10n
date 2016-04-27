@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "Dobozmodell">
-<!ENTITY margin.tooltip         "margó">
-<!ENTITY border.tooltip         "szegély">
-<!ENTITY padding.tooltip        "kitöltés">
-<!ENTITY content.tooltip        "tartalom">
+<!ENTITY layoutViewTitle          "Dobozmodell">
+<!ENTITY margin.tooltip           "margó">
+<!ENTITY border.tooltip           "szegély">
+<!ENTITY padding.tooltip          "kitöltés">
+<!ENTITY content.tooltip          "tartalom">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
