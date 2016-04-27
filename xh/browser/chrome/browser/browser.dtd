@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Rhuma Kweli Phepha…">
 <!ENTITY addCurPagesCmd.label "Faka ibhukhmakhi kuzo zonke iithebhu…">
 <!ENTITY showAllBookmarks2.label "Bonisa zonke iibhukhmakhi">
-<!ENTITY unsortedBookmarksCmd.label "Iibhukhmakhi ezingalandelelaniswanga">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Bonisa iibhukhmakhi ezininzi">
 
 <!ENTITY backCmd.label                "Emva">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Jonga umyalezo wogcino lwe-app engekho kwinethwekhi">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Lawula inkcazelo yakho yokuloga ungene">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Khangela enoba ufuna ukugcina iphaswedi yakho">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Jonga umyalezo wokufakela i-app">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Lawula ukusetyenziswa kwezifakelo kweli phepha">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Tshintsha enoba ungafumana isaziso kule sayithi">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Iibhukhmakhi">
-<!ENTITY bookmarksMenuButton.unsorted.label "Iibhukhmakhi ezingalandelelaniswanga">
+
 <!ENTITY viewBookmarksSidebar2.label        "Bona ibha esecaleni yeeBhukhmakhi">
 <!ENTITY viewBookmarksToolbar.label         "Bona iThulbha Yeebhukhmakhi">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Umphuhlisi-webhu">
 <!ENTITY webDeveloperMenu.accesskey   "U">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Abasebenzi Beenkonzo">
-<!ENTITY devtoolsServiceWorkers.accesskey  "s">
-
-<!ENTITY devtoolsConnect.label        "Dibanisa…">
-<!ENTITY devtoolsConnect.accesskey    "i">
-
-<!ENTITY errorConsoleCmd.label        "Uthuthuzelo lwemposiso">
-<!ENTITY errorConsoleCmd.accesskey    "U">
-
-<!ENTITY remoteWebConsoleCmd.label    "Uthuthuzelo lwewebhu olumgama">
-
-<!ENTITY browserConsoleCmd.label      "Ikhonsoli Yebhrawuza">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "I">
-
 <!ENTITY inspectContextMenu.label     "Hlola ielementi">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "Imbonakalo yoyilo ephendulayo">
-<!ENTITY responsiveDesignTool.accesskey "e">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Isiwisaliso">
-<!ENTITY eyedropper.accesskey "s">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Iphedi esisiqalo">
-<!ENTITY scratchpad.accesskey         "e">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Ithulbhokisi yeBhrawuza">
-<!ENTITY browserToolboxMenu.accesskey "z">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Ibhokisi yezixhobo enesiqulatho sebhrawuzax">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Vala ithulbha yomphuhlisi">
-<!ENTITY devToolbarMenu.label              "IThulbha yoMphuhlisi">
-<!ENTITY devToolbarMenu.accesskey          "h">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Izixhobo zeqhosha elilayita licima">
-<!ENTITY devToolboxMenuItem.accesskey      "z">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Izixhobo zomqulunqi zeqhosha elilayita licima">
-<!ENTITY devToolbarOtherToolsButton.label  "Izixhobo ezingaphezulu">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Fumana izixhobo ezingaphezulu">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "i">
 
 <!ENTITY fileMenu.label         "Ifayile"> 
 <!ENTITY fileMenu.accesskey       "I">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Sika">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "k"> 
-<!ENTITY copyCmd.label            "Kopa">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
+
 <!ENTITY pasteCmd.label           "Ncamathelisa">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "N"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Vula iMenyu yoNcedo">
 
 <!ENTITY appMenuRemoteTabs.label "Iithebhu Ezingqamanisiweyo">
-<!ENTITY appMenuRemoteTabs.fetching.label "Ilanda Iithebhu Ezingqamanisiweyo…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Azikho iithebhu ezivuliweyo">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Sayina ungene kwi-Firefox ngokusuka kwezinye izixhobo zakho ukuze uonge iithebhu zazo apha.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ngqamanisa iiPreferensi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Sayina ungene ukuze ujonge iithebhu kwezinye izixhobo zakho.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sayina ungene ukuze uNgqamanise">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Uqhagamshelo lwakho kule sayithi alukho bucala. Inkcazelo oyifakayo inokubonwa ngabanye (njengeephaswedi, imiyalezo, iikhredit khadi, njl. njl.).">
 <!ENTITY identity.description.insecureLoginForms "Inkcazelo yelogini oyifakayo kweli phepha ayikhuselekanga yaye ingalahleka.">
 <!ENTITY identity.description.weakCipher "Uqhagamshelo kule webhsayithi lusebenzisa ukukhowuda okubuthathaka yaye alukho bucala.">
-<!ENTITY identity.description.weakCipher2 "Abanye abantu banokujonga inkcazelo yakho okanye batshintshe indlela esebenza iwebhsayithi.">
+
 <!ENTITY identity.description.activeBlocked "I-&brandShortName; ibhloke iinxalenye zeli phepha ezingakhuselekanga.">
 <!ENTITY identity.description.passiveLoaded "Uqhagamshelo lwakho alukho bucala yaye inkcazelo owabelana ngayo nale sayithi inokubonwa ngabanye.">
 <!ENTITY identity.description.passiveLoaded2 "Le webhsayithi ineziqulatho ezingakhuselekanga (njengemifanekiso).">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Iithebhu Ezingqamanisiweyo">
 
 <!ENTITY syncedTabs.sidebar.label              "Iithebhu Ezingqamanisiweyo">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Ilanda Iithebhu Ezingqamanisiweyo…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Sayina ungene kwi-Firefox ngokusuka kwezinye izixhobo zakho ukuze uonge iithebhu zazo apha.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Sayina ungene ukuze ujonge iithebhu kwezinye izixhobo zakho.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Azikho iithebhu ezivuliweyo">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Vula i-&syncBrand.shortName.label; iiPriferensi">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Layita ungqamaniso lwethebhu ukuze ujonge uludwe lweethebhu kwezinye izixhobo zakho.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Vula Le Thebhu">
-<!ENTITY syncedTabs.context.openTab.accesskey               "V">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Faka Ibhukhmakhi Kweli Khasi…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "F">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Faka Ibhukhmakhi Kweli Khasi…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "F">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Ungqamaniso">
