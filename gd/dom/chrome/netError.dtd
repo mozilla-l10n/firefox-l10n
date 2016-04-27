@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Cha deach am faidhle a lorg">
 <!ENTITY fileNotFound.longDesc "<ul><li>Saoil an deach ainm eile a chur air an fhaidhle, no gun deach a thoirt air falbh no a ghluasad?</li><li>A bheil mearachd litreachaidh (a' gabhail a-steach litrichean mòra/beaga) san t-seòladh?</li><li>A bheil cead iomchaidh agad gus an rud iarraidh?</li></ul>">
 
+
+
 <!ENTITY generic.title "Cha ghabh an t-iarrtas a choileanadh">
 <!ENTITY generic.longDesc "<p>Chan eil fiosrachadh a bharrachd ann mun duilgheadas no mun mhearachd seo an-dràsta.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "XUL cèin">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Cuir fios gu seilbheadairean na làraich mun duilgheadas seo.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

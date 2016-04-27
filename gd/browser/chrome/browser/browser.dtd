@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Fo-sgrìobh gun duilleag seo…">
 <!ENTITY addCurPagesCmd.label "Dèan comharra-lìn de gach taba…">
 <!ENTITY showAllBookmarks2.label "Seall a h-uile comharra-lìn">
-<!ENTITY unsortedBookmarksCmd.label "Comharran-lìn gun seòrsachadh">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharran-lìn">
 
 <!ENTITY backCmd.label                "Air ais">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Seall ann teachdaireachd mu stòras far loidhne na h-aplacaid">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Stiùirich am fiosrachadh clàraidh agad">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Thoir sùil a bheil thu airson am facal-faire agad a shàbhaladh">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Seall an teachdaireachd mu stàladh na h-aplacaid">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Stiùirich cleachdadh nam plugan air an duilleag seo">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Cuir romhad am faigh thu brathan on làrach seo gus nach fhaigh">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Comharran-lìn">
-<!ENTITY bookmarksMenuButton.unsorted.label "Comharran-lìn gun seòrsachadh">
+
 <!ENTITY viewBookmarksSidebar2.label        "Seall bàr-taoibh nan comharra-lìn">
 <!ENTITY viewBookmarksToolbar.label         "Seall bàr nan comharra-lìn">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Leasaichear-lìn">
 <!ENTITY webDeveloperMenu.accesskey   "L">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Obraichean seirbheise">
-<!ENTITY devtoolsServiceWorkers.accesskey  "b">
-
-<!ENTITY devtoolsConnect.label        "Ceangail…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "Consoil nam mearachd">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-
-<!ENTITY remoteWebConsoleCmd.label    "Consoil-lìn chèin">
-
-<!ENTITY browserConsoleCmd.label      "Consoil a' bhrabhsair">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "b">
-
 <!ENTITY inspectContextMenu.label     "Sgrùd an eileamaid">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "Sealladh an dealbhaidh fhreagairteach">
-<!ENTITY responsiveDesignTool.accesskey "S">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Pìobaid">
-<!ENTITY eyedropper.accesskey "P">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Pada nan sgrìoban">
-<!ENTITY scratchpad.accesskey         "r">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Bogsa-acainnean a' bhrabhsair">
-<!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Bogsa-innealan susbaint a’ bhrabhsair">
-<!ENTITY browserContentToolboxMenu.accesskey "B">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Dùin bàr-inneal an luchd-leasachaidh">
-<!ENTITY devToolbarMenu.label              "Bàr-inneal an luchd-leasachaidh">
-<!ENTITY devToolbarMenu.accesskey          "B">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Toglaich na h-innealan">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Toglaich innealan an luchd-leasachaidh">
-<!ENTITY devToolbarOtherToolsButton.label  "Barrachd innealan">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Faigh barrachd innealan">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "F">
 
 <!ENTITY fileMenu.label         "Faidhle"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Gearr às">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "G"> 
-<!ENTITY copyCmd.label            "Dèan lethbhreac">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "c"> 
+
 <!ENTITY pasteCmd.label           "Cuir ann">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "C"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Fosgail clàr-taice na cobharach">
 
 <!ENTITY appMenuRemoteTabs.label "Tabaichean sioncronaichte">
-<!ENTITY appMenuRemoteTabs.fetching.label "A’ faighinn nan tabaichean sioncronaichte…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Chan eil taba fosgailte">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Clàraich a-steach gu Firefox o na h-uidheaman eile agad gus na tabaichean uapa fhaicinn an-seo.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Roghainnean sioncronachaidh">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Clàraich a-steach airson liosta de thabaichean a tha agad air uidheaman eile.">
 <!ENTITY appMenuRemoteTabs.signin.label "Clàraich a-steach gun t-sioncronachadh">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Chan eil an ceangal agad ris an làrach seo prìobhaideach. Dh’fhaoidte gum faic daoine eile dàta a chuireas tu a-null (mar fhaclan-faire, teachdaireachdan, cairtean-creideis is msaa.).">
 <!ENTITY identity.description.insecureLoginForms "Chan eil am fiosrachadh a chuir thu a-steach air an duilleag seo tèarainte agus dh’fhaoidte gum bris cuideigin a-steach air a’ chlàradh agad.">
 <!ENTITY identity.description.weakCipher "Tha an ceangal agad ris an làrach-lìn seo a’ cleachdadh crioptachadh lag agus chan eil e prìobhaideach.">
-<!ENTITY identity.description.weakCipher2 "Chì daoine eile am fiosrachadh agad agus is urrainn dhaibh giùlan a’ bhrabhsair agad atharrachadh.">
+
 <!ENTITY identity.description.activeBlocked "Bhac &brandShortName; na pìosan dhen duilleag seo nach eil tèarainte.">
 <!ENTITY identity.description.passiveLoaded "Chan eil an ceangal agad prìobhaideach agus dh’fhaoidte gum faic daoine eile dàta a chuireas tu gun làrach.">
 <!ENTITY identity.description.passiveLoaded2 "Tha susbaint air an làrach-lìn seo nach eil tèarainte (mar dhealbhan).">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Tabaichean sioncronaichte">
 
 <!ENTITY syncedTabs.sidebar.label              "Tabaichean sioncronaichte">
-<!ENTITY syncedTabs.sidebar.fetching.label     "A’ faighinn nan tabaichean sioncronaichte…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Clàraich a-steach gu Firefox o na h-uidheaman eile agad gus na tabaichean uapa fhaicinn an-seo.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Clàraich a-steach airson liosta de thabaichean a tha agad air uidheaman eile.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Chan eil taba fosgailte">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Fosgail roghainnean &syncBrand.shortName.label;">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cuir air sioncronachadh nan tabaichean airson cothrom fhaighinn air na tabaichean agad o uidheaman eile.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Fosgail an taba seo">
-<!ENTITY syncedTabs.context.openTab.accesskey               "o">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Cuir an taba seo ris na comharran-lìn…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "b">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Cuir an taba seo ris na comharran-lìn…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "b">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sioncronachadh">
