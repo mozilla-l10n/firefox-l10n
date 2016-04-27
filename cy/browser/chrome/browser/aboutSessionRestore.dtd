@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "Ffenestr &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "Ffwrdd â ni!">
 <!ENTITY welcomeback2.restoreButton.access "F">
 
 <!ENTITY welcomeback2.tabtitle      "Llwyddiant!">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Mae eich ychwanegion a'ch cyfaddasu wedi eu tynnu ac mae gosodiadau eich porwr wedi eu hadfer i'w rhagosodiad. Os nad yw hyn weddi trwsio eich problem, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "dysgu rhagor am beth fedrwch ei wneud.">
@@ -52,9 +45,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "Mudo eich Grwpiau Tab eraill">
-<!ENTITY tabgroupsmigration.pagetitle2          "Rydym wedi tynnu Grwpiau Tabiau, ond wedi cadw eich tabiau">
+
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Dysgwch am ychwanegion Grwpiau Tabiau eraill.">
-<!ENTITY tabgroupsmigration.description2        "Mae &brandShortName; wedi gosod nod tudalen i'ch grwpiau i gyd felly nid ydych wedi colli dim.">
+
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Dangos Grwpiau Tabiau Nod Tudalen">
 <!ENTITY tabgroupsmigration.restoredescription  "Gallwch hefyd ddewis i adfer rhai neu'r holl grwpiau cefndir i ffenestri nawr:">
 

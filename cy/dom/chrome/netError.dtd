@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Heb Ganfod Ffeil">
 <!ENTITY fileNotFound.longDesc "<ul><li>Efallai bod yr eitem wedi cael ei hailenwi, ei thynnu neu ei symud?</li><li>Oes yna wall sillafu, llythrennu neu wall teipio arall yn y cyfeiriad?</li><li>A oes gennych hawl digonol i gael mynediad at yr eitem hon?</li></ul>">
 
+
+
 <!ENTITY generic.title "Methu Cyflawni'r Cais">
 <!ENTITY generic.longDesc "<p>Nid oes gwybodaeth ar gael am y gwall neu broblem yma ar hyn o bryd.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "XUL pell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu am y broblem..</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

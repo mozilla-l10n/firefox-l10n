@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Rhybuddio wrth agor tabiau lluosog y gallant arafu &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "a">
 
-<!ENTITY restoreTabsOnDemand.label        "Peidio llwytho tabiau nes eu bod wedi eu dewis">
-<!ENTITY restoreTabsOnDemand.accesskey    "P">
-
 <!ENTITY switchToNewTabs.label        "Wrth agor dolen mewn tab newydd, symud yn syth iddo">
 <!ENTITY switchToNewTabs.accesskey    "W">
 

@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Tanysgrifio i'r Dudalen Hon…">
 <!ENTITY addCurPagesCmd.label "Nod Tudalen i Bob Tab…">
 <!ENTITY showAllBookmarks2.label "Dangos Pob Nod Tudalen">
-<!ENTITY unsortedBookmarksCmd.label "Nodau Tudalen heb eu Trefnu">
+<!ENTITY recentBookmarks.label "Wedi gosod Nod Tudalen yn Ddiweddar">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Dangos pob ffolder nod tudalen">
 
 <!ENTITY backCmd.label                "Nôl">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Gweld y neges cadw ap all-lein">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Rheoli eich manylion mewngofnodi">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Gwirio os ydych am gadw eich cyfrinair">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Gweld y neges gosod ap">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Rheoli defnydd ategyn ar y dudalen hon">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Newid p'un ai rydych yn derbyn hysbysiadau o'r wefan">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Nodau Tudalen">
-<!ENTITY bookmarksMenuButton.unsorted.label "Nodau Tudalen heb eu Trefnu">
+
 <!ENTITY viewBookmarksSidebar2.label        "Gweld Bar Offer Nodau Tudalen">
 <!ENTITY viewBookmarksToolbar.label         "Gweld Bar Offer Nodau Tudalen">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Datblygwr Gwe">
 <!ENTITY webDeveloperMenu.accesskey   "D">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Cysylltu…">
-<!ENTITY devtoolsConnect.accesskey    "y">
-
-<!ENTITY errorConsoleCmd.label        "Consol Gwall">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-
-<!ENTITY remoteWebConsoleCmd.label    "Consol Gwe Pell">
-
-<!ENTITY browserConsoleCmd.label      "Consol y Porwr">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "P">
-
 <!ENTITY inspectContextMenu.label     "Archwilio Elfen">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "Golwg Cynllun Ymatebol">
-<!ENTITY responsiveDesignTool.accesskey "Y">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Dewisydd">
-<!ENTITY eyedropper.accesskey "D">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "S">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Blwch Offer y Porwr">
-<!ENTITY browserToolboxMenu.accesskey "B">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Blwch Offer Cynnwys y Porwr">
-<!ENTITY browserContentToolboxMenu.accesskey "B">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Cau'r Offer Datblygwyr">
-<!ENTITY devToolbarMenu.label              "Bar Offer Datblygwyr">
-<!ENTITY devToolbarMenu.accesskey          "B">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Offer Toglo">
-<!ENTITY devToolboxMenuItem.accesskey      "O">
-<!ENTITY devToolboxMenuItem.keytext        "l">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Toglo offer datblygu">
-<!ENTITY devToolbarOtherToolsButton.label  "Rhagor o Offer">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Estyn Rhagor o Offer">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "E">
 
 <!ENTITY fileMenu.label         "Ffeil"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Torri">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "T"> 
-<!ENTITY copyCmd.label            "Copïo">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+
 <!ENTITY pasteCmd.label           "Gludo">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "G"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Agor Dewislen Cymorth">
 
 <!ENTITY appMenuRemoteTabs.label "Tabiau wedi'u Cydweddu">
-<!ENTITY appMenuRemoteTabs.fetching.label "Estyn Tabiau wedi'u Cydweddu…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Dim tabiau agored">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Mewngofnodwch i Firefox o'ch dyfeisiau eraill i weld eu tabiau yma.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Dewisiadau Cydweddu">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Mewngofnodwch i weld rhestr o dabiau o'ch dyfeisiau eraill.">
 <!ENTITY appMenuRemoteTabs.signin.label "Mewngofnodwch i Sync">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Nid yw eich cysylltiad â'r dudalen hon yn breifat. Gall gwybodaeth fyddwch yn ei gyflwyno cael ei weld gan eraill (megis cyfrineiriau, negeseuon, cardiau credyd, ac ati.).">
 <!ENTITY identity.description.insecureLoginForms "Nid yw'r manylion mewngofnodi rydych wedi ei roi i'r dudalen yn ddiogel a gall fod wedi ei danseilio.">
 <!ENTITY identity.description.weakCipher "Mae eich cysylltiad i'r wefan hon yn defnyddio amgryptiad gwan ac nid yw'n breifat.">
-<!ENTITY identity.description.weakCipher2 "Gall bobl eraill weld eich gwybodaeth neu newid ymddygiad y wefan.">
+
 <!ENTITY identity.description.activeBlocked "Mae &brandShortName; wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel.">
 <!ENTITY identity.description.passiveLoaded "Nid yw eich cysylltiad yn breifat ac mae'n bosib i wybodaeth rydych yn ei rannu gael ei weld gan eraill.">
 <!ENTITY identity.description.passiveLoaded2 "Mae'r wefan yn cynnwys deunydd nad yw'n ddiogel (megis delweddau).">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Tabiau wedi'u Cydweddu">
 
 <!ENTITY syncedTabs.sidebar.label              "Tabiau wedi'u Cydweddu">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Estyn Tabiau wedi'u Cydweddu…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Mewngofnodwch i Firefox o'ch dyfeisiau eraill i weld eu tabiau yma.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Mewngofnodwch i weld rhestr o dabiau o'ch dyfeisiau eraill.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Dim tabiau agored">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Agor Dewisiadau &syncBrand.shortName.label;">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cychwynnwch gydweddu tabiau er mwyn gweld rhestr o dabiau o'ch dyfeisiau eraill.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Agor y Tab Hwn">
-<!ENTITY syncedTabs.context.openTab.accesskey               "A">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Gosod Nod Tudalen i'r Tab Hwn…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Gosod Nod Tudalen i'r Tab Hwn…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

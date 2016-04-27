@@ -19,23 +19,23 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Heb ganfod gweinydd">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Gwiriwch y cyfeiriad am wallau teipio megis <strong>ww</strong>.example.com yn lle <strong>www</strong>.example.com</li> <li>Os ydych yn methu llwytho unrhyw dudalen, gwiriwch gysylltiad rhwydwaith eich cyfrifiadur.</li> <li>Os yw eich cyfrifiadur neu rwydwaith wedi ei ddiogelu gan fur cadarn neuddirprwy gwnewch yn siŵr fod gan &brandShortName; ganiatâd i fynd ar y We.</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "Heb ganfod ffeil">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Gwiriwch yr enw ffeil am brif lythrennu neu wallau teipio eraill.</li> <li>Gwiriwch i weld os yw'r ffeil wedi symud, ailenwi neu ei dileu.</li> </ul>">
 
 
-<!ENTITY generic.title "Wps.">
-<!ENTITY generic.longDesc "<p>Nid yw &brandShortName; yn gallu llwytho'r dudalen am ryw reswm.</p>">
 
-<!ENTITY malformedURI.title "Nid yw'r cyfeiriad yn ddilys">
-<!ENTITY malformedURI.longDesc "<ul> <li>Fel rheol mae cyfeiriadau Gwe'n cael eu hysgrifennu fel <strong>http://www.example.com/</strong></li> <li>Gwnewch yn siŵr eich bod yn defnyddio blaen slaes (h.y. <strong>/</strong>).</li> </ul>">
+<!ENTITY generic.title "Wps.">
+
+
+
 
 <!ENTITY netInterrupt.title "Cafodd y cysylltiad ei darfu">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Daeth y Ddogfen i Ben">
-<!ENTITY notCached.longDesc "<p>Nid yw'r ddogfen gofynnwyd amdani ar gael yn storfa &brandShortName;.</p><ul><li>Fel mesur diogelwch, nid yw, &brandShortName; yn ail ofyn yn awtomatig am ddogfennau sensitif.</li><li>Cliciwch Ceisiwch Eto i ail ofyn am y ddogfen o'r wefan.</li></ul>">
+
 
 <!ENTITY netOffline.title "Modd all-lein">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Clicio &quot;Ceisio newid eto&quot; i newid i&apos;r modd ar-lein ac ail lwytho&apos;r dudalen.</li> </ul>">
@@ -52,7 +52,6 @@
 <!ENTITY netTimeout.title "Mae cyfnod y cyswllt wedi dod i ben">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Heb ddeall y cyfeiriad">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Efallai bydd angen i chi osod meddalwedd arall i agor y cyfeiriad yma.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Mae'r gweinydd dirprwy yn gwrthod cysylltiadau">
@@ -61,19 +60,17 @@
 <!ENTITY proxyResolveFailure.title "Methu canfod y gweinydd dirprwyol">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Gwiriwch y gosodiadau dirprwyol i wneud yn siŵr eu bod yn gywir.</li> <li>Gwiriwch fod gan eich cyfrifiadur cyswllt a'r we sy'n gweithio.</li> <li>Os yw eich cyfrifiadur wedi ei ddiogelu gan fur cadarn neu ddirprwy, gwnewch yn siŵr fod gan &brandShortName; fynediad i'r we.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Nid yw'r dudalen yn ailgyfeirio'n iawn">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Gall y broblem yma fod wedi ei achosi drwy anablu neu wrthod cookie.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Ymateb annisgwyl gan y gweinydd">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Gwiriwch fod gan eich system Reolwr Diogelwch Personol wedi ei osod.</li> <li>Gall hyn fod oherwydd ffurfweddiad ansafonol ar y gweinydd.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Methodd y Cysylltiad Diogel">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Nid oes modd dangos y dudalen rydych yn ceisio ei darllen gan nad oes modd gwirio dilysrwydd y data derbyniwyd.</li> <li>Cysylltwch â pherchennog y wefan i'w hysbysu o'r anhawster.</li> </ul>">
 
-<!ENTITY nssBadCert.title "Methodd y Cysylltiad Diogel">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Gall hwn fod yn anhawster gyda ffurfweddiad y gweinydd neu gall fod yn rhywun sy'n ceisio dynwared y gweinydd.</li> <li>Os ydych wedi cysylltu'n llwyddiannus gyda' gweinydd yn y gorffennol, efallai mai gwall dros dro ydyw ac i geisio eto.</li> </ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
-<!ENTITY sharedLongDesc "<ul> <li>Efallai bod y wefan yn brysur neu nad yw ar gael dros dro. Ceisiwch eto ymhen ychydig.</li> <li>Os nad ydych yn gallu llwytho unrhyw dudalennau, gwiriwch gysylltiad rhwydwaith eich cyfrifiadur.</li> <li>Os yw eich cyfrifiadur neu rwydwaith wedi ei ddiogelu gan fur cadarn neu ddirprwy, gwnewch yn siŵr fod gan &brandShortName; hawl i fynediad i'r we.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Rhwystrwyd gan Bolisi Diogelwch Cynnwys">
 <!ENTITY cspBlocked.longDesc "<p>Mae &brandShortName; wedi rhwystro'r dudalen rhag llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
@@ -82,16 +79,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>Nid oes modd dangos y dudalen rydych y ceisio ei gweld oherwydd bu canfuwyd gwall wrth drosglwyddo data.</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Neu mae modd ychwanegu eithriad…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Allan o fan hyn!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ychwanegu Eithriad…">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-
-<!ENTITY securityOverride.warningContent "<p>Peidiwch ychwanegu eithriad os ydych yn defnyddio cysylltiad gwe nad ydych yn ymddiried ynddo'n llwyr neu os nad ydych wedi arfer â gweld rhybudd ar y gweinydd hwn.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "Mae adroddiadau gwall fel hyn y cynorthwyo Mozilla i adnabod a rhwystro gwefannau maleisus">
 <!ENTITY errorReporting.learnMore "Dysgu rhagor…">
@@ -104,10 +92,15 @@ functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Gwybodaeth uwch: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Nid yw eich cysylltiad yn ddiogel">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Gwybodaeth uwch: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Uwch">
 <!ENTITY weakCryptoAdvanced.longDesc "Mae <span class='hostname'></span> yn defnyddio hen dechnoleg diogelwch sy'n fregus iawn. Gall ymosodwr ddatgelu'n hawdd fanylion roeddech yn meddwl eu bod yn ddiogel.">
 <!ENTITY weakCryptoAdvanced.override "(Ddim yn ddiogel) Ceisiwch llwytho <span class='hostname'></span> gan ddefnyddio hen offer diogelwch">
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
