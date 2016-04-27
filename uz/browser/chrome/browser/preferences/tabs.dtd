@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "&brandShortName;ni sekinlashtirishi mumkin bo‘lgan bir necha ichki oynalar ochilayotganda meni ogohlantir">
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY restoreTabsOnDemand.label        "Tanlanmaguncha, ichki oynalar ko‘rsatilmasin">
-<!ENTITY restoreTabsOnDemand.accesskey    "k">
-
 <!ENTITY switchToNewTabs.label        "Linkni yangi ichki oynada ochganimda, u tezda almashtirilsin">
 <!ENTITY switchToNewTabs.accesskey    "a">
 

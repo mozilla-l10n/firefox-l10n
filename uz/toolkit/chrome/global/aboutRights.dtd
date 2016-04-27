@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "&quot;Xavfsiz koʻrish&quot; xususiyatini oʻchirib qoʻyish tavsiya qilinmaydi, chunki siz xavfli saytlarga kirib qolishingiz mumkin.  Agar siz ushbu xususiyatni butunlay, oʻchirmoqchi boʻlsangiz quyidagi bosqichlardan oʻtishingiz kerak:">
 <!ENTITY rights.safebrowsing-term1 "Ilova dastur moslamalarini oching">
 <!ENTITY rights.safebrowsing-term2 "&quot;Xavfsizlikni tanlash&quot;ni tanlang">
-<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; va &quot;&blockWebForgeries.label;&quot; moslamalaridan belgilashni olib tashlang">
+
 <!ENTITY rights.safebrowsing-term4 "&quot;Xavfsiz koʻrish&quot; - hozir oʻchirib qoʻyilgan">
 <!-- location aware browsing points for branded builds -->
 

@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Fayl topilmadi">
 <!ENTITY fileNotFound.longDesc "<ul><li>Elementning nomi oʻzgartirilgan, oʻchirilgan yoki koʻchirilgan boʻlishi mumkinmi?</li><li>Manzilni yozisda imlo, katta-kichik harflarda xato yoki boshqa terishda xatolar bormi?</li><li>Soʻralgan elementga kirishga sizda yetarli huquq bormi?</li></ul>">
 
+
+
 <!ENTITY generic.title "Soʻrov tugallanmadi">
 <!ENTITY generic.longDesc "<p>Hozirda mavjud boʻlmaganlik xatosi yoki muammosi haqida qoʻshimcha ma`lumoot</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "Masofadagi XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bogʻlaning.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

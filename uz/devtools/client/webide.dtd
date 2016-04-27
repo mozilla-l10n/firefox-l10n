@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Boshqa">
 <!ENTITY runtimePanel_installsimulator "Simulyatorni o‘rnatish">
 <!ENTITY runtimePanel_noadbhelper "ADB yordamchini o‘rnatish">
-<!ENTITY runtimePanel_nousbdevice "Qurilmangizni ko‘rmayapsizmi?">
+
 
 <!-- Lense -->
 

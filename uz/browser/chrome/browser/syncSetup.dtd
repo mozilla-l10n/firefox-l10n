@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;ni moslash">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "&syncBrand.fullName.label;dan ilgari foydalanmagan bo‘lsangiz, xush kelibsiz! Lekin avval yangi hisob yaratishingiz kerak.">
 <!ENTITY button.createNewAccount.label "Yangi hisob yaratish">
 <!ENTITY button.haveAccount.label      "Mening hisobim bor">
 
 <!ENTITY setup.choicePage.title.label     "&syncBrand.fullName.label;dan ilgari foydalanganmisiz?">
-<!ENTITY setup.choicePage.new.label       "&syncBrand.shortName.label;dan hech qachon foydalanmaganman.">
-<!ENTITY setup.choicePage.existing2.label "Men &syncBrand.shortName.label;dan boshqa qurilmada allaqachon foydalanishni boshlaganman">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Server">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "Qurilmani bo‘lishish">
 <!ENTITY addDevice.showMeHow.label          "Qanday qilishni menga ko‘rsat.">
-<!ENTITY addDevice.dontHaveDevice.label     "Mening boshqa qurilmalarim yo‘q">
+
 <!ENTITY pairDevice.setup.description.label  "Faollashtirish uchun boshqa qurilmangizdagi &quot;Qurilmani bo‘lishish&quot;ni tanlang.">
 <!ENTITY addDevice.setup.enterCode.label    "Keyin, kodni kiriting:">
 <!ENTITY pairDevice.dialog.description.label "Yangi qurilmangizni faollashtirish uchun qurilmadagi &quot;Sinxronlashni moslash&quot;ni tanlang.">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "Qo‘shimcha dasturlar">
 <!ENTITY engine.addons.accesskey    "Q">
 
-<!ENTITY choice2a.merge.main.label       "Ushbu qurilmadagi ma’lumotlarni &syncBrand.shortName.label;dagi ma’lumotlarim bilan birlashtirish">
 <!ENTITY choice2.merge.recommended.label "Tavsiya qilingan:">
 <!ENTITY choice2a.client.main.label      "Ushbu qurilmadagi barcha ma’lumotlarni &syncBrand.shortName.label;dagi ma’lumotlarim bilan almashtirish">
-<!ENTITY choice2a.server.main.label      "Ushbu qurilma ma’lumotlari barcha boshqa qurilmalarga almashtirib yoziladi">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Tasdiqlash">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; barcha brauzer ma’lumotlarini &quot;Sinxronlash hisobi&quot;ngizdagi ma’lumotlar bilan birlashtiradi.">
+
 <!ENTITY confirm.client3.label         "Diqqat: qurilmadagi quyidagi &brandShortName; ma’lumotlar o‘chiriladi:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; &syncBrand.fullName.label; ma’lumotlarini ushbu qurilmaga nusxasini ko‘chiradi.">
 <!ENTITY confirm.server2.label         "Diqqat: quyidagi qurilmalarga mahalliy ma’lumotlaringiz yoziladi:">

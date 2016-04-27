@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "Siz ba’zida sahifa pastidagi teglarni ko‘chirish">
 <!ENTITY csscoverage.optimize.body2 "orqali tezlashtirishingiz mumkin va yangi ichki qator">
-<!ENTITY csscoverage.optimize.body3 "elementini uslublar bilan yuqoriga 'load'dan oldin yaratishingiz mumkin ">
+
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 
