@@ -46,7 +46,7 @@
 <!ENTITY helpus.getInvolvedLink     "glac páirt!">
 <!ENTITY helpus.end                 "">
 
-<!ENTITY releaseNotes.link          "Nithe nua">
+<!ENTITY releaseNotes.link          "Is geal gach nua">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Maidir leis an gCeadúnas">

@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Liostáil leis an Leathanach Seo…">
 <!ENTITY addCurPagesCmd.label "Leabharmharcáil Gach Cluaisín…">
 <!ENTITY showAllBookmarks2.label "Taispeáin Gach Leabharmharc">
-<!ENTITY unsortedBookmarksCmd.label "Leabharmharcanna Gan Sórtáil">
+<!ENTITY recentBookmarks.label "Leabharmharc leo le déanaí">
+<!ENTITY otherBookmarksCmd.label "Leabharmharcanna Eile">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh leabharmharcanna">
 
 <!ENTITY backCmd.label                "Siar">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Féach ar an teachtaireacht faoi stóras as líne">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Bainistigh d'fhaisnéis logáil isteach">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Cuir tic anseo más mian leat d'fhocal faire a shábháil">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Féach ar theachtaireacht shuiteáil na haipe">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Bainistigh úsáid breiseán ar an leathanach seo">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Athraigh pé acu an bhfaighidh nó nach bhfaighidh tú fógraí ón suíomh">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Leabharmharcanna">
-<!ENTITY bookmarksMenuButton.unsorted.label "Leabharmharcanna Gan Sórtáil">
+<!ENTITY bookmarksMenuButton.other.label "Leabharmharcanna Eile">
 <!ENTITY viewBookmarksSidebar2.label        "Féach ar Bharra na Leabharmharcanna">
 <!ENTITY viewBookmarksToolbar.label         "Féach ar Bharra Leabharmharc">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Forbróir Gréasáin">
 <!ENTITY webDeveloperMenu.accesskey   "F">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Oibrithe Seirbhíse">
-<!ENTITY devtoolsServiceWorkers.accesskey  "b">
-
-<!ENTITY devtoolsConnect.label        "Ceangail…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "Consól Earráide">
-<!ENTITY errorConsoleCmd.accesskey    "E">
-
-<!ENTITY remoteWebConsoleCmd.label    "Consól Gréasáin i gCéin">
-
-<!ENTITY browserConsoleCmd.label      "Consól Brabhsálaí">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
-
 <!ENTITY inspectContextMenu.label     "Scrúdaigh Eilimint">
 <!ENTITY inspectContextMenu.accesskey "S">
-
-<!ENTITY responsiveDesignTool.label   "Amharc an Dearaidh Shofhreagraigh">
-<!ENTITY responsiveDesignTool.accesskey "A">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Dathphiocaire">
-<!ENTITY eyedropper.accesskey "D">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Ceap Breacaireachta">
-<!ENTITY scratchpad.accesskey         "C">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Bosca Uirlisí an Bhrabhsálaí">
-<!ENTITY browserToolboxMenu.accesskey "s">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Bosca Uirlisí Ábhair Bhrabhsálaí">
-<!ENTITY browserContentToolboxMenu.accesskey "U">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Dún Barra na nUirlisí Forbartha">
-<!ENTITY devToolbarMenu.label              "Barra Uirlisí d'Fhorbróirí">
-<!ENTITY devToolbarMenu.accesskey          "b">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Scoránaigh Uirlisí">
-<!ENTITY devToolboxMenuItem.accesskey      "c">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Scoránaigh uirlisí forbartha">
-<!ENTITY devToolbarOtherToolsButton.label  "Tuilleadh Uirlisí">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Faigh Tuilleadh Uirlisí">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "T">
 
 <!ENTITY fileMenu.label         "Comhad"> 
 <!ENTITY fileMenu.accesskey       "C">
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Oscail an Roghchlár Cabhrach">
 
 <!ENTITY appMenuRemoteTabs.label "Cluaisíní Sioncrónaithe">
-<!ENTITY appMenuRemoteTabs.fetching.label "Cluaisíní Sioncrónaithe á nGabháil…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Níl aon chluaisín ar oscailt">
@@ -420,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Logáil isteach in Firefox ó do ghléasanna eile lena gcluaisíní a fheiceáil anseo.">
+<!ENTITY appMenuRemoteTabs.noclients.title "Níl aon chluaisíní sioncrónaithe agat… go fóill!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Ar mhaith leat cluaisíní ó ghléasanna eile a fheiceáil anseo?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sioncrónaigh Sainroghanna">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logáil isteach le hamharc ar liosta chluaisíní do ghléasanna eile.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sínigh isteach le sioncrónú">
@@ -766,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Níl do cheangal leis an suíomh seo príobháideach. D'fhéadfadh daoine eile an t-eolas a aighníonn tú a fheiscint (leithéidí focail faire, teachtaireachtaí, cártaí creidmheasa, etc.)">
 <!ENTITY identity.description.insecureLoginForms "Níl an fhaisnéis chuntais a chuireann tú isteach ar an leathanach seo seolta thar ceangal slán, agus seans go mbeadh bradaí in ann teacht air.">
 <!ENTITY identity.description.weakCipher "Úsáideann do cheangal leis an suíomh seo criptiúchán lag nach bhfuil príobháideach.">
-<!ENTITY identity.description.weakCipher2 "Is féidir le daoine eile do shonraí a fheicint agus iompar an tsuímh a athrú.">
+<!ENTITY identity.description.weakCipher2 "Is féidir le daoine eile do chuid sonraí a fheiceáil agus iompar an tsuímh a athrú.">
 <!ENTITY identity.description.activeBlocked "Chuir &brandShortName; bac ar chodanna den leathanach seo nach bhfuil slán.">
 <!ENTITY identity.description.passiveLoaded "Níl do cheangal príobháideach, leis seo d'fhéadfadh daoine eile aon eolas a roinneann tú ar an suíomh a fheiscint.">
 <!ENTITY identity.description.passiveLoaded2 "Tá ábhar neamhshlán ar an suíomh seo (leithéidí íomhánna).">
@@ -796,8 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Cluaisíní Sioncrónaithe">
 
 <!ENTITY syncedTabs.sidebar.label              "Cluaisíní Sioncrónaithe">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Cluaisíní Sioncrónaithe á nGabháil…">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Logáil isteach in Firefox ó do ghléasanna eile lena gcluaisíní a fheiceáil anseo.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Níl aon chluaisíní sioncrónaithe agat… go fóill!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Ar mhaith leat cluaisíní ó ghléasanna eile a fheiceáil anseo?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Logáil isteach le hamharc ar liosta chluaisíní do ghléasanna eile.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Níl aon chluaisín ar oscailt">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Oscail Sainroghanna &syncBrand.shortName.label;">
@@ -805,10 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Las sioncrónú cluaisíní chun liosta cluaisíní ó do ghléasanna eile a fheiscint.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Oscail an Cluaisín Seo">
-<!ENTITY syncedTabs.context.openTab.accesskey               "O">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Cruthaigh Leabharmharc don Chluaisín Seo…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "b">
+<!ENTITY syncedTabs.context.open.label                       "Oscail">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Oscail i gCluaisín Nua">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "C">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Oscail i bhFuinneog Nua">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "F">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Oscail i bhFuinneog Nua Phríobháideach">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Cruthaigh Leabharmharc don Chluaisín Seo…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "b">
+<!ENTITY syncedTabs.context.copy.label                       "Cóipeáil">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

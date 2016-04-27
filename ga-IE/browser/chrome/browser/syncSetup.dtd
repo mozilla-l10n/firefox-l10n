@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "Socrú &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "Fáilte romhat! Murar bhain tú úsáid as &syncBrand.fullName.label; riamh, ní mór duit cuntas nua a chruthú.">
 <!ENTITY button.createNewAccount.label "Cruthaigh Cuntas Nua">
 <!ENTITY button.haveAccount.label      "Tá Cuntas Agam">
 
 <!ENTITY setup.choicePage.title.label     "Ar bhain tú úsáid as &syncBrand.fullName.label; riamh?">
-<!ENTITY setup.choicePage.new.label       "Níor bhain mé úsáid as &syncBrand.shortName.label; riamh">
-<!ENTITY setup.choicePage.existing2.label "Tá mé ag úsáid &syncBrand.shortName.label; ar ghléas eile cheana féin">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Freastalaí">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "Ceangail Gléas">
 <!ENTITY addDevice.showMeHow.label          "Taispeáin dom.">
-<!ENTITY addDevice.dontHaveDevice.label     "Níl an gléas liom faoi láthair.">
+
 <!ENTITY pairDevice.setup.description.label  "Chun é a chur i ngníomh, roghnaigh &quot;Ceangail Gléas&quot; ar do ghléas eile.">
 <!ENTITY addDevice.setup.enterCode.label    "Ansin, cuir an cód seo isteach:">
 <!ENTITY pairDevice.dialog.description.label "Chun do ghléas nua a chur i ngníomh, roghnaigh &quot;Socraigh Sync&quot; ar an ngléas.">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "Breiseáin">
 <!ENTITY engine.addons.accesskey    "B">
 
-<!ENTITY choice2a.merge.main.label       "Cumaisc na sonraí ar an ngléas seo leis na sonraí i mo chuntas &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Molta:">
 <!ENTITY choice2a.client.main.label      "Cuir na sonraí i mo chuntas &syncBrand.shortName.label; in ionad na sonraí atá ar an ngléas seo faoi láthair">
-<!ENTITY choice2a.server.main.label      "Cuir na sonraí ar an ngléas seo in ionad na sonraí ar gach gléas eile">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Dearbhaigh">
-<!ENTITY confirm.merge2.label    "Anois cumascfaidh &syncBrand.fullName.label; na sonraí brabhsála go léir ón ghléas seo le do chuntas Sync.">
+
 <!ENTITY confirm.client3.label         "Rabhadh: Tá tú ar tí na sonraí &brandShortName; seo a leanas a scriosadh ón ghléas seo:">
 <!ENTITY confirm.client2.moreinfo.label "Ansin cóipeálfaidh &brandShortName; do chuid sonraí &syncBrand.fullName.label; go dtí an gléas seo.">
 <!ENTITY confirm.server2.label         "Rabhadh: Forscríobhfar na gléasanna seo a leanas leis na sonraí logánta:">
