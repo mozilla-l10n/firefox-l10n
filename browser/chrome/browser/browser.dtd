@@ -168,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Naroči se na to stran …">
 <!ENTITY addCurPagesCmd.label "Dodaj vse zavihke med zaznamke …">
 <!ENTITY showAllBookmarks2.label "Prikaži vse zaznamke">
-<!ENTITY unsortedBookmarksCmd.label "Nerazvrščeni zaznamki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži več zaznamkov">
 
 <!ENTITY backCmd.label                "Nazaj">
@@ -196,7 +195,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Poglejte sporočilo aplikacije shrambe brez povezave">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Upravljajte svoje prijavne podatke">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Kliknite, če želite shraniti podatke">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Poglejte namestitveno sporočilo aplikacije">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Upravljajte uporabo vtičnika na tej strani">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Spremenite, ali lahko prejemate obvestila te strani">
 
@@ -224,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Zaznamki">
-<!ENTITY bookmarksMenuButton.unsorted.label "Nerazvrščeni zaznamki">
 <!ENTITY viewBookmarksSidebar2.label        "Prikaži stransko vrstico zaznamkov">
 <!ENTITY viewBookmarksToolbar.label         "Prikaži orodno vrstico zaznamkov">
 
@@ -254,79 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Spletni razvoj">
 <!ENTITY webDeveloperMenu.accesskey   "S">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workerji">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Poveži …">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "Konzola napak">
-<!ENTITY errorConsoleCmd.accesskey    "N">
-
-<!ENTITY remoteWebConsoleCmd.label    "Oddaljena spletna konzola">
-
-<!ENTITY browserConsoleCmd.label      "Konzola brskalnika">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
-
 <!ENTITY inspectContextMenu.label     "Preglej element">
 <!ENTITY inspectContextMenu.accesskey "j">
-
-<!ENTITY responsiveDesignTool.label   "Odziven način">
-<!ENTITY responsiveDesignTool.accesskey "O">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Kapalka">
-<!ENTITY eyedropper.accesskey "K">
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Beležnica">
-<!ENTITY scratchpad.accesskey         "B">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Razvojna orodja brskalnika">
-<!ENTITY browserToolboxMenu.accesskey "O">
-<!ENTITY browserToolboxCmd.commandkey "i">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Razvojna orodja vsebine brskalnika">
-<!ENTITY browserContentToolboxMenu.accesskey "e">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Zapri orodno vrstico za razvoj">
-<!ENTITY devToolbarMenu.label              "Orodna vrstica za razvoj">
-<!ENTITY devToolbarMenu.accesskey          "t">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Preklopi orodja">
-<!ENTITY devToolboxMenuItem.accesskey      "P">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Preklopi razvojna orodja">
-<!ENTITY devToolbarOtherToolsButton.label  "Več orodij">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Prenesi več orodij">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "r">
 
 <!ENTITY fileMenu.label         "Datoteka"> 
 <!ENTITY fileMenu.accesskey       "D">
@@ -410,7 +336,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Odpri meni Pomoč">
 
 <!ENTITY appMenuRemoteTabs.label "Sinhronizirani zavihki">
-<!ENTITY appMenuRemoteTabs.fetching.label "Pridobivanje sinhroniziranih zavihkov ...">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ni odprtih zavhkov">
@@ -420,7 +345,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Prijavite se v Firefox iz drugih naprav in si oglejte njihove zavihke tam.">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Možnosti sinhronizacije">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavite se za ogled seznama zavihkov drugih naprav.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se v Sync">
@@ -795,7 +719,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Sinhronizirani zavihki">
 
 <!ENTITY syncedTabs.sidebar.label              "Sinhronizirani zavihki">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Pridobivanje sinhroniziranih zavihkov …">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Prijavite se v Firefox iz drugih naprav in si oglejte njihove zavihke tukaj.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Prijavite se za ogled seznama zavihkov drugih naprav.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ni odprtih zavihkov">
@@ -804,10 +727,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Vklopite sinhronizacijo zavihkov za ogled seznama zavihkov drugih naprav.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Odpri ta zavihek">
-<!ENTITY syncedTabs.context.openTab.accesskey               "O aplikaciji">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Dodaj zavihek med zaznamke …">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "D">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Dodaj zavihek med zaznamke …">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "D">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
