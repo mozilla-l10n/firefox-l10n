@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "Modèl de bóstia">
-<!ENTITY margin.tooltip         "marge">
-<!ENTITY border.tooltip         "bordadura">
-<!ENTITY padding.tooltip        "padding">
-<!ENTITY content.tooltip        "contengut">
+<!ENTITY layoutViewTitle          "Modèl de bóstia">
+<!ENTITY margin.tooltip           "marge">
+<!ENTITY border.tooltip           "bordadura">
+<!ENTITY padding.tooltip          "padding">
+<!ENTITY content.tooltip          "contengut">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->

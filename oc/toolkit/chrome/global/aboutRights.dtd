@@ -61,7 +61,7 @@
 <!ENTITY rights.safebrowsing-b "Es pas recomandat de desactivar aquesta foncionalitat perque aquò vos pòt menar a navegar sus de sites pas segurs. Se desiratz desactivar la foncionalitat completament, seguissètz aquelas instruccions :">
 <!ENTITY rights.safebrowsing-term1 "Dobrissètz las preferéncias o opcions de l'aplicacion">
 <!ENTITY rights.safebrowsing-term2 "Seleccionatz lo panèl Seguretat">
-<!ENTITY rights.safebrowsing-term3 "Deseleccionatz las opcions &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
+
 <!ENTITY rights.safebrowsing-term4 "Lo blocatge de sites malvolents es alara desactivat.">
 <!-- location aware browsing points for branded builds -->
 

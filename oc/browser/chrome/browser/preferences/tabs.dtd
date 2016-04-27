@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "M'avertir que dobrir mai d'un onglet poiriá alentir &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "t">
 
-<!ENTITY restoreTabsOnDemand.label        "Cargar pas los onglets tant que son pas seleccionats">
-<!ENTITY restoreTabsOnDemand.accesskey    "t">
-
 <!ENTITY switchToNewTabs.label        "Quand dobrissi un ligam dins un onglet novèl, lo visualizar sulpic">
 <!ENTITY switchToNewTabs.accesskey    "v">
 
