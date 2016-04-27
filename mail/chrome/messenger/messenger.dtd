@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "紧凑模式">
 <!ENTITY compactVersion.accesskey "C">
+<!ENTITY folderPaneBar.label "文件夹面板工具栏">
+<!ENTITY folderModeSelector.label "文件夹视图">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "排序">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "作为新消息编辑">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "编辑草稿邮件">
+<!ENTITY editDraftMsgCmd.accesskey "D">
 <!ENTITY createFilter.label "根据消息创建过滤器…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "移动到">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "作为新消息编辑">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextEditDraftMsg.label "编辑草稿邮件">
 <!ENTITY contextArchive.label "归档">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "只回复发件人">
@@ -743,9 +748,14 @@
 <!ENTITY contextCopyMsgMenu.label "复制到">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "忽略话题">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "忽略子话题">
 <!ENTITY contextWatchThreadMenu.label "跟踪话题">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
 <!ENTITY contextSaveAs.label "另存为…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "打印…">
