@@ -19,25 +19,23 @@
 <!ENTITY dnsNotFound.title "Сервер табылмады">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Адресті қателерге тексеріңіз, мысалы, <strong>www</strong>.example.com орнына <strong>ww</strong>.example.com енгізілуі мүмкін</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Іздеу</button> </div> <li>Ешбір парақ жүктелмесе, деректер не Wi-Fi байланысын тексеріңіз. <button id='wifi'>Wi-Fi іске қосу</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Файл табылмады">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Файлдың енгізілген аты, үлкен-кіші әріптердің дұрыстығы, және басқа да қателер жоқ екеніне көз жеткізіңіз.</li> <li>Файлдың аты ауысқан, ол өшірілген немесе басқа жаққа көшірілген болуы мүмкін.</li> </ul>">
 
 
-<!ENTITY generic.title "Қате.">
-<!ENTITY generic.longDesc "<p>&brandShortName; осы парақты белгісіз себептермен жүктей алмайды.</p>">
 
-<!ENTITY malformedURI.title "Адрес пішімі қате">
+<!ENTITY generic.title "Қате.">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Веб адрестері әдетте келесідей жазылады: <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Іздеу</button> </div> <li>Дұрыс слеш таңбалардың қолдануын тексеріңіз (яғни <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Байланыс үзілген">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Құжат ескірген">
-<!ENTITY notCached.longDesc "<p>Сұралған құжат &brandShortName; кэшінде жоқ.</p><ul><li>Қауіпсіздік мақсатында, &brandShortName; сезімтал құжаттарды автоматты түрде қайта сұрамайды.</li><li>Құжатты веб сайттан қайта сұрау үшін Қайтадан көру батырмасын шертіңіз.</li></ul>">
+
 
 <!ENTITY netOffline.title "Дербес жұмыс істеу режимі">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -56,7 +54,6 @@
 <!ENTITY netTimeout.title "Байланысты күту уақыты аяқталды">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "Адресті талдау қатесі">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Бұл адресті ашу үшін сізге қосымша бағдарламаларды орнату керек мүмкін.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Прокси сервері сұранымдарды үзіп тұр">
@@ -67,7 +64,6 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Прокси сервер баптауларын терксеріңіз.</li> <li>Құрылғыңыздың мобильді не Wi-Fi желісімен байланысын тексеріңіз. <button id='wifi'>Wi-Fi іске қосу</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "Парақтағы бағдарлау дұрыс емес">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Бұл мәселе анда-санда cookies қабылдау сөндірілген кезде болуы мүмкін.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Сервердің жауабы күтпеген түрде">
@@ -77,11 +73,9 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Сіз сұраған парақ көрсетілмейді, өйткені алынған мәліметтерді тексеру мүмкін емес.</li> <li>Сайт иесіне осы мәселе жөнінде хабарлаңыз.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Қорғалған байланысты орнату сәтсіз">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Бұл сервердің қатесі болуы мүмкін, немесе біреу сізге керек серверді басқасымен ауыстырғысы келеді</li> <li>Осыған дейін осы серверге сәтті қосылған болсаңыз, осы қате уақытша болуы мүмкін. Біраздан кейін қайталап көріңіз.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
-<!ENTITY sharedLongDesc3 "<ul> <li>Сайт уақытша қолжетерсіз немесе тым жүктелген болуы мүмкін. Біраздан кейін қайталап көріңіз.</li> <li>Құрылғыңыздың мобильді не Wi-Fi желісімен байланысын тексеріңіз. <button id='wifi'>Wi-Fi іске қосу</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Құрамасының қауіпсіздік саясатымен блокталған">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; бұл парақтың осы жолмен жүктелуге жол бермеген, өйткені онда осыны рұқсат етпейтін қауіпсіздік саясаты бар.</p>">
@@ -108,7 +102,9 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Кеңейтілген ақпарат: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Сіздің байланысыңыз қауіпсіз емес">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Кеңейтілген ақпарат: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

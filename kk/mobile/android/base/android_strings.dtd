@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "&brandShortName; іске қосу үшін бос орын жеткіліксіз.">
-<!ENTITY  error_loading_file "&brandShortName; іске қосылу үшін керек файларды жүктеу кезінде қате орын алды">
-
 <!ENTITY firstrun_panel_title_welcome "Қош келдіңіз">
 <!ENTITY  onboard_start_message3 "&brandShortName; көмегімен шолу">
 <!ENTITY  onboard_start_subtext3 "Мобильді интернетті қолдануды өздік қылыңыз.">
@@ -27,12 +23,16 @@
 <!ENTITY firstrun_button_next "Келесі">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; ыңғайлатылған нұсқасы көмегімен қауіпсіз қалып, әрі басқарудан қол үзбеңіз.">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Бетбелгілер">
 <!ENTITY  history_title "Тарихы">
-<!ENTITY  reading_list_title "Оқу тізімі">
+
 <!ENTITY  recent_tabs_title "Соңғы беттер">
 
 <!ENTITY  switch_to_tab "Бетке ауысу">
@@ -49,12 +49,6 @@
 <!ENTITY  sending_crash_report "Құлау хабарламасын жіберу\u2026">
 <!ENTITY  crash_close_label "Жабу">
 <!ENTITY  crash_restart_label "&brandShortName; қайта іске қосу">
-<!ENTITY  exit_label "Шығу">
-
-<!ENTITY  launcher_shortcuts_title "&brandShortName; веб қолданбалары">
-<!ENTITY  launcher_shortcuts_empty "Веб қолданбалары табылмады">
-
-<!ENTITY choose_file "Файлды таңдау">
 
 <!ENTITY url_bar_default_text2 "Іздеу үшін сұранымды немесе адресті енгізіңіз">
 
@@ -69,13 +63,20 @@
 <!ENTITY bookmark_updated "Бетбелгі жаңартылды">
 <!ENTITY bookmark_options "Баптаулар">
 
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+
 <!ENTITY history_today_section "Бүгін">
 <!ENTITY history_yesterday_section "Кеше">
 <!ENTITY history_week_section3 "Соңғы 7 күн">
-<!ENTITY history_this_month_section "Бұл ай">
 <!ENTITY history_older_section3 "6 айдан ескі">
 
-<!ENTITY go "Өту">
 <!ENTITY search "Іздеу">
 <!ENTITY reload "Жаңарту">
 <!ENTITY forward "Алға">
@@ -108,7 +109,7 @@
 <!ENTITY settings "Баптаулар">
 <!ENTITY settings_title "Баптаулар">
 <!ENTITY pref_category_general "Жалпы">
-<!ENTITY pref_category_general_summary2 "Үй, тіл, адрес жолағы">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -131,9 +132,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Бетбелгі">
-<!ENTITY overlay_share_reading_list_btn_label "Оқу тізіміне қосу">
 <!ENTITY overlay_share_bookmark_btn_label_already "Бетбелгілерде бар болып тұр">
-<!ENTITY overlay_share_reading_list_btn_label_already "Оқу тізімінде бар болып тұр">
 <!ENTITY overlay_share_send_other "Басқа құрылғыларға жіберу">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -149,14 +148,15 @@
 <!ENTITY overlay_no_synced_devices "Firefox тіркелгісімен байланысқан құрылғылар табылмады">
 
 <!ENTITY pref_category_search3 "Іздеу">
-<!ENTITY pref_category_search_summary "Іздеу қызметтерін баптаңыз">
+
 <!ENTITY pref_category_accessibility "Қолжетерлілік">
 <!ENTITY pref_category_accessibility_summary2 "Мәтін өлшемі, масштаб, дауыспен енгізу">
 <!ENTITY pref_category_privacy_short "Жекелік">
-<!ENTITY pref_category_privacy_summary3 "Бақылау, cookies, деректер таңдауы">
+
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName; туралы, ЖҚС, кері байланыс">
 <!ENTITY pref_category_datareporting "Деректер таңдауы">
+
 <!ENTITY pref_learn_more "Көбірек білу">
 <!ENTITY pref_category_installed_search_engines "Орнатылған іздеу жүйелері">
 <!ENTITY pref_category_add_search_providers "Көбірек іздеу жүйелерін қосу">
@@ -168,10 +168,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "КЕҢЕС: Кез-келген веб-сайтты іздеу жүйелеріне қосу үшін оның іздеу өрісінен ұзақ басып, &formatI; таңбашасына басу керек.">
 <!ENTITY pref_category_advanced "Кеңейтілген">
-<!ENTITY pref_category_advanced_summary2 "Беттер, плагиндер, өндіруші саймандарын қалпына келтіру">
-<!ENTITY pref_developer_remotedebugging "Қашықтан жөндеу">
+
+
+
+
+
 <!ENTITY pref_developer_remotedebugging_usb "USB арқылы қашықтан жөндеу">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi арқылы қашықтан жөндеу">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi арқылы жөндеу құрылғыңызда QR кодын оқитын қолданбаның орнатылып тұрғанын талап етеді.">
@@ -181,18 +183,10 @@
 <!ENTITY pref_category_home "Үй">
 <!ENTITY pref_category_home_summary "Үй парағыңызды баптау">
 <!ENTITY pref_category_home_panels "Панельдер">
-<!ENTITY home_add_panel_title "Жаңа панельді қосу">
-<!ENTITY home_add_panel_empty "Кешіріңіз, қосуға болатын бірде-бір панель табылмады.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 үй парағына қосылды">
-<!ENTITY pref_category_home_content_settings "Құрама баптаулары">
-<!ENTITY pref_home_updates "Автожаңартулар">
+
+
 <!ENTITY pref_home_updates_enabled "Іске қосулы">
 <!ENTITY pref_home_updates_wifi "Тек Wi-Fi арқылы">
-<!ENTITY pref_home_suggested_sites "Сайттарды ұсыну">
-<!ENTITY pref_home_suggested_sites_summary "Сізге қызық бола алатын сайттарды үй парағыңызда көрсету">
 <!ENTITY pref_category_home_homepage "Үй парағы">
 <!ENTITY home_homepage_title "Үй парағын орнату">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -216,6 +210,7 @@
 <!ENTITY pref_header_search "Іздеу">
 <!ENTITY pref_header_privacy_short "Жекелік">
 <!ENTITY pref_header_accessibility "Қолжетерлілік">
+
 <!ENTITY pref_header_advanced "Кеңейтілген">
 <!ENTITY pref_header_help "Көмек">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -225,6 +220,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Іске қосылған, 3 жақты сайттардан басқа">
 <!ENTITY pref_cookies_disabled "Сөндірілген">
 
+
+
+
 <!ENTITY pref_tap_to_load_images_title2 "Суреттерді көрсету">
 <!ENTITY pref_tap_to_load_images_enabled "Әрқашан">
 <!ENTITY pref_tap_to_load_images_data "Тек Wi-Fi арқылы">
@@ -232,7 +230,7 @@
 
 <!ENTITY pref_show_web_fonts "Веб қаріптерін көрсету">
 
-<!ENTITY pref_tracking_protection_title "Бақылаудан қорғаныс">
+
 <!ENTITY pref_tracking_protection_summary3 "Жекелік шолу режимінде іске қосылған">
 <!ENTITY pref_donottrack_title "Бақыламау">
 <!ENTITY pref_donottrack_summary "&brandShortName; сайттарға сіз өзіңізді бақыламауды қалайтыныңыз туралы айтады">
@@ -240,6 +238,8 @@
 <!ENTITY pref_tracking_protection_enabled "Іске қосулы">
 <!ENTITY pref_tracking_protection_enabled_pb "Жекелік шолу режимінде іске қосылған">
 <!ENTITY pref_tracking_protection_disabled "Сөндірілген">
+
+
 
 <!ENTITY tracking_protection_prompt_title "Енді бақылаудан қорғанысы бар">
 <!ENTITY tracking_protection_prompt_text "Бақылайтын элементтерді белсенді түрде блоктайды.">
@@ -259,7 +259,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Баптауларға өту">
-<!ENTITY tab_queue_notification_title "&brandShortName;">
+
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -273,10 +273,19 @@
 
 <!ENTITY tab_queue_notification_settings "\&quot;Бірнеше сілтемені ашу\&quot; үшін, &brandShortName; үшін \u0027Басқа қолданбалар үстінен салу\u0027 рұқсатын іске қосыңыз">
 
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "Кодталуы">
 <!ENTITY pref_char_encoding_on "Мәзірді көрсету">
 <!ENTITY pref_char_encoding_off "Мәзірді көрсетпеу">
-<!ENTITY pref_clear_private_data "Жеке деректерді өшіру">
+
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Қазір тазарту">
@@ -285,7 +294,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Өшірілетін деректерді таңдаңыз">
 <!ENTITY pref_plugins "Плагиндер">
 <!ENTITY pref_plugins_enabled "Іске қосулы">
-<!ENTITY pref_plugins_tap_to_play "Ойнату үшін шерту">
+
 <!ENTITY pref_plugins_disabled "Сөндірілген">
 <!ENTITY pref_text_size "Мәтін өлшемі">
 <!ENTITY pref_restore_tabs "Беттерді қалпына келтіру">
@@ -335,7 +344,6 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Жүктемелер">
 <!ENTITY pref_private_data_syncedTabs "Синхрондалған беттер">
 
-
 <!ENTITY pref_about_firefox "&brandShortName; туралы">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Кері байланыс">
@@ -353,10 +361,12 @@ size. -->
 <!ENTITY pref_panels_move_down "Төмен жылжыту">
 
 <!ENTITY datareporting_notification_title "&brandShortName; статистика және деректері">
-<!ENTITY datareporting_notification_action_long "Бөлісетін мәліметіңізді таңдаңыз">
 <!ENTITY datareporting_notification_action "Немен бөлісетіңізді таңдау">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Бөлісетін мәліметіңізді таңдаңыз">
 <!ENTITY datareporting_notification_summary "Қолдануды жақсарту мақсатында, &brandShortName; автоматты түрде кейбір ақпаратты &vendorShortName; адресіне жіберіп отырады.">
-<!ENTITY datareporting_notification_summary_short "Қолдануды жақсарту мақсатында, &brandShortName;…">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -379,7 +389,6 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Автожаңартулар">
 <!ENTITY pref_update_autodownload_wifi "Тек Wi-Fi арқылы">
 <!ENTITY pref_update_autodownload_never "Ешқашан">
 <!ENTITY pref_update_autodownload_always "Әрқашан">
@@ -390,7 +399,7 @@ size. -->
 <!ENTITY quit "Шығу">
 
 <!ENTITY addons "Қосымшалар">
-<!ENTITY logins "Логиндер">
+
 <!ENTITY downloads "Жүктемелер">
 <!ENTITY char_encoding "Кодталуы">
 
@@ -409,7 +418,6 @@ size. -->
 <!ENTITY close_private_tabs "Жекелік беттерді жабу">
 <!ENTITY tabs_normal "Беттер">
 <!ENTITY tabs_private "Жеке">
-<!ENTITY tabs_synced "Синхрондалған">
 <!ENTITY set_image_fail "Суретті орнату мүмкін емес">
 <!ENTITY set_image_path_fail "Суретті сақтау мүмкін емес">
 <!ENTITY set_image_chooser_title "Суретті қалайша орнату">
@@ -443,8 +451,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Сайтты бекіту">
 <!ENTITY contextmenu_top_sites_unpin "Сайтты бекітуден босату">
 <!ENTITY contextmenu_add_search_engine "Іздеу жүйесін қосу">
-<!ENTITY contextmenu_mark_read "Оқылған ретінде белгілеу">
-<!ENTITY contextmenu_mark_unread "Оқылмаған ретінде белгілеу">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -464,7 +470,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Кіші аймақтарды үлкейту">
-<!ENTITY pref_magnifying_glass_enabled_summary "Сілтемелер және формалар өрістерін олардың қасында шерткенде үлкейту">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -489,21 +495,6 @@ size. -->
 <!ENTITY site_settings_title3       "Сайт баптаулары">
 <!ENTITY site_settings_cancel       "Бас тарту">
 <!ENTITY site_settings_clear        "Тазарту">
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-
-<!ENTITY reading_list_added3 "Оқу тізіміне қосылды">
-<!ENTITY reading_list_removed "Парақ сіздің Оқу тізіміңізден өшірілді">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "Оқу тізімінен өшіру">
-<!ENTITY reading_list_duplicate "Парақ сіздің Оқу тізіміңізде бар болып тұр">
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
-<!ENTITY reading_list_time_minutes2 "&formatD; мин">
-<!ENTITY reading_list_time_over_an_hour "Бір сағаттан көп">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -532,6 +523,7 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; үй парағы">
 <!ENTITY home_history_title "Тарихы">
+
 <!ENTITY home_clear_history_button "Шолу тарихын тазарту">
 <!ENTITY home_clear_history_confirm "Тарихты өшіруді шынымен қалайсыз ба?">
 <!ENTITY home_bookmarks_empty "Сіз сақтаған бетбелгілер осында көрсетіледі.">
@@ -540,11 +532,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Сіздің соңғы ашық беттеріңіз осында болады.">
 <!ENTITY home_open_all "Барлығын ашу">
 <!ENTITY home_most_recent_empty "Сіздің соңғы ашылған веб сайттарыңыз осында болады.">
-<!ENTITY home_selected_empty "Сіз таңдалған уақыт аралығында қараған сайттар осында көрсетіледі.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Назарыңызға: &formatS1;Жаңа жекелік бет&formatS2; мүмкіндігін қолдану таризыңызды сақтамайды.">
-<!ENTITY home_reading_list_empty "Кейінірек үшін сақталған мақалалар осында болады.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -553,21 +543,11 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_back_to_filter "&formatS; дейін оралу">
-
-<!ENTITY home_remote_tabs_title "Синхрондалған беттер">
-<!ENTITY home_remote_tabs_empty "Басқа құрылғыларыңыздан беттер осында көрсетіледі.">
-<!ENTITY home_remote_tabs_unable_to_connect "Қосылу нәтижесіз аяқталды">
-<!ENTITY home_remote_tabs_need_to_sign_in "Firefox тіркелгісін қайта байланыстыру және синхрондауды жалғастыру үшін кіріңіз.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Сіздің жаңа Firefox тіркелгіңіз дайын!">
-
-<!ENTITY home_remote_tabs_trouble_verifying "Тіркелгіңізді растау мәселелері бар ма?">
-<!ENTITY home_remote_tabs_need_to_verify "Синхрондауды бастау үшін өз Firefox тіркелгісін растаңыз.">
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 жасырын құрылғы">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; жасырын құрылғы">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -582,7 +562,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Іздеу кілт сөзін енгізіңіз">
 
-<!ENTITY filepicker_title "Файлды таңдау">
 <!ENTITY filepicker_audio_title "Дыбысты таңдау не жазып алу">
 <!ENTITY filepicker_image_title "Суретті таңдау не түсіріп алу">
 <!ENTITY filepicker_video_title "Видеоны таңдау не жазып алу">
@@ -611,8 +590,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "Бұл парақтың кейбір бөліктері қауіпсіз емес (суреттер сияқты).">
 <!ENTITY mixed_content_protection_disabled1 "Сіз қауіпсіз емес элементтерден қорғанысты сөндіргенсіз.">
 <!-- Tracking content notifications in site identity popup -->
-
-<!ENTITY doorhanger_tracking_title "Бақылаудан қорғаныс">
 <!ENTITY doorhanger_tracking_state_enabled "Іске қосулы">
 <!ENTITY doorhanger_tracking_state_disabled "Сөндірілген">
 <!ENTITY doorhanger_tracking_message_enabled1 "Сіздің желілік белсенділікті бақылау талаптары блокталған.">
@@ -622,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "Көбірек білу">
 <!ENTITY enable_protection "Қорғанысты іске қосу">
 <!ENTITY disable_protection "Қорғанысты сөндіру">
-<!ENTITY keep_blocking "Блоктауды жалғастыру">
 
 <!ENTITY private_data_success "Жеке деректер өшірілді">
 <!ENTITY private_data_fail "Кейбір жеке деректерді өшіру мүмкін емес">
@@ -714,12 +690,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "Соңғы синхрондау: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Соңғы синхрондау: ешқашан">
-
-<!ENTITY intent_uri_cannot_open "Сілтемені ашу мүмкін емес">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+
 <!ENTITY intent_uri_private_browsing_prompt "Бұл сілтеме &formatS; ішінде ашылады. Жекелік шолу режимінен шығуды шынымен қалайсыз ба?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -778,3 +753,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY whatsnew_notification_title "&brandShortName; ескірмеді">
 <!ENTITY whatsnew_notification_summary "Осы нұсқаның жаңалықтарымен танысып шығу">
+
+
+
+
