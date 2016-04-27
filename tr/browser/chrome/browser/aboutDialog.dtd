@@ -46,7 +46,6 @@
 <!ENTITY helpus.getInvolvedLink     "aramıza katılın!">
 <!ENTITY helpus.end                 "">
 
-<!ENTITY releaseNotes.link          "Yeni neler var?">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Lisans Bilgileri">

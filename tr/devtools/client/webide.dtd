@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Diğer">
 <!ENTITY runtimePanel_installsimulator "Simülatör yükle">
 <!ENTITY runtimePanel_noadbhelper "ADB Helper'ı yükle">
-<!ENTITY runtimePanel_nousbdevice "Cihazınızı göremiyor musunuz?">
+
 <!ENTITY runtimePanel_refreshDevices_label "Cihazları yenile">
 <!-- Lense -->
 
