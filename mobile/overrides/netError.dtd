@@ -19,25 +19,23 @@
 <!ENTITY dnsNotFound.title "சேவையகத்தை காண முடியவில்லை">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>தட்டச்சு பிழைகளைக் காண முகவரியைச் சரிபார்க்கவும் <strong>www</strong>.thamizha.org விற்கு பதிலாக <strong>ww</strong>.thamizha.org</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>தேடவும்</button> </div> <li>உங்களால் பக்கங்களை ஏற்ற முடிவில்லை எனில், உங்கள் சாதனத்தின் தரவு அல்லது வை-பை இணைப்பைச் சரிபார்க்கவும். <button id='wifi'>வை-பை செயல்படுத்து</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "கோப்பினை காணவில்லை">
 <!ENTITY fileNotFound.longDesc "<ul> <li>கோப்பின் பெயரை பெரிய எழுத்துக்களுக்கு அல்லது பிழைகழுக்காக சரிபார்.</li> <li>கோப்பு இடமாற்றப்பட்டதா அல்லது நீக்கப்பட்டதா, என சரி பார் .</li> </ul>">
 
 
-<!ENTITY generic.title "அச்சச்சோ.">
-<!ENTITY generic.longDesc "<p>சில காரணங்களால் &brandShortName; ஆல் இந்த பக்கத்தை ஏற்ற முடியாது.</p>">
 
-<!ENTITY malformedURI.title "இந்த முகவரி தவறானது">
+<!ENTITY generic.title "அச்சச்சோ.">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>இணைய முகவரிகள் பொதுவாக பின்வருமாறு எழுதப்படும் <strong>http://www.thamizha.org/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>தேடவும்</button> </div> <li>முன்னோக்கிய சாய்வுக் கோடுகளை பயன்படுத்துவதை உறுதிச்செய்யவும் (அதாவது, <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "இணைப்பில் தடங்கல் உள்ளது">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "ஆவணம் காலாவதியாகிவிட்டது">
-<!ENTITY notCached.longDesc "<p>கோரப்பட்ட ஆவணம் &brandShortName; இன் தேக்ககத்தில் கிடைக்கவில்லை.</p><ul><li>பாதுகாப்பு எச்சரிக்கைக்காக, &brandShortName; ஆனது முக்கியமான ஆவணங்களை மறுமுறை கோராதபடி அமைக்கப்பட்டுள்ளது.</li><li>வலைத்தளத்திலிருந்து ஆவணத்தை மீண்டும் கோர மீண்டும் முயற்சிக்கவும் என்பதைக் கிளிக் செய்யவும்.</li></ul>">
+
 
 <!ENTITY netOffline.title "இணைப்பில்லாத முறைமை">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -56,7 +54,6 @@
 <!ENTITY netTimeout.title "இணைப்பு நேரம் முடிந்தது">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "முகவரியை புரிந்து கொள்ள முடியவில்லை">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>இந்த இணைய முகவரியை திறக்க மற்ற மென்பொருட்களை நிறுவ வேண்டும்.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "ப்ராக்ஸி சேவையகம் இணைப்பை மறுக்கிறது">
@@ -67,7 +64,6 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>பதிலாளின் அமைவுகள் சரியா என சரிபார்க்கவும்.</li> <li>உங்கள் சாதனத்தில் கைப்பேசி இணையம் அல்லது வை-பை இணைப்பு உள்ளதா என உறுதிசெய்யவும். <button id='wifi'>வை-பையை செயல்படுத்து</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "பக்கம் ஒழுங்காக திருப்பிவிடவில்லை">
 <!ENTITY redirectLoop.longDesc "<ul> <li>சில நேரங்களில் குக்கீகளை ஏற்க மறுத்தாலோ அல்லது செயலற்று இருந்தாலோ இந்த பிரச்சனை வரும்.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "சேவையகத்திலிருந்து எதிர்பாராத பதில்">
@@ -77,11 +73,9 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>பெற்ற தரவின் நம்பகத்தன்மையை சரிபார்க்க முடியவில்லை, ஏனெனில் நீங்கள் காண முயற்சிக்கும் பக்கம் பார்க்க முடியாது.</li> <li>இந்த பிரச்சனை குறித்து இணையதளத்தில் உரிமையாளர்களை தொடர்பு கொள்க.</li> </ul>">
 
 <!ENTITY nssBadCert.title "பாதுகாப்பான இணைப்பு தவறி விடுந்தது">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>இந்த சேவகனின் கட்டமைப்பில் சிக்கல் இருக்க வேண்டும், அல்லது அதில் யாராவது ஆள்மாறாட்டம் செய்ய முயற்சி செய்திருப்பார்கள்.நீங்கள் இதற்கு முன்பு</li> <li>வெற்றிகரமாக இந்த சேவையகத்துடன் இணைந்து இருந்தால், இந்த பிழை தற்காலிகமானதாக இருக்கும், மேலும் நீங்கள் பின்னர் மீண்டும் முயற்சி செய்யலாம்.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
-<!ENTITY sharedLongDesc3 "<ul> <li>இந்த தளம் தற்சமயம் கிடைக்காமலோ அல்லது மிகவும் மும்முரமாகவோ இருக்கலாம். சில நிமிடங்களில் மீண்டும் முயற்சிக்கவும்.</li> <li>உங்களால் எந்த பக்கத்தையும் ஏற்றமுடியாவிட்டால், உங்கள் சாதனத்தில் கைபேசி இணையம் அல்லது வைபை இணைப்பு உள்ளதா என உறுதிசெய்யவும். <button id='wifi'>வை-பையை செயல்படுத்து</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "உள்ளடக்க பாதுகாப்பு கொள்கையால் தடுக்கப்பட்டது">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; இந்த பக்கம் இந்த வழியில் ஏற்றப்படுவதை தடுத்தது ஏனெனில் இந்த பக்கத்தின் ஒரு உள்ளடக்க பாதுகாப்பு கொள்கை அதை தடுக்கிறது.</p>">
@@ -108,3 +102,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

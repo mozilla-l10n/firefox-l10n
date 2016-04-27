@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "இச்சாதனத்திலிருந்து அனைத்து தேடல் வரலாற்றையும் அழி?">
 <!ENTITY pref_clearHistory_title "தேடல் வரலாற்றைத் துடை">
 
-<!ENTITY pref_searchProvider_title "தேடு பொறி">
-
 <!ENTITY search_widget_button_label "தேடு">
 
 <!ENTITY network_error_title "இணையத் தொடர்பு இல்லை">
