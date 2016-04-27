@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "बहुविध ट्याबहरू खोल्दा &brandShortName; ढिलो हुन सक्छ भनेर मलाई सचेत गर्नुहोस्">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "नछान्दा सम्म ट्याबहरू लोड नगर्नुहोस्">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
-
 <!ENTITY switchToNewTabs.label        "मैले नयाँ ट्याबमा लिङ्क खोल्ने बितिक्कै, त्यसमा तुरुन्त लग्नुहोस्">
 <!ENTITY switchToNewTabs.accesskey    "h">
 
