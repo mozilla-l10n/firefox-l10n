@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "Nincs elég hely a &brandShortName; elindításához.">
-<!ENTITY  error_loading_file "Hiba történt a &brandShortName; futtatásához szükséges fájlok betöltésekor.">
-
 <!ENTITY firstrun_panel_title_welcome "Üdvözöljük">
 <!ENTITY  onboard_start_message3 "Böngésszen a &brandShortName;szal">
 <!ENTITY  onboard_start_subtext3 "Tegye a mobil webböngészési élményét igazán egyedivé.">
@@ -27,12 +23,16 @@
 <!ENTITY firstrun_button_next "Következő">
 
 <!ENTITY  onboard_start_restricted1 "Maradjon biztonságban, tartsa magánál az irányítást a &brandShortName; ezen egyszerű változatával.">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Könyvjelző">
 <!ENTITY  history_title "Előzmény">
-<!ENTITY  reading_list_title "Olvasási lista">
+
 <!ENTITY  recent_tabs_title "Legutóbbi lapok">
 
 <!ENTITY  switch_to_tab "Váltás erre a lapra">
@@ -49,12 +49,6 @@
 <!ENTITY  sending_crash_report "Hibajelentés elküldése \u2026">
 <!ENTITY  crash_close_label "Bezárás">
 <!ENTITY  crash_restart_label "A &brandShortName; újraindítása">
-<!ENTITY  exit_label "Kilépés">
-
-<!ENTITY  launcher_shortcuts_title "&brandShortName;-webalkalmazások">
-<!ENTITY  launcher_shortcuts_empty "Nem találhatók webalkalmazások">
-
-<!ENTITY choose_file "Fájlválasztás">
 
 <!ENTITY url_bar_default_text2 "Keresés vagy cím">
 
@@ -69,13 +63,20 @@
 <!ENTITY bookmark_updated "Könyvjelző frissítve">
 <!ENTITY bookmark_options "Beállítások">
 
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+
 <!ENTITY history_today_section "Ma">
 <!ENTITY history_yesterday_section "Tegnap">
 <!ENTITY history_week_section3 "Elmúlt 7 nap">
-<!ENTITY history_this_month_section "Ez a hónap">
 <!ENTITY history_older_section3 "6 hónapnál régebbi">
 
-<!ENTITY go "Ugrás">
 <!ENTITY search "Keresés">
 <!ENTITY reload "Frissítés">
 <!ENTITY forward "Előre">
@@ -108,7 +109,7 @@
 <!ENTITY settings "Beállítások">
 <!ENTITY settings_title "Beállítások">
 <!ENTITY pref_category_general "Általános">
-<!ENTITY pref_category_general_summary2 "Kezdőoldal, nyelv, címsáv">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -131,9 +132,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Könyvjelzőzés">
-<!ENTITY overlay_share_reading_list_btn_label "Olvasási listához adás">
 <!ENTITY overlay_share_bookmark_btn_label_already "Már könyvjelzőzve">
-<!ENTITY overlay_share_reading_list_btn_label_already "Már az olvasási listán van">
 <!ENTITY overlay_share_send_other "Küldés más eszközökre">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -149,14 +148,15 @@
 <!ENTITY overlay_no_synced_devices "Nem található Firefox fiókhoz csatlakoztatott eszköz">
 
 <!ENTITY pref_category_search3 "Keresés">
-<!ENTITY pref_category_search_summary "Keresőszolgáltatások beállítása">
+
 <!ENTITY pref_category_accessibility "Akadálymentesítés">
 <!ENTITY pref_category_accessibility_summary2 "Szövegméret, nagyítás, hangalapú bevitel">
 <!ENTITY pref_category_privacy_short "Adatvédelem">
-<!ENTITY pref_category_privacy_summary3 "Követés, sütik, adatküldések">
+
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "A &brandShortName; névjegye, GyIK, visszajelzés">
 <!ENTITY pref_category_datareporting "Adatküldések">
+
 <!ENTITY pref_learn_more "További tudnivalók">
 <!ENTITY pref_category_installed_search_engines "Telepített keresőszolgáltatások">
 <!ENTITY pref_category_add_search_providers "További keresők hozzáadása">
@@ -168,10 +168,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "TIPP: bármely weboldalt hozzáadhatja a keresőkhöz a keresőmezőjének hosszú megérintésével, majd a &formatI; ikonra koppintással.">
 <!ENTITY pref_category_advanced "Speciális">
-<!ENTITY pref_category_advanced_summary2 "Lapok helyreállítása, bővítmények, fejlesztői eszközök">
-<!ENTITY pref_developer_remotedebugging "Távoli hibakeresés">
+
+
+
+
+
 <!ENTITY pref_developer_remotedebugging_usb "Távoli hibakeresés USB-n">
 <!ENTITY pref_developer_remotedebugging_wifi "Távoli hibakeresés Wi-Fi-n">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "A Wi-Fi hibakereséshez egy, a készülékére telepített QR kódolvasó app szükséges.">
@@ -181,18 +183,10 @@
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_summary "Kezdőlap testreszabása">
 <!ENTITY pref_category_home_panels "Panelek">
-<!ENTITY home_add_panel_title "Új panel hozzáadása">
-<!ENTITY home_add_panel_empty "Elnézést, nem találhatók hozzáadható panelek.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "&formatS; a kezdőlaphoz adva">
-<!ENTITY pref_category_home_content_settings "Tartalombeállítások">
-<!ENTITY pref_home_updates "Automatikus frissítések">
+
+
 <!ENTITY pref_home_updates_enabled "Engedélyezve">
 <!ENTITY pref_home_updates_wifi "Csak Wi-Fi használatakor">
-<!ENTITY pref_home_suggested_sites "Oldaljavaslatok megjelenítése">
-<!ENTITY pref_home_suggested_sites_summary "Indítók megjelenítése a kezdőlapon a szerintünk Ön számára érdekes oldalakra.">
 <!ENTITY pref_category_home_homepage "Honlap">
 <!ENTITY home_homepage_title "Honlap beállítása">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -216,6 +210,7 @@
 <!ENTITY pref_header_search "Keresés">
 <!ENTITY pref_header_privacy_short "Adatvédelem">
 <!ENTITY pref_header_accessibility "Akadálymentesítés">
+
 <!ENTITY pref_header_advanced "Speciális">
 <!ENTITY pref_header_help "Súgó">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -225,6 +220,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Engedélyezve, kivéve harmadik féltől származó">
 <!ENTITY pref_cookies_disabled "Tiltva">
 
+
+
+
 <!ENTITY pref_tap_to_load_images_title2 "Képek megjelenítése">
 <!ENTITY pref_tap_to_load_images_enabled "Mindig">
 <!ENTITY pref_tap_to_load_images_data "Csak Wi-Fi használatakor">
@@ -232,7 +230,7 @@
 
 <!ENTITY pref_show_web_fonts "Webes betűk megjelenítése">
 
-<!ENTITY pref_tracking_protection_title "Védelem követés ellen">
+
 <!ENTITY pref_tracking_protection_summary3 "Engedélyezve privát böngészésben">
 <!ENTITY pref_donottrack_title "Ne kövessenek">
 <!ENTITY pref_donottrack_summary "A &brandShortName; közli a webhelyekkel, hogy Ön nem szeretné, ha követnék">
@@ -240,6 +238,8 @@
 <!ENTITY pref_tracking_protection_enabled "Engedélyezve">
 <!ENTITY pref_tracking_protection_enabled_pb "Engedélyezve privát böngészésben">
 <!ENTITY pref_tracking_protection_disabled "Tiltva">
+
+
 
 <!ENTITY tracking_protection_prompt_title "Most követés elleni védelemmel">
 <!ENTITY tracking_protection_prompt_text "Aktívan blokkolja a követő elemeket, hogy ne kelljen aggódnia.">
@@ -259,7 +259,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Ugrás a beállításokhoz">
-<!ENTITY tab_queue_notification_title "&brandShortName;">
+
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -273,10 +273,19 @@
 
 <!ENTITY tab_queue_notification_settings "Több hivatkozás megnyitásához engedélyezze a „Rajzolás más appok fölött” jogosultságot a &brandShortName;hoz">
 
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "Karakterkódolás">
 <!ENTITY pref_char_encoding_on "Menü megjelenítése">
 <!ENTITY pref_char_encoding_off "Menü elrejtése">
-<!ENTITY pref_clear_private_data "Személyes adatok törlése">
+
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Törlés most">
@@ -285,7 +294,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Válassza ki a törlendő adatokat">
 <!ENTITY pref_plugins "Bővítmények">
 <!ENTITY pref_plugins_enabled "Engedélyezve">
-<!ENTITY pref_plugins_tap_to_play "Érintse meg a lejátszáshoz">
+
 <!ENTITY pref_plugins_disabled "Tiltva">
 <!ENTITY pref_text_size "Szöveg mérete">
 <!ENTITY pref_restore_tabs "Lapok visszaállítása">
@@ -335,7 +344,6 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Letöltések">
 <!ENTITY pref_private_data_syncedTabs "Szinkronizált lapok">
 
-
 <!ENTITY pref_about_firefox "A &brandShortName; névjegye">
 <!ENTITY pref_vendor_faqs "GYIK">
 <!ENTITY pref_vendor_feedback "Visszajelzés">
@@ -353,10 +361,12 @@ size. -->
 <!ENTITY pref_panels_move_down "Le">
 
 <!ENTITY datareporting_notification_title "&brandShortName; statisztika és adatok">
-<!ENTITY datareporting_notification_action_long "Megosztandó adatok kiválasztása">
 <!ENTITY datareporting_notification_action "Megosztandó adatok kiválasztása">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Megosztandó adatok kiválasztása">
 <!ENTITY datareporting_notification_summary "A program javítása érdekében a &brandShortName; automatikusan információkat küld a &vendorShortName;-nak.">
-<!ENTITY datareporting_notification_summary_short "A program javítása érdekében a &brandShortName;…">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -379,7 +389,6 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Automatikus frissítések">
 <!ENTITY pref_update_autodownload_wifi "Csak Wi-Fi használatakor">
 <!ENTITY pref_update_autodownload_never "Soha">
 <!ENTITY pref_update_autodownload_always "Mindig">
@@ -390,7 +399,7 @@ size. -->
 <!ENTITY quit "Kilépés">
 
 <!ENTITY addons "Kiegészítők">
-<!ENTITY logins "Bejelentkezések">
+
 <!ENTITY downloads "Letöltések">
 <!ENTITY char_encoding "Karakterkódolás">
 
@@ -409,7 +418,6 @@ size. -->
 <!ENTITY close_private_tabs "Privát lapok bezárása">
 <!ENTITY tabs_normal "Lapok">
 <!ENTITY tabs_private "Privát">
-<!ENTITY tabs_synced "Szinkronban">
 <!ENTITY set_image_fail "Nem állítható be kép">
 <!ENTITY set_image_path_fail "A kép nem menthető">
 <!ENTITY set_image_chooser_title "Kép beállítása mint">
@@ -443,8 +451,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Oldal rögzítése">
 <!ENTITY contextmenu_top_sites_unpin "Rögzítés feloldása">
 <!ENTITY contextmenu_add_search_engine "Keresőszolgáltatás hozzáadása">
-<!ENTITY contextmenu_mark_read "Megjelölés olvasottként">
-<!ENTITY contextmenu_mark_unread "Megjelölés olvasatlanként">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -464,7 +470,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Kis területek nagyítása">
-<!ENTITY pref_magnifying_glass_enabled_summary "Hivatkozások és űrlapmezők nagyítása a közelükbe koppintáskor">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -489,21 +495,6 @@ size. -->
 <!ENTITY site_settings_title3       "Oldalbeállítások">
 <!ENTITY site_settings_cancel       "Mégse">
 <!ENTITY site_settings_clear        "Törlés">
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-
-<!ENTITY reading_list_added3 "Olvasási listához adva">
-<!ENTITY reading_list_removed "Az oldal eltávolítva az olvasási listából">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "Eltávolítás az olvasási listából">
-<!ENTITY reading_list_duplicate "Az oldal már szerepel az Olvasási listában">
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
-<!ENTITY reading_list_time_minutes2 "&formatD; p">
-<!ENTITY reading_list_time_over_an_hour "Egy óránál több">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -532,6 +523,7 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; kezdőoldal">
 <!ENTITY home_history_title "Előzmény">
+
 <!ENTITY home_clear_history_button "Böngészési előzmények törlése">
 <!ENTITY home_clear_history_confirm "Biztosan törölni kívánja az előzményeket?">
 <!ENTITY home_bookmarks_empty "A mentett könyvjelzők itt jelennek meg.">
@@ -540,11 +532,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Itt jelennek meg a legutóbbi lapok.">
 <!ENTITY home_open_all "Összes megnyitása">
 <!ENTITY home_most_recent_empty "A legutóbb meglátogatott weboldalak itt jelennek meg.">
-<!ENTITY home_selected_empty "Itt jelennek meg a kijelölt időszakban meglátogatott weboldalak.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Pszt: &formatS1;Új privát lap&formatS2; használata nem őrzi meg az előzményeket.">
-<!ENTITY home_reading_list_empty "Az elmentett cikkek itt jelennek meg.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -553,21 +543,11 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_back_to_filter "Vissza: &formatS;">
-
-<!ENTITY home_remote_tabs_title "Szinkronizált lapok">
-<!ENTITY home_remote_tabs_empty "A lapok más készülékekről itt jelennek meg.">
-<!ENTITY home_remote_tabs_unable_to_connect "A kapcsolódás sikertelen">
-<!ENTITY home_remote_tabs_need_to_sign_in "Jelentkezzen be a Firefox fiókja újracsatlakoztatásához és a szinkronizálás folytatásához.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Az új Firefox fiókja készen áll!">
-
-<!ENTITY home_remote_tabs_trouble_verifying "Probléma a fiók ellenőrzésekor?">
-<!ENTITY home_remote_tabs_need_to_verify "Ellenőrizze Firefox fiókját a szinkronizálás megkezdéséhez.">
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 készülék elrejtve">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; készülék elrejtve">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -582,7 +562,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Írjon be egy keresőkifejezést">
 
-<!ENTITY filepicker_title "Válasszon fájlt">
 <!ENTITY filepicker_audio_title "Válasszon vagy vegyen fel egy hangot">
 <!ENTITY filepicker_image_title "Válasszon vagy készítsen egy képet">
 <!ENTITY filepicker_video_title "Válasszon vagy vegyen fel egy videót">
@@ -611,8 +590,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "A weboldal egyes részei nem biztonságosak (például a képek).">
 <!ENTITY mixed_content_protection_disabled1 "Kikapcsolta a nem biztonságos tartalmak elleni védelmet.">
 <!-- Tracking content notifications in site identity popup -->
-
-<!ENTITY doorhanger_tracking_title "Védelem követés ellen">
 <!ENTITY doorhanger_tracking_state_enabled "Engedélyezve">
 <!ENTITY doorhanger_tracking_state_disabled "Tiltva">
 <!ENTITY doorhanger_tracking_message_enabled1 "Az online viselkedésének követésére irányuló kísérletek blokkolva lettek.">
@@ -622,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "További tudnivalók">
 <!ENTITY enable_protection "Védelem be">
 <!ENTITY disable_protection "Védelem ki">
-<!ENTITY keep_blocking "Blokkolás fenntartása">
 
 <!ENTITY private_data_success "A privát adatok törölve">
 <!ENTITY private_data_fail "Egyes privát adatok nem törölhetők">
@@ -714,12 +690,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "Utolsó szinkronizálás: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Utolsó szinkronizálás: soha">
-
-<!ENTITY intent_uri_cannot_open "Nem nyitható meg a hivatkozás">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+
 <!ENTITY intent_uri_private_browsing_prompt "A hivatkozás ebben fog megnyílni: &formatS;. Biztosan kilép a privát böngészésből?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -778,3 +753,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY whatsnew_notification_title "A &brandShortName; naprakész">
 <!ENTITY whatsnew_notification_summary "Ismerje meg ezen verzió újdonságait">
+
+
+
+
