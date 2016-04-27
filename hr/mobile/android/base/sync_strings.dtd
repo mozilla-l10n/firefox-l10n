@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Oznake">
 <!ENTITY bookmarks.folder.toolbar.label "Alatna traka zabilješki">
-<!ENTITY bookmarks.folder.unfiled.label "Neorganizirane zabilješke">
+
 <!ENTITY bookmarks.folder.desktop.label "Desktop zabilješke">
 <!ENTITY bookmarks.folder.mobile.label "Mobilne zabilješke">
-<!ENTITY bookmarks.folder.readinglist.label "Popis čitanja">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Zakačeno">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Postavi &syncBrand.shortName.label; za slanje kartica">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Postavi &syncBrand.fullName.label; na svojem uređaju za slanje kartica na druge uređaje.">
-<!ENTITY sync.text.tab.sent.label "Vaša kartica je poslana!">
-<!ENTITY sync.text.tab.not.sent.label "Pojavio se problem prilikom slanja vaše kartice.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "Firefox računi">
-
-<!ENTITY fxaccount_custom_server_account_title "Korištenje računa na poslužitelju">
-<!ENTITY fxaccount_custom_server_sync_title "Spremanje sinkronizacijskih podataka na poslužitelj">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "E-pošta">
-<!ENTITY fxaccount_password_hint "Lozinka">
-<!ENTITY fxaccount_password_hide "Sakrij">
-<!ENTITY fxaccount_password_show "Prikaži">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "Natrag na pregledavanje">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Uvjeti korištenja">
-<!ENTITY fxaccount_policy_linkprivacy "Obavijest o privatnosti">
+<!ENTITY fxaccount_back_to_browsing "Natrag na pregledavanje">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Dobro došli u &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "Prijavite se kako biste sinkronizirali svoje kartice, zabilješke, prijave i više.">
 <!ENTITY fxaccount_getting_started_get_started "Započnite">
 <!ENTITY fxaccount_getting_started_old_firefox "Koristite stariju inačicu &syncBrand.shortName.label;?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "Stvori Firefox račun">
-<!ENTITY fxaccount_create_account_password_length_restriction "Mora biti dužine barem 8 znakova">
-<!ENTITY fxaccount_create_account_day_of_birth "Dan">
-<!ENTITY fxaccount_create_account_month_of_birth "Mjesec">
-<!ENTITY fxaccount_create_account_year_of_birth "Godina rođenja">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Nastavljanjem se slažem sa &formatS1; i &formatS2; Firefox usluga u oblaku.">
-<!ENTITY fxaccount_create_account_button "Sljedeći">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Odaberite što ćete sinkronizirati">
-<!ENTITY fxaccount_create_account_sign_in_instead "Već imate račun? Prijavite se">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 ili ranija">
-<!ENTITY fxaccount_create_account_unknown_error "Nije moguće stvoriti račun">
-
-<!ENTITY fxaccount_account_create_not_allowed "Nije moguće stvoriti račun">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Morati biti dovoljno stari za stvaranje računa.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Saznajte više">
-
-<!ENTITY fxaccount_confirm_account_header "Potvrdite svoj račun">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "Poveznica za potvrdu je poslana na &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Ponovno pošalji e-poštu">
-<!ENTITY fxaccount_confirm_account_change_email "Zaboravi ovu adresu e-pošte?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "E-pošta za potvrdu je poslana">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Nije moguće poslati e-poštu za potvrdu">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Ponovno pošalji e-poštu za otključavanje">
-<!ENTITY fxaccount_unlock_code_sent "Poslana je e-pošta za otključavanje računa">
-<!ENTITY fxaccount_unlock_code_not_sent "Nije bilo moguće poslati e-poštu za otključavanje računa">
-
-<!ENTITY fxaccount_sign_in_sub_header "Prijava">
-<!ENTITY fxaccount_sign_in_button_label "Prijava">
-<!ENTITY fxaccount_sign_in_forgot_password "Zaboravili ste lozinku?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Stvori račun">
-<!ENTITY fxaccount_sign_in_unknown_error "Nije se moguće prijaviti">
-
-<!ENTITY fxaccount_account_verified_sub_header "Račun potvrđen">
-<!ENTITY fxaccount_account_verified_description2 "Vaši podaci će se početi sinkronizirati trenutačno.">
-
-<!ENTITY fxaccount_migration_finished_header "Nadogradnja završena">
-
-<!ENTITY fxaccount_update_credentials_header "Prijava">
-<!ENTITY fxaccount_update_credentials_button_label "Prijava">
-<!ENTITY fxaccount_update_credentials_unknown_error "Nije se moguće prijaviti">
-
-<!ENTITY fxaccount_finish_migrating_header "Prijavite se za završetak nadogradnje">
-<!ENTITY fxaccount_finish_migrating_button_label "Završi nadograđivanje">
-<!ENTITY fxaccount_finish_migrating_description "Nadograđivanje može potrošiti puno podatkovnog prometa. Najbolje je koristiti Wi-Fi vezu.">
-
-<!ENTITY fxaccount_status_header2 "Firefox račun">
 <!ENTITY fxaccount_status_signed_in_as "Prijavljen kao">
 <!ENTITY fxaccount_status_manage_account "Upravljanje računom">
 <!ENTITY fxaccount_status_auth_server "Poslužitelj računa">
@@ -154,8 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "Uvjeti korištenja">
-<!ENTITY fxaccount_status_linkprivacy "Obavijest o privatnosti">
+
 <!ENTITY fxaccount_status_more "Više&ellipsis;">
 <!ENTITY fxaccount_remove_account "Prekini vezu&ellipsis;">
 
@@ -192,7 +112,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Poslužitelj zauzet, pokušajte ponovno malo kasnije">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Poslužitelj zauzet, pokušajte ponovno malo kasnije">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Došlo je do greške">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Povezivanje s mrežom nije moguće">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Račun je zaključan. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; nije povezan">
@@ -204,8 +123,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Pritisnite za prijavu kao &formatS;">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
-<!ENTITY old_sync_deprecated_notification_title "Prijavite se za nastavak sinkronizacije">
-<!ENTITY old_sync_deprecated_notification_content "Vaš račun nije više podržan">
