@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "Samhail Bhosca">
-<!ENTITY margin.tooltip         "imeall">
-<!ENTITY border.tooltip         "imlíne">
-<!ENTITY padding.tooltip        "stuáil">
-<!ENTITY content.tooltip        "ábhar">
+<!ENTITY layoutViewTitle          "Samhail Bhosca">
+<!ENTITY margin.tooltip           "imeall">
+<!ENTITY border.tooltip           "imlíne">
+<!ENTITY padding.tooltip          "stuáil">
+<!ENTITY content.tooltip          "ábhar">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->

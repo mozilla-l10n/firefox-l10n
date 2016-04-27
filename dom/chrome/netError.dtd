@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Comhad Gan Aimsiú">
 <!ENTITY fileNotFound.longDesc "<ul><li>An féidir go bhfuil an mhír athainmnithe, bainte, nó bogtha?</li><li>An bhfuil botún litrithe, nó ceannlitir mhícheart, nó botún eile den sórt sin, sa seoladh?</li><li>An bhfuil na ceadanna rochtana cuí agat don mhír iarrtha?</li></ul>">
 
+
+
 <!ENTITY generic.title "Ní féidir an t-iarratas a chríochnú">
 <!ENTITY generic.longDesc "<p>Níl eolas breise faoin bhfadhb nó faoin earráid seo ar fáil faoi láthair.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "XUL Cianda">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

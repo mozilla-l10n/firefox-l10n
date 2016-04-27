@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Eile">
 <!ENTITY runtimePanel_installsimulator "Suiteáil Ionsamhlóir">
 <!ENTITY runtimePanel_noadbhelper "Suiteáil Cúntóir ADB">
-<!ENTITY runtimePanel_nousbdevice "Nach bhfuil tú in ann do ghléas a fheiceáil?">
+
 <!ENTITY runtimePanel_refreshDevices_label "Athluchtaigh Gléasanna">
 <!-- Lense -->
 
