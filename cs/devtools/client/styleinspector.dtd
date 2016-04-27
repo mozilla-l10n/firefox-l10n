@@ -11,7 +11,7 @@
 <!-- LOCALIZATION NOTE (browserStylesLabel): This is the label for the checkbox
   -  that specifies whether the styles that are not from the user's stylesheet
   -  should be displayed or not. -->
-<!ENTITY browserStylesLabel "Styly prohlížeče">
+<!ENTITY browserStylesLabel    "Styly prohlížeče">
 
 <!-- LOCALIZATION NOTE (filterStylesPlaceholder): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
@@ -25,7 +25,7 @@
 <!-- LOCALIZATION NOTE (selectedElementLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->
-<!ENTITY selectedElementLabel "Vybraný prvek:">
+<!ENTITY selectedElementLabel  "Vybraný prvek:">
 
 <!-- LOCALIZATION NOTE (togglePseudoClassPanel): This is the tooltip
   -  shown when hovering over the `Toggle Pseudo Class Panel` button in the
@@ -35,8 +35,8 @@
 <!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
   -  properties to display e.g. due to search criteria this message is
   -  displayed. -->
-<!ENTITY noPropertiesFound "Žádná pravidla CSS nebyla nalezena.">
+<!ENTITY noPropertiesFound     "Žádná pravidla CSS nebyla nalezena.">
 
 <!-- FIXME: notes -->
-<!ENTITY computedViewTitle "Vypočítáno">
-<!ENTITY ruleViewTitle "Pravidla">
+<!ENTITY computedViewTitle     "Vypočítáno">
+<!ENTITY ruleViewTitle         "Pravidla">
