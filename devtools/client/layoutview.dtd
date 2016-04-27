@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "Տուփի Մոդել">
-<!ENTITY margin.tooltip         "լուսանցք">
-<!ENTITY border.tooltip         "եզրագիծ">
-<!ENTITY padding.tooltip        "լրացում">
-<!ENTITY content.tooltip        "բովանդակությունը">
+<!ENTITY layoutViewTitle          "Տուփի Մոդել">
+<!ENTITY margin.tooltip           "լուսանցք">
+<!ENTITY border.tooltip           "եզրագիծ">
+<!ENTITY padding.tooltip          "լրացում">
+<!ENTITY content.tooltip          "բովանդակությունը">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->

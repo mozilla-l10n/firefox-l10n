@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Բաժանորդագրվել Այս Էջին…">
 <!ENTITY addCurPagesCmd.label "Էջանշել Բոլոր Ներդիրները…">
 <!ENTITY showAllBookmarks2.label "Ցուցադրել բոլոր էջանիշերը">
-<!ENTITY unsortedBookmarksCmd.label "Չկարգավորված Էջանիշեր">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Ցուցադրել ավելի շատ էջանիշեր">
 
 <!ENTITY backCmd.label                "Նախորդը">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Դիտել հավելվածի անցանց պահեստի ուղերձը">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Կառավարել մուտքի ձեր տեղեկությունը">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Ստուգեք, թե արդյոք ցանկանում եք պահել գաղտնաբառը">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Դիտել հավելվածը տեղադրելու ուղերձը">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Կառավարել բաղադրիչի օգտագործումը այս էջում">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Փոխել, թե արդյոք կարող եք կայքից ստանալ ծանուցումներ">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Էջանիշեր">
-<!ENTITY bookmarksMenuButton.unsorted.label "Չկարգավորված Էջանիշեր">
+
 <!ENTITY viewBookmarksSidebar2.label        "Դիտել էջանիշերի վահանակը">
 <!ENTITY viewBookmarksToolbar.label         "Դիտել էջանիշերի վահանակը">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Վեբ ծրագրավորող">
 <!ENTITY webDeveloperMenu.accesskey   "Վ">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Workers ծառայություն">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Միանալ…">
-<!ENTITY devtoolsConnect.accesskey    "ն">
-
-<!ENTITY errorConsoleCmd.label        "Սխալների Կառավարակետ">
-<!ENTITY errorConsoleCmd.accesskey    "Կ">
-
-<!ENTITY remoteWebConsoleCmd.label    "Հեռադիր Վեբ Կառավարակետ">
-
-<!ENTITY browserConsoleCmd.label      "Դիտարկիչի Կառավարակետ">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "Դ">
-
 <!ENTITY inspectContextMenu.label     "Զննել տարրը">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "Պատասխանատու ձևավորման տեսքը">
-<!ENTITY responsiveDesignTool.accesskey "Պ">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Գործիք">
-<!ENTITY eyedropper.accesskey "ո">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Խմբագրիչ">
-<!ENTITY scratchpad.accesskey         "Խ">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Դիտարկիչի գործիքները">
-<!ENTITY browserToolboxMenu.accesskey "կ">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Դիտարկիչի բովանդակության գործիքներ">
-<!ENTITY browserContentToolboxMenu.accesskey "ր">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Փակել ծրագրավորողի Գործիքաշերտը">
-<!ENTITY devToolbarMenu.label              "Ծրագրավորողի Գործիքաշերտ">
-<!ENTITY devToolbarMenu.accesskey          "գ">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Ցուցադրել/Թաքցնել գործիքները">
-<!ENTITY devToolboxMenuItem.accesskey      "Ց">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Ցուցադրել/Թաքցնել ծրագրավորողի գործիքները">
-<!ENTITY devToolbarOtherToolsButton.label  "Լր. գործիքներ">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Լրացուցիչ Գործիքներ">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "Լ">
 
 <!ENTITY fileMenu.label         "Ֆայլ"> 
 <!ENTITY fileMenu.accesskey       "Ֆ">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Կտրել">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ր"> 
-<!ENTITY copyCmd.label            "Պատճենել">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "Պ"> 
+
 <!ENTITY pasteCmd.label           "Տեղադրել">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "Տ"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Բացել օգնության ցանկը">
 
 <!ENTITY appMenuRemoteTabs.label "Համաժամեցված ներդիրներ">
-<!ENTITY appMenuRemoteTabs.fetching.label "Հասցվում են համաժամեցված ներդիրները...">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Չկան բաց ներդիրներ">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Մուտք գործե՛ք Firefox Ձեր այլ սարքերից՝ դրանց ներդիրներն այստեղ տեսնելու համար։">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Սինքի նախընտրանքներ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Մուտք գործե՛ք՝ տեսնելու Ձեր այլ սարքերի ներդիրների ցանկը։">
 <!ENTITY appMenuRemoteTabs.signin.label "Մուտք գործել Սինք">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Ձեր կապակցումը այս կայքին գաղտնի չէ: Ուղկլարկված տեղեկությունները կարող են դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):">
 <!ENTITY identity.description.insecureLoginForms "Մուտքգործման տեղեկությունը, որ մուտքագրել եք այս էջում, անվտանգ չէ և կարող է վտանգվել:">
 <!ENTITY identity.description.weakCipher "Ձեր կապակցումը այս կայքին օգտագործում է աղքատ գաղտնագրում և այն գաղտնի չէ:">
-<!ENTITY identity.description.weakCipher2 "Այլ անձինք կարող են դիտել ձեր տեղեկատվությունը կամ փոփոխել կայքի ժառանգորդին:">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի մասերը, որոնք անվտանգ չեն:">
 <!ENTITY identity.description.passiveLoaded "Ձեր կապակցումը գատնի չէ և կայք ուղարկված տեղեկատվությունը կարող է դիտվել ուրիշների կողմից:">
 <!ENTITY identity.description.passiveLoaded2 "Այս կայքը պարունակում է բովանդակություն, որն անվտանգ չէ (օր.՝ պատկերներ):">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Համաժամեցված ներդիրներ">
 
 <!ENTITY syncedTabs.sidebar.label              "Համաժամեցված ներդիրներ">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Հասցվում են համաժամեցված ներդիրները...">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Մուտք գործե՛ք Firefox Ձեր այլ սարքերից՝ տեսնելու դրանց ներդիրներն այստեղ։">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Մուտք գործե՛ք՝ տեսնելու Ձեր այլ սարքերից ավելացրած ներդիրների ցանկը։">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Չկան բաց ներդիրներ">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Բացել &syncBrand.shortName.label;-ի կարգավորումները">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Միացրեք ներդիրների համաժամեցումը՝ տեսնելու Ձեր այլ սարքերից ավելացրած ներդիրների ցանկը։">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Բացել այս ներդիրը">
-<!ENTITY syncedTabs.context.openTab.accesskey               "Բ">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Էջանշել Այս Էջը...">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "Է">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Էջանշել Այս Էջը...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "Է">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Սինք">
