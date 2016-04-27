@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "बॉक्स मॉडल">
-<!ENTITY margin.tooltip         "हाशिया">
-<!ENTITY border.tooltip         "किनारा">
-<!ENTITY padding.tooltip        "पैडिंग">
-<!ENTITY content.tooltip        "अंतर्वस्तु">
+<!ENTITY layoutViewTitle          "बॉक्स मॉडल">
+<!ENTITY margin.tooltip           "हाशिया">
+<!ENTITY border.tooltip           "किनारा">
+<!ENTITY padding.tooltip          "पैडिंग">
+<!ENTITY content.tooltip          "अंतर्वस्तु">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->

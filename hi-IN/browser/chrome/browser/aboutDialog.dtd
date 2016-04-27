@@ -46,7 +46,6 @@
 <!ENTITY helpus.getInvolvedLink     "शामिल हों!">
 <!ENTITY helpus.end                 "अथवा">
 
-<!ENTITY releaseNotes.link          "क्या नया है?">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        " लाइसेंसिंग सूचना">
