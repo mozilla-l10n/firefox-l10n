@@ -2,16 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY defaultSearchEngine.label "Guetador predetermináu">
-<!ENTITY chooseYourDefaultSearchEngine.label "Elixi'l to guetador por defeutu. &brandShortName; úsalu na barra de direiciones, barra de gueta y páxines d'aniciu.">
-<!ENTITY provideSearchSuggestions.label "Dar suxerencies de gueta">
-<!ENTITY provideSearchSuggestions.accesskey "D">
-<!ENTITY oneClickSearchEngines.label "Guetadores con un clic">
-<!ENTITY chooseWhichOneToDisplay.label "La barra de gueta permítete guetar direutamente en guetadores distintos. Elixi los que quies amosar.">
-<!ENTITY engineNameColumn.label "Guetador">
-<!ENTITY engineKeywordColumn.label "Pallabra clave">
-<!ENTITY restoreDefaultSearchEngines.label "Restaurar guetadores predeterminaos">
+<!ENTITY defaultSearchEngine.label             "Guetador predetermináu">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Elixi'l to guetador por defeutu. &brandShortName; úsalu na barra de direiciones, barra de gueta y páxines d'aniciu.">
+
+<!ENTITY provideSearchSuggestions.label        "Dar suxerencies de gueta">
+<!ENTITY provideSearchSuggestions.accesskey    "D">
+
+<!ENTITY showURLBarSuggestions.label           "Amosar suxerencies de gueta nos resultaos de la barra de direiciones">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Les suxerencies de gueta nun van amosase nos resultaos de la barra de direiciones porque configurasti &brandShortName; pa que nun recuerde l'historial.">
+
+<!ENTITY redirectWindowsSearch.label "Usar esti motor de gueta pa les busques dende Windows">
+<!ENTITY redirectWindowsSearch.accesskey "W">
+
+<!ENTITY oneClickSearchEngines.label           "Guetadores con un clic">
+
+<!ENTITY chooseWhichOneToDisplay.label         "La barra de gueta permítete guetar direutamente en guetadores distintos. Elixi los que quies amosar.">
+
+<!ENTITY engineNameColumn.label                "Guetador">
+<!ENTITY engineKeywordColumn.label             "Pallabra clave">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Restaurar guetadores predeterminaos">
 <!ENTITY restoreDefaultSearchEngines.accesskey "R">
-<!ENTITY removeEngine.label "Desaniciar">
-<!ENTITY removeEngine.accesskey "D">
-<!ENTITY addMoreSearchEngines.label "Amestar más guetadores…">
+
+<!ENTITY removeEngine.label                    "Desaniciar">
+<!ENTITY removeEngine.accesskey                "D">
+
+<!ENTITY addMoreSearchEngines.label            "Amestar más guetadores…">

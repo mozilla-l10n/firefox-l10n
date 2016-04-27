@@ -2,12 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader.label       "Usar proteición de rastrexu">
+<!ENTITY  trackingProtectionAlways.label       "Siempres">
+<!ENTITY  trackingProtectionAlways.accesskey   "i">
+<!ENTITY  trackingProtectionPrivate.label      "Namái en ventanes privaes">
+<!ENTITY  trackingProtectionPrivate.accesskey  "m">
+<!ENTITY  trackingProtectionNever.label        "Enxamás">
+<!ENTITY  trackingProtectionNever.accesskey    "x">
 <!ENTITY  trackingProtectionLearnMore.label    "Deprender más">
+<!ENTITY  trackingProtectionExceptions.label   "Esceiciones…">
+<!ENTITY  trackingProtectionExceptions.accesskey "s">
 
 <!ENTITY tracking.label                 "Siguir">
+<!ENTITY trackingProtectionPBM5.label         "Usar proteición de rastrexu en Ventanes Privaes">
+<!ENTITY trackingProtectionPBM5.accesskey     "r">
+<!ENTITY trackingProtectionPBMLearnMore.label "Deprender más">
+<!ENTITY changeBlockList.label          "Camudar llista de bloquéu">
+<!ENTITY changeBlockList.accesskey      "C">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+<!ENTITY  doNotTrack.pre.label          "Tamién pues ">
+<!ENTITY  doNotTrack.settings.label     "remanar los axustes de Nun rastrexar">
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Historial">
 
@@ -20,7 +37,11 @@
 <!ENTITY  locbar.bookmarks.accesskey    "M">
 <!ENTITY  locbar.openpage.label         "Abrir llingüetes">
 <!ENTITY  locbar.openpage.accesskey     "A">
+<!ENTITY  locbar.searches.label         "Busques rellacionaes dende'l guetador predetermináu">
+<!ENTITY  locbar.searches.accesskey     "s">
 
+<!ENTITY  suggestionSettings.label      "Camudar preferencies pa les suxerencies del motor de gueta…">
+<!ENTITY  suggestionSettings.accesskey  "d">
 
 <!ENTITY  acceptCookies.label           "Aceutar cookies de les webs">
 <!ENTITY  acceptCookies.accesskey       "c">

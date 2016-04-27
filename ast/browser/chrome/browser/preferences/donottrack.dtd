@@ -3,5 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Nun rastrexar">
+<!ENTITY window.width                 "40em">
+<!ENTITY window.height                "8em">
 
+<!ENTITY doNotTrackCheckbox.label     "Usar nun rastrexar">
+<!ENTITY doNotTrackCheckbox.accesskey "U">
 
+<!ENTITY doNotTrackLearnMore.label    "Deprender más">
