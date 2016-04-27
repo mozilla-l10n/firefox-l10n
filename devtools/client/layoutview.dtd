@@ -16,8 +16,13 @@
 
 
 
-<!ENTITY layoutViewTitle        "Kašćikowy model">
-<!ENTITY margin.tooltip         "kroma">
-<!ENTITY border.tooltip         "ramik">
-<!ENTITY padding.tooltip        "nutřkowny wotstawk">
-<!ENTITY content.tooltip        "wobsah">
+<!ENTITY layoutViewTitle          "Kašćikowy model">
+<!ENTITY margin.tooltip           "kroma">
+<!ENTITY border.tooltip           "ramik">
+<!ENTITY padding.tooltip          "nutřkowny wotstawk">
+<!ENTITY content.tooltip          "wobsah">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
+
+<!ENTITY geometry.button.tooltip  "Poziciju wobdźěłać">
