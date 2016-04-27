@@ -2,41 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY tracking.label                 "Topp tànk">
 
-
-<!ENTITY doNotTrackInfo.label          "Gëna xam">
-
-
-
-
-
-
-
-
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 
 <!ENTITY  locationBar.label             "Banqaasu màkkaan">
 
 
 
-
-
-
-
-
-
-
-
-
 <!ENTITY  acceptCookies.label           "Nangu kuki yi joge ci dal yi">
 <!ENTITY  acceptCookies.accesskey       "a">
 
-
 <!ENTITY  acceptThirdParty.always.label   "Saa su ne">
 <!ENTITY  acceptThirdParty.never.label    "Mukk">
-
-
 
 
 <!ENTITY  expire.label                  "seen jeexital">
@@ -56,10 +37,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; dina denc xibaari joow mi, yeb yi, formileer yi ak jaar jaaru wut, ak kuki dal yi yu gane ji.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Xëyna da nga bëgg ">
 <!ENTITY  rememberActions.clearHistory.label  "far sa jaar jaar yi mujj">
 <!ENTITY  rememberActions.middle.label        ", walla ">
@@ -67,9 +48,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; dina jëfandikoo parameetar yii ci joowum biir, te du denc benn jaar jaaru joow mi.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "Da nga bëgg xëyna ">
 <!ENTITY  dontrememberActions.clearHistory.label "far jaar jaar bi yépp">
 <!ENTITY  dontrememberActions.post.label         ".">

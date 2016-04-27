@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Ëmb lépp">
 
@@ -30,15 +30,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 <!ENTITY networkTab.label                "Lëkkële gi">
 
 <!ENTITY connection.label                "Jokkoo">
@@ -50,13 +41,13 @@
 <!ENTITY httpCache.label                 "Këmbu Web bi nëbbu">
 
 <!ENTITY offlineStorage2.label           "Këmbu Web ak rootaani jëfandikookat nekkuñu ci rëdd">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Yemale denc mi ci">
 <!ENTITY limitCacheSizeBefore.accesskey  "Y">
 <!ENTITY limitCacheSizeAfter.label       "MB ci dendu disk bi">
@@ -102,15 +93,6 @@
 <!ENTITY offlineAppRemove.confirm        "Màbb rootaan yi ne ci jokkoodiku">
 
 <!ENTITY certificateTab.label            "Sarsifikaa">
-
 <!ENTITY certSelection.description       "Su ab servëër dima laaj sama sarsifikaa bopp :">
 <!ENTITY certs.auto                      "Fal boppam benn">
-
 <!ENTITY certs.ask                       "Laaj ma saa su ne">
-
-
-
-
-
-
-

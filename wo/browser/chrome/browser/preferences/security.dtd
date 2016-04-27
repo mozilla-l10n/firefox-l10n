@@ -6,19 +6,13 @@
 
 <!ENTITY  warnAddonInstall.label        "Yëgle su fekkee dafa am ay dal yuy jeema samp ay modili mottali">
 <!ENTITY  warnAddonInstall.accesskey    "Y">
-<!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
-  The methods by which forged (phished) and attack sites will be detected by
-  phishing providers will vary from human review to machine-based heuristics to a
-  combination of both, so it's important that these strings and
-  useDownloadedList.label convey the meaning "reported" (and not something like
-  "known").
+
+<!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
+  It is important that wording follows the guidelines outlined on this page:
+  https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
-<!ENTITY  blockAttackSites.label     "Tëye dal yi ñu joxoñ niki dal yuy song">
-<!ENTITY  blockAttackSites.accesskey "T">
 
-<!ENTITY  blockWebForgeries.label     "Tëye dal yi ñu joxoñ niki ay royaal">
-<!ENTITY  blockWebForgeries.accesskey "y">
 
 <!ENTITY  addonExceptions.label         "Seppi yi…">
 <!ENTITY  addonExceptions.accesskey     "S">
@@ -32,5 +26,4 @@
 <!ENTITY  useMasterPassword.accesskey    "m">
 <!ENTITY  changeMasterPassword.label     "Soppi baatu jàll bi gëna am solo…">
 <!ENTITY  changeMasterPassword.accesskey "o">
-
 
