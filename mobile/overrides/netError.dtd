@@ -19,25 +19,23 @@
 <!ENTITY dnsNotFound.title "Servern hittades inte">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Kontrollera adressen för skrivfel t.ex. <strong>ww</strong>.example.com istället för  <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Sök</button> </div> <li>Om du inte kan öppna sidor, kolla enhetens data eller Wi-Fi-anslutning. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Filen kan inte hittas">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontrollera om det finns stavfel eller andra typografiska fel i filnamnet.</li> <li>Kontrollera om den flyttats, fått ett annat namn eller tagits bort.</li> </ul>">
 
 
-<!ENTITY generic.title "Hoppsan!">
-<!ENTITY generic.longDesc "<p>&brandShortName; kan av någon anledning inte visa sidan.</p>">
 
-<!ENTITY malformedURI.title "Adressen är inte giltig">
+<!ENTITY generic.title "Hoppsan!">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul><li>Webbadresser skrivs vanligen som <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Sök</button>  </div> <li>Se till att du använder snedstreck (dvs.. / <strong>/</strong>.</li> </ul>">
 
 <!ENTITY netInterrupt.title "Anslutningen avbröts">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Utgånget dokument">
-<!ENTITY notCached.longDesc "<p>Det efterfrågade dokumentet finns inte längre i &brandShortName; cache.</p><ul><li>Av säkerhetsskäl försöker inte &brandShortName; automatiskt att hämta om känsliga dokument.</li><li>Klicka på Försök igen för att åter hämta dokumentet från webbplatsen.</li></ul>">
+
 
 <!ENTITY netOffline.title "Nedkopplat läge">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -56,7 +54,6 @@
 <!ENTITY netTimeout.title "Anslutningen avbröts">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "Adressen förstods inte">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Du kan behöva installera andra program för att öppna den här sidan.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxyservern avvisar anslutningen">
@@ -67,7 +64,6 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Kontrollera att proxyinställningarna är riktiga.</li> <li>Kontrollera att enheten har en fungerande data- eller Wi-Fi-anslutning. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "Sidan dirigeras om felaktigt">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Det här problemet kan ibland uppstå om du inaktiverat eller nekat att ta emot kakor.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Oväntat svar från servern">
@@ -77,11 +73,9 @@
 <!ENTITY nssFailure2.longDesc2 "<ul><li> Sidan du försöker visa kan inte visas för att autentisering av datan som skickats inte kunde bli verifierad.</li><li>Snälla kontakta hemsidans ägare för att informera dom om detta problem.</li></ul> ">
 
 <!ENTITY nssBadCert.title "Säker anslutning misslyckades">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Detta kan bero på ett problem med serverns konfiguration, eller så kanske någon annan felaktigt utger sig för att vara servern.</li> <li>Om du tidigare utan problem har anslutit till den här servern kanske felet är tillfälligt och du kan försöka igen senare.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
-<!ENTITY sharedLongDesc3 "<ul> <li>Platsen kan tillfälligt vara nere eller upptagen. Försök igen om en stund.</li> <li>Om du inte kan öppna någon sida alls, kontrollera enhetens data- eller Wi-Fi-anslutning. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Blockerad av säkerhetspolicyn för innehåll">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; förhindrade sidan från att öppnas på detta sätt eftersom sidan har en säkerhetspolicy för innehåll som inte tillåter detta.</p>">
@@ -108,7 +102,9 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Avancerad info: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Din anslutning är inte säker">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Avancerad info: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

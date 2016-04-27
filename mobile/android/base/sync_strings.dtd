@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label "Platsetiketter">
 <!ENTITY bookmarks.folder.tags.label "Etiketter">
 <!ENTITY bookmarks.folder.toolbar.label "Bokmärkesfältet">
-<!ENTITY bookmarks.folder.unfiled.label "Osorterade bokmärken">
+
 <!ENTITY bookmarks.folder.desktop.label "Datorns bokmärken">
 <!ENTITY bookmarks.folder.mobile.label "Mobila bokmärken">
-<!ENTITY bookmarks.folder.readinglist.label "Läslista">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Fäst">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Låt &syncBrand.shortName.label; skicka flikar">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Ställ in &syncBrand.fullName.label; på din enhet så flikar skickas till andra enheter.">
-<!ENTITY sync.text.tab.sent.label "Fliken skickades!">
-<!ENTITY sync.text.tab.not.sent.label "Det uppstod ett problem vid skickandet av fliken.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "Firefox-konton">
-
-<!ENTITY fxaccount_custom_server_account_title "Använd konto på server ">
-<!ENTITY fxaccount_custom_server_sync_title "Lagrar Sync data på servern ">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "E-post">
-<!ENTITY fxaccount_password_hint "Lösenord">
-<!ENTITY fxaccount_password_hide "Dölj">
-<!ENTITY fxaccount_password_show "Visa">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "Tillbaka till webbläsaren">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Tjänstevillkoren">
-<!ENTITY fxaccount_policy_linkprivacy "Integritetspolicy">
+<!ENTITY fxaccount_back_to_browsing "Tillbaka till webbläsaren">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Välkommen till &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "Logga in för att synka dina flikar, bokmärken, inloggningar &amp; mer.">
 <!ENTITY fxaccount_getting_started_get_started "Kom igång">
 <!ENTITY fxaccount_getting_started_old_firefox "Använder du en äldre version av &syncBrand.shortName.label;?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "Skapa ett Firefox-konto">
-<!ENTITY fxaccount_create_account_password_length_restriction "Måste vara minst 8 tecken">
-<!ENTITY fxaccount_create_account_day_of_birth "Dag">
-<!ENTITY fxaccount_create_account_month_of_birth "Månad">
-<!ENTITY fxaccount_create_account_year_of_birth "Födelseår">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Genom att fortsätta godkänner du &formatS1; och &formatS2; för Firefox molntjänster.">
-<!ENTITY fxaccount_create_account_button "Nästa">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Välj vad som ska synkas">
-<!ENTITY fxaccount_create_account_sign_in_instead "Har du redan ett konto? Logga in">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 eller tidigare">
-<!ENTITY fxaccount_create_account_unknown_error "Kunde inte skapa något konto">
-
-<!ENTITY fxaccount_account_create_not_allowed "Kan inte skapa kontot">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Du måste uppfylla vissa ålderskrav för att få skapa ett konto.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Ta reda på mer">
-
-<!ENTITY fxaccount_confirm_account_header "Bekräfta ditt konto">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "En bekräftelselänk har skickats till &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Skicka e-post igen">
-<!ENTITY fxaccount_confirm_account_change_email "Glöm denna e-postadressen? ">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Skickat ett bekräftelsemejl">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Kunde inte skicka något bekräftelsemejl">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Skicka upplåsnings-e-post igen">
-<!ENTITY fxaccount_unlock_code_sent "E-posten för att låsa upp kontot har skickats">
-<!ENTITY fxaccount_unlock_code_not_sent "Kunde inte skicka e-posten för att låsa upp kontot">
-
-<!ENTITY fxaccount_sign_in_sub_header "Logga in">
-<!ENTITY fxaccount_sign_in_button_label "Logga in">
-<!ENTITY fxaccount_sign_in_forgot_password "Glömt lösenordet?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Skapa ett konto">
-<!ENTITY fxaccount_sign_in_unknown_error "Kunde inte logga in">
-
-<!ENTITY fxaccount_account_verified_sub_header "Kontot bekräftat">
-<!ENTITY fxaccount_account_verified_description2 "Din data kommer strax att börja synkas.">
-
-<!ENTITY fxaccount_migration_finished_header "Uppgradering klar.">
-
-<!ENTITY fxaccount_update_credentials_header "Logga in">
-<!ENTITY fxaccount_update_credentials_button_label "Logga in">
-<!ENTITY fxaccount_update_credentials_unknown_error "Kunde inte logga in">
-
-<!ENTITY fxaccount_finish_migrating_header "Logga in för att slutföra uppgradering">
-<!ENTITY fxaccount_finish_migrating_button_label "Slutför uppgradering">
-<!ENTITY fxaccount_finish_migrating_description "Uppgraderingen kan överföra mycket data. Det är bäst om man är uppkopplad till ett WiFi nätverk.">
-
-<!ENTITY fxaccount_status_header2 "Firefox-konto">
 <!ENTITY fxaccount_status_signed_in_as "Inloggad som">
 <!ENTITY fxaccount_status_manage_account "Hantera konto">
 <!ENTITY fxaccount_status_auth_server "Konto server">
@@ -154,8 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "Tjänstevillkor">
-<!ENTITY fxaccount_status_linkprivacy "Integritetspolicy">
+
 <!ENTITY fxaccount_status_more "Mer&ellipsis;">
 <!ENTITY fxaccount_remove_account "Koppla Från&ellipsis;">
 
@@ -192,7 +112,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Servern är upptagen, försök igen senare">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Servern är upptagen, försök igen senare">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Det uppstod ett problem">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Kan inte ansluta till nätverket">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Kontot är låst. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; är inte ansluten">
@@ -204,8 +123,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Tryck för att logga in som &formatS;">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
-<!ENTITY old_sync_deprecated_notification_title "Logga in för att fortsätta synka">
-<!ENTITY old_sync_deprecated_notification_content "Ditt konto stöds inte längre">
