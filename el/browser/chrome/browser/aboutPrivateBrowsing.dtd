@@ -2,52 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "Αυτή τη στιγμή δε βρίσκεστε σε παράθυρο ιδιωτικής περιήγησης.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Άνοιγμα παραθύρου Ιδιωτικής περιήγησης">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Αυτή τη στιγμή δε βρίσκεστε σε παράθυρο ιδιωτικής περιήγησης.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Άνοιγμα παραθύρου Ιδιωτικής περιήγησης">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "δ">
 
-<!ENTITY privateBrowsing.title                 "Ιδιωτική Περιήγηση">
+<!ENTITY privateBrowsing.title                           "Ιδιωτική Περιήγηση">
+<!ENTITY aboutPrivateBrowsing.info.searches              "Αναζητήσεις">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "Cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Προσωρινά αρχεία">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "Λήψεις">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "Σελιδοδείκτες">
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
-     Width of the Private Browsing section. This should depend primarily on the
-     length of the headers and text, but should be roughly 1.5 times the width
-     of the Tracking Protection section, and in general not much larger than
-     30em to prevent the sections from wrapping on smaller window sizes.
-     -->
-<!ENTITY aboutPrivateBrowsing.title            "Βρίσκεστε σε ιδιωτική περιήγηση">
-
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "Δεν θα αποθηκεύονται">
-<!ENTITY aboutPrivateBrowsing.info.history     "Ιστορικό">
-<!ENTITY aboutPrivateBrowsing.info.searches    "Αναζητήσεις">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Προσωρινά αρχεία">
-
-<!ENTITY aboutPrivateBrowsing.info.saved       "Θα αποθηκεύονται">
-<!ENTITY aboutPrivateBrowsing.info.downloads   "Λήψεις">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Σελιδοδείκτες">
-
-<!ENTITY aboutPrivateBrowsing.note1            "Παρακαλούμε σημειώστε ότι ο εργοδότης σας ή ο πάροχος ίντερνετ μπορεί ακόμα να καταγράφει τις σελίδες που επισκέπτεστε.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Μάθετε περισσότερα">
-
-<!-- LOCALIZATION NOTE (trackingProtection.width1):
-     Width of the Tracking Protection section. It is fine for the enabled or
-     disabled indicator or the words in the title to wrap to the next line, but
-     you can expand or reduce this section to fit better, as long as the width
-     of the Private Browsing section is roughly 1.5 times the width of this one.
-     Note that the required space may vary between platforms because fonts are
-     different, so testing on Windows, Mac, and Linux is encouraged.
-     -->
-<!ENTITY trackingProtection.title              "Προστασία Δεδομένων Περιήγησης">
-
-<!-- LOCALIZATION NOTE (trackingProtection.state.width):
-     Width of the element representing the enabled or disabled indicator.
-     -->
-<!ENTITY trackingProtection.state.width        "21ch">
-<!ENTITY trackingProtection.state.enabled      "ΕΝΕΡΓΟΠΟΙΗΜΕΝΗ">
-<!ENTITY trackingProtection.state.disabled     "ΑΠΕΝΕΡΓΟΠΟΙΗΜΕΝΗ">
-
-<!ENTITY trackingProtection.description1       "Από τώρα τα παράθυρα ιδιωτικής περιήγησης θα εμποδίζουν τμήματα των ιστοσελίδων που προσπαθούν να καταγράψουν τη δραστηριότητά σας.">
-
-<!ENTITY trackingProtection.disable            "Απενεργοποίηση προστασίας δεδομένων περιήγησης">
-<!ENTITY trackingProtection.enable             "Ενεργοποίηση προστασίας δεδομένων περιήγησης">
-<!ENTITY trackingProtection.startTour1         "Δείτε πως λειτουργεί">
+<!ENTITY trackingProtection.title                        "Προστασία Δεδομένων Περιήγησης">
+<!ENTITY trackingProtection.startTour1                   "Δείτε πως λειτουργεί">

@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Προειδοποίηση όταν το άνοιγμα πολλαπλών καρτελών ενδέχεται να επιβραδύνει τον &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "ο">
 
-<!ENTITY restoreTabsOnDemand.label        "Να μην γίνεται φόρτωση των καρτελών που δεν εχουν επιλεχθεί">
-<!ENTITY restoreTabsOnDemand.accesskey    "θ">
-
 <!ENTITY switchToNewTabs.label        "Άμεση εστίαση στο άνοιγμα ενός δεσμού σε μια νέα καρτέλα">
 <!ENTITY switchToNewTabs.accesskey    "σ">
 

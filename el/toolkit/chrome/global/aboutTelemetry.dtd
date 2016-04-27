@@ -24,6 +24,10 @@
 
 
 
+
+
+
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Ιστογράμματα
 ">
@@ -35,9 +39,6 @@
 
 
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Πληροφορίες συστήματος
-">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
   Ιστογράμματα συλλεγμένα από πρόσθετα
@@ -47,6 +48,8 @@
 <!ENTITY aboutTelemetry.emptySection "
   (Δεν συλλέχθηκαν δεδομένα)
 ">
+
+
 
 
 
