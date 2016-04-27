@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Nerastas failas">
 <!ENTITY fileNotFound.longDesc "<ul><li>Patikrinkite, ar failas nebuvo perkeltas, pervardytas ar pašalintas.</li><li>Patikrinkite, ar failo varde nėra rinkimo klaidų, pvz., didžiosios raidės pakeistos mažosiomis.</li><li>Patikrinkite ar turite leidimą šį failą atverti.</li></ul>">
 
+
+
 <!ENTITY generic.title "Nepavyko atlikti užklausos">
 <!ENTITY generic.longDesc "<p>Naršyklei nepavyko įkelti šio tinklalapio dėl nežinomos priežasties.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "XUL iš tinklo">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

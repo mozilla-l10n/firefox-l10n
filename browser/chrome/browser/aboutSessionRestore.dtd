@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "Langas nr. &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "Pirmyn!">
 <!ENTITY welcomeback2.restoreButton.access "m">
 
 <!ENTITY welcomeback2.tabtitle      "Pavyko!">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Jūsų priedai bei parinktys buvo panaikinti, o naršyklės nuostatos buvo sugrąžintos į numatytas. Jeigu tai neišsprendė problemos, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "sužinokite, ką dar galite išbandyti.">
@@ -52,9 +45,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "Perkelkite savo kitas kortelių grupes">
-<!ENTITY tabgroupsmigration.pagetitle2          "Mes pašalinome kortelių grupes, bet išsaugojome jūsų korteles">
+
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Sužinokite apie priedus, turinčius kortelių grupių funkcionalumą.">
-<!ENTITY tabgroupsmigration.description2        "„&brandShortName;“ visas jūsų grupes įrašė į adresyną, tad nieko nepraradote.">
+
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Rodyti įrašytas kortelių grupes">
 <!ENTITY tabgroupsmigration.restoredescription  "Tuo pačiu dabar galite pasirinkti atverti keletą ar visas fonines grupes į langus:">
 

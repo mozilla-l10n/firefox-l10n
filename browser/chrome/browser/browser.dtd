@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Prenumeruoti šio tinklalapio naujienas…">
 <!ENTITY addCurPagesCmd.label "Įrašyti į adresyną visas korteles…">
 <!ENTITY showAllBookmarks2.label "Rodyti visą adresyną">
-<!ENTITY unsortedBookmarksCmd.label "Nerūšiuoti adresai">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Kiti adresai">
 
 <!ENTITY backCmd.label                "Atgal">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Peržiūrėti neprisijungusios programos atmintinės pranešimą">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Tvarkykite savo prisijungimo informaciją">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Pažymėkite, jei norite įrašyti savo slaptažodį">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Peržiūrėti programos diegimo pranešimą">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Tvarkyti papildinių naudojimą tinklalapyje">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Pasirinkite, ar norite gauti pranešimus iš šios svetainės">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Adresynas">
-<!ENTITY bookmarksMenuButton.unsorted.label "Nerūšiuoti adresai">
+
 <!ENTITY viewBookmarksSidebar2.label        "Rodyti adresyną parankinėje">
 <!ENTITY viewBookmarksToolbar.label         "Rodyti adresyno juostą">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Saityno kūrėjams">
 <!ENTITY webDeveloperMenu.accesskey   "k">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Aptarnavimo scenarijai">
-<!ENTITY devtoolsServiceWorkers.accesskey  "c">
-
-<!ENTITY devtoolsConnect.label        "Prisijungti…">
-<!ENTITY devtoolsConnect.accesskey    "u">
-
-<!ENTITY errorConsoleCmd.label        "Klaidų pultas">
-<!ENTITY errorConsoleCmd.accesskey    "K">
-
-<!ENTITY remoteWebConsoleCmd.label    "Nuotolinis saityno pultas">
-
-<!ENTITY browserConsoleCmd.label      "Naršyklės pultas">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "u">
-
 <!ENTITY inspectContextMenu.label     "Tirti elementą">
 <!ENTITY inspectContextMenu.accesskey "T">
-
-<!ENTITY responsiveDesignTool.label   "Keičiamo dydžio rodinys">
-<!ENTITY responsiveDesignTool.accesskey "K">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Spalvos parinkiklis">
-<!ENTITY eyedropper.accesskey "v">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "JS juodraštis">
-<!ENTITY scratchpad.accesskey         "J">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Naršyklės įrankinė">
-<!ENTITY browserToolboxMenu.accesskey "y">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Naršyklės turinio įrankinė">
-<!ENTITY browserContentToolboxMenu.accesskey "k">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Užverti programuotojų juostą">
-<!ENTITY devToolbarMenu.label              "Programuotojų juosta">
-<!ENTITY devToolbarMenu.accesskey          "o">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Rodyti priemones">
-<!ENTITY devToolboxMenuItem.accesskey      "R">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Rodyti programuotojų priemones">
-<!ENTITY devToolbarOtherToolsButton.label  "Kitos priemonės">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Gauti daugiau priemonių">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "G">
 
 <!ENTITY fileMenu.label         "Failas"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Iškirpti">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "r"> 
-<!ENTITY copyCmd.label            "Kopijuoti">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
+
 <!ENTITY pasteCmd.label           "Įdėti">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "d"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Atverti žinyno meniu">
 
 <!ENTITY appMenuRemoteTabs.label "Sinchronizuotos kortelės">
-<!ENTITY appMenuRemoteTabs.fetching.label "Gaunamos sinchronizuotos kortelės…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nėra atvertų kortelių">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Prisijunkite prie „Firefox“ iš kito savo įrenginio, norėdami jo korteles matyti čia.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sinchronizavimo nuostatos">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prisijunkite norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prisijungti prie „Sync“">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Jūsų ryšys su šia svetaine nėra privatus. Jūsų pateikta informacija gali būti peržiūrėta kitų (pvz., slaptažodžiai, žinutės, banko kortelės, kita).">
 <!ENTITY identity.description.insecureLoginForms "Šiame tinklalapyje jūsų įvesti prisijungimo duomenys nebus saugūs ir gali būti perimti.">
 <!ENTITY identity.description.weakCipher "Jūsų ryšys su šia svetaine naudoja silpną šifravimą ir nėra privatus.">
-<!ENTITY identity.description.weakCipher2 "Pašaliniai asmenys gali matyti jūsų duomenis ir keisti svetainės elgseną.">
+
 <!ENTITY identity.description.activeBlocked "„&brandShortName;“ užblokavo nesaugias šio tinklalapio dalis.">
 <!ENTITY identity.description.passiveLoaded "Jūsų ryšys nėra privatus, tad šiai svetainei pateikta informacija gali būti peržiūrėta kitų.">
 <!ENTITY identity.description.passiveLoaded2 "Šioje svetainėje yra nesaugaus turinio (pvz., paveikslų).">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Sinchronizuotos kortelės">
 
 <!ENTITY syncedTabs.sidebar.label              "Sinchronizuotos kortelės">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Gaunamos sinchronizuotos kortelės…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Prisijunkite prie „Firefox“ iš kito savo įrenginio, norėdami jo korteles matyti čia.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Prisijunkite norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nėra atvertų kortelių">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Atverti „&syncBrand.shortName.label;“ nuostatas">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Įjunkite kortelių sinchronizavimą, norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Atverti šią kortelę">
-<!ENTITY syncedTabs.context.openTab.accesskey               "v">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Įtraukti kortelę į adresyną…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "t">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Įtraukti kortelę į adresyną…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "t">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
