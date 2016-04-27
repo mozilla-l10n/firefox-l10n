@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "ಬಾಕ್ಸ್ ಮಾದರಿ">
-<!ENTITY margin.tooltip         "ಅಂಚು">
-<!ENTITY border.tooltip         "ಮೇರೆಗಳು">
-<!ENTITY padding.tooltip        "ಪ್ಯಾಡಿಂಗ್">
-<!ENTITY content.tooltip        "ವಿಷಯ">
+<!ENTITY layoutViewTitle          "ಬಾಕ್ಸ್ ಮಾದರಿ">
+<!ENTITY margin.tooltip           "ಅಂಚು">
+<!ENTITY border.tooltip           "ಮೇರೆಗಳು">
+<!ENTITY padding.tooltip          "ಪ್ಯಾಡಿಂಗ್">
+<!ENTITY content.tooltip          "ವಿಷಯ">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
