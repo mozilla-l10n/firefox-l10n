@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "Matmenys">
-<!ENTITY margin.tooltip         "ribos">
-<!ENTITY border.tooltip         "rėmelis">
-<!ENTITY padding.tooltip        "paraštės">
-<!ENTITY content.tooltip        "turinys">
+<!ENTITY layoutViewTitle          "Matmenys">
+<!ENTITY margin.tooltip           "ribos">
+<!ENTITY border.tooltip           "rėmelis">
+<!ENTITY padding.tooltip          "paraštės">
+<!ENTITY content.tooltip          "turinys">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
