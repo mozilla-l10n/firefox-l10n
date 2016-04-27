@@ -61,7 +61,7 @@
 <!ENTITY rights.safebrowsing-b "Ji ber îhtîmala malperên neewle, neçalakirina taybetiya Gera Ewle nayê pêşniyarkirin. Eger dixwazî vê taybetiyê bi temamî neçalak bikî, van gavan bişopîne:">
 <!ENTITY rights.safebrowsing-term1 "Vebijêrkên sepanê veke">
 <!ENTITY rights.safebrowsing-term2 "Vebijêrka Ewlekariyê hilbijêre">
-<!ENTITY rights.safebrowsing-term3 "Nîşana ji bo &quot;&blockAttackSites.label;&quot; û &quot;&blockWebForgeries.label;&quot;ê rake">
+
 <!ENTITY rights.safebrowsing-term4 "Gera Ewle niha hate neçalakirin">
 <!-- location aware browsing points for branded builds -->
 

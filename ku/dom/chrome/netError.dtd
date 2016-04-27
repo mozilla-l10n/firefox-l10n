@@ -27,6 +27,8 @@ armancên <em>din</em> pirtir ji bo gerîna di webê de hatiye bikaranîn. Ji bo
 <!ENTITY fileNotFound.title "Pel Nehat Dîtin">
 <!ENTITY fileNotFound.longDesc "<ul><li>Dibe ku navê wê hatine guherandin, an jî hatibe jêbirin an jî cihê wê hatibe guherandin?</li><li>Dibe ku di navnîşanê de çewtiya rastnivîsê an jî çewtiyên bi vî rengî hebin?</li><li>Peywira te têra vekirina wê dike?</li></ul>">
 
+
+
 <!ENTITY generic.title "Daxwaz Nayê Qedandin">
 <!ENTITY generic.longDesc "<p>Agahiyên din ên derbarê vê pirsgirêkê de hê tunin.</p>">
 
@@ -109,3 +111,6 @@ nikare bidomîne.</p>">
 
 <!ENTITY remoteXUL.title "XULa dûr">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tika ye ji bo çareserkirina vê pirsgirêkê bi xwediyê malperê re bikeve têkiliyê.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
