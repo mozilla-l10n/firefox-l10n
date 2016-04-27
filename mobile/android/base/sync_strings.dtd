@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Clibeanna">
 <!ENTITY bookmarks.folder.toolbar.label "Barra Leabharmharc">
-<!ENTITY bookmarks.folder.unfiled.label "Leabharmharcanna Gan Sórtáil">
+<!ENTITY bookmarks.folder.other.label "Leabharmharcanna Eile">
 <!ENTITY bookmarks.folder.desktop.label "Leabharmharcanna Deisce">
 <!ENTITY bookmarks.folder.mobile.label "Leabharmharcanna Soghluaiste">
-<!ENTITY bookmarks.folder.readinglist.label "Liosta Léitheoireachta">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Feistithe">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Socraigh &syncBrand.shortName.label; chun cluaisíní a sheoladh">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Socraigh &syncBrand.fullName.label; ar do ghléas chun cluaisíní a sheoladh chuig ghléasanna eile.">
-<!ENTITY sync.text.tab.sent.label "Seoladh do chluaisín!">
-<!ENTITY sync.text.tab.not.sent.label "Tharla earráid agus do chluaisín á sheoladh.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "Cuntais Firefox">
-
-<!ENTITY fxaccount_custom_server_account_title "Cuntas ar an bhfreastalaí á úsáid">
-<!ENTITY fxaccount_custom_server_sync_title "Sonraí Sync á stóráil ar an bhfreastalaí">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "Ríomhphost">
-<!ENTITY fxaccount_password_hint "Focal faire">
-<!ENTITY fxaccount_password_hide "Folaigh">
-<!ENTITY fxaccount_password_show "Taispeáin">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "Fill ar bhrabhsáil">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Téarmaí Seirbhíse">
-<!ENTITY fxaccount_policy_linkprivacy "Fógra Príobháideachais">
+<!ENTITY fxaccount_back_to_browsing "Fill ar bhrabhsáil">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Fáilte go dtí &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "Logáil isteach chun do chuid cluaisíní, leabharmharcanna, focail fhaire agus araile a shioncrónú.">
 <!ENTITY fxaccount_getting_started_get_started "Tús maith">
 <!ENTITY fxaccount_getting_started_old_firefox "An bhfuil seanleagan de &syncBrand.shortName.label; agat?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "Cruthaigh Cuntas Firefox">
-<!ENTITY fxaccount_create_account_password_length_restriction "Ní mór dó a bheith 8 gcarachtar ar a laghad">
-<!ENTITY fxaccount_create_account_day_of_birth "Lá">
-<!ENTITY fxaccount_create_account_month_of_birth "Mí">
-<!ENTITY fxaccount_create_account_year_of_birth "Bliain bhreithe">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Glacaim le &formatS1; agus &formatS2; do néalseirbhísí Firefox.">
-<!ENTITY fxaccount_create_account_button "Ar Aghaidh">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Roghnaigh na rudaí le sioncrónú">
-<!ENTITY fxaccount_create_account_sign_in_instead "An bhfuil cuntas agat cheana? Logáil isteach">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 nó níos luaithe">
-<!ENTITY fxaccount_create_account_unknown_error "Níorbh fhéidir cuntas a chruthú">
-
-<!ENTITY fxaccount_account_create_not_allowed "Níorbh fhéidir cuntas a chruthú">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Caithfidh tú aois áirithe a shlánú sular féidir leat cuntas a chruthú.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Tuilleadh eolais">
-
-<!ENTITY fxaccount_confirm_account_header "Dearbhaigh do chuntas">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "Seoladh nasc deimhnithe chuig &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Seol an ríomhphost arís">
-<!ENTITY fxaccount_confirm_account_change_email "Déan dearmad den seoladh ríomhphoist seo?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Seoladh teachtaireacht deimhnithe trí ríomhphost">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Níorbh fhéidir an teachtaireacht dearbhaithe a sheoladh">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Athsheol an ríomhphost díghlasála">
-<!ENTITY fxaccount_unlock_code_sent "Seoladh an ríomhphost díghlasála">
-<!ENTITY fxaccount_unlock_code_not_sent "Níorbh fhéidir an ríomhphost díghlasála a sheoladh">
-
-<!ENTITY fxaccount_sign_in_sub_header "Logáil isteach">
-<!ENTITY fxaccount_sign_in_button_label "Logáil isteach">
-<!ENTITY fxaccount_sign_in_forgot_password "Focal faire dearmadta?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Cruthaigh cuntas">
-<!ENTITY fxaccount_sign_in_unknown_error "Níorbh fhéidir logáil isteach">
-
-<!ENTITY fxaccount_account_verified_sub_header "Cuntas dearbhaithe">
-<!ENTITY fxaccount_account_verified_description2 "Tosóidh do chuid sonraí ag sioncrónú go luath.">
-
-<!ENTITY fxaccount_migration_finished_header "Nuashonrú críochnaithe">
-
-<!ENTITY fxaccount_update_credentials_header "Logáil isteach">
-<!ENTITY fxaccount_update_credentials_button_label "Logáil isteach">
-<!ENTITY fxaccount_update_credentials_unknown_error "Níorbh fhéidir logáil isteach">
-
-<!ENTITY fxaccount_finish_migrating_header "Logáil isteach chun an nuashonrú a chríochnú">
-<!ENTITY fxaccount_finish_migrating_button_label "Cuir an nuashonrú i gcrích">
-<!ENTITY fxaccount_finish_migrating_description "Is gá go leor sonraí a aistriú chun nuashonrú a dhéanamh. Tá sé níos fearr é dhéanamh ar líonra Wi-Fi.">
-
-<!ENTITY fxaccount_status_header2 "Cuntas Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Logáilte isteach mar">
 <!ENTITY fxaccount_status_manage_account "Bainistigh mo chuntas">
 <!ENTITY fxaccount_status_auth_server "Freastalaí an chuntais">
@@ -154,8 +75,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "Téarmaí Seirbhíse">
-<!ENTITY fxaccount_status_linkprivacy "Fógra Príobháideachais">
+<!ENTITY fxaccount_status_linktos2 "Téarmaí seirbhíse">
+<!ENTITY fxaccount_status_linkprivacy2 "Fógra príobháideachais">
 <!ENTITY fxaccount_status_more "Tuilleadh&ellipsis;">
 <!ENTITY fxaccount_remove_account "Dícheangail&ellipsis;">
 
@@ -192,7 +113,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Tá an freastalaí gnóthach; bain triail eile as go luath">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Tá an freastalaí gnóthach; bain triail eile as go luath">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Tharla fadhb éigin">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Ní féidir ceangal leis an líonra">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Cuntas faoi ghlas. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "Níl &syncBrand.shortName.label; ceangailte">
@@ -204,8 +124,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Tapáil le logáil isteach mar &formatS;">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
-<!ENTITY old_sync_deprecated_notification_title "Logáil isteach le dul ar aghaidh leis an sioncrónú">
-<!ENTITY old_sync_deprecated_notification_content "Ní thacaítear le do chuntas a thuilleadh">
