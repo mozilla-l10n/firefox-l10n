@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "બોક્સ મોડલ">
-<!ENTITY margin.tooltip         "હાંસિયો">
-<!ENTITY border.tooltip         "કિનારી">
-<!ENTITY padding.tooltip        "પેડીંગ">
-<!ENTITY content.tooltip        "સમાવિષ્ટ">
+<!ENTITY layoutViewTitle          "બોક્સ મોડલ">
+<!ENTITY margin.tooltip           "હાંસિયો">
+<!ENTITY border.tooltip           "કિનારી">
+<!ENTITY padding.tooltip          "પેડીંગ">
+<!ENTITY content.tooltip          "સમાવિષ્ટ">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
