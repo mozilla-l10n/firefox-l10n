@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "Neužtenka laisvos vietos programai „&brandShortName;“ paleisti.">
-<!ENTITY  error_loading_file "Bandant įkelti „&brandShortName;“ darbui būtinus failus, įvyko klaida">
-
 <!ENTITY firstrun_panel_title_welcome "Sveiki">
 <!ENTITY  onboard_start_message3 "Naršyti su „&brandShortName;“">
 <!ENTITY  onboard_start_subtext3 "Padarykite savo mobilųjį naršymą labiau asmenišku.">
@@ -27,12 +23,16 @@
 <!ENTITY firstrun_button_next "Toliau">
 
 <!ENTITY  onboard_start_restricted1 "Būkite saugūs su šia supaprastinta „&brandShortName;“ versija.">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Adresynas">
 <!ENTITY  history_title "Žurnalas">
-<!ENTITY  reading_list_title "Skaitinių sąrašas">
+
 <!ENTITY  recent_tabs_title "Paskiausios kortelės">
 
 <!ENTITY  switch_to_tab "Pereiti į kortelę">
@@ -49,12 +49,6 @@
 <!ENTITY  sending_crash_report "Siunčiamas strigties pranešimas…">
 <!ENTITY  crash_close_label "Užverti">
 <!ENTITY  crash_restart_label "Paleisti „&brandShortName;“ iš naujo">
-<!ENTITY  exit_label "Baigti darbą">
-
-<!ENTITY  launcher_shortcuts_title "„&brandShortName;“ saityno programos">
-<!ENTITY  launcher_shortcuts_empty "Saityno programų nerasta">
-
-<!ENTITY choose_file "Parinkite failą">
 
 <!ENTITY url_bar_default_text2 "Įveskite adresą arba paieškos žodžius">
 
@@ -69,13 +63,20 @@
 <!ENTITY bookmark_updated "Adresyno įrašas atnaujintas">
 <!ENTITY bookmark_options "Savybės">
 
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+
 <!ENTITY history_today_section "Šiandien">
 <!ENTITY history_yesterday_section "Vakar">
 <!ENTITY history_week_section3 "Pastarosios 7 d.">
-<!ENTITY history_this_month_section "Šis mėnuo">
 <!ENTITY history_older_section3 "Seniau nei 6 mėn.">
 
-<!ENTITY go "Atverti">
 <!ENTITY search "Ieškoti">
 <!ENTITY reload "Naujinti">
 <!ENTITY forward "Pirmyn">
@@ -108,7 +109,7 @@
 <!ENTITY settings "Nuostatos">
 <!ENTITY settings_title "Nuostatos">
 <!ENTITY pref_category_general "Bendra">
-<!ENTITY pref_category_general_summary2 "Pradžia, kalba, adreso laukas">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -131,9 +132,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Įtraukti į adresyną">
-<!ENTITY overlay_share_reading_list_btn_label "Įtraukti į skaitinių sąrašą">
 <!ENTITY overlay_share_bookmark_btn_label_already "Jau yra adresyne">
-<!ENTITY overlay_share_reading_list_btn_label_already "Jau yra skaitinių sąraše">
 <!ENTITY overlay_share_send_other "Siųsti į kitus įrenginius">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -149,14 +148,15 @@
 <!ENTITY overlay_no_synced_devices "Nerasta su „Firefox“ paskyra susietų įrenginių">
 
 <!ENTITY pref_category_search3 "Paieška">
-<!ENTITY pref_category_search_summary "Ieškyklių tinkinimas">
+
 <!ENTITY pref_category_accessibility "Prieinamumas">
 <!ENTITY pref_category_accessibility_summary2 "Šrifto dydis, didinimas, balsinė įvestis">
 <!ENTITY pref_category_privacy_short "Privatumas">
-<!ENTITY pref_category_privacy_summary3 "Stebėjimas, slapukai, duomenų siuntimas">
+
 <!ENTITY pref_category_vendor2 "„&vendorShortName; &brandShortName;“">
 <!ENTITY pref_category_vendor_summary2 "Apie „&brandShortName;“, DUK, atsiliepimai">
 <!ENTITY pref_category_datareporting "Duomenų siuntimas">
+
 <!ENTITY pref_learn_more "Sužinoti daugiau">
 <!ENTITY pref_category_installed_search_engines "Įdiegtos ieškyklės">
 <!ENTITY pref_category_add_search_providers "Pridėti daugiau ieškyklių">
@@ -168,10 +168,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "Patarimas: bet kurią svetainę galite pridėti kaip ieškyklę, palaikydami nuspaustą jos paieškos lauką, o tada bakstelėdami &formatI; piktogramą.">
 <!ENTITY pref_category_advanced "Kitkas">
-<!ENTITY pref_category_advanced_summary2 "Kortelių atkūrimas, papildiniai, programuotojų priemonės">
-<!ENTITY pref_developer_remotedebugging "Nuotolinis derinimas">
+
+
+
+
+
 <!ENTITY pref_developer_remotedebugging_usb "Nuotolinis derinimas per USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Nuotolinis derinimas per Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Derinimui per Wi-Fi reikia jūsų įrenginyje turėti QR kodų skaitlį.">
@@ -181,18 +183,10 @@
 <!ENTITY pref_category_home "Pradžia">
 <!ENTITY pref_category_home_summary "Pradžios tinklalapio tinkinimas">
 <!ENTITY pref_category_home_panels "Skiltys">
-<!ENTITY home_add_panel_title "Skilties pridėjimas">
-<!ENTITY home_add_panel_empty "Deja, nėra skilčių, kurias galėtumėte pridėti.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "Skiltis „&formatS;“ pridėta į pradžios tinklalapį">
-<!ENTITY pref_category_home_content_settings "Turinio nuostatos">
-<!ENTITY pref_home_updates "Automatiniai naujinimai">
+
+
 <!ENTITY pref_home_updates_enabled "Įjungtas">
 <!ENTITY pref_home_updates_wifi "Tik per belaidį tinklą">
-<!ENTITY pref_home_suggested_sites "Rodyti svetainių siūlymus">
-<!ENTITY pref_home_suggested_sites_summary "Pradžios tinklalapyje rodyti nuorodas į svetaines, kurios, mūsų manymu, gali jus sudominti">
 <!ENTITY pref_category_home_homepage "Pradžios tinklalapis">
 <!ENTITY home_homepage_title "Nustatykite pradžios tinklalapį">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -216,6 +210,7 @@
 <!ENTITY pref_header_search "Ieškoti">
 <!ENTITY pref_header_privacy_short "Privatumas">
 <!ENTITY pref_header_accessibility "Prieinamumas">
+
 <!ENTITY pref_header_advanced "Kitkas">
 <!ENTITY pref_header_help "Pagalba">
 <!ENTITY pref_header_vendor "„&vendorShortName;“">
@@ -225,6 +220,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Leidžiami, išskyrus trečiųjų šalių">
 <!ENTITY pref_cookies_disabled "Neleidžiami">
 
+
+
+
 <!ENTITY pref_tap_to_load_images_title2 "Rodyti paveikslus">
 <!ENTITY pref_tap_to_load_images_enabled "Visada">
 <!ENTITY pref_tap_to_load_images_data "Tik per belaidį tinklą">
@@ -232,7 +230,7 @@
 
 <!ENTITY pref_show_web_fonts "Rodyti saityno šriftus">
 
-<!ENTITY pref_tracking_protection_title "Apsauga nuo stebėjimo">
+
 <!ENTITY pref_tracking_protection_summary3 "Įjungta privačiajame naršyme">
 <!ENTITY pref_donottrack_title "Nestebėti">
 <!ENTITY pref_donottrack_summary "„&brandShortName;“ praneš svetainėms, kad jūs nenorite būti stebimi">
@@ -240,6 +238,8 @@
 <!ENTITY pref_tracking_protection_enabled "Įjungta">
 <!ENTITY pref_tracking_protection_enabled_pb "Įjungta privačiajame naršyme">
 <!ENTITY pref_tracking_protection_disabled "Išjungta">
+
+
 
 <!ENTITY tracking_protection_prompt_title "Dabar ir su apsauga nuo stebėjimo">
 <!ENTITY tracking_protection_prompt_text "Aktyviai blokuoti stebėjimo elementus, kad jums nereikėtų jaudintis.">
@@ -259,7 +259,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Eiti į nuostatas">
-<!ENTITY tab_queue_notification_title "&brandShortName;">
+
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -273,10 +273,19 @@
 
 <!ENTITY tab_queue_notification_settings "Norėdami atverti kelias nuorodas, suteikite „&brandShortName;“ leidimą piešti ant kitų programų.">
 
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "Simbolių koduotė">
 <!ENTITY pref_char_encoding_on "Rodyti meniu">
 <!ENTITY pref_char_encoding_off "Nerodyti meniu">
-<!ENTITY pref_clear_private_data "Valyti privačius duomenis">
+
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Valyti dabar">
@@ -285,7 +294,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Pasirinkite, kuriuos duomenis reikia valyti">
 <!ENTITY pref_plugins "Papildiniai">
 <!ENTITY pref_plugins_enabled "Įjungta">
-<!ENTITY pref_plugins_tap_to_play "Leidžiami bakstelėjus">
+
 <!ENTITY pref_plugins_disabled "Išjungta">
 <!ENTITY pref_text_size "Šriftų dydžiai">
 <!ENTITY pref_restore_tabs "Atkurti korteles">
@@ -335,7 +344,6 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Atsiuntimai">
 <!ENTITY pref_private_data_syncedTabs "Sinchronizuotos kortelės">
 
-
 <!ENTITY pref_about_firefox "Apie „&brandShortName;“">
 <!ENTITY pref_vendor_faqs "Dažni klausimai">
 <!ENTITY pref_vendor_feedback "Palikti atsiliepimą">
@@ -353,10 +361,12 @@ size. -->
 <!ENTITY pref_panels_move_down "Nuleisti žemiau">
 
 <!ENTITY datareporting_notification_title "„&brandShortName;“ statistika ir duomenys">
-<!ENTITY datareporting_notification_action_long "pasirinkite, kokia informacija dalintis">
 <!ENTITY datareporting_notification_action "Pasirinkite, kuo dalintis">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "pasirinkite, kokia informacija dalintis">
 <!ENTITY datareporting_notification_summary "Programos „&brandShortName;“ tobulinimo tikslais, ji automatiškai siunčia tam tikrus duomenis „&vendorShortName;i“.">
-<!ENTITY datareporting_notification_summary_short "Programos „&brandShortName;“ tobulinimo tikslais…">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -379,7 +389,6 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Automatiniai naujinimai">
 <!ENTITY pref_update_autodownload_wifi "Tik per belaidį tinklą">
 <!ENTITY pref_update_autodownload_never "Niekada">
 <!ENTITY pref_update_autodownload_always "Visada">
@@ -390,7 +399,7 @@ size. -->
 <!ENTITY quit "Baigti darbą">
 
 <!ENTITY addons "Priedai">
-<!ENTITY logins "Prisijungimai">
+
 <!ENTITY downloads "Atsiuntimai">
 <!ENTITY char_encoding "Simbolių koduotė">
 
@@ -409,7 +418,6 @@ size. -->
 <!ENTITY close_private_tabs "Užverti privačiąsias korteles">
 <!ENTITY tabs_normal "Kortelės">
 <!ENTITY tabs_private "Privačiosios">
-<!ENTITY tabs_synced "Sinchronizuojamos">
 <!ENTITY set_image_fail "Nepavyko naudoti paveikslo">
 <!ENTITY set_image_path_fail "Nepavyko įrašyti paveikslo">
 <!ENTITY set_image_chooser_title "Naudoti paveikslą kaip">
@@ -443,8 +451,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Įsegti svetainę">
 <!ENTITY contextmenu_top_sites_unpin "Išsegti svetainę">
 <!ENTITY contextmenu_add_search_engine "Pridėti ieškyklę">
-<!ENTITY contextmenu_mark_read "Pažymėti kaip skaitytą">
-<!ENTITY contextmenu_mark_unread "Pažymėti kaip neskaitytą">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -464,7 +470,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Padidinti smulkias sritis">
-<!ENTITY pref_magnifying_glass_enabled_summary "Padidinti nuorodas ir formų laukus kai spustelėjama šalia jų">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -489,21 +495,6 @@ size. -->
 <!ENTITY site_settings_title3       "Svetainės nuostatos">
 <!ENTITY site_settings_cancel       "Atsisakyti">
 <!ENTITY site_settings_clear        "Išvalyti">
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-
-<!ENTITY reading_list_added3 "Įtraukta į skaitinių sąrašą">
-<!ENTITY reading_list_removed "Tinklalapis pašalintas iš skaitinių sąrašo">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "Pašalinti iš skaitymo sąrašo">
-<!ENTITY reading_list_duplicate "Tinklalapis jau yra skaitinių sąraše">
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
-<!ENTITY reading_list_time_minutes2 "&formatD; min.">
-<!ENTITY reading_list_time_over_an_hour "Virš valandos">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -532,6 +523,7 @@ size. -->
 
 <!ENTITY home_title "„&brandShortName;“ pradžios tinklalapis">
 <!ENTITY home_history_title "Žurnalas">
+
 <!ENTITY home_clear_history_button "Valyti naršymo žurnalą">
 <!ENTITY home_clear_history_confirm "Ar tikrai norite išvalyti naršymo žurnalą?">
 <!ENTITY home_bookmarks_empty "Čia išvardijami į adresyną įtraukti tinklalapiai.">
@@ -540,11 +532,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Čia rodomos neseniai naudotos kortelės.">
 <!ENTITY home_open_all "Atverti visas">
 <!ENTITY home_most_recent_empty "Čia išvardijamos jūsų paskiausiai lankytos svetainės.">
-<!ENTITY home_selected_empty "Svetainės, kuriose lankėtės pasirinktame laikotarpyje, atsiras čia.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Ei! Atvėrus &formatS1;naują privačiąją kortelę&formatS2; niekas nebus įrašoma į naršymo žurnalą.">
-<!ENTITY home_reading_list_empty "Čia rodomi straipsniai, kuriuos įtraukėte į skaitinių sąrašą.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -553,21 +543,11 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_back_to_filter "Atgal į „&formatS;“">
-
-<!ENTITY home_remote_tabs_title "Sinchronizuotos kortelės">
-<!ENTITY home_remote_tabs_empty "Kortelės iš kitų jūsų įrenginių matomos čia.">
-<!ENTITY home_remote_tabs_unable_to_connect "Nepavyko užmegzti ryšio">
-<!ENTITY home_remote_tabs_need_to_sign_in "Norint tęsti sinchronizavimą, reikia iš naujo prisijungti prie jūsų „Firefox“ paskyros.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Jūsų nauja „Firefox“ paskyra jau paruošta!">
-
-<!ENTITY home_remote_tabs_trouble_verifying "Nepavyksta patvirtinti paskyros?">
-<!ENTITY home_remote_tabs_need_to_verify "Prieš pradedant sinchronizavimą, reikia patvirtinti jūsų „Firefox“ paskyrą.">
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 paslėptas įrenginys">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+
 <!ENTITY home_remote_tabs_many_hidden_devices "Paslėpta įrenginių: &formatD;">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -582,7 +562,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Įveskite reikšminį žodį paieškai">
 
-<!ENTITY filepicker_title "Pasirinkite failą">
 <!ENTITY filepicker_audio_title "Parinkite arba įrašykite garsą">
 <!ENTITY filepicker_image_title "Parinkite arba nufotografuokite paveikslą">
 <!ENTITY filepicker_video_title "Parinkite arba įrašykite vaizdo įrašą">
@@ -611,8 +590,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "Kai kurios šio tinklalapio dalys nėra saugios (pvz., paveikslai).">
 <!ENTITY mixed_content_protection_disabled1 "Jūs esate išjungę apsaugą nuo nesaugių elementų.">
 <!-- Tracking content notifications in site identity popup -->
-
-<!ENTITY doorhanger_tracking_title "Apsauga nuo stebėjimo">
 <!ENTITY doorhanger_tracking_state_enabled "Įjungta">
 <!ENTITY doorhanger_tracking_state_disabled "Išjungta">
 <!ENTITY doorhanger_tracking_message_enabled1 "Bandymai stebėti jūsų veiklą internete buvo užblokuoti.">
@@ -622,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "Sužinoti daugiau">
 <!ENTITY enable_protection "Įgalinti apsaugą">
 <!ENTITY disable_protection "Išjungti apsaugą">
-<!ENTITY keep_blocking "Blokuoti toliau">
 
 <!ENTITY private_data_success "Privatieji duomenys išvalyti">
 <!ENTITY private_data_fail "Kai kurių privačiųjų duomenų išvalyti nepavyko">
@@ -714,12 +690,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "Paskiausiai sinchronizuota: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Paskutinė sinchronizacija: niekada">
-
-<!ENTITY intent_uri_cannot_open "Nepavyko atverti saito">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+
 <!ENTITY intent_uri_private_browsing_prompt "Ši nuoroda bus atverta per „&formatS;“. Ar tikrai norite nutraukti privačiojo naršymo seansą?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -778,3 +753,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY whatsnew_notification_title "Naudojama paskiausia „&brandShortName;“ laida">
 <!ENTITY whatsnew_notification_summary "Sužinokite, kas naujo šioje laidoje">
+
+
+
+
