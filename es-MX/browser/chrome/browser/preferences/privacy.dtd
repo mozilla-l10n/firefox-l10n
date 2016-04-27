@@ -19,9 +19,9 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber más">
 <!ENTITY changeBlockList.label          "Cambiar lista de bloqueos">
 <!ENTITY changeBlockList.accesskey      "C">
+
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
 <!ENTITY  doNotTrack.pre.label          "También puedes ">
 <!ENTITY  doNotTrack.settings.label     "administrar la configuración de No rastrear">
 <!ENTITY  doNotTrack.post.label         ".">
@@ -72,10 +72,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; recordará tu historial de navegación, descargas, formularios y búsquedas, y guardará las cookies de los sitios web que visites.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Tal vez quieras ">
 <!ENTITY  rememberActions.clearHistory.label  "borrar tu historial reciente">
 <!ENTITY  rememberActions.middle.label        ", o ">
@@ -83,9 +83,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; usará la misma configuración de la navegación privada, es decir, no guardará ningún historial de tu navegación.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "También puedes ">
 <!ENTITY  dontrememberActions.clearHistory.label "borrar todo el historial">
 <!ENTITY  dontrememberActions.post.label         ".">
