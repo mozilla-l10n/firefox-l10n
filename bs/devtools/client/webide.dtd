@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Ostalo">
 <!ENTITY runtimePanel_installsimulator "Instaliraj simulator">
 <!ENTITY runtimePanel_noadbhelper "Instaliraj ADB Helper">
-<!ENTITY runtimePanel_nousbdevice "Ne vidite svoj uređaj?">
+
 <!ENTITY runtimePanel_refreshDevices_label "Osvježi uređaje">
 <!-- Lense -->
 

@@ -18,7 +18,6 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Firefox možete jednostavno prilagoditi prema vašim potrebama. <a>Hiljade add-ona vam stoje na raspolaganju</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; je besplatan softver otvorenog koda kojeg razvija neprofitna Mozilla Foundation. <a>Znajte vaša prava…</a>">
 

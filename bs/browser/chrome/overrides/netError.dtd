@@ -19,23 +19,23 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server nije pronađen">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Provjerite da u adresi nema greška poput <strong>ww</strong>.primjer.ba umjesto <strong>www</strong>.primjer.ba</li> <li>Ukoliko ne možete učitati niti jednu stranicu, provjerite mrežnu konekciju vašeg računara.</li> <li>Ako su vaš računar ili mreža zaštićeni firewallom ili proxyjem, provjerite da li &brandShortName; ima dozvolu za pristup Webu.</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "Fajl nije pronađen">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite da li u nazivu fajla postoji greška u velikim/malim slovima, ili neka druga greška.</li> <li>Provjerite da li je fajl premješten, obrisan ili mu je promijenjeno ime.</li> </ul>">
 
 
-<!ENTITY generic.title "Ups.">
-<!ENTITY generic.longDesc "<p>&brandShortName; iz nekog razloga ne može da učita stranicu.</p>">
 
-<!ENTITY malformedURI.title "Adresa je nevažeća">
-<!ENTITY malformedURI.longDesc "<ul> <li>Web adrese su obično napisane kao <strong>http://www.primjer.ba/</strong></li> <li>Pobrinite se da koristite kose crte (tj. <strong>/</strong>).</li> </ul>">
+<!ENTITY generic.title "Ups.">
+
+
+
 
 <!ENTITY netInterrupt.title "Veza je prekinuta">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokument je nestao">
-<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u &brandShortName; kešu.</p><ul><li>Kao sigurnosna predostrožnost, &brandShortName; automatski ne traži ponovo osjetljive dokumente.</li><li>Kliknite Pokušaj ponovo da ponovo zatražite dokument od web stranice.</li></ul>">
+
 
 <!ENTITY netOffline.title "Offline režim">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Uklonite oznaku sa &quot;Radi Offline&quot; meni stavke, a zatim pokušajte ponovo.</li> </ul>">
@@ -52,7 +52,6 @@
 <!ENTITY netTimeout.title "Veza je istekla">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Adresa nije razumiva">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Možda ćete trebati instalirati drugi program da biste mogli otvoriti ovu adresu.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy server odbija veze">
@@ -61,19 +60,17 @@
 <!ENTITY proxyResolveFailure.title "Ne mogu da pronađem proxy server">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Provjerite da li su postavke proxyja ispravne.</li> <li>Provjerite da li radi mrežna konekcija vašeg računara.</li> <li>Ako su vaš računar ili mreža zaštićeni firewallom ili proxyjem, provjerite da li &brandShortName; ima dozvoljen pristup Webu.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Stranica ne preusmjerava pravilno">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Ovaj problem ponekad može biti izazvan onemogućavanjem ili odbijanjem prihvatanja kolačića.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Neočekivani odgovor od servera">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Provjerite da li je na vaš sistem instaliran Personal Security Manager.</li> <li>Ovo može biti usljed nestandardne konfiguracije servera.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Neuspjela sigurna veza">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Stranica koju pokušavate otvoriti ne može biti prikazana jer autentičnost primljenih podataka nije moguće provjeriti.</li> <li>Molimo da kontaktirate vlasnike web stranice i da ih obavijestite o ovom problemu.</li> </ul>">
 
-<!ENTITY nssBadCert.title "Neuspjela sigurna veza">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ovo bi mogao biti problem sa konfiguracijom servera ili neko pokušava da se predstavi kao server.</li> <li>Ukoliko ste se ranije uspješno povezivali na server onda je greška privremena i možete ponovo pokušati kasnije..</li> </ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
-<!ENTITY sharedLongDesc "<ul> <li>Web stranica je možda privremeno nedostupna ili je prezauzeta. Pokušajte ponovo za par trenutaka.</li> <li>Ukoliko ne možete učitati niti jednu stranicu, provjerite mrežnu konekciju vašeg računara.</li> <li>Ako su vaš računar ili mreža zaštićeni firewallom ili proxyjem, provjerite da li &brandShortName; ima dozvoljen pristup Webu.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je spriječio učitavanje stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje.</p>">
@@ -82,16 +79,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>Stranica koju želite pogledati ne može biti prikazana usljed greške u prijenosu.</p><ul><li>Molimo da obavijestite vlasnike web stranice o ovom problemu.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Ili možete dodati izuzetak…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Vodi me odavde!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izuzetak…">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-
-<!ENTITY securityOverride.warningContent "<p>Ne biste trebali dodati izuzetak ukoliko koristite internet konekciju kojoj ne vjerujete u potpunosti ili ako niste navikli da vidite upozorenje za ovaj server.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "Prijavite greške poput ove da biste pomogli Mozilli da identifikuje i blokira opasne stranice">
 <!ENTITY errorReporting.learnMore "Saznajte više…">
@@ -104,10 +92,15 @@ functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Napredna info: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Vaša veza nije sigurna">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Napredna info: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Napredno">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>koristi zastarjelu sigurnosnu tehnologiju koja je ranjiva na napade. Napadač bi lahko mogao otkriti podatke koje ste smatrali sigurnim.">
 <!ENTITY weakCryptoAdvanced.override "(Nije sigurno) Probaj učitati <span class='hostname'></span> koristeći zastarjelu zaštitu">
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

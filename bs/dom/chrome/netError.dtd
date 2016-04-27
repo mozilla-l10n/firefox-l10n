@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Fajl nije pronađen">
 <!ENTITY fileNotFound.longDesc "<ul><li>Provjerite da li je stavka premještena, izbrisana ili joj je promijenjeno ime.</li><li>Provjerite korištenje velikih i malih slova te da li postoji druga greška u kucanju.</li><li>Imate li dovoljna prava pristupa zatraženoj stavci?</li></ul>">
 
+
+
 <!ENTITY generic.title "Zahtjev nije mogao biti kompletiran">
 <!ENTITY generic.longDesc "<p>Dodatne informacije o ovom problemu ili grešci su trenutno nedostupne.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Molimo da obavijestite vlasnike web stranice o ovom problemu.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

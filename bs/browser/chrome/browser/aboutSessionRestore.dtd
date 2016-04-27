@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "Prozor &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "Krenimo!">
 <!ENTITY welcomeback2.restoreButton.access "K">
 
 <!ENTITY welcomeback2.tabtitle      "Uspjeh!">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Vaši add-oni i prilagođenja su uklonjeni a postavke vašeg browsera su vraćene na izvorne vrijednosti. Ukoliko ovo nije riješilo vaš problem, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "saznajte više o tome šta možete uraditi.">
@@ -52,9 +45,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "Migrirajte vaše druge grupe tabova">
-<!ENTITY tabgroupsmigration.pagetitle2          "Uklonili smo grupe tabova, ali spasili vaše tabove">
+
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Saznajte više o zamjenskim add-onima za grupe tabova.">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; je zabilježio sve vaše grupe, pa niste ništa izgubili.">
+
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Prikaži zabilježene grupe tabova">
 <!ENTITY tabgroupsmigration.restoredescription  "Možete izabrati da vratite neke ili sve pozadinske grupe u prozore sada:">
 
