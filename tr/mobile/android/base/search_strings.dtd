@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "Bu aygıttaki tüm arama geçmişi silinsin mi?">
 <!ENTITY pref_clearHistory_title "Arama geçmişini temizle">
 
-<!ENTITY pref_searchProvider_title "Arama motoru">
-
 <!ENTITY search_widget_button_label "Ara">
 
 <!ENTITY network_error_title "İnternet bağlantısı yok">
