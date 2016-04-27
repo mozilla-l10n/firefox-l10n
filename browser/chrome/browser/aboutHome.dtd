@@ -18,7 +18,6 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "به راحتی می‌توانید فایرفاکس را همان طور که دوست دارید سفارشی‌سازی کنید. <a> افزونه‌های دلخواهتان را از بین هزاران افرونه‌ی موجود انتخاب کنید</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; یک نرم‌افزار آزاد و متن‌باز از بنیاد غیرانتفاعی موزیلا است. <a>حقوق خود را بدانید ...</a>">
 
