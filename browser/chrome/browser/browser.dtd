@@ -187,7 +187,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label             "Tulosta">
 <!ENTITY printButton.tooltip           "Tulosta sivu">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Näytä tiedot sivustosta">
+<!ENTITY urlbar.viewSiteInfo.label                      "Näytä sivuston tiedot">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
