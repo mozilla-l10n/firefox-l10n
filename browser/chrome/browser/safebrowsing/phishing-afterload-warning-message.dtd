@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Bandunar questa pagina">
 <!ENTITY safeb.palm.decline.label "Ignorar quest avertiment">
-<!ENTITY safeb.palm.notforgery.label2 "Quai n'è betg in'emprova d'engion…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
 <!ENTITY safeb.palm.reportPage.label "Pertge è questa pagina vegnida bloccada?">
 <!ENTITY safeb.palm.whyForbidden.label "Pertge è questa pagina vegnida bloccada?">
 
@@ -18,10 +18,7 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "La pagina <span id='unwanted_sitename'/> è rapportada sco pagina che cuntegna software nungiavischada e vegn bloccada sin basa da tias preferenzas da segirezza.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Paginas cun software nungiavischada emprovan dad installar software che po engianar ed influenzar tes sistem en moda nunspetgada.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "Classifitgà sco emprova d'engion!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Questa pagina web sin <span id='phishing_sitename'/> è vegnida annunziada sco emprova d'engion ed è vegnida bloccada sin fundament da tias preferenzas da segirezza.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Paginas d'engion vegnan creadas per surmanar tai da tradir datas persunalas u finanzialas. Cun imitar websites u e-mails vulan ellas inspirar confidenza .</p><p>Sche ti endateschas qua datas persunalas, stos ti far quint cun ladernitsch d'identitad u autras furmas d'engion.</p>">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Pagina bloccada">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
