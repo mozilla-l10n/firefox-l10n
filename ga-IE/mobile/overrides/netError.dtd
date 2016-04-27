@@ -19,11 +19,13 @@
 <!ENTITY dnsNotFound.title "Freastalaí gan aimsiú">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Scrúdaigh an seoladh le haghaidh botún cosúil le <strong>ww</strong>.sampla.com in ionad <strong>www</strong>.sampla.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Cuardaigh</button> </div> <li>Mura bhfuil tú in ann leathanach ar bith a luchtú, seiceáil do cheangal sonraí nó Wi-Fi. <button id='wifi'>Cumasaigh Wi-Fi</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Scrúdaigh an seoladh chun botúin chosúla a aimsiú, dála <strong>ww</strong>.sampla.com in ionad <strong>www</strong>.sampla.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Cuardaigh</button> </div> <li>Mura bhfuil tú in ann leathanach ar bith a luchtú, cinntigh go bhfuil ceangal sonraí nó Wi-Fi ag do ghléas. <button id='wifi'>Cumasaigh Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Comhad gan aimsiú">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Scrúdaigh an t-ainm comhaid le haghaidh botúin chlóscríofa sna litreacha móra srl.</li> <li>Féach an bhfuil an comhad bogtha, athainmnithe nó scriosta.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "Diúltaíodh rochtain ar an gcomhad">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Seans nach bhfuil an comhad ann a thuilleadh, gur bogadh é, nó b'fhéidir nach bhfuil cead rochtana agat air.</li> </ul>">
 
 <!ENTITY generic.title "Úps.">
 <!ENTITY generic.longDesc "<p>Ní féidir le &brandShortName; an leathanach seo a luchtú ar fáth éigin.</p>">
@@ -31,13 +33,13 @@
 <!ENTITY malformedURI.title "Níl an seoladh bailí">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>De ghnáth scríobhtar seoltaí Gréasáin mar seo <strong>http://www.sampla.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Cuardaigh</button> </div> <li>Bí cinnte gur tulslaiseanna atá agat (.i. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>De ghnáth scríobhtar seoltaí Gréasáin mar seo <strong>http://www.sampla.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Cuardaigh</button> </div> <li>Bí cinnte gur tulslaiseanna atá agat (i.e.  <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Idirbhriseadh an ceangal">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Cáipéis As Feidhm">
-<!ENTITY notCached.longDesc "<p>Níl an cháipéis iarrtha ar fáil i dtaisce &brandShortName;.</p><ul><li>Mar gheall ar chúrsaí slándála, ní dhéanfaidh &brandShortName; iarracht eile aon cháipéis íogair a fháil go huathoibríoch.</li><li>Cliceáil 'Déan Iarracht Eile' chun an cháipéis a iarraidh ón suíomh arís.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Níl an cháipéis a iarradh ar fáil i dtaisce &brandShortName;.</p><ul><li>Mar gheall ar chúrsaí slándála, ní dhéanfaidh &brandShortName; iarracht eile aon cháipéis íogair a fháil go huathoibríoch.</li><li>Cliceáil 'Déan Iarracht Eile' chun an cháipéis a iarraidh ón suíomh arís.</li></ul>">
 
 <!ENTITY netOffline.title "Mód as líne">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -77,11 +79,11 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Ní féidir an leathanach atá tú ag iarraidh amharc air a thaispeáint toisc nach féidir fírinne na sonraí a fuarthas a fhíordheimhniú.</li> <li>Téigh i dteagmháil le húinéirí an tsuímh Ghréasáin leis an fhadhb seo a chur in iúl dóibh le do thoil.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Níorbh Fhéidir Ceangal Slán a Bhunú">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>B'fhéidir gur fadhb i gcumraíocht an fhreastalaí atá ann, nó b'fhéidir go bhfuil duine éigin ag déanamh aithris ar an bhfreastalaí.</li> <li>Má d'éirigh leat ceangal leis an bhfreastalaí seo roimhe seo, b'fhéidir gur fadhb shealadach atá ann agus is féidir leat iarracht a dhéanamh níos déanaí.</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>B'fhéidir gur fadhb i gcumraíocht an fhreastalaí atá ann, nó b'fhéidir go bhfuil duine éigin ag déanamh aithrise ar an bhfreastalaí.</li> <li>Má éiríonn leat ceangal leis an bhfreastalaí seo de ghnáth, b'fhéidir gur fadhb shealadach í agus gur féidir leat iarracht a dhéanamh níos déanaí.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> <li>D'fhéadfadh an suíomh bheith gan fáil nó ró-ghnóthach go sealadach. Bain triail eile as ar ball beag.</li> <li>Mura bhfuil tú in ann leathanach ar bith a luchtú, seiceáil do cheangal sonraí nó Wi-Fi. <button id='wifi'>Cumasaigh Wi-Fi</button> </li> </ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>D'fhéadfadh nach bhfuil fáil ar an suíomh nó go bhfuil sé ró-ghnóthach faoi láthair. Bain triail eile as ar ball beag.</li> <li>Mura bhfuil tú in ann leathanach ar bith a luchtú, cinntigh ceangal sonraí nó Wi-Fi do ghléis. <button id='wifi'>Cumasaigh Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Bactha ag an Polasaí Slándala Inneachair">
 <!ENTITY cspBlocked.longDesc "<p>Chuir &brandShortName; stad ar luchtú an leathanaigh seo toisc go bhfuil polasaí slándála inneachair ag an leathanach a dhícheadaíonn é.</p>">
@@ -112,3 +114,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Ardeolas: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Níl do cheangal slán">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p>Úsáideann <span class='hostname'></span> teicneolaíocht slándála atá as dáta agus leochaileach ar ionsaithe. D'fhéadfadh ionsaitheoir eolas a nochtadh áit ar shíl tú go raibh sé slán. Beidh ar riarthóir an tsuímh gréasáin an freastalaí a dheisiú sula mbeidh tú ábalta cuairt a thabhairt ar an suíomh. </p><p> Cód Earráide: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
