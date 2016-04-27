@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Avisarme si &brandShortName; se pondrá lento al abrir muchas pestañas">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "No cargar las pestañas hasta que estén seleccionadas">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
-
 <!ENTITY switchToNewTabs.label        "Al abrir un enlace en una nueva pestaña cambiar a esta inmediatamente">
 <!ENTITY switchToNewTabs.accesskey    "h">
 

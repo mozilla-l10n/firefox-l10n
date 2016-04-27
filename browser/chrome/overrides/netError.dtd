@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Reintentar">
 <!ENTITY returnToPreviousPage.label "Regresar">
 <!ENTITY advanced.label "Avanzado">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "No se puede conectar">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -70,8 +70,9 @@
 <!ENTITY nssFailure2.title "Conexión segura fallida">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>La página que estás tratando de ver no se puede mostrar porque la autenticidad de los datos recibidos no pueden ser verificados.</li> <li>Por favor contacta a los propietarios del sitio web para informarles de este problema.</li> </ul>">
 
-<!ENTITY nssBadCert.title "Conexión segura fallida">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Esto podría ser un problema con la configuración del servidor o tal vez alguien intentando hacerse pasar por éste.</li> <li>Si te has conectado a este servidor anteriormente con éxito el error podría ser temporal, intentalo más tarde.</li> </ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>El sitio podría estar temporalmente fuera de servicio o muy ocupado. Intenta nuevamente en un momento.</li> <li>Si no puedes cargar ninguna página, verifica la conexión de red de tu computadora.</li> <li>Si la red o tu computadora están protegidas por un firewall o proxy, asegúrate que &brandShortName; pueda acceder a internet.</li> </ul>">
 
@@ -82,16 +83,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>La página que estás tratando de ver no se puede mostrar porque un error en la transferencia de datos fue detectado.</p><ul><li>Por favor contacta con los propietarios del sitio para informarles de este problema.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "O puedes agregar una excepción…">
-<!ENTITY securityOverride.getMeOutOfHereButton "¡Salir de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-
-<!ENTITY securityOverride.warningContent "<p>No deberías agregar una excepción si estás usando una conexión a Internet en la que no confías completamente o si no estás acostumbrado a ver una advertencia para este servidor.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "Informa errores de este tipo para ayudar a Mozilla a identificar y bloquear sitios maliciosos.">
 <!ENTITY errorReporting.learnMore "Aprender más…">
@@ -111,3 +103,7 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoAdvanced.title "Avanzado">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa tecnología de seguridad obsoleta y vulnerable para atacar. Un atacante puede fácilmente revelar información que se pensaba estaba segura.">
 <!ENTITY weakCryptoAdvanced.override "(No seguro) Tratando de cargar <span class='hostname'></span> usando seguridad obsoleta">
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
