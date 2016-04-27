@@ -61,7 +61,7 @@
 <!ENTITY rights.safebrowsing-b "Ukukhubaza isici sokudlulisa amehlo ngokuvikelekile asinconyiwe njengoba kungakuholela kumasayithi angavikelekile.  Uma ufuna ukukhubaza isici sonke, landela lezo zinyathelo:">
 <!ENTITY rights.safebrowsing-term1 "Vula izintandokazi zohlelokusebenza">
 <!ENTITY rights.safebrowsing-term2 "Khetha ukukhethwa kokuvikeleka">
-<!ENTITY rights.safebrowsing-term3 "Susa ukukhetha ku-&quot;&amp;blockAttackSites.label&quot; naku-&quot;&blockWebForgeries.label;&quot;">
+
 <!ENTITY rights.safebrowsing-term4 "Ukudlulisa amehlo manje kukhutshaziwe">
 <!-- location aware browsing points for branded builds -->
 

@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Ifayela alitholakali">
 <!ENTITY fileNotFound.longDesc "<ul><li>Kungenzeka yini ukuthi le nto iqanjwe ngelinye igama, isusiwe noma ibekwe kwenye indawo?</li><li>Ingabe kukhona iphutha ekubhaleni, kosonhlamvukazi noma elinye iphutha ekhelini?</li><li>Unayo yini imvume eyanele yokungena kulokhu okucelile?</li></ul>">
 
+
+
 <!ENTITY generic.title "Ayikwazi ukuqeda lesi sicelo">
 <!ENTITY generic.longDesc "<p>Ukwaziswa okwengeziwe mayelana nale nkinga noma leli phutha akukho okwamanje.</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "Isilawuli-kude se-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukubazisa ngale nkinga.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
