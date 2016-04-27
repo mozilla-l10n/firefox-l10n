@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "برچسب‌ها">
 <!ENTITY bookmarks.folder.toolbar.label "نوار ابزار نشانک‌ها">
-<!ENTITY bookmarks.folder.unfiled.label "نشانک‌های مرتب نشده">
+
 <!ENTITY bookmarks.folder.desktop.label "نشانک‌های رایانهٴ شخصی">
 <!ENTITY bookmarks.folder.mobile.label "نشانک‌های همراه">
-<!ENTITY bookmarks.folder.readinglist.label "لیست خواندن">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "میخ شد">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "تنظیم &syncBrand.shortName.label; برای ارسال زبانه‌ها">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "تنظیم &syncBrand.fullName.label; بر روی دستگاه شما برای ارسال زبانه‌ها به دستگاه‌های دیگر.">
-<!ENTITY sync.text.tab.sent.label "زبانه شما ارسال شد!">
-<!ENTITY sync.text.tab.not.sent.label "مشکلی در ارسال زبانه شما وجود دارد.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "حساب فایرفاکس">
-
-<!ENTITY fxaccount_custom_server_account_title "استفاده از حساب روی سرور">
-<!ENTITY fxaccount_custom_server_sync_title "ذخیرۀ داده‌های هم‌گام‌سازی بر روی کارگزار">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "پست الکترونیکی">
-<!ENTITY fxaccount_password_hint "گذرواژه">
-<!ENTITY fxaccount_password_hide "مخفی کردن">
-<!ENTITY fxaccount_password_show "نمایش">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "بازگشت به مرور‌کردن">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "شرایط ارائه خدمات">
-<!ENTITY fxaccount_policy_linkprivacy "نکات حریم خصوصی">
+<!ENTITY fxaccount_back_to_browsing "بازگشت به مرور‌کردن">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "به &syncBrand.shortName.label; خوش آمدید">
 <!ENTITY fxaccount_getting_started_description2 "برای همگام‌سازی زبانه‌ها، نشانک‌ها و نشست‌های خود وارد شوید.">
 <!ENTITY fxaccount_getting_started_get_started "شروع به کار">
 <!ENTITY fxaccount_getting_started_old_firefox "آیا از نسخه قدیمی &syncBrand.shortName.label; استفاده می‌کنید؟">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "ایجاد یک حساب کاربری فایرفاکس">
-<!ENTITY fxaccount_create_account_password_length_restriction "حداقل باید هشت حرف داشته باشد">
-<!ENTITY fxaccount_create_account_day_of_birth "روز">
-<!ENTITY fxaccount_create_account_month_of_birth "ماه">
-<!ENTITY fxaccount_create_account_year_of_birth "سال تولد">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "با ادامه دادن، موافقتم را با &formatS1; و &formatS2; سرویس‌های ابری فایرفاکس اعلام می‌دارم.">
-<!ENTITY fxaccount_create_account_button "بعدی">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "انتخاب کنید چه چیزی هم‌گام‌سازی شود">
-<!ENTITY fxaccount_create_account_sign_in_instead "حساب کاربری دارید؟ وارد شوید">
-<!ENTITY fxaccount_create_account_1990_or_earlier "۱۹۹۰ یا زودتر">
-<!ENTITY fxaccount_create_account_unknown_error "امکان ایجاد حساب‌کاربری وجود ندارد">
-
-<!ENTITY fxaccount_account_create_not_allowed "امکان ایجاد حساب‌کاربری وجود ندارد">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "شما باید حداقل سن مجاز جهت ایجاد حساب را داشته باشید.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "اطلاعات بیشتر">
-
-<!ENTITY fxaccount_confirm_account_header "حساب خود را تایید کنید">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "پیوند تایید برای &formatS; ارسال شد">
-<!ENTITY fxaccount_confirm_account_resend_email "ارسال مجدد پست‌الکترونیکی">
-<!ENTITY fxaccount_confirm_account_change_email "آدرس پست الکترونیکی خود را فراموش کرده‌اید؟">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "نامه الکترونیکی برای تایید ارسال شد">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "امکان ارسال تایید برای پست الکترونیکی وجود ندارد">
-<!ENTITY fxaccount_resend_unlock_code_button_label "ارسال مجدد پست‌الکترونیکی برای بازکردن قفل">
-<!ENTITY fxaccount_unlock_code_sent " پست الکترونیکی بازکردن حساب کاربری ارسال شد">
-<!ENTITY fxaccount_unlock_code_not_sent "امکان ارسال پست‌الکترونیکی برای بازکردن حساب‌کاربری وجود ندارد">
-
-<!ENTITY fxaccount_sign_in_sub_header "ورود">
-<!ENTITY fxaccount_sign_in_button_label "ورود">
-<!ENTITY fxaccount_sign_in_forgot_password "گذرواژه را فراموش کرده‌اید؟">
-<!ENTITY fxaccount_sign_in_create_account_instead "ایجاد یک حساب">
-<!ENTITY fxaccount_sign_in_unknown_error "امکان وارد شدن وجود ندارد">
-
-<!ENTITY fxaccount_account_verified_sub_header "حساب تایید شد">
-<!ENTITY fxaccount_account_verified_description2 "داده‌های شما به زودی همگام سازی می‌شوند.">
-
-<!ENTITY fxaccount_migration_finished_header "ارتقا پایان یافت">
-
-<!ENTITY fxaccount_update_credentials_header "ورود">
-<!ENTITY fxaccount_update_credentials_button_label "ورود">
-<!ENTITY fxaccount_update_credentials_unknown_error "امکان وارد شدن وجود ندارد">
-
-<!ENTITY fxaccount_finish_migrating_header "برای اتمام ارتقا وارد شوید">
-<!ENTITY fxaccount_finish_migrating_button_label "اتمام ارتقا">
-<!ENTITY fxaccount_finish_migrating_description "ارتقا مقدار زیادی داده منتقل می‌کند. بهتر است از Wi-Fi استفاده شود.">
-
-<!ENTITY fxaccount_status_header2 "حساب فایرفاکس">
 <!ENTITY fxaccount_status_signed_in_as "وارد شده به عنوان">
 <!ENTITY fxaccount_status_manage_account "مدیریت حساب‌کاربری">
 <!ENTITY fxaccount_status_auth_server "حساب سرور">
@@ -154,8 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "شرایط ارائه خدمات">
-<!ENTITY fxaccount_status_linkprivacy "شرایط حفظ حریم خصوصی">
+
 <!ENTITY fxaccount_status_more "بیشتر&ellipsis;">
 <!ENTITY fxaccount_remove_account "قطع اتصال&ellipsis;">
 
@@ -192,7 +112,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "کارگزار مشغول است، اندکی بعد دوباره امتحان کنید">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "سرور مشغول است، اندکی بعد دوباره امتحان کنید">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "مشکلی پیش آمده است">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "امکان اتصال به شبکه وجود ندارد">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "حساب قفل شده است. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; به شبکه وصل نیست">
@@ -204,8 +123,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "برای ورود به عنوان &formatS; تپ کنید">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
-<!ENTITY old_sync_deprecated_notification_title "برای ادامه همگام‌سازی وارد شوید">
-<!ENTITY old_sync_deprecated_notification_content "حساب شما دیگر پشتیبانی نمی‌شود">
