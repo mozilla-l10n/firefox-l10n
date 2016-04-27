@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Абониране за тази страница…">
 <!ENTITY addCurPagesCmd.label "Отмятане всички подпрозорци…">
 <!ENTITY showAllBookmarks2.label "Показване на всички отметки">
-<!ENTITY unsortedBookmarksCmd.label "Негрупирани отметки">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Показване на повече отметки">
 
 <!ENTITY backCmd.label                "Назад">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Показване съобщение за хранилището на приложение">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Управление на информацията за влизане">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Щракнете, ако искате паролата да се запомни">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Показване инсталационното съобщение на приложението">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Управление използването на приставката в тази страница">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Промяна на настройката дали да получавате уведомления от сайта">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Отметки">
-<!ENTITY bookmarksMenuButton.unsorted.label "Негрупирани отметки">
+
 <!ENTITY viewBookmarksSidebar2.label        "Показване на страничната лента с отметки">
 <!ENTITY viewBookmarksToolbar.label         "Показване на лентата с отметки">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,78 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Уеб разработчик">
 <!ENTITY webDeveloperMenu.accesskey   "У">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-
-
-<!ENTITY devtoolsConnect.label        "Свързване…">
-<!ENTITY devtoolsConnect.accesskey    "з">
-
-<!ENTITY errorConsoleCmd.label        "Конзола на грешките">
-<!ENTITY errorConsoleCmd.accesskey    "К">
-
-<!ENTITY remoteWebConsoleCmd.label    "Отдалечена Уеб конзола">
-
-<!ENTITY browserConsoleCmd.label      "Конзола на браузъра">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "К">
-
 <!ENTITY inspectContextMenu.label     "Изследване на елемент">
 <!ENTITY inspectContextMenu.accesskey "И">
-
-<!ENTITY responsiveDesignTool.label   "Нагаждащ се дизайн">
-<!ENTITY responsiveDesignTool.accesskey "Н">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Капкомер">
-<!ENTITY eyedropper.accesskey "К">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Бяла дъска">
-<!ENTITY scratchpad.accesskey         "Б">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Инструменти за браузър">
-<!ENTITY browserToolboxMenu.accesskey "н">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Инструменти за съдържание">
-<!ENTITY browserContentToolboxMenu.accesskey "у">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Затваряне на развойната лента">
-<!ENTITY devToolbarMenu.label              "Развойна лента">
-<!ENTITY devToolbarMenu.accesskey          "Р">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Превключване на Инструменти">
-<!ENTITY devToolboxMenuItem.accesskey      "П">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Превключване на развойните инструменти">
-<!ENTITY devToolbarOtherToolsButton.label  "Още инструменти">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Изтегляне на инструменти">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "И">
 
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
@@ -357,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Изрязване">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "р"> 
-<!ENTITY copyCmd.label            "Копиране">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "К"> 
+
 <!ENTITY pasteCmd.label           "Поставяне">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "с"> 
@@ -409,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Отваряне на меню с помощ">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронизирани подпрозорци">
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
@@ -417,6 +346,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки на Sync">
 
 <!ENTITY appMenuRemoteTabs.signin.label "Впишете се в Sync">
@@ -762,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Връзката ви със сайта не е поверителна. Изпращаната информация, като например пароли, съобщения, кредитни карти и др., може да бъде видяна от други.">
 <!ENTITY identity.description.insecureLoginForms "Информацията за регистриране, която въведохте в тази страница, не е защитена и може да е компрометирана.">
 <!ENTITY identity.description.weakCipher "Връзката ви с този уебсайт използва слабо шифриране и не е поверителна.">
-<!ENTITY identity.description.weakCipher2 "Други хора могат да виждат ваша информация и да променят поведението на уебсайта.">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; блокира части от страницата, които не са шифрирани.">
 <!ENTITY identity.description.passiveLoaded "Връзката не е поверителна и споделяната информация със сайта може да бъде видяна от други.">
 <!ENTITY identity.description.passiveLoaded2 "Уебсайтът има нешифрирано съдържание, като например изображения.">
@@ -795,8 +725,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
+
+
+
 
 
 

@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Предупреждение, когато отварянето на няколко подпрозореца може да забави &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "о">
 
-<!ENTITY restoreTabsOnDemand.label        "Без зареждане на подпрозорци, докато не бъдат избрани">
-<!ENTITY restoreTabsOnDemand.accesskey    "Б">
-
 <!ENTITY switchToNewTabs.label        "При отваряне на връзка в подпрозорец, веднага да се превключи към него">
 <!ENTITY switchToNewTabs.accesskey    "П">
 
