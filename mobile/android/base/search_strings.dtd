@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage " همه تاریخچه جست‌وجوها از این دستگاه پاک شود؟">
 <!ENTITY pref_clearHistory_title "پاک‌کردن تاریخچه جست‌وجو">
 
-<!ENTITY pref_searchProvider_title "موتور جست‌وجو">
-
 <!ENTITY search_widget_button_label "جستجو">
 
 <!ENTITY network_error_title "اتصال اینترنت در دسترس نیست.">
