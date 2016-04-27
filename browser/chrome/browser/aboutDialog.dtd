@@ -46,7 +46,6 @@
 <!ENTITY helpus.getInvolvedLink     "Participatz !">
 <!ENTITY helpus.end                 ".">
 
-<!ENTITY releaseNotes.link          "Novetats">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Entresenhas sus la licéncia">
