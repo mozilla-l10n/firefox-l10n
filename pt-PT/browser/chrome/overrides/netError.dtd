@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Ocorreu um problema ao carregar a página">
-<!ENTITY retry.label "Voltar a tentar">
+<!ENTITY retry.label "Tentar novamente">
 <!ENTITY returnToPreviousPage.label "Recuar">
 <!ENTITY advanced.label "Avançado">
 <!-- Specific error messages -->
@@ -37,10 +37,10 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Documento expirado">
-
+<!ENTITY notCached.longDesc "<p>O documento solicitado não está disponível na cache do &brandShortName;.</p><ul><li>Como precaução de segurança, o &brandShortName; não solicita novamente e de forma automática documentos sensíveis.</li><li>Clique em Tentar novamente para solicitar novamente o documento do website.</li></ul>">
 
 <!ENTITY netOffline.title "Modo offline">
-<!ENTITY netOffline.longDesc2 "<ul> <li>Prima &quot;Voltar a tentar&quot; para trocar para o modo online e recarregar a página.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Prima &quot;Tentar novamente&quot; para trocar para o modo online e recarregar a página.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Erro de codificação de conteúdo">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Por favor, comunique o problema aos proprietários do website.</li> </ul>">
@@ -78,7 +78,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "O proprietário de <span class='hostname'/> configurou o website incorretamente.  Para impedir que a sua informação fosse furtada, o &brandShortName; não se ligou a este website.">
 
-<!ENTITY sharedLongDesc "<ul> <li>O site pode estar temporariamente indisponível ou demasiado ocupado. Volte a tentar dentro de alguns momentos.</li> <li>Se não conseguir carregar quaisquer páginas, verifique a ligação do seu computador à rede.</li> <li>Se o seu computador ou rede estiverem protegidos por uma firewall ou proxy, certifique-se de que o &brandShortName; tem permissão para aceder à Web.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>O site pode estar temporariamente indisponível ou demasiado ocupado. Tente novamente dentro de alguns momentos.</li> <li>Se não conseguir carregar quaisquer páginas, verifique a ligação do seu computador à rede.</li> <li>Se o seu computador ou rede estiverem protegidos por uma firewall ou proxy, certifique-se de que o &brandShortName; tem permissão para aceder à Web.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Bloqueada pela Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>O &brandShortName; impediu o carregamento desta página desta forma porque a página tem uma política de segurança de conteúdo que não o permite.</p>">

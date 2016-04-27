@@ -6,10 +6,11 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Abrir uma janela privada">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
-
+<!ENTITY privateBrowsing.title                           "Navegação privada">
+<!ENTITY privateBrowsing.title.tracking                  "Navegação privada com proteção contra monitorização">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Quando navega numa janela privada, o Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "não guarda">
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "páginas visitadas">
 <!ENTITY aboutPrivateBrowsing.info.searches              "pesquisas">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
@@ -19,12 +20,12 @@
 
 <!ENTITY aboutPrivateBrowsing.info.downloads             "descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "marcadores">
-
+<!ENTITY aboutPrivateBrowsing.note.before                "Navegação privada ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "não o torna anónimo">
 <!ENTITY aboutPrivateBrowsing.note.after                 " na Internet. O seu empregador ou operadora de serviço de Internet podem ainda saber que páginas visita.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Saiba mais acerca">
-
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Navegação privada">
 
 <!ENTITY trackingProtection.title                        "Proteção contra monitorização">
 <!ENTITY trackingProtection.description2                 "Alguns websites utilizam rastreadores que podem monitorizar a sua atividade ao longo da Internet. Com a proteção contra monitorização, o Firefox irá bloquear muitos rastreadores que podem coletar informação acerca do seu comportamento de navegação.">
-
+<!ENTITY trackingProtection.startTour1                   "Ver como funciona">
