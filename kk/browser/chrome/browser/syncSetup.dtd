@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; баптау">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "Сәлеметсіз бе! Егер сіз осыған дейін &syncBrand.fullName.label; қолданбаған болсаңыз, сізге жаңа тіркелгіні жасау керек.">
 <!ENTITY button.createNewAccount.label "Жаңа тіркелгіні жасау">
 <!ENTITY button.haveAccount.label      "Менде тіркелгі бар">
 
 <!ENTITY setup.choicePage.title.label     "Осыған дейін &syncBrand.fullName.label; қолданғансыз ба?">
-<!ENTITY setup.choicePage.new.label       "Мен бұрын &syncBrand.shortName.label; қолданған жоқпын">
-<!ENTITY setup.choicePage.existing2.label "Мен қазір &syncBrand.shortName.label; басқа құрылғыда қолданып отырмын">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Сервер">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "Құрылғыны жұптау">
 <!ENTITY addDevice.showMeHow.label          "Қазір көрсету.">
-<!ENTITY addDevice.dontHaveDevice.label     "Менде өзіммен бірге құрылғылар жоқ">
+
 <!ENTITY pairDevice.setup.description.label  "Белсендіру үшін, құрылғынызда &quot;Құрылғыны жұптау&quot; таңдаңыз.">
 <!ENTITY addDevice.setup.enterCode.label    "Одан кейін бұл кодты енгізіңіз:">
 <!ENTITY pairDevice.dialog.description.label "Жаңа құрылғыны белсендіру үшін, құрылғыда &quot;Sync баптау&quot; таңдаңыз.">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "Қосымшалар">
 <!ENTITY engine.addons.accesskey    "о">
 
-<!ENTITY choice2a.merge.main.label       "Бұл құрылғы ақпаратын менің &syncBrand.shortName.label; ақпаратымен біріктіру">
 <!ENTITY choice2.merge.recommended.label "Ұсынылатын:">
 <!ENTITY choice2a.client.main.label      "Бұл құрылғыдағы ақпаратты менің &syncBrand.shortName.label; ақпаратымен алмастыру">
-<!ENTITY choice2a.server.main.label      "Барлық басқа құрылғыларды бұл құрылғы ақпаратымен алмастыру">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Растау">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; қазір бұл құрылғының браузер ақпаратын сіздің Синхрондау тіркелгісімен біріктіреді.">
+
 <!ENTITY confirm.client3.label         "Ескерту: Бұл құрылғыдағы &brandShortName; келесі ақпараты өшіріледі:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; одан кейін сіздің &syncBrand.fullName.label; ақпаратыңызды бұл құрылғына көшіреді.">
 <!ENTITY confirm.server2.label         "Ескерту: Келесі құрылғылар сіздің жергілікті ақпаратыңызбен алмастырылады:">

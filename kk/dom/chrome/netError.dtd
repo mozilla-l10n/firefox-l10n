@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Файл табылмады">
 <!ENTITY fileNotFound.longDesc "<ul><li>Ол нәрсенің аты ауысқан, ол өшірілген не орны ауысқан болуы мүмкін бе?</li><li>Адрес ішінде айтылу не жазылу қателері не басқа қателер жоқ па?</li><li>Сұранған нәрсеге сізде керек рұқсаттар бар ма?</li></ul>">
 
+
+
 <!ENTITY generic.title "Сұранымды аяқтау мүмкін емес">
 <!ENTITY generic.longDesc "<p>Бұл қате жөнінде қосымша ақпарат қазір қолжетерсіз.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "Қашықтағы XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Бұл мәселе жөнінде веб сайт иесімен хабарласыңыз.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

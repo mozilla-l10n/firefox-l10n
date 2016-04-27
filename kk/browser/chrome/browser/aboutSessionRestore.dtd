@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "Терезе &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "Кеттік!">
 <!ENTITY welcomeback2.restoreButton.access "е">
 
 <!ENTITY welcomeback2.tabtitle      "Сәтті!">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Сіздің кеңейтулер және баптаулар өшірілді және браузер баптаулары бастапқы мәндерге тасталды. Бұл мәселеңізді шешпесе, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "өзіңіз не жасай алатыныңыз туралы көбірек біліңіз.">
@@ -52,9 +45,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "Басқа беттер топтарын жылжыту">
-<!ENTITY tabgroupsmigration.pagetitle2          "Біз беттер топтарын өшірдік, бірақ, беттеріңізді сақтап қойдық">
+
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Беттер топтарын алмастыра алатын қосымшалар жөнінде біліңіз.">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; барлығын бетбелгілерге қосты, сондықтан, ешнәрсе жоғалмайды.">
+
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Бетбелгілердегі беттер топтарын көрсету">
 <!ENTITY tabgroupsmigration.restoredescription  "Сіз қазір кейбір немесе барлық фон топтарын терезелерге қалпына келтіруді таңдай аласыз:">
 

@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Басқа">
 <!ENTITY runtimePanel_installsimulator "Симуляторды орнату">
 <!ENTITY runtimePanel_noadbhelper "ADB көмекшісін орнату">
-<!ENTITY runtimePanel_nousbdevice "Құрылғыңыз көрінбей ме?">
+
 <!ENTITY runtimePanel_refreshDevices_label "Құрылғыларды жаңарту">
 <!-- Lense -->
 

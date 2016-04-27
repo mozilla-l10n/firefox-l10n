@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Жаңалықтар таспаларына жазылу…">
 <!ENTITY addCurPagesCmd.label "Барлық беттерді бетбелгілерге қосу…">
 <!ENTITY showAllBookmarks2.label "Барлық бетбелгілерді көрсету">
-<!ENTITY unsortedBookmarksCmd.label "Сұрыпталмаған бетбелгілер">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Көбірек бетбелгілерді көрсету">
 
 <!ENTITY backCmd.label                "Артқа">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "app-offline қойма хабарламасын қарау">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Логин ақпаратыңызды басқару">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Пароліңізді сақтағыңыз келетінінді тексеру">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Қолданбаның орнатылу хабарламасын қарау">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Бұл парақта плагиндер қолданылуын басқару">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Сайттан хабарламаларды ала аласыз ба, соны өзгертіңіз">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Бетбелгілер">
-<!ENTITY bookmarksMenuButton.unsorted.label "Сұрыпталмаған бетбелгілер">
+
 <!ENTITY viewBookmarksSidebar2.label        "Бүйір панелін қарау">
 <!ENTITY viewBookmarksToolbar.label         "Бетбелгілер панелін қарау">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Веб өндіруші">
 <!ENTITY webDeveloperMenu.accesskey   "В">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Қызметтік жұмыс үрдістері">
-<!ENTITY devtoolsServiceWorkers.accesskey  "д">
-
-<!ENTITY devtoolsConnect.label        "Байланысу…">
-<!ENTITY devtoolsConnect.accesskey    "й">
-
-<!ENTITY errorConsoleCmd.label        "Қателер консолі">
-<!ENTITY errorConsoleCmd.accesskey    "к">
-
-<!ENTITY remoteWebConsoleCmd.label    "Қашықтағы веб консолі">
-
-<!ENTITY browserConsoleCmd.label      "Браузер консолі">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "Б">
-
 <!ENTITY inspectContextMenu.label     "Элементті бақылау">
 <!ENTITY inspectContextMenu.accesskey "Э">
-
-<!ENTITY responsiveDesignTool.label   "Адаптивті дизайн">
-<!ENTITY responsiveDesignTool.accesskey "А">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Пипетка">
-<!ENTITY eyedropper.accesskey "П">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Қарапайым JavaScript түзетушісі">
-<!ENTITY scratchpad.accesskey         "й">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Браузер құралдары">
-<!ENTITY browserToolboxMenu.accesskey "е">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Браузер құрамасының саймандар панелі">
-<!ENTITY browserContentToolboxMenu.accesskey "й">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Өндеуші саймандар панелін жабу">
-<!ENTITY devToolbarMenu.label              "Өндеушінің саймандар панелі">
-<!ENTITY devToolbarMenu.accesskey          "п">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Саймандарды көрсету/жасыру">
-<!ENTITY devToolboxMenuItem.accesskey      "с">
-<!ENTITY devToolboxMenuItem.keytext        "н">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Өндеуші саймандарын көрсету/жасыру">
-<!ENTITY devToolbarOtherToolsButton.label  "Көбірек саймандар">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Көбірек саймандарды алу">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "а">
 
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Қиып алу">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ы"> 
-<!ENTITY copyCmd.label            "Көшіру">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "ш"> 
+
 <!ENTITY pasteCmd.label           "Кірістіру">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "р"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Көмек мәзірін ашу">
 
 <!ENTITY appMenuRemoteTabs.label "Синхрондалған беттер">
-<!ENTITY appMenuRemoteTabs.fetching.label "Синхрондалған беттерді алу…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ашық беттер жоқ">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Firefox-қа басқа құрылғыларда кіріңіз, одан кейін олардың беттерін осында көре аласыз.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Синхрондау баптаулары">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін кіріңіз.">
 <!ENTITY appMenuRemoteTabs.signin.label "Синхрондау ішіне кіру">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Бұл веб сайтқа байланысыңыз шынымен жеке емес. Басқа адамдар сіздің жіберетін ақпаратыңызды көре алады (парольдер, хабарламалар, кредит карталар, т.б.).">
 <!ENTITY identity.description.insecureLoginForms "Бұл парақта енгізілген логин ақпараты қауіпсіз емес, және оған бөтен адамдардың қолы жетуі мүмкін.">
 <!ENTITY identity.description.weakCipher "Бұл веб сайтқа байланысыңыз әлсіз шифрлеуді қолданады және шын жеке емес.">
-<!ENTITY identity.description.weakCipher2 "Басқа адамдар сіздің ақпаратыңызды көре алады немесе веб сайттың мінез-құлығын өзгерте алады.">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; бұл парақтың кейбір қауіпсіз емес бөліктерін блоктаған.">
 <!ENTITY identity.description.passiveLoaded "Бұл веб сайтқа байланысыңыз шынымен жеке емес және басқа адамдар сіз осы сайтпен бөліскен ақпаратты көре алады.">
 <!ENTITY identity.description.passiveLoaded2 "Бұл веб сайттың кейбір құрамасы қауіпсіз емес (суреттер сияқты).">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Синхрондалған беттер">
 
 <!ENTITY syncedTabs.sidebar.label              "Синхрондалған беттер">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Синхрондалған беттерді алу…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Firefox-қа басқа құрылғыларда кіріңіз, одан кейін олардың беттерін осында көре аласыз.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін кіріңіз.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ашық беттер жоқ">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; баптауларын ашу">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Басқа құрылғыларыңыздан беттер тізімдерін көру үшін беттерді синхрондауды іске қосыңыз.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Бұл бетті ашу">
-<!ENTITY syncedTabs.context.openTab.accesskey               "а">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Бұл бетті бетбелгілерге қосу…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "с">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Бұл бетті бетбелгілерге қосу…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "с">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Синхрондау">
