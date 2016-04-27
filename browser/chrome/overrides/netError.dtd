@@ -19,23 +19,23 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Zerbitzaria ez da aurkitu">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Helbidea ondo begiratu mota honetako erroreak ekiditeko: <strong>ww</strong>.adibidea.net <strong>www</strong>.adibidea.net-en ordez</li> <li>Ezin baduzu inolako orririk kargatu, begiratu zure ordenagailuaren sareko konexioa.</li> <li>Zure ordenagailua edo sarea firewall edo proxy baten bitartez babestuta badago, ziurtatu &brandShortName;(e)k weba nabigatzeko baimenik daukan.</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "Fitxategia ez da aurkitu">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Egiaztatu fitxategi-izenaren kapitalizazioa edo bestelako idazketa-erroreak.</li> <li>Egiaztatu ea fitxategia lekuz aldatu, berrizendatu edo ezabatu egin duten.</li> </ul>">
 
 
-<!ENTITY generic.title "Iepa.">
-<!ENTITY generic.longDesc "<p>&brandShortName;(e)k ezin du orria kargatu.</p>">
 
-<!ENTITY malformedURI.title "Helbidea ez da baliozkoa">
-<!ENTITY malformedURI.longDesc "<ul> <li>Web helbideak normalean <strong>http://www.adibidez.net/</strong> formatukoak dira</li> <li>Ziurtatu aurrerako barrak erabiltzen dituzula (<strong>/</strong>).</li> </ul>">
+<!ENTITY generic.title "Iepa.">
+
+
+
 
 <!ENTITY netInterrupt.title "Konexioa eten egin da">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokumentua iraungita">
-<!ENTITY notCached.longDesc "<p>Eskatutako dokumentua ez dago &brandShortName;(r)en cache memorian.</p><ul><li>Segurtasun-neurri gisa, &brandShortName;(e)k ez ditu berriro automatikoki eskatzen informazio pertsonala izan dezaketen dokumentuak.</li><li>Egin klik 'Saiatu berriro' botoian webguneko dokumentua berriro eskatzeko.</li></ul>">
+
 
 <!ENTITY netOffline.title "Lineaz kanpo">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Sakatu &quot;Saiatu berriro&quot; linean jarri eta orria berritzeko.</li> </ul>">
@@ -52,7 +52,6 @@
 <!ENTITY netTimeout.title "Konexioaren denbora-muga gainditu da">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Ez da helbidea ulertu">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Agian bestelako softwarea instalatu behar duzu helbide hau irekitzeko.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy-zerbitzaria konexioak ukatzen ari da">
@@ -61,19 +60,17 @@
 <!ENTITY proxyResolveFailure.title "Proxy-zerbitzaria ezin da aurkitu">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Egiaztatu proxyaren konexioaren ezarpenak.</li> <li>Egiaztatu zure ordenagailuak sareko konexioa duela.</li> <li> Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Orriak ez du birbidalketa ondo egiten">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Arazo hau baliteke cookieak desgaituta eduki edo ez onartzeagatik izatea.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Zerbitzariaren erantzuna ez zen espero">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Egiaztatu zure sistemak Personal Security Manager delakoa instalatuta duela.</li> <li>Baliteke zerbitzariaren konfigurazio ez-estandar batengatik izatea.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Konexio seguruak huts egin du">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Ikusten saiatzen ari zaren orria ezin da erakutsi jasotako datuen egiazkotasuna ezin delako egiaztatu.</li> <li>Mesedez jarri harremanetan webgunearen jabeekin arazoaren berri emateko.</li> </ul>">
 
-<!ENTITY nssBadCert.title "Konexio seguruak huts egin du">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Hau zerbitzariaren konfigurazio-errore batengatik izan daiteke, edo norbait zerbitzariaren nortasuna hartzen ari dela.</li> <li>Aurretik zerbitzari honetara behar bezala konektatu bazara, errorea behin-behinekoa izan daiteke eta geroago saia zaitezke.</li> </ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
-<!ENTITY sharedLongDesc "<ul> <li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriro minutu batzuen buruan.</li> <li>Beste inolako orririk ezin baduzu kargatu, egiaztatu ordenagailuaren sareko konexioa.</li> <li>Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du edukien segurtasun-politikak baimentzen ez duelako.</p>">
@@ -82,16 +79,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi errore bat detektatu delako datu-transmisioan.</p><ul><li>Jar zaitez harremanetan webgunearen jabeekin arazo honen berri emateko.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Edo salbuespen bat gehi dezakezu…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Eraman nazazu hemendik at!">
 <!ENTITY securityOverride.exceptionButtonLabel "Gehitu salbuespena…">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-
-<!ENTITY securityOverride.warningContent "<p>Ez zenuke salbuespenik gehitu behar erabat fidatzekoa ez den Internet konexio bat erabiltzen ari bazara edo ez bazaude ohituta zerbitzari honetarako abisuak ikustera.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "Eman honen gisako erroreen berri Mozillari asmo txarreko guneak identifikatzen eta blokeatzen laguntzeko">
 <!ENTITY errorReporting.learnMore "Argibide gehiago…">
@@ -104,10 +92,15 @@ functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informazio aurreratua: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Zure konexioa ez da segurua">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Informazio aurreratua: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Aurreratua">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ostalariak zaharkituta dagoen eta erasoen aurrean babesik ez duen segurtasun-teknologia erabiltzen du. Segurua zela uste zenuen informazioa erraz agerraraz lezake erasotzaile batek.">
 <!ENTITY weakCryptoAdvanced.override "(Ez segurua) Saiatu <span class='hostname'></span> kargatzen segurtasun zaharkitua erabiliz">
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

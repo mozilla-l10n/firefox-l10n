@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Fitxategia ez da aurkitu">
 <!ENTITY fileNotFound.longDesc "<ul><li>Elementuaren izena aldatua, elementua bera ezabatuta edo lekuz aldatua egon daiteke?</li><li>Helbidea oker idatzi duzu?</li><li>Baduzu eskatutako elementua jasotzeko baimenik?</li></ul>">
 
+
+
 <!ENTITY generic.title "Ezin da eskaera osatu">
 <!ENTITY generic.longDesc "<p>Momentu honetan ez dago arazo edo errore honen inguruko argibide gehiago.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "Urruneko XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Jarri harremanetan webgunearen jabeekin arazo honen berri emateko.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

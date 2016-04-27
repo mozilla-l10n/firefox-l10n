@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "Kutxa-modeloa">
-<!ENTITY margin.tooltip         "marjina">
-<!ENTITY border.tooltip         "ertza">
-<!ENTITY padding.tooltip        "betegarria">
-<!ENTITY content.tooltip        "edukia">
+<!ENTITY layoutViewTitle          "Kutxa-modeloa">
+<!ENTITY margin.tooltip           "marjina">
+<!ENTITY border.tooltip           "ertza">
+<!ENTITY padding.tooltip          "betegarria">
+<!ENTITY content.tooltip          "edukia">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->

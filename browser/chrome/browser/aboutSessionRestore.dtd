@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "&#037;S leihoa">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "Aurrera!">
 <!ENTITY welcomeback2.restoreButton.access "A">
 
 <!ENTITY welcomeback2.tabtitle      "Ongi!">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Zure gehigarriak eta pertsonalizazioak kendu egin dira eta nabigatzailearen ezarpenak lehenespenetara leheneratu dira. Honek ez badu zure arazoa konpondu, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "irakurri argibide gehiago egin dezakezunaren inguruan.">
@@ -52,9 +45,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "Migratu zure beste fitxen multzoak">
-<!ENTITY tabgroupsmigration.pagetitle2          "Fitxen multzoak kendu ditugu baina zure fitxak gorde ditugu">
+
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Fitxen multzoak ordezkatzeko gehigarriei buruzko argibide gehiago.">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName;(e)k zure talde guztien laster-markak egin ditu eta ez duzu informaziorik galdu.">
+
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Erakutsi laster-marketan gehitutako fitxen multzoak">
 <!ENTITY tabgroupsmigration.restoredescription  "Atzeko planoko talde batzuk edo guztiak leihoetan orain berreskuratzea ere aukera dezakezu:">
 

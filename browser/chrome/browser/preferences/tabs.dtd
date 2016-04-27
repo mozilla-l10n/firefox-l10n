@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Abisatu hainbat fitxa irekitzean honek &brandShortName; moteldu balezake">
 <!ENTITY warnOpenManyTabs.accesskey   "A">
 
-<!ENTITY restoreTabsOnDemand.label        "Ez kargatu fitxak hautatzen diren arte">
-<!ENTITY restoreTabsOnDemand.accesskey    "k">
-
 <!ENTITY switchToNewTabs.label        "Aldatu fitxa berrira lotura bat fitxa berrian irekitzean">
 <!ENTITY switchToNewTabs.accesskey    "A">
 
