@@ -63,7 +63,6 @@
 <!ENTITY rights.safebrowsing-b "a desativação do Safe Browsing não é recomendada pois pode resultar no uso de sites inseguros. Caso deseje desativar totalmente este recurso, siga estes passos:">
 <!ENTITY rights.safebrowsing-term1 "Abra as preferências do aplicativo">
 <!ENTITY rights.safebrowsing-term2 "Selecione o painel Segurança">
-<!ENTITY rights.safebrowsing-term3 "Desmarque as opções “&blockAttackSites.label;” e “&blockWebForgeries.label;”">
 <!ENTITY rights.safebrowsing-term4 "O Safe Browsing agora está desativado">
 
 <!-- location aware browsing points for branded builds -->
