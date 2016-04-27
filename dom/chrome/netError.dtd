@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
 <!ENTITY fileNotFound.longDesc "<ul><li>Dosya taşınmış, silinmiş ya da adı değiştirilmiş olabilir.</li><li>Adreste yazım hatası yapılmış olabilir.</li><li>İstenen öğeye erişmek için gerekli izniniz olmayabilir.</li></ul>">
 
+
+
 <!ENTITY generic.title "İstek yerine getirilemiyor">
 <!ENTITY generic.longDesc "<p>Bu hata ve sorun hakkında detaylı bilgiler mevcut değil</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "Uzak XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

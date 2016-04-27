@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "Bir animasyon karesinin çağrı yığınını kaydetmek için">
-<!ENTITY canvasDebuggerUI.emptyNotice2    "düğmesine tıklayın.">
+
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 
