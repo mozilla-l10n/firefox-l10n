@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "مسل نہیں ملی">
 <!ENTITY fileNotFound.longDesc "<ul><li>کیا شے کو نیا نام دیا گیا، ہٹایا، یا نیا محل وقوع دیا گیا ہو سکتا ہے؟</li><li>کیا پتے میں کوئی ہجے، بڑے حروف کاری یا دیگر ٹائپوگرافی نقص ہے؟</li><li>کیا آپ کے پاس فرمائش کی گئی شے کے لیے رسائی کی پوری اجازتیں ہیں؟</li></ul>">
 
+
+
 <!ENTITY generic.title "فرمایش مکمل نہیں کر سکتا">
 <!ENTITY generic.longDesc "<p>اس مسئلے کے متعلق اضافی معلومات فی الحال عدم دستیاب ہیں۔</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "بعید XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ویب سائٹ کے مالکین کو اس مسلے کا بتانے کے لیے ان سے رابطہ کریں۔</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

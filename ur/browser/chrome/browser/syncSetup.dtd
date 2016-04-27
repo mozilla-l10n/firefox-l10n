@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; سیٹ اپ">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "خوش آمدید! اگر آپ نے پہلے کبھی &syncBrand.fullName.label; نہیں استعمال کیا تو آپ کو نیا اکاؤنٹ بنانے کی ضرورت پڑے گی۔">
 <!ENTITY button.createNewAccount.label "نیا اکاؤنٹ بنائیں">
 <!ENTITY button.haveAccount.label      "میرے پاس اکاؤنٹ ہے">
 
 <!ENTITY setup.choicePage.title.label     "آپ نے پہلے &syncBrand.fullName.label; استعمال کیا ہے؟">
-<!ENTITY setup.choicePage.new.label       "میں نے پہلے کبھی &syncBrand.shortName.label; نہیں استعمال کیا">
-<!ENTITY setup.choicePage.existing2.label "میں پہلے سے ہی &syncBrand.shortName.label; ایک اور کمپیوٹر پر استعمال کر رہی/رہا ہوں">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "پیش کار">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "آلے کا جوڑا بنائیں">
 <!ENTITY addDevice.showMeHow.label          "مجھے دکھائیں کیسے۔">
-<!ENTITY addDevice.dontHaveDevice.label     "میرے پاس اس وقت آلہ نہیں ہے">
+
 <!ENTITY pairDevice.setup.description.label  "عمل میں لانے کے لیے، اپنے دوسرے آلے پر &quot;Pair a Device&quot; منتخب کریں۔">
 <!ENTITY addDevice.setup.enterCode.label    "پھر، یہ کوڈ داخل کریں:">
 <!ENTITY pairDevice.dialog.description.label "اپنا نیا آلہ عمل میں لانے کے لیے، آلے پر &quot;Set Up Sync&quot; منتخب کریں۔">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "ایڈ اون">
 <!ENTITY engine.addons.accesskey    "ا">
 
-<!ENTITY choice2a.merge.main.label       "اس کمپیوٹر کے کوائف میرے &syncBrand.shortName.label; کوائف کے ساتھ ضم کریں">
 <!ENTITY choice2.merge.recommended.label "تجویز کردہ:">
 <!ENTITY choice2a.client.main.label      "اس کمپیوٹر کے تمام کوائف میرے &syncBrand.shortName.label; کوائف کے ساتھ بدل دیں">
-<!ENTITY choice2a.server.main.label      "تمام دیگر آلات کو اس کمپیوٹر کے کوائف کے ساتھ تبدیل کر دیں">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "تصدیق کریں">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; اب اس کمپیوٹر کے تمام براؤزر کوائف آپ کے Sync اکاؤنٹ میں ضم کر دے گا۔">
+
 <!ENTITY confirm.client3.label         "تنبیہ: اس کمپیوٹر  پر مندرجہ ذیل &brandShortName; کوائف حذف کر دیے جائیں گے:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; پھر آپ کے &syncBrand.fullName.label; کوائف اس کمپیوٹر پر نقل کر دے گا۔">
 <!ENTITY confirm.server2.label         "تنبیہ: مندرجہ ذیل آلات آپ کے مقامی کوائف سے بالا نویس ہو جائیں گے:">

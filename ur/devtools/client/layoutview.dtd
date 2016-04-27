@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "بوکس موڈل">
-<!ENTITY margin.tooltip         "حاشیہ">
+<!ENTITY layoutViewTitle          "بوکس موڈل">
+<!ENTITY margin.tooltip           "حاشیہ">
 
-<!ENTITY padding.tooltip        "بھرتی">
-<!ENTITY content.tooltip        "مواد">
+<!ENTITY padding.tooltip          "بھرتی">
+<!ENTITY content.tooltip          "مواد">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->

@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "اس صفحہ کے ساتھ رکنیت سازی کریں…">
 <!ENTITY addCurPagesCmd.label "تمام ٹیب نشان زد کریں…">
 <!ENTITY showAllBookmarks2.label "تمام نشانیاں دکھائیں">
-<!ENTITY unsortedBookmarksCmd.label "غیر چھانٹی شدہ نشانیاں">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "اور نشانیاں دکھائیں">
 
 <!ENTITY backCmd.label                "واپس">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "ایپ آف لائن ذخیرہ پیغام کانظارہ کریں">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "اپنی لاگان معلومات کو بندوبست کریں">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "پڑتال کریں اگر آپ آپنا پاس ورڈ محفوظ کرنا چاہتے ہو">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "ایپ تنسیب کرنے کہ پییغام کا نظارہ کریں">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "اس صفحہ پر پلگ ان کہ استعمال کو بندوبست کریں">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "تبدیل کریں کے آپ اس سائٹ سے اطلاع وصول کرنا چاہتے ہے یا نہیں">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "نشانیاں">
-<!ENTITY bookmarksMenuButton.unsorted.label "غیر چھانٹی شدہ نشانیاں">
+
 <!ENTITY viewBookmarksSidebar2.label        "بغلی بار میں نشانیاں دیکھیں">
 <!ENTITY viewBookmarksToolbar.label         "نشانیاں ٹول بار دیکھیں">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,78 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ویب تکمیل کار">
 <!ENTITY webDeveloperMenu.accesskey   "و">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-
-
-<!ENTITY devtoolsConnect.label        "جڑیں…">
-<!ENTITY devtoolsConnect.accesskey    "ج">
-
-<!ENTITY errorConsoleCmd.label        "نقص کنسول">
-<!ENTITY errorConsoleCmd.accesskey    "ک">
-
-<!ENTITY remoteWebConsoleCmd.label    "بعید ویب کنسول">
-
-<!ENTITY browserConsoleCmd.label      "براؤزر کنسول">
-<!ENTITY browserConsoleCmd.commandkey "ک">
-<!ENTITY browserConsoleCmd.accesskey  "ب">
-
 <!ENTITY inspectContextMenu.label     "عناصر چیک کریں">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "رسپانسو ڈیزائن نظارہ">
-<!ENTITY responsiveDesignTool.accesskey "ر">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "آئی ڈراپر">
-<!ENTITY eyedropper.accesskey "ڈ">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "سکریچ پیڈ">
-<!ENTITY scratchpad.accesskey         "س">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "براوزر ٹول خانہ">
-<!ENTITY browserToolboxMenu.accesskey "ر">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "براؤزر مواد ٹول باکس">
-<!ENTITY browserContentToolboxMenu.accesskey "ب">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "تخلیق کار ٹول بار بند کریں">
-<!ENTITY devToolbarMenu.label              "ڈیولپر ٹول بار">
-<!ENTITY devToolbarMenu.accesskey          "ڈ">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "ٹوگل ٹول">
-<!ENTITY devToolboxMenuItem.accesskey      "ٹ">
-<!ENTITY devToolboxMenuItem.keytext        "ا">
-
-<!ENTITY devToolbarToolsButton.tooltip     "ڈیولپر ٹول ٹوگل کریں">
-<!ENTITY devToolbarOtherToolsButton.label  "مزید ٹول">
-
-<!ENTITY getMoreDevtoolsCmd.label        "لائیں&amp; مزید ٹولس">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "مسل"> 
 <!ENTITY fileMenu.accesskey       "م">
@@ -357,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "کاٹیں">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ک"> 
-<!ENTITY copyCmd.label            "نقل کریں">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "ن"> 
+
 <!ENTITY pasteCmd.label           "چسپاں کریں">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "چ"> 
@@ -409,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "مدد مینیو کھولیں">
 
 <!ENTITY appMenuRemoteTabs.label "ہمہ وقت ساز ٹیب">
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "کوئی کھولیں ٹیب نہیں">
@@ -419,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "یہاں انکے ٹیبیں دیکھنیں کے لئے اپنے دیگر آلات سے Firefox میں سائن ان کرے۔">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "ہمہ وقت ساز ترجیحات">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ٹیبیں کی فہرست دیکھنے کے لئے اپنے دیگر آلات سے سائن ان کریں۔">
 <!ENTITY appMenuRemoteTabs.signin.label "ہم سازی کے لئے سائن ان کریں">
@@ -765,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "اس سائٹ سے آپ کی کنکشن رازدار نہیں ہے۔ جو معلومات آپ بھیجتے ہیں (جیسے کے پاس ورڈ، پیغامات، کریڈٹ کارڈ وغیرہ) اسے اور لوگ دیکھ سکیں گے۔">
 <!ENTITY identity.description.insecureLoginForms "جو لاگ ان معلومات آپ اس صفحے پر داخل کرتے ہیں وہ محفوظ نہیں ہے اور اشتباہ ہو سکتی ہے۔">
 <!ENTITY identity.description.weakCipher "اس ویب سائٹ پر آپ کے کنکشن کمزور خفیہ کندھ استعمال کرتا ہے اور نجی نہیں ہے۔">
-<!ENTITY identity.description.weakCipher2 "دیگر لوگ آپ کی معلومات دیکھ سکتے ہیں یا ویب سائٹ کا رویہ بدل سکتے ہیں۔">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName;  نے اس صفحے کے وہ حصے بلاک کر دیے ہیں جو قابل بھروسا نہیں ہیں۔">
 <!ENTITY identity.description.passiveLoaded "آپ کی کنکشن رازدار نہیں ہے اور وہ معلومات جو آپ سائٹ سے شیئر کریں گے دیگر لوگ دیکھ سکیں گے۔">
 <!ENTITY identity.description.passiveLoaded2 "اس ویب سائٹ میں مواد شامل ہے جو کہ قابل بھروسا نہیں ہے (جیسے کے نقوش)۔">
@@ -795,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "ہمہ وقت ساز ٹیب">
 
 <!ENTITY syncedTabs.sidebar.label              "ہمہ وقت ساز ٹیب">
-<!ENTITY syncedTabs.sidebar.fetching.label     "ہم وقت ساز ٹیب بازیافت کریں…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "یہاں انکے ٹیبیں دیکھنیں کے لئے اپنے دیگر آلات سے Firefox میں سائن ان کرے۔">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ٹیبیں کی فہرست دیکھنیں کے لئے اپنے دیگر آلات سے سائن ان کریں۔">
 <!ENTITY syncedTabs.sidebar.notabs.label       "کوئی کھلے ٹیب نہیں">
 
@@ -804,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "اپنے دیگر آلات پر ٹیب کی فہرست دیکھنے کے لئے ٹیب ہم سازی آن کر دیں۔">
 
-<!ENTITY syncedTabs.context.openTab.label                   "یہ ٹیب کھولیں">
-<!ENTITY syncedTabs.context.openTab.accesskey               "ک">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "یہ صفحہ نشان زد کریں...">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "ن">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "یہ صفحہ نشان زد کریں...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ن">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "ہمہ وار کریں">

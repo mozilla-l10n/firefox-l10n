@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "محفوظ براؤزنگ فیچر نا اہل کرنا تجویز کردہ نہیں ہے کیونکہ اس کے نتیجے میں آپ غیر محفوظ سائٹوں پر پہنچ سکتے ہیں۔  اگر آپ اس فیچر کو پوری طرح سے نااہل کرنا چاہتے ہیں، تو یہ مرحلہ پورے کیجیے:">
 <!ENTITY rights.safebrowsing-term1 "ایپلی کیشن کی ترجیحات کھولیں">
 <!ENTITY rights.safebrowsing-term2 "سلامتی انتخاب منتخب کریں">
-<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; اور &quot;&blockWebForgeries.label;&quot; کے اختیارات کت نشان ہٹائیں">
+
 <!ENTITY rights.safebrowsing-term4 "محفوظ براؤزنگ اب نا اہل ہے">
 <!-- location aware browsing points for branded builds -->
 
