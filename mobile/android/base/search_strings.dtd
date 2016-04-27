@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "Бұл құрылғыдан барлық іздеу тарихын өшіру керек пе?">
 <!ENTITY pref_clearHistory_title "Іздеу тарихын тазарту">
 
-<!ENTITY pref_searchProvider_title "Іздеу қызметі">
-
 <!ENTITY search_widget_button_label "Іздеу">
 
 <!ENTITY network_error_title "Интернетпен байланыс жоқ">
