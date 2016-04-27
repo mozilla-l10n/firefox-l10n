@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "ബോസ്ക് മോഡല്‍">
-<!ENTITY margin.tooltip         "അരിക്">
-<!ENTITY border.tooltip         "അതിര്">
-<!ENTITY padding.tooltip        "പാഡ്ഡിങ്">
-<!ENTITY content.tooltip        "ഉള്ളടക്കം">
+<!ENTITY layoutViewTitle          "ബോസ്ക് മോഡല്‍">
+<!ENTITY margin.tooltip           "അരിക്">
+<!ENTITY border.tooltip           "അതിര്">
+<!ENTITY padding.tooltip          "പാഡ്ഡിങ്">
+<!ENTITY content.tooltip          "ഉള്ളടക്കം">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
