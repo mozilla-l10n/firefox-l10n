@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "គំរូ​ប្រអប់">
-<!ENTITY margin.tooltip         "រឹម">
-<!ENTITY border.tooltip         "ស៊ុម">
-<!ENTITY padding.tooltip        "ចន្លោះ">
-<!ENTITY content.tooltip        "មាតិកា">
+<!ENTITY layoutViewTitle          "គំរូ​ប្រអប់">
+<!ENTITY margin.tooltip           "រឹម">
+<!ENTITY border.tooltip           "ស៊ុម">
+<!ENTITY padding.tooltip          "ចន្លោះ">
+<!ENTITY content.tooltip          "មាតិកា">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->

@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "បង្អួច &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "តោះ​ចាប់ផ្ដើម!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "ជោគជ័យ!">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "ផ្នែក​បន្ថែម​របស់​អ្នក និង​ការ​កំណត់​ផ្ទាល់ខ្លួន​ត្រូវ​បាន​លុប​ចេញ ហើយ​ការ​កំណត់​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​នឹង​ត្រូវ​បាន​ស្ដារ​ទៅ​លំនាំដើម។ បើ​វា​មិន​បាន​កែ​បញ្ហា​របស់​អ្នក​ទេ ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "ស្វែងយល់​បន្ថែម​អំពី​អ្វី​ដែល​អ្នក​អាច​ធ្វើ​បាន។">
@@ -52,9 +45,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "ផ្លាស់ទីបណ្តុំផ្ទាំងផ្សេងៗទៀតរបស់អ្នក">
-<!ENTITY tabgroupsmigration.pagetitle2          "យើងបានដកបណ្តុំផ្ទាំងចេញ តែបានរក្សាទុកនូវផ្ទាំងរបស់អ្នក">
+
 <!ENTITY tabgroupsmigration.learnaboutaddons    "ស្វែងយល់​អំពី​​កម្មវិធី​ផ្នែក​បន្ថែម​ការ​ជំនួស​ក្រុម​ផ្ទាំង។">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; ​បាន​ចំណាំ​ក្រុម​របស់​អ្នក​ទាំងអស់​ ដូច្នេះ​អ្នក​មិន​​បាត់បង់​អ្វី​ឡើយ។">
+
 <!ENTITY tabgroupsmigration.bookmarkbutton      "បង្ហាញ​ក្រុម​ផ្ទាំង​ចំណាំ">
 <!ENTITY tabgroupsmigration.restoredescription  "អ្នក​ក៏​អាច​ជ្រើស​ស្ដារ​ក្រុម​ផ្ទៃខាងក្រោយ​ខ្លះ ឬ​ទាំងអស់​ទៅ​ក្នុង​បង្អួច​ឥឡូវ​នេះ៖">
 

@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "រក​មិន​ឃើញ​ឯកសារ​">
 <!ENTITY fileNotFound.longDesc "<ul><li>តើ​ធាតុ​បាន​ត្រូវ​ប្ដូរ​ឈ្មោះ យក​ចេញ ឬ​ប្ដូរ​ទីតាំង​ឬ?</li><li>តើ​មាន​កំហុស​អក្ខរាវិរុទ្ធ លក្ខណៈ​អក្សរ ឬ លក្ខណៈ​ពុម្ព​អក្សរ​ផ្សេង​ទៀត​ក្នុង​អាសយដ្ឋាន?</li><li>តើ​អ្នក​មាន​សិទ្ធិ​ចូល​ដំណើរ​ការ​គ្រប់គ្រាន់​ចំពោះ​ធាតុ​ដែល​បាន​ស្នើ​ទេ?</li></ul>">
 
+
+
 <!ENTITY generic.title "មិន​អាច​បញ្ចប់​សំណើ">
 <!ENTITY generic.longDesc "<p>ព័ត៌មាន​បន្ថែម​អំពី​បញ្ហា ឬ​កំហុស​នេះ​មិនមាន​ទេ​បច្ចុប្បន្ន ។</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "XUL ពី​ចម្ងាយ">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>សូម​ទាក់ទង​ម្ចាស់​តំបន់បណ្ដាញ​ ដើម្បី​ប្រាប់​ពួក​គេ​ឲ្យ​ដឹង​អំពី​បញ្ហា​នេះ ។</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
