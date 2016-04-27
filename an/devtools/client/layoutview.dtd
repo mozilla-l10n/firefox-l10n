@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "Modelo de caixa">
-<!ENTITY margin.tooltip         "marguin">
-<!ENTITY border.tooltip         "canto">
-<!ENTITY padding.tooltip        "espaciau">
-<!ENTITY content.tooltip        "conteniu">
+<!ENTITY layoutViewTitle          "Modelo de caixa">
+<!ENTITY margin.tooltip           "marguin">
+<!ENTITY border.tooltip           "canto">
+<!ENTITY padding.tooltip          "espaciau">
+<!ENTITY content.tooltip          "conteniu">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->

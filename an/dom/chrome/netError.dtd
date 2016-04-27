@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "No s'ha trpbau o fichero">
 <!ENTITY fileNotFound.longDesc "<ul><li>Ye posible que l'elemento s'haiga renombrau, eliminau u cambiau de ruta?</li><li>I hai bella error d'ortografía, mayusclas u qualsiquier atra error en escribir l'adreza?</li><li>Tiene pros privilechios d'acceso ta l'elemento solicitau?</li></ul>">
 
+
+
 <!ENTITY generic.title "No s'ha puesto completar a solicitut">
 <!ENTITY generic.longDesc "<p>Actualment no i hai información adicional disponible ta iste problema u error.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacte con os propietarios d'o puesto web ta informar-les d'iste problema.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

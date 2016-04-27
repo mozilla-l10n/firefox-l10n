@@ -19,23 +19,23 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "No s'ha trobau o servidor">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Comprebe que l'adreza no tiene errors d'escritura como <strong>ww</strong>.eixemplo.com en cuenta de <strong>www</strong>.eixemplo.com</li> <li>Si no puede cargar garra pachina, comprebe a connexión de ret d'o suyo equipo.</li> <li>Si o suyo equipo u ret son protechius por un tallafuegos u proxy, asegure-se que &brandShortName; tiene permiso ta accedir ta la web.</li> </ul>">
+
 
 <!ENTITY fileNotFound.title "No s'ha trobau o fichero">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Comprebe que o nombre de fichero no tiene errors d'escritura u de l'uso de mayusclas.</li> <li>Comprebe si o fichero s'ha tresladau, renombrau u borrau.</li> </ul>">
 
 
-<!ENTITY generic.title "Ups.">
-<!ENTITY generic.longDesc "<p>&brandShortName; no ha puesto cargar a pachina por bella razón.</p>">
 
-<!ENTITY malformedURI.title "L'adreza no ye valida">
-<!ENTITY malformedURI.longDesc "<ul> <li>As adrezas web s'escriben por un regular como <strong>http://www.eixemplo.com/</strong></li> <li>Asegure-se que ye emplegando barras inclinadas enta debant (ye decir <strong>/</strong>).</li> </ul>">
+<!ENTITY generic.title "Ups.">
+
+
+
 
 <!ENTITY netInterrupt.title "S'ha interrumpiu a connexión">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "O documento ha circumduciu">
-<!ENTITY notCached.longDesc "<p>O documento demandau ya no ye disponible en a memoria caché d'o &brandShortName;.</p><ul><li>Por precaución, o &brandShortName; no tornará a demandar automaticament documentos sensible.</li><li>Faiga clic en Tornar-lo a intentar ta solicitar o documento a o puesto web.</li></ul>">
+
 
 <!ENTITY netOffline.title "Modo sin connexión">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Faiga clic en &quot;Tornar-lo a probar&quot; ta tornar o modo en linia y esviellar a pachina.</li> </ul>">
@@ -52,7 +52,6 @@
 <!ENTITY netTimeout.title "S'ha acotolau o tiempo d'aspera d'a connexión">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "No s'ha entendiu l'adreza">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Podría estar que calese instalar unatro software ta ubrir l'adreza.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "O servidor proxy ye refusando as connexions">
@@ -61,19 +60,17 @@
 <!ENTITY proxyResolveFailure.title "No s'ha puesto trobar o servidor proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Comprebe que os parametros de configuración d'o proxy son correctos.</li> <li>Comprebe que o suyo ordinador tiene una connexión de ret operativa.</li> <li>Si o suyo ordinador u o suyo ret son protechius por un tallafuegos u proxy, asegure-se que o &brandShortName; tiene permiso ta accedir ta la web.</li> </ul>">
 
-<!ENTITY redirectLoop.title "A pachina no ye reendrezando adequadament">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Ixo podría pasar en haber desactivau u refusau l'acceptación de cookies.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Respuesta inasperada d'o servidor">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Asegure-se de que o suyo sistema tiene un chestor de seguranza personal instalau.</li> <li>Puestar se tracte de una configuración no estandar en o servidor.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Ha fallau a connexión segura">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>A pachina que ye mirando de veyer no puet amostrar-se porque no ye posible verificar l’autenticidat d'os datos recibius.</li> <li>Meta-se en contacto con o responsable d'o puesto web ta informar-le-ne.</li> </ul>">
 
-<!ENTITY nssBadCert.title "A connexión segura ha fallau">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Isto podría estar un problema con a configuración d'o servidor, u bien podría ser que belún ye mirando de fer-se pasar por o servidor.</li> <li>Si se i ha connectau sin garra problema bella atra vegada, a error podría estar temporal, y puede tornar-lo a prebar mas entabant.</li> </ul>">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
-<!ENTITY sharedLongDesc "<ul> <li>O puesto podría estar temporalment no disponible u masiau aqueferau. Torne a prebar-lo en bells momentos.</li> <li>Si no puede cargar garra pachina, comprebe a connexión de ret d'o suyo equipo.</li> <li>Si o suyo equipo u ret son protechius por un tallafuegos u proxy, asegure-se que o &brandShortName; tiene permiso ta accedir ta la web.</li> </ul>">
 
 <!ENTITY cspBlocked.title "S'ha blocau por a politica de seguranza de conteniu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha privau que a pachina se cargue d'ista traza porque tiene una politica de seguranza de conteniu que no lo permite.</p>">
@@ -82,16 +79,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>A pachina que ye mirando de veyer no se puede amostrar porque s'ha produciu una error en a transmisión d'os datos.</p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "U puede adhibir-ie una excepción…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Quita-me d'aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adhibir una excepción…">
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-
-<!ENTITY securityOverride.warningContent "<p>No habría d'adhibir una excepción si ye emplegando una connexión d'Internet que no i confía plenament u si no gosaba veyer una alvertencia en iste servidor.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.automatic2 "Informa d'errors como iste pa aduyar a Mozilla a identificar y blocar puestos dolents.">
 <!ENTITY errorReporting.learnMore "Saber-ne mas…">
@@ -104,10 +92,15 @@ functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información abanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "A connexion no ye segura">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Información abanzada: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Abanzau">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> fa servir una tecnolochía de seguridat obsoleta y vulnerable a a ataques. Un atacant podría veyer facilment la información que atrament pensarías que ye segura.">
 <!ENTITY weakCryptoAdvanced.override "(Inseguro) Mira de cargar <span class='hostname'></span> con a seguridat obsoleta">
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
