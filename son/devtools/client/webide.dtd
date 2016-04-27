@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Haya tana">
 <!ENTITY runtimePanel_installsimulator "Dendenkaw sinji">
 <!ENTITY runtimePanel_noadbhelper "ADB faabakaw sinji">
-<!ENTITY runtimePanel_nousbdevice "Ši hin ka dii war jinaa?">
+
 <!ENTITY runtimePanel_refreshDevices_label "Jinawey taagandi">
 <!-- Lense -->
 

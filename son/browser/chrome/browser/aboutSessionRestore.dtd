@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "Zanfun &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "Ir ma koy!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Zaame!">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "War tontoney nda boŋse-hanseyaney ga hin ka hun nda war ceecikaw kayandiyaney n' ka yeeri ngi tilasu alhaaley ga. Nda woo mana misoo hanse, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "caw ka tonton woo kaŋ war ga hin k'a tee ga.">
@@ -52,9 +45,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "War kanji margari taney ganandi">
-<!ENTITY tabgroupsmigration.pagetitle2          "Ir na kanji margarey kaa amma war kanjey gaabundi">
+
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Bay kanji margarey barmayyan tontoney ga.">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; na margarey kul doo-šilbay hala haya kul ma ši dere war se.">
+
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Kanji margari doo-šilbantey cebe">
 <!ENTITY tabgroupsmigration.restoredescription  "War ga hin ka soobay da ka bandafaari margari jerey wal' ikul yeeti zanfunoo ra sohõ:">
 

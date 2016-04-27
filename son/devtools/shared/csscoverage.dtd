@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "Ɲootiyan ga hin ka zumandiyan cahãndi cee fooyaŋ">
 <!ENTITY csscoverage.optimize.body2 "ga moo kore kanji nda gam-hantum taaga foo tee">
-<!ENTITY csscoverage.optimize.body3 "hayiize nda fasal boonanteyaŋ za 'zumandiyan mana koy beene. Ne ti fasal margarey kaŋ ga hima:">
+
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

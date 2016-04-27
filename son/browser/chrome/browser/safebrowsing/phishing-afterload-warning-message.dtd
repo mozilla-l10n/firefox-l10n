@@ -4,7 +4,13 @@
 
 <!ENTITY safeb.palm.accept.label "Ay kaa ne!">
 <!ENTITY safeb.palm.decline.label "Yaamaroo woo muray">
-<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
+  item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
+  shown. -->
+<!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
+  safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
+  report-phishing.dtd are never shown at the same time, the same accesskey can
+  be used for them. -->
 <!ENTITY safeb.palm.reportPage.label "Macin se moɲoo woo gagayandi?">
 <!ENTITY safeb.palm.whyForbidden.label "Macin se moɲoo woo gagayandi?">
 

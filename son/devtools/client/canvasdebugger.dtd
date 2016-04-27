@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "Naagu ne">
-<!ENTITY canvasDebuggerUI.emptyNotice2    "butoŋoo ga ka hunandiyan kunga ciyari deke jiši.">
+
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 

@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; kayandi">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "Kubayni! Nda war mana bay ka goy nda &syncBrand.fullName.label;, war ga hima ka kontu taaga tee jina.">
 <!ENTITY button.createNewAccount.label "Kontu taaga tee">
 <!ENTITY button.haveAccount.label      "Ay goo nda kontu">
 
 <!ENTITY setup.choicePage.title.label     "War bay ka goy nda &syncBrand.fullName.label; han foo?">
-<!ENTITY setup.choicePage.new.label       "Ya na bay ka goy nda &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing2.label "Ya mma goy da nda &syncBrand.shortName.label; jinay tana foo ga">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Feršikaw">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "Jinay foo margandi">
 <!ENTITY addDevice.showMeHow.label          "Takaa cebe yane.">
-<!ENTITY addDevice.dontHaveDevice.label     "Goyjinaa ši ay kone sohõda">
+
 <!ENTITY pairDevice.setup.description.label  "Ka tunandi, wa &quot;Jinay foo margandi&quot; suuba war jinay faa ga.">
 <!ENTITY addDevice.setup.enterCode.label    "Ašariyaa woo dam waati din:">
 <!ENTITY pairDevice.dialog.description.label "Ka war jinay taagaa tunandi, &quot;Hangandiyan kayandi&quot; suuba jinaa ga.">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "Tontoney">
 <!ENTITY engine.addons.accesskey    "T">
 
-<!ENTITY choice2a.merge.main.label       "Wa jinaa woo bayhayey marga nda &syncBrand.shortName.label; bayhayey">
 <!ENTITY choice2.merge.recommended.label "Yaamarante:">
 <!ENTITY choice2a.client.main.label      "Jinaa woo bayhayey kul barmay nda &syncBrand.shortName.label; bayhayey">
-<!ENTITY choice2a.server.main.label      "Jinay taney kul barmay nda jinaa woo bayhayey">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Tabatandi">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ga marga nda jinaa woo ceecikaa bayhayey k'i dam war Sync kontoo ra.">
+
 <!ENTITY confirm.client3.label         "Yaamar: &brandShortName; bayhayey wey jinaa woo ga kaa ka tuusandi:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; ga soobay ka war &syncBrand.fullName.label; bayhayey berandi jinaa woo ga.">
 <!ENTITY confirm.server2.label         "Yaamar: War nungu bayhayey ga hantumandi war jinay wala maršin jerey wey boŋ:">

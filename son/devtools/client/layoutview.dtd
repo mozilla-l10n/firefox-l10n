@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "Bata dumi">
-<!ENTITY margin.tooltip         "hirri">
-<!ENTITY border.tooltip         "ceraw">
-<!ENTITY padding.tooltip        "gamhaya">
-<!ENTITY content.tooltip        "gundekuna">
+<!ENTITY layoutViewTitle          "Bata dumi">
+<!ENTITY margin.tooltip           "hirri">
+<!ENTITY border.tooltip           "ceraw">
+<!ENTITY padding.tooltip          "gamhaya">
+<!ENTITY content.tooltip          "gundekuna">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->

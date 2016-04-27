@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Tukoo mana duwandi">
 <!ENTITY fileNotFound.longDesc "<ul><li>A ga hin ka tee kaŋ hayiizoo n'ka maa-barmandi, ganandi, berandi doo taaga ra?</li><li>Boŋhantum, harfu beerandiyan, wala hantum firka goo aderesoo ra?</li><li>War goo nda fondo wasanta hayiizoo kaŋ war n'a wiri še?</li></ul>">
 
+
+
 <!ENTITY generic.title "Ši hin ka hãayanoo timmandi">
 <!ENTITY generic.longDesc "<p>Alhabar tontonante ga bara sohõ šendaa wala firkaa woo ga.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "XUL moora">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Taare wa šendaa woo bayrandi Interneti nungey koyey še.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
