@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "Ekki er nóg pláss laust til að ræsa &brandShortName;.">
-<!ENTITY  error_loading_file "Villa átti sér stað við keyrslu skráa sem tengjast &brandShortName;">
-
 <!ENTITY firstrun_panel_title_welcome "Velkomin(n)">
 <!ENTITY  onboard_start_message3 "Vafra með &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Gerðu vef upplifunina á handhæga tækinu virkilega þína eigin.">
@@ -27,12 +23,16 @@
 <!ENTITY firstrun_button_next "Áfram">
 
 <!ENTITY  onboard_start_restricted1 "Upplifðu öryggi og að vera við stjórnvölinn með þessari einföldu útgáfu af &brandShortName;.">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Bókamerki">
 <!ENTITY  history_title "Ferill">
-<!ENTITY  reading_list_title "Leslisti">
+
 <!ENTITY  recent_tabs_title "Nýlegir flipar">
 
 <!ENTITY  switch_to_tab "Fara í flipa">
@@ -49,12 +49,6 @@
 <!ENTITY  sending_crash_report "Senda hrunaskýrslu\u2026">
 <!ENTITY  crash_close_label "Loka">
 <!ENTITY  crash_restart_label "Endurræsa &brandShortName;">
-<!ENTITY  exit_label "Hætta">
-
-<!ENTITY  launcher_shortcuts_title "&brandShortName; vef smáforrit">
-<!ENTITY  launcher_shortcuts_empty "Engin vef smáforrit fundust">
-
-<!ENTITY choose_file "Veldu skrá">
 
 <!ENTITY url_bar_default_text2 "Leitaðu eða sláðu inn vistfang">
 
@@ -69,13 +63,20 @@
 <!ENTITY bookmark_updated "Bókamerki uppfært">
 <!ENTITY bookmark_options "Valkostir">
 
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+
 <!ENTITY history_today_section "Í dag">
 <!ENTITY history_yesterday_section "Í gær">
 <!ENTITY history_week_section3 "Síðustu 7 daga">
-<!ENTITY history_this_month_section "Þennan mánuð">
 <!ENTITY history_older_section3 "Eldri en 6 mánaða">
 
-<!ENTITY go "Fara">
 <!ENTITY search "Leita">
 <!ENTITY reload "Endurhlaða">
 <!ENTITY forward "Áfram">
@@ -108,7 +109,7 @@
 <!ENTITY settings "Stillingar">
 <!ENTITY settings_title "Stillingar">
 <!ENTITY pref_category_general "Almennt">
-<!ENTITY pref_category_general_summary2 "Heim, tungumál, netfangaslá">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -131,9 +132,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Bókamerki">
-<!ENTITY overlay_share_reading_list_btn_label "Bæta við leslista">
 <!ENTITY overlay_share_bookmark_btn_label_already "Bókarmerki þegar til staðar">
-<!ENTITY overlay_share_reading_list_btn_label_already "Þegar í leslistanum">
 <!ENTITY overlay_share_send_other "Senda yfir í önnur tæki">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -149,14 +148,15 @@
 <!ENTITY overlay_no_synced_devices "Ekki fundust nein tengd tæki með Firefox reikningi">
 
 <!ENTITY pref_category_search3 "Leita">
-<!ENTITY pref_category_search_summary "Stilla leitarvélar">
+
 <!ENTITY pref_category_accessibility "Auðveldað aðgengi">
 <!ENTITY pref_category_accessibility_summary2 "Leturstærð, stækka, innlestur með rödd">
 <!ENTITY pref_category_privacy_short "Gagnaleynd">
-<!ENTITY pref_category_privacy_summary3 "Fylgst með þér, smákökur, valmöguleikar fyrir gögn">
+
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Um &brandShortName;, algengar spurningar, endurgjöf">
 <!ENTITY pref_category_datareporting "Fleiri valkostir">
+
 <!ENTITY pref_learn_more "Fræðast meira">
 <!ENTITY pref_category_installed_search_engines "Uppsettar leitarvélar">
 <!ENTITY pref_category_add_search_providers "Bæta við fleiri leitarvélum">
@@ -168,10 +168,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "Ábending: Bættu fleiri leitarvélum við með því að halda lengi niðri á leitarsvæðið og snerta síðan &formatI; merkið.">
 <!ENTITY pref_category_advanced "Frekari stillingar">
-<!ENTITY pref_category_advanced_summary2 "Endurvekja flipa, tengiforrit, verkfærakista forritarans">
-<!ENTITY pref_developer_remotedebugging "Villuleit með fjartengingu">
+
+
+
+
+
 <!ENTITY pref_developer_remotedebugging_usb "Kembt með fjartengingu með USB tengi">
 <!ENTITY pref_developer_remotedebugging_wifi "Kembt með fjartengingu með Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi kembun krefst þess að tækið þitt hafi uppsett QR kóða lestrar smáforrit.">
@@ -181,18 +183,10 @@
 <!ENTITY pref_category_home "Ræsisíða">
 <!ENTITY pref_category_home_summary "Stilla ræsisíðuna">
 <!ENTITY pref_category_home_panels "Spjöld">
-<!ENTITY home_add_panel_title "Bæta við spjaldi">
-<!ENTITY home_add_panel_empty "Því miður fundum við engin spjöld til að bæta við.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 bætt við á ræsisíðu">
-<!ENTITY pref_category_home_content_settings "Stilla innihald">
-<!ENTITY pref_home_updates "Sjálfvirkar uppfærslur">
+
+
 <!ENTITY pref_home_updates_enabled "Virktar">
 <!ENTITY pref_home_updates_wifi "Eingöngu á Wi-Fi">
-<!ENTITY pref_home_suggested_sites "Sýna uppástungur">
-<!ENTITY pref_home_suggested_sites_summary "Sýna uppástungur á ræsisíðu þinni af svæðum sem við teljum að þér gætu þótt áhugaverðar">
 <!ENTITY pref_category_home_homepage "Ræsisíða">
 <!ENTITY home_homepage_title "Velja ræsisíðu">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -216,6 +210,7 @@
 <!ENTITY pref_header_search "Leita">
 <!ENTITY pref_header_privacy_short "Gagnaleynd">
 <!ENTITY pref_header_accessibility "Auðveldað aðgengi">
+
 <!ENTITY pref_header_advanced "Ítarlegt">
 <!ENTITY pref_header_help "Hjálp">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -225,6 +220,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Virkar fyrir utan þriðja aðila">
 <!ENTITY pref_cookies_disabled "Óvirkar">
 
+
+
+
 <!ENTITY pref_tap_to_load_images_title2 "Sýna myndir">
 <!ENTITY pref_tap_to_load_images_enabled "Alltaf">
 <!ENTITY pref_tap_to_load_images_data "Eingöngu á Wi-Fi">
@@ -232,7 +230,7 @@
 
 <!ENTITY pref_show_web_fonts "Sýna vef leturgerðirnar">
 
-<!ENTITY pref_tracking_protection_title "Vörn gegn því að fylgst sé með þér">
+
 <!ENTITY pref_tracking_protection_summary3 "Virkt í huliðsvöfrun">
 <!ENTITY pref_donottrack_title "Ekki leyfa að fylgjast með">
 <!ENTITY pref_donottrack_summary "&brandShortName; mun láta vefsvæði vita að þú vilt ekki láta fylgjast með þér">
@@ -240,6 +238,8 @@
 <!ENTITY pref_tracking_protection_enabled "Virkt">
 <!ENTITY pref_tracking_protection_enabled_pb "Virkt í huliðsvöfrun">
 <!ENTITY pref_tracking_protection_disabled "Óvirkt">
+
+
 
 <!ENTITY tracking_protection_prompt_title "Nú með vörn gegn því að fylgst sé með þér">
 <!ENTITY tracking_protection_prompt_text "Virk lokun á eltibúnað svo þú þurfir ekki að hafa áhyggjur.">
@@ -259,7 +259,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Farðu í stillingar ">
-<!ENTITY tab_queue_notification_title "&brandShortName;">
+
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -273,10 +273,19 @@
 
 <!ENTITY tab_queue_notification_settings "Til að ,,Opna marga hlekki\&quot;, vinsamlega veita ,Teikna yfir önnur forrit\u0027 leyfi fyrir &brandShortName; ">
 
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "Dulkóðun">
 <!ENTITY pref_char_encoding_on "Sýna valmynd">
 <!ENTITY pref_char_encoding_off "Ekki sýna valmynd">
-<!ENTITY pref_clear_private_data "Hreinsa persónuleg gögn">
+
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Hreinsa núna">
@@ -285,7 +294,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Veldu hvaða gögn á að hreinsa">
 <!ENTITY pref_plugins "Tengiforrit">
 <!ENTITY pref_plugins_enabled "Virkt">
-<!ENTITY pref_plugins_tap_to_play "Snerta til að spila">
+
 <!ENTITY pref_plugins_disabled "Óvirkt">
 <!ENTITY pref_text_size "Stærð texta">
 <!ENTITY pref_restore_tabs "Endurheimta flipa">
@@ -335,7 +344,6 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Niðurhal">
 <!ENTITY pref_private_data_syncedTabs "Samstilltir flipar">
 
-
 <!ENTITY pref_about_firefox "Um &brandShortName;">
 <!ENTITY pref_vendor_faqs "Tíðar spurningar">
 <!ENTITY pref_vendor_feedback "Veita endurgjöf">
@@ -353,10 +361,12 @@ size. -->
 <!ENTITY pref_panels_move_down "Færa niður">
 
 <!ENTITY datareporting_notification_title "&brandShortName; tölfærði &amp; gögn">
-<!ENTITY datareporting_notification_action_long "Velja upplýsingar til að deila">
 <!ENTITY datareporting_notification_action "Velja það sem deila á">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Velja upplýsingar til að deila">
 <!ENTITY datareporting_notification_summary "&brandShortName; sendir sjálfvirkt upplýsingar til &vendorShortName; svo bæta megi upplifun þína">
-<!ENTITY datareporting_notification_summary_short "Til að bæta upplifun þína, &brandShortName;...">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -379,7 +389,6 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Sjálfvirkar uppfærslur">
 <!ENTITY pref_update_autodownload_wifi "Eingöngu á Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Aldrei">
 <!ENTITY pref_update_autodownload_always "Alltaf">
@@ -390,7 +399,7 @@ size. -->
 <!ENTITY quit "Hætta">
 
 <!ENTITY addons "Viðbætur">
-<!ENTITY logins "Innskráningar">
+
 <!ENTITY downloads "Niðurhal">
 <!ENTITY char_encoding "Dulkóðun tákna">
 
@@ -409,7 +418,6 @@ size. -->
 <!ENTITY close_private_tabs "Loka einkaflipum">
 <!ENTITY tabs_normal "Flipar">
 <!ENTITY tabs_private "Einka">
-<!ENTITY tabs_synced "Samstillt">
 <!ENTITY set_image_fail "Gat ekki notað mynd">
 <!ENTITY set_image_path_fail "Gat ekki vistað mynd">
 <!ENTITY set_image_chooser_title "Nota mynd sem">
@@ -443,8 +451,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Festa svæði">
 <!ENTITY contextmenu_top_sites_unpin "Losa svæði">
 <!ENTITY contextmenu_add_search_engine "Bæta við leitarvél">
-<!ENTITY contextmenu_mark_read "Merkja sem lesið">
-<!ENTITY contextmenu_mark_unread "Merkja sem ólesið">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -464,7 +470,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Stækka minni svæði">
-<!ENTITY pref_magnifying_glass_enabled_summary "Stækka vísanir og eyðublöð þegar þú snertir nærri þeim">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -489,21 +495,6 @@ size. -->
 <!ENTITY site_settings_title3       "Svæðis stilingar">
 <!ENTITY site_settings_cancel       "Hætta við">
 <!ENTITY site_settings_clear        "Hreinsa">
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-
-<!ENTITY reading_list_added3 "Bæta við leslista">
-<!ENTITY reading_list_removed "Síða tekin af leslistanum þínum">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "Fjarlæga af leslista">
-<!ENTITY reading_list_duplicate "Síðan er nú þegar á leslistanum þínum">
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
-<!ENTITY reading_list_time_minutes2 "&formatD; mín">
-<!ENTITY reading_list_time_over_an_hour "Meira en klst.">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -532,6 +523,7 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; heim">
 <!ENTITY home_history_title "Ferill">
+
 <!ENTITY home_clear_history_button "Hreinsa feril">
 <!ENTITY home_clear_history_confirm "Ertu viss að þú viljir hreinsa ferilinn þinn?">
 <!ENTITY home_bookmarks_empty "Bókarmerki sem þú hefur vistað sjást hér.">
@@ -540,11 +532,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Nýlegu fliparnir þínir birtast hér.">
 <!ENTITY home_open_all "Opna allt">
 <!ENTITY home_most_recent_empty "Nýjustu svæðin sem þú hefur skoðað birtast hér.">
-<!ENTITY home_selected_empty "Vefsíður, sem þú hefur heimsótt í völdum tímaramma, birtast hér">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Hey, ferill þinn er ekki vistaður þegar þú notar &formatS1;ný einkaflipi&formatS2;.">
-<!ENTITY home_reading_list_empty "Greinar sem þú vistar til að skoða síðar birtast hér.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
@@ -553,21 +543,11 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_move_back_to_filter "Aftur á &formatS;">
-
-<!ENTITY home_remote_tabs_title "Samstilltir flipar">
-<!ENTITY home_remote_tabs_empty "Fliparnir þínir sem eru opnir á öðrum tækjum sjást hér.">
-<!ENTITY home_remote_tabs_unable_to_connect "Gat ekki tengst">
-<!ENTITY home_remote_tabs_need_to_sign_in "Vinsamlega skráðu þig inn til að endurtengjast við Firefox reikninginn þinn og halda áfram samstillingu.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Nýi Firefox reikningurinn þinn er tilbúinn!">
-
-<!ENTITY home_remote_tabs_trouble_verifying "Áttu í erfiðleikum með að staðfesta reikninginn þinn?">
-<!ENTITY home_remote_tabs_need_to_verify "Vinsamlega staðfesta Firefox reikninginn þinn til að hefja samstillingu.">
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 falið tæki ">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; falin tæki">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -582,7 +562,6 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Sláðu inn leitar stikkorð">
 
-<!ENTITY filepicker_title "Veldu skrá">
 <!ENTITY filepicker_audio_title "Veldu eða taktu upp hljóðbút">
 <!ENTITY filepicker_image_title "Veldu eða taktu ljómynd">
 <!ENTITY filepicker_video_title "Veldu eða taktu upp myndband">
@@ -611,8 +590,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "Sumir hlutir á þessari síðu eru ekki öruggir (eins og myndir).">
 <!ENTITY mixed_content_protection_disabled1 "Þú hefur slökkt á vernd frá óöruggu efni.">
 <!-- Tracking content notifications in site identity popup -->
-
-<!ENTITY doorhanger_tracking_title " Ekki fylgjast með mér vernd">
 <!ENTITY doorhanger_tracking_state_enabled "Virkt">
 <!ENTITY doorhanger_tracking_state_disabled "Óvirkt">
 <!ENTITY doorhanger_tracking_message_enabled1 "Tilraunum til að fylgjast með vefverknaði þinni hefur verið hindrað.">
@@ -622,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "Fræðast meira">
 <!ENTITY enable_protection "Virkja vörn">
 <!ENTITY disable_protection "Slökkva á vörn">
-<!ENTITY keep_blocking "Halda áfram að loka">
 
 <!ENTITY private_data_success "Einkagögn hreinsuð">
 <!ENTITY private_data_fail "Ekki var hægt að hreinsa öll einkagögn">
@@ -714,12 +690,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY remote_tabs_last_synced "Síðasta samstilling: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Síðasta samstilling: aldrei">
-
-<!ENTITY intent_uri_cannot_open "Get ekki opnað vísun">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+
 <!ENTITY intent_uri_private_browsing_prompt "Þessi hlekkur mun opnast í &formatS;. Ertu viss að þú viljir hætta í huliðsstillingu?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -778,3 +753,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY whatsnew_notification_title "&brandShortName; er þegar með nýjustu útgáfu">
 <!ENTITY whatsnew_notification_summary "Skoðaðu það sem er nýtt í þessari útgáfu">
+
+
+
+
