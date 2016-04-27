@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "ಕಡತವು ಕಂಡು ಬಂದಿಲ್ಲ">
 <!ENTITY fileNotFound.longDesc "<ul><li>ಅದರ ಹೆಸರು ಬದಲಾಯಿಸರಬಹುದು, ತೆಗೆದುಹಾಕಲ್ಪಟ್ಟಿರಬಹುದು, ಅಥವ ಸ್ಥಳಾಂತರಗೊಂಡಿರಬಹುದು</li><li>ವಿಳಾಸದಲ್ಲಿ ಕಾಗುಣಿತ, ಕ್ಯಾಪಿಟಲೈಸೇಶನ್, ಅಥವ ಬೆರಳಚ್ಚುದೋಷ ಇದ್ದಿರಬಹುದೆ?</li><li>ನೀವು ಮನವಿ ಸಲ್ಲಿಸಿದ ವಿಷಯವನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ನಿಮಗೆ ಸಾಕಷ್ಟು ಅನುಮತಿ ಇದೆಯೆ?</li></ul>">
 
+
+
 <!ENTITY generic.title "ಮನವಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲಾಗಿಲ್ಲ">
 <!ENTITY generic.longDesc "<p>ಈ ತೊಂದರೆ ಅಥವ ದೋಷಕ್ಕಾಗಿನ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ ಪ್ರಸ್ತುತ ಲಭ್ಯವಿಲ್ಲ.</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "ದೂರಸ್ಥ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ಈ ತೊಂದರೆಯ ಬಗ್ಗೆ ಜಾಲತಾಣದ ಮಾಲಿಕರಿಗೆ ತಿಳಿಸಲು ಅವರನ್ನು ಸಂಪರ್ಕಸಿ.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
