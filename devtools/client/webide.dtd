@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Atros">
 <!ENTITY runtimePanel_installsimulator "Instalar Simulador">
 <!ENTITY runtimePanel_noadbhelper "Instalar l'aduyant ADB">
-<!ENTITY runtimePanel_nousbdevice "No veye o suyo dispositivo?">
+
 <!ENTITY runtimePanel_refreshDevices_label "Refrescar os dispositivos">
 <!-- Lense -->
 

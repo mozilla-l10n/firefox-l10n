@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Conducir-se a ista pachina…">
 <!ENTITY addCurPagesCmd.label "Adhibir pestanyas ta marcapachinas…">
 <!ENTITY showAllBookmarks2.label "Amostrar totz os marcapachinas">
-<!ENTITY unsortedBookmarksCmd.label "Marcadors sin ordenar">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Amostrar mas marcapachinas">
 
 <!ENTITY backCmd.label                "Enta zaga">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Amuestra o mensache d'almagacenamiento difuera d'a linia d'as aplicacions">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Chestiona la información d'inicio de sesión">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Compreba si quiers alzar la tuya clau">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Amuestra o mensache d'instalación de l'aplicación">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Chestiona l'uso de connectors en ista pachina">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Cambiar a opción de recibir notificacions dende iste puesto">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcapachinas">
-<!ENTITY bookmarksMenuButton.unsorted.label "Marcapachinas sin ordenar">
+
 <!ENTITY viewBookmarksSidebar2.label        "Amostrar a barra lateral de marcapachinas">
 <!ENTITY viewBookmarksToolbar.label         "Veyer a barra de marcapachinas">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,78 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Desembolicador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-
-
-<!ENTITY devtoolsConnect.label        "Connectar…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "Consola d'errors">
-<!ENTITY errorConsoleCmd.accesskey    "n">
-
-<!ENTITY remoteWebConsoleCmd.label    "Consola web remota">
-
-<!ENTITY browserConsoleCmd.label      "Consola d'o navegador">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "n">
-
 <!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
-
-<!ENTITY responsiveDesignTool.label   "Vista de disenyo adaptativo">
-<!ENTITY responsiveDesignTool.accesskey "y">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Contagotas">
-<!ENTITY eyedropper.accesskey "n">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Quaderno de prebatinas">
-<!ENTITY scratchpad.accesskey         "Q">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Caixa de ferramientas d'o navegador">
-<!ENTITY browserToolboxMenu.accesskey "f">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Caixa de ferramientas de conteniu d'o navegador">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Zarrar a barra ta desembolicadors">
-<!ENTITY devToolbarMenu.label              "Barra de desembolicadors">
-<!ENTITY devToolbarMenu.accesskey          "B">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Amostrar ferramientas">
-<!ENTITY devToolboxMenuItem.accesskey      "t">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Amostrar as ferramientas ta desembolicadors">
-<!ENTITY devToolbarOtherToolsButton.label  "Mas ferramientas">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Aconseguir mas ferramientas">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "m">
 
 <!ENTITY fileMenu.label         "Fichero"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -357,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Retallar">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "Copiar">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+
 <!ENTITY pasteCmd.label           "Apegar">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "A"> 
@@ -409,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Ubrir o menú d'aduya">
 
 <!ENTITY appMenuRemoteTabs.label "Pestanyas sincronizadas">
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
@@ -417,6 +346,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
 
 <!ENTITY appMenuRemoteTabs.signin.label "Dentrar en Sync">
@@ -762,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "A connexión ta iste puesto no ye privada. A información que ninvia podría estar visualizada por atras personas (como claus, mensaches, tarchetas de credito, etc.).">
 <!ENTITY identity.description.insecureLoginForms "A información d'inicio de sesión que introduz en ista pachina no ye segura y podría interceptar-se.">
 <!ENTITY identity.description.weakCipher "A suya connexión ta ista web fa servir un zifrau feble y no ye privada.">
-<!ENTITY identity.description.weakCipher2 "Atras personas podrían visualizar a información u modificar o comportamiento d'o puesto">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; ha blocau partes d'ista pachina que no son seguras.">
 <!ENTITY identity.description.passiveLoaded "A connexión no ye privada y a información que comparte con o puesto podría estar visualizada por atras personas.">
 <!ENTITY identity.description.passiveLoaded2 "Iste puesto web inclui contenius que no son seguros (p. eix. imachens).">
@@ -795,8 +725,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
+
+
+
 
 
 

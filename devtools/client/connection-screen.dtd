@@ -23,8 +23,6 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-
-<!ENTITY remoteHelp "As ferramientas ta desembolicadors d&apos;o Firefox pueden depurar dispositivos remotos (por eixemplo, o Firefox ta Android y o Firefox OS). Asegure-se d&apos;haber activau a opción &quot;Depuración remota&quot; en o dispositivo remoto. Ta mas información, mire-se a ">
 <!ENTITY remoteDocumentation "documentación">
 <!ENTITY remoteHelpSuffix ".">
 

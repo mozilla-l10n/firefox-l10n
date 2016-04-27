@@ -4,7 +4,13 @@
 
 <!ENTITY safeb.palm.accept.label "Saca-me d'aquí!">
 <!ENTITY safeb.palm.decline.label "No fer caso d'ista alvertencia">
-<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
+  item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
+  shown. -->
+<!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
+  safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
+  report-phishing.dtd are never shown at the same time, the same accesskey can
+  be used for them. -->
 <!ENTITY safeb.palm.reportPage.label "Por qué s'ha blocau ista pachina?">
 <!ENTITY safeb.palm.whyForbidden.label "Por qué s'ha blocau ista pachina?">
 
