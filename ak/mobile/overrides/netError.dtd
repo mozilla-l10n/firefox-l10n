@@ -24,17 +24,17 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Hwɛ fael ne din sɛ wo annyɛ mfomso biara wɔ bere a wo rekyerɛw din no.</li> <li>Hwɛ sɛ wɔmmfaa fael no nnkɔɔ beebi foforo, wɔnntoo no din foforo anaaso wonnyii mmfiri kɔmputa no so koraa mpo a.</li> </ul>">
 
 
-<!ENTITY generic.title "Agyei.">
-<!ENTITY generic.longDesc "<p>Siantiri bi nti &brandShortName; nntumi nnkyerɛ krataafa yi.</p>">
 
-<!ENTITY malformedURI.title "Adrɛs no nnyɛ nokware">
+<!ENTITY generic.title "Agyei.">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Wotwaa kɔnɛkhyɛn ne so">
 
 
-<!ENTITY notCached.longDesc "<p>Dɔkomɛnte a wo bisae no nni hɔ bio wɔ &brandShortName; asiei-bea mu.</p><ul><li>Ɛnam sikuriti nsɛm nti, &brandShortName; nnsan mmbisa adɔkomɛnte a wɔn ho hia paa wɔn ekyiri kwan bio.</li><li>Kleke San Sɔ Hwɛ fa san bisa dɔkomɛnte no firi wɛbsaet no so.</li></ul>">
+
 
 <!ENTITY netOffline.title "Ɔflaen tebea">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -51,7 +51,6 @@
 <!ENTITY netTimeout.title "Kɔnɛkhyɛn no ne bere apa ho">
 
 
-<!ENTITY unknownProtocolFound.title "Firefox annte adrɛs no ase">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Etumi ba no sɛ ɛwɔ sɛ wo instɔl sɔftwɛɛ afoforo ansaana wo etumi ebue adrɛs yi.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Prɔksi sɛɛva no renngye nkɔnɛkhyɛn biara">
@@ -61,7 +60,6 @@
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY redirectLoop.title "Krataafa no rennkɔ beebi a ɛwɔ sɛ ɔkɔ no papa">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Etumi ba no sɛ ɛnam sɛ wo renngye  nkuki no nti na worenya ɔhaw yi.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Eni nnda mbuae a efiri sɛɛva no hɔ aba yi">
@@ -71,7 +69,7 @@
 
 
 <!ENTITY nssBadCert.title "Kɔnɛkhyɛn a wɔabɔ ho ban no annkɔ yie">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Etumi ba no sɛ ɔhaw bi wɔ nhyehyɛe a wɔayɛ no wɔ sɛɛva no so, anaaso etumi ba no sɛ obi pɛ sɛ ɔyɛ ne ho te sɛ ɔno ne sɛɛva no.</li> <li>Sɛ wo akɔnɛkt akɔ sɛɛva yi so da a, mfomso no tumi yɛ biribi ɛto betwa a ɛrennkyɛ koraa, anaaso wo pɛ a san sɔ hwɛ ekyiri yi.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -98,3 +96,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
