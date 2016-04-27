@@ -167,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "הרשמה לדף זה…">
 <!ENTITY addCurPagesCmd.label "יצירת סימנייה לכל הלשוניות…">
 <!ENTITY showAllBookmarks2.label "הצגת כל הסימניות">
-<!ENTITY unsortedBookmarksCmd.label "סימניות לא ממוינות">
 <!ENTITY bookmarksToolbarChevron.tooltip "הצגת סימניות נוספות">
 
 <!ENTITY backCmd.label                "אחורה">
@@ -195,7 +194,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "הצגת הודעת אחסון לא מקוון ליישום">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "ניהול נתוני ההתחברויות שלך">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "שמירת ססמה">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "הצגת הודעת התקנת יישום">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "ניהול השימוש בתוספים חיצוניים בדף זה">
 
 
@@ -214,7 +212,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "סימניות">
-<!ENTITY bookmarksMenuButton.unsorted.label "סימניות לא ממוינות">
 <!ENTITY viewBookmarksSidebar2.label        "הצגת סרגל הצד">
 <!ENTITY viewBookmarksToolbar.label         "הצגת סרגל הכלים">
 
@@ -244,77 +241,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "כלי פיתוח">
 <!ENTITY webDeveloperMenu.accesskey   "כ">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-
-<!ENTITY devtoolsConnect.label        "התחברות…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "מסוף שגיאות">
-<!ENTITY errorConsoleCmd.accesskey    "ש">
-
-<!ENTITY remoteWebConsoleCmd.label    "מסוף רשת מרוחק">
-
-<!ENTITY browserConsoleCmd.label      "מסוף דפדפן">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "ד">
-
 <!ENTITY inspectContextMenu.label     "חקירת אלמנט">
 <!ENTITY inspectContextMenu.accesskey "ח">
-
-<!ENTITY responsiveDesignTool.label   "תצוגת עיצוב רספונסיבי">
-<!ENTITY responsiveDesignTool.accesskey "ר">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "טיפות עיניים">
-<!ENTITY eyedropper.accesskey "ט">
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "דף טיוטה">
-<!ENTITY scratchpad.accesskey         "ט">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "ארגז הכלים של הדפדפן">
-<!ENTITY browserToolboxMenu.accesskey "א">
-<!ENTITY browserToolboxCmd.commandkey "i">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "ארגז כלים לתוכן דפדפן">
-<!ENTITY browserContentToolboxMenu.accesskey "כ">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "סגירת סרגל כלים מפתחים">
-<!ENTITY devToolbarMenu.label              "סרגל כלים מפתחים">
-<!ENTITY devToolbarMenu.accesskey          "מ">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "הפעלה/כיבוי של כלי פיתוח">
-<!ENTITY devToolboxMenuItem.accesskey      "כ">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "הפעלה או כיבוי של כלי הפיתוח">
-<!ENTITY devToolbarOtherToolsButton.label  "כלים נוספים">
-
-<!ENTITY getMoreDevtoolsCmd.label        "קבלת כלים נוספים">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "ק">
 
 <!ENTITY fileMenu.label         "קובץ"> 
 <!ENTITY fileMenu.accesskey       "ק">
@@ -775,10 +703,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
-<!ENTITY syncedTabs.context.openTab.label                   "פתיחת לשונית זו">
-<!ENTITY syncedTabs.context.openTab.accesskey               "פ">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "צור סימנייה ללשונית זו…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "ס">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "צור סימנייה ללשונית זו…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ס">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
