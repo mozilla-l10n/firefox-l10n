@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "কেইবাটাও টেব একেলগে খোলোতে &brandShortName; লেহেম হৈ গ'লে মোক সতৰ্ক কৰিব">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "নিৰ্বাচন নহোৱালৈকে টেবসমূহ ল'ড নকৰিব">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
-
 <!ENTITY switchToNewTabs.label        "যেতিয়া মই এটা লিঙ্কক এটা নতুন টেবত খোলো, তৎক্ষনাত তালৈ যাব">
 <!ENTITY switchToNewTabs.accesskey    "h">
 
