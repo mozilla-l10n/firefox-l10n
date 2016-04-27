@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "Icime yonke imbali yokukhangela kwesi sixhobo ">
 <!ENTITY pref_clearHistory_title "Susa imbali yokukhangela">
 
-<!ENTITY pref_searchProvider_title "Injini yokukhangela ">
-
 <!ENTITY search_widget_button_label "Khangela">
 
 <!ENTITY network_error_title "Akukho nxulumano lwe-intanethi">

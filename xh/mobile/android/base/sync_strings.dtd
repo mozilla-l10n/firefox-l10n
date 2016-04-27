@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Iithegi">
 <!ENTITY bookmarks.folder.toolbar.label "Isixwexwe Sezixhobo Zezalathisi Eziphawulayo">
-<!ENTITY bookmarks.folder.unfiled.label "IZalathisi eziphawulayo ezingalungiswanga">
+
 <!ENTITY bookmarks.folder.desktop.label "IZalathisi eziphawulayo zedesktop">
 <!ENTITY bookmarks.folder.mobile.label "IZalathisi eziphawulayo zemobhayile">
-<!ENTITY bookmarks.folder.readinglist.label "ULuhlu lokufunda">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Okuqhotyoshelweyo">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Seta i-&syncBrand.shortName.label; ukuthumela iithebhu">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Seta i-&syncBrand.fullName.label; kwisixhobo sakho ukuthumela iithebhu kwezinye izixhobo.">
-<!ENTITY sync.text.tab.sent.label "Ithebhu yakho ithunyelwe!">
-<!ENTITY sync.text.tab.not.sent.label "Kubekho ingxaki ekuthumeleni ithebhu yakho.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "Iiakhawunti zeFirefox">
-
-<!ENTITY fxaccount_custom_server_account_title "Ukusebenzisa iakhawunti kwiseva">
-<!ENTITY fxaccount_custom_server_sync_title "Ukugcina ingcombolo yongqamaniso kwiseva">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "I-imeyili">
-<!ENTITY fxaccount_password_hint "Ipaswedi">
-<!ENTITY fxaccount_password_hide "Fihla">
-<!ENTITY fxaccount_password_show "Bonisa">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "Buyela ekubhrawuzeni">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Imiqathango yenkonzo">
-<!ENTITY fxaccount_policy_linkprivacy "Isaziso sabucala">
+<!ENTITY fxaccount_back_to_browsing "Buyela ekubhrawuzeni">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Wamkelekile kwi-&syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "Sayina ungene ukuze ungqamanise iithebhu, iibhukhmakhi, iilogini nokunye kwakho.">
 <!ENTITY fxaccount_getting_started_get_started "Qalisa">
 <!ENTITY fxaccount_getting_started_old_firefox "Usebenzisa uhlelo oludadlala lwe-&syncBrand.shortName.label;?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "Yila iakhawunti yeFirefox">
-<!ENTITY fxaccount_create_account_password_length_restriction "Ubuncinane ifanele ibe noonobumba abasi-8">
-<!ENTITY fxaccount_create_account_day_of_birth "Usuku">
-<!ENTITY fxaccount_create_account_month_of_birth "Inyanga">
-<!ENTITY fxaccount_create_account_year_of_birth "Unyaka wokuzalwa">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Ngokudlulela phambili, ndiyavumelana ne&formatS1; kunye no&formatS2; zeenkonzo zeklawudi yeFirefox.">
-<!ENTITY fxaccount_create_account_button "Okulandelayo">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Khetha into oza kuyingqamanisa">
-<!ENTITY fxaccount_create_account_sign_in_instead "Ingaba sele une-akhawunti? Ngena">
-<!ENTITY fxaccount_create_account_1990_or_earlier "Ngowe-1990 okanye ngaphambilana">
-<!ENTITY fxaccount_create_account_unknown_error "Ayikwazanga ukwenza i-akhawunti">
-
-<!ENTITY fxaccount_account_create_not_allowed "Ayikwazi ukwenza i-akhawunti">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Ufanele ube nobudala obuthile ukuze wenze i-akhawunti.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Funda okungakumbi">
-
-<!ENTITY fxaccount_confirm_account_header "Qinisekisa i-akhawunti yakho">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "Uthunyelelwe ikhonkco lokuqinisekisa kwi-&formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Phinda uthumele i-imeyili">
-<!ENTITY fxaccount_confirm_account_change_email "Uyilibele idilesi ye imeyile?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "I-imeyili yokuqinisekisa ithunyelwe">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Ayikwazanga ukukuthumelela i-imeyili yokuqinisekisa">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Phinda uthumele iimeyile ezitshixiweyo">
-<!ENTITY fxaccount_unlock_code_sent "I-akhawunti etshixiweyo yemeyile ithunyelwe">
-<!ENTITY fxaccount_unlock_code_not_sent "Ayithumelekanga i-akhawunti yemeyile etshixeweyo">
-
-<!ENTITY fxaccount_sign_in_sub_header "Ngena">
-<!ENTITY fxaccount_sign_in_button_label "Ngena">
-<!ENTITY fxaccount_sign_in_forgot_password "Ulibele ipasiwedi?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Yenza i-akhawunti">
-<!ENTITY fxaccount_sign_in_unknown_error "Awukwazanga ukungena">
-
-<!ENTITY fxaccount_account_verified_sub_header "I-akhawunti iqinisekisiwe">
-<!ENTITY fxaccount_account_verified_description2 "Iingcombolo zakho ziza kuqalisa ukungqamaniswa ngokukhawuleza.">
-
-<!ENTITY fxaccount_migration_finished_header "Uphuhliso lugqityiwe">
-
-<!ENTITY fxaccount_update_credentials_header "Ngena">
-<!ENTITY fxaccount_update_credentials_button_label "Ngena">
-<!ENTITY fxaccount_update_credentials_unknown_error "Awukwazanga ukungena">
-
-<!ENTITY fxaccount_finish_migrating_header "Sayina ungene ukugqibezela uphuhliso">
-<!ENTITY fxaccount_finish_migrating_button_label "Ugqibile ukuphuhlisa">
-<!ENTITY fxaccount_finish_migrating_description "Uphuhliso lungathumela iinkcukacha ezininzi. Kungcono ukuba kwinethiwokhi eno-WiFi.">
-
-<!ENTITY fxaccount_status_header2 "I-akhawunti yeFirefox">
 <!ENTITY fxaccount_status_signed_in_as "Ungene njenge">
 <!ENTITY fxaccount_status_manage_account "Lawula iakhawunti">
 <!ENTITY fxaccount_status_auth_server "Iseva yeakhawunti">
@@ -154,8 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "Imiqathango yenkonzo">
-<!ENTITY fxaccount_status_linkprivacy "Isaziso sabucala">
+
 <!ENTITY fxaccount_status_more "Yongeza&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
@@ -192,7 +112,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Iseva ixakekile, phinda uzame kwakhona ngokukhawuleza">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Iseva ixakekile, phinda uzame kwakhona ngokukhawuleza">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Bekukho ingxaki">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Ayikwazi ukunxibelelana nenethiweki">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "I-akhawunti itshixiwe. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "I-&syncBrand.shortName.label; ayinxityelelaniswanga">
@@ -204,8 +123,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Cofa ukuze ungene njenge-&formatS;">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
-<!ENTITY old_sync_deprecated_notification_title "Sayina ukuze uqhubeke udibanisa">
-<!ENTITY old_sync_deprecated_notification_content "I-akhawunti yakho ayisaxhaswa">
