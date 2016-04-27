@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Bu səhifəyə abunə ol…">
 <!ENTITY addCurPagesCmd.label "Bütün Vərəqləri Əlfəcinlə…">
 <!ENTITY showAllBookmarks2.label "Bütün Əlfəcinləri Göstər">
-<!ENTITY unsortedBookmarksCmd.label "Sıralanmamış Əlfəcinlər">
+<!ENTITY recentBookmarks.label "Yeni Əlfəcinlənmiş">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha çox əlfəcin göstər">
 
 <!ENTITY backCmd.label                "Geri">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Tətbiq-oflayn yaddaş mesajını gör">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Daxil olma məlumatlarınızı idarə edin">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Parolunuzu yadda saxlamaq istəyirsinizsə seçin">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Tətbiq quraşdırma mesajını gör">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Qoşma istifadəsini bu səhifədə idarə edin">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Saytdan bildiriş alıb alamayacağınızı dəyişdirin">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Əlfəcinlər">
-<!ENTITY bookmarksMenuButton.unsorted.label "Sıralanmamış Əlfəcinlər">
+
 <!ENTITY viewBookmarksSidebar2.label        "Əlfəcin yan panelini göstər">
 <!ENTITY viewBookmarksToolbar.label         "Əlfəcin alət sətrini gör">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Web Tərtibatçı">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Servis İşçiləri">
-<!ENTITY devtoolsServiceWorkers.accesskey  "i">
-
-<!ENTITY devtoolsConnect.label        "Qoşuldu…">
-<!ENTITY devtoolsConnect.accesskey    "Q">
-
-<!ENTITY errorConsoleCmd.label        "Xəta konsolu">
-<!ENTITY errorConsoleCmd.accesskey    "k">
-
-<!ENTITY remoteWebConsoleCmd.label    "Uzaq Web Konsol">
-
-<!ENTITY browserConsoleCmd.label      "Səyyah Konsolu">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "S">
-
 <!ENTITY inspectContextMenu.label     "Obyekti araşdır">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "Uyğun dizayn görünüşü">
-<!ENTITY responsiveDesignTool.accesskey "U">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "GözDamlası">
-<!ENTITY eyedropper.accesskey "D">
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "Qaralama Dəftəri">
-<!ENTITY scratchpad.accesskey         "Q">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-<!ENTITY browserToolboxMenu.label     "Səyyah Alətlər Sətri">
-<!ENTITY browserToolboxMenu.accesskey "h">
-<!ENTITY browserToolboxCmd.commandkey "i">
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-<!ENTITY browserContentToolboxMenu.label     "Səyyah Məzmun Qutusu">
-<!ENTITY browserContentToolboxMenu.accesskey "u">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Tərtibatçı alət panelini qapa">
-<!ENTITY devToolbarMenu.label              "Programçı Paneli">
-<!ENTITY devToolbarMenu.accesskey          "P">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Alətlər panelini göstər/gizlət">
-<!ENTITY devToolboxMenuItem.accesskey      "t">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Mühəndis alətlərinini göstər/gizlət">
-<!ENTITY devToolbarOtherToolsButton.label  "Daha çox alət">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Daha Çox Alətlər">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "Ç">
 
 <!ENTITY fileMenu.label         "Fayl"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Kəs">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "K"> 
-<!ENTITY copyCmd.label            "Kopyala">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
+
 <!ENTITY pasteCmd.label           "Yapışdır">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "Y"> 
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Kömək Menyusunu Aç">
 
 <!ENTITY appMenuRemoteTabs.label "Sinxronlaşdırılmış Vərəqlər">
-<!ENTITY appMenuRemoteTabs.fetching.label "Sinxronlaşdırılmış Vərəqlər Alınır…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Açıq vərəq yoxdur">
@@ -420,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Digər cihazlarınızdan da Firefox-a daxil olun, vərəqlərinizi burada görün.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync Nizamlamaları">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün daxil olun.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ə Daxil ol">
@@ -766,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Bu səhifəyə olan bağlantınız məxfi deyil. Göndərdiyiniz məlumatlar başqaları tərəfindən görülə bilər (şifrə, mesaj, kredit kartları və s. kimi).">
 <!ENTITY identity.description.insecureLoginForms "Bu səhifədə yazdığınız daxil olma məlumatları qorunmur və oğurlana bilər.">
 <!ENTITY identity.description.weakCipher "Bu səhifəyə olan bağlantınız zəif şifrləmə istifadə edir və məxfi deyil.">
-<!ENTITY identity.description.weakCipher2 "Başqaları sizin məlumatlarınızı görə və ya saytın davranışını səyişdirə bilər.">
+
 <!ENTITY identity.description.activeBlocked "&brandShortName; bu səhifənin təhlükəsiz olmayan hissələrini blokladı.">
 <!ENTITY identity.description.passiveLoaded "Bağlantınız məxfi deyil və sayt ilə paylaşdığınız məlumatlar başqaları tərəfindən görülə bilər.">
 <!ENTITY identity.description.passiveLoaded2 "Saytda güvənilir olmayan məzmun var (şəkillər kimi).">
@@ -796,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Sinxronlaşdırılmış Vərəqlər">
 
 <!ENTITY syncedTabs.sidebar.label              "Sinxronlaşdırılmış Vərəqlər">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Sinxronlaşdırılmış vərəqlər alınır…">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Digər cihazlarınızdan da Firefox-a daxil olun, vərəqlərini burada görün.">
+
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün daxil olun.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Açıq vərəq yoxdur">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; nizamlamalarını aç">
@@ -805,10 +734,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün vərəq sinxronizasiyasını aktivləşdirin.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Bu Vərəqi Aç">
-<!ENTITY syncedTabs.context.openTab.accesskey               "A">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Bu Vərəqi Əlfəcinlə…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "l">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bu Vərəqi Əlfəcinlə…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "l">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

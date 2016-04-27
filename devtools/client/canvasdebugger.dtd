@@ -20,7 +20,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "Klikləyin:">
-<!ENTITY canvasDebuggerUI.emptyNotice2    "düyməsinə klikləyin">
+
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 

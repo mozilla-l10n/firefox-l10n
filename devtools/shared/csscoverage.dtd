@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "Bəzən yükləndirməni sürətləndirmək üçün">
 <!ENTITY csscoverage.optimize.body2 "teqlərin yerini səhifənin aşağısına dəyişdirib">
-<!ENTITY csscoverage.optimize.body3 "yuxarıda 'load' tədbirindən əvvəl lazım olan elementləri sətiriçi stillərlə yarada bilərsiz. Ehtiyyacınız olacaq stil blokları:">
+
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

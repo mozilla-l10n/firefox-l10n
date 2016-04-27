@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Çox sayda vərəq açmağın &brandShortName; səyyahını yavaşlada biləcəyi vaxtlarda məni xəbərdar et">
 <!ENTITY warnOpenManyTabs.accesskey   "y">
 
-<!ENTITY restoreTabsOnDemand.label        "Vərəqləri seçilənə qədər yükləmə">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
-
 <!ENTITY switchToNewTabs.label        "Keçidi yeni vərəqdə açdığımda, dərhal o vərəqə keç">
 <!ENTITY switchToNewTabs.accesskey    "h">
 
