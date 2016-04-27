@@ -134,7 +134,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareImage.label "Μοιραστείτε αυτή την εικόνα">
 <!ENTITY shareSelect.label "Μοιραστείτε αυτή την επιλογή">
 <!ENTITY shareVideo.label "Μοιραστείτε αυτό το βίντεο">
-<!ENTITY feedsMenu.label "Συνδρομή">
 <!ENTITY subscribeToPageMenupopup.label "Συνδρομή σε αυτή τη σελίδα">
 <!ENTITY subscribeToPageMenuitem.label "Συνδρομή σε αυτή τη σελίδα…">
 <!ENTITY addCurPagesCmd.label "Όλες οι καρτέλες σε σελιδοδείκτη…">
@@ -205,6 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Πρόσθετα">
 
 <!ENTITY webDeveloperMenu.label       "Εργαλεία Προγραμματιστή">
+
 
 
 <!ENTITY devtoolsConnect.label        "Σύνδεση…">
@@ -511,7 +511,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Προσθήκη λεξικών…">
 
 <!ENTITY editBookmark.done.label                     "Προσθήκη">
-<!ENTITY editBookmark.cancel.label                   "Ακύρωση">
 
 <!ENTITY identity.connectionSecure "Ασφαλής σύνδεση">
 <!ENTITY identity.connectionNotSecure "Η σύνδεση δεν είναι ασφαλής">
@@ -541,6 +540,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.label "Απενεργοποίηση προστασίας για την ώρα">
 <!ENTITY identity.learnMore "Μάθετε περισσότερα">
 
+
 <!ENTITY identity.moreInfoLinkText2 "Περισσότερες πληροφορίες">
 
 <!ENTITY identity.permissions "Δικαιώματα">
@@ -550,7 +550,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Καρτέλες περιηγητή">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+
+
 
 
 <!ENTITY syncSignIn.label             "Είσοδος στο &syncBrand.shortName.label; …">
@@ -572,7 +577,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Κάντε κλικ σε μια υπηρεσία για να την προσθέσετε στον &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Εμφάνιση περισσότερων">
 
-<!ENTITY customizeMode.tabTitle "Προσαρμογή &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Επιπρόσθετα εργαλεία και λειτουργίες">
 <!ENTITY customizeMode.menuAndToolbars.empty "Θέλετε περισσότερα εργαλεία;">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Επιλέξτε ανάμεσα από χιλιάδες πρόσθετα">
@@ -659,5 +663,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.buttonlabel         "Ευχαριστώ!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Μάθετε περισσότερα για το DRM…">
-<!ENTITY emeNotificationsNotNow.label             "Όχι τώρα">
-<!ENTITY emeNotificationsDontAskAgain.label       "Να μην ερωτηθώ ξανά">

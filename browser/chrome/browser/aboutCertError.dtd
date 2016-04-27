@@ -33,6 +33,3 @@ was trying to connect. -->
 <!ENTITY certerror.copyToClipboard.label "Αντιγραφή κειμένου στο πρόχειρο">
 
 <!ENTITY errorReporting.automatic "Αναφέρετε σφάλματα όπως αυτό για να βοηθήσετε το Mozilla στον εντοπισμό ιστοσελίδων με εσφαλμένες ρυθμίσεις">
-<!ENTITY errorReporting.sending "Αποστολή αναφοράς">
-<!ENTITY errorReporting.sent "Η αναφορά εστάλη">
-<!ENTITY errorReporting.tryAgain "Προσπαθήστε ξανά">
