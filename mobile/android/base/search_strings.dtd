@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "សម្អាត​ប្រវត្តិ​ស្វែងរក​ទាំងអស់​ចេញពី​ឧបករណ៍​នេះ?">
 <!ENTITY pref_clearHistory_title "សម្អាត​ប្រវត្តិ​ស្វែងរក">
 
-<!ENTITY pref_searchProvider_title "ម៉ាស៊ីន​ស្វែងរក">
-
 <!ENTITY search_widget_button_label "ស្វែងរក">
 
 <!ENTITY network_error_title "មិន​មាន​ការ​តភ្ជាប់​អ៊ីនធឺណិត">
