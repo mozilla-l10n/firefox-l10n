@@ -7,18 +7,12 @@
 <!ENTITY  warnAddonInstall.label        "부가 기능을 설치할 때 알려주기">
 <!ENTITY  warnAddonInstall.accesskey    "W">
 
-<!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
-  The methods by which forged (phished) and attack sites will be detected by
-  phishing providers will vary from human review to machine-based heuristics to a
-  combination of both, so it's important that these strings and
-  useDownloadedList.label convey the meaning "reported" (and not something like
-  "known").
+<!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
+  It is important that wording follows the guidelines outlined on this page:
+  https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-<!ENTITY  blockAttackSites.label     "공격 사이트일 경우 차단">
-<!ENTITY  blockAttackSites.accesskey "k">
 
-<!ENTITY  blockWebForgeries.label     "사기 사이트일 경우 차단">
-<!ENTITY  blockWebForgeries.accesskey "B">
+
 
 <!ENTITY  addonExceptions.label         "예외 목록…">
 <!ENTITY  addonExceptions.accesskey     "E">
