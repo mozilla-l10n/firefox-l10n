@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-   <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "ਤੁਹਾਡੇ ਹੱਕਾਂ ਬਾਰੇ">
@@ -34,11 +34,15 @@
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "">
 
-
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "ਕੁਝ &brandShortName; ਫੀਚਰ ਵੈੱਬ-ਅਧਾਰਿਤ ਜਾਣਕਾਰੀ ਸਰਵਿਸਾਂ ਬਣਾਉਂਦਾ ਹੈ, ਪਰ ਅਸੀਂ ਇਹ ਗਾਰੰਟੀ ਨਹੀਂ ਦੇ ਸਕਦੇ ਕਿ ਉਹ 100&#37; ਠੀਕ ਜਾਂ ਗਲਤੀ ਤੋਂ ਬਿਨਾਂ ਹਨ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ, ਜਿਸ ਵਿੱਚ ਫੀਚਰਾਂ, ਜੋ ਕਿ ਇਹ ਸਰਵਿਸਾਂ ਵਰਤਦੇ ਹਨ, ਨੂੰ ਬੰਦ ਕਰਨ ਬਾਰੇ ਵੀ ਜਾਣਕਾਰੀ ਨੂੰ ">
 <!ENTITY rights.intro-point4b "ਸਰਵਿਸ ਸ਼ਰਤਾਂ">
 <!ENTITY rights.intro-point4c " ਉੱਤੇ ਲੱਭਿਆ ਜਾ ਸਕਦਾ ਹੈ">
+
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "ਜੇ ਇਹ ਪਰੋਡੱਕਟ ਵਿੱਚ ਕੋਈ ਵੀ ਵੈੱਬ ਸਰਵਿਸ ਸ਼ਾਮਲ ਹੈ ਤਾਂ ਕਿਸੇ ਵੀ ਢੁੱਕਵੀਂ ਸਰਵਿਸ (ਜਾਂ ਸਰਵਿਸਾਂ) ਬਾਰੇ ਲਿੰਕ ">
+<!ENTITY rights.intro-point4b-unbranded "ਵੈੱਬ ਸਾਈਟ ਸਰਵਿਸਾਂ">
+<!ENTITY rights.intro-point4c-unbranded " ਸ਼ੈਕਸ਼ਨ ਨਾਲ ਸਬੰਧਿਤ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।">
 
 <!ENTITY rights2.webservices-header "&brandFullName; ਵੈੱਬ-ਅਧਾਰਿਤ ਜਾਣਕਾਰੀ ਸਰਵਿਸਾਂ">
 
@@ -59,7 +63,6 @@
 <!ENTITY rights.safebrowsing-b "ਸੁਰੱਖਿਅਤ ਬਰਾਊਜ਼ਿੰਗ ਫੀਚਰ ਨੂੰ ਬੰਦ ਕਰਨਾ ਸਿਫਾਰਸ਼ੀ ਨਹੀਂ ਹੈ, ਕਿਉਂਕਿ ਇਸ ਨਾਲ ਤੁਸੀਂ ਅਸੁਰੱਖਿਅਤ ਵੈੱਬਸਾਈਟਾਂ ਉੱਤੇ ਜਾ ਸਕਦੇ ਹੋ। ਜੇ ਤੁਸੀਂ ਇਹ ਫੀਚਰ ਨੂੰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਹੇਠ ਦਿੱਤੇ ਸਟੈਪ ਹਨ:">
 <!ENTITY rights.safebrowsing-term1 "ਐਪਲੀਕੇਸ਼ਨ ਪਸੰਦ ਖੋਲ੍ਹੋ">
 <!ENTITY rights.safebrowsing-term2 "ਸੁਰੱਖਿਆ ਚੋਣ ਚੁਣੋ">
-<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; ਅਤੇ &quot;&blockWebForgeries.label;&quot; ਦੀ ਚੋਣ ਹਟਾ ਦਿਓ।">
 <!ENTITY rights.safebrowsing-term4 "ਸੁਰੱਖਿਅਤ ਬਰਾਊਜ਼ਿੰਗ ਹੁਣ ਬੰਦ ਹੋ ਜਾਵੇਗੀ">
 
 <!-- location aware browsing points for branded builds -->
@@ -70,11 +73,6 @@
 <!ENTITY rights.locationawarebrowsing-term2 "ਲਿਖੋ geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "geo.enabled ਪਸੰਦ ਉੱਤੇ ਦੋ ਵਾਰ ਕਲਿੱਕ ਕਰੋ">
 <!ENTITY rights.locationawarebrowsing-term4 "ਟਿਕਾਣਾ-ਜਾਣੂ ਬਰਾਊਜ਼ਿੰਗ ਹੁਣ ਬੰਦ ਹੋ ਜਾਵੇਗੀ">
-
-<!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "ਜੇ ਇਹ ਪਰੋਡੱਕਟ ਵਿੱਚ ਕੋਈ ਵੀ ਵੈੱਬ ਸਰਵਿਸ ਸ਼ਾਮਲ ਹੈ ਤਾਂ ਕਿਸੇ ਵੀ ਢੁੱਕਵੀਂ ਸਰਵਿਸ (ਜਾਂ ਸਰਵਿਸਾਂ) ਬਾਰੇ ਲਿੰਕ ">
-<!ENTITY rights.intro-point4b-unbranded "ਵੈੱਬ ਸਾਈਟ ਸਰਵਿਸਾਂ">
-<!ENTITY rights.intro-point4c-unbranded " ਸ਼ੈਕਸ਼ਨ ਨਾਲ ਸਬੰਧਿਤ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "ਵੈੱਬ ਸਰਵਿਸਾਂ, ਜੋ ਕਿ ਪਰੋਡੱਕਟ ਵਿੱਚ ਹਨ, ਬਾਰੇ ਸੰਖੇਪ ਜਾਣਕਾਰੀ, ਜਿਸ ਵਿੱਚ ਉਨ੍ਹਾਂ ਨੂੰ ਬੰਦ ਕਰਨ ਬਾਰੇ ਹਦਾਇਤਾਂ ਵੀ ਹਨ, ਜੇ ਲੋੜ ਪਵੇ ਤਾਂ, ਇੱਥੇ ਸ਼ਾਮਲ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ।">

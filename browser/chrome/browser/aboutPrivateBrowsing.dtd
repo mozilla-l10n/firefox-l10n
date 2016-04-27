@@ -2,18 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਤੌਰ ਉੱਤੇ ਬਰਾਊਜ਼ ਕਰ ਰਹੇ ਹੋ">
-<!ENTITY aboutPrivateBrowsing.title.normal     "ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਖੋਲ੍ਹਣੀ ਹੈ?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ਇਸ ਵਿੰਡੋ ਲਈ ਕੋਈ ਵੀ ਅਤੀਤ ਯਾਦ ਨਹੀਂ ਰੱਖੇਗਾ।">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਬਾਰੇ ਕੋਈ ਵੀ ਅਤੀਤ ਯਾਦ ਨਹੀਂ ਰੱਖੇਗਾ।">
-
-<!ENTITY aboutPrivateBrowsing.description      "ਉਸ ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੀਤ, ਖੋਜ ਅਤੀਤ, ਡਾਊਨਲੋਡ ਅਤੀਤ, ਵੈੱਬ ਫਾਰਮ ਅਤੀਤ, ਕੂਕੀਜ਼ ਤੇ ਆਰਜ਼ੀ ਇੰਟਰਨੈੱਟ ਫਾਈਲਾਂ ਸ਼ਾਮਿਲ ਹਨ। ਪਰ ਤੁਹਾਡੇ ਵਲੋਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਈਲਾਂ ਤੇ ਕੀਤੇ ਗਏ ਬੁੱਕਮਾਰਕ ਰੱਖੇ ਜਾਣਗੇ।">
-
-<!ENTITY aboutPrivateBrowsing.notPrivate       "ਇਸ ਸਮੇਂ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨਹੀਂ ਵਰਤ ਰਹੇ ਹੋ।">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "ਬੇਸ਼ੱਕ ਤੁਹਾਡਾ ਕੰਪਿਊਟਰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਦਾ ਕੋਈ ਵੀ ਰਿਕਾਰਡ ਨਹੀਂ ਰੱਖੇਗਾ, ਪਰ ਤੁਹਾਡੀ ਕੰਪਨੀ ਜਾਂ ਇੰਟਰਨੈੱਟ ਸੇਵਾ ਦੇਣ ਵਾਲਾ ਫਿਰ ਵੀ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼ਿਆਂ ਦੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਹਾਸਿਲ ਕਰ ਸਕਦਾ ਹੈ।">
-<!ENTITY aboutPrivateBrowsing.learnMore        "ਹੋਰ ਜਾਣੋ">
-
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਖੋਲ੍ਹੋ">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "ਇਸ ਸਮੇਂ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨਹੀਂ ਵਰਤ ਰਹੇ ਹੋ।">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਖੋਲ੍ਹੋ">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+
+
