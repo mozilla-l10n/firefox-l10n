@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "Setare &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "Bun venit! Dacă n-ați mai folosit &syncBrand.fullName.label;, va trebui să creați un cont nou.">
 <!ENTITY button.createNewAccount.label "Creează un cont nou">
 <!ENTITY button.haveAccount.label      "Am un cont">
 
 <!ENTITY setup.choicePage.title.label     "Ați mai folosit &syncBrand.fullName.label;?">
-<!ENTITY setup.choicePage.new.label       "N-am mai folosit niciodată &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing2.label "Utilizez deja &syncBrand.shortName.label; pe alt dispozitiv">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Server">
@@ -38,7 +35,7 @@
 
 <!ENTITY setup.tosAgree1.label      "Sunt de acord cu">
 <!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Termenii serviciului">
+<!ENTITY setup.tosLink.label        "Termenii de utilizare a serviciului">
 <!ENTITY setup.tosAgree2.label      "și cu">
 <!ENTITY setup.ppLink.label         "Politică de confidențialitate">
 <!ENTITY setup.tosAgree3.label      "">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "Împerecheați un dispozitiv">
 <!ENTITY addDevice.showMeHow.label          "Arată-mi cum.">
-<!ENTITY addDevice.dontHaveDevice.label     "Nu am dispozitivul cu mine">
+
 <!ENTITY pairDevice.setup.description.label  "Pentru activare, selectați „Împerecheați un dispozitiv” de pe celălalt dispozitiv.">
 <!ENTITY addDevice.setup.enterCode.label    "Apoi introduceți acest cod:">
 <!ENTITY pairDevice.dialog.description.label "Pentru a activa noul dispozitiv, selectați „Setați sincronizarea” pe celălalt dispozitiv.">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "Suplimente">
 <!ENTITY engine.addons.accesskey    "S">
 
-<!ENTITY choice2a.merge.main.label       "Îmbină datele de pe acest dispozitiv cu datele &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Recomandat:">
 <!ENTITY choice2a.client.main.label      "Înlocuiește toate datele de pe acest dispozitiv cu datele &syncBrand.shortName.label;">
-<!ENTITY choice2a.server.main.label      "Înlocuiește datele de pe toate dispozitivele cu datele de pe acest dispozitiv">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Confirmare">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; va îmbina acum toate datele browserului de pe acest dispozitiv cu contul de sincronizare.">
+
 <!ENTITY confirm.client3.label         "Atenție: Următoarele date &brandShortName; de pe acest dispozitiv vor fi șterse:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; va copia datele &syncBrand.fullName.label; pe acest dispozitiv.">
 <!ENTITY confirm.server2.label         "Atenție: Următoarele dispozitive vor fi suprascrise cu datele dumneavoastră locale:">

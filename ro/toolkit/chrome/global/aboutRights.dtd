@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Dezactivarea funcționalității Navigare în siguranță nu este recomandată deoarece ar putea avea ca rezultat accesarea de site-uri nesigure.  Dacă doriți să dezactivați această funcționalitate, urmați acești pași:">
 <!ENTITY rights.safebrowsing-term1 "Deschideți preferințele aplicației">
 <!ENTITY rights.safebrowsing-term2 "Selectați secțiunea Securitate">
-<!ENTITY rights.safebrowsing-term3 "Debifați opțiunile „&blockAttackSites.label;” și „&blockWebForgeries.label;”">
+
 <!ENTITY rights.safebrowsing-term4 "Navigarea în siguranță este acum dezactivată">
 <!-- location aware browsing points for branded builds -->
 

@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Fișierul nu a fost găsit">
 <!ENTITY fileNotFound.longDesc "<ul><li>Se poate ca acesta să fi fost redenumit, mutat sau șters?</li><li>Adresa conține vreo eroare de tastare, sau majuscule în loc de minuscule ori invers?</li><li>Aveți suficiente drepturi de acces la fișierul cerut?</li></ul>">
 
+
+
 <!ENTITY generic.title "Nu se poate duce la capăt cererea">
 <!ENTITY generic.longDesc "<p>Momentan nu sunt disponibile informații suplimentare despre această problemă sau eroare.</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "XUL la distanță">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Vă rugăm să contactați proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -46,7 +46,7 @@
 <!ENTITY unlinkDevice.label           "Dezasociază acest dispozitiv">
 <!-- Footer stuff -->
 
-<!ENTITY prefs.tosLink.label        "Termenii serviciului">
+<!ENTITY prefs.tosLink.label        "Termenii de utilizare a serviciului">
 <!ENTITY prefs.ppLink.label         "Politică de confidențialitate">
 <!-- Firefox Accounts stuff -->
 

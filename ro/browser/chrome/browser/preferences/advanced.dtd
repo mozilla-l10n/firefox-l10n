@@ -66,10 +66,10 @@
 <!ENTITY limitCacheSizeBefore.label      "Limitează memoria cache la">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB din spațiu">
-<!ENTITY clearCacheNow.label             "Curăță acum">
+<!ENTITY clearCacheNow.label             "Șterge acum">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "Curăță acum">
-<!ENTITY clearOfflineAppCacheNow.accesskey "m">
+<!ENTITY clearOfflineAppCacheNow.label   "Șterge acum">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Ignoră gestionarea automată a cache-ului">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 

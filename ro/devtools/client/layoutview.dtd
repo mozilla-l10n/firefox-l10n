@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "Model casetă">
-<!ENTITY margin.tooltip         "margine">
-<!ENTITY border.tooltip         "bordură">
-<!ENTITY padding.tooltip        "umplutură">
-<!ENTITY content.tooltip        "conținut">
+<!ENTITY layoutViewTitle          "Model casetă">
+<!ENTITY margin.tooltip           "margine">
+<!ENTITY border.tooltip           "bordură">
+<!ENTITY padding.tooltip          "umplutură">
+<!ENTITY content.tooltip          "conținut">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
