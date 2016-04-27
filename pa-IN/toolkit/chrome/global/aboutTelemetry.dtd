@@ -36,6 +36,9 @@ Current ping data
 Archived ping data
 ">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Show subsession data
 ">
@@ -51,6 +54,7 @@ Choose ping:
 <!ENTITY aboutTelemetry.showOlderPing "
 Older ping &gt;&gt;
 ">
+
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Week
@@ -104,9 +108,6 @@ Ping
   ਲੇਟ ਲਿਖਣਾ
 ">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  ਸਿਸਟਮ ਜਾਣਕਾਰੀ
-">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
   ਐਡ-ਆਨ ਵਲੋਂ ਇੱਕਠੇ ਕੀਤੇ ਆਇਤਗਾਰਫ਼
@@ -135,3 +136,5 @@ Ping
 <!ENTITY aboutTelemetry.filterText "
   ਫਿਲਟਰ (ਸਤਰ ਜਾਂ /regexp/)
 ">
+
+

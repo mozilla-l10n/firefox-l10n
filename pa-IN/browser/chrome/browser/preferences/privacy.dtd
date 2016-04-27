@@ -2,20 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionLearnMore.label    "ਹੋਰ ਜਾਣੋ">
 
 <!ENTITY tracking.label                 "ਟਰੈਕਿੰਗ">
 
-<!ENTITY dntTrackingNotOkay.label2      "ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾਣਾ ਚਾਹੁੰਦਾ ਹਾਂ">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "ਸਾਈਟਾਂ ਨੂੰ ਮੈਨੂੰ ਟਰੈਕ ਕਰਨ ਤੋਂ ਰੋਕੋ">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "ਹੋਰ ਜਾਣੋ">
-<!ENTITY doNotTrackInfo.label           "ਹੋਰ ਜਾਣੋ">
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  history.label                 "ਅਤੀਤ">
 
 <!ENTITY  locationBar.label             "ਟਿਕਾਣਾ ਪੱਟੀ">
-
 
 <!ENTITY  locbar.suggest.label          "ਜਦੋਂ ਟਿਕਾਣਾ ਪੱਟੀ ਵਰਤੀ ਜਾਂਦੀ ਹੈ ਤਾਂ ਸੁਝਾਅ ਦਿਉ:">
 <!ENTITY  locbar.history.label          "ਅਤੀਤ">
@@ -40,14 +36,12 @@
 
 <!ENTITY  expire.label                  "ਉਨ੍ਹਾਂ ਦੀ ਮਿਆਦ ਹੋਵੇ">
 <!ENTITY  close.label                   "ਜਦੋਂ ਮੈਂ &brandShortName; ਬੰਦ ਕਰਾਂ">
-<!ENTITY  askEachTime.label             "ਮੈਨੂੰ ਹਰ ਵਾਰ ਪੁੱਛੋ">
 
 <!ENTITY  cookieExceptions.label        "ਛੋਟ…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
 <!ENTITY  showCookies.label             "ਕੂਕੀਜ਼ ਵੇਖੋ…">
 <!ENTITY  showCookies.accesskey         "S">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ਯਾਦ ਰੱਖੇਗਾ:">
 <!ENTITY  historyHeader.pre.accesskey      "F">

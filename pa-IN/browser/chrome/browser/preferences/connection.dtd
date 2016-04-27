@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 
 <!ENTITY  connectionsDialog.title       "ਕੁਨੈਕਸ਼ਨ ਸੈਟਿੰਗ">
-<!ENTITY window.width                   "37em">
+<!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "ਇੰਟਰਨੈਟ ਵਰਤਣ ਲਈ ਪਰਾਕਸੀ ਸੰਰਚਨਾ">
 <!ENTITY  noProxyTypeRadio.label        "ਪਰਾਕਸੀ ਨਹੀਂ">
 <!ENTITY  noProxyTypeRadio.accesskey    "x">
-
 <!ENTITY  systemTypeRadio.label         "ਸਿਸਟਮ ਪਰਾਕਸੀ ਸੈਟਿੰਗ ਵਰਤੋਂ">
 <!ENTITY  systemTypeRadio.accesskey     "y">
 <!ENTITY  WPADTypeRadio.label           "ਇਸ ਨੈੱਟਵਰਕ ਲਈ ਪਰਾਕਸੀ ਦੀ ਖੋਜ ਖੁਦ ਕਰੋ">
@@ -18,7 +18,6 @@
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "ਆਟੋਮੈਟਿਕ ਪਰਾਕਸੀ ਸੰਰਚਨਾ URL:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
-
 <!ENTITY  reload.label                  "ਮੁੜ ਲੋਡ">
 <!ENTITY  reload.accesskey              "l">
 <!ENTITY  ftp.label                     "FTP ਪਰਾਕਸੀ:">
