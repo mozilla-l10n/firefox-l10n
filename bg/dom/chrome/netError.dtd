@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Файлът не е намерен">
 <!ENTITY fileNotFound.longDesc "<ul><li>Дали ресурсът не е преименуван, премахнат или преместен?</li><li>Има ли грешка в правописа, изпизването с големи/малки букви или друга типографска грешка?</li><li>Имате ли достатъчно права за достъп до желания ресурс?</li></ul>">
 
+
+
 <!ENTITY generic.title "Заявката не може да бъде завършена">
 <!ENTITY generic.longDesc "<p>Допълнителна информация за този проблем или грешка в момента не е налична.</p>">
 
@@ -78,3 +80,6 @@
 
 <!ENTITY remoteXUL.title "Отдалечен XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, свържете се със собственика на страницата и го информирайте за този проблем.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
