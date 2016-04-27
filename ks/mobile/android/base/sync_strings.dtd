@@ -31,103 +31,23 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "ٹیگس">
 <!ENTITY bookmarks.folder.toolbar.label "بوکمارکس ٹولبار">
-<!ENTITY bookmarks.folder.unfiled.label "شیرناے بوکمارکس">
+
 <!ENTITY bookmarks.folder.desktop.label "ڈیسکٹوپ بوکمارکس">
 <!ENTITY bookmarks.folder.mobile.label "موبایل بوکمارکس">
-<!ENTITY bookmarks.folder.readinglist.label "پرنُک پرچء">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "پن کرتھ">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "سیٹ اپ کریو &syncBrand.shortName.label; ٹیبس سوزنء کھیترء">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "پنّس ڈوایسس پٹھ کریو سیٹ اپ &syncBrand.fullName.label;  ٹیبس بیکس ڈوایسس سوزنء کھیترء۔">
-<!ENTITY sync.text.tab.sent.label "تہنز ٹیب آیء سوزنء!">
-<!ENTITY sync.text.tab.not.sent.label "تہنز ٹیب سوزن دوران آے پریشینی۔">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "فایرفوکس اکاونٹس">
-
-<!ENTITY fxaccount_custom_server_account_title "سرورس پٹھ اکاونٹ چلاوان">
-<!ENTITY fxaccount_custom_server_sync_title "سرورس پٹھ سینک ڈاٹا جمع کران">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "ایمیل">
-
-<!ENTITY fxaccount_password_hide "چھپایو">
-<!ENTITY fxaccount_password_show "ھایو">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "برازنگ پٹھ واپس">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "سروسک اصول">
-<!ENTITY fxaccount_policy_linkprivacy "رازداریک پرچی">
+<!ENTITY fxaccount_back_to_browsing "برازنگ پٹھ واپس">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "خیرمقدم &syncBrand.shortName.label;س منز ">
 
 <!ENTITY fxaccount_getting_started_get_started "شروع کریو">
 <!ENTITY fxaccount_getting_started_old_firefox "کیا تویہ چھو &syncBrand.shortName.label;ک پرون ورجن استمال کران؟">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
-
-<!ENTITY fxaccount_create_account_header2 "بنایو فایرفوکس اکاونٹ">
-<!ENTITY fxaccount_create_account_password_length_restriction "کم سے کم گس 8 الفاظ آسن">
-<!ENTITY fxaccount_create_account_day_of_birth "دوہ">
-<!ENTITY fxaccount_create_account_month_of_birth "ریتھ">
-<!ENTITY fxaccount_create_account_year_of_birth "زنیُک وری">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "بروہ پکنہ ستھ چھس بہ فایرفوکس کلاوڈ سروسک &formatS1; تہ &formatS2; مانان۔">
-<!ENTITY fxaccount_create_account_button "امہ پتہ">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "چنیو کیاہ چھو سینک کرُن">
-<!ENTITY fxaccount_create_account_sign_in_instead "گوڈای چہا اکاونٹ؟ نتہ کریو ساین ان">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 یا امہ بروہ">
-<!ENTITY fxaccount_create_account_unknown_error "اکاونٹ بناون گونہ کامیاب ">
-
-<!ENTITY fxaccount_account_create_not_allowed "اکاونٹ ہیکنہ بنتھ">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "اکاونٹ بناونئ کھآترء چھ وآنسئ مقرر">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "بیئ حیچھیو">
-
-<!ENTITY fxaccount_confirm_account_header "اکاونت کریو کنفرم">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "اکھ ویرئفکیشن لنک آیئ &formatS; پٹھ سوزنہ">
-<!ENTITY fxaccount_confirm_account_resend_email "واپس سوزیو ایمیل">
-<!ENTITY fxaccount_confirm_account_change_email "مشرایو یِ ایمیل اڈرس؟">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "ایمعلچ ویرِفِکیشن آیئ سوزنہ">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "ایمیلچ ویرئفکیشن آیئ نہ سوزنہ">
-<!ENTITY fxaccount_resend_unlock_code_button_label "بیی سوزیو یلہ کرنُک ایمیل">
-<!ENTITY fxaccount_unlock_code_sent "اکاونٹ یلہ کرنُک ایمیل آو سوزنہ">
-<!ENTITY fxaccount_unlock_code_not_sent "اکاونٹ یلہ کرنُک ایمیل آونہ سوزنہ">
-
-<!ENTITY fxaccount_sign_in_sub_header "ساین ان">
-<!ENTITY fxaccount_sign_in_button_label "ساین ان">
-<!ENTITY fxaccount_sign_in_forgot_password "پاسوءڈ مشرایو">
-<!ENTITY fxaccount_sign_in_create_account_instead "اکاونٹ بنایو">
-<!ENTITY fxaccount_sign_in_unknown_error "ساین ان آونہ کرنہ">
-
-<!ENTITY fxaccount_account_verified_sub_header "اکاونٹ آو ویرِفای کرنہ">
-<!ENTITY fxaccount_account_verified_description2 "تُہند ڈاٹا گسہ کئنہ وقت گستھ پانئ سنک">
-
-<!ENTITY fxaccount_migration_finished_header "اپڈیٹ گو مئکمل">
-
-<!ENTITY fxaccount_update_credentials_header "ساین ان">
-<!ENTITY fxaccount_update_credentials_button_label "ساین ان">
-<!ENTITY fxaccount_update_credentials_unknown_error "ساین ان آونہ کرنہ">
-
-<!ENTITY fxaccount_finish_migrating_header "ساین ان کریو اپگریڈنگ مکمل کرنہ کھئترء ">
-<!ENTITY fxaccount_finish_migrating_button_label "اپگریڈنگ سپدیو">
-<!ENTITY fxaccount_finish_migrating_description "اپگریڈنگ ہیکہ واریاہ ڈاٹا استئمال کرتھ۔ بہتر روزیو وای-فای نٹورک استمال کرن۔">
-
-<!ENTITY fxaccount_status_header2 "فایرفوکس اکاونٹ">
 
 
 <!ENTITY fxaccount_status_auth_server "اکاونٹ سرور">
@@ -152,8 +72,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "سروسک اصول">
-<!ENTITY fxaccount_status_linkprivacy "رازداریک پرچی">
+
 <!ENTITY fxaccount_status_more "مزید&ellipsis;">
 
 
@@ -184,12 +103,8 @@
 
 
 
-
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-

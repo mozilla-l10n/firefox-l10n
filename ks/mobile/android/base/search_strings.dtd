@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "ساف کریو سورِوی مازی یم ڈویس پٹھ">
 <!ENTITY pref_clearHistory_title "ساف کرو مازی سرچ">
 
-<!ENTITY pref_searchProvider_title "سرچ اینجن">
-
 <!ENTITY search_widget_button_label "ژانڈو">
 
 <!ENTITY network_error_title "انٹرنٹ کنکشن چھنء موجودی">
