@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "Voleu suprimir tot l\u0027historial de cerca d\u0027aquest dispositiu?">
 <!ENTITY pref_clearHistory_title "Neteja l\u0027historial de cerca">
 
-<!ENTITY pref_searchProvider_title "Motor de cerca">
-
 <!ENTITY search_widget_button_label "Cerca">
 
 <!ENTITY network_error_title "No hi ha connexió a Internet">

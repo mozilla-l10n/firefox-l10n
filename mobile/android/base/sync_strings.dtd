@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiquetes">
 <!ENTITY bookmarks.folder.toolbar.label "Barra d\u0027eines de les adreces">
-<!ENTITY bookmarks.folder.unfiled.label "Adreces desordenades">
+
 <!ENTITY bookmarks.folder.desktop.label "Adreces d\u0027escriptori">
 <!ENTITY bookmarks.folder.mobile.label "Adreces del mòbil">
-<!ENTITY bookmarks.folder.readinglist.label "Llista de lectura">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Fixes">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Configura el &syncBrand.shortName.label; per enviar pestanyes">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Configura el &syncBrand.fullName.label; en el dispositiu per enviar pestanyes a d\u0027altres.">
-<!ENTITY sync.text.tab.sent.label "S\u0027ha enviat la pestanya.">
-<!ENTITY sync.text.tab.not.sent.label "S\u0027ha produït un problema en enviar la pestanya.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "Comptes del Firefox">
-
-<!ENTITY fxaccount_custom_server_account_title "S\u0027està utilitzant un compte del servidor">
-<!ENTITY fxaccount_custom_server_sync_title "S\u0027estan desant dades del Sync al servidor">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "Adreça electrònica">
-<!ENTITY fxaccount_password_hint "Contrasenya">
-<!ENTITY fxaccount_password_hide "Amaga">
-<!ENTITY fxaccount_password_show "Mostra">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "Reprèn la navegació">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Condicions del servei">
-<!ENTITY fxaccount_policy_linkprivacy "Avís de privadesa">
+<!ENTITY fxaccount_back_to_browsing "Reprèn la navegació">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Us donem la benvinguda al &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "Inicieu la sessió per sincronitzar les pestanyes, adreces d\u0027interès, dades d\u0027inici de sessió i més.">
 <!ENTITY fxaccount_getting_started_get_started "Inici">
 <!ENTITY fxaccount_getting_started_old_firefox "Utilitzeu una versió antiga del &syncBrand.shortName.label;?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "Creeu un compte del Firefox">
-<!ENTITY fxaccount_create_account_password_length_restriction "Ha de tenir com a mínim 8 caràcters">
-<!ENTITY fxaccount_create_account_day_of_birth "Dia">
-<!ENTITY fxaccount_create_account_month_of_birth "Mes">
-<!ENTITY fxaccount_create_account_year_of_birth "Any de naixement">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "En continuar, accepto les &formatS1; i l\u0027&formatS2; dels serveis al núvol del Firefox.">
-<!ENTITY fxaccount_create_account_button "Següent">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Trieu què voleu sincronitzar">
-<!ENTITY fxaccount_create_account_sign_in_instead "Ja teniu un compte? Inicieu la sessió">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 o anterior">
-<!ENTITY fxaccount_create_account_unknown_error "No s\u0027ha pogut crear el compte">
-
-<!ENTITY fxaccount_account_create_not_allowed "No es pot crear el compte">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Cal complir certs requisits d\u0027edat per crear un compte.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Més informació">
-
-<!ENTITY fxaccount_confirm_account_header "Confirmeu el vostre compte">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "S\u0027ha enviat un enllaç de verificació a &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Reenvia el missatge">
-<!ENTITY fxaccount_confirm_account_change_email "Voleu oblidar aquesta adreça electrònica?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "S\u0027ha enviat el missatge de verificació">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "No s\u0027ha pogut enviar el missatge de verificació">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Torna a enviar el correu de desbloqueig">
-<!ENTITY fxaccount_unlock_code_sent "S\u0027ha enviat el correu de desbloqueig del compte">
-<!ENTITY fxaccount_unlock_code_not_sent "No s\u0027ha pogut enviar el correu de desbloqueig del compte">
-
-<!ENTITY fxaccount_sign_in_sub_header "Inicia la sessió">
-<!ENTITY fxaccount_sign_in_button_label "Inicia la sessió">
-<!ENTITY fxaccount_sign_in_forgot_password "Heu oblidat la contrasenya?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Crea un compte">
-<!ENTITY fxaccount_sign_in_unknown_error "No s\u0027ha pogut iniciar la sessió">
-
-<!ENTITY fxaccount_account_verified_sub_header "S\u0027ha verificat el compte">
-<!ENTITY fxaccount_account_verified_description2 "La sincronització de les vostres dades s\u0027iniciarà d\u0027aquí uns instants.">
-
-<!ENTITY fxaccount_migration_finished_header "Actualització finalitzada.">
-
-<!ENTITY fxaccount_update_credentials_header "Inicia la sessió">
-<!ENTITY fxaccount_update_credentials_button_label "Inicia la sessió">
-<!ENTITY fxaccount_update_credentials_unknown_error "No s\u0027ha pogut iniciar la sessió">
-
-<!ENTITY fxaccount_finish_migrating_header "Inicieu la sessió per acabar l\u0027actualització">
-<!ENTITY fxaccount_finish_migrating_button_label "Acaba l\u0027actualització">
-<!ENTITY fxaccount_finish_migrating_description "L\u0027actualització pot fer que es transfereixin moltes dades. És millor ser que ho feu des d\u0027una xarxa Wi-Fi.">
-
-<!ENTITY fxaccount_status_header2 "Compte del Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Sessió iniciada com a">
 <!ENTITY fxaccount_status_manage_account "Gestiona el compte">
 <!ENTITY fxaccount_status_auth_server "Servidor de comptes">
@@ -154,8 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "Condicions del servei">
-<!ENTITY fxaccount_status_linkprivacy "Avís de privadesa">
+
 <!ENTITY fxaccount_status_more "Més&ellipsis;">
 <!ENTITY fxaccount_remove_account "Desconnecta&ellipsis;">
 
@@ -192,7 +112,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "El servidor està ocupat, torneu-ho a provar">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "El servidor està ocupat, torneu-ho a provar">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "S\u0027ha produït un problema">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "No s\u0027ha pogut connectar a la xarxa">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "El compte està bloquejat. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "El &syncBrand.shortName.label; no està connectat">
@@ -204,8 +123,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Toqueu per iniciar la sessió com a &formatS;">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
-<!ENTITY old_sync_deprecated_notification_title "Inicieu la sessió per continuar la sincronització">
-<!ENTITY old_sync_deprecated_notification_content "El vostre compte ja no és compatible">
