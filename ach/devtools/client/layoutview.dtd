@@ -16,8 +16,11 @@
 
 
 
-<!ENTITY layoutViewTitle        "Kit canduk">
-<!ENTITY margin.tooltip         "lake">
-<!ENTITY border.tooltip         "twoke">
-<!ENTITY padding.tooltip        "yabo kabedo">
-<!ENTITY content.tooltip        "gin ma nonge iye">
+<!ENTITY layoutViewTitle          "Kit canduk">
+<!ENTITY margin.tooltip           "lake">
+<!ENTITY border.tooltip           "twoke">
+<!ENTITY padding.tooltip          "yabo kabedo">
+<!ENTITY content.tooltip          "gin ma nonge iye">
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->

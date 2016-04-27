@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "Kare mukene i twero medo dwiro me cano kun i kobo">
 <!ENTITY csscoverage.optimize.body2 "coc i te pot buk kadong i cweyo rek ma iye manyen">
-<!ENTITY csscoverage.optimize.body3 "jami matye ki kit mite manongo pudi gin matye katime me 'cano' bot iwiye. Magi aye kit matapwali ma imito:">
+
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

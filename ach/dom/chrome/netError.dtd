@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Pwail Pe ononge">
 <!ENTITY fileNotFound.longDesc "<ul><li>I tamo ni kiloko nying jami, ki kyanyo, onyo kikobo woko?</li><li>Nukta mo tye, madongo, onyo cal mogo me bal i address?</li><li>Onyo itye ki twero manok me donyo i jami ma kikwayo?</li></ul>">
 
+
+
 <!ENTITY generic.title "Pe romo Tyeko Kwac">
 <!ENTITY generic.longDesc "<p>Ngec mukene mapol makwako peko man onyo bal kombedi pe nonge.</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "XUL Mape kiwaya">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tim ber i kube ki wegi kakube ne me mini gi ngec pi peko man.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "Dirica &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "Waciti!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Loc!">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Kikwanyo med-ikome ki yik mamegi woko ki ter me layeny mamegi kidwoko i makwongo. Kace man pe oyubo peko, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "ngong ngec mapol ikom ngo ma itwero timo.">
