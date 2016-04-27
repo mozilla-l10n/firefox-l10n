@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Tag">
 <!ENTITY bookmarks.folder.toolbar.label "Bilah Alat Markah">
-<!ENTITY bookmarks.folder.unfiled.label "Markah Belum Diurut">
+
 <!ENTITY bookmarks.folder.desktop.label "Markah Desktop">
 <!ENTITY bookmarks.folder.mobile.label "Markah Seluler">
-<!ENTITY bookmarks.folder.readinglist.label "Daftar Bacaan">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Permanen">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Siapkan &syncBrand.shortName.label; untuk mengirimkan tab">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Siapkan &syncBrand.fullName.label; di perangkat Anda untuk mengirimkan tab ke perangkat lainnya.">
-<!ENTITY sync.text.tab.sent.label "Tab Anda telah dikirim!">
-<!ENTITY sync.text.tab.not.sent.label "Terjadi masalah saat mengirimkan tab.">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "Firefox Account">
-
-<!ENTITY fxaccount_custom_server_account_title "Menggunakan akun pada server">
-<!ENTITY fxaccount_custom_server_sync_title "Menyimpan data Sync pada server">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "Email">
-<!ENTITY fxaccount_password_hint "Sandi">
-<!ENTITY fxaccount_password_hide "Sembunyikan">
-<!ENTITY fxaccount_password_show "Tampilkan">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "Kembali menjelajah">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "Persyaratan Layanan">
-<!ENTITY fxaccount_policy_linkprivacy "Ketentuan Privasi">
+<!ENTITY fxaccount_back_to_browsing "Kembali menjelajah">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Selamat datang di &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "Masuk untuk menyinkronkan data tab, markah, info masuk &amp; yang lain.">
 <!ENTITY fxaccount_getting_started_get_started "Memulai">
 <!ENTITY fxaccount_getting_started_old_firefox "Menggunakan versi lawas &syncBrand.shortName.label;?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "Buat Akun Firefox">
-<!ENTITY fxaccount_create_account_password_length_restriction "Paling sedikit 8 huruf">
-<!ENTITY fxaccount_create_account_day_of_birth "Tanggal">
-<!ENTITY fxaccount_create_account_month_of_birth "Bulan">
-<!ENTITY fxaccount_create_account_year_of_birth "Tahun lahir">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Dengan melanjutkan, saya menyetujui &formatS1; dan &formatS2; layanan awan Firefox.">
-<!ENTITY fxaccount_create_account_button "Lanjut">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Pilih yang ingin disinkronkan">
-<!ENTITY fxaccount_create_account_sign_in_instead "Sudah punya akun? Masuk">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 atau sebelumnya">
-<!ENTITY fxaccount_create_account_unknown_error "Tidak dapat membuat akun">
-
-<!ENTITY fxaccount_account_create_not_allowed "Tidak dapat membuat akun">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Anda harus memeuhi persyaratan usia untuk membuat akun.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Pelajari lebih lanjut">
-
-<!ENTITY fxaccount_confirm_account_header "Konfirmasukan akun Anda">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "Tautan verifikasi telah dikirim ke &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Kirim ulang emailnya">
-<!ENTITY fxaccount_confirm_account_change_email "Lupa alamat email ini?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Email verifikasi dikirim">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Tidak dapat mengirim email verifikasi">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Kirim ulang email pembuka kunci">
-<!ENTITY fxaccount_unlock_code_sent "Email pembukaan akun dikirim">
-<!ENTITY fxaccount_unlock_code_not_sent "Tidak dapat mengirimkan email pembukaan akun">
-
-<!ENTITY fxaccount_sign_in_sub_header "Masuk">
-<!ENTITY fxaccount_sign_in_button_label "Masuk">
-<!ENTITY fxaccount_sign_in_forgot_password "Lupa sandi?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Buat akun">
-<!ENTITY fxaccount_sign_in_unknown_error "Tidak dapat masuk">
-
-<!ENTITY fxaccount_account_verified_sub_header "Akun diverifikasi">
-<!ENTITY fxaccount_account_verified_description2 "Data akan disinkronkan sebentar lagi.">
-
-<!ENTITY fxaccount_migration_finished_header "Peningkatan selesai">
-
-<!ENTITY fxaccount_update_credentials_header "Masuk">
-<!ENTITY fxaccount_update_credentials_button_label "Masuk">
-<!ENTITY fxaccount_update_credentials_unknown_error "Tidak dapat masuk">
-
-<!ENTITY fxaccount_finish_migrating_header "Masuk untuk menyelesaikan peningkatan">
-<!ENTITY fxaccount_finish_migrating_button_label "Peningkatan selesai">
-<!ENTITY fxaccount_finish_migrating_description "Proses peningkatan mungkin mentransfer banyak data. Lebih baik lakukan lewat jaringan Wi-Fi.">
-
-<!ENTITY fxaccount_status_header2 "Akun Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Masuk sebagai">
 <!ENTITY fxaccount_status_manage_account "Kelola akun">
 <!ENTITY fxaccount_status_auth_server "Server akun">
@@ -154,8 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "Ketentuan Layanan">
-<!ENTITY fxaccount_status_linkprivacy "Kebijakan Privasi">
+
 <!ENTITY fxaccount_status_more "Lainnya&ellipsis;">
 <!ENTITY fxaccount_remove_account "Putuskan sambungan&ellipsis;">
 
@@ -192,7 +112,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Server sedang sibuk, coba lagi dalam beberapa saat">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Server sedang sibuk, coba lagi dalam beberapa saat">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Terjadi masalah">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Tidak dapat tersambung ke jaringan">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Akun terkunci. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; tidak tersambung">
@@ -204,8 +123,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Ketuk untuk masuk sebagai &formatS;">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
-<!ENTITY old_sync_deprecated_notification_title "Masuk untuk lanjut menyinkronkan">
-<!ENTITY old_sync_deprecated_notification_content "Akun Anda tidak lagi didukung">
