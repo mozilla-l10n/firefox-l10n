@@ -19,6 +19,9 @@
 <!ENTITY fileNotFound.title "Filen kan inte hittas">
 <!ENTITY fileNotFound.longDesc "<ul><li>Kan den ha fått ett annat namn, tagits bort eller flyttats?</li><li>Finns det stavfel eller andra typografiska fel i adressen?</li><li>Har du tillräckliga rättigheter till den efterfrågade posten?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Åtkomst till filen nekades">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Det kan ha tagits bort, flyttats eller filrättigheter kan hindra tillgång.</li></ul>">
+
 <!ENTITY generic.title "Kan inte fullborda förfrågan">
 <!ENTITY generic.longDesc "<p>Ytterligare information om det här problemet eller felet finns för närvarande inte.</p>">
 
@@ -78,3 +81,8 @@
 
 <!ENTITY remoteXUL.title "Extern XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakta ägaren av webbplatsen för att informera dem om detta problem.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Din anslutning är inte säker">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> använder säkerhetsteknologi som är föråldrad och sårbara för angrepp. En angripare kan lätt avslöja information som du tänkt ska vara säker. Webbplatsens administratör måste laga servern innan du kan besöka webbplatsen.</p><p>Felkod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
