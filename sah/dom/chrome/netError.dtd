@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "Билэ көстүбэтэ">
 <!ENTITY fileNotFound.longDesc "<ul><li>Баҕар пуун аата уларыйбыта, эбэтэр сотуллубута, атын сиргэ көһөрүллүбүтэ буолаарай?</li><li>Аадырыс сыыһалаах суруллубут буолуон эмиэ сөп.</li><li>Көрдөбүл оҥорор быраабыҥ суох буоллаҕына эмиэ моһуогуруон сөп.</li></ul>">
 
+
+
 <!ENTITY generic.title "Көрдөбүлү толорор сатаммата">
 <!ENTITY generic.longDesc "<p>Бу кыһалҕа эбэтэр алҕас туһунан эбии информация билигин суох.</p>">
 
@@ -77,3 +79,6 @@
 
 <!ENTITY remoteXUL.title "Тэйиччи XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ситим-сир бас билээччитигэр тахсан, бука диэн, бу туһунан кэпсээ эрэ.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -163,7 +163,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Бу сирэйгэ суруттар...">
 <!ENTITY addCurPagesCmd.label "Кыбытыктары барыларын бэлиэтээ...">
 <!ENTITY showAllBookmarks2.label "Бэлиэтэммити барытын көрдөр">
-<!ENTITY unsortedBookmarksCmd.label "Суортамматах бэлиэлэр">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Өссө бэлиэлэр">
 
 <!ENTITY backButton.tooltip           "Бу иннинээҕи сирэйгэ">
@@ -203,7 +204,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!ENTITY searchItem.title             "Көрдөөһүн">
 <!-- Toolbar items --> 
 
@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Бэлиэлэр">
-<!ENTITY bookmarksMenuButton.unsorted.label "Наардамматах бэлиэлэр">
+
 
 <!ENTITY viewBookmarksToolbar.label         "Бэлиэтиир тэрили көрдөр">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -242,73 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Ситим сир оҥорооччу">
 <!ENTITY webDeveloperMenu.accesskey   "С">
 
-<!ENTITY devToolsCmd.keycode          "VK_F2">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-
-
-<!ENTITY devtoolsConnect.label        "Холбонуу…">
-<!ENTITY devtoolsConnect.accesskey    "н">
-
-<!ENTITY errorConsoleCmd.label        "Алҕастар консоллара">
-<!ENTITY errorConsoleCmd.accesskey    "к">
-
-<!ENTITY remoteWebConsoleCmd.label    "Тэйиччи ситим-консоль">
-
-<!ENTITY browserConsoleCmd.label      "Браузер консола">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "Б">
-
 <!ENTITY inspectContextMenu.label     "Элэмиэни чинчий">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "Уларыйар дизайн">
-<!ENTITY responsiveDesignTool.accesskey "У">
-
-
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-
-<!ENTITY scratchpad.label             "JavaScript судургу эрэдээктэрэ">
-<!ENTITY scratchpad.accesskey         "J">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Сайыннарыы хапталын сап">
-<!ENTITY devToolbarMenu.label              "Сайыннарыы хаптала">
-<!ENTITY devToolbarMenu.accesskey          "а">
-
-
-
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Тэриллэрин көрдөр/кистээ">
-<!ENTITY devToolboxMenuItem.accesskey      "Т">
-
-
-<!ENTITY devToolbarToolsButton.tooltip     "Оҥорооччу тэриллэрин көрдөр/кистээ">
-<!ENTITY devToolbarOtherToolsButton.label  "Атын тэриллэр">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Атын үстүрүмүөннэр">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "ү">
 
 <!ENTITY fileMenu.label         "Билэ"> 
 <!ENTITY fileMenu.accesskey       "Б">
@@ -340,9 +275,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Кырый">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "К"> 
-<!ENTITY copyCmd.label            "Төгүллээ">  
+
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "Т"> 
+
 <!ENTITY pasteCmd.label           "Ук">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "У"> 
@@ -389,7 +324,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
@@ -397,6 +331,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -752,8 +687,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
+
+
+
+
+
+
+
 
 
 

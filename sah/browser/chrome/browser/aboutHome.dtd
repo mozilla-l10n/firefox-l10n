@@ -18,7 +18,6 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Firefox судургутук эн баҕаҕынан уларыйар кыахтаах. <a>Тыһыынчанан эбииликтэр бааллар</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; көҥүл туттуллар аһаҕас бырагыраама, барыс киллэриммэт Mozilla Foundation тэрилтэ оҥоруута. <a>Бэйэҥ быраапкын бил…</a>">
 

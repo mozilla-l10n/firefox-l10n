@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; туруоруулара">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "Манна киирбиккинэн! Урут хаһан да &syncBrand.fullName.label; туттубатах буоллаххына, саҥа аатынан бэлиэтэниэхтээххин.">
 <!ENTITY button.createNewAccount.label "Саҥа ааты бэлиэтээһин">
 <!ENTITY button.haveAccount.label      "Урут бэлиэтэммит ааттаахпын">
 
 <!ENTITY setup.choicePage.title.label     "Урут маны &syncBrand.fullName.label; тутта сылдьыбытыҥ дуо?">
-<!ENTITY setup.choicePage.new.label       "Урут маны &syncBrand.shortName.label; туһамматаҕым">
-<!ENTITY setup.choicePage.existing2.label "Маны &syncBrand.shortName.label; атын көмпүүтэргэ туһанабын">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Сиэрбэр">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "Тэрили кытта холбоһуу">
 <!ENTITY addDevice.showMeHow.label          "Хайдах гынары көрдөр.">
-<!ENTITY addDevice.dontHaveDevice.label     "Тэрилим бэйэбин кытта суох">
+
 <!ENTITY pairDevice.setup.description.label  "Холбуурга атын тэрилгэр «Соединиться с устройством» диэни тал.">
 <!ENTITY addDevice.setup.enterCode.label    "Онтон бу куоду киллэр:">
 <!ENTITY pairDevice.dialog.description.label "Саҥа тэрилгин холбуурга маны тал «Синхронизацияны иит».">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "Эбиискэлэр">
 <!ENTITY engine.addons.accesskey    "Э">
 
-<!ENTITY choice2a.merge.main.label       "Бу көмпүүтэр дааннайдарын маны &syncBrand.shortName.label; кытта холбуурга">
 <!ENTITY choice2.merge.recommended.label "Сүбэлэнэр:">
 <!ENTITY choice2a.client.main.label      "Бу көмпүүтэр дааннайдарын бу &syncBrand.shortName.label; дааннаайдарынан солбуй">
-<!ENTITY choice2a.server.main.label      "Бу көмпүүтэргэ баар дааннайдарынан атын тэриллэр дааннайдарын солбуй">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Бигэргэт">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; Эн көмпүүтэриҥ браузерыгар баар дааннайдары Sync аккауҥҥун кытта холбуо.">
+
 <!ENTITY confirm.client3.label         "Сэрэтии: Бу көмпүүтэртэн &brandShortName; дааннайдара сотуллуо:">
 <!ENTITY confirm.client2.moreinfo.label "Онтон &brandShortName; Эн көмпүүтэргиттэн &syncBrand.fullName.label; дааннайдарын сурунуо.">
 <!ENTITY confirm.server2.label         "Сэрэтии: Бу тэриллэр тустарынан дааннайдар уларытыллыахтара:">
