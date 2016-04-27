@@ -30,6 +30,3 @@ was trying to connect. -->
 <!ENTITY certerror.copyToClipboard.label "העתקת מלל">
 
 <!ENTITY errorReporting.automatic "דיווח על תקלות מסוג זה מסייע ל־Mozilla לזהות אתרים שלא הוגדרו כראוי">
-<!ENTITY errorReporting.sending "שליחת דיווח">
-<!ENTITY errorReporting.sent "שליחת הדיווח הושלמה">
-<!ENTITY errorReporting.tryAgain "לנסות שוב">
