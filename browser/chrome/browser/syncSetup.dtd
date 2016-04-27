@@ -4,15 +4,12 @@
 
 <!ENTITY accountSetupTitle.label    "إعداد &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
-
-
-<!ENTITY setup.pickSetupType.description2 "مرحبًا بك. إذا لم تكن قد استخدمت &syncBrand.fullName.label; من قبل، ستحتاج إلى إنشاء حساب جديد.">
 <!ENTITY button.createNewAccount.label "أنشئ حسابًا جديدًا">
 <!ENTITY button.haveAccount.label      "لديّ حساب">
 
 <!ENTITY setup.choicePage.title.label     "هل استخدمت &syncBrand.fullName.label; من قبل؟">
-<!ENTITY setup.choicePage.new.label       "لم أستخدم &syncBrand.shortName.label; من قبل">
-<!ENTITY setup.choicePage.existing2.label "أستخدم &syncBrand.shortName.label; حاليًا على جهاز آخر">
+
+
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "الخادوم">
@@ -60,7 +57,7 @@
 
 <!ENTITY pairDevice.title.label             "زاوج جهازًا">
 <!ENTITY addDevice.showMeHow.label          "أرني كيف.">
-<!ENTITY addDevice.dontHaveDevice.label     "الجهاز ليس معي الآن">
+
 <!ENTITY pairDevice.setup.description.label  "للتفعيل، اختر ”زاوج جهازًا“ في جهازك الآخر.">
 <!ENTITY addDevice.setup.enterCode.label    "ثم أدخِل هذا الرمز:">
 <!ENTITY pairDevice.dialog.description.label "لتفعيل جهازك الجديد، اختر ”إعداد تزامُن“ في الجهاز.">
@@ -96,14 +93,13 @@
 <!ENTITY engine.addons.label        "الإضافات">
 <!ENTITY engine.addons.accesskey    "ض">
 
-<!ENTITY choice2a.merge.main.label       "ادمج بيانات هذا الجهاز ببياناتي في &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "مُزكّى:">
 <!ENTITY choice2a.client.main.label      "استبدل بيانات هذا الجهاز ببياناتي في &syncBrand.shortName.label;">
-<!ENTITY choice2a.server.main.label      "استبدل بيانات الأجهزة الأخرى ببيانات هذا الجهاز">
+
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "تأكيد">
-<!ENTITY confirm.merge2.label    "سوف يدمج &syncBrand.fullName.label; الآن بيانات متصفح هذا الجهاز في حسابك على «تزامُن».">
+
 <!ENTITY confirm.client3.label         "تحذير: ستُحذف بيانات &brandShortName; التالية من هذا الجهاز:">
 <!ENTITY confirm.client2.moreinfo.label "ثم سينسخ &brandShortName; بياناتك في &syncBrand.fullName.label; إلى هذا الجهاز.">
 <!ENTITY confirm.server2.label         "تحذير: بيانات الأجهزة التالية ستُستبدل ببياناتك المحلية:">

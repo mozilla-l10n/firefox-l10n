@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "النافذة &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "هيا بنا">
 <!ENTITY welcomeback2.restoreButton.access "ه">
 
 <!ENTITY welcomeback2.tabtitle      "تم">
@@ -42,9 +38,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
-<!ENTITY welcomeback2.beforelink.pageInfo2  "أزيلت تخصيصاتك و إضافاتك و استرجعت إعدادات متصفحك المبدئية، ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "​">
 
 <!ENTITY welcomeback2.link.pageInfo2        "تعلم أكثر عما يمكنك فعله.">
@@ -52,9 +45,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "رحّل مجموعات الألسنة الأخرى">
-<!ENTITY tabgroupsmigration.pagetitle2          "لقد أزلنا مجموعات الألسنة، لكن حفظنا ألسنتك">
+
 <!ENTITY tabgroupsmigration.learnaboutaddons    "اعرف المزيد عن الإضافات البديلة لمجموعات الألسنة.">
-<!ENTITY tabgroupsmigration.description2        "علّم &brandShortName; كل مجموعاتك، لذا لم تفقد أي شيء.">
+
 <!ENTITY tabgroupsmigration.bookmarkbutton      "اعرض مجموعات الألسنة المعلّمة">
 <!ENTITY tabgroupsmigration.restoredescription  "يمكنك أيضًا أن تختار استعادة بعض أو كل مجموعات الخلفية إلى نوافذ الآن:">
 
