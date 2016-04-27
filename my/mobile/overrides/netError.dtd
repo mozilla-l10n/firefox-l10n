@@ -19,25 +19,23 @@
 <!ENTITY dnsNotFound.title "ဆာဗာကို မတွေ့ပါ">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>စာရိုက်မှားခြင်းအတွက် လိပ်စာကို စစ်ဆေးပါ။ အောက်ပါပုံစံအတိုင်း ဖြစ်နိုင်သည်။ <strong>www</strong>.example.com ကို ရိုက်ရမည့်အစား<strong>ww</strong>.example.com  ကဲ့သို့ ရိုက်ထားခြင်း</li><div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Search</button> </div> <li>အကယ်၍ မည်သည့်စာမျက်နှာမျှ မဖော်ပြနိုင်လျှင် သင့်ကိရိယာ၏ data သို့မဟုတ် Wi-Fi ချိတ်ဆက်မှုကို စစ်ဆေးပါ။ <button id='wifi'>Wi-Fi ကို ဖွင့်ရန်</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "ဖိုင် မတွေ့ရဘူး">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ဖိုင်နာမည်အား အကြီးစာလုံးပေးထားမိလားသို့အခြားပြဿနာရှီလားစစ်ပါ</li> <li>ဖိုင်အားဖျက်လိုက် သို့နာမည်ပြောင်းလိုက်လားစစ်ပါ </li> </ul>">
 
 
-<!ENTITY generic.title "တောင်းဆိုချက်ကို အပြီးမသတ်နိုင်ဘူး">
-<!ENTITY generic.longDesc "<p>&brandShortName; can't load this page for some reason.</p>">
 
-<!ENTITY malformedURI.title "မမှန်တဲ့ လိပ်စာ">
+<!ENTITY generic.title "တောင်းဆိုချက်ကို အပြီးမသတ်နိုင်ဘူး">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>လိပ်စာများကို ထံုးစံအားဖြင့် ယခုလိုရေးကြသည် <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ရှာရန်</button> </div> <li>ရှေ့ယိမ်းမျဉ်းစောင်းကို အသုံးပြုထားခြင်းရှိ၊မရှိ စစ်ဆေးပါ (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "ဆွဲယူရန် ရက်လွန်စာရွက်စာတမ်း">
-<!ENTITY notCached.longDesc "<p>&brandShortName; ထဲရှိ ယာယီမှတ်တမ်းထဲတွင် တောင်းဆိုထားသော စာရွက်စာတမ်းကို မရနိုင်တော့ပါ။</p><ul><li>ကြိုတင်ကာကွယ်မှုအနေဖြင့် &brandShortName; သည် အရေးကြီး စာရွက်စာတမ်းများကို အလိုအလျောက် ပြန်လည်မတောင်းဆိုပါ။</li><li>ဝဘ်ဆိုက်မှ စာရွက်စာတမ်းကို ပြန်လည်တောင်းဆိုရန် ထပ်မံကြိုးစားပါကို နှိပ်ပါ။</li></ul>">
+
 
 <!ENTITY netOffline.title "ချိတ်ဆက်မဲ့ စနစ်">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -56,7 +54,6 @@
 <!ENTITY netTimeout.title "ဆက်သွယ်မှုကို သတ်မှတ်ချိန်အတွင်း မပြုလုပ်နိုင်ပါ">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "အမည်မသိ နည်းလမ်း">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>ဤလိပ်စာအားဖွင့်ရန် အခြားဆော့ဝဲလိုလိမ့်မည်ဖြစ်သည်။</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "ကြားခံ ဆာဗာက ချိတ်ဆက်မှုကို ငြင်းပယ်တယ်">
@@ -67,7 +64,6 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>ကြားခံဆောင်ရွက်မှု အပြင်အဆင်ကို မှန်/မမှန် စစ်ဆေးပါ။ </li> <li>သင့်ကိရိယာတွင် data သို့မဟုတ် Wi-Fi ချိတ်ဆက်မှု ဆောင်ရွက်နိုင်ခြင်း ရှိ/မရှိ စစ်ဆေးပါ။<button id='wifi'>Wi-Fi ကို ဖွင့်ရန်</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "ပတ်လမ်း လမ်းလွှဲပေးပါ">
 <!ENTITY redirectLoop.longDesc "<ul> <li>ယခုပြဿနာမျိုးသည် ကွတ်ကီးအားပိတ်ထားလိုက်လျှင် ဖြစ် တတ်သည် </li> </ul>">
 
 <!ENTITY unknownSocketType.title "မမှန်ကန်တဲ့ တုံ့ပြန်ချက်">
@@ -77,11 +73,9 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li> သင်ကြည့်ရန်ကြိုးစားနေသော စာမျက်နှာကို မဖော်ပြနိုင်ပါ။ အဘယ့်ကြောင့်ဆိုသော် လက်ခံရရှိထားသော အချက်အလက်၏ ထောက်ခံချက်ကို အတည်မပြုနိုင်သောကြောင့် ဖြစ်သည်။</li> <li>ဒီပြဿနာကို အသိပေးရန် ကျေးဇူးပြု၍ ဝဘ်ဆိုဒ်ပိုင်ရှင်ထံသို့ ဆက်သွယ်ပါ။</li> </ul>">
 
 <!ENTITY nssBadCert.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>ဒါဟာ ဆာဗာ ပြုပြင်ဖန်တီးမှု ပြဿနာ သို့မဟုတ် တစုံတယောက်က ဆာဗာကို အယောင်ဆောင်ဖို့ ကြိုးစားတာ​ ဖြစ်နိုင်တယ်။ </li> <li>အရင်တုန်းက ဒီဆာဗာကို အောင်အောင် မြင်မြင် သင်ချိတ်ဆက်ခဲ့ရင်၊ အမှားဟာ ခေတ္တ ဖြစ်နိုင်တယ်၊ ဒါကြောင့် သင်နောက်တခါ ထပ်ကြိုးစားနိုင်ပါ။</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
-<!ENTITY sharedLongDesc3 "<ul> <li>ယခုဝက်ဆိုက်သည် လောလောဆယ် အလုပ်မလုပ် သို့ အရမ်းအလုပ်များနေခြင်း ကြောင့်ဖြစ်လိမ့်မည်။</li> <li>ခဏကြာလျှင် ပြန်ကြိုးစားပါ။ အလုပ်မလုပ်သေးပါက ဒေတာသို့ ဝိုင်ဖိုင် ချိတ်ဆက်မှုကို စစ်ဆေးပါ<button id='wifi'>ဝိုင်ဖိုင်ဖွင့်မည်</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; သည်ယခု၀တ်ဆိုက်အားပါ၀င်နေသောအရာတစ်ခု၏လုံခြုံရေး ကြောင့်ရယူခြင်းကိုခွင့်မပြုပါ.</p>">
@@ -108,3 +102,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

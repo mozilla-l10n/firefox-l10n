@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "&brandShortName; ကို စတင်ရန်အတွက် နေရာလွတ်လုံလောက်ခြင်း မရှိပါ။">
-<!ENTITY  error_loading_file "&brandShortName; မောင်းနှင်နိုင်ရန်  လိုအပ်သောဖိုင်များ ပြင်ဆင်ချိန်တွင် ပြဿနာတစ်ခုတက်ခဲ့သည်။">
-
 <!ENTITY firstrun_panel_title_welcome "ကြိုဆိုပါသည်">
 <!ENTITY  onboard_start_message3 "&brandShortName; နှင့်အတူ ရှာဖွေကြည့်ရှုပါ">
 <!ENTITY  onboard_start_subtext3 "သင့်မိုဘိုင်းဝဘ်ရှာဖွေမှုအတွေ့အကြုံကို ကိုယ်တိုင်ခံစားကြည့်ပါ။">
@@ -27,12 +23,16 @@
 <!ENTITY firstrun_button_next "ရှေ့သို့">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; ၏ ရှင်းလင်းအောင် ပြုလုပ်ထားသည့် ဒီဗားရှင်းကို အသုံးပြုပြီး လုံခြုံမှုနှင့် ထိန်းချုပ်မှု ရှိနေစေပါ။">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "မှတ်တမ်းမှတ်ရာများ">
 <!ENTITY  history_title "မှတ်တမ်း">
-<!ENTITY  reading_list_title "ဖတ်နေဆဲစာမျက်နှာများ">
+
 <!ENTITY  recent_tabs_title "လတ်တလော ဖွင့်ထားသည်များ">
 
 <!ENTITY  switch_to_tab "မျက်နှာစာ ပြောင်းကြည့်ပါ">
@@ -49,12 +49,6 @@
 <!ENTITY  sending_crash_report "ပျက်စီးမှုအား သတင်းပို့နေသည်\u2026">
 <!ENTITY  crash_close_label "ပိတ်ပါ">
 <!ENTITY  crash_restart_label "&brandShortName; ကို ပြန်ဖွင့်ပါ">
-<!ENTITY  exit_label "ထွက်ခွါပါ">
-
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "web apps များရှာမတွေ့ပါ">
-
-<!ENTITY choose_file "ဖိုင် ရွေးပါ">
 
 <!ENTITY url_bar_default_text2 "ရှာဖွေ (သို့) လိပ်စာ ထည့်သွင်းပါ">
 
@@ -69,13 +63,20 @@
 <!ENTITY bookmark_updated "စာညှပ်အား ပြင်ဆင်သတ်မှတ်ပြီး">
 <!ENTITY bookmark_options "ရွေးစရာများ">
 
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+
 <!ENTITY history_today_section "ဒီနေ့">
 <!ENTITY history_yesterday_section "မနေ့">
 <!ENTITY history_week_section3 "လွန်ခဲ့သော ၇ ရက်က">
 
 
-
-<!ENTITY go "သွားပါ">
 <!ENTITY search "ရှာဖွေပါ">
 <!ENTITY reload "ပြန်ဖွင့်ပါ">
 <!ENTITY forward "ရှေ့သို့">
@@ -108,7 +109,7 @@
 <!ENTITY settings "အပြင်အဆင်">
 <!ENTITY settings_title "အပြင်အဆင်များ">
 <!ENTITY pref_category_general "အထွေထွေ">
-<!ENTITY pref_category_general_summary2 "အဖွင့်စာမျက်နှာ၊ ဘာသာစကား၊ URL ဘားတန်း">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -131,9 +132,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "မှတ်သားချက်">
-<!ENTITY overlay_share_reading_list_btn_label "စာအမှတ်သို့ ထည့်ပါ">
 <!ENTITY overlay_share_bookmark_btn_label_already "စာမှတ်လုပ်ထားပြီး">
-<!ENTITY overlay_share_reading_list_btn_label_already "စာအမှတ် စာရင်းထဲတွင်ရှိပြီး">
 <!ENTITY overlay_share_send_other "အခြားဖုန်းများသို့ ပို့ပါ">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -149,14 +148,15 @@
 <!ENTITY overlay_no_synced_devices "မီးမြေခွေးအကောင့်နှင့် ချိတ်ဆက်ထားသည့် ကိရိယာများကို မတွေ့ပါ">
 
 <!ENTITY pref_category_search3 "ရှာဖွေပါ">
-<!ENTITY pref_category_search_summary "သင်၏ ရှာဖွေမှု ဝန်ဆောင်သူများအား ပြုပြင်မည်">
+
 <!ENTITY pref_category_accessibility "သုံးစွဲနိုင်စွမ်း">
 <!ENTITY pref_category_accessibility_summary2 "စာသားအရွယ်အစား၊ မြင်ကွင်းအချုံအချဲ့၊ အသံဖြင့်အမိန့်ပေးခြင်း">
 <!ENTITY pref_category_privacy_short "လုံခြုံရေး">
-<!ENTITY pref_category_privacy_summary3 "မှတ်သားခြင်း၊ ကွတ်ကီးများ၊ ဒေတာအသုံးပြုမှု ရွေးချယ်ခြင်း">
+
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 
 <!ENTITY pref_category_datareporting "ဒေတာ အမျိုးအစား">
+
 <!ENTITY pref_learn_more "ဆက်လေ့လာပါ">
 <!ENTITY pref_category_installed_search_engines "တပ်ဆင်ထားသော ရှာဖွေရေးဝန်ဆောင်မှုများ">
 <!ENTITY pref_category_add_search_providers "ရှာဖွေရေးဝန်ဆောင်မှု ထပ်ထည့်ပါ">
@@ -168,10 +168,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "TIP: မည်သည့် ဝတ်ဆိုဒ်ကို မဆိုသင်၏ ရှာဖွေမှုဝန်ဆောင်သူအဖြစ် သုံးရန် ရှာဖွေဖောင်အား လက်ဖြင့်ကြာကြာဖိကာ &formatI; အိုင်ကွန်ကို နှိပ်ပါ။">
 <!ENTITY pref_category_advanced "အဆင့်မြင့်">
 
-<!ENTITY pref_developer_remotedebugging "အဝေးထိန်း စစ်ဆေးခြင်း">
+
+
+
+
 
 
 
@@ -181,18 +183,10 @@
 <!ENTITY pref_category_home "ပင်မ">
 <!ENTITY pref_category_home_summary "သင်၏ပင်မမျက်နှာစာကို ပြင်ပါ">
 <!ENTITY pref_category_home_panels "အကွက်များ">
-<!ENTITY home_add_panel_title "အကွက်တစ်ခုထပ်ထည့်ပါ">
-<!ENTITY home_add_panel_empty "တောင်းပန်ပါတယ်။ သင့်အတွက် ထပ်ထည့်ဖို့ အကွက် ရှာမတွေ့ပါ">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 အားပင်မစာမျက်နှာသို့ထည့်ပြီး">
-<!ENTITY pref_category_home_content_settings "အပြင်အဆင်">
-<!ENTITY pref_home_updates "အလိုအလျောက် အဆင့်မြှင့်တင်မှုများ">
+
+
 <!ENTITY pref_home_updates_enabled "ဖွင့်ထားတယ်">
 <!ENTITY pref_home_updates_wifi "Wi-Fi ဖြင့်သာ">
-<!ENTITY pref_home_suggested_sites "ရည်ညွှန်းထားသော ဝတ်ဆိုဒ်များအားပြပါ">
-<!ENTITY pref_home_suggested_sites_summary "သင်စိတ်ဝင်စားနိုင်ခြေ ရှိသော ဝတ်ဆိုဒ်များသို့ အမြန်သွားလင်ခ့်များ ပင်မစာမျက်နှာတွင် ပြထားမည်။">
 <!ENTITY pref_category_home_homepage "အဖွင့်စာမျက်နှာ">
 <!ENTITY home_homepage_title "အဖွင့်စာမျက်နှာ သတ်မှတ်ရန်">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -216,6 +210,7 @@
 <!ENTITY pref_header_search "ရှာဖွေပါ">
 <!ENTITY pref_header_privacy_short "ကိုယ်ရေးလုံခြုံမှု">
 <!ENTITY pref_header_accessibility "သုံးစွဲနိုင်စွမ်း">
+
 <!ENTITY pref_header_advanced "အဆင့်မြင့်">
 <!ENTITY pref_header_help "အကူအညီ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -225,6 +220,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "3rd ပါတီ ဆော့ဝဲများပါ ဖွင့်ထားပြီး">
 <!ENTITY pref_cookies_disabled "ပိတ်ထားတယ်">
 
+
+
+
 <!ENTITY pref_tap_to_load_images_title2 "ရုပ်ပုံများကို ပြပါ">
 <!ENTITY pref_tap_to_load_images_enabled "အမြဲတမ်း">
 <!ENTITY pref_tap_to_load_images_data "Wi-Fi ဖြင့်သာ">
@@ -232,7 +230,7 @@
 
 <!ENTITY pref_show_web_fonts "ဝဘ်ဖောင့်များကို ပြပါ">
 
-<!ENTITY pref_tracking_protection_title "ခြေရာခံခြင်း ကာကွယ်မှု">
+
 
 <!ENTITY pref_donottrack_title "ခြေရာမခံပါနှင့်">
 <!ENTITY pref_donottrack_summary "&brandShortName; သှ် ဝတ်ဆိုဒ်များအား သင့်ကို ခြေရာမခံရန် ပြောပေးထားမည်ဖြစ်သှ်">
@@ -240,6 +238,8 @@
 <!ENTITY pref_tracking_protection_enabled "ဖွင့်ထားသည်">
 
 <!ENTITY pref_tracking_protection_disabled "ပိတ်ထားသည်">
+
+
 
 
 
@@ -265,6 +265,15 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "အက္ခရာ စာဝှက်ရေးသားခြင်း">
 <!ENTITY pref_char_encoding_on "မီနူး စာရင်းပြပါ">
 <!ENTITY pref_char_encoding_off "မီနူးအား မပြပါနှင့်">
@@ -277,7 +286,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "ရှင်းမည့် အချက်အလက်အား ရွေးပါ">
 <!ENTITY pref_plugins "ပလပ်အင်">
 
-<!ENTITY pref_plugins_tap_to_play "ထိလိုက်ပြီး ဖွင့်ပါ">
+
 
 <!ENTITY pref_text_size "စာလုံး ဆိုဒ်">
 
@@ -326,7 +335,6 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "ဆွဲချချက်များ">
 
 
-
 <!ENTITY pref_about_firefox "&brandShortName; အကြောင်း">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "အကြံပေးပါ">
@@ -344,10 +352,12 @@ size. -->
 <!ENTITY pref_panels_move_down "အောက်သို့ ရွေ့ပါ">
 
 <!ENTITY datareporting_notification_title "&brandShortName; မှတ်တမ်း &amp; အချက်အလက်">
-<!ENTITY datareporting_notification_action_long "မည်သည့် အချက်အလက် အားမျှဝေမည်ကို ရွေးပါ">
 <!ENTITY datareporting_notification_action "သင်မျှဝေမည့်အရာကို ရွေးပါ">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "မည်သည့် အချက်အလက် အားမျှဝေမည်ကို ရွေးပါ">
 <!ENTITY datareporting_notification_summary "&brandShortName; သည်သင့် အတွက် ပိုမိုကောင်းမွန်သော ဆော့ဝဲတစ်ခုဖြစ်လာရန် &vendorShortName; သို့ အချို့အချက်အလက်များအား အလိုအလျောက်ပေးပို့သည်။">
-<!ENTITY datareporting_notification_summary_short "&brandShortName; သင့်အတွက် ပိုမိုကောင်းမွန်သော ခံစားချက်ရရှိစေရန် ...">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -396,7 +406,6 @@ size. -->
 <!ENTITY close_private_tabs "တစ်ကိုယ်ရေသုံးတပ်ဗ်များအား ပိတ်ပါ">
 
 <!ENTITY tabs_private "တစ်ကိုယ်ရေသုံး">
-<!ENTITY tabs_synced "ချိတ်ဆက်ထားသော">
 <!ENTITY set_image_fail "ပုံအား မထားလိုက်နိုင်ပါ">
 <!ENTITY set_image_path_fail "ပုံအား မသိမ်းနိုင်ပါ">
 <!ENTITY set_image_chooser_title "ပုံအား သုံးမည်">
@@ -428,8 +437,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "ဆိုဒ်အား တွဲပါ">
 <!ENTITY contextmenu_top_sites_unpin "ဆိုဒ်အားတွဲဖြုတ်ပါ">
 <!ENTITY contextmenu_add_search_engine "ရှာဖွေရေး ဝန်ဆောင်မှု ထည့်သွင်းပါ">
-
-
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -469,18 +476,6 @@ size. -->
 <!ENTITY site_settings_title3       "ဆိုက်အပြင်အဆင်များ">
 
 <!ENTITY site_settings_clear        "ရှင်းလင်းပါ">
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_duplicate "စာမျက်နှာသည်သင့် စာဖတ်စာရင်းထဲတွင်ရှိပြီးဖြစ်သှ်။">
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
-<!ENTITY reading_list_time_minutes2 "&formatD; မိနစ်">
-<!ENTITY reading_list_time_over_an_hour "တစ်နာရီကျော်ကြာ">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -507,6 +502,7 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
+
 <!ENTITY home_clear_history_button "ဘယောက်ဆာ မှတ်တမ်းအားရှင်းပါ">
 <!ENTITY home_clear_history_confirm "သင့် မှတ်တမ်းအား ဖျက်ပစ်မည်မှာ သေချာပြီလား?">
 <!ENTITY home_bookmarks_empty "သင်မှတ်ထားသော လင်ခ့်များ ဒီတွင်စုထားမည်">
@@ -515,32 +511,20 @@ size. -->
 <!ENTITY home_last_tabs_empty "သင်လတ်တစ်လောသုံးနေသော တပ်ဗ်များ">
 <!ENTITY home_open_all "အားလုံးဖွင့်">
 <!ENTITY home_most_recent_empty "သင်လတ်တလော လေ့လာခဲ့သော ဝတ်ဆိုဒ်များ">
-
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1; အားသုံးပြီး တစ်ကိုယ်ရေသုံး တဗ်&formatS2; တစ်ခုဖွင့်ပါ">
-<!ENTITY home_reading_list_empty "သင်သိမ်းထားသော စာစောင်များ">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
 <!ENTITY home_default_empty "ယခု ရင်ပြင်တွင် မည်သည့် အရာမျှတွေ့ရမည်မဟုတ်ပါ">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-<!ENTITY home_remote_tabs_title "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
-<!ENTITY home_remote_tabs_empty "အခြားဖုန်းများမှ သင်ဖွင့်ထားသော တပ်ဗ်များ ဒီတွင်ပေါ်နေမည်">
-<!ENTITY home_remote_tabs_unable_to_connect "ချိတ်ဆက်ဖို့ မအောင်မြင်ဘူး">
-<!ENTITY home_remote_tabs_need_to_sign_in "သင့် မီးမြေခွေးအကောင့်ဖြင့် ချိတ်ဆက်ရန် အကောင့်သို့ ပြန်လည် ဝင်ရောက်ပါ">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "သင်၏ မီးမြေခွေးအကောင့်အသစ် အဆင်သင့်ဖြစ်ပါပြီ!">
-
-<!ENTITY home_remote_tabs_trouble_verifying "သင့်အကောင့်အား အတည်ပြုရန်ခက်ခဲနေသလား?">
-<!ENTITY home_remote_tabs_need_to_verify "ချိတ်ဆက်ပြီး သုံးရန် သင်၏မီးမြေခွေးအကောင့်အား အတည်ပြုပါ">
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 ကွယ်ထားသောပစ္စည်း">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; ပစ္စည်းများဖုံးထားသှ်">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -589,7 +573,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "ဆက်လက်ဖတ်ရှူရန်">
 <!ENTITY enable_protection "အကာအကွယ် ဖွင့်ထားပါ">
 <!ENTITY disable_protection "အကာအကွယ်အား ပိတ်ပါ">
-<!ENTITY keep_blocking "ဆက်ပိတ်ဆို့ထားပါ">
 
 <!ENTITY private_data_success "တစ်ကိုယ်ရေသုံး အချက်အလက်များရှင်းပြီး">
 <!ENTITY private_data_fail "အချို့သော တစ်ကိုယ်ရေသုံးအချက်အလက်များ မရှင်းလိုက်နိုင်ပါ">
@@ -665,7 +648,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "နောက်ဆုံးချိတ်ခဲ့ချိန်- &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -710,4 +692,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+
+
+
 

@@ -31,103 +31,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "စာအမှတ်များ">
 <!ENTITY bookmarks.folder.toolbar.label "မှတ်သားချက်များ ခလုတ်တန်း">
-<!ENTITY bookmarks.folder.unfiled.label "မျိုးတူမစုထားတဲ့ မှတ်သားချက်များ">
+
 <!ENTITY bookmarks.folder.desktop.label "ဒတ်စတောခ့် စာအမှတ်များ">
 <!ENTITY bookmarks.folder.mobile.label "ခရီးဆောင် မှတ်သားချက်များ">
-<!ENTITY bookmarks.folder.readinglist.label "ဖတ်နေဆဲစာမျက်နှာများ">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "ညှပ်ထားပြီး">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "တပ်ဗ်တွေပို့ပေးရန် &syncBrand.shortName.label; အားတပ်ဆင်ပါ">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "&syncBrand.fullName.label; အားသင်၏ဖုန်းပေါ်တွင် တပ်ဆင်ပြီး အခြား ဖုန်းများသို့တပ်ဗ်များပို့ပါ">
-<!ENTITY sync.text.tab.sent.label "တပ်ဗ်အားပို့ပြီး!">
-<!ENTITY sync.text.tab.not.sent.label "သင်၏ တပ်ဗ်အားပေးပို့ရာတွင် ပြသာနာတစ်ခုရှိ">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "မီးမြေခွေး အကောင့်များ">
-
-<!ENTITY fxaccount_custom_server_account_title "ဆာဗာတွင် အကောင့်သုံးနေသှ်">
-<!ENTITY fxaccount_custom_server_sync_title "ဆာဗာ အတွင်းရှိ ဘုံ အချက်လက်များကို ထားသိုလျှက်ရှိသည်">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "အီးမေးလ်">
-
-<!ENTITY fxaccount_password_hide "ဝှက်ထားပါ">
-<!ENTITY fxaccount_password_show "ပြပါ">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "ဘယောက်ဆာသို့ပြန်သွားပါ">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "သုံးဆွဲရန်စည်းမျဉ်းများ">
-<!ENTITY fxaccount_policy_linkprivacy "ကိုယ်ရေးကိုယ်တာ အသိပေးချက်">
+<!ENTITY fxaccount_back_to_browsing "ဘယောက်ဆာသို့ပြန်သွားပါ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; မှကြိုဆိုပါတယ်">
 
 <!ENTITY fxaccount_getting_started_get_started "စတင်ပါ">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ဗားရှင်း အဟောင်းကို သုံးနေပါသလား?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "မီးမြေခွေးအကောင့်တစ်ခု ပြုလုပ်ပါ">
-<!ENTITY fxaccount_create_account_password_length_restriction "အနည်းဆုံး စာလုံး 8 လုံးရှိရမည်">
-
-
-<!ENTITY fxaccount_create_account_year_of_birth "မွေးသက္ကရာဇ်">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "ဆက်လက်လုပ်ဆောင်ခြင်းဖြင့် မီးမြေခွေး cloud services ၏ &formatS1; နှင့် &formatS2; အားသဘောတူပြီး ဖြစ်သည်ဟု သတ်မှတ်သည်။">
-<!ENTITY fxaccount_create_account_button "နောက်တနေရာ">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "ဘာတွေကို ချိတ်ယူမလဲဆိုတာရွေးပါ">
-<!ENTITY fxaccount_create_account_sign_in_instead "အကောင့်တစ်ခုရှိပြီးပြီလား? ဝင်ပါ">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 သို့ ပိုစောသော">
-<!ENTITY fxaccount_create_account_unknown_error "အကောင့်အား မဖန်တီးနိုင်ပါ">
-
-<!ENTITY fxaccount_account_create_not_allowed "အကောင့်အား မဖန်တီးနိုင်ပါ">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "အကောင့်ဖန်တီးရန် အသက်ပြည့်ဖို့ လိုအပ်ပါတယ်">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "ဆက်လက်ဖတ်">
-
-<!ENTITY fxaccount_confirm_account_header "သင့်အကောင့်အား အတည်ပြုပါ">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "&formatS; သို့အတည်ပြုလင်ခ့်ပေးပို့လိုက်သှ်">
-<!ENTITY fxaccount_confirm_account_resend_email "အီးမေလ်းပြန်ပို့ပါ">
-<!ENTITY fxaccount_confirm_account_change_email "ယခု အီးမေလ်းအားမေ့လိုက်မလား?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "အတည်ပြုအီးမေလ်း ပို့ပြီး">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "အတည်ပြု အီမေလ်းမပို့နိုင်ပါ">
-<!ENTITY fxaccount_resend_unlock_code_button_label "ခွင့်ပြုအီးမေလ်းအားထပ်ပို့ပါ">
-<!ENTITY fxaccount_unlock_code_sent "အကောင့်ဖွင့်သော အီးမေလ်းပေးပို့ပြီး">
-<!ENTITY fxaccount_unlock_code_not_sent "အကောင့်ဖွင့်သော အီးမေလ်း မပို့နိုင်ပါ">
-
-<!ENTITY fxaccount_sign_in_sub_header "ဝင်ပါ">
-<!ENTITY fxaccount_sign_in_button_label "ဝင်ပါ">
-<!ENTITY fxaccount_sign_in_forgot_password "စကားဝှက်မေ့သွားပြီလား?">
-<!ENTITY fxaccount_sign_in_create_account_instead "အကောင့်ဖန်တီးပါ">
-<!ENTITY fxaccount_sign_in_unknown_error "မဝင်ရောက်နိုင်ပါ">
-
-<!ENTITY fxaccount_account_verified_sub_header "အကောင့်အတည်ပြုပြီး">
-<!ENTITY fxaccount_account_verified_description2 "သင့်အချက်အလက်များအား ချိတ်ဆက်မှုမကြာခင်စတော့မည်">
-
-<!ENTITY fxaccount_migration_finished_header "အဆင့်မြှင့်တင်မှုပြီးဆုံး">
-
-<!ENTITY fxaccount_update_credentials_header "ဝင်ပါ">
-<!ENTITY fxaccount_update_credentials_button_label "ဝင်ပါ">
-<!ENTITY fxaccount_update_credentials_unknown_error "မဝင်ရောက်နိုင်ပါ">
-
-<!ENTITY fxaccount_finish_migrating_header "အဆင့်မြှင့်ခြင်း ပြီးမြောက်ရင် ဝင်ရောက်ပါ">
-<!ENTITY fxaccount_finish_migrating_button_label "အဆင့်မြှင့်ခြင်း ပြီးဆုံး">
-
-
-<!ENTITY fxaccount_status_header2 "မီးမြေခွေးအကောင့်">
 <!ENTITY fxaccount_status_signed_in_as "ဝင်ရောက်မည်">
 
 <!ENTITY fxaccount_status_auth_server "အကောင့်ဆာဗာ">
@@ -152,8 +73,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "ဝန်ဆောင်မှုစည်းမျဉ်းစည်းကမ်းများ">
-<!ENTITY fxaccount_status_linkprivacy "ကိုယ်ရေးကိုယ်တာဆိုင်ရာ အသိပေးချက်">
+
 <!ENTITY fxaccount_status_more "နောက်&ellipsis;">
 
 
@@ -189,7 +109,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "ဆာဗာမအားပါ၊ နောင်တွင် ထပ်ကြိုးစားပါ">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "ဆာဗာမအားပါ၊ နောင်တွင် ထပ်ကြိုးစားပါ">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ပြသာနာတစ်ခုရှိခဲ့သှ်">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "ကွန်ယက်သို့ မချိတ်ဆက်နိုင်ပါ">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "အကောင့်အားပိတ်ထားပြီး &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ချိတ်ဆက်မထားပါ">
@@ -201,6 +120,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; အဖြင့်ဝင်ရောက်ရန် ထိပါ">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
