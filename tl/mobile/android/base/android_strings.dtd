@@ -11,9 +11,11 @@
 
 
 
-
-
 <!ENTITY firstrun_sync_title "Sync">
+
+
+
+
 
 
 
@@ -26,7 +28,7 @@
 
 <!ENTITY  bookmarks_title "Mga bukmark">
 <!ENTITY  history_title "History">
-<!ENTITY  reading_list_title "Talaan ng mga Babasahin">
+
 
 
 <!ENTITY  switch_to_tab "Lumipat ng tab">
@@ -43,11 +45,6 @@
 
 <!ENTITY  crash_close_label "Isarado">
 <!ENTITY  crash_restart_label "Mag-restart &brandShortName;">
-<!ENTITY  exit_label "Lumabas">
-
-
-
-<!ENTITY choose_file "Pumili ng File">
 
 
 
@@ -59,13 +56,20 @@
 
 <!ENTITY bookmark_options "Options">
 
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+
 <!ENTITY history_today_section "Ngayon">
 <!ENTITY history_yesterday_section "Kahapon">
 
 
 
-
-<!ENTITY go "Go">
 <!ENTITY search "Hanapin">
 
 
@@ -110,8 +114,6 @@
      "to bookmark", not the noun "a bookmark". -->
 
 
-
-
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -121,6 +123,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+
 
 
 
@@ -154,10 +157,6 @@
 
 
 
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-
 
 
 
@@ -185,7 +184,14 @@
 
 
 
+
 <!ENTITY pref_cookies_menu "Cookies">
+
+
+
+
+
+
 
 
 
@@ -225,6 +231,15 @@
      text of a notification; we expect only one tab queued. -->
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
 
 
 
@@ -295,9 +310,10 @@ size. -->
 
 
 
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 
-
-
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -343,7 +359,6 @@ size. -->
 
 
 
-
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_prev "Nakaraan">
@@ -351,8 +366,6 @@ size. -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-
 
 
 
@@ -403,16 +416,6 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -445,19 +448,10 @@ size. -->
 
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-
-
-
-
-
-
-
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -503,7 +497,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Alamin pa">
-
 
 
 
@@ -568,7 +561,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -613,4 +605,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+
+
+
 
