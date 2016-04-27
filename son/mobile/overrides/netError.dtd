@@ -19,25 +19,23 @@
 <!ENTITY dnsNotFound.title "Feršikaa ši duwandi">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Aderesoo koroši hantum firkawey se sanda <strong>ww</strong>.example.com manti <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Ceeci</button> </div> <li>Nda war ši hin ka moo kulyaŋ zumandi, war jinaa bayhayey wala Wi-Fi dobuyano koroši. <button id='wifi'>Wi-Fi tunandi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Tukoo ši duwandi">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Tuku maaɲoo guna harfu beerandiyan wala hantum firka taney se.</li> <li>Guna ka dii wala tukoo mana ganandi, maa barmay, wala tuusandi.</li> </ul>">
 
 
-<!ENTITY generic.title "Aywa, woo ši hin ka toonandi.">
-<!ENTITY generic.longDesc "<p>Dalil foo se &brandShortName; ši hin ka moɲoo woo zumandi.</p>">
 
-<!ENTITY malformedURI.title "Aderesoo woo ši boori">
+<!ENTITY generic.title "Aywa, woo ši hin ka toonandi.">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Interneti aderesey ga doona ka hantum sanda <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Ceeci</button> </div> <li>War m'alhakiika kaŋ war ga goy nda jine žeeri šiirantey (sanda <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Ciyaroo dunbu">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Takaddaa waatoo ben">
-<!ENTITY notCached.longDesc "<p>Takadda wirantaa ši bara &brandShortName; lanbari lakkaloo ra.</p><ul><li>Saajaw laasaabu ra, &brandShortName; ši sutura takadda wiri nga bonse.</li><li>Ceeci koyne naagu ka takaddaa wiri Interneti nungoo ga.</li></ul>">
+
 
 <!ENTITY netOffline.title "Bila nda ciyari alhaali">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -56,7 +54,6 @@
 <!ENTITY netTimeout.title "Ciyari batuyan waatoo bisa">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "Aderesoo mana fahamandi">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>War ga hima ka goyjinaw waani foo sinji ka aderesoo feeri.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Feršikaw tokoraa ga wanji ciyarey ga">
@@ -67,7 +64,6 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Tokore kayandiyaney koroši ka alhakiika kaŋ i ga šerre.</li> <li>Koroši k'alhakiika kaŋ war jinaa goo nda bayhaya wala hewbande (Wi-Fi) ciyari goyante. <button id='wifi'>Wi-Fi tunandi</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "Moɲoo woo ši ma bisandi taaga boryo">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Šendaa woo daliloo ga hin ka tee aleewa kaaroo wala gagayroo</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Zaabi kaŋ mana naatandi hun feršikaa do">
@@ -77,11 +73,9 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Moɲoo kaŋ war ga ceeci k'a dii ya ši hin ka cebandi zama bayhaya duwantey ši hin ka tabatandi.</li> <li>Taare war Interneti nungu koyey cee ka šendaa woo alhabar tee i se.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Ciyari saajante kay">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Woo ga hin ka tee šenda kaŋ hun feršikaa hanseyanoo ra, wala a ma tee kaŋ boro foo goo ma ceeci ka war feršikaa ženti.</li> <li>Nda war bay ka feršikaa woo ciya ka boori han foo, firkaa ga hin ka tee waati-waati haya, adiši war ga ceeci taaga nd'a too kayna.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
-<!ENTITY sharedLongDesc3 "<ul> <li>Nungoo mana hin ka duwandi waati foo ra wal'a cindi goy ra. Ceeci koyne nd'a too kayna.</li> <li>Nda war ši hin ka moo kul zumandi, war jinaa bayhayey wala Wi-Fi ciyaroo koroši. <button id='wifi'>Wi-Fi tunandi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Gagayandi gundekuna saajaw alhukum bande">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ganji moɲoo woo ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukumoo ši yadda a ga.</p>">
@@ -108,7 +102,9 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Alhabar koyjinante: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "War ciyaroo manti saajante">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Alhabar koyjinante: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
