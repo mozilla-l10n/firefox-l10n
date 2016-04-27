@@ -23,11 +23,13 @@
 <!ENTITY fileNotFound.title "ไม่พบไฟล์">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ตรวจสอบชื่อไฟล์สำหรับตัวพิมพ์ใหญ่เล็กหรือข้อผิดพลาดการพิมพ์อื่น ๆ</li> <li>ตรวจสอบเพื่อดูหากไฟล์ถูกย้าย เปลี่ยนชื่อ หรือลบ</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "การเข้าถึงไฟล์ถูกปฏิเสธ">
 
 
 <!ENTITY generic.title "อุปส์">
 
 
+<!ENTITY malformedURI.title "ที่อยู่ไม่ถูกต้อง">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -54,6 +56,7 @@
 <!ENTITY netTimeout.title "การเชื่อมต่อหมดเวลา">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "ไม่เข้าใจที่อยู่">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>คุณอาจจำเป็นต้องติดตั้งซอฟต์แวร์อื่นเพื่อเปิดที่อยู่นี้</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "เซิร์ฟเวอร์พร็อกซีปฏิเสธการเชื่อมต่อ">
@@ -64,6 +67,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>ตรวจสอบให้แน่ใจว่าการตั้งค่าพร็อกซีถูกต้อง</li> <li>ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณมีการเชื่อมต่อข้อมูลหรือ Wi-Fi ที่ทำงานได้ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "หน้าไม่ได้เปลี่ยนเส้นทางอย่างถูกต้อง">
 <!ENTITY redirectLoop.longDesc "<ul> <li>ปัญหานี้บางครั้งอาจมีสาเหตุมาจากการปิดใช้งานหรือปฏิเสธการยอมรับคุกกี้</li> </ul>">
 
 <!ENTITY unknownSocketType.title "การตอบสนองที่ไม่คาดคิดจากเซิร์ฟเวอร์">
@@ -102,9 +106,11 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "ข้อมูลขั้นสูง: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "การเชื่อมต่อของคุณไม่ปลอดภัย">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "ข้อมูลขั้นสูง: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "การเชื่อมต่อของคุณไม่ปลอดภัย">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
