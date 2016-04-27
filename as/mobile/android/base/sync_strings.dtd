@@ -31,103 +31,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "টেগসমূহ">
 <!ENTITY bookmarks.folder.toolbar.label "পত্ৰচিহ্নসমূহ টুলবাৰ">
-<!ENTITY bookmarks.folder.unfiled.label "অশৃঙ্খলাবদ্ধ পত্ৰচিহ্নসমূহ">
+
 <!ENTITY bookmarks.folder.desktop.label "ডে\u0027স্কটপ পত্ৰচিহ্নসমূহ">
 <!ENTITY bookmarks.folder.mobile.label "মবাইল পত্ৰচিহ্নসমূহ">
-<!ENTITY bookmarks.folder.readinglist.label "পঢ়াৰ তালিকা">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "চিহ্নিত">
-<!-- Send tab to device. -->
-
-<!ENTITY sync.title.redirect.to.set.up.sync.label "টেবসমূহ প্ৰেৰণ কৰিবলে &syncBrand.shortName.label; সংস্থাপন কৰক">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "টেবসমূহ অন্য ডিভাইচত প্ৰেৰণ কৰিবলে আপোনাৰ ডিভাইচত &syncBrand.fullName.label; সংস্থাপন কৰক।">
-<!ENTITY sync.text.tab.sent.label "আপোনাৰ টেব পঠোৱা হল!">
-<!ENTITY sync.text.tab.not.sent.label "আপোনাৰ টেব পঠাওতে এটা সমস্যা হৈছিল।">
 <!-- Firefox Account strings. -->
-
-
-<!ENTITY fxaccount_full_label "Firefox একাউণ্টসমূহ">
-
-<!ENTITY fxaccount_custom_server_account_title "চাৰ্ভাৰত একাওন্ট ব্যৱহাৰ কৰা">
-<!ENTITY fxaccount_custom_server_sync_title "চাৰ্ভাৰত চিঙ্ক তথ্য সংৰক্ষণ কৰা">
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-<!ENTITY fxaccount_email_hint "ইমেইল">
-
-<!ENTITY fxaccount_password_hide "লুকুৱাওক">
-<!ENTITY fxaccount_password_show "দেখুৱাওক">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
-<!ENTITY fxaccount_back_to_browsing "ব্ৰাউছিং অব্যাহত ৰাখক">
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
 
-<!ENTITY fxaccount_policy_linktos "সেৱাৰ চুক্তিসমূহ">
-<!ENTITY fxaccount_policy_linkprivacy "গোপনীয়তা জাননি">
+<!ENTITY fxaccount_back_to_browsing "ব্ৰাউছিং অব্যাহত ৰাখক">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; লৈ স্বাগতম">
 
 <!ENTITY fxaccount_getting_started_get_started "আৰম্ভ কৰক">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ৰ এটা পুৰনি সংস্কৰণ ব্যৱহাৰ কৰি আছে?">
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
 
-<!ENTITY fxaccount_create_account_header2 "এটা Firefox একাউন্ট সৃষ্টি কৰক">
-<!ENTITY fxaccount_create_account_password_length_restriction "অন্তত ৮ আখৰৰ হব লাগিব">
-<!ENTITY fxaccount_create_account_day_of_birth "দিন">
-<!ENTITY fxaccount_create_account_month_of_birth "মাহ">
-<!ENTITY fxaccount_create_account_year_of_birth "জন্মবৰ্ষ">
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "আগবাঢ়ি, মই Firefox cloud সেৱাসমূহৰ &formatS1; আৰু &formatS2; মানি লৈছো">
-<!ENTITY fxaccount_create_account_button "পৰৱৰ্তী">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "কি চিঙ্ক কৰা হব বাছক">
-<!ENTITY fxaccount_create_account_sign_in_instead "ইতিমধ্যে এটা একাউণ্ট আছে? ছাইন ইন কৰক">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 অথবা আগৰ">
-<!ENTITY fxaccount_create_account_unknown_error "একাউণ্ট সৃষ্টি কৰিব পৰা নগল">
-
-<!ENTITY fxaccount_account_create_not_allowed "একাউণ্ট সৃষ্টি কৰিব নোৱাৰি">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "আপুনি এটা একাউণ্ট সৃষ্টি কৰিবলে নিৰ্দিষ্ট বয়সৰ হব লাগিব।">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "অধিক জানক">
-
-<!ENTITY fxaccount_confirm_account_header "আপোনাৰ একাউণ্ট সুনিশ্চিত কৰক">
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "&formatS; লৈ এটা সত্যাপন লিঙ্ক পঠোৱা হৈছে">
-<!ENTITY fxaccount_confirm_account_resend_email "ইমেইল পুনৰ পঠাওক">
-<!ENTITY fxaccount_confirm_account_change_email "এই ইমেইল ঠিকনা পাহৰিম নে?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "সত্যাপন ইমেইল পঠোৱা হ\u0027ল">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "সত্যাপন ইমেইল পঠাব পৰা নগ\u0027ল">
-<!ENTITY fxaccount_resend_unlock_code_button_label "ইমেইল আনলকৰ ক\u0027ড পুনৰ পঠিয়াওক">
-<!ENTITY fxaccount_unlock_code_sent "একাওণ্ট আনলক ইমেইল পঠিওয়া হল">
-<!ENTITY fxaccount_unlock_code_not_sent "একাওণ্ট আনলক ইমেইল পঠিয়াব পৰা নগল">
-
-<!ENTITY fxaccount_sign_in_sub_header "ছাইন ইন">
-<!ENTITY fxaccount_sign_in_button_label "ছাইন ইন">
-<!ENTITY fxaccount_sign_in_forgot_password "পাছৱৰ্ড পাহৰিলে নেকি?">
-<!ENTITY fxaccount_sign_in_create_account_instead "এটা একাউণ্ট সৃষ্টি কৰক">
-<!ENTITY fxaccount_sign_in_unknown_error "ছাইন ইন কৰিব পৰা নগ\u0027ল">
-
-<!ENTITY fxaccount_account_verified_sub_header "একাউণ্ট সতাসত্য নিৰূপণ কৰা হল">
-<!ENTITY fxaccount_account_verified_description2 "আপোনাৰ তথ্য কিছু সময়ত চিঙ্ক আৰম্ভ কৰিব">
-
-<!ENTITY fxaccount_migration_finished_header "উন্নয়ন সমাপ্ত">
-
-<!ENTITY fxaccount_update_credentials_header "ছাইন ইন কৰক">
-<!ENTITY fxaccount_update_credentials_button_label "ছাইন ইন কৰক">
-<!ENTITY fxaccount_update_credentials_unknown_error "ছাইন ইন কৰিব পৰা নগল">
-
-<!ENTITY fxaccount_finish_migrating_header "উন্নয়ন সম্পূৰ্ণ কৰিবলে ছাইন ইন কৰক">
-<!ENTITY fxaccount_finish_migrating_button_label "উন্নয়ন সমাপ্ত কৰক">
-<!ENTITY fxaccount_finish_migrating_description "উন্নয়নে অধিক পৰিমাণ তথ্য স্থানান্তৰ কৰিব পাৰে। এটা Wi-Fi নেটৱৰ্কত থকাটো উত্তম হ\u0027ব।">
-
-<!ENTITY fxaccount_status_header2 "Firefox একাউণ্ট">
 <!ENTITY fxaccount_status_signed_in_as "এই ধৰণে ছাইন ইন কৰক">
 
 <!ENTITY fxaccount_status_auth_server "একাওন্ট চাৰ্ভাৰ">
@@ -152,8 +73,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "সেৱাৰ চুক্তিসমূহ">
-<!ENTITY fxaccount_status_linkprivacy "গোপনীয়তাৰ ঘোষনা">
+
 <!ENTITY fxaccount_status_more "অধিক&ellipsis;">
 
 
@@ -189,7 +109,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "চাৰ্ভাৰ ব্যস্ত, ক্ষন্তেক পিছত পুনৰ চেষ্টা কৰক">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "চাৰ্ভাৰ ব্যস্ত, ক্ষন্তেক পিছত পুনৰ চেষ্টা কৰক">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "এটা সমস্যা হৈছিল">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "নেটৱৰ্কলৈ সংযোগ কৰিব নোৱাৰি">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "একাওণ্ট লক কৰা আছে। &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; সংযুক্ত নহয়">
@@ -201,6 +120,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; ৰূপে ছাইন ইন কৰিবলে টেপ কৰক">
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-
