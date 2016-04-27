@@ -25,6 +25,13 @@
 <li>请检查文件是否已被移动，重命名或删除。</li> 
 </ul>">
 
+<!ENTITY fileAccessDenied.title "访问文件被拒绝">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>它可能已被删除、移动，或者文件权限可能阻止访问。</li>
+</ul>
+">
+
 <!ENTITY generic.title "哎呀。">
 <!ENTITY generic.longDesc "<p>&brandShortName; 因未知原因无法载入此页面。</p>">
 
@@ -96,20 +103,6 @@
 <li>如果您无法载入任何页面，请检查您计算机的网络连接。</li> 
 <li>如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 &brandShortName; 已被授权访问网络。</li> 
 </ul>">
-
-<!ENTITY malwareBlocked.title "涉嫌攻击站点!">
-<!ENTITY malwareBlocked.longDesc "<p>攻击性的网站会试图安装窃取你私人信息的程序，并且利用你的电脑攻击其他人，或者破坏你的系统。</p> 
-<p>网站拥有者如果认为他们的网站被误报为攻击性网站，可以向<a href='http://www.stopbadware.org/home/reviewinfo'>网站要求重新审查。</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "疑似不受欢迎软件的网站！">
-<!ENTITY unwantedBlocked.longDesc "不受欢迎软件的页面可能会尝试安装欺骗性或者以预期之外方式影响您的系统的软件。">
-
-<!ENTITY phishingBlocked.title "涉嫌站点伪造!">
-<!ENTITY phishingBlocked.longDesc " <p>在本页面输入个人信息可能会导致账号被盗或其他危险。</p><p>这类钓鱼网站常含有被称为“钓鱼攻击”的诈骗行为，这些伪装的网页或邮件地址可能用来假冒成您信任的源地址以实施诈骗。</p> ">
-
-<!ENTITY forbiddenBlocked.title "禁止的站点">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; 阻止了此页面的加载，因为它被配置成需要阻止它。</p>
-">
 
 <!ENTITY cspBlocked.title "由于内容安全策略而被阻止">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了这个页面载入，因为这个页面的内容安全政策不允许其以这种方式被载入。</p>">
