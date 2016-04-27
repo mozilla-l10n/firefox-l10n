@@ -5,47 +5,66 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY loadError.label "Apañuái oñemyenyhẽkuévo kuatiarogue">
+<!ENTITY retry.label "Eha'ãjey">
 <!-- Specific error messages -->
 
 
+<!ENTITY connectionFailure.title "Ndaikatúi eike">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY deniedPortAccess.title "Ko kundaharenda ndaikatúi eipuru">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.title "Mohendahavusu ndojejuhúiva">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
+<!ENTITY fileNotFound.title "Marandurenda ndojejuhúiva">
 
 
 
 
+<!ENTITY generic.title "Oops.">
 
 
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY netInterrupt.title "Pe jeike ojejokóma">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY notCached.title "Kuatia oikove'ỹmava">
 
 
-
-
+<!ENTITY netOffline.title "Jeikekatu'ỹre">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY contentEncodingError.title "Tetepy mbopapapy jejavy">
+
+
+<!ENTITY unsafeContentType.title "Koichagua marandurenda hekorosã'ỹva">
+
+
+<!ENTITY netReset.title "Jeike oñepyrũjeýma">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY netTimeout.title "Pe jeike ndoikovéima">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 
 
+<!ENTITY proxyConnectFailure.title "Mohendahavusu proxy ombotove jeike">
 
 
-
-
-
-
-
-
-
+<!ENTITY proxyResolveFailure.title "Ndaikatúi ojejuhu mohendahavusu proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
 
 
+<!ENTITY unknownSocketType.title "Mbohovái eha'ãrõ'ỹva mohendahavusúgui">
 
 
 

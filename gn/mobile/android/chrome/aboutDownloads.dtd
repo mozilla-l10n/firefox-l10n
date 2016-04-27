@@ -2,11 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutDownloads.title                      "Ñemboguejy">
+<!ENTITY aboutDownloads.header                     "Nde ñemboguejy">
+<!ENTITY aboutDownloads.empty                      "Ñemboguejy'ỹ">
 
-
-
-
-
-
-
-
+<!ENTITY aboutDownloads.open                       "Jeike">
+<!ENTITY aboutDownloads.remove                     "Mboguete">
+<!ENTITY aboutDownloads.removeAll                  "Emboguepaite">
+<!ENTITY aboutDownloads.pause                      "Mombyta">
+<!ENTITY aboutDownloads.resume                     "Ku'ememe">
+<!ENTITY aboutDownloads.cancel                     "Heja">
+<!ENTITY aboutDownloads.retry                      "Ha'ãjey">

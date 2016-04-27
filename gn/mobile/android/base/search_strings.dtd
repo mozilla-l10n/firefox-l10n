@@ -6,7 +6,7 @@
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
-<!ENTITY search_bar_hint "Eheka ysaja ndive;">
+<!ENTITY search_bar_hint "Eheka &formatS; ndive">
 
 
 <!--  Localization note (search_plus_content_description): This is the content description

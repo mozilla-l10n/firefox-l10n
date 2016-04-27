@@ -8,15 +8,23 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
+
+<!ENTITY certerror.pagetitle  "Jeike jerovia'ỹguáva">
+<!ENTITY certerror.longpagetitle "Ko jeike ne'ĩra gueteri oñemboaje">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY certerror.introPara1 "Ejerurékuri &brandShortName;-pe eikekatu hag̃ua ápe <b>#1</b>, hákatu ndaikatúi romboaje pe nde jeikekatu.">
 
+<!ENTITY certerror.whatShouldIDo.heading "Mba'épa rejapokuaa">
+<!ENTITY certerror.whatShouldIDo.content "Hetave jey eikéramo ko tendápe apañuãi'ỹre, ko jejavy ikatu omyesakã ndéve oĩha tapicha ohasaséva ko tendáramo, ha nde esẽmava'erã chugui.">
+<!ENTITY certerror.getMeOutOfHere.label "¡Cherenohẽ ko'águi!">
 
+<!ENTITY certerror.expert.heading "Aikũmby oikokuaaha mba'evai">
+<!ENTITY certerror.expert.content "Eikumbyetéramo mba'etépa pe oikóva, ikatu ehechauka &brandShortName;-pe oñepyrũ hag̃ua ojerovia ko tenda rehe. <b>Péicha ojeroviáramo ko tenda rehe, ko jejavy ikatu he'ise oĩha oimeraẽva ojokoséva nde jeike.</b>">
+<!ENTITY certerror.expert.contentPara2 "Ani embojuapy ykepeguáva ndereikuaa porãiramo oĩha peteĩ mba'e imbaretéva ko tenda oipuru hag̃ua jerovia rechaukaha.">
+<!ENTITY certerror.addTemporaryException.label "Tendápe jeho">
+<!ENTITY certerror.addPermanentException.label "Embojuapy ekepegua tapiaite">
 
-
-
-
-
-
+<!ENTITY certerror.technical.heading "Aporeko mba'emimíva">

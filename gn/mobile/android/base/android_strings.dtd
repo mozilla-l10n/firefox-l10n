@@ -58,9 +58,9 @@
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Mongurusupyre">
-
-
-
+<!ENTITY bookmark_removed "Mongurusu mboguepyre">
+<!ENTITY bookmark_updated "Techaukaha mbojuapypyre">
+<!ENTITY bookmark_options "Jeporavorã">
 
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -71,26 +71,31 @@
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
 
+<!ENTITY history_today_section "Ko árape">
+<!ENTITY history_yesterday_section "Kuehe">
+<!ENTITY history_week_section3 "Pokõi ára ohasaramovéva">
+<!ENTITY history_older_section3 "Poteĩ jasy rasami">
 
+<!ENTITY search "Heka">
+<!ENTITY reload "Myanyhẽjey">
+<!ENTITY forward "Upeigua">
+<!ENTITY menu "Poravorã">
+<!ENTITY back "Mboyvegua">
+<!ENTITY stop "Pyta">
+<!ENTITY site_security "Tenda rekorosãrã">
+<!ENTITY edit_mode_cancel "Heja">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY close_tab "Tendayke mboty">
+<!ENTITY one_tab "1 tendayke">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-
-
+<!ENTITY num_tabs2 "&formatD; tendayke">
+<!ENTITY new_tab_opened "Tendayke pyahu ijurujáva">
+<!ENTITY new_private_tab_opened "Tendayke ñemigua pyahu ijuruja ">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "MOAMBUE">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -99,8 +104,9 @@
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
 
-
-
+<!ENTITY settings "Ñemboheko">
+<!ENTITY settings_title "Ñemboheko">
+<!ENTITY pref_category_general "Tuichakue">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -117,27 +123,32 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
+<!ENTITY overlay_share_bookmark_btn_label "Techaukaha">
+<!ENTITY overlay_share_bookmark_btn_label_already "Mongurusupyre">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
+<!ENTITY overlay_share_send_tab_btn_label "Emondo ambue mba\u0027e\u0027okápe">
+
 
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 
+<!ENTITY pref_category_search3 "Heka">
+
+<!ENTITY pref_category_accessibility "Jeikekuaa">
+
+<!ENTITY pref_category_privacy_short "Añoguáva">
 
 
 
+<!ENTITY pref_category_datareporting "Mba\u0027ekuaarã jeporavorã">
 
-
-
-
-
-
-
+<!ENTITY pref_learn_more "Eikuaave">
 
 
 

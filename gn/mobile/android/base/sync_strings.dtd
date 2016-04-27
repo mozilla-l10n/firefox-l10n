@@ -11,8 +11,10 @@
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label;-pe jeike">
 <!-- J-PAKE Key Screen -->
 
+<!ENTITY sync.subtitle.connect.label "Emyandy hag̃ua peteĩ mba\u0027e\u0027oka pyahu, eiporavo “Mboheho &syncBrand.shortName.label;\&quot; ne mba\u0027e\u0027okápe.">
+<!ENTITY sync.subtitle.pair.label "Emyandy hag̃ua, eiporavo “Embojoja peteĩ mba\u0027e\u0027oka” pe ne ambue mba\u0027e\u0027okápe.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-
+<!ENTITY sync.link.nodevice.label "Che aguereko pe mba\u0027e\u0027oka chendive…">
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.passwords2 "Emoñepyrũ tembiapo">
@@ -28,23 +30,29 @@
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Techaukaha poravorã">
-<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.places.label "Inglés">
 <!ENTITY bookmarks.folder.tags.label "Teramoĩ">
 <!ENTITY bookmarks.folder.toolbar.label "Techaukaha rembipuru renda">
-
+<!ENTITY bookmarks.folder.other.label "Ambue techaukahakuéra">
 <!ENTITY bookmarks.folder.desktop.label "Techaukaha mba\u0027erechaha pegua">
 <!ENTITY bookmarks.folder.mobile.label "Pumbyry popegua rechaukaha">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "Mbojapyre">
 <!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
 
+<!ENTITY fxaccount_back_to_browsing "Ejevyjey kundahárape">
 
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Eg̃uahẽporãite &syncBrand.shortName.label;-pe">
+<!ENTITY fxaccount_getting_started_description2 "Eñepyrũ tembiapo embojuehe hag̃ua tendaykekuéra, techaukaha, puruhára réra ha hetave mba\u0027e.">
+<!ENTITY fxaccount_getting_started_get_started "Eñepyrũ">
+<!ENTITY fxaccount_getting_started_old_firefox "Eipuruhína apopy itujavéva &syncBrand.shortName.label; mba\u0027éva?">
 
-
-
+<!ENTITY fxaccount_status_signed_in_as "Jeike pyahu">
+<!ENTITY fxaccount_status_manage_account "Mba\u0027ete ñangarekoha">
 
 
 

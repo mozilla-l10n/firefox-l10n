@@ -3,11 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY toolbar.searchPlaceholder     "Heka">
 
+<!ENTITY newPref.namePlaceholder       "Téra">
 
+<!ENTITY newPref.valueBoolean          "Voole">
+<!ENTITY newPref.valueString           "Sã">
+<!ENTITY newPref.valueInteger          "Oĩmbáva">
 
+<!ENTITY newPref.stringPlaceholder     "Emoinge peteĩ joajuha">
+<!ENTITY newPref.numberPlaceholder     "Emoinge peteĩ papapy">
 
+<!ENTITY newPref.toggleButton          "Mongu'eha">
+<!ENTITY newPref.cancelButton          "Heja">
 
-
-
-
+<!ENTITY contextMenu.copyPrefName      "Monguatiapy réra">
+<!ENTITY contextMenu.copyPrefValue     "Monguatiapy repy">
