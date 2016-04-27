@@ -24,10 +24,10 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontroleer die lêernaam vir bokas of onderkas of ander tikfoute.</li> <li>Kontroleer of die lêer verskuif, hernoem of geskrap is.</li> </ul>">
 
 
-<!ENTITY generic.title "Oeps.">
-<!ENTITY generic.longDesc "<p>&brandShortName; kan om een of ander rede nie dié bladsy laai nie.</p>">
 
-<!ENTITY malformedURI.title "Die adres is ongeldig">
+<!ENTITY generic.title "Oeps.">
+
+
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -35,7 +35,7 @@
 
 
 <!ENTITY notCached.title "Dokumentgeldigheid het verval">
-<!ENTITY notCached.longDesc "<p>Die aangevraagde dokument is nie beskikbaar in &brandShortName; se kas nie.</p><ul><li>As 'n sekuriteitsmaatreël vra &brandShortName; nie outomaties weer vir sensitiewe dokumente nie.</li><li>Klik Probeer weer om die dokument weer van die webwerf aan te vra.</li></ul>">
+
 
 <!ENTITY netOffline.title "Aflynmodus">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -59,7 +59,6 @@
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY redirectLoop.title "Die bladsy herverwys nie behoorlik nie">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Hierdie probleem kan soms veroorsaak word deur koekies te deaktiveer of te weier om koekies te aanvaar.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Onverwagse respons vanaf bediener">
@@ -97,3 +96,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
