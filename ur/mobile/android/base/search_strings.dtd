@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage "اس آلے سے تمام تلاش سابقات حذف کریں؟">
 <!ENTITY pref_clearHistory_title "تلاش تاریخ خالی کریں">
 
-<!ENTITY pref_searchProvider_title "تلاش انجن">
-
 <!ENTITY search_widget_button_label "تلاش کریں">
 
 <!ENTITY network_error_title "کوئی انٹرنیٹ کنکشن نہیں">
