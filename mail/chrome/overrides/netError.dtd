@@ -24,7 +24,7 @@
     <strong>www</strong>.eksempel.dk</li>
   <li>Hvis du ikke kan indlæse nogen sider overhovedet, undersøg da din
    computers netværksforbindelse.</li>
-  <li>Hvis din computer eller netværk er beskyttet af en firewall eller proxy, sørg da 
+  <li>Hvis din computer eller netværk er beskyttet af en firewall eller proxy, sørg da
   for at &brandShortName; har tilladelse til at tilgå nettet.</li>
 </ul>
 ">
@@ -37,6 +37,12 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Filen kunne ikke tilgås">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Den kan være blevet slettet, flyttet eller fil-tilladelserne kan forhindre adgang.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Hovsa.">
 <!ENTITY generic.longDesc "
@@ -99,7 +105,7 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Undersøg proxy-indstillingerne og vær sikker på at de er korrekte.</li>
-  <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren 
+  <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren
   fungerer.</li>
 </ul>
 ">
@@ -117,7 +123,7 @@
 <!ENTITY redirectLoop.title "Denne side viderefører ikke forespørgslen korrekt">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse 
+  <li>Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse
   af cookies er blevet nægtet.</li>
 </ul>
 ">
@@ -125,7 +131,7 @@
 <!ENTITY unknownSocketType.title "Uventet svar fra server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Undersøg om dit system har Personal Security Manager 
+  <li>Undersøg om dit system har Personal Security Manager
   installeret.</li>
   <li>Dette kan skyldes en ikke-standard opsætning af serveren.</li>
 </ul>
@@ -143,41 +149,20 @@
 <!ENTITY nssBadCert.longDesc2 "<ul>
   <li>Dette kan være et problem med serverens konfiguration, eller det kan betyde,
 at nogen forsøger at give sig ud for at være serveren.</li>
-  <li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være midlertidligt 
+  <li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være midlertidligt
 og du anbefales at prøve igen senere.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Siden kan være midlertidigt utilgængelig eller travlt optaget. Prøv igen om et 
+  <li>Siden kan være midlertidigt utilgængelig eller travlt optaget. Prøv igen om et
   øjeblik.</li>
-  <li>Hvis du er ude af stand til at indlæse nogen sider overhovedet, undersøg da din 
+  <li>Hvis du er ude af stand til at indlæse nogen sider overhovedet, undersøg da din
   computers netværksforbindelse.</li>
-  <li>Hvis din computer eller dit netværk er beskyttet af en firewall eller proxy, sørg 
+  <li>Hvis din computer eller dit netværk er beskyttet af en firewall eller proxy, sørg
   da for at &brandShortName; har tilladelse til at tilgå nettet.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Websted mistænkt for at sprede skadelig software!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Nogle websteder forsøger at installere software som stjæler private data, bruge din computer til at angribe andre, eller at skade dit system.</p>
-<p>Ejere af websteder som tror deres websted fejlagtigt er blevet registereret som et websted, der spreder skadelig software kan <a href='http://www.stopbadware.org/home/reviewinfo'>forespørge om et review</a>.</p>
-">
-
-<!ENTITY unwantedBlocked.title "Websted mistænkt for uønsket software!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Websteder med uønsket software prøver at lokke dig til at installere software, som kan påvirke dit system på uventede måder.</p>
-">
-
-<!ENTITY phishingBlocked.title "Mistænkt netsvindel!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Indtastning af personlige informationer på denne side kan resultere i identitetstyveri eller anden forfalskning.</p>
-<p>Denne type netsvindel er kendt som phishing-angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
-">
-
-<!ENTITY forbiddenBlocked.title "Blokeret websted">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; blokerede denne side på grund af dine sikkerhedsindstillinger.</p>
 ">
 
 <!ENTITY cspBlocked.title "Blokeret grundet indholdssikkerhedspolitik">
