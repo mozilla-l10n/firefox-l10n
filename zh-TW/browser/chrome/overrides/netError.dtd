@@ -36,6 +36,8 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "對檔案的存取要求已被拒絕">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>可能是檔案被移走、移除，或存取權限不正確，造成無法存取。</li></ul>">
 
 <!ENTITY generic.title "噢！">
 <!ENTITY generic.longDesc "
@@ -126,13 +128,11 @@
   <li>請向網站擁有者回報此問題。</li>
 </ul>">
 
-<!ENTITY nssBadCert.title "安全連線失敗">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>這可能是伺服器上的組態設定造成的，或是有人嘗試假造該伺服器。</li>
-  <li>若您以前可以與該伺服器正常連線，那麼這個錯誤可能只是暫時的，您可以稍候再試試看。</li>
-</ul>
-">
+<!ENTITY certerror.longpagetitle1 "您的連線並不安全">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/> 的網站管理員未正確設定好網站。為了確保您的資訊不會被盜走，&brandShortName; 並未連線至該網站。">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -150,20 +150,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>因為在資料傳輸過程當中偵測到錯誤，無法顯示您正要檢視的頁面。</p><ul><li>請通知網站管理者以讓他們知道這個問題。</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "或者您也可以新增例外網站…">
-<!ENTITY securityOverride.getMeOutOfHereButton "帶我離開這裡！">
 <!ENTITY securityOverride.exceptionButtonLabel "新增例外網站…">
-
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-<!ENTITY securityOverride.warningContent "<p>您不應該在您不完全信任的網路連線，或是不曾看到關於此伺服器的警告的情況下增加例外。</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
 
 <!ENTITY errorReporting.automatic2 "回報這類的錯誤，幫助 Mozilla 找出並封鎖惡意網站">
 <!ENTITY errorReporting.learnMore "更多資訊…">
@@ -183,4 +170,13 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoAdvanced.title "進階">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> 使用過時的安全性技術，容易遭受攻擊。攻擊者可以簡單地得知您認為安全地資訊。">
 <!ENTITY weakCryptoAdvanced.override "嘗試使用過時的安全性設定載入此頁面 <span class='hostname'></span>（不安全）">
+
+<!ENTITY certerror.pagetitle1  "不安全的連線">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此網站使用 HTTP Strict Transport Security (HSTS) 要求 &brandShortName; 只能進行安全連線。因此您無法將此憑證設為例外。">
+<!ENTITY certerror.copyToClipboard.label "將文字複製到剪貼簿">
+
+<!ENTITY inadequateSecurityError.title "您的連線並不安全">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> 使用過時的安全性技術，容易遭受攻擊。攻擊者可以簡單地得知您認為安全的資訊。網站管理員修正伺服器設定後您才能連線至此網站。</p><p>錯誤代碼: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 

@@ -149,4 +149,7 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "L">
 <!ENTITY spellAddDictionaries.label     "下載其它字典">
 <!ENTITY spellAddDictionaries.accesskey "D">
+<!-- Developer Tools -->
+<!ENTITY devtoolsInspect.label          "檢測元素">
+<!ENTITY devtoolsInspect.accesskey      "n">
 

@@ -41,6 +41,8 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "對檔案的存取要求已被拒絕">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>可能是檔案被移走、移除，或存取權限不正確，造成無法存取。</li></ul>">
 
 <!ENTITY generic.title "噢！">
 <!ENTITY generic.longDesc "
@@ -189,4 +191,9 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "進階資訊: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "您的連線並不安全">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> 使用過時的安全性技術，容易遭受攻擊。攻擊者可以簡單地得知您認為安全的資訊。網站管理員修正伺服器設定後您才能連線至此網站。</p><p>錯誤代碼: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
