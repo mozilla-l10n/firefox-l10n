@@ -7,32 +7,34 @@
 <!ENTITY  onboard_start_subtext3 "Bila cerebeya we ya gera li ser Webê ji we re bimîne.">
 
 <!ENTITY firstrun_urlbar_message "Bi xêr hatî &brandShortName;ê">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "Bi kurteriyên pêşniyarên lêgerînê yên bikêrhatî tiştan zûtir bibînin.">
+<!ENTITY firstrun_bookmarks_title "Raborî">
+<!ENTITY firstrun_bookmarks_message "Hemû tiştên bi dilê we li wirê ne">
+<!ENTITY firstrun_bookmarks_subtext "Di lêgerînê de encamên ji bijare û raboriyê jî bibînin.">
+<!ENTITY firstrun_data_title "Dane">
+<!ENTITY firstrun_data_message "Hindiktir dane, zêdetir teseruf">
+<!ENTITY firstrun_data_subtext2 "Ji bo ku di malperên serdan dikî de hindiktir dane xerc bikî wêneyan bigire.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName; her tim li gel we ye">
+<!ENTITY firstrun_sync_subtext "Hilpekîn, şîfre û zêdetir tiştên bi kar tînî sync bike û li gel xwe bigerîne.">
+<!ENTITY firstrun_signin_message "Girêdanê çêke, dest pê bike">
+<!ENTITY firstrun_signin_button "Têkeve Syncê">
+<!ENTITY  onboard_start_button_browser "Dest bi gerê bike">
+<!ENTITY firstrun_button_next "Pêşve">
 
+<!ENTITY  onboard_start_restricted1 "Bi versiyona hêsankirî ya &brandShortName;\u0027ê re ewle û xwedankontrol bin.">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY  reading_list_migration_title "Lîsteya Xwendinê hat girêdan">
+<!ENTITY  reading_list_migration_subtext "Hêmanên Lîsteya te ya xwendinê dê niha li Bijareyan bên zêdekirin">
+<!ENTITY  reading_list_migration_goto_bookmarks "Here Bijareyan">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Panela te ya Bijareyan veşartî ye">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Bijare">
 <!ENTITY  history_title "Raborî">
-
-
+<!ENTITY  reading_list_title "Lîsteya Xwendinê">
+<!ENTITY  recent_tabs_title "Hilpekînên dawiyê">
 
 <!ENTITY  switch_to_tab "Biçe hilpekînê">
 
@@ -49,37 +51,43 @@
 <!ENTITY  crash_close_label "Bigire">
 <!ENTITY  crash_restart_label "&brandShortName;ê venû bike">
 
+<!ENTITY url_bar_default_text2 "Lêgerînê bike yan jî navnîşanekê binivîse">
 
-
+<!ENTITY bookmark "Bijare">
+<!ENTITY bookmark_remove "Bijareyê rake">
 <!ENTITY bookmark_added "Bijare lê hat zêdekirin">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Jixwe di Bijareyan de ye">
 <!ENTITY bookmark_removed "Bijare hat rakirin">
 <!ENTITY bookmark_updated "Bijare hat nûkirin">
 <!ENTITY bookmark_options "Vebijark">
-
+<!ENTITY screenshot_added_to_bookmarks "Wêneekran li bijareyan hat zêdekirin">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Wêneekran">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Lîsteya Xwendinê">
 
-
+<!ENTITY reader_saved_offline "Negirêdanê tomar bû">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
 
 <!ENTITY history_today_section "Îro">
 <!ENTITY history_yesterday_section "Do">
+<!ENTITY history_week_section3 "7 rojên dawîn">
+<!ENTITY history_older_section3 "Ji 6 mehan kevntir">
 
-
-
+<!ENTITY search "Lê bigere">
 <!ENTITY reload "Nû bike">
 <!ENTITY forward "Pêşve">
-
+<!ENTITY menu "Menu">
 <!ENTITY back "Paşve">
-
+<!ENTITY stop "Bisekinîne">
 <!ENTITY site_security "Ewlekariya Malperê">
-
+<!ENTITY edit_mode_cancel "Betal bike">
 
 <!ENTITY close_tab "Hilpekînê bigire">
 <!ENTITY one_tab "Hilpekînek">
@@ -87,10 +95,11 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; hilpekîn">
 <!ENTITY new_tab_opened "Hilpekîna nû hat vekirin">
-
+<!ENTITY new_private_tab_opened "Hilpekîneke nepen ya nû hat vekirin">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "HERÊ">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -98,100 +107,120 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Deng lê dide – &formatS;">
 
 <!ENTITY settings "Eyar">
-
-
-
+<!ENTITY settings_title "Eyar">
+<!ENTITY pref_category_general "Giştî">
+<!ENTITY pref_category_general_summary3 "Mal, ziman, dora hilpekînê">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
-
+<!ENTITY pref_category_language "Ziman">
+<!ENTITY pref_category_language_summary "Zimanê geroka xwe biguherîne">
+<!ENTITY pref_browser_locale "Zimanê gerokê">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "Standarda Pergalê">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Têxe &brandShortName;\u0027ê">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
-
+<!ENTITY overlay_share_bookmark_btn_label "Bixe nav Bijareyan">
+<!ENTITY overlay_share_bookmark_btn_label_already "Jixwe di Bijareyan de ye">
+<!ENTITY overlay_share_send_other "Bişîne bo cîhazên din">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-
+<!ENTITY overlay_share_send_tab_btn_label "Bişîne bo cîhazeke din">
+<!ENTITY overlay_share_no_url "Di vê parvekirinê de girêdank nehat dîtin">
+<!ENTITY overlay_share_select_device "Cîhazê hilbijêre">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Tu cîhaz girêdayî hesabê te yê Firefoxê nehat dîtin">
 
-
-
-
+<!ENTITY pref_category_search3 "Lêgerîn">
+<!ENTITY pref_category_search_summary2 "Têxê, bike standard, pêşniyaran nîşan bide">
+<!ENTITY pref_category_accessibility "Gihîştin">
+<!ENTITY pref_category_accessibility_summary2 "Mezinahiya nivîsê, zoom, ketana dengî">
 <!ENTITY pref_category_privacy_short "Nepenî">
-
-
-
+<!ENTITY pref_category_privacy_summary4 "Şopandin, têketin, hilbijartinên daneyan">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Derbarê &brandShortName;\u0027ê de, PPP, ragihandin">
 <!ENTITY pref_category_datareporting "Vebijarkên daneyan">
-
+<!ENTITY pref_category_logins "Têketin">
 <!ENTITY pref_learn_more "Bêtir bizane">
 <!ENTITY pref_category_installed_search_engines "Motorên lêgerînê yên barkirî">
 <!ENTITY pref_category_add_search_providers "Zêdetir peydakerên lêgerînê lê zêde bike">
-
-
-
+<!ENTITY pref_category_search_restore_defaults "Motorên lêgerînê veava bike">
+<!ENTITY pref_search_restore_defaults "Yên standard bar bike">
+<!ENTITY pref_search_restore_defaults_summary "Yên standard dîsa bar bike">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "TIP: Li ser qada lêgerînê dirêj pêlê bike û paşê îkona &formatI;\u0027ê bitikîne ku malperan têxî nav pêşkêşkarên lêgerînê.">
+<!ENTITY pref_category_advanced "Pêşketî">
+<!ENTITY pref_category_advanced_summary3 "Hilpekînan veava bike, teserufa daneyan, amûrên pêşvebirinê">
+<!ENTITY pref_category_notifications "Agahdarî">
+<!ENTITY pref_category_notifications_summary "Taybetiyên nû, nûbûnên malperê">
+<!ENTITY pref_content_notifications "Nûbûnên malperî">
+<!ENTITY pref_content_notifications_summary2 "Ji malperên destekkirî naverokên nû keşf bike">
+<!ENTITY pref_developer_remotedebugging_usb "Bi USB parzûna çewtiyan ya ji dûr ve">
+<!ENTITY pref_developer_remotedebugging_wifi "Bi Wi-Fiyê parzûna çewtiyan ya ji dûr ve">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ji bo parzûna çewtiyan ya bi Wi-Fiyê pêwîst e ku di cîhaza te de bernamokeke xwendeya QRê sazkirî be.">
+<!ENTITY pref_remember_signons2 "Têketinan bi bîr bîne">
+<!ENTITY pref_manage_logins "Hesaban bi rê ve bibe">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_category_home "Serûpel">
+<!ENTITY pref_category_home_summary "Serûpela xwe taybet bike">
+<!ENTITY pref_category_home_panels "Panel">
+<!ENTITY pref_category_home_add_ons "Add-on">
+<!ENTITY pref_home_updates2 "Nûbûnên heyî">
+<!ENTITY pref_home_updates_enabled "Çalak">
+<!ENTITY pref_home_updates_wifi "Tenê bi Wi-Fiyê">
+<!ENTITY pref_category_home_homepage "Serûpel">
+<!ENTITY home_homepage_title "Serûpelekê eyar bike">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "Serûpela &brandShortName;\u0027ê">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Taybet">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Navnîşan yan jî peyva lêgerînê binivîse">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
-
-
-
-
-
+<!ENTITY pref_header_general "Giştî">
+<!ENTITY pref_header_search "Lêgerîn">
+<!ENTITY pref_header_privacy_short "Nepenî">
+<!ENTITY pref_header_accessibility "Gihîştin">
+<!ENTITY pref_header_notifications "Agahdarî">
+<!ENTITY pref_header_advanced "Pêşketî">
+<!ENTITY pref_header_help "Alîkarî">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Çerez">
-
+<!ENTITY pref_cookies_accept_all "Çalak">
 <!ENTITY pref_cookies_not_accept_foreign "Çalak, ji bî partiyên 3yemîn">
 <!ENTITY pref_cookies_disabled "Neçalak">
 
