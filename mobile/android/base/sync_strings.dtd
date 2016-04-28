@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label '標籤'>
 <!ENTITY bookmarks.folder.toolbar.label '書籤工具列'>
-<!ENTITY bookmarks.folder.unfiled.label '未排序書籤'>
+<!ENTITY bookmarks.folder.other.label '其他書籤'>
 <!ENTITY bookmarks.folder.desktop.label '來自電腦的書籤'>
 <!ENTITY bookmarks.folder.mobile.label '行動書籤'>
-<!ENTITY bookmarks.folder.readinglist.label '閱讀清單'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label '釘選網站'>
 
-<!-- Send tab to device. -->
-<!ENTITY sync.title.redirect.to.set.up.sync.label '設定 &syncBrand.shortName.label; 以傳送分頁標籤'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label '在您的裝置上設定 &syncBrand.fullName.label; 以將分頁標籤傳送至其他裝置。'>
-<!ENTITY sync.text.tab.sent.label '已送出您的分頁！'>
-<!ENTITY sync.text.tab.not.sent.label '傳送您的分頁時發生問題。'>
-
 <!-- Firefox Account strings. -->
-
-<!ENTITY fxaccount_full_label 'Firefox 帳號'>
-
-<!ENTITY fxaccount_custom_server_account_title '使用伺服器上的帳號'>
-<!ENTITY fxaccount_custom_server_sync_title '在伺服器上儲存同步資料'>
-
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-<!ENTITY fxaccount_email_hint '電子郵件'>
-<!ENTITY fxaccount_password_hint '密碼'>
-<!ENTITY fxaccount_password_hide '隱藏'>
-<!ENTITY fxaccount_password_show '顯示'>
 
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing '回到瀏覽器'>
 
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
-<!ENTITY fxaccount_policy_linktos '服務條款'>
-<!ENTITY fxaccount_policy_linkprivacy '隱私權公告'>
-
 <!ENTITY fxaccount_getting_started_welcome_to_sync '歡迎使用 &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 '登入以同步您的分頁、書籤、登入帳密與其他資料。'>
 <!ENTITY fxaccount_getting_started_get_started '開始設定'>
 <!ENTITY fxaccount_getting_started_old_firefox '正在使用舊版的 &syncBrand.shortName.label;？'>
 
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
-<!ENTITY fxaccount_create_account_header2 '註冊 Firefox 帳號'>
-<!ENTITY fxaccount_create_account_password_length_restriction '至少要有 8 個字元長'>
-<!ENTITY fxaccount_create_account_day_of_birth '日'>
-<!ENTITY fxaccount_create_account_month_of_birth '月'>
-<!ENTITY fxaccount_create_account_year_of_birth '出生年'>
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 '若繼續，代表您同意 Firefox 雲端服務的 &formatS1; 與 &formatS2;。'>
-<!ENTITY fxaccount_create_account_button '下一步'>
-<!ENTITY fxaccount_create_account_choose_what_to_sync '選擇要同步的項目'>
-<!ENTITY fxaccount_create_account_sign_in_instead '已經有帳號了？在此登入'>
-<!ENTITY fxaccount_create_account_1990_or_earlier '1990 年或更早'>
-<!ENTITY fxaccount_create_account_unknown_error '無法建立帳號'>
-
-<!ENTITY fxaccount_account_create_not_allowed '無法建立帳號'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements '您必須符合年齡條件才能註冊帳號。'>
-<!ENTITY fxaccount_account_create_not_allowed_learn_more '詳細資訊'>
-
-<!ENTITY fxaccount_confirm_account_header '確認您的帳號'>
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link '已將驗證連結寄送至 &formatS;'>
-<!ENTITY fxaccount_confirm_account_resend_email '重寄驗證郵件'>
-<!ENTITY fxaccount_confirm_account_change_email '要忘記此電子郵件地址？'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 '已寄出驗證郵件'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 '無法傳送驗證郵件'>
-<!ENTITY fxaccount_resend_unlock_code_button_label '重寄解鎖信'>
-<!ENTITY fxaccount_unlock_code_sent '已寄出帳號解鎖信'>
-<!ENTITY fxaccount_unlock_code_not_sent '無法傳送帳號解鎖信'>
-
-<!ENTITY fxaccount_sign_in_sub_header '登入'>
-<!ENTITY fxaccount_sign_in_button_label '登入'>
-<!ENTITY fxaccount_sign_in_forgot_password '忘記密碼？'>
-<!ENTITY fxaccount_sign_in_create_account_instead '註冊帳號'>
-<!ENTITY fxaccount_sign_in_unknown_error '無法登入'>
-
-<!ENTITY fxaccount_account_verified_sub_header '帳號已驗證'>
-<!ENTITY fxaccount_account_verified_description2 '您的資料將在稍後開始同步。'>
-
-<!ENTITY fxaccount_migration_finished_header '升級完成'>
-
-<!ENTITY fxaccount_update_credentials_header '登入'>
-<!ENTITY fxaccount_update_credentials_button_label '登入'>
-<!ENTITY fxaccount_update_credentials_unknown_error '無法登入'>
-
-<!ENTITY fxaccount_finish_migrating_header '登入以完成升級'>
-<!ENTITY fxaccount_finish_migrating_button_label '完成升級'>
-<!ENTITY fxaccount_finish_migrating_description '升級過程可能需要傳輸很多資料，建議您最好連線到 Wi-Fi 網路。'>
-
-<!ENTITY fxaccount_status_header2 'Firefox 帳號'>
 <!ENTITY fxaccount_status_signed_in_as '已登入為'>
 <!ENTITY fxaccount_status_manage_account '管理帳號'>
 <!ENTITY fxaccount_status_auth_server '帳號伺服器'>
@@ -154,8 +75,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos '服務條款'>
-<!ENTITY fxaccount_status_linkprivacy '隱私權公告'>
+<!ENTITY fxaccount_status_linktos2 '服務項目'>
+<!ENTITY fxaccount_status_linkprivacy2 '隱私權通知'>
 <!ENTITY fxaccount_status_more '更多&ellipsis;'>
 <!ENTITY fxaccount_remove_account '取消連線&ellipsis;'>
 
@@ -192,7 +113,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS '伺服器忙碌中，請稍後重試'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD '伺服器忙碌中，請稍後重試'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR '發生了問題'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT '無法連線至網路'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED '帳號已鎖定。&formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; 未連線'>
@@ -204,9 +124,4 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text '點擊以登入為 &formatS;'>
-
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-<!ENTITY old_sync_deprecated_notification_title '登入後繼續同步'>
-<!ENTITY old_sync_deprecated_notification_content '已不再支援您的帳號'>
 

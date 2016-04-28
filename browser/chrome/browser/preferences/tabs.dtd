@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "開啟多個分頁使 &brandShortName; 變慢時警告">
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY restoreTabsOnDemand.label        "在選擇前不要載入分頁">
-<!ENTITY restoreTabsOnDemand.accesskey    "l">
-
 <!ENTITY switchToNewTabs.label        "用新分頁開啟鏈結後自動切換至該分頁">
 <!ENTITY switchToNewTabs.accesskey    "s">
 

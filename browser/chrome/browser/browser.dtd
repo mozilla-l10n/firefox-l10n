@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "訂閱此頁面…">
 <!ENTITY addCurPagesCmd.label "將所有分頁加入書籤…">
 <!ENTITY showAllBookmarks2.label "顯示所有書籤">
-<!ENTITY unsortedBookmarksCmd.label "未排序書籤">
+<!ENTITY recentBookmarks.label "最近加入的書籤">
+<!ENTITY otherBookmarksCmd.label "其他書籤">
 <!ENTITY bookmarksToolbarChevron.tooltip "顯示更多書籤">
 
 <!ENTITY backCmd.label                "上一頁">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "檢視應用程式離線儲存空間訊息">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "管理您的登入資訊">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "確認您是否要儲存密碼">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "檢視應用程式安裝訊息">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "管理此頁面的外掛程式使用情況">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "變更您是否要收到來自此網站的通知">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "書籤">
-<!ENTITY bookmarksMenuButton.unsorted.label "未排序書籤">
+<!ENTITY bookmarksMenuButton.other.label "其他書籤">
 <!ENTITY viewBookmarksSidebar2.label        "檢視書籤欄">
 <!ENTITY viewBookmarksToolbar.label         "檢視書籤工具列">
 
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "網頁開發者">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "連線…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "錯誤主控台">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-
-<!ENTITY remoteWebConsoleCmd.label    "遠端網頁主控台">
-
-<!ENTITY browserConsoleCmd.label      "瀏覽器主控台">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
-
 <!ENTITY inspectContextMenu.label     "檢測元素">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "適應性設計檢視模式">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "滴管">
-<!ENTITY eyedropper.accesskey "Y">
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "程式碼速記本">
-<!ENTITY scratchpad.accesskey         "S">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "瀏覽器工具箱">
-<!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY browserToolboxCmd.commandkey "i">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "瀏覽器內容工具箱">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "關閉開發者工具列">
-<!ENTITY devToolbarMenu.label              "開發者工具列">
-<!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "網頁工具箱">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "切換開發者工具">
-<!ENTITY devToolbarOtherToolsButton.label  "其他工具">
-
-<!ENTITY getMoreDevtoolsCmd.label        "取得更多工具">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "檔案"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "開啟說明選單">
 
 <!ENTITY appMenuRemoteTabs.label "已同步的分頁">
-<!ENTITY appMenuRemoteTabs.fetching.label "正在取回已同步的分頁…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "無已開啟的分頁">
@@ -420,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "將您其他裝置也登入至 Firefox，在此檢視那些裝置中開啟的分頁。">
+<!ENTITY appMenuRemoteTabs.noclients.title "還沒有同步過來的分頁！">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "想在這裡看到您其他裝置上開啟的分頁嗎？">
 <!ENTITY appMenuRemoteTabs.openprefs.label "同步偏好設定">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "登入以檢視您其他裝置中的分頁清單。">
 <!ENTITY appMenuRemoteTabs.signin.label "登入至 Sync">
@@ -795,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "已同步的分頁">
 
 <!ENTITY syncedTabs.sidebar.label              "已同步的分頁">
-<!ENTITY syncedTabs.sidebar.fetching.label     "正在取回已同步的分頁…">
 <!ENTITY syncedTabs.sidebar.noclients.label    "將您其他裝置也登入至 Firefox，在此檢視那些裝置中開啟的分頁。">
+<!ENTITY syncedTabs.sidebar.noclients.title    "還沒有同步過來的分頁！">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "想在這裡看到您其他裝置上開啟的分頁嗎？">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "登入以檢視您其他裝置中的分頁清單。">
 <!ENTITY syncedTabs.sidebar.notabs.label       "無已開啟的分頁">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "開啟 &syncBrand.shortName.label; 偏好設定">
@@ -804,10 +734,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "開啟分頁同步功能以檢視您其他裝置中的分頁清單。">
 
-<!ENTITY syncedTabs.context.openTab.label                   "開啟此分頁">
-<!ENTITY syncedTabs.context.openTab.accesskey               "O">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "將此分頁加入書籤…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
+<!ENTITY syncedTabs.context.open.label                       "開啟">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "用新分頁開啟">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "用新視窗開啟">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "用新隱私視窗開啟">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "將此分頁加入書籤…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "複製">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

@@ -17,7 +17,6 @@
 
 <!ENTITY     search.placeholder             "搜尋 Cookie">
 <!ENTITY     focusSearch.key                "f">
-<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "名稱:">
@@ -28,10 +27,9 @@
 <!ENTITY     props.expires.label            "有效期限:">
 
 <!ENTITY     treehead.sitename.label        "網站">
+<!ENTITY     treehead.scheme.label          "Scheme">
 <!ENTITY     treehead.status.label          "狀態">
 <!ENTITY     windowtitle.label              "Cookie 管理員">
-<!ENTITY     buttonaccept.label             "關閉">
-<!ENTITY     buttonaccept.accesskey         "C">
 
 <!ENTITY     blockSite.label                "封鎖">
 <!ENTITY     blockSite.accesskey            "B">

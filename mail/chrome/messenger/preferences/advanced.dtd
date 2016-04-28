@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "一般">
-<!ENTITY dataChoicesTab.label    "資料選擇">
+<!ENTITY dataChoicesTab.label    "回報資料">
 <!ENTITY itemUpdate.label        "更新">
 <!ENTITY itemNetworking.label    "網路與磁碟空間">
 <!ENTITY itemCertificates.label  "憑證">

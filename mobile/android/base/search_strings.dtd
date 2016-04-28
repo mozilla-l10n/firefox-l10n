@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage '刪除此裝置中的所有搜尋紀錄？'>
 <!ENTITY pref_clearHistory_title '清除搜尋紀錄'>
 
-<!ENTITY pref_searchProvider_title '搜尋引擎'>
-
 <!ENTITY search_widget_button_label '搜尋'>
 
 <!ENTITY network_error_title '沒有網路連線'>
