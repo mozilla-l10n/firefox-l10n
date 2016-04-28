@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "الملف غير موجود">
 <!ENTITY fileNotFound.longDesc "<ul><li>ربما حُذِف العنصر، تغير اسمه، أو مكانه؟</li><li>هل هناك خطأ إملائي أو مطبعي في العنوان؟</li><li>هل لديك صلاحيات كافية للنفاذ إلى العنصر المطلوب؟</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "مُنِع الوصول للملف">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>قد يكون حُذِف أو نُقِل أو أن صلاحيّات الملف تمنع الوصول إليه.</li></ul>">
 
 <!ENTITY generic.title "تعذّر إكمال الطلب">
 <!ENTITY generic.longDesc "<p>لا يوجد حاليا المزيد من المعلومات حول هذه المشكلة أو الخطأ.</p>">
@@ -81,5 +82,6 @@
 <!ENTITY remoteXUL.title "XUL بعيد">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "اتّصالك غير آمن">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
