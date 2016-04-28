@@ -15,7 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "Ka kakaretso">
 <!ENTITY  paneTabs.title          "Ditab">
-
+<!ENTITY  paneSearch.title        "Batla">
 <!ENTITY  paneContent.title       "Diteng">
 <!ENTITY  paneApplications.title  "Dirweboleta">
 <!ENTITY  panePrivacy.title       "Sephiri">
