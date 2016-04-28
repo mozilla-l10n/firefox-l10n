@@ -9,18 +9,18 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Reportada como página de ataque!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Esta página web <span id='malware_sitename'/> foi reportada como uma página de ataque e foi bloqueada com base nas suas preferências de segurança.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Esta página web em <span id='malware_sitename'/> foi reportada como uma página de ataque e foi bloqueada com base nas suas preferências de segurança.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>As páginas de ataque tentam instalar programas que roubam a sua informação privada, usam o seu computador para atacar outros, ou danificam o seu sistema.</p><p>Algumas páginas de ataque distribuem de forma intencional software malicioso, mas muitas são comprometidas sem o conhecimento ou autorização aos seus proprietários.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Site enganador!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc3 "A página web em <span id='phishing_sitename'/> foi denunciada como um site decetivo e bloqueada de acordo com as suas preferências de segurança.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Esta página web em <span id='phishing_sitename'/> foi reportada como um site decetivo e foi bloqueada de acordo com as suas preferências de segurança.">
 <!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Os sites enganadores são desenhados para o induzir a fazer algo perigoso, como instalar software, ou a revelar a sua informação pessoal, como palavras-passe, números de telefone ou de cartões de crédito.</p><p>Introduzir qualquer informação nesta página web poderá resultar em roubo de identidade ou outra fraude.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Reportado como site de software indesejado!">
+<!ENTITY safeb.blocked.unwantedPage.title "Reportado como site de software não-solicitado!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Esta página web em <span id='unwanted_sitename'/> foi indicada como uma página de software não-solicitado e foi bloqueada com base nas suas preferências de segurança.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "As páginas de software não solicitado tentam instalar software que pode ser decetivo e afetar o seu sistema de formas inesperadas.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Esta página web em <span id='unwanted_sitename'/> foi reportada como uma página de software não-solicitado e foi bloqueada com base nas suas preferências de segurança.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "As páginas de software não-solicitado tentam instalar software que pode ser decetivo e afetar o seu sistema de formas inesperadas.">
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Site bloqueado">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
