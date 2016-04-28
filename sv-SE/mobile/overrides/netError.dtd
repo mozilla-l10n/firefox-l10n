@@ -23,6 +23,7 @@
 <!ENTITY fileNotFound.title "Filen kan inte hittas">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontrollera om det finns stavfel eller andra typografiska fel i filnamnet.</li> <li>Kontrollera om den flyttats, fått ett annat namn eller tagits bort.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "Åtkomst till filen nekades">
 
 
 <!ENTITY generic.title "Hoppsan!">
