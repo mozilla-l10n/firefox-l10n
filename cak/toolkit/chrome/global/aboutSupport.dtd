@@ -5,7 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "Etamab'äl richin yesol taq k'ayewal">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Pa re ruxaq re' k'o samajel etamab'äl chupam, ri nito'on we nawajo' nasöl jun k'ayewal. Richin nawïl kitzijol relik taq k'utunïk chi rij &brandShortName; kab'etz'eton pa qa <a id='supportLink'>ruxaq k'amaya'l richin to'ïk</a>.">
+<!ENTITY aboutSupport.pageSubtitle "  Pa re ruxaq re' k'o samajel etamab'äl chupam, ri nito'on we nawajo' nasöl jun k'ayewal. Richin nawïl kitzijol relik taq k'utunïk chi rij &brandShortName;, kab'etz'eton pa qa <a id='supportLink'>ruxaq k'amaya'l richin to'ïk</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Rutzijol taq sachoj">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -19,11 +19,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "B'i'aj">
 <!ENTITY aboutSupport.extensionEnabled "Tzijon">
 <!ENTITY aboutSupport.extensionVersion "Ruwäch">
-<!ENTITY aboutSupport.extensionId "Nimaläj b'i'aj">
+<!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Soltojtob'enel taq rub'anikil">
 <!ENTITY aboutSupport.experimentName "B'i'aj">
-<!ENTITY aboutSupport.experimentId "Nimaläj b'i'aj">
+<!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Cholonem">
 <!ENTITY aboutSupport.experimentActive "Tzijïl">
 <!ENTITY aboutSupport.experimentEndDate "Ruq'ijul nik'is">
@@ -45,7 +45,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Rumolwuj  Ruwäch B'i'aj">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Rumolwuj Ruwäch B'i'aj">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Tzijon taq pluyin">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Runuk'ulem Molïk">
@@ -76,7 +76,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Retal">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "Taq ajowanïk pa user.js">
+<!ENTITY aboutSupport.userJSTitle "taq Ajowanïk pa user.js">
 <!ENTITY aboutSupport.userJSDescription "Ri amolyakb'äl ruwäch b'i'aj k'o jun <a id='prefs-user-js-link'>archivo user.js</a> chupam, ri rachib'ilan taq ajowanïk man enuk'un ta ruma ri &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Q'eleb'en kisamaj ri nimaläj taq ajowanïk">
@@ -86,7 +86,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Taq wachib'äl">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Rusik'ik k'iyirisan q'ayïs ">
+<!ENTITY aboutSupport.jsIncrementalGC "Rusik'ik k'iyirisan q'ayïs">
 
 <!ENTITY aboutSupport.a11yTitle "Okel">
 <!ENTITY aboutSupport.a11yActivated "Tzijïl">
