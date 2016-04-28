@@ -18,7 +18,7 @@
 <!ENTITY props.path.label                  "Caminho:">
 <!ENTITY props.secure.label                "Enviar para:">
 <!ENTITY props.expires.label               "Expira a:">
-
+<!ENTITY props.container.label             "Contentor:">
 
 <!ENTITY window.title                      "Cookies">
 <!ENTITY windowClose.key                   "w">
