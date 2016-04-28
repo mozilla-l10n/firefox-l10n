@@ -64,20 +64,26 @@
 <!ENTITY cookies.blockOnRemove.accesskey "w">
 <!-- permissions -->
 
-
+<!ENTITY perm.UseDefault "Utilizar predefinições">
+<!ENTITY perm.AskAlways "Perguntar sempre">
+<!ENTITY perm.NeverSave "Nunca guardar">
 <!ENTITY perm.Allow "Permitir">
 <!ENTITY perm.AllowSameDomain "Permitir para o mesmo domínio">
 <!ENTITY perm.AllowSession "Permitir para a sessão">
 <!ENTITY perm.Block "Bloquear">
 
-
-
+<!ENTITY perm.host.placeholder "Introduza um nome de servidor">
+<!ENTITY perm.button.add.label "Adicionar">
+<!ENTITY perm.button.add.accesskey "A">
 <!-- password permissions -->
 
+<!ENTITY permpwd.UseDefault "Utilizar predefinições">
+<!ENTITY permpwd.AskAlways "Perguntar sempre">
+<!ENTITY permpwd.NeverSave "Nunca guardar">
 
-
-
-
+<!ENTITY permpwd.host.placeholder "Introduza um nome de servidor">
+<!ENTITY permpwd.button.add.label "Adicionar">
+<!ENTITY permpwd.button.add.accesskey "A">
 <!-- preferences -->
 
 <!ENTITY prefs.description "As preferências de conteúdo são uma forma do &brandShortName; guardar as suas definições, como os níveis de ampliação, para um determinado website.">

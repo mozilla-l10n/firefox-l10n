@@ -7,17 +7,21 @@
 <!ENTITY allowRemoteDebugging.label     "Permitir depuração remota">
 <!ENTITY allowRemoteDebugging.accesskey "P">
 
+<!ENTITY devToolsCmd.keycode             "VK_F12">
+<!ENTITY devToolsCmd.keytext             "F12">
+
+<!ENTITY devtoolsConnect.label           "Ligar…">
+<!ENTITY devtoolsConnect.accesskey       "g">
 
 
 
 
+<!ENTITY responsiveDesignTool.label      "Vista de design responsivo">
+<!ENTITY responsiveDesignTool.accesskey  "r">
 
 
-
-
-
-
-
+<!ENTITY eyedropper.label                "Eyedropper">
+<!ENTITY eyedropper.accesskey            "y">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -29,28 +33,40 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
-
-
+<!ENTITY scratchpad.label                "Scratchpad">
+<!ENTITY scratchpad.accesskey            "S">
+<!ENTITY scratchpad.keycode              "VK_F4">
+<!ENTITY scratchpad.keytext              "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
+<!ENTITY browserToolboxMenu.label        "Caixa de ferramentas do navegador">
+<!ENTITY browserToolboxMenu.accesskey    "e">
 
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Caixa de ferramentas de conteúdo do navegador">
+<!ENTITY browserContentToolboxMenu.accesskey "C">
+
+<!ENTITY devToolbarCloseButton.tooltiptext   "Fechar barra de ferramentas do programador">
+<!ENTITY devToolbarMenu.label                "Barra de ferramentas do programador">
+<!ENTITY devToolbarMenu.accesskey            "d">
+
+<!ENTITY webide.label                        "WebIDE">
+<!ENTITY webide.accesskey                    "W">
+<!ENTITY webide.keycode                      "VK_F8">
+<!ENTITY webide.keytext                      "F8">
+
+<!ENTITY devToolbar.keycode                  "VK_F2">
+<!ENTITY devToolbar.keytext                  "F2">
+
+<!ENTITY devToolboxMenuItem.label            "Alternar ferramentas">
+<!ENTITY devToolboxMenuItem.accesskey        "t">
 
 
+<!ENTITY devToolbarToolsButton.tooltip       "Alternar ferramentas do programador">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY getMoreDevtoolsCmd.label            "Obter mais ferramentas">
+<!ENTITY getMoreDevtoolsCmd.accesskey        "m">
