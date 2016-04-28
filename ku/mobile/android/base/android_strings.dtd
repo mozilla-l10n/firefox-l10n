@@ -11,7 +11,7 @@
 <!ENTITY firstrun_bookmarks_title "Raborî">
 <!ENTITY firstrun_bookmarks_message "Hemû tiştên bi dilê we li wirê ne">
 <!ENTITY firstrun_bookmarks_subtext "Di lêgerînê de encamên ji bijare û raboriyê jî bibînin.">
-<!ENTITY firstrun_data_title "Dane">
+<!ENTITY firstrun_data_title "Dane ">
 <!ENTITY firstrun_data_message "Hindiktir dane, zêdetir teseruf">
 <!ENTITY firstrun_data_subtext2 "Ji bo ku di malperên serdan dikî de hindiktir dane xerc bikî wêneyan bigire.">
 <!ENTITY firstrun_sync_title "Sync">
@@ -338,14 +338,14 @@ size. -->
 <!ENTITY pref_sync2 "Têkevê">
 
 
+<!ENTITY pref_history_search_suggestions "Dîroka lêgerînê nîşan bide">
 
 
 
+<!ENTITY pref_private_data_searchHistory "Dîroka lêgerînê">
 
 
-
-
-
+<!ENTITY pref_private_data_passwords2 "Têketinên tomarkirî">
 
 
 
@@ -356,10 +356,11 @@ size. -->
 <!ENTITY pref_vendor_faqs "PPP">
 
 
+<!ENTITY pref_dialog_default "Standard">
 
 
 
-
+<!ENTITY pref_panels_show "Nîşan bide">
 
 
 
@@ -400,18 +401,18 @@ size. -->
 
 <!ENTITY quit "Derkeve">
 
+<!ENTITY logins "Têketin">
 
 
 
 
+<!ENTITY share_image_failed "Wêne nikare bê parvekirin">
+<!ENTITY save_as_pdf "Wek PDF tomar bike">
 
+<!ENTITY find_in_page "Di rûpelê de bibîne">
 
-
-
-
-
-
-
+<!ENTITY page "Rûpel">
+<!ENTITY tools "Amûr">
 
 
 
@@ -451,9 +452,9 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_edit_username_hint "Navê bikarhêner">
 
-
-
+<!ENTITY doorhanger_login_edit_toggle "Şîfreyê nîşan bide">
 
 
 
@@ -472,8 +473,8 @@ size. -->
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
-
-
+<!ENTITY bookmark_edit_name "Nav">
+<!ENTITY bookmark_edit_location "Cî">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -588,6 +589,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Destûrê bide">
 <!-- Guest mode -->
 
 
