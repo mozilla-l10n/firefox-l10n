@@ -108,3 +108,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Prøv fejlsikret tilstand">
 <!ENTITY aboutSupport.restartInSafeMode.label "Genstart med tilføjelser deaktiveret…">
+
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Funktioner">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostik">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Fejl-log">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">

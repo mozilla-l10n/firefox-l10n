@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "e">
 <!ENTITY compactVersion.label "Kompakt visning">
 <!ENTITY compactVersion.accesskey "K">
+<!ENTITY folderPaneBar.label "Værktøjslinje for mapper">
+<!ENTITY folderModeSelector.label "Mappevisninger">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sorter efter">
@@ -367,6 +369,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editAsNewMsgCmd.label "Rediger meddelelsen som ny">
 <!ENTITY editAsNewMsgCmd.accesskey "R">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Rediger kladde">
+<!ENTITY editDraftMsgCmd.accesskey "l">
 <!ENTITY createFilter.label "Opret filter…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Flyt til">
@@ -719,6 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenContainingFolder.accesskey "m">
 <!ENTITY contextEditMsgAsNew.label "Rediger som ny meddelelse">
 <!ENTITY contextEditMsgAsNew.accesskey "y">
+<!ENTITY contextEditDraftMsg.label "Rediger kladde">
 <!ENTITY contextArchive.label "Arkiver">
 <!ENTITY contextArchive.accesskey "r">
 <!ENTITY contextReplySender.label "Svar kun afsenderen">
@@ -746,9 +751,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextCopyMsgMenu.label "Kopier til">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignorer tråd">
+<!ENTITY contextKillSubthreadMenu.accesskey "o">
 <!ENTITY contextKillThreadMenu.accesskey "t">
 <!ENTITY contextKillSubthreadMenu.label "Ignorer undertråd">
 <!ENTITY contextWatchThreadMenu.label "Overvåg tråd">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "e">
 <!ENTITY contextSaveAs.label "Gem som…">
 <!ENTITY contextSaveAs.accesskey "G">
 <!ENTITY contextPrint.label "Udskriv…">
