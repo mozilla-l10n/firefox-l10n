@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!-- Specific error messages -->
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
-
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 
 
@@ -33,9 +33,9 @@
 
 
 
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
-
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 
 
