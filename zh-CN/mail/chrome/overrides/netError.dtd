@@ -28,7 +28,7 @@
 <!ENTITY fileAccessDenied.title "访问文件被拒绝">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>它可能已被删除、移动，或者文件权限可能阻止访问。</li>
+  <li>它可能已被删除、移动，或者因文件权限拒绝访问。</li>
 </ul>
 ">
 
