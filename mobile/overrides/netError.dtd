@@ -19,6 +19,7 @@
 <!ENTITY dnsNotFound.title "ไม่พบเซิร์ฟเวอร์">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>ตรวจสอบข้อผิดพลาดในการพิมพ์ที่อยู่ อย่างเช่น <strong>ww</strong>.example.com แทนที่จะเป็น <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ค้นหา</button> </div> <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อข้อมูลหรือ Wi-Fi ของอุปกรณ์ของคุณ <button id='wifi'>เปิดใช้งาน Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "ไม่พบไฟล์">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ตรวจสอบชื่อไฟล์สำหรับตัวพิมพ์ใหญ่เล็กหรือข้อผิดพลาดการพิมพ์อื่น ๆ</li> <li>ตรวจสอบเพื่อดูหากไฟล์ถูกย้าย เปลี่ยนชื่อ หรือลบ</li> </ul>">
@@ -27,17 +28,18 @@
 
 
 <!ENTITY generic.title "อุปส์">
-
+<!ENTITY generic.longDesc "<p>&brandShortName; ไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางอย่าง</p>">
 
 <!ENTITY malformedURI.title "ที่อยู่ไม่ถูกต้อง">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>ที่อยู่เว็บมักจะเขียนเป็น <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ค้นหา</button> </div> <li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมายทับไปข้างหน้า (กล่าวคือ <strong>/</strong>)</li> </ul>">
 
 <!ENTITY netInterrupt.title "การเชื่อมต่อถูกขัดจังหวะ">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "เอกสารหมดอายุ">
-
+<!ENTITY notCached.longDesc "<p>เอกสารที่ร้องขอไม่มีในแคชของ &brandShortName;</p><ul><li>ตามมาตรการรักษาความปลอดภัย &brandShortName; จะไม่ร้องขอเอกสารที่ละเอียดอ่อนให้ใหม่โดยอัตโนมัติ</li><li>คลิก ลองอีกครั้ง เพื่อร้องขอเอกสารจากเว็บไซต์ใหม่</li></ul>">
 
 <!ENTITY netOffline.title "โหมดออฟไลน์">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -77,7 +79,7 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>หน้าที่คุณกำลังพยายามจะดูไม่สามารถแสดงได้เนื่องจากไม่สามารถยืนยันความถูกต้องของข้อมูลที่ได้รับ</li> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
 <!ENTITY nssBadCert.title "การเชื่อมต่อปลอดภัยล้มเหลว">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>สิ่งนี้อาจเป็นปัญหาจากการกำหนดค่าของเซิร์ฟเวอร์ หรืออาจมีใครบางคนกำลังพยายามปลอมแปลงเซิร์ฟเวอร์</li> <li>หากคุณเคยเชื่อมต่อกับเซิร์ฟเวอร์นี้สำเร็จในอดีต ข้อผิดพลาดอาจเกิดขึ้นเพียงชั่วคราว และคุณสามารถลองอีกครั้งในภายหลัง</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
