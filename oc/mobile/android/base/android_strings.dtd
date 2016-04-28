@@ -434,8 +434,8 @@ size. -->
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_edit_username_hint "Nom d\u0027utilizaire">
-
-
+<!ENTITY doorhanger_login_edit_password_hint "Senhal">
+<!ENTITY doorhanger_login_edit_toggle "Afichar lo senhal">
 
 
 
@@ -464,23 +464,25 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "Paramètres del site">
-
+<!ENTITY site_settings_cancel       "Anullar">
 <!ENTITY site_settings_clear        "Escafar">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
+<!ENTITY page_action_dropmarker_description "Accions suplementàrias">
+
 <!ENTITY masterpassword_create_title "Crear un senhal principal">
 <!ENTITY masterpassword_remove_title "Supression del senhal principal">
-
+<!ENTITY masterpassword_password "Senhal">
 <!ENTITY masterpassword_confirm "Confirmar lo senhal :">
 
 <!ENTITY button_ok "D\u0027acòrdi">
-
+<!ENTITY button_cancel "Anullar">
 <!ENTITY button_yes "Òc">
 <!ENTITY button_no "Non">
 <!ENTITY button_clear_data "Escafar las donadas">
-
-
+<!ENTITY button_set "Validar">
+<!ENTITY button_clear "Escafar">
 <!ENTITY button_copy "Copiar">
 
 <!ENTITY home_top_sites_title "Sites favorits">
@@ -489,7 +491,7 @@ size. -->
 <!ENTITY home_top_sites_add "Apondre un site">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
+<!ENTITY home_history_title "Istoric">
 
 
 
@@ -518,6 +520,7 @@ size. -->
 
 
 
+<!ENTITY filepicker_title "Causir un fichièr">
 <!ENTITY filepicker_audio_title "Causir o enregistrar un son">
 <!ENTITY filepicker_image_title "Causir un imatge o far una còpia d\u0027ecran">
 <!ENTITY filepicker_video_title "Causir o enregistrar una vidèo">
@@ -535,7 +538,8 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
+<!ENTITY identity_connection_secure "Connexion securizada">
+<!ENTITY identity_connection_insecure "Connexion pas segura">
 
 
 <!-- Mixed content notifications in site identity popup -->
@@ -543,19 +547,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- Tracking content notifications in site identity popup -->
-
-
+<!ENTITY doorhanger_tracking_state_enabled "Activat">
+<!ENTITY doorhanger_tracking_state_disabled "Desactivat">
 
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Ne saber mai">
-
-
+<!ENTITY enable_protection "Activar la proteccion">
+<!ENTITY disable_protection "Desactivar la proteccion ">
 
 <!ENTITY private_data_success "Donadas personalas escafadas">
 <!ENTITY private_data_fail "D\u0027unas donadas personalas pòdon pas èsser escafadas">
 
+<!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Importacion dels marcapaginas e de l\u0027istoric dempuèi Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Importacion dels marcapaginas dempuèi Android">
 <!ENTITY bookmarkhistory_import_history "Importacion de l\u0027istoric dempuèi Android">
@@ -568,9 +573,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Recercar amb &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
+
+<!ENTITY suggestion_for_engine "Recercar «&formatS2;» dins &formatS1;">
 
 <!ENTITY searchable_description "Marcapaginas e istoric">
 <!-- Updater notifications --> 
@@ -583,19 +591,23 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Tocar per aplicar la mesa a jorn un còp telecargada">
 <!ENTITY updater_downloading_retry2 "Tocar per tornar ensajar">
 
+<!ENTITY updater_apply_title2 "Mesa a jorn disponibla per &brandShortName;">
 <!ENTITY updater_apply_select2 "Tocar per metre a jorn">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!-- Guest mode -->
+<!ENTITY updater_permission_allow "Autorizar">
+<!-- Guest mode -->    
 
+<!ENTITY new_guest_session "Session de convidat">
+<!ENTITY exit_guest_session "Tampar la session de convidat ">
 <!ENTITY guest_session_dialog_continue "Contunhar">
+<!ENTITY guest_session_dialog_cancel "Anullar">
 
 
 
-
-
+<!ENTITY guest_browsing_notification_text "Tocatz per sortir">
 
 
 <!-- Miscellaneous -->
@@ -603,23 +615,35 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "Menú">
 <!ENTITY actionbar_done "Acabat">
 <!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "Parlatz ara">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Darrièra sincr.: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Darrièra sincr.: pas jamai">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -641,15 +665,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_addons_installation "Moduls complementaris">
+
 <!ENTITY restrictable_feature_private_browsing "Navigacion privada">
 
+<!ENTITY restrictable_feature_clear_history "Voidar l\u0027istoric">
+
+<!ENTITY restrictable_feature_advanced_settings "Paramètres avançats">
 
 
 
-
-
-
-
+<!ENTITY restrictable_feature_block_list "Lista dels blocats">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->

@@ -44,12 +44,13 @@
 
 
 
-
-
-
-
-
-
+<!ENTITY fxaccount_status_signed_in_as "Identificat en tant que">
+<!ENTITY fxaccount_status_manage_account "Gestion del compte">
+<!ENTITY fxaccount_status_auth_server "Servidor de comptes">
+<!ENTITY fxaccount_status_sync_now "Sincronizar ara">
+<!ENTITY fxaccount_status_syncing2 "Sincronizacion...">
+<!ENTITY fxaccount_status_device_name "Nom del periferic">
+<!ENTITY fxaccount_status_sync_server "Servidor de Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: activat">
 
@@ -58,18 +59,19 @@
 
 
 
-
+<!ENTITY fxaccount_status_bookmarks "Marcapaginas">
 <!ENTITY fxaccount_status_history "Istoric">
-
-
-
+<!ENTITY fxaccount_status_passwords2 "Se connectar">
+<!ENTITY fxaccount_status_tabs "Dobrir los onglets">
+<!ENTITY fxaccount_status_legal "Avises legals" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
-
-
+<!ENTITY fxaccount_status_linktos2 "Condicions d\u0027utilizacion">
+<!ENTITY fxaccount_status_linkprivacy2 "Politica de confidencialitat">
+<!ENTITY fxaccount_status_more "Mai&ellipsis;">
+<!ENTITY fxaccount_remove_account "Desconnectar&ellipsis;">
 
 
 <!-- Localization note: format string below will be replaced
@@ -77,6 +79,8 @@
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
