@@ -203,19 +203,19 @@
 <!ENTITY headersAllCmd.accesskey "T">
 <!ENTITY headersNormalCmd.label "Normal">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY bodyMenu.label "Texto da mensagem como">
-<!ENTITY bodyMenu.accesskey "o">
+<!ENTITY bodyMenu.label "Corpo da mensagem como">
+<!ENTITY bodyMenu.accesskey "m">
 <!ENTITY bodyAllowHTML.label "HTML normal">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "HTML simples">
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Texto simples">
 <!ENTITY bodyAsPlaintext.accesskey "x">
-<!ENTITY bodyAllParts.label "Todas as partes do texto">
+<!ENTITY bodyAllParts.label "Todas as partes do corpo">
 <!ENTITY bodyAllParts.accesskey "a">
 
-<!ENTITY bodyMenuFeed.label "Texto da mensagem de fonte como">
-<!ENTITY bodyMenuFeed.accesskey "n">
+<!ENTITY bodyMenuFeed.label "Corpo da mensagem de fonte como">
+<!ENTITY bodyMenuFeed.accesskey "f">
 <!ENTITY viewFeedWebPage.label "Página web">
 <!ENTITY viewFeedWebPage.accesskey "w">
 <!ENTITY viewFeedSummary.label "Resumo">
