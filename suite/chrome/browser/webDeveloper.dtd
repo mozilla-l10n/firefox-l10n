@@ -13,8 +13,9 @@
 <!ENTITY devtoolsConnect.label           "Ligar…">
 <!ENTITY devtoolsConnect.accesskey       "g">
 
+<!ENTITY browserConsoleCmd.label         "Consola do navegador">
 
-
+<!ENTITY browserConsoleCmd.accesskey     "C">
 
 <!ENTITY responsiveDesignTool.label      "Vista de design responsivo">
 <!ENTITY responsiveDesignTool.accesskey  "r">
@@ -50,8 +51,8 @@
 <!ENTITY browserContentToolboxMenu.label     "Caixa de ferramentas de conteúdo do navegador">
 <!ENTITY browserContentToolboxMenu.accesskey "C">
 
-<!ENTITY devToolbarCloseButton.tooltiptext   "Fechar barra de ferramentas do programador">
-<!ENTITY devToolbarMenu.label                "Barra de ferramentas do programador">
+<!ENTITY devToolbarCloseButton.tooltiptext   "Fechar barra de ferramentas de programador">
+<!ENTITY devToolbarMenu.label                "Barra de ferramentas de programador">
 <!ENTITY devToolbarMenu.accesskey            "d">
 
 <!ENTITY webide.label                        "WebIDE">
@@ -66,7 +67,7 @@
 <!ENTITY devToolboxMenuItem.accesskey        "t">
 
 
-<!ENTITY devToolbarToolsButton.tooltip       "Alternar ferramentas do programador">
+<!ENTITY devToolbarToolsButton.tooltip       "Alternar ferramentas de programador">
 
 <!ENTITY getMoreDevtoolsCmd.label            "Obter mais ferramentas">
 <!ENTITY getMoreDevtoolsCmd.accesskey        "m">
