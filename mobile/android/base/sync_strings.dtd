@@ -75,6 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos2 "Termos do serviço">
 
 <!ENTITY fxaccount_status_more "Mais&ellipsis;">
 <!ENTITY fxaccount_remove_account "Desligar&ellipsis;">

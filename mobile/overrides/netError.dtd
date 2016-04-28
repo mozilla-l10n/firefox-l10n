@@ -26,8 +26,9 @@
 
 
 <!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "<p>O &brandShortName; não conseguiu carregar a página por alguma razão.</p>">
 
-
+<!ENTITY malformedURI.title "O endereço não é válido">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -54,6 +55,7 @@
 <!ENTITY netTimeout.title "A ligação expirou">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "O endereço não foi compreendido">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Poderá ter que instalar outro software para abrir este endereço.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "O servidor proxy está a recusar ligações">
@@ -64,6 +66,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Verifique as definições de proxy para confirmar que estão corretas.</li> <li>Verifique se o seu computador tem uma ligação de rede de dados ou Wi-Fi funcional. <button id='wifi'>Ativar Wi-Fi</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "A página não está a redirecionar corretamente">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Por vezes, este problema pode ser causado pela desativação ou recusa de cookies.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Resposta inesperada do servidor">
