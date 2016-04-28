@@ -19,14 +19,15 @@
 <!ENTITY useSmoothScroll.label                  "Utilizar deslocação suave">
 <!ENTITY useSmoothScroll.accesskey              "U">
 
+<!ENTITY zoomPrefs.label                        "Opções de ampliação">
 <!-- LOCALIZATION NOTE (minZoom.label, maxZoom.label, percent.label):
      single hbox with minZoom.label preceding the minZoom control and
      maxZoom.label preceding the maxZoom control; percent.label shows
      the ASCII '%' character at the end of that string -->
 
-
-
-
+<!ENTITY maxZoom.label                          "para">
+<!ENTITY maxZoom.accesskey                      "r">
+<!ENTITY percent.label                          "&#037;">
 
 <!ENTITY siteSpecific.label                     "Memorizar nível de ampliação por site">
 <!ENTITY siteSpecific.accesskey                 "m">
