@@ -455,3 +455,6 @@
 <!ENTITY whatsnew_notification_title "Установлена последняя версия &brandShortName;">
 <!ENTITY whatsnew_notification_summary "Узнать, что нового в этой версии">
 <!ENTITY promotion_add_to_homescreen "Добавить на домашний экран">
+<!ENTITY helper_first_offline_bookmark_title "Чтение без подключения">
+<!ENTITY helper_first_offline_bookmark_message "Найдите ваш Список для чтения в Закладках, даже без подключения к Интернету.">
+<!ENTITY helper_first_offline_bookmark_button "Перейти в Закладки">
