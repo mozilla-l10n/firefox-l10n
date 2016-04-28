@@ -20,7 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Ferramentas para todos os extras">
 
-<!ENTITY cmd.back.tooltip                     "Recuar uma página">
+<!ENTITY cmd.back.tooltip                     "Retroceder uma página">
 <!ENTITY cmd.forward.tooltip                  "Avançar uma página">
 
 <!ENTITY showUnsignedExtensions.button.label  "Algumas extensões não foram verificadas">

@@ -98,7 +98,7 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importar e criar cópia de segurança dos seus marcadores">
 
-<!ENTITY backButton.tooltip  "Recuar">
+<!ENTITY backButton.tooltip  "Retroceder">
 
 <!ENTITY forwardButton.tooltip  "Avançar">
 
