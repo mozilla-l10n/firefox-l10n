@@ -38,6 +38,13 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Åtkomst till filen nekades">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Den kan ha tagits bort, flyttats eller filrättigheter kan förhindra tillgång.</li>
+</ul>
+">
+
 <!ENTITY generic.title "Hoppsan!">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; kan av någon anledning inte visa sidan.</p>
@@ -155,27 +162,6 @@
   <li>Om datorn eller nätverket skyddas av en brandvägg eller proxy, kontrollera
     att &brandShortName; har tillstånd att ansluta till webben.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Misstänkt skadlig webbplats!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Skadliga webbplatser försöker installera program för att stjäla privata uppgifter, använda din dator för att angripa andras, eller för att skada ditt system.</p>
-<p>Ägare till webbplatser som anser att deras webbplats felaktigt har rapporterats som skadlig kan <a href='http://www.stopbadware.org/home/reviewinfo'>begära en omprövning</a>.</p>
-">
-
-<!ENTITY unwantedBlocked.title "Misstänkt webbplats med oönskad programvara!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Oönskade programsidor försöker installera programvara som kan vara vilseledande och påverka ditt system på oväntade sätt.</p>
-">
-
-<!ENTITY phishingBlocked.title "Misstänkt webbförfalskning!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Personliga uppgifter som lämnas på den där sidan kan resultera i identitetsstöld eller annat bedrägeri.</p>
-<p>Den här typen av webbförfalskningar används i något som kallas nätfiske där falska webbsidor och e-postmeddelanden används för att imitera källor du kanske litar på.</p>
-">
-
-<!ENTITY forbiddenBlocked.title "Förbjuden webbplats">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; förhindrade den här sidan från laddning eftersom den är konfigurerad för att blockera den.</p>
 ">
 
 <!ENTITY cspBlocked.title "Blockerad av säkerhetspolicyn för innehåll">
