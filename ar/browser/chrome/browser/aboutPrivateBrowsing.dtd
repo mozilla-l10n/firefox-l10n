@@ -6,25 +6,26 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "افتح نافذة خاصة">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "خ">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY privateBrowsing.title                           "التصفح الخاص">
+<!ENTITY privateBrowsing.title.tracking                  "التصفح الخاص مع الحماية من التعقب">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "عندما تتصفح في نافذة خاصة، ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "لا يحفظ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        " فَيَرفُكس:">
+<!ENTITY aboutPrivateBrowsing.info.visited               "الصفحات المُزارة">
+<!ENTITY aboutPrivateBrowsing.info.searches              "البحوث">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "الكعكات">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "الملفات المؤقتة">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "​">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "سيحفظ">
+<!ENTITY aboutPrivateBrowsing.info.saved.after           "فَيَرفُكس:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "تنزيلاتك">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "علاماتك">
+<!ENTITY aboutPrivateBrowsing.note.before                "التصفح الخاص ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "لا يجعل هويتك مجهولة">
+<!ENTITY aboutPrivateBrowsing.note.after                 " على الإنترنت. باستطاعة رب عملك أو مزود خدمة الإنترنت معرفة الصفحات التي زرتها.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "اعرف المزيد عن">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "التصفح الخاص">
 
 <!ENTITY trackingProtection.title                        "الحماية من التعقّب">
-
-
+<!ENTITY trackingProtection.description2                 "تستخدم بعض المواقع متعقبات تستطيع مراقبتك نشاطك عبر الإنترنت. مع الحماية من التعقب سيمنع فَيَرفُكس الكثير من المتعقبات التي تجمع معلومات عن عن سلوكك على الإنترنت.">
+<!ENTITY trackingProtection.startTour1                   "اطلع على طريقة عمله">

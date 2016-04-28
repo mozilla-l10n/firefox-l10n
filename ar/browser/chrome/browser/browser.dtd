@@ -168,8 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "اشترك في هذه الصفحة…">
 <!ENTITY addCurPagesCmd.label "علّم كل الألسنة…">
 <!ENTITY showAllBookmarks2.label "أظهِر كل العلامات">
-
-
+<!ENTITY recentBookmarks.label "المعلّم حديثا">
+<!ENTITY otherBookmarksCmd.label "العلامات الأخرى">
 <!ENTITY bookmarksToolbarChevron.tooltip "أظهِر المزيد من العلامات">
 
 <!ENTITY backCmd.label                "السابق">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "العلامات">
-
+<!ENTITY bookmarksMenuButton.other.label "العلامات الأخرى">
 <!ENTITY viewBookmarksSidebar2.label        "أظهِر شريط العلامات الجانبي">
 <!ENTITY viewBookmarksToolbar.label         "أظهِر شريط أدوات العلامات">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "قصّ">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ق"> 
-
+<!ENTITY copyCmd.label            "انسخ">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "ن"> 
 <!ENTITY pasteCmd.label           "ألصق">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "ل"> 
@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "لم تُزامَن أي ألسنة… بعد">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "أتريد رؤية ألسنتك من الأجهزة الأخرى هنا؟">
 <!ENTITY appMenuRemoteTabs.openprefs.label "تفضيلات المزامنة">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "لِج لعرض قائمة بالألسنة من أجهزتك الأخرى.">
 <!ENTITY appMenuRemoteTabs.signin.label "لِج إلى «المزامنة»">
@@ -694,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "اتصالك بهذا الموقع ليس خاصًّا. يمكن للآخرين مطالعة المعلومات التي ترسلها (مثل كلمات السر، و الرسائل، و بطاقات الائتمان و غيرها).">
 <!ENTITY identity.description.insecureLoginForms "معلومات الولوج التي تُدخلها في هذه الصفحة ليست مُؤمّنة و قد تكون مخترقة.">
 <!ENTITY identity.description.weakCipher "اتصالك بهذا الموقع يستخدم تعمية ضعيفة وليس خاصًّا أيضًا.">
-
+<!ENTITY identity.description.weakCipher2 "يمكن للآخرين الاطلاع على معلوماتك أو تغيير سلوك الموقع.">
 <!ENTITY identity.description.activeBlocked "منع &brandShortName; الأجزاء غير الآمنة في هذه الصفحة.">
 <!ENTITY identity.description.passiveLoaded "اتصالك ليس خاصًا و يمكن للآخرين مطالعة المعلومات التي تشاركها مع الموقع.">
 <!ENTITY identity.description.passiveLoaded2 "يحوي هذا الموقع محتوى غير آمن (مثل الصور).">
@@ -724,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "الألسنة المُزامنة">
 
 <!ENTITY syncedTabs.sidebar.label              "الألسنة المُزامنة">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "لِج إلى فيَرفُكس من أجهزتك الأخرى لعرض ألسنتهم هنا.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "لم تُزامَن أي ألسنة… بعد">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "أتريد رؤية ألسنتك من الأجهزة الأخرى هنا؟">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "لِج لعرض قائمة بالألسنة من أجهزتك الأخرى.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "لا ألسنة مفتوحة">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "افتح تفضيلات &syncBrand.shortName.label;">
@@ -734,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "فعّل مزامنة الألسنة لعرض قائمة بالألسنة من أجهزتك الأخرى.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "افتح">
+<!ENTITY syncedTabs.context.open.accesskey                   "ف">
+<!ENTITY syncedTabs.context.openInNewTab.label               "افتح في لسان جديد">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "ل">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "افتح في نافذة جديدة">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "ج">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "افتح في نافذة خاصة جديدة">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "خ">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "علّم هذا اللسان…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ع">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "انسخ">
+<!ENTITY syncedTabs.context.copy.accesskey                   "ن">
 
 
 <!ENTITY syncBrand.shortName.label    "تزامُن">
