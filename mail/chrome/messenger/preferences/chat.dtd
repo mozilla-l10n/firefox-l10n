@@ -20,7 +20,7 @@ sentence. -->
 <!ENTITY  andSetStatusToAway.label      "та встановлювати мені статус Відійшов із повідомленням статусу:">
 <!ENTITY  andSetStatusToAway.accesskey  "В">
 
-<!ENTITY  sendTyping.label              "Надсилати сповіщення про набір у бесідах">
+<!ENTITY  sendTyping.label              "Надсилати сповіщення про введення в розмовах">
 <!ENTITY  sendTyping.accesskey          "н">
 
 <!ENTITY  chatNotifications.label             "Коли прибувають направлені вам повідомлення:">

@@ -229,7 +229,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "Непрочитані повідомлення в розмовах, що відстежуються">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "с">
 <!ENTITY ignoredThreadsCmd.label "Ігноровані розмови">
-<!ENTITY ignoredThreadsCmd.accesskey "З">
+<!ENTITY ignoredThreadsCmd.accesskey "І">
 
 <!ENTITY headersMenu.label "Заголовки">
 <!ENTITY headersMenu.accesskey "З">
@@ -295,8 +295,8 @@
 <!ENTITY nextUnreadMsgCmd.label "Непрочитаний лист">
 <!ENTITY nextUnreadMsgCmd.accesskey "Н">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Лист з зіркою">
-<!ENTITY nextStarredMsgCmd.accesskey "З">
+<!ENTITY nextStarredMsgCmd.label "Повідомлення із зірочкою">
+<!ENTITY nextStarredMsgCmd.accesskey "з">
 <!ENTITY nextUnreadThread.label "Непрочитана розмова">
 <!ENTITY nextUnreadThread.accesskey "Н">
 <!ENTITY nextUnreadThread.key "t">
@@ -373,13 +373,13 @@
 <!ENTITY moveCopyMsgRecentMenu.accesskey "Н">
 <!ENTITY copyMessageLocation.label "Копіювати адресу листа">
 <!ENTITY copyMessageLocation.accesskey "а">
-<!ENTITY copyMsgToMenu.label "Копіювати у">
-<!ENTITY copyMsgToMenu.accesskey "у">
+<!ENTITY copyMsgToMenu.label "Копіювати до">
+<!ENTITY copyMsgToMenu.accesskey "К">
 <!ENTITY moveToFolderAgain.label "Перенести ще раз">
 <!ENTITY moveToFolderAgain.accesskey "щ">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ігнорувати розмову">
-<!ENTITY killThreadMenu.accesskey "у">
+<!ENTITY killThreadMenu.accesskey "І">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Ігнорувати підрозмову">
 <!ENTITY killSubthreadMenu.accesskey "І">
@@ -407,7 +407,7 @@
 <!ENTITY markAsUnreadCmd.label "Нечитаним">
 <!ENTITY markAsUnreadCmd.accesskey "Н">
 <!ENTITY markThreadAsReadCmd.label "Розмову прочитаною">
-<!ENTITY markThreadAsReadCmd.accesskey "г">
+<!ENTITY markThreadAsReadCmd.accesskey "м">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "Прочитаним за датою…">
 <!ENTITY markReadByDateCmd.accesskey "ч">
@@ -429,8 +429,8 @@
 <!ENTITY openMessageWindowCmd.label "Відкрити лист">
 <!ENTITY openMessageWindowCmd.accesskey "В">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Відкрити у Бесіді">
-<!ENTITY openConversationCmd.accesskey "Б">
+<!ENTITY openConversationCmd.label "Відкрити в розмові">
+<!ENTITY openConversationCmd.accesskey "б">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Вкладення">
 <!ENTITY openAttachmentListCmd.accesskey "л">
@@ -440,7 +440,7 @@
 <!ENTITY openFeedWebPage.accesskey "б">
 <!ENTITY openFeedSummary.label "Відкрити у вигляді стислого викладу">
 <!ENTITY openFeedSummary.accesskey "с">
-<!ENTITY openFeedWebPageInMP.label "Перемкнути веб сторінку і підсумок у панелі повідомлень">
+<!ENTITY openFeedWebPageInMP.label "Перемкнутись між веб-сторінкою і стислим викладом в області повідомлення">
 <!ENTITY openFeedWebPageInMP.accesskey "м">
 
 <!-- Windows Menu -->
@@ -714,7 +714,7 @@
      would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Відкрити лист в новій вкладці">
 <!ENTITY contextOpenNewTab.accesskey "к">
-<!ENTITY contextOpenConversation.label "Відкрити лист в бесіді">
+<!ENTITY contextOpenConversation.label "Відкрити повідомлення в розмові">
 <!ENTITY contextOpenConversation.accesskey "б">
 <!ENTITY contextOpenContainingFolder.label "Відкрити повідомлення у відповідній теці">
 <!ENTITY contextOpenContainingFolder.accesskey "н">
