@@ -158,15 +158,15 @@
 <!ENTITY pref_category_add_search_providers "Apondre de motors de recèrca">
 <!ENTITY pref_category_search_restore_defaults "Restablir los motors de recèrca">
 <!ENTITY pref_search_restore_defaults "Restablir los paramètres per defaut">
-
+<!ENTITY pref_search_restore_defaults_summary "Restablir los paramètres per defaut">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_category_advanced "Avançat">
 
-
-
+<!ENTITY pref_category_notifications "Notificacions">
 
 
 
@@ -179,7 +179,7 @@
 <!ENTITY pref_category_home "Acuèlh">
 <!ENTITY pref_category_home_summary "Personalizatz vòstra pagina d\u0027acuèlh">
 <!ENTITY pref_category_home_panels "Panèls">
-
+<!ENTITY pref_category_home_add_ons "Moduls complementaris">
 
 <!ENTITY pref_home_updates_enabled "Activat">
 <!ENTITY pref_home_updates_wifi "Solament per Wi-Fi">
@@ -188,10 +188,12 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "Acuèlh de &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Personalizat">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
@@ -199,51 +201,56 @@
      text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
-
-
-
-
-
+<!ENTITY pref_header_general "General">
+<!ENTITY pref_header_search "Recercar">
+<!ENTITY pref_header_privacy_short "Vida privada">
+<!ENTITY pref_header_accessibility "Accessibilitat">
+<!ENTITY pref_header_notifications "Notificacions">
+<!ENTITY pref_header_advanced "Avançat">
+<!ENTITY pref_header_help "Ajuda">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
-
+<!ENTITY pref_cookies_accept_all "Activat">
 <!ENTITY pref_cookies_not_accept_foreign "Autorizats, levat cookies tèrces">
 <!ENTITY pref_cookies_disabled "Desactivat">
 
 
+<!ENTITY pref_category_developer_tools "Aisinas de desvolopament">
+
+<!ENTITY pref_tap_to_load_images_title2 "Afichar los imatges">
+<!ENTITY pref_tap_to_load_images_enabled "Totjorn">
+<!ENTITY pref_tap_to_load_images_data "Solament per Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Blocat">
+
+
+
+<!ENTITY pref_tracking_protection_title2 "Proteccion contra lo seguiment">
+
+<!ENTITY pref_donottrack_title "Me pistar pas">
+
+
+<!ENTITY pref_tracking_protection_enabled "Activat">
+
+<!ENTITY pref_tracking_protection_disabled "Desactivat">
 
 
 
 
 
+<!ENTITY tracking_protection_prompt_action_button "Ai comprés !">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY tab_queue_toast_action "Dobrir ara">
 
 
 
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-
-
+<!ENTITY tab_queue_prompt_positive_action_button "Activat">
+<!ENTITY tab_queue_prompt_negative_action_button "Pas ara">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -253,6 +260,7 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
@@ -265,16 +273,17 @@
 <!ENTITY pref_char_encoding "Encodatge de caractèrs">
 <!ENTITY pref_char_encoding_on "Afichar lo menú">
 <!ENTITY pref_char_encoding_off "Amagar lo menú">
-
+<!ENTITY pref_clear_private_data2 "Escafar mas traças">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Voidar ara">
 
 
 
 <!ENTITY pref_plugins "Empeutons (Plugins)">
+<!ENTITY pref_plugins_enabled "Activats">
 
-
-
+<!ENTITY pref_plugins_disabled "Desactivats">
 <!ENTITY pref_text_size "Talha del tèxte">
 
 <!ENTITY pref_restore_always "Restablir totjorn">
@@ -290,6 +299,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
