@@ -11,7 +11,7 @@
 <!ENTITY aboutPage.checkForUpdates.none         "Pas cap de mesa a jorn disponibla">
 <!ENTITY aboutPage.checkForUpdates.available2   "Telecargament d'una mesa a jorn">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Telecargament d'una mesa a jorn…">
-
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Installar la mesa a jorn">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Assisténcia">
 <!ENTITY aboutPage.privacyPolicy.label          "Politica de confidencialitat">
@@ -20,3 +20,5 @@
 <!ENTITY aboutPage.credits.label                "Contributors">
 <!ENTITY aboutPage.license.label                "Las entresenhas sus la licéncia">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+
+<!ENTITY aboutPage.logoTrademark                "Firefox e los lògos de Firefox son de marcas depausadas de la fondacion Mozilla.">
