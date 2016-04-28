@@ -228,7 +228,7 @@
 <!ENTITY pref_tap_to_load_images_data "Apenas em Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloqueado">
 
-<!ENTITY pref_show_web_fonts "Mostrar tipos de letra web">
+<!ENTITY pref_show_web_fonts "Mostrar tipos de letra da web">
 
 
 <!ENTITY pref_tracking_protection_summary3 "Ativado na navegação privada">
@@ -322,9 +322,9 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Ativar sempre o zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forçar sobreposição para que possa ampliar qualquer página">
 <!ENTITY pref_voice_input "Entrada de voz">
-<!ENTITY pref_voice_input_summary2 "Permitir dicção por voz na barra de endereço">
+<!ENTITY pref_voice_input_summary2 "Permitir dicção por voz na barra de URL">
 <!ENTITY pref_qrcode_enabled "Leitor de código QR">
-<!ENTITY pref_qrcode_enabled_summary2 "Permitir leitor de QR na barra de endereço">
+<!ENTITY pref_qrcode_enabled_summary2 "Permitir leitor de QR na barra de URL">
 
 <!ENTITY pref_use_master_password "Utilizar palavra-passe mestra">
 <!ENTITY pref_sync2 "Iniciar sessão">
