@@ -148,6 +148,16 @@
 <!ENTITY weakCryptoAdvanced.title "Дополнительно">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> использует защитную технологию, которая является устаревшей и уязвимой для атаки. Злоумышленник может легко выявить информацию, которая, как вы думали, находится в безопасности.">
 <!ENTITY weakCryptoAdvanced.override "(Не защищено) Попробуйте загрузить <span class='hostname'></span>, используя устаревшую защиту">
+
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>Защищённое соединение с <span id='wrongSystemTime_URL'/> не представляется возможным, потому что похоже, что ваши часы показывают неправильное время.</p> <p>Ваш компьютер думает, что сейчас <span id='wrongSystemTime_systemDate'/>, тогда как на самом деле сейчас <span id='wrongSystemTime_actualDate'/>. Чтобы устранить эту проблему, измените ваши настройки даты и времени, чтобы установить правильное время.</p>">
+
 <!ENTITY certerror.pagetitle1 "Незащищённое соединение">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Этот сайт использует HTTP Strict Transport Security (HSTS), чтобы указать, что &brandShortName; должен подключаться к нему только через защищённое соединение. В результате, добавление исключения для этого сертификата невозможно.">
 <!ENTITY certerror.copyToClipboard.label "Копировать текст в буфер обмена">
+
+<!ENTITY inadequateSecurityError.title "Ваше соединение не защищено">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> использует защитную технологию, которая является устаревшей и уязвимой для атаки. Злоумышленник может легко выявить информацию, которая, как вы думали, находится в безопасности. Для того, чтобы вы смогли посетить веб-сайт, администратор веб-сайта должен сначала исправить его сервер.</p><p>Код ошибки: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
