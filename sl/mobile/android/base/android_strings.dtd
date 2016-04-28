@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "Za zagon &brandShortName;a ni na voljo dovolj pomnilnika.">
-<!ENTITY  error_loading_file "Med poskusom nalaganja datotek, ki so potrebne za zagon &brandShortName;a, je prišlo do napake">
-
 <!ENTITY firstrun_panel_title_welcome "Dobrodošli">
 <!ENTITY  onboard_start_message3 "Brskajte s &brandShortName;om">
 <!ENTITY  onboard_start_subtext3 "Naredite mobilno brskanje po spletu resnično vaše.">
@@ -28,6 +24,7 @@
 
 <!ENTITY  onboard_start_restricted1 "Ostanite varni in obdržite nadzor, z to poenostavljeno različico &brandShortName;.">
 
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Zaznamki">
@@ -49,12 +46,6 @@
 <!ENTITY  sending_crash_report "Pošiljanje poročila o sesutju \u2026">
 <!ENTITY  crash_close_label "Zapri">
 <!ENTITY  crash_restart_label "Ponovno zaženi &brandShortName;">
-<!ENTITY  exit_label "Izhod">
-
-<!ENTITY  launcher_shortcuts_title "Spletne aplikacije za &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "Ni bilo mogoče najti nobene spletne aplikacije">
-
-<!ENTITY choose_file "Izberite datoteko">
 
 <!ENTITY url_bar_default_text2 "Iskanje ali naslov strani">
 
@@ -68,14 +59,19 @@
 <!ENTITY bookmark_removed "Zaznamek odstranjen">
 <!ENTITY bookmark_updated "Zaznamek posodobljen">
 <!ENTITY bookmark_options "Možnosti">
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
 
 <!ENTITY history_today_section "Danes">
 <!ENTITY history_yesterday_section "Včeraj">
 <!ENTITY history_week_section3 "Zadnjih 7 dni">
-<!ENTITY history_this_month_section "Ta mesec">
 <!ENTITY history_older_section3 "Starejše od 6 mesecev">
 
-<!ENTITY go "Pojdi">
 <!ENTITY search "Iskanje">
 <!ENTITY reload "Ponovno naloži">
 <!ENTITY forward "Naprej">
@@ -108,7 +104,6 @@
 <!ENTITY settings "Nastavitve">
 <!ENTITY settings_title "Nastavitve">
 <!ENTITY pref_category_general "Splošno">
-<!ENTITY pref_category_general_summary2 "Domača stran, jezik, naslovna vrstica">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -131,9 +126,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Dodaj stran med zaznamke">
-<!ENTITY overlay_share_reading_list_btn_label "Dodaj na bralni seznam">
 <!ENTITY overlay_share_bookmark_btn_label_already "Že med zaznamki">
-<!ENTITY overlay_share_reading_list_btn_label_already "Že na bralnem seznamu">
 <!ENTITY overlay_share_send_other "Pošlji na druge naprave">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -149,11 +142,9 @@
 <!ENTITY overlay_no_synced_devices "Ni povezanih naprav s Firefox Računom">
 
 <!ENTITY pref_category_search3 "Iskanje">
-<!ENTITY pref_category_search_summary "Prilagodite svoje iskalnike">
 <!ENTITY pref_category_accessibility "Dostopnost">
 <!ENTITY pref_category_accessibility_summary2 "Velikost besedila, povečava, glasovni vnos">
 <!ENTITY pref_category_privacy_short "Zasebnost">
-<!ENTITY pref_category_privacy_summary3 "Sledenje, piškotki, podatkovne možnosti">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "O &brandShortName;u, pogosta vprašanja, povratne informacije">
 <!ENTITY pref_category_datareporting "Nastavitve podatkov">
@@ -168,10 +159,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "Nasvet: poljubno spletno stran lahko dodate na seznam iskalnikov, tako da dolgo pritisnete na njeno polje za iskanje in tapnete ikono &formatI;.">
 <!ENTITY pref_category_advanced "Napredno">
-<!ENTITY pref_category_advanced_summary2 "Obnovi zavihke, vtičnike, orodja za razvijalce">
-<!ENTITY pref_developer_remotedebugging "Oddaljeno razhroščevanje">
 <!ENTITY pref_developer_remotedebugging_usb "Oddaljeno razhroščevanje USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Oddaljeno razhroščevanje Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Razhroščevanje Wi-Fi zahteva, da ima vaša naprava nameščeno aplikacijo za branje QR-kode.">
@@ -181,18 +169,8 @@
 <!ENTITY pref_category_home "Domača stran">
 <!ENTITY pref_category_home_summary "Prilagodite domačo stran">
 <!ENTITY pref_category_home_panels "Plošče">
-<!ENTITY home_add_panel_title "Dodaj novo ploščo">
-<!ENTITY home_add_panel_empty "Oprostite, plošč za dodajanje ni bilo mogoče najti.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "Plošča \&apos;&formatS;\&apos; dodana na domačo stran">
-<!ENTITY pref_category_home_content_settings "Nastavitve vsebine">
-<!ENTITY pref_home_updates "Samodejne posodobitve">
 <!ENTITY pref_home_updates_enabled "Omogočeno">
 <!ENTITY pref_home_updates_wifi "Samo preko Wi-Fi">
-<!ENTITY pref_home_suggested_sites "Prikaži predloge strani">
-<!ENTITY pref_home_suggested_sites_summary "Na domači strani prikaži bližnjice do strani, ki me utegnejo zanimati">
 <!ENTITY pref_category_home_homepage "Domača stran">
 <!ENTITY home_homepage_title "Nastavi domačo stran">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -225,6 +203,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Omogočeno, brez tretjih strani">
 <!ENTITY pref_cookies_disabled "Onemogočeno">
 
+
 <!ENTITY pref_tap_to_load_images_title2 "Prikaži slike">
 <!ENTITY pref_tap_to_load_images_enabled "Vedno">
 <!ENTITY pref_tap_to_load_images_data "Le prek Wi-Fi">
@@ -232,7 +211,6 @@
 
 <!ENTITY pref_show_web_fonts "Prikaži spletne pisave">
 
-<!ENTITY pref_tracking_protection_title "Zaščita pred sledenjem">
 <!ENTITY pref_tracking_protection_summary3 "Omogočena v zasebnem brskanju">
 <!ENTITY pref_donottrack_title "Sledenje">
 <!ENTITY pref_donottrack_summary "&brandShortName; bo stranem sporočal, naj vam ne sledijo">
@@ -240,6 +218,7 @@
 <!ENTITY pref_tracking_protection_enabled "Omogočena">
 <!ENTITY pref_tracking_protection_enabled_pb "Omogočena v zasebnem brskanju">
 <!ENTITY pref_tracking_protection_disabled "Onemogočena">
+
 
 <!ENTITY tracking_protection_prompt_title "Zdaj z zaščito pred sledenjem">
 <!ENTITY tracking_protection_prompt_text "Aktivno zavračanje elementov sledenja, da vam ni potrebno skrbeti.">
@@ -273,10 +252,17 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "Za \&quot;Odpiranje več povezav\&quot; omogočite \&apos;Risanje čez druge aplikacije\&apos; za &brandShortName;">
 
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "Pokaži nabor znakov">
 <!ENTITY pref_char_encoding_on "Pokaži meni">
 <!ENTITY pref_char_encoding_off "Ne pokaži menija">
-<!ENTITY pref_clear_private_data "Počisti zasebne podatke">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Počisti zdaj">
@@ -285,7 +271,6 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Izberite, katere podatke želite počistiti">
 <!ENTITY pref_plugins "Vtičniki">
 <!ENTITY pref_plugins_enabled "Vključeno">
-<!ENTITY pref_plugins_tap_to_play "Predvajaj ob dotiku">
 <!ENTITY pref_plugins_disabled "Onemogočeno">
 <!ENTITY pref_text_size "Velikost besedila">
 <!ENTITY pref_restore_tabs "Obnovi zavihke">
@@ -335,7 +320,6 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Prenosi">
 <!ENTITY pref_private_data_syncedTabs "Sinhronizirani zavihki">
 
-
 <!ENTITY pref_about_firefox "O &brandShortName;u">
 <!ENTITY pref_vendor_faqs "Pogosta vprašanja">
 <!ENTITY pref_vendor_feedback "Sporočite nam svoje mnenje">
@@ -353,10 +337,12 @@ size. -->
 <!ENTITY pref_panels_move_down "Dol">
 
 <!ENTITY datareporting_notification_title "Statistika in podatki o &brandShortName;u">
-<!ENTITY datareporting_notification_action_long "Izberite, katere podatke želite deliti">
 <!ENTITY datareporting_notification_action "Izberite, kaj deliti">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Izberite, katere podatke želite deliti">
 <!ENTITY datareporting_notification_summary "Za izboljšanje vaše izkušnje, &brandShortName; samodejno pošilja nekatere podatke organizaciji &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Za izboljšanje vaše izkušnje, &brandShortName; …">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -409,7 +395,6 @@ size. -->
 <!ENTITY close_private_tabs "Zapri zasebne zavihke">
 <!ENTITY tabs_normal "Zavihki">
 <!ENTITY tabs_private "Zasebno">
-<!ENTITY tabs_synced "Sinhronizirano">
 <!ENTITY set_image_fail "Ni mogoče nastaviti slike">
 <!ENTITY set_image_path_fail "Ni mogoče shraniti slike">
 <!ENTITY set_image_chooser_title "Nastavi sliko kot">
@@ -443,8 +428,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Pripni stran">
 <!ENTITY contextmenu_top_sites_unpin "Odpni stran">
 <!ENTITY contextmenu_add_search_engine "Dodaj iskalnik">
-<!ENTITY contextmenu_mark_read "Označi kot prebrano">
-<!ENTITY contextmenu_mark_unread "Označi kot neprebrano">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -464,7 +447,6 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "Povečaj majhna območja">
-<!ENTITY pref_magnifying_glass_enabled_summary "Povečaj povezave in polja obrazcev, ko tapnem v njihovi bližini">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -489,21 +471,6 @@ size. -->
 <!ENTITY site_settings_title3       "Nastavitve strani">
 <!ENTITY site_settings_cancel       "Prekliči">
 <!ENTITY site_settings_clear        "Počisti">
-
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-<!ENTITY reading_list_added3 "Dodano na bralni seznam">
-<!ENTITY reading_list_removed "Stran odstranjena z bralnega seznama">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "Odstrani z bralnega seznama">
-<!ENTITY reading_list_duplicate "Stran je že na bralnem seznamu">
-
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-<!ENTITY reading_list_time_minutes2 "&formatD; min">
-<!ENTITY reading_list_time_over_an_hour "Več kot uro">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -540,11 +507,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Tukaj se prikažejo vaši nedavni zavihki.">
 <!ENTITY home_open_all "Odpri vse">
 <!ENTITY home_most_recent_empty "Tukaj se prikažejo nedavno obiskane spletne strani.">
-<!ENTITY home_selected_empty "Tu so prikazane strani, ki ste jih obiskali v izbranem času.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: uporaba &formatS1;Novega zasebnega zavihka&formatS2; ne shranjuje vaše zgodovine.">
-<!ENTITY home_reading_list_empty "Tukaj se prikažejo članki, ki ste jih shranili za pozneje.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -554,16 +519,6 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_back_to_filter "Nazaj na &formatS;">
 
-<!ENTITY home_remote_tabs_title "Sinhronizirani zavihki">
-<!ENTITY home_remote_tabs_empty "Tukaj bodo prikazani vaši zavihki iz drugih naprav.">
-<!ENTITY home_remote_tabs_unable_to_connect "Povezava neuspešna">
-<!ENTITY home_remote_tabs_need_to_sign_in "Prijavite se za ponovno povezavo vašega Firefox Računa in nadaljevanje sinhronizacije.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Vaš nov Firefox Račun je pripravljen!">
-
-<!ENTITY home_remote_tabs_trouble_verifying "Težave pri preverjanju vašega računa?">
-<!ENTITY home_remote_tabs_need_to_verify "Preverite vaš Firefox Račun za začetek sinhronizacije.">
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 naprava skrita">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -612,7 +567,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Onemogočili ste zaščito pred nevarnimi vsebinami.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title "Zaščita pred sledenjem">
 <!ENTITY doorhanger_tracking_state_enabled "Omogočeno">
 <!ENTITY doorhanger_tracking_state_disabled "Onemogočeno">
 <!ENTITY doorhanger_tracking_message_enabled1 "Poskusi sledenja vašim spletnim navadam so bili zavrnjeni.">
@@ -622,7 +576,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "Več o tem">
 <!ENTITY enable_protection "Omogoči zaščito">
 <!ENTITY disable_protection "Onemogoči zaščito">
-<!ENTITY keep_blocking "Ohrani zavrnjeno">
 
 <!ENTITY private_data_success "Zasebni podatki počiščeni">
 <!ENTITY private_data_fail "Nekateri zasebni podatki niso bilo počiščeni">
@@ -718,7 +671,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Zadnja sinhronizacija: nikoli">
 
-<!ENTITY intent_uri_cannot_open "Ni mogoče odpreti povezave">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -781,3 +733,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; je posodobljen">
 <!ENTITY whatsnew_notification_summary "Odkrijte, kaj je novega v tej različici">
+
+
