@@ -2,8 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY firstrun_panel_title_welcome "Bi xêr hatî">
+<!ENTITY  onboard_start_message3 "Bi &brandShortName;ê bigerin">
+<!ENTITY  onboard_start_subtext3 "Bila cerebeya we ya gera li ser Webê ji we re bimîne.">
 
-
+<!ENTITY firstrun_urlbar_message "Bi xêr hatî &brandShortName;ê">
 
 
 
@@ -35,7 +38,7 @@
 
 <!ENTITY  crash_reporter_title "Raporkera Şikestinê ya &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; rastî pirsgirêkekê hat û têk çû. Dema ku ji nû ve bidî destpêkirin, hilpekînên te dê di rûpela destpêkê ya &brandShortName;ê de bên lîstekirin.">
-<!ENTITY  crash_send_report_message3 "Vê têkçûnê bo &brandShortName;ê ragihîne ku bê çareserkirin">
+<!ENTITY  crash_send_report_message3 "Vê têkçûnê bo &vendorShortName;ê ragihîne ku bê çareserkirin">
 <!ENTITY  crash_include_url2 "Navnîşana vê rûpela ez tê de, têxê">
 <!ENTITY  crash_sorry "Bibore">
 <!ENTITY  crash_comment "Şîrove bike (her kes dikare şîroveyan bibîne)">
