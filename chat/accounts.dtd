@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Account manager window for Instantbird -->
+<!ENTITY accounts.title                      "Cuentes - &brandShortName;">
+<!ENTITY accountManager.width                "450">
+<!-- Instant messaging account status window for Thunderbird -->
+<!ENTITY accountsWindow.title                "Estáu de mensaxería nel intre">
+<!ENTITY accountsWindow2.style               "anchor: 41em; altor: 27em;">
+
+<!ENTITY accountManager.newAccount.label     "Cuenta nueva">
+<!ENTITY accountManager.close.label          "Zarrar">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Entá nun se configuró cuenta dala">
+<!ENTITY account.connecting           "Coneutando…">
+<!ENTITY account.disconnecting        "Desconeutando…">
