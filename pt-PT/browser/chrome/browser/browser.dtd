@@ -173,7 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
 
 <!ENTITY backCmd.label                "Anterior">
-<!ENTITY backButton.tooltip           "Ir para a página anterior">
+<!ENTITY backButton.tooltip           "Retroceder uma página">
 <!ENTITY forwardCmd.label             "Seguinte">
 <!ENTITY forwardButton.tooltip        "Ir para a página seguinte">
 <!ENTITY backForwardButtonMenu.tooltip "Clique com o botão direito ou desloque para baixo para mostrar o histórico">
