@@ -19,7 +19,7 @@
 #define bookmarks_toolbarfolder Bookmarks Toolbar Folder
 
 
-#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+#define bookmarks_toolbarfolder_description Maglagay ng mga bookmark sa folder na ito upang makita sa Bookmarks Toolbar
 
 
 # LOCALIZATION NOTE (getting_started):
