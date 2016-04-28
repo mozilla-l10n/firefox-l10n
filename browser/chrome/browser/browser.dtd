@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Markahi Semua Tab…">
 <!ENTITY showAllBookmarks2.label "Tampilkan Semua Markah…">
 <!ENTITY recentBookmarks.label "Baru Saja Dibuat Markah">
-
+<!ENTITY otherBookmarksCmd.label "Markah Lain">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tampilkan markah lainnya">
 
 <!ENTITY backCmd.label                "Mundur">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Markah">
-
+<!ENTITY bookmarksMenuButton.other.label "Markah Lain">
 <!ENTITY viewBookmarksSidebar2.label        "Tampilkan Bilah Samping Markah">
 <!ENTITY viewBookmarksToolbar.label         "Tampilkan Bilah Alat Markah">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Potong">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "Salin">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "S"> 
 <!ENTITY pasteCmd.label           "Tempel">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "p"> 
@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Belum ada tab yang disinkronkan!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Ingin melihat tab dari perangkat Anda yang lain di sini?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Pengaturan Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Masuk untuk melihat daftar tab dari perangkat lainnya.">
 <!ENTITY appMenuRemoteTabs.signin.label "Masuk ke Sync">
@@ -694,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Sambungan Anda ke laman ini tidak pribadi. Informasi yang Anda kirim dapat dilihat oleh pihak lain (misalnya, sandi, pesan, kartu kredit, dll.).">
 <!ENTITY identity.description.insecureLoginForms "Info masuk yang Anda masukkan di laman ini tidak aman dan bisa diketahui orang lain.">
 <!ENTITY identity.description.weakCipher "Sambungan Anda ke situs web ini menggunakan enkripsi lemah dan tidak pribadi.">
-
+<!ENTITY identity.description.weakCipher2 "Orang lain dapat melihat informasi Anda atau memodifikasi perilaku situs web ini.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; telah memblokir bagian dari laman ini yang tidak aman.">
 <!ENTITY identity.description.passiveLoaded "Sambungan Anda tidak pribadi dan informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain.">
 <!ENTITY identity.description.passiveLoaded2 "Situs web ini mengandung konten yang tidak aman (misalnya, gambar).">
@@ -724,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Tab yang Disinkronkan">
 
 <!ENTITY syncedTabs.sidebar.label              "Tab yang Disinkronkan">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Masuk ke Firefox dari perangkat lainnya untuk melihat tab perangkat tersebut di sini.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Belum ada tab yang disinkronkan!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Ingin melihat tab dari perangkat Anda yang lain di sini?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Masuk untuk melihat daftar tab dari perangkat lainnya.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Tidak ada tab terbuka">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Buka preferensi &syncBrand.shortName.label;">
@@ -734,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktifkan sinkronisasi tab untuk melihat daftar tab dari perangkat lainnya.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Buka">
+<!ENTITY syncedTabs.context.open.accesskey                   "B">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Buka di Tab Baru">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "T">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Buka di Jendela Baru">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "J">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Buka di Jendela Penjelajahan Pribadi Baru">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Markahi Tab Ini…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "M">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Salin">
+<!ENTITY syncedTabs.context.copy.accesskey                   "S">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
