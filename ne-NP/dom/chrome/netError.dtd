@@ -81,5 +81,6 @@
 <!ENTITY remoteXUL.title "दूर XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया यस समस्याको जानकारी गर्न वेबसाइट धनी लाइ सम्पर्क गर्नुहोस ।</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "तपाईँको जडान सुरक्षित छैन">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
