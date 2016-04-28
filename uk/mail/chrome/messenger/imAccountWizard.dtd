@@ -22,7 +22,7 @@
 <!ENTITY accountAdvanced.newMailNotification.label   "Повідомити на новий e-mail">
 <!ENTITY accountAliasGroupbox.caption "Локальний псевдонім">
 <!ENTITY accountAliasField.label      "Псевдонім:">
-<!ENTITY accountAliasInfo.label       "Це буде показано лише вам у бесідах, ваші співрозмовники не бачитимуть цього.">
+<!ENTITY accountAliasInfo.label       "Це буде показано лише у ваших розмовах, коли ви говорите. Віддалені контакти не побачать цього.">
 <!ENTITY accountProxySettings.caption "Параметри проксі">
 <!ENTITY accountProxySettings.change.label     "Змінити…">
 <!ENTITY accountProxySettings.change.accessKey "З">

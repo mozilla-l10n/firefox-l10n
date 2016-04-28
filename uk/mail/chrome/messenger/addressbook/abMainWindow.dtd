@@ -149,7 +149,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.tooltip                          "Створити новий список розсилки">
 <!ENTITY editButton2.tooltip                            "Змінити властивості виділеного елемента">
 <!ENTITY newmsgButton.tooltip                           "Написати листа">
-<!ENTITY newIM.tooltip                                  "Відіслати звісточку чи почати бесіду">
+<!ENTITY newIM.tooltip                                  "Надіслати миттєве повідомлення або чат">
 <!ENTITY deleteButton2.tooltip                          "Видалити вибраний елемент">
 
 <!-- Dir Tree header -->
