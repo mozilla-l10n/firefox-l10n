@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "T">
 <!ENTITY compactVersion.label "Kompakt vy">
 <!ENTITY compactVersion.accesskey "p">
+<!ENTITY folderPaneBar.label "Verktygsfältet mappfönster">
+<!ENTITY folderModeSelector.label "Mappvyer">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordna efter">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Redigera som nytt meddelande">
 <!ENTITY editAsNewMsgCmd.accesskey "R">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Redigera meddelandeutkast">
+<!ENTITY editDraftMsgCmd.accesskey "u">
 <!ENTITY createFilter.label "Skapa filterregel utifrån meddelandet…">
 <!ENTITY createFilter.accesskey "u">
 <!ENTITY moveMsgToMenu.label "Flytta till">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "m">
 <!ENTITY contextEditMsgAsNew.label "Redigera som nytt meddelande">
 <!ENTITY contextEditMsgAsNew.accesskey "R">
+<!ENTITY contextEditDraftMsg.label "Redigera meddelandeutkast">
 <!ENTITY contextArchive.label "Arkivera">
 <!ENTITY contextArchive.accesskey "i">
 <!ENTITY contextReplySender.label "Svara endast avsändaren">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "Kopiera till">
 <!ENTITY contextCopyMsgMenu.accesskey "o">
 <!ENTITY contextKillThreadMenu.label "Ignorera tråd">
+<!ENTITY contextKillSubthreadMenu.accesskey "u">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignorera undertråd">
 <!ENTITY contextWatchThreadMenu.label "Bevaka tråd">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "B">
 <!ENTITY contextSaveAs.label "Spara som…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Skriv ut…">
