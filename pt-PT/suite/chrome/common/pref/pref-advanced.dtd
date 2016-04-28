@@ -18,7 +18,7 @@
 <!ENTITY submitCrashes.label              "Enviar relatórios de falha">
 <!ENTITY submitCrashes.accesskey          "s">
 
-<!ENTITY devTools.caption                 "Ferramentas de desenvolvimento">
+<!ENTITY devTools.caption                 "Ferramentas de programador">
 <!ENTITY allowDebugger.label              "Permitir que um depurador se ligue ao &brandShortName;">
 <!ENTITY allowDebugger.accesskey          "P">
 <!ENTITY allowRemoteConnections.label     "Permitir ligações de outros computadores">

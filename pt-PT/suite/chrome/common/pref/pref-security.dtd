@@ -30,10 +30,10 @@
 -->
 
 <!ENTITY safeBrowsing.label               "Navegação segura">
-<!ENTITY safeBrowsingIntro.label          "O &brandShortName; pode bloquear os websites indicados como contendo conteúdo malicioso.">
+<!ENTITY safeBrowsingIntro.label          "O &brandShortName; pode bloquear os websites reportados como contendo conteúdo malicioso.">
 
 <!ENTITY blockAttackSites.label           "Bloquear os sites de ataque reportados (malware, vírus)">
 <!ENTITY blockAttackSites.accesskey       "B">
 
-<!ENTITY blockWebForgeries.label          "Bloquear sites suspeitos de falsificações (Phishing)">
+<!ENTITY blockWebForgeries.label          "Bloquear sites reportados por falsificações web (Phishing)">
 <!ENTITY blockWebForgeries.accesskey      "P">
