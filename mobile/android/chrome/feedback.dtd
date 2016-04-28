@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY feedback.feedback.good         "Baş">
+<!ENTITY feedback.feedback.bad          "Xirab">
 
-
-
+<!ENTITY feedback.tools.title           "Amûr">
 
 
 
