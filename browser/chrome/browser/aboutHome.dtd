@@ -14,13 +14,13 @@
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "Mercé d'aver causit Firefox ! Per profiechar plenament de vòstre navigador, descobrissètz sas <a>darrièras foncionalitats</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Mercé d'aver causit Firefox ! Per profeitar plenament de vòstre navigador, descobrissètz sas <a>darrièras foncionalitats</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Podètz personalizar Firefox exactament coma vos agrada. <a>Causissètz demest de milierats de moduls complementaris</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; es un logicial liure e open source de la fondacion de tòca non lucrativa Mozilla Foundation. <a>Vòstres dreches…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; es un logicial liure e open source de la fondacion de tòca non lucrativa Mozilla Foundation. <a>Vòstres dreits…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Marcapaginas">
 <!ENTITY abouthome.historyButton.label   "Istoric">

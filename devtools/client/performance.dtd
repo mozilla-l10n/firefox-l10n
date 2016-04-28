@@ -36,6 +36,8 @@
 <!ENTITY performanceUI.importButton "Importar…">
 <!-- LOCALIZATION NOTE (performanceUI.clearButton): This string is displayed
   -  on a button that removes all the recordings. -->
+
+<!ENTITY performanceUI.clearButton "Voidar">
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 

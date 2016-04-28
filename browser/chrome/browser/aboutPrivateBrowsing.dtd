@@ -6,25 +6,26 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Dobrir una fenèstra de navigacion privada">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
+<!ENTITY privateBrowsing.title                           "Navigacion privada">
 
 
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+
+<!ENTITY aboutPrivateBrowsing.info.searches              "Recèrcas">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "Cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Fichièrs temporaris">
 
 
 
+<!ENTITY aboutPrivateBrowsing.info.downloads             "Telecargaments">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "Marcapaginas">
+<!ENTITY aboutPrivateBrowsing.note.before                "Navigacion privada">
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Navigacion privada">
 
 <!ENTITY trackingProtection.title                        "Proteccion contra lo seguiment">
 
-
+<!ENTITY trackingProtection.startTour1                   "Cossí fonciona ?">
