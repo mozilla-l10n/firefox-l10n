@@ -233,7 +233,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "ถูกปิดกั้น">
 
 <!ENTITY pref_show_web_fonts "แสดงแบบอักษรเว็บ">
-
+<!ENTITY pref_show_web_fonts_summary2 "ดาวน์โหลดแบบอักษรระยะไกลเมื่อโหลดหน้า">
 
 <!ENTITY pref_tracking_protection_title2 "การป้องกันการตามรอย">
 <!ENTITY pref_tracking_protection_summary3 "ถูกเปิดใช้งานในการท่องเว็บแบบส่วนตัว">
