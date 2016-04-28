@@ -326,8 +326,9 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-
-
+<!ENTITY pref_media_autoplay_enabled "Destûrê bide lêdana otomatîk">
+<!ENTITY pref_media_autoplay_enabled_summary "Kontrol bike ka malper dikarin vîdyo û naverokên din ên medyayê lê bidin">
+<!ENTITY pref_zoom_force_enabled "Zoomê her tim çalak bike">
 
 <!ENTITY pref_voice_input "Têketina bideng">
 
