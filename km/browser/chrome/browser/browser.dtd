@@ -196,7 +196,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.addonsNotificationAnchor.label          "មើល​សារ​ដំឡើង​កម្មវិធី​ផ្នែក​បន្ថែម">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "មើលសារអំពីការផ្ទុកក្រៅបណ្តាញរបស់កម្មវិធី">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "គ្រប់គ្រងព័ត៌មាន​ការ​ចូល​របស់​អ្នក">
-
+<!ENTITY urlbar.passwordNotificationAnchor.label        "គូសគ្រីសប្រសិនបើអ្នកចង់រក្សាទុកពាក្យសម្ងាត់របស់អ្នក">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "គ្រប់គ្រងការប្រើប្រាស់កម្មវិធី​ជំនួយ​លើទំព័រនេះ">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "ផ្លាស់​ប្ដូរ​ថា​តើ​អ្នក​អាច​ទទួល​ការ​ជូន​ដំណឹង​ពីតំបន់បណ្តាញឬទេ">
 
@@ -681,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "ទំព័រ​នេះ​ត្រូវ​បាន​រក្សាទុក​នៅ​ក្នុង​កុំព្យូទ័រ​របស់​អ្នក។">
 <!ENTITY identity.connectionVerified1 "អ្នក​ត្រូវ​បាន​តភ្ជាប់​​ទៅ​តំបន់បណ្ដាញ​នេះ​ដោយ​សុវត្ថិភាព ដំណើរការ​ដោយ៖">
 <!ENTITY identity.connectionInternal "នេះគឺជាទំព័រ &brandShortName; ដែល​មាន​សុវត្ថិភាព">
-
+<!ENTITY identity.insecureLoginForms2 "ការ​ចូល​ទាំង​ឡាយ​ដែល​បាន​បញ្ចូល​ក្នុង​ទំព័រ​នេះ​អាច​ត្រូវ​បាន​គេ​សម្របសម្រួល​។ ​">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; បាន​​បិទ​ផ្នែក​ខ្លះ​នៃ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព។">
@@ -707,7 +707,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "ស្វែងយល់​បន្ថែម">
 
-
+<!ENTITY identity.removeCertException.label "យកករណីលើកលែងចេញ">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "ព័ត៌មាន​បន្ថែម">
 
@@ -719,14 +720,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "ផ្ទាំង​កម្មវិធី​អ៊ីនធឺណិត">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
+<!ENTITY syncTabsMenu3.label     "ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម">
+
+<!ENTITY syncedTabs.sidebar.label              "ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម">
 
 
 
 
-
+<!ENTITY syncedTabs.sidebar.notabs.label       "គ្មានផ្ទាំងបើកទេ">
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "បើកការធ្វើសមកាលកម្មផ្ទាំងដើម្បីមើលបញ្ជីនៃផ្ទាំងទាំងឡាយពីឧបករណ៍ផ្សេងទៀតរបស់អ្នក។">
 
 
 
@@ -773,12 +778,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.directory.label "ការ​ធ្វើឲ្យ​ថត​សកម្ម">
 <!ENTITY social.directory.text "អ្នក​អាច​ធ្វើ​ឲ្យ​សេវា​កម្ម​ចែករំលែក​សកម្ម​ពី​ថត។">
-<!ENTITY social.directory.button "យក​ខ្ញុំ​ទៅ​ទីនោះ!">
+<!ENTITY social.directory.button "នាំ​ខ្ញុំ​ទៅ​ទីនោះ!">
 <!ENTITY social.directory.introText "ចុច​លើ​សេវាកម្ម​ដើម្បី​បន្ថែម​វា​ទៅកាន់ &brandShortName; ។">
-<!ENTITY social.directory.viewmore.text "មើល​ជា​ច្រើន">
+<!ENTITY social.directory.viewmore.text "មើល​​ច្រើនទៀត">
 
-<!ENTITY customizeMode.menuAndToolbars.header2 "លក្ខណៈ និង​ឧបករណ៍​បន្ថែម">
-<!ENTITY customizeMode.menuAndToolbars.empty "ចង់​បាន​ឧបករណ៍​បន្ថែម​ឬ?">
+<!ENTITY customizeMode.menuAndToolbars.header2 "ឧបករណ៍និងលក្ខណៈពិសេសបន្ថែម">
+<!ENTITY customizeMode.menuAndToolbars.empty "ចង់បានឧបករណ៍បន្ថែមទៀត?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ជ្រើស​ពី​កម្មវិធី​បន្ថែម​រាប់​ពាន់">
 <!ENTITY customizeMode.restoreDefaults "ស្ដារ​លំនាំ​ដើម">
 <!ENTITY customizeMode.toolbars "បង្ហាញ / លាក់ របារ​ឧបករណ៍">
@@ -788,7 +793,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.recommended "បាន​ផ្ដល់​អនុសាសន៍">
 <!ENTITY customizeMode.lwthemes.menuManage "គ្រប់គ្រង">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "ទទួល​បាន​រូបរាង​ច្រើន">
+<!ENTITY customizeMode.lwthemes.menuGetMore "យក​រូបរាង​ច្រើនទៀត">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -819,7 +824,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "បិទ​ការ​ការពារ​សម្រាប់​តំបន់​បណ្ដាញ​នេះ">
+<!ENTITY trackingProtection.unblockPrivate.label "បិទ​ការ​ការពារ​សម្រាប់​សម័យ​នេះ">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "បើក​ការការពារ">
 <!ENTITY trackingProtection.block2.accesskey "E">
@@ -832,7 +837,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "បើក​ការការពារ">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "បិទ​ការ​ការ​ពារ​ការ​តាមដាន">
+<!ENTITY trackingContentBlocked.disabled.message "ការ​ការ​ពារ​ការ​តាមដានត្រូវបានបិទ">
 
 <!ENTITY pointerLock.notification.message "ចុច ESC ប្រសិនបើ​អ្នក​ចង់​បង្ហាញ​វា​ម្ដងទៀត។">
 
@@ -869,14 +874,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY panicButton.view.mainActionDesc          "ការ​ធ្វើ​បន្ត​នឹង៖">
 <!ENTITY panicButton.view.deleteCookies           "លុប​ <html:strong>ខូឃី</html:strong> ថ្មីៗ">
-<!ENTITY panicButton.view.deleteHistory           "លុប <html:strong>ប្រវត្តិ</html:strong> ថ្មី">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "ជ្រើស <html:strong>ផ្ទាំង</html:strong> និង <html:strong>បង្អួច</html:strong> ទាំងអស់">
-<!ENTITY panicButton.view.openNewWindow           "បើក​បង្អួច​ដែល​បាន​សម្អាត​ថ្មី">
+<!ENTITY panicButton.view.deleteHistory           "លុប <html:strong>ប្រវត្តិ</html:strong> ថ្មីៗ">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "បិទ <html:strong>ផ្ទាំង</html:strong> និង <html:strong>បង្អួច</html:strong> ទាំងអស់">
+<!ENTITY panicButton.view.openNewWindow           "បើក​បង្អួច​ស្អាត​ថ្មី">
 
-<!ENTITY panicButton.view.undoWarning             "សកម្មភាព​នេះ​មិន​អាច​មិន​ធ្វើ​ឡើងវិញ​បាន​ទេ ។">
+<!ENTITY panicButton.view.undoWarning             "សកម្មភាព​នេះ​មិន​អាច​ត្រឡប់​ក្រោយ​បាន​ទេ។">
 <!ENTITY panicButton.view.forgetButton            "ភ្លេច!">
 
-<!ENTITY panicButton.thankyou.msg1                "ប្រវត្តិ​បច្ចុប្បន្ន​របស់​អ្នក​ត្រូវ​បាន​សម្អាត។">
+<!ENTITY panicButton.thankyou.msg1                "ប្រវត្តិ​ថ្មីៗ​របស់​អ្នក​ត្រូវ​បាន​សម្អាត។">
 <!ENTITY panicButton.thankyou.msg2                "ការ​រុករក​សុវត្ថិភាព!">
 <!ENTITY panicButton.thankyou.buttonlabel         "អរគុណ!">
 
