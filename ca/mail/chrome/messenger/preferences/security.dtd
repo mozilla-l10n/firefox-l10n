@@ -26,8 +26,8 @@
 <!-- Phishing Detector -->
 
 <!ENTITY phishingDetector1.intro  "El &brandShortName; pot analitzar els missatges sospitosos de ser fraudulents tenint en compte les tècniques més comunes d'engany.">
-<!ENTITY enablePhishingDetector1.label    "Digues-me si el missatge que estic llegint és sospitós de ser fraudulent">
-<!ENTITY enablePhishingDetector1.accesskey  "e">
+<!ENTITY enablePhishingDetector1.label    "Avisa'm si el missatge que estic llegint és sospitós de ser fraudulent">
+<!ENTITY enablePhishingDetector1.accesskey  "v">
 <!ENTITY useDownloadedList.label "Utilitza una llista baixada de correu sospitós de ser fraudulent">
 <!ENTITY useDownloadedList.accesskey "U">
 <!-- Passwords -->
