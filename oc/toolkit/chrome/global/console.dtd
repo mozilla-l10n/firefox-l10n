@@ -18,7 +18,7 @@
 <!ENTITY messages.accesskey "M">
 <!ENTITY clear.label        "Voidar">
 <!ENTITY clear.accesskey    "V">
-<!ENTITY codeEval.label     "Còde :">
+<!ENTITY codeEval.label     "Còdi :">
 <!ENTITY codeEval.accesskey "C">
 <!ENTITY evaluate.label     "Evaluar">
 <!ENTITY evaluate.accesskey "v">

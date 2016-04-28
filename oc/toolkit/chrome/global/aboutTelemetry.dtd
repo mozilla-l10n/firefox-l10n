@@ -4,6 +4,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Donadas telemetricas">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  Cambiar">
 
 
 
@@ -43,10 +44,11 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Escrituras tardièras">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "  Informacions del sistèma">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Istogramas collectats pels moduls complementaris">
 
-<!ENTITY aboutTelemetry.toggle "  Clicatz per redusir la seccion">
+<!ENTITY aboutTelemetry.toggle "  Clicatz per reduire la seccion">
 
 <!ENTITY aboutTelemetry.emptySection "  (Cap de donada pas collectada)">
 

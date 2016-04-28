@@ -38,7 +38,7 @@
 <!ENTITY chooseButton.label           "Causir…">
 <!ENTITY chooseButton.accesskey       "a">
 
-<!ENTITY translateWebPages.label      "Tradusir lo contengut web">
+<!ENTITY translateWebPages.label      "Traduire lo contengut web">
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "Excepcions…">
 <!ENTITY translateExceptions.accesskey "x">
@@ -55,6 +55,6 @@
 
 <!ENTITY  drmContent.label             "Contengut amb DRM">
 
-<!ENTITY  playDRMContent.label         "Reprodusir lo contengut amb DRM">
+<!ENTITY  playDRMContent.label         "Reproduire lo contengut amb DRM">
 <!ENTITY  playDRMContent.accesskey     "R">
 <!ENTITY  playDRMContent.learnMore.label "Ne saber mai">

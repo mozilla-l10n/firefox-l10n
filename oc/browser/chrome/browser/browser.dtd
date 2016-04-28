@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Tampar los onglets situats a drecha">
+<!ENTITY  closeTabsToTheEnd.label            "Tampar los onglets situats a dreita">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Tampar los autres onglets">
 <!ENTITY  closeOtherTabs.accesskey           "t">
@@ -86,7 +86,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Anullar la tampadura de l'onglet">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
 
-<!ENTITY pageSourceCmd.label "Còde font de la pagina">
+<!ENTITY pageSourceCmd.label "Còdi font de la pagina">
 <!ENTITY pageSourceCmd.accesskey "C">
 <!ENTITY pageSourceCmd.commandkey "g">
 <!ENTITY pageInfoCmd.label "Informacion sus la pagina">
@@ -114,7 +114,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; començarà la sincronizacion dins un momenton.">
 
 
-<!ENTITY fullScreenMinimize.tooltip "Redusir">
+<!ENTITY fullScreenMinimize.tooltip "Reduire">
 <!ENTITY fullScreenRestore.tooltip "Restablir">
 <!ENTITY fullScreenClose.tooltip "Tampar">
 <!ENTITY fullScreenAutohide.label "Amagar las barras d'aisinas">
@@ -176,7 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Recuolar d'una pagina">
 <!ENTITY forwardCmd.label             "Pagina seguenta">
 <!ENTITY forwardButton.tooltip        "Avançar d'una pagina">
-<!ENTITY backForwardButtonMenu.tooltip "Far un clic drech o clicar en desplaçant la mirga cap aval per afichar l'istoric">
+<!ENTITY backForwardButtonMenu.tooltip "Far un clic dreit o clicar en desplaçant la mirga cap aval per afichar l'istoric">
 <!ENTITY backForwardButtonMenuMac.tooltip "Clicar en tot desplaçant la mirga cap aval per afichar l'istoric">
 <!ENTITY reloadCmd.label              "Actualizar">
 <!ENTITY reloadButton.tooltip         "Actualizar la pagina correnta">
@@ -285,9 +285,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Talhar">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "T"> 
-
+<!ENTITY copyCmd.label            "Copiar">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Pegar">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -457,12 +457,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Actualizar lo quadre">
 <!ENTITY reloadFrameCmd.accesskey     "c">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Còde font de la seleccion">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Còde MathML de la seleccion">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Còdi font de la seleccion">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Còdi MathML de la seleccion">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Còde font de la pagina">
+<!ENTITY viewPageSourceCmd.label      "Còdi font de la pagina">
 <!ENTITY viewPageSourceCmd.accesskey  "f">
 <!ENTITY viewFrameSourceCmd.label     "Còde font del quadre">
 <!ENTITY viewFrameSourceCmd.accesskey "d">
@@ -712,21 +712,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Dobrir las preferénciias del &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
 
 
 
-
-
-
-
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Dobrir lo ligam dins una fenèstra novèla">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "o">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Dobrir lo ligam dins una fenèstra de navigacion privada">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "n">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Apondre aqueste pagina als marcapaginas…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "m">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Copiar">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Onglets d'autres aparelhs">

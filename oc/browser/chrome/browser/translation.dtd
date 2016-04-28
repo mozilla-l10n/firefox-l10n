@@ -13,11 +13,11 @@
   -  sentence. -->
 
 <!ENTITY translation.thisPageIsIn.label         "Aquesta pagina es en">
-<!ENTITY translation.translateThisPage.label    "Tradusir aquesta pagina ?">
-<!ENTITY translation.translate.button           "Tradusir">
+<!ENTITY translation.translateThisPage.label    "Traduire aquesta pagina ?">
+<!ENTITY translation.translate.button           "Traduire">
 <!ENTITY translation.notNow.button              "Pas ara">
 
-<!ENTITY translation.translatingContent.label   "Tradusir lo contegut de la pagina...">
+<!ENTITY translation.translatingContent.label   "Traduire lo contegut de la pagina...">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):

@@ -55,6 +55,7 @@
 
 
 
+<!ENTITY projectButton_label "Dobrir una aplicacion">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -111,7 +112,7 @@
 <!ENTITY prefs_title "Preferéncias">
 
 <!ENTITY prefs_general_title "General">
-
+<!ENTITY prefs_restore "Restablir los paramètres per defaut">
 
 
 
@@ -135,7 +136,7 @@
 
 
 <!-- Permissions Table -->
-
+<!ENTITY permissionstable_name_header "Nom">
 <!-- Runtime Details -->
 
 
@@ -180,11 +181,11 @@
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
-
-
+<!ENTITY simulator_reset "Restablir los paramètres per defaut">
+<!ENTITY simulator_name "Nom">
 
 <!ENTITY simulator_version "Version">
-
+<!ENTITY simulator_profile "Perfil">
 
 <!ENTITY simulator_device "Periferic">
 

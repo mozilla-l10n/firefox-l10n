@@ -46,10 +46,10 @@
 <!ENTITY btnPageLogging.label   "Jornal">
 <!ENTITY btnPageLogging.tooltip "Jornalizar los messatges mandats a l'objècte « consòla »">
 <!ENTITY btnPageLogging.accesskey3 "L">
-
-
-
-
+<!ENTITY btnConsoleErrors       "Errors">
+<!ENTITY btnConsoleInfo         "Info">
+<!ENTITY btnConsoleWarnings     "Avertiments">
+<!ENTITY btnConsoleLog          "Jornal">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Reflows">
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the

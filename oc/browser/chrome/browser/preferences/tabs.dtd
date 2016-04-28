@@ -14,6 +14,6 @@
 <!ENTITY switchToNewTabs.label        "Quand dobrissi un ligam dins un onglet novèl, lo visualizar sulpic">
 <!ENTITY switchToNewTabs.accesskey    "v">
 
-<!ENTITY showTabsInTaskbar.label          "Afichar los apercebuts d'onglets dins la barra dels prètzfaches de Windows">
+<!ENTITY showTabsInTaskbar.label          "Afichar los apercebuts d'onglets dins la barra dels prètzfaits de Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "c">
 <!ENTITY tabsGroup.label          "Onglets">
