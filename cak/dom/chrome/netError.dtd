@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "Man xilitäj ta ri yakb'äl">
 <!ENTITY fileNotFound.longDesc "<ul><li>¿Rik'in jub'a' chi tajin nisik'ïx chik, xyujtäj o xk'ex rub'ey ri ch'akulal?</li><li>¿La k'o jun sachoj pa ruwi' rutz'ib'axik, nimatz'ib' o jun chik chi sachoj toq xtz'ib'äx ri ochochib'äl?</li><li>¿La kiya'on aq'ij richin yatok chupam ri ch'akulal xk'utüx?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "Xq'at rutz'etik ri yakb'äl">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Rik'in jub'a' xyuj el, xsilöx el o ri ruya'oj q'ij yakb'än niq'aton rutz'etik.</li></ul>">
 
 <!ENTITY generic.title "Man xtikïr ta xutz'aqatisaj ri k'utunïk">
 <!ENTITY generic.longDesc "<p>Majun na'oj k'o chi rij re k'ayewal o sachoj re'.</p>">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "Näj XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, tatz'ib'aj el chi ke ri rajaw ri ruxaq k'amaya'l richin naya' rutzijol re k'ayewal re'.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Man ütz ta ri awokem">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> nrokisaj k'ak'a' samaj richin jikomal, ri e ojer chuqa' man k'ayew ta yeq'eleb'ëx. Jun q'eleb'enel chanin nuya' rutzijol ri etamab'äl, ri nina'ojïx chi echajin. Ri runuk'samajel ruxaq k'amaya'l k'o chi nutz'ët nab'ey ri ruk'u'x samaj chuwäch nitikïr nutz'ët ri ruxaq k'amaya'l.</p><p>Runimatz'ib' sachoj: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
