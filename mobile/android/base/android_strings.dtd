@@ -24,9 +24,10 @@
 
 <!ENTITY  onboard_start_restricted1 "Håll dig trygg och kontrollen med denna förenklade version av &brandShortName;.">
 
-
-
-
+<!ENTITY  reading_list_migration_title "Läslista ansluten">
+<!ENTITY  reading_list_migration_subtext "Din läslistas innehåll kommer nu att läggas till i dina bokmärken">
+<!ENTITY  reading_list_migration_goto_bookmarks "Gå till bokmärken">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Din bokmärkespanel är dold">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -68,6 +69,7 @@
      and is labeled by this String. -->
 
 
+<!ENTITY reader_saved_offline "Sparad offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -170,10 +172,10 @@
      it is applicable. -->
 <!ENTITY pref_category_advanced "Avancerat">
 
+<!ENTITY pref_category_notifications "Notifieringar">
 
-
-
-
+<!ENTITY pref_content_notifications "Webbplatsuppdateringar">
+<!ENTITY pref_content_notifications_summary2 "Upptäck nytt innehåll från webbplatser som stöds">
 <!ENTITY pref_developer_remotedebugging_usb "Fjärrfelsökning via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Fjärrfelsökning via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi-felsökning kräver att din enhet har en QR kodsläsar app installerad.">
@@ -184,7 +186,7 @@
 <!ENTITY pref_category_home_summary "Anpassa startsidan">
 <!ENTITY pref_category_home_panels "Paneler">
 
-
+<!ENTITY pref_home_updates2 "Innehållsuppdateringar">
 <!ENTITY pref_home_updates_enabled "Aktiverad">
 <!ENTITY pref_home_updates_wifi "Endast via Wi-Fi">
 <!ENTITY pref_category_home_homepage "Hemsida">
@@ -210,7 +212,7 @@
 <!ENTITY pref_header_search "Sök">
 <!ENTITY pref_header_privacy_short "Integritet">
 <!ENTITY pref_header_accessibility "Tillgänglighet">
-
+<!ENTITY pref_header_notifications "Notifieringar">
 <!ENTITY pref_header_advanced "Avancerat">
 <!ENTITY pref_header_help "Hjälp">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -220,7 +222,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktiverade, utom för tredje part">
 <!ENTITY pref_cookies_disabled "Inaktiverade">
 
-
+<!ENTITY pref_category_media "Media">
 
 
 <!ENTITY pref_tap_to_load_images_title2 "Visa bilder">
@@ -229,7 +231,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Blockerad">
 
 <!ENTITY pref_show_web_fonts "Visa webbfonter">
-
+<!ENTITY pref_show_web_fonts_summary2 "Ladda ner externa typsnitt vid laddning av sida">
 
 <!ENTITY pref_tracking_protection_summary3 "Påslaget i privat surfning">
 <!ENTITY pref_donottrack_title "Spåra inte">
@@ -239,7 +241,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Påslaget i privat surfning">
 <!ENTITY pref_tracking_protection_disabled "Inaktiverad">
 
-
+<!ENTITY pref_whats_new_notification_summary "Läs mer om nya funktioner efter en uppdatering">
 
 <!ENTITY tracking_protection_prompt_title "Nu med Spårnings skydd">
 <!ENTITY tracking_protection_prompt_text "Aktivt blockera spårnings element så att du inte behöver oroa dig.">
@@ -277,7 +279,8 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!ENTITY content_notification_title_plural "&formatD; webbsidor uppdaterade">
+<!ENTITY content_notification_action_settings "Notifieringsinställning">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -344,6 +347,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Hämtningar">
 <!ENTITY pref_private_data_syncedTabs "Synkade flikar ">
 
+<!ENTITY pref_default_browser "Gör till standardwebbläsare">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "Vanliga frågor">
 <!ENTITY pref_vendor_feedback "Ge synpunkter">
@@ -523,7 +527,7 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; Hem">
 <!ENTITY home_history_title "Historik">
-
+<!ENTITY home_history_back_to "Gå tillbaka till all historik">
 <!ENTITY home_clear_history_button "Töm bläddringshistorik">
 <!ENTITY home_clear_history_confirm "Är du säker på att du vill rensa historiken?">
 <!ENTITY home_bookmarks_empty "Bokmärken som du sparat visas här.">
@@ -755,5 +759,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_summary "Se vad som är nytt i den här versionen">
 
 
-
-
+<!ENTITY helper_first_offline_bookmark_title "Läs offline">
+<!ENTITY helper_first_offline_bookmark_message "Hitta innehållet i din läsvy i bokmärken, även offline.">
+<!ENTITY helper_first_offline_bookmark_button "Gå till bokmärken">
