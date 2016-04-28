@@ -74,6 +74,7 @@
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Herê">
 
 <!ENTITY history_today_section "Îro">
 <!ENTITY history_yesterday_section "Do">
@@ -225,72 +226,89 @@
 <!ENTITY pref_cookies_disabled "Neçalak">
 
 <!ENTITY pref_category_data_saver "Teserufa daneyan">
+<!ENTITY pref_category_media "Medya">
+<!ENTITY pref_category_developer_tools "Amûrên pêşvebiran">
 
+<!ENTITY pref_tap_to_load_images_title2 "Wêneyan nîşan bide">
+<!ENTITY pref_tap_to_load_images_enabled "Her dem">
+<!ENTITY pref_tap_to_load_images_data "Tenê bi riya Wi-Fiyê">
+<!ENTITY pref_tap_to_load_images_disabled2 "Astengkirî">
 
+<!ENTITY pref_show_web_fonts "Fontên webê nîşan bide">
+<!ENTITY pref_show_web_fonts_summary2 "Dema rûpelek bê barkirin fontên dûr jêbar bike">
 
+<!ENTITY pref_tracking_protection_title2 "Parastina Şopandinê">
+<!ENTITY pref_tracking_protection_summary3 "Di Gera Nepen de çalak bû">
+<!ENTITY pref_donottrack_title "Min neşopîne">
+<!ENTITY pref_donottrack_summary "&brandShortName; dê ji malperan re bêje ku tu naxwazî bêyî şopandin">
 
+<!ENTITY pref_tracking_protection_enabled "Çalak">
+<!ENTITY pref_tracking_protection_enabled_pb "Di Gera Nepen de çalak bû">
+<!ENTITY pref_tracking_protection_disabled "Neçalak">
 
+<!ENTITY pref_whats_new_notification "Nûbûnên &brandShortName;ê çi ne">
+<!ENTITY pref_whats_new_notification_summary "Piştî nûkirinekê taybetiyên nû nas bike">
 
+<!ENTITY tracking_protection_prompt_title "Niha bi Parastina Şopandinê re">
+<!ENTITY tracking_protection_prompt_text "Hêmanên şopîner tên astengkirin, loma tu xeman nexwe.">
+<!ENTITY tracking_protection_prompt_tip_text "Ji bo agahiyên zêdetir serdana eyarên Nepeniyê bike">
+<!ENTITY tracking_protection_prompt_action_button "Min fêm kir!">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY tab_queue_toast_message3 "Hilpekîn di &brandShortName;ê de hat tomarkirin">
+<!ENTITY tab_queue_toast_action "Niha veke">
+<!ENTITY tab_queue_prompt_title "Tu pir-girêdanan vedikî?">
+<!ENTITY tab_queue_prompt_text4 "Heta ku &brandShortName;.careke din bê vekirin van hilîne.">
+<!ENTITY tab_queue_prompt_tip_text2 "Tu dikarî vê paşê ji eyaran biguherînî">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-
-
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Destûrê bide ku di ser bernamokên din re bê nîşandan">
+<!ENTITY tab_queue_prompt_positive_action_button "Çalak">
+<!ENTITY tab_queue_prompt_negative_action_button "Ne niha">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-
+<!ENTITY tab_queue_prompt_settings_button "Here Eyaran">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; hilpekîn li bendê ne">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 hilpekîn li bendê ye">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY tab_queue_notification_settings "Ji bo ku \&quot;Gelek girêdank bên vekirin\&quot;, tika ye ji bo &brandShortName;ê destûra \&quot;nîşandana di ser bernamokên din re\&quot; bide">
+
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!ENTITY content_notification_title_plural "&formatD; malper hatin nûkirin">
+<!ENTITY content_notification_action_settings "Eyarên Hişyariyan">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "Li ser &formatS;ê hat nûkirin">
 
 <!ENTITY pref_char_encoding "Kodkirina karakteran">
 <!ENTITY pref_char_encoding_on "Menuyê nîşan bide">
 <!ENTITY pref_char_encoding_off "Menuyê nîşan nede">
-
+<!ENTITY pref_clear_private_data2 "Daneyên taybet paqij bike">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
-
-
-
+<!ENTITY pref_clear_private_data_now_tablet "Niha paqij bike">
+<!ENTITY pref_clear_on_exit_title3 "Di derketinê de daneyên taybet paqij bike">
+<!ENTITY pref_clear_on_exit_summary2 "Dema ku tu ji menuya giştî \u0022Quit\u0022ê hilbijêrî, &brandShortName; dê daneyên te otomatîk paqij bike">
+<!ENTITY pref_clear_on_exit_dialog_title "Daneyên bên paqijkirin hilbijêre">
 <!ENTITY pref_plugins "Pêvek">
-
-
-
+<!ENTITY pref_plugins_enabled "Çalak">
+<!ENTITY pref_plugins_tap_to_play2 "Ji bo lêdanê bihingêve">
+<!ENTITY pref_plugins_disabled "Neçalak">
 <!ENTITY pref_text_size "Mezinahiya nivîsê">
-
+<!ENTITY pref_restore_tabs "Hilpekînan vegerîne">
 <!ENTITY pref_restore_always "Her tim vegerîne">
 <!ENTITY pref_restore_quit "Piştî derketinê venegerîne &brandShortName;">
 <!ENTITY pref_font_size_tiny "Pir biçûk">
@@ -298,24 +316,25 @@
 <!ENTITY pref_font_size_medium "Nîvçe">
 <!ENTITY pref_font_size_large "Mezin">
 <!ENTITY pref_font_size_xlarge "Pir mezin">
-
+<!ENTITY pref_font_size_set "Eyar bike">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 
 
 
+<!ENTITY pref_voice_input "Têketina bideng">
 
 
 
 
-
-
+<!ENTITY pref_sync2 "Têkevê">
 
 
 
