@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Visualització compacta">
 <!ENTITY compactVersion.accesskey "V">
-
-
+<!ENTITY folderPaneBar.label "Barra d'eines de la subfinestra de carpetes">
+<!ENTITY folderModeSelector.label "Vistes de carpetes">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Ordena">
@@ -363,8 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Edita com un missatge nou">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
-
-
+<!ENTITY editDraftMsgCmd.label "Edita l'esborrany">
+<!ENTITY editDraftMsgCmd.accesskey "b">
 <!ENTITY createFilter.label "Crea un filtre…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Mou">
@@ -720,7 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Edita com un missatge nou">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
-
+<!ENTITY contextEditDraftMsg.label "Edita l'esborrany">
 <!ENTITY contextArchive.label "Arxiva">
 <!ENTITY contextArchive.accesskey "x">
 <!ENTITY contextReplySender.label "Respon només al remitent">
@@ -748,9 +748,9 @@
 <!ENTITY contextCopyMsgMenu.label "Copia a">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Ignora la conversa">
-
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
 <!ENTITY contextKillThreadMenu.accesskey "I">
-
+<!ENTITY contextKillSubthreadMenu.label "Ignora la subconversa">
 <!ENTITY contextWatchThreadMenu.label "Vigila la conversa">
 <!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
    In the en-US locale we ran out of access keys, so there is an empty access key for
