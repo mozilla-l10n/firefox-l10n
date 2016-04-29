@@ -8,7 +8,7 @@
 <!ENTITY button.haveAccount.label      "Saya Sudah Punya Akun">
 
 <!ENTITY setup.choicePage.title.label     "Sudah pernah menggunakan &syncBrand.fullName.label;?">
-
+<!ENTITY setup.choicePage.new.label       "Saya belum pernah menggunakan &syncBrand.shortName.label; sebelumnya">
 
 <!-- New Account AND Existing Account -->
 
