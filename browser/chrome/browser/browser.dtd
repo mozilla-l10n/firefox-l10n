@@ -451,8 +451,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Otvori poveznicu u novom prozoru">
 <!ENTITY openLinkCmd.accesskey        "n">
-<!ENTITY openLinkInPrivateWindowCmd.label "Otvori poveznicu u novom prozoru Privatnog pretraživanja">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkInPrivateWindowCmd.label "Otvori poveznicu u novom privatnom prozoru">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Otvori poveznicu">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label      "Otvori okvir u novoj kartici">
@@ -739,8 +739,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Otvori u novom privatnom prozoru">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Zabilježi ovu stranicu…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 
