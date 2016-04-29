@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Tüm sekmeleri yer imlerine ekle…">
 <!ENTITY showAllBookmarks2.label "Tüm yer imlerini göster">
 
-
+<!ENTITY otherBookmarksCmd.label "Diğer yer imleri">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha fazla yer imi göster">
 
 <!ENTITY backCmd.label                "Geri">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Yer imleri">
-
+<!ENTITY bookmarksMenuButton.other.label "Diğer yer imleri">
 <!ENTITY viewBookmarksSidebar2.label        "Yer imi kenar çubuğunu göster">
 <!ENTITY viewBookmarksToolbar.label         "Yer imi araç çubuğunu göster">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Kes">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "e"> 
-
+<!ENTITY copyCmd.label            "Kopyala">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Yapıştır">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "a"> 
@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Henüz eşitlenmiş bir sekme yok.">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Diğer cihazlarınızdaki sekmeleri burada görmek ister misiniz?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Eşitleme Tercihleri">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync’e giriş yapın">
@@ -725,7 +726,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Eşitlenmiş sekmeler">
 
-
+<!ENTITY syncedTabs.sidebar.noclients.title    "Henüz eşitlenmiş bir sekme yok.">
 
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Diğer cihazlarınızdaki sekmelerin listesini görmek için giriş yapın.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Açık sekme yok">
@@ -743,8 +744,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Sekmeyi yer imlerine ekle…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "S">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Kopyala">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
