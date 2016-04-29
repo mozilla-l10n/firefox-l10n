@@ -15,7 +15,7 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "Site înșelător!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Această pagină de la <span id='phishing_sitename'/> a fost raportată ca fiind un site înșelător și a fost blocată pe baza preferințelor de securitate.">
-
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Site-urile înșelătoare sunt concepute pentru a te păcăli să faci ceva periculos, precum instalarea de programe sau dezvăluirea informațiilor personale, precum parolele, numerele de telefon sau cardurile de credit.</p><p>Introducerea oricărei informații pe această pagină web poate conduce la furt de identitate sau altă fraudă.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Site cu programe nedorite raportat!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
