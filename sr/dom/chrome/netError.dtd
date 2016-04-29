@@ -19,7 +19,7 @@
 <!ENTITY fileNotFound.title "Датотека није пронађена">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Проверите коришћење великих/малих слова или неке друге грешке у куцању.</li> <li>Проверите да ли је датотека премештена, преименована или избрисана.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Приступ датотеци је одбијен>
+<!ENTITY fileAccessDenied.title "Приступ датотеци је одбијен">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Можда је уклоњена, премештена или немате приступ датотеци.</li></ul>">
 
 <!ENTITY generic.title "Захтев није могао да буде обрађен">
