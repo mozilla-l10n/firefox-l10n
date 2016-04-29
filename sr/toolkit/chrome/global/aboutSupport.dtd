@@ -108,3 +108,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Покушај безбедни режим">
 <!ENTITY aboutSupport.restartInSafeMode.label "Рестартуј са онемогућеним додацима…">
+
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Могућности">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Дијагностика">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Дневник неуспеха">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
