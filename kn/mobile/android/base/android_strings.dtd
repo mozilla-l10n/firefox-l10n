@@ -73,7 +73,7 @@
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
-<!ENTITY reader_switch_to_bookmarks "ಬದಲಾಯಿಸು">
+<!ENTITY reader_switch_to_bookmarks "‍ಬದಲಾಯಿಸು">
 
 <!ENTITY history_today_section "ಇಂದು">
 <!ENTITY history_yesterday_section "ನಿನ್ನೆ">
@@ -112,7 +112,7 @@
 <!ENTITY settings "ಸಿದ್ಧತೆಗಳು">
 <!ENTITY settings_title "ಸಿದ್ಧತೆಗಳು">
 <!ENTITY pref_category_general "ಸಾಮಾನ್ಯ">
-
+<!ENTITY pref_category_general_summary3 "ಮನೆ, ಭಾಷೆ, ಹಾಳೆ‍ ಸಾಲು">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -352,6 +352,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "ಇಳಿಕೆಗಳು">
 <!ENTITY pref_private_data_syncedTabs "ಸಿಂಕ್ ಮಾಡಿದ ಹಾಳೆಗಳು">
 
+<!ENTITY pref_default_browser "ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವನ್ನಾಗಿ ಮಾಡಿ">
 <!ENTITY pref_about_firefox "&brandShortName; ಬಗ್ಗೆ">
 <!ENTITY pref_vendor_faqs "ಸಾಮಾನ್ಯವಾಗಿ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು">
 <!ENTITY pref_vendor_feedback "ಪ್ರತಿಕ್ರಿಯೆ ನೀಡು">
