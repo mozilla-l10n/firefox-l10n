@@ -24,15 +24,16 @@
 
 <!ENTITY  onboard_start_restricted1 "Kontrolējiet situāciju un esiet drošībā ar šo vienkāršoto &brandShortName; versiju.">
 
-
-
-
+<!ENTITY  reading_list_migration_title "Lasīšanas saraksts ir pievienots">
+<!ENTITY  reading_list_migration_subtext "Jūsu lasīšanas saraksta vienības tiks pievienotas grāmatzīmēm">
+<!ENTITY  reading_list_migration_goto_bookmarks "Iet uz grāmatzīmēm">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Jūsu grāmatzīmju panelis ir paslēpts">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Grāmatzīmes">
 <!ENTITY  history_title "Vēsture">
-
+<!ENTITY  reading_list_title "Lasīšanas saraksts">
 <!ENTITY  recent_tabs_title "Nesenās cilnes">
 
 <!ENTITY  switch_to_tab "Pāriet uz cilni">
@@ -62,15 +63,18 @@
 <!ENTITY bookmark_removed "Grāmatzīme izņemta">
 <!ENTITY bookmark_updated "Grāmatzīme atjaunināta">
 <!ENTITY bookmark_options "Iestatījumi">
-
+<!ENTITY screenshot_added_to_bookmarks "Ekrāna attēls ir pievienots grāmatzīmēm">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Ekrānattēli">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Lasīšanas saraksts">
 
-
+<!ENTITY reader_saved_offline "Saglabāts nesaistei">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Pārslēgt">
 
 <!ENTITY history_today_section "Šodien">
 <!ENTITY history_yesterday_section "Vakar">
@@ -109,7 +113,7 @@
 <!ENTITY settings "Iestatījumi">
 <!ENTITY settings_title "Iestatījumi">
 <!ENTITY pref_category_general "Vispārīgi">
-
+<!ENTITY pref_category_general_summary3 "Mājas, valoda, cilņu saraksts">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -148,15 +152,15 @@
 <!ENTITY overlay_no_synced_devices "Nav atrasta neviena ierīce, kam būtu pieslēgts Firefox konts">
 
 <!ENTITY pref_category_search3 "Meklēt">
-
+<!ENTITY pref_category_search_summary2 "Pievienot, uzstādīt noklusēto, parādīt ieteikumus">
 <!ENTITY pref_category_accessibility "Pieejamība">
 <!ENTITY pref_category_accessibility_summary2 "Teksta izmērs, pietuvinājums, balss ievade">
 <!ENTITY pref_category_privacy_short "Privātums">
-
+<!ENTITY pref_category_privacy_summary4 "Sīkdatnes, sekošana, datu izvēlnes">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Par &brandShortName;, BUJ, atsauksmes">
 <!ENTITY pref_category_datareporting "Datu izvēles">
-
+<!ENTITY pref_category_logins "Lietotājvārdi">
 <!ENTITY pref_learn_more "Uzzināt vairāk">
 <!ENTITY pref_category_installed_search_engines "Instalētie meklētāji">
 <!ENTITY pref_category_add_search_providers "Pievienot meklētājus">
@@ -168,11 +172,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "Padoms: Pievienojiet jebkuru lapu meklētājiem, ilgāku laiku paturot pirkstu uz tās meklēšanas lauka un tad piespiežot &formatI; iconu.">
 <!ENTITY pref_category_advanced "Papildus">
-
-
-
-
+<!ENTITY pref_category_advanced_summary3 "Atjaunošanas cilnes, datu taupītājs, izstrādātāju rīki">
+<!ENTITY pref_category_notifications "Paziņojumi">
+<!ENTITY pref_category_notifications_summary "Jaunas funkcijas, mājas lapu ziņas">
+<!ENTITY pref_content_notifications "Mājas lapu jaunumi">
 
 <!ENTITY pref_developer_remotedebugging_usb "Attālinātā atkļūdošana izmantojot USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Attālinātā atkļūdošana izmantojot Wi-Fi">
