@@ -326,33 +326,37 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+<!ENTITY pref_font_size_preview_text "Rûviyê reng-porteqalî û lezgîn bi lezgîniya zêdetir, bi nermî û ewlekariyê di ser hêviyên we re diqevize. Armanca me qezenckirina pereyan nîne, tu hêz nîne ku zorê li ser me bike loma em azad in ku ji bo we tiştên nû bikin. Ev ji bo we dibe cerebeyeke çêtir û ji bo Webê jî dibe dahatûyeke bişewqtir.">
+
 <!ENTITY pref_media_autoplay_enabled "Destûrê bide lêdana otomatîk">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrol bike ka malper dikarin vîdyo û naverokên din ên medyayê lê bidin">
 <!ENTITY pref_zoom_force_enabled "Zoomê her tim çalak bike">
-
+<!ENTITY pref_zoom_force_enabled_summary "Ji bo zoomkirina hemû rûpelan vebijarka rûpelê bi xurtî diguherîne">
 <!ENTITY pref_voice_input "Têketina bideng">
+<!ENTITY pref_voice_input_summary2 "Di darikê navnîşanan de destûrê bide dîkteya bideng">
+<!ENTITY pref_qrcode_enabled "Xwendeya QR kodan">
+<!ENTITY pref_qrcode_enabled_summary2 "Di darikê navnîşanan de destûrê bide skanera QRê">
 
-
-
-
+<!ENTITY pref_use_master_password "Şîfreya bingehîn bi kar bîne">
 <!ENTITY pref_sync2 "Têkevê">
-
+<!ENTITY pref_sync_summary2 "Hilpekîn, bijare, hesab, raboriya xwe sync bike">
 <!ENTITY pref_search_suggestions "Pêşniyarên lêgerînê nîşan bide">
 <!ENTITY pref_history_search_suggestions "Dîroka lêgerînê nîşan bide">
 <!ENTITY pref_import_options "Vebijarkên anîna navê">
-
-
+<!ENTITY pref_import_android_summary "Bijare û raboriyê ji geroka herêmî bîne hundir">
+<!ENTITY pref_private_data_history2 "Raboriya gerê">
 <!ENTITY pref_private_data_searchHistory "Dîroka lêgerînê">
-
-
+<!ENTITY pref_private_data_formdata2 "Raboriya forman">
+<!ENTITY pref_private_data_cookies2 "Çerez û danişînên çalak">
 <!ENTITY pref_private_data_passwords2 "Têketinên tomarkirî">
-
-
+<!ENTITY pref_private_data_cache "Pêşbîr">
+<!ENTITY pref_private_data_offlineApps "Daneyên malperên negirêdayî">
 <!ENTITY pref_private_data_siteSettings2 "Eyarên malperî">
 <!ENTITY pref_private_data_downloadFiles2 "Jêbarkirî">
+<!ENTITY pref_private_data_syncedTabs "Hilpekînên synckirî">
 
-
-
+<!ENTITY pref_default_browser "Çêke geroka standard">
+<!ENTITY pref_about_firefox "Derbarê &brandShortName;ê de">
 <!ENTITY pref_vendor_faqs "PPP">
 
 
