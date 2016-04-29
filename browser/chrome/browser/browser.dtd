@@ -163,13 +163,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "t">
 <!ENTITY shareVideo.label "Compartir iste vidio">
 <!ENTITY shareVideo.accesskey "t">
-
-
+<!ENTITY feedsMenu2.label "Conducir-se a ista pachina">
+<!ENTITY subscribeToPageMenupopup.label "Conducir-se a Ista Pachina">
 <!ENTITY subscribeToPageMenuitem.label "Conducir-se a ista pachina…">
 <!ENTITY addCurPagesCmd.label "Adhibir pestanyas ta marcapachinas…">
 <!ENTITY showAllBookmarks2.label "Amostrar totz os marcapachinas">
-
-
+<!ENTITY recentBookmarks.label "Pachinas marcadas recientment">
+<!ENTITY otherBookmarksCmd.label "Atros marcapachinas">
 <!ENTITY bookmarksToolbarChevron.tooltip "Amostrar mas marcapachinas">
 
 <!ENTITY backCmd.label                "Enta zaga">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcapachinas">
-
+<!ENTITY bookmarksMenuButton.other.label "Atros marcapachinas ">
 <!ENTITY viewBookmarksSidebar2.label        "Amostrar a barra lateral de marcapachinas">
 <!ENTITY viewBookmarksToolbar.label         "Veyer a barra de marcapachinas">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Retallar">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "Copiar">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Apegar">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "A"> 
@@ -341,11 +341,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "Pestanyas sincronizadas">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "No i hai garra pestanya ubierta">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activar la sincronización de pestanyas pa veyer una lista de pestanyas dende os atros dispositivos.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "No i hai encara pestanyas sincronizadas!">
 
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
 

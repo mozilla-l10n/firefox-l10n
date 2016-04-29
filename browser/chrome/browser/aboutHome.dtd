@@ -18,6 +18,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
+<!ENTITY abouthome.defaultSnippet2.v1 "Ye facil personalizar Firefox d'a traza que mas li agrade. <a>Trigue entre milars de complementos</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; ye un software libre y de codigo fuent ubierto d'a fundación sin animo de lucro Mozilla. <a>Conoixca os suyos dreitos…</a>">
 
@@ -35,3 +36,5 @@
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
      the mozilla wordmark in the top-right corner that links to Mozilla's main
      about page. -->
+
+<!ENTITY abouthome.aboutMozilla.label    "Quanto a Mozilla">
