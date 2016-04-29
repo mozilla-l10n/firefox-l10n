@@ -178,7 +178,7 @@
 <!ENTITY pref_category_notifications "Paziņojumi">
 <!ENTITY pref_category_notifications_summary "Jaunas funkcijas, mājas lapu ziņas">
 <!ENTITY pref_content_notifications "Mājas lapu jaunumi">
-
+<!ENTITY pref_content_notifications_summary2 "Atklājiet jaunu saturu no atbalstītajām lapām">
 <!ENTITY pref_developer_remotedebugging_usb "Attālinātā atkļūdošana izmantojot USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Attālinātā atkļūdošana izmantojot Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Lai izmantotu Wi-Fi atkļūdošanu, jūsu ierīcē jābūt instalētai QR koda lasīšanas lietotnei.">
@@ -188,8 +188,8 @@
 <!ENTITY pref_category_home "Sākums">
 <!ENTITY pref_category_home_summary "Sākumlapas pielāgojumi">
 <!ENTITY pref_category_home_panels "Paneļi">
-
-
+<!ENTITY pref_category_home_add_ons "Papildinājumi">
+<!ENTITY pref_home_updates2 "Satura atjauninājumi">
 <!ENTITY pref_home_updates_enabled "Aktivizēts">
 <!ENTITY pref_home_updates_wifi "Tikai pa Wi-Fi">
 <!ENTITY pref_category_home_homepage "Mājas lapa">
@@ -215,7 +215,7 @@
 <!ENTITY pref_header_search "Meklēt">
 <!ENTITY pref_header_privacy_short "Privātums">
 <!ENTITY pref_header_accessibility "Pieejamība">
-
+<!ENTITY pref_header_notifications "Paziņojumi">
 <!ENTITY pref_header_advanced "Papildus">
 <!ENTITY pref_header_help "Palīdzība">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -225,8 +225,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktivētas, izņemot 3. pušu">
 <!ENTITY pref_cookies_disabled "Deaktivētas">
 
-
-
+<!ENTITY pref_category_data_saver "Datu taupīšana">
+<!ENTITY pref_category_media "Mediji">
+<!ENTITY pref_category_developer_tools "Izstrādātāju rīki">
 
 <!ENTITY pref_tap_to_load_images_title2 "Rādīt attēlus">
 <!ENTITY pref_tap_to_load_images_enabled "Vienmēr">
@@ -236,6 +237,7 @@
 <!ENTITY pref_show_web_fonts "Rādīt tīmekļa fontus">
 
 
+<!ENTITY pref_tracking_protection_title2 "Izsekošanas aizsardzība">
 <!ENTITY pref_tracking_protection_summary3 "Aktivēta privātajā pārlūkošanā">
 <!ENTITY pref_donottrack_title "Izsekošanas bloķēšana">
 <!ENTITY pref_donottrack_summary "&brandShortName; teiks lapām, ka nevēlaties, lai jūs izseko">
@@ -264,7 +266,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Ejiet uz iestatījumiem">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -290,7 +292,7 @@
 <!ENTITY pref_char_encoding "Rakstzīmju kodējums">
 <!ENTITY pref_char_encoding_on "Rādīt izvēlni">
 <!ENTITY pref_char_encoding_off "Nerādīt izvēlni">
-
+<!ENTITY pref_clear_private_data2 "Notīrīt privātos datus">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Notīrīt tagad">
@@ -394,6 +396,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Automātiskie atjauninājumi">
 <!ENTITY pref_update_autodownload_wifi "Tikai pa Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nekad">
 <!ENTITY pref_update_autodownload_always "Vienmēr">
@@ -404,7 +407,7 @@ size. -->
 <!ENTITY quit "Iziet">
 
 <!ENTITY addons "Papildinājumi">
-
+<!ENTITY logins "Lietotājvārdi">
 <!ENTITY downloads "Lejupielādes">
 <!ENTITY char_encoding "Rakstzīmju kodējums">
 
@@ -475,7 +478,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Palielināt mazus apgabalus">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Palielināt saites un formu laukus, ka pieskaras to tuvumā">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -567,6 +570,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Ievadiet meklējamo frāzi">
 
+<!ENTITY filepicker_title "Izvēlieties failu">
 <!ENTITY filepicker_audio_title "Izvēlieties vai ierakstiet skaņu">
 <!ENTITY filepicker_image_title "Izvēlieties vai uzņemiet attēlu">
 <!ENTITY filepicker_video_title "Izvēlieties vai ierakstiet video">
@@ -595,6 +599,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "Šīs lapas daļas (piemēram attēli) nav drošai.">
 <!ENTITY mixed_content_protection_disabled1 "Nedrošu elementu aizsardzība ir deaktivēta.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "Izsekošanas aizsardzība">
 <!ENTITY doorhanger_tracking_state_enabled "Aktivizēta">
 <!ENTITY doorhanger_tracking_state_disabled "Deaktivēta">
 <!ENTITY doorhanger_tracking_message_enabled1 "Mēģinājumi izsekot jūsu aktivitātēm internetā tika bloķēti.">
@@ -759,6 +765,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ir jaunākā versija">
 <!ENTITY whatsnew_notification_summary "Uzziniet, kas šajā versijā ir jauns">
 
+<!ENTITY promotion_add_to_homescreen "Pievienot sākuma ekrānam">
 
 
 
