@@ -358,18 +358,21 @@ size. -->
 <!ENTITY pref_default_browser "Çêke geroka standard">
 <!ENTITY pref_about_firefox "Derbarê &brandShortName;ê de">
 <!ENTITY pref_vendor_faqs "PPP">
+<!ENTITY pref_vendor_feedback "Agahiyan bişîne">
 
-
+<!ENTITY pref_dialog_set_default "Bike ya standard">
 <!ENTITY pref_dialog_default "Standard">
+<!ENTITY pref_dialog_remove "Rake">
 
-
+<!ENTITY pref_search_last_toast "Tu nikarî motora lêgerînê ya dawiyê rakî yan jî neçalak bikî.">
 
 <!ENTITY pref_panels_show "Nîşan bide">
+<!ENTITY pref_panels_hide "Veşêre">
+<!ENTITY pref_panels_reorder "Rêzê biguherîne">
+<!ENTITY pref_panels_move_up "Bibe jorê">
+<!ENTITY pref_panels_move_down "Bibe jêrê">
 
-
-
-
-
+<!ENTITY datareporting_notification_title "Îstatîstîk û daneyên &brandShortName;ê">
 <!ENTITY datareporting_notification_action "Tiştên parve bikî hilbijêre">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Agahiyên ku dê bên parvekirin hilbijêre">
@@ -393,7 +396,7 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Raporkara Têkçûnê">
-
+<!ENTITY datareporting_wifi_title2 "Servîsên ciyê cografîk yên &vendorShortName;ê">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
