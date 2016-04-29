@@ -25,8 +25,8 @@
 <!ENTITY  onboard_start_restricted1 "Mantenha-se seguro e em controlo com esta versão simplificada do &brandShortName;.">
 
 
-
-
+<!ENTITY  reading_list_migration_goto_bookmarks "Ir para Marcadores">
+<!ENTITY  reading_list_migration_bookmarks_hidden "O painel de marcadores está oculto">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -62,10 +62,11 @@
 <!ENTITY bookmark_removed "Marcador removido">
 <!ENTITY bookmark_updated "Marcador atualizado">
 <!ENTITY bookmark_options "Opções">
-
+<!ENTITY screenshot_added_to_bookmarks "Captura adicionada aos marcadores">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Capturas de ecrã">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Lista de leitura">
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -284,7 +285,7 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; websites atualizados">
-
+<!ENTITY content_notification_action_settings "Definição de notificações">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -480,7 +481,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Ampliar áreas pequenas">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Ampliar ligações e campos de formulário ao tocar perto deles">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
