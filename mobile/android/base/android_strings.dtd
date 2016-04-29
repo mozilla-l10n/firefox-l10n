@@ -337,9 +337,9 @@ size. -->
 
 <!ENTITY pref_sync2 "Têkevê">
 
-
+<!ENTITY pref_search_suggestions "Pêşniyarên lêgerînê nîşan bide">
 <!ENTITY pref_history_search_suggestions "Dîroka lêgerînê nîşan bide">
-
+<!ENTITY pref_import_options "Vebijarkên anîna navê">
 
 
 <!ENTITY pref_private_data_searchHistory "Dîroka lêgerînê">
@@ -348,8 +348,8 @@ size. -->
 <!ENTITY pref_private_data_passwords2 "Têketinên tomarkirî">
 
 
-
-
+<!ENTITY pref_private_data_siteSettings2 "Eyarên malperî">
+<!ENTITY pref_private_data_downloadFiles2 "Jêbarkirî">
 
 
 
