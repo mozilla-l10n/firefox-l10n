@@ -153,11 +153,11 @@
 <!ENTITY pref_category_accessibility "Accesibilitate">
 <!ENTITY pref_category_accessibility_summary2 "Mărimea textului, zoomul, intrarea vocală">
 <!ENTITY pref_category_privacy_short "Confidențialitate">
-
+<!ENTITY pref_category_privacy_summary4 "Urmărire, autentificări, împărtășire de date">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Despre &brandShortName;, întrebări frecvente, feedback">
 <!ENTITY pref_category_datareporting "Împărtășire de date">
-
+<!ENTITY pref_category_logins "Autentificări">
 <!ENTITY pref_learn_more "Află mai multe">
 <!ENTITY pref_category_installed_search_engines "Motoare de căutare instalate">
 <!ENTITY pref_category_add_search_providers "Adaugă mai multe motoare de căutare">
@@ -186,7 +186,7 @@
 <!ENTITY pref_category_home_summary "Personalizează pagina de start">
 <!ENTITY pref_category_home_panels "Panouri">
 
-
+<!ENTITY pref_home_updates2 "Actualizări de conținut">
 <!ENTITY pref_home_updates_enabled "Activate">
 <!ENTITY pref_home_updates_wifi "Doar prin Wi-Fi">
 <!ENTITY pref_category_home_homepage "Pagină de start">
@@ -199,7 +199,7 @@
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
-<!ENTITY home_homepage_radio_user_address "Personalizat">
+<!ENTITY home_homepage_radio_user_address "Pagină personalizată">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
@@ -227,7 +227,7 @@
 <!ENTITY pref_category_developer_tools "Unelte de dezvoltare">
 
 <!ENTITY pref_tap_to_load_images_title2 "Arată imaginile">
-<!ENTITY pref_tap_to_load_images_enabled "Mereu">
+<!ENTITY pref_tap_to_load_images_enabled "Întotdeauna">
 <!ENTITY pref_tap_to_load_images_data "Doar prin Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blocat">
 
@@ -301,7 +301,7 @@
 <!ENTITY pref_plugins_disabled "Dezactivate">
 <!ENTITY pref_text_size "Mărimea textului">
 <!ENTITY pref_restore_tabs "Restaurează filele">
-<!ENTITY pref_restore_always "Restaurează mereu">
+<!ENTITY pref_restore_always "Restaurează întotdeauna">
 <!ENTITY pref_restore_quit "Nu le restaura după ce ies din &brandShortName;">
 <!ENTITY pref_font_size_tiny "Foarte mică">
 <!ENTITY pref_font_size_small "Mică">
@@ -322,7 +322,7 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "Permite redarea automată">
 <!ENTITY pref_media_autoplay_enabled_summary "Controlează dacă site-urile web pot rula automat videoclipuri și alt conținut media">
-<!ENTITY pref_zoom_force_enabled "Activează mereu zoomul">
+<!ENTITY pref_zoom_force_enabled "Activează întotdeauna zoomul">
 <!ENTITY pref_zoom_force_enabled_summary "Forțează suprascrierea ca să poți face zoom pe orice pagină">
 <!ENTITY pref_voice_input "Intrare vocală">
 <!ENTITY pref_voice_input_summary2 "Permite dictarea vocală în bara de adresă">
@@ -393,9 +393,10 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Actualizări automate">
 <!ENTITY pref_update_autodownload_wifi "Doar prin Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Niciodată">
-<!ENTITY pref_update_autodownload_always "Mereu">
+<!ENTITY pref_update_autodownload_always "Întotdeauna">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Ajutor">
@@ -403,9 +404,9 @@ size. -->
 <!ENTITY quit "Ieși">
 
 <!ENTITY addons "Suplimente">
-
+<!ENTITY logins "Autentificări">
 <!ENTITY downloads "Descărcări">
-<!ENTITY char_encoding "Codare caractere">
+<!ENTITY char_encoding "Codare de caractere">
 
 <!ENTITY share "Împărtășește">
 <!ENTITY share_title "Distribuie prin intermediul">
