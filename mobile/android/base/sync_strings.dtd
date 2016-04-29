@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label "‍">
 <!ENTITY bookmarks.folder.tags.label "ಟ್ಯಾಗ್‌ಗಳು">
 <!ENTITY bookmarks.folder.toolbar.label "ಬುಕ್‌ಮಾರ್ಕುಗಳ ಉಪಕರಣಪಟ್ಟಿ">
-
+<!ENTITY bookmarks.folder.other.label "ಇತರೆ ಪುಟಗುರುತುಗಳು">
 <!ENTITY bookmarks.folder.desktop.label "ಡೆಸ್ಕ್ ಟಾಪ್ ಪುಟಗುರುತುಗಳು">
 <!ENTITY bookmarks.folder.mobile.label "ಮೊಬೈಲ್ ಬುಕ್‌ಮಾರ್ಕುಗಳು">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->

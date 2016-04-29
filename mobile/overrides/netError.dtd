@@ -64,6 +64,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>ಪ್ರಾಕ್ಸಿ ಸಂಯೋಜನೆಗಳು ಸರಿಯಿದೆಯೇ ಪರಿಶೀಲಿಸಿ.</li> <li>ಹಾಗೆಯೇ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಮೊಬೈಲ್ ಡೇಟಾ ಅಥವಾ ವೈ-ಫೈ ಇದೆಯೇ ಪರೀಕ್ಷಿಸಿ. <button id='wifi'>ವೈ-ಫೈ ಸಕ್ರಿಯಗೊಳಿಸಿ</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "ಪುಟವು ಸರಿಯಾಗಿ ಮರಳಿ ನಿರ್ದೇಶನಗೊಳ್ಳುತ್ತಿಲ್ಲ">
 <!ENTITY redirectLoop.longDesc "<ul> <li>ಕುಕಿಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸುವುದು ಅಥವ ಪಡೆದುಕೊಳ್ಳುವುದನ್ನು ನಿರ್ಬಂಧಿಸಿವುದು ಕೆಲವೊಮ್ಮೆ ಈ ತೊಂದರೆಗೆ ಕಾರಣವಾಗಿರುತ್ತದೆ.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "ಪರಿಚಾರಕದಿಂದ ಅನಿರೀಕ್ಷಿತ ಪ್ರತಿಕ್ರಿಯೆ">
