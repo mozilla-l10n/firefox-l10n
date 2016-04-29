@@ -24,15 +24,16 @@
 
 <!ENTITY  onboard_start_restricted1 "Saajaw nda dabari gaabu nda &brandShortName; dumi faalantaa woo.">
 
-
-
-
+<!ENTITY  reading_list_migration_title "Caw maašeede dobante">
+<!ENTITY  reading_list_migration_subtext "War caw maašeede-izey ga tonton war doo-šilbawey ga sohõ ">
+<!ENTITY  reading_list_migration_goto_bookmarks "Koy doo-šilbawey ga">
+<!ENTITY  reading_list_migration_bookmarks_hidden "War doo-šilbawey fasaldogoo ga tugu">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Doo-šilbawey">
 <!ENTITY  history_title "Taariki">
-
+<!ENTITY  reading_list_title "Caw maašeede">
 <!ENTITY  recent_tabs_title "Kanji korkorantey">
 
 <!ENTITY  switch_to_tab "Bere kanji ga">
@@ -62,15 +63,18 @@
 <!ENTITY bookmark_removed "Doo-šilbay tuusante">
 <!ENTITY bookmark_updated "Doo-šilbay taagante">
 <!ENTITY bookmark_options "Suubarey">
-
+<!ENTITY screenshot_added_to_bookmarks "Dijibii kaŋ tonton doo-šilbawey ga">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Dijibiyey">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Caw maašeede">
 
-
+<!ENTITY reader_saved_offline "Gaabundi bila nda interneti">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Bere">
 
 <!ENTITY history_today_section "Hõ">
 <!ENTITY history_yesterday_section "Bi">
@@ -109,7 +113,7 @@
 <!ENTITY settings "Kayandiyaney">
 <!ENTITY settings_title "Kayandiyaney">
 <!ENTITY pref_category_general "Hankul">
-
+<!ENTITY pref_category_general_summary3 "Šintin doo, šenni, kanji šette">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -148,15 +152,15 @@
 <!ENTITY overlay_no_synced_devices "Firefox kontu dobante kul mana duwandi">
 
 <!ENTITY pref_category_search3 "Ceeci">
-
+<!ENTITY pref_category_search_summary2 "Tonton, tilasu kayandi, honnandiyaney cebe">
 <!ENTITY pref_category_accessibility "Duwandiyan">
 <!ENTITY pref_category_accessibility_summary2 "Hantum azzaati, beeriyan, jinde damhaya">
 <!ENTITY pref_category_privacy_short "Sutura">
-
+<!ENTITY pref_category_privacy_summary4 "Hangayan, huruyan tammasawey, bayhaya suubarey">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName;, hããyan fillantey, tuuruyan ga">
 <!ENTITY pref_category_datareporting "Bayhaya suubarey">
-
+<!ENTITY pref_category_logins "Huruyan tammaasawey">
 <!ENTITY pref_learn_more "Bay ka tonton">
 <!ENTITY pref_category_installed_search_engines "Ceecijinay sinjantey">
 <!ENTITY pref_category_add_search_providers "Ceeciyan nookawyaŋ tonton">
@@ -168,12 +172,13 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "Yaamar: Ceeciyan faari naagu kayna nda &formatI; biyoo karkar ka interneti nungu foo tonton war ceeciyan nookey maašeedaa ga.">
 <!ENTITY pref_category_advanced "Jinekoyante">
-
-
-
-
-
+<!ENTITY pref_category_advanced_summary3 "Kanjey, sukarey, cinakaw goyjinawey yeeti">
+<!ENTITY pref_category_notifications "Bangandiyaney">
+<!ENTITY pref_category_notifications_summary "Alhaali taagey, interneti nungu taagandirey">
+<!ENTITY pref_content_notifications "Interneti nungu taagandirey">
+<!ENTITY pref_content_notifications_summary2 "Dii gundekuna taaga nungu gaakašinantey ga">
 <!ENTITY pref_developer_remotedebugging_usb "Mooray hanseyan nda USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Mooray hanseyan nda Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi hasaraw kaayan ka waazibandi kaŋ war jinaa ma bara nda zaabiyan ašariya cawkaw porogaram sinjante.">
@@ -183,8 +188,8 @@
 <!ENTITY pref_category_home "Šintin">
 <!ENTITY pref_category_home_summary "Šintinmoo hanse war boŋse">
 <!ENTITY pref_category_home_panels "Fasaldogey">
-
-
+<!ENTITY pref_category_home_add_ons "Tontoney">
+<!ENTITY pref_home_updates2 "Gundekuna taagandirey">
 <!ENTITY pref_home_updates_enabled "Ga dira">
 <!ENTITY pref_home_updates_wifi "Wi-Fi hinne bande">
 <!ENTITY pref_category_home_homepage "Šintinmoo">
@@ -210,7 +215,7 @@
 <!ENTITY pref_header_search "Ceeci">
 <!ENTITY pref_header_privacy_short "Sutura">
 <!ENTITY pref_header_accessibility "Duwandiyan">
-
+<!ENTITY pref_header_notifications "Bangandiyaney">
 <!ENTITY pref_header_advanced "Jinekoyante">
 <!ENTITY pref_header_help "Faaba">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -220,8 +225,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Tunante, bila nda aleewa waani">
 <!ENTITY pref_cookies_disabled "Kayante">
 
-
-
+<!ENTITY pref_category_data_saver "Bayhaya gaabukaw">
+<!ENTITY pref_category_media "Alhabar goyjinay">
+<!ENTITY pref_category_developer_tools "Cinakaw goyjinawey">
 
 <!ENTITY pref_tap_to_load_images_title2 "Biyey cebe">
 <!ENTITY pref_tap_to_load_images_enabled "Waati kul">
@@ -229,8 +235,9 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Gagayante">
 
 <!ENTITY pref_show_web_fonts "Interneti šigirawey cebe">
+<!ENTITY pref_show_web_fonts_summary2 "Šigira moorey zumandi moo zumandiyan waate">
 
-
+<!ENTITY pref_tracking_protection_title2 "Ganayan jejebuyan">
 <!ENTITY pref_tracking_protection_summary3 "A tunandi sutura naaruyan ra">
 <!ENTITY pref_donottrack_title "May ši ay gana">
 <!ENTITY pref_donottrack_summary "&brandShortName; ga har nungey se kaŋ war ši baa boro ma war gana">
@@ -239,7 +246,8 @@
 <!ENTITY pref_tracking_protection_enabled_pb "A tunandi sutura naaruyan ra">
 <!ENTITY pref_tracking_protection_disabled "Kayante">
 
-
+<!ENTITY pref_whats_new_notification "Macin ma taaga &brandShortName; ra">
+<!ENTITY pref_whats_new_notification_summary "Alhaali taagey bay ka tonton taagandiri banda ga ">
 
 <!ENTITY tracking_protection_prompt_title "Sohõ nda ganayan jejebu">
 <!ENTITY tracking_protection_prompt_text "Ga hayizey kaŋyaŋ ga war gana gagay, adiši war ma ši joote.">
@@ -259,7 +267,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Koy kayandiyaney ga">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -273,19 +281,22 @@
 
 <!ENTITY tab_queue_notification_settings "Ka \&quot;Dobu boobey feeri\&quot;, taare \u0027Žeeri porogaram taney ga\u0027 duɲeyan tunandi &brandShortName; se">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!ENTITY content_notification_title_plural "&formatD; nungey n\u0027 ka taagandi">
+<!ENTITY content_notification_action_settings "Bangandiyan kayandiyaney">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "Kaŋ taagandi &formatS; ga">
 
 <!ENTITY pref_char_encoding "Harfu hawyan">
 <!ENTITY pref_char_encoding_on "Šilbayboŋoo cebe">
 <!ENTITY pref_char_encoding_off "Šilbayboŋoo ma ši cebandi">
-
+<!ENTITY pref_clear_private_data2 "Sutura bayhayey tuusu">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Tuusu sohõda">
@@ -294,7 +305,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Bayhayey kaŋ ga tuusandi suuba">
 <!ENTITY pref_plugins "Sukarey">
 <!ENTITY pref_plugins_enabled "Tunante">
-
+<!ENTITY pref_plugins_tap_to_play2 "Mooru ka dirandi">
 <!ENTITY pref_plugins_disabled "Kayante">
 <!ENTITY pref_text_size "Kalimaɲaa kuru kayyan">
 <!ENTITY pref_restore_tabs "Kanjey yeeti">
@@ -344,6 +355,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Zumandey">
 <!ENTITY pref_private_data_syncedTabs "Kanje cere-hangantey">
 
+<!ENTITY pref_default_browser "A tee tilasu ceecikaw">
 <!ENTITY pref_about_firefox "&brandShortName; ga">
 <!ENTITY pref_vendor_faqs "Hãayan nda zaabi">
 <!ENTITY pref_vendor_feedback "War goy-banda laasaaboo sanba">
@@ -389,6 +401,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Boŋtaagandirey">
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi hinne bande">
 <!ENTITY pref_update_autodownload_never "Abada">
 <!ENTITY pref_update_autodownload_always "Waati kul">
@@ -399,7 +412,7 @@ size. -->
 <!ENTITY quit "Fatta">
 
 <!ENTITY addons "Tontoney">
-
+<!ENTITY logins "Huruyan tammaasawey">
 <!ENTITY downloads "Zumandiyaney">
 <!ENTITY char_encoding "Harfu hawyan">
 
@@ -470,7 +483,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Doo kaccey wargandi">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Dobey nda takari faarey mooru k\u0027i hayandi">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -523,7 +536,7 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; šintin moo">
 <!ENTITY home_history_title "Taariki">
-
+<!ENTITY home_history_back_to "Willi taarikoo ga">
 <!ENTITY home_clear_history_button "Ceeciyan taariki tuusu">
 <!ENTITY home_clear_history_confirm "Alhakiika war ga boona ka taarikoo tuusu?">
 <!ENTITY home_bookmarks_empty "War doo-šilbay gaabuntey ga cebe ne.">
@@ -562,6 +575,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Ceeci kufalkalima dam">
 
+<!ENTITY filepicker_title "Tuku suuba">
 <!ENTITY filepicker_audio_title "Jinde foo suuba wal’a jiši">
 <!ENTITY filepicker_image_title "Bii foo suuba wal’a zaa">
 <!ENTITY filepicker_video_title "Widewo foo suuba wal’a zaa">
@@ -590,6 +604,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "Moɲoo woo doo fooyaŋ ši saajaw (sanda biiyaŋ).">
 <!ENTITY mixed_content_protection_disabled1 "War na jejeboo kaa gundekuna kaŋ ši saajaw se.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "Ganayan jejebuyan">
 <!ENTITY doorhanger_tracking_state_enabled "Tunante">
 <!ENTITY doorhanger_tracking_state_disabled "Kayante">
 <!ENTITY doorhanger_tracking_message_enabled1 "Ir na boroyaŋ gagay kaŋ ceeci ka war interneti donaa gana.">
@@ -754,6 +770,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; n\u0027 ka taagandi">
 <!ENTITY whatsnew_notification_summary "Guna haya taagey dumoo woo ra">
 
+<!ENTITY promotion_add_to_homescreen "Tonto šintin moo dijoo ga">
 
-
-
+<!ENTITY helper_first_offline_bookmark_title "Caw bila nda interneti">
+<!ENTITY helper_first_offline_bookmark_message "Duu cawkaw gunari haya-izey doo-šilbawey ra, ba interneti šii">
+<!ENTITY helper_first_offline_bookmark_button "Koy doo-šilbawey ga">
