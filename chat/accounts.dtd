@@ -7,13 +7,14 @@
 <!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
 <!ENTITY accountsWindow.title                "Estado de mensagens instantâneas">
-
+<!ENTITY accountsWindow2.style               "width: 45em; height: 29em;">
 
 <!ENTITY accountManager.newAccount.label     "Nova conta">
 <!ENTITY accountManager.newAccount.accesskey "N">
 <!ENTITY accountManager.close.label          "Fechar">
 <!ENTITY accountManager.close.accesskey      "c">
 <!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Nenhuma conta configurada ainda">
 <!ENTITY accountManager.noAccount.description "Clique no botão &accountManager.newAccount.label; para deixar que o &brandShortName; o ajude através do processo de configuração de uma.">
