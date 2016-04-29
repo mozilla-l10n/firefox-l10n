@@ -14,7 +14,7 @@
 <!ENTITY aboutPrivateBrowsing.info.searches "ricerche">
 <!ENTITY aboutPrivateBrowsing.info.cookies "cookie">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "file temporanei">
-<!ENTITY aboutPrivateBrowsing.info.saved.before "Mentre">
+<!ENTITY aboutPrivateBrowsing.info.saved.before "Mentre ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize "vengono salvati:">
 <!ENTITY aboutPrivateBrowsing.info.saved.after "">
 <!ENTITY aboutPrivateBrowsing.info.downloads "download">
