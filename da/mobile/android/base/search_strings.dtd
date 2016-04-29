@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage 'Slet al søgehistorik fra denne enhed?'>
 <!ENTITY pref_clearHistory_title 'Ryd søgehistorik'>
 
-<!ENTITY pref_searchProvider_title 'Søgetjenester'>
-
 <!ENTITY search_widget_button_label 'Søg'>
 
 <!ENTITY network_error_title 'Ingen internetforbindelse'>

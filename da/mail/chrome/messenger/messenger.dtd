@@ -751,7 +751,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextCopyMsgMenu.label "Kopier til">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignorer tråd">
-<!ENTITY contextKillSubthreadMenu.accesskey "o">
+<!ENTITY contextKillSubthreadMenu.accesskey "e">
 <!ENTITY contextKillThreadMenu.accesskey "t">
 <!ENTITY contextKillSubthreadMenu.label "Ignorer undertråd">
 <!ENTITY contextWatchThreadMenu.label "Overvåg tråd">
@@ -759,7 +759,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    In the en-US locale we ran out of access keys, so there is an empty access key for
    Watch Thread. Localizers can pick a suitable key
   -->
-<!ENTITY contextWatchThreadMenu.accesskey "e">
+<!ENTITY contextWatchThreadMenu.accesskey "o">
 <!ENTITY contextSaveAs.label "Gem som…">
 <!ENTITY contextSaveAs.accesskey "G">
 <!ENTITY contextPrint.label "Udskriv…">

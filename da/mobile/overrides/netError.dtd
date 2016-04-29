@@ -42,6 +42,12 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Filen kunne ikke tilgås">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Den kan være blevet slettet, flyttet eller fil-tilladelserne kan forhindre adgang.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Hovsa.">
 <!ENTITY generic.longDesc "
@@ -112,7 +118,7 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Undersøg proxy-indstillingerne og vær sikker på at de er korrekte.</li>
-  <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren 
+  <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren
   fungerer.</li>
 </ul>
 ">
@@ -132,7 +138,7 @@
 <!ENTITY redirectLoop.title "Denne webside viderefører ikke forespørgslen korrekt">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse 
+  <li>Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse
   af cookies er blevet nægtet.</li>
 </ul>
 ">
@@ -140,7 +146,7 @@
 <!ENTITY unknownSocketType.title "Uventet svar fra server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Undersøg om dit system har Personal Security Manager 
+  <li>Undersøg om dit system har Personal Security Manager
   installeret.</li>
   <li>Dette kan skyldes en ikke-standard opsætning af serveren.</li>
 </ul>
@@ -159,7 +165,7 @@
 <ul>
   <li>Dette kan være et problem med serverens konfiguration, eller det kan betyde,
 at nogen forsøger at give sig ud for at være serveren.</li>
-  <li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være midlertidligt 
+  <li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være midlertidligt
 og du anbefales at prøve igen senere.</li>
 </ul>
 ">
@@ -209,3 +215,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Avanceret info: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Usikker forbindelse">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc " <p><span class='hostname'></span> bruger sikkerhed, der er forældet eller sårbart for angreb. En angriber kan nemt få adgang til informationer, som du ellers tror er sikre. Webstedets administrator er nødt til at rette problemet på serveren, før du kan besøge dette websted.</p><p>Fejlmeddelelse: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
