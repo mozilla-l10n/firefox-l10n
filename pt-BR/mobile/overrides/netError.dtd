@@ -38,6 +38,12 @@
   <li>Verifique se o arquivo foi movido, renomeado ou excluído.</li>
 </ul>">
 
+<!ENTITY fileAccessDenied.title "Acesso ao arquivo foi negado">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Isso pode ter sido removido, movido ou as permissões do arquivo podem estar impedindo o acesso.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>Algo impediu o &brandShortName; de carregar esta página.</p>">
@@ -181,3 +187,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Sua conexão não é segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>usa tecnologia de segurança que está desatualizada e vulnerável a ataque. Um invasor pode facilmente revelar informações que você pensou estarem seguras. Será necessário que o administrador do site corrija o servidor primeiro antes que você pode visitá-lo.</p><p>Código do erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
