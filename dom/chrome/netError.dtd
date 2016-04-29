@@ -19,6 +19,9 @@
 <!ENTITY fileNotFound.title "Датотека није пронађена">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Проверите коришћење великих/малих слова или неке друге грешке у куцању.</li> <li>Проверите да ли је датотека премештена, преименована или избрисана.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "Приступ датотеци је одбијен>
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Можда је уклоњена, премештена или немате приступ датотеци.</li></ul>">
+
 <!ENTITY generic.title "Захтев није могао да буде обрађен">
 <!ENTITY generic.longDesc "<p>Додатни подаци о овом проблему или грешци тренутно нису доступни.</p>">
 
@@ -89,3 +92,8 @@
 
 <!ENTITY remoteXUL.title "Удаљени XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Обавестите власнике веб сајта о овом проблему.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Веза није сугурна">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> користи технологију за безбедност која је застарела и рањива је на нападе. Нападач лако може да открије информације за које сте мислили да су сигурне. Администратор веб сајта ће морати да поправи сервер пре него што посетите овај сајт:.</p><p>Код грешке: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
