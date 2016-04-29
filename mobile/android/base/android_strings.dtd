@@ -397,21 +397,26 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Raporkara Têkçûnê">
 <!ENTITY datareporting_wifi_title2 "Servîsên ciyê cografîk yên &vendorShortName;ê">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "Bibe alîkar ku &vendorShortName; cîhanê keşf bike! Ji bo pêşveçûna xizmeta me ya ciyê cografîk ciyê Wi-Fi û hucreyî yê cîhaza xwe parve bike.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
-
-
+<!ENTITY pref_update_autodownload3 "Nûkirinên otomatîk">
+<!ENTITY pref_update_autodownload_wifi "Tenê bi riya Wi-Fiyê">
+<!ENTITY pref_update_autodownload_never "Tu caran">
+<!ENTITY pref_update_autodownload_always "Her dem">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "Alîkarî">
 
 <!ENTITY quit "Derkeve">
 
+<!ENTITY addons "Add-on">
 <!ENTITY logins "Têketin">
+<!ENTITY downloads "Jêbarkirî">
+<!ENTITY char_encoding "Kodkirina karakteran">
 
-
-
+<!ENTITY share "Parve bike">
 
 <!ENTITY share_image_failed "Wêne nikare bê parvekirin">
 <!ENTITY save_as_pdf "Wek PDF tomar bike">
