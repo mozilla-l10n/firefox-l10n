@@ -11,6 +11,8 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Blochează conținutul periculos și înșelător">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 
 
