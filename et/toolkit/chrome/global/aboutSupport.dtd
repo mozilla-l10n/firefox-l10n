@@ -54,6 +54,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins  "Lubatud pluginad">
 <!ENTITY aboutSupport.appBasicsBuildConfig     "Kompileerimise konfiguratsioon">
 <!ENTITY aboutSupport.appBasicsUserAgent       "Identifikaator">
+<!ENTITY aboutSupport.appBasicsOS              "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse       "Mälukasutus">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
@@ -107,3 +108,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle             "Proovi ohutut režiimi">
 <!ENTITY aboutSupport.restartInSafeMode.label   "Taaskäivita koos lisade keelamisega…">
+
+<!ENTITY aboutSupport.graphicsFeaturesTitle     "Funktsionaalsus">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle  "Diagnostika">
+<!ENTITY aboutSupport.graphicsFailureLogTitle   "Vealogi">
+<!ENTITY aboutSupport.graphicsGPU1Title         "1. GPU">
+<!ENTITY aboutSupport.graphicsGPU2Title         "2. GPU">

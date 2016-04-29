@@ -19,6 +19,9 @@
 <!ENTITY fileNotFound.title "Faili ei leitud">
 <!ENTITY fileNotFound.longDesc "<ul><li>Kas soovitud objekt võib olla ümber nimetatud, kustutatud või mujale paigutatud?</li><li>Kas aadressis võib olla sisestusviga või probleeme suurtähtedega?</li><li>Kas sul on objektile ligipääsemiseks piisavalt õigusi?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Ligipääs failile keelati">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Fail võib olla kustutatud, mujale liigutatud või on sellele seatud ligipääsu piiravad õigused.</li></ul>">
+
 <!ENTITY generic.title "Päringut pole võimalik lõpetada">
 <!ENTITY generic.longDesc "<p>Selle probleemi kohta pole lisainformatsiooni.</p>">
 
@@ -75,27 +78,6 @@
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Ründava veebilehe kahtlus!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Ründavad lehed üritavad paigaldada privaatandmeid varastavaid rakendusi, kasutavad sinu arvutit teiste ründamiseks või kahjustavad sinu arvutit.</p>
-<p>Veebilehe omanikud, kes usuvad, et nende leht on raporteeritud  ilma põhjuseta, võivad <a href='http://www.stopbadware.org/home/reviewinfo' >nõuda teistkordset ülevaatust</a>.</p>
-">
-
-<!ENTITY unwantedBlocked.title "Soovimatu tarkvara levitamise kahtlus!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Soovimatut tarkvara levitavad veebilehed üritavad paigaldada tarkvara, mis võib olla petlik ja mõjutada süsteemi ootamatul viisil.</p>
-">
-
-<!ENTITY phishingBlocked.title "Veebivõltsingu kahtlus!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Sellistele lehtedele andmete sisestamine võib kaasa tuua identiteedivarguse või muu pettuse.</p>
-<p>Seda tüüpi veebivõltsinguid kasutatakse pettustes, mis on tuntud ka kui veebikelmused, kus pettust sisaldavad lehed või e-kirjad jäljendavad allikaid, mida sa võid usaldada.</p>
-">
-
-<!ENTITY forbiddenBlocked.title "Keelatud sait">
-<!ENTITY forbiddenBlocked.longDesc "<p>Brauser keeldus seda lehte laadimast, sest brauseri häälestuse tõttu on leht blokitud.</p>
-">
-
 <!ENTITY securityOverride.linkText "Või võid ka lisada erandi…">
 <!ENTITY securityOverride.warningContent "
 <p>Erandit ei tohiks lisada, kui kasutad internetiühendust, mida sa täielikult ei usalda, või kui sa pole harjunud nägema hoiatusi sellelt serverilt.</p>
@@ -110,3 +92,8 @@
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Ühendus pole turvaline">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> kasutab turvalisuse tehnoloogiaid, mis on aegunud ja avatud rünnakutele. Ründaja võib suurema vaevata pääseda ligi teabele, mis sinu arvates on kaitstud. Saidi külastamiseks peab saidi administraator selle serveri kõigepealt ära parandama.</p><p>Veakood: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
