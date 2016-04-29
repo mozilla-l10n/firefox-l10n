@@ -24,6 +24,7 @@
 <!ENTITY fileNotFound.title "Berkas tidak ditemukan">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Periksa penggunaan huruf besar/kecil pada nama berkas atau kesalahan pengetikan lain.</li> <li>Periksa apakah berkas sudah dipindah, diganti namanya, atau dihapus.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "Akses terhadap berkas ditolak">
 
 
 <!ENTITY generic.title "Ups.">
