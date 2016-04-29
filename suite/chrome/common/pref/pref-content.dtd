@@ -24,7 +24,8 @@
      single hbox with minZoom.label preceding the minZoom control and
      maxZoom.label preceding the maxZoom control; percent.label shows
      the ASCII '%' character at the end of that string -->
-
+<!ENTITY minZoom.label                          "Oscila entre">
+<!ENTITY minZoom.accesskey                      "t">
 <!ENTITY maxZoom.label                          "para">
 <!ENTITY maxZoom.accesskey                      "r">
 <!ENTITY percent.label                          "&#037;">
