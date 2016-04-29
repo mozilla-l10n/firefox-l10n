@@ -74,7 +74,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->
 
-<!ENTITY netmonitorUI.tab.timings         "Temporizadores">
+<!ENTITY netmonitorUI.tab.timings         "Temporizações">
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.preview): This is the label displayed
   -  in the network details pane identifying the preview tab. -->
 
