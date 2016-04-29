@@ -14,7 +14,7 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "Monitorização da navegação">
-<!ENTITY trackingProtectionPBM5.label         "Usar proteção contra monitorização em janelas privadas">
+<!ENTITY trackingProtectionPBM5.label         "Utilizar proteção contra monitorização em janelas privadas">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber mais">
 <!ENTITY changeBlockList.label          "Alterar lista de bloqueio">
