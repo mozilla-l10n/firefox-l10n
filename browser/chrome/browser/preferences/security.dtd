@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Strašny a wobšudny wobsah blokować">
+<!ENTITY  enableSafeBrowsing.accesskey    "S">
 
+<!ENTITY  blockDownloads.label            "Strašne sćehnjenja blokować">
+<!ENTITY  blockDownloads.accesskey        "s">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Njewitaneje a njewšědneje softwary dla warnować">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Wuwzaća…">
 <!ENTITY  addonExceptions.accesskey     "W">
