@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Account manager window for Instantbird -->
+<!ENTITY accounts.title                      "Kontod - &brandShortName;">
+<!ENTITY accountManager.width                "450">
+<!-- Instant messaging account status window for Thunderbird -->
 <!ENTITY accountsWindow.title                 "Kiirsuhtluse olek">
 <!ENTITY accountsWindow2.style                "width: 45em; height: 27em;">
 <!ENTITY accountManager.newAccount.label      "Lisa konto">
@@ -19,6 +23,8 @@
 <!ENTITY account.connect.accesskey            "h">
 <!ENTITY account.disconnect.label             "Katkesta ühendus">
 <!ENTITY account.disconnect.accesskey         "t">
+<!ENTITY account.delete.label                 "Kustuta">
+<!ENTITY account.delete.accesskey             "u">
 <!ENTITY account.edit.label                   "Omadused">
 <!ENTITY account.edit.accesskey               "m">
 <!ENTITY account.moveup.label                 "Liiguta üles">
@@ -27,6 +33,8 @@
 <!ENTITY account.cancelReconnection.accesskey "d">
 <!ENTITY account.copyDebugLog.label           "Kopeeri debugimise logi">
 <!ENTITY account.copyDebugLog.accesskey       "o">
+<!ENTITY account.showDebugLog.label           "Kuva debugimise logi">
+<!ENTITY account.showDebugLog.accesskey       "d">
 <!ENTITY account.connecting                   "Ühendamine…">
 <!ENTITY account.disconnecting                "Ühenduse katkestamine…">
 <!ENTITY account.disconnected                 "Pole ühendatud">

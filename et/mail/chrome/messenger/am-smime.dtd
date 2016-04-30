@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message                     "Saadetavate kirjade allkirjastamiseks kasutatakse järgmist sertifikaati:">
 
 <!ENTITY certificates.label                      "Sertifikaadid">
-<!ENTITY manageCerts.label                       "Kuva sertifikaate">
-<!ENTITY manageCerts.accesskey                   "K">
+<!ENTITY manageCerts2.label                      "Halda sertifikaate">
+<!ENTITY manageCerts2.accesskey                  "l">
 <!ENTITY manageDevices.label                     "Turvaseadmed">
 <!ENTITY manageDevices.accesskey                 "T">

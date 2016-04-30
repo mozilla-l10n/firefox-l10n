@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey                       "H">
 <!ENTITY compactVersion.label                          "Kompaktne vaade">
 <!ENTITY compactVersion.accesskey                      "p">
+<!ENTITY folderPaneBar.label                           "Kaustade paneeli tööriistariba">
+<!ENTITY folderModeSelector.label                      "Kaustade vaated">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label                                "Sortimine">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label                         "Redigeeri uue kirjana">
 <!ENTITY editAsNewMsgCmd.accesskey                     "R">
 <!ENTITY editAsNewMsgCmd.key                           "e">
+<!ENTITY editDraftMsgCmd.label                         "Muuda mustandit">
+<!ENTITY editDraftMsgCmd.accesskey                     "u">
 <!ENTITY createFilter.label                            "Loo kirja põhjal filter...">
 <!ENTITY createFilter.accesskey                        "a">
 <!ENTITY moveMsgToMenu.label                           "Liigutamine">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey         "u">
 <!ENTITY contextEditMsgAsNew.label                     "Redigeeri uue kirjana">
 <!ENTITY contextEditMsgAsNew.accesskey                 "R">
+<!ENTITY contextEditDraftMsg.label                     "Muuda mustandit">
 <!ENTITY contextArchive.label                          "Arhiveeri">
 <!ENTITY contextArchive.accesskey                      "h">
 <!ENTITY contextReplySender.label                      "Vasta ainult saatjale">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label                      "Kopeeri kausta">
 <!ENTITY contextCopyMsgMenu.accesskey                  "K">
 <!ENTITY contextKillThreadMenu.label                   "Ignoreeri lõime">
+<!ENTITY contextKillSubthreadMenu.accesskey            "g">
 <!ENTITY contextKillThreadMenu.accesskey               "I">
 <!ENTITY contextKillSubthreadMenu.label                "Ignoreeri alamlõime">
 <!ENTITY contextWatchThreadMenu.label                  "Jälgi lõime">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey              "J">
 <!ENTITY contextSaveAs.label                           "Salvesta kui...">
 <!ENTITY contextSaveAs.accesskey                       "S">
 <!ENTITY contextPrint.label                            "Prindi...">

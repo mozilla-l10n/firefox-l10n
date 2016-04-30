@@ -37,6 +37,13 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title                "Ligipääs failile keelati">
+<!ENTITY fileAccessDenied.longDesc             "
+<ul>
+  <li>Fail võib olla kustutatud, mujale liigutatud või on sellele seatud ligipääsu piiravad õigused.</li>
+</ul>
+">
+
 <!ENTITY generic.title                         "Ups.">
 <!ENTITY generic.longDesc                      "
 <p>&brandShortName;il pole mingil põhjusel selle lehe laadimine võimalik.</p>
@@ -155,27 +162,6 @@ ja sa võid hiljem uuesti proovida.</li>
   <li>Kui sinu arvuti või võrk on kaitstud tulemüüri või puhverserveri poolt, siis tee kindlaks,
     et &brandShortName;il on lubatud internetti pääseda.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title                  "Ründava veebilehe kahtlus!">
-<!ENTITY malwareBlocked.longDesc               "
-<p>Ründavad lehed üritavad paigaldada privaatandmeid varastavaid rakendusi, kasutavad sinu arvutit teiste ründamiseks või kahjustavad sinu arvutit.</p>
-<p>Veebilehe omanikud, kes usuvad, et nende leht on raporteeritud  ilma põhjuseta, võivad <a href='http://www.stopbadware.org/home/reviewinfo' >nõuda teistkordset ülevaatust</a>.</p>
-">
-
-<!ENTITY unwantedBlocked.title                 "Soovimatu tarkvara levitamise kahtlus!">
-<!ENTITY unwantedBlocked.longDesc              "
-<p>Soovimatut tarkvara levitavad veebilehed üritavad paigaldada tarkvara, mis võib olla petlik ja mõjutada süsteemi ootamatul viisil.</p>
-">
-
-<!ENTITY phishingBlocked.title                 "Veebivõltsingu kahtlus!">
-<!ENTITY phishingBlocked.longDesc              "
-<p>Sellistele lehtedele andmete sisestamine võib kaasa tuua identiteedivarguse või muu pettuse.</p>
-<p>Seda tüüpi veebivõltsinguid kasutatakse pettustes, mis on tuntud ka kui veebikelmused, kus pettust sisaldavad lehed või e-kirjad jäljendavad allikaid, mida sa võid usaldada.</p>
-">
-
-<!ENTITY forbiddenBlocked.title                "Keelatud sait">
-<!ENTITY forbiddenBlocked.longDesc             "<p>&brandShortName; keeldus seda lehte laadimast, sest leht on brauseri häälestuse poolt blokitud.</p>
 ">
 
 <!ENTITY cspBlocked.title                      "Blokitud sisu kaitsva turvareegliga">
