@@ -1,7 +1,6 @@
-google
 bing
-duckduckgo
+yahoo
+google
+twitter
 wikipedia-nl
 marktplaats-nl
-twitter
-yahoo
