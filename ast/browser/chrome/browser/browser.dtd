@@ -168,6 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Soscribise a esta páxina…">
 <!ENTITY addCurPagesCmd.label "Amestar llingüetes a marcadores…">
 <!ENTITY showAllBookmarks2.label "Amosar tolos marcadores">
+<!ENTITY recentBookmarks.label "Marcao apocayá">
+<!ENTITY otherBookmarksCmd.label "Otros marcadores">
 <!ENTITY bookmarksToolbarChevron.tooltip "Amosar más marcadores">
 
 <!ENTITY backCmd.label                "Anterior">
@@ -222,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
+<!ENTITY bookmarksMenuButton.other.label "Otros marcadores">
 <!ENTITY viewBookmarksSidebar2.label        "Ver el panel llateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver la barra de marcadores">
 
@@ -345,6 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "¡Entá... nun hai llingüetes sincronizaes!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Quies ver equí les tos llingüetes d'otros preseos?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sincronizar preferencies">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Anicia sesión pa ver una llista de llingüetes de los otros preseos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Aniciar sesión en Sync">
@@ -720,6 +725,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Llingüetes sincronizaes">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Anicia sesión en Firefox dende otros preseos pa ver les llingüetes equí.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "¡Entá... nun hai llingüetes sincronizaes!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "¿Quies ver equí les tos llingüetes d'otros preseos?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Anicia sesión pa ver una llista de llingüetes de los otros preseos.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nun hai llingüetes abiertes">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Abrir preferencies de &syncBrand.shortName.label;">
@@ -727,8 +734,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activa la sinc de llingüetes pa ver una llista de llingüetes dende otros preseos.">
 
+<!ENTITY syncedTabs.context.open.label                       "Abrir">
+<!ENTITY syncedTabs.context.open.accesskey                   "A">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Abrir nuna llingüeta nueva">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "v">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Abrir nuna ventana nueva">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Abrir nuna ventana privada nueva">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Amestar a marcadores esta llingüeta…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "M">
+<!ENTITY syncedTabs.context.copy.label                       "Copiar">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

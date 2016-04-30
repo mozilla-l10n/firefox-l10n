@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "Fallu al cargar la páxina">
 <!ENTITY retry.label "Reintentar">
+<!ENTITY returnToPreviousPage.label "Atrás">
+<!ENTITY advanced.label "Avanzao">
 
 <!-- Specific error messages -->
 
@@ -23,6 +25,12 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <!ENTITY fileNotFound.title "Nun s'alcontró'l ficheru">
 <!ENTITY fileNotFound.longDesc "<ul><li>¿Ye dable que l'elementu se tenga renomao, desaniciao o se camudare'l so camín?</li><li>¿Hai dalgún fallu d'ortografía, mayúscules o cualesquier otru fallu al escribir la direición?</li><li>¿Tienes privilexos d'accesu suficientes pal elementu solicitáu?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Ñegose l'accesu al ficheru">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Quiciabes tea desaniciáu, movíu o que los permisos del ficheru tean evitándo l'accesu.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Nun pudo completase la solicitú">
 <!ENTITY generic.longDesc "<p>Anguaño nun hai información adicional disponible pa esti problema o error.</p>">
@@ -75,9 +83,11 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <!ENTITY nssFailure2.title "Conexón segura fallida">
 <!ENTITY nssFailure2.longDesc2 "">
 
+<!ENTITY certerror.longpagetitle1 "La to conexón nun ye segura">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "El dueñu de <span class='hostname'/> nun configuró afayadizamente'l sitiu web.  Pa protexer la to información de robu, &brandShortName; nun se coneutó a esti sitiu web.">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -100,6 +110,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Amestar esceición…">
 
+<!ENTITY errorReporting.automatic2 "Informa de fallos como esti p'ayudar a Mozilla a identificar y bloquiar sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Más información…">
 
 <!ENTITY remoteXUL.title "XUL Remotu">
@@ -108,10 +119,17 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "Nun ye dable coneutar de mou seguru">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "La to conexón nun ye segura">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "Información avanzada: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "Avanzao">
 
+<!ENTITY certerror.pagetitle1  "Conexón insegura">
+<!ENTITY certerror.copyToClipboard.label "Copiar testu al cartafueyu">
 
+<!ENTITY inadequateSecurityError.title "La to conexón nun ye segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
