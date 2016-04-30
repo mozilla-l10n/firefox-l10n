@@ -33,103 +33,23 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Značky'>
 <!ENTITY bookmarks.folder.toolbar.label 'Panel nástrojov Záložky'>
-<!ENTITY bookmarks.folder.unfiled.label 'Nezaradené záložky'>
 <!ENTITY bookmarks.folder.desktop.label 'Záložky z plnej verzie'>
 <!ENTITY bookmarks.folder.mobile.label 'Záložky z mobilnej verzie'>
-<!ENTITY bookmarks.folder.readinglist.label 'Zoznam na prečítanie'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Pripnuté'>
 
-<!-- Send tab to device. -->
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Nastavenie služby &syncBrand.shortName.label; na odosielanie kariet'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Nastavenie služby &syncBrand.fullName.label; na tomto zariadení na odosielanie kariet na ďalšie zariadenia.'>
-<!ENTITY sync.text.tab.sent.label 'Karta bola odoslaná!'>
-<!ENTITY sync.text.tab.not.sent.label 'Pri odosielaní karty sa vyskytla chyba.'>
-
 <!-- Firefox Account strings. -->
-
-<!ENTITY fxaccount_full_label 'Účet Firefox Accounts'>
-
-<!ENTITY fxaccount_custom_server_account_title 'Používame účet na serveri'>
-<!ENTITY fxaccount_custom_server_sync_title 'Ukladáme údaje služby Sync na serveri'>
-
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-<!ENTITY fxaccount_email_hint 'E-mail'>
-<!ENTITY fxaccount_password_hint 'Heslo'>
-<!ENTITY fxaccount_password_hide 'Skryť'>
-<!ENTITY fxaccount_password_show 'Zobraziť'>
 
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Naspäť na prehliadanie'>
 
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
-<!ENTITY fxaccount_policy_linktos 'Podmienkami používania služby'>
-<!ENTITY fxaccount_policy_linkprivacy 'Zásadami ochrany súkromia'>
-
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Víta Vás &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'Prihláste sa a môžete synchronizovať svoje karty, záložky, prihlasovacie údaje a ďalšie.'>
 <!ENTITY fxaccount_getting_started_get_started 'Poďme na to'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Používate staršiu verziu služby &syncBrand.shortName.label;?'>
 
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
-<!ENTITY fxaccount_create_account_header2 'Vytvorenie účtu Firefox Account'>
-<!ENTITY fxaccount_create_account_password_length_restriction 'Minimálne 8 znakov'>
-<!ENTITY fxaccount_create_account_day_of_birth 'Deň'>
-<!ENTITY fxaccount_create_account_month_of_birth 'Mesiac'>
-<!ENTITY fxaccount_create_account_year_of_birth 'Rok narodenia'>
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 'Pokračovaním súhlasíte s &formatS1; a &formatS2; cloudových služieb prehliadača Firefox.'>
-<!ENTITY fxaccount_create_account_button 'Ďalej'>
-<!ENTITY fxaccount_create_account_choose_what_to_sync 'Zvoľte, čo chcete synchronizovať'>
-<!ENTITY fxaccount_create_account_sign_in_instead 'Máte už účet? Prihláste sa'>
-<!ENTITY fxaccount_create_account_1990_or_earlier '1990 alebo skôr'>
-<!ENTITY fxaccount_create_account_unknown_error 'Účet nebolo možné vytvoriť'>
-
-<!ENTITY fxaccount_account_create_not_allowed 'Nie je možné vytvoriť účet'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Ak si chcete vytvoriť účet, musíte spĺňať stanovené vekové požiadavky.'>
-<!ENTITY fxaccount_account_create_not_allowed_learn_more 'Ďalšie informácie'>
-
-<!ENTITY fxaccount_confirm_account_header 'Potvrďte svoj účet'>
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link 'Overovací odkaz bol odoslaný na adresu &formatS;'>
-<!ENTITY fxaccount_confirm_account_resend_email 'Znova odoslať e-mail'>
-<!ENTITY fxaccount_confirm_account_change_email 'Zabudnúť túto e-mailovú adresu?'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Overovací e-mail bol odoslaný'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Nepodarilo sa odoslať overovací e-mail'>
-<!ENTITY fxaccount_resend_unlock_code_button_label 'Znova odoslať správu na odomknutie účtu'>
-<!ENTITY fxaccount_unlock_code_sent 'E-mailová správa na odomknutie účtu bola odoslaná'>
-<!ENTITY fxaccount_unlock_code_not_sent 'E-mailovú správu na odomknutie účtu sa nepodarilo odoslať'>
-
-<!ENTITY fxaccount_sign_in_sub_header 'Prihlásenie'>
-<!ENTITY fxaccount_sign_in_button_label 'Prihlásiť sa'>
-<!ENTITY fxaccount_sign_in_forgot_password 'Zabudli ste heslo?'>
-<!ENTITY fxaccount_sign_in_create_account_instead 'Vytvoriť účet'>
-<!ENTITY fxaccount_sign_in_unknown_error 'Nepodarilo sa prihlásiť'>
-
-<!ENTITY fxaccount_account_verified_sub_header 'Účet overený'>
-<!ENTITY fxaccount_account_verified_description2 'Vaše údaje sa práve začínajú synchronizovať.'>
-
-<!ENTITY fxaccount_migration_finished_header 'Aktualizácia dokončená'>
-
-<!ENTITY fxaccount_update_credentials_header 'Prihlásenie'>
-<!ENTITY fxaccount_update_credentials_button_label 'Prihlásiť sa'>
-<!ENTITY fxaccount_update_credentials_unknown_error 'Nepodarilo sa prihlásiť'>
-
-<!ENTITY fxaccount_finish_migrating_header 'Prihláste sa a dokončite aktualizáciu'>
-<!ENTITY fxaccount_finish_migrating_button_label 'Dokončiť aktualizáciu'>
-<!ENTITY fxaccount_finish_migrating_description 'Aktualizácia môže vyžadovať prenos veľkého množstva údajov. Odporúča sa byť pripojený k sieti Wi-Fi.'>
-
-<!ENTITY fxaccount_status_header2 'Účet Firefox Account'>
 <!ENTITY fxaccount_status_signed_in_as 'Prihlásený ako'>
 <!ENTITY fxaccount_status_manage_account 'Spravovať účet'>
 <!ENTITY fxaccount_status_auth_server 'Server účtu'>
@@ -154,8 +74,6 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos 'Podmienky používania služby'>
-<!ENTITY fxaccount_status_linkprivacy 'Zásady ochrany súkromia'>
 <!ENTITY fxaccount_status_more 'Ďalšie&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Odpojiť&ellipsis;'>
 
@@ -192,7 +110,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server je zaneprázdnený, skúste to neskôr'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server je zaneprázdnený, skúste to neskôr'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Vyskytol sa problém'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Nie je možné pripojiť sa k sieti'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Účet je uzamknutý. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 'Služba &syncBrand.shortName.label; nie je pripojená'>
@@ -204,8 +121,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'Ťuknutím sa prihlásite ako &formatS;'>
-
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-<!ENTITY old_sync_deprecated_notification_title 'Ak chcete pokračovať v synchronizácii, prihláste sa'>
-<!ENTITY old_sync_deprecated_notification_content 'Tento účet už nie je podporovaný'>

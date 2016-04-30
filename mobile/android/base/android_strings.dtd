@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "Na spustenie prehliadača &brandShortName; nie je dostatok miesta.">
-<!ENTITY  error_loading_file "Pri načítavaní súborov potrebných na spustenie prehliadača &brandShortName; sa vyskytla chyba.">
-
 <!ENTITY firstrun_panel_title_welcome "Vitajte">
 <!ENTITY  onboard_start_message3 "Prehliadate pomocou prehliadača &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Zážitok z mobilného prehliadania webu presne taký, ako ho chcete.">
@@ -28,6 +24,8 @@
 
 <!ENTITY  onboard_start_restricted1 "Buďte v bezpečí a majte veci pod kontrolou s touto zjednodušenou verziou prehliadača &brandShortName;.">
 
+<!ENTITY  reading_list_migration_bookmarks_hidden "Váš panel záložiek je skrytý">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Záložky">
@@ -49,12 +47,6 @@
 <!ENTITY  sending_crash_report "Odosiela sa správa o zlyhaní\u2026">
 <!ENTITY  crash_close_label "Zavrieť">
 <!ENTITY  crash_restart_label "Reštartovať &brandShortName;">
-<!ENTITY  exit_label "Ukončiť">
-
-<!ENTITY  launcher_shortcuts_title "Webové aplikácie prehliadača &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "Neboli nájdené žiadne webové aplikácie">
-
-<!ENTITY choose_file "Zvoľte súbor">
 
 <!ENTITY url_bar_default_text2 "Adresa alebo výraz vyhľadávania">
 
@@ -68,14 +60,22 @@
 <!ENTITY bookmark_removed "Záložka odstránená">
 <!ENTITY bookmark_updated "Záložka aktualizovaná">
 <!ENTITY bookmark_options "Možnosti">
+<!ENTITY screenshot_added_to_bookmarks "Snímka obrazovky bola pridaná do záložiek">
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Snímky obrazovky">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Zoznam na prečítanie">
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
 
 <!ENTITY history_today_section "Dnes">
 <!ENTITY history_yesterday_section "Včera">
 <!ENTITY history_week_section3 "Posledných 7 dní">
-<!ENTITY history_this_month_section "Tento mesiac">
 <!ENTITY history_older_section3 "Staršie ako 6 mesiacov">
 
-<!ENTITY go "Prejsť">
 <!ENTITY search "Hľadať">
 <!ENTITY reload "Obnoviť">
 <!ENTITY forward "Dopredu">
@@ -108,7 +108,6 @@
 <!ENTITY settings "Nastavenia">
 <!ENTITY settings_title "Nastavenia">
 <!ENTITY pref_category_general "Všeobecné">
-<!ENTITY pref_category_general_summary2 "Úvodná stránka, jazyk, panel s adresou">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -131,9 +130,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Pridať medzi záložky">
-<!ENTITY overlay_share_reading_list_btn_label "Pridať do Zoznamu na prečítanie">
 <!ENTITY overlay_share_bookmark_btn_label_already "Už sa nachádza medzi záložkami">
-<!ENTITY overlay_share_reading_list_btn_label_already "Už sa nachádza v Zozname na prečítanie">
 <!ENTITY overlay_share_send_other "Odoslať do iných zariadení">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -149,11 +146,9 @@
 <!ENTITY overlay_no_synced_devices "Nebolo nájdené žiadne zariadenie pripojené k účtu Firefox Account">
 
 <!ENTITY pref_category_search3 "Vyhľadávanie">
-<!ENTITY pref_category_search_summary "Prispôsobte si vyhľadávacie moduly">
 <!ENTITY pref_category_accessibility "Zjednodušenie ovládania">
 <!ENTITY pref_category_accessibility_summary2 "Veľkosť textu, lupa, hlasový vstup">
 <!ENTITY pref_category_privacy_short "Súkromie">
-<!ENTITY pref_category_privacy_summary3 "Sledovanie, súbory cookie, údaje o používaní">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "O prehliadači &brandShortName;, často kladené otázky, spätná väzba">
 <!ENTITY pref_category_datareporting "Odosielanie údajov">
@@ -168,10 +163,9 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "Tip: akúkoľvek stránku pridáte dlhým podržaním jej vyhľadávacieho poľa a následne ťuknutím na ikonu &formatI;.">
 <!ENTITY pref_category_advanced "Rozšírené">
-<!ENTITY pref_category_advanced_summary2 "Obnovenie kariet, zásuvné moduly, nástroje pre vývojárov">
-<!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
+<!ENTITY pref_category_notifications "Upozornenia">
+<!ENTITY pref_content_notifications "Aktualizácie webových stránok">
 <!ENTITY pref_developer_remotedebugging_usb "Vzdialené ladenie cez USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Vzdialené ladenie cez Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ladenie cez sieť Wi-Fi vyžaduje, aby vaše zariadenie malo nainštalovanú aplikáciu čítačky kódov QR.">
@@ -181,18 +175,9 @@
 <!ENTITY pref_category_home "Domov">
 <!ENTITY pref_category_home_summary "Prispôsobte si úvodnú obrazovku">
 <!ENTITY pref_category_home_panels "Panely">
-<!ENTITY home_add_panel_title "Pridať nový panel">
-<!ENTITY home_add_panel_empty "Ospravedlňujeme sa, nebolo možné nájsť žiadne panely vhodné na pridanie.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "Panel \&apos;&formatS;\&apos; pridaný na úvodnú stránku">
-<!ENTITY pref_category_home_content_settings "Nastavenia obsahu">
-<!ENTITY pref_home_updates "Automatické aktualizácie">
+<!ENTITY pref_category_home_add_ons "Doplnky">
 <!ENTITY pref_home_updates_enabled "Povolené">
 <!ENTITY pref_home_updates_wifi "Len cez Wi-Fi">
-<!ENTITY pref_home_suggested_sites "Zobrazovať navrhované stránky">
-<!ENTITY pref_home_suggested_sites_summary "Na vašej domovskej stránke zobrazuje odkazy na stránky, o ktorých si myslímte, že by Vás mohli zaujímať.">
 <!ENTITY pref_category_home_homepage "Domovská stránka">
 <!ENTITY home_homepage_title "Nastaviť domovskú stránku">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -216,6 +201,7 @@
 <!ENTITY pref_header_search "Vyhľadávanie">
 <!ENTITY pref_header_privacy_short "Súkromie">
 <!ENTITY pref_header_accessibility "Zjednodušenie ovládania">
+<!ENTITY pref_header_notifications "Upozornenia">
 <!ENTITY pref_header_advanced "Rozšírené">
 <!ENTITY pref_header_help "Pomocník">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -225,6 +211,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Povolené, okrem cookies tretích strán">
 <!ENTITY pref_cookies_disabled "Zakázané">
 
+<!ENTITY pref_category_developer_tools "Nástroje pre vývojárov">
+
 <!ENTITY pref_tap_to_load_images_title2 "Zobrazovať obrázky">
 <!ENTITY pref_tap_to_load_images_enabled "Vždy">
 <!ENTITY pref_tap_to_load_images_data "Len cez sieť Wi-Fi">
@@ -232,7 +220,7 @@
 
 <!ENTITY pref_show_web_fonts "Zobraziť webové fonty">
 
-<!ENTITY pref_tracking_protection_title "Ochrana pred sledovaním">
+<!ENTITY pref_tracking_protection_title2 "Ochrana pred sledovaním">
 <!ENTITY pref_tracking_protection_summary3 "Povolená v režime Súkromné prehliadanie">
 <!ENTITY pref_donottrack_title "Funkcia Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požiada webové stránky, aby nesledovali vašu aktivitu">
@@ -240,6 +228,8 @@
 <!ENTITY pref_tracking_protection_enabled "Zapnutá">
 <!ENTITY pref_tracking_protection_enabled_pb "Zapnutá v režime Súkromné prehliadanie">
 <!ENTITY pref_tracking_protection_disabled "Vypnutá">
+
+<!ENTITY pref_whats_new_notification "Novinky v aplikácii &brandShortName;">
 
 <!ENTITY tracking_protection_prompt_title "Teraz s Ochranou pred sledovaním">
 <!ENTITY tracking_protection_prompt_text "Aktívne blokuje prvky umožňujúce sledovanie, takže sa už viac nemusíte obávať.">
@@ -273,10 +263,22 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "Ak chcete \u0022otvoriť viacero odkazov naraz\u0022, povoľte pre &brandShortName; oprávnenie \&apos;Vykresľovať nad ostatné aplikácie\&apos;">
 
+<!ENTITY content_notification_summary "&brandShortName;">
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; aktualizovaných webových stránok">
+<!ENTITY content_notification_action_settings "Nastavenia upozornení">
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "Aktualizované &formatS;">
+
 <!ENTITY pref_char_encoding "Kódovanie znakov">
 <!ENTITY pref_char_encoding_on "Zobrazovať ponuku">
 <!ENTITY pref_char_encoding_off "Nezobrazovať ponuku">
-<!ENTITY pref_clear_private_data "Vymazanie súkromných údajov">
+<!ENTITY pref_clear_private_data2 "Vymazať súkromné údaje">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Vymazať teraz">
@@ -285,7 +287,6 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Zvoľte údaje, ktoré chcete vymazať">
 <!ENTITY pref_plugins "Zásuvné moduly">
 <!ENTITY pref_plugins_enabled "Povolené">
-<!ENTITY pref_plugins_tap_to_play "Prehrávať po ťuknutí">
 <!ENTITY pref_plugins_disabled "Zakázané">
 <!ENTITY pref_text_size "Veľkosť textu">
 <!ENTITY pref_restore_tabs "Obnoviť karty">
@@ -335,7 +336,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Prevzaté súbory">
 <!ENTITY pref_private_data_syncedTabs "Synchronizované karty">
 
-
+<!ENTITY pref_default_browser "Nastaviť ako predvolený prehliadač">
 <!ENTITY pref_about_firefox "Čo je &brandShortName;">
 <!ENTITY pref_vendor_faqs "Často kladené otázky">
 <!ENTITY pref_vendor_feedback "Odoslať názor">
@@ -353,10 +354,12 @@ size. -->
 <!ENTITY pref_panels_move_down "Posunúť nadol">
 
 <!ENTITY datareporting_notification_title "Štatistiky a údaje &brandShortName;u">
-<!ENTITY datareporting_notification_action_long "Zvoľte, aké informácie chcete zdieľať">
 <!ENTITY datareporting_notification_action "Zvoľte, čo chcete zdieľať">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Zvoľte, aké informácie chcete zdieľať">
 <!ENTITY datareporting_notification_summary "Na zlepšenie zážitku z prehliadania &brandShortName; automaticky odosiela informácie spoločnosti &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Na zlepšenie zážitku z prehliadania…">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -409,7 +412,6 @@ size. -->
 <!ENTITY close_private_tabs "Zavrieť súkromné karty">
 <!ENTITY tabs_normal "Karty">
 <!ENTITY tabs_private "Súkromné">
-<!ENTITY tabs_synced "Synchronizované">
 <!ENTITY set_image_fail "Nie je možné nastaviť obrázok">
 <!ENTITY set_image_path_fail "Nie je možné uložiť obrázok">
 <!ENTITY set_image_chooser_title "Nastaviť obrázok ako">
@@ -443,8 +445,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Pripnúť stránku">
 <!ENTITY contextmenu_top_sites_unpin "Zrušiť pripnutie stránky">
 <!ENTITY contextmenu_add_search_engine "Pridať vyhľadávací modul">
-<!ENTITY contextmenu_mark_read "Označiť ako prečítané">
-<!ENTITY contextmenu_mark_unread "Označiť ako neprečítané">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -464,7 +464,6 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "Zväčšovať malý obsah">
-<!ENTITY pref_magnifying_glass_enabled_summary "Zväčší odkazy a polia formulárov po ťuknutí v ich okolí">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -489,21 +488,6 @@ size. -->
 <!ENTITY site_settings_title3       "Nastavenia stránky">
 <!ENTITY site_settings_cancel       "Zrušiť">
 <!ENTITY site_settings_clear        "Vymazať">
-
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-<!ENTITY reading_list_added3 "Pridaná do Zoznamu na prečítanie">
-<!ENTITY reading_list_removed "Stránka odstránená zo Zoznamu na prečítanie">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "Odstrániť zo Zoznamu na prečítanie">
-<!ENTITY reading_list_duplicate "Stránka sa už nachádza v Zozname na prečítanie">
-
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-<!ENTITY reading_list_time_minutes2 "&formatD; min">
-<!ENTITY reading_list_time_over_an_hour "Viac ako hodinu">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -540,11 +524,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Tu sa zobrazujú karty otvorené pri ukončení poslednej relácie">
 <!ENTITY home_open_all "Otvoriť všetky">
 <!ENTITY home_most_recent_empty "Tu sa zobrazujú naposledy navštívené stránky">
-<!ENTITY home_selected_empty "Tu sa zobrazujú stránky navštívené v zadanom období.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Mimochodom: pri používaní &formatS1;karty režimu Súkromné prehliadanie&formatS2; sa nebude ukladať história.">
-<!ENTITY home_reading_list_empty "Tu sa zobrazujú články uložené na neskôr">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -554,16 +536,6 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_back_to_filter "Späť na &formatS;">
 
-<!ENTITY home_remote_tabs_title "Synchronizované karty">
-<!ENTITY home_remote_tabs_empty "Tu sa zobrazujú karty z vašich ostatných zariadení">
-<!ENTITY home_remote_tabs_unable_to_connect "Nie je možné sa pripojiť">
-<!ENTITY home_remote_tabs_need_to_sign_in "Prosím, prihláste sa, aby ste sa znova pripojili k svojmu účtu Firefox Account a mohli tak pokračovať v synchronizácii.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Váš nový účet Firefox Account je pripravený!">
-
-<!ENTITY home_remote_tabs_trouble_verifying "Problémy s overením svojho účtu?">
-<!ENTITY home_remote_tabs_need_to_verify "Synchronizácia bude spustená po overení vášho účtu Firefox Account.">
-
-<!ENTITY home_remote_tabs_one_hidden_device "Skryté zariadenia: 1">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -612,7 +584,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Ochrana pred nebezpečným obsahom je vypnutá.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title "Ochrana pred sledovaním">
+<!ENTITY doorhanger_tracking_title2 "Ochrana pred sledovaním">
 <!ENTITY doorhanger_tracking_state_enabled "Zapnutá">
 <!ENTITY doorhanger_tracking_state_disabled "Vypnutá">
 <!ENTITY doorhanger_tracking_message_enabled1 "Pokusy o sledovanie vašej aktivity online boli zablokované.">
@@ -622,7 +594,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "Ďalšie informácie">
 <!ENTITY enable_protection "Zapnúť ochranu">
 <!ENTITY disable_protection "Vypnúť ochranu">
-<!ENTITY keep_blocking "Ponechať blokované">
 
 <!ENTITY private_data_success "Súkromné údaje vymazané">
 <!ENTITY private_data_fail "Niektoré súkromné údaje nemohli byť odstránené">
@@ -715,7 +686,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Synchronizované: nikdy">
 
-<!ENTITY intent_uri_cannot_open "Odkaz nie je možné otvoriť">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -778,3 +748,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "Používate najnovšiu verziu prehliadača &brandShortName;">
 <!ENTITY whatsnew_notification_summary "Zistite, čo je nové v tejto verzii">
+
+<!ENTITY promotion_add_to_homescreen "Pridať na domovskú obrazovku">
+
