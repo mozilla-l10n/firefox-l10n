@@ -6,25 +6,26 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Open a Private Window">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
+<!ENTITY privateBrowsing.title                           "Private Browsing">
 
 
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+
+<!ENTITY aboutPrivateBrowsing.info.searches              "searches">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "temporary files">
 
 
 
+<!ENTITY aboutPrivateBrowsing.info.downloads             "downloads">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "bookmarks">
+<!ENTITY aboutPrivateBrowsing.note.before                "Private Browsing ">
 
+<!ENTITY aboutPrivateBrowsing.note.after                 " on the Internet. Your employer or Internet service provider can still know what page you visit.">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Private Browsing">
 
 <!ENTITY trackingProtection.title                        "Tracking Protection">
 
-
+<!ENTITY trackingProtection.startTour1                   "See how it works">
