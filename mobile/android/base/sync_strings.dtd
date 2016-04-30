@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etichete">
 <!ENTITY bookmarks.folder.toolbar.label "Bara pentru semne de carte">
-
+<!ENTITY bookmarks.folder.other.label "Alte semne de carte">
 <!ENTITY bookmarks.folder.desktop.label "Semne de carte de pe desktop">
 <!ENTITY bookmarks.folder.mobile.label "Semne de carte mobile">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
