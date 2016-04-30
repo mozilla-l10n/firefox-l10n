@@ -19,6 +19,9 @@
 <!ENTITY fileNotFound.title "Bestand niet gevonden">
 <!ENTITY fileNotFound.longDesc "<ul><li>Kan het item zijn hernoemd, verwijderd of verplaatst?</li><li>Staat er een spel-, hoofdletter- of andere typografische fout in het adres?</li><li>Hebt u voldoende toegangsrechten voor het opgevraagde item?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Toegang tot het bestand is geweigerd">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Het kan zijn verwijderd, verplaatst, of bestandsmachtigingen kunnen toegang tegengaan.</li></ul>">
+
 <!ENTITY generic.title "Kan aanvraag niet voltooien">
 <!ENTITY generic.longDesc "<p>Extra informatie over dit probleem of deze fout is momenteel niet beschikbaar.</p>">
 
@@ -89,3 +92,8 @@
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Uw verbinding is niet beveiligd">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> gebruikt verouderde beveiligingstechnologie die kwetsbaar is voor aanvallen. Een aanvaller kan eenvoudig gegevens onthullen waarvan u dacht dat deze veilig waren. De websitebeheerder dient eerst de server in orde te maken voordat u de website kunt bezoeken.</p><p>Foutcode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

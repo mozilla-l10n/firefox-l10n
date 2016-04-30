@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Uitschakelen van de functie Veilig surfen wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:">
 <!ENTITY rights.safebrowsing-term1 "Open de toepassingsvoorkeuren">
 <!ENTITY rights.safebrowsing-term2 "Selecteer de sectie Beveiliging">
-<!ENTITY rights.safebrowsing-term3 "Vink de opties ‘&blockAttackSites.label;’ en ‘&blockWebForgeries.label;’ uit">
+<!ENTITY rights2.safebrowsing-term3 "Vink de optie ‘&enableSafeBrowsing.label;’ uit">
 <!ENTITY rights.safebrowsing-term4 "Veilig surfen is nu uitgeschakeld">
 
 <!-- location aware browsing points for branded builds -->
