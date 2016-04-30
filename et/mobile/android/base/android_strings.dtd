@@ -2,25 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error        "&brandShortName;i käivitamiseks pole piisavalt vaba ruumi.">
-<!ENTITY  error_loading_file             "Esines viga &brandShortName;i kasutamiseks vajalike failide laadimisel">
-
 <!ENTITY firstrun_panel_title_welcome    "Tere tulemast!">
 <!ENTITY  onboard_start_message3         "Sirvi veebi &brandShortName;iga">
 <!ENTITY  onboard_start_subtext3         "Muuda mobiilne veebilehitsemine tõeliselt isikupäraseks.">
-<!ENTITY  onboard_start_button_account   "Logi &brandShortName;i sisse">
-<!ENTITY  onboard_start_button_browser   "Alusta lehitsemist">
+
+<!ENTITY firstrun_urlbar_message         "Tere tulemast &brandShortName;i">
+<!ENTITY firstrun_urlbar_subtext         "Leia asjad kiiremini abistavate otsingusoovituste abil.">
+<!ENTITY firstrun_bookmarks_title        "Ajalugu">
+<!ENTITY firstrun_bookmarks_message      "Sinu lemmikud, esiplaanil">
+<!ENTITY firstrun_bookmarks_subtext      "Otsimisel kuvatakse tulemusi ajaloost ja järjehoidjatest.">
+<!ENTITY firstrun_data_title             "Andmed">
+<!ENTITY firstrun_data_message           "Vähem andmeid, vähem vaja salvestada">
+<!ENTITY firstrun_data_subtext2          "Lülita pildid välja, et kasutada saitide sirivimisel vähem andmemahtu.">
+<!ENTITY firstrun_sync_title             "Sync">
+<!ENTITY firstrun_sync_message           "&brandShortName;, alati sinu kõrval">
+<!ENTITY firstrun_sync_subtext           "Sünkroniseeri oma kaardid, paroolid ja veel palju muud.">
+<!ENTITY firstrun_signin_message         "Tee algust ja loo ühendus">
+<!ENTITY firstrun_signin_button          "Logi Synci sisse">
+<!ENTITY  onboard_start_button_browser   "Alusta veebilehitsemist">
 <!ENTITY firstrun_button_next            "Edasi">
 
-<!ENTITY  onboard_start_restricted1      "Selle lihtsustatud versiooniga &brandShortName;ist on sulle tagatud ohutu kasutuskogemus.">
+<!ENTITY  onboard_start_restricted1 "Stay safe and in control with this simplified version of &brandShortName;.">
 
-<!ENTITY firstrun_import_title           "Importimine">
-<!ENTITY firstrun_import_message         "Tere tulemast &brandShortName;i!">
-<!ENTITY firstrun_import_subtext         "Impordi oma järjehoidjad ja ajalugu teisest brauserist.">
-<!ENTITY firstrun_import_action          "Impordi &brandShortName;i">
-<!ENTITY firstrun_import_dialog_button   "Impordi">
-<!ENTITY firstrun_import_progress_title  "Importimine">
+<!ENTITY  reading_list_migration_title "Reading List connected">
+<!ENTITY  reading_list_migration_subtext "Your Reading List items will now be added to your Bookmarks">
+<!ENTITY  reading_list_migration_goto_bookmarks "Go to Bookmarks">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Your Bookmarks panel is hidden">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -43,12 +50,6 @@
 <!ENTITY  sending_crash_report           "Vearaporti saatmine\u2026">
 <!ENTITY  crash_close_label              "Sulge">
 <!ENTITY  crash_restart_label            "Taaskäivita &brandShortName;">
-<!ENTITY  exit_label                     "Välju">
-
-<!ENTITY  launcher_shortcuts_title       "&brandShortName;i veebirakendused">
-<!ENTITY  launcher_shortcuts_empty       "Ühtegi veebirakendust ei leitud">
-
-<!ENTITY choose_file                     "Vali fail">
 
 <!ENTITY url_bar_default_text2           "Otsi või sisesta aadress">
 
@@ -62,14 +63,24 @@
 <!ENTITY bookmark_removed                "Järjehoidja eemaldatud">
 <!ENTITY bookmark_updated                "Järjehoidja uuendatud">
 <!ENTITY bookmark_options                "Sätted">
+<!ENTITY screenshot_added_to_bookmarks   "Ekraanipilt lisati järjehoidjatesse">
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Ekraanipildid">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Lugemisnimekiri">
+
+<!ENTITY reader_saved_offline            "Salvestatud võrguta režiimis kasutamiseks">
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks      "Lülitu">
 
 <!ENTITY history_today_section           "Täna">
 <!ENTITY history_yesterday_section       "Eile">
 <!ENTITY history_week_section3           "Viimased 7 päeva">
-<!ENTITY history_this_month_section      "Jooksev kuu">
 <!ENTITY history_older_section3          "Vanemad kui 6 kuud">
 
-<!ENTITY go                              "Mine">
 <!ENTITY search                          "Otsi">
 <!ENTITY reload                          "Laadi uuesti">
 <!ENTITY forward                         "Edasi">
@@ -101,11 +112,8 @@
 
 <!ENTITY settings                        "Sätted">
 <!ENTITY settings_title                  "Sätted">
-<!ENTITY pref_category_input_options     "Sisendi sätted">
-<!ENTITY pref_category_advanced          "Muud sätted">
-<!ENTITY pref_category_customize         "Kohandamine">
-<!ENTITY pref_category_customize_summary "avaleht, otsing, kaardid, importimine">
-<!ENTITY pref_category_customize_alt_summary "avaleht, otsing, kaardid, hiljem avamiseks, importimine">
+<!ENTITY pref_category_general           "Üldine">
+<!ENTITY pref_category_general_summary3  "avaleht, keel, ootel kaartide nimekiri">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -128,9 +136,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Lisa järjehoidja">
-<!ENTITY overlay_share_reading_list_btn_label "Lisa lugemisnimekirja">
 <!ENTITY overlay_share_bookmark_btn_label_already "Järjehoidja on juba lisatud">
-<!ENTITY overlay_share_reading_list_btn_label_already "On juba lugemisnimekirja lisatud">
 <!ENTITY overlay_share_send_other        "Saada teise seadmesse">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -144,23 +150,17 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices       "Firefoxi kontoga ühendatud seadmeid ei leitud">
-<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
-     to send a tab to a synced device is pressed and there is an error
-     connecting to the server so the tab could not be sent. The text should be
-     divided into two lines (use the newline escape character, "\n", between
-     them): the first notifying the user about the failure and the second
-     telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent      "Kaarti polnud võimalik saata.\nPalun proovi hiljem uuesti.">
 
 <!ENTITY pref_category_search3           "Otsing">
-<!ENTITY pref_category_search_summary    "otsingumootorite kohandamine">
-<!ENTITY pref_category_display           "Kuvamine">
-<!ENTITY pref_category_display_summary   "tekst, tiitliriba, üleekraaniline lehitsemine">
+<!ENTITY pref_category_search_summary2   "otsingumootorite kohandamine">
+<!ENTITY pref_category_accessibility     "Hõlbustus">
+<!ENTITY pref_category_accessibility_summary2 "teksti suurus, suurendamine, häälkäsklused">
 <!ENTITY pref_category_privacy_short     "Privaatsus">
-<!ENTITY pref_category_privacy_summary2  "kasutajakontode haldamine, küpsised, jälitamine, andmed">
-<!ENTITY pref_category_vendor            "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary    "&brandShortName;i teave, KKK, saadetavad andmed">
+<!ENTITY pref_category_privacy_summary4  "jälitamine, kasutajakonod, andmete valikud">
+<!ENTITY pref_category_vendor2           "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2   "&brandShortName;i teave, KKK, tagasiside">
 <!ENTITY pref_category_datareporting     "Saadetavad andmed">
+<!ENTITY pref_category_logins            "Kasutajakontod">
 <!ENTITY pref_learn_more                 "Rohkem teavet">
 <!ENTITY pref_category_installed_search_engines "Paigaldatud otsingumootorid">
 <!ENTITY pref_category_add_search_providers "Otsingumootorite lisamine">
@@ -172,55 +172,82 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint                "Vihje: otsingumootoriks võib lisada iga veebisaidi. Lihtsalt puuduta ja hoia näppu selle otsinguväljal ning puuduta siis ikooni &formatI;.">
-<!ENTITY pref_category_devtools          "Arendajale">
-<!ENTITY pref_developer_remotedebugging  "Remote debugging">
+<!ENTITY pref_search_hint2               "Vihje: otsingumootoriks võib lisada iga veebisaidi. Lihtsalt puuduta ja hoia näppu selle otsinguväljal ning puuduta siis ikooni &formatI;.">
+<!ENTITY pref_category_advanced          "Edasijõudnuile">
+<!ENTITY pref_category_advanced_summary3 "kaartide taastamine, andmemahu säästmine, arendaja tööriistad">
+<!ENTITY pref_category_notifications     "Teavitused">
+<!ENTITY pref_category_notifications_summary "uus funktsionaalsus, veebilehe uuendused">
+<!ENTITY pref_content_notifications      "Sisu uuendused">
+<!ENTITY pref_content_notifications_summary2 "avasta uut sisu saitidelt, mis seda võimalust toetavad">
 <!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi debugging requires your device to have a QR code reader app installed.">
-<!ENTITY pref_category_logins            "Kasutajakontode paroolid">
 <!ENTITY pref_remember_signons2          "Kasutajakontode paroolid peetakse meeles">
-<!ENTITY pref_open_external_urls_privately_title "Linkide avamine privaatse veebilehitsemise režiimis">
-<!ENTITY pref_open_external_urls_privately_summary "Kehtib kõigi &brandShortName;is avatud väliste linkide kohta">
 <!ENTITY pref_manage_logins              "Halda kasutajakontode paroole">
 
 <!ENTITY pref_category_home              "Avaleht">
 <!ENTITY pref_category_home_summary      "avalehe kohandamine">
 <!ENTITY pref_category_home_panels       "Paneelid">
-<!ENTITY home_add_panel_title            "Uue paneeli lisamine">
-<!ENTITY home_add_panel_empty            "Vabandust, aga me ei leidnud lisamiseks ühtki paneeli.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed        "Paneel \'&formatS;\' lisati avalehele">
-<!ENTITY pref_category_home_content_settings "Sisu seaded">
-<!ENTITY pref_home_updates               "Automaatsed uuendused">
+<!ENTITY pref_category_home_add_ons      "Lisad">
+<!ENTITY pref_home_updates2              "Sisu uuenemise teavitused">
 <!ENTITY pref_home_updates_enabled       "lubatud">
 <!ENTITY pref_home_updates_wifi          "ainult üle Wi-Fi">
-<!ENTITY pref_home_suggested_sites       "Kuvatakse saitide soovitusi">
-<!ENTITY pref_home_suggested_sites_summary "Avalehel kuvatakse viiteid saitidele, mis meie arvates võiksid sulle huvi pakkuda">
 <!ENTITY pref_category_home_homepage     "Avaleht">
 <!ENTITY home_homepage_title             "Avalehe määramine">
-<!ENTITY home_homepage_use_current_tab   "Kasuta praegust kaarti">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default     "&brandShortName;i avaleht">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "kohandatud">
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
+<!ENTITY home_homepage_hint_user_address "Sisesta aadress või otsitav fraas">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_customize           "Kohandamine">
-<!ENTITY pref_header_display             "Kuvamine">
+<!ENTITY pref_header_general             "Üldine">
+<!ENTITY pref_header_search              "Otsing">
 <!ENTITY pref_header_privacy_short       "Privaatsus">
+<!ENTITY pref_header_accessibility       "Hõlbustus">
+<!ENTITY pref_header_notifications       "Teavitused">
+<!ENTITY pref_header_advanced            "Edasijõudnuile">
 <!ENTITY pref_header_help                "Abi">
-<!ENTITY pref_header_language            "Keel">
 <!ENTITY pref_header_vendor              "&vendorShortName;">
-<!ENTITY pref_header_devtools            "Arendajale">
 
 <!ENTITY pref_cookies_menu               "Küpsised">
 <!ENTITY pref_cookies_accept_all         "lubatud">
 <!ENTITY pref_cookies_not_accept_foreign "lubatud, välja arvatud kolmandad osapooled">
 <!ENTITY pref_cookies_disabled           "keelatud">
 
-<!ENTITY pref_tracking_protection_title  "Jälitamisvastane kaitse">
+<!ENTITY pref_category_data_saver        "Andmemahu säästmine">
+<!ENTITY pref_category_media             "Meedia">
+<!ENTITY pref_category_developer_tools   "Arendaja tööriistad">
+
+<!ENTITY pref_tap_to_load_images_title2  "Piltide kuvamine">
+<!ENTITY pref_tap_to_load_images_enabled "alati">
+<!ENTITY pref_tap_to_load_images_data    "ainult üle Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "keelatud">
+
+<!ENTITY pref_show_web_fonts             "Veebifontide kuvamine">
+<!ENTITY pref_show_web_fonts_summary2    "lehtede laadimisel tõmmatakse ka fondid">
+
+<!ENTITY pref_tracking_protection_title2 "Jälitamisvastane kaitse">
 <!ENTITY pref_tracking_protection_summary3 "lubatakse privaatse veebilehitsemise ajal">
 <!ENTITY pref_donottrack_title           "Jälitamine">
 <!ENTITY pref_donottrack_summary         "&brandShortName; annab saitidele teada, et jälitamist ei soovita">
+
+<!ENTITY pref_tracking_protection_enabled "lubatud">
+<!ENTITY pref_tracking_protection_enabled_pb "lubatud privaatse veebilehitsemise ajal">
+<!ENTITY pref_tracking_protection_disabled "keelatud">
+
+<!ENTITY pref_whats_new_notification      "Mis on uut &brandShortName;is?">
+<!ENTITY pref_whats_new_notification_summary "uuendamisjärgsed teavitused uue funktsionaalsuse kohta">
 
 <!ENTITY tracking_protection_prompt_title "Nüüd jälitamisvastase kaitsega">
 <!ENTITY tracking_protection_prompt_text "Tegevust jälitavad elemendid blokitakse automaatselt, nii et sina ei pea muretsema.">
@@ -232,8 +259,14 @@
 <!ENTITY tab_queue_prompt_title          "Kas avad mitut linki järjest?">
 <!ENTITY tab_queue_prompt_text4          "Salvesta need järgmise &brandShortName;i avamiseni">
 <!ENTITY tab_queue_prompt_tip_text2      "seda käitumist on võimalik sätete alt muuta">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Luba kuvamine teiste äppide peal">
 <!ENTITY tab_queue_prompt_positive_action_button "Luba">
 <!ENTITY tab_queue_prompt_negative_action_button "Mitte praegu">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Mine sätetesse">
 <!ENTITY tab_queue_notification_title    "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -244,20 +277,38 @@
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "Järjekorras on üks kaart">
 
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "\&quot;Mitme lingi järjestikku avamiseks\&quot; aktiveeri palun &brandShortName;i jaoks \'teiste äppide peal kuvamise\' õigus">
+
+<!ENTITY content_notification_summary    "&brandShortName;">
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "uuendati &formatD; veebilehte">
+<!ENTITY content_notification_action_settings "Teavituste sätted">
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "viimati uuendatud &formatS;">
+
 <!ENTITY pref_char_encoding              "Kodeeringu valik">
 <!ENTITY pref_char_encoding_on           "kuvatakse menüüs">
 <!ENTITY pref_char_encoding_off          "ei kuvata menüüs">
 <!ENTITY pref_clear_private_data2        "Kustuta nüüd">
-<!ENTITY pref_clear_private_data_category "Privaatsete andmete kustutamine">
-<!ENTITY pref_clear_on_exit_title2       "Väljumisel kustutamine">
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Kustuta nüüd">
+<!ENTITY pref_clear_on_exit_title3       "Privaatsed andmed kustutatakse väljumisel">
 <!ENTITY pref_clear_on_exit_summary2     "&brandShortName; kustutab automaatselt sinu andmed alati, kui valid peamenüüst \u0022Välju\u0022">
 <!ENTITY pref_clear_on_exit_dialog_title "Kustutatavate andmete valimine">
 <!ENTITY pref_plugins                    "Pluginad">
 <!ENTITY pref_plugins_enabled            "lubatud">
-<!ENTITY pref_plugins_tap_to_play        "esitamiseks peab puudutama">
+<!ENTITY pref_plugins_tap_to_play2       "esitamiseks peab puudutama">
 <!ENTITY pref_plugins_disabled           "keelatud">
 <!ENTITY pref_text_size                  "Teksti suurus">
-<!ENTITY pref_restore                    "Kaardid">
+<!ENTITY pref_restore_tabs               "Kaardid">
 <!ENTITY pref_restore_always             "taastatakse alati">
 <!ENTITY pref_restore_quit               "jäävad &brandShortName;i sulgumisel taastamata">
 <!ENTITY pref_font_size_tiny             "tilluke">
@@ -282,15 +333,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled         "Suurendamine lubatakse alati">
 <!ENTITY pref_zoom_force_enabled_summary "suurendamine tehakse võimalikuks kõigil lehtedel">
 <!ENTITY pref_voice_input                "Häälkäsklused">
-<!ENTITY pref_voice_input_summary        "Tiitliribal lubatakse sisestamine häälkäskluste abil">
+<!ENTITY pref_voice_input_summary2       "tiitliribal lubatakse sisestamine häälkäskluste abil">
 <!ENTITY pref_qrcode_enabled             "QR-koodi lugeja">
-<!ENTITY pref_qrcode_enabled_summary     "Tiitliribal lubatakse QR-koodi lugeja">
+<!ENTITY pref_qrcode_enabled_summary2    "tiitliribal lubatakse QR-koodi lugeja">
 
 <!ENTITY pref_use_master_password        "Kasutatakse ülemparooli">
-<!ENTITY pref_sync                       "Sync">
+<!ENTITY pref_sync2                      "Logi sisse">
 <!ENTITY pref_sync_summary2              "kaartide, järjehoidjate, kasutajakontode, ajaloo sünkroniseerimine">
 <!ENTITY pref_search_suggestions         "Kuvatakse otsingu soovitusi">
-<!ENTITY pref_import_android             "Androidist importimine">
+<!ENTITY pref_history_search_suggestions "Kuvatakse otsingu ajalugu">
+<!ENTITY pref_import_options             "Importimise valikud">
 <!ENTITY pref_import_android_summary     "järjehoidjate ja ajaloo importimine Androidi brauserist">
 <!ENTITY pref_private_data_history2      "Veebilehitsemise ajalugu">
 <!ENTITY pref_private_data_searchHistory "Otsingu ajalugu">
@@ -303,10 +355,10 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Allalaadimised">
 <!ENTITY pref_private_data_syncedTabs     "Sünkroniseeritud kaardid">
 
-
-<!ENTITY pref_about_firefox              "&brandShortName;ist">
-<!ENTITY pref_vendor_faqs                "KKK">
-<!ENTITY pref_vendor_feedback            "Anna tagasisidet">
+<!ENTITY pref_default_browser             "Määra vaikebrauseriks">
+<!ENTITY pref_about_firefox               "&brandShortName;ist">
+<!ENTITY pref_vendor_faqs                 "KKK">
+<!ENTITY pref_vendor_feedback             "Anna tagasisidet">
 
 <!ENTITY pref_dialog_set_default         "Määra vaikeväärtuseks">
 <!ENTITY pref_dialog_default             "vaikeväärtus">
@@ -321,13 +373,15 @@ size. -->
 <!ENTITY pref_panels_move_down           "Liiguta alla">
 
 <!ENTITY datareporting_notification_title "&brandShortName;i statistika ja andmed">
-<!ENTITY datareporting_notification_action_long "jagatavate andmete valimine">
 <!ENTITY datareporting_notification_action "Vali jagatavad andmed">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "jagatavate andmete valimine">
 <!ENTITY datareporting_notification_summary "Sinu kasutuskogemuse täiustamiseks saadab &brandShortName; &vendorShortName;le automaatselt mõningaid andmeid.">
-<!ENTITY datareporting_notification_summary_short "Sinu kasutuskogemuse täiustamiseks saadab &brandShortName;…">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
@@ -347,7 +401,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2       "Uuenduste automaatne tõmbamine">
+<!ENTITY pref_update_autodownload3       "Automaatsed uuendused">
 <!ENTITY pref_update_autodownload_wifi   "ainult üle Wi-Fi">
 <!ENTITY pref_update_autodownload_never  "keelatud">
 <!ENTITY pref_update_autodownload_always "lubatud">
@@ -377,7 +431,6 @@ size. -->
 <!ENTITY close_private_tabs              "Sulge privaatsed kaardid">
 <!ENTITY tabs_normal                     "Kaardid">
 <!ENTITY tabs_private                    "Privaatne">
-<!ENTITY tabs_synced                     "Sünkroniseeritud">
 <!ENTITY set_image_fail                  "Pilti pole võimalik määrata">
 <!ENTITY set_image_path_fail             "Pildi salvestamine pole võimalik">
 <!ENTITY set_image_chooser_title         "Määra pilt ...">
@@ -411,8 +464,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin       "Kinnita sait">
 <!ENTITY contextmenu_top_sites_unpin     "Eemalda saidilt kohakinnitus">
 <!ENTITY contextmenu_add_search_engine   "Lisa otsingumootor">
-<!ENTITY contextmenu_mark_read           "Märgi loetuks">
-<!ENTITY contextmenu_mark_unread         "Märgi mitteloetuks">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -429,22 +480,18 @@ size. -->
 <!ENTITY doorhanger_login_select_action_text "Vali muu kasutajakonto">
 <!ENTITY doorhanger_login_select_title   "Kopeeri parool kasutajakontolt">
 
-<!ENTITY pref_titlebar_mode              "Tiitliriba">
-<!ENTITY pref_titlebar_mode_title        "kuvatakse lehe pealkirja">
-<!ENTITY pref_titlebar_mode_url          "kuvatakse lehe aadressi">
-
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled   "Väikeste alade suurendamine">
-<!ENTITY pref_magnifying_glass_enabled_summary "lingid ja vormiväljad suurendatakse, kui puudutatakse nende lähedal">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "lingid ja vormiväljad suurendatakse, kui puudutatakse nende lähedal">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2          "Üleekraaniline lehitsemine">
-<!ENTITY pref_scroll_title_bar_summary   "kerimisel &brandShortName;i tiitliriba peidetakse">
+<!ENTITY pref_scroll_title_bar_summary2  "kerimisel &brandShortName;i tiitliriba peidetakse">
 
-<!ENTITY pref_tab_queue_title2           "Mitme lingi järjestikune avamine">
-<!ENTITY pref_tab_queue_summary3         "lingid salvestatakse järgmise &brandShortName;i avamiseni">
+<!ENTITY pref_tab_queue_title3           "Mitme lingi järjestikune avamine">
+<!ENTITY pref_tab_queue_summary4         "lingid salvestatakse järgmise &brandShortName;i avamiseni">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -461,22 +508,6 @@ size. -->
 <!ENTITY site_settings_title3            "Saidi sätted">
 <!ENTITY site_settings_cancel            "Loobu">
 <!ENTITY site_settings_clear             "Kustuta">
-<!ENTITY site_settings_no_settings       "Puuduvad sätted, mida kustutada.">
-
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-<!ENTITY reading_list_added3             "Lisati lugemisnimekirja">
-<!ENTITY reading_list_removed            "Leht eemaldati lugemisnimekirjast">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove             "Eemalda lugemisnimekirjast">
-<!ENTITY reading_list_duplicate          "Leht on juba lugemisnimekirjas">
-
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-<!ENTITY reading_list_time_minutes2      "&formatD; min">
-<!ENTITY reading_list_time_over_an_hour  "Üle tunni">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -505,6 +536,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title                      "&brandShortName;i avaleht">
 <!ENTITY home_history_title              "Ajalugu">
+<!ENTITY home_history_back_to            "Mine tagasi ajaloo juurde">
 <!ENTITY home_clear_history_button       "Kustuta lehitsemise ajalugu">
 <!ENTITY home_clear_history_confirm      "Kas oled kindel, et soovid ajaloo kustutada?">
 <!ENTITY home_bookmarks_empty            "Lisatud järjehoidjad ilmuvad siia.">
@@ -516,34 +548,15 @@ size. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2     "Psst: &formatS1;privaatset kaarti&formatS2; kasutades ei salvestata ajalugu.">
-<!ENTITY home_reading_list_empty         "Hilisemaks lugemiseks salvestatud artiklid ilmuvad siia.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!ENTITY home_reading_list_hint2         "Vihje: artiklite salvestamiseks lugemisnimekirja puuduta ja hoia näppu ikoonil &formatI;, kui see ilmub tiitliribale.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "Vihje: artiklite salvestamiseks lugemisnimekirja puuduta ja hoia näppu lugemisrežiimi nupul, kui see ilmub tiitliribale.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty              "Selle paneeli jaoks ei leitud sisu.">
 
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-<!ENTITY home_move_up_to_filter          "Liigu tagasi asukohta &formatS;">
+<!ENTITY home_move_back_to_filter        "Liigu tagasi asukohta &formatS;">
 
-<!ENTITY home_remote_tabs_title          "Sünkroniseeritud kaardid">
-<!ENTITY home_remote_tabs_empty          "Sinu teiste seadmete kaardid ilmuvad siia.">
-<!ENTITY home_remote_tabs_unable_to_connect "Ühendumine pole võimalik">
-<!ENTITY home_remote_tabs_need_to_sign_in "Palun logi sisse, et taasühendada oma Firefoxi konto ja jätkata sünkroniseerimisega.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Sinu uus Firefoxi konto on valmis!">
-
-<!ENTITY home_remote_tabs_trouble_verifying "Probleemid konto kinnitamisega?">
-<!ENTITY home_remote_tabs_need_to_verify "Sünkroniseerimise alustamiseks kinnita palun oma Firefoxi konto.">
-
-<!ENTITY home_remote_tabs_one_hidden_device "üks peidetud seade">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -582,6 +595,8 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure      "Ühendus on turvaline">
 <!ENTITY identity_connection_insecure    "Ühendus on ebaturvaline">
+<!ENTITY identity_login_insecure         "See leht pole turvaline ja sinu kasutajatunnused võivad sattuda ohtu.">
+<!ENTITY identity_connection_chromeui    "See on turvaline &brandShortName;i leht">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1      "&brandShortName; blokkis selle lehe ebaturvalise sisu.">
@@ -590,7 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Kaitse ebaturvaliste elementide eest on keelatud.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title       "Jälitamisvastane kaitse">
+<!ENTITY doorhanger_tracking_title2      "Jälitamisvastane kaitse">
 <!ENTITY doorhanger_tracking_state_enabled "Lubatud">
 <!ENTITY doorhanger_tracking_state_disabled "Keelatud">
 <!ENTITY doorhanger_tracking_message_enabled1 "Üritused sinu tegevust jälitada blokiti.">
@@ -600,7 +615,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more                      "Rohkem teavet">
 <!ENTITY enable_protection               "Luba kaitse">
 <!ENTITY disable_protection              "Keela kaitse">
-<!ENTITY keep_blocking                   "Jätka blokkimist">
 
 <!ENTITY private_data_success            "Privaatsed andmed kustutati">
 <!ENTITY private_data_fail               "Kõiki privaatseid andmeid polnud võimalik kustutada">
@@ -628,8 +642,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 <!ENTITY suggestion_for_engine           "Otsi mootoriga &formatS1; fraasi &formatS2;">
 
-<!ENTITY webapp_generic_name             "Veebirakendus">
-
 <!ENTITY searchable_description          "Järjehoidjad ja ajalugu">
 
 <!-- Updater notifications -->
@@ -643,6 +655,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2            "&brandShortName;ile on saadaval uuendus">
 <!ENTITY updater_apply_select2           "Uuendamiseks puuduta">
+
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text         "Failide ja uuenduste allalaadimiseks luba &brandShortName;il salvestada andmeid.">
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow        "Luba">
 
 <!-- Guest mode -->
 <!ENTITY new_guest_session               "Uus külalisseanss">
@@ -691,12 +710,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced        "Viimati sünkroniseeritud: mitte kunagi">
 
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-<!ENTITY find_matchcase                  "Aa">
-
-<!ENTITY intent_uri_cannot_open          "Lingi avamine pole võimalik">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
+     appear in an alert when a user, who is currently in private browsing,
+     clicks a link that will open an external Android application. "&formatS;"
+     will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "See link avaneb rakenduses &formatS;. Kas oled kindel, et soovid lõpetada privaatse veebilehitsemise?">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
+     string will appear as the title of an alert when a user, who is currently
+     in private browsing, clicks a link that will open an external Android
+     application and more than one application is available to open that link.
+     We don't have control over the style of this dialog and it looks
+     unpolished when this string is longer than one line so ideally keep it
+     short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Väljumine privaatsest veebilehitsemisest">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -706,19 +732,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code. -->
 <!ENTITY devtools_auth_scan_header       "Scanning for the QR code displayed on your other device">
 
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restriction_disallow_import_settings_title2 "Keelatakse Androidist importimine">
-<!ENTITY restriction_disallow_addons_title2 "Keelatakse lisade paigaldamine">
-<!ENTITY restriction_disallow_devtools_title2 "Keelatakse arendaja tööriistad">
-<!ENTITY restriction_disallow_customize_home_title2 "Keelatakse avalehe kohandamine">
-<!ENTITY restriction_disallow_private_browsing_title2 "Keelatakse privaatne veebilehitsemine">
-<!ENTITY restriction_disallow_location_services_title2 "Keelatakse asukohateenused">
-<!ENTITY restriction_disallow_display_settings_title2 "Keelatakse ekraani sätted">
-<!ENTITY restriction_disallow_clear_history_title2 "Keelatakse veebilehitsemise ajaloo kustutamine">
-<!ENTITY restriction_disallow_master_password_title2 "Keelatakse ülemparool">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Keelatakse külalisseansi kasutamine">
+<!ENTITY restrictable_feature_addons_installation "Lisad">
+<!ENTITY restrictable_feature_addons_installation_description "lisavad Firefoxile funktsionaalsust. Märkus: lisad võivad keelata teatud piiranguid">
+<!ENTITY restrictable_feature_private_browsing "Privaatne veebilehitsemine">
+<!ENTITY restrictable_feature_private_browsing_description "võimaldab pereliikmetel lehitseda internetti nii, et külastatud saitidest ja lehtedest ei jää maha ajalugu">
+<!ENTITY restrictable_feature_clear_history "Ajaloo kustutamine">
+<!ENTITY restrictable_feature_clear_history_description "võimaldab pereliikmetel kustutada veebilehitsemise ajaloo">
+<!ENTITY restrictable_feature_advanced_settings "Edasijõudnuile mõeldud sätted">
+<!ENTITY restrictable_feature_advanced_settings_description "sisaldab järjehoidjate importimist, kaartide taastamist ja automaatseid uuendusi, võib välja lülitada, et sätted oleks sobilikud kõigile pereliikmetele">
+<!ENTITY restrictable_feature_camera_microphone "kaamera ja mikrofon">
+<!ENTITY restrictable_feature_camera_microphone_description "võimaldab perekliikmetel reaalajalist suhtlemist erinevatel veebilehtedel">
+<!ENTITY restrictable_feature_block_list "Blokitud saitide nimekiri">
+<!ENTITY restrictable_feature_block_list_description "bloki saidid, mis sisaldavad tundlikku sisu">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -727,9 +755,26 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_addons                "Firefox: lisadega kohandamine">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support               "Firefox: tugiveeb">
-<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
-<!ENTITY bookmarks_marketplace           "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2   "Androidi tahvlites oleva Firefoxi piiratud profiilide abi ning teave">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker   "Veebi õppimine: Mozilla Webmaker">
+
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version         "Vabandust! See &brandShortName; ei tööta sellel seadmel (&formatS1;, &formatS2;). Palun laadi alla õige versioon.">
+
+<!ENTITY eol_notification_title2         "&brandShortName; ei saa rohkem uuendusi">
+<!ENTITY eol_notification_summary        "Rohkema teabe saamiseks puuduta">
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title     "&brandShortName;i on uuendatud">
+<!ENTITY whatsnew_notification_summary   "Vaata, mis on uut selles versioonis">
+
+<!ENTITY promotion_add_to_homescreen     "Lisa avaekraanile">
+
+<!ENTITY helper_first_offline_bookmark_title "Võrguta režiimis lugemine">
+<!ENTITY helper_first_offline_bookmark_message "Leia oma lugemisnimekirja asjad järjehoidjatest, ka võrguta režiimis olles.">
+<!ENTITY helper_first_offline_bookmark_button "Mine järjehoidjatesse">

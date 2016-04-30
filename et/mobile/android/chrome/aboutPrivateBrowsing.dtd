@@ -13,7 +13,9 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1          "Sa pole privaatse veebilehitsemise režiimis">
 
-<!ENTITY privatebrowsingpage.description.private4   "Firefox takistab veebilehtedel sinu tegevuse jälitamise ja ei pea meeles lehitsemise ajalugu. Küll aga säilitatakse allalaaditud failid ja lisatud järjehoidjad.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; blokib lehtede neid osasid, mis võivad sinu tegevust jälitada.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Ajalugu ei salvestata, aga allalaaditud failid ja lisatud järjehoidjad salvestatakse sinu seadmesse.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing" is capitalized in English to be consistent with our existing uses
      of the term. -->

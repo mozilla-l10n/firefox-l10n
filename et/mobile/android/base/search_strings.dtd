@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage        'Kas soovid kustutada kogu otsinguajaloo sellest seadmest?'>
 <!ENTITY pref_clearHistory_title                'Otsinguajaloo kustutamine'>
 
-<!ENTITY pref_searchProvider_title              'Otsingumootor'>
-
 <!ENTITY search_widget_button_label             'Otsi'>
 
 <!ENTITY network_error_title                    'Puudub internetiühendus'>
