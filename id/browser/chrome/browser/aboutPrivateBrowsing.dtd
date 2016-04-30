@@ -17,7 +17,7 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "berkas sementara">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "akan menyimpan">
-<!ENTITY aboutPrivateBrowsing.info.saved.after           ":">
+
 <!ENTITY aboutPrivateBrowsing.info.downloads             "unduhan">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "markah">
 <!ENTITY aboutPrivateBrowsing.note.before                "Penjelajahan Pribadi ">
