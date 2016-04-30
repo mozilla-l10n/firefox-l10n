@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage 'Избрисати историју претраге са овог телефона?'>
 <!ENTITY pref_clearHistory_title 'Избриши историју претраге'>
 
-<!ENTITY pref_searchProvider_title 'Претраживачи'>
-
 <!ENTITY search_widget_button_label 'Претражи'>
 
 <!ENTITY network_error_title 'Нема интернет везе'>
