@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "к">
 <!ENTITY compactVersion.label "Компактни преглед">
 <!ENTITY compactVersion.accesskey "К">
+<!ENTITY folderPaneBar.label "Трака са алаткама окна фасцикле">
+<!ENTITY folderModeSelector.label "Прегледи фасцикле">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Сортирај по">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Уреди као нову поруку">
 <!ENTITY editAsNewMsgCmd.accesskey "У">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Уреди нацрт">
+<!ENTITY editDraftMsgCmd.accesskey "ц">
 <!ENTITY createFilter.label "Направи филтер из поруке…">
 <!ENTITY createFilter.accesskey "а">
 <!ENTITY moveMsgToMenu.label "Помери у">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "н">
 <!ENTITY contextEditMsgAsNew.label "Уреди као нову поруку">
 <!ENTITY contextEditMsgAsNew.accesskey "У">
+<!ENTITY contextEditDraftMsg.label "Уреди нацрт">
 <!ENTITY contextArchive.label "Архивирај">
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Одговори само пошиљаоцу">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "Умножи у">
 <!ENTITY contextCopyMsgMenu.accesskey "У">
 <!ENTITY contextKillThreadMenu.label "Занемари нит">
+<!ENTITY contextKillSubthreadMenu.accesskey "д">
 <!ENTITY contextKillThreadMenu.accesskey "З">
 <!ENTITY contextKillSubthreadMenu.label "Занемари поднит">
 <!ENTITY contextWatchThreadMenu.label "Надгледај нит">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "ж">
 <!ENTITY contextSaveAs.label "Сачувај као…">
 <!ENTITY contextSaveAs.accesskey "С">
 <!ENTITY contextPrint.label "Одштампај…">

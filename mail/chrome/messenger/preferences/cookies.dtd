@@ -18,6 +18,7 @@
 <!ENTITY props.path.label                  "Путања:">
 <!ENTITY props.secure.label                "Пошаљи за:">
 <!ENTITY props.expires.label               "Истиче:">
+<!ENTITY props.container.label             "Контејнер:">
 
 <!ENTITY window.title                      "Колачићи">
 <!ENTITY windowClose.key                   "w">
