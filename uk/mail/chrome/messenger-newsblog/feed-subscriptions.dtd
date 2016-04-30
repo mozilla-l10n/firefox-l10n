@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Підписки на стрічки">
-<!ENTITY learnMore.label             "Learn more about Feeds">
+<!ENTITY learnMore.label             "Докладніше про інформаційні канали">
 
 <!ENTITY feedTitle.label             "Заголовок:">
 <!ENTITY feedTitle.accesskey         "З">
