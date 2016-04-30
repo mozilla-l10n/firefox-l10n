@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY migrationWizard.title          "Importimine">
 
 <!ENTITY importFromWin.label            "Valikud, kontode sätted, aadressiraamatud, filtrid ja muud andmed imporditakse rakendusest:">
@@ -15,8 +16,6 @@
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
-<!ENTITY importFromEudora.label         "Eudora">
-<!ENTITY importFromEudora.accesskey     "E">
 
 <!ENTITY importSource.title             "Sätted ja kirjade kaustad imporditakse rakendusest:">
 <!ENTITY importItems.title              "Imporditavad elemendid">

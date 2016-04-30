@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey             "E">
 <!ENTITY retentionKeepRecent.label              "Kustutatakse kõik peale hiljutiste">
 <!ENTITY retentionKeepRecent.accesskey          "j">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label        "Alati kustutatakse loetud kirjad (ei arvestata aja sätteid)">
 <!ENTITY retentionApplyToFlagged.label          "Alati säilitatakse tähistatud kirjad">
 <!ENTITY retentionApplyToFlagged.accesskey      "l">
 

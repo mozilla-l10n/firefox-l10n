@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                 "Sertifikaatide valideeruvust kontrollitakse OCSP abil">
 <!ENTITY enableOCSP.accesskey             "S">
 
-<!ENTITY viewCertificates.label           "Kuva sertifikaate">
-<!ENTITY viewCertificates.accesskey       "f">
+<!ENTITY manageCertificates.label         "Halda sertifikaate">
+<!ENTITY manageCertificates.accesskey     "f">
 <!ENTITY viewSecurityDevices.label        "Turvaseadmed">
 <!ENTITY viewSecurityDevices.accesskey    "u">
