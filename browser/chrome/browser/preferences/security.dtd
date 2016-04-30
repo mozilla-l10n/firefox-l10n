@@ -17,7 +17,7 @@
 <!ENTITY  blockDownloads.label            "Bloquear descargas perigosas">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-<!ENTITY  blockUncommonUnwanted.label     "Avise-me acerca de software não-solicitado e incomum">
+<!ENTITY  blockUncommonUnwanted.label     "Avisar-me acerca de software não-solicitado e incomum">
 <!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Exceções…">
