@@ -42,6 +42,10 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Přístup k souboru byl odepřen">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>Možná byl smazán, přesunut nebo jeho oprávnění zabraňují přístupu.</li>
+</ul>">
 
 <!ENTITY generic.title "Nepodařilo se dokončit požadavek">
 <!ENTITY generic.longDesc "
@@ -209,3 +213,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Rozšířené informace: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Vaše připojení není zabezpečené">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii která je zastaralá a náchylná k útoku. Útočník může snadno získat informace, které si myslíte, že jsou zabezpečené. Administrátor serveru musí server opravit předtím, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
