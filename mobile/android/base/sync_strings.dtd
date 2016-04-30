@@ -63,8 +63,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Contul trebuie să fie verificat. Atinge pentru a retrimite e-mailul de verificare.">
 <!ENTITY fxaccount_status_needs_credentials "Nu se poate conecta. Atinge pentru a te autentifica.">
 <!ENTITY fxaccount_status_needs_upgrade "Trebuie să actualizezi &brandShortName; pentru a te autentifica.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; este configurat, însă sincronizarea automată e dezactivată. Comută „Sincronizați automat datele” în setările Android &gt; Utilizare date.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label;a este configurată, însă nu face sincronizarea automat. Comută „Sincronizați automat datele” în setările Android &gt; Conturi.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label;a este configurată, însă nu se sincronizează automat. Comută „Sincronizați automat datele” din setările Android &gt; Utilizare date.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label;a este configurată, însă nu se sincronizează automat. Comută „Sincronizați automat datele” din setările Android &gt; Conturi.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Atinge pentru a te autentifica în contul nou Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Semne de carte">
 <!ENTITY fxaccount_status_history "Istoric">
