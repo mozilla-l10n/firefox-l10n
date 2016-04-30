@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Saglabāt visas cilnes grāmatzīmēs…">
 <!ENTITY showAllBookmarks2.label "Rādīt visas grāmatzīmes">
 <!ENTITY recentBookmarks.label "Nesen saglabātās">
-
+<!ENTITY otherBookmarksCmd.label "Citas grāmatzīmes">
 <!ENTITY bookmarksToolbarChevron.tooltip "Rādīt vairāk grāmatzīmju">
 
 <!ENTITY backCmd.label                "Atpakaļ">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Grāmatzīmes">
-
+<!ENTITY bookmarksMenuButton.other.label "Citas grāmatzīmes">
 <!ENTITY viewBookmarksSidebar2.label        "Atvērt grāmatzīmes sānjoslā">
 <!ENTITY viewBookmarksToolbar.label         "Attēlo grāmatzīmes sānu joslā">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
