@@ -168,6 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "订阅此页…">
 <!ENTITY addCurPagesCmd.label "将所有标签页加入书签…">
 <!ENTITY showAllBookmarks2.label "管理所有书签">
+<!ENTITY recentBookmarks.label "最近的书签">
+<!ENTITY otherBookmarksCmd.label "其他书签">
 <!ENTITY bookmarksToolbarChevron.tooltip "显示更多书签">
 
 <!ENTITY backCmd.label                "后退">
@@ -222,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "书签">
+<!ENTITY bookmarksMenuButton.other.label "其他书签">
 <!ENTITY viewBookmarksSidebar2.label        "查看书签侧栏">
 <!ENTITY viewBookmarksToolbar.label         "查看书签工具栏">
 
@@ -345,6 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "还没有已同步的标签页！">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "想看到您在其他设备上的标签页吗？">
 <!ENTITY appMenuRemoteTabs.openprefs.label "同步服务首选项">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "登录以查看来自您的其他设备的标签页列表。">
 <!ENTITY appMenuRemoteTabs.signin.label "登录同步服务">
@@ -720,6 +725,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "受同步的标签页">
 <!ENTITY syncedTabs.sidebar.noclients.label    "在这里查看您在其他设备上登录的 Firefox 的标签页。">
+<!ENTITY syncedTabs.sidebar.noclients.title    "还没有已同步的标签页！">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "想看到您在其他设备上的标签页吗？">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "登录以查看您的其他设备上的标签页列表。">
 <!ENTITY syncedTabs.sidebar.notabs.label       "没有已打开的标签页">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "打开 &syncBrand.shortName.label; 首选项">
@@ -727,8 +734,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "开启标签页同步服务，即可查看您的其他设备上的标签页列表。">
 
+<!ENTITY syncedTabs.context.open.label                       "打开">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "在新标签页中打开">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "在新窗口中打开">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "在新的隐私浏览窗口中打开">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "将此标签页加入书签…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "复制">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "同步">

@@ -4,8 +4,15 @@
 
 <!ENTITY safeb.palm.accept.label "带我离开！">
 <!ENTITY safeb.palm.decline.label "忽略此警告">
-<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
+  item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
+  shown. -->
 <!ENTITY safeb.palm.notdeceptive.label "这不是欺诈网站…">
+<!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
+  safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
+  report-phishing.dtd are never shown at the same time, the same accesskey can
+  be used for them. -->
+<!ENTITY safeb.palm.notdeceptive.accesskey "d">
 <!ENTITY safeb.palm.reportPage.label "为什么拦截此页面？">
 <!ENTITY safeb.palm.whyForbidden.label "为什么拦截此页面？">
 

@@ -19,6 +19,9 @@
 <!ENTITY fileNotFound.title "未找到文件">
 <!ENTITY fileNotFound.longDesc "<ul><li>该项目是否可能已经被改名、移除或者移动？</li><li>地址中是否可能有拼写、大小写或者输入错误？</li><li>您是否有访问该项目的权限？</li></ul>">
 
+<!ENTITY fileAccessDenied.title "访问该文件被拒绝">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>它可能已被删除、移动，或者因文件权限拒绝访问。</li></ul>">
+
 <!ENTITY generic.title "无法完成请求">
 <!ENTITY generic.longDesc "<p>暂无关于此问题或错误的其他信息。</p>">
 
@@ -86,3 +89,8 @@
 
 <!ENTITY remoteXUL.title "远程 XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>请联系此网站的管理员并告知此问题。</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "您的连接不安全">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> 使用了过时的安全技术，较容易遭受攻击。攻击者可以容易地获取您认为是安全的信息。需要该网站的管理员先修正服务器，然后您才能访问该网站。</p><p>错误代码：NS_ERROR_NET_INADEQUATE_SECURITY</p>">

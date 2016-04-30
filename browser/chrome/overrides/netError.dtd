@@ -27,6 +27,12 @@
 <li>请检查文件是否已被移动，重命名或删除。</li> 
 </ul>">
 
+<!ENTITY fileAccessDenied.title "访问该文件被拒绝">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>它可能已被删除、移动，或者因文件权限拒绝访问。</li>
+</ul>
+">
 
 <!ENTITY generic.title "哎呀。">
 <!ENTITY generic.longDesc "<p>&brandShortName; 因未知原因无法载入此页面。</p>">
@@ -88,9 +94,11 @@
 <li>请联系此网站的管理员并告知此问题。</li> 
 </ul>">
 
+<!ENTITY certerror.longpagetitle1 "您的连接不安全">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/> 的管理员未正确配置网站。为避免您的信息被窃，&brandShortName; 没有建立与该网站的连接。">
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>此站点暂时不可用或者太忙。请稍后再试。</li> 
@@ -126,6 +134,11 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> 使用了过时的安全技术，较容易遭受攻击。攻击者可以容易地获取您认为是安全的信息。">
 <!ENTITY weakCryptoAdvanced.override "尝试使用过时的安全性设置载入此页面 <span class='hostname'></span>（不安全）">
 
+<!ENTITY certerror.pagetitle1  "不安全的连接">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此网站使用了 HTTP 严格传输安全（HSTS）要求 &brandShortName; 只进行安全连接。正因如此，您不能为此证书添加一个例外。">
+<!ENTITY certerror.copyToClipboard.label "复制文本到剪贴板">
 
+<!ENTITY inadequateSecurityError.title "您的连接不安全">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> 使用了过时的安全技术，较容易遭受攻击。攻击者可以容易地获取您认为是安全的信息。需要该网站的管理员先修正服务器，然后您才能访问该网站。</p><p>错误代码：NS_ERROR_NET_INADEQUATE_SECURITY</p>">
