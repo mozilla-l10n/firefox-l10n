@@ -24,7 +24,7 @@
 
 <!ENTITY  onboard_start_restricted1 "Rămâi în siguranță și păstrează controlul cu această versiune simplificată de &brandShortName;.">
 
-<!ENTITY  reading_list_migration_title "Listă de citt conectată">
+<!ENTITY  reading_list_migration_title "Listă de citit conectată">
 <!ENTITY  reading_list_migration_subtext "Elementele din lista ta de citit vor fi adăugate în semnele tale de carte">
 <!ENTITY  reading_list_migration_goto_bookmarks "Mergi la semnele de carte">
 
@@ -60,13 +60,14 @@
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Însemnat deja">
-<!ENTITY bookmark_removed "Semn de carte șters">
+<!ENTITY bookmark_removed "Semn de carte eliminat">
 <!ENTITY bookmark_updated "Semn de carte actualizat">
 <!ENTITY bookmark_options "Opțiuni">
-
+<!ENTITY screenshot_added_to_bookmarks "Capturi de ecran adăugate la semne de carte">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Capturi de ecran">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Listă de citit">
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -185,7 +186,7 @@
 <!ENTITY pref_category_home "Pagină de start">
 <!ENTITY pref_category_home_summary "Personalizează pagina de start">
 <!ENTITY pref_category_home_panels "Panouri">
-
+<!ENTITY pref_category_home_add_ons "Suplimente">
 <!ENTITY pref_home_updates2 "Actualizări de conținut">
 <!ENTITY pref_home_updates_enabled "Activate">
 <!ENTITY pref_home_updates_wifi "Doar prin Wi-Fi">
@@ -223,7 +224,7 @@
 <!ENTITY pref_cookies_disabled "Dezactivate">
 
 <!ENTITY pref_category_data_saver "Economizor de date">
-
+<!ENTITY pref_category_media "Media">
 <!ENTITY pref_category_developer_tools "Unelte de dezvoltare">
 
 <!ENTITY pref_tap_to_load_images_title2 "Arată imaginile">
@@ -264,7 +265,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Mergi la Setări">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -276,14 +277,17 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; site-uri web actualizate">
 <!ENTITY content_notification_action_settings "Setări pentru notificări">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "Actualizat în data de &formatS;">
 
 <!ENTITY pref_char_encoding "Codare de caractere">
 <!ENTITY pref_char_encoding_on "Arată meniul">
@@ -488,7 +492,7 @@ size. -->
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
-<!ENTITY page_removed "Pagina eliminată">
+<!ENTITY page_removed "Pagină eliminată">
 
 <!ENTITY bookmark_edit_title "Editează semnul de carte">
 <!ENTITY bookmark_edit_name "Nume">
@@ -567,6 +571,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Introdu un cuvânt cheie pentru căutare">
 
+<!ENTITY filepicker_title "Alege fișierul">
 <!ENTITY filepicker_audio_title "Alege sau înregistrează în format audio">
 <!ENTITY filepicker_image_title "Alege sau fă o poză">
 <!ENTITY filepicker_video_title "Alege sau înregistrează în format video">
@@ -586,7 +591,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Conexiune securizată">
 <!ENTITY identity_connection_insecure "Conexiune nesecurizată">
-
+<!ENTITY identity_login_insecure "Această pagină nu este securizată și autentificarea ta poate fi vulnerabilă.">
 <!ENTITY identity_connection_chromeui "Aceasta este o pagină securizată &brandShortName;.">
 <!-- Mixed content notifications in site identity popup -->
 
@@ -646,6 +651,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Pentru a descărca fișiere și actualizări, acordă-i lui &brandShortName; permisiunea de a accesa stocarea.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Permite">
 <!-- Guest mode -->    
@@ -757,6 +764,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; este actualizat">
 <!ENTITY whatsnew_notification_summary "Descoperă ce este nou în această versiune">
 
+<!ENTITY promotion_add_to_homescreen "Adaugă la ecranul principal">
 
 
 <!ENTITY helper_first_offline_bookmark_button "Mergi la semnele de carte">
