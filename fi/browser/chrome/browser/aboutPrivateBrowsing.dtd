@@ -10,7 +10,7 @@
 <!ENTITY privateBrowsing.title.tracking                  "Yksityisselaus seurannan suojauksen kanssa">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Kun selaat yksityisessä ikkunassa, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ei tallenna">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.after        "">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after2       "">
 <!ENTITY aboutPrivateBrowsing.info.visited               "vierailtuja sivuja">
 <!ENTITY aboutPrivateBrowsing.info.searches              "hakuja">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "evästeitä">
