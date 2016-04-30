@@ -168,8 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Subscribe to This Page…">
 <!ENTITY addCurPagesCmd.label "Bookmark All Tabs…">
 <!ENTITY showAllBookmarks2.label "Show All Bookmarks">
-
-
+<!ENTITY recentBookmarks.label "Recently Bookmarked">
+<!ENTITY otherBookmarksCmd.label "Other Bookmarks">
 <!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
 
 <!ENTITY backCmd.label                "Back">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bookmarks">
-
+<!ENTITY bookmarksMenuButton.other.label "Other Bookmarks">
 <!ENTITY viewBookmarksSidebar2.label        "View Bookmarks Sidebar">
 <!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Cut">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "Copy">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Paste">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "No synced tabs… yet!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Want to see your tabs from other devices here?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync Preferences">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Sign in to view a list of tabs from your other devices.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sign in to Sync">
@@ -694,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Your connection to this site is not private. Information you submit could be viewed by others (like passwords, messages, credit cards, etc.).">
 <!ENTITY identity.description.insecureLoginForms "The login information you enter on this page is not secure and could be compromised.">
 <!ENTITY identity.description.weakCipher "Your connection to this website uses weak encryption and is not private.">
-
+<!ENTITY identity.description.weakCipher2 "Other people can view your information or modify the website’s behaviour.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; has blocked parts of this page that are not secure.">
 <!ENTITY identity.description.passiveLoaded "Your connection is not private and information you share with the site could be viewed by others.">
 <!ENTITY identity.description.passiveLoaded2 "This website contains content that is not secure (such as images).">
@@ -724,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Synced Tabs">
 
 <!ENTITY syncedTabs.sidebar.label              "Synced Tabs">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Sign in to Firefox from your other devices to view their tabs here.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "No synced tabs… yet!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Want to see your tabs from other devices here?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Sign in to view a list of tabs from your other devices.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "No open tabs">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Open &syncBrand.shortName.label; Preferences">
@@ -734,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Turn on tab syncing to view a list of tabs from your other devices.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Open">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Open in a New Tab">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Open in a New Window">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Open in a New Private Window">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bookmark This Tab…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Copy">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

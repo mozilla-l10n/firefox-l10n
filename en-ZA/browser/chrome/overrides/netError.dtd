@@ -19,15 +19,16 @@
 <!ENTITY deniedPortAccess.longDesc "​">
 
 <!ENTITY dnsNotFound.title "Server not found">
-
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Check the address for typing errors such as <strong>ww</strong>.example.com instead of <strong>www</strong>.example.com</li> <li>If you are unable to load any pages, check your computer’s network connection.</li> <li>If your computer or network is protected by a firewall or proxy, make sure that &brandShortName; is permitted to access the Web.</li> </ul>">
 
 <!ENTITY fileNotFound.title "File not found">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Check the file name for capitalisation or other typing errors.</li> <li>Check to see if the file was moved, renamed or deleted.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Access to the file was denied">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>It may have been removed, moved, or file permissions may be preventing access.</li> </ul>">
 
 <!ENTITY generic.title "Oops.">
-
+<!ENTITY generic.longDesc "<p>&brandShortName; can’t load this page for some reason.</p>">
 
 
 
@@ -35,7 +36,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Document Expired">
-
+<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;’s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "Offline mode">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li> </ul>">
@@ -52,6 +53,7 @@
 <!ENTITY netTimeout.title "The connection has timed out">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "The address wasn’t understood">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>You might need to install other software to open this address.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
@@ -60,17 +62,22 @@
 <!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Check the proxy settings to make sure that they are correct.</li> <li>Check to make sure your computer has a working network connection.</li> <li>If your computer or network is protected by a firewall or proxy, make sure that &brandShortName; is permitted to access the Web.</li> </ul>">
 
+<!ENTITY redirectLoop.title "The page isn’t redirecting properly">
 <!ENTITY redirectLoop.longDesc "<ul> <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Unexpected response from server">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Check to make sure your system has the Personal Security Manager installed.</li> <li>This might be due to a non-standard configuration on the server.</li> </ul>">
 
+<!ENTITY nssFailure2.title "Secure Connection Failed">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li> <li>Please contact the website owners to inform them of this problem.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "Your connection is not secure">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "The owner of <span class='hostname'/> has configured their website improperly.  To protect your information from being stolen, &brandShortName; has not connected to this website.">
 
+<!ENTITY sharedLongDesc "<ul> <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li> <li>If you are unable to load any pages, check your computer’s network connection.</li> <li>If your computer or network is protected by a firewall or proxy, make sure that &brandShortName; is permitted to access the Web.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
@@ -92,6 +99,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Your connection is not secure">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Advanced info: SSL_ERROR_NO_CYPHER_OVERLAP">
