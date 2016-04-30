@@ -15,7 +15,7 @@
 <!ENTITY followupToField4.label "Reenviar para ">
 <!ENTITY tagsHdr4.label "Etiquetas ">
 <!ENTITY dateField4.label "Data ">
-<!ENTITY userAgentField4.label "Agente">
+<!ENTITY userAgentField4.label "User agent">
 <!ENTITY referencesField4.label "Referências">
 <!ENTITY messageIdField4.label "ID da mensagem">
 <!ENTITY inReplyToField4.label "Em resposta a">
