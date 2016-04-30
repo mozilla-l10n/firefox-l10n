@@ -17,13 +17,13 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "ficheiros temporários">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "vai guardar">
-<!ENTITY aboutPrivateBrowsing.info.saved.after           "os seus:">
+
 <!ENTITY aboutPrivateBrowsing.info.downloads             "descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "marcadores">
-<!ENTITY aboutPrivateBrowsing.note.before                "Navegação privada ">
+<!ENTITY aboutPrivateBrowsing.note.before                "A navegação privada ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "não o torna anónimo">
 <!ENTITY aboutPrivateBrowsing.note.after                 " na Internet. O seu empregador ou operadora de serviço de Internet podem ainda saber que páginas visita.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Saiba mais acerca">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Saiba mais acerca da">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Navegação privada">
 
 <!ENTITY trackingProtection.title                        "Proteção contra monitorização">
