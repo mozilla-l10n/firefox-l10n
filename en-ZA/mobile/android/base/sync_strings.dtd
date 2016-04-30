@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Tags">
 <!ENTITY bookmarks.folder.toolbar.label "Bookmarks Toolbar">
-
+<!ENTITY bookmarks.folder.other.label "Other Bookmarks">
 <!ENTITY bookmarks.folder.desktop.label "Desktop Bookmarks">
 <!ENTITY bookmarks.folder.mobile.label "Mobile Bookmarks">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -75,7 +75,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos2 "Terms of service">
+<!ENTITY fxaccount_status_linkprivacy2 "Privacy notice">
 <!ENTITY fxaccount_status_more "More&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
