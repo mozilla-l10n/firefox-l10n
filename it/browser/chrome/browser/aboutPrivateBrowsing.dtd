@@ -15,8 +15,8 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies "cookie">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "file temporanei">
 <!ENTITY aboutPrivateBrowsing.info.saved.before "Mentre ">
-<!ENTITY aboutPrivateBrowsing.info.saved.emphasize "vengono salvati:">
-<!ENTITY aboutPrivateBrowsing.info.saved.after "">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize "vengono salvati">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2 ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads "download">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks "segnalibri">
 <!ENTITY aboutPrivateBrowsing.note.before "La navigazione anonima ">
