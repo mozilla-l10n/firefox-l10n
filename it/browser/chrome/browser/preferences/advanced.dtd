@@ -58,8 +58,6 @@
 <!ENTITY updateCheck.accesskey "r">
 <!ENTITY updateManual.label "Non cercare aggiornamenti (non consigliato: rischi per la sicurezza)">
 <!ENTITY updateManual.accesskey "N">
-<!ENTITY updateAutoAddonWarn.label "Avvisa se verranno disattivati dei componenti aggiuntivi">
-<!ENTITY updateAutoAddonWarn.accesskey "A">
 <!ENTITY updateHistory.label "Mostra cronologia aggiornamenti">
 <!ENTITY updateHistory.accesskey "o">
 <!ENTITY useService.label "Utilizza un servizio di sistema per installare gli aggiornamenti">
