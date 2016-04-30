@@ -48,3 +48,13 @@ their language.
 <!ENTITY welcomeback2.afterlink.pageInfo2  "">
 
 <!ENTITY welcomeback2.link.pageInfo2 "loe edasi, mida veel saad teha.">
+
+<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
+     the tab groups (panorama) migration page, not about:sessionrestore -->
+<!ENTITY tabgroupsmigration.tabtitle "Migreeri oma kaardigrupid">
+<!ENTITY tabgroupsmigration.pagetitle2 "Me eemaldasime kaardigrupid, aga salvestasime sinu kaardid">
+<!ENTITY tabgroupsmigration.learnaboutaddons "Rohkem teavet kaardigruppe asendavate lisade kohta.">
+<!ENTITY tabgroupsmigration.description2 "&brandShortName; lisas kõik sinu grupid järjehoidjatesse, nii et sa ei kaotanud midagi.">
+<!ENTITY tabgroupsmigration.bookmarkbutton "Kuva järjehoidjatesse lisatud kaardigruppe">
+<!ENTITY tabgroupsmigration.restoredescription "Samuti võid sa taastada osad või kõik taustal olnud kaardigrupid uutesse akendesse:">
+
