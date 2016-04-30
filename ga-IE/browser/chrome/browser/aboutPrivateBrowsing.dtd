@@ -17,7 +17,7 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "comhaid shealadacha">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Sábhálann Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "will save">
-<!ENTITY aboutPrivateBrowsing.info.saved.after           "do chuid:">
+
 <!ENTITY aboutPrivateBrowsing.info.downloads             "íosluchtuithe">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "leabharmharcanna">
 
