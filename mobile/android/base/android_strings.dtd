@@ -32,7 +32,7 @@
 
 <!ENTITY  bookmarks_title "Yer imleri">
 <!ENTITY  history_title "Geçmiş">
-
+<!ENTITY  reading_list_title "Okuma Listesi">
 <!ENTITY  recent_tabs_title "Son sekmeler">
 
 <!ENTITY  switch_to_tab "Sekmeye geç">
@@ -62,15 +62,18 @@
 <!ENTITY bookmark_removed "Yer imi silindi">
 <!ENTITY bookmark_updated "Yer imi güncellendi">
 <!ENTITY bookmark_options "Seçenekler">
-
+<!ENTITY screenshot_added_to_bookmarks "Ekran görüntüsü yer imlerine eklendi">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Ekran Görüntüleri">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Okuma Listesi">
 
-
+<!ENTITY reader_saved_offline "Çevrimdışı kaydedildi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Geç">
 
 <!ENTITY history_today_section "Bugün">
 <!ENTITY history_yesterday_section "Dün">
@@ -156,7 +159,7 @@
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName; hakkında, SSS\u0027ler, geri bildirim">
 <!ENTITY pref_category_datareporting "Veri tercihleri">
-
+<!ENTITY pref_category_logins "Hesaplar">
 <!ENTITY pref_learn_more "Daha fazla bilgi">
 <!ENTITY pref_category_installed_search_engines "Yüklü arama motorları">
 <!ENTITY pref_category_add_search_providers "Daha fazla arama sağlayıcı ekle">
@@ -168,11 +171,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "İPUCU: Herhangi bir web sitesinin arama alanına uzun dokunduktan sonra &formatI; simgesine dokunarak onu arama sağlayıcı listenize ekleyebilirsiniz.">
 <!ENTITY pref_category_advanced "Gelişmiş">
 
-
-
-
+<!ENTITY pref_category_notifications "Bildirimler">
+<!ENTITY pref_category_notifications_summary "Yeni özellikler, web sitesi güncellemeleri">
+<!ENTITY pref_content_notifications "Web sitesi güncellemeleri">
 
 <!ENTITY pref_developer_remotedebugging_usb "USB ile uzaktan hata ayıklama">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi ile uzaktan hata ayıklama">
@@ -183,8 +187,8 @@
 <!ENTITY pref_category_home "Başlangıç">
 <!ENTITY pref_category_home_summary "Başlangıç sayfanızı özelleştirin">
 <!ENTITY pref_category_home_panels "Paneller">
-
-
+<!ENTITY pref_category_home_add_ons "Eklentiler">
+<!ENTITY pref_home_updates2 "İçerik güncellemeleri">
 <!ENTITY pref_home_updates_enabled "Etkin">
 <!ENTITY pref_home_updates_wifi "Yalnızca Wi-Fi üzerinden">
 <!ENTITY pref_category_home_homepage "Ana Sayfa">
@@ -210,7 +214,7 @@
 <!ENTITY pref_header_search "Arama">
 <!ENTITY pref_header_privacy_short "Gizlilik">
 <!ENTITY pref_header_accessibility "Erişilebilirlik">
-
+<!ENTITY pref_header_notifications "Bildirimler">
 <!ENTITY pref_header_advanced "Gelişmiş">
 <!ENTITY pref_header_help "Yardım">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -221,7 +225,7 @@
 <!ENTITY pref_cookies_disabled "Devre dışı">
 
 
-
+<!ENTITY pref_category_developer_tools "Geliştirici araçları">
 
 <!ENTITY pref_tap_to_load_images_title2 "Resimleri göster">
 <!ENTITY pref_tap_to_load_images_enabled "Her zaman">
@@ -259,7 +263,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Ayarlar\u0027a gidin">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -273,10 +277,12 @@
 
 <!ENTITY tab_queue_notification_settings "\&quot;Birden fazla bağlantıyı açmak\&quot; için lütfen &brandShortName; uygulamasının \&quot;diğer uygulamaların üzerinde görüntüleme\&quot; iznini etkinleştirin">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; site güncellendi">
 
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
@@ -285,7 +291,7 @@
 <!ENTITY pref_char_encoding "Karakter kodlamasını göster">
 <!ENTITY pref_char_encoding_on "Menüyü göster">
 <!ENTITY pref_char_encoding_off "Menüyü gösterme">
-
+<!ENTITY pref_clear_private_data2 "Özel verileri temizle">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Şimdi temizle">
@@ -294,7 +300,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Temizlenecek verileri seçin">
 <!ENTITY pref_plugins "Yan uygulamalar">
 <!ENTITY pref_plugins_enabled "Etkin">
-
+<!ENTITY pref_plugins_tap_to_play2 "Oynatmak için dokun">
 <!ENTITY pref_plugins_disabled "Devre dışı">
 <!ENTITY pref_text_size "Metin boyutu">
 <!ENTITY pref_restore_tabs "Sekmeleri geri yükle">
@@ -389,6 +395,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Otomatik güncellemeler">
 <!ENTITY pref_update_autodownload_wifi "Yalnızca Wi-Fi üzerinden">
 <!ENTITY pref_update_autodownload_never "Asla">
 <!ENTITY pref_update_autodownload_always "Her zaman">
@@ -399,7 +406,7 @@ size. -->
 <!ENTITY quit "Çık">
 
 <!ENTITY addons "Eklentiler">
-
+<!ENTITY logins "Hesaplar">
 <!ENTITY downloads "İndirilenler">
 <!ENTITY char_encoding "Karakter kodlaması">
 
@@ -470,7 +477,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Küçük alanları büyüt">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Yakınlarına tıkladığım bağlantıları ve form alanlarını büyüt">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -523,7 +530,7 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; Ana Sayfası">
 <!ENTITY home_history_title "Geçmiş">
-
+<!ENTITY home_history_back_to "Tüm geçmişe geri dön">
 <!ENTITY home_clear_history_button "Tarama geçmişini temizle">
 <!ENTITY home_clear_history_confirm "Geçmişi temizlemek istediğinizden emin misiniz?">
 <!ENTITY home_bookmarks_empty "Kaydettiğiniz yer imleri burada görünür.">
@@ -754,6 +761,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; güncel">
 <!ENTITY whatsnew_notification_summary "Bu sürümdeki yenilikleri öğrenin">
 
+<!ENTITY promotion_add_to_homescreen "Ana ekrana ekle">
 
+<!ENTITY helper_first_offline_bookmark_title "Çevrimdışı oku">
 
 
