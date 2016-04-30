@@ -77,6 +77,8 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY sharedLongDesc3 "<ul> <li>Site geçici olarak kullanım dışı veya çok meşgul olabilir. Birkaç dakika sonra tekrar deneyin.</li> <li>Hiçbir sayfayı açamıyorsanız, aygıtınızın veri veya Wi-Fi bağlantısını kontrol edin. <button id='wifi'>Wi-Fi’ı etkinleştir</button> </li> </ul>">
+
 <!ENTITY cspBlocked.title "İçerik güvenliği ilkesi uyarınca engellendi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
 
