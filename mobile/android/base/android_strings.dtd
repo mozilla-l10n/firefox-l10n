@@ -68,11 +68,13 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Snímky obrazovky">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Seznam ke čtení">
 
 <!ENTITY reader_saved_offline "Uloženo offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Přepnout">
 
 <!ENTITY history_today_section "Dnes">
 <!ENTITY history_yesterday_section "Včera">
@@ -153,9 +155,11 @@
 <!ENTITY pref_category_accessibility "Přístupnost">
 <!ENTITY pref_category_accessibility_summary2 "Velikost textu, lupa, hlasový vstup">
 <!ENTITY pref_category_privacy_short "Soukromí">
+<!ENTITY pref_category_privacy_summary4 "Sledování, přihlášení, možnosti hlášení">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "O aplikaci &brandShortName;, často kladené dotazy, zpětná vazba">
 <!ENTITY pref_category_datareporting "Možnosti hlášení">
+<!ENTITY pref_category_logins "Přihlášení">
 <!ENTITY pref_learn_more "Zjistit více">
 <!ENTITY pref_category_installed_search_engines "Nainstalované vyhledávací moduly">
 <!ENTITY pref_category_add_search_providers "Přidat více poskytovatelů vyhledávání">
@@ -169,6 +173,7 @@
      it is applicable. -->
 <!ENTITY pref_category_advanced "Rozšířené">
 <!ENTITY pref_category_advanced_summary3 "Obnova panelů, spořič dat, nástroje vývojáře">
+<!ENTITY pref_category_notifications "Upozornění">
 <!ENTITY pref_developer_remotedebugging_usb "Vzdálené ladění pomocí USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Vzdálené ladění pomocí Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ladění pomocí Wi-Fi vyžaduje, aby vaše zařízení mělo nainstalovanou čtečku QR kódů.">
@@ -178,6 +183,7 @@
 <!ENTITY pref_category_home "Domů">
 <!ENTITY pref_category_home_summary "Přizpůsobení vaší domovské stránky">
 <!ENTITY pref_category_home_panels "Panely">
+<!ENTITY pref_category_home_add_ons "Doplňky">
 <!ENTITY pref_home_updates_enabled "Povoleno">
 <!ENTITY pref_home_updates_wifi "Pouze přes Wi-Fi">
 <!ENTITY pref_category_home_homepage "Domovská stránka">
@@ -203,6 +209,7 @@
 <!ENTITY pref_header_search "Vyhledávání">
 <!ENTITY pref_header_privacy_short "Soukromí">
 <!ENTITY pref_header_accessibility "Přístupnost">
+<!ENTITY pref_header_notifications "Upozornění">
 <!ENTITY pref_header_advanced "Rozšířené">
 <!ENTITY pref_header_help "Nápověda">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -213,6 +220,8 @@
 <!ENTITY pref_cookies_disabled "Zakázat">
 
 <!ENTITY pref_category_data_saver "Spořič dat">
+<!ENTITY pref_category_media "Média">
+<!ENTITY pref_category_developer_tools "Vývojářské nástroje">
 
 <!ENTITY pref_tap_to_load_images_title2 "Zobrazit obrázky">
 <!ENTITY pref_tap_to_load_images_enabled "Vždy">
@@ -221,6 +230,7 @@
 
 <!ENTITY pref_show_web_fonts "Zobrazit webové fonty">
 
+<!ENTITY pref_tracking_protection_title2 "Ochrana proti sledování">
 <!ENTITY pref_tracking_protection_summary3 "Povolena v režimu anonymního prohlížení">
 <!ENTITY pref_donottrack_title "Funkce Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požádá webové stránky, aby nesledovaly vaši aktivitu">
