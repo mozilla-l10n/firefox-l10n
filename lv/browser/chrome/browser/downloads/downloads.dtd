@@ -60,7 +60,7 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "e">
 <!ENTITY cmd.copyDownloadLink.label       "Kopēt lejupielādes adresi">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
-<!ENTITY cmd.removeFromHistory.label      "Notīrīt formu vēsturi">
+<!ENTITY cmd.removeFromHistory.label      "Notīrīt no vēstures">
 <!ENTITY cmd.removeFromHistory.accesskey  "o">
 <!ENTITY cmd.clearList.label              "Attīrīt sarakstu">
 <!ENTITY cmd.clearList.accesskey          "a">
