@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Упозори ме када отварање више језичака може да успори &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "У">
 
-<!ENTITY restoreTabsOnDemand.label        "Не учитавај језичке који нису обележени">
-<!ENTITY restoreTabsOnDemand.accesskey    "о">
-
 <!ENTITY switchToNewTabs.label        "Када отворим везу у новом језичку одмах се пребаци на њега">
 <!ENTITY switchToNewTabs.accesskey    "К">
 
