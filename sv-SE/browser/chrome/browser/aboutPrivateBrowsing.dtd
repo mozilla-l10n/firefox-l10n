@@ -17,7 +17,7 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "tillfälliga filer">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "kommer att spara">
-<!ENTITY aboutPrivateBrowsing.info.saved.after           "dina:">
+
 <!ENTITY aboutPrivateBrowsing.info.downloads             "hämtningar">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "bokmärken">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privat surfning ">
