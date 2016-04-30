@@ -33,6 +33,7 @@ da ima &brandShortName; pravico dostopati do spleta.</li>
 <li>Preverite, ali je bila datoteka premaknjena, preimenovana ali izbrisana.</li> 
 </ul>">
 
+
 <!ENTITY generic.title "Opla.">
 <!ENTITY generic.longDesc "<p>&brandShortName; iz neznanega razloga strani ne more naložiti.</p>">
 
@@ -126,20 +127,6 @@ z omrežjem.</li>
 <li>Če se vaš računalnik ali omrežje nahaja za požarnim zidom ali uporablja posrednika, se prepričajte, 
 da ima &brandShortName; pravico dostopati do omrežja.</li> 
 </ul>">
-
-<!ENTITY malwareBlocked.title "Morebitna napadalna stran!">
-<!ENTITY malwareBlocked.longDesc "<p>Napadalne strani poskušajo namestiti programe, s katerimi kradejo osebne podatke, uporabljajo vaš računalnik za napade na druge in lahko tudi vaš sistem poškodujejo.</p> 
-<p>Lastniki spletnih strani, ki menijo, da se je njihova spletna stran po krivem razglasila za napadalno stran, lahko na naslovu <a href='http://www.stopbadware.org/home/reviewinfo'> zahtevajo ponovno obravnavo</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Morebitna stran z neželeno programsko opremo!">
-<!ENTITY unwantedBlocked.longDesc "<p>Strani z neželeno programsko opremo poskušajo namestiti programsko opremo, ki je lahko zavajajoča in lahko neželeno vpliva na vaš sistem.</p>">
-
-<!ENTITY phishingBlocked.title "Morebitna spletna prevara!">
-<!ENTITY phishingBlocked.longDesc "<p>Vnos osebnih podatkov na tej strani lahko pripelje do kraje identitete ali drugih zlorab.</p> 
-<p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot ribarjenje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>">
-
-<!ENTITY forbiddenBlocked.title "Prepovedana stran">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje te strani, ker je nastavljen, da jo blokira.</p>">
 
 <!ENTITY cspBlocked.title "Blokirano zaradi Politike za varnost vsebin">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje te strani na ta način, kajti zanjo velja politika o varnosti vsebin, ki tega ne dovoljuje.</p>">
