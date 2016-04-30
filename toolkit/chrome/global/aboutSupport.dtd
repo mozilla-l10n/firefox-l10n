@@ -105,7 +105,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Güvenli kipi deneyin">
 <!ENTITY aboutSupport.restartInSafeMode.label "Eklentileri devre dışı bırakıp başlat…">
 
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Özellikler">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Tanılama">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Hata günlüğü">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
