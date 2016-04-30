@@ -4,7 +4,7 @@
 
 
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
-<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.label "Редактор">
 <!ENTITY editorCheck.accesskey "c">
 
 <!ENTITY compose.label "Редактор">
