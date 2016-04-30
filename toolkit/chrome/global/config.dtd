@@ -14,30 +14,31 @@
 <!ENTITY searchPrefs.label "Guetar:">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
+<!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
-<!ENTITY prefColumn.label "Nome de la preferencia">
+<!ENTITY prefColumn.label "Nome de preferencia">
 <!ENTITY lockColumn.label "Estáu">
-<!ENTITY typeColumn.label "Tipu">
+<!ENTITY typeColumn.label "Triba">
 <!ENTITY valueColumn.label "Valor">
 
 <!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Primi pa ordenar"> 
-<!ENTITY columnChooser.tooltip "Calque pa seleicionar les columnes a amosar"> 
+<!ENTITY columnChooser.tooltip "Primi pa esbillar les columnes a amosar"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Copiar">
 <!ENTITY copyPref.accesskey "C">
-<!ENTITY copyName.label "Copiar Nome">
+<!ENTITY copyName.label "Copiar nome">
 <!ENTITY copyName.accesskey "N">
-<!ENTITY copyValue.label "Copiar Valor">
+<!ENTITY copyValue.label "Copiar valor">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "Camudar">
 <!ENTITY modify.accesskey "m">
 <!ENTITY toggle.label "Alternar">
 <!ENTITY toggle.accesskey "t">
-<!ENTITY reset.label "Resetear">
+<!ENTITY reset.label "Reafitar">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "Nuevu">
 <!ENTITY new.accesskey "u">

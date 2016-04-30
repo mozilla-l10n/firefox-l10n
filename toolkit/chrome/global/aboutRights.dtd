@@ -47,6 +47,7 @@
 <!ENTITY rights2.webservices-header "Servicios d'información de &brandFullName; basaos en web">
 
 <!-- point 5 -->
+<!ENTITY rights.intro-point5 "Pa reproducir ciertes tribes de conteníu de videu. &brandShortName; baxa ciertos módulos de descifráu de conteníu dende terceres partes.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
@@ -62,6 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Desactivar la carauterística de navegación segura nun se recomienda porque pue dar como resultáu que visites sitios non seguros. Si quies desactivar la carauterística dafechu, sigui estos pasos:">
 <!ENTITY rights.safebrowsing-term1 "Abri les preferencies de l'aplicación">
 <!ENTITY rights.safebrowsing-term2 "Seleiciona'l panel Seguridá">
+<!ENTITY rights2.safebrowsing-term3 "Nun conseñes la opción a «&enableSafeBrowsing.label;»">
 <!ENTITY rights.safebrowsing-term4 "Agora la navegación segura ta desactivada">
 
 <!-- location aware browsing points for branded builds -->

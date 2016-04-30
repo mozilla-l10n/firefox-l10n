@@ -38,12 +38,12 @@
 <!ENTITY community.creditsLink      "comunidá global">
 <!ENTITY community.end3             " que trabaya xunida pa caltener la Web abierta, pública y accesible pa toos.">
 
-<!ENTITY helpus.start               "¿Quies ayudar?">
+<!ENTITY helpus.start               "¿Quies ayudar? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
-<!ENTITY helpus.donateLink          "Facer una donación">
-<!ENTITY helpus.middle              "o">
+<!ENTITY helpus.donateLink          "¡Fai una donación">
+<!ENTITY helpus.middle              " o ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "involucrase!">
+<!ENTITY helpus.getInvolvedLink     "involúcrate!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Qué hai nuevo">
