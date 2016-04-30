@@ -8,4 +8,4 @@
 
 <!ENTITY channel.description.start  "De momento, está no canal de atualização ">
 <!ENTITY channel.description.end    " .">
-<!ENTITY about.userAgent            "Agente do utilizador: ">
+<!ENTITY about.userAgent            "User agent:  ">
