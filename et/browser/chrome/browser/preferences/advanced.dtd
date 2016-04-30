@@ -14,6 +14,8 @@
 <!ENTITY searchStartTyping.accesskey       "o">
 <!ENTITY blockAutoRefresh.label            "Hoiatatakse, kui veebilehed üritavad mujale suunata või lehte uuesti laadida">
 <!ENTITY blockAutoRefresh.accesskey        "H">
+<!ENTITY useOnScreenKeyboard.label         "Vajadusel kuvatakse puutetundlikku klaviatuuri">
+<!ENTITY useOnScreenKeyboard.accesskey     "j">
 
 <!ENTITY browsing.label                    "Lehitsemine">
 
