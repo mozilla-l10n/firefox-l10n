@@ -774,3 +774,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_summary "Découvrez les nouveautés de cette version">
 
 <!ENTITY promotion_add_to_homescreen "Ajouter à l’écran d’accueil">
+
+<!ENTITY helper_first_offline_bookmark_title "Lire hors connexion">
+<!ENTITY helper_first_offline_bookmark_message "Retrouvez les pages du mode lecture dans les marque-pages, même hors connexion.">
+<!ENTITY helper_first_offline_bookmark_button "Ouvrir les marque-pages">
