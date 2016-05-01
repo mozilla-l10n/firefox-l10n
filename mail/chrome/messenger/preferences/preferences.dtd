@@ -4,7 +4,7 @@
 
 <!ENTITY  prefWindow.titleWin     "Налаштування">
 <!ENTITY  prefWindow.titleGNOME   "Налаштування &brandShortName;">
-<!ENTITY  prefWindow.titleMAC     "Preferences">
+<!ENTITY  prefWindow.titleMAC     "Налаштування">
 <!ENTITY  prefWindow.styleWindows "width: 60em; min-height: 41em;">
 <!ENTITY  prefWindow.styleMac     "width: 65em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 41em;">
