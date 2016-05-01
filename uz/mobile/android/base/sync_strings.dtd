@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Teglar">
 <!ENTITY bookmarks.folder.toolbar.label "Xatcho‘plar paneli">
-
+<!ENTITY bookmarks.folder.other.label "Boshqa xatcho‘plar">
 <!ENTITY bookmarks.folder.desktop.label "Ish stoli xatcho‘plari">
 <!ENTITY bookmarks.folder.mobile.label "Mobil xatcho‘plar">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -75,7 +75,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos2 "Xizmat shartlari">
+<!ENTITY fxaccount_status_linkprivacy2 "Maxfiylik ogohlantirishlari">
 <!ENTITY fxaccount_status_more "Ko‘proq&ellipsis;">
 <!ENTITY fxaccount_remove_account "&ellipsis; hisobini uzish">
 
