@@ -214,7 +214,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "اعرض خريطة لهذا العنوان من الوب">
 <!-- Status Bar -->
 
-<!ENTITY statusText.label                               "">
+<!ENTITY statusText.label                               "​">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY windowMenu.label                               "نافذة">

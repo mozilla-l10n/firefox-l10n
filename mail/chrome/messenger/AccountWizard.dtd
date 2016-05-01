@@ -51,7 +51,7 @@
 <!ENTITY portNum.label "المنفذ:">
 <!ENTITY portNum.accesskey "م">
 <!ENTITY defaultPortLabel.label "المبدئي:">
-<!ENTITY defaultPortValue.label "">
+<!ENTITY defaultPortValue.label "​">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.description "أدخل اسم خادوم الوارد لديك (مثلًا، ”mail.example.net“).">
 <!ENTITY incomingServer.label "خادوم الوارد:">
