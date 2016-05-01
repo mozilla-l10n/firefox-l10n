@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Znački">
 <!ENTITY bookmarks.folder.toolbar.label "Symbolowa lajsta zapołožkow">
-
+<!ENTITY bookmarks.folder.other.label "Druhe zapołožki">
 <!ENTITY bookmarks.folder.desktop.label "Desktopowe zapołožki">
 <!ENTITY bookmarks.folder.mobile.label "Mobilne zapołožki">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -75,7 +75,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos2 "Słužbne wuměnjenja">
+<!ENTITY fxaccount_status_linkprivacy2 "Zdźělenka priwatnosće">
 <!ENTITY fxaccount_status_more "Wjace&ellipsis;">
 <!ENTITY fxaccount_remove_account "Zwisk dźělić&ellipsis;">
 
