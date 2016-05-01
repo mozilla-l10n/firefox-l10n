@@ -235,7 +235,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloķēts">
 
 <!ENTITY pref_show_web_fonts "Rādīt tīmekļa fontus">
-
+<!ENTITY pref_show_web_fonts_summary2 "Lejupielādēt fontus lādējot lapas">
 
 <!ENTITY pref_tracking_protection_title2 "Izsekošanas aizsardzība">
 <!ENTITY pref_tracking_protection_summary3 "Aktivēta privātajā pārlūkošanā">
@@ -246,7 +246,8 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Aktivēta privātajā pārlūkošanā">
 <!ENTITY pref_tracking_protection_disabled "Deaktivētas">
 
-
+<!ENTITY pref_whats_new_notification "Kas jauns &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Uzziniet par jaunajām iespējām pēc atjauninājuma">
 
 <!ENTITY tracking_protection_prompt_title "Tagad ar izsekošanas aizsardzību">
 <!ENTITY tracking_protection_prompt_text "Aktīvi bloķē izsekošanas elementus, lai jums par to nav jāuztraucas.">
@@ -280,14 +281,17 @@
 
 <!ENTITY tab_queue_notification_settings "Lai \&quot;Atvērtu vairākas cilnes\&quot;, ieslēdziet \u0027Zīmēt pa virsu citām aplikācijām\u0027 atļauju &brandShortName; ">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!ENTITY content_notification_title_plural "&formatD; lapas atjauninātas">
+<!ENTITY content_notification_action_settings "Paziņojumu iestatījums">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "Atjaunināts &formatS;">
 
 <!ENTITY pref_char_encoding "Rakstzīmju kodējums">
 <!ENTITY pref_char_encoding_on "Rādīt izvēlni">
@@ -301,7 +305,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Izvēlieties, kādus datus notīrīt">
 <!ENTITY pref_plugins "Spraudņi">
 <!ENTITY pref_plugins_enabled "Aktivizēts">
-
+<!ENTITY pref_plugins_tap_to_play2 "Pieskarieties, lai atjauninātu">
 <!ENTITY pref_plugins_disabled "Deaktivētas">
 <!ENTITY pref_text_size "Teksta izmērs">
 <!ENTITY pref_restore_tabs "Cilņu atjaunošana">
@@ -351,6 +355,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Lejupielādes">
 <!ENTITY pref_private_data_syncedTabs "Sinhronizētās cilnes">
 
+<!ENTITY pref_default_browser "Lietot kā noklusēto pārlūku">
 <!ENTITY pref_about_firefox "Par &brandShortName;">
 <!ENTITY pref_vendor_faqs "BUJ">
 <!ENTITY pref_vendor_feedback "Iesniegt atsauksmi">
@@ -531,7 +536,7 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; sākumlapa">
 <!ENTITY home_history_title "Vēsture">
-
+<!ENTITY home_history_back_to "Atgriezties pie visas vēstures">
 <!ENTITY home_clear_history_button "Notīrīt pārlūkošanas vēsturi">
 <!ENTITY home_clear_history_confirm "Vai tiešām vēlaties notīrīt pārlūkošanas vēsturi?">
 <!ENTITY home_bookmarks_empty "Saglabātās grāmatzīmes parādās te.">
@@ -767,5 +772,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Pievienot sākuma ekrānam">
 
-
-
+<!ENTITY helper_first_offline_bookmark_title "Lasīt nesaistē">
+<!ENTITY helper_first_offline_bookmark_message "Atrodiet Lasīšanas skata ierakstus starp grāmatzīmēm arī nesaistē.">
+<!ENTITY helper_first_offline_bookmark_button "Iet uz grāmatzīmēm">
