@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "а">
 <!ENTITY retentionKeepRecent.label "Обриши све осим најновијих">
 <!ENTITY retentionKeepRecent.accesskey "р">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Увек бриши прочитане поруке (премошћује подешавања старости)">
 <!ENTITY retentionApplyToFlagged.label "Увек чувај поруке са звездицом">
 <!ENTITY retentionApplyToFlagged.accesskey "е">
 
