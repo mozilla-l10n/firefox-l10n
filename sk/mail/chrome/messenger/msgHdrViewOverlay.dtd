@@ -73,22 +73,22 @@
 <!ENTITY startExpandedCmd.accesskey    "Z">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label "Otvoriť">
-<!ENTITY openAttachmentCmd.accesskey "O">
-<!ENTITY saveAsAttachmentCmd.label "Uložiť ako…">
-<!ENTITY saveAsAttachmentCmd.accesskey "a">
-<!ENTITY detachAttachmentCmd.label "Vyčleniť…">
+<!ENTITY openAttachmentCmd.label    "Otvoriť">
+<!ENTITY openAttachmentCmd.accesskey    "O">
+<!ENTITY saveAsAttachmentCmd.label    "Uložiť ako…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "a">
+<!ENTITY detachAttachmentCmd.label    "Vyčleniť…">
 <!ENTITY detachAttachmentCmd.accesskey    "e">
-<!ENTITY deleteAttachmentCmd.label "Odstrániť">
+<!ENTITY deleteAttachmentCmd.label    "Odstrániť">
 <!ENTITY deleteAttachmentCmd.accesskey    "s">
 <!ENTITY openAllAttachmentsCmd.label    "Otvoriť všetky prílohy…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
-<!ENTITY saveAllAttachmentsCmd.label "Uložiť všetky prílohy…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "U">
-<!ENTITY detachAllAttachmentsCmd.label "Vyčleniť všetky prílohy…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "V">
-<!ENTITY deleteAllAttachmentsCmd.label "Odstrániť všetky prílohy…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "d">
+<!ENTITY saveAllAttachmentsCmd.label    "Uložiť všetky prílohy…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "U">
+<!ENTITY detachAllAttachmentsCmd.label    "Vyčleniť všetky prílohy…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "V">
+<!ENTITY deleteAllAttachmentsCmd.label    "Odstrániť všetky prílohy…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "d">
 
 <!ENTITY openAttachment.tooltip "Otvoriť priložený súbor">
 
@@ -98,8 +98,8 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Uložiť všetko">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Uložiť všetky priložené súbory">
 
-<!ENTITY copyLinkCmd.label "Kopírovať adresu odkazu">
-<!ENTITY copyLinkCmd.accesskey "K">
+<!ENTITY copyLinkCmd.label        "Kopírovať adresu odkazu">
+<!ENTITY copyLinkCmd.accesskey    "K">
 
 <!ENTITY CopyMessageId.label "Kopírovať ID správy">
 <!ENTITY CopyMessageId.accesskey "K">

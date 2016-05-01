@@ -6,7 +6,7 @@
 <!ENTITY enableStartPage.label            "Pri štarte &brandShortName;u zobraziť stránku v oblasti správy">
 <!ENTITY enableStartPage.accesskey        "z">
 <!ENTITY location.label                   "Adresa:">
-<!ENTITY location1.accesskey              "A">
+<!ENTITY location1.accesskey               "A">
 <!ENTITY useDefault.label                 "Obnoviť predvolenú">
 <!ENTITY useDefault.accesskey             "d">
 
@@ -16,7 +16,7 @@
 
 <!ENTITY newMessagesArrive.label          "Pri prijatí novej správy">
 <!ENTITY playSound.label                  "Prehrať zvuk">
-<!ENTITY playSound1.accesskey             "h">
+<!ENTITY playSound1.accesskey              "h">
 <!ENTITY showAnimatedAlert.label          "Zobraziť upozornenie">
 <!ENTITY showAnimatedAlert.accesskey      "b">
 <!ENTITY customizeMailAlert.label         "Prispôsobiť…">
