@@ -37,6 +37,12 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "El acceso al archivo fue denegado">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Puede haber sido removido o movido, o puede que los permisos del archivo prevengan el acceso.</li>
+</ul>
+">
 
 <!ENTITY generic.title "¡Diantres!">
 <!ENTITY generic.longDesc "
@@ -130,6 +136,7 @@
   <li>Por favor, contacte a los propietarios del sitio web para informarles de este problema.</li>
 </ul>">
 
+<!ENTITY certerror.longpagetitle1 "Su conexión no es segura">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
