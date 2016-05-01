@@ -190,7 +190,7 @@
 <!ENTITY pref_category_home_summary "Tilpas din startskærm">
 <!ENTITY pref_category_home_panels "Paneler">
 <!ENTITY pref_category_home_add_ons "Tilføjelser">
-<!ENTITY pref_home_updates2 "Opdateringer af Indhold">
+<!ENTITY pref_home_updates2 "Opdateringer af indhold">
 <!ENTITY pref_home_updates_enabled "Aktiveret">
 <!ENTITY pref_home_updates_wifi "Kun via wi-fi">
 <!ENTITY pref_category_home_homepage "Startside">
@@ -226,7 +226,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktiver, men stop 3. parts cookies">
 <!ENTITY pref_cookies_disabled "Deaktiveret">
 
-<!ENTITY pref_category_data_saver "Data-gemmerr">
+<!ENTITY pref_category_data_saver "Data-gemmer">
 <!ENTITY pref_category_media "Medie">
 <!ENTITY pref_category_developer_tools "Udviklerværktøjer">
 
