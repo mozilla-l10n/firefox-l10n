@@ -149,7 +149,7 @@
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Власник <span class='hostname'/> је неправилно подесио вебсајт. Да бисмо заштитили ваше информације од крађе, &brandShortName; се није повезао на овај вебсајт.">
+<!ENTITY certerror.introPara "Власник <span class='hostname'/> је неправилно подесио веб сајт. Да бисмо заштитили ваше информације од крађе, &brandShortName; се није повезао на овај веб сајт.">
 
 <!ENTITY sharedLongDesc "
 <ul>
