@@ -14,7 +14,7 @@
 <!ENTITY paneComposition.title    "編輯">
 <!ENTITY paneChat.title           "聊天">
 <!ENTITY paneAttachments.title    "附件">
-<!ENTITY panePrivacy.title        "隱私">
+<!ENTITY panePrivacy.title        "個人隱私">
 <!ENTITY paneSecurity.title       "安全性">
 <!ENTITY paneAdvanced.title       "進階">
 <!ENTITY paneAccount.title        "帳號">
