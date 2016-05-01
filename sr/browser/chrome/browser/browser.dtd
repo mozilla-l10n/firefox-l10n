@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Претплата на ову страницу…">
 <!ENTITY addCurPagesCmd.label "Забележи све језичке…">
 <!ENTITY showAllBookmarks2.label "Прикажи све забелешке">
-<!ENTITY unsortedBookmarksCmd.label "Неразврстане забелешке">
+<!ENTITY recentBookmarks.label "Недавно забележене">
+<!ENTITY otherBookmarksCmd.label "Остале забелешке">
 <!ENTITY bookmarksToolbarChevron.tooltip "Прикажи још забелешки">
 
 <!ENTITY backCmd.label                "Назад">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Прикажи поруке за складиштење ван мреже">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Управљај са информацијама за пријаву">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Обележите ако желите да снимите вашу лозинку">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Прикажи поруку за инсталацију апликације">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Управљај употребом додатака на овој страници">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Промените да ли сајт може да приказује обавештења">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Забелешке">
-<!ENTITY bookmarksMenuButton.unsorted.label "Неразврстане забелешке">
+<!ENTITY bookmarksMenuButton.other.label 	"Остале забелешке">
 <!ENTITY viewBookmarksSidebar2.label        "Прикажи у бочној палети">
 <!ENTITY viewBookmarksToolbar.label         "Прикажи траку са забелешкама">
 
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Програмер">
 <!ENTITY webDeveloperMenu.accesskey   "г">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY devtoolsConnect.label        "Connect…">
-<!ENTITY devtoolsConnect.accesskey    "e">
-
-<!ENTITY errorConsoleCmd.label        "Error Console">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-
-<!ENTITY remoteWebConsoleCmd.label    "Remote Web Console">
-
-<!ENTITY browserConsoleCmd.label      "Browser Console">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
-
 <!ENTITY inspectContextMenu.label     "Испитај елеменат">
 <!ENTITY inspectContextMenu.accesskey "И">
-
-<!ENTITY responsiveDesignTool.label   "Responsive Design View">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Eyedropper">
-<!ENTITY eyedropper.accesskey "Y">
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "s">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Browser Toolbox">
-<!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY browserToolboxCmd.commandkey "i">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Browser Content Toolbox">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
-<!ENTITY devToolbarMenu.label              "Developer Toolbar">
-<!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
-<!ENTITY devToolboxMenuItem.accesskey      "T">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
-<!ENTITY devToolbarOtherToolsButton.label  "More Tools">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Get More Tools">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "Датотека"> 
 <!ENTITY fileMenu.accesskey       "Д">
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Отвори мени за помоћ">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронизовани језичци">
-<!ENTITY appMenuRemoteTabs.fetching.label "Преузимам синхронизоване језичке…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Нема отворених језичака">
@@ -420,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Пријавите се на Firefox са других уређаја да видите њихове језичке.">
+<!ENTITY appMenuRemoteTabs.noclients.title "Нема синхронизованих језичака…">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Желите да овде видите језичке са осталих уређаја?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Поставке синхронизације">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Пријавите се да видите листу језичака са других уређаја.">
 <!ENTITY appMenuRemoteTabs.signin.label "Пријави се на Sync">
@@ -795,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Синхронизовани језичци">
 
 <!ENTITY syncedTabs.sidebar.label              "Синхронизовани језичци">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Преузимам синхронизоване језичке…">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Пријавите се на Firefox са других уређаја да видите њихове језичке.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Нема синхронизованих језичака…">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Желите да овде видите језичке са осталих уређаја?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Пријавите се да видите листу језичака са других уређаја.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Нема отворених језичака">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Отвори &syncBrand.shortName.label; поставке">
@@ -804,10 +734,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Укључите синхронизацију језичака да видите листу језичака са других уређаја.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Отвори овај језичак">
-<!ENTITY syncedTabs.context.openTab.accesskey               "О">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Забележи овај језичак…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "З">
+<!ENTITY syncedTabs.context.open.label                       "Отвори">
+<!ENTITY syncedTabs.context.open.accesskey                   "О">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Отвори у новом језичку">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "ј">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Отвори у новом прозору">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "н">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Отвори у новом приватном прозору">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "п">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Забележи овај језичак…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "З">
+<!ENTITY syncedTabs.context.copy.label                       "Копирај">
+<!ENTITY syncedTabs.context.copy.accesskey                   "К">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
