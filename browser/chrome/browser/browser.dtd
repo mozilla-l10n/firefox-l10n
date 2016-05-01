@@ -349,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "还没有已同步的标签页！">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "想看到您在其他设备上的标签页吗？">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "想查看您在其他设备上的标签页吗？">
 <!ENTITY appMenuRemoteTabs.openprefs.label "同步服务首选项">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "登录以查看来自您的其他设备的标签页列表。">
 <!ENTITY appMenuRemoteTabs.signin.label "登录同步服务">
@@ -726,8 +726,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "受同步的标签页">
 <!ENTITY syncedTabs.sidebar.noclients.label    "在这里查看您在其他设备上登录的 Firefox 的标签页。">
 <!ENTITY syncedTabs.sidebar.noclients.title    "还没有已同步的标签页！">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "想看到您在其他设备上的标签页吗？">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "登录以查看您的其他设备上的标签页列表。">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "想查看您在其他设备上的标签页吗？">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "登录即可查看您的其他设备上的标签页列表。">
 <!ENTITY syncedTabs.sidebar.notabs.label       "没有已打开的标签页">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "打开 &syncBrand.shortName.label; 首选项">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
