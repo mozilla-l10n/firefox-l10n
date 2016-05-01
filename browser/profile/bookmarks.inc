@@ -10,16 +10,16 @@
 # live.
 
 
-#define bookmarks_title Yer imleri
+#define bookmarks_title Yer İmleri
 
 
-#define bookmarks_heading Yer imleri
+#define bookmarks_heading Yer İmleri
 
 
-#define bookmarks_toolbarfolder Yer İmi Araç Çubuğu Dizini
+#define bookmarks_toolbarfolder Yer İmleri araç çubuğu klasörü
 
 
-#define bookmarks_toolbarfolder_description Bu dizine yer imi araç çubuğunda gösterilecek yer imlerini ekleyin
+#define bookmarks_toolbarfolder_description Bu klasöre Yer İmleri araç çubuğunda gösterilecek yer imlerini ekleyin
 
 
 # LOCALIZATION NOTE (getting_started):

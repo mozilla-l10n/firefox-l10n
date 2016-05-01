@@ -19,7 +19,7 @@
 <!ENTITY profilePrompt.accesskey        "e">
 <!ENTITY profileDirectoryExplanation.text   "Kullanıcı ayarlarınız, yer imleriniz ve parolalarınız burada kayıtlı olacak:">
 <!ENTITY profileDefaultName             "Varsayılan kullanıcı">
-<!ENTITY button.choosefolder.label      "Dizin seç…">
+<!ENTITY button.choosefolder.label      "Klasör seç…">
 <!ENTITY button.choosefolder.accesskey  "s">
-<!ENTITY button.usedefault.label        "Varsayılan dizini kullan">
-<!ENTITY button.usedefault.accesskey    "d">
+<!ENTITY button.usedefault.label        "Varsayılan klasörü kullan">
+<!ENTITY button.usedefault.accesskey    "k">

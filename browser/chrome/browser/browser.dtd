@@ -75,9 +75,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Menü çubuğu">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Gezinti araç çubuğu">
-<!ENTITY personalbarCmd.label "Yer imi araç çubuğu">
+<!ENTITY personalbarCmd.label "Yer imleri araç çubuğu">
 <!ENTITY personalbarCmd.accesskey "Y">
-<!ENTITY bookmarksToolbarItem.label "Yer imi araç çubuğu öğeleri">
+<!ENTITY bookmarksToolbarItem.label "Yer imleri araç çubuğu öğeleri">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Tüm sekmeleri tazele">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "T">
@@ -225,8 +225,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Yer imleri">
 <!ENTITY bookmarksMenuButton.other.label "Diğer yer imleri">
-<!ENTITY viewBookmarksSidebar2.label        "Yer imi kenar çubuğunu göster">
-<!ENTITY viewBookmarksToolbar.label         "Yer imi araç çubuğunu göster">
+<!ENTITY viewBookmarksSidebar2.label        "Yer İmleri kenar çubuğunu göster">
+<!ENTITY viewBookmarksToolbar.label         "Yer İmleri araç çubuğunu göster">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -353,7 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Eşitleme Tercihleri">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync’e giriş yapın">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Eşitlenmiş sekmeler kenar çubuğunu göster">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Kenar çubuğunda göster">
 
 <!ENTITY customizeMenu.addToToolbar.label "Araç çubuğuna ekle">
 <!ENTITY customizeMenu.addToToolbar.accesskey "e">
