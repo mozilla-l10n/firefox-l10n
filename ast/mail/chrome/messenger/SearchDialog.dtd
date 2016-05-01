@@ -2,35 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchHeading.label "Guetar mensaxes en:">
-<!ENTITY searchHeading.accesskey "G">
-<!ENTITY searchSubfolders.label "Guetar subcarpetes">
-<!ENTITY searchSubfolders.accesskey "c">
-<!ENTITY searchOnServer.label "Executar gueta nel sirvidor">
-<!ENTITY searchOnServer.accesskey "s">
-<!ENTITY resetButton.label "Llimpiar">
-<!ENTITY resetButton.accesskey "L">
-<!ENTITY openButton.label "Abrir">
-<!ENTITY openButton.accesskey "A">
-<!ENTITY deleteButton.label "Desaniciar">
-<!ENTITY deleteButton.accesskey "D">
-<!ENTITY searchDialogTitle.label "Guetar mensaxes">
-<!ENTITY results.label "Resultaos">
-<!ENTITY closeCmd.key "W">
-<!ENTITY openInFolder.label "Abrir en carpeta">
-<!ENTITY openInFolder.accesskey "i">
-<!ENTITY saveAsVFButton.label "Guardar como carpeta de gueta">
-<!ENTITY saveAsVFButton.accesskey "G">
-<!ENTITY abSearchHeading.label "Guetar en:">
-<!ENTITY abSearchHeading.accesskey "n">
-<!ENTITY propertiesButton.label "Propiedaes">
-<!ENTITY propertiesButton.accesskey "P">
-<!ENTITY composeButton.label "Redactar">
-<!ENTITY composeButton.accesskey "R">
-<!ENTITY abSearchDialogTitle.label "Gueta avanzada na llibreta de direiciones">
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Guetar mensaxes en:">
+<!ENTITY searchHeading.accesskey     "G">
+<!ENTITY searchSubfolders.label      "Guetar subcarpetes">
+<!ENTITY searchSubfolders.accesskey  "c">
+<!ENTITY searchOnServer.label        "Executar gueta nel sirvidor">
+<!ENTITY searchOnServer.accesskey    "s">
+<!ENTITY resetButton.label           "Llimpiar">
+<!ENTITY resetButton.accesskey       "L">
+<!ENTITY openButton.label            "Abrir">
+<!ENTITY openButton.accesskey        "A">
+<!ENTITY deleteButton.label          "Desaniciar">
+<!ENTITY deleteButton.accesskey      "D">
+<!ENTITY searchDialogTitle.label     "Guetar mensaxes">
+<!ENTITY results.label               "Resultaos">
+<!ENTITY moveButton.label            "Mover a">
+<!ENTITY moveButton.accesskey        "M">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Abrir en carpeta">
+<!ENTITY openInFolder.accesskey      "i">
+<!ENTITY saveAsVFButton.label        "Guardar como carpeta de gueta">
+<!ENTITY saveAsVFButton.accesskey    "G">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Guetar en:">
+<!ENTITY abSearchHeading.accesskey   "n">
+<!ENTITY propertiesButton.label      "Propiedaes">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "Redactar">
+<!ENTITY composeButton.accesskey     "R">
+<!ENTITY deleteCardButton.label      "Desaniciar">
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY abSearchDialogTitle.label   "Gueta avanzada na llibreta de direiciones">
+
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Conversación">
 <!ENTITY fromColumn.label "Remitente">
 <!ENTITY recipientColumn.label "Destinatariu">
+<!ENTITY correspondentColumn.label "Correspondientes">
 <!ENTITY subjectColumn.label "Asuntu">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Prioridá">
@@ -46,26 +56,25 @@
 <!ENTITY starredColumn.label "Con estrella">
 <!ENTITY locationColumn.label "Llocalización">
 <!ENTITY idColumn.label "Orde de receición">
-<!ENTITY moveButton.label "Mover a">
-<!ENTITY moveButton.accesskey "M">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Esbilla les columnes que quies amosar">
+<!ENTITY threadColumn2.tooltip "Amosar conversaciones de mensaxes">
+<!ENTITY fromColumn2.tooltip "Ordenar por remitente">
+<!ENTITY recipientColumn2.tooltip "Ordenar por destinatariu">
+<!ENTITY correspondentColumn2.tooltip "Ordenar per correspondientes">
+<!ENTITY subjectColumn2.tooltip "Ordenar por asuntu">
+<!ENTITY dateColumn2.tooltip "Ordenar por data">
+<!ENTITY priorityColumn2.tooltip "Ordenar por prioridá">
+<!ENTITY tagsColumn2.tooltip "Ordenar por etiquetes">
+<!ENTITY accountColumn2.tooltip "Ordenar por cuenta">
+<!ENTITY statusColumn2.tooltip "Ordenar por estáu">
+<!ENTITY sizeColumn2.tooltip "Ordenar por tamañu">
+<!ENTITY junkStatusColumn2.tooltip "Ordenar por estáu de corréu puxarra">
 <!ENTITY unreadColumn2.tooltip "Númberu de mensaxes ensin lleer nuna conversación">
 <!ENTITY totalColumn2.tooltip "Númberu total de mensaxes na conversación">
-<!ENTITY threadColumn2.tooltip "Amosar conversaciones de mensaxes">
-<!ENTITY tagsColumn2.tooltip "Ordenar por etiquetes">
-<!ENTITY subjectColumn2.tooltip "Ordenar por asuntu">
-<!ENTITY statusColumn2.tooltip "Ordenar por estáu">
-<!ENTITY starredColumn2.tooltip "Ordenar por estrella">
-<!ENTITY sizeColumn2.tooltip "Ordenar por tamañu">
-<!ENTITY recipientColumn2.tooltip "Ordenar por destinatariu">
-<!ENTITY receivedColumn2.tooltip "Ordenar por data de receición">
 <!ENTITY readColumn2.tooltip "Ordenar por lleíos/non lleíos">
-<!ENTITY priorityColumn2.tooltip "Ordenar por prioridá">
+<!ENTITY receivedColumn2.tooltip "Ordenar por data de receición">
+<!ENTITY starredColumn2.tooltip "Ordenar por estrella">
 <!ENTITY locationColumn2.tooltip "Ordenar por llocalización">
-<!ENTITY junkStatusColumn2.tooltip "Ordenar por estáu de corréu puxarra">
 <!ENTITY idColumn2.tooltip "Ordenar por orde de receición">
-<!ENTITY fromColumn2.tooltip "Ordenar por remitente">
-<!ENTITY deleteCardButton.label "Desaniciar">
-<!ENTITY deleteCardButton.accesskey "D">
-<!ENTITY dateColumn2.tooltip "Ordenar por data">
-<!ENTITY columnChooser2.tooltip "Esbilla les columnes que quies amosar">
-<!ENTITY accountColumn2.tooltip "Ordenar por cuenta">

@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- File menu items -->
 <!ENTITY openFileCmd.label "Abrir ficheru…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.key "O">
@@ -14,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Guardar como…">
 <!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsChangeEncodingCmd.label "Guardar y camudar la codificación de caráuteres">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
+<!ENTITY saveAsChangeEncodingCmd2.label "Guardar y camudar codificación de testu">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "c">
 <!ENTITY publishCmd.label "Espublizar">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
@@ -24,12 +25,14 @@
 <!ENTITY fileRevert.label "Revertir">
 <!ENTITY fileRevert.accesskey "t">
 
+<!-- Edit menu items -->
 <!ENTITY publishSettings.label "Axustes d'espublización…">
 <!ENTITY publishSettings.accesskey "b">
+
+<!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nuevu">
 <!ENTITY newToolbarCmd.tooltip "Crear una nueva páxina de Composer">
 <!ENTITY openToolbarCmd.label "Abrir">
 <!ENTITY openToolbarCmd.tooltip "Abrir un ficheru llocal">
 <!ENTITY saveToolbarCmd.tooltip "Guardar ficheru llocalmente">
 <!ENTITY publishToolbarCmd.tooltip "Xubir ficheru a allugamientu remotu">
-
