@@ -18,7 +18,7 @@
 <!ENTITY firstrun_sync_message "&brandShortName;, doimo siz tomonda">
 <!ENTITY firstrun_sync_subtext "Ichki oyna, parol va boshqa kerakli xususiyatlarni hamma joyda foydalanish uchun sinxronlashingiz mumkin.">
 <!ENTITY firstrun_signin_message "Ulaning va boshlang">
-<!ENTITY firstrun_signin_button "Sinxronlash uchun tizimga kiring">
+<!ENTITY firstrun_signin_button "Sinxronlash uchun tizimga kirish">
 <!ENTITY  onboard_start_button_browser "Ko‘rishni boshlash">
 <!ENTITY firstrun_button_next "Keyingi">
 
