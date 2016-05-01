@@ -264,7 +264,7 @@
 <!ENTITY prevUnreadMsgCmd.label "未讀郵件">
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goBackCmd.label "上一步">
+<!ENTITY goBackCmd.label "上一頁">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.label "下一頁">
