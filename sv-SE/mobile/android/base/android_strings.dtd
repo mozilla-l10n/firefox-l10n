@@ -33,7 +33,7 @@
 
 <!ENTITY  bookmarks_title "Bokmärken">
 <!ENTITY  history_title "Historik">
-
+<!ENTITY  reading_list_title "Läslista">
 <!ENTITY  recent_tabs_title "Senaste flikarna">
 
 <!ENTITY  switch_to_tab "Byt till flik">
@@ -67,12 +67,14 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-
+<!ENTITY screenshot_folder_label_in_bookmarks "Skärmdump">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Läslista">
 
 <!ENTITY reader_saved_offline "Sparad offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Växla">
 
 <!ENTITY history_today_section "Idag">
 <!ENTITY history_yesterday_section "Igår">
@@ -111,7 +113,7 @@
 <!ENTITY settings "Inställningar">
 <!ENTITY settings_title "Inställningar">
 <!ENTITY pref_category_general "Allmänt">
-
+<!ENTITY pref_category_general_summary3 "Hem, språk, flik kö">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -150,15 +152,15 @@
 <!ENTITY overlay_no_synced_devices "Inga Firefox-Konto anslutna enheter hittades">
 
 <!ENTITY pref_category_search3 "Sök">
-
+<!ENTITY pref_category_search_summary2 "Lägg till, sätt standard, visa förslag">
 <!ENTITY pref_category_accessibility "Tillgänglighet">
 <!ENTITY pref_category_accessibility_summary2 "Textstorlek, zoom, röstinmatning">
 <!ENTITY pref_category_privacy_short "Integritet">
-
+<!ENTITY pref_category_privacy_summary4 "Spårning, kakor, dataval">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Om &brandShortName;, FAQs, feedback">
 <!ENTITY pref_category_datareporting "Dataalternativ">
-
+<!ENTITY pref_category_logins "Inloggningar ">
 <!ENTITY pref_learn_more "Läs mer">
 <!ENTITY pref_category_installed_search_engines "Installerade sökmotorer">
 <!ENTITY pref_category_add_search_providers "Lägg till fler söktjänster">
@@ -171,9 +173,9 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_category_advanced "Avancerat">
-
+<!ENTITY pref_category_advanced_summary3 "Återställ flikar, insticksmoduler, utvecklarverktyg">
 <!ENTITY pref_category_notifications "Notifieringar">
-
+<!ENTITY pref_category_notifications_summary "Nya funktioner, webbplatsuppdateringar">
 <!ENTITY pref_content_notifications "Webbplatsuppdateringar">
 <!ENTITY pref_content_notifications_summary2 "Upptäck nytt innehåll från webbplatser som stöds">
 <!ENTITY pref_developer_remotedebugging_usb "Fjärrfelsökning via USB">
@@ -185,7 +187,7 @@
 <!ENTITY pref_category_home "Startsida">
 <!ENTITY pref_category_home_summary "Anpassa startsidan">
 <!ENTITY pref_category_home_panels "Paneler">
-
+<!ENTITY pref_category_home_add_ons "Tillägg">
 <!ENTITY pref_home_updates2 "Innehållsuppdateringar">
 <!ENTITY pref_home_updates_enabled "Aktiverad">
 <!ENTITY pref_home_updates_wifi "Endast via Wi-Fi">
@@ -223,7 +225,7 @@
 <!ENTITY pref_cookies_disabled "Inaktiverade">
 
 <!ENTITY pref_category_media "Media">
-
+<!ENTITY pref_category_developer_tools "Utvecklarverktyg">
 
 <!ENTITY pref_tap_to_load_images_title2 "Visa bilder">
 <!ENTITY pref_tap_to_load_images_enabled "Alltid">
@@ -233,6 +235,7 @@
 <!ENTITY pref_show_web_fonts "Visa webbfonter">
 <!ENTITY pref_show_web_fonts_summary2 "Ladda ner externa typsnitt vid laddning av sida">
 
+<!ENTITY pref_tracking_protection_title2 "Spårnings skydd">
 <!ENTITY pref_tracking_protection_summary3 "Påslaget i privat surfning">
 <!ENTITY pref_donottrack_title "Spåra inte">
 <!ENTITY pref_donottrack_summary "&brandShortName; kommer att informera hemsidor att du inte vill bli spårad">
@@ -241,6 +244,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Påslaget i privat surfning">
 <!ENTITY pref_tracking_protection_disabled "Inaktiverad">
 
+<!ENTITY pref_whats_new_notification "Flik sparad i &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Läs mer om nya funktioner efter en uppdatering">
 
 <!ENTITY tracking_protection_prompt_title "Nu med Spårnings skydd">
@@ -261,7 +265,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Gå till Inställningar">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -275,6 +279,7 @@
 
 <!ENTITY tab_queue_notification_settings "För att \&quot;Öppna flera länkar\&quot;, aktivera \u0027Rita över andra appar\u0027 tillståndet för &brandShortName;">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
@@ -297,7 +302,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Välj vilken data som ska rensas">
 <!ENTITY pref_plugins "Insticksmoduler">
 <!ENTITY pref_plugins_enabled "Aktiverad">
-
+<!ENTITY pref_plugins_tap_to_play2 "Tryck för att spela">
 <!ENTITY pref_plugins_disabled "Inaktiverat">
 <!ENTITY pref_text_size "Textstorlek">
 <!ENTITY pref_restore_tabs "Återställ flikar">
@@ -393,6 +398,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Automatiska uppdateringar">
 <!ENTITY pref_update_autodownload_wifi "Endast via Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Aldrig">
 <!ENTITY pref_update_autodownload_always "Alltid">
@@ -403,7 +409,7 @@ size. -->
 <!ENTITY quit "Avsluta">
 
 <!ENTITY addons "Tillägg">
-
+<!ENTITY logins "Inloggningar">
 <!ENTITY downloads "Hämtningar">
 <!ENTITY char_encoding "Teckenkodning">
 
@@ -566,6 +572,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Skriv in ett söknyckelord">
 
+<!ENTITY filepicker_title "Välj fil">
 <!ENTITY filepicker_audio_title "Välj eller spela in ett ljud">
 <!ENTITY filepicker_image_title "Välj eller ta en bild">
 <!ENTITY filepicker_video_title "Välj eller spela in en video">
@@ -594,6 +601,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "Vissa komponenter av den här sidan är inte säkra (t.ex. bilder).">
 <!ENTITY mixed_content_protection_disabled1 "Du har stängt av skydden från osäkra komponenter.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "Spårnings skydd">
 <!ENTITY doorhanger_tracking_state_enabled "Aktiverad">
 <!ENTITY doorhanger_tracking_state_disabled "Inaktiverade">
 <!ENTITY doorhanger_tracking_message_enabled1 "Försök att spåra din online aktivitet har blivit blockerad.">
@@ -758,6 +767,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; är redan uppdaterad">
 <!ENTITY whatsnew_notification_summary "Se vad som är nytt i den här versionen">
 
+<!ENTITY promotion_add_to_homescreen "Lägg till på startsidan">
 
 <!ENTITY helper_first_offline_bookmark_title "Läs offline">
 <!ENTITY helper_first_offline_bookmark_message "Hitta innehållet i din läsvy i bokmärken, även offline.">
