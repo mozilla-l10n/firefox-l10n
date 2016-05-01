@@ -11,8 +11,13 @@
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+<!ENTITY  enableSafeBrowsing.label        "Bloquear conteúdo perigoso e malicioso">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "Bloquear downloads perigosos">
+<!ENTITY  blockDownloads.accesskey        "d">
 
+<!ENTITY  blockUncommonUnwanted.label     "Quero receber avisos sobre software incomum e indesejado">
 
 <!ENTITY  addonExceptions.label         "Exceções…">
 <!ENTITY  addonExceptions.accesskey     "E">
@@ -21,14 +26,14 @@
 <!ENTITY  logins.label                  "Logins">
 
 <!ENTITY  rememberLogins.label          "Memorizar logins de sites">
-<!ENTITY  rememberLogins.accesskey      "M">
+<!ENTITY  rememberLogins.accesskey      "r">
 <!ENTITY  passwordExceptions.label      "Exceções…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
 <!ENTITY  useMasterPassword.label        "Usar uma senha mestra">
-<!ENTITY  useMasterPassword.accesskey    "s">
+<!ENTITY  useMasterPassword.accesskey    "U">
 <!ENTITY  changeMasterPassword.label     "Alterar senha mestra…">
-<!ENTITY  changeMasterPassword.accesskey "d">
+<!ENTITY  changeMasterPassword.accesskey "m">
 
 <!ENTITY  savedLogins.label              "Logins salvos…">
 <!ENTITY  savedLogins.accesskey          "L">

@@ -42,10 +42,10 @@
 
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Continuar">
-<!ENTITY cmd.resume.accesskey             "o">
+<!ENTITY cmd.resume.label                 "Resumir">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Cancelar">
-<!ENTITY cmd.cancel.accesskey             "a">
+<!ENTITY cmd.cancel.accesskey             "C">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
@@ -53,22 +53,24 @@
      -->
 <!ENTITY cmd.show.label                   "Abrir pasta">
 <!ENTITY cmd.show.accesskey               "r">
-<!ENTITY cmd.showMac.label                "Abrir no Finder">
-<!ENTITY cmd.showMac.accesskey            "r">
+<!ENTITY cmd.showMac.label                "Mostrar no Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "Reiniciar">
 <!ENTITY cmd.goToDownloadPage.label       "Abrir página de download">
 <!ENTITY cmd.goToDownloadPage.accesskey   "b">
 <!ENTITY cmd.copyDownloadLink.label       "Copiar link do download">
-<!ENTITY cmd.copyDownloadLink.accesskey   "C">
+<!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Excluir da lista">
-<!ENTITY cmd.removeFromHistory.accesskey  "x">
+<!ENTITY cmd.removeFromHistory.accesskey  "E">
 <!ENTITY cmd.clearList.label              "Limpar lista">
-<!ENTITY cmd.clearList.accesskey          "m">
+<!ENTITY cmd.clearList.accesskey          "a">
 <!ENTITY cmd.clearDownloads.label         "Limpar downloads">
-<!ENTITY cmd.clearDownloads.accesskey     "L">
+<!ENTITY cmd.clearDownloads.accesskey     "d">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
+<!ENTITY cmd.unblock2.label               "Permitir download">
+<!ENTITY cmd.unblock2.accesskey           "o">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
@@ -78,11 +80,13 @@
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
+<!ENTITY cmd.chooseUnblock.label          "Remover arquivo ou permitir o download">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
+<!ENTITY cmd.chooseOpen.label             "Abrir ou remover arquivo">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
@@ -102,8 +106,8 @@
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
-<!ENTITY downloadsHistory.label           "Exibir todos os downloads">
-<!ENTITY downloadsHistory.accesskey       "b">
+<!ENTITY downloadsHistory.label           "Mostrar todos os downloads">
+<!ENTITY downloadsHistory.accesskey       "s">
 
 <!ENTITY clearDownloadsButton.label       "Limpar downloads">
 <!ENTITY clearDownloadsButton.tooltip     "Limpar os downloads concluídos, cancelados e que falharam">
