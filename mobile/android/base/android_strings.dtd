@@ -235,7 +235,7 @@
 <!ENTITY pref_show_web_fonts "Visa webbfonter">
 <!ENTITY pref_show_web_fonts_summary2 "Ladda ner externa typsnitt vid laddning av sida">
 
-<!ENTITY pref_tracking_protection_title2 "Spårnings skydd">
+<!ENTITY pref_tracking_protection_title2 "Spårningsskydd">
 <!ENTITY pref_tracking_protection_summary3 "Påslaget i privat surfning">
 <!ENTITY pref_donottrack_title "Spåra inte">
 <!ENTITY pref_donottrack_summary "&brandShortName; kommer att informera hemsidor att du inte vill bli spårad">
@@ -247,8 +247,8 @@
 <!ENTITY pref_whats_new_notification "Flik sparad i &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Läs mer om nya funktioner efter en uppdatering">
 
-<!ENTITY tracking_protection_prompt_title "Nu med Spårnings skydd">
-<!ENTITY tracking_protection_prompt_text "Aktivt blockera spårnings element så att du inte behöver oroa dig.">
+<!ENTITY tracking_protection_prompt_title "Nu med Spårningsskydd">
+<!ENTITY tracking_protection_prompt_text "Aktivt blockera spårningselement så att du inte behöver oroa dig.">
 <!ENTITY tracking_protection_prompt_tip_text "Besök Integritets inställningar för att lära dig mer ">
 <!ENTITY tracking_protection_prompt_action_button "Jag fattar!">
 
@@ -602,7 +602,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Du har stängt av skydden från osäkra komponenter.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY doorhanger_tracking_title2 "Spårnings skydd">
+<!ENTITY doorhanger_tracking_title2 "Spårningsskydd">
 <!ENTITY doorhanger_tracking_state_enabled "Aktiverad">
 <!ENTITY doorhanger_tracking_state_disabled "Inaktiverade">
 <!ENTITY doorhanger_tracking_message_enabled1 "Försök att spåra din online aktivitet har blivit blockerad.">
