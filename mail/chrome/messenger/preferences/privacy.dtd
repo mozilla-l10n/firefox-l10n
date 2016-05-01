@@ -6,7 +6,7 @@
 <!ENTITY captionMailContent.label "郵件內容">
 
 <!ENTITY acceptRemoteContent.label "允許在訊息中顯示遠端內容">
-<!ENTITY acceptRemoteContent.accesskey "A">
+<!ENTITY acceptRemoteContent.accesskey "m">
 <!ENTITY remoteContentExceptions.label "例外網站…">
 <!ENTITY remoteContentExceptions.accesskey "x">
 <!ENTITY acceptRemoteContentInfo.label "了解更多遠端內容的隱私風險">
