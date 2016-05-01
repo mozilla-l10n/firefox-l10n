@@ -39,6 +39,12 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Приступ датотеци је одбијен">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Можда је уклоњена, премештена или немате приступ датотеци.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Упс.">
 <!ENTITY generic.longDesc "
@@ -139,15 +145,11 @@
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Безбедна веза није успостављена">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>Ово може да буде проблем са подешавањима сервера, или може бити неко ко 
-покушава да се лажно представи као сервер.</li>
-  <li>Ако сте се раније успешно повезивали на овај сервер, грешка је онда можда
-привремена и можете покушати касније.</li>
-</ul>
-">
+<!ENTITY certerror.longpagetitle1 "Веза није сигурна">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara "Власник <span class='hostname'/> је неправилно подесио вебсајт. Да бисмо заштитили ваше информације од крађе, &brandShortName; се није повезао на овај вебсајт.">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -167,21 +169,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>Страница коју желите да погледате не може бити приказана услед грешке у преносу података.</p><ul><li>Обратите се власницима веб странице и обавестите их о проблему.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Или можете додати изузетак…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Води ме одавде!">
 <!ENTITY securityOverride.exceptionButtonLabel "Додај изузетак…">
-
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-<!ENTITY securityOverride.warningContent "
-<p>Не бисте требали да додајете изузетак ако користите интернет везу којој не верујете потпуно или ако нисте навикли да виђате упозорења за овај сервер.</p>
- 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
 
 <!ENTITY errorReporting.automatic2 "Аутоматски пријавите грешке да бисте помогли Mozilla-и да идентификује и блокира злонамере сајтове">
 <!ENTITY errorReporting.learnMore "Сазнајте више…">
@@ -201,3 +189,15 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoAdvanced.title "Напредно">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> користи технологију за безбедност која је застарела и рањива је на нападе. Нападач лако може доћи до ваших информација.">
 <!ENTITY weakCryptoAdvanced.override "(Није безбедно) Покушавате да учитате <span class='hostname'></span> користећи застарелу безбедност">
+
+<!ENTITY certerror.pagetitle1  "Несигурна веза">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "This site uses HTTP
+Strict Transport Security (HSTS) to specify that &brandShortName; only connect
+to it securely. As a result, it is not possible to add an exception for this
+certificate.">
+<!ENTITY certerror.copyToClipboard.label "Копирај текст на clipboard">
+
+<!ENTITY inadequateSecurityError.title "Веза није сугурна">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> користи технологију за безбедност која је застарела и рањива је на нападе. Нападач лако може да открије информације за које сте мислили да су сигурне. Администратор веб сајта ће морати да поправи сервер пре него што посетите овај сајт.</p><p>Код грешке: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
