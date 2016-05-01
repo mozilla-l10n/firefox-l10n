@@ -62,8 +62,8 @@
 <!ENTITY Home.accesskey                 "خ">
 <!ENTITY HomeAddress.label              "العنوان:">
 <!ENTITY HomeAddress.accesskey          "ن">
-<!ENTITY HomeAddress2.label             "">
-<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeAddress2.label             "​">
+<!ENTITY HomeAddress2.accesskey         "​">
 <!ENTITY HomeCity.label                 "المدينة:">
 <!ENTITY HomeCity.accesskey             "ة">
 <!ENTITY HomeState.label                "الولاية/المحافظة:">
@@ -76,11 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "ب">
 <!ENTITY Birthday.label                 "تاريخ الميلاد:">
 <!ENTITY Birthday.accesskey             "خ">
-<!ENTITY In.label                       "">
+<!ENTITY In.label                       "​">
 <!ENTITY Year.placeholder               "السنة">
 <!ENTITY Or.value                       "أو">
 <!ENTITY Age.placeholder                "العمر">
-<!ENTITY YearsOld.label                 "">
+<!ENTITY YearsOld.label                 "​">
 
 <!ENTITY Work.tab                       "العمل">
 <!ENTITY Work.accesskey                 "ع">
@@ -92,8 +92,8 @@
 <!ENTITY Company.accesskey              "ظ">
 <!ENTITY WorkAddress.label              "العنوان:">
 <!ENTITY WorkAddress.accesskey          "ل">
-<!ENTITY WorkAddress2.label             "">
-<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkAddress2.label             "​">
+<!ENTITY WorkAddress2.accesskey         "​">
 <!ENTITY WorkCity.label                 "المدينة:">
 <!ENTITY WorkCity.accesskey             "د">
 <!ENTITY WorkState.label                "الولاية/المحافظة:">

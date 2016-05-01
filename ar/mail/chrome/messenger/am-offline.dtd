@@ -48,9 +48,9 @@
 <!ENTITY allAutosync.accesskey           "ز">
 <!ENTITY ageAutosyncBefore.label         "زأمِن الأحدث">
 <!ENTITY ageAutosync.accesskey           "ث">
-<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY ageAutosyncMiddle.label         "​">
 <!ENTITY dayAgeInterval.label            "أيام">
 <!ENTITY weekAgeInterval.label           "أسابيع">
 <!ENTITY monthAgeInterval.label          "شهور">
 <!ENTITY yearAgeInterval.label           "سنين">
-<!ENTITY ageAutosyncAfter.label          "">
+<!ENTITY ageAutosyncAfter.label          "​">
