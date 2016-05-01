@@ -68,7 +68,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "记录历史">
 <!ENTITY  historyHeader.dontremember.label "不记录历史">
-<!ENTITY  historyHeader.custom.label       "使用自定义历史记录设置">
+<!ENTITY  historyHeader.custom.label       "使用自定义设置">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; 将会记录您的浏览、下载、表单和搜索历史，和保留来自您访问的网站的 Cookie。">
