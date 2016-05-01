@@ -10,8 +10,8 @@
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDescription.label "Pri správe svojich identít môžete použiť server z tohto zoznamu jeho zvolením ako Server odchádzajúcej pošty (SMTP), alebo môžete použiť tu nastavený predvolený server zvolením položky &quot;Použiť predvolený server&quot;.">
 
-<!ENTITY smtpListAdd.label "Pridať…">
-<!ENTITY smtpListAdd.accesskey "r">
+<!ENTITY smtpListAdd.label  "Pridať…">
+<!ENTITY smtpListAdd.accesskey  "r">
 <!ENTITY smtpListEdit.label "Upraviť…">
 <!ENTITY smtpListEdit.accesskey "U">
 <!ENTITY smtpListDelete.label "Odstrániť">
@@ -23,6 +23,6 @@
 <!ENTITY serverDescription.label "Popis: ">
 <!ENTITY serverName.label "Názov servera: ">
 <!ENTITY serverPort.label "Port: ">
-<!ENTITY userName.label "Používateľské meno: ">
+<!ENTITY userName.label   "Používateľské meno: ">
 <!ENTITY connectionSecurity.label "Zabezpečenie pripojenia: ">
 <!ENTITY authMethod.label   "Metóda overenia: ">

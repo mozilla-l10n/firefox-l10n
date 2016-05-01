@@ -35,6 +35,7 @@
 </ul>
 ">
 
+
 <!ENTITY generic.title "Problém.">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; nedokáže z nejakého dôvodu načítať stránku.</p>
@@ -144,26 +145,6 @@
   <li>Ak sú počítač alebo sieť chránené bránou firewall alebo serverom proxy, uistite sa, či má &brandShortName; povolený prístup k webu.</li>
 </ul>
 ">
-
-<!ENTITY malwareBlocked.title "Podozrivá škodlivá stránka!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Škodlivé stránky sa pokúšajú nainštalovať programy, ktoré kradnú súkromné údaje, používajú počítač na útoky na iné počítače alebo poškodzujú systém.</p>
-<p>Vlastníci stránok, ktorí si myslia, že ich stránky boli označené ako škodlivé neprávom, môžu <a href='http://www.stopbadware.org/home/reviewinfo' >požiadať o prehodnotenie</a>.</p>
-">
-
-<!ENTITY unwantedBlocked.title "Podozrivá stránka s nevyžiadaným softvérom!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Stránky s nevyžiadaným softvérom sa pokúšajú inštalovať softér, ktorý môže byť klamlivý a môže ovplyvňovať rôznymi spôsobmi celý systém.</p>
-">
-
-<!ENTITY phishingBlocked.title "Podozrivá stránka!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Ak na tejto stránke zadáte nejaké osobné údaje, môžu byť použité na krádež identity alebo inak zneužité.</p>
-<p>Tieto typy falošných stránok sa používajú na podvody, pri ktorých sa kombináciou webovej stránky a e-mailových správ napodobňujú dôveryhodné zdroje.</p>
-">
-
-<!ENTITY forbiddenBlocked.title "Zakázaná stránka">
-<!ENTITY forbiddenBlocked.longDesc "<p>Aplikácia &brandShortName; zabránila v načítaní tejto stránky, pretože je nastavené jej blokovanie.</p>">
 
 <!ENTITY cspBlocked.title "Blokované kvôli zásadám ochrany obsahu">
 <!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
