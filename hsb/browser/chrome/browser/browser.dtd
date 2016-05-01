@@ -168,8 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Tutu stronu abonować…">
 <!ENTITY addCurPagesCmd.label "Wšě rajtarki jako zapołožki…">
 <!ENTITY showAllBookmarks2.label "Wšě zapołožki pokazać">
-
-
+<!ENTITY recentBookmarks.label "Njedawno jako zapołožka wotpołoženy">
+<!ENTITY otherBookmarksCmd.label "Druhe zapołožki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Dalše zapołožki pokazać">
 
 <!ENTITY backCmd.label                "Wróćo">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Zapołožki">
-
+<!ENTITY bookmarksMenuButton.other.label "Druhe zapołožki">
 <!ENTITY viewBookmarksSidebar2.label        "Lajstu zapołožkow pokazać">
 <!ENTITY viewBookmarksToolbar.label         "Lajstu zapołožkow pokazać">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Wutřihać">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "Kopěrować">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Zasadźić">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "Z"> 
@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Hišće žane synchronizowane rajtarki…!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Chceće tu swoje rajtarki z druchich gratow widźeć?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Nastajenja synchronizować">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Přizjewće so, zo byšće sej lisćinu rajtarkow ze swojich druhich gratow wobhladał.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pola Sync přizjewić">
@@ -694,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Waš zwisk z tutym sydłom priwatny njeje. Druzy ludźo móhli Informacije widźeć, kotrež sćeleće (na přikład hesła, powěsće, kreditne karty atd.).">
 <!ENTITY identity.description.insecureLoginForms "Přizjewjenske informacije, kotrež na tutej stronje zapodawać, njejsu wěste a móhli so wothrozyć.">
 <!ENTITY identity.description.weakCipher "Waš zwisk z websydłom słabe zaklučowanje wužiwa a njeje priwatny.">
-
+<!ENTITY identity.description.weakCipher2 "Druzy ludźo móža sej waše informacije wobhladać abo zadźerženje websydła změnić.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; je dźěle tuteje strony zablokował, kotrež wěste njejsu.">
 <!ENTITY identity.description.passiveLoaded "Waš zwisk priwatny njeje a druzy móhli informacije widźeć, kotrež ze sydłom dźěliće.">
 <!ENTITY identity.description.passiveLoaded2 "Websydło wobsahuje wobsah, kotryž wěsty njeje (kaž na přikład wobrazy).">
@@ -724,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Synchronizowane rajtarki">
 
 <!ENTITY syncedTabs.sidebar.label              "Synchronizowane rajtarki">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Přizjewće so pola Firefox z wašich druhich gratow, zo byšće sej jich rajtarki tu wobhladał.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Hišće žane synchronizowane rajtarki…!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Chceće tu swoje rajtarki z druchich gratow widźeć?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Přizjewće so, zo byšće sej lisćinu rajtarkow ze swojich druhich gratow wobhladał.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Žane wočinjene rajtarki">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Nastajenja &syncBrand.shortName.label; wočinić">
@@ -734,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Synchronizowanje rajtarkow zapinać, zo by so lisćina rajtarkow z wašich druhich gratow pokazała.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Wočinić">
+<!ENTITY syncedTabs.context.open.accesskey                   "W">
+<!ENTITY syncedTabs.context.openInNewTab.label               "W nowym rajtarku wočinić">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "r">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "W nowym woknje wočinić">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "k">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Wotkaz w nowym priwatnym woknje wočinić">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "o">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Tutu stronu jako zapołožku składować…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "z">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Kopěrować">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
