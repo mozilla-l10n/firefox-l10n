@@ -619,11 +619,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Tamañu">
 <!ENTITY fullZoom.accesskey             "m">
 
-<!ENTITY sidebarCloseButton.tooltip     "Zarrar panel llateral">
+<!ENTITY sidebarCloseButton.tooltip     "Zarra'l panel llateral">
 
 <!ENTITY quitApplicationCmdWin2.label       "Salir">
 <!ENTITY quitApplicationCmdWin2.accesskey   "S">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Salir de &brandShorterName;">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Cola de &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Colar"> 
@@ -645,7 +645,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Estilu de páxina básicu">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Cambiar configuración de bloquéu de ventanes emerxentes pa esti sitiu web">
+<!ENTITY pageReportIcon.tooltip            "Camuda los axustes de bloquéu de ventanos emerxentes pa esti sitiu">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
