@@ -12,7 +12,7 @@
 <!ENTITY firstrun_bookmarks_message "Sevimli o‘yinlaringiz oldinda va markazda">
 <!ENTITY firstrun_bookmarks_subtext "Qidirayotganingizda xatcho‘plar va tarixdan natijalarni olishingiz mumkin.">
 <!ENTITY firstrun_data_title "Ma’lumot">
-<!ENTITY firstrun_data_message "Kam traffik sarflab, ko‘proq saqlash">
+<!ENTITY firstrun_data_message "Kam trafik sarflab, ko‘proq saqlash">
 <!ENTITY firstrun_data_subtext2 "Saytlarga kirganda trafikni tejash uchun rasmlarni bloklashingiz mumkin.">
 <!ENTITY firstrun_sync_title "Sinxronlash">
 <!ENTITY firstrun_sync_message "&brandShortName;, doimo siz tomonda">
@@ -24,6 +24,7 @@
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName;ning soddalashtirilgan versiyasi bilan osongina boshqaring va xavfsiz qoling.">
 
+<!ENTITY  reading_list_migration_title "O‘qish ro‘yxati ulandi">
 
 
 
