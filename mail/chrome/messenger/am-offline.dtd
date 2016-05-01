@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "ј">
 <!ENTITY retentionKeepRecent.label "Обриши све осим скорашњих">
 <!ENTITY retentionKeepRecent.accesskey "б">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Увек бриши прочитане поруке (премошћује подешавања старости)">
 <!ENTITY retentionApplyToFlagged.label "Увек чувај поруке са звездицом">
 <!ENTITY retentionApplyToFlagged.accesskey "к">
 <!ENTITY nntpRemoveMsgBody.label "Уклони садржај из порука које су више од">
