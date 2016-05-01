@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY messageStorage.label "Almacenamientu de mensaxes">
 <!ENTITY securitySettings.label "Configuración de seguridá">
 <!ENTITY serverSettings.label "Configuración del sirvidor">
 <!ENTITY serverType.label "Triba de sirvidor:">
@@ -12,9 +15,16 @@
 <!ENTITY port.label "Puertu:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Predet.:">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
 <!ENTITY biffStart.label "Guetar mensaxes nuevos cada ">
 <!ENTITY biffStart.accesskey "x">
 <!ENTITY biffEnd.label "minutos">
+<!ENTITY useIdleNotifications.label "Permitir avisos nel intre del sirvidor al aportar mensaxes nuevos">
+<!ENTITY useIdleNotifications.accesskey "i">
 <!ENTITY connectionSecurity.label "Seguridá de la conexón:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Denguna">
@@ -42,31 +52,41 @@
 <!ENTITY modelMarkDeleted.accesskey "m">
 <!ENTITY modelDeleteImmediately.label "Desanicialu darréu">
 <!ENTITY modelDeleteImmediately.accesskey "d">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Llimpiar (&quot;Purgar&quot;) la bandexa d'entrada al salir">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Vaciar papelera al salir">
 <!ENTITY emptyTrashOnExit.accesskey "v">
 <!ENTITY loginAtStartup.label "Comprobar si hai mensaxes nuevos al aniciar">
 <!ENTITY loginAtStartup.accesskey "C">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+   of messages between them
+-->
 <!ENTITY maxMessagesStart.label "Entrugame enantes de descargar más de">
 <!ENTITY maxMessagesStart.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mensaxes">
 <!ENTITY alwaysAuthenticate.label "Siempre solicitar identificación cuando se coneute con esti sirvidor">
 <!ENTITY alwaysAuthenticate.accesskey "p">
 <!ENTITY newsrcFilePath.label "ficheru newsrc:">
-<!ENTITY localPath.label "Direutoriu llocal:">
+<!ENTITY newsrcPicker.label "Esbilla ficheru newsrc">
 <!ENTITY abbreviate.label "Amosar los nomes de los grupos de noticies na carpeta de corréu como:">
 <!ENTITY abbreviateOn.label "Nomes completos (Por exemplu, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nomes curtios (Por exemplu,'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzaes…">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset.label "Xuegu de caráuteres predetermináu:">
+<!ENTITY serverDefaultCharset2.label "Codificación de testu por defeutu:">
+<!ENTITY localPath.label "Direutoriu llocal:">
 <!ENTITY localFolderPicker.label "Esbilla direutoriu llocal">
 <!ENTITY browseFolder.label "Desaminar…">
 <!ENTITY browseFolder.accesskey "s">
-<!ENTITY newsrcPicker.label "Esbilla ficheru newsrc">
 <!ENTITY browseNewsrc.label "Desaminar…">
 <!ENTITY browseNewsrc.accesskey "e">
+
 <!ENTITY accountTitle.label "Configuración de cuenta">
 <!ENTITY accountSettingsDesc.label "La siguiente cuenta ye especial. Nun hai identidaes asociaes con ella.">
-<!ENTITY messageStorage.label "Almacenamientu de mensaxes">
+<!ENTITY storeType.label "Triba d'almacenamientu de mensaxe:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "Ficheru per carpeta (mbox)">
+<!ENTITY maildirStore.label "Ficheru per mensaxe (maildir)">

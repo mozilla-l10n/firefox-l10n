@@ -24,8 +24,9 @@
 <!ENTITY signMessage.label "Roblar mensaxes dixitalmente">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Usar esti certificáu pa roblar los mensaxes qu'unvie:">
+
 <!ENTITY certificates.label "Certificaos">
-<!ENTITY manageCerts.label "Ver certificaos">
-<!ENTITY manageCerts.accesskey "V">
+<!ENTITY manageCerts2.label "Xestionar certificaos">
+<!ENTITY manageCerts2.accesskey "X">
 <!ENTITY manageDevices.label "Preseos de seguridá">
 <!ENTITY manageDevices.accesskey "i">

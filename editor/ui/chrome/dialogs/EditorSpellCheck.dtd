@@ -1,7 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Revisar ortografía">
+
 <!ENTITY misspelledWord.label "Pallabra mal escrita:">
 <!ENTITY wordEditField.label "Trocar con:">
 <!ENTITY wordEditField.accessKey "c">
@@ -25,8 +28,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "m">
 <!ENTITY editUserDictionaryButton.label "Editar…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "Volver a revisar la páxina">
-<!ENTITY recheckButton.accessKey "P">
+<!ENTITY recheckButton2.label "Recomprobar testu">
+<!ENTITY recheckButton2.accessKey "t">
 <!ENTITY closeButton.label "Zarrar">
 <!ENTITY closeButton.accessKey "Z">
 <!ENTITY sendButton.label "Unviar">

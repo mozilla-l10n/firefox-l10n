@@ -4,12 +4,18 @@
 
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
+
 <!ENTITY loadError.label "Problema al cargar la páxina">
 <!ENTITY retry.label "Reintentar">
+
+<!-- Specific error messages -->
+
 <!ENTITY connectionFailure.title "Nun pue coneutase">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
 <!ENTITY deniedPortAccess.title "Esta direición ta restrinxida">
 <!ENTITY deniedPortAccess.longDesc "">
+
 <!ENTITY dnsNotFound.title "Sirvidor non alcontráu">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
@@ -23,6 +29,7 @@
     p'acceder a la web.</li>
 </ul>
 ">
+
 <!ENTITY fileNotFound.title "Ficheru non alcontráu">
 <!ENTITY fileNotFound.longDesc "
 <ul>
@@ -32,10 +39,19 @@
    desanició.</li>
 </ul>
 ">
+
+<!ENTITY fileAccessDenied.title "Ñegóse l'accesu al ficheru">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Quiciabes tea desaniciáu, movíu o que los permisos del ficheru tean evitándo l'accesu.</li>
+</ul>
+">
+
 <!ENTITY generic.title "¡Vaya!">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; nun pue cargar esta páxina por dalguna razón.</p>
 ">
+
 <!ENTITY malformedURI.title "La direición nun ye válida">
 <!ENTITY malformedURI.longDesc "
 <ul>
@@ -45,8 +61,13 @@
     delantre (p.e. <strong>/</strong>).</li>
 </ul>
 ">
+
 <!ENTITY netInterrupt.title "La conexón interrumpióse">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Documentu caducáu">
+<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché.</p><ul><li>Por precaución, &brandShortName; nun va solicitar automáticamente documentos con información sensible.</li><li>Calca en Intentar pa solicitar otra vegada'l documentu dende'l sitiu web.</li></ul>">
+
 <!ENTITY netOffline.title "Mou ensin conexón">
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -54,29 +75,32 @@
 </ul>
 ">
 
-<!ENTITY notCached.title "Documentu caducáu">
-<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché.</p><ul><li>Por precaución, &brandShortName; nun va solicitar automáticamente documentos con información sensible.</li><li>Calca en Intentar pa solicitar otra vegada'l documentu dende'l sitiu web.</li></ul>">
 <!ENTITY contentEncodingError.title "Error de codificación de conteníu">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li>
 </ul>
 ">
+
 <!ENTITY unsafeContentType.title "Tipu de ficheru non seguru">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li>
 </ul>">
+
 <!ENTITY netReset.title "La conexón reanicióse">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
+
 <!ENTITY netTimeout.title "La conexón caducó">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
 <!ENTITY unknownProtocolFound.title "Nun s'entendió la direición">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Podríes tener qu'instalar otru software p'abrir esta direición.</li>
 </ul>
 ">
+
 <!ENTITY proxyConnectFailure.title "El sirvidor proxy ta refugando les conexones">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -86,6 +110,7 @@
     que'l sirvidor proxy ta funcionando.</li>
 </ul>
 ">
+
 <!ENTITY proxyResolveFailure.title "Nun pue alcontrase'l sirvidor proxy">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
@@ -98,6 +123,7 @@
     p'acceder a la web.</li>
 </ul>
 ">
+
 <!ENTITY redirectLoop.title "La páxina nun ta redirixendo afayadizamente">
 <!ENTITY redirectLoop.longDesc "
 <ul>
@@ -105,6 +131,7 @@
     la receición de cookies.</li>
 </ul>
 ">
+
 <!ENTITY unknownSocketType.title "Rempuesta inesperada del sirvidor">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -114,13 +141,10 @@
    sirvidor.</li>
 </ul>
 ">
+
 <!ENTITY nssFailure2.title "Conexón segura fallida">
-<!ENTITY nssFailure2.longDesc2 "
-<ul>
-  <li>La páxina que tas intentando ver nun pue amosase porque nun pudo verificase l'autenticidá de los datos recibíos.</li>
-  <li>Por favor, contauta colos alministradores del sitiu web pa informa-yos d'esti problema. De mou alternativu, usa la opción del menú Ayuda pa informar del problema d'esti sitiu web.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc2 "">
+
 <!ENTITY nssBadCert.title "La conexón segura falló">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
@@ -128,6 +152,7 @@
   <li>Si tas seguru de que te coneutaste anteriomente a esti sirvidor con éxitu, el fallu pue ser temporal polo que se pue intentar nuevamente dientro d'un tiempu.</li>
 </ul>
 ">
+
 <!ENTITY sharedLongDesc "
 <ul>
   <li>El sitiu podría tar non disponible temporalmente o
@@ -139,26 +164,28 @@
    p'acceder a la web.</li>
 </ul>
 ">
-<!ENTITY malwareBlocked.title "¡Posible sitiu peligrosu!">
-<!ENTITY malwareBlocked.longDesc "<p>Los sitios atacantes intenten instalar programes que puen robar información privao, usar l'equipu p'atacar a otros o frañar el sistema.</p>
-<p>Los propietarios de sitios web que crean se-yos catalogó como un sitiu atacante puen <a href='http://www.stopbadware.org/home/reviewinfo' >pidir una revisión</a>.</p>
-">
-<!ENTITY phishingBlocked.title "¡Posible sitiu web fraudulentu!">
-<!ENTITY phishingBlocked.longDesc "<p>Introducir cualquier información personal nesta páxina pue resultar nun robo d'identidá u otro fraude.</p>
-<p>Estos tipos de webs fraudulentes úsense n'ataques de phishing, nos que úsense páxines y correos electrónicos fraudulentos pa imitar fontes nes que confíes.</p>">
-<!ENTITY cspFrameAncestorBlocked.title "Bloquiada pola política de seguridá de conteníos">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; nun dexó qu'esta páxina se cargase d'esti mou, porque la páxina contién una política de seguridá de conteníos que lo impide.</p>">
+
+<!ENTITY cspBlocked.title "Bloquiáu pola política de seguranza de conteníu">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina cargue d'esti mou porque tien una política de seguranza de conteníu que nun lo permite.</p>">
+
 <!ENTITY corruptedContentError.title "Fallu por conteníu corruptu">
 <!ENTITY corruptedContentError.longDesc "<p>El conteníu que tas intentando ver nun pue amosase porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Por favor, contauta colos propietarios pa informa-yos d'esti problema.</li></ul>">
+
 <!ENTITY securityOverride.linkText "O pues amestar una esceición…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sacáime d'equí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Amestar esceición…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to thunderbird. -->
+
 <!ENTITY securityOverride.warningContent "
 <p>Nun tendríes d'amestar una esceición si tas usando una conexón a Internet na que nun confíes, o si nun tas avezáu a ver un avisu pa esti sirvidor.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
 <!ENTITY remoteXUL.title "XUL remotu">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul></p>">
-<!ENTITY nssFailure2.longDesc2 "">

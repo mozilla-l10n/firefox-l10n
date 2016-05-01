@@ -3,13 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY offlineDialog.title "Configuración ensin conexón">
-<!ENTITY textStartUp "Al aniciar:">
+
+<!ENTITY checkAutoDetect.label "Siguir automáticamente l'estáu deteutáu en llinia">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "Estáu manual al aniciar:">
 <!ENTITY radioRememberPrevState.label "Recordar l'estáu de conexón anterior">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "Entrugame'l mou de conexón al aniciar">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "Aniciar siempre coneutáu">
-<!ENTITY radioAlwaysOnline.accesskey "A">
+<!ENTITY radioAskState.label "Entrugame pol estáu en llinia">
+<!ENTITY radioAskState.accesskey "E">
+<!ENTITY radioAlwaysOnlineState.label "En llinia">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Fuera de llinia">
+<!ENTITY radioAlwaysOffline.accesskey "F">
+
 <!ENTITY textGoingOnline "¿Unviar mensaxes pendientes al pasar a mou con conexón?">
 <!ENTITY radioAutoSend.label "Sí">
 <!ENTITY radioAutoSend.accesskey "S">

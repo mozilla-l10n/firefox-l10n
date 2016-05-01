@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Llibreta de direiciones">
+<!ENTITY blankResultsPaneMessage.label                  "Esta llibreta de direiciones namái amuesa contautos dempués d'una gueta">
+<!ENTITY localResultsOnlyMessage.label                  "Nun s'amuesen los contautos d'una llibreta de direiciones remota fasta que guetes">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Ficheru">
 <!ENTITY fileMenu.accesskey                             "i">
@@ -137,6 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "t">
 <!ENTITY newIM.label                                    "IM">
 <!ENTITY newIM.accesskey                                "I">
+<!ENTITY printButton.label                              "Imprentar…">
+<!ENTITY printButton.accesskey                          "i">
 <!ENTITY deleteButton2.label                            "Desaniciar">
 <!ENTITY deleteButton2.accesskey                        "s">
 
@@ -160,6 +164,7 @@ because displayed names don't have the comma in between. -->
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Llibreta de direiciones">
+<!ENTITY Addrbook.accesskey                             "L">
 <!ENTITY GeneratedName.label                            "Nome">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Corréu electrónicu">

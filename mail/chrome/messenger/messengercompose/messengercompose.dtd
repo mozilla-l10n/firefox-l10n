@@ -159,6 +159,7 @@
 <!ENTITY priorityMenu.label "Prioridá">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY priorityButton.title "Prioridá">
+<!ENTITY priorityButton.tooltiptext "Camuda la prioridá del mensaxe">
 <!ENTITY priorityButton.label "Prioridá:">
 <!ENTITY lowestPriorityCmd.label "La más baxa">
 <!ENTITY lowestPriorityCmd.accesskey "M">
@@ -214,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Seleicionar un destinatariu d'una llibreta de direiciones">
 <!ENTITY attachButton.tooltip "Incluyir un axuntu">
 <!ENTITY spellingButton.tooltip "Revisar ortografía de la seleición o del mensaxe completu">
+<!ENTITY statusLanguageText.tooltip "Llingua del correutor ortográficu">
 <!ENTITY saveButton.tooltip "Guardar esti mensaxe">
 <!ENTITY cutButton.tooltip              "Cortar">
 <!ENTITY copyButton.tooltip             "Copiar">
@@ -305,3 +307,5 @@
 <!ENTITY addressesSidebarTitle.label "Contautos">
 
 <!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Personalizar direición de remitente…">
+<!ENTITY customizeFromAddress.accesskey "A">
