@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Bloķēt bīstamu un maldinošu saturu">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "Bloķēt bīstamas lejupielādes">
+<!ENTITY  blockDownloads.accesskey        "d">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Brīdināt mani par nevēlamu vai neparastu programmatūru">
+<!ENTITY  blockUncommonUnwanted.accesskey "m">
 
 <!ENTITY  addonExceptions.label         "Izņēmumi...">
 <!ENTITY  addonExceptions.accesskey     "I">
