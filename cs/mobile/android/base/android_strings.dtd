@@ -490,7 +490,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Prohlížení přes celou obrazovku">
 <!ENTITY pref_scroll_title_bar_summary2 "Při skrolování dolů skrýt lištu prohlížeče &brandShortName;">
 
-<!ENTITY pref_tab_queue_title3 "Fronta karty">
+<!ENTITY pref_tab_queue_title3 "Fronta karet">
 <!ENTITY pref_tab_queue_summary4 "Uložte si odkazy do příštího otevření aplikace &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
