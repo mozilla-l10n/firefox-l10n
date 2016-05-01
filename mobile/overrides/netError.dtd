@@ -24,11 +24,12 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontrollera om det finns stavfel eller andra typografiska fel i filnamnet.</li> <li>Kontrollera om den flyttats, fått ett annat namn eller tagits bort.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Åtkomst till filen nekades">
-
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Den kan ha tagits bort, flyttats eller så hindrar filrättigheter tillgången.</li></ul>">
 
 <!ENTITY generic.title "Hoppsan!">
+<!ENTITY generic.longDesc "<p>&brandShortName; kan av någon anledning inte ladda denna sidan.</p>">
 
-
+<!ENTITY malformedURI.title "Adressen är inte giltig">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -55,6 +56,7 @@
 <!ENTITY netTimeout.title "Anslutningen avbröts">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "Adressen förstods inte">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Du kan behöva installera andra program för att öppna den här sidan.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxyservern avvisar anslutningen">
@@ -65,6 +67,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Kontrollera att proxyinställningarna är riktiga.</li> <li>Kontrollera att enheten har en fungerande data- eller Wi-Fi-anslutning. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "Sidan dirigeras om felaktigt">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Det här problemet kan ibland uppstå om du inaktiverat eller nekat att ta emot kakor.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Oväntat svar från servern">
@@ -103,9 +106,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Avancerad info: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Din anslutning är inte säker">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Avancerad info: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "Din anslutning är inte säker">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> använder säkerhetsteknologi som är föråldrad och sårbara för angrepp. En angripare kan lätt avslöja information som du tänkt ska vara säker. Webbplatsens administratör måste laga servern innan du kan besöka webbplatsen.</p><p>Felkod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
