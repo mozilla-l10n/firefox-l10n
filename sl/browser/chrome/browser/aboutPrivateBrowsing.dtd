@@ -7,11 +7,24 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "Z">
 
 <!ENTITY privateBrowsing.title                           "Zasebno brskanje">
+<!ENTITY privateBrowsing.title.tracking                  "Zasebno brskanje z zaščito pred sledenjem">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Med brskanjem v zasebnem oknu Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ne shranjuje">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "obiskanih strani">
 <!ENTITY aboutPrivateBrowsing.info.searches              "Iskanja">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "Piškotki">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Začasne datoteke">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "bo shranil">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Prenosi">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Zaznamki">
+<!ENTITY aboutPrivateBrowsing.note.before                "Zasebno brskanje">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "vas ne naredi anonimnega">
+<!ENTITY aboutPrivateBrowsing.note.after                 " na internetu. Vaš delodajalec ali ponudnik internetnih storitev lahko še vedno izvesta, katere strani ste obiskali.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Več o">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "zasebnem brskanju">
 
 <!ENTITY trackingProtection.title                        "Zaščita pred sledenjem">
+<!ENTITY trackingProtection.description2                 "Nekatere spletne strani uporabljajo sledilce, ki lahko nadzirajo vašo dejavnost na internetu. Z zaščito pred sledenjem bo Firefox zavrnil mnogo sledilcev, ki zbirajo podatke o vašem vedenju na internetu.">
 <!ENTITY trackingProtection.startTour1                   "Kako deluje">

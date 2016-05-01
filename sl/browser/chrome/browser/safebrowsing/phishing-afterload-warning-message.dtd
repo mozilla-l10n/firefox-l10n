@@ -4,8 +4,14 @@
 
 <!ENTITY safeb.palm.accept.label "Hočem stran!">
 <!ENTITY safeb.palm.decline.label "Prezri to opozorilo">
-<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
+  item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
+  shown. -->
 <!ENTITY safeb.palm.notdeceptive.label "To ni zavajajoča stran …">
+<!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
+  safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
+  report-phishing.dtd are never shown at the same time, the same accesskey can
+  be used for them. -->
 <!ENTITY safeb.palm.reportPage.label "Zakaj je bila ta stran zavrnjena?">
 <!ENTITY safeb.palm.whyForbidden.label "Zakaj je bila ta stran zavrnjena?">
 
