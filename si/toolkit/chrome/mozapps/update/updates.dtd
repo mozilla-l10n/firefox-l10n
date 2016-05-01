@@ -74,6 +74,8 @@ install software on this computer.">
 <!ENTITY  errorpatching.intro             "අඩ යාවත්කාල කිරීම් යෙදවිය නොහැක. 
 &brandShortName; සම්පූර්ණ වෙළුම බාගත කරගැනීමෙන් පසු නැවත උත්සහ කරන්න.">
 
+<!ENTITY  genericBackgroundError.label    "&brandShortName; හට යාවත් කාලයක් පවතීදැයි හඳුනාගත නොහැක. කරුණාකර
+                                          ඔබ සතුව &brandShortName; නවතම නිකුතුව පවතී දැයි බලන්න:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "&brandShortName; ආරක්ෂීතව යාවත්කාලීන කිරීම කිසිවක් විසින් වළකාලයි. 
  &brandShortName;  හි නවතම නිකුතුව ඔබ සතුව ඇත්දැයි මෙමඟින් තහවුරු කරගන්න:">
 <!ENTITY  errorCertAttrHasUpdate.label    "කිසිවක් විසින් අනාරක්ෂිත යාවත්කාලීන කිරීමක් පිළිගැනීම සඳහා  &brandShortName; 

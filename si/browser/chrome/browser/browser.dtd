@@ -107,7 +107,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; වෙත පිවිසෙන්න">
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; අභිප්‍රේත විවෘත කරන්න">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; වෙත නැවත සබඳවන්න">
+<!ENTITY fxaUnverified.label "ඔබේ ගිනුම තහවුරු කරන්න">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; සක්‍රීයයි">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; මොහොතකින් සම්මුහුර්තවීම අරඹනු ඇත.">
 
@@ -126,9 +128,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "දැන් පූර්ණ තිරයේ">
+<!ENTITY fullscreenWarning.generic.label "මෙම ලේඛනය දැන් පූර්ණ තිරයේ">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "පූර්ණ තිරයෙන් පිටවන්න (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "පූර්ණ තිරයෙන් පිටවන්න (esc)">
 <!ENTITY leaveDOMFullScreen.label "Exit Full Screen">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -157,10 +163,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "මෙම වීඩියෝව බෙදාගන්න (r)">
 <!ENTITY shareVideo.accesskey "r">
+<!ENTITY feedsMenu2.label "මෙම පිටුවට දායක වන්න">
 <!ENTITY subscribeToPageMenupopup.label "මෙම පිටුවට දායකත්වය දක්වන්න">
 <!ENTITY subscribeToPageMenuitem.label "මෙම පිටුවට දායකත්වය දක්වන්න...">
 <!ENTITY addCurPagesCmd.label "සියලු ටැබ පිටු සලකුණුගත කරන්න...">
 <!ENTITY showAllBookmarks2.label "සියළු පිටුසලකුණු පෙන්වන්න…">
+<!ENTITY recentBookmarks.label "මෑතදී පිටුසලකුණු කළ">
+<!ENTITY otherBookmarksCmd.label "වෙනත් පිටුසලකුණු">
 <!ENTITY bookmarksToolbarChevron.tooltip "තවත් පිටුසලකුණු පෙන්වන්න">
 
 <!ENTITY backCmd.label                "ආපසු">
@@ -178,12 +187,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "මුද්‍රණය">
 <!ENTITY printButton.tooltip          "පිටුව මුද්‍රණය">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "අඩවි තොරතුරු පෙන්වන්න">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "දැනුම්දීමක් පෙන්වන්න">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "ස්ථාන ඉල්ලීම පෙන්වන්න">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "ඇඩෝන ස්ථාපන පණිවුඩය පෙන්වන්න">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "යෙදුම්-මාර්ගගත නොවන ගබඩා පණිවුඩය පෙන්වන්න">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "ඔබේ පිවිසුම් තොරතුරු පාලනය කරන්න">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "ඔබට ඔබේ මුරපදය සුරැකීමට ඇවැසි නම් සලකුණු කරන්න">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "ප්ලගින භාවිතය මෙම පිටුවෙන් පාලනය කරන්න">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "අඩවියෙන් ඔබට දැන්වීම් ලැබිය හැකිදැයි පාලනය කරන්න">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "ඔබේ කැමරාව හා/හෝ මයික්‍රෆෝනය අඩවිය සමඟ බෙදාගැනීම පාලනය කරන්න">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "ඔබේ කැමරාව හා/හෝ මයික්‍රෆෝනය අඩවිය සමඟ බෙදා ගනී">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "ඔබේ මයික්‍රෆෝනය අඩවිය සමඟ බෙදාගැනීම පාලනය කරන්න">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "ඔබේ මයික්‍රෆෝනය අඩවිය සමඟ බෙදාගනී">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "ඔබේ කවුළුව හෝ තිරය අඩවිය සමඟ බෙදාගැනීම පාලනය කරන්න">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "ඔබේ කවුළුව හෝ තිරය අඩවිය සමඟ බෙදාගනී">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "අඩවියට සැරිත්ත සැඟවිය හැකිදැයි යන්න වෙනස් කරන්න">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "සේවා ස්ථාපන පණිවුඩ පෙන්වන්න">
+<!ENTITY urlbar.translateNotificationAnchor.label       "මෙම පිටුව පරිවර්තනය කරන්න">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "පිටු පරිවර්තනය පාලනය">
+<!ENTITY urlbar.emeNotificationAnchor.label             "DRM මෘදුකාංග භාවිත පාලනය">
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "අතීතය පෙන්වන්න">
 
 <!ENTITY searchItem.title             "සොයන්න">
 
@@ -194,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "පිටුලකුණු">
+<!ENTITY bookmarksMenuButton.other.label "වෙනත් පිටුසලකුණු">
 <!ENTITY viewBookmarksSidebar2.label        "පිටුලකුණු පැති තීරුව පෙන්වන්න">
 <!ENTITY viewBookmarksToolbar.label         "පිටුලකුණු මෙවලම්තීරුව පෙන්වන්න">
 
@@ -215,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "බාගැනිම්">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "ඇඩෝන">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
@@ -227,11 +259,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ගොනු"> 
 <!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newUserContext.label             "නව බහලුම් ටැබය">
+<!ENTITY newUserContext.accesskey         "C">
+<!ENTITY userContextPersonal.label        "පුද්ගලික">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "රාජකාරි">
+<!ENTITY userContextWork.accesskey        "W">
+<!ENTITY userContextBanking.label         "බැංකු">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "මිලදී ගැණීම්">
+<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "නව කවුළුවක්">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "නව පුද්ගලික කවුළුව (W)">
 <!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newNonRemoteWindow.label   "නව e10s නොවන කවුළුව">
 
 <!ENTITY editMenu.label         "සැකසුම් (E)"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -295,8 +338,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "අතීත පැතිතීරු දසුන">
 <!ENTITY appMenuHelp.tooltip "උදව් මෙනුව විවෘත කරන්න">
 
+<!ENTITY appMenuRemoteTabs.label "සම්මුහුර්ථ කළ ටැබ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "විවෘත ටැබ නොමැත">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
@@ -328,6 +373,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ටැබයට මාරුවෙන්න:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "නැත">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "ඔව්">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -356,6 +406,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label     "සෙවුම් විමසුම">
+<!ENTITY contentSearchSubmit.label    "සෙවුම යවන්න">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -369,6 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY search.label                 "සොයන්න ">
 <!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
@@ -381,6 +434,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "සෙවුම් සැකසුම් වෙනස් කරන්න">
 
+<!ENTITY searchInNewTab.label         "නව ටැබයක සොයන්න">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "සබැඳුම අලුත් ටැබයක විවෘත කරන්න">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -394,6 +450,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "රාමුව නව කවුළුවක් තුළ විවෘත කරන්න">
 <!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "මෙම රාමුව පමණක් පෙන්වන්න">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -568,6 +625,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "පිටු මෝස්තරය (y)">
 <!ENTITY pageStyleMenu.accesskey "y">
@@ -606,7 +664,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "කළා">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY identity.connectionSecure "ආරක්ෂිත සබධතාවය">
+<!ENTITY identity.connectionNotSecure "සබධතාවය අනාරක්ෂිතයි">
+<!ENTITY identity.connectionFile "මෙම පිටුව ඔබේ පරිගණකයේ ගබඩා කර ඇත.">
 
 <!-- Strings for connection state warnings. -->
 
@@ -705,7 +767,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.learnMore "තවත් ඉගෙනගන්න">
 <!ENTITY trackingContentBlocked.block.label "ආරක්ෂණය සක්‍රීය කරන්න">
 <!ENTITY trackingContentBlocked.block.accesskey "ආ">
-<!ENTITY trackingContentBlocked.disabled.message "හඹායෑම් ආරක්ශාව අක්‍රීය කරන ලදී">
+<!ENTITY trackingContentBlocked.disabled.message "ලුහුබැඳීම් ආරක්ශාව අක්‍රීය කරන ලදී">
 
 <!ENTITY pointerLock.notification.message "නැවත ඕනෑම මොහොතක පෙන්වීමට ESC ඔබන්න">
 

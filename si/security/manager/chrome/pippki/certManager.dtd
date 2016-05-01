@@ -73,8 +73,8 @@
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "ක්‍ෂේත්‍ර අගය">
 <!ENTITY certmgr.fields.accesskey             "V">
-
-
+<!ENTITY certmgr.hierarchy.label              "සහතික ධූරාවලිය">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "හැරදැමීමක් එක් කරන්න…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
