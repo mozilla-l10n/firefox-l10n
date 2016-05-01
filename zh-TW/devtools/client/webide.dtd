@@ -74,7 +74,7 @@
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
-<!ENTITY key_resetzoom "1">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "我的專案">
 <!ENTITY projectPanel_runtimeApps "Runtime 應用程式">
