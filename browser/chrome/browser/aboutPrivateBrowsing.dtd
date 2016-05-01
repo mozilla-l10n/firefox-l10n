@@ -6,16 +6,17 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Priwatne wokno wočinić">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY privateBrowsing.title                           "Priwatny modus">
+<!ENTITY privateBrowsing.title.tracking                  "Priwatny modus ze slědowanskim škitom">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Jeli w priwatnym woknje přehladujeće, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "njeskładuje">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "wopytane strony">
+<!ENTITY aboutPrivateBrowsing.info.searches              "pytanja">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "placki">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "nachwilne dataje">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "budźe składować">
 
 
 
