@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Izgriezt">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "Kopēt">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Ielīmēt">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "I"> 
@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Vēl nav sinhronizēto cilņu!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Gribat redzēt cilnes no citām savām ierīcēm?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sinhronizācijas iestatījumi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Pierakstieties, lai redzētu šeit cilnes no šīm ierīcēm.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pieslēgties Sync">
@@ -694,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Jūsu savienojums ar šo lapu nav drošs. Lapai nosūtītā informācija (piemēram paroles, ziņojumi vai kredītkartes dati) var būt pieejami citiem.">
 <!ENTITY identity.description.insecureLoginForms "Dati, ko ievadīsiet šajā lapā nav aizsargāti un var tikt pārtverti.">
 <!ENTITY identity.description.weakCipher "Jūsu savienojums ar šo lapu izmanto vāju šifrēšanu un nav privāts.">
-
+<!ENTITY identity.description.weakCipher2 "Citi cilvēki var aplūkot jūsu informāciju vai modificēt lapas uzvedību.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; bloķēja nedrošo saturu šajā lapā.">
 <!ENTITY identity.description.passiveLoaded "Jūsu savienojums ar šo lapu nav drošs, lapai nosūtītā informācija var būt pieejami citiem.">
 <!ENTITY identity.description.passiveLoaded2 "Šīs lapas daļas (piemēram attēli) nav drošas.">
@@ -724,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Sinhronizētās cilnes">
 
 <!ENTITY syncedTabs.sidebar.label              "Sinhronizētās cilnes">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Pierakstieties Firefox citās ierīcēs, lai redzētu šeit cilnes no šīm ierīcēm.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Vēl nav sinhronizēto cilņu!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Gribat redzēt cilnes no citām savām ierīcēm?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Pierakstieties, lai redzētu šeit cilnes no šīm ierīcēm.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nav atvērto cilņu">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Atvērt &syncBrand.shortName.label; iestatījumus">
@@ -734,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ieslēdziet cilņu sinhronizāciju, lai redzētu cilnes no citām ierīcēm.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Atvērt">
+<!ENTITY syncedTabs.context.open.accesskey                   "A">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Atvērt jaunā cilnē">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "u">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Atvērt saiti jaunā logā">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "l">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Atvērt saiti jaunā privātajā logā">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Saglabāt šo lapu grāmatzīmēs…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "b">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Kopēt">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 
 <!ENTITY syncBrand.shortName.label    "Sinhronizēt">
