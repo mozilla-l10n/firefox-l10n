@@ -745,7 +745,11 @@
 <!ENTITY contextKillThreadMenu.label "Ignorovat vlákno">
 <!ENTITY contextKillThreadMenu.accesskey "g">
 <!ENTITY contextKillSubthreadMenu.label "Ignorovat podvlákno">
-<!ENTITY contextWatchThreadMenu.label "Ignorovat podvlákno">
+<!ENTITY contextWatchThreadMenu.label "Sledovat vlákno">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
 <!ENTITY contextSaveAs.label "Uložit jako…">
 <!ENTITY contextSaveAs.accesskey "j">
 <!ENTITY contextPrint.label "Tisk…">

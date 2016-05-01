@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
- 
+
 <!ENTITY toField4.label "Komu">
 <!ENTITY fromField4.label "Od">
 <!ENTITY senderField4.label "Odesílatel">
@@ -69,37 +69,37 @@
 <!ENTITY otherActionsPrint1.accesskey "T">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label "Zobrazovat panel příloh">
-<!ENTITY startExpandedCmd.accesskey "Z">
+<!ENTITY startExpandedCmd.label    "Zobrazovat panel příloh">
+<!ENTITY startExpandedCmd.accesskey    "Z">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label "Otevřít">
-<!ENTITY openAttachmentCmd.accesskey "O">
-<!ENTITY saveAsAttachmentCmd.label "Uložit jako…">
-<!ENTITY saveAsAttachmentCmd.accesskey "j">
-<!ENTITY detachAttachmentCmd.label "Vyčlenit…">
-<!ENTITY detachAttachmentCmd.accesskey "V">
-<!ENTITY deleteAttachmentCmd.label "Smazat">
-<!ENTITY deleteAttachmentCmd.accesskey "m">
-<!ENTITY openAllAttachmentsCmd.label "Otevřít vše…">
-<!ENTITY openAllAttachmentsCmd.accesskey "t">
-<!ENTITY saveAllAttachmentsCmd.label "Uložit vše…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "U">
-<!ENTITY detachAllAttachmentsCmd.label "Vyčlenit vše…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "V">
-<!ENTITY deleteAllAttachmentsCmd.label "Smazat vše">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "S">
+<!ENTITY openAttachmentCmd.label    "Otevřít">
+<!ENTITY openAttachmentCmd.accesskey    "O">
+<!ENTITY saveAsAttachmentCmd.label    "Uložit jako…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "j">
+<!ENTITY detachAttachmentCmd.label    "Vyčlenit…">
+<!ENTITY detachAttachmentCmd.accesskey    "V">
+<!ENTITY deleteAttachmentCmd.label    "Smazat">
+<!ENTITY deleteAttachmentCmd.accesskey    "m">
+<!ENTITY openAllAttachmentsCmd.label    "Otevřít vše…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "t">
+<!ENTITY saveAllAttachmentsCmd.label    "Uložit vše…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "U">
+<!ENTITY detachAllAttachmentsCmd.label    "Vyčlenit vše…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "V">
+<!ENTITY deleteAllAttachmentsCmd.label    "Smazat vše">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "S">
 
 <!ENTITY openAttachment.tooltip "Otevře přiložený soubor">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton1.label "Uložit">
-<!ENTITY saveAttachmentButton1.tooltip "Uloží soubor přílohy">
-<!ENTITY saveAllAttachmentsButton1.label "Uložit vše">
+<!ENTITY saveAttachmentButton1.label       "Uložit">
+<!ENTITY saveAttachmentButton1.tooltip     "Uloží soubor přílohy">
+<!ENTITY saveAllAttachmentsButton1.label   "Uložit vše">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Uloží všechny soubory přílohy">
 
-<!ENTITY copyLinkCmd.label "Kopírovat adresu odkazu">
-<!ENTITY copyLinkCmd.accesskey "K">
+<!ENTITY copyLinkCmd.label        "Kopírovat adresu odkazu">
+<!ENTITY copyLinkCmd.accesskey    "K">
 
 <!ENTITY CopyMessageId.label "Kopírovat id zprávy">
 <!ENTITY CopyMessageId.accesskey "K">
