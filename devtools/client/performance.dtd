@@ -13,6 +13,8 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.startRecording/performanceUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
+<!ENTITY performanceUI.startRecording "Aniciar rindimientu de grabación">
+<!ENTITY performanceUI.stopRecording  "Parar rindimientu de grabación">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
@@ -52,6 +54,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
+<!ENTITY performanceUI.table.selfDuration.tooltip     "La cantidá de tiempu gastao namái nesta función.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

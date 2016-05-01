@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "r">
 <!ENTITY projectMenu_manageComponents_label "Alministrar componentes estra">
 <!ENTITY projectMenu_manageComponents_accesskey "l">
+<!ENTITY projectMenu_refreshTabs_label "Refrescar llingüetes">
 
 <!ENTITY runtimeMenu_label "Entornu d'execución">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -85,6 +86,7 @@
 <!ENTITY runtimePanel_installsimulator "Instalar Simulador">
 <!ENTITY runtimePanel_noadbhelper "Instalar encontu ADB">
 <!ENTITY runtimePanel_nousbdevice "¿Nun pues ver el preséu?">
+<!ENTITY runtimePanel_refreshDevices_label "Refrescar preseos">
 
 <!-- Lense -->
 <!ENTITY details_valid_header "válidu">
@@ -197,3 +199,16 @@
 <!ENTITY logs_title "Rexistros d'órdenes previos al empaquetáu">
 
 <!-- Simulator Options -->
+<!ENTITY simulator_title "Opciones del simulador">
+<!ENTITY simulator_remove "Desaniciar simulador">
+<!ENTITY simulator_reset "Reafitar valores">
+<!ENTITY simulator_name "Nome">
+<!ENTITY simulator_software "Software">
+<!ENTITY simulator_version "Versión">
+<!ENTITY simulator_profile "Perfil">
+<!ENTITY simulator_hardware "Hardware">
+<!ENTITY simulator_device "Preséu">
+<!ENTITY simulator_screenSize "Pantalla">
+<!ENTITY simulator_pixelRatio "Rellación aspeutu">
+<!ENTITY simulator_tv_data "Simulación de TV">
+<!ENTITY simulator_tv_data_open_button "Abrir direutoriu de configuración…">
