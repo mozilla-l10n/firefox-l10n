@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "මෙය වඩා පරීක්ශණාත්මකයි. වැඩිහිටි සුපරීක්ශාවකින් තොරව භාවිත නොකරන්න.">
 <!ENTITY aboutNetworking.showNextTime          "මෙම ආවවාදය මීලඟ වතාවේදි දර්ශනය කරන්න">
 <!ENTITY aboutNetworking.ok                    "හරි">
-<!ENTITY aboutNetworking.http                  "Http">
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "පේනු">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
@@ -29,3 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "පණිවිඩ ලැබුණි">
 <!ENTITY aboutNetworking.bytesSent             "යැවූ බයිට">
 <!ENTITY aboutNetworking.bytesReceived         "ලැබුනු බයිට">
+<!ENTITY aboutNetworking.dnsLookup             "DNS සෙවීම">
+<!ENTITY aboutNetworking.dnsLookupButton       "විසඳන්න">
+<!ENTITY aboutNetworking.dnsDomain             "වසම">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">

@@ -7,6 +7,8 @@
 
 <!ENTITY loadError.label "පිටුව පූරණය ගැටලු සහිතයි">
 <!ENTITY retry.label "නැවත උත්සාහ කරන්න">
+<!ENTITY returnToPreviousPage.label "පසුපසට යන්න">
+<!ENTITY advanced.label "සංකීර්ණ">
 
 <!-- Specific error messages -->
 
@@ -33,6 +35,12 @@
 <li>ගොනුව ඉවත්කර, නම වෙනස්කර හෝ මකා ඇති දැයි පරික්‍ෂා කරන්න.</li> 
 </ul>">
 
+<!ENTITY fileAccessDenied.title "ගොනුවට පිවිසීම වළක්වා ඇත">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>එය ඉවත් කර හෝ ස්ථාන මාරු කර තිබිය හැකි, හෝ පිවිසුම වළක්වමින් ගොනු බලතල සකසා තිබිය හැක.</li>
+</ul>
+">
 
 <!ENTITY generic.title "ඔහ්!">
 <!ENTITY generic.longDesc "<p> කුමන හෝ හේතුවක් නිසා මේ පිටුව &brandShortName; හට පූරණය කළ නොහැක.</p>">
@@ -111,9 +119,11 @@
 <li>කරුණාකර අඩවියේ හිමිකරුට මෙම ගැටලුව දන්වා සිටින්න.</li> 
 </ul>">
 
+<!ENTITY certerror.longpagetitle1 "ඔබේ සබඳතාවය අනාරක්ෂිතයි">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/> වෙබ් අඩවියේ හිමිකරු එය නිසි ලෙස සකසා නැත. ඔබේ තොරතුරු  සොරකම් කිරීම වැලක් වීම සඳහා, &brandShortName; මෙම වෙබ් අඩවියට සම්බන්ධ වී නැත.">
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>මෙම අඩවිය තාවකාලිකව ආභාවිතව හෝ ඉතාමත් කාර්යය බහුලව තිබිය හැක. 
@@ -133,6 +143,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "හැරදැමීමක් එක් කරන්න…">
 
+<!ENTITY errorReporting.automatic2 "Mozilla ට මෙවැනි ද්වේශ සහගත අඩවි පිළිබඳ දැන අවහිර කිරීමට උදව් වීම සඳහා මෙවැනි දෝෂ වාර්ථා කරන්න">
 <!ENTITY errorReporting.learnMore "තවත් දැනගන්න...">
 
 <!ENTITY remoteXUL.title "Remote XUL">
@@ -141,10 +152,18 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "ආරක්ෂිතව සබඳවිය නොහැකි විය">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "සංකීර්ණ තොරතුරු: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "ඔබේ සබඳතාවය අනාරක්ෂිතයි">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "සංකීර්ණ තොරතුරු: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "සංකීර්ණ">
+<!ENTITY weakCryptoAdvanced.override "(අනාරක්ශිතයි) යල්පැනගිය ආරක්ශණයක් මගින් <span class='hostname'></span> පූර්ණයට උත්සහ කරන්න">
 
+<!ENTITY certerror.pagetitle1  "අනාරක්ෂිත සම්බන්ධයක්">
+<!ENTITY certerror.copyToClipboard.label "පෙළ පසුරු පුවරුවට පිටපත් කරන්න">
 
+<!ENTITY inadequateSecurityError.title "ඔබේ සබඳතාවය අනාරක්ෂිතයි">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
