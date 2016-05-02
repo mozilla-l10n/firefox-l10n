@@ -233,7 +233,7 @@
 <!ENTITY pref_show_web_fonts "Web-Schriftarten verwenden">
 
 <!ENTITY pref_tracking_protection_title "Schutz vor Aktivitätenverfolgung">
-<!ENTITY pref_tracking_protection_summary3 "Im privaten Modus aktiviert">
+<!ENTITY pref_tracking_protection_summary3 "Im Privaten Modus aktiviert">
 <!ENTITY pref_donottrack_title "Aktivitäten nicht verfolgen">
 <!ENTITY pref_donottrack_summary "&brandShortName; wird Websites mitteilen, dass Ihre Aktivitäten nicht verfolgt werden sollen.">
 
