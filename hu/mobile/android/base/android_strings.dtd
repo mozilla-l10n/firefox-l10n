@@ -24,9 +24,10 @@
 
 <!ENTITY  onboard_start_restricted1 "Maradjon biztonságban, tartsa magánál az irányítást a &brandShortName; ezen egyszerű változatával.">
 
-
-
-
+<!ENTITY  reading_list_migration_title "Olvasási lista csatlakoztatva">
+<!ENTITY  reading_list_migration_subtext "Az olvasási lista elemei most hozzá lesznek adva a könyvjelzőkhöz">
+<!ENTITY  reading_list_migration_goto_bookmarks "Ugrás a könyvjelzőkhöz">
+<!ENTITY  reading_list_migration_bookmarks_hidden "A könyvjelzők panel rejtett">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -62,15 +63,18 @@
 <!ENTITY bookmark_removed "Könyvjelző törölve">
 <!ENTITY bookmark_updated "Könyvjelző frissítve">
 <!ENTITY bookmark_options "Beállítások">
-
+<!ENTITY screenshot_added_to_bookmarks "Képernyőkép hozzáadva a könyvjelzőkhöz">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Képernyőképek">
 
 
+<!ENTITY reader_saved_offline "Kapcsolat nélkül mentve">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Átváltás">
 
 <!ENTITY history_today_section "Ma">
 <!ENTITY history_yesterday_section "Tegnap">
@@ -109,7 +113,7 @@
 <!ENTITY settings "Beállítások">
 <!ENTITY settings_title "Beállítások">
 <!ENTITY pref_category_general "Általános">
-
+<!ENTITY pref_category_general_summary3 "Kezdőképernyő, nyelv, lapfül sor">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -148,7 +152,7 @@
 <!ENTITY overlay_no_synced_devices "Nem található Firefox fiókhoz csatlakoztatott eszköz">
 
 <!ENTITY pref_category_search3 "Keresés">
-
+<!ENTITY pref_category_search_summary2 "Hozzáadás, alapértelmezetté tétel, javaslatok megjelenítése">
 <!ENTITY pref_category_accessibility "Akadálymentesítés">
 <!ENTITY pref_category_accessibility_summary2 "Szövegméret, nagyítás, hangalapú bevitel">
 <!ENTITY pref_category_privacy_short "Adatvédelem">
@@ -170,10 +174,10 @@
      it is applicable. -->
 <!ENTITY pref_category_advanced "Speciális">
 
-
-
-
-
+<!ENTITY pref_category_notifications "Értesítések">
+<!ENTITY pref_category_notifications_summary "Új funkciók, weboldal frissítések">
+<!ENTITY pref_content_notifications "Weboldal frissítések">
+<!ENTITY pref_content_notifications_summary2 "Új tartalom felfedezése támogatói oldalakról">
 <!ENTITY pref_developer_remotedebugging_usb "Távoli hibakeresés USB-n">
 <!ENTITY pref_developer_remotedebugging_wifi "Távoli hibakeresés Wi-Fi-n">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "A Wi-Fi hibakereséshez egy, a készülékére telepített QR kódolvasó app szükséges.">
@@ -184,7 +188,7 @@
 <!ENTITY pref_category_home_summary "Kezdőlap testreszabása">
 <!ENTITY pref_category_home_panels "Panelek">
 
-
+<!ENTITY pref_home_updates2 "Tartalomfrissítések">
 <!ENTITY pref_home_updates_enabled "Engedélyezve">
 <!ENTITY pref_home_updates_wifi "Csak Wi-Fi használatakor">
 <!ENTITY pref_category_home_homepage "Honlap">
@@ -220,7 +224,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Engedélyezve, kivéve harmadik féltől származó">
 <!ENTITY pref_cookies_disabled "Tiltva">
 
-
+<!ENTITY pref_category_media "Média">
 
 
 <!ENTITY pref_tap_to_load_images_title2 "Képek megjelenítése">
@@ -229,7 +233,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Blokkolt">
 
 <!ENTITY pref_show_web_fonts "Webes betűk megjelenítése">
-
+<!ENTITY pref_show_web_fonts_summary2 "Távoli betűkészletek letöltése az oldal betöltésekor">
 
 <!ENTITY pref_tracking_protection_summary3 "Engedélyezve privát böngészésben">
 <!ENTITY pref_donottrack_title "Ne kövessenek">
@@ -239,7 +243,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Engedélyezve privát böngészésben">
 <!ENTITY pref_tracking_protection_disabled "Tiltva">
 
-
+<!ENTITY pref_whats_new_notification_summary "Új funkciók megismerése frissítés után">
 
 <!ENTITY tracking_protection_prompt_title "Most követés elleni védelemmel">
 <!ENTITY tracking_protection_prompt_text "Aktívan blokkolja a követő elemeket, hogy ne kelljen aggódnia.">
@@ -277,10 +281,12 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!ENTITY content_notification_title_plural "&formatD; weboldal frissítve">
+<!ENTITY content_notification_action_settings "Értesítési beállítás">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "Frissítve ekkor: &formatS;">
 
 <!ENTITY pref_char_encoding "Karakterkódolás">
 <!ENTITY pref_char_encoding_on "Menü megjelenítése">
@@ -294,7 +300,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Válassza ki a törlendő adatokat">
 <!ENTITY pref_plugins "Bővítmények">
 <!ENTITY pref_plugins_enabled "Engedélyezve">
-
+<!ENTITY pref_plugins_tap_to_play2 "Érintse meg a lejátszáshoz">
 <!ENTITY pref_plugins_disabled "Tiltva">
 <!ENTITY pref_text_size "Szöveg mérete">
 <!ENTITY pref_restore_tabs "Lapok visszaállítása">
@@ -344,6 +350,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Letöltések">
 <!ENTITY pref_private_data_syncedTabs "Szinkronizált lapok">
 
+<!ENTITY pref_default_browser "Alapértelmezett böngészővé tétel">
 <!ENTITY pref_about_firefox "A &brandShortName; névjegye">
 <!ENTITY pref_vendor_faqs "GYIK">
 <!ENTITY pref_vendor_feedback "Visszajelzés">
@@ -523,7 +530,7 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; kezdőoldal">
 <!ENTITY home_history_title "Előzmény">
-
+<!ENTITY home_history_back_to "Visszalépés az összes előzményben">
 <!ENTITY home_clear_history_button "Böngészési előzmények törlése">
 <!ENTITY home_clear_history_confirm "Biztosan törölni kívánja az előzményeket?">
 <!ENTITY home_bookmarks_empty "A mentett könyvjelzők itt jelennek meg.">
@@ -755,5 +762,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_summary "Ismerje meg ezen verzió újdonságait">
 
 
-
-
+<!ENTITY helper_first_offline_bookmark_title "Olvasás kapcsolat nélkül">
+<!ENTITY helper_first_offline_bookmark_message "Találja meg az olvasónézet elemeit a könyvjelzőknél, kapcsolat nélkül is.">
+<!ENTITY helper_first_offline_bookmark_button "Ugrás a könyvjelzőkhöz.">
