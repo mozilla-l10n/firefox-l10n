@@ -62,4 +62,4 @@
 <!ENTITY password.tooltip             "Das zu Ihrem Benutzernamen gehörige Passwort">
 <!ENTITY savePassword.label           "Passwort speichern">
 <!ENTITY savePassword.accesskey       "o">
-<!ENTITY savePassword.tooltip         "Wählen Sie dies aus, um Ihr Passwort sicher mit dem Passwort-Manager zu speichern.">
+<!ENTITY savePassword.tooltip         "Wählen Sie dies aus, um Ihr Passwort sicher mit der Passwortverwaltung zu speichern.">

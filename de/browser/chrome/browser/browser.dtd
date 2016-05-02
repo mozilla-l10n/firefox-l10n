@@ -833,7 +833,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Desktop-Benachrichtigungen">
 <!ENTITY social.toggleNotifications.accesskey "B">
 
-<!ENTITY social.activated.description "Dienste von <label/> wurden aktiviert. Sie können Ihre Einstellungen für Dienste im <label class='text-link'>Add-ons-Manager</label> ändern.">
+<!ENTITY social.activated.description "Dienste von <label/> wurden aktiviert. Sie können Ihre Einstellungen für Dienste in der <label class='text-link'>Add-ons-Verwaltung</label> ändern.">
 <!ENTITY social.activated.undo.label "Rückgängig machen">
 <!ENTITY social.activated.undo.accesskey "R">
 <!ENTITY social.learnMore.label "Weitere Informationen…">
