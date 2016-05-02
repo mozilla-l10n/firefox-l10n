@@ -27,6 +27,7 @@
 <!ENTITY     props.expires.label            "Platnost cookie vyprší:">
 
 <!ENTITY     treehead.sitename.label        "Server">
+<!ENTITY     treehead.scheme.label          "Schéma">
 <!ENTITY     treehead.status.label          "Stav">
 <!ENTITY     windowtitle.label              "Správce cookies">
 

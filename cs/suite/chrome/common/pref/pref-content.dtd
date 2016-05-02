@@ -6,23 +6,38 @@
 
 <!ENTITY pref.content.title                     "Obsah">
 <!ENTITY pref.content.description               "Tato nastavení určují, jak budou stránky a zprávy v aplikaci &brandShortName; vypadat.">
+
 <!ENTITY siteIcons.label                        "Ikony webového serveru">
 <!ENTITY useSiteIcons.label                     "Zobrazovat ikony webového serveru">
 <!ENTITY useSiteIcons.accesskey                 "Z">
 <!ENTITY useFavIcons.label                      "Automaticky hledat ikonu webového serveru, pokud není ve stránce uvedena">
 <!ENTITY useFavIcons.accesskey                  "A">
-<!ENTITY enableAutomaticImageResizing.label     "Zmenšovat velké obrázky na rozměr okna prohlížeče">
-<!ENTITY enableAutomaticImageResizing.accesskey "e">
+
 <!ENTITY scrolling.label                        "Posunování">
 <!ENTITY useAutoScroll.label                    "Použít automatické posunování">
 <!ENTITY useAutoScroll.accesskey                "a">
 <!ENTITY useSmoothScroll.label                  "Použít jemné posunování">
 <!ENTITY useSmoothScroll.accesskey              "P">
-<!ENTITY allowHWAccel.label                     "Použít hardwarovou akceleraci, je-li dostupná">
-<!ENTITY allowHWAccel.accesskey                 "h">
-<!ENTITY textZoomOnly.label                     "Měnit velikost pouze textu místo celé stránky">
-<!ENTITY textZoomOnly.accesskey                 "n">
-<!ENTITY blockAutoRefresh.label                 "Upozornit, pokud se stránka pokusí přesměrovat nebo obnovit">
-<!ENTITY blockAutoRefresh.accesskey             "U">
+
+<!ENTITY zoomPrefs.label                        "Možnosti lupy">
+<!-- LOCALIZATION NOTE (minZoom.label, maxZoom.label, percent.label):
+     single hbox with minZoom.label preceding the minZoom control and
+     maxZoom.label preceding the maxZoom control; percent.label shows
+     the ASCII '%' character at the end of that string -->
+<!ENTITY minZoom.label                          "Rozsah od">
+<!ENTITY minZoom.accesskey                      "o">
+<!ENTITY maxZoom.label                          "do">
+<!ENTITY maxZoom.accesskey                      "d">
+<!ENTITY percent.label                          "&#37;">
+
 <!ENTITY siteSpecific.label                     "Pamatovat si velikost stránky pro jednotlivé weby">
 <!ENTITY siteSpecific.accesskey                 "P">
+<!ENTITY textZoomOnly.label                     "Měnit velikost pouze textu místo celé stránky">
+<!ENTITY textZoomOnly.accesskey                 "n">
+<!ENTITY enableAutomaticImageResizing.label     "Zmenšovat velké obrázky na rozměr okna prohlížeče">
+<!ENTITY enableAutomaticImageResizing.accesskey "e">
+
+<!ENTITY allowHWAccel.label                     "Použít hardwarovou akceleraci, je-li dostupná">
+<!ENTITY allowHWAccel.accesskey                 "h">
+<!ENTITY blockAutoRefresh.label                 "Upozornit, pokud se stránka pokusí přesměrovat nebo obnovit">
+<!ENTITY blockAutoRefresh.accesskey             "U">
