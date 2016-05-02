@@ -417,32 +417,36 @@ size. -->
 <!ENTITY char_encoding "Kodkirina karakteran">
 
 <!ENTITY share "Parve bike">
-
+<!ENTITY share_title "Parve bike bi rêya">
 <!ENTITY share_image_failed "Wêne nikare bê parvekirin">
 <!ENTITY save_as_pdf "Wek PDF tomar bike">
-
+<!ENTITY print "Çap bike">
 <!ENTITY find_in_page "Di rûpelê de bibîne">
-
+<!ENTITY desktop_mode "Sîteya Sermaseyê Bixwaze">
 <!ENTITY page "Rûpel">
 <!ENTITY tools "Amûr">
+<!ENTITY new_tab "Hilpekîna Nû">
+<!ENTITY new_private_tab "Hilpekîna Nû Ya Taybet">
+<!ENTITY close_all_tabs "Hemû Hilpekînan Bigire">
+<!ENTITY close_private_tabs "Hilpekînên Taybet Bigire">
 
-
-
-
-
-
-
-
+<!ENTITY tabs_private "Taybet">
+<!ENTITY set_image_fail "Nikare wêneyê eyar bike">
+<!ENTITY set_image_path_fail "Nikare wêneyê qeyd bike">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
+<!ENTITY find_text "Di Rûpelê De Bibîne">
+<!ENTITY find_prev "Paşve">
 
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-
+<!ENTITY media_sending_to "Ji Cîhazê Re Tê Şandin">
+<!ENTITY media_play "Lê Bide">
+<!ENTITY media_pause "Rawestîne">
 
 
 <!ENTITY contextmenu_open_new_tab "Di hilpekîneke nû de veke">
@@ -450,7 +454,7 @@ size. -->
 
 <!ENTITY contextmenu_add_to_launcher "Têxe Ekrana Giştî">
 
-
+<!ENTITY contextmenu_pasteandgo "Bizeliqîne &amp; Here">
 <!ENTITY contextmenu_paste "Pê ve bike">
 <!ENTITY contextmenu_copyurl "Navnîşanê ji ber bigire">
 <!ENTITY contextmenu_edit_bookmark "Serast bike">
@@ -459,10 +463,12 @@ size. -->
 
 <!ENTITY contextmenu_top_sites_pin "Malperê sabît bike">
 <!ENTITY contextmenu_top_sites_unpin "Malperê nesabît bike">
-
+<!ENTITY contextmenu_add_search_engine "Motoreke lêgerînê lê zêde bike">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_no_username "[Navê Bikarhêner Tune]">
 
 <!ENTITY doorhanger_login_edit_username_hint "Navê bikarhêner">
 
