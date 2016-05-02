@@ -168,8 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Fo-sgrìobh gun duilleag seo…">
 <!ENTITY addCurPagesCmd.label "Dèan comharra-lìn de gach taba…">
 <!ENTITY showAllBookmarks2.label "Seall a h-uile comharra-lìn">
-
-
+<!ENTITY recentBookmarks.label "Comharran-lìn a rinn thu o chionn goirid">
+<!ENTITY otherBookmarksCmd.label "Comharran-lìn eile">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharran-lìn">
 
 <!ENTITY backCmd.label                "Air ais">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Comharran-lìn">
-
+<!ENTITY bookmarksMenuButton.other.label "Comharran-lìn eile">
 <!ENTITY viewBookmarksSidebar2.label        "Seall bàr-taoibh nan comharra-lìn">
 <!ENTITY viewBookmarksToolbar.label         "Seall bàr nan comharra-lìn">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Gearr às">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "G"> 
-
+<!ENTITY copyCmd.label            "Dèan lethbhreac">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "c"> 
 <!ENTITY pasteCmd.label           "Cuir ann">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "C"> 
@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Chan eil taba sioncronaichte agad… fhathast!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "A bheil thu airson na tabaichean a tha agad air uidheaman eile fhaicinn an-seo?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Roghainnean sioncronachaidh">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Clàraich a-steach airson liosta de thabaichean a tha agad air uidheaman eile.">
 <!ENTITY appMenuRemoteTabs.signin.label "Clàraich a-steach gun t-sioncronachadh">
@@ -694,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Chan eil an ceangal agad ris an làrach seo prìobhaideach. Dh’fhaoidte gum faic daoine eile dàta a chuireas tu a-null (mar fhaclan-faire, teachdaireachdan, cairtean-creideis is msaa.).">
 <!ENTITY identity.description.insecureLoginForms "Chan eil am fiosrachadh a chuir thu a-steach air an duilleag seo tèarainte agus dh’fhaoidte gum bris cuideigin a-steach air a’ chlàradh agad.">
 <!ENTITY identity.description.weakCipher "Tha an ceangal agad ris an làrach-lìn seo a’ cleachdadh crioptachadh lag agus chan eil e prìobhaideach.">
-
+<!ENTITY identity.description.weakCipher2 "Chì daoine eile am fiosrachadh agad agus is urrainn dhaibh giùlan a’ bhrabhsair agad atharrachadh.">
 <!ENTITY identity.description.activeBlocked "Bhac &brandShortName; na pìosan dhen duilleag seo nach eil tèarainte.">
 <!ENTITY identity.description.passiveLoaded "Chan eil an ceangal agad prìobhaideach agus dh’fhaoidte gum faic daoine eile dàta a chuireas tu gun làrach.">
 <!ENTITY identity.description.passiveLoaded2 "Tha susbaint air an làrach-lìn seo nach eil tèarainte (mar dhealbhan).">
@@ -724,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Tabaichean sioncronaichte">
 
 <!ENTITY syncedTabs.sidebar.label              "Tabaichean sioncronaichte">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Clàraich a-steach gu Firefox o na h-uidheaman eile agad gus na tabaichean uapa fhaicinn an-seo.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Chan eil taba sioncronaichte agad… fhathast!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "A bheil thu airson na tabaichean a tha agad air uidheaman eile fhaicinn an-seo?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Clàraich a-steach airson liosta de thabaichean a tha agad air uidheaman eile.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Chan eil taba fosgailte">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Fosgail roghainnean &syncBrand.shortName.label;">
@@ -734,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cuir air sioncronachadh nan tabaichean airson cothrom fhaighinn air na tabaichean agad o uidheaman eile.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Fosgail">
+<!ENTITY syncedTabs.context.open.accesskey                   "o">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Fosgail ann an taba ùr">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "F">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Fosgail an ceangal ann an uinneag ùr">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "F">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Fosgail an ceangal ann an uinneag phrìobhaideach ùr">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Cuir an taba seo ris na comharran-lìn…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "b">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Dèan lethbhreac">
+<!ENTITY syncedTabs.context.copy.accesskey                   "c">
 
 
 <!ENTITY syncBrand.shortName.label    "Sioncronachadh">
