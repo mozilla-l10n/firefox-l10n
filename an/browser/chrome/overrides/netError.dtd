@@ -109,8 +109,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.override "(Inseguro) Mira de cargar <span class='hostname'></span> con a seguridat obsoleta">
 
 <!ENTITY certerror.pagetitle1  "Connexión insegura">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Iste puesto fa servir HTTP Strict Transport Security (HSTS) pa especificar que &brandShortName; nomás se connecte ta ell de traza segura. A resultas d'isto, no ye posible anyader una excepción a lo certificau.">
+<!ENTITY certerror.copyToClipboard.label "Copiar lo texto en lo portafuellas">
 
-
-
+<!ENTITY inadequateSecurityError.title "La connexion no ye pas segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> fa servir technolochía de seguranza que ye obsoleta y vulnerable debant d'un ataque. Un acatant podría revelar información que vusté creyeba segura. L'administrador d'o puesto web habrá de fixar lo servidor antes que vusté pueda vesitar lo puesto.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
