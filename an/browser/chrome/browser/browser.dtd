@@ -349,11 +349,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "No i hai encara pestanyas sincronizadas!">
-
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Quiere veyer aquí las pestanyas d'os atros dispositivos?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Dentrar pa veyer una lista de pestanyas d'os atros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Dentrar en Sync">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Amostrar la barra lateral de Pestanyas Sincronizadas">
 
 <!ENTITY customizeMenu.addToToolbar.label "Adhibir en a barra de ferramientas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -460,8 +460,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Ubrir a bastida en una finestra nueva">
 <!ENTITY openFrameCmd.accesskey       "a">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Ubrir lo vinclo en a Pestanya Nuevo Contenedor">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "Amostrar nomás ista bastida">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -695,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "A connexión ta iste puesto no ye privada. A información que ninvia podría estar visualizada por atras personas (como claus, mensaches, tarchetas de credito, etc.).">
 <!ENTITY identity.description.insecureLoginForms "A información d'inicio de sesión que introduz en ista pachina no ye segura y podría interceptar-se.">
 <!ENTITY identity.description.weakCipher "A suya connexión ta ista web fa servir un zifrau feble y no ye privada.">
-
+<!ENTITY identity.description.weakCipher2 "Atras personas podrían visualizar la información u modificar lo comportamiento d'o puesto">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ha blocau partes d'ista pachina que no son seguras.">
 <!ENTITY identity.description.passiveLoaded "A connexión no ye privada y a información que comparte con o puesto podría estar visualizada por atras personas.">
 <!ENTITY identity.description.passiveLoaded2 "Iste puesto web inclui contenius que no son seguros (p. eix. imachens).">
@@ -709,7 +709,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Saber-ne mas">
 
-
+<!ENTITY identity.removeCertException.label "Eliminar la excepción">
+<!ENTITY identity.removeCertException.accesskey "x">
 
 <!ENTITY identity.moreInfoLinkText2 "Mas información">
 
@@ -723,26 +724,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Pestanyas sincronizadas">
 
-
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Pestanyas sincronizadas">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Dentrar en Firefox dende los atros dispositivos pa veyer aquí las suyas pestanyas.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "No i hai encara pestanyas sincronizadas!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Quiere veyer aquí las pestanyas d'os atros dispositivos?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Iniciar la sesión pa veyer una lista d'as pestanyas d'os atros dispositivos.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "No i hai garra pestanya ubierta">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Ubrir las preferencias d'o &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activar la sincronización de pestanyas pa veyer una lista de pestanyas dende los atros dispositivos.">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Ubrir">
+<!ENTITY syncedTabs.context.open.accesskey                   "U">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Ubrir en una pestanya nueva">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "v">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Ubrir lo vinclo en una finestra nueva">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "f">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Ubrir lo vinclo en una nueva finestra privada">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Marcar ista pachina con marcapachinas">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "Copiar">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
