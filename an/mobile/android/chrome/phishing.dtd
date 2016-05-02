@@ -12,8 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "S'ha reportau que o puesto web en <span id='malware_sitename'/> sería enrestindo, y ye estau bloquiau d'alcuerdo con as suyas preferencias de seguranza.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Os puestos enrestidors miran d'instalar programas que rapan información privada, fan servir o suyo ordinador ta enrestir atros u fer mal a o suyo sistema.</p><p>Qualques puestos enrestidors distribuyen intencionalment software maligno, pero muitos son compromesos sin a conoixencia u permiso d'os suyos propietarios.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Puesto malicioso!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "S'ha reportau que o puesto web en <span id='phishing_sitename'/> sería malicioso, y s'ha blocau seguntes las suyas preferencias de seguranza.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Los puestos web maliciosos son disenyaus pa enganyar-le y que faiga bella acción periglosa, como instalar software u revelar la suya información personal, ya contrasenyas, numeros de telefono u tarchetas de credito.</p><p>Introducir-ie qualsequier mena d'información puet resultar en una suplantación d'identidat u atra mena de fraus.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "S'ha reportau como puesto de Software no demandau.">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

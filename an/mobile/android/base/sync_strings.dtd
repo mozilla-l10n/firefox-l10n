@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiquetas">
 <!ENTITY bookmarks.folder.toolbar.label "Barra de ferramientas d\u0027os marcapachinas">
-
+<!ENTITY bookmarks.folder.other.label "Atros marcapachinas">
 <!ENTITY bookmarks.folder.desktop.label "Marcapachinas d\u0027escritorio">
 <!ENTITY bookmarks.folder.mobile.label "Marcapachinas d\u0027o mobil">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -66,7 +66,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "El &syncBrand.shortName.label; ye configurau, pero a sincronización automatica ye desactivada. Vaiga ta Configuraciób &gt; Uso de datos y sinyale «Sincronización automatica de datos».">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "O &syncBrand.shortName.label; ye configurau, pero ye sincronizando automaticament. Cambie «Sincronización automatica de datos» en o menú d\u0027Achustes d\u0027Android &gt; Cuentas.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Toca ta dentrar con a tuya nueva cuenta de Firefox.">
-
+<!ENTITY fxaccount_status_bookmarks "Marcapachinas">
 <!ENTITY fxaccount_status_history "Historial">
 <!ENTITY fxaccount_status_passwords2 "Inicios de sesión">
 <!ENTITY fxaccount_status_tabs "Ubrir pestanyas">
@@ -75,7 +75,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos2 "Termins d\u0027o Servicio">
+<!ENTITY fxaccount_status_linkprivacy2 "Nota sobre privacidat">
 <!ENTITY fxaccount_status_more "Mas&ellipsis;">
 <!ENTITY fxaccount_remove_account "Desconnectar&ellipsis;">
 
