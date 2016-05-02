@@ -13,7 +13,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Obtiene los resultaus d\u0027os tuyos marcapachinas y historial quan miras.">
 <!ENTITY firstrun_data_title "Datos">
 <!ENTITY firstrun_data_message "Menos datos, cabidar mas">
-
+<!ENTITY firstrun_data_subtext2 "Blocar imachens pa gastar menos datos en cada puesto que vesites.">
 <!ENTITY firstrun_sync_title "Sincronizar">
 <!ENTITY firstrun_sync_message "&brandShortName;, siempre a lo tuyo costau">
 <!ENTITY firstrun_sync_subtext "Sincroniza las tuyas pestanyas, claus y mas, siempre que l\u0027uses.">
@@ -24,15 +24,16 @@
 
 <!ENTITY  onboard_start_restricted1 "Está-te seguro y con o control con ista versión simplificada de &brandShortName;.">
 
-
-
-
+<!ENTITY  reading_list_migration_title "Lista de lectura conectada">
+<!ENTITY  reading_list_migration_subtext "Los elementos d\u0027a suya lista de lectura no s\u0027anyaderán ta los suyos marcapachinas">
+<!ENTITY  reading_list_migration_goto_bookmarks "Ir ta los marcapachinas">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Lo suyos panel de marcapachinas ye amagau">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Marcapachinas">
 <!ENTITY  history_title "Historial">
-
+<!ENTITY  reading_list_title "Lista de lectura">
 <!ENTITY  recent_tabs_title "Pestanyas recients">
 
 <!ENTITY  switch_to_tab "Cambiar ta la pestanya">
@@ -62,15 +63,18 @@
 <!ENTITY bookmark_removed "S\u0027ha suprimiu o marcapachinas">
 <!ENTITY bookmark_updated "S\u0027ha esviellau o marcapachinas">
 <!ENTITY bookmark_options "Opcions">
-
+<!ENTITY screenshot_added_to_bookmarks "Captura de pantalla anyadida ta los marcapachinas">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Capturas de pantalla">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Lista de lectura">
 
-
+<!ENTITY reader_saved_offline "Alzau offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Cambiar">
 
 <!ENTITY history_today_section "Hue">
 <!ENTITY history_yesterday_section "Ahiere">
@@ -109,7 +113,7 @@
 <!ENTITY settings "Opcions">
 <!ENTITY settings_title "Configuración">
 <!ENTITY pref_category_general "Cheneral">
-
+<!ENTITY pref_category_general_summary3 "Home, idioma, ringlera de tab">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -148,15 +152,15 @@
 <!ENTITY overlay_no_synced_devices "No s\u0027ha trobau garra dispositivo connectau a la cuenta d\u0027o Firefox">
 
 <!ENTITY pref_category_search3 "Buscar">
-
+<!ENTITY pref_category_search_summary2 "Anyader, fixar por defecto, amostrar sucherencias">
 <!ENTITY pref_category_accessibility "Accesibilidat">
 <!ENTITY pref_category_accessibility_summary2 "Mida d\u0027a letra, zoom, dentrada de voz">
 <!ENTITY pref_category_privacy_short "Privacidat">
-
+<!ENTITY pref_category_privacy_summary4 "Seguimiento, inicios, opcions de datos">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Sobre &brandShortName;, FAQs, realimentación">
 <!ENTITY pref_category_datareporting "Elección de datos">
-
+<!ENTITY pref_category_logins "Inicios de sesión">
 <!ENTITY pref_learn_more "Aprender-ne mas">
 <!ENTITY pref_category_installed_search_engines "Motors de busca instalaus">
 <!ENTITY pref_category_add_search_providers "Adhibir mas proveyedors de buscas">
@@ -168,12 +172,13 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "CONSELLO: adhiba qualsequier puesto web en a suya lista de motors de busca con una pretada larga en o suyo campo de busca y dimpués tocando l\u0027icono &formatI;.">
 <!ENTITY pref_category_advanced "Abanzau">
-
-
-
-
-
+<!ENTITY pref_category_advanced_summary3 "Restaurar pestanyas, complementos, ferramientas de desembolicador">
+<!ENTITY pref_category_notifications "Notificacions">
+<!ENTITY pref_category_notifications_summary "Nuevas caracteristicas, actualizacions de puestos web">
+<!ENTITY pref_content_notifications "Actualizacions de puestos web">
+<!ENTITY pref_content_notifications_summary2 "Descubra nuevos contenius d\u0027os puestos suportaus">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota vía USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota vía Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "A depuración Wi-Fi requiere que o tuyo dispositivo tienga instalada un app lectora de codigo QR.">
@@ -183,8 +188,8 @@
 <!ENTITY pref_category_home "Inicio">
 <!ENTITY pref_category_home_summary "Personalizar a suya pachina d\u0027inicio">
 <!ENTITY pref_category_home_panels "Panels">
-
-
+<!ENTITY pref_category_home_add_ons "Complementos">
+<!ENTITY pref_home_updates2 "Actualizacions de contenius">
 <!ENTITY pref_home_updates_enabled "Activadas">
 <!ENTITY pref_home_updates_wifi "Nomás con Wi-Fi">
 <!ENTITY pref_category_home_homepage "Pachina d\u0027inicio">
@@ -210,7 +215,7 @@
 <!ENTITY pref_header_search "Mirar">
 <!ENTITY pref_header_privacy_short "Privacidat">
 <!ENTITY pref_header_accessibility "Accesibilidat">
-
+<!ENTITY pref_header_notifications "Notificacions">
 <!ENTITY pref_header_advanced "Abanzau">
 <!ENTITY pref_header_help "Aduya">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -220,16 +225,19 @@
 <!ENTITY pref_cookies_not_accept_foreign "Autorizadas, fueras d\u0027as de tercers">
 <!ENTITY pref_cookies_disabled "No autorizadas">
 
-
-
+<!ENTITY pref_category_data_saver "Alzador de datos">
+<!ENTITY pref_category_media "Fichers multimedia">
+<!ENTITY pref_category_developer_tools "Ferramientas pa desembolicadors">
 
 <!ENTITY pref_tap_to_load_images_title2 "Amostrar imachens">
 <!ENTITY pref_tap_to_load_images_enabled "Siempre">
 <!ENTITY pref_tap_to_load_images_data "Nomás con Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blocau">
 
+<!ENTITY pref_show_web_fonts "Amuestra-me las fuents web">
+<!ENTITY pref_show_web_fonts_summary2 "Descargar fuents remotas quan se carga una pachina">
 
-
+<!ENTITY pref_tracking_protection_title2 "Protección contra o seguimiento">
 <!ENTITY pref_tracking_protection_summary3 "Activada en Navegación Privada">
 <!ENTITY pref_donottrack_title "No me sigas">
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a os puestos web que no quiere que le sigan">
@@ -238,7 +246,8 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Activada en Navegación Privada">
 <!ENTITY pref_tracking_protection_disabled "Desactivada">
 
-
+<!ENTITY pref_whats_new_notification "Pestanya alzada en &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Saber-ne mas sobre las nuevas caracteristicas dimpués d\u0027una actualización">
 
 <!ENTITY tracking_protection_prompt_title "Agora con Protección contra Seguimiento">
 <!ENTITY tracking_protection_prompt_text "Blocar activament os elementos que faigan seguimiento de manera que no t\u0027has de preocupar.">
@@ -258,7 +267,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Ir ta los achustes">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -272,19 +281,22 @@
 
 <!ENTITY tab_queue_notification_settings "Pa \&quot;Ubrir vinclos multiples\&quot;, activa lo permiso \u0027Dibuixar sobre atras aplicacions\u0027 pa &brandShortName;">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!ENTITY content_notification_title_plural "&formatD; actualizar website">
+<!ENTITY content_notification_action_settings "Achustes de notificacions">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "Actualización on &formatS;">
 
 <!ENTITY pref_char_encoding "Amostrar a codificación">
 <!ENTITY pref_char_encoding_on "Amostrar o menú">
 <!ENTITY pref_char_encoding_off "No amuestres o menú">
-
+<!ENTITY pref_clear_private_data2 "Limpiar los datos privaus">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Escoscar agora">
@@ -293,7 +305,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Trigar que datos quiere borrar">
 <!ENTITY pref_plugins "Connectors">
 <!ENTITY pref_plugins_enabled "Activadas">
-
+<!ENTITY pref_plugins_tap_to_play2 "Tocar pa reproducir">
 <!ENTITY pref_plugins_disabled "No autorizadas">
 <!ENTITY pref_text_size "Mida d\u0027a letra">
 <!ENTITY pref_restore_tabs "Restaurar las pestanyas">
@@ -343,6 +355,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Descargas">
 <!ENTITY pref_private_data_syncedTabs "Pestanyas sincronizadas">
 
+<!ENTITY pref_default_browser "Fer lo navegador por defecto">
 <!ENTITY pref_about_firefox "Quanto a &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Ninviar comentarios">
@@ -388,6 +401,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Actualizacions automaticas">
 <!ENTITY pref_update_autodownload_wifi "Nomás con Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
 <!ENTITY pref_update_autodownload_always "Siempre">
@@ -398,7 +412,7 @@ size. -->
 <!ENTITY quit "Salir">
 
 <!ENTITY addons "Complementos">
-
+<!ENTITY logins "Inicios de sesión">
 <!ENTITY downloads "Descargas">
 <!ENTITY char_encoding "Codificación d\u0027os caracters">
 
@@ -469,14 +483,15 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Ixamplar as arias chicotas">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Ixamplar os vinclos y campos de forma quan se toca cerca d\u0027ells">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Navegación a pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary2 "Amagar a barra de ferramientas &brandShortName; quan se desplace enta abaixo en una pachina">
 
-
+<!ENTITY pref_tab_queue_title3 "Ringlera de pestanyas">
+<!ENTITY pref_tab_queue_summary4 "Alza-los dica la siguient vegada que ubras &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -521,7 +536,7 @@ size. -->
 
 <!ENTITY home_title "Pachina d\u0027inicio de &brandShortName;">
 <!ENTITY home_history_title "Historial">
-
+<!ENTITY home_history_back_to "Torna ta lo historial">
 <!ENTITY home_clear_history_button "Limpiar l\u0027historial de navegacion">
 <!ENTITY home_clear_history_confirm "Yes seguro que quiers eliminar l\u0027historial?">
 <!ENTITY home_bookmarks_empty "Os marcadors que alce s\u0027amuestran aquí.">
@@ -539,6 +554,8 @@ size. -->
 <!ENTITY home_default_empty "No s\u0027ha puesto trobar contenius ta iste panel.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Tornar ta &formatS;">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -558,6 +575,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Escriba una parola clau de busca">
 
+<!ENTITY filepicker_title "Trigue un fichero">
 <!ENTITY filepicker_audio_title "Trigue un grave un soniu">
 <!ENTITY filepicker_image_title "Trigue u faiga una foto">
 <!ENTITY filepicker_video_title "Trigue u grave un video">
@@ -586,6 +604,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "Bella parte d\u0027ista pachina no ye segura (p. eix. imachens).">
 <!ENTITY mixed_content_protection_disabled1 "Ha desactivau a protección d\u0027elementos inseguros.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "Protección contra o seguimiento">
 <!ENTITY doorhanger_tracking_state_enabled "Activada">
 <!ENTITY doorhanger_tracking_state_disabled "Desactivau">
 <!ENTITY doorhanger_tracking_message_enabled1 "S\u0027ha blocau intentos de fer seguimiento d\u0027o tuyo comportamiento en linia.">
@@ -742,11 +762,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY unsupported_sdk_version "Iste &brandShortName; no funciona en iste dispositivo (&formatS1;, &formatS2;). Descargue la versión correcta.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; ya no ye disponible">
 <!ENTITY eol_notification_summary "Toque pa saber-ne mas">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; ye esviellau">
+<!ENTITY whatsnew_notification_summary "Conoixe las novedatz d\u0027ista versión">
 
+<!ENTITY promotion_add_to_homescreen "Adhibir-lo a la pantalla inicial">
 
-
-
+<!ENTITY helper_first_offline_bookmark_title "Leyer-lo offline">
+<!ENTITY helper_first_offline_bookmark_message "Trobe lo suyo visualizador de lectura en Bookmarks, mesmo offline.">
+<!ENTITY helper_first_offline_bookmark_button "Ir ta los marcapachinas">
