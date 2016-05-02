@@ -115,3 +115,4 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "Nde jeike ndahekokatúi">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> oipuru tembipuru pyahu rekorosãrã ndoikovéimava ha oimeraẽva ombyaikuaáva. Peteĩ tekoñaña ikatu ohechauka marandu hekorosãha gua'ú. Pe ñanduti renda ñangarekohára omyatãraẽva'erã pe mohendahavusu oike mboyve tendápe.</p><p>Ayvu jejavy: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
