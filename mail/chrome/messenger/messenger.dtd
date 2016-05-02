@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "r">
 <!ENTITY compactVersion.label "Sealladh dùmhail">
 <!ENTITY compactVersion.accesskey "S">
-
-
+<!ENTITY folderPaneBar.label "Bàr-inneal leòsan nam pasgan">
+<!ENTITY folderModeSelector.label "Seallaidhean phasgan">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Seòrsaich a-rèir">
@@ -363,8 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Deasaich mar theachdaireachd ùr">
 <!ENTITY editAsNewMsgCmd.accesskey "e">
 <!ENTITY editAsNewMsgCmd.key "e">
-
-
+<!ENTITY editDraftMsgCmd.label "Deasaich an dreachd teachdaireachd">
+<!ENTITY editDraftMsgCmd.accesskey "D">
 <!ENTITY createFilter.label "Cruthaich criathrag on teachdaireachd…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Gluais gu">
@@ -720,7 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Deasaich mar theachdaireachd ùr">
 <!ENTITY contextEditMsgAsNew.accesskey "e">
-
+<!ENTITY contextEditDraftMsg.label "Deasaich an dreachd teachdaireachd">
 <!ENTITY contextArchive.label "Tasg-lann">
 <!ENTITY contextArchive.accesskey "T">
 <!ENTITY contextReplySender.label "Freagair an seòladair a-mhàin">
@@ -748,9 +748,9 @@
 <!ENTITY contextCopyMsgMenu.label "Cuir lethbhreac gu">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Leig seachad an snàithlean">
-
+<!ENTITY contextKillSubthreadMenu.accesskey "L">
 <!ENTITY contextKillThreadMenu.accesskey "L">
-
+<!ENTITY contextKillSubthreadMenu.label "Leig seachad am fo-shnàithlean">
 <!ENTITY contextWatchThreadMenu.label "Cum sùil air an t-snàithlean">
 <!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
    In the en-US locale we ran out of access keys, so there is an empty access key for
