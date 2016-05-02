@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Iithegi">
 <!ENTITY bookmarks.folder.toolbar.label "Isixwexwe Sezixhobo Zezalathisi Eziphawulayo">
-
+<!ENTITY bookmarks.folder.other.label "Ezinye iiBhukmakhi">
 <!ENTITY bookmarks.folder.desktop.label "IZalathisi eziphawulayo zedesktop">
 <!ENTITY bookmarks.folder.mobile.label "IZalathisi eziphawulayo zemobhayile">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -75,7 +75,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos2 "Imiqathango yenkonzo">
+<!ENTITY fxaccount_status_linkprivacy2 "Isaziso sabucala">
 <!ENTITY fxaccount_status_more "Yongeza&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 

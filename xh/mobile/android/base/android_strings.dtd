@@ -773,5 +773,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Yongeza kwiskrini sasekhaya">
 
 <!ENTITY helper_first_offline_bookmark_title "Funda ngaphandle kwe-intanethi">
-
-
+<!ENTITY helper_first_offline_bookmark_message "Fumana iiayithem zeSijongi soMfundi kwiiBhukmakhi, nangaphandle kwe-Intanethi.">
+<!ENTITY helper_first_offline_bookmark_button "Yiya kwiiBhukmakhi">
