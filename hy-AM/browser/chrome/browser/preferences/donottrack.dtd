@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "40em">
 <!ENTITY window.height                "8em">
 
-<!ENTITY doNotTrackCheckbox.label     "Օգտ. չհետագծելը">
+<!ENTITY doNotTrackCheckbox.label     "Օգտագործել Չհետագծելը">
 <!ENTITY doNotTrackCheckbox.accesskey "Օ">
 
 <!ENTITY doNotTrackLearnMore.label    "Իմանալ ավելին">
