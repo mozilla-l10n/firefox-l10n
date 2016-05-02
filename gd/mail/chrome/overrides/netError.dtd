@@ -22,7 +22,8 @@
 <!ENTITY fileNotFound.title "Cha deach am faidhle a lorg">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Dèan cinnteach nach eile litrichean mòra no beaga san àite chearr no mearachdan litreachaidh eile.</li> <li>Saoil an deach am faidhle a ghluasad, a sguabadh às no gun deach ainm ùr a chur air?</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Chaidh inntrigeadh dhan fhaidhle a dhiùltadh">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Dh’fhaoidte gun deach a thoirt air falbh no a ghluasad no gu bheil bacadh air inntrigeadh an cois ceadan an fhaidhle.</li> </ul>">
 
 <!ENTITY generic.title "Mo chreach!">
 <!ENTITY generic.longDesc "<p>Chan urrainn do &brandShortName; an duilleag seo a luchdadh air sgàth adhbhar air choireigin.</p>">
