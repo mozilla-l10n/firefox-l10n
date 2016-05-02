@@ -686,21 +686,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; on estänyt suojaamattoman sisällön näyttämisen.">
-<!ENTITY identity.passiveLoaded "Tällä sivulla on suojaamatonta sisältöä (kuten kuvat).">
+<!ENTITY identity.passiveLoaded "Tällä sivulla on suojaamatonta sisältöä (kuten kuvia).">
 <!ENTITY identity.activeLoaded "Suojaamattoman sisällön estäminen on otettu pois päältä sivustolla.">
 <!ENTITY identity.weakEncryption "Sivusto käyttää heikkoa salausta.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Yhteytesi verkkosivustoon ei ole yksityinen. Sivullisten on mahdollista tarkastella lähetettyjä tietoja (esim. salasanat, viestit, luottokorttitiedot).">
+<!ENTITY identity.description.insecure "Yhteytesi verkkosivustoon ei ole yksityinen. Sivullisten on mahdollista tarkastella lähetettyjä tietoja (esim. salasanoja, viestejä, luottokorttitietoja).">
 <!ENTITY identity.description.insecureLoginForms "Kirjautumistiedot, jotka annat tällä sivulla eivät ole suojassa ja ne voidaan murtaa.">
 <!ENTITY identity.description.weakCipher "Yhteytesi verkkosivustoon käyttää heikkoa salausta eikä sen takia ole yksityinen.">
 <!ENTITY identity.description.weakCipher2 "Sivullisten on mahdollista tarkastella lähetettyjä tietoja tai vaikuttaa sivuston toimintaan.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; on estänyt suojaamattoman sisällön näyttämisen.">
 <!ENTITY identity.description.passiveLoaded "Yhteytesi verkkosivustoon ei ole yksityinen ja sivullisten on mahdollista tarkastella tietoja, joita lähetät sivustolle.">
-<!ENTITY identity.description.passiveLoaded2 "Tällä sivulla on suojaamatonta sisältöä (kuten kuvat).">
+<!ENTITY identity.description.passiveLoaded2 "Tällä sivulla on suojaamatonta sisältöä (kuten kuvia).">
 <!ENTITY identity.description.passiveLoaded3 "Vaikka &brandShortName; on osaksi estänyt suojaamattoman sisällön, mutta osa näkyvästä sisällöstä on edelleen suojaamatonta (kuten kuvat).">
-<!ENTITY identity.description.activeLoaded "Tällä sivulla on suojaamatonta sisältöä (kuten komentosarjat) eikä yhteytesi sivustoon ei ole yksityinen.">
-<!ENTITY identity.description.activeLoaded2 "Sivullisten on mahdollista tarkastella lähetettyjä tietoja (esim. salasanat, viestit, luottokorttitiedot).">
+<!ENTITY identity.description.activeLoaded "Tällä sivulla on suojaamatonta sisältöä (kuten komentosarjoja) eikä yhteytesi sivustoon ei ole yksityinen.">
+<!ENTITY identity.description.activeLoaded2 "Sivullisten on mahdollista tarkastella lähetettyjä tietoja (esim. salasanoja, viestejä, luottokorttitietoja).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Ota suojaus käyttöön">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "O">
