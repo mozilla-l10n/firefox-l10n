@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Account manager window for Instantbird -->
 
+<!ENTITY accounts.title                      "Fiókok – &brandShortName;">
+<!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
-
+<!ENTITY accountsWindow.title                "Azonnali üzenetküldés állapota">
+<!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
 
 
 
