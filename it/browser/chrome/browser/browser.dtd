@@ -122,6 +122,10 @@
 <!ENTITY recentBookmarks.label "Aggiunti di recente">
 <!ENTITY otherBookmarksCmd.label "Altri segnalibri">
 <!ENTITY bookmarksToolbarChevron.tooltip "Visualizza altri segnalibri">
+<!ENTITY showRecentlyBookmarked.label "Visualizza segnalibri recenti">
+<!ENTITY showRecentlyBookmarked.accesskey "b">
+<!ENTITY hideRecentlyBookmarked.label "Nascondi segnalibri recenti">
+<!ENTITY hideRecentlyBookmarked.accesskey "b">
 <!ENTITY backCmd.label "Indietro">
 <!ENTITY backButton.tooltip "Torna indietro di una pagina">
 <!ENTITY forwardCmd.label "Avanti">
