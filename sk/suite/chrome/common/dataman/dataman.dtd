@@ -74,6 +74,13 @@
 <!ENTITY perm.button.add.label "Pridať">
 <!ENTITY perm.button.add.accesskey "P">
 
+<!-- password permissions -->
+<!ENTITY permpwd.UseDefault "Použiť predvolené">
+<!ENTITY permpwd.AskAlways "Vždy sa opýtať">
+<!ENTITY permpwd.NeverSave "Nikdy neukladať">
+
+<!ENTITY permpwd.button.add.label "Pridať">
+
 <!-- preferences -->
 <!ENTITY prefs.description "Nastavenia obsahu je spôsob, akým &brandShortName; ukladá nastavenia ako úroveň priblíženia stránky osobitne pre každú stránku.">
 
