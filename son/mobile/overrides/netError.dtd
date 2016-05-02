@@ -25,10 +25,10 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Tuku maaɲoo guna harfu beerandiyan wala hantum firka taney se.</li> <li>Guna ka dii wala tukoo mana ganandi, maa barmay, wala tuusandi.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Tukoo duuyanoo mongu">
-
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>A hin ka tee kaŋ a n' ka hun, ka ganandi wala duɲeyaney ga ganji a ma duwandi.</li> </ul>">
 
 <!ENTITY generic.title "Aywa, woo ši hin ka toonandi.">
-
+<!ENTITY generic.longDesc "<p>Dalil foo ga too &brandShortName; ši hin ka moɲoo woo zumandi.</p>">
 
 <!ENTITY malformedURI.title "Aderesoo ši boori">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
@@ -118,3 +118,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "War ciyaroo manti saajante">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ga goy nda dabaribayray kaŋ žen nd'a ga yalaafu zanbakey se. A ga faala zanbakaw se a ma hin ka alhabar kaŋ war ga tammahãa a ga saajaw fukkar. Interneti nungu juwalkaa mma hima ka feršikaa hanse jina hala war ma ma nungoo guna.</p><p>Firka tammaasa:NS_ERROR_NET_INADEQUATE_SECURITY</p>">
