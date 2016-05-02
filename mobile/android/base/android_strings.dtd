@@ -24,15 +24,16 @@
 
 <!ENTITY  onboard_start_restricted1 "Fan sàbhailte ’s cum smachd air cùisean leis an tionndadh simplichte seo de &brandShortName;.">
 
-
-
-
+<!ENTITY  reading_list_migration_title "Chaidh an liosta-leughaidh a cheangal">
+<!ENTITY  reading_list_migration_subtext "Thèid buill na liosta-leughaidh agad a chur ris na comharran-lìn agad a-nis">
+<!ENTITY  reading_list_migration_goto_bookmarks "Rach gu na comharran-lìn">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Tha panail nan comharran-lìn falaichte">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Comharran-lìn">
 <!ENTITY  history_title "Eachdraidh">
-
+<!ENTITY  reading_list_title "An liosta-leughaidh">
 <!ENTITY  recent_tabs_title "Tabaichean o chionn goirid">
 
 <!ENTITY  switch_to_tab "Gearr leum gun taba">
@@ -62,15 +63,18 @@
 <!ENTITY bookmark_removed "Air a thoirt air falbh">
 <!ENTITY bookmark_updated "Comharra-lìn air ùrachadh">
 <!ENTITY bookmark_options "Roghainnean">
-
+<!ENTITY screenshot_added_to_bookmarks "Chaidh an glacadh-sgrìn a chur ris na comharran-lìn">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Glacaidhean-sgrìn">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "An liosta-leughaidh">
 
-
+<!ENTITY reader_saved_offline "Air a shàbhaladh far loidhne">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Dèan suids">
 
 <!ENTITY history_today_section "An-diugh">
 <!ENTITY history_yesterday_section "An-dè">
@@ -109,7 +113,7 @@
 <!ENTITY settings "Roghainnean">
 <!ENTITY settings_title "Roghainnean">
 <!ENTITY pref_category_general "Coitcheann">
-
+<!ENTITY pref_category_general_summary3 "Dachaigh, cànan, ciutha nan taba">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -148,15 +152,15 @@
 <!ENTITY overlay_no_synced_devices "Cha deach uidheam a lorg a tha ceangailte ri cunntas Firefox">
 
 <!ENTITY pref_category_search3 "Lorg">
-
+<!ENTITY pref_category_search_summary2 "Cuir ris, suidhich bun-roghainn, seall molaidhean">
 <!ENTITY pref_category_accessibility "So-inntrigeachd">
 <!ENTITY pref_category_accessibility_summary2 "Meud an teacsa, sùm, ion‑chur gutha">
 <!ENTITY pref_category_privacy_short "Prìobhaideachd">
-
+<!ENTITY pref_category_privacy_summary4 "Tracadh, clàraidhean, roghainnean dàta">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Mu &brandShortName;, CÀBHA, do bheachd air">
 <!ENTITY pref_category_datareporting "Roghainnean dàta">
-
+<!ENTITY pref_category_logins "Clàraidhean a-steach">
 <!ENTITY pref_learn_more "Barrachd fiosrachaidh">
 <!ENTITY pref_category_installed_search_engines "Einnseanan-luirg stàlaichte">
 <!ENTITY pref_category_add_search_providers "Cuir barrachd solaraichean luirg ris">
@@ -168,12 +172,13 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "GLIOCAS: ’S urrainn dhut làrach-lìn sam bith a chur ri liosta nan solaraichean luirg ma nì thu brùthadh fada air an raon luirg aige ’s a’ suathadh ris an ìomhaigheag &formatI; an uairsin.">
 <!ENTITY pref_category_advanced "Adhartach">
-
-
-
-
-
+<!ENTITY pref_category_advanced_summary3 "Aisig tabaichean, caomhnaiche dàta, innealan an luchd-leasachaidh">
+<!ENTITY pref_category_notifications "Brathan">
+<!ENTITY pref_category_notifications_summary "Gleusan ùra, ùrachaidhean làraichean-lìn">
+<!ENTITY pref_content_notifications "Ùrachaidhean làraichean-lìn">
+<!ENTITY pref_content_notifications_summary2 "Fidir susbaint ùr o làraichean ris a bheil taic">
 <!ENTITY pref_developer_remotedebugging_usb "Dì-bhugachadh cèin slighe USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Dì-bhugachadh cèin slighe WiFi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Feumaidh leughadair chòdaichean QR a bhith aig an uidheam agad mus obraich dì-bhugachadh slighe WiFi.">
@@ -183,8 +188,8 @@
 <!ENTITY pref_category_home "Dhachaigh">
 <!ENTITY pref_category_home_summary "Gnàthaich an duilleag-dhachaigh agad">
 <!ENTITY pref_category_home_panels "Panailean">
-
-
+<!ENTITY pref_category_home_add_ons "Tuilleadain">
+<!ENTITY pref_home_updates2 "Ùrachaidhean susbaint">
 <!ENTITY pref_home_updates_enabled "An comas">
 <!ENTITY pref_home_updates_wifi "Air WiFi a-mhàin">
 <!ENTITY pref_category_home_homepage "Duilleag-dhachaigh">
@@ -210,7 +215,7 @@
 <!ENTITY pref_header_search "Lorg">
 <!ENTITY pref_header_privacy_short "Prìobhaideachd">
 <!ENTITY pref_header_accessibility "So-inntrigeachd">
-
+<!ENTITY pref_header_notifications "Brathan">
 <!ENTITY pref_header_advanced "Adhartach">
 <!ENTITY pref_header_help "Cobhair">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -220,8 +225,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "An comas, as aonais feadhainn o threas-phàrtaidh">
 <!ENTITY pref_cookies_disabled "À comas">
 
-
-
+<!ENTITY pref_category_data_saver "Caomhnaiche dàta">
+<!ENTITY pref_category_media "Meadhanan">
+<!ENTITY pref_category_developer_tools "Innealan an luchd-leasachaidh">
 
 <!ENTITY pref_tap_to_load_images_title2 "Seall dealbhan">
 <!ENTITY pref_tap_to_load_images_enabled "An-còmhnaidh">
@@ -229,8 +235,9 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Air a chasg">
 
 <!ENTITY pref_show_web_fonts "Seall cruthan-clò-lìn">
+<!ENTITY pref_show_web_fonts_summary2 "Luchdaich a-nuas cruthan-clò cèin nuair a luchdaichear duilleag">
 
-
+<!ENTITY pref_tracking_protection_title2 "Dìon o thracadh">
 <!ENTITY pref_tracking_protection_summary3 "An comas sa bhrabhsadh phrìobhaideach">
 <!ENTITY pref_donottrack_title "Na tracaich">
 <!ENTITY pref_donottrack_summary "Innsidh &brandShortName; do làraichean nach eil thu ag iarraidh gun tracaich iad thu">
@@ -239,7 +246,8 @@
 <!ENTITY pref_tracking_protection_enabled_pb "An comas sa bhrabhsadh phrìobhaideach">
 <!ENTITY pref_tracking_protection_disabled "À comas">
 
-
+<!ENTITY pref_whats_new_notification "Na tha ùr ann am &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Fàs eòlach air gleusan ùra an cois ùrachaidh">
 
 <!ENTITY tracking_protection_prompt_title "Le dìon o thracadh a-nis">
 <!ENTITY tracking_protection_prompt_text "Dèan bacadh air eileamaidean tracaidh.">
@@ -259,7 +267,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Rach gu na roghainnean">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -273,19 +281,22 @@
 
 <!ENTITY tab_queue_notification_settings "Mus urrainn dhut iomadh ceangal fhosgladh aig an aon àm, cuir an comas “Draw over other apps” a thaobh &brandShortName;">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!ENTITY content_notification_title_plural "&formatD; làraichean-lìn air ùrachadh">
+<!ENTITY content_notification_action_settings "Roghainn nam brathan">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "Air ùrachadh &formatS;">
 
 <!ENTITY pref_char_encoding "Còdachadh charactaran">
 <!ENTITY pref_char_encoding_on "Seall an clàr-taice">
 <!ENTITY pref_char_encoding_off "Na seall an clàr-taice">
-
+<!ENTITY pref_clear_private_data2 "Falamhaich an dàta prìobhaideach">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Falamhaich an-dràsta">
@@ -294,7 +305,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Tagh an dàta a thèid fhalamhadh">
 <!ENTITY pref_plugins "Plugain">
 <!ENTITY pref_plugins_enabled "An comas">
-
+<!ENTITY pref_plugins_tap_to_play2 "Suath ris gus a chluich">
 <!ENTITY pref_plugins_disabled "À comas">
 <!ENTITY pref_text_size "Meud an teacsa">
 <!ENTITY pref_restore_tabs "Aisig a h-uile taba">
@@ -344,6 +355,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Luchdaidhean a-nuas">
 <!ENTITY pref_private_data_syncedTabs "Tabaichean sioncronaichte">
 
+<!ENTITY pref_default_browser "Cleachd mar am brabhsair bunaiteach">
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
 <!ENTITY pref_vendor_faqs "CÀBHA">
 <!ENTITY pref_vendor_feedback "Dè do bheachd?">
@@ -389,6 +401,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Ùrachaidhean fèin-obrachail">
 <!ENTITY pref_update_autodownload_wifi "Air WiFi a-mhàin">
 <!ENTITY pref_update_autodownload_never "Chan ann idir">
 <!ENTITY pref_update_autodownload_always "An-còmhnaidh">
@@ -399,7 +412,7 @@ size. -->
 <!ENTITY quit "Fàg an-seo">
 
 <!ENTITY addons "Tuilleadain">
-
+<!ENTITY logins "Clàraidhean a-steach">
 <!ENTITY downloads "Luchdaidhean a-nuas">
 <!ENTITY char_encoding "Còdachadh charactaran">
 
@@ -470,7 +483,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Meudaich raointean beaga">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Cuir am meud ceanglaichean is raointean fhoirmean nuair a shuathar faisg orra">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -523,7 +536,7 @@ size. -->
 
 <!ENTITY home_title "Dachaigh &brandShortName;">
 <!ENTITY home_history_title "Eachdraidh">
-
+<!ENTITY home_history_back_to "Air ais gun eachdraidh air fad">
 <!ENTITY home_clear_history_button "Falamhaich an eachdraidh brabhsaidh">
 <!ENTITY home_clear_history_confirm "A bheil thu cinnteach gu bheil thu airson an eachdraidh agad fhalamhadh?">
 <!ENTITY home_bookmarks_empty "Nochdaidh comharran-lìn a shàbhaileas tu an-seo.">
@@ -562,6 +575,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Cuir a-steach facal-luirg">
 
+<!ENTITY filepicker_title "Tagh faidhle">
 <!ENTITY filepicker_audio_title "Tagh fuaim no clàraich tè">
 <!ENTITY filepicker_image_title "Tagh dealbh no tog fear">
 <!ENTITY filepicker_video_title "Tagh video no clàraich fear">
@@ -590,6 +604,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "Chan eil cuid dhen duilleag seo tèarainte (can dealbhan).">
 <!ENTITY mixed_content_protection_disabled1 "Chuir thu an dìon o shusbaint neo-thèarainte à comas.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "Dìon o thracadh">
 <!ENTITY doorhanger_tracking_state_enabled "An comas">
 <!ENTITY doorhanger_tracking_state_disabled "À comas">
 <!ENTITY doorhanger_tracking_message_enabled1 "Rinneadh oidhirpean do thracadh air loidhne ach bhac sinn iad.">
@@ -754,6 +770,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "Tha &brandShortName; cho ùr \u0027s a ghabhas">
 <!ENTITY whatsnew_notification_summary "Faigh a-mach dè tha ùr san tionndadh seo">
 
+<!ENTITY promotion_add_to_homescreen "Cuir ris an sgrìn mhòr">
 
-
-
+<!ENTITY helper_first_offline_bookmark_title "Leugh far loidhne">
+<!ENTITY helper_first_offline_bookmark_message "Faigh cothrom air na rudan san t-sealladh-leughaidh sna comharran-lìn agad, fiù far loidhne.">
+<!ENTITY helper_first_offline_bookmark_button "Rach gu na comharran-lìn">
