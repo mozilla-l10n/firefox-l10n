@@ -105,7 +105,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Feuch am modh tèarainte">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ath-thòisich leis na tuilleadan air an cur à comas…">
 
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Gleusan">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnosachd">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Loga nam fàilligidhean">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
