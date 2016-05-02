@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate                 "Yksityistä selausikkunaa ei ole valittu.">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Tämä ei ole yksityinen selausikkuna.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Avaa yksityinen ikkuna">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "y">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "A">
 
 <!ENTITY privateBrowsing.title                           "Yksityisselaus">
 <!ENTITY privateBrowsing.title.tracking                  "Yksityisselaus seurannan suojauksen kanssa">
