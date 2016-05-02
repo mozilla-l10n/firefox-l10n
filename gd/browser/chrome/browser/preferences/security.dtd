@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Bac susbaint chunnartach is susbaint foill">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "Bac luchdaidhean a-nuas cunnartach">
+<!ENTITY  blockDownloads.accesskey        "d">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Thoir rabhadh dhomh mu bhathar-bhog gun iarraidh is bathar-bog neo-chumanta">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Eisgeachdan…">
 <!ENTITY  addonExceptions.accesskey     "E">
