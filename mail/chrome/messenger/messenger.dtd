@@ -151,6 +151,8 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Visualizzazione compatta">
 <!ENTITY compactVersion.accesskey "V">
+<!ENTITY folderPaneBar.label "Barra degli strumenti del pannello delle cartelle">
+<!ENTITY folderModeSelector.label "Vista cartella">
 <!ENTITY sortMenu.label "Ordina per">
 <!ENTITY sortMenu.accesskey "O">
 <!ENTITY sortByDateCmd.label "Data">
@@ -336,6 +338,8 @@
 <!ENTITY editAsNewMsgCmd.label "Modifica messaggio come nuovo">
 <!ENTITY editAsNewMsgCmd.accesskey "M">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Modifica bozza messaggio">
+<!ENTITY editDraftMsgCmd.accesskey "E">
 <!ENTITY createFilter.label "Crea un filtro dal messaggio…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Sposta in">
@@ -651,6 +655,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "A">
 <!ENTITY contextEditMsgAsNew.label "Modifica come nuovo messaggio">
 <!ENTITY contextEditMsgAsNew.accesskey "M">
+<!ENTITY contextEditDraftMsg.label "Modifica bozza messaggio">
 <!ENTITY contextArchive.label "Archivia">
 <!ENTITY contextArchive.accesskey "c">
 <!ENTITY contextReplySender.label "Rispondi solo al mittente">
@@ -678,9 +683,11 @@
 <!ENTITY contextCopyMsgMenu.label "Copia in">
 <!ENTITY contextCopyMsgMenu.accesskey "n">
 <!ENTITY contextKillThreadMenu.label "Ignora la discussione">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignora le sotto discussioni">
 <!ENTITY contextWatchThreadMenu.label "Tieni d'occhio la discussione">
+<!ENTITY contextWatchThreadMenu.accesskey "h">
 <!ENTITY contextSaveAs.label "Salva come…">
 <!ENTITY contextSaveAs.accesskey "v">
 <!ENTITY contextPrint.label "Stampa…">
