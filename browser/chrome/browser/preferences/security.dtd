@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Արգելափակել վտանգավոր և խաբուսիկ բովանդակությունը">
+<!ENTITY  enableSafeBrowsing.accesskey    "Ա">
 
+<!ENTITY  blockDownloads.label            "Արգելափակել վտանգավոր ներբեռնումները">
+<!ENTITY  blockDownloads.accesskey        "վ">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Զգուշացնել ինձ անցանկալի և ոչ սովորական ծրագրերի մասին">
+<!ENTITY  blockUncommonUnwanted.accesskey "ս">
 
 <!ENTITY  addonExceptions.label         "Բացառություններ…">
 <!ENTITY  addonExceptions.accesskey     "Բ">
