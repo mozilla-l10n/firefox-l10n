@@ -17,7 +17,7 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "暫存檔案">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       " 將會儲存">
-<!ENTITY aboutPrivateBrowsing.info.saved.after           "您的:">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          "您的:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "下載項目">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "書籤">
 <!ENTITY aboutPrivateBrowsing.note.before                "隱私瀏覽">
