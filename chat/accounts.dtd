@@ -14,26 +14,28 @@
 <!ENTITY accountManager.close.label          "Bezárás">
 <!ENTITY accountManager.close.accesskey      "B">
 <!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY accountManager.noAccount.title      "Még nincs beállítva fiók">
+<!ENTITY accountManager.noAccount.description "Kattintson az &accountManager.newAccount.label; gombra, és a &brandShortName; végigvezeti a fiók beállításán.">
+<!ENTITY account.autoSignOn.label     "Bejelentkezés indításkor">
+<!ENTITY account.autoSignOn.accesskey "d">
+<!ENTITY account.connect.label        "Kapcsolódás">
+<!ENTITY account.connect.accesskey    "o">
+<!ENTITY account.disconnect.label     "Leválás">
+<!ENTITY account.disconnect.accesskey "L">
+<!ENTITY account.delete.label         "Törlés">
+<!ENTITY account.delete.accesskey     "T">
+<!ENTITY account.edit.label           "Tulajdonságok">
+<!ENTITY account.edit.accesskey       "T">
+<!ENTITY account.moveup.label         "Felfelé">
+<!ENTITY account.movedown.label       "Lefelé">
+<!ENTITY account.cancelReconnection.label         "Újracsatlakozás megszakítása">
+<!ENTITY account.cancelReconnection.accesskey     "r">
+<!ENTITY account.copyDebugLog.label     "Hibakeresési napló másolása">
+<!ENTITY account.copyDebugLog.accesskey "H">
+<!ENTITY account.showDebugLog.label     "Hibakereső napló megjelenítése">
+<!ENTITY account.showDebugLog.accesskey "H">
+<!ENTITY account.connecting           "Csatlakozás…">
+<!ENTITY account.disconnecting        "Szétkapcsolás…">
+<!ENTITY account.disconnected         "Nincs kapcsolódva">
