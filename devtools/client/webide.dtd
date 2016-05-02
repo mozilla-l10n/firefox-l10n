@@ -111,7 +111,7 @@
 
 <!-- Addons -->
 <!ENTITY addons_title "Zusätzliche Komponenten">
-<!ENTITY addons_aboutaddons "Add-ons-Manager öffnen">
+<!ENTITY addons_aboutaddons "Add-ons-Verwaltung öffnen">
 
 <!-- Prefs -->
 <!ENTITY prefs_title "Einstellungen">
