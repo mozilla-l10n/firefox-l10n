@@ -12,7 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Globalne pytanje a indicěrowanje zmóžniś">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY allowHWAccel.label            "Hardwarowe póspěšenje wužywaś, jolic jo k dispoziciji">
-<!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY allowHWAccel.accesskey        "H">
 <!ENTITY storeType.label               "Sładowański typ powěsćow za nowe konta:">
 <!ENTITY storeType.accesskey           "t">
 <!ENTITY mboxStore2.label              "Dataja na zarědnik (mbox)">
@@ -46,7 +46,7 @@
 <!ENTITY telemetryLearnMore.label        "Dalšne informacije">
 
 <!ENTITY crashReporterSection.label      "Rozpšawjak wó wowalenjach">
-<!ENTITY crashReporterDesc.label         "&brandShortName; sćelo rozpšawy wó wowalenjach, aby&vendorShortName; pomagał, waš e-mailowy klient stabilnjejšy a wěsćejšy cyniś.">
+<!ENTITY crashReporterDesc.label         "&brandShortName; sćelo rozpšawy wó wowalenjach, aby&vendorShortName; pomagał, waš e-mailowy klient stabilnjejšy a wěsćejšy cyniś">
 <!ENTITY enableCrashReporter.label       "Rozpšawjak wo wowalenjach zmóžniś">
 <!ENTITY enableCrashReporter.accesskey   "R">
 <!ENTITY crashReporterLearnMore.label    "Dalšne informacije">
@@ -101,7 +101,7 @@
 <!ENTITY certs.ask                       "Kuždy raz se pšašaś">
 <!ENTITY certs.ask.accesskey             "K">
 <!ENTITY enableOCSP.label                "Pla wótegronowych serwerow OCSP se napšašowaś, aby se aktualna płaśiwosć certifikatow wobkšuśiło">
-<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY enableOCSP.accesskey            "P">
 
 <!ENTITY manageCertificates.label "Certifikaty zastojaś">
 <!ENTITY manageCertificates.accesskey "C">
