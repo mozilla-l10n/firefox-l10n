@@ -50,7 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activaus">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
 <!ENTITY aboutSupport.appBasicsUserAgent "Achent d'usuario">
-
+<!ENTITY aboutSupport.appBasicsOS "SO">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Uso de memoria">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
@@ -105,7 +105,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Intentar en Modo Seguro">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar con os complementos desactivaus…">
 
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Caracteristicas">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnosticos">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Rechistro de fallos">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
