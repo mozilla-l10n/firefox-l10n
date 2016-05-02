@@ -42,6 +42,7 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Prístup k súboru bol zamietnutý">
 
 <!ENTITY generic.title "Problém.">
 <!ENTITY generic.longDesc "
@@ -204,5 +205,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Rozšírené informácie: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "Vaše pripojenie nie je zabezpečené">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
