@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "Dataja njejo se namakała">
 <!ENTITY fileNotFound.longDesc "<ul><li>Jo móžno, až objekt jo se pśemjenił, wótpórał abo pśesunuł?</li><li>Jo zmólka pšawopisa, wjelikopisanja, abo hynakša typografiska zmólka w adresy?</li><li>Maśo dosěgajuce pśistupne pšawa za pominany objekt?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "Pśistup na dataju jo se wótpokazał">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Snaź jo se wótpórała, pśesunuła, abo datajowe pšawa zajźuju pśistupoju.</li></ul>">
 
 <!ENTITY generic.title "Napšašowanje njedajo se dokóńcyś">
 <!ENTITY generic.longDesc "<p>Pśidatne informacije wó toś tom problemje abo zmólce njestoje tuchylu k dispoziciji.</p>">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "Daloki XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó problemje informěrował.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Waš zwisk njejo wěsty">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> wužywa wěstotnu technologiju, kótaraž jo zestarjona a sensibelna za napady. Napadowaŕ by mógał informacije lažko namakaś, kótarež maśo za wěste. Websedłowy administrator musy problem na serwerje rozwězaś, nježli až móžośo se k sedłoju woglědaś.</p><p>Zmólkowy kod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
