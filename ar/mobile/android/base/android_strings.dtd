@@ -24,8 +24,8 @@
 
 <!ENTITY  onboard_start_restricted1 "ابقَ في مأمن و أمسك بزمام الأمور بإصدارة &brandShortName; المبسّطة هذه.">
 
-
-
+<!ENTITY  reading_list_migration_subtext "ستُضاف قائمة قراءتك الآن إلى علاماتك">
+<!ENTITY  reading_list_migration_goto_bookmarks "اذهب إلى العلامات">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
