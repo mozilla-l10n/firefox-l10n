@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "No s'ha trpbau o fichero">
 <!ENTITY fileNotFound.longDesc "<ul><li>Ye posible que l'elemento s'haiga renombrau, eliminau u cambiau de ruta?</li><li>I hai bella error d'ortografía, mayusclas u qualsiquier atra error en escribir l'adreza?</li><li>Tiene pros privilechios d'acceso ta l'elemento solicitau?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "S'ha denegau l'acceso a lo fichero">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Talment s'haiga borrau, moviu u l'acceso ye vedau por los permisos d'o fichero.</li> </ul>">
 
 <!ENTITY generic.title "No s'ha puesto completar a solicitut">
 <!ENTITY generic.longDesc "<p>Actualment no i hai información adicional disponible ta iste problema u error.</p>">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacte con os propietarios d'o puesto web ta informar-les d'iste problema.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "La connexion no ye pas segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> fa servir technolochía de seguranza que ye obsoleta y vulnerable debant d'un ataque. Un acatant podría revelar información que vusté creyeba segura. L'administrador d'o puesto web habrá de fixar lo servidor antes que vusté pueda vesitar lo puesto.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
