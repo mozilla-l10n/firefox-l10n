@@ -6,6 +6,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Privát ablak megnyitása">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
+<!ENTITY privateBrowsing.title                           "Privát böngészés">
 
 
 
