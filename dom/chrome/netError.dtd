@@ -65,3 +65,5 @@
 <!ENTITY corruptedContentError.longDesc "<p>La página que está intentando ver no puede mostrarse porque se ha detectado un error en la transmisión de datos.</p><ul><li>Contacte con los propietarios del sitio web para informarles de este problema.</li></ul>">
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte con los propietarios del sitio web para informarles de este problema.</li></ul></p>">
+<!ENTITY inadequateSecurityError.title "Su conexión no es segura">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnología de seguridad que está anticuada y es vulnerable a ataques. Un atacante podría revelar fácilmente información que usted consideraría segura. El administrador del sitio web tendrá que corregir el servidor antes de que se pueda visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
