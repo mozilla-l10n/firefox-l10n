@@ -15,7 +15,7 @@
 <!ENTITY helpMenuWin.label        "Alîkarî"> 
 <!ENTITY helpMenuWin.accesskey    "A">
 <!ENTITY aboutProduct2.label      "Derbarê &brandShortName;ê de">
-<!ENTITY aboutProduct2.accesskey  "a">
+<!ENTITY aboutProduct2.accesskey  "D">
 <!ENTITY productHelp2.label       "Alîkariya &brandShorterName;ê">
 <!ENTITY productHelp2.accesskey   "A">
 <!ENTITY helpMac.commandkey       "?">

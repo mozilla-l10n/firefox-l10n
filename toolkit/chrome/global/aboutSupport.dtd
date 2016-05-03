@@ -35,7 +35,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
-
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Raboriya nûkirinan nîşan bide">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Pelrêça Profîlê">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
