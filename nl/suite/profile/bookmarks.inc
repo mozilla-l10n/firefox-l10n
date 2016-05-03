@@ -6,7 +6,7 @@
 #define bookmarks_title Bladwijzers
 #define bookmarks_heading Bladwijzers
 
-#define personal_toolbarfolder Persoonlijke werkbalk
+#define personal_toolbarfolder Map Persoonlijke werkbalk
 
 #define seamonkey_and_mozilla SeaMonkey en Mozilla
 
