@@ -9,7 +9,7 @@
 <!ENTITY privateBrowsing.title                              "Privaatne veebilehitsemine">
 <!ENTITY privateBrowsing.title.tracking                     "Privaatne veebilehitsemine jälitamisvastase kaitsega">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before          "Kui sa lehitsed veebi privaatses aknas, siis Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize       "ei salvestata">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize       "ei salvesta">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after           ":">
 <!ENTITY aboutPrivateBrowsing.info.visited                  "külastatud lehti">
 <!ENTITY aboutPrivateBrowsing.info.searches                 "otsinguid">

@@ -117,7 +117,7 @@
 <!ENTITY proxyConnectFailure.title             "Puhverserver keeldub ühendustest">
 <!ENTITY proxyConnectFailure.longDesc          "
 <ul>
-  <li>Kontrolli puhverserveri sätteid, et teha kindlaks, et need on õiged.</li>
+  <li>Kontrolli puhverserveri sätteid, et teha kindlaks, kas need on õiged.</li>
   <li>Võta ühendust oma võrguadministraatoriga, et teha kindlaks, kas puhverserver
     töötab korralikult.</li>
 </ul>

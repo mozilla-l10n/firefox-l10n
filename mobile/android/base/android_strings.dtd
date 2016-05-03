@@ -736,17 +736,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Lisad">
-<!ENTITY restrictable_feature_addons_installation_description "lisavad Firefoxile funktsionaalsust. Märkus: lisad võivad keelata teatud piiranguid">
+<!ENTITY restrictable_feature_addons_installation_description "lisavad Firefoxile funktsionaalsust. Märkus: lisad võivad tühistada teatud piiranguid">
 <!ENTITY restrictable_feature_private_browsing "Privaatne veebilehitsemine">
 <!ENTITY restrictable_feature_private_browsing_description "võimaldab pereliikmetel lehitseda internetti nii, et külastatud saitidest ja lehtedest ei jää maha ajalugu">
 <!ENTITY restrictable_feature_clear_history "Ajaloo kustutamine">
 <!ENTITY restrictable_feature_clear_history_description "võimaldab pereliikmetel kustutada veebilehitsemise ajaloo">
 <!ENTITY restrictable_feature_advanced_settings "Edasijõudnuile mõeldud sätted">
-<!ENTITY restrictable_feature_advanced_settings_description "sisaldab järjehoidjate importimist, kaartide taastamist ja automaatseid uuendusi, võib välja lülitada, et sätted oleks sobilikud kõigile pereliikmetele">
-<!ENTITY restrictable_feature_camera_microphone "kaamera ja mikrofon">
-<!ENTITY restrictable_feature_camera_microphone_description "võimaldab perekliikmetel reaalajalist suhtlemist erinevatel veebilehtedel">
+<!ENTITY restrictable_feature_advanced_settings_description "sisaldavad järjehoidjate importimist, kaartide taastamist ja automaatseid uuendusi; võib välja lülitada, et sätted oleks sobilikud kõigile pereliikmetele">
+<!ENTITY restrictable_feature_camera_microphone "Kaamera ja mikrofon">
+<!ENTITY restrictable_feature_camera_microphone_description "võimaldab pereliikmetel reaalajalist suhtlemist erinevatel veebilehtedel">
 <!ENTITY restrictable_feature_block_list "Blokitud saitide nimekiri">
-<!ENTITY restrictable_feature_block_list_description "bloki saidid, mis sisaldavad tundlikku sisu">
+<!ENTITY restrictable_feature_block_list_description "võimaldab blokkida saidid, mis sisaldavad tundlikku sisu">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->

@@ -460,7 +460,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey             "u">
 <!ENTITY openFrameCmd.label                      "Ava paneel uues aknas">
 <!ENTITY openFrameCmd.accesskey                  "p">
-<!ENTITY openLinkCmdInContainerTab.label         "Ava link uues konteinerkaardi">
+<!ENTITY openLinkCmdInContainerTab.label         "Ava link uuel konteinerkaardil">
 <!ENTITY openLinkCmdInContainerTab.accesskey     "t">
 <!ENTITY showOnlyThisFrameCmd.label              "Näita ainult seda paneeli">
 <!ENTITY showOnlyThisFrameCmd.accesskey          "d">
