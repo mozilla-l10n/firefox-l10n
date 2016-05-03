@@ -1,15 +1,15 @@
 <!ENTITY inspectorHTMLEdit.label "Править как HTML">
 <!ENTITY inspectorHTMLEdit.accesskey "в">
-<!ENTITY inspectorHTMLCopyInner.label "Копировать внутренний HTML">
-<!ENTITY inspectorHTMLCopyInner.accesskey "п">
-<!ENTITY inspectorHTMLCopyOuter.label "Копировать внешний HTML">
-<!ENTITY inspectorHTMLCopyOuter.accesskey "ш">
-<!ENTITY inspectorCopyUniqueSelector.label "Копировать уникальный селектор">
-<!ENTITY inspectorCopyUniqueSelector.accesskey "ь">
-<!ENTITY inspectorHTMLPasteOuter.label "Вставить внешний HTML">
-<!ENTITY inspectorHTMLPasteOuter.accesskey "а">
-<!ENTITY inspectorHTMLPasteInner.label "Вставить внутренний HTML">
-<!ENTITY inspectorHTMLPasteInner.accesskey "н">
+<!ENTITY inspectorCopyInnerHTML.label "Внутренний HTML">
+<!ENTITY inspectorCopyInnerHTML.accesskey "н">
+<!ENTITY inspectorCopyOuterHTML.label "Внешний HTML">
+<!ENTITY inspectorCopyOuterHTML.accesskey "ш">
+<!ENTITY inspectorCopyCSSSelector.label "CSS-селектор">
+<!ENTITY inspectorCopyCSSSelector.accesskey "л">
+<!ENTITY inspectorPasteOuterHTML.label "Внешний HTML">
+<!ENTITY inspectorPasteOuterHTML.accesskey "ш">
+<!ENTITY inspectorPasteInnerHTML.label "Внутренний HTML">
+<!ENTITY inspectorPasteInnerHTML.accesskey "н">
 <!ENTITY inspectorHTMLPasteExtraSubmenu.label "Вставить…">
 <!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey "и">
 <!ENTITY inspectorHTMLPasteBefore.label "Перед">
@@ -23,20 +23,20 @@
 <!ENTITY inspectorScrollNodeIntoView.label "Прокрутить в вид">
 <!ENTITY inspectorScrollNodeIntoView.accesskey "о">
 <!ENTITY inspectorHTMLDelete.label "Удалить узел">
-<!ENTITY inspectorHTMLDelete.accesskey "л">
-<!ENTITY inspectorAttributeSubmenu.label "Атрибут">
-<!ENTITY inspectorAttributeSubmenu.accesskey "и">
+<!ENTITY inspectorHTMLDelete.accesskey "з">
+<!ENTITY inspectorAttributesSubmenu.label "Атрибуты">
+<!ENTITY inspectorAttributesSubmenu.accesskey "ы">
 <!ENTITY inspectorAddAttribute.label "Добавить атрибут">
-<!ENTITY inspectorAddAttribute.accesskey "и">
+<!ENTITY inspectorAddAttribute.accesskey "б">
 <!ENTITY inspectorEditAttribute.label "Изменить атрибут">
-<!ENTITY inspectorEditAttribute.accesskey "н">
+<!ENTITY inspectorEditAttribute.accesskey "б">
 <!ENTITY inspectorRemoveAttribute.label "Удалить атрибут">
 <!ENTITY inspectorRemoveAttribute.accesskey "а">
 <!ENTITY inspector.selectButton.tooltip "Выберите элемент мышью">
 <!ENTITY inspectorSearchHTML.label2 "Поиск CSS-селекторов">
 <!ENTITY inspectorSearchHTML.key "F">
 <!ENTITY inspectorSearchHTML.label3 "Поиск в HTML">
-<!ENTITY inspectorCopyImageDataUri.label "Копировать URL данных изображения">
+<!ENTITY inspectorImageDataUri.label "URL данных изображения">
 <!ENTITY inspectorShowDOMProperties.label "Показать свойства DOM">
 <!ENTITY inspectorUseInConsole.label "Использовать в Консоли">
 <!ENTITY inspectorExpandNode.label "Развернуть все">
@@ -45,3 +45,5 @@
 <!ENTITY inspectorDuplicateNode.label "Дубликат узла">
 <!ENTITY inspectorAddNode.label "Создать новый узел">
 <!ENTITY inspectorAddNode.accesskey "з">
+<!ENTITY inspectorCopyHTMLSubmenu.label "Копировать">
+<!ENTITY inspectorPasteHTMLSubmenu.label "Вставить">

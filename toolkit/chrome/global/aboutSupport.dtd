@@ -71,3 +71,5 @@
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Лог ошибок">
 <!ENTITY aboutSupport.graphicsGPU1Title "Видеокарта №1">
 <!ENTITY aboutSupport.graphicsGPU2Title "Видеокарта №2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Лог решения">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Способы обхода">
