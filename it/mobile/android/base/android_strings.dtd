@@ -458,3 +458,6 @@
 <!ENTITY helper_first_offline_bookmark_title "Lettura non in linea">
 <!ENTITY helper_first_offline_bookmark_message "Gli elementi salvati in Elenco lettura sono disponibili nei segnalibri, anche non in linea.">
 <!ENTITY helper_first_offline_bookmark_button "Vai ai segnalibri">
+<!ENTITY helper_triple_readerview_open_title "Disponibile non in linea">
+<!ENTITY helper_triple_readerview_open_message "Aggiungi ai segnalibri articoli da Modalità lettura per leggerli anche senza connessione a Internet.">
+<!ENTITY helper_triple_readerview_open_button "Aggiungi ai segnalibri">
