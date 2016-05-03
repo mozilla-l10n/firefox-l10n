@@ -209,8 +209,8 @@
 <!ENTITY printButton.label "Stampar">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Trametter quest messadi ussa">
-<!ENTITY sendlaterButton.tooltip "Trametter quest messadi pli tard">
+<!ENTITY sendButton.tooltip "Trametter ussa quest messadi">
+<!ENTITY sendlaterButton.tooltip "Trametter pli tard quest messadi">
 <!ENTITY quoteButton.tooltip "Citar il messadi precedent">
 <!ENTITY addressButton.tooltip "Tscherner in destinatur ord in cudeschet d'adressas">
 <!ENTITY attachButton.tooltip "Includer ina agiunta">
