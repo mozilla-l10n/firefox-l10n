@@ -398,7 +398,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
-
+<!ENTITY contentSearchSubmit.label    "Lêgerînê bişîne">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -417,6 +417,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "Eyarên lêgerînê biguherîne">
 
 
 
@@ -501,7 +502,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailAudioCmd.label          "Audioyê bi epeyamê bişîne…">
 <!ENTITY emailAudioCmd.accesskey      "A">
 <!ENTITY playPluginCmd.label          "Vê pêvekê çalak bike">
-<!ENTITY playPluginCmd.accesskey      "ç">
+<!ENTITY playPluginCmd.accesskey      "a">
 <!ENTITY hidePluginCmd.label          "Vê pêvekê veşêre">
 <!ENTITY hidePluginCmd.accesskey      "v">
 <!ENTITY copyLinkCmd.label            "Ciyê Girêdanê Ji Ber Bigire">

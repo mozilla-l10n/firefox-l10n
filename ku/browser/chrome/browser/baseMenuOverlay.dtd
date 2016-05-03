@@ -14,8 +14,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Alîkarî"> 
 <!ENTITY helpMenuWin.accesskey    "A">
-
-
+<!ENTITY aboutProduct2.label      "Derbarê &brandShortName;ê de">
+<!ENTITY aboutProduct2.accesskey  "a">
 <!ENTITY productHelp2.label       "Alîkariya &brandShorterName;ê">
 <!ENTITY productHelp2.accesskey   "A">
 <!ENTITY helpMac.commandkey       "?">
@@ -28,7 +28,8 @@
 
 
 
-
+<!ENTITY healthReport2.label      "Rapora Tenduristiyê ya &brandShortName;ê">
+<!ENTITY healthReport2.accesskey  "R">
 
 <!ENTITY helpTroubleshootingInfo.label      "Agahiyên tamîrkirinê">
 <!ENTITY helpTroubleshootingInfo.accesskey  "t">
