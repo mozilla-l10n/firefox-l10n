@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Veszélyes és félrevezető tartalom blokkolása">
+<!ENTITY  enableSafeBrowsing.accesskey    "V">
 
+<!ENTITY  blockDownloads.label            "Veszélyes letöltések blokkolása">
+<!ENTITY  blockDownloads.accesskey        "b">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Figyelmeztessen a nem kívánatos és szokatlan szoftverekre">
+<!ENTITY  blockUncommonUnwanted.accesskey "F">
 
 <!ENTITY  addonExceptions.label         "Kivételek…">
 <!ENTITY  addonExceptions.accesskey     "K">
