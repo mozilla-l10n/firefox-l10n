@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Atros">
 <!ENTITY runtimePanel_installsimulator "Instalar Simulador">
 <!ENTITY runtimePanel_noadbhelper "Instalar l'aduyant ADB">
-
+<!ENTITY runtimePanel_nousbdevice "No veye o suyo dispositivo?">
 <!ENTITY runtimePanel_refreshDevices_label "Refrescar os dispositivos">
 <!-- Lense -->
 
@@ -196,7 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "I l'atro dispositivo demanda un teste en cuenta d'escaniar un codigo QR, por favor, copie a valura d'abaixo en l'atro dispositivo:">
-
+<!ENTITY wifi_auth_qr_size_note "Si lo codigo QR apareix masiau chicot pa que la connexión se pueda establir bien, mire de fer zoom u fer mas gran la finestra.">
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Pre-empaquetar os rechistros de comando">
