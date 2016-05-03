@@ -16,7 +16,7 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "временные файлы">
 <!ENTITY aboutPrivateBrowsing.info.saved.before "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize "будет сохранять">
-<!ENTITY aboutPrivateBrowsing.info.saved.after "ваши:">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2 " ваши:">
 <!ENTITY aboutPrivateBrowsing.info.downloads "загрузки">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks "закладки">
 <!ENTITY aboutPrivateBrowsing.note.before "Приватный просмотр ">
