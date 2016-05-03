@@ -350,7 +350,9 @@
 <!ENTITY home_top_sites_add "Добавить сайт">
 <!ENTITY home_title "Дом &brandShortName;">
 <!ENTITY home_history_title "История">
-<!ENTITY home_history_back_to "Вернуться ко всей истории">
+<!ENTITY home_synced_devices_smartfolder "Облачные устройства">
+<!ENTITY home_synced_devices_number "&formatD; устройств(а)">
+<!ENTITY home_history_back_to2 "Вернуться ко всей истории">
 <!ENTITY home_clear_history_button "Удалить историю веб-сёрфинга">
 <!ENTITY home_clear_history_confirm "Вы уверены, что хотите удалить свою историю?">
 <!ENTITY home_bookmarks_empty "Сохраняемые вами закладки появятся здесь.">
@@ -458,3 +460,6 @@
 <!ENTITY helper_first_offline_bookmark_title "Чтение без подключения">
 <!ENTITY helper_first_offline_bookmark_message "Найдите ваш Список для чтения в Закладках, даже без подключения к Интернету.">
 <!ENTITY helper_first_offline_bookmark_button "Перейти в Закладки">
+<!ENTITY helper_triple_readerview_open_title "Доступно без подключения">
+<!ENTITY helper_triple_readerview_open_message "Добавьте пункты Списка для чтения в Закладки, чтобы читать их без подключения к Интернету.">
+<!ENTITY helper_triple_readerview_open_button "Добавить в закладки">
