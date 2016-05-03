@@ -12,7 +12,7 @@
 <!ENTITY  notificationsPolicyDesc3.label "Vali, millised saidid võivad teavitusi saata">
 <!ENTITY  notificationsPolicyButton.accesskey "a">
 <!ENTITY  notificationsPolicyButton.label "Vali…">
-<!ENTITY  notificationsDoNotDisturb.label "Keela teavitused ajutiseltDo not disturb me">
+<!ENTITY  notificationsDoNotDisturb.label "Keela teavitused ajutiselt">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "K">
 <!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName; taaskäivitamiseni teavitusi ei kuvata">
 

@@ -188,7 +188,7 @@ was trying to connect. -->
 <!ENTITY weakCryptoUsed.longDesc2              "Täpsem teave: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title              "Edasijõudnuile">
 <!ENTITY weakCryptoAdvanced.longDesc           "<span class='hostname'></span> kasutab turvalisuse tehnoloogiaid, mis on aegunud ja avatud rünnakutele. Ründaja võib suurema vaevata pääseda ligi teabele, mis sinu arvates on kaitstud.">
-<!ENTITY weakCryptoAdvanced.override           "(Ebaturvaline!) Proovi laadida saiti <span class='hostname'></span> kasutades aegunud turvalisuse tehnoloogiaid">
+<!ENTITY weakCryptoAdvanced.override           "(Ebaturvaline!) Proovi laadida saiti <span class='hostname'></span>, kasutades aegunud turvalisuse tehnoloogiaid">
 
 <!ENTITY certerror.pagetitle1                  "Ebaturvaline ühendus">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "See sait kasutab HTTP
