@@ -29,8 +29,8 @@
 <!ENTITY engine.tabs.accesskey      "H">
 <!ENTITY engine.history.label       "Dîrok">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Şîfre">
-<!ENTITY engine.passwords.accesskey "Ş">
+<!ENTITY engine.passwords.label     "Hemû Şîfre">
+<!ENTITY engine.passwords.accesskey "H">
 <!ENTITY engine.prefs.label         "Vebijêrk">
 <!ENTITY engine.prefs.accesskey     "V">
 <!ENTITY engine.addons.label        "Add-on">
