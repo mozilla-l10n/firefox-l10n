@@ -26,11 +26,6 @@
 <!ENTITY fxaccount_getting_started_description2 "Inicie sesión para sincronizar sus pestañas, marcadores, credenciales y más.">
 <!ENTITY fxaccount_getting_started_get_started "Comenzar">
 <!ENTITY fxaccount_getting_started_old_firefox "¿Usa una versión antigua de &syncBrand.shortName.label;?">
-<!ENTITY fxaccount_confirm_account_header "Confirme su cuenta">
-<!ENTITY fxaccount_confirm_account_resend_email "Enviar mensaje de nuevo">
-<!ENTITY fxaccount_sign_in_button_label "Conectarse">
-<!ENTITY fxaccount_finish_migrating_header "Inicie sesión para finalizar actualización">
-<!ENTITY fxaccount_finish_migrating_button_label "Finalizar actualización">
 <!ENTITY fxaccount_status_signed_in_as "Conectado como">
 <!ENTITY fxaccount_status_manage_account "Administrar cuenta">
 <!ENTITY fxaccount_status_auth_server "Servidor de cuentas">
