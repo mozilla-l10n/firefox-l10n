@@ -171,6 +171,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Marqués récemment">
 <!ENTITY otherBookmarksCmd.label "Autres marque-pages">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afficher plus de marque-pages">
+<!ENTITY showRecentlyBookmarked.label     "Afficher les marque-pages récents">
+<!ENTITY showRecentlyBookmarked.accesskey "f">
+<!ENTITY hideRecentlyBookmarked.label     "Masquer les marque-pages récents">
+<!ENTITY hideRecentlyBookmarked.accesskey "M">
+
 
 <!ENTITY backCmd.label                "Page précédente">
 <!ENTITY backButton.tooltip           "Reculer d’une page">

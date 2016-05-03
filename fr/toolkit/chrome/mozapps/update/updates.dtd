@@ -22,25 +22,10 @@
                                            Ce message ne s’affichera plus, mais vous pouvez">
 <!ENTITY  unsupportedLink.label           "en apprendre davantage.">
 
-<!ENTITY  incompatibleCheck.title         "Vérification de la compatibilité des modules complémentaires">
-<!ENTITY  incompatibleCheck.label         "Recherche de nouvelles versions de vos modules complémentaires…">
-
 <!ENTITY  clickHere.label                 "Plus d’informations à propos de cette mise à jour">
 
 <!ENTITY  evangelism.desc                 "Il vous est vivement recommandé d’appliquer cette mise à jour
                                            de &brandShortName; le plus rapidement possible.">
-
-<!ENTITY  license.instructions            "Si vous acceptez les termes de cet accord, cliquez sur Je suis d’accord ci-dessous pour poursuivre l’installation de la mise à jour.">
-
-<!ENTITY  license.titleText               "Accord de licence logicielle">
-<!ENTITY  license.introText               "Termes et conditions d’utilisation de ce logiciel.">
-<!ENTITY  license.instructionText         "Veuillez lire l’accord de licence suivant. Utilisez la barre de défilement pour voir le reste de cet accord.">
-<!ENTITY  license.accept                  "J’accepte les termes de l’accord de licence">
-<!ENTITY  license.accept.accesskey        "J">
-<!ENTITY  license.decline                 "Je n’accepte PAS les termes de l’accord de licence">
-<!ENTITY  license.decline.accesskey       "P">
-
-<!ENTITY  incompatibleList.title          "Des modules incompatibles ont été trouvés">
 
 <!ENTITY  downloadPage.title              "Téléchargement de &brandShortName;">
 <!ENTITY  downloading.intro               "Téléchargement de la mise à jour…">
