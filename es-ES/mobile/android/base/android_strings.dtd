@@ -359,18 +359,9 @@
 <!ENTITY home_last_tabs_empty "Sus pestañas recientes se mostrarán aquí.">
 <!ENTITY home_open_all "Abrir todo">
 <!ENTITY home_most_recent_empty "Los sitios web que ha visitado recientemente se mostrarán aquí.">
-<!ENTITY home_selected_empty "Los sitios web que visitó en el periodo seleccionado se muestran aquí.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: usar una &formatS1;pestaña privada nueva&formatS2; no guardará su historial.">
 <!ENTITY home_default_empty "No se ha podido encontrar contenido para este panel.">
 <!ENTITY home_move_back_to_filter "Volver a &formatS;">
-<!ENTITY home_remote_tabs_title "Pestañas sincronizadas">
-<!ENTITY home_remote_tabs_empty "Sus pestañas de otros dispositivos se muestran aquí.">
-<!ENTITY home_remote_tabs_unable_to_connect "No se puede conectar">
-<!ENTITY home_remote_tabs_need_to_sign_in "Regístrese para reconectar su cuenta de Firefox y continuar sincronizando.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "¡Su nueva cuenta de Firefox está lista!">
-<!ENTITY home_remote_tabs_trouble_verifying "¿Tiene problemas para verificar su cuenta?">
-<!ENTITY home_remote_tabs_need_to_verify "Verifique su cuenta de Firefox para comenzar a sincronizar.">
-<!ENTITY home_remote_tabs_one_hidden_device "1 dispositivo oculto">
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispositivos ocultos">
 <!ENTITY home_remote_tabs_hidden_devices_title "Dispositivos ocultos">
 <!ENTITY home_remote_tabs_unhide_selected_devices "Desocultar dispositivos seleccionados">
@@ -467,3 +458,6 @@
 <!ENTITY whatsnew_notification_title "&brandShortName; está actualizado">
 <!ENTITY whatsnew_notification_summary "Descubra las novedades de esta versión">
 <!ENTITY promotion_add_to_homescreen "Añadir a pantalla inicio">
+<!ENTITY helper_first_offline_bookmark_title "Leer sin conexión">
+<!ENTITY helper_first_offline_bookmark_message "Encuentre sus elementos de la vista de lectura en marcadores, incluso sin conexión.">
+<!ENTITY helper_first_offline_bookmark_button "Ir a Marcadores">
