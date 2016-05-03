@@ -13,8 +13,6 @@
 <!ENTITY importFromOExpress.accesskey "u">
 <!ENTITY importFromOutlook.label "Outlook">
 <!ENTITY importFromOutlook.accesskey "O">
-<!ENTITY importFromEudora.label "Eudora">
-<!ENTITY importFromEudora.accesskey "E">
 <!ENTITY importSource.title "Importa impostazioni e cartelle di posta">
 <!ENTITY importItems.title "Elementi da importare">
 <!ENTITY importItems.label "Selezionare elementi da importare:">
