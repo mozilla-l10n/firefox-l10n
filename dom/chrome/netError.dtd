@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "Fájl nem található">
 <!ENTITY fileNotFound.longDesc "<ul><li>Lehet, hogy a fájlt átnevezték, eltávolították vagy áthelyezték?</li><li>Nincs elgépelés, kis- és nagybetű eltérés stb. a címben?</li><li>Rendelkezik a megfelelő hozzáférési jogokkal a kért fájlhoz?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "A fájl elérése megtagadva">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Lehet hogy törölve lett, át lett helyezve, vagy a fájljogosultságok megakadályozzák a hozzáférést.</li> </ul>">
 
 <!ENTITY generic.title "A kérés nem teljesíthető">
 <!ENTITY generic.longDesc "<p>Jelenleg nem áll rendelkezésre további információ a problémáról vagy hibáról.</p>">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "Távoli XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Értesítse a webhely tulajdonosait erről a problémáról.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "A kapcsolat nem biztonságos">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> olyan biztonsági technológiát használ, amely elavult, és sérülékeny a támadásokkal szemben. Egy támadó könnyen felfedhet olyan információkat, amelyeket biztonságosnak gondol. A weboldal rendszergazdájának ki kell javítania a kiszolgálót, mielőtt meglátogathatja az oldalt.</p><p>Hibakód: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
