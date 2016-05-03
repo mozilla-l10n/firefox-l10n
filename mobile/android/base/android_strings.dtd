@@ -24,15 +24,16 @@
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; ыңғайлатылған нұсқасы көмегімен қауіпсіз қалып, әрі басқарудан қол үзбеңіз.">
 
-
-
-
+<!ENTITY  reading_list_migration_title "Оқу тізімі байланысқан">
+<!ENTITY  reading_list_migration_subtext "Сіздің оқу тізімінің құрамасы бетбелгілерге қосылатын болады">
+<!ENTITY  reading_list_migration_goto_bookmarks "Бетбелгілерге өту">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Сіздің бетбелгілер панелі жасырылған">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Бетбелгілер">
 <!ENTITY  history_title "Тарихы">
-
+<!ENTITY  reading_list_title "Оқу тізімі">
 <!ENTITY  recent_tabs_title "Соңғы беттер">
 
 <!ENTITY  switch_to_tab "Бетке ауысу">
@@ -62,15 +63,18 @@
 <!ENTITY bookmark_removed "Бетбелгі өшірілді">
 <!ENTITY bookmark_updated "Бетбелгі жаңартылды">
 <!ENTITY bookmark_options "Баптаулар">
-
+<!ENTITY screenshot_added_to_bookmarks "Скриншот бетбелгілерге қосылды">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Скриншоттар">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Оқу тізімі">
 
-
+<!ENTITY reader_saved_offline "Желіден тыс нұсқасы сақталды">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Ауысу">
 
 <!ENTITY history_today_section "Бүгін">
 <!ENTITY history_yesterday_section "Кеше">
@@ -109,7 +113,7 @@
 <!ENTITY settings "Баптаулар">
 <!ENTITY settings_title "Баптаулар">
 <!ENTITY pref_category_general "Жалпы">
-
+<!ENTITY pref_category_general_summary3 "Үй парағы, тіл, беттер кезегі">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -148,15 +152,15 @@
 <!ENTITY overlay_no_synced_devices "Firefox тіркелгісімен байланысқан құрылғылар табылмады">
 
 <!ENTITY pref_category_search3 "Іздеу">
-
+<!ENTITY pref_category_search_summary2 "Қосу, негізгісін орнату, ұсыныстарды көрсету">
 <!ENTITY pref_category_accessibility "Қолжетерлілік">
 <!ENTITY pref_category_accessibility_summary2 "Мәтін өлшемі, масштаб, дауыспен енгізу">
 <!ENTITY pref_category_privacy_short "Жекелік">
-
+<!ENTITY pref_category_privacy_summary4 "Бақылау, логиндер, деректер таңдауы">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName; туралы, ЖҚС, кері байланыс">
 <!ENTITY pref_category_datareporting "Деректер таңдауы">
-
+<!ENTITY pref_category_logins "Логиндер">
 <!ENTITY pref_learn_more "Көбірек білу">
 <!ENTITY pref_category_installed_search_engines "Орнатылған іздеу жүйелері">
 <!ENTITY pref_category_add_search_providers "Көбірек іздеу жүйелерін қосу">
@@ -168,11 +172,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "КЕҢЕС: Кез-келген веб-сайтты іздеу жүйелеріне қосу үшін оның іздеу өрісінен ұзақ басып, &formatI; таңбашасына шерту керек.">
 <!ENTITY pref_category_advanced "Кеңейтілген">
-
-
-
-
+<!ENTITY pref_category_advanced_summary3 "Беттер, деректер үнемдеуші, өндіруші саймандарын қалпына келтіру">
+<!ENTITY pref_category_notifications "Ескертулер">
+<!ENTITY pref_category_notifications_summary "Жаңа мүмкіндіктер, вебсайт жаңартулары">
+<!ENTITY pref_content_notifications "Вебсайт жаңартулары">
 
 <!ENTITY pref_developer_remotedebugging_usb "USB арқылы қашықтан жөндеу">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi арқылы қашықтан жөндеу">
