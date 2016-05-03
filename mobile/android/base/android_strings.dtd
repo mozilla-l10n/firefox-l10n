@@ -533,7 +533,9 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Accueil de &brandShortName;">
 <!ENTITY home_history_title "Historique">
-<!ENTITY home_history_back_to "Retour à l’historique complet">
+<!ENTITY home_synced_devices_smartfolder "Appareils synchronisés">
+<!ENTITY home_synced_devices_number "&formatD; appareils">
+<!ENTITY home_history_back_to2 "Retour à l’historique complet">
 <!ENTITY home_clear_history_button "Effacer l’historique de navigation">
 <!ENTITY home_clear_history_confirm "Voulez-vous vraiment effacer votre historique ?">
 <!ENTITY home_bookmarks_empty "Les marque-pages enregistrés s’affichent ici.">
@@ -778,3 +780,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_title "Lire hors connexion">
 <!ENTITY helper_first_offline_bookmark_message "Retrouvez les pages du mode lecture dans les marque-pages, même hors connexion.">
 <!ENTITY helper_first_offline_bookmark_button "Ouvrir les marque-pages">
+
+<!ENTITY helper_triple_readerview_open_title "Disponible hors connexion">
+<!ENTITY helper_triple_readerview_open_message "Marquez les pages du mode lecture pour pouvoir les lire hors connexion.">
+<!ENTITY helper_triple_readerview_open_button "Ajouter aux marque-pages">
+

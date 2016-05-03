@@ -118,3 +118,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Journal des échecs">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU 1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU 2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Journal des décisions">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Solutions de contournement">
