@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "daha fazla bilgi alın">
 
 <!ENTITY trackingProtection.title                        "İzlenme Koruması">
-
+<!ENTITY trackingProtection.description2                 "Bazı web siteleri, siteler arasında gezinirken etkinliğinizi izleyebilecek takipçiler kullanır. Firefox’un İzlenme Koruması,  gezinme davranışlarınız hakkında bilgi toplayabilecek takipçilerin çoğunu engeller.">
 <!ENTITY trackingProtection.startTour1                   "Nasıl çalıştığını görün">
