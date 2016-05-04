@@ -163,13 +163,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "Embohasa ko ta'ãngamýi">
 <!ENTITY shareVideo.accesskey "r">
-
-
+<!ENTITY feedsMenu2.label "Ko kuatiaroguépe ñemboheraguapy">
+<!ENTITY subscribeToPageMenupopup.label "Ko kuatiaroguépe ñemboheraguapy">
 <!ENTITY subscribeToPageMenuitem.label "Ko kuatiaroguépe ñemboheraguapy…">
 <!ENTITY addCurPagesCmd.label "Tendayke mbojoapy techaukaháre…">
 <!ENTITY showAllBookmarks2.label "Opaite techaukaha jehechauka">
-
-
+<!ENTITY recentBookmarks.label "Oñembokurusu ramóva">
+<!ENTITY otherBookmarksCmd.label "Ambuekuéra Techaukaha">
 <!ENTITY bookmarksToolbarChevron.tooltip "Techaukaha jehechaukave">
 
 <!ENTITY backCmd.label                "Tapykue">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Techaukaha">
-
+<!ENTITY bookmarksMenuButton.other.label "Ambuekuéra Techaukaha">
 <!ENTITY viewBookmarksSidebar2.label        "Techaukaha ra'ãngarupa yke recha">
 <!ENTITY viewBookmarksToolbar.label         "Techaukaha renda jehecha">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Kytĩ">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "Monguatia">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "M"> 
 <!ENTITY pasteCmd.label           "Mboja">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -341,16 +341,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "Tendayke Oñembojuehepyre">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Ndaipóri tendayke ijurujáva">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Emyandy tendayke mbojueheha ehecha hag̃ua peteĩ tendayke rysýi ambue ne mba'e'oka peguáva.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Noñembojuehéi tendaykekuéra… ne'ĩra gueteri!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Ehechasépa tendaykekuéra ambue mba'e'okaguáva ko'ápe">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Jerohoryvéva Mbojuehe">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Emoñepyrũ tembiapo ehecha hag̃ua tendayke rysýi ambue ne mba'e'okaguáva.">
 <!ENTITY appMenuRemoteTabs.signin.label "Eike Sync-pe">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Ehecha mbojuehepyre tenda yképe">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tembipuru rendáre mbojoapy">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -457,8 +460,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Ovetã pyahu korápe jeike">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Juajuha tendayke pyahu ñongatuhápe jeike">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "Ko kora año jehechauka">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">

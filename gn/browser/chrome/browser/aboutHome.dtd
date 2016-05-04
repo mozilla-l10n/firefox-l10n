@@ -18,6 +18,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
+<!ENTITY abouthome.defaultSnippet2.v1 "Ndahasyiete eñemomba'e Firefox rehe reipotahaichaite. <a>Eiporavo hetaiterei moĩmbaha apytégui</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; niko software isãsóva ha ijayvujurujáva Fundación Mozilla mba'éva. <a>Eikuaáke ne mba'engatu…</a>">
 
@@ -35,3 +36,5 @@
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
      the mozilla wordmark in the top-right corner that links to Mozilla's main
      about page. -->
+
+<!ENTITY abouthome.aboutMozilla.label    "Mozilla rehegua">
