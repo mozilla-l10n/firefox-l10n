@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Hasaraw wala zanba gundekuna gagay">
+<!ENTITY  enableSafeBrowsing.accesskey    "g">
 
+<!ENTITY  blockDownloads.label            "Hasaraw zumandiyaney gagay">
+<!ENTITY  blockDownloads.accesskey        "H">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Ay yaamar porogaram kaŋ ši boonandi nda šibayante">
+<!ENTITY  blockUncommonUnwanted.accesskey "b">
 
 <!ENTITY  addonExceptions.label         "Hasarawey…">
 <!ENTITY  addonExceptions.accesskey     "H">
