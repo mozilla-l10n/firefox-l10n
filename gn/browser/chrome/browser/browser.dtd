@@ -695,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Nde jeike ko tendápe naiñemíri. Marandu remondóva ikatu ohecha ambue tapicha (ñe'ẽñemíramo, ñe'ẽmondo, kuatia'atã ñemurã ha ambue).">
 <!ENTITY identity.description.insecureLoginForms "Pe marandu tembiapo ñepyrũ pegua emoingéva ko kuatiaroguépe nahekorosãi ha ikatu noĩporãmbái.">
 <!ENTITY identity.description.weakCipher "Nde jeike ko ñanduti rendápe oipuru ñangarekoha ikangýva ha naiñemíri.">
-
+<!ENTITY identity.description.weakCipher2 "Ambue tapichakuéra ikatu ohecha nemarandu térã omoambue ñanduti kuatiarogue reko.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ojokóma ko kuatiarogue pehẽ ijerovia'ỹha.">
 <!ENTITY identity.description.passiveLoaded "Nde jeike naiñemíri ha nemarandu remoingéva ko tendápe ikatu ohecha ambue tapicha.">
 <!ENTITY identity.description.passiveLoaded2 "Ko ñanduti renda oguereko hetepy ndaijeroviapáiva (mba'era'ãngáramo).">
@@ -709,7 +709,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Kuaave">
 
-
+<!ENTITY identity.removeCertException.label "Emongue oĩ'ỹva">
+<!ENTITY identity.removeCertException.accesskey "E">
 
 <!ENTITY identity.moreInfoLinkText2 "Maranduve">
 
@@ -723,26 +724,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Tendayke Oñembojuehepyre">
 
-
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Tendayke ñembojuehepyre">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Emoñepyrũ tembiapo Firefox-pe ambue ne mba'e'okakuéra rupive eike hag̃ua ne tendaykekuérape ápe.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Noñembojuehéi tendaykekuéra… ne'ĩra gueteri!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Ehechasépa tendaykekuéra ambue mba'e'okaguáva ko'ápe">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Eike ehecha tendayke rysýi ambue mba'e'okapeguáva.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Ndaipóri tendayke ijurujáva">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Eike &syncBrand.shortName.label; oguerohoryvévape">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Eike ehecha tendayke rysýi ambue mba'e'okapeguáva.">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Ijurujáva">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Tendayke Pyahúpe jeike">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Ovetã pyahu joajuhápe jeike">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Ovetã ñemi pyahu joajuhápe jeike">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Emongurusu ko tendayke…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "Monguatia">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
