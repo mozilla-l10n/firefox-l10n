@@ -349,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Hišće žane synchronizowane rajtarki…!">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Chceće tu swoje rajtarki z druchich gratow widźeć?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Chceće tu swoje rajtarki z druhich gratow widźeć?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Nastajenja synchronizować">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Přizjewće so, zo byšće sej lisćinu rajtarkow ze swojich druhich gratow wobhladał.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pola Sync přizjewić">
@@ -727,7 +727,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "Synchronizowane rajtarki">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Přizjewće so pola Firefox z wašich druhich gratow, zo byšće sej jich rajtarki tu wobhladał.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Hišće žane synchronizowane rajtarki…!">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Chceće tu swoje rajtarki z druchich gratow widźeć?">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Chceće tu swoje rajtarki z druhich gratow widźeć?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Přizjewće so, zo byšće sej lisćinu rajtarkow ze swojich druhich gratow wobhladał.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Žane wočinjene rajtarki">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Nastajenja &syncBrand.shortName.label; wočinić">
