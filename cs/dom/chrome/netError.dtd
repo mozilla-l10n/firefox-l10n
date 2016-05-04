@@ -19,6 +19,9 @@
 <!ENTITY fileNotFound.title "Soubor nenalezen">
 <!ENTITY fileNotFound.longDesc "<p>Požadovaný soubor nebyl nalezen na zadané adrese (URL). Je možné, že byl odstraněn, přejmenován nebo přemístěn.</p><ul><li>Zkontrolujte prosím, zda je adresa napsána správně, a to včetně velikosti písmen.</li><li>Jste-li autorem tohoto souboru, ověřte, že daný soubor na serveru existuje a že má příslušná práva na zobrazení.</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Přístup k souboru byl odepřen">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Možná byl smazán, přesunut nebo jeho oprávnění zabraňují přístupu.</li></ul>">
+
 <!ENTITY generic.title "Nepodařilo se dokončit požadavek">
 <!ENTITY generic.longDesc "<p>Další informace o této chybě nejsou bohužel dostupné.</p>">
 
@@ -89,3 +92,8 @@
 
 <!ENTITY remoteXUL.title "Vzdálené XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte prosím vlastníka stránky a informujte ho o tomto problému.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Vaše připojení není zabezpečené">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii která je zastaralá a náchylná k útoku. Útočník může snadno získat informace, které si myslíte, že jsou zabezpečené. Administrátor serveru musí server opravit předtím, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
