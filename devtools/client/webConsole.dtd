@@ -46,12 +46,19 @@
 <!ENTITY btnPageLogging.label   "වාර්ථාකරණය">
 <!ENTITY btnPageLogging.tooltip "වාර්ථා පණිවුඩ window.console වස්තුව වෙත යැවිනි">
 <!ENTITY btnPageLogging.accesskey3 "L">
+<!ENTITY btnConsoleErrors       "දෝෂ">
+<!ENTITY btnConsoleInfo         "තොරතුරු">
+<!ENTITY btnConsoleWarnings     "අනතුරු ඇඟවීම්">
+<!ENTITY btnConsoleLog          "ලොග් සටහන්">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "යළි ගැලීම්">
 
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
+<!ENTITY btnServerLogging.label       "සේවාදායකය">
+<!ENTITY btnServerLogging.accesskey   "S">
+<!ENTITY btnServerErrors              "දෝෂ">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
