@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Priwatny modus">
 
 <!ENTITY trackingProtection.title                        "Slědowanski škit">
-<!ENTITY trackingProtection.description2                 "Někotre websydła wužiwaja slědowanske programy, kotrež wašu aktiwitu w interneće dohladuja. Ze slědowanskim škitom Firefox budźe wjele slědowanskich programow blokować, kotrež daty wo wašim přehladowanskim zadźerženju nahromadźić.">
+<!ENTITY trackingProtection.description2                 "Někotre websydła wužiwaja slědowanske programy, kotrež wašu aktiwitu w interneće dohladuja. Ze slědowanskim škitom Firefox budźe wjele slědowanskich programow blokować, kotrež móža daty wo wašim přehladowanskim zadźerženju nahromadźić.">
 <!ENTITY trackingProtection.startTour1                   "Wobhladajće sej, kak to funguje">
