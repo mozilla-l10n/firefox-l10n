@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Tšašne a wobšudnikojske wopśimjeśe blokěrowaś">
+<!ENTITY  enableSafeBrowsing.accesskey    "T">
 
+<!ENTITY  blockDownloads.label            "Tšašne ześěgnjenja blokěrowaś">
+<!ENTITY  blockDownloads.accesskey        "z">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Njewitaneje a njewšedneje softwary dla warnowaś">
+<!ENTITY  blockUncommonUnwanted.accesskey "w">
 
 <!ENTITY  addonExceptions.label         "Wuwześa…">
 <!ENTITY  addonExceptions.accesskey     "W">

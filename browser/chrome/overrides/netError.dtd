@@ -78,6 +78,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Mějaŕ <span class='hostname'/> jo swójo websedło wopak konfigurěrował. Aby swóje informacije pśeśiwo tomu šćitał, až se kšadnu, njejo &brandShortName; z toś tym websedłom zwězało.">
 
+<!ENTITY sharedLongDesc "<ul> <li>Sedło njeby mógło nachylu k dispoziciji staś abo by mógło pśeśěžone byś. Wopytajśo za mało wokognuśow hyšći raz.</li> <li>Jolic njamóžośo někotare boki cytaś, pśespytajśo zwisk wašeje licadłoweje seśi.</li> <li>Jolic wašo licadło abo waša seś šćita se z wognjoweju murju abo proksy, zawěsććo, až &brandShortName; ma pšawo na web pśistup měś.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Pśez wěstotne pšawidła za wopśimjeśe zablokěrowany">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; jo zacytowanjoju toś togo boka na toś ten nałog zajźował, dokulaž bok ma wěstotne pšawidła za wopśimjeśe, kótarež to njedowóluju.</p>">
@@ -99,6 +100,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Rozšyrjona info: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Waš zwisk njejo wěsty">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Rozšyrjona info: SSL_ERROR_NO_CYPHER_OVERLAP">
@@ -106,8 +108,11 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> wužywa wěstotnu technologiju, kótaraž jo zestarjona a napadojta na napady. Napadowaŕ by mógał lažko daty wótkšyś, kótarež su za wěste měli.">
 <!ENTITY weakCryptoAdvanced.override "(Njewěsty) Zestarjonu wěstotu wužywaś, aby <span class='hostname'></span> zacytował">
 
+<!ENTITY certerror.pagetitle1  "Njewěsty zwisk">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Toś to sedło wužywa HTTP Strict Transport Security (HSTS), aby pódało, až &brandShortName; ma jano wěsćej z nim zwězaś. Pótakem njejo móžno wuwześe za toś ten certifikat pśidaś.">
+<!ENTITY certerror.copyToClipboard.label "Tekst do mjazywótkłada kopěrowaś">
 
-
-
+<!ENTITY inadequateSecurityError.title "Waš zwisk njejo wěsty">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> wužywa wěstotnu technologiju, kótaraž jo zestarjona a sensibelna za napady. Napadowaŕ by mógał informacije lažko namakaś, kótarež maśo za wěste. Websedłowy administrator musy problem na serwerje rozwězaś, nježli až móžośo se k sedłoju woglědaś.</p><p>Zmólkowy kod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
