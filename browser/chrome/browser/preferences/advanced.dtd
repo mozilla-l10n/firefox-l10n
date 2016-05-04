@@ -55,7 +55,7 @@
 <!ENTITY updateAuto1.label "Installa automaticamente aggiornamenti (consigliato: maggiore sicurezza)">
 <!ENTITY updateAuto1.accesskey "s">
 <!ENTITY updateCheck.label "Controlla aggiornamenti ma permetti all’utente di scegliere se installarli">
-<!ENTITY updateCheck.accesskey "r">
+<!ENTITY updateCheck.accesskey "C">
 <!ENTITY updateManual.label "Non cercare aggiornamenti (non consigliato: rischi per la sicurezza)">
 <!ENTITY updateManual.accesskey "N">
 <!ENTITY updateHistory.label "Mostra cronologia aggiornamenti">
