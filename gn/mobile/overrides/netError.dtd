@@ -23,7 +23,8 @@
 <!ENTITY fileNotFound.title "Marandurenda ndojejuhúiva">
 
 
-
+<!ENTITY fileAccessDenied.title "Jeike kuatiaitépe noñemoneĩri">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Ikatúmakuri oñemboguete, oñemongu'e térã marandurenda ñemoneĩ ikatu omboyke pe jeike.</li> </ul>">
 
 <!ENTITY generic.title "Oops.">
 
