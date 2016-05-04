@@ -8,35 +8,35 @@
 <!ENTITY inspectorHTMLEdit.label       "Modifier comme HTML">
 <!ENTITY inspectorHTMLEdit.accesskey   "M">
 
-<!-- LOCALIZATION NOTE (inspectorHTMLCopyInner.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorCopyInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
-<!ENTITY inspectorHTMLCopyInner.label       "Copier l’intérieur du HTML">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "C">
+<!ENTITY inspectorCopyInnerHTML.label       "L’intérieur du HTML">
+<!ENTITY inspectorCopyInnerHTML.accesskey   "i">
 
-<!-- LOCALIZATION NOTE (inspectorHTMLCopyOuter.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
-<!ENTITY inspectorHTMLCopyOuter.label       "Copier l’extérieur du HTML">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "o">
+<!ENTITY inspectorCopyOuterHTML.label       "L’extérieur du HTML">
+<!ENTITY inspectorCopyOuterHTML.accesskey   "e">
 
-<!-- LOCALIZATION NOTE (inspectorCopyUniqueSelector.label): This is the label
+<!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
-<!ENTITY inspectorCopyUniqueSelector.label       "Copier le sélecteur unique">
-<!ENTITY inspectorCopyUniqueSelector.accesskey   "r">
+<!ENTITY inspectorCopyCSSSelector.label "Le sélecteur CSS">
+<!ENTITY inspectorCopyCSSSelector.accesskey "s">
 
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteOuter.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
-<!ENTITY inspectorHTMLPasteOuter.label      "Coller à l’extérieur du HTML">
-<!ENTITY inspectorHTMLPasteOuter.accesskey  "x">
+<!ENTITY inspectorPasteOuterHTML.label      "À l’extérieur du HTML">
+<!ENTITY inspectorPasteOuterHTML.accesskey  "e">
 
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
-<!ENTITY inspectorHTMLPasteInner.label      "Coller à l’intérieur du HTML">
-<!ENTITY inspectorHTMLPasteInner.accesskey  "n">
+<!ENTITY inspectorPasteInnerHTML.label      "À l’intérieur du HTML">
+<!ENTITY inspectorPasteInnerHTML.accesskey  "i">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
@@ -84,14 +84,14 @@
 <!ENTITY inspectorHTMLDelete.label          "Supprimer le nœud">
 <!ENTITY inspectorHTMLDelete.accesskey      "S">
 
-<!-- LOCALIZATION NOTE (inspectorAttributeSubmenu.label): This is the label
+<!-- LOCALIZATION NOTE (inspectorAttributesSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
      attribute items, which allow to:
      - add new attribute
      - edit attribute
      - remove attribute -->
-<!ENTITY inspectorAttributeSubmenu.label      "Attribut">
-<!ENTITY inspectorAttributeSubmenu.accesskey  "A">
+<!ENTITY inspectorAttributesSubmenu.label      "Attributs">
+<!ENTITY inspectorAttributesSubmenu.accesskey  "A">
 
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
@@ -124,12 +124,12 @@
      supports the full text HTML search in Bug 835896. -->
 <!ENTITY inspectorSearchHTML.label3 "Rechercher dans le HTML">
 
-<!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
+<!-- LOCALIZATION NOTE (inspectorImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the URL embedding the image data encoded in Base 64 (what we name
      here Image Data URL). For more information:
      https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
-<!ENTITY inspectorCopyImageDataUri.label       "Copier l’image en tant que Data-URL">
+<!ENTITY inspectorImageDataUri.label       "L’image en tant que Data-URL">
 
 <!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
      shown in the inspector contextual-menu for the item that lets users see
@@ -168,3 +168,23 @@
      DOM (as children of the currently selected element). -->
 <!ENTITY inspectorAddNode.label       "Créer un nouveau nœud">
 <!ENTITY inspectorAddNode.accesskey   "C">
+
+<!-- LOCALIZATION NOTE (inspectorCopyHTMLSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     copy items, which allow to:
+     - Copy Inner HTML
+     - Copy Outer HTML
+     - Copy Unique selector
+     - Copy Image data URI -->
+<!ENTITY inspectorCopyHTMLSubmenu.label      "Copier">
+
+<!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     paste items, which allow to:
+     - Paste Inner HTML
+     - Paste Outer HTML
+     - Before
+     - After
+     - As First Child
+     - As Last Child -->
+<!ENTITY inspectorPasteHTMLSubmenu.label      "Coller">
