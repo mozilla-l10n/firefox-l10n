@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Merdeiñ prevez">
 
 <!ENTITY trackingProtection.title                        "Gwarez heuliañ">
-
-
+<!ENTITY trackingProtection.description2                 "Gant lec'hiennoù 'zo e vez arveret heulierien evit evezhiañ hoc'h obererezh war ar Genrouedad. Gwarez Heuliañ Firefox a stanko meur a heulier a c'hall dastum titouroù a-zivout hoc'h emzalc'h merdeiñ.">
+<!ENTITY trackingProtection.startTour1                   "Sellit penaos ez a en-dro">
