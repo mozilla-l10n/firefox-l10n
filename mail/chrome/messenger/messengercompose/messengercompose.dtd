@@ -233,7 +233,7 @@
 <!ENTITY bccAddr.label "Прих. копія:">
 <!ENTITY replyAddr.label "Зворотна адреса:">
 <!ENTITY newsgroupsAddr.label "Група новин:">
-<!ENTITY followupAddr.label "Followup-To:">
+<!ENTITY followupAddr.label "Продовжити в:">
 <!ENTITY subject.label "Тема:">
 <!ENTITY subject.accesskey "Т">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
