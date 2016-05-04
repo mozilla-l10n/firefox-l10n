@@ -19,7 +19,7 @@
 <!ENTITY subscribeImapFolders.label   "Упорядкувати підписки на теки">
 <!ENTITY settingsLink.label           "Перегляд параметрів цього облікового запису">
 <!ENTITY newAcctLink.label            "Створити обліковий запис">
-<!ENTITY newAcct.label                "Create a new account:">
+<!ENTITY newAcct.label                "Створити новий обліковий запис:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Додаткові властивості">
 <!ENTITY searchMsgsLink.label         "Пошук листів…">

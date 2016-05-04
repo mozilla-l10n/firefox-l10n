@@ -21,11 +21,11 @@
 <!ENTITY quickMode.label             "Показувати короткий опис статті замість завантаження веб-сторінки">
 <!ENTITY quickMode.accesskey         "к">
 
-<!ENTITY autotagEnable.label         "Automatically create tags from feed &lt;category&gt; names">
+<!ENTITY autotagEnable.label         "Автоматично створювати мітки за назвами &lt;категорій&gt; стрічки новин">
 <!ENTITY autotagEnable.accesskey     "c">
 <!ENTITY autotagUsePrefix.label      "Prefix tags with:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
-<!ENTITY autoTagPrefix.placeholder   "Enter a tag prefix">
+<!ENTITY autoTagPrefix.placeholder   "Введіть префікс мітки">
 
 <!ENTITY button.addFeed.label        "Додати">
 <!ENTITY button.addFeed.accesskey    "Д">
