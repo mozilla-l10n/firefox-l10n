@@ -6,7 +6,8 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Жекелік шолу режиміндегі терезені ашу">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "е">
 
-
+<!ENTITY privateBrowsing.title                           "Жекелік шолу">
+<!ENTITY privateBrowsing.title.tracking                  "Бақылаудан қорғанысы бар жекелік шолу">
 
 
 
