@@ -36,6 +36,10 @@ do seu computador.</li> 
 </ul>">
 
 <!ENTITY fileAccessDenied.title "Acesso ao arquivo foi negado">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>Pode ter sido removido, movido ou as permissões do arquivo podem estar impedindo o acesso.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>Algo impediu o &brandShortName; de carregar esta página.</p>">
@@ -158,6 +162,10 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 <!ENTITY weakCryptoAdvanced.override "(Não seguro) Tentando carregar <span class='hostname'></span> usando a segurança desatualizada">
 
 <!ENTITY certerror.pagetitle1  "Conexão insegura">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este site usa HTTP 
+Strict Transport Security (HSTS) para indicar que o &brandShortName; deve se conectar 
+a ele apenas de forma segura. Como resultado, não é possível adicionar exceções para este 
+certificado.">
 <!ENTITY certerror.copyToClipboard.label "Copiar texto para a área de transferência">
 
 <!ENTITY inadequateSecurityError.title "Sua conexão não é segura">
