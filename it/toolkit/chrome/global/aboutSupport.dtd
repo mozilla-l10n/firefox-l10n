@@ -52,6 +52,9 @@
 <!ENTITY aboutSupport.lockedPrefsName "Nome">
 <!ENTITY aboutSupport.lockedPrefsValue "Valore">
 <!ENTITY aboutSupport.graphicsTitle "Grafica">
+<!ENTITY aboutSupport.placeDatabaseTitle "Database Places">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integrità">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verifica integrità">
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC incrementale">
 <!ENTITY aboutSupport.a11yTitle "Accessibilità">
