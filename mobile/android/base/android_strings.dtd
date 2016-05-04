@@ -24,9 +24,10 @@
 
 <!ENTITY  onboard_start_restricted1 "ابقَ في مأمن و أمسك بزمام الأمور بإصدارة &brandShortName; المبسّطة هذه.">
 
+<!ENTITY  reading_list_migration_title "قائمة القراءة متصلة">
 <!ENTITY  reading_list_migration_subtext "ستُضاف قائمة قراءتك الآن إلى علاماتك">
 <!ENTITY  reading_list_migration_goto_bookmarks "اذهب إلى العلامات">
-
+<!ENTITY  reading_list_migration_bookmarks_hidden "لوحة العلامات مخفية">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -62,15 +63,17 @@
 <!ENTITY bookmark_removed "أُزيلت العلامة">
 <!ENTITY bookmark_updated "حُدّثت العلامة">
 <!ENTITY bookmark_options "الخيارات">
-
+<!ENTITY screenshot_added_to_bookmarks "أضيفت لقطة الشاشة إلى العلامات">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "لقطات الشاشة">
 
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "بدّل">
 
 <!ENTITY history_today_section "اليوم">
 <!ENTITY history_yesterday_section "أمس">
@@ -109,7 +112,7 @@
 <!ENTITY settings "الإعدادات">
 <!ENTITY settings_title "الإعدادات">
 <!ENTITY pref_category_general "عام">
-
+<!ENTITY pref_category_general_summary3 "الرئيسية، اللغة، طابور الألسنة">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -152,11 +155,11 @@
 <!ENTITY pref_category_accessibility "الإتاحة">
 <!ENTITY pref_category_accessibility_summary2 "حجم النص، التقريب، الإدخال بالصوت">
 <!ENTITY pref_category_privacy_short "الخصوصية">
-
+<!ENTITY pref_category_privacy_summary4 "التّعقّب، و جلسات الولوج، و اختيار البيانات">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "عن &brandShortName;، و الأسئلة الشّائعة، و الانطباعات">
 <!ENTITY pref_category_datareporting "اختيارات البيانات">
-
+<!ENTITY pref_category_logins "جلسات الولوج">
 <!ENTITY pref_learn_more "اطّلع على المزيد">
 <!ENTITY pref_category_installed_search_engines "محركات البحث المُثبّتة">
 <!ENTITY pref_category_add_search_providers "أضف المزيد من مزودي البحث">
@@ -169,11 +172,11 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_category_advanced "متقدّم">
-
-
-
-
-
+<!ENTITY pref_category_advanced_summary3 "استعادة الألسنة، و حافظ البيانات، و أدوات المطوّرين">
+<!ENTITY pref_category_notifications "التنبيهات">
+<!ENTITY pref_category_notifications_summary "المزايا جديده، و تحديثات الموقع">
+<!ENTITY pref_content_notifications "تحديثات الموقع">
+<!ENTITY pref_content_notifications_summary2 "اكتشف محتوى جديد من المواقع المدعومة">
 <!ENTITY pref_developer_remotedebugging_usb "التنقيح عن بعد عبر USB">
 <!ENTITY pref_developer_remotedebugging_wifi "التنقيح عن بعد عبر واي-فاي">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "يتطلّب التنقيح عبر واي-فاي تثبيت برنامج لقراءة رموز QR على جهازك.">
@@ -183,8 +186,8 @@
 <!ENTITY pref_category_home "الرئيسية">
 <!ENTITY pref_category_home_summary "خصص صفحة البداية">
 <!ENTITY pref_category_home_panels "اللوحات">
-
-
+<!ENTITY pref_category_home_add_ons "الإضافات">
+<!ENTITY pref_home_updates2 "تحديثات المحتوى">
 <!ENTITY pref_home_updates_enabled "مفعّلة">
 <!ENTITY pref_home_updates_wifi "عبر واي فاي فقط">
 <!ENTITY pref_category_home_homepage "صفحة البداية">
@@ -210,7 +213,7 @@
 <!ENTITY pref_header_search "البحث">
 <!ENTITY pref_header_privacy_short "الخصوصية">
 <!ENTITY pref_header_accessibility "الإتاحة">
-
+<!ENTITY pref_header_notifications "التنبيهات">
 <!ENTITY pref_header_advanced "متقدّم">
 <!ENTITY pref_header_help "مساعدة">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -220,8 +223,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "مفعّلة، باستثناء الأطراف الخارجية">
 <!ENTITY pref_cookies_disabled "مُعطّلة">
 
-
-
+<!ENTITY pref_category_data_saver "حافظ البيانات">
+<!ENTITY pref_category_media "الوسائط">
+<!ENTITY pref_category_developer_tools "أدوات المطورين">
 
 <!ENTITY pref_tap_to_load_images_title2 "أظهِر الصور">
 <!ENTITY pref_tap_to_load_images_enabled "دائمًا">
