@@ -93,6 +93,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Accélération graphique">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Base de données « Places »">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Intégrité">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Vérifier l’intégrité">
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Ramasse-miettes incrémentiel">
 
