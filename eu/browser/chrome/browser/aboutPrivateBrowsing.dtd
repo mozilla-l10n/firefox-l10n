@@ -6,19 +6,20 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Ireki leiho pribatua">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "h">
 
+<!ENTITY privateBrowsing.title                           "Nabigatze pribatua">
 
 
 
 
+<!ENTITY aboutPrivateBrowsing.info.visited               "bisitatutako orriak">
+<!ENTITY aboutPrivateBrowsing.info.searches              "bilaketak">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "cookieak">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "behin-behineko fitxategiak">
 
 
 
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.downloads             "deskargak">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "laster-markak">
 
 
 
@@ -27,4 +28,4 @@
 
 <!ENTITY trackingProtection.title                        "Jarraipenaren babesa">
 
-
+<!ENTITY trackingProtection.startTour1                   "Ikusi nola dabilen">

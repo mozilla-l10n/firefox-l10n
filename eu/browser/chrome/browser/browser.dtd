@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Ebaki">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "E"> 
-
+<!ENTITY copyCmd.label            "Kopiatu">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Itsatsi">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "I"> 
@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Sinkronizatutako fitxarik ez... momentuz!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Beste gailuetako zure fitxak hemen ikusi nahi dituzu?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync hobespenak">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Hasi saioa zure beste gailuetako fitxak ikusteko.">
 <!ENTITY appMenuRemoteTabs.signin.label "Hasi saioa Sync-en">
@@ -725,8 +726,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Sinkronizatutako fitxak">
 
-
-
+<!ENTITY syncedTabs.sidebar.noclients.title    "Sinkronizatutako fitxarik ez... momentuz!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Beste gailuetako zure fitxak hemen ikusi nahi dituzu?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Hasi saioa zure beste gailuetako fitxak ikusteko.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Irekitako fitxarik ez">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Ireki &syncBrand.shortName.label; hobespenak">
@@ -734,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktibatu fitxak sinkronizatzea zure beste gailuetako fitxen zerrenda ikusteko.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Ireki">
+<!ENTITY syncedTabs.context.open.accesskey                   "r">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Ireki fitxa berri batean">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "x">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Ireki leiho berrian">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "l">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Ireki lotura leiho pribatu berrian">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Egin fitxa honen laster-marka…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "E">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Kopiatu">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
