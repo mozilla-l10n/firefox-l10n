@@ -24,7 +24,7 @@
 <!ENTITY outgoing.label                  "Вихідні:">
 <!ENTITY username.label                  "Користувач:">
 <!ENTITY hostname.label                  "Хост сервера">
-<!ENTITY port.label                      "Port">
+<!ENTITY port.label                      "Порт">
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Автентифікація">
 <!ENTITY imap.label                      "IMAP">
