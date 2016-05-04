@@ -68,6 +68,7 @@
      and is labeled by this String. -->
 
 
+<!ENTITY reader_saved_offline "Simpan luring">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -170,9 +171,9 @@
      it is applicable. -->
 <!ENTITY pref_category_advanced "Tingkat Lanjut">
 
-
-
-
+<!ENTITY pref_category_notifications "Notifikasi">
+<!ENTITY pref_category_notifications_summary "Fitur baru, pembaruan situs web">
+<!ENTITY pref_content_notifications "Pembaruan situs web">
 
 <!ENTITY pref_developer_remotedebugging_usb "Pendebugan daring via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Pendebugan daring via Wi-Fi">
@@ -183,7 +184,7 @@
 <!ENTITY pref_category_home "Beranda">
 <!ENTITY pref_category_home_summary "Ubahsuai beranda Anda">
 <!ENTITY pref_category_home_panels "Panel">
-
+<!ENTITY pref_category_home_add_ons "Pengaya">
 
 <!ENTITY pref_home_updates_enabled "Aktif">
 <!ENTITY pref_home_updates_wifi "Hanya lewat Wi-Fi">
@@ -210,7 +211,7 @@
 <!ENTITY pref_header_search "Cari">
 <!ENTITY pref_header_privacy_short "Privasi">
 <!ENTITY pref_header_accessibility "Aksesibilitas">
-
+<!ENTITY pref_header_notifications "Notifikasi">
 <!ENTITY pref_header_advanced "Tingkat Lanjut">
 <!ENTITY pref_header_help "Bantuan">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -220,7 +221,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktif, kecuali pihak ketiga">
 <!ENTITY pref_cookies_disabled "Matikan">
 
-
+<!ENTITY pref_category_media "Media">
 
 
 <!ENTITY pref_tap_to_load_images_title2 "Tampilkan gambar">
@@ -239,6 +240,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Aktifkan di Penjelajahan Pribadi">
 <!ENTITY pref_tracking_protection_disabled "Matikan">
 
+<!ENTITY pref_whats_new_notification "Yang baru di &brandShortName;">
 
 
 <!ENTITY tracking_protection_prompt_title "Kini dengan Perlindungan Pelacakan">
@@ -259,7 +261,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Buka Pengaturan">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
