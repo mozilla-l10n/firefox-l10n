@@ -63,6 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Zakázání funkce bezpečného prohlížení není doporučováno, protože vám umožní navštěvovat nebezpečné stránky. Pokud ale chcete tuto funkci zakázat, postupujte podle těchto kroků:">
 <!ENTITY rights.safebrowsing-term1 "Otevřete předvolby aplikace">
 <!ENTITY rights.safebrowsing-term2 "Zvolte panel Zabezpečení">
+<!ENTITY rights2.safebrowsing-term3 "Zrušte výběr možnosti &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Bezpečné prohlížení je nyní vypnuto">
 
 <!-- location aware browsing points for branded builds -->

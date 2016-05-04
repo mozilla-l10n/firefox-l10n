@@ -39,6 +39,10 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Přístup k souboru byl odepřen">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>Možná byl smazán, přesunut nebo jeho oprávnění zabraňují přístupu.</li>
+</ul>">
 
 <!ENTITY generic.title "Nepodařilo se dokončit požadavek">
 <!ENTITY generic.longDesc "
@@ -138,9 +142,11 @@ Personal Security Manager.</li>
 </ul>
 ">
 
+<!ENTITY certerror.longpagetitle1 "Vaše připojení není zabezpečené">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Majitel serveru <span class='hostname'/> nakonfiguroval své webové stránky nesprávně. Abychom chránili vaše informace před odcizením, &brandShortName; se k této webové stránce nepřipojil.">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -181,6 +187,13 @@ za chvíli.</li>
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> používá zabezpečení, které je zastaralé a náchylné k útoku. Útočník by mohl snadno odhalit informace, o kterých jste si mysleli, že jsou v bezpečí.">
 <!ENTITY weakCryptoAdvanced.override "(Nezabezpečeno) Zkusí načíst <span class='hostname'></span> pomocí zastaralého zabezpečení">
 
+<!ENTITY certerror.pagetitle1  "Nezabezpečené připojení">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tento server používá HTTP
+Strict Transport Security (HSTS), čímž určuje, že se má &brandShortName; připojovat
+pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifikát výjimku.">
+<!ENTITY certerror.copyToClipboard.label "Zkopírovat text do schránky">
 
+<!ENTITY inadequateSecurityError.title "Vaše připojení není zabezpečené">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii která je zastaralá a náchylná k útoku. Útočník může snadno získat informace, které si myslíte, že jsou zabezpečené. Administrátor serveru musí server opravit předtím, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

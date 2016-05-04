@@ -4,8 +4,15 @@
 
 <!ENTITY safeb.palm.accept.label "Rychle odsud pryč!">
 <!ENTITY safeb.palm.decline.label "Ignorovat toto upozornění">
-<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
+  item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
+  shown. -->
 <!ENTITY safeb.palm.notdeceptive.label "Tato stránka není klamavá…">
+<!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
+  safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
+  report-phishing.dtd are never shown at the same time, the same accesskey can
+  be used for them. -->
+<!ENTITY safeb.palm.notdeceptive.accesskey "l">
 <!ENTITY safeb.palm.reportPage.label "Proč byla tato stránka zablokována?">
 <!ENTITY safeb.palm.whyForbidden.label "Proč byla tato stránka zablokována?">
 
