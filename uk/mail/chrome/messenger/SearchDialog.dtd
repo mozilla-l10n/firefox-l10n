@@ -40,11 +40,11 @@
 <!ENTITY threadColumn.label "Гілка">
 <!ENTITY fromColumn.label "Відправник">
 <!ENTITY recipientColumn.label "Адресат">
-<!ENTITY correspondentColumn.label "Correspondents">
+<!ENTITY correspondentColumn.label "Кореспонденти">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Важливість">
-<!ENTITY tagsColumn.label "Tags">
+<!ENTITY tagsColumn.label "Мітки">
 <!ENTITY accountColumn.label "Обліковий запис">
 <!ENTITY statusColumn.label "Стан">
 <!ENTITY sizeColumn.label "Розмір">
