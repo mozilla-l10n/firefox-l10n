@@ -694,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Бұл веб сайтқа байланысыңыз шынымен жеке емес. Басқа адамдар сіздің жіберетін ақпаратыңызды көре алады (парольдер, хабарламалар, кредит карталар, т.б.).">
 <!ENTITY identity.description.insecureLoginForms "Бұл парақта енгізілген логин ақпараты қауіпсіз емес, және оған бөтен адамдардың қолы жетуі мүмкін.">
 <!ENTITY identity.description.weakCipher "Бұл веб сайтқа байланысыңыз әлсіз шифрлеуді қолданады және шын жеке емес.">
-
+<!ENTITY identity.description.weakCipher2 "Басқа адамдар сіздің ақпаратыңызды көре алады немесе веб сайттың мінез-құлығын өзгерте алады.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; бұл парақтың кейбір қауіпсіз емес бөліктерін блоктаған.">
 <!ENTITY identity.description.passiveLoaded "Бұл веб сайтқа байланысыңыз шынымен жеке емес және басқа адамдар сіз осы сайтпен бөліскен ақпаратты көре алады.">
 <!ENTITY identity.description.passiveLoaded2 "Бұл веб сайттың кейбір құрамасы қауіпсіз емес (суреттер сияқты).">
@@ -724,7 +724,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Синхрондалған беттер">
 
 <!ENTITY syncedTabs.sidebar.label              "Синхрондалған беттер">
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Firefox-қа басқа құрылғыларда кіріңіз, одан кейін олардың беттерін осында көре аласыз.">
 
 
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін кіріңіз.">
@@ -734,17 +734,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Басқа құрылғыларыңыздан беттер тізімдерін көру үшін беттерді синхрондауды іске қосыңыз.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Ашу">
+<!ENTITY syncedTabs.context.open.accesskey                   "А">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Жаңа бетте ашу">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "т">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Жаңа терезеде ашу">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "т">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Жаңа жекелік терезесінде ашу">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "к">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Бұл бетті бетбелгілерге қосу…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "с">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Көшіріп алу">
+<!ENTITY syncedTabs.context.copy.accesskey                   "К">
 
 
 <!ENTITY syncBrand.shortName.label    "Синхрондау">
