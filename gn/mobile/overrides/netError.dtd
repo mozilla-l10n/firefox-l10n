@@ -27,10 +27,12 @@
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Ikatúmakuri oñemboguete, oñemongu'e térã marandurenda ñemoneĩ ikatu omboyke pe jeike.</li> </ul>">
 
 <!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "<p>&brandShortName; ndaikatúi omyanyhẽ ko kuatiarogue ndojekuaái mba'érepa.</p>">
 
-
+<!ENTITY malformedURI.title "Pe kundaharape ndoikói">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Ñanduti kundaharape ojehai tapia kóicha <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Search</button> </div> <li>Ehecha porãke eipuruhahína barra ijykéva (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Pe jeike ojejokóma">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
