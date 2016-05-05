@@ -50,7 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Mboguerã'i myandypyre">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Mbyatypy ñemboheko">
 <!ENTITY aboutSupport.appBasicsUserAgent "Puruhára pytyvõha">
-
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Mandu'arenda jepuru">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
@@ -106,6 +106,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.restartInSafeMode.label "Moĩmbaha oguepyréva moñepyrũjey…">
 
 
-
-
-
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Ndaipóri jehaipy">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">

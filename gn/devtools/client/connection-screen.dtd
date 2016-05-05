@@ -23,6 +23,8 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelp "Firefox rembipuru mboguatahára omopotĩkuaa mba'e'okayguápe (Firefox Android-pe g̃uarã ha Firefox OS, techapyrãramo). Ema'ẽke emyandy hag̃ua ‘Remote debugging’ mba'e'okayguápe. Maranduve rehechakuaa ">
 <!ENTITY remoteDocumentation "Kuatiaita">
 <!ENTITY remoteHelpSuffix ".">
 
