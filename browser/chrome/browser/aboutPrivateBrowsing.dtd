@@ -11,10 +11,10 @@
 
 
 
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.visited               "қаралған парақтар">
+<!ENTITY aboutPrivateBrowsing.info.searches              "іздеулер">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "уақытша файлдар">
 
 
 
@@ -28,4 +28,4 @@
 
 <!ENTITY trackingProtection.title                        "Бақылаудан қорғаныс">
 
-
+<!ENTITY trackingProtection.startTour1                   "Бұл қалай жұмыс жасайтынын қарау">

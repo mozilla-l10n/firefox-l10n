@@ -7,7 +7,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Байланыс орнату сәтсіз аяқталды">
+<!ENTITY connectionFailure.title "Байланысты орнату сәтсіз аяқталды">
 <!ENTITY connectionFailure.longDesc "<p>Браузер көрсетілген сайтпен байланысты орната алмады, бірақта ол сайттың бар болуы әбден мүмкін.</p><ul><li>Мүмкін, сайт уақытша ашылмайды, олай болса, біраздан кейін ашып көріңіз.</li><li>Егер басқа да сайттарды аша алмасаңыз, онда компьютеріңіздің желі баптауларын тексеріңіз.</li><li>Компьютеріңіз прокси арқылы немесе желілік файрволмен қорғаулы тұр ма? Олардың қате баптаулары интернетті шолуға теріс әсер тигізуі мүмкін.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Бұл портқа тыйым салынған">
@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "Файл табылмады">
 <!ENTITY fileNotFound.longDesc "<ul><li>Ол нәрсенің аты ауысқан, ол өшірілген не орны ауысқан болуы мүмкін бе?</li><li>Адрес ішінде айтылу не жазылу қателері не басқа қателер жоқ па?</li><li>Сұранған нәрсеге сізде керек рұқсаттар бар ма?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "Файлға қатынау құқығы жоқ">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Ол өшірілген, жылжытылған немесе файл рұқсаттары қатынауға жол бермеуі мүмкін.</li></ul>">
 
 <!ENTITY generic.title "Сұранымды аяқтау мүмкін емес">
 <!ENTITY generic.longDesc "<p>Бұл қате жөнінде қосымша ақпарат қазір қолжетерсіз.</p>">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "Қашықтағы XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Бұл мәселе жөнінде веб сайт иесімен хабарласыңыз.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Сіздің байланысыңыз қауіпсіз емес">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ескірген және шабуылдарға әлсіз қауіпсіздік технологиясын қолдануда. Шабуылшы сіз қауіпсіз деп ойлаған ақпаратты оңай анықтай алады. Сіз сайтты шолғанға дейін оның әкімшісі серверді ретке келтіруі тиіс.</p><p>Қате коды: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

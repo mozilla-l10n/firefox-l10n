@@ -29,13 +29,13 @@
 <!ENTITY generic.title "Қате.">
 
 
-
+<!ENTITY malformedURI.longDesc "<ul> <li>Веб адрестері әдетте келесідей жазылады - <strong>http://www.example.com/</strong></li> <li>Қалыпты слэштер қолданатыңызға көз жеткізіңіз (мыс. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Байланыс үзілген">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Құжат ескірген">
-
+<!ENTITY notCached.longDesc "<p>Сұралған құжат &brandShortName; кэшінде жоқ.</p><ul><li>Қауіпсіздік мақсатында, &brandShortName; сезімтал құжаттарды автоматты түрде қайта сұрамайды.</li><li>Құжатты веб сайттан қайта сұрау үшін Қайтадан көру батырмасын шертіңіз.</li></ul>">
 
 <!ENTITY netOffline.title "Дербес жұмыс істеу режимі">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Мәзірде &quot;Дербес жұмыс істеу&quot; жалаушасын алып тастап, қайталап көріңіз.</li> </ul>">
@@ -52,6 +52,7 @@
 <!ENTITY netTimeout.title "Байланысты күту уақыты аяқталды">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Адресті талдау қатесі">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Бұл адресті ашу үшін сізге қосымша бағдарламаларды орнату керек мүмкін.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Прокси сервері сұранымдарды үзіп тұр">
@@ -60,16 +61,20 @@
 <!ENTITY proxyResolveFailure.title "Прокси сервері табылмады">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Прокси баптауларын олардың дұрыстығына тексеріңіз.</li> <li>Компьютеріңіз белсенді желіге қосулы тұрғанына көз жеткізіңіз.</li> <li>Егер компьютеріңіз желілік экран не файрволмен қорғалған болса, &brandShortName; үшін Интернетке қатынау рұқсаты бар-жоғын тексеріңіз.</li> </ul>">
 
+<!ENTITY redirectLoop.title "Парақтағы бағдарлау дұрыс емес">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Бұл мәселе анда-санда cookies қабылдау сөндірілген кезде болуы мүмкін.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Сервердің жауабы күтпеген түрде">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Жүйеңізде Personal Security Manager орнатылғанын тексеріңіз.</li> <li>Бұл мәселе қалыпты емес бапталған сервер себебінен болуы мүмкін.</li> </ul>">
 
+<!ENTITY nssFailure2.title "Қорғалған байланысты орнату сәтсіз">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Сіз сұраған парақ көрсетілмейді, өйткені алынған мәліметтерді тексеру мүмкін емес.</li> <li>Сайттың иесімен осы мәселе жөнінде хабарласыңыз.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "Сіздің байланысыңыз қауіпсіз емес">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/> иесі өз сайтын дұрыс емес баптаған. Ақпаратыңызды ұрланудан қорғау үшін, &brandShortName; бұл веб сайтпен байланыспады.">
 
 <!ENTITY sharedLongDesc "<ul> <li>Сайт уақытша қолжетерсіз, немесе сұранымдарға толы шығар. Кейінірек қайталап көріңіз.</li> <li>Басқа да сайттарды аша алмасаңыз, компьютеріңіздің желіге байланысу баптауларын тексеріңіз.</li> <li>Компьютер немесе желі желіаралық экранмен немесе прокси-сервермен қорғалған болса – &brandShortName; үшін Интернетке шығуға рұқсат бар екеніне көз жеткізіңіз.</li> </ul>">
 
@@ -107,3 +112,4 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ескірген және шабуылдарға әлсіз қауіпсіздік технологиясын қолдануда. Шабуылшы сіз қауіпсіз деп ойлаған ақпаратты оңай анықтай алады. Сіз сайтты шолғанға дейін оның әкімшісі серверді ретке келтіруі тиіс.</p><p>Қате коды: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
