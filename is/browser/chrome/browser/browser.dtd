@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Setja flipa í bókamerki…">
 <!ENTITY showAllBookmarks2.label "Sýna öll bókamerki">
 <!ENTITY recentBookmarks.label "Nýlega sett í bókamerki">
-
+<!ENTITY otherBookmarksCmd.label "Önnur bókamerki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sýna fleiri bókamerki">
 
 <!ENTITY backCmd.label                "Til baka">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bókamerki">
-
+<!ENTITY bookmarksMenuButton.other.label "Önnur bókamerki">
 <!ENTITY viewBookmarksSidebar2.label        "Birta bókamerki í hliðslá">
 <!ENTITY viewBookmarksToolbar.label         "Skoða bókamerkjaslá">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Klippa">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "K"> 
-
+<!ENTITY copyCmd.label            "Afrita">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "A"> 
 <!ENTITY pasteCmd.label           "Líma">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "L"> 
@@ -348,6 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "Engir samstilltir flipar… ennþá!">
 
 <!ENTITY appMenuRemoteTabs.openprefs.label "Samstilla stillingar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Skráðu þig inn til að skoða lista af flipum frá öðrum tækjum.">
