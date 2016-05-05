@@ -9,7 +9,7 @@
 <!ENTITY cookiedomain.label                "Site">
 <!ENTITY button.removecookie.label         "Șterge cookie">
 <!ENTITY button.removecookie.accesskey     "r">
-<!ENTITY button.removeallcookies.label     "Șterge toate cookie-urile">
+<!ENTITY button.removeallcookies.label     "Elimină toate cookie-urile">
 <!ENTITY button.removeallcookies.accesskey "a">
 
 <!ENTITY props.name.label                  "Nume:">
