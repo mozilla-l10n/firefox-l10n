@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Netþjónn fannst ekki">
-
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Athugaðu hvort netfang inniheldur innsláttarvillur til dæmis <strong>ww</strong>.mozilla.org í staðinn fyrir <strong>www</strong>.mozilla.org</li> <li>Ef þú getur ekki tengst öðrum síðum, athugaðu þá nettengingu tölvunnar.</li> <li>Ef tölvan þín er varin af eldvegg eða milliþjóni, vertu viss um að &brandShortName; hafi aðgang til að tengjast vefnum.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Athugaðu hvort þú hefur slegið inn skráarnafnið með hástafaritun eða aðra innsláttarvillu.</li> <li>Athugaðu hvort skráin hefur verið færð, endurnefnt eða eytt.</li> </ul>">
