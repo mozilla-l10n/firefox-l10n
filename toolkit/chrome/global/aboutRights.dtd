@@ -36,7 +36,7 @@
 <!-- point 4 text for official branded builds -->
 
 <!ENTITY rights2.intro-point4a "Unele funcționalități din &brandShortName; se folosesc de servicii de informații bazate pe web, totuși, noi nu putem garanta că acestea sunt 100&#037; exacte sau lipsite de erori. Mai multe detalii, inclusiv informații despre cum să dezactivați funcționalitățile care folosesc aceste servicii, se pot găsi în ">
-<!ENTITY rights.intro-point4b "termenii serviciului">
+<!ENTITY rights.intro-point4b "Termenii de utilizare a serviciului">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 
