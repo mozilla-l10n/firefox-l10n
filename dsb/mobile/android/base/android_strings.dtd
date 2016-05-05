@@ -24,15 +24,16 @@
 
 <!ENTITY  onboard_start_restricted1 "Wóstańśo dalej wěsty a mějśo dalej kontrolu z toś teju zjednorjeneju wersiju &brandShortName;.">
 
-
-
-
+<!ENTITY  reading_list_migration_title "Cytańska lisćina zwězana">
+<!ENTITY  reading_list_migration_subtext "Zapiski wašeje cytańskeje lisćiny se něnto wašym cytańskim znamjenjam pśidaju">
+<!ENTITY  reading_list_migration_goto_bookmarks "K cytańskim znamjenjam">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Waš wobcerk cytańskich znamjenjow jo schowany">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Cytańske znamjenja">
 <!ENTITY  history_title "Historija">
-
+<!ENTITY  reading_list_title "Cytańska lisćina">
 <!ENTITY  recent_tabs_title "Nejnowše rejtarki">
 
 <!ENTITY  switch_to_tab "K rejtarkoju pśěpěś">
@@ -62,15 +63,18 @@
 <!ENTITY bookmark_removed "Cytańske znamje wótporane">
 <!ENTITY bookmark_updated "Cytańske znamje zaktualizěrowane">
 <!ENTITY bookmark_options "Nastajenja">
-
+<!ENTITY screenshot_added_to_bookmarks "Foto wobrazowki jo se cytańskim znamjenjam pśidało">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Fota wobrazowki">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Cytańska lisćina">
 
-
+<!ENTITY reader_saved_offline "Offline skłaźony">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Pśešaltowaś">
 
 <!ENTITY history_today_section "Źinsa">
 <!ENTITY history_yesterday_section "Cora">
@@ -109,7 +113,7 @@
 <!ENTITY settings "Nastajenja">
 <!ENTITY settings_title "Nastajenja">
 <!ENTITY pref_category_general "Powšykne">
-
+<!ENTITY pref_category_general_summary3 "Startowy bok, rěc, rejtarkowy cakański rěd">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -148,15 +152,15 @@
 <!ENTITY overlay_no_synced_devices "Žedne rědy namakane, kótarež su z kontom Firefox zwězane">
 
 <!ENTITY pref_category_search3 "Pytaś">
-
+<!ENTITY pref_category_search_summary2 "Pśidaś, standard nastajiś, naraźenja pokazaś">
 <!ENTITY pref_category_accessibility "Bźezbariernosć">
 <!ENTITY pref_category_accessibility_summary2 "Tekstowa wjelikosć, skalěrowanje, rěcne zapódaśe">
 <!ENTITY pref_category_privacy_short "Priwatnosć">
-
+<!ENTITY pref_category_privacy_summary4 "Slědowanje, cookieje, datowe wuběrki">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Wó &brandShortName;, ceste pšašanja, komentary">
 <!ENTITY pref_category_datareporting "Datowy wuběrki">
-
+<!ENTITY pref_category_logins "Pśizjawjenja">
 <!ENTITY pref_learn_more "Dalšne informacije">
 <!ENTITY pref_category_installed_search_engines "Zainstalěrowane pytnice">
 <!ENTITY pref_category_add_search_providers "Dalšnych pytańskich póbitowarjow pśidaś">
@@ -168,12 +172,13 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "POKAZKA: Pśidajśo swójej lisćinje pytańskich póbitowarjow websedło, z tym až dłujko na jogo pytańske pólo tłocyśo a pótusniśo pótom symbol &formatI;.">
 <!ENTITY pref_category_advanced "Rozšyrjone">
-
-
-
-
-
+<!ENTITY pref_category_advanced_summary3 "Rejtarki wótnowiś, datowy serwer, wuwijarske rědy">
+<!ENTITY pref_category_notifications "Powěźeńki">
+<!ENTITY pref_category_notifications_summary "Nowe funkcije, aktualizacije websedłow">
+<!ENTITY pref_content_notifications "Aktualizacije websedłow">
+<!ENTITY pref_content_notifications_summary2 "Namakajśo nowe wopśimjeśe z pódpěranych sedłow">
 <!ENTITY pref_developer_remotedebugging_usb "Daloke pytanje zmólkow pśez USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Daloke pytanje zmólkow pśez WLAN">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Pytanje zmólkow pśez WLAN se pomina, až QR-kodowy cytak jo na wašom rěźe instalěrowany.">
@@ -183,8 +188,8 @@
 <!ENTITY pref_category_home "Startowy bok">
 <!ENTITY pref_category_home_summary "Pśiměrśo swój startowy bok">
 <!ENTITY pref_category_home_panels "Póla">
-
-
+<!ENTITY pref_category_home_add_ons "Dodanki">
+<!ENTITY pref_home_updates2 "Aktualizacije wopśimjeśa">
 <!ENTITY pref_home_updates_enabled "Zmóžnjony">
 <!ENTITY pref_home_updates_wifi "Jano pśez Wi-Fi">
 <!ENTITY pref_category_home_homepage "Startowy bok">
@@ -210,7 +215,7 @@
 <!ENTITY pref_header_search "Pytaś">
 <!ENTITY pref_header_privacy_short "Priwatnosć">
 <!ENTITY pref_header_accessibility "Bźezbariernosć">
-
+<!ENTITY pref_header_notifications "Powěźeńki">
 <!ENTITY pref_header_advanced "Rozšyrjone">
 <!ENTITY pref_header_help "Pomoc">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -220,8 +225,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Zmóžnjony, z wuwześim tśeśich póbitowarjow">
 <!ENTITY pref_cookies_disabled "Znjemóžnjony">
 
-
-
+<!ENTITY pref_category_data_saver "Datowy serwer">
+<!ENTITY pref_category_media "Medije">
+<!ENTITY pref_category_developer_tools "Wuwijarske rědy">
 
 <!ENTITY pref_tap_to_load_images_title2 "Wobraze pokazaś">
 <!ENTITY pref_tap_to_load_images_enabled "Pśecej">
@@ -229,8 +235,9 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Zablokěrowany">
 
 <!ENTITY pref_show_web_fonts "Webpisma pokazaś">
+<!ENTITY pref_show_web_fonts_summary2 "Zdalone pisma ześěgnuś, gaž se bok zacyitujo">
 
-
+<!ENTITY pref_tracking_protection_title2 "Slědowański šćit">
 <!ENTITY pref_tracking_protection_summary3 "W priwatnem modusu zmóžnjony">
 <!ENTITY pref_donottrack_title "Njeslědowaś">
 <!ENTITY pref_donottrack_summary "&brandShortName; dajo sydłam k wěsći, až njocośo, až wam slěduju">
@@ -239,7 +246,8 @@
 <!ENTITY pref_tracking_protection_enabled_pb "W priwatnem modusu zmóžnjony">
 <!ENTITY pref_tracking_protection_disabled "Znjemóžnjony">
 
-
+<!ENTITY pref_whats_new_notification "Rejtark jo se w &brandShortName; składł">
+<!ENTITY pref_whats_new_notification_summary "Zgóńśo wěcej wó nowych funkcijach pó aktualizaciji">
 
 <!ENTITY tracking_protection_prompt_title "Něnto ze slědowańskim šćitom">
 <!ENTITY tracking_protection_prompt_text "Slědowańske elementy se aktiwnje blokěruju, njetrjebaśo pótakem sr starosćiś.">
@@ -259,7 +267,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "K nastajenjam">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -273,19 +281,22 @@
 
 <!ENTITY tab_queue_notification_settings "Aby „někotare wótkaze wócynił“, zmóžniśo pšosym nastajenje „Pśez druge nałoženja śěgnuś“ za &brandShortName;">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!ENTITY content_notification_title_plural "&formatD; websedłow zaktualizěrowanych">
+<!ENTITY content_notification_action_settings "Zdźěleńske nastajenje">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "Na &formatS; zaktualizěrowany">
 
 <!ENTITY pref_char_encoding "Znamuškowe koděrowanje">
 <!ENTITY pref_char_encoding_on "Meni pokazaś">
 <!ENTITY pref_char_encoding_off "Meni njepokazaś">
-
+<!ENTITY pref_clear_private_data2 "Priwatne daty wulašowaś">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Něnto lašowaś">
@@ -294,7 +305,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Wubjeŕśo, kótare daty maju se wulašowaś">
 <!ENTITY pref_plugins "Tykace">
 <!ENTITY pref_plugins_enabled "Zmóžnjony">
-
+<!ENTITY pref_plugins_tap_to_play2 "Pótusniśo, aby wótgrał">
 <!ENTITY pref_plugins_disabled "Znjemóžnjony">
 <!ENTITY pref_text_size "Tekstowa wjelikosć">
 <!ENTITY pref_restore_tabs "Rejtarki wótnowiś">
@@ -344,6 +355,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Ześěgnjenja">
 <!ENTITY pref_private_data_syncedTabs "Synchronizěrowane rejtarki">
 
+<!ENTITY pref_default_browser "Jako standardny wobglědowak nastajiś">
 <!ENTITY pref_about_firefox "Wó &brandShortName;">
 <!ENTITY pref_vendor_faqs "Ceste pšašanja">
 <!ENTITY pref_vendor_feedback "Komentar pisaś">
@@ -389,6 +401,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Awtomatiske aktualizacije">
 <!ENTITY pref_update_autodownload_wifi "Jano pśez Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nigda">
 <!ENTITY pref_update_autodownload_always "Pśecej">
@@ -399,7 +412,7 @@ size. -->
 <!ENTITY quit "Skóńcyś">
 
 <!ENTITY addons "Dodanki">
-
+<!ENTITY logins "Pśizjawjenja">
 <!ENTITY downloads "Ześěgnjenja">
 <!ENTITY char_encoding "Znamuškowe koděrowanje">
 
@@ -470,7 +483,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Małe wobcerki pówětšyś">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Wótkaze a formularne póla powětšyś, gaž pótusnjośo blisko nich">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -523,7 +536,7 @@ size. -->
 
 <!ENTITY home_title "Startowy bok &brandShortName;">
 <!ENTITY home_history_title "Historija">
-
+<!ENTITY home_history_back_to "Slědk k historiji">
 <!ENTITY home_clear_history_button "Pśeglědowańsku historiju wuprozniś">
 <!ENTITY home_clear_history_confirm "Cośo napšawdu historiju wuprozniś?">
 <!ENTITY home_bookmarks_empty "Cytańske znamjenja, kótarež składujośo, pokazuju se how.">
@@ -562,6 +575,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Zapódajśo pytańske klucowe słowo">
 
+<!ENTITY filepicker_title "Dataju wubraś">
 <!ENTITY filepicker_audio_title "Wubjeŕśo abo nagrajśo zuk">
 <!ENTITY filepicker_image_title "Wubjeŕśo abo wótmolujśo wobraz">
 <!ENTITY filepicker_video_title "Wubjeŕśo abo nagrajśo wideo">
@@ -590,6 +604,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "Źěle toś togo boka njejsu wěste (na pśikład wobraze).">
 <!ENTITY mixed_content_protection_disabled1 "Sćo šćit pśeśiwo njewěstym elementam znjemóžnił.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "Slědowański šćit">
 <!ENTITY doorhanger_tracking_state_enabled "Zmóžnjony">
 <!ENTITY doorhanger_tracking_state_disabled "Znjemóžnjony">
 <!ENTITY doorhanger_tracking_message_enabled1 "Wopyty, wašo zaźaržanje online slědowaś, su se blokěrowali.">
@@ -754,6 +770,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; jo aktualny">
 <!ENTITY whatsnew_notification_summary "Wuslěźćo, což jo nowe w toś tej wersiji">
 
+<!ENTITY promotion_add_to_homescreen "Startowej wobrazowce pśidaś">
 
-
-
+<!ENTITY helper_first_offline_bookmark_title "Offline cytaś">
+<!ENTITY helper_first_offline_bookmark_message "Namakajśo zapiski wašogo cytakowego naglěda teke offline.">
+<!ENTITY helper_first_offline_bookmark_button "K cytańskim znamjenjam">
