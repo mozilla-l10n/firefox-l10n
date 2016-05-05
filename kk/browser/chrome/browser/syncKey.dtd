@@ -5,7 +5,7 @@
 <!ENTITY syncKey.page.title               "Сіздің &syncBrand.fullName.label; кілтіңіз">
 <!ENTITY syncKey.page.description2        "Бұл кілт сіздің &syncBrand.fullName.label; тіркелгіңіздегі ақпаратты дешифрлеу үшін қолданылады. Бұл кілтті сізге әр рет &syncBrand.fullName.label; жаңа құрылғыда баптаған кезде енгізу керек болады.">
 <!ENTITY syncKey.keepItSecret.heading     "Оны құпия етіп ұстаңыз">
-
+<!ENTITY syncKey.keepItSecret.description "Сіздің &syncBrand.fullName.label; тіркелгіңіз жекелігіңізді қорғау үшін шифрленген. Бұл кілтсіз, жеке ақпаратыңызды дешифрлеу үшін біреуге жылдар керек болады. Бұл кілтті ұстайтын тек сіз ғана. Бұл дегеніміз, өзіңіздің &syncBrand.fullName.label; ақпаратына тек өзіңіз қол жеткізе аласыз.">
 <!ENTITY syncKey.keepItSafe.heading       "Оны қауіпсіз етіп ұстаңыз">
 <!ENTITY syncKey.keepItSafe1.description  "Бұл кілтті жоғалтпаңыз.">
 

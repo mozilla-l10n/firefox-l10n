@@ -44,7 +44,7 @@
 
 <!ENTITY  downloadPage.title              "&brandShortName; жүктелуде">
 <!ENTITY  downloading.intro               "Жаңарту жүктелуде...">
-<!ENTITY  connecting.label                "Жаңарту серверімен байланыс орнату...">
+<!ENTITY  connecting.label                "Жаңарту серверімен байланысты орнату…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; жүктелген жартылай жаңартудың бүтіндігін тексере алмады, сондықтан ол қазір толық жанартуды жүктеп алады.">
 
 <!ENTITY  viewDetails.tooltip             "Осы жаңарту туралы көбірек білу">
