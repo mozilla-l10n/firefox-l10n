@@ -349,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Engir samstilltir flipar… ennþá!">
-
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Viltu sjá hérna þína flipa frá öðrum tækjum?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Samstilla stillingar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Skráðu þig inn til að skoða lista af flipum frá öðrum tækjum.">
 <!ENTITY appMenuRemoteTabs.signin.label "Skráðu þig inn í Sync">
@@ -695,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Tengingin við þetta vefsvæði er ekki læst. Þær upplýsingar sem þú sendir gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira).">
 <!ENTITY identity.description.insecureLoginForms "Upplýsingarnar sem þú setur inn á þessa síðu eru ekki öruggar og hugsanlega gæti þriðji aðili komist yfir þær.">
 <!ENTITY identity.description.weakCipher "Tengingin við þetta vefsvæði notar lélega dulkóðun og er ekki lokuð.">
-
+<!ENTITY identity.description.weakCipher2 "Aðrir geta skoðað þessar upplýsingar eða breytt virkni vefsvæðisins.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.">
 <!ENTITY identity.description.passiveLoaded "Tengingin við þetta vefsvæði er ekki lokuð og upplýsingar sem þú sendir gætu aðrir skoðað.">
 <!ENTITY identity.description.passiveLoaded2 "Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og myndir).">
@@ -725,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Samstilltir flipar">
 
 <!ENTITY syncedTabs.sidebar.label              "Samstilltir flipar">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Skráðu þig inn í Firefox frá öðrum tækjum til að skoða þeirra flipa hér.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Engir samstilltir flipar… ennþá!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Viltu sjá hérna þína flipa frá öðrum tækjum?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Skráðu þig inn til að skoða lista af flipum frá öðrum tækjum.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Engir opnir flipar">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Opna &syncBrand.shortName.label; stillingar">
@@ -735,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Kveiktu á samstillingu flipa til að skoða lista af flipum frá öðrum tækjum.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Opna">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Opna í nýjum flipa">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "f">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Opna í nýjum glugga">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Opna í nýjum huliðsglugga">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Setja flipa í bókamerki…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Afrita">
+<!ENTITY syncedTabs.context.copy.accesskey                   "A">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
