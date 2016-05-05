@@ -23,7 +23,7 @@
 <!ENTITY openConversationCmd.label     "Începe o conversație">
 <!ENTITY openConversationCmd.accesskey "c">
 <!ENTITY closeConversationCmd.label    "Închide conversația">
-<!ENTITY closeConversationCmd.accesskey "v">
+<!ENTITY closeConversationCmd.accesskey "c">
 <!ENTITY aliasCmd.label                "Redenumire">
 <!ENTITY aliasCmd.accesskey            "m">
 <!ENTITY deleteCmd.label               "Șterge contactul">
