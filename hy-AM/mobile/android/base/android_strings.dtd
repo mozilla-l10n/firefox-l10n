@@ -536,9 +536,9 @@ size. -->
 
 <!ENTITY home_title "&brandShortName;-ի Գլխավոր էջ">
 <!ENTITY home_history_title "Պատմություն">
-
-
-
+<!ENTITY home_synced_devices_smartfolder "Համաժամեցված սարքեր">
+<!ENTITY home_synced_devices_number "&formatD; սարքեր">
+<!ENTITY home_history_back_to2 "Վերադառնալ պատմությանը">
 <!ENTITY home_clear_history_button "Մաքրել դիտարկումների պատմությունը">
 <!ENTITY home_clear_history_confirm "Մաքրե՞լ պատմությունը:">
 <!ENTITY home_bookmarks_empty "Այստեղ ցուցադրված են էջանիշերը:">
