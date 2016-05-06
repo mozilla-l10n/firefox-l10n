@@ -45,7 +45,7 @@
 <!ENTITY  crash_sorry "Pedimos desculpa">
 <!ENTITY  crash_comment "Adicione um comentário (os comentários estão visíveis publicamente)">
 <!ENTITY  crash_allow_contact2 "Permitir que o &vendorShortName; me contacte sobre este relatório">
-<!ENTITY  crash_email "O seu e-mail">
+<!ENTITY  crash_email "O seu email">
 <!ENTITY  crash_closing_alert "Sair sem enviar um relatório de falha?">
 <!ENTITY  sending_crash_report "A enviar relatório de falha\u2026">
 <!ENTITY  crash_close_label "Fechar">
