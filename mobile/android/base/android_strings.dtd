@@ -525,6 +525,8 @@ size. -->
 <!ENTITY home_title "صفحة &brandShortName; الرئيسية">
 <!ENTITY home_history_title "التأريخ">
 
+
+
 <!ENTITY home_clear_history_button "امسح تأريخ التصفح">
 <!ENTITY home_clear_history_confirm "أمتأكد من أنك تريد مسح التأريخ؟">
 <!ENTITY home_bookmarks_empty "العلامات التي تحفظها ستظهر هنا.">
