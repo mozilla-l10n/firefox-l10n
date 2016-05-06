@@ -536,7 +536,9 @@ size. -->
 
 <!ENTITY home_title "Dachaigh &brandShortName;">
 <!ENTITY home_history_title "Eachdraidh">
-<!ENTITY home_history_back_to "Air ais gun eachdraidh air fad">
+
+
+
 <!ENTITY home_clear_history_button "Falamhaich an eachdraidh brabhsaidh">
 <!ENTITY home_clear_history_confirm "A bheil thu cinnteach gu bheil thu airson an eachdraidh agad fhalamhadh?">
 <!ENTITY home_bookmarks_empty "Nochdaidh comharran-lìn a shàbhaileas tu an-seo.">
