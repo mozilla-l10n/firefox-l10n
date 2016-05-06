@@ -70,6 +70,11 @@
 <!ENTITY screenshot_folder_label_in_bookmarks "Captures d’écran">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Liste de lecture">
 
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+<!ENTITY bookmark_folder_items "&formatS; éléments">
+<!ENTITY bookmark_folder_one_item "1 élément">
+
 <!ENTITY reader_saved_offline "Enregistré hors ligne">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -533,7 +538,9 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Accueil de &brandShortName;">
 <!ENTITY home_history_title "Historique">
-<!ENTITY home_history_back_to "Retour à l’historique complet">
+<!ENTITY home_synced_devices_smartfolder "Appareils synchronisés">
+<!ENTITY home_synced_devices_number "&formatD; appareils">
+<!ENTITY home_history_back_to2 "Retour à l’historique complet">
 <!ENTITY home_clear_history_button "Effacer l’historique de navigation">
 <!ENTITY home_clear_history_confirm "Voulez-vous vraiment effacer votre historique ?">
 <!ENTITY home_bookmarks_empty "Les marque-pages enregistrés s’affichent ici.">
