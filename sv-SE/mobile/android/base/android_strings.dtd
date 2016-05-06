@@ -536,7 +536,9 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; Hem">
 <!ENTITY home_history_title "Historik">
-<!ENTITY home_history_back_to "Gå tillbaka till all historik">
+
+
+
 <!ENTITY home_clear_history_button "Töm bläddringshistorik">
 <!ENTITY home_clear_history_confirm "Är du säker på att du vill rensa historiken?">
 <!ENTITY home_bookmarks_empty "Bokmärken som du sparat visas här.">
