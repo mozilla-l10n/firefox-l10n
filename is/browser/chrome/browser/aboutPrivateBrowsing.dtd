@@ -6,24 +6,25 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Opna huliðsglugga">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
+<!ENTITY privateBrowsing.title                           "Huliðsstilling">
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.searches              "leit">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "smákökur">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "tímabundnar skrár">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "mun vista">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " þitt:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "niðurhal">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "bókamerki">
+<!ENTITY aboutPrivateBrowsing.note.before                "Huliðsstilling">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "gerir þig ekki nafnlausan">
+<!ENTITY aboutPrivateBrowsing.note.after                 " á Internetinu. Vinnuveitandinn þinn eða netþjónustuaðili getur haft upplýsingar um hvaða síður þú ferð á.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Læra meira um">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Huliðsstilling">
 
 <!ENTITY trackingProtection.title                        "Vörn gegn því að fylgst sé með þér">
 
