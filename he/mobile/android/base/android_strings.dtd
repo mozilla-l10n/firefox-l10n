@@ -2,13 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "אין מספיק מקום פנוי כדי להפעיל את &brandShortName;.">
-<!ENTITY  error_loading_file "אירעה שגיאה במהלך נסיון טעינת קבצים הדרושים להפעלת &brandShortName;">
-
 <!ENTITY firstrun_panel_title_welcome "ברוכים הבאים">
 <!ENTITY  onboard_start_message3 "גלישה באמצעות &brandShortName;">
-<!ENTITY  onboard_start_button_account "התחברות אל &brandShortName;">
+
 <!ENTITY  onboard_start_button_browser "התחלת גלישה">
 
 <!ENTITY  onboard_start_restricted1 "הישארו בטוחים ובשליטה עם גרסה מופשטת זו של &brandShortName;.">
@@ -34,12 +30,6 @@
 <!ENTITY  sending_crash_report "שולח דיווח קריסה\u2026">
 <!ENTITY  crash_close_label "סגירה">
 <!ENTITY  crash_restart_label "הפעל מחדש את &brandShortName;">
-<!ENTITY  exit_label "יציאה">
-
-<!ENTITY  launcher_shortcuts_title "ישומי רשת של &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "לא אותרו ישומי רשת">
-
-<!ENTITY choose_file "בחירת קובץ">
 
 
 <!ENTITY bookmark "סימניה">
@@ -52,11 +42,17 @@
 <!ENTITY bookmark_removed "סימניה נמחקה">
 <!ENTITY bookmark_updated "סימניה עודכנה">
 <!ENTITY bookmark_options "אפשרויות">
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
 
 <!ENTITY history_today_section "היום">
 <!ENTITY history_yesterday_section "אתמול">
 
-<!ENTITY go "לך">
 <!ENTITY search "חיפוש">
 <!ENTITY reload "טעינה מחדש">
 <!ENTITY forward "קדימה">
@@ -87,11 +83,6 @@
 
 <!ENTITY settings "הגדרות">
 <!ENTITY settings_title "הגדרות">
-<!ENTITY pref_category_input_options "אפשרויות קלט">
-<!ENTITY pref_category_advanced "מתקדם">
-<!ENTITY pref_category_customize "התאמה אישית">
-<!ENTITY pref_category_customize_summary "Home, search, tabs, import">
-<!ENTITY pref_category_customize_alt_summary "Home, search, tabs, open later, import">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -114,9 +105,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "הוספת סימניה">
-<!ENTITY overlay_share_reading_list_btn_label "הוספה לרשימת הקריאה">
 <!ENTITY overlay_share_bookmark_btn_label_already "כבר נוצרה סימניה">
-<!ENTITY overlay_share_reading_list_btn_label_already "הפריט כבר נמצא ברשימת הקריאה">
 <!ENTITY overlay_share_send_other "שליחה להתקנים אחרים">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -131,19 +120,10 @@
      are found. -->
 <!ENTITY overlay_no_synced_devices "לא אותרו התקנים המחוברים ל־Firefox Account">
 
-<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
-     clicks on the button to send a tab to another device and there are no
-     other devices present. This label should briefly inform the user that they
-     need another connected device in order to use the feature. -->
-
 <!ENTITY pref_category_search3 "חיפוש">
-<!ENTITY pref_category_search_summary "התאמה אישית של ספקי החיפוש שלך">
-<!ENTITY pref_category_display "תצוגה">
 <!ENTITY pref_category_privacy_short "פרטיות">
-<!ENTITY pref_category_privacy_summary2 "שליטה על כניסות, עוגיות, מעקב, נתונים">
-<!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "אודות &brandShortName;, תשובות לשאלות נפוצות, בחירות נתונים">
 <!ENTITY pref_category_datareporting "בחירות נתונים">
+<!ENTITY pref_category_logins "כניסות">
 <!ENTITY pref_learn_more "מידע נוסף">
 <!ENTITY pref_category_installed_search_engines "מנועי חיפוש מותקנים">
 <!ENTITY pref_category_add_search_providers "הוספת מנועי חיפוש נוספים">
@@ -155,36 +135,32 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_category_devtools "כלי מפתחים">
-<!ENTITY pref_category_logins "כניסות">
+<!ENTITY pref_category_advanced "מתקדם">
 <!ENTITY pref_remember_signons2 "שמירת כניסות">
-<!ENTITY pref_open_external_urls_privately_title "פתיחת קישורים בגלישה פרטית">
-<!ENTITY pref_open_external_urls_privately_summary "עבור כל הקישורים החיצוניים שיפתחו ב־&brandShortName;">
 <!ENTITY pref_manage_logins "ניהול כניסות">
 
 <!ENTITY pref_category_home "בית">
 <!ENTITY pref_category_home_summary "התאמה אישית של עמוד הבית">
 <!ENTITY pref_category_home_panels "לוחות">
-<!ENTITY home_add_panel_title "הוספת לוח חדש">
-<!ENTITY home_add_panel_empty "אנו מצטערים, לא יכולנו למצוא לוחות להוספה.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "הלוח ”&formatS;” התווסף לדף הבית">
-<!ENTITY pref_category_home_content_settings "הגדרות תוכן">
-<!ENTITY pref_home_updates "עדכונים אוטומטיים">
 <!ENTITY pref_home_updates_enabled "מופעל">
 <!ENTITY pref_home_updates_wifi "על רשתות Wi-Fi בלבד">
-<!ENTITY pref_home_suggested_sites "הצגת המלצות">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_customize "התאמה אישית">
-<!ENTITY pref_header_display "תצוגה">
 <!ENTITY pref_header_privacy_short "פרטיות">
 <!ENTITY pref_header_help "עזרה">
-<!ENTITY pref_header_language "שפה">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "כלי מפתחים">
 
 <!ENTITY pref_cookies_menu "עוגיות">
 <!ENTITY pref_cookies_accept_all "מופעל">
@@ -192,12 +168,18 @@
 <!ENTITY pref_cookies_disabled "מנוטרל">
 
 
-<!ENTITY pref_tracking_protection_title "הגנת מעקב">
 
 
 
+
+
+
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "הפעלה">
 <!ENTITY tab_queue_prompt_negative_action_button "לא כעת">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -208,19 +190,28 @@
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "לשונית אחת ממתינה">
 
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
+
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "קידוד תווים">
 <!ENTITY pref_char_encoding_on "הצגת תפריט">
 <!ENTITY pref_char_encoding_off "הסתרת תפריט">
 <!ENTITY pref_clear_private_data2 "מחיקה כעת">
-<!ENTITY pref_clear_private_data_category "מחיקת נתונים פרטיים">
-<!ENTITY pref_clear_on_exit_title2 "מחיקה ביציאה">
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ימחק נתונים בצורה אוטומטית בכל פעם שתיבחר האפשרות „יציאה” מהתפריט הראשי. ">
 <!ENTITY pref_plugins "תוספים חיצוניים">
 <!ENTITY pref_plugins_enabled "פעיל">
-<!ENTITY pref_plugins_tap_to_play "לחיצה להפעלה">
 <!ENTITY pref_plugins_disabled "מנוטרל">
 <!ENTITY pref_text_size "גודל טקסט">
-<!ENTITY pref_restore "לשוניות">
 <!ENTITY pref_restore_always "לשחזר תמיד">
 <!ENTITY pref_restore_quit "לא לשחזר לאחר יציאה מ־&brandShortName;">
 <!ENTITY pref_font_size_tiny "קטן מאד">
@@ -239,10 +230,8 @@ size. -->
 
 <!ENTITY pref_voice_input "קלט קולי">
 <!ENTITY pref_qrcode_enabled "קורא קוד QR">
-<!ENTITY pref_qrcode_enabled_summary "לאפשר סורק QR בשורת הכותרת">
 
 <!ENTITY pref_use_master_password "שימוש בססמה ראשית">
-<!ENTITY pref_sync "Sync">
 <!ENTITY pref_private_data_history2 "היסטורית גלישה">
 <!ENTITY pref_private_data_searchHistory "היסטורית חיפוש">
 <!ENTITY pref_private_data_formdata2 "היסטורית טפסים">
@@ -253,7 +242,6 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "הגדרות אתר">
 <!ENTITY pref_private_data_downloadFiles2 "הורדות">
 <!ENTITY pref_private_data_syncedTabs "לשוניות מסונכרנות">
-
 
 <!ENTITY pref_about_firefox "אודות &brandShortName;">
 <!ENTITY pref_vendor_feedback "שליחת משוב">
@@ -271,10 +259,12 @@ size. -->
 <!ENTITY pref_panels_move_down "להזיז מטה">
 
 <!ENTITY datareporting_notification_title "סטטיסטיקות ונתונים של &brandShortName;">
-<!ENTITY datareporting_notification_action_long "בחירת מידע שישותף">
 <!ENTITY datareporting_notification_action "בחירת הפריטים שישותפו">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "בחירת מידע שישותף">
 <!ENTITY datareporting_notification_summary "כדי לשפר את חווית השימוש, &brandShortName; שולח באופן אוטומטי מידע אל &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "כדי לשפר את חווית השימוש, &brandShortName;…">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -289,7 +279,6 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "הורדת עדכונים באופן אוטומטי">
 <!ENTITY pref_update_autodownload_wifi "רק בחיבורי Wi-Fi">
 <!ENTITY pref_update_autodownload_never "לעולם לא">
 <!ENTITY pref_update_autodownload_always "תמיד">
@@ -318,7 +307,6 @@ size. -->
 <!ENTITY close_private_tabs "סגירת לשוניות פרטיות">
 <!ENTITY tabs_normal "לשוניות">
 <!ENTITY tabs_private "לשוניות פרטיות">
-<!ENTITY tabs_synced "מסונכרן">
 <!ENTITY set_image_fail "לא ניתן לקבוע תמונה">
 <!ENTITY set_image_path_fail "לא ניתן לשמור תמונה">
 <!ENTITY set_image_chooser_title "קביעת תמונה בתור">
@@ -368,20 +356,13 @@ size. -->
 <!ENTITY doorhanger_login_select_action_text "בחירת כניסה אחרת">
 <!ENTITY doorhanger_login_select_title "העתקת ססמה מ־">
 
-<!ENTITY pref_titlebar_mode "שורת כותרת">
-<!ENTITY pref_titlebar_mode_title "הצגת כותרת הדף">
-<!ENTITY pref_titlebar_mode_url "הצגת כתובת הדף">
-
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "גלישה במסך מלא">
-<!ENTITY pref_scroll_title_bar_summary "הסתרת שורת הכותרת של &brandShortName; במהלך גלילת הדף כלפי מטה">
 
-<!ENTITY pref_tab_queue_title2 "פתיחת מספר קישורים">
-<!ENTITY pref_tab_queue_summary3 "שמירת קישורים עד לפעם הבאה בה &brandShortName; יפתח">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -398,19 +379,6 @@ size. -->
 <!ENTITY site_settings_title3       "הגדרות אתר">
 <!ENTITY site_settings_cancel       "ביטול">
 <!ENTITY site_settings_clear        "מחיקה">
-<!ENTITY site_settings_no_settings  "אין הגדרות למחיקה.">
-
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-<!ENTITY reading_list_removed "הדף הוסר מרשימת הקריאה שלך">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-<!ENTITY reading_list_time_minutes2 "&formatD; דקות">
-<!ENTITY reading_list_time_over_an_hour "מעל שעה">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -443,20 +411,12 @@ size. -->
 <!ENTITY home_clear_history_confirm "האם ברצונך למחוק את ההיסטוריה שלך?">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
-
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
@@ -498,7 +458,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "מידע נוסף">
 <!ENTITY enable_protection "הפעלת הגנה">
 <!ENTITY disable_protection "נטרול הגנה">
-<!ENTITY keep_blocking "להמשיך לחסום">
 
 <!ENTITY private_data_success "הנתונים הפרטיים נמחקו">
 <!ENTITY private_data_fail "חלק מהנתונים הפרטיים אינם ניתנים למחיקה">
@@ -521,14 +480,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
-<!ENTITY webapp_generic_name "יישומון">
-
 
  <!-- Updater notifications -->
 
 
 
-<!-- Guest mode -->
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+
+    <!-- Guest mode -->
 <!ENTITY guest_session_dialog_continue "המשך">
 <!ENTITY guest_session_dialog_cancel "ביטול">
 <!ENTITY new_guest_session_title "&brandShortName; כעת יופעל מחדש">
@@ -564,12 +526,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 
-<!-- Find-In-Page strings -->
-<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
-     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
-<!ENTITY find_matchcase "Aa">
-
-<!ENTITY intent_uri_cannot_open "לא ניתן לפתוח קישור">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -589,8 +545,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
 
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!-- Default Bookmarks titles-->
@@ -599,3 +555,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
+
