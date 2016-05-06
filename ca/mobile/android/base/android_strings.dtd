@@ -511,6 +511,8 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_history_title "Historial">
 
+
+
 <!ENTITY home_clear_history_button "Neteja l\u0027historial de navegació">
 <!ENTITY home_clear_history_confirm "Esteu segur que voleu netejar l\u0027historial?">
 <!ENTITY home_bookmarks_empty "Aquí es mostren les adreces d\u0027interès que deseu.">
