@@ -536,7 +536,9 @@ size. -->
 
 <!ENTITY home_title "Startowy bok &brandShortName;">
 <!ENTITY home_history_title "Historija">
-<!ENTITY home_history_back_to "Slědk k historiji">
+
+
+
 <!ENTITY home_clear_history_button "Pśeglědowańsku historiju wuprozniś">
 <!ENTITY home_clear_history_confirm "Cośo napšawdu historiju wuprozniś?">
 <!ENTITY home_bookmarks_empty "Cytańske znamjenja, kótarež składujośo, pokazuju se how.">
