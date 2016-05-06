@@ -524,6 +524,8 @@ size. -->
 <!ENTITY home_title "Cartref &brandShortName;">
 <!ENTITY home_history_title "Hanes">
 
+
+
 <!ENTITY home_clear_history_button "Clirio eich hanes pori">
 <!ENTITY home_clear_history_confirm "Ydych chi\u0027n siŵr eich bod chi eisiau clirio eich hanes?">
 <!ENTITY home_bookmarks_empty "Mae nodau tudalen i\u0027w gweld yma.">
