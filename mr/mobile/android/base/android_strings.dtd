@@ -524,6 +524,8 @@ size. -->
 <!ENTITY home_title "&brandShortName; मुख्यपृष्ठ">
 <!ENTITY home_history_title "इतिहास">
 
+
+
 <!ENTITY home_clear_history_button "ब्राऊजिंग इतिहास पुसा">
 <!ENTITY home_clear_history_confirm "आपला इतिहास पुसण्याबद्दल आपली खात्री आहे का?">
 <!ENTITY home_bookmarks_empty "आपण साठवलेल्या वाचनखूणा येथे दिसतील.">
