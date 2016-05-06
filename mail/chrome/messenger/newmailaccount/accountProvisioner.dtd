@@ -26,7 +26,7 @@
 <!ENTITY existing.header "Já tem um endereço que quer usar?">
 <!ENTITY tinyheader.title "Já tem um endereço?">
 <!ENTITY tinyheader.existing "Ignorar esta etapa e utilizar a minha conta de correio atual">
-<!ENTITY content.close "Acho que vou configurar a minha conta mais tarde.">
+<!ENTITY content.close "Acho que vou configurar a minha conta mais tarde">
 <!ENTITY successful.title "Parabéns!">
 <!ENTITY successful.successMessage "Configurou a sua conta com sucesso.">
 <!ENTITY successful.write "Escreva uma mensagem eletrónica">
