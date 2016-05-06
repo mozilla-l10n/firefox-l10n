@@ -149,3 +149,6 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "å">
 <!ENTITY spellAddDictionaries.label     "Hämta fler ordlistor…">
 <!ENTITY spellAddDictionaries.accesskey "ä">
+<!-- Developer Tools -->
+<!ENTITY devtoolsInspect.label          "Inspektera element">
+<!ENTITY devtoolsInspect.accesskey      "n">
