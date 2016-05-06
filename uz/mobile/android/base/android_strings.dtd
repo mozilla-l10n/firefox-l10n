@@ -536,7 +536,9 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; bosh sahifasi">
 <!ENTITY home_history_title "Tarix">
-<!ENTITY home_history_back_to "Barcha tarixga qaytish">
+
+
+
 <!ENTITY home_clear_history_button "Brauzer tarixini tozalash">
 <!ENTITY home_clear_history_confirm "Haqiqatan ham brauzer tarixini tozalamoqchimisiz?">
 <!ENTITY home_bookmarks_empty "Bu yerda ko‘rinishi uchun siz saqlagan xatcho‘plar.">
