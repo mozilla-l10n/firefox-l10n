@@ -536,9 +536,9 @@ size. -->
 
 <!ENTITY home_title "Rutikirib\u0027al &brandShortName;">
 <!ENTITY home_history_title "K\u0027ulwachinel">
-
-
-
+<!ENTITY home_synced_devices_smartfolder "Ximon taq okisaxel">
+<!ENTITY home_synced_devices_number "&formatD; taq okisaxel">
+<!ENTITY home_history_back_to2 "Jumül chik ri tz\u0027aqät Natab\u0027äl">
 <!ENTITY home_clear_history_button "Tiyuj el ruk\u0027ulwachinel ri okik\u0027amaya\u0027l">
 <!ENTITY home_clear_history_confirm "¿La kan nawajo\u0027 nayüj el rupam ri k\u0027ulwachinel?">
 <!ENTITY home_bookmarks_empty "Ri taq yakäl etal xe\u0027aköl, xkeq\u0027alajin pe wawe\u0027.">
