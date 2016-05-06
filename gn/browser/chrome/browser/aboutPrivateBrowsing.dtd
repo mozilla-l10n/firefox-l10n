@@ -6,15 +6,16 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Eike Window ovetã Ñemíme">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "Ñ">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY privateBrowsing.title                           "Kundaha ñemi">
+<!ENTITY privateBrowsing.title.tracking                  "Kundahára ñemi jehekaha mo'ãha ndive">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Eipyguarávo ovetã ñemiguáva, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "noñongatúi">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "kuatiarogue hechapyre">
+<!ENTITY aboutPrivateBrowsing.info.searches              "jeheka">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "cookie">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "marandurenda sapy'aguáva">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 
 
 
