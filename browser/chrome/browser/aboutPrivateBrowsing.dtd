@@ -6,8 +6,9 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "निजी विंडो खोलें">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
+<!ENTITY privateBrowsing.title                           "निजी ब्राउज़िंग">
 
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "जब आप निजी विंडो में ब्राउज करते हैं, Firefox">
 
 
 
