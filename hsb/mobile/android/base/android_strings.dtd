@@ -536,7 +536,9 @@ size. -->
 
 <!ENTITY home_title "Startowa strona &brandShortName;">
 <!ENTITY home_history_title "Historija">
-<!ENTITY home_history_back_to "Wróćo k historiji">
+
+
+
 <!ENTITY home_clear_history_button "Přehladowansku historiju wuprózdnić">
 <!ENTITY home_clear_history_confirm "Chceće woprawdźe historiju wuprózdnić?">
 <!ENTITY home_bookmarks_empty "Zapołožki, kotrež składujeće, so tu pokazuja.">
