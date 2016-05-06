@@ -158,6 +158,8 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Þjöppuð sýn">
 <!ENTITY compactVersion.accesskey "Þ">
+<!ENTITY folderPaneBar.label "Möppu flipa tækjaslá">
+<!ENTITY folderModeSelector.label "Möppuyfirlit">
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Raða eftir">
 <!ENTITY sortMenu.accesskey "R">
@@ -347,6 +349,8 @@
 <!ENTITY editAsNewMsgCmd.label "Breyta sem nýjum pósti">
 <!ENTITY editAsNewMsgCmd.accesskey "e">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Breyta drögum">
+<!ENTITY editDraftMsgCmd.accesskey "d">
 <!ENTITY createFilter.label "Búa til síu út frá pósti…">
 <!ENTITY createFilter.accesskey "u">
 <!ENTITY moveMsgToMenu.label "Færa í">
@@ -685,6 +689,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Breyta sem nýjum pósti">
 <!ENTITY contextEditMsgAsNew.accesskey "e">
+<!ENTITY contextEditDraftMsg.label "Breyta drögum">
 <!ENTITY contextArchive.label "Skjalageymsla">
 <!ENTITY contextArchive.accesskey "j">
 <!ENTITY contextReplySender.label "Svara aðeins sendanda">
@@ -712,9 +717,15 @@
 <!ENTITY contextCopyMsgMenu.label "Afrita í">
 <!ENTITY contextCopyMsgMenu.accesskey "A">
 <!ENTITY contextKillThreadMenu.label "Hunsa umræðu">
+<!ENTITY contextKillSubthreadMenu.accesskey "æ">
 <!ENTITY contextKillThreadMenu.accesskey "H">
 <!ENTITY contextKillSubthreadMenu.label "Hunsa undirumræðu">
 <!ENTITY contextWatchThreadMenu.label "Fylgjast með umræðu">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Vista sem…">
 <!ENTITY contextSaveAs.accesskey "s">
 <!ENTITY contextPrint.label "Prenta…">

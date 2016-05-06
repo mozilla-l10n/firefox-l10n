@@ -14,8 +14,6 @@
 <!ENTITY importFromOExpress.accesskey "u">
 <!ENTITY importFromOutlook.label "Outlook">
 <!ENTITY importFromOutlook.accesskey "O">
-<!ENTITY importFromEudora.label "Eudora">
-<!ENTITY importFromEudora.accesskey "E">
 <!ENTITY importSource.title "Flytja inn stillingar og póstmöppur">
 <!ENTITY importItems.title "Hlutir til að flytja inn">
 <!ENTITY importItems.label "Veldu hvaða hluti þú vilt flytja inn:">
