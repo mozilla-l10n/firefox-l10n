@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Abonneren op deze pagina…">
 <!ENTITY addCurPagesCmd.label "Bladwijzer voor alle tabbladen maken…">
 <!ENTITY showAllBookmarks2.label "Alle bladwijzers tonen">
-<!ENTITY unsortedBookmarksCmd.label "Ongesorteerde bladwijzers">
+<!ENTITY recentBookmarks.label "Recent aangemaakte bladwijzers">
+<!ENTITY otherBookmarksCmd.label "Andere bladwijzers">
 <!ENTITY bookmarksToolbarChevron.tooltip "Meer bladwijzers tonen">
 
 <!ENTITY backCmd.label                "Terug">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Het app-offlineopslagbericht weergeven">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Uw aanmeldingsgegevens beheren">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Controleren of u uw wachtwoord wilt opslaan">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Het app-installatiebericht weergeven">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Plug-in-gebruik op deze pagina beheren">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Wijzigen of u notificaties van de website kunt ontvangen">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bladwijzers">
-<!ENTITY bookmarksMenuButton.unsorted.label "Ongesorteerde bladwijzers">
+<!ENTITY bookmarksMenuButton.other.label "Andere bladwijzers">
 <!ENTITY viewBookmarksSidebar2.label        "Bladwijzerzijbalk weergeven">
 <!ENTITY viewBookmarksToolbar.label         "Bladwijzerwerkbalk weergeven">
 
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Webontwikkelaar">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "v">
-
-<!ENTITY devtoolsConnect.label        "Verbinden…">
-<!ENTITY devtoolsConnect.accesskey    "V">
-
-<!ENTITY errorConsoleCmd.label        "Foutconsole">
-<!ENTITY errorConsoleCmd.accesskey    "F">
-
-<!ENTITY remoteWebConsoleCmd.label    "Externe webconsole">
-
-<!ENTITY browserConsoleCmd.label      "Browserconsole">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "c">
-
 <!ENTITY inspectContextMenu.label     "Element inspecteren">
 <!ENTITY inspectContextMenu.accesskey "E">
-
-<!ENTITY responsiveDesignTool.label   "Responsive Design-weergave">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Eyedropper">
-<!ENTITY eyedropper.accesskey "y">
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Kladblok">
-<!ENTITY scratchpad.accesskey         "K">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Browserwerkset">
-<!ENTITY browserToolboxMenu.accesskey "t">
-<!ENTITY browserToolboxCmd.commandkey "i">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Browserinhoudswerkset">
-<!ENTITY browserContentToolboxMenu.accesskey "u">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Ontwikkelaarswerkbalk sluiten">
-<!ENTITY devToolbarMenu.label              "Ontwikkelaarswerkbalk">
-<!ENTITY devToolbarMenu.accesskey          "O">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "e">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Hulpmiddelen in-/uitschakelen">
-<!ENTITY devToolboxMenuItem.accesskey      "H">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Ontwikkelaarshulpmiddelen in-/uitschakelen">
-<!ENTITY devToolbarOtherToolsButton.label  "Meer hulpmiddelen">	
-
-<!ENTITY getMoreDevtoolsCmd.label        "Meer hulpmiddelen verkrijgen">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "Bestand"> 
 <!ENTITY fileMenu.accesskey       "B">
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Menu Help openen">
 
 <!ENTITY appMenuRemoteTabs.label "Gesynchroniseerde tabbladen">
-<!ENTITY appMenuRemoteTabs.fetching.label "Gesynchroniseerde tabbladen ophalen…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Geen open tabbladen">
@@ -420,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Meld u aan bij Firefox vanaf uw andere apparaten om hun tabbladen hier weer te geven.">
+<!ENTITY appMenuRemoteTabs.noclients.title "Nog geen gesynchroniseerde tabbladen…">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Wilt u hier uw tabbladen van andere apparaten zien?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synchronisatievoorkeuren">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Meld u aan om een lijst van tabbladen van uw andere apparaten weer te geven.">
 <!ENTITY appMenuRemoteTabs.signin.label "Aanmelden bij Sync">
@@ -795,7 +724,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Gesynchroniseerde tabbladen">
 
 <!ENTITY syncedTabs.sidebar.label              "Gesynchroniseerde tabbladen">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Gesynchroniseerde tabbladen ophalen…">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Nog geen gesynchroniseerde tabbladen…">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Wilt u hier uw tabbladen van andere apparaten zien?">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Meld u aan bij Firefox vanaf uw andere apparaten om hun tabbladen hier weer te geven.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Meld u aan om een lijst van tabbladen van uw andere apparaten weer te geven.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Geen open tabbladen">
@@ -804,10 +734,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Zet tabbladsynchronisatie aan om een lijst van tabbladen van uw andere apparaten weer te geven.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Dit tabblad openen">
-<!ENTITY syncedTabs.context.openTab.accesskey               "o">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Bladwijzer voor dit tabblad maken…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
+<!ENTITY syncedTabs.context.open.label                       "Openen">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Openen in een nieuw tabblad">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Openen in een nieuw venster">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "v">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Openen in een nieuw privévenster">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "r">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bladwijzer voor dit tabblad maken…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "Kopiëren">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
