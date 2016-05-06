@@ -491,6 +491,8 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_history_title "Sejarah">
 
+
+
 <!ENTITY home_clear_history_button "Bersihkan sejarah pelayaran">
 <!ENTITY home_clear_history_confirm "Adakah anda pasti anda mahu memadam sejarah anda?">
 <!ENTITY home_bookmarks_empty "Penandabuku yang anda simpan dipaparkan di sini.">
