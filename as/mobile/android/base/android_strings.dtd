@@ -495,6 +495,8 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_history_title "ইতিহাস">
 
+
+
 <!ENTITY home_clear_history_button "ব্ৰাউছিং ইতিহাস আতৰাওক">
 <!ENTITY home_clear_history_confirm "আপুনি ইতিহাস আতৰাবলে নিশ্চিত নে?">
 <!ENTITY home_bookmarks_empty "আপুনি সংৰক্ষণ কৰা পত্ৰচিহ্নসমূহ ইয়াত দেখা যায়।">
