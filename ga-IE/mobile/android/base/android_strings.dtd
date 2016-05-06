@@ -536,7 +536,9 @@ size. -->
 
 <!ENTITY home_title "Baile &brandShortName;">
 <!ENTITY home_history_title "Stair">
-<!ENTITY home_history_back_to "Téigh siar chuig an stair ar fad">
+
+
+
 <!ENTITY home_clear_history_button "Glan do stair bhrabhsála">
 <!ENTITY home_clear_history_confirm "An bhfuil tú cinnte gur mhaith leat do stair bhrabhsála a ghlanadh?">
 <!ENTITY home_bookmarks_empty "Taispeánfar leabharmharcanna sábháilte anseo.">
