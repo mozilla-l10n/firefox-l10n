@@ -15,7 +15,7 @@
 <!ENTITY locationEditField.tooltip "Taper le nom de fichier et l’emplacement de l’image">
 <!ENTITY title.label "Infobulle :">
 <!ENTITY title.accessKey "I">
-<!ENTITY title.tooltip "L’attribut HTML 'title' qui apparaît dans une infobulle">
+<!ENTITY title.tooltip "L’attribut HTML « title » qui apparaît dans une infobulle">
 
 <!ENTITY altText.label "Texte de remplacement :">
 <!ENTITY altText.accessKey "T">
