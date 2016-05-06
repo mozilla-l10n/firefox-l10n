@@ -10,11 +10,11 @@
 <!ENTITY addressbook.accesskey "A">
 <!ENTITY viewingMessages.label "Visualización">
 <!ENTITY notifications.label "Notificaciones">
-<!ENTITY address.label "Direcciones">
 <!ENTITY composingMessages.label "Redacción">
 <!ENTITY format.label "Formato de envío">
-<!ENTITY return.label "Acuses de recibo">
+<!ENTITY address.label "Direcciones">
 <!ENTITY junk.label "Correo basura o sospechoso">
 <!ENTITY tags.label "Etiquetas">
+<!ENTITY return.label "Acuses de recibo">
 <!ENTITY characterEncoding2.label "Codificación de texto">
 <!ENTITY networkStorage.label "Red y almacenamiento">

@@ -19,7 +19,7 @@
 <!ENTITY replaceAllButton.label "Reemplazar todo">
 <!ENTITY replaceAllButton.accessKey "A">
 <!ENTITY stopButton.label "Detener">
-<!ENTITY stopButton.accessKey "o">
+<!ENTITY stopButton.accessKey "D">
 <!ENTITY userDictionary.label "Diccionario personal:">
 <!ENTITY moreDictionaries.label "Descargar más diccionarios…">
 <!ENTITY addToUserDictionaryButton.label "Añadir palabra">
