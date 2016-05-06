@@ -483,6 +483,8 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 
+
+
 <!ENTITY home_clear_history_button "Momtu aslol peeraagol">
 <!ENTITY home_clear_history_confirm "Aɗa yenanaa yiɗde momtude aslol maa?">
 <!ENTITY home_bookmarks_empty "Maantore ndanndu-ɗaa njaltata ɗoo.">
