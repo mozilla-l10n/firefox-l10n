@@ -106,6 +106,7 @@
 
 
 <!-- Decks -->
+
 <!ENTITY deck_close "Cerrar">
 
 <!-- Addons -->
@@ -179,10 +180,21 @@
 <!ENTITY monitor_help "Ayuda">
 
 <!-- WiFi Authentication -->
+<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
+     that instructs the user to transfer an authentication token to the
+     server. -->
 <!ENTITY wifi_auth_header "Identificación del cliente">
+<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
+     user to transfer authentication info by scanning a QR code. -->
 <!ENTITY wifi_auth_scan_request "La contraparte a la que se está conectando necesita más información para autentificar esta conexión. Por favor, escanee el código QR a continuación mediante la solicitud que aparece en su otro dispositivo.">
+<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
+     devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "¿No hay solicitud de escaneo de QR?">
+<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
+     devices that can scan a QR code. -->
 <!ENTITY wifi_auth_yes_scanner "¿Tiene una solicitud de escaneo de QR?">
+<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
+     user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Si su dispositivo pide un token en lugar de escanear un código QR, por favor copie el valor a continuación en el otro dispositivo:">
 <!ENTITY wifi_auth_qr_size_note "Si el código QR es muy pequeño como para que la conexión se establezca exitosamente, intente hacer un acercamiento o agrandar la ventana.">
 

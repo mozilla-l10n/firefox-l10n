@@ -5,7 +5,6 @@
 <!ENTITY colorsDialog.title "Colores">
 <!ENTITY window.width "45em">
 <!ENTITY window.macWidth "49em">
-
 <!ENTITY  overridePageColors.label        "Reemplazar los colores especificados por la página con mi selección anterior:">
 <!ENTITY  overridePageColors.accesskey    "O">
 <!ENTITY  overridePageColors.always.label "Siempre">
