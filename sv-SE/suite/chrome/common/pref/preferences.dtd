@@ -16,7 +16,6 @@
 <!ENTITY locationBar.label "Adressfält">
 <!ENTITY tabWindows.label "Flikar">
 <!ENTITY links.label "Länkar">
-<!ENTITY offline.label "Nedkopplat läge">
 <!ENTITY security.label "Integritet och säkerhet">
 <!ENTITY privatedata.label "Personliga data">
 <!ENTITY cookies.label "Kakor">
@@ -28,7 +27,6 @@
 <!ENTITY certs.label "Certifikat">
 <!ENTITY sync.label "Synkronisering">
 <!ENTITY advance.label "Avancerat">
-<!ENTITY down.label "Hämta">
 <!ENTITY cache.label "Cache">
 <!ENTITY offlineApps.label "Appar för nedkopplat läge">
 <!ENTITY proxies.label "Proxy">
@@ -38,7 +36,6 @@
 <!ENTITY keynav.label "Tangentnavigering">
 <!ENTITY findAsYouType.label "Sök medan du skriver">
 <!ENTITY search.label "Sökning på Internet">
-<!ENTITY policies.label "Säkerhetsscheman">
 <!ENTITY mousewheel.label "Mushjul">
 <!ENTITY scriptsAndWindows.label "Skript/Insticksmoduler">
 <!ENTITY spellingPane.label  "Stavningskontroll">

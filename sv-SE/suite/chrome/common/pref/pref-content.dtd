@@ -6,18 +6,30 @@
 
 <!ENTITY pref.content.title                     "Innehåll">
 <!ENTITY pref.content.description               "Dessa inställningar påverkar hur webbplats- och meddelandeinnehåll visas i &brandShortName;.">
+
 <!ENTITY siteIcons.label                        "Webbplatsikoner">
 <!ENTITY useSiteIcons.label                     "Visa webbplatsikoner">
 <!ENTITY useSiteIcons.accesskey                 "i">
 <!ENTITY useFavIcons.label                      "Leta aktivt efter webbplatsikoner när sidan inte anger någon">
 <!ENTITY useFavIcons.accesskey                  "L">
-<!ENTITY enableAutomaticImageResizing.label     "Förminska stora bilder så att de ryms i webbfönstret">
-<!ENTITY enableAutomaticImageResizing.accesskey "F">
+
 <!ENTITY scrolling.label                        "Rullning">
 <!ENTITY useAutoScroll.label                    "Använd automatisk rullning">
 <!ENTITY useAutoScroll.accesskey                "t">
 <!ENTITY useSmoothScroll.label                  "Använd mjuk rullning">
 <!ENTITY useSmoothScroll.accesskey              "n">
+
+<!ENTITY zoomPrefs.label                        "Zoominställningar">
+<!-- LOCALIZATION NOTE (minZoom.label, maxZoom.label, percent.label):
+     single hbox with minZoom.label preceding the minZoom control and
+     maxZoom.label preceding the maxZoom control; percent.label shows
+     the ASCII '%' character at the end of that string -->
+<!ENTITY minZoom.label                          "Spännvidd från">
+<!ENTITY minZoom.accesskey                      "f">
+<!ENTITY maxZoom.label                          "till">
+<!ENTITY maxZoom.accesskey                      "i">
+<!ENTITY percent.label                          "&#37;">
+
 <!ENTITY allowHWAccel.label                     "Använd hårdvaruacceleration när det är tillgängligt">
 <!ENTITY allowHWAccel.accesskey                 "h">
 <!ENTITY textZoomOnly.label                     "Zooma bara text i stället för hela sidor">
@@ -27,3 +39,5 @@
 <!ENTITY siteSpecific.label                     "Kom ihåg vald zoomnivå för varje webbplats separat">
 <!ENTITY siteSpecific.accesskey                 "m">
 
+<!ENTITY enableAutomaticImageResizing.label     "Förminska stora bilder så att de ryms i webbfönstret">
+<!ENTITY enableAutomaticImageResizing.accesskey "F">

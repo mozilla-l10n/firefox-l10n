@@ -17,7 +17,6 @@
 
 <!ENTITY     search.placeholder             "Sök kakor">
 <!ENTITY     focusSearch.key                "f">
-<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Namn:">
@@ -28,10 +27,9 @@
 <!ENTITY     props.expires.label            "Förfaller:">
 
 <!ENTITY     treehead.sitename.label        "Webbplats">
+<!ENTITY     treehead.scheme.label          "Struktur">
 <!ENTITY     treehead.status.label          "Status">
 <!ENTITY     windowtitle.label              "Kakhanteraren">
-<!ENTITY     buttonaccept.label             "Stäng">
-<!ENTITY     buttonaccept.accesskey         "S">
 
 <!ENTITY     blockSite.label                "Blockera">
 <!ENTITY     blockSite.accesskey            "B">
