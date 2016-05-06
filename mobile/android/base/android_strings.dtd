@@ -524,6 +524,8 @@ size. -->
 <!ENTITY home_title "&brandShortName; heim">
 <!ENTITY home_history_title "Ferill">
 
+
+
 <!ENTITY home_clear_history_button "Hreinsa feril">
 <!ENTITY home_clear_history_confirm "Ertu viss að þú viljir hreinsa ferilinn þinn?">
 <!ENTITY home_bookmarks_empty "Bókarmerki sem þú hefur vistað sjást hér.">
