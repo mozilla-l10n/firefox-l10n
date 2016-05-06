@@ -533,7 +533,9 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; Ana Sayfası">
 <!ENTITY home_history_title "Geçmiş">
-<!ENTITY home_history_back_to "Tüm geçmişe geri dön">
+
+
+
 <!ENTITY home_clear_history_button "Tarama geçmişini temizle">
 <!ENTITY home_clear_history_confirm "Geçmişi temizlemek istediğinizden emin misiniz?">
 <!ENTITY home_bookmarks_empty "Kaydettiğiniz yer imleri burada görünür.">
