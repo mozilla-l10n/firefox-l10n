@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Loka á hættulegt og svindl efni">
+<!ENTITY  enableSafeBrowsing.accesskey    "L">
 
+<!ENTITY  blockDownloads.label            "Loka á hættuleg niðurhöl">
+<!ENTITY  blockDownloads.accesskey        "ö">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Vara mig við óvelkomnum og óþekktum hugbúnaði">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Undanþágur…">
 <!ENTITY  addonExceptions.accesskey     "U">
