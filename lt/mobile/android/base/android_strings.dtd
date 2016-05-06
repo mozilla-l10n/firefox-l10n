@@ -524,6 +524,8 @@ size. -->
 <!ENTITY home_title "„&brandShortName;“ pradžios tinklalapis">
 <!ENTITY home_history_title "Žurnalas">
 
+
+
 <!ENTITY home_clear_history_button "Valyti naršymo žurnalą">
 <!ENTITY home_clear_history_confirm "Ar tikrai norite išvalyti naršymo žurnalą?">
 <!ENTITY home_bookmarks_empty "Čia išvardijami į adresyną įtraukti tinklalapiai.">
