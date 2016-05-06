@@ -11,7 +11,7 @@
 <!ENTITY ViewContact.accesskey             "V">
 <!ENTITY SendMailTo.label                  "Criar mensagem para…">
 <!ENTITY SendMailTo.accesskey              "s">
-<!ENTITY CopyEmailAddress.label            "Copiar endereço de e-mail">
+<!ENTITY CopyEmailAddress.label            "Copiar endereço de email">
 <!ENTITY CopyEmailAddress.accesskey        "C">
 <!ENTITY CreateFilterFrom.label            "Criar filtro de...">
 <!ENTITY CreateFilterFrom.accesskey        "f">
