@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "Fails nav atrasts">
 <!ENTITY fileNotFound.longDesc "<ul><li>Vai jūsu meklējamā lieta varētu būt pārsaukta, aizvākta vai pārvietota?</li><li>Vai adresē ir kāda drukas, burtu lieluma vai kāda cita tipa kļūda?</li><li>Vai jums ir pietiekamas pieejas tiesības, lai piekļūtu šai lietai?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "Pieeja failam tika liegta">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Tas varētu būt aizvākts, pārvietots vai arī faila piekļuves tiesības liedz piekļuvi tam.</li> </ul>">
 
 <!ENTITY generic.title "Nevar pabeigt pieprasījumu">
 <!ENTITY generic.longDesc "<p>Papildu informācija par notikušo problēmu šobrīd nav pieejama.</p>">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "Attālināts XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lūdzu sazinieties ar mājas lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Savienojums nav drošs">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> izmanto novecojušu un nedrošu drošības tehnoloģiju. Uzbrucējs varētu piekļūt informācijai, kuru uzskatījāt par droši aizsargātu. Lapas administratoram vajadzēs salabot serveri, pirms varēsiet apmeklē lapu.</p><p>Kļūdas kods: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
