@@ -524,6 +524,8 @@ size. -->
 <!ENTITY home_title "&brandShortName; گھر">
 <!ENTITY home_history_title "سابقات">
 
+
+
 <!ENTITY home_clear_history_button "براؤزنگ سابقات خالی کریں">
 <!ENTITY home_clear_history_confirm "کیا آپ کو یقین ہے کہ آپ اپنے سابقات صاف کرنا چاہتے ہیں؟">
 <!ENTITY home_bookmarks_empty "نشانیاں جو آپ محفوظ کرتے ہیں وہ یہاں دکھائی دیتی ہیں۔">
