@@ -536,7 +536,9 @@ size. -->
 
 <!ENTITY home_title "خانه &brandShortName;">
 <!ENTITY home_history_title "تاریخچه">
-<!ENTITY home_history_back_to "بازگشت به تمام تاریخچه‌ها">
+
+
+
 <!ENTITY home_clear_history_button "پاک کردن تاریخچه مرور">
 <!ENTITY home_clear_history_confirm "آیا مطمئن هستید می‌خواهید تاریخچه مرور خود را پاک کنید؟">
 <!ENTITY home_bookmarks_empty "نشانک‌هایی که ذخیره می‌کنید، در اینجا نمایش داده می‌شوند.">
