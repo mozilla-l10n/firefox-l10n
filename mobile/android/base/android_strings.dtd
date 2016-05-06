@@ -534,6 +534,8 @@ size. -->
 <!ENTITY home_title "‍&brandShortName; ಮುಖಪುಟ">
 <!ENTITY home_history_title "ಇತಿಹಾಸ">
 
+
+
 <!ENTITY home_clear_history_button "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ">
 <!ENTITY home_clear_history_confirm "ನೀವು ಇತಿಹಾಸವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲು ಬಯಸಿದ್ದು ಖಚಿತವೆ?">
 <!ENTITY home_bookmarks_empty "ನೀವು ಉಳಿಸುವ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.">
