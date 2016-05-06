@@ -67,7 +67,7 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Voer de code in die het apparaat geeft:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probeer het opnieuw.">
 <!ENTITY addDevice.dialog.successful.label  "Het apparaat is met succes toegevoegd. De eerste synchronisatie kan meerdere minuten duren en zal op de achtergrond worden voltooid.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "Om uw apparaat te activeren dient u uw herstelsleutel in te voeren. Druk deze sleutel af of sla hem op, en neem hem met u mee.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Om uw apparaat te activeren, dient u uw herstelsleutel in te voeren. Druk deze sleutel af of sla hem op, en neem hem met u mee.">
 <!ENTITY addDevice.dialog.connected.label   "Apparaat verbonden">
 
 <!-- Existing Account Page 2: Manual Login -->
