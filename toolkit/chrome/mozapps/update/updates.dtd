@@ -32,7 +32,7 @@
 <!ENTITY  unsupportedLink.label           "meer lezen.">
 
 <!ENTITY  incompatibleCheck.title         "Add-on-compatibiliteit controleren">
-<!ENTITY  incompatibleCheck.label         "Bezig met controleren op nieuwere versies van uw add-ons…">
+<!ENTITY  incompatibleCheck.label         "Zoeken naar nieuwere versies van uw add-ons…">
 
 <!ENTITY  clickHere.label                 "Meer informatie over deze update bekijken">
 
