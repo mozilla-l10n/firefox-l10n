@@ -4,7 +4,7 @@
 
 <!ENTITY GeneratedName.label                   "Nome">
 <!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "E-mail">
+<!ENTITY PrimaryEmail.label                    "Email">
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Empresa">
 <!ENTITY Company.accesskey                     "m">
@@ -12,7 +12,7 @@
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Alcunha">
 <!ENTITY NickName.accesskey                    "A">
-<!ENTITY SecondEmail.label                     "E-mail alternativo">
+<!ENTITY SecondEmail.label                     "Email adicional">
 <!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Departamento">
 <!ENTITY Department.accesskey                  "r">
@@ -36,10 +36,10 @@
 <!ENTITY sortDescending.accesskey              "r">
 <!-- context menu -->
 
-<!ENTITY composeEmail.label                    "Criar nova mensagem para">
+<!ENTITY composeEmail.label                    "Criar novo email para">
 <!ENTITY composeEmail.accesskey                "C">
-<!ENTITY copyAddress.label                     "Copiar endereço de e-mail">
-<!ENTITY copyAddress.accesskey                 "o">
+<!ENTITY copyAddress.label                     "Copiar endereço de email">
+<!ENTITY copyAddress.accesskey                 "a">
 <!ENTITY deleteAddrBookCard.label              "Apagar">
 <!ENTITY deleteAddrBookCard.accesskey          "A">
 <!ENTITY newAddrBookCard.label                 "Novo cartão…">
