@@ -18,7 +18,7 @@
 <!ENTITY  blockDownloads.accesskey        "G">
 
 <!ENTITY  blockUncommonUnwanted.label     "Mij waarschuwen voor ongewenste en ongebruikelijke software">
-<!ENTITY  blockUncommonUnwanted.accesskey "s>
+<!ENTITY  blockUncommonUnwanted.accesskey "s">
 
 <!ENTITY  addonExceptions.label         "Uitzonderingen…">
 <!ENTITY  addonExceptions.accesskey     "U">
