@@ -506,6 +506,8 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_history_title "ប្រវត្តិ">
 
+
+
 <!ENTITY home_clear_history_button "សម្អាត​ប្រវត្តិ​រុករក">
 <!ENTITY home_clear_history_confirm "តើ​អ្នក​ពិតជា​ចង់​សម្អាត​ប្រវត្តិ​របស់​អ្នក​មែនឬ?">
 <!ENTITY home_bookmarks_empty "ចំណាំ​ដែល​អ្នក​បាន​រក្សាទុក​គឺ​បង្ហាញ​នៅ​ទីនេះ។">
