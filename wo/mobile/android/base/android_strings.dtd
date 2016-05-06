@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  no_space_to_start_error "Xel mi doyul ngir man a tàmbali &brandShortName;.">
-<!ENTITY  error_loading_file "Am na ag njumte ci jéemug yeb dencukaay yiy doxal &brandShortName;">
-
 <!ENTITY firstrun_panel_title_welcome "Dalal-jàmm">
 <!ENTITY  onboard_start_message3 "Joow ak &brandShortName;">
 
@@ -24,6 +20,7 @@
 <!ENTITY firstrun_button_next "Toftal">
 
 <!ENTITY  onboard_start_restricted1 "Nekkal ci kaaraange ak bii sumb buñ yombal bu &brandShortName;.">
+
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -46,12 +43,6 @@
 <!ENTITY  sending_crash_report "Yónnee raapooru ngiroo\u2026">
 <!ENTITY  crash_close_label "Tëj">
 <!ENTITY  crash_restart_label "Tàmbaliwaat &brandShortName;">
-<!ENTITY  exit_label "Génn">
-
-<!ENTITY  launcher_shortcuts_title "paraameetar &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "Amul benn jëfekaayu web bu ñu gis">
-
-<!ENTITY choose_file "Tànn benn dencukaay">
 
 <!ENTITY url_bar_default_text2 "Search or enter address">
 
@@ -63,11 +54,17 @@
 <!ENTITY bookmark_removed "Mandarga xët wu màbb">
 <!ENTITY bookmark_updated "Mandarga xët bu ñu yeesal">
 <!ENTITY bookmark_options "Options">
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
 
 <!ENTITY history_today_section "Tey">
 <!ENTITY history_yesterday_section "Démb">
 
-<!ENTITY go "Demal">
 <!ENTITY search "Wut">
 <!ENTITY reload "Yeesal">
 <!ENTITY forward "Xët wi ci topp">
@@ -119,9 +116,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Bookmark">
-<!ENTITY overlay_share_reading_list_btn_label "Add to Reading List">
 <!ENTITY overlay_share_bookmark_btn_label_already "Already bookmarked">
-<!ENTITY overlay_share_reading_list_btn_label_already "Already in Reading List">
 <!ENTITY overlay_share_send_other "Send to other devices">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -136,7 +131,6 @@
      are found. -->
 
 <!ENTITY pref_category_search3 "Search">
-<!ENTITY pref_category_search_summary "Customize your search providers">
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_datareporting "Data choices">
 <!ENTITY pref_learn_more "Learn more">
@@ -150,25 +144,13 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "TIP: Add any website to your list of search providers by long-pressing on its search field and then tapping the &formatI; icon.">
 <!ENTITY pref_category_advanced "Advanced">
-<!ENTITY pref_developer_remotedebugging "Remote debugging">
 
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_summary "Customize your homepage">
 <!ENTITY pref_category_home_panels "Panels">
-<!ENTITY home_add_panel_title "Add new panel">
-<!ENTITY home_add_panel_empty "Sorry, we couldn\&apos;t find any panels for you to add.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\&apos;&formatS;\&apos; added to homepage">
-<!ENTITY pref_category_home_content_settings "Content settings">
-<!ENTITY pref_home_updates "Automatic updates">
 <!ENTITY pref_home_updates_enabled "Enabled">
 <!ENTITY pref_home_updates_wifi "Only over Wi-Fi">
-<!ENTITY pref_home_suggested_sites "Show site suggestions">
-<!ENTITY pref_home_suggested_sites_summary "Display shortcuts to sites on your homepage that we think you might find interesting">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -193,9 +175,10 @@
 
 
 
-<!ENTITY pref_tracking_protection_title "Tracking protection">
+
 <!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; will tell sites that you do not want to be tracked">
+
 
 
 
@@ -213,6 +196,14 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+
 <!ENTITY pref_char_encoding "Suulale araf yi">
 <!ENTITY pref_char_encoding_on "Wone njël li">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
@@ -221,7 +212,6 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Select which data to clear">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Suqali">
-<!ENTITY pref_plugins_tap_to_play "Laal mu tàkk">
 <!ENTITY pref_plugins_disabled "Suuxal">
 <!ENTITY pref_text_size "Dayo mbind mi">
 <!ENTITY pref_restore_always "Always restore">
@@ -255,7 +245,6 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles2 "Downloads">
 
-
 <!ENTITY pref_about_firefox "Tàmbaliwaat &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Give feedback">
@@ -273,10 +262,12 @@ size. -->
 <!ENTITY pref_panels_move_down "Move down">
 
 <!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-<!ENTITY datareporting_notification_action_long "Choose what information to share">
 <!ENTITY datareporting_notification_action "Choose what to share">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Choose what information to share">
 <!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "To improve your experience, &brandShortName;…">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -380,18 +371,6 @@ size. -->
 <!ENTITY site_settings_cancel       "Neenal">
 <!ENTITY site_settings_clear        "Far">
 
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_duplicate "Page already in your Reading List">
-
-<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
-     panel on the home page to give the user an estimate of how many minutes it will take to
-     read an article. The word "minute" should be abbreviated if possible. -->
-<!ENTITY reading_list_time_minutes2 "&formatD; min">
-<!ENTITY reading_list_time_over_an_hour "Over an hour">
-
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 <!ENTITY page_action_dropmarker_description "Additional Actions">
@@ -429,7 +408,6 @@ size. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: using a &formatS1;New Private Tab&formatS2; won\&apos;t save your history.">
-<!ENTITY home_reading_list_empty "Articles you save for later show up here.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -438,16 +416,6 @@ size. -->
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
-<!ENTITY home_remote_tabs_title "Synced Tabs">
-<!ENTITY home_remote_tabs_empty "Your tabs from other devices show up here.">
-<!ENTITY home_remote_tabs_unable_to_connect "Unable to connect">
-<!ENTITY home_remote_tabs_need_to_sign_in "Please sign in to reconnect your Firefox Account and continue syncing.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Your new Firefox Account is ready!">
-
-<!ENTITY home_remote_tabs_trouble_verifying "Trouble verifying your account?">
-<!ENTITY home_remote_tabs_need_to_verify "Please verify your Firefox Account to start syncing.">
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 device hidden">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -493,7 +461,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY learn_more "Learn More">
 <!ENTITY enable_protection "Enable protection">
 <!ENTITY disable_protection "Disable protection">
-<!ENTITY keep_blocking "Keep blocking">
 
 <!ENTITY private_data_success "Rootaan biir yi far">
 <!ENTITY private_data_fail "Am ay rootaani biir yu kenn mënul far">
@@ -619,3 +586,5 @@ dale ko ci Android">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+
