@@ -487,6 +487,8 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 
+
+
 <!ENTITY home_clear_history_button "ବ୍ରାଉଜିଙ୍ଗ ଇତିହାସ ସଫାକରନ୍ତୁ">
 <!ENTITY home_clear_history_confirm "ନିଜର ଇତିହାସ ସଫାକରିବା ବାବଦରେ ଆପଣ ନିଶ୍ଚିତ କି?">
 <!ENTITY home_bookmarks_empty "ଆପଣ ସାଇତିଥିବା ପୃଷ୍ଠାସଂକେତମାନ ଏଠାରେ ଦେଖାଯିବ ।">
