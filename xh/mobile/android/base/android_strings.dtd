@@ -536,7 +536,9 @@ size. -->
 
 <!ENTITY home_title "I-&brandShortName; Ekhaya">
 <!ENTITY home_history_title "Imbali">
-<!ENTITY home_history_back_to "Buyela umva kuyo yonke imbali">
+
+
+
 <!ENTITY home_clear_history_button "Susa imbali yokubhrawuza">
 <!ENTITY home_clear_history_confirm "Uqinisekile ukuba ufuna ukususa imbali yakho?">
 <!ENTITY home_bookmarks_empty "Ibhukhmakhi ozigcinileyo zibonakala apha.">
