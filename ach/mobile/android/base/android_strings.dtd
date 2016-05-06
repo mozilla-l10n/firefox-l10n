@@ -515,6 +515,8 @@ size. -->
 <!ENTITY home_title "&brandShortName; Gang">
 <!ENTITY home_history_title "Gin mukato">
 
+
+
 <!ENTITY home_clear_history_button "Jwa yeny mukato">
 <!ENTITY home_clear_history_confirm "Imoko ada ni imito jwayo gin mukato ni?">
 <!ENTITY home_bookmarks_empty "Alamabuk ma i gwoko nyute kany.">
