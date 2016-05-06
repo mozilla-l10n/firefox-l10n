@@ -480,6 +480,8 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_history_title "इतिहास">
 
+
+
 <!ENTITY home_clear_history_button "ब्राउजिङ इतिहास खाली गर्नुहोस्">
 
 
