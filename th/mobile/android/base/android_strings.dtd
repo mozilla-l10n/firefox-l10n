@@ -534,7 +534,9 @@ size. -->
 
 <!ENTITY home_title "หน้าแรก &brandShortName;">
 <!ENTITY home_history_title "ประวัติ">
-<!ENTITY home_history_back_to "ย้อนกลับไปยังประวัติทั้งหมด">
+
+
+
 <!ENTITY home_clear_history_button "ล้างประวัติการท่องเว็บ">
 <!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าต้องการล้างประวัติของคุณ?">
 <!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่คุณบันทึกไว้จะแสดงที่นี่">
