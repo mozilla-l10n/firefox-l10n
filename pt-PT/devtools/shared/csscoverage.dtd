@@ -14,7 +14,7 @@
 
 
 
-<!ENTITY csscoverage.backButton "Retroceder">
+<!ENTITY csscoverage.backButton "Anterior">
 <!-- LOCALIZATION NOTE (csscoverage.unused, csscoverage.noMatches):
   -  This is the heading and body text for the CSS usage part of the report -->
 

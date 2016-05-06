@@ -73,8 +73,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY backCmd.label "Retroceder">
-<!ENTITY backCmd.accesskey "R">
+<!ENTITY backCmd.label "Anterior">
+<!ENTITY backCmd.accesskey "A">
 <!ENTITY forwardCmd.label "Avançar">
 <!ENTITY forwardCmd.accesskey "A">
 <!ENTITY goBackCmd.commandKey "[">
@@ -82,5 +82,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY copyLinkCmd.label "Copiar localização da ligação">
 <!ENTITY copyLinkCmd.accesskey "l">
-<!ENTITY copyEmailCmd.label "Copiar endereço de email">
+<!ENTITY copyEmailCmd.label "Copiar endereço de e-mail">
 <!ENTITY copyEmailCmd.accesskey "e">
