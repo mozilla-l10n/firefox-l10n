@@ -68,17 +68,17 @@
 <!ENTITY  securityView.unknown   "Desconhecido">
 
 
-<!ENTITY  securityView.identity.header   "Identidade do website">
+<!ENTITY  securityView.identity.header   "Identidade do site">
 <!ENTITY  securityView.identity.owner    "Proprietário:">
-<!ENTITY  securityView.identity.domain   "Website:">
+<!ENTITY  securityView.identity.domain   "Site:">
 <!ENTITY  securityView.identity.verifier "Verificado por:">
 
 <!ENTITY  securityView.privacy.header                   "Privacidade e histórico">
-<!ENTITY  securityView.privacy.history                  "Já visitei este website antes de hoje?">
-<!ENTITY  securityView.privacy.cookies                  "Este website está a guardar informação (cookies) no meu computador?">
+<!ENTITY  securityView.privacy.history                  "Já visitei este site no passado?">
+<!ENTITY  securityView.privacy.cookies                  "Este site está a guardar informação (cookies) no meu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Ver cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Guardei alguma palavra-passe para este website?">
+<!ENTITY  securityView.privacy.passwords                "Guardei alguma palavra-passe para este site?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ver palavras-passe guardadas">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "s">
 
