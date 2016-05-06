@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Labels'>
 <!ENTITY bookmarks.folder.toolbar.label 'Bladwijzerwerkbalk'>
-<!ENTITY bookmarks.folder.unfiled.label 'Ongesorteerde bladwijzers'>
+<!ENTITY bookmarks.folder.other.label 'Andere bladwijzers'>
 <!ENTITY bookmarks.folder.desktop.label 'Desktop-bladwijzers'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobiel-bladwijzers'>
-<!ENTITY bookmarks.folder.readinglist.label 'Leeslijst'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Vastgemaakt'>
 
-<!-- Send tab to device. -->
-<!ENTITY sync.title.redirect.to.set.up.sync.label '&syncBrand.shortName.label; instellen om tabbladen te verzenden'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Stel &syncBrand.fullName.label; in op uw apparaat om tabbladen naar andere apparaten te verzenden.'>
-<!ENTITY sync.text.tab.sent.label 'Uw tabblad is verzonden!'>
-<!ENTITY sync.text.tab.not.sent.label 'Er is een probleem opgetreden bij het verzenden van uw tabblad.'>
-
 <!-- Firefox Account strings. -->
-
-<!ENTITY fxaccount_full_label 'Firefox-accounts'>
-
-<!ENTITY fxaccount_custom_server_account_title 'Account op server gebruiken'>
-<!ENTITY fxaccount_custom_server_sync_title 'Sync-gegevens op server opslaan'>
-
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-<!ENTITY fxaccount_email_hint 'E-mail'>
-<!ENTITY fxaccount_password_hint 'Wachtwoord'>
-<!ENTITY fxaccount_password_hide 'Verbergen'>
-<!ENTITY fxaccount_password_show 'Tonen'>
 
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Terug naar navigeren'>
 
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
-<!ENTITY fxaccount_policy_linktos 'Servicevoorwaarden (en)'>
-<!ENTITY fxaccount_policy_linkprivacy 'Privacyverklaring (en)'>
-
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Welkom bij &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'Meld u aan om uw tabbladen, bladwijzers, aanmeldingen en meer te synchroniseren.'>
 <!ENTITY fxaccount_getting_started_get_started 'Beginnen'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Gebruikt u een oudere versie van &syncBrand.shortName.label;?'>
 
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header2 'Firefox-account aanmaken'>
-<!ENTITY fxaccount_create_account_password_length_restriction 'Moet minstens 8 tekens zijn'>
-<!ENTITY fxaccount_create_account_day_of_birth 'Dag'>
-<!ENTITY fxaccount_create_account_month_of_birth 'Maand'>
-<!ENTITY fxaccount_create_account_year_of_birth 'Geboortejaar'>
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 'Door verder te gaan accepteer ik de &formatS1; en &formatS2; van de Firefox-cloudservices.'>
-<!ENTITY fxaccount_create_account_button 'Volgende'>
-<!ENTITY fxaccount_create_account_choose_what_to_sync 'Kies wat te synchroniseren'>
-<!ENTITY fxaccount_create_account_sign_in_instead 'Al een account? Aanmelden'>
-<!ENTITY fxaccount_create_account_1990_or_earlier '1990 of eerder'>
-<!ENTITY fxaccount_create_account_unknown_error 'Kan geen account aanmaken'>
-
-<!ENTITY fxaccount_account_create_not_allowed 'Kan geen account aanmaken'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'U moet aan bepaalde leeftijdsvoorwaarden voldoen om een account aan te maken.'>
-<!ENTITY fxaccount_account_create_not_allowed_learn_more 'Meer info'>
-
-<!ENTITY fxaccount_confirm_account_header 'Bevestig uw account'>
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link 'Er is een verificatiekoppeling verzonden naar &formatS;'>
-<!ENTITY fxaccount_confirm_account_resend_email 'E-mail opnieuw verzenden'>
-<!ENTITY fxaccount_confirm_account_change_email 'Dit e-mailadres vergeten?'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Verificatie-e-mail verzonden'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Kan geen verificatie-e-mail verzenden'>
-<!ENTITY fxaccount_resend_unlock_code_button_label 'Ontgrendel-e-mail opnieuw verzenden'>
-<!ENTITY fxaccount_unlock_code_sent 'Ontgrendel-e-mail verzonden'>
-<!ENTITY fxaccount_unlock_code_not_sent 'Kan geen ontgrendel-e-mail verzenden'>
-
-<!ENTITY fxaccount_sign_in_sub_header 'Aanmelden'>
-<!ENTITY fxaccount_sign_in_button_label 'Aanmelden'>
-<!ENTITY fxaccount_sign_in_forgot_password 'Wachtwoord vergeten?'>
-<!ENTITY fxaccount_sign_in_create_account_instead 'Account aanmaken'>
-<!ENTITY fxaccount_sign_in_unknown_error 'Kan niet aanmelden'>
-
-<!ENTITY fxaccount_account_verified_sub_header 'Account geverifieerd'>
-<!ENTITY fxaccount_account_verified_description2 'Het synchroniseren van uw gegevens zal over enkele ogenblikken beginnen.'>
-
-<!ENTITY fxaccount_migration_finished_header 'Upgrade voltooid'>
-
-<!ENTITY fxaccount_update_credentials_header 'Aanmelden'>
-<!ENTITY fxaccount_update_credentials_button_label 'Aanmelden'>
-<!ENTITY fxaccount_update_credentials_unknown_error 'Kan niet aanmelden'>
-
-<!ENTITY fxaccount_finish_migrating_header 'Meld u aan om het upgraden te voltooien'>
-<!ENTITY fxaccount_finish_migrating_button_label 'Upgraden voltooien'>
-<!ENTITY fxaccount_finish_migrating_description 'Upgraden kan heel veel gegevens overbrengen. U kunt het beste met een wifi-netwerk verbonden zijn.'>
-
-<!ENTITY fxaccount_status_header2 'Firefox-account'>
 <!ENTITY fxaccount_status_signed_in_as 'Aangemeld als'>
 <!ENTITY fxaccount_status_manage_account 'Account beheren'>
 <!ENTITY fxaccount_status_auth_server 'Accountserver'>
@@ -154,8 +75,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos 'Servicevoorwaarden (en)'>
-<!ENTITY fxaccount_status_linkprivacy 'Privacyverklaring (en)'>
+<!ENTITY fxaccount_status_linktos2 'Servicevoorwaarden (en)'>
+<!ENTITY fxaccount_status_linkprivacy2 'Privacyverklaring (en)'>
 <!ENTITY fxaccount_status_more 'Meer&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Verbreken&ellipsis;'>
 
@@ -192,7 +113,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server is bezet, probeer het later opnieuw'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server is bezet, probeer het later opnieuw'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Er was een probleem'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Kan niet verbinden met netwerk'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Account is vergrendeld. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is niet verbonden'>
@@ -204,8 +124,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tik om u aan te melden als &formatS;'>
-
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-<!ENTITY old_sync_deprecated_notification_title 'Meld u aan om verder te synchroniseren'>
-<!ENTITY old_sync_deprecated_notification_content 'Uw account wordt niet meer ondersteund'>
