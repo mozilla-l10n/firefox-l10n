@@ -536,7 +536,6 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Aniciu de &brandShortName;">
 <!ENTITY home_history_title "Historia">
-<!ENTITY home_history_back_to "Volver a tola historia">
 <!ENTITY home_clear_history_button "Llimpiar historia de restolar">
 <!ENTITY home_clear_history_confirm "¿De xuru que quies llimpiar la to historia?">
 <!ENTITY home_bookmarks_empty "Equí amosaránse los tos marcadores.">
