@@ -505,6 +505,8 @@ size. -->
 <!ENTITY home_title "&brandShortName; ముంగిలి">
 <!ENTITY home_history_title "చరిత్ర">
 
+
+
 <!ENTITY home_clear_history_button "విహరణ చరిత్రను తుడిచేయి">
 <!ENTITY home_clear_history_confirm "మీరు నిశ్చయంగా మీ చరిత్రను తుడిచేయాలని అనుకొంటున్నారా?">
 <!ENTITY home_bookmarks_empty "మీరు భద్రపరుచుకున్న ఇష్టాంశాలు ఇక్కడ ఉంటాయి.">
