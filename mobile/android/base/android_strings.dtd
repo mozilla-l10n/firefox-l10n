@@ -536,7 +536,9 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; үй парағы">
 <!ENTITY home_history_title "Тарихы">
-<!ENTITY home_history_back_to "Бүкіл тарихқа оралу">
+
+
+
 <!ENTITY home_clear_history_button "Шолу тарихын тазарту">
 <!ENTITY home_clear_history_confirm "Тарихты өшіруді шынымен қалайсыз ба?">
 <!ENTITY home_bookmarks_empty "Сіз сақтаған бетбелгілер осында көрсетіледі.">
