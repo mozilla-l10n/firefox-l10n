@@ -536,7 +536,6 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Úvodní stránka &brandShortName;">
 <!ENTITY home_history_title "Historie">
-<!ENTITY home_history_back_to "Přejít zpět do celé historie">
 <!ENTITY home_clear_history_button "Vymazat historii prohlížení">
 <!ENTITY home_clear_history_confirm "Opravdu chcete vymazat svou historii?">
 <!ENTITY home_bookmarks_empty "Záložky, které uložíte, se zobrazí zde.">
