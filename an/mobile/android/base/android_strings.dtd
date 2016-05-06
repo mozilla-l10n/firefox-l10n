@@ -536,7 +536,9 @@ size. -->
 
 <!ENTITY home_title "Pachina d\u0027inicio de &brandShortName;">
 <!ENTITY home_history_title "Historial">
-<!ENTITY home_history_back_to "Torna ta lo historial">
+
+
+
 <!ENTITY home_clear_history_button "Limpiar l\u0027historial de navegacion">
 <!ENTITY home_clear_history_confirm "Yes seguro que quiers eliminar l\u0027historial?">
 <!ENTITY home_bookmarks_empty "Os marcadors que alce s\u0027amuestran aquí.">
