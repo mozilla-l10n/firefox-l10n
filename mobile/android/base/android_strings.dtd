@@ -524,6 +524,8 @@ size. -->
 <!ENTITY home_title "&brandShortName; hasiera-orria">
 <!ENTITY home_history_title "Historia">
 
+
+
 <!ENTITY home_clear_history_button "Garbitu nabigatze-historia">
 <!ENTITY home_clear_history_confirm "Ziur zaude nabigatze-historia garbitu nahi duzula?">
 <!ENTITY home_bookmarks_empty "Gordetako laster-markak hemen agertzen dira.">
