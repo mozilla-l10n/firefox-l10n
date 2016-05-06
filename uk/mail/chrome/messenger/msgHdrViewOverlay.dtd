@@ -30,8 +30,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Відповісти відправнику та всім отримувачам">
 <!ENTITY hdrReplyListButton1.label "Відповісти списку">
 <!ENTITY hdrReplyListButton1.tooltip "Відповісти списку розсилки">
-<!ENTITY hdrFollowupButton1.label "Followup">
-<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
+<!ENTITY hdrFollowupButton1.label "Відповісти в групу">
+<!ENTITY hdrFollowupButton1.tooltip "Опублікувати відповідь в цій групі новин">
 <!ENTITY hdrMenuForwardButton.label "Переслати як">
 <!ENTITY hdrForwardButton1.label "Переслати">
 <!ENTITY hdrForwardButton1.tooltip "Переслати цей лист">
