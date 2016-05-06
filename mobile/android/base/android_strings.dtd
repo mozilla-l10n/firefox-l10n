@@ -532,7 +532,9 @@ size. -->
 
 <!ENTITY home_title "Pagina de start &brandShortName;">
 <!ENTITY home_history_title "Istoric">
-<!ENTITY home_history_back_to "Mergi înapoi la întregul istoric">
+
+
+
 <!ENTITY home_clear_history_button "Șterge istoricul de navigare">
 <!ENTITY home_clear_history_confirm "Sigur dorești să ștergi istoricul?">
 <!ENTITY home_bookmarks_empty "Semnele de carte pe care le salvezi apar aici.">
