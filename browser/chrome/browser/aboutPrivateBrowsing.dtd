@@ -17,7 +17,7 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "tijdelijke bestanden">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox zal het volgende ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "wel opslaan">
-<!ENTITY aboutPrivateBrowsing.info.saved.after           ":">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "downloads">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "bladwijzers">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privénavigatie ">
