@@ -105,7 +105,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Prófaðu öryggisham">
 <!ENTITY aboutSupport.restartInSafeMode.label "Endurræsa með viðbætur óvirkar…">
 
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Eiginleikar">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Greining">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Villu loggur">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
