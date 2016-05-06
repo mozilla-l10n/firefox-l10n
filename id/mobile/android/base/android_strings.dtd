@@ -526,6 +526,8 @@ size. -->
 <!ENTITY home_title "Beranda &brandShortName;">
 <!ENTITY home_history_title "Riwayat">
 
+
+
 <!ENTITY home_clear_history_button "Bersihkan riwayat penjelajahan">
 <!ENTITY home_clear_history_confirm "Yakin ingin membersihkan riwayat Anda?">
 <!ENTITY home_bookmarks_empty "Markah yang disimpan akan tampil di sini.">
