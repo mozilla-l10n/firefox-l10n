@@ -503,6 +503,8 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 
+
+
 <!ENTITY home_clear_history_button "ဘယောက်ဆာ မှတ်တမ်းအားရှင်းပါ">
 <!ENTITY home_clear_history_confirm "သင့် မှတ်တမ်းအား ဖျက်ပစ်မည်မှာ သေချာပြီလား?">
 <!ENTITY home_bookmarks_empty "သင်မှတ်ထားသော လင်ခ့်များ ဒီတွင်စုထားမည်">
