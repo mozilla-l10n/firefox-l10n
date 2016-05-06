@@ -12,7 +12,6 @@
 <!ENTITY pref_clearHistory_confirmation "Historial limpiado">
 <!ENTITY pref_clearHistory_dialogMessage "¿Eliminar todo el historial de búsquedas de este dispositivo?">
 <!ENTITY pref_clearHistory_title "Limpiar historial de búsqueda">
-<!ENTITY pref_searchProvider_title "Buscador">
 <!ENTITY search_widget_button_label "Buscar">
 <!ENTITY network_error_title "No hay conexión a Internet">
 <!ENTITY network_error_message "Toque aquí para comprobar su config. de red">

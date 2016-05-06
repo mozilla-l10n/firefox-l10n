@@ -65,3 +65,10 @@
 <!ENTITY aboutSupport.sandboxTitle "Entorno de pruebas">
 <!ENTITY aboutSupport.safeModeTitle "Probar modo seguro">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar con complementos desactivados…">
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Características">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnósticos">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Registro de fallos">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Registro de decisiones">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Alternativas">
