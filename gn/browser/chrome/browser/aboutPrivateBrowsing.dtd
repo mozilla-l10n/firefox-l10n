@@ -16,16 +16,16 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookie">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "marandurenda sapy'aguáva">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "ohasáta">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " nde:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "mboguejyrã">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "techaukahakuéra">
+<!ENTITY aboutPrivateBrowsing.note.before                "Kundaha ñemi ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "nandeapói jehecha'ỹvaramo">
+<!ENTITY aboutPrivateBrowsing.note.after                 " ñandutípe. Ne ñanduti me'ẽha térã momba'apoha ikatu oikuaa gueteri mba'e kuatiaroguépe eikéra'e.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Eikuaave ko'ãvare">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Kundaha ñemi">
 
 <!ENTITY trackingProtection.title                        "Tapykuereho ñemo'ã">
 
-
+<!ENTITY trackingProtection.startTour1                   "Ehecha mba'éichapa omba'apohína">
