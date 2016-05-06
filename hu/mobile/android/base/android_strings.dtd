@@ -536,7 +536,9 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; kezdőoldal">
 <!ENTITY home_history_title "Előzmény">
-<!ENTITY home_history_back_to "Visszalépés az összes előzményben">
+
+
+
 <!ENTITY home_clear_history_button "Böngészési előzmények törlése">
 <!ENTITY home_clear_history_confirm "Biztosan törölni kívánja az előzményeket?">
 <!ENTITY home_bookmarks_empty "A mentett könyvjelzők itt jelennek meg.">
