@@ -536,9 +536,9 @@ size. -->
 
 <!ENTITY home_title "Degemer &brandShortName;">
 <!ENTITY home_history_title "Roll istor">
-
-
-
+<!ENTITY home_synced_devices_smartfolder "Trevnadoù goubredet">
+<!ENTITY home_synced_devices_number "&formatD; a drevnadoù">
+<!ENTITY home_history_back_to2 "Distreiñ d\u0027ar roll istor a-bezh">
 <!ENTITY home_clear_history_button "Skarzhañ ar roll istor">
 <!ENTITY home_clear_history_confirm "Ha sur oc\u0027h e fell deoc\u0027h skarzhañ ho roll istor ?">
 <!ENTITY home_bookmarks_empty "Skrammet e vez ar sinedoù enrollet amañ.">
