@@ -524,6 +524,8 @@ size. -->
 <!ENTITY home_title "&brandShortName; ຫນ້າທໍາອິດ">
 <!ENTITY home_history_title "ປະຫວັດການໃຊ້ງານ">
 
+
+
 <!ENTITY home_clear_history_button "ລົບລ້າງປະຫວັດຂອງການຊອກຫາ">
 <!ENTITY home_clear_history_confirm "ທ່ານຫມັ້ນໃຈແລ້ວບໍ່ວ່າທ່ານຕ້ອງການລົບລ້າງປະຫວັດການໃຊ້ງານຂອງທ່ານທີ່ຜ່ານມາ?">
 <!ENTITY home_bookmarks_empty "Bookmarks ທີ່ທ່ານບັນທຶກໄວ້ສະແດງຂື້ນຢູ່ນີ້.">
