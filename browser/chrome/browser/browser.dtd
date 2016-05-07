@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Nod Tudalen i Bob Tab…">
 <!ENTITY showAllBookmarks2.label "Dangos Pob Nod Tudalen">
 <!ENTITY recentBookmarks.label "Wedi gosod Nod Tudalen yn Ddiweddar">
-
+<!ENTITY otherBookmarksCmd.label "Nodau Tudalen Eraill">
 <!ENTITY bookmarksToolbarChevron.tooltip "Dangos pob ffolder nod tudalen">
 
 <!ENTITY backCmd.label                "Nôl">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Nodau Tudalen">
-
+<!ENTITY bookmarksMenuButton.other.label "Nodau Tudalen Eraill ">
 <!ENTITY viewBookmarksSidebar2.label        "Gweld Bar Offer Nodau Tudalen">
 <!ENTITY viewBookmarksToolbar.label         "Gweld Bar Offer Nodau Tudalen">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Torri">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "T"> 
-
+<!ENTITY copyCmd.label            "Copïo">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Gludo">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "G"> 
@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Dim tabiau wedi eu cydweddu … eto!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Hoffech chi weld eich tabiau o ddyfeisiau eraill yma?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Dewisiadau Cydweddu">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Mewngofnodwch i weld rhestr o dabiau o'ch dyfeisiau eraill.">
 <!ENTITY appMenuRemoteTabs.signin.label "Mewngofnodwch i Sync">
@@ -694,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Nid yw eich cysylltiad â'r dudalen hon yn breifat. Gall gwybodaeth fyddwch yn ei gyflwyno cael ei weld gan eraill (megis cyfrineiriau, negeseuon, cardiau credyd, ac ati.).">
 <!ENTITY identity.description.insecureLoginForms "Nid yw'r manylion mewngofnodi rydych wedi ei roi i'r dudalen yn ddiogel a gall fod wedi ei danseilio.">
 <!ENTITY identity.description.weakCipher "Mae eich cysylltiad i'r wefan hon yn defnyddio amgryptiad gwan ac nid yw'n breifat.">
-
+<!ENTITY identity.description.weakCipher2 "Gall bobl eraill weld eich manylion neu newid ymddygiad y wefan.">
 <!ENTITY identity.description.activeBlocked "Mae &brandShortName; wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel.">
 <!ENTITY identity.description.passiveLoaded "Nid yw eich cysylltiad yn breifat ac mae'n bosib i wybodaeth rydych yn ei rannu gael ei weld gan eraill.">
 <!ENTITY identity.description.passiveLoaded2 "Mae'r wefan yn cynnwys deunydd nad yw'n ddiogel (megis delweddau).">
@@ -724,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Tabiau wedi'u Cydweddu">
 
 <!ENTITY syncedTabs.sidebar.label              "Tabiau wedi'u Cydweddu">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Mewngofnodwch i Firefox o'ch dyfeisiau eraill i weld eu tabiau yma.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Dim tabiau wedi eu cydweddu … eto!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Hoffech chi weld eich tabiau o ddyfeisiau eraill yma?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Mewngofnodwch i weld rhestr o dabiau o'ch dyfeisiau eraill.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Dim tabiau agored">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Agor Dewisiadau &syncBrand.shortName.label;">
@@ -734,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cychwynnwch gydweddu tabiau er mwyn gweld rhestr o dabiau o'ch dyfeisiau eraill.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Agor">
+<!ENTITY syncedTabs.context.open.accesskey                   "g">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Agor mewn Tab Newydd">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Agor mewn Ffenestr Newydd">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "F">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Agor Dolen mewn Ffenestr Breifat Newydd">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "N">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Gosod Nod Tudalen i'r Tab Hwn…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Copïo">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Pori Preifat">
 
 <!ENTITY trackingProtection.title                        "Diogelwch Rhag Tracio">
-
-
+<!ENTITY trackingProtection.description2                 "Mae rhai gwefannau defnyddio tracwyr sy'n gallu dilyn eich gweithgaredd ar draws y Rhyngrwyd. Gyda diogelu rhag tracio bydd Firefox yn rhwystro nifer o'r tracwyr sy'n gallu casglu gwybodaeth am eich ymddygiad pori.">
+<!ENTITY trackingProtection.startTour1                   "Gweld sut mae hyn yn gweithio">
