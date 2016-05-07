@@ -535,7 +535,7 @@ size. -->
 <!ENTITY home_title "หน้าแรก &brandShortName;">
 <!ENTITY home_history_title "ประวัติ">
 
-
+<!ENTITY home_synced_devices_number "&formatD; อุปกรณ์">
 
 <!ENTITY home_clear_history_button "ล้างประวัติการท่องเว็บ">
 <!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าต้องการล้างประวัติของคุณ?">
