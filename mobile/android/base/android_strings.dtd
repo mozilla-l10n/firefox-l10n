@@ -536,6 +536,9 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Página inicial do &brandShortName;">
 <!ENTITY home_history_title "Histórico">
+<!ENTITY home_synced_devices_smartfolder "Dispositivos sincronizados">
+<!ENTITY home_synced_devices_number "&formatD; dispositivos">
+<!ENTITY home_history_back_to2 "Voltar ao Histórico">
 <!ENTITY home_clear_history_button "Limpar histórico de navegação">
 <!ENTITY home_clear_history_confirm "Tem certeza que deseja limpar seu histórico?">
 <!ENTITY home_bookmarks_empty "Seus favoritos serão mostrados aqui.">
