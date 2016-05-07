@@ -109,8 +109,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.override "(Contúirteach) Bain triail as <span class='hostname'></span> a luchtú in ainneoin teicneolaíocht slándála seanaimseartha">
 
 <!ENTITY certerror.pagetitle1  "Ceangal Neamhshlán">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Úsáideann an suíomh seo HTTP Strict Transport Security (HSTS) le cinntiú go gceanglaíonn &brandShortName; leis trí cheangal slán. Dá bharr seo, ní féidir eisceacht a chruthú don teastas seo.">
+<!ENTITY certerror.copyToClipboard.label "Cóipeáil an téacs go dtí an ghearrthaisce">
 
-
-
+<!ENTITY inadequateSecurityError.title "Níl do cheangal slán">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p>Úsáideann <span class='hostname'></span> teicneolaíocht slándála atá as dáta agus leochaileach ar ionsaithe. D'fhéadfadh ionsaitheoir eolas a nochtadh áit ar shíl tú go raibh sé slán. Beidh ar riarthóir an tsuímh gréasáin an freastalaí a dheisiú sula mbeidh tú ábalta cuairt a thabhairt ar an suíomh. </p><p> Cód Earráide: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
