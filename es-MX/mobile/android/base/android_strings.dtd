@@ -24,6 +24,10 @@
 
 <!ENTITY  onboard_start_restricted1 "Mantente seguro y en control con esta versión simplificada de &brandShortName;.">
 
+<!ENTITY  reading_list_migration_title "Lista de lectura conectada">
+<!ENTITY  reading_list_migration_subtext "Los elementos de tu lista de lectura no se agregarán a tus marcadores">
+<!ENTITY  reading_list_migration_goto_bookmarks "Ir a marcadores">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Tu panel de marcadores está oculto">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -59,13 +63,18 @@
 <!ENTITY bookmark_removed "Marcador eliminado">
 <!ENTITY bookmark_updated "Marcador actualizado">
 <!ENTITY bookmark_options "Opciones">
+<!ENTITY screenshot_added_to_bookmarks "Captura de pantalla agregada a marcadores">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Capturas de pantalla">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Lista de lectura">
 
+<!ENTITY reader_saved_offline "Guardado sin conexión">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Cambiar">
 
 <!ENTITY history_today_section "Hoy">
 <!ENTITY history_yesterday_section "Ayer">
@@ -104,6 +113,7 @@
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
 <!ENTITY pref_category_general "General">
+<!ENTITY pref_category_general_summary3 "Región, idioma, cola de pestaña">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -142,12 +152,15 @@
 <!ENTITY overlay_no_synced_devices "No se encontró una cuenta de Firefox conectada a los dispositivos">
 
 <!ENTITY pref_category_search3 "Buscar">
+<!ENTITY pref_category_search_summary2 "Agregar, establecer predeterminada, mostrar sugerencias">
 <!ENTITY pref_category_accessibility "Accesibilidad">
 <!ENTITY pref_category_accessibility_summary2 "Tamaño de texto, enfoque, entrada de voz">
 <!ENTITY pref_category_privacy_short "Privacidad">
+<!ENTITY pref_category_privacy_summary4 "Rastreo, inicios de sesión, selección de datos">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Acerca de &brandShortName;, preguntas frecuentes, retroalimentación">
 <!ENTITY pref_category_datareporting "Elección de datos">
+<!ENTITY pref_category_logins "Inicios de sesión">
 <!ENTITY pref_learn_more "Saber más">
 <!ENTITY pref_category_installed_search_engines "Motores de búsqueda instalados">
 <!ENTITY pref_category_add_search_providers "Agregar más proveedores de búsqueda">
@@ -159,7 +172,13 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "TIP: Agrega cualquier sitio web a tu lista de proveedores de búsqueda con una presión larga en su campo de búsqueda y luego tocando el ícono &formatI;.">
 <!ENTITY pref_category_advanced "Avanzado">
+<!ENTITY pref_category_advanced_summary3 "Restaurar pestañas, datos guardados, herramientas de desarrollador">
+<!ENTITY pref_category_notifications "Notificaciones">
+<!ENTITY pref_category_notifications_summary "Nuevas características, actualizaciones del sitio web">
+<!ENTITY pref_content_notifications "Actualizaciones del sitio web">
+<!ENTITY pref_content_notifications_summary2 "Descubre nuevo contenido desde sitios soportados">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota vía USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota vía Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "La depuración por Wi-Fi require que tenga tu dispositivo un app de lector de códigos QR.">
@@ -169,6 +188,8 @@
 <!ENTITY pref_category_home "Inicio">
 <!ENTITY pref_category_home_summary "Personalizar tu página de inicio">
 <!ENTITY pref_category_home_panels "Paneles">
+<!ENTITY pref_category_home_add_ons "Complementos">
+<!ENTITY pref_home_updates2 "Actualizaciones de contenido">
 <!ENTITY pref_home_updates_enabled "Habilitado">
 <!ENTITY pref_home_updates_wifi "Solo sobre Wi-Fi">
 <!ENTITY pref_category_home_homepage "Página de inicio">
@@ -194,6 +215,7 @@
 <!ENTITY pref_header_search "Buscar">
 <!ENTITY pref_header_privacy_short "Privacidad">
 <!ENTITY pref_header_accessibility "Accesibilidad">
+<!ENTITY pref_header_notifications "Notificaciones">
 <!ENTITY pref_header_advanced "Avanzado">
 <!ENTITY pref_header_help "Ayuda">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -203,6 +225,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluyendo a terceros">
 <!ENTITY pref_cookies_disabled "Deshabiltado">
 
+<!ENTITY pref_category_data_saver "Protector de datos">
+<!ENTITY pref_category_media "Multimedia">
+<!ENTITY pref_category_developer_tools "Herramientas de desarrollador">
 
 <!ENTITY pref_tap_to_load_images_title2 "Mostrar imágenes">
 <!ENTITY pref_tap_to_load_images_enabled "Siempre">
@@ -210,7 +235,9 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloqueado">
 
 <!ENTITY pref_show_web_fonts "Mostrar las fuentes web">
+<!ENTITY pref_show_web_fonts_summary2 "Descargar fuentes remotas cuando esté cargando la página">
 
+<!ENTITY pref_tracking_protection_title2 "Protección de rastreo">
 <!ENTITY pref_tracking_protection_summary3 "Habilitado en Navegación Privada">
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no deseas ser rastreado">
@@ -219,6 +246,8 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Habilitado en Navegación Privada">
 <!ENTITY pref_tracking_protection_disabled "Deshabiltado">
 
+<!ENTITY pref_whats_new_notification "Qué hay de nuevo en &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Conoce más acerca de las nuevas características después de una actualización">
 
 <!ENTITY tracking_protection_prompt_title "Ahora con protección de rastreo">
 <!ENTITY tracking_protection_prompt_text "Activamente bloqueando elementos de rastreo, así que no tienes de que preocuparte.">
@@ -252,17 +281,22 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "Para \&quot;Abrir múltiples enlaces\&quot;, por favor, habilita el permiso \&quot;Dibujar sobre otras aplicaciones\&quot; para &brandShortName;">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; sitios web actualizados">
+<!ENTITY content_notification_action_settings "Configuración de notificaciones">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "Actualizado en &formatS;">
 
 <!ENTITY pref_char_encoding "Codificación de caracteres">
 <!ENTITY pref_char_encoding_on "Mostrar menú">
 <!ENTITY pref_char_encoding_off "No mostrar menú">
+<!ENTITY pref_clear_private_data2 "Limpiar datos privados">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Limpiar ahora">
@@ -271,6 +305,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccionar que datos limpiar">
 <!ENTITY pref_plugins "Complementos">
 <!ENTITY pref_plugins_enabled "Habilitado">
+<!ENTITY pref_plugins_tap_to_play2 "Presiona para reproducir">
 <!ENTITY pref_plugins_disabled "Deshabilitado">
 <!ENTITY pref_text_size "Tamaño de texto">
 <!ENTITY pref_restore_tabs "Restaurar pestañas">
@@ -320,6 +355,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Descargas">
 <!ENTITY pref_private_data_syncedTabs "Pestañas sincronizadas">
 
+<!ENTITY pref_default_browser "Hacer navegador predeterminado">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_vendor_faqs "Preguntas frecuentes">
 <!ENTITY pref_vendor_feedback "Enviar opinión">
@@ -447,6 +483,7 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "Magnifica áreas pequeñas">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Alargar enlaces y campos de formularios cuando presiones cerca de ellos">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -499,6 +536,9 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Inicio de &brandShortName;">
 <!ENTITY home_history_title "Historial">
+<!ENTITY home_synced_devices_smartfolder "Dispositivos sincronizados">
+<!ENTITY home_synced_devices_number "&formatD; dispositivos">
+<!ENTITY home_history_back_to2 "Volver al Historial completo">
 <!ENTITY home_clear_history_button "Limpiar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Estás seguro que quieres limpiar tu historial?">
 <!ENTITY home_bookmarks_empty "Los marcadores que guardes se mostrarán aquí.">
@@ -567,6 +607,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Has desactivado la protección contra contenido inseguro.">
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "Protección de rastreo">
 <!ENTITY doorhanger_tracking_state_enabled "Habilitado">
 <!ENTITY doorhanger_tracking_state_disabled "Deshabilitado">
 <!ENTITY doorhanger_tracking_message_enabled1 "Los intentos de rastrear tu comportamiento en línea han sido bloqueados.">
@@ -731,4 +772,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; está actualizado">
 <!ENTITY whatsnew_notification_summary "Descubre las novedades de esta versión">
 
+<!ENTITY promotion_add_to_homescreen "Agregar a la pantalla de inicio">
 
+<!ENTITY helper_first_offline_bookmark_title "Leer sin conexión">
+<!ENTITY helper_first_offline_bookmark_message "Encuentra los elementos de tu vista de lectura en Marcadores, incluso sin conexión.">
+<!ENTITY helper_first_offline_bookmark_button "Ir a Marcadores">
