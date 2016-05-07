@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Stankañ endalc'hadoù arvarus pe touellus">
+<!ENTITY  enableSafeBrowsing.accesskey    "S">
 
+<!ENTITY  blockDownloads.label            "Stankañ pellgargadurioù arvarus">
+<!ENTITY  blockDownloads.accesskey        "p">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Kelaouiñ ac'hanon a-zivout meziantoù dic'hoantaet ha divoutin">
+<!ENTITY  blockUncommonUnwanted.accesskey "m">
 
 <!ENTITY  addonExceptions.label         "Nemedennoù">
 <!ENTITY  addonExceptions.accesskey     "N">
