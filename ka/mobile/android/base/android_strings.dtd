@@ -172,7 +172,13 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "რჩევა: დაამატეთ ნებისმიერი ვებ-საიტი თქვენს საძიებო პროვაიდერებს მის საძიებო ველზე დიდ-ხნიანი დაჭერით შემდეგ კი &formatI; ხატულაზე შეხებით.">
 <!ENTITY pref_category_advanced "დეტალური">
+<!ENTITY pref_category_advanced_summary3 "ჩანართების აღდგენა, მონაცემების დამზოგი, შემმუშავებლის ხელსაწყოები">
+<!ENTITY pref_category_notifications "ცნობები">
+<!ENTITY pref_category_notifications_summary "ახალი ფუნქციები, ვებსაიტის განახლებები">
+<!ENTITY pref_content_notifications "ვებსაიტის განახლებები">
+<!ENTITY pref_content_notifications_summary2 "აღმოაჩინეთ ახალი შიგთავსი მხარდაჭერილი საიტებიდან">
 <!ENTITY pref_developer_remotedebugging_usb "დისტანციური გამართვა USB-ით">
 <!ENTITY pref_developer_remotedebugging_wifi "დისტანციური გამართვა Wi-Fi-ით">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi გამართვა მოითხოვს, რომ თქვენს მოწყობილობაზე ინსტალირებული იყოს QR კოდის წამკითხავი.">
@@ -182,6 +188,8 @@
 <!ENTITY pref_category_home "სახლი">
 <!ENTITY pref_category_home_summary "მოირგეთ თქვენი საწყისი გვერდი">
 <!ENTITY pref_category_home_panels "პანელები">
+<!ENTITY pref_category_home_add_ons "დამატებები">
+<!ENTITY pref_home_updates2 "შიგთავსის განახლებები">
 <!ENTITY pref_home_updates_enabled "ჩართული">
 <!ENTITY pref_home_updates_wifi "მხოლოდ Wi-Fi-ით">
 <!ENTITY pref_category_home_homepage "საწყისი გვერდი">
@@ -207,6 +215,7 @@
 <!ENTITY pref_header_search "ძიება">
 <!ENTITY pref_header_privacy_short "კონფიდენციალობა">
 <!ENTITY pref_header_accessibility "დამხმარე საშუალებები">
+<!ENTITY pref_header_notifications "ცნობები">
 <!ENTITY pref_header_advanced "დამატებითი">
 <!ENTITY pref_header_help "დახმარება">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -216,6 +225,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "ჩართულია, გარდა  მე-3 მხარისა">
 <!ENTITY pref_cookies_disabled "ამორთულია">
 
+<!ENTITY pref_category_data_saver "მონაცემების დამზოგი">
+<!ENTITY pref_category_media "მედია">
+<!ENTITY pref_category_developer_tools "შემმუშავებლის ხელსაწყოები">
 
 <!ENTITY pref_tap_to_load_images_title2 "სურათების ჩვენება">
 <!ENTITY pref_tap_to_load_images_enabled "ყოველთვის">
@@ -223,7 +235,9 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "დაბლოკილი">
 
 <!ENTITY pref_show_web_fonts "ვებ-შრიფტების ჩვენება">
+<!ENTITY pref_show_web_fonts_summary2 "დისტანციური შრიფტების ჩამოტვირთვა გვერდის ჩატვირთვისას">
 
+<!ENTITY pref_tracking_protection_title2 "თვალყურისგან დაცვა">
 <!ENTITY pref_tracking_protection_summary3 "ჩართული პირად დათვალიერებაში">
 <!ENTITY pref_donottrack_title "არ მითვალთვალო">
 <!ENTITY pref_donottrack_summary "&brandShortName; ეტყვის საიტებს, რომ არ გინდათ, თვალთვალი გადევნონ">
@@ -232,6 +246,8 @@
 <!ENTITY pref_tracking_protection_enabled_pb "ჩართული პირად დათვალიერებაში">
 <!ENTITY pref_tracking_protection_disabled "გამორთული">
 
+<!ENTITY pref_whats_new_notification "რა არის ახალი &brandShortName;-ში">
+<!ENTITY pref_whats_new_notification_summary "გაიგეთ ახალ ფუნქციებზე განახლების შემდეგ">
 
 <!ENTITY tracking_protection_prompt_title "ახლა უკვე თვალთვალისგან დაცვით">
 <!ENTITY tracking_protection_prompt_text "მოთვალთვალე ელემენტების ინსტენსიური ბლოკვა, რათა თქვენ არ იდარდოთ.">
@@ -265,17 +281,22 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "\&quot;ბევრი ბმულის გასახსნელად\&quot;, მიეცით &brandShortName;-ს \&apos;სხვა აპებზე გადავლების\&apos; უფლება">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; ვებსაიტი განახლდა">
+<!ENTITY content_notification_action_settings "ცნობების პარამეტრები">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "განახლდა &formatS;-ზე">
 
 <!ENTITY pref_char_encoding "სიმბოლოთა კოდირება">
 <!ENTITY pref_char_encoding_on "მენიუს ჩვენება">
 <!ENTITY pref_char_encoding_off "მენიუს დამალვა">
+<!ENTITY pref_clear_private_data2 "პირად მონაცემთა გასუფთავება">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ახლავე გასუფთავება">
@@ -284,6 +305,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "აირჩიეთ გასასუფთავებელი მონაცემები">
 <!ENTITY pref_plugins "პაკეთები">
 <!ENTITY pref_plugins_enabled "ჩართულია">
+<!ENTITY pref_plugins_tap_to_play2 "შეეხეთ დასაკრავად">
 <!ENTITY pref_plugins_disabled "ამორთულია">
 <!ENTITY pref_text_size "ტექსტის ზომა">
 <!ENTITY pref_restore_tabs "ჩანართების აღდგენა">
@@ -333,6 +355,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "ჩამოტვირთვები">
 <!ENTITY pref_private_data_syncedTabs "სინქრონირებული ჩანართები">
 
+<!ENTITY pref_default_browser "ნაგულისხმევი ბრაუზერი">
 <!ENTITY pref_about_firefox "&brandShortName; ინფორმაცია">
 <!ENTITY pref_vendor_faqs "ფ.ა.კ.">
 <!ENTITY pref_vendor_feedback "გამოხმაურება">
@@ -460,6 +483,7 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "პატარა მონაკვეთების გადიდება">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "ბმულების და ფორმის ველების გადიდება მათთან ახლოს შეხებისას">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -512,6 +536,9 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; სახლი">
 <!ENTITY home_history_title "ისტორია">
+<!ENTITY home_synced_devices_smartfolder "სინქრონირებული მოწყობილობები">
+<!ENTITY home_synced_devices_number "&formatD; მოწყობილობები">
+<!ENTITY home_history_back_to2 "სრულ ისტორიაზე დაბრუნება">
 <!ENTITY home_clear_history_button "დათვალიერების ისტორიის გასუფთავება">
 <!ENTITY home_clear_history_confirm "ნამდვილად გსურთ ამ თქვენი ისტორიის გასუფთავება?">
 <!ENTITY home_bookmarks_empty "თქვენ მიერ შენახული სანიშნეები აქ გამოჩნდება.">
@@ -580,6 +607,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "თქვენ ამ გვერდზე დაუცველი სიგთავსისგან დაცვა გამორთეთ.">
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "თვალყურისგან დაცვა">
 <!ENTITY doorhanger_tracking_state_enabled "ჩართული">
 <!ENTITY doorhanger_tracking_state_disabled "გამორთული">
 <!ENTITY doorhanger_tracking_message_enabled1 "ინტერნეტში თქვენი მოქმედების თვალთვალის მცდელობა დაიბლოკა.">
@@ -747,4 +775,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; უახლესია">
 <!ENTITY whatsnew_notification_summary "გაიგეთ, რაა ახალი ამ ვერსიაში">
 
+<!ENTITY promotion_add_to_homescreen "დამატება თავფურცელზე">
 
+<!ENTITY helper_first_offline_bookmark_title "კავშირგარეშე წაკითხვა">
+<!ENTITY helper_first_offline_bookmark_message "იპოვეთ კითხვის ხედის ელემენტები სანიშნეებში კავშირგარეშე რეჟიმისასაც.">
+<!ENTITY helper_first_offline_bookmark_button "სანიშნეებზე გადასვლა">
