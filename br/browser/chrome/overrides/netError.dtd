@@ -115,3 +115,4 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "N'eo ket diarvar ho kennask">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> a arver ur c'halverezh diogelroez diamzeret ha bresk. Gallout a rafe un tager dizoloiñ titouroù a gredec'h diarvar. Ret vo da verour al lec'hienn ratreañ an dafariad a-raok ma c'hallfec'h gweladenniñ al lec'hienn.</p><p>Boneg fazi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
