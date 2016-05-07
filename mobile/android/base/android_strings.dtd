@@ -179,7 +179,8 @@
 <!ENTITY tab_queue_notification_settings "Для \&quot;Открытия множества ссылок\&quot;, пожалуйста, предоставьте &brandShortName; разрешение \'Показ окон поверх других приложений\'">
 <!ENTITY content_notification_summary "&brandShortName;">
 <!ENTITY content_notification_title_plural "обновлено &formatD; веб-сайтов">
-<!ENTITY content_notification_action_settings "Параметры уведомлений">
+<!ENTITY content_notification_action_settings2 "Параметры">
+<!ENTITY content_notification_action_read_now "Прочитать">
 <!ENTITY content_notification_updated_on "Обновлено в &formatS;">
 <!ENTITY pref_char_encoding "Кодировка">
 <!ENTITY pref_char_encoding_on "Показывать меню">

@@ -53,6 +53,9 @@
 <!ENTITY aboutSupport.lockedPrefsName "Имя">
 <!ENTITY aboutSupport.lockedPrefsValue "Значение">
 <!ENTITY aboutSupport.graphicsTitle "Графика">
+<!ENTITY aboutSupport.placeDatabaseTitle "База данных Places">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Целостность">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Проверить целостность">
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Инкрементальный GC">
 <!ENTITY aboutSupport.a11yTitle "Поддержка доступности">
