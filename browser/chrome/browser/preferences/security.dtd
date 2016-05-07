@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Blokir konten berbahaya dan tidak dapat dipercaya">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "Blokir unduhan berbahaya">
+<!ENTITY  blockDownloads.accesskey        "u">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Ingatkan saya tentang perangkat yang tidak biasa dan tidak diinginkan">
+<!ENTITY  blockUncommonUnwanted.accesskey "t">
 
 <!ENTITY  addonExceptions.label         "Pengecualian…">
 <!ENTITY  addonExceptions.accesskey     "P">
