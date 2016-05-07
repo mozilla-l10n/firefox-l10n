@@ -50,8 +50,6 @@
 <!ENTITY updateCheck.accesskey "о">
 <!ENTITY updateManual.label "Никогда не проверять наличие обновлений (не рекомендовано: ставит безопасность под угрозу)">
 <!ENTITY updateManual.accesskey "е">
-<!ENTITY updateAutoAddonWarn.label "Предупреждать меня, если при этом будут отключены какие-либо дополнения">
-<!ENTITY updateAutoAddonWarn.accesskey "ж">
 <!ENTITY updateHistory.label "Показать журнал обновлений">
 <!ENTITY updateHistory.accesskey "й">
 <!ENTITY useService.label "Использовать фоновую службу для установки обновлений">
