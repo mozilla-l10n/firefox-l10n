@@ -534,7 +534,9 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; Startskærm">
 <!ENTITY home_history_title "Historik">
-<!ENTITY home_history_back_to "Tilbage til hele historikken">
+<!ENTITY home_synced_devices_smartfolder "Synckroniserede enheder">
+<!ENTITY home_synced_devices_number "&formatD; enheder">
+<!ENTITY home_history_back_to2 "Tilbage til hele historikken">
 <!ENTITY home_clear_history_button "Ryd browserhistorik">
 <!ENTITY home_clear_history_confirm "Er du sikker på, at du vil rydde historikken?">
 <!ENTITY home_bookmarks_empty "Gemte bogmærker vises her.">
