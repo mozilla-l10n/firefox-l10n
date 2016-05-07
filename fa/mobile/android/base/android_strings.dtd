@@ -536,9 +536,9 @@ size. -->
 
 <!ENTITY home_title "خانه &brandShortName;">
 <!ENTITY home_history_title "تاریخچه">
-
-
-
+<!ENTITY home_synced_devices_smartfolder "دستگاه‌های همگام‌ شده">
+<!ENTITY home_synced_devices_number "&formatD; دستگاه‌ها">
+<!ENTITY home_history_back_to2 "بازگشت به تاریخچه کامل">
 <!ENTITY home_clear_history_button "پاک کردن تاریخچه مرور">
 <!ENTITY home_clear_history_confirm "آیا مطمئن هستید می‌خواهید تاریخچه مرور خود را پاک کنید؟">
 <!ENTITY home_bookmarks_empty "نشانک‌هایی که ذخیره می‌کنید، در اینجا نمایش داده می‌شوند.">
