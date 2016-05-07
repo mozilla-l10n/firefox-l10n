@@ -536,9 +536,9 @@ size. -->
 
 <!ENTITY home_title "Baile &brandShortName;">
 <!ENTITY home_history_title "Stair">
-
-
-
+<!ENTITY home_synced_devices_smartfolder "Gléasanna sioncrónaithe">
+<!ENTITY home_synced_devices_number "Gléasanna &formatD;">
+<!ENTITY home_history_back_to2 "Fill ar an stair iomlán">
 <!ENTITY home_clear_history_button "Glan do stair bhrabhsála">
 <!ENTITY home_clear_history_confirm "An bhfuil tú cinnte gur mhaith leat do stair bhrabhsála a ghlanadh?">
 <!ENTITY home_bookmarks_empty "Taispeánfar leabharmharcanna sábháilte anseo.">
