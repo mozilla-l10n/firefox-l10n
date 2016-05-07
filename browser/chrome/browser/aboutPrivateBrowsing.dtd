@@ -17,13 +17,13 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "comhaid shealadacha">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Sábhálann Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "will save">
-
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " do chuid:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "íosluchtuithe">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "leabharmharcanna">
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.note.before                "Fiú le Brabhsáil Phríobháideach, ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "ní bheidh tú anaithnid">
+<!ENTITY aboutPrivateBrowsing.note.after                 " ar an Idirlíon. Is féidir le d'fhostaí nó le do sholáthraí seirbhíse na leathanaigh a dtugann tú cuairt orthu a fheiceáil mar sin féin.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Tuilleadh eolais faoi">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Brabhsáil Phríobháideach">
 
 <!ENTITY trackingProtection.title                        "Cosaint ar Rianú">
