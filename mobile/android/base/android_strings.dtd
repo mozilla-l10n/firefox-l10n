@@ -174,7 +174,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "提示：您可以长按任何网站的搜索框，然后点击 &formatI; 图标，将网站添加到您的搜索提供商列表。">
 <!ENTITY pref_category_advanced "高级">
-<!ENTITY pref_category_advanced_summary3 "恢复标签页、节约流量、开发者工具">
+<!ENTITY pref_category_advanced_summary3 "恢复标签页、节省流量、开发者工具">
 <!ENTITY pref_category_notifications "通知">
 <!ENTITY pref_category_notifications_summary "新功能、网站更新">
 <!ENTITY pref_content_notifications "网站更新">
@@ -225,7 +225,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "启用，第三方 Cookie 除外">
 <!ENTITY pref_cookies_disabled "禁用">
 
-<!ENTITY pref_category_data_saver "节约流量">
+<!ENTITY pref_category_data_saver "节省流量">
 <!ENTITY pref_category_media "媒体">
 <!ENTITY pref_category_developer_tools "开发者工具">
 
@@ -501,7 +501,7 @@ size. -->
 <!ENTITY bookmark_edit_title "编辑书签">
 <!ENTITY bookmark_edit_name "名称">
 <!ENTITY bookmark_edit_location "地址">
-<!ENTITY bookmark_edit_keyword "关键字">
+<!ENTITY bookmark_edit_keyword "关键词">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -575,7 +575,7 @@ size. -->
 <!ENTITY remote_tabs_panel_moved_desc "我们已经从其他设备转移了您的标签页到您的首页上的一个面板，这让您可以轻松地在每次打开新标签页时访问它们。">
 <!ENTITY remote_tabs_panel_moved_link "带我去我的新面板吧。">
 
-<!ENTITY pin_site_dialog_hint "输入搜索关键字">
+<!ENTITY pin_site_dialog_hint "请输入搜索关键词">
 
 <!ENTITY filepicker_title "选择文件">
 <!ENTITY filepicker_audio_title "选择或者录制一段声音">
