@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Rhwystro cynnwys peryglus a thwyllodrus">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "Rhwystro llwytho i lawr peryglus">
+<!ENTITY  blockDownloads.accesskey        "p">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Rhybuddio fi am feddalwedd diofyn ac anghyffredin">
+<!ENTITY  blockUncommonUnwanted.accesskey "a">
 
 <!ENTITY  addonExceptions.label         "Eithriadau…">
 <!ENTITY  addonExceptions.accesskey     "E">
