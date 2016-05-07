@@ -8,71 +8,18 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Koble til &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Legg til en &syncBrand.fullName.label;-konto'>
-<!ENTITY sync.title.pair.label 'Tilknytt en enhet'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'For å aktivere den nye enheten, velg “Sett opp &syncBrand.shortName.label;” på den andre enheten.'>
-<!ENTITY sync.subtitle.header2.label 'Skriv inn denne koden på den andre enheten'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Velg “&sync.title.pair.label;” i &syncBrand.shortName.label;-seksjonen i Firefox-innstillingene på den andre enheten.'>
-<!ENTITY sync.subtitle.pair.label 'For å aktivere, velg “Tilknytt en enhet” på den andre enheten.'>
+<!ENTITY sync.subtitle.connect.label 'For å aktivere den nye enheten, velg “Sett opp &syncBrand.shortName.label;” på enheten.'>
+<!ENTITY sync.subtitle.pair.label 'For å aktivere, velg “Par enheten” på den andre enheten.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Vis meg hvordan.'>
-<!ENTITY sync.link.advancedsetup.label 'Avansert konfigurasjon …'>
 <!ENTITY sync.link.nodevice.label 'Jeg har ikke enheten med meg …'>
 
-<!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Venter på den andre enheten …'>
-
-<!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Skriv inn kontoinfo for &syncBrand.fullName.label;'>
-<!ENTITY sync.input.username.label 'Kontonavn'>
-<!ENTITY sync.input.password.label 'Passord'>
-<!ENTITY sync.input.key.label 'Gjenopprettingsnøkkel'>
-<!ENTITY sync.checkbox.server.label 'Bruk en annen server'>
-<!ENTITY sync.input.server.label 'Server-URL'>
-
-<!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Kan ikke sette opp &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; klarte ikke koble til serveren. Vil du prøve igjen?'>
-<!ENTITY sync.button.tryagain.label 'Prøv igjen'>
-<!ENTITY sync.button.manual.label 'Manuelle innstillinger'>
-<!ENTITY sync.subtitle.nointernet.label 'Ingen Internett-tilkobling er tilgjengelig.'>
-<!ENTITY sync.subtitle.failaccount.label 'Klarte ikke opprette konto på enheten din.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Har du installert mer enn en Firefox? &syncBrand.fullName.label; støtter foreløpig bare en Firefox-installasjon om gangen. Avinstaller de andre instansene for å bruke &syncBrand.shortName.label;.'>
-
-<!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Oppsettet er fullført'>
-<!ENTITY sync.subtitle.success.label1 'Data lastes ned i bakgrunnen. Du kan åpne Innstillinger for å behandle kontoen, eller start bruk nettet med &brandShortName;.'>
-<!ENTITY sync.settings.label 'Innstillinger'>
-<!ENTITY sync.subtitle.manage.label1 'Din &syncBrand.fullName.label;-konto er allerede konfigurert. Gå til Innstillinger for å behandle kontoen, eller start &brandShortName;.'>
-
-<!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Prøv igjen.'>
-<!ENTITY sync.pair.connectlocation.label 'For å aktivere den nye enheten, velg “Sett opp &syncBrand.shortName.label;” på den andre enheten, og deretter velg “Jeg har allerede en konto.”'>
-
-<!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Innstillinger'>
-<!ENTITY sync.summary.pair.label 'Koble til &syncBrand.shortName.label;-kontoen med en annen enhet'>
-
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Hva skal synkroniseres'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Synkroniser dine …'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Bokmerker'>
 <!ENTITY sync.configure.engines.title.passwords2 'Innlogginger'>
 <!ENTITY sync.configure.engines.title.history 'Historikk'>
 <!ENTITY sync.configure.engines.title.tabs 'Faner'>
-
-<!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Avbryt'>
-<!ENTITY sync.button.connect.label 'Koble til'>
-<!ENTITY sync.button.ok.label 'OK'>
-
-<!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (frarådet)'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -93,20 +40,7 @@
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Festet'>
 
-<!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Bare en &syncBrand.fullName.label;-konto støttes.'>
-<!ENTITY sync.notification.configure.saved 'Dine valg er lagret.'>
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Feil kontonavn eller passord.'>
-<!ENTITY sync.invalidserver.label 'Skriv inn en gyldig server-URL'>
-<!ENTITY sync.verifying.label 'Kontrollerer …'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Gjenopprettingsnøkkelen er feil. Prøv igjen.'>
-
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Send fane til enheter'>
-<!ENTITY sync.button.send.label 'Send'>
-<!ENTITY sync.button.set.up.sync.label 'Sett opp &syncBrand.shortName.label;'>
 <!ENTITY sync.title.redirect.to.set.up.sync.label 'Sett opp &syncBrand.shortName.label; for å sende faner'>
 <!ENTITY sync.text.redirect.to.set.up.sync.label 'Sett opp &syncBrand.fullName.label; på enheten din for å sende faner til andre enheter.'>
 <!ENTITY sync.text.tab.sent.label 'Fanearket ble sendt!'>
