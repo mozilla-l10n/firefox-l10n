@@ -20,7 +20,7 @@
 <!ENTITY cutCmd.label            "Kəs">
 <!ENTITY cutCmd.key              "X">
 <!ENTITY cutCmd.accesskey          "K">
-<!ENTITY copyCmd.label            "Kopyala">
+<!ENTITY copyCmd.label            "Köçür">
 <!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "K">
 <!ENTITY pasteCmd.label            "Yapışdır">
