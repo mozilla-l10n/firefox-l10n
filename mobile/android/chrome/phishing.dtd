@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Trang ác ý cố gắng cài đặt các chương trình để ăn cắp thông tin cá nhân, dùng máy của bạn để tấn công máy khác, hoặc làm hư hệ thống của bạn.</p><p>Một số trang ác ý cố tình phân phối phần mềm độc hại, nhưng đa số đã bị sửa đổi mà không được phép hoặc người sở hữu không được biết.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Trang web tại <span id='phishing_sitename'/> được báo cáo là trang web ác ý và đã bị chặn dựa trên tùy chỉnh bảo mật của bạn.">
 
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
