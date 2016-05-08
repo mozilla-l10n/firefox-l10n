@@ -225,7 +225,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "书签">
 <!ENTITY bookmarksMenuButton.other.label "其他书签">
-<!ENTITY viewBookmarksSidebar2.label        "查看书签侧栏">
+<!ENTITY viewBookmarksSidebar2.label        "显示书签侧栏">
 <!ENTITY viewBookmarksToolbar.label         "查看书签工具栏">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -815,8 +815,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "您的屏幕上的所有可见窗口都将被共享。">
 
 <!ENTITY trackingProtection.title "跟踪保护">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; 已拦截该页面可能跟踪您的浏览行为的部分。">
-<!ENTITY trackingProtection.detectedNotBlocked3 "此网站包含的元素可能跟踪您的浏览行为。您已经禁用保护。">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; 已拦截该页面可能跟踪您的浏览行为的内容。">
+<!ENTITY trackingProtection.detectedNotBlocked3 "此网站包含的某些元素可能跟踪您的浏览行为，但您已经禁用保护。">
 <!ENTITY trackingProtection.notDetected3 "此页面上未检测到跟踪元素。">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -832,7 +832,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "跟踪">
-<!ENTITY trackingContentBlocked.moreinfo "已拦截此页面中跟踪您的网上活动的部分。">
+<!ENTITY trackingContentBlocked.moreinfo "已拦截此页面中跟踪您的网上活动的内容。">
 <!ENTITY trackingContentBlocked.learnMore "详细了解">
 <!ENTITY trackingContentBlocked.options "选项">
 <!ENTITY trackingContentBlocked.unblock2.label "在此网站上禁用保护">
