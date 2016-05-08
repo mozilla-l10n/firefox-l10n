@@ -49,7 +49,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Đóng tab">
 <!ENTITY  closeTab.accesskey                 "g">
 
-<!ENTITY  listAllTabs.label      "Liệt kê tất cả các tab">
+<!ENTITY  listAllTabs.label      "Liệt kê tất cả các thẻ">
 
 <!ENTITY tabCmd.label "Tab mới">
 <!ENTITY tabCmd.accesskey "T">
@@ -143,7 +143,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Đánh dấu trang">
 <!ENTITY bookmarksMenu.accesskey "d">
 <!ENTITY bookmarkThisPageCmd.label "Đánh dấu trang này">
-<!ENTITY editThisBookmarkCmd.label "Chỉnh sửa đánh dấu trang này">
+<!ENTITY editThisBookmarkCmd.label "Chỉnh sửa trang đánh dấu này">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "I">
 <!-- LOCALIZATION NOTE (findShareServices.label):
@@ -165,8 +165,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY subscribeToPageMenuitem.label "Đăng kí theo dõi trang này…">
-<!ENTITY addCurPagesCmd.label "Đánh dấu tất cả các tab…">
-<!ENTITY showAllBookmarks2.label "Các trang đã đánh dấu">
+<!ENTITY addCurPagesCmd.label "Đánh dấu tất cả các thẻ…">
+<!ENTITY showAllBookmarks2.label "Xem tất cả trang đánh dấu">
 
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các trang đánh dấu">
@@ -175,8 +175,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Trở lại trang trước">
 <!ENTITY forwardCmd.label             "Tiến">
 <!ENTITY forwardButton.tooltip        "Tiến một trang">
-<!ENTITY backForwardButtonMenu.tooltip "Nhấn chuột phải hoặc kéo xuống để hiển thị nhật ký">
-<!ENTITY backForwardButtonMenuMac.tooltip "Kéo xuống để xem nhật ký duyệt web">
+<!ENTITY backForwardButtonMenu.tooltip "Nhấn chuột phải hoặc kéo xuống để hiển thị lịch sử">
+<!ENTITY backForwardButtonMenuMac.tooltip "Kéo xuống để xem lịch sử">
 <!ENTITY reloadCmd.label              "Tải lại">
 <!ENTITY reloadButton.tooltip         "Tải lại trang này">
 <!ENTITY stopCmd.label                "Dừng">
@@ -214,10 +214,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Trang nhà">
 
-<!ENTITY bookmarksButton.label          "Đánh dấu trang">
+<!ENTITY bookmarksButton.label          "Trang đánh dấu">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Đánh dấu trang">
+<!ENTITY bookmarksMenuButton.label          "Trang đánh dấu">
 
 <!ENTITY viewBookmarksSidebar2.label        "Hiển thị thanh lề đánh dấu trang">
 <!ENTITY viewBookmarksToolbar.label         "Hiển thị thanh đánh dấu trang">
@@ -228,7 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "Nhật ký duyệt web">
+<!ENTITY historyButton.label            "Lịch sử">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Công cụ">
@@ -298,7 +298,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Tùy chỉnh">
 <!ENTITY preferencesCmdUnix.accesskey     "y"> 
 
-<!ENTITY clearRecentHistory.label               "Xóa dữ liệu gần đây…">
+<!ENTITY clearRecentHistory.label               "Xóa lịch sử gần đây…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
