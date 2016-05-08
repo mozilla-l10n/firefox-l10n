@@ -23,6 +23,10 @@
 <!ENTITY restorepage.windowLabel    "หน้าต่าง &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "ไปกันเลย!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "สำเร็จ!">
@@ -45,7 +49,7 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "เคลื่อนย้ายกลุ่มแท็บของคุณ">
-
+<!ENTITY tabgroupsmigration.pagetitle2          "เราได้ทำการนำกลุ่มแท็บออกแล้ว แต่ยังเก็บแท็บของคุณเอาไว้">
 <!ENTITY tabgroupsmigration.learnaboutaddons    "เรียนรู้เกี่ยวกับส่วนเสริมที่มาแทนที่กลุ่มแท็บ">
 
 <!ENTITY tabgroupsmigration.bookmarkbutton      "แสดงกลุ่มแท็บที่คั่นหน้าเว็บไว้">
