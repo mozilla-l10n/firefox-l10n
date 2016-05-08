@@ -16,7 +16,7 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "archivos temporales">
 <!ENTITY aboutPrivateBrowsing.info.saved.before "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize "guardará">
-<!ENTITY aboutPrivateBrowsing.info.saved.after2 " sus:">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2 "&nbsp;sus:">
 <!ENTITY aboutPrivateBrowsing.info.downloads "descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks "marcadores">
 <!ENTITY aboutPrivateBrowsing.note.before "La navegación privada">
