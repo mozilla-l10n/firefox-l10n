@@ -23,9 +23,9 @@
 <!ENTITY helpKeyboardShortcuts.label     "Ruq'a' rub'ey Keyboard">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "Ketikirisäx chik ri taq rutz'aqat e chupül…">
-<!ENTITY helpSafeMode.accesskey   "K">
-<!ENTITY helpSafeMode.stop.label       "Titikirisäx chik rik'in ri taq tz'aqat e tzijïl">
+<!ENTITY helpSafeMode.label       "Titikirisäx chik kik'in ri chupül taq tz'aqat…">
+<!ENTITY helpSafeMode.accesskey   "T">
+<!ENTITY helpSafeMode.stop.label       "Titikirisäx chik rik'in ri tzijïl taq tz'aqat">
 <!ENTITY helpSafeMode.stop.accesskey   "T">
 
 <!ENTITY healthReport2.label      "Rutzijol raxnaqil richin &brandShorterName;">

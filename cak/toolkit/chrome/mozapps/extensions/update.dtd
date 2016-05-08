@@ -9,7 +9,7 @@
 <!ENTITY  offline.toggleOffline.label     "Tiq'ax wakami pa rub'anikil okem pa k'amaya'l.">
 <!ENTITY  offline.toggleOffline.accesskey "T">
 
-<!ENTITY  mismatch.win.title              "E k'o taq tz'aqat ri man nikik'äm ta ki'">
+<!ENTITY  mismatch.win.title              "Taq tz'aqat man nikik'äm ta ki'">
 <!ENTITY  mismatch.top.label              "Re taq tz'aqat re' man nikik'äm ta ki' rik'in re ruwäch re' &brandShortName; ruma toq xechup:">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; nitikïr nunik'oj we e k'o taq ruwäch ri nikik'äm ki' e k'o kichin re taq tz'aqat re'.">
 

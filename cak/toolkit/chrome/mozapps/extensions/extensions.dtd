@@ -10,11 +10,11 @@
 <!ENTITY search.commandkey                    "p">
 
 <!ENTITY loading.label                        "Tajin nujotob’a’…">
-<!ENTITY listEmpty.installed.label            "Man k'o ta ruwäch re taq atz'aqat eyakon">
+<!ENTITY listEmpty.installed.label            "Man ayakon ta re ruwäch tz'aqat re'">
 <!ENTITY listEmpty.availableUpdates.label     "Majun taq k'exoj ruwäch xe'ilitäj ">
 <!ENTITY listEmpty.recentUpdates.label        "Majun k'ak'a' k'exoj ab'anon chi ke ri taq tz'aqat">
 <!ENTITY listEmpty.findUpdates.label          "Kekanöx taq jaloj">
-<!ENTITY listEmpty.search.label               "Man xe'ilitäj ta taq qasan ri nikixïm ki'.">
+<!ENTITY listEmpty.search.label               "Man xe'ilitäj ta taq tz'aqat ri nikixïm ki'">
 <!ENTITY listEmpty.button.label               "Tetamäx ch'aqa' chik chi kij ri taq tz'aqat">
 <!ENTITY installAddonFromFile.label           "Tiyak ri tz'aqat rik'in ri yakb'äl…">
 <!ENTITY installAddonFromFile.accesskey       "T">
@@ -68,7 +68,7 @@
 <!ENTITY updates.resetUpdatesToManual.label          "Titzolïx chi kij konojel ri taq tz'aqat richin kek'ex pa chi q'ab'aj.">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "T">
 <!ENTITY updates.updating.label               "Tajin yek'ex ri taq tz'aqat">
-<!ENTITY updates.installed.label              "Xek'extäj re taq ak'exoj re'.">
+<!ENTITY updates.installed.label              "Xek'extäj re taq atz'aqat re'.">
 <!ENTITY updates.downloaded.label             "Xeq'at ri kik'exoj ri taq atz'aqat.">
 <!ENTITY updates.restart.label                "Tatikirisaj chik wakami richin natz'aqatisaj ri yakoj">
 <!ENTITY updates.noneFound.label              "Majun taq k'exoj ruwäch xe'ilitäj ">
@@ -180,7 +180,7 @@
 <!ENTITY search.filter2.installed.label       "Taq nutz'aqat">
 <!ENTITY search.filter2.installed.tooltip     "Kek'ut pe ri taq tz'aqat eyakon">
 <!ENTITY search.filter2.available.label       "Taq tz'aqat ri e k'o">
-<!ENTITY search.filter2.available.tooltip     "Kek'ut pe ri taq tzaqat e k'o richin yeyak">
+<!ENTITY search.filter2.available.tooltip     "Kek'ut pe ri taq tz'aqat e k'o richin yeyak">
 
 <!ENTITY addon.homepage                       "Ruxaq tikirisab'äl">
 <!ENTITY addon.details.label                  "Ch'aqa' chik">
@@ -237,7 +237,7 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Re taq tz'aqat re' man xenik'öx ta richin ye'okisáx pa &brandShortName;. Tatikïr">
+<!ENTITY disabledUnsigned.description.start "Re taq tz'aqat re' man xenik'öx ta richin ye'okisáx pa &brandShortName;. Tatikïr ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "Ke'ilitäj taq jalwachinïk">
 <!ENTITY disabledUnsigned.description.end " tik'utüx chi re ri nuk'unel chi kerunik'oj.">
 <!ENTITY disabledUnsigned.learnMore "Tetamäx ch'aqa' chik pa ruwi' ri qarayib'al richin yatqato' chi k'o achajinik pa k'amab'ey.">

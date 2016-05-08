@@ -111,7 +111,7 @@ values from browser.dtd.  -->
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "Ketz'ij ri taq kikaxa taq samajib'äl richin kichojmirisaxik ri chrome richin okik'amaya'l chuqa' richin ri tz'aqat">
-<!ENTITY options.enableChrome.tooltip3  "We natzïj re cha'oj re', nuya' q'ij chi ye'awokisaj k'ïy taq kisamajib'al nuk'unela' pa rokem ri okik'amaya'l (rik'in ri Taq Samajib'äl > B'anel web > Kikaxa taq rusamajib'al okik'amaya'l) chuqa' yechojmirisäx taq tz'aqa pa kinuk'samajela' taq tz'aqat">
+<!ENTITY options.enableChrome.tooltip3  "We natzïj re cha'oj re', nuya' q'ij chi ye'awokisaj k'ïy taq kisamajib'al nuk'unela' pa rokem ri okik'amaya'l (rik'in ri Taq Samajib'äl > B'anel web > Kikaxa taq rusamajib'al okik'amaya'l) chuqa' yechojmirisäx taq tz'aqat pa kinuk'samajela' taq tz'aqat">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -152,7 +152,7 @@ values from browser.dtd.  -->
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
 
-<!ENTITY options.selectAdditionalTools.label  "Taq kisamajib'al b'anel eyakon rik'in taq tz'aqat">
+<!ENTITY options.selectAdditionalTools.label  "Taq kisamajib'al b'anel eyakon kik'in taq tz'aqat">
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
