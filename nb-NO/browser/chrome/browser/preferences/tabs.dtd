@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       "Advar når åpning av mange faner samtidig kan gjøre &brandShortName; treg">
 <!ENTITY warnOpenManyTabs.accesskey   "d">
 
-<!ENTITY restoreTabsOnDemand.label        "Ikke last inn faner før de velges">
-<!ENTITY restoreTabsOnDemand.accesskey    "I">
-
 <!ENTITY switchToNewTabs.label        "Når jeg åpner en lenke i en ny fane, bytt til fanen med en gang">
 <!ENTITY switchToNewTabs.accesskey    "N">
 
