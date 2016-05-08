@@ -34,7 +34,7 @@
 <!ENTITY report.disabled                                     "Xchup ri rutzijol sachoj.">
 <!ENTITY report.failed                                       "Man xtikïr ta xutäq.">
 <!ENTITY report.unavailable                                  "Majun rutzijol niwachin.">
-<!ENTITY report.comment                                      "Tatz'aqatisäx jun rutzijol (ri taq rutzijol konojel winaqi' yetz'eton)">
+<!ENTITY report.comment                                      "Titz'aqatisäx jun rutzijol (ri taq rutzijol konojel winaqi' yetz'eton)">
 <!ENTITY report.pageURL                                      "Tatz'aqatisaj ri URL richin ri ruxaq k'amaya'l">
 
 <!ENTITY plugin.file                                         "Yakb'äl">

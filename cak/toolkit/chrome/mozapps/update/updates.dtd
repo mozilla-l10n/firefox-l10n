@@ -64,12 +64,12 @@
 <!ENTITY  errorCertAttrHasUpdate.label    "K'o jun ri nutojtob'ej nuq'öl ri &brandShortName; richin tuk'ulu' jun itzel k'exoj ruwäch. Kab'etzijon rik'in ri aya'öl b'ey chuqa' takanoj ato'ik.">
 
 <!ENTITY  finishedPage.title              "Ütz chik ri k'exoj ruwäch richin niyak">
-<!ENTITY  finishedPage.text               "Ri k'exoj ruwäch xtuyäk ri' toq xtatikirisaj chik ri &brandShortName;. Ütz natikirisaj chik  &brandShortName; wakami chanin, chuqa' ütz yasamäj k'a ri' ütz nitikirisaj jub'a' chik na.">
+<!ENTITY  finishedPage.text               "Xtiyake ri k'exoj ruwäch toq xtatikirisaj chik &brandShortName;. Wakami ütz natikirisaj chik &brandShortName; ütz chuqa' yasamäj chuqa' natikirisaj chik el pa jun chik ti mej.">
 
 <!ENTITY  finishedBackgroundPage.text     "Xqasäx jun k'exoj ruwäch richin chajinïk chuqa' richin chi k'äs ri &brandShortName; chuqa' ütz chik richin niyak chupam.">
 <!ENTITY  finishedBackground.name         "K'exoj ruwäch:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Ri k'exoj ruwäch xtiyak chupam toq xtatikirisaj chik ri &brandShortName;. Ütz natikirisaj chik ri &brandShortName; wakami chanin, chuqa' ütz yasamäj k'a ri' ütz natikirisaj jub'a' chik na.">
+<!ENTITY  finishedBackground.more         "Xtiyake ri k'exoj ruwäch toq xtatikirisaj chik &brandShortName;. Wakami ütz natikirisaj chik &brandShortName; ütz chuqa' yasamäj chuqa' natikirisaj chik el pa jun chik ti mej.">
 
 <!ENTITY  installed.title                 "Xyak ri k'exoj ruwäch">
 <!ENTITY  installed.intro                 "Ütz xyake' chupam ri k'exoj ruwäch.">

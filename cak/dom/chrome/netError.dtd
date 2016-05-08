@@ -77,7 +77,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Ri okik'amaya'l man xuya' ta q'ij chi xjaqatäj ri ruxaq k'amaya'l, ruma ri ruxaq k'amaya'l k'o runa'oj pa ruwi' chajinïk, ri man nuya' ta q'ij.</p>">
 
 <!ENTITY corruptedContentError.title "Sachoj ruma itzel rupam">
-<!ENTITY corruptedContentError.longDesc "<p>Man tikirel ta nik'ut pe ri ruxaq k'amaya'l nawajo' najäq ruma xtz'etetäj pe jun sachoj richin yeruk'utub'ej pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Man tikirel ta nik'ut pe ri ruxaq natojtob'ej natz'ët ruma xtz'etetäj pe jun sachoj richin yeruq'alajisaj pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
 <!ENTITY remoteXUL.title "Näj XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul></p>">

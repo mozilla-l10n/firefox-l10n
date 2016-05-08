@@ -37,7 +37,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Xk'is yan ruq'ijul ri wuj">
-<!ENTITY notCached.longDesc "<p>Man niq'alaj ta chik pa &brandShortName; jumejyak ri wuj nik'utüx.</p><ul><li> ri wuj nakanoj. Achi'el jun rub'eyal richin nichajin, &brandShortName; man nuk'utuj ta chik pa ruyonil chajin taq wuj.</li><li>Tapitz'a' qa pa Titojtob'ëx chik richin nik'utüx chik ri wuj chupam ri k'amaya'l.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Man niq'alajin ta chik pa &brandShortName; jumejyak ri wuj nik'utüx.</p><ul><li>.Achi'el jun rub'eyal richin nichajin, &brandShortName; man nuk'utuj ta chik pa ruyonil chajin taq wuj.</li><li>Tapitz'a' qa pa Titojtob'ëx chik richin nik'utüx chik ri wuj chupam ri k'amaya'l.</li></ul>">
 
 <!ENTITY netOffline.title "Pa rub'eyal majun okem">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Tapitz&apos;a&apos; &quot;Titojtob&apos;ëx chik&quot; richin niq&apos;ax pa majun okem chuqa&apos; tok chik pa ruxaq.</li> </ul>">
@@ -84,7 +84,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xok pa re rub'eyal re' ruma chi ri ruxaq k'amaya'l ruchajin jun runa'ojil ruchajinik rupam, ri man nuya' ta q'ij.</p>">
 
 <!ENTITY corruptedContentError.title "Sachoj pan itzel rupam">
-<!ENTITY corruptedContentError.longDesc "<p>Ri ruxaq natojtob'ej natz'ët man tikirel ta nik'ut pe ruma xtz'etetäj pe jun sachoj richin yeruq'alajisab'ej pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Man tikirel ta nik'ut pe ri ruxaq natojtob'ej natz'ët ruma xtz'etetäj pe jun sachoj richin yeruq'alajisaj pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ruya'ik jun man okel ta…">
@@ -115,4 +115,4 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "Man ütz ta ri awokem">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> nrokisaj k'ak'a' samaj richin jikomal, ri e ojer chuqa' man k'ayew ta yeq'eleb'ëx. Jun q'eleb'enel chanin nuya' rutzijol ri etamab'äl, ri nina'ojïx chi e chajin. Ri runuk'samajel ruxaq k'amaya'l k'o chi nutz'ët nab'ey ri ruk'u'x samaj chuwäch nitikïr nutz'ët ri ruxaq k'amaya'l.</p><p>Runimatz'ib' sachoj: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> nrokisaj k'ak'a' samaj richin jikomal, ri e ojer chuqa' man k'ayew ta yeq'eleb'ëx. Jun q'eleb'enel chanin nuya' rutzijol ri etamab'äl, ri nina'ojïx chi echajin. Ri runuk'samajel ruxaq k'amaya'l k'o chi nutz'ët nab'ey ri ruk'u'x samaj chuwäch nitikïr nutz'ët ri ruxaq k'amaya'l.</p><p>Runimatz'ib' sachoj: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
