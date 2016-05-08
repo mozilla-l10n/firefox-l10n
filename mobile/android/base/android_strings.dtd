@@ -525,7 +525,7 @@ size. -->
 <!ENTITY button_clear_data "Məlumatları təmizlə">
 <!ENTITY button_set "Qur">
 <!ENTITY button_clear "Təmizlə">
-<!ENTITY button_copy "Kopyala">
+<!ENTITY button_copy "Köçür">
 
 <!ENTITY home_top_sites_title "Qabaqcıl saytlar">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -536,9 +536,9 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; Ana Səhifə">
 <!ENTITY home_history_title "Tarixçə">
-
-
-
+<!ENTITY home_synced_devices_smartfolder "Sinxronlaşdırılmış cihazlar">
+<!ENTITY home_synced_devices_number "&formatD; cihaz">
+<!ENTITY home_history_back_to2 "Bütün Tarixçəyə geri dön">
 <!ENTITY home_clear_history_button "Səyahət keçmişini təmizlə">
 <!ENTITY home_clear_history_confirm "Keçmişi təmizləmək istədiyinizə əminsiniz?">
 <!ENTITY home_bookmarks_empty "Saxladığınız əlfəcinlər burada görünür.">
