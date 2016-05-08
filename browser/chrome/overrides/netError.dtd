@@ -126,10 +126,14 @@ was trying to connect. -->
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Información avanzada: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Avanzao">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa teunoloxía de seguranza obsoleta y vulnerable p'atacar. Un atacante pue revelar, de mou mui cenciellu, información que se pensaba que taba segura.">
+<!ENTITY weakCryptoAdvanced.override "(Non seguro) Tratando de cargar <span class='hostname'></span> usando seguridá obsoleta">
 
 <!ENTITY certerror.pagetitle1  "Conexón insegura">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Esti sitiu usa HTTP Strict Transport Security (HSTS) pa especificar que &brandShortName; namái se coneuta a él de mou seguru. Como resultáu, nun ye dable amestar una esceición pa esti certificáu.">
 <!ENTITY certerror.copyToClipboard.label "Copiar testu al cartafueyu">
 
 <!ENTITY inadequateSecurityError.title "La to conexón nun ye segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>usa teunoloxía de seguranza obsoleta y vulnerable a ataques. Un atacante pue, de mou cenciellu, revelar información que pensabes que taba a salvu. L'alministrador del sitiu web tendría d'iguar el sirvidor enantes de que puedas visitar esti sitiu.</p><p>Códigu de fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
