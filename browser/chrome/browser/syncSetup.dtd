@@ -47,7 +47,7 @@
 <!ENTITY recoveryKeyEntry.label        "Bərpa açarınız">
 <!ENTITY recoveryKeyEntry.accesskey    "B">
 <!ENTITY syncGenerateNewKey.label  "Yeni bir açar yarat">
-<!ENTITY recoveryKeyBackup.description "Bərpa açarınız digər avadanlıqlarda &syncBrand.fullName.label; məlumatlarınızı əldə etməyə kömək edər. Lütfən onu kopyalayın. Bərpa açarınızı geri almağa kömək edə bilmərik.">
+<!ENTITY recoveryKeyBackup.description "Bərpa açarınız digər avadanlıqlarda &syncBrand.fullName.label; məlumatlarınızı əldə etməyə kömək edər. Lütfən onu nüsxələyin. Bərpa açarınızı geri almağa kömək edə bilmərik.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Çap et…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
@@ -69,7 +69,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Daxil ol">
-<!ENTITY existingRecoveryKey.description "Bərpa açarınızın bir kopyasını əldə etmək üçün digər cihazınızda &syncBrand.shortName.label; Seçimlərinə girin və &quot;Hesabı idarə et&quot; altından&quot;Bərpa açarım&quot;ı seçin.">
+<!ENTITY existingRecoveryKey.description "Bərpa açarınızın bir nüsxəsini əldə etmək üçün digər cihazınızda &syncBrand.shortName.label; Seçimlərinə girin və &quot;Hesabı idarə et&quot; altından&quot;Bərpa açarım&quot;ı seçin.">
 <!ENTITY verifying.label              "Təsdiqlənir…">
 <!ENTITY resetPassword.label          "Şifrəni sıfırla">
 <!ENTITY resetSyncKey.label           "Diğer aygıtımı kaybettim.">
@@ -101,7 +101,7 @@
 <!ENTITY setup.optionsConfirmPage.title "Təsdiqləyin">
 
 <!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; daha sonra sizin &syncBrand.fullName.label; məlumatlarınızı bu cihaza nüsxələyəcək.">
 <!ENTITY confirm.server2.label         "Xəbərdarlıq: Aşağıdakı məlumatlar bu kompüterdəki məlumatlarınızla dəyişdiriləcək:">
 <!-- New & Existing Account: Setup Complete -->
 

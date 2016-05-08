@@ -28,12 +28,12 @@
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "Kopyala">
+<!ENTITY copyPref.label "Köçür">
 <!ENTITY copyPref.accesskey "K">
-<!ENTITY copyName.label "Parametr adını kopyala">
-<!ENTITY copyName.accesskey "k">
-<!ENTITY copyValue.label "Dəyəri kopyala">
-<!ENTITY copyValue.accesskey "o">
+<!ENTITY copyName.label "Adı Köçür">
+<!ENTITY copyName.accesskey "K">
+<!ENTITY copyValue.label "Dəyəri Köçür">
+<!ENTITY copyValue.accesskey "y">
 <!ENTITY modify.label "Dəyərini dəyiş">
 <!ENTITY modify.accesskey "d">
 <!ENTITY toggle.label "Çevir">

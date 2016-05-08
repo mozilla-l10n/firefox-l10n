@@ -25,7 +25,7 @@
 <!ENTITY filter2.label      "Filtr:">
 <!ENTITY filter2.accesskey  "F">
 
-<!ENTITY copyCmd.label       "Kopyala">  
+<!ENTITY copyCmd.label       "Köçür">  
 <!ENTITY copyCmd.accesskey   "K"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "İlk > Son  sıralama parametri">
