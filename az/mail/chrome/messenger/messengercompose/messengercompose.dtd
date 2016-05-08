@@ -63,9 +63,9 @@
 
 
 
+<!ENTITY copyCmd.label "Köçür">
 
-
-
+<!ENTITY copyCmd.accesskey "K">
 
 
 
@@ -193,7 +193,7 @@
 
 
 
-
+<!ENTITY copyButton.tooltip             "Köçür">
 
 
 <!-- Headers -->
@@ -237,8 +237,8 @@
 
 
 
-
-
+<!ENTITY copy.label "Köçür">
+<!ENTITY copy.accesskey "K">
 
 
 
