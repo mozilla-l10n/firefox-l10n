@@ -38,7 +38,7 @@
 <!ENTITY community.creditsLink      "cộng đồng toàn cầu">
 <!ENTITY community.end3             " cùng chung sức bảo vệ Web mở và cho phép ai cũng truy cập được.">
 
-<!ENTITY helpus.start               "Bạn muốn giúp đỡ?">
+<!ENTITY helpus.start               "Bạn muốn giúp đỡ? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "Quyên góp tài chính">
 <!ENTITY helpus.middle              ", hoặc ">

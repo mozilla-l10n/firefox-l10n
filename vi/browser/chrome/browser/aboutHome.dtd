@@ -21,8 +21,8 @@
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; là một phần mềm tự do nguồn mở từ Quỹ Mozilla, quỹ phi lợi nhuận. <a>Tìm hiểu các quyền của bạn…</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "Đánh dấu trang">
-<!ENTITY abouthome.historyButton.label   "Nhật ký duyệt web">
+<!ENTITY abouthome.bookmarksButton.label "Trang đánh dấu">
+<!ENTITY abouthome.historyButton.label   "Lịch sử">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
 <!ENTITY abouthome.preferencesButtonWin.label  "Tùy chỉnh">
@@ -30,7 +30,7 @@
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "Tùy chỉnh">
 <!ENTITY abouthome.addonsButton.label    "Tiện ích">
-<!ENTITY abouthome.downloadsButton.label "Các tập tin tải về">
+<!ENTITY abouthome.downloadsButton.label "Tập tin tải về">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
      the mozilla wordmark in the top-right corner that links to Mozilla's main
