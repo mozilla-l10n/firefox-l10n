@@ -43,7 +43,7 @@
 <!ENTITY  crash_send_report_message3 "Tiya\u0027 rutzijol chi re ri &vendorShortName; chi rij re sachoj re\u0027 richin tub\u0027ana\u0027 rutzil">
 <!ENTITY  crash_include_url2 "Tiya\u0027 qa ri rochochib\u0027al ruxaq k\u0027amaya\u0027l akuchi\u0027 in k\u0027o wi kan">
 <!ENTITY  crash_sorry "Naküy qamak">
-<!ENTITY  crash_comment "Titz\u0027aqatisäx jun tzijol (ri taq tzijol konojel winaqi\u0027 yetz\u0027eton)">
+<!ENTITY  crash_comment "Titz\u0027aqatisäx jun rutzijol (ri taq rutzijol konojel winaqi\u0027 yetz\u0027eton)">
 <!ENTITY  crash_allow_contact2 "Tiya\u0027 q\u0027ij chi re &vendorShortName; kirukanoj pa ruwi\u0027 re jun rutziol re\u0027">
 <!ENTITY  crash_email "Ataqoya\u0027l">
 <!ENTITY  crash_closing_alert "¿Tel na el, majun rutzijol sachoj titaq?">
@@ -463,7 +463,7 @@ size. -->
 <!ENTITY contextmenu_top_sites_edit "Tinuk\u0027">
 <!ENTITY contextmenu_top_sites_pin "Rajilab\u0027al ruxaq k\u0027amaya\u0027l">
 <!ENTITY contextmenu_top_sites_unpin "Unpin ruxaq k\u0027amaya\u0027l">
-<!ENTITY contextmenu_add_search_engine "Titz\u0027aqatisäx jun rusamajinel kanonel">
+<!ENTITY contextmenu_add_search_engine "Titz\u0027aqatisäx jun kanob\u0027äl">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -667,12 +667,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY exit_guest_session "Tel el pa ri moloj kichin peyonela\u0027">
 <!ENTITY guest_session_dialog_continue "Titikïr chik el">
 <!ENTITY guest_session_dialog_cancel "Tiq\u0027at">
-<!ENTITY new_guest_session_title "&brandShortName; wakami xtitikirisäx chik">
+<!ENTITY new_guest_session_title "&brandShortName; xtitikirisäx chik el wakami">
 <!ENTITY new_guest_session_text2 "Ri winaqi\u0027 xke\u0027okisan richin, man xketikïr ta xkekitz\u0027ët ri taq atzij richin awokik\u0027amaya\u0027l (achi\u0027el taq ewan tzij, k\u0027ulwachinel chuqa\u0027 yakäl etal eyakon).\n\nToq xtuk\u0027ïs ri apeyonel, ri taq rutzij richin okik\u0027amaya\u0027l xkeyuj el chuqa\u0027 xtitzolïx ruwäch ri amoloj.">
 <!ENTITY guest_browsing_notification_title "Tzijon ri ula\u0027 okem pa k\u0027amaya\u0027l">
 <!ENTITY guest_browsing_notification_text "Tapitz\u0027a\u0027 richin yatel">
 
-<!ENTITY exit_guest_session_title "&brandShortName; wakami xtitikïr chik">
+<!ENTITY exit_guest_session_title "&brandShortName; xtitikirisäx chik el wakami">
 <!ENTITY exit_guest_session_text "Ri kanonel taq rutzij re moloj re\u0027 xkeyuj el.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
