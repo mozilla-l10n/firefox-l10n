@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>¿Rik'in jub'a' chi tajin nisik'ïx chik, xyujtäj o xk'ex rub'ey ri ch'akulal?</li><li>¿La k'o jun sachoj pa ruwi' rutz'ib'axik, nimatz'ib' o jun chik chi sachoj toq xtz'ib'äx ri ochochib'äl?</li><li>¿La kiya'on aq'ij richin yatok chupam ri ch'akulal xk'utüx?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Xq'at rutz'etik ri yakb'äl">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>Rik'in jub'a' xyuj el, xsilöx el o ri ruya'oj q'ij yakb'än niq'aton rutz'etik.</li></ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Rik'in jub'a' xyuj el, xsilöx el o ri niya'on q'ij chi ke ri yakb'äl niq'ato rutz'etik.</li></ul>">
 
 <!ENTITY generic.title "Man xtikïr ta xutz'aqatisaj ri k'utunïk">
 <!ENTITY generic.longDesc "<p>Majun na'oj k'o chi rij re k'ayewal o sachoj re'.</p>">
@@ -38,10 +38,10 @@
 <!ENTITY netOffline.longDesc2 "<p>Ri okik&apos;amaya&apos;l tajin nisamäj pa rub&apos;eyal majun okem pa k&apos;amaya&apos;l, ruma ri&apos; toq man tikirel ta nok pa ri ch&apos;akulal nik&apos;utüx chi re.</p><ul><li>¿La okinäq ri kematz&apos;ib&apos; pa jun tzijïl k&apos;amab&apos;ey?</li><li>Tapitz&apos;a&apos; &quot;Titojtob&apos;ëx chik&quot; richin tiq&apos;ax pa rub&apos;eyal okem pa k&apos;amaya&apos;l chuqa&apos; tisamajib&apos;ëx chik ri ruxaq k&apos;amaya&apos;l.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Sachoj pa ruwi' rucholajil rupam">
-<!ENTITY contentEncodingError.longDesc "<p>Ri ruxaq k'amaya'l k'utun man tikirel ta nisamajib'ëx ruma jun ruwäch chi ch'utinisanïk, ri man koch'el ta o man okel ta.</p><ul><li>Katzijon kik'in ri rajwaw ruxaq k'amaya'al richin natzijoj chi ke pa ruwi' re k'ayewal re'.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Ri ruxaq k'amaya'l k'utun man tikirel ta nisamajib'ëx ruma jun ruwäch chi ch'utinisanïk, ri man koch'el ta o man okel ta.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Itzel ruwäch chi yakb'äl">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Tab'ana' utzil, ke'atz'ib'aj el ri rajaw ruxaq k'amaya'l richin naya' rutzijol re k'ayewal re'.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li> </ul>">
 
 <!ENTITY netReset.title "Xq'at ri okem pa k'amaya'l">
 <!ENTITY netReset.longDesc "<p>Xq'at ri ximonel toq nitzijöx rij ri okem pa k'amaya'l. Tatojtob'ej jumul chik.</p>">
@@ -65,7 +65,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Ri okik'amaya'l man nitikïr ta chik nusamajib'ej ri tzolin rutzij ruxaq k'amaya'l.</p>">
 
 <!ENTITY nssFailure2.title "Man xtikïr ta rik'in ri ütz okem">
-<!ENTITY nssFailure2.longDesc2 "<p>Man tikirel ta ninik'öx chi e qitzij ri taq tzij xek'ul, man xtik'ut ta pe ri ruxaq k'amaya'l.</p><ul><li>Katzijon kik'in ri e pa'äl chuwäch ri ruxaq k'amaya'l richin naya' rutzijol chi ke pa ruwi' re k'ayewal re'.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Man tikirel ta ninik'öx chi e qitzij ri taq tzij xek'ul, man xtik'ut ta pe ri ruxaq k'amaya'l.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
 <!ENTITY nssBadCert.title "Man xtikïr ta rik'in ri ütz okem">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Rik'in jub'a' jun ruk'ayewal ri runuk'ulem ruk'u'x samaj, o chuqa' k'o ri tajin nik'exo ri ruk'u'x samaj.</li> <li>We at jikïl chi atokinäq chik ütz pa re ruk'u'x samaj re', ri sachoj xa xe jun ti mej, ruma ri' tikirel natojtob'ej pa jun chik ch'uti ramaj.</li> </ul>">
@@ -77,10 +77,10 @@
 <!ENTITY cspBlocked.longDesc "<p>Ri okik'amaya'l man xuya' ta q'ij chi xjaqatäj ri ruxaq k'amaya'l, ruma ri ruxaq k'amaya'l k'o runa'oj pa ruwi' chajinïk, ri man nuya' ta q'ij.</p>">
 
 <!ENTITY corruptedContentError.title "Sachoj ruma itzel rupam">
-<!ENTITY corruptedContentError.longDesc "<p>Man tikirel ta nik'ut pe ri ruxaq k'amaya'l nawajo' najäq ruma xtz'etetäj pe jun sachoj richin yeruk'utub'ej pe ri taq tzij.</p><ul><li>Tab'ana' utzil, ke'atz'ib'aj el ri e rajaw ruxaq k'amaya'l richin naya' rutzijol chi ke re k'ayewal re'</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Man tikirel ta nik'ut pe ri ruxaq k'amaya'l nawajo' najäq ruma xtz'etetäj pe jun sachoj richin yeruk'utub'ej pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
 <!ENTITY remoteXUL.title "Näj XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, tatz'ib'aj el chi ke ri rajaw ri ruxaq k'amaya'l richin naya' rutzijol re k'ayewal re'.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Man ütz ta ri awokem">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate

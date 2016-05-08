@@ -25,10 +25,10 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Tanik'oj chi majun sachoj pa rub'i' ri yakb'äl achi'el rutz'ib'axik, achi'el chuqa' rokisaxik nimatz'ib'.</li> <li>Tanik'oj we ri yakb'äl xsilöx el, xk'ex rub'i' o xyuj el</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Xq'at rutz'etik ri yakb'äl">
-<!ENTITY fileAccessDenied.longDesc "<ul> <li>Rik'in jub'a' xyuj el, xsilöx el o ri ruya'oj q'ij yakb'äl niq'aton rutz'etik.</li> </ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Rik'in jub'a' xyuj el, xsilöx el o ri niya'on q'ij chi ke ri yakb'äl niq'ato rutz'etik.</li> </ul>">
 
 <!ENTITY generic.title "¡Uy!">
-<!ENTITY generic.longDesc "<p>&brandShortName; k'o jun aruma man yitikïr ta yinok chupam re ruxaq k'amaya'l re'.</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName; k'o jun achoq uma toq man nutikirisaj ta el re jun ruxaq k'amaya'l re'.</p>">
 
 <!ENTITY malformedURI.title "Man nuxïm ta ri' ri ochochib'äl">
 <!ENTITY malformedURI.longDesc "<ul><li>Ri rochochib'al taq ruxaq k'amaya'l junelïk yetz'ib'äx achi'el <strong>http://www.example.com/</strong></li> <li>Tanik'oj chi tajin ye'awokisaj ri e ütz raq'arïk taq juch' (i.e. <strong>/</strong>).</li> </ul>">
@@ -43,10 +43,10 @@
 <!ENTITY netOffline.longDesc2 "<ul> <li>Tapitz&apos;a&apos; &quot;Titojtob&apos;ëx chik&quot; richin niq&apos;ax pa majun okem chuqa&apos; tok chik pa ruxaq.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Sachoj pa ruwi' rucholajil rupam">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Tab'ana' utzil, ke'atz'ib'aj el ri rajaw ruxaq k'amaya'l richin naya' rutzijol re k'ayewal re'.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Itzel ruwäch chi yakb'äl">
-<!ENTITY unsafeContentType.longDesc "<ul>     <li>Ke'atz'ib'aj el ri rajaw ruxaq k'amaya'l richin naya' rutzijol re k'ayewal re'.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li> </ul>">
 
 <!ENTITY netReset.title "Ri okem xtikirisäx chik">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -70,7 +70,7 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Tanik'oj chi ruk'wan ri ichina nuk'unel ri aq'inoj richin chajinïk, yakon.</li> <li>Ke ri' rik'in jub'a' ruma ri pa rub'eyal runuk'ulem ruk'u'x samaj.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Xq'ate' ri ütz okem">
-<!ENTITY nssFailure2.longDesc2 "<ul>     <li>Man tikirel ta niq'alajisäx pe ri ruxaq k'amaya'l tajin natojtob'ej najäq ruma ri rujikib'axik taq tzij k'ulun man tikirel ta nijikib'äx.</li>  <li>Tab'ana' utzil, ke'atz'ib'aj el ri e rajaw ruxaq k'amaya'l richin naya' rutzijol chi ke re k'ayewal re'.</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Man tikirel ta nik'ut pe ri ruxaq tajin natojtob'ej najäq ruma man tikirel ta nijikib'äx nitz'et chi e qitzij ri taq tzij.</li> <li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Man ütz ta ri awokem">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
@@ -84,7 +84,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xok pa re rub'eyal re' ruma chi ri ruxaq k'amaya'l ruchajin jun runa'ojil ruchajinik rupam, ri man nuya' ta q'ij.</p>">
 
 <!ENTITY corruptedContentError.title "Sachoj pan itzel rupam">
-<!ENTITY corruptedContentError.longDesc "<p>Ri ruxaq natojtob'ej natz'ët man tikirel ta nik'ut pe ruma xtz'etetäj pe jun sachoj richin yeruq'alajisab'ej pe ri taq tzij.</p><ul><li>Katz'ib'an el chi ke ri e rajaw ruxaq k'amaya'l richin naya' rutzijol chi ke pa ruwi' re k'ayewal re'</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Ri ruxaq natojtob'ej natz'ët man tikirel ta nik'ut pe ruma xtz'etetäj pe jun sachoj richin yeruq'alajisab'ej pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ruya'ik jun man okel ta…">
@@ -93,7 +93,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Tetamäx ch'aqa' chik…">
 
 <!ENTITY remoteXUL.title "Näj XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, ke'atz'ib'aj el chi ke ri rajaw ri ruxaq k'amaya'l richin naya' rutzijol re k'ayewal re'.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Man tikirel ta nib'an okem pa rub'eyal">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
