@@ -197,7 +197,7 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "&brandShortName; Rutikirib\u0027al">
+<!ENTITY home_homepage_radio_default "Rutikirib\u0027al &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -387,12 +387,12 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "Tzijonel richin ri taq sachoj &brandShortName;">
+<!ENTITY datareporting_fhr_title "Rutzijol Raxnaqil &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Tikomonïx tzij rik\u0027in ri &vendorShortName; chi rij rub\u0027eyal ri awokik\u0027amaya\u0027l richin yatkito\u0027 chi niq\u0027ax pan awi\u0027 ri rub\u0027eyal nisamäj">
 <!ENTITY datareporting_abouthr_title "Tintz\u0027eta\u0027 ri nutzijol richin rub\u0027anikil">
 <!ENTITY datareporting_telemetry_title "Etataqonel">
 <!ENTITY datareporting_telemetry_summary "Tikomonïx rub\u0027eyal nisamäj, rokisaxik, ruch\u0027akul chuqa\u0027 richinaxik tzij chi rij ri awokik\u0027amaya\u0027l rik\u0027in ri &vendorShortName; richon yojato\u0027 ninuk rutzil ri &brandShortName; ütz">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; tataqa\u0027 taq rutzijol sachoj richin nato\u0027 &vendorShortName; richin chi jik chuqa\u0027 ütz nisamäj ri awokik\u0027amaya\u0027l">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; yerutäq kitzijol taq sachoj richin nuto\u0027 &vendorShortName; chi nub\u0027än jun raxinäq chuqa\u0027 ütz awokik\u0027amaya\u0027l">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Tzijonel taq sachoj">
