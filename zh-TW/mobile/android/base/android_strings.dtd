@@ -536,7 +536,9 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; 首頁">
 <!ENTITY home_history_title "瀏覽紀錄">
-<!ENTITY home_history_back_to "回到全部歷史紀錄">
+<!ENTITY home_synced_devices_smartfolder "已同步的裝置">
+<!ENTITY home_synced_devices_number "&formatD; 台裝置">
+<!ENTITY home_history_back_to2 "回到完整瀏覽紀錄">
 <!ENTITY home_clear_history_button "清除瀏覽紀錄">
 <!ENTITY home_clear_history_confirm "您確定要清除瀏覽紀錄？">
 <!ENTITY home_bookmarks_empty "您儲存的書籤將會顯示於此處。">
