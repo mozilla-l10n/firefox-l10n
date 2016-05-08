@@ -100,7 +100,7 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.override "(Qorumalı deyil) <span class='hostname'></span> üçün köhnə qoruma ilə yenidən yükləməyi yoxla">
 
 
-
+<!ENTITY certerror.copyToClipboard.label "Mətni buferə köçür">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

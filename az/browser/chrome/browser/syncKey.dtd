@@ -8,7 +8,7 @@
 
 <!ENTITY syncKey.keepItSafe.heading       "Onu qoruyun">
 <!ENTITY syncKey.keepItSafe1.description  "Bu açarı itirməyin.">
-
+<!ENTITY syncKey.keepItSafe2.description  " Açarınızın nüsxəsini saxlamırıq (yoxsa gizli olmazdı!), buna görə də onu itirsəniz ">
 
 
 <!ENTITY syncKey.findOutMore1.label       "&syncBrand.fullName.label; və gizliliyiniz haqqında daha çox məlumat almaq üçün ">

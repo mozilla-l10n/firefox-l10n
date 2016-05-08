@@ -6,18 +6,20 @@
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
 
-<!ENTITY inspectorHTMLCopyInner.label       "Daxili HTML-i kopyala">
+<!ENTITY inspectorHTMLCopyInner.label       "Daxili HTML-i köçür">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "H">
 <!-- LOCALIZATION NOTE (inspectorHTMLCopyOuter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
 
-<!ENTITY inspectorHTMLCopyOuter.label       "Xarici HTML-i kopyala">
+<!ENTITY inspectorHTMLCopyOuter.label       "Xarici HTML-i köçür">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "X">
 <!-- LOCALIZATION NOTE (inspectorCopyUniqueSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
 
+<!ENTITY inspectorCopyUniqueSelector.label       "Unikal seçicini köçür">
+<!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteOuter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->

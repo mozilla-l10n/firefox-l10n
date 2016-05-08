@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Bütün Vərəqləri Əlfəcinlə…">
 <!ENTITY showAllBookmarks2.label "Bütün Əlfəcinləri Göstər">
 <!ENTITY recentBookmarks.label "Yeni Əlfəcinlənmiş">
-
+<!ENTITY otherBookmarksCmd.label "Digər Əlfəcinlər">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha çox əlfəcin göstər">
 
 <!ENTITY backCmd.label                "Geri">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Əlfəcinlər">
-
+<!ENTITY bookmarksMenuButton.other.label "Digər Əlfəcinlər">
 <!ENTITY viewBookmarksSidebar2.label        "Əlfəcin yan panelini göstər">
 <!ENTITY viewBookmarksToolbar.label         "Əlfəcin alət sətrini gör">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Kəs">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "K"> 
-
+<!ENTITY copyCmd.label            "Köçür">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Yapışdır">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "Y"> 
@@ -734,17 +734,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün vərəq sinxronizasiyasını aktivləşdirin.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Aç">
+<!ENTITY syncedTabs.context.open.accesskey                   "A">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Yeni Vərəqdə Aç">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "Y">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Yeni Pəncərədə Aç">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Yeni Məxfi Pəncərədə Aç">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bu Vərəqi Əlfəcinlə…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "l">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Köçür">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

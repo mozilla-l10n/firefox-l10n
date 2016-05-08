@@ -97,8 +97,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Quraşdırma tarixçəsi">
 <!ENTITY aboutSupport.updateHistoryTitle "Yenilənmə Tarixçəsi">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Mətni buferə köçür">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Xam məlumatı buferə köçür">
 
 <!ENTITY aboutSupport.sandboxTitle "Qum qutusu">
 

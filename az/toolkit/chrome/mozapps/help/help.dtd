@@ -14,7 +14,7 @@
 <!ENTITY forwardButton.label            "İrəli">
 <!ENTITY forwardButton.accesskey        "r">
 <!ENTITY forwardButton.tooltip          "Sonrakı səhifəyə keç">
-<!ENTITY copyCmd.label                  "Kopyala">
+<!ENTITY copyCmd.label                  "Köçür">
 <!ENTITY copyCmd.accesskey              "K">
 <!ENTITY selectAllCmd.label             "Hamısını Seç">
 <!ENTITY selectAllCmd.accesskey         "H">
