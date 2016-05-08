@@ -31,8 +31,8 @@
 <!ENTITY dataChoicesTab.label            "Kicha'ik taq tzij">
 
 <!ENTITY healthReportDesc.label          "Xkaruto' richin niq'ax pan awi' rub'eyal nisamäj ri owokik'amaya'l chuqa' nukomonij taq tzij rik'in &vendorShortName; chi rij ri raxnaqil">
-<!ENTITY enableHealthReport.label        "Titzij ri rucholik Raxnaqil &brandShortName; ">
-<!ENTITY enableHealthReport.accesskey    "r">
+<!ENTITY enableHealthReport.label        "Rutzijol Raxnaqil &brandShortName;">
+<!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Tetamäx ch'aqa' chik">
 
 <!ENTITY telemetryDesc.label             "Takomonij ri na'oj pa ruwi' rub'eyal nisamäj, ri rokisaxik, ch'akulakem chuqa' richinaxik okik'amaya'l rik'in &vendorShortName; richin chi ri &brandShortName; nel ütz">
@@ -40,7 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Tetamäx ch'aqa' chik">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; tataqa' taq rutzijol sachoj richin nato' &vendorShortName; richin chi jik chuqa' ütz nisamäj ri awokik'amaya'l">
+<!ENTITY crashReporterDesc.label         "&brandShortName; yerutäq kitzijol taq sachoj richin nuto' &vendorShortName; chi nub'än jun raxinäq chuqa' ütz awokik'amaya'l">
 <!ENTITY enableCrashReporter.label       "Titzij ri rutzijol taq sachoj">
 <!ENTITY enableCrashReporter.accesskey   "s">
 <!ENTITY crashReporterLearnMore.label    "Tetamäx ch'aqa' chik">

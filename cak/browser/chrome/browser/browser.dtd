@@ -686,7 +686,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Kitikirib'al taq molojri'ïl etz'ib'an pa re ruxaq k'amaya'l re' rik'in jub'a' ye'itzelan.">
 <!-- Strings for connection state warnings. -->
 
-<!ENTITY identity.activeBlocked "&brandShortName; xuq'ät ri  taq ruperaj man e ütz ta chi re re ruxaq re.">
+<!ENTITY identity.activeBlocked "&brandShortName; xeruq'ät ri itzel taq ruperaj re ruxaq re'.">
 <!ENTITY identity.passiveLoaded "K'o peraj chi re re ruxaq wuj re' ri man e ütz ta (achi'el ri taq wachib'äl).">
 <!ENTITY identity.activeLoaded "Xachüp ruchajixik re ruxaq re'.">
 <!ENTITY identity.weakEncryption "Re ruxaq re' nrokisaj yamayïk chi suq'ch'ab'äl.">
@@ -696,7 +696,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecureLoginForms "Ri retamab'al rutikirisanïk molojri'ïl xtatz'ib'aj pa re ruxaq k'amaya'l re' man chajin ta, ruma ri' rik'in jub'a' nitziläx.">
 <!ENTITY identity.description.weakCipher "Ri awokem pa re ruxaq k'amaya'l re' nrokisaj lawalïk skript ruma ri man ichinan ta.">
 <!ENTITY identity.description.weakCipher2 "Chaq'a' chik chi winaqi' yetikïr nikitz'ët ri awetamab'al o nikijalwachij ri rub'eyal nisamäj re ruxaq k'amaya'l re'.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; xuq'ät ri man e ütz ta taq ruperaj chi re re ruxaq re.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; xeruq'ät ri itzel taq ruperaj re ruxaq re'.">
 <!ENTITY identity.description.passiveLoaded "Man awichinan ta ri awokem pa k'amaya'l ruma ri' ronojel ri taq etamab'äl xke'akomonij rik'in re ruxaq k'amaya'l re' tikirel nikitz'ët juley chik winaqi'.">
 <!ENTITY identity.description.passiveLoaded2 "Re ruxaq k'amaya'l re' k'o itzel taq na'oj chupam (achi'el taq wachib'äl).">
 <!ENTITY identity.description.passiveLoaded3 "Stape' &brandShortName; xuq'ät jub'a' na'oj, junelïk k'o na'oj pa ri ruxaq ri man ütz ta (achi'el ri taq wachib'äl).">
