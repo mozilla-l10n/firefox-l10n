@@ -36,9 +36,9 @@
 
 
 
+<!ENTITY runtimeMenu_showDevicePrefs_label "การตั้งค่าอุปกรณ์">
 
-
-
+<!ENTITY runtimeMenu_showSettings_label "การตั้งค่าอุปกรณ์">
 
 
 <!ENTITY viewMenu_label "ดู">

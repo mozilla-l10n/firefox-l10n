@@ -168,8 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
 <!ENTITY addCurPagesCmd.label "คั่นทุกแท็บ…">
 <!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าทั้งหมด">
-
-
+<!ENTITY recentBookmarks.label "หน้าที่เพิ่งคั่น">
+<!ENTITY otherBookmarksCmd.label "ที่คั่นหน้าอื่น ๆ">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าอื่น ๆ ด้วย">
 
 <!ENTITY backCmd.label                "ย้อนกลับ">
@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "จัดการการเข้าระบบของคุณ">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "โปรดทำเครื่องหมายกล่องนี้หากคุณต้องการบันทึกรหัสผ่าน">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "จัดการการใช้งานโปรแกรมเสริมบนหน้านี้">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "เปลี่ยนแปลงเพื่อให้คุณสามารถรับการแจ้งเตือนจากไซต์นี้">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "จัดการการแบ่งปันการใช้งานกล้องหรือไมโครโฟนของคุณกับเว็บไซต์">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "คุณกำลังแบ่งปันการใช้งานกล้องหรือไมโครโฟนของคุณบนเว็บไซต์">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "ที่คั่นหน้า">
-
+<!ENTITY bookmarksMenuButton.other.label "ที่คั่นหน้าอื่น ๆ">
 <!ENTITY viewBookmarksSidebar2.label        "ดูแถบข้างที่คั่นหน้า">
 <!ENTITY viewBookmarksToolbar.label         "ดูแถบเครื่องมือที่คั่นหน้า">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "ตัด">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ต"> 
-
+<!ENTITY copyCmd.label            "คัดลอก">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "ค"> 
 <!ENTITY pasteCmd.label           "วาง">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "ว"> 
@@ -349,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 
-
+<!ENTITY appMenuRemoteTabs.openprefs.label "ปรับค่าการผสาน">
 
 <!ENTITY appMenuRemoteTabs.signin.label "เข้าสู่ระบบ Sync">
 
@@ -726,7 +726,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "แท็บที่ผสาน">
 
 
-
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "ต้องการเห็นแท็บจากอุปกรณ์อื่นๆ ที่นี่ไหม?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ลงชื่อเข้าใช้เพื่อดูรายการแท็บจากอุปกรณ์อื่นๆ ของคุณ">
 <!ENTITY syncedTabs.sidebar.notabs.label       "ไม่มีแท็บที่เปิดอยู่">
 
@@ -743,8 +743,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY syncedTabs.context.copy.label                       "คัดลอก">
+<!ENTITY syncedTabs.context.copy.accesskey                   "ค">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
