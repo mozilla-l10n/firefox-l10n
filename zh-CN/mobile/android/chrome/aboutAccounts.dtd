@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.connected.title "Firefox 账号">
-<!ENTITY aboutAccounts.connected.description "您已连接为">
+<!ENTITY aboutAccounts.connected.description "您已登录为">
 <!ENTITY aboutAccounts.syncPreferences.label "点按这里查看有关同步服务的设置">
 
 <!ENTITY aboutAccounts.noConnection.title "没有互联网连接">

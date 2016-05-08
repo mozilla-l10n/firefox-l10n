@@ -24,7 +24,7 @@
 
 <!ENTITY  onboard_start_restricted1 "使用简化的 &brandShortName; 版本，确保安全和可控。">
 
-<!ENTITY  reading_list_migration_title "阅读列表已连接">
+<!ENTITY  reading_list_migration_title "阅读列表已与书签打通">
 <!ENTITY  reading_list_migration_subtext "您的“阅读列表”项目现在将添加到您的书签">
 <!ENTITY  reading_list_migration_goto_bookmarks "转至书签">
 <!ENTITY  reading_list_migration_bookmarks_hidden "您的书签面板已隐藏">
@@ -536,9 +536,9 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; 首页">
 <!ENTITY home_history_title "历史记录">
-<!ENTITY home_synced_devices_smartfolder "同步的设备">
+<!ENTITY home_synced_devices_smartfolder "受同步的设备">
 <!ENTITY home_synced_devices_number "&formatD; 设备">
-<!ENTITY home_history_back_to2 "返回完整历史">
+<!ENTITY home_history_back_to2 "返回完整历史记录">
 <!ENTITY home_clear_history_button "清除浏览历史记录">
 <!ENTITY home_clear_history_confirm "您确定要清除您的历史记录吗？">
 <!ENTITY home_bookmarks_empty "这里显示了您添加的书签。">
@@ -549,7 +549,7 @@ size. -->
 <!ENTITY home_most_recent_empty "您最近常访问的网站将出现在这里。">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "嘘！&formatS1;在新的隐私浏览标签页&formatS2; 中不会保存您的浏览记录。">
+<!ENTITY home_most_recent_emptyhint2 "悄悄告诉你：在&formatS1;隐私浏览标签页&formatS2; 中浏览网页不会留下任何痕迹！">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
