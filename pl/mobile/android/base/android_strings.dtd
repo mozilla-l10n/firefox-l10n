@@ -405,6 +405,8 @@
 
 <!ENTITY home_title "&brandShortName;: Strona domowa">
 <!ENTITY home_history_title "Historia">
+<!ENTITY home_synced_devices_smartfolder "Synchronizowane urządzenia">
+<!ENTITY home_synced_devices_number "Urządzenia: &formatD;">
 <!ENTITY home_history_back_to "Wróć do całej historii">
 <!ENTITY home_clear_history_button "Wyczyść historię przeglądania">
 <!ENTITY home_clear_history_confirm "Czy na pewno wyczyścić historię przeglądania?">
