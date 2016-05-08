@@ -25,6 +25,7 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Nun pudieron verificase delles estensiones">
 <!ENTITY showAllExtensions.button.label       "Amosar toles estensiones">
+<!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Desactiváronse tolos complementos pol mou seguru.">
@@ -240,4 +241,5 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">

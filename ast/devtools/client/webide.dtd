@@ -138,6 +138,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Inxertar llaves de zarru automáticamente">
 <!ENTITY prefs_options_keybindings "Combinaciones de tecles">
 <!ENTITY prefs_options_keybindings_default "Predetermináu">
+<!ENTITY prefs_options_autosavefiles "Auto-guardar ficheros">
+<!ENTITY prefs_options_autosavefiles_tooltip "Guarda automáticamente los ficheros editaos enantes d'executar el proyeutu">
 
 <!-- Permissions Table -->
 <!ENTITY permissionstable_title "Tabla de permisos">
@@ -194,6 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Si l'otru preséu solicita un token en cuenta d'analizar un códigu QR, copia'l valor de debaxo nel otru preséu:">
+<!ENTITY wifi_auth_qr_size_note "Si'l códigu QR apaez perpequeñu pa que s'afite con ésitu la conexón, tenta d'averar o agrandar la ventana.">
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Rexistros d'órdenes previos al empaquetáu">
@@ -211,4 +214,5 @@
 <!ENTITY simulator_screenSize "Pantalla">
 <!ENTITY simulator_pixelRatio "Rellación aspeutu">
 <!ENTITY simulator_tv_data "Simulación de TV">
+<!ENTITY simulator_tv_data_open "Datos de configuración">
 <!ENTITY simulator_tv_data_open_button "Abrir direutoriu de configuración…">
