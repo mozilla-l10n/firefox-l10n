@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "Không thể kết nối">
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Địa chỉ này đã bị chặn">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -32,7 +32,7 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Kết nối bị ngắt">
-
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 
 
@@ -47,10 +47,10 @@
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Vui lòng liên hệ với chủ trang web để báo họ vấn đề này.</li> </ul>">
 
 <!ENTITY netReset.title "Kết nối bị khởi tạo lại">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Kết nối bị hết thời gian">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Có lẽ bạn cần phải cài đặt phần mềm khác để mở địa chỉ này.</li> </ul>">
 
