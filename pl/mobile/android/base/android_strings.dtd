@@ -558,3 +558,7 @@
 <!ENTITY helper_first_offline_bookmark_title "Przeglądanie w trybie offline">
 <!ENTITY helper_first_offline_bookmark_message "Strony zachowane na później można znaleźć w zakładkach, nawet bez Internetu.">
 <!ENTITY helper_first_offline_bookmark_button "Przejdź do zakładek">
+
+<!ENTITY helper_triple_readerview_open_title "Czytanie w trybie offline">
+<!ENTITY helper_triple_readerview_open_message "Dodanie zakładki umożliwia czytanie strony bez Internetu.">
+<!ENTITY helper_triple_readerview_open_button "Dodaj zakładkę">
