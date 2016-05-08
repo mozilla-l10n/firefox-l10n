@@ -14,7 +14,7 @@
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "天的郵件或文章">
 <!ENTITY message.label "封以外全部刪除">
-<!ENTITY nntpNotDownloadRead.label "讀取郵件">
+<!ENTITY nntpNotDownloadRead.label "已讀郵件">
 <!ENTITY nntpNotDownloadRead.accesskey "d">
 <!ENTITY nntpDownloadMsg.label "存放過久的文章:">
 <!ENTITY nntpDownloadMsg.accesskey "e">

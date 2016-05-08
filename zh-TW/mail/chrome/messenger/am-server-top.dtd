@@ -39,7 +39,7 @@
 <!ENTITY headersOnly.accesskey "e">
 <!ENTITY deleteByAgeFromServer.label "最多">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
-<!ENTITY daysEnd.label "日">
+<!ENTITY daysEnd.label "天">
 <!ENTITY deleteOnServer2.label "直到我將它們刪除">
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "自動下載所有新郵件或文章">

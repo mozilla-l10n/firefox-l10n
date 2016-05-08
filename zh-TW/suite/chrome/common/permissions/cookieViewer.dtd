@@ -23,7 +23,7 @@
 <!ENTITY     props.value.label              "內容:">
 <!ENTITY     props.domain.label             "主機:">
 <!ENTITY     props.path.label               "路徑:">
-<!ENTITY     props.secure.label             "傳送給:">
+<!ENTITY     props.secure.label             "送出:">
 <!ENTITY     props.expires.label            "有效期限:">
 
 <!ENTITY     treehead.sitename.label        "網站">

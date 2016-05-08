@@ -51,7 +51,7 @@
 <!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "住家電話:">
 <!ENTITY HomePhone.accesskey            "m">
-<!ENTITY FaxNumber.label                "傳真號碼:">
+<!ENTITY FaxNumber.label                "傳真:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "呼叫器:">
 <!ENTITY PagerNumber.accesskey          "g">
