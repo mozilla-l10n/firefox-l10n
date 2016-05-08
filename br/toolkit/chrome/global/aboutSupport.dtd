@@ -105,7 +105,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Klask ar mod diarvar">
 <!ENTITY aboutSupport.restartInSafeMode.label "Adloc'hañ gant an askouezhioù diweredekaet…">
 
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Perzhioù">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Deznaouiñ">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Kerzhlevr c'hwitadennoù">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">

@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "Restr dianav ">
 <!ENTITY fileNotFound.longDesc "<ul><li>Gwiriañ ha dilec'hiet eo bet, adanvet pe dilamet an ergorenn.</li><li>Gwiriañ anv ar chomlec'h rak marteze ez eus fazioù pennlizherennoù pe fazioù skrivañ all.</li><li>Hag an aotreoù hoc'h eus evit haeziñ an ergorenn goulennet ?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "Nac'het eo bet haeziñ d'ar restr">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Gallout a ra bezañ dilamet, dilec'hiet, pe n'eus ket ar gwirioù a-zere evit an haeziñ.</li></ul>">
 
 <!ENTITY generic.title "N'haller ket echuiñ an azgoulenn-mañ.">
 <!ENTITY generic.longDesc " <p>Titouroù ouzhpenn diwar-benn ar gudenn-mañ pe ar fazi-mañ n'int ket hegerz evit poent.</p>">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "XUL a-bell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn evit kelaouiñ anezho diwar-benn ar gudenn-mañ.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "N'eo ket diarvar ho kennask">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> a arver ur c'halverezh diogelroez diamzeret ha bresk. Gallout a rafe un tager dizoloiñ titouroù a gredec'h diarvar. Ret vo da verour al lec'hienn ratreañ an dafariad a-raok ma c'hallfec'h gweladenniñ al lec'hienn.</p><p>Boneg fazi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
