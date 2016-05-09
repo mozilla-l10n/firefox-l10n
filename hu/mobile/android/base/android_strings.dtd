@@ -536,9 +536,9 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; kezdőoldal">
 <!ENTITY home_history_title "Előzmény">
-
-
-
+<!ENTITY home_synced_devices_smartfolder "Szinkronizált eszközök">
+<!ENTITY home_synced_devices_number "&formatD; készülék">
+<!ENTITY home_history_back_to2 "Vissza minden előzményhez">
 <!ENTITY home_clear_history_button "Böngészési előzmények törlése">
 <!ENTITY home_clear_history_confirm "Biztosan törölni kívánja az előzményeket?">
 <!ENTITY home_bookmarks_empty "A mentett könyvjelzők itt jelennek meg.">
