@@ -11,7 +11,7 @@
 <!ENTITY dualUseFolders.label "Tenaren støttar mapper som inneheld undermapper og meldingar">
 <!ENTITY dualUseFolders.accesskey "T">
 <!ENTITY maximumConnectionsNumber.label "Høgste tal på tenartilkoplingar til mellomlageret">
-<!ENTITY maximumConnectionsNumber.accesskey "T">
+<!ENTITY maximumConnectionsNumber.accesskey "t">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Desse innstillingane fastset namneromma på IMAP-tenaren">
 <!ENTITY personalNamespace.label "Personleg namnerom:">

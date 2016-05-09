@@ -36,11 +36,11 @@
 <!ENTITY InputDisabled.label "Avslått">
 <!ENTITY InputDisabled.accesskey "å">
 <!ENTITY tabIndex.label "Tabulatorindeks">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.accesskey "i">
 <!ENTITY TextSize.label "Feltstorleik:">
 <!ENTITY TextSize.accesskey "F">
 <!ENTITY TextLength.label "Makslengde">
-<!ENTITY TextLength.accesskey "L">
+<!ENTITY TextLength.accesskey "l">
 <!ENTITY AccessKey.label "Snøggtast:">
 <!ENTITY AccessKey.accesskey "S">
 <!ENTITY Accept.label "Godta typar:">

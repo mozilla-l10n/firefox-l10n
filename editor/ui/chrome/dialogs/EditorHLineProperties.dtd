@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Eigenskapar for horisontale linjer">
 
 <!ENTITY dimensionsBox.label "Dimensjonar">
@@ -18,7 +18,7 @@
 <!ENTITY centerRadio.label "Midtstilt">
 <!ENTITY centerRadio.accessKey "M">
 <!ENTITY rightRadio.label "Høgre">
-<!ENTITY rightRadio.accessKey "y">
+<!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "3D-skygge">
 <!ENTITY threeDShading.accessKey "s">

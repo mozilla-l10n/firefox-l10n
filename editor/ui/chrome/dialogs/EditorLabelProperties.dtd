@@ -5,7 +5,7 @@
 <!ENTITY windowTitle.label "Merkelappeigenskapar">
 
 <!ENTITY Settings.label "Innstillingar">
-<!ENTITY Settings.accesskey "S">
+<!ENTITY Settings.accesskey "s">
 
 <!ENTITY EditLabelText.label "Rediger tekst:">
 <!ENTITY EditLabelText.accesskey "R">

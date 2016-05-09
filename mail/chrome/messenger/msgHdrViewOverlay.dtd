@@ -67,20 +67,20 @@
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Skriv ut …">
 <!ENTITY otherActionsPrint1.accesskey "S">
-
 <!-- Attachment bar context menu items -->
+
 <!ENTITY startExpandedCmd.label    "Vis vedleggspanelet initielt">
 <!ENTITY startExpandedCmd.accesskey    "V">
-
 <!-- Attachment context menu items -->
+
 <!ENTITY openAttachmentCmd.label    "Opna">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Lagra som …">
 <!ENTITY saveAsAttachmentCmd.accesskey    "s">
 <!ENTITY detachAttachmentCmd.label    "Splitt …">
-<!ENTITY detachAttachmentCmd.accesskey    "T">
+<!ENTITY detachAttachmentCmd.accesskey    "t">
 <!ENTITY deleteAttachmentCmd.label    "Slett">
-<!ENTITY deleteAttachmentCmd.accesskey    "L">
+<!ENTITY deleteAttachmentCmd.accesskey    "l">
 <!ENTITY openAllAttachmentsCmd.label    "Opna alle …">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label    "Lagra alle …">
@@ -91,8 +91,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY openAttachment.tooltip "Opna vedlagde fil">
-
 <!-- Attachment toolbar items -->
+
 <!ENTITY saveAttachmentButton1.label       "Lagra">
 <!ENTITY saveAttachmentButton1.tooltip     "Lagra vedlagde fil">
 <!ENTITY saveAllAttachmentsButton1.label   "Lagra alle">

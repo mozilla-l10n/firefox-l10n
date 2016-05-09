@@ -20,8 +20,7 @@
 <!ENTITY whitelistHeader.label "Ikkje automatisk marker e-post som uønskt dersom avsendar er i: ">
 <!ENTITY whitelistHeader.accesskey "I">
 
-<!ENTITY ispHeadersWarning.label "Viss påslått vil &brandShortName; automatisk vurdere meldingar som er merkte med denne eksterne klassifikasjonen som uønskt.
-  ">
+<!ENTITY ispHeadersWarning.label "Viss påslått vil &brandShortName; automatisk vurdere meldingar som er merkte med denne eksterne klassifikasjonen som uønskt.">
 <!ENTITY ispHeaders.label "Stol på uønskt-meldingshovud frå: ">
 <!ENTITY ispHeaders.accesskey "S">
 

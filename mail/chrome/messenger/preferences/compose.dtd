@@ -13,7 +13,7 @@
 <!ENTITY inline.label                         "Innebygd">
 <!ENTITY asAttachment.label                   "Som vedlegg">
 <!ENTITY addExtension.label                   "legg til filtype i filnamnet">
-<!ENTITY addExtension.accesskey               "L">
+<!ENTITY addExtension.accesskey               "l">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Skrifttype:">

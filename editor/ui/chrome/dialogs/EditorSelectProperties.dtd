@@ -6,15 +6,15 @@
 
 <!ENTITY Select.label "Alternativsliste">
 <!ENTITY SelectName.label "Listenamn:">
-<!ENTITY SelectName.accesskey "N">
+<!ENTITY SelectName.accesskey "n">
 <!ENTITY SelectSize.label "Høgd:">
 <!ENTITY SelectSize.accesskey "H">
 <!ENTITY SelectMultiple.label "Fleirval">
 <!ENTITY SelectMultiple.accesskey "F">
-<!ENTITY SelectDisabled.label "Avslegen">
-<!ENTITY SelectDisabled.accesskey "A">
+
+
 <!ENTITY SelectTabIndex.label "Tabulatorindeks:">
-<!ENTITY SelectTabIndex.accesskey "I">
+<!ENTITY SelectTabIndex.accesskey "i">
 
 <!ENTITY OptGroup.label "Alternativsgruppe">
 <!ENTITY OptGroupLabel.label "Merkelapp:">
@@ -41,8 +41,8 @@
 <!ENTITY AddOptGroup.label "Legg til gruppe">
 <!ENTITY AddOptGroup.accesskey "L">
 <!ENTITY RemoveElement.label "Fjern">
-<!ENTITY RemoveElement.accesskey "R">
+<!ENTITY RemoveElement.accesskey "r">
 <!ENTITY MoveElementUp.label "Flytt opp">
 <!ENTITY MoveElementUp.accesskey "o">
 <!ENTITY MoveElementDown.label "Flytt ned">
-<!ENTITY MoveElementDown.accesskey "D">
+<!ENTITY MoveElementDown.accesskey "d">
