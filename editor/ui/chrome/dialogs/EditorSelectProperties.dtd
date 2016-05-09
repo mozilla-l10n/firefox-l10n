@@ -6,7 +6,7 @@
 
 <!ENTITY Select.label "Alternativliste">
 <!ENTITY SelectName.label "Listenavn:">
-<!ENTITY SelectName.accesskey "N">
+<!ENTITY SelectName.accesskey "n">
 <!ENTITY SelectSize.label "Høyde:">
 <!ENTITY SelectSize.accesskey "H">
 <!ENTITY SelectMultiple.label "Flervalg">
@@ -14,7 +14,7 @@
 <!ENTITY SelectDisabled.label "Avslått">
 <!ENTITY SelectDisabled.accesskey "A">
 <!ENTITY SelectTabIndex.label "Tabulatorindeks:">
-<!ENTITY SelectTabIndex.accesskey "I">
+<!ENTITY SelectTabIndex.accesskey "i">
 
 <!ENTITY OptGroup.label "Alternativgruppe">
 <!ENTITY OptGroupLabel.label "Etikett:">
@@ -39,10 +39,10 @@
 <!ENTITY AddOption.label "Legg til alternativ">
 <!ENTITY AddOption.accesskey "a">
 <!ENTITY AddOptGroup.label "Legg til gruppe">
-<!ENTITY AddOptGroup.accesskey "G">
+<!ENTITY AddOptGroup.accesskey "g">
 <!ENTITY RemoveElement.label "Fjern">
-<!ENTITY RemoveElement.accesskey "R">
+<!ENTITY RemoveElement.accesskey "r">
 <!ENTITY MoveElementUp.label "Flytt opp">
 <!ENTITY MoveElementUp.accesskey "o">
 <!ENTITY MoveElementDown.label "Flytt ned">
-<!ENTITY MoveElementDown.accesskey "D">
+<!ENTITY MoveElementDown.accesskey "d">

@@ -37,13 +37,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Meldingssynkronisering">
 <!ENTITY diskspaceGroupTitle.label "Diskplass">
-
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+
 <!ENTITY allAutosync.label               "Synkroniser alle meldinger lokalt uansett alder">
 <!ENTITY allAutosync.accesskey           "n">
 <!ENTITY ageAutosyncBefore.label         "Synkroniser med de nyeste">

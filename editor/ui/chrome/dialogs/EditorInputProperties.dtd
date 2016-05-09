@@ -6,7 +6,7 @@
 <!ENTITY windowTitleImage.label "Egenskaper for skjemabilde">
 
 <!ENTITY InputType.label "Felttype">
-<!ENTITY InputType.accesskey "T">
+<!ENTITY InputType.accesskey "t">
 <!ENTITY text.value "Tekst">
 <!ENTITY password.value "Passord">
 <!ENTITY checkbox.value "Avmerkingsboks">
@@ -36,15 +36,15 @@
 <!ENTITY InputDisabled.label "Avslått">
 <!ENTITY InputDisabled.accesskey "A">
 <!ENTITY tabIndex.label "Tabulatorindeks">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.accesskey "i">
 <!ENTITY TextSize.label "Feltstørrelse:">
 <!ENTITY TextSize.accesskey "F">
 <!ENTITY TextLength.label "Makslengde">
-<!ENTITY TextLength.accesskey "L">
+<!ENTITY TextLength.accesskey "l">
 <!ENTITY AccessKey.label "Hurtigtast:">
 <!ENTITY AccessKey.accesskey "H">
 <!ENTITY Accept.label "Godta typer:">
 <!ENTITY Accept.accesskey "G">
 
 <!ENTITY ImageProperties.label "Bildeegenskaper …">
-<!ENTITY ImageProperties.accesskey "E">
+<!ENTITY ImageProperties.accesskey "e">

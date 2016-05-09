@@ -6,7 +6,7 @@
 <!ENTITY subscribeButton.label        "Meld inn">
 <!ENTITY subscribeButton.accesskey    "M">
 <!ENTITY unsubscribeButton.label      "Meld ut">
-<!ENTITY unsubscribeButton.accesskey  "U">
+<!ENTITY unsubscribeButton.accesskey  "u">
 <!ENTITY newGroupsTab.label           "Nye grupper">
 <!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "Oppdater">
@@ -16,7 +16,7 @@
 <!ENTITY server.label                 "Konto:">
 <!ENTITY server.accesskey             "K">
 <!ENTITY subscribedHeader.label       "Meld inn">
-<!-- commenting out until bug 38906 is fixed
+<!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label              "Vis grupper som inneholder:">
 <!ENTITY namefield.accesskey          "V">

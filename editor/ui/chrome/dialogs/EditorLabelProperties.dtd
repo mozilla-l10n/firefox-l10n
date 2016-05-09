@@ -5,14 +5,14 @@
 <!ENTITY windowTitle.label "Etikettegenskaper">
 
 <!ENTITY Settings.label "Innstillinger">
-<!ENTITY Settings.accesskey "S">
+<!ENTITY Settings.accesskey "s">
 
 <!ENTITY EditLabelText.label "Rediger tekst:">
-<!ENTITY EditLabelText.accesskey "T">
+<!ENTITY EditLabelText.accesskey "t">
 <!ENTITY LabelFor.label "For kontroll:">
 <!ENTITY LabelFor.accesskey "F">
 <!ENTITY AccessKey.label "Tilgangstast:">
 <!ENTITY AccessKey.accesskey "T">
 
 <!ENTITY RemoveLabel.label "Fjern etikett">
-<!ENTITY RemoveLabel.accesskey "R">
+<!ENTITY RemoveLabel.accesskey "r">

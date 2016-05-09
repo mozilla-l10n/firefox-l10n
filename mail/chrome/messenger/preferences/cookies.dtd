@@ -19,6 +19,7 @@
 <!ENTITY props.secure.label                "Send for:">
 <!ENTITY props.expires.label               "Utløper:">
 
+
 <!ENTITY window.title                      "Infokapsler">
 <!ENTITY windowClose.key                   "w">
 <!ENTITY focusSearch1.key                  "f">

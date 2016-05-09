@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Stavekontroll">
 
 <!ENTITY misspelledWord.label "Feilstavet ord:">
@@ -29,7 +29,7 @@
 <!ENTITY editUserDictionaryButton.label "Rediger …">
 <!ENTITY editUserDictionaryButton.accessKey "R">
 <!ENTITY recheckButton2.label "Sjekk tekst på nytt">
-<!ENTITY recheckButton2.accessKey "T">
+<!ENTITY recheckButton2.accessKey "t">
 <!ENTITY closeButton.label "Lukk">
 <!ENTITY closeButton.accessKey "L">
 <!ENTITY sendButton.label "Send">

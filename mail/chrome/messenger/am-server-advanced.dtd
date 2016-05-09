@@ -11,17 +11,17 @@
 <!ENTITY dualUseFolders.label "Serveren støtter mapper som inneholder undermapper og meldinger">
 <!ENTITY dualUseFolders.accesskey "S">
 <!ENTITY maximumConnectionsNumber.label "Maksimalt antall servertilkoblinger til hurtiglageret">
-<!ENTITY maximumConnectionsNumber.accesskey "T">
+<!ENTITY maximumConnectionsNumber.accesskey "t">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Disse innstillingene angir navnerommet på IMAP-serveren">
 <!ENTITY personalNamespace.label "Personlig navnerom:">
 <!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "Offentlig (delt):">
-<!ENTITY publicNamespace.accesskey "N">
+<!ENTITY publicNamespace.accesskey "n">
 <!ENTITY otherUsersNamespace.label "Andre brukere:">
-<!ENTITY otherUsersNamespace.accesskey "B">
+<!ENTITY otherUsersNamespace.accesskey "b">
 <!ENTITY overrideNamespaces.label "Tillat serveren å overstyre disse navnerommene">
-<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3DeferringDesc.label "Ved nedlasting av e-post fra denne kontoens server, bruk denne mappen for å lagre nye meldinger:" >
 <!ENTITY accountInbox.label "Innboks for denne kontoen">
 <!ENTITY accountInbox.accesskey "s">
