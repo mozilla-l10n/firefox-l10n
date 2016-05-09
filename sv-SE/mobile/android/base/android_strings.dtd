@@ -538,7 +538,7 @@ size. -->
 <!ENTITY home_history_title "Historik">
 <!ENTITY home_synced_devices_smartfolder "Synkade enheter">
 <!ENTITY home_synced_devices_number "&formatD; enheter">
-
+<!ENTITY home_history_back_to2 "Tillbaka till fullständig Historik">
 <!ENTITY home_clear_history_button "Töm bläddringshistorik">
 <!ENTITY home_clear_history_confirm "Är du säker på att du vill rensa historiken?">
 <!ENTITY home_bookmarks_empty "Bokmärken som du sparat visas här.">
