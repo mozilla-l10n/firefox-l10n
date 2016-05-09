@@ -62,6 +62,9 @@
 <!ENTITY screenshot_folder_label_in_bookmarks "Zrzuty ekranu">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Do przeczytania">
 
+<!ENTITY bookmark_folder_items "Zakładki: &formatD;">
+<!ENTITY bookmark_folder_one_item "Zakładki: 1">
+
 <!ENTITY reader_saved_offline "Zachowano do korzystania offline">
 <!ENTITY reader_switch_to_bookmarks "Przejdź">
 
