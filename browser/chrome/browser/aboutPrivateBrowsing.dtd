@@ -21,8 +21,8 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads             "indirdiğiniz dosyalar">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "yer imleri">
 <!ENTITY aboutPrivateBrowsing.note.before                "Gizli Gezinti sizi internette ">
-<!ENTITY aboutPrivateBrowsing.note.emphasize             "anonim yapmaz">
-<!ENTITY aboutPrivateBrowsing.note.after                 ". İşvereniniz veya internet servis sağlayıcınız hâlâ ziyaret ettiğiniz sayfaları takip edebilir.">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "anonim yapmaz.">
+<!ENTITY aboutPrivateBrowsing.note.after                 " İşvereniniz veya internet servis sağlayıcınız hâlâ ziyaret ettiğiniz sayfaları takip edebilir.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Gizli Gezinti hakkında">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "daha fazla bilgi alın">
 
