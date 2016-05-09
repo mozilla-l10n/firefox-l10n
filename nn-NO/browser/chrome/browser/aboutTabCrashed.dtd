@@ -6,8 +6,7 @@
 <!ENTITY tabCrashed.message "Og no dei gode nyhenda: Du kan berre lata att denne fana, gjenoppretta henne, eller gjenoppretta alle krasja faner.">
 <!ENTITY tabCrashed.sendReport "Send ein krasjrapport for å hjelpa til med å hindra fleire dårlege nyhende">
 <!ENTITY tabCrashed.includeURL "Ta med adressa til sida eg besøkte">
-<!ENTITY tabCrashed.commentPlaceholder "Legg til ein kommentar (kommentarar er offentleg synlege)
-  	">
+<!ENTITY tabCrashed.commentPlaceholder "Legg til ein kommentar (kommentarar er offentleg synlege)">
 <!ENTITY tabCrashed.emailPlaceholder "Skriv inn e-postadressa di her">
 <!ENTITY tabCrashed.emailMe "Send meg e-post når meir informasjon er tilgjengeleg">
 <!ENTITY tabCrashed.crashReporter "Mozilla krasjrapportering">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "Generelt">
 
@@ -30,8 +30,7 @@
 
 <!ENTITY dataChoicesTab.label            "Datainnstillingar">
 
-<!ENTITY healthReportDesc.label          "Hjelper deg å forstå nettlesarytinga, og deler data med &vendorShortName; om helsa til nettlesaren din
-  	">
+<!ENTITY healthReportDesc.label          "Hjelper deg å forstå nettlesarytinga, og deler data med &vendorShortName; om helsa til nettlesaren din">
 <!ENTITY enableHealthReport.label        "Slå på &brandShortName; Helserapport">
 <!ENTITY enableHealthReport.accesskey    "S">
 <!ENTITY healthReportLearnMore.label     "Les meir">
@@ -57,13 +56,13 @@
 <!ENTITY httpCache.label                 "Snøgglagra nettinnhald">
 
 <!ENTITY offlineStorage2.label           "Fråkopla nettinnhald og brukardata">
-
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
+
 <!ENTITY limitCacheSizeBefore.label      "Avgrens snøgglageret til">
 <!ENTITY limitCacheSizeBefore.accesskey  "r">
 <!ENTITY limitCacheSizeAfter.label       " MB diskplass">
