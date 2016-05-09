@@ -18,7 +18,7 @@
 <!ENTITY tableWidth.accessKey             "B">
 <!ENTITY tableBorderSpacing.label         "Kantlinjer og mellomrom">
 <!ENTITY tableBorderWidth.label           "Kantlinje:">
-<!ENTITY tableBorderWidth.accessKey       "k">
+<!ENTITY tableBorderWidth.accessKey       "K">
 <!ENTITY tableSpacing.label               "Mellomrom:">
 <!ENTITY tableSpacing.accessKey           "M">
 <!ENTITY tablePadding.label               "Padding:">
@@ -41,7 +41,7 @@
 <!ENTITY cellSelectRow.label              "Rad">
 <!ENTITY cellSelectColumn.label           "Kolonne">
 <!ENTITY cellSelectNext.label             "Neste">
-<!ENTITY cellSelectNext.accessKey         "n">
+<!ENTITY cellSelectNext.accessKey         "N">
 <!ENTITY cellSelectPrevious.label         "Forrige:">
 <!ENTITY cellSelectPrevious.accessKey     "F">
 <!ENTITY applyBeforeChange.label          "Følgende endringer vil bli brukt før bytte av merket område.">
@@ -64,8 +64,8 @@
 <!ENTITY cellAlignJustify.label           "Justering">
 <!ENTITY cellInheritColor.label           "(La tabellfargen skinne gjennom)">
 <!ENTITY cellUseCheckboxHelp.label        "Bruk avkrysningsbokser for å avgjøre hvilke egenskaper som gjelder alle merkede celler">
-
 <!-- Used in both Table and Cell panels  -->
+
 <!ENTITY size.label                       "Størrelse">
 <!ENTITY pixels.label                     "piksler">
 <!ENTITY backgroundColor.label            "Bakgrunnsfarge:">

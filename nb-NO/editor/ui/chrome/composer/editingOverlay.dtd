@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- File menu items -->
+
 <!ENTITY openFileCmd.label "Åpne fil …">
 <!ENTITY openFileCmd.accesskey "Å">
 <!ENTITY openFileCmd.key "O">
@@ -24,12 +24,12 @@
 <!ENTITY publishAsCmd.accesskey "m">
 <!ENTITY fileRevert.label "Tilbakestill">
 <!ENTITY fileRevert.accesskey "T">
-
 <!-- Edit menu items -->
+
 <!ENTITY publishSettings.label "Publiseringsinnstillinger …">
 <!ENTITY publishSettings.accesskey "b">
-
 <!-- Toolbar buttons/items -->
+
 <!ENTITY newToolbarCmd.label "Ny">
 <!ENTITY newToolbarCmd.tooltip "Lag en ny nettsideutvikler-side">
 <!ENTITY openToolbarCmd.label "Åpne">

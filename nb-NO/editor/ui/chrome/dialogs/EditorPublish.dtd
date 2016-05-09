@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label            "Publiser side">
 <!ENTITY windowTitleSettings.label    "Publiseringsinnstillinger">
 <!ENTITY publishTab.label             "Publiser">
 <!ENTITY settingsTab.label            "Innstillinger">
 <!ENTITY publishButton.label          "Publiser">
-
 <!-- Publish Tab Panel -->
+
 <!ENTITY siteList.label               "Områdenavn:">
 <!ENTITY siteList.accesskey           "O">
 <!ENTITY siteList.tooltip             "Velg området du vil publisere til">
@@ -39,9 +39,9 @@
 <!ENTITY setDefaultButton.label       "Sett som standard">
 <!ENTITY setDefaultButton.accesskey   "e">
 <!ENTITY removeButton.label           "Fjern område">
-<!ENTITY removeButton.accesskey       "R">
-
+<!ENTITY removeButton.accesskey       "r">
 <!-- Settings Tab Panel -->
+
 <!ENTITY publishSites.label           "Publiseringssteder">
 <!ENTITY serverInfo.label             "Serverinformasjon">
 <!ENTITY loginInfo.label              "Innloggingsinformasjon">

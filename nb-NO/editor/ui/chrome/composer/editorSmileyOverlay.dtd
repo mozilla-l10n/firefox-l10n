@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Smiley Menu items -->
+
 <!ENTITY insertSmiley.label "Smilefjes">
 <!ENTITY insertSmiley.accesskey "S">
 
@@ -19,7 +19,7 @@
 <!ENTITY smiley4Cmd.accesskey "G">
 <!ENTITY smiley4Cmd.tooltip "Sett inn geip">
 <!ENTITY smiley5Cmd.label "Flirer">
-<!ENTITY smiley5Cmd.accesskey "L">
+<!ENTITY smiley5Cmd.accesskey "l">
 <!ENTITY smiley5Cmd.tooltip "Sett inn smilefjes">
 <!ENTITY smiley6Cmd.label "Brydd">
 <!ENTITY smiley6Cmd.accesskey "B">
@@ -40,13 +40,13 @@
 <!ENTITY smiley11Cmd.accesskey "C">
 <!ENTITY smiley11Cmd.tooltip "Sett inn kult smilefjes">
 <!ENTITY smiley12Cmd.label "Pengemunn">
-<!ENTITY smiley12Cmd.accesskey "M">
+<!ENTITY smiley12Cmd.accesskey "m">
 <!ENTITY smiley12Cmd.tooltip "Sett inn pengemunn-fjes">
 <!ENTITY smiley13Cmd.label "Fot-i-munn">
 <!ENTITY smiley13Cmd.accesskey "o">
 <!ENTITY smiley13Cmd.tooltip "Sett inn fot-i-munn-fjes">
 <!ENTITY smiley14Cmd.label "Uskyldig">
-<!ENTITY smiley14Cmd.accesskey "I">
+<!ENTITY smiley14Cmd.accesskey "i">
 <!ENTITY smiley14Cmd.tooltip "Sett inn et usyldig smilefjes">
 <!ENTITY smiley15Cmd.label "Gråtende">
 <!ENTITY smiley15Cmd.accesskey "r">

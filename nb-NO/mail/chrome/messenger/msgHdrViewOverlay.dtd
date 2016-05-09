@@ -67,12 +67,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Skriv ut …">
 <!ENTITY otherActionsPrint1.accesskey "u">
-
 <!-- Attachment bar context menu items -->
+
 <!ENTITY startExpandedCmd.label    "Vis vedleggspanelet initielt">
 <!ENTITY startExpandedCmd.accesskey    "V">
-
 <!-- Attachment context menu items -->
+
 <!ENTITY openAttachmentCmd.label    "Åpne">
 <!ENTITY openAttachmentCmd.accesskey    "Å">
 <!ENTITY saveAsAttachmentCmd.label    "Lagre som …">
@@ -86,13 +86,13 @@
 <!ENTITY saveAllAttachmentsCmd.label    "Lagre alle …">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "L">
 <!ENTITY detachAllAttachmentsCmd.label    "Fraskill alle …">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "S">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "s">
 <!ENTITY deleteAllAttachmentsCmd.label    "Slett alle …">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY openAttachment.tooltip "Åpne vedlagt fil">
-
 <!-- Attachment toolbar items -->
+
 <!ENTITY saveAttachmentButton1.label       "Lagre">
 <!ENTITY saveAttachmentButton1.tooltip     "Lagre vedlagte fil">
 <!ENTITY saveAllAttachmentsButton1.label   "Lagre alle">

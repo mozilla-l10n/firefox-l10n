@@ -17,12 +17,12 @@
 <!ENTITY  textColor.label                 "Tekst:">
 <!ENTITY  textColor.accesskey             "t">
 <!ENTITY  backgroundColor.label           "Bakgrunn:">
-<!ENTITY  backgroundColor.accesskey       "b">
+<!ENTITY  backgroundColor.accesskey       "B">
 <!ENTITY  useSystemColors.label           "Bruk systemfarger">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Understrek lenker">
-<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "Lenkefarger">
 <!ENTITY  linkColor.label                 "Ubesøkte lenker:">
 <!ENTITY  linkColor.accesskey             "U">

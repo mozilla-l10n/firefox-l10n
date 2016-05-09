@@ -5,7 +5,7 @@
 <!ENTITY settings.caption "Innstillinger">
 <!ENTITY security.caption "Sikkerhet og autentisering">
 <!ENTITY serverName.label "Servernavn:">
-<!ENTITY serverName.accesskey "T">
+<!ENTITY serverName.accesskey "S">
 <!ENTITY serverDescription.label "Beskrivelse:">
 <!ENTITY serverDescription.accesskey "B">
 <!ENTITY serverPort.label "Port:">

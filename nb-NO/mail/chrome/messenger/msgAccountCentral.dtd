@@ -22,7 +22,7 @@
 <!ENTITY newAcct.label                "Opprett en ny konto:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Avanserte funksjoner">
-<!ENTITY searchMsgsLink.label         "Søk i meldinger"> 
+<!ENTITY searchMsgsLink.label         "Søk i meldinger">
 <!ENTITY filtersLink.label            "Lag meldingsfiltre">
 <!ENTITY junkSettings.label           "Innstillinger for uønsket e-post">
 <!ENTITY offlineLink.label            "Innstillinger for frakoblet tilstand">
