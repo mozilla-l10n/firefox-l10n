@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Problem ved lasting av side">
 <!ENTITY retry.label "Prøv igjen">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Klarte ikke koble til">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -19,50 +19,20 @@
 <!ENTITY dnsNotFound.title "Serveren ikke funnet">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "
-<ul>
-  <li>Kontroller om det er skrivefeil i adressen, for eksempel
-    <strong>ww</strong>.eksempel.no istedenfor
-    <strong>www</strong>.eksempel.no</li>
-    <div id='searchbox'>
-      <input id='searchtext' type='search'></input>
-      <button id='searchbutton'>Søk</button>
-    </div>
-  <li>Hvis du ikke klarer å laste noen nettsider, kontroller data- eller Wi-Fi-forbindelsen til enheten din.
-    <button id='wifi'>Slå på Wi-Fi</button>
-  </li>
-</ul>
-">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Kontroller om det er skrivefeil i adressen, for eksempel <strong>ww</strong>.eksempel.no istedenfor <strong>www</strong>.eksempel.no</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Søk</button> </div> <li>Hvis du ikke klarer å laste noen nettsider, kontroller data- eller Wi-Fi-forbindelsen til enheten din. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Fil ikke funnet">
-<!ENTITY fileNotFound.longDesc "
-<ul>
-  <li>Kontroller filnavnet etter forskjeller i store/små bokstaver eller andre skrivefeil.</li>
-  <li>Sjekk om filen er flyttet, har endret navn eller er slettet.</li>
-</ul>
-">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Kontroller filnavnet etter forskjeller i store/små bokstaver eller andre skrivefeil.</li> <li>Sjekk om filen er flyttet, har endret navn eller er slettet.</li> </ul>">
+
 
 
 <!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "
-<p>&brandShortName; klarte ikke å laste denne siden av ukjent årsak.</p>
-">
+<!ENTITY generic.longDesc "<p>&brandShortName; klarte ikke å laste denne siden av ukjent årsak.</p>">
 
 <!ENTITY malformedURI.title "Adressen er ugyldig">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "
-<ul>
-  <li>Nettsideadresser skrives vanligvis på formen
-    <strong>http://www.eksempel.no/</strong></li>
-    <div id='searchbox'>
-      <input id='searchtext' type='search'></input>
-      <button id='searchbutton'>Søk</button>
-    </div>
-  <li>Kontroller at du bruker fremover-skråstrek (f.eks.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Nettsideadresser skrives vanligvis på formen <strong>http://www.eksempel.no/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Søk</button> </div> <li>Kontroller at du bruker fremover-skråstrek (f.eks. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Tilkoblingen ble avbrutt">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -73,27 +43,13 @@
 <!ENTITY netOffline.title "Frakoblet modus">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Prøv igjen. &brandShortName; vil forsøke åpne en tilkobling og laste inn siden på nytt.
-    <button id='wifi'>Slå på Wi-Fi</button>
-  </li>
-</ul>
-">
+<!ENTITY netOffline.longDesc3 "<ul> <li>Prøv igjen. &brandShortName; vil forsøke åpne en tilkobling og laste inn siden på nytt. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Feil med tegnkoding">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Kontakt eieren av nettstedet og informer om problemet.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Kontakt eieren av nettstedet og informer om problemet.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Utrygg filtype">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Kontakt nettsideeierne og informer dem om dette problemet.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Kontakt nettsideeierne og informer dem om dette problemet.</li> </ul>">
 
 <!ENTITY netReset.title "Tilkoblingen ble avbrutt">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -102,78 +58,31 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Klarte ikke forstå adressen">
-<!ENTITY unknownProtocolFound.longDesc "
-<ul>
-  <li>Du må kanskje installere annen programvare for å åpne denne adressen.</li>
-</ul>
-">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Du må kanskje installere annen programvare for å åpne denne adressen.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy godtar ikke tilkoblinger">
-<!ENTITY proxyConnectFailure.longDesc "
-<ul>
-  <li>Kontroller at proxyinnstillingene er korrekte.</li>
-  <li>Kontakt nettverksansvarlig og forsikre deg om at proxyen
-    virker.</li>
-</ul>
-">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kontroller at proxyinnstillingene er korrekte.</li> <li>Kontakt nettverksansvarlig og forsikre deg om at proxyen virker.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Klarte ikke finne proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "
-<ul>
-  <li>Kontroller at proxyinnstillingene er riktige.</li>
-  <li>Kontroller at enheten har en data- eller Wi-Fi-forbindelse som virker.
-    <button id='wifi'>Slå på Wi-Fi</button>
-  </li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Kontroller at proxyinnstillingene er riktige.</li> <li>Kontroller at enheten har en data- eller Wi-Fi-forbindelse som virker. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Nettsiden videresender ikke ordentlig">
-<!ENTITY redirectLoop.longDesc "
-<ul>
-  <li>Dette problemet kan av og til skyldes at infokapsler er
-    avslått.</li>
-</ul>
-">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Dette problemet kan av og til skyldes at infokapsler er avslått.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Uventet svar fra server">
-<!ENTITY unknownSocketType.longDesc "
-<ul>
-  <li>Kontroller at systemet ditt har Personal Security Manager
-    installert.</li>
-  <li>Dette problemet kan skyldes en uvanlig konfigurasjon på serveren.</li>
-</ul>
-">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Kontroller at systemet ditt har Personal Security Manager installert.</li> <li>Dette problemet kan skyldes en uvanlig konfigurasjon på serveren.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Sikker tilkobling mislyktes">
-<!ENTITY nssFailure2.longDesc2 "
-<ul>
-  <li>Siden du forsøker åpne kan ikke vises fordi det ikke kunne bekreftes at overført data er autentisk.</li>
-  <li>Kontakt nettstedseieren og informer om problemet.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Siden du forsøker åpne kan ikke vises fordi det ikke kunne bekreftes at overført data er autentisk.</li> <li>Kontakt nettstedseieren og informer om problemet.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Sikker tilkobling mislyktes">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>Dette kan være på grunn av et problem med serverens innstillinger, eller det kan være
-at noen forsøker å etterligne serveren.</li>
-  <li>Dersom du tidligere har koblet til serveren er det mulig at feilen er
-midlertidig, og du kan prøve igjen senere.</li>
-</ul>
-">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Dette kan være på grunn av et problem med serverens innstillinger, eller det kan være at noen forsøker å etterligne serveren.</li> <li>Dersom du tidligere har koblet til serveren er det mulig at feilen er midlertidig, og du kan prøve igjen senere.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY sharedLongDesc3 "
-<ul>
-  <li>Siden kan være midlertidig utilgjengelig, eller opptatt. Prøv igjen om en stund.</li>
-  <li>Hvis du ikke klarer å laste noen sider, kontroller at din mobile enhets data- eller Wi-Fi-forbindelse virker.
-    <button id='wifi'>Slå på Wi-Fi</button>
-  </li>
-</ul>
-">
+
+<!ENTITY sharedLongDesc3 "<ul> <li>Siden kan være midlertidig utilgjengelig, eller opptatt. Prøv igjen om en stund.</li> <li>Hvis du ikke klarer å laste noen sider, kontroller at din mobile enhets data- eller Wi-Fi-forbindelse virker. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Blokkert av sikkerhetspolicy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å lastes inn på denne måten fordi nettsiden har en sikkerhetspolicy som forbyr det.</p>">
@@ -184,18 +93,13 @@ midlertidig, og du kan prøve igjen senere.</li>
 <!ENTITY securityOverride.linkText "Eller du kan lage en unntaksregel …">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg bort herfra">
 <!ENTITY securityOverride.exceptionButtonLabel "Lag et unntak …">
-
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>Du bør ikke legge til en unntaksregel dersom du bruker en Internett-forbindelse som du ikke stoler fullstendig på, eller dersom du ikke er vant med å se slike advarsler for denne serveren.</p>
 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY securityOverride.warningContent "<p>Du bør ikke legge til en unntaksregel dersom du bruker en Internett-forbindelse som du ikke stoler fullstendig på, eller dersom du ikke er vant med å se slike advarsler for denne serveren.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul></p>">
@@ -209,3 +113,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Avansert info: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
