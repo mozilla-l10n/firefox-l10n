@@ -536,6 +536,9 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Початкова &brandShortName;">
 <!ENTITY home_history_title "Історія">
+<!ENTITY home_synced_devices_smartfolder "Синхронізовані пристрої">
+<!ENTITY home_synced_devices_number "&formatD; пристроїв">
+<!ENTITY home_history_back_to2 "Назад до повної історії">
 <!ENTITY home_clear_history_button "Стерти історію перегляду">
 <!ENTITY home_clear_history_confirm "Ви впевнені, що хочете стерти свою історію?">
 <!ENTITY home_bookmarks_empty "Тут з’являтимуться збережені вами закладки.">
