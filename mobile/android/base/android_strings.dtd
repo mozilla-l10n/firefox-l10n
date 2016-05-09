@@ -355,6 +355,7 @@
 <!ENTITY home_history_title "Cronologia">
 <!ENTITY home_synced_devices_smartfolder "Dispositivi sincronizzati">
 <!ENTITY home_synced_devices_number "&formatD; dispositivi">
+<!ENTITY home_synced_devices_one "1 dispositivo">
 <!ENTITY home_history_back_to2 "Torna alla cronologia completa">
 <!ENTITY home_clear_history_button "Elimina cronologia">
 <!ENTITY home_clear_history_confirm "Eliminare la cronologia di navigazione?">
