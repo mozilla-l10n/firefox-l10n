@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Sidelastingsfeil">
 <!ENTITY retry.label "Prøv igjen">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Klarte ikke koble til nettstedet">
 <!ENTITY connectionFailure.longDesc "<p>Selv om adressen ser ut til å være gyldig, klarte ikke nettleseren å koble til det.</p><ul><li>Kan nettstedet midlertidig være utilgjengelig? Prøv igjen senere.</li><li>Klarer du å åpne andre nettsider?  Kontroller datamaskinens nettverksforbindelse.</li><li>Er datamaskinen eller nettverket ditt beskyttet av en brannmur eller proxy? Feil innstillinger kan gjøre det umulig å åpne nettsider.</li></ul>">
@@ -41,11 +41,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Nettsiden du forsøker å åpne kan ikke vises fordi den bruker en ukjent eller ugyldig komprimeringsmetode.</p><ul><li>Kontakt den ansvarlige for nettstedet og informer dem om problemet.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Utrygg filtype">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Kontakt nettsideeierne og informer dem om dette problemet.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Kontakt nettsideeierne og informer dem om dette problemet.</li> </ul>">
 
 <!ENTITY netReset.title "Tilkobling avbrutt">
 <!ENTITY netReset.longDesc "<p>Nettverksforbindelsen ble avbrutt mens en tilkobling ble opprettet. Prøv igjen.</p>">
@@ -72,17 +68,10 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Nettsiden du forsøker å åpne kan ikke vises, fordi det ikke kunne bekreftes at mottatte data er autentiske.</p><ul><li>Kontakt den ansvarlige for nettstedet og informer om problemet.</li></ul>">
 
 <!ENTITY nssBadCert.title "Sikker tilkobling mislyktes">
-<!ENTITY nssBadCert.longDesc2 "<ul>
-<li>Dette kan være på grunn av et problem med serverens konfigurasjon, eller det kan være fordi noen forsøker å forfalske tilkoblingen til serveren.</li>
-<li>Dersom du har klart å koble til serveren tidligere kan problemet være midlertidig, og du kan prøve igjen senere.</li>
-</ul>
-">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Dette kan være på grunn av et problem med serverens konfigurasjon, eller det kan være fordi noen forsøker å forfalske tilkoblingen til serveren.</li> <li>Dersom du har klart å koble til serveren tidligere kan problemet være midlertidig, og du kan prøve igjen senere.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Eller du kan lage et unntak …">
-<!ENTITY securityOverride.warningContent "
-<p>Du bør ikke lage et unntak hvis du bruker en Internett-forbindelse som du ikke stoler fullstendig på, eller hvis du ikke er vant med å se en slik advarsel for denne serveren.</p>
-<p>Hvis du fortsatt ønsker å lage et unntak for dette nettstedet, kan du gjøre det i avansert kryptering-innstillingene.</p>
-">
+<!ENTITY securityOverride.warningContent "<p>Du bør ikke lage et unntak hvis du bruker en Internett-forbindelse som du ikke stoler fullstendig på, eller hvis du ikke er vant med å se en slik advarsel for denne serveren.</p> <p>Hvis du fortsatt ønsker å lage et unntak for dette nettstedet, kan du gjøre det i avansert kryptering-innstillingene.</p>">
 
 <!ENTITY cspBlocked.title "Blokkert av sikkerhetspolicy">
 <!ENTITY cspBlocked.longDesc "<p>Nettleseren forhindret denne siden fra å lastes inn på denne måten, fordi nettsiden har en sikkerhetspolicy som forbyr det.</p>">
