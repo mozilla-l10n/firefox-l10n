@@ -22,7 +22,8 @@
 <!ENTITY fileNotFound.title "Restr dianav ">
 <!ENTITY fileNotFound.longDesc "<ul><li>Gwiriañ anv ar chomlec'h rak marteze ez eus fazioù pennlizherennoù pe fazioù skrivañ all.</li><li>Gwiriañ ha dilec'hiet eo bet, adanvet pe dilamet an ergorenn.</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "Nac'het eo bet haeziñ d'ar restr">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Gallout a ra bezañ dilamet, dilec'hiet, pe n'eus ket ar gwirioù a-zere evit an haeziñ.</li> </ul>">
 
 <!ENTITY generic.title "N'haller ket echuiñ an azgoulenn-mañ.">
 <!ENTITY generic.longDesc " <p>N'hall ket &brandShortName; kargañ ar bajennad-mañ.</p>">
