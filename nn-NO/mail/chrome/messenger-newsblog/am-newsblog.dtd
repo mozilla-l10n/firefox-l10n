@@ -16,8 +16,8 @@
 <!ENTITY manageSubscriptions.accesskey "B">
 
 <!ENTITY feedWindowTitle.label "Kontovegvisar for hyheitskjelder">
-
 <!-- entities from rss.rdf -->
+
 <!ENTITY feeds.accountName "Bloggar og nyheitskjelder">
 <!ENTITY feeds.wizardShortName "Nyheitskjelder">
 <!ENTITY feeds.wizardLongName "Bloggar og nyheitskjelder ">

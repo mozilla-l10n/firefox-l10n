@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-copies.xul -->
+
 
 <!ENTITY copyAndFolderTitle.label "Kopiar og mapper">
 <!ENTITY sendingPrefix.label "Når meldingar vert sende: ">
@@ -16,7 +16,7 @@
 <!ENTITY ccAddressList.placeholder "Skil fleire adresser med komma">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Send BCC til desse e-postadressene:">
-<!ENTITY bccAddress.accesskey "b">
+<!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "Skil fleire adresser med komma">
 <!ENTITY saveMessageDlg.label "Vis stadfestingsdialog når meldingar vert lagra">
 <!ENTITY saveMessageDlg.accesskey "V">

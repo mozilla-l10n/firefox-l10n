@@ -17,7 +17,7 @@
 <!ENTITY ButtonValue.label "Verdi:">
 <!ENTITY ButtonValue.accesskey "V">
 <!ENTITY tabIndex.label "Tabulatorindeks">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.accesskey "i">
 <!ENTITY ButtonDisabled.label "Slått av">
 <!ENTITY ButtonDisabled.accesskey "S">
 <!ENTITY AccessKey.label "Snøggtast:">

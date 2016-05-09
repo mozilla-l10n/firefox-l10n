@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Mail Content -->
+
 <!ENTITY captionMailContent.label "E-postinnhald">
 
 <!ENTITY acceptRemoteContent.label "Tillat eksternt innhald i meldingar">
@@ -10,14 +10,14 @@
 <!ENTITY remoteContentExceptions.label "Unntak …">
 <!ENTITY remoteContentExceptions.accesskey "U">
 <!ENTITY acceptRemoteContentInfo.label "Les meir om personvernutfordringane ved eksternt innhald">
-
 <!-- Web Content -->
+
 <!ENTITY captionWebContent.label "Nettinnhald">
 
 <!ENTITY keepHistory.label "Hugs nettsider og lenker eg har besøkt">
 <!ENTITY keepHistory.accesskey "H">
 <!ENTITY acceptCookies.label "Tillat infokapslar frå nettstadar">
-<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptCookies.accesskey "a">
 <!ENTITY acceptThirdParty.pre.label "Tillat tredjeparts infokapslar:">
 <!ENTITY acceptThirdParty.pre.accesskey "i">
 <!ENTITY acceptThirdParty.always.label "Alltid">
