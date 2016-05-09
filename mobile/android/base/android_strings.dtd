@@ -72,7 +72,7 @@
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-<!ENTITY bookmark_folder_items "&formatS; éléments">
+<!ENTITY bookmark_folder_items "&formatD; éléments">
 <!ENTITY bookmark_folder_one_item "1 élément">
 
 <!ENTITY reader_saved_offline "Enregistré hors ligne">
