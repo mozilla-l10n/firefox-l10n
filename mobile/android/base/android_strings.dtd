@@ -54,6 +54,8 @@
 <!ENTITY screenshot_added_to_bookmarks "Schermata aggiunta ai segnalibri">
 <!ENTITY screenshot_folder_label_in_bookmarks "Schermate">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Elenco lettura">
+<!ENTITY bookmark_folder_items "&formatD; elementi">
+<!ENTITY bookmark_folder_one_item "1 elemento">
 <!ENTITY reader_saved_offline "Salvato">
 <!ENTITY reader_switch_to_bookmarks "Visualizza">
 <!ENTITY history_today_section "Oggi">
