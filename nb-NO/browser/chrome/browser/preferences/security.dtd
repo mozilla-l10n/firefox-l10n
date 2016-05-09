@@ -6,11 +6,11 @@
 
 <!ENTITY  warnAddonInstall.label        "Advar meg når nettsider forsøker å installere programtillegg">
 <!ENTITY  warnAddonInstall.accesskey    "A">
-
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+
 <!ENTITY  enableSafeBrowsing.label        "Blokker farlig og villendende innhold">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 

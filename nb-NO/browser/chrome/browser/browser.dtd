@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
-
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -17,8 +17,8 @@
 
 <!ENTITY appmenu.tooltip                     "Åpne meny">
 <!ENTITY navbarOverflow.label                "Flere verktøy …">
-
 <!-- Tab context menu -->
+
 <!ENTITY  reloadTab.label                    "Oppdater fane">
 <!ENTITY  reloadTab.accesskey                "O">
 <!ENTITY  reloadAllTabs.label                "Oppdater alle faner">
@@ -30,12 +30,12 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "u">
 <!ENTITY  closeOtherTabs.label               "Lukk andre faner">
 <!ENTITY  closeOtherTabs.accesskey           "a">
-
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
+
 <!ENTITY  pinTab.label                       "Lås fane">
 <!ENTITY  pinTab.accesskey                   "L">
 <!ENTITY  unpinTab.label                     "Lås opp fane">
@@ -121,12 +121,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Avslutt fullskjermmodus">
 <!ENTITY fullScreenExit.accesskey "v">
-
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "er nå i fullskjerm">
 <!ENTITY fullscreenWarning.generic.label "Dette dokumentet er nå i fullskjerm">
@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Abonner på denne siden …">
 <!ENTITY addCurPagesCmd.label "Bokmerk alle faner …">
 <!ENTITY showAllBookmarks2.label "Vis alle bokmerker">
-<!ENTITY unsortedBookmarksCmd.label "Usorterte bokmerker">
+
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bokmerker">
 
 <!ENTITY backCmd.label                "Tilbake">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Vis lagringsmelding fra app-offline">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Behandle innloggingsinformasjon">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Kontroller om du vil lagre passordet ditt">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Vis meldingen fra app-installasjon">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Behandle bruk av programtillegg på denne siden">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Velg om du kan motta varsler fra nettstedet">
 
@@ -216,21 +216,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historikk">
 
 <!ENTITY searchItem.title             "Søk">
-
 <!-- Toolbar items --> 
+
 <!ENTITY homeButton.label             "Startside">
 
 <!ENTITY bookmarksButton.label          "Bokmerker">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bokmerker">
-<!ENTITY bookmarksMenuButton.unsorted.label "Usorterte bokmerker">
+
 <!ENTITY viewBookmarksSidebar2.label        "Vis bokmerkesidestolpen">
 <!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
-
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
+
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Nettsideutvikling">
 <!ENTITY webDeveloperMenu.accesskey   "t">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service-arbeidere">
-<!ENTITY devtoolsServiceWorkers.accesskey  "S">
-
-<!ENTITY devtoolsConnect.label        "Koble til …">
-<!ENTITY devtoolsConnect.accesskey    "o">
-
-<!ENTITY errorConsoleCmd.label        "Feilmeldinger">
-<!ENTITY errorConsoleCmd.accesskey    "F">
-
-<!ENTITY remoteWebConsoleCmd.label    "Ekstern nettleserkonsoll">
-
-<!ENTITY browserConsoleCmd.label      "Nettleserkonsoll">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "e">
-
 <!ENTITY inspectContextMenu.label     "Inspiser element">
 <!ENTITY inspectContextMenu.accesskey "I">
-
-<!ENTITY responsiveDesignTool.label   "Responsiv designvisning">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Fargevelger">
-<!ENTITY eyedropper.accesskey "F">
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Kladdeblokk">
-<!ENTITY scratchpad.accesskey         "a">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Verktøykasse for nettleser">
-<!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY browserToolboxCmd.commandkey "i">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Verktøykasse for nettleserinnhold">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Lukk utvikler-verktøylinje">
-<!ENTITY devToolbarMenu.label              "Utvikler-verktøylinje">
-<!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Slå av/på verktøy">
-<!ENTITY devToolboxMenuItem.accesskey      "t">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Slå av/på utviklerverktøy">
-<!ENTITY devToolbarOtherToolsButton.label  "Flere verktøy">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Hent flere verktøy">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "H">
 
 <!ENTITY fileMenu.label         "Fil"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -341,7 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY userContextShopping.label        "Shopping">
 <!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "Nytt vindu">
-<!ENTITY newNavigatorCmd.key        "N">
+
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nytt privat vindu">
 <!ENTITY newPrivateWindow.accesskey "r">
@@ -358,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Klipp ut">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "u"> 
-<!ENTITY copyCmd.label            "Kopier">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
+
+
+
 <!ENTITY pasteCmd.label           "Lim inn">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "L"> 
@@ -377,7 +306,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Slett nylig historikk …">
 
-<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Vis"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -410,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Åpne hjelpemeny">
 
 <!ENTITY appMenuRemoteTabs.label "Synkroniserte faner">
-<!ENTITY appMenuRemoteTabs.fetching.label "Henter synkroniserte faner …">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ingen åpne faner">
@@ -420,7 +347,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Logg inn på Firefox fra de andre enhetene for å vise deres faner her.">
+
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synkroniseringsinnstillinger">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logg inn for å vise en liste over faner fra andre enheter.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logg inn på Sync">
@@ -458,7 +385,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ja">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
-
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -479,35 +405,36 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
-<!ENTITY searchFocusUnix.commandkey   "j">
 
+<!ENTITY searchFocus.commandkey       "k">
+
+<!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
+
 <!ENTITY contentSearchInput.label     "Søkeforespørsel">
 <!ENTITY contentSearchSubmit.label    "Send søk">
-
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
+
 <!ENTITY searchFor.label              "Søk etter ">
 <!ENTITY searchWith.label             " med:">
-
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+
 <!ENTITY search.label                 "Søk ">
 <!ENTITY searchAfter.label            "">
-
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+
 <!ENTITY searchWithHeader.label       "Søk med:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -537,7 +464,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Oppdater ramme">
-<!ENTITY reloadFrameCmd.accesskey     "o">
+<!ENTITY reloadFrameCmd.accesskey     "O">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vis kildekode for valgt tekst">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Vis MathML-kildekode">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
@@ -615,11 +542,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "o">
 <!ENTITY thisFrameMenu.label              "Denne rammen">
 <!ENTITY thisFrameMenu.accesskey          "D">
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
+
 <!ENTITY mediaPlay.label             "Spill av">
 <!ENTITY mediaPlay.accesskey         "a">
 <!ENTITY mediaPause.label            "Pause">
@@ -662,17 +589,18 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Skjul statistikk">
 <!ENTITY videoHideStats.accesskey    "t">
-
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+
 <!ENTITY fullZoomEnlargeCmd.label       "Større skrift">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "S">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Mindre skrift">
@@ -754,14 +682,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified1 "Sikker tilkobling til nettstedet, drevet av:">
 <!ENTITY identity.connectionInternal "Dette er en sikker &brandShortName;-side.">
 <!ENTITY identity.insecureLoginForms2 "Innloggingsinfo skrevet inn på denne kan leses av en tredjepart.">
-
 <!-- Strings for connection state warnings. -->
+
 <!ENTITY identity.activeBlocked "&brandShortName; blokkerte deler av denne siden som ikke er sikre.">
 <!ENTITY identity.passiveLoaded "Deler av denne siden er ikke sikker (f.eks. bilder).">
 <!ENTITY identity.activeLoaded "Du har slått av beskyttelse på denne siden.">
 <!ENTITY identity.weakEncryption "Denne siden bruker svak kryptering.">
-
 <!-- Strings for connection state warnings in the subview. -->
+
 <!ENTITY identity.description.insecure "Tilkoblingen til dette nettstedet er ikke privat. Informasjon du sender kan leses av andre (som f.eks. passord, meldinger, kredittkort, osv.).">
 <!ENTITY identity.description.insecureLoginForms "Innloggingsinformasjonen du skriver inn på denne siden er ikke trygg, og kan kompromitteres.">
 <!ENTITY identity.description.weakCipher "Tilkoblingen til dette nettstedet bruker svak kryptering, og er ikke privat.">
@@ -773,8 +701,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Dette nettstedet inneholder innhold som ikke er overført sikkert (som f.eks. skript), og tilkoblingen til nettstedet er derfor ikke privat.">
 <!ENTITY identity.description.activeLoaded2 "Informasjon du sender til dette nettstedet kan vises av andre (som passord, meldinger, kredittkort, osv.).">
 
-<!ENTITY identity.enableMixedContentBlocking.label "Slå på beskyttelse">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "S">
+
 <!ENTITY identity.disableMixedContentBlocking.label "Slå av beskyttelse">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "a">
 <!ENTITY identity.learnMore "Les mer">
@@ -786,17 +713,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Tillatelser">
 <!ENTITY identity.permissionsEmpty "Du har ikke gitt dette nettstedet noen spesialtillatelser.">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Nettleserfaner">
 
+<!ENTITY tabsToolbar.label "Nettleserfaner">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
 <!ENTITY syncTabsMenu3.label     "Synkroniserte faner">
 
 <!ENTITY syncedTabs.sidebar.label              "Synkroniserte faner">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Henter synkroniserte faner …">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Logg inn på Firefox fra andre enheter for å vise deres faner her.">
+
+
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Logg inn for å vise en liste over faner fra andre enheter.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ingen åpne faner">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Åpne &syncBrand.shortName.label;-innstillinger">
@@ -804,10 +732,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Skru på fane-synkronisering for å vise en liste over faner fra dine andre enheter.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Åpne denne fanen">
-<!ENTITY syncedTabs.context.openTab.accesskey               "Å">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Bokmerk denne fanen …">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "B">
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bokmerk denne fanen …">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -907,35 +842,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Vis alle">
 <!ENTITY pluginNotification.showAll.accesskey "V">
-
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
 <!ENTITY pluginActivateNow.label "Tillat nå">
 <!ENTITY pluginActivateAlways.label "Tillat og husk">
 <!ENTITY pluginBlockNow.label "Blokker programtillegg">
-
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
+
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Lukk">
 
 <!ENTITY appMenuSidebars.label         "Sidestolper">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+
 <!ENTITY panicButton.view.mainTimeframeDesc       "Glem de siste:">
 <!ENTITY panicButton.view.5min                    "Fem minutter">
 <!ENTITY panicButton.view.2hr                     "To timene">
 <!ENTITY panicButton.view.day                     "24 timer">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
 <!ENTITY panicButton.view.mainActionDesc          "Hvis du fortsetter vil:">
 <!ENTITY panicButton.view.deleteCookies           "Nylig opprettede <html:strong>infokapsler</html:strong> slettes">
 <!ENTITY panicButton.view.deleteHistory           "Nylig <html:strong>historikk</html:strong> slettes">
