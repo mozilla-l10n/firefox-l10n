@@ -70,7 +70,7 @@
 <!ENTITY cmd.new_bookmark.accesskey        "m">
 <!ENTITY cmd.new_folder.label              "Yeni klasör…">
 <!ENTITY cmd.new_folder.accesskey          "k">
-<!ENTITY cmd.context_new_folder.accesskey  "d">
+<!ENTITY cmd.context_new_folder.accesskey  "r">
 <!ENTITY cmd.new_separator.label           "Yeni ayraç">
 <!ENTITY cmd.new_separator.accesskey       "Y">
 
