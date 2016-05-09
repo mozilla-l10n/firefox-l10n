@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Sync no">
 
 <!ENTITY sync.setup.title           "Kopla til Sync">
-<!ENTITY sync.setup.pair            "For å aktivera, vel &#x0022;Knyt til ei eining&#x0022; på den andre eininga.">
+<!ENTITY sync.setup.pair            "For å aktivera, vel &quot;Knyt til ei eining&quot; på den andre eininga.">
 <!ENTITY sync.fallback              "Eg er ikkje nær datamaskina mi …">
 <!ENTITY sync.setup.manual          "Skriv inn Sync-kontodetaljar">
 <!ENTITY sync.account               "Kontonamn">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Ventar på anna eining …">
 
 <!ENTITY sync.pair.title            "Knyt til ei eining">
-<!ENTITY sync.pair.description      "For å aktivera den andre eininga, vel &#x0022;Set opp Sync&#x0022; på eininga.">
+<!ENTITY sync.pair.description      "For å aktivera den andre eininga, vel &quot;Set opp Sync&quot; på eininga.">
 <!ENTITY sync.setup.close           "Lukk">
 <!ENTITY sync.setup.waitingdownload "Dine data vert no lasta ned i bakgrunnen. Du kan lukka dette vindauget når som helst.">
