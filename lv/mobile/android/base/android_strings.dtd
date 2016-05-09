@@ -536,9 +536,9 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; sākumlapa">
 <!ENTITY home_history_title "Vēsture">
-
-
-
+<!ENTITY home_synced_devices_smartfolder "Sinhronizētās ierīces">
+<!ENTITY home_synced_devices_number "&formatD; ierīces">
+<!ENTITY home_history_back_to2 "Atpakaļ uz pilnu vēsturi">
 <!ENTITY home_clear_history_button "Notīrīt pārlūkošanas vēsturi">
 <!ENTITY home_clear_history_confirm "Vai tiešām vēlaties notīrīt pārlūkošanas vēsturi?">
 <!ENTITY home_bookmarks_empty "Saglabātās grāmatzīmes parādās te.">
