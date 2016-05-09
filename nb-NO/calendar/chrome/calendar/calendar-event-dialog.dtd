@@ -25,20 +25,20 @@
 <!ENTITY newevent.status.needsaction.label        "Trenger handling" >
 <!ENTITY newevent.status.inprogress.label         "Under arbeid" >
 <!ENTITY newevent.status.completed.label          "Fullført" >
-
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "&#37; fullført">
 
+<!ENTITY newtodo.percentcomplete.label      "&#037; fullført">
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
+
 <!ENTITY event.attendees.notify.label               "Varsle deltakere">
 <!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "Egen invitasjon for hver deltaker">
 <!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Denne innstillingen sender en invitasjon for hver deltaker. Hver invitasjon inneholder bare informasjon om om den enkelte deltaker, slik at andre deltakere ikke vises.">
-
 <!-- Keyboard Shortcuts -->
+
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -52,8 +52,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-
 <!-- Menubar -->
+
 <!ENTITY  event.menu.item.new.label                       "Ny">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Hendelse">
@@ -144,8 +144,8 @@
 <!ENTITY event.remove.attendees.accesskey                 "F">
 <!ENTITY event.remove.attendee.label                      "Fjern deltaker">
 <!ENTITY event.remove.attendee.accesskey                  "e">
-
 <!-- Toolbar -->
+
 <!ENTITY  event.toolbar.save.label                        "Lagre og lukk">
 <!ENTITY  event.toolbar.delete.label                      "Slett">
 <!ENTITY  event.toolbar.attendees.label                   "Inviter deltakere">
@@ -159,8 +159,8 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Endre prioritet">
 <!ENTITY  event.toolbar.status.tooltip                    "Endre status">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Endre ledig/opptatt-tid">
-
 <!-- Main page -->
+
 <!ENTITY event.title.textbox.label                        "Tittel:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Sted:" >
@@ -226,8 +226,8 @@
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Tid som:">
 <!ENTITY event.statusbarpanel.privacy.label               "Personvern:">
-
 <!-- Recurrence dialog -->
+
 <!ENTITY recurrence.title.label                         "Rediger gjentakelse">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Gjentas ikke">
@@ -276,7 +276,6 @@
 <!ENTITY event.recurrence.every.label                        "Hver:" >
 <!ENTITY repeat.units.years.both                             "år" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Hver" >
-
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -284,6 +283,7 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
+
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Januar" >
@@ -333,8 +333,8 @@
 <!ENTITY event.recurrence.appointments.label            "avtaler" >
 <!ENTITY event.repeat.until.label                       "Gjenta frem til" >
 <!ENTITY event.recurrence.preview.label                 "Forhåndsvisning">
-
 <!-- Attendees dialog -->
+
 <!ENTITY invite.title.label                     "Inviter deltakere">
 <!ENTITY event.organizer.label                  "Organisert av">
 <!ENTITY event.freebusy.suggest.slot            "Foreslå tidsluke:">
@@ -355,12 +355,12 @@
 <!ENTITY event.attendee.usertype.resource       "Ressurs">
 <!ENTITY event.attendee.usertype.room           "Rom">
 <!ENTITY event.attendee.usertype.unknown        "Ukjent">
-
 <!-- Timezone dialog -->
+
 <!ENTITY timezone.title.label            "Oppgi tidssone">
 <!ENTITY event.timezone.custom.label     "Flere tidssoner …">
-
 <!-- Read-Only dialog -->
+
 <!ENTITY read.only.general.label         "Generelt">
 <!ENTITY read.only.title.label           "Tittel:">
 <!ENTITY read.only.event.start.label     "Startdato:">
