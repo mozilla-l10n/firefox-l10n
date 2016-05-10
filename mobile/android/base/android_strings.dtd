@@ -598,7 +598,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Khusela Uqhagamshelo">
 <!ENTITY identity_connection_insecure "Uqhagamshelo olungakhuselekanga">
 <!ENTITY identity_login_insecure "Eli phepha alikhuselekanga yaye ukuloga kwakho ungene kusemngciphekweni.">
-<!ENTITY identity_connection_chromeui "Le yi-&amp;brandShortName ekhuselekileyo; iphepha">
+<!ENTITY identity_connection_chromeui "Le yi-&brandShortName; ekhuselekileyo iphepha">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "I-&brandShortName; ibhloke ii-elementi ezingakhuselekanga kweli phepha.">
