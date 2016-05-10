@@ -429,38 +429,38 @@ size. -->
 <!ENTITY new_private_tab "Hilpekîna Nû Ya Taybet">
 <!ENTITY close_all_tabs "Hemû Hilpekînan Bigire">
 <!ENTITY close_private_tabs "Hilpekînên Taybet Bigire">
-
+<!ENTITY tabs_normal "Hilpekîn">
 <!ENTITY tabs_private "Taybet">
 <!ENTITY set_image_fail "Nikare wêneyê eyar bike">
 <!ENTITY set_image_path_fail "Nikare wêneyê qeyd bike">
-
+<!ENTITY set_image_chooser_title "Wêneyî eyar bike">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY find_text "Di Rûpelê De Bibîne">
 <!ENTITY find_prev "Paşve">
-
-
+<!ENTITY find_next "Pêşve">
+<!ENTITY find_close "Bigire">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "Ji Cîhazê Re Tê Şandin">
 <!ENTITY media_play "Lê Bide">
 <!ENTITY media_pause "Rawestîne">
-
+<!ENTITY media_stop "Bisekinîne">
 
 <!ENTITY contextmenu_open_new_tab "Di hilpekîneke nû de veke">
 <!ENTITY contextmenu_open_private_tab "Di Hilpekîna Nepen de Veke">
-
+<!ENTITY contextmenu_remove "Rake">
 <!ENTITY contextmenu_add_to_launcher "Têxe Ekrana Giştî">
-
+<!ENTITY contextmenu_share "Parve bike">
 <!ENTITY contextmenu_pasteandgo "Bizeliqîne &amp; Here">
 <!ENTITY contextmenu_paste "Pê ve bike">
 <!ENTITY contextmenu_copyurl "Navnîşanê ji ber bigire">
 <!ENTITY contextmenu_edit_bookmark "Serast bike">
 <!ENTITY contextmenu_subscribe "Li rûpelê bibe abone">
 <!ENTITY contextmenu_site_settings "Eyarên malperê serast bike">
-
+<!ENTITY contextmenu_top_sites_edit "Serast bike">
 <!ENTITY contextmenu_top_sites_pin "Malperê sabît bike">
 <!ENTITY contextmenu_top_sites_unpin "Malperê nesabît bike">
 <!ENTITY contextmenu_add_search_engine "Motoreke lêgerînê lê zêde bike">
@@ -469,13 +469,13 @@ size. -->
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_no_username "[Navê Bikarhêner Tune]">
-
+<!ENTITY doorhanger_login_edit_title "Têketinê serast bike">
 <!ENTITY doorhanger_login_edit_username_hint "Navê bikarhêner">
-
+<!ENTITY doorhanger_login_edit_password_hint "Şîfre">
 <!ENTITY doorhanger_login_edit_toggle "Şîfreyê nîşan bide">
 <!ENTITY doorhanger_login_edit_toast_error "Qeydkirina têketinê bi ser neket">
 <!ENTITY doorhanger_login_select_message "Şîfreyê ji &formatS;ê kopî bike?">
-
+<!ENTITY doorhanger_login_select_toast_copy "Şîfre li panoyê hat kopîkirin">
 <!ENTITY doorhanger_login_select_toast_copy_error "Nikare şîfreyê kopî bike">
 <!ENTITY doorhanger_login_select_action_text "Têketineke din hilbijêre">
 <!ENTITY doorhanger_login_select_title "Şîfreyê ji vê kopî bike">
@@ -483,36 +483,47 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Deverên biçûk mezin bike">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Girêdank û qadên formê yên ku min li nêzîkî wan tikandiye mezin bike">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "Gera ekrana tijî">
+<!ENTITY pref_scroll_title_bar_summary2 "Dema ku rûpelê berev jêrê kaş bikim darikê amûran yê &brandShortName;ê veşêre.">
 
-
+<!ENTITY pref_tab_queue_title3 "Dora hilpekînan">
+<!ENTITY pref_tab_queue_summary4 "Heta ku &brandShortName;.careke din bê vekirin girêdankan tomar bike.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
+<!ENTITY page_removed "Rûpel hat rakirin">
+
+<!ENTITY bookmark_edit_title "Bijareyan seras bike">
 <!ENTITY bookmark_edit_name "Nav">
 <!ENTITY bookmark_edit_location "Cî">
-
+<!ENTITY bookmark_edit_keyword "Peyva Kilît">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-
+<!ENTITY site_settings_title3       "Eyarên malperê">
+<!ENTITY site_settings_cancel       "Betal">
+<!ENTITY site_settings_clear        "Paqij bike">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
+<!ENTITY page_action_dropmarker_description "Çalakiyên pêvekî">
 
-
-
+<!ENTITY masterpassword_create_title "Şîfreya birêveberiyê çêke">
+<!ENTITY masterpassword_remove_title "Şîfreya birêveberiyê rake">
+<!ENTITY masterpassword_password "Şîfre">
+<!ENTITY masterpassword_confirm "Şîfreyê pesend bike">
 
 <!ENTITY button_ok "OK">
-
-
-
-
-
+<!ENTITY button_cancel "Betal">
+<!ENTITY button_yes "Erê">
+<!ENTITY button_no "Na">
+<!ENTITY button_clear_data "Daneyan paqij bike">
+<!ENTITY button_set "Eyar bike">
 
 <!ENTITY button_copy "Kopî bike">
 
