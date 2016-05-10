@@ -16,7 +16,7 @@
 <!ENTITY addOnsWeekly.accesskey               "k">
 <!ENTITY addOnsModeAutomatic.label            "Automatically download and install the updates">
 <!ENTITY addOnsModeAutomatic.accesskey        "m">
-<!ENTITY enablePersonalized.label             "Personalize add-on recommendations">
+<!ENTITY enablePersonalized.label             "Personalise add-on recommendations">
 <!ENTITY enablePersonalized.accesskey         "P">
 <!ENTITY addonManagerLink.label               "Manage Add-ons">
 

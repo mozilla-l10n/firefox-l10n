@@ -13,7 +13,7 @@
 <!ENTITY size.accesskey                   "z">
 <!ENTITY bigger.label                     "Bigger">
 <!ENTITY smaller.label                    "Smaller">
-<!ENTITY color.label                      "Color:">
+<!ENTITY color.label                      "Colour:">
 <!ENTITY color.accesskey                  "C">
 <!ENTITY displayPlainText.caption         "Plain text messages">
 <!ENTITY fontPlainText.label              "Font:">

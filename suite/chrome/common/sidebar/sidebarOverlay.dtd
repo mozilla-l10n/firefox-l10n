@@ -6,7 +6,7 @@
 <!ENTITY sidebar.reload.label           "Reload">
 <!ENTITY sidebar.reload.accesskey       "R">
 <!ENTITY sidebar.picker.label           "Tabs">
-<!ENTITY sidebar.customize.label        "Customize Sidebar…">
+<!ENTITY sidebar.customize.label        "Customise Sidebar…">
 <!ENTITY sidebar.customize.accesskey    "u">
 <!ENTITY sidebar.hide.label             "Hide Tab">
 <!ENTITY sidebar.hide.accesskey         "H">

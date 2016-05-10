@@ -129,7 +129,7 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY customizeToolbarContext.label            "Customize…">
+<!ENTITY customizeToolbarContext.label            "Customise…">
 <!ENTITY customizeToolbarContext.accesskey        "C">
 
 <!ENTITY customizeToolbar.toolbarmode.label       "Settings for this toolbar">
