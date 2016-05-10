@@ -145,7 +145,7 @@
 <!ENTITY calendar.task-details.start.label           "start date">
 <!ENTITY calendar.task-details.due.label             "due date">
 
-<!ENTITY calendar.task.category.button.tooltip  "Categorize tasks">
+<!ENTITY calendar.task.category.button.tooltip  "Categorise tasks">
 <!ENTITY calendar.task.complete.button.tooltip  "Mark selected tasks completed">
 <!ENTITY calendar.task.priority.button.tooltip  "Change the priority">
 
