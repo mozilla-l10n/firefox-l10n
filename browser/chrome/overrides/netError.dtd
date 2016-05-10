@@ -24,6 +24,7 @@
 <!ENTITY fileNotFound.title "Fann ikkje fila">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontroller filnamnet etter skilnader i store/små bokstavar eller andre skrivefeil.</li> <li>Kontroller om fila er flytta, har endra namn eller er sletta.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "Tilgang til fila vart nekta">
 
 
 <!ENTITY generic.title "Oops.">
@@ -71,6 +72,7 @@
 <!ENTITY nssFailure2.title "Trygt samband feila">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Sida du freistar å opna kan ikkje visast fordi det ikkje kan stadfestast at overførde data er autentiske.</li> <li>Kontakt nettstadeigarane og informer om problemet.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "Tilkoplinga di er ikkje trygg">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -108,5 +110,6 @@ was trying to connect. -->
 
 
 
+<!ENTITY inadequateSecurityError.title "Tilkoplinga di er ikkje trygg">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

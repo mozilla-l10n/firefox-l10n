@@ -15,8 +15,8 @@
 <!ENTITY aboutPrivateBrowsing.info.searches              "Søk">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "Infokapslar">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Mellombelse filer">
-
-
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "vil lagra">
 
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Nedlastingar">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Bokmerke">
