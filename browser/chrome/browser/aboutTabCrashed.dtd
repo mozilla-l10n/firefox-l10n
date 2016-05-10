@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "Les males noticies primero: esta llingüeta falló">
-<!ENTITY tabCrashed.message "Agora les bones noticies: Pues zarrar esta llingüeta, restaurala o restaurar toles llingüetes que cascaron.">
+<!ENTITY tabCrashed.header "Primero les males noticies: esta llingüeta cascó">
+<!ENTITY tabCrashed.message "Agora les bones: Pues zarrar esta llingüeta, restaurala o restaurar toles llingüetes que cascaron.">
 <!ENTITY tabCrashed.sendReport "Unvia un informe de fallu p'ayudar a evitar más males noticies">
 <!ENTITY tabCrashed.includeURL "Incluyir la direición de la páxina na que taba">
 <!ENTITY tabCrashed.commentPlaceholder "Amiesta un comentariu (los comentarios son públicos)">
@@ -13,4 +13,4 @@
 <!ENTITY tabCrashed.reportSent "Yá s'unvió l'informe de fallu; ¡gracies por ayudar a ameyorar &brandShortName;!">
 <!ENTITY tabCrashed.closeTab "Zarrar esta llingüeta">
 <!ENTITY tabCrashed.restoreTab "Restaurar esta llingüeta">
-<!ENTITY tabCrashed.restoreAll "Restaurar toles llingüetes fallíes">
+<!ENTITY tabCrashed.restoreAll "Restaurar toles llingüetes que cascaron">

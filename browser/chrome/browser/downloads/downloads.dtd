@@ -42,8 +42,8 @@
 
 <!ENTITY cmd.pause.label                  "Posar">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Continuar">
-<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.resume.label                 "Siguir">
+<!ENTITY cmd.resume.accesskey             "S">
 <!ENTITY cmd.cancel.label                 "Encaboxar">
 <!ENTITY cmd.cancel.accesskey             "E">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
@@ -51,21 +51,21 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "Abrir la carpeta que lu contién">
-<!ENTITY cmd.show.accesskey               "b">
+<!ENTITY cmd.show.label                   "Abrir carpeta contenedora">
+<!ENTITY cmd.show.accesskey               "c">
 <!ENTITY cmd.showMac.label                "Amosar en Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.retry.label                  "Reintentar">
-<!ENTITY cmd.goToDownloadPage.label       "Dir a la páxina de la descarga">
+<!ENTITY cmd.retry.label                  "Retentar">
+<!ENTITY cmd.goToDownloadPage.label       "Dir a la páxina de descarga">
 <!ENTITY cmd.goToDownloadPage.accesskey   "X">
-<!ENTITY cmd.copyDownloadLink.label       "Copiar enllaz de la descarga">
-<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.copyDownloadLink.label       "Copiar enllaz de descarga">
+<!ENTITY cmd.copyDownloadLink.accesskey   "E">
 <!ENTITY cmd.removeFromHistory.label      "Desaniciar del historial">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "Llimpiar llista">
+<!ENTITY cmd.clearList.label              "Llimpiar llistáu">
 <!ENTITY cmd.clearList.accesskey          "a">
 <!ENTITY cmd.clearDownloads.label         "Llimpiar descargues">
-<!ENTITY cmd.clearDownloads.accesskey     "D">
+<!ENTITY cmd.clearDownloads.accesskey     "C">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
@@ -92,14 +92,14 @@
      Shown as a tag before the file name for some types of blocked downloads.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
-<!ENTITY blocked.label                    "BLOQUIÁU">
+<!ENTITY blocked.label                    "BLOQUIÓSE">
 
 <!-- LOCALIZATION NOTE (learnMore.label):
      Shown as a text link for some types of blocked downloads, for example
      malware, when there is an associated explanation page on the Mozilla site.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
-<!ENTITY learnMore.label                  "Deprender más">
+<!ENTITY learnMore.label                  "Depriendi más">
 
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
@@ -107,7 +107,7 @@
      the panel at all.
      -->
 <!ENTITY downloadsHistory.label           "Amosar toles descargues">
-<!ENTITY downloadsHistory.accesskey       "S">
+<!ENTITY downloadsHistory.accesskey       "A">
 
 <!ENTITY clearDownloadsButton.label       "Llimpiar descargues">
 <!ENTITY clearDownloadsButton.tooltip     "Llimpia les descargues completes, encaboxaes y fallíes">
@@ -121,10 +121,10 @@
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
-<!ENTITY downloadsPanelEmpty.label        "Nun hai descargues nesta sesión">
+<!ENTITY downloadsPanelEmpty.label        "Nun hai descargues pa esta sesión.">
 
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
      -->
-<!ENTITY downloadsListNoMatch.label       "Nun s'atopen desgargues que concasen.">
+<!ENTITY downloadsListNoMatch.label       "Nun pudieron alcontrase descargues que concasen.">
