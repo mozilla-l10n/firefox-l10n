@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Problemas al cargar la página">
 <!ENTITY retry.label "Intentar de nuevo">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "No se puede conectar">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -24,6 +24,8 @@
 <!ENTITY fileNotFound.title "No se encontró el archivo">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Comprueba que el nombre del archivo no contenga errores.</li> <li>Verifica si el archivo se borró, movió o renombró.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "El acceso al archivo fue denegado">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Puede haber sido eliminado o movido, o puede que los permisos del archivo impidan el acceso.</li> </ul>">
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; no puede cargar esta página por alguna razón.</p>">
@@ -78,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "La conexión segura ha fallado">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Esto podría ser un problema con la configuración del servidor o tal vez alguienestá intentando hacerse pasar por éste.</li> <li>Si te has conectado a este servidor anteriormente con éxito el error podría ser temporalintentalo más tarde.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>El sitio puede estar temporalmente no disponible o demasiado ocupado. Intenta de nuevo en unos minutos.</li> <li>Si no puedes cargar ninguna página, revisa los datos de tu dispositivo o tu conexión Wi-Fi. <button id='wifi'>Activar Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Bloqueado por la Política de Seguridad de Contenido">
@@ -92,11 +94,11 @@
 <!ENTITY securityOverride.linkText "O puedes agregar una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sácame de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>No deberías agregar una excepción si estás usando una conexión a Internet en la que no confías completamente o si no estás acostumbrado a ver una advertencia para este servidor.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -112,3 +114,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Información avanzada: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Tu conexión no es segura">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utiliza tecnología de seguridad que es obsoleta y vulnerable a ataques. Un atacante podría revelar fácilmente información que pienses que es segura. El administrador del sitio web tendrá que corregir el problema antes de que puedas visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
