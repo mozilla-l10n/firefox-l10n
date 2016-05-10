@@ -49,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Завжди показувати Відповісти Відправнику">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "В">
 
-<!ENTITY otherActionsButton.tooltip "More actions">
+<!ENTITY otherActionsButton2.label "Більше">
+<!ENTITY otherActionsButton.tooltip "Більше дій">
 <!ENTITY otherActionsOpenConversation1.label "Відкрити в розмові">
 <!ENTITY otherActionsOpenConversation1.accesskey "б">
 <!ENTITY otherActionsOpenInNewWindow1.label "Відкрити у новому вікні">
