@@ -17,7 +17,7 @@
 <!ENTITY clickToActivatePlugin                               "Titz'ij pluyin.">
 <!ENTITY checkForUpdates                                     "Kekanöx taq k'exoj ruwäch…">
 <!ENTITY disabledPlugin                                      "Re jun pluyin re' chupül.">
-<!ENTITY blockedPlugin.label                                 "Xq'eleb'ëx rusamaj re jun pluyin re' richin yachajïx.">
+<!ENTITY blockedPlugin.label                                 "Xq'eleb'ëx rusamaj re jun nak'ab'äl re' richin yachajïx.">
 <!ENTITY hidePluginBtn.label                                 "Tewäx ri pluyin">
 <!ENTITY managePlugins                                       "Tinuk'samajïx ri pluyin…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->

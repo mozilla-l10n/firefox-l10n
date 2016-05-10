@@ -223,8 +223,8 @@ values from browser.dtd.  -->
 <!ENTITY options.sourceeditor.label                     "Taq rajowaxik nuk'unel">
 <!ENTITY options.sourceeditor.detectindentation.label   "Xtz'et ruchi' cholaj">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Tawila' ri ruchi' cholaj ri k'o ruq'ij chi rupam ri ruxe'el">
-<!ENTITY options.sourceeditor.autoclosebrackets.label   "Rutz'apixik ruyonil q'inijuch'">
-<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Tich'ap pa ruyonil tz'apäl taq q'inijuch'">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Tutz'apij ri' ruyon ri q'inijuch'">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Tich'ap pa ruyonil tz'apin taq q'inijuch'">
 <!ENTITY options.sourceeditor.expandtab.label           "Ruchi' cholaj nrokisab'ej taq kojol ">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Ke'okisäx taq kojol pa ruk'exel ri rutz'ib' rukojol">
 <!ENTITY options.sourceeditor.tabsize.label             "Runimilem ruwi'">

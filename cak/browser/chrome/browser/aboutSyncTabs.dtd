@@ -12,9 +12,9 @@
 <!ENTITY tabs.context.openTab.accesskey               "T">
 <!ENTITY tabs.context.openMultipleTabs.label          "Kejaq ri cha'on taq ruwi'">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "K">
-<!ENTITY tabs.context.bookmarkSingleTab.label         "Titaq re ruwi' re' pa taq etal…">
-<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "e">
-<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Ketz'aqatisäx pa taq etal ri cha'on taq ruwi'…">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Titaq re ruwi' re' pa taq yaketal…">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "y">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Ketz'aqatisäx pa taq yaketal ri cha'on taq ruwi'…">
 <!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "t">
 <!ENTITY tabs.context.refreshList.label               "Tik'ex ruwäch ri rucholajem">
 <!ENTITY tabs.context.refreshList.accesskey           "T">

@@ -46,7 +46,7 @@
 <!ENTITY certmgr.certserver                   "Ruk'u'x samaj">
 <!ENTITY certmgr.override_lifetime            "Rutzil k'aslem">
 <!ENTITY certmgr.tokenname                    "Rokisaxel jikomal">
-<!ENTITY certmgr.begins                       "Tatikirisaj ri">
+<!ENTITY certmgr.begins                       "Tatikirisaj pa">
 <!ENTITY certmgr.expires                      "Nik'is ruq'ijul pa">
 <!ENTITY certmgr.email                        "Rochochib'al taqoya'l">
 <!ENTITY certmgr.serial                       "Rucholajem rajilab'al">

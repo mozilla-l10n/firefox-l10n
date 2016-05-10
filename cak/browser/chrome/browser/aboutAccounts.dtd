@@ -5,7 +5,7 @@
 <!ENTITY aboutAccounts.welcome "Matyox xatuqa pa &syncBrand.shortName.label;">
 <!ENTITY aboutAccounts.connected "Okisan ri taqoya'l">
 
-<!ENTITY aboutAccountsConfig.description "Katok chupam asamaj richin yeximitäj ri taq ruwi', yakäl taq etal, ewan tzij chuqa' juley chik.">
+<!ENTITY aboutAccountsConfig.description "Katok chupam asamaj richin yeximitäj ri taq ruwi', yakäl taq yaketal, ewan tzij chuqa' juley chik.">
 <!ENTITY aboutAccountsConfig.startButton.label "Titikirisäx">
 <!ENTITY aboutAccountsConfig.useOldSync.label "¿Tajin nawokisaj jun ojer rub'eyal ri Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Taq rajowaxik ximojri'ïl">

@@ -42,7 +42,7 @@ can reach it easily. -->
 <!ENTITY  unpinTab.accesskey                 "t">
 <!ENTITY  moveToNewWindow.label              "Rujalik pa jun k'aka' ruwi' kajtz'ïk">
 <!ENTITY  moveToNewWindow.accesskey          "l">
-<!ENTITY  bookmarkAllTabs.label              "Ketz'aqatisäx taq ruwi' pa taq yaköl etal…">
+<!ENTITY  bookmarkAllTabs.label              "Ketz'aqatisäx taq ruwi' pa taq yaketal…">
 <!ENTITY  bookmarkAllTabs.accesskey          "r">
 <!ENTITY  undoCloseTab.label                 "Titzolïx chi rij ri rutz'apixik ruk'isib'al ruwi'">
 <!ENTITY  undoCloseTab.accesskey             "T">
@@ -75,13 +75,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Rucholob'al cha'osamaj">
 <!ENTITY menubarCmd.accesskey "c">
 <!ENTITY navbarCmd.label "Rukajtz'ik okem pa k'amaya'l">
-<!ENTITY personalbarCmd.label "Kicholob'al taq kisamajib'al taq etal">
+<!ENTITY personalbarCmd.label "Kicholob'al taq kisamajib'al taq yaketal">
 <!ENTITY personalbarCmd.accesskey "K">
-<!ENTITY bookmarksToolbarItem.label "Ruch'akulal taq retal cholsamajib'äl">
+<!ENTITY bookmarksToolbarItem.label "Ruch'akulal taq kiyaketal cholsamajib'äl">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Kesamajib'ëx chik konojel ri taq ruwi'">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "k">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Ketz'aqatisäx apo konojel ri taq ruwi' pa taq yaköl etal…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Ketz'aqatisäx apo konojel ri taq ruwi' pa taq yaketal…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "r">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Titzolïx chi rij ri rutz'apixik ruk'isib'al ruwi'">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "T">
@@ -141,10 +141,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Rutz'apixik kajtz'ïk">
 <!ENTITY closeWindow.accesskey "k">
 
-<!ENTITY bookmarksMenu.label "Taq etal">
-<!ENTITY bookmarksMenu.accesskey "e">
-<!ENTITY bookmarkThisPageCmd.label "Titz'aqatisäx re ruxaq re' pa taq yaköl etal">
-<!ENTITY editThisBookmarkCmd.label "Yujun taq Samajib'äl">
+<!ENTITY bookmarksMenu.label "Taq yaketal">
+<!ENTITY bookmarksMenu.accesskey "y">
+<!ENTITY bookmarkThisPageCmd.label "Titz'aqatisäx re ruxaq re' pa taq yaketal">
+<!ENTITY editThisBookmarkCmd.label "Tinuk' re yaketal re'">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
@@ -166,11 +166,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "Tatz'ib'aj ab'i' pa re ruxaq re'">
 <!ENTITY subscribeToPageMenupopup.label "Tatz'ib'aj ab'i' pa re jun ruxaq re'">
 <!ENTITY subscribeToPageMenuitem.label "Tatz'ib'aj ab'i' pa re ruxaq wuj…">
-<!ENTITY addCurPagesCmd.label "Taya' ronojel ri taq ruwi'…">
-<!ENTITY showAllBookmarks2.label "Kek'ut konojel ri taq etal">
-<!ENTITY recentBookmarks.label "K'a ja xya' ketal">
+<!ENTITY addCurPagesCmd.label "Tiyak ketal konojel ri taq ruwi'…">
+<!ENTITY showAllBookmarks2.label "Kek'ut konojel ri taq yaketal">
+<!ENTITY recentBookmarks.label "K'a nimakol tiya' ketal">
 <!ENTITY otherBookmarksCmd.label "Ch'aqa' chik taq Yaketal">
-<!ENTITY bookmarksToolbarChevron.tooltip "Kek'ut pe ch'aqa' chik taq etal">
+<!ENTITY bookmarksToolbarChevron.tooltip "Kek'ut pe ch'aqa' chik taq yaketal">
 
 <!ENTITY backCmd.label                "Chi ruwäch">
 <!ENTITY backButton.tooltip           "Tib'e pa jun kan ruxaq">
@@ -220,13 +220,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Tikirib'äl">
 
-<!ENTITY bookmarksButton.label          "Taq retal">
+<!ENTITY bookmarksButton.label          "Taq yaketal">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Taq retal">
+<!ENTITY bookmarksMenuButton.label          "Taq yaketal">
 <!ENTITY bookmarksMenuButton.other.label "Ch'aqa' chik taq Yaketal">
-<!ENTITY viewBookmarksSidebar2.label        "Rutz'etik Sidebar Etal ">
-<!ENTITY viewBookmarksToolbar.label         "Rutz'etik ri rucholanel samajib'äl">
+<!ENTITY viewBookmarksSidebar2.label        "Titz'et ri ajxikin kipas taq yaketal ">
+<!ENTITY viewBookmarksToolbar.label         "Titz'et rukatz'ik taq yaketal">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -494,9 +494,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "c">
 <!ENTITY setDesktopBackgroundCmd.label      "Ruya'ik chupam rutzub'al…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "R">
-<!ENTITY bookmarkPageCmd2.label       "Titz'aqatisäx re ruxaq re' pa taq yaköl etal">
-<!ENTITY bookmarkThisLinkCmd.label      "Rutzaqatisaxik re jun ximon tzij re' pa taq samajib'äl">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "s">
+<!ENTITY bookmarkPageCmd2.label       "Titz'aqatisäx re ruxaq re' pa taq yaketal">
+<!ENTITY bookmarkThisLinkCmd.label      "Titzaqatisäx re jun ximonel re' pa taq yaketal">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "x">
 <!ENTITY bookmarkThisFrameCmd.label      "Titz'aqatisäx re ruchi' kajtz'ik re' pa taq etal">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "e">
 <!ENTITY emailPageCmd.label           "Titaq ximonel tzij…">
@@ -743,7 +743,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Tijaq pa jun k'ak'a' ichinan tzuwäch">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "i">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Titz'aqatisäx re ruxaq re' pa taq etal…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Titz'aqatisäx re ruxaq re' pa taq yaketal…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "T">
 <!ENTITY syncedTabs.context.copy.label                       "Tiwachib'ëx">
 <!ENTITY syncedTabs.context.copy.accesskey                   "c">
@@ -848,8 +848,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.showAll.accesskey "T">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-<!ENTITY pluginActivateNow.label "Ruya'ik q'ij wakami">
-<!ENTITY pluginActivateAlways.label "Ruya'ik q'ij chuqa' runataxik">
+<!ENTITY pluginActivateNow.label "Tiya' q'ij wakami">
+<!ENTITY pluginActivateAlways.label "Tiya' q'ij chuqa' tinatäx">
 <!ENTITY pluginBlockNow.label "Tiq'at nak'ab'äl">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been

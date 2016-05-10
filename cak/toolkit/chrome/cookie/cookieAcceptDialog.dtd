@@ -11,7 +11,7 @@
 
 <!ENTITY     button.allow.label             "ruya'ik q'ij">
 <!ENTITY     button.allow.accesskey         "r">
-<!ENTITY     button.session.label           "Ruya'ik q'ij moloj">
+<!ENTITY     button.session.label           "Tiya' q'ij pa re molojri'ïl re'">
 <!ENTITY     button.session.accesskey       "m">
 <!ENTITY     button.deny.label              "Tiq'at">
 <!ENTITY     button.deny.accesskey          "T">
