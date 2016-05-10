@@ -4,7 +4,7 @@
 
 <!ENTITY pref.tags.title            "Tags">
 <!ENTITY pref.tags.caption          "Customise Tags">
-<!ENTITY pref.tags.description      "Tags can be used to categorize and prioritize your messages. Modify the appearance and importance of tags using the settings below. Tags near the top are more important than those further down.">
+<!ENTITY pref.tags.description      "Tags can be used to categorise and prioritise your messages. Modify the appearance and importance of tags using the settings below. Tags near the top are more important than those further down.">
 <!ENTITY tagColumn.label            "Tag">
 <!ENTITY colorColumn.label          "Colour">
 <!ENTITY defaultTagName.label       "Untitled Tag">

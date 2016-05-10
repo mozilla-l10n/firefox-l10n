@@ -11,7 +11,7 @@
 <!ENTITY position.center.label      "Centre">
 <!ENTITY position.fill.label        "Fill">
 <!ENTITY position.fit.label         "Fit">
-<!ENTITY picker.label               "Color:">
+<!ENTITY picker.label               "Colour:">
 <!ENTITY picker.accesskey           "C">
 <!ENTITY preview.caption            "Preview">
 <!ENTITY apply.label                "Apply">
