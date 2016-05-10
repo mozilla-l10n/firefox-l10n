@@ -31,7 +31,7 @@
 <!ENTITY removeCloudFileAccount.label     "Remove">
 <!ENTITY removeCloudFileAccount.accesskey "R">
 <!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
-<!ENTITY authRequired.button.label        "Authorize">
+<!ENTITY authRequired.button.label        "Authorise">
 <!ENTITY authRequired.button.accesskey    "u">
 
 <!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">

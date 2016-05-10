@@ -32,7 +32,7 @@
 <!ENTITY successful.write "Write some email">
 <!ENTITY successful.write.desc "Let your friends and family know about your new address.<br/> That's why you got this new account, isn't it?">
 <!ENTITY successful.customize "Customise &brandShortName; with some cool add-ons">
-<!ENTITY successful.customize.desc "There are thousands of add-ons that let you customize &brandShortName; to make it fit your specific needs.">
+<!ENTITY successful.customize.desc "There are thousands of add-ons that let you customise &brandShortName; to make it fit your specific needs.">
 <!ENTITY successful.attach "Attach a personal signature to my email">
 <!ENTITY successful.attach.desc "You can automatically attach a quote or some information about yourself to the end of every message you send.">
 <!ENTITY successful.close "Close this window.">
