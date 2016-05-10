@@ -524,7 +524,7 @@ size. -->
 <!ENTITY button_no "Na">
 <!ENTITY button_clear_data "Daneyan paqij bike">
 <!ENTITY button_set "Eyar bike">
-
+<!ENTITY button_clear "Paqij bike">
 <!ENTITY button_copy "Kopî bike">
 
 <!ENTITY home_top_sites_title "Malperên sereke">
@@ -534,40 +534,56 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY home_title "Serûpela &brandShortName;ê">
+<!ENTITY home_history_title "Raborî">
+<!ENTITY home_synced_devices_smartfolder "Cîhazên synkkirî">
+<!ENTITY home_synced_devices_number "&formatD; cîhaz">
+<!ENTITY home_history_back_to2 "Vegere hemû Raboriyê">
+<!ENTITY home_clear_history_button "Raboriya gerê jê bibe">
+<!ENTITY home_clear_history_confirm "Tu ji dil dixwazî ku raboriyê jê bibî?">
+<!ENTITY home_bookmarks_empty "Bijareyên tu qeyd dikî li virê tên nîşandan.">
+<!ENTITY home_closed_tabs_title "Hilpekînên dawiyê hatine girtin">
+<!ENTITY home_last_tabs_title "Hilpekînên danişîna dawiyê">
+<!ENTITY home_last_tabs_empty "Hilpekînên te yên dawiyê li virê tên nîşandan.">
+<!ENTITY home_open_all "Hemûyan veke">
+<!ENTITY home_most_recent_empty "Malperên te dawiyê vekirine li virê tên nîşandan.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Pşşt: Heke tu &formatS1;Hilpekîneke Nû ya Nepen&formatS2; vekî raborî dê neyê tomarkirin.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "Ji bo vê panelê naverok nehat dîtin.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Vegere: &formatS;">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; cîhaz hatin veşartin">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Cîhazên veşartî">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Cîhazên hilbijartî nîşan bide">
 
+<!ENTITY remote_tabs_panel_moved_title "Hilpekînên min çûn ku derê?">
+<!ENTITY remote_tabs_panel_moved_desc "Me hilpekînên te yên di cîhazên din de bar kirin paneleke li serûpelê. Her ku hilpekînekê vekî tu yê wan bi hêsanî bibînî.">
+<!ENTITY remote_tabs_panel_moved_link "Min bibe panela min a nû.">
 
+<!ENTITY pin_site_dialog_hint "Peyva kilît ya lêgerînê binivîse">
 
-
-
-
-
-
+<!ENTITY filepicker_title "Pelî hilbijêre">
+<!ENTITY filepicker_audio_title "Dengekî hilbijêre yan qeyd bike">
+<!ENTITY filepicker_image_title "Wêneyekî hilbijêre yan bikişîne">
+<!ENTITY filepicker_video_title "Vîdyoyekê hibijêre yan qeyd bike">
 <!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "Malpera hatî girêdan">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -579,23 +595,31 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
-
-
+<!ENTITY identity_connection_secure "Girêdana ewle">
+<!ENTITY identity_connection_insecure "Girêdana neewle">
+<!ENTITY identity_login_insecure "Ev rûpel ewle nîne û dibe ku zanyariyên te bêparastin bin.">
+<!ENTITY identity_connection_chromeui "Ev rûpeleke &brandShortName;ê ya ewle ye">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName;ê naveroka neewle ya vê rûpelê asteng kir.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName;ê hin beşên naveroka neewle ya vê rûpelê asteng kir.">
+<!ENTITY mixed_content_display_loaded1 "Hin beşên vê rûpelê (wekî wêneyan) ewle nînin.">
+<!ENTITY mixed_content_protection_disabled1 "Te parastina ji naverokên neewle neçalak kir.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
-
+<!ENTITY doorhanger_tracking_title2 "Parastina ji Şopandinê">
+<!ENTITY doorhanger_tracking_state_enabled "Çalak">
+<!ENTITY doorhanger_tracking_state_disabled "Neçalak">
+<!ENTITY doorhanger_tracking_message_enabled1 "Hewldanên ji bo şopandina te ya li ser înternetê hatin astengkirin.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Di vê rûpelê de elementên ku dikarin te bişopînin hene.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
+<!ENTITY learn_more "Bêtir bizane">
+<!ENTITY enable_protection "Parastinê çalak bike">
+<!ENTITY disable_protection "Parastinê bigire">
 
-
-
+<!ENTITY private_data_success "Daneyên taybet hatin paqijkirin">
+<!ENTITY private_data_fail "Hin daneyên taybet nekarîn bên paqijkirin">
 
 
 
