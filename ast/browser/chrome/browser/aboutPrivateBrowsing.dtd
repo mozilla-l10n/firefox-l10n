@@ -2,30 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate                 "Agora nun tas nuna ventana privada">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Anguaño nun tas nuna ventana privada.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Abrir una ventana privada">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-<!ENTITY privateBrowsing.title                           "Navegación privada">
+<!ENTITY privateBrowsing.title                           "Restolar en privao">
 <!ENTITY privateBrowsing.title.tracking                  "Restolar en privao con proteición de rastrexu">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Cuando restoles nuna ventana privada, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nun guarda">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "páxines visitaes">
-<!ENTITY aboutPrivateBrowsing.info.searches              "Guetes">
-<!ENTITY aboutPrivateBrowsing.info.cookies               "Cookies">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Ficheros temporales">
+<!ENTITY aboutPrivateBrowsing.info.searches              "guetes">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "ficheros temporales">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "guardará'l">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "guardará">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " les tos:">
-<!ENTITY aboutPrivateBrowsing.info.downloads             "Descargues">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks             "Marcadores">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "descargues">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "marcadores">
 <!ENTITY aboutPrivateBrowsing.note.before                "Restolar en privao ">
-<!ENTITY aboutPrivateBrowsing.note.emphasize             "nun te fai anónimu">
-<!ENTITY aboutPrivateBrowsing.note.after                 " n'internet. El to fornidor de servicios d'internet o empresa entá sabe qué páxines visites.">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "nun te fai anónimu n'internet">
+<!ENTITY aboutPrivateBrowsing.note.after                 " El to fornidor de servicios d'internet o empresa entá puen saber qué páxines visites.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Depriendi más tocante a">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Restolar en privao">
 
 <!ENTITY trackingProtection.title                        "Proteición de rastréu">
 <!ENTITY trackingProtection.description2                 "Dellos sitios web usen rastrexadores que puen monitorizar la to actividá per internet. Cola proteición de rastrexu, Firefox bloquiará munchos rastrexadores que puean coleicionar información tocante al to comportamientu al restolar.">
-<!ENTITY trackingProtection.startTour1                   "Ver cómo funciona">
+<!ENTITY trackingProtection.startTour1                   "Mira cómo furrula">

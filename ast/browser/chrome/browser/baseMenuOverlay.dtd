@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Amenorgar">
-<!ENTITY bringAllToFront.label    "Traer too delantre">
-<!ENTITY zoomWindow.label         "Tamañu">
+<!ENTITY minimizeWindow.label     "Minimizar">
+<!ENTITY bringAllToFront.label    "Trayer too al frente">
+<!ENTITY zoomWindow.label         "Zoom">
 <!ENTITY windowMenu.label         "Ventana">
 
 <!ENTITY helpMenu.label           "Ayuda"> 
@@ -17,7 +17,7 @@
 <!ENTITY aboutProduct2.label      "Tocante a &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "T">
 <!ENTITY productHelp2.label       "Ayuda de &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "u">
+<!ENTITY productHelp2.accesskey   "y">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Atayos de tecláu">
@@ -31,11 +31,11 @@
 <!ENTITY healthReport2.label      "Informe de salú de &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "S">
 
-<!ENTITY helpTroubleshootingInfo.label      "Información pa solucionar problemes">
-<!ENTITY helpTroubleshootingInfo.accesskey  "f">
+<!ENTITY helpTroubleshootingInfo.label      "Información d'igua de problemes">
+<!ENTITY helpTroubleshootingInfo.accesskey  "i">
 
-<!ENTITY helpFeedbackPage.label      "Unviar opinión…">
-<!ENTITY helpFeedbackPage.accesskey  "v">
+<!ENTITY helpFeedbackPage.label      "Unviar feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "U">
 
 <!ENTITY helpShowTour2.label            "Percorríu per &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "P">
@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "Servicios">
 
 <!ENTITY hideThisAppCmdMac2.label       "Anubrir &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "A">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Anubrir otros">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.commandkey "A">
 
 <!ENTITY showAllAppsCmdMac.label        "Amosar too">

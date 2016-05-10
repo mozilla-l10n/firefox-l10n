@@ -8,8 +8,8 @@
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
-<!ENTITY update.checkForUpdatesButton.label       "Guetar anovamientos">
-<!ENTITY update.checkForUpdatesButton.accesskey   "G">
+<!ENTITY update.checkForUpdatesButton.label       "Comprobar anovamientos">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label2                "Reanicia &brandShortName; p'anovar">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Aplicar anovamientu…">
@@ -17,7 +17,7 @@
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; ye esperimental y pue ser inestable.">
+<!ENTITY warningDesc.version        "&brandShortName; ye esperimental y quiciabes seya inestable.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "Unvia automáticamente información tocante al rindimientu, hardware, usu y personalizaciones a &vendorShortName; p'ameyorar &brandShortName;.">
 
@@ -62,7 +62,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; ta anováu">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Anovamientos desactivaos pol alministrador">
+<!ENTITY update.adminDisabled       "Anovamientos desactivaos pol to alministrador de sistemes">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; ta anovándose por otra instancia">
 
@@ -72,7 +72,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "Falló l'anovamientu. ">
-<!ENTITY update.failed.linkText     "Descargar la cabera versión">
+<!ENTITY update.failed.linkText     "Baxar la cabera versión">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -88,8 +88,8 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
-<!ENTITY update.unsupported.start    "Nun pues executar más aplicaciones nesti sistema.">
-<!ENTITY update.unsupported.linkText "Deprender más">
+<!ENTITY update.unsupported.start    "Nun pues facer más anovamientos nesti sistema.">
+<!ENTITY update.unsupported.linkText "Depriendi más">
 <!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -97,7 +97,7 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Descargando anovamientu — ">
+<!ENTITY update.downloading.start   "Baxando anovamientu — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Aplicando anovamientu…">
@@ -105,5 +105,5 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Agora mesmo tas usando ">
-<!ENTITY channel.description.end    " , una canal d'anovamientu. ">
+<!ENTITY channel.description.start  "Anguaño tas na ">
+<!ENTITY channel.description.end    " canal d'anovamientos. ">
