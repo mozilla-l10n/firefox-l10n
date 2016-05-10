@@ -45,8 +45,8 @@
 <!ENTITY options.enableWorkers.tooltip "Attivando questa opzione è possibile utilizzare gli strumenti di sviluppo per effettuare il debug dei worker">
 <!ENTITY options.disableJavaScript.label "Disattiva JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip "Attivando questa opzione JavaScript verrà disattivato per la scheda corrente. Se la scheda o gli strumenti di sviluppo vengono chiusi l’impostazione verrà rimossa.">
-<!ENTITY options.disableCache.label2 "Disattiva cache (quando gli strumenti sono aperti)">
-<!ENTITY options.disableCache.tooltip2 "Attivando questa opzione la cache verrà disattivata per tutte le schede in cui sono aperti gli strumenti di sviluppo.">
+<!ENTITY options.disableHTTPCache.label "Disattiva cache HTTP (quando gli strumenti sono aperti)">
+<!ENTITY options.disableHTTPCache.tooltip "Attivando questa opzione la cache HTTP verrà disattivata per tutte le schede in cui sono aperti gli strumenti di sviluppo. Questa impostazione non ha effetto sui service worker.">
 <!ENTITY options.enableServiceWorkersHTTP.label "Attiva Service worker via HTTP (quando la cassetta degli attrezzi è aperta)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip "Attivando questa opzione verranno attivati i Service worker via HTTP in tutte le schede dove la cassetta degli attrezzi è aperta.">
 <!ENTITY options.selectDefaultTools.label "Strumenti di sviluppo predefiniti di Firefox">
