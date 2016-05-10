@@ -59,7 +59,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "K\u0027o chik pa taq yaköl etal">
+<!ENTITY bookmark_already_added "K\u0027o chik pa taq yaketal">
 <!ENTITY bookmark_removed "Yakäl etal elesan el">
 <!ENTITY bookmark_updated "Yakäl etal k\u0027exon ruwäch">
 <!ENTITY bookmark_options "Taq cha\u0027oj">
@@ -136,7 +136,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Yaköl etal">
-<!ENTITY overlay_share_bookmark_btn_label_already "K\u0027o chik taq yaketal">
+<!ENTITY overlay_share_bookmark_btn_label_already "K\u0027o chik pa taq yaketal">
 <!ENTITY overlay_share_send_other "Titaq chi ke ch\u0027aqa\u0027 chik ta okisaxel">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
