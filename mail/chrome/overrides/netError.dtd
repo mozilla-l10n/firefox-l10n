@@ -33,6 +33,13 @@ que o &brandShortName; esteja autorizado a acessar a web.</li>
 <li>Verifique se o arquivo foi movido, renomeado ou excluído.</li> 
 </ul>">
 
+<!ENTITY fileAccessDenied.title "Acesso ao arquivo foi negado">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Isso pode ter sido removido, movido ou as permissões do arquivo podem estar impedindo o acesso.</li>
+</ul>
+">
+
 <!ENTITY generic.title "Epa">
 <!ENTITY generic.longDesc "<p>Algo impediu o &brandShortName; de carregar esta página.</p>">
 
@@ -126,21 +133,6 @@ do computador.</li>
 <li>Se o seu computador ou rede forem protegidos por um firewall ou proxy, certifique-se 
 de que o &brandShortName; esteja autorizado a acessar a web.</li> 
 </ul>">
-
-<!ENTITY malwareBlocked.title "Site suspeito de ser um foco de ataques!">
-<!ENTITY malwareBlocked.longDesc "<p>Focos de ataques são sites que tentam instalar aplicativos que roubam informações pessoais, usam o seu computador para atacar outros ou danificam o seu sistema.</p> 
-<p>Proprietários de sites que acreditem estar sendo injustamente classificados como um foco de ataques podem <a href='http://www.stopbadware.org/home/reviewinfo'>solicitar uma reavaliação</a>.</p>">
-
-<!ENTITY unwantedBlocked.title "Suspeita de software indesejável no site!">
-<!ENTITY unwantedBlocked.longDesc "<p>As páginas de software indesejados tentam instalar softwares que podem afetar seu sistema de formas inesperadas.</p>">
-
-<!ENTITY phishingBlocked.title "Site suspeito de ser uma fraude!">
-<!ENTITY phishingBlocked.longDesc "<p>O fornecimento de dados pessoais nesta página pode resultar em roubo de identidade ou outros golpes.</p> 
-<p>Estes tipos de fraude são usados em golpes conhecidos como phishing attacks, em que páginas falsas e e-mails se fazem passar por fontes que você confiaria.</p>">
-
-<!ENTITY forbiddenBlocked.title "Site proibido">
-<!ENTITY forbiddenBlocked.longDesc "<p>O &brandShortName; impediu esta página de ser carregada porque está configurado para bloqueá-la.</p>
-">
 
 <!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdo">
 <!ENTITY cspBlocked.longDesc "<p>O &brandShortName; impediu esta página de carregar desta forma porque a política de segurança de conteúdo da página não permite.</p>">

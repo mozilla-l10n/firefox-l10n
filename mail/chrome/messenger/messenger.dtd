@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Visualização compacta">
 <!ENTITY compactVersion.accesskey "c">
+<!ENTITY folderPaneBar.label "Barra de Ferramentas do Painel de Pastas">
+<!ENTITY folderModeSelector.label "Modos de exibição de pasta">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordenar por">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Editar como nova mensagem">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Editar Rascunho de mensagem">
+<!ENTITY editDraftMsgCmd.accesskey "D">
 <!ENTITY createFilter.label "Criar filtro para o remetente…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Mover para">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Editar como uma nova mensagem">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextEditDraftMsg.label "Editar Rascunho de mensagem">
 <!ENTITY contextArchive.label "Arquivar">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Responder">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "Copiar para">
 <!ENTITY contextCopyMsgMenu.accesskey "o">
 <!ENTITY contextKillThreadMenu.label "Ignorar tópico">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignorar subtópico">
 <!ENTITY contextWatchThreadMenu.label "Monitorar tópico">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Salvar como arquivo…">
 <!ENTITY contextSaveAs.accesskey "l">
 <!ENTITY contextPrint.label "Imprimir…">
