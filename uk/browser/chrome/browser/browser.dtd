@@ -168,6 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Підписатися на цю сторінку…">
 <!ENTITY addCurPagesCmd.label "Закласти всі вкладки…">
 <!ENTITY showAllBookmarks2.label "Показати всі вкладки">
+<!ENTITY recentBookmarks.label "Недавно закладені">
+<!ENTITY otherBookmarksCmd.label "Інші закладки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показати інші закладки">
 
 <!ENTITY backCmd.label                "Назад">
@@ -222,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Закладки">
+<!ENTITY bookmarksMenuButton.other.label "Інші закладки">
 <!ENTITY viewBookmarksSidebar2.label        "Показати панель закладок">
 <!ENTITY viewBookmarksToolbar.label         "Показати панель закладок">
 
@@ -345,6 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "Немає синхронізованих вкладок… поки що!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Хочете побачити тут свої вкладки з інших пристроїв?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Налаштування синхронізації">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Увійдіть, щоб переглядати список вкладок з інших ваших пристроїв.">
 <!ENTITY appMenuRemoteTabs.signin.label "Увійти в Синхронізацію">
@@ -720,6 +725,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Синхронізовані вкладки">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Увійдіть у Firefox з інших пристроїв, щоб переглядати їх вкладки тут.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Немає синхронізованих вкладок… поки що!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Хочете побачити тут свої вкладки з інших пристроїв?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Увійдіть, щоб переглядати список вкладок з інших ваших пристроїв.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Немає відкритих вкладок">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Відкрити налаштування синхронізації">
@@ -727,8 +734,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Увімкніть синхронізацію вкладок для перегляду списку вкладок з інших пристроїв.">
 
+<!ENTITY syncedTabs.context.open.label                       "Відкрити">
+<!ENTITY syncedTabs.context.open.accesskey                   "В">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Відкрити у новій вкладці">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "н">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Відкрити у новому вікні">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "о">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Відкрити у новому приватному вікні">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "п">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Закласти цю вкладку…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "З">
+<!ENTITY syncedTabs.context.copy.label                       "Копіювати">
+<!ENTITY syncedTabs.context.copy.accesskey                   "К">
 
 
 <!ENTITY syncBrand.shortName.label    "Синхронізація">
@@ -755,7 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.accesskey "с">
 
 <!ENTITY social.activated.description "Було увімкнено служби від <label/>. Ви можете змінити ваші налаштування служб у <label class='text-link'>Керівнику додатків</label>.">
-<!ENTITY social.activated.undo.label "Ой, не треба!">
+<!ENTITY social.activated.undo.label "Ой, відмінити це!">
 <!ENTITY social.activated.undo.accesskey "О">
 <!ENTITY social.learnMore.label "Подробиці…">
 <!ENTITY social.learnMore.accesskey "П">
