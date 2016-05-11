@@ -43,10 +43,10 @@
 <!ENTITY  suggestionSettings.label      "Kek'ex ri taq ajowab'äl richin yechilab'ëx taq rusamajinel kanob'äl…">
 <!ENTITY  suggestionSettings.accesskey  "k">
 
-<!ENTITY  acceptCookies.label           "Kek'ulutäj taq kuki">
+<!ENTITY  acceptCookies.label           "Kek'ulutäj taq kaxlanwey">
 <!ENTITY  acceptCookies.accesskey       "K">
 
-<!ENTITY  acceptThirdParty.pre.label      "Kek'ul taq kuki kichin aj rox winaqi':">
+<!ENTITY  acceptThirdParty.pre.label      "Kek'ul taq kaxlanwey kichin aj rox winaqi':">
 <!ENTITY  acceptThirdParty.pre.accesskey  "k">
 <!ENTITY  acceptThirdParty.always.label   "Jantape'">
 <!ENTITY  acceptThirdParty.never.label    "Majub'ey">
@@ -61,7 +61,7 @@
 <!ENTITY  cookieExceptions.label        "Taq man relik ta…">
 <!ENTITY  cookieExceptions.accesskey    "r">
 
-<!ENTITY  showCookies.label             "Kek'ut taq kuki…">
+<!ENTITY  showCookies.label             "Kek'ut taq kaxlanwey…">
 <!ENTITY  showCookies.accesskey         "K">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; xtitikïr:">
@@ -71,7 +71,7 @@
 <!ENTITY  historyHeader.custom.label       "Tokisäx jun ichinan runuk'ulem re natab'äl">
 <!ENTITY  historyHeader.post.label         "Kaqchikel">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; xtunataj ri runatab'al okik'amaya'l, taq qasanïk, taq nojwuj chuqa' taq kanob'äl, chuqa' xkeruyäk kan ri taq kikuki ri taq ruxaq k'amaya'l xe'atz'ët.">
+<!ENTITY  rememberDescription.label      "&brandShortName; xtunataj ri runatab'al okik'amaya'l, taq qasanïk, taq nojwuj chuqa' taq kanob'äl, chuqa' xkeruyäk kan ri taq kikaxlanwey ri taq ruxaq k'amaya'l xe'atz'ët.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -79,7 +79,7 @@
 <!ENTITY  rememberActions.pre.label           "Rik'in jub'a' nawajo' ">
 <!ENTITY  rememberActions.clearHistory.label  "Tijosq'ïx ri k'ak'a' natab'äl">
 <!ENTITY  rememberActions.middle.label        ", chuqa' ">
-<!ENTITY  rememberActions.removeCookies.label "keyuj el ri taq kuki pa yonil">
+<!ENTITY  rememberActions.removeCookies.label "keyuj el ri taq kaxlanwey pa yonil">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; xtrokisaj ri junam runuk'ulem achi'el pa ichinam okem pa k'amaya'l, chuqa' man xkerunataj ta ri taq rutzij natab'äl toq tajin nok pa ajk'amaya'l.">

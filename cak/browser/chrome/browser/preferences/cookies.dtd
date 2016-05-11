@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Eyakon re taq kuki re' pan akematz'ib':">
+<!ENTITY     cookiesonsystem.label          "Eyakon re taq kaxlanwey re' pan akematz'ib':">
 <!ENTITY     cookiename.label               "Rub'i' ri kuki">
 <!ENTITY     cookiedomain.label             "Ruxaq k'amaya'l"> 
 <!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
@@ -23,7 +23,7 @@
 <!ENTITY     props.expires.label            "Xtik'o ruq'ijul:">
 <!ENTITY     props.container.label          "K'ojlib'äl:">
 
-<!ENTITY     window.title                   "Cookies">
+<!ENTITY     window.title                   "Taq kaxlanwey">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "p">
 <!ENTITY     focusSearch2.key               "k">

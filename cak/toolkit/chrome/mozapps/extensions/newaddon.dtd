@@ -7,7 +7,7 @@
 <!ENTITY warning         "Ke'ayaka' taq tz'aqat xa xe kichin b'anonela' ri awetan kiwäch.">
 <!ENTITY allow           "Tiya' q'ij chi re re yakoj re'">
 <!ENTITY later           "Yatikïr najalwachij ri atzij pa xab'a'achike ramaj, yab'e pa kinuk'samajel taq tz'aqat.">
-<!ENTITY continue        "Titikir chik el">
+<!ENTITY continue        "Titikïr chik el">
 <!ENTITY restartMessage  "K'o chi natikirisaj chik ri &brandShortName; richin nik'is ruyakik re tz'aqat re'.">
 <!ENTITY restartButton   "Titikirisäx chik &brandShortName;">
 <!ENTITY cancelButton    "Tiq'at">

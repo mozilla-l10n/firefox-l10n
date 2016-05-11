@@ -110,7 +110,7 @@
 <!ENTITY cmd.showPreferencesWin.label         "Taq cha'oj">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Kejal ri taq rucha'oj re tz'aqat re'">
 <!ENTITY cmd.showPreferencesUnix.label        "Taq ajowab'äl">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Kejal ri taq rucha'oj re tz'aqat re'">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Kejal ri taq rajowaxik re tz'aqat re'">
 <!ENTITY cmd.contribute.label                 "Kito'on">
 <!ENTITY cmd.contribute.accesskey             "K">
 <!ENTITY cmd.contribute.tooltip               "Kito'on chi rusamajixik re tz'aqat re'">
@@ -206,7 +206,7 @@
 <!ENTITY addon.updateNow.tooltip              "Tiyak ri ruk'exoj re tz'aqat re'">
 <!ENTITY addon.includeUpdate.label            "Tiya' pa ri k'exoj">
 <!ENTITY addon.updateAvailable.label          "K'o jun k'exoj">
-<!ENTITY addon.checkingForUpdates.label       "Kijunamaxik taq jaloj">
+<!ENTITY addon.checkingForUpdates.label       "Tajin yekanöx taq k'exoj ruwäch…">
 <!ENTITY addon.releaseNotes.label             "Ruch'utitzijol re ruwäch re'">
 <!ENTITY addon.loadingReleaseNotes.label      "Tajin nok…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Takuyu' qamak, xa xk'ulwachitäj jun sachoj toq tajin nok pa ch'utaq rutzijol ri ko'öl wuj.">

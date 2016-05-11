@@ -64,7 +64,7 @@
 <!ENTITY cmd.removeFromHistory.accesskey  "y">
 <!ENTITY cmd.clearList.label              "Tiyuj rucholajem">
 <!ENTITY cmd.clearList.accesskey          "y">
-<!ENTITY cmd.clearDownloads.label         "Kejosq'ïx ri  Qasan">
+<!ENTITY cmd.clearDownloads.label         "Josq'in taq Qasanïk">
 <!ENTITY cmd.clearDownloads.accesskey     "Q">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
@@ -109,7 +109,7 @@
 <!ENTITY downloadsHistory.label           "Kekut pe ronojel ri qasan">
 <!ENTITY downloadsHistory.accesskey       "K">
 
-<!ENTITY clearDownloadsButton.label       "Keyuj el ri qasan">
+<!ENTITY clearDownloadsButton.label       "Josq'in taq qasanïk">
 <!ENTITY clearDownloadsButton.tooltip     "Tijosq'ïx ronojel, q'aton chuqa' man ütz ta taq qasanïk">
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it

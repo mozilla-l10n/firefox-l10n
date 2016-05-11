@@ -63,7 +63,7 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "Q'aton ri kache' chi">
+<!ENTITY limitCacheSizeBefore.label      "Q'aton ri jumejyak pa">
 <!ENTITY limitCacheSizeBefore.accesskey  "Q">
 <!ENTITY limitCacheSizeAfter.label       "MB rupam">
 <!ENTITY clearCacheNow.label             "Tijosq'ïx wakami">
