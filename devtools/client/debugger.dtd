@@ -43,7 +43,6 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
-<!ENTITY debuggerUI.autoPrettyPrint     "Auto Prettify Minified Sources">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
@@ -102,7 +101,6 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
-<!ENTITY debuggerUI.autoBlackBox           "Automatically Black Box Minified Sources">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
@@ -166,6 +164,9 @@
   -  breakpoint. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "Додати умовну точку зупинки">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
+
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+  -  appears in the source editor context menu for editing a breakpoint. -->
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->

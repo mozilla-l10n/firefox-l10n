@@ -19,6 +19,7 @@
 <!ENTITY fileNotFound.title "Файл не знайдено">
 <!ENTITY fileNotFound.longDesc "<ul><li>Перевірте правильність введення імені файлу на відповідність регістру та відсутність інших помилок.</li><li>Перевірте, чи файл не було перейменовано, стерто або переміщено.</li></ul>">
 
+
 <!ENTITY generic.title "Помилка">
 <!ENTITY generic.longDesc "<p>Браузер не може завантажити цю сторінку з невідомої причини.</p>">
 
@@ -89,3 +90,6 @@
 
 <!ENTITY remoteXUL.title "Віддалений XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Зв’яжіться з власниками сайту та повідомте їх про цю проблему.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
