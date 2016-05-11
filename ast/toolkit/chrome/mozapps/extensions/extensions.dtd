@@ -25,6 +25,7 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Nun pudieron verificase delles estensiones">
 <!ENTITY showAllExtensions.button.label       "Amosar toles estensiones">
+<!ENTITY debugAddons.label                    "Depurar complementos">
 <!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
@@ -232,14 +233,17 @@
 
 <!ENTITY setting.learnmore "Deprender más…">
 
+<!ENTITY disabledUnsigned.heading "Deshabilitáronse dalgunos complementos">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "Los siguientes complementos nun se verificaron pal so usu en &brandShortName;. Pues ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "alcontrar troqueos">
 <!ENTITY disabledUnsigned.description.end " o entrugar al desendolcador pa que los verifique.">
 <!ENTITY disabledUnsigned.learnMore "Depriendi más tocante a los nuesos esfuercios p'ayudar a caltenete seguru en llinia.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "Los desendolcadores interesaos en tener los complementos verificaos puen siguir lleendo'l nuesu ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
