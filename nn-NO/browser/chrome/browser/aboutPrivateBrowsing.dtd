@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "O">
 
 <!ENTITY privateBrowsing.title                           "Privat nettlesing">
-
+<!ENTITY privateBrowsing.title.tracking                  "Privat nettlesing med sporingsvern">
 
 
 
