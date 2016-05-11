@@ -64,8 +64,8 @@
 <!ENTITY  showCookies.label             "Diskouez an toupinoù…">
 <!ENTITY  showCookies.accesskey         "i">
 
-<!ENTITY  historyHeader.pre.label          "Arventennoù ar roll istor">
-<!ENTITY  historyHeader.pre.accesskey      "A">
+<!ENTITY  historyHeader.pre.label          "Gant &brandShortName; e vo:">
+<!ENTITY  historyHeader.pre.accesskey      "v">
 <!ENTITY  historyHeader.remember.label     "Derc'hel soñj ar roll istor">
 <!ENTITY  historyHeader.dontremember.label "Ne zerc'hel ket soñj ar roll istor">
 <!ENTITY  historyHeader.custom.label       "Implijout arventennoù personelaet evit ar roll istor">
