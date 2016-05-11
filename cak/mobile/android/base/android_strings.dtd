@@ -469,7 +469,7 @@ size. -->
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_no_username "[Majun rub\u0027i\u0027 winäq]">
-<!ENTITY doorhanger_login_edit_title "Tinuk\u0027 rutikirib\u0027al moloj">
+<!ENTITY doorhanger_login_edit_title "Tinuk\u0027 rutikirib\u0027al molojri\u0027ïl">
 <!ENTITY doorhanger_login_edit_username_hint "Rub\u0027i\u0027 winäq">
 <!ENTITY doorhanger_login_edit_password_hint "Ewan tzij">
 <!ENTITY doorhanger_login_edit_toggle "Tik\u0027ut pe ri ewan tzij">
