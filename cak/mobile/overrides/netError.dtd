@@ -38,7 +38,7 @@
 <!ENTITY netInterrupt.title "Xnaq ri okinem">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY notCached.title "K'isinäq ruq'ijul re wuj ">
+<!ENTITY notCached.title "Xk'is ruq'ijul ri wuj">
 <!ENTITY notCached.longDesc "<p>Man niq'alajin ta chik pa &brandShortName; jumejyak ri wuj nik'utüx.</p><ul><li>.Achi'el jun rub'eyal richin nichajin &brandShortName; man nuk'utuj ta chik pa ruyonil chajin taq wuj.</li><li>Tapitz'a' qa pa Titojtob'ëx chik richin nik'utüx chik ri ruwujil k'amaya'l.</li></ul>">
 
 <!ENTITY netOffline.title "Pa rub'eyal majun ximoj">
@@ -67,7 +67,7 @@
 <!ENTITY proxyResolveFailure.title "Man nilitäj ta ri proxi ruk'u'x samaj">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul>    <li>Tanik'oj ri runuk'ulem Proxi richin najikib'a' chi ütz.</li> <li>Tajikib'a' chi ri awokisaxel k'o rokem pa rusamajixik Wi-Fi o kichin taq tzij. <button id='wifi'>Titzij Wi-Fi</button> </li>  </ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Tanik'oj ri runuk'ulem Proxi richin najikib'a' chi ütz.</li> <li>Tajikib'a' chi ri awokisaxel k'o rokem pa rusamajixik Wi-Fi o kichin taq tzij. <button id='wifi'>Titzij Wi-Fi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Man tajin ta nuq'axaj chik ütz ri ruxaq k'amaya'l">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Re jun k'ayewal re' nik'ulwachitäj ruma nachüp o e'aq'aton kik'ulik ri taq kaxlanwey.</li> </ul>">
