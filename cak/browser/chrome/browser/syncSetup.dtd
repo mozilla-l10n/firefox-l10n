@@ -28,7 +28,7 @@
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Taq rub'anikil rub'i' taqoya'l">
 <!ENTITY setup.emailAddress.label     "Rochochib'al taqoya'l">
-<!ENTITY setup.emailAddress.accesskey "R">
+<!ENTITY setup.emailAddress.accesskey "t">
 <!ENTITY setup.choosePassword.label      "Tacha' jun ewan tzij">
 <!ENTITY setup.choosePassword.accesskey  "e">
 <!ENTITY setup.confirmPassword.label     "Tijikib'äx ewan tzij">

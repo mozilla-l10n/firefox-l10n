@@ -98,8 +98,8 @@ when there are no windows but Firefox is still running. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Yatok pa tz'aqät ruwäch kematz'ib'">
 <!ENTITY enterFullScreenCmd.accesskey "t">
-<!ENTITY exitFullScreenCmd.label "Yatel pa tz'aqät ruwäch kematz'ib'">
-<!ENTITY exitFullScreenCmd.accesskey "t">
+<!ENTITY exitFullScreenCmd.label "Tel pa chijun ruwa kematz'ib'">
+<!ENTITY exitFullScreenCmd.accesskey "c">
 <!ENTITY fullScreenCmd.label "Chijun ruwäch">
 <!ENTITY fullScreenCmd.accesskey "r">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -119,8 +119,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Titz'apïx">
 <!ENTITY fullScreenAutohide.label "rewaxik ri cholsamajib'äl">
 <!ENTITY fullScreenAutohide.accesskey "r">
-<!ENTITY fullScreenExit.label "Katel pa ri tz'aqät ruwäch">
-<!ENTITY fullScreenExit.accesskey "r">
+<!ENTITY fullScreenExit.label "Tel pa rub'anikil chijun ruwa kematz'ib'">
+<!ENTITY fullScreenExit.accesskey "c">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -133,8 +133,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Tel el pa ri chijun ruwäch (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Tel chupam ri chijun ruwäch (esc)">
+<!ENTITY exitDOMFullscreen.button "Tel pa chijun ruwa kematz'ib' (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Tel pa chijun ruwa kematz'ib' (esc)">
 <!ENTITY leaveDOMFullScreen.label "Elem pa ri ronojel ruwäch">
 <!ENTITY leaveDOMFullScreen.accesskey "r">
 
@@ -540,8 +540,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "w">
 <!ENTITY copyAudioURLCmd.label        "Ruwachib'exik rub'ey q'ojom">
 <!ENTITY copyAudioURLCmd.accesskey    "w">
-<!ENTITY copyEmailCmd.label           "Ruwachib'exik rub'ey taqoya'l">
-<!ENTITY copyEmailCmd.accesskey       "b">
+<!ENTITY copyEmailCmd.label           "Tiwachib'ëx rochochib'al taqoya'l">
+<!ENTITY copyEmailCmd.accesskey       "t">
 <!ENTITY thisFrameMenu.label              "Re ruchi' re'">
 <!ENTITY thisFrameMenu.accesskey          "c">
 <!-- Media (video/audio) controls -->

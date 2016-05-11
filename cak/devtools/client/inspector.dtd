@@ -139,7 +139,7 @@
      shown in the inspector contextual-menu for recursively expanding
      mark-up elements -->
 
-<!ENTITY inspectorExpandNode.label       "Tirik Ronojel">
+<!ENTITY inspectorExpandNode.label       "Tirik' Ronojel">
 <!-- LOCALIZATION NOTE (inspectorCollapseNode.label): This is the label
      shown in the inspector contextual-menu for recursively collapsing
      mark-up elements -->

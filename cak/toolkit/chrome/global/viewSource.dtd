@@ -82,5 +82,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY copyLinkCmd.label "Tiwachib'ëx rochochib'äl ximonel tzij">
 <!ENTITY copyLinkCmd.accesskey "x">
-<!ENTITY copyEmailCmd.label "Ruwachib'exik rub'ey taqoya'l">
-<!ENTITY copyEmailCmd.accesskey "b">
+<!ENTITY copyEmailCmd.label "Tiwachib'ëx rochochib'al taqoya'l">
+<!ENTITY copyEmailCmd.accesskey "t">
