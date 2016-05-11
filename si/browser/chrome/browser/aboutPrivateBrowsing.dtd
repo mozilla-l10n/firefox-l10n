@@ -17,8 +17,9 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "තාවකාලික ගොනු">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "සුරකිනු ඇත">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " ඔබේ:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "බාගත කිරීම්">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks             "Bookmarks">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "පිටු සලකුණු">
 <!ENTITY aboutPrivateBrowsing.note.before                "පුද්ගලික ගවේශනය ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ඔබව නිර්නාමික නොකරයි">
 <!ENTITY aboutPrivateBrowsing.note.after                 " අන්තර්ජාලයේ. ඔබේ සේවා යෝජකයා හෝ අන්තර්ජාල සම්පාදකයන්ට ඔබ පිවිසි පිටු හඳුනාගත හැක.">
