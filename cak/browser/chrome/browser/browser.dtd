@@ -81,7 +81,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Kesamajib'ëx chik konojel ri taq ruwi'">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "k">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Ketz'aqatisäx apo konojel ri taq ruwi' pa taq yaketal…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Ketz'aqatisäx ri taq ruwi' pa taq yaketal…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "r">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Titzolïx chi rij ri rutz'apixik ruk'isib'al ruwi'">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "T">
@@ -166,7 +166,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "Tatz'ib'aj ab'i' pa re ruxaq re'">
 <!ENTITY subscribeToPageMenupopup.label "Tatz'ib'aj ab'i' pa re jun ruxaq re'">
 <!ENTITY subscribeToPageMenuitem.label "Tatz'ib'aj ab'i' pa re ruxaq wuj…">
-<!ENTITY addCurPagesCmd.label "Tiyak ketal konojel ri taq ruwi'…">
+<!ENTITY addCurPagesCmd.label "Ketz'aqatisäx ri taq ruwi' pa taq yaketal…">
 <!ENTITY showAllBookmarks2.label "Kek'ut konojel ri taq yaketal">
 <!ENTITY recentBookmarks.label "K'a nimakol tiya' ketal">
 <!ENTITY otherBookmarksCmd.label "Ch'aqa' chik taq Yaketal">
