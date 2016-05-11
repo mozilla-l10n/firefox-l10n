@@ -107,3 +107,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "უსაფრთხო რეჟიმის ცდა">
 <!ENTITY aboutSupport.restartInSafeMode.label "გადატვირთვა გამორთული დამატებებით...">
+
+<!ENTITY aboutSupport.graphicsFeaturesTitle "ფუნქციები">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "დიაგნოსტიკა">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "მარცხების ჟურნალი">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
