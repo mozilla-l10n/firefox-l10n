@@ -24,11 +24,13 @@
 <!ENTITY fileNotFound.title "Файл табылмады">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Файлдың енгізілген аты, үлкен-кіші әріптердің дұрыстығы, және басқа да қателер жоқ екеніне көз жеткізіңіз.</li> <li>Файлдың аты ауысқан, ол өшірілген немесе басқа жаққа көшірілген болуы мүмкін.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Файлға қатынау құқығы жоқ">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Ол өшірілген, жылжытылған немесе файл рұқсаттары қатынауға жол бермеуі мүмкін.</li></ul>">
 
 <!ENTITY generic.title "Қате.">
+<!ENTITY generic.longDesc "<p>&brandShortName; осы парақты белгісіз себептермен жүктей алмайды.</p>">
 
-
+<!ENTITY malformedURI.title "Адрес пішімі қате">
 <!ENTITY malformedURI.longDesc "<ul> <li>Веб адрестері әдетте келесідей жазылады - <strong>http://www.example.com/</strong></li> <li>Қалыпты слэштер қолданатыңызға көз жеткізіңіз (мыс. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Байланыс үзілген">
@@ -107,9 +109,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.override "(Қауіпсіз емес) <span class='hostname'></span> ескірген қауіпсіздікті қолданып, жүктеу талабы">
 
 <!ENTITY certerror.pagetitle1  "Қауіпсіз емес байланыс">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Бұл сайт &brandShortName; оған тек қауіпсіз түрде қосылу керектігін көрсету үшін HTTP Strict Transport Security (HSTS) қолданады. Нәтижесінде, бұл сертификатты ережеден тыс қосу мүмкін емес.">
+<!ENTITY certerror.copyToClipboard.label "Мәтінді алмасу буферіне көшіру">
 
-
-
+<!ENTITY inadequateSecurityError.title "Сіздің байланысыңыз қауіпсіз емес">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ескірген және шабуылдарға әлсіз қауіпсіздік технологиясын қолдануда. Шабуылшы сіз қауіпсіз деп ойлаған ақпаратты оңай анықтай алады. Сіз сайтты шолғанға дейін оның әкімшісі серверді ретке келтіруі тиіс.</p><p>Қате коды: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
