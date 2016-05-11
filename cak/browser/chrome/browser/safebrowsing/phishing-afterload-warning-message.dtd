@@ -26,7 +26,7 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Pa ri ruxaq k'amaya'l <span id='unwanted_sitename'/> ya'on rutzijol chi k'o itzel taq kema' chupam ruma ri' toq xq'eleb'ëx rij richin rirajowaxik taq achajinik.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Itzel taq ruxaq kema' nkajo' nikiyäk q'olonel taq kema' chuqa' wakami chanin nritzelaj ri aq'inoj.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "¡Q'alonel Ruxaq K'amaya'l!">
+<!ENTITY safeb.blocked.phishingPage.title2 "¡Q'olonel Ruxaq K'amaya'l!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Re ruxaq k'amaya'l re' <span id='phishing_sitename'/> ya'on retal chi q'olonel chi k'amaya'l, ruma ri' toq xq'at ruma rucholajil ri nawajo' richin achajixik.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ri q'olonel taq ruxaq k'amaya'l, enuk'un richin yatkiq'öl chuqa' richin nab'än jun k'ayewal, achi'el kiyakik kema', naq'alajisaj ri atzijol, achi'el ewan taq tzij, kajilab'al taq oyonib'äl o ch'utit'im pwäq.</p><p>Natz'ib'aj xab'achike chi na'oj pa re ruxaq k'amaya'l re, rik'in jub'a' nupo' ri' achi'el jun releq'axik k'utwachib'äl o jun chik chi eläq'.</p>">

@@ -7,7 +7,7 @@
 
 
 <!ENTITY setup.pickSetupType.description2 "¡Ütz apetik! We majub'ey awokisan &syncBrand.fullName.label; rajowaxik natz'ük jun k'ak'a' ataqoya'l.">
-<!ENTITY button.createNewAccount.label "Tanuk'u' jun k'ak'a' ataqoya'l">
+<!ENTITY button.createNewAccount.label "Titz'uk jun k'ak'a' rub'i' taqoya'l">
 <!ENTITY button.haveAccount.label      "K'o chik jun nutaqoya'l">
 
 <!ENTITY setup.choicePage.title.label     "¿La awokisan chi &syncBrand.fullName.label;?">

@@ -36,7 +36,7 @@
 <!ENTITY netInterrupt.title "Xq'at ri okem">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Xk'is yan ruq'ijul ri wuj">
+<!ENTITY notCached.title "Xk'is ruq'ijul ri wuj">
 <!ENTITY notCached.longDesc "<p>Man niq'alajin ta chik pa &brandShortName; jumejyak ri wuj nik'utüx.</p><ul><li>.Achi'el jun rub'eyal richin nichajin, &brandShortName; man nuk'utuj ta chik pa ruyonil chajin taq wuj.</li><li>Tapitz'a' qa pa Titojtob'ëx chik richin nik'utüx chik ri wuj chupam ri k'amaya'l.</li></ul>">
 
 <!ENTITY netOffline.title "Pa rub'eyal majun okem">

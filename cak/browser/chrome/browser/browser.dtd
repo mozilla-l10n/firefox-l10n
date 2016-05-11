@@ -314,8 +314,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "i"> 
 <!ENTITY viewSidebarMenu.label "Chuchi' Cholab'äl">
 <!ENTITY viewSidebarMenu.accesskey "C">
-<!ENTITY viewCustomizeToolbar.label       "Wiqoj…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "W">
+<!ENTITY viewCustomizeToolbar.label       "Tichinäx…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "T">
 
 <!ENTITY historyMenu.label "Natab’äl">
 <!ENTITY historyMenu.accesskey "t">
@@ -327,7 +327,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Tik'ut ronojel ri natab'äl">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Winaqirem">
+<!ENTITY appMenuCustomize.label "Tichinäx">
 <!ENTITY appMenuCustomize.tooltip "Ti'ichinäx ri MENU chuqa' ri rucholajem samajib'äl">
 <!ENTITY appMenuCustomizeExit.label "Tel chi richinaxik">
 <!ENTITY appMenuCustomizeExit.tooltip "Xk'is chi richinaxik">

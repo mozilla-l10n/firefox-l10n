@@ -29,7 +29,7 @@
 <!ENTITY  font.langGroup.simpl-chinese            "Ch'uti Chino">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Relik Chino (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "aj Corea">
-<!ENTITY  font.langGroup.cyrillic                 "Cirílico">
+<!ENTITY  font.langGroup.cyrillic                 "Siriliko">
 <!ENTITY  font.langGroup.el                       "RYEWO">
 <!ENTITY  font.langGroup.other                    "Ch'aqa' chik taq rub'eyal ri tz'ib'axik">
 <!ENTITY  font.langGroup.thai                     "aj Tailanda">
@@ -82,7 +82,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "Kan Chino wi">
-<!ENTITY languages.customize.Fallback.cyrillic    "SIRILIKO">
+<!ENTITY languages.customize.Fallback.cyrillic    "Siriliko">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.greek       "aj Grecia">
