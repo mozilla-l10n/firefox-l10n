@@ -70,7 +70,7 @@
 <!ENTITY proxyResolveFailure.longDesc3 "<ul>    <li>Tanik'oj ri runuk'ulem Proxi richin najikib'a' chi ütz.</li> <li>Tajikib'a' chi ri awokisaxel k'o rokem pa rusamajixik Wi-Fi o kichin taq tzij. <button id='wifi'>Titzij Wi-Fi</button> </li>  </ul>">
 
 <!ENTITY redirectLoop.title "Man tajin ta nuq'axaj chik ütz ri ruxaq k'amaya'l">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Re jun k'ayewal re' nik'ulwachitäj ruma nachüp o e'aq'aton kik'ulik ri taq kuki.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Re jun k'ayewal re' nik'ulwachitäj ruma nachüp o e'aq'aton kik'ulik ri taq kaxlanwey.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Man oyob'en ta re rutzijol tajin nuya' pe ri ruk'u'x samaj">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Tanikoj chi ri aq'inoj ja ri nuk'unel ichinan chajinem ruyakon.</li> <li>Rik'in jub'a' ke ri' nub'än ruma runuk'ulem man pa rub'eyal ta ri ruk'u'x samaj.</li> </ul>">

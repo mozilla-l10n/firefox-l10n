@@ -220,7 +220,7 @@
 <!ENTITY pref_header_help "Tito\u0027">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
-<!ENTITY pref_cookies_menu "Kokis">
+<!ENTITY pref_cookies_menu "Taq kaxlanwey">
 <!ENTITY pref_cookies_accept_all "Jaqon">
 <!ENTITY pref_cookies_not_accept_foreign "Jaqäl, manäq ri juley chik winäq">
 <!ENTITY pref_cookies_disabled "Man jaqäl ta">
@@ -293,7 +293,7 @@
      documentation for DateFormat.getMediumDateFormat(). -->
 <!ENTITY content_notification_updated_on "K\u0027exon ruwäch pa &formatS;">
 
-<!ENTITY pref_char_encoding "Tik\u0027ut rucholajil tz\u0027ib\u0027">
+<!ENTITY pref_char_encoding "Kicholajil taq tz\u0027ib\u0027">
 <!ENTITY pref_char_encoding_on "Tik\u0027ut pe ri k\u0027utüy samaj">
 <!ENTITY pref_char_encoding_off "Mani nik\u0027ut pe ri k\u0027utüy samaj">
 <!ENTITY pref_clear_private_data2 "Kejosq\u0027ïx ri ichinan taq tzij">
@@ -347,7 +347,7 @@ size. -->
 <!ENTITY pref_private_data_history2 "Ruk\u0027ulwachinel okem pa k\u0027amaya\u0027l">
 <!ENTITY pref_private_data_searchHistory "Tikanöx k\u0027ulwachinel">
 <!ENTITY pref_private_data_formdata2 "Runojwuj k\u0027ulwachinel">
-<!ENTITY pref_private_data_cookies2 "Kokis chuqa\u0027 tzijïl taq moloj">
+<!ENTITY pref_private_data_cookies2 "Taq kaxlanwey chuqa\u0027 tzijïl taq molojri\u0027ïl">
 <!ENTITY pref_private_data_passwords2 "Kitikirisaxik yakon taq mojojri\u0027ïl">
 <!ENTITY pref_private_data_cache "Ewa\u0027n">
 <!ENTITY pref_private_data_offlineApps "Taq rutzij ri taq ruxaq k\u0027amaya\u0027l man e\u0027okinäq ta">
@@ -414,7 +414,7 @@ size. -->
 <!ENTITY addons "Taq tz\u0027aqat">
 <!ENTITY logins "Kitikirisaxik taq molojri\u0027ïl">
 <!ENTITY downloads "Taq qasanïk">
-<!ENTITY char_encoding "Rucholajil tz\u0027ib\u0027">
+<!ENTITY char_encoding "Kicholajil taq tz\u0027ib\u0027">
 
 <!ENTITY share "Tikomonïx">
 <!ENTITY share_title "Komonin ruma">
