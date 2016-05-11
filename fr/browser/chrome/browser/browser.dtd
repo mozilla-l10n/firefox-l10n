@@ -562,17 +562,19 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "u">
 <!ENTITY mediaPlaybackRate.label     "Vitesse de lecture">
 <!ENTITY mediaPlaybackRate.accesskey "d">
-<!ENTITY mediaPlaybackRate050x.label "Au ralenti (×0,5)">
-<!ENTITY mediaPlaybackRate050x.accesskey "A">
-<!ENTITY mediaPlaybackRate100x.label "Vitesse normale">
-<!ENTITY mediaPlaybackRate100x.accesskey "n">
-<!ENTITY mediaPlaybackRate150x.label "Vitesse rapide (×1,5)">
-<!ENTITY mediaPlaybackRate150x.accesskey "r">
+<!ENTITY mediaPlaybackRate050x2.label "Lente (×0,5)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "L">
+<!ENTITY mediaPlaybackRate100x2.label "Normale">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Rapide (×1,25)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "R">
+<!ENTITY mediaPlaybackRate150x2.label "Très rapide (×1,5)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "T">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Vitesse démesurée (×2)">
-<!ENTITY mediaPlaybackRate200x.accesskey "d">
+<!ENTITY mediaPlaybackRate200x2.label "Démesurée (×2)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "D">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
