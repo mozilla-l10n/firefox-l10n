@@ -169,6 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "ყველა ჩანართის ჩანიშვნა...">
 <!ENTITY showAllBookmarks2.label "ყველა სანიშნის ჩვენება">
 <!ENTITY recentBookmarks.label "ბოლოს ჩანიშნულები">
+<!ENTITY otherBookmarksCmd.label "სხვა სანიშნეები">
 <!ENTITY bookmarksToolbarChevron.tooltip "მეტი სანიშნების ჩვენება">
 
 <!ENTITY backCmd.label                "უკან">
@@ -223,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "სანიშნები">
+<!ENTITY bookmarksMenuButton.other.label "სხვა სანიშნეები">
 <!ENTITY viewBookmarksSidebar2.label        "სანიშნეთა გვერდითი ზოლის ჩვენება">
 <!ENTITY viewBookmarksToolbar.label         "სანიშნეთა ხელსაწყოთა ზოლის ჩვენება">
 
@@ -346,6 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "სინქრონირებული ჩანართები არაა… ჯერ!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "სინქრონიზაციის პარამეტრები">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ში შესვლა">
@@ -721,6 +725,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "სინქრონირებული ჩანართები">
 <!ENTITY syncedTabs.sidebar.noclients.label    "შედით Firefox-ში თქვენი სხვა მოწყობილობებიდან მათი ჩანართების აქ სანახავად.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "სინქრონირებული ჩანართები არაა… ჯერ!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "გახსნილი ჩანართები არაა">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; მითითებების გახსნა">
@@ -728,8 +734,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ჩართეთ ჩანართების სინქრონიზაცია თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 
+<!ENTITY syncedTabs.context.open.label                       "გახსნა">
+<!ENTITY syncedTabs.context.open.accesskey                   "გ">
+<!ENTITY syncedTabs.context.openInNewTab.label               "გახსნა ახალ ჩანართში">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "ხ">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "გახსნა ახალ ფანჯარაში">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "ფ">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "გახსნა ახალ პირად ფანჯარაში">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "პ">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ამ ჩანართის ჩანიშვნა…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ჩ">
+<!ENTITY syncedTabs.context.copy.label                       "კოპირება">
+<!ENTITY syncedTabs.context.copy.accesskey                   "კ">
 
 
 <!ENTITY syncBrand.shortName.label    "სინქრონიზება">

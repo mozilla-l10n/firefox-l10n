@@ -35,6 +35,12 @@
 <li>შეამოწმეთ, ხომ არაა ფაილი გადატანილი, გადარქმეული ან წაშლილი.</li> 
 </ul>">
 
+<!ENTITY fileAccessDenied.title "ფაილზე წვდომა უარყოფილია.">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>ის შესაძლოა წაშლილიყო, გადატანილიყო ან ფაილის უფლებები წვდომას არ უშვებს.</li>
+</ul>
+">
 
 <!ENTITY generic.title "მოთხოვნის დასრულება ვერ ხერხდება">
 <!ENTITY generic.longDesc "<p>&brandShortName; ვერ ახერხებს ამ გვერდის ჩატვირთვას გარკვეული მიზეზით.</p>">
@@ -114,9 +120,11 @@
 <li>გთხოვთ დაუკავშირდით ვებ-საიტის მფლობელებს და შეატყობინეთ ამ პრობლემის შესახებ.</li> 
 </ul>">
 
+<!ENTITY certerror.longpagetitle1 "თქვენი კავშირი დაუცველია">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/>-ის მფლოებელმა ვებ-საიტი არასწორად გამართა.  თქვენი ინფორმაციის მოპარვისგან დაცვის მიზეზით, &brandShortName; ამ ვებ-საიტს არ დაუკავშირდა.">
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>საიტი დროებით მიუწვდომელი ან გადატვირთულია. კვლავ სცადეთ რამდენიმე 
@@ -155,6 +163,14 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>გამოყენებული უსაფრთხოების ტექნოლოგია მოძველებული და დაუცველია შეტევებისგან. თავდამსხმელს ადვილად შეეძლება მნიშვნელოვანი ინფორმაციის ნახვა.">
 <!ENTITY weakCryptoAdvanced.override "(სახიფათოა) სცადეთ ჩატვირთვა <span class='hostname'></span> მოძველებული უსაფრთხოების გამოყენებით.">
 
+<!ENTITY certerror.pagetitle1  "დაუცველი კავშირი">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ეს საიტი HTTP-ს იყენებს 
+Strict Transport Security (HSTS) რათა მიუთითოთ, რომ &brandShortName; დაუკავშირდეს მხოლოდ 
+დაცულად. შედეგად, შეუძლებელია ამ სერტიფიკატისთვის გამონაკლისის 
+დამატება.">
+<!ENTITY certerror.copyToClipboard.label "ტექსტის ბუფერში კოპირება">
 
+<!ENTITY inadequateSecurityError.title "თქვენი კავშირი დაუცველია">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს დაცვის ტექნოლოგიას, რომელიც მოძველებული და მარტივად შესატევია. თავდამსხმელმა შესაძლოა მარტივად იხილოს ის ინფორმაცია, რომელიც უსაფრთხო გეგონათ. სანამ საიტზე შეხვალთ, აუცილებელია მისმა ადმინისტრატორმა ეს შეცდომა მოაგვაროს.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

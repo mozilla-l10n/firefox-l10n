@@ -19,6 +19,13 @@
 <!ENTITY fileNotFound.title "ფაილი ვერ მოიძებნა">
 <!ENTITY fileNotFound.longDesc "<ul><li>შესაძლოა მას სახელი გადაერქვა, ამოშლილი ან გადატანილია?</li><li>ხომ არაა მართლწერის, მთავრულის რეგისტრის ან ტიპოგრაფიული შეცდომები მისამართში?</li><li>საკმარისი უფლებები გაქვთ მოთხოვნილი ფაილის წვდომისთვის?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "ფაილზე წვდომა უარყოფილია">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>ის შესაძლოა წაშლილიყო, გადატანილიყო ან ფაილის უფლებები წვდომას არ უშვებს.</li>
+</ul>
+">
+
 <!ENTITY generic.title "მოთხოვნის დასრულება ვერ ხერხდება">
 <!ENTITY generic.longDesc "<p>დამატებითი ინფორმაცია მოცემული პრობლემის ან შეცდომის შესახებ ამჟამად მიუწვდომელია.</p>">
 
@@ -84,3 +91,8 @@
 
 <!ENTITY remoteXUL.title "დისტანციური XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ დაუკავშირდით ვებ-საიტის მფლობელებს და შეატყობინეთ ამ პრობლემის შესახებ.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "თქვენი კავშირი დაუცველია">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს დაცვის ტექნოლოგიას, რომელიც მოძველებული და მარტივად შესატევია. თავდამსხმელმა შესაძლოა მარტივად იხილოს ის ინფორმაცია, რომელიც უსაფრთხო გეგონათ. სანამ საიტზე შეხვალთ, აუცილებელია მისმა ადმინისტრატორმა ეს შეცდომა მოაგვაროს.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
