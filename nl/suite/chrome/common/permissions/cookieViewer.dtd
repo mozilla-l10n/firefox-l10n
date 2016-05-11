@@ -17,7 +17,6 @@
 
 <!ENTITY     search.placeholder             "Cookies zoeken">
 <!ENTITY     focusSearch.key                "f">
-<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Naam:">
@@ -28,10 +27,9 @@
 <!ENTITY     props.expires.label            "Verloopt:">
 
 <!ENTITY     treehead.sitename.label        "Website">
+<!ENTITY     treehead.scheme.label          "Schema">
 <!ENTITY     treehead.status.label          "Status">
 <!ENTITY     windowtitle.label              "Cookiebeheerder">
-<!ENTITY     buttonaccept.label             "Sluiten">
-<!ENTITY     buttonaccept.accesskey         "S">
 
 <!ENTITY     blockSite.label                "Blokkeren">
 <!ENTITY     blockSite.accesskey            "B">

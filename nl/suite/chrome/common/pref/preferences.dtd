@@ -5,18 +5,23 @@
 <!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 <!ENTITY prefWindow.title "Voorkeuren">
 <!ENTITY categoryHeader "Categorie">
+
 <!ENTITY appear.label "Vormgeving">
 <!ENTITY content.label "Inhoud">
 <!ENTITY fonts.label "Lettertypen">
 <!ENTITY colors.label "Kleuren">
+<!ENTITY spellingPane.label  "Spelling">
+
 <!ENTITY navigator.label "Browser">
 <!ENTITY history.label "Geschiedenis">
 <!ENTITY languages.label "Talen">
 <!ENTITY applications.label "Hulptoepassingen">
 <!ENTITY locationBar.label "Locatiebalk">
+<!ENTITY search.label "Zoeken op het internet">
 <!ENTITY tabWindows.label "Navigeren met tabbladen">
 <!ENTITY links.label "Gedrag van koppelingen">
-<!ENTITY offline.label "Offline">
+<!ENTITY download.label "Downloads">
+
 <!ENTITY security.label "Privacy &amp; beveiliging">
 <!ENTITY privatedata.label "Privégegevens">
 <!ENTITY cookies.label "Cookies">
@@ -26,21 +31,18 @@
 <!ENTITY masterpass.label "Hoofdwachtwoord">
 <!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Certificaten">
+
 <!ENTITY sync.label "Sync">
+
 <!ENTITY advance.label "Geavanceerd">
-<!ENTITY down.label "Downloaden">
+<!ENTITY scriptsAndWindows.label "Scripts &amp; plug-ins">
+<!ENTITY keynav.label "Toetsenbordnavigatie">
+<!ENTITY findAsYouType.label "Zoeken terwijl u typt">
 <!ENTITY cache.label "Buffer">
 <!ENTITY offlineApps.label "Offline Apps">
 <!ENTITY proxies.label "Proxy’s">
 <!ENTITY httpnetworking.label "HTTP-netwerken">
 <!ENTITY smart.label "Software-installatie">
-<!ENTITY download.label "Downloads">
-<!ENTITY keynav.label "Toetsenbordnavigatie">
-<!ENTITY findAsYouType.label "Zoeken terwijl u typt">
-<!ENTITY search.label "Zoeken op het internet">
-<!ENTITY policies.label "Beveiligingsbeleid">
 <!ENTITY mousewheel.label "Muiswiel">
-<!ENTITY scriptsAndWindows.label "Scripts &amp; plug-ins">
-<!ENTITY spellingPane.label  "Spelling">
 
 <!ENTITY focusSearch.key "f">
