@@ -536,9 +536,9 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; үй парағы">
 <!ENTITY home_history_title "Тарихы">
-
-
-
+<!ENTITY home_synced_devices_smartfolder "Синхрондалған құрылғылар">
+<!ENTITY home_synced_devices_number "&formatD; құрылғы">
+<!ENTITY home_history_back_to2 "Толық тарихқа оралу">
 <!ENTITY home_clear_history_button "Шолу тарихын тазарту">
 <!ENTITY home_clear_history_confirm "Тарихты өшіруді шынымен қалайсыз ба?">
 <!ENTITY home_bookmarks_empty "Сіз сақтаған бетбелгілер осында көрсетіледі.">
