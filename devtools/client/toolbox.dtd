@@ -131,11 +131,11 @@ values from browser.dtd.  -->
 <!ENTITY options.disableJavaScript.label     "Désactiver JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip   "Activer cette option désactivera JavaScript pour l’onglet courant. Ce paramètre sera oublié à la fermeture de l’onglet ou de la boîte à outils.">
 
-<!-- LOCALIZATION NOTE (options.disableCache.label2,
-  -  options.disableCache.tooltip2): This is the options panel label and
+<!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
+  -  options.disableCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
-<!ENTITY options.disableCache.label2     "Désactiver le cache (lorsque la boîte à outils est ouverte)">
-<!ENTITY options.disableCache.tooltip2   "Activer cette option désactivera le cache pour l’ensemble des onglets dans lesquels la boîte à outils est ouverte.">
+<!ENTITY options.disableHTTPCache.label     "Désactiver le cache HTTP (lorsque la boîte à outils est ouverte)">
+<!ENTITY options.disableHTTPCache.tooltip   "Activer cette option désactivera le cache HTTP pour l’ensemble des onglets dans lesquels la boîte à outils est ouverte. Cette option n’a aucun effet sur les service workers.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
