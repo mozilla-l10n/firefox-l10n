@@ -4,26 +4,77 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Datos de Telemetry">
 
+<!ENTITY aboutTelemetry.changeDataChoices "
+  Camudar
+">
 
+<!ENTITY aboutTelemetry.uploadEnabled "
+  L'unviu de datos de FHR ta <span>activáu</span>.
+">
 
+<!ENTITY aboutTelemetry.uploadDisabled "
+  L'unviu de datos de FHR ta <span>desactiváu</span>.
+">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "
+  El rexistru estendíu de Telemetry ta <span>activáu</span>.
+">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "
+  El rexistru estendíu de Telemetry ta <span>desactiváu</span>.
+">
 
+<!ENTITY aboutTelemetry.pingDataSource "
+Fonte de datos de ping:
+">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "
+Datos actuales de ping
+">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "
+Datos archivaos de ping
+">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "
+Amosar datos de ping:
+">
 
+<!ENTITY aboutTelemetry.structured "
+Estructuráu
+">
 
+<!ENTITY aboutTelemetry.raw "
+Raw JSON
+">
 
+<!ENTITY aboutTelemetry.showSubsessionData "
+Amosar datos de subsesión
+">
 
+<!ENTITY aboutTelemetry.choosePing "
+Esbillar ping:
+">
 
+<!ENTITY aboutTelemetry.showNewerPing "
+&lt;&lt; Ping más recién
+">
 
+<!ENTITY aboutTelemetry.showOlderPing "
+Ping más vieyu &gt;&gt;
+">
 
+<!ENTITY aboutTelemetry.rawPingData "
+Datos ensin procesar del ping…
+">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Selmana
 ">
 
+<!ENTITY aboutTelemetry.archivePingHeader "
+Ping
+">
 
 <!ENTITY aboutTelemetry.generalDataSection "">
 
@@ -84,4 +135,10 @@ Selmana
 
 <!ENTITY aboutTelemetry.filterText "">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Payload
+">
 
+<!ENTITY aboutTelemetry.rawPayload "
+  Raw Payload
+">
