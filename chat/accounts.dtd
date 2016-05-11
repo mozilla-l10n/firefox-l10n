@@ -10,9 +10,15 @@
 <!ENTITY accountsWindow2.style               "anchor: 41em; altor: 27em;">
 
 <!ENTITY accountManager.newAccount.label     "Cuenta nueva">
+<!ENTITY accountManager.newAccount.accesskey "N">
 <!ENTITY accountManager.close.label          "Zarrar">
+<!ENTITY accountManager.close.accesskey      "r">
 <!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Entá nun se configuró cuenta dala">
+<!ENTITY account.autoSignOn.label     "Aniciar sesión al arrancar">
+<!ENTITY account.autoSignOn.accesskey "A">
+<!ENTITY account.connect.label        "Coneutar">
 <!ENTITY account.connecting           "Coneutando…">
 <!ENTITY account.disconnecting        "Desconeutando…">
