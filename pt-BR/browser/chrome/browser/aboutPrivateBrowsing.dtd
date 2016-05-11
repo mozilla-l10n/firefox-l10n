@@ -12,17 +12,17 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "não salva">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "páginas visitadas">
-<!ENTITY aboutPrivateBrowsing.info.searches              "Pesquisas">
-<!ENTITY aboutPrivateBrowsing.info.cookies               "Cookies">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Arquivos temporários">
-<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.searches              "pesquisas">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "arquivos temporários">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "O Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "irá salvar">
-<!ENTITY aboutPrivateBrowsing.info.saved.after2          " seu:">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " seus:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Downloads">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Favoritos">
-<!ENTITY aboutPrivateBrowsing.note.before                "Navegação privativa ">
-<!ENTITY aboutPrivateBrowsing.note.emphasize             "não faz de você anônimo">
-<!ENTITY aboutPrivateBrowsing.note.after                 " na internet. Seu empregador ou provedor de acesso a internet ainda podem saber quais páginas você visita.">
+<!ENTITY aboutPrivateBrowsing.note.before                "A Navegação Privativa ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "não o torna anônimo">
+<!ENTITY aboutPrivateBrowsing.note.after                 " na internet. Seu empregador ou provedor de acesso à internet ainda podem saber quais páginas você visita.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Saiba mais sobre">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Navegação privativa">
 

@@ -38,8 +38,7 @@ do seu computador.</li> 
 <!ENTITY fileAccessDenied.title "Acesso ao arquivo foi negado">
 <!ENTITY fileAccessDenied.longDesc "<ul>
   <li>Pode ter sido removido, movido ou as permissões do arquivo podem estar impedindo o acesso.</li>
-</ul>
-">
+</ul>">
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>Algo impediu o &brandShortName; de carregar esta página.</p>">
@@ -171,3 +170,4 @@ certificado.">
 <!ENTITY inadequateSecurityError.title "Sua conexão não é segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa uma tecnologia de segurança que está ultrapassada e vulnerável a ataques. Um cracker poderia facilmente coletar informações enquanto você acreditava estar seguro. O administrador do website precisa consertar essa brecha no servidor antes de você poder visitar esse site.</p><p>Código de Erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

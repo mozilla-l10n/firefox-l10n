@@ -7,7 +7,7 @@
 <!ENTITY search.buttonlabel                   "Pesquisar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "F">
+<!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Carregando…">
 <!ENTITY listEmpty.installed.label            "Não há nenhum complemento deste tipo instalado">
