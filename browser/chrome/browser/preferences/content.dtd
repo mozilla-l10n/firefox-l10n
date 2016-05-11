@@ -9,10 +9,12 @@
 
 <!ENTITY  notificationsPolicy.label            "දැනුම්දීම්">
 <!ENTITY  notificationsPolicyLearnMore.label   "තවත් දැනගන්න">
+<!ENTITY  notificationsPolicyDesc3.label       "ඔබට දැනුම් දීම් එවීමට අනුමත අඩවි තෝරන්න">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "තෝරන්න…">
 <!ENTITY  notificationsDoNotDisturb.label      "මට බාධා නොකරන්න">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
+<!ENTITY  notificationsDoNotDisturbDetails.value "ඔබ &brandShortName; යළි අරඹන තෙක් කිසිදු දැනුම් දීමක් දර්ශනය නොවනු ඇත">
 
 <!ENTITY  popupExceptions.label       "හැරදැමීම්...">
 <!ENTITY  popupExceptions.accesskey   "E">
@@ -36,7 +38,7 @@
 <!ENTITY chooseButton.label           "තෝරන්න…">
 <!ENTITY chooseButton.accesskey       "o">
 
-<!ENTITY translateWebPages.label      "ජාල අන්තර්ගතය පරිවර්තනය (T)">
+<!ENTITY translateWebPages.label      "ජාල අන්තර්ගතය පරිවර්තනය">
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "හැරදැමීම්...">
 <!ENTITY translateExceptions.accesskey "x">
@@ -51,4 +53,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "පරිවර්තනය කළේ">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "DRM අන්තර්ගතය">
 
+<!ENTITY  playDRMContent.label         "DRM අන්තර්ගතය වාදනය කරන්න">
+<!ENTITY  playDRMContent.accesskey     "P">
+<!ENTITY  playDRMContent.learnMore.label "තවත් දැනගන්න">

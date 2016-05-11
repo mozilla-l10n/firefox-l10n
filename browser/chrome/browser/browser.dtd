@@ -347,6 +347,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.openprefs.label "Sync සැකසුම්">
+<!ENTITY appMenuRemoteTabs.signin.label "Sync වෙත පිවිසෙන්න">
 
 <!ENTITY customizeMenu.addToToolbar.label "මෙවලම් තීරුවට එක් කරන්න (A)">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -373,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ටැබයට මාරුවෙන්න:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "තවත් දැනගන්න...">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "නැත">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
@@ -436,6 +439,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "නව ටැබයක සොයන්න">
 <!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "පෙරනිමි සෙවුම් එළවුම ලෙස තබන්න">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "සබැඳුම අලුත් ටැබයක විවෘත කරන්න">
@@ -674,26 +678,49 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.enableMixedContentBlocking.label "ආරක්ෂණය සක්‍රීය කරන්න">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "දැනට ආරක්සහාව අකරිය කරන්න (D)">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "තවත් දැනගන්න">
 
+<!ENTITY identity.removeCertException.label "හැර දැමීම ඉවත් කරන්න">
+<!ENTITY identity.removeCertException.accesskey "R">
 
+<!ENTITY identity.moreInfoLinkText2 "බොහෝ තොරතුරු">
 
 <!ENTITY identity.permissions "අවසරයන්">
+<!ENTITY identity.permissionsEmpty "ඔබ මෙම අඩවියට විශෙෂිත අවසර ලබා දී නැත.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ගවේෂක ටැබ්">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu3.label     "සම්මුහුර්ථ කළ ටැබ්">
 
+<!ENTITY syncedTabs.sidebar.label              "සම්මුහුර්ථ කළ ටැබ්">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
+<!ENTITY syncedTabs.context.open.label                       "විවෘත කරන්න">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "නව ටැබයක විවෘත කරන්න">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "නව කවුළුවක විවෘත කරන්න">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "නව පුද්ගලික කවුළුවක විවෘත කරන්න">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "මෙම ටැබ පිටුසළකුණු කරන්න…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "පිටපත් කරන්න">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "සම්මුහුර්තය">
 
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; වෙත පිවිසෙන්න...">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "දැන් සම්මුහුර්ත කරන්න">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; වෙත යලි සබඳවන්න... (R)">
@@ -755,16 +782,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "ඔබේ තිරයේ දිස්වෙන සියළු කවුළු බෙදාගැනෙනු ඇත.">
 
+<!ENTITY trackingProtection.title "ලුහුබැඳීම් ආරක්ෂණය">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label "මෙම අඩවිය සඳහා ආරක්ෂනය අක්‍රීය කරන්න">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "මෙම සැසිය සඳහා ආරක්ෂණය අක්‍රීය කරන්න">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "ආරක්ෂණය සක්‍රීය කරන්න">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "Tracking">
 <!ENTITY trackingContentBlocked.moreinfo "ඔබේ අන්තර්ජාල ක්‍රියාකාරීත්වය විමසන පිටුවේ සමහර කොටස් අවහිර කර ඇති.">
 <!ENTITY trackingContentBlocked.learnMore "තවත් ඉගෙනගන්න">
+<!ENTITY trackingContentBlocked.options "විකල්ප">
+<!ENTITY trackingContentBlocked.unblock2.label "මෙම අඩවිය සඳහා ආරක්ෂනය අක්‍රීය කරන්න">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "ආරක්ෂණය සක්‍රීය කරන්න">
 <!ENTITY trackingContentBlocked.block.accesskey "ආ">
 <!ENTITY trackingContentBlocked.disabled.message "ලුහුබැඳීම් ආරක්ශාව අක්‍රීය කරන ලදී">
@@ -815,3 +852,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "සුරක්ෂිත වෙබ් අත්දැකීම!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ස්තූතියි!">
 
+<!ENTITY emeLearnMoreContextMenu.label            "DRM පිළිබඳ වැඩිදුර දැනගන්න...">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
