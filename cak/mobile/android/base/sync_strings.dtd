@@ -29,7 +29,7 @@
 <!ENTITY sync.default.client.name "&formatS1; pa ruwi\u0027 &formatS2;">
 <!-- Bookmark folder strings -->
 
-<!ENTITY bookmarks.folder.menu.label "K\u0027utüy rusamaj yakäl etal">
+<!ENTITY bookmarks.folder.menu.label "K\u0027utüy rusamaj taq yaketal">
 <!ENTITY bookmarks.folder.places.label "k\u0027utüy kisamaj yakäl taq etal">
 <!ENTITY bookmarks.folder.tags.label "Ruwachib\u0027al b\u0027i\u0027aj">
 <!ENTITY bookmarks.folder.toolbar.label "Rumolsamajib\u0027al yakäl taq etal">

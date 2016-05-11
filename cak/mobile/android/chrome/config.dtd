@@ -7,7 +7,7 @@
 
 <!ENTITY newPref.namePlaceholder       "B'i'aj">
 
-<!ENTITY newPref.valueBoolean          "Boolean">
+<!ENTITY newPref.valueBoolean          "B'olan">
 <!ENTITY newPref.valueString           "Cholaj">
 <!ENTITY newPref.valueInteger          "Chijun">
 
