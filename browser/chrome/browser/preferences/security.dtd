@@ -18,6 +18,7 @@
 <!ENTITY  blockDownloads.accesskey        "d">
 
 <!ENTITY  blockUncommonUnwanted.label     "Quero receber avisos sobre software incomum e indesejado">
+<!ENTITY  blockUncommonUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "Exceções…">
 <!ENTITY  addonExceptions.accesskey     "E">
