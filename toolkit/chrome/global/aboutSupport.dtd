@@ -105,7 +105,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Defnyddiwch y Modd Diogel">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi…">
 
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Nodweddion">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnosteg">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Cofnod Methiant">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
