@@ -19,6 +19,7 @@
 <!ENTITY fileNotFound.title "Impussibel da chattar la datoteca">
 <!ENTITY fileNotFound.longDesc "<ul><li>Forsa è l'endataziun vegnida renumnada, stizzada u spustada? </li><li>Cuntegna l'adressa in sbagl ortografic, in sbagl da scripziun grond e pitschen u in auter sbagl da scriver? </li><li>Has ti ils dretgs d'access correspundents per chargiar l'endataziun dumandada?</li></ul>">
 
+
 <!ENTITY generic.title "Impussibel d'exequir la dumonda">
 <!ENTITY generic.longDesc "<p>Ulteriuras infurmaziuns davart quest problem u questa errur n'èn per il mument betg disponiblas.</p>">
 
@@ -82,3 +83,6 @@
 
 <!ENTITY remoteXUL.title "Remote-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Infurmescha per plaschair il possesur da la website davart quest problem.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
