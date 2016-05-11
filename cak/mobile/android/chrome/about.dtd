@@ -21,4 +21,4 @@
 <!ENTITY aboutPage.license.label                "Etamab'äl chi rij ya'öl q'ij">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
-<!ENTITY aboutPage.logoTrademark                "Firefox chuqa' ri taq ruwachib'al b'i'aj Firefox eq'alajisan taq retal b'i'aj richin ri Mozilla Moloj.">
+<!ENTITY aboutPage.logoTrademark                "Firefox chuqa' ri taq ruwachib'al rub'i' Firefox, etz'ib'an pa rub'i' ri Mozilla Moloj.">
