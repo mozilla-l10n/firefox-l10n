@@ -149,3 +149,6 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "J">
 <!ENTITY spellAddDictionaries.label     "Prevziať ďalšie slovníky…">
 <!ENTITY spellAddDictionaries.accesskey "P">
+<!-- Developer Tools -->
+<!ENTITY devtoolsInspect.label          "Preskúmať prvok">
+<!ENTITY devtoolsInspect.accesskey      "e">
