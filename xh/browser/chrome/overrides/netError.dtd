@@ -19,12 +19,13 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Iseva ayifunyenwanga">
-
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Khangela idilesi yokuchwetheza iimposiso njenge <strong>ww</strong>.example.com endaweni ye-<strong>www</strong>.example.com</li> <li>Ukuba akukwazi ukulayisha nawaphi na amakhasi, khangela unxibelelwano lwenethiwekhi yekhompyutha yakho.</li> <li>Ukuba ikhompyutha yakho okanye inethiwekhi ayikhuselwanga yi-firewall okanye iproksi, qiniseka ukuba i-&brandShortName; ivunyelwe ukufikelela kwiWebhu.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Ifayile ayifumaneki">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Khangela igama lefayile yoonobumba okanye ezinye iimpazamo zokutayipha.</li> <li>Khangela ubone ukuba ingaba ifayile yashenxiswa, yathiywa ngokutsha okanye yacinywa na.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Ufikelelo kule fayile lwalelwe">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Kusenokwenzeka isusiwe, ikhutshiwe, okanye imvume yefayile kungenzeka ithintela ufikelelo.</li></ul>">
 
 <!ENTITY generic.title "Oops.">
 
