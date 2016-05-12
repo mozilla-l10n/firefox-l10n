@@ -41,7 +41,7 @@
 <!ENTITY  crash_reporter_title "Rutzijol taq rusachoj &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; xuk\u0027ulwachij jun k\u0027ayewal ruma ri\u0027 xutz\u0027apij ri\u0027. Ri taq awi\u0027 yeq\u0027alajin ta ri\u0027 pa ri Tikirib\u0027al ruxaq ri &brandShortName; toq nutikirisaj chik el ri\u0027.">
 <!ENTITY  crash_send_report_message3 "Tiya\u0027 rutzijol chi re ri &vendorShortName; chi rij re sachoj re\u0027 richin tub\u0027ana\u0027 rutzil">
-<!ENTITY  crash_include_url2 "Tiya\u0027 qa ri rochochib\u0027al ruxaq k\u0027amaya\u0027l akuchi\u0027 in k\u0027o wi kan">
+<!ENTITY  crash_include_url2 "Titz\u0027aqatisäx ri rochochib\u0027al ruxaq k\u0027amaya\u0027l in k\u0027o wi kan">
 <!ENTITY  crash_sorry "Naküy qamak">
 <!ENTITY  crash_comment "Titz\u0027aqatisäx jun rutzijol (ri taq rutzijol konojel winaqi\u0027 yetz\u0027eton)">
 <!ENTITY  crash_allow_contact2 "Tiya\u0027 q\u0027ij chi re &vendorShortName; kirukanoj pa ruwi\u0027 re jun rutziol re\u0027">
@@ -186,14 +186,14 @@
 <!ENTITY pref_manage_logins "Kenuk\u0027samajïx ri taq kitikirisab\u0027al moloj">
 
 <!ENTITY pref_category_home "Tikirib\u0027äl">
-<!ENTITY pref_category_home_summary "Tawichinaj ri tikirib\u0027äl ruxaq">
+<!ENTITY pref_category_home_summary "Tawichinaj ri ruxaq atikirib\u0027al">
 <!ENTITY pref_category_home_panels "Taq pas">
 <!ENTITY pref_category_home_add_ons "Taq tz\u0027aqat">
 <!ENTITY pref_home_updates2 "K\u0027exoj taq kiwäch rupam">
 <!ENTITY pref_home_updates_enabled "Jaqäl">
 <!ENTITY pref_home_updates_wifi "Xa xe rik\u0027in Waypay">
 <!ENTITY pref_category_home_homepage "Ruxaq tikirisab\u0027äl">
-<!ENTITY home_homepage_title "Tiwachib\u0027ëx pe richin tikirisanel ruxaq">
+<!ENTITY home_homepage_title "Tiwachib\u0027ëx pe richin ruxaq tikirib\u0027äl">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -487,7 +487,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar2 "Okem pa k\u0027amaya\u0027l pa chijun ruwäch">
+<!ENTITY pref_scroll_title_bar2 "Okem pa k\u0027amaya\u0027l pa chijun ruwa kematz\u0027ib\u0027">
 <!ENTITY pref_scroll_title_bar_summary2 "Tewäx &brandShortName; ri rukajtz\u0027ik b\u0027i\u0027aj toq xtiqasäx pa jun ruxaq">
 
 <!ENTITY pref_tab_queue_title3 "Rucholajem ruwi\u0027">
