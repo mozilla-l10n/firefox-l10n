@@ -263,7 +263,7 @@
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "Titzij, tiya\u0027 q\u0027ij richin yewachib\u0027ëx pa kiwi\u0027 ch\u0027aqa\u0027 chik taq chokoy">
 <!ENTITY tab_queue_prompt_positive_action_button "Tiya\u0027 q\u0027ij">
-<!ENTITY tab_queue_prompt_negative_action_button "Wakami manäq">
+<!ENTITY tab_queue_prompt_negative_action_button "Wakami mani">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Tib\u0027e pa taq nuk\u0027ulem">

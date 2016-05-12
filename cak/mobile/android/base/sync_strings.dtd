@@ -35,7 +35,7 @@
 <!ENTITY bookmarks.folder.toolbar.label "Rumolsamajib\u0027al yakäl taq etal">
 <!ENTITY bookmarks.folder.other.label "Ch\u0027aqa\u0027 chi taq Yaketal">
 <!ENTITY bookmarks.folder.desktop.label "Yakäl retal tzub\u0027al">
-<!ENTITY bookmarks.folder.mobile.label "Yakäl retal oyonib\u0027äl">
+<!ENTITY bookmarks.folder.mobile.label "Taq ruyaketal oyonib\u0027äl">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Jikïl">
 <!-- Firefox Account strings. -->

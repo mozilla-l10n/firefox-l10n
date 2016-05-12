@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "Sync">
-<!ENTITY sync.notconnected          "Majun okem">
+<!ENTITY sync.notconnected          "Man okinäq ta">
 <!ENTITY sync.connect               "Tokisäx">
 <!ENTITY sync.connected             "Okisan">
 <!ENTITY sync.details               "Taq b'anikil">
