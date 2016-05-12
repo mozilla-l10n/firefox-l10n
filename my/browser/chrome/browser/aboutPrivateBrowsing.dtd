@@ -6,7 +6,8 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Pလုံခြုံရေးအထူးစနစ် အားဖွင့်ပါ။ ">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-
+<!ENTITY privateBrowsing.title                           "လုံခြုံစွာ ကြည့်ရှူခြင်း">
+<!ENTITY privateBrowsing.title.tracking                  "စောင့်ကြည့်ခြင်းမှ ကာကွယ်ပြီး လုံခြုံစွာ ကြည့်ရှုရန်">
 
 
 
