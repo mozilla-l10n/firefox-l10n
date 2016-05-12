@@ -83,27 +83,29 @@
 
 
 
-
-
+<!ENTITY printSetupCmd.label "Sahifani moslash…">
+<!ENTITY printSetupCmd.accesskey "l">
 <!-- Edit Menu -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY deleteMsgCmd.label "Xabarni o‘chirish">
+<!ENTITY deleteMsgCmd.accesskey "o">
+<!ENTITY undeleteMsgCmd.label "Xabarni o‘chirishni bekor qilish">
+<!ENTITY undeleteMsgCmd.accesskey "d">
+<!ENTITY deleteMsgsCmd.label "Tanlangan xabarlarni o‘chirish">
+<!ENTITY deleteMsgsCmd.accesskey "o">
+<!ENTITY undeleteMsgsCmd.label "Tanlangan xabarlarni o‘chirishni bekor qilish">
+<!ENTITY undeleteMsgsCmd.accesskey "b">
+<!ENTITY deleteFolderCmd.label "Jildni o‘chirish">
+<!ENTITY deleteFolderCmd.accesskey "o">
+<!ENTITY unsubscribeNewsgroupCmd.label "Obunadan voz kechish">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "v">
+<!ENTITY selectMenu.label "Tanlash">
+<!ENTITY selectMenu.accesskey "T">
+<!ENTITY all.label "Barchasi">
+<!ENTITY all.accesskey "B">
+<!ENTITY selectThreadCmd.label "Yozishma">
+<!ENTITY selectThreadCmd.accesskey "Y">
+<!ENTITY selectThreadCmd.key "a">
 
 
 
