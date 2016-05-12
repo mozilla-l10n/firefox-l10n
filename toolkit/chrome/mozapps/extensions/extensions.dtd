@@ -208,7 +208,7 @@
 <!ENTITY addon.checkingForUpdates.label       "Verificacion de las mesas a jorn...">
 <!ENTITY addon.releaseNotes.label             "Nòtas de version :">
 <!ENTITY addon.loadingReleaseNotes.label      "Cargament...">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Una error s'es producha al moment del cargament de las nòtas de version.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Una error s'es produita al moment del cargament de las nòtas de version.">
 
 <!ENTITY addon.createdBy.label                "Per ">
 
