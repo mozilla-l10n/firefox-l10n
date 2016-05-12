@@ -168,8 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Rhuma Kweli Phepha…">
 <!ENTITY addCurPagesCmd.label "Faka ibhukhmakhi kuzo zonke iithebhu…">
 <!ENTITY showAllBookmarks2.label "Bonisa zonke iibhukhmakhi">
-
-
+<!ENTITY recentBookmarks.label "Okufakwe Ibhukmakhi Kutshanje">
+<!ENTITY otherBookmarksCmd.label "Ezinye iiBhukmakhi">
 <!ENTITY bookmarksToolbarChevron.tooltip "Bonisa iibhukhmakhi ezininzi">
 
 <!ENTITY backCmd.label                "Emva">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Iibhukhmakhi">
-
+<!ENTITY bookmarksMenuButton.other.label "Ezinye iiBhukmakhi">
 <!ENTITY viewBookmarksSidebar2.label        "Bona ibha esecaleni yeeBhukhmakhi">
 <!ENTITY viewBookmarksToolbar.label         "Bona iThulbha Yeebhukhmakhi">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Sika">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "k"> 
-
+<!ENTITY copyCmd.label            "Kopa">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Ncamathelisa">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "N"> 
@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Azikho iithebhu ezingqamanisiweyo… okwangoku!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Ufuna ukubona iithebhu kwezinye izixhobo apha?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ngqamanisa iiPreferensi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Sayina ungene ukuze ujonge iithebhu kwezinye izixhobo zakho.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sayina ungene ukuze uNgqamanise">
@@ -724,8 +725,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Iithebhu Ezingqamanisiweyo">
 
 <!ENTITY syncedTabs.sidebar.label              "Iithebhu Ezingqamanisiweyo">
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Sayina ungene kwi-Firefox ngokusuka kwezinye izixhobo zakho ukuze uonge iithebhu zazo apha.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Azikho iithebhu ezingqamanisiweyo… okwangoku!">
 
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Sayina ungene ukuze ujonge iithebhu kwezinye izixhobo zakho.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Azikho iithebhu ezivuliweyo">
