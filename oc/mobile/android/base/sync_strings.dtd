@@ -16,6 +16,8 @@
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "Ai pas l\&quot;aparelh amb ieu…">
 <!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.passwords2 "Se connectar">
 <!ENTITY sync.configure.engines.title.history "Istoric">
 <!ENTITY sync.configure.engines.title.tabs "Onglets">
 <!-- Localization note (sync.default.client.name): Default string of the "Device

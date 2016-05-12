@@ -328,8 +328,8 @@ size. -->
 <!ENTITY pref_private_data_cache "Escondedor">
 <!ENTITY pref_private_data_offlineApps "Donadas de sites web sens connexion">
 <!ENTITY pref_private_data_siteSettings2 "Paramètres del site">
-
-
+<!ENTITY pref_private_data_downloadFiles2 "Telecargaments">
+<!ENTITY pref_private_data_syncedTabs "Onglets sincronizats">
 
 <!ENTITY pref_about_firefox "A prepaus de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
@@ -374,15 +374,19 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
+<!ENTITY pref_update_autodownload3 "Mesas a jorn automaticas">
+<!ENTITY pref_update_autodownload_wifi "Solament per Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Pas jamai">
-
+<!ENTITY pref_update_autodownload_always "Totjorn">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "Ajuda">
 
 <!ENTITY quit "Quitar">
 
+<!ENTITY addons "Moduls complementaris">
 
-
+<!ENTITY downloads "Telecargaments">
 <!ENTITY char_encoding "Encodatge de caractèr">
 
 <!ENTITY share "Partejar">
@@ -398,34 +402,36 @@ size. -->
 <!ENTITY new_private_tab "Onglet de nav. privada">
 <!ENTITY close_all_tabs "Tampar totes los onglets">
 
-
+<!ENTITY tabs_normal "Onglets">
 <!ENTITY tabs_private "Privats">
 <!ENTITY set_image_fail "Impossible de partejar aqueste imatge">
-
+<!ENTITY set_image_path_fail "Impossible de partejar aqueste imatge">
 <!ENTITY set_image_chooser_title "Enregistrar l\u0027imatge jos">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Recercar dins la pagina">
 <!ENTITY find_prev "Precedent">
-
-
+<!ENTITY find_next "Seguent">
+<!ENTITY find_close "Tampar">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_play "Lectura">
 <!ENTITY media_pause "Pausa">
-
+<!ENTITY media_stop "Arrestar">
 
 <!ENTITY contextmenu_open_new_tab "Dobrir dins un onglet novèl">
 <!ENTITY contextmenu_open_private_tab "Dobrir en navigacion privada">
-
+<!ENTITY contextmenu_remove "Suprimir">
 <!ENTITY contextmenu_add_to_launcher "Apondre a l\u0027ecran d\u0027acuèlh">
-
+<!ENTITY contextmenu_share "Partejar">
 
 <!ENTITY contextmenu_paste "Empegar">
 <!ENTITY contextmenu_copyurl "Copiar l\u0027adreça">
 <!ENTITY contextmenu_edit_bookmark "Modificar">
 <!ENTITY contextmenu_subscribe "S\u0027abonar a aquesta pagina">
 <!ENTITY contextmenu_site_settings "Editar los paramètres del Site">
-
+<!ENTITY contextmenu_top_sites_edit "Modificar">
 <!ENTITY contextmenu_top_sites_pin "Espingolar aqueste Site">
 <!ENTITY contextmenu_top_sites_unpin "Despingolar aqueste Site ">
 <!ENTITY contextmenu_add_search_engine "Apondre un motor de recèrca">
@@ -491,6 +497,8 @@ size. -->
 <!ENTITY home_top_sites_add "Apondre un site">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "Acuèlh de &brandShortName;">
 <!ENTITY home_history_title "Istoric">
 
 
@@ -549,6 +557,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "Proteccion contra lo seguiment">
 <!ENTITY doorhanger_tracking_state_enabled "Activat">
 <!ENTITY doorhanger_tracking_state_disabled "Desactivat">
 
@@ -694,6 +704,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 
 
+<!ENTITY promotion_add_to_homescreen "Apondre a l\u0027ecran d\u0027acuèlh">
 
 
-
+<!ENTITY helper_first_offline_bookmark_button "Anatz als marcapaginas">
