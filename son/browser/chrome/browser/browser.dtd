@@ -163,13 +163,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "e">
 <!ENTITY shareVideo.label "Widewo woo žemna">
 <!ENTITY shareVideo.accesskey "e">
-
-
+<!ENTITY feedsMenu2.label "Boŋ-maa hantum moɲoo woo ga">
+<!ENTITY subscribeToPageMenupopup.label "Boŋ-maa hantum moɲoo woo ga">
 <!ENTITY subscribeToPageMenuitem.label "Boŋ-maa hantum moɲoo woo ga…">
 <!ENTITY addCurPagesCmd.label "Kanjey kul doo-šilbay…">
 <!ENTITY showAllBookmarks2.label "Doo-šilbawey kul cebe">
-
-
+<!ENTITY recentBookmarks.label "Kokor doo-šilbantey">
+<!ENTITY otherBookmarksCmd.label "Doo-šilbay taaney">
 <!ENTITY bookmarksToolbarChevron.tooltip "Doo-šilbay tontoney cebe">
 
 <!ENTITY backCmd.label                "Banda">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Doo-šilbawey">
-
+<!ENTITY bookmarksMenuButton.other.label "Doo-šilbay taaney">
 <!ENTITY viewBookmarksSidebar2.label        "Doo-šilbawey goyjinay zuu">
 <!ENTITY viewBookmarksToolbar.label         "Doo-šilbawey goyjinay žeeri">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Dunbu">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "D"> 
-
+<!ENTITY copyCmd.label            "Berandi">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "B"> 
 <!ENTITY pasteCmd.label           "Dobu">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "D"> 
@@ -341,14 +341,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "Kanji hangantey">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Kanji kul ši feeri">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Kanji hangandiyan tunandi ka dii kanjey maašeede jinay taney ga.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Kanjiyaŋ kul mana hangandi jina!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Ga boona ka dii war jinay taney kanjey ne wala?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ibaayey hangandi">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Huru ka dii kanji maašeede foo war jinay taney ga.">
 <!ENTITY appMenuRemoteTabs.signin.label "Huru Sync ra">
 
 
