@@ -31,7 +31,7 @@
 <!ENTITY netInterrupt.longDesc "<p>The browser connected successfully, but the connection was interrupted while transferring information.  Please try again.</p><ul><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
 
 <!ENTITY notCached.title "Lo document a expirat">
-<!ENTITY notCached.longDesc "<p>Lo document demandat es pas disponible dins l'escondedor del navigador.</p> <ul> <li>Per de rasons de seguretat, lo navigador redemanda pas automaticament los documents sensibles.</li> <li>Clicar sus « Ensajar tornarmai » per tornar demandar lo document a partir del site Web.</li> </ul>">
+<!ENTITY notCached.longDesc "<p>Lo document demandat es pas disponible dins lo cache del navigador.</p> <ul> <li>Per de rasons de seguretat, lo navigador redemanda pas automaticament los documents sensibles.</li> <li>Clicar sus « Ensajar tornarmai » per tornar demandar lo document a partir del site Web.</li> </ul>">
 
 <!ENTITY netOffline.title "Offline Mode">
 <!ENTITY netOffline.longDesc2 "<p>Lo navigador es en mòde fòra connexion e se pòt pas connectar a l&apos;adreça indicada.</p><ul><li>L&apos;ordenador es connectat a la ret ?</li><li>Clicatz sul boton &quot;Ensajar tornarmai&quot; per tornar en mòde connectat e recargar la pagina.</li></ul>">

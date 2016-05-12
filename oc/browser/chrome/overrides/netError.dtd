@@ -36,7 +36,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Lo document a expirat">
-<!ENTITY notCached.longDesc "<p>Lo document demandat es pas mai disponible dins l'escondedor de &brandShortName;.</p><ul><li>Per mesura de seguretat, &brandShortName; torna pas demandar automaticament de documents sensibles.</li><li>Clicatz sus Ensajar Tornarmai per tornar demandar aqueste document dempuèi lo site web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Lo document demandat es pas mai disponible dins lo cache de &brandShortName;.</p><ul><li>Per mesura de seguretat, &brandShortName; torna pas demandar automaticament de documents sensibles.</li><li>Clicatz sus Ensajar Tornarmai per tornar demandar aqueste document dempuèi lo site web.</li></ul>">
 
 <!ENTITY netOffline.title "Mòde sens connexion">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Clicatz sul boton &quot;Ensajatz tornarmai&quot; per tornar en mòde connectat e recargar la pagina.</li> </ul>">
@@ -90,7 +90,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Ne saber mai…">
 
 <!ENTITY remoteXUL.title "XUL distant">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del sit per l'assabentar d'aqueste problèma.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Impossible d'establir una connexion securizada">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate

@@ -20,7 +20,7 @@
 <!ENTITY  generalMode           "Mòde de rendut :">
 <!ENTITY  generalSize           "Talha :">
 <!ENTITY  generalReferrer       "URL de provenença :">
-<!ENTITY  generalSource         "Font de l'escondedor :">
+<!ENTITY  generalSource         "Font del cache :">
 <!ENTITY  generalModified       "Modificat :">
 <!ENTITY  generalEncoding2      "Encodatge del tèxte :">
 <!ENTITY  generalMetaName       "Nom">
