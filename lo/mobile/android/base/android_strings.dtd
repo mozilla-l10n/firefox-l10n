@@ -24,15 +24,16 @@
 
 <!ENTITY  onboard_start_restricted1 "ທ່ອງເວັບຢ່າງປອດໄພ ແລະ ຢູ່ພາຍໃຕ້ການຄວບຄຸມຂອງທ່ານດ້ວຍລຸ້ນນີ້ຂອງ &brandShortName;.">
 
-
-
-
+<!ENTITY  reading_list_migration_title "ໄດ້ເຊື່ອມຕໍ່ເຂົ້າກັບລາຍການອ່ານແລ້ວ">
+<!ENTITY  reading_list_migration_subtext "ລາຍການອ່ານຂອງທ່ານຈະໄດ້ຮັບການເພີ່ມເຂົ້າໄປໄວ້ໃນບຸກມາກຂອງທ່ານ">
+<!ENTITY  reading_list_migration_goto_bookmarks "ໄປທີ່ບຸກມາກ">
+<!ENTITY  reading_list_migration_bookmarks_hidden "ແຜງບຸກມາກຂອງທ່ານຖືກເຊື່ອງໄວ້">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "ບຸກມາກສ໌">
 <!ENTITY  history_title "ປະວັດການໃຊ້ງານ">
-
+<!ENTITY  reading_list_title "ລາຍການອ່ານ">
 <!ENTITY  recent_tabs_title "ແທັບມື້ກີ້ນີ້">
 
 <!ENTITY  switch_to_tab "ຍ້າຍໄປຫາແທັບ">
@@ -62,15 +63,18 @@
 <!ENTITY bookmark_removed "ໄດ້ລຶບບຸກມາກ">
 <!ENTITY bookmark_updated "ໄດ້ອັບເດດບຸກມາກ">
 <!ENTITY bookmark_options "ຕົວເລືອກ">
-
+<!ENTITY screenshot_added_to_bookmarks "ໄດ້ເພີ່ມພາບຫນ້າຈໍເຂົ້າໄປໄວ້ໃນບຸກມາກແລ້ວ">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "ພາບຫນ້າຈໍ">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "ລາຍການອ່ານ">
 
-
+<!ENTITY reader_saved_offline "ບັກທຶກເປັນອັອບລາຍໄວ້ແລ້ວ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "ສະວິດ">
 
 <!ENTITY history_today_section "ມື້ນີ້">
 <!ENTITY history_yesterday_section "ມື້ວານ">
@@ -109,7 +113,7 @@
 <!ENTITY settings "ການຕັ້ງຄ່າ">
 <!ENTITY settings_title "ການຕັ້ງຄ່າ">
 <!ENTITY pref_category_general "ທົ່ວໄປ">
-
+<!ENTITY pref_category_general_summary3 "ຫນ້າທຳອິດ, ພາສາ, ຄິວແທັບ">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -148,15 +152,15 @@
 <!ENTITY overlay_no_synced_devices "ບໍ່ພົບອຸປະກອນທີ່ເຊື່ອມຕໍ່ກັບບັນຊີໄຟຟັອກ">
 
 <!ENTITY pref_category_search3 "ຊອກຫາ">
-
+<!ENTITY pref_category_search_summary2 "ເພີ່ມ, ຕັ້ງຄ່າພື້ນຖານ, ສະແດງຄຳແນະນຳ">
 <!ENTITY pref_category_accessibility "ການເຂົ້າເຖິງ">
 <!ENTITY pref_category_accessibility_summary2 "ຂະໜາດຕົວຫນັງສື, ຂະຫຍາຍ, ປ້ອນສຽງເຂົ້າ">
 <!ENTITY pref_category_privacy_short "ຄວາມເປັນສ່ວນຕົວ">
-
+<!ENTITY pref_category_privacy_summary4 "ການຕິດຕາມ, ການເຂົ້າສູ່ລະບົບ, ການເລືອກຂໍ້ມູນ">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "ກ່ຽວກັບ &brandShortName;, ຄຳຖາມທີພົບເປັນປະຈຳ, ຄໍາຄຶດຄໍາເຫັນ">
 <!ENTITY pref_category_datareporting "ເລືອກຂໍ້ມູນ">
-
+<!ENTITY pref_category_logins "ການເຂົ້າສູ່ລະບົບ">
 <!ENTITY pref_learn_more "ຮຽນຮູ້ເພີ່ມເຕີມ">
 <!ENTITY pref_category_installed_search_engines "ໄດ້ທຳການຕິດຕັ້ງລະບົບການຄົ້ນຫາແລ້ວ">
 <!ENTITY pref_category_add_search_providers "ເພີ່ມຕົວຄົ້ນຫາເຂົ້າໄປອີກ">
@@ -168,12 +172,13 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "ຄຳແນະນຳ: ເພີ່ມທຸກໆເວັບໄຊຕ໌ເຂົ້າໄປໃນລາຍການຂອງຜູ້ສະຫນອງການຄົ້ນຫາຂອງທ່ານໂດຍການກົດຄ້າງໄວ້ໃນຫ້ອງຄົ້ນຫາ ແລະ ຫລັງຈາກນັ້ນໄປແຕະທີ່ໄອຄອນ &formatI;">
 <!ENTITY pref_category_advanced "ຂັ້ນສູງ">
-
-
-
-
-
+<!ENTITY pref_category_advanced_summary3 "ກູ້ຄືນແທັບ, ຜູ້ຝາກຂໍ້ມູນ, ເຄື່ອງມືສຳລັບນັກພັດທະນາ">
+<!ENTITY pref_category_notifications "ການແຈ້ງເຕືອນ">
+<!ENTITY pref_category_notifications_summary "ຈຸດເດັ່ນໃຫມ່ໆ, ການອັບເດດເວັບໄຊຕ໌">
+<!ENTITY pref_content_notifications "ການອັບເດດເວັບໄຊຕ໌">
+<!ENTITY pref_content_notifications_summary2 "ຄົ້ນພົບເນື້ອຫາໃຫມ່ຈາກເວັບທີ່ໄດ້ຮັບການຮັບຮອງ">
 <!ENTITY pref_developer_remotedebugging_usb "ການດີບັກ (Debugging) ທາງໃກຜ່ານທາງ USB">
 <!ENTITY pref_developer_remotedebugging_wifi "ການດີບັກ (Debugging) ທາງໃກຜ່ານທາງ Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ການດີບັກ Wi-Fi ອຸປະກອນຂອງທ່ານຕ້ອງໄດ້ຮັບການຕິດຕັ້ງໂປແກມອ່ານລະຫັດ QR.">
@@ -183,8 +188,8 @@
 <!ENTITY pref_category_home "ໜ້າຫຼັກ">
 <!ENTITY pref_category_home_summary "ດັດແປງຫນ້າຫຼັກຂອງທ່ານ">
 <!ENTITY pref_category_home_panels "ແຜງ">
-
-
+<!ENTITY pref_category_home_add_ons "Add-ons">
+<!ENTITY pref_home_updates2 "ການອັບເດດເນື້ອຫາ">
 <!ENTITY pref_home_updates_enabled "ເປີດໃຊ້ງານແລ້ວ">
 <!ENTITY pref_home_updates_wifi "ຜ່ານທາງ Wi-Fi ເທົ່ານັ້ນ">
 <!ENTITY pref_category_home_homepage "ຫນ້າຫລັກ">
@@ -210,7 +215,7 @@
 <!ENTITY pref_header_search "ຊອກຫາ">
 <!ENTITY pref_header_privacy_short "ຄວາມເປັນສ່ວນຕົວ">
 <!ENTITY pref_header_accessibility "ການເຂົ້າເຖິງ">
-
+<!ENTITY pref_header_notifications "ການແຈ້ງເຕືອນ">
 <!ENTITY pref_header_advanced "ຂັ້ນສູງ">
 <!ENTITY pref_header_help "ຊ່ວຍເຫລືອ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -220,8 +225,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "ເປີດໃຊ້ງານ, ປະກອບໄປດ້ວຍບຸກຄົນທີ່ສາມ">
 <!ENTITY pref_cookies_disabled "ປິດໃຊ້ງານ">
 
-
-
+<!ENTITY pref_category_data_saver "ຜູ້ຝາກຂໍ້ມູນ">
+<!ENTITY pref_category_media "ມີເດຍ">
+<!ENTITY pref_category_developer_tools "ເຄືອງມືຂອງນັກພັດທະນາ">
 
 <!ENTITY pref_tap_to_load_images_title2 "ສະແດງຮູບພາບ">
 <!ENTITY pref_tap_to_load_images_enabled "ຕະຫລອດເວລາ">
@@ -229,8 +235,9 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "ບັອກ">
 
 <!ENTITY pref_show_web_fonts "ສະແດງຕົວອັກສອນເວັບ">
+<!ENTITY pref_show_web_fonts_summary2 "ດາວໂຫລດຟັອນຈາກທີ່ອື່ນເມື່ອມີການໂຫລດຫນ້າເວັບ">
 
-
+<!ENTITY pref_tracking_protection_title2 "ການປ້ອງກັນການຕິດຕາມ">
 <!ENTITY pref_tracking_protection_summary3 "ເປີດໃຫ້ໃຊ້ງານໃນການຄົ້ນຫາແບບສ່ວນຕົວ">
 <!ENTITY pref_donottrack_title "ບໍ່ຕິດຕາມ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ຈະບອກເວັບໃຊ້ທີ່ທ່ານບໍ່ຕ້ອງການໃຫ້ຖືກຕິດຕາມ">
