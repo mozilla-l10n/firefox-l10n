@@ -325,7 +325,7 @@ size. -->
 
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; connexions activas">
 
-<!ENTITY pref_private_data_cache "Escondedor">
+<!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Donadas de sites web sens connexion">
 <!ENTITY pref_private_data_siteSettings2 "Paramètres del site">
 <!ENTITY pref_private_data_downloadFiles2 "Telecargaments">
