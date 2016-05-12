@@ -20,7 +20,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "Pode sempre obter a última versão do &brandShortName; em:">
 
 <!ENTITY  unsupported.title               "Sistema não suportado">
-<!ENTITY  unsupported.label               "O &brandShortName; está desatualizado mas o seu sistema operativo não possui suporte à versão mais recente. Atualize o seu sistema e tente novamente. Este aviso não será mostrado de novo, mas pode obter">
+<!ENTITY  unsupported.label               "O &brandShortName; está desatualizado, mas o seu sistema operativo não é compatível com a versão mais recente. Atualize o seu sistema e volte a tentar. Este aviso não voltará a ser mostrado, mas pode obter">
 <!ENTITY  unsupportedLink.label           "mais informações.">
 
 <!ENTITY  incompatibleCheck.title         "A analisar compatibilidade do extra">
