@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Marcar totes los onglets…">
 <!ENTITY showAllBookmarks2.label "Afichar totes los marcapaginas">
 
-
+<!ENTITY otherBookmarksCmd.label "Autres marcapaginas">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afichar mai de marcapaginas">
 
 <!ENTITY backCmd.label                "Pagina precedenta">
@@ -207,7 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
+<!ENTITY urlbar.translateNotificationAnchor.label       "Traduire aquesta pagina">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Gerir la traduccion de paginas">
 
 
