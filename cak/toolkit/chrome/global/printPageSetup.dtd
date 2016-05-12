@@ -14,7 +14,7 @@
 <!ENTITY portrait.label      "Palem">
 <!ENTITY portrait.accesskey  "P">
 <!ENTITY landscape.label     "Kotz'olem">
-<!ENTITY landscape.accesskey "K">
+<!ENTITY landscape.accesskey "l">
 
 <!ENTITY scale.label         "Xakb'äl:">
 <!ENTITY scale.accesskey     "X">

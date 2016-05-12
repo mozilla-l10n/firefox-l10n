@@ -200,7 +200,7 @@
 <!ENTITY addon.undoRemove.label               "Titzolïx">
 <!ENTITY addon.undoRemove.tooltip             "Tib'än chi tiyake' re rutz'aqat re'">
 <!ENTITY addon.restartNow.label               "Titzij chik wakami">
-<!ENTITY addon.install.label                  "Rujumik">
+<!ENTITY addon.install.label                  "Tiyak">
 <!ENTITY addon.install.tooltip                "Tiyak re tz'aqat re'">
 <!ENTITY addon.updateNow.label                "Tik'ex wakami">
 <!ENTITY addon.updateNow.tooltip              "Tiyak ri ruk'exoj re tz'aqat re'">
@@ -226,7 +226,7 @@
      to cause this tab to appear. -->
 
 <!ENTITY experiment.info.label "¿Achike re re'? Ri Telemetry nitikïr yeruyäk chuqa' yerusamajij jujun taq solna'oj. ">
-<!ENTITY experiment.info.learnmore "Retamaxik ch'aqa' chik">
+<!ENTITY experiment.info.learnmore "Tetamäx ch'aqa' chik">
 <!ENTITY experiment.info.learnmore.accesskey "K">
 <!ENTITY experiment.info.changetelemetry "Taq rajowab'äl Telemetry">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">

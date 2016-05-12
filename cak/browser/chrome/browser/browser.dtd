@@ -775,8 +775,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.activated.description "Ri taq samajib'äl <label/> xetzij. Tikirel najalwachij ri taq samajib'äl nik'atzin chawe pa <label class='text-link'> Nuk'üy taq rutz'aqat</label>">
 <!ENTITY social.activated.undo.label "¡Iy, tiyuj re'!">
 <!ENTITY social.activated.undo.accesskey "t">
-<!ENTITY social.learnMore.label "Retamaxik ch'aqa' chik">
-<!ENTITY social.learnMore.accesskey "R">
+<!ENTITY social.learnMore.label "Tetamäx ch'aqa' chik…">
+<!ENTITY social.learnMore.accesskey "T">
 <!ENTITY social.closeNotificationItem.label "Wakami mani">
 
 <!ENTITY social.directory.label "Rucholb'al ri taq tzijïk">
