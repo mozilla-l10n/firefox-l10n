@@ -96,12 +96,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "T">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Yatok pa tz'aqät ruwäch kematz'ib'">
-<!ENTITY enterFullScreenCmd.accesskey "t">
+<!ENTITY enterFullScreenCmd.label "Yatok pa chijun ruwa kematz'ib'">
+<!ENTITY enterFullScreenCmd.accesskey "c">
 <!ENTITY exitFullScreenCmd.label "Tel pa chijun ruwa kematz'ib'">
 <!ENTITY exitFullScreenCmd.accesskey "c">
-<!ENTITY fullScreenCmd.label "Chijun ruwäch">
-<!ENTITY fullScreenCmd.accesskey "r">
+<!ENTITY fullScreenCmd.label "Chijun ruwa kematz'ib'">
+<!ENTITY fullScreenCmd.accesskey "C">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Ruk'utik ronojel ruwi' kajtz'ïk">
 <!ENTITY showAllTabsCmd.accesskey "t">
@@ -128,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "wakami at k'o pa tz'aqät ruwäch">
-<!ENTITY fullscreenWarning.generic.label "Wakami re wuj re' k'o pa tz'aqät ruwäch">
+<!ENTITY fullscreenWarning.afterDomain.label "wakami at k'o pa chijun ruwa kematz'ib'">
+<!ENTITY fullscreenWarning.generic.label "Wakami re wuj re' k'o pa chijun ruwa kematz'ib'">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -173,7 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Kek'ut pe ch'aqa' chik taq yaketal">
 
 <!ENTITY backCmd.label                "Chi ruwäch">
-<!ENTITY backButton.tooltip           "Tib'e pa jun kan ruxaq">
+<!ENTITY backButton.tooltip           "Titzolïx jun ruxaq">
 <!ENTITY forwardCmd.label             "Jun chik">
 <!ENTITY forwardButton.tooltip        "Jun chik ruxaq">
 <!ENTITY backForwardButtonMenu.tooltip "Tapitz'a' ruka'n ruwi' ri ch'oy, taqirirej pa xulan richin natz'ët ri natab'äl">
@@ -580,7 +580,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Kewaxik taq K'wayöl ">
 <!ENTITY mediaHideControls.accesskey "a">
-<!ENTITY videoFullScreen.label       "Chijun rwäch kematz'ib'">
+<!ENTITY videoFullScreen.label       "Chijun ruwa kematz'ib'">
 <!ENTITY videoFullScreen.accesskey   "C">
 <!ENTITY videoSaveImage.label        "Ruyakik ruwachib'al rutzub'al achi'el…">
 <!ENTITY videoSaveImage.accesskey    "R">

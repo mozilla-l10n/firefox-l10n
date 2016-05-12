@@ -182,7 +182,7 @@
 <!ENTITY search.filter2.available.label       "Taq tz'aqat ri e k'o">
 <!ENTITY search.filter2.available.tooltip     "Kek'ut pe ri taq tz'aqat e k'o richin yeyak">
 
-<!ENTITY addon.homepage                       "Ruxaq tikirisab'äl">
+<!ENTITY addon.homepage                       "Ruxaq tikirib'äl">
 <!ENTITY addon.details.label                  "Ch'aqa' chik">
 <!ENTITY addon.details.tooltip                "Titz'et ch'aqa' chik taq rub'anikil re tz'aqat re'">
 <!ENTITY addon.unknownDate                    "Man etaman ta ruwäch">
