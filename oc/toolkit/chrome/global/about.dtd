@@ -13,7 +13,7 @@
 <!ENTITY about.license.beforeTheLink  "Legir">
 <!ENTITY about.license.linkTitle      "las entresenhas sus la licéncia">
 <!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.license.afterTheLink   "per aqueste produch.">
+<!ENTITY about.license.afterTheLink   "per aqueste produit.">
 <!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 
 <!ENTITY about.relnotes.beforeTheLink "Legir las">
