@@ -168,8 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Ushbu sahifaga obuna bo‘lish…">
 <!ENTITY addCurPagesCmd.label "Barcha ichki oynalarni xatcho‘plash">
 <!ENTITY showAllBookmarks2.label "Barcha xatcho‘plarni ko‘rsatish">
-
-
+<!ENTITY recentBookmarks.label "Soʻnggi xatchoʻpga qoʻshilgan saytlar">
+<!ENTITY otherBookmarksCmd.label "Boshqa xatcho‘plar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Ko‘proq xatcho‘plarni ko‘rsatish">
 
 <!ENTITY backCmd.label                "Orqaga">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Xatcho‘plar">
-
+<!ENTITY bookmarksMenuButton.other.label "Boshqa xatcho‘plar">
 <!ENTITY viewBookmarksSidebar2.label        "Xatcho‘plarni yon panelda ko‘rsatish">
 <!ENTITY viewBookmarksToolbar.label         "Xatcho‘plar panelini ko‘rsatish">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Kesish">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "K"> 
-
+<!ENTITY copyCmd.label            "Nusxa olish">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "N"> 
 <!ENTITY pasteCmd.label           "Qo‘yish">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "Q"> 
@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Haligacha birorta ham ichki oyna sinxronlanmagan!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Bu yerdagi ichki oynalarni boshqa qurilmalarda ko‘rishni xohlaysizmi?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sinxronlash parametrlari">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Ichki oynalar ro‘yxatini boshqa qurilmalarda ko‘rish uchun Firefox hisobiga kiring.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sinxronlash uchun tizimga kiring">
@@ -694,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Ushbu saytga ulanish maxfiy emas. Siz jo‘natgan ma’lumotlarni (masalan, parol, xabar, kredit karta va hokazoni) boshqalar ko‘rishi mumkin.">
 <!ENTITY identity.description.insecureLoginForms "Bu sahifada kiritiladigan login ma’lumotlari himoyalanmaydi, ular xavf ostida bo‘lishi mumkin.">
 <!ENTITY identity.description.weakCipher "Ushbu vebsahifaga ulanish kuchsiz kodlash usulidan foydalanadi, shuning uchun u maxfiy emas.">
-
+<!ENTITY identity.description.weakCipher2 "Boshqa odamlar ma’lumotlaringizni ko‘rishi yoki sayt xususiyatlarini o‘zgartirishi mumkin.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ushbu sahifaning xavfli bo‘lgan qismlarini blokladi.">
 <!ENTITY identity.description.passiveLoaded "Bu ulanish maxfiy emas, shu sababli siz sayt bilan bo‘lishgan ma’lumotlarni boshqalar ko‘rishi mumkin.">
 <!ENTITY identity.description.passiveLoaded2 "Ushbu saytda xavfsiz bo‘lmagan kontent mavjud (masalan, rasmlar).">
@@ -724,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Sinxronlangan ichki oynalar">
 
 <!ENTITY syncedTabs.sidebar.label              "Sinxronlangan ichki oynalar">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Bu yerdagi ichki oynalarni ko‘rish uchun Firefox hisobiga boshqa qurilmalardan kiring.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Haligacha birorta ham ichki oyna sinxronlanmagan!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Bu yerdagi ichki oynalarni boshqa qurilmalarda ko‘rishni xohlaysizmi?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Boshqa qurilmalardagi ichki oynalar ro‘yxatini ko‘rish uchun Firefox hisobiga kiring.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ochiq ichki oynalar yo‘q">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; parametrlarini ochish">
@@ -734,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Boshqa qurilmalaridagi ichki oynalar ro‘yxatini ko‘rish uchun ichki oynalarni sinxronlashni yoqing.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Ochish">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Yangi ichki oynada ochish">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "n">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Havolani yangi oynada ochish">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "o">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Havolani yangi maxfiy oynada ochish">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "m">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Sahifani xatcho‘plarga qo‘shish…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "x">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Nusxa olish">
+<!ENTITY syncedTabs.context.copy.accesskey                   "N">
 
 
 <!ENTITY syncBrand.shortName.label    "Sinxronlash">

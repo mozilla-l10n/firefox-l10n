@@ -6,25 +6,26 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Maxfiy ko‘rish oynasini ochish">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "M">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY privateBrowsing.title                           "Maxfiy ko‘rish">
+<!ENTITY privateBrowsing.title.tracking                  "Kuzatishdan himoyalanish yordamida maxfiy ko‘rish">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Maxfiy oynada ko‘rayotganingizda Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "quyidagilarni saqlamaydi">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "kirilgan sahifalar">
+<!ENTITY aboutPrivateBrowsing.info.searches              "qidiruvlar">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "kukilar">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "vaqtinchalik fayllar">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "quyidagilarni">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " saqlab qoladi:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "yuklab olishlar">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "xatcho‘plar">
+<!ENTITY aboutPrivateBrowsing.note.before                "Maxfiy ko‘rish ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "orqali internetda butunlay ko‘rinmas odamga">
+<!ENTITY aboutPrivateBrowsing.note.after                 " aylanmaysiz. Ish beruvchingiz yoki internet ta’minotchisi siz kirgan sahifalarni kuzata oladi.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Maxfiy ko‘rish haqida">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "batafsil ma’lumot olish">
 
 <!ENTITY trackingProtection.title                        "Kuzatishdan himoyalanish">
-
-
+<!ENTITY trackingProtection.description2                 "Internetdagi faoliyatingizni kuzatish maqsadida ba’zi saytlar kuzatkichlardan foydalanishi mumkin. Kuzatishdan himoyalanish funksiyasi yordamida Firefox ko‘plab kuzatkichlarning internetdagi faoliyatingiz haqida ma’lumot to‘plashlariga yo‘l qo‘ymaydi.">
+<!ENTITY trackingProtection.startTour1                   "Uning qanday ishlashi bilan tanishing">
