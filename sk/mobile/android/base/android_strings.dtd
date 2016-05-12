@@ -165,6 +165,7 @@
      it is applicable. -->
 <!ENTITY pref_category_advanced "Rozšírené">
 <!ENTITY pref_category_notifications "Upozornenia">
+<!ENTITY pref_category_notifications_summary "Nové funkcie, aktualizácie webových stránok">
 <!ENTITY pref_content_notifications "Aktualizácie webových stránok">
 <!ENTITY pref_developer_remotedebugging_usb "Vzdialené ladenie cez USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Vzdialené ladenie cez Wi-Fi">
@@ -176,6 +177,7 @@
 <!ENTITY pref_category_home_summary "Prispôsobte si úvodnú obrazovku">
 <!ENTITY pref_category_home_panels "Panely">
 <!ENTITY pref_category_home_add_ons "Doplnky">
+<!ENTITY pref_home_updates2 "Aktualizácie obsahu">
 <!ENTITY pref_home_updates_enabled "Povolené">
 <!ENTITY pref_home_updates_wifi "Len cez Wi-Fi">
 <!ENTITY pref_category_home_homepage "Domovská stránka">
@@ -516,6 +518,8 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Úvodná stránka &brandShortName;u">
 <!ENTITY home_history_title "História">
+<!ENTITY home_synced_devices_smartfolder "Synchronizované zariadenia">
+<!ENTITY home_synced_devices_number "&formatD; zariadení">
 <!ENTITY home_clear_history_button "Vymazať históriu prehliadania">
 <!ENTITY home_clear_history_confirm "Naozaj chcete vymazať svoju históriu prehliadania?">
 <!ENTITY home_bookmarks_empty "Tu sa zobrazujú uložené záložky">
