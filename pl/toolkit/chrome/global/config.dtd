@@ -4,10 +4,9 @@
 
 <!ENTITY window.title "about:config">
 
-<!-- about:config warning page -->
 <!ENTITY aboutWarningTitle.label    "Groźba utraty gwarancji!">
 <!ENTITY aboutWarningText.label     "Modyfikacja tych ustawień może spowodować problemy, takie jak utrata stabilności i wydajności programu oraz zagrożenie bezpieczeństwa. Kontynuuj tylko wtedy, gdy masz pewność tego, co robisz.">
-<!ENTITY aboutWarningButton.label   "Zachowam ostrożność, obiecuję!">
+<!ENTITY aboutWarningButton2.label "Akceptuję ryzko">
 <!ENTITY aboutWarningCheckbox.label "Wyświetl to ostrzeżenie następnym razem">
 
 <!ENTITY searchPrefs.label "Szukaj:" >
