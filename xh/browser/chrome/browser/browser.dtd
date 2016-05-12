@@ -727,7 +727,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "Iithebhu Ezingqamanisiweyo">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Sayina ungene kwi-Firefox ngokusuka kwezinye izixhobo zakho ukuze uonge iithebhu zazo apha.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Azikho iithebhu ezingqamanisiweyo… okwangoku!">
-
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Ufuna ukubona iithebhu ezivela kwezinye izixhobo apha?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Sayina ungene ukuze ujonge iithebhu kwezinye izixhobo zakho.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Azikho iithebhu ezivuliweyo">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Vula i-&syncBrand.shortName.label; iiPriferensi">
@@ -735,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Layita ungqamaniso lwethebhu ukuze ujonge uludwe lweethebhu kwezinye izixhobo zakho.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Vula">
+<!ENTITY syncedTabs.context.open.accesskey                   "V">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Vula kwiThebhu eNtsha">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "t">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Vula Kwifestile eNtsha">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "K">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Vula kwiWindow yaBucala eNtsha">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "k">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Faka Ibhukhmakhi Kweli Khasi…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "F">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Kopa">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 
 <!ENTITY syncBrand.shortName.label    "Ungqamaniso">
