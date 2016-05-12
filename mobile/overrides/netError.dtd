@@ -43,7 +43,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Contactatz lo webmèstre del sit per l'assabentar d'aqueste problèma.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Tipe de fichièr pas segur">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li> </ul>">
