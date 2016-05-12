@@ -9,7 +9,7 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "p">
 
-<!ENTITY loading.label                        "Tajin nujotob’a’…">
+<!ENTITY loading.label                        "Tajin nusamajib'ej…">
 <!ENTITY listEmpty.installed.label            "Man ayakon ta re ruwäch tz'aqat re'">
 <!ENTITY listEmpty.availableUpdates.label     "Majun taq k'exoj ruwäch xe'ilitäj ">
 <!ENTITY listEmpty.recentUpdates.label        "Majun k'ak'a' k'exoj ab'anon chi ke ri taq tz'aqat">
@@ -208,7 +208,7 @@
 <!ENTITY addon.updateAvailable.label          "K'o jun k'exoj">
 <!ENTITY addon.checkingForUpdates.label       "Tajin yekanöx taq k'exoj ruwäch…">
 <!ENTITY addon.releaseNotes.label             "Ruch'utitzijol re ruwäch re'">
-<!ENTITY addon.loadingReleaseNotes.label      "Tajin nok…">
+<!ENTITY addon.loadingReleaseNotes.label      "Tajin nusamajib'ej…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Takuyu' qamak, xa xk'ulwachitäj jun sachoj toq tajin nok pa ch'utaq rutzijol ri ko'öl wuj.">
 
 <!ENTITY addon.createdBy.label                "Ruma">
