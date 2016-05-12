@@ -536,9 +536,9 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; šintin moo">
 <!ENTITY home_history_title "Taariki">
-
-
-
+<!ENTITY home_synced_devices_smartfolder "Jinay hangantey">
+<!ENTITY home_synced_devices_number "&formatD; jinawey">
+<!ENTITY home_history_back_to2 "Willi taariki timmantaa ga">
 <!ENTITY home_clear_history_button "Ceeciyan taariki tuusu">
 <!ENTITY home_clear_history_confirm "Alhakiika war ga boona ka taarikoo tuusu?">
 <!ENTITY home_bookmarks_empty "War doo-šilbay gaabuntey ga cebe ne.">
