@@ -259,12 +259,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 
 
-
-
-
-
-
-
+<!ENTITY userContextPersonal.label        "Personal">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "Trabalh">
+<!ENTITY userContextWork.accesskey        "T">
+<!ENTITY userContextBanking.label         "Banca">
+<!ENTITY userContextBanking.accesskey     "B">
 <!ENTITY userContextShopping.label        "Crompas">
 <!ENTITY userContextShopping.accesskey    "s">
 <!ENTITY newNavigatorCmd.label        "Fenèstra novèla">
@@ -336,6 +336,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Afichar lo panèl de l'istoric">
 <!ENTITY appMenuHelp.tooltip "Dobrir lo menú d'ajuda">
 
+<!ENTITY appMenuRemoteTabs.label "Onglets sincronizats">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
