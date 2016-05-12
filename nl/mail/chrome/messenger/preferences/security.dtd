@@ -33,8 +33,8 @@
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro           "&brandShortName; kan wachtwoordinformatie voor al uw accounts onthouden.">
-<!ENTITY useMasterPassword.label        "Hoofdwachtwoord gebruiken">
-<!ENTITY useMasterPassword.accesskey    "H">
+<!ENTITY useMasterPassword.label        "Een hoofdwachtwoord gebruiken">
+<!ENTITY useMasterPassword.accesskey    "h">
 <!ENTITY masterPassword.intro           "Een hoofdwachtwoord beveiligt al uw wachtwoorden, maar u moet het eens per sessie invoeren.">
 <!ENTITY changeMasterPassword.label     "Hoofdwachtwoord wijzigen…">
 <!ENTITY changeMasterPassword.accesskey "w">
