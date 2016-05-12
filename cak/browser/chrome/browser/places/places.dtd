@@ -66,8 +66,8 @@
 <!ENTITY cmd.sortby_name.accesskey          "T">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "K'ak'a' etal…">
-<!ENTITY cmd.new_bookmark.accesskey        "e">
+<!ENTITY cmd.new_bookmark.label            "K'ak'a' yaketal…">
+<!ENTITY cmd.new_bookmark.accesskey        "y">
 <!ENTITY cmd.new_folder.label              "K'ak'a' yakwuj…">
 <!ENTITY cmd.new_folder.accesskey          "w">
 <!ENTITY cmd.context_new_folder.accesskey  "F">

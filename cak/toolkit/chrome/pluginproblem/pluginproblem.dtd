@@ -19,7 +19,7 @@
 <!ENTITY disabledPlugin                                      "Re jun pluyin re' chupül.">
 <!ENTITY blockedPlugin.label                                 "Xq'eleb'ëx rusamaj re jun nak'ab'äl re' richin yachajïx.">
 <!ENTITY hidePluginBtn.label                                 "Tewäx ri pluyin">
-<!ENTITY managePlugins                                       "Tinuk'samajïx ri pluyin…">
+<!ENTITY managePlugins                                       "Tinuk'samajïx ri nak'ab'äl…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->

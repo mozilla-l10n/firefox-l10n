@@ -92,7 +92,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Rutzijol rij re jun ruxaq re'">
 <!ENTITY pageInfoCmd.accesskey "R">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "Tiyuk'umïx ri ruwi'">
+<!ENTITY mirrorTabCmd.label "Tiyuk'umïx ruwi'">
 <!ENTITY mirrorTabCmd.accesskey "T">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -556,9 +556,9 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Mem">
-<!ENTITY mediaMute.accesskey         "M">
-<!ENTITY mediaUnmute.label           "Rak'axaxik">
+<!ENTITY mediaMute.label             "Timemür">
+<!ENTITY mediaMute.accesskey         "T">
+<!ENTITY mediaUnmute.label           "Tak'axäx">
 <!ENTITY mediaUnmute.accesskey       "a">
 <!ENTITY mediaPlaybackRate.label     "Chanin Rutzijik">
 <!ENTITY mediaPlaybackRate.accesskey "t">
@@ -712,7 +712,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.label "Tiyuj el ri man ja ta jun">
 <!ENTITY identity.removeCertException.accesskey "T">
 
-<!ENTITY identity.moreInfoLinkText2 "Ch'aqa' chik etamab'äl">
+<!ENTITY identity.moreInfoLinkText2 "Ch'aqa' chik rutzijol">
 
 <!ENTITY identity.permissions "Taq ya'oj q'ij">
 <!ENTITY identity.permissionsEmpty "Majun chi ya'oj q'ij ya'on chawe' pa re ruxaq k'amaya'l re'.">
@@ -729,7 +729,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "¡K'a majani' yexïm ri taq ruwi'…!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Majun taq ruwi' ejaqon">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Majun ruwi' ejaqon">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Tajin yejaq ri taq rajowab'al &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->

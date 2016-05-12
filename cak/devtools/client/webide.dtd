@@ -118,7 +118,7 @@
 <!ENTITY prefs_editor_title "Nuk'unel">
 <!ENTITY prefs_general_title "Chijun">
 <!ENTITY prefs_restore "Ketzolïx ri retal kib'eyal e k'o wi">
-<!ENTITY prefs_manage_components "Kenuk'samajïx ri kitz'aqat taq ch'akulal">
+<!ENTITY prefs_manage_components "Kenuk'samajïx kitz'aqat taq ch'akul">
 <!ENTITY prefs_options_autoconnectruntime "Tokisäx chik pa ri ruk'ojlib'al ri chuwäch b'anatajnäq">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Tokisäx chik pa ri ruk'ojlib'al ri chuwäch b'anatajnäq, toq xtitikirisäx WebIDE">
 <!ENTITY prefs_options_rememberlastproject "Tinatäx ri ruk'isib'äl nimasamaj">
@@ -186,7 +186,7 @@
 <!ENTITY wifi_auth_header "Rutz'etob'al winäq">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "Ri xikinaj akuchi' tajin yatok, nrajo' ch'aqa' chik taq etamab'äl richin nuya' retal re okem re'. Tach'ob'o' ri QR b'itz'ib' pa xulan rik'in ri k'utuxïk k'o pa ri jun chik awokisaxel. ">
+<!ENTITY wifi_auth_scan_request "Ri xikinaj akuchi' tajin yatok, nrajo' ch'aqa' chik taq rutzijol richin nuya' retal re okem re'.  Tach'ob'o' ri QR b'itz'ib' pa xulan rik'in ri k'utuxïk k'o pa ri jun chik awokisaxel.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "¿La man k'o ta QR ch'ob'onel?">
