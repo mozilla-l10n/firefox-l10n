@@ -25,14 +25,14 @@
 <!ENTITY certmgr.subjectinfo.label            "Emes cap a">
 <!ENTITY certmgr.issuerinfo.label             "Emes per">
 <!ENTITY certmgr.periodofvalidity.label       "Periòde de Validitat" >
-<!ENTITY certmgr.fingerprints.label           "Emprenchas numericas">
+<!ENTITY certmgr.fingerprints.label           "Emprentas numericas">
 <!ENTITY certmgr.certdetail.title             "Detalhs del certificat">
 <!ENTITY certmgr.certdetail.cn                "Nom comun (CN)">
 <!ENTITY certmgr.certdetail.o                 "Organizacion (O)">
 <!ENTITY certmgr.certdetail.ou                "Unitat d'organizacion (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Numèro de seria">
-<!ENTITY certmgr.certdetail.sha256fingerprint "Emprencha numerica SHA-256 ">
-<!ENTITY certmgr.certdetail.sha1fingerprint   "Emprencha numerica SHA1">
+<!ENTITY certmgr.certdetail.sha256fingerprint "Emprenta numerica SHA-256 ">
+<!ENTITY certmgr.certdetail.sha1fingerprint   "Emprenta numerica SHA1">
 
 <!ENTITY certmgr.editcacert.title             "Edicion dels paramètres de fisança de l'autoritat de certificacion (CA)">
 <!ENTITY certmgr.editcert.edittrust           "Modificar los paramètres de fisança :">

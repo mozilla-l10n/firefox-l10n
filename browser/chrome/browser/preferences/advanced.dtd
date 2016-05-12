@@ -53,7 +53,7 @@
 <!ENTITY connectionSettings.label        "Paramètres">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY httpCache.label                 "Contengut Web en escondedor">
+<!ENTITY httpCache.label                 "Contengut Web en cache">
 
 <!ENTITY offlineStorage2.label           "Contengut Web e donadas de l'utilizaire fòra connexion">
 <!-- LOCALIZATION NOTE:
@@ -63,14 +63,14 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "Limitar l'escondedor a">
+<!ENTITY limitCacheSizeBefore.label      "Limitar lo cache a">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "Mo d'espaci de disc">
 <!ENTITY clearCacheNow.label             "Voidar ara">
 <!ENTITY clearCacheNow.accesskey         "V">
 <!ENTITY clearOfflineAppCacheNow.label   "Voidar ara">
 <!ENTITY clearOfflineAppCacheNow.accesskey "V">
-<!ENTITY overrideSmartCacheSize.label    "Modificar la gestion automatica de l'escondedor">
+<!ENTITY overrideSmartCacheSize.label    "Modificar la gestion automatica del cache">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
 <!ENTITY updateTab.label                 "Metre a jorn">

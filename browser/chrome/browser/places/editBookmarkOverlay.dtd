@@ -8,7 +8,7 @@
 <!ENTITY editBookmarkOverlay.location.accesskey              "E">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Adreça del flux :">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "f">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Adreça del sit :">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Adreça del site :">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
 <!ENTITY editBookmarkOverlay.folder.label                    "Repertòri :">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Visualizar totes los repertòri de marcapaginas">

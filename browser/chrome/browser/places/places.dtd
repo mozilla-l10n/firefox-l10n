@@ -45,7 +45,7 @@
 <!ENTITY cmd.bookmarkLink.accesskey     "m">
 <!ENTITY cmd.delete.label               "Suprimir aquesta pagina">
 <!ENTITY cmd.delete.accesskey           "S">
-<!ENTITY cmd.deleteDomainData.label     "Doblidar aqueste sit">
+<!ENTITY cmd.deleteDomainData.label     "Doblidar aqueste site">
 <!ENTITY cmd.deleteDomainData.accesskey "D">
 
 <!ENTITY cmd.open.label                  "Dobrir">
@@ -114,11 +114,11 @@
 <!ENTITY view.accesskey           "z">
 <!ENTITY byDate.label             "Per data">
 <!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Per sit">
+<!ENTITY bySite.label             "Per site">
 <!ENTITY bySite.accesskey         "s">
 <!ENTITY byMostVisited.label      "Per nombre de visitas">
 <!ENTITY byMostVisited.accesskey  "v">
 <!ENTITY byLastVisited.label      "Per data de darrièra visita">
 <!ENTITY byLastVisited.accesskey  "d">
-<!ENTITY byDayAndSite.label       "Per data e sit">
+<!ENTITY byDayAndSite.label       "Per data e site">
 <!ENTITY byDayAndSite.accesskey   "t">
