@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "v">
 <!ENTITY showFolderPaneCmd.label "Carpeta de panel">
 <!ENTITY showFolderPaneCmd.accesskey "r">
+<!ENTITY showFolderPaneColsCmd.label "Columnes del panel de carpetes">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Mensaxe">
 <!ENTITY showMessageCmd.accesskey "e">
 
@@ -162,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Vista compauta">
 <!ENTITY compactVersion.accesskey "C">
+<!ENTITY folderPaneBar.label "Barra de ferramientes del panel de carpetes">
+<!ENTITY folderModeSelector.label "Vistes de carpetes">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordenar por">
@@ -190,6 +194,8 @@
 <!ENTITY sortByFromCmd.accesskey "R">
 <!ENTITY sortByRecipientCmd.label "Destinatariu">
 <!ENTITY sortByRecipientCmd.accesskey "D">
+<!ENTITY sortByCorrespondentCmd.label "Correspondientes">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "Lleíos">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Orde de receición">
@@ -357,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Editar como mensaxe nuevu">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Editar mensaxe de borrador">
+<!ENTITY editDraftMsgCmd.accesskey "B">
 <!ENTITY createFilter.label "Crear filtru a partir del mensaxe…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Mover a">
@@ -594,6 +602,8 @@
 
 <!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Nome">
+<!ENTITY folderUnreadColumn.label "Ensin lleer">
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Tamañu">
 
 <!-- Folder Pane Context Menu -->
@@ -654,6 +664,7 @@
 <!ENTITY threadColumn.label "Conversación">
 <!ENTITY fromColumn.label "Remitente">
 <!ENTITY recipientColumn.label "Destinatariu">
+<!ENTITY correspondentColumn.label "Correspondientes">
 <!ENTITY subjectColumn.label "Asuntu">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Prioridá">
@@ -676,6 +687,7 @@
 <!ENTITY threadColumn2.tooltip "Amosar conversaciones de mensaxes">
 <!ENTITY fromColumn2.tooltip "Ordenar por remitente">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatariu">
+<!ENTITY correspondentColumn2.tooltip "Ordenar per correspondientes">
 <!ENTITY subjectColumn2.tooltip "Ordenar por asuntu">
 <!ENTITY dateColumn2.tooltip "Ordenar por data">
 <!ENTITY priorityColumn2.tooltip "Ordenar por prioridá">
@@ -708,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "c">
 <!ENTITY contextEditMsgAsNew.label "Editar como mensaxe nuevu">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextEditDraftMsg.label "Editar mensaxe de borrador">
 <!ENTITY contextArchive.label "Archivar">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Responder namái al remitente">
@@ -735,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "Copiar a">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Inorar conversación">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Inorar sub-conversación">
 <!ENTITY contextWatchThreadMenu.label "Observar conversación">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Guardar como…">
 <!ENTITY contextSaveAs.accesskey "G">
 <!ENTITY contextPrint.label "Imprentar…">
@@ -817,6 +836,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
+<!ENTITY search.label.base1 "Guetar #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -845,6 +865,8 @@
 <!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Copiar direición de corréu-e">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNameAndEmailAddress.label "Copiar nome y direición de corréu">
+<!ENTITY CopyNameAndEmailAddress.accesskey "N">
 <!ENTITY CopyNewsgroupName.label "Copiar nome del grupu de noticies">
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Copiar URL del grupu de noticies">
