@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Kompaktné zobrazenie">
 <!ENTITY compactVersion.accesskey "K">
+<!ENTITY folderPaneBar.label "Nástroje panela priečinkov">
+<!ENTITY folderModeSelector.label "Zobrazenie priečinkov">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Usporiadať podľa">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Upraviť ako novú správu">
 <!ENTITY editAsNewMsgCmd.accesskey "U">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Upraviť koncept správy">
+<!ENTITY editDraftMsgCmd.accesskey "o">
 <!ENTITY createFilter.label "Vytvoriť filter zo správy…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Presunúť do">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "e">
 <!ENTITY contextEditMsgAsNew.label "Upraviť ako novú správu">
 <!ENTITY contextEditMsgAsNew.accesskey "n">
+<!ENTITY contextEditDraftMsg.label "Upraviť koncept správy">
 <!ENTITY contextArchive.label "Archivovať">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Odpovedať odosielateľovi">
@@ -743,6 +748,7 @@
 <!ENTITY contextCopyMsgMenu.label "Skopírovať do">
 <!ENTITY contextCopyMsgMenu.accesskey "r">
 <!ENTITY contextKillThreadMenu.label "Ignorovať vlákno">
+<!ENTITY contextKillSubthreadMenu.accesskey "I">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignorovať podvlákno">
 <!ENTITY contextWatchThreadMenu.label "Sledovať vlákno">
@@ -750,6 +756,7 @@
    In the en-US locale we ran out of access keys, so there is an empty access key for
    Watch Thread. Localizers can pick a suitable key
   -->
+<!ENTITY contextWatchThreadMenu.accesskey "S">
 <!ENTITY contextSaveAs.label "Uložiť ako…">
 <!ENTITY contextSaveAs.accesskey "a">
 <!ENTITY contextPrint.label "Tlačiť…">
