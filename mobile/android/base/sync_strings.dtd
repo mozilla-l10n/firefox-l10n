@@ -11,8 +11,8 @@
 <!ENTITY sync.title.connect.label 'Coneutase a &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'P\&apos;activar el to preséu nuevu, esbilla “Configurar &syncBrand.shortName.label;” nel preséu.'>
-<!ENTITY sync.subtitle.pair.label 'P\&apos;activar, esbilla “Empareyar un preséu” n\&apos;otru preséu de to.'>
+<!ENTITY sync.subtitle.connect.label 'P\&apos;activar el to preséu nuevu, esbilla «Configurar &syncBrand.shortName.label;» nel preséu.'>
+<!ENTITY sync.subtitle.pair.label 'P\&apos;activar, esbilla «Empareyar un preséu» n\&apos;otru preséu de to.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.link.nodevice.label 'Nun teo\&apos;l preséu conmigo…'>
 
@@ -29,7 +29,7 @@
 <!ENTITY sync.default.client.name '&formatS1; en &formatS2;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Menú de marcadores'>
+<!ENTITY bookmarks.folder.menu.label 'Menú de Marcadores'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Etiquetes'>
 <!ENTITY bookmarks.folder.toolbar.label 'Barra de ferramientes de marcadores'>
@@ -37,7 +37,7 @@
 <!ENTITY bookmarks.folder.desktop.label 'Marcadores d\&apos;escritoriu'>
 <!ENTITY bookmarks.folder.mobile.label 'Marcadores de móvil'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Fixao'>
+<!ENTITY bookmarks.folder.pinned.label 'Fixóse'>
 
 <!-- Firefox Account strings. -->
 

@@ -4,16 +4,16 @@
 
 <!ENTITY firstrun_panel_title_welcome "Bienllegáu">
 <!ENTITY  onboard_start_message3 "Restola con &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Configura la espericiencia móvil de restolar al to xeitu.">
+<!ENTITY  onboard_start_subtext3 "Configura al to xeitu la esperiencia móvil de restolar.">
 
 <!ENTITY firstrun_urlbar_message "Bienllegáu a &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Atopa coses más rápido con ayuda de los atayos de suxerencies de gueta.">
+<!ENTITY firstrun_urlbar_subtext "Alcuentra coses aína per duana de los atayos de suxerencies de gueta.">
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Los favoritos, al frente y nel centru">
 <!ENTITY firstrun_bookmarks_subtext "Consigui resultaos de los tos marcadores ya historial al guetar.">
 <!ENTITY firstrun_data_title "Datos">
 <!ENTITY firstrun_data_message "Menos datos, más aforru">
-<!ENTITY firstrun_data_subtext2 "Desactiba les imáxenes pa nun marafundiar datos en cada sitiu que visites.">
+<!ENTITY firstrun_data_subtext2 "Desactiva les imáxenes pa nun marafundiar datos en cada sitiu que visites.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, siempres del to llau">
 <!ENTITY firstrun_sync_subtext "Sincroniza les tos llingüetes, contraseñes y más en tolos llaos que lo uses.">
@@ -26,8 +26,8 @@
 
 <!ENTITY  reading_list_migration_title "Llistáu de llectura coneutáu">
 <!ENTITY  reading_list_migration_subtext "Agora amestaránse los tos llistaos de llectura a los tos marcadores">
-<!ENTITY  reading_list_migration_goto_bookmarks "Dir a marcadores">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Ta anubríu\&apos;l to panel de marcadores">
+<!ENTITY  reading_list_migration_goto_bookmarks "Dir a Marcadores">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Anubrióse\&apos;l to panel de marcadores">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -59,11 +59,11 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "Yá ta en marcadores">
+<!ENTITY bookmark_already_added "Yá ta en Marcadores">
 <!ENTITY bookmark_removed "Marcador desaniciáu">
 <!ENTITY bookmark_updated "Marcador anováu">
 <!ENTITY bookmark_options "Opciones">
-<!ENTITY screenshot_added_to_bookmarks "Captura amestada a marcadores">
+<!ENTITY screenshot_added_to_bookmarks "Captura amestada a Marcadores">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -136,7 +136,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Marcador">
-<!ENTITY overlay_share_bookmark_btn_label_already "Yá ta en marcadores">
+<!ENTITY overlay_share_bookmark_btn_label_already "Yá ta en Marcadores">
 <!ENTITY overlay_share_send_other "Unviar a otros preseos">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -254,7 +254,7 @@
 <!ENTITY tracking_protection_prompt_tip_text "Visita los axustes de privacidá pa deprender más">
 <!ENTITY tracking_protection_prompt_action_button "¡Coyío!">
 
-<!ENTITY tab_queue_toast_message3 "Llingüeta guardada en &brandShortName;">
+<!ENTITY tab_queue_toast_message3 "Guardóse la llingüeta en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Abrir agora">
 <!ENTITY tab_queue_prompt_title "¿Abrir enllaces múltiples?">
 <!ENTITY tab_queue_prompt_text4 "Guárdalos fasta la próxima vegada qu\&apos;abras &brandShortName;.">
@@ -475,7 +475,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "Amosar contraseña">
 <!ENTITY doorhanger_login_edit_toast_error "Fallu al guardar l\&apos;aniciu de sesión">
 <!ENTITY doorhanger_login_select_message "¿Copiar contraseña de &formatS;?">
-<!ENTITY doorhanger_login_select_toast_copy "Contraseña copiada al cartafueyu">
+<!ENTITY doorhanger_login_select_toast_copy "Copióse la contraseña al cartafueyu">
 <!ENTITY doorhanger_login_select_toast_copy_error "Nun pudo copiase la contraseña">
 <!ENTITY doorhanger_login_select_action_text "Esbilla d\&apos;otru aniciu de sesión">
 <!ENTITY doorhanger_login_select_title "Copiar contraseña de">
@@ -496,7 +496,7 @@ size. -->
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-<!ENTITY page_removed "Páxina desaniciada">
+<!ENTITY page_removed "Desanicióse la páxina">
 
 <!ENTITY bookmark_edit_title "Editar marcador">
 <!ENTITY bookmark_edit_name "Nome">
@@ -518,7 +518,7 @@ size. -->
 <!ENTITY masterpassword_password "Contraseña">
 <!ENTITY masterpassword_confirm "Confirmar contraseña">
 
-<!ENTITY button_ok "Aceutar">
+<!ENTITY button_ok "ACEUTAR">
 <!ENTITY button_cancel "Encaboxar">
 <!ENTITY button_yes "Sí">
 <!ENTITY button_no "Non">
@@ -544,7 +544,7 @@ size. -->
 <!ENTITY home_bookmarks_empty "Equí amosaránse los tos marcadores.">
 <!ENTITY home_closed_tabs_title "Llingüetes zarraes apocayá">
 <!ENTITY home_last_tabs_title "Llingüetes de la cabera vegada">
-<!ENTITY home_last_tabs_empty "Equí amosaránse les to llingüetes recientes.">
+<!ENTITY home_last_tabs_empty "Equí amosaránse les tos llingüetes recientes.">
 <!ENTITY home_open_all "Abrir too">
 <!ENTITY home_most_recent_empty "Equí amosaránse los sitios web que más visitares.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
@@ -628,7 +628,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                            d\&apos;Android">
 <!ENTITY bookmarkhistory_import_history "Importando historial
                                          d\&apos;Android">
-<!ENTITY bookmarkhistory_import_wait "Espera por favor...">
+<!ENTITY bookmarkhistory_import_wait "Espera, por favor...">
 
 <!ENTITY suggestions_prompt3 "¿Prestaríate activar les suxerencies de gueta?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -661,7 +661,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Pa baxar ficheros y anovamientos, da-y el permisu d\&apos;accesu al almacenamientu a &brandShortName;.">
+<!ENTITY updater_permission_text "Pa baxar ficheros y anovamientos, da-y el permisu d\&apos;accesu d\&apos;almacenamientu a &brandShortName;.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Permitir">
 
@@ -758,7 +758,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: Sofitu">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
-<!ENTITY bookmarks_restricted_support2 "L\&apos;ayuda y sofitu de Firefox tán restrixíos a perfiles en tabletes d\&apos;Android">
+<!ENTITY bookmarks_restricted_support2 "L\&apos;ayuda y sofitu de Firefox tán restrinxíos a perfiles en tabletes d\&apos;Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Depriendi la web: Mozilla Webmaker">
 
@@ -778,5 +778,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Amestar a la pantalla d\&apos;aniciu">
 
 <!ENTITY helper_first_offline_bookmark_title "Lleer fuera de llinia">
-<!ENTITY helper_first_offline_bookmark_message "Alcuentra los elementos del to visor de llectura en marcadores, inclusu fuera de llinia.">
-<!ENTITY helper_first_offline_bookmark_button "Dir a marcadores">
+<!ENTITY helper_first_offline_bookmark_message "Alcuentra los elementos del to visor de llectura en Marcadores, inclusu fuera de llinia.">
+<!ENTITY helper_first_offline_bookmark_button "Dir a Marcadores">
