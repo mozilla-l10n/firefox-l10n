@@ -4,7 +4,6 @@
 <!ENTITY % brandDTD
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
-
 <!ENTITY aboutLogins.title                       "Prihlásenia">
 <!ENTITY aboutLogins.update                      "Aktualizovať">
 <!ENTITY aboutLogins.emptyLoginText              "Majte svoje prihlasovacie údaje v bezpečí">
