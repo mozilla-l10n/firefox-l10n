@@ -19,9 +19,10 @@
 <!ENTITY dnsNotFound.title "Mohendahavusu ndojejuhúiva">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Ehechajey pe jehai jejavýva kundaharape <strong>ww</strong>.example.com <strong>www</strong>.example.com rendaguépe</li> <div id='searchbox'> <input id='searchtext' type='search'> </input> <button id='searchbutton'>Search</button> </div> <li>neremyenyhẽ kuaáiramo peteĩ kuatiarogue, ehechajey ne mba'e'oka mba'ekuaarã térã Wi-Fi-pe jeike. <button id='wifi'>Emyandy Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Marandurenda ndojejuhúiva">
-
+<!ENTITY fileNotFound.longDesc "<ul> <li>Ehechajey pe marandurenda réra jeipuru porãrã térã ambue jehai jejavýva.</li> <li>Ehechajey pe marandurenda oku'épa hendágui, herajeýpa térã oguetémapa.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Jeike kuatiaitépe noñemoneĩri">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Ikatúmakuri oñemboguete, oñemongu'e térã marandurenda ñemoneĩ ikatu omboyke pe jeike.</li> </ul>">
@@ -45,10 +46,10 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "Tetepy mbopapapy jejavy">
-
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Ikatúpiko, eñomongeta umi ñanduti rendakuéra jára ndive emomarandumi hag̃ua chupekuéra ko apañuãi rehegua.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Koichagua marandurenda hekorosã'ỹva">
-
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Ikatúpiko, eñe'ẽmi umi ñanduti rendakuéra jára ndive emomarandumi hag̃ua chupekuéra ko apañuãi rehegua.</li> </ul>">
 
 <!ENTITY netReset.title "Jeike oñepyrũjeýma">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -56,44 +57,59 @@
 <!ENTITY netTimeout.title "Pe jeike ndoikovéima">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-
+<!ENTITY unknownProtocolFound.title "Pe kundaharape nahesakãi">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Ikatu eikotevẽ emohenda ambue software eike hag̃ua ko kundaharapépe.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Mohendahavusu proxy ombotove jeike">
-
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Ehechajey proxy ñemboheko eikuaaite hag̃ua oĩ porãpa.</li> <li>Eñe'ẽ ne ñanduti ñangarekohára ndive eikuaaite hag̃ua mohendahavusu proxy oiko porãiteha.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Ndaikatúi ojejuhu mohendahavusu proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Ehechajey proxy ñemboheko eikuaaite hag̃ua oĩ porãpa.</li> <li>Ehechakuaa pe mohendahavusu oguerekópa mba'ekuaarã aty mba'apoguáva térã Wi-Fi-pe jeike. <button id='wifi'>Emyandy Wi-Fi</button> </li> </ul>">
 
-
+<!ENTITY redirectLoop.title "Ko kuatiarogue ndoguerahajeýi hekoitépe">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Ko apañuãi oikokuaa reipe'a térã neremoneĩriramo kookie ñeg̃uahẽ.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Mbohovái eha'ãrõ'ỹva mohendahavusúgui">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Ehechakuaa nde apopyvuvsu oguerekópa ñangarekoháraite tekorosã rehegua.</li> <li>Kóva ikatu oikohína peteĩ ñemboheko oiko porã'ỹva mohendahavusúpe rupi.</li> </ul>">
 
+<!ENTITY nssFailure2.title "Jeikekatu ojavýva">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Kuatiarogue eikeseha ndaikatúi ehecha mba'ekuaarã og̃uahẽva ndaijeroviakatúi ndojehechajeýi rupi.</li> <li>Ikatúpiko, eñe'ẽmi ñanduti rendakuéra jára ndive ha emombe'umi chupekuéra ko apañuãi rehegua.</li> </ul>">
 
-
-
+<!ENTITY nssBadCert.title "Jeikekatu ojavýva">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY cspBlocked.title "Ojejoko hetepy rekorosãrã purureko rupi">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ndohejái ko kuatiaroguépe oñemyañyhẽvo kóicha pe kuatiarogue oguereko rupi tetepy rekorosãrã purureko nomoneĩrĩva.</p>">
 
+<!ENTITY corruptedContentError.title "Tetepy imarãva jejavy">
+<!ENTITY corruptedContentError.longDesc "<p>Pe Kuatiarogue ehechaséva ndaikatúi ojehechauka ndéve ojejuhu rupi peteĩ jejavy mba'ekuaarã ñembohasakuévo.</p><ul><li>Ikatúpiko, eñe'ẽ ko ñanduti renda jarakuéra ndive emomarandumi hag̃ua chupekuéra ko apañuãi.</li></ul>">
 
-
-
-
-
+<!ENTITY securityOverride.linkText "Térã ikatu embojoapy oĩ'ỹva…">
+<!ENTITY securityOverride.getMeOutOfHereButton "¡Cheguenohẽmína ko'águi!">
+<!ENTITY securityOverride.exceptionButtonLabel "Embojuaju oĩ'ỹva…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
+<!ENTITY remoteXUL.title "XUL okaygua">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ikatúpiko, eñe'ẽ ñanduti renda jarakuéra ndive emomarandu hag̃ua chupe ko apañuãi rehegua.</li></ul></p>">
 
-
+<!ENTITY sslv3Used.title "Ndaikatúi eikekatuhína">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Marandu tenondeveguáva: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Nde jeike ndahekokatúi">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Marandu tenondeveguáva: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY inadequateSecurityError.title "Nde jeike ndahekokatúi">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'> oipuru tembipuru pyahu rekorosãrã ndoikovéimava ha oimeraẽva ombyaikuaáva. Peteĩ hekoñañáva ikatu ohechauka marandu hekorosãha gua'ú. Pe ñanduti renda ñangarekohára omyatãraẽva'erã pe mohendahavusu oike mboyve tendápe.</p><p>Ayvu jejavy: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
