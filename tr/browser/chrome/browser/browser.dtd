@@ -577,9 +577,9 @@ fast. -->
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Düğmeleri göster">
-<!ENTITY mediaShowControls.accesskey "D">
+<!ENTITY mediaShowControls.accesskey "m">
 <!ENTITY mediaHideControls.label     "Düğmeleri gizle">
-<!ENTITY mediaHideControls.accesskey "D">
+<!ENTITY mediaHideControls.accesskey "m">
 <!ENTITY videoFullScreen.label       "Tam ekran">
 <!ENTITY videoFullScreen.accesskey   "T">
 <!ENTITY videoSaveImage.label        "Ekran görüntüsünü kaydet…">
