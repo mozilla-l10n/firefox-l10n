@@ -24,9 +24,10 @@
 
 <!ENTITY  onboard_start_restricted1 "Eguerekóta tekorosã ha ñangarekoha ko apopyre momichĩmbyre &brandShortName; mba\u0027éva.">
 
+<!ENTITY  reading_list_migration_title "Moñe\u0027ẽrã rysýi oikepyréva">
 
-
-
+<!ENTITY  reading_list_migration_goto_bookmarks "Tereho techaukahápe">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Ne techaukaha ra\u0027ãngarupa okañyhína">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
