@@ -687,7 +687,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; xeruq'ät ri itzel taq ruperaj re ruxaq re'.">
-<!ENTITY identity.passiveLoaded "K'o peraj chi re re ruxaq wuj re' ri man e ütz ta (achi'el ri taq wachib'äl).">
+<!ENTITY identity.passiveLoaded "K'o man ütz ta taq ruch'akulal re ruxaq re' (achi'el ri taq wachib'äl).">
 <!ENTITY identity.activeLoaded "Xachüp ruchajixik re ruxaq re'.">
 <!ENTITY identity.weakEncryption "Re ruxaq re' nrokisaj yamayïk chi suq'ch'ab'äl.">
 <!-- Strings for connection state warnings in the subview. -->
