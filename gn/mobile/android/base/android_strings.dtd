@@ -4,18 +4,18 @@
 
 <!ENTITY firstrun_panel_title_welcome "Tereg̃uahẽporãite">
 <!ENTITY  onboard_start_message3 "Eikundaha &brandShortName; ndive">
-<!ENTITY  onboard_start_subtext3 "Ejapo añetehápe ne ñanduti kundaha pumbyryguágui nemba\u0027etévaramo.">
+<!ENTITY  onboard_start_subtext3 "Ejapo añetehápe ne ñanduti kundahára pumbyryguágui ne mba\u0027etévaramo.">
 
 <!ENTITY firstrun_urlbar_message "Tereg̃uahẽporãite &brandShortName;-pe">
-<!ENTITY firstrun_urlbar_subtext "Ejuhu pya\u0027eve umi mba\u0027e eipurúvo marandu pytyvõrãva.">
+<!ENTITY firstrun_urlbar_subtext "Ejuhu pya\u0027eve umi mba\u0027e eipurukuévo marandu pytyvõrãva.">
 <!ENTITY firstrun_bookmarks_title "Tembiasakue">
 <!ENTITY firstrun_bookmarks_message "Eguerohoryvéva, tenonde ha mbytépe">
-<!ENTITY firstrun_bookmarks_subtext "Eguerekokuaa techaukahakuéra ha tembiasakue eheka vove eikuaaséva.">
-<!ENTITY firstrun_data_title "Arange">
+<!ENTITY firstrun_bookmarks_subtext "Eguerekokuaa techaukahakuéra ha tembiasakue eheka vove eikuaasevéva.">
+<!ENTITY firstrun_data_title "Arange ">
 <!ENTITY firstrun_data_message "Mba\u0027ekuaarã\u0027ive, ñembyatyve">
-<!ENTITY firstrun_data_subtext2 "Embogue ta\u0027angakuéra embohasa\u0027ive hag̃ua mba\u0027ekuaarã peteĩteĩva tenda eho hague.">
+<!ENTITY firstrun_data_subtext2 "Embogue ta\u0027angakuéra embohasa\u0027ive hag̃ua mba\u0027ekuaarã peteĩteĩva tenda eho hague pegua.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, tapiaite nde ykére">
+<!ENTITY firstrun_sync_message "&brandShortName;, tapiaite oĩ nde ykére">
 <!ENTITY firstrun_sync_subtext "Embojuehe tendaykekuéra, ñe\u0027ẽñemi, ha hetave mba\u0027e opaite tenda eipuruhápe.">
 <!ENTITY firstrun_signin_message "Eike, eñepyrũ">
 <!ENTITY firstrun_signin_button "Emoñepyrũ tembiapo embojuehe hag̃ua">

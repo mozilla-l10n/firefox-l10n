@@ -53,13 +53,13 @@
 
 <!ENTITY fxaccount_status_signed_in_as "Jeike pyahu">
 <!ENTITY fxaccount_status_manage_account "Mba\u0027ete ñangarekoha">
-
-
-
-
-
-
-
+<!ENTITY fxaccount_status_auth_server "Mohendahavusu mba\u0027etáva">
+<!ENTITY fxaccount_status_sync_now "Embojuehe ko\u0027ág̃a">
+<!ENTITY fxaccount_status_syncing2 "Pe ñembojuehete…">
+<!ENTITY fxaccount_status_device_name "Mba\u0027e\u0027oka réra">
+<!ENTITY fxaccount_status_sync_server "Mohendahavusu ñembojuehe">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: myandypyre">
 
 
 
