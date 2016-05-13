@@ -246,7 +246,8 @@
 <!ENTITY pref_tracking_protection_enabled_pb "ເປີດໃຫ້ໃຊ້ງານໃນການຄົ້ນຫາແບບສ່ວນຕົວ">
 <!ENTITY pref_tracking_protection_disabled "ປິດໃຊ້ງານ">
 
-
+<!ENTITY pref_whats_new_notification "ມີສິ່ງໃຫມ່ໃນ &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "ຮຽນຮູ້ກ່ຽວກັບຄຸນລັກສະນະໃຫມ່ຫລັງຈາກອັບເດດແລ້ວ">
 
 <!ENTITY tracking_protection_prompt_title "ຂະນະນີ້ມີການປ້ອງກັນການຕິດຕາມ">
 <!ENTITY tracking_protection_prompt_text "ບັອກອົງປະກອບການຕິດຕາມເພື່ອເຮັດໃຫ້ທ່ານບໍ່ຕ້ອງກັງວົນ.">
@@ -266,7 +267,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "ໄປທີ່ການຕັ້ງຄ່າ">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -280,19 +281,22 @@
 
 <!ENTITY tab_queue_notification_settings "ເພື່ອ \&quot;ເປີດຫຼາຍໆລີ້ງພ້ອມກັນ\&quot;, ກະລຸນາອະນຸຍາດສິດທິໃຫ້ແກ່ \u0027ແຕ້ມໄດ້ໃນ apps ອື່ນໆ\u0027 ສຳລັບ &brandShortName;">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!ENTITY content_notification_title_plural "ອັບເດດເວັບໄຊຕ໌ &formatD;">
+<!ENTITY content_notification_action_settings "ຕັ້ງຄ່າການແຈ້ງເຕືອນ">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "ອັບເດດໃນ &formatS;">
 
 <!ENTITY pref_char_encoding "ການເຂົ້າລະຫັດຕົວອັກສອນ">
 <!ENTITY pref_char_encoding_on "ສະແດງລາຍການ">
 <!ENTITY pref_char_encoding_off "ບໍ່ຕ້ອງສະແດງລາຍການ">
-
+<!ENTITY pref_clear_private_data2 "ລົບລ້າງຂໍ້ມູນສ່ວນໂຕ">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ລົບລ້າງຕອນນີ້ເລີຍ">
@@ -301,7 +305,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "ເລືອກຂໍ້ມູນທີ່ຕ້ອງການລົບລ້າງ">
 <!ENTITY pref_plugins "ປັກອິນ">
 <!ENTITY pref_plugins_enabled "ເປີດໃຊ້ງານແລ້ວ">
-
+<!ENTITY pref_plugins_tap_to_play2 "ແຕະເພື່ອຫລີ້ນ">
 <!ENTITY pref_plugins_disabled "ໄດ້ປິດໃຊ້ງານແລ້ວ">
 <!ENTITY pref_text_size "ຂະໜາດຕົວຫນັງສື">
 <!ENTITY pref_restore_tabs "ກູ້ຄືນແທັບ">
@@ -351,6 +355,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "ດາວໂລດ">
 <!ENTITY pref_private_data_syncedTabs "Synced ແທັບ">
 
+<!ENTITY pref_default_browser "ຕັ້ງໃຫ້ເປັນບຣາວ໌ເຊີຫລັກ">
 <!ENTITY pref_about_firefox "ກ່ຽວກັບ &brandShortName;">
 <!ENTITY pref_vendor_faqs "ຄຳຖາມທີພົບເປັນປະຈຳ">
 <!ENTITY pref_vendor_feedback "ໃຫ້ຄຳແນະນຳ">
@@ -396,6 +401,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "ອັບເດດອັດຕະໂນມັດ">
 <!ENTITY pref_update_autodownload_wifi "ຜ່ານທາງ Wi-Fi ເທົ່ານັ້ນ">
 <!ENTITY pref_update_autodownload_never "ບໍ່ເຄີຍ">
 <!ENTITY pref_update_autodownload_always "ຕະຫລອດເວລາ">
@@ -406,7 +412,7 @@ size. -->
 <!ENTITY quit "ອອກ">
 
 <!ENTITY addons "Add-ons">
-
+<!ENTITY logins "ເຂົ້າສູ່ລະບົບ">
 <!ENTITY downloads "ດາວໂຫລດ">
 <!ENTITY char_encoding "ການເຂົ້າລະຫັດຕົວອັກສອນ">
 
@@ -477,7 +483,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "ຂະຫຍາຍພື້ນທີ່ຂະຫນາດນ້ອຍ">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "ຂະຫຍາຍລີ້ງ ແລະ ຊ່ອງປ້ອນຂໍ້ມູນເມື່ອທ່ານເຕະໃກ້ມັນ">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -530,9 +536,9 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; ຫນ້າທໍາອິດ">
 <!ENTITY home_history_title "ປະຫວັດການໃຊ້ງານ">
-
-
-
+<!ENTITY home_synced_devices_smartfolder "ອຸປະກອນທີ່ Sync ແລ້ວ">
+<!ENTITY home_synced_devices_number "ອຸປະກອນ &formatD;">
+<!ENTITY home_history_back_to2 "ກັບຄືນສູ່ປະຫວັດການໃຊ້ງານທັງຫມົດ">
 <!ENTITY home_clear_history_button "ລົບລ້າງປະຫວັດຂອງການຊອກຫາ">
 <!ENTITY home_clear_history_confirm "ທ່ານຫມັ້ນໃຈແລ້ວບໍ່ວ່າທ່ານຕ້ອງການລົບລ້າງປະຫວັດການໃຊ້ງານຂອງທ່ານທີ່ຜ່ານມາ?">
 <!ENTITY home_bookmarks_empty "Bookmarks ທີ່ທ່ານບັນທຶກໄວ້ສະແດງຂື້ນຢູ່ນີ້.">
@@ -571,6 +577,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "ປ້ອນຄຳທີ່ຕ້ອງການຄົ້ນຫາໃສ່">
 
+<!ENTITY filepicker_title "ເລືອກຟາຍຂໍ້ມູນ">
 <!ENTITY filepicker_audio_title "ເລືອກ ຫລື ບັນທຶກສຽງ">
 <!ENTITY filepicker_image_title "ເລືອກ ຫລື ຖ່າຍຮູບພາບ">
 <!ENTITY filepicker_video_title "ເລືອກ ຫລື ບັນທຶກວິດີໂອ">
@@ -599,6 +606,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "ເນື້ອຫາບາງສ່ວນໃນຫນ້າເວັບນີ້ບໍ່ມີຄວາມປອດໄພ (ເຊັ່ນວ່າຮູບພາບ).">
 <!ENTITY mixed_content_protection_disabled1 "ທ່ານໄດ້ປິດໃຊ້ງານການປ້ອງກັນເນື້ອຫາທີ່ບໍ່ມີຄວາມປອດໄພ.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "ການປ້ອງກັນການຕິດຕາມ">
 <!ENTITY doorhanger_tracking_state_enabled "ເປີດໃຊ້ງານແລ້ວ">
 <!ENTITY doorhanger_tracking_state_disabled "ປິດໃຊ້ງານແລ້ວ">
 <!ENTITY doorhanger_tracking_message_enabled1 "ຄວາມພະຍາຍາມທີ່ຈະຕິດຕາມພຶດຕິກໍາການອອນໄລນ໌ຂອງທ່ານໄດ້ຖືກບລັອກ.">
@@ -763,6 +772,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ແມ່ນລຸ້ນລ່າສຸດແລ້ວ">
 <!ENTITY whatsnew_notification_summary "ຊອກເບິງວ່າມີຫຍັງໃຫມ່ໃນລຸ້ນນີ້">
 
+<!ENTITY promotion_add_to_homescreen "ເພີ່ມໃສ່ໜ້າທໍາອິດ">
 
-
-
+<!ENTITY helper_first_offline_bookmark_title "ອ່ານອັອບລາຍ">
+<!ENTITY helper_first_offline_bookmark_message "ຄົ້ນຫາຕົວອ່ານຂອງທ່ານໃນບຸກມາກ ເຖິງວ່າມັນຈະອັອບລາຍກໍ່ຕາມ.">
+<!ENTITY helper_first_offline_bookmark_button "ໄປທີ່ບຸກມາກ">

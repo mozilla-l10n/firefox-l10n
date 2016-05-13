@@ -23,11 +23,13 @@
 <!ENTITY fileNotFound.title "ບໍ່ພົບໄຟລ໌">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ກວດເບິງຊື່ໄຟລ໌ສຳລັບຕົວພີມໃຫຍ່ ຫລື ການພີມຜິດອື່ນໆ.</li> <li>ກວດເບິງວ່າໄຟລ໌ໄດ້ຖືກຍ້າຍ, ປ່ຽນຊື່ ຫລື ລືບຖີ້ມ.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "ການເຂົ້າເຖິງຟາຍຂໍ້ມູນໄດ້ຖືກປະຕິເສດ">
+<!ENTITY fileAccessDenied.longDesc "<li> <li>ມັນອາດຈະຖືກລຶບອອກໄປແລ້ວ, ຍ້າຍໄປໄວ້ຢູ່ບ່ອນອື່ນແລ້ວ ຫລື ທ່ານອາດບໍ່ມີສິດເຂົ້າເຖິງຟາຍຂໍ້ມູນນີ້.</li> </ul>">
 
 <!ENTITY generic.title "ອຸ່ຍ.">
+<!ENTITY generic.longDesc "<p>&brandShortName; ບໍ່ສາມາດໂຫລດນ້າເວັບນີ້ໄດ້ດ້ວຍບາງເຫດຜົນ.</p>">
 
-
+<!ENTITY malformedURI.title "ທີ່ຢູ່ນີ້ບໍ່ຖືກຕ້ອງ">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
