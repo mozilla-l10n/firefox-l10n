@@ -32,7 +32,7 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Tichup">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Kikemoj kajtz'ik taq ya'oj q'ij">
+<!ENTITY runtimeMenu_showPermissionTable_label "Kemon kikajtz'ik taq ya'oj q'ij">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "y">
 <!ENTITY runtimeMenu_takeScreenshot_label "Chapoj ruwäch">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "C">
@@ -142,7 +142,7 @@
 <!ENTITY prefs_options_autosavefiles_tooltip "Pa ruyonil keyak ri nuk'un taq yakb'äl chuwäch xtisamajïx ri nuk'samaj">
 <!-- Permissions Table -->
 
-<!ENTITY permissionstable_title "Rukemoj kikajtz'ik ya'oj taq q'ij">
+<!ENTITY permissionstable_title "Kemon kikajtz'ik taq ya'oj q'ij">
 <!ENTITY permissionstable_name_header "B'i'aj">
 <!-- Runtime Details -->
 

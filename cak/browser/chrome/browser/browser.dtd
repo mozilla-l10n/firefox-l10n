@@ -508,8 +508,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Ruyakik Ruchi' Achi'el…">
 <!ENTITY saveFrameCmd.accesskey       "R">
-<!ENTITY printFrameCmd.label          "Rutz'ajb'axik ruchi'…">
-<!ENTITY printFrameCmd.accesskey      "b">
+<!ENTITY printFrameCmd.label          "Titz'ajb'äx ruchi'…">
+<!ENTITY printFrameCmd.accesskey      "T">
 <!ENTITY saveLinkCmd.label            "Ruyakik ximon tzij achi'el… ">
 <!ENTITY saveLinkCmd.accesskey        "o">
 <!ENTITY saveImageCmd.label           "Ruyakik wachib'äl achi'el…">

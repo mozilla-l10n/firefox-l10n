@@ -4,13 +4,13 @@
 <!-- extracted from printdialog.xul -->
 
 
-<!ENTITY printButton.label "Tiwachib'äx">
+<!ENTITY printButton.label "Titz'ajb'äx">
 
-<!ENTITY printDialog.title "Tiwachib'ëx">
+<!ENTITY printDialog.title "Titz'ajb'äx">
 
 <!ENTITY fpDialog.title "Tiyak yakb'äl">
 
-<!ENTITY fileCheck.label "Tiwachib'ëx pa jun yakb'äl">
+<!ENTITY fileCheck.label "Titz'ajb'äx pa jun yakb'äl">
 <!ENTITY fileCheck.accesskey "y">
 <!ENTITY propertiesButton.label "Taq ch'akulal…">
 <!ENTITY propertiesButton.accesskey "k">
@@ -19,7 +19,7 @@
 <!ENTITY printerInput.label "Rub'i' tz'ajb'äl:">
 <!ENTITY printerInput.accesskey "R">
 
-<!ENTITY printrangeGroup.label "Rajilab'al wachib'enïk">
+<!ENTITY printrangeGroup.label "Rajilab'al tz'ajb'anïk">
 <!ENTITY allpagesRadio.label "Konojel ri taq ruxaq">
 <!ENTITY allpagesRadio.accesskey "K">
 <!ENTITY rangeRadio.label  "Taq ruxaq">

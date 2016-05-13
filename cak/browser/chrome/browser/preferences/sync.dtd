@@ -50,7 +50,7 @@
 <!ENTITY prefs.ppLink.label         "Runa’oj rajaw">
 <!-- Firefox Accounts stuff -->
 
-<!ENTITY fxaPrivacyNotice.link.label "Ichinan rutzijol">
+<!ENTITY fxaPrivacyNotice.link.label "Ichinan na'oj">
 <!ENTITY determiningAcctStatus.label     "Tajin niya' retal ri rub'anikil ataqoya'l…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
