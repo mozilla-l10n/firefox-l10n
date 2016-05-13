@@ -19,7 +19,7 @@
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
-<!ENTITY privatebrowsingpage.description.normal2 "Al restolar en privao, nun vamos guardar el to historial nin les cookies. Los marcadores qu'amiestes y los ficheros que baxes entá van guardase nel to preséu.">
+<!ENTITY privatebrowsingpage.description.normal2 "Al restolar en privao nun vamos guardar el to historial nin les cookies. Los marcadores qu'amiestes y los ficheros que baxes entá van guardase nel to preséu.">
 
 <!ENTITY privatebrowsingpage.link.private "¿Quies deprender más?">
 <!ENTITY privatebrowsingpage.link.normal "Abrir una llingüeta privada nueva">

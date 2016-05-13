@@ -56,7 +56,7 @@
 <!ENTITY fxaccount_status_auth_server 'Sirvidor de cuenta'>
 <!ENTITY fxaccount_status_sync_now 'Sincronizar agora'>
 <!ENTITY fxaccount_status_syncing2 'Sincronizando…'>
-<!ENTITY fxaccount_status_device_name 'Nome de preséu'>
+<!ENTITY fxaccount_status_device_name 'Nome del preséu'>
 <!ENTITY fxaccount_status_sync_server 'Sirvidor de sincronización'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label; habilitáu'>
@@ -75,7 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos2 'Términos de serviciu'>
+<!ENTITY fxaccount_status_linktos2 'Términos del serviciu'>
 <!ENTITY fxaccount_status_linkprivacy2 'Avisu de privacidá'>
 <!ENTITY fxaccount_status_more 'Más&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Desconeutase&ellipsis;'>
