@@ -10,6 +10,6 @@
 <!ENTITY feedback.feedback.bad          "Malu">
 
 <!ENTITY feedback.tools.title           "Ferramientes">
-<!ENTITY feedback.allowTelemetry.title  "Unviar datos de rindiminetu">
+<!ENTITY feedback.allowTelemetry.title  "Unviar datos de rindimientu">
 <!ENTITY feedback.forceCompat.title     "Forciar compatibilidá d'estensiones">
 <!ENTITY feedback.errorConsole.title    "Habilitar consola de fallos">
