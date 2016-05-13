@@ -513,7 +513,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.label            "Bağlantıyı farklı kaydet…">
 <!ENTITY saveLinkCmd.accesskey        "f">
 <!ENTITY saveImageCmd.label           "Resmi farklı kaydet…">
-<!ENTITY saveImageCmd.accesskey       "f">
+<!ENTITY saveImageCmd.accesskey       "d">
 <!ENTITY saveVideoCmd.label           "Videoyu farklı kaydet…">
 <!ENTITY saveVideoCmd.accesskey       "f">
 <!ENTITY saveAudioCmd.label           "Sesi farklı kaydet…">
