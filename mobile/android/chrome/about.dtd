@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Tocante a &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ye esperimental y quiciabes seya inestable.">
-<!ENTITY aboutPage.telemetryStart               "  Unvia automáticamente información tocante al rindimientu, hardware, usu y personalizaciones a ">
+<!ENTITY aboutPage.telemetryStart               " Unvia automáticamente información tocante al rindimientu, hardware, usu y personalizaciones a ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " p'ameyorar &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Comprobar anovamientos »">
@@ -21,4 +21,4 @@
 <!ENTITY aboutPage.license.label                "Información de llicencia">
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
-<!ENTITY aboutPage.logoTrademark                "Firefox y los logotipos de Firefox son marques rexistraes de Mozilla Foundation.">
+<!ENTITY aboutPage.logoTrademark                "Firefox y los sos logotipos son marques rexistraes de Mozilla Foundation.">

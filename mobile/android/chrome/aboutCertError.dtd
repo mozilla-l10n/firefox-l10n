@@ -33,6 +33,6 @@ manipuliando la to conexón.</b>">
 <!ENTITY certerror.expert.contentPara2 "Nun amiestes una esceición esceuto que
 sepas qu'hai un bona razón pola qu'esti sitiu nun use identificación d'enfotu.">
 <!ENTITY certerror.addTemporaryException.label "Visitar sitiu">
-<!ENTITY certerror.addPermanentException.label "Amestar esceición permante">
+<!ENTITY certerror.addPermanentException.label "Amestar esceición permanente">
 
 <!ENTITY certerror.technical.heading "Detalles téunicos">
