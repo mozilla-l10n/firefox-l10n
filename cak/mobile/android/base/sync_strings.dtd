@@ -97,7 +97,7 @@
      status activity, which lets them manage their Firefox
      Account. -->
 
-<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; taq cha\u0027öy">
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; taq cha\u0027oj">
 <!ENTITY fxaccount_options_configure_title "Tab\u0027ana\u0027 runuk\u0027ulem &syncBrand.shortName.label;">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
