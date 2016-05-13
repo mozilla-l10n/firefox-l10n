@@ -45,7 +45,7 @@
 <!ENTITY fileAccessDenied.title "Ñegóse l'accesu al ficheru">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>Quiciabes tea desaniciáu, movíu o que los permisos del ficheru tean evitándo l'accesu.</li>
+  <li>Quiciabes tea desaniciáu, movíu o que los permisos del ficheru tean evitando l'accesu.</li>
 </ul>
 ">
 
@@ -65,7 +65,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Guetar</button>
     </div>
-  <li>Make sure that you're using forward slashes (i.e.
+  <li>Asegúrate d'usar barres invertíes (ye dicir,
     <strong>/</strong>).</li>
 </ul>
 ">
@@ -136,8 +136,8 @@
 <!ENTITY redirectLoop.title "La páxina nun ta redireicionando afayadizamente">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Esti problema pue ser causáu a vegaes por deshabilitar o refugar l'aceutación
-    cookies.</li>
+  <li>A vegaes esti problema pue ser causáu a por deshabilitar o refugar l'aceutación
+    de cookies.</li>
 </ul>
 ">
 
@@ -163,8 +163,8 @@
 <ul>
   <li>Esto quiciabes seya un problema cola configuración del sirvidor o que daquién
 lu tea tentando de suplantar.</li>
-  <li>Si nel pasáu te coneutesti a esti sirvidor esitosamente, quiciabes el fallu seya
-temporal y pueas volver a tentalo más sero.</li>
+  <li>Si nel pasáu te coneutesti a esti sirvidor con ésitu, quiciabes el fallu seya
+temporal y pueas tentalo de nueves más sero.</li>
 </ul>
 ">
 
@@ -173,17 +173,17 @@ temporal y pueas volver a tentalo más sero.</li>
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Quiciabes el sitiu tea temporalmente non disponible o perocupáu. Volvi tentalo nunos minutos.</li>
-  <li>Si nun yes a cargar páxina dala, comprueba la to conexón de datos o Wi-Fi del preséu.
+  <li>Si nun yes a cargar páxina dala, comprueba la to conexón de datos o'l Wi-Fi del preséu.
     <button id='wifi'>Habilitar Wi-Fi</button>
   </li>
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Bloquiáu pola política de seguranza de conteníu">
+<!ENTITY cspBlocked.title "Bloquióse pola política de seguranza de conteníu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina cargue d'esti mou porque tien una política de seguranza de conteníu que nun lo permite.</p>">
 
 <!ENTITY corruptedContentError.title "Fallu de conteníu toyíu">
-<!ENTITY corruptedContentError.longDesc "<p>Nun pue amosase la páxina que tas tentando de ver porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Nun pue amosase la páxina que tas tentando de ver porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O pues amestar una esceición…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sacáime d'equí!">
@@ -202,7 +202,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY remoteXUL.title "XUL remotu">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Contauta colos dueños d'esti sitiu pa informa-yos d'esti problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contauta colos dueños d'esti sitiu pa informa-yos d'esti problema, por favor.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Nun pue coneutase de mou seguru">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
