@@ -16,11 +16,11 @@
 <!ENTITY pasteAsQuotationCmd.label "Prilepi kot navedek">
 <!ENTITY pasteAsQuotationCmd.accesskey "d">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Najdi ...">
-<!ENTITY findReplaceCmd.label "Najdi in zamenjaj ...">
+<!ENTITY findBarCmd.label "Najdi …">
+<!ENTITY findReplaceCmd.label "Najdi in zamenjaj …">
 <!ENTITY enableInlineSpellChecker.label "Preveri črkovanje med pisanjem">
 <!ENTITY enableInlineSpellChecker.accesskey "r">
-<!ENTITY checkSpellingCmd2.label "Preveri črkovanje ...">
+<!ENTITY checkSpellingCmd2.label "Preveri črkovanje …">
 <!ENTITY checkSpellingCmd2.accesskey "P">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -40,7 +40,7 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML …">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertMathCmd.label "Matematični izraz ...">
+<!ENTITY insertMathCmd.label "Matematični izraz …">
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Znake in simbole …">
 <!ENTITY insertCharsCmd.accesskey "Z">
@@ -177,7 +177,7 @@
 <!ENTITY listTermCmd.accesskey "z">
 <!ENTITY listDefinitionCmd.label "Določilo">
 <!ENTITY listDefinitionCmd.accesskey "D">
-<!ENTITY listPropsCmd.label "Lastnosti seznama ...">
+<!ENTITY listPropsCmd.label "Lastnosti seznama …">
 <!ENTITY listPropsCmd.accesskey "L">
 
 <!ENTITY ParagraphSelect.tooltip "Izberite obliko odstavka">
@@ -342,5 +342,5 @@
 <!ENTITY updateTOC.accesskey      "P">
 <!ENTITY removeTOC.label          "Odstrani">
 <!ENTITY removeTOC.accesskey      "O">
-<!ENTITY tocMenu.label            "Kazalo vsebine ...">
+<!ENTITY tocMenu.label            "Kazalo vsebine …">
 <!ENTITY tocMenu.accesskey        "K">

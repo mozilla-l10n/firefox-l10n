@@ -54,10 +54,13 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Omogočeni vtičniki">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Nastavitev graditve">
 <!ENTITY aboutSupport.appBasicsUserAgent "Uporabniški agent">
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Poraba pomnilnika">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registrirani Service Workerji">
+
+<!ENTITY aboutSupport.appBasicsProfiles "Profili">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Večprocesna okna">
 
@@ -105,3 +108,4 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Poskusite varni način">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ponovno zaženi z onemogočenimi dodatki …">
+

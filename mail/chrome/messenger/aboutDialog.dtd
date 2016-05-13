@@ -6,7 +6,7 @@
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
 -->
-<!ENTITY update.checkForUpdatesButton.label       "Preveri za posodobitve">
+<!ENTITY update.checkForUpdatesButton.label       "Preveri posodobitve">
 <!ENTITY update.checkForUpdatesButton.accesskey   "P">
 <!ENTITY update.updateButton.label2               "Za posodobitev ponovno zaženi &brandShortName;">
 <!ENTITY update.updateButton.accesskey            "P">
@@ -54,7 +54,7 @@
 <!ENTITY bottomLinks.privacy        "Politika zasebnosti">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Preverjanje posodobitev …">
+<!ENTITY update.checkingForUpdates  "Iskanje posodobitev …">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; je posodobljen">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

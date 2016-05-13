@@ -24,7 +24,7 @@
 <!ENTITY accountAliasField.label      "Vzdevek:">
 <!ENTITY accountAliasInfo.label       "Videti bo le med pogovori ob klepetu, oddaljeni stiki ga ne bodo videli.">
 <!ENTITY accountProxySettings.caption "Nastavitve za posrednika:">
-<!ENTITY accountProxySettings.change.label     "Spremeni ...">
+<!ENTITY accountProxySettings.change.label     "Spremeni …">
 <!ENTITY accountProxySettings.change.accessKey "S">
 
 <!ENTITY accountSummaryTitle.label   "Povzetek">

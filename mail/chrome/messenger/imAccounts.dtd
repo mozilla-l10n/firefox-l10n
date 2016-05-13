@@ -28,5 +28,5 @@
 <!ENTITY account.copyDebugLog.label     "Kopiraj razhroščevalni dnevnik">
 <!ENTITY account.copyDebugLog.accesskey "K">
 <!ENTITY account.connecting           "Povezovanje …">
-<!ENTITY account.disconnecting        "Prekinitev ...">
+<!ENTITY account.disconnecting        "Prekinitev …">
 <!ENTITY account.disconnected         "Brez povezave">

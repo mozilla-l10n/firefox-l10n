@@ -12,5 +12,5 @@
 <!ENTITY account.newMailNotification   "Obveščaj o novi pošti">
 <!ENTITY account.autojoin              "Samodejno združeni kanali:">
 <!ENTITY account.proxySettings.caption "Nastavitve za posrednika:">
-<!ENTITY account.proxySettings.change.label     "Spremeni ...">
+<!ENTITY account.proxySettings.change.label     "Spremeni …">
 <!ENTITY account.proxySettings.change.accessKey "S">

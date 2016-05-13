@@ -16,8 +16,13 @@
   -  The text appears on the bottom right corner of the layout view when
   -  the corresponding box is hovered. -->
 
-<!ENTITY title                  "Škatlasti model">
-<!ENTITY margin.tooltip         "rob">
-<!ENTITY border.tooltip         "okvir">
-<!ENTITY padding.tooltip        "obloga">
-<!ENTITY content.tooltip        "vsebina">
+<!ENTITY layoutViewTitle          "Škatlasti model">
+<!ENTITY margin.tooltip           "rob">
+<!ENTITY border.tooltip           "okvir">
+<!ENTITY padding.tooltip          "obloga">
+<!ENTITY content.tooltip          "vsebina">
+
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
+<!ENTITY geometry.button.tooltip  "Uredi položaj">
