@@ -299,8 +299,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Rucha'ik ronojel">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "r"> 
-<!ENTITY preferencesCmd2.label       "Taq ajowab'äl">
-<!ENTITY preferencesCmd2.accesskey     "a">
+<!ENTITY preferencesCmd2.label       "Taq cha'oj">
+<!ENTITY preferencesCmd2.accesskey     "c">
 <!ENTITY preferencesCmdUnix.label       "Taq Ajowanel">
 <!ENTITY preferencesCmdUnix.accesskey     "o"> 
 
@@ -653,7 +653,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Runuk'ik ajowanel q'aton taq silon kajtz'ïk…">
-<!ENTITY editPopupSettings.label "Kinuk'ik taq cha'onem q'aton silon kajtz'ïk…">
+<!ENTITY editPopupSettings.label "Kenuk' taq rucha'oj q'aton silon kajtz'ïk…">
 <!ENTITY editPopupSettings.accesskey "K">
 <!ENTITY dontShowMessage.accesskey "N">
 

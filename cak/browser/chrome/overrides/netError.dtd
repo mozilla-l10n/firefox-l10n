@@ -27,7 +27,7 @@
 <!ENTITY fileAccessDenied.title "Xq'at rutz'etik ri yakb'äl">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Rik'in jub'a' xyuj el, xsilöx el o ri niya'on q'ij chi ke ri yakb'äl niq'ato rutz'etik.</li> </ul>">
 
-<!ENTITY generic.title "¡Uy!">
+<!ENTITY generic.title "Uy.">
 <!ENTITY generic.longDesc "<p>&brandShortName; k'o jun achoq uma toq man nutikirisaj ta el re jun ruxaq k'amaya'l re'.</p>">
 
 <!ENTITY malformedURI.title "Man nuxïm ta ri' ri ochochib'äl">
