@@ -11,7 +11,7 @@
 <!ENTITY useDefault.accesskey             "P">
 
 <!ENTITY changeDockIconOptions.label      "Spremeni možnosti ikone programa">
-<!ENTITY dockOptions.label                "Možnosti ikone programa ...">
+<!ENTITY dockOptions.label                "Možnosti ikone programa …">
 <!ENTITY dockOptions.accesskey            "o">
 
 <!ENTITY newMessagesArrive.label          "Ko prispejo nova sporočila:">
