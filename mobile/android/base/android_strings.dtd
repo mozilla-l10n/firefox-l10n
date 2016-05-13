@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bienllegáu">
-<!ENTITY  onboard_start_message3 "Navegar con &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Configura la espericiencia de navegación Web móvil al to xeitu.">
+<!ENTITY  onboard_start_message3 "Restola con &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Configura la espericiencia móvil de restolar al to xeitu.">
 
 <!ENTITY firstrun_urlbar_message "Bienllegáu a &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Atopa coses más rápido con ayuda de los atayos de suxerencies de gueta.">
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Los favoritos, al frente y nel centru">
-<!ENTITY firstrun_bookmarks_subtext "Obtén resultaos de marcadores ya historial cuando faigas busques.">
+<!ENTITY firstrun_bookmarks_subtext "Consigui resultaos de los tos marcadores ya historial al guetar.">
 <!ENTITY firstrun_data_title "Datos">
 <!ENTITY firstrun_data_message "Menos datos, más aforru">
 <!ENTITY firstrun_data_subtext2 "Desactiba les imáxenes pa nun marafundiar datos en cada sitiu que visites.">
@@ -19,7 +19,7 @@
 <!ENTITY firstrun_sync_subtext "Sincroniza les tos llingüetes, contraseñes y más en tolos llaos que lo uses.">
 <!ENTITY firstrun_signin_message "Conéutate, entama">
 <!ENTITY firstrun_signin_button "Aniciar sesión en Sync">
-<!ENTITY  onboard_start_button_browser "Aniciar navegación">
+<!ENTITY  onboard_start_button_browser "Entamar a restolar">
 <!ENTITY firstrun_button_next "Siguiente">
 
 <!ENTITY  onboard_start_restricted1 "Tate seguru y en control cola versión acenciellada de &brandShortName;.">
@@ -32,7 +32,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Marcadores">
-<!ENTITY  history_title "Historia">
+<!ENTITY  history_title "Historial">
 <!ENTITY  reading_list_title "Llistáu de llectura">
 <!ENTITY  recent_tabs_title "Llingüetes recientes">
 
@@ -125,7 +125,7 @@
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "Predetermináu del sistema">
+<!ENTITY locale_system_default "Predeterminada del sistema">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
@@ -183,7 +183,7 @@
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota per Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "La depuración Wi-Fi rique que\&apos;l to preséu tenga instaláu una aplicación llectora de códigos QR.">
 <!ENTITY pref_remember_signons2 "Recordar anicios de sesión">
-<!ENTITY pref_manage_logins "Xestionar anicios de sesión">
+<!ENTITY pref_manage_logins "Xestión d\&apos;anicios de sesión">
 
 <!ENTITY pref_category_home "Aniciu">
 <!ENTITY pref_category_home_summary "Personaliza la to páxina d\&apos;aniciu">
@@ -296,12 +296,12 @@
 <!ENTITY pref_char_encoding "Codificación de caráuteres">
 <!ENTITY pref_char_encoding_on "Amosar menú">
 <!ENTITY pref_char_encoding_off "Nun amosar menú">
-<!ENTITY pref_clear_private_data2 "Llimpiar datos privaos">
+<!ENTITY pref_clear_private_data2 "Llimpieza de datos privaos">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Llimpiar agora">
 <!ENTITY pref_clear_on_exit_title3 "Llimpiar datos privaos al colar">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; llimpiará automáticamente los tos datos siempres qu\&apos;esbilles \u0022Colar\u0022 dende\&apos;l menú principal">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; llimpiará automáticamente los tos datos siempres qu\&apos;esbilles \u00abColar\u00bb dende\&apos;l menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Esbilla qué datos llimpiar">
 <!ENTITY pref_plugins "Estensiones">
 <!ENTITY pref_plugins_enabled "Habilitáu">
@@ -339,14 +339,14 @@ size. -->
 
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_sync2 "Aniciar sesión">
-<!ENTITY pref_sync_summary2 "Sincroniza les tos llingüetes, marcadores, anicios de sesión, historia">
+<!ENTITY pref_sync_summary2 "Sincroniza les tos llingüetes, marcadores, anicios de sesión, historial">
 <!ENTITY pref_search_suggestions "Amosar suxerencies de gueta">
-<!ENTITY pref_history_search_suggestions "Amosar historia de gueta">
+<!ENTITY pref_history_search_suggestions "Amosar historial de gueta">
 <!ENTITY pref_import_options "Importar opciones">
-<!ENTITY pref_import_android_summary "Importa los marcadores ya historia del restolador nativu">
-<!ENTITY pref_private_data_history2 "Historia de navegación">
-<!ENTITY pref_private_data_searchHistory "Historia de gueta">
-<!ENTITY pref_private_data_formdata2 "Historia de formularios">
+<!ENTITY pref_import_android_summary "Importa los marcadores ya historial del restolador nativu">
+<!ENTITY pref_private_data_history2 "Historial de restolar">
+<!ENTITY pref_private_data_searchHistory "Historial de gueta">
+<!ENTITY pref_private_data_formdata2 "Historial de formularios">
 <!ENTITY pref_private_data_cookies2 "Cookies y anicios de sesión activos">
 <!ENTITY pref_private_data_passwords2 "Anicios de sesión guardaos">
 <!ENTITY pref_private_data_cache "Caché">
@@ -449,10 +449,10 @@ size. -->
 <!ENTITY media_pause "Posar">
 <!ENTITY media_stop "Parar">
 
-<!ENTITY contextmenu_open_new_tab "Abrir en llinüeta nueva">
+<!ENTITY contextmenu_open_new_tab "Abrir en llingüeta nueva">
 <!ENTITY contextmenu_open_private_tab "Abrir en llingüeta privada">
 <!ENTITY contextmenu_remove "Desaniciar">
-<!ENTITY contextmenu_add_to_launcher "Amestar a la pantalla d\&apos;aniciu">
+<!ENTITY contextmenu_add_to_launcher "Amestar a pantalla d\&apos;aniciu">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Apegar y dir">
 <!ENTITY contextmenu_paste "Apegar">
@@ -487,7 +487,7 @@ size. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Restolamientu a pantalla completa">
+<!ENTITY pref_scroll_title_bar2 "Restolar a pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary2 "Anubre la barra de ferramientes de &brandShortName; al desplazate haza abaxo nuna páxina">
 
 <!ENTITY pref_tab_queue_title3 "Cola de llingüetes">
@@ -535,12 +535,12 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Aniciu de &brandShortName;">
-<!ENTITY home_history_title "Historia">
+<!ENTITY home_history_title "Historial">
 <!ENTITY home_synced_devices_smartfolder "Preseos sincronizaos">
 <!ENTITY home_synced_devices_number "&formatD; preseos">
-<!ENTITY home_history_back_to2 "Volver a tola historia">
-<!ENTITY home_clear_history_button "Llimpiar historia de restolar">
-<!ENTITY home_clear_history_confirm "¿De xuru que quies llimpiar la to historia?">
+<!ENTITY home_history_back_to2 "Volver a tol historial">
+<!ENTITY home_clear_history_button "Llimpiar historial de restolar">
+<!ENTITY home_clear_history_confirm "¿De xuru que quies llimpiar el to historial?">
 <!ENTITY home_bookmarks_empty "Equí amosaránse los tos marcadores.">
 <!ENTITY home_closed_tabs_title "Llingüetes zarraes apocayá">
 <!ENTITY home_last_tabs_title "Llingüetes de la cabera vegada">
@@ -549,7 +549,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Equí amosaránse los sitios web que más visitares.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Oi... Usar una &formatS1;llingüeta privada nueva&formatS2; nun guardará la to historia.">
+<!ENTITY home_most_recent_emptyhint2 "Oi... Usar una &formatS1;llingüeta privada nueva&formatS2; nun va guardar el to historial.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -611,7 +611,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_state_enabled "Habilitada">
 <!ENTITY doorhanger_tracking_state_disabled "Deshabilitada">
 <!ENTITY doorhanger_tracking_message_enabled1 "Bloquiáronse intentos de rastrexar el to comportamientu en llinia.">
-<!ENTITY doorhanger_tracking_message_disabled2 "Esta páxina inclúi elementos que quiciabes rastrexen la to navegación.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Esta páxina inclúi elementos que quiciabes rastrexen el to restolar.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Depriendi más">
@@ -622,11 +622,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Nun pudieron llimpiase dellos datos privaos">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
-<!ENTITY bookmarkhistory_import_both "Importando marcadores ya historia
+<!ENTITY bookmarkhistory_import_both "Importando marcadores ya historial
                                       d\&apos;Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Importando marcadores
                                            d\&apos;Android">
-<!ENTITY bookmarkhistory_import_history "Importando historia
+<!ENTITY bookmarkhistory_import_history "Importando historial
                                          d\&apos;Android">
 <!ENTITY bookmarkhistory_import_wait "Espera por favor...">
 
@@ -644,7 +644,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 <!ENTITY suggestion_for_engine "Guetar &formatS1; pa &formatS2;">
 
-<!ENTITY searchable_description "Marcadores ya historia">
+<!ENTITY searchable_description "Marcadores ya historial">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Anovamientu disponible pa &brandShortName;">
@@ -671,7 +671,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Siguir">
 <!ENTITY guest_session_dialog_cancel "Encaboxar">
 <!ENTITY new_guest_session_title "Agora &brandShortName; reaniciaráse">
-<!ENTITY new_guest_session_text2 "La persona que la use nun sedrá a ver datos personales de restolar de to (como anicios de sesión guardaos, historia o marcadores).\n\nCuando\&apos;l to convidáu/ada fine, desaniciaránse los sos datos de restolar y restauraráse la to sesión.">
+<!ENTITY new_guest_session_text2 "La persona que la use nun sedrá a ver datos personales de restolar de to (como anicios de sesión guardaos, historial o marcadores).\n\nCuando\&apos;l to convidáu/ada fine, desaniciaránse los sos datos de restolar y restauraráse la to sesión.">
 <!ENTITY guest_browsing_notification_title "Habilitóse\&apos;l restolar de convidáu">
 <!ENTITY guest_browsing_notification_text "Calca pa colar">
 
@@ -741,7 +741,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation_description "Amiesten carauterístiques o funcionalidaes a Firefox. Nota: les estensiones puen deshabilitar ciertes restricciones.">
 <!ENTITY restrictable_feature_private_browsing "Restolar en privao">
 <!ENTITY restrictable_feature_private_browsing_description "Permite a familiares restolar ensin guardar información tocante a los sitios y páxines que visitaren.">
-<!ENTITY restrictable_feature_clear_history "Llimpiar historia">
+<!ENTITY restrictable_feature_clear_history "Llimpiar historial">
 <!ENTITY restrictable_feature_clear_history_description "Permite a familiares desaniciar información tocante a los sitios y páxines que visitaren.">
 <!ENTITY restrictable_feature_advanced_settings "Axustes avanzaos">
 <!ENTITY restrictable_feature_advanced_settings_description "Esto inclúi la importación de marcadores, restauración de llingüetes y anovamientos automatizaos. Desactívalo p\&apos;axustes acenciellaos pa cualesquier familiar.">
@@ -765,7 +765,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "¡Perdón! &brandShortName; nun furrulará nesti preséu (&formatS1;, &formatS2;). Baxa la versión correuta, por favor">
+<!ENTITY unsupported_sdk_version "¡Perdón! &brandShortName; nun va furrular nesti preséu (&formatS1;, &formatS2;). Baxa la versión correuta, por favor.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; yá nun s\&apos;anovará">
 <!ENTITY eol_notification_summary "Calca pa deprender más">
