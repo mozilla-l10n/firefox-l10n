@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage 'Vymazať celú históriu vyhľadávania uloženú v tomto zariadení?'>
 <!ENTITY pref_clearHistory_title 'Vymazanie histórie vyhľadávania'>
 
-<!ENTITY pref_searchProvider_title 'Vyhľadávací modul'>
-
 <!ENTITY search_widget_button_label 'Hľadať'>
 
 <!ENTITY network_error_title 'Žiadne pripojenie k sieti internet'>
