@@ -25,7 +25,7 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontroller filnamnet etter skilnader i store/små bokstavar eller andre skrivefeil.</li> <li>Kontroller om fila er flytta, har endra namn eller er sletta.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Tilgang til fila vart nekta">
-
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Den kan ha vorte fjerna, flytta, eller så kan filrettar hindra tilgang.</li></ul>">
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>&brandShortName; klarte ikkje å laste denne sida av ukjent årsak.</p>">
@@ -76,6 +76,7 @@
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Eigaren av <span class='hostname'/> har konfigurert nettstaden sin feil. For å verna informasjonen din frå å bli stolen, har &brandShortName; ikkje kopla seg til denne nettstaden.">
 
 <!ENTITY sharedLongDesc "<ul> <li>Nettstaden kan vera mellombels utilgjengeleg eller oppteken. Prøv om att om ei lita stund.</li> <li>Dersom ingen sider vert lasta, kontroller at nettverkstilkoplinga til datamaskina er i orden.</li> <li>Dersom datamaskina er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruka nettet (www).</li> </ul>">
 
