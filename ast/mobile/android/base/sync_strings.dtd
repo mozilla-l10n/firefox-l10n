@@ -18,7 +18,7 @@
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.passwords2 'Anicios de sesión'>
-<!ENTITY sync.configure.engines.title.history 'Historia'>
+<!ENTITY sync.configure.engines.title.history 'Historial'>
 <!ENTITY sync.configure.engines.title.tabs 'Llingüetes'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
@@ -67,7 +67,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; ta configuráu pero nun sincroniza automáticamente. Alterna «Sincronizar datos automáticamente» nos axustes d\&apos;Android &gt; Cuentes.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Calca p\&apos;aniciar sesión na to cuenta nueva de Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Marcadores'>
-<!ENTITY fxaccount_status_history 'Historia'>
+<!ENTITY fxaccount_status_history 'Historial'>
 <!ENTITY fxaccount_status_passwords2 'Anicios de sesión'>
 <!ENTITY fxaccount_status_tabs 'Llingüetes abiertes'>
 <!ENTITY fxaccount_status_legal 'Llegal' >
@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_remove_account 'Desconeutase&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title '¿Desaniciar cuenta de Firefox?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; parará de sincronizase cola to cuenta pero nun desaniciará datu dalu de restolamientu nesti preséu.'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; parará de sincronizase cola to cuenta pero nun desaniciará datu dalu de restolar nesti preséu.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Desanicióse la cuenta de Firefox &formatS;.'>

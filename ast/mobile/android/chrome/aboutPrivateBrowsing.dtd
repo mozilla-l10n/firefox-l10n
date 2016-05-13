@@ -13,13 +13,13 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Nun tas restolando en privao">
 
-<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloquia partes de les páxines que quiciabes rastrexen la to actividá de navegación.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Nun recordaremos la historia pero los ficheros baxaos y los marcadores nuevos entá van guardase nel to preséu.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloquia partes de les páxines que quiciabes rastrexen la to actividá de restolar.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Nun vamos recordar l'historial pero los ficheros baxaos y los marcadores nuevos entá van guardase nel to preséu.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
-<!ENTITY privatebrowsingpage.description.normal2 "Na navegación privada, nun se guarda'l to historial de navegación nin les cookies. Los marcadores qu'amiestes y los ficheros que descargues sí van guardase nel to preséu.">
+<!ENTITY privatebrowsingpage.description.normal2 "Al restolar en privao, nun vamos guardar el to historial nin les cookies. Los marcadores qu'amiestes y los ficheros que baxes entá van guardase nel to preséu.">
 
 <!ENTITY privatebrowsingpage.link.private "¿Quies deprender más?">
 <!ENTITY privatebrowsingpage.link.normal "Abrir una llingüeta privada nueva">

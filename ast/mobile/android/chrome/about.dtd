@@ -17,7 +17,7 @@
 <!ENTITY aboutPage.privacyPolicy.label          "Política de privacidá">
 <!ENTITY aboutPage.rights.label                 "Conoz los tos drechos">
 <!ENTITY aboutPage.relNotes.label               "Notes de llanzamientu">
-<!ENTITY aboutPage.credits.label                "Créitos">
+<!ENTITY aboutPage.credits.label                "Creitos">
 <!ENTITY aboutPage.license.label                "Información de llicencia">
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->

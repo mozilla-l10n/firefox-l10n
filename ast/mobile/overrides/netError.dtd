@@ -28,7 +28,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Guetar</button>
     </div>
-  <li>Si nun pues cargar páxina dala, comprueba la conexón de datos o Wi-F del to preséu.
+  <li>Si nun pues cargar páxina dala, comprueba la conexón de datos o'l Wi-Fi del preséu.
     <button id='wifi'>Habilitar Wi-Fi</button>
   </li>
 </ul>
