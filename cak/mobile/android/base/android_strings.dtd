@@ -603,7 +603,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ruq\u0027aton itzel taq rupam pa re ruxaq re\u0027.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; eruq\u0027aton jujun taq itzel rupam pa re ruxaq re\u0027.">
-<!ENTITY mixed_content_display_loaded1 "Jujun taq peraj chi re re ruxaq re\u0027 man e ütz ta (achi\u0027el ri taq wachib\u0027äl).">
+<!ENTITY mixed_content_display_loaded1 "K\u0027o man ütz ta taq ruch\u0027akulal re ruxaq re\u0027 (achi\u0027el ri taq wachib\u0027äl).">
 <!ENTITY mixed_content_protection_disabled1 "Xachüp ruwäch ri chajinïk chuwäch itzel rupam.">
 <!-- Tracking content notifications in site identity popup -->
 
