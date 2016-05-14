@@ -6,7 +6,7 @@
 <!ENTITY Addrbook.accesskey                    "g">
 <!ENTITY GeneratedName.label                   "Nosaukums">
 <!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "E-pasts">
+<!ENTITY PrimaryEmail.label                    "Epasts">
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Organizācija">
 <!ENTITY Company.accesskey                     "z">
