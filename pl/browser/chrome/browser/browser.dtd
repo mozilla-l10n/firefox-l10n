@@ -147,6 +147,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Ostatnio dodane">
 <!ENTITY otherBookmarksCmd.label "Pozostałe zakładki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wyświetl więcej zakładek">
+<!ENTITY showRecentlyBookmarked.label "Wyświetl ostatnio dodane">
+<!ENTITY showRecentlyBookmarked.accesskey "W">
+<!ENTITY hideRecentlyBookmarked.label "Ukryj ostatnio dodane">
+<!ENTITY hideRecentlyBookmarked.accesskey "U">
 
 <!ENTITY backCmd.label "Wstecz" >
 <!ENTITY backButton.tooltip "Przejdź do poprzedniej strony" >
