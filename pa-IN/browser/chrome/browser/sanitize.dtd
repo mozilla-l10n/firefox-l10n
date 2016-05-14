@@ -54,8 +54,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "ਫਾਰਮ ਅਤੇ ਖੋਜ ਅਤੀਤ">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemPasswords.label               "ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
-<!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "ਕੂਕੀਜ਼">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "ਕੈਸ਼">
