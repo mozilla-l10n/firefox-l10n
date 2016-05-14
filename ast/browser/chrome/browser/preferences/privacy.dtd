@@ -37,7 +37,7 @@
 <!ENTITY  locbar.bookmarks.accesskey    "M">
 <!ENTITY  locbar.openpage.label         "Abrir llingüetes">
 <!ENTITY  locbar.openpage.accesskey     "A">
-<!ENTITY  locbar.searches.label         "Busques rellacionaes dende'l guetador predetermináu">
+<!ENTITY  locbar.searches.label         "Guetes rellacionaes dende'l guetador por defeutu">
 <!ENTITY  locbar.searches.accesskey     "s">
 
 <!ENTITY  suggestionSettings.label      "Camudar preferencies pa les suxerencies del motor de gueta…">

@@ -2,33 +2,33 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY printCmd.commandkey            "p">
+<!ENTITY printCmd.commandkey            "i">
 
-<!ENTITY findOnCmd.commandkey           "F">
-<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findOnCmd.commandkey           "L">
+<!ENTITY findAgainCmd.commandkey        "N">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
 <!ENTITY backButton.label               "Atrás">
 <!ENTITY backButton.accesskey           "A">
-<!ENTITY backButton.tooltip             "Dir atrás">
+<!ENTITY backButton.tooltip             "Dir una páxina atrás">
 <!ENTITY forwardButton.label            "Alantre">
 <!ENTITY forwardButton.accesskey        "A">
-<!ENTITY forwardButton.tooltip          "Dir alantre">
+<!ENTITY forwardButton.tooltip          "Va una páxina alantre">
 <!ENTITY copyCmd.label                  "Copiar">
 <!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "Seleicionar too">
-<!ENTITY selectAllCmd.accesskey         "a">
+<!ENTITY selectAllCmd.label             "Esbillar too">
+<!ENTITY selectAllCmd.accesskey         "t">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "Entamu">
-<!ENTITY homeButton.tooltip             "Dir a la páxina d'aniciu">
+<!ENTITY homeButton.label               "Aniciu">
+<!ENTITY homeButton.tooltip             "Va a la páxina d'aniciu d'ayuda">
 <!ENTITY printButton.label              "Imprentar">
-<!ENTITY printButton.tooltip            "Imprentar esta páxina">
-<!ENTITY closeWindow.commandkey         "W">
+<!ENTITY printButton.tooltip            "Imprenta esta páxina">
+<!ENTITY closeWindow.commandkey         "V">
 
 <!ENTITY search.emptytext               "Guetar">
-<!ENTITY searchHeader.label             "Resultaos de la gueta">
-<!ENTITY toctab.label                   "Conteníu">
+<!ENTITY searchHeader.label             "Resultaos de gueta">
+<!ENTITY toctab.label                   "Conteníos">
 <!ENTITY toctab.accesskey               "C">
 
 <!-- LOCALIZATION NOTE :
@@ -47,10 +47,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "Siempres encima">
+<!ENTITY zLevel.label                   "Siempres enriba">
 <!ENTITY zLevel.accesskey               "S">
 
-<!ENTITY fullZoomReduceBtn.label        "Amenorgar">
-<!ENTITY fullZoomReduceBtn.accesskey    "o">
-<!ENTITY fullZoomEnlargeBtn.label       "Aumentar">
+<!ENTITY fullZoomReduceBtn.label        "Alloñar">
+<!ENTITY fullZoomReduceBtn.accesskey    "A">
+<!ENTITY fullZoomEnlargeBtn.label       "Averar">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "A">
