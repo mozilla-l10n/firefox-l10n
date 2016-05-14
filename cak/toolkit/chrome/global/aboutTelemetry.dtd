@@ -34,7 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ojer chi ping &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Man esamajin ta taq rutzij ri ping…">
+<!ENTITY aboutTelemetry.rawPingData "Rukuta'm ping tzij…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Wuqq'ij">
 
@@ -74,7 +74,7 @@
 
 <!ENTITY aboutTelemetry.fetchSymbols "  Ke'ilitäj taq ajsamaj b'i'aj pa ri taq pila richin tzeqeb'anïk">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Kek'ut taq tzij man esamajin ta pa tzeqeb'anïk">
+<!ENTITY aboutTelemetry.hideSymbols "  Kek'ut pe rukuta'm tzij pa tzeqeb'anïk">
 
 <!ENTITY aboutTelemetry.filterText "  Tichayüx (taq cholaj o /regexp/)">
 
