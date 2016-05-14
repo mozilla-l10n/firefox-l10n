@@ -120,9 +120,9 @@
 <!ENTITY prefs_restore "Restaurar predeterminaos">
 <!ENTITY prefs_manage_components "Alministrar componentes estra">
 <!ENTITY prefs_options_autoconnectruntime "Reconeutar al entornu d'execución anterior">
-<!ENTITY prefs_options_autoconnectruntime_tooltip "Reconeutar al entornu d'execución anterior cuando s'anicie WebIDE">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Reconeutar al entornu d'execución anterior al aniciase WebIDE">
 <!ENTITY prefs_options_rememberlastproject "Recordar el postrer proyeutu">
-<!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar el proyeutu anterior cuando s'anicie WebIDE">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar el proyeutu anterior al aniciase WebIDE">
 <!ENTITY prefs_options_templatesurl "URL de plantíes">
 <!ENTITY prefs_options_templatesurl_tooltip "Índiz de plantíes disponibles">
 <!ENTITY prefs_options_showeditor "Amosar editor">
