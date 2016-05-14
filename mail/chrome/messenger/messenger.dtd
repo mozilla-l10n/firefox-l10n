@@ -808,8 +808,8 @@
 
 
 
-
-
+<!ENTITY CopyEmailAddress.label "Kopēt epasta adresi">
+<!ENTITY CopyEmailAddress.accesskey "e">
 
 
 
@@ -830,7 +830,7 @@
 
 
 
-<!ENTITY copyEmailCmd.label "Kopēt e-pasta adresi">
+<!ENTITY copyEmailCmd.label "Kopēt epasta adresi">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Apturēt">
 <!ENTITY stopCmd.accesskey "A">
