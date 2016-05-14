@@ -25,7 +25,7 @@
 <!ENTITY  onboard_start_restricted1 "Tate seguru y en control cola versión acenciellada de &brandShortName;.">
 
 <!ENTITY  reading_list_migration_title "Llistáu de llectura coneutáu">
-<!ENTITY  reading_list_migration_subtext "Agora amestaránse los tos llistaos de llectura a los tos marcadores">
+<!ENTITY  reading_list_migration_subtext "Agora van amestase los tos llistaos de llectura a los tos marcadores">
 <!ENTITY  reading_list_migration_goto_bookmarks "Dir a Marcadores">
 <!ENTITY  reading_list_migration_bookmarks_hidden "Anubrióse\&apos;l to panel de marcadores">
 
@@ -44,10 +44,10 @@
 <!ENTITY  crash_include_url2 "Incluyir la direición de la páxina na que taba">
 <!ENTITY  crash_sorry "Sentímoslo">
 <!ENTITY  crash_comment "Amiesta un comentariu (los comentarios son públicos)">
-<!ENTITY  crash_allow_contact2 "Permitir a &vendorShortName; contautame tocante esti informe">
+<!ENTITY  crash_allow_contact2 "Permitir a &vendorShortName; contautame tocante a esti informe">
 <!ENTITY  crash_email "El to corréu">
 <!ENTITY  crash_closing_alert "¿Colar ensin unviar l\&apos;informe de fallu?">
-<!ENTITY  sending_crash_report "Unviando informe del casque \u2026">
+<!ENTITY  sending_crash_report "Unviando informe del casque\u2026">
 <!ENTITY  crash_close_label "Zarrar">
 <!ENTITY  crash_restart_label "Reaniciar &brandShortName;">
 
@@ -55,15 +55,15 @@
 
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_remove "Desaniciar marcador">
-<!ENTITY bookmark_added "Marcador amestáu">
+<!ENTITY bookmark_added "Amestóse\&apos;l marcador">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Yá ta en Marcadores">
-<!ENTITY bookmark_removed "Marcador desaniciáu">
-<!ENTITY bookmark_updated "Marcador anováu">
+<!ENTITY bookmark_removed "Desanicióse\&apos;l marcador">
+<!ENTITY bookmark_updated "Anovóse\&apos;l marcador">
 <!ENTITY bookmark_options "Opciones">
-<!ENTITY screenshot_added_to_bookmarks "Captura amestada a Marcadores">
+<!ENTITY screenshot_added_to_bookmarks "Amestóse la captura a Marcadores">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -108,7 +108,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
-<!ENTITY tab_title_prefix_is_playing_audio "Reproduciendo – &formatS;">
+<!ENTITY tab_title_prefix_is_playing_audio "Reproduciendo audiu – &formatS;">
 
 <!ENTITY settings "Axustes">
 <!ENTITY settings_title "Axustes">
@@ -164,7 +164,7 @@
 <!ENTITY pref_learn_more "Depriendi más">
 <!ENTITY pref_category_installed_search_engines "Motores de gueta instalaos">
 <!ENTITY pref_category_add_search_providers "Amestar más fornidores de gueta">
-<!ENTITY pref_category_search_restore_defaults "Restaurer motores de gueta">
+<!ENTITY pref_category_search_restore_defaults "Restaurar motores de gueta">
 <!ENTITY pref_search_restore_defaults "Reafitar">
 <!ENTITY pref_search_restore_defaults_summary "Reafitar">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
@@ -238,12 +238,12 @@
 <!ENTITY pref_show_web_fonts_summary2 "Baxa les fontes remotes al cargar una páxina">
 
 <!ENTITY pref_tracking_protection_title2 "Proteición de rastrexu">
-<!ENTITY pref_tracking_protection_summary3 "Habilitada nel restolar en privao">
+<!ENTITY pref_tracking_protection_summary3 "Habilitada al restolar en privao">
 <!ENTITY pref_donottrack_title "Nun rastrexar">
-<!ENTITY pref_donottrack_summary "&brandShortName; dirá-y a los sitios que nun quies ser rastrexáu">
+<!ENTITY pref_donottrack_summary "&brandShortName; va dici-y a los sitios que nun quies ser rastrexáu">
 
 <!ENTITY pref_tracking_protection_enabled "Habilitada">
-<!ENTITY pref_tracking_protection_enabled_pb "Habilitada nel restolar en privao">
+<!ENTITY pref_tracking_protection_enabled_pb "Habilitada al restolar en privao">
 <!ENTITY pref_tracking_protection_disabled "Deshabilitada">
 
 <!ENTITY pref_whats_new_notification "Qué hai nuevo en &brandShortName;">
@@ -301,7 +301,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Llimpiar agora">
 <!ENTITY pref_clear_on_exit_title3 "Llimpiar datos privaos al colar">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; llimpiará automáticamente los tos datos siempres qu\&apos;esbilles \u00abColar\u00bb dende\&apos;l menú principal">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; va llimpiar automáticamente los tos datos siempres qu\&apos;esbilles \u00abColar\u00bb dende\&apos;l menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Esbilla qué datos llimpiar">
 <!ENTITY pref_plugins "Estensiones">
 <!ENTITY pref_plugins_enabled "Habilitáu">
@@ -326,7 +326,7 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "El rápidu raposu naranxa salta penriba les tos espeutatives con más velocidá, más flexibilidá y más seguranza. Como una organización ensin ánimu de llucru, tenemos la llibertá d\&apos;innovar nel to nome ensin presión dala que te comprometa. Esto quier dicir una meyor esperiencia pa ti y un futuru destacáu pa la web.">
+<!ENTITY pref_font_size_preview_text "El rápidu raposu naranxa salta penriba les tos espeutatives con más velocidá, más flexibilidá y más seguranza. Como una organización ensin ánimu de llucru, tenemos la llibertá d\&apos;innovar nel to nome ensin presión dala que te comprometa. Esto quier dicir, una meyor esperiencia pa ti y un futuru destacáu pa la web.">
 
 <!ENTITY pref_media_autoplay_enabled "Permitir auto-reproducción">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web puen auto-reproducir videos y otru conteníu">
@@ -431,7 +431,7 @@ size. -->
 <!ENTITY close_private_tabs "Zarrar llingüetes privaes">
 <!ENTITY tabs_normal "Llingüetes">
 <!ENTITY tabs_private "Privaes">
-<!ENTITY set_image_fail "Nun pue afitase la semeya">
+<!ENTITY set_image_fail "Nun pue afitase la imaxe">
 <!ENTITY set_image_path_fail "Nun pue guardase la imaxe">
 <!ENTITY set_image_chooser_title "Afitar imaxe como">
 
@@ -670,13 +670,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY exit_guest_session "Colar de sesión de convidáu">
 <!ENTITY guest_session_dialog_continue "Siguir">
 <!ENTITY guest_session_dialog_cancel "Encaboxar">
-<!ENTITY new_guest_session_title "Agora &brandShortName; reaniciaráse">
-<!ENTITY new_guest_session_text2 "La persona que la use nun sedrá a ver datos personales de restolar de to (como anicios de sesión guardaos, historial o marcadores).\n\nCuando\&apos;l to convidáu/ada fine, desaniciaránse los sos datos de restolar y restauraráse la to sesión.">
+<!ENTITY new_guest_session_title "Agora &brandShortName; va reaniciase">
+<!ENTITY new_guest_session_text2 "La persona que la use nun va ser a ver datos personales de restolar de to (como anicios de sesión guardaos, historial o marcadores).\n\nCuando\&apos;l to convidáu/ada fine, van desaniciase los sos datos de restolar y va restaurase la to sesión.">
 <!ENTITY guest_browsing_notification_title "Habilitóse\&apos;l restolar de convidáu">
 <!ENTITY guest_browsing_notification_text "Calca pa colar">
 
 <!ENTITY exit_guest_session_title "&brandShortName; va reaniciase">
-<!ENTITY exit_guest_session_text "Desaniciaránse los datos de restolar d\&apos;esta sesión.">
+<!ENTITY exit_guest_session_text "Van desaniciase los datos de restolar d\&apos;esta sesión.">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -716,7 +716,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-<!ENTITY intent_uri_private_browsing_prompt "Esti enllaz abriráse en &formatS;. ¿De xuru que quies colar de restolar en privao?">
+<!ENTITY intent_uri_private_browsing_prompt "Esti enllaz va abrise en &formatS;. ¿De xuru que quies colar de restolar en privao?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -767,7 +767,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "¡Perdón! &brandShortName; nun va furrular nesti preséu (&formatS1;, &formatS2;). Baxa la versión correuta, por favor.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; yá nun s\&apos;anovará">
+<!ENTITY eol_notification_title2 "&brandShortName; yá nun va anovase">
 <!ENTITY eol_notification_summary "Calca pa deprender más">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
