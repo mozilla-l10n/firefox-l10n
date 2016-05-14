@@ -40,7 +40,7 @@
 <!ENTITY syncDeviceName.label       "Įrenginio vardas:">
 <!ENTITY syncDeviceName.accesskey   "v">
 <!ENTITY fxaSyncDeviceName.label       "Įrenginio pavadinimas">
-<!ENTITY changeSyncDeviceName.label "Pakeisti įrenginio pavadinimą…">
+<!ENTITY changeSyncDeviceName.label "Keisti įrenginio pavadinimą…">
 <!ENTITY cancelChangeSyncDeviceName.label "Atsisakyti">
 <!ENTITY saveChangeSyncDeviceName.label "Įrašyti">
 <!ENTITY unlinkDevice.label           "Atsieti šį įrenginį">
@@ -85,7 +85,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedOut.caption            "Pasiimkite savo saityną kartu">
 <!ENTITY signedOut.description        "Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus bei nuostatas visuose savo įrenginiuose.">
-<!ENTITY signedOut.accountBox.title   "Jungtis su „&syncBrand.fxAccount.label;“">
+<!ENTITY signedOut.accountBox.title   "Jungtis su &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Kurti paskyrą">
 <!ENTITY signedOut.accountBox.signin  "Prisijungti">
 
