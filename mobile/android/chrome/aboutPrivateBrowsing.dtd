@@ -13,7 +13,7 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "您目前未处于隐私浏览模式">
 
-<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; 将阻止页面中可能跟踪您的浏览行为的部分。">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; 将拦截页面中可能跟踪您的浏览行为的部分。">
 <!ENTITY privatebrowsingpage.description.privateDetails "我们不会记住任何浏览历史，但下载的文件和新添加的书签仍会保存在您的设备上。">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
