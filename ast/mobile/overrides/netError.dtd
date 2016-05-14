@@ -81,7 +81,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Téntalo de nueves. &brandShortName; tentará d'abrir una conexón y recargar la páxina.
+  <li>Téntalo de nueves. &brandShortName; va tentar d'abrir una conexón y recargar la páxina.
     <button id='wifi'>Habilitar Wi-Fi</button>
   </li>
 </ul>
