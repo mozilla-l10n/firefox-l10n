@@ -22,7 +22,7 @@
 
 <!ENTITY navbarCmd.label "Navigationsfält">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY bookmarksToolbarCmd.label     "Bokmärkesfält">
+<!ENTITY bookmarksToolbarCmd.label     "Bokmärkesfältet">
 <!ENTITY bookmarksToolbarCmd.accesskey "m">
 
 <!ENTITY closeWindow.label "Stäng fönstret">
@@ -35,12 +35,12 @@
 <!ENTITY feedsMenu.accesskey "P">
 
 <!ENTITY menuBar.tooltip              "Menyrad">
-<!ENTITY bookmarksToolbar.tooltip         "Bokmärkesfält">
+<!ENTITY bookmarksToolbar.tooltip         "Bokmärkesfältet">
 <!ENTITY navigationToolbar.tooltip        "Navigationsfält">
 
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Bakåt">
-<!ENTITY backButton.tooltip           "Gå tillbaka en sida">
+<!ENTITY backButton.tooltip           "Gå bakåt en sida">
 <!ENTITY forwardButton.label          "Framåt">
 <!ENTITY forwardButton.tooltip        "Gå framåt en sida">
 <!ENTITY reloadButton.label           "Uppdatera">

@@ -6,7 +6,7 @@
 <!ENTITY     tab.bannedservers.label        "Kakor och webbplatser">
 <!ENTITY     div.bannedservers.label        "Hantera webbplatser som får eller inte får lagra kakor på din dator.">
 <!ENTITY     div.cookiesonsystem.label      "Visa och ta bort kakor som lagrats på din dator.">
-<!ENTITY     treehead.cookiename.label      "Kaknamn">
+<!ENTITY     treehead.cookiename.label      "Kakans namn">
 <!ENTITY     treehead.cookiedomain.label    "Webbplats"> 
 <!ENTITY     treehead.cookieexpires.label   "Förfaller"> 
 <!ENTITY     treehead.infoselected.label    "Information om den valda kakan">

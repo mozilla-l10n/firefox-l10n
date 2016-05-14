@@ -20,9 +20,9 @@
 
 <!ENTITY view.unsorted.label            "Osorterad">
 <!ENTITY view.unsorted.accesskey        "O">
-<!ENTITY view.sortAscending.label       "A > Ö ordning">
+<!ENTITY view.sortAscending.label       "Ordna A > Ö">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Ö > A ordning">
+<!ENTITY view.sortDescending.label      "Ordna Ö > A">
 <!ENTITY view.sortDescending.accesskey  "Ö">
 
 <!ENTITY view.groupNone.label           "Inget">
@@ -41,9 +41,9 @@
 <!ENTITY cmd.open_tab.label             "Öppna länk i ny flik">
 <!ENTITY cmd.open_tab.accesskey         "l">
 
-<!ENTITY bookmarkLinkCmd.label          "Lägg till bokmärke för länkmål">
+<!ENTITY bookmarkLinkCmd.label          "Skapa bokmärke för denna länk">
 <!ENTITY bookmarkLinkCmd.accesskey      "b">
-<!ENTITY bookmarkLinksCmd.label         "Lägg till bokmärken för dessa länkar">
+<!ENTITY bookmarkLinksCmd.label         "Skapa bokmärken för dessa länkar">
 <!ENTITY bookmarkLinksCmd.accesskey     "l">
 
 <!ENTITY col.title.label                "Namn">

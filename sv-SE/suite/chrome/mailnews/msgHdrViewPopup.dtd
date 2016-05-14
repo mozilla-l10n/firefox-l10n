@@ -19,7 +19,7 @@
 <!ENTITY openInBrowser.accesskey           "i">
 <!ENTITY bookmarkLinkCmd.label             "Skapa bokmärke för denna länk…">
 <!ENTITY bookmarkLinkCmd.accesskey         "b">
-<!ENTITY copyLinkCmd.label                 "Kopiera länkadressen">
+<!ENTITY copyLinkCmd.label                 "Kopiera länkadress">
 <!ENTITY copyLinkCmd.accesskey             "o">
 <!ENTITY CopyMessageId.label               "Kopiera meddelandeadressen">
 <!ENTITY CopyMessageId.accesskey           "p">

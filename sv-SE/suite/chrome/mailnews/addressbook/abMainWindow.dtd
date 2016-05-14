@@ -92,7 +92,7 @@
 <!ENTITY newmsgButton.tooltip "Skapa nytt meddelande">
 <!ENTITY newIM.tooltip                                  "Skicka ett snabbmeddelande eller chatta"> 
 <!ENTITY deleteItemButton.tooltip                       "Ta bort markerade kontakter eller adressboken">
-<!ENTITY throbber.tooltip                               "Går till &vendorShortName;s webbplats">
+<!ENTITY throbber.tooltip                               "Gå till &vendorShortName;s webbplats">
 <!ENTITY advancedButton.tooltip                         "Avancerad adressökning">
 
 <!-- Dir Tree header -->

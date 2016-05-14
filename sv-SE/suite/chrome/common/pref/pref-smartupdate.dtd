@@ -8,8 +8,8 @@
 <!ENTITY addOnsAllow.label                    "Tillåt webbplatser att installera programtillägg och uppdateringar">
 <!ENTITY addOnsAllow.accesskey                "T">
 <!ENTITY allowedSitesLink.label               "Tillåtna webbplatser">
-<!ENTITY autoAddOnsUpdates.label              "Kontrollera automatiskt om det finns uppdateringar">
-<!ENTITY autoAddOnsUpdates.accesskey          "K">
+<!ENTITY autoAddOnsUpdates.label              "Sök efter uppdateringar automatiskt">
+<!ENTITY autoAddOnsUpdates.accesskey          "k">
 <!ENTITY daily.label                          "dagligen">
 <!ENTITY addOnsDaily.accesskey                "d">
 <!ENTITY weekly.label                         "varje vecka">

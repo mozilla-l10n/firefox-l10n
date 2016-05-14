@@ -136,9 +136,9 @@ items are mutually exclusive. -->
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Byt textriktning">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "y">
-<!ENTITY spellAddToDictionary.label     "Lägg till ordlistan">
+<!ENTITY spellAddToDictionary.label     "Lägg till i ordlista">
 <!ENTITY spellAddToDictionary.accesskey "t">
-<!ENTITY spellUndoAddToDictionary.label      "Ångra lägg till ordlistan">
+<!ENTITY spellUndoAddToDictionary.label      "Ångra lägg till i ordlista">
 <!ENTITY spellUndoAddToDictionary.accesskey  "l">
 <!ENTITY spellIgnoreWord.label          "Ignorera ord">
 <!ENTITY spellIgnoreWord.accesskey      "I">

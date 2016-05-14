@@ -7,7 +7,7 @@
 <!ENTITY importAll.accesskey      "a">
 <!ENTITY importMail.label         "E-post">
 <!ENTITY importMail.accesskey     "E">
-<!ENTITY importFeeds.label        "Flödesprenumerationer">
+<!ENTITY importFeeds.label        "RSS-prenumerationer">
 <!ENTITY importFeeds.accesskey    "p">
 <!ENTITY importAddressbook.label  "Adressböcker">
 <!ENTITY importAddressbook.accesskey "A">

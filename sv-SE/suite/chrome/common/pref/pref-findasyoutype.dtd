@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.findAsYouType.title "Hitta medan du skriver">
-<!ENTITY findAsYouTypeBehavior.label "Hitta medan du skriver">
+<!ENTITY pref.findAsYouType.title "Sök medan du skriver">
+<!ENTITY findAsYouTypeBehavior.label "Sök medan du skriver">
 <!ENTITY findAsYouTypeTip.label "Tips: För att manuellt starta &quot;Hitta medan du skriver&quot; så skriv / för att hitta text eller ' för att hitta länkar, följt av texten som du vill hitta.">
 <!ENTITY findAsYouTypeTimeout.label "Avbryt sökandet efter några sekunders inaktivitet">
 <!ENTITY findAsYouTypeTimeout.accesskey "A">

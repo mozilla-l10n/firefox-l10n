@@ -6,7 +6,7 @@
 <!ENTITY newFolderDialog.title      "Ny mapp">
 <!ENTITY name.label                 "Namn:">
 <!ENTITY name.accesskey             "N">
-<!ENTITY description.label          "Skapa undermapp i:">
+<!ENTITY description.label          "Skapa som undermapp till:">
 <!ENTITY description.accesskey      "k">
 <!ENTITY folderRestriction1.label   "Servern begränsar mappar till två speciella typer.">
 <!ENTITY folderRestriction2.label   "Tillåt din nya mapp att innehålla:">
