@@ -536,7 +536,9 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title                      "&brandShortName;i avaleht">
 <!ENTITY home_history_title              "Ajalugu">
-<!ENTITY home_history_back_to            "Mine tagasi ajaloo juurde">
+<!ENTITY home_synced_devices_smartfolder "Sünkroniseeritud seadmed">
+<!ENTITY home_synced_devices_number      "&formatD; seadet">
+<!ENTITY home_history_back_to2           "Mine tagasi täieliku ajaloo juurde">
 <!ENTITY home_clear_history_button       "Kustuta lehitsemise ajalugu">
 <!ENTITY home_clear_history_confirm      "Kas oled kindel, et soovid ajaloo kustutada?">
 <!ENTITY home_bookmarks_empty            "Lisatud järjehoidjad ilmuvad siia.">
