@@ -4,6 +4,6 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-<!ENTITY ChooseApp.description "Wybierz aplikację">
+<!ENTITY ChooseOtherApp.description "Inna aplikacja">
 <!ENTITY ChooseApp.label "Wybierz…">
 <!ENTITY ChooseApp.accessKey "W">
