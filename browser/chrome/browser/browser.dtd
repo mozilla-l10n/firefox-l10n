@@ -695,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "اتصال شما با این سایت خصوصی نیست. اطلاعاتی که شما ثبت می‌کنید ممکن است توسط دیگران دیده شود (مانند گذرواژه‌ها، پیام‌ها، کارت‌های بانکی و غیره).">
 <!ENTITY identity.description.insecureLoginForms "اطلاعات ورود شما که در این صفحه وارد می‌کنید امن نیستند و ممکن است در معرض خطر باشند.">
 <!ENTITY identity.description.weakCipher "اتصال شما با این سایت از کدگذاری ضعیفی استفاده می‌کند و خصوصی نیست.">
-
+<!ENTITY identity.description.weakCipher2 "افراد دیگر می‌توانند اطلاعات شما را ببینید یا رفتار سایت را تغییر دهند.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; قسمت‌هایی از این صفحه را که ایمن نیستند، مسدود کرده است.">
 <!ENTITY identity.description.passiveLoaded "اتصال شما خصوصی نیست و اطلاعاتی که با سایت اشتراک می‌گذارید می‌تواند توسط دیگران دیده شود.">
 <!ENTITY identity.description.passiveLoaded2 "این سایت حاوی محتوایی است که ایمن نیستند (مانند تصاویر).">
@@ -725,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "زبانه‌های همگام‌سازی شده">
 
 <!ENTITY syncedTabs.sidebar.label              "زبانه‌های همگام شده">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "در دستگاه‌های دیگر خود وارد حساب فایرفاکس شوید تا زبانه‌های باز آنها را اینجا ببینید.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "هیچ زبانهٔ بهنگام‌سازی شده‌ای نیست… هنوز!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "مایلید زبانه‌های خود را از سایر دستگاه‌ها اینجا ببینید؟">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "برای نمایش فهرست زبانه‌ها از دستگاه‌های دیگر وارد شوید.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "بدون زبانهٔ باز">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "باز کردن ترجیحات &syncBrand.shortName.label;">
@@ -735,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "همگام‌سازی زبانه‌ها را برای نمایش فهرست زبانه‌ها در دستگاه‌های دیگر خود روشن کنید.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "باز کردن‌">
+<!ENTITY syncedTabs.context.open.accesskey                   "ب">
+<!ENTITY syncedTabs.context.openInNewTab.label               "باز کردن در زبانهٔ جدید">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "ج">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "باز کردن در پنجرهٔ جدید">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "ج">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "باز کردن در پنجرهٔ ناشناس جدید">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "ن">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "نشانک‌گذاری این زبانه…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ن">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "رونوشت">
+<!ENTITY syncedTabs.context.copy.accesskey                   "ر">
 
 
 <!ENTITY syncBrand.shortName.label    "هم‌گام‌سازی">
