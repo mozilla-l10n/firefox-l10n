@@ -28,16 +28,6 @@
 
 <!ENTITY  evangelism.desc                 "Aktualizacja programu &brandShortName; jest wysoce zalecana.">
 
-<!ENTITY  license.instructions            "Jeśli akceptujesz warunki licencji, kliknij przycisk „Zgadzam się”, aby kontynuować instalację aktualizacji.">
-
-<!ENTITY  license.titleText               "Umowa licencyjna oprogramowania">
-<!ENTITY  license.introText               "Warunki korzystania z tego oprogramowania">
-<!ENTITY  license.instructionText         "Prosimy zapoznać się z poniższą umową licencyjną. Aby przeczytać dalszą część umowy, należy użyć paska przewijania">
-<!ENTITY  license.accept                  "Akceptuję warunki umowy licencyjnej">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "NIE akceptuję warunków umowy licencyjnej">
-<!ENTITY  license.decline.accesskey       "t">
-
 <!ENTITY incompatibleList.title "Znaleziono niezgodne dodatki">
 
 <!ENTITY  downloadPage.title              "Pobieranie programu &brandShortName;">
