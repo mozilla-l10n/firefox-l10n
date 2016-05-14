@@ -78,8 +78,6 @@
 <!ENTITY updateCheck.accesskey           "S">
 <!ENTITY updateManual.label              "Nie sprawdzaj dostępności aktualizacji (niezalecane: zagrożenie bezpieczeństwa)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Ostrzeż, jeśli spowoduje to wyłączenie któregoś z dodatków">
-<!ENTITY updateAutoAddonWarn.accesskey   "O">
 <!ENTITY updateHistory.label             "Wyświetl historię aktualizacji">
 <!ENTITY updateHistory.accesskey         "W">
 <!ENTITY useService.label                "Używaj usługi instalowania aktualizacji działającej w tle">
