@@ -1,124 +1,124 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Library">
+
+<!ENTITY places.library.title  "Biblioteka">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Organize">
+<!ENTITY organize.label        "Organizēt">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organize your bookmarks">
+<!ENTITY organize.tooltip      "Organizēt gruomotzeimes">
 
-<!ENTITY file.close.label               "Close">
-<!ENTITY file.close.accesskey           "C">
+<!ENTITY file.close.label               "Aiztaiseit">
+<!ENTITY file.close.accesskey           "z">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "Views">
-<!ENTITY views.accesskey                "V">
-<!ENTITY views.tooltip                  "Change your view">
-<!ENTITY view.columns.label             "Show Columns">
-<!ENTITY view.columns.accesskey         "C">
-<!ENTITY view.sort.label                "Sort">
-<!ENTITY view.sort.accesskey            "S">
-<!ENTITY view.unsorted.label            "Unsorted">
-<!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "A > Z Sort Order">
+<!ENTITY views.label                    "Skoti">
+<!ENTITY views.accesskey                "S">
+<!ENTITY views.tooltip                  "Izmainit skotus">
+<!ENTITY view.columns.label             "Ruodeit kolonys">
+<!ENTITY view.columns.accesskey         "k">
+<!ENTITY view.sort.label                "Kuortuot">
+<!ENTITY view.sort.accesskey            "K">
+<!ENTITY view.unsorted.label            "Nakuortuots">
+<!ENTITY view.unsorted.accesskey        "N">
+<!ENTITY view.sortAscending.label       "A > Z kuorteiba">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Z > A Sort Order">
+<!ENTITY view.sortDescending.label      "Z > A kuorteiba">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Import Bookmarks from HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Importeit gruomotzeimes nu HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Export Bookmarks to HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Eksporteit gruomotzeimes iz HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Import Data from Another Browser…">
-<!ENTITY importOtherBrowser.accesskey      "A">
+<!ENTITY importOtherBrowser.label          "Importeit datus nu cyta puorlūka…">
+<!ENTITY importOtherBrowser.accesskey      "a">
 
-<!ENTITY cmd.backup.label               "Backup…">
-<!ENTITY cmd.backup.accesskey           "B">
-<!ENTITY cmd.restore2.label             "Restore">
-<!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "Choose File…">
-<!ENTITY cmd.restoreFromFile.accesskey  "C">
+<!ENTITY cmd.backup.label               "Izveiduot rezerves puorspīdumus...">
+<!ENTITY cmd.backup.accesskey           "I">
+<!ENTITY cmd.restore2.label             "Atjaunuot">
+<!ENTITY cmd.restore2.accesskey         "A">
+<!ENTITY cmd.restoreFromFile.label      "Izavieleit failu...">
+<!ENTITY cmd.restoreFromFile.accesskey  "I">
 
-<!ENTITY cmd.bookmarkLink.label         "Bookmark This Page…">
-<!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "Delete This Page">
+<!ENTITY cmd.bookmarkLink.label         "Saglobuot itū lopu gruomotzeimēs…">
+<!ENTITY cmd.bookmarkLink.accesskey     "S">
+<!ENTITY cmd.delete.label               "Dzēst itū lopu">
 <!ENTITY cmd.delete.accesskey           "D">
-<!ENTITY cmd.deleteDomainData.label     "Forget About This Site">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
+<!ENTITY cmd.deleteDomainData.label     "Aizmierst/damierst par itū lopu">
+<!ENTITY cmd.deleteDomainData.accesskey "A">
 
-<!ENTITY cmd.open.label                  "Open">
-<!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Open in a New Window">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "Open in a New Private Window">
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "Open in a New Tab">
-<!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "Open All in Tabs">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
+<!ENTITY cmd.open.label                  "Attaiseit">
+<!ENTITY cmd.open.accesskey              "A">
+<!ENTITY cmd.open_window.label           "Attaiseit jaunuo lūgā">
+<!ENTITY cmd.open_window.accesskey       "n">
+<!ENTITY cmd.open_private_window.label     "Attaiseit saiti jaunuo privatajā lūgā">
+<!ENTITY cmd.open_private_window.accesskey "p">
+<!ENTITY cmd.open_tab.label              "Attaiseit jaunuo cilnē">
+<!ENTITY cmd.open_tab.accesskey          "u">
+<!ENTITY cmd.open_all_in_tabs.label      "Attaiseit vysys cilnēs">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "A">
 
-<!ENTITY cmd.properties.label      "Properties">
-<!ENTITY cmd.properties.accesskey  "i">
+<!ENTITY cmd.properties.label      "Eipašeibys">
+<!ENTITY cmd.properties.accesskey  "p">
 
-<!ENTITY cmd.sortby_name.label              "Sort By Name">
-<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.sortby_name.label              "Kuortuot piec nūsaukuma">
+<!ENTITY cmd.sortby_name.accesskey          "K">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "New Bookmark…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "New Folder…">
-<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.new_bookmark.label            "Jauns gruomotzeime...">
+<!ENTITY cmd.new_bookmark.accesskey        "g">
+<!ENTITY cmd.new_folder.label              "Jauns mape...">
+<!ENTITY cmd.new_folder.accesskey          "m">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "New Separator">
-<!ENTITY cmd.new_separator.accesskey       "S">
+<!ENTITY cmd.new_separator.label           "Jauns atdaleituojs">
+<!ENTITY cmd.new_separator.accesskey       "s">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Reload Live Bookmark">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
+<!ENTITY cmd.reloadLivebookmark.label      "Puorluodeit dzeivuos gruomotzeimes">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "r">
 
-<!ENTITY cmd.moveBookmarks.label                  "Move…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
+<!ENTITY cmd.moveBookmarks.label                  "Puorvītuot...">
+<!ENTITY cmd.moveBookmarks.accesskey              "P">
 
-<!ENTITY col.name.label          "Name">
-<!ENTITY col.tags.label          "Tags">
-<!ENTITY col.url.label           "Location">
-<!ENTITY col.mostrecentvisit.label "Most Recent Visit">
-<!ENTITY col.visitcount.label    "Visit Count">
-<!ENTITY col.description.label   "Description">
-<!ENTITY col.dateadded.label     "Added">
-<!ENTITY col.lastmodified.label  "Last Modified">
+<!ENTITY col.name.label          "Nūsaukums">
+<!ENTITY col.tags.label          "Birkys">
+<!ENTITY col.url.label           "Adress">
+<!ENTITY col.mostrecentvisit.label "Piedejais apmekliejums">
+<!ENTITY col.visitcount.label    "Apmekliejumu skaits">
+<!ENTITY col.description.label   "Aproksts">
+<!ENTITY col.dateadded.label     "Pīvīnuota">
+<!ENTITY col.lastmodified.label  "Piedejū reizi lobuota">
 
-<!ENTITY search.label                              "Search:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.label                              "Mekleit:">
+<!ENTITY search.accesskey                          "M">
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Import and Backup">
+<!ENTITY maintenance.label      "Importeišona i rezerves kopiešona">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
+<!ENTITY maintenance.tooltip    "Gruomotzeimju importeišona i rezerves kopiešona">
 
-<!ENTITY backButton.tooltip  "Go back">
+<!ENTITY backButton.tooltip  "Īt atpakaļ">
 
-<!ENTITY forwardButton.tooltip  "Go forward">
+<!ENTITY forwardButton.tooltip  "Īt iz prīšku">
 
-<!ENTITY detailsPane.more.label "More">
-<!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "Less">
-<!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.selectAnItemText.description "Select an item to view and edit its properties">
+<!ENTITY detailsPane.more.label "Vairuok">
+<!ENTITY detailsPane.more.accesskey "k">
+<!ENTITY detailsPane.less.label "Mozuok">
+<!ENTITY detailsPane.less.accesskey "z">
+<!ENTITY detailsPane.selectAnItemText.description "Izavielit elementu, kū apsavērt voi redigeit">
 
-<!ENTITY find.label               "Search:">
-<!ENTITY find.accesskey           "S">
-<!ENTITY view.label               "View">
-<!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "By Date">
-<!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "By Site">
-<!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "By Most Visited">
-<!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "By Last Visited">
-<!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "By Date and Site">
+<!ENTITY find.label               "Mekleit:">
+<!ENTITY find.accesskey           "M">
+<!ENTITY view.label               "Skots">
+<!ENTITY view.accesskey           "t">
+<!ENTITY byDate.label             "Piec datuma">
+<!ENTITY byDate.accesskey         "d">
+<!ENTITY bySite.label             "Piec vītnes">
+<!ENTITY bySite.accesskey         "s">
+<!ENTITY byMostVisited.label      "Piec vysbīžuokuo apmekliejuma">
+<!ENTITY byMostVisited.accesskey  "v">
+<!ENTITY byLastVisited.label      "Piec pādejuo apmekliejuma">
+<!ENTITY byLastVisited.accesskey  "l">
+<!ENTITY byDayAndSite.label       "Piec datuma i vītnes">
 <!ENTITY byDayAndSite.accesskey   "t">

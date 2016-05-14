@@ -3,18 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Import Wizard">
+<!ENTITY migrationWizard.title          "Importiešonys vednis">
 
-<!ENTITY importFrom.label               "Import Options, Bookmarks, History, Passwords and other data from:">
-<!ENTITY importFromUnix.label           "Import Preferences, Bookmarks, History, Passwords and other data from:">
-<!ENTITY importFromBookmarks.label      "Import Bookmarks from:">
+<!ENTITY importFrom.label               "Importeit īstatiejumus, gruomotzeimes, viesturi, paroles i cytus datus nu:">
+<!ENTITY importFromUnix.label           "Importeit īstatiejumus, gruomotzeimes, viesturi, paroles i cytus datus nu:">
+<!ENTITY importFromBookmarks.label      "Importeit gruomotzeimes nu:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
-<!ENTITY importFromNothing.label        "Don't import anything">
-<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromNothing.label        "Naimporteit nikū">
+<!ENTITY importFromNothing.accesskey    "N">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromCanary.label         "Chrome Canary">
@@ -24,23 +24,23 @@
 <!ENTITY importFromChromium.label       "Chromium">
 <!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
-<!ENTITY importFromFirefox.accesskey    "X">
-<!ENTITY importFrom360se.label          "360 Secure Browser">
+<!ENTITY importFromFirefox.accesskey    "x">
+<!ENTITY importFrom360se.label          "360 Drūss puorlūks">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "No programs that contain bookmarks, history or password data could be found.">
+<!ENTITY noMigrationSources.label       "Nav atrosta nivīna programa, nu kurys importeit gruomotzeimes, viesturi voi paroļu informaceju.">
 
-<!ENTITY importSource.title             "Import Settings and Data">
-<!ENTITY importItems.title              "Items to Import">
-<!ENTITY importItems.label              "Select which items to import:">
+<!ENTITY importSource.title             "Importeit īstatiejumus i datus">
+<!ENTITY importItems.title              "Importiejamī elementi">
+<!ENTITY importItems.label              "Izavielit importiejamūs elementus:">
 
-<!ENTITY migrating.title                "Importing…">
-<!ENTITY migrating.label                "The following items are currently being imported…">
+<!ENTITY migrating.title                "Nūteik importeišona...">
+<!ENTITY migrating.label                "Tīk importeiti izavālātī elementi...">
 
-<!ENTITY selectProfile.title            "Select Profile">
-<!ENTITY selectProfile.label            "The following profiles are available to import from:">
+<!ENTITY selectProfile.title            "Izavielit profilu">
+<!ENTITY selectProfile.label            "Datus var importeit nu itim profilym:">
 
-<!ENTITY done.title                     "Import Complete">
-<!ENTITY done.label                     "The following items were successfully imported:">
+<!ENTITY done.title                     "Importeišona ir pabeigta">
+<!ENTITY done.label                     "Tyka sekmeigi importeiti:">
 
-<!ENTITY closeSourceBrowser.label       "Please ensure the selected browser is closed before continuing.">
+<!ENTITY closeSourceBrowser.label       "Lyudzu puorsalīcinojit ka izavālātais puorlūks ir aiztaiseits pyrms turpynuot.">

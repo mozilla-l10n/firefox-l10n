@@ -2,34 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.width                       "36em">
+<!ENTITY window.width                       "40em">
 
-<!ENTITY     cookiesonsystem.label          "The following cookies are stored on your computer:">
-<!ENTITY     cookiename.label               "Cookie Name">
-<!ENTITY     cookiedomain.label             "Site"> 
+<!ENTITY     cookiesonsystem.label          "Itaidys seikdatnes ir saglobuotys jiusu datorā:">
+<!ENTITY     cookiename.label               "Seikdatnes nūsaukums">
+<!ENTITY     cookiedomain.label             "Vītne"> 
 <!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
   The label associated with this accesskey can be found in 
   preferences.properties as removeSelectedCookies.
 -->
 <!ENTITY     button.removeSelectedCookies.accesskey "R">
-<!ENTITY     button.removeAllCookies.label "Remove All">
-<!ENTITY     button.removeAllCookies.accesskey "A">
+<!ENTITY     button.removeAllCookies.label "Izmest vysys">
+<!ENTITY     button.removeAllCookies.accesskey "I">
 
-<!ENTITY     props.name.label               "Name:">
-<!ENTITY     props.value.label              "Content:">
-<!ENTITY     props.domain.label             "Host:">
-<!ENTITY     props.path.label               "Path:">
-<!ENTITY     props.secure.label             "Send For:">
-<!ENTITY     props.expires.label            "Expires:">
+<!ENTITY     props.name.label               "Nūsaukums:">
+<!ENTITY     props.value.label              "Saturs:">
+<!ENTITY     props.domain.label             "Resursdators:">
+<!ENTITY     props.path.label               "Ceļš:">
+<!ENTITY     props.secure.label             "Syuteits:">
+<!ENTITY     props.expires.label            "Dereiguma termeņš:">
 <!ENTITY     props.container.label          "Container:">
 
-<!ENTITY     window.title                   "Cookies">
+<!ENTITY     window.title                   "Seikdatnes">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Search:">
-<!ENTITY     filter.accesskey               "S">
+<!ENTITY     filter.label                   "Mekleit:">
+<!ENTITY     filter.accesskey               "M">
 
-<!ENTITY     button.close.label             "Close">
-<!ENTITY     button.close.accesskey         "C">
+<!ENTITY     button.close.label             "Aiztaiseit">
+<!ENTITY     button.close.accesskey         "z">

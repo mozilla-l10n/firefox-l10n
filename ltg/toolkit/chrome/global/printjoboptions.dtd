@@ -1,29 +1,29 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printJobOptions.title "Printer Properties">
 
-<!ENTITY paperInput.label "Paper Size:">
-<!ENTITY paperInput.accesskey "P">
+<!ENTITY printJobOptions.title "Printera īstatiejumi">
 
-<!ENTITY jobTitleInput.label "Job Title:">
-<!ENTITY jobTitleInput.accesskey "J">
+<!ENTITY paperInput.label "Papeira izmārs:">
+<!ENTITY paperInput.accesskey "z">
 
-<!ENTITY colorGroup.label "Color:">
-<!ENTITY grayRadio.label "Grayscale">
-<!ENTITY grayRadio.accesskey "G">
-<!ENTITY colorRadio.label "Color">
-<!ENTITY colorRadio.accesskey "C">
+<!ENTITY jobTitleInput.label "Dorba nūsaukums:">
+<!ENTITY jobTitleInput.accesskey "n">
 
-<!ENTITY edgeMarginInput.label "Gap from edge of paper to Margin">
-<!ENTITY topInput.label "Top:">
-<!ENTITY topInput.accesskey "T">
-<!ENTITY bottomInput.label "Bottom:">
-<!ENTITY bottomInput.accesskey "B">
-<!ENTITY leftInput.label "Left:">
-<!ENTITY leftInput.accesskey "L">
-<!ENTITY rightInput.label "Right:">
-<!ENTITY rightInput.accesskey "R">
+<!ENTITY colorGroup.label "Kruosys:">
+<!ENTITY grayRadio.label "Malnbolts">
+<!ENTITY grayRadio.accesskey "M">
+<!ENTITY colorRadio.label "Kruosains">
+<!ENTITY colorRadio.accesskey "K">
+
+<!ENTITY edgeMarginInput.label "Atstorpe nu dokumenta leidz papeira molai">
+<!ENTITY topInput.label "Augšā:">
+<!ENTITY topInput.accesskey "A">
+<!ENTITY bottomInput.label "Zamuškā:">
+<!ENTITY bottomInput.accesskey "Z">
+<!ENTITY leftInput.label "Kairuo:">
+<!ENTITY leftInput.accesskey "K">
+<!ENTITY rightInput.label "Lobuo:">
+<!ENTITY rightInput.accesskey "L">

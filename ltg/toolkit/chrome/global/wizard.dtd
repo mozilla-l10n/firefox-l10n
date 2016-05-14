@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  button-back-mac.label        "Go Back">
-<!ENTITY  button-back-mac.accesskey    "B">
-<!ENTITY  button-next-mac.label        "Continue">
-<!ENTITY  button-next-mac.accesskey    "C">
-<!ENTITY  button-finish-mac.label      "Done">
-<!ENTITY  button-cancel-mac.label      "Cancel">
+<!ENTITY  button-back-mac.label        "Atpakaļ">
+<!ENTITY  button-back-mac.accesskey    "A">
+<!ENTITY  button-next-mac.label        "Iz prīšku">
+<!ENTITY  button-next-mac.accesskey    "I">
+<!ENTITY  button-finish-mac.label      "Gotovs">
+<!ENTITY  button-cancel-mac.label      "Atceļt">
 
-<!ENTITY  button-back-unix.label       "Back">
-<!ENTITY  button-back-unix.accesskey   "B">
-<!ENTITY  button-next-unix.label       "Next">
-<!ENTITY  button-next-unix.accesskey   "N">
-<!ENTITY  button-finish-unix.label     "Finish">
-<!ENTITY  button-cancel-unix.label     "Cancel">
+<!ENTITY  button-back-unix.label       "Atpakaļ">
+<!ENTITY  button-back-unix.accesskey   "A">
+<!ENTITY  button-next-unix.label       "Iz prīšku">
+<!ENTITY  button-next-unix.accesskey   "I">
+<!ENTITY  button-finish-unix.label     "Pabeigt">
+<!ENTITY  button-cancel-unix.label     "Atceļt">
 
-<!ENTITY  button-back-win.label        "&lt; Back">
-<!ENTITY  button-back-win.accesskey    "B">
-<!ENTITY  button-next-win.label        "Next &gt;">
-<!ENTITY  button-next-win.accesskey    "N">
-<!ENTITY  button-finish-win.label      "Finish">
-<!ENTITY  button-cancel-win.label      "Cancel">
+<!ENTITY  button-back-win.label        "&lt; Atpakaļ">
+<!ENTITY  button-back-win.accesskey    "A">
+<!ENTITY  button-next-win.label        "Iz prīšku &gt;">
+<!ENTITY  button-next-win.accesskey    "I">
+<!ENTITY  button-finish-win.label      "Pabeigt">
+<!ENTITY  button-cancel-win.label      "Atceļt">

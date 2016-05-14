@@ -4,9 +4,8 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "About Your Rights">
-<!ENTITY rights.intro "&brandFullName; is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:">
-
+<!ENTITY rights.intro-header    "Par jiusu tīseibom">
+<!ENTITY rights.intro "&brandFullName; ir breiva bezmoksys attaiseituo koda programa, kū veidoj tyukstušym breivpruoteigū nu vysys pasaules. Ir dažys lītys, kū jiusim byutu vārts zynot:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -15,77 +14,78 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; is made available to you under the terms of the ">
-<!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others.  You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
 
-<!ENTITY rights.intro-point2-a "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Firefox name or logo. Additional information on trademarks may be found ">
-<!ENTITY rights.intro-point2-b "here">
+<!ENTITY rights.intro-point1a "&brandShortName; ir pīejams ar ">
+<!ENTITY rights.intro-point1b "Mozilla publiskuos licences">
+<!ENTITY rights.intro-point1c "nūsaciejumym. Tys nūzeimei, ka jius varot breivi izmantuot, pavairuot iz izplateit &brandShortName; cytim.  Taipat jius drūsais varot maineit i papyldynuot &brandShortName; pyrmskodu piec sovim īskotym. Mozilla publiskā licence dūd jiusim tīseibys breivi izplateit sovys modificeituos versejis.">
+
+<!ENTITY rights.intro-point2-a "Mozilla nadūd jiusim tīseibys izmantuot Mozilla i Firefox preču zeimes i logo. Papyldus informaceja par preču zeimom ir atrūnoma ">
+<!ENTITY rights.intro-point2-b "ite">
 <!ENTITY rights.intro-point2-c ".">
-
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Some features in &brandShortName;, such as the Crash Reporter, give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.">
 
+<!ENTITY rights.intro-point2.5 "Dažys nu &brandShortName; īspiejom, pīmāram, avareju gadiejumu zinuošona reiks, pīduovoj jiusim īspieju nūsyuteit sovu vīdūkli par &vendorShortName;. Izavālūt nūsyuteit sovu vīdūkli, jius dūdit atļaunu &vendorShortName; izmantuot itū jiusu snīgtū informaceju, kab uzlobuotu sovus produktus, publiceit to sovuos sātys lopuos voi kai cytaidi izplateit itū sajimtū informaceju.">
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "How we use your personal information and feedback submitted to &vendorShortName; through &brandShortName; is described in the ">
-<!ENTITY rights2.intro-point3b "&brandShortName; Privacy Policy">
+
+<!ENTITY rights2.intro-point3a "Tys kai mes izmontojam jiusu personiskū informaceju i &vendorShortName; nūsyuteitū vīdūkli izmontojūt &brandShortName; ir apraksteits ">
+<!ENTITY rights2.intro-point3b "&brandShortName; privatuma politikā">
 <!ENTITY rights.intro-point3c ".">
-
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Any applicable privacy policies for this product should be listed here.">
 
+<!ENTITY rights.intro-point3-unbranded "Vysom aktualajom privatuma politikom byutu juobyut uzskateitom ite.">
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Some &brandShortName; features make use of web-based information services, however, we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the ">
-<!ENTITY rights.intro-point4b "service terms">
+
+<!ENTITY rights2.intro-point4a "Dažys &brandShortName; īspiejis izmontoj šķārsteiklā bāzeitus pakolpuojumus, taču, mes navarom garanteit, ka tī ir 100&#037; pareizi i klaidu breivi. Papyldus informaceja par itim pakolpuojumym i to kai tūs deaktivēt, ir pīejama ">
+<!ENTITY rights.intro-point4b "pakolpuojumu nūsaciejumu aprokstā">
 <!ENTITY rights.intro-point4c ".">
-
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "If this product incorporates web services, any applicable service terms for the service(s) should be linked to the ">
-<!ENTITY rights.intro-point4b-unbranded "Website Services">
-<!ENTITY rights.intro-point4c-unbranded " section.">
 
-<!ENTITY rights2.webservices-header "&brandFullName; Web-Based Information Services">
+<!ENTITY rights.intro-point4a-unbranded "Nui itymā produktā ir īkļauti šķārsteikla pakolpuojumi, vysim aktualajim pakolpuojuma nūsaciejumym juobyut pīejamym ">
+<!ENTITY rights.intro-point4b-unbranded "sātys lopu pakolpuojumu">
+<!ENTITY rights.intro-point4c-unbranded " škirklī.">
 
+<!ENTITY rights2.webservices-header "&brandFullName; šķārsteiklā bāzeitī informacejis pakolpuojumi">
 <!-- point 5 -->
-<!ENTITY rights.intro-point5 "In order to play back certain types of video content, &brandShortName; downloads certain content decryption modules from third parties.">
 
+<!ENTITY rights.intro-point5 "In order to play back certain types of video content, &brandShortName; downloads certain content decryption modules from third parties.">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; uses web-based information services (&quot;Services&quot;) to provide some of the features provided for your use with this binary version of &brandShortName; under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found ">
-<!ENTITY rights2.webservices-b "here">
-<!ENTITY rights3.webservices-c ". Other features and Services can be disabled in the application preferences.">
 
+<!ENTITY rights2.webservices-a "&brandFullName; izmontoj šķārsteiklā bāzeitus informacejis pakolpuojumus (&quot;Pakolpuojumi&quot;), kab nūdrūsynuotu dažys nu funkcejom, kas pīejamys binarajā &brandShortName; versejī ar zamuok apraksteitajim nūsaciejumym. Nui nasavielejit izmantuot kaidu nu apraksteitajim pakolpuojumym voi ari to izmontuošonys nūsaciejumi jiusim nav pījemami, jius varot deaktiveit itūs pakolpuojumus. Instrukcejis, kai deaktivēt konkretu pakolpuojumi ir pīejamys ">
+<!ENTITY rights2.webservices-b "ite">
+<!ENTITY rights3.webservices-c ". Cytys īspiejis i pakolpuojumus var deaktivēt programys īstatiejumūs.">
 <!-- safe browsing points for branded builds -->
-<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
-<!ENTITY rights.safebrowsing-b "Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites.  If you wish to disable the feature completely, follow these steps:">
-<!ENTITY rights.safebrowsing-term1 "Open the application preferences">
-<!ENTITY rights.safebrowsing-term2 "Select the Security selection">
-<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">
 
+<!ENTITY rights.safebrowsing-a "Drūsā puorlūkuošona: ">
+<!ENTITY rights.safebrowsing-b "Drūsūs puorlūkuošonys deakticiešona nav īteicama, kam itaidā veidā jius varot nūnuokt nadrūsuos šķārsteikla lopuos. Nui tūmār vālotīs to deaktivēt, reikojitīs sekūjūši:">
+<!ENTITY rights.safebrowsing-term1 "Attaisit programys īstatiejumus">
+<!ENTITY rights.safebrowsing-term2 "Izavielit šķirkļu Drūseiba">
+<!ENTITY rights2.safebrowsing-term3 "Uncheck the option to &quot;&enableSafeBrowsing.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Drūsā puorlūkuošona tagad ir deaktiveita">
 <!-- location aware browsing points for branded builds -->
-<!ENTITY rights.locationawarebrowsing-a "Location Aware Browsing: ">
-<!ENTITY rights.locationawarebrowsing-b "is always opt-in.  No location information is ever sent without your permission.  If you wish to disable the feature completely, follow these steps:">
-<!ENTITY rights.locationawarebrowsing-term1a "In the URL bar, type ">
+
+<!ENTITY rights.locationawarebrowsing-a "Atsarasšona vītu zynuša puorlūkuošona: ">
+<!ENTITY rights.locationawarebrowsing-b "informaceja par jiusu atsarasšona vītu nikod natīk syuteita bez jiusu pīkrišonys.  Nui vālotīs pilneibā deaktivēt itū īspieju, reikojitīs sekūjūši:">
+<!ENTITY rights.locationawarebrowsing-term1a "Adresi juslā īrkostit ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
-<!ENTITY rights.locationawarebrowsing-term2 "Type geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term3 "Double click on the geo.enabled preference">
-<!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">
-
+<!ENTITY rights.locationawarebrowsing-term2 "Īrkostit geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Ar dubultklikški uzklikškinojit iz geo.enabled īstatiejuma">
+<!ENTITY rights.locationawarebrowsing-term4 "Vītu zynūšuo puorlūkuošona tagad ir deaktiveita">
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "An overview of the website services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
 
+<!ENTITY rights.webservices-unbranded "Pīejamū sātys lopu pakolpuojumu aproksti i instrukcejis kai vajadzeibys gadiejumā deaktivēt tūs ir pīejami ite.">
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Any applicable service terms for this product should be listed here.">
 
+<!ENTITY rights.webservices-term1-unbranded "Aktualajim pakolpuojumu izmontuošonys nūsacejumym byutu juobyut apraksteitim ite.">
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights2.webservices-term1 "&vendorShortName; and its contributors, licensors and partners work to provide the most accurate and up-to-date Services.  However, we cannot guarantee that this information is comprehensive and error-free.  For example, the Safe Browsing Service may not identify some risky sites and may identify some safe sites in error and the Location Aware Service all locations returned by our service providers are estimates only and neither we nor our service providers guarantee the accuracy of the locations provided.">
-<!ENTITY rights.webservices-term2 "&vendorShortName; may discontinue or change the Services at its discretion.">
-<!ENTITY rights2.webservices-term3 "You are welcome to use these Services with the accompanying version of &brandShortName;, and &vendorShortName; grants you its rights to do so.  &vendorShortName; and its licensors reserve all other rights in the Services.  These terms are not intended to limit any rights granted under open source licenses applicable to &brandShortName; and to corresponding source code versions of &brandShortName;.">
-<!ENTITY rights.webservices-term4 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
-<!ENTITY rights.webservices-term5 "Except as required by law, &vendorShortName;, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of &brandShortName; and the Services.  The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.">
-<!ENTITY rights.webservices-term6 "&vendorShortName; may update these terms as necessary from time to time. These terms may not be modified or canceled without &vendorShortName;'s written agreement.">
+
+<!ENTITY rights2.webservices-term1 "&vendorShortName; kūpā ar breivpruoteigajim, licenču partnerim i partnerim struodoj pi tei, kab nūdrūsynuotu vysprecizuokūs i aktualuokūs pakolpuojumus. Taču mes navarom garanteit, ka itei informaceja ir vysaptverūša i bez klaidom. Pīmāram, drūsūs puorlūkuošonys pakolpuojums var nazynot, ka kaida lopa ir beistama voi ari klaidainai uzskateit kaidu drūsu lopu par beistamu. Myusu partneru pīduovuotuo atsarasšona vītys nūsaceišona ir tikai aptuvana i nadz mes, nadz myusu partneri nagarantej pīduovuotuos atsarasšona vītys informacejis pareizeibu.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; var puortraukt Pakolpuojumus piec sovim īskotym.">
+<!ENTITY rights2.webservices-term3 "Mes laipnai lyudzam jius izmantuot itūs &brandShortName; pīduovuotūs pakolpuojumus, i &vendorShortName; snīdz jiusim tīseibys to dareit.  &vendorShortName; i tuos licenču partneri patur vysys cytys tīseibys itymūs pakolpuojumūs.  Itī nūsaciejumi nav dūmuoti, kab īrūbežuotu jiusu tīseibys, kū jiusim snīdz ar &brandShortName; saisteituos attaiseituo koda licences voi &brandShortName; pyrmskoda licences.">
+<!ENTITY rights.webservices-term4 "Pakolpuojumi tīk pīduovuoti &quot;kaidi tī ir.&quot;  &vendorShortName;, tuos paleig, licencētuoji i izplateituoji atsasoka nu sevkaidā garantejom, naatkareigi nu tei voi tuos ir paustys rakstiski voi tīk pījemtys kai asūšys, īskaitūt sevkaidys garantejis par to, ka Pakolpuojumi ir funkcionali i atbiļstūši jiusu vajadzeibom.  Vysa atbiļdeiba par Pakolpuojumu izmontuošonu gulstys iz jiusu placym attīceibā iz to kvalitati i atbiļsteibu veicamajom funkcejom.  Zynomūs juridiskuos apstuokļūs nav īspiejams atsasaceit nu īdūmuotajom garantejom, leidz ar to itei atruna var iz jiusim naatsateikt.">
+<!ENTITY rights.webservices-term5 "Izjemūt gadiejumus, kur to pīprosa lykumdūšona, &vendorShortName;, tuos paleigi, licencētuoji i izplateituoji nabyus atbiļdeigi par sevkaidim teišym, natīšim, najaušim voi sevkaidim cyta veida būjuojumym, kas sevkaidā veidā saistomi ar &brandShortName; i tei Pakolpuojumu izmontuošonu.  Kūpejuo atbiļdeiba piec itū nūsaciejumu principym napuorsnīgs $500 (pīcus symtus ASV dolaru). Zynomūs juridiskuos apstuokļūs nav īspiejams atsasaceit nu īdūmuotajom garantejom, leidz ar to itei atruna var iz jiusim naatsateikt.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; dreikst breivi maineit voi papyldynuot itūs nūsaciejumus piec sovim īskotym. Itī nūsaciejumi navar tikt modificeiti voi atcalti bez īprīkšejā rakstiska aplīcynuojuma nu &vendorShortName;.">
 <!ENTITY rights.webservices-term7 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">

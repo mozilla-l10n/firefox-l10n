@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title                 "Exceptions">
+<!ENTITY window.title                 "Izjāmumi">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Site">
-<!ENTITY treehead.status.label        "Status">
-<!ENTITY removepermission.label       "Remove Site">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "Remove All Sites">
+<!ENTITY treehead.sitename.label      "Vītne">
+<!ENTITY treehead.status.label        "Statuss">
+<!ENTITY removepermission.label       "Aizvuokt vītni">
+<!ENTITY removepermission.accesskey   "A">
+<!ENTITY removeallpermissions.label   "Aizvuokt vysys vītnes">
 <!ENTITY removeallpermissions.accesskey "e">
-<!ENTITY address.label                "Address of website:">
+<!ENTITY address.label                "Šķārsteikla vītnes adress:">
 <!ENTITY address.accesskey            "d">
-<!ENTITY block.label                  "Block">
+<!ENTITY block.label                  "Blokeit">
 <!ENTITY block.accesskey              "B">
-<!ENTITY session.label                "Allow for Session">
-<!ENTITY session.accesskey            "S">
-<!ENTITY allow.label                  "Allow">
+<!ENTITY session.label                "Atļaut tikai ituos sesejis laikā">
+<!ENTITY session.accesskey            "s">
+<!ENTITY allow.label                  "Atļaut">
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.cancel.label          "Cancel">
-<!ENTITY button.cancel.accesskey      "C">
-<!ENTITY button.ok.label              "Save Changes">
+<!ENTITY button.cancel.label          "Atceļt">
+<!ENTITY button.cancel.accesskey      "c">
+<!ENTITY button.ok.label              "Saglobuot izmaiņis">
 <!ENTITY button.ok.accesskey          "S">
 

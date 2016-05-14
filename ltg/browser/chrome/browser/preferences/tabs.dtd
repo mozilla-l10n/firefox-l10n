@@ -2,21 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.label       "Vērt jaunus lūgus jaunuos cilnēs">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label  "Warn me when closing multiple tabs">
-<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+<!ENTITY warnCloseMultipleTabs.label  "Breidynuot, pyrms aiztaiseit vairuokys cilnes">
+<!ENTITY warnCloseMultipleTabs.accesskey  "B">
 
-<!ENTITY warnOpenManyTabs.label       "Warn me when opening multiple tabs might slow down &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey   "d">
+<!ENTITY warnOpenManyTabs.label       "Breidynuot, kod vairuoku ciļņu attaiseišona varātu sabremzeit &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "v">
 
-<!ENTITY restoreTabsOnDemand.label        "Don’t load tabs until selected">
-<!ENTITY restoreTabsOnDemand.accesskey    "u">
+<!ENTITY switchToNewTabs.label        "Kod es attaisu saiti jaunuo cilnē, puorslēgtīs iz itū cilni">
+<!ENTITY switchToNewTabs.accesskey    "s">
 
-<!ENTITY switchToNewTabs.label        "When I open a link in a new tab, switch to it immediately">
-<!ENTITY switchToNewTabs.accesskey    "h">
-
-<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
-<!ENTITY showTabsInTaskbar.accesskey      "k">
-<!ENTITY tabsGroup.label          "Tabs">
+<!ENTITY showTabsInTaskbar.label          "Ruodeit ciļņu bildeitis Windows palūdzī">
+<!ENTITY showTabsInTaskbar.accesskey      "R">
+<!ENTITY tabsGroup.label          "Cilnes">

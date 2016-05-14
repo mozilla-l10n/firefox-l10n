@@ -1,12 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
-<!ENTITY downloads.title                  "Downloads">
 
+<!ENTITY downloads.title                  "Lejupīluodes">
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
      width of the Downloads Panel) expressed using a CSS unit. The longest
@@ -23,8 +22,8 @@
 
      That's 50 characters, so we set the width at 50ch.
      -->
-<!ENTITY downloadDetails.width            "50ch">
 
+<!ENTITY downloadDetails.width            "60ch">
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
      which is displayed at the bottom of the Downloads Panel if the
@@ -38,84 +37,94 @@
 
      that's 21 characters, so we set the minimum width to 21ch.
      -->
-<!ENTITY downloadsSummary.minWidth2       "21ch">
 
-<!ENTITY cmd.pause.label                  "Pause">
-<!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Resume">
-<!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "Cancel">
-<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY downloadsSummary.minWidth2       "28ch">
+
+<!ENTITY cmd.pause.label                  "Apturēt">
+<!ENTITY cmd.pause.accesskey              "p">
+<!ENTITY cmd.resume.label                 "Atkuortuot">
+<!ENTITY cmd.resume.accesskey             "r">
+<!ENTITY cmd.cancel.label                 "Atceļt">
+<!ENTITY cmd.cancel.accesskey             "c">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "Open Containing Folder">
-<!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "Show In Finder">
+<!ENTITY cmd.show.label                   "Attaiseit mapi">
+<!ENTITY cmd.show.accesskey               "m">
+<!ENTITY cmd.showMac.label                "Paruodeit Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.retry.label                  "Retry">
-<!ENTITY cmd.goToDownloadPage.label       "Go To Download Page">
-<!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "Copy Download Link">
-<!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromHistory.label      "Remove From History">
+<!ENTITY cmd.retry.label                  "Atkuortuot">
+<!ENTITY cmd.goToDownloadPage.label       "Īt iz lejupīluodes lopu">
+<!ENTITY cmd.goToDownloadPage.accesskey   "e">
+<!ENTITY cmd.copyDownloadLink.label       "Kopēt lejupīluodes adresu">
+<!ENTITY cmd.copyDownloadLink.accesskey   "l">
+<!ENTITY cmd.removeFromHistory.label      "Nūteireit nu viestures">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "Clear List">
-<!ENTITY cmd.clearList.accesskey          "a">
-<!ENTITY cmd.clearDownloads.label         "Clear Downloads">
-<!ENTITY cmd.clearDownloads.accesskey     "D">
-<!-- LOCALIZATION NOTE (cmd.unblock.label):
-     This command may be shown in the context menu, as a menu button item, or as
-     a text link when malware or potentially unwanted downloads are blocked.
+<!ENTITY cmd.clearList.label              "Atteireit sarokstu">
+<!ENTITY cmd.clearList.accesskey          "A">
+<!ENTITY cmd.clearDownloads.label         "Nūteireit lejupīluodes">
+<!ENTITY cmd.clearDownloads.accesskey     "d">
+<!-- LOCALIZATION NOTE (cmd.unblock2.label):
+     This command is shown in the context menu when downloads are blocked.
      -->
-<!ENTITY cmd.unblock.label                "Unblock">
-<!ENTITY cmd.unblock.accesskey            "U">
+<!ENTITY cmd.unblock2.label               "Atļaut lejupīluodi">
+<!ENTITY cmd.unblock2.accesskey           "A">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
-     This command may be shown in the context menu or as a menu button label
-     when malware or potentially unwanted downloads are blocked.
+     This is the tooltip of the action button shown when malware is blocked.
      -->
-<!ENTITY cmd.removeFile.label             "Remove File">
-<!ENTITY cmd.removeFile.accesskey         "m">
-
+<!ENTITY cmd.removeFile.label             "Aizvuokt failu">
+<!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
+     This is the tooltip of the action button shown when potentially unwanted
+     downloads are blocked. This opens a dialog where the user can choose
+     whether to unblock or remove the download. Removing is the default option.
+     -->
+<!ENTITY cmd.chooseUnblock.label          "Aizvuokt failu voi atļaut lejupīluodi">
+<!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
+     This is the tooltip of the action button shown when uncommon downloads are
+     blocked.This opens a dialog where the user can choose whether to open the
+     file or remove the download. Opening is the default option.
+     -->
+<!ENTITY cmd.chooseOpen.label             "Attaiseit voi aizvuokt failu">
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
-<!ENTITY blocked.label                    "BLOCKED">
 
+<!ENTITY blocked.label                    "BLOKEITA">
 <!-- LOCALIZATION NOTE (learnMore.label):
      Shown as a text link for some types of blocked downloads, for example
      malware, when there is an associated explanation page on the Mozilla site.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
-<!ENTITY learnMore.label                  "Learn More">
 
+<!ENTITY learnMore.label                  "Uzzynojit vairuok">
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
-<!ENTITY downloadsHistory.label           "Show All Downloads">
-<!ENTITY downloadsHistory.accesskey       "S">
 
-<!ENTITY clearDownloadsButton.label       "Clear Downloads">
-<!ENTITY clearDownloadsButton.tooltip     "Clears completed, canceled and failed downloads">
+<!ENTITY downloadsHistory.label           "Ruodeit vysys lejupīluodes">
+<!ENTITY downloadsHistory.accesskey       "s">
 
+<!ENTITY clearDownloadsButton.label       "Nūteireit lejupīluodes">
+<!ENTITY clearDownloadsButton.tooltip     "Nūteira pabeigtuos, atcaltuos i naveiksmeiguos lejupīluodes">
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
      -->
-<!ENTITY downloadsListEmpty.label         "There are no downloads.">
 
+<!ENTITY downloadsListEmpty.label         "Nav nivīnys lejupīluodes.">
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
-<!ENTITY downloadsPanelEmpty.label        "No downloads for this session.">
 
+<!ENTITY downloadsPanelEmpty.label        "Itymā sesejā nav nivīnys lejupīluodes.">
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
      -->
-<!ENTITY downloadsListNoMatch.label       "Could not find any matching downloads.">
+
+<!ENTITY downloadsListNoMatch.label       "Nav nivīnys atbiļstūšys lejupīluodes.">

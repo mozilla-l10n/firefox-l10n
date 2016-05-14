@@ -2,25 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  intro2.label                "You have chosen to open:">
-<!ENTITY  from.label                  "from:">
-<!ENTITY  actionQuestion.label        "What should &brandShortName; do with this file?">
+<!ENTITY  intro2.label                "Jius asot izavielieji attaiseit:">
+<!ENTITY  from.label                  "nu:">
+<!ENTITY  actionQuestion.label        "Kū &brandShortName; vajadzeitu dareit ar itū failu?">
 
-<!ENTITY  openWith.label              "Open with">
-<!ENTITY  openWith.accesskey          "o">
-<!ENTITY  other.label                 "Other…">
+<!ENTITY  openWith.label              "Attaiseit ar">
+<!ENTITY  openWith.accesskey          "A">
+<!ENTITY  other.label                 "Cytu…">
 
-<!ENTITY  saveFile.label              "Save File">
-<!ENTITY  saveFile.accesskey          "s">
+<!ENTITY  saveFile.label              "Saglobuot failu">
+<!ENTITY  saveFile.accesskey          "S">
 
-<!ENTITY  rememberChoice.label        "Do this automatically for files like this from now on.">
+<!ENTITY  rememberChoice.label        "Nuokamreiz automatiski tei reikuotīs ar itaidim failym.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIs.label              "which is:">
+<!ENTITY  whichIs.label              "kurs ir:">
 
-<!ENTITY  chooseHandlerMac.label      "Choose…">
-<!ENTITY  chooseHandlerMac.accesskey  "C">
-<!ENTITY  chooseHandler.label         "Browse…">
-<!ENTITY  chooseHandler.accesskey     "B">
+<!ENTITY  chooseHandlerMac.label      "Izavieleit…">
+<!ENTITY  chooseHandlerMac.accesskey  "I">
+<!ENTITY  chooseHandler.label         "Puorsavērt…">
+<!ENTITY  chooseHandler.accesskey     "P">
 
-<!ENTITY  unknownPromptText.label     "Would you like to save this file?">
+<!ENTITY  unknownPromptText.label     "Voi vālotīs saglobuot itū failu?">

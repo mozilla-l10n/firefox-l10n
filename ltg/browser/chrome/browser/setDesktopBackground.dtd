@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY position.label             "Position:">
-<!ENTITY tile.label                 "Tile">
-<!ENTITY center.label               "Center">
-<!ENTITY stretch.label              "Stretch">
-<!ENTITY fill.label                 "Fill">
-<!ENTITY fit.label                  "Fit">
-<!ENTITY preview.label              "Preview">
-<!ENTITY color.label                "Color:">
-<!ENTITY setDesktopBackground.title "Set Desktop Background">
-<!ENTITY openDesktopPrefs.label     "Open Desktop Preferences">
+<!ENTITY position.label             "Nūvītuojums:">
+<!ENTITY tile.label                 "Flīzeits">
+<!ENTITY center.label               "Centreits">
+<!ENTITY stretch.label              "Izstīpts">
+<!ENTITY fill.label                 "Aizpyldūšs">
+<!ENTITY fit.label                  "Ītylpstūšs">
+<!ENTITY preview.label              "Prīkšskatejums">
+<!ENTITY color.label                "Kruosa:">
+<!ENTITY setDesktopBackground.title "Uzlikt dorbviersmys fonu">
+<!ENTITY openDesktopPrefs.label     "Attaiseit dorbviersmys īstatiejumus">
 <!ENTITY closeWindow.key            "w">

@@ -5,10 +5,10 @@
 <!ENTITY window.title                 "Block Lists">
 <!ENTITY window.width                 "50em">
 
-<!ENTITY treehead.list.label          "List">
+<!ENTITY treehead.list.label          "Saroksts">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.cancel.label          "Cancel">
-<!ENTITY button.cancel.accesskey      "C">
-<!ENTITY button.ok.label              "Save Changes">
+<!ENTITY button.cancel.label          "Atceļt">
+<!ENTITY button.cancel.accesskey      "c">
+<!ENTITY button.ok.label              "Saglobuot izmaiņis">
 <!ENTITY button.ok.accesskey          "S">

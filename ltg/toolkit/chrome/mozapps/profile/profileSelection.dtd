@@ -5,27 +5,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - Choose User Profile">
+<!ENTITY            windowtitle.label      "&brandShortName; - izavielit lītuotuoja profilu">
 
-<!ENTITY            profilename.label      "Profile Name:">
+<!ENTITY            profilename.label      "Profila nūsaukums:">
 
-<!ENTITY            start.label            "Start &brandShortName;">
-<!ENTITY            exit.label             "Exit">
+<!ENTITY            start.label            "Suokt &brandShortName;">
+<!ENTITY            exit.label             "Izīt">
 
-<!ENTITY            availprofiles.label    "Available Profiles">
+<!ENTITY            availprofiles.label    "Pīejamī profili">
 
-<!ENTITY            newButton.label        "Create Profile…">
-<!ENTITY            newButton.accesskey    "C">
-<!ENTITY            renameButton.label     "Rename Profile…">
-<!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "Delete Profile…">
+<!ENTITY            newButton.label        "Izveiduot profilu...">
+<!ENTITY            newButton.accesskey    "I">
+<!ENTITY            renameButton.label     "Puodieveit profilu...">
+<!ENTITY            renameButton.accesskey "r">
+<!ENTITY            deleteButton.label     "Dzēst profilu...">
 <!ENTITY            deleteButton.accesskey "D">
-
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; stores information about your settings, preferences, and other user items in your user profile.">
 
-<!ENTITY            offlineState.label    "Work offline">
-<!ENTITY            offlineState.accesskey "o">
+<!ENTITY            pmDescription.label    "&brandShortName; jiusu profilā globoj īstatiejumus, izvieles i cytu lītuotuoja informaceju.">
 
-<!ENTITY            useSelected.label       "Use the selected profile without asking at startup">
+<!ENTITY            offlineState.label    "Struoduot bezsaistē">
+<!ENTITY            offlineState.accesskey "b">
+
+<!ENTITY            useSelected.label       "Izmantuot izavalātū profilu, navaicojūt īluodes laikā">
 <!ENTITY            useSelected.accesskey   "s">

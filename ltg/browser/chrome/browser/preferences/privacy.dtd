@@ -2,105 +2,105 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Use Tracking Protection">
-<!ENTITY  trackingProtectionAlways.label       "Always">
-<!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionHeader.label       "Izmantuot izsekuošonys aizsardzeibu">
+<!ENTITY  trackingProtectionAlways.label       "Vīnmār">
+<!ENTITY  trackingProtectionAlways.accesskey   "m">
 <!ENTITY  trackingProtectionPrivate.label      "Only in private windows">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
-<!ENTITY  trackingProtectionNever.label        "Never">
-<!ENTITY  trackingProtectionNever.accesskey    "n">
-<!ENTITY  trackingProtectionLearnMore.label    "Learn more">
-<!ENTITY  trackingProtectionExceptions.label   "Exceptions…">
-<!ENTITY  trackingProtectionExceptions.accesskey "x">
+<!ENTITY  trackingProtectionNever.label        "Nikod">
+<!ENTITY  trackingProtectionNever.accesskey    "N">
+<!ENTITY  trackingProtectionLearnMore.label    "Uzzynojit vairuok">
+<!ENTITY  trackingProtectionExceptions.label   "Izjāmumi…">
+<!ENTITY  trackingProtectionExceptions.accesskey "I">
 
-<!ENTITY tracking.label                 "Tracking">
+<!ENTITY tracking.label                 "Uzskaite šķārsteiklā">
 <!ENTITY trackingProtectionPBM5.label         "Use Tracking Protection in Private Windows">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!ENTITY trackingProtectionPBMLearnMore.label "Learn more">
+<!ENTITY trackingProtectionPBMLearnMore.label "Uzzynojit vairuok">
 <!ENTITY changeBlockList.label          "Change Block List">
 <!ENTITY changeBlockList.accesskey      "C">
-
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "You can also ">
-<!ENTITY  doNotTrack.settings.label     "manage your Do Not Track settings">
+
+<!ENTITY  doNotTrack.pre.label          "Jius varot ari ">
+<!ENTITY  doNotTrack.settings.label     "puorvaļdeit sovus izsekuošonys īstatiejumus">
 <!ENTITY  doNotTrack.post.label         ".">
 
-<!ENTITY  history.label                 "History">
+<!ENTITY  history.label                 "Viesture">
 
-<!ENTITY  locationBar.label             "Location Bar">
+<!ENTITY  locationBar.label             "Atsarasšona vītys jūsla">
 
-<!ENTITY  locbar.suggest.label          "When using the location bar, suggest:">
-<!ENTITY  locbar.history.label          "History">
-<!ENTITY  locbar.history.accesskey      "H">
-<!ENTITY  locbar.bookmarks.label        "Bookmarks">
-<!ENTITY  locbar.bookmarks.accesskey    "k">
-<!ENTITY  locbar.openpage.label         "Open tabs">
-<!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.suggest.label          "Meklejūt adresi juslā, īteikt:">
+<!ENTITY  locbar.history.label          "Viesturi">
+<!ENTITY  locbar.history.accesskey      "V">
+<!ENTITY  locbar.bookmarks.label        "Gruomotzeimes">
+<!ENTITY  locbar.bookmarks.accesskey    "m">
+<!ENTITY  locbar.openpage.label         "Attaiseituos cilnes">
+<!ENTITY  locbar.openpage.accesskey     "t">
 <!ENTITY  locbar.searches.label         "Related searches from the default search engine">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Change preferences for search engine suggestions…">
-<!ENTITY  suggestionSettings.accesskey  "g">
+<!ENTITY  suggestionSettings.label      "Izmainit mekleituoju īstatiejumus…">
+<!ENTITY  suggestionSettings.accesskey  "m">
 
-<!ENTITY  acceptCookies.label           "Accept cookies from sites">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies.label           "Pījemt seikdatnes nu lopom">
+<!ENTITY  acceptCookies.accesskey       "l">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Always">
-<!ENTITY  acceptThirdParty.never.label    "Never">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+<!ENTITY  acceptThirdParty.pre.label      "Pījemt trešū pušu seikdatnes:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "t">
+<!ENTITY  acceptThirdParty.always.label   "Vīnmār">
+<!ENTITY  acceptThirdParty.never.label    "Nikod">
+<!ENTITY  acceptThirdParty.visited.label  "Tikai nu lopom, kurys asmu apmekliejs">
 
-<!ENTITY  keepUntil.label               "Keep until:">
-<!ENTITY  keepUntil.accesskey           "u">
+<!ENTITY  keepUntil.label               "Globoj leidz:">
+<!ENTITY  keepUntil.accesskey           "G">
 
-<!ENTITY  expire.label                  "they expire">
-<!ENTITY  close.label                   "I close &brandShortName;">
+<!ENTITY  expire.label                  "beidzās tū dereigums">
+<!ENTITY  close.label                   "es aiztaisu &brandShortName;">
 
-<!ENTITY  cookieExceptions.label        "Exceptions…">
-<!ENTITY  cookieExceptions.accesskey    "E">
+<!ENTITY  cookieExceptions.label        "Izjāmumi…">
+<!ENTITY  cookieExceptions.accesskey    "I">
 
-<!ENTITY  showCookies.label             "Show Cookies…">
-<!ENTITY  showCookies.accesskey         "S">
+<!ENTITY  showCookies.label             "Paruodeit seikdatnes…">
+<!ENTITY  showCookies.accesskey         "s">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
-<!ENTITY  historyHeader.remember.label     "Remember history">
-<!ENTITY  historyHeader.dontremember.label "Never remember history">
-<!ENTITY  historyHeader.custom.label       "Use custom settings for history">
+<!ENTITY  historyHeader.remember.label     "Atguoduos viesturi">
+<!ENTITY  historyHeader.dontremember.label "Nikod naatguoduos viesturi">
+<!ENTITY  historyHeader.custom.label       "Izmantuots pīlāguotus viestures īstatiejumus">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; will remember your browsing, download, form and search history, and keep cookies from websites you visit.">
-
+<!ENTITY  rememberDescription.label      "&brandShortName; atguoduos jiusu puorlūkuošonys, lejupīluožu, aizpyldātū formu i mekliešonu viesturi, kai ari saglobuos apmaklātū lopu seikdatnes.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "You may want to ">
-<!ENTITY  rememberActions.clearHistory.label  "clear your recent history">
-<!ENTITY  rememberActions.middle.label        ", or ">
-<!ENTITY  rememberActions.removeCookies.label "remove individual cookies">
+
+<!ENTITY  rememberActions.pre.label           "Īspiejams jius vālotīs ">
+<!ENTITY  rememberActions.clearHistory.label  "dzēst nasenuos puorlūkuošonys viesturi">
+<!ENTITY  rememberActions.middle.label        " voi ">
+<!ENTITY  rememberActions.removeCookies.label "dzēst atseviškys seikdatnes">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
-
+<!ENTITY  dontrememberDescription.label  "&brandShortName; izmantuots taidus pat īstatiejumus kai privatuos puorlūkuošonys režymā i puorlūkojūt šķārsteiklu nasaglobuos viesturi.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "You may also want to ">
-<!ENTITY  dontrememberActions.clearHistory.label "clear all current history">
+
+<!ENTITY  dontrememberActions.pre.label          "Jius varātu gribeit ari ">
+<!ENTITY  dontrememberActions.clearHistory.label "dzēst itūbreid saglobutū viesturi">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Always use private browsing mode">
-<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.label "Vīnmār izmantuot privatuos puorlūkuošonys režymu">
+<!ENTITY  privateBrowsingPermanent2.accesskey "z">
 
-<!ENTITY  rememberHistory2.label      "Remember my browsing and download history">
-<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.label      "Atguoduot munu puorlūkuošonys i lejupīluožu viesturi">
+<!ENTITY  rememberHistory2.accesskey  "A">
 
-<!ENTITY  rememberSearchForm.label       "Remember search and form history">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.label       "Atguoduot mekliešonys i formu viesturi">
+<!ENTITY  rememberSearchForm.accesskey   "v">
 
-<!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
-<!ENTITY  clearOnClose.accesskey         "r">
+<!ENTITY  clearOnClose.label             "Dzēst aiztaisūt &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "D">
 
-<!ENTITY  clearOnCloseSettings.label     "Settings…">
+<!ENTITY  clearOnCloseSettings.label     "Īstatiejumi…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">

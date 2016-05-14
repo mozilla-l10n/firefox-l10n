@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editBookmarkOverlay.name.label                      "Name:">
+<!ENTITY editBookmarkOverlay.name.label                      "Nūsaukums:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
-<!ENTITY editBookmarkOverlay.location.label                  "Location:">
-<!ENTITY editBookmarkOverlay.location.accesskey              "L">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Feed Location:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Site Location:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.folder.label                    "Folder:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Show all the bookmarks folders">
-<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Hide">
-<!ENTITY editBookmarkOverlay.tags.label                      "Tags:">
-<!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Separate tags with commas">
-<!ENTITY editBookmarkOverlay.description.label               "Description:">
-<!ENTITY editBookmarkOverlay.description.accesskey           "D">
-<!ENTITY editBookmarkOverlay.keyword.label                   "Keyword:">
-<!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Show all tags">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Load this bookmark in the sidebar">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
-<!ENTITY editBookmarkOverlay.choose.label                    "Choose…">
-<!ENTITY editBookmarkOverlay.newFolderButton.label           "New Folder">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
+<!ENTITY editBookmarkOverlay.location.label                  "Atsarasšona vīta:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "v">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Barūtnes atsarasšona vīta:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "B">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Lopys atsarasšona vīta:">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
+<!ENTITY editBookmarkOverlay.folder.label                    "Mape:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Ruodeit vysys gruomotzeimju mapes">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Paslēpt">
+<!ENTITY editBookmarkOverlay.tags.label                      "Birkys:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "B">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Atdolit birkys ar komatym">
+<!ENTITY editBookmarkOverlay.description.label               "Aproksts:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "A">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Atslāgvuords:">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "A">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Ruodeit vysys birkys">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Īluodeit itū gruomotzeimi suonu juslā">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "o">
+<!ENTITY editBookmarkOverlay.choose.label                    "Izavielit…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Jauns mape">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "m">

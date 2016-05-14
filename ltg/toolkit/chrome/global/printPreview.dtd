@@ -2,21 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY print.label          "Print…">
-<!ENTITY print.accesskey      "P">
-<!ENTITY pageSetup.label      "Page Setup…">
+<!ENTITY print.label          "Drukuot...">
+<!ENTITY print.accesskey      "D">
+<!ENTITY pageSetup.label      "Lopys īstatiejumi...">
 <!ENTITY pageSetup.accesskey  "u">
-<!ENTITY page.label           "Page:">
+<!ENTITY page.label           "Lopa:">
 <!ENTITY page.accesskey       "a">
-<!ENTITY of.label             "of">
-<!ENTITY scale.label          "Scale:">
-<!ENTITY scale.accesskey      "S">
-<!ENTITY portrait.label       "Portrait">
+<!ENTITY of.label             "nu">
+<!ENTITY scale.label          "Mārūgs:">
+<!ENTITY scale.accesskey      "M">
+<!ENTITY portrait.label       "Portrets">
 <!ENTITY portrait.accesskey   "o">
-<!ENTITY landscape.label      "Landscape">
-<!ENTITY landscape.accesskey  "L">
-<!ENTITY close.label          "Close">
-<!ENTITY close.accesskey      "C">
+<!ENTITY landscape.label      "Ainova">
+<!ENTITY landscape.accesskey  "n">
+<!ENTITY close.label          "Aiztaiseit">
+<!ENTITY close.accesskey      "z">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
 <!ENTITY p50.label            "50&#037;">
@@ -29,11 +29,11 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
-<!ENTITY Custom.label         "Custom…">
-<!ENTITY ShrinkToFit.label    "Shrink To Fit">
-<!ENTITY customPrompt.title   "Custom Scale…">
+<!ENTITY Custom.label         "Pīlāguots...">
+<!ENTITY ShrinkToFit.label    "Saspīst, kab ītylptu">
+<!ENTITY customPrompt.title   "Pīlāguots mārūgs...">
 
-<!ENTITY homearrow.tooltip    "First page">
-<!ENTITY endarrow.tooltip     "Last page">
-<!ENTITY nextarrow.tooltip    "Next page">
-<!ENTITY previousarrow.tooltip "Previous page">
+<!ENTITY homearrow.tooltip    "Pyrmuo lopa">
+<!ENTITY endarrow.tooltip     "Pādejuo lopa">
+<!ENTITY nextarrow.tooltip    "Nuokomuo lopa">
+<!ENTITY previousarrow.tooltip "Īprīkšejā lopa">

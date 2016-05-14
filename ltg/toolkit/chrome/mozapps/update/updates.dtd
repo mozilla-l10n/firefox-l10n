@@ -1,101 +1,81 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY  updateWizard.title              "Software Update">
+<!ENTITY  updateWizard.title              "Programaturys atjaunynuošona">
 
-<!ENTITY  checking.title                  "Checking for Updates">
-<!ENTITY  updateCheck.label               "Looking for newer versions of &brandShortName;…">
+<!ENTITY  checking.title                  "Puorbauda atjaunynuojumus">
+<!ENTITY  updateCheck.label               "Meklej jaunuoku &brandShortName; verseju…">
 
-<!ENTITY  pluginupdatesfound.title        "Found Updates for Plugins">
-<!ENTITY  pluginupdatesfound.label        "Newer versions of one or more of your plugins were found.">
-<!ENTITY  pluginupdateslink.label         "See how to upgrade your plugins.">
+<!ENTITY  pluginupdatesfound.title        "Atrosti spraudņu atjaunynuojumi">
+<!ENTITY  pluginupdatesfound.label        "Vīnam voi vairuokim spraudnim atrostys jaunuokys versejis.">
+<!ENTITY  pluginupdateslink.label         "Uzzinit kai atjaunynuot spraudņus.">
 
-<!ENTITY  noupdatesfound.title            "No Updates Found">
-<!ENTITY  noupdatesautoenabled.intro      "There are no updates available. &brandShortName; will check
-                                           periodically for updates.">
-<!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable
-                                           &brandShortName;'s automatic update checking.">
+<!ENTITY  noupdatesfound.title            "Nav atrosti atjaunynuojumi">
+<!ENTITY  noupdatesautoenabled.intro      "Jaunu atjaunynuojumu nav. &brandShortName; ik pa breižam puorbaudeis atjaunynuojumus.">
+<!ENTITY  noupdatesautodisabled.intro     "Jaunu atjaunynuojumu nav. Puorbaudit tūs vēļreiz vāluok voi ari aktivizejit &brandShortName; automatiskū atjaunynuojumu puorbaudi.">
 
-<!ENTITY  manualUpdate.title              "Unable to Update">
-<!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do
-                                           not have the system permissions required to install it. Please contact your
-                                           system administrator, or try again from an account that has permission to
-                                           install software on this computer.">
-<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
-                                           not have enough space to install it.">
-<!ENTITY  manualUpdateGetMsg.label        "You can always get the latest version of &brandShortName; at:">
+<!ENTITY  manualUpdate.title              "Nasanuok atjaunynuošona">
+<!ENTITY  manualUpdate.desc               "Ir pīejami drūseibys i stabilitātes atjaunynuojumi, taču jiusim nav napīcīšamū tīseibu instaleit tūs. Lyudzu informejit par itū sovu sistemys administratoru voi ari raugit vēļreiz nu cyta lītuotuoja konta, kam ir napīcīšamuos atļuovis instaleit programaturys atjaunynuojumus.">
+<!ENTITY  manualUpdate.space.desc         "Ir pīejams īteicams drūseibys i stabilitātes atjaunynuojums, taču jiusim nav pīteikami daudz breivuos vītys, kab to uzinstaleitu.">
+<!ENTITY  manualUpdateGetMsg.label        "Jaunuokū &brandShortName; verseju jius vīnmār varot īgiut ite:">
 
-<!ENTITY  unsupported.title               "System Unsupported">
-<!ENTITY  unsupported.label               "Your &brandShortName; is out of date, but the latest version is not
-                                           supported on your system. Please upgrade your system, then try again.
-                                           You will not see this notice again, but you can">
-<!ENTITY  unsupportedLink.label           "learn more.">
+<!ENTITY  unsupported.title               "Naatbaļsteita sistema">
+<!ENTITY  unsupported.label               "Jiusu &brandShortName; ir nūvacuojs, bet jaunuokuo verseja jiusu sistemā natīk pabaļsteita. Lyudzu atjaunynojit sovu sistemu i raugit vēļreiz. Itys paziņuojums natiks ruodeits atkuortuoti, bet jius varot ">
+<!ENTITY  unsupportedLink.label           "uzzynojit vairuok.">
 
-<!ENTITY  incompatibleCheck.title         "Checking Add-on Compatibility">
-<!ENTITY  incompatibleCheck.label         "Looking for newer versions of your add-ons…">
+<!ENTITY  incompatibleCheck.title         "Puorbauda papyldynuojumu savītuojumu">
+<!ENTITY  incompatibleCheck.label         "Meklej jiusu papyldynuojumu jaunuokuos versejis…">
 
-<!ENTITY  clickHere.label                 "View more information about this update">
+<!ENTITY  clickHere.label                 "Vairuok informacejis par itū atjaunynuojumu">
 
-<!ENTITY  evangelism.desc                 "It is strongly recommended that you apply this 
-                                           update for &brandShortName; as soon as possible.">
+<!ENTITY  evangelism.desc                 "Itū &brandShortName; atjaunynuojumu byutu juouzstuoda piec īspiejis uotruok.">
 
-<!ENTITY  license.instructions            "If you agree to the terms of this agreement, click I Agree 
-                                           below to continue installing this update.">
+<!ENTITY  license.instructions            "Nui pīkreitit itei leiguma nūsacejumym, spīdit zamuok asūšū Es pīkreitu, i vareisit turpynuot atjaunynuojuma instaliešonu.">
 
-<!ENTITY  license.titleText               "Software License Agreement">
-<!ENTITY  license.introText               "Terms and conditions for using this software.">
-<!ENTITY  license.instructionText         "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
-<!ENTITY  license.accept                  "I accept the terms of the License Agreement">
+<!ENTITY  license.titleText               "Programaturys licences leigums.">
+<!ENTITY  license.introText               "Ituos programaturys lītuošonys nūsaciejumi.">
+<!ENTITY  license.instructionText         "Lyudzu, izlosit itū licences leigumu. Lītojit ritjūslu, kab apsavārtu vysu leiguma tekstu.">
+<!ENTITY  license.accept                  "Es pīkreitu licences leiguma nūsacejumym">
 <!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "I do NOT accept the terms of the License Agreement">
+<!ENTITY  license.decline                 "Es napīkreitu licences leiguma nūsacejumym">
 <!ENTITY  license.decline.accesskey       "T">
 
-<!ENTITY  incompatibleList.title          "Incompatible Add-ons Found">
+<!ENTITY  incompatibleList.title          "Atrosti nasadereigi papyldynuojumi">
 
-<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
-<!ENTITY  downloading.intro               "Downloading the update…">
-<!ENTITY  connecting.label                "Connecting to the update server…">
-<!ENTITY  verificationFailedText.label    "&brandShortName; was unable to verify the integrity of the 
-                                           incremental update it downloaded, so it is now downloading
-                                           the complete update package.">
+<!ENTITY  downloadPage.title              "Lejupīluodē &brandShortName;">
+<!ENTITY  downloading.intro               "Lejupīluodē atjaunynuojumu...">
+<!ENTITY  connecting.label                "Pīsaslādz atjaunynuošonys serverim...">
+<!ENTITY  verificationFailedText.label    "&brandShortName; naizadeve puorbaudeit lejupīluodeituo inkrementaluo atjaunynuojuma integritati, deļ tuo tagad tīk īluodeits pylnais atjaunynuojums.">
 
-<!ENTITY  viewDetails.tooltip             "View details for this update">
+<!ENTITY  viewDetails.tooltip             "Apsavērt seikuoku informaceju par atjaunynuojumu">
 
-<!ENTITY  details.link                    "Details">
+<!ENTITY  details.link                    "Seikuoka informaceja">
 
-<!ENTITY  error.title                     "Update Failed">
+<!ENTITY  error.title                     "Atjaunynuošona naizadeve">
 
-<!ENTITY  error.label                     "There were problems checking for, downloading, or installing this 
-                                           update. &brandShortName; could not be updated because:">
+<!ENTITY  error.label                     "Gadejās problemys, puorbaudūt, lejupīluodejūt voi instalejūt itū atjaunynuojumu. Naizadeve atjaunynuot &brandShortName;, kam:">
                                            
-<!ENTITY  errorManual.label               "You can update &brandShortName; manually by visiting this link
-                                           and downloading the latest version:">
+<!ENTITY  errorManual.label               "Varot pošrūceigi atjaunynuot &brandShortName;, dūdūtīs iz itū saiti i lejupīluodejūt jaunuokū verseju.">
                                            
 <!ENTITY  errorpatching.intro             "The partial Update could not be applied. 
                                            &brandShortName; will try again by downloading a complete Update.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
-                                           make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
-                                           insecure update. Please contact your network provider and seek help.">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; navar nūteikt voi ir pīejams tei atjaunynuojums. Lyudzu puorsalīcinojit, ka jiusim ir jaunuokuo &brandShortName; verseja nu:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Koč kas līdz &brandShortName; drūsais atsajaunynuot. Lyudzu puorsalīcinojit, ka jiusim ir jaunuokuo &brandShortName; verseja nu:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Koč kas rauga apmuoneit &brandShortName;, kab tys pījemtu nadrūsu atjaunynuojumu. Lyudzu sasazynojit ar sovu teikla nūdrūsynuotuoju i meklejit paleidzeibu.">
 
-<!ENTITY  finishedPage.title              "Update Ready to Install">
-<!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
-                                           can restart &brandShortName; now, or continue working and restart later.">
+<!ENTITY  finishedPage.title              "Atjaunynuojumi ir gotovi uzstuodeišonai">
+<!ENTITY  finishedPage.text               "Atjaunynuojumi tiks uzstuodeiti nuokamū reizi, kod &brandShortName; tiks palaists. Jius varot puorstarteit &brandShortName; tiuleņ voi ari turpynuot struoduot i izdareit tū vāluok.">
 
-<!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
-                                           downloaded and is ready to be installed.">
-<!ENTITY  finishedBackground.name         "Update:">
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName; drūseibys atjaunynuojums ir lejupīluodeits i gotovs instaliešonai.">
+<!ENTITY  finishedBackground.name         "Atjaunynuojums:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "The update will be installed the next time &brandShortName; starts. You
-                                           can restart &brandShortName; now, or continue working and restart later.">
+<!ENTITY  finishedBackground.more         "Spīdit Puorstarteit &brandShortName; tagad, kab tiuleņ instaleitu atjaunynuojumu.">
 
-<!ENTITY  installed.title                 "Update Installed">
-<!ENTITY  installed.intro                 "The update was successfully installed.">
-<!ENTITY  whatsnew.label                  "Read more about what's new…">
+<!ENTITY  installed.title                 "Atjaunynuojums uzinstaleits">
+<!ENTITY  installed.intro                 "Atjaunynuojums sekmeigi uzinstaleits.">
+<!ENTITY  whatsnew.label                  "Vairuok par jaunajom lītom...">
 
-<!ENTITY  update.details.label            "Details">
-<!ENTITY  update.installedOn.label        "Installed on:">
-<!ENTITY  update.status.label             "Status:">
+<!ENTITY  update.details.label            "Seikuoka informaceja">
+<!ENTITY  update.installedOn.label        "Uzinstaleits:">
+<!ENTITY  update.status.label             "Statuss:">

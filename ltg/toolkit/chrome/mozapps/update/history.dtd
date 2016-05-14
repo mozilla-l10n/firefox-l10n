@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  history.title             "Update History">
-<!ENTITY  history.intro             "The following updates have been installed:">
-<!ENTITY  closebutton.label         "Close">
+<!ENTITY  history.title             "Atjaunynuošonys viesture">
+<!ENTITY  history.intro             "Ir instaleiti itaidi atjaunynuojumi:">
+<!ENTITY  closebutton.label         "Aiztaiseit">
                                      
-<!ENTITY  noupdates.label           "No updates installed yet">
+<!ENTITY  noupdates.label           "Vel nav instaleits nivīns atjaunynuojums">
 
-<!ENTITY  name.header               "Update Name">
-<!ENTITY  date.header               "Install Date">
-<!ENTITY  type.header               "Type">
-<!ENTITY  state.header              "State">
+<!ENTITY  name.header               "Atjaunynuojuma nūsaukums">
+<!ENTITY  date.header               "Instaliešonys datums">
+<!ENTITY  type.header               "Tips">
+<!ENTITY  state.header              "Stuovūklis">
 

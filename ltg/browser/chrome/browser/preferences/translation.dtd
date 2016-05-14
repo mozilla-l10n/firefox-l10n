@@ -7,18 +7,18 @@
 <!ENTITY windowClose.key                  "w">
 
 <!ENTITY noTranslationForLanguages.label  "Translation will not be offered for the following languages:">
-<!ENTITY treehead.languageName.label      "Languages">
-<!ENTITY removeLanguage.label             "Remove Language">
-<!ENTITY removeLanguage.accesskey         "R">
-<!ENTITY removeAllLanguages.label         "Remove All Languages">
-<!ENTITY removeAllLanguages.accesskey     "e">
+<!ENTITY treehead.languageName.label      "Volūdys">
+<!ENTITY removeLanguage.label             "Aizvuokt volūdu">
+<!ENTITY removeLanguage.accesskey         "z">
+<!ENTITY removeAllLanguages.label         "Aizvuokt vysys volūdys">
+<!ENTITY removeAllLanguages.accesskey     "v">
 
 <!ENTITY noTranslationForSites.label      "Translation will not be offered for the following sites:">
-<!ENTITY treehead.siteName.label          "Sites">
-<!ENTITY removeSite.label                 "Remove Site">
-<!ENTITY removeSite.accesskey             "S">
-<!ENTITY removeAllSites.label             "Remove All Sites">
+<!ENTITY treehead.siteName.label          "Lopys">
+<!ENTITY removeSite.label                 "Aizvuokt lopu">
+<!ENTITY removeSite.accesskey             "l">
+<!ENTITY removeAllSites.label             "Aizvuokt vysys lopys">
 <!ENTITY removeAllSites.accesskey         "i">
 
-<!ENTITY button.close.label               "Close">
-<!ENTITY button.close.accesskey           "C">
+<!ENTITY button.close.label               "Aiztaiseit">
+<!ENTITY button.close.accesskey           "A">

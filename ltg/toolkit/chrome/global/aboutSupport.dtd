@@ -2,108 +2,111 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
-
+<!ENTITY aboutSupport.pageTitle "Problemu nūvieršonys informaceja">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
-">
 
-<!ENTITY aboutSupport.crashes.title "Crash Reports">
+<!ENTITY aboutSupport.pageSubtitle "  Itei lopa satur tehnisku informaceju, kas var byut nūdereiga, raugūt nūvierst problemu. Nui meklejit atbiļdis iz vīnkuoršym vaicuojumym par &brandShortName;, apsaverit myusu <a id='supportLink'>pabolsta sātys lopu</a>.">
+
+<!ENTITY aboutSupport.crashes.title "Avarejis ziņuojumi">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!ENTITY aboutSupport.crashes.id "Report ID">
-<!ENTITY aboutSupport.crashes.sendDate "Submitted">
-<!ENTITY aboutSupport.crashes.allReports "All Crash Reports">
-<!ENTITY aboutSupport.crashes.noConfig "This application has not been configured to display crash reports.">
+<!ENTITY aboutSupport.crashes.id "Ziņuojuma ID">
+<!ENTITY aboutSupport.crashes.sendDate "Nūsyuteits">
+<!ENTITY aboutSupport.crashes.allReports "Vysi avarejis ziņuojumi">
+<!ENTITY aboutSupport.crashes.noConfig "Itei aplikaceja nav nūkonfigureita avarejis ziņuojumu attāluošonai.">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
-<!ENTITY aboutSupport.extensionName "Name">
-<!ENTITY aboutSupport.extensionEnabled "Enabled">
-<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionsTitle "Papyldynuojumi">
+<!ENTITY aboutSupport.extensionName "Nūsaukums">
+<!ENTITY aboutSupport.extensionEnabled "Īslāgts">
+<!ENTITY aboutSupport.extensionVersion "Verseja">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "Experimental Features">
-<!ENTITY aboutSupport.experimentName "Name">
+<!ENTITY aboutSupport.experimentsTitle "Eksperimentaluos īspiejis">
+<!ENTITY aboutSupport.experimentName "Nūsaukums">
 <!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Description">
-<!ENTITY aboutSupport.experimentActive "Active">
-<!ENTITY aboutSupport.experimentEndDate "End Date">
-<!ENTITY aboutSupport.experimentHomepage "Homepage">
+<!ENTITY aboutSupport.experimentDescription "Aproksts">
+<!ENTITY aboutSupport.experimentActive "Aktivāta">
+<!ENTITY aboutSupport.experimentEndDate "Beigu datums">
+<!ENTITY aboutSupport.experimentHomepage "Sātys lopa">
 <!ENTITY aboutSupport.experimentBranch "Branch">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.appBasicsName "Name">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.appBasicsBuildID "Build ID">
-
+<!ENTITY aboutSupport.appBasicsTitle "Programys pamotinformaceja">
+<!ENTITY aboutSupport.appBasicsName "Nūsaukums">
+<!ENTITY aboutSupport.appBasicsVersion "Verseja">
+<!ENTITY aboutSupport.appBasicsBuildID "Byuviejuma ID">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-<!ENTITY aboutSupport.appBasicsUpdateChannel "Update Channel">
-<!ENTITY aboutSupport.appBasicsUpdateHistory "Update History">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Show Update History">
 
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Atjaunynuojumu kanals">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Atjaunynuojumu viesture">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Paruodeit atjaunynuojumu viesturi">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "Profila direktoreja">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profile Folder">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profila mape">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
-<!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
-
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktivizātī spraudni">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Byuviejuma konfiguraceja">
+<!ENTITY aboutSupport.appBasicsUserAgent "Lītuotuoja agents">
+<!ENTITY aboutSupport.appBasicsOS "OS">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Atminis izmantuojums">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registered Service Workers">
 
-<!ENTITY aboutSupport.appBasicsProfiles "Profiles">
+<!ENTITY aboutSupport.appBasicsProfiles "Profili">
 
-<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocess Windows">
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Vairuoku procesu lūgs">
 
-<!ENTITY aboutSupport.appBasicsSafeMode "Safe Mode">
+<!ENTITY aboutSupport.appBasicsSafeMode "Drūsais režyms">
 
-<!ENTITY aboutSupport.showDir.label "Open Directory">
+<!ENTITY aboutSupport.showDir.label "Attaiseit mapi">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!ENTITY aboutSupport.showMac.label "Ruodeit ar Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "Show Folder">
+<!ENTITY aboutSupport.showWin.label "Ruodeit mapi">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
-<!ENTITY aboutSupport.modifiedPrefsValue "Value">
-
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Svareigī modificeitī īstatiejumi">
+<!ENTITY aboutSupport.modifiedPrefsName "Nūsaukums">
+<!ENTITY aboutSupport.modifiedPrefsValue "Vierteiba">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
-<!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+
+<!ENTITY aboutSupport.userJSTitle "user.js īstatiejumi">
+<!ENTITY aboutSupport.userJSDescription "Jiusu profila mapī atsarūn <a id='prefs-user-js-link'>user.js fails</a>, kas satur īstatiejumus, kū nav izveiduojs &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Important Locked Preferences">
-<!ENTITY aboutSupport.lockedPrefsName "Name">
-<!ENTITY aboutSupport.lockedPrefsValue "Value">
+<!ENTITY aboutSupport.lockedPrefsName "Nūsaukums">
+<!ENTITY aboutSupport.lockedPrefsValue "Vierteiba">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "Grafika">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.jsIncrementalGC "Inkrementalais GC">
 
-<!ENTITY aboutSupport.a11yTitle "Accessibility">
-<!ENTITY aboutSupport.a11yActivated "Activated">
-<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+<!ENTITY aboutSupport.a11yTitle "Pīejameiba">
+<!ENTITY aboutSupport.a11yActivated "Aktivizāta">
+<!ENTITY aboutSupport.a11yForceDisabled "Naatļaut pīejameibu">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Library Versions">
+<!ENTITY aboutSupport.libraryVersionsTitle "Bibliotekys versejis">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
-<!ENTITY aboutSupport.updateHistoryTitle "Update History">
+<!ENTITY aboutSupport.installationHistoryTitle "Instalacejis viesture">
+<!ENTITY aboutSupport.updateHistoryTitle "Atjaunynuojumu viesture">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Kopēt tekstu atmiņā">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopēt datus atmiņā">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
 <!ENTITY aboutSupport.safeModeTitle "Try Safe Mode">
-<!ENTITY aboutSupport.restartInSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY aboutSupport.restartInSafeMode.label "Puorstarteit ar deaktiveitim papyldynuojumym…">
+
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Īspiejis">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostics">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Failure Log">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">

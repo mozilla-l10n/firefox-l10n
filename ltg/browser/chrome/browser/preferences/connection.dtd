@@ -3,47 +3,47 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  connectionsDialog.title       "Connection Settings">
+<!ENTITY  connectionsDialog.title       "Savīnuojuma īstatiejumi">
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "Configure Proxies to Access the Internet">
-<!ENTITY  noProxyTypeRadio.label        "No proxy">
+<!ENTITY  proxyTitle.label              "Konfigureit storpnīkserverus (proxy)">
+<!ENTITY  noProxyTypeRadio.label        "Bez proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
+<!ENTITY  systemTypeRadio.label         "Izmantuot sistemys proxy īstatiejumus">
 <!ENTITY  systemTypeRadio.accesskey     "u">
-<!ENTITY  WPADTypeRadio.label           "Auto-detect proxy settings for this network">
-<!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "Manual proxy configuration:">
-<!ENTITY  manualTypeRadio.accesskey     "m">
-<!ENTITY  autoTypeRadio.label           "Automatic proxy configuration URL:">
+<!ENTITY  WPADTypeRadio.label           "Automatiski nūteikt storpnīkservera īstatiejumus itam teiklam">
+<!ENTITY  WPADTypeRadio.accesskey       "n">
+<!ENTITY  manualTypeRadio.label         "Pošizveiduota proxy konfiguraceja:">
+<!ENTITY  manualTypeRadio.accesskey     "k">
+<!ENTITY  autoTypeRadio.label           "Automatiskuos proxy konfiguracejis URL:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
-<!ENTITY  reload.label                  "Reload">
-<!ENTITY  reload.accesskey              "e">
+<!ENTITY  reload.label                  "Puorluodeit">
+<!ENTITY  reload.accesskey              "r">
 <!ENTITY  ftp.label                     "FTP Proxy:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP Proxy:">
-<!ENTITY  http.accesskey                "x">
+<!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL Proxy:">
-<!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "SOCKS Host:">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "SOCKS resursdators:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label          "Remote DNS">
-<!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "Port:">
+<!ENTITY  socksRemoteDNS.label          "Attuolynuotais DNS">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
+<!ENTITY  port.label                    "Ports:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "No Proxy for:">
+<!ENTITY  noproxy.label                 "Bez storpnīka:">
 <!ENTITY  noproxy.accesskey             "n">
-<!ENTITY  noproxyExplain.label          "Example: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Use this proxy server for all protocols">
-<!ENTITY  shareproxy.accesskey          "s">
-<!ENTITY  autologinproxy.label          "Do not prompt for authentication if password is saved">
+<!ENTITY  noproxyExplain.label          "Pīmārs: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Izmantuot proxy vysim protokolym">
+<!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  autologinproxy.label          "Navaicuot autentifikaceju, nui ir saglobuota parole">
 <!ENTITY  autologinproxy.accesskey      "i">
-<!ENTITY  autologinproxy.tooltip        "This option silently authenticates you to proxies when you have saved credentials for them. You will be prompted if authentication fails.">
+<!ENTITY  autologinproxy.tooltip        "Itei īspieja namonūt autentificēs jius storpnīkserverūs, kurim jiusim ir saglobuota parole. Nui autentifikaceja naizadūs, jiusim tiks paruodeits autentifikacejis lūgs.">

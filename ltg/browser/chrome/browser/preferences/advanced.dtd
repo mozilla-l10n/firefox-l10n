@@ -1,122 +1,122 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label                "General">
 
-<!ENTITY accessibility.label             "Accessibility">
+<!ENTITY generalTab.label                "Vyspuoriejs">
 
-<!ENTITY useCursorNavigation.label       "Always use the cursor keys to navigate within pages">
-<!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Search for text when I start typing">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Warn me when websites try to redirect or reload the page">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY accessibility.label             "Pīejameiba">
+
+<!ENTITY useCursorNavigation.label       "Vīnmār izmantuot kursora tausteņus, kab puorvītuotūs pa lopom">
+<!ENTITY useCursorNavigation.accesskey   "k">
+<!ENTITY searchStartTyping.label         "Mekleit raksteitū tekstu, koleidz es suoku raksteit">
+<!ENTITY searchStartTyping.accesskey     "t">
+<!ENTITY blockAutoRefresh.label          "Breidynuot mani, nui sātys lopa rauga puorluodeitīs voi puorsyuteit mani iz cytu lopu">
+<!ENTITY blockAutoRefresh.accesskey      "B">
 <!ENTITY useOnScreenKeyboard.label       "Show a touch keyboard when necessary">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
-<!ENTITY browsing.label                  "Browsing">
+<!ENTITY browsing.label                  "Puorlūkuošona">
 
-<!ENTITY useAutoScroll.label             "Use autoscrolling">
+<!ENTITY useAutoScroll.label             "Lītuot autorytynuošonu">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "Use smooth scrolling">
-<!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
+<!ENTITY useSmoothScrolling.label        "Lītuot plyudenū rytynuošonu">
+<!ENTITY useSmoothScrolling.accesskey    "L">
+<!ENTITY allowHWAccel.label              "Nui pīejams, izmantuot aparaturys pauotrynuojumu">
 <!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "Check my spelling as I type">
-<!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY checkSpelling.label             "Rokstūt puorbaudeit pareizraksteibu">
+<!ENTITY checkSpelling.accesskey         "R">
 
-<!ENTITY dataChoicesTab.label            "Data Choices">
+<!ENTITY dataChoicesTab.label            "Datu izviele">
 
-<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
-<!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Learn More">
+<!ENTITY healthReportDesc.label          "Paleidz izprast jiusu puorlūka veiktspieju i syuta itūs datus par puorlūka stuovūkli &vendorShortName;">
+<!ENTITY enableHealthReport.label        "Aktivēt &brandShortName; stuovūkļa ziņuojumu">
+<!ENTITY enableHealthReport.accesskey    "v">
+<!ENTITY healthReportLearnMore.label     "Uzzynojit vairuok">
 
-<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY enableTelemetryData.label       "Share additional data (i.e., Telemetry)">
+<!ENTITY telemetryDesc.label             "Nūsyuta aparaturys parametru, to veiktspiejis, lītuošonys i puorlūka pīlāguojumu informaceju &vendorShortName;, kab paleidzeitu uzlobuot &brandShortName;">
+<!ENTITY enableTelemetryData.label       "Daleitīs ar papyldus datym (pīm. Telemetreju)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Learn More">
+<!ENTITY telemetryLearnMore.label        "Uzzynojit vairuok">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
-<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Learn More">
+<!ENTITY crashReporterDesc.label         "&brandShortName; nūsyuta avarejis zinuojumus &vendorShortName;, kab padareitu puorlyuku drūsuoku i stabiluoku.">
+<!ENTITY enableCrashReporter.label       "Aktivēt avarejis zinuojumus">
+<!ENTITY enableCrashReporter.accesskey   "z">
+<!ENTITY crashReporterLearnMore.label    "Uzzynojit vairuok">
 
-<!ENTITY networkTab.label                "Network">
+<!ENTITY networkTab.label                "Teikls">
 
-<!ENTITY connection.label                "Connection">
+<!ENTITY connection.label                "Savīnuojums">
 
-<!ENTITY connectionDesc.label            "Configure how &brandShortName; connects to the Internet">
-<!ENTITY connectionSettings.label        "Settings…">
+<!ENTITY connectionDesc.label            "Konfigureit, kai &brandShortName; savīnojās ar Šķārsteiklu">
+<!ENTITY connectionSettings.label        "Īstatiejumi...">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY httpCache.label                 "Cached Web Content">
+<!ENTITY httpCache.label                 "Saglobuotais šķārsteikla saturs">
 
-<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
-
+<!ENTITY offlineStorage2.label           "Nasaistis šķārsteikla saturs i lītuotuoja dati">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "MB of space">
-<!ENTITY clearCacheNow.label             "Clear Now">
-<!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+
+<!ENTITY limitCacheSizeBefore.label      "Īrūbežuot kešatmiņu leidz ">
+<!ENTITY limitCacheSizeBefore.accesskey  "k">
+<!ENTITY limitCacheSizeAfter.label       "MB">
+<!ENTITY clearCacheNow.label             "Izteireit">
+<!ENTITY clearCacheNow.accesskey         "I">
+<!ENTITY clearOfflineAppCacheNow.label   "Izteireit">
+<!ENTITY clearOfflineAppCacheNow.accesskey "z">
 <!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
-<!ENTITY updateTab.label                 "Update">
+<!ENTITY updateTab.label                 "Atjaunynuot">
 
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
-<!ENTITY updateAuto1.label               "Automatically install updates (recommended: improved security)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
-<!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateApp.label                 "&brandShortName; atjaunynuojumi:">
+<!ENTITY updateAuto1.label               "Instaleit atjaunynuojumus automatiski (īteicams: uzloboj drūseibu)">
+<!ENTITY updateAuto1.accesskey           "a">
+<!ENTITY updateCheck.label               "Puorbaudeit atjaunynuojumu pīejameibu, bet ļaut maņ izavieleit voi instaleit tūs">
+<!ENTITY updateCheck.accesskey           "u">
+<!ENTITY updateManual.label              "Napuorbaudeit atjaunynuojumu pīejameibu (nav īteicams: drūseibys risks)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateAutoAddonWarn.label       "Breidynuot, nui tys deaktivēs kaidu nu munim papyldynuojumym">
+<!ENTITY updateAutoAddonWarn.accesskey   "B">
 
-<!ENTITY updateHistory.label             "Show Update History">
-<!ENTITY updateHistory.accesskey         "p">
+<!ENTITY updateHistory.label             "Paruodeit atjaunynuojumu viesturi">
+<!ENTITY updateHistory.accesskey         "P">
 
-<!ENTITY useService.label                "Use a background service to install updates">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.label                "Instaleit atjaunynuojumus fonā">
+<!ENTITY useService.accesskey            "f">
 
-<!ENTITY updateOthers.label              "Automatically update:">
-<!ENTITY enableSearchUpdate.label        "Search Engines">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+<!ENTITY updateOthers.label              "Automatiski atjaunynuot:">
+<!ENTITY enableSearchUpdate.label        "Meklietuojus">
+<!ENTITY enableSearchUpdate.accesskey    "l">
 
-<!ENTITY offlineNotify.label             "Tell me when a website asks to store data for offline use">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "Exceptions…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+<!ENTITY offlineNotify.label             "Ziņuot maņ, kod sātys lopa gryb saglobuot datus izmontuošonai nasaistī">
+<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotifyExceptions.label   "Izjāmumi...">
+<!ENTITY offlineNotifyExceptions.accesskey "m">
 
-<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
+<!ENTITY offlineAppsList2.label          "Itom sātys lopom ir atļauts globoj datus izmontuošonai nasaistī:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Remove…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Remove offline data">
+<!ENTITY offlineAppsListRemove.label     "Aizvuokt...">
+<!ENTITY offlineAppsListRemove.accesskey "A">
+<!ENTITY offlineAppRemove.confirm        "Aizvuokt nasaistis datus">
 
-<!ENTITY certificateTab.label            "Certificates">
-<!ENTITY certSelection.label             "Requests">
-<!ENTITY certSelection.description       "When a server requests my personal certificate:">
-<!ENTITY certs.auto                      "Select one automatically">
+<!ENTITY certificateTab.label            "Sertifikati">
+<!ENTITY certSelection.label             "Pīprasiejumi">
+<!ENTITY certSelection.description       "Kod serveris pīprosa munu personeigū sertifikatu:">
+<!ENTITY certs.auto                      "Izavieleit automatiski">
 <!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Ask me every time">
-<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY certs.ask                       "Kotru reizi vaicuot maņ">
+<!ENTITY certs.ask.accesskey             "i">
 <!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "View Certificates">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "Security Devices">
+<!ENTITY viewCerts.label                 "Apsavērt sertifikatus">
+<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewSecurityDevices.label       "Drūseibys īrīces">
 <!ENTITY viewSecurityDevices.accesskey   "D">

@@ -2,14 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY title           "Install Add-on">
-<!ENTITY intro           "Another program on your computer would like to modify
-                          &brandShortName; with the following add-on:">
-<!ENTITY warning         "Install add-ons only from authors whom you trust.">
-<!ENTITY allow           "Allow this installation">
-<!ENTITY later           "You can always change your mind at any time by going
-                          to the Add-ons Manager.">
-<!ENTITY continue        "Continue">
-<!ENTITY restartMessage  "You must restart &brandShortName; to finish installing this add-on.">
-<!ENTITY restartButton   "Restart &brandShortName;">
-<!ENTITY cancelButton    "Cancel">
+<!ENTITY title           "Instaleit papyldynuojumu">
+<!ENTITY intro           "Kaida cyta programa jiusu datorā vālās/gryb maineit &brandShortName; ar sekūjūšu papyldynuojumu:">
+<!ENTITY warning         "Instalejit vīneigi uztycamu autoru papyldynuojums.">
+<!ENTITY allow           "Atļaut instaliešonu">
+<!ENTITY later           "Jius vīnmār varot maineit sovys dūmys attaisūt papyldynuojumu puorvaļdnīku.">
+<!ENTITY continue        "Turpynuot">
+<!ENTITY restartMessage  "Jiusim juopuorstartej &brandShortName; kab pabeigtu itei papyldynuojuma to instaliešonu.">
+<!ENTITY restartButton   "Puorstarteit &brandShortName;">
+<!ENTITY cancelButton    "Atceļt">

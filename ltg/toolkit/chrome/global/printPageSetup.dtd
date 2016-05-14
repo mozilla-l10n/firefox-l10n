@@ -1,66 +1,66 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title    "Page Setup">
 
-<!ENTITY basic.tab           "Format &amp; Options">
+<!ENTITY printSetup.title    "Lopys īstatiejumi">
 
-<!ENTITY formatGroup.label   "Format">
+<!ENTITY basic.tab           "Formatiešona i īstatiejumi">
 
-<!ENTITY orientation.label   "Orientation:">
-<!ENTITY portrait.label      "Portrait">
+<!ENTITY formatGroup.label   "Formats">
+
+<!ENTITY orientation.label   "Nūvītuojums:">
+<!ENTITY portrait.label      "Portrets">
 <!ENTITY portrait.accesskey  "P">
-<!ENTITY landscape.label     "Landscape">
-<!ENTITY landscape.accesskey "L">
+<!ENTITY landscape.label     "Ainova">
+<!ENTITY landscape.accesskey "A">
 
-<!ENTITY scale.label         "Scale:">
-<!ENTITY scale.accesskey     "S">
+<!ENTITY scale.label         "Mārūgs:">
+<!ENTITY scale.accesskey     "M">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Shrink to fit Page Width">
-<!ENTITY shrinkToFit.accesskey "W">
+<!ENTITY shrinkToFit.label   "Saspīst, kab ītylptu lopā">
+<!ENTITY shrinkToFit.accesskey "l">
 
-<!ENTITY optionsGroup.label  "Options">
+<!ENTITY optionsGroup.label  "Īstatiejumi">
 
-<!ENTITY printBG.label       "Print Background (colors &amp; images)">
-<!ENTITY printBG.accesskey   "B">
+<!ENTITY printBG.label       "Drukuot fonu (kruosys i attālus)">
+<!ENTITY printBG.accesskey   "f">
 
-<!ENTITY advanced.tab        "Margins &amp; Header/Footer">
+<!ENTITY advanced.tab        "Molys i golvene/kuojene">
 
-<!ENTITY marginGroup.label   "Margins (#1)">
-<!ENTITY marginUnits.inches  "inches">
-<!ENTITY marginUnits.metric  "millimeters">
-<!ENTITY marginTop.label     "Top:">
-<!ENTITY marginTop.accesskey "T">
-<!ENTITY marginBottom.label  "Bottom:">
-<!ENTITY marginBottom.accesskey "B">
-<!ENTITY marginLeft.label    "Left:">
-<!ENTITY marginLeft.accesskey "L">
-<!ENTITY marginRight.label   "Right:">
-<!ENTITY marginRight.accesskey "R">
+<!ENTITY marginGroup.label   "Molys (#1)">
+<!ENTITY marginUnits.inches  "collys">
+<!ENTITY marginUnits.metric  "milimetri">
+<!ENTITY marginTop.label     "Augšā:">
+<!ENTITY marginTop.accesskey "A">
+<!ENTITY marginBottom.label  "Zamuškā:">
+<!ENTITY marginBottom.accesskey "Z">
+<!ENTITY marginLeft.label    "Kairuo:">
+<!ENTITY marginLeft.accesskey "K">
+<!ENTITY marginRight.label   "Lobuo:">
+<!ENTITY marginRight.accesskey "L">
 
-<!ENTITY headerFooter.label  "Headers &amp; Footers">
+<!ENTITY headerFooter.label  "Golvenes i kuojenes">
 
-<!ENTITY hfLeft.label        "Left:">
-<!ENTITY hfCenter.label      "Center:">
-<!ENTITY hfRight.label       "Right:">
-<!ENTITY headerLeft.tip      "Left header">
-<!ENTITY headerCenter.tip    "Center header">
-<!ENTITY headerRight.tip     "Right header">
-<!ENTITY footerLeft.tip      "Left footer">
-<!ENTITY footerCenter.tip    "Center footer">
-<!ENTITY footerRight.tip     "Right footer">
+<!ENTITY hfLeft.label        "Kairuo:">
+<!ENTITY hfCenter.label      "Centrs:">
+<!ENTITY hfRight.label       "Lobuo:">
+<!ENTITY headerLeft.tip      "Kairuo golvene">
+<!ENTITY headerCenter.tip    "Centra golvene">
+<!ENTITY headerRight.tip     "Lobuo golvene">
+<!ENTITY footerLeft.tip      "Kairuo kuojene">
+<!ENTITY footerCenter.tip    "Centra kuojene">
+<!ENTITY footerRight.tip     "Lobuo kuojene">
 
-<!ENTITY hfTitle             "Title">
+<!ENTITY hfTitle             "Viersroksts">
 <!ENTITY hfURL               "URL">
-<!ENTITY hfDateAndTime       "Date/Time">
-<!ENTITY hfPage              "Page #">
-<!ENTITY hfPageAndTotal      "Page # of #">
-<!ENTITY hfBlank             "--blank--">
-<!ENTITY hfCustom            "Custom…">
+<!ENTITY hfDateAndTime       "Datums/Laiks">
+<!ENTITY hfPage              "Lopa #">
+<!ENTITY hfPageAndTotal      "Lopa # nu #">
+<!ENTITY hfBlank             "--tukšs--">
+<!ENTITY hfCustom            "Pīlāguots...">
 
-<!ENTITY customPrompt.title  "Custom…">
-<!ENTITY customPrompt.prompt "Enter your custom header/footer text">
+<!ENTITY customPrompt.title  "Pīlāguots...">
+<!ENTITY customPrompt.prompt "Ite īvodit sovu golvenes voi kuojenes tekstu">

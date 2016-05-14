@@ -2,113 +2,113 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
-
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; īstateišona">
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description2 "Welcome! If you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY button.haveAccount.label      "I Have an Account">
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
+<!ENTITY setup.pickSetupType.description2 "Esit sveicynuoti! Nui naasot izmontuojuši &syncBrand.fullName.label; īspieju, jiusim juoizveidoj jaunu lītuotuoja kontu.">
+<!ENTITY button.createNewAccount.label "Izveiduot jaunu kontu">
+<!ENTITY button.haveAccount.label      "Maņ jau ir konts">
 
+<!ENTITY setup.choicePage.title.label     "Voi lītojit &syncBrand.fullName.label; īspieju?">
+<!ENTITY setup.choicePage.new.label       "Es vel nalītoju &syncBrand.shortName.label; īspieju">
+<!ENTITY setup.choicePage.existing2.label "Es jau lītoju &syncBrand.shortName.label; īspieju cytā īreicī">
 <!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Server">
-<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
-<!ENTITY serverType.custom2.label   "Use a custom server…">
-<!ENTITY signIn.account2.label      "Account">
-<!ENTITY signIn.account2.accesskey  "A">
-<!ENTITY signIn.password.label      "Password">
+
+<!ENTITY server.label               "Serveris">
+<!ENTITY serverType.default.label      "Nūkluseitais: Mozilla &syncBrand.fullName.label; serverim">
+<!ENTITY serverType.custom2.label   "Izmantuot cytu serveri…">
+<!ENTITY signIn.account2.label      "Konts">
+<!ENTITY signIn.account2.accesskey  "K">
+<!ENTITY signIn.password.label      "Parole">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.recoveryKey.label       "Recovery Key">
-<!ENTITY signIn.recoveryKey.accesskey   "K">
-
+<!ENTITY signIn.recoveryKey.label       "Atdabuošonys atslāgs">
+<!ENTITY signIn.recoveryKey.accesskey   "s">
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
-<!ENTITY setup.emailAddress.label     "Email Address">
-<!ENTITY setup.emailAddress.accesskey "E">
-<!ENTITY setup.choosePassword.label      "Choose a Password">
-<!ENTITY setup.choosePassword.accesskey  "P">
-<!ENTITY setup.confirmPassword.label     "Confirm Password">
-<!ENTITY setup.confirmPassword.accesskey "m">
 
+<!ENTITY setup.newAccountDetailsPage.title.label "Konta informaceja">
+<!ENTITY setup.emailAddress.label     "Eposta adress">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.choosePassword.label      "Izavielit paroli">
+<!ENTITY setup.choosePassword.accesskey  "p">
+<!ENTITY setup.confirmPassword.label     "Apstyprynojit paroli">
+<!ENTITY setup.confirmPassword.accesskey "r">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
-<!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Terms of Service">
-<!ENTITY setup.tosAgree2.label      "and the">
-<!ENTITY setup.ppLink.label         "Privacy Policy">
+
+<!ENTITY setup.tosAgree1.label      "Es pīkreitu">
+<!ENTITY setup.tosAgree1.accesskey  "p">
+<!ENTITY setup.tosLink.label        "Lītuošonys nūsacejumym">
+<!ENTITY setup.tosAgree2.label      "i">
+<!ENTITY setup.ppLink.label         "Privatuma politikai">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
-
 <!-- My Recovery Key dialog -->
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY recoveryKeyEntry.label        "Your Recovery Key">
-<!ENTITY recoveryKeyEntry.accesskey    "K">
-<!ENTITY syncGenerateNewKey.label  "Generate a new key">
-<!ENTITY recoveryKeyBackup.description "Your Recovery Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Recovery Key.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Print…">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ryupejās par jiusu privatū datu drūseibu">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Kab nūdrūsynuotu absolutu privatū datu drūseibu, vysi jiusu dati tīk nūšifreiti pyrms syuteišonys iz Atdabuošonys serveri. Atšifriešonai napīcīšamuo Atdabuošonys atslāgs natak syuteita.">
+<!ENTITY recoveryKeyEntry.label        "Jiusu atdabuošonys atslāgs">
+<!ENTITY recoveryKeyEntry.accesskey    "t">
+<!ENTITY syncGenerateNewKey.label  "Genereit jaunu atslāgu">
+<!ENTITY recoveryKeyBackup.description "Jiusu atdabuošonys atslāgs ir napīcīšama, kab pīkliutu &syncBrand.fullName.label; datym nu cytim datorym i īreičom. Lyudzu izveidojit tuos rezerves puorspīdumus, kam nūzaudeišonys gadiejumā mes navareisim paleidzeit jiusim to atdabuot.">
+
+<!ENTITY button.syncKeyBackup.print.label     "Izdrukoj…">
+<!ENTITY button.syncKeyBackup.print.accesskey "I">
+<!ENTITY button.syncKeyBackup.save.label      "Saglobuot…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
-
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
-<!ENTITY pairDevice.title.label             "Pair a Device">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
-<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
-<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
-<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "To activate your device you will need to enter your Recovery Key. Please print or save this key and take it with you.">
-<!ENTITY addDevice.dialog.connected.label   "Device Connected">
 
+<!ENTITY pairDevice.title.label             "Pīvīnuot īreici">
+<!ENTITY addDevice.showMeHow.label          "Paruodit kai.">
+<!ENTITY addDevice.dontHaveDevice.label     "Īrīce itūbreid nav ar mani">
+<!ENTITY pairDevice.setup.description.label  "Kab aktivizātu, izavielit &quot;Pīvīnuot īreici&quot; ūtrei īreicī.">
+<!ENTITY addDevice.setup.enterCode.label    "Tod īvodit itū kodu:">
+<!ENTITY pairDevice.dialog.description.label "Kab aktivizātu jaunuo īreici, izavielit &quot;Īstateit sinhronizeišonu&quot; itymā īreicī.">
+<!ENTITY addDevice.dialog.enterCode.label   "Īvodit īrīces pīduovuotū kodu:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Lyudzu, raugit vēļreiz.">
+<!ENTITY addDevice.dialog.successful.label  "Īrīce veiksmeigi pīvīnuota. Suokūtnē sinhronizaceja var ilgt vairuokys mynotys i tiks pabeigta fonā.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Kab aktivizātu īreici, jiusim byus juoīvoda Atdabuošonys atslāgs. Lyudzu izdrukojit voi pīrokstit to koč kur.">
+<!ENTITY addDevice.dialog.connected.label   "Īrīce pīslāgta">
 <!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Sign In">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
-<!ENTITY verifying.label              "Verifying…">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY resetSyncKey.label           "I have lost my other device.">
 
+<!ENTITY setup.signInPage.title.label "Pīsasliegt">
+<!ENTITY existingRecoveryKey.description "Sovys Atdabuošonys atslāgi puorspīdumus, jius varot īgiut, ajūt iz &syncBrand.shortName.label; īstatiejumym sovā ūtrei īreicī i izavālūt &quot;Muna Atdabuošonys atslāgs&quot; nu &quot;Konta puorvaļdeiba&quot; izvēlnes/izvielnes.">
+<!ENTITY verifying.label              "Nūteik puorbaude…">
+<!ENTITY resetPassword.label          "Atjaunuot paroli">
+<!ENTITY resetSyncKey.label           "Maņ ir pazuduse ūtra īrīce.">
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync Options">
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY setup.optionsPage.title      "Sinhronizeišonys īstatiejumi">
+<!ENTITY syncDeviceName.label       "Īrīces nūsaukums:">
+<!ENTITY syncDeviceName.accesskey   "n">
+
+<!ENTITY syncMy.label               "Kū sinhronizeit">
+<!ENTITY engine.bookmarks.label     "Gruomotzeimes">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.tabs.label          "Cilnes">
+<!ENTITY engine.tabs.accesskey      "C">
+<!ENTITY engine.history.label       "Viesturi">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.passwords.label     "Paroles">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
-<!ENTITY engine.addons.label        "Add-ons">
-<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.prefs.label         "Īstatiejumus">
+<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.addons.label        "Papyldynuojums">
+<!ENTITY engine.addons.accesskey    "a">
 
-<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
-<!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
-<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
-
+<!ENTITY choice2a.merge.main.label       "Apvīnuot ituos īrīces datus ar datym munā &syncBrand.shortName.label; kontā">
+<!ENTITY choice2.merge.recommended.label "Īteicamais:">
+<!ENTITY choice2a.client.main.label      "Aizstuot vysus datus itymā īreicī ar datym nu muna &syncBrand.shortName.label; konta">
+<!ENTITY choice2a.server.main.label      "Aizstuot cytu īreiču datus ar datym nu ituos īrīces">
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Confirm">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
-<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
-<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
 
+<!ENTITY setup.optionsConfirmPage.title "Apstyprynuot">
+<!ENTITY confirm.merge2.label    "Jius asot izavielieji apvīnuot sovus datus itymā īreicī ar datym nu cytom īreičom, kas izmontoj &syncBrand.fullName.label;.">
+<!ENTITY confirm.client3.label         "Breidynuojums: Vysi &brandShortName; dati itymā īreicī tiks izdzāsti, īskaitūt sekūjūšū:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; piec tam puorkopeis datus nu &syncBrand.fullName.label; itymā īreicī.">
+<!ENTITY confirm.server2.label         "Breidynuojums: Dati sekūjuošuos īreičuos tiks aizstuoti ar jiusu lokalajim datym itymā datorā:">
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+
+<!ENTITY setup.successPage.title "Sagatavuošona pabeigta">
+<!ENTITY changeOptions.label "Jius varot izmaineit itūs īstatiejumus izavālūt zamuok radzamū Atdabuošonys īstatiejumu īspieju.">
+<!ENTITY continueUsing.label "Jius tagad varot turpynuot &brandShortName; izmontuošonu.">

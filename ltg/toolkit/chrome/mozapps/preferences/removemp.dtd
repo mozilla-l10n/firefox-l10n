@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY removePassword.title              "Remove Master Password">
-<!ENTITY removeInfo.label                  "You must enter your current password to proceed:">
-<!ENTITY removeWarning1.label              "Your Master Password is used to protect sensitive information like site passwords.">
-<!ENTITY removeWarning2.label              "If you remove your Master Password your information will not be protected if your computer is compromised.">
-<!ENTITY setPassword.oldPassword.label     "Current password:">
+<!ENTITY removePassword.title              "Nūjimt golvonū paroli">
+<!ENTITY removeInfo.label                  "Kab turpynuotu, juoīvoda pošreizejuo parole:">
+<!ENTITY removeWarning1.label              "Jiusu golvonuo parole aizsorgoj svareigu informaceju, pīmāram, vītņu paroles.">
+<!ENTITY removeWarning2.label              "Nui nūjimsit golvonū paroli, jiusu informaceja vairs natiks aizsorguota, nui jiusu dators nūkliust svešā rūkuos.">
+<!ENTITY setPassword.oldPassword.label     "Pošreizejuo parole:">
 
