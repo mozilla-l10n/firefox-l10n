@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "Nerastas failas">
 <!ENTITY fileNotFound.longDesc "<ul><li>Patikrinkite, ar failas nebuvo perkeltas, pervardytas ar pašalintas.</li><li>Patikrinkite, ar failo varde nėra rinkimo klaidų, pvz., didžiosios raidės pakeistos mažosiomis.</li><li>Patikrinkite ar turite leidimą šį failą atverti.</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "Priėjimas prie failo uždraustas">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Jis galėjo būti pašalintas, perkeltas arba priėjimą riboja failo leidimai.</li></ul>">
 
 <!ENTITY generic.title "Nepavyko atlikti užklausos">
 <!ENTITY generic.longDesc "<p>Naršyklei nepavyko įkelti šio tinklalapio dėl nežinomos priežasties.</p>">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "XUL iš tinklo">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Jūsų ryšys nėra saugus">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> naudoja saugumo technologiją, kuri yra pasenusi ir pažeidžiama. Piktavalis lengvai galėtų pamatyti informaciją, kuri jums atrodė saugi. Kol svetainės administratorius jos nesutvarkys, negalėsite į šią svetainę užeiti.</p><p>Klaidos kodas: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
