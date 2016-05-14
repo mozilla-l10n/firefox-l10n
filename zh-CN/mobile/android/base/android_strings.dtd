@@ -601,8 +601,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_chromeui "这是一个安全的 &brandShortName; 页面">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all1 "&brandShortName; 已阻止此页面上的不安全内容。">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName; 已阻止此页面上的部分不安全内容。">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; 已拦截此页面上的不安全内容。">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; 已拦截此页面上的部分不安全内容。">
 <!ENTITY mixed_content_display_loaded1 "此页面的部分不安全的内容（例如图像）。">
 <!ENTITY mixed_content_protection_disabled1 "您已禁用对不安全内容的拦截。">
 
