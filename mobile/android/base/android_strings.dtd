@@ -13,7 +13,7 @@
 <!ENTITY firstrun_bookmarks_subtext      "Otsimisel kuvatakse tulemusi ajaloost ja järjehoidjatest.">
 <!ENTITY firstrun_data_title             "Andmed">
 <!ENTITY firstrun_data_message           "Vähem andmeid, vähem vaja salvestada">
-<!ENTITY firstrun_data_subtext2          "Lülita pildid välja, et kasutada saitide sirivimisel vähem andmemahtu.">
+<!ENTITY firstrun_data_subtext2          "Lülita pildid välja, et kasutada saitide sirvimisel vähem andmemahtu.">
 <!ENTITY firstrun_sync_title             "Sync">
 <!ENTITY firstrun_sync_message           "&brandShortName;, alati sinu kõrval">
 <!ENTITY firstrun_sync_subtext           "Sünkroniseeri oma kaardid, paroolid ja veel palju muud.">
@@ -22,7 +22,7 @@
 <!ENTITY onboard_start_button_browser    "Alusta veebilehitsemist">
 <!ENTITY firstrun_button_next            "Edasi">
 
-<!ENTITY onboard_start_restricted1       "See lihtsustatud &brandShortName;i versioon tagab turvalisuse jättes ohjad sinu kätte.">
+<!ENTITY onboard_start_restricted1       "See lihtsustatud &brandShortName;i versioon tagab turvalisuse, jättes ohjad sinu kätte.">
 
 <!ENTITY reading_list_migration_title    "Lugemisnimekiri ühendati järjehoidjatega">
 <!ENTITY reading_list_migration_subtext  "Sinu lugemisnimekirja asjad lisatakse nüüd ka järjehoidjatesse">
