@@ -41,7 +41,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Lapa, kuru jūs mēģināt aplūkot, satur nederīgu vai neatbalstītu saspiešanas formu un tāpēc to nevar parādīt.</p><ul><li>Lūdzu sazinieties ar lapas īpašniekiem un ziņojiet par šo problēmu.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Nedrošs faila tips">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Lūdzu informējiet mājas lapas īpašniekus par šo problēmu.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Lūdzu, informējiet mājas lapas īpašniekus par šo problēmu.</li> </ul>">
 
 <!ENTITY netReset.title "Savienojums pārtraukts">
 <!ENTITY netReset.longDesc "<p>Tīkla savienojums tika pārtraukts vienojoties par savienojumu. Lūdzu mēģiniet vēlreiz.</p>">
