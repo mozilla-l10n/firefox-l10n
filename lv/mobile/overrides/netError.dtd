@@ -28,7 +28,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Tas varētu būt aizvākts, pārvietots vai arī faila piekļuves tiesības liedz piekļuvi tam.</li> </ul>">
 
 <!ENTITY generic.title "Ak vai!">
-<!ENTITY generic.longDesc "<p>&brandShortName; kaut kādu iemeslu dēļ nevar ielādēt šo lapu.</p>">
+<!ENTITY generic.longDesc "<p>Kāda nezināma iemesla dēļ &brandShortName; nevar atvērt šo lapu.</p>">
 
 <!ENTITY malformedURI.title "Adrese nav korekta">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
@@ -47,7 +47,7 @@
 <!ENTITY netOffline.longDesc3 "<ul> <li>Mēģiniet vēlreiz. &brandShortName; mēģinās atvērt savienojumu un ielādēt lapu. <button id='wifi'>Ieslēgt Wi-Fi</button></li> </ul>">
 
 <!ENTITY contentEncodingError.title "Satura kodējuma kļūda">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Lūdzu, paziņojiet par šo problēmu vietnes īpašniekiem.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Lūdzu, informējiet mājas lapas īpašniekus par šo problēmu.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Nedrošs faila tips">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Lūdzu, paziņojiet par šo problēmu vietnes īpašniekiem.</li> </ul>">
