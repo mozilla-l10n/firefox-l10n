@@ -9,7 +9,7 @@
 <!ENTITY name.text "Twoje imię i nazwisko lub pseudonim, tak jak będą wyświetlane innym">
 <!ENTITY email.label "Adres e-mail:">
 <!ENTITY email.accesskey "s">
-<!ENTITY email.placeholder "email@jakasdomena.pl">
+<!ENTITY email.placeholder "email@example.com">
 <!ENTITY password.label "Hasło:">
 <!ENTITY password.accesskey "H">
 <!ENTITY password.placeholder "Hasło">

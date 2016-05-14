@@ -27,4 +27,4 @@
 <!ENTITY advanced.accesskey "Z">
 <!ENTITY noproxy.label "Nie używaj proxy dla:">
 <!ENTITY noproxy.accesskey "n">
-<!ENTITY noproxyExplain.label "Przykład: .mozilla.org, .firma.com.pl, 192.168.1.0/24">
+<!ENTITY noproxyExplain.label "Przykład: .mozilla.org, .com.pl, 192.168.1.0/24">

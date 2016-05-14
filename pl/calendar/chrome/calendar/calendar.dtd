@@ -328,7 +328,7 @@ dialog. -->
 <!ENTITY calendar.publish.publish.button      "Opublikuj">
 <!ENTITY calendar.publish.close.button      "Zamknij">
 
-<!ENTITY calendar.publish.example.url.description   "Przykład: http://www.mojserwer.pl/kalendarz.ics">
+<!ENTITY calendar.publish.example.url.description "Przykład: http://www.example.com/kalendarz.ics">
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "Wybierz kalendarz">

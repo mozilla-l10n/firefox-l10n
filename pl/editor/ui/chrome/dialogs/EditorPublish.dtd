@@ -48,10 +48,10 @@
 <!ENTITY siteName.label         "Nazwa witryny:">
 <!ENTITY siteName.accesskey     "z">
 <!ENTITY siteName.tooltip       "Skrócona nazwa, która identyfikuje tę witrynę (np.: „Moja strona domowa”)">
-<!ENTITY siteUrl.label          "Adres serwera (np.: „ftp://ftp.mojisp.com.pl/mojlogin”):">
+<!ENTITY siteUrl.label "Adres serwera (np.: „ftp://ftp.example.com/mojlogin”):">
 <!ENTITY siteUrl.accesskey      "A">
 <!ENTITY siteUrl.tooltip        "Adres FTP:// lub HTTP:// serwera, na który zostaną przesłane pliki">
-<!ENTITY browseUrl.label        "Adres HTTP strony domowej (np.: „http://www.mojisp.com.pl/mojlogin”):">
+<!ENTITY browseUrl.label "Adres HTTP strony domowej (np.: „http://www.example.com/mojlogin”):">
 <!ENTITY browseUrl.accesskey    "H">
 <!ENTITY browseUrl.tooltip      "Adres HTTP:// głównego katalogu strony WWW (nie należy wprowadzać nazwy pliku) ">
 <!ENTITY username.label         "Nazwa użytkownika:">
