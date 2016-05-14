@@ -60,7 +60,7 @@
 <!ENTITY setup.captchaPage2.title.label     "Bekräfta att du inte är en robot">
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Lägg till enhet">
+<!ENTITY addDevice.title.label              "Lägg till en enhet">
 <!ENTITY addDevice.showMeHow.label          "Visa mig hur.">
 <!ENTITY addDevice.dontHaveDevice.label     "Jag har inte enheten med mig">
 <!ENTITY addDevice.setup.description.label  "Aktivera den här enheten genom att gå till &syncBrand.shortName.label;-inställningarna på den andra enheten och välj ”Lägg till enhet”.">

@@ -13,7 +13,7 @@
 <!ENTITY address.accesskey              "W">
 <!ENTITY block.label                    "Blockera">
 <!ENTITY block.accesskey                "B">
-<!ENTITY session.label                  "Tillåt under sessionen">
+<!ENTITY session.label                  "Tillåt för sessionen">
 <!ENTITY session.accesskey              "s">
 <!ENTITY allow.label                    "Tillåt">
 <!ENTITY allow.accesskey                "å">

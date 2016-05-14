@@ -35,6 +35,6 @@ instruera &brandShortName; att börja lita på den här webbplatsens identitet.
 någon manipulerar din anslutning.</b>">
 <!ENTITY certerror.expert.contentPara2 "Lägg inte till ett undantag såvida du inte
 vet att det finns ett bra skäl till att webbplatsen inte använder en betrodd identifikation.">
-<!ENTITY certerror.addException.label "Lägg till ett undantag…">
+<!ENTITY certerror.addException.label "Lägg till undantag…">
 
 <!ENTITY certerror.technical.heading "Tekniska detaljer">

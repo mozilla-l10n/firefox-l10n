@@ -4,7 +4,7 @@
 
 <!ENTITY  pref.history.title                "Historik">
 
-<!ENTITY  pref.history.caption             "Webbsurfandehistorik">
+<!ENTITY  pref.history.caption             "Webbläsarhistorik">
 <!ENTITY  historyPages.label        "Historiken består av en lista med redan besökta sidor.">
 <!ENTITY  enableHistory.label               "Kom ihåg besökta sidor">
 <!ENTITY  enableHistory.accesskey           "K">

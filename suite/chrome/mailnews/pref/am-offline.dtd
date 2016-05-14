@@ -27,7 +27,7 @@
 <!ENTITY retentionKeepAll.accesskey "b">
 <!ENTITY retentionKeepRecent.label "Ta bort alla utom de senaste">
 <!ENTITY retentionKeepRecent.accesskey "a">
-<!ENTITY retentionApplyToFlagged.label "Spara alltid märkta meddelanden">
+<!ENTITY retentionApplyToFlagged.label "Behåll alltid flaggade meddelanden">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 <!ENTITY nntpRemoveMsgBody.label "Ta bort innehållet i meddelanden äldre än">
 <!ENTITY nntpRemoveMsgBody.accesskey "o">

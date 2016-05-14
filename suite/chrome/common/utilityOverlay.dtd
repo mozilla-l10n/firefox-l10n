@@ -104,7 +104,7 @@
 <!ENTITY releaseCmd.accesskey				"V">
 <!ENTITY helpSafeMode.label                 "Starta om med tillägg inaktiverade">
 <!ENTITY helpSafeMode.accesskey             "t">
-<!ENTITY updateCmd.label                        "Sök efter uppdatering…">
+<!ENTITY updateCmd.label                        "Sök efter uppdateringar…">
 <!ENTITY updateCmd.accesskey                    "S">
 <!ENTITY aboutCmd.label					    "Om &brandShortName;">
 <!ENTITY aboutCmd.accesskey				    "O">

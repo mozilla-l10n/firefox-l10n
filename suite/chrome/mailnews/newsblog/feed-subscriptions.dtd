@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Kanalprenumerationer">
+<!ENTITY feedSubscriptions.label 	"RSS-prenumerationer">
 <!ENTITY learnMore.label             "Läs mer om Kanaler">
 
 <!ENTITY feedTitle.label "Titel:">
