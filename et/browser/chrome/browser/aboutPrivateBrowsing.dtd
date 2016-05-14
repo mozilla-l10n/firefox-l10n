@@ -10,14 +10,14 @@
 <!ENTITY privateBrowsing.title.tracking                     "Privaatne veebilehitsemine jälitamisvastase kaitsega">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before          "Kui sa lehitsed veebi privaatses aknas, siis Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize       "ei salvesta">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.after2          ":">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after           ":">
 <!ENTITY aboutPrivateBrowsing.info.visited                  "külastatud lehti">
 <!ENTITY aboutPrivateBrowsing.info.searches                 "otsinguid">
 <!ENTITY aboutPrivateBrowsing.info.cookies                  "küpsiseid">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles           "ajutisi faile">
 <!ENTITY aboutPrivateBrowsing.info.saved.before             "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize          "salvestab">
-<!ENTITY aboutPrivateBrowsing.info.saved.after              ":">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2             ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads                "allalaadimised">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks                "järjehoidjad">
 <!ENTITY aboutPrivateBrowsing.note.before                   "Privaatne veebilehitsemine ei muuda sind internetis">
