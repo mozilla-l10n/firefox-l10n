@@ -45,7 +45,7 @@
 <!ENTITY  crash_sorry "Mums patiešām žēl">
 <!ENTITY  crash_comment "Pievienot komentāru (komentāri ir redzami publiski)">
 <!ENTITY  crash_allow_contact2 "Ļaut &vendorShortName; sazināties ar mani par šo ziņojumu">
-<!ENTITY  crash_email "Jūsu e-pasts">
+<!ENTITY  crash_email "Jūsu epasts">
 <!ENTITY  crash_closing_alert "Aizvērt, nesūtot avārijas ziņojumu?">
 <!ENTITY  sending_crash_report "Notiek avārijas ziņojuma sūtīšana\u2026">
 <!ENTITY  crash_close_label "Aizvērt">
@@ -293,7 +293,7 @@
      documentation for DateFormat.getMediumDateFormat(). -->
 <!ENTITY content_notification_updated_on "Atjaunināts &formatS;">
 
-<!ENTITY pref_char_encoding "Rakstzīmju kodējums">
+<!ENTITY pref_char_encoding "Simbolu kodējums">
 <!ENTITY pref_char_encoding_on "Rādīt izvēlni">
 <!ENTITY pref_char_encoding_off "Nerādīt izvēlni">
 <!ENTITY pref_clear_private_data2 "Notīrīt privātos datus">
@@ -414,7 +414,7 @@ size. -->
 <!ENTITY addons "Papildinājumi">
 <!ENTITY logins "Lietotājvārdi">
 <!ENTITY downloads "Lejupielādes">
-<!ENTITY char_encoding "Rakstzīmju kodējums">
+<!ENTITY char_encoding "Simbolu kodējums">
 
 <!ENTITY share "Dalīties">
 <!ENTITY share_title "Dalīties caur...">

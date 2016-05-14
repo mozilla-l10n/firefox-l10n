@@ -60,7 +60,7 @@
 <!ENTITY fxaccount_status_sync_server "Sinhronizācijas serveris">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: aktivēts">
-<!ENTITY fxaccount_status_needs_verification2 "Jūsu konts ir jāapstiprina. Pieskarieties te, lai atkārtoti nosūtītu apstiprinājuma e-pastu.">
+<!ENTITY fxaccount_status_needs_verification2 "Jūsu konts ir jāapstiprina. Pieskarieties te, lai atkārtoti nosūtītu apstiprinājuma epastu.">
 <!ENTITY fxaccount_status_needs_credentials "Nevar savienoties. Pieskarieties te, lai ierakstītos.">
 <!ENTITY fxaccount_status_needs_upgrade "Nepieciešams &brandShortName; atjauninājums, lai ierakstītos.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ir gatavs darbam, bet nesāksies automātiski. Ieslēdziet “Automātisko datu sinhronizāciju” sadaļā Android iestatījumi &gt; Datu lietojums.">
@@ -107,8 +107,8 @@
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Konts jau eksistē. &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Nederīgs e-pasts vai parole">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Nederīgs e-pasts vai parole">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Nederīgs epasts vai parole">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Nederīgs epasts vai parole">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Konts nav apstiprināts">
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Serveris ir pārslogots, mēģiniet vēlreiz pēc brīža">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Serveris ir pārslogots, mēģiniet vēlreiz pēc brīža">

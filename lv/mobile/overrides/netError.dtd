@@ -70,13 +70,13 @@
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Lūdzu, pārbaudiet starpniekservera iestatījumus un pārliecinieties, ka tie ir korekti.</li> <li>Pārliecinieties, ka ierīces datu vai Wi-Fi savienojums darbojas. <button id='wifi'>Ieslēgt Wi-Fi</button></li> </ul>">
 
 <!ENTITY redirectLoop.title "Lapa veic nekorektu pāradresāciju">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Reizēm šādu problēmu var atrisināt, atļaujot un pieņemot sīkdatnes.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Šo problēmu reizēm var atrisināt, deaktivējot sīkdatnes vai nepieņemot tās no šīs lapas.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Negaidīta atbilde no servera">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Lūdzu, pārliecinieties, ka jums ir uzinstalēts Personiskās drošības pārvaldnieks.</li> <li>Šo problēmu var izraisīt servera nestandarta konfigurācija.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Drošais savienojums neizdevās">
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>Lapu, ko mēģināt aplūkot, nevar parādīt, jo nav iespējams pārbaudīt saņemto datu autentiskumu.</li> <li>Lūdzu, informējiet vietnes īpašniekus par šo problēmu.</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Lapu, kuru jūs šobrīd mēģināt aplūkot, nevar parādīt, jo nevar pārbaudīt tās nosūtīto datu autentiskumu.</li> <li>Lūdzu, sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Drošais savienojums neizdevās">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Šī var būt problēma ar servera konfigurāciju vai pazīme, ka par šo serveri uzdodas cits dators.</li> <li>Ja pagātnē esat pieslēdzies šim serverim, problēma var būt īslaicīga. Tad mēģiniet vēlreiz nedaudz vēlāk.</li> </ul>">
