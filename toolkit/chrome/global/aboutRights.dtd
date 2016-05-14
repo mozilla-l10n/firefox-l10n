@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Išjungti šios funkcijos nerekomenduojame, nes ją išjungę, galėsite neįspėti patekti į nesaugias saityno svetaines. Jeigu visgi norite šią funkciją visiškai išjungti, darykite tai taip:">
 <!ENTITY rights.safebrowsing-term1 "Atverti programos nuostatas">
 <!ENTITY rights.safebrowsing-term2 "pasirinkite nuostatų kategoriją „Saugumas“;">
-
+<!ENTITY rights2.safebrowsing-term3 "Nuimkite pažymėjimą nuo „&enableSafeBrowsing.label;“ nuostatos">
 <!ENTITY rights.safebrowsing-term4 "saugusis naršymas išjungtas.">
 <!-- location aware browsing points for branded builds -->
 
