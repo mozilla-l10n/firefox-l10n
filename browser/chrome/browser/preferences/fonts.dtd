@@ -14,7 +14,7 @@
 <!ENTITY  proportional.label                      "Proporcionāls:">
 <!ENTITY  proportional.accesskey                  "o">
 
-<!ENTITY  serif.label                             "Serif (ar rēdzi):">
+<!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif (bezrēdzes):">
 <!ENTITY  sans-serif.accesskey                    "n">
