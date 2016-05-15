@@ -36,6 +36,7 @@
 <!ENTITY aboutSupport.appBasicsUserAgent "User agent">
 <!ENTITY aboutSupport.appBasicsOS "SO">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilizzo memoria">
+<!ENTITY aboutSupport.appBasicsPerformance "Prestazioni">
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service worker registrati">
 <!ENTITY aboutSupport.appBasicsProfiles "Profili">
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Finestre multiprocesso">
