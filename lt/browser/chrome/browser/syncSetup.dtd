@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "„&syncBrand.fullName.label;“ konfigūravimas">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "Sveiki! Jeigu seniau nesate naudojęsi „&syncBrand.fullName.label;“, turėsite susikurti paskyrą.">
 <!ENTITY button.createNewAccount.label "Kurti naują paskyrą">
 <!ENTITY button.haveAccount.label      "Jau turiu paskyrą">
 
 <!ENTITY setup.choicePage.title.label     "Ar esate naudojęsi „&syncBrand.fullName.label;“ anksčiau?">
-
-
+<!ENTITY setup.choicePage.new.label       "Anksčiau „&syncBrand.shortName.label;“ nenaudojau">
+<!ENTITY setup.choicePage.existing2.label "Jau naudoju „&syncBrand.shortName.label;“ kitame įrenginyje">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Serveris">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "Įrenginio suporavimas">
 <!ENTITY addDevice.showMeHow.label          "Parodyti instrukciją.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "Įrenginio su savimi neturiu">
 <!ENTITY pairDevice.setup.description.label  "Norėdami įjungti sinchronizavimą, kitame įrenginyje pasirinkite „Suporuoti įrenginį“.">
 <!ENTITY addDevice.setup.enterCode.label    "O tada įveskite šį kodą:">
 <!ENTITY pairDevice.dialog.description.label "Norėdami įjungti sinchronizavimą kitame įrenginyje, jame pasirinkite „Konfigūruoti sinchronizavimą“.">
