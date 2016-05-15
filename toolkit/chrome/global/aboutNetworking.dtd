@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "ਇਹ ਹਾਲੇ ਤਜਰਬੇ ਅਧੀਨ ਹੈ। ਬਿਨਾਂ ਬਾਲਗ ਦੀ ਨਿਗਰਾਨੀ ਦੇ ਨਾ ਵਰਤੋਂ।">
 <!ENTITY aboutNetworking.showNextTime          "ਇਹ ਚੇਤਾਵਨੀ ਅਗਲੀ ਵਾਰ ਵੇਖਾਓ">
 <!ENTITY aboutNetworking.ok                    "ਠੀਕ ਹੈ">
-<!ENTITY aboutNetworking.http                  "Http">
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "ਸਾਕਟ">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "ਵੈੱਬਸਾਕਟ">
@@ -29,3 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "ਪ੍ਰਾਪਤ ਕੀਤੇ ਸੁਨੇਹੇ">
 <!ENTITY aboutNetworking.bytesSent             "ਭੇਜੇ ਬਾਈਟ">
 <!ENTITY aboutNetworking.bytesReceived         "ਪ੍ਰਾਪਤ ਕੀਤੇ ਬਾਈਟ">
+<!ENTITY aboutNetworking.dnsLookup             "DNS Lookup">
+<!ENTITY aboutNetworking.dnsLookupButton       "Resolve">
+<!ENTITY aboutNetworking.dnsDomain             "Domain">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">

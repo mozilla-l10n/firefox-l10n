@@ -26,6 +26,9 @@
 <!ENTITY showUnsignedExtensions.button.label  "ਕੁਝ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ">
 <!ENTITY showAllExtensions.button.label       "ਸਭ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਿਖਾਉ">
 
+<!ENTITY debugAddons.label                    "Debug Add-ons">
+<!ENTITY debugAddons.accesskey                "B">
+
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "ਸੁਰੱਖਿਅਤ ਮੋਡ 'ਚ ਸਭ ਐਡ-ਆਨ ਬੰਦ ਕਰ ਦਿੱਤੀਆਂ ਗਈਆਂ ਹਨ।">
 <!ENTITY warning.checkcompatibility.label          "ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ ਗ਼ੈਰ-ਅਨੁਕੂਲ ਐਡ-ਆਨ ਹੋ ਸਕਦੀਆਂ ਹਨ।">
@@ -99,8 +102,7 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "ਹਟਾਓ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "ਡੀਬੱਗ">
-<!ENTITY cmd.debugAddon.accesskey             "B">
+
 <!ENTITY cmd.showPreferencesWin.label         "ਚੋਣਾਂ">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ਇਸ ਐਡ-ਆਨ ਦੀਆਂ ਚੋਣਾਂ ਨੂੰ ਬਦਲੋ">
 <!ENTITY cmd.showPreferencesUnix.label        "ਮੇਰੀ ਪਸੰਦ">
