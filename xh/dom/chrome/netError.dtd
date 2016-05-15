@@ -19,6 +19,7 @@
 <!ENTITY fileNotFound.title "Ifayili Ayifunyenwanga">
 <!ENTITY fileNotFound.longDesc "<ul><li>ingaba iayithem ithiywe ngokutsha, isusiwe okanye isiwe kwenye indawo?</li><li>Ingaba kukho ukungasetyenziswa kakuhle kopelo, konoobumba abakhulu okanye naluphi na ubhalo olungekho mgaqweni kwidilesi?</li><li>Ingaba unemvume eyaneleyo yokungena kwiayithem eceliweyo?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Ufikelelo kule fayile lwalelwe">
 
 
 <!ENTITY generic.title "Ayikwazi Kusiphetha Isicelo">

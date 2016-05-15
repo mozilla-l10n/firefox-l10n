@@ -28,15 +28,16 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Kusenokwenzeka isusiwe, ikhutshiwe, okanye imvume yefayile kungenzeka ithintela ufikelelo.</li></ul>">
 
 <!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "<p>I-&brandShortName;ayinakho ukulayisha eli khasi ngesizathu esithile.</p>">
 
-
-
+<!ENTITY malformedURI.title "Idilesi ayisebenzi">
+<!ENTITY malformedURI.longDesc "<ul> <li>Iidilesi zewebhu zidla ngokubhalwa kanje <strong>http://www.example.com/</strong></li> <li>Qiniseka ukuba usebenzisa izileshi zaphambili (okt. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Unxibelelwano luphazanyisiwe">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Uxwebhu luphelelwe">
-
+<!ENTITY notCached.longDesc "<p>Uxwebhu oluceliweyo alufumaneki kwikhetshi ye-&brandShortName;</p><ul><li>Njengesilumkiso sokhuseleko, i-&brandShortName; ayiwaceli kwakhona ngokwayo amaxwebhu anobuzaza.</li><li>Cofa uZama kwakhona ukucela kwakhona uxwebhu kwiwebhusayithi.</li></ul>">
 
 <!ENTITY netOffline.title "Imo engeyo yakusebenza">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Cinezela &quot;Zama Kwakhona&quot; ukutshintshela kwimo yeintanethi kwaye ulayishe ngokutsha ikhasi.</li> </ul>">
@@ -53,6 +54,7 @@
 <!ENTITY netTimeout.title "Umdibaniso uphelelwe lixesha">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Idilesi ayiqondwanga">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Kunokudingeka ukuba ufakele enye isoftwe ukuze uvule le dilesi.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Iseva yommeli ayiluvumeli unxibelelwano">
@@ -61,17 +63,22 @@
 <!ENTITY proxyResolveFailure.title "Ayikwazi ukufumana iseva yommeli">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Khangela iisethingi zommeli ukuqinisekisa ukuba zifanelekile.</li> <li>Khangela uqinisekise ukuba ikhompyutha yakho inonxibelelwano olusebenzayo lwenethiwekhi.</li> <li>Ukuba ikhompyutha yakho okanye inethiwekhi ayikhuselwanga yi-firewall okanye iproksi, qiniseka ukuba i-&brandShortName; ivunyelwe ukufikelela kwiWebhu.</li> </ul>">
 
+<!ENTITY redirectLoop.title "Ikhasi alithumeli kwenye indawo kakuhle">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Le ngxaki maxa wambi ingabangelwa ngokungasebenzisi okanye ngokwala ukwamkela iikhuki.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Impendulo engalindelekanga kwiseva">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Khangela ukuqinisekisa ukuba isistim yakho ine-Personal Security Manager efakelweyo.</li> <li>Oku kunokuba ngenxa yolungelelwano olungekho semgangathweni kwiseva.</li> </ul>">
 
+<!ENTITY nssFailure2.title "Unxibelelwano Ukhuseleko Aluphumelelanga">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Ikhasi ozama ukulijonga alinakho ukuboniswa kuba ukufaneleka kweengcombolo ezifunyenweyo akunakuqinisekiswa.</li>  <li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "Uqhagamshelo lwakho alukhuselekanga">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Umnini we-<span class='hostname'/> uyile iwebhsayithi yabo ngokungafanelekanga.  Ukuze ukhusele inkcazelo yakho ingabiwa, i-&brandShortName; ayiqhagamshelanga kule webhsayithi.">
 
+<!ENTITY sharedLongDesc "<ul> <li>Isayithi isenokungafumaneki okwethutyana okanye ixakeke kakhulu. Zama kwakhona kwimizuzwana embalwa.</li> <li>Ukuba akukwazi ukulayisha nawaphi na amakhasi, khangela unxibelelwano lwenethiwekhi yekhompyutha yakho.</li> <li>Ukuba ikhompyutha yakho okanye inethiwekhi ayikhuselwanga yi-firewall okanye iproksi, qiniseka ukuba i-&brandShortName; ivunyelwe ukufikelela kwiWebhu.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Ithintelwe ngumGaqonkqubo woKhuseleko lomXholo">
 <!ENTITY cspBlocked.longDesc "<p>i-&brandShortName; ithintele eli khasi ukuba lilayishe ngale ndlela kuba ikhasi linomgaqonkqubo wokhuseleko lomxholo elingakuvumeliyo.</p>">
@@ -93,6 +100,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Inkcazelo ehambele phambili: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Uqhagamshelo lwakho alukhuselekanga">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Inkcazelo ehambele phambili: SSL_ERROR_NO_CYPHER_OVERLAP">
@@ -100,8 +108,11 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> isebenzisa ubugcisa bokhuseleko obuphelelwe lixesha nobusesichengeni sokuhlaselwa. Umhlaseli unokuthi ngokulula aveze inkcazelo obucinga ukuba ikhuselekile.">
 <!ENTITY weakCryptoAdvanced.override "(Ayikhuselekanga) Zama ukulowuda <span class='hostname'></span> usebenzisa ukhuseleko oluphelelwe lixesha">
 
+<!ENTITY certerror.pagetitle1  "Uqhagamshelo Olungakhuselekanga">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Le sayithi isebenzisa HTTP Strict Transport Security (HSTS) ukucacisa ukuba i-&brandShortName; iqhagamshelana kuphela  kuyo ngokukhuselekileyo. Ze iziphumo, akunokwenzeka ukuba udibanise okuphume ecaleni   kwesisatifikethi.">
+<!ENTITY certerror.copyToClipboard.label "Khuphela umbhalo kwiklipbhodi">
 
-
-
+<!ENTITY inadequateSecurityError.title "Uqhagamshelo lwakho alukhuselekanga">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>isebenzisa iteknoloji yokhuseleko ephelelwe lixesha nesesichengeni sokuhlaselwa. Umhlaseli unokuthi ngokulula atyhile inkcazelo obucinga ukuba ikhuselekile. Umlawuli wewebhsayithi kuya kufuneka aqale alungise iseva kuqala ngaphambi kokuba  utyelele isayithi.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
