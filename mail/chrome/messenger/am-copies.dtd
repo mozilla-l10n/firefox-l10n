@@ -30,7 +30,7 @@
 <!ENTITY archiveInOtherFolder.label "Другой папке:">
 <!ENTITY archiveInOtherFolder.accesskey "о">
 <!ENTITY specialFolders.label "Черновики и Шаблоны">
-<!ENTITY keepDrafts.label "Хранить черновики сообщений в:">
+<!ENTITY keepDrafts2.label "Хранить черновики сообщений в:">
 <!ENTITY draftsFolderOn.label "папке «Черновики» на:">
 <!ENTITY draftsFolderOn.accesskey "н">
 <!ENTITY draftInOtherFolder.label "Другой папке:">

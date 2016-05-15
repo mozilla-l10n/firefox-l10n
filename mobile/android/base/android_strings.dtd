@@ -53,6 +53,8 @@
 <!ENTITY screenshot_added_to_bookmarks "Скриншот добавлен в закладки">
 <!ENTITY screenshot_folder_label_in_bookmarks "Скриншоты">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Список для чтения">
+<!ENTITY bookmark_folder_items "&formatD; закладок">
+<!ENTITY bookmark_folder_one_item "1 закладка">
 <!ENTITY reader_saved_offline "Сохранено в автономном режиме">
 <!ENTITY reader_switch_to_bookmarks "Переключиться">
 <!ENTITY history_today_section "Сегодня">
@@ -353,6 +355,7 @@
 <!ENTITY home_history_title "История">
 <!ENTITY home_synced_devices_smartfolder "Облачные устройства">
 <!ENTITY home_synced_devices_number "&formatD; устройств(а)">
+<!ENTITY home_synced_devices_one "1 устройство">
 <!ENTITY home_history_back_to2 "Вернуться ко всей истории">
 <!ENTITY home_clear_history_button "Удалить историю веб-сёрфинга">
 <!ENTITY home_clear_history_confirm "Вы уверены, что хотите удалить свою историю?">

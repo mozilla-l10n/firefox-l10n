@@ -45,8 +45,8 @@
 <!ENTITY options.enableWorkers.tooltip "Включение этой опции позволит использовать инструменты разработчика для отладки workers">
 <!ENTITY options.disableJavaScript.label "Отключить JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip "Включение этой опции приведёт к отключению JavaScript для текущей вкладки. Если вкладка или панель инструментов будут закрыты, то этот параметр будет забыт.">
-<!ENTITY options.disableCache.label2 "Отключить кэш (когда открыта панель инструментов)">
-<!ENTITY options.disableCache.tooltip2 "Включение этой опции отключит кэш для всех вкладок, в которых открыта панель инструментов.">
+<!ENTITY options.disableHTTPCache.label "Отключить HTTP-кэш (когда открыта панель инструментов)">
+<!ENTITY options.disableHTTPCache.tooltip "Включение этой опции отключит HTTP-кэш для всех вкладок, в которых открыта панель инструментов. Эта опция не влияет на Service Workers.">
 <!ENTITY options.enableServiceWorkersHTTP.label "Включить Service Workers поверх HTTP (когда открыта панель инструментов)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip "Включение этой опции включит service workers поверх HTTP для всех вкладок, в которых открыта панель инструментов.">
 <!ENTITY options.selectDefaultTools.label "Инструменты разработчика Firefox по умолчанию">

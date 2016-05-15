@@ -410,16 +410,20 @@
 <!ENTITY mediaMute.accesskey "т">
 <!ENTITY mediaUnmute.label "Восстановить звук">
 <!ENTITY mediaUnmute.accesskey "т">
-<!ENTITY mediaPlaybackRate.label "Скорость воспроизведения">
-<!ENTITY mediaPlaybackRate.accesskey "к">
-<!ENTITY mediaPlaybackRate050x.label "Замедленное движение (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "м">
-<!ENTITY mediaPlaybackRate100x.label "Нормальная скорость">
-<!ENTITY mediaPlaybackRate100x.accesskey "о">
-<!ENTITY mediaPlaybackRate150x.label "Высокая скорость (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "ы">
-<!ENTITY mediaPlaybackRate200x.label "Безумная скорость (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "з">
+<!ENTITY mediaPlaybackRate2.label "Скорость воспроизведения">
+<!ENTITY mediaPlaybackRate2.accesskey "к">
+<!ENTITY mediaPlaybackRate050x2.label "Замедленная (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "м">
+<!ENTITY mediaPlaybackRate100x2.label "Нормальная">
+<!ENTITY mediaPlaybackRate100x2.accesskey "о">
+<!ENTITY mediaPlaybackRate125x2.label "Повышенная (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "ш">
+<!ENTITY mediaPlaybackRate150x2.label "Высокая (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "ы">
+<!ENTITY mediaPlaybackRate200x2.label "Безумная (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "з">
+<!ENTITY mediaLoop.label "Повторять">
+<!ENTITY mediaLoop.accesskey "в">
 <!ENTITY mediaShowControls.label "Показать пульт управления">
 <!ENTITY mediaShowControls.accesskey "п">
 <!ENTITY mediaHideControls.label "Скрыть пульт управления">
