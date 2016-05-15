@@ -536,7 +536,9 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; почетна страница">
 <!ENTITY home_history_title "Историјат">
-<!ENTITY home_history_back_to "Цели историјат">
+<!ENTITY home_synced_devices_smartfolder "Синхронизовани уређаји">
+<!ENTITY home_synced_devices_number "&formatD; уређаја">
+<!ENTITY home_history_back_to2 "Цели историјат">
 <!ENTITY home_clear_history_button "Избриши податке прегледавања">
 <!ENTITY home_clear_history_confirm "Да ли сте сигурни да желите да обришете историјат?">
 <!ENTITY home_bookmarks_empty "Забелешке које сте снимили су приказане овде.">
