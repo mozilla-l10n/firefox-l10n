@@ -32,8 +32,8 @@
 <!ENTITY checkDefaultsNow.label        "Něnto kontrolěrowaś…">
 <!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "Rozšyrjona konfiguracija">
-<!ENTITY configEdit.label              "Editor konfigurěrowaś…">
-<!ENTITY configEdit.accesskey          "E">
+<!ENTITY configEdit.label              "Konfiguraciski editor…">
+<!ENTITY configEdit.accesskey          "K">
 <!ENTITY returnReceiptsInfo.label      "Póstajiś, kak &brandShortName; ma z wobtwarźenjami dostaśa wobchadaś">
 <!ENTITY showReturnReceipts.label      "Wobtwarźenja dostaśa…">
 <!ENTITY showReturnReceipts.accesskey  "t">
