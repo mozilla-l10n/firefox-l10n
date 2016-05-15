@@ -24,7 +24,7 @@
 <!ENTITY sameLocationRadio.label      "Usar la misma ubicación que la página">
 <!ENTITY sameLocationRadio.accesskey  "U">
 <!ENTITY sameLocationRadio.tooltip    "Publicar archivos a la misma ubicación que la página">
-<!ENTITY useSubdirRadio.label         "Usear el subdirectorio de este sitio:">
+<!ENTITY useSubdirRadio.label         "User el subdirectorio de este sitio:">
 <!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Publicar archivos al subdirectorio remoto seleccionado">
 <!ENTITY otherDirList.tooltip         "Seleccionar o ingresar el nombre del subdirectorio remoto donde se publicarán los archivos">
