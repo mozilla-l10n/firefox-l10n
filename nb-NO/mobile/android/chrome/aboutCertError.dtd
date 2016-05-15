@@ -15,7 +15,7 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Du har bedt &brandShortName; om å koble til <b>#1</b> med en sikker tilkobling, men &brandShortName; kan ikke bekrefte at tilkoblingen er sikker.">
+<!ENTITY certerror.introPara1 "Du har bedt &brandShortName; om å koble til <b>#1</b> med en sikker tilkobling, men vi kan ikke bekrefte at tilkoblingen er sikker.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Hva bør jeg gjøre?">
 <!ENTITY certerror.whatShouldIDo.content "Dersom du vanligvis kobler til dette nettstedet uten problemer kan denne meldingen bety at noen forsøker å etterligne nettstedet. Du bør da ikke fortsette.">
