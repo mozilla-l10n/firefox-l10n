@@ -15,7 +15,7 @@
 <!ENTITY directorySecure.accesskey         "L">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "B">
-<!ENTITY General.tab                       "Powšykny">
+<!ENTITY General.tab                       "Powšykne">
 <!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Rozšyrjone">
 <!ENTITY portNumber.label                  "Portowe cysło: ">
