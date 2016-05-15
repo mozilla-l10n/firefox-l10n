@@ -21,6 +21,10 @@
 <!ENTITY fileNotFound.title "ਫਾਇਲ ਨਹੀਂ ਲੱਭੀ">
 <!ENTITY fileNotFound.longDesc "<ul><li>ਆਈਟਮ ਦਾ ਨਾਂ ਬਦਲਿਆ ਗਿਆ ਹੋ ਸਕਦਾ ਹੈ, ਹਟਾਇਆ ਗਿਆ ਹੋ ਸਕਦਾ ਹੈ ਜਾਂ ਹੋਰ ਥਾਂ ਭੇਜੀ ਗਈ ਹੋ ਸਕਦੀ ਹੈ?</li><li>ਕੋਈ ਸ਼ਬਦ ਗਲਤ ਲਿਖੇ ਗਏ ਹਨ, ਅੱਖਰ ਵੱਡੇ ਛੋਟੋ ਹੋ ਗਏ ਹਨ ਜਾਂ ਐਡਰੈੱਸ ਵਿੱਚ ਕੋਈ ਅੱਖਰ ਦੀ ਗਲਤੀ ਹੈ??</li><li>ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਮੰਗੀ ਗਈ ਆਈਟਮ ਦੀ ਵਰਤੋਂ ਲਈ ਢੁੱਕਵੇਂ ਅਧਿਕਾਰ ਹਨ?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Access to the file was denied">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>It may have been removed, moved, or file permissions may be preventing access.</li></ul>">
+
+
 <!ENTITY generic.title "ਮੰਗ ਪੂਰੀ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ">
 <!ENTITY generic.longDesc "<p>ਇਸ ਸਮੱਸਿਆ ਜਾਂ ਗਲਤੀ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਇਸ ਸਮੇਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।</p>">
 
@@ -75,21 +79,11 @@
 <li>ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ ਵੀ ਸਰਵਰ ਨਾਲ ਕੁਨੈਕਟ ਹੁੰਦੇ ਰਹੇ ਹੋ ਤਾਂ ਗਲਤੀ ਆਰਜ਼ੀ ਹੋ ਸਕਦੀ ਹੈ ਅਤੇ ਤੁਸੀਂ ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹੋ।</li>
 </ul>
 ">
-<!ENTITY malwareBlocked.title "ਸ਼ੱਕੀ ਹਮਲਾਵਰ ਸਾਇਟ!">
-<!ENTITY malwareBlocked.longDesc "
-<p>ਹਮਲਾਵਰ ਸਾਇਟਾਂ ਪਰੋਗਰਾਮ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੀਆਂ ਹਨ, ਜੋ ਕਿ ਨਿੱਜੀ ਡਾਟਾ ਚੋਰੀ ਕਰ ਸਕ ਸਕਦੇ ਹਨ, ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੀ ਵਰਤੋਂ ਹੋਰਾਂ ਉੱਤੇ ਹਮਲਾ ਕਰਨ ਲਈ ਵਰਤ ਸਕਦੇ ਹੋ ਜਾਂ ਤੁਹਾਡੇ ਸਿਸਟਮ ਨੂੰ ਨੁਕਸਾਨ ਪੁਚਾ ਸਕਦੇ ਹਨ।</p>
-<p>ਵੈੱਬ ਸਾਇਟ ਮਾਲਕ, ਜੋ ਕਿ ਸੋਚਦੇ ਹਨ ਕਿ ਉਨ੍ਹਾਂ ਦੀ ਵੈੱਬ ਸਾਇਟ ਗਲਤੀ ਵਜੋਂ ਹਮਲਾਵਰ ਸਾਇਟ ਦੇ ਰੂਪ ਵਿੱਚ ਆ ਗਈ ਹੈ <a href='http://www.stopbadware.org/home/reviewinfo' >ਪੜਤਾਲ ਲਈ ਮੰਗ</a> ਰੱਖ ਸਕਦੇ ਹਨ।</p>
-">
 
-<!ENTITY unwantedBlocked.title "ਸ਼ੱਕੀ ਅਣ-ਚਾਹੇ ਸਾਫਟਵੇਅਰ ਸਾਈਟ!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>ਅਣ-ਚਾਹੇ ਸਾਫਟਵੇਅਰ ਸਫ਼ੇ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਨ, ਜੋ ਕਿ ਝੂਠ ਹੋ ਸਕਦੇ ਹਨ ਤੇ ਤੁਹਾਡੇ ਸਿਸਟਮ ਨੂੰ ਅਣਪਛਾਣੇ ਢੰਗਾਂ ਨਾਲ ਪ੍ਰਭਾਵਿਤ ਕਰ ਸਕਦੇ ਹਨ।</p>
-">
-
-<!ENTITY phishingBlocked.title "ਸ਼ੱਕੀ ਵੈੱਬ ਧੋਖਾਧੜੀ!">
-<!ENTITY phishingBlocked.longDesc "
-<p>ਇਹ ਸਫ਼ੇ ਉੱਤੇ ਕੋਈ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਦੇਣ ਨਾਲ ਪਛਾਣ ਚੋਰੀ ਹੋਣ ਜਾਂ ਧੋਖਾ (ਫਰਾਡ) ਹੋਣ ਦਾ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।</p>
-<p>ਇਸ ਟਾਈਪ ਦੀਆਂ ਵੈੱਬ ਧੋਖਾਧੜੀਆਂ ਨੂੰ ਫਿਸ਼ਿੰਗ ਦੇ ਰੂਪ ਵਿੱਚ ਜਾਣਿਆ ਜਾਂਦਾ ਹੈ, ਜਿਸ ਵਿੱਚ ਗਲਤ ਵੈੱਬ ਸਫ਼ੇ ਅਤੇ ਈਮੇਲ ਨੂੰ ਤੁਹਾਨੂੰ ਯਕੀਨ ਦੁਆਉਣ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ।</p>
+<!ENTITY securityOverride.linkText "Or you can add an exception…">
+<!ENTITY securityOverride.warningContent "
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<p>If you still wish to add an exception for this site, you can do so in your advanced encryption settings.</p>
 ">
 
 <!ENTITY cspBlocked.title "ਸਮੱਗਰੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਵਲੋਂ ਪਾਬੰਦੀ ਲਾਈ">
@@ -100,6 +94,12 @@
 
 <!ENTITY remoteXUL.title "ਰਿਮੋਟ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ਇਸ ਸਮੱਸਿਆ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਵੈੱਬਸਾਈਟ ਮਾਲਕਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul></p>">
+
+
+<!ENTITY inadequateSecurityError.title "Your connection is not secure">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

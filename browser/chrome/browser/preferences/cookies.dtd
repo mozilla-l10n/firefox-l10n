@@ -21,6 +21,7 @@
 <!ENTITY     props.path.label               "ਮਾਰਗ:">
 <!ENTITY     props.secure.label             "ਭੇਜੋ:">
 <!ENTITY     props.expires.label            "ਮਿਆਦ:">
+<!ENTITY     props.container.label          "Container:">
 
 <!ENTITY     window.title                   "ਕੂਕੀਜ਼">
 <!ENTITY     windowClose.key                "w">

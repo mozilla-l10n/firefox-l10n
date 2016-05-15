@@ -167,6 +167,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ਇਹ ਵੀਡੀਓ ਸਾਂਝੀ ਕਰੋ">
 <!ENTITY shareVideo.accesskey "r">
+<!ENTITY feedsMenu2.label "Subscribe to This Page">
 <!ENTITY subscribeToPageMenupopup.label "ਇਹ ਸਫ਼ਾ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY subscribeToPageMenuitem.label "…ਸਫ਼ਾ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY addCurPagesCmd.label "…ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ">
