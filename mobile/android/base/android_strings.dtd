@@ -67,6 +67,7 @@
 <!ENTITY screenshot_folder_label_in_bookmarks "Snímky obrazovky">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Zoznam na prečítanie">
 
+<!ENTITY reader_saved_offline "Uložené offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
