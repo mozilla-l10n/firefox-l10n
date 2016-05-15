@@ -105,7 +105,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Išbandykite ribotąją veikseną">
 <!ENTITY aboutSupport.restartInSafeMode.label "Perleisti išjungus priedus…">
 
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Savybės">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostika">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Klaidų žurnalas">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
