@@ -237,7 +237,7 @@
 
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -247,6 +247,7 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
@@ -256,33 +257,34 @@
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
 
+<!ENTITY pref_char_encoding_on "Poravorã jehechauka">
 
-
-
+<!ENTITY pref_clear_private_data2 "Mba\u0027ekuaarã ñemiguáva ñemopotĩ">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 
 
 
+<!ENTITY pref_plugins "Mboguejyrã\u0027i">
+<!ENTITY pref_plugins_enabled "Myendypyre">
+
+<!ENTITY pref_plugins_disabled "Ojepuruve\u0027ỹva">
+<!ENTITY pref_text_size "Moñe\u0027ẽrã tuichakue">
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_font_size_tiny "Michĩva">
+<!ENTITY pref_font_size_small "Michĩ">
+<!ENTITY pref_font_size_medium "Mbytegua">
+<!ENTITY pref_font_size_large "Tuicha">
+<!ENTITY pref_font_size_xlarge "Tuichaiterei">
+<!ENTITY pref_font_size_set "Mboheko">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -294,26 +296,26 @@ size. -->
 
 
 
+<!ENTITY pref_sync2 "Eñemboheraguapy">
 
 
 
 
 
 
+<!ENTITY pref_private_data_searchHistory "Tembiasakue jeheka">
+<!ENTITY pref_private_data_formdata2 "Myanyhẽha rembiasakue">
+<!ENTITY pref_private_data_cookies2 "Kookie ha ñemyandypyréva">
+<!ENTITY pref_private_data_passwords2 "Tembiapo ñepyrũ ñongatupyréva">
+<!ENTITY pref_private_data_cache "Kache">
+<!ENTITY pref_private_data_offlineApps "Ñanduti renda mba\u0027ekuarã jeike\u0027ỹva">
+<!ENTITY pref_private_data_siteSettings2 "Tenda ñemboheko">
+<!ENTITY pref_private_data_downloadFiles2 "Ñemboguejy">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_about_firefox "&brandShortName; reheguaite">
+<!ENTITY pref_vendor_faqs "FAQs">
+<!ENTITY pref_vendor_feedback "Temiandu mondo">
 
 
 
