@@ -108,6 +108,7 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> brukar tryggingsteknologi som er utdatert og utsett for åtak. Ein angripar kan lett avsløra informasjon som du trudde var trygg.">
 <!ENTITY weakCryptoAdvanced.override "(Ikkje trygg) Prøv å lasta <span class='hostname'></span> med hjelp av forelda tryggleik">
 
+<!ENTITY certerror.pagetitle1  "Usikkert samband">
 
 
 
