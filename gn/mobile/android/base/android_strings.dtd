@@ -318,13 +318,13 @@ size. -->
 <!ENTITY pref_vendor_feedback "Temiandu mondo">
 
 
+<!ENTITY pref_dialog_remove "Mboguete">
 
 
-
-
-
-
-
+<!ENTITY pref_panels_hide "Moñemi">
+<!ENTITY pref_panels_reorder "Emoambue ñemohenda">
+<!ENTITY pref_panels_move_up "Jupi">
+<!ENTITY pref_panels_move_down "Emongu\u0027e yvy gotyo">
 
 
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
@@ -339,8 +339,8 @@ size. -->
      crashReporterDesc.label). -->
 
 
-
-
+<!ENTITY datareporting_telemetry_title "Telemetry">
+<!ENTITY datareporting_telemetry_summary "Embohasa tembiapokue rehegua, jepuru, hardware mba\u0027ete ha mba\u0027ekuaarã ne kundahára rehegua &vendorShortName; ndive oipytyvõ hag̃ua &brandShortName;-pe oikoporãvévo">
 
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
