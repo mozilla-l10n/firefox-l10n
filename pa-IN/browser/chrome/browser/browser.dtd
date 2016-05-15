@@ -177,11 +177,52 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printButton.tooltip          "ਇਹ ਸਫ਼ਾ ਪਰਿੰਟ ਕਰੋ">
 
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
+<!ENTITY urlbar.viewSiteInfo.label                      "View site information">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label 
+strings are
+     used to provide accessible labels to users of assistive technology like 
+screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "View a notification">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "View the location 
+request">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "View the add-on install 
+message">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "View the app-offline 
+storage message">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Manage your login 
+information">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Check if you want to 
+save your password">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Manage plugin usage on 
+this page">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Change whether you can 
+receive notifications from the site">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Manage sharing 
+your camera and/or microphone with the site">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "You are sharing 
+your camera and/or microphone with the site">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Manage sharing 
+your microphone with the site">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "You are sharing 
+your microphone with the site">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Manage sharing 
+your windows or screen with the site">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "You are sharing 
+a window or your screen with the site">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Change whether the site 
+can hide the pointer">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "View the service 
+install message">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Translate this page">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Manage page 
+translation">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Manage use of DRM 
+software">
+
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Show history">
 
 
 <!ENTITY searchItem.title             "ਖੋਜ">
@@ -295,6 +336,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "ਪਿਛਲਾ ਸ਼ੈਸ਼ਨ ਮੁੜ-ਸਟੋਰ ਕਰੋ">
 <!ENTITY appMenuHistory.viewSidebar.label "ਅਤੀਤ ਬਾਹੀ ਵੇਖੋ">
 <!ENTITY appMenuHelp.tooltip "ਮਦਦ ਮੀਨੂ ਖੋਲ੍ਹੋ">
+
+<!ENTITY appMenuRemoteTabs.label "Synced Tabs">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "No open tabs">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Turn on tab syncing to view a 
+list of tabs from your other devices.">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "No synced tabs… yet!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Want to see your tabs from other 
+devices here?">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Sync Preferences">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Sign in to view a list of tabs 
+from your other devices.">
+<!ENTITY appMenuRemoteTabs.signin.label "Sign in to Sync">
+<!ENTITY appMenuRemoteTabs.sidebar.label "View Synced Tabs Sidebar">
+
+
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -611,27 +674,104 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਹੈ">
-<!ENTITY identity.connectionNotSecure "ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ">
-<!ENTITY identity.connectionInternal "ਇਹ ਸੁਰੱਖਿਅ ਤ  &brandShortName; ਸਫ਼ਾ ਹੈ।">
+<!ENTITY identity.connectionFile "This page is stored on your computer.">
+<!ENTITY identity.connectionVerified1 "You are securely connected to this site, 
+run by:">
+<!ENTITY identity.connectionInternal "This is a secure &brandShortName; page.">
+<!ENTITY identity.insecureLoginForms2 "Logins entered on this page could be 
+compromised.">
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "&brandShortName; has blocked parts of this page 
+that are not secure.">
+<!ENTITY identity.passiveLoaded "Parts of this page are not secure (such as 
+images).">
+<!ENTITY identity.activeLoaded "You have disabled protection on this page.">
+<!ENTITY identity.weakEncryption "This page uses weak encryption.">
 
 <!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "Your connection to this site is not 
+private. Information you submit could be viewed by others (like passwords, 
+messages, credit cards, etc.).">
+<!ENTITY identity.description.insecureLoginForms "The login information you 
+enter on this page is not secure and could be compromised.">
+<!ENTITY identity.description.weakCipher "Your connection to this website uses 
+weak encryption and is not private.">
+<!ENTITY identity.description.weakCipher2 "Other people can view your 
+information or modify the website’s behavior.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; has blocked parts 
+of this page that are not secure.">
+<!ENTITY identity.description.passiveLoaded "Your connection is not private and 
+information you share with the site could be viewed by others.">
+<!ENTITY identity.description.passiveLoaded2 "This website contains content that 
+is not secure (such as images).">
+<!ENTITY identity.description.passiveLoaded3 "Although &brandShortName; has 
+blocked some content, there is still content on the page that is not secure 
+(such as images).">
+<!ENTITY identity.description.activeLoaded "This website contains content that 
+is not secure (such as scripts) and your connection to it is not private.">
+<!ENTITY identity.description.activeLoaded2 "Information you share with this 
+site could be viewed by others (like passwords, messages, credit cards, etc.).">
 
+<!ENTITY identity.enableMixedContentBlocking.label "Enable protection">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
+<!ENTITY identity.disableMixedContentBlocking.label "Disable protection for 
+now">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "Learn More">
 
+<!ENTITY identity.removeCertException.label "Remove Exception">
+<!ENTITY identity.removeCertException.accesskey "R">
 
-<!ENTITY identity.moreInfoLinkText2 "ਹੋਰ ਜਾਣਕਾਰੀ">
+<!ENTITY identity.moreInfoLinkText2 "More Information">
 
-<!ENTITY identity.permissions "ਅਧਿਕਾਰ">
+<!ENTITY identity.permissions "Permissions">
+<!ENTITY identity.permissionsEmpty "You have not granted this site any special 
+permissions.">
+
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
-     The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "ਬਰਾਊਜ਼ਰ ਟੈਬ">
+     The word "toolbar" is appended automatically and should not be contained 
+below! -->
+<!ENTITY tabsToolbar.label "Browser tabs">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu 
+-->
+<!ENTITY syncTabsMenu3.label     "Synced Tabs">
 
+<!ENTITY syncedTabs.sidebar.label              "Synced Tabs">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Sign in to Firefox from your 
+other devices to view their tabs here.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "No synced tabs… yet!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Want to see your tabs from other 
+devices here?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Sign in to view a list of tabs 
+from your other devices.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "No open tabs">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Open &syncBrand.shortName.label; 
+Preferences">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Turn on tab syncing to 
+view a list of tabs from your other devices.">
+
+<!ENTITY syncedTabs.context.open.label                       "Open">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Open in a New 
+Tab">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Open in a New 
+Window">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Open in a New 
+Private Window">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bookmark This 
+Tab…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "Copy">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
+
 
 
 
@@ -698,22 +838,44 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "ਆਪਣੀ ਸਕਰੀਨ ਤੋਂ ਸਭ ਵਿਖਾਈ ਦਿੰਦੀਆਂ ਵਿੰਡੋਜ਼ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਕੀਤਾ ਜਾਵੇਗਾ।">
 
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
+<!ENTITY trackingProtection.title "Tracking Protection">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; is blocking parts 
+of the page that may track your browsing.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "This site includes elements 
+that may track your browsing. You have disabled protection.">
+<!ENTITY trackingProtection.notDetected3 "No tracking elements detected on this 
+page.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, 
+trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when 
+opening the control
+     center while looking at a site with trackers in NON-private browsing mode. 
+-->
+<!ENTITY trackingProtection.unblock.label "Disable protection for this site">
+<!ENTITY trackingProtection.unblock.accesskey "D">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, 
+trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when 
+opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Disable protection for this 
+session">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Enable protection">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
-<!ENTITY trackingContentBlocked.message "ਟਰੈਕਿੰਗ">
-<!ENTITY trackingContentBlocked.moreinfo "ਸਫ਼ੇ ਦੇ ਭਾਗਾਂ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਸਰਗਰਮੀ ਨੂੰ ਟਰੈਕ ਕਰਦੇ ਸਨ, ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ।">
-<!ENTITY trackingContentBlocked.learnMore "ਹੋਰ ਜਾਣੋ">
-<!ENTITY trackingContentBlocked.options "ਚੋਣਾਂ">
-<!ENTITY trackingContentBlocked.unblock2.label "ਇਹ ਸਾਈਟ ਲਈ ਸੁਰੱਖਿਆ ਬੰਦ ਕਰੋ">
+<!ENTITY trackingContentBlocked.message "Tracking">
+<!ENTITY trackingContentBlocked.moreinfo "Parts of the page that track your 
+online activity have been blocked.">
+<!ENTITY trackingContentBlocked.learnMore "Learn More">
+<!ENTITY trackingContentBlocked.options "Options">
+<!ENTITY trackingContentBlocked.unblock2.label "Disable protection for this 
+site">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰੋ">
+<!ENTITY trackingContentBlocked.block.label "Enable protection">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਬੰਦ ਕੀਤੀ ਹੋਈ ਹੈ">
+<!ENTITY trackingContentBlocked.disabled.message "Tracking protection is 
+disabled">
 
 <!ENTITY pointerLock.notification.message "ਇਹ ਫੇਰ ਵੇਖਣ ਲਈ ਕਿਸੇ ਵੀ ਵੇਲੇ ESC ਦਬਾਉ।">
 

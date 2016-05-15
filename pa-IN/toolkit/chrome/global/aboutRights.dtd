@@ -63,6 +63,7 @@
 <!ENTITY rights.safebrowsing-b "ਸੁਰੱਖਿਅਤ ਬਰਾਊਜ਼ਿੰਗ ਫੀਚਰ ਨੂੰ ਬੰਦ ਕਰਨਾ ਸਿਫਾਰਸ਼ੀ ਨਹੀਂ ਹੈ, ਕਿਉਂਕਿ ਇਸ ਨਾਲ ਤੁਸੀਂ ਅਸੁਰੱਖਿਅਤ ਵੈੱਬਸਾਈਟਾਂ ਉੱਤੇ ਜਾ ਸਕਦੇ ਹੋ। ਜੇ ਤੁਸੀਂ ਇਹ ਫੀਚਰ ਨੂੰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਹੇਠ ਦਿੱਤੇ ਸਟੈਪ ਹਨ:">
 <!ENTITY rights.safebrowsing-term1 "ਐਪਲੀਕੇਸ਼ਨ ਪਸੰਦ ਖੋਲ੍ਹੋ">
 <!ENTITY rights.safebrowsing-term2 "ਸੁਰੱਖਿਆ ਚੋਣ ਚੁਣੋ">
+<!ENTITY rights2.safebrowsing-term3 "Uncheck the option to &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "ਸੁਰੱਖਿਅਤ ਬਰਾਊਜ਼ਿੰਗ ਹੁਣ ਬੰਦ ਹੋ ਜਾਵੇਗੀ">
 
 <!-- location aware browsing points for branded builds -->
