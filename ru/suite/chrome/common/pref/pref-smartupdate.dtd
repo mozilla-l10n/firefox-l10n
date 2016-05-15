@@ -25,7 +25,5 @@
 <!ENTITY appWeekly.accesskey "н">
 <!ENTITY appModeAutomatic.label "Автоматически загружать и устанавливать обновление">
 <!ENTITY appModeAutomatic.accesskey "ч">
-<!ENTITY appModeAutoAddonWarn.label "Предупреждать меня, если при этом будут отключены какие-либо дополнения">
-<!ENTITY appModeAutoAddonWarn.accesskey "ж">
 <!ENTITY updateHistoryButton.label "Показать журнал обновлений…">
 <!ENTITY updateHistoryButton.accesskey "з">
