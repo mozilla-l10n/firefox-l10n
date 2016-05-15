@@ -108,6 +108,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; ਵਿੱਚ ਸਾਇਨ ਇਨ">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; ਨਾਲ ਮੁੜ-ਕੁਨੈਕਟ">
+<!ENTITY fxaSignedIn.tooltip "Open &syncBrand.shortName.label; preferences">
+<!ENTITY fxaUnverified.label "Verify Your Account">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ਚਾਲੂ ਹੈ">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; ਕੁਝ ਕੁ ਪਲ਼ਾਂ ਵਿੱਚ ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੇਗਾ।">
 
@@ -125,9 +127,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "is now full screen">
+<!ENTITY fullscreenWarning.generic.label "This document is now full screen">
+
+
+     <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Exit Full Screen (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Exit Full Screen (esc)">
+
+
 <!ENTITY leaveDOMFullScreen.label "ਪੂਰੀ ਸਕਰੀਨ ਬੰਦ ਕਰੋ">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -160,6 +171,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "…ਸਫ਼ਾ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY addCurPagesCmd.label "…ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ">
 <!ENTITY showAllBookmarks2.label "ਸਭ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
+<!ENTITY recentBookmarks.label "Recently Bookmarked">
+<!ENTITY otherBookmarksCmd.label "Other Bookmarks">
 <!ENTITY bookmarksToolbarChevron.tooltip "ਹੋਰ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 
 <!ENTITY backCmd.label                "ਪਿੱਛੇ">
@@ -184,43 +197,24 @@ strings are
 screenreaders.
      It is not possible to see them visually in the UI. -->
 <!ENTITY urlbar.defaultNotificationAnchor.label         "View a notification">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "View the location 
-request">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "View the add-on install 
-message">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "View the app-offline 
-storage message">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Manage your login 
-information">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Check if you want to 
-save your password">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Manage plugin usage on 
-this page">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Change whether you can 
-receive notifications from the site">
-
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Manage sharing 
-your camera and/or microphone with the site">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "You are sharing 
-your camera and/or microphone with the site">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Manage sharing 
-your microphone with the site">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "You are sharing 
-your microphone with the site">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Manage sharing 
-your windows or screen with the site">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "You are sharing 
-a window or your screen with the site">
-
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Change whether the site 
-can hide the pointer">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "View the service 
-install message">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "View the location request">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "View the add-on install message">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "View the app-offline storage message">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Manage your login information">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Check if you want to save your password">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Manage plugin usage on this page">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Change whether you can receive notifications from the site">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Manage sharing your camera and/or microphone with the site">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "You are sharing your camera and/or microphone with the site">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Manage sharing your microphone with the site">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "You are sharing your microphone with the site">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Manage sharing your windows or screen with the site">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "You are sharing a window or your screen with the site">
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Change whether the site can hide the pointer">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "View the service install message">
 <!ENTITY urlbar.translateNotificationAnchor.label       "Translate this page">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Manage page 
-translation">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Manage use of DRM 
-software">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Manage page translation">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Manage use of DRM software">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Show history">
 
@@ -234,6 +228,7 @@ software">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "ਬੁੱਕਮਾਰਕ">
+<!ENTITY bookmarksMenuButton.other.label "Other Bookmarks">
 <!ENTITY viewBookmarksSidebar2.label        "ਬੁੱਕਮਾਰਕ ਬਾਹੀ ਵੇਖੋ">
 <!ENTITY viewBookmarksToolbar.label         "ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਵੇਖੋ">
 
@@ -268,6 +263,16 @@ software">
 
 <!ENTITY fileMenu.label         "ਫਾਈਲ"> 
 <!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newUserContext.label             "New Container Tab">
+<!ENTITY newUserContext.accesskey         "C">
+<!ENTITY userContextPersonal.label        "Personal">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "Work">
+<!ENTITY userContextWork.accesskey        "W">
+<!ENTITY userContextBanking.label         "Banking">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Shopping">
+<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "ਨਵੀਂ ਵਿੰਡੋ">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -343,17 +348,14 @@ software">
 <!ENTITY appMenuRemoteTabs.notabs.label "No open tabs">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Turn on tab syncing to view a 
-list of tabs from your other devices.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Turn on tab syncing to view a list of tabs from your other devices.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "No synced tabs… yet!">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Want to see your tabs from other 
-devices here?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Want to see your tabs from other devices here?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync Preferences">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Sign in to view a list of tabs 
-from your other devices.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Sign in to view a list of tabs from your other devices.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sign in to Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "View Synced Tabs Sidebar">
 
@@ -392,6 +394,13 @@ from your other devices.">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ਟੈਬ ਉੱਤੇ ਜਾਓ:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Would you like to improve your search experience with suggestions?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Learn more…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "No">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Yes">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -420,6 +429,9 @@ from your other devices.">
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label     "Search query">
+<!ENTITY contentSearchSubmit.label    "Submit search">
+
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -446,6 +458,10 @@ from your other devices.">
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "ਖੋਜ ਸੈਟਿੰਗ ਬਦਲੋ">
 
+<!ENTITY searchInNewTab.label         "Search in New Tab">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "Set As Default Search Engine">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -459,6 +475,8 @@ from your other devices.">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "ਫਰੇਮ ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openLinkCmdInContainerTab.label "Open Link in New Container Tab">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "ਇਹ ਫਰੇਮ ਹੀ ਵੇਖੋ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "w">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -633,6 +651,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "ਸਫ਼ਾ ਸਟਾਇਲ">
 <!ENTITY pageStyleMenu.accesskey "y">
@@ -674,49 +693,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਹੈ">
+<!ENTITY identity.connectionNotSecure "Connection is Not Secure">
 <!ENTITY identity.connectionFile "This page is stored on your computer.">
-<!ENTITY identity.connectionVerified1 "You are securely connected to this site, 
-run by:">
+<!ENTITY identity.connectionVerified1 "You are securely connected to this site, run by:">
 <!ENTITY identity.connectionInternal "This is a secure &brandShortName; page.">
-<!ENTITY identity.insecureLoginForms2 "Logins entered on this page could be 
-compromised.">
+<!ENTITY identity.insecureLoginForms2 "Logins entered on this page could be compromised.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; has blocked parts of this page 
-that are not secure.">
-<!ENTITY identity.passiveLoaded "Parts of this page are not secure (such as 
-images).">
+<!ENTITY identity.activeBlocked "&brandShortName; has blocked parts of this page that are not secure.">
+<!ENTITY identity.passiveLoaded "Parts of this page are not secure (such as images).">
 <!ENTITY identity.activeLoaded "You have disabled protection on this page.">
 <!ENTITY identity.weakEncryption "This page uses weak encryption.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Your connection to this site is not 
-private. Information you submit could be viewed by others (like passwords, 
-messages, credit cards, etc.).">
-<!ENTITY identity.description.insecureLoginForms "The login information you 
-enter on this page is not secure and could be compromised.">
-<!ENTITY identity.description.weakCipher "Your connection to this website uses 
-weak encryption and is not private.">
-<!ENTITY identity.description.weakCipher2 "Other people can view your 
-information or modify the website’s behavior.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; has blocked parts 
-of this page that are not secure.">
-<!ENTITY identity.description.passiveLoaded "Your connection is not private and 
-information you share with the site could be viewed by others.">
-<!ENTITY identity.description.passiveLoaded2 "This website contains content that 
-is not secure (such as images).">
-<!ENTITY identity.description.passiveLoaded3 "Although &brandShortName; has 
-blocked some content, there is still content on the page that is not secure 
-(such as images).">
-<!ENTITY identity.description.activeLoaded "This website contains content that 
-is not secure (such as scripts) and your connection to it is not private.">
-<!ENTITY identity.description.activeLoaded2 "Information you share with this 
-site could be viewed by others (like passwords, messages, credit cards, etc.).">
+<!ENTITY identity.description.insecure "Your connection to this site is not private. Information you submit could be viewed by others (like passwords, messages, credit cards, etc.).">
+<!ENTITY identity.description.insecureLoginForms "The login information you enter on this page is not secure and could be compromised.">
+<!ENTITY identity.description.weakCipher "Your connection to this website uses weak encryption and is not private.">
+<!ENTITY identity.description.weakCipher2 "Other people can view your information or modify the website’s behavior.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; has blocked parts of this page that are not secure.">
+<!ENTITY identity.description.passiveLoaded "Your connection is not private and information you share with the site could be viewed by others.">
+<!ENTITY identity.description.passiveLoaded2 "This website contains content that is not secure (such as images).">
+<!ENTITY identity.description.passiveLoaded3 "Although &brandShortName; has blocked some content, there is still content on the page that is not secure (such as images).">
+<!ENTITY identity.description.activeLoaded "This website contains content that is not secure (such as scripts) and your connection to it is not private.">
+<!ENTITY identity.description.activeLoaded2 "Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Enable protection">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
-<!ENTITY identity.disableMixedContentBlocking.label "Disable protection for 
-now">
+<!ENTITY identity.disableMixedContentBlocking.label "Disable protection for now">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Learn More">
 
@@ -773,9 +776,10 @@ Tab…">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
-
-
 <!ENTITY syncBrand.shortName.label    "ਸਿੰਕ">
+
+<!ENTITY syncSignIn.label             "Sign In To &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Y">
 
 <!ENTITY syncSyncNowItem.label        "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -836,6 +840,7 @@ Tab…">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "ਸਾਂਝਾ ਕਰਨ ਲਈ ਮਾਈਕਰੋਫੋਨ:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "Audio from the tab will be shared.">
 <!ENTITY getUserMedia.allWindowsShared.message "ਆਪਣੀ ਸਕਰੀਨ ਤੋਂ ਸਭ ਵਿਖਾਈ ਦਿੰਦੀਆਂ ਵਿੰਡੋਜ਼ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਕੀਤਾ ਜਾਵੇਗਾ।">
 
 <!ENTITY trackingProtection.title "Tracking Protection">
