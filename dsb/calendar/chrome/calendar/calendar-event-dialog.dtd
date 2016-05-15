@@ -361,7 +361,7 @@
 <!ENTITY event.timezone.custom.label     "Dalšne casowe cony…">
 <!-- Read-Only dialog -->
 
-<!ENTITY read.only.general.label         "Powšykny">
+<!ENTITY read.only.general.label         "Powšykne">
 <!ENTITY read.only.title.label           "Titel:">
 <!ENTITY read.only.event.start.label     "Zachopny datum:">
 <!ENTITY read.only.task.start.label      "Zachopny datum:">
