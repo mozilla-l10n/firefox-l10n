@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "ਟੈਲੀਮੈਂਟਰੀ ਡਾਟਾ">
+<!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
 
 <!ENTITY aboutTelemetry.changeDataChoices "
-  ਬਦਲੋ
+  Change
 ">
 
 <!ENTITY aboutTelemetry.uploadEnabled "
@@ -36,8 +36,17 @@ Current ping data
 Archived ping data
 ">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "
+Ping data display:
+">
 
+<!ENTITY aboutTelemetry.structured "
+Structured
+">
 
+<!ENTITY aboutTelemetry.raw "
+Raw JSON
+">
 
 <!ENTITY aboutTelemetry.showSubsessionData "
 Show subsession data
@@ -55,6 +64,9 @@ Choose ping:
 Older ping &gt;&gt;
 ">
 
+<!ENTITY aboutTelemetry.rawPingData "
+Raw ping data…
+">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Week
@@ -65,7 +77,7 @@ Ping
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
-  ਆਮ ਡਾਟਾ
+  General Data
 ">
 
 <!ENTITY aboutTelemetry.environmentDataSection "
@@ -73,68 +85,77 @@ Ping
 ">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "
-  ਟੈਲੀਮੈਂਟਰੀ ਡਾਟਾ
+  Telemetry Log
 ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "
-  ਹੌਲੀ SQL ਸਟੇਟਮੈਂਟ
+  Slow SQL Statements
 ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
-  ਬਰਾਊਜ਼ਰ ਹੈਂਗ
+  Browser Hangs
 ">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "
-  ਹੈਗ ਥਰਿੱਡ
+  Thread Hangs
 ">
 
 <!ENTITY aboutTelemetry.histogramsSection "
-  ਆਇਤਗਰਾਫ਼
+  Histograms
 ">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
-  ਕੀਡ ਆਇਤਗਰਾਫ਼
+  Keyed Histograms
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  ਨਮੂਨੇ ਮਾਪ
+  Simple Measurements
 ">
 
 <!ENTITY aboutTelemetry.addonDetailsSection "
-  ਐਡ-ਆਨ ਵੇਰਵਾ
+  Add-on Details
 ">
 
 <!ENTITY aboutTelemetry.lateWritesSection "
-  ਲੇਟ ਲਿਖਣਾ
+  Late Writes
 ">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  Session Information
+">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
-  ਐਡ-ਆਨ ਵਲੋਂ ਇੱਕਠੇ ਕੀਤੇ ਆਇਤਗਾਰਫ਼
+  Histograms Collected by Add-ons
 ">
 
 <!ENTITY aboutTelemetry.toggle "
-  ਚੋਣ ਨੂੰ ਤਬਦੀਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ
+  Click to toggle section
 ">
 
 <!ENTITY aboutTelemetry.emptySection "
-  (ਕੋਈ ਡਾਟਾ ਇੱਕਠਾ ਨਹੀਂ ਕੀਤਾ)
+  (No data collected)
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
-  ਸੂਚਨਾ: ਹੌਲੀ SQL ਡੀਬੱਗ ਕਰਨਾ ਯੋਗ ਹੈ। ਪੂਰੀਆਂ SQL ਲਾਈਨਾਂ ਨੂੰ ਹੇਠਾਂ ਵੇਖਾਇਆ ਜਾਵੇਗਾ, ਪਰ ਉਹਨਾਂ ਨੂੰ ਟੈਲੀਮੈਂਟਰੀ ਨੂੰ ਭੇਜਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।
+  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
 ">
 
 <!ENTITY aboutTelemetry.fetchSymbols "
-  ਹੈਂਗ ਸਟੈਕਸ ਲਈ ਫੰਕਸ਼ਨ ਨਾਂ ਲਵੋ
+  Fetch function names for hang stacks
 ">
 
 <!ENTITY aboutTelemetry.hideSymbols "
-  ਹੈਂਗ ਤੋਂ ਕੱਚਾ ਡਾਟਾ ਵੇਖਾਓ
+  Show raw data from hangs
 ">
 
 <!ENTITY aboutTelemetry.filterText "
-  ਫਿਲਟਰ (ਸਤਰ ਜਾਂ /regexp/)
+  Filter (strings or /regexp/)
 ">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Payload
+">
 
+<!ENTITY aboutTelemetry.rawPayload "
+  Raw Payload
+">

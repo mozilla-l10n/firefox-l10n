@@ -36,7 +36,7 @@ This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "ਸਰਗਰਮ">
 <!ENTITY aboutSupport.experimentEndDate "ਅੰਤ ਮਿਤੀ">
 <!ENTITY aboutSupport.experimentHomepage "ਮੁੱਖ ਸਫ਼ਾ">
-
+<!ENTITY aboutSupport.experimentBranch "Branch">
 
 <!ENTITY aboutSupport.appBasicsTitle "ਐਪਲੀਕੇਸ਼ਨ ਬੇਸਿਕ">
 <!ENTITY aboutSupport.appBasicsName "ਨਾਂ">
@@ -57,10 +57,13 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ਚਾਲੂ ਪਲੱਗਇਨ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "ਬਿਲਡ ਸੰਰਚਨਾ">
 <!ENTITY aboutSupport.appBasicsUserAgent "ਯੂਜ਼ਰ ਏਜੰਟ">
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "ਮੈਮੋਰੀ ਵਰਤੋਂ">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "ਰਜਿਸਟਰ ਕੀਤੇ Service Workers">
+
+<!ENTITY aboutSupport.appBasicsProfiles "Profiles">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ਬਹੁ-ਕਾਰਜ ਵਿੰਡੋਜ਼">
 
@@ -110,3 +113,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "ਸੁਰੱਖਿਅਤ ਮੋਡ ਵਰਤ ਕੇ ਦੇਖੋ">
 <!ENTITY aboutSupport.restartInSafeMode.label "…ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
+
+
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Features">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostics">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Failure Log">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
