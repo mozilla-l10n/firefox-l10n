@@ -16,8 +16,8 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct2.label      "Om &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "O">
-<!ENTITY productHelp2.label       "Innhold">
-<!ENTITY productHelp2.accesskey   "I">
+<!ENTITY productHelp2.label       "&brandShorterName; Hjelp">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Tastatursnarveier">
