@@ -169,7 +169,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
 <!ENTITY recentBookmarks.label "Marcadores recientes">
 <!ENTITY otherBookmarksCmd.label "Otros marcadores">
-<!ENTITY unsortedBookmarksCmd.label "Marcadores sin ordenar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
 <!ENTITY backCmd.label "Atrás">
@@ -728,7 +727,8 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY syncTabsMenu3.label     "Pestañás sincronizadas">
 
 <!ENTITY syncedTabs.sidebar.label              "Pestañas sincronizadas">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Recuperando pestañas sinconizadas…">
+<!ENTITY syncedTabs.sidebar.noclients.title    "No hay pestañas sincronizadas… ¡aún!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "¿Quiere ver las pestañas de sus otros dispositivos aquí?">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Ingrese a Firefox desde otro dispositivo para ver sus pestañas aquí.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Ingrese para ver una lista de pestañas de los otros dispositivos.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Sin pestañas abiertas">
