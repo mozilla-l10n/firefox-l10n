@@ -21,3 +21,8 @@
 <!ENTITY border.tooltip         "bordes">
 <!ENTITY padding.tooltip        "padding">
 <!ENTITY content.tooltip        "contenido">
+
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
+<!ENTITY geometry.button.tooltip  "Editar posición">
