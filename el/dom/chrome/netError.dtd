@@ -19,6 +19,7 @@
 <!ENTITY fileNotFound.title "Σφάλμα εύρεσης αρχείου">
 <!ENTITY fileNotFound.longDesc "Το αρχείο που καθορίζεται από τη διεύθυνση (URL) δεν βρέθηκε. Ελέγξτε ότι το αρχείο υπάρχει και ότι έχετε τα απαραίτητα δικαιώματα να το εμφανίσετε.">
 
+
 <!ENTITY generic.title "Αδυναμία ολοκλήρωσης αίτησης">
 <!ENTITY generic.longDesc "Η σελίδα δεν μπορεί να φορτωθεί επειδή πιθανόν δεν υπάρχει, ή η τοποθεσία της είναι εσφαλμένη. <br/>Ελέγξτε αν η τοποθεσία της είναι σωστή.">
 
@@ -73,18 +74,6 @@
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Ύποπτη σελίδα κακόβουλων επιθέσεων!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Οι ιστοσελίδες επιθέσεων προσπαθούν να εγκαταστήσουν προγράμματα στον υπολογιστή σας τα οποία υποκλέπτουν προσωπικές σας πληροφορίες, χρησιμοποιούν τον υπολογιστή σας για να επιτίθενται σε άλλους υπολογιστές και βλάπτουν το σύστημα σας.</p>
-<p>Οι ιδιοκτήτες των ιστοσελίδων που πιστεύουν ότι η σελίδα τους έχει υποδειχθεί λανθασμένα ως κακόβουλη ιστοσελίδα μπορούν να ζητήσουν <a href='http://www.stopbadware.org/home/reviewinfo' >επανεξέταση</a>.</p>
-">
-
-
-<!ENTITY phishingBlocked.title "Σελίδα ύποπτη για πλαστογραφία!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Η εισαγωγή προσωπικών πληροφοριών σε αυτή τη σελίδα μπορεί να έχει σαν αποτέλεσμα να πέσετε θύμα απάτης.</p>
-<p>Αυτού του είδους οι πλαστογραφίες χρησιμοποιούνται σε απάτες γνωστές και ως phishing attacks, με τις οποίες οι ύποπτες σελίδες και emails προσπαθούν να μιμηθούν έμπιστες σε εσάς πηγές.</p>
-">
 
 
 <!ENTITY corruptedContentError.title "Σφάλμα κατεστραμμένου περιεχομένου">
@@ -93,9 +82,5 @@
 <!ENTITY remoteXUL.title "Απομακρυσμένο XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλούμε επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους πληροφορήσετε για το πρόβλημα.</li></ul></p>">
 
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
