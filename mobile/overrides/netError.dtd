@@ -148,15 +148,15 @@
 <ul>
   <li>Undersøg om dit system har Personal Security Manager
   installeret.</li>
-  <li>Dette kan skyldes en ikke-standard opsætning af serveren.</li>
+  <li>Dette kan skyldes en ikke-standardopsætning af serveren.</li>
 </ul>
 ">
 
 <!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
-  <li>Kontakt ejerne af webstedet omkring dette problem.</li>
+  <li>Siden kunne ikke vises, da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
+  <li>Kontakt ejeren af webstedet omkring dette problem.</li>
 </ul>
 ">
 

@@ -98,7 +98,7 @@
 <!ENTITY proxyConnectFailure.title "Proxyserveren afviser forbindelser">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Undersøg proxy-indstillingerne,, og vær sikker på, at de er korrekte.</li>
+  <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
   <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren 
   fungerer.</li>
 </ul>
@@ -125,9 +125,9 @@
 <!ENTITY unknownSocketType.title "Uventet svar fra server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Undersøg om dit system har Personal Security Manager 
-  installeret.</li>
-  <li>Dette kan skyldes en ikke-standard opsætning af serveren.</li>
+<li>Undersøg om dit system har Personal Security Manager 
+installeret.</li>
+<li>Dette kan skyldes en ikke-standardopsætning af serveren.</li>
 </ul>
 ">
 
@@ -135,7 +135,7 @@
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Siden kunne ikke vises, da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
-  <li>Kontakt ejerne af webstedet omkring dette problem.</li>
+  <li>Kontakt ejeren af webstedet omkring dette problem.</li>
 </ul>
 ">
 
