@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.toolbars.title    "Verktylinjer">
+<!ENTITY pref.toolbars.title    "Verktøylinjer">
 
-<!ENTITY composition.caption    "Vis desse knappane i redigeringsverktylinja:">
+<!ENTITY composition.caption    "Vis desse knappane i redigeringsverktøylinja:">
 
 <!ENTITY new.label              "Ny">
 <!ENTITY open.label             "Opna">
@@ -22,7 +22,7 @@
 <!ENTITY link.label             "Lenke">
 <!ENTITY anchor.label           "Anker">
 
-<!ENTITY formatting.caption     "Vis desse knappane i formateringsverktylinja:">
+<!ENTITY formatting.caption     "Vis desse knappane i formateringsverktøylinja:">
 
 <!ENTITY smaller.label          "Mindre">
 <!ENTITY larger.label           "Større">
