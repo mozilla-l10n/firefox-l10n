@@ -98,7 +98,7 @@
 <!ENTITY proxyConnectFailure.title "Proxyserveren afviser forbindelser">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Undersøg proxy-indstillingerne og vær sikker på at de er korrekte.</li>
+  <li>Undersøg proxy-indstillingerne,, og vær sikker på, at de er korrekte.</li>
   <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren 
   fungerer.</li>
 </ul>

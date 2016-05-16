@@ -51,7 +51,7 @@
 
 <!ENTITY generic.title "Hovsa.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; kan ikke indlæse denne side, af en eller anden grund.</p>
+<p>&brandShortName; kan ikke indlæse denne side af en eller anden grund.</p>
 ">
 
 <!ENTITY malformedURI.title "Adressen er ikke gyldig">
@@ -117,7 +117,7 @@
 <!ENTITY proxyConnectFailure.title "Proxyserveren afviser forbindelser">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Undersøg proxy-indstillingerne og vær sikker på at de er korrekte.</li>
+  <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
   <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren
   fungerer.</li>
 </ul>
