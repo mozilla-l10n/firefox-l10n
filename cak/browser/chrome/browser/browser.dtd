@@ -324,7 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Taq k'ajtz'ib' k'a b'a' etz'apin">
 <!ENTITY historyRestoreLastSession.label "Titzolin pa ri samaj xik'o">
 
-<!ENTITY showAllHistoryCmd2.label "Tik'ut ronojel ri natab'äl">
+<!ENTITY showAllHistoryCmd2.label "Tik'ut pe ronojel ri natab'äl">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Tichinäx">
@@ -352,7 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Kexim ri taq ajowanik">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
-<!ENTITY appMenuRemoteTabs.signin.label "Tatikirisaj molojri'ïl pa Sync">
+<!ENTITY appMenuRemoteTabs.signin.label "Tatikirisaj molojri'ïl pa Ximojri'ïl">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ketz'et ximïl taq ruwi' pa ajxikin kajtz'ik">
 
 <!ENTITY customizeMenu.addToToolbar.label "Titz'aqatisäx pa Molsamajib'äl">

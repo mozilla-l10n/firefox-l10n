@@ -96,7 +96,7 @@
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 
-<!ENTITY debuggerUI.showOriginalSource           "Kek'ut pe ri qitzij taq tz'ib'">
+<!ENTITY debuggerUI.showOriginalSource           "Kek'ut pe ri qitzij taq xe'el">
 <!ENTITY debuggerUI.showOriginalSource.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
