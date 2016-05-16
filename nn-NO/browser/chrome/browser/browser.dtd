@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat nettlesing)">
 
 <!ENTITY appmenu.tooltip                     "Opna meny">
-<!ENTITY navbarOverflow.label                "Fleire verkty …">
+<!ENTITY navbarOverflow.label                "Fleire verktøy …">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Oppdater fane">
@@ -117,7 +117,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
 <!ENTITY fullScreenRestore.tooltip "Gjenopprett">
 <!ENTITY fullScreenClose.tooltip "Lat att">
-<!ENTITY fullScreenAutohide.label "Gøym verktylinjer">
+<!ENTITY fullScreenAutohide.label "Gøym verktøylinjer">
 <!ENTITY fullScreenAutohide.accesskey "G">
 <!ENTITY fullScreenExit.label "Avslutt fullskjermmodus">
 <!ENTITY fullScreenExit.accesskey "v">
@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "Bokmerke">
 <!ENTITY bookmarksMenuButton.other.label "Andre bokmerke">
 <!ENTITY viewBookmarksSidebar2.label        "Vis sidestolpe for bokmerke">
-<!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktylinje">
+<!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -310,7 +310,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Vis"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewToolbarsMenu.label       "Verktylinjer"> 
+<!ENTITY viewToolbarsMenu.label       "Verktøylinjer"> 
 <!ENTITY viewToolbarsMenu.accesskey     "V"> 
 <!ENTITY viewSidebarMenu.label "Sidestolpe">
 <!ENTITY viewSidebarMenu.accesskey "d">
@@ -328,7 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
 <!ENTITY appMenuCustomize.label "Tilpass">
-<!ENTITY appMenuCustomize.tooltip "Tilpass meny og verktylinjer">
+<!ENTITY appMenuCustomize.tooltip "Tilpass meny og verktøylinjer">
 <!ENTITY appMenuCustomizeExit.label "Avslutt tilpasning">
 <!ENTITY appMenuCustomizeExit.tooltip "Fullfør tilpassing">
 <!ENTITY appMenuHistory.label "Historikk">
@@ -355,11 +355,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Logg inn på Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis sidestolpe for synkroniserte faner">
 
-<!ENTITY customizeMenu.addToToolbar.label "Legg til i verktylinje">
+<!ENTITY customizeMenu.addToToolbar.label "Legg til i verktøylinje">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
 <!ENTITY customizeMenu.addToPanel.label "Legg til i meny">
 <!ENTITY customizeMenu.addToPanel.accesskey "e">
-<!ENTITY customizeMenu.moveToToolbar.label "Flytt til verktylinje">
+<!ENTITY customizeMenu.moveToToolbar.label "Flytt til verktøylinje">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "F">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
@@ -368,7 +368,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Flytt til meny">
 <!ENTITY customizeMenu.moveToPanel.accesskey "t">
-<!ENTITY customizeMenu.removeFromToolbar.label "Fjern frå verktylinja">
+<!ENTITY customizeMenu.removeFromToolbar.label "Fjern frå verktøylinja">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "n">
 <!ENTITY customizeMenu.removeFromMenu.label "Fjern frå meny">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "å">
@@ -759,7 +759,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Synkroniser">
 
-<!ENTITY socialToolbar.title        "Sosial verktylinje-knapp">
+<!ENTITY socialToolbar.title        "Sosial verktøylinje-knapp">
 
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
@@ -785,11 +785,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Trykk på ei teneste for å leggja ho til i &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Vis fleire">
 
-<!ENTITY customizeMode.menuAndToolbars.header2 "Fleire verkty og funksjonar">
-<!ENTITY customizeMode.menuAndToolbars.empty "Vil du ha fleire verkty">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Fleire verktøy og funksjonar">
+<!ENTITY customizeMode.menuAndToolbars.empty "Vil du ha fleire verktøy">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vel frå tusenvis av utvidingar">
 <!ENTITY customizeMode.restoreDefaults "Still tilbake til standard">
-<!ENTITY customizeMode.toolbars "Vis/Gøym verktylinjer">
+<!ENTITY customizeMode.toolbars "Vis/Gøym verktøylinjer">
 <!ENTITY customizeMode.titlebar "Tittellinje">
 <!ENTITY customizeMode.lwthemes "Tema">
 <!ENTITY customizeMode.lwthemes.myThemes "Mine tema">
