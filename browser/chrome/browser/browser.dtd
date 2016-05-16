@@ -168,6 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Odoberať kanál tejto stránky…">
 <!ENTITY addCurPagesCmd.label "Pridať všetky karty medzi záložky…">
 <!ENTITY showAllBookmarks2.label "Zobraziť všetky záložky">
+<!ENTITY recentBookmarks.label "Nedávno pridané medzi záložky">
+<!ENTITY otherBookmarksCmd.label "Ostatné záložky">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobraziť ďalšie záložky">
 
 <!ENTITY backCmd.label                "Naspäť">
@@ -222,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Záložky">
+<!ENTITY bookmarksMenuButton.other.label "Ostatné záložky">
 <!ENTITY viewBookmarksSidebar2.label        "Zobraziť bočný panel Záložky">
 <!ENTITY viewBookmarksToolbar.label         "Zobraziť panel nástrojov Záložky">
 
@@ -345,6 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "Nemáte žiadne synchronizované karty… zatiaľ!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Chceli by ste tu vidieť vaše karty z ostatných zariadení?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Nastavenia synchronizácie">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prihlásiť sa k službe Sync">
@@ -720,6 +725,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Synchronizované karty">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Prihláste sa do Firefoxu na vašich ostatných zariadeniach, ak tu chcete vidieť karty z týchto zariadení.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Nemáte žiadne synchronizované karty… zatiaľ!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Chceli by ste tu vidieť vaše karty z ostatných zariadení?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Žiadne otvorené karty">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Otvoriť nastavenia služby &syncBrand.shortName.label;">
@@ -727,8 +734,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Zapnutím synchronizácie kariet zobrazíte zoznam kariet z vašich ostatných zariadení.">
 
+<!ENTITY syncedTabs.context.open.label                       "Otvoriť">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Otvoriť na novej karte">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Otvoriť v novom okne">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Otvoriť v novom okne režimu Súkromné prehliadanie">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Pridať túto kartu medzi záložky…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "z">
+<!ENTITY syncedTabs.context.copy.label                       "Kopírovať">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

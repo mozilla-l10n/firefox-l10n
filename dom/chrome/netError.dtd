@@ -19,6 +19,7 @@
 <!ENTITY fileNotFound.title "Chyba: Súbor nenájdený">
 <!ENTITY fileNotFound.longDesc "<p>Požadovaný súbor nebol na zadanej adrese (URL) nájdený. Je možné, že bol odstránený, premenovaný alebo premiestnený</p><ul><li>Skontrolujte, či má adresa správny formát.</li><li>Ak ste autorom tohto súboru, overte, či daný súbor na serveri existuje a že má príslušné práva na zobrazenie.</li></ul>">
 
+
 <!ENTITY generic.title "Chyba: Nepodarilo sa dokončiť požiadavku">
 <!ENTITY generic.longDesc "<p>Dodatočná informácia o tomto probléme, alebo chybe je momentálne nedostupná.</p>">
 
@@ -89,3 +90,6 @@
 
 <!ENTITY remoteXUL.title "Vzdialené XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte správcu webovej stránky a informujte ho o tomto probléme.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
