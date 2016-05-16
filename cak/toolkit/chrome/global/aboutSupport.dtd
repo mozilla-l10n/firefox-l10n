@@ -103,7 +103,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Tzayanib'äl">
 
 <!ENTITY aboutSupport.safeModeTitle "Titojtob'ëx ütz rub'anikil">
-<!ENTITY aboutSupport.restartInSafeMode.label "Titikirisäx jub'ey chik rik'in tz'apäl taq tz'aqat…">
+<!ENTITY aboutSupport.restartInSafeMode.label "&amp;Titikirisäx chik kik'in ri chupül taq tz'aqat…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Taq b'anikil">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Nik'oxïk">

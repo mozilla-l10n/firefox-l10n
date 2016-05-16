@@ -117,7 +117,7 @@
 <!ENTITY prefs_title "Taq ajowab'äl">
 <!ENTITY prefs_editor_title "Nuk'unel">
 <!ENTITY prefs_general_title "Chijun">
-<!ENTITY prefs_restore "Ketzolïx ri retal kib'eyal e k'o wi">
+<!ENTITY prefs_restore "Ke'atzolij ri taq wachinel e k'o wi">
 <!ENTITY prefs_manage_components "Kenuk'samajïx kitz'aqat taq ch'akul">
 <!ENTITY prefs_options_autoconnectruntime "Tokisäx chik pa ri ruk'ojlib'al ri chuwäch b'anatajnäq">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Tokisäx chik pa ri ruk'ojlib'al ri chuwäch b'anatajnäq, toq xtitikirisäx WebIDE">
@@ -204,7 +204,7 @@
 
 <!ENTITY simulator_title "Taq rucha'oj ojqanel">
 <!ENTITY simulator_remove "Tiyuj el ri ojqanel">
-<!ENTITY simulator_reset "Ke'atzolij ketal e k'o wi">
+<!ENTITY simulator_reset "Ke'atzolij ri taq wachinel e k'o wi">
 <!ENTITY simulator_name "B'i'aj">
 <!ENTITY simulator_software "Kema'">
 <!ENTITY simulator_version "Ruwäch">

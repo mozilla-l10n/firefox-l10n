@@ -788,7 +788,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "Taq Samajib'äl chuqa' Tz'aqät taq Rusamaj">
 <!ENTITY customizeMode.menuAndToolbars.empty "¿La nawajo' ch'aqa' chik taq samajib'äl?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Kacha'on chi kikojol k'ïy taq tz'aqat">
-<!ENTITY customizeMode.restoreDefaults "Ke&amp;'atzolij retal ri kib'eyal">
+<!ENTITY customizeMode.restoreDefaults "Ke'atzolij ri taq wachinel e k'o wi">
 <!ENTITY customizeMode.toolbars "Tik'ut chuqa' / tewäx ri molsamajib'äl">
 <!ENTITY customizeMode.titlebar "Rub'i' molsamaj">
 <!ENTITY customizeMode.lwthemes "Taq wachinel">
