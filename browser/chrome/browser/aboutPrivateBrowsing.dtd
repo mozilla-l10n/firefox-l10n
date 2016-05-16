@@ -6,24 +6,25 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Vula ifestile yangasese">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "i">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY privateBrowsing.title                           "Ukubhrawuza Kwangasese">
+<!ENTITY privateBrowsing.title.tracking                  "UBhrawuzo Lwabucala olunoKhuseleko Lokutreka">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "When you browse in a Private Window, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "musa ukugcina">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "amaphepha atyelelweyo">
+<!ENTITY aboutPrivateBrowsing.info.searches              "ukhangelo">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "iikhukhi">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "iifayile zexeshana">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "I-Firefox">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "iya kugcina">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          "izinto zakho:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "ozidawnlowudileyo">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "iibhukhmakhi">
+<!ENTITY aboutPrivateBrowsing.note.before                "Ukubhrawuza Kwangasese">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "akukwenzi ungaziwa igama lakho">
+<!ENTITY aboutPrivateBrowsing.note.after                 "kwi-intanethi. Umqeshi wakho okanye umnikezeli wakho we-Intanethi useza kuwazi amaphepha owatyelelayo.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Funda okungakumbi nge">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Ukubhrawuza Kwangasese">
 
 <!ENTITY trackingProtection.title                        "Itreka Ukhuseleko">
 
