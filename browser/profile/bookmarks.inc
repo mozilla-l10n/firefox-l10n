@@ -16,10 +16,10 @@
 #define bookmarks_heading Bokmerke
 
 
-#define bookmarks_toolbarfolder Personleg verktymappe
+#define bookmarks_toolbarfolder Personleg verktøymappe
 
 
-#define bookmarks_toolbarfolder_description Legg til bokmerke i denne mappa for å sjå dei i verktylinja for bokmerke
+#define bookmarks_toolbarfolder_description Legg til bokmerke i denne mappa for å sjå dei i verktøylinja for bokmerke
 
 
 # LOCALIZATION NOTE (getting_started):
