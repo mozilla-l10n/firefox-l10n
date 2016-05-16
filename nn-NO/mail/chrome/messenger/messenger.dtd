@@ -590,7 +590,7 @@
 <!ENTITY appmenuNewMsgCmd.label "Ny melding">
 <!ENTITY appmenuNewContactCmd.label "Adressebokkontaktar …">
 <!ENTITY appmenuEditMenu.label "Rediger">
-<!ENTITY appmenuToolbarLayout.label "Verktylinjeutsjånad …">
+<!ENTITY appmenuToolbarLayout.label "Verktøylinjeutsjånad …">
 <!ENTITY appmenuSelectThread.label "Vel tråd">
 <!ENTITY appmenuSelectFlagged.label "Vel meldingar med stjerne">
 <!-- Tags Menu Popup -->
