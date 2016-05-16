@@ -83,6 +83,7 @@ values from browser.dtd.  -->
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.authored "As Authored">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
@@ -179,7 +180,7 @@ values from browser.dtd.  -->
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
-<!ENTITY options.timestampMessages.label      "Увімкнути часові штампи">
+<!ENTITY options.timestampMessages.label      "Увімкнути відбитки часу">
 <!ENTITY options.timestampMessages.tooltip    "Якщо ввімкнено цей параметр, команди і вивід показуватиме час у веб-консолі">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the

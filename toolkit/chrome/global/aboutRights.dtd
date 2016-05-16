@@ -19,6 +19,8 @@
 <!ENTITY rights.intro-point1b "Публічної ліцензії Mozilla">
 <!ENTITY rights.intro-point1c ".Тобто, ви можете використовувати, копіювати та розповсюджувати &brandShortName;. Ви також можете змінювати джерельний код &brandShortName; як хочете та як вважаєте за потрібне. Публічна ліцензія Mozilla дає вам також право розповсюджувати змінені вами версії програми.">
 
+<!ENTITY rights.intro-point2-a "Вам не передаються жодні права на торгову марку чи ліцензії на торгові марки Mozilla Foundation або будь-якої сторони, включно та без обмежень на назву і логотип Firefox. Додаткову інформацію щодо торгових марок можна знайти ">
+<!ENTITY rights.intro-point2-b "тут">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
@@ -58,9 +60,20 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-b "Вимкнення функції Safe Browsing не рекомендується, тому що це може призвести до того, що ви будете потрапляти на небезпечні сайти.  Якщо ви бажаєте повністю вимкнути цю функцію, виконайте наступні кроки:">
+<!ENTITY rights.safebrowsing-term1 "Відкрийте налаштування програми">
+<!ENTITY rights.safebrowsing-term2 "Оберіть розділ Безпека">
+<!ENTITY rights2.safebrowsing-term3 "Приберіть прапорець з &quot;&enableSafeBrowsing.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Safe Browsing тепер вимкнено">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Визначення розташування під час веб-перегляду: ">
+<!ENTITY rights.locationawarebrowsing-b "завжди потребує вашого підтвердження.  Інформація про розташування ніколи не надсилається без вашого дозволу.  Якщо ви бажаєте повністю вимкнути цю функцію, виконайте наступні кроки:">
+<!ENTITY rights.locationawarebrowsing-term1a "В панелі адреси введіть ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term2 "Введіть geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Зробіть подвійне натискання по параметру geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term4 "Визначення розташування під час веб-перегляду тепер вимкнено">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Тут має бути опис послуг сайтів, що включені в продукт, а також інструкції, як їх вимкнути.">
