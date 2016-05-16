@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Å slå av Trygg nettlesing-funksjonen er ikke anbefalt, ettersom det kan føre til at du besøker utrygge nettsteder.  Dersom du ønsker å skru av funksjonen helt, følg disse stegene:">
 <!ENTITY rights.safebrowsing-term1 "Åpne programinnstillingene">
 <!ENTITY rights.safebrowsing-term2 "Velg Sikkerhet-fanen">
-
+<!ENTITY rights2.safebrowsing-term3 "Skru av valget for å &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Trygg nettlesing er nå avslått">
 <!-- location aware browsing points for branded builds -->
 

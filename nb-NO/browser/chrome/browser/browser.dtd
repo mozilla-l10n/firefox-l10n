@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Bokmerk alle faner …">
 <!ENTITY showAllBookmarks2.label "Vis alle bokmerker">
 
-
+<!ENTITY otherBookmarksCmd.label "Andre bokmerker">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bokmerker">
 
 <!ENTITY backCmd.label                "Tilbake">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bokmerker">
-
+<!ENTITY bookmarksMenuButton.other.label "Andre bokmerker">
 <!ENTITY viewBookmarksSidebar2.label        "Vis bokmerkesidestolpen">
 <!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
