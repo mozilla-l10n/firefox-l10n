@@ -109,4 +109,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostikk">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Feillogg">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
-
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
