@@ -8,3 +8,4 @@
 <!ENTITY searchBox.placeholder         "Фільтр елементів">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
+<!ENTITY storage.popupMenu.deleteAllLabel "Видалити все">

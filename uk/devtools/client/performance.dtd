@@ -63,6 +63,7 @@
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Підсвічує функції JavaScript там, де браузер витратив найбільше часу під час запису.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Алокації">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Показує де була розміщена пам'ять під час запису.">
+<!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Показує групу виклику JavaScript над напрямком запису.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Flame Chart алокацій">
 

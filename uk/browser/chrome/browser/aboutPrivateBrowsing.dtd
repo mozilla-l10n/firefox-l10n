@@ -4,7 +4,7 @@
 
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Зараз ви не у приватному вікні.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Відкрити приватне вікно">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "П">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "п">
 
 <!ENTITY privateBrowsing.title                           "Приватний перегляд">
 <!ENTITY privateBrowsing.title.tracking                  "Приватний перегляд із захистом від стеження">

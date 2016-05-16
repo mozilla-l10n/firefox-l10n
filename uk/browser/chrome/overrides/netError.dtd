@@ -39,6 +39,12 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Доступ до файлу було заборонено">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Він міг бути вилучений, переміщений, або дозволи файлу забороняють доступ.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Помилка">
 <!ENTITY generic.longDesc "
@@ -139,9 +145,11 @@
 </ul>
 ">
 
+<!ENTITY certerror.longpagetitle1 "Ваше з'єднання незахищене">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Власник <span class='hostname'/> налаштував свій веб-сайт неналежним чином. Для захисту вашої інформації від викрадання, &brandShortName; не з'єднався з цим веб-сайтом.">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -182,6 +190,14 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> використовує технологію захисту, яка є застарілою та вразливою до атак. Зловмисник може легко викрити інформацію, яка на вашу думку знаходиться в безпеці.">
 <!ENTITY weakCryptoAdvanced.override "(Небезпечно) Спробувати завантаження <span class='hostname'></span>, використовуючи застарілий захист">
 
+<!ENTITY certerror.pagetitle1  "Незахищене з’єднання">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Цей сайт використовує HTTP
+Strict Transport Security (HSTS), щоб вказати, що &brandShortName; повинен підключатися до нього
+лише через захищене з'єднання. Як результат, неможливо додати виняток для цього
+сертифіката.">
+<!ENTITY certerror.copyToClipboard.label "Копіювати текст у буфер обміну">
 
+<!ENTITY inadequateSecurityError.title "Ваше з'єднання незахищене">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> використовує застарілу і вразливу до атак технологію безпеки. Нападник може з легкістю викрити інформацію, яка, на вашу думку, знаходиться в безпеці. Адміністратору сайту доведеться спочатку виправити це на сервері перш, ніж ви зможете відвідати сайт.</p><p>Код помилки: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
