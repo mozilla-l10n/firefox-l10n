@@ -97,14 +97,14 @@
 <!ENTITY unknownProtocolFound.title "Adressen kunne ikke forstås">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Du er nødt til at installere andet software for at åbne denne adresse.</li>
+  <li>Du er måske nødt til at installere andet software for at åbne denne adresse.</li>
 </ul>
 ">
 
 <!ENTITY proxyConnectFailure.title "Proxyserveren afviser forbindelser">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Undersøg proxy-indstillingerne og vær sikker på at de er korrekte.</li>
+  <li>Undersøg proxy-indstillingern,  og vær sikker på, at de er korrekte.</li>
   <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren
   fungerer.</li>
 </ul>
