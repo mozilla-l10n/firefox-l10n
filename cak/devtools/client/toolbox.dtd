@@ -140,8 +140,8 @@ values from browser.dtd.  -->
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
-<!ENTITY options.enableServiceWorkersHTTP.label     "Titzij ri service workers pa HTTP (Toq jaqäl ri kikaxa taq samajib'äl)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Toq nitzij re cha'oj re' xtuya' q'ij chi yesamäj ri taq service workers pa HTTP p rononjel ri taq ruwi' erujaqon ri kikaxa taq samajib'äl.">
+<!ENTITY options.enableServiceWorkersHTTP.label     "Titzij ri samajela' pa samaj rik'in HTTP (Toq jaqäl ri kikaxa taq samajib'äl)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Toq nitzij re cha'oj re' xtuya' q'ij chi yesamäj ri Samajela' pa samaj rik'in HTTP p rononjel ri taq ruwi' erujaqon ri kikaxa taq samajib'äl.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->

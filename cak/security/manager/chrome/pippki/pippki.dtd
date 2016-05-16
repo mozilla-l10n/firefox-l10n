@@ -4,7 +4,7 @@
 <!-- Values for changepassword.xul -->
 
 <!ENTITY setPassword.title  "Tijal ajtij ewan tzij">
-<!ENTITY setPassword.tokenName.label "Rokisab'al chajinïk">
+<!ENTITY setPassword.tokenName.label "Okisaxel richin jikomal">
 <!ENTITY setPassword.oldPassword.label "Ewan tzij wakami:">
 <!ENTITY setPassword.newPassword.label "K'ak'a' ewan tzij:">
 <!ENTITY setPassword.reenterPassword.label "K'ak'a' ewan tzij (tijikib'äx):">

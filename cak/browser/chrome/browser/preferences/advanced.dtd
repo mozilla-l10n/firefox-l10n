@@ -35,7 +35,7 @@
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Tetamäx ch'aqa' chik">
 
-<!ENTITY telemetryDesc.label             "Takomonij ri na'oj pa ruwi' rub'eyal nisamäj, ri rokisaxik, ch'akulakem chuqa' richinaxik okik'amaya'l rik'in &vendorShortName; richin chi ri &brandShortName; nel ütz">
+<!ENTITY telemetryDesc.label             "Takomonij ri na'oj pa ruwi' rub'eyal nisamäj, ri rokisaxik, ch'akulakem chuqa' richinaxik awokik'amaya'l rik'in &vendorShortName; richin chi ri &brandShortName; nel ütz">
 <!ENTITY enableTelemetryData.label       "Tikomonïx rutz'aqat taq tzij (achi'el, Telemetry)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Tetamäx ch'aqa' chik">
@@ -118,5 +118,5 @@
 <!ENTITY enableOCSP.accesskey            "p">
 <!ENTITY viewCerts.label                 "Titz'et taq ruwujil b'i'aj">
 <!ENTITY viewCerts.accesskey             "r">
-<!ENTITY viewSecurityDevices.label       "Kokisaxel taq jikomal">
-<!ENTITY viewSecurityDevices.accesskey   "K">
+<!ENTITY viewSecurityDevices.label       "Taq okisaxel richin jikomal">
+<!ENTITY viewSecurityDevices.accesskey   "o">

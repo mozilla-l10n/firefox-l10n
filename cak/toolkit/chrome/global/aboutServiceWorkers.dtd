@@ -5,8 +5,8 @@
 
 <!ENTITY aboutServiceWorkers.title                     "Chi kij ri Samajela' pa samaj">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.maintitle                 "Rusamajela' ri Q'alaljisan taq Samaj">
+<!ENTITY aboutServiceWorkers.maintitle                 "Samajela' pa samaj tz'ib'an kib'i'">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.warning_not_enabled       "E chupül ri taq Service Workers.">
+<!ENTITY aboutServiceWorkers.warning_not_enabled       "E chupül ri Samajela' pa samaj.">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "Majun Service Workers etz'ib'an.">
+<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "Majun samajela' pa samaj tz'ib'an kib'i'.">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY setPassword.title                 "Tik'ex nimaläj ewan tzij">
-<!ENTITY setPassword.tokenName.label       "Rokisaxel chajinem">
+<!ENTITY setPassword.tokenName.label       "Okisaxel richin jikomal">
 <!ENTITY setPassword.oldPassword.label     "Ewan tzij wakami:">
 <!ENTITY setPassword.newPassword.label     "Titz'ib'äx ri k'ak'a' ewan atzij:">
 <!ENTITY setPassword.reenterPassword.label "Tijikib'äx ewan tzij:">

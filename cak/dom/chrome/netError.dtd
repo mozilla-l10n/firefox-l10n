@@ -64,10 +64,10 @@
 <!ENTITY unknownSocketType.title "Itzel tzolin tzij">
 <!ENTITY unknownSocketType.longDesc "<p>Ri okik'amaya'l man nitikïr ta chik nusamajib'ej ri tzolin rutzij ruxaq k'amaya'l.</p>">
 
-<!ENTITY nssFailure2.title "Man xtikïr ta rik'in ri ütz okem">
+<!ENTITY nssFailure2.title "Xq'ate' ri ütz okem">
 <!ENTITY nssFailure2.longDesc2 "<p>Man tikirel ta ninik'öx chi e qitzij ri taq tzij xek'ul, man xtik'ut ta pe ri ruxaq k'amaya'l.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
-<!ENTITY nssBadCert.title "Man xtikïr ta rik'in ri ütz okem">
+<!ENTITY nssBadCert.title "Xq'ate' ri ütz okem">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Rik'in jub'a' jun ruk'ayewal ri runuk'ulem ruk'u'x samaj, o chuqa' k'o ri tajin nik'exo ri ruk'u'x samaj.</li> <li>We at jikïl chi atokinäq chik ütz pa re ruk'u'x samaj re', ri sachoj xa xe jun ti mej, ruma ri' tikirel natojtob'ej pa jun chik ch'uti ramaj.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Tikirel chuqa' natz'aqatisaj jun man relik ta…">
