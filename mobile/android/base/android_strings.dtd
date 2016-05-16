@@ -373,9 +373,9 @@ size. -->
 <!ENTITY pref_panels_move_down "Ներքև">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-ի վիճակը և տվյալը">
-<!ENTITY datareporting_notification_action "Ընտրել, թե ինչը տարածել">
+<!ENTITY datareporting_notification_action "Ընտրել, թե ինչը համաօգտագործել">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
-<!ENTITY datareporting_notification_action_long "Ընտրեք, թե ինչը տարածել">
+<!ENTITY datareporting_notification_action_long "Ընտրեք, թե ինչը համաօգտագործել">
 <!ENTITY datareporting_notification_summary "Աշխատանքը բարելավելու համար &brandShortName;-ը որոշ տեղեկություններ է հաղորդում &vendorShortName;-ին:">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
@@ -416,9 +416,9 @@ size. -->
 <!ENTITY downloads "Ներբեռնումներ">
 <!ENTITY char_encoding "Գրանշանների Կոդավորումը">
 
-<!ENTITY share "Տարածել">
-<!ENTITY share_title "Տարածել՝">
-<!ENTITY share_image_failed "Հնարավոր չեղավ տարածել այս նկարը">
+<!ENTITY share "Համաօգտագործել">
+<!ENTITY share_title "Համաօգտագործել՝">
+<!ENTITY share_image_failed "Հնարավոր չեղավ համաօգտագործել պատկերը">
 <!ENTITY save_as_pdf "Պահել որպես PDF">
 <!ENTITY print "Տպել">
 <!ENTITY find_in_page "Գտնել էջում">
@@ -431,9 +431,9 @@ size. -->
 <!ENTITY close_private_tabs "Փակել գաղտնի ներդիրները">
 <!ENTITY tabs_normal "Ներդիրներ">
 <!ENTITY tabs_private "Անձնական">
-<!ENTITY set_image_fail "Հնարավոր չէ պահել նկարը">
-<!ENTITY set_image_path_fail "Հնարավոր չէ պահել նկարը">
-<!ENTITY set_image_chooser_title "Պահել նկարը որպես">
+<!ENTITY set_image_fail "Հնարավոր չէ կայել պատկերը">
+<!ENTITY set_image_path_fail "Հնարավոր չէ պահել պատկերը">
+<!ENTITY set_image_chooser_title "Կայել պատկերը որպես">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -453,7 +453,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Բացել Գաղտնի դիտարկմամբ">
 <!ENTITY contextmenu_remove "Ջնջել">
 <!ENTITY contextmenu_add_to_launcher "Պատկերակը հեռախոսի էկրանին">
-<!ENTITY contextmenu_share "Տարածել">
+<!ENTITY contextmenu_share "Համաօգտագործել">
 <!ENTITY contextmenu_pasteandgo "Մեջբերել և Առաջ">
 <!ENTITY contextmenu_paste "Տեղադրել">
 <!ENTITY contextmenu_copyurl "Պատճենել հասցեն">
@@ -603,7 +603,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;-ը արգելափակել է ոչ անվտանգ բովանդակությունը այս էջում:">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName;-ը արգելափակել է որոշ ոչ անվտանգ բովանդակություն այս էջում:">
-<!ENTITY mixed_content_display_loaded1 "Այս էջի մասերը անվտանգ չեն (օր.՝ նկարները):">
+<!ENTITY mixed_content_display_loaded1 "Այս էջի մասերը անվտանգ չեն (օր.՝ պատկերները):">
 <!ENTITY mixed_content_protection_disabled1 "Դուք անջատել եք ոչ անվտանգ տարրերից պաշտպանութունը:">
 <!-- Tracking content notifications in site identity popup -->
 
