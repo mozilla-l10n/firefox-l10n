@@ -13,7 +13,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Få treff frå bokmerka dine og historikk, når du søkjer.">
 <!ENTITY firstrun_data_title "Data">
 <!ENTITY firstrun_data_message "Mindre data, meir spart">
-
+<!ENTITY firstrun_data_subtext2 "Skru av bilde for å bruka mindre data på kvar nettstad du besøkjer.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, altid hjå deg">
 <!ENTITY firstrun_sync_subtext "Synkriniser fanenere dine, passord og meir, overalt der du brukar dei.">
@@ -24,8 +24,9 @@
 
 <!ENTITY  onboard_start_restricted1 "Ver trygg og ha kontroll med denne forenkla versjonen av &brandShortName;.">
 
+<!ENTITY  reading_list_migration_title "Leseliste tilkopla">
 
-
+<!ENTITY  reading_list_migration_goto_bookmarks "Gå til bokmerke">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
