@@ -411,7 +411,7 @@ size. -->
 <!ENTITY find_in_page "Finn på sida">
 <!ENTITY desktop_mode "Hent sida som desktop">
 <!ENTITY page "Side">
-<!ENTITY tools "Verkty">
+<!ENTITY tools "Verktøy">
 <!ENTITY new_tab "Ny fane">
 <!ENTITY new_private_tab "Ny privat fane">
 <!ENTITY close_all_tabs "Lat att alle faner">
@@ -475,7 +475,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Fullskjerm-nettlesing">
-<!ENTITY pref_scroll_title_bar_summary2 "Gøym &brandShortName;-verktylinja ved rulling ned ei side">
+<!ENTITY pref_scroll_title_bar_summary2 "Gøym &brandShortName;-verktøylinja ved rulling ned ei side">
 
 
 <!-- Localization note (page_removed): This string appears in a toast message when
