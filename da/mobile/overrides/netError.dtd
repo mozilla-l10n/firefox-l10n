@@ -102,15 +102,15 @@
 <!ENTITY unknownProtocolFound.title "Adressen kunne ikke forstås">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Du er nødt til at installere andet software for at åbne denne adresse.</li>
+  <li>Du er måske nødt til at installere andet software for at åbne denne adresse.</li>
 </ul>
 ">
 
 <!ENTITY proxyConnectFailure.title "Proxyserveren afviser forbindelser">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Undersøg proxy-indstillingerne og vær sikker på at de er korrekte.</li>
-  <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren
+  <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
+  <li>Kontakt din netværks-administrator for at sikre dig, at proxyserveren
     fungerer.</li>
 </ul>
 ">
@@ -138,15 +138,15 @@
 <ul>
   <li>Undersøg om dit system har Personal Security Manager
     installeret.</li>
-  <li>Dette kan skyldes en ikke-standard opsætning af serveren.</li>
+  <li>Dette kan skyldes en ikke-standardopsætning af serveren.</li>
 </ul>
 ">
 
 <!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>Websiden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
-  <li>Informer ejeren af webstedet om problemet.</li>
+  <li>Siden kunne ikke vises, da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
+  <li>Kontakt ejeren af webstedet omkring dette problem.</li>
 </ul>
 ">
 
