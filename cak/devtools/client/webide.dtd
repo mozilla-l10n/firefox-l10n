@@ -36,7 +36,7 @@
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "y">
 <!ENTITY runtimeMenu_takeScreenshot_label "Chapoj ruwäch">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "C">
-<!ENTITY runtimeMenu_showDetails_label "Retamab'al ri ruk'ojlem b'anatajnïk">
+<!ENTITY runtimeMenu_showDetails_label "Retamab'al ri ruk'ojlem b'anatajnäq">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Jolomaj">
 <!ENTITY runtimeMenu_showMonitor_accesskey "J">
@@ -146,7 +146,7 @@
 <!ENTITY permissionstable_name_header "B'i'aj">
 <!-- Runtime Details -->
 
-<!ENTITY runtimedetails_title "Etamab'äl chi rij ri ruq'ijul b'anatajnäq">
+<!ENTITY runtimedetails_title "Retamab'al ri ruk'ojlem b'anatajnäq">
 <!ENTITY runtimedetails_adbIsRoot "ADB xe'el:">
 <!ENTITY runtimedetails_summonADBRoot "Xe'el okisaxel">
 <!ENTITY runtimedetails_ADBRootWarning "(narajo' jun ejqab'äl ri meq'eleb'en)">
