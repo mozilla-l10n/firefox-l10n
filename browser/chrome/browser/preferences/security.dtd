@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Blokker farleg og villeiande innhald">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "Blokker farlege nedlastingar">
+<!ENTITY  blockDownloads.accesskey        "f">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Åtvar meg mot uønskte eller uvanlege program">
+<!ENTITY  blockUncommonUnwanted.accesskey "t">
 
 <!ENTITY  addonExceptions.label         "Unntak …">
 <!ENTITY  addonExceptions.accesskey     "U">
