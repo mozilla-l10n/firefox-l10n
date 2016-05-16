@@ -391,7 +391,7 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "Tikomonïx tzij rik\u0027in ri &vendorShortName; chi rij rub\u0027eyal ri awokik\u0027amaya\u0027l richin yatkito\u0027 chi niq\u0027ax pan awi\u0027 ri rub\u0027eyal nisamäj">
 <!ENTITY datareporting_abouthr_title "Tintz\u0027eta\u0027 ri nutzijol richin rub\u0027anikil">
 <!ENTITY datareporting_telemetry_title "Etataqonel">
-<!ENTITY datareporting_telemetry_summary "Tikomonïx rub\u0027eyal nisamäj, rokisaxik, ruch\u0027akul chuqa\u0027 richinaxik tzij chi rij ri awokik\u0027amaya\u0027l rik\u0027in ri &vendorShortName; richon yojato\u0027 ninuk rutzil ri &brandShortName; ütz">
+<!ENTITY datareporting_telemetry_summary "Takomonij ri na\u0027oj pa ruwi\u0027 rub\u0027eyal nisamäj, ri rokisaxik, ch\u0027akulakem chuqa\u0027 richinaxik awokik\u0027amaya\u0027l rik\u0027in &vendorShortName; richin chi ri &brandShortName; nel ütz">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; yerutäq kitzijol taq sachoj richin nuto\u0027 &vendorShortName; chi nub\u0027än jun raxinäq chuqa\u0027 ütz awokik\u0027amaya\u0027l">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -595,7 +595,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_connection_secure "Ütz chi okem">
+<!ENTITY identity_connection_secure "Ütz kem">
 <!ENTITY identity_connection_insecure "Man ütz ta chi okem">
 <!ENTITY identity_login_insecure "Man ütz ta re ruxaq wuj re\u0027 ruma ri\u0027 ri atikirisaxik pa moloj rik\u0027in jub\u0027a\u0027 xtuya\u0027 k\u0027ayewal.">
 <!ENTITY identity_connection_chromeui "Re re\u0027 jun ütz ruxaq k\u0027amaya\u0027l richin &brandShortName;">
