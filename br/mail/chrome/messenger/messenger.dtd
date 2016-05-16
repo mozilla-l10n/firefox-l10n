@@ -28,8 +28,8 @@
 <!ENTITY newOtherAccountsCmd.accesskey "o">
 <!ENTITY newCreateEmailAccountCmd.label "Kaout ur gont postel nevez…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "K">
-<!ENTITY newExistingEmailAccountCmd.label "Ar gont postel zo anezhi endeo…">
-<!ENTITY newExistingEmailAccountCmd.accesskey "A">
+<!ENTITY newExistingEmailAccountCmd.label "Ur gont postel zo anezhi endeo…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "U">
 <!ENTITY newIMAccountCmd.label "Kont postelerezh prim…">
 <!ENTITY newIMAccountCmd.accesskey "p">
 <!ENTITY newFeedAccountCmd.label "Kont lanv…">
