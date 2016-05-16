@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>ingaba iayithem ithiywe ngokutsha, isusiwe okanye isiwe kwenye indawo?</li><li>Ingaba kukho ukungasetyenziswa kakuhle kopelo, konoobumba abakhulu okanye naluphi na ubhalo olungekho mgaqweni kwidilesi?</li><li>Ingaba unemvume eyaneleyo yokungena kwiayithem eceliweyo?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Ufikelelo kule fayile lwalelwe">
-
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Kusenokwenzeka ukuba isusiwe, isukile, okanye kusenokwenzeka ukuba imvume yefayile ithintela ufikelelo</li></ul>">
 
 <!ENTITY generic.title "Ayikwazi Kusiphetha Isicelo">
 <!ENTITY generic.longDesc "<p>Inkcazelo eyongeziweyo kule ngxaki okanye kule mposiso ayifumaneki kungokunje.</p>">
@@ -82,5 +82,7 @@
 <!ENTITY remoteXUL.title "Susa i-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Uqhagamshelo lwakho alukhuselekanga">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>isebenzisa iteknoloji yokhuseleko ephelelwe lixesha nesesichengeni sokuhlaselwa. Umhlaseli unokuthi ngokulula atyhile inkcazelo obucinga ukuba ikhuselekile. Umlawuli wewebhsayithi kuya kufuneka aqale alungise iseva kuqala ngaphambi kokuba  utyelele isayithi.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
