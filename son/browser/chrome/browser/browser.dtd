@@ -695,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "War dobuyanoo moɲoo woo ga ši sutura. Boro taney ga hin ka dii šilbawey kaŋ war n'i sanba (sanda šennikufal, toonandiyan, garaw katta, nda tana).">
 <!ENTITY identity.description.insecureLoginForms "War huruyan šilbaa kaŋ war g'a dam moɲoo woo ga manti saajante nd'a hin ka fukkar.">
 <!ENTITY identity.description.weakCipher "War dobuyanoo moɲoo woo tuguyan dabaroo ga yalaafu nd'a ši sutura.">
-
+<!ENTITY identity.description.weakCipher2 "Boro taney ga hin ka dii war alhabarey wal'i ma nungoo aladaboo barmay.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; na moɲoo woo doo fooyaŋ kaŋ ši saajaw gagay.">
 <!ENTITY identity.description.passiveLoaded "War dobuyano ši sutura nda boro taney ga hin ka dii alhabarey kaŋ war n'i žemna nda nungoo.">
 <!ENTITY identity.description.passiveLoaded2 "Nungoo goo nda gundekuna kaŋ manti saajante (sanda biiyaŋ).">
@@ -724,27 +724,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Kanji hangantey">
 
-
+<!ENTITY syncedTabs.sidebar.label              "Kanji hangantey">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Huru Firefox ra war jinay taney ga ka dii war kanjey ne.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Kanji hangante… kul šii jina!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Mar ga boona ka dii war jinay taney kanjey ne?">
-
-
-
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Huru ka dii kanji maašeede foo war jinay taney ga.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Kanji feerante kul šii">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; ibaayey feeri">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Kanji hangandiyan tunandi ka dii kanjey maašeede jinay taney ga.">
 
 <!ENTITY syncedTabs.context.open.label                       "Feeri">
 <!ENTITY syncedTabs.context.open.accesskey                   "F">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Feeri kanji taaga ra">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "t">
-
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Doboo feeri zanfun taaga ra">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "z">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Doboo feeri zanfun taaga ra">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "z">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Moɲoo woo šilbay">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "l">
+<!ENTITY syncedTabs.context.copy.label                       "Berandi">
+<!ENTITY syncedTabs.context.copy.accesskey                   "B">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
