@@ -42,8 +42,8 @@
 
 
 
-
-
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Visi konti">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "V">
 
 
 
@@ -571,12 +571,14 @@
 <!ENTITY folderSizeColumn.label "Izmērs">
 <!-- Folder Pane Context Menu -->
 
+<!ENTITY folderContextGetMessages.label "Iegūt ziņojumus">
+<!ENTITY folderContextGetMessages.accesskey "g">
 
 
 
 
-
-
+<!ENTITY folderContextNew.label "Jauna apakšmape...">
+<!ENTITY folderContextNew.accesskey "n">
 <!ENTITY folderContextRename.label "Pārdēvēt">
 <!ENTITY folderContextRename.accesskey "r">
 <!ENTITY folderContextRemove.label "Dzēst">
@@ -597,10 +599,10 @@
 
 
 
-
-
-
-
+<!ENTITY folderContextSearchForMessages.label "Meklēt ziņojumus...">
+<!ENTITY folderContextSearchForMessages.accesskey "M">
+<!ENTITY folderContextProperties2.label "Īpašības">
+<!ENTITY folderContextProperties2.accesskey "p">
 
 
 <!ENTITY folderContextSettings2.label "Iestatījumi">
@@ -613,7 +615,7 @@
 <!-- Quick Search Menu Bar -->
 
 <!ENTITY searchSubjectMenu.label "Temats">
-
+<!ENTITY searchFromMenu.label "No">
 
 
 
@@ -643,7 +645,7 @@
 <!ENTITY attachmentColumn.label "Pielikumi">
 <!-- Thread Pane Tooltips -->
 
-
+<!ENTITY fromColumn2.tooltip "Kārtot pēc formas">
 
 
 
@@ -673,8 +675,8 @@
 
 
 
-
-
+<!ENTITY contextEditMsgAsNew.label "Rediģēt kā jaunu ziņojumu">
+<!ENTITY contextEditMsgAsNew.accesskey "e">
 
 <!ENTITY contextArchive.label "Arhivēt">
 <!ENTITY contextArchive.accesskey "h">
@@ -700,8 +702,8 @@
 
 
 
-
-
+<!ENTITY contextCopyMsgMenu.label "Kopēt uz">
+<!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignorēt pavedienu">
 
 <!ENTITY contextKillThreadMenu.accesskey "I">
@@ -759,6 +761,7 @@
    items are "This folder", "B", and "C".  This is the equivalent of the
    "File here" option for the move to/copy to widge.t
   -->
+<!ENTITY columnPicker.thisFolder.label "Šī mape">
 <!-- Media (video/audio) controls -->
 
 
@@ -798,8 +801,10 @@
      -->
 <!-- Message Header Context Menu -->
 
-
-
+<!ENTITY AddToAddressBook.label "Pievienot adrešu grāmatai...">
+<!ENTITY AddToAddressBook.accesskey "g">
+<!ENTITY AddDirectlyToAddressBook.label "Pievienot adrešu grāmatai">
+<!ENTITY AddDirectlyToAddressBook.accesskey "g">
 <!ENTITY EditContact1.label "Rediģēt kontaktu">
 <!ENTITY EditContact1.accesskey "e">
 
