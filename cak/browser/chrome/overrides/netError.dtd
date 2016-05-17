@@ -51,7 +51,7 @@
 <!ENTITY netReset.title "Ri okem xtikirisäx chik">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Xk'ïs ramaj richin nok chupam">
+<!ENTITY netTimeout.title "Xxik'o ruq'ijul ri okem">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Man nich'ob'otäj ta ri ochochib'äl">
@@ -84,7 +84,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xok pa re rub'eyal re' ruma chi ri ruxaq k'amaya'l ruchajin jun runa'ojil ruchajinik rupam, ri man nuya' ta q'ij.</p>">
 
 <!ENTITY corruptedContentError.title "Sachoj pan itzel rupam">
-<!ENTITY corruptedContentError.longDesc "<p>Man tikirel ta nik'ut pe ri ruxaq natojtob'ej natz'ët ruma xtz'etetäj pe jun sachoj richin yeruq'alajisaj pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Ri ruxaq wuj tajin natojtob'ej natz'ët man tikirel ta nik'ut pe ruma xilitäj jun sachoj toq yeq'alajisäx pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ruya'ik jun man okel ta…">

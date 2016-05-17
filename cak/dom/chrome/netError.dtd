@@ -38,7 +38,7 @@
 <!ENTITY netOffline.longDesc2 "<p>Ri okik&apos;amaya&apos;l tajin nisamäj pa rub&apos;eyal majun okem pa k&apos;amaya&apos;l, ruma ri&apos; toq man tikirel ta nok pa ri ch&apos;akulal nik&apos;utüx chi re.</p><ul><li>¿La okinäq ri kematz&apos;ib&apos; pa jun tzijïl k&apos;amab&apos;ey?</li><li>Tapitz&apos;a&apos; &quot;Titojtob&apos;ëx chik&quot; richin tiq&apos;ax pa rub&apos;eyal okem pa k&apos;amaya&apos;l chuqa&apos; tisamajib&apos;ëx chik ri ruxaq k&apos;amaya&apos;l.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Sachoj pa rucholajil rupam">
-<!ENTITY contentEncodingError.longDesc "<p>Ri ruxaq k'amaya'l k'utun man tikirel ta nisamajib'ëx ruma jun ruwäch chi ch'utinisanïk, ri man koch'el ta o man okel ta.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Ri ruxaq nawajo' natzu', man tikirel ta nik'ut pe, ruma nrokisaj jun ruwäch chi jitz'oj, ri man ütz ta chuqa' man nik'ul ta.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Itzel ruwäch chi yakb'äl">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li> </ul>">
@@ -77,7 +77,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Ri okik'amaya'l man xuya' ta q'ij chi xjaqatäj ri ruxaq k'amaya'l, ruma ri ruxaq k'amaya'l k'o runa'oj pa ruwi' chajinïk, ri man nuya' ta q'ij.</p>">
 
 <!ENTITY corruptedContentError.title "Sachoj ruma itzel rupam">
-<!ENTITY corruptedContentError.longDesc "<p>Man tikirel ta nik'ut pe ri ruxaq natojtob'ej natz'ët ruma xtz'etetäj pe jun sachoj richin yeruq'alajisaj pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Ri ruxaq wuj tajin natojtob'ej natz'ët man tikirel ta nik'ut pe ruma xilitäj jun sachoj toq yeq'alajisäx pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
 <!ENTITY remoteXUL.title "Näj XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul></p>">
