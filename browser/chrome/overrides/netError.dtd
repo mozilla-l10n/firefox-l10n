@@ -37,6 +37,7 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Prístup k súboru bol zamietnutý">
 
 <!ENTITY generic.title "Problém.">
 <!ENTITY generic.longDesc "
@@ -132,6 +133,7 @@
 </ul>
 ">
 
+<!ENTITY certerror.longpagetitle1 "Vaše pripojenie nie je zabezpečené">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -172,6 +174,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> používa bezpečnostnú technológiu, ktorá je zastaraná a je náchylná na útoky. Útočník sa môže jednoducho dostať k informáciám, o ktorých si myslíte, že sú v bezpečí.">
 <!ENTITY weakCryptoAdvanced.override "(Nezabezpečené) Vyskúšať načítať <span class='hostname'></span> použitím zastaraného zabezpečenia">
 
+<!ENTITY certerror.pagetitle1  "Nezabezpečené pripojenie">
+<!ENTITY certerror.copyToClipboard.label "Kopírovať text do schránky">
 
+<!ENTITY inadequateSecurityError.title "Vaše pripojenie nie je zabezpečené">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
