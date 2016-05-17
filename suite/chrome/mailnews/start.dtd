@@ -7,7 +7,7 @@
 <!ENTITY headline.label
 'Welkom bij <a id="vendorURL" href="">&brandShortName;</a> Mail &amp; nieuwsgroepen!'>
 <!ENTITY description.label
-"&brandShortName; Mail &amp; nieuwsgroepen is een krachtige opensource e-mail- en nieuwsclient
+"&brandShortName; Mail &amp; nieuwsgroepen is een krachtige open-source e-mail- en nieuwsclient
 die geavanceerde detectie van ongewenste berichten en andere handige functies ondersteunt.">
 <!ENTITY features.title "Functies">
 <!ENTITY feat_multiacc.label "Ondersteuning voor meerdere accounts">
