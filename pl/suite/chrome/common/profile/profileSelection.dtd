@@ -21,3 +21,15 @@
 <!ENTITY autoSelect.label "Domyślnie (bez pytania) używaj zaznaczonego profilu przy uruchamianiu">
 <!ENTITY autoSelect.accesskey "D">
 
+<!ENTITY start.label "Uruchom program &brandShortName;">
+<!ENTITY exit.label "Zakończ">
+
+<!ENTITY newButton.label "Utwórz nowy profil…">
+<!ENTITY newButton.accesskey "n">
+<!ENTITY renameButton.label "Zmień nazwę profilu…">
+<!ENTITY renameButton.accesskey "Z">
+<!ENTITY deleteButton.label "Usuń profil…">
+<!ENTITY deleteButton.accesskey "U">
+
+<!ENTITY offlineState.label "Pracuj w trybie offline">
+<!ENTITY offlineState.accesskey "o">
