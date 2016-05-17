@@ -168,6 +168,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Agregar las pestañas abiertas…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
+<!ENTITY otherBookmarksCmd.label "Otros Marcadores">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
 <!ENTITY backCmd.label                "Anterior">
@@ -222,6 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
+<!ENTITY bookmarksMenuButton.other.label "Otros Marcadores">
 <!ENTITY viewBookmarksSidebar2.label        "Ver el panel lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver la barra de marcadores">
 
@@ -345,6 +347,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Quieres ver las pestañas de tus otros dispositivos aquí?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sincronizar preferencias">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicia sesión para ver una lista de pestañas de tus otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia sesión en Sync">
@@ -720,6 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Pestañas sincronizadas">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Inicia sesión en Firefox desde otros dispositivos para ver tus pestañas aquí.">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "¿Quieres ver las pestañas de tus otros dispositivos aquí?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Inicia sesión para ver una lista de pestañas de tus otros dispositivos.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "No hay pestañas abiertas">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Abriendo preferencias de &syncBrand.shortName.label;">
@@ -727,8 +731,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activa la sincronización de pestañas para ver una lista de pestañas desde tus otros dispositivos.">
 
+<!ENTITY syncedTabs.context.open.label                       "Abrir">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Abrir en una nueva pestaña">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Abrir en una nueva ventana">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Abrir en una nueva ventana privada">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Agregar esta pestaña a marcadores…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "A">
+<!ENTITY syncedTabs.context.copy.label                       "Copiar">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
