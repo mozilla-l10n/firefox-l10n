@@ -114,11 +114,6 @@
 
 <!ENTITY inspector.selectButton.tooltip     "Sélectionner un élément avec la souris">
 
-<!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
-     the placeholder in inspector search box -->
-<!ENTITY inspectorSearchHTML.label2         "Rechercher sélecteur CSS">
-<!ENTITY inspectorSearchHTML.key            "F">
-
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will
      be shown as the placeholder in the future, once the inspector search box
      supports the full text HTML search in Bug 835896. -->

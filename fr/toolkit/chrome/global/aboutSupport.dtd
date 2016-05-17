@@ -59,6 +59,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent utilisateur">
 <!ENTITY aboutSupport.appBasicsOS "Système d’exploitation">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilisation mémoire">
+<!ENTITY aboutSupport.appBasicsPerformance "Performances">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers enregistrés">
@@ -123,4 +124,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU 1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU 2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Journal des décisions">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Fonctionnalités désactivées par la protection contre les plantages">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Solutions de contournement">
