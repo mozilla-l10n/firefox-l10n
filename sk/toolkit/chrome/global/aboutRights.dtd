@@ -63,6 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Vypnutie služby Safe Browsing sa neodporúča, pretože môže viesť k tomu, že sa dostanete na nebezpečné stránky. Ak si túto službu prajete vypnúť, postupujte nasledovne:">
 <!ENTITY rights.safebrowsing-term1 "Otvorte okno nastavení aplikácie">
 <!ENTITY rights.safebrowsing-term2 "Zvoľte panel Bezpečnosť">
+<!ENTITY rights2.safebrowsing-term3 "Zrušte zaškrtnutie možnosti &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Služba Safe Browsing je teraz vypnutá">
 
 <!-- location aware browsing points for branded builds -->
