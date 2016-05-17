@@ -5,25 +5,24 @@
 <!ENTITY pref.formatting.title "Format wysyłania">
 <!ENTITY sendMaildesc.label "Jeżeli co najmniej jeden z adresatów wiadomości wysyłanej w formacie HTML nie znajduje się na liście osób mogących otrzymywać takie wiadomości, to:">
 <!ENTITY askMe.label "Zapytaj, jakiego formatu użyć przy wysłaniu wiadomości">
-<!ENTITY askMe.accesskey "a">
-<!ENTITY convertPlain.label "Przekształć wiadomość na format tekstowy (część formatowania może zostać utracona)">
-<!ENTITY convertPlain.accesskey "t">
-<!ENTITY sendHTML.label "Użyj formatu HTML (niektórzy odbiorcy mogą nie odczytać wiadomości)">
-<!ENTITY sendHTML.accesskey "H">
-<!ENTITY sendBoth.label "Prześlij wiadomość w obydwu formatach: HTML oraz tekstowym (zwiększa rozmiar wysyłanej wiadomości)">
-<!ENTITY sendBoth.accesskey "e">
-<!ENTITY override.label "Poniższe ustawienia mogą zostać indywidualnie zmienione przy pomocy menu Opcje dla każdej wiadomości podczas jej komponowania.">
+<!ENTITY askMe.accesskey "Z">
+<!ENTITY convertPlain2.label "Przekształcaj wiadomości na format tekstowy (formatowanie może zostać utracone)">
+<!ENTITY convertPlain2.accesskey "r">
+<!ENTITY sendHTML2.label "Wysyłaj wiadomości wyłącznie w formacie HTML (niektórzy odbiorcy mogą nie odczytać wiadomości)">
+<!ENTITY sendHTML2.accesskey "L">
+<!ENTITY sendBoth2.label "Wysyłaj wiadomości w obydwu formatach: HTML oraz tekstowym (zwiększa rozmiar wysyłanej wiadomości)">
+<!ENTITY sendBoth2.accesskey "e">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title "Automatyczny wybór formatu HTML lub tekstowego - ustawienia domen">
 <!ENTITY domaindesc.label "W przypadku wysyłania poczty do adresatów w jednej z poniższych domen, Kurier Poczty automatycznie wybierze właściwy format wiadomości (tekstowy lub HTML). ">
 <!ENTITY HTMLdomaintitle.label "Domeny - format HTML">
-<!ENTITY HTMLdomaintitle.accesskey "h">
+<!ENTITY HTMLdomaintitle.accesskey "H">
 <!ENTITY PlainTexttitle.label "Domeny - format tekstowy">
 <!ENTITY PlainTexttitle.accesskey "t">
 <!ENTITY AddButton.label "Dodaj…">
 <!ENTITY AddHtmlDomain.accesskey "a">
-<!ENTITY AddPlainText.accesskey "d">
+<!ENTITY AddPlainText.accesskey "D">
 <!ENTITY DeleteButton.label "Usuń">
 <!ENTITY DeleteHtmlDomain.accesskey "U">
 <!ENTITY DeletePlainText.accesskey "s">
@@ -37,3 +36,7 @@
 <!ENTITY domainnameError.title "Błąd nazwy domeny">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY invalidEntryError.label "Nazwa domeny @string@ jest niepoprawna i zostanie zignorowana. Poprawne nazwy domen zawierają co najmniej jeden znak '.' oraz znaki po jego obydwu stronach.">
+
+<!-- Global auto-detect switch -->
+<!ENTITY autoDowngrade.label "Automatycznie wysyłaj wiadomości w formacie tekstowym, jeżeli nie posiadają one ważnego formatowanie (nadpisuje pozostałe opcje)">
+<!ENTITY autoDowngrade.accesskey "m">
