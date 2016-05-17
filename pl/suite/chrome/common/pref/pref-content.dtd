@@ -11,13 +11,16 @@
 <!ENTITY useFavIcons.accesskey "W">
 <!ENTITY enableAutomaticImageResizing.label "Dostosuj rozmiar dużych obrazów do okna przeglądarki">
 <!ENTITY enableAutomaticImageResizing.accesskey "d">
+<!ENTITY scrolling.label "Przewijanie">
+<!ENTITY useAutoScroll.label "Używaj automatycznego przewijania">
+<!ENTITY useAutoScroll.accesskey "U">
 <!ENTITY useSmoothScroll.label "Używaj płynnego przewijania">
-<!ENTITY useSmoothScroll.accesskey "U">
+<!ENTITY useSmoothScroll.accesskey "y">
 <!ENTITY allowHWAccel.label "Korzystaj z przyspieszania sprzętowego, kiedy jest dostępne">
 <!ENTITY allowHWAccel.accesskey "a">
 <!ENTITY textZoomOnly.label "Powiększaj tylko tekst zamiast całych stron">
-<!ENTITY textZoomOnly.accesskey "P">
+<!ENTITY textZoomOnly.accesskey "t">
 <!ENTITY blockAutoRefresh.label "Ostrzegaj, jeśli witryny próbują przekierować lub odświeżyć stronę">
 <!ENTITY blockAutoRefresh.accesskey "O">
 <!ENTITY siteSpecific.label "Zapamiętaj rozmiary ustawione dla każdej strony">
-<!ENTITY siteSpecific.accesskey "m">
+<!ENTITY siteSpecific.accesskey "Z">
