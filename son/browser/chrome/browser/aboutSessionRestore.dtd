@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Goywaati willi taka jinaa ga">
+<!ENTITY restorepage.tabtitle       "Goywaatoo yeeti">
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.errorTitle     "Aywaa, woo ga boro boŋoo haw.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; ga dii šenday war zanfuney nda kanjey williroo fondaa ra. Interneti moo kaŋ kokor ka feera ma doona ka woo tee.">
-<!ENTITY restorepage.tryThis        "War ga hin ka wiri ka:">
+<!ENTITY restorepage.errorTitle     "Aywaa, woo ga boŋ haw.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; ga dii šenday war zanfuney nda kanjey williroo fondaa ra. Interneti moo kaŋ kokor k'a feeri ma doona ka woo tee.">
+<!ENTITY restorepage.tryThis        "War ga hin ka ceeci:">
 <!ENTITY restorepage.restoreSome    "Kanji foo wala hinna kazaa kaŋ war g'a šikka nda šendaa aššiloo tuusu">
 <!ENTITY restorepage.startNew       "Goo ma ceeciyan taaga banzaŋ goowaati šintin">
 
@@ -38,6 +38,9 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "War tontoney nda hanseyaney ga hin ka hun nda war ceecikaw kayandiyaney n' ka yeeri ngi tilasu alhaaley ga. Nda woo mana misoo hanse, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "caw ka tonton woo kaŋ war ga hin k'a tee ga.">
@@ -47,7 +50,7 @@ their language.
 <!ENTITY tabgroupsmigration.tabtitle            "War kanji margari taney ganandi">
 
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Bay kanji margarey barmayyan tontoney ga.">
-
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; na margarey kul doo-šilbay hala haya kul ma ši dere war se.">
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Kanji margari doo-šilbantey cebe">
 <!ENTITY tabgroupsmigration.restoredescription  "War ga hin ka soobay da ka bandafaari margari jerey wal' ikul yeeti zanfunoo ra sohõ:">
 

@@ -353,7 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ibaayey hangandi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Huru ka dii kanji maašeede foo war jinay taney ga.">
 <!ENTITY appMenuRemoteTabs.signin.label "Huru Sync ra">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Kanji hangantey ceraw-zuwoo guna">
 
 <!ENTITY customizeMenu.addToToolbar.label "Goyjinay zuu tonton">
 <!ENTITY customizeMenu.addToToolbar.accesskey "o">
@@ -460,8 +460,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "k">
 <!ENTITY openFrameCmd.label           "Kunga feeri zanfun taaga ra">
 <!ENTITY openFrameCmd.accesskey       "z">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Dobu feeri sun kanji taaga ra">
+<!ENTITY openLinkCmdInContainerTab.accesskey "s">
 <!ENTITY showOnlyThisFrameCmd.label     "Kungaa woo de cebe">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -709,7 +709,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Bay ka tonton">
 
-
+<!ENTITY identity.removeCertException.label "Hasaraw kaa">
+<!ENTITY identity.removeCertException.accesskey "k">
 
 <!ENTITY identity.moreInfoLinkText2 "Alhabar tontoni">
 
@@ -724,17 +725,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Kanji hangantey">
 
 
-
-
+<!ENTITY syncedTabs.sidebar.noclients.title    "Kanji hangante… kul šii jina!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Mar ga boona ka dii war jinay taney kanjey ne?">
 
 
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Feeri">
+<!ENTITY syncedTabs.context.open.accesskey                   "F">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Feeri kanji taaga ra">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "t">
 
 
 
