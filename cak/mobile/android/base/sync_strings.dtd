@@ -55,7 +55,7 @@
 <!ENTITY fxaccount_status_manage_account "Tinuk\u0027samajïx ri retal taqoya\u0027l">
 <!ENTITY fxaccount_status_auth_server "Ruk\u0027u\u0027x samaj ri retal taqoya\u0027l">
 <!ENTITY fxaccount_status_sync_now "Tixim wakami">
-<!ENTITY fxaccount_status_syncing2 "Tajin nixim…">
+<!ENTITY fxaccount_status_syncing2 "Tajin niximon…">
 <!ENTITY fxaccount_status_device_name "Rub\u0027i\u0027 ri okisaxel">
 <!ENTITY fxaccount_status_sync_server "Ruk\u0027u\u0027x samaj richin Ximïl">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
@@ -118,9 +118,9 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; man okinäq ta">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tapitz\u0027a\u0027 richin yatok achi\u0027el &formatS;">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tapitz\u0027a\u0027 richin natikirisaj molojri\u0027ïl achi\u0027el &formatS;">
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "¿Tik\u0027isib\u0027ëx ri k\u0027exoj ruwäch&syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text "Tapitz\u0027a\u0027 qa richin nok achi\u0027el &formatS;">
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Tapitz\u0027a\u0027 richin natikirisaj molojri\u0027ïl achi\u0027el &formatS;">

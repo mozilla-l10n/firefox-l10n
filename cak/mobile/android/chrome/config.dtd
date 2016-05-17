@@ -8,10 +8,10 @@
 <!ENTITY newPref.namePlaceholder       "B'i'aj">
 
 <!ENTITY newPref.valueBoolean          "B'olan">
-<!ENTITY newPref.valueString           "Cholaj">
+<!ENTITY newPref.valueString           "Cholajil">
 <!ENTITY newPref.valueInteger          "Chijun">
 
-<!ENTITY newPref.stringPlaceholder     "Tatz'ib'aj jun cholaj">
+<!ENTITY newPref.stringPlaceholder     "Tatz'ib'aj jun cholajil">
 <!ENTITY newPref.numberPlaceholder     "Tatz'ib'aj jun ajilab'äl">
 
 <!ENTITY newPref.toggleButton          "Jaloj">
