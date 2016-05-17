@@ -32,11 +32,6 @@
 <!ENTITY acceptforNDays.accesskey "a">
 <!ENTITY days.label "dni">
 
-<!ENTITY warnAboutCookies.label "Pytaj za każdym razem">
-<!ENTITY warnAboutCookies.accesskey "P">
-<!ENTITY forCurrentSession.label "za wyjątkiem ciasteczek sesji">
-<!ENTITY forCurrentSession.accesskey "e">
-
 <!ENTITY manageCookies.label "Menedżer ciasteczek i witryn">
 <!ENTITY manageCookiesDescription.label "Pozwala na wyświetlanie i zarządzanie zachowanymi ciasteczkami, jak i ustawieniami akceptowania oraz odrzucania ciasteczek dla konkretnych witryn. Ustawienia dla konkretnych witryn nadpiszą powyższe ustawienia.">
 
