@@ -5,6 +5,7 @@
 <!ENTITY safeb.palm.accept.label "Me tire daqui!">
 <!ENTITY safeb.palm.decline.label "Ignorar este aviso">
 <!ENTITY safeb.palm.reportPage.label "Por que esta página foi bloqueada?">
+<!ENTITY safeb.palm.whyForbidden.label "Porque essa página foi bloqueada?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Página avaliada como foco de ataques!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
