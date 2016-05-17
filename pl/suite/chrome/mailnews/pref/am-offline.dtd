@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Usuwaj wszystko, pomijając ostatnie">
 <!ENTITY retentionKeepRecent.accesskey "w">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Zawsze usuwaj przeczytane wiadomości (nadpisuje ustawienia wieku)">
 <!ENTITY retentionApplyToFlagged.label "Zawsze przechowuj oznaczone wiadomości">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Usuwaj treść wiadomości starszych niż">
