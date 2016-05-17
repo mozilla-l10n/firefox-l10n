@@ -38,7 +38,7 @@
 <!ENTITY netOffline.longDesc2 "<p>Browseren er sat i Offline-tilstand og kan ikke forbinde til nettet.</p><ul><li>Er computeren forbundet til et aktivt netværk?</li><li>Vælg &quot;Prøv igen&quot; for at skifte til online-tilstand og genindlæse siden.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Indholdskodningsfejl">
-<!ENTITY contentEncodingError.longDesc "<p>Siden kunne ikke vises, da den bruger en ugyldig eller ikke-understøttet form for komprimering.</p><ul><li>Kontakt webstedets ejer og informèr dem om dette problem.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Siden kunne ikke vises, da den bruger en ugyldig eller ikke-understøttet form for komprimering.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Usikker filtype">
 <!ENTITY unsafeContentType.longDesc "
@@ -69,7 +69,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Webstedet svarede på netværksforespørgslen på en uventet måde, og browseren kan ikke fortsætte.</p>">
 
 <!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
-<!ENTITY nssFailure2.longDesc2 "<p>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</p><ul><li>Kontakt ejeren af webstedet omkring dette problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "<ul>

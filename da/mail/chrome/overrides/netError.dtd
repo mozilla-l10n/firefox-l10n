@@ -46,7 +46,7 @@
 
 <!ENTITY generic.title "Hovsa.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; kan ikke indlæse denne side, af en eller anden grund.</p>
+<p>&brandShortName; kan ikke indlæse denne side af en eller anden grund.</p>
 ">
 
 <!ENTITY malformedURI.title "Adressen er ikke gyldig">
@@ -106,14 +106,14 @@
 <ul>
   <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
   <li>Kontakt din netværks-administrator for at sikre dig, at proxyserveren
-  fungerer.</li>
+    fungerer.</li>
 </ul>
 ">
 
 <!ENTITY proxyResolveFailure.title "Kunne ikke finde proxyserveren">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Undersøg proxy-indstillingerne og vær sikker på at de er korrekte.</li>
+  <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
   <li>Undersøg om din computer har en fungerende netværksforbindelse.</li>
   <li>Hvis din computer eller netværk er beskyttet af en firewall eller proxy, sørg da
   for at &brandShortName; har tilladelse til at tilgå nettet.</li>
@@ -124,7 +124,7 @@
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse
-  af cookies er blevet nægtet.</li>
+    af cookies er blevet nægtet.</li>
 </ul>
 ">
 
@@ -132,7 +132,7 @@
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Undersøg om dit system har Personal Security Manager
-  installeret.</li>
+    installeret.</li>
   <li>Dette kan skyldes en ikke-standardopsætning af serveren.</li>
 </ul>
 ">

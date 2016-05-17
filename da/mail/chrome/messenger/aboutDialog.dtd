@@ -28,7 +28,7 @@
 <!ENTITY community.exp.creditsLink  "globalt fællesskab">
 <!ENTITY community.exp.end          ", der arbejder sammen om at holde internettet åbent, offentligt og tilgængeligt for alle.">
 
-<!ENTITY community.start2           "&brandShortName;  er udviklet af ">
+<!ENTITY community.start2           "&brandShortName; er udviklet af ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", et ">
