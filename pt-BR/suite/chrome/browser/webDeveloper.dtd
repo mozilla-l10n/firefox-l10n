@@ -7,8 +7,13 @@
 <!ENTITY allowRemoteDebugging.label     "Permitir depuração remota">
 <!ENTITY allowRemoteDebugging.accesskey "a">
 
+<!ENTITY devToolsCmd.keycode             "VK_F12">
+<!ENTITY devToolsCmd.keytext             "F12">
 
+<!ENTITY devtoolsConnect.accesskey       "e">
 
+<!ENTITY browserConsoleCmd.commandkey    "Z">
+<!ENTITY browserConsoleCmd.accesskey     "B">
 
 
 
