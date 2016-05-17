@@ -20,12 +20,12 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " seus:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "downloads">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "favoritos">
-<!ENTITY aboutPrivateBrowsing.note.before                "A Navegação Privativa ">
+<!ENTITY aboutPrivateBrowsing.note.before                "A navegação privativa ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "não o torna anônimo">
 <!ENTITY aboutPrivateBrowsing.note.after                 " na internet. Seu empregador ou provedor de acesso à internet ainda podem saber quais páginas você visita.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Saiba mais sobre">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Navegação privativa">
 
 <!ENTITY trackingProtection.title                        "Proteção contra rastreamento">
-<!ENTITY trackingProtection.description2                 "Alguns sites usam rastreadores para monitorar sua atividade na Internet. Com a proteção contra rastreamento do Firefox os rastreadores que coletam informações sobre o seu comportamento de navegação serão bloqueados.">
+<!ENTITY trackingProtection.description2                 "Alguns sites usam rastreadores que pode monitorar sua atividade na Internet. Com a proteção contra rastreamento do Firefox os rastreadores que podem coletar informações sobre o seu comportamento de navegação serão bloqueados.">
 <!ENTITY trackingProtection.startTour1                   "Veja como funciona">
