@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "e">
 <!ENTITY compactVersion.label "Zgoščen pogled">
 <!ENTITY compactVersion.accesskey "Z">
+<!ENTITY folderPaneBar.label "Orodna vrstica podokna map">
+<!ENTITY folderModeSelector.label "Pogledi map">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Razvrsti po">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Uredi kot novo sporočilo">
 <!ENTITY editAsNewMsgCmd.accesskey "U">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Uredi osnutek">
+<!ENTITY editDraftMsgCmd.accesskey "U">
 <!ENTITY createFilter.label "Ustvari filter iz sporočila …">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Premakni v">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "O">
 <!ENTITY contextEditMsgAsNew.label "Uredi kot novo sporočilo">
 <!ENTITY contextEditMsgAsNew.accesskey "U">
+<!ENTITY contextEditDraftMsg.label "Uredi osnutek">
 <!ENTITY contextArchive.label "Arhiviraj">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Odgovori samo pošiljatelju">
@@ -743,6 +748,7 @@
 <!ENTITY contextCopyMsgMenu.label "Kopiraj v">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Prezri nit">
+<!ENTITY contextKillSubthreadMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.accesskey "i">
 <!ENTITY contextKillSubthreadMenu.label "Prezri podnit">
 <!ENTITY contextWatchThreadMenu.label "Spremljaj nit">
@@ -750,6 +756,7 @@
    In the en-US locale we ran out of access keys, so there is an empty access key for
    Watch Thread. Localizers can pick a suitable key
   -->
+<!ENTITY contextWatchThreadMenu.accesskey "R">
 <!ENTITY contextSaveAs.label "Shrani kot …">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Natisni …">
