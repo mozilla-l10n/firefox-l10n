@@ -60,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "Jinay foo margandi">
 <!ENTITY addDevice.showMeHow.label          "Takaa cebe yane.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "Jinaa š'ay kone sohõda">
 <!ENTITY pairDevice.setup.description.label  "Ka tunandi, wa &quot;Jinay foo margandi&quot; suuba war jinay faa ga.">
 <!ENTITY addDevice.setup.enterCode.label    "Ašariyaa woo dam waati din:">
 <!ENTITY pairDevice.dialog.description.label "Ka war jinay taagaa tunandi, &quot;Hangandiyan kayandi&quot; suuba jinaa ga.">
