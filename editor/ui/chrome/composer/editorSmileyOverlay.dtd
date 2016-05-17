@@ -49,7 +49,7 @@
 <!ENTITY smiley15Cmd.label "Græder">
 <!ENTITY smiley15Cmd.accesskey "æ">
 <!ENTITY smiley15Cmd.tooltip "Indsæt græder">
-<!ENTITY smiley16Cmd.label "Lukket med syv sejl">
+<!ENTITY smiley16Cmd.label "Lukket med syv segl">
 <!ENTITY smiley16Cmd.accesskey "m">
-<!ENTITY smiley16Cmd.tooltip "Indsæt lukket med syv sejl">
+<!ENTITY smiley16Cmd.tooltip "Indsæt lukket med syv segl">
 <!ENTITY SmileButton.tooltip "Indsæt smiley">
