@@ -69,7 +69,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Tanik'oj ri runuk'ulem Proxi richin najikib'a' chi ütz.</li> <li>Tajikib'a' chi ri awokisaxel k'o rokem pa rusamajixik Wi-Fi o kichin taq tzij. <button id='wifi'>Titzij Wi-Fi</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "Man tajin ta nuq'axaj chik ütz ri ruxaq k'amaya'l">
+<!ENTITY redirectLoop.title "Man ütz ta tajin niq'axan ri ruxaq k'amaya'l">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Re jun k'ayewal re' nik'ulwachitäj ruma nachüp o e'aq'aton kik'ulik ri taq kaxlanwey.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Man oyob'en ta re rutzijol tajin nuya' pe ri ruk'u'x samaj">
@@ -89,7 +89,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xjaqatäj ruma ri ruxaq k'amaya'l k'o ruchajinel rupam na'oj, ri man nuya' ta q'ij.</p>">
 
 <!ENTITY corruptedContentError.title "Sachoj pan itzel rupam">
-<!ENTITY corruptedContentError.longDesc "<p>Man tikirel ta nik'ut pe ri ruxaq natojtob'ej natz'ët ruma xtz'etetäj pe jun sachoj richin yeruq'alajisaj pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Ri ruxaq wuj tajin natojtob'ej natz'ët man tikirel ta nik'ut pe ruma xilitäj jun sachoj toq yeq'alajisäx pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Tikirel chuqa' natz'aqtisaj jun man relik ta…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Kinawelesaj el wawe'!">
