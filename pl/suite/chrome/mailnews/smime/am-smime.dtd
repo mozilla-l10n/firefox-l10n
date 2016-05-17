@@ -22,11 +22,11 @@
 <!ENTITY encryption.certificate_clear.accesskey "y">
 <!ENTITY signingGroupTitle.label "Podpis cyfrowy">
 <!ENTITY signMessage.label "Podpisuj cyfrowo wiadomości (domyślnie)">
-<!ENTITY signMessage.accesskey "D">
+<!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Certyfikat, który będzie używany do cyfrowego podpisywania wysyłanych wiadomości:">
 
 <!ENTITY certificates.label "Certyfikaty">
-<!ENTITY manageCerts.label "Zarządzaj certyfikatami…">
-<!ENTITY manageCerts.accesskey "Z">
+<!ENTITY manageCerts2.label "Zarządzaj certyfikatami…">
+<!ENTITY manageCerts2.accesskey "a">
 <!ENTITY manageDevices.label "Zarządzaj urządzeniami zabezpieczającymi…">
 <!ENTITY manageDevices.accesskey "u">
