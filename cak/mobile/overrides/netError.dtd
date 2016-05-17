@@ -58,7 +58,7 @@
 <!ENTITY netTimeout.title "Xxik'o ruq'ijul ri okem">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "Majun niq'ax ta ri ochochib'äl">
+<!ENTITY unknownProtocolFound.title "Man nich'ob'otäj ta ri ochochib'äl">
 <!ENTITY unknownProtocolFound.longDesc " <ul>    <li>Rik'in jub'a' rajowaxik nayäk qa jun chik kema' richin nijaqatäj re ochochib'äl re'.</li>    </ul>">
 
 <!ENTITY proxyConnectFailure.title "Tajin yeruxutuj r itaq okem ri proxi ruk'u'x samaj ">
