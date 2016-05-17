@@ -15,7 +15,6 @@
 <!ENTITY allowWindowMoveResize.label "Zmienianie rozmiaru lub położenia istniejących okien">
 <!ENTITY allowWindowFlip.label "Zmienianie aktywnego okna poprzez przenoszenie nieaktywnego na górę">
 <!ENTITY allowWindowStatusChange.label "Zmienianie domyślnego tekstu wyświetlanego w pasku stanu">
-<!ENTITY allowWindowImageSrcChange.label "Zamienianie obrazów (po wskazaniu na nie myszą)">
 <!ENTITY allowContextmenuDisable.label "Wyłączanie lub zmienianie menu kontekstowego">
 <!ENTITY allowHideStatusBar.label "Ukrywanie paska stanu">
 
