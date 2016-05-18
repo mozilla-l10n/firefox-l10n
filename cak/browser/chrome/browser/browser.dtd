@@ -514,7 +514,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "o">
 <!ENTITY saveImageCmd.label           "Ruyakik wachib'äl achi'el…">
 <!ENTITY saveImageCmd.accesskey       "y">
-<!ENTITY saveVideoCmd.label           "Tiyak silowachib'äl achi'el… ">
+<!ENTITY saveVideoCmd.label           "Tiyak silowachib'äl achi'el…">
 <!ENTITY saveVideoCmd.accesskey       "s">
 <!ENTITY saveAudioCmd.label           "Ruyakik q'ojom achi'el…">
 <!ENTITY saveAudioCmd.accesskey       "R">
