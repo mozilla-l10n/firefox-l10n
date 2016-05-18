@@ -19,6 +19,9 @@
 <!ENTITY fileNotFound.title "Archivo no encontrado">
 <!ENTITY fileNotFound.longDesc "<ul><li>¿Puede el ítem haber sido renombrado, removido o reubicado?</li><li>¿Hay un error de ortografía, mayúsculas o algún error tipográfico en la dirección?</li><li>¿Tiene suficientes permisos de acceso al ítem solicitado?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Acceso denegado al archivo">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Puede haberse eliminado, movido o los permisos del archivo pueden evitar el acceso.</li></ul>">
+
 <!ENTITY generic.title "No se puede completar el pedido">
 <!ENTITY generic.longDesc "<p>No hay información adicional sobre este problema o error disponible actualmente.</p>">
 
@@ -94,3 +97,7 @@
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte a los dueños de sitio web para informarles de este problema.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "La conexión no es segura">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnología de seguridad que es obsoleta y vulnerable a los ataques. Un atacante podría fácilmente revelar información que se piensa segura. El administrador del sitio web necesitará corregir el servidor antes de poder visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
