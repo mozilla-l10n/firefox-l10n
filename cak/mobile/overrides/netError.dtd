@@ -49,7 +49,7 @@
 <!ENTITY contentEncodingError.title "Sachoj pa rucholajil rupam">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "Ruwäch chi itzel yakb'äl">
+<!ENTITY unsafeContentType.title "Itzel ruwäch chi yakb'äl">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l'.</li> </ul>">
 
 <!ENTITY netReset.title "Tikirisan chik ri okem">
