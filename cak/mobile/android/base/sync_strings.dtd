@@ -46,7 +46,7 @@
 
 <!ENTITY fxaccount_back_to_browsing "Tok chik pa k\u0027amaya\u0027l">
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync "Matyox chawe yatok pa &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Ütz apetik pa &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "Tatikirisaj molojri\u0027ïl pa kiximojri\u0027ïl taq ruwi\u0027, yakäl etal, ewan taq tzij chuqa\u0027 juley chik.">
 <!ENTITY fxaccount_getting_started_get_started "Nab\u0027ey taq xak">
 <!ENTITY fxaccount_getting_started_old_firefox "¿La nawokisaj jun ojer ruwäch chi &syncBrand.shortName.label;?">

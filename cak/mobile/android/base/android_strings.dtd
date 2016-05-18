@@ -644,7 +644,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "Yak\u0027äl etal chuqa\u0027 k\u0027ulwachinel">
 <!-- Updater notifications --> 
 
-<!ENTITY updater_start_title2 "E k\u0027o k\u0027exoj ruwäch ri &brandShortName;">
+<!ENTITY updater_start_title2 "E k\u0027o k\u0027exoj ruwäch &brandShortName;">
 <!ENTITY updater_start_select2 "Tachapa\u0027 qa richin naqasaj">
 
 <!ENTITY updater_downloading_title2 "Tajin niqasäx &brandShortName;">
@@ -652,7 +652,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Tachapa\u0027 richin rusamajixik toq xqasäx yan qa">
 <!ENTITY updater_downloading_retry2 "Tachapa\u0027 richin nitojtob\u0027ëx chik">
 
-<!ENTITY updater_apply_title2 "Wachel k\u0027exoj ruwäch richin &brandShortName;">
+<!ENTITY updater_apply_title2 "E k\u0027o k\u0027exoj ruwäch &brandShortName;">
 <!ENTITY updater_apply_select2 "Tachapa\u0027 richin nik\u0027ëx ruwäch">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
