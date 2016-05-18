@@ -168,8 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Subscriu-me a la pàgina…">
 <!ENTITY addCurPagesCmd.label "Afegeix-hi totes les pestanyes…">
 <!ENTITY showAllBookmarks2.label "Mostra totes les adreces d'interès">
-
-
+<!ENTITY recentBookmarks.label "Afegides més recentment">
+<!ENTITY otherBookmarksCmd.label "Altres adreces d'interès">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostra més adreces d'interès">
 
 <!ENTITY backCmd.label                "Enrere">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Adreces d'interès">
-
+<!ENTITY bookmarksMenuButton.other.label "Altres adreces d'interès">
 <!ENTITY viewBookmarksSidebar2.label        "Mostra la barra lateral de les adreces d'interès">
 <!ENTITY viewBookmarksToolbar.label         "Mostra la barra de les adreces d'interès">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Retalla">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "Copia">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Enganxa">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "x"> 
@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Encara no hi ha cap pestanya sincronitzada.">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Voleu veure aquí les pestanyes d'altres dispositius?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferències del Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicieu la sessió per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia la sessió al Sync">
@@ -694,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "La connexió a aquest lloc no és privada. La informació que envieu podria ser visualitzada per altres persones (com contrasenyes, missatges, targetes de crèdit, etc.).">
 <!ENTITY identity.description.insecureLoginForms "La informació d'inici de sessió que introduïu en aquesta pàgina no és segura i podria interceptar-se.">
 <!ENTITY identity.description.weakCipher "La connexió a aquest lloc web utilitza un xifratge feble i no és privada.">
-
+<!ENTITY identity.description.weakCipher2 "Altres persones podrien visualitzar la informació o modificar el comportament del lloc web.">
 <!ENTITY identity.description.activeBlocked "El &brandShortName; ha blocat parts d'aquesta pàgina que no són segures.">
 <!ENTITY identity.description.passiveLoaded "La connexió no és privada i la informació que compartiu amb el lloc podria ser visualitzada per altres persones.">
 <!ENTITY identity.description.passiveLoaded2 "Aquest lloc web inclou contingut que no és segur (com les imatges).">
@@ -724,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Pestanyes sincronitzades">
 
 <!ENTITY syncedTabs.sidebar.label              "Pestanyes sincronitzades">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Inicieu la sessió al Firefox en altres dispositius per tal de veure'n aquí les pestanyes obertes.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Encara no hi ha cap pestanya sincronitzada.">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Voleu veure aquí les pestanyes d'altres dispositius?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Inicieu la sessió per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "No hi ha cap pestanya oberta">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Obre les preferències del &syncBrand.shortName.label;">
@@ -734,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activeu la sincronització de pestanyes per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Obre">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Obre en una pestanya nova">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "t">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Obre en una finestra nova">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Obre en una finestra privada nova">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Afegeix aquesta pestanya a les adreces d'interès…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "f">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Copia">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
