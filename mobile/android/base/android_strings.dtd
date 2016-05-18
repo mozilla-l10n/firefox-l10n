@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Benvenuto">
-<!ENTITY onboard_start_message3 "Naviga con &brandShortName;">
-<!ENTITY onboard_start_subtext3 "Un’esperienza di navigazione che si adatta alle tue esigenze.">
 <!ENTITY firstrun_urlbar_message "Benvenuto in &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Trova tutto ciò che ti serve più velocemente con suggerimenti e scorciatoie di ricerca.">
 <!ENTITY firstrun_bookmarks_title "Cronologia">
