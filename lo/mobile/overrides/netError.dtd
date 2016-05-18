@@ -19,12 +19,13 @@
 <!ENTITY dnsNotFound.title "ບໍ່ພົບເຊີເວີ">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>ກວດເບິງການພິມທີ່ຢູ່ຜິດເຊັ່ນວ່າ <strong>ww</strong>.example.com ແທນທີ່ຈະ <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ຄົ້ນຫາ</button> </div> <li>ຖ້າຫາກວ່າທ່ານຍັງບໍ່ສາມາດໂຫລດຫນ້ານີ້ເວັບໄດ້, ໃຫ້ລອງກວດເບິງການເຊື່ອມຕໍກັບ Wi-FI ຫລື ປະລິມານການນຳໃຊ້ຂໍ້ມູນໃນອຸປະກອນຂອງທ່ານ <button id='wifi'>ເປີດນຳໃຊ້ Wi-FI</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "ບໍ່ພົບໄຟລ໌">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ກວດເບິງຊື່ໄຟລ໌ສຳລັບຕົວພີມໃຫຍ່ ຫລື ການພີມຜິດອື່ນໆ.</li> <li>ກວດເບິງວ່າໄຟລ໌ໄດ້ຖືກຍ້າຍ, ປ່ຽນຊື່ ຫລື ລືບຖີ້ມ.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "ການເຂົ້າເຖິງຟາຍຂໍ້ມູນໄດ້ຖືກປະຕິເສດ">
-<!ENTITY fileAccessDenied.longDesc "<li> <li>ມັນອາດຈະຖືກລຶບອອກໄປແລ້ວ, ຍ້າຍໄປໄວ້ຢູ່ບ່ອນອື່ນແລ້ວ ຫລື ທ່ານອາດບໍ່ມີສິດເຂົ້າເຖິງຟາຍຂໍ້ມູນນີ້.</li> </ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>ມັນອາດຈະຖືກລຶບອອກໄປແລ້ວ, ຍ້າຍໄປໄວ້ຢູ່ບ່ອນອື່ນແລ້ວ ຫລື ທ່ານອາດບໍ່ມີສິດເຂົ້າເຖິງຟາຍຂໍ້ມູນນີ້.</li> </ul>">
 
 <!ENTITY generic.title "ອຸ່ຍ.">
 <!ENTITY generic.longDesc "<p>&brandShortName; ບໍ່ສາມາດໂຫລດນ້າເວັບນີ້ໄດ້ດ້ວຍບາງເຫດຜົນ.</p>">
@@ -32,12 +33,13 @@
 <!ENTITY malformedURI.title "ທີ່ຢູ່ນີ້ບໍ່ຖືກຕ້ອງ">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>ປົກກະຕິແລ້ວທີ່ຢູ່ຂອງເວັບໄຊຕ໌ແມ່ນຈະມັກຂຽນໃນຮູບແບບນີ້ <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ຄົ້ນຫາ</button> </div> <li>ກວດເບິງໃຫ້ແນ່ໃຈວ່າທ່ານກຳລັງໃຊ້ເຄື່ອງຫມາຍທັບໄປທາງຫນ້າ (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "ການເຊື່ອມຕໍ່ຖືກລົບກວນ">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "ເອກະສານຫມົດອາຍຸ">
-
+<!ENTITY notCached.longDesc "<p>ເອກະສານທີໄດ້ຮ້ອງຂໍໄປບໍ່ມີຢູ່ໃນຖານຄວາມຈຳຊົວຄ່າວຂອງ &brandShortName;.</p><ul><li>ເພື່ອເປັນການຮັກສາຄວາມປອດໄພ, &brandShortName; ຈະບໍ່ມີການຮ້ອງຂໍເອກະສານທີ່ລະອຽດອ່ອນຄືນແບບອັດຕະໂນມັດ.</li><li>ຄິກໃສ່ລອງອີກຄັ້ງເພື່ອຮ້ອງຂໍເອກະສານນີ້ຄືນອີກເທື່ອຫນຶ່ງຈາກເວັບໄຊຕ໌ນີ້.</li></ul>">
 
 <!ENTITY netOffline.title "ໂຫມດອັອບໄລນ໌">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -56,6 +58,7 @@
 <!ENTITY netTimeout.title "ການເຊື່ອມຕໍ່ໄດ້ຫມົດເວລາ">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "ບໍ່ເຂົ້າໃຈທີ່ຢູ່ນີ້">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>ທ່ານອາດຈຳເປັນຕ້ອງຕິດຕັ້ງສັອບແວອື່ນເພື່ອເປີດທີ່ຢູ່ນີ້.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "ພັອກຊີເຊີເວີປະຕິເສດການເຊື່ອມຕໍ່ນີ້">
@@ -66,6 +69,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>ກວດເບິງການຕັ້ງຄ່າຂອງພັອກຊີໃຫ້ແນ່ໃຈວ່າການຕັ້ງຄ່າຕ່າງໆແມ່ນຖືກຕ້ອງ.</li> <li>ກວດເບິງໃຫ້ແນ່ໃຈວ່າອຸປະກອນຂອງທ່ານຫຍັງມີຂໍ້ມູນການນຳໃຊ້ເຫລືອຢູ່ ຫລື ມີການເຊື່ອມຕໍ່ກັບໄວຟາຍ. <button id='wifi'>ເປີດໄວຟາຍ</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "ຫນ້າເວັບນີ້ມີການປ່ຽນເສັ້ນທາງທີ່ບໍ່ຖືກຕ້ອງ">
 <!ENTITY redirectLoop.longDesc "<ul> <li>ບາງຄັ້ງບັນຫານີ້ສາມາດເກີດຂື້ນມາຈາກການປິດ ຫລື ປະຕິເສດການຍອມຮັບ ຄຸກກີ້.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "ການຕອບສະຫນອງທີ່ບໍ່ຄາດຄິດຈາກເຊີເວີ">
@@ -104,9 +108,11 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "ຂໍ້ມູນຂັ້ນສູງ: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "ການເຊື່ອມຕໍ່ຂອງທ່ານບໍ່ປອດໄພ">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "ຂໍ້ມູນຂັ້ນສູງ: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "ການເຊື່ອມຕໍ່ຂອງທ່ານບໍ່ປອດໄພ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
