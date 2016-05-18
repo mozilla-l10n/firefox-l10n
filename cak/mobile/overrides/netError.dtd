@@ -105,7 +105,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Näj XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Man tikirel ta nok pa rub'eyal pa k'amaya'l ">
+<!ENTITY sslv3Used.title "Man tikirel ta ütz nok">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Q'axinäq chi etamab'äl: SSL_ERROR_UNSUPPORTED_VERSION">
