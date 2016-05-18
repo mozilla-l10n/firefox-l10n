@@ -372,7 +372,7 @@
 <!ENTITY doorhanger_login_edit_username_hint "Nazwa użytkownika">
 <!ENTITY doorhanger_login_edit_password_hint "Hasło">
 <!ENTITY doorhanger_login_edit_toggle "Widoczne hasło">
-<!ENTITY doorhanger_login_edit_toast_error "Nie udało się zapisać danych logowania">
+<!ENTITY doorhanger_login_edit_toast_error "Nie udało się zachować danych logowania">
 <!ENTITY doorhanger_login_select_message "Czy skopiować hasło dla &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Hasło zostało skopiowane do schowka">
 <!ENTITY doorhanger_login_select_toast_copy_error "Nie można było skopiować hasła">
@@ -432,7 +432,7 @@
 <!ENTITY home_last_tabs_empty "Tutaj pojawiają się ostatnio otwarte karty.">
 <!ENTITY home_open_all "Otwórz wszystkie">
 <!ENTITY home_most_recent_empty "Tutaj pojawiają się ostatnio odwiedzone witryny.">
-<!ENTITY home_most_recent_emptyhint2 "Psst: W &formatS1;nowej karcie prywatnej&formatS2; historia nie jest zapisywana.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: W &formatS1;nowej karcie prywatnej&formatS2; historia nie jest zachowywana.">
 
 <!ENTITY home_default_empty "Nie znaleziono treści do wyświetlenia na tym panelu.">
 
