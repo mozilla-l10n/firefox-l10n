@@ -38,6 +38,11 @@
 ">
 
 <!ENTITY fileAccessDenied.title "Prístup k súboru bol zamietnutý">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Mohol byť odstránený, premiestnený alebo vám v prístupe bránia jeho oprávnenia.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Problém.">
 <!ENTITY generic.longDesc "
@@ -137,6 +142,7 @@
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Vlastník servera <span class='hostname'/> nakonfiguroval svoju stránku nesprávne. Kvôli ochrane vašich údajov pred odcudzením &brandShortName; blokuje pripojenie k tejto webovej stránke.">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -175,8 +181,12 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.override "(Nezabezpečené) Vyskúšať načítať <span class='hostname'></span> použitím zastaraného zabezpečenia">
 
 <!ENTITY certerror.pagetitle1  "Nezabezpečené pripojenie">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Táto stránka používa HTTP
+Strict Transport Security (HSTS), čím určuje, že &brandShortName; sa k nej má pripájať len zabezpečene.
+Výsledkom toho je, že pre tento certifikát nie je možné pridať výnimku.">
 <!ENTITY certerror.copyToClipboard.label "Kopírovať text do schránky">
 
 <!ENTITY inadequateSecurityError.title "Vaše pripojenie nie je zabezpečené">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> využíva technológiu zabezpečenia, ktorá je zastaraná a zraniteľná voči útokom. Útočník by mohol jednoducho odhaliť informácie, o ktorých ste si mysleli, že sú v bezpečí. Správca webovej stránky ju bude musieť pred jej ďalšou návštevou opraviť.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
