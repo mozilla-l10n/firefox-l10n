@@ -735,12 +735,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Zapnutím synchronizácie kariet zobrazíte zoznam kariet z vašich ostatných zariadení.">
 
 <!ENTITY syncedTabs.context.open.label                       "Otvoriť">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Otvoriť na novej karte">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "k">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Otvoriť v novom okne">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Otvoriť v novom okne režimu Súkromné prehliadanie">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "S">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Pridať túto kartu medzi záložky…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "z">
 <!ENTITY syncedTabs.context.copy.label                       "Kopírovať">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
