@@ -11,8 +11,8 @@
 <!ENTITY SelectSize.accesskey "H">
 <!ENTITY SelectMultiple.label "Fleirval">
 <!ENTITY SelectMultiple.accesskey "F">
-
-
+<!ENTITY SelectDisabled.label "Avslått">
+<!ENTITY SelectDisabled.accesskey "A">
 <!ENTITY SelectTabIndex.label "Tabulatorindeks:">
 <!ENTITY SelectTabIndex.accesskey "i">
 

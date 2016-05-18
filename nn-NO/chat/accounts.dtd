@@ -33,6 +33,6 @@
 
 
 
-
-
+<!ENTITY account.connecting           "Koplar til …">
+<!ENTITY account.disconnecting        "Koplar frå …">
 <!ENTITY account.disconnected         "Ikkje tilkopla">
