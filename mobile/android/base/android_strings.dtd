@@ -17,7 +17,21 @@
 <!ENTITY firstrun_signin_message "Connettiti e inizia">
 <!ENTITY firstrun_signin_button "Accedi a Sync">
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
+<!ENTITY firstrun_button_notnow "Non adesso">
 <!ENTITY firstrun_button_next "Successivo">
+<!ENTITY firstrun_tabqueue_title "Link">
+<!ENTITY firstrun_tabqueue_message_off "Attiva accodamento schede">
+<!ENTITY firstrun_tabqueue_subtext_off "Non caricare immediatamente in &brandShortName; i link aperti da altre app.">
+<!ENTITY firstrun_tabqueue_message_on "Attivato!">
+<!ENTITY firstrun_tabqueue_subtext_on "È possibile disattivare questa funzione in qualunque momento nella sezione &pref_category_general; delle &settings;.">
+<!ENTITY firstrun_notifications_title "Blog">
+<!ENTITY firstrun_notifications_message "Rimani aggiornato">
+<!ENTITY firstrun_notifications_subtext "Ricevi una notifica quando i blog salvati nei segnalibri pubblicano un aggiornamento.">
+<!ENTITY firstrun_readerview_title "Articoli">
+<!ENTITY firstrun_readerview_message "Fai un po’ di ordine">
+<!ENTITY firstrun_readerview_subtext "Utilizza la Modalità lettura per rendere più piacevole la lettura di articoli \u2014 anche non in linea.">
+<!ENTITY firstrun_account_title "Tu">
+<!ENTITY firstrun_account_message "Utilizzi &brandShortName; su un altro dispositivo?">
 <!ENTITY onboard_start_restricted1 "Sicurezza e controllo garantiti grazie a questa versione semplificata di &brandShortName;.">
 <!ENTITY bookmarks_title "Segnalibri">
 <!ENTITY home_title "&brandShortName; Home">
