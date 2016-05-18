@@ -30,7 +30,7 @@
 <!ENTITY archiveInOtherFolder.label "folderze:">
 <!ENTITY archiveInOtherFolder.accesskey "d">
 <!ENTITY specialFolders.label "Szkice i szablony">
-<!ENTITY keepDrafts.label "Szkice wiadomości przechowuj w:">
+<!ENTITY keepDrafts2.label "Szkice wiadomości przechowuj w:">
 <!ENTITY draftsFolderOn.label "folderze Szkice konta:">
 <!ENTITY draftsFolderOn.accesskey "S">
 <!ENTITY draftInOtherFolder.label "folderze:">
