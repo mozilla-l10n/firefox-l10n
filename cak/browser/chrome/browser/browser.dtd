@@ -598,8 +598,8 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label       "Nimirisaxïk">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "N">
+<!ENTITY fullZoomEnlargeCmd.label       "Tinimirisäx">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "n">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 

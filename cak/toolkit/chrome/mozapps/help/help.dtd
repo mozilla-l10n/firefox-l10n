@@ -53,5 +53,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomReduceBtn.label        "Ch'utirisaxïk">
 <!ENTITY fullZoomReduceBtn.accesskey    "C">
-<!ENTITY fullZoomEnlargeBtn.label       "Nimirisaxïk">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "N">
+<!ENTITY fullZoomEnlargeBtn.label       "Tinimirisäx">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "n">

@@ -46,7 +46,7 @@
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; nuchajij ri awichin">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Richin nikijib'äl chijun ri awichinaxik, konojel ri taq atzij k'o chi man e'etaman ta chuwäch yetaq el pa k'amab'ey. Ri ewan tzij chi naköl richin netamäx kiwäch ri taq tzij ri', man xtitaq ta.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Richin nikijib'äl chijun ri awichinaxik, konojel ri taq atzij k'o chi man e'etaman ta chuwäch yetaq el pa k'amab'ey. Ri kolonel ewan tzij richin netamäx kiwäch ri taq tzij ri', man xtitaq ta.">
 <!ENTITY recoveryKeyEntry.label        "Ri kolonel ewan atzij">
 <!ENTITY recoveryKeyEntry.accesskey    "a">
 <!ENTITY syncGenerateNewKey.label  "Titz'uk jun k'ak'a' ewan tzij">
@@ -72,7 +72,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Tatikirisaj molojri'ïl">
-<!ENTITY existingRecoveryKey.description "Yatikïr nak&apos;ül jun ruwachib&apos;al ri ewan atzij richin yakolon toaq yatok pa Taq rucha&apos;oj &syncBrand.shortName.label; pa awokisaxel, chuqa&apos; nacha&apos;  &quot;Ewan nutzij richin yikolon&quot; chupam ri &quot;Tisamajïx taqoya&apos;l&quot;.">
+<!ENTITY existingRecoveryKey.description "Yatikïr nak&apos;ül jun ruwachib&apos;al ri kolonel ewan atzij toq yatok pa Taq rucha&apos;oj &syncBrand.shortName.label; pa awokisaxel, chuqa&apos; nacha&apos;  &quot;kolonel ewan nutzij&quot; chupam ri &quot;Tisamajïx taqoya&apos;l&quot;.">
 <!ENTITY verifying.label              "Tajin nijikib'äx…">
 <!ENTITY resetPassword.label          "Titzolïx ewan tzij">
 <!ENTITY resetSyncKey.label           "Xinsäch ri jun chik wokisaxel.">
