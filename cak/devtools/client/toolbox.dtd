@@ -176,12 +176,12 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
-<!ENTITY options.webconsole.label            "Web temeb'äl">
+<!ENTITY options.webconsole.label            "Ajk'amaya'l temeb'äl">
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
 <!ENTITY options.timestampMessages.label      "Ketzij taq retal q'ijul">
-<!ENTITY options.timestampMessages.tooltip    "We natzïj re cha'oj re', ri taq choloj chuqa' elem pa ri Web temeb'äl xtuk'ut pe jun retal q'ijul">
+<!ENTITY options.timestampMessages.tooltip    "We natzïj re cha'oj re', ri taq choloj chuqa' elem pa ri Ajk'amaya'l temeb'äl xtuk'üt pe jun retal q'ijul">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
@@ -208,7 +208,7 @@ values from browser.dtd.  -->
   -  about:config, in the options panel. -->
 
 <!ENTITY options.enablePersistentLogs.label    "Ketzij yakonïk taq taq tz'ib'axïk">
-<!ENTITY options.enablePersistentLogs.tooltip  "We natzïj re cha'oj re', ri web temeb'äl chuqa' ri rujolom k'amab'ey man xtutikirisaj ta ri elem jutaqil toq xkatok pa k'amaya'l pa jun k'ak'a' ruxaq ">
+<!ENTITY options.enablePersistentLogs.tooltip  "We natzïj re cha'oj re', ri Ajk'amaya'l temeb'äl chuqa' ri rujolom k'amab'ey man xtutikirisaj ta ri elem jutaqil toq xkatok pa k'amaya'l pa jun k'ak'a' ruxaq">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -226,7 +226,7 @@ values from browser.dtd.  -->
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Tutz'apij ri' ruyon ri q'inijuch'">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Tich'ap pa ruyonil tz'apin taq q'inijuch'">
 <!ENTITY options.sourceeditor.expandtab.label           "Ruchi' cholaj nrokisab'ej taq kojol ">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "Ke'okisäx taq kojol pa ruk'exel ri rutz'ib' rukojol">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Ke'okisäx taq kojol pa ruk'exel ri rutz'ib' alk'utu'">
 <!ENTITY options.sourceeditor.tabsize.label             "Runimilem ruwi'">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "R">
 <!ENTITY options.sourceeditor.keybinding.label          "Kitunik taq pitz'b'äl">

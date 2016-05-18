@@ -90,7 +90,7 @@
 <!-- Lense -->
 
 <!ENTITY details_valid_header "ütz">
-<!ENTITY details_warning_header "kitzijol taq k'ayewal">
+<!ENTITY details_warning_header "kitzijol k'ayewal">
 <!ENTITY details_error_header "Taq sachoj">
 <!ENTITY details_description "Cholonem">
 <!ENTITY details_location "Rochochib'al">
@@ -129,7 +129,7 @@
 <!ENTITY prefs_options_showeditor_tooltip "Tik'ut pe ri aj rupam nuk'unel">
 <!ENTITY prefs_options_tabsize "Runimilem ruwi'">
 <!ENTITY prefs_options_expandtab "Titz'ib'äx rik'in taq rukojol">
-<!ENTITY prefs_options_expandtab_tooltip "Ke'okisäx taq rukojol pa ruk'exel ri rutz'i' alk'utu'">
+<!ENTITY prefs_options_expandtab_tooltip "Ke'okisäx taq kojol pa ruk'exel ri rutz'ib' alk'utu'">
 <!ENTITY prefs_options_detectindentation "Ruchi' cholaj pa ruyonil">
 <!ENTITY prefs_options_detectindentation_tooltip "Tawila' ri ruchi' cholaj ri k'o ruq'ij chupam ruxe'el">
 <!ENTITY prefs_options_autocomplete "Tutz'aqatisaj ri' ruyon">

@@ -878,7 +878,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainActionDesc          "Toq nib'an:">
 <!ENTITY panicButton.view.deleteCookies           "Xeyuj el ri k'ak'a' taq <html:strong>Kokis</html:strong>">
 <!ENTITY panicButton.view.deleteHistory           "Yeyuj el ri k'ak'a' <html:strong>natab'äl</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Yetz'apïx ri taq <html:strong>Taq wi'</html:strong> chuqa' <html:strong>Taq tzuwäch</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Yetz'apïx ri taq <html:strong>Taq ruwi'</html:strong> chuqa' <html:strong>Taq tzuwäch</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Tijaq jun k'ak'a' tzuwäch">
 
 <!ENTITY panicButton.view.undoWarning             "Man tikirel ta xtitzolïx re samaj re'.">

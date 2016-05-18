@@ -7,7 +7,7 @@
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle     "K'ayew jub'a' rere'.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; k'ayew nub'än chuwäch nok chi jub'ey chupam ri taq ruwi' chuqa' taq ruwäch. Rere' nib'anatäj toq nab'ey xatok chupam jun ruxaq k'amaya'l.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; k'ayew nub'än chuwäch nok chik chupam ri taq tzuwäch chuqa' taq ruwi'. Rere' nib'anatäj toq nab'ey xatok chupam jun ruxaq k'amaya'l.">
 <!ENTITY restorepage.tryThis        "Tikirel natojtob'ej:">
 <!ENTITY restorepage.restoreSome    "Kelesäx el ri ketal jun o junjun taq ruwi', ri nikiya' k'ayewal.">
 <!ENTITY restorepage.startNew       "Titikirisäx jun chik k'ak'a' chi molojri'ïl">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.welcome "Matyox xatuqa pa &syncBrand.shortName.label;">
+<!ENTITY aboutAccounts.welcome "Ütz apetik pa &syncBrand.shortName.label;">
 <!ENTITY aboutAccounts.connected "Okisan ri taqoya'l">
 
 <!ENTITY aboutAccountsConfig.description "Tatikirisaj molojri'ïl pa kiximojri'ïl taq ruwi', taq yaketal, ewan tzij chuqa' juley chik.">

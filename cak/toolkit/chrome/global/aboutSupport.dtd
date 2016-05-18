@@ -39,7 +39,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Rub'ey taq k'exoj ruwäch">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Kinatab'al taq k'exoj ruwäch">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Tik'ut pe ri runatab'all taq k'exoj ruwäch">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Tik'ut pe ri kinatab'al taq k'exoj ruwäch">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Rucholb'äl Ruwäch B'i'aj">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -95,7 +95,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Taq ruwäch richin wujb'äl">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Runatab'al yakïk chupam">
-<!ENTITY aboutSupport.updateHistoryTitle "Runatab'al taq k'exoj ruwäch">
+<!ENTITY aboutSupport.updateHistoryTitle "Kinatab'al taq k'exoj ruwäch">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Tiwachib'ëx ri rucholajem tzij pa molwuj">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kewachib'ëx kikuta'm taq tzij pa molwuj">
