@@ -522,7 +522,7 @@ size. -->
 <!ENTITY home_title "Úvodná stránka &brandShortName;u">
 <!ENTITY home_history_title "História">
 <!ENTITY home_synced_devices_smartfolder "Synchronizované zariadenia">
-<!ENTITY home_synced_devices_number "&formatD; zariadení">
+<!ENTITY home_synced_devices_number "počet zariadení: &formatD;">
 <!ENTITY home_clear_history_button "Vymazať históriu prehliadania">
 <!ENTITY home_clear_history_confirm "Naozaj chcete vymazať svoju históriu prehliadania?">
 <!ENTITY home_bookmarks_empty "Tu sa zobrazujú uložené záložky">
