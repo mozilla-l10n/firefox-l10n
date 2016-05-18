@@ -21,14 +21,9 @@
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
 <!ENTITY firstrun_button_next "Successivo">
 <!ENTITY onboard_start_restricted1 "Sicurezza e controllo garantiti grazie a questa versione semplificata di &brandShortName;.">
-<!ENTITY reading_list_migration_title "Aggiornamento Elenco lettura">
-<!ENTITY reading_list_migration_subtext "Gli elementi salvati in Elenco lettura verranno aggiunti ai segnalibri">
-<!ENTITY reading_list_migration_goto_bookmarks "Vai ai segnalibri">
-<!ENTITY reading_list_migration_bookmarks_hidden "Il pannello dei segnalibri è nascosto">
 <!ENTITY bookmarks_title "Segnalibri">
 <!ENTITY home_title "&brandShortName; Home">
 <!ENTITY history_title "Cronologia">
-<!ENTITY reading_list_title "Elenco lettura">
 <!ENTITY recent_tabs_title "Schede recenti">
 <!ENTITY switch_to_tab "Passa alla scheda">
 <!ENTITY crash_reporter_title "Crash Reporter &brandShortName;">
