@@ -10,7 +10,7 @@
 <!ENTITY privateBrowsing.title.tracking                  "การท่องเว็บแบบส่วนตัวด้วยการป้องกันการติดตาม">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "เมื่อคุณเรียกดูหน้าต่างแบบส่วนตัว Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ไม่บันทึก">
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "หน้าที่เยี่ยมชมแล้ว">
 <!ENTITY aboutPrivateBrowsing.info.searches              "ค้นหา">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "คุกกี้">
@@ -21,11 +21,11 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads             "ดาวน์โหลด">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "ที่คั่นหน้า">
 <!ENTITY aboutPrivateBrowsing.note.before                "การท่องเว็บแบบส่วนตัว ">
-
-
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "ไม่ได้ทำให้คุณนิรนาม">
+<!ENTITY aboutPrivateBrowsing.note.after                 " บนอินเทอร์เน็ต โปรดรู้ไว้ว่าผู้ให้บริการอินเทอร์เน็ตที่คุณใช้หรือนายจ้างของคุณจะยังสามารถติดตามประวัติการดูเว็บของคุณได้อยู่">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "เรียนรู้เพิ่มเติมเกี่ยวกับ">
-
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "การท่องเว็บแบบส่วนตัว">
 
 <!ENTITY trackingProtection.title                        "ป้องกันการติดตาม">
-
+<!ENTITY trackingProtection.description2                 "บางเว็บไซต์ใช้การติดตามสามารถสังเกตุกิจกรรมที่คุณผ่านอินเทอร์เน็ต ด้วยการป้องกันการติดตาม Firefox จะทำการปิดกั้นการติดตามที่สามารถเก็บข้อมูลเกี่ยวกับพฤติกรรมการท่องเว็บของคุณ">
 <!ENTITY trackingProtection.startTour1                   "ดูว่ามันทำงานอย่างไร">
