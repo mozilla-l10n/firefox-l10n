@@ -31,7 +31,7 @@
 
 <!ENTITY  bookmarks_title "Adreces d\u0027interès">
 <!ENTITY  history_title "Historial">
-
+<!ENTITY  reading_list_title "Llista de lectura">
 <!ENTITY  recent_tabs_title "Pestanyes recents">
 
 <!ENTITY  switch_to_tab "Canvia a la pestanya">
@@ -65,7 +65,7 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Llista de lectura">
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -154,7 +154,7 @@
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Quant al &brandShortName;, PMF, comentaris">
 <!ENTITY pref_category_datareporting "Elecció de dades">
-
+<!ENTITY pref_category_logins "Inicis de sessió">
 <!ENTITY pref_learn_more "Més informació">
 <!ENTITY pref_category_installed_search_engines "Motors de cerca instal·lats">
 <!ENTITY pref_category_add_search_providers "Afegiu més proveïdors de cerca">
@@ -166,6 +166,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "CONSELL: Per afegir qualsevol lloc web a la llista de proveïdors de cerca, manteniu premut el camp de cerca i toqueu la icona &formatI;.">
 <!ENTITY pref_category_advanced "Avançat">
 
 
@@ -181,7 +182,7 @@
 <!ENTITY pref_category_home "Inici">
 <!ENTITY pref_category_home_summary "Personalitzeu la pàgina d\u0027inici">
 <!ENTITY pref_category_home_panels "Subfinestres">
-
+<!ENTITY pref_category_home_add_ons "Complements">
 
 <!ENTITY pref_home_updates_enabled "Activades">
 <!ENTITY pref_home_updates_wifi "Només per Wi-Fi">
@@ -218,7 +219,7 @@
 <!ENTITY pref_cookies_disabled "Inhabilitades">
 
 
-
+<!ENTITY pref_category_developer_tools "Eines per a desenvolupadors">
 
 <!ENTITY pref_tap_to_load_images_title2 "Mostra les imatges">
 <!ENTITY pref_tap_to_load_images_enabled "Sempre">
@@ -227,6 +228,7 @@
 
 
 
+<!ENTITY pref_tracking_protection_title2 "Protecció contra el seguiment">
 <!ENTITY pref_tracking_protection_summary3 "Activada en la navegació privada">
 <!ENTITY pref_donottrack_title "No vull ser seguit">
 <!ENTITY pref_donottrack_summary "El &brandShortName; farà saber als llocs web que no voleu que us segueixin">
@@ -235,6 +237,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Activada en la navegació privada">
 <!ENTITY pref_tracking_protection_disabled "Desactivada">
 
+<!ENTITY pref_whats_new_notification "Novetats del &brandShortName;">
 
 
 <!ENTITY tracking_protection_prompt_title "Ara amb protecció contra el seguiment">
@@ -253,7 +256,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Ara no">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -265,6 +268,7 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
@@ -277,7 +281,7 @@
 <!ENTITY pref_char_encoding "Codificació de caràcters">
 <!ENTITY pref_char_encoding_on "Mostra el menú">
 <!ENTITY pref_char_encoding_off "No mostris el menú">
-
+<!ENTITY pref_clear_private_data2 "Neteja dades privades">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Neteja-les ara">
@@ -381,6 +385,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Actualitzacions automàtiques">
 <!ENTITY pref_update_autodownload_wifi "Només per Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Mai">
 <!ENTITY pref_update_autodownload_always "Sempre">
@@ -391,7 +396,7 @@ size. -->
 <!ENTITY quit "Surt">
 
 <!ENTITY addons "Complements">
-
+<!ENTITY logins "Inicis de sessió">
 <!ENTITY downloads "Baixades">
 <!ENTITY char_encoding "Codificació caràcters">
 
@@ -467,6 +472,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Navegació a pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary2 "Amaga la barra d\u0027eines del &brandShortName; en desplaçar la pàgina cap avall">
 
+<!ENTITY pref_tab_queue_title3 "Cua de pestanyes">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -509,6 +515,8 @@ size. -->
 <!ENTITY home_top_sites_add "Afegeix un lloc">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "Inici del &brandShortName;">
 <!ENTITY home_history_title "Historial">
 
 
@@ -551,6 +559,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Escriviu una paraula clau de cerca">
 
+<!ENTITY filepicker_title "Trieu un fitxer">
 <!ENTITY filepicker_audio_title "Trieu o enregistreu un so">
 <!ENTITY filepicker_image_title "Trieu o feu una foto">
 <!ENTITY filepicker_video_title "Trieu o enregistreu un vídeo">
@@ -577,6 +586,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "Protecció contra el seguiment">
 <!ENTITY doorhanger_tracking_state_enabled "Activat">
 <!ENTITY doorhanger_tracking_state_disabled "Desactivat">
 
@@ -718,11 +729,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-
+<!ENTITY eol_notification_summary "Toqueu per a més informació">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
 
+<!ENTITY promotion_add_to_homescreen "Afegeix a la pantalla d\u0027inici">
 
 
 
