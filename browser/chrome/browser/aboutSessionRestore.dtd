@@ -23,6 +23,10 @@
 <!ENTITY restorepage.windowLabel    "Finestra &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "Som-hi!">
 <!ENTITY welcomeback2.restoreButton.access "S">
 
 <!ENTITY welcomeback2.tabtitle      "Tot correcte">
@@ -38,6 +42,9 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "S'han eliminat els vostres complements i personalitzacions i s'han restaurat els paràmetres del navegador per defecte. Si això no resol el problema, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "obteniu més informació sobre què podeu fer.">
@@ -45,9 +52,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "Migreu la resta de Grups de pestanyes">
-
+<!ENTITY tabgroupsmigration.pagetitle2          "Hem eliminat els «Grups de pestanyes», però hem desat les vostres pestanyes">
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Més informació dels complements que poden reemplaçar els grups de pestanyes.">
-
+<!ENTITY tabgroupsmigration.description2        "El &brandShortName; ha afegit tots els vostres grups a les adreces d'interès, o sigui que no n'heu perdut cap.">
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Mostra els grups de pestanyes afegits a les adreces d'interès">
 <!ENTITY tabgroupsmigration.restoredescription  "Si ho preferiu, també podeu restaurar alguns grups o tots en finestres a continuació:">
 

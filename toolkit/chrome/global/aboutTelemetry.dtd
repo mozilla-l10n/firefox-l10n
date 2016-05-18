@@ -58,6 +58,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Escriptures tardanes">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "  Informació de la sessió">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogrames recollits pels complements">
 

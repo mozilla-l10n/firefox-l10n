@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Altres">
 <!ENTITY runtimePanel_installsimulator "Instal·la el simulador">
 <!ENTITY runtimePanel_noadbhelper "Instal·la l'ADB Helper">
-
+<!ENTITY runtimePanel_nousbdevice "No veieu el vostre dispositiu?">
 
 <!-- Lense -->
 
