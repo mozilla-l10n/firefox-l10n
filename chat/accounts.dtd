@@ -4,6 +4,7 @@
 <!-- Account manager window for Instantbird -->
 <!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
+<!ENTITY accountsWindow.title                "Tūlītējās ziņojumapmaiņas statuss">
 
 
 <!ENTITY accountManager.newAccount.label     "Jauns konts">
@@ -15,16 +16,16 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY account.connect.label        "Savienoties">
+<!ENTITY account.connect.accesskey    "o">
+<!ENTITY account.disconnect.label     "Atvienoties">
+<!ENTITY account.disconnect.accesskey "i">
+<!ENTITY account.delete.label         "Dzēst">
+<!ENTITY account.delete.accesskey     "D">
+<!ENTITY account.edit.label           "Īpašības">
+<!ENTITY account.edit.accesskey       "p">
+<!ENTITY account.moveup.label         "Pārvietot augšup">
+<!ENTITY account.movedown.label       "Pārvietot lejup">
 
 
 
