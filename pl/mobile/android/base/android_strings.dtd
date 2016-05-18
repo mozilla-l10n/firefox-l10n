@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Witamy">
-<!ENTITY onboard_start_message3 "Przeglądaj z programem &brandShortName;">
-<!ENTITY onboard_start_subtext3 "Spraw, aby przeglądanie mobilne stało się prawdziwie Twoim.">
 
 <!ENTITY firstrun_urlbar_message "Witamy w przeglądarce &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Wyszukuj szybciej dzięki pomocnym podpowiedziom.">
