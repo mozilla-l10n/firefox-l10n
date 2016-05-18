@@ -17,7 +17,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
 
-<!ENTITY debuggerUI.panesButton.tooltip "Kek'ex taq pas">
+<!ENTITY debuggerUI.panesButton.tooltip "Kejal taq pas">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
@@ -35,7 +35,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
 
-<!ENTITY debuggerUI.sources.blackBoxTooltip "Tik'ex pa rub'eyal q'ëq kaxa">
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Tijal pa rub'eyal q'ëq kaxa">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
 
@@ -52,7 +52,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
 
-<!ENTITY debuggerUI.sources.togglePromiseDebugger "Titzij Promise chojmirisanel">
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Tijal Promise chojmirisanel">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
