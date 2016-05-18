@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "K'o k'ayewal toq nitikirisäx ri ruxaq k'amaya'l">
-<!ENTITY retry.label "Rutojtob'exik chik">
+<!ENTITY retry.label "Titojtob'ëx chik">
 <!ENTITY returnToPreviousPage.label "Titzolin">
 <!ENTITY advanced.label "Q'axinäq">
 <!-- Specific error messages -->
@@ -95,7 +95,7 @@ was trying to connect. -->
 <!ENTITY remoteXUL.title "Näj XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Man tikirel ta nib'an okem pa rub'eyal">
+<!ENTITY sslv3Used.title "Man tikirel ta ütz nok">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Q'axinäq chi etamab'äl: SSL_ERROR_UNSUPPORTED_VERSION">

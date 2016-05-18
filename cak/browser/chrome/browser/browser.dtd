@@ -815,7 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Xtikomonïx ri q'ojom k'o pa ruwi'.">
 <!ENTITY getUserMedia.allWindowsShared.message "Xkekomonïx konojel ri tz'etel taq tzuwäch e k'o pa ri ruwäch.">
 
-<!ENTITY trackingProtection.title "Chajinem chuwäch ri kanoxïk">
+<!ENTITY trackingProtection.title "Chajinem chuwäch kanoxïk">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; yeruq'ät jujun taq peraj chi re ri ruxaq, ri nitikïr yatrïl pa okimaya'l.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Re ruxaq k'amaya'l re' k'o taq ruch'akulal ri yetikïr nikïl ri awokem pa k'amaya'l. Achupun ri achajinik.">
 <!ENTITY trackingProtection.notDetected3 "Majun wachinäq nikanon xilitäj chupam re ruxaq wuj re'.">

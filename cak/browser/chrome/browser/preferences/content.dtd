@@ -50,7 +50,7 @@
   -  browser/translation.dtd
   -->
 
-<!ENTITY translation.options.attribution.beforeLogo "Taq tzalq'oman ruma">
+<!ENTITY translation.options.attribution.beforeLogo "Tzalq'oman ruma">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 <!ENTITY  drmContent.label             "DRM rupam etamab'äl">

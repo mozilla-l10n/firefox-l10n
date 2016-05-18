@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "i">
 
 <!ENTITY privateBrowsing.title                           "Ichinan okem pa k'amaya'l">
-<!ENTITY privateBrowsing.title.tracking                  "Ichinan okik'amaya'l rik'in chajinem richin ilonem">
+<!ENTITY privateBrowsing.title.tracking                  "Ichinan okik'amaya'l rik'in chajinem chuwäch kanoxïk">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Toq yatok pa jun ichina tzuwäch, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "man tuyäk">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -26,6 +26,6 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Tetamäx chaqa' chik chi rij">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Ichinan okem pa k'amaya'l">
 
-<!ENTITY trackingProtection.title                        "Ruchajinik kanoxïk">
-<!ENTITY trackingProtection.description2                 "Jujun ruxaq k'amaya'l nikokisaj kanonela', ri yetikïr nikinik'oj ri asamaj pa k'amaya'l. Rik'in rojqaxik ri Ruchajixik Firefox xkeruq'ät k'ïy taq ojqanela', ri yetikïr nikik'oj etamab'äl chi rij rub'eyal runa'oj ri okema pa k'amaya'l.">
+<!ENTITY trackingProtection.title                        "Chajinem chuwäch kanoxïk">
+<!ENTITY trackingProtection.description2                 "Jujun ruxaq k'amaya'l nikokisaj kanonela', ri yetikïr nikinik'oj ri asamaj pa k'amaya'l. Rik'in chajinem chuwäch rukanoxik Firefox xkeruq'ät k'ïy taq ojqanela', ri yetikïr nikik'oj etamab'äl chi rij rub'eyal runa'oj ri okema pa k'amaya'l.">
 <!ENTITY trackingProtection.startTour1                   "Tatz'eta' rub'eyal nisamäj">

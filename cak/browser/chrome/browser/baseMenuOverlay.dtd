@@ -31,8 +31,8 @@
 <!ENTITY healthReport2.label      "Rutzijol raxnaqil richin &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "i">
 
-<!ENTITY helpTroubleshootingInfo.label      "Na'oj richin kisolik taq k'ayewal">
-<!ENTITY helpTroubleshootingInfo.accesskey  "N">
+<!ENTITY helpTroubleshootingInfo.label      "Etamab'äl richin yesol taq yek'ayewal">
+<!ENTITY helpTroubleshootingInfo.accesskey  "E">
 
 <!ENTITY helpFeedbackPage.label      "Ketaq taq rutzijol…">
 <!ENTITY helpFeedbackPage.accesskey  "K">
