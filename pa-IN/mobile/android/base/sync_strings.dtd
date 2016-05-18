@@ -51,7 +51,6 @@
 <!ENTITY fxaccount_getting_started_get_started 'Get started'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Using an older version of &syncBrand.shortName.label;?'>
 
-<<<<<<< local
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
@@ -104,8 +103,7 @@
 <!ENTITY fxaccount_finish_migrating_description 'Upgrading can transfer a lot of data. It\&apos;s best to be on a Wi-Fi network.'>
 
 <!ENTITY fxaccount_status_header2 'Firefox Account'>
-=======
->>>>>>> other
+
 <!ENTITY fxaccount_status_signed_in_as 'Signed in as'>
 <!ENTITY fxaccount_status_manage_account 'Manage account'>
 <!ENTITY fxaccount_status_auth_server 'Account server'>
