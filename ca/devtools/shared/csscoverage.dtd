@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "A vegades podeu accelerar la càrrega movent">
 <!ENTITY csscoverage.optimize.body2 "etiquetes a la part inferior de la pàgina i creant un element">
-
+<!ENTITY csscoverage.optimize.body3 "d'inserció (inline) nou amb els estils necessaris abans de l'esdeveniment «load» inicial. Aquests són els blocs d'estil que necessiteu:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 
