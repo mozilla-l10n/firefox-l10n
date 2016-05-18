@@ -24,14 +24,8 @@
 
 <!ENTITY onboard_start_restricted1 "Bądź bezpieczny dzięki uproszczonej wersji przeglądarki &brandShortName;.">
 
-<!ENTITY reading_list_migration_title "Połączona lista „Do przeczytania”">
-<!ENTITY reading_list_migration_subtext "Artykuły z listy „Do przeczytania” zostaną dodane do zakładek">
-<!ENTITY reading_list_migration_goto_bookmarks "Przejdź do zakładek">
-<!ENTITY reading_list_migration_bookmarks_hidden "Panel zakładek jest ukryty">
-
 <!ENTITY bookmarks_title "Zakładki">
 <!ENTITY history_title "Historia">
-<!ENTITY reading_list_title "Do przeczytania">
 <!ENTITY recent_tabs_title "Ostatnio otwarte karty">
 
 <!ENTITY switch_to_tab "Przełącz na kartę">
