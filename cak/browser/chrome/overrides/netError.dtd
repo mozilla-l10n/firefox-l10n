@@ -60,7 +60,7 @@
 <!ENTITY proxyConnectFailure.title "Ri ruk'u'x samaj proxi tajin yerutzolij ri taq okem">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Tanik'oj chi ri runuk'ulem proxi ja ri' ri ütz.</li> <li>Katoyon rik'in ri runuk'samajel k'amab'ey richin nanik'oj chi ri ruk'u'x samaj proxi tajin nisamäj.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Man tikirel ta nilitäj ri proxi ruk'u'x samaj">
+<!ENTITY proxyResolveFailure.title "Man nilitäj ta ri proxi ruk'u'x samaj">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Tanik'oj runuk'ulem proxi richin najikib'a' chi ütz b'anikil.</li> <li>Tanik'oj chi ri asamajib'al k'o rokem richin nisamäj pa k'amab'ey.</li> <li>We ri asamajib'al o k'amab'ey chajin ruma jun chupq'aq' o proxi, tajikib'a' chi ri &brandShortName; ya'on q'ij chi re richin nok pa k'amaya'l.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Man ütz ta tajin niq'axan ri ruxaq k'amaya'l">

@@ -44,7 +44,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "l">
 <!ENTITY  bookmarkAllTabs.label              "Ketz'aqatisäx taq ruwi' pa taq yaketal…">
 <!ENTITY  bookmarkAllTabs.accesskey          "r">
-<!ENTITY  undoCloseTab.label                 "Titzolïx chi rij ri rutz'apixik ruk'isib'al ruwi'">
+<!ENTITY  undoCloseTab.label                 "Titzolïx ri rutz'apixik ruk'isib'al ruwi'">
 <!ENTITY  undoCloseTab.accesskey             "T">
 <!ENTITY  closeTab.label                     "Titz'apïx ruwi’">
 <!ENTITY  closeTab.accesskey                 "T">
@@ -83,7 +83,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "k">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Ketz'aqatisäx ri taq ruwi' pa taq yaketal…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "r">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Titzolïx chi rij ri rutz'apixik ruk'isib'al ruwi'">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Titzolïx ri rutz'apixik ruk'isib'al ruwi'">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "T">
 
 <!ENTITY pageSourceCmd.label "Runuk' rutz'ib' re ruxaq re'">
@@ -278,9 +278,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "K'exonïk"> 
 <!ENTITY editMenu.accesskey       "e"> 
-<!ENTITY undoCmd.label            "Tiyuj">  
+<!ENTITY undoCmd.label            "Titzolïx">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "T"> 
+<!ENTITY undoCmd.accesskey          "t"> 
 <!ENTITY redoCmd.label            "Rukamuluxik">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "m"> 
@@ -773,7 +773,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.accesskey "r">
 
 <!ENTITY social.activated.description "Ri taq samajib'äl <label/> xetzij. Tikirel najalwachij ri taq samajib'äl nik'atzin chawe pa <label class='text-link'> Nuk'üy taq rutz'aqat</label>">
-<!ENTITY social.activated.undo.label "¡Iy, tiyuj re'!">
+<!ENTITY social.activated.undo.label "¡Iy, titzolïx re re'!">
 <!ENTITY social.activated.undo.accesskey "t">
 <!ENTITY social.learnMore.label "Tetamäx ch'aqa' chik…">
 <!ENTITY social.learnMore.accesskey "T">
@@ -881,7 +881,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Yetz'apïx ri taq <html:strong>Taq wi'</html:strong> chuqa' <html:strong>Taq tzuwäch</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Tijaq jun k'ak'a' tzuwäch">
 
-<!ENTITY panicButton.view.undoWarning             "Man tikirel ta xtitzolïx chi rij re samaj re'.">
+<!ENTITY panicButton.view.undoWarning             "Man tikirel ta xtitzolïx re samaj re'.">
 <!ENTITY panicButton.view.forgetButton            "¡Tamestaj!">
 
 <!ENTITY panicButton.thankyou.msg1                "Xyujtäj el ri k'ak'a' natab'äl.">

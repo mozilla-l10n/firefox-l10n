@@ -195,7 +195,7 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "Tik'ex">
-<!ENTITY addon.undoAction.label               "Titzolïx chi rij">
+<!ENTITY addon.undoAction.label               "Titzolïx">
 <!ENTITY addon.undoAction.tooltip             "Titzolïx chi rij re jun samaj re'">
 <!ENTITY addon.undoRemove.label               "Titzolïx">
 <!ENTITY addon.undoRemove.tooltip             "Tib'än chi tiyake' re rutz'aqat re'">
