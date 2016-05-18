@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>A ga hin ka tee kaŋ hayiizoo n'ka maa-barmandi, ganandi, berandi doo taaga ra?</li><li>Boŋhantum, harfu beerandiyan, wala hantum firka goo aderesoo ra?</li><li>War goo nda fondo wasanta hayiizoo kaŋ war n'a wiri še?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Tukoo duuyanoo mongu">
-
+<!ENTITY fileAccessDenied.longDesc "<ul><li>A ga hin ka tee a n' ka hun, ganandi, wala tuku duɲeyaney ga ganji a ma duwandi.</li></ul>">
 
 <!ENTITY generic.title "Ši hin ka hãayanoo timmandi">
 <!ENTITY generic.longDesc "<p>Alhabar tontonante ga bara sohõ šendaa wala firkaa woo ga.</p>">
@@ -82,5 +82,7 @@
 <!ENTITY remoteXUL.title "XUL moora">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Taare wa šendaa woo bayrandi Interneti nungey koyey še.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "War ciyaroo manti saajante">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ga goy nda dabaribayray kaŋ žen nd'a ga yalaafu zanbakey se. A ga faala zanbakaw se a ma hin ka alhabar kaŋ war ga tammahãa a ga saajaw fukkar. Interneti nungu juwalkaa mma hima ka feršikaa hanse jina hala war ma ma nungoo guna.</p><p>Firka tammaasa: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
