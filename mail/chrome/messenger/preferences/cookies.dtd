@@ -18,7 +18,7 @@
 <!ENTITY props.path.label                  "Plassering:">
 <!ENTITY props.secure.label                "Send For:">
 <!ENTITY props.expires.label               "Går ut:">
-
+<!ENTITY props.container.label             "Konteinar:">
 
 <!ENTITY window.title                      "Infokapslar">
 <!ENTITY windowClose.key                   "w">

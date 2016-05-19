@@ -22,7 +22,8 @@
 <!ENTITY fileNotFound.title "Fann ikkje fila">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontroller filnamnet etter skilnader i store/små bokstavar eller andre skrivefeil.</li> <li>Kontroller om fila er flytta, har endra namn eller er sletta.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Tilgang til fila vart nekta">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Fila kan ha vorte flytta, fjerna, eller filløyve kan hindra tilgang.</li> </ul>">
 
 <!ENTITY generic.title "Ojsann.">
 <!ENTITY generic.longDesc "<p>&brandShortName; klarte ikkje å lasta denne sida av ukjent årsak.</p>">
