@@ -113,7 +113,7 @@
 <!ENTITY folderPropsCmd2.label "Eigenskapar">
 <!ENTITY folderPropsFolderCmd2.label "Mappeeigenskapar">
 <!ENTITY folderPropsNewsgroupCmd2.label "Nyhendegruppe-innstillingar">
-
+<!ENTITY folderPropsCmd.accesskey "N">
 <!ENTITY undoDeleteMsgCmd.label "Angra sletting av melding">
 <!ENTITY redoDeleteMsgCmd.label "Gjenta sletting av melding">
 <!ENTITY undoMoveMsgCmd.label "Angra flytting av melding">
@@ -160,12 +160,12 @@
 <!ENTITY unreadFolders.accesskey "U">
 <!ENTITY favoriteFolders.label "Favorittar">
 <!ENTITY favoriteFolders.accesskey "F">
-
-
+<!ENTITY recentFolders.label "Nyleg">
+<!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Kompaktvising">
 <!ENTITY compactVersion.accesskey "K">
-
-
+<!ENTITY folderPaneBar.label "Mappevisingsinnstillingar">
+<!ENTITY folderModeSelector.label "Mappevisingar">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sorter etter">
@@ -304,12 +304,12 @@
 <!ENTITY prevMenu.accesskey "F">
 <!ENTITY prevMsgCmd.label "Melding">
 <!ENTITY prevMsgCmd.accesskey "M">
-
+<!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "Ulesen melding">
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
-
-
+<!ENTITY goForwardCmd.label "Fram">
+<!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Tilbake">
 <!ENTITY goBackCmd.accesskey "T">
@@ -363,8 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Rediger som ny melding">
 <!ENTITY editAsNewMsgCmd.accesskey "R">
 <!ENTITY editAsNewMsgCmd.key "e">
-
-
+<!ENTITY editDraftMsgCmd.label "Rediger meldingskladd">
+<!ENTITY editDraftMsgCmd.accesskey "m">
 <!ENTITY createFilter.label "Lag filter på meldinga">
 <!ENTITY createFilter.accesskey "L">
 <!ENTITY moveMsgToMenu.label "Flytt til">
@@ -720,7 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Rediger som ny melding">
 <!ENTITY contextEditMsgAsNew.accesskey "R">
-
+<!ENTITY contextEditDraftMsg.label "Rediger meldingskladd">
 <!ENTITY contextArchive.label "Arkiv">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svar til avsendar">
@@ -748,9 +748,9 @@
 <!ENTITY contextCopyMsgMenu.label "Kopier til">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignorer tråd">
-
+<!ENTITY contextKillSubthreadMenu.accesskey "g">
 <!ENTITY contextKillThreadMenu.accesskey "I">
-
+<!ENTITY contextKillSubthreadMenu.label "Ignorer undertråd">
 <!ENTITY contextWatchThreadMenu.label "Overvak tråd">
 <!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
    In the en-US locale we ran out of access keys, so there is an empty access key for
