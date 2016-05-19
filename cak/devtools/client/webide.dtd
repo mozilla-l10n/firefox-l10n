@@ -155,7 +155,7 @@
 <!ENTITY runtimedetails_privilegesWarning "(Xtutikirisaj chik ri okisaxel. Nrajo' root rub'ey.)">
 <!-- Device Preferences and Settings -->
 
-<!ENTITY device_typeboolean "B'olan">
+<!ENTITY device_typeboolean "Ja'/manäq">
 <!ENTITY device_typenumber "Chijun">
 <!ENTITY device_typestring "Cholajil">
 <!ENTITY device_typeobject "Wachinäq">

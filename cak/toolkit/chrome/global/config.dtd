@@ -46,5 +46,5 @@
 <!ENTITY string.accesskey "C">
 <!ENTITY integer.label "Chijun">
 <!ENTITY integer.accesskey "C">
-<!ENTITY boolean.label "ja'/manäq">
-<!ENTITY boolean.accesskey "j">
+<!ENTITY boolean.label "Ja'/manäq">
+<!ENTITY boolean.accesskey "J">
