@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage 'Видалити всю історію пошуку з цього пристрою?'>
 <!ENTITY pref_clearHistory_title 'Стерти історію пошуку'>
 
-<!ENTITY pref_searchProvider_title 'Засіб пошуку'>
-
 <!ENTITY search_widget_button_label 'Пошук'>
 
 <!ENTITY network_error_title 'Немає з’єднання з Інтернетом'>
