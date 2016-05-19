@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
 <!ENTITY fileNotFound.longDesc "<ul><li>Gæti verið að hluturinn hafi verið endurnefndur, fjarlægður, eða færður til?</li><li>Er stafsetningarvilla, hástafaritun, eða annarskonar stafsetningarvilla í vistfanginu?</li><li>Hefurðu nægar aðgangsheimildir fyrir hlutinn?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "Aðgangur að skránni ekki leyfður.">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Vera má að skráin hafi verið fjarlægð, færð til eða réttindi leyfi ekki aðgengi.</li> </ul>">
 
 <!ENTITY generic.title "Get ekki klárað beiðni">
 <!ENTITY generic.longDesc "<p>Aðrar upplýsingar um þetta vandamál er ekki til staðar.</p>">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "Fjarlægt XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hafðu samband við eigendur vefsvæðins til að láta þá vita af þessu vandamáli.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Tengingin er ekki örug">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> notast við öryggistækni sem er úreld og ekki lengur örugg. Árásaraðili gæti auðveldlega komist í upplýsingar sem þú telur vera öruggar. Vefumsjónaraðilinn verður að laga miðlarann áður en þú getur heimsótt vefsvæðið .</p><p>Villu kóði: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
