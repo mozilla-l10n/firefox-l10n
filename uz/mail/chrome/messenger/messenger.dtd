@@ -11,9 +11,9 @@
 <!ENTITY closeTabCmd2.label "Ichki oynani yopish">
 <!ENTITY closeTabCmd2.accesskey "y">
 <!ENTITY closeOtherTabsCmd2.label "Boshqa ichki oynalarni yopish">
-<!ENTITY closeOtherTabsCmd2.accesskey "o">
-<!ENTITY recentlyClosedTabsCmd.label "Yaqinda yopilgan ichki oynalar">
-<!ENTITY recentlyClosedTabsCmd.accesskey "Y">
+<!ENTITY closeOtherTabsCmd2.accesskey "y">
+<!ENTITY recentlyClosedTabsCmd.label "So‘nggi yopilgan ichki oynalar">
+<!ENTITY recentlyClosedTabsCmd.accesskey "S">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
@@ -22,13 +22,13 @@
      -->
 <!ENTITY moveToNewWindow.label "Yangi oynaga ko‘chirish">
 <!ENTITY moveToNewWindow.accesskey "y">
-<!ENTITY newVirtualFolderCmd.label "Saqlangan qidiruvlar…">
+<!ENTITY newVirtualFolderCmd.label "Saqlangan qidiruv…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "Boshqa hisoblar…">
 <!ENTITY newOtherAccountsCmd.accesskey "B">
-<!ENTITY newCreateEmailAccountCmd.label "Yangi pochta hisobini olish…">
+<!ENTITY newCreateEmailAccountCmd.label "Yangi e-pochta hisobi olish…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "o">
-<!ENTITY newExistingEmailAccountCmd.label "Mavjud pochta hisobi…">
+<!ENTITY newExistingEmailAccountCmd.label "Mavjud e-pochta hisobi…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "M">
 <!ENTITY newIMAccountCmd.label "Chat hisobi…">
 <!ENTITY newIMAccountCmd.accesskey "C">
@@ -36,30 +36,30 @@
 <!ENTITY newFeedAccountCmd.accesskey "T">
 <!ENTITY newIMContactCmd.label "Chat kontakti…">
 <!ENTITY newIMContactCmd.accesskey "h">
-<!ENTITY openMessageFileCmd.label "Saqlangan xabarni ochish…">
+<!ENTITY openMessageFileCmd.label "Saqlangan xabarni ochish">
 <!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY saveAsMenu.label "Boshqacha saqlash">
-<!ENTITY saveAsMenu.accesskey "B">
+<!ENTITY saveAsMenu.accesskey "s">
 <!ENTITY saveAsFileCmd.label "Fayl">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Namuna">
 <!ENTITY saveAsTemplateCmd.accesskey "N">
-<!ENTITY getNewMsgForCmd.label "Yangi xabar olish">
-<!ENTITY getNewMsgForCmd.accesskey "x">
+<!ENTITY getNewMsgForCmd.label "Yangi xabarlarni olish:">
+<!ENTITY getNewMsgForCmd.accesskey "o">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Barcha hisoblar">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "B">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Joriy hisob">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "J">
-<!ENTITY getNextNMsgCmd.label "Keyingi 500 ta xabarni olish">
+<!ENTITY getNextNMsgCmd.label "Keyingi 500 ta yangiliklar xabarini olish">
 <!ENTITY getNextNMsgCmd.accesskey "o">
 <!ENTITY sendUnsentCmd.label "Jo‘natilmagan xabarlarni jo‘natish">
 <!ENTITY sendUnsentCmd.accesskey "j">
-<!ENTITY subscribeCmd.label "Obuna boʻlish…">
+<!ENTITY subscribeCmd.label "Obuna bo‘lish…">
 <!ENTITY subscribeCmd.accesskey "O">
 <!ENTITY deleteFolder.label "Jildni o‘chirish">
 <!ENTITY deleteFolder.accesskey "o">
-<!ENTITY renameFolder.label "Jild nomini o‘zgartirish…">
+<!ENTITY renameFolder.label "Jild nomini o‘zgartirish">
 <!ENTITY renameFolder.accesskey "o">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Jildlarni zichlash">
