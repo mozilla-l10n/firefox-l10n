@@ -135,8 +135,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Tel pa chijun ruwa kematz'ib' (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Tel pa chijun ruwa kematz'ib' (esc)">
-<!ENTITY leaveDOMFullScreen.label "Elem pa ri ronojel ruwäch">
-<!ENTITY leaveDOMFullScreen.accesskey "r">
+<!ENTITY leaveDOMFullScreen.label "Tel el pa chijun ruwa kematz'ib'">
+<!ENTITY leaveDOMFullScreen.accesskey "c">
 
 <!ENTITY closeWindow.label "Rutz'apixik kajtz'ïk">
 <!ENTITY closeWindow.accesskey "k">

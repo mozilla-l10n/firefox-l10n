@@ -58,7 +58,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.headers): This is the label displayed
   -  in the network details pane identifying the headers tab. -->
 
-<!ENTITY netmonitorUI.tab.headers         "Jub'i'aj">
+<!ENTITY netmonitorUI.tab.headers         "Taq Jub'i'aj">
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.cookies): This is the label displayed
   -  in the network details pane identifying the cookies tab. -->
 
@@ -280,7 +280,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
 
-<!ENTITY netmonitorUI.context.copyRequestHeaders     "Tiwachib'ëx ri Rujub'i'aj K'utuxïk">
+<!ENTITY netmonitorUI.context.copyRequestHeaders     "Kewachib'ëx ri taq jub'i'aj xek'utüx">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
 
@@ -288,7 +288,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
   -  on the context menu that copies the selected item's response headers -->
 
-<!ENTITY netmonitorUI.context.copyResponseHeaders     "Tiwachib'ëx rujub'i'aj tzolin tzij">
+<!ENTITY netmonitorUI.context.copyResponseHeaders     "Kewachib'ëx ri taq kijub'i'aj tzolin tzij">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
   -  for the Copy Response Headers menu item displayed in the context menu for a response -->
 
