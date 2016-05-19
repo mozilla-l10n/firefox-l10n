@@ -86,7 +86,7 @@
 <!ENTITY sharedLongDesc3 "<ul> <li>Rik'in jub'a' man q'aläj ta wakami o janila tajin nokisäx ri ruxaq k'amaya'l. Tatojtob'ej pa jun chik mej.</li> <li>We man nok ta pa majun ruxaq k'amaya'l, tanik'oj ri rutzij awoyonib'al o rokem pa Mek'am. <button id='wifi'>Titzij ri Mek'am</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Q'aton ruma ri chajinel rupam na'oj">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xjaqatäj ruma ri ruxaq k'amaya'l k'o ruchajinel rupam na'oj, ri man nuya' ta q'ij.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xusamajib'ej ruxaq k'amaya'l pa rub'eyal re' ruma ruchajin jun runa'oj rujikomal rupam, ri man nuya' ta q'ij.</p>">
 
 <!ENTITY corruptedContentError.title "Sachoj pan itzel rupam">
 <!ENTITY corruptedContentError.longDesc "<p>Ri ruxaq wuj tajin natojtob'ej natz'ët man tikirel ta nik'ut pe ruma xilitäj jun sachoj toq yeq'alajisäx pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
