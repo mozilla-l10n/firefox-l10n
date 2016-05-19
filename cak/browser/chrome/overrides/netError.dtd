@@ -64,7 +64,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Tanik'oj runuk'ulem proxi richin najikib'a' chi ütz b'anikil.</li> <li>Tanik'oj chi ri asamajib'al k'o rokem richin nisamäj pa k'amab'ey.</li> <li>We ri asamajib'al o k'amab'ey chajin ruma jun chupq'aq' o proxi, tajikib'a' chi ri &brandShortName; ya'on q'ij chi re richin nok pa k'amaya'l.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Man ütz ta tajin niq'axan ri ruxaq k'amaya'l">
-<!ENTITY redirectLoop.longDesc " <ul> <li>Re jun k'ayewal re' nik'ulwachitäj ruma nachüp o e'aq'aton kik'ulik ri taq kaxlanwey.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Re jun k'ayewal re' nik'ulwachitäj ruma nachüp o e'aq'aton kik'ulik ri taq kaxlanwey.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Anin chi rutzolixik rutzij ri ruk'u'x samaj">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Tanik'oj chi ruk'wan ri ichina nuk'unel ri aq'inoj richin chajinïk, yakon.</li> <li>Ke ri' rik'in jub'a' ruma ri pa rub'eyal runuk'ulem ruk'u'x samaj.</li> </ul>">
