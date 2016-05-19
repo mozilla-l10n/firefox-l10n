@@ -184,9 +184,9 @@
 <!ENTITY pref_category_home "Heim">
 <!ENTITY pref_category_home_summary "Tilpasse startsida.">
 <!ENTITY pref_category_home_panels "Panel">
-
-
-
+<!ENTITY pref_category_home_add_ons "Utvidingar">
+<!ENTITY pref_home_updates2 "Innhaldsoppdateringar">
+<!ENTITY pref_home_updates_enabled "Påslått">
 <!ENTITY pref_home_updates_wifi "Berre med Wi-Fi">
 <!ENTITY pref_category_home_homepage "Startside">
 <!ENTITY home_homepage_title "Vel ei startside">
@@ -221,14 +221,15 @@
 <!ENTITY pref_cookies_not_accept_foreign "Påslått, med unntak for tredjeparts">
 <!ENTITY pref_cookies_disabled "Avslått">
 
-
-
+<!ENTITY pref_category_media "Media">
+<!ENTITY pref_category_developer_tools "Utviklarverktøy">
 
 <!ENTITY pref_tap_to_load_images_title2 "Vis bilde">
 <!ENTITY pref_tap_to_load_images_enabled "Always">
 <!ENTITY pref_tap_to_load_images_data "Berre med Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blokkert">
 
+<!ENTITY pref_show_web_fonts "Vis webskrifter">
 
 
 <!ENTITY pref_tracking_protection_summary3 "Slått på i privat nettlesing">
@@ -285,7 +286,7 @@
 <!ENTITY pref_char_encoding "Teiknkoding">
 <!ENTITY pref_char_encoding_on "Vis meny">
 <!ENTITY pref_char_encoding_off "Ikkje vis meny">
-
+<!ENTITY pref_clear_private_data2 "Slett private data">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Tøm no">
@@ -294,7 +295,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Vel kva for data som skal slettast">
 <!ENTITY pref_plugins "Programtillegg">
 <!ENTITY pref_plugins_enabled "Slå på">
-
+<!ENTITY pref_plugins_tap_to_play2 "Trykk for å spela">
 <!ENTITY pref_plugins_disabled "Avslått">
 <!ENTITY pref_text_size "Tekststorleik">
 <!ENTITY pref_restore_tabs "Gjenopprett faner">
