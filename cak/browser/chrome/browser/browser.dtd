@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Tajin yejaq ri rajowaxïk &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Tok chik pam &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Tanik'oj ri ataqoya'l">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; jaqon">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; tzijïl">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; chi jataq xtutikirisaj ri ximojri'ïl.">
 
 
@@ -333,7 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Xk'is chi richinaxik">
 <!ENTITY appMenuHistory.label "Natab'äl">
 <!ENTITY appMenuHistory.showAll.label "Tik'ut pe ronojel ri natab'äl">
-<!ENTITY appMenuHistory.clearRecent.label "Tiyuj el ri k'ak'a' natab'äl…">
+<!ENTITY appMenuHistory.clearRecent.label "Tiyuj ri k'ak'a' natab'äl…">
 <!ENTITY appMenuHistory.restoreSession.label "Tichojmirisäx ri samaj b'anon kan">
 <!ENTITY appMenuHistory.viewSidebar.label "Titz'et runatab'al Sidebar">
 <!ENTITY appMenuHelp.tooltip "Tijaq ri to'onel MENU">
@@ -703,7 +703,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Re ruxaq k'amaya'l re' k'o itzel taq na'oj chupam (achi'el taq skript) man awichinan ta ri awokem we yatok chupam.">
 <!ENTITY identity.description.activeLoaded2 "Ri taq etamab'äl xke'akomonij rik'in re ruxaq k'amaya'l re', tikirel nikitz'ët juley chik winaqi' (achi'el ewan taq tzij, taq rutzijol, t'im pwäq, ch'aqa' chik).">
 
-<!ENTITY identity.enableMixedContentBlocking.label "Tijaq ri chajinïk">
+<!ENTITY identity.enableMixedContentBlocking.label "Titzij ri chajinïk">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "T">
 <!ENTITY identity.disableMixedContentBlocking.label "Wakami yan tz'apäl ri chajinïk">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "t">
@@ -772,7 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Kek'ut pe taq rutzijol kematz'ib'ab'äl">
 <!ENTITY social.toggleNotifications.accesskey "r">
 
-<!ENTITY social.activated.description "Ri taq samajib'äl <label/> xetzij. Tikirel najalwachij ri taq samajib'äl nik'atzin chawe pa <label class='text-link'> Nuk'üy taq rutz'aqat</label>">
+<!ENTITY social.activated.description "Ri taq samajib'äl <label/> xetzij. Tikirel najalwachij ri taq samajib'äl nik'atzin chawe pa <label class='text-link'> Nuk'üy taq rutz'aqat</label>.">
 <!ENTITY social.activated.undo.label "¡Iy, titzolïx re re'!">
 <!ENTITY social.activated.undo.accesskey "t">
 <!ENTITY social.learnMore.label "Tetamäx ch'aqa' chik…">
@@ -829,7 +829,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "Tichup ruwäch ri chajinïk pa re molojri'ïl re'">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "T">
-<!ENTITY trackingProtection.block2.label "Titzij ri chajinem">
+<!ENTITY trackingProtection.block2.label "Titzij ri chajinïk">
 <!ENTITY trackingProtection.block2.accesskey "T">
 
 <!ENTITY trackingContentBlocked.message "Kanoxïk">
@@ -838,7 +838,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.options "Taq cha'oj">
 <!ENTITY trackingContentBlocked.unblock2.label "Tichup ruwäch ri chajixïk pa re ruxaq k'amaya'l re'">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "T">
-<!ENTITY trackingContentBlocked.block.label "Tijaq ri chajixïk ">
+<!ENTITY trackingContentBlocked.block.label "Titzij ri chajinïk">
 <!ENTITY trackingContentBlocked.block.accesskey "T">
 <!ENTITY trackingContentBlocked.disabled.message "Chupül ri chajixïk chi rij ri kanoxïk">
 

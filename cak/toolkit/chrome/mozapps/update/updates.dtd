@@ -43,9 +43,9 @@
 <!ENTITY  incompatibleList.title          "E k'o taq tz'aqat ri man nikik'äm ta ki'">
 
 <!ENTITY  downloadPage.title              "Tajin niqasäx &brandShortName;">
-<!ENTITY  downloading.intro               "Tajin nuqasaj k'exoj ruwäch…">
+<!ENTITY  downloading.intro               "Tajin niqasäx ri k'exoj ruwäch…">
 <!ENTITY  connecting.label                "Tajin nok pa ruk'u'x samaj kichin ri taq k'exoj ruwäch…">
-<!ENTITY  verificationFailedText.label    "&brandShortName; man xtikïr ta xunik'oj ri rutzil ri  xqasäx yan ri nimirisan k'exoj ruwäch, wakami xtiqasäx  chijun ri pisoj k'exoj ruwäch.">
+<!ENTITY  verificationFailedText.label    "&brandShortName; man xtikïr ta xunik'oj ri rutzil ri  xqasäx yan ri nimirisan k'exoj ruwäch, wakami xtiqasäx chijun ri pisoj k'exoj ruwäch.">
 
 <!ENTITY  viewDetails.tooltip             "Ketz'et ri taq rub'anikil re k'exoj ruwäch re'">
 
