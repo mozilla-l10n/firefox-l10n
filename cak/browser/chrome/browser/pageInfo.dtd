@@ -52,7 +52,7 @@
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Tokisäx ri ruk'amon wi pe">
 <!ENTITY  permAskAlways         "Junelïk tik'utüx pe">
-<!ENTITY  permAllow             "Ruya'ik q'ij">
+<!ENTITY  permAllow             "Tiya' q'ij">
 <!ENTITY  permAllowSession      "Tiya' q'ij pa re molojri'ïl re'">
 <!ENTITY  permBlock             "Tiq'eleb'ëx">
 <!ENTITY  permissionsFor        "Taq ruya'ik q'ij richin:">

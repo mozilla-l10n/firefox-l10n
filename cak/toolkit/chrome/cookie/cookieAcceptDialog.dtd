@@ -9,8 +9,8 @@
 <!ENTITY     props.secure.label             "Titaq chi re:">
 <!ENTITY     props.expires.label            "Xtik'o ruq'ijul:">
 
-<!ENTITY     button.allow.label             "ruya'ik q'ij">
-<!ENTITY     button.allow.accesskey         "r">
+<!ENTITY     button.allow.label             "Tiya' q'ij">
+<!ENTITY     button.allow.accesskey         "T">
 <!ENTITY     button.session.label           "Tiya' q'ij pa re molojri'ïl re'">
 <!ENTITY     button.session.accesskey       "m">
 <!ENTITY     button.deny.label              "Tiq'at">

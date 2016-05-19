@@ -37,7 +37,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Xk'is ruq'ijul ri wuj">
-<!ENTITY notCached.longDesc "<p>Man niq'alajin ta chik pa &brandShortName; jumejyak ri wuj nik'utüx.</p><ul><li>.Achi'el jun rub'eyal richin nichajin, &brandShortName; man nuk'utuj ta chik pa ruyonil chajin taq wuj.</li><li>Tapitz'a' qa pa Titojtob'ëx chik richin nik'utüx chik ri wuj chupam ri k'amaya'l.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Man niq'alajin ta chik pa &brandShortName; jumejyak ri wuj nik'utüx.</p><ul><li>.Achi'el jun rub'eyal richin nichajin, &brandShortName; man nuk'utuj ta chik pa ruyonil chajin taq wuj.</li><li>Tapitz'a' qa pa Titojtob'ëx chik richin nik'utüx chik ri ruwujil k'amaya'l.</li></ul>">
 
 <!ENTITY netOffline.title "Pa rub'eyal majun okem">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Tapitz&apos;a&apos; &quot;Titojtob&apos;ëx chik&quot; richin niq&apos;ax pa majun okem chuqa&apos; tok chik pa ruxaq.</li> </ul>">
@@ -87,7 +87,7 @@ was trying to connect. -->
 <!ENTITY corruptedContentError.longDesc "<p>Ri ruxaq wuj tajin natojtob'ej natz'ët man tikirel ta nik'ut pe ruma xilitäj jun sachoj toq yeq'alajisäx pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
 
-<!ENTITY securityOverride.exceptionButtonLabel "Ruya'ik jun man okel ta…">
+<!ENTITY securityOverride.exceptionButtonLabel "Titz'aqatisäx jun man relik ta…">
 
 <!ENTITY errorReporting.automatic2 "Taya' kitzijol k'ayewal achi'el re ruwäch re' richin nato' ri Mozilla chi nuya' ketal chuqa' yeruq'ät itzel taq ruxaq k'amaya'l.">
 <!ENTITY errorReporting.learnMore "Tetamäx ch'aqa' chik…">
