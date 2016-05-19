@@ -109,9 +109,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.override "(Ekki öruggt) Prófa að hlaða inn <span class='hostname'></span> á óöruggan hátt">
 
 <!ENTITY certerror.pagetitle1  "Óörugg tenging">
-
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Þetta vefsvæði notar HTTP Strict Transport Security (HSTS) til að skilgreina að &brandShortName; megi aðeins tengjast með öryggum hætti. Það þýðir, að það er ekki hægt að bæta við undantekningu fyrir þetta skilríki.">
+<!ENTITY certerror.copyToClipboard.label "Afrita texta á klemmuspjald">
 
 <!ENTITY inadequateSecurityError.title "Tenging er ekki örugg">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> notast við öryggistækni sem er úreld og ekki lengur örugg. Árásaraðili gæti auðveldlega komist í upplýsingar sem þú telur vera öruggar. Vefumsjónaraðilinn verður að laga miðlarann áður en þú getur heimsótt vefsvæðið .</p><p>Villu kóði: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
