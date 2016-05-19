@@ -53,8 +53,8 @@
 
 <!ENTITY url_bar_default_text2 "Tikanöx chuqa\u0027 titz\u0027ib\u0027äx ri ochochib\u0027äl">
 
-<!ENTITY bookmark "Yaköl etal">
-<!ENTITY bookmark_remove "Tik\u0027am el ri yaköl etal">
+<!ENTITY bookmark "Yaketal">
+<!ENTITY bookmark_remove "Tiyuj el ri yaketal">
 <!ENTITY bookmark_added "Yakäl etal tz\u0027aqatisan">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
@@ -135,7 +135,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
-<!ENTITY overlay_share_bookmark_btn_label "Yaköl etal">
+<!ENTITY overlay_share_bookmark_btn_label "Yaketal">
 <!ENTITY overlay_share_bookmark_btn_label_already "K\u0027o chik pa taq yaketal">
 <!ENTITY overlay_share_send_other "Titaq chi ke ch\u0027aqa\u0027 chik ta okisaxel">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -339,11 +339,11 @@ size. -->
 
 <!ENTITY pref_use_master_password "Tokisäx ri nimaläj ewan tzij">
 <!ENTITY pref_sync2 "Titikirisäx moloj">
-<!ENTITY pref_sync_summary2 "Ke\u0027axima\u0027 kiwäch ri taq awi\u0027, taq yaköl etal, ewan taq tzij chuqa\u0027 k\u0027ulwachinel">
+<!ENTITY pref_sync_summary2 "Ke\u0027axima\u0027 kiwäch ri taq awi\u0027, taq yaketal, ewan taq tzij chuqa\u0027 k\u0027ulwachinel">
 <!ENTITY pref_search_suggestions "Kek\u0027ut pe ri taq chilab\u0027enïk richin yakanon">
 <!ENTITY pref_history_search_suggestions "Tik\u0027ut pe ri k\u0027ulwachinel richin kanoxïk">
 <!ENTITY pref_import_options "Kek\u0027am pe ri taq cha\u0027oj">
-<!ENTITY pref_import_android_summary "Kek\u0027am pe ri taq yaköl etal chuqa\u0027 k\u0027ulwachinel e k\u0027o pa ajnab\u0027ey okik\u0027amaya\u0027l">
+<!ENTITY pref_import_android_summary "Kejik\u0027 pe ri taq yaketal chuqa\u0027 k\u0027ulwachinel e k\u0027o pa ajnab\u0027ey okik\u0027amaya\u0027l">
 <!ENTITY pref_private_data_history2 "Ruk\u0027ulwachinel okem pa k\u0027amaya\u0027l">
 <!ENTITY pref_private_data_searchHistory "Tikanöx k\u0027ulwachinel">
 <!ENTITY pref_private_data_formdata2 "Runojwuj k\u0027ulwachinel">
