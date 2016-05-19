@@ -177,7 +177,7 @@
 <!ENTITY task.from.label                                  "Adalek:" >
 <!ENTITY task.from.accesskey                              "A">
 <!ENTITY event.to.label                                   "&amp;Betek:" >
-<!ENTITY event.to.accesskey                               "l">
+<!ENTITY event.to.accesskey                               "r">
 <!ENTITY task.to.label                                    "Termen:" >
 <!ENTITY task.to.accesskey                                "r">
 <!ENTITY task.status.label                                "Stad:" >
