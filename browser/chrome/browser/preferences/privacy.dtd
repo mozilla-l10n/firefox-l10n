@@ -4,7 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader.label       "Bruk sporingsvern">
 <!ENTITY  trackingProtectionAlways.label       "Alltid">
-<!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionAlways.accesskey   "l">
 <!ENTITY  trackingProtectionPrivate.label      "Berre i private vindauge">
 <!ENTITY  trackingProtectionPrivate.accesskey  "B">
 <!ENTITY  trackingProtectionNever.label        "Aldri">
