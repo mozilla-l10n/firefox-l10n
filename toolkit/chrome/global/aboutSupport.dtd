@@ -105,7 +105,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Probatu modu segurua">
 <!ENTITY aboutSupport.restartInSafeMode.label "Berrabiarazi gehigarriak desgaituta…">
 
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Eginbideak">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostikoak">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Hutsegitearen loga">
+<!ENTITY aboutSupport.graphicsGPU1Title "1. GPUa">
+<!ENTITY aboutSupport.graphicsGPU2Title "2. GPUa">
