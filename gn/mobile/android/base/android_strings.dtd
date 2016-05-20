@@ -152,9 +152,9 @@
 <!ENTITY pref_category_privacy_short "Añoguáva">
 
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-
+<!ENTITY pref_category_vendor_summary2 "About &brandShortName;, FAQs, mongarumeme">
 <!ENTITY pref_category_datareporting "Mba\u0027ekuaarã jeporavorã">
-
+<!ENTITY pref_category_logins "Tembiapo moñepyrũ">
 <!ENTITY pref_learn_more "Eikuaave">
 
 
@@ -166,25 +166,26 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_category_advanced "Opapotáva">
+
+<!ENTITY pref_category_notifications "Ñemomarandu">
+
+<!ENTITY pref_content_notifications "Ñanduti kuatiarogue ñembohekopyahu">
 
 
+<!ENTITY pref_developer_remotedebugging_wifi "Okaygua ñemopotĩ Wi-Fi rupive">
 
+<!ENTITY pref_remember_signons2 "Mandu\u0027a tembiapo ñepyrũ rehe">
+<!ENTITY pref_manage_logins "Eñangareko tembiapo ñepyrũ rehe">
 
+<!ENTITY pref_category_home "Óga">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_category_home_panels "Ta\u0027ãngarupa">
+<!ENTITY pref_category_home_add_ons "Moĩmbahakuéra">
+<!ENTITY pref_home_updates2 "Tetepy ñembohekopyahu">
+<!ENTITY pref_home_updates_enabled "Myendypyre">
+<!ENTITY pref_home_updates_wifi "Wi-Fi rupive añoite">
+<!ENTITY pref_category_home_homepage "Kuatiarogue mba\u0027eguasuvéva">
 
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
