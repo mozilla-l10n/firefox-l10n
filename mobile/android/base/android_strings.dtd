@@ -2,26 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "நல்வரவு">
+<!ENTITY firstrun_panel_title_welcome "நல்வரவு!">
 <!ENTITY  onboard_start_message3 "&brandShortName; மூலம் உலாவுங்கள்">
-<!ENTITY  onboard_start_subtext3 "உங்கள் கைப்பேசி வலைத்தள உலாவல் அனுபவத்தை உங்களுடையதாக்குங்கள்.">
+<!ENTITY  onboard_start_subtext3 "கைப்பேசி உலாவல் அனுபவத்தை உண்மையிலேயே உங்களுடையதாக்குங்கள்.">
 
-<!ENTITY firstrun_urlbar_message "&brandShortName; நல்வரவு">
+<!ENTITY firstrun_urlbar_message "&brandShortName; வருக">
+<!ENTITY firstrun_urlbar_subtext "உதவும் தேடல் பரிந்துரைகளுடன் எளிதில் கண்டுபிடியுங்கள்.">
 
-
-
-
-
-
-
+<!ENTITY firstrun_bookmarks_message "உங்கள் விருப்பமானவை, முன் மற்றும் நடுவே">
+<!ENTITY firstrun_bookmarks_subtext "நீங்கள் தேடுகையில் உங்கள் புத்தகக்குறிகளிலிருந்தும் வரலாறிலிருந்தும் முடிவுகளைப் பெறுங்கள்.">
+<!ENTITY firstrun_data_title "தரவு">
+<!ENTITY firstrun_data_message "குறைந்த தரவு, நிறைய சேமிப்பு">
+<!ENTITY firstrun_data_subtext2 "நீங்கள் எல்லா தளங்களிலும் குறைந்த தரவை செலவிட படங்களை அணையுங்கள்.">
 <!ENTITY firstrun_sync_title "ஒத்திசை">
+<!ENTITY firstrun_sync_message "&brandShortName;, எப்போதும் உங்கள் பக்கம்">
+<!ENTITY firstrun_sync_subtext "உங்கள் கீற்றுகள், கடவுச்சொற்கள், மேலும் பலவற்றை நீங்கள் பயன்படுத்தும் எல்லா இடங்களிலும் ஒத்திசையுங்கள்.">
+<!ENTITY firstrun_signin_message "இணையுங்கள், தொடங்குங்கள்">
+<!ENTITY firstrun_signin_button "ஒத்திசைக்க உள்நுழை">
+<!ENTITY  onboard_start_button_browser "உலாவத் தொடங்குக">
 
 
-
-
-<!ENTITY  onboard_start_button_browser "உலாவ தொடங்கவும்">
-
-
+<!ENTITY  onboard_start_restricted1 "எளிமையாக்கப்பட்ட &brandShortName; உடன் பாதுகாப்பாகவும் கட்டுப்பாட்டிலும் இருங்கள்.">
 
 
 
@@ -34,7 +35,7 @@
 
 <!ENTITY  recent_tabs_title "அண்மைய கீற்றுகள்">
 
-<!ENTITY  switch_to_tab "கீற்றுக்கு மாற்று">
+<!ENTITY  switch_to_tab "கீற்றுக்கு தாவு">
 
 <!ENTITY  crash_reporter_title "&brandShortName; சிதைவு அறிக்கையாளர்">
 <!ENTITY  crash_message2 "&brandShortName; சிதைவடைந்துள்ளது. &brandShortName;ஐ மீள்துவங்கும் போது உங்கள் கீற்றுகள் துவக்கப் பக்கத்தில் பட்டியலிடப்பட்டிருக்கும்.">
@@ -57,6 +58,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "புத்தகக்குறி ஏற்கனவே உள்ளது">
 <!ENTITY bookmark_removed "புத்தகக்குறி நீக்கப்பட்டது">
 <!ENTITY bookmark_updated "புத்தகக்குறி புதுப்பிக்கப்பட்டது">
 <!ENTITY bookmark_options "விருப்பங்கள்">
@@ -72,8 +74,8 @@
 
 <!ENTITY history_today_section "இன்று">
 <!ENTITY history_yesterday_section "நேற்று">
-
-
+<!ENTITY history_week_section3 "கடந்த 7 நாட்கள்">
+<!ENTITY history_older_section3 "6 மாதங்களுக்கு முந்தையவை">
 
 <!ENTITY search "தேடு">
 <!ENTITY reload "மீளேற்று">
@@ -102,6 +104,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "ஒலியை இயக்குகிறது – &formatS;">
 
 <!ENTITY settings "அமைப்புகள்">
 <!ENTITY settings_title "அமைப்புகள்">
@@ -144,7 +147,7 @@
 
 <!ENTITY pref_category_search3 "தேடு">
 
-
+<!ENTITY pref_category_accessibility "அணுகுத்திறன்">
 
 <!ENTITY pref_category_privacy_short "தனியுரிமை">
 
@@ -169,9 +172,9 @@
 
 
 
-
-
-
+<!ENTITY pref_developer_remotedebugging_usb "USB மூலமாக தொலைநிலை வழுநீக்கல்">
+<!ENTITY pref_developer_remotedebugging_wifi "வை-பை ஊடாக வழுநீக்கம்">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "வை-பை ஊடாக வழுநீக்க உங்கள் கருவியில் QR குறி படிக்கும் செயலி நிறுவப்பட்டிருக்க வேண்டும்.">
 <!ENTITY pref_remember_signons2 "புகுபதிகைகளை நினைவில்கொள்">
 <!ENTITY pref_manage_logins "உள்நுழைவுகளை நிர்வகி">
 
@@ -182,8 +185,8 @@
 
 <!ENTITY pref_home_updates_enabled "செயல்படுத்தப்பட்டது">
 <!ENTITY pref_home_updates_wifi "வை-பை வழியாக மட்டும்">
-
-
+<!ENTITY pref_category_home_homepage "முகப்புப்பக்கம்">
+<!ENTITY home_homepage_title "முகப்பை அமைக்கவும்">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -191,15 +194,17 @@
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "தனிப்பயன்">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "முகவரி அல்லது தேடல் சொல்லை உள்ளிடு">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_privacy_short "தனியுரிமை">
-
+<!ENTITY pref_header_accessibility "அணுகுத்திறன்">
 
 
 <!ENTITY pref_header_help "உதவி">
@@ -213,21 +218,24 @@
 
 
 
+<!ENTITY pref_tap_to_load_images_title2 "படங்களைக் காட்டு">
 
 
+<!ENTITY pref_tap_to_load_images_disabled2 "தடுக்கப்பட்டது">
+
+<!ENTITY pref_show_web_fonts "இணைய எழுத்துருக்களைக் காட்டு">
 
 
-
-
-
+<!ENTITY pref_tracking_protection_summary3 "தனிப்பட்ட உலாவு முறையில் உள்ளது">
 <!ENTITY pref_donottrack_title "தடமறிய வேண்டாம்">
 <!ENTITY pref_donottrack_summary "&brandShortName; தளங்களிடம் உங்களை தடமறிய வேண்டாம் என தெரிவிக்கும்">
 
+<!ENTITY pref_tracking_protection_enabled_pb "தனிப்பட்ட உலாவு முறையில் உள்ளது">
 
 
 
 
-
+<!ENTITY tracking_protection_prompt_title "தடமறியல் பாதுகாப்புடன் உள்ளது">
 
 
 
