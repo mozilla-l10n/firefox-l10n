@@ -160,3 +160,4 @@
      the inspector toolbar for the button that lets users add elements to the
      DOM (as children of the currently selected element). -->
 <!ENTITY inspectorAddNode.label       "Vytvoriť nový uzol">
+<!ENTITY inspectorAddNode.accesskey   "V">
