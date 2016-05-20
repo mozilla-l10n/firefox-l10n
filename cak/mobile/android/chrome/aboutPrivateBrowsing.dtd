@@ -14,12 +14,12 @@
 <!ENTITY privatebrowsingpage.title.normal1 "Man atokinäq ta jun ichinan okem pa k'amaya'l">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; yeruq'ät jujun taq peraj chi re ri ruxaq, ri yetikïr nikikanoj ri asamaj pa okimaya'l.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Majun achike xtiqanataj ri k'o chupam ri ak'ulwachixel, xa xe chi ri taq yakb'äl xe'aqasaj chuqa' ri k'ak'a' taq yaketal xeyake' pa ri awokisaxel.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Majun achike xtiqanataj ri k'o chupam ri anatab'al, xa xe chi ri taq yakb'äl xe'aqasaj chuqa' ri k'ak'a' taq yaketal xeyake' pa ri awokisaxel.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 
-<!ENTITY privatebrowsingpage.description.normal2 "Pa ri ichinam okem pa k'amaya'l, man yeyake' ta ri ak'ulwachixel richin okem pa k'amaya'l chuqa' ri taq kaxlanwey. Ri taq yaketal xke'atz'aqatisaj chuqa' ri taq yakb'äl xke'aqasaj xkeyake' pa ri awokisaxel.">
+<!ENTITY privatebrowsingpage.description.normal2 "Pa ri ichinam okem pa k'amaya'l, man yeyake' ta ri anatab'al richin okem pa k'amaya'l chuqa' ri taq kaxlanwey. Ri taq yaketal xke'atz'aqatisaj chuqa' ri taq yakb'äl xke'aqasaj xkeyake' pa ri awokisaxel.">
 
 <!ENTITY privatebrowsingpage.link.private "¿La nawajo' nawetamaj juley chik?">
 <!ENTITY privatebrowsingpage.link.normal "Tijaq jun k'ak'a' ichinan ruwi'">

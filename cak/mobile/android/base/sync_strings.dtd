@@ -18,7 +18,7 @@
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.passwords2 "Kitikirisaxik taq moloj">
-<!ENTITY sync.configure.engines.title.history "K\u0027ulwachinel">
+<!ENTITY sync.configure.engines.title.history "Natab\u0027äl">
 <!ENTITY sync.configure.engines.title.tabs "Taq ruwi\u0027">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -67,7 +67,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; b\u0027anon runuk\u0027ulem, xa xe chi man nuxïm ta ri\u0027 pa ruyonil. Tacha\u0027 “Kexim taq tzij pa ruyonil” pa ri runuk\u0027ulem Android &gt; Kokisaxik taq tzij.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tapitz\u0027a\u0027 richin yatok chupam ri k\u0027ak\u0027a\u0027 rub\u0027i\u0027 ataqoya\u0027l richin Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Yakäl taq etal">
-<!ENTITY fxaccount_status_history "K\u0027ulwachinel">
+<!ENTITY fxaccount_status_history "Natab\u0027äl">
 <!ENTITY fxaccount_status_passwords2 "Kitikirisaxik taq moloj">
 <!ENTITY fxaccount_status_tabs "Jaqon taq ruwi\u0027">
 <!ENTITY fxaccount_status_legal "Taqanel tzijol" >

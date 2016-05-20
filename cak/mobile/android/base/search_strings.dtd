@@ -18,9 +18,9 @@
 <!ENTITY search_pref_title "Runuk\u0027ulem">
 <!ENTITY search_pref_button_content_description "Runuk\u0027ulem">
 
-<!ENTITY pref_clearHistory_confirmation "Xjosq\u0027ïx ri k\u0027ulwachinel">
-<!ENTITY pref_clearHistory_dialogMessage "¿Tiyuj el ronojel ri ruk\u0027ulwachinel kanoxïk pa re okisaxel re\u0027?">
-<!ENTITY pref_clearHistory_title "Tijosq\u0027ïx ruk\u0027ulwachinel k\u0027anoxïk">
+<!ENTITY pref_clearHistory_confirmation "Xjosq\u0027ïx ri natab\u0027äl">
+<!ENTITY pref_clearHistory_dialogMessage "¿Tiyuj el ronojel ri runatab\u0027al kanob\u0027äl pa re okisaxel re\u0027?">
+<!ENTITY pref_clearHistory_title "Tijosq\u0027ïx runatab\u0027al kanob\u0027äl">
 
 <!ENTITY search_widget_button_label "Tikanöx">
 
