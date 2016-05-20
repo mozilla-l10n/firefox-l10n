@@ -222,7 +222,7 @@
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Habilitado">
-<!ENTITY pref_cookies_not_accept_foreign "Hbilitado, excluindo os de terceiros">
+<!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluindo os de terceiros">
 <!ENTITY pref_cookies_disabled "Desabilitado">
 
 <!ENTITY pref_category_data_saver "Proteção de dados">
