@@ -14,7 +14,7 @@
 <!ENTITY kb.label "kB">
 <!ENTITY daysOld.label "dni">
 <!ENTITY message.label "sporočil">
-<!ENTITY nntpNotDownloadRead.label "beri sporočila">
+<!ENTITY nntpNotDownloadRead.label "prebranih sporočil">
 <!ENTITY nntpNotDownloadRead.accesskey "b">
 <!ENTITY nntpDownloadMsg.label "sporočil starejših od">
 <!ENTITY nntpDownloadMsg.accesskey "a">
@@ -27,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "š">
 <!ENTITY retentionKeepRecent.label "Izbriši vse, razen najnovejših">
 <!ENTITY retentionKeepRecent.accesskey "s">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Vedno izbriši prebrana sporočila (preglasi nastavitve o starosti)">
 <!ENTITY retentionApplyToFlagged.label "Vedno ohrani sporočila z zvezdico">
 <!ENTITY retentionApplyToFlagged.accesskey "V">
 <!ENTITY nntpRemoveMsgBody.label "Odstrani telesa iz sporočil, ki so starejša od">
