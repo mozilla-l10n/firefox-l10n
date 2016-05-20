@@ -621,7 +621,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Xejosq\u0027ïx ri ichinan taq tzij">
 <!ENTITY private_data_fail "Jujun taq ichinan tzij man tikirel ta yejosq\u0027ïx el">
 
-<!ENTITY bookmarkhistory_button_import "Tik\u0027am pe">
+<!ENTITY bookmarkhistory_button_import "Tijik\u0027 pe">
 <!ENTITY bookmarkhistory_import_both "Kejik\u0027 pe ri taq yaketal chuqa\u0027 natab\u0027äl pan Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Kek\u0027wäx el ri taq yakäl etal chuwäch ri Android">
 <!ENTITY bookmarkhistory_import_history "Tijik\u0027 pe ri natab\u0027äl pan Android">

@@ -18,7 +18,7 @@
 <!ENTITY aboutPage.rights.label                 "Ke'awetamaj kiwäch ach'ojib'al">
 <!ENTITY aboutPage.relNotes.label               "Ruch'utitzijol taluxïk">
 <!ENTITY aboutPage.credits.label                "Kib'i' to'onela'">
-<!ENTITY aboutPage.license.label                "Etamab'äl chi rij ya'öl q'ij">
+<!ENTITY aboutPage.license.label                "Na’oj chi rij ya'öl q’ij">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
 <!ENTITY aboutPage.logoTrademark                "Firefox chuqa' ri taq ruwachib'al rub'i' Firefox, etz'ib'an pa rub'i' ri Mozilla Moloj.">
