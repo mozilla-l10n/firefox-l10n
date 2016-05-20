@@ -25,7 +25,7 @@
 <!ENTITY  onboard_start_restricted1 "Eguerekóta tekorosã ha ñangarekoha ko apopyre momichĩmbyre &brandShortName; mba\u0027éva.">
 
 <!ENTITY  reading_list_migration_title "Moñe\u0027ẽrã rysýi oikepyréva">
-
+<!ENTITY  reading_list_migration_subtext "Moñe\u0027ẽrã rysýi rembiaporã ndojuapymo\u0027ãi upe reguerohoryvéva rehe">
 <!ENTITY  reading_list_migration_goto_bookmarks "Tereho techaukahápe">
 <!ENTITY  reading_list_migration_bookmarks_hidden "Ne techaukaha ra\u0027ãngarupa okañyhína">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -62,11 +62,12 @@
 <!ENTITY bookmark_removed "Mongurusu mboguepyre">
 <!ENTITY bookmark_updated "Techaukaha mbojuapypyre">
 <!ENTITY bookmark_options "Jeporavorã">
-
+<!ENTITY screenshot_added_to_bookmarks "Mba\u0027erechaha japyhy ojuajúva techaukaha rehe">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-
+<!ENTITY screenshot_folder_label_in_bookmarks "Ta\u0027ãngakuéra">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Moñe\u0027ẽrã rysýi">
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -112,40 +113,45 @@
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
-
+<!ENTITY pref_category_language_summary "Emoambue ne kundahára ñe\u0027ẽ">
+<!ENTITY pref_browser_locale "Kundahára ñe\u0027ẽ">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "Apopyvusu ijypykuéva">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "&brandShortName; moñepyrũjey">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Techaukaha">
 <!ENTITY overlay_share_bookmark_btn_label_already "Mongurusupyre">
-
+<!ENTITY overlay_share_send_other "Emondo ambue mba\u0027e\u0027okápe">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
 <!ENTITY overlay_share_send_tab_btn_label "Emondo ambue mba\u0027e\u0027okápe">
-
-
+<!ENTITY overlay_share_no_url "Ndojejuhúi ko juajuhápe">
+<!ENTITY overlay_share_select_device "Eiporavo pe mba\u0027e\u0027oka">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Ndaipóri mba\u0027e\u0027oka oikepyréva Firefox mba\u0027etépe">
 
 <!ENTITY pref_category_search3 "Heka">
 
 <!ENTITY pref_category_accessibility "Jeikekuaa">
-
+<!ENTITY pref_category_accessibility_summary2 "Tuichakue, zoom, ñe\u0027ẽ oikeha">
 <!ENTITY pref_category_privacy_short "Añoguáva">
 
-
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 
 <!ENTITY pref_category_datareporting "Mba\u0027ekuaarã jeporavorã">
 
