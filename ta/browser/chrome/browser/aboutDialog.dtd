@@ -46,6 +46,7 @@
 <!ENTITY helpus.getInvolvedLink     "பங்குபெறுங்கள்!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "புதியவைகள்">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "உரிம தகவல்">
