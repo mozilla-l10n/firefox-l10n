@@ -7,3 +7,5 @@
 
 <!ENTITY searchBox.placeholder         "Filter items">
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
+
+<!ENTITY storage.popupMenu.deleteAllLabel "Delete All">
