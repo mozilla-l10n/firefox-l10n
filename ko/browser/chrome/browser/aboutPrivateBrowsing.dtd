@@ -7,6 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "사생활 보호 창">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "저장하지 않음">
 <!ENTITY aboutPrivateBrowsing.info.searches              "검색">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "쿠키">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "임시 파일">
