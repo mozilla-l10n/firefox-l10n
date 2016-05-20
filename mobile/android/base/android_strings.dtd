@@ -262,7 +262,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Du kan senere ændre dette i indstillingerne">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Aktiver Visning over andre apps">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Aktiver Ignorere andre apps">
 <!ENTITY tab_queue_prompt_positive_action_button "Aktiver">
 <!ENTITY tab_queue_prompt_negative_action_button "Ikke nu">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -280,7 +280,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Du skal aktivere tilladelsen \'Visning over andre apps\' i &brandShortName; for at kunne åbne flere links ad gangen.">
+<!ENTITY tab_queue_notification_settings "Du skal aktivere tilladelsen \'Ignorere andre apps\' i &brandShortName; for at kunne åbne flere links ad gangen.">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
