@@ -88,7 +88,7 @@
 <!ENTITY languages.customize.Fallback.greek       "aj Grecia">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.hebrew      "EB'REYO">
+<!ENTITY languages.customize.Fallback.hebrew      "Aj Heb'reya">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.japanese    "Japones">
