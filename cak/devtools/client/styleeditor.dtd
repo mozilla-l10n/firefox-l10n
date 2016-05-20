@@ -14,8 +14,8 @@
 <!ENTITY newButton.tooltip          "Tinuk' chuqa' titz'aqatisäx jun k'ak'a' rub'anikil ruxaq ri wuj">
 <!ENTITY newButton.accesskey        "K">
 
-<!ENTITY importButton.label         "Tik'am pe…">
-<!ENTITY importButton.tooltip       "Tik'am pe chuqa' titz'aqatisäx jun rub'anikil ruxaq ri wuj">
+<!ENTITY importButton.label         "Tijik' pe…">
+<!ENTITY importButton.tooltip       "Tijik' pe chuqa' titz'aqatisäx jun rub'anikil ruxaq ri wuj">
 <!ENTITY importButton.accesskey     "T">
 
 <!ENTITY visibilityToggle.tooltip   "Tijalwachïx rutz'etik ri rub'anikil ruxaq">
@@ -64,4 +64,4 @@
 <!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
      context menu item that opens a stylesheet in a new tab -->
 
-<!ENTITY openLinkNewTab.label     "Tijaq ximonel pa jun k'ak'a' ruwi'">
+<!ENTITY openLinkNewTab.label     "Tijaq ri ximonel pa jun k'ak'a' ruwi'">
