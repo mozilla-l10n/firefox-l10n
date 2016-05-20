@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Huliðsstilling">
 
 <!ENTITY trackingProtection.title                        "Vörn gegn því að fylgst sé með þér">
-
+<!ENTITY trackingProtection.description2                 "Sum vefsvæði nota rekjara sem geta fylgst með notkun þinni á ferð um netið. Með vörn gegn því að fylgst sé með þér getur Firefox lokað á marga rekjara sem geta safnað upplýsingum um vafranotkun þína.">
 <!ENTITY trackingProtection.startTour1                   "Sjá hvernig þetta virkar">
