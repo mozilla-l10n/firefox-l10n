@@ -14,7 +14,7 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "ਖਾਤਾ ਪਰਬੰਧ">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "ਕੋਟਾ ਵੇਖੋ">
+
 <!ENTITY changePassword2.label         "…ਪਾਸਵਰਡ ਬਦਲੋ">
 <!ENTITY myRecoveryKey.label          "ਮੇਰੀ ਰਿਕਵਰੀ ਕੁੰਜੀ">
 <!ENTITY resetSync2.label             "…ਸਿੰਕ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
@@ -28,8 +28,7 @@
 <!ENTITY syncMy.label               "ਸਿੰਕ ਕਰੋ ਮੇਰੇ">
 <!ENTITY engine.bookmarks.label     "ਬੁੱਕਮਾਰਕ">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.readinglist.label   "ਪੜ੍ਹਨ ਸੂਚੀ">
-<!ENTITY engine.readinglist.accesskey "L">
+
 <!ENTITY engine.tabs.label          "ਟੈਬਾਂ">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ਅਤੀਤ">
@@ -44,6 +43,10 @@
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "ਜੰਤਰ ਨਾਂ:">
 <!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY fxaSyncDeviceName.label       "Device Name">
+<!ENTITY changeSyncDeviceName.label "Change Device Name…">
+<!ENTITY cancelChangeSyncDeviceName.label "Cancel">
+<!ENTITY saveChangeSyncDeviceName.label "Save">
 <!ENTITY unlinkDevice.label           "ਇਹ ਜੰਤਰ ਅਣ-ਲਿੰਕ ਕਰੋ">
 
 
@@ -74,7 +77,8 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "ਤੁਸੀਂ ਸਾਇਨ ਇਨ ਨਹੀਂ ਹੋ।">
 <!ENTITY signIn.label                "ਸਾਇਨ ਇਨ">
-<!ENTITY manage.label                "ਪ੍ਰਬੰਧ">
+<!ENTITY profilePicture.tooltip      "Change profile picture">
+<!ENTITY verifiedManage.label        "Manage Account">
 <!ENTITY disconnect.label            "…ਡਿਸ-ਕੁਨੈਕਟ">
 <!ENTITY verify.label                "ਈਮੇਲ ਜਾਂਚ">
 <!ENTITY forget.label                "ਇਹ ਈਮੇਲ ਭੁੱਲ ਜਾਓ">
@@ -84,3 +88,27 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "ਖਾਤਾ ਬਣਾਓ">
 
 <!ENTITY welcome.useOldSync.label "ਸਿੰਕ ਦਾ ਪੁਰਾਣਾ ਵਰਜਨ ਵਰਤ ਰਹੇ ਹੋ?">
+
+<!ENTITY signedOut.caption            "Take your Web with you">
+<!ENTITY signedOut.description        "Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.">
+<!ENTITY signedOut.accountBox.title   "Connect with a &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Create Account">
+<!ENTITY signedOut.accountBox.signin  "Sign In">
+
+<!ENTITY signedIn.engines.label       "Sync across all devices">
+
+<!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
+     create a single sentence with active links.
+     The resulting sentence in English is: "Download Firefox for
+     Android or iOS to sync with your mobile device." -->
+
+<!ENTITY mobilePromo3.start            "Download Firefox for ">
+<!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo3.androidLink      "Android">
+
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
+<!ENTITY mobilePromo3.iOSBefore         " or ">
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo3.iOSLink          "iOS">
+
+<!ENTITY mobilePromo3.end              " to sync with your mobile device.">

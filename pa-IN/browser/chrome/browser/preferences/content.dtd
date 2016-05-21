@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "ਪੋਪਅੱਪ ਵਿੰਡੋ ਬਲਾਕ ਕਰੋ">
 <!ENTITY  blockPopups.accesskey       "B">
+<!ENTITY  notificationsPolicy.label            "Notifications">
+<!ENTITY  notificationsPolicyLearnMore.label   "Learn more">
+<!ENTITY  notificationsPolicyDesc3.label       "Choose which sites are allowed to send you notifications">
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "Choose…">
+<!ENTITY  notificationsDoNotDisturb.label      "Do not disturb me">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
+<!ENTITY  notificationsDoNotDisturbDetails.value "No notification will be shown until you restart &brandShortName;">
 <!ENTITY  popupExceptions.label       "…ਛੋਟ">
 <!ENTITY  popupExceptions.accesskey   "E">
 

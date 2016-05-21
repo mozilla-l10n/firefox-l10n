@@ -11,15 +11,16 @@
 <!-- LOCALIZATION NOTE (browserStylesLabel): This is the label for the checkbox
   -  that specifies whether the styles that are not from the user's stylesheet
   -  should be displayed or not. -->
-<!ENTITY browserStylesLabel    "ਬਰਾਊਜ਼ਰ ਸਟਾਈਲ">
+<!ENTITY browserStylesLabel    "Browser styles">
 
 <!-- LOCALIZATION NOTE (filterStylesPlaceholder): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
-<!ENTITY filterStylesPlaceholder      "ਫਿਲਟਰ ਸਟਾਈਲ">
+<!ENTITY filterStylesPlaceholder      "Filter Styles">
 
 <!-- LOCALIZATION NOTE (addRuleButtonTooltip): This is the tooltip shown when
   -  hovering the `Add new rule` button in the rules view toolbar. This should
   -  match ruleView.contextmenu.addNewRule in styleinspector.properties -->
+<!ENTITY addRuleButtonTooltip  "Add new rule">
 
 <!-- LOCALIZATION NOTE (selectedElementLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
@@ -29,6 +30,7 @@
 <!-- LOCALIZATION NOTE (togglePseudoClassPanel): This is the tooltip
   -  shown when hovering over the `Toggle Pseudo Class Panel` button in the
   -  rule view toolbar. -->
+<!ENTITY togglePseudoClassPanel  "Toggle pseudo-classes">
 
 <!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
   -  properties to display e.g. due to search criteria this message is
@@ -37,4 +39,4 @@
 
 <!-- FIXME: notes -->
 <!ENTITY computedViewTitle     "Computed">
-<!ENTITY ruleViewTitle         "ਨਿਯਮ">
+<!ENTITY ruleViewTitle         "Rules">

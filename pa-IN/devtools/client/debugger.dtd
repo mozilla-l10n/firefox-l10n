@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton.tooltip): This is the tooltip for
   -  the button that closes the debugger UI. -->
-<!ENTITY debuggerUI.closeButton.tooltip "ਬੰਦ ਕਰੋ">
+<!ENTITY debuggerUI.closeButton.tooltip "Close">
 
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
@@ -50,13 +50,17 @@
   -  button that toggles all breakpoints for all sources. -->
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Enable/disable all breakpoints">
 
+<!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
+  -  tooltip for the button that toggles the promise debugger. -->
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Toggle Promise Debugger">
+
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 <!ENTITY debuggerUI.startTracing "Start Tracing">
 
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
-<!ENTITY debuggerUI.clearButton "ਸਾਫ਼ ਕਰੋ">
+<!ENTITY debuggerUI.clearButton "Clear">
 
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
@@ -103,7 +107,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
-<!ENTITY debuggerUI.searchPanelOperators    "ਓਪਰੇਟਰ:">
+<!ENTITY debuggerUI.searchPanelOperators    "Operators:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
@@ -126,13 +130,13 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
-<!ENTITY debuggerUI.searchToken           "ਲੱਭੋ">
+<!ENTITY debuggerUI.searchToken           "Find">
 <!ENTITY debuggerUI.searchToken.key       "F">
 <!ENTITY debuggerUI.searchToken.accesskey "F">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
-<!ENTITY debuggerUI.searchGoToLine           "…ਲਾਈਨ ਉੱਤੇ ਜਾਓ">
+<!ENTITY debuggerUI.searchGoToLine           "Go to Line…">
 <!ENTITY debuggerUI.searchGoToLine.key       "L">
 <!ENTITY debuggerUI.searchGoToLine.accesskey "L">
 
@@ -163,9 +167,15 @@
 <!ENTITY debuggerUI.seMenuCondBreak     "Add Conditional Breakpoint">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+  -  appears in the source editor context menu for editing a breakpoint. -->
+<!ENTITY debuggerUI.seEditMenuCondBreak     "Edit Conditional Breakpoint">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
+
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
-<!ENTITY debuggerUI.tabs.sources        "ਸਰੋਤ">
+<!ENTITY debuggerUI.tabs.workers        "Workers">
+<!ENTITY debuggerUI.tabs.sources        "Sources">
 <!ENTITY debuggerUI.tabs.traces         "Traces">
 <!ENTITY debuggerUI.tabs.callstack      "Call Stack">
 <!ENTITY debuggerUI.tabs.variables      "Variables">
@@ -203,12 +213,12 @@
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
-<!ENTITY debuggerUI.context.newTab           "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
+<!ENTITY debuggerUI.context.newTab           "Open in New Tab">
 <!ENTITY debuggerUI.context.newTab.accesskey "O">
 
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
-<!ENTITY debuggerUI.context.copyUrl           "URL ਕਾਪੀ ਕਰੋ">
+<!ENTITY debuggerUI.context.copyUrl           "Copy URL">
 <!ENTITY debuggerUI.context.copyUrl.accesskey "C">
 <!ENTITY debuggerUI.context.copyUrl.key "C">
