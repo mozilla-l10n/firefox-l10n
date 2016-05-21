@@ -95,14 +95,7 @@
 <!ENTITY remoteXUL.title "ਰਿਮੋਟ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ਇਸ ਸਮੱਸਿਆ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਵੈੱਬਸਾਈਟ ਮਾਲਕਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul></p>">
 
-
 <!ENTITY inadequateSecurityError.title "Your connection is not secure">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
-
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;

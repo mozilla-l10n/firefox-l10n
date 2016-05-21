@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "ਬੰਦ">
 <!ENTITY addonAction.uninstall                  "ਅਣ-ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY addonAction.undo                       "ਵਾਪਸ ਲਵੋ">
+
+<!ENTITY addonUnsigned.message                  "This add-on could not be verified by &brandShortName;.">
+<!ENTITY addonUnsigned.learnMore                "Learn more">

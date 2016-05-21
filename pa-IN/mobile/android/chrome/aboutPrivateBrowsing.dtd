@@ -2,12 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ">
+<!ENTITY privatebrowsingpage.title "Private Browsing">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "ਤੁਸੀਂ ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਖੋਲ੍ਹ ਸਕਦੇ ਹੋ।">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਵਿੱਚ ਨਹੀਂ ਹੋ।">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!ENTITY privatebrowsingpage.title.private "+ Tracking Protection">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "You are not in Private Browsing">
 
-<!ENTITY privatebrowsingpage.description            "ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਵਿੱਚ, &brandShortName; ਕੋਈ ਵੀ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੀਤ, ਖੋਜ ਅਤੀਤ, ਡਾਊਨਲੋਡ ਅਤੀਤ, ਵੈੱਬ ਫਾਰਮ ਅਤੀਤ, ਕੂਕੀਜ਼ ਜਾਂ ਆਰਜ਼ੀ ਇੰਟਰਨੈੱਟ ਫਾਇਲਾਂ ਨਹੀਂ ਰੱਖੇਗਾ। ਪਰ ਤੁਹਾਡੇ ਵਲੋਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਇਲਾਂ ਤੇ ਬਣਾਏ ਗਏ ਬੁੱਕਮਾਰਕ ਰੱਖੇਗਾ ਜਾਣਗੇ।">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; blocks parts of the pages that may track your browsing activity.">
+<!ENTITY privatebrowsingpage.description.privateDetails "We won't remember any history, but downloaded files and new bookmarks will still be saved to your device.">
 
-<!ENTITY privatebrowsingpage.moreInfo               "ਜਦੋਂ ਕਿ ਇਹ ਜੰਤਰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੀਤ ਨੂੰ ਰਿਕਾਰਡ ਨਹੀਂ ਕਰੇਗਾ, ਪਰ ਤੁਹਾਡਾ ਇੰਟਰਨੈੱਟ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਾ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੇ ਪੇਜ਼ਾਂ ਬਾਰੇ ਸੁਰਾਗ ਰੱਖ ਸਕਦਾ ਹੈ।">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing is capitalized in English to be consistent with our existing uses
+     of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "In Private Browsing, we won't keep any of your browsing history or cookies. Bookmarks you add and files you download will still be saved on your device.">
+
+<!ENTITY privatebrowsingpage.link.private "Want to learn more?">
+<!ENTITY privatebrowsingpage.link.normal "Open a new private tab">
