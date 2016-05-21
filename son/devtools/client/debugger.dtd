@@ -169,10 +169,12 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 
+<!ENTITY debuggerUI.seEditMenuCondBreak     "Sarti kayri doo foo fasal">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
-<!ENTITY debuggerUI.tabs.workers        "Goykey">
+<!ENTITY debuggerUI.tabs.workers        "Workers">
 <!ENTITY debuggerUI.tabs.sources        "Aššiley">
 <!ENTITY debuggerUI.tabs.traces         "Ceebandey">
 <!ENTITY debuggerUI.tabs.callstack      "Ciyari dekeri">
