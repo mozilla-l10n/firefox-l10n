@@ -97,11 +97,14 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "தொலைநிலை XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>இந்த பிரச்னையை தெரியபடுத்த வலைதள உரிமையாளரை தொடர்புகொள்ளவும்.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "பாதுகாப்பாக இணைக்க இயலவில்லை">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "அதிக தகவல்: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "மேம்பட்ட தகவல்: SSL_ERROR_NO_CYPHER_OVERLAP">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

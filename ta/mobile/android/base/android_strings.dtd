@@ -707,25 +707,36 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "வரலாற்றைத் துடை">
 <!ENTITY restrictable_feature_clear_history_description "குடும்ப உறுப்பினர்களை அவர்கள் பார்த்த பக்கங்கள் மற்றும் தளங்கள் குறித்த விவரங்களை அழிக்க அனுமதிக்கிறது.">
 <!ENTITY restrictable_feature_advanced_settings "மேம்பட்ட அமைவுகள்">
-
-
-
-
-
+<!ENTITY restrictable_feature_advanced_settings_description "இது புத்தக்குறிகளை இறக்கல், கீற்றுகளை மீட்டல் மற்றும் தானியங்கு மேம்படுத்தல்களை உள்ளடக்கியது. எந்த குடும்ப உறுப்பினருக்கும் ஏற்ற எளிய அமைவுகளை முடக்கவும்.">
+<!ENTITY restrictable_feature_camera_microphone "படக்கருவி &amp; ஒலிவாங்கி">
+<!ENTITY restrictable_feature_camera_microphone_description "குடும்ப உறுப்பினர்கள் இணையதளங்களுடன் எப்போதும் தொடர்பிலிருக்க அனுமதிக்கிறது.">
+<!ENTITY restrictable_feature_block_list "தடைப்பட்டியல்">
+<!ENTITY restrictable_feature_block_list_description "உணர்ச்சிகரமான உள்ளடக்கம் கொண்ட தளங்களை தடு.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "பயர்பாக்ஸ்: உலாவியைப் பற்றி">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "பயர்பாக்ஸ்: கூடுதல் இணைப்புகளுடன் தனிபயனாக்கம்">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "பயர்பாக்ஸ்: ஆதரவு">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "ஆண்ட்ராய்டு பலகைக்கணிகளில் தடைசெய்யப்பட்ட பயனருக்கான Firefox உதவி மற்றும் ஆதரவு">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "இணையத்தைப் பற்றி அறிய: மொசில்லா Webmaker">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "மன்னிக்கவும்! &brandShortName; இது கருவிகளில் (&formatS1;, &formatS2;) வேலை செய்யாது. சரியான பதிப்பைத் பதிவிறக்குக.">
+
+<!ENTITY eol_notification_title2 "&brandShortName; இனி புதுப்பிக்காது">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; இற்றைப்படுத்தப்பட்டுள்ளது">
+<!ENTITY whatsnew_notification_summary "இந்த பதிப்பில் என்ன புதியது என காண்">
 
 
 

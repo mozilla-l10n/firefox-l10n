@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "நிறுவுல் நீக்கு">
 <!ENTITY addonAction.undo                       "மறை">
 
+<!ENTITY addonUnsigned.message                  "&brandShortName; ஆல் இந்த கூடுதல் இணைப்பை பரிசோதிக்க இயலவில்லை.">
 <!ENTITY addonUnsigned.learnMore                "மேலும் அறிய">
