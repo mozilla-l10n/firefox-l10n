@@ -180,7 +180,7 @@
 <!ENTITY listPropsCmd.label "Lijsteigenschappen…">
 <!ENTITY listPropsCmd.accesskey "L">
 
-<!ENTITY ParagraphSelect.tooltip "Alineaopmaak kiezen">
+<!ENTITY ParagraphSelect.tooltip "Een alineaopmaak kiezen">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Tekst">
 <!ENTITY bodyTextCmd.accesskey "T">
