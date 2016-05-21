@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Account manager window for Instantbird -->
+
+<!ENTITY accounts.title                      "Konti - &brandShortName;">
 <!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
 <!ENTITY accountsWindow.title                "Tūlītējās ziņojumapmaiņas statuss">
@@ -12,7 +14,9 @@
 
 
 <!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Vēl nav konfigurēts neviens konts">
 
 
 
@@ -28,10 +32,10 @@
 <!ENTITY account.movedown.label       "Pārvietot lejup">
 
 
+<!ENTITY account.copyDebugLog.label     "Kopēt atkļūdošanas žurnālu">
+<!ENTITY account.copyDebugLog.accesskey "K">
 
 
-
-
-
-
-
+<!ENTITY account.connecting           "Savienojas...">
+<!ENTITY account.disconnecting        "Atvienojas…">
+<!ENTITY account.disconnected         "Nav savienots">
