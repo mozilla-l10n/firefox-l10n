@@ -9,6 +9,7 @@
 <!ENTITY select.all.label "Wszystkie rodzaje danych">
 <!ENTITY select.cookies.label "Tylko ciasteczka">
 <!ENTITY select.permissions.label "Tylko uprawnienia">
+<!ENTITY select.permissionspwd.label "Tylko uprawnienia zapisywania haseł">
 <!ENTITY select.preferences.label "Tylko preferencje">
 <!ENTITY select.passwords.label "Tylko hasła">
 <!ENTITY select.storage.label "Tylko dane">
@@ -27,6 +28,7 @@
 
 <!ENTITY tab.cookies.label "Ciasteczka">
 <!ENTITY tab.permissions.label "Uprawnienia">
+<!ENTITY tab.permissionspwd.label "Uprawnienia zapisywania haseł">
 <!ENTITY tab.preferences.label "Ustawienia">
 <!ENTITY tab.passwords.label "Hasła">
 <!ENTITY tab.storage.label "Dane offline">
@@ -73,6 +75,15 @@
 <!ENTITY perm.host.placeholder "Wprowadź nazwę hosta">
 <!ENTITY perm.button.add.label "Dodaj">
 <!ENTITY perm.button.add.accesskey "D">
+
+<!-- password permissions -->
+<!ENTITY permpwd.UseDefault "Użyj domyślnych">
+<!ENTITY permpwd.AskAlways "Zawsze pytaj">
+<!ENTITY permpwd.NeverSave "Nigdy nie zapisuj">
+
+<!ENTITY permpwd.host.placeholder "Wprowadź nazwę hosta">
+<!ENTITY permpwd.button.add.label "Dodaj">
+<!ENTITY permpwd.button.add.accesskey "D">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Ustawienia zawartości są dla programu &brandShortName; sposobem zapisywania osobnych ustawień dla poszczególnych witryn.">
@@ -143,6 +154,8 @@
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Uprawnienia">
 <!ENTITY forget.permissions.accesskey "r">
+<!ENTITY forget.permissionspwd.label "Uprawnienia zapisywania haseł">
+<!ENTITY forget.permissionspwd.accesskey "a">
 <!ENTITY forget.preferences.label "Ustawienia zawartości">
 <!ENTITY forget.preferences.accesskey "t">
 <!ENTITY forget.passwords.label "Hasła">
@@ -150,7 +163,7 @@
 <!ENTITY forget.storage.label "Dane">
 <!ENTITY forget.storage.accesskey "D">
 <!ENTITY forget.formdata.label "Dane formularzy">
-<!ENTITY forget.formdata.accesskey "F">
+<!ENTITY forget.formdata.accesskey "f">
 
 <!ENTITY forget.button.label "Usuń te dane">
 <!ENTITY forget.button.accesskey "s">

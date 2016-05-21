@@ -17,7 +17,6 @@
 
 <!ENTITY search.placeholder "Szukaj w ciasteczkach">
 <!ENTITY focusSearch.key "f">
-<!ENTITY windowClose.key "w">
 <!ENTITY selectAll.key "a">
 
 <!ENTITY props.name.label "Nazwa:">
@@ -28,10 +27,9 @@
 <!ENTITY props.expires.label "Wygasa:">
 
 <!ENTITY treehead.sitename.label "Witryna">
+<!ENTITY treehead.scheme.label "Schemat">
 <!ENTITY treehead.status.label "Status">
 <!ENTITY windowtitle.label "Menedżer ciasteczek">
-<!ENTITY buttonaccept.label "Zamknij">
-<!ENTITY buttonaccept.accesskey "k">
 
 <!ENTITY blockSite.label "Blokuj">
 <!ENTITY blockSite.accesskey "B">
