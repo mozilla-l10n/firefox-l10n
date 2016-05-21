@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate                 "Actualmente no se encuentra en una ventana privada.">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Actualmente no estás en una ventana privada.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Abrir una ventana privada">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "Navegación privada">
 <!ENTITY privateBrowsing.title.tracking                  "Navegación privada con protección de seguimiento">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Cuando navega en una ventana privada, Firefox">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Cuando navega en una ventana privada, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "no guarda">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "Páginas visitadas">
@@ -17,15 +17,15 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Archivos temporales">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "si guarda">
-<!ENTITY aboutPrivateBrowsing.info.saved.after2          " sus:">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " tus:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Marcadores">
 <!ENTITY aboutPrivateBrowsing.note.before                "La navegación privada ">
-<!ENTITY aboutPrivateBrowsing.note.emphasize             "no le deja anónimo">
-<!ENTITY aboutPrivateBrowsing.note.after                 " en internet. Su empleador o proveedor de servicios de internet todavía puede seguir las páginas que visite.">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "no te deja anónimo">
+<!ENTITY aboutPrivateBrowsing.note.after                 " en internet. Tu empleador o proveedor de servicios de internet todavía puede saber qué páginas que visitas.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Aprender más sobre">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Navegación privada">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "navegación privada">
 
 <!ENTITY trackingProtection.title                        "Protección de seguimiento">
-<!ENTITY trackingProtection.description2                 "Algunos sitios web usan rastreadores que pueden monitorear su actividad a través de internet. Con la protección de seguimiento Firefox bloqueará muchos rastreadores que pueden recolectar información sobre su actividad de navegación.">
+<!ENTITY trackingProtection.description2                 "Algunos sitios usan rastreadores que pueden monitorear tu actividad en internet. Con la protección de seguimiento, Firefox bloqueará muchos rastreadores que pueden recolectar información sobre tu comportamiento en la red.">
 <!ENTITY trackingProtection.startTour1                   "Ver cómo funciona">
