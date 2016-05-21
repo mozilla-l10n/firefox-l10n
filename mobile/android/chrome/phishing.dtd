@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>தாக்கப்பட்ட தளங்கள் நிரல்களை நிறுவி தனிப்பட்ட தகவல்களை திருடும், உங்கள் கணினியை பயன்படுத்தி மற்றவர்களை தாக்கும் அல்லது உங்கள் கணினியை சேதப்படுத்தும்.</p><p>சில தாக்குதல் வேண்டுமென்றே பாதிப்படைய செய்யும் மென்பொருளை விநியோகிக்கும், ஆனால் சில உரிமையாளரின் அனுமதியில்லாமல் செயல்படும்.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "இந்த இணைய தளம் <span id='phishing_sitename'/>இல் ஒரு இணைய மோசடி செய்துள்ளதாக அறிக்கையிடப்பட்டு உங்கள் பாதுகாப்பு முன்னுரிமையின் படி தடுக்கப்பட்டுள்ளது.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title "விரும்பத்தகா மென்பொருள் தளத்தை புகார் செய்!">
