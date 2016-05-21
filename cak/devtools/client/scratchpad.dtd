@@ -125,7 +125,7 @@
 <!ENTITY helpMenuWin.label            "To'ïk">
 <!ENTITY helpMenuWin.accesskey        "T">
 
-<!ENTITY documentationLink.label      "Ruto'ik Scratchpad pa MDN">
+<!ENTITY documentationLink.label      "Ruto'ik Tz'etel samaj pa MDN">
 <!ENTITY documentationLink.accesskey  "D">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
