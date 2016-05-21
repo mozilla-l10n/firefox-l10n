@@ -13,7 +13,9 @@
 <!ENTITY searchStartTyping.label         "ਜਦੋਂ ਮੈਂ ਟੈਕਸਟ ਲਿਖਦਾ ਹੋਵਾਂ ਤਾਂ ਖੋਜ ਕਰੋ">
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "ਮੈਨੂੰ ਸਾਵਧਾਨ ਕਰੋ, ਜਦੋਂ ਵੈੱਬ ਸਾਇਟਾਂ ਰੀ-ਡਾਇਰੈਕਟ ਕਰਨ ਜਾਂ ਪੇਜ਼ ਰੀ-ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨ">
-<!ENTITY blockAutoRefresh.accesskey      "r">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+<!ENTITY useOnScreenKeyboard.label       "Show a touch keyboard when necessary">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "ਬਰਾਊਜ਼ਿੰਗ">
 
