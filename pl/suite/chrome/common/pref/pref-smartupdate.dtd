@@ -26,7 +26,5 @@
 <!ENTITY appWeekly.accesskey "t">
 <!ENTITY appModeAutomatic.label "Automatycznie pobierz i zainstaluj aktualizację">
 <!ENTITY appModeAutomatic.accesskey "u">
-<!ENTITY appModeAutoAddonWarn.label "Ostrzeż, jeśli aktualizacja spowoduje wyłączenie dodatków">
-<!ENTITY appModeAutoAddonWarn.accesskey "s">
 <!ENTITY updateHistoryButton.label "Wyświetl historię aktualizacji…">
 <!ENTITY updateHistoryButton.accesskey "W">
