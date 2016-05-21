@@ -628,6 +628,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_permission_text "கோப்பு மற்றும் மேம்படுத்தல்களை பதிவிறக்க, சேமிப்பிடத்தை அணுக &brandShortName; என்பதை அனுமதி.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "அனுமதி">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "புதிய விருந்தினர் அமர்வு">
@@ -679,6 +680,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+
+<!ENTITY intent_uri_private_browsing_prompt "இந்த இணைப்ப &formatS; இல் திறக்கும். தனிப்பட்ட உலாவலை விட்டு வெளியேறவா?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -686,21 +689,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "தனிப்பட்ட உலாவலை விட்டு வெளியேறவா?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "உங்களின் இன்னொரு கருவியில் தோன்றிய QR குறியீட்டிற்காக வருடுகிறது">
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
+<!ENTITY restrictable_feature_addons_installation_description "சிறப்பம்சங்கள் அல்லது செயல்பாடுகளை Firefox இல் சேர். குறிப்பு: கூடுதல் இணைப்புகள் சில கட்டுப்பாடுகளை செயலிழக்கச் செய்யலாம்.">
 <!ENTITY restrictable_feature_private_browsing "தனிப்பட்ட உலாவல்">
-
-
-
-
+<!ENTITY restrictable_feature_private_browsing_description "குடும்ப உறுப்பினர்களை அவர்கள் பார்க்கும் பக்கங்கள் மற்றும் தளங்கள் குறித்த விவரங்களை சேமிக்காமல் உலாவ அனுமதிக்கிறது.">
+<!ENTITY restrictable_feature_clear_history "வரலாற்றைத் துடை">
+<!ENTITY restrictable_feature_clear_history_description "குடும்ப உறுப்பினர்களை அவர்கள் பார்த்த பக்கங்கள் மற்றும் தளங்கள் குறித்த விவரங்களை அழிக்க அனுமதிக்கிறது.">
+<!ENTITY restrictable_feature_advanced_settings "மேம்பட்ட அமைவுகள்">
 
 
 
