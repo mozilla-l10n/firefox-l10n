@@ -35,17 +35,17 @@
 <!ENTITY  incompatibleCheck.title         "Verificando compatibilidad de complementos">
 <!ENTITY  incompatibleCheck.label         "Buscando nuevas versiones de tus complementos…">
 
-<!ENTITY  clickHere.label                 "Para más información general sobre esta actualización haga clic aquí">
+<!ENTITY  clickHere.label                 "Ver más infromación sobre esta actualización">
 
-<!ENTITY  evangelism.desc                 "Es altamente recomendable que aplique esta
+<!ENTITY  evangelism.desc                 "Es altamente recomendable que apliques esta
                                            actualización para &brandShortName; tan pronto como sea posible.">
 
-<!ENTITY  license.instructions            "Si acepta los términos de este contrato, haga clic en Acepto 
+<!ENTITY  license.instructions            "Si aceptas los términos de este contrato, haz clic en Acepto 
                                            para continuar la instalación de esta actualización.">
 
 <!ENTITY  license.titleText               "Acuerdo de licencia de software">
 <!ENTITY  license.introText               "Términos y condiciones de uso de este software.">
-<!ENTITY  license.instructionText         "Por favor, lea el siguiente acuerdo de licencia. Use la barra de desplazamiento para ver el resto de este acuerdo.">
+<!ENTITY  license.instructionText         "Por favor, lee el siguiente acuerdo de licencia. Usa la barra de desplazamiento para ver el resto de este acuerdo.">
 <!ENTITY  license.accept                  "Acepto los términos del Acuerdo de licencia">
 <!ENTITY  license.accept.accesskey        "c">
 <!ENTITY  license.decline                 "NO acepto los términos del Acuerdo de licencia">
@@ -76,22 +76,22 @@
                                            &brandShortName; volverá a intentarlo bajando la actualización completa.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; no puede determinar si hay una actualización disponible. 
-                                           Asegúrese de tener la última versión de  &brandShortName; bajada de:">
+                                           Asegúrate de tener la última versión de  &brandShortName; bajada de:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Algo está evitando que &brandShortName; se actualice de forma segura.
-                                           Asegúrese de tener la última versión de  &brandShortName; bajada de:">
+                                           Asegúrate de tener la última versión de  &brandShortName; bajada de:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Algo está tratando de engañar a &brandShortName; para que acepte una
-                                           actualización insegura. Contacte a su proveedor de red y busque ayuda.">
+                                           actualización insegura. Contacta a tu proveedor de red y busca ayuda.">
 
 <!ENTITY  finishedPage.title              "Actualización lista para instalar">
 <!ENTITY  finishedPage.text               "La actualización será instalada la próxima vez que se inicie &brandShortName;. 
-                                           Puede reiniciar  &brandShortName; ahora o continuar trabajando y reiniciar después.">
+                                           Puedes reiniciar  &brandShortName; ahora o continuar trabajando y reiniciar después.">
 
 <!ENTITY  finishedBackgroundPage.text     "Una actualización de seguridad para &brandShortName; ha sido
                                            bajada y está lista para ser instalada.">
 <!ENTITY  finishedBackground.name         "Actualización:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "La actualización se instalará la próxima vez que inicie &brandShortName;.
-                                           Puede reiniciar  &brandShortName; ahora o continuar trabajando y reiniciar luego.">
+                                           Puedes reiniciar  &brandShortName; ahora o continuar trabajando y reiniciar luego.">
 
 <!ENTITY  installed.title                 "Actualización instalada">
 <!ENTITY  installed.intro                 "La actualización fue instalada exitosamente.">
