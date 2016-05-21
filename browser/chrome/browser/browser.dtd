@@ -499,7 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Guardar este marco en marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
-<!ENTITY emailPageCmd.label           "Enviar enlace por correo">
+<!ENTITY emailPageCmd.label           "Enviar enlace por email">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Guardar página como…">
 <!ENTITY savePageCmd.accesskey        "a">
@@ -518,13 +518,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Guardar audio como…">
 <!ENTITY saveAudioCmd.accesskey       "G">
-<!ENTITY emailImageCmd.label          "Enviar imagen por correo">
+<!ENTITY emailImageCmd.label          "Enviar imagen por email">
 <!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "Enviar video por correo">
+<!ENTITY emailVideoCmd.label          "Enviar video por email">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "Enviar video a dispositivo">
 <!ENTITY castVideoCmd.accesskey       "e">
-<!ENTITY emailAudioCmd.label          "Enviar audio por correo">
+<!ENTITY emailAudioCmd.label          "Enviar audio por email">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Activar este complemento">
 <!ENTITY playPluginCmd.accesskey      "c">
@@ -540,7 +540,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copiar dirección del audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Copiar dirección de e-mail">
+<!ENTITY copyEmailCmd.label           "Copiar dirección de email">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Este marco">
 <!ENTITY thisFrameMenu.accesskey          "E">
