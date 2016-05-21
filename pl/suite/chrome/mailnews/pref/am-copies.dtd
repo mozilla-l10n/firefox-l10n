@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "innym folderze:">
 <!ENTITY archiveInOtherFolder.accesskey "d">
 <!ENTITY specialFolders.label "Szkice i szablony">
-<!ENTITY keepDrafts.label "Szkice wiadomości przechowuj w:">
+<!ENTITY keepDrafts2.label "Szkice wiadomości przechowuj w:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "folderze Szkice konta:">
 <!ENTITY draftsFolderOn.accesskey "S">
