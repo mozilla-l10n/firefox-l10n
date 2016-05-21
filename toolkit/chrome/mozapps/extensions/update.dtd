@@ -61,6 +61,6 @@
                                            algunos de tus complementos.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "Presione Finalizar para continuar iniciando &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Presione Terminado para continuar iniciando &brandShortName;.">
+<!ENTITY  clickFinish.label               "Presiona Finalizar para continuar iniciando &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Presiona Terminado para continuar iniciando &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permitir a &brandShortName; buscar actualizaciones.">
