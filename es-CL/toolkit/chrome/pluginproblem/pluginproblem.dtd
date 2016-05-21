@@ -13,7 +13,7 @@
 
 <!ENTITY missingPlugin                                       "Se necesita un complemento para mostrar este contenido.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY tapToPlayPlugin                                     "Toque aquí para activar el complemento.">
+<!ENTITY tapToPlayPlugin                                     "Aprieta aquí para activar el complemento.">
 <!ENTITY clickToActivatePlugin                               "Activar complemento.">
 <!ENTITY checkForUpdates                                     "Buscar actualizaciones…">
 <!ENTITY disabledPlugin                                      "Este complemento está desactivado.">
@@ -25,7 +25,7 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
-<!ENTITY reloadPlugin.middle                                 "Recargue la página">
+<!ENTITY reloadPlugin.middle                                 "Recarga la página">
 <!ENTITY reloadPlugin.post                                   " para volver a intentarlo.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Enviar reporte de fallos">
