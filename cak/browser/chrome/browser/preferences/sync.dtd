@@ -87,7 +87,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq ajowab'äl chi kikojol konojel ri taq awokisaxel.">
 <!ENTITY signedOut.accountBox.title   "Tib'an okem rik'in jun &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Titz'uk rub'i' taqoya'l">
-<!ENTITY signedOut.accountBox.signin  "Titikirisäx molojri'Il">
+<!ENTITY signedOut.accountBox.signin  "Titikirisäx molojri'ïl">
 
 <!ENTITY signedIn.engines.label       "Kexim konojel ri taq okisaxel">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
