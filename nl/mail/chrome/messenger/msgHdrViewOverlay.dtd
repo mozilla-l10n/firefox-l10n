@@ -30,8 +30,8 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Afzender en alle ontvangers beantwoorden">
 <!ENTITY hdrReplyListButton1.label "Lijst beantwoorden">
 <!ENTITY hdrReplyListButton1.tooltip "Mailinglijst beantwoorden">
-<!ENTITY hdrFollowupButton1.label "Reactie">
-<!ENTITY hdrFollowupButton1.tooltip "Een reactie naar deze nieuwsgroep posten">
+<!ENTITY hdrFollowupButton1.label "Reageren">
+<!ENTITY hdrFollowupButton1.tooltip "Een reactie in deze nieuwsgroep plaatsen">
 <!ENTITY hdrMenuForwardButton.label "Doorsturen als">
 <!ENTITY hdrForwardButton1.label "Doorsturen">
 <!ENTITY hdrForwardButton1.tooltip "Dit bericht doorsturen">
