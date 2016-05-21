@@ -20,9 +20,9 @@
 <!ENTITY  generalMode           "Modo de renderizado:">
 <!ENTITY  generalSize           "Tamaño:">
 <!ENTITY  generalReferrer       "URL de referencia:">
-<!ENTITY  generalSource         "Fuente del cache:">
+<!ENTITY  generalSource         "Fuente de la caché:">
 <!ENTITY  generalModified       "Modificado:">
-<!ENTITY  generalEncoding2      "Codificación de texto:">
+<!ENTITY  generalEncoding2      "Codificación del texto:">
 <!ENTITY  generalMetaName       "Nombre">
 <!ENTITY  generalMetaContent    "Contenido">
 
@@ -56,7 +56,7 @@
 <!ENTITY  permAllowSession      "Permitir por esta sesión">
 <!ENTITY  permBlock             "Bloquear">
 <!ENTITY  permissionsFor        "Permisos para:">
-<!ENTITY  permPlugins           "Complementos activados">
+<!ENTITY  permPlugins           "Activar complementos">
 
 <!ENTITY  permClearStorage           "Limpiar almacenamiento">
 <!ENTITY  permClearStorage.accesskey "C">
@@ -70,15 +70,15 @@
 
 <!ENTITY  securityView.identity.header   "Desconocido">
 <!ENTITY  securityView.identity.owner    "Dueño: ">
-<!ENTITY  securityView.identity.domain   "Sitio Web: ">
-<!ENTITY  securityView.identity.verifier "Verificado por: ">
+<!ENTITY  securityView.identity.domain   "Sitio:">
+<!ENTITY  securityView.identity.verifier "Verificado por:">
 
 <!ENTITY  securityView.privacy.header                   "Privacidad e historial">
 <!ENTITY  securityView.privacy.history                  "¿He visitado este sitio web anteriormente?">
 <!ENTITY  securityView.privacy.cookies                  "¿Está este sitio web almacenando información (cookies) en mi computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Ver cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "¿He almacenado contraseñas para este sitio web?">
+<!ENTITY  securityView.privacy.passwords                "¿He guardado contraseñas para este sitio web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ver contraseñas guardadas">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 

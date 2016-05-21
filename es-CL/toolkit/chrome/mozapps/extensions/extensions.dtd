@@ -10,7 +10,7 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Cargando…">
-<!ENTITY listEmpty.installed.label            "No tiene instalado ningún complemento de este tipo">
+<!ENTITY listEmpty.installed.label            "No tienes instalado ningún complemento de este tipo">
 <!ENTITY listEmpty.availableUpdates.label     "No se encontraron actualizaciones">
 <!ENTITY listEmpty.recentUpdates.label        "No ha habido actualizaciones recientes de ningún complemento">
 <!ENTITY listEmpty.findUpdates.label          "Buscar actualizaciones">
@@ -30,16 +30,16 @@
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Todos los complementos fueron deshabilitados por el modo seguro.">
-<!ENTITY warning.checkcompatibility.label          "La verificación de compatibilidad de complementos está deshabilitada. Puede tener complementos incompatibles.">
+<!ENTITY warning.checkcompatibility.label          "La verificación de compatibilidad de complementos está deshabilitada. Puedes tener complementos incompatibles.">
 <!ENTITY warning.checkcompatibility.enable.label   "Habilitar">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Habilitar verificación de compatibilidad de complementos">
-<!ENTITY warning.updatesecurity.label              "La verificación de actualizaciones de seguridad de complementos está deshabilitada. Puede estar en peligro por las actualizaciones.">
+<!ENTITY warning.updatesecurity.label              "La verificación de actualizaciones de seguridad de complementos está deshabilitada. Puedes estar en peligro por las actualizaciones.">
 <!ENTITY warning.updatesecurity.enable.label       "Habilitar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Habilitar la verificación de actualizaciones de seguridad">
 
 <!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Verifique si sus complementos están actualizados">
-<!ENTITY info.plugincheck.tooltip               "Verifique si sus complementos están actualizados">
+<!ENTITY info.plugincheck.label                 "Verifica si tus complementos están actualizados">
+<!ENTITY info.plugincheck.tooltip               "Verifica si tus complementos están actualizados">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Buscar">
@@ -134,7 +134,7 @@
 <!ENTITY detail.homepage.label                "Sitio web">
 <!ENTITY detail.numberOfDownloads.label       "Descargas">
 
-<!ENTITY detail.contributions.description     "El programador de este complemento pide que lo ayuden a soportar su desarrollo continuo a través de un pequeño aporte.">
+<!ENTITY detail.contributions.description     "El programador de este complemento pide que lo ayuden a apoyar su desarrollo continuo a través de un pequeño aporte.">
 
 <!ENTITY detail.updateType                    "Actualización automática">
 <!ENTITY detail.updateDefault.label           "Predeterminadas">
@@ -237,10 +237,10 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Los siguientes complementos no han sido verificados para ser usados en &brandShortName;. Puede ">
+<!ENTITY disabledUnsigned.description.start "Los siguientes complementos no han sido verificados para ser usados en &brandShortName;. Puedes ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "buscar reemplazos">
 <!ENTITY disabledUnsigned.description.end " o solicitarle al desarrollador que los haga verificar.">
-<!ENTITY disabledUnsigned.learnMore "Aprenda más sobre nuestros esfuerzos para ayudarle a mantenerse seguro en línea.">
+<!ENTITY disabledUnsigned.learnMore "Aprende más sobre nuestros esfuerzos para ayudarle a mantenerse seguro en línea.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
