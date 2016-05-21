@@ -45,12 +45,12 @@
 <!ENTITY fxaccount_back_to_browsing "உலாவிக்கு வந்தாச்சி">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;விற்கு வரவேற்கிறோம்">
-
+<!ENTITY fxaccount_getting_started_description2 "உங்கள் கீற்றுகள், புத்தகக்குறிகள், கடவுசொற்கள் &amp; பிறவற்றையும் ஒத்திசைக்க உள்நுழையவும்.">
 <!ENTITY fxaccount_getting_started_get_started "தொடங்கவும்">
 <!ENTITY fxaccount_getting_started_old_firefox "பழைய &syncBrand.shortName.label; பதிப்பை பயன்படுத்துகிறீர்களா?">
 
 <!ENTITY fxaccount_status_signed_in_as "ஆக உள்நுழைந்துள்ளீர்கள்">
-
+<!ENTITY fxaccount_status_manage_account "கணக்கை நிர்வகி">
 <!ENTITY fxaccount_status_auth_server "கணக்கு சேவையகம்">
 <!ENTITY fxaccount_status_sync_now "இப்போது ஒத்திசைவுச் செய்">
 <!ENTITY fxaccount_status_syncing2 "ஒத்திசைக்கிறது...">
@@ -75,7 +75,7 @@
      the two uses differently. -->
 
 <!ENTITY fxaccount_status_more "மேலும்&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "தொடர்பறு&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "பயர்பாக்ஸ் கணக்கை நீக்கவா?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; உங்கள் கணக்குடன் ஒத்திசைவு செய்யாது, அதேச்சமயம் உங்கள் சாதனத்திலுள்ள உலாவல் தரவையும் அழிக்காது.">
@@ -83,6 +83,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "பயர்பாக்ஸ் கணக்கு &formatS; நீக்கப்பட்டது.">
 
+<!ENTITY fxaccount_enable_debug_mode "வழுநீக்கு முறைமையை செயல்படுத்து">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
