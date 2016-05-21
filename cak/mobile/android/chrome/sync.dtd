@@ -17,7 +17,7 @@
 <!ENTITY sync.setup.manual          "Tatz'ib'aj ri etamab'äl chi rij ri aximojri'ïl">
 <!ENTITY sync.account               "Rub'i' retal ataqoya'l">
 <!ENTITY sync.password              "Ewan tzij">
-<!ENTITY sync.recoveryKey           "Kolonel ruxe'el tzij">
+<!ENTITY sync.recoveryKey           "Kolonel ewan tzij">
 <!ENTITY sync.customServer          "Tokisäx jun ichinan ruk'u'x samaj">
 <!ENTITY sync.serverURL             "Ruk'u'x samaj URL">
 <!ENTITY sync.setup.connect         "Tokisäx">
