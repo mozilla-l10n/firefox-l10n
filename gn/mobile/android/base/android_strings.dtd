@@ -39,14 +39,14 @@
 <!ENTITY  switch_to_tab "Tendayképe jeguerova">
 
 <!ENTITY  crash_reporter_title "&brandShortName; marandu jejavy rehegua">
-
-
+<!ENTITY  crash_message2 "&brandShortName; oguereko apañuãi ha ombeti. Itendaykekuéra oñemboysyiva\u0027erã &brandShortName;-pe kuatiarogue ñepyrũme emoñepyrũjeývo.">
+<!ENTITY  crash_send_report_message3 "Emombe\u0027u &vendorShortName;-pe jejavy rehgua oñemoĩporã hag̃ua">
 <!ENTITY  crash_include_url2 "Emoinge pe kuatiarogue kundaharape oĩva pe">
 <!ENTITY  crash_sorry "Rombyasyeterei">
 <!ENTITY  crash_comment "Embojuapy je\u0027erei (umi je\u0027erei ohecháta opavavete)">
 <!ENTITY  crash_allow_contact2 "Eheja &vendorShortName;-pe tomombe\u0027u chéve ko marandu rehegua">
 <!ENTITY  crash_email "Ne ñanduti veve">
-
+<!ENTITY  crash_closing_alert "Esẽ emondo mboyve marandu jejavy rehegua?">
 <!ENTITY  sending_crash_report "Emondohína jejavy rehegua\u2026">
 <!ENTITY  crash_close_label "Mboty">
 <!ENTITY  crash_restart_label "&brandShortName; moñepyrũjey">
@@ -70,9 +70,11 @@
 <!ENTITY screenshot_folder_label_in_bookmarks "Ta\u0027ãngakuéra">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Moñe\u0027ẽrã rysýi">
 
+<!ENTITY reader_saved_offline "Tairendápe ñongatupyre">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Moambue">
 
 <!ENTITY history_today_section "Ko árape">
 <!ENTITY history_yesterday_section "Kuehe">
