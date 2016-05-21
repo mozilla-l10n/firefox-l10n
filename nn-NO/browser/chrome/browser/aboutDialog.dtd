@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Sjå etter oppdateringar">
 <!ENTITY update.checkForUpdatesButton.accesskey   "S">
-<!ENTITY update.updateButton.label2                "Start om &brandShortName; for å oppdatera">
+<!ENTITY update.updateButton.label2                "Start &brandShortName; på nytt for å oppdatera">
 <!ENTITY update.updateButton.accesskey            "S">
 <!ENTITY update.applyButtonBillboard.label        "Installer oppdatering …">
 <!ENTITY update.applyButtonBillboard.accesskey    "I">
