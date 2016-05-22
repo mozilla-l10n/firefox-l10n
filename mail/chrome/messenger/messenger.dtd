@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "e">
 <!ENTITY compactVersion.label "Zbijeni prikaz">
 <!ENTITY compactVersion.accesskey "Z">
-
-
+<!ENTITY folderPaneBar.label "Alatna traka okna mapa">
+<!ENTITY folderModeSelector.label "Prikazi mapa">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sortiraj prema">
@@ -363,8 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Uredi kao novu poruku">
 <!ENTITY editAsNewMsgCmd.accesskey "e">
 <!ENTITY editAsNewMsgCmd.key "e">
-
-
+<!ENTITY editDraftMsgCmd.label "Uredi skicu poruke">
+<!ENTITY editDraftMsgCmd.accesskey "d">
 <!ENTITY createFilter.label "Stvori filter iz poruke…">
 <!ENTITY createFilter.accesskey "v">
 <!ENTITY moveMsgToMenu.label "Premjesti u">
@@ -720,7 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "v">
 <!ENTITY contextEditMsgAsNew.label "Uredi kao novu poruku">
 <!ENTITY contextEditMsgAsNew.accesskey "e">
-
+<!ENTITY contextEditDraftMsg.label "Uredi skicu poruke">
 <!ENTITY contextArchive.label "Arhiviraj">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Odgovori samo pošiljatelju">
@@ -748,9 +748,9 @@
 <!ENTITY contextCopyMsgMenu.label "Kopiraj u">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignoriraj temu">
-
+<!ENTITY contextKillSubthreadMenu.accesskey "p">
 <!ENTITY contextKillThreadMenu.accesskey "g">
-
+<!ENTITY contextKillSubthreadMenu.label "Ignoriraj podtemu">
 <!ENTITY contextWatchThreadMenu.label "Prati temu">
 <!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
    In the en-US locale we ran out of access keys, so there is an empty access key for

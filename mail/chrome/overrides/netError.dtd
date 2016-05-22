@@ -22,7 +22,8 @@
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite velika i mala slova ili prisutnost ostalih tipfelera.</li> <li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Pristup datoteci je odbijen">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Možda je uklonjena, premještena ili dozvole za datoteku spriječavaju pristup.</li> </ul>">
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; ne može učitati ovu stranicu.</p>">

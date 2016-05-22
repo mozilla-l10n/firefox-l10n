@@ -18,7 +18,7 @@
 <!ENTITY props.path.label                  "Putanja:">
 <!ENTITY props.secure.label                "Šalji za:">
 <!ENTITY props.expires.label               "Ističe:">
-
+<!ENTITY props.container.label             "Spremnik:">
 
 <!ENTITY window.title                      "Kolačići">
 <!ENTITY windowClose.key                   "w">
