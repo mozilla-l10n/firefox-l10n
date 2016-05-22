@@ -99,9 +99,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.a11yTitle "ਅਸੈਸਬਿਲਟੀ">
 <!ENTITY aboutSupport.a11yActivated "ਸਰਗਰਮ ਹੈ">
-<!ENTITY aboutSupport.a11yForceDisabled "ਅਸੈਸਬਿਲਟੀ  ਰੋਕੋ">
+<!ENTITY aboutSupport.a11yForceDisabled "ਅਸੈਸਬਿਲਟੀ ਰੋਕੋ">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "ਲਾਇਬਰੇਰੀ ਵਰਜਨ">
+<!ENTITY aboutSupport.libraryVersionsTitle "ਲਾਇਬਰੇਰੀ ਵਰਜ਼ਨ">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ਇੰਸਟਾਲੇਸ਼ਨ ਅਤੀਤ">
 <!ENTITY aboutSupport.updateHistoryTitle "ਅੱਪਡੇਟ ਅਤੀਤ">
@@ -115,8 +115,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.restartInSafeMode.label "…ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 
 
-<!ENTITY aboutSupport.graphicsFeaturesTitle "Features">
-<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostics">
-<!ENTITY aboutSupport.graphicsFailureLogTitle "Failure Log">
+<!ENTITY aboutSupport.graphicsFeaturesTitle "ਫੀਚਰ">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "ਅਲਾਮਤਾਂ">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "ਫੇਲ੍ਹ ਹੋਣ ਦੇ ਲਾਗ">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">

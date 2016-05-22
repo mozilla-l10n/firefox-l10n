@@ -29,7 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "ਪ੍ਰਾਪਤ ਕੀਤੇ ਸੁਨੇਹੇ">
 <!ENTITY aboutNetworking.bytesSent             "ਭੇਜੇ ਬਾਈਟ">
 <!ENTITY aboutNetworking.bytesReceived         "ਪ੍ਰਾਪਤ ਕੀਤੇ ਬਾਈਟ">
-<!ENTITY aboutNetworking.dnsLookup             "DNS Lookup">
-<!ENTITY aboutNetworking.dnsLookupButton       "Resolve">
-<!ENTITY aboutNetworking.dnsDomain             "Domain">
-<!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.dnsLookup             "DNS ਖੋਜ">
+<!ENTITY aboutNetworking.dnsLookupButton       "ਹੱਲ਼">
+<!ENTITY aboutNetworking.dnsDomain             "ਡੋਮੇਨ">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">

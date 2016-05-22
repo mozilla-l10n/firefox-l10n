@@ -7,7 +7,7 @@
 <!ENTITY muteButton.unmuteLabel "ਸੁਣਾਓ">
 
 <!ENTITY fullscreenButton.enterfullscreenlabel "ਪੂਰੀ ਸਕਰੀਨ">
-<!ENTITY fullscreenButton.exitfullscreenlabel "ਪੂਰੀ ਸਕਰੀਨ ਬੰਦ ਕਰੋ">
+<!ENTITY fullscreenButton.exitfullscreenlabel "ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ ਜਾਓ">
 <!ENTITY castingButton.castingLabel "ਸਕਰੀਨ ਉੱਤੇ ਕਾਸਟ ਕਰੋ">
 
 <!ENTITY stats.media "ਮੀਡਿਆ">

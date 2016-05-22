@@ -53,7 +53,7 @@
 
 <!ENTITY  viewDetails.tooltip             "ਇਸ ਅੱਪਡੇਟ ਲਈ ਵੇਰਵਾ ਵੇਖੋ">
 
-<!ENTITY  details.link                    "ਵੇਰਵਾ">
+<!ENTITY  details.link                    "ਵੇਰਵੇ">
 
 <!ENTITY  error.title                     "ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੋਇਆ">
 
@@ -77,7 +77,7 @@
 <!ENTITY  finishedPage.text               "ਅੱਪਡੇਟ ਅਗਲੀ ਵਾਰ &brandShortName; ਸ਼ੁਰੂ ਹੋਣ ਉੱਤੇ ਇੰਸਟਾਲ ਹੋਵੇਗਾ। ਤੁਸੀਂ ਹੁਣ 
                                            &brandShortName; ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਆਪਣਾ ਕੰਮ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ।">
 
-<!ENTITY  finishedBackgroundPage.text     "ਇੱਕ ਸੁਰੱਖਿਆ ਅਤੇ ਸਥਿਰਤਾ ਅੱਪਡੇਟ  &brandShortName; ਲਈ ਡਾਊਨਲੋਡ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ ਇੰਸਟਾਲ ਹੋਣ ਲਈ ਤਿਆਰ ਹੈ।">
+<!ENTITY  finishedBackgroundPage.text     "ਸੁਰੱਖਿਆ ਅਤੇ ਸਥਿਰਤਾ ਅੱਪਡੇਟ  &brandShortName; ਲਈ ਡਾਊਨਲੋਡ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ ਇੰਸਟਾਲ ਹੋਣ ਲਈ ਤਿਆਰ ਹੈ।">
 <!ENTITY  finishedBackground.name         "ਅੱਪਡੇਟ:">
 
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
@@ -89,6 +89,6 @@
 <!ENTITY  installed.intro                 "ਅੱਪਡੇਟ ਠੀਕ ਤਰ੍ਹਾਂ ਇੰਸਟਾਲ ਹੋਇਆ।">
 <!ENTITY  whatsnew.label                  "…ਨਵਾਂ ਕੀ ਹੈ ਬਾਰੇ ਜਾਣਕਾਰੀ ਵੇਖੋ">
 
-<!ENTITY  update.details.label            "ਵੇਰਵਾ">
-<!ENTITY  update.installedOn.label        "ਇੰਸਟਾਲ ਕੀਤਾ:">
+<!ENTITY  update.details.label            "ਵੇਰਵੇ">
+<!ENTITY  update.installedOn.label        "ਇੰਸਟਾਲ ਕੀਤੇ:">
 <!ENTITY  update.status.label             "ਹਾਲਤ:">
