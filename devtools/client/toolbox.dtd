@@ -45,8 +45,8 @@
 <!ENTITY options.enableWorkers.tooltip "Activar esta opción permitirá a las herramientas de desarrollo depurar los workers">
 <!ENTITY options.disableJavaScript.label "Desactivar JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip "Activar esta opción desactivará JavaScript en la pestaña actual. Si la pestaña o la caja de herramientas se cierra entonces este ajuste será descartado.">
-<!ENTITY options.disableCache.label2 "Desactivar caché (cuando la caja de herramientas está abierta)">
-<!ENTITY options.disableCache.tooltip2 "Activar esta opción desactivará el caché en todas las pestañas que tengan abierta la caja de herramientas.">
+<!ENTITY options.disableHTTPCache.label "Desactivar caché HTTP (cuando la caja de herramientas está abierta)">
+<!ENTITY options.disableHTTPCache.tooltip "Activar esta opción desactivará el caché HTTP en todas las pestañas que tengan abierta la caja de herramientas. Los Service Workers no se ven afectados por esta opción.">
 <!ENTITY options.enableServiceWorkersHTTP.label "Activar service workers bajo HTTP (si la caja de herramientas está abierta)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip "Activar esta opción permitirá funcionar a los service workers bajo HTTP en todas las pestañas que tengan abierta la caja de herramientas.">
 <!ENTITY options.selectDefaultTools.label "Herr. desarr. Firefox predeterminadas">
