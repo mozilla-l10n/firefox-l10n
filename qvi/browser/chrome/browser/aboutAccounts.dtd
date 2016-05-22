@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.welcome "Welcome to &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Account connected">
+<!ENTITY aboutAccounts.welcome "Shamupay &syncBrand.shortName.label;man">
+<!ENTITY aboutAccounts.connected "Cuentata llamiraypashka">
 
-<!ENTITY aboutAccountsConfig.description "Sign in to sync your tabs, bookmarks, passwords &amp; more.">
-<!ENTITY aboutAccountsConfig.startButton.label "Get started">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Using an older version of Sync?">
-<!ENTITY aboutAccountsConfig.syncPreferences.label "Sync preferences">
-<!ENTITY aboutAccounts.noConnection.title "No connection">
-<!ENTITY aboutAccounts.noConnection.description "You must be connected to the Internet to sign in.">
-<!ENTITY aboutAccounts.noConnection.retry "Try again">
+<!ENTITY aboutAccountsConfig.description "Tantayrimayta kallary paktaninapak kanpa chipiñakuna, akllashka pankakuna, rimaypakanakuna astawan tiyan">
+
+<!ENTITY aboutAccountsConfig.useOldSync.label "Mutsuhun shuk wallpa Sync-ta mawka?">
+
+
+<!ENTITY aboutAccounts.noConnection.description "Mutsuriy kana kanki llamiraypashka Internetpi kallarina tantayrimaypak.">
+

@@ -6,35 +6,30 @@
 %brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
-
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "&brandFullName; Start Page">
 
+<!ENTITY abouthome.pageTitle "&brandFullName; Tsirpayupapi kallarina">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Thanks for choosing Firefox! To get the most out of your browser, learn more about the <a>latest features</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "It’s easy to customize your Firefox exactly the way you want it. <a>Choose from thousands of add-ons</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; is free and open source software from the non-profit Mozilla Foundation. <a>Know your rights…</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "Bookmarks">
-<!ENTITY abouthome.historyButton.label   "History">
+<!ENTITY abouthome.bookmarksButton.label "Akllashka pankakuna ">
+<!ENTITY abouthome.historyButton.label   "Mawkapankakuna">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
-<!ENTITY abouthome.preferencesButtonWin.label  "Options">
+<!ENTITY abouthome.preferencesButtonWin.label  "Tawka rikurinakuna">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
-<!ENTITY abouthome.preferencesButtonUnix.label  "Preferences">
-<!ENTITY abouthome.addonsButton.label    "Add-ons">
-<!ENTITY abouthome.downloadsButton.label "Downloads">
+<!ENTITY abouthome.addonsButton.label    "Imashkakuna">
+<!ENTITY abouthome.downloadsButton.label "Urahuchina aparinakuna">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
-
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
      the mozilla wordmark in the top-right corner that links to Mozilla's main
      about page. -->
-<!ENTITY abouthome.aboutMozilla.label    "About Mozilla">
+
+<!ENTITY abouthome.aboutMozilla.label    "Mozillata rimanahun">
