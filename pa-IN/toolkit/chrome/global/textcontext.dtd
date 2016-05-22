@@ -9,7 +9,7 @@
 <!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "ਚੇਪੋ">
 <!ENTITY pasteCmd.accesskey "p">
-<!ENTITY undoCmd.label "ਵਾਪਿਸ">
+<!ENTITY undoCmd.label "ਵਾਪਸ">
 <!ENTITY undoCmd.accesskey "u">
 <!ENTITY selectAllCmd.label "ਸਭ ਚੁਣੋ">
 <!ENTITY selectAllCmd.accesskey "a">

@@ -2,160 +2,160 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
+<!ENTITY aboutTelemetry.pageTitle "ਟੈਲੀਮੈਂਟਰੀ ਡਾਟਾ">
 
 <!ENTITY aboutTelemetry.changeDataChoices "
-  Change
+  ਬਦਲੋ
 ">
 
 <!ENTITY aboutTelemetry.uploadEnabled "
-  FHR data upload is <span>enabled</span>.
+  FHR ਡਾਟੇ ਨੂੰ ਅੱਪਲੋਡ ਕਰਨਾ <span>ਸਮਰੱਥ</span> ਹੈ।
 ">
 
 <!ENTITY aboutTelemetry.uploadDisabled "
-  FHR data upload is <span>disabled</span>.
+  FHR ਡਾਟੇ ਨੂੰ ਅੱਪਲੋਡ ਕਰਨਾ <span>ਅਸਮਰੱਥ</span> ਹੈ।
 ">
 
 <!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Extended Telemetry recording is <span>enabled</span>.
+  ਵਧੇਰੇ ਟੈਲੀਮੈਂਟਰੀ ਰਿਕਾਰਡਿੰਗ <span>ਸਮਰੱਥ</span> ਹੈ।
 ">
 
 <!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Extended Telemetry recording is <span>disabled</span>.
+  ਵਧੇਰੇ ਟੈਲੀਮੈਂਟਰੀ ਰਿਕਾਰਡਿੰਗ <span>ਅਸਮਰੱਥ</span> ਹੈ।
 ">
 
 <!ENTITY aboutTelemetry.pingDataSource "
-Ping data source:
+ਪਿੰਗ ਡਾਟਾ ਸਰੋਤ:
 ">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
-Current ping data
+ਮੌਜੂਦਾ ਪਿੰਗ ਡਾਟਾ
 ">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
-Archived ping data
+ਅਕਾਇਵ ਕੀਤਾ ਪਿੰਗ ਡਾਟਾ
 ">
 
 <!ENTITY aboutTelemetry.pingDataDisplay "
-Ping data display:
+ਪਿੰਗ ਡਾਟਾ ਦ੍ਰਿਸ਼:
 ">
 
 <!ENTITY aboutTelemetry.structured "
-Structured
+ਢਾਂਚਾਬੱਧ
 ">
 
 <!ENTITY aboutTelemetry.raw "
-Raw JSON
+ਅਣਘੜ JSON
 ">
 
 <!ENTITY aboutTelemetry.showSubsessionData "
-Show subsession data
+ਸਬ-ਸ਼ੈਸ਼ਨ ਡਾਟਾ ਦੇਖੋ
 ">
 
 <!ENTITY aboutTelemetry.choosePing "
-Choose ping:
+ਪਿੰਗ ਨੂੰ ਚੁਣੋ:
 ">
 
 <!ENTITY aboutTelemetry.showNewerPing "
-&lt;&lt; Newer ping
+&lt;&lt; ਹੋਰ ਨਵਾਂ ਪਿੰਗ
 ">
 
 <!ENTITY aboutTelemetry.showOlderPing "
-Older ping &gt;&gt;
+ਹੋਰ ਪੁਰਾਣਾ ਪਿੰਗ &gt;&gt;
 ">
 
 <!ENTITY aboutTelemetry.rawPingData "
-Raw ping data…
+ਅਣਘੜ ਪਿੰਗ ਡਾਟਾ…
 ">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "
-Week
+ਹਫ਼ਤਾ
 ">
 
 <!ENTITY aboutTelemetry.archivePingHeader "
-Ping
+ਪਿੰਗ
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
-  General Data
+  ਆਮ ਡਾਟਾ
 ">
 
 <!ENTITY aboutTelemetry.environmentDataSection "
-  Environment Data
+  ਇੰਵਾਇਰਨਮੈਂਟ ਡਾਟਾ
 ">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "
-  Telemetry Log
+  ਟੈਲੀਮੈਂਟਰੀ ਲਾਗ
 ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "
-  Slow SQL Statements
+  ਹੌਲੀ SQL ਸਟੇਟਮੈਂਟਾਂ
 ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
-  Browser Hangs
+  ਬਰਾਊਜ਼ਰ ਹੈਂਗ
 ">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "
-  Thread Hangs
+  ਥਰਿੱਡ ਹੈਂਗ
 ">
 
 <!ENTITY aboutTelemetry.histogramsSection "
-  Histograms
+  ਹਿਸਟੋਗਰਾਮ
 ">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
-  Keyed Histograms
+  ਕੀਡ ਹਿਸਟੋਗਰਾਮ
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Simple Measurements
+  ਸਧਾਰਨ ਮਾਪ
 ">
 
 <!ENTITY aboutTelemetry.addonDetailsSection "
-  Add-on Details
+  ਐਡ-ਆਨ ਵੇਰਵੇ
 ">
 
 <!ENTITY aboutTelemetry.lateWritesSection "
-  Late Writes
+  ਦੇਰੀ ਨਾਲ ਰਾਇਟਰ
 ">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
-  Session Information
+  ਸ਼ੈਸ਼ਨ ਜਾਣਕਾਰੀ
 ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histograms Collected by Add-ons
+  ਐਡ-ਆਨ ਵਲੋਂ ਇਕੱਤਰ ਕੀਤੇ ਹਿਸਟੋਗਰਾਮ
 ">
 
 <!ENTITY aboutTelemetry.toggle "
-  Click to toggle section
+  ਭਾਗ ਨੂੰ ਬਦਲਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
 ">
 
 <!ENTITY aboutTelemetry.emptySection "
-  (No data collected)
+  (ਕੋਈ ਡਾਟਾ ਇਕੱਤਰ ਨਹੀਂ ਕੀਤਾ)
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
+  ਸੂਚਨਾ: ਹੌਲੀ SQL ਡੀਬੱਗ ਕਰਨਾ ਸਮਰੱਥ ਹੈ। ਪੂਰੀਆਂ SQL ਸਤਰਾਂ ਨੂੰ ਹੇਠਾਂ ਦੇਖਾਇਆ ਜਾ ਸਕਦਾ ਹੈ, ਪਰ ਉਹਨਾਂ ਨੂੰ ਟੈਲੀਮੈਂਟਰੀ ਨੂੰ ਭੇਜਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।
 ">
 
 <!ENTITY aboutTelemetry.fetchSymbols "
-  Fetch function names for hang stacks
+  ਹੈਂਗ ਸਟੈਕ ਲਈ ਫੰਕਸ਼ਨ ਨਾਂ ਲਵੋ
 ">
 
 <!ENTITY aboutTelemetry.hideSymbols "
-  Show raw data from hangs
+  ਹੈਂਗ ਤੋਂ ਅਣਘੜ ਡਾਟਾ ਵੇਖਾਓ
 ">
 
 <!ENTITY aboutTelemetry.filterText "
-  Filter (strings or /regexp/)
+  ਫਿਲਟਰ ਕਰੋ (ਸਤਰਾਂ ਜਾਂ /regexp/)
 ">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Payload
+  ਪੇਅਲੋਡ
 ">
 
 <!ENTITY aboutTelemetry.rawPayload "
-  Raw Payload
+  ਅਣਘਣ ਪੇਅਲੋਡ
 ">

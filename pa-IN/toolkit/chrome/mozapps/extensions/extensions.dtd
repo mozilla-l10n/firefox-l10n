@@ -3,7 +3,7 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY addons.windowTitle                   "ਐਡ-ਆਨ ਮੈਨੇਜਰ">
-<!ENTITY search.placeholder                   "ਸਭ ਐਡ-ਆਨ ਲਈ ਖੋਜ">
+<!ENTITY search.placeholder                   "ਸਭ ਐਡ-ਆਨ ਲਈ ਖੋਜ ਕਰੋ">
 <!ENTITY search.buttonlabel                   "ਖੋਜੋ">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -26,7 +26,7 @@
 <!ENTITY showUnsignedExtensions.button.label  "ਕੁਝ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ">
 <!ENTITY showAllExtensions.button.label       "ਸਭ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਿਖਾਉ">
 
-<!ENTITY debugAddons.label                    "Debug Add-ons">
+<!ENTITY debugAddons.label                    "ਐਡ-ਆਨ ਨੂੰ ਡੀਬੱਗ ਕਰੋ">
 <!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
@@ -234,6 +234,6 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Developers interested in getting their add-ons verified can continue by reading our ">
+<!ENTITY disabledUnsigned.devInfo.start "ਡਿਵੈਲਪਰ, ਜੋ ਆਪਣੀਆਂ ਐਡ-ਆਨ ਨੂੰ ਤਸਦੀਕ ਕਰਵਾਉਣਾ ਚਾਹੁੰਦੇ ਹਨ, ਸਾਡੇ ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ਦਸਤੀ">
-<!ENTITY disabledUnsigned.devInfo.end ".">
+<!ENTITY disabledUnsigned.devInfo.end " ਨੂੰ ਪੜ੍ਹਨਾ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹਨ।">

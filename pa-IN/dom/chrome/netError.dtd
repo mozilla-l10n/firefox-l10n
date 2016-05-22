@@ -18,11 +18,11 @@
 <!ENTITY malformedURI.title "ਗਲਤ ਐਡਰੈੱਸ">
 <!ENTITY malformedURI.longDesc "<p>ਦਿੱਤੇ ਐਡਰੈੱਸ ਦਾ ਫਾਰਮੈਟ ਪਛਾਣਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ। ਗਲਤੀਆਂ ਲਈ ਟਿਕਾਣਾ ਪੱਟੀ ਨੂੰ ਚੈੱਕ ਕਰੋ ਤੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।</p>">
 
-<!ENTITY fileNotFound.title "ਫਾਇਲ ਨਹੀਂ ਲੱਭੀ">
+<!ENTITY fileNotFound.title "ਫਾਈਲ ਨਹੀਂ ਲੱਭੀ">
 <!ENTITY fileNotFound.longDesc "<ul><li>ਆਈਟਮ ਦਾ ਨਾਂ ਬਦਲਿਆ ਗਿਆ ਹੋ ਸਕਦਾ ਹੈ, ਹਟਾਇਆ ਗਿਆ ਹੋ ਸਕਦਾ ਹੈ ਜਾਂ ਹੋਰ ਥਾਂ ਭੇਜੀ ਗਈ ਹੋ ਸਕਦੀ ਹੈ?</li><li>ਕੋਈ ਸ਼ਬਦ ਗਲਤ ਲਿਖੇ ਗਏ ਹਨ, ਅੱਖਰ ਵੱਡੇ ਛੋਟੋ ਹੋ ਗਏ ਹਨ ਜਾਂ ਐਡਰੈੱਸ ਵਿੱਚ ਕੋਈ ਅੱਖਰ ਦੀ ਗਲਤੀ ਹੈ??</li><li>ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਮੰਗੀ ਗਈ ਆਈਟਮ ਦੀ ਵਰਤੋਂ ਲਈ ਢੁੱਕਵੇਂ ਅਧਿਕਾਰ ਹਨ?</li></ul>">
 
-<!ENTITY fileAccessDenied.title "Access to the file was denied">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>It may have been removed, moved, or file permissions may be preventing access.</li></ul>">
+<!ENTITY fileAccessDenied.title "ਫਾਈਲ ਲਈ ਪਹੁੰਚ ਦੀ ਪਾਬੰਦੀ ਸੀ">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>ਇਸ ਨੂੰ ਹਟਾਇਆ, ਕਿਤੇ ਹੋਰ ਭੇਜਿਆ ਗਿਆ ਜਾਂ ਫਾਈਲ ਇਜਾਜ਼ਤਾਂ ਰਾਹੀਂ ਪਹੁੰਚ ਤੋਂ ਰੋਕ ਹੋ ਸਕਦੀ ਹੈ।</li></ul>">
 
 
 <!ENTITY generic.title "ਮੰਗ ਪੂਰੀ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ">
@@ -43,13 +43,13 @@
 <!ENTITY contentEncodingError.title "ਸਮੱਗਰੀ ਇੰਕੋਡਿੰਗ ਗਲਤੀ">
 <!ENTITY contentEncodingError.longDesc "<p>ਸਫ਼ਾ, ਜਿਸ ਨੰ ਤੁਸੀਂ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ, ਵੇਖਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ, ਕਿਉਂਕਿ ਇਹ ਗਲਤ ਜਾਂ ਗ਼ੈਰ-ਸਹਾਇਕ ਕੰਪਰੈਸ਼ਨ ਫਾਰਮ ਵਰਤਦਾ ਹੈ।</p><ul><li>ਇਹ ਸਮੱਸਿਆ ਬਾਰੇ ਵੈੱਬ ਸਾਇਟ ਦੇ ਓਨਰ (ਮਾਲਕ) ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ</li></ul>">
 
-<!ENTITY unsafeContentType.title "ਗ਼ੈਰ-ਸੁਰੱਖਿਅਤ ਫਾਇਲ ਟਾਇਪ">
+<!ENTITY unsafeContentType.title "ਗ਼ੈਰ-ਸੁਰੱਖਿਅਤ ਫਾਈਲ ਟਾਇਪ">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>ਇਹ ਸਮੱਸਿਆ ਬਾਰੇ ਵੈੱਬਸਾਇਟ ਦੇ ਓਨਰ (ਮਾਲਕ) ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li>
 </ul>
 ">
-<!ENTITY netReset.title "ਨੈੱਟ ਮੁੜ-ਸੈੱਟਿੰਗ ਗਲਤੀ">
+<!ENTITY netReset.title "ਨੈੱਟ ਮੁੜ-ਸੈੱਟਿੰਗ ਦੀ ਗਲਤੀ">
 <!ENTITY netReset.longDesc "ਸਾਇਟ ਨਾਲ ਸੰਬੰਧ ਅਸਧਾਰਨ ਰੂਪ ਵਿੱਚ ਬੰਦ ਹੋ ਗਿਆ ਹੈ, ਜਦੋਂ ਕਿ ਇੱਕ ਕੁਨੈਕਸ਼ਨ ਨਾਲ ਸੰਪਰਕ ਕੀਤਾ ਗਿਆ ਹੈ ਜਾਂ ਡਾਟਾ ਤਬਦੀਲ ਕੀਤਾ ਗਿਆ ਸੀ। ਇਹ ਸਾਇਟ ਤੇ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਵਿੱਚ ਇੱਕ ਨੈੱਟਵਰਕ ਗਲਤੀ ਹੋਣ ਕਰਕੇ ਹੋਇਆ ਹੈ। ਜੇਕਰ ਸਮੱਸਿਆ ਪਹਿਲਾਂ ਵੀ ਮੌਜੂਦ ਸੀ ਤਾਂ ਆਪਣੇ ਸਿਸਟਮ ਡੌਕੂਮੈਂਟਰ, ਐਡਮਿਨ ਜਾਂ ਇੰਟਰਨੈੱਟ ਸੇਵਾ ਉਪਲੱਬਧਕਰਤਾ (ISP) ਨਾਲ ਸਹਾਇਤਾ ਲਈ ਸੰਪਰਕ ਕਰੋ।">
 
 <!ENTITY netInterrupt.title "ਡਾਟਾ ਸੰਚਾਰ ਦੌਰਾਨ ਗਲਤੀ">
@@ -80,7 +80,7 @@
 </ul>
 ">
 
-<!ENTITY securityOverride.linkText "Or you can add an exception…">
+<!ENTITY securityOverride.linkText "ਜਾਂ ਤੁਸੀਂ ਛੋਟ ਨੂੰ ਸ਼ਾਮਲ ਕਰ ਸਕਦੇ ਹੋ…">
 <!ENTITY securityOverride.warningContent "
 <p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
 <p>If you still wish to add an exception for this site, you can do so in your advanced encryption settings.</p>
@@ -95,7 +95,7 @@
 <!ENTITY remoteXUL.title "ਰਿਮੋਟ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ਇਸ ਸਮੱਸਿਆ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਵੈੱਬਸਾਈਟ ਮਾਲਕਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul></p>">
 
-<!ENTITY inadequateSecurityError.title "Your connection is not secure">
+<!ENTITY inadequateSecurityError.title "ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
