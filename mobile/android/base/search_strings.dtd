@@ -6,7 +6,7 @@
 
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
-<!ENTITY search_bar_hint '&formatS; ਨਾਲ ਖੋਜ'>
+<!ENTITY search_bar_hint '&formatS; ਨਾਲ ਖੋਜ ਕਰੋ'>
 
 <!ENTITY search_empty_title2 'ਖੋਜ ਸ਼ੁਰੂ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ'>
 <!ENTITY search_empty_message 'ਜੋ ਵੀ ਤੁਸੀਂ ਚਾਹੋ ਦੇ ਲਈ ਤੁਰੰਤ ਖੋਜ'>
@@ -15,12 +15,12 @@
       for the "+" icon that appears at the end of search suggestions. -->
 <!ENTITY search_plus_content_description 'ਖੋਜ ਪੱਟੀ ਵਿੱਚ ਸ਼ਾਮਿਲ ਕਰੋ'>
 
-<!ENTITY search_pref_title 'Settings'>
-<!ENTITY search_pref_button_content_description 'ਸੈਟਿੰਗ'>
+<!ENTITY search_pref_title 'ਸੈਟਿੰਗਾਂ'>
+<!ENTITY search_pref_button_content_description 'ਸੈਟਿੰਗਾਂ'>
 
-<!ENTITY pref_clearHistory_confirmation 'ਅਤੀਤ ਸਾਫ਼ ਕੀਤਾ'>
-<!ENTITY pref_clearHistory_dialogMessage 'ਇਹ ਯੰਤਰ ਤੋਂ ਸਭ ਖੋਜ ਅਤੀਤ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?'>
-<!ENTITY pref_clearHistory_title 'ਖੋਜ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ'>
+<!ENTITY pref_clearHistory_confirmation 'ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕੀਤਾ'>
+<!ENTITY pref_clearHistory_dialogMessage 'ਇਹ ਡਿਵਾਈਸ ਤੋਂ ਸਭ ਖੋਜ ਅਤੀਤ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?'>
+<!ENTITY pref_clearHistory_title 'ਖੋਜ ਦੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ'>
 
 
 <!ENTITY search_widget_button_label 'ਖੋਜ'>

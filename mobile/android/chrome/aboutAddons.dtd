@@ -11,5 +11,5 @@
 <!ENTITY addonAction.uninstall                  "ਅਣ-ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY addonAction.undo                       "ਵਾਪਸ ਲਵੋ">
 
-<!ENTITY addonUnsigned.message                  "This add-on could not be verified by &brandShortName;.">
-<!ENTITY addonUnsigned.learnMore                "Learn more">
+<!ENTITY addonUnsigned.message                  "ਇਸ ਐਡ-ਆਨ ਨੂੰ &brandShortName; ਵਲੋਂ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ।">
+<!ENTITY addonUnsigned.learnMore                "ਹੋਰ ਜਾਣੋ">

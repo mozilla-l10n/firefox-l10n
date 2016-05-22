@@ -10,6 +10,6 @@
 <!ENTITY feedback.feedback.bad          "ਮਾੜਾ">
 
 <!ENTITY feedback.tools.title           "ਟੂਲ">
-<!ENTITY feedback.allowTelemetry.title  "ਕਾਰਗੁਜ਼ਾਰੀ ਡਾਟਾ ਭੇਜੋ">
+<!ENTITY feedback.allowTelemetry.title  "ਕਾਰਗੁਜ਼ਾਰੀ ਡਾਟੇ ਨੂੰ ਭੇਜੋ">
 <!ENTITY feedback.forceCompat.title     "ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਲਈ ਮਜਬੂਰ">
 <!ENTITY feedback.errorConsole.title    "ਗਲਤੀ ਕਨਸੋਲ ਯੋਗ">

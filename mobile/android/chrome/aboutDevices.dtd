@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDevices.title              "ਯੰਤਰ">
-<!ENTITY aboutDevices.header             "ਤੁਹਾਡੇ ਯੰਤਰ">
-<!ENTITY aboutDevices.refresh            "ਤਾਜ਼ਾ">
-<!ENTITY aboutDevices.addDeviceHeader    "ਯੰਤਰ ਸ਼ਾਮਿਲ ਕਰੋ">
+<!ENTITY aboutDevices.title              "ਡਿਵਾਈਸ">
+<!ENTITY aboutDevices.header             "ਤੁਹਾਡੇ ਡਿਵਾਈਸ">
+<!ENTITY aboutDevices.refresh            "ਤਾਜ਼ਾ ਕਰੋ">
+<!ENTITY aboutDevices.addDeviceHeader    "ਡਿਵਾਈਸ ਨੂੰ ਸ਼ਾਮਲ ਕਰੋ">
 <!ENTITY aboutDevices.roku               "ਰੁਕੂ(Roku)">
 <!ENTITY aboutDevices.chromecast         "ਕਰੋਮਕਾਸਟ">
 <!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
