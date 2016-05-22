@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  connectionsDialog.title       "Configuraciones de Conexión">
+<!ENTITY  connectionsDialog.title       "Configuraciones de conexión">
 <!ENTITY  window.width                  "39em">
 <!ENTITY  window.macWidth               "46em">
 
-<!ENTITY  proxyTitle.label              "Configurar Proxies para Acceder a Internet">
+<!ENTITY  proxyTitle.label              "Configurar proxies para conectarse a Internet">
 <!ENTITY  noProxyTypeRadio.label        "Sin proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Usar configuración de proxy del sistema">
@@ -46,4 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "No solicitar autenticación si la contraseña está almacenada">
 <!ENTITY  autologinproxy.accesskey      "i">
-<!ENTITY  autologinproxy.tooltip        "Esta opción te autentifica silenciosamente a los proxies si tienes credenciales almacenadas para ellos. Si la autenticación falla se te solicitará.">
+<!ENTITY  autologinproxy.tooltip        "Esta opción te autentifica silenciosamente a los proxies si tienes credenciales almacenadas para ellos. Si la autenticación falla se te avisará.">
