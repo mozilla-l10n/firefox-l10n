@@ -164,8 +164,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareVideo.label "Tikomonïx re jun silowachib'äl re'">
 <!ENTITY shareVideo.accesskey "k">
 <!ENTITY feedsMenu2.label "Tatz'ib'aj ab'i' pa re ruxaq re'">
-<!ENTITY subscribeToPageMenupopup.label "Tatz'ib'aj ab'i' pa re jun ruxaq re'">
-<!ENTITY subscribeToPageMenuitem.label "Tatz'ib'aj ab'i' pa re ruxaq wuj…">
+<!ENTITY subscribeToPageMenupopup.label "Tatz'ib'aj ab'i' pa re ruxaq re'">
+<!ENTITY subscribeToPageMenuitem.label "Tatz'ib'aj ab'i' pa re ruxaq re'…">
 <!ENTITY addCurPagesCmd.label "Ketz'aqatisäx taq ruwi' pa taq yaketal…">
 <!ENTITY showAllBookmarks2.label "Kek'ut konojel ri taq yaketal">
 <!ENTITY recentBookmarks.label "K'a nimakol tiya' ketal">
