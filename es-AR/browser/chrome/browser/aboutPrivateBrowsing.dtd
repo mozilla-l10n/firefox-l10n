@@ -7,6 +7,11 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "Navegación privada">
+<!ENTITY privateBrowsing.title.tracking                  "Navegación privada con protección contra rastreo">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Cunado navegás en una pestaña privada Firefox...">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "no guarda">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "las páginas visitadas">
 <!ENTITY aboutPrivateBrowsing.info.searches              "Búsquedas">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Archivos temporales">
@@ -16,7 +21,10 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Marcadores">
 <!ENTITY aboutPrivateBrowsing.note.before                "Navegación privada">
-<!ENTITY aboutPrivateBrowsing.note.emphasize             "no te hace anónimo">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "no te hace anónimo...">
+<!ENTITY aboutPrivateBrowsing.note.after                 "en Internet. Tu empleador o tu proveedor de Internet aun pueden saber la página que visitás.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Aprendé más sobre">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Navegación privada">
 
 <!ENTITY trackingProtection.title                        "Protección de rastreo">
 <!ENTITY trackingProtection.startTour1                   "Ver como funciona">
