@@ -74,7 +74,7 @@
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
-<!ENTITY reader_switch_to_bookmarks "Chuptzijonïk">
+<!ENTITY reader_switch_to_bookmarks "Tiq\u0027ax pa">
 
 <!ENTITY history_today_section "Wakami">
 <!ENTITY history_yesterday_section "Iwir">
