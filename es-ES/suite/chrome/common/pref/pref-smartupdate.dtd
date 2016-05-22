@@ -25,7 +25,5 @@
 <!ENTITY appWeekly.accesskey "e">
 <!ENTITY appModeAutomatic.label "Descargar e instalar automáticamente la actualización">
 <!ENTITY appModeAutomatic.accesskey "n">
-<!ENTITY appModeAutoAddonWarn.label "Avisarme si esto desactivará alguno de mis complementos">
-<!ENTITY appModeAutoAddonWarn.accesskey "A">
 <!ENTITY updateHistoryButton.label "Mostrar historial de actualizaciones…">
 <!ENTITY updateHistoryButton.accesskey "M">

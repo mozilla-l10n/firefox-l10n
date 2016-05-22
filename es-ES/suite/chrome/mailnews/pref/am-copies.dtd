@@ -30,7 +30,7 @@
 <!ENTITY archiveInOtherFolder.label "Otra carpeta:">
 <!ENTITY archiveInOtherFolder.accesskey "e">
 <!ENTITY specialFolders.label "Borradores y plantillas">
-<!ENTITY keepDrafts.label "Guardar los borradores de mensajes en:">
+<!ENTITY keepDrafts2.label "Conservar borradores de mensajes en:">
 <!ENTITY draftsFolderOn.label "Carpeta &quot;Borradores&quot; en:">
 <!ENTITY draftsFolderOn.accesskey "d">
 <!ENTITY draftInOtherFolder.label "Otra carpeta:">
