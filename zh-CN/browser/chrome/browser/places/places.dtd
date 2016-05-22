@@ -41,7 +41,7 @@
 <!ENTITY cmd.restoreFromFile.label      "选择文件…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "将此页加为书签…">
+<!ENTITY cmd.bookmarkLink.label         "为此页添加书签…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "删除此页面">
 <!ENTITY cmd.delete.accesskey           "D">

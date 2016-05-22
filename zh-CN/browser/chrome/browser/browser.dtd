@@ -42,7 +42,7 @@ can reach it easily. -->
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToNewWindow.label              "移动到新窗口">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "将全部标签页加入书签…">
+<!ENTITY  bookmarkAllTabs.label              "为全部标签页添加书签…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "恢复关闭的标签页">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -81,7 +81,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "重新载入所有标签页">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "将全部标签页加为书签…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "为全部标签页添加书签…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "恢复关闭的标签页">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
@@ -166,7 +166,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "订阅此页">
 <!ENTITY subscribeToPageMenupopup.label "订阅此页">
 <!ENTITY subscribeToPageMenuitem.label "订阅此页…">
-<!ENTITY addCurPagesCmd.label "将所有标签页加入书签…">
+<!ENTITY addCurPagesCmd.label "为所有标签页添加书签…">
 <!ENTITY showAllBookmarks2.label "管理所有书签">
 <!ENTITY recentBookmarks.label "最近的书签">
 <!ENTITY otherBookmarksCmd.label "其他书签">
@@ -494,10 +494,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "设为桌面背景…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "将此页加为书签">
-<!ENTITY bookmarkThisLinkCmd.label      "将此链接加为书签">
+<!ENTITY bookmarkPageCmd2.label       "为此网页添加书签">
+<!ENTITY bookmarkThisLinkCmd.label      "为此链接添加书签">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "将此框架加为书签">
+<!ENTITY bookmarkThisFrameCmd.label      "为此框架添加书签">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "用邮件发送链接…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -742,7 +742,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "在新的隐私浏览窗口中打开">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "将此标签页加入书签…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "为此标签页添加书签…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "复制">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
