@@ -48,7 +48,7 @@
 <!ENTITY unsafeContentType.title "Itzel ruwäch chi yakb'äl">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li> </ul>">
 
-<!ENTITY netReset.title "Ri okem xtikirisäx chik">
+<!ENTITY netReset.title "Tikirisan chik ri okem">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Xxik'o ruq'ijul ri okem">

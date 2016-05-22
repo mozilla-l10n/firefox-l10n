@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Nrokisaj ruchajinïk pa ruwi' ilonem">
+<!ENTITY  trackingProtectionHeader.label       "Tokisax chajinem chuwäch kanoxïk">
 <!ENTITY  trackingProtectionAlways.label       "Junelïk">
 <!ENTITY  trackingProtectionAlways.accesskey   "e">
 <!ENTITY  trackingProtectionPrivate.label      "Xa xe pa taq ichinan tzuwäch">
@@ -14,7 +14,7 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "e">
 
 <!ENTITY tracking.label                 "Kanoxïk">
-<!ENTITY trackingProtectionPBM5.label         "Tokisäx chajinïk richin ilonem pa taq ichinan tzuwäch">
+<!ENTITY trackingProtectionPBM5.label         "Tokisäx chajinem chuwäch kanoxïk pan ichinan taq tzuwäch">
 <!ENTITY trackingProtectionPBM5.accesskey     "a">
 <!ENTITY trackingProtectionPBMLearnMore.label "Tetamäx ch'aqa' chik">
 <!ENTITY changeBlockList.label          "Tijaq rucholajem taq q'atoj">

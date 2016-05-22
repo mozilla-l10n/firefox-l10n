@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Palaqinem Wichin)">
 
 <!ENTITY appmenu.tooltip                     "Tijaq ri MENU">
-<!ENTITY navbarOverflow.label                "Juley chik Samajib'äl…">
+<!ENTITY navbarOverflow.label                "Ch'aqa' chik Samajib'äl…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Rejqaxik ruwi' kajtz'ïk">
@@ -840,7 +840,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.unblock2.accesskey "T">
 <!ENTITY trackingContentBlocked.block.label "Titzij ri chajinïk">
 <!ENTITY trackingContentBlocked.block.accesskey "T">
-<!ENTITY trackingContentBlocked.disabled.message "Chupül ri chajixïk chi rij ri kanoxïk">
+<!ENTITY trackingContentBlocked.disabled.message "Chupül ri chajinem chuwäch kanoxïk">
 
 <!ENTITY pointerLock.notification.message "Tapitz'a' ESC richin nitzolin chik pe.">
 
