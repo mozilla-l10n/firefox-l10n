@@ -527,7 +527,7 @@ size. -->
 <!ENTITY button_clear "Lašowaś">
 <!ENTITY button_copy "Kopěrowaś">
 
-<!ENTITY home_top_sites_title "Wuběrne sedła">
+<!ENTITY home_top_sites_title "Nejcesćej woglědane sedła">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Sedło pśidaś">
