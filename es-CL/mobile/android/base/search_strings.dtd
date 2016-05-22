@@ -22,4 +22,5 @@
 <!ENTITY pref_clearHistory_dialogMessage '¿Eliminar todo el historial de búsqueda del dispositivo?'>
 <!ENTITY pref_clearHistory_title 'Limpiar el historial de búsquedas'>
 
+<!ENTITY search_widget_button_label 'Buscar'>
 
