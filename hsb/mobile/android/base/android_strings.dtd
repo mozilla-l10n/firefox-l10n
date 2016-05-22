@@ -527,7 +527,7 @@ size. -->
 <!ENTITY button_clear "Zhašeć">
 <!ENTITY button_copy "Kopěrować">
 
-<!ENTITY home_top_sites_title "Wuběrne sydła">
+<!ENTITY home_top_sites_title "Najhusćišo wopytane sydła">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Sydło přidać">
