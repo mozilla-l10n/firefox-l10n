@@ -237,7 +237,7 @@
 <!ENTITY pref_show_web_fonts "Kek\u0027ut aj k\u0027amaya\u0027l ruwäch taq tz\u0027ib\u0027">
 <!ENTITY pref_show_web_fonts_summary2 "Keqasäx näj taq tz\u0027ib\u0027 toq nitikirisäx jun ruxaq">
 
-<!ENTITY pref_tracking_protection_title2 "Chajinem chuwäch ri kanoxïk">
+<!ENTITY pref_tracking_protection_title2 "Chajinem chuwäch kanoxïk">
 <!ENTITY pref_tracking_protection_summary3 "Jaqal pa Ichinam Okem pa K\u0027amaya\u0027l">
 <!ENTITY pref_donottrack_title "Mani nikanöx">
 <!ENTITY pref_donottrack_summary "&brandShortName; xtub\u0027ij chi ke ri taq ruxaq k\u0027amaya\u0027l chi man ninwajo\u0027 ta chi kikanöx">
@@ -249,7 +249,7 @@
 <!ENTITY pref_whats_new_notification "Achike ri k\u0027ak\u0027a\u0027 k\u0027o pa &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Tawetamaj ri k\u0027ak\u0027a\u0027 taq samaj chi rij jun k\u0027exoj ruwäch">
 
-<!ENTITY tracking_protection_prompt_title "Wakami rik\u0027in chajinem chuwäch ri kanoxïk">
+<!ENTITY tracking_protection_prompt_title "Wakami rik\u0027in chajinem chuwäch kanoxïk">
 <!ENTITY tracking_protection_prompt_text "Q\u0027aton wakami ruch\u0027akulal kanoxïk, ruma ri\u0027 majun achike tamäy.">
 <!ENTITY tracking_protection_prompt_tip_text "Katok chupam ri runuk\u0027ulem ichinanem richin nawetamaj ch\u0027aqa\u0027 chik">
 <!ENTITY tracking_protection_prompt_action_button "¡K\u0027o chik wik\u0027in!">
@@ -607,7 +607,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Xachüp ruwäch ri chajinïk chuwäch itzel rupam.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY doorhanger_tracking_title2 "Chajinem chuwäch ri chajinïk">
+<!ENTITY doorhanger_tracking_title2 "Chajinem chuwäch chajinïk">
 <!ENTITY doorhanger_tracking_state_enabled "Jaqon">
 <!ENTITY doorhanger_tracking_state_disabled "Man jaqon ta">
 <!ENTITY doorhanger_tracking_message_enabled1 "Ri rutojtob\u0027exik richin nikanöx ri ab\u0027anikil pa k\u0027amab\u0027ey xeq\u0027at.">

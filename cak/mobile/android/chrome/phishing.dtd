@@ -24,4 +24,4 @@
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Q'aton ruxaq k'amaya'l">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Re ruxaq k'amaya'l re' <span id='forbidden_sitename'/> xq'at ruma ri anuk'ulem ajk'amaya'l.">
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Ri ajk'amaya'l ruxaq pa <span id='forbidden_sitename'/> xq'at ruma ri ruwäch ab'i' richin nuk'samajel.">
