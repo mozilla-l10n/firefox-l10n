@@ -98,7 +98,7 @@
      status activity, which lets them manage their Firefox
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; ਚੋਣਾਂ'>
-<!ENTITY fxaccount_options_configure_title 'Configure &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label; ਦੀ ਸੰਰਚਨਾ'>
 
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
@@ -108,7 +108,7 @@
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'ਖਾਤਾ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। &formatS1;'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'ਈਮੇਲ ਜਾਂ ਪਾਸਵਰਡ ਗਲਤ ਹੈ'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'ਈਮੇਲ ਜਾਂ ਪਾਸਵਰਡ ਗਲਤ ਹੈ>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'ਈਮੇਲ ਜਾਂ ਪਾਸਵਰਡ ਗਲਤ ਹੈ'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਗਿਆ'>
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'ਸਰਵਰ ਰੁਝਿਆ ਹੈ, ਛੇਤੀ ਹੀ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'ਸਰਵਰ ਰੁਝਿਆ ਹੈ, ਛੇਤੀ ਹੀ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ'>
