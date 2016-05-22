@@ -2,7 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY firstrun_panel_title_welcome "Bienvenido">
+<!ENTITY  onboard_start_message3 "Navegar con &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Haz que tu experiencia de navegación en la Web con tu móvil sea verdaderamente tuya.">
 
+<!ENTITY firstrun_urlbar_message "Bienvenido a &brandShortName;">
+<!ENTITY firstrun_bookmarks_message "Tus favoritos, al frente y centrados">
+<!ENTITY firstrun_bookmarks_subtext "Consigue resultados de tus marcadores e historial cuando estás buscando.">
+<!ENTITY firstrun_data_title "Datos">
+<!ENTITY firstrun_data_message "Menos datos, más resguardos">
 
 
 
