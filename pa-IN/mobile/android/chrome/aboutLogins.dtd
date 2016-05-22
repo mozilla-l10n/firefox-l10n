@@ -4,7 +4,7 @@
 <!ENTITY % brandDTD
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
-<!ENTITY aboutLogins.title                       "Logins">
-<!ENTITY aboutLogins.update                      "Update">
-<!ENTITY aboutLogins.emptyLoginText              "Keep your logins safe">
+<!ENTITY aboutLogins.title                       "ਲਾਗਇਨ">
+<!ENTITY aboutLogins.update                      "ਅੱਪਡੇਟ ਕਰੋ">
+<!ENTITY aboutLogins.emptyLoginText              "ਆਪਣੇ ਲਾਗਇਨ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ">
 <!ENTITY aboutLogins.emptyLoginHint              "Logins and credentials you save using &brandShortName; will show up here.">

@@ -17,5 +17,5 @@
 <!ENTITY newPref.toggleButton          "ਬਦਲੋ">
 <!ENTITY newPref.cancelButton          "ਰੱਦ ਕਰੋ">
 
-<!ENTITY contextMenu.copyPrefName      "ਨਾਂ ਕਾਪੀ ਕਰੋ">
-<!ENTITY contextMenu.copyPrefValue     "ਮੁੱਲ ਕਾਪੀ ਕਰੋ">
+<!ENTITY contextMenu.copyPrefName      "ਨਾਂ ਨੂੰ ਕਾਪੀ ਕਰੋ">
+<!ENTITY contextMenu.copyPrefValue     "ਮੁੱਲ ਨੂੰ ਕਾਪੀ ਕਰੋ">

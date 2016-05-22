@@ -13,9 +13,9 @@
 <!ENTITY aboutPage.checkForUpdates.link         "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ »">
 <!ENTITY aboutPage.checkForUpdates.checking     "…ਅੱਪਡੇਟ ਲੱਭੇ ਜਾ ਰਹੇ ਹਨ">
 <!ENTITY aboutPage.checkForUpdates.none         "ਕੋਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ">
-<!ENTITY aboutPage.checkForUpdates.available2   "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰੋ">
-<!ENTITY aboutPage.checkForUpdates.downloading  "…ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
-<!ENTITY aboutPage.checkForUpdates.downloaded2  "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY aboutPage.checkForUpdates.available2   "ਅੱਪਡੇਟ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ">
+<!ENTITY aboutPage.checkForUpdates.downloading  "…ਅੱਪਡੇਟ ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "ਅੱਪਡੇਟ ਨੂੰ ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY aboutPage.faq.label                    "ਸਵਾਲ-ਜਵਾਬ">
 <!ENTITY aboutPage.support.label                "ਸਹਿਯੋਗ">
 <!ENTITY aboutPage.privacyPolicy.label          "ਪਰਦੇਦਾਰੀ ਨੀਤੀ">

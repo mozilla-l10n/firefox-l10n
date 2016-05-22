@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
    
 <!ENTITY safeb.palm.accept.label "ਮੈਨੂੰ ਇੱਥੇ ਬਾਹਰ ਕੱਢੋ!">
-<!ENTITY safeb.palm.decline.label "ਇਹ ਚੇਤਾਵਨੀ ਅਣਡਿੱਠੀ">
+<!ENTITY safeb.palm.decline.label "ਇਹ ਚੇਤਾਵਨੀ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰੋ">
 
-<!ENTITY safeb.palm.reportPage.label "ਇਹ ਸਫ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਕਿਉਂ ਹੈ?">
-<!ENTITY safeb.palm.whyForbidden.label "Why was this page blocked?">
+<!ENTITY safeb.palm.reportPage.label "ਇਹ ਸਫ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਕਿਉਂ ਸੀ?">
+<!ENTITY safeb.palm.whyForbidden.label "ਇਹ ਸਫ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਕਿਓ ਸੀ?">
 <!ENTITY safeb.blocked.malwarePage.title "ਰਿਪੋਰਟ ਕੀਤਾ ਗਿਆ ਹਮਲਾਵਰ ਸਫ਼ਾ!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> ਉੱਤੇ ਇਹ ਵੈੱਬਸਾਈਟ ਨੂੰ ਹਮਲਾਵਰ ਸਫ਼ੇ ਵਜੋਂ ਰਿਪੋਰਟ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਪਸੰਦ ਮੁਤਾਬਕ ਇਸ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ।">
@@ -24,6 +24,6 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "This web page at <span id='unwanted_sitename'/> has been reported to contain unwanted software and has been blocked based on your security preferences.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Unwanted software pages try to install software that can be deceptive and affect your system in unexpected ways.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Blocked Site">
+<!ENTITY safeb.blocked.forbiddenPage.title2 "ਪਾਬੰਦੀ ਲਗਾਈ ਸਾਈਟ">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "The Web page at <span id='forbidden_sitename'/> has been blocked by your admin profile.">

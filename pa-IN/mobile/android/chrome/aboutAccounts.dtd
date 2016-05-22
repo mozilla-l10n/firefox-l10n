@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.connected.title "Firefox Accounts">
-<!ENTITY aboutAccounts.connected.description "You are connected as">
-<!ENTITY aboutAccounts.syncPreferences.label "Tap here to check Sync settings">
+<!ENTITY aboutAccounts.connected.title "ਫਾਇਰਫਾਕਸ ਖਾਤੇ">
+<!ENTITY aboutAccounts.connected.description "ਤੁਸੀਂ ਇਸ ਵਜੋਂ ਕਨੈਕਟ ਹੋ">
+<!ENTITY aboutAccounts.syncPreferences.label "ਸਿੰਕ ਸੈਟਿੰਗਾਂ ਨੂੰ ਚੈੱਕ ਕਰਨ ਲਈ ਇੱਥੇ ਟੈਪ ਕਰੋ">
 
-<!ENTITY aboutAccounts.noConnection.title "No Internet connection">
-<!ENTITY aboutAccounts.retry.label "Try again">
+<!ENTITY aboutAccounts.noConnection.title "ਕੋਈ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ">
+<!ENTITY aboutAccounts.retry.label "ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ">
 
-<!ENTITY aboutAccounts.restrictedError.title "Restricted">
-<!ENTITY aboutAccounts.restrictedError.description "You cannot manage Firefox Accounts from this profile.">
+<!ENTITY aboutAccounts.restrictedError.title "ਪਾਬੰਦੀਸ਼ੁਦਾ">
+<!ENTITY aboutAccounts.restrictedError.description "ਤੁਸੀਂ ਇਸ ਪਰੋਫਾਈਲ ਤੋਂ ਫਾਇਰਫਾਕਸ ਖਾਤਿਆਂ ਦਾ ਪਰਬੰਧ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ।">

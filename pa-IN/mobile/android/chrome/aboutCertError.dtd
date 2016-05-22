@@ -27,5 +27,5 @@ was trying to connect. -->
 <b>ਭਾਵੇਂ ਕਿ ਤੁਸੀਂ ਸਾਈਟ ਉੱਤੇ ਭਰੋਸਾ ਕਰਦੇ ਹੋ, ਇਸ ਗਲਤੀ ਦਾ ਅਰਥ ਹੈ ਕਿ ਕੋਈ ਤੁਹਾਡੇ ਕੁਨੈਕਸ਼ਨ ਨਾਲ ਸੰਨ੍ਹ ਲਾ ਰਿਹਾ ਹੈ।</b>">
 <!ENTITY certerror.expert.contentPara2 "ਛੋਟ ਨਾ ਦਿਓ, ਜਦੋਂ ਤੱਕ ਕਿ ਤੁਹਾਡੇ ਕੋਲ ਅਜਿਹਾ ਕੋਈ ਠੋਸ ਕਾਰਨ ਨਾ ਹੋਵੇ ਕਿ ਕਿਉ ਇਹ ਸਾਈਟ ਭਰੋਸੇਯੋਗ ਪਛਾਣ ਨਹੀਂ ਵਰਤਦੀ ਹੈ।">
 <!ENTITY certerror.addTemporaryException.label "ਸਾਈਟ ਵੇਖੋ">
-<!ENTITY certerror.addPermanentException.label "ਪੱਕੀ ਛੋਟ ਦਿਓ">
-<!ENTITY certerror.technical.heading "ਤਕਨੀਕੀ ਵੇਰਵਾ">
+<!ENTITY certerror.addPermanentException.label "ਪੱਕੇ ਤੌਰ \'ਤੇ ਛੋਟ ਦਿਓ">
+<!ENTITY certerror.technical.heading "ਤਕਨੀਕੀ ਵੇਰਵੇ">

@@ -2,43 +2,43 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "Welcome">
-<!ENTITY  onboard_start_message3 "Browse with &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Make your mobile Web browsing experience truly your own.">
+<!ENTITY firstrun_panel_title_welcome "ਜੀ ਆਇਆਂ ਨੂੰ">
+<!ENTITY  onboard_start_message3 "&brandShortName; ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ">
+<!ENTITY  onboard_start_subtext3 "ਆਪਣੇ ਮੋਬਾਈਲ ਵੈੱਬ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਤਜਰਬੇ ਨੂੰ ਸਹੀਂ ਰੂਪ ਵੀ ਆਪਣਾ ਬਣਾਓ">
 
-<!ENTITY firstrun_urlbar_message "Welcome to &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Find things faster with helpful search suggestion shortcuts.">
-<!ENTITY firstrun_bookmarks_title "History">
-<!ENTITY firstrun_bookmarks_message "Your faves, front and center">
-<!ENTITY firstrun_bookmarks_subtext "Get results from your bookmarks and history when you search.">
-<!ENTITY firstrun_data_title "Data">
-<!ENTITY firstrun_data_message "Less data, more savings">
-<!ENTITY firstrun_data_subtext2 "Turn off images to spend less data on every site you visit.">
-<!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, always by your side">
-<!ENTITY firstrun_sync_subtext "Sync your tabs, passwords, and more everywhere you use it.">
-<!ENTITY firstrun_signin_message "Get connected, get started">
-<!ENTITY firstrun_signin_button "Sign in to Sync">
-<!ENTITY  onboard_start_button_browser "Start Browsing">
-<!ENTITY firstrun_button_next "Next">
+<!ENTITY firstrun_urlbar_message "&brandShortName; ਲਈ ਜੀ ਆਇਆਂ ਨੂੰ">
+<!ENTITY firstrun_urlbar_subtext "ਮਦਦਗਾਰ ਖੋਜ ਸੁਝਾਅ ਸ਼ਾਰਟਕੱਟਾਂ ਨਾਲ ਚੀਜ਼ਾਂ ਨੂੰ ਸੌਖੀ ਤਰ੍ਹਾਂ ਲੱਭੋ।">
+<!ENTITY firstrun_bookmarks_title "ਅਤੀਤ">
+<!ENTITY firstrun_bookmarks_message "ਤੁਹਾਡੇ ਮਨਪਸੰਦ, ਅੱਗੇ ਅਤੇ ਕੇਂਦਰ ਵਿੱਚ">
+<!ENTITY firstrun_bookmarks_subtext "ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਅਤੀਤ ਤੋਂ ਨਤੀਜੇ ਲਵੋ, ਜਦੋਂ ਤੁਸੀਂ ਲੱਭਦੇ ਹੋ।">
+<!ENTITY firstrun_data_title "ਡਾਟਾ">
+<!ENTITY firstrun_data_message "ਘੱਟ ਡਾਟਾ, ਵੱਧ ਬੱਚਤ">
+<!ENTITY firstrun_data_subtext2 "ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਜਾਂਦੀ ਹਰ ਸਾਈਟ ਲਈ ਡਾਟੇ ਨੂੰ ਘਟਾਉਣ ਲਈ ਚਿੱਤਰਾਂ ਨੂੰ ਬੰਦ ਕਰੋ।">
+<!ENTITY firstrun_sync_title "ਸਿੰਕ ਕਰੋ">
+<!ENTITY firstrun_sync_message "&brandShortName;, ਹਮੇਸ਼ਾ ਤੁਹਾਡੇ ਵੱਲ ਹੈ">
+<!ENTITY firstrun_sync_subtext "ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ ਵਰਤੋ, ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ ਅਤੇ ਹੋਰਾਂ ਨੂੰ ਸਿੰਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।">
+<!ENTITY firstrun_signin_message "ਕਨੈਕਟ ਹੋਵੋ, ਸ਼ੁਰੂ ਕਰੋ">
+<!ENTITY firstrun_signin_button "ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ">
+<!ENTITY  onboard_start_button_browser "ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ">
+<!ENTITY firstrun_button_next "ਅੱਗੇ">
 
-<!ENTITY  onboard_start_restricted1 "Stay safe and in control with this simplified version of &brandShortName;.">
+<!ENTITY  onboard_start_restricted1 "&brandShortName; ਦੇ ਇਸ ਸਧਾਰਨ ਬਣਾਏ ਵਰਜ਼ਨ ਨਾਲ ਸੁਰੱਖਿਅਤ ਰਹੋ ਅਤੇ ਕੰਟਰੋਲ ਵਿੱਚ ਰੱਖੋ">
 
-<!ENTITY  reading_list_migration_title "Reading List connected">
+<!ENTITY  reading_list_migration_title "ਪੜ੍ਹਨ ਸੂਚੀ ਨੂੰ ਕਨੈਕਟ ਕੀਤਾ ਹੈ">
 <!ENTITY  reading_list_migration_subtext "Your Reading List items will now be added to your Bookmarks">
-<!ENTITY  reading_list_migration_goto_bookmarks "Go to Bookmarks">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Your Bookmarks panel is hidden">
+<!ENTITY  reading_list_migration_goto_bookmarks "ਬੁੱਕਮਾਰਕਾਂ ਉੱਤੇ ਜਾਓ">
+<!ENTITY  reading_list_migration_bookmarks_hidden "ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ ਪੈਨਲ ਨੂੰ ਓਹਲੇ ਕੀਤਾ">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Bookmarks">
-<!ENTITY  history_title "History">
-<!ENTITY  reading_list_title "Reading List">
-<!ENTITY  recent_tabs_title "Recent Tabs">
+<!ENTITY  bookmarks_title "ਬੁੱਕਮਾਰਕ">
+<!ENTITY  history_title "ਅਤੀਤ">
+<!ENTITY  reading_list_title "ਪੜ੍ਹਨ ਦੀ ਸੂਚੀ">
+<!ENTITY  recent_tabs_title "ਹਾਲ ਦੀਆਂ ਟੈਬਾਂ">
 
-<!ENTITY  switch_to_tab "Switch to tab">
+<!ENTITY  switch_to_tab "ਟੈਬ ਉੱਤੇ ਜਾਓ">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟ">
 <!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
 <!ENTITY  crash_send_report_message3 "Tell &vendorShortName; about this crash so they can fix it">
 <!ENTITY  crash_include_url2 "Include the address of the page I was on">
@@ -48,59 +48,59 @@
 <!ENTITY  crash_email "Your email">
 <!ENTITY  crash_closing_alert "Exit without sending a crash report?">
 <!ENTITY  sending_crash_report "Sending crash report\u2026">
-<!ENTITY  crash_close_label "Close">
-<!ENTITY  crash_restart_label "Restart &brandShortName;">
+<!ENTITY  crash_close_label "ਬੰਦ ਕਰੋ">
+<!ENTITY  crash_restart_label "&brandShortName; ਨੂੰ ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ">
 
-<!ENTITY url_bar_default_text2 "Search or enter address">
+<!ENTITY url_bar_default_text2 "ਖੋਜੋ ਜਾਂ ਐਡਰੈਸ ਨੂੰ ਲਿਖੋ">
 
-<!ENTITY bookmark "Bookmark">
-<!ENTITY bookmark_remove "Remove bookmark">
-<!ENTITY bookmark_added "Bookmark added">
+<!ENTITY bookmark "ਬੁੱਕਮਾਰਕ">
+<!ENTITY bookmark_remove "ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਓ">
+<!ENTITY bookmark_added "ਬੁੱਕਮਾਰਕ ਨੂੰ ਜੋੜਿਆ ਗਿਆ">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "Already bookmarked">
-<!ENTITY bookmark_removed "Bookmark removed">
-<!ENTITY bookmark_updated "Bookmark updated">
-<!ENTITY bookmark_options "Options">
-<!ENTITY screenshot_added_to_bookmarks "Screenshot added to bookmarks">
+<!ENTITY bookmark_already_added "ਪਹਿਲਾਂ ਹੀ ਬੁੱਕਮਾਰਕ ਕੀਤਾ ਗਿਆ">
+<!ENTITY bookmark_removed "ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਇਆ ਗਿਆ">
+<!ENTITY bookmark_updated "ਬੁੱਕਮਾਰਕ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ">
+<!ENTITY bookmark_options "ਚੋਣਾਂ">
+<!ENTITY screenshot_added_to_bookmarks "ਸਕਰੀਨਸ਼ਾਟ ਨੂੰ ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-<!ENTITY screenshot_folder_label_in_bookmarks "Screenshots">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "Reading List">
+<!ENTITY screenshot_folder_label_in_bookmarks "ਸਕਰੀਨਸ਼ਾਟ">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "ਪੜ੍ਹਨ ਦੀ ਸੂਚੀ">
 
-<!ENTITY reader_saved_offline "Saved offline">
+<!ENTITY reader_saved_offline "ਆਫ਼ਲਾਈਨ ਲਈ ਸੰਭਾਲਿਆ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
-<!ENTITY reader_switch_to_bookmarks "Switch">
+<!ENTITY reader_switch_to_bookmarks "ਬਦਲੋ">
 
-<!ENTITY history_today_section "Today">
-<!ENTITY history_yesterday_section "Yesterday">
-<!ENTITY history_week_section3 "Last 7 days">
-<!ENTITY history_older_section3 "Older than 6 months">
+<!ENTITY history_today_section "ਅੱਜ">
+<!ENTITY history_yesterday_section "ਕੱਲ੍ਹ">
+<!ENTITY history_week_section3 "ਪਿਛਲੇ 7 ਦਿਨ">
+<!ENTITY history_older_section3 "6 ਮਹੀਨਿਆਂ ਤੋਂ ਪੁਰਾਣੇ">
 
-<!ENTITY search "Search">
-<!ENTITY reload "Reload">
-<!ENTITY forward "Forward">
-<!ENTITY menu "Menu">
-<!ENTITY back "Back">
-<!ENTITY stop "Stop">
-<!ENTITY site_security "Site Security">
-<!ENTITY edit_mode_cancel "Cancel">
+<!ENTITY search "ਖੋਜੋ">
+<!ENTITY reload "ਮੁੜ-ਲੋਡ ਕਰੋ">
+<!ENTITY forward "ਅੱਗੇ ਜਾਓ">
+<!ENTITY menu "ਮੇਨੂ">
+<!ENTITY back "ਪਿੱਛੇ">
+<!ENTITY stop "ਰੋੋਕ">
+<!ENTITY site_security "ਸਾਈਟ ਦੀ ਸੁਰੱਖਿਆ">
+<!ENTITY edit_mode_cancel "ਰੱਦ ਕਰੋ">
 
-<!ENTITY close_tab "Close Tab">
-<!ENTITY one_tab "1 tab">
+<!ENTITY close_tab "ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ">
+<!ENTITY one_tab "1 ਟੈਬ">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
-<!ENTITY new_tab_opened "New tab opened">
-<!ENTITY new_private_tab_opened "New private tab opened">
+<!ENTITY num_tabs2 "&formatD; ਟੈਬਾਂ">
+<!ENTITY new_tab_opened "ਨਵੀਂ ਟੈਬ ਨੂੰ ਖੋਲ੍ਹਿਆ ਗਿਆ">
+<!ENTITY new_private_tab_opened "ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਨੂੰ ਖੋਲ੍ਹਿਆ ਗਿਆ">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "SWITCH">
+<!ENTITY switch_button_message "ਬਦਲੋ">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -108,174 +108,174 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
-<!ENTITY tab_title_prefix_is_playing_audio "Playing audio – &formatS;">
+<!ENTITY tab_title_prefix_is_playing_audio "ਆਡੀਓ ਚੱਲ ਰਹੀ ਹੈ – &formatS;">
 
-<!ENTITY settings "Settings">
-<!ENTITY settings_title "Settings">
-<!ENTITY pref_category_general "General">
-<!ENTITY pref_category_general_summary3 "Home, language, tab queue">
+<!ENTITY settings "ਸੈਟਿੰਗਾਂ">
+<!ENTITY settings_title "ਸੈਟਿੰਗਾਂ">
+<!ENTITY pref_category_general "ਆਮ">
+<!ENTITY pref_category_general_summary3 "ਮੁੱਖ ਸਫ਼ਾ, ਭਾਸ਼ਾ, ਟੈਬ ਦੀ ਕਤਾਰ">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-<!ENTITY pref_category_language "Language">
-<!ENTITY pref_category_language_summary "Change the language of your browser">
-<!ENTITY pref_browser_locale "Browser language">
+<!ENTITY pref_category_language "ਭਾਸ਼ਾ">
+<!ENTITY pref_category_language_summary "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਭਾਸ਼ਾ ਨੂੰ ਬਦਲੋ">
+<!ENTITY pref_browser_locale "ਬਰਾਊਜ਼ਰ ਦੀ ਭਾਸ਼ਾ">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "System default">
+<!ENTITY locale_system_default "ਸਿਸਟਮ ਦੀ ਮੂਲ">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-<!ENTITY overlay_share_label "Add to &brandShortName;">
+<!ENTITY overlay_share_label "&brandShortName; ਵਿੱਚ ਜੋੜੋ">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "Bookmark">
-<!ENTITY overlay_share_bookmark_btn_label_already "Already bookmarked">
-<!ENTITY overlay_share_send_other "Send to other devices">
+<!ENTITY overlay_share_bookmark_btn_label "ਬੁੱਕਮਾਰਕ">
+<!ENTITY overlay_share_bookmark_btn_label_already "ਪਹਿਲਾਂ ਹੀ ਬੁੱਕਮਾਰਕ ਹੈ">
+<!ENTITY overlay_share_send_other "ਹੋਰ ਡਿਵਾਈਸਾਂ ਲਈ ਭੇਜੋ">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "Send to another device">
-<!ENTITY overlay_share_no_url "No link found in this share">
-<!ENTITY overlay_share_select_device "Select device">
+<!ENTITY overlay_share_send_tab_btn_label "ਹੋਰ ਡਿਵਾਈਸ ਨੂੰ ਭੇਜੋ">
+<!ENTITY overlay_share_no_url "ਇਸ ਸਾਂਝ ਵਿੱਚ ਕੋਈ ਲਿੰਕ ਨਹੀਂ ਲੱਭਿਆ">
+<!ENTITY overlay_share_select_device "ਡਿਵਾਇਸ ਨੂੰ ਚੁਣੋ">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "No Firefox Account connected devices found">
+<!ENTITY overlay_no_synced_devices "ਕੋਈ ਵੀ ਫਾਇਰਫਾਕਸ ਖਾਤੇ ਨਾਲ ਕਨੈਕਟ ਹੋਇਆ ਡਿਵਾਇਸ ਨਹੀਂ ਲੱਭਿਆ">
 
-<!ENTITY pref_category_search3 "Search">
-<!ENTITY pref_category_search_summary2 "Add, set default, show suggestions">
-<!ENTITY pref_category_accessibility "Accessibility">
-<!ENTITY pref_category_accessibility_summary2 "Text size, zoom, voice input">
-<!ENTITY pref_category_privacy_short "Privacy">
-<!ENTITY pref_category_privacy_summary4 "Tracking, logins, data choices">
+<!ENTITY pref_category_search3 "ਖੋਜ">
+<!ENTITY pref_category_search_summary2 "ਜੋੜੋ, ਡਿਫਾਲਟ ਵਜੋਂ ਸੈੱਟ ਕਰੋ, ਸੁਝਾਆਵਾਂ ਨੂੰ ਵਿਖਾਓ">
+<!ENTITY pref_category_accessibility "ਅਸੈਸਬਿਲਟੀ">
+<!ENTITY pref_category_accessibility_summary2 "ਟੈਕਸਟ ਦਾ ਆਕਾਰ, ਜ਼ੂਮ, ਆਵਾਜ਼ ਰਾਹੀਂ ਇਨਪੁਟ">
+<!ENTITY pref_category_privacy_short "ਪਰਦੇਦਾਰੀ">
+<!ENTITY pref_category_privacy_summary4 "ਟਰੈਕਿੰਗ, ਲਾਗਇਨ, ਡਾਟਾ ਚੋਣਾਂ">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "About &brandShortName;, FAQs, feedback">
-<!ENTITY pref_category_datareporting "Data choices">
-<!ENTITY pref_category_logins "Logins">
-<!ENTITY pref_learn_more "Learn more">
-<!ENTITY pref_category_installed_search_engines "Installed search engines">
-<!ENTITY pref_category_add_search_providers "Add more search providers">
-<!ENTITY pref_category_search_restore_defaults "Restore search engines">
-<!ENTITY pref_search_restore_defaults "Restore defaults">
-<!ENTITY pref_search_restore_defaults_summary "Restore defaults">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName; ਬਾਰੇ, ਸਵਾਲ-ਜਵਾਬ, ਸੁਝਾਅ">
+<!ENTITY pref_category_datareporting "ਡਾਟੇ ਲਈ ਚੋਣਾਂ">
+<!ENTITY pref_category_logins "ਲਾਗਇਨ">
+<!ENTITY pref_learn_more "ਹੋਰ ਜਾਣੋ">
+<!ENTITY pref_category_installed_search_engines "ਇੰਸਟਾਲ ਹੋਏ ਖੋਜੀ ਇੰਜਣ">
+<!ENTITY pref_category_add_search_providers "ਹੋਰ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਿਆਂ ਨੂੰ ਜੋੜੋ">
+<!ENTITY pref_category_search_restore_defaults "ਖੋਜ ਇੰਜਣਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ">
+<!ENTITY pref_search_restore_defaults "ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ">
+<!ENTITY pref_search_restore_defaults_summary "ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint2 "TIP: Add any website to your list of search providers by long-pressing on its search field and then touching the &formatI; icon.">
-<!ENTITY pref_category_advanced "Advanced">
-<!ENTITY pref_category_advanced_summary3 "Restore tabs, data saver, developer tools">
-<!ENTITY pref_category_notifications "Notifications">
-<!ENTITY pref_category_notifications_summary "New features, website updates">
-<!ENTITY pref_content_notifications "Website updates">
-<!ENTITY pref_content_notifications_summary2 "Discover new content from supported sites">
-<!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
-<!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi debugging requires your device to have a QR code reader app installed.">
-<!ENTITY pref_remember_signons2 "Remember logins">
-<!ENTITY pref_manage_logins "Manage logins">
+<!ENTITY pref_category_advanced "ਤਨਕੀਕੀ">
+<!ENTITY pref_category_advanced_summary3 "ਟੈਬਾਂ, ਡਾਟਾ ਬੱਚਤਕਰਤਾ, ਡਿਵੈਲਪਰ ਟੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ">
+<!ENTITY pref_category_notifications "ਸੂਚਨਾਵਾਂ">
+<!ENTITY pref_category_notifications_summary "ਨਵੇਂ ਫੀਚਰ, ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਅੱਪਡੇਟ">
+<!ENTITY pref_content_notifications "ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਅੱਪਡੇਟ">
+<!ENTITY pref_content_notifications_summary2 "ਸਹਾਇਤਾ ਸਾਈਟਾਂ ਤੋਂ ਨਵੀਂ ਸਮੱਗਰੀ ਨੂੰ ਖੋਜੋ">
+<!ENTITY pref_developer_remotedebugging_usb "USB ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰੋ">
+<!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰੋ">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi  ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨ ਲਈ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ QR ਕੋਡ ਰੀਡਰ ਐਪ ਇੰਸਟਾਲ ਚਾਹੀਦੀ ਹੈ।">
+<!ENTITY pref_remember_signons2 "ਲਾਗਇਨਾਂ ਨੂੰ ਯਾਦ ਰੱਖੋ">
+<!ENTITY pref_manage_logins "ਲਾਗਇਨਾਂ ਦਾ ਪਰਬੰਧ ਕਰੋ">
 
-<!ENTITY pref_category_home "Home">
-<!ENTITY pref_category_home_summary "Customize your homepage">
-<!ENTITY pref_category_home_panels "Panels">
-<!ENTITY pref_category_home_add_ons "Add-ons">
-<!ENTITY pref_home_updates2 "Content updates">
-<!ENTITY pref_home_updates_enabled "Enabled">
-<!ENTITY pref_home_updates_wifi "Only over Wi-Fi">
-<!ENTITY pref_category_home_homepage "Homepage">
-<!ENTITY home_homepage_title "Set a Homepage">
+<!ENTITY pref_category_home "ਮੁੱਖ ਸਫ਼ਾ">
+<!ENTITY pref_category_home_summary "ਆਪਣੇ ਮੁੱਖ-ਸਫ਼ੇ ਨੂੰ ਆਪਣੀ ਪਸੰਦ ਮੁਤਾਬਕ ਬਣਾਓ">
+<!ENTITY pref_category_home_panels "ਪੈਨਲ">
+<!ENTITY pref_category_home_add_ons "ਐਡ-ਆਨ">
+<!ENTITY pref_home_updates2 "ਸਮੱਗਰੀ ਦੇ ਅੱਪਡੇਟ">
+<!ENTITY pref_home_updates_enabled "ਸਮਰੱਥ ਹੈ">
+<!ENTITY pref_home_updates_wifi "ਕੇਵਲ Wi-Fi ਰਾਹੀਂ ਹੀ">
+<!ENTITY pref_category_home_homepage "ਮੁੱਖ-ਸਫ਼ਾ">
+<!ENTITY home_homepage_title "ਮੁੱਖ-ਸਫ਼ੇ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "&brandShortName; Home">
+<!ENTITY home_homepage_radio_default "&brandShortName; ਮੁੱਖ-ਸਫ਼ਾ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
-<!ENTITY home_homepage_radio_user_address "Custom">
+<!ENTITY home_homepage_radio_user_address "ਕਸਟਮ">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "Enter address or search term">
+<!ENTITY home_homepage_hint_user_address "ਐਡਰੈਸ ਜਾਂ ਖੋਜ ਲਈ ਸ਼ਬਦ ਦਿਓ">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "General">
-<!ENTITY pref_header_search "Search">
-<!ENTITY pref_header_privacy_short "Privacy">
-<!ENTITY pref_header_accessibility "Accessibility">
-<!ENTITY pref_header_notifications "Notifications">
-<!ENTITY pref_header_advanced "Advanced">
-<!ENTITY pref_header_help "Help">
+<!ENTITY pref_header_general "ਆਮ">
+<!ENTITY pref_header_search "ਖੋਜ">
+<!ENTITY pref_header_privacy_short "ਪਰਦੇਦਾਰੀ">
+<!ENTITY pref_header_accessibility "ਅਸੈਸਬਿਲਟੀ">
+<!ENTITY pref_header_notifications "ਸੂਚਨਾਵਾਂ">
+<!ENTITY pref_header_advanced "ਤਕਨੀਕੀ">
+<!ENTITY pref_header_help "ਮਦਦ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
-<!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Enabled">
-<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
-<!ENTITY pref_cookies_disabled "Disabled">
+<!ENTITY pref_cookies_menu "ਕੂਕੀਜ਼">
+<!ENTITY pref_cookies_accept_all "ਸਮਰੱਥ ਹੈ">
+<!ENTITY pref_cookies_not_accept_foreign "ਸੁਤੰਤਰ ਧਿਰ ਤੋਂ ਬਿਨਾਂ ਸਮਰੱਥ">
+<!ENTITY pref_cookies_disabled "ਅਸਮਰੱਥ ਹੈ">
 
-<!ENTITY pref_category_data_saver "Data saver">
-<!ENTITY pref_category_media "Media">
-<!ENTITY pref_category_developer_tools "Developer tools">
+<!ENTITY pref_category_data_saver "ਡਾਟਾ ਬੱਚਤਕਰਤਾ">
+<!ENTITY pref_category_media "ਮੀਡੀਆ">
+<!ENTITY pref_category_developer_tools "ਡਿਵੈਲਪਰ ਟੂਲ">
 
-<!ENTITY pref_tap_to_load_images_title2 "Show images">
-<!ENTITY pref_tap_to_load_images_enabled "Always">
-<!ENTITY pref_tap_to_load_images_data "Only over Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled2 "Blocked">
+<!ENTITY pref_tap_to_load_images_title2 "ਚਿੱਤਰਾਂ ਨੂੰ ਵੇਖਣਾ">
+<!ENTITY pref_tap_to_load_images_enabled "ਹਮੇਸ਼ਾ">
+<!ENTITY pref_tap_to_load_images_data "ਕੇਵਲ Wi-Fi ਰਾਹੀਂ ਹੀ">
+<!ENTITY pref_tap_to_load_images_disabled2 "ਪਾਬੰਦੀ ਲਗਾਈ">
 
-<!ENTITY pref_show_web_fonts "Show web fonts">
-<!ENTITY pref_show_web_fonts_summary2 "Download remote fonts when loading a page">
+<!ENTITY pref_show_web_fonts "ਵੈੱਬ ਫ਼ੋਂਟਾਂ ਨੂੰ ਦਿਖਾਓ">
+<!ENTITY pref_show_web_fonts_summary2 "ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਕਰਨ ਦੇ ਦੌਰਾਨ ਰਿਮੋਟ ਫ਼ੋਂਟਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ">
 
-<!ENTITY pref_tracking_protection_title2 "Tracking Protection">
-<!ENTITY pref_tracking_protection_summary3 "Enabled in Private Browsing">
-<!ENTITY pref_donottrack_title "Do not track">
-<!ENTITY pref_donottrack_summary "&brandShortName; will tell sites that you do not want to be tracked">
+<!ENTITY pref_tracking_protection_title2 "ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ">
+<!ENTITY pref_tracking_protection_summary3 "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੱਚ ਸਮਰੱਥ ਹੈ">
+<!ENTITY pref_donottrack_title "ਟਰੈਕ ਨਾ ਕਰੋ">
+<!ENTITY pref_donottrack_summary "&brandShortName; ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੇਗਾ ਕਿ ਤੁਸੀਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ">
 
-<!ENTITY pref_tracking_protection_enabled "Enabled">
-<!ENTITY pref_tracking_protection_enabled_pb "Enabled in Private Browsing">
-<!ENTITY pref_tracking_protection_disabled "Disabled">
+<!ENTITY pref_tracking_protection_enabled "ਸਮਰੱਥ ਹੈ">
+<!ENTITY pref_tracking_protection_enabled_pb "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੱਚ ਸਮਰੱਥ ਹੈ">
+<!ENTITY pref_tracking_protection_disabled "ਅਸਮਰੱਥ ਹੈ">
 
-<!ENTITY pref_whats_new_notification "What\'s new in &brandShortName;">
-<!ENTITY pref_whats_new_notification_summary "Learn about new features after an update">
+<!ENTITY pref_whats_new_notification "&brandShortName; ਵਿੱਚ ਨਵਾਂ ਕੀ ਹੈ">
+<!ENTITY pref_whats_new_notification_summary "ਅੱਪਡੇਟ ਦੇ ਬਾਅਦ ਨਵੇਂ ਫੀਚਰਾਂ ਬਾਰੇ ਜਾਣੋ">
 
-<!ENTITY tracking_protection_prompt_title "Now with Tracking Protection">
-<!ENTITY tracking_protection_prompt_text "Actively block tracking elements so you don\'t have to worry.">
-<!ENTITY tracking_protection_prompt_tip_text "Visit Privacy settings to learn more">
-<!ENTITY tracking_protection_prompt_action_button "Got it!">
+<!ENTITY tracking_protection_prompt_title "ਹੁਣ ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ ਦੇ ਨਾਲ">
+<!ENTITY tracking_protection_prompt_text "ਸਰਗਰਮ ਰੂਪ ਵਿੱਚ ਟਰੈਕ ਕੀਤੇ ਜਾਣ ਵਾਲੇ ਭਾਗਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਜਾਂਦੀ ਹੈ ਤਾਂ ਕਿ ਤੁਹਾਨੂੰ ਫ਼ਿਕਰ ਨਾ ਕਰਨਾ ਪਵੇ।">
+<!ENTITY tracking_protection_prompt_tip_text "ਹੋਰ ਸਿੱਖਣ ਲਈ ਪਰਦੇਦਾਰੀ ਸੈਟਿੰਗਾਂ ਨੂੰ ਖੋਲ੍ਹੋ">
+<!ENTITY tracking_protection_prompt_action_button "ਸਮਝ ਗਏ!">
 
-<!ENTITY tab_queue_toast_message3 "Tab saved in &brandShortName;">
-<!ENTITY tab_queue_toast_action "Open now">
-<!ENTITY tab_queue_prompt_title "Opening multiple links?">
-<!ENTITY tab_queue_prompt_text4 "Save them until the next time you open &brandShortName;.">
-<!ENTITY tab_queue_prompt_tip_text2 "You can change this later in Settings">
+<!ENTITY tab_queue_toast_message3 "&brandShortName; ਵਿੱਚ ਟੈਬ ਨੂੰ ਸੰਭਾਲਿਆ ਗਿਆ">
+<!ENTITY tab_queue_toast_action "ਹੁਣੇ ਖੋਲ੍ਹੋ">
+<!ENTITY tab_queue_prompt_title "ਕਈ ਲਿੰਕਾਂ ਨੂੰ ਖੋਲ੍ਹਣਾ ਹੈ?">
+<!ENTITY tab_queue_prompt_text4 "ਉਹਨਾਂ ਨੂੰ ਅਗਲੀ ਵਾਰ &brandShortName; ਖੋਲ੍ਹਣ ਤੱਕ ਸੰਭਾਲੋ">
+<!ENTITY tab_queue_prompt_tip_text2 "ਤੁਸੀਂ ਬਾਅਦ \'ਚ ਸੈਟਿੰਗਾਂ ਵਿੱਚੋਂ ਇਸ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "Turn on Permit drawing over other apps">
-<!ENTITY tab_queue_prompt_positive_action_button "Enable">
-<!ENTITY tab_queue_prompt_negative_action_button "Not now">
+<!ENTITY tab_queue_prompt_positive_action_button "ਸਮਰੱਥ ਕਰੋ">
+<!ENTITY tab_queue_prompt_negative_action_button "ਹੁਣੇ ਨਹੀਂ">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "Go to Settings">
+<!ENTITY tab_queue_prompt_settings_button "ਸੈਟਿੰਗਾਂ ਉੱਤੇ ਜਾਓ">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural2 "&formatD; tabs waiting">
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ਟੈਬਾਂ ਉਡੀਕ \'ਚ ਹਨ">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular2 "1 tab waiting">
+<!ENTITY tab_queue_notification_text_singular2 "1 ਟੈਬ ਉਡੀਕ \'ਚ ਹੈ">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
@@ -286,36 +286,36 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; websites updated">
-<!ENTITY content_notification_action_settings "Notifications Setting">
+<!ENTITY content_notification_title_plural "&formatD; ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ">
+<!ENTITY content_notification_action_settings "ਸੂਚਨਾਵਾਂ ਦੀ ਸੈਟਿੰਗ">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Updated on &formatS;">
+<!ENTITY content_notification_updated_on "&formatS; ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ">
 
-<!ENTITY pref_char_encoding "Character encoding">
-<!ENTITY pref_char_encoding_on "Show menu">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
-<!ENTITY pref_clear_private_data2 "Clear private data">
+<!ENTITY pref_char_encoding "ਅੱਖਰਾਂ ਦੀ ਇੰਕੋਡਿੰਗ">
+<!ENTITY pref_char_encoding_on "ਮੇਨੂ ਨੂੰ ਦਿਖਾਓ">
+<!ENTITY pref_char_encoding_off "ਮੇਨੂ ਨੂੰ ਨਾ ਦਿਖਾਓ">
+<!ENTITY pref_clear_private_data2 "ਪ੍ਰਾਈਵੇਟ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
-<!ENTITY pref_clear_private_data_now_tablet "Clear now">
-<!ENTITY pref_clear_on_exit_title3 "Clear private data on exit">
+<!ENTITY pref_clear_private_data_now_tablet "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY pref_clear_on_exit_title3 "ਬੰਦ ਕਰਨ ਉੱਤੇ ਪ੍ਰਾਈਵੇਟ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; will automatically clear your data whenever you select \u0022Quit\u0022 from the main menu">
-<!ENTITY pref_clear_on_exit_dialog_title "Select which data to clear">
-<!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Enabled">
-<!ENTITY pref_plugins_tap_to_play2 "Touch to play">
-<!ENTITY pref_plugins_disabled "Disabled">
-<!ENTITY pref_text_size "Text size">
-<!ENTITY pref_restore_tabs "Restore tabs">
-<!ENTITY pref_restore_always "Always restore">
-<!ENTITY pref_restore_quit "Don\'t restore after quitting &brandShortName;">
-<!ENTITY pref_font_size_tiny "Tiny">
-<!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
-<!ENTITY pref_font_size_large "Large">
-<!ENTITY pref_font_size_xlarge "Extra Large">
+<!ENTITY pref_clear_on_exit_dialog_title "ਚੋਣ ਕਰੋ ਕਿ ਕਿਸ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਹੈ">
+<!ENTITY pref_plugins "ਪਲੱਗਇਨ">
+<!ENTITY pref_plugins_enabled "ਸਮਰੱਥ ਹੈ">
+<!ENTITY pref_plugins_tap_to_play2 "ਚਲਾਉਣ ਲਈ ਛੂਹੋ">
+<!ENTITY pref_plugins_disabled "ਅਸਮਰੱਥ ਹੈ">
+<!ENTITY pref_text_size "ਲਿਖਤ ਦਾ ਆਕਾਰ">
+<!ENTITY pref_restore_tabs "ਟੈਬਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ">
+<!ENTITY pref_restore_always "ਹਮੇਸ਼ਾ ਬਹਾਲ ਕਰੋ">
+<!ENTITY pref_restore_quit "&brandShortName; ਬੰਦ ਕਰਨ ਦੇ ਬਾਅਦ ਬਹਾਲ ਨਾ ਕਰੋ">
+<!ENTITY pref_font_size_tiny "ਨਿੰਮ੍ਹੀ">
+<!ENTITY pref_font_size_small "ਛੋਟੀ">
+<!ENTITY pref_font_size_medium "ਮੱਧਮ">
+<!ENTITY pref_font_size_large "ਵੱਡੀ">
+<!ENTITY pref_font_size_xlarge "ਬਹੁਤ ਵੱਡੀ">
 <!ENTITY pref_font_size_set "Set">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
@@ -328,52 +328,52 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
-<!ENTITY pref_media_autoplay_enabled "Allow autoplay">
+<!ENTITY pref_media_autoplay_enabled "ਆਪਣੇ-ਆਪ ਚੱਲਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 <!ENTITY pref_media_autoplay_enabled_summary "Control if websites can autoplay videos and other media content">
-<!ENTITY pref_zoom_force_enabled "Always enable zoom">
+<!ENTITY pref_zoom_force_enabled "ਜ਼ੂਮ ਨੂੰ ਹਮੇਸ਼ਾ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY pref_zoom_force_enabled_summary "Force override so you can zoom any page">
-<!ENTITY pref_voice_input "Voice input">
+<!ENTITY pref_voice_input "ਆਵਾਜ਼ ਰਾਹੀਂ ਇਨਪੁਟ">
 <!ENTITY pref_voice_input_summary2 "Allow voice dictation in the URL bar">
-<!ENTITY pref_qrcode_enabled "QR code reader">
+<!ENTITY pref_qrcode_enabled "QR ਕੋਡ ਰੀਡਰ">
 <!ENTITY pref_qrcode_enabled_summary2 "Allow QR scanner in the URL bar">
 
-<!ENTITY pref_use_master_password "Use master password">
-<!ENTITY pref_sync2 "Sign in">
-<!ENTITY pref_sync_summary2 "Sync your tabs, bookmarks, logins, history">
-<!ENTITY pref_search_suggestions "Show search suggestions">
-<!ENTITY pref_history_search_suggestions "Show search history">
-<!ENTITY pref_import_options "Import options">
-<!ENTITY pref_import_android_summary "Import bookmarks and history from the native browser">
-<!ENTITY pref_private_data_history2 "Browsing history">
-<!ENTITY pref_private_data_searchHistory "Search history">
-<!ENTITY pref_private_data_formdata2 "Form history">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
-<!ENTITY pref_private_data_passwords2 "Saved logins">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings2 "Site settings">
-<!ENTITY pref_private_data_downloadFiles2 "Downloads">
-<!ENTITY pref_private_data_syncedTabs "Synced tabs">
+<!ENTITY pref_use_master_password "ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ">
+<!ENTITY pref_sync2 "ਸਾਈਨ ਇਨ ਕਰੋ">
+<!ENTITY pref_sync_summary2 "ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕਾਂ, ਲਾਗਇਨ, ਅਤੀਤ ਨੂੰ ਸਿੰਕ ਕਰੋ">
+<!ENTITY pref_search_suggestions "ਖੋਜ ਲਈ ਸੁਝਾਆਵਾਂ ਨੂੰ ਦਿਖਾਓ">
+<!ENTITY pref_history_search_suggestions "ਖੋਜ ਦੇ ਅਤੀਤ ਨੂੰ ਦਿਖਾਓ">
+<!ENTITY pref_import_options "ਇੰਪੋਰਟ ਕਰਨ ਦੀ ਚੋਣਾਂ">
+<!ENTITY pref_import_android_summary "ਅਸਲ ਬਰਾਊਜ਼ਰ ਤੋਂ ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ ਨੂੰ ਇੰਪੋਰਟ ਕਰੋ">
+<!ENTITY pref_private_data_history2 "ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ">
+<!ENTITY pref_private_data_searchHistory "ਖੋਜ ਦਾ ਅਤੀਤ">
+<!ENTITY pref_private_data_formdata2 "ਫਾਰਮਾਂ ਦਾ ਅਤੀਤ">
+<!ENTITY pref_private_data_cookies2 "ਕੂਕੀਜ਼ ਤੇ ਸਰਗਰਮ ਲਾਗਇਨ">
+<!ENTITY pref_private_data_passwords2 "ਸੰਭਾਲੇ ਹੋਏ ਲਾਗਇਨ">
+<!ENTITY pref_private_data_cache "ਕੈਸ਼">
+<!ENTITY pref_private_data_offlineApps "ਆਫਲਾਈਨ ਵੈੱਬਸਾਈਟਾਂ ਦਾ ਡਾਟਾ">
+<!ENTITY pref_private_data_siteSettings2 "ਸਾਈਟ ਦੀਆਂ ਸੈਟਿੰਗਾਂ">
+<!ENTITY pref_private_data_downloadFiles2 "ਡਾਊਨਲੋਡ">
+<!ENTITY pref_private_data_syncedTabs "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ">
 
-<!ENTITY pref_default_browser "Make default browser">
-<!ENTITY pref_about_firefox "About &brandShortName;">
-<!ENTITY pref_vendor_faqs "FAQs">
-<!ENTITY pref_vendor_feedback "Give feedback">
+<!ENTITY pref_default_browser "ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ">
+<!ENTITY pref_about_firefox "&brandShortName; ਬਾਰੇ">
+<!ENTITY pref_vendor_faqs "ਸਵਾਲ-ਜਵਾਬ">
+<!ENTITY pref_vendor_feedback "ਸੁਝਾਅ ਦਿਓ">
 
-<!ENTITY pref_dialog_set_default "Set as default">
-<!ENTITY pref_dialog_default "Default">
-<!ENTITY pref_dialog_remove "Remove">
+<!ENTITY pref_dialog_set_default "ਮੂਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">
+<!ENTITY pref_dialog_default "ਮੂਲ">
+<!ENTITY pref_dialog_remove "ਹਟਾਓ">
 
-<!ENTITY pref_search_last_toast "You can\'t remove or disable your last search engine.">
+<!ENTITY pref_search_last_toast "ਤੁਸੀਂ ਆਪਣੀ ਆਖਰੀ ਖੋਜ ਇੰਜਣ ਨਹੂੰ ਹਟਾ ਨਹੀਂ ਸਕਦੇ ਹੋ।">
 
-<!ENTITY pref_panels_show "Show">
-<!ENTITY pref_panels_hide "Hide">
-<!ENTITY pref_panels_reorder "Change order">
-<!ENTITY pref_panels_move_up "Move up">
-<!ENTITY pref_panels_move_down "Move down">
+<!ENTITY pref_panels_show "ਦਿਖਾਓ">
+<!ENTITY pref_panels_hide "ਲੁਕਾਓ">
+<!ENTITY pref_panels_reorder "ਕ੍ਰਮ ਨੂੰ ਬਦਲੋ">
+<!ENTITY pref_panels_move_up "ਉੱਤੇ ਭੇਜੋ">
+<!ENTITY pref_panels_move_down "ਹੇਠਾਂ ਭੇਜੋ">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-<!ENTITY datareporting_notification_action "Choose what to share">
+<!ENTITY datareporting_notification_title "&brandShortName; ਅੰਕੜੇ ਤੇ ਡਾਟਾ">
+<!ENTITY datareporting_notification_action "ਸਾਂਝਾ ਕਰਨ ਲਈ ਚੁਣੋ">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Choose what information to share">
 <!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
@@ -401,26 +401,26 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Automatic updates">
-<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Never">
-<!ENTITY pref_update_autodownload_always "Always">
+<!ENTITY pref_update_autodownload3 "ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ ਕਰੋ">
+<!ENTITY pref_update_autodownload_wifi "ਸਿਰਫ਼ Wi-Fi \'ਤੇ ਹੀ">
+<!ENTITY pref_update_autodownload_never "ਕਦੇ ਨਹੀਂ">
+<!ENTITY pref_update_autodownload_always "ਹਮੇਸ਼ਾ">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
-<!ENTITY help_menu "Help">
+<!ENTITY help_menu "ਮਦਦ">
 
-<!ENTITY quit "Quit">
+<!ENTITY quit "ਬਾਹਰ ਜਾਓ">
 
-<!ENTITY addons "Add-ons">
-<!ENTITY logins "Logins">
-<!ENTITY downloads "Downloads">
-<!ENTITY char_encoding "Character Encoding">
+<!ENTITY addons "ਐਡ-ਆਨ">
+<!ENTITY logins "ਲਾਗਇਨ">
+<!ENTITY downloads "ਡਾਊਨਲੋਡ">
+<!ENTITY char_encoding "ਅੱਖਰਾਂ ਦੀ ਇੰਕੋਡਿੰਗ">
 
-<!ENTITY share "Share">
-<!ENTITY share_title "Share via">
+<!ENTITY share "ਸਾਂਝਾ ਕਰੋ">
+<!ENTITY share_title "ਇਸ ਰਾਹੀਂ ਸਾਂਝਾ ਕਰੋ">
 <!ENTITY share_image_failed "Unable to share this image">
-<!ENTITY save_as_pdf "Save as PDF">
-<!ENTITY print "Print">
+<!ENTITY save_as_pdf "PDF ਵਜੋਂ ਸੰਭਾਲੋ">
+<!ENTITY print "ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY find_in_page "Find in Page">
 <!ENTITY desktop_mode "Request Desktop Site">
 <!ENTITY page "Page">
