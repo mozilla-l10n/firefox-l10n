@@ -78,7 +78,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Ri rajaw re <span class='hostname'/> man ütz ta xunuk'ub'ej ri ruxaq k'amaya'l.  Richin natob'ej ri awetamab'al richin man teleq'äx, &brandShortName; man xatrokisaj ta pa re ruxaq k'amaya'l re'.">
 
-<!ENTITY sharedLongDesc "<ul> <li>Wakami rik'in jub'a' man wachel ta re ruxaq k'amaa'l re' o janila k'o yesamajin. Tatojtob'ej pa jun chik ti ramaj.</li> <li>We man yatikïr ta yatok pa majun ruxaq, tanik'oj ri awokem pa ruk'amab'ey ri asamajib'al.</li> <li>We ri asamajib'al o k'amab'ey tajin nichajïx ruma jun firewall o proxi, tajikib'a' chi ri &brandShortName; ya'on q'ij chi re chi nok pa k'amaya'l.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Wakami rik'in jub'a' man wachel ta re ruxaq k'amaa'l re' o janila k'o yesamajin. Tatojtob'ej chik pa jun ti ramaj.</li> <li>We man yatikïr ta yatok pa majun ruxaq, tanik'oj ri awokem pa ruk'amab'ey ri asamajib'al.</li> <li>We ri asamajib'al o k'amab'ey tajin nichajïx ruma jun firewall o proxi, tajikib'a' chi ri &brandShortName; ya'on q'ij chi re chi nok pa k'amaya'l.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Q'aton ruma ri runa'ojil ruchajixik rupam">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xusamajib'ej ruxaq k'amaya'l pa rub'eyal re' ruma ruchajin jun runa'oj rujikomal rupam, ri man nuya' ta q'ij.</p>">

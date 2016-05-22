@@ -15,7 +15,7 @@
 <!ENTITY  noupdatesautodisabled.intro     "Majun taq k'exoj ruwäch e k'o. Takanoj jun chik q'ij, ütz chuqa' natzïj ri ruyonil taq k'exoj ruwäch ri &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Man nitikïr ta nuk'ëx ruwäch">
-<!ENTITY  manualUpdate.desc               "Niq'alajin jun k'exoj ruwäch, ri chilab'en richin chajinïk chuqa' richin nik'ase', xa xe chi  majun kiya'on qij chawe pa q'inoj richin nayäk qa. Kab'etzijon  rik'in ri anuk'samajel richin q'inoj, chuqa' ütz natojtob'ej pa jun chik retal taqoya'l ri  ya'on q'ij chi re' richin nuyäk ri kema' pa re samajib'äl re'.">
+<!ENTITY  manualUpdate.desc               "Niq'alajin jun k'exoj ruwäch, ri chilab'en richin chajinïk chuqa' richin nik'ase', xa xe chi  majun kiya'on qij chawe pa q'inoj richin nayäk qa. Kab'etzijon  rik'in ri anuk'samajel richin q'inoj, chuqa' ütz natojtob'ej chik pa jun retal taqoya'l ri ya'on q'ij chi re richin nuyäk ri kema' pa re samajib'äl re'.">
 <!ENTITY  manualUpdate.space.desc         "Niwachin pe jun k'exoj ruäch, ri chilab'en richin chajinïk chuqa' richin nik'ase', xa xe chi nub'än ta rupam rujolom richin niyak chi ronojel.">
 <!ENTITY  manualUpdateGetMsg.label        "Junelïk yatikïr nawïl ri ruk'isib'äl ruwäch ri &brandShortName; pa:">
 

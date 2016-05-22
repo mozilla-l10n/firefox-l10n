@@ -44,7 +44,7 @@
 <!ENTITY translation.errorTranslating.label     "Xk'ulwachitäj jun sachoj toq xtzalq'omïx re ruxaq re'.">
 <!ENTITY translation.tryAgain.button            "Titojtob'ëx chik">
 
-<!ENTITY translation.serviceUnavailable.label   "Wakami man wachel ta ri tzalq'omanï. Tab'ana' utzil tatojtob'ej pa jun chik ti ramaj.">
+<!ENTITY translation.serviceUnavailable.label   "Wakami man wachel ta ri tzalq'omanï. Tab'ana' utzil tatojtob'ej chik pa jun ti ramaj.">
 
 <!ENTITY translation.options.menu               "Taq cha'oj">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
