@@ -22,7 +22,7 @@
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "Môžete tiež">
+<!ENTITY  doNotTrack.pre.label          "Môžete tiež ">
 <!ENTITY  doNotTrack.settings.label     "spravovať nastavenia funkcie Do Not Track">
 <!ENTITY  doNotTrack.post.label         ".">
 
