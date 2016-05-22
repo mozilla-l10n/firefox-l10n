@@ -7,7 +7,7 @@
 <!ENTITY aboutAccounts.syncPreferences.label "Tapitz'a' wawe' richin nanik'oj runuk'ulem Sync">
 
 <!ENTITY aboutAccounts.noConnection.title "Man niwachin ta jun okem pa k'amaya'l">
-<!ENTITY aboutAccounts.retry.label "Titojtob'ëx jumul chik">
+<!ENTITY aboutAccounts.retry.label "Titojtob'ëx chik">
 
 <!ENTITY aboutAccounts.restrictedError.title "Q'aton rusamaj">
 <!ENTITY aboutAccounts.restrictedError.description "Man tikirel ta yesamajïx el taq rutaqoya'l Firefox richin re ruwäch b'i'aj re'.">
