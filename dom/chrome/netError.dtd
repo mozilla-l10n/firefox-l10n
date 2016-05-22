@@ -19,6 +19,9 @@
 <!ENTITY fileNotFound.title "Bestân net fûn">
 <!ENTITY fileNotFound.longDesc "<ul><li>Kin it item omneamd, fuortsmiten of ferpleatst wêze?</li><li>Siet der in stavering-, haadletter- of oare typografyske flater yn it adres?</li><li>Ha jo genôch tagongsrjochten foar it opfrege item?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Tagong ta it bestân is wegere">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>It kin fuortsmiten wêze, ferpleatst, of bestânsmachtigingen kinne tagong tsjingean.</li></ul>">
+
 <!ENTITY generic.title "Kin oanfraach net foltôgje">
 <!ENTITY generic.longDesc "<p>Ekstra ynformaasje oer dit probleem of dizze flater is op dit stuit net beskikber.</p>">
 
@@ -89,3 +92,8 @@
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Nim kontakt op mei de website-eigners om se te ynformearjen oer dit probleem.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Jo ferbining is net befeilige">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûnthulle wêrfan jo tochten dat dizze feilich wienen. De websitebehearder moat earst de server yn oarder meitsje eardat jo de website besykje kinne.</p><p>Flaterkoade: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
