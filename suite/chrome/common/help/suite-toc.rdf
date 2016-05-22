@@ -203,7 +203,7 @@
         <rdf:li> <rdf:Description ID="mail-doc-send-reply" nc:name="Responder a un mensaje" nc:link="mailnews_using_mail.xhtml#replying_to_a_message"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send-forward" nc:name="Reenviar un mensaje" nc:link="mailnews_using_mail.xhtml#forwarding_a_message"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send-receipt" nc:name="Confirmar que su mensaje ha sido abierto" nc:link="mailnews_using_mail.xhtml#confirming_that_your_message_was_opened"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="mail-doc-send-edit" nc:name="Guardar y editar borradores" nc:link="mailnews_using_mail.xhtml#saving_and_editing_a_message_draft"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-doc-send-edit" nc:name="Guardar y editar borradores" nc:link="mailnews_using_mail.xhtml#saving_and_editing_a_draft_message"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-doc-send-template" nc:name="Crear y usar plantillas" nc:link="mailnews_using_mail.xhtml#creating_and_using_templates"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
