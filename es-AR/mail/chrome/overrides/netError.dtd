@@ -37,6 +37,12 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Acceso denegado al archivo">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Puede haber sido eliminado, movido o los permisos del archivo pueden evitar el acceso.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
@@ -128,7 +134,6 @@
 </ul>
 ">
 
-
 <!ENTITY nssFailure2.title "Fallo en conexión segura">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
@@ -158,27 +163,6 @@ ser temporal y puede inentarlo nuevamente más tarde.</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "¡Sitio sospechoso de ataque!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Los sitios de ataque tratan de instalar programas que roban información privada, usan su computadora para atacar otras o dañan su sistema.</p>
-<p>Los dueños de sitios web que creen que su sitio ha sido reportado como un sitio de ataque por error pueden <a href='http://www.stopbadware.org/home/reviewinfo' >pedir una revisión</a>.</p>
-">
-
-<!ENTITY unwantedBlocked.title "¡Sitio sospechoso de software no deseado!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Páginas de software no deseado tratan de instalar programas que pueden ser engañosos y afectar a su sistema en formas inesperadas.</p>
-">
-
-<!ENTITY phishingBlocked.title "¡Sitio sospechoso de fraude!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Ingresando cualquier información personal en esta página puede resultar en robo de identidad o algún otro fraude.</p>
-<p>Estos tipos de falsificaciones web son usados en estafas conocidas como ataques de <i>phishing</i>, en los que páginas web y correos electrónicos fraudulentos son usados para imitar fuentes en las que puede confiar.</p>
-">
-
-<!ENTITY forbiddenBlocked.title "Sitio prohibido">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue porque la configuración la tiene bloqueada.</p>
-">
-
 <!ENTITY cspBlocked.title "Bloqueado por política de seguridad de contenido">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que se cargue esta página de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
 
@@ -203,4 +187,3 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte a los dueños del sitio web para informarles este problema.</li></ul></p>">
-
