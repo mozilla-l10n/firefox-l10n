@@ -10,7 +10,7 @@
 <!ENTITY aboutSupport.crashes.title "Çökme Raporları">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!ENTITY aboutSupport.crashes.id "Rapor kimliği">
+<!ENTITY aboutSupport.crashes.id "Rapor numarası">
 <!ENTITY aboutSupport.crashes.sendDate "Gönderilme tarihi">
 <!ENTITY aboutSupport.crashes.allReports "Tüm çökme raporları">
 <!ENTITY aboutSupport.crashes.noConfig "Bu uygulama, çökme raporlarını görüntülemek için yapılandırılmamış.">
@@ -33,7 +33,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Uygulama temelleri">
 <!ENTITY aboutSupport.appBasicsName "Adı">
 <!ENTITY aboutSupport.appBasicsVersion "Sürüm">
-<!ENTITY aboutSupport.appBasicsBuildID "Yapı kimliği">
+<!ENTITY aboutSupport.appBasicsBuildID "Yapı numarası">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
@@ -103,7 +103,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Kum havuzu">
 
 <!ENTITY aboutSupport.safeModeTitle "Güvenli kipi deneyin">
-<!ENTITY aboutSupport.restartInSafeMode.label "Eklentileri devre dışı bırakıp başlat…">
+<!ENTITY aboutSupport.restartInSafeMode.label "Eklentileri devre dışı bırakıp yeniden başlat…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Özellikler">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Tanılama">
