@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY firstrun_panel_title_welcome "欢迎使用">
 <!ENTITY  onboard_start_message3 "使用 &brandShortName; 浏览">
 <!ENTITY  onboard_start_subtext3 "让移动互联网浏览体验有你的风格。">
 
