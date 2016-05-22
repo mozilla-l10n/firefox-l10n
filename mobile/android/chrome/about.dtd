@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY aboutPage.title                        "Acerca de &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; es experimental y puede ser inestable.">
+<!ENTITY aboutPage.telemetryStart               " Automáticamente envía información sobre rendimiento, hardware, uso y personalizaciones a ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " para ayudar a mejorar &brandShortName;.">
+<!ENTITY aboutPage.checkForUpdates.link         "Buscar Actualizaciones »">
+<!ENTITY aboutPage.checkForUpdates.checking     "Buscando actualizaciones…">
+<!ENTITY aboutPage.checkForUpdates.none         "No hay actualizaciones disponibles">
+<!ENTITY aboutPage.checkForUpdates.available2   "Descargar acutalización">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Descargando actualización…">
+
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
