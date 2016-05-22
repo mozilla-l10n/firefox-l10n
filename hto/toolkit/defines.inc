@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Minica Huitoto (hto)
+#define MOZ_LANG_TITLE Mɨnɨka (Uitoto)

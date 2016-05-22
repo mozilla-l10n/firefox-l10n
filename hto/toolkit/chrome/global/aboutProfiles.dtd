@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutProfiles.title "About Profiles">
-<!ENTITY aboutProfiles.subtitle "This page helps you to manage your profiles. Each profile is a separate world which contains separate history, bookmarks, settings and add-ons.">
-<!ENTITY aboutProfiles.create "Create a New Profile">
-<!ENTITY aboutProfiles.restart.title "Restart">
-<!ENTITY aboutProfiles.restart.inSafeMode "Restart with Add-ons Disabled…">
-<!ENTITY aboutProfiles.restart.normal "Restart normally…">
+<!ENTITY aboutProfiles.title "Náama mamekɨ ráfue">
+
+<!ENTITY aboutProfiles.create "Kómue náama mamekɨ fɨno">
+<!ENTITY aboutProfiles.restart.title "Meine táɨne">
+<!ENTITY aboutProfiles.restart.inSafeMode "Ábɨdo taɨne jɨaɨmakɨ ráa dɨga...">
+<!ENTITY aboutProfiles.restart.normal "Dánomo ñúe taɨne...">

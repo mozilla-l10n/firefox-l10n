@@ -2,44 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label             "Startup">
+<!ENTITY startup.label             "Táɨnia">
 
-<!ENTITY startupPage.label         "When &brandShortName; starts:">
-<!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "Show my home page">
-<!ENTITY startupBlankPage.label    "Show a blank page">
-<!ENTITY startupLastSession.label  "Show my windows and tabs from last time">
+<!ENTITY startupPage.label         "Táɨneyena &brandShortName;:">
+<!ENTITY startupPage.accesskey     "T">
+<!ENTITY startupHomePage.label     "Taɨnia rabe akatri">
+<!ENTITY startupBlankPage.label    "Táɨno rabe akatri">
+<!ENTITY startupLastSession.label  "Iraikaño yuamo  akátari éroirafo uitɨraɨ tuide dɨga">
 
-<!ENTITY homepage.label            "Home Page:">
-<!ENTITY homepage.accesskey        "P">
-<!ENTITY useCurrentPage.label      "Use Current Page">
-<!ENTITY useCurrentPage.accesskey  "C">
-<!ENTITY useMultiple.label         "Use Current Pages">
-<!ENTITY chooseBookmark.label      "Use Bookmark…">
-<!ENTITY chooseBookmark.accesskey  "B">
-<!ENTITY restoreDefault.label      "Restore to Default">
-<!ENTITY restoreDefault.accesskey  "R">
+<!ENTITY homepage.label            "Taɨnia rabe:">
+<!ENTITY homepage.accesskey        "T">
+<!ENTITY useCurrentPage.label      "Kómue rabe fɨno">
+<!ENTITY useCurrentPage.accesskey  "f">
+<!ENTITY useMultiple.label         "Bírui íte rabenɨaɨ fɨno">
+<!ENTITY chooseBookmark.label      "Rɨgɨnua fɨno…">
+<!ENTITY chooseBookmark.accesskey  "f">
+<!ENTITY restoreDefault.label      "Jógega ranɨaɨ abɨdo jóne">
+<!ENTITY restoreDefault.accesskey  "J">
 
-<!ENTITY downloads.label     "Downloads">
+<!ENTITY downloads.label     "Yúnua">
 
-<!ENTITY saveTo.label "Save files to">
-<!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label        "Browse…">
-<!ENTITY chooseFolderWin.accesskey    "o">
-<!ENTITY chooseFolderMac.label        "Choose…">
-<!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Always ask me where to save files">
-<!ENTITY alwaysAsk.accesskey "A">
+<!ENTITY saveTo.label "Dáma jone bénomo">
+<!ENTITY saveTo.accesskey "D">
+<!ENTITY chooseFolderWin.label        "Ñúe éroide...">
+<!ENTITY chooseFolderWin.accesskey    "é">
+<!ENTITY chooseFolderMac.label        "Nɨzede...">
+<!ENTITY chooseFolderMac.accesskey    "N">
+<!ENTITY alwaysAsk.label "Jɨkano nɨne jóneyena">
+<!ENTITY alwaysAsk.accesskey "n">
 
-<!ENTITY alwaysCheckDefault2.label        "Always check if &brandShortName; is your default browser">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
-<!ENTITY setAsMyDefaultBrowser2.label     "Make Default">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
-<!ENTITY isDefault.label                  "&brandShortName; is currently your default browser">
-<!ENTITY isNotDefault.label               "&brandShortName; is not your default browser">
+<!ENTITY alwaysCheckDefault2.label        "Ñúe éroiri &brandShortName; ó makara ja beno íte">
+<!ENTITY alwaysCheckDefault2.accesskey    "Ñ">
+<!ENTITY setAsMyDefaultBrowser2.label     "Fɨ́no dɨno íyena">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
+<!ENTITY isDefault.label                  "&brandShortName; ó makara ja beno íte">
+<!ENTITY isNotDefault.label               "&brandShortName; ó makara ja beno íte">
 
-<!ENTITY separateProfileMode.label        "Allow &brandShortName; and Firefox to run at the same time">
-<!ENTITY useFirefoxSync.label             "Tip: This uses separate profiles. Use Sync to share data between them.">
-<!ENTITY getStarted.label                 "Start using Sync…">
+<!ENTITY separateProfileMode.label        "Ɨ́fotari &brandShortName; Firefox dánomo aizɨ́ri">
+<!ENTITY useFirefoxSync.label             "Yetarafue: Náama mamekɨ jɨaɨno jone. Sync jóne ráfúe fekayena áfemakɨmo.">
+<!ENTITY getStarted.label                 "Sync dɨga komo taɨjɨ…">
 
-<!ENTITY e10sEnabled.label                "Enable multi-process &brandShortName;">
+<!ENTITY e10sEnabled.label                "Áiyo fɨnua abɨdo taɨneye &brandShortName;">

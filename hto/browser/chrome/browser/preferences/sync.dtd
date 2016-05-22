@@ -1,108 +1,108 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
 
+<!ENTITY setupButton.label          "Abɨdo fɨnoka &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "A">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; bíe íyano ó jofo jaiadɨ, jagaɨmo, fakara, ó gaɨga úitɨraɨ">
 <!-- The page shown when logged in... -->
-
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Update">
-<!ENTITY resetPass.label              "Reset">
 
+
+<!ENTITY updatePass.label             "Méidote">
+<!ENTITY resetPass.label              "Ábɨdo fɨno">
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "Change Password…">
-<!ENTITY myRecoveryKey.label          "My Recovery Key">
-<!ENTITY resetSync2.label             "Reset Sync…">
 
-<!ENTITY pairDevice.label             "Pair a Device">
+<!ENTITY manageAccount.label          "Kúe dáma fákara">
+<!ENTITY manageAccount.accesskey      "d">
+<!ENTITY changePassword2.label        "Jɨaɨe fakara jone…">
+<!ENTITY myRecoveryKey.label          "Kúe ónoiga abɨdo fɨnóyena">
+<!ENTITY resetSync2.label             "Ábɨdo fɨno Sync…">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
-<!ENTITY engine.addons.label        "Add-ons">
-<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY pairDevice.label             "Dáamakɨ dá jóriaɨ">
 
+<!ENTITY syncMy.label               "Dáamakɨ">
+<!ENTITY engine.bookmarks.label     "Rɨgɨnua">
+<!ENTITY engine.bookmarks.accesskey "R">
+<!ENTITY engine.tabs.label          "Úitɨraɨ">
+<!ENTITY engine.tabs.accesskey      "Ú">
+<!ENTITY engine.history.label       "Jáganɨaɨ">
+<!ENTITY engine.history.accesskey   "a">
+<!ENTITY engine.passwords.label     "Fakára ráa">
+<!ENTITY engine.passwords.accesskey "F">
+<!ENTITY engine.prefs.label         "Kúe gaɨga">
+<!ENTITY engine.prefs.accesskey     "a">
+<!ENTITY engine.addons.label        "Jɨaɨe">
+<!ENTITY engine.addons.accesskey    "J">
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
-<!ENTITY fxaSyncDeviceName.label       "Device Name">
-<!ENTITY changeSyncDeviceName.label "Change Device Name…">
-<!ENTITY cancelChangeSyncDeviceName.label "Cancel">
-<!ENTITY saveChangeSyncDeviceName.label "Save">
-<!ENTITY unlinkDevice.label           "Unlink This Device">
 
+<!ENTITY syncDeviceName.label       "Jóriaɨ mámekɨ:">
+<!ENTITY syncDeviceName.accesskey   "m">
+<!ENTITY fxaSyncDeviceName.label       "Jóriaɨ mámekɨ">
+<!ENTITY changeSyncDeviceName.label "Jóriaɨ jɨaɨe mamekɨ jóne...">
+<!ENTITY cancelChangeSyncDeviceName.label "Fúita">
+<!ENTITY saveChangeSyncDeviceName.label "Jóne">
+<!ENTITY unlinkDevice.label           "Óni jóneri jóriaɨ">
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Privacy Policy">
 
+<!ENTITY prefs.tosLink.label        "Taɨniamo, ñúe ite">
+<!ENTITY prefs.ppLink.label         "Okuira daama íyena.">
 <!-- Firefox Accounts stuff -->
-<!ENTITY fxaPrivacyNotice.link.label "Privacy Notice">
-<!ENTITY determiningAcctStatus.label     "Determining your account status…">
 
+<!ENTITY fxaPrivacyNotice.link.label "Káɨe bíe fáka Dáma kue úai">
+<!ENTITY determiningAcctStatus.label     "Fákara íyano...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-<!ENTITY signedInUnverified.beforename.label "">
-<!ENTITY signedInUnverified.aftername.label "is not verified.">
 
+<!ENTITY signedInUnverified.beforename.label "Fákara íyano...">
+<!ENTITY signedInUnverified.aftername.label "Naɨ éroñega.">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-<!ENTITY signedInLoginFailure.beforename.label "Please sign in to reconnect">
-<!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "You are not signed in.">
-<!ENTITY signIn.label                "Sign in">
-<!ENTITY profilePicture.tooltip      "Change profile picture">
-<!ENTITY verifiedManage.label        "Manage Account">
-<!ENTITY disconnect.label            "Disconnect…">
-<!ENTITY verify.label                "Verify Email">
-<!ENTITY forget.label                "Forget this Email">
+<!ENTITY signedInLoginFailure.beforename.label "Ábɨno nitayena taɨne yuamo">
+<!ENTITY signedInLoginFailure.aftername.label "Ábɨno nitayena taɨne yuamo">
 
-<!ENTITY welcome.description "Access your tabs, bookmarks, passwords and more wherever you use &brandShortName;.">
-<!ENTITY welcome.signIn.label "Sign In">
-<!ENTITY welcome.createAccount.label "Create Account">
+<!ENTITY notSignedIn.label           "Yuamo taɨneñedɨio.">
+<!ENTITY signIn.label                "Mámekɨ yóne">
+<!ENTITY profilePicture.tooltip      "Jɨaɨe jóreño ó náama mamekɨmo jóne">
+<!ENTITY verifiedManage.label        "Kúe dáma fákara">
+<!ENTITY disconnect.label            "Óni áño...">
+<!ENTITY verify.label                "Ñúe éroir ó úiraɨma">
+<!ENTITY forget.label                "Féitari ó úiraɨma">
 
-<!ENTITY welcome.useOldSync.label "Using an older version of Sync?">
+<!ENTITY welcome.description "Ó taɨjɨamo íyano fakara, rɨgɨnua úitɨraɨ dɨga jofo bi biemo &brandShortName;.">
+<!ENTITY welcome.signIn.label "Mámekɨ yóne">
+<!ENTITY welcome.createAccount.label "Fákara fɨno">
 
-<!ENTITY signedOut.caption            "Take your Web with you">
-<!ENTITY signedOut.description        "Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.">
-<!ENTITY signedOut.accountBox.title   "Connect with a &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Create Account">
-<!ENTITY signedOut.accountBox.signin  "Sign In">
+<!ENTITY welcome.useOldSync.label "¿Jáiaie ránɨaɨ jóneyena Sync?">
 
-<!ENTITY signedIn.engines.label       "Sync across all devices">
+<!ENTITY signedOut.caption            "Web ó dɨga jáide">
+<!ENTITY signedOut.description        "Dáamakɨ jone rigɨnua, jagaɨ, úitɨraɨ, fakara íemei ó gaɨga ráa ó jóriaɨmo.">
+<!ENTITY signedOut.accountBox.title   "Zɨtade &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Fákara fɨno">
+<!ENTITY signedOut.accountBox.signin  "Mámekɨ yóne">
 
+<!ENTITY signedIn.engines.label       "Jóriaɨ damakɨ jóne">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
-<!ENTITY mobilePromo3.start            "Download Firefox for ">
+
+<!ENTITY mobilePromo3.start            "Firefox yunude nɨbai ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "Android">
-
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
-<!ENTITY mobilePromo3.iOSBefore         " or ">
+
+<!ENTITY mobilePromo3.iOSBefore         " o ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              " to sync with your mobile device.">
+<!ENTITY mobilePromo3.end              " dáamakɨ ó jóriaɨ dɨga.">
