@@ -18,6 +18,7 @@
 <!ENTITY props.path.label                  "Ubicación:">
 <!ENTITY props.secure.label                "Enviada por:">
 <!ENTITY props.expires.label               "Expira:">
+<!ENTITY props.container.label             "Contenedor:">
 
 <!ENTITY window.title                      "Cookies">
 <!ENTITY windowClose.key                   "w">
