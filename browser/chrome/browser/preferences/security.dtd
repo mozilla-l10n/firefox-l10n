@@ -33,7 +33,7 @@
 
 <!ENTITY  useMasterPassword.label        "Usar una contraseña maestra">
 <!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "Cambiar contraseña maestra…">
+<!ENTITY  changeMasterPassword.label     "Cambiar la contraseña maestra…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
 <!ENTITY  savedLogins.label              "Conexiones guardadas…">

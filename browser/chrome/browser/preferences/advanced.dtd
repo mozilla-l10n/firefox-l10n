@@ -30,18 +30,18 @@
 
 <!ENTITY dataChoicesTab.label            "Elección de datos">
 
-<!ENTITY healthReportDesc.label          "Le ayuda a entender el rendimiento de su navegador y comparte datos con &vendorShortName; sobre la salud de su navegador">
+<!ENTITY healthReportDesc.label          "Te ayuda a entender el rendimiento del navegador y comparte los datos de salud del navegador con &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Activar reporte de salud de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Aprender más">
 
-<!ENTITY telemetryDesc.label             "Comparte datos de rendimiento, uso, hardware y personalizaciones de su navegador con &vendorShortName; para ayudarnos a mejorar &brandShortName;">
+<!ENTITY telemetryDesc.label             "Comparte los datos de rendimiento, uso, hardware y personalizaciones del navegador con &vendorShortName; para ayudarnos a mejorar &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Compartir datos adicionales (por ejemplo: telemetría)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Aprender más">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; envía reporte de fallos a &vendorShortName; para hacer más estable y seguro su navegador">
-<!ENTITY enableCrashReporter.label       "Activar reporte de fallos">
+<!ENTITY crashReporterDesc.label         "&brandShortName; envía informes de fallos a &vendorShortName; para hacer más estable y seguro al navegador">
+<!ENTITY enableCrashReporter.label       "Activar informes de fallos">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Aprender más">
 
@@ -96,7 +96,7 @@
 <!ENTITY enableSearchUpdate.label        "Motores de búsqueda">
 <!ENTITY enableSearchUpdate.accesskey    "b">
 
-<!ENTITY offlineNotify.label             "Avisarme cuando un sitio web pide almacenar datos para uso sin conexión">
+<!ENTITY offlineNotify.label             "Avisarme cuando un sitio web pida almacenar datos para uso sin conexión">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Excepciones…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
@@ -116,7 +116,7 @@
 <!ENTITY certs.ask.accesskey             "g">
 <!ENTITY enableOCSP.label                "Consultar a los servidores de respuesta OCSP para confirmar la validez actual de los certificados">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "Ver Certificados">
+<!ENTITY viewCerts.label                 "Ver certificados">
 <!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewSecurityDevices.label       "Dispositivos de Seguridad">
+<!ENTITY viewSecurityDevices.label       "Dispositivos de seguridad">
 <!ENTITY viewSecurityDevices.accesskey   "D">

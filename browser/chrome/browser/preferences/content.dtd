@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Notificaciones">
 <!ENTITY  notificationsPolicyLearnMore.label   "Aprender más">
-<!ENTITY  notificationsPolicyDesc3.label       "Elegir que sitios tienen permitido enviarle notificaciones">
+<!ENTITY  notificationsPolicyDesc3.label       "Elegir que sitios tienen permitido enviarte notificaciones">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Elegir…">
 <!ENTITY  notificationsDoNotDisturb.label      "No molestarme">
@@ -19,9 +19,9 @@
 <!ENTITY  popupExceptions.label       "Excepciones…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  fontsAndColors.label        "Fuentes y colores">
+<!ENTITY  fontsAndColors.label        "Tipografías y colores">
 
-<!ENTITY  defaultFont.label           "Fuente por defecto:">
+<!ENTITY  defaultFont.label           "Tipografía predeterminada:">
 <!ENTITY  defaultFont.accesskey       "d">
 <!ENTITY  defaultSize.label           "Tamaño:">
 <!ENTITY  defaultSize.accesskey       "T">
@@ -34,8 +34,8 @@
 
 
 <!ENTITY languages.label              "Idiomas">
-<!ENTITY chooseLanguage.label         "Elija su idioma preferido para mostrar páginas Web.">
-<!ENTITY chooseButton.label           "Seleccionar…">
+<!ENTITY chooseLanguage.label         "Elige tu idioma preferido para mostrar páginas Web.">
+<!ENTITY chooseButton.label           "Elegir…">
 <!ENTITY chooseButton.accesskey       "o">
 
 <!ENTITY translateWebPages.label      "Traducir contenido web">

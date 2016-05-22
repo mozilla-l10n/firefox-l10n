@@ -106,7 +106,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFonts): This is the label displayed
   -  in the network details footer for the "Fonts" filtering button. -->
-<!ENTITY netmonitorUI.footer.filterFonts  "Fuentes">
+<!ENTITY netmonitorUI.footer.filterFonts  "Tipografías">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterImages): This is the label displayed
   -  in the network details footer for the "Images" filtering button. -->
