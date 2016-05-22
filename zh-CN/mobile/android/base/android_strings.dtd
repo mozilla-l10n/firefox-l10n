@@ -23,8 +23,8 @@
 
 <!ENTITY  onboard_start_restricted1 "使用简化的 &brandShortName; 版本，确保安全和可控。">
 
-<!ENTITY  reading_list_migration_title "阅读列表已与书签打通">
-<!ENTITY  reading_list_migration_subtext "您的“阅读列表”项目现在将添加到您的书签">
+<!ENTITY  reading_list_migration_title "阅读列表已与书签连通">
+<!ENTITY  reading_list_migration_subtext "您在“阅读列表”添加的项目现在将添加为您的书签">
 <!ENTITY  reading_list_migration_goto_bookmarks "转至书签">
 <!ENTITY  reading_list_migration_bookmarks_hidden "您的书签面板已隐藏">
 
@@ -41,7 +41,7 @@
 <!ENTITY  crash_message2 "&brandShortName; 因某个问题而崩溃。您的标签页将在下次启动的 &brandShortName; 开始页中列出。">
 <!ENTITY  crash_send_report_message3 "告知 &vendorShortName; 有关此次崩溃的情况，以便修复此问题">
 <!ENTITY  crash_include_url2 "包含当时访问页面的地址">
-<!ENTITY  crash_sorry "我们很抱歉">
+<!ENTITY  crash_sorry "非常抱歉">
 <!ENTITY  crash_comment "添加说明（说明是公开可见的）">
 <!ENTITY  crash_allow_contact2 "允许 &vendorShortName; 就此报告与我联系">
 <!ENTITY  crash_email "您的电子邮箱">
@@ -333,7 +333,7 @@ size. -->
 <!ENTITY pref_zoom_force_enabled_summary "强制让所有页面都能缩放">
 <!ENTITY pref_voice_input "语音输入">
 <!ENTITY pref_voice_input_summary2 "允许在地址栏进行语音输入">
-<!ENTITY pref_qrcode_enabled "二维码读取器">
+<!ENTITY pref_qrcode_enabled "二维码扫描器">
 <!ENTITY pref_qrcode_enabled_summary2 "允许地址栏显示二维码扫描器">
 
 <!ENTITY pref_use_master_password "使用主密码">
@@ -482,7 +482,7 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "放大较小区域">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "触摸链接和表单字段周围放大它们">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "触摸链接和表单字段周围时放大网页">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -728,7 +728,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!ENTITY devtools_auth_scan_header "在您的其他设备上扫描该二维码">
+<!ENTITY devtools_auth_scan_header "扫描您的其他设备上显示的二维码">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
