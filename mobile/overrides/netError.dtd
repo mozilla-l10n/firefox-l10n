@@ -26,6 +26,7 @@
   <li>Revise si el archivo fue movido, renombrado o eliminado.</li>
 </ul>">
 
+<!ENTITY fileAccessDenied.title "El acceso al archivo fue denegado">
 
 <!ENTITY generic.title "Chita.">
 <!ENTITY generic.longDesc "
@@ -83,13 +84,18 @@
 
 <!ENTITY unknownSocketType.title "Respuesta inesperada del servidor">
 
+<!ENTITY nssFailure2.title "Falló la conexión segura">
 
+<!ENTITY nssBadCert.title "Falló la conexión segura">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
 
+<!ENTITY corruptedContentError.title "Error de contenido corrupto">
 
+<!ENTITY securityOverride.getMeOutOfHereButton "¡Sácame de aquí!">
+<!ENTITY securityOverride.exceptionButtonLabel "Añadir excepción…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
@@ -97,12 +103,19 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
+<!ENTITY remoteXUL.title "XUL remoto">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacta a los dueños del sitio para informarles del problema.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "No se puede conectar de forma segura">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Tu conexión no es segura">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Información avanzada: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "Tu conexión no es segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
