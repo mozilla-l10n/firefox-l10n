@@ -5,18 +5,24 @@
 <!ENTITY safeb.palm.accept.label "¡Sáquenme de aquí!">
 <!ENTITY safeb.palm.decline.label "Ignorar esta advertencia">
 <!ENTITY safeb.palm.reportPage.label "¿Por qué fue bloqueada esta página?">
+<!ENTITY safeb.palm.whyForbidden.label "¿Por qué fue bloqueada esta página?">
 
 <!ENTITY safeb.blocked.malwarePage.title "¡Página informada como ataque!">
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "La página web en <span id='malware_sitename'/> ha sido informada como una página de ataque y ha sido bloqueada según sus preferencias de seguridad.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Las páginas de ataque tratan de instalar programas que roban información privada, usan su computadora para atacar otras o dañan su sistema.</p><p>Algunas páginas de ataque intencionalmente distribuyen software dañino, pero muchos están comprometidos sin el conocimiento o permiso de sus dueños.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "¡Fraude web informado!">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Esta página web en <span id='phishing_sitename'/> ha sido informada como fraudulenta y ha sido bloqueada según sus preferencias de seguridad.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Los fraudes web imitan fuentes en las que confía y tratan de engañarlo para que revele información personal o financiera.</p><p>Ingresar cualquier información en esta página web puede resultar en robo de identidad o algún otro fraude.</p>">
+<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
-<!ENTITY reportPhishSite.label         "Informar fraude web…">
-<!ENTITY reportPhishSite.accesskey     "f">
-<!ENTITY notAForgery.label             "Este no es un fraude web…">
-<!ENTITY notAForgery.accesskey         "f">
+<!ENTITY safeb.blocked.phishingPage.title2 "¡Sitio engañoso!">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
+<!ENTITY safeb.blocked.forbiddenPage.title2 "Sitio bloqueado">
+<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "El sitio web en <span id='forbidden_sitename'/> ha sido bloqueado por el administrador del perfil.">
+
+<!ENTITY reportDeceptiveSite.label "Informar sitio engañoso…">
+<!ENTITY reportDeceptiveSite.accesskey "s">
+<!ENTITY notADeceptiveSite.label "Este no es un sitio engañoso…">
+<!ENTITY notADeceptiveSite.accesskey "E">
+
