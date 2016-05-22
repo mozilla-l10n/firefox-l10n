@@ -1,15 +1,15 @@
 <!ENTITY inspectorHTMLEdit.label "Editar como HTML">
 <!ENTITY inspectorHTMLEdit.accesskey "E">
-<!ENTITY inspectorHTMLCopyInner.label "Copiar el HTML interno">
-<!ENTITY inspectorHTMLCopyInner.accesskey "I">
-<!ENTITY inspectorHTMLCopyOuter.label "Copiar el HTML externo">
-<!ENTITY inspectorHTMLCopyOuter.accesskey "O">
-<!ENTITY inspectorCopyUniqueSelector.label "Copiar selector único">
-<!ENTITY inspectorCopyUniqueSelector.accesskey "s">
-<!ENTITY inspectorHTMLPasteOuter.label "Pegar HTML exterior">
-<!ENTITY inspectorHTMLPasteOuter.accesskey "H">
-<!ENTITY inspectorHTMLPasteInner.label "Pegar HTML interno">
-<!ENTITY inspectorHTMLPasteInner.accesskey "L">
+<!ENTITY inspectorCopyInnerHTML.label "HTML interno">
+<!ENTITY inspectorCopyInnerHTML.accesskey "i">
+<!ENTITY inspectorCopyOuterHTML.label "HTML externo">
+<!ENTITY inspectorCopyOuterHTML.accesskey "e">
+<!ENTITY inspectorCopyCSSSelector.label "Selector CSS">
+<!ENTITY inspectorCopyCSSSelector.accesskey "S">
+<!ENTITY inspectorPasteOuterHTML.label "HTML externo">
+<!ENTITY inspectorPasteOuterHTML.accesskey "e">
+<!ENTITY inspectorPasteInnerHTML.label "HTML interno">
+<!ENTITY inspectorPasteInnerHTML.accesskey "i">
 <!ENTITY inspectorHTMLPasteExtraSubmenu.label "Pegar…">
 <!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey "P">
 <!ENTITY inspectorHTMLPasteBefore.label "Antes">
@@ -24,8 +24,8 @@
 <!ENTITY inspectorScrollNodeIntoView.accesskey "v">
 <!ENTITY inspectorHTMLDelete.label "Eliminar nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "D">
-<!ENTITY inspectorAttributeSubmenu.label "Atributo">
-<!ENTITY inspectorAttributeSubmenu.accesskey "A">
+<!ENTITY inspectorAttributesSubmenu.label "Atributos">
+<!ENTITY inspectorAttributesSubmenu.accesskey "u">
 <!ENTITY inspectorAddAttribute.label "Añadir atributo">
 <!ENTITY inspectorAddAttribute.accesskey "A">
 <!ENTITY inspectorEditAttribute.label "Editar atributo">
@@ -33,10 +33,8 @@
 <!ENTITY inspectorRemoveAttribute.label "Eliminar atributo">
 <!ENTITY inspectorRemoveAttribute.accesskey "b">
 <!ENTITY inspector.selectButton.tooltip "Seleccionar un elemento con el ratón">
-<!ENTITY inspectorSearchHTML.label2 "Buscar con selectores CSS">
-<!ENTITY inspectorSearchHTML.key "F">
 <!ENTITY inspectorSearchHTML.label3 "Buscar en HTML">
-<!ENTITY inspectorCopyImageDataUri.label "Copiar Data-URL de la imagen">
+<!ENTITY inspectorImageDataUri.label "Data-URL de imagen">
 <!ENTITY inspectorShowDOMProperties.label "Mostrar propiedades DOM">
 <!ENTITY inspectorUseInConsole.label "Usar en consola">
 <!ENTITY inspectorExpandNode.label "Expandir todo">
@@ -45,3 +43,5 @@
 <!ENTITY inspectorDuplicateNode.label "Duplicar nodo">
 <!ENTITY inspectorAddNode.label "Crear nodo nuevo">
 <!ENTITY inspectorAddNode.accesskey "n">
+<!ENTITY inspectorCopyHTMLSubmenu.label "Copiar">
+<!ENTITY inspectorPasteHTMLSubmenu.label "Pegar">
