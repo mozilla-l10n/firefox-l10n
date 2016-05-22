@@ -462,7 +462,7 @@ size. -->
 <!ENTITY contextmenu_site_settings "Sedłowe nastajenja wobźěłaś">
 <!ENTITY contextmenu_top_sites_edit "Wobźěłaś">
 <!ENTITY contextmenu_top_sites_pin "Sedło pśipěś">
-<!ENTITY contextmenu_top_sites_unpin "Sedko wótpěś">
+<!ENTITY contextmenu_top_sites_unpin "Sedło wótpěś">
 <!ENTITY contextmenu_add_search_engine "Pytnicu pśidaś">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
