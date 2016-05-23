@@ -4,14 +4,22 @@
 
 <!ENTITY inspectorHTMLEdit.label "Edytuj jako HTML">
 <!ENTITY inspectorHTMLEdit.accesskey "E">
-<!ENTITY inspectorHTMLCopyInner.label "Kopiuj wewnętrzny HTML">
-<!ENTITY inspectorHTMLCopyInner.accesskey "K">
-<!ENTITY inspectorHTMLCopyOuter.label "Kopiuj zewnętrzny HTML">
-<!ENTITY inspectorHTMLCopyOuter.accesskey "z">
-<!ENTITY inspectorHTMLPasteOuter.label "Wklej zewnętrzny HTML">
-<!ENTITY inspectorHTMLPasteOuter.accesskey "l">
-<!ENTITY inspectorHTMLPasteInner.label "Wklej wewnętrzny HTML">
-<!ENTITY inspectorHTMLPasteInner.accesskey "H">
+
+<!ENTITY inspectorCopyHTMLSubmenu.label "Kopiuj">
+<!ENTITY inspectorCopyInnerHTML.label "Wewnętrzny HTML">
+<!ENTITY inspectorCopyInnerHTML.accesskey "W">
+<!ENTITY inspectorCopyOuterHTML.label "Zewnętrzny HTML">
+<!ENTITY inspectorCopyOuterHTML.accesskey "Z">
+<!ENTITY inspectorCopyCSSSelector.label "Selector CSS">
+<!ENTITY inspectorCopyCSSSelector.accesskey "S">
+<!ENTITY inspectorImageDataUri.label "Obraz jako Data-URL">
+
+<!ENTITY inspectorPasteHTMLSubmenu.label "Wklej">
+<!ENTITY inspectorPasteOuterHTML.label "Zewnętrzny HTML">
+<!ENTITY inspectorPasteOuterHTML.accesskey "Z">
+<!ENTITY inspectorPasteInnerHTML.label "Wewnętrzny HTML">
+<!ENTITY inspectorPasteInnerHTML.accesskey "W">
+
 <!ENTITY inspectorHTMLPasteExtraSubmenu.label "Wklej…">
 <!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey "W">
 <!ENTITY inspectorHTMLPasteBefore.label "Przed">
@@ -26,18 +34,15 @@
 <!ENTITY inspectorScrollNodeIntoView.accesskey "P">
 <!ENTITY inspectorHTMLDelete.label "Usuń węzeł">
 <!ENTITY inspectorHTMLDelete.accesskey "U">
-<!ENTITY inspectorAttributeSubmenu.label "Atrybut">
-<!ENTITY inspectorAttributeSubmenu.accesskey "A">
+
+<!ENTITY inspectorAttributesSubmenu.label "Atrybuty">
+<!ENTITY inspectorAttributesSubmenu.accesskey "A">
 <!ENTITY inspectorAddAttribute.label "Dodaj atrybut">
 <!ENTITY inspectorAddAttribute.accesskey "D">
 <!ENTITY inspectorEditAttribute.label "Edytuj atrybut">
 <!ENTITY inspectorEditAttribute.accesskey "E">
 <!ENTITY inspectorRemoveAttribute.label "Usuń atrybut">
 <!ENTITY inspectorRemoveAttribute.accesskey "U">
-
-<!ENTITY inspectorCopyUniqueSelector.label "Kopiuj unikalny selektor">
-<!ENTITY inspectorCopyUniqueSelector.accesskey "s">
-<!ENTITY inspectorCopyImageDataUri.label "Kopiuj obraz jako Data-URL">
 
 <!ENTITY inspector.selectButton.tooltip "Zaznacz element myszą">
 
