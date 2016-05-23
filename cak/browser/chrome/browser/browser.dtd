@@ -615,8 +615,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Runimirisaxik xa xe ri tz'ib'">
-<!ENTITY fullZoomToggleCmd.accesskey    "R">
+<!ENTITY fullZoomToggleCmd.label        "Tinimirisäx xa xe ri tz'ib'">
+<!ENTITY fullZoomToggleCmd.accesskey    "t">
 <!ENTITY fullZoom.label                 "Runimilem">
 <!ENTITY fullZoom.accesskey             "R">
 

@@ -51,7 +51,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.label                   "Junelïk pa ruwi'">
 <!ENTITY zLevel.accesskey               "r">
 
-<!ENTITY fullZoomReduceBtn.label        "Ch'utirisaxïk">
-<!ENTITY fullZoomReduceBtn.accesskey    "C">
+<!ENTITY fullZoomReduceBtn.label        "&amp;Tich'utirisäx nimilem">
+<!ENTITY fullZoomReduceBtn.accesskey    "n">
 <!ENTITY fullZoomEnlargeBtn.label       "Tinimirisäx">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "n">
