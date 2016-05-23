@@ -30,7 +30,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>ਖੋਜ</button>
     </div>
-  <li>ਜੇ ਤੁਸੀਂ ਕੋਈ ਵੀ ਸਫ਼ਾ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਆਪਣੇ ਯੰਤਰ ਦੇ ਡਾਟੇ ਜਾਂ ਵਾਈ-ਫਾਈ ਕੁਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ ਜੀ।
+  <li>ਜੇ ਤੁਸੀਂ ਕੋਈ ਵੀ ਸਫ਼ਾ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਆਪਣੇ ਡਿਵਾਈਸ ਦੇ ਡਾਟੇ ਜਾਂ ਵਾਈ-ਫਾਈ ਕੁਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ ਜੀ।
     <button id='wifi'>Wi-Fi ਸਮਰੱਥ ਕਰੋ</button>
   </li>
 </ul>
@@ -126,9 +126,9 @@
 <!ENTITY proxyResolveFailure.title "ਪਰਾਕਸੀ ਸਰਵਰ ਲੱਭਣ ਲਈ ਅਸਮਰੱਥ">
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.
-    <button id='wifi'>Enable Wi-Fi</button>
+  <li>ਪਰਾਕਸੀ ਸੈਟਿੰਗਾਂ ਦੀ ਜਾਂਚ ਕਰਕੇ ਪੱਕਾ ਕਰੋ ਕਿ ਉਹ ਠੀਕ ਹਨ।</li>
+  <li>ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਤੁਹਾਡਾ ਡਿਵਾਈਸ ਚਾਲੂ ਡਾਟਾ ਜਾਂ Wi-Fi ਕਨੈਕਸ਼ਨ ਨਾਲ ਕਨੈਕਟ ਹੋ।
+    <button id='wifi'>Wi-Fi ਸਮਰੱਥ ਕਰੋ</button>
   </li>
 </ul>
 ">
@@ -167,7 +167,7 @@
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>ਸਾਈਟ ਆਰਜ਼ੀ ਰੂਪ ਵਿੱਚ ਬੰਦ ਹੋ ਸਕਦੀ ਹੈ ਜਾਂ ਬਹੁਤ ਰੁਝੀ ਹੋ ਸਕਦੀ ਹੈ। ਕੁਝ ਕੁ ਪਲਾਂ ਵਿੱਚ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</li>
-  <li>ਜੇ ਤੁਸੀਂ ਕੋਈ ਵੀ ਸਫ਼ਾ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਆਪਣੇ ਯੰਤਰ ਦੇ ਡਾਟੇ ਜਾਂ ਵਾਈ-ਫਾਈ ਕੁਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ ਜੀ।
+  <li>ਜੇ ਤੁਸੀਂ ਕੋਈ ਵੀ ਸਫ਼ਾ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਆਪਣੇ ਡਿਵਾਈਸ ਦੇ ਡਾਟੇ ਜਾਂ ਵਾਈ-ਫਾਈ ਕੁਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ ਜੀ।
     <button id='wifi'>Wi-Fi ਸਮਰੱਥ ਕਰੋ</button>
   </li>
 </ul>
@@ -212,4 +212,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ਸੁਰੱਖਿਆ ਤਕਨੀਕ ਨੂੰ ਵਰਤਦਾ ਹੈ, ਜੋ ਕਿ ਪੁਰਾਣੀ ਹੋ ਚੁੱਕੀ ਹੈ ਅਤੇ ਹਮਲ਼ਿਆਂ ਦਾ ਸ਼ਿਕਾਰ ਹੋ ਸਕਦੀ ਹੈ। ਹਮਲਾਵਰ ਸੌਖੀ ਤਰ੍ਹਾਂ ਜਾਣਕਾਰੀ ਹਾਸਲ ਕਰ ਸਕਦਾ ਹੈ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਸੋਚਦੇ ਹੋ ਕਿ ਸੁਰੱਖਿਅਤ ਹੈ। ਤੁਹਾਡੇ ਵਲੋਂ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਤੋਂ ਪਹਿਲਾਂ ਵੈੱਬਸਾਈਟ ਦੇ ਪ੍ਰਸ਼ਾਸ਼ਕ ਨੂੰ ਸਰਵਰ ਨੂੰ ਪਹਿਲਾਂ ਠੀਕ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।</p><p>ਗਲਤੀ ਕੋਡ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
