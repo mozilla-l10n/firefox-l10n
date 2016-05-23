@@ -482,15 +482,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameInfoCmd.accesskey   "n">
 <!ENTITY reloadImageCmd.label         "Rukamulokem wachib'äl">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "Rutz'etik wachib'äl">
-<!ENTITY viewImageCmd.accesskey       "w">
-<!ENTITY viewImageInfoCmd.label       "Rutz'etik na'oj chi rij ri wachib'äl">
+<!ENTITY viewImageCmd.label           "Titz'et Wachib'äl">
+<!ENTITY viewImageCmd.accesskey       "W">
+<!ENTITY viewImageInfoCmd.label       "Titz'et na'oj chi rij ri wachib'äl">
 <!ENTITY viewImageInfoCmd.accesskey   "o">
 <!ENTITY viewImageDescCmd.label       "Rutz'etik ri Rutzijol rij">
 <!ENTITY viewImageDescCmd.accesskey   "R">
-<!ENTITY viewVideoCmd.label           "Rutz'etik silowachib'äl">
-<!ENTITY viewVideoCmd.accesskey       "w">
-<!ENTITY viewBGImageCmd.label         "Rutz'etik wachib'äl chupam">
+<!ENTITY viewVideoCmd.label           "Titz'et silowachib'äl">
+<!ENTITY viewVideoCmd.accesskey       "t">
+<!ENTITY viewBGImageCmd.label         "Titz'et wachib'äl chupam">
 <!ENTITY viewBGImageCmd.accesskey     "c">
 <!ENTITY setDesktopBackgroundCmd.label      "Ruya'ik chupam rutzub'al…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "R">

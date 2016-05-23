@@ -100,7 +100,7 @@
 <!ENTITY languages.customize.Fallback.thai        "Aj Tailanda">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.turkish     "aj Turquía">
+<!ENTITY languages.customize.Fallback.turkish     "Aj Turquia">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "aj BYETNAM">

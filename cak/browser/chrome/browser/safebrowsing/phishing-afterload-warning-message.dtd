@@ -13,7 +13,7 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "q">
-<!ENTITY safeb.palm.reportPage.label "¿Atux ruma toq q'aton re jun ruxaq k'amaya'l re'?">
+<!ENTITY safeb.palm.reportPage.label "¿Atux ruma toq xq'eleb'ëx re jun ruxaq k'amaya'l re'?">
 <!ENTITY safeb.palm.whyForbidden.label "¿Atux ruma toq xq'eleb'ëx re jun ruxaq k'amaya'l re'?">
 
 <!ENTITY safeb.blocked.malwarePage.title "¡Q'olonel re ruxaq k'amaya'l re'!">
