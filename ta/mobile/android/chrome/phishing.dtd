@@ -4,8 +4,8 @@
 
 <!ENTITY safeb.palm.accept.label "என்னை இங்கிருந்து வெளியேற்று!">
 <!ENTITY safeb.palm.decline.label "இந்த எச்சரிக்கையை தவிர்">
-
-
+<!ENTITY safeb.palm.reportPage.label "இந்தப் பக்கம் ஏன் தடுக்கப்பட்டது?">
+<!ENTITY safeb.palm.whyForbidden.label "இப்பக்கம் ஏன் தடுக்கப்பட்டது?">
 
 <!ENTITY safeb.blocked.malwarePage.title "தாக்கப்பட்ட இணைய தளம் என அறிக்கையிடப்பட்டுள்ளது!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

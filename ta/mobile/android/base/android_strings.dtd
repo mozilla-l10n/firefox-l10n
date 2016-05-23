@@ -8,7 +8,7 @@
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; வருக">
 <!ENTITY firstrun_urlbar_subtext "உதவும் தேடல் பரிந்துரைகளுடன் எளிதில் கண்டுபிடியுங்கள்.">
-
+<!ENTITY firstrun_bookmarks_title "வரலாறு">
 <!ENTITY firstrun_bookmarks_message "உங்கள் விருப்பமானவை, முன் மற்றும் நடுவே">
 <!ENTITY firstrun_bookmarks_subtext "நீங்கள் தேடுகையில் உங்கள் புத்தகக்குறிகளிலிருந்தும் வரலாறிலிருந்தும் முடிவுகளைப் பெறுங்கள்.">
 <!ENTITY firstrun_data_title "தரவு">
@@ -20,19 +20,20 @@
 <!ENTITY firstrun_signin_message "இணையுங்கள், தொடங்குங்கள்">
 <!ENTITY firstrun_signin_button "ஒத்திசைக்க உள்நுழை">
 <!ENTITY  onboard_start_button_browser "உலாவத் தொடங்குக">
-
+<!ENTITY firstrun_button_next "அடுத்தது">
 
 <!ENTITY  onboard_start_restricted1 "எளிமையாக்கப்பட்ட &brandShortName; உடன் பாதுகாப்பாகவும் கட்டுப்பாட்டிலும் இருங்கள்.">
 
-
-
-
+<!ENTITY  reading_list_migration_title "வாசிப்புப் பட்டியல் இணைக்கப்பட்டது">
+<!ENTITY  reading_list_migration_subtext "வாசிப்புப் பட்டியல் புத்தகக்குறியில் சேர்க்கப்பட்டது ">
+<!ENTITY  reading_list_migration_goto_bookmarks "புத்தகக்குறிக்குச் செல்">
+<!ENTITY  reading_list_migration_bookmarks_hidden "புத்தகக்குறி பலகம் மறைந்துள்ளது">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "புத்தகக்குறிகள்">
 <!ENTITY  history_title "வரலாறு">
-
+<!ENTITY  reading_list_title "வாசிப்புப் பட்டியல்">
 <!ENTITY  recent_tabs_title "அண்மைய கீற்றுகள்">
 
 <!ENTITY  switch_to_tab "கீற்றுக்கு தாவு">
@@ -62,7 +63,7 @@
 <!ENTITY bookmark_removed "புத்தகக்குறி நீக்கப்பட்டது">
 <!ENTITY bookmark_updated "புத்தகக்குறி புதுப்பிக்கப்பட்டது">
 <!ENTITY bookmark_options "விருப்பங்கள்">
-
+<!ENTITY screenshot_added_to_bookmarks "திரைப்பிடிப்பு புத்தகக்குறியில் சேர்ந்தது">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
