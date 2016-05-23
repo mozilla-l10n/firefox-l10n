@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Добро пожаловать">
-<!ENTITY onboard_start_message3 "Браузер &brandShortName;">
-<!ENTITY onboard_start_subtext3 "Делает ваш мобильный веб-сёрфинг по-настоящему уникальным.">
 <!ENTITY firstrun_urlbar_message "Добро пожаловать в &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Ускорьте свой поиск с помощью полезных ярлыков поисковых предложений.">
 <!ENTITY firstrun_bookmarks_title "История">
@@ -19,15 +17,24 @@
 <!ENTITY firstrun_signin_message "Соединитесь и вперёд">
 <!ENTITY firstrun_signin_button "Войти в Синхронизацию">
 <!ENTITY onboard_start_button_browser "Начать веб-сёрфинг">
+<!ENTITY firstrun_button_notnow "Не сейчас">
 <!ENTITY firstrun_button_next "Далее">
+<!ENTITY firstrun_tabqueue_title "Ссылки">
+<!ENTITY firstrun_tabqueue_message_off "Включить Очередь вкладок">
+<!ENTITY firstrun_tabqueue_subtext_off "Ставьте ссылки в очередь, касаясь их в других приложениях, чтобы открыть их позже в &brandShortName;.">
+<!ENTITY firstrun_tabqueue_message_on "Успех!">
+<!ENTITY firstrun_tabqueue_subtext_on "Вы всегда можете отключить её в меню &settings; в разделе &pref_category_general;.">
+<!ENTITY firstrun_notifications_title "Блоги">
+<!ENTITY firstrun_notifications_message "Будьте в курсе">
+<!ENTITY firstrun_notifications_subtext "Получайте уведомления, когда в блогах в ваших закладках появятся обновления.">
+<!ENTITY firstrun_readerview_title "Статьи">
+<!ENTITY firstrun_readerview_message "Удалите всё ненужное">
+<!ENTITY firstrun_readerview_subtext "Используйте Вид для чтения, чтобы облегчить чтение статей \u2014 даже без связи с Интернетом.">
+<!ENTITY firstrun_account_title "Вы">
+<!ENTITY firstrun_account_message "Установили &brandShortName; на другом устройстве?">
 <!ENTITY onboard_start_restricted1 "Будьте в безопасности и установите свой контроль с этой упрощённой версией &brandShortName;.">
-<!ENTITY reading_list_migration_title "Список для чтения подключён">
-<!ENTITY reading_list_migration_subtext "Пункты вашего Списка для чтения будут добавлены в Закладки">
-<!ENTITY reading_list_migration_goto_bookmarks "Перейти в Закладки">
-<!ENTITY reading_list_migration_bookmarks_hidden "Ваша панель закладок скрыта">
 <!ENTITY bookmarks_title "Закладки">
 <!ENTITY history_title "История">
-<!ENTITY reading_list_title "Список для чтения">
 <!ENTITY recent_tabs_title "Последние вкладки">
 <!ENTITY switch_to_tab "Перейти на вкладку">
 <!ENTITY crash_reporter_title "Сообщение о падении &brandShortName;">

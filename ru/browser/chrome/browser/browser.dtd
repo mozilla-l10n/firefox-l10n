@@ -169,6 +169,7 @@
 <!ENTITY bookmarksMenuButton.other.label "Другие закладки">
 <!ENTITY viewBookmarksSidebar2.label "Показать боковую панель закладок">
 <!ENTITY viewBookmarksToolbar.label "Показать панель закладок">
+<!ENTITY containersMenu.label "Контейнеры">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Журнал">
@@ -192,14 +193,6 @@
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newUserContext.label "Новая вкладка в контейнере">
 <!ENTITY newUserContext.accesskey "а">
-<!ENTITY userContextPersonal.label "Личный">
-<!ENTITY userContextPersonal.accesskey "и">
-<!ENTITY userContextWork.label "Работа">
-<!ENTITY userContextWork.accesskey "а">
-<!ENTITY userContextBanking.label "Банкинг">
-<!ENTITY userContextBanking.accesskey "н">
-<!ENTITY userContextShopping.label "Шоппинг">
-<!ENTITY userContextShopping.accesskey "п">
 <!ENTITY newNavigatorCmd.label "Новое окно">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "Н">
