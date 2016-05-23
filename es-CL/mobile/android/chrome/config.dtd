@@ -17,4 +17,5 @@
 <!ENTITY newPref.toggleButton          "Modificar">
 <!ENTITY newPref.cancelButton          "Cancelar">
 
+<!ENTITY contextMenu.copyPrefName      "Copiar nombre">
 <!ENTITY contextMenu.copyPrefValue     "Copiar valor">

@@ -7,6 +7,7 @@
 <!ENTITY  onboard_start_subtext3 "Haz que tu experiencia de navegación en la Web con tu móvil sea verdaderamente tuya.">
 
 <!ENTITY firstrun_urlbar_message "Bienvenido a &brandShortName;">
+<!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Tus favoritos, al frente y centrados">
 <!ENTITY firstrun_bookmarks_subtext "Consigue resultados de tus marcadores e historial cuando estás buscando.">
 <!ENTITY firstrun_data_title "Datos">
