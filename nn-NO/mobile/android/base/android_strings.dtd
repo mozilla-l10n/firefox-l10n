@@ -25,7 +25,7 @@
 <!ENTITY  onboard_start_restricted1 "Ver trygg og ha kontroll med denne forenkla versjonen av &brandShortName;.">
 
 <!ENTITY  reading_list_migration_title "Leseliste tilkopla">
-
+<!ENTITY  reading_list_migration_subtext "Innhaldet i leselista di vert no lagt til i bokmerka dine">
 <!ENTITY  reading_list_migration_goto_bookmarks "Gå til bokmerke">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
