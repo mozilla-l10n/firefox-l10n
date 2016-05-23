@@ -74,6 +74,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.lockedPrefsValue "Wartość">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
+
+<!ENTITY aboutSupport.placeDatabaseTitle "Baza danych „Places”">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integralność">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Sprawdź integralność">
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Przyrostowy GC">
 
