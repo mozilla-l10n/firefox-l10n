@@ -167,8 +167,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Abonner på denne side">
 <!ENTITY subscribeToPageMenuitem.label "Abonner på denne side…">
 <!ENTITY addCurPagesCmd.label "Bogmærk alle faneblade…">
+<!ENTITY showAllBookmarks2.label "Vis alle bogmærker">
+<!ENTITY recentBookmarks.label "Seneste bogmærker">
 <!ENTITY showAllBookmarks2.label "Organiser bogmærker">
-<!ENTITY unsortedBookmarksCmd.label "Usorterede bogmærker">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bogmærker">
 
 <!ENTITY backCmd.label                "Tilbage">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Vis beskeden om app-offline-lager">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Administrer din login-information">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Markér, hvis du vil gemme din adgangskode">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Vis beskeden om installering af app">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Administrer brug af plugins på denne side">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Vælg om du vil modtage beskeder fra webstedet">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey        "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bogmærker">
-<!ENTITY bookmarksMenuButton.unsorted.label "Usorterede bogmærker">
+<!ENTITY bookmarksMenuButton.other.label "Andre bogmærker">
 <!ENTITY viewBookmarksSidebar2.label         "Vis bogmærker i sidepanel">
 <!ENTITY viewBookmarksToolbar.label         "Vis bogmærkelinjen">
 
@@ -254,79 +254,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Webudvikler">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "o">
-
-<!ENTITY devtoolsConnect.label        "Opret forbindelse…">
-<!ENTITY devtoolsConnect.accesskey    "f">
-
-<!ENTITY errorConsoleCmd.label        "Fejlkonsol">
-<!ENTITY errorConsoleCmd.accesskey    "j">
-
-<!ENTITY remoteWebConsoleCmd.label    "Remote webkonsol">
-
-<!ENTITY browserConsoleCmd.label      "Browserkonsol">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "B">
-
 <!ENTITY inspectContextMenu.label     "Inspicér element">
 <!ENTITY inspectContextMenu.accesskey "n">
-
-<!ENTITY responsiveDesignTool.label   "Responsivt design-visning">
-<!ENTITY responsiveDesignTool.accesskey "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Vælg farve">
-<!ENTITY eyedropper.accesskey "f">
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Kladdeblok">
-<!ENTITY scratchpad.accesskey         "b">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Browserværktøjer">
-<!ENTITY browserToolboxMenu.accesskey "o">
-<!ENTITY browserToolboxCmd.commandkey "i">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Værktøjer til browser-indhold">
-<!ENTITY browserContentToolboxMenu.accesskey "æ">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Luk udviklerlinjen">
-<!ENTITY devToolbarMenu.label              "Udviklerlinje">
-<!ENTITY devToolbarMenu.accesskey          "U">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Vis værktøjer">
-<!ENTITY devToolboxMenuItem.accesskey      "V">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Vis udviklerværktøjer">
-<!ENTITY devToolbarOtherToolsButton.label  "Flere værktøjer">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Hent flere værktøjer">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "H">
 
 <!ENTITY fileMenu.label         "Filer">
 <!ENTITY fileMenu.accesskey       "F">
@@ -410,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Åbn menuen Hjælp">
 
 <!ENTITY appMenuRemoteTabs.label "Synkroniserede faneblade">
-<!ENTITY appMenuRemoteTabs.fetching.label "Henter synkroniserede faneblade…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ingen åbne faneblade">
@@ -420,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Log ind på din Firefox-konto fra dine andre enheder for at kunne se deres åbne faneblade her.">
+<!ENTITY appMenuRemoteTabs.noclients.title "Ingen synkroniserede faneblade…">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Vil du se dine faneblade fra andre enheder her?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Indstillinger for Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Log ind for at få vist faneblade, som er åbne på dine andre enheder.">
 <!ENTITY appMenuRemoteTabs.signin.label "Log ind på Sync">
@@ -795,7 +724,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Synkroniserede faneblade">
 
 <!ENTITY syncedTabs.sidebar.label              "Synkroniserede faneblade">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Henter synkroniserede faneblade…">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Log ind på Firefox fra dine andre enheder for at se deres faneblade her.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Log ind for at se en liste med faneblade fra dine andre enheder.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ingen åbne faneblade">
@@ -804,11 +732,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivér synkronisering af faneblade for at se en liste med faneblade, der er åbne på dine andre enheder.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Åbn dette faneblad">
-<!ENTITY syncedTabs.context.openTab.accesskey               "f">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Tilføj bogmærke til faneblad…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "T">
 
+<!ENTITY syncedTabs.context.open.label                       "Åbn">
+<!ENTITY syncedTabs.context.open.accesskey                   "Å">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Åbn i et nyt faneblad">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "f">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Åbn i et nyt vindue">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "v">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Åbn i et nyt privat vindue">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bogmærk dette faneblad…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "Kopiér">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 <!ENTITY syncBrand.shortName.label  "Sync">
 
