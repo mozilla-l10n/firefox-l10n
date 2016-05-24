@@ -55,6 +55,7 @@
 <!ENTITY wrapLeftPopup.value "Αναδίπλωση στα αριστερά">
 
 <!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "Διάταξη">
 <!ENTITY leftRightEditField.label "Αριστερά και δεξιά:">
 <!ENTITY leftRightEditField.accessKey "ρ">
 <!ENTITY topBottomEditField.label "Πάνω και κάτω:">
