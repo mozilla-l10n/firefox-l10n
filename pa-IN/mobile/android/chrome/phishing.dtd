@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
    
-<!ENTITY safeb.palm.accept.label "ਮੈਨੂੰ ਇੱਥੇ ਬਾਹਰ ਕੱਢੋ!">
+<!ENTITY safeb.palm.accept.label "ਮੈਨੂੰ ਇੱਥੋਂ ਬਾਹਰ ਕੱਢੋ!">
 <!ENTITY safeb.palm.decline.label "ਇਹ ਚੇਤਾਵਨੀ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰੋ">
 
 <!ENTITY safeb.palm.reportPage.label "ਇਹ ਸਫ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਕਿਉਂ ਸੀ?">
