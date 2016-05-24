@@ -478,8 +478,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "c">
 <!ENTITY mediaUnmute.label "Włącz dźwięk">
 <!ENTITY mediaUnmute.accesskey "c">
-<!ENTITY mediaPlaybackRate.label     "Szybkość odtwarzania">
-<!ENTITY mediaPlaybackRate.accesskey "b">
+<!ENTITY mediaPlaybackRate2.label "Szybkość odtwarzania">
+<!ENTITY mediaPlaybackRate2.accesskey "S">
 <!ENTITY mediaPlaybackRate050x2.label "Zmniejszona (0.5 ×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "Z">
 <!ENTITY mediaPlaybackRate100x2.label "Normalna">
@@ -490,9 +490,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate150x2.accesskey "W">
 <!ENTITY mediaPlaybackRate200x2.label "Absurdalna (2 ×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "A">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
+<!ENTITY mediaLoop.label "Zapętl">
+<!ENTITY mediaLoop.accesskey "Z">
 <!ENTITY mediaShowControls.label     "Wyświetl elementy sterujące">
 <!ENTITY mediaShowControls.accesskey "e">
 <!ENTITY mediaHideControls.label     "Ukryj elementy sterujące">
