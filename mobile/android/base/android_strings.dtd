@@ -2,10 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY firstrun_panel_title_welcome "Καλώς ήλθατε">
 <!ENTITY  onboard_start_message3 "Περιηγηθείτε με το &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Προσαρμόστε την εμπειρία περιήγησης στο κινητό διαδίκτυο απολύτως στις προτιμήσεις σας.">
 
+<!ENTITY firstrun_urlbar_message "Καλώς ήλθατε στον &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Βρείτε τα πάντα πιο γρήγορα με τις χρήσιμες προτάσεις αναζήτησης.">
+<!ENTITY firstrun_bookmarks_title "Ιστορικό">
+<!ENTITY firstrun_bookmarks_message "Οι σελιδοδείκτες σας στο επίκεντρο">
+<!ENTITY firstrun_bookmarks_subtext "Λάβετε αποτελέσματα από τους σελιδοδείκτες και το ιστορικό σας όταν κάνετε αναζήτηση.">
+<!ENTITY firstrun_data_title "Δεδομένα">
+<!ENTITY firstrun_data_message "Λιγότερα δεδομένα, μεγαλύτερη οικονομία">
+<!ENTITY firstrun_data_subtext2 "Απενεργοποιήστε τις εικόνες για να ξοδεύετε λιγότερα δεδομένα σε κάθε ιστοσελίδα που επισκέπτεστε.">
+<!ENTITY firstrun_sync_title "Συγχρονισμός">
+<!ENTITY firstrun_sync_message "Ο &brandShortName; πάντα στο πλευρό σας">
+<!ENTITY firstrun_sync_subtext "Συγχρονίστε τις καρτέλες, τους κωδικούς πρόσβασης και άλλα οπουδήποτε τον χρησιμοποιείτε.">
+<!ENTITY firstrun_signin_message "Συνδεθείτε και ξεκινήστε">
+<!ENTITY firstrun_signin_button "Είσοδος στον Συγχρονισμό">
+<!ENTITY  onboard_start_button_browser "Ξεκινήστε την περιήγηση">
+<!ENTITY firstrun_button_next "Επόμενο">
 
+<!ENTITY  onboard_start_restricted1 "Παραμείνετε ασφαλής και διατηρήστε τον έλεγχο με αυτή την απλοποιημένη έκδοση του &brandShortName;.">
 
+<!ENTITY  reading_list_migration_title "Η λίστα ανάγνωσης έχει συνδεθεί">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
