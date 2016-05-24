@@ -16,6 +16,8 @@
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "என்னிடம் சாதனம் இல்லை...">
 <!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.passwords2 "புகுபதிகைகள்">
 <!ENTITY sync.configure.engines.title.history "வரலாறு">
 <!ENTITY sync.configure.engines.title.tabs "கீற்றுகள்">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
@@ -31,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "ஒட்டுகள்">
 <!ENTITY bookmarks.folder.toolbar.label "புத்தகக்குறிகள் கருவிப்பட்டை">
-
+<!ENTITY bookmarks.folder.other.label "பிற புத்தகக்குறிகள்">
 <!ENTITY bookmarks.folder.desktop.label "திரைமுகப்பின் புத்தகக்குறிகள்">
 <!ENTITY bookmarks.folder.mobile.label "மொபைல் புத்தகக்குறிகள்">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -64,16 +66,17 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; அமைக்கப்பட்டது, ஆனால் தானியக்க ஒத்திசைவு இல்லை. ஆண்ட்ராய்டு அமைவுகளில் “தானியக்க-ஒத்திசைவு தரவு” &gt; தரவு பயன்பாடுகளுக்கிடையே இடமாறவும்.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; அமைக்கப்பட்டது, ஆனால் தானியக்க ஒத்திசைவு இல்லை. ஆண்ட்ராய்டு அமைவுகள் &gt; கணக்கு என்பதில் “தானியக்க-ஒத்திசைவு தரவு” மாற்றவும்.">
 <!ENTITY fxaccount_status_needs_finish_migrating "உங்கள் புதிய பயர்பாக்ஸ் கணக்கில் உள்நுழைய தட்டவும்.">
-
+<!ENTITY fxaccount_status_bookmarks "புத்தகக்குறிகள்">
 <!ENTITY fxaccount_status_history "வரலாறு">
-
+<!ENTITY fxaccount_status_passwords2 "புகுபதிகைகள்">
 <!ENTITY fxaccount_status_tabs "திறந்த கீற்றுகள்">
 <!ENTITY fxaccount_status_legal "சட்டபூர்வ" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos2 "சேவை விதிமுறைகள்">
+<!ENTITY fxaccount_status_linkprivacy2 "தனியுரிமை அறிவுப்பு">
 <!ENTITY fxaccount_status_more "மேலும்&ellipsis;">
 <!ENTITY fxaccount_remove_account "தொடர்பறு&ellipsis;">
 

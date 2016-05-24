@@ -67,11 +67,14 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "திரைப்பிடிப்புகள்">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "வாசிப்புப் பட்டியல்">
 
+<!ENTITY reader_saved_offline "இணையமற்ற நிலைக்கு சேமித்தது">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "மாற்றி">
 
 <!ENTITY history_today_section "இன்று">
 <!ENTITY history_yesterday_section "நேற்று">
@@ -110,10 +113,12 @@
 <!ENTITY settings "அமைப்புகள்">
 <!ENTITY settings_title "அமைப்புகள்">
 <!ENTITY pref_category_general "பொதுவான">
-
+<!ENTITY pref_category_general_summary3 "முகப்பு, மொழி, கீற்று வரிசை">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "மொழி">
 <!ENTITY pref_category_language_summary "உங்கள் உலாவியின் மொழியை மாற்று">
 <!ENTITY pref_browser_locale "உலாவி மொழி">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -131,7 +136,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "புத்தகக்குறி">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "புத்தகக்குறி உள்ளது">
 <!ENTITY overlay_share_send_other "பிற கருவிகளுக்கு அனுப்பு">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -147,15 +152,15 @@
 <!ENTITY overlay_no_synced_devices "Firefox கணக்குடன் இணைக்கப்பட்ட சாதனம் ஏதுமில்லை">
 
 <!ENTITY pref_category_search3 "தேடு">
-
+<!ENTITY pref_category_search_summary2 "சேர், இயல்பாக அமை, பரிந்துரைகளை காண்பி">
 <!ENTITY pref_category_accessibility "அணுகுத்திறன்">
-
+<!ENTITY pref_category_accessibility_summary2 "உரை அளவு, பெரிதாக்கு, குரல் உள்ளீடு">
 <!ENTITY pref_category_privacy_short "தனியுரிமை">
-
-
-
+<!ENTITY pref_category_privacy_summary4 "தடமறிதல், புகுப்பதிகைகள், தரவு தேர்வுகள்">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName; பற்றிய, அகேகே, பின்னூட்டம்">
 <!ENTITY pref_category_datareporting "தரவுத் தேர்வுகள்">
-
+<!ENTITY pref_category_logins "புகுபதிகைகள்">
 <!ENTITY pref_learn_more "மேலும் அறிய">
 <!ENTITY pref_category_installed_search_engines "நிறுவப்பட்ட தேடு பொறிகள்">
 <!ENTITY pref_category_add_search_providers "கூடுதல் தேடல் வழங்குநர்களைச் சேர்க்க">
@@ -167,11 +172,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-
-
-
-
-
+<!ENTITY pref_search_hint2 "குறிப்பு: தேடல் புலத்தில் தொடர்ந்து அழுத்திய பிறகு &formatI; சின்னத்தை தட்டி எந்த இணையத்தளத்தையும் தேடு பொறி பட்டியலுடன் சேர்க்கவும்.">
+<!ENTITY pref_category_advanced "மேம்பட்டது">
+<!ENTITY pref_category_advanced_summary3 "கீற்றுகளை மீட்டமை, தரவு சேமி, உருவாக்குநர் கருவிகள்">
+<!ENTITY pref_category_notifications "அறிவிப்புகள்">
+<!ENTITY pref_category_notifications_summary "புதிய வசதிகள், வலைத்தள புதுப்பிப்புகள்">
+<!ENTITY pref_content_notifications "வலைத்தள புதுப்பிப்புகள்">
 
 <!ENTITY pref_developer_remotedebugging_usb "USB மூலமாக தொலைநிலை வழுநீக்கல்">
 <!ENTITY pref_developer_remotedebugging_wifi "வை-பை ஊடாக வழுநீக்கம்">
