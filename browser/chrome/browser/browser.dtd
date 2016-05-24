@@ -62,21 +62,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "பக்க அமைவு…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "அச்சு முன்பார்வை">
-<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printSetupCmd.accesskey "வ">
+<!ENTITY printPreviewCmd.label "அச்சு முன்தோற்றம்">
+<!ENTITY printPreviewCmd.accesskey "த">
 <!ENTITY printCmd.label "அச்சிடு…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "அ">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "இணைப்பில்லாமல் வேலைசெய்">
-<!ENTITY goOfflineCmd.accesskey "k">
+<!ENTITY goOfflineCmd.label "இணையமின்றி வேலைச்செய்">
+<!ENTITY goOfflineCmd.accesskey "இ">
 
-<!ENTITY menubarCmd.label "மெனு பட்டை">
-<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY menubarCmd.label "பட்டி பட்டை">
+<!ENTITY menubarCmd.accesskey "ப">
 <!ENTITY navbarCmd.label "ஊடுருவல் கருவிப்பட்டை">
-<!ENTITY personalbarCmd.label "புத்தகக்குறிகள் கருவிப்பட்டை">
-<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY personalbarCmd.label "புத்தகக்குறி கருவிப்பட்டை">
+<!ENTITY personalbarCmd.accesskey "ப">
 <!ENTITY bookmarksToolbarItem.label "புத்தகக்குறிகள் கருவிப்பட்டை உருப்படிகள்">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "அனைத்து கீற்றுகளையும் மீளேற்று">
@@ -87,21 +87,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "பக்க மூலம்">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "ல">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "பக்க தகவல்">
-<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.accesskey "த">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "கீற்று பிரதி">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "முழுத்திரைக்குச் செல்">
-<!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "முழுத்திரை முறைமையை விட்டு வெளியேறு">
-<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY enterFullScreenCmd.accesskey "ம">
+<!ENTITY exitFullScreenCmd.label "முழுத்திரையிலிருந்து வெளியேறு">
+<!ENTITY exitFullScreenCmd.accesskey "ம">
 <!ENTITY fullScreenCmd.label "முழுத்திரை">
-<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.accesskey "ம">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "அனைத்து கீற்றுகளையும் காட்டு">
 <!ENTITY showAllTabsCmd.accesskey "A">
@@ -118,7 +118,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenRestore.tooltip "மறுசேமிப்பு">
 <!ENTITY fullScreenClose.tooltip "மூடுக">
 <!ENTITY fullScreenAutohide.label "கருவிப்பட்டைகளை மறை">
-<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenAutohide.accesskey "க">
 <!ENTITY fullScreenExit.label "முழுத்திரை முறைமையை விட்டு வெளியேறு">
 <!ENTITY fullScreenExit.accesskey "F">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -137,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY leaveDOMFullScreen.label "முழுத்திரை முறையிலிருந்து வெளியேறுக">
 <!ENTITY leaveDOMFullScreen.accesskey "ழ">
 
-<!ENTITY closeWindow.label "சாளரத்தை மூடு">
+<!ENTITY closeWindow.label "சாளரத்தை மூடுக">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "புத்தகக்குறிகள்">
@@ -270,7 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "W">
 
 
-<!ENTITY editMenu.label         "திருத்து"> 
+<!ENTITY editMenu.label         "தொகு"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "செயல்தவிர்">  
 <!ENTITY undoCmd.key            "Z">  
@@ -290,7 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.label          "அழி">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "D"> 
-<!ENTITY selectAllCmd.label         "அனைத்தையும் தேர்ந்தெடு">  
+<!ENTITY selectAllCmd.label         "அனைத்தையும் தேர்">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
 <!ENTITY preferencesCmd2.label       "தேர்வுகள்">
