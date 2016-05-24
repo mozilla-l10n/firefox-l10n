@@ -39,7 +39,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "ஆவணம் காலாவதியாகிவிட்டது">
-
+<!ENTITY notCached.longDesc "<p>கோரப்பட்ட ஆவணம் &brandShortName; இன் தேக்ககத்தில் கிடைக்கவில்லை.</p><ul><li>பாதுகாப்பு எச்சரிக்கைக்காக, &brandShortName; ஆனது முக்கியமான ஆவணங்களை மறுமுறை கோராதபடி அமைக்கப்பட்டுள்ளது.</li><li>வலைத்தளத்திலிருந்து ஆவணத்தை மீண்டும் கோர மீண்டும் முயற்சி என்பதைச் சொடுக்கவும்.</li></ul>">
 
 <!ENTITY netOffline.title "இணைப்பில்லாத முறைமை">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -58,6 +58,7 @@
 <!ENTITY netTimeout.title "இணைப்பு நேரம் முடிந்தது">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "முகவரியை புரிந்து கொள்ள முடியவில்லை">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>இந்த இணைய முகவரியை திறக்க மற்ற மென்பொருட்களை நிறுவ வேண்டும்.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "ப்ராக்ஸி சேவையகம் இணைப்பை மறுக்கிறது">
@@ -68,6 +69,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>பதிலாளின் அமைவுகள் சரியா என சரிபார்க்கவும்.</li> <li>உங்கள் சாதனத்தில் கைப்பேசி இணையம் அல்லது வை-பை இணைப்பு உள்ளதா என உறுதிசெய்யவும். <button id='wifi'>வை-பையை செயல்படுத்து</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "பக்கம் ஒழுங்காக திருப்பிவிடவில்லை">
 <!ENTITY redirectLoop.longDesc "<ul> <li>சில நேரங்களில் குக்கீகளை ஏற்க மறுத்தாலோ அல்லது செயலற்று இருந்தாலோ இந்த பிரச்சனை வரும்.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "சேவையகத்திலிருந்து எதிர்பாராத பதில்">
@@ -77,9 +79,11 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>பெற்ற தரவின் நம்பகத்தன்மையை சரிபார்க்க முடியவில்லை, ஏனெனில் நீங்கள் காண முயற்சிக்கும் பக்கம் பார்க்க முடியாது.</li> <li>இந்த பிரச்சனை குறித்து இணையதளத்தில் உரிமையாளர்களை தொடர்பு கொள்க.</li> </ul>">
 
 <!ENTITY nssBadCert.title "பாதுகாப்பான இணைப்பு தவறி விடுந்தது">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>இந்த சேவகனின் கட்டமைப்பில் சிக்கல் இருக்க வேண்டும், அல்லது அதில் யாராவது ஆள்மாறாட்டம் செய்ய முயற்சி செய்திருப்பார்கள்.நீங்கள் இதற்கு முன்பு</li> <li>வெற்றிகரமாக இந்த சேவையகத்துடன் இணைந்து இருந்தால், இந்த பிழை தற்காலிகமானதாக இருக்கும், மேலும் நீங்கள் பிறகு மீண்டும் முயற்சி செய்யலாம்.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY sharedLongDesc3 "<ul> <li>இந்த தளம் தற்சமயம் கிடைக்காமலோ அல்லது மிகவும் மும்முரமாகவோ இருக்கலாம். சில நிமிடங்களில் மீண்டும் முயற்சிக்கவும்.</li> <li>உங்களால் எந்த பக்கத்தையும் ஏற்றமுடியாவிட்டால், சாதனத்தில் கைபேசி அல்லது வைபை இணையம் உள்ளதா என உறுதிசெய்யவும். <button id='wifi'>வை-பையை செயல்படுத்து</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "உள்ளடக்க பாதுகாப்பு கொள்கையால் தடுக்கப்பட்டது">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; இந்த பக்கம் இந்த வழியில் ஏற்றப்படுவதை தடுத்தது ஏனெனில் இந்த பக்கத்தின் ஒரு உள்ளடக்க பாதுகாப்பு கொள்கை அதை தடுக்கிறது.</p>">
@@ -106,9 +110,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "அதிக தகவல்: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "உங்கள் இணைப்பு பாதுகாப்பற்றது">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "மேம்பட்ட தகவல்: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "உங்கள் இணைப்பு பாதுகாப்பற்றது">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> பழமையான பாதுகாப்பு தொழில்நுட்பத்தை கொண்டிருப்பதால் பாதிப்பு ஏற்படம். இணைய திருடர்கள் பாதுகாப்பற்ற தரவுகளை வெளியாக்கலாம். நீங்கள் தளத்தை பார்வையிடும் முன் இந்த சேவகனை நிர்வகிப்பவர் தளத்தை சரி செய்தல் வேணடும்.</p><p>பிழைக் குறியீடு: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
