@@ -13,7 +13,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Отримуйте результати зі своїх закладок та історії під час пошуку.">
 <!ENTITY firstrun_data_title "Дані">
 <!ENTITY firstrun_data_message "Менше даних, більше економії">
-<!ENTITY firstrun_data_subtext2 "Вимкнути зображення на відвідуваних сайтах для меншої витрати даних.">
+<!ENTITY firstrun_data_subtext2 "Вимкніть зображення на відвідуваних сайтах для зменшення витрати даних.">
 <!ENTITY firstrun_sync_title "Синхронізація">
 <!ENTITY firstrun_sync_message "&brandShortName;, завжди поруч з вами">
 <!ENTITY firstrun_sync_subtext "Синхронізуйте свої вкладки, паролі й інші дані всюди, де ви їх використовуєте.">
@@ -338,7 +338,7 @@ size. -->
 <!ENTITY pref_qrcode_enabled_summary2 "Дозволити сканер QR-коду в панелі адреси">
 
 <!ENTITY pref_use_master_password "Головний пароль">
-<!ENTITY pref_sync2 "Увійти">
+<!ENTITY pref_sync2 "Вхід">
 <!ENTITY pref_sync_summary2 "Синхронізація вкладок, закладок, логінів та історії">
 <!ENTITY pref_search_suggestions "Показувати пошукові пропозиції">
 <!ENTITY pref_history_search_suggestions "Показувати історію пошуку">
