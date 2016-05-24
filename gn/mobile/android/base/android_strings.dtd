@@ -181,41 +181,47 @@
 <!ENTITY pref_content_notifications_summary2 "Tetepy pyahu ñeguenohẽ tenda ipu\u0027akáva">
 <!ENTITY pref_developer_remotedebugging_usb "Ñemopotĩ okayguáva USB rupi">
 <!ENTITY pref_developer_remotedebugging_wifi "Okaygua ñemopotĩ Wi-Fi rupive">
-
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ñemopotĩ oikotevẽ pe mba\u0027e\u0027oka mohendapyre oguereko ayvu QR rembipuru\u0027i moñe\u0027ẽha.">
 <!ENTITY pref_remember_signons2 "Mandu\u0027a tembiapo ñepyrũ rehe">
 <!ENTITY pref_manage_logins "Eñangareko tembiapo ñepyrũ rehe">
 
 <!ENTITY pref_category_home "Óga">
-
+<!ENTITY pref_category_home_summary "Emomba\u0027ete nde kuatiarogue ñepyrũ">
 <!ENTITY pref_category_home_panels "Ta\u0027ãngarupa">
 <!ENTITY pref_category_home_add_ons "Moĩmbahakuéra">
 <!ENTITY pref_home_updates2 "Tetepy ñembohekopyahu">
 <!ENTITY pref_home_updates_enabled "Myendypyre">
 <!ENTITY pref_home_updates_wifi "Wi-Fi rupive añoite">
 <!ENTITY pref_category_home_homepage "Kuatiarogue mba\u0027eguasuvéva">
-
+<!ENTITY home_homepage_title "Embohape kuatiarogue ñepyrũ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; Róga">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Ñemomba\u0027epyre">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Emoinge kundaharape térã jehekaha paha">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_general "Tuichakue">
+<!ENTITY pref_header_search "Heka">
+<!ENTITY pref_header_privacy_short "Ñemiguáva">
+<!ENTITY pref_header_accessibility "Jeikekuaa">
+<!ENTITY pref_header_notifications "Ñemomarandu">
+<!ENTITY pref_header_advanced "Opanungáva">
+<!ENTITY pref_header_help "Pytyvõ">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
-
-
-
-
-
-
-
+<!ENTITY pref_cookies_menu "Kookie">
+<!ENTITY pref_cookies_accept_all "Myandypyre">
 
 
 
