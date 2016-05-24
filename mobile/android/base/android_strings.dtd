@@ -25,7 +25,7 @@
 <!ENTITY  onboard_start_restricted1 "&brandShortName; ਦੇ ਇਸ ਸਧਾਰਨ ਬਣਾਏ ਵਰਜ਼ਨ ਨਾਲ ਸੁਰੱਖਿਅਤ ਰਹੋ ਅਤੇ ਕੰਟਰੋਲ ਵਿੱਚ ਰੱਖੋ">
 
 <!ENTITY  reading_list_migration_title "ਪੜ੍ਹਨ ਸੂਚੀ ਨੂੰ ਕਨੈਕਟ ਕੀਤਾ ਹੈ">
-<!ENTITY  reading_list_migration_subtext "Your Reading List items will now be added to your Bookmarks">
+<!ENTITY  reading_list_migration_subtext "ਤੁਹਾਨੂੰ ਪੜ੍ਹਨ ਸੂਚੀ ਦੀਆਂ ਆਈਟਮਾਂ ਨੂੰ ਹੁਣ ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕਾਂ ਵਿੱਚ ਜੋੜਿਆ ਜਾਵੇਗਾ">
 <!ENTITY  reading_list_migration_goto_bookmarks "ਬੁੱਕਮਾਰਕਾਂ ਉੱਤੇ ਜਾਓ">
 <!ENTITY  reading_list_migration_bookmarks_hidden "ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ ਪੈਨਲ ਨੂੰ ਓਹਲੇ ਕੀਤਾ">
 
@@ -39,15 +39,15 @@
 <!ENTITY  switch_to_tab "ਟੈਬ ਉੱਤੇ ਜਾਓ">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟ">
-<!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_send_report_message3 "Tell &vendorShortName; about this crash so they can fix it">
-<!ENTITY  crash_include_url2 "Include the address of the page I was on">
-<!ENTITY  crash_sorry "We\'re sorry">
-<!ENTITY  crash_comment "Add a comment (comments are publicly visible)">
-<!ENTITY  crash_allow_contact2 "Allow &vendorShortName; to contact me about this report">
-<!ENTITY  crash_email "Your email">
-<!ENTITY  crash_closing_alert "Exit without sending a crash report?">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
+<!ENTITY  crash_message2 "&brandShortName; ਨੂੰ ਸਮੱਸਿਆ ਆਈ ਹੈ ਅਤੇ ਕਰੈਸ਼ ਕੀਤਾ ਹੈ। ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਉੱਤੇ &brandShortName; ਸ਼ੁਰੂ ਸਫ਼ੇ ਉੱਤੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।">
+<!ENTITY  crash_send_report_message3 "ਇਸ ਕਰੈਸ਼ ਬਾਰੇ &vendorShortName; ਨੂੰ ਦੱਸੋ ਤਾਂ ਕਿ ਉਹ ਇਸ ਨੂੰ ਠੀਕ ਕਰ ਸਕਣ">
+<!ENTITY  crash_include_url2 "ਸਫ਼ੇ, ਜਿਸ ਨੂੰ ਮੈਂ ਖੋਲ੍ਹਿਆ ਸੀ, ਦਾ ਐਡਰੈਸ ਸ਼ਾਮਲ ਕਰੋ">
+<!ENTITY  crash_sorry "ਸਾਨੂੰ ਅਫ਼ਸੋਸ ਹੈ">
+<!ENTITY  crash_comment "ਟਿੱਪਣੀ ਲਿਖੋ (ਟਿੱਪਣੀਆਂ ਜਨਤਕ ਰੂਪ ਵਿੱਚ ਮੌਜੂਦ ਹੁੰਦੀਆਂ ਹਨ)">
+<!ENTITY  crash_allow_contact2 "ਇਸ ਸਮੱਸਿਆ ਬਾਰੇ &vendorShortName; ਨੂੰ ਮੇਰੇ ਨਾਲ ਸੰਪਰਕ ਕਰਨ ਦਿਓ">
+<!ENTITY  crash_email "ਤੁਹਾਡਾ ਈਮੇਲ">
+<!ENTITY  crash_closing_alert "ਬਿਨਾਂ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੇ ਹੀ ਬੰਦ ਕਰਨਾ ਹੈ?">
+<!ENTITY  sending_crash_report "ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ\u2026">
 <!ENTITY  crash_close_label "ਬੰਦ ਕਰੋ">
 <!ENTITY  crash_restart_label "&brandShortName; ਨੂੰ ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ">
 
@@ -172,7 +172,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "TIP: Add any website to your list of search providers by long-pressing on its search field and then touching the &formatI; icon.">
+<!ENTITY pref_search_hint2 "ਇਸ਼ਾਰਾ: ਖੋਜ ਵਿੱਚੋ ਆਪਣੇ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲੀਆਂ ਦੀ ਸੂਚੀ ਵਿੱਚ ਮੌਜੂਦ ਕਿਸੇ ਵੀ ਵੈੱਬ ਸਾਈਟ ਉੱਤੇ ਲੰਮਾ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਤਦ &formatI; ਆਈਕਾਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ">
 <!ENTITY pref_category_advanced "ਤਨਕੀਕੀ">
 <!ENTITY pref_category_advanced_summary3 "ਟੈਬਾਂ, ਡਾਟਾ ਬੱਚਤਕਰਤਾ, ਡਿਵੈਲਪਰ ਟੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ">
 <!ENTITY pref_category_notifications "ਸੂਚਨਾਵਾਂ">
@@ -279,7 +279,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "To \&quot;Open multiple links\&quot;, please enable the \'Draw over other apps\' permission for &brandShortName;">
+<!ENTITY tab_queue_notification_settings "\&quot;ਕਈ ਲਿੰਕਾਂ ਨੂੰ ਖੋਲ੍ਹੋ\&quot; ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ &brandShortName; ਨੂੰ \'ਹੋਰ ਐਪਾਂ ਦੇ ਉੱਤੇ ਬਣਾਓ\' ਇਜ਼ਾਜ਼ਤ ਦਿਓ">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -329,7 +329,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_media_autoplay_enabled "ਆਪਣੇ-ਆਪ ਚੱਲਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
-<!ENTITY pref_media_autoplay_enabled_summary "Control if websites can autoplay videos and other media content">
+<!ENTITY pref_media_autoplay_enabled_summary "ਕੰਟਰੋਲ ਕਰੋ ਕਿ ਕੀ ਵੈੱਬਸਾਈਟਾਂ ਆਪਣੇ-ਆਪ ਵੀਡੀਓ ਅਤੇ ਹੋਰ ਮੀਡੀਆ ਸਮੱਗਰੀ ਨੂੰ ਚਲਾ ਸਕਦੀਆਂ ਹਨ">
 <!ENTITY pref_zoom_force_enabled "ਜ਼ੂਮ ਨੂੰ ਹਮੇਸ਼ਾ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY pref_zoom_force_enabled_summary "ਧੱਕੇ ਨਾਲ ਅਣਡਿੱਠਾ ਕਰੋ ਤਾਂ ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਸਫ਼ੇ ਨੂੰ ਜ਼ੂਮ ਕਰ ਸਕੋ">
 <!ENTITY pref_voice_input "ਆਵਾਜ਼ ਰਾਹੀਂ ਇਨਪੁਟ">
@@ -388,15 +388,15 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; ਹਾਲਤ ਰਿਪੋਰਟ">
-<!ENTITY datareporting_fhr_summary2 "Shares data with &vendorShortName; about your browser health and helps you understand your browser performance">
+<!ENTITY datareporting_fhr_summary2 "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਹਾਲਤ ਬਾਰੇ ਜਾਣਕਾਰੀ &vendorShortName; ਨਾਲ ਸਾਂਝੀ ਕਰੋ ਅਤੇ ਖੁਦ ਨੂੰ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਸਮਝਣ ਲਈ ਮਦਦ ਕਰੋ">
 <!ENTITY datareporting_abouthr_title "ਮੇਰੀ ਹਾਲਤ ਰਿਪੋਰਟ ਨੂੰ ਦੇਖੋ">
 <!ENTITY datareporting_telemetry_title "ਟੈਲੀਮੈਂਟਰੀ">
 <!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
-<!ENTITY datareporting_wifi_title2 "&vendorShortName; Location Service">
+<!ENTITY datareporting_crashreporter_title_short "ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; ਟਿਕਾਣਾ ਸੇਵਾ">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Help &vendorShortName; map the world! Share the approximate Wi-Fi and cellular location of your device to improve our geolocation service.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -431,9 +431,9 @@ size. -->
 <!ENTITY close_private_tabs "ਪ੍ਰਾਈਵੇਟ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ">
 <!ENTITY tabs_normal "ਟੈਬਾਂ">
 <!ENTITY tabs_private "ਪ੍ਰਾਈਵੇਟ">
-<!ENTITY set_image_fail "Unable to set image">
-<!ENTITY set_image_path_fail "Unable to save image">
-<!ENTITY set_image_chooser_title "Set Image As">
+<!ENTITY set_image_fail "ਚਿੱਤਰ ਨੂੰ ਸੈੱਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ">
+<!ENTITY set_image_path_fail "ਚਿੱਤਰ ਨੂੰ ਸੰਭਾਲਣ ਲਈ ਅਸਮਰੱਥ">
+<!ENTITY set_image_chooser_title "ਚਿੱਤਰ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -458,22 +458,22 @@ size. -->
 <!ENTITY contextmenu_paste "ਚੇਪੋ">
 <!ENTITY contextmenu_copyurl "ਐਡਰੈਸ ਨੂੰ ਕਾਪੀ ਕਰੋ">
 <!ENTITY contextmenu_edit_bookmark "ਸੋਧੋ">
-<!ENTITY contextmenu_subscribe "Subscribe to Page">
-<!ENTITY contextmenu_site_settings "Edit Site Settings">
-<!ENTITY contextmenu_top_sites_edit "Edit">
-<!ENTITY contextmenu_top_sites_pin "Pin Site">
-<!ENTITY contextmenu_top_sites_unpin "Unpin Site">
-<!ENTITY contextmenu_add_search_engine "Add a Search Engine">
+<!ENTITY contextmenu_subscribe "ਸਫ਼ੇ ਲਈ ਮੈਂਬਰ ਬਣੋ">
+<!ENTITY contextmenu_site_settings "ਸਾਈਟ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੋਧੋ">
+<!ENTITY contextmenu_top_sites_edit "ਸੋਧੋ">
+<!ENTITY contextmenu_top_sites_pin "ਸਾਈਟ ਨੂੰ ਪਿੰਨ ਕਰੋ">
+<!ENTITY contextmenu_top_sites_unpin "ਸਾਈਟ ਦੇ ਪਿੰਨ ਨੂ ਹਟਾਓ">
+<!ENTITY contextmenu_add_search_engine "ਖੋਜ ਇੰਜਣ ਵਜੋਂ ਜੋੜੋ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-<!ENTITY doorhanger_login_no_username "[No username]">
-<!ENTITY doorhanger_login_edit_title "Edit login">
+<!ENTITY doorhanger_login_no_username "[ਕੋਈ ਵਰਤੋਂਕਾਰ ਨਾਂ ਨਹੀਂ ਹੈ]">
+<!ENTITY doorhanger_login_edit_title "ਲਾਗਇਨ ਨੂੰ ਸੋਧੋ">
 <!ENTITY doorhanger_login_edit_username_hint "ਵਰਤੋਂਕਾਰ-ਨਾਂ">
 <!ENTITY doorhanger_login_edit_password_hint "ਪਾਸਵਰਡ">
 <!ENTITY doorhanger_login_edit_toggle "ਪਾਸਵਰਡ ਨੂੰ ਦਿਖਾਓ">
-<!ENTITY doorhanger_login_edit_toast_error "Failed to save login">
+<!ENTITY doorhanger_login_edit_toast_error "ਲਾਗਇਨ ਨੂੰ ਸੰਭਾਲਣ ਲਈ ਫੇਲ੍ਹ ਹੈ">
 <!ENTITY doorhanger_login_select_message "&formatS; ਤੋਂ ਪਾਸਵਰਡ ਨੂੰ ਕਾਪੀ ਕਰਨਾ ਹੈ?">
 <!ENTITY doorhanger_login_select_toast_copy "ਪਾਸਵਰਡ ਨੂੰ ਕਲਿੱਪਬੋਰਡ \'ਚ ਕਾਪੀ ਕੀਤਾ">
 <!ENTITY doorhanger_login_select_toast_copy_error "ਪਾਸਵਰਡ ਨੂੰ ਕਾਪੀ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ">
@@ -482,25 +482,25 @@ size. -->
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-<!ENTITY pref_magnifying_glass_enabled "Magnify small areas">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "Enlarge links and form fields when touching near them">
+<!ENTITY pref_magnifying_glass_enabled "ਛੋਟੇ ਖੇਤਰਾਂ ਨੂੰ ਵੱਡੇ ਕਰੋ">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "ਲਿੰਕਾਂ ਅਤੇ ਫਾਰਮ ਖੇਤਰਾਂ ਨੂੰ ਵੱਡੇ ਕਰੋ, ਜਦੋਂ ਉਹਨਾਂ ਦੇ ਨੇੜੇ ਛੋਹਦੇ ਹੋ">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Full-screen browsing">
-<!ENTITY pref_scroll_title_bar_summary2 "Hide the &brandShortName; toolbar when scrolling down a page">
+<!ENTITY pref_scroll_title_bar2 "ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ ਬਰਾਊਜ਼ ਕਰੋ">
+<!ENTITY pref_scroll_title_bar_summary2 "ਸਫ਼ੇ ਨੂੰ ਹੇਠਾਂ ਸਕਰੋਲ ਕਰਨ ਦੇ ਦੌਰਾਨ &brandShortName; ਟੂਲਬਾਰ ਨੂੰ ਲੁਕਾਓ">
 
 <!ENTITY pref_tab_queue_title3 "ਟੈਬ ਦੀ ਕਤਾਰ">
-<!ENTITY pref_tab_queue_summary4 "Save links until the next time you open &brandShortName;">
+<!ENTITY pref_tab_queue_summary4 "ਲਿੰਕਾਂ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਅਗਲੀ ਵਾਰ &brandShortName; ਨੂੰ ਖੋਲ੍ਹਣ ਤੱਕ ਲੁਕਾਓ">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "ਸਫ਼ਾ ਹਟਾਇਆ">
 
-<!ENTITY bookmark_edit_title "Edit Bookmark">
-<!ENTITY bookmark_edit_name "Name">
-<!ENTITY bookmark_edit_location "Location">
+<!ENTITY bookmark_edit_title "ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ">
+<!ENTITY bookmark_edit_name "ਨਾਂ">
+<!ENTITY bookmark_edit_location "ਟਿਕਾਣਾ">
 <!ENTITY bookmark_edit_keyword "ਸ਼ਬਦ">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -522,38 +522,38 @@ size. -->
 <!ENTITY button_cancel "ਰੱਦ ਕਰੋ">
 <!ENTITY button_yes "ਹਾਂ">
 <!ENTITY button_no "ਨਹੀਂ">
-<!ENTITY button_clear_data "ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY button_set "Set">
-<!ENTITY button_clear "Clear">
-<!ENTITY button_copy "Copy">
+<!ENTITY button_clear_data "ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY button_set "ਸੈੱਟ ਕਰੋ">
+<!ENTITY button_clear "ਸਾਫ਼ ਕਰੋ">
+<!ENTITY button_copy "ਕਾਪੀ ਕਰੋ">
 
-<!ENTITY home_top_sites_title "Top Sites">
+<!ENTITY home_top_sites_title "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "Add a site">
+<!ENTITY home_top_sites_add "ਸਾਈਟ ਨੂੰ ਜੋੜੋ">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; ਮੁੱਖ-ਸਫ਼ਾ">
-<!ENTITY home_history_title "History">
-<!ENTITY home_synced_devices_smartfolder "Synced devices">
-<!ENTITY home_synced_devices_number "&formatD; devices">
-<!ENTITY home_history_back_to2 "Back to full History">
-<!ENTITY home_clear_history_button "Clear browsing history">
-<!ENTITY home_clear_history_confirm "Are you sure you want to clear your history?">
-<!ENTITY home_bookmarks_empty "Bookmarks you save show up here.">
-<!ENTITY home_closed_tabs_title "Recently closed tabs">
-<!ENTITY home_last_tabs_title "Tabs from last time">
-<!ENTITY home_last_tabs_empty "Your recent tabs show up here.">
-<!ENTITY home_open_all "Open all">
-<!ENTITY home_most_recent_empty "Websites you visited most recently show up here.">
+<!ENTITY home_history_title "ਅਤੀਤ">
+<!ENTITY home_synced_devices_smartfolder "ਸਿੰਕ ਕੀਤੇ ਡਿਵਾਈਸ">
+<!ENTITY home_synced_devices_number "&formatD; ਡਿਵਾਈਸ">
+<!ENTITY home_history_back_to2 "ਪੂਰੀ ਅਤੀਤ \'ਤੇ ਜਾਓ">
+<!ENTITY home_clear_history_button "ਬਰਾਊਜ਼ਿੰਗ ਦੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY home_clear_history_confirm "ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
+<!ENTITY home_bookmarks_empty "ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇੱਥੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।">
+<!ENTITY home_closed_tabs_title "ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ">
+<!ENTITY home_last_tabs_title "ਪਿਛਲੀ ਵਾਰ ਤੋਂ ਖੋਲ੍ਹੀਆਂ ਟੈਬਾਂ">
+<!ENTITY home_last_tabs_empty "ਤੁਹਾਡੀਆਂ ਹਾਲ ਦੀਆਂ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।">
+<!ENTITY home_open_all "ਸਾਰਿਆਂ ਨੂੰ ਖੋਲ੍ਹੋ">
+<!ENTITY home_most_recent_empty "ਵੈੱਬਸਾਈਟਾਂ, ਜੋ ਕਿ ਤੁਸੀਂ ਆਮ ਤੌਰ ਉੱਤੇ ਹਾਲ ਵਿੱਚ ਹੀ ਖੋਲ੍ਹੀਆਂ ਹਨ, ਨੂੰ ਇੱਥੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: using a &formatS1;New Private Tab&formatS2; won\'t save your history.">
+<!ENTITY home_most_recent_emptyhint2 "ਸ਼ੀ-ਸ਼ੀ: &formatS1;ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬ&formatS2; ਵਰਤਣ ਨਾਲ ਤੁਹਾਡੇ ਅਤੀਤ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-<!ENTITY home_default_empty "No content could be found for this panel.">
+<!ENTITY home_default_empty "ਇਸ ਪੈਨਲ ਲਈ ਕੋਈ ਸਮੱਗਰੀ ਨਹੀਂ ਲੱਭੀ ਜਾ ਸਕੀ।">
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
@@ -571,19 +571,19 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "ਚੁਣੇ ਡਿਵਾਈਸਾਂ ਨੂੰ ਨਾ-ਲੁਕਾਓ">
 
-<!ENTITY remote_tabs_panel_moved_title "Where did my tabs go?">
-<!ENTITY remote_tabs_panel_moved_desc "We\'ve moved your tabs from other devices into a panel on your home page that can be easily accessed every time you open a new tab.">
-<!ENTITY remote_tabs_panel_moved_link "Take me to my new panel.">
+<!ENTITY remote_tabs_panel_moved_title "ਮੇਰੀਆਂ ਟੈਬਾਂ ਕਿੱਥੇ ਗਈਆਂ?">
+<!ENTITY remote_tabs_panel_moved_desc "ਅਸੀਂ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਤੁਹਾਡੇ ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਪੈਨਲ ਵਿੱਚ ਭੇਜ ਦਿੱਤੀਆਂ ਹਨ ਤਾਂ ਕਿ ਤੁਹਾਡੇ ਵਲੋਂ ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹਣ ਉੱਤੇ ਤੁਹਾਡੇ ਕੋਲ ਸੌਖੀ ਤਰ੍ਹਾਂ ਮੌਜੂਦ ਰਹਿਣ।">
+<!ENTITY remote_tabs_panel_moved_link "ਮੈਨੂੰ ਨਵੇਂ ਪੈਨਲ ਉੱਤੇ ਲੈ ਜਾਓ।">
 
-<!ENTITY pin_site_dialog_hint "Enter a search keyword">
+<!ENTITY pin_site_dialog_hint "ਖੋਜ ਸ਼ਬਦ ਦਿਓ">
 
 <!ENTITY filepicker_title "ਫ਼ਾਈਲ ਨੂੰ ਚੁਣੋ">
-<!ENTITY filepicker_audio_title "Choose or record a sound">
-<!ENTITY filepicker_image_title "Choose or take a picture">
-<!ENTITY filepicker_video_title "Choose or record a video">
+<!ENTITY filepicker_audio_title "ਆਵਾਜ਼ ਨੂੰ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
+<!ENTITY filepicker_image_title "ਤਸਵੀਰ ਨੂੰ ਚੁਣੋ ਜਾਂ ਖਿੱਚੋ">
+<!ENTITY filepicker_video_title "ਵੀਡੀਓ ਨੂੰ ਚੁਣੋ ਜਾਂ ਰਿਕਾਰਡ ਕਰੋ">
 
 <!-- Site identity popup -->
-<!ENTITY identity_connected_to "You are connected to">
+<!ENTITY identity_connected_to "ਤੁਸੀਂ ਕਨੈਕਟ ਹੋ">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -597,40 +597,40 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ">
 <!ENTITY identity_connection_insecure "ਅਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ">
-<!ENTITY identity_login_insecure "This page is not secure and your login could be vulnerable.">
-<!ENTITY identity_connection_chromeui "This is a secure &brandShortName; page">
+<!ENTITY identity_login_insecure "ਇਹ ਸਫ਼ਾ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਲਾਗਇਨ ਨੂੰ ਖ਼ਤਰਾ ਹੋ ਸਕਦਾ ਹੈ">
+<!ENTITY identity_connection_chromeui "ਇਹ ਸੁਰੱਖਿਅਤ &brandShortName; ਸਫ਼ਾ ਹੈ">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all1 "&brandShortName; has blocked insecure content on this page.">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName; has blocked some of the insecure content on this page.">
-<!ENTITY mixed_content_display_loaded1 "Parts of this page are not secure (such as images).">
-<!ENTITY mixed_content_protection_disabled1 "You have disabled protection from insecure content.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ਨੇ ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਗ਼ੈਰ-ਸੁਰੱਖਿਅਤ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ਨੇ ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਕੁਝ ਗ਼ੈਰ-ਸੁਰੱਖਿਅਤ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।">
+<!ENTITY mixed_content_display_loaded1 "ਇਸ ਸਫ਼ੇ ਦੇ ਕੁਝ ਹਿੱਸੇ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹਨ (ਜਿਵੇਂ ਚਿੱਤਰ)।">
+<!ENTITY mixed_content_protection_disabled1 "ਤੁਸੀਂ ਗ਼ੈਰ-ਸੁਰੱਖਿਅਤ ਸਮੱਗਰੀ ਤੋਂ ਸੁਰੱਖਿਅਤ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ।">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title2 "Tracking Protection">
+<!ENTITY doorhanger_tracking_title2 "ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ">
 <!ENTITY doorhanger_tracking_state_enabled "ਸਮਰੱਥ ਹੈ">
 <!ENTITY doorhanger_tracking_state_disabled "ਅਸਮਰੱਥ ਹੈ">
-<!ENTITY doorhanger_tracking_message_enabled1 "Attempts to track your online behavior have been blocked.">
-<!ENTITY doorhanger_tracking_message_disabled2 "This page includes elements that may track your browsing.">
+<!ENTITY doorhanger_tracking_message_enabled1 "ਤੁਹਾਡੇ ਆਨਲਾਈਨ ਰਵੱਈਏ ਨੂੰ ਟਰੈਕ ਕਰਨ ਦੀਆਂ ਕੋਸ਼ਿਸ਼ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਜਾ ਚੁੱਕੀ ਹੈ।">
+<!ENTITY doorhanger_tracking_message_disabled2 "ਇਸ ਸਫ਼ੇ ਵਿੱਚ ਕੁਝ ਭਾਗ ਮੌਜੂਦ ਹਨ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਟਰੈਕ ਕਰ ਸਕਦੇ ਹਨ।">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "ਹੋਰ ਸਿੱਖੋ">
-<!ENTITY enable_protection "Enable protection">
-<!ENTITY disable_protection "Disable protection">
+<!ENTITY enable_protection "ਸੁਰੱਖਿਆ ਨੂੰ ਸਮਰੱਥ ਕਰੋ">
+<!ENTITY disable_protection "ਸੁਰੱਖਿਆ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ">
 
-<!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY private_data_success "ਪ੍ਰਾਈਵੇਟ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY private_data_fail "ਕੁਝ ਪ੍ਰਾਈਵੇਟ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ">
 
-<!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
-                                      from Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
-                                           from Android">
-<!ENTITY bookmarkhistory_import_history "Importing history
-                                         from Android">
+<!ENTITY bookmarkhistory_button_import "ਇੰਪੋਰਟ ਕਰੋ">
+<!ENTITY bookmarkhistory_import_both "ਐਂਡਰਾਈਡ ਤੋਂ ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਅਤੀਤ ਨੂੰ ਇੰਪੋਰਟ ਕੀਤਾ
+                                      ਜਾ ਰਿਹਾ ਹੈ">
+<!ENTITY bookmarkhistory_import_bookmarks "ਐਂਡਰਾਈਡ ਤੋਂ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇੰਪੋਰਟ ਕੀਤਾ
+                                           ਜਾ ਰਿਹਾ ਹੈ">
+<!ENTITY bookmarkhistory_import_history "ਐਂਡਰਾਈਡ ਤੋਂ ਅਤੀਤ ਨੂੰ ਇੰਪੋਰਟ ਕੀਤਾ
+                                         ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY bookmarkhistory_import_wait "...ਉਡੀਕੋ ਜੀ">
 
-<!ENTITY suggestions_prompt3 "Would you like to turn on search suggestions?">
+<!ENTITY suggestions_prompt3 "ਕੀ ਤੁਸੀਂ ਖੋਜ ਲਈ ਸੁਝਾਆਵਾਂ ਨੂੰ ਚਾਲੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
@@ -671,7 +671,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ਜਾਰੀ ਰੱਖੋ">
 <!ENTITY guest_session_dialog_cancel "ਰੱਦ ਕਰੋ">
 <!ENTITY new_guest_session_title "&brandShortName; ਹੁਣ ਮੁੜ-ਚਾਲੂ ਹੋਵੇਗਾ">
-<!ENTITY new_guest_session_text2 "The person using it will not be able to see any of your personal browsing data (like saved logins, history or bookmarks).\n\nWhen your guest is done, their browsing data will be deleted and your session will be restored.">
+<!ENTITY new_guest_session_text2 "ਇਸ ਨੂੰ ਵਰਤਣ ਵਾਲਾ ਡਾਟਾ ਤੁਹਾਡੇ ਕਿਸੇ ਵੀ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਵੇਖ ਨਹੀਂ ਸਕੇਗਾ (ਜਿਵੇਂ ਕਿ ਸੰਭਾਲੇ ਹੋਏ ਲਾਗਇਨ, ਅਤੀਤ ਜਾਂ ਬੁੱਕਮਾਰਕ)।\n\nਜਦੋਂ ਤੁਹਾਡੇ ਮਹਿਮਾਨ ਨੇ ਵਰਤਣ ਖਤਮ ਕਰ ਲਿਆ ਤਾਂ ਉਹਨਾਂ ਦੇ ਬਰਾਊਜ਼ਰ ਡਾਟੇ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ ਅਤੇ ਤੁਹਾਡਾ ਸ਼ੈਸ਼ਨ ਮੁੜ-ਸਟੋਰ ਕੀਤਾ ਜਾਵੇਗਾ।">
 <!ENTITY guest_browsing_notification_title "ਮਹਿਮਾਨ ਬਰਾਊਜ਼ਿੰਗ ਸਮਰੱਥ ਹੈ">
 <!ENTITY guest_browsing_notification_text "ਬਾਹਰ ਜਾਣ ਲਈ ਛੂਹੋ">
 
@@ -716,7 +716,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-<!ENTITY intent_uri_private_browsing_prompt "This link will open in &formatS;. Are you sure you want to exit Private Browsing?">
+<!ENTITY intent_uri_private_browsing_prompt "ਇਹ ਲਿੰਕ &formatS; ਵਿੱਚ ਖੁੱਲ੍ਹੇਗਾ। ਕੀ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -732,21 +732,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!ENTITY devtools_auth_scan_header "Scanning for the QR code displayed on your other device">
+<!ENTITY devtools_auth_scan_header "ਤੁਹਾਡੇ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ ਦਿਖਾਏ ਗਏ QR ਕੋਡ ਨੂੰ ਸਕੈਨ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "ਐਡ-ਆਨ">
-<!ENTITY restrictable_feature_addons_installation_description "Add features or functionality to Firefox. Note: Add-ons can disable certain restrictions.">
+<!ENTITY restrictable_feature_addons_installation_description "ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਫੀਚਰ ਜਾਂ ਸਹੂਲਤਾਂ ਨੂੰ ਜੋੜੋ। ਯਾਦ ਰੱਖੋ: ਐਡ-ਆਨ ਕੁਝ ਪਾਬੰਦੀਆਂ ਨੂੰ ਅਸਮਰੱਥ ਕਰ ਸਕਦੀਆਂ ਹਨ।">
 <!ENTITY restrictable_feature_private_browsing "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ">
-<!ENTITY restrictable_feature_private_browsing_description "Allows family members to browse without saving information about the sites and pages they\'ve visited.">
+<!ENTITY restrictable_feature_private_browsing_description "ਪਰਿਵਾਰਿਕ ਮੈਂਬਰਾਂ ਨੂੰ ਉਹਨਾਂ ਵਲੋਂ ਖੋਲ੍ਹੀਆਂ ਸਾਈਟਾਂ ਅਤੇ ਸਫ਼ਿਆਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਸੰਭਾਲੇ ਬਿਨਾਂ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਇਜ਼ਾਜ਼ਤ ਦਿਓ।">
 <!ENTITY restrictable_feature_clear_history "ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY restrictable_feature_clear_history_description "Allows family members to delete information about the sites and pages they\'ve visited.">
+<!ENTITY restrictable_feature_clear_history_description "ਪਰਿਵਾਰਿਕ ਮੈਂਬਰਾਂ ਨੂੰ ਉਹਨਾਂ ਵਲੋਂ ਖੋਲ੍ਹੀਆਂ ਸਾਈਟਾਂ ਅਤੇ ਸਫ਼ਿਆਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਹਟਾਉਣ ਦੀ ਇਜ਼ਾਜ਼ਤ ਦਿਓ।">
 <!ENTITY restrictable_feature_advanced_settings "ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ">
-<!ENTITY restrictable_feature_advanced_settings_description "This includes importing bookmarks, restoring tabs and automated updates. Turn off for simplified settings suitable for any family member.">
+<!ENTITY restrictable_feature_advanced_settings_description "ਇਸ ਵਿੱਚ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇੰਪੋਰਟ ਕਰਨਾ, ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰਨਾ ਅਤੇ ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਕਰਨਾ ਸ਼ਾਮਲ ਹੈ। ਕਿਸੇ ਵੀ ਪਰਿਵਾਰਿਕ ਮੈਂਬਰ ਲਈ ਢੁੱਕਵੀਆਂ ਸਧਾਰਨ ਸੈਟਿੰਗਾਂ ਨੂੰ ਚਾਲੂ ਕਰੋ।">
 <!ENTITY restrictable_feature_camera_microphone "ਕੈਮਰਾ ਤੇ ਮਾਈਕਰੋਫ਼ੋਨ">
-<!ENTITY restrictable_feature_camera_microphone_description "Allows family members to engage in real time communication on websites.">
+<!ENTITY restrictable_feature_camera_microphone_description "ਪਰਿਵਾਰਿਕ ਮੈਂਬਰਾਂ ਨਾਲ ਵੈੱਬ ਸਾਈਟਾਂ ਉੱਤੇ ਮੌਕੇ \'ਤੇ ਸੰਚਾਰ ਕਰੋ">
 <!ENTITY restrictable_feature_block_list "ਪਾਬੰਦੀਸ਼ੁਦਾ ਦੀ ਸੂਚੀ">
 <!ENTITY restrictable_feature_block_list_description "ਵੈੱਬਸਾਈਟਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ, ਜਿਹਨਾਂ ਵਿੱਚ ਸੰਵੇਦਨਸ਼ੀਲ ਸਮੱਗਰੀ ਹੈ।">
 
