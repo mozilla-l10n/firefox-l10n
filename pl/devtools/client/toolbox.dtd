@@ -92,8 +92,8 @@
 <!ENTITY options.enableWorkers.tooltip "Włączenie tej opcji pozwoli narzędziom przeglądarki na debugowanie wątków">
 <!ENTITY options.disableJavaScript.label "Wyłącz JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip "Wyłącza JavaScript w bieżącej karcie. Jeśli karta lub narzędzia zostaną zamknięte, ustawienie zostanie zapomniane.">
-<!ENTITY options.disableCache.label2 "Wyłącz pamięć podręczną (gdy otworzone są narzędzia)">
-<!ENTITY options.disableCache.tooltip2 "Wyłącza pamięć podręczną we wszystkich kartach, dla których narzędzia są otwarte.">
+<!ENTITY options.disableHTTPCache.label "Wyłącz pamięć podręczną HTTP (gdy otworzone są narzędzia)">
+<!ENTITY options.disableHTTPCache.tooltip "Wyłącza pamięć podręczną dla żądań HTTP we wszystkich kartach, dla których narzędzia są otwarte. To ustawienie nie ma wpływu na wątki usługowe.">
 
 <!ENTITY options.enableServiceWorkersHTTP.label "Wątki usługowe przez HTTP (gdy narzędzia są otwarte)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip "Kontroluje dostępność wątków usługowych przez HTTP w kartach z otwartymi narzędziami">
