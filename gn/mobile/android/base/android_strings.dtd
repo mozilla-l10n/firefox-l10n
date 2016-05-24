@@ -108,14 +108,17 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Mba\u0027epu ñemboheta – &formatS;">
 
 <!ENTITY settings "Ñemboheko">
 <!ENTITY settings_title "Ñemboheko">
 <!ENTITY pref_category_general "Tuichakue">
-
+<!ENTITY pref_category_general_summary3 "Ñepyrũ, ñe\u0027ẽ, tendayke ruguái">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Ñe\u0027ẽ">
 <!ENTITY pref_category_language_summary "Emoambue ne kundahára ñe\u0027ẽ">
 <!ENTITY pref_browser_locale "Kundahára ñe\u0027ẽ">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -149,33 +152,34 @@
 <!ENTITY overlay_no_synced_devices "Ndaipóri mba\u0027e\u0027oka oikepyréva Firefox mba\u0027etépe">
 
 <!ENTITY pref_category_search3 "Heka">
-
+<!ENTITY pref_category_search_summary2 "Embojuapy, ijypykuéva rupi, ñe\u0027ẽporã jehechauka">
 <!ENTITY pref_category_accessibility "Jeikekuaa">
 <!ENTITY pref_category_accessibility_summary2 "Tuichakue, zoom, ñe\u0027ẽ oikeha">
 <!ENTITY pref_category_privacy_short "Añoguáva">
-
+<!ENTITY pref_category_privacy_summary4 "Tapykueho, puruhára réra, mba\u0027ekuaarã jeporavorã">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "About &brandShortName;, FAQs, mongarumeme">
 <!ENTITY pref_category_datareporting "Mba\u0027ekuaarã jeporavorã">
 <!ENTITY pref_category_logins "Tembiapo moñepyrũ">
 <!ENTITY pref_learn_more "Eikuaave">
-
-
-
-
-
+<!ENTITY pref_category_installed_search_engines "Jehekaha mongu\u0027eha mohendapyre">
+<!ENTITY pref_category_add_search_providers "Embojuajuve jehekaha me\u0027ẽha">
+<!ENTITY pref_category_search_restore_defaults "Emboguevijey jehekaha mongu\u0027eha">
+<!ENTITY pref_search_restore_defaults "Ijypykuépe mbojevy">
+<!ENTITY pref_search_restore_defaults_summary "Ijypykuépe mbojevy">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "TIP: Embojuaju oimeraẽva ñanduti renda nde jehekaha me\u0027ẽha rysýi rehe ipukuháicha ejopývo ijehekaha rendápe ha upéi epoko &formatI; ta\u0027ãngachu\u0027i.">
 <!ENTITY pref_category_advanced "Opapotáva">
-
+<!ENTITY pref_category_advanced_summary3 "Tendayke mbojevy, mba\u0027ekuaarã mo\u0027ãha, mboguatahára rembipuru">
 <!ENTITY pref_category_notifications "Ñemomarandu">
-
+<!ENTITY pref_category_notifications_summary "Hesegua ipyahúva, ñanduti kuatiarogue ñembohekopyahu">
 <!ENTITY pref_content_notifications "Ñanduti kuatiarogue ñembohekopyahu">
-
-
+<!ENTITY pref_content_notifications_summary2 "Tetepy pyahu ñeguenohẽ tenda ipu\u0027akáva">
+<!ENTITY pref_developer_remotedebugging_usb "Ñemopotĩ okayguáva USB rupi">
 <!ENTITY pref_developer_remotedebugging_wifi "Okaygua ñemopotĩ Wi-Fi rupive">
 
 <!ENTITY pref_remember_signons2 "Mandu\u0027a tembiapo ñepyrũ rehe">
