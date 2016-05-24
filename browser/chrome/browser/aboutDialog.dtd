@@ -12,7 +12,7 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label2                "ਅੱਪਡੇਟ ਕਰਨ ਲਈ &brandShortName; ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "…ਅੱਪਡੇਟ ਲਾਗੂ ਕਰੋ">
+<!ENTITY update.applyButtonBillboard.label        "…ਅੱਪਡੇਟ ਨੂੰ ਲਾਗੂ ਕਰੋ">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->

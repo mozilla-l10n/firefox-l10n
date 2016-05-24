@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Use Tracking Protection">
-<!ENTITY  trackingProtectionAlways.label       "Always">
+<!ENTITY  trackingProtectionHeader.label       "ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ ਨੂੰ ਵਰਤੋਂ">
+<!ENTITY  trackingProtectionAlways.label       "ਹਮੇਸ਼ਾ">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Only in private windows">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
@@ -97,11 +97,11 @@
 <!ENTITY  rememberHistory2.label      "ਮੇਰੇ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberSearchForm.label       "ਖੋਜ ਅਤੇ ਫਾਰਮ ਅਤੀਤ ਯਾਦ ਰੱਖੋ">
+<!ENTITY  rememberSearchForm.label       "ਖੋਜ ਅਤੇ ਫਾਰਮ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "ਜਦੋਂ &brandShortName; ਬੰਦ ਹੋਵੇ ਤਾਂ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY  clearOnClose.label             "ਜਦੋਂ &brandShortName; ਬੰਦ ਹੋਵੇ ਤਾਂ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY  clearOnClose.accesskey         "w">
 
-<!ENTITY  clearOnCloseSettings.label     "…ਸੈਟਿੰਗ">
+<!ENTITY  clearOnCloseSettings.label     "…ਸੈਟਿੰਗਾਂ">
 <!ENTITY  clearOnCloseSettings.accesskey "t">

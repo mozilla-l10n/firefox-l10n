@@ -19,9 +19,9 @@
 
 <!ENTITY browsing.label                  "ਬਰਾਊਜ਼ਿੰਗ">
 
-<!ENTITY useAutoScroll.label             "ਆਟੋ-ਸਕਰੋਲਿੰਗ ਵਰਤੋਂ">
+<!ENTITY useAutoScroll.label             "ਆਟੋ-ਸਕਰੋਲਿੰਗ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "ਸਮੂਥ ਸਕਰੋਲਿੰਗ ਵਰਤੋਂ">
+<!ENTITY useSmoothScrolling.label        "ਸਮੂਥ ਸਕਰੋਲਿੰਗ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "ਜਦੋਂ ਵੀ ਉਪਲੱਬਧ ਹੋਵੇ ਹਾਰਡਵੇਅਰ ਐਕਸਰਲੇਸ਼ਨ ਵਰਤੋਂ">
 <!ENTITY allowHWAccel.accesskey          "h">
@@ -76,7 +76,7 @@
 <!ENTITY updateTab.label                 "ਅੱਪਡੇਟ">
 
 <!ENTITY updateApp.label                 "&brandShortName; ਅੱਪਡੇਟ:">
-<!ENTITY updateAuto1.label               "ਅੱਪਡੇਟ ਆਪਣੇ-ਆਪ ਹੀ ਇੰਸਟਾਲ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ: ਸੁਰੱਖਿਆ ਸੁਧਾਰਾਂ ਲਈ)">
+<!ENTITY updateAuto1.label               "ਅੱਪਡੇਟ ਨੂੰ ਆਪਣੇ-ਆਪ ਹੀ ਇੰਸਟਾਲ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ: ਸੁਰੱਖਿਆ ਸੁਧਾਰਾਂ ਲਈ)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheck.label               "ਅੱਪਡੇਟ ਦੀ ਜਾਂਚ ਕਰੋ, ਪਰ ਮੈਨੂੰ ਚੁਣਨ ਦਿਉ ਕਿ ਕੀ ਉਹਨਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨਾ ਹੈ">
 <!ENTITY updateCheck.accesskey           "C">
@@ -86,7 +86,7 @@
 <!ENTITY updateAutoAddonWarn.label       "ਮੈਨੂੰ ਸਾਵਧਾਨ ਕਰੋ ਜੇ ਇਹ ਮੇਰੀ ਕੋਈ ਵੀ ਐਡ-ਆਨ ਨੂੰ ਬੰਦ ਕਰ ਦੇਵੇ">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
 
-<!ENTITY updateHistory.label             "ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ">
+<!ENTITY updateHistory.label             "ਅੱਪਡੇਟ ਅਤੀਤ ਨੂੰ ਵੇਖੋ">
 <!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਬੈਕਗਰਾਊਂਡ ਸਰਵਿਸ ਵਰਤੋਂ">
@@ -105,7 +105,7 @@
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "…ਹਟਾਓ">
 <!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "ਆਫਲਾਈਨ ਡਾਟਾ ਹਟਾਓ">
+<!ENTITY offlineAppRemove.confirm        "ਆਫਲਾਈਨ ਡਾਟੇ ਨੂੰ ਹਟਾਓ">
 
 <!ENTITY certificateTab.label            "ਸਰਟੀਫਿਕੇਟ">
 <!ENTITY certSelection.label             "ਬੇਨਤੀ">
@@ -116,7 +116,7 @@
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY enableOCSP.label                " ਕਿਊਰੀ OCSP ਜਵਾਬ-ਦੇਣ ਵਾਲੇ ਸਰਵਰਾਂ ਨੂੰ ਸਰਟੀਫਿਕੇਟਾਂ ਦੀ ਮੌਜੂਦਾ ਵੈਧਤਾ ਦੀ ਪਸ਼ਟੀ ਕਰਨ">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ">
+<!ENTITY viewCerts.label                 "ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਵੇਖੋ">
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewSecurityDevices.label       "ਸਕਿਉਰ ਡਿਵਾਇਸ">
 <!ENTITY viewSecurityDevices.accesskey   "y">

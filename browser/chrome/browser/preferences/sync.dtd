@@ -8,18 +8,18 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਸਭ ਜੰਤਰਾਂ ਉੱਤੇ ਤੁਹਾਡਾ ਅਤੀਤ, ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਤੇ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਵਰਤਣ ਦਿੰਦਾ ਹੈ।">
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "ਅੱਪਡੇਟ">
-<!ENTITY resetPass.label              "ਮੁੜ-ਸੈੱਟ">
+<!ENTITY updatePass.label             "ਅੱਪਡੇਟ ਕਰੋ">
+<!ENTITY resetPass.label              "ਮੁੜ-ਸੈੱਟ ਕਰ">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "ਖਾਤਾ ਪਰਬੰਧ">
+<!ENTITY manageAccount.label          "ਖਾਤੇ ਦਾ ਪਰਬੰਧ">
 <!ENTITY manageAccount.accesskey      "A">
 
-<!ENTITY changePassword2.label         "…ਪਾਸਵਰਡ ਬਦਲੋ">
+<!ENTITY changePassword2.label         "…ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ">
 <!ENTITY myRecoveryKey.label          "ਮੇਰੀ ਰਿਕਵਰੀ ਕੁੰਜੀ">
-<!ENTITY resetSync2.label             "…ਸਿੰਕ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
+<!ENTITY resetSync2.label             "…ਸਿੰਕ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
 
-<!ENTITY pairDevice.label             "ਇੱਕ ਜੰਤਰ ਪੇਅਰ ਕਰੋ">
+<!ENTITY pairDevice.label             "ਇੱਕ ਡਿਵਾਈਸ ਨੂੰ ਪੇਅਰ ਕਰੋ">
 
 
 
@@ -41,22 +41,22 @@
 <!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "ਜੰਤਰ ਨਾਂ:">
+<!ENTITY syncDeviceName.label       "ਡਿਵਾਈਸ ਨਾਂ:">
 <!ENTITY syncDeviceName.accesskey   "c">
-<!ENTITY fxaSyncDeviceName.label       "Device Name">
-<!ENTITY changeSyncDeviceName.label "Change Device Name…">
-<!ENTITY cancelChangeSyncDeviceName.label "Cancel">
-<!ENTITY saveChangeSyncDeviceName.label "Save">
-<!ENTITY unlinkDevice.label           "ਇਹ ਜੰਤਰ ਅਣ-ਲਿੰਕ ਕਰੋ">
+<!ENTITY fxaSyncDeviceName.label       "ਡਿਵਾਈਸ ਨਾਂ">
+<!ENTITY changeSyncDeviceName.label "…ਡਿਵਾਈਸ ਦਾ ਨਾਂ ਬਦਲੋ">
+<!ENTITY cancelChangeSyncDeviceName.label "ਰੱਦ ਕਰੋ">
+<!ENTITY saveChangeSyncDeviceName.label "ਸੰਭਾਲੋ">
+<!ENTITY unlinkDevice.label           "ਇਹ ਡਿਵਾਈਸ ਅਣ-ਲਿੰਕ ਕਰੋ">
 
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ">
-<!ENTITY prefs.ppLink.label         "ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ">
+<!ENTITY prefs.ppLink.label         "ਪਰਦੇਦਾਰੀ ਬਾਰੇ ਸੂਚਨਾ">
 
 
 <!-- Firefox Accounts stuff -->
-<!ENTITY fxaPrivacyNotice.link.label "ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ">
+<!ENTITY fxaPrivacyNotice.link.label "ਪਰਦੇਦਾਰੀ ਬਾਰੇ ਸੂਚਨਾ">
 <!ENTITY determiningAcctStatus.label     "…ਤੁਹਾਡੀ ਖਾਤਾ ਸਥਿਤੀ ਬਾਰੇ ਪਤਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
@@ -87,13 +87,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "ਸਾਇਨ ਇਨ">
 <!ENTITY welcome.createAccount.label "ਖਾਤਾ ਬਣਾਓ">
 
-<!ENTITY welcome.useOldSync.label "ਸਿੰਕ ਦਾ ਪੁਰਾਣਾ ਵਰਜਨ ਵਰਤ ਰਹੇ ਹੋ?">
+<!ENTITY welcome.useOldSync.label "ਸਿੰਕ ਦੇ ਪੁਰਾਣੇ ਵਰਜਨ ਨੂੰ ਵਰਤ ਰਹੇ ਹੋ?">
 
 <!ENTITY signedOut.caption            "Take your Web with you">
 <!ENTITY signedOut.description        "Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.">
 <!ENTITY signedOut.accountBox.title   "Connect with a &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Create Account">
-<!ENTITY signedOut.accountBox.signin  "Sign In">
+<!ENTITY signedOut.accountBox.create  "ਖਾਤਾ ਬਣਾਓ">
+<!ENTITY signedOut.accountBox.signin  "ਸਾਈਨ ਇਨ">
 
 <!ENTITY signedIn.engines.label       "Sync across all devices">
 
@@ -102,13 +102,13 @@ both, to better adapt this sentence to their language.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
-<!ENTITY mobilePromo3.start            "Download Firefox for ">
+<!ENTITY mobilePromo3.start            "ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਸਿੰਕ ਕਰਨ ਲਈ ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "Android">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
-<!ENTITY mobilePromo3.iOSBefore         " or ">
+<!ENTITY mobilePromo3.iOSBefore         " ਜਾਂ ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              " to sync with your mobile device.">
+<!ENTITY mobilePromo3.end              " ਫਾਇਰਫਾਕਸ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।">
