@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "General">
+<!ENTITY  general.label                 "ਆਮ">
 
 <!ENTITY  warnAddonInstall.label        "Warn me when sites try to install add-ons">
 <!ENTITY  warnAddonInstall.accesskey    "W">
@@ -20,15 +20,15 @@
 <!ENTITY  blockUncommonUnwanted.label     "Warn me about unwanted and uncommon software">
 <!ENTITY  blockUncommonUnwanted.accesskey "C">
 
-<!ENTITY  addonExceptions.label         "Exceptions…">
+<!ENTITY  addonExceptions.label         "…ਛੋਟਾਂ">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  logins.label                  "Logins">
+<!ENTITY  logins.label                  "ਲਾਗਇਨ">
 
 <!ENTITY  rememberLogins.label          "Remember logins for sites">
 <!ENTITY  rememberLogins.accesskey      "R">
-<!ENTITY  passwordExceptions.label      "Exceptions…">
+<!ENTITY  passwordExceptions.label      "…ਛੋਟਾਂ">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
 <!ENTITY  useMasterPassword.label        "Use a master password">
@@ -36,5 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Change Master Password…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedLogins.label              "Saved Logins…">
+<!ENTITY  savedLogins.label              "…ਸੰਭਾਲੇ ਹੋਏ ਲਾਗਇਨ">
 <!ENTITY  savedLogins.accesskey          "L">

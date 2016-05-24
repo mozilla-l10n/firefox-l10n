@@ -51,20 +51,20 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "ਰੱਖਣ ਵਾਲਾ ਫੋਲਡਰ ਖੋਲ੍ਹੋ">
+<!ENTITY cmd.show.label                   "ਰੱਖਣ ਵਾਲੇ ਫੋਲਡਰ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Finder ਵਿੱਚ ਵੇਖੋ">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "ਮੁੜ-ਕੋਸ਼ਿਸ਼">
-<!ENTITY cmd.goToDownloadPage.label       "ਡਾਊਨਲੋਡ ਪੇਜ਼ ਉੱਤੇ ਜਾਓ">
+<!ENTITY cmd.goToDownloadPage.label       "ਡਾਊਨਲੋਡ ਪੇਜ਼ \'ਤੇ ਜਾਓ">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "ਡਾਊਨਲੋਡ ਲਿੰਕ ਕਾਪੀ ਕਰੋ">
+<!ENTITY cmd.copyDownloadLink.label       "ਡਾਊਨਲੋਡ ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList.label              "ਸੂਚੀ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY cmd.clearList.accesskey          "a">
-<!ENTITY cmd.clearDownloads.label         "ਡਾਊਨਲੋਡ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY cmd.clearDownloads.label         "ਡਾਊਨਲੋਡ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
@@ -74,7 +74,7 @@
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
-<!ENTITY cmd.removeFile.label             "ਫਾਈਲ ਹਟਾਓ">
+<!ENTITY cmd.removeFile.label             "ਫਾਈਲ ਨੂੰ ਹਟਾਓ">
 
 <!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
      This is the tooltip of the action button shown when potentially unwanted
@@ -87,7 +87,7 @@
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
-<!ENTITY cmd.chooseOpen.label             "Open or Remove File">
+<!ENTITY cmd.chooseOpen.label             "ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ ਜਾਂ ਹਟਾਓ">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
@@ -107,10 +107,10 @@
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
-<!ENTITY downloadsHistory.label           "ਸਭ ਡਾਊਨਲੋਡ ਵੇਖੋ">
+<!ENTITY downloadsHistory.label           "ਸਭ ਡਾਊਨਲੋਡ ਨੂੰ ਵੇਖੋ">
 <!ENTITY downloadsHistory.accesskey       "S">
 
-<!ENTITY clearDownloadsButton.label       "ਡਾਊਨਲੋਡ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY clearDownloadsButton.label       "ਡਾਊਨਲੋਡ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearDownloadsButton.tooltip     "ਪੂਰੇ ਹੋਏ, ਰੱਦ ਕੀਤੇ ਅਤੇ ਫੇਲ੍ਹ ਹੋਏ ਡਾਊਨਲੋਡ ਸਾਫ਼ ਕਰੋ">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
