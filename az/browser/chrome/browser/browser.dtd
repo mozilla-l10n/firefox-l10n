@@ -348,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Hələlik sinxronlaşdırılmış vərəq yoxdur!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Digər cihazlarınızda olan vərəqləri burada görmək istərdiniz?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync Nizamlamaları">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün daxil olun.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ə Daxil ol">
@@ -694,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Bu səhifəyə olan bağlantınız məxfi deyil. Göndərdiyiniz məlumatlar başqaları tərəfindən görülə bilər (şifrə, mesaj, kredit kartları və s. kimi).">
 <!ENTITY identity.description.insecureLoginForms "Bu səhifədə yazdığınız daxil olma məlumatları qorunmur və oğurlana bilər.">
 <!ENTITY identity.description.weakCipher "Bu səhifəyə olan bağlantınız zəif şifrləmə istifadə edir və məxfi deyil.">
-
+<!ENTITY identity.description.weakCipher2 "Başqaları sizin məlumatlarınızı görə və ya saytın davranışını səyişdirə bilər.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; bu səhifənin təhlükəsiz olmayan hissələrini blokladı.">
 <!ENTITY identity.description.passiveLoaded "Bağlantınız məxfi deyil və sayt ilə paylaşdığınız məlumatlar başqaları tərəfindən görülə bilər.">
 <!ENTITY identity.description.passiveLoaded2 "Saytda güvənilir olmayan məzmun var (şəkillər kimi).">
@@ -724,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Sinxronlaşdırılmış Vərəqlər">
 
 <!ENTITY syncedTabs.sidebar.label              "Sinxronlaşdırılmış Vərəqlər">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Digər cihazlarınızdan da Firefox-a daxil olun, vərəqlərini burada görün.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Hələlik sinxronlaşdırılmış vərəq yoxdur!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Digər cihazlarınızda olan vərəqləri burada görmək istərdiniz?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün daxil olun.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Açıq vərəq yoxdur">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; nizamlamalarını aç">
