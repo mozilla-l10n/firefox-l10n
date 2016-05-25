@@ -6,10 +6,10 @@
 
 
 
+<!ENTITY none.value "Nekas">
 
-
-
-
+<!ENTITY numberList.value "Numurēts saraksts">
+<!ENTITY definitionList.value "Definīciju saraksts">
 
 
 

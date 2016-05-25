@@ -4,13 +4,16 @@
 <!-- Window title -->
 
 
+<!ENTITY windowTitle.label "Ievietot rakstzīmi">
+<!ENTITY category.label "Kategorija">
+
+
+<!ENTITY character.label "Rakstzīme:">
+<!ENTITY character.accessKey "R">
 
 
 
 
 
-
-
-
-
+<!ENTITY insertButton.label "Ievietot">
 <!ENTITY closeButton.label "Aizvērt">

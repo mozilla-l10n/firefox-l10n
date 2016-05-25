@@ -42,6 +42,8 @@
 
 <!-- These controls are in the Spacing Box -->
 
+<!ENTITY spacingBox.label "Atstatums">
+
 
 
 
@@ -54,6 +56,8 @@
 
 <!-- These tabs are currently used in the image input dialog -->
 
-
-
-
+<!ENTITY imageInputTab.label "Forma">
+<!ENTITY imageLocationTab.label "Atrašanās vieta">
+<!ENTITY imageDimensionsTab.label "Izmēri">
+<!ENTITY imageAppearanceTab.label "Izskats">
+<!ENTITY imageLinkTab.label "Saite">
