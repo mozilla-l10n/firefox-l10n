@@ -7,6 +7,6 @@
 <!ENTITY providerUninstall.accept.accesskey                "S">
 <!ENTITY providerUninstall.cancel.label                    "Tafoeging hâlde">
 <!ENTITY providerUninstall.cancel.accesskey                "T">
-<!ENTITY providerUninstall.preName.label                   "Jo hawwe besocht om te de-ynstallearjen of út te skeakeljen:">
+<!ENTITY providerUninstall.preName.label                   "Jo hawwe probearre om te de-ynstallearjen of út te skeakeljen:">
 <!ENTITY providerUninstall.postName.label                  "Dit sil der foar soargje dat ûndersteande aginda's útskeakelje.">     
-<!ENTITY providerUninstall.reinstallNote.label             "Allinnich as jo fan doel binne om dizze útjouwer op 'e nij te ynstallearjen, kinne jo kieze om it abonnemint op dizze aginda's op te sizzen.">
+<!ENTITY providerUninstall.reinstallNote.label             "Allinnich as jo fan doel binne om dizze útjouwer opnij te ynstallearjen, kinne jo kieze om it abonnemint op dizze aginda's op te sizzen.">

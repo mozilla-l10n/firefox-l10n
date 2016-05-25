@@ -34,9 +34,9 @@
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Dielnimmers ynljochtsje">
 <!ENTITY event.attendees.notify.accesskey           "y">
-<!ENTITY event.attendees.notifyundisclosed.label    "Utnoeging skiede per dielnimmer">
+<!ENTITY event.attendees.notifyundisclosed.label    "Utnûging skiede per dielnimmer">
 <!ENTITY event.attendees.notifyundisclosed.accesskey  "s">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "Dizze opsje stjoert ien útnoegingse-mail per dielnimmer. Eltse útnoeging befettet allinnich de ûntfangende dielnimmer sadat oare dielnimmers net ferjitten wurde.">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Dizze opsje stjoert ien útnûgingse-mail per dielnimmer. Eltse útnûging befettet allinnich de ûntfangende dielnimmer sadat oare dielnimmers net ferjitten wurde.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -105,7 +105,7 @@
 
 <!ENTITY  event.menu.options.label                            "Opsjes">
 <!ENTITY  event.menu.options.accesskey                        "O">
-<!ENTITY  event.menu.options.attendees.label                  "Dielnimmers útnoegje…">
+<!ENTITY  event.menu.options.attendees.label                  "Dielnimmers útnûgje…">
 <!ENTITY  event.menu.options.attendees.accesskey              "D">
 <!ENTITY  event.menu.options.timezone2.label                   "Tiidsoanes toane">
 <!ENTITY  event.menu.options.timezone2.accesskey               "s">
@@ -134,7 +134,7 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Beskikber">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "s">
 
-<!ENTITY event.invite.attendees.label                     "Dielnimmers útnoegje…">
+<!ENTITY event.invite.attendees.label                     "Dielnimmers útnûgje…">
 <!ENTITY event.invite.attendees.accesskey                 "D">
 <!ENTITY event.email.attendees.label                      "E-mail opstelle oan alle dielnimmers…">
 <!ENTITY event.email.attendees.accesskey                  "E">
@@ -148,12 +148,12 @@
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Bewarje en slute">
 <!ENTITY  event.toolbar.delete.label                      "Fuortsmite">
-<!ENTITY  event.toolbar.attendees.label                   "Dielnimmers útnoegje">
+<!ENTITY  event.toolbar.attendees.label                   "Dielnimmers útnûgje">
 <!ENTITY  event.toolbar.privacy.label                     "Privacy">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Bewarje en slute">
 <!ENTITY  event.toolbar.delete.tooltip                    "Fuortsmite">
-<!ENTITY  event.toolbar.attendees.tooltip                 "Dielnimmers útnoegje">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Dielnimmers útnûgje">
 <!ENTITY  event.toolbar.attachments.tooltip               "Bylagen taheakje">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Privacy wizigje">
 <!ENTITY  event.toolbar.priority.tooltip                  "Priority wizigje">
@@ -335,7 +335,7 @@
 <!ENTITY event.recurrence.preview.label                 "Foarbyld">
 
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label              "Dielnimmers útnoegje">
+<!ENTITY invite.title.label              "Dielnimmers útnûgje">
 <!ENTITY event.organizer.label           "Organisator">
 <!ENTITY event.freebusy.suggest.slot     "Frij plak foarstelle:">
 <!ENTITY event.freebusy.button.next.slot "Folgjende plak " >
