@@ -17,7 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Tenar ikkje funnen">
-<!ENTITY dnsNotFound.longDesc "<ul>  <li>Kontroller om det er skrivefeil i adressa, til dømes <strong>ww</strong>.døme.no i staden for <strong>www</strong>.døme.no</li>  <li>Dersom du ikkje greier å laste nettsider, kontroller at nettverksambandet til datamaskina er i orden.</li>  <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruka Internett.</li> </ul> ">
+<!ENTITY dnsNotFound.longDesc "<ul>  <li>Kontroller om det er skrivefeil i adressa, til dømes <strong>ww</strong>.example.com i staden for <strong>www</strong>.example.com</li>  <li>Dersom du ikkje greier å lasta nettsider, kontroller at nettverksambandet til datamaskina er i orden.</li>  <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruka Internett.</li> </ul> ">
 
 <!ENTITY fileNotFound.title "Fann ikkje fila">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontroller filnamnet etter skilnader i store/små bokstavar eller andre skrivefeil.</li> <li>Kontroller om fila er flytta, har endra namn eller er sletta.</li> </ul>">
@@ -29,7 +29,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; klarte ikkje å lasta denne sida av ukjent årsak.</p>">
 
 <!ENTITY malformedURI.title "Adressa er ugyldig">
-<!ENTITY malformedURI.longDesc "<ul> <li>Nettsideadresser skal vanlegvis skrivast som <strong>http://www.døme.no/</strong></li> <li>Kontroller at du brukar framover-skråstrek (t.d. <strong>/</strong>).</li> </ul> ">
+<!ENTITY malformedURI.longDesc "<ul> <li>Nettsideadresser skal vanlegvis skrivast som <strong>http://www.example.com/</strong></li> <li>Kontroller at du brukar framover-skråstrek (t.d. <strong>/</strong>).</li> </ul> ">
 
 <!ENTITY netInterrupt.title "Tilkoplinga vart broten">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
