@@ -19,8 +19,8 @@
 <!ENTITY dnsNotFound.title "Strežnika ni mogoče najti">
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>Preverite vtipkani naslov, da ni v njem napak, kot na primer 
-<strong>ww</strong>.primer.si namesto 
-<strong>www</strong>.primer.si</li> 
+<strong>ww</strong>.example.com namesto 
+<strong>www</strong>.example.com</li> 
 <li>Če ni mogoče naložiti ničesar, preverite povezavo svojega računalnika 
 z omrežjem.</li> 
 <li>Če se vaš računalnik ali omrežje nahaja za požarnim zidom ali uporablja posrednika, se prepričajte, 
@@ -46,7 +46,7 @@ da ima &brandShortName; pravico dostopati do spleta.</li>
 <!ENTITY malformedURI.title "Neveljaven naslov">
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>Spletne naslove se običajno piše takole: 
-<strong>http://www.primer.si/</strong></li> 
+<strong>http://www.example.com/</strong></li> 
 <li>Pazite, da boste uporabljali poševnico (t.j. 
 <strong>/</strong>).</li> 
 </ul>">
