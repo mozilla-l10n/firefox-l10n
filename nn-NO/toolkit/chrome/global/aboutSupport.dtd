@@ -103,7 +103,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Sandkasse">
 
 <!ENTITY aboutSupport.safeModeTitle "Prøv trygg modus">
-<!ENTITY aboutSupport.restartInSafeMode.label "Start på nytt utan utvidingar …">
+<!ENTITY aboutSupport.restartInSafeMode.label "Start på nytt utan utvidingar…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Funksjonar">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostikk">

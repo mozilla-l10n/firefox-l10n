@@ -58,7 +58,7 @@ can reach it easily. -->
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Opna adresse …">
-<!ENTITY openFileCmd.label "Opna fil …">
+<!ENTITY openFileCmd.label "Opna fil…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Utskriftsformat …">
@@ -304,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Innstillingar">
 <!ENTITY preferencesCmdUnix.accesskey     "I"> 
 
-<!ENTITY clearRecentHistory.label               "Slett nyleg historikk …">
+<!ENTITY clearRecentHistory.label               "Slett nyleg historikk…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -499,7 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "B">
 <!ENTITY bookmarkThisFrameCmd.label      "Bokmerk denne ramma">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
-<!ENTITY emailPageCmd.label           "Send lenkeadresse på e-post …">
+<!ENTITY emailPageCmd.label           "Send lenkeadresse på e-post…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Lagra side som …">
 <!ENTITY savePageCmd.accesskey        "a">
