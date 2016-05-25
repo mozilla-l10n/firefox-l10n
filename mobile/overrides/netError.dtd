@@ -19,6 +19,7 @@
 <!ENTITY dnsNotFound.title "Poslužitelj nije pronađen">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Provjerite adresu za greške u tipkanju kao što su <strong>ww</strong>.example.com umjesto <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Traži</button> </div> <li>Ukoliko ne možete učitati niti jednu stranicu, provjerite podatkovnu ili Wi-Fi vezu vašeg uređaja. <button id='wifi'>Omogući Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite velika i mala slova ili prisutnost ostalih tipfelera.</li> <li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li> </ul>">
@@ -30,6 +31,7 @@
 
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Web adrese se obično pišu kao <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Traži</button> </div> <li>Provjerite da koristite kose crte nagnute naprijed (npr. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Veza je prekinuta">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
