@@ -9,7 +9,7 @@
 <!ENTITY name.text                       "Wašo mě, kaž wóno pokažo se drugim luźam">
 <!ENTITY email.label                     "Emailowa adresa:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "email@pśikład.de">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Gronidło:">
 <!ENTITY password.accesskey              "G">
 <!ENTITY password.placeholder            "Gronidło">
