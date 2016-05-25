@@ -37,6 +37,10 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Tagong ta it bestân is wegere">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>It kin fuortsmiten wêze, ferpleatst, of bestânsmachtigingen kinne tagong tsjingean.</li>
 
 <!ENTITY generic.title "Oei.">
 <!ENTITY generic.longDesc "
@@ -153,27 +157,6 @@
   <li>Gean nei oft &brandShortName; tagong hat ta it web, of dat jo 
     kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Fertochte oanfalside!">
-<!ENTITY malwareBlocked.longDesc "<p>
-Oanfalsides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje stêle kinne, jo komjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p>
-<p>Jo soenen better dizze side net besykje!</p>
-">
-
-<!ENTITY unwantedBlocked.title "Fertochte website mei net-winske software!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Siden mei net-winske software probearje software te ynstallearjen dy't misliedend wêze kinne en jo systeem op ûnferwachte manieren beÿnfloedzje kin.</p>
-">
-
-<!ENTITY phishingBlocked.title "Fertochte webferfalsking!">
-<!ENTITY phishingBlocked.longDesc "
-<p>It ynfieren fan persoanlike ynformaasje op dizze side kin resultearje yn identeitsstellerij of oare fraude.</p>
-<p>Dizze typen fan webferfalsking wurde brûkt yn scams bekend as phishing oanfallen, weryn frauduleuse websides en emails brûkt wurde om boarnes dy't jo fertrouwe te imitearjen.</p>
-">
-
-<!ENTITY forbiddenBlocked.title "Ferbeane website">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName; hat opkeard dat dizze side laden waard, omdat it konfigurearre is om him te blokkearjen.</p>
 ">
 
 <!ENTITY cspBlocked.title "Blokkearre troch ynhâldsbefeiligingsbelied">
