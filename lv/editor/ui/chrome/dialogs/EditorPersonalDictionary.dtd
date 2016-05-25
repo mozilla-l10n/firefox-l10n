@@ -10,8 +10,8 @@
 
 
 
-
-
+<!ENTITY RemoveButton.label "Noņemt">
+<!ENTITY RemoveButton.accessKey "e">
 
 <!ENTITY CloseButton.label "Aizvērt">
 <!ENTITY CloseButton.accessKey "A">
