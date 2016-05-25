@@ -25,36 +25,82 @@
 <!ENTITY  onboard_start_restricted1 "Παραμείνετε ασφαλής και διατηρήστε τον έλεγχο με αυτή την απλοποιημένη έκδοση του &brandShortName;.">
 
 <!ENTITY  reading_list_migration_title "Η λίστα ανάγνωσης έχει συνδεθεί">
+<!ENTITY  reading_list_migration_subtext "Τα στοιχεία της λίστας ανάγνωσης σας πλέον θα προστίθενται στους σελιδοδείκτες σας">
+<!ENTITY  reading_list_migration_goto_bookmarks "Μετάβαση στους σελιδοδείκτες">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Το πλαίσιο των σελιδοδεικτών σας είναι κρυμμένο">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Mobile">
+<!ENTITY  history_title "Ιστορικό">
+<!ENTITY  reading_list_title "Λίστα ανάγνωσης">
+<!ENTITY  recent_tabs_title "Πρόσφατες καρτέλες">
 
+<!ENTITY  switch_to_tab "Μετάβαση σε καρτέλα">
 
 <!ENTITY  crash_reporter_title "Αναφορά σφαλμάτων &brandShortName;">
+<!ENTITY  crash_message2 "Ο &brandShortName; αντιμετώπισε ένα πρόβλημα και κατέρρευσε. Οι καρτέλες σας θα πρέπει να εμφανιστούν στην αρχική σελίδα του &brandShortName; όταν τον επανεκκινήσετε.">
+<!ENTITY  crash_send_report_message3 "Ειδοποιήστε το &vendorShortName; για αυτό το πρόβλημα ώστε να διορθωθεί">
+<!ENTITY  crash_include_url2 "Να συμπεριληφθεί η διεύθυνση της ιστοσελίδας στην οποία βρισκόμουν">
+<!ENTITY  crash_sorry "Λυπούμαστε">
+<!ENTITY  crash_comment "Προσθήκη σχολίου (τα σχόλια είναι δημόσια)">
+<!ENTITY  crash_allow_contact2 "Να επιτραπεί στο &vendorShortName; να έρθει σε επαφή μαζί μου σχετικά με αυτή την αναφορά">
+<!ENTITY  crash_email "Η ηλ. διεύθυνσή σας">
+<!ENTITY  crash_closing_alert "Έξοδος χωρίς αποστολή αναφοράς κατάρρευσης;">
 <!ENTITY  sending_crash_report "Γίνεται αποστολή αναφοράς σφάλματος\u2026">
 <!ENTITY  crash_close_label "Κλείσιμο">
 <!ENTITY  crash_restart_label "Επανεκκίνηση &brandShortName;">
 
+<!ENTITY url_bar_default_text2 "Αναζητήστε ή εισάγετε μια διεύθυνση">
 
+<!ENTITY bookmark "Σελιδοδείκτης">
+<!ENTITY bookmark_remove "Διαγραφή σελιδοδείκτη">
+<!ENTITY bookmark_added "Ο σελιδοδείκτης προστέθηκε">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Ήδη στους σελιδοδείκτες">
+<!ENTITY bookmark_removed "Ο σελιδοδείκτης διεγράφη">
+<!ENTITY bookmark_updated "Ο σελιδοδείκτης ενημερώθηκε">
+<!ENTITY bookmark_options "Επιλογές">
+<!ENTITY screenshot_added_to_bookmarks "Το στιγμιότυπο οθόνης προστέθηκε στους σελιδοδείκτες">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Στιγμιότυπα οθόνης">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Λίστα ανάγνωσης">
 
+<!ENTITY reader_saved_offline "Αποθηκευμένα για χρήση χωρίς σύνδεση">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Μετάβαση">
 
+<!ENTITY history_today_section "Σήμερα">
+<!ENTITY history_yesterday_section "Χθες">
+<!ENTITY history_week_section3 "Τελευταίες 7 ημέρες">
+<!ENTITY history_older_section3 "Παλαιότερα από 6 μήνες">
 
+<!ENTITY search "Αναζήτηση">
+<!ENTITY reload "Ανανέωση">
+<!ENTITY forward "Εμπρός">
+<!ENTITY menu "Μενού">
+<!ENTITY back "Πίσω">
+<!ENTITY stop "Διακοπή">
+<!ENTITY site_security "Ασφάλεια σελίδας">
+<!ENTITY edit_mode_cancel "Ακύρωση">
 
+<!ENTITY close_tab "Κλείσιμο καρτέλας">
+<!ENTITY one_tab "1 καρτέλα">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; καρτέλες">
+<!ENTITY new_tab_opened "Άνοιξε νέα καρτέλα">
+<!ENTITY new_private_tab_opened "Άνοιξε νέα ιδιωτική καρτέλα">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "ΜΕΤΑΒΑΣΗ">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -62,32 +108,63 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Αναπαραγωγή ήχου – &formatS;">
 
+<!ENTITY settings "Ρυθμίσεις">
+<!ENTITY settings_title "Ρυθμίσεις">
+<!ENTITY pref_category_general "Γενικά">
+<!ENTITY pref_category_general_summary3 "Αρχική σελίδα, γλώσσα, λίστα αναμονής καρτελών">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Γλώσσα">
+<!ENTITY pref_category_language_summary "Αλλαγή της γλώσσας του περιηγητή σας">
+<!ENTITY pref_browser_locale "Γλώσσα περιηγητή">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!ENTITY locale_system_default "Προεπιλογή συστήματος">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Προσθήκη στον &brandShortName;">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Προσθήκη στους σελιδοδείκτες">
+<!ENTITY overlay_share_bookmark_btn_label_already "Ήδη στους σελιδοδείκτες">
+<!ENTITY overlay_share_send_other "Αποστολή σε άλλες συσκευές">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Αποστολή σε άλλη συσκευή">
+<!ENTITY overlay_share_no_url "Δεν βρέθηκε σύνδεσμος σε αυτό το στοιχείο">
+<!ENTITY overlay_share_select_device "Επιλογή συσκευής">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Δεν βρέθηκαν συσκευές συνδεδεμένες με λογαριασμό Firefox">
 
+<!ENTITY pref_category_search3 "Αναζήτηση">
+<!ENTITY pref_category_search_summary2 "Προσθήκη, ορισμός προεπιλογής, εμφάνιση προτάσεων">
+<!ENTITY pref_category_accessibility "Προσβασιμότητα">
+<!ENTITY pref_category_accessibility_summary2 "Μέγεθος κειμένου, μεγέθυνση, φωνητική είσοδος">
+<!ENTITY pref_category_privacy_short "Απόρρητο">
+<!ENTITY pref_category_privacy_summary4 "Καταγραφή, στοιχεία σύνδεσης, επιλογές δεδομένων">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Σχετικά με τον &brandShortName;, συχνές ερωτήσεις, η γνώμη σας">
+<!ENTITY pref_category_datareporting "Επιλογές δεδομένων">
+<!ENTITY pref_category_logins "Στοιχεία σύνδεσης">
+<!ENTITY pref_learn_more "Μάθετε περισσότερα">
+<!ENTITY pref_category_installed_search_engines "Εγκατεστημένες μηχανές αναζήτησης">
+<!ENTITY pref_category_add_search_providers "Προσθήκη περισσοτέρων μηχανών αναζήτησης">
+<!ENTITY pref_category_search_restore_defaults "Επαναφορά μηχανών αναζήτησης">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
