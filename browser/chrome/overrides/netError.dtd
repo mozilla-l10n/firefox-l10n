@@ -21,8 +21,8 @@
 <!ENTITY dnsNotFound.title "Servidor no encontrado">
 <!ENTITY dnsNotFound.longDesc "<ul>
   <li>Revisa la dirección en busca de errores de escritura como
-    <strong>ww</strong>.ejemplo.cl en lugar de
-    <strong>www</strong>.ejemplo.cl</li>
+    <strong>ww</strong>.example.com en lugar de
+    <strong>www</strong>.example.com</li>
   <li>Si no puedes cargar ninguna página, revisa la conexión de red del computador.</li>
   <li>Si el computador o la red están protegidos por un muro de fuego o proxy, asegúrate de que &brandShortName; tiene permiso para acceder a la web.</li>
 </ul>">
@@ -44,7 +44,7 @@
 <!ENTITY malformedURI.title "La dirección no es válida">
 <!ENTITY malformedURI.longDesc "<ul>
   <li>Las direcciones web son usualmente escritas como
-    <strong>http://www.ejemplo.cl/</strong></li>
+    <strong>http://www.example.com/</strong></li>
   <li>Asegúrate de que estás usando barras oblicuas (Ej:
     <strong>/</strong>).</li>
 </ul>">
