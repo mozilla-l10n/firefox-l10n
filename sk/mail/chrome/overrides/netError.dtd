@@ -20,8 +20,8 @@
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Skontrolujte, či ste nezadali napr.
-    <strong>ww</strong>.priklad.com namiesto
-    <strong>www</strong>.priklad.com</li>
+    <strong>ww</strong>.example.com namiesto
+    <strong>www</strong>.example.com</li>
   <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie počítača k sieti.</li>
   <li>Ak sú počítač alebo sieť chránené bránou firewall alebo serverom proxy, uistite sa, že &brandShortName; má povolený prístup k webu.</li>
 </ul>
@@ -51,8 +51,9 @@
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Webové adresy sú zvyčajne zadávané v tvare
-    <strong>http://www.priklad.com/</strong></li>
-  <li>Skontrolujte, či používate správne lomky (t.j. <strong>/</strong>). </li>
+    <strong>http://www.example.com/</strong></li>
+  <li>Skontrolujte, či používate správne lomky (t.j. 
+    <strong>/</strong>). </li>
 </ul>
 ">
 
