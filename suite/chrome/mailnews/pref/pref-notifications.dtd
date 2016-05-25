@@ -24,7 +24,7 @@
 <!ENTITY useSystemAlert.label             "Utilizar as notificações do ambiente de trabalho do sistema operativo">
 <!ENTITY useSystemAlert.accesskey         "d">
 <!ENTITY useBuiltInAlert.label            "Utilizar as janelas de notificação do &brandShortName;">
-<!ENTITY useBuiltInAlert.accesskey        "w">
+<!ENTITY useBuiltInAlert.accesskey        "n">
 
 <!ENTITY showTrayIcon.label               "Mostrar um ícone">
 <!ENTITY showTrayIcon.accesskey           "t">

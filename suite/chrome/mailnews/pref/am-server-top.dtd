@@ -72,8 +72,8 @@
 <!ENTITY newsrcFilePath.label "Ficheiro newsrc:">
 <!ENTITY newsrcPicker.label "Selecione o ficheiro newsrc">
 <!ENTITY abbreviate.label "Mostrar nome dos grupos de notícias no painel de correio como:">
-<!ENTITY abbreviateOn.label "Nome completo (por exemplo: netscape.public.mozilla.mail-news)">
-<!ENTITY abbreviateOff.label "Nome abreviado (por exemplo: n.p.m.mail-news)">
+<!ENTITY abbreviateOn.label "Nome completo (por exemplo: 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Nome abreviado (por exemplo: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avançado...">
 <!ENTITY serverDefaultCharset2.label "Codificação pré-definida:">
 <!ENTITY advancedButton.accesskey "a">
