@@ -23,6 +23,7 @@
 <!ENTITY visitedLinkText.accesskey  "γ">
 <!ENTITY background.label           "Φόντο:">
 <!ENTITY background.accesskey       "Φ">
+<!ENTITY colon.character            ":">
 
 <!ENTITY backgroundImage.label      "Εικόνα φόντου:">
 <!ENTITY backgroundImage.accesskey  "κ">

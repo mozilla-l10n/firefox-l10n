@@ -22,6 +22,7 @@
 <!ENTITY visitedLinkText.accessKey "σ">
 <!ENTITY background.label "Φόντο:">
 <!ENTITY background.accessKey "Φ">
+<!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Εικόνα φόντου:">
 <!ENTITY backgroundImage.accessKey "κ">
 <!ENTITY backgroundImage.tooltip "Χρήση αρχείου εικόνας ως φόντο για τη σελίδα">

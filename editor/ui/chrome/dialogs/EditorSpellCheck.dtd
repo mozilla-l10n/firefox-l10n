@@ -28,6 +28,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "θ">
 <!ENTITY editUserDictionaryButton.label "Επεξεργασία...">
 <!ENTITY editUserDictionaryButton.accessKey "ξ">
+<!ENTITY recheckButton2.label "Επανέλεγχος του κειμένου">
+<!ENTITY recheckButton2.accessKey "ε">
 <!ENTITY closeButton.label "Κλείσιμο">
 <!ENTITY closeButton.accessKey "Κ">
 <!ENTITY sendButton.label "Αποστολή">
