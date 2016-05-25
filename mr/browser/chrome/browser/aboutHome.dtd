@@ -18,6 +18,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
+<!ENTITY abouthome.defaultSnippet2.v1 "पसंतीप्रमाणे Firefox ला संरचीत करणे सोपे आहे. <a>नीवडण्यासाठी हजारो ॲड-ऑन्स् उपलब्ध</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; हे नफा ना तोटा Mozilla Foundation पासूनचे फ्री व ओपन सोअर्स सॉफ्टवेअर आहे. <a>आपले हक्क जाणून घ्या…</a>">
 
