@@ -47,6 +47,7 @@
 <!ENTITY aboutSupport.appBasicsUserAgent "Identyfikator programu">
 <!ENTITY aboutSupport.appBasicsOS "System operacyjny">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Zużycie pamięci">
+<!ENTITY aboutSupport.appBasicsPerformance "Wydajność">
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Zarejestrowane wątki usługowe">
 <!ENTITY aboutSupport.appBasicsProfiles "Profile">
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Okna wieloprocesowe">
