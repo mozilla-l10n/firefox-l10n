@@ -4,6 +4,7 @@
 
 <!ENTITY netmonitorUI.perfNotice1 "• Kliknij przycisk">
 <!ENTITY netmonitorUI.perfNotice2 ", aby rozpocząć analizowanie wydajności.">
+<!ENTITY netmonitorUI.perfNotice3 "Analizuj">
 <!ENTITY netmonitorUI.reloadNotice1 "• Wyślij żądanie lub ">
 <!ENTITY netmonitorUI.reloadNotice2 "wczytaj stronę ponownie">
 <!ENTITY netmonitorUI.reloadNotice3 ", aby zobaczyć szczegółowe informacje o aktywności sieciowej.">
