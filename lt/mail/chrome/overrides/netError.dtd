@@ -17,7 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nerastas serveris">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Patikrinkite, ar rinkdami adresą nepadarėte klaidų, pavyzdžiui, <strong>ww</strong>.pavyzdys.lt vietoje <strong>www</strong>.pavyzdys.lt</li> <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite kompiuterio ryšį su tinklu.</li> <li>Jei jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, įsitikinkite, jog programai „&brandShortName;“ leidžiama pasiekti saityną.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Patikrinkite, ar rinkdami adresą nepadarėte klaidų, pavyzdžiui, <strong>ww</strong>.example.com vietoje <strong>www</strong>.example.com</li> <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite kompiuterio ryšį su tinklu.</li> <li>Jei jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, įsitikinkite, jog programai „&brandShortName;“ leidžiama pasiekti saityną.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Nerastas failas">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Patikrinkite, ar failo varde nėra rinkimo klaidų, pvz., didžiosios raidės pakeistos mažosiomis.</li> <li>Patikrinkite, ar failas nebuvo perkeltas, pervardytas ar pašalintas.</li> </ul>">
@@ -28,7 +28,7 @@
 <!ENTITY generic.longDesc "<p>Programai „&brandShortName;“ nepavyko įkelti šio tinklalapio dėl nežinomos priežasties.</p>">
 
 <!ENTITY malformedURI.title "Neteisingas adresas">
-<!ENTITY malformedURI.longDesc "<ul> <li>Saityno adresai paprastai turi tokį pavidalą: <strong>http://www.pavyzdys/lt/</strong></li> <li>Įsitikinkite, kad vartojate tinkamą adreso komponentų skirtuką (t. y. dešininį brūkšnį <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Saityno adresai paprastai turi tokį pavidalą: <strong>http://www.example.com/</strong></li> <li>Įsitikinkite, kad vartojate tinkamą adreso komponentų skirtuką (t. y. dešininį brūkšnį <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Ryšys buvo nutrauktas">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">

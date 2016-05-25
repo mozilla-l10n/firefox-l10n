@@ -9,7 +9,7 @@
 <!ENTITY name.text                       "Jūsų vardas, kurį matys kiti">
 <!ENTITY email.label                     "El. pašto adresas:">
 <!ENTITY email.accesskey                 "a">
-<!ENTITY email.placeholder               "vpavardenis@pvz.lt">
+<!ENTITY email.placeholder               "vpavardenis@example.com">
 <!ENTITY password.label                  "Slaptažodis:">
 <!ENTITY password.accesskey              "S">
 <!ENTITY password.placeholder            "Slaptažodis">

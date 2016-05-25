@@ -61,7 +61,7 @@
 <!ENTITY incomingUsername.label "Abonento vardas:">
 <!ENTITY incomingUsername.accesskey "A">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Įveskite naujienų (NNTP) serverio vardą (pvz., „news.exampet.net“).">
+<!ENTITY newsServerNameDesc.label "Įveskite naujienų (NNTP) serverio vardą (pvz., „news.example.net“).">
 <!ENTITY newsServerLabel.label "Naujienų serveris:">
 <!ENTITY newsServerLabel.accesskey "s">
 <!-- Entities for Outgoing Server page -->
