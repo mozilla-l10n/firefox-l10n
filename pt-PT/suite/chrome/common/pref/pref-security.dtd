@@ -9,7 +9,7 @@
 <!ENTITY trackingIntro.label              "Os websites podem monitorizá-lo quando os utilizar, afetando assim a sua privacidade.">
 
 <!ENTITY doNotTrack.label                 "Informar os websites que eu não quero ser monitorizado">
-<!ENTITY doNotTrack.accesskey             "T">
+<!ENTITY doNotTrack.accesskey             "t">
 <!ENTITY trackProtect.label               "Impedir monitorização por parte de sites conhecidos">
 <!ENTITY trackProtect.accesskey           "n">
 <!ENTITY warnTrackContent.label           "Avisar-me se forem detetadas atividades de monitorização">
