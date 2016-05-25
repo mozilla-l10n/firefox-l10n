@@ -13,8 +13,8 @@
 <!ENTITY lightning.toolbar.delete.tooltip "Slett valde hendingar eller oppgåver">
 <!ENTITY lightning.toolbar.edit.label "Rediger">
 <!ENTITY lightning.toolbar.edit.tooltip "Rediger vald hending eller oppgåve">
-<!ENTITY lightning.toolbar.gototoday.label "Gå til: «I dag»">
-<!ENTITY lightning.toolbar.gototoday.tooltip "Gå til «I dag»">
+<!ENTITY lightning.toolbar.gototoday.label "Gå til I dag">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Gå til I dag">
 <!ENTITY lightning.toolbar.print.label "Skriv ut">
 <!ENTITY lightning.toolbar.print.tooltip "Skriv ut hendingar eller oppgåver">
 <!-- Mode Toolbar -->
