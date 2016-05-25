@@ -9,7 +9,7 @@
 <!ENTITY name.text                       "D'ainm, mar a thaispeántar é do dhaoine eile">
 <!ENTITY email.label                     "Seoladh ríomhphoist:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "seoladh@sampla.ie">
+<!ENTITY email.placeholder               "seoladh@example.com">
 <!ENTITY password.label                  "Focal Faire:">
 <!ENTITY password.accesskey              "F">
 <!ENTITY password.placeholder            "Focal Faire">

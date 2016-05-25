@@ -53,7 +53,7 @@
 <!ENTITY defaultPortLabel.label "Réamhshocrú:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Cuir isteach ainm do fhreastalaí isteach (mar shampla, &quot;post.sampla.net&quot;).">
+<!ENTITY incomingServer.description "Cuir isteach ainm do fhreastalaí isteach (mar shampla, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServer.label "Freastalaí Ríomhphoist Isteach:">
 <!ENTITY incomingServer.accesskey "s">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
@@ -61,7 +61,7 @@
 <!ENTITY incomingUsername.label "Ainm Úsáideora:">
 <!ENTITY incomingUsername.accesskey "A">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Cuir isteach ainm do fhreastalaí nuachta (NNTP) (mar shampla, &quot;nuacht.sampla.net&quot;).">
+<!ENTITY newsServerNameDesc.label "Cuir isteach ainm do fhreastalaí nuachta (NNTP) (mar shampla, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Freastalaí Nuachta:">
 <!ENTITY newsServerLabel.accesskey "s">
 <!-- Entities for Outgoing Server page -->
@@ -69,7 +69,7 @@
 
 <!ENTITY outgoingTitle.label "Maidir leis an bhFreastalaí Amach">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Cuir isteach ainm do fhreastalaí amach (SMTP) (mar shampla, &quot;smtp.sampla.net&quot;).">
+<!ENTITY outgoingServer.description "Cuir isteach ainm do fhreastalaí amach (SMTP) (mar shampla, &quot;smtp.example.net&quot;).">
 <!ENTITY outgoingServer.label "Freastalaí Amach:">
 <!ENTITY outgoingServer.accesskey "s">
 <!ENTITY outgoingUsername.description "Cuir isteach an t-ainm úsáideora amach a thug do sholáthraí ríomhphoist duit (is iondúil gurb ionann é seo agus d'ainm úsáideora isteach).">
