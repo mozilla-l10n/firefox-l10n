@@ -20,7 +20,7 @@
 <!ENTITY resetUserPrefs.label         "Alle gebruikersvoorkeuren naar &brandShortName;-standaardwaarden terugzetten">
 <!ENTITY resetUserPrefs.accesskey     "v">
 
-<!ENTITY restoreSearch.label          "Standaard zoekmachines herstellen">
+<!ENTITY restoreSearch.label          "Standaardzoekmachines terugzetten">
 <!ENTITY restoreSearch.accesskey      "S">
 
 <!ENTITY changeAndRestartButton.label "Wijzigingen doorvoeren en herstarten">
