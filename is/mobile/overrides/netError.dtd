@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "Netþjónn finnst ekki">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Leitaðu í vistfanginu að villum eins og <strong>ww</strong>.daemi.is í stað <strong>www</strong>.daemi.is</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Leit</button> </div> <li>Ef þú getur ekki vafrað á neina síðu, skoðaðu þá gagnateninguna eða Wi-Fi tenginguna á tækinu þínu. <button id='wifi'>Virkja Wi-Fi</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Leitaðu í vistfanginu að villum eins og <strong>ww</strong>.example.com í stað <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Leit</button> </div> <li>Ef þú getur ekki vafrað á neina síðu, skoðaðu þá gagnateninguna eða Wi-Fi tenginguna á tækinu þínu. <button id='wifi'>Virkja Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Athugaðu hvort það séu innsláttarvillur í skráarnafninu.</li> <li>Athugaðu hvort skráin hafi verið færð, endurnefnd eða eytt.</li> </ul>">
@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.title "Vistfangið er ógilt">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Vistföng eru vanalega rituð svona <strong>http://www.daemi.is/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Leit</button> </div> <li>Vertu viss að þú sért að nota rétta gerð af skástriki (i.e. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Vistföng eru vanalega rituð svona <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Leit</button> </div> <li>Vertu viss að þú sért að nota rétta gerð af skástriki (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Tengingin varð fyrir truflun">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
