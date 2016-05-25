@@ -745,7 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bogmærk dette faneblad…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-<!ENTITY syncedTabs.context.copy.label                       "Kopiér">
+<!ENTITY syncedTabs.context.copy.label                       "Kopier">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 <!ENTITY syncBrand.shortName.label  "Sync">
