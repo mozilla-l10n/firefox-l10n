@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Caută actualizări">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2                "Repornire &brandShortName; pentru actualizare">
+<!ENTITY update.updateButton.label2                "Repornește &brandShortName; pentru actualizare">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Aplică actualizările…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
