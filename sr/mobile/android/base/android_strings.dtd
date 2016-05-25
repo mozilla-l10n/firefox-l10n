@@ -331,7 +331,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Аутоматска репродукција">
 <!ENTITY pref_media_autoplay_enabled_summary "Контролишите да ли веб сајтови могу да аутоматски репродукују видео или други медијски садржај">
 <!ENTITY pref_zoom_force_enabled "Увек увеличај">
-<!ENTITY pref_zoom_force_enabled_summary "Форсирај могућност увећавања било које странице">
+<!ENTITY pref_zoom_force_enabled_summary "Форсирај могућност увеличавања било које странице">
 <!ENTITY pref_voice_input "Говорни унос">
 <!ENTITY pref_voice_input_summary2 "Дозволи гласовно диктирање у URL траци">
 <!ENTITY pref_qrcode_enabled "QR читач кодова">
