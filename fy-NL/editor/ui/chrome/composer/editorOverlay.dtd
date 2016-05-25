@@ -180,7 +180,7 @@
 <!ENTITY listPropsCmd.label "Listeigenskippen…">
 <!ENTITY listPropsCmd.accesskey "L">
 
-<!ENTITY ParagraphSelect.tooltip "Alineaopmaak kieze">
+<!ENTITY ParagraphSelect.tooltip "In alineaopmaak kieze">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Tekst">
 <!ENTITY bodyTextCmd.accesskey "T">
@@ -206,7 +206,7 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Leech">
-<!ENTITY layerSendToBack.tooltip "Nei efter bringe">
+<!ENTITY layerSendToBack.tooltip "Nei achter bringe">
 <!ENTITY layerBringToFront.tooltip "Nei foaren bringe">
 
 <!ENTITY increaseIndent.label "Ynspringe fergrutsje">
