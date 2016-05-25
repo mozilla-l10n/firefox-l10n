@@ -23,7 +23,7 @@
 <!ENTITY helpKeyboardShortcuts.label     "Tastatursnarvegar">
 <!ENTITY helpKeyboardShortcuts.accesskey "T">
 
-<!ENTITY helpSafeMode.label       "Start på nytt utan utvidingar …">
+<!ENTITY helpSafeMode.label       "Start på nytt utan utvidingar…">
 <!ENTITY helpSafeMode.accesskey   "S">
 <!ENTITY helpSafeMode.stop.label       "Start på nytt med utvidingar påslått">
 <!ENTITY helpSafeMode.stop.accesskey   "S">
@@ -34,7 +34,7 @@
 <!ENTITY helpTroubleshootingInfo.label      "Feilsøking">
 <!ENTITY helpTroubleshootingInfo.accesskey  "e">
 
-<!ENTITY helpFeedbackPage.label      "Gje tilbakemelding …">
+<!ENTITY helpFeedbackPage.label      "Gje tilbakemelding…">
 <!ENTITY helpFeedbackPage.accesskey  "G">
 
 <!ENTITY helpShowTour2.label            "Omvising i &brandShorterName;">
