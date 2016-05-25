@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Cha deach am frithealaiche a lorg">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Dèan cinnteach nach eil mearachdan litreachaidh san t-seòladh mar <strong>ww</strong>.ball-sampaill.com seach <strong>www</strong>.ball-sampaill.com</li> <li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal a’ choimpiutair agad ris an lìonra.</li> <li>Ma tha an coimpiutair agad no an lìonra agad ’ga dhìon le cachaileith-theine no progsaidh, dèan cinnteach gu bheil cead aig &brandShortName; ceangal ris an lìon.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Dèan cinnteach nach eil mearachdan litreachaidh san t-seòladh mar <strong>ww</strong>.example.com seach <strong>www</strong>example.com</li> <li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal a’ choimpiutair agad ris an lìonra.</li> <li>Ma tha an coimpiutair agad no an lìonra agad ’ga dhìon le cachaileith-theine no progsaidh, dèan cinnteach gu bheil cead aig &brandShortName; ceangal ris an lìon.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Cha deach am faidhle a lorg">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Dèan cinnteach nach eile litrichean mòra no beaga san àite chearr no mearachdan litreachaidh eile.</li> <li>Saoil an deach am faidhle a ghluasad, a sguabadh às no gun deach ainm ùr a chur air?</li> </ul>">
@@ -31,7 +31,7 @@
 <!ENTITY generic.longDesc "<p>Chan urrainn dha &brandShortName; an duilleag seo a luchdadh air sgàth adhbhar air choireigin.</p>">
 
 <!ENTITY malformedURI.title "Chan e seòladh dligheach a tha ann">
-<!ENTITY malformedURI.longDesc "<ul> <li>Bidh seòlaidhean-lìn coltach ris an fhear seo a ghnàth: <strong>http://www.ball-sampaill.com/</strong></li> <li>Dèan cinnteach gu bheil thu a’ cleachdadh slaisichean (.i. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Bidh seòlaidhean-lìn coltach ris an fhear seo a ghnàth: <strong>http://www.example.com/</strong></li> <li>Dèan cinnteach gu bheil thu a’ cleachdadh slaisichean (.i. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Bhris rudeigin a-steach air a' cheangal">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
