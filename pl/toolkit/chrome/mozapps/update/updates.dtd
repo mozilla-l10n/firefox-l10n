@@ -61,8 +61,9 @@
 <!ENTITY  finishedBackgroundPage.text     "Program &brandShortName; pobrał ważną aktualizację i jest gotowy do jej zainstalowania.">
 
 <!ENTITY  finishedBackground.name         "Aktualizacja:">
-<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Aktualizacja zostanie zainstalowana przy następnym uruchomieniu programu &brandShortName;. Uruchom teraz ponownie program &brandShortName; lub nie instaluj teraz i kontynuuj pracę.">
+
+<!ENTITY finishedBackground.more "Aktualizacja zostanie zainstalowana przy następnym uruchomieniu programu &brandShortName;. Uruchom ponownie program &brandShortName; lub nie instaluj aktualizacji teraz i kontynuuj pracę.">
+<!ENTITY finishedBackground.moreElevated "Aktualizacja wymaga uprawnień administracyjnych i zostanie zainstalowana przy następnym uruchomieniu programu &brandShortName;. Uruchom program &brandShortName; ponownie, kontynuuj pracę uruchamiając ponownie później lub odrzuć tą aktualizację.">
 
 <!ENTITY  installed.title                 "Aktualizacja zainstalowana">
 <!ENTITY  installed.intro                 "Instalacja aktualizacji zakończyła się powodzeniem.">
