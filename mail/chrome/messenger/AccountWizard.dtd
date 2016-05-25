@@ -53,7 +53,7 @@
 <!ENTITY defaultPortLabel.label "Pré-definida:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Introduza o nome do servidor de receção (por exemplo, &quot;correio.exemplo.pt&quot;).">
+<!ENTITY incomingServer.description "Introduza o nome do servidor de receção (por exemplo, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServer.label "Servidor de receção:">
 <!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
@@ -61,7 +61,7 @@
 <!ENTITY incomingUsername.label "Nome de utilizador:">
 <!ENTITY incomingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Introduza o nome do servidor de notícias (NNTP) (por exemplo, &quot;notícias.exemplo.net&quot;).">
+<!ENTITY newsServerNameDesc.label "Introduza o nome do servidor de notícias (NNTP) (por exemplo, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Servidor do grupo de notícias:">
 <!ENTITY newsServerLabel.accesskey "S">
 <!-- Entities for Outgoing Server page -->
@@ -69,7 +69,7 @@
 
 <!ENTITY outgoingTitle.label "Informações do servidor de envio">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Introduza o nome do servidor de envio (SMTP) (por exemplo, &quot;smtp.exemplo.pt&quot;).">
+<!ENTITY outgoingServer.description "Introduza o nome do servidor de envio (SMTP) (por exemplo, &quot;smtp.example.net&quot;).">
 <!ENTITY outgoingServer.label "Servidor de envio:">
 <!ENTITY outgoingServer.accesskey "S">
 <!ENTITY outgoingUsername.description "Introduza o nome de utilizador disponibilizado pelo fornecedor de correio (normalmente, é o mesmo que o utilizador de receção).">

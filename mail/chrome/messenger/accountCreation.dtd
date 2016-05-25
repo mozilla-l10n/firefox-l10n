@@ -9,7 +9,7 @@
 <!ENTITY name.text                       "O nome a mostrar a terceiros">
 <!ENTITY email.label                     "Endereço de e-mail:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "email@exemplo.com">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Palavra-passe:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Palavra-passe">
