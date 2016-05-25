@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Servidor não encontrado">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Verifique se existem erros de escrita no endereço tais como <strong>ww</strong>.exemplo.com em vez de <strong>www</strong>.exemplo.com</li> <li>Se não conseguir carregar quaisquer páginas, verifique a ligação do seu computador à rede.</li> <li>Se o seu computador ou rede estão protegidos por uma firewall ou proxy, verifique se o &brandShortName; tem permissão para aceder à Web.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Verifique se existem erros de escrita no endereço tais como <strong>ww</strong>.example.com em vez de <strong>www</strong>.example.com</li> <li>Se não conseguir carregar quaisquer páginas, verifique a ligação do seu computador à rede.</li> <li>Se o seu computador ou rede estão protegidos por uma firewall ou proxy, verifique se o &brandShortName; tem permissão para aceder à Web.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Ficheiro não encontrado">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verifique se existem erros de escrita no nome do ficheiro.</li> <li>Verifique se o ficheiro foi movido, renomeado ou apagado.</li> </ul>">
@@ -31,7 +31,7 @@
 <!ENTITY generic.longDesc "<p>O &brandShortName; não conseguiu carregar a página por alguma razão.</p>">
 
 <!ENTITY malformedURI.title "O endereço não é válido">
-<!ENTITY malformedURI.longDesc "<ul> <li>Os endereços Web são geralmente escritos como <strong>http://www.exemplo.com/</strong></li> <li>Verifique se está a utilizar as barras corretamente (exemplo: <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Os endereços Web são geralmente escritos como <strong>http://www.example.com/</strong></li> <li>Verifique se está a utilizar as barras corretamente (exemplo: <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "A ligação foi interrompida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
