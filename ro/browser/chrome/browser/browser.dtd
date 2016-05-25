@@ -345,7 +345,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 
-
+<!ENTITY appMenuRemoteTabs.openprefs.label "Preferințe de sincronizare">
 
 
 
