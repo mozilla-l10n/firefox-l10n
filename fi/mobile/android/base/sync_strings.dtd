@@ -33,103 +33,24 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Avainsanat'>
 <!ENTITY bookmarks.folder.toolbar.label 'Kirjanmerkkipalkki'>
-<!ENTITY bookmarks.folder.unfiled.label 'Järjestelemättä olevat kirjanmerkit'>
+<!ENTITY bookmarks.folder.other.label 'Muut kirjanmerkit'>
 <!ENTITY bookmarks.folder.desktop.label 'Työpöydän kirjanmerkit'>
 <!ENTITY bookmarks.folder.mobile.label 'Kannettavan laitteen kirjanmerkit'>
-<!ENTITY bookmarks.folder.readinglist.label 'Lukulista'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Kiinnitetyt'>
 
-<!-- Send tab to device. -->
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Määritä &syncBrand.shortName.label; lähettääksesi välilehtiä'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Määritä &syncBrand.fullName.label; laitteellasi lähettääksesi välilehtiä toisiin laitteisiin.'>
-<!ENTITY sync.text.tab.sent.label 'Välilehti lähetettiin.'>
-<!ENTITY sync.text.tab.not.sent.label 'Välilehden lähettäminen ei onnistunut.'>
-
 <!-- Firefox Account strings. -->
-
-<!ENTITY fxaccount_full_label 'Firefox-tilit'>
-
-<!ENTITY fxaccount_custom_server_account_title 'Käytetään tiliä palvelimella'>
-<!ENTITY fxaccount_custom_server_sync_title 'Tallennetaan synkronointidata palvelimelle'>
-
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-<!ENTITY fxaccount_email_hint 'Sähköpostiosoite'>
-<!ENTITY fxaccount_password_hint 'Salasana'>
-<!ENTITY fxaccount_password_hide 'Piilota'>
-<!ENTITY fxaccount_password_show 'Näytä'>
 
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Palaa selaamisen pariin'>
 
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
-<!ENTITY fxaccount_policy_linktos 'käyttöehdot'>
-<!ENTITY fxaccount_policy_linkprivacy 'tietosuojakäytännön'>
-
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Tervetuloa &syncBrand.shortName.label;-palveluun'>
 <!ENTITY fxaccount_getting_started_description2 'Kirjaudu sisään synkronoidaksesi välilehdet, kirjanmerkit, kirjautumiset ja muut tiedot.'>
 <!ENTITY fxaccount_getting_started_get_started 'Aloitetaan'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Käytätkö vanhempaa versiota &syncBrand.shortName.label;-palvelusta?'>
 
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
-<!ENTITY fxaccount_create_account_header2 'Luo Firefox-tili'>
-<!ENTITY fxaccount_create_account_password_length_restriction 'Vähintään 8 merkkiä'>
-<!ENTITY fxaccount_create_account_day_of_birth 'Päivä'>
-<!ENTITY fxaccount_create_account_month_of_birth 'Kuukausi'>
-<!ENTITY fxaccount_create_account_year_of_birth 'Syntymävuosi'>
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 'Jatkamalla hyväksyt Firefoxin verkkopalveluiden &formatS1; ja &formatS2;.'>
-<!ENTITY fxaccount_create_account_button 'Seuraava'>
-<!ENTITY fxaccount_create_account_choose_what_to_sync 'Valitse synkronoitavat tiedot'>
-<!ENTITY fxaccount_create_account_sign_in_instead 'Onko sinulla jo tili? Kirjaudu sisään'>
-<!ENTITY fxaccount_create_account_1990_or_earlier '1990 tai aiemmin'>
-<!ENTITY fxaccount_create_account_unknown_error 'Ei voitu luoda tiliä'>
-
-<!ENTITY fxaccount_account_create_not_allowed 'Ei voida luoda tiliä'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Tilin luominen on mahdollista vain jos täytät tietyt ikärajoitukset.'>
-<!ENTITY fxaccount_account_create_not_allowed_learn_more 'Lue lisää'>
-
-<!ENTITY fxaccount_confirm_account_header 'Vahvista tilisi'>
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link 'Vahvistussähköposti lähetettiin osoitteeseen &formatS;'>
-<!ENTITY fxaccount_confirm_account_resend_email 'Lähetä uudestaan'>
-<!ENTITY fxaccount_confirm_account_change_email 'Unohdetaanko tämä sähköpostiosoite?'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Vahvistussähköposti lähetetty'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Vahvistussähköpostin lähettäminen ei onnistunut'>
-<!ENTITY fxaccount_resend_unlock_code_button_label 'Lähetä uudestaan lukituksen purkamissähköposti'>
-<!ENTITY fxaccount_unlock_code_sent 'Tilin lukituksen purkamisviesti lähetetty'>
-<!ENTITY fxaccount_unlock_code_not_sent 'Tilin lukituksen purkamisviestin lähettäminen ei onnistunut'>
-
-<!ENTITY fxaccount_sign_in_sub_header 'Kirjaudu sisään'>
-<!ENTITY fxaccount_sign_in_button_label 'Kirjaudu sisään'>
-<!ENTITY fxaccount_sign_in_forgot_password 'Salasana unohtunut?'>
-<!ENTITY fxaccount_sign_in_create_account_instead 'Luo tili'>
-<!ENTITY fxaccount_sign_in_unknown_error 'Ei voitu kirjautua sisään'>
-
-<!ENTITY fxaccount_account_verified_sub_header 'Tili vahvistettu'>
-<!ENTITY fxaccount_account_verified_description2 'Tietojesi synkronointi alkaa hetken päästä.'>
-
-<!ENTITY fxaccount_migration_finished_header 'Päivitys suoritettu'>
-
-<!ENTITY fxaccount_update_credentials_header 'Kirjaudu sisään'>
-<!ENTITY fxaccount_update_credentials_button_label 'Kirjaudu sisään'>
-<!ENTITY fxaccount_update_credentials_unknown_error 'Ei voitu kirjautua sisään'>
-
-<!ENTITY fxaccount_finish_migrating_header 'Kirjaudu sisään viimeistelläksesi päivityksen'>
-<!ENTITY fxaccount_finish_migrating_button_label 'Viimeistele päivitys'>
-<!ENTITY fxaccount_finish_migrating_description 'Päivityksen yhteydessä voidaan siirtää paljon dataa. Suosittelemme, että olet langattomassa verkossa.'>
-
-<!ENTITY fxaccount_status_header2 'Firefox-tili'>
 <!ENTITY fxaccount_status_signed_in_as 'Kirjauduttu tunnuksella'>
 <!ENTITY fxaccount_status_manage_account 'Muokkaa tiliä'>
 <!ENTITY fxaccount_status_auth_server 'Tilin palvelin'>
@@ -154,8 +75,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos 'käyttöehdot'>
-<!ENTITY fxaccount_status_linkprivacy 'tietosuojakäytäntö'>
+<!ENTITY fxaccount_status_linktos2 'käyttöehdot'>
+<!ENTITY fxaccount_status_linkprivacy2 'tietosuojakäytäntö'>
 <!ENTITY fxaccount_status_more 'Lue lisää&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Poista&ellipsis;'>
 
@@ -192,7 +113,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Palvelin ruuhkautunut, yritä hetken päästä uudestaan'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Palvelin ruuhkautunut, yritä hetken päästä uudestaan'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Tapahtui virhe'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Verkkoyhteyden muodostus epäonnistui'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Tili on lukittu. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label;-palveluun ei ole yhteyttä'>
@@ -204,8 +124,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'Kirjaudu sisään tilille &formatS;'>
-
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
-<!ENTITY old_sync_deprecated_notification_title 'Kirjaudu jatkaaksesi synkronointia'>
-<!ENTITY old_sync_deprecated_notification_content 'Tilisi ei ole enää tuettu'>
