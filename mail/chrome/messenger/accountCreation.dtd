@@ -9,7 +9,7 @@
 <!ENTITY name.text                       "Vaše meno tak ako bude zobrazené ostatným">
 <!ENTITY email.label                     "E-mailová adresa:">
 <!ENTITY email.accesskey                 "E">
-<!ENTITY email.placeholder               "email@priklad.sk">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Heslo:">
 <!ENTITY password.accesskey              "H">
 <!ENTITY password.placeholder            "Heslo">
@@ -28,7 +28,7 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Overenie">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                      "POP3">
+<!ENTITY pop3.label                       "POP3">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Autodetekcia">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -56,13 +56,14 @@
 <!ENTITY switch-to-provisioner.label     "Získať nový účet">
 <!ENTITY switch-to-provisioner.accesskey "k">
 
+
 <!ENTITY warning.label                   "Upozornenie!">
 <!ENTITY incomingSettings.label          "Nastavenia pre prichádzajúcu poštu:">
 <!ENTITY outgoingSettings.label          "Nastavenia pre odchádzajúcu poštu:">
 <!ENTITY technicaldetails.label          "Technické podrobnosti">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
-      warning on the outgoing server, then the user will need to check a
-      checkbox beside this text before continuing. -->
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Rozumiem riziku">
 <!ENTITY confirmWarning.accesskey        "R">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
