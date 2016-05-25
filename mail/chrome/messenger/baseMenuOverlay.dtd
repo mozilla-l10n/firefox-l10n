@@ -11,7 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY helpTroubleshootingInfo.label     "Feilsøking">
 <!ENTITY helpTroubleshootingInfo.accesskey "F">
-<!ENTITY helpSafeMode.label     "Start på nytt utan utvidingar …">
+<!ENTITY helpSafeMode.label     "Start på nytt utan utvidingar…">
 <!ENTITY helpSafeMode.accesskey "S">
 <!ENTITY releaseCmd2.label "Versjonsnotat">
 <!ENTITY releaseCmd2.accesskey "V">

@@ -486,7 +486,7 @@
 <!ENTITY errorConsoleCmd.label "Feilmeldingar">
 <!ENTITY errorConsoleCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY clearRecentHistory.label "Slett nyleg historikk …">
+<!ENTITY clearRecentHistory.label "Slett nyleg historikk…">
 <!ENTITY clearRecentHistory.accesskey "n">
 <!ENTITY accountManagerCmd2.label "Kontoinnstillingar">
 <!ENTITY accountManagerCmd2.accesskey "K">
