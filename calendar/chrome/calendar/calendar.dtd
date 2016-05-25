@@ -339,7 +339,7 @@
 <!ENTITY calendar.publish.publish.button      "Publikovať">
 <!ENTITY calendar.publish.close.button      "Zavrieť">
 
-<!ENTITY calendar.publish.example.url.description   "Príklad: http://www.mojserver.sk/webdav/test.ics">
+<!ENTITY calendar.publish.example.url.description   "Príklad: http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "Výber kalendára">
