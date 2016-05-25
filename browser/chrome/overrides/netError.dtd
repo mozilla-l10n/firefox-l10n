@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serwer njebu namakany">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Přepruwujće adresu za pisanskimi zmylkami kaž <strong>ww</strong>.přikład.de město <strong>www</strong>.přikład.de</li> <li>Jeli njemóžeće někotre strony čitać, skontrolujće syćowy zwisk swojeho ličaka.</li> <li>Jeli waš ličak abo syć so z wohnjowej murju abo proksy škita, zawěsćće, zo &brandShortName; smě na Web přistup měć.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Přepruwujće adresu za pisanskimi zmylkami kaž <strong>ww</strong>.example.com město <strong>www</strong>.example</li> <li>Jeli njemóžeće někotre strony čitać, skontrolujće syćowy zwisk swojeho ličaka.</li> <li>Jeli waš ličak abo syć so z wohnjowej murju abo proksy škita, zawěsćće, zo &brandShortName; smě na Web přistup měć.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Dataja njebu namakana">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Přepruwujće datajowe mjeno za wulkopisanskimi abo hinašimi pisanskimi zmylkami.</li> <li>Přepruwujće, hač je so dataja přesunyła, přemjenowała abo wotstroniła.</li> </ul>">
@@ -31,7 +31,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; njemóže tutu stronu z někajkeje přičiny začitać.</p>">
 
 <!ENTITY malformedURI.title "Adresa płaćiwa njeje">
-<!ENTITY malformedURI.longDesc "<ul> <li>Webadresy so z wašnjom kaž <strong>http://www.přikład.de/</strong> pisaja.</li> <li>Zawěsćće, zo wužiwaće doprědka nachilene nakósne smužki (t.j. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Webadresy so z wašnjom kaž <strong>http://www.example.com/</strong> pisaja.</li> <li>Zawěsćće, zo wužiwaće doprědka nachilene nakósne smužki (t.j. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Zwisk bu přetorhnjeny">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
