@@ -5,6 +5,12 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Font Inspector strings.
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
+<!ENTITY fontInspectorTitle "Γραμματοσειρές">
+<!ENTITY showAllFonts "Δείτε όλες τις γραμματοσειρές αυτής της σελίδας">
+<!ENTITY usedAs "Χρησιμοποιείται ως: ">
+<!ENTITY system "του συστήματος">
+<!ENTITY remote "απομακρυσμένη">
 
 <!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
      placeholder in font inspector preview text box. -->
+<!ENTITY previewHint "Προεπισκόπηση κειμένου">
