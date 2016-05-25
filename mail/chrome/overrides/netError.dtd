@@ -33,7 +33,7 @@
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Kontrolearje de bestânsnamme op grutte/lytse letters of oare typflaters.</li>
-  <li>Kontrolearje of it bestân ferpleatst, fuorthelle is of in nije namme krigen hat.</li>
+  <li>Kontrolearje oft it bestân is ferpleatst, omneamd of fuortsmiten.</li>
 </ul>
 ">
 
@@ -41,10 +41,12 @@
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>It kin fuortsmiten wêze, ferpleatst, of bestânsmachtigingen kinne tagong tsjingean.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Oei.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; kin om ien of oare reden dizze side net lade.</p>
+<p>&brandShortName; kin om ien oft oare reden dizze side net lade.</p>
 ">
 
 <!ENTITY malformedURI.title "It adres jildt net">
