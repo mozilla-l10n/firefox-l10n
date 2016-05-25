@@ -23,7 +23,7 @@
 <!ENTITY originalWebsite4.label "Webstee">
 
 <!ENTITY hdrArchiveButton1.label "Argivearje">
-<!ENTITY hdrArchiveButton1.tooltip "Argivearje dit berjocht">
+<!ENTITY hdrArchiveButton1.tooltip "Dit berjocht argivearje">
 <!ENTITY hdrSmartReplyButton1.label "Tûk beantwurdzje">
 <!ENTITY hdrReplyButton1.label "Beantwurdzje">
 <!ENTITY hdrReplyButton2.tooltip "Ofstjoerder fan dit berjocht beantwurdzje">
@@ -31,13 +31,13 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Beantwurdzje nei ôfstjoerder en alle ûntfangers">
 <!ENTITY hdrReplyListButton1.label "List beantwurdzje">
 <!ENTITY hdrReplyListButton1.tooltip "Beantwurdzje nei mailinglist">
-<!ENTITY hdrFollowupButton1.label "Reaksje">
-<!ENTITY hdrFollowupButton1.tooltip "Post in reaksje nei dizze nijsgroep">
-<!ENTITY hdrMenuForwardButton.label "Trochstjoer as">
+<!ENTITY hdrFollowupButton1.label "Reagearje">
+<!ENTITY hdrFollowupButton1.tooltip "In reaksje yn dizze nijsgroep pleatse">
+<!ENTITY hdrMenuForwardButton.label "Trochstjoere as">
 <!ENTITY hdrForwardButton1.label "Trochstjoere">
 <!ENTITY hdrForwardButton1.tooltip "Dit berjocht trochstjoere">
 <!ENTITY hdrJunkButton1.label "Net-winske">
-<!ENTITY hdrJunkButton1.tooltip "Markearje dit berjocht as net-winske">
+<!ENTITY hdrJunkButton1.tooltip "Dit berjocht as net-winske markearje">
 <!ENTITY hdrTrashButton1.label "Fuortsmite">
 <!ENTITY hdrTrashButton1.tooltip "Dit berjocht fuortsmite">
 

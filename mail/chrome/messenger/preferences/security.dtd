@@ -33,11 +33,11 @@
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro        	"&brandShortName; kin wachtwurdynformaasje foar al jo accounts ûnthâlde, sadat jo net hieltyd jo ynlochgegevens hoege yn te fieren.">
-<!ENTITY useMasterPassword.label        "Brûk in haadwachtwurd">
+<!ENTITY useMasterPassword.label        "In haadwachtwurd brûke">
 <!ENTITY useMasterPassword.accesskey    "h">
 <!ENTITY masterPassword.intro        	"As dit ynsteld is befeiliget it haadwachtwurd al jo wachtwurden - mar jo moatte it elke sesje ien kear ynfiere.">
-<!ENTITY changeMasterPassword.label     "Wizigje haadwachtwurd…">
-<!ENTITY changeMasterPassword.accesskey "W">
+<!ENTITY changeMasterPassword.label     "Haadwachtwurd wizigje…">
+<!ENTITY changeMasterPassword.accesskey "w">
 <!ENTITY savedPasswords.label           "Bewarre wachtwurden…">
 <!ENTITY savedPasswords.accesskey       "B">
 

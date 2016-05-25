@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Kompakt byld">
 <!ENTITY compactVersion.accesskey "K">
+<!ENTITY folderPaneBar.label "Mappenfinsterarkbalke">
+<!ENTITY folderModeSelector.label "Mappenwerjefte">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortearje op">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "As nij berjocht bewurkje">
 <!ENTITY editAsNewMsgCmd.accesskey "b">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Konseptberjocht bewurkje">
+<!ENTITY editDraftMsgCmd.accesskey "o">
 <!ENTITY createFilter.label "Filter meitsje op basis fan berjocht…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgToMenu.label "Ferpleatse nei">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "As nij berjocht bewurkje">
 <!ENTITY contextEditMsgAsNew.accesskey "b">
+<!ENTITY contextEditDraftMsg.label "Konseptberjocht bewurkje">
 <!ENTITY contextArchive.label "Argivearje">
 <!ENTITY contextArchive.accesskey "g">
 <!ENTITY contextReplySender.label "Ofstjoerder beantwurdzje">
@@ -742,10 +747,16 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "Kopiearje nei">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
-<!ENTITY contextKillThreadMenu.label "Tried ferjitte">
-<!ENTITY contextKillThreadMenu.accesskey "f">
-<!ENTITY contextKillSubthreadMenu.label "Tried ferjitte">
-<!ENTITY contextWatchThreadMenu.label "Tried besjen">
+<!ENTITY contextKillThreadMenu.label "Petear negearje">
+<!ENTITY contextKillThreadMenu.accesskey "P">
+<!ENTITY contextKillSubthreadMenu.label "Subpetear negearje">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
+<!ENTITY contextWatchThreadMenu.label "Subpetear folgje">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "S">
 <!ENTITY contextSaveAs.label "Bewarje as…">
 <!ENTITY contextSaveAs.accesskey "B">
 <!ENTITY contextPrint.label "Ofdrukke…">
