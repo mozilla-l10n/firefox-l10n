@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage 'Poistetaanko hakuhistoria tältä laitteelta?'>
 <!ENTITY pref_clearHistory_title 'Poista hakuhistoria'>
 
-<!ENTITY pref_searchProvider_title 'Hakukone'>
-
 <!ENTITY search_widget_button_label 'Etsi'>
 
 <!ENTITY network_error_title 'Ei Internet-yhteyttä'>

@@ -42,6 +42,12 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Tiedoston käyttö estetty">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Tiedosto on saatettu poistaa tai siirtää, tai sen käyttöoikeudet estävät käytön.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Verkkopyyntöä ei kyetä toteuttamaan">
 <!ENTITY generic.longDesc "
@@ -209,3 +215,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Lisätiedot: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Yhteytesi ei ole suojattu">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> käyttää vanhentunutta suojausteknologiaa, joka on hyökkäyksille altis. Hyökkääjä saattaa helposti paljastaa tietoa, jonka luulit olevan suojattu. Verkkosivuston ylläpitäjän tulee korjata tämä ongelma ennen kuin voit käydä sivustolla.</p><p>Virhekoodi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

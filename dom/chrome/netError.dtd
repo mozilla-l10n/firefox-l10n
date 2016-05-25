@@ -92,3 +92,8 @@
 
 <!ENTITY remoteXUL.title "XUL-koodia etänä">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Yhteytesi ei ole suojattu">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> käyttää vanhentunutta suojausteknologiaa, joka on hyökkäyksille altis. Hyökkääjä saattaa helposti paljastaa tietoa, jonka luulit olevan suojattu. Verkkosivuston ylläpitäjän tulee korjata tämä ongelma ennen kuin voit käydä sivustolla.</p><p>Virhekoodi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
