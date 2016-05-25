@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>घटकास पुनःनामांकीत, काढून टाकले, किंवा पुन्ह स्थानांतर केले असावे?</li><li>पत्त्यात शब्दलेखन, ठकख अक्षरे, किंवा इतर लिखीतजोगी त्रूटी आहे का?</li><li>विनंतीत घटकास पुरेसे प्रवेश परवानगी आहेत का?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "फाइल वापर नाकारण्यात आला होता">
-
+<!ENTITY fileAccessDenied.longDesc "<ul><li>ते कदाचित काढून टाकले गेले, हलविले, किंवा त्यास फाइल परवानग्या प्रवेश प्रतिबंधित करत असतील.</li></ul>">
 
 <!ENTITY generic.title "विनंती पूर्ण करू शकला नाही">
 <!ENTITY generic.longDesc "<p>ह्या अडचनीविषयी किंवा त्रूटीविषयी अधिक माहिती सध्या उपलब्ध नाही.</p>">
@@ -82,5 +82,7 @@
 <!ENTITY remoteXUL.title "रिमोट XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>या अडचणीविषयी कळवण्यासाठी कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "आपली जोडणी सुरक्षीत नाही">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरत आहे. आक्रमणकर्ता सहजपणे आपण सुरक्षित समजत असलेली माहिती मिळवू शकतो. वेबसाइट प्रशासकाने सर्व्हर निर्दोष केल्यावरच आपण साइटला भेट देऊ शकता. </p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
