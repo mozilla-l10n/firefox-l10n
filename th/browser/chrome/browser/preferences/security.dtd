@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "ปิดกั้นเนื้อหาที่อันตรายและหลอกลวง">
+<!ENTITY  enableSafeBrowsing.accesskey    "ป">
 
+<!ENTITY  blockDownloads.label            "ปิดกั้นการดาวน์โหลดที่อันตราย">
+<!ENTITY  blockDownloads.accesskey        "อ">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "เตือนเกี่ยวกับซอฟต์แวร์ไม่พึงประสงค์และไม่ปกติ">
+<!ENTITY  blockUncommonUnwanted.accesskey "ส">
 
 <!ENTITY  addonExceptions.label         "ยกเว้น…">
 <!ENTITY  addonExceptions.accesskey     "ย">

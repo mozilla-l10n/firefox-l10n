@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "ข">
 <!ENTITY blockAutoRefresh.label          "เตือนทุกครั้งเมื่อเว็บไซต์จะทำการเปลี่ยนเส้นทางหรือเรียกหน้าเว็บใหม่">
 <!ENTITY blockAutoRefresh.accesskey      "ว">
-
-
+<!ENTITY useOnScreenKeyboard.label       "แสดงแป้นพิมพ์สัมผัสเมื่อต้องการ">
+<!ENTITY useOnScreenKeyboard.accesskey   "ป">
 
 <!ENTITY browsing.label                  "การดูหน้าเว็บ">
 
