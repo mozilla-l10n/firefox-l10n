@@ -744,7 +744,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Opna í nýjum huliðsglugga">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Setja flipa í bókamerki…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "b">
 <!ENTITY syncedTabs.context.copy.label                       "Afrita">
 <!ENTITY syncedTabs.context.copy.accesskey                   "A">
 
