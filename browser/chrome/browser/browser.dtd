@@ -344,11 +344,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "Nicio filă sincronizată…încă!">
 
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferințe de sincronizare">
 
 
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Vezi bara laterală cu file sincronizate">
 
 <!ENTITY customizeMenu.addToToolbar.label "Adaugă la bara de unelte">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -719,7 +720,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "File sincronizate">
 
-
+<!ENTITY syncedTabs.sidebar.noclients.title    "Nicio filă sincronizată…încă!">
 
 
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nicio filă deschisă">
@@ -730,10 +731,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Deschide linkul într-o fereastră nouă">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Deschide linkul într-o fereastră privată nouă">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 
 
 
