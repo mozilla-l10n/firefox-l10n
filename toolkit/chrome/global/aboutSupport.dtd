@@ -109,3 +109,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Probearje de feilige moadus">
 <!ENTITY aboutSupport.restartInSafeMode.label "Werstart mei útskeakele add-ons…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Funksjes">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostyske gegevens">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Flaterlochboek">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">

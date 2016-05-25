@@ -45,7 +45,7 @@
 <!ENTITY rights.intro-point4b-unbranded "Webstee Tsjinsten">
 <!ENTITY rights.intro-point4c-unbranded " seksje.">
 
-<!ENTITY rights2.webservices-header "&brandFullName; Web-basearre ynformaasje tsjinsten">
+<!ENTITY rights2.webservices-header "&brandFullName; Web-basearre ynformaasjetsjinsten">
 
 <!-- point 5 -->
 <!ENTITY rights.intro-point5 "Om bepaalde typen fideo-ynhâld ôf te spyljen, downloadt &brandShortName; bepaalde ynhâlddekodearringsmodules fan tredden.">
@@ -61,11 +61,11 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
-<!ENTITY rights.safebrowsing-b "De Safe Browsing funksje útskeakelje wurdt net oanrikkemandearre, omdat it resultearje kin yn dat jo nei ûnfeilige siden gean.  As jo dizze funksje folslein útskeakelje wolle, folgje dizze stappen:">
+<!ENTITY rights.safebrowsing-b "Utskeakeljen fan de funksje Feilich sneupjen wurdt net oanrikkemandearre, omdat it resultearje kin yn dat jo nei ûnfeilige siden gean.  As jo dizze funksje folslein útskeakelje wolle, folgje dizze stappen:">
 <!ENTITY rights.safebrowsing-term1 "Iepenje de applikaasjeopsjes">
-<!ENTITY rights.safebrowsing-term2 "Selektearje de Befeiliging seleksje">
-<!ENTITY rights.safebrowsing-term3 "Finkje de opsjes foar ‘&blockAttackSites.label;’ en ‘&blockWebForgeries.label;’ út">
-<!ENTITY rights.safebrowsing-term4 "Safe Browsing is no útskeakele">
+<!ENTITY rights.safebrowsing-term2 "Selektearje de seksje Befeiliging">
+<!ENTITY rights2.safebrowsing-term3 "Finkje de opsjes foar ‘&enableSafeBrowsing.label;’ út">
+<!ENTITY rights.safebrowsing-term4 "Feilich sneupjen is no útskeakele">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Lokaasjebewust sneupe: ">
