@@ -51,7 +51,7 @@
 <!ENTITY defaultPortLabel.label "Pré-definido:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Introduza o nome do seu servidor de receção (por exemplo, &quot;mail.exemplo.pt&quot;).">
+<!ENTITY incomingServer.description "Introduza o nome do seu servidor de receção (por exemplo, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServer.label "Servidor de receção:">
 <!ENTITY incomingServer.accesskey "S">
 <!ENTITY leaveMsgsOnSrvr.label "Manter mensagens no servidor">
@@ -69,7 +69,7 @@
 
 <!ENTITY outgoingTitle.label "Informações do servidor de envio">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Introduza o nome do servidor de envio (SMTP) (por exemplo, &quot;smtp.exemplo.pt&quot;).">
+<!ENTITY outgoingServer.description "Introduza o nome do servidor de envio (SMTP) (por exemplo, &quot;smtp.example.com&quot;).">
 <!ENTITY outgoingServer.label "Servidor de envio:">
 <!ENTITY outgoingServer.accesskey "S">
 <!ENTITY outgoingUsername.description "Introduza o nome de utilizador de envio que lhe foi dado pelo seu fornecedor de correio eletrónico (normalmente, é igual ao nome de receção).">
