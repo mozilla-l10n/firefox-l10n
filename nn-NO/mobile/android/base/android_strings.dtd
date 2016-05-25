@@ -27,7 +27,7 @@
 <!ENTITY  reading_list_migration_title "Leseliste tilkopla">
 <!ENTITY  reading_list_migration_subtext "Innhaldet i leselista di vert no lagt til i bokmerka dine">
 <!ENTITY  reading_list_migration_goto_bookmarks "Gå til bokmerke">
-
+<!ENTITY  reading_list_migration_bookmarks_hidden "Bokmerkefeltet er gøymd">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -63,15 +63,18 @@
 <!ENTITY bookmark_removed "Bokmerke fjerna">
 <!ENTITY bookmark_updated "Bokmerke oppdatert">
 <!ENTITY bookmark_options "Innstillingar">
-
+<!ENTITY screenshot_added_to_bookmarks "Skjermbilde lagt til i bokmerke">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Skjermbilde">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Leseliste">
 
-
+<!ENTITY reader_saved_offline "Lagra fråkopla">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Byt">
 
 <!ENTITY history_today_section "I dag">
 <!ENTITY history_yesterday_section "I går">
@@ -110,7 +113,7 @@
 <!ENTITY settings "Innstillingar">
 <!ENTITY settings_title "Innstillingar">
 <!ENTITY pref_category_general "Generelt">
-
+<!ENTITY pref_category_general_summary3 "Heim, språk, fanekø">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -149,7 +152,7 @@
 <!ENTITY overlay_no_synced_devices "Ingen Firefox-konto-tilkopla einingar funne">
 
 <!ENTITY pref_category_search3 "Søk">
-
+<!ENTITY pref_category_search_summary2 "Legg til, vel standard, vis forslag">
 <!ENTITY pref_category_accessibility "Tilgjenge">
 <!ENTITY pref_category_accessibility_summary2 "Tekststorleik, forstørring, taleinndata">
 <!ENTITY pref_category_privacy_short "Personvern">
