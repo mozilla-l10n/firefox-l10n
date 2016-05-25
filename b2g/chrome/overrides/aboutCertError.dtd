@@ -17,7 +17,7 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Jo hawwe &brandShortName; frege in befeilige ferbining
-op te setten mei <b>#1</b>, mar wy koenen net befêstigje dat jo ferbining befeilige is.">
+te meitsjen mei <b>#1</b>, mar wy koenen net befêstigje dat jo ferbining befeilige is.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Wat moat ik dwaan?">
 <!ENTITY certerror.whatShouldIDo.content "As jo trochgeans sûnder problemen ferbining
