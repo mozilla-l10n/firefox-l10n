@@ -204,8 +204,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "A" >
 <!ENTITY event.attachments.popup.removeAll.label          "Remover tudo" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "t" >
-<!ENTITY event.attachments.popup.attachPage.label         "Anexar pá&amp;gina web…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
+<!ENTITY event.attachments.popup.attachPage.label         "Anexar página web…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
 <!ENTITY event.url.label                                  "Ligação relacionada:" >
 <!ENTITY event.priority2.label                            "Prioridade:">
 
