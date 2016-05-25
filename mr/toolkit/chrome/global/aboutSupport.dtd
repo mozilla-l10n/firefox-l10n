@@ -105,7 +105,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "सुरक्षित पद्धत वापरुन बघा">
 <!ENTITY aboutSupport.restartInSafeMode.label "ॲड-ऑन्स् निष्क्रिय करुन पुनःसुरू करा…">
 
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "वैशिष्ट्ये">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "डायग्नोस्टीक्स">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "अपयश लॉग">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
