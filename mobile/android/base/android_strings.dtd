@@ -775,5 +775,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "เพิ่มไปยังหน้าจอแรก">
 
 <!ENTITY helper_first_offline_bookmark_title "อ่านออฟไลน์">
-<!ENTITY helper_first_offline_bookmark_message "หารายการของมุมมองตัวอ่านในที่คั่นหน้า แม้กระทั่งออฟไลน์">
+<!ENTITY helper_first_offline_bookmark_message "ค้นหารายการมุมมองผู้อ่านของคุณในที่คั่นหน้า แม้ขณะออฟไลน์">
 <!ENTITY helper_first_offline_bookmark_button "ไปยังที่คั่นหน้า">
