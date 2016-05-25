@@ -24,12 +24,14 @@
 <!ENTITY certmgr.pending.label                "Γίνεται προβολή πιστοποιητικού...">
 <!ENTITY certmgr.subjectinfo.label            "Εκδόθηκε σε">
 <!ENTITY certmgr.issuerinfo.label             "Εκδόθηκε από">
+<!ENTITY certmgr.periodofvalidity.label       "Περίοδος Εγκυρότητας" >
 <!ENTITY certmgr.fingerprints.label           "Αποτυπώματα">
 <!ENTITY certmgr.certdetail.title             "Λεπτομέρεια πιστοποιητικού">
 <!ENTITY certmgr.certdetail.cn                "Κοινό όνομα (CN)">
 <!ENTITY certmgr.certdetail.o                 "Οργανισμός (O)">
 <!ENTITY certmgr.certdetail.ou                "Μονάδα Οργανισμού (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Σειριακός αριθμός">
+<!ENTITY certmgr.certdetail.sha256fingerprint "Αποτύπωμα SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Αποτύπωμα SHA1">
 
 <!ENTITY certmgr.editcacert.title             "Επεξεργασία ρυθμίσεων εμπιστοσύνης πιστοποιητικών  CA">
@@ -44,6 +46,7 @@
 <!ENTITY certmgr.certserver                   "Εξυπηρετητής">
 <!ENTITY certmgr.override_lifetime            "Εφ' όρου ζωής">
 <!ENTITY certmgr.tokenname                    "Συσκευή ασφάλειας">
+<!ENTITY certmgr.begins                       "Αρχίζει στις">
 <!ENTITY certmgr.expires                      "Λήγει στις">
 <!ENTITY certmgr.email                        "Ηλεκτρονική διεύθυνση">
 <!ENTITY certmgr.serial                       "Σειριακός Αριθμός">
