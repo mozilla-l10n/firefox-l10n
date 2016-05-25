@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "धोकादायक आणि भ्रामक सामग्री अवरोधित करा">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "धोकादायक डाउनलोड अवरोधित करा">
+<!ENTITY  blockDownloads.accesskey        "d">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "नको असलेल्या आणि असामान्य सॉफ्टवेअर बद्दल मला सुचना द्या">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "अपवाद…">
 <!ENTITY  addonExceptions.accesskey     "E">
