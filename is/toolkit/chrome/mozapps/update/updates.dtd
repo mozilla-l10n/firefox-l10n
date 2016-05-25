@@ -53,7 +53,7 @@
 
 <!ENTITY  error.title                     "Uppfærsla mistókst">
 
-<!ENTITY  error.label                     "Upp komu villur við að athuga, ná í eða setja inn uppfærsluna. Ekki var hægt að uppfæra &brandShortName; vegna þess að:">
+<!ENTITY  error.label                     "Upp komu villur við að athuga, ná í, eða setja inn uppfærsluna. Ekki var hægt að uppfæra &brandShortName; vegna þess að:">
                                            
 <!ENTITY  errorManual.label               "Þú getur uppfært &brandShortName; handvirkt með því að opna þessa slóð og hala niður nýjustu útgáfu:">
                                            

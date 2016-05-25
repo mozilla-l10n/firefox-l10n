@@ -24,7 +24,7 @@
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Athugaðu hvort þú hefur slegið inn skráarnafnið með hástafaritun eða aðra innsláttarvillu.</li> <li>Athugaðu hvort skráin hefur verið færð, endurnefnt eða eytt.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Aðgangur að skránni ekki leyfður.">
+<!ENTITY fileAccessDenied.title "Aðgangur að skránni ekki leyfður">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Vera má að skráin hafi verið fjarlægð, færð til eða réttindi leyfi ekki aðgengi.</li> </ul>">
 
 <!ENTITY generic.title "Ææ.">

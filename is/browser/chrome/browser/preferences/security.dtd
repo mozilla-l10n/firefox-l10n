@@ -18,7 +18,7 @@
 <!ENTITY  blockDownloads.accesskey        "ö">
 
 <!ENTITY  blockUncommonUnwanted.label     "Vara mig við óvelkomnum og óþekktum hugbúnaði">
-<!ENTITY  blockUncommonUnwanted.accesskey "c">
+<!ENTITY  blockUncommonUnwanted.accesskey "þ">
 
 <!ENTITY  addonExceptions.label         "Undanþágur…">
 <!ENTITY  addonExceptions.accesskey     "U">

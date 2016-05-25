@@ -19,8 +19,8 @@
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
 <!ENTITY fileNotFound.longDesc "<ul><li>Gæti verið að hluturinn hafi verið endurnefndur, fjarlægður, eða færður til?</li><li>Er stafsetningarvilla, hástafaritun, eða annarskonar stafsetningarvilla í vistfanginu?</li><li>Hefurðu nægar aðgangsheimildir fyrir hlutinn?</li></ul>">
 
-<!ENTITY fileAccessDenied.title "Aðgangur að skránni ekki leyfður.">
-<!ENTITY fileAccessDenied.longDesc "<ul> <li>Vera má að skráin hafi verið fjarlægð, færð til eða réttindi leyfi ekki aðgengi.</li> </ul>">
+<!ENTITY fileAccessDenied.title "Aðgangur að skránni ekki leyfður">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Vera má að skráin hafi verið fjarlægð, færð til eða réttindi leyfi ekki aðgengi.</li></ul>">
 
 <!ENTITY generic.title "Get ekki klárað beiðni">
 <!ENTITY generic.longDesc "<p>Aðrar upplýsingar um þetta vandamál er ekki til staðar.</p>">

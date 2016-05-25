@@ -20,7 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " þitt:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "niðurhal">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "bókamerki">
-<!ENTITY aboutPrivateBrowsing.note.before                "Huliðsstilling">
+<!ENTITY aboutPrivateBrowsing.note.before                "Huliðsstilling ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "gerir þig ekki nafnlausan">
 <!ENTITY aboutPrivateBrowsing.note.after                 " á Internetinu. Vinnuveitandinn þinn eða netþjónustuaðili getur haft upplýsingar um hvaða síður þú ferð á.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Læra meira um">
