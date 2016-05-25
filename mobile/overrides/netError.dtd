@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "Serwer njejo se namakał">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Pśeglědajśo adresu za pisańskimi zmólkami ako <strong>ww</strong>.pśikład.de město <strong>www</strong>.pśikład.de</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Pytaś</button> </div> <li>Jolic njamóžośo boki zacytaś, pśeglědajśo daty swójogo rěda abo WLAN-zwisk. <button id='wifi'>WLAN zmóžniś</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Pśeglědajśo adresu za pisańskimi zmólkami ako <strong>ww</strong>.example.com město <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Pytaś</button> </div> <li>Jolic njamóžośo boki zacytaś, pśeglědajśo daty swójogo rěda abo WLAN-zwisk. <button id='wifi'>WLAN zmóžniś</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Dataja njejo se namakała">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Pśeglědajśo datajowe mě za wjelikopisańskimi abo hynakšymi pisańskimi zmólkami.</li> <li>Pśeglědajśo, lěc dataja jo se pśesunuła, pśemjeniła abo wótpórała.</li> </ul>">
@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.title "Adresa njejo płaśiwa">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Web-adrese pišu se zwětšego ako <strong>http://www.pśikład.de/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Pytaś</button> </div> <li>Zawěsććo, až wužywaśo nakósne smužki (t. gr. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Web-adrese pišu se zwětšego ako <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Pytaś</button> </div> <li>Zawěsććo, až wužywaśo nakósne smužki (t. gr. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Zwisk jo se pśetergnuł">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
