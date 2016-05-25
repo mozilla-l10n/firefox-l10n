@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "Servidor não encontrado">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Verifique se o endereço não tem erros como <strong>ww</strong>.exemplo.com em vez de <strong>www</strong>.exemplo.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Pesquisar</button> </div> <li>Se não conseguir carregar nenhuma página, verifique a ligação de dados ou Wi-Fi do dispositivo. <button id='wifi'>Ativar Wi-Fi</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Verifique se o endereço não tem erros como <strong>ww</strong>.example.com em vez de <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Pesquisar</button> </div> <li>Se não conseguir carregar nenhuma página, verifique a ligação de dados ou Wi-Fi do dispositivo. <button id='wifi'>Ativar Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Ficheiro não encontrado">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verifique se existem letras maiúsculas ou outros erros no nome do ficheiro.</li><li>Verifique se o ficheiro foi movido, apagado ou renomeado.</li></ul>">
