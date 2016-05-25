@@ -53,7 +53,7 @@
 <!ENTITY defaultPortLabel.label "Standard:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Zapodajće mjeno wašeho dochadneho serwera (na přikład, &quot;email.přikład.net&quot;).">
+<!ENTITY incomingServer.description "Zapodajće mjeno wašeho dochadneho serwera (na přikład, &quot;email.example.net&quot;).">
 <!ENTITY incomingServer.label "Dochadny serwer:">
 <!ENTITY incomingServer.accesskey "D">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
@@ -61,7 +61,7 @@
 <!ENTITY incomingUsername.label "Wužiwarske mjeno:">
 <!ENTITY incomingUsername.accesskey "W">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Zapodajće mjeno swojeho serwera za diskusijne skupiny (NNTP) (na přikład &quot;news.přikład.net&quot;).">
+<!ENTITY newsServerNameDesc.label "Zapodajće mjeno swojeho serwera za diskusijne skupiny (NNTP) (na přikład &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Serwer diskusijneho serwera:">
 <!ENTITY newsServerLabel.accesskey "S">
 <!-- Entities for Outgoing Server page -->
@@ -69,7 +69,7 @@
 
 <!ENTITY outgoingTitle.label "Informacije wo wuchadnym serwerje">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Zapodajće mjeno swojeho wuchadneho serwera (SMTP) (na přikład, &quot;smtp.přikład.net&quot;).">
+<!ENTITY outgoingServer.description "Zapodajće mjeno swojeho wuchadneho serwera (SMTP) (na přikład, &quot;smtp.example.net&quot;).">
 <!ENTITY outgoingServer.label "Wuchadny serwer:">
 <!ENTITY outgoingServer.accesskey "W">
 <!ENTITY outgoingUsername.description "Zapodajće mjeno wuchadneho serwera, kotrež sće wot swojeho e-mejloweho poskićowarja dóstał (to je zwjetša jenake mjeno, kaž te za dochadny serwer).">
