@@ -46,7 +46,7 @@
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Verkko-osoitteet ovat yleensä muotoa
-    <strong>http://www.esimerkki.com/</strong></li>
+    <strong>http://www.example.com/</strong></li>
   <li>Tarkista, että olet käyttänyt kauttaviivoja (siis
     <strong>/</strong>-merkkiä).</li>
 </ul>
