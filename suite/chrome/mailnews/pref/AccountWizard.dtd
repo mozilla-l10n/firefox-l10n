@@ -51,7 +51,7 @@
 <!ENTITY defaultPortLabel.label "Oletus:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Anna käyttämäsi saapuvan postin palvelimen osoite (esim. &quot;posti.esimerkki.fi&quot;).">
+<!ENTITY incomingServer.description "Anna käyttämäsi saapuvan postin palvelimen osoite (esim. &quot;posti.example.net&quot;).">
 <!ENTITY incomingServer.label "Saapuvan postin palvelin:">
 <!ENTITY incomingServer.accesskey "S">
 <!ENTITY leaveMsgsOnSrvr.label "Jätä viestit palvelimelle">
@@ -61,7 +61,7 @@
 <!ENTITY incomingUsername.label "Käyttäjätunnus:">
 <!ENTITY incomingUsername.accesskey "K">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Anna käyttämäsi keskusteluryhmäpalvelimen (NNTP) osoite (esim. &quot;news.esimerkki.fi&quot;).">
+<!ENTITY newsServerNameDesc.label "Anna käyttämäsi keskusteluryhmäpalvelimen (NNTP) osoite (esim. &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Keskusteluryhmäpalvelin:">
 <!ENTITY newsServerLabel.accesskey "K">
 
@@ -69,7 +69,7 @@
 
 <!ENTITY outgoingTitle.label "Lähtevän postin palvelimen tiedot">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Anna käyttämäsi lähtevän postin palvelimen (SMTP) osoite (esim. &quot;smtp.esimerkki.fi&quot;).">
+<!ENTITY outgoingServer.description "Anna käyttämäsi lähtevän postin palvelimen (SMTP) osoite (esim. &quot;smtp.example.net&quot;).">
 <!ENTITY outgoingServer.label "Lähtevän postin palvelin:">
 <!ENTITY outgoingServer.accesskey "L">
 <!ENTITY outgoingUsername.description "Anna palveluntarjoajasi sinulle antama lähtevän postin käyttäjätunnus (tämä on yleensä sama kuin saapuvan postin käyttäjätunnus).">

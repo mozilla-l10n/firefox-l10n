@@ -60,7 +60,7 @@
 <!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Verkko-osoitteet ovat yleensä muotoa
-    <strong>http://www.esimerkki.com/</strong></li>
+    <strong>http://www.example.com/</strong></li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Haku</button>
