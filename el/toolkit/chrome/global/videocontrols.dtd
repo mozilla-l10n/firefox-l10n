@@ -8,6 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Άρση σίγασης">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Πλήρης οθόνη">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Έξοδο από την πλήρη οθόνη">
+<!ENTITY castingButton.castingLabel "Μετάδοση σε Οθόνη">
 
 <!ENTITY stats.media "Πολυμέσα">
 <!ENTITY stats.size "Μέγεθος">
