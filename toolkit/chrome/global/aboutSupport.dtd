@@ -109,3 +109,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "안전 모드">
 <!ENTITY aboutSupport.restartInSafeMode.label "부가 기능 없이 재시작…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "기능">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "진단">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "실패 로그">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
