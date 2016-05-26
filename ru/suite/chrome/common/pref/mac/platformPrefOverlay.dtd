@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY prefWindow.size "width: 70em; height: 43em;">
+<!ENTITY prefWindow.size "width: 74em; height: 43em;">
 <!ENTITY urlbar.label "нажатии Command+Return в панели адреса">
 <!ENTITY urlbar.accesskey "а">
 <!ENTITY middleClick.label "щелчке средней кнопкой мыши, щелчке с удержанием Command или нажатии Command+Return на ссылках веб-страницы">
