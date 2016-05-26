@@ -30,7 +30,7 @@
 <!ENTITY portNum.accesskey "о">
 <!ENTITY defaultPortLabel.label "По умолчанию:">
 <!ENTITY defaultPortValue.label "">
-<!ENTITY incomingServer.description "Введите имя используемого вами сервера входящей почты (например, «mail.example.ru»).">
+<!ENTITY incomingServer.description "Введите имя используемого вами сервера входящей почты (например, «mail.test.ru»).">
 <!ENTITY incomingServer.label "Сервер входящей почты:">
 <!ENTITY incomingServer.accesskey "е">
 <!ENTITY leaveMsgsOnSrvr.label "Оставлять копии сообщений на сервере">
@@ -38,11 +38,11 @@
 <!ENTITY incomingUsername.description "Введите имя пользователя входящей почты, данное вам провайдером электронной почты (например, «vpetrov»).">
 <!ENTITY incomingUsername.label "Имя пользователя:">
 <!ENTITY incomingUsername.accesskey "м">
-<!ENTITY newsServerNameDesc.label "Введите имя используемого вами сервера новостей (NNTP) (например, «news.example.ru»).">
+<!ENTITY newsServerNameDesc.label "Введите имя используемого вами сервера новостей (NNTP) (например, «news.test.ru»).">
 <!ENTITY newsServerLabel.label "Сервер групп новостей:">
 <!ENTITY newsServerLabel.accesskey "е">
 <!ENTITY outgoingTitle.label "Информация о сервере исходящей почты">
-<!ENTITY outgoingServer.description "Введите имя используемого вами сервера исходящей почты (SMTP) (например, «smtp.example.ru»).">
+<!ENTITY outgoingServer.description "Введите имя используемого вами сервера исходящей почты (SMTP) (например, «smtp.test.ru»).">
 <!ENTITY outgoingServer.label "Сервер исходящей почты:">
 <!ENTITY outgoingServer.accesskey "е">
 <!ENTITY outgoingUsername.description "Введите имя пользователя на сервере исходящей почты, данное вам провайдером электронной почты (обычно оно то же, что и имя пользователя на сервере входящей почты).">
