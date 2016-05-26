@@ -25,7 +25,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>صحتِ نام پرونده را برای احتمال وجود غلط املایی بررسی کنید. </li><li>بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نام یافته، یا پاک شده است.</li></ul>">
 
 <!ENTITY fileAccessDenied.title "دسترسی به پرونده رد شد">
-
+<!ENTITY fileAccessDenied.longDesc "<ul><li>ممکن است حذف،‌منتقل شده باشد یا مجوز‌های آن از دسترسی جلوگیری‌ می‌کند.</li></ul>">
 
 <!ENTITY generic.title "متأسفیم.">
 
@@ -100,8 +100,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> از تکنولوژی امنیتی منسوخ شده استفاده می‌کند که در برابر حمله‌ها آسیب‌پذیر است. یک مهاجم به راحتی می‌تواند اطلاعاتی که شما فکر می‌کنید امن هستند را افشا کند.">
 <!ENTITY weakCryptoAdvanced.override "(امن نیست) تلاش برای بارگذاری <span class='hostname'></span>با استفاده از امنیت منسوخ شده">
 
+<!ENTITY certerror.pagetitle1  "ارتباط نا امن">
 
-
+<!ENTITY certerror.copyToClipboard.label "رونوشت متن به کلیپ بورد">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -7,23 +7,23 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "پ">
 
 <!ENTITY privateBrowsing.title                           "مرور ناشناس">
+<!ENTITY privateBrowsing.title.tracking                  "مرور ناشناس با امکان محافظت در برابر ردگیری‌ها">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "هنگامی که شما در یک پنجره خصوصی شروع به مرور می‌کنید، فایرفاکس ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ذخیره نمی‌کند">
+
+<!ENTITY aboutPrivateBrowsing.info.visited               "صفحات بازدید شده">
 
 
 
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "فایرفاکس ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "ذخیره‌ خواهد شد">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " شما:">
 
 
 
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "باعث نمی‌شود شما ناشناخته باشید">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "در مورد‌ آن بیشتر بدانید">
 
 
 <!ENTITY trackingProtection.title                        "محافظت در برابر ردگیری">

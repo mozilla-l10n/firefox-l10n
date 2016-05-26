@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "مسدود سازی محتوا‌های خطرناک و فریبنده">
+<!ENTITY  enableSafeBrowsing.accesskey    "م">
 
+<!ENTITY  blockDownloads.label            "مسدود سازی دریافت های خطرناک">
+<!ENTITY  blockDownloads.accesskey        "خ">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "به من در مورد نرم‌افزارهای نامطلوب و غیرمعمول اخطار بده">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "استثناها…">
 <!ENTITY  addonExceptions.accesskey     "ت">
