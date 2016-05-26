@@ -222,20 +222,24 @@
 
 <!ENTITY pref_cookies_menu "Kookie">
 <!ENTITY pref_cookies_accept_all "Myandypyre">
+<!ENTITY pref_cookies_not_accept_foreign "Hendypyre, oñemboykehápe pe mbohapyha vore">
+<!ENTITY pref_cookies_disabled "Ojepuruve\u0027ỹva">
 
+<!ENTITY pref_category_data_saver "Mba\u0027ekuaarã mo\u0027ãha">
+<!ENTITY pref_category_media "Momaranduhára">
+<!ENTITY pref_category_developer_tools "Tembipuru mboguatahára">
 
+<!ENTITY pref_tap_to_load_images_title2 "Ta\u0027ãnga jehechauka">
+<!ENTITY pref_tap_to_load_images_enabled "Tapiaite">
+<!ENTITY pref_tap_to_load_images_data "Wi-Fi rupive añoite">
+<!ENTITY pref_tap_to_load_images_disabled2 "Jokopyre">
 
+<!ENTITY pref_show_web_fonts "Ñanduti reñoiha jehechauka">
+<!ENTITY pref_show_web_fonts_summary2 "Emboguejy teñoiha okayguáva henyhẽ aja kuatiarogue">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_tracking_protection_title2 "Tapykuereho ñemo\u0027ã">
+<!ENTITY pref_tracking_protection_summary3 "Embojuruja nde jeporeka neañoite">
+<!ENTITY pref_donottrack_title "Ani rehapykue reka">
 
 
 
