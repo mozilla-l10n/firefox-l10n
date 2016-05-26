@@ -74,15 +74,15 @@
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
 <!ENTITY settingsOfflineCmd2.label "Oflayn sozlamalari">
 <!ENTITY settingsOfflineCmd2.accesskey "O">
-
-
-
-
-
-
-
-
-
+<!ENTITY downloadSelectedCmd.label "Tanlangan xabarlarni olish">
+<!ENTITY downloadSelectedCmd.accesskey "T">
+<!ENTITY downloadStarredCmd.label "Yulduzcha qo‘yilgan xabarlarni olish">
+<!ENTITY downloadStarredCmd.accesskey "Y">
+<!ENTITY printCmd.label "Chop qilish…">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.key "p">
+<!ENTITY printPreviewCmd.label "Chop qilishni ko‘rish">
+<!ENTITY printPreviewCmd.accesskey "n">
 <!ENTITY printSetupCmd.label "Sahifani moslash…">
 <!ENTITY printSetupCmd.accesskey "l">
 <!-- Edit Menu -->
@@ -106,61 +106,65 @@
 <!ENTITY selectThreadCmd.label "Yozishma">
 <!ENTITY selectThreadCmd.accesskey "Y">
 <!ENTITY selectThreadCmd.key "a">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY selectFlaggedCmd.label "Yulduzcha qo‘yilgan xabarlar">
+<!ENTITY selectFlaggedCmd.accesskey "Y">
+<!ENTITY menuFavoriteFolder.label "Sevimli jild">
+<!ENTITY menuFavoriteFolder.accesskey "S">
+<!ENTITY folderPropsCmd2.label "Xossalari">
+<!ENTITY folderPropsFolderCmd2.label "Jild xossalari">
+<!ENTITY folderPropsNewsgroupCmd2.label "Yangiliklar to‘plami xossalari">
+<!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY undoDeleteMsgCmd.label "Xabarni o‘chirishni bekor qilish">
+<!ENTITY redoDeleteMsgCmd.label "Xabarni o‘chirishni qaytarish">
+<!ENTITY undoMoveMsgCmd.label "Xabarni ko‘chirishni bekor qilish">
+<!ENTITY redoMoveMsgCmd.label "Xabarni ko‘chirishni qaytarish">
+<!ENTITY undoCopyMsgCmd.label "Xabarni o‘chirishni qaytarish">
+<!ENTITY redoCopyMsgCmd.label "Xabardan nusxa olishni qaytarish">
+<!ENTITY undoMarkAllCmd.label "Barchasini o‘qilgan deb belgilashni bekor qilish">
+<!ENTITY redoMarkAllCmd.label "Barchasini o‘qilgan deb belgilashni qaytarish">
 <!ENTITY undoDefaultCmd.label "Amalni bekor qilish">
 <!ENTITY undoDefaultCmd.accesskey "b">
 <!ENTITY redoDefaultCmd.label "Amalni qaytarish">
 <!ENTITY redoDefaultCmd.accesskey "q">
 <!-- View Menu -->
 
+<!ENTITY menubarCmd.label "Menyu paneli">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY showMessengerToolbarCmd.label "Xat asboblar paneli">
+<!ENTITY showMessengerToolbarCmd.accesskey "a">
+<!ENTITY customizeToolbar.label "Moslash…">
+<!ENTITY customizeToolbar.accesskey "M">
 
+<!ENTITY messagePaneLayoutStyle.label "Tartib">
+<!ENTITY messagePaneLayoutStyle.accesskey "T">
+<!ENTITY messagePaneClassic.label "Klassik ko‘rinish">
+<!ENTITY messagePaneClassic.accesskey "K">
+<!ENTITY messagePaneWide.label "Keng ko‘rinish">
+<!ENTITY messagePaneWide.accesskey "K">
+<!ENTITY messagePaneVertical.label "Vertikal ko‘rinish">
+<!ENTITY messagePaneVertical.accesskey "V">
+<!ENTITY showFolderPaneCmd.label "Jild yon oynasi">
+<!ENTITY showFolderPaneCmd.accesskey "J">
+<!ENTITY showFolderPaneColsCmd.label "Jild yon oynasi ustunlari">
+<!ENTITY showFolderPaneColsCmd.accesskey "y">
+<!ENTITY showMessageCmd.label "Xabar yon oynasi">
+<!ENTITY showMessageCmd.accesskey "X">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY folderView.label "Jildlar">
+<!ENTITY folderView.accesskey "J">
+<!ENTITY unifiedFolders.label "Birlashtirilgan">
+<!ENTITY unifiedFolders.accesskey "B">
+<!ENTITY allFolders.label "Barchasi">
+<!ENTITY allFolders.accesskey "B">
+<!ENTITY unreadFolders.label "O‘qilmagan">
+<!ENTITY unreadFolders.accesskey "O">
+<!ENTITY favoriteFolders.label "Sevimli">
+<!ENTITY favoriteFolders.accesskey "S">
+<!ENTITY recentFolders.label "So‘nggi">
+<!ENTITY recentFolders.accesskey "S">
+<!ENTITY compactVersion.label "Ixcham ko‘rinish">
+<!ENTITY compactVersion.accesskey "I">
+<!ENTITY folderPaneBar.label "Jild yon oynasi asboblar paneli">
 
 <!-- Sort Menu -->
 
