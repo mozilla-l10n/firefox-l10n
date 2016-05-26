@@ -46,7 +46,7 @@
 <!ENTITY siteUrl.label "URL публикации (например, «ftp://ftp.myisp.com/myusername»):">
 <!ENTITY siteUrl.accesskey "б">
 <!ENTITY siteUrl.tooltip "FTP- или HTTP-адрес, данный вам поставщиком услуг Интернета или услуг по размещению информации в сети">
-<!ENTITY browseUrl.label "HTTP-адрес вашей домашней страницы (например, «http://www.myisp.com/myusername»):">
+<!ENTITY browseUrl.label "HTTP-адрес вашей домашней страницы (например, «http://www.test.ru/myusername»):">
 <!ENTITY browseUrl.accesskey "а">
 <!ENTITY browseUrl.tooltip "HTTP-адрес вашего домашнего каталога (без имени файла)">
 <!ENTITY username.label "Имя пользователя:">
