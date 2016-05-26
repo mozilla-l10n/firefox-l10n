@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Էջի բացման խնդիր">
+<!ENTITY loadError.label "Էջը բեռնելու խնդիր">
 <!ENTITY retry.label "Կրկին փորձել">
 <!ENTITY returnToPreviousPage.label "Հետ գնալ">
 <!ENTITY advanced.label "Լրացուցիչ">
