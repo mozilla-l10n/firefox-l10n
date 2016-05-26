@@ -30,6 +30,9 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Απάντηση στον αποστολέα και σε όλους τους παραλήπτες">
 <!ENTITY hdrReplyListButton1.label "Απάντηση στη λίστα">
 <!ENTITY hdrReplyListButton1.tooltip "Απάντηση στη λίστα αλληλογραφίας">
+<!ENTITY hdrFollowupButton1.label "Σε συνέχεια">
+<!ENTITY hdrFollowupButton1.tooltip "Σύνταξη μηνύματος ως συνέχεια κάποιου στην ομάδα συζητήσεων">
+<!ENTITY hdrMenuForwardButton.label "Προώθηση ως">
 <!ENTITY hdrForwardButton1.label "Προώθηση">
 <!ENTITY hdrForwardButton1.tooltip "Προώθηση αυτού του μηνύματος">
 <!ENTITY hdrJunkButton1.label "Ανεπιθύμητα">
@@ -46,6 +49,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Πάντα προβολή του Απάντηση στον αποστολέα">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "β">
 
+<!ENTITY otherActionsButton2.label "Περισσότερα">
 <!ENTITY otherActionsButton.tooltip "Άλλες ενέργειες">
 <!ENTITY otherActionsOpenConversation1.label "Άνοιγμα σε λειτουργία συζήτησης">
 <!ENTITY otherActionsOpenConversation1.accesskey "ζ">
@@ -65,6 +69,8 @@
 <!ENTITY otherActionsPrint1.accesskey "π">
 
 <!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Εμφάνιση από την αρχή του πίνακα με τα συνημμένα">
+<!ENTITY startExpandedCmd.accesskey    "ε">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Άνοιγμα">
@@ -84,6 +90,7 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Διαγραφή όλων…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "φ">
 
+<!ENTITY openAttachment.tooltip "Άνοιγμα του επισυναπτόμενου αρχείου">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Αποθήκευση">

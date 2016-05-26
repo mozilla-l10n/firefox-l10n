@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Χρήση του ακόλουθου προσωπικού πιστοποιητικού για ψηφιακή υπογραφή μηνυμάτων:">
 
 <!ENTITY certificates.label "Πιστοποιητικά">
-<!ENTITY manageCerts.label "Προβολή πιστοποιητικών">
-<!ENTITY manageCerts.accesskey "β">
+<!ENTITY manageCerts2.label "Διαχείριση των πιστοποιητικών">
+<!ENTITY manageCerts2.accesskey "δ">
 <!ENTITY manageDevices.label "Συσκευές ασφαλείας">
 <!ENTITY manageDevices.accesskey "υ">
