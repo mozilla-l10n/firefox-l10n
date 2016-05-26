@@ -20,8 +20,8 @@
 <!ENTITY dnsNotFound.longDesc2 "
 <ul>
   <li>Zkontrolujte adresu na překlepy jako
-    <strong>ww</strong>.server.cz místo
-    <strong>www</strong>.server.cz</li>
+    <strong>ww</strong>.example.com místo
+    <strong>www</strong>.example.com</li>
   <li>Pokud nemůžete načíst ani ostatní stránky, zkontrolujte datové či Wi-Fi připojení svého zařízení.</li>
 </ul>
 ">
@@ -44,7 +44,7 @@
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Adresa webové stránky má zpravidla tvar
-    <strong>http://www.server.cz/</strong></li>
+    <strong>http://www.example.com/</strong></li>
   <li>Zkontrolujte, zda používáte správná lomítka (tj.
     <strong>/</strong>).</li>
 </ul>
