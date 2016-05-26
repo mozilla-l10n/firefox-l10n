@@ -33,7 +33,7 @@
 
 <!ENTITY  bookmarks_title "العلامات">
 <!ENTITY  history_title "التأريخ">
-
+<!ENTITY  reading_list_title "قائمة القراءة">
 <!ENTITY  recent_tabs_title "الألسنة الحديثة">
 
 <!ENTITY  switch_to_tab "انتقل للسان">
@@ -68,8 +68,9 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "لقطات الشاشة">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "قائمة القراءة">
 
-
+<!ENTITY reader_saved_offline "حُفظ للاستخدام دون اتصال">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -171,6 +172,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "فائدة: أضف أي موقع على قائمة مزودي البحث عن طريق الضغط المطول على خانة البحث ثم لمس أيقونة &formatI;.">
 <!ENTITY pref_category_advanced "متقدّم">
 <!ENTITY pref_category_advanced_summary3 "استعادة الألسنة، و حافظ البيانات، و أدوات المطوّرين">
 <!ENTITY pref_category_notifications "التنبيهات">
@@ -235,6 +237,7 @@
 <!ENTITY pref_show_web_fonts "أظهر خطوط الوب">
 
 
+<!ENTITY pref_tracking_protection_title2 "الحماية من التعقّب">
 <!ENTITY pref_tracking_protection_summary3 "مفعّل في التصفح الخاص">
 <!ENTITY pref_donottrack_title "لا تتعقبني">
 <!ENTITY pref_donottrack_summary "سيُخبر &brandShortName; المواقع أنك لا تريدها أن تتعقبك">
@@ -243,7 +246,8 @@
 <!ENTITY pref_tracking_protection_enabled_pb "مفعّل في التصفح الخاص">
 <!ENTITY pref_tracking_protection_disabled "مُعطّل">
 
-
+<!ENTITY pref_whats_new_notification "ما الجديد في &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "تعرف على الميزات الجديدة بعد التحديث">
 
 <!ENTITY tracking_protection_prompt_title "الآن مع حماية من التعقّب">
 <!ENTITY tracking_protection_prompt_text "يمنع عناصر التعقب لئلا تقلق بشأنها.">
@@ -263,7 +267,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "اذهب إلى الإعدادات">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -275,11 +279,12 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!ENTITY content_notification_action_settings "إعدادات التنبيهات">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -287,7 +292,7 @@
 <!ENTITY pref_char_encoding "ترميز المحارف">
 <!ENTITY pref_char_encoding_on "أظهر القائمة">
 <!ENTITY pref_char_encoding_off "لا تُظهر القائمة">
-
+<!ENTITY pref_clear_private_data2 "امسح البيانات الخاصة">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "امسح الان">
@@ -296,7 +301,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "اختر البيانات التي ستُمسح">
 <!ENTITY pref_plugins "الملحقات">
 <!ENTITY pref_plugins_enabled "مفعّلة">
-
+<!ENTITY pref_plugins_tap_to_play2 "المس للتشغيل">
 <!ENTITY pref_plugins_disabled "مُعطّلة">
 <!ENTITY pref_text_size "حجم النص">
 <!ENTITY pref_restore_tabs "استعد الألسنة">
@@ -346,6 +351,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "التنزيلات">
 <!ENTITY pref_private_data_syncedTabs "الألسنة المُزامنة">
 
+<!ENTITY pref_default_browser "اجعله المتصفح المبدئي">
 <!ENTITY pref_about_firefox "عن &brandShortName;">
 <!ENTITY pref_vendor_faqs "الأسئلة الأكثر شيوعًا">
 <!ENTITY pref_vendor_feedback "أخبرنا بتعليقاتك">
@@ -391,6 +397,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "التحديثات التلقائية">
 <!ENTITY pref_update_autodownload_wifi "عبر واي فاي فقط">
 <!ENTITY pref_update_autodownload_never "أبدًا">
 <!ENTITY pref_update_autodownload_always "دائمًا">
@@ -401,7 +408,7 @@ size. -->
 <!ENTITY quit "أغلق">
 
 <!ENTITY addons "الإضافات">
-
+<!ENTITY logins "جلسات الولوج">
 <!ENTITY downloads "التنزيلات">
 <!ENTITY char_encoding "ترميز المحارف">
 
@@ -472,13 +479,14 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "كبّر المناطق الصغيرة">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "كبّر الروابط و حقول الاستمارات عند اللمس بقربها">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "التصفح في كل الشاشة">
 <!ENTITY pref_scroll_title_bar_summary2 "أخفِ شريط أدوات &brandShortName; عند تمرير الصفحة لأسفل">
 
+<!ENTITY pref_tab_queue_title3 "صف ألسنة">
 <!ENTITY pref_tab_queue_summary4 "احفظ الروابط حتّى أفتح &brandShortName; ثانية">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -565,6 +573,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "أدخل كلمة للبحث">
 
+<!ENTITY filepicker_title "اختر ملفًا">
 <!ENTITY filepicker_audio_title "اختر أو سجل صوتًا">
 <!ENTITY filepicker_image_title "اختر أو التقط صورة">
 <!ENTITY filepicker_video_title "اختر أو سجل فديو">
@@ -593,6 +602,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "بعض أجزاء هذه الصفحة غير آمنة (مثل الصور).">
 <!ENTITY mixed_content_protection_disabled1 "لقد أوقفت الحماية من المحتوى غير الآمن.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "الحماية من التعقّب">
 <!ENTITY doorhanger_tracking_state_enabled "مفعّلة">
 <!ENTITY doorhanger_tracking_state_disabled "مُعطّلة">
 <!ENTITY doorhanger_tracking_message_enabled1 "مُنعت محاولات لتعقّب سلوكك على الإنترنت.">
@@ -757,6 +768,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; مُحدَّث">
 <!ENTITY whatsnew_notification_summary "اعرف ما الجديد في هذا الإصدار">
 
+<!ENTITY promotion_add_to_homescreen "أضِف إلى شاشة البداية">
 
 
-
+<!ENTITY helper_first_offline_bookmark_button "اذهب إلى العلامات">
