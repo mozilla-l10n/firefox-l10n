@@ -61,9 +61,9 @@
 <!ENTITY pairDevice.title.label             "Asociar un dispositivo">
 <!ENTITY addDevice.showMeHow.label          "Mostrarme cómo.">
 <!ENTITY addDevice.dontHaveDevice.label     "No tengo el dispositivo conmigo">
-<!ENTITY pairDevice.setup.description.label  "Para activar, selecciona "Asociar un dispositivo" en el otro dispositivo.">
+<!ENTITY pairDevice.setup.description.label  "Para activar, selecciona &#x0022;Asociar un dispositivo&#x0022; en el otro dispositivo.">
 <!ENTITY addDevice.setup.enterCode.label    "Ahí ingresa este código:">
-<!ENTITY pairDevice.dialog.description.label "Para activar tu nuevo dispositivo, selecciona "Configurar Sync" en el dispositivo.">
+<!ENTITY pairDevice.dialog.description.label "Para activar tu nuevo dispositivo, selecciona &#x0022;Configurar Sync&#x0022; en el dispositivo.">
 <!ENTITY addDevice.dialog.enterCode.label   "Ingresa el código que provee el dispositivo:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Por favor, vuelve a intentarlo.">
 <!ENTITY addDevice.dialog.successful.label  "El dispositivo fue agregado exitosamente. La sincronización inicial puede tomar varios minutos y terminará en segundo plano.">
@@ -72,7 +72,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Conectarse">
-<!ENTITY existingRecoveryKey.description "Puedes obtener una copia de la clave de recuperación yendo a las opciones de &syncBrand.shortName.label; en tu otro dispositivo y seleccionando "Mi clave de recuperación" en "Administrar cuenta".">
+<!ENTITY existingRecoveryKey.description "Puedes obtener una copia de la clave de recuperación yendo a las opciones de &syncBrand.shortName.label; en tu otro dispositivo y seleccionando &#x0022;Mi clave de recuperación&#x0022; en &#x0022;Administrar cuenta&#x0022;.">
 <!ENTITY verifying.label              "Verificando…">
 <!ENTITY resetPassword.label          "Restablecer contraseña">
 <!ENTITY resetSyncKey.label           "He perdido mi otro dispositivo.">
