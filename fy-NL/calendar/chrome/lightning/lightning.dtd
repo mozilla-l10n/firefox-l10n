@@ -41,7 +41,7 @@
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                              "Akseptearje">
-<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                       "Barrensútnoeging akseptearje ">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                       "Barrensútnûging akseptearje ">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                   "Alles akseptearje">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext            "Barrensútnûging akseptearje foar alle gelegenheden fan it barren">
 <!ENTITY lightning.imipbar.btnAdd.label                                 "Tafoegje">
