@@ -14,8 +14,8 @@
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
    <li>Проверьте, не допущена ли ошибка при наборе адреса, например,
-        <strong>ww</strong>.example.com вместо
-        <strong>www</strong>.example.com</li>
+        <strong>ww</strong>.test.ru вместо
+        <strong>www</strong>.test.ru</li>
         <div id='searchbox'>
           <input id='searchtext' type='search'></input>
           <button id='searchbutton'>Поиск</button>
@@ -38,7 +38,7 @@
 <!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Адреса веб-сайтов обычно записываются в формате
-     <strong>http://www.example.com/</strong></li>
+     <strong>http://www.test.ru/</strong></li>
      <div id='searchbox'>
        <input id='searchtext' type='search'></input>
        <button id='searchbutton'>Поиск</button>

@@ -9,7 +9,7 @@
 <!ENTITY name.text "Ваше имя, как оно отображается у других">
 <!ENTITY email.label "Адрес эл. почты:">
 <!ENTITY email.accesskey "д">
-<!ENTITY email.placeholder "email@example.ru">
+<!ENTITY email.placeholder "email@test.ru">
 <!ENTITY password.label "Пароль:">
 <!ENTITY password.accesskey "р">
 <!ENTITY password.placeholder "Пароль">
