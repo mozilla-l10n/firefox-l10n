@@ -19,23 +19,27 @@
 <!ENTITY dnsNotFound.title "الخادوم غير موجود">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>تحقق من عدم وجود أي أخطاء في العنوان مثل <strong>ww</strong>.example.com بدلًا من <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ابحث</button> </div> <li>إن لم تكن قادرًا على تحميل أي صفحة، تحقق من اتصال جهازك بشبكة البيانات أو الشبكة اللاسلكية. <button id='wifi'>فعّل واي فاي</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "الملف غير موجود">
 <!ENTITY fileNotFound.longDesc "<ul> <li>تحقق من طريقة كتابة الاسم والأحرف الكبيرة فيه وعدم وجود أي أخطاء.</li> <li>تأكّد أن الملف لم يُنقل أو يُغيّر اسمه أو يُحذف.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "مُنِع الوصول للملف">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>قد يكون حُذِف أو نُقِل أو أن صلاحيّات الملف تمنع الوصول إليه.</li> </ul>">
 
 <!ENTITY generic.title "أخ!">
+<!ENTITY generic.longDesc "<p>لا يستطيع &brandShortName; تحميل هذه الصفحة لسبب ما.</p>">
 
-
+<!ENTITY malformedURI.title "العنوان غير صالح">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>تكتب عادة عناوين وِب بالشكل <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ابحث</button> </div> <li>تأكد أنك لا تستخدم سلاش أمامية (<strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "قوطع الاتصال">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "انتهت صلاحية المستند">
-
+<!ENTITY notCached.longDesc "<p>المستند المطلوب لم يعد متوفرًا في ذاكرة &brandShortName; الخبيئة.</p><ul><li>كإجراء وقائي، &brandShortName; لا يعيد طلب المستندات الحساسة بشكل آلي.</li><li>اضغط على 'حاول مجددًا' لإعادة طلب المستند من الموقع.</li></ul>">
 
 <!ENTITY netOffline.title "نمط اللا اتصال">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -54,6 +58,7 @@
 <!ENTITY netTimeout.title "انتهت مهلة الاتصال">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "العنوان غير مفهوم">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>قد تحتاج أن تثبّت برنامجًا آخر لفتح هذا الموقع.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "الخادوم الوسيط يرفض الاتصالات">
@@ -64,6 +69,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>تحقق من أن إعدادات الوسيط صحيحة.</li> <li>تأكد بأن جهازك متصل بشكل سليم بشبكة بيانات أو شبكة لاسلكية. <button id='wifi'>فعّل الواي فاي</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "لا تعيد الصفحة التوجيه بشكل سليم">
 <!ENTITY redirectLoop.longDesc "<ul> <li>سبب هذه المشكلة هو تعطيل الكعكات أو عدم قبولها. </li> </ul>">
 
 <!ENTITY unknownSocketType.title "إجابة غير متوقعة من الخادوم">
@@ -73,9 +79,11 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>لا يمكن عرض الصفحة التي تحاول زيارتها لعدم إمكانية الاستيثاق من البيانات المستقبلة.</li> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
 
 <!ENTITY nssBadCert.title "فشل الاتصال الآمن">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>قد يكون هذا بسبب مشكلة في إعدادات الخادوم،  أو أنّ أحدًا يحاول انتحال هوية الخادوم.</li> <li>إن كنت قد اتصلتَ بهذا الموقع بنجاح في الماضي،  قد يكون هذا الخطأ مؤقتًا، لذا أعِد المحاولة في وقت لاحق.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY sharedLongDesc3 "<ul> <li>قد يكون الموقع غير متاح مؤقتًا أو مشغولًا جدًا. حاول مجددًا بعد قليل.</li> <li>إن لم تكن تستطيع تحميل أي صفحة، تحقق من اتصال جوّالك بشبكة البيانات أو الشبكة اللاسلكية. <button id='wifi'>فعّل الواي فاي</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "معطّل من قِبَل سياسة أمن المحتوى">
 <!ENTITY cspBlocked.longDesc "<p>يمنع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأنّ لهذه الصفحة سياسة أمن المحتوى تمنع ذلك.</p>">
@@ -102,9 +110,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "معلومات متقدمة: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "اتّصالك غير آمن">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "معلومات متقدمة: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "اتّصالك غير آمن">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p>يستخدم <span class='hostname'></span> تقنية أمنية عتيقة و عرضة للهجوم. يمكن لمهاجم بسهولة الاطلاع على معلومات تظنها بمأمن. على مدير الموقع إصلاح الخادوم قبل أن يمكنك زيارة الموقع.</p><p>رمز العطل: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
