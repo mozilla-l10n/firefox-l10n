@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Eha'arõhína ambue mba'e'okápe…">
 
 <!ENTITY sync.pair.title            "Mba'e'oka momba'apojoja">
-
+<!ENTITY sync.pair.description      "Emyandy hag̃ua ne mba&apos;e&apos;oka pyahu, eiporavo &quot;Sync ñemboheko&quot; pe ambue ne mba&apos;e&apos;okápe.">
 <!ENTITY sync.setup.close           "Mboty">
-
+<!ENTITY sync.setup.waitingdownload "Ne mba'ekuaarãnguéra oñemboguejy ko'ág̃a mokõihápe. Ikatu emboty ko ovetã ag̃aitéma.">

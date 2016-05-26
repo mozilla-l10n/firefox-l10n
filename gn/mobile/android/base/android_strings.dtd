@@ -261,17 +261,21 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Ikatu emoambue tenondeve ñembohekópe">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-
-
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Emyandy ta\u0027ãnga ñemoneĩ ambue tembipuru\u0027i ári">
+<!ENTITY tab_queue_prompt_positive_action_button "Myandy">
+<!ENTITY tab_queue_prompt_negative_action_button "Ko\u0027ág̃a nahániri">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Eho ñembohekópe">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; tendayke ñeha\u0027ãróva">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 tendayke ñeha\u0027ãróva">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
@@ -280,16 +284,19 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!ENTITY content_notification_title_plural "&formatD; ñanduti renda hekopyahupyréva">
+<!ENTITY content_notification_action_settings "Ñemomarandu ñemoĩporã rehegua">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "Hekopyahúva &formatS;-pe">
 
 <!ENTITY pref_char_encoding_on "Poravorã jehechauka">
-
+<!ENTITY pref_char_encoding_off "Ani ehechauka menu">
 <!ENTITY pref_clear_private_data2 "Mba\u0027ekuaarã ñemiguáva ñemopotĩ">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Hesakã ko\u0027ág̃a">
 
 
 
