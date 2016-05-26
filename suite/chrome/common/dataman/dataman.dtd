@@ -74,6 +74,13 @@
 <!ENTITY perm.button.add.label "Agregar">
 <!ENTITY perm.button.add.accesskey "A">
 
+<!-- password permissions -->
+<!ENTITY permpwd.AskAlways "Preguntar siempre">
+<!ENTITY permpwd.NeverSave "Nunca guardar">
+
+<!ENTITY permpwd.button.add.label "Agregar">
+<!ENTITY permpwd.button.add.accesskey "A">
+
 <!-- preferences -->
 <!ENTITY prefs.description "Las preferencias de contenido son una forma de guardar la configuración de &brandShortName;, como niveles de zoom, específicos para un sitio web.">
 
