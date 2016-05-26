@@ -14,8 +14,8 @@
 <!ENTITY dnsNotFound.longDesc "
 <ul>
    <li>Проверьте, не допущена ли ошибка при наборе адреса, например,
-     <strong>ww</strong>.example.com вместо
-     <strong>www</strong>.example.com</li>
+     <strong>ww</strong>.test.ru вместо
+     <strong>www</strong>.test.ru</li>
    <li>Если ни одна страница не загружается – проверьте настройки соединения с Интернетом.</li>
    <li>Если компьютер или сеть защищены межсетевым экраном или прокси-сервером – убедитесь, что &brandShortName; разрешён выход в Интернет.</li>
 </ul>">
@@ -32,7 +32,7 @@
 <!ENTITY malformedURI.title "Формат адреса неверен">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>Адреса веб-сайтов обычно записываются в формате <strong>http://www.example.com/</strong></li>
+  <li>Адреса веб-сайтов обычно записываются в формате <strong>http://www.test.ru/</strong></li>
   <li>Убедитесь, что вы используете в качестве разделителя прямую косую черту (т.е. <strong>/</strong>).</li>
 </ul>
 ">
