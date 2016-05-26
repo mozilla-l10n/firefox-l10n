@@ -61,7 +61,7 @@
 <!ENTITY incomingUsername.label "Uživatelské jméno:">
 <!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Vložte název serveru diskusních skupin (NNTP) (např. „news.mozilla.org“).">
+<!ENTITY newsServerNameDesc.label "Vložte název serveru diskusních skupin (NNTP) (např. „news.example.net“).">
 <!ENTITY newsServerLabel.label "Server diskusních skupin:">
 <!ENTITY newsServerLabel.accesskey "S">
 

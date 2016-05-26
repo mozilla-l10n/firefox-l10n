@@ -22,8 +22,8 @@
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Zkontrolujte, zda je adresa napsána správně a neobsahuje chyby jako
-    <strong>ww</strong>.server.cz místo
-    <strong>www</strong>.server.cz</li>
+    <strong>ww</strong>.example.com místo
+    <strong>www</strong>.example.com</li>
   <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého
     počítače.</li>
   <li>Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte, zda má
@@ -53,7 +53,7 @@
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Adresa webové stránky má zpravidla tvar
-    <strong>http://www.server.cz/</strong></li>
+    <strong>http://www.example.com/</strong></li>
   <li>Zkontrolujte, zda používáte správná lomítka (tj.
     <strong>/</strong>).</li>
 </ul>
