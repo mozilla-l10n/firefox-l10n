@@ -5,27 +5,27 @@
 <!-- extracted from content/pref-proxies.xul -->
 
 <!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
-<!ENTITY pref.proxies.title "Proxy servery">
-<!ENTITY pref.proxies.desc "Proxy server je síťová služba, která umožňuje filtrovat a urychlovat připojení k Internetu.">
-<!ENTITY proxyTitle.label "Konfigurace proxy serverů pro přístup k síti">
-<!ENTITY directTypeRadio.label "Přímé připojení k síti">
-<!ENTITY directTypeRadio.accesskey "P">
-<!ENTITY systemTypeRadio.label "Použít nastavení proxy serverů v systému">
-<!ENTITY systemTypeRadio.accesskey "n">
-<!ENTITY manualTypeRadio.label "Ruční konfigurace proxy serveru">
-<!ENTITY manualTypeRadio.accesskey "R">
-<!ENTITY wpadTypeRadio.label "Automatické zjištění konfigurace proxy serveru">
-<!ENTITY wpadTypeRadio.accesskey "A">
-<!ENTITY autoTypeRadio.label "Automatická konfigurace proxy serveru (URL):">
-<!ENTITY autoTypeRadio.accesskey "u">
-<!ENTITY reload.label "Obnovit">
-<!ENTITY reload.accesskey "b">
-<!ENTITY http.label "HTTP proxy:">
-<!ENTITY http.accesskey "X">
-<!ENTITY port.label "Port:">
-<!ENTITY HTTPPort.accesskey "o">
-<!ENTITY advanced.label "Rozšířené…">
-<!ENTITY advanced.accesskey "z">
-<!ENTITY noproxy.label "Nepoužívat proxy server pro:">
-<!ENTITY noproxy.accesskey "e">
-<!ENTITY noproxyExplain.label "Příklad: .firma.cz, .net.nz, 192.168.1.0/24">
+<!ENTITY  pref.proxies.title            "Proxy servery">
+<!ENTITY  pref.proxies.desc             "Proxy server je síťová služba, která umožňuje filtrovat a urychlovat připojení k Internetu.">
+<!ENTITY  proxyTitle.label              "Konfigurace proxy serverů pro přístup k síti">
+<!ENTITY  directTypeRadio.label         "Přímé připojení k síti">
+<!ENTITY  directTypeRadio.accesskey     "P">
+<!ENTITY  systemTypeRadio.label         "Použít nastavení proxy serverů v systému">
+<!ENTITY  systemTypeRadio.accesskey     "n">
+<!ENTITY  manualTypeRadio.label         "Ruční konfigurace proxy serveru">
+<!ENTITY  manualTypeRadio.accesskey     "R">
+<!ENTITY  wpadTypeRadio.label           "Automatické zjištění konfigurace proxy serveru">
+<!ENTITY  wpadTypeRadio.accesskey       "A">
+<!ENTITY  autoTypeRadio.label           "Automatická konfigurace proxy serveru (URL):">
+<!ENTITY  autoTypeRadio.accesskey       "u">
+<!ENTITY  reload.label                  "Obnovit">
+<!ENTITY  reload.accesskey              "b">
+<!ENTITY  http.label                    "HTTP proxy:">
+<!ENTITY  http.accesskey                "X">
+<!ENTITY  port.label                    "Port:">
+<!ENTITY  HTTPPort.accesskey            "o">
+<!ENTITY  advanced.label                "Rozšířené…">
+<!ENTITY  advanced.accesskey            "z">
+<!ENTITY  noproxy.label                 "Nepoužívat proxy server pro:">
+<!ENTITY  noproxy.accesskey             "e">
+<!ENTITY  noproxyExplain.label          "Příklad: .mozilla.org, .net.nz, 192.168.1.0/24">
