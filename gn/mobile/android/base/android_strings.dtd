@@ -240,21 +240,25 @@
 <!ENTITY pref_tracking_protection_title2 "Tapykuereho ñemo\u0027ã">
 <!ENTITY pref_tracking_protection_summary3 "Embojuruja nde jeporeka neañoite">
 <!ENTITY pref_donottrack_title "Ani rehapykue reka">
+<!ENTITY pref_donottrack_summary "&brandShortName; he\u0027íta tendakuérape nereikotevẽiha ñema\u0027ẽ ">
 
+<!ENTITY pref_tracking_protection_enabled "Myandypyre">
+<!ENTITY pref_tracking_protection_enabled_pb "Embojuruja nde jeporeka neañoite">
+<!ENTITY pref_tracking_protection_disabled "Ojepuruve\u0027ỹva">
 
+<!ENTITY pref_whats_new_notification "Mba\u0027e oĩ ipyahúva &brandShortName;-pe">
+<!ENTITY pref_whats_new_notification_summary "Eikuaa tembiaporã pyahu ñembohekopyahu rire">
 
+<!ENTITY tracking_protection_prompt_title "Ko\u0027ág̃a, jehapykueho ñemo\u0027ãha ndive">
+<!ENTITY tracking_protection_prompt_text "Ejoko mba\u0027epuru jehapykueho ani hag̃ua rejepy\u0027apy.">
+<!ENTITY tracking_protection_prompt_tip_text "Eho ñemboheko ñemiguápe eñemomaranduve hag̃ua">
+<!ENTITY tracking_protection_prompt_action_button "Aguerekóma!">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY tab_queue_toast_message3 "Tendayke oñeñongatu &brandShortName;-pe">
+<!ENTITY tab_queue_toast_action "Ijuruja ko\u0027ag̃a">
+<!ENTITY tab_queue_prompt_title "Ijurujáma heta juajuha?">
+<!ENTITY tab_queue_prompt_text4 "Eñongatúma eikejey peve &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text2 "Ikatu emoambue tenondeve ñembohekópe">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 
