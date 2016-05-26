@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Διευθυνσιοδότηση">
 <!ENTITY itemSpellCheck.label                "Ορθογραφικός έλεγχος">
 
+<!ENTITY dialogCompose.title                 "Σύνταξη">
 
 <!ENTITY forwardMsg.label                     "Προώθηση μηνυμάτων:">
 <!ENTITY forwardMsg.accesskey                 "θ">
@@ -14,6 +15,7 @@
 <!ENTITY addExtension.label                   "προσθήκη επέκτασης στο όνομα αρχείου">
 <!ENTITY addExtension.accesskey               "χ">
 
+<!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Γραμματοσειρά:">
 <!ENTITY font.accesskey                       "ρ">
 <!ENTITY size.label                           "Μέγεθος:">
@@ -24,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "ρ">
 <!ENTITY restoreHTMLDefaults.label            "Επαναφορά προεπιλογών">
 <!ENTITY restoreHTMLDefaults.accesskey        "φ">
+<!ENTITY enterKeyCreatesNewParagraph.label    "Όταν χρησιμοποιείται η μορφή παραγράφου, το πλήκτρο Enter να δημιουργεί μια νέα παράγραφο">
+<!ENTITY enterKeyCreatesNewParagraph.accesskey "μ">
 
 <!ENTITY spellCheck.label                     "Ορθογραφικός έλεγχος πριν την αποστολή">
 <!ENTITY spellCheck.accesskey                 "θ">
