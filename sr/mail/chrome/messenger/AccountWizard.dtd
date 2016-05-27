@@ -61,7 +61,7 @@
 <!ENTITY incomingUsername.label "Корисничко име:">
 <!ENTITY incomingUsername.accesskey "К">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Унесите име вашег новинског сервера (NNTP) (на пример, &quot;news.example.net&quot).">
+<!ENTITY newsServerNameDesc.label "Унесите име вашег новинског сервера (NNTP) (на пример, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Сервер новинских група:">
 <!ENTITY newsServerLabel.accesskey "С">
 
