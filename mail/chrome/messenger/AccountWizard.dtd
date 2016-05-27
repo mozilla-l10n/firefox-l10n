@@ -53,7 +53,7 @@
 <!ENTITY defaultPortLabel.label "Προεπιλογή:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Εισάγετε το όνομα του διακομιστή εισερχομένων (για παράδειγμα, &quot;mail.example.gr&quot;).">
+<!ENTITY incomingServer.description "Εισάγετε το όνομα του διακομιστή εισερχομένων (για παράδειγμα, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServer.label "Διακομιστής εισερχομένων:">
 <!ENTITY incomingServer.accesskey "σ">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
@@ -61,7 +61,7 @@
 <!ENTITY incomingUsername.label "Όνομα χρήστη:">
 <!ENTITY incomingUsername.accesskey "χ">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Εισάγετε το όνομα του εξυπηρετητή συζητήσεων (NNTP) (για παράδειγμα, &quot;news.mac.gr&quot;). ">
+<!ENTITY newsServerNameDesc.label "Εισάγετε το όνομα του εξυπηρετητή συζητήσεων (NNTP) (για παράδειγμα, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Εξυπηρετητής ομάδων συζήτησης:">
 <!ENTITY newsServerLabel.accesskey "σ">
 
