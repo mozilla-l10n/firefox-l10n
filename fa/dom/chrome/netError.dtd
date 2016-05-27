@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "پرونده پیدا نشد">
 <!ENTITY fileNotFound.longDesc "<ul><li>آیا امکان دارد پروندهٔ مورد نظر تغییر نام یا محل داده باشد یا حذف شده باشد؟</li><li>آیا اشکال املائی، بزرگی یا کوچکی حروف یا دیگر اشکالات نوشتاری در نشانی وجود دارد؟</li><li>آیا مجوزهای دسترسی کافی برای دست‌یابی به این نشانی را دارید؟</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "دسترسی به این پرونده رد می‌شود">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>ممکن است حذف،‌منتقل شده باشد یا مجوز‌های آن از دسترسی جلوگیری‌ می‌کند.</li></ul>">
 
 <!ENTITY generic.title "درخواست قابل به پایان رساندن نیست">
 <!ENTITY generic.longDesc "<p>اطلاعات بیشتر در مورد این مشکل یا خطا در حال حاضر در دسترس نیست.</p>">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "XUL راه دور">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>لطفاً با صاحب این وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "اتصال شما امن نیست">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> استفاده از تکنولوژی های امنیتی که تاریخ‌ آن‌ها گذشته است در برابر حملات آسیب پذیراست. و حمله کننده می ‌تواند به راحتی اطلاعاتی که شما تصویر می‌کنید امن است را فاش کند. مدیریت پایگاه وب نیاز دارد تا نخست کارگزار را قبل از بازدید پایگاه وب درست کند.</p><p> کد خطا: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
