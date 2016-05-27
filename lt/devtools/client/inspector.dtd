@@ -159,3 +159,5 @@
      the inspector toolbar for the button that lets users add elements to the
      DOM (as children of the currently selected element). -->
 
+<!ENTITY inspectorAddNode.label       "Sukurti naują elementą">
+<!ENTITY inspectorAddNode.accesskey   "k">
