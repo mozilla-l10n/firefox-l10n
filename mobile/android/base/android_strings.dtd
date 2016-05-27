@@ -25,14 +25,14 @@
 <!ENTITY  onboard_start_restricted1 "Tetap aman dan dalam kendali dengan versi yang disederhanakan dari &brandShortName; ini.">
 
 
-
-
+<!ENTITY  reading_list_migration_goto_bookmarks "Ke Markah">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Panel Markah Anda tersembunyi">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Bookmark">
 <!ENTITY  history_title "Riwayat">
-
+<!ENTITY  reading_list_title "Daftar Bacaan">
 <!ENTITY  recent_tabs_title "Tab Terbaru">
 
 <!ENTITY  switch_to_tab "Pindah ke tab">
@@ -62,16 +62,18 @@
 <!ENTITY bookmark_removed "Markah dihapus">
 <!ENTITY bookmark_updated "Markah diperbarui">
 <!ENTITY bookmark_options "Pengaturan">
-
+<!ENTITY screenshot_added_to_bookmarks "Tangkapan layar ditambahkan ke markah">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-
+<!ENTITY screenshot_folder_label_in_bookmarks "Tangkapan layar">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Daftar Bacaan">
 
 <!ENTITY reader_saved_offline "Simpan luring">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Ganti">
 
 <!ENTITY history_today_section "Hari Ini">
 <!ENTITY history_yesterday_section "Kemarin">
@@ -185,7 +187,7 @@
 <!ENTITY pref_category_home_summary "Ubahsuai beranda Anda">
 <!ENTITY pref_category_home_panels "Panel">
 <!ENTITY pref_category_home_add_ons "Pengaya">
-
+<!ENTITY pref_home_updates2 "Pemutakhiran konten">
 <!ENTITY pref_home_updates_enabled "Aktif">
 <!ENTITY pref_home_updates_wifi "Hanya lewat Wi-Fi">
 <!ENTITY pref_category_home_homepage "Beranda">
@@ -221,6 +223,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktif, kecuali pihak ketiga">
 <!ENTITY pref_cookies_disabled "Matikan">
 
+<!ENTITY pref_category_data_saver "Penghemat data">
 <!ENTITY pref_category_media "Media">
 
 
@@ -241,7 +244,7 @@
 <!ENTITY pref_tracking_protection_disabled "Matikan">
 
 <!ENTITY pref_whats_new_notification "Yang baru di &brandShortName;">
-
+<!ENTITY pref_whats_new_notification_summary "Pelajari fitur baru setelah pemutakhiran">
 
 <!ENTITY tracking_protection_prompt_title "Kini dengan Perlindungan Pelacakan">
 <!ENTITY tracking_protection_prompt_text "Secara aktif memblokir elemen pelacakan sehingga Anda tidak perlu khawatir.">
@@ -275,6 +278,7 @@
 
 <!ENTITY tab_queue_notification_settings "Untuk \&quot;Membuka banyak tautan\&quot;, aktifkan izin \u0027Gambar di atas aplikasi lain\u0027 untuk &brandShortName;">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
@@ -287,7 +291,7 @@
 <!ENTITY pref_char_encoding "Pengodean karakter">
 <!ENTITY pref_char_encoding_on "Tampilkan menu">
 <!ENTITY pref_char_encoding_off "Jangan tampilkan menu">
-
+<!ENTITY pref_clear_private_data2 "Hapus data pribadi">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Bersihkan sekarang">
@@ -296,7 +300,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Pilih data yang akan dibersihkan">
 <!ENTITY pref_plugins "Plugin">
 <!ENTITY pref_plugins_enabled "Aktif">
-
+<!ENTITY pref_plugins_tap_to_play2 "Sentuh untuk mainkan">
 <!ENTITY pref_plugins_disabled "Matikan">
 <!ENTITY pref_text_size "Ukuran teks">
 <!ENTITY pref_restore_tabs "Pulihkan tab">
@@ -346,6 +350,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Unduhan">
 <!ENTITY pref_private_data_syncedTabs "Tab yang disinkronkan">
 
+<!ENTITY pref_default_browser "Jadikan peramban utama">
 <!ENTITY pref_about_firefox "Tentang &brandShortName;">
 <!ENTITY pref_vendor_faqs "T&amp;J">
 <!ENTITY pref_vendor_feedback "Kirim Saran">
@@ -391,6 +396,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Pemutakhiran otomatis">
 <!ENTITY pref_update_autodownload_wifi "Hanya lewat Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Tidak">
 <!ENTITY pref_update_autodownload_always "Selalu">
@@ -401,7 +407,7 @@ size. -->
 <!ENTITY quit "Keluar">
 
 <!ENTITY addons "Pengaya">
-
+<!ENTITY logins "Info masuk">
 <!ENTITY downloads "Unduhan">
 <!ENTITY char_encoding "Pengodean Karakter">
 
@@ -566,6 +572,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Masukkan yang dicari">
 
+<!ENTITY filepicker_title "Pilih Berkas">
 <!ENTITY filepicker_audio_title "Pilih atau rekam suara">
 <!ENTITY filepicker_image_title "Pilih atau ambil gambar">
 <!ENTITY filepicker_video_title "Pilih atau rekam video">
