@@ -9,7 +9,7 @@
 <!ENTITY name.text                       "Име које ће бити приказано другима">
 <!ENTITY email.label                     "Адреса е-поште:">
 <!ENTITY email.accesskey                 "Е">
-<!ENTITY email.placeholder               "e-пошта@primer.com">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Лозинка:">
 <!ENTITY password.accesskey              "Л">
 <!ENTITY password.placeholder            "Лозинка">
