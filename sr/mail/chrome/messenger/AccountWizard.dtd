@@ -29,7 +29,7 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(на пример, &quot;Петар Перић&quot;).">
+<!ENTITY fullnameExample.label "(на пример, &quot;John Smith&quot;).">
 <!ENTITY fullnameLabel.label "Ваше име:">
 <!ENTITY fullnameLabel.accesskey "В">
 
@@ -53,15 +53,15 @@
 <!ENTITY defaultPortLabel.label "Подразумевано:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Унесите име вашег долазног сервера (на пример, &quot;mail.primer.net&quot;).">
+<!ENTITY incomingServer.description "Унесите име вашег долазног сервера (на пример, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServer.label "Долазни сервер:">
 <!ENTITY incomingServer.accesskey "с">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Унесите долазно корисничко име које сте добили од вашег провајдера е-поште (на пример, &quot;pperic&quot;).">
+<!ENTITY incomingUsername.description "Унесите долазно корисничко име које сте добили од вашег провајдера е-поште (на пример, &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Корисничко име:">
 <!ENTITY incomingUsername.accesskey "К">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Унесите име вашег новинског сервера (NNTP) (на пример, &quot;news.primer.net&quot;).">
+<!ENTITY newsServerNameDesc.label "Унесите име вашег новинског сервера (NNTP) (на пример, &quot;news.example.net&quot).">
 <!ENTITY newsServerLabel.label "Сервер новинских група:">
 <!ENTITY newsServerLabel.accesskey "С">
 
@@ -69,7 +69,7 @@
 
 <!ENTITY outgoingTitle.label "Подаци одлазног сервера">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Унесите име вашег одлазног сервера (SMTP) (на пример, &quot;smtp.primer.net&quot;).">
+<!ENTITY outgoingServer.description "Унесите име вашег одлазног сервера (SMTP) (на пример, &quot;smtp.example.net&quot;).">
 <!ENTITY outgoingServer.label "Одлазни сервер:">
 <!ENTITY outgoingServer.accesskey "с">
 <!ENTITY outgoingUsername.description "Унесите одлазно корисничко име које вам је дао ваш провајдер е-поште (оно је обично исто као и ваше долазно корисничко име).">
