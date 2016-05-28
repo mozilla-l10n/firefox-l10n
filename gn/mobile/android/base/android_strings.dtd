@@ -443,11 +443,11 @@ size. -->
 
 
 
+<!ENTITY doorhanger_login_edit_toast_error "Ndaikatúi eñongatu jeikeha">
+<!ENTITY doorhanger_login_select_message "Emomokõi ñe\u0027ẽnemi &formatS;?">
 
 
-
-
-
+<!ENTITY doorhanger_login_select_action_text "Eiporavo ambue tembiapo ñepyrũ">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
@@ -456,48 +456,62 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 
+<!ENTITY pref_tab_queue_title3 "Tendayke ruguái">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
+<!ENTITY page_removed "Kuatiarogue oguepyréva">
 
-
-
+<!ENTITY bookmark_edit_title "Embosako\u0027i techaukaha">
+<!ENTITY bookmark_edit_name "Téra">
+<!ENTITY bookmark_edit_location "Tendaite">
+<!ENTITY bookmark_edit_keyword "Ñe\u0027ẽ ñemigua">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-
+<!ENTITY site_settings_title3       "Tenda ñemboheko">
+<!ENTITY site_settings_cancel       "Heja">
+<!ENTITY site_settings_clear        "Mopotĩ">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
+<!ENTITY page_action_dropmarker_description "Tembiaporã mbohetáva">
 
+<!ENTITY masterpassword_create_title "Emoheñói ñe\u0027ẽnemi ha\u0027etéva">
+<!ENTITY masterpassword_remove_title "Ñe\u0027ẽñemi ha\u0027etéva mboguete">
+<!ENTITY masterpassword_password "Ñe\u0027ẽñemi">
+<!ENTITY masterpassword_confirm "Emoneĩ ñe\u0027ẽnemi">
 
+<!ENTITY button_ok "Moneĩ">
+<!ENTITY button_cancel "Heja">
+<!ENTITY button_yes "Hẽe">
+<!ENTITY button_no "Nahániri">
+<!ENTITY button_clear_data "Emopotĩ mba\u0027ekuaarã">
+<!ENTITY button_set "Mboheko">
+<!ENTITY button_clear "Mopotĩ">
+<!ENTITY button_copy "Monguatia">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY home_top_sites_title "Py\u0027ỹigua">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Tenda mbojuaju">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "&brandShortName; Róga">
+<!ENTITY home_history_title "Tembiasakue">
+<!ENTITY home_synced_devices_smartfolder "Mba\u0027e\u0027oka mbojuehepyre">
+
+
+<!ENTITY home_clear_history_button "Embogue kundahára rembiasakue">
 
 
 
 
 
-
-
-
-
-
+<!ENTITY home_open_all "Mbojurujapaite">
 
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -511,6 +525,7 @@ size. -->
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Mba\u0027e\u0027oka kañyguáva">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 
@@ -518,6 +533,7 @@ size. -->
 
 
 
+<!ENTITY filepicker_title "Eiporavo marandurenda">
 
 
 
