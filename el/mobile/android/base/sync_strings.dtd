@@ -4,11 +4,11 @@
 
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-<!ENTITY syncBrand.fullName.label "Firefox Sync">
-<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncBrand.fullName.label "Συγχρονισμός Firefox">
+<!ENTITY syncBrand.shortName.label "Συγχρονισμός">
 
 <!-- Main titles. -->
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
+<!ENTITY sync.title.connect.label 'Σύνδεση στην υπηρεσία &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
@@ -54,10 +54,10 @@
 <!ENTITY fxaccount_status_signed_in_as 'Signed in as'>
 <!ENTITY fxaccount_status_manage_account 'Διαχείριση λογαριασμού'>
 <!ENTITY fxaccount_status_auth_server 'Account server'>
-<!ENTITY fxaccount_status_sync_now 'Sync now'>
-<!ENTITY fxaccount_status_syncing2 'Syncing…'>
+<!ENTITY fxaccount_status_sync_now 'Συγχρονισμός now'>
+<!ENTITY fxaccount_status_syncing2 'Συγχρονισμόςing…'>
 <!ENTITY fxaccount_status_device_name 'Device name'>
-<!ENTITY fxaccount_status_sync_server 'Sync server'>
+<!ENTITY fxaccount_status_sync_server 'Συγχρονισμός server'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: enabled'>
 <!ENTITY fxaccount_status_needs_verification2 'Your account needs to be verified. Tap to resend verification email.'>
