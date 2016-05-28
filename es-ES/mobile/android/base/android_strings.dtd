@@ -108,7 +108,7 @@
 <!ENTITY pref_search_restore_defaults_summary "Restaurar predeterminados">
 <!ENTITY pref_search_hint2 "TRUCO: añada cualquier sitio web a su lista de buscadores con una pulsación larga en su campo de búsqueda y tocando luego el icono &formatI;.">
 <!ENTITY pref_category_advanced "Avanzado">
-<!ENTITY pref_category_advanced_summary3 "Restaurar pestañas, guardado de datos, herramientas de desarrollo">
+<!ENTITY pref_category_advanced_summary3 "Restaurar pestañas, ahorro de datos, herramientas de desarrollo">
 <!ENTITY pref_category_notifications "Notificaciones">
 <!ENTITY pref_category_notifications_summary "Nuevas funciones, actual. sitios web">
 <!ENTITY pref_content_notifications "Actualizaciones del sitio web">
@@ -142,7 +142,7 @@
 <!ENTITY pref_cookies_accept_all "Activadas">
 <!ENTITY pref_cookies_not_accept_foreign "Activadas, salvo las de terceras partes">
 <!ENTITY pref_cookies_disabled "Desactivadas">
-<!ENTITY pref_category_data_saver "Guardado de datos">
+<!ENTITY pref_category_data_saver "Ahorro de datos">
 <!ENTITY pref_category_media "Medios">
 <!ENTITY pref_category_developer_tools "Herramientas de desarrollo">
 <!ENTITY pref_tap_to_load_images_title2 "Mostrar imágenes">
@@ -350,9 +350,7 @@
 <!ENTITY home_top_sites_add "Añadir un sitio">
 <!ENTITY home_title "Página de inicio de &brandShortName;">
 <!ENTITY home_history_title "Historial">
-<!ENTITY home_synced_devices_smartfolder "Dispositivos sincronizados">
-<!ENTITY home_synced_devices_number "&formatD; dispositivos">
-<!ENTITY home_history_back_to2 "Volver al historial completo">
+<!ENTITY home_history_back_to "Volver al historial completo">
 <!ENTITY home_clear_history_button "Limpiar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Está seguro de que quiere limpiar su historial?">
 <!ENTITY home_bookmarks_empty "Los marcadores que guarde se muestran aquí.">
