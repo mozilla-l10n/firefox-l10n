@@ -14,8 +14,8 @@
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Compruebe que la dirección no tiene errores de escritura
-    del tipo <strong>ww</strong>.ejemplo.com en lugar de
-    <strong>www</strong>.ejemplo.com</li>
+    del tipo <strong>ww</strong>.example.com en lugar de
+    <strong>www</strong>.example.com</li>
   <li>Si no puede cargar ninguna página, compruebe la conexión
     de red de su ordenador.</li>
   <li>Si su ordenador o red están protegidos por un cortafuegos
@@ -46,7 +46,7 @@
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Las direcciones web se escriben normalmente como
-    <strong>http://www.ejemplo.com/</strong></li>
+    <strong>http://www.example.com/</strong></li>
   <li>Asegúrese de que está usando barras inclinadas hacia
     delante (p.e. <strong>/</strong>).</li>
 </ul>
