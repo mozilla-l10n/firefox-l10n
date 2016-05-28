@@ -108,7 +108,7 @@
 <!ENTITY pref_search_restore_defaults_summary "Restaurar predeterminados">
 <!ENTITY pref_search_hint2 "TRUCO: añada cualquier sitio web a su lista de buscadores con una pulsación larga en su campo de búsqueda y tocando luego el icono &formatI;.">
 <!ENTITY pref_category_advanced "Avanzado">
-<!ENTITY pref_category_advanced_summary3 "Restaurar pestañas, guardado de datos, herramientas de desarrollo">
+<!ENTITY pref_category_advanced_summary3 "Restaurar pestañas, ahorro de datos, herramientas de desarrollo">
 <!ENTITY pref_category_notifications "Notificaciones">
 <!ENTITY pref_category_notifications_summary "Nuevas funciones, actual. sitios web">
 <!ENTITY pref_content_notifications "Actualizaciones del sitio web">
