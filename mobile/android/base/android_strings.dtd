@@ -152,7 +152,7 @@
 <!ENTITY overlay_no_synced_devices "لم يُعثر على أيّ جهاز مربوط بحساب فيرفكس">
 
 <!ENTITY pref_category_search3 "البحث">
-
+<!ENTITY pref_category_search_summary2 "أضف، حدد المبدئي، أظهر الاقتراحات">
 <!ENTITY pref_category_accessibility "الإتاحة">
 <!ENTITY pref_category_accessibility_summary2 "حجم النص، التقريب، الإدخال بالصوت">
 <!ENTITY pref_category_privacy_short "الخصوصية">
@@ -235,7 +235,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "امنعها">
 
 <!ENTITY pref_show_web_fonts "أظهر خطوط الوب">
-
+<!ENTITY pref_show_web_fonts_summary2 "نزّل الخطوط عن بعد عند تحميل الصفحة">
 
 <!ENTITY pref_tracking_protection_title2 "الحماية من التعقّب">
 <!ENTITY pref_tracking_protection_summary3 "مفعّل في التصفح الخاص">
@@ -284,10 +284,12 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "حُدثت &formatD; من المواقع">
 <!ENTITY content_notification_action_settings "إعدادات التنبيهات">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "حُدّثت في &formatS;">
 
 <!ENTITY pref_char_encoding "ترميز المحارف">
 <!ENTITY pref_char_encoding_on "أظهر القائمة">
@@ -532,9 +534,9 @@ size. -->
 
 <!ENTITY home_title "صفحة &brandShortName; الرئيسية">
 <!ENTITY home_history_title "التأريخ">
-
-
-
+<!ENTITY home_synced_devices_smartfolder "الأجهزة المُزامنة">
+<!ENTITY home_synced_devices_number "&formatD; من الأجهزة">
+<!ENTITY home_history_back_to2 "ارجع إلى التأريخ الكامل">
 <!ENTITY home_clear_history_button "امسح تأريخ التصفح">
 <!ENTITY home_clear_history_confirm "أمتأكد من أنك تريد مسح التأريخ؟">
 <!ENTITY home_bookmarks_empty "العلامات التي تحفظها ستظهر هنا.">
@@ -770,5 +772,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "أضِف إلى شاشة البداية">
 
+<!ENTITY helper_first_offline_bookmark_title "اقرأ دون اتصال">
 
 <!ENTITY helper_first_offline_bookmark_button "اذهب إلى العلامات">
