@@ -63,12 +63,14 @@
 <!ENTITY bookmark_removed "Marcador eliminado">
 <!ENTITY bookmark_updated "Marcador actualizado">
 <!ENTITY bookmark_options "Opciones">
+<!ENTITY screenshot_added_to_bookmarks "Captura de pantalla agregada a marcadores">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Capturas de pantalla">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Lista de lectura">
 
+<!ENTITY reader_saved_offline "Guardado sin conexión">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -170,6 +172,8 @@
      it is applicable. -->
 <!ENTITY pref_category_advanced "Avanzadas">
 <!ENTITY pref_category_notifications "Notificaciones">
+<!ENTITY pref_category_notifications_summary "Nuevas características, actualizaciones de sitio web">
+<!ENTITY pref_content_notifications "Actualizaciones de sitio web">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota vía USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota vía Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Depuración por Wi-Fi requiere que el dispositivo tenga instalada una aplicación de lectura de códigos QR.">
@@ -217,6 +221,7 @@
 <!ENTITY pref_cookies_disabled "Deshabilitadas">
 
 <!ENTITY pref_category_media "Medios">
+<!ENTITY pref_category_developer_tools "Herramientas de desarrollador">
 
 <!ENTITY pref_tap_to_load_images_title2 "Mostrar imágenes">
 <!ENTITY pref_tap_to_load_images_enabled "Siempre">
@@ -274,6 +279,7 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; sitios web actualizados">
 <!ENTITY content_notification_action_settings "Configuración de notificaciones">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
@@ -342,6 +348,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Descargas">
 <!ENTITY pref_private_data_syncedTabs "Pestañas sincronizadas">
 
+<!ENTITY pref_default_browser "Establecer navegador predeterminado">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Dar opinión">
@@ -762,4 +769,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Agregar a pantalla de inicio">
 
+<!ENTITY helper_first_offline_bookmark_title "Leer sin conexión">
+<!ENTITY helper_first_offline_bookmark_message "Encontrar items de vista de lectura en marcadores, incluso sin conexión.">
 <!ENTITY helper_first_offline_bookmark_button "Ir a Marcadores">
