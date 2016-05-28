@@ -18,7 +18,7 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber más">
 <!ENTITY changeBlockList.label "Cambiar lista de bloqueo">
 <!ENTITY changeBlockList.accesskey "l">
-<!ENTITY doNotTrack.pre.label "También puede">
+<!ENTITY doNotTrack.pre.label "También puede ">
 <!ENTITY doNotTrack.settings.label "administrar sus ajustes de No rastrear">
 <!ENTITY doNotTrack.post.label ".">
 <!ENTITY history.label "Historial">
