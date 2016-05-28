@@ -534,10 +534,12 @@ size. -->
 
 
 <!ENTITY filepicker_title "Eiporavo marandurenda">
-
-
-
+<!ENTITY filepicker_audio_title "Eiporavo térã eñongatu mba\u0027epu">
+<!ENTITY filepicker_image_title "Eiporavo térã enohẽ avara\u0027ãnga">
+<!ENTITY filepicker_video_title "Eiporavo térã eñongatu ta\u0027ãngamýi">
 <!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "Reikéma">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
