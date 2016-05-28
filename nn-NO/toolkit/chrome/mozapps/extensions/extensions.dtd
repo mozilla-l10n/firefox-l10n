@@ -233,17 +233,17 @@
 
 <!ENTITY setting.learnmore "Les meir …">
 
-<!ENTITY disabledUnsigned.heading "Nokre utvidingar har vorte avslått">
+<!ENTITY disabledUnsigned.heading "Nokre utvidingar er slått av">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Desse utvidingane har ikkje blitt kontrollerte for bruk i &brandShortName;. Du kan  ">
+<!ENTITY disabledUnsigned.description.start "Desse utvidingane har ikkje blitt kontrollert for bruk i &brandShortName;. Du kan ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "finna erstatningar">
 <!ENTITY disabledUnsigned.description.end " eller spørja utviklaren om å få dei stadfesta.">
 <!ENTITY disabledUnsigned.learnMore "Les meir om tiltaka våre for å halda deg trygg på nettet.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Utviklarar som er interesserte i å få utgjevingane sine stadfesta kan fortsette ved å lesa ">
+<!ENTITY disabledUnsigned.devInfo.start "Utviklarar som er interesserte i å få utvidingane sine stadfesta kan fortsette ved å lesa ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manualen vår">
 <!ENTITY disabledUnsigned.devInfo.end ".">
