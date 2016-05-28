@@ -14,8 +14,8 @@
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Compruebe la dirección en busca de errores tipográficos tales como
-    <strong>ww</strong>.ejemplo.com en lugar de
-    <strong>www</strong>.ejemplo.com</li>
+    <strong>ww</strong>.example.com en lugar de
+    <strong>www</strong>.example.com</li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Buscar</button>
@@ -46,7 +46,7 @@
 <!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Las direcciones web se escriben normalmente como
-    <strong>http://www.ejemplo.com/</strong></li>
+    <strong>http://www.example.com/</strong></li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Buscar</button>
