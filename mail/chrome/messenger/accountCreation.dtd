@@ -9,7 +9,7 @@
 <!ENTITY name.text "Su nombre, tal y como se muestra a los demás">
 <!ENTITY email.label "Dirección de correo:">
 <!ENTITY email.accesskey "D">
-<!ENTITY email.placeholder "email@ejemplo.com">
+<!ENTITY email.placeholder "email@example.com">
 <!ENTITY password.label "Contraseña:">
 <!ENTITY password.accesskey "a">
 <!ENTITY password.placeholder "Contraseña">
