@@ -10,5 +10,6 @@
 <!ENTITY feedback.feedback.bad          "Κακή">
 
 <!ENTITY feedback.tools.title           "Εργαλεία">
+<!ENTITY feedback.allowTelemetry.title  "Αποστολή πληροφοριών απόδοσης">
 <!ENTITY feedback.forceCompat.title     "Εξαναγκασμός συμβατότητας προσθέτων">
 <!ENTITY feedback.errorConsole.title    "Ενεργοποίηση της κονσόλας σφαλμάτων">
