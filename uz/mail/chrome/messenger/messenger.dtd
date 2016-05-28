@@ -165,93 +165,97 @@
 <!ENTITY compactVersion.label "Ixcham ko‘rinish">
 <!ENTITY compactVersion.accesskey "I">
 <!ENTITY folderPaneBar.label "Jild yon oynasi asboblar paneli">
-
+<!ENTITY folderModeSelector.label "Jild ko‘rinishi">
 <!-- Sort Menu -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY sortMenu.label "Saralash">
+<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortByDateCmd.label "Sana">
+<!ENTITY sortByDateCmd.accesskey "S">
+<!ENTITY sortByReceivedCmd.label "Olingan:">
+<!ENTITY sortByReceivedCmd.accesskey "O">
+<!ENTITY sortByStarCmd.label "Yulduz">
+<!ENTITY sortByStarCmd.accesskey "Y">
+<!ENTITY sortByAttachmentsCmd.label "Biriktirmalar">
+<!ENTITY sortByAttachmentsCmd.accesskey "B">
+<!ENTITY sortByPriorityCmd.label "Muhimlik darajasi">
+<!ENTITY sortByPriorityCmd.accesskey "M">
+<!ENTITY sortBySizeCmd.label "Hajmi:">
+<!ENTITY sortBySizeCmd.accesskey "H">
+<!ENTITY sortByStatusCmd.label "Holati">
+<!ENTITY sortByStatusCmd.accesskey "H">
+<!ENTITY sortByTagsCmd.label "Teglar">
+<!ENTITY sortByTagsCmd.accesskey "T">
+<!ENTITY sortByJunkStatusCmd.label "Spam holati">
+<!ENTITY sortByJunkStatusCmd.accesskey "S">
+<!ENTITY sortBySubjectCmd.label "Mavzu">
+<!ENTITY sortBySubjectCmd.accesskey "M">
+<!ENTITY sortByFromCmd.label "Jo‘natuvchi">
+<!ENTITY sortByFromCmd.accesskey "J">
+<!ENTITY sortByRecipientCmd.label "Qabul qiluvchi">
+<!ENTITY sortByRecipientCmd.accesskey "Q">
+<!ENTITY sortByCorrespondentCmd.label "Muxbirlar">
+<!ENTITY sortByCorrespondentCmd.accesskey "M">
+<!ENTITY sortByUnreadCmd.label "O‘qish">
+<!ENTITY sortByUnreadCmd.accesskey "O">
+<!ENTITY sortByOrderReceivedCmd.label "Buyruq qabul qilindi">
+<!ENTITY sortByOrderReceivedCmd.accesskey "B">
+<!ENTITY sortAscending.label "Koʻpayish boʻyicha">
+<!ENTITY sortAscending.accesskey "K">
+<!ENTITY sortDescending.label "Kamayib borish tartibida">
+<!ENTITY sortDescending.accesskey "K">
+<!ENTITY sortThreaded.label "Yozishmalarga qo‘shilagan">
+<!ENTITY sortThreaded.accesskey "Y">
+<!ENTITY sortUnthreaded.label "Yozishmalardan ajratilgan">
+<!ENTITY sortUnthreaded.accesskey "Y">
+<!ENTITY groupBySort.label "Turi bo‘yicha guruhlangan">
+<!ENTITY groupBySort.accesskey "g">
+<!ENTITY msgsMenu.label "Xabarlar">
+<!ENTITY msgsMenu.accesskey "X">
+<!ENTITY threads.label "Yozishmalar">
+<!ENTITY threads.accesskey "Y">
+<!ENTITY allMsgsCmd.label "Barchasi">
+<!ENTITY allMsgsCmd.accesskey "B">
+<!ENTITY expandAllThreadsCmd.label "Barcha yozishmalarni yoyish">
+<!ENTITY expandAllThreadsCmd.accesskey "y">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Barcha yozishmalarni yig‘ish">
+<!ENTITY collapseAllThreadsCmd.accesskey "i">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "O‘qilmagan">
+<!ENTITY unreadMsgsCmd.accesskey "O">
+<!ENTITY threadsWithUnreadCmd.label "O‘qilmagan yozishmalar">
+<!ENTITY threadsWithUnreadCmd.accesskey "y">
+<!ENTITY watchedThreadsWithUnreadCmd.label "O‘qilmagan, lekin ko‘rilgan xabarlar">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "k">
+<!ENTITY ignoredThreadsCmd.label "E’tiborsiz qoldirilgan yozishmalar">
+<!ENTITY ignoredThreadsCmd.accesskey "I">
+
+<!ENTITY headersMenu.label "Sarlavhalar">
+<!ENTITY headersMenu.accesskey "S">
+<!ENTITY headersAllCmd.label "Barchasi">
+<!ENTITY headersAllCmd.accesskey "B">
+<!ENTITY headersNormalCmd.label "O‘rtacha">
+<!ENTITY headersNormalCmd.accesskey "O">
+<!ENTITY bodyMenu.label "Xabar matni">
+<!ENTITY bodyMenu.accesskey "m">
+<!ENTITY bodyAllowHTML.label "Asl HTML kabi">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "Oddiy HTML kabi">
+<!ENTITY bodySanitized.accesskey "O">
+<!ENTITY bodyAsPlaintext.label "Oddiy matn kabi">
+<!ENTITY bodyAsPlaintext.accesskey "O">
+<!ENTITY bodyAllParts.label "Barcha matn qismlari">
+<!ENTITY bodyAllParts.accesskey "B">
+
+<!ENTITY bodyMenuFeed.label "Tasma xabari matni">
+<!ENTITY bodyMenuFeed.accesskey "m">
+<!ENTITY viewFeedWebPage.label "Veb sahifa">
+<!ENTITY viewFeedWebPage.accesskey "V">
+<!ENTITY viewFeedSummary.label "Natija">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Asosiy format">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "A">
 
 
 
