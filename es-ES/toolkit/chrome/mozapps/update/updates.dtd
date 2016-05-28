@@ -50,9 +50,7 @@ tenga permisos para instalar software en este equipo.">
                                          para &brandShortName; y está lista para ser instalada.">
 <!ENTITY finishedBackground.name "Actualización:">
 <!ENTITY finishedBackground.more "La actualización se instalará la próxima vez que se inicie &brandShortName;. Puede reiniciar &brandShortName; ahora, o continuar trabajando y reiniciarlo más tarde.">
-<!ENTITY installed.title "Actualización instalada">
-<!ENTITY installed.intro "La actualización se instaló correctamente.">
-<!ENTITY whatsnew.label "Leer más acerca de las novedades…">
+<!ENTITY finishedBackground.moreElevated "Esta actualización requiere privilegios de administrador. La actualización se instalará la próxima vez que se inicie &brandShortName;. Puede reiniciar &brandShortName; ahora, continuar trabajando y reiniciar más tarde, o declinar esta actualización.">
 <!ENTITY update.details.label "Detalles">
 <!ENTITY update.installedOn.label "Instalado en:">
 <!ENTITY update.status.label "Estado:">
