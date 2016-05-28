@@ -58,8 +58,6 @@
 <!ENTITY updateCheck.accesskey "z">
 <!ENTITY updateManual.label "No comprobar actualizaciones (no recomendado: riesgos de seguridad)">
 <!ENTITY updateManual.accesskey "N">
-<!ENTITY updateAutoAddonWarn.label "Avisarme si esto desactivará alguno de mis complementos.">
-<!ENTITY updateAutoAddonWarn.accesskey "v">
 <!ENTITY updateHistory.label "Mostrar historial de actualizaciones">
 <!ENTITY updateHistory.accesskey "h">
 <!ENTITY useService.label "Usar un servicio en segundo plano para instalar actualizaciones">
