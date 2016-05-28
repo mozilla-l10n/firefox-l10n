@@ -476,17 +476,27 @@ size. -->
 <!ENTITY doorhanger_login_edit_toast_error "Απέτυχε η αποθήκευση των στοιχείων σύνδεσης">
 <!ENTITY doorhanger_login_select_message "Αντιγραφή κωδικού πρόσβασης του &formatS;;">
 <!ENTITY doorhanger_login_select_toast_copy "Ο κωδικός έχει αντιγραφεί στο πρόχειρο">
+<!ENTITY doorhanger_login_select_toast_copy_error "Δεν ήταν δυνατή ήταν αντιγραφή του κωδικού">
+<!ENTITY doorhanger_login_select_action_text "Επιλέξτε άλλο στοιχείο σύνδεσης">
+<!ENTITY doorhanger_login_select_title "Αντιγραφή κωδικού από">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_magnifying_glass_enabled "Μεγέθυνση μικρών περιοχών">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Μεγέθυνση συνδέσμων και πεδίων φόρμας κατά το άγγιγμα κοντά σε αυτά">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar2 "Περιήγηση πλήρους οθόνης">
+<!ENTITY pref_scroll_title_bar_summary2 "Απόκρυψη της μπάρας εργαλείων του &brandShortName; κατά την κύλιση προς τα κάτω σε μια σελίδα">
 
+<!ENTITY pref_tab_queue_title3 "Ουρά αναμονής καρτελών">
+<!ENTITY pref_tab_queue_summary4 "Αποθήκευση συνδέσμων μέχρι την επόμενη φορά που θα ανοίξετε τον &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
+<!ENTITY page_removed "Η σελίδα αφαιρέθηκε">
 
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
