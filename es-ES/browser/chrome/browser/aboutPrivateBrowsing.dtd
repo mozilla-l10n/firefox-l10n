@@ -9,7 +9,7 @@
 <!ENTITY privateBrowsing.title.tracking "Navegación privada con protección contra rastreo">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before "Cuando navega en una ventana privada, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize "no guarda">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.after " sus:">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after ":">
 <!ENTITY aboutPrivateBrowsing.info.visited "páginas visitadas">
 <!ENTITY aboutPrivateBrowsing.info.searches "búsquedas">
 <!ENTITY aboutPrivateBrowsing.info.cookies "cookies">

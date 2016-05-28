@@ -142,8 +142,8 @@
 ">
 <!ENTITY cspBlocked.title "Bloqueado por la política de seguridad de contenido">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue de esta forma porque la página tiene una política de seguridad de contenido que no lo permite.</p>">
-<!ENTITY corruptedContentError.title "Error de contenido corrupto">
-<!ENTITY corruptedContentError.longDesc "<p>La página que está intentando ver no puede ser mostrada porque se detectó un error en la transmisión de los datos.</p><ul><li>Contacte con los propietarios del sitio web para informarles de este problema</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Error de contenido dañado">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La página que está intentando ver no puede ser mostrada porque se detectó un error en la transmisión de los datos.</p><ul><li>Contacte con los propietarios del sitio web para informarles de este problema.</li></ul>">
 <!ENTITY securityOverride.exceptionButtonLabel "Añadir excepción…">
 <!ENTITY errorReporting.automatic2 "Informar de errores como esto ayuda a Mozilla a identificar y bloquear sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Más información…">
@@ -156,8 +156,11 @@
 <!ENTITY weakCryptoAdvanced.title "Avanzado">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa tecnología de seguridad que está obsoleta y es vulnerable a ataques. Un atacante podría revelar información fácilmente que usted pensaba que es segura.">
 <!ENTITY weakCryptoAdvanced.override "(No seguro) Pruebe a cargar <span class='hostname'></span> usando seguridad obsoleta">
+<!ENTITY certerror.wrongSystemTime "<p>No es posible una conexión segura a <span id='wrongSystemTime_URL'/> porque su reloj parece tener la hora errónea.</p> <p>Su equipo piensa que es <span id='wrongSystemTime_systemDate'/>, cuando debería ser <span id='wrongSystemTime_actualDate'/>. Para arreglar este problema, cambie su configuración de fecha y hora para que marquen la hora correcta.</p>">
 <!ENTITY certerror.pagetitle1 "Conexión insegura">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa Seguridad estricta de transporte de HTTP (HSTS) para especificar que &brandShortName; sólo se conecte a él de modo seguro. Como resultado, no es posible añadir una excepción para este certificado.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa Seguridad estricta de transporte de HTTP (HSTS) para especificar que &brandShortName; sólo puede conectarse a él de modo seguro. Como resultado, no es posible añadir una excepción para este certificado.">
 <!ENTITY certerror.copyToClipboard.label "Copiar texto al portapapeles">
 <!ENTITY inadequateSecurityError.title "Su conexión no es segura">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnología de seguridad que está obsoleta y es vulnerable a ataques. Un atacante podría revelar fácilmente información que usted pensaría que es segura. El administrador del sitio web tendrá que corregir el problema antes de que se pueda visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY prefReset.longDesc "Parece que su configuración de seguridad de red podría estar causando esto. ¿Quiere restaurar la configuración por defecto?">
+<!ENTITY prefReset.label "Restableces configuración por defecto">

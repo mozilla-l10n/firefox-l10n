@@ -122,6 +122,10 @@
 <!ENTITY recentBookmarks.label "Añadidos recientemente">
 <!ENTITY otherBookmarksCmd.label "Otros marcadores">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
+<!ENTITY showRecentlyBookmarked.label "Mostrar últimos añadidos a marcadores">
+<!ENTITY showRecentlyBookmarked.accesskey "o">
+<!ENTITY hideRecentlyBookmarked.label "Ocultar los últimos añadidos a marcadores">
+<!ENTITY hideRecentlyBookmarked.accesskey "O">
 <!ENTITY backCmd.label "Anterior">
 <!ENTITY backButton.tooltip "Ir a la página anterior">
 <!ENTITY forwardCmd.label "Siguiente">
@@ -165,6 +169,7 @@
 <!ENTITY bookmarksMenuButton.other.label "Otros marcadores">
 <!ENTITY viewBookmarksSidebar2.label "Ver el panel lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label "Ver la barra de marcadores">
+<!ENTITY containersMenu.label "Contenedores">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Historial">
@@ -188,14 +193,6 @@
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newUserContext.label "Nueva pestaña contenedor">
 <!ENTITY newUserContext.accesskey "C">
-<!ENTITY userContextPersonal.label "Personal">
-<!ENTITY userContextPersonal.accesskey "P">
-<!ENTITY userContextWork.label "Trabajo">
-<!ENTITY userContextWork.accesskey "T">
-<!ENTITY userContextBanking.label "Banca">
-<!ENTITY userContextBanking.accesskey "B">
-<!ENTITY userContextShopping.label "Compras">
-<!ENTITY userContextShopping.accesskey "C">
 <!ENTITY newNavigatorCmd.label "Nueva ventana">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
@@ -406,16 +403,20 @@
 <!ENTITY mediaMute.accesskey "S">
 <!ENTITY mediaUnmute.label "Restaurar sonido">
 <!ENTITY mediaUnmute.accesskey "s">
-<!ENTITY mediaPlaybackRate.label "Velocidad de reproducción">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Cámara lenta (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "m">
-<!ENTITY mediaPlaybackRate100x.label "Velocidad normal">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Alta velocidad (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "v">
-<!ENTITY mediaPlaybackRate200x.label "Velocidad de la luz (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "L">
+<!ENTITY mediaPlaybackRate2.label "Velocidad de reproducción">
+<!ENTITY mediaPlaybackRate2.accesskey "V">
+<!ENTITY mediaPlaybackRate050x2.label "Lento (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "L">
+<!ENTITY mediaPlaybackRate100x2.label "Normal">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Rápido (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "R">
+<!ENTITY mediaPlaybackRate150x2.label "Más rápido (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "M">
+<!ENTITY mediaPlaybackRate200x2.label "Rapidísimo (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "a">
+<!ENTITY mediaLoop.label "Repetir">
+<!ENTITY mediaLoop.accesskey "R">
 <!ENTITY mediaShowControls.label "Mostrar controles">
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label "Ocultar controles">
@@ -491,7 +492,7 @@
 <!ENTITY identity.connectionSecure "Conexión segura">
 <!ENTITY identity.connectionNotSecure "La conexión no es segura">
 <!ENTITY identity.connectionFile "Esta página se guarda en su equipo.">
-<!ENTITY identity.connectionVerified1 "Está conectado de forma segura a este sitio, mantenido por:">
+<!ENTITY identity.connectionVerified2 "Está conectado de forma segura a este sitio, propiedad de:">
 <!ENTITY identity.connectionInternal "Esta es una página segura de &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Los inicios de sesión introducidos en esta página podrían verse comprometidos.">
 <!ENTITY identity.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
