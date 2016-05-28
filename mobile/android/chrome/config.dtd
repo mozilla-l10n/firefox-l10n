@@ -2,16 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY empty.label            "Αναζήτηση">
-<!ENTITY newpref.label          "Προσθήκη νέας προτίμησης">
-<!ENTITY addpref.name           "Όνομα">
-<!ENTITY addpref.value          "Τιμή">
 
-<!ENTITY cancel.label           "Ακύρωση">
-<!ENTITY reset.label            "Επαναφορά">
-<!ENTITY done.label             "Ολοκλήρωση">
+<!ENTITY toolbar.searchPlaceholder     "Αναζήτηση">
 
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY newPref.namePlaceholder       "Όνομα">
 
+<!ENTITY newPref.valueBoolean          "Λογική μεταβλητή">
+<!ENTITY newPref.valueString           "Συμβολοσειρά">
+<!ENTITY newPref.valueInteger          "Ακέραιος">
+
+<!ENTITY newPref.stringPlaceholder     "Εισάγετε μια συμβολοσειρά">
+<!ENTITY newPref.numberPlaceholder     "Εισάγετε έναν αριθμό">
+
+<!ENTITY newPref.toggleButton          "Εναλλαγή">
+<!ENTITY newPref.cancelButton          "Ακύρωση">
+
+<!ENTITY contextMenu.copyPrefName      "Αντιγραφή ονόματος">
+<!ENTITY contextMenu.copyPrefValue     "Αντιγραφή τιμής">
