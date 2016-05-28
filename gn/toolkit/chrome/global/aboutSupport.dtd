@@ -105,7 +105,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Eipuru teko jerovia">
 <!ENTITY aboutSupport.restartInSafeMode.label "Moĩmbaha oguepyréva moñepyrũjey…">
 
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Reheguáva">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Jehechakuaaite">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Ndaipóri jehaipy">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
