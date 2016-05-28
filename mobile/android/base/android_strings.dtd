@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bienvenido">
-<!ENTITY onboard_start_message3 "Navegar con &brandShortName;">
-<!ENTITY onboard_start_subtext3 "Haga realmente suya su experiencia de navegación web móvil.">
 <!ENTITY firstrun_urlbar_message "Bienvenido a &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Encuentre todo más rápido con las útiles sugerencias de búsqueda.">
 <!ENTITY firstrun_bookmarks_title "Historial">
@@ -19,15 +17,24 @@
 <!ENTITY firstrun_signin_message "Conéctese y en marcha">
 <!ENTITY firstrun_signin_button "Inicie sesión en Sync">
 <!ENTITY onboard_start_button_browser "Comenzar a navegar">
+<!ENTITY firstrun_button_notnow "Ahora no">
 <!ENTITY firstrun_button_next "Siguiente">
+<!ENTITY firstrun_tabqueue_title "Enlaces">
+<!ENTITY firstrun_tabqueue_message_off "Activar cola de pestañas">
+<!ENTITY firstrun_tabqueue_subtext_off "Guarde enlaces para más tarde en &brandShortName; al tocar sobre ellos en otras aplicaciones.">
+<!ENTITY firstrun_tabqueue_message_on "¡Éxito!">
+<!ENTITY firstrun_tabqueue_subtext_on "Siempre puede desactivar esto en &settings; bajo &pref_category_general;.">
+<!ENTITY firstrun_notifications_title "Blogs">
+<!ENTITY firstrun_notifications_message "Seguir informado">
+<!ENTITY firstrun_notifications_subtext "Ser informado cuando los blogs que tiene en marcadores publican una actualización.">
+<!ENTITY firstrun_readerview_title "Artículos">
+<!ENTITY firstrun_readerview_message "Soltar lastre">
+<!ENTITY firstrun_readerview_subtext "Use la vista de lectura para hacer los artículos más cómodos de leer \u2014 incluso sin conexión.">
+<!ENTITY firstrun_account_title "Usted">
+<!ENTITY firstrun_account_message "¿Tiene &brandShortName; en otro dispositivo?">
 <!ENTITY onboard_start_restricted1 "Permanezca seguro y mantenga el control con esta versión simplificada de &brandShortName;.">
-<!ENTITY reading_list_migration_title "Lista de lectura conectada">
-<!ENTITY reading_list_migration_subtext "Los elementos de su lista de lectura se añadirán ahora a sus marcadores">
-<!ENTITY reading_list_migration_goto_bookmarks "Ir a Marcadores">
-<!ENTITY reading_list_migration_bookmarks_hidden "Su panel de marcadores está oculto">
 <!ENTITY bookmarks_title "Marcadores">
 <!ENTITY history_title "Historial">
-<!ENTITY reading_list_title "Lista de lectura">
 <!ENTITY recent_tabs_title "Pestañas recientes">
 <!ENTITY switch_to_tab "Cambiar a la pestaña">
 <!ENTITY crash_reporter_title "Agente de informe de fallos de &brandShortName;">
@@ -53,6 +60,8 @@
 <!ENTITY screenshot_added_to_bookmarks "Captura añadida a marcadores">
 <!ENTITY screenshot_folder_label_in_bookmarks "Capturas">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Lista de lectura">
+<!ENTITY bookmark_folder_items "&formatD; elementos">
+<!ENTITY bookmark_folder_one_item "1 elemento">
 <!ENTITY reader_saved_offline "Guardado sin conexión">
 <!ENTITY reader_switch_to_bookmarks "Cambiar">
 <!ENTITY history_today_section "Hoy">
@@ -179,7 +188,8 @@
 <!ENTITY tab_queue_notification_settings "Para \&quot;Abrir múltiples enlaces\&quot;, active el permiso \'Dibujar sobre otras aplicaciones\' para &brandShortName;">
 <!ENTITY content_notification_summary "&brandShortName;">
 <!ENTITY content_notification_title_plural "&formatD; sitios web actualizados">
-<!ENTITY content_notification_action_settings "Ajustes de notificaciones">
+<!ENTITY content_notification_action_settings2 "Configuración">
+<!ENTITY content_notification_action_read_now "Leer ahora">
 <!ENTITY content_notification_updated_on "Actualizado el &formatS;">
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
@@ -350,7 +360,10 @@
 <!ENTITY home_top_sites_add "Añadir un sitio">
 <!ENTITY home_title "Página de inicio de &brandShortName;">
 <!ENTITY home_history_title "Historial">
-<!ENTITY home_history_back_to "Volver al historial completo">
+<!ENTITY home_synced_devices_smartfolder "Dispositivos sincronizados">
+<!ENTITY home_synced_devices_number "&formatD; dispositivos">
+<!ENTITY home_synced_devices_one "1 dispositivo">
+<!ENTITY home_history_back_to2 "Volver al historial completo">
 <!ENTITY home_clear_history_button "Limpiar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Está seguro de que quiere limpiar su historial?">
 <!ENTITY home_bookmarks_empty "Los marcadores que guarde se muestran aquí.">
@@ -461,3 +474,6 @@
 <!ENTITY helper_first_offline_bookmark_title "Leer sin conexión">
 <!ENTITY helper_first_offline_bookmark_message "Encuentre sus elementos de la vista de lectura en marcadores, incluso sin conexión.">
 <!ENTITY helper_first_offline_bookmark_button "Ir a Marcadores">
+<!ENTITY helper_triple_readerview_open_title "Disponible sin conexión">
+<!ENTITY helper_triple_readerview_open_message "Añada a Marcadores elementos de la vista de lectura para leerlos sin conexión.">
+<!ENTITY helper_triple_readerview_open_button "Añadir a marcadores">
