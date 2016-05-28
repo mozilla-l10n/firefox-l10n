@@ -12,6 +12,7 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Denne nettstaden på <span id='malware_sitename'/> er rapportert som ein åtaksnettstad, og er blokkert basert på tryggings-innstillingane dine.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Åtaksnettstadar freistar å installera program som stel privat informasjon, brukar datamaskina di for å angripa andre eller skade systemet ditt.</p><p>Nokre åtaksnettstader spreier med vilje program som er skadelege, og mange kan få programma installerte utan at dei veit om det, eller gjev løyve til det.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Villeiande nettside!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Denne nettstaden på <span id='phishing_sitename'/> er rapportert som ein åtaksnettstad, og er blokkert basert på tryggingsinnstillingane dine.">
 
