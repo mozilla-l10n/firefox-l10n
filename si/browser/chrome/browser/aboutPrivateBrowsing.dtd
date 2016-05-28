@@ -6,22 +6,22 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "පුද්ගලික කවුළුව විවෘත කරන්න">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-<!ENTITY privateBrowsing.title                 "පෞද්ගලික ගවේෂණය">
+<!ENTITY privateBrowsing.title                 "පුද්ගලික ගවේෂණය">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
      Width of the Private Browsing section. This should depend primarily on the
      length of the headers and text, but should be roughly 1.5 times the width
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
-<!ENTITY aboutPrivateBrowsing.title            "ඔබ පුද්ගලිකව බ්‍රවුස් කරයි">
+<!ENTITY aboutPrivateBrowsing.title            "ඔබ පුද්ගලිකව ගවේෂණය කරයි">
 
-<!ENTITY aboutPrivateBrowsing.info.history     "ඉතිහාසය">
+<!ENTITY aboutPrivateBrowsing.info.history     "අතීතය">
 
 <!ENTITY aboutPrivateBrowsing.info.cookies     "කුකී">
 
 
 <!ENTITY aboutPrivateBrowsing.info.downloads   "බාගත කිරීම්">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bookmarks">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "පිටු සළකුනු">
 
 <!ENTITY aboutPrivateBrowsing.learnMore        "තවත් දැනගන්න">
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
