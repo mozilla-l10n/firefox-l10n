@@ -3,31 +3,37 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Account manager window for Instantbird -->
 
+<!ENTITY accounts.title                      "دربارهٴ &brandShortName;">
+<!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
+<!ENTITY accountsWindow.title                "وضعیت پیام رسانی فوری">
+<!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
 
-
-
-
-
+<!ENTITY accountManager.newAccount.label     "حساب جدید">
+<!ENTITY accountManager.newAccount.accesskey "ج">
+<!ENTITY accountManager.close.label          "بستن">
+<!ENTITY accountManager.close.accesskey      "ب">
 <!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "یک">
 <!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "هنوز هیچ حسابی پیکربندی نشده است">
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY account.connect.label        "اتصال‌">
+<!ENTITY account.connect.accesskey    "ا">
+<!ENTITY account.disconnect.label     "قطع ارتباط">
+<!ENTITY account.disconnect.accesskey "ق">
+<!ENTITY account.delete.label         "حذف‌">
+<!ENTITY account.delete.accesskey     "ح">
+<!ENTITY account.edit.label           "ویژگیها‌">
+<!ENTITY account.edit.accesskey       "و">
+<!ENTITY account.moveup.label         "&amp;انتقال به بالا">
+<!ENTITY account.movedown.label       "&amp;انتقال به پایین">
+<!ENTITY account.cancelReconnection.label         "لغو اتصال دوباره">
+<!ENTITY account.cancelReconnection.accesskey     "ل">
+<!ENTITY account.copyDebugLog.label     "رونوشت برداشتن از ثبت اشکال زدایی">
+<!ENTITY account.copyDebugLog.accesskey "ر">
 
 
 
