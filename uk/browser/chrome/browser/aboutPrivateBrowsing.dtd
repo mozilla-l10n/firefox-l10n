@@ -28,4 +28,4 @@
 
 <!ENTITY trackingProtection.title                        "Захист від стеження">
 <!ENTITY trackingProtection.description2                 "Деякі веб-сайти використовують елементи стеження, які можуть спостерігати за вашою діяльністю всюди в Інтернеті. Із функцією захисту від стеження Firefox буде блокувати багато подібних елементів, які можуть збирати інформацію про вашу поведінку в мережі.">
-<!ENTITY trackingProtection.startTour1                   "Дивитись, як це працює">
+<!ENTITY trackingProtection.startTour1                   "Подивитись, як це працює">
