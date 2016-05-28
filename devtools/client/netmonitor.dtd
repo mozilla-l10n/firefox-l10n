@@ -70,7 +70,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.response): This is the label displayed
   -  in the network details pane identifying the response tab. -->
 
-<!ENTITY netmonitorUI.tab.response        "Atsakymas">
+<!ENTITY netmonitorUI.tab.response        "Atsakas">
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->
 
@@ -121,6 +121,8 @@
 <!ENTITY netmonitorUI.footer.filterFlash  "„Flash“">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterWS): This is the label displayed
   -  in the network details footer for the "WS" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterWS  "WS">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
 
@@ -286,7 +288,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
   -  on the context menu that copies the selected item's response headers -->
 
-<!ENTITY netmonitorUI.context.copyResponseHeaders     "Kopijuoti atsakymo antraštes">
+<!ENTITY netmonitorUI.context.copyResponseHeaders     "Kopijuoti atsako antraštes">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
   -  for the Copy Response Headers menu item displayed in the context menu for a response -->
 
@@ -294,7 +296,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponse): This is the label displayed
   -  on the context menu that copies the selected response as a string -->
 
-<!ENTITY netmonitorUI.context.copyResponse "Kopijuoti atsakymą">
+<!ENTITY netmonitorUI.context.copyResponse "Kopijuoti atsaką">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRespose.accesskey): This is the access key
   -  for the Copy Response menu item displayed in the context menu for a request -->
 
@@ -344,7 +346,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.responseHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw response headers textarea -->
 
-<!ENTITY netmonitorUI.summary.rawHeaders.responseHeaders "Atsakymo antraštės:">
+<!ENTITY netmonitorUI.summary.rawHeaders.responseHeaders "Atsako antraštės">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
