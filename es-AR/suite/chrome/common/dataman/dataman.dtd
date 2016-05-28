@@ -75,9 +75,11 @@
 <!ENTITY perm.button.add.accesskey "A">
 
 <!-- password permissions -->
+<!ENTITY permpwd.UseDefault "Usar predeterminado">
 <!ENTITY permpwd.AskAlways "Preguntar siempre">
 <!ENTITY permpwd.NeverSave "Nunca guardar">
 
+<!ENTITY permpwd.host.placeholder "Ingresar nombre del servidor">
 <!ENTITY permpwd.button.add.label "Agregar">
 <!ENTITY permpwd.button.add.accesskey "A">
 
