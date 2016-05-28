@@ -18,6 +18,7 @@
 
 <!ENTITY scale.label         "Κλίμακα:">
 <!ENTITY scale.accesskey     "λ">
+<!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Σμίκρυνση στο πλάτος της σελίδας">
 <!ENTITY shrinkToFit.accesskey "υ">
@@ -54,6 +55,7 @@
 <!ENTITY footerRight.tip     "Δεξιό υποσέλιδο">
 
 <!ENTITY hfTitle             "Τίτλος">
+<!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "Ημερομηνία/Ώρα">
 <!ENTITY hfPage              "Σελίδα #">
 <!ENTITY hfPageAndTotal      "Σελίδα # από #">

@@ -22,6 +22,7 @@
 <!ENTITY devmgr.button.load.accesskey           "Φ">
 <!ENTITY devmgr.button.unload.label             "Εκφόρτωση">
 <!ENTITY devmgr.button.unload.accesskey         "κ">
+<!ENTITY devmgr.button.fips.accesskey           "ι">
 
 <!ENTITY loaddevice.info                        "Εισάγετε τις πληροφορίες για τη μονάδα που θέλετε να προσθέσετε.">
 <!ENTITY loaddevice.modname                     "Όνομα μονάδος:">
