@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Kita…">
 <!ENTITY runtimePanel_installsimulator "Įdiegti simuliatorių">
 <!ENTITY runtimePanel_noadbhelper "Įdiegti ADB pagelbiklį">
-
+<!ENTITY runtimePanel_nousbdevice "Nematote savo įrenginio?">
 <!ENTITY runtimePanel_refreshDevices_label "Atnaujinti įrenginius">
 <!-- Lense -->
 
