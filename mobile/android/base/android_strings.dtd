@@ -16,7 +16,7 @@
 <!ENTITY firstrun_data_subtext2 "ปิดภาพเพื่อลดการใช้ข้อมูลในทุกไซต์ที่คุณเยี่ยมชม">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName; อยู่เคียงข้างคุณเสมอ">
-<!ENTITY firstrun_sync_subtext "ผสานแท็บ รหัสผ่าน และอื่น ๆ ของคุณในทุกที่ที่คุณใช้งาน">
+<!ENTITY firstrun_sync_subtext "ซิงค์แท็บ รหัสผ่าน และอื่น ๆ ของคุณในทุกที่ที่คุณใช้งาน">
 <!ENTITY firstrun_signin_message "รับการเชื่อมต่อ เริ่มต้นใช้งาน">
 <!ENTITY firstrun_signin_button "เข้าสู่ระบบ Sync">
 <!ENTITY  onboard_start_button_browser "เริ่มการท่องเว็บ">
@@ -339,7 +339,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
 <!ENTITY pref_sync2 "เข้าสู่ระบบ">
-<!ENTITY pref_sync_summary2 "ผสานแท็บ ที่คั่นหน้า การเข้าสู่ระบบ ประวัติของคุณ">
+<!ENTITY pref_sync_summary2 "ซิงค์แท็บ ที่คั่นหน้า การเข้าสู่ระบบ ประวัติของคุณ">
 <!ENTITY pref_search_suggestions "แสดงคำแนะนำการค้นหา">
 <!ENTITY pref_history_search_suggestions "แสดงประวัติการค้นหา">
 <!ENTITY pref_import_options "ตัวเลือกการนำเข้า">
@@ -353,7 +353,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "ข้อมูลเว็บไซต์ออฟไลน์">
 <!ENTITY pref_private_data_siteSettings2 "การตั้งค่าไซต์">
 <!ENTITY pref_private_data_downloadFiles2 "ดาวน์โหลด">
-<!ENTITY pref_private_data_syncedTabs "แท็บที่ผสาน">
+<!ENTITY pref_private_data_syncedTabs "แท็บที่ซิงค์">
 
 <!ENTITY pref_default_browser "ทำให้เป็นเบราว์เซอร์ปริยาย">
 <!ENTITY pref_about_firefox "เกี่ยวกับ &brandShortName;">
@@ -536,7 +536,7 @@ size. -->
 
 <!ENTITY home_title "หน้าแรก &brandShortName;">
 <!ENTITY home_history_title "ประวัติ">
-<!ENTITY home_synced_devices_smartfolder "อุปกรณ์ที่ผสาน">
+<!ENTITY home_synced_devices_smartfolder "อุปกรณ์ที่ซิงค์">
 <!ENTITY home_synced_devices_number "&formatD; อุปกรณ์">
 <!ENTITY home_history_back_to2 "ย้อนกลับไปยังประวัติแบบเต็ม">
 <!ENTITY home_clear_history_button "ล้างประวัติการท่องเว็บ">
@@ -705,9 +705,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 
-<!ENTITY remote_tabs_last_synced "ผสานล่าสุด: &formatS;">
+<!ENTITY remote_tabs_last_synced "ซิงค์ล่าสุด: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!ENTITY remote_tabs_never_synced "ผสานล่าสุด: ไม่เคย">
+<!ENTITY remote_tabs_never_synced "ซิงค์ล่าสุด: ไม่เคย">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"

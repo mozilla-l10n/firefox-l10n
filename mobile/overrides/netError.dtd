@@ -25,7 +25,7 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>ตรวจสอบชื่อไฟล์สำหรับตัวพิมพ์ใหญ่เล็กหรือข้อผิดพลาดการพิมพ์อื่น ๆ</li> <li>ตรวจสอบเพื่อดูหากไฟล์ถูกย้าย เปลี่ยนชื่อ หรือลบ</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "การเข้าถึงไฟล์ถูกปฏิเสธ">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>ซึ่งอาจจะถูกลบ เคลื่อนย้าย หรือสิทธิ์ของแฟ้มได้ป้องกันการเข้าถึง</li></ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>ไฟล์อาจถูกเอาออก ย้าย หรือการอนุญาตของไฟล์อาจป้องกันการเข้าถึง</li> </ul>">
 
 <!ENTITY generic.title "อุปส์">
 <!ENTITY generic.longDesc "<p>&brandShortName; ไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางอย่าง</p>">

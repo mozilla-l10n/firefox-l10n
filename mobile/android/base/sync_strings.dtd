@@ -47,24 +47,24 @@
 <!ENTITY fxaccount_back_to_browsing "ย้อนกลับไปยังการท่องเว็บ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "ยินดีต้อนรับสู่ &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description2 "เข้าสู่ระบบเพื่อผสานแท็บ ที่คั่นหน้า การเข้าสู่ระบบ และอื่น ๆ ของคุณ">
+<!ENTITY fxaccount_getting_started_description2 "เข้าสู่ระบบเพื่อซิงค์แท็บ ที่คั่นหน้า การเข้าสู่ระบบ และอื่น ๆ ของคุณ">
 <!ENTITY fxaccount_getting_started_get_started "เริ่มต้นใช้งาน">
 <!ENTITY fxaccount_getting_started_old_firefox "กำลังใช้งาน &syncBrand.shortName.label; รุ่นเก่ากว่า?">
 
 <!ENTITY fxaccount_status_signed_in_as "เข้าสู่ระบบเป็น">
 <!ENTITY fxaccount_status_manage_account "จัดการบัญชี">
 <!ENTITY fxaccount_status_auth_server "เซิร์ฟเวอร์บัญชี">
-<!ENTITY fxaccount_status_sync_now "ผสานตอนนี้">
-<!ENTITY fxaccount_status_syncing2 "กำลังผสาน…">
+<!ENTITY fxaccount_status_sync_now "ซิงค์ตอนนี้">
+<!ENTITY fxaccount_status_syncing2 "กำลังซิงค์…">
 <!ENTITY fxaccount_status_device_name "ชื่ออุปกรณ์">
-<!ENTITY fxaccount_status_sync_server "เซิร์ฟเวอร์การผสาน">
+<!ENTITY fxaccount_status_sync_server "เซิร์ฟเวอร์ Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ถูกเปิดใช้งาน">
 <!ENTITY fxaccount_status_needs_verification2 "บัญชีของคุณจำเป็นต้องได้รับการยืนยัน แตะเพื่อส่งอีเมลสำหรับยืนยันตัวตนใหม่">
 <!ENTITY fxaccount_status_needs_credentials "ไม่สามารถเชื่อมต่อ แตะเพื่อเข้าสู่ระบบ">
 <!ENTITY fxaccount_status_needs_upgrade "คุณจำเป็นต้องปรับรุ่น &brandShortName; เพื่อเข้าสู่ระบบ">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “ซิงค์ข้อมูลอัตโนมัติ” ใน การตั้งค่า Android &gt; การใช้ข้อมูล">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ผสานโดยอัตโนมัติ ให้เปิด “ซิงค์ข้อมูลอัตโนมัติ” ในเมนู การตั้งค่า Android &gt; บัญชี">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ซิงค์โดยอัตโนมัติ ให้เปิด “ซิงค์ข้อมูลอัตโนมัติ” ใน การตั้งค่า Android &gt; การใช้ข้อมูล">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "ตั้งค่า &syncBrand.shortName.label; แล้ว แต่ยังไม่ซิงค์โดยอัตโนมัติ ให้เปิด “ซิงค์ข้อมูลอัตโนมัติ” ในเมนู การตั้งค่า Android &gt; บัญชี">
 <!ENTITY fxaccount_status_needs_finish_migrating "แตะเพื่อเข้าสู่ระบบบัญชี Firefox ใหม่ของคุณ">
 <!ENTITY fxaccount_status_bookmarks "ที่คั่นหน้า">
 <!ENTITY fxaccount_status_history "ประวัติ">
@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_remove_account "ตัดการเชื่อมต่อ&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "เอาบัญชี Firefox ออก?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; จะหยุดการผสานกับบัญชีของคุณ แต่จะไม่ลบข้อมูลการท่องเว็บใด ๆ ของคุณบนอุปกรณ์นี้">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; จะหยุดการซิงค์กับบัญชีของคุณ แต่จะไม่ลบข้อมูลการท่องเว็บใด ๆ ของคุณบนอุปกรณ์นี้">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "เอาบัญชี Firefox &formatS; ออกแล้ว">
