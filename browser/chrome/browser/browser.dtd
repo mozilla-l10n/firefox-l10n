@@ -170,6 +170,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Vis alle bogmærker">
 <!ENTITY recentBookmarks.label "Seneste bogmærker">
 <!ENTITY showAllBookmarks2.label "Organiser bogmærker">
+<!ENTITY otherBookmarksCmd.label "Andre bogmærker">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bogmærker">
 
 <!ENTITY backCmd.label                "Tilbage">
@@ -724,6 +725,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Synkroniserede faneblade">
 
 <!ENTITY syncedTabs.sidebar.label              "Synkroniserede faneblade">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Du har ingen synkroniserede faneblade">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Vil du gerne se faneblade fra dine andre enheder her?">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Log ind på Firefox fra dine andre enheder for at se deres faneblade her.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Log ind for at se en liste med faneblade fra dine andre enheder.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ingen åbne faneblade">
