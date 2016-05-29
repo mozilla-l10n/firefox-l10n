@@ -81,7 +81,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "เข้าสู่ระบบ">
 <!ENTITY welcome.createAccount.label "สร้างบัญชี">
 
-<!ENTITY welcome.useOldSync.label "ใช้ Sync รุ่นเก่าอยู่?">
+<!ENTITY welcome.useOldSync.label "กำลังใช้งาน Sync รุ่นเก่ากว่า?">
 
 <!ENTITY signedOut.caption            "นำเว็บไปกับคุณ">
 <!ENTITY signedOut.description        "ประสานที่คั่นหน้า ประวัติ แท็บ รหัสผ่าน ส่วนเสริม และการตั้งค่าระหว่างอุปกรณ์ทั้งหมดของคุณ">
