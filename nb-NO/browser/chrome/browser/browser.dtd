@@ -168,7 +168,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Abonner på denne siden …">
 <!ENTITY addCurPagesCmd.label "Bokmerk alle faner …">
 <!ENTITY showAllBookmarks2.label "Vis alle bokmerker">
-
+<!ENTITY recentBookmarks.label "Nylig bokmerket">
 <!ENTITY otherBookmarksCmd.label "Andre bokmerker">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bokmerker">
 
@@ -270,7 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY userContextShopping.label        "Shopping">
 <!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "Nytt vindu">
-
+<!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nytt privat vindu">
 <!ENTITY newPrivateWindow.accesskey "r">
@@ -287,9 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Klipp ut">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "u"> 
-
-
-
+<!ENTITY copyCmd.label            "Kopier">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Lim inn">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "L"> 
@@ -306,6 +306,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Slett nylig historikk …">
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Vis"> 
 <!ENTITY viewMenu.accesskey       "V"> 
@@ -347,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Ingen synkroniserte faner … ennå!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Vil du se faner fra de andre enhetene dine her?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synkroniseringsinnstillinger">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logg inn for å vise en liste over faner fra andre enheter.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logg inn på Sync">
@@ -407,7 +409,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  -->
 
 <!ENTITY searchFocus.commandkey       "k">
-
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
@@ -701,7 +703,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Dette nettstedet inneholder innhold som ikke er overført sikkert (som f.eks. skript), og tilkoblingen til nettstedet er derfor ikke privat.">
 <!ENTITY identity.description.activeLoaded2 "Informasjon du sender til dette nettstedet kan vises av andre (som passord, meldinger, kredittkort, osv.).">
 
-
+<!ENTITY identity.enableMixedContentBlocking.label "Slå på beskyttelse">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "S">
 <!ENTITY identity.disableMixedContentBlocking.label "Slå av beskyttelse">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "a">
 <!ENTITY identity.learnMore "Les mer">
@@ -723,8 +726,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Synkroniserte faner">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Logg inn på Firefox fra andre enheter for å vise deres faner her.">
-
-
+<!ENTITY syncedTabs.sidebar.noclients.title    "Ingen synkroniserte faner … ennå!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Vil du se faner fra de andre enhetene dine her?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Logg inn for å vise en liste over faner fra andre enheter.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ingen åpne faner">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Åpne &syncBrand.shortName.label;-innstillinger">
@@ -732,17 +735,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Skru på fane-synkronisering for å vise en liste over faner fra dine andre enheter.">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Åpne">
+<!ENTITY syncedTabs.context.open.accesskey                   "p">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Åpne i ny fane">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "f">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Åpne lenke i nytt vindu">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "Å">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Åpne lenke i nytt privat vindu">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bokmerk denne fanen …">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Kopier">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
