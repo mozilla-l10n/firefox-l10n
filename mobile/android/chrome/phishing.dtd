@@ -15,7 +15,7 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "Villeiande nettside!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Denne nettstaden på <span id='phishing_sitename'/> er rapportert som ein åtaksnettstad, og er blokkert basert på tryggingsinnstillingane dine.">
-
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Villeiande sider er laga for å få deg til å gjera noko farleg, slik som å installera programvare, eller gje frå deg personleg informasjon, som passord, telefonnummer eller kredittkortnummer.</p><p>Å skriva inn noko på denne nettsida kan føra til identitetstjuveri eller annan svindel.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Rapportert uynskt programvareside!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
