@@ -8,7 +8,7 @@
 
 <!ENTITY privateBrowsing.title                           "Privat nettlesing">
 <!ENTITY privateBrowsing.title.tracking                  "Privat nettlesing med sporingsvern">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Når du surfar i eit privat fönster, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Når du surfar i eit privat vindauge, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "lagrar ikkje">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "besøkte sider">
@@ -22,7 +22,7 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Bokmerke">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privat nettlesing ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "gjer deg ikkje anonym">
-<!ENTITY aboutPrivateBrowsing.note.after                 " på nettet. Arbeidsgjevaren eller Internettleverandøren din kan framleis sjå kva for sider du vitjar..">
+<!ENTITY aboutPrivateBrowsing.note.after                 " på nettet. Arbeidsgjevaren eller Internettleverandøren din kan framleis sjå kva for sider du vitjar.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Les meir om">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Privat nettlesing">
 
