@@ -65,7 +65,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Apopy mboyvegua recha">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Monguatia…">
+<!ENTITY printCmd.label "Mbokuatia…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
@@ -287,7 +287,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Kytĩ">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "Monguatia">  
+<!ENTITY copyCmd.label            "Mbohasarã">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "M"> 
 <!ENTITY pasteCmd.label           "Mboja">  
@@ -508,7 +508,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Kora ñongatu pyahu…">
 <!ENTITY saveFrameCmd.accesskey       "F">
-<!ENTITY printFrameCmd.label          "Kora monguatia…">
+<!ENTITY printFrameCmd.label          "Kora mbokuatia…">
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "Joajuha ñongatu pyahu…">
 <!ENTITY saveLinkCmd.accesskey        "k">
@@ -530,17 +530,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "Mboguejyrã'i moñemi">
 <!ENTITY hidePluginCmd.accesskey      "H">
-<!ENTITY copyLinkCmd.label            "Joajuha rape monguatia">
+<!ENTITY copyLinkCmd.label            "Joajuha rape mbohasarã">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "Mba'era'ãnga rape monguatia">
+<!ENTITY copyImageCmd.label           "Mba'era'ãnga rape mbohasarã">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "Mba'era'ãnga monguatia">
+<!ENTITY copyImageContentsCmd.label   "Mba'era'ãnga mbohasarã">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY copyVideoURLCmd.label        "Ta'ãngamýi rape monguatia">
+<!ENTITY copyVideoURLCmd.label        "Ta'ãngamýi rape mbohasarã">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Mba'epu rape monguatia">
+<!ENTITY copyAudioURLCmd.label        "Mba'epu rape mbohasarã">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Ñandutiveve rape monguatia">
+<!ENTITY copyEmailCmd.label           "Maranduveve rape mbohasarã">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Ko kora">
 <!ENTITY thisFrameMenu.accesskey          "h">
@@ -745,7 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Emongurusu ko tendayke…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-<!ENTITY syncedTabs.context.copy.label                       "Monguatia">
+<!ENTITY syncedTabs.context.copy.label                       "Mbohasarã">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 

@@ -8,7 +8,7 @@
 <!ENTITY syncKey.keepItSecret.description "Nemba'ete &syncBrand.fullName.label; pegua oñemboheko omo'ã hag̃ua neremiñemi. Ko ñe'ẽñemi'ỹre, nde guerahakuaa heta ary oimeraẽva oikuaaséva marandu nemba'eteéva. Nde añoite ko eguereko pe ñe'ẽñemi. Kóicha oipota &syncBrand.fullName.label; mba'ekuaarã.">
 <!ENTITY syncKey.keepItSafe.heading       "Eguereko jeroviahápe">
 <!ENTITY syncKey.keepItSafe1.description  "Aníke rehundi ko ñe'ẽñemi.">
-<!ENTITY syncKey.keepItSafe2.description  " Noroñongatúi mba'eveichagua neñe'ẽñemi monguatiapyre (he'iséva ndorojapoiha kañyhápe!) péicharõ ">
+<!ENTITY syncKey.keepItSafe2.description  " Noroñongatúi ne ñe'ẽñemi (he'iséva ndorojapoiha kañyhápe!) péicharõ ">
 <!ENTITY syncKey.keepItSafe3.description  "ndaikatúi roipytyvõ eguerujey hag̃ua">
 <!ENTITY syncKey.keepItSafe4a.description " okañýramo. Eikotevẽta eipuru ko ñe'ẽñemi eikese vove peteĩ mba'e'oka pyahu &syncBrand.fullName.label; peguápe.">
 <!ENTITY syncKey.findOutMore1.label       "Eikuaave &syncBrand.fullName.label; rehegua ha nde remiñemi amo ">
