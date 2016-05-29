@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiketak">
 <!ENTITY bookmarks.folder.toolbar.label "Laster-marken tresna-barra">
-
+<!ENTITY bookmarks.folder.other.label "Beste laster-markak">
 <!ENTITY bookmarks.folder.desktop.label "Laster-marka guztiak">
 <!ENTITY bookmarks.folder.mobile.label "Mugikorreko laster-markak">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -75,7 +75,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos2 "Zerbitzuaren baldintzak">
+<!ENTITY fxaccount_status_linkprivacy2 "Pribatutasun-oharra">
 <!ENTITY fxaccount_status_more "Gehiago&ellipsis;">
 <!ENTITY fxaccount_remove_account "Deskonektatu&ellipsis;">
 
