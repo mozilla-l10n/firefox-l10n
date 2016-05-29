@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "파일을 찾을 수 없음">
 <!ENTITY fileNotFound.longDesc "<ul><li>해당 항목의 이름이 바뀌거나, 이동되거나, 재배치되지는 않았습니까?</li><li>주소 상에 철자, 대소문자 구분을 비롯한 오타가 없습니까?</li><li>해당 요청 항목에 대한 충분한 접근 권한을 가지고 있습니까?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "파일 접근이 거부됨">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>삭제 또는 이동되었거나 파일 권한이 접근을 막고 있습니다.</li></ul>">
 
 <!ENTITY generic.title "요청을 완료할 수 없음">
 <!ENTITY generic.longDesc "<p>현재 이 문제 또는 오류에 대한 추가적인 정보를 사용할 수 없습니다.</p>">
@@ -86,5 +88,7 @@
 <!ENTITY remoteXUL.title "원격 XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>현재 문제를 해결하려면 웹 사이트 관리자에게 연락하시기 바랍니다.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "연결이 안전하지 않음">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>가 사용하는 보안 기술은 오래되어서 공격에 노출될 수 있습니다. 안전하다고 생각된 정보가 공격자에 의해 쉽게 노출될 수 있습니다. 사이트를 방문하기 전에 웹사이트의 관리자가 서버를 고쳐야 합니다.</p><p>오류 코드: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
