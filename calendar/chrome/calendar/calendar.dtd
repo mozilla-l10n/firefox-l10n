@@ -293,8 +293,8 @@
 <!ENTITY calendar.alarm.snoozefor.label             "Puspè regurdar en" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Per tuts puspè regurdar en" >
 <!ENTITY calendar.alarm.title.label                 "Promemorias dal chalender" >
-<!ENTITY calendar.alarm.dismiss.label               "Serrar" >
-<!ENTITY calendar.alarm.dismissall.label            "Serrar tut" >
+<!ENTITY calendar.alarm.dismiss.label               "Sbittar" >
+<!ENTITY calendar.alarm.dismissall.label            "Sbittar tut" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 minutas" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 minutas" >
