@@ -79,7 +79,7 @@
 <!ENTITY syncDeviceName.label       "ชื่ออุปกรณ์:">
 <!ENTITY syncDeviceName.accesskey   "ช">
 
-<!ENTITY syncMy.label               "ผสานข้อมูล">
+<!ENTITY syncMy.label               "ซิงค์">
 <!ENTITY engine.bookmarks.label     "ที่คั่นหน้า">
 <!ENTITY engine.bookmarks.accesskey "ค">
 <!ENTITY engine.tabs.label          "แท็บ">

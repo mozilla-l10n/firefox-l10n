@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY syncCustomize.dialog.title       "เลือกการซิงก์">
+<!ENTITY syncCustomize.dialog.title       "เลือกการซิงค์">
 <!ENTITY syncCustomize.acceptButton.label "เริ่ม">
 
-<!ENTITY syncCustomize.title              "คุณต้องการซิงก์อะไรบ้าง?">
+<!ENTITY syncCustomize.title              "คุณต้องการซิงค์อะไรบ้าง?">
 <!ENTITY syncCustomize.description        "คุณสามารถเปลี่ยนแปลงส่วนที่เลือกนี้ใน ตัวเลือก">
 <!ENTITY syncCustomizeUnix.description    "คุณสามารถเปลี่ยนแปลงส่วนที่เลือกนี้ใน ปรับแต่ง">
 <!--

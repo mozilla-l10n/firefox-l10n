@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "เชื่อมต่อ &syncBrand.shortName.label; ใหม่">
 <!ENTITY fxaUnverified.label "ยืนยันความถูกต้องของบัญชี">
 <!ENTITY syncStartPanel2.heading "เปิดใช้งาน &syncBrand.shortName.label; แล้ว">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; จะทำการซิงก์ในไม่ช้า">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; จะเริ่มการซิงค์ในไม่ช้า">
 
 
 <!ENTITY fullScreenMinimize.tooltip "ย่อหาย">
@@ -338,18 +338,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "ดูแถบข้างประวัติ">
 <!ENTITY appMenuHelp.tooltip "เปิดเมนูช่วยเหลือ">
 
-<!ENTITY appMenuRemoteTabs.label "แท็บที่ผสาน">
+<!ENTITY appMenuRemoteTabs.label "แท็บที่ซิงค์">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "ไม่มีแท็บที่เปิดอยู่">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "เปิดการผสานแท็บเพื่อดูรายการแท็บจากอุปกรณ์อื่นๆ ของคุณ">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "เปิดการซิงค์แท็บเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "ยังไม่มีแท็บที่ซิงค์…!">
 
-<!ENTITY appMenuRemoteTabs.openprefs.label "ปรับค่าการผสาน">
+<!ENTITY appMenuRemoteTabs.openprefs.label "การตั้งค่า Sync">
 
 <!ENTITY appMenuRemoteTabs.signin.label "เข้าสู่ระบบ Sync">
 
@@ -721,18 +722,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "แท็บเบราว์เซอร์">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu3.label     "แท็บที่ผสาน">
+<!ENTITY syncTabsMenu3.label     "แท็บที่ซิงค์">
 
-<!ENTITY syncedTabs.sidebar.label              "แท็บที่ผสาน">
+<!ENTITY syncedTabs.sidebar.label              "แท็บที่ซิงค์">
 
-
+<!ENTITY syncedTabs.sidebar.noclients.title    "ยังไม่มีแท็บที่ซิงค์…!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "ต้องการเห็นแท็บจากอุปกรณ์อื่นๆ ที่นี่ไหม?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ลงชื่อเข้าใช้เพื่อดูรายการแท็บจากอุปกรณ์อื่นๆ ของคุณ">
 <!ENTITY syncedTabs.sidebar.notabs.label       "ไม่มีแท็บที่เปิดอยู่">
-
+<!ENTITY syncedTabs.sidebar.openprefs.label    "เปิดการตั้งค่า &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "เปิดการผสานแท็บเพื่อดูรายการแท็บจากอุปกรณ์อื่นๆ ของคุณ">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "เปิดการซิงค์แท็บเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 
 
 
@@ -751,11 +752,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "ลงชื่อเข้าใช้ &syncBrand.shortName.label;">
 <!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "ผสานข้อมูลเดี๋ยวนี้">
-<!ENTITY syncSyncNowItem.accesskey    "ผ">
-<!ENTITY syncReAuthItem.label         "เชื่อมต่อกับ &syncBrand.shortName.label; อีกครั้ง">
+<!ENTITY syncSyncNowItem.label        "ซิงค์ตอนนี้">
+<!ENTITY syncSyncNowItem.accesskey    "ซ">
+<!ENTITY syncReAuthItem.label         "เชื่อมต่อกับ &syncBrand.shortName.label; อีกครั้ง…">
 <!ENTITY syncReAuthItem.accesskey     "เ">
-<!ENTITY syncToolbarButton.label      "ผสาน">
+<!ENTITY syncToolbarButton.label      "ซิงค์">
 
 <!ENTITY socialToolbar.title        "ปุ่มแถบเครื่องมือสังคม">
 
