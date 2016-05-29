@@ -4,6 +4,7 @@
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
+<!ENTITY search_empty_title2 "Dest bi lêgerînê bike">
 
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
