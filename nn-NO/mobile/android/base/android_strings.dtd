@@ -482,7 +482,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Forstørr små område">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Forstørr lenker og skjemafelt når du rører nær dei.">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -774,5 +774,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Legg til på startskjerm">
 
 <!ENTITY helper_first_offline_bookmark_title "Les fråkopla">
-
+<!ENTITY helper_first_offline_bookmark_message "Finn innhaldet i leselistebokmerka dine, til og med fråkopla.">
 <!ENTITY helper_first_offline_bookmark_button "Gå til bokmerke">
