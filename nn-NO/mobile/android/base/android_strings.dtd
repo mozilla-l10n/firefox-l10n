@@ -174,7 +174,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "TIPS: Legg til ein nettstad i lista di over søkjetilbydarar ved å langtrykkje på søkjefeltet og så trykkje på &formatI; ikonet.">
 <!ENTITY pref_category_advanced "Avansert">
-
+<!ENTITY pref_category_advanced_summary3 "Tilbakestill faner datalagrar, utvuklarverktøy">
 <!ENTITY pref_category_notifications "Varslingar">
 <!ENTITY pref_category_notifications_summary "Nye funksjonar, nettstadoppdateringar">
 <!ENTITY pref_content_notifications "Nettstadoppdateringar">
@@ -225,6 +225,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Påslått, med unntak for tredjeparts">
 <!ENTITY pref_cookies_disabled "Avslått">
 
+<!ENTITY pref_category_data_saver "Datalagrar">
 <!ENTITY pref_category_media "Media">
 <!ENTITY pref_category_developer_tools "Utviklarverktøy">
 
