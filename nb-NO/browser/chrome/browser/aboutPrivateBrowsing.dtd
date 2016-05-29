@@ -7,24 +7,24 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "Å">
 
 <!ENTITY privateBrowsing.title                           "Privat nettlesing">
-
-
-
-
-
+<!ENTITY privateBrowsing.title.tracking                  "Privat nettlesing med sporingsvern">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Når du surfer i et privat vindu, vil Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ikke lagre">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "besøkte nettsider">
 <!ENTITY aboutPrivateBrowsing.info.searches              "Søk">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "Infokapsler">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Midlertidige filer">
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "vil lagre">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " dine:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Nedlastinger">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Bokmerker">
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.note.before                "Privat nettlesing ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "gjør deg ikke anonym">
+<!ENTITY aboutPrivateBrowsing.note.after                 " på nettet. Arbeidsgiveren eller Internettleverandøren din kan fortsatt se hvilke sider du besøker.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Les mer om">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Privat nettlesing">
 
 <!ENTITY trackingProtection.title                        "Sporingsbeskyttelse">
 
