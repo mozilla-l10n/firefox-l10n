@@ -19,23 +19,27 @@
 <!ENTITY dnsNotFound.title "Nerastas serveris">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Įsitikinkite, kad adrese nėra rašybos klaidų, tokių kaip <strong>ww</strong>.example.com vietoj <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Ieškoti</button> </div> <li>Jeigu nepavyksta įkelti jokio tinklalapio, patikrinkite savo įrenginio duomenų ar belaidį ryšį. <button id='wifi'>Įjungti belaidį ryšį</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Nerastas failas">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Patikrinkite, ar failo varde nėra rinkimo klaidų, pvz., didžiosios raidės pakeistos mažosiomis.</li> <li>Patikrinkite, ar failas nebuvo perkeltas, pervardytas ar pašalintas.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Priėjimas prie failo uždraustas">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Jis galėjo būti pašalintas, perkeltas arba priėjimą riboja failo leidimai.</li> </ul>">
 
 <!ENTITY generic.title "Klaida">
+<!ENTITY generic.longDesc "<p>„&brandShortName;“ nepavyko įkelti šio tinklalapio dėl nežinomos priežasties.</p>">
 
-
+<!ENTITY malformedURI.title "Neteisingas adresas">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Saityno adresai paprastai turi tokį pavidalą: <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Ieškoti</button> </div> <li>Įsitikinkite, kad naudojate pasviruosius brūkšnius (t. y. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Ryšys buvo nutrauktas">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumento galiojimas baigėsi">
-
+<!ENTITY notCached.longDesc "<p>Prašomo dokumento programos „&brandShortName;“ podėlyje nėra.</p><ul><li>Saugumo sumetimais „&brandShortName;“ jautrių dokumentų automatiškai iš naujo neatsiunčia.</li><li>Jeigu norite dokumentą iš svetainės atsiųsti iš naujo, spustelėkite „Bandyti dar kartą“.</li></ul>">
 
 <!ENTITY netOffline.title "Dirbama neprisijungus prie tinklo">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -54,6 +58,7 @@
 <!ENTITY netTimeout.title "Baigėsi prisijungimui skirtas laikas">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "Neatpažintas adresas">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Gali būti, kad šiam adresui atverti reikia įdiegti papildomą programinę įrangą.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Įgaliotasis serveris atmeta ryšį">
@@ -64,6 +69,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Patikrinkite, ar naršyklėje nurodytos teisingos įgaliotojo serverio nuostatos.</li> <li>Patikrinkite, ar šis įrenginys turi veikiantį ryšį su belaidžiu tinklu. <button id='wifi'>Įjungti belaidį tinklą</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "Neteisingas tinklalapio peradresavimas">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Ši klaida galėjo įvykti dėl to, kad naršyklė nepriima svetainės slapukų.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Netikėtas serverio atsakas">
@@ -73,7 +79,7 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Tinklalapis, kurį bandote atverti, negali būti parodytas, nes nepavyko patikrinti gautų duomenų autentiškumo.</li> <li>Prašom pranešti apie šią problemą svetainės savininkams.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Saugaus ryšio užmegzti nepavyko">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ši problema gali kilti dėl blogai parinktų serverio nuostatų arba dėl bandymo apsimesti šiuo serveriu.</li> <li>Jei prie šio serverio sėkmingai jungėtės anksčiau, šis nesklandumas gali būti laikinas. Bandykite prisijungti vėliau.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
