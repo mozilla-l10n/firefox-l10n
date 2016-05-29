@@ -12,7 +12,7 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ذخیره نمی‌کند">
 
 <!ENTITY aboutPrivateBrowsing.info.visited               "صفحات بازدید شده">
-
+<!ENTITY aboutPrivateBrowsing.info.searches              "جست‌وجوها">
 
 
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "فایرفاکس ">

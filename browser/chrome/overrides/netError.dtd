@@ -28,8 +28,9 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>ممکن است حذف،‌منتقل شده باشد یا مجوز‌های آن از دسترسی جلوگیری‌ می‌کند.</li></ul>">
 
 <!ENTITY generic.title "متأسفیم.">
+<!ENTITY generic.longDesc "<p>&brandShortName; به دلایلی نمی‌توان این صفحه را بارگیری کرد.</p>">
 
-
+<!ENTITY malformedURI.title "نشانی معتبر نیست">
 
 
 <!ENTITY netInterrupt.title "اتصال مختل شد">
