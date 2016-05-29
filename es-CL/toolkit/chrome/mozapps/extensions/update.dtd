@@ -26,7 +26,7 @@
 <!ENTITY  found.disabledXPinstall.label   "Estas actualizaciones no pueden aplicarse porque la instalación de software
                                            está desactivada en este momento. Puedes cambiar esta
                                            configuración debajo.">
-<!ENTITY  found.enableXPInstall.label     "Permitir que los sitios web instalen software">
+<!ENTITY  found.enableXPInstall.label     "Permitir que los sitios instalen software">
 <!ENTITY  found.enableXPInstall.accesskey "a">
 
 <!ENTITY  installing.wizard.title         "Instalando complementos compatibles">

@@ -72,7 +72,7 @@
 <!ENTITY rights.locationawarebrowsing-term1a "En la barra de direcciones ingrese ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Ingrese geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term3 "Haga doble clic en la preferencia geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Haz doble clic en la preferencia geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term4 "La navegación basada en ubicación ahora está deshabilitada">
 
 <!-- intro paragraph for unbranded builds -->
