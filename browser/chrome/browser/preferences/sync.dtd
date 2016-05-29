@@ -22,7 +22,7 @@
 
 <!ENTITY pairDevice.label             "เชื่อมโยงอุปกรณ์">
 
-<!ENTITY syncMy.label               "ผสานข้อมูล">
+<!ENTITY syncMy.label               "ซิงค์">
 <!ENTITY engine.bookmarks.label     "ที่คั่นหน้า">
 <!ENTITY engine.bookmarks.accesskey "ค">
 <!ENTITY engine.tabs.label          "แท็บ">
@@ -89,7 +89,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create  "สร้างบัญชี">
 <!ENTITY signedOut.accountBox.signin  "เข้าสู่ระบบ">
 
-<!ENTITY signedIn.engines.label       "ผสานข้อมูลอุปกรณ์ของคุณทั้งหมด">
+<!ENTITY signedIn.engines.label       "ซิงค์ระหว่างอุปกรณ์ทั้งหมด">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
@@ -105,4 +105,4 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              " เพื่อซิงก์ข้อมูลกับอุปกรณ์เคลื่อนที่ของคุณ">
+<!ENTITY mobilePromo3.end              " เพื่อซิงค์กับอุปกรณ์มือถือของคุณ">
