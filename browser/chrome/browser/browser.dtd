@@ -679,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY identity.connectionSecure "Connexion sécurisée">
 <!ENTITY identity.connectionNotSecure "Connexion non sécurisée">
 <!ENTITY identity.connectionFile "Cette page est stockée sur votre ordinateur.">
-<!ENTITY identity.connectionVerified1 "Vous êtes connecté de façon sécurisée à ce site, dont le détenteur est :">
+<!ENTITY identity.connectionVerified2 "Vous êtes connecté de façon sécurisée à ce site, dont le détenteur est :">
 <!ENTITY identity.connectionInternal "Ceci est une page sécurisée de &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Les identifiants saisis sur cette page pourraient être compromis.">
 

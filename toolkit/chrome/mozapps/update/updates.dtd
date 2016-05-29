@@ -63,9 +63,9 @@
 <!ENTITY  finishedBackground.more         "La mise à jour sera installée au prochain démarrage de &brandShortName;. Vous pouvez
                                            redémarrer &brandShortName; maintenant, ou continuer votre travail et redémarrer plus tard.">
 
-<!ENTITY  installed.title                 "Mise à jour installée">
-<!ENTITY  installed.intro                 "La mise à jour a été installée avec succès.">
-<!ENTITY  whatsnew.label                  "En savoir plus sur les nouveautés‪…">
+<!ENTITY  finishedBackground.moreElevated "Cette mise à jour nécessite des privilèges administrateur. La mise à jour sera installée au
+                                           prochain démarrage de &brandShortName;. Vous pouvez redémarrer &brandShortName; maintenant,
+                                           continuer votre travail et redémarrer plus tard, ou refuser cette mise à jour.">
 
 <!ENTITY  update.details.label            "Détails">
 <!ENTITY  update.installedOn.label        "Installé(e) le :">
