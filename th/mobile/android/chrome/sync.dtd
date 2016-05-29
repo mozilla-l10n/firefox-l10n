@@ -9,7 +9,7 @@
 <!ENTITY sync.details               "รายละเอียด">
 <!ENTITY sync.deviceName            "อุปกรณ์นี้">
 <!ENTITY sync.disconnect            "ตัดการเชื่อมต่อ">
-<!ENTITY sync.syncNow               "ผสานตอนนี้">
+<!ENTITY sync.syncNow               "ซิงค์ตอนนี้">
 
 <!ENTITY sync.setup.title           "เชื่อมต่อกับ Sync">
 <!ENTITY sync.setup.pair            "เพื่อเปิดใช้งาน เลือก &quot;จับคู่อุปกรณ์&quot; บนอุปกรณ์อื่นของคุณ">
