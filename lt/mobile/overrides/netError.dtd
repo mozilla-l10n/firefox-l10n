@@ -83,6 +83,8 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY sharedLongDesc3 "<ul> <li>Ši svetainė laikinai nepasiekiama arba yra per daug apkrauta. Šiek tiek palaukite ir bandykite prisijungti iš naujo.</li> <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite šio įrenginio ryšį su belaidžiu arba duomenų tinklu. <button id='wifi'>Įjungti belaidį tinklą</button> </li> </ul>">
+
 <!ENTITY cspBlocked.title "Užblokuota dėl saugumo politikos">
 <!ENTITY cspBlocked.longDesc "<p>„&brandShortName;“ neleido įkelti šio tinklalapio, nes jo saugumo politika neleidžia turinio įterpti nurodytuoju būdu.</p>">
 
@@ -108,9 +110,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Papildoma informacija: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Jūsų ryšys nėra saugus">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Papildoma informacija: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "Jūsų ryšys nėra saugus">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> naudoja saugumo technologiją, kuri yra pasenusi ir pažeidžiama. Piktavalis lengvai galėtų pamatyti informaciją, kuri jums atrodė saugi. Kol svetainės administratorius jos nesutvarkys, negalėsite į šią svetainę užeiti.</p><p>Klaidos kodas: „NS_ERROR_NET_INADEQUATE_SECURITY“</p>">
