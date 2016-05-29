@@ -156,7 +156,7 @@
 <!ENTITY pref_category_accessibility "Tilgjenge">
 <!ENTITY pref_category_accessibility_summary2 "Tekststorleik, forstørring, taleinndata">
 <!ENTITY pref_category_privacy_short "Personvern">
-
+<!ENTITY pref_category_privacy_summary4 "Sporing, innloggingar, dataval">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Om &brandShortName;, OSS, tilbakemelding">
 <!ENTITY pref_category_datareporting "Dataval">
@@ -172,6 +172,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "TIPS: Legg til ein nettstad i lista di over søkjetilbydarar ved å langtrykkje på søkjefeltet og så trykkje på &formatI; ikonet.">
 <!ENTITY pref_category_advanced "Avansert">
 
 <!ENTITY pref_category_notifications "Varslingar">
