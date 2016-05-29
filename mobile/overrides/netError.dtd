@@ -24,7 +24,8 @@
 <!ENTITY fileNotFound.title "Fann ikkje fila">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontroller filnamnet for store/små bokstavar, eller andre skrivefeil.</li> <li>Kontroller om fila er flytta, fått nytt namn eller er sletta.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Tilgang til fila vart nekta">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Fila kan ha vorte flytta, fjerna, eller så hindrar filrettane tilgang.</li> </ul>">
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>&brandShortName; kan av ukjend grunn ikkje lasta denne sida.</p>">
@@ -114,5 +115,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Avansert info: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "Sambandet ditt er ikkje trygt">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
