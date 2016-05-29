@@ -447,7 +447,7 @@
 <!ENTITY windowMenu.label "Vindauge">
 <!-- Tools Menu -->
 
-<!ENTITY tasksMenu.label "Verkty">
+<!ENTITY tasksMenu.label "Verktøy">
 <!ENTITY tasksMenu.accesskey "e">
 <!ENTITY messengerCmd.label "E-post og nyhendegrupper">
 <!ENTITY messengerCmd.accesskey "E">
