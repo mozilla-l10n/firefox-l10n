@@ -63,7 +63,7 @@
 <!ENTITY pairDevice.dialog.description.label "เปิดการใช้งานบนอุปกรณ์ใหม่ของคุณ โดยไปที่ตัวเลือก &quot;ติดตั้ง Sync&quot; บนอุปกรณ์ของคุณ">
 <!ENTITY addDevice.dialog.enterCode.label   "กรอกรหัสที่ได้จากอุปกรณ์:">
 <!ENTITY addDevice.dialog.tryAgain.label    "โปรดลองอีกครั้ง">
-<!ENTITY addDevice.dialog.successful.label  "เพิ่มอุปกรณ์เรียบร้อยแล้ว การผสานข้อมูลในครั้งแรกอาจใช้เวลาหลายนาที และจะเสร็จสิ้นในการทำงานเบื้องหลัง">
+<!ENTITY addDevice.dialog.successful.label  "เพิ่มอุปกรณ์สำเร็จ การประสานในครั้งแรกอาจใช้เวลาหลายนาที และจะเสร็จสิ้นในเบื้องหลัง">
 <!ENTITY addDevice.dialog.recoveryKey.label     "คุณต้องกรอกกุญแจกู้ข้อมูลเพื่อเปิดใช้อุปกรณ์ของคุณ โปรแกรมพิมพ์หรือบันทึกกุญแจนี้เพื่อความง่ายต่อการนำติดตัว">
 <!ENTITY addDevice.dialog.connected.label   "อุปกรณ์เชื่อมต่อแล้ว">
 <!-- Existing Account Page 2: Manual Login -->
