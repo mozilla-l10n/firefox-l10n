@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "Kartais galima paspartinti tinklalapių įkėlimą, perkeliant">
 <!ENTITY csscoverage.optimize.body2 "gaires į pirminio teksto pabaigą, o failo antraštės dalyje sukuriant">
-
+<!ENTITY csscoverage.optimize.body3 "gairę su įtaisytuoju stiliumi, jame aprašant taisykles, reikalingas dar prieš įvykstant „load“ įvykiui. Štai stiliaus aprašai, kurių jums prireiks:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 
