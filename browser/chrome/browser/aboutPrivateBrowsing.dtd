@@ -10,21 +10,21 @@
 <!ENTITY privateBrowsing.title.tracking                  "مرور ناشناس با امکان محافظت در برابر ردگیری‌ها">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "هنگامی که شما در یک پنجره خصوصی شروع به مرور می‌کنید، فایرفاکس ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ذخیره نمی‌کند">
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "صفحات بازدید شده">
 <!ENTITY aboutPrivateBrowsing.info.searches              "جست‌وجوها">
-
-
+<!ENTITY aboutPrivateBrowsing.info.cookies               "کوکی‌ها">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "پرونده‌های موقتی">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "فایرفاکس ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "ذخیره‌ خواهد شد">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " شما:">
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.downloads             "بارگیری‌ها">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "نشانک‌ها">
+<!ENTITY aboutPrivateBrowsing.note.before                "مرور ناشناس ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "باعث نمی‌شود شما ناشناخته باشید">
-
+<!ENTITY aboutPrivateBrowsing.note.after                 " در اینترنت که کارفرما یا ارائه‌دهنده خدمات اینترنت شما همچنان می‌تواند صفحاتی را که بازدید می‌کنید را ردیابی کند.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "در مورد‌ آن بیشتر بدانید">
-
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "مرور ناشناس">
 
 <!ENTITY trackingProtection.title                        "محافظت در برابر ردگیری">
 

@@ -31,13 +31,13 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; به دلایلی نمی‌توان این صفحه را بارگیری کرد.</p>">
 
 <!ENTITY malformedURI.title "نشانی معتبر نیست">
-
+<!ENTITY malformedURI.longDesc "<ul><li>نشانی‌های وب معمولاً به این صورت نوشته می‌شوند <strong>http://www.example.com/</strong></li> <li>مطمئن شوید که از ممیز درست استفاده می‌کنید (یعنی <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "اتصال مختل شد">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "پروندۀ منقضی">
-
+<!ENTITY notCached.longDesc "<p> پرونده درخواستی در حافظه &brandShortName; موجود نیست.</p><ul><li>برای احتیاط امنیتی بیشتر، &brandShortName; دیگر به‌طور خودکار درخواست پرونده‌های حساس نمی‌کند.</li><li>برای درخواست مجدد پرونده از این سایت، روی دکمه &quot;تلاش دوباره&quot; کلیک کنید.</li></ul>">
 
 <!ENTITY netOffline.title "حالت منفصل">
 <!ENTITY netOffline.longDesc2 "<ul><li>دکمۀ &quot;تلاش دوباره&quot; را فشار دهید  تا به حالت آنلاین برگردید و صفحه را دوباره بارگذاری کنید.</li></ul>">
@@ -54,6 +54,7 @@
 <!ENTITY netTimeout.title "مهلت اتصال تمام شد">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "نشانی قابل فهم نبود">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li> ممکن است نیاز به نصب برنامهٔ دیگری برای باز نمودن این نشانی داشته باشید. </li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "کارگزار پیشکار از برقراری اتصال خودداری می‌کند.">
@@ -62,18 +63,22 @@
 <!ENTITY proxyResolveFailure.title "کارگزار پیشکار پیدا نشد">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>بررسی کنید که تنظیمات پیشکار صحیح باشند.</li> <li>بررسی کنید تا مطمئن شوید که اتصال شبکهٔ رایانۀ شما به درستی کار می‌کند.</li> <li>اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود، مطمئن شوید که &brandShortName; اجازهٔ دسترسی به وب را دارد.</li> </ul>">
 
+<!ENTITY redirectLoop.title "این صفحه درست تغییر مسیر نمی‌دهد">
 <!ENTITY redirectLoop.longDesc "<ul> <li>این مشکل گاهی ممکن است به دلیل غیر فعال کردن یا خودداری از قبول کوکی‌ها به وجود بیاید.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "جواب غیرمنتظره از کارگزار">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>مطمئن شوید که «مدیریت امنیت شخصی» روی رایانهٔ شما نصب شده باشد.</li> <li>این اشکال ممکن است از پیکربندی غیر استاندارد کارگزار باشد.</li> </ul>">
 
+<!ENTITY nssFailure2.title "برقراری اتصال ایمن شکست خورد">
 <!ENTITY nssFailure2.longDesc2 "<ul><li>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست، زیرا تأیید اعتبار اطلاعات دریافتی امکان‌پذیر نیست.</li><li>لطفاً با صاحبان این سایت تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul>">
 
+<!ENTITY certerror.longpagetitle1 "اتصال شما امن نیست">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "مالک <span class='hostname'/> سایت خود را به گونه‌ای نادرست پیکربندی کرده‌ است.  جهت محافظت از دزدیده شدن اطلاعات شما، &brandShortName; به این سایت متصل نشده است.">
 
+<!ENTITY sharedLongDesc "<ul> <li>ممکن است این پایگاه به طور موقت خارج از دسترس یا بیش از حد مشغول باشد. چند دقیقه صبر کنید و بعد دوباره تلاش کنید.</li> <li>اگر نمی‌توانید هیچ صفحه‌ای را مرور کنید، اتصال شبکهٔ رایانه را بررسی کنید.</li> <li>اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که &brandShortName; اجازه دسترسی به وب را دارد.</li> </ul>">
 
 <!ENTITY cspBlocked.title "مسدود شده بنا بر سیاست امنیتی محتوا">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; از بارگیری این صفحه به این شیوه جلوگیری کرد، زیرا این صفحه دارای یک سیاست امنیتی است که این کار در تضاد با آن قرار دارد.</p>">
