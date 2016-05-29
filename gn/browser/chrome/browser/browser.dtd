@@ -705,7 +705,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "Ñemo'ã myandy">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
-<!ENTITY identity.disableMixedContentBlocking.label "Embogue ñemo'ã sapy'aite">
+<!ENTITY identity.disableMixedContentBlocking.label "Emonge ñemo'ã sapy'aite">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Kuaave">
 
@@ -822,12 +822,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Embogue ñemo'ã ko tenda pegua">
+<!ENTITY trackingProtection.unblock.label "Emonge ñemo'ã ko tendágui">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Embogue ñemo'ã ko tendápe g̃uarã">
+<!ENTITY trackingProtection.unblockPrivate.label "Emonge ñemo'ã ko tendápe g̃uarã">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Ñemo'ã myandy">
 <!ENTITY trackingProtection.block2.accesskey "E">
@@ -836,11 +836,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.moreinfo "Las partes de la página que el seguimiento de su actividad en línea han sido bloqueados .Ko kuatiarogue pehẽ ohapykuehóva nerembiapo ñanduti pegua ojejokómakuri.">
 <!ENTITY trackingContentBlocked.learnMore "Kuaave">
 <!ENTITY trackingContentBlocked.options "Jeporavorã">
-<!ENTITY trackingContentBlocked.unblock2.label "Embogue ñemo'ã ko tenda pegua">
+<!ENTITY trackingContentBlocked.unblock2.label "Emonge ñemo'ã ko tenda pegua">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Ñemo'ã myandy ">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "Ñemo'ã jehapykueho oñemboguéma">
+<!ENTITY trackingContentBlocked.disabled.message "Ñemo'ã jehapykueho oñemongéma">
 
 <!ENTITY pointerLock.notification.message "Ejopy ESC reikotevẽ vove rehechauka pyahujey hag̃ua.">
 
@@ -876,15 +876,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The translation should do the same. -->
 
 <!ENTITY panicButton.view.mainActionDesc          "Ojapohína péicha:">
-<!ENTITY panicButton.view.deleteCookies           "Emboguete oikoramóva <html:strong>Kookie</html:strong>">
-<!ENTITY panicButton.view.deleteHistory           "Emboguete oikoramóva <html:strong>Tembiasakue</html:strong>">
+<!ENTITY panicButton.view.deleteCookies           "Emboguete <html:strong>Kookie</html:strong>ramoguáva">
+<!ENTITY panicButton.view.deleteHistory           "Emboguete <html:strong>Tembiasakue</html:strong>ramoguáva">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Embotypa <html:strong>Tendayke</html:strong> ha <html:strong>Ovetã</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Eipe'a ovetã pyahu nandíva">
 
 <!ENTITY panicButton.view.undoWarning             "Ko tembiapo ndaikatúi emboguevi.">
 <!ENTITY panicButton.view.forgetButton            "Eguereko hag̃ua!">
 
-<!ENTITY panicButton.thankyou.msg1                "Tembiasakue ipyahuvéva oñembogue.">
+<!ENTITY panicButton.thankyou.msg1                "Tembiasakue ipyahuvéva oñemboguete.">
 <!ENTITY panicButton.thankyou.msg2                "¡Jeikekatu!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Aguyje">
 

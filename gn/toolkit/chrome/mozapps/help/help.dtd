@@ -16,8 +16,8 @@
 <!ENTITY forwardButton.tooltip          "Ambue toguépe jehasa ">
 <!ENTITY copyCmd.label                  "Mbokuatia">
 <!ENTITY copyCmd.accesskey              "M">
-<!ENTITY selectAllCmd.label             "Embosa'ypa">
-<!ENTITY selectAllCmd.accesskey         "E">
+<!ENTITY selectAllCmd.label             "Mbosa'ypa">
+<!ENTITY selectAllCmd.accesskey         "M">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Ñepyrũ">

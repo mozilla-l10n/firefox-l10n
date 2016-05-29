@@ -254,7 +254,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
   -  on the context menu that copies the selected request's url parameters -->
 
-<!ENTITY netmonitorUI.context.copyUrlParams     "URL monguatia rehegua">
+<!ENTITY netmonitorUI.context.copyUrlParams     "URL rehegua mbohasarã">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
 
@@ -262,7 +262,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData): This is the label displayed
   -  on the context menu that copies the selected request's post data -->
 
-<!ENTITY netmonitorUI.context.copyPostData     "POST mba'ekuaarã monguatia">
+<!ENTITY netmonitorUI.context.copyPostData     "POST mba'ekuaarã mbohasarã">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData.accesskey): This is the access key
   -  for the Copy POST Data menu item displayed in the context menu for a request -->
 
@@ -280,7 +280,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
 
-<!ENTITY netmonitorUI.context.copyRequestHeaders     "Ejerure myakãha monguatia">
+<!ENTITY netmonitorUI.context.copyRequestHeaders     "Jerure myakãha mbohasarã">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
 
@@ -288,7 +288,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
   -  on the context menu that copies the selected item's response headers -->
 
-<!ENTITY netmonitorUI.context.copyResponseHeaders     "Ñembohovái myakãha monguatia">
+<!ENTITY netmonitorUI.context.copyResponseHeaders     "Ñembohovái myakãha mbohasarã">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
   -  for the Copy Response Headers menu item displayed in the context menu for a response -->
 
@@ -296,7 +296,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponse): This is the label displayed
   -  on the context menu that copies the selected response as a string -->
 
-<!ENTITY netmonitorUI.context.copyResponse "Emonguatia mbohovái">
+<!ENTITY netmonitorUI.context.copyResponse "Mbohovái mbohasarã">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRespose.accesskey): This is the access key
   -  for the Copy Response menu item displayed in the context menu for a request -->
 
@@ -304,7 +304,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
 
-<!ENTITY netmonitorUI.context.copyImageAsDataUri "Mba'era'ãnga mbohasarã mba'ekuaarã rehegua URI-ramo">
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "Mba'era'ãnga mbohasarã URI mba'ekuaarãramo">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
 

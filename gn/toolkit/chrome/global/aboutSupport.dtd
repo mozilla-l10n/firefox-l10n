@@ -97,8 +97,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Ñemohenda rembiasakue">
 <!ENTITY aboutSupport.updateHistoryTitle "Ñembohekopyahu rembiasakue">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Moñe'ẽrã monguatia kuatiajokoha">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Emonguatia mba'ekuaarã hi'akýva kuatiajokohápe">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Moñe'ẽrã mbohasa kuatiajokohápe">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "mba'ekuaarã hi'akýva mbohasa kuatiajokohápe">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 

@@ -28,11 +28,11 @@
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "Monguatia">
+<!ENTITY copyPref.label "Mbohasarã">
 <!ENTITY copyPref.accesskey "C">
-<!ENTITY copyName.label "Téra monguatia">
+<!ENTITY copyName.label "Téra mbohasarã">
 <!ENTITY copyName.accesskey "N">
-<!ENTITY copyValue.label "Tepy monguatia">
+<!ENTITY copyValue.label "Tepy mbohasarã">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "Moambue">
 <!ENTITY modify.accesskey "M">

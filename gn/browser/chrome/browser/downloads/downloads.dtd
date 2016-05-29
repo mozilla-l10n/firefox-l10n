@@ -58,7 +58,7 @@
 <!ENTITY cmd.retry.label                  "Eñeha'ã jey">
 <!ENTITY cmd.goToDownloadPage.label       "Kuatiarogue Omboguejývape Jeho ">
 <!ENTITY cmd.goToDownloadPage.accesskey   "J">
-<!ENTITY cmd.copyDownloadLink.label       "Mboguejyrã rape mbohasarã">
+<!ENTITY cmd.copyDownloadLink.label       "Ñemboguejy rape mbohasarã">
 <!ENTITY cmd.copyDownloadLink.accesskey   "m">
 <!ENTITY cmd.removeFromHistory.label      "Embogue tembiasakuégui ">
 <!ENTITY cmd.removeFromHistory.accesskey  "m">

@@ -90,7 +90,7 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "Guarani">
 
-<!ENTITY copyURLCmd.label     "Mbojuajuha Rape mbohasarã">
+<!ENTITY copyURLCmd.label     "Joajuha Rape mbohasarã">
 <!ENTITY copyURLCmd.accesskey "p">
 
 <!ENTITY closeCmd.key         "W">

@@ -31,7 +31,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "H">
 <!ENTITY cmd.goToDownloadPage.label       "Kuatiarogue mboguejyhápe jeho">
 <!ENTITY cmd.goToDownloadPage.accesskey   "j">
-<!ENTITY cmd.copyDownloadLink.label       "Mboguejyrã kundaharape monguatia">
+<!ENTITY cmd.copyDownloadLink.label       "Ñemboguejypyre rape mbohasarã">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromList.label         "Tysýigui Mboguete">
 <!ENTITY cmd.removeFromList.accesskey     "g">
