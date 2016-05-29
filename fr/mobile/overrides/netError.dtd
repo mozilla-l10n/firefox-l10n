@@ -172,6 +172,9 @@ ne peut être vérifiée.</li>
 <!ENTITY cspBlocked.title "Bloqué par une stratégie de sécurité de contenu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page de cette manière car sa stratégie de sécurité de contenu ne le permet pas.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Erreur due à un contenu corrompu">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La page que vous essayez de voir ne peut pas être affichée car une erreur dans la transmission de données a été détectée.</p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul>">
+
 <!ENTITY securityOverride.linkText "Ou vous pouvez ajouter une exception…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Quitter cette page">
 <!ENTITY securityOverride.exceptionButtonLabel "Ajouter une exception…">
@@ -187,9 +190,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
-
-<!ENTITY corruptedContentError.title "Erreur due à un contenu corrompu">
-<!ENTITY corruptedContentError.longDesc "<p>La page que vous essayez de voir ne peut pas être affichée car une erreur dans la transmission de données a été détectée.</p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL distant">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul></p>">
