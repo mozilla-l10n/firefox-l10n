@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat nettlesing)">
 
 <!ENTITY appmenu.tooltip                     "Opna meny">
-<!ENTITY navbarOverflow.label                "Fleire verktøy …">
+<!ENTITY navbarOverflow.label                "Fleire verktøy…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Oppdater fane">
@@ -237,7 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyButton.label            "Historikk">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "Verkty">
+<!ENTITY toolsMenu.label              "Verktøy">
 <!ENTITY toolsMenu.accesskey          "e"> 
 
 <!ENTITY keywordfield.label           "Lag nykelord for dette søket …">
