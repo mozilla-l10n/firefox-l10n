@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Privat nettlesing">
 
 <!ENTITY trackingProtection.title                        "Sporingsbeskyttelse">
-
+<!ENTITY trackingProtection.description2                 "Noen nettsider bruker sporere som kan overvåke aktiviteten din over hele nettet. Med sporingsvern vil Firefox blokkere mange sporere som kan samle inn informasjon om surfevanene dine.">
 <!ENTITY trackingProtection.startTour1                   "Se hvordan dette virker">
