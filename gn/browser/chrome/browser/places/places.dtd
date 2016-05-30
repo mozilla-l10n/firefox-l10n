@@ -27,11 +27,11 @@
 <!ENTITY view.sortDescending.label      "A > Z ñemohenda">
 <!ENTITY view.sortDescending.accesskey  "A">
 
-<!ENTITY importBookmarksFromHTML.label     "Techaukaha mba'ereru HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Techaukaha jereru peteĩ HTML-gui">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Techaukaha mba'ereraha HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Techaukaha jereraha HTML-ramo">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Mba'ekuaarã mba'ereru gui…">
+<!ENTITY importOtherBrowser.label          "Mba'ekuaarã jereru...">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "Mbokuatia...">
