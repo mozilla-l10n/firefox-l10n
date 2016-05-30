@@ -191,7 +191,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Kuatiahaipy jehecha">
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Marandu'i jehecha">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "Mba'ejerure tendaite rehegua jehecha">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "Ehecha moimbaha ñe'ẽmondo nemohenda">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ehecha app-offline-pe marandu mbyatypyre">
@@ -240,7 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Tembipuru">
 <!ENTITY toolsMenu.accesskey          "T"> 
 
-<!ENTITY keywordfield.label           "Ñe'ẽ ñemi mbojoapy ko jehekápe g̃uarã…">
+<!ENTITY keywordfield.label           "Jehero mbojoapy ko jehekápe g̃uarã…">
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Ñemboguejy">

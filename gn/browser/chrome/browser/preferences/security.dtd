@@ -27,9 +27,9 @@
 <!ENTITY  passwordExceptions.label      "Oĩ'ỹva">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
-<!ENTITY  useMasterPassword.label        "Ñe'ëñemi ha'etéva puru">
+<!ENTITY  useMasterPassword.label        "Ñe'ẽñemiguasu puru">
 <!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "Ñe'ëñemi ha'etéva moambue...">
+<!ENTITY  changeMasterPassword.label     "Ñe'ẽñemiguasu moambue...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
 <!ENTITY  savedLogins.label              "Emoñepyrũ tembiapo ñongatupyre…">

@@ -84,10 +84,10 @@
 <!ENTITY col.tags.label          "Teramoĩ">
 <!ENTITY col.url.label           "Tendaréra">
 <!ENTITY col.mostrecentvisit.label "Jeike ramo pyahuvéva">
-<!ENTITY col.visitcount.label    "Jeikekuéra papapy">
+<!ENTITY col.visitcount.label    "Jeikehague jepapa">
 <!ENTITY col.description.label   "Moha'ãnga">
 <!ENTITY col.dateadded.label     "Mbojoapypyre">
-<!ENTITY col.lastmodified.label  "Ñemoambue paha">
+<!ENTITY col.lastmodified.label  "Ñemoambue ramove">
 
 <!ENTITY search.label                              "Heka:">
 <!ENTITY search.accesskey                          "S">

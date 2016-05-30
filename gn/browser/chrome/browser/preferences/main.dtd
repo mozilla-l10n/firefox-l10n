@@ -7,7 +7,7 @@
 <!ENTITY startupPage.label         "Oñepyrũvo &brandShortName;:">
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "Che kuatiarogue ñepyrũha jehechauka">
-<!ENTITY startupBlankPage.label    "Peteĩ kuatiarogue jehai'ỹva jehechauka">
+<!ENTITY startupBlankPage.label    "Peteĩ kuatiarogue nandi jehechauka">
 <!ENTITY startupLastSession.label  "Ovetã ha tendaykekuéra tembiapo paha rehegua jehechauka">
 
 <!ENTITY homepage.label            "Kuatiarogue ñepyrũ:">
@@ -17,7 +17,7 @@
 <!ENTITY useMultiple.label         "Kuatiarogue ag̃agua jepuru">
 <!ENTITY chooseBookmark.label      "Techaukaha puru…">
 <!ENTITY chooseBookmark.accesskey  "B">
-<!ENTITY restoreDefault.label      "Embojevy hepykuépe tesarái rupi">
+<!ENTITY restoreDefault.label      "Embojevy heko ypykuépe">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Ñemboguejy">
