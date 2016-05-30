@@ -6,7 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "Voulez-vous restaurer vos paramètres de recherche ?">
 
-<!ENTITY searchreset.pageInfo1      "Vos paramètres de recherche sont peut-être obsolètes. &brandShortName; peut vous aider à restaurer les paramètres de recherche par défaut.">
+<!--<!ENTITY searchreset.pageInfo1      "Vos paramètres de recherche sont peut-être obsolètes. &brandShortName; peut vous aider à restaurer les paramètres de recherche par défaut."> -->
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
