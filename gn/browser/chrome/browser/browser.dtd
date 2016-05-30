@@ -42,7 +42,7 @@ can reach it easily. -->
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToNewWindow.label              "Ovetã pyahúpe jegueraha">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "Embosa'y opavave tendayke…">
+<!ENTITY  bookmarkAllTabs.label              "Opaite tendayke mbojoapy…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Emboguevi ha emboty tendayke">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -143,7 +143,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Techaukaha">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "Ko kuatiarogue mbosa'y">
+<!ENTITY bookmarkThisPageCmd.label "Kuatiarogue mbojoapy">
 <!ENTITY editThisBookmarkCmd.label "Ko techaukaha mbosako'i">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
@@ -322,7 +322,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Tendayke oñembotyramóva">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ovetã oñembotyramóva">
-<!ENTITY historyRestoreLastSession.label "Tembiapopyre mbojevy">
+<!ENTITY historyRestoreLastSession.label "Tembiapopa'ũ mboyvegua mbojevy">
 
 <!ENTITY showAllHistoryCmd2.label "Tembiasakue jehechaukapa">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -494,7 +494,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Mba'erechaha rugua mopyenda…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Embosa'y ko kuatiarogue">
+<!ENTITY bookmarkPageCmd2.label       "Kuatiarogue mbojoapy">
 <!ENTITY bookmarkThisLinkCmd.label      "Ko joajuha techaukaháre mbojoapy">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Ko ovetã'i techaukaháre mbojoapy">
