@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "टॅग्स">
 <!ENTITY bookmarks.folder.toolbar.label "वाचनखूणांची साधनपट्टी">
-
+<!ENTITY bookmarks.folder.other.label "इतर वाचनखूणा">
 <!ENTITY bookmarks.folder.desktop.label "डेस्कटॉप वाचनखूणा">
 <!ENTITY bookmarks.folder.mobile.label "मोबाईल वाचनखूणा">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -75,7 +75,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos2 "सेवांच्या अटी">
+<!ENTITY fxaccount_status_linkprivacy2 "गोपनीयता धोरण">
 <!ENTITY fxaccount_status_more "अधिक&ellipsis;">
 <!ENTITY fxaccount_remove_account "काढा&ellipsis;">
 
