@@ -19,23 +19,27 @@
 <!ENTITY dnsNotFound.title "सर्व्हर सापडला नाही">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>पत्ता टाईप करताना होणाऱ्या चुका एकदा तपासा. उदाहरणार्थ <strong>www</strong>.example.com ऐवजी <strong>ww</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'> शोधा</button> </div> <li>आपण कोणतेही पृष्ठ लोड करण्यात अक्षम असाल तर, कृपया आपल्या उपकरणावर डाटा किंवा वाय-फाय जोडणी तपासा. <button id='wifi'>वाय-फाय सक्रीय करा</button>  </li> </ul>">
 
 <!ENTITY fileNotFound.title "फाइल सापडली नाही">
 <!ENTITY fileNotFound.longDesc "<ul> <li>कॅपिटल अक्षरांचा उपयोग, किंवा इतर टायपिंग त्रूटीं करता फाइलचे नाव तपासा.</li> <li>फाइल स्थानांतरित, पुनःनामांकित किंवा काढून टाकली आहे का याची तपासणी करा.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "फाइल वापर नाकारण्यात आला होता">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>ते कदाचित काढून टाकले गेले, हलविले, किंवा त्यास फाइल परवानग्या प्रवेश प्रतिबंधित करत असतील.</li></ul>">
 
 <!ENTITY generic.title "अरेच्या.">
+<!ENTITY generic.longDesc "<p>&brandShortName; कुठल्यातरी कारणामुळे, हे पृष्ठ दाखल करू शकत नाही.</p>">
 
-
+<!ENTITY malformedURI.title "पत्ता वैध नाही">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>वेब-पत्ता सहसा असा लिहिला जातो <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>शोधा</button> </div> <li>आपण अग्रेषित स्लॅश वापरत असल्याची खात्री करा (जसे  <strong>/ </strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "जोडणीमध्ये व्यत्यय आला">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "दस्तऐवज मुदतबाह्य">
-
+<!ENTITY notCached.longDesc "<p>&brandShortName;च्या कॅशेत विनंती केलेले दस्तऐवज उपलब्ध नाही.</p><ul><li>सुरक्षा सावधगिरि म्हणून, &brandShortName; स्वयं संवदेनशील दस्तऐवजकरीता पुनःविनंती करत नाही.</li><li>संकेतस्थळापासून दस्तऐवजला पुनःविनंती करण्यासाठी पुनःप्रयत्न करा ला क्लिक करा.</li></ul>">
 
 <!ENTITY netOffline.title "ऑफलाइन प्रावस्था">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -54,6 +58,7 @@
 <!ENTITY netTimeout.title "जोडणी प्रयत्नाची वेळ मर्यादा समाप्त झाली">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "पत्ता समझला नाही">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>तुम्हाला हा पत्ता पाहण्यासाठी कदाचीत दुसरे सॉफ्टवेअर स्थापीत करावे लागेल.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "जोडणींसाठी प्रॉक्सी सर्व्हर नकार देत आहे">
@@ -64,6 +69,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>प्राॅक्सी सेटिंग बरोबर आहेत की नाही याची खात्री करण्यासाठी तपासा.</li> <li>आपल्या उपकरणावर चालू डाटा कनेक्शन किंवा वाय-फाय कनेक्शन आहे याची खात्री करण्यासाठी तपासा. <button id='wifi'>वाय-फाय चालू करा</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "पृष्ठ योग्यपणे मार्गदर्शित होत नाही आहे">
 <!ENTITY redirectLoop.longDesc "<ul> <li>ही अडचण कधीकधी कुकीजचे समर्थन नसल्यास किंवा स्वीकार न केल्यामुळेही होते.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "सर्व्हर कडून अनपेक्षित प्रतिसाद">
@@ -73,9 +79,11 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>जे पान आपण बघण्याचा प्रयत्न करत आहात त्यच्या माहितीचे प्रमाण तपासले जाऊ न शकल्यामुळे पान दाखवु शकत नाही.</li> <li>कृपया वेबसाइट मालकांना या व्यत्यया बद्दल सांगा.</li> </ul>">
 
 <!ENTITY nssBadCert.title "सुरक्षीत जोडणी अपयशी">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>हे या सर्व्हरवरील संयोजनातील अडचण असू शकते, किंवा सर्व्हर नुरूप बहरूपी सुद्धा असू शकतो.</li> <li>आपण या सर्व्हरशी पूर्वी यशस्वीरित्या जुळवणी स्थापीत केली असल्यास, त्रुटी तात्पूर्ती असू शकते, व आपण पुनःप्रयत्न करू शकता.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY sharedLongDesc3 "<ul> <li>हे संकेतस्थळ तात्पुरते उपलब्ध नाही किंवा खुपच व्यस्त आहे. काही क्षणानंतर, पुनःप्रयत्न करा.</li> <li>जर आपण कुठलेही पान उघडू शकत नसाल, तर आपल्या भ्रमणध्वनी जोडणी किंवा वाय-फाय जोडणी तपासा.  <button id='wifi'>वाय-फाय सक्रीय करा</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "मजकूर सुरक्षा धोरणामुळे रोखले गेले">
 <!ENTITY cspBlocked.longDesc "<p>पृष्ठात अंतर्भुत मजकूर सुरक्षा धोरणामुळे &brandShortName;ने या पृष्ठाला, याप्रकारे लोड होण्यापासून रोखले आहे.</p>">
@@ -102,9 +110,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "आत्याधुनिक माहिती: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "आपली जोडणी सुरक्षीत नाही">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "आत्याधुनिक माहिती: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "आपली जोडणी सुरक्षीत नाही">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरत आहे. आक्रमणकर्ता सहजपणे आपण सुरक्षित समजत असलेली माहिती मिळवू शकतो. वेबसाइट प्रशासकाने सर्व्हर निर्दोष केल्यावरच आपण साइटला भेट देऊ शकता. </p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
