@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bonvenon">
-<!ENTITY  onboard_start_message3 "Retumi per &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Igi vian poŝaparatan retumsperton vere via.">
 
 <!ENTITY firstrun_urlbar_message "Bonvenon al &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Trovi aferojn pli rapide per helpaj serĉaj ŝparvojoj al sugestoj.">
@@ -20,7 +18,17 @@
 <!ENTITY firstrun_signin_message "Komencu seancon kaj eku">
 <!ENTITY firstrun_signin_button "Komenci seancon en Speguli">
 <!ENTITY  onboard_start_button_browser "Komenci retesporon">
+<!ENTITY firstrun_button_notnow "Nun ne">
 <!ENTITY firstrun_button_next "Antaŭen">
+
+<!ENTITY firstrun_tabqueue_title "Ligiloj">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Ŝalti vicon de langetoj">
+<!ENTITY firstrun_tabqueue_subtext_off "Konservi ligilojn por posta vido en &brandShortName; kiam vi tuŝetas ilin en aliaj programoj.">
+
+<!ENTITY firstrun_tabqueue_message_on "Sukceso!">
+
+<!ENTITY firstrun_notifications_title "Blogoj">
 
 <!ENTITY  onboard_start_restricted1 "Estu sekura kaj regu vian retumadon per tiu ĉi simpligita versio de &brandShortName;.">
 
@@ -28,7 +36,6 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Legosignoj">
 <!ENTITY  history_title "Historio">
-<!ENTITY  reading_list_title "Legolisto">
 <!ENTITY  recent_tabs_title "Freŝaj langetoj">
 
 <!ENTITY  switch_to_tab "Iri al langeto">
@@ -63,6 +70,18 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Ekrankopioj">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Legolisto">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; elementoj">
+<!ENTITY bookmark_folder_one_item "1 elemento">
+
+<!ENTITY reader_saved_offline "Malkonektite konservita">
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Baskuli">
 
 <!ENTITY history_today_section "Hodiaŭ">
 <!ENTITY history_yesterday_section "Hieraŭ">
@@ -101,7 +120,7 @@
 <!ENTITY settings "Agordoj">
 <!ENTITY settings_title "Agordoj">
 <!ENTITY pref_category_general "Ĝeneralaj">
-<!ENTITY pref_category_general_summary2 "Hejmo, lingvo, adresa strio">
+<!ENTITY pref_category_general_summary3 "Hejmo, lingvo, langeta vico">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -124,9 +143,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Legosignoj">
-<!ENTITY overlay_share_reading_list_btn_label "Aldoni al legolisto">
 <!ENTITY overlay_share_bookmark_btn_label_already "Jam estas en legosignoj">
-<!ENTITY overlay_share_reading_list_btn_label_already "Jam estas en legolisto">
 <!ENTITY overlay_share_send_other "Sendi al aliaj aparatoj">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -142,14 +159,15 @@
 <!ENTITY overlay_no_synced_devices "Neniu aparato konekita de konto estis trovita">
 
 <!ENTITY pref_category_search3 "Serĉi">
-<!ENTITY pref_category_search_summary "Personecigi viajn serĉilojn">
+<!ENTITY pref_category_search_summary2 "Aldoni, difini normon, montri sugestojn">
 <!ENTITY pref_category_accessibility "Alirebleco">
 <!ENTITY pref_category_accessibility_summary2 "Grando de teksto, pligrandigilo, voĉa enigo">
 <!ENTITY pref_category_privacy_short "Privateco">
-<!ENTITY pref_category_privacy_summary3 "Spurado, kuketoj, datumaj elektoj">
+<!ENTITY pref_category_privacy_summary4 "Spurado, akreditiloj, datumaj elektoj">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Pri &brandShortName;, oftaj demandoj, komentoj">
 <!ENTITY pref_category_datareporting "Elekto de datumoj">
+<!ENTITY pref_category_logins "Akreditiloj">
 <!ENTITY pref_learn_more "Pli da informo">
 <!ENTITY pref_category_installed_search_engines "Instalitaj serĉiloj">
 <!ENTITY pref_category_add_search_providers "Aldoni pli da serĉiloj">
@@ -163,10 +181,11 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Konsileto: aldonu iun ajn retejon al via listo de serĉiloj per longa premo sur la serĉkampo kaj posta tuŝo de la emblemo &formatI;.">
 <!ENTITY pref_category_advanced "Spertulaj">
-<!ENTITY pref_category_advanced_summary2 "Restarigi langetojn, kromprogramoj, iloj por disvolvantoj">
+<!ENTITY pref_category_advanced_summary3 "Restarigo de langetoj, datumŝparo, programistaj iloj">
 <!ENTITY pref_category_notifications "Sciigoj">
+<!ENTITY pref_category_notifications_summary "Novaj trajtoj, retejaj ĝisdatigoj">
 <!ENTITY pref_content_notifications "Retejaj ĝisdatigoj">
-<!ENTITY pref_content_notifications_summary "Permesi sciigojn al subtenataj retejoj">
+<!ENTITY pref_content_notifications_summary2 "Malkovri novan enhavon en subtenataj retejoj">
 <!ENTITY pref_developer_remotedebugging_usb "Fora sencimigo per USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Fora sencimigo per sendrata reto">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Por sendratreta sencimigo vi aparato devas havi instalita programon kiu povas legi kodon QR.">
@@ -213,12 +232,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktivaj, krom la nerektaj">
 <!ENTITY pref_cookies_disabled "Malaktiva">
 
+<!ENTITY pref_category_data_saver "Datumŝparilo">
+<!ENTITY pref_category_media "Aŭdvidaĵoj">
+<!ENTITY pref_category_developer_tools "Programistaj iloj">
+
 <!ENTITY pref_tap_to_load_images_title2 "Montri bildojn">
 <!ENTITY pref_tap_to_load_images_enabled "Ĉiam">
 <!ENTITY pref_tap_to_load_images_data "Nur en sendrata reto">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blokitaj">
 
 <!ENTITY pref_show_web_fonts "Montri Teksaĵajn tiparojn">
+<!ENTITY pref_show_web_fonts_summary2 "Elŝuti forajn tiparojn dum ŝargado de paĝo">
 
 <!ENTITY pref_tracking_protection_title2 "Protekto kontraŭ spurado">
 <!ENTITY pref_tracking_protection_summary3 "Aktiva en privata retumado">
@@ -228,6 +252,9 @@
 <!ENTITY pref_tracking_protection_enabled "Aktiva">
 <!ENTITY pref_tracking_protection_enabled_pb "Aktiva en privata retumado">
 <!ENTITY pref_tracking_protection_disabled "Malaktiva">
+
+<!ENTITY pref_whats_new_notification "Novaĵoj en &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Pli da informo pri novaj trajtoj post ĝisdatigo">
 
 <!ENTITY tracking_protection_prompt_title "Nun kun protekto kontraŭ spurado">
 <!ENTITY tracking_protection_prompt_text "Aktive bloki spurajn elementojn, tiel ke vi de bezonos zorgi.">
@@ -262,8 +289,17 @@
 <!ENTITY tab_queue_notification_settings "Por \&quot;Malfermi plurajn ligilojn\&quot;, bonvolu aktivigi la permeson \'Desegni sur aliaj programoj\' por &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; retejoj ĝisdatigitaj">
-<!ENTITY content_notification_action_settings "Agordoj de sciigoj">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Agordoj">
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Legi nun">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -331,7 +367,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Elŝutoj">
 <!ENTITY pref_private_data_syncedTabs "Spegulitaj langetoj">
 
-
+<!ENTITY pref_default_browser "Igi retumilon norma">
 <!ENTITY pref_about_firefox "Pri &brandShortName;">
 <!ENTITY pref_vendor_faqs "Oftaj demandoj">
 <!ENTITY pref_vendor_feedback "Sendi komentojn">
@@ -440,8 +476,6 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Alpingli retejon">
 <!ENTITY contextmenu_top_sites_unpin "Depingli retejon">
 <!ENTITY contextmenu_add_search_engine "Aldoni serĉilon">
-<!ENTITY contextmenu_mark_read "Marki kiel legita">
-<!ENTITY contextmenu_mark_unread "Marki kiel nelegita">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -487,15 +521,6 @@ size. -->
 <!ENTITY site_settings_cancel       "Nuligi">
 <!ENTITY site_settings_clear        "Forviŝi">
 
-<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
-     as possible. -->
-<!ENTITY reading_list_added3 "Aldonita al la legolisto">
-<!ENTITY reading_list_removed "Paĝo forigita el via legolisto">
-<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
-     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-<!ENTITY reading_list_remove "Forigi el legolisto">
-<!ENTITY reading_list_duplicate "Paĝo jam en via legolisto">
-
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 <!ENTITY page_action_dropmarker_description "Aldonaj agoj">
@@ -514,7 +539,7 @@ size. -->
 <!ENTITY button_clear "Forviŝi">
 <!ENTITY button_copy "Kopii">
 
-<!ENTITY home_top_sites_title "Top Sites">
+<!ENTITY home_top_sites_title "Plej vizititaj retejoj">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Aldoni retejon">
@@ -523,6 +548,11 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Eka paĝo de &brandShortName;">
 <!ENTITY home_history_title "Historio">
+<!ENTITY home_synced_devices_smartfolder "Spegulitaj aparatoj">
+<!ENTITY home_synced_devices_number "&formatD; aparatoj">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 aparato">
+<!ENTITY home_history_back_to2 "Reen al la tuta historio">
 <!ENTITY home_clear_history_button "Viŝi retuman historion">
 <!ENTITY home_clear_history_confirm "Ĉu vi certe volas viŝi vian historion?">
 <!ENTITY home_bookmarks_empty "Konservitaj legosignoj videblos ĉi tie.">
@@ -531,11 +561,9 @@ size. -->
 <!ENTITY home_last_tabs_empty "Tie ĉi videblos viaj langetoj el antaŭ nelonge.">
 <!ENTITY home_open_all "Malfermi ĉiujn">
 <!ENTITY home_most_recent_empty "La laste vizititaj retejoj aperas ĉi tie.">
-<!ENTITY home_selected_empty "La retejoj, kiujn vi vizitis en la elektita tempodaŭro, aperos ĉi tie.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "He, sciu ke en &formatS1;nova privata langeto&formatS2; la historio ne estos konservita.">
-<!ENTITY home_reading_list_empty "Artikoloj, kiujn vi konservis por poste, aperas ĉi tie.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -545,16 +573,6 @@ size. -->
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_back_to_filter "Reen al &formatS;">
 
-<!ENTITY home_remote_tabs_title "Spegulitaj langetoj">
-<!ENTITY home_remote_tabs_empty "Viaj langetoj el aliaj aparatoj, aperos ĉi tie.">
-<!ENTITY home_remote_tabs_unable_to_connect "Ne eblas konekti">
-<!ENTITY home_remote_tabs_need_to_sign_in "Bonvolu komenci seancon por rekonekti vian konton de Firefox kaj daŭrigi la speguladon.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Via nova konto de Firefox pretas!">
-
-<!ENTITY home_remote_tabs_trouble_verifying "Ĉu estas problemo en la kontrolo de via konto?">
-<!ENTITY home_remote_tabs_need_to_verify "Bonvolu kontroli vian konton de Firefox por komenci speguli.">
-
-<!ENTITY home_remote_tabs_one_hidden_device "1 kaŝita aparato">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -767,3 +785,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; estas ĝisdata">
 <!ENTITY whatsnew_notification_summary "Trovi tion, kio estas nova en tiu ĉi versio">
+
+<!ENTITY promotion_add_to_homescreen "Aldoni al hejmekrano">
+
+<!ENTITY helper_first_offline_bookmark_title "Legi malkonektite">
+<!ENTITY helper_first_offline_bookmark_message "Eĉ malkonektite, trovi inter la legosignoj viajn elementojn de legila vido.">
+<!ENTITY helper_first_offline_bookmark_button "Iri al legosignoj">
+
+<!ENTITY helper_triple_readerview_open_button "Aldoni al legosignoj">
+

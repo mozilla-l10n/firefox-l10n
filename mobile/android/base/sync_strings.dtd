@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Etikedoj'>
 <!ENTITY bookmarks.folder.toolbar.label 'Ilaro de legosignoj'>
-<!ENTITY bookmarks.folder.unfiled.label 'Neordigitaj legosignoj'>
+<!ENTITY bookmarks.folder.other.label 'Aliaj legosignoj'>
 <!ENTITY bookmarks.folder.desktop.label 'Skribotablaj legosignoj'>
 <!ENTITY bookmarks.folder.mobile.label 'Poŝtelefonaj legosignoj'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -50,14 +50,6 @@
 <!ENTITY fxaccount_getting_started_description2 'Komencu seancon por speguli viajn langetojn, legosignojn, akreditilojn kaj pli.'>
 <!ENTITY fxaccount_getting_started_get_started 'Unuaj paŝoj'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Ĉu vi nun uzas malnovan version de &syncBrand.shortName.label;?'>
-
-<!ENTITY fxaccount_confirm_account_header 'Konfirmi vian konton'>
-<!ENTITY fxaccount_confirm_account_resend_email 'Resendi retpoŝton'>
-
-<!ENTITY fxaccount_sign_in_button_label 'Komenci seancon'>
-
-<!ENTITY fxaccount_finish_migrating_header 'Komenci seancon por fini la ĝisdatigon'>
-<!ENTITY fxaccount_finish_migrating_button_label 'Fini ĝisdatigon'>
 
 <!ENTITY fxaccount_status_signed_in_as 'Seanco komencita kiel'>
 <!ENTITY fxaccount_status_manage_account 'Administri konton'>

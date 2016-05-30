@@ -4,8 +4,15 @@
 
 <!ENTITY safeb.palm.accept.label "Mi volas foriri de ĉi tie!">
 <!ENTITY safeb.palm.decline.label "Ignori tiun ĉi atentigon">
-<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
-<!ENTITY safeb.palm.notdeceptive.label "This isn’t a deceptive site…">
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
+  item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
+  shown. -->
+<!ENTITY safeb.palm.notdeceptive.label "Tiu ĉi ne estas trompa retejo…">
+<!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
+  safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
+  report-phishing.dtd are never shown at the same time, the same accesskey can
+  be used for them. -->
+<!ENTITY safeb.palm.notdeceptive.accesskey "t">
 <!ENTITY safeb.palm.reportPage.label "Kial tiu ĉi retejo estis blokita?">
 <!ENTITY safeb.palm.whyForbidden.label "Kial tiu ĉi paĝo estis blokita?">
 

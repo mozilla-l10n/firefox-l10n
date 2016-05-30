@@ -33,6 +33,12 @@ certiĝu ke &brandShortName; rajtas aliri la TTT-n.</li> </ul>">
 <li>Kontrolu ĉu la dosiero estis movita, renomita aŭ forviŝita.</li> 
 </ul>">
 
+<!ENTITY fileAccessDenied.title "Rifuzita aliro al dosiero">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Eble ĝi estis forigita, aŭ movita, aŭ la permesoj dosieraj evitas aliron al ĝi.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Fuŝ’.">
 <!ENTITY generic.longDesc "<p>Pro iu kialo &brandShortName; ne povas ŝargi tiun ĉi paĝon.</p>">
@@ -111,12 +117,11 @@ certiĝu ke &brandShortName; rajtas aliri la TTT-n.</li> </ul>">
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Malsukcesa sekura konekto">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Tio povus esti problemo en la agordo de la servilo, aŭ iu kiu klopodas preni la identecon de la servilo.</li> 
-<li>Se vi iam jam sukcese konektiĝis al tiu ĉi servilo, 
-la eraro povas esti tempa kaj vi povos klopodi denove poste.</li> 
-</ul>">
+<!ENTITY certerror.longpagetitle1 "Via konekto ne estas sekura">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara "La posedanto de <span class='hostname'/> malĝuste agordis sian retejon. Por protekti viajn datumojn kontraŭ ŝtelo, &brandShortName; ne konektiĝis al tiu ĉi retejo.">
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>La retejo povas esti tempe ne atingebla aŭ troe okupata. Klopodu denove post kelkaj momentoj.</li> <li>Se vi ne sukcesas ŝargi iun ajn paĝon, kontrolu la komputilan retan konekton.</li> 
@@ -126,25 +131,11 @@ la eraro povas esti tempa kaj vi povos klopodi denove poste.</li>
 <!ENTITY cspBlocked.title "Blokita de la sekureca politiko pri enhavo">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ne permesis ŝargi la paĝon ĉi tiel, ĉar la paĝo havas sekurecan politikon pri enhavo kiu malpermesas tion.</p>">
 
-<!ENTITY corruptedContentError.title "Eraro pro difektita enhavo">
-<!ENTITY corruptedContentError.longDesc "<p>La paĝo, kiun vi volas vidi, ne povas esti montrita, ĉar okazis eraro en la sendado de datumoj.</p><ul><li>Bonvolu kontakti la posedantojn de tiu retejo kaj raporti al ili tiun ĉi problemon.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Eraro pro difektita enhavo">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La paĝo, kiun vi klopodas vidi, ne povas esti montrita ĉar okazis eraro dum la transmeto de datumoj.</p><ul><li>Bonvolu kontakti la posedantojn de la retejo por raporti al ili tiun ĉi problemon.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Aŭ vi povas aldoni escepton…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Mi volas foriri de ĉi tie!">
 <!ENTITY securityOverride.exceptionButtonLabel "Aldoni escepton…">
-
-<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
-
-<!ENTITY securityOverride.warningContent "
-<p>Vi ne devus aldoni escepton se vi uzas interretan konekton kiun vi ne fidas tute, aŭ se vi ne kutimas vidi averton por tiu ĉi retejo.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
 
 <!ENTITY errorReporting.automatic2 "Raporti erarojn kiel tiu ĉi por helpi Mozillan identigi kaj bloki malicajn retejojn">
 <!ENTITY errorReporting.learnMore "Pli da informo…">
@@ -164,3 +155,20 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoAdvanced.title "Altnivela">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> uzas sekurecan teĥnologion, kiu estas kaduka kaj sendefenda. Atakanto povas facile elmeti informojn, kiujn vi opiniis sekuraj.">
 <!ENTITY weakCryptoAdvanced.override "(Ne sekura) Klopodi ŝargi <span class='hostname'></span> kun kaduka sekureco">
+
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>Ne eblas sekure konektiĝi al <span id='wrongSystemTime_URL'/> ĉar via horloĝo estas ŝajne malĝusta.</p> <p>Via komputilo pensas ke nun estas <span id='wrongSystemTime_systemDate'/>, sed la dato devus esti <span id='wrongSystemTime_actualDate'/>. Por solvi tiun ĉi problemon, ŝanĝu la daton kaj horon tiel ke ili kongruas kun la ĝustaj dato kaj horo.</p>">
+
+<!ENTITY certerror.pagetitle1  "Nesekura konekto">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tiu ĉi retejo uzas HTTP
+Strict Transport Security (HSTS) por specifi ke &brandShortName; nur povas konekti ĝin sekure. Pro tio, ne eblas aldoni escepton por tiu ĉi atestilo.">
+<!ENTITY certerror.copyToClipboard.label "Kopii tekston al tondujo">
+
+<!ENTITY inadequateSecurityError.title "Via konekto ne estas sekura">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uzas sekurecan teĥnologion kiu estas kaduka kaj sendefenda. Atakanto povus facile elmeti informojn, kiujn vi opiniis sekuraj. La administranto de la retejo devos ripari la servilon, antaŭ ol vi povos viziti ĝin.</p><p>Erarkodo: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY prefReset.longDesc "Ŝajne viaj retaj sekurecaj agordoj povus esti la kaŭzo. Ĉu vi volas restarigi la normajn agordojn?">
+<!ENTITY prefReset.label "Restarigi normajn agordojn">

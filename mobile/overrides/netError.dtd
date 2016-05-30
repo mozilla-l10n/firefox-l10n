@@ -40,6 +40,12 @@
 <li>Kontrolu ĉu la dosiero estis movita, renomita aŭ forviŝita.</li> 
 </ul>">
 
+<!ENTITY fileAccessDenied.title "Rifuzita aliro al la dosiero">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Eble ĝi estis forigita, movita aŭ la dosieraj permesoj evitas aliron al ĝi.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Fuŝ’.">
 <!ENTITY generic.longDesc "<p>Pro iu kialo &brandShortName; ne povas ŝargi tiun ĉi paĝon.</p>">
@@ -158,9 +164,6 @@ la eraro povas esti tempa kaj vi povos klopodi denove poste.</li>
 <!ENTITY cspBlocked.title "Blokita de la sekureca politiko pri enhavo">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ne permesis ŝargi la paĝon ĉi tiel, ĉar la paĝo havas sekurecan politikon pri enhavo kiu malpermesas tion.</p>">
 
-<!ENTITY corruptedContentError.title "Eraro pro difektita enhavo">
-<!ENTITY corruptedContentError.longDesc "<p>La paĝo, kiun vi volas vidi, ne povas esti montrita, ĉar okazis eraro en la sendado de datumoj.</p><ul><li>Bonvolu kontakti la posedantojn de tiu retejo kaj raporti al ili tiun ĉi problemon.</li></ul>">
-
 <!ENTITY securityOverride.linkText "Aŭ vi povas aldoni escepton…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Mi volas foriri de ĉi tie!">
 <!ENTITY securityOverride.exceptionButtonLabel "Aldoni escepton…">
@@ -189,3 +192,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Spertula informo: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Via konekto ne estas sekura">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uzas sekurecan teĥnologion, kiu estas kaduka kaj sendefenda. Atakanto povas facile elmeti informojn, kiujn vi opiniis sekuraj. La administranto de la retejo devos ripari la servilon antaŭ ol vi povos viziti la retejon.</p><p>Erarkodo: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

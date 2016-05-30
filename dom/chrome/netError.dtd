@@ -19,6 +19,9 @@
 <!ENTITY fileNotFound.title "Dosiero ne trovita">
 <!ENTITY fileNotFound.longDesc "<ul><li>Ĉu eble la elemento estis renomita, forigita aŭ translokigita?</li><li>Ĉu estas literumada, mismetitaj majuskloj aŭ minuskloj aŭ alia tajpada eraro en la adreso?</li><li>Ĉu vi havas sufiĉajn rajtojn por la petita elemento?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Rifuzita aliro al dosiero">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Eble ĝi eble forigita, movita aŭ la dosieraj permesoj evitas aliron.</li></ul>">
+
 <!ENTITY generic.title "Ne eblas kompletigi la peton">
 <!ENTITY generic.longDesc "<p>Nuntempe ne eblas doni plian informon pri tiu ĉi problemo aŭ eraro.</p>">
 
@@ -81,8 +84,10 @@
 <!ENTITY cspBlocked.title "Blokita de la sekureca politiko pri enhavo">
 <!ENTITY cspBlocked.longDesc "<p>La restesplorilo ne permesis ŝargi la paĝon ĉi tiel, ĉar la paĝo havas sekurecan politikon pri enhavo kiu malpermesas tion.</p>">
 
-<!ENTITY corruptedContentError.title "Eraro pro difektita enhavo">
-<!ENTITY corruptedContentError.longDesc "<p>La paĝo kiun vi volas vidi ne povas esti montrita ĉar okazis eraro en la sendado de datumoj.</p><ul><li>Bonvolu kontakti la posedantojn de tiu retejo kaj raporti al ili tiun ĉi problemon.</li></ul>">
-
 <!ENTITY remoteXUL.title "Fora XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Bonvolu kontakti la posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Via konekto ne estas sekura">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>  uzas sekurecan teĥnologion, kiu estas kaduka kaj sendefenda.  uzas sekurecan teĥnologion, kiu estas kaduka kaj sendefenda. La administranto de la retejo devos ripari la servilon antaŭ ol vi povos viziti la retejon.</p><p>Erarkodo: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
