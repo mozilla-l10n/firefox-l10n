@@ -495,7 +495,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Mba'erechaha rugua mopyenda…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Kuatiarogue mbojoapy">
-<!ENTITY bookmarkThisLinkCmd.label      "Ko joajuha techaukaháre mbojoapy">
+<!ENTITY bookmarkThisLinkCmd.label      "Ko joajuha mbojoapy techaukaháre">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Ko ovetã'i techaukaháre mbojoapy">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
