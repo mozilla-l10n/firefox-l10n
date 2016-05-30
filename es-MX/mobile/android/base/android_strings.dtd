@@ -225,7 +225,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluyendo a terceros">
 <!ENTITY pref_cookies_disabled "Deshabiltado">
 
-<!ENTITY pref_category_data_saver "Protector de datos">
+<!ENTITY pref_category_data_saver "Ahorrador de datos">
 <!ENTITY pref_category_media "Multimedia">
 <!ENTITY pref_category_developer_tools "Herramientas de desarrollador">
 
