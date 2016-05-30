@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Kundaha ñemi)">
 
-<!ENTITY appmenu.tooltip                     "Marandurendápe jeike">
+<!ENTITY appmenu.tooltip                     "Poravorãme jeike">
 <!ENTITY navbarOverflow.label                "Tembipuruve…">
 <!-- Tab context menu -->
 
@@ -79,11 +79,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Techaukaha rembipuru renda remimoĩ">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Embohekopyahu opaite tendayke">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Emyenyhẽjey opaite tendayke">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Embosa'y opaite tendayke…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Embojoapy opaite tendayke…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Emboguevi ha emboty tendayke ">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Emboguevi tendayke ñemboty ">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "Ayvu reñoiha kuatiarogue">
@@ -163,9 +163,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "Embohasa ko ta'ãngamýi">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu2.label "Ko kuatiaroguépe ñemboheraguapy">
-<!ENTITY subscribeToPageMenupopup.label "Ko kuatiaroguépe ñemboheraguapy">
-<!ENTITY subscribeToPageMenuitem.label "Ko kuatiaroguépe ñemboheraguapy…">
+<!ENTITY feedsMenu2.label "Ko ñandutiroguépe ñemboheraguapy">
+<!ENTITY subscribeToPageMenupopup.label "Ko ñandutiroguépe ñemboheraguapy">
+<!ENTITY subscribeToPageMenuitem.label "Ko ñandutiroguépe ñemboheraguapy…">
 <!ENTITY addCurPagesCmd.label "Tendayke mbojoapy techaukaháre…">
 <!ENTITY showAllBookmarks2.label "Opaite techaukaha jehechauka">
 <!ENTITY recentBookmarks.label "Oñembokurusu ramóva">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Techaukaha">
-<!ENTITY bookmarksMenuButton.other.label "Ambuekuéra Techaukaha">
+<!ENTITY bookmarksMenuButton.other.label "Ambue Techaukahakuéra">
 <!ENTITY viewBookmarksSidebar2.label        "Techaukaha ra'ãngarupa yke recha">
 <!ENTITY viewBookmarksToolbar.label         "Techaukaha renda jehecha">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -334,24 +334,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.label "Tembiasakue">
 <!ENTITY appMenuHistory.showAll.label "Tembiasakue jehechaukapa">
 <!ENTITY appMenuHistory.clearRecent.label "Tembiasakue ramovéva ñemopotĩ…">
-<!ENTITY appMenuHistory.restoreSession.label "Tembiasakue ramovéva ñemopotĩ">
-<!ENTITY appMenuHistory.viewSidebar.label "Ta'ãngarupa yke rembiasakue jehecha">
+<!ENTITY appMenuHistory.restoreSession.label "Tembiapopa'ũ ramovéva ñemboguevi">
+<!ENTITY appMenuHistory.viewSidebar.label "Tembiasakue renda yke jehechauka">
 <!ENTITY appMenuHelp.tooltip "Poravorã ñepytyvõme jeike">
 
-<!ENTITY appMenuRemoteTabs.label "Tendayke Oñembojuehepyre">
+<!ENTITY appMenuRemoteTabs.label "Tendayke oñembojuehepyre">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ndaipóri tendayke ijurujáva">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Emyandy tendayke mbojueheha ehecha hag̃ua peteĩ tendayke rysýi ambue ne mba'e'oka peguáva.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Emyendy tendayke mbojueheha ehecha hag̃ua peteĩ tendayke rysýi ambue ne mba'e'oka peguáva.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Noñembojuehéi tendaykekuéra… ne'ĩra gueteri!">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Ehechasépa tendaykekuéra ambue mba'e'okaguáva ko'ápe">
+<!ENTITY appMenuRemoteTabs.noclients.title "Ndaipóri tendayke mbojuehepyre… gueteri!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Ehechasépa tendaykekuéra ambue mba'e'okaguáva ko'ápe?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Jerohoryvéva Mbojuehe">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Emoñepyrũ tembiapo ehecha hag̃ua tendayke rysýi ambue ne mba'e'okaguáva.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Emoñepyrũ tembiapopa'ũ ehecha hag̃ua tendayke rysýi ambue ne mba'e'okaguáva.">
 <!ENTITY appMenuRemoteTabs.signin.label "Eike Sync-pe">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ehecha mbojuehepyre tenda yképe">
 
@@ -359,18 +359,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "Poravorãre mbojoapy">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "Tembipuru rendápe ñemomýi">
+<!ENTITY customizeMenu.moveToToolbar.label "Tembipuru rendápe jegueraha">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Poravorãme jegueraha">
+<!ENTITY customizeMenu.moveToPanel.label "Poravorã rupápe jegueraha">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-<!ENTITY customizeMenu.removeFromToolbar.label "Tembipuru rendágui mbogue">
+<!ENTITY customizeMenu.removeFromToolbar.label "Tembipuru rendágui mboguete">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
-<!ENTITY customizeMenu.removeFromMenu.label "Poravorãgui mbogue">
+<!ENTITY customizeMenu.removeFromMenu.label "Poravorã rupágui mboguete">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Mba'epuruve mbojoapy…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
@@ -722,7 +722,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Kundahára rendayke">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu3.label     "Tendayke Oñembojuehepyre">
+<!ENTITY syncTabsMenu3.label     "Tendayke oñembojuehepyre">
 
 <!ENTITY syncedTabs.sidebar.label              "Tendayke ñembojuehepyre">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Emoñepyrũ tembiapo Firefox-pe ambue ne mba'e'okakuéra rupive eike hag̃ua ne tendaykekuérape ápe.">
@@ -786,7 +786,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.viewmore.text "Jehechave">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "Tembipuru ha heseguáva mbohetapy">
-<!ENTITY customizeMode.menuAndToolbars.empty "Reipotavépa tembipuru">
+<!ENTITY customizeMode.menuAndToolbars.empty "Reipotavépa tembipuru?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Eiporavo hetaiterei moimbaha apytégui">
 <!ENTITY customizeMode.restoreDefaults "Ijypykuépe mbojevy">
 <!ENTITY customizeMode.toolbars "Tembipuru renda hechauka / mokañy">
@@ -796,7 +796,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.recommended "Jeroviaha">
 <!ENTITY customizeMode.lwthemes.menuManage "Ñangareko">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Ehekave téma">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Ehekave Mbojeguaha">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -804,7 +804,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.chatBar.accesskey "c">
 
 <!ENTITY social.markpageMenu.accesskey "P">
-<!ENTITY social.markpageMenu.label "Kutiarogue eñongatu ápe…">
+<!ENTITY social.markpageMenu.label "Kuatiarogue ñongatu ápe…">
 <!ENTITY social.marklinkMenu.accesskey "L">
 <!ENTITY social.marklinkMenu.label "Joajuha ñongatu pyahu…">
 
@@ -888,5 +888,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "¡Jeikekatu!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Aguyje">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Hetave marandu  DRM y ...gui">
+<!ENTITY emeLearnMoreContextMenu.label            "Eikuaave DRM rehe...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
