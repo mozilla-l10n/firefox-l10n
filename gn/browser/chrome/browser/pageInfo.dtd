@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "URL mamoguápa:">
 <!ENTITY  generalSource         "Kache ñepyrũha:">
 <!ENTITY  generalModified       "Moambuepyréva:">
-<!ENTITY  generalEncoding2      "Moñe'ẽra mbopapapy:">
+<!ENTITY  generalEncoding2      "Moñe'ẽrã mbopapapy:">
 <!ENTITY  generalMetaName       "Téra">
 <!ENTITY  generalMetaContent    "Tetepy">
 
@@ -56,7 +56,7 @@
 <!ENTITY  permAllowSession      "Ko tendápe ñemoneĩ">
 <!ENTITY  permBlock             "Joko">
 <!ENTITY  permissionsFor        "Emoneĩ hag̃ua:">
-<!ENTITY  permPlugins           "Mboguejyrã'i myandy">
+<!ENTITY  permPlugins           "Mba'ejoajurã myendy">
 
 <!ENTITY  permClearStorage           "Mbyatypyre ñemopotĩ">
 <!ENTITY  permClearStorage.accesskey "C">

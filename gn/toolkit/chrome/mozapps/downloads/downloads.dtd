@@ -11,7 +11,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "Ñemoñepyrũ…">
 <!ENTITY scanning.label                   "Mba'echu'i jehekapy ñehesa'ỹijo…">
 
-<!ENTITY downloads.title                  "Omboguejy">
+<!ENTITY downloads.title                  "Ñemboguejy">
 
 <!ENTITY cmd.pause.label                  "Emombegue">
 <!ENTITY cmd.pause.accesskey              "P">

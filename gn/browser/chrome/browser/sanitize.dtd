@@ -48,7 +48,7 @@ that require it.  -->
 <!ENTITY historySection.label         "Tembiasakue">
 <!ENTITY dataSection.label            "Mba'ekuaarã">
 
-<!ENTITY itemHistoryAndDownloads.label     "Kundaha ha mboguejyrã rembiasakue">
+<!ENTITY itemHistoryAndDownloads.label     "Kundaha ha ñemboguejypyre rembiasakue">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "Jeheka rembiasakue myanyhẽha">
 <!ENTITY itemFormSearchHistory.accesskey   "F">

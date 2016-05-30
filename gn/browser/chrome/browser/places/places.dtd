@@ -6,8 +6,8 @@
 <!ENTITY places.library.title  "Mba'erysýi">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Japokuaa">
-<!ENTITY organize.accesskey    "J">
+<!ENTITY organize.label        "Mohenda">
+<!ENTITY organize.accesskey    "M">
 <!ENTITY organize.tooltip      "Embohekokatu nde rechaukahakuéra">
 
 <!ENTITY file.close.label               "Mboty">
@@ -94,7 +94,7 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Mba'ereru ha jepytaso">
+<!ENTITY maintenance.label      "Mba'ereru ha Ñongatuguy">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Nde rechahaukakuéra mba'ereru ha mba'ereraha">
 

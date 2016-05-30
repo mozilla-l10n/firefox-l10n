@@ -38,7 +38,7 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Emyandy jehechajey moimbaha rekorosãrã reheguáva">
 <!-- global informations -->
 
-<!ENTITY info.plugincheck.label                 "Ejopy ko'ápe ehecha hag̃ua nemboguejyrã'ípa hekopyahu">
+<!ENTITY info.plugincheck.label                 "Ejopy ko'ápe ehecha hag̃ua hekopyahúpa mba'ejoajurã">
 <!ENTITY info.plugincheck.tooltip               "Ejopy ko'ápe ehecha hag̃ua nemboguejyrã'ípa hekopyahúma">
 <!-- categories / views -->
 
@@ -132,7 +132,7 @@
 <!ENTITY detail.lastupdated.label             "Ñembohekopyahu ramovéva">
 <!ENTITY detail.creator.label                 "Mboguatahára">
 <!ENTITY detail.homepage.label                "Kuatiarogue ñepyrũ">
-<!ENTITY detail.numberOfDownloads.label       "Omboguejy">
+<!ENTITY detail.numberOfDownloads.label       "Ñemboguejy">
 
 <!ENTITY detail.contributions.description     "Ko moimbaha mboguatahára ojerure eipytyvõ okueve hag̃ua mboguatahápe ejapóvo peteĩ michĩmíva mba'eme'ẽ.">
 

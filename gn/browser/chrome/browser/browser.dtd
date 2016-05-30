@@ -197,7 +197,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ehecha app-offline-pe marandu mbyatypyre">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Eñangareko nde jeike marandu rehe">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Ehechajey eñongatusépa neñe'ẽñemi">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Eñangareko mboguejyrã'i jepuru ko kuatiaroguépe">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Eñangareko mba'ejoajurã jepuru ko kuatiaroguépe">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Emoambue eipotárõ oñemog̃uahẽ ndéve ñemomarandu ko ñandutirenda omondóva.">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive">
@@ -243,11 +243,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Ñe'ẽ ñemi mbojoapy ko jehekápe g̃uarã…">
 <!ENTITY keywordfield.accesskey       "K">
 
-<!ENTITY downloads.label              "Mboguejyrã">
+<!ENTITY downloads.label              "Ñemboguejy">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "Mbojoajurã">
+<!ENTITY addons.label                 "Moĩmbaha">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
@@ -526,9 +526,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Mba'epu mondo…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Mboguejyrã'i myendy">
+<!ENTITY playPluginCmd.label          "Mba'ejoajurã myendy">
 <!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Mboguejyrã'i moñemi">
+<!ENTITY hidePluginCmd.label          "Mba'ejoajurã moñemi">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "Joajuha rape mbohasarã">
 <!ENTITY copyLinkCmd.accesskey        "a">
@@ -850,7 +850,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginActivateNow.label "Ko'ág̃a moneĩ ">
 <!ENTITY pluginActivateAlways.label "Ñemoneĩ ha mandu'a">
-<!ENTITY pluginBlockNow.label "Mboguejyrã'i jokoha">
+<!ENTITY pluginBlockNow.label "Mba'ejoajurã joko">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
