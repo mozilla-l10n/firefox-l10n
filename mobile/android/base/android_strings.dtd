@@ -536,9 +536,9 @@ size. -->
 
 <!ENTITY home_title "Pachina d\u0027inicio de &brandShortName;">
 <!ENTITY home_history_title "Historial">
-
-
-
+<!ENTITY home_synced_devices_smartfolder "Dispositivos sincronizaus">
+<!ENTITY home_synced_devices_number "&formatD; dispositivos">
+<!ENTITY home_history_back_to2 "Tornar ta l\u0027historial completo">
 <!ENTITY home_clear_history_button "Limpiar l\u0027historial de navegacion">
 <!ENTITY home_clear_history_confirm "Yes seguro que quiers eliminar l\u0027historial?">
 <!ENTITY home_bookmarks_empty "Os marcadors que alce s\u0027amuestran aquí.">
