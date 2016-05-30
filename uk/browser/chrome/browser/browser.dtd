@@ -847,7 +847,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.showAll.accesskey "в">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Дозволити на зараз">
+<!ENTITY pluginActivateNow.label "Дозволити зараз">
 <!ENTITY pluginActivateAlways.label "Дозволити і запам’ятати">
 <!ENTITY pluginBlockNow.label "Заблокувати плагін">
 
