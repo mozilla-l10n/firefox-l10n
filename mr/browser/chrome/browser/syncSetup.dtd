@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; मांडणी">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "स्वागत आहे! याअगोदर कधिही &syncBrand.fullName.label; याचा वापर न केले असल्यास, आपणास नवीन खाते निर्माण करावे लागेल.">
 <!ENTITY button.createNewAccount.label "नवीन खाते निर्माण करा">
 <!ENTITY button.haveAccount.label      "माझ्याकडे खाते आहे">
 
 <!ENTITY setup.choicePage.title.label     "आधि &syncBrand.fullName.label; केव्हाहि वापरले?">
-
-
+<!ENTITY setup.choicePage.new.label       "मी याआधी &syncBrand.shortName.label;चा वापर कधिही केला नाही">
+<!ENTITY setup.choicePage.existing2.label "मी दुसऱ्या साधनावर आधीपासूनच &syncBrand.shortName.label; याचा वापर करत आहे">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "सर्व्हर">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "साधनाची जोडणी करा">
 <!ENTITY addDevice.showMeHow.label          "कसे करायचे ते दाखवा.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "माझ्या सोबत उपकरण नाही…">
 <!ENTITY pairDevice.setup.description.label  "सुरू करण्यासाठी, इतर साधनवरील &quot;साधनाची जोडणी करा&quot; निवडा.">
 <!ENTITY addDevice.setup.enterCode.label    "त्यानंतर, हा कोड द्या:">
 <!ENTITY pairDevice.dialog.description.label "नवीन साधन सुरू करण्यासाठी, साधनवरील &quot;सिंकची मांडणी करा&quot; निवडा.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "ॲड-ऑन्स्">
 <!ENTITY engine.addons.accesskey    "A">
 
+<!ENTITY choice2a.merge.main.label       "ह्या साधनाची माहिती माझ्या &syncBrand.shortName.label; च्या माहितीत एकत्रीत करा">
 <!ENTITY choice2.merge.recommended.label "शिफारसीय:">
 <!ENTITY choice2a.client.main.label      "ह्या साधनावरील सर्व माहिती माझ्या &syncBrand.shortName.label; माहितीसह बदला">
-
+<!ENTITY choice2a.server.main.label      "ह्या साधनाच्या डाटाने इतर सर्व साधनांच्या डाटाला बदला">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "खात्री करा">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; आत्ता ह्या साधनाची ब्राउझर माहिती आपल्या Sync खात्याशी एकत्रीत करेल.">
 <!ENTITY confirm.client3.label         "सावधानता: ह्या साधनावरील खालील &brandShortName;  माहिती नष्ट केली जाईल:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; त्यानंतर आपल्या &syncBrand.fullName.label; माहितीचे ह्या साधनावर प्रत बनवेल.">
 <!ENTITY confirm.server2.label         "सावधानता: खालील साधने आपल्या स्थानीय डाटाशी खोडून पुनः लिहीले जाईल:">

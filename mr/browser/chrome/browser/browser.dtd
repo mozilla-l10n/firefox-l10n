@@ -741,12 +741,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "दुव्याला नवीन पटलात उघडा">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-
-
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "नवीन वैयक्तिक पटलात दुवा उघडा">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "या पृष्ठास वाचनखूण लावा…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "प्रत बनवा">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "ताळमेळ">
