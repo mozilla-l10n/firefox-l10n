@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Neniam kontroli ĉu estas ĝisdatigoj (ne rekomendita: sekureca risko)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Averti min se tio malaktivigos iun ajn el miaj aldonaĵoj">
-<!ENTITY updateAutoAddonWarn.accesskey   "v">
-
 <!ENTITY updateHistory.label             "Montri la historion de ĝisdatigoj">
 <!ENTITY updateHistory.accesskey         "M">
 

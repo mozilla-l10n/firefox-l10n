@@ -54,6 +54,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Agento de uzanto">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Uzado de memoro">
+<!ENTITY aboutSupport.appBasicsPerformance "Efikeco">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registritaj Service Workers">
@@ -106,3 +107,11 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Provi la sekuran reĝimon">
 <!ENTITY aboutSupport.restartInSafeMode.label "Restartigi kun ĉiuj aldonaĵoj malaktivaj…">
+
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Trajtoj">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnozoj">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Registro de misoj">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Registro de decidoj">
+

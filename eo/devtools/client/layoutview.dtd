@@ -16,8 +16,13 @@
   -  The text appears on the bottom right corner of the layout view when
   -  the corresponding box is hovered. -->
 
-<!ENTITY layoutViewTitle        "Skatolmodelo">
-<!ENTITY margin.tooltip         "marĝeno">
-<!ENTITY border.tooltip         "rando">
-<!ENTITY padding.tooltip        "ŝtopado">
-<!ENTITY content.tooltip        "enhavo">
+<!ENTITY layoutViewTitle          "Skatolmodelo">
+<!ENTITY margin.tooltip           "marĝeno">
+<!ENTITY border.tooltip           "rando">
+<!ENTITY padding.tooltip          "ŝtopado">
+<!ENTITY content.tooltip          "enhavo">
+
+<!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
+  -  hovering over the button that allows users to edit the position of an
+  -  element in the page. -->
+<!ENTITY geometry.button.tooltip  "Modifi pozicion">

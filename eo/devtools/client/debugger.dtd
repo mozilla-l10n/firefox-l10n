@@ -165,12 +165,12 @@
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "Aldoni kondiĉan haltopunkton">
-<!ENTITY debuggerUI.seMenuCondBreak.key "B">
+<!ENTITY debuggerUI.seMenuCondBreak.key "k">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak     "Redakti kodiĉan haltopunkton">
-<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "k">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
