@@ -43,7 +43,7 @@
 
 <!ENTITY cmd.bookmarkLink.label         "Kuatiarogue techaukaháre mbojuapy…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
-<!ENTITY cmd.delete.label               "Ko kuatiarogue Ñembogue">
+<!ENTITY cmd.delete.label               "Ko kuatiarogue Ñemboguete">
 <!ENTITY cmd.delete.accesskey           "Ñ">
 <!ENTITY cmd.deleteDomainData.label     "Ko Ñanduti Rendágui Tesarái">
 <!ENTITY cmd.deleteDomainData.accesskey "T">
