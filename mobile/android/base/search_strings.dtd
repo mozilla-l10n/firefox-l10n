@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage 'Alle sykskiednis fan dit apparaat wiskje?'>
 <!ENTITY pref_clearHistory_title 'Sykskiednis wiskje'>
 
-<!ENTITY pref_searchProvider_title 'Sykmasine'>
-
 <!ENTITY search_widget_button_label 'Sykje'>
 
 <!ENTITY network_error_title 'Gjin ynternetferbining'>
