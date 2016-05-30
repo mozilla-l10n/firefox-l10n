@@ -191,10 +191,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.override "(Није безбедно) Покушавате да учитате <span class='hostname'></span> користећи застарелу безбедност">
 
 <!ENTITY certerror.pagetitle1  "Несигурна веза">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "This site uses HTTP
-Strict Transport Security (HSTS) to specify that &brandShortName; only connect
-to it securely. As a result, it is not possible to add an exception for this
-certificate.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Овај сајт користи HTTP
+Strict Transport Security (HSTS) да би одредио да се &brandShortName; на њега повезује
+само безбедно. Као резултат тога, није могуће додати изузетак за овај 
+сертификат.">
 <!ENTITY certerror.copyToClipboard.label "Копирај текст на clipboard">
 
 <!ENTITY inadequateSecurityError.title "Веза није сугурна">
