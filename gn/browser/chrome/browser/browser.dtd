@@ -293,7 +293,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.label           "Mboja">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "Mbogue">  
+<!ENTITY deleteCmd.label          "Mboguete">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "D"> 
 <!ENTITY selectAllCmd.label         "Poravopa">  
@@ -334,7 +334,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.label "Tembiasakue">
 <!ENTITY appMenuHistory.showAll.label "Tembiasakue jehechaukapa">
 <!ENTITY appMenuHistory.clearRecent.label "Tembiasakue ramovéva ñemopotĩ…">
-<!ENTITY appMenuHistory.restoreSession.label "Tembiapopa'ũ ramovéva ñemboguevi">
+<!ENTITY appMenuHistory.restoreSession.label "Tembiapopa'ũ ramovéva ñembojevy">
 <!ENTITY appMenuHistory.viewSidebar.label "Tembiasakue renda yke jehechauka">
 <!ENTITY appMenuHelp.tooltip "Poravorã ñepytyvõme jeike">
 
@@ -876,7 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The translation should do the same. -->
 
 <!ENTITY panicButton.view.mainActionDesc          "Ojapohína péicha:">
-<!ENTITY panicButton.view.deleteCookies           "Emboguete <html:strong>Kookie</html:strong>ramoguáva">
+<!ENTITY panicButton.view.deleteCookies           "Emboguete <html:strong>Cookie</html:strong>ramoguáva">
 <!ENTITY panicButton.view.deleteHistory           "Emboguete <html:strong>Tembiasakue</html:strong>ramoguáva">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Embotypa <html:strong>Tendayke</html:strong> ha <html:strong>Ovetã</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Eipe'a ovetã pyahu nandíva">

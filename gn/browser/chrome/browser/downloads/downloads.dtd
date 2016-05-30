@@ -60,11 +60,11 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "J">
 <!ENTITY cmd.copyDownloadLink.label       "Ñemboguejy rape mbohasarã">
 <!ENTITY cmd.copyDownloadLink.accesskey   "m">
-<!ENTITY cmd.removeFromHistory.label      "Embogue tembiasakuégui ">
+<!ENTITY cmd.removeFromHistory.label      "Emboguete tembiasakuégui ">
 <!ENTITY cmd.removeFromHistory.accesskey  "m">
 <!ENTITY cmd.clearList.label              "Tysýi ñemopotĩ">
 <!ENTITY cmd.clearList.accesskey          "m">
-<!ENTITY cmd.clearDownloads.label         "Mboguejypy mopotĩ">
+<!ENTITY cmd.clearDownloads.label         "Mboguejypyre mopotĩ">
 <!ENTITY cmd.clearDownloads.accesskey     "M">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
@@ -107,19 +107,19 @@
 <!ENTITY downloadsHistory.label           "Opaite ñemboguejypyre jehechauka">
 <!ENTITY downloadsHistory.accesskey       "S">
 
-<!ENTITY clearDownloadsButton.label       "Mboguejypy mopotĩ">
+<!ENTITY clearDownloadsButton.label       "Mboguejypyre mopotĩ">
 <!ENTITY clearDownloadsButton.tooltip     "Emopotĩ oñemboguejypámava, ojehejareipyréva ha ndoguejyporãiva'ekue">
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
      -->
 
-<!ENTITY downloadsListEmpty.label         "Ndaipóri mboguejypy.">
+<!ENTITY downloadsListEmpty.label         "Ndaipóri mboguejypyre.">
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
 
-<!ENTITY downloadsPanelEmpty.label        "Ndaipóri ñemboguejypyre ko tembiapo pa'ũme.">
+<!ENTITY downloadsPanelEmpty.label        "Ndaipóri ñemboguejypyre ko tembiapopa'ũme.">
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.

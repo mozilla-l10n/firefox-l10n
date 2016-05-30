@@ -62,7 +62,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; hekopyahúma">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Tekopyahu ñangarekohára omboguéva">
+<!ENTITY update.adminDisabled       "Tekopyahu ñangarekohára omongeva'ekue">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; oñembohekopyahuhína ambuéva rupi">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
