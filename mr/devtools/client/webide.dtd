@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "इतर">
 <!ENTITY runtimePanel_installsimulator "सिम्युलेटर इंस्टॉल करा">
 <!ENTITY runtimePanel_noadbhelper "ADB हेल्पर इंस्टॉल करा">
-
+<!ENTITY runtimePanel_nousbdevice "आपले उपकरण दिसत नाही का?">
 <!ENTITY runtimePanel_refreshDevices_label "पुन्हा दाखल करा">
 <!-- Lense -->
 

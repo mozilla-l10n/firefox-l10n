@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "यावर क्लिक करा">
-
+<!ENTITY canvasDebuggerUI.emptyNotice2    "ॲनिमेशन फ्रेमचे कॉल स्टॅक रेकॉर्ड करण्यासाठी बटन.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 
