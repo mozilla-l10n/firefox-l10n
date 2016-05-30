@@ -39,6 +39,12 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Tagong ta it bestân is wegere">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>It kin fuortsmiten wêze, ferpleatst, of bestânsmachtigingen kinne tagong tsjingean.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Oei.">
 <!ENTITY generic.longDesc "
@@ -164,23 +170,9 @@
 <!ENTITY corruptedContentError.longDesc "<p>De side dy't jo probearje te besjen kin net toand wurde omdat der in flater yn de gegevensoerdracht ûntdekt waard.</p><ul><li>Nim kontakt op mei de website-eigners om se te ynformearjen oer dit probleem.</li></ul>">
 
 
-<!ENTITY securityOverride.linkText "Of jo kinne in útsûndering tafoegje…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Helje My Hjir út!">
 <!ENTITY securityOverride.exceptionButtonLabel "Foech Utsûndering ta">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
-
-<!ENTITY securityOverride.warningContent "
-<p>Jo kinne better gjin útsûndering tafoegje as jo in ynternetferbining hawwe dy't jo net folslein fertrouwe, of as it net normaal is dat jo in warskôging sjogge foar dizze tsjinner.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
-
-<!ENTITY errorReporting.automatic2 "Rapportearje flaters as dizze om Mozilla te helpen kweawollende websites te werkennen en te blokkearjen">
+<!ENTITY errorReporting.automatic2 "Flaters as dizze rapportearje om Mozilla te helpen kweawollende websites te werkennen en te blokkearjen">
 <!ENTITY errorReporting.learnMore "Mear ynfo…">
 
 <!ENTITY remoteXUL.title "Remote XUL">
@@ -201,3 +193,15 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY weakCryptoAdvanced.title "Avansearre">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûntdekke wêrfan jo tochten dat dizze feilich wienen.">
 <!ENTITY weakCryptoAdvanced.override "(Net befeilige) <span class='hostname'></span> probearje te laden fia ferâldere befeiliging">
+
+<!ENTITY certerror.pagetitle1  "Net-befeilige ferbining">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dizze website makket gebrûk
+fan HTTP Strict Transport Security (HSTS) om oan te jaan dat &brandShortName;
+allinnich in befeilige ferbining meitsje mei. Hjirtroch is it net mooglik om in
+útsûndering foar dit sertifikaat ta te foegjen.">
+<!ENTITY certerror.copyToClipboard.label "Tekst nei klamboerd kopiearje">
+
+<!ENTITY inadequateSecurityError.title "Jo ferbining is net befeilige">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûnthulle wêrfan jo tochten dat dizze feilich wienen. De websitebehearder moat earst de server yn oarder meitsje eardat jo de website besykje kinne.</p><p>Flaterkoade: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

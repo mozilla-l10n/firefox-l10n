@@ -67,7 +67,7 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Typ de koade dy't it apparaat jout:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probearje op 'e nij.">
 <!ENTITY addDevice.dialog.successful.label  "It apparaat is suksesfol tafoege. De earste syngronisaasje kin inkele minuten duorje en sil op de achtergrûn slute.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "Om jo apparaat te aktivearjen moatte jo jo werstelkaai opjaan. Meitsje in ôfdruk of bewarje dizze kaai en nim it mei jo mei.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Om jo apparaat te aktivearjen, moatte jo jo werstelkaai opjaan. Meitsje in ôfdruk of bewarje dizze kaai en nim it mei jo mei.">
 <!ENTITY addDevice.dialog.connected.label   "Apparaat ferbûn">
 
 <!-- Existing Account Page 2: Manual Login -->
@@ -102,7 +102,7 @@
 <!ENTITY choice2a.server.main.label     "Ferfang alle gegevens op oare apparaten mei dizze apparaatgegevens">
 
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Befestigje">
+<!ENTITY setup.optionsConfirmPage.title "Befêstigje">
 <!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; sil no alle browsergegevens fan dit apparaat kombinearje mei jo Sync-account.">
 <!ENTITY confirm.client3.label         "Warskôging: De folgjende &brandShortName;-gegevens op dit apparaat sille fuortsmiten wurde:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; sil dêrnei jo &syncBrand.fullName.label;-gegevens nei dit apparaat kopiearje.">

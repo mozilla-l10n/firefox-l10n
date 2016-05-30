@@ -11,9 +11,6 @@
 <!ENTITY warnOpenManyTabs.label       		"My warskôgje as it iepenjen fan mear ljepblêden &brandShortName; fertrage kin">
 <!ENTITY warnOpenManyTabs.accesskey   		"f">
 
-<!ENTITY restoreTabsOnDemand.label        	"Ljepblêden pas lade nei selektearjen">
-<!ENTITY restoreTabsOnDemand.accesskey    	"L">
-
 <!ENTITY switchToNewTabs.label        		"As ik in keppeling iepenje yn in nij ljepblêd, der direkt nei ta gean">
 <!ENTITY switchToNewTabs.accesskey    		"A">
 
