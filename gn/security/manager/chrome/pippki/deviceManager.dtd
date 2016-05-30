@@ -30,7 +30,7 @@
 <!ENTITY loaddevice.modname.default             "Ha'ãha pyahu PKCS#11">
 <!ENTITY loaddevice.filename                    "Marandurenda ra'ãha:">
 <!ENTITY loaddevice.filename.accesskey          "f">
-<!ENTITY loaddevice.browse                      "Hechakatu…">
+<!ENTITY loaddevice.browse                      "Poravo…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
 <!ENTITY loaddevice.title                       "Mba'e'oka PKCS#11 myanyhẽ">

@@ -40,7 +40,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Tysýi mopotĩ">
-<!ENTITY cmd.clearList.tooltip            "Mboguejypy opámava mboguete, ojeheja ha ojavýva tysýigui">
+<!ENTITY cmd.clearList.tooltip            "Mboguejypyre opámava, jehejapyréva ha javypyréva mboguete tysýigui">
 <!ENTITY cmd.clearList.accesskey          "m">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">

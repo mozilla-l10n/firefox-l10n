@@ -218,7 +218,7 @@
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Moneĩ ha mohenda…">
 
-<!ENTITY settings.path.button.label           "Hechakatu…">
+<!ENTITY settings.path.button.label           "Poravo…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.

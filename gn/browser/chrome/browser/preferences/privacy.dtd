@@ -66,7 +66,7 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ikatútapa:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
-<!ENTITY  historyHeader.remember.label     "Tembiasakue momandu'a">
+<!ENTITY  historyHeader.remember.label     "Tembiasakuére ñemandu'a">
 <!ENTITY  historyHeader.dontremember.label "Ani nemandu'a tembiasakuére">
 <!ENTITY  historyHeader.custom.label       "Eiporu peteĩ ñemboheko mba'etéva tembiasakuépe g̃uarã">
 <!ENTITY  historyHeader.post.label         "Guarani">

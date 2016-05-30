@@ -108,7 +108,7 @@
 <!ENTITY downloadsHistory.accesskey       "S">
 
 <!ENTITY clearDownloadsButton.label       "Mboguejypy mopotĩ">
-<!ENTITY clearDownloadsButton.tooltip     "Emopotĩ ñemboguejypapyréva, ojehejareiva'ekue ha ndoguejyporãiva'ekue">
+<!ENTITY clearDownloadsButton.tooltip     "Emopotĩ oñemboguejypámava, ojehejareipyréva ha ndoguejyporãiva'ekue">
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
