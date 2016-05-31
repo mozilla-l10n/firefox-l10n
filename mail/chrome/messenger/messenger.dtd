@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "간단히 보기">
 <!ENTITY compactVersion.accesskey "C">
+<!ENTITY folderPaneBar.label "폴더 창 도구모음">
+<!ENTITY folderModeSelector.label "폴더 보기">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "정렬">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "메시지 편집">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "임시 메시지 편집">
+<!ENTITY editDraftMsgCmd.accesskey "D">
 <!ENTITY createFilter.label "메시지로부터 규칙 만들기">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "다른 폴더로 이동">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "새로 편집…">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextEditDraftMsg.label "임시 메시지 편집">
 <!ENTITY contextArchive.label "보관">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "회신">
@@ -743,9 +748,15 @@
 <!ENTITY contextCopyMsgMenu.label "복사">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "글타래 무시">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "하위 글타래 무시">
 <!ENTITY contextWatchThreadMenu.label "글타래 보기">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "다른 이름으로 저장…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "인쇄…">

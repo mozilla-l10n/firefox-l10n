@@ -22,6 +22,10 @@
 <!ENTITY fileNotFound.title "파일을 찾을 수 없음">
 <!ENTITY fileNotFound.longDesc "<ul><li>파일 이름의 대소문자를 비롯한 오타가 없는지 확인해 보시기 바랍니다.</li><li>이동되었거나, 이름이 변경되었거나, 삭제된 파일을 보려고 하는 것은 아닌지 확인해 보시기 바랍니다.</li></ul>">
 
+<!ENTITY fileAccessDenied.title "파일 접근이 거부됨">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>파일이 지워졌거나, 옮겨졌거나, 파일 권한 문제로 접근이 거부될 수 있습니다.</li></ul>">
+
 <!ENTITY generic.title "이런.">
 <!ENTITY generic.longDesc "<p>&brandShortName;가 어떠한 이유로 인하여 현재 페이지를 읽을 수 없습니다.</p>">
 
@@ -71,21 +75,6 @@
 <!ENTITY nssBadCert.longDesc2 "<ul><li>현재 웹 서버 설정에 문제가 있거나 누군가가 원래 접속하려던 진짜 서버처럼 가장하고 있을 가능성이 있습니다.</li><li>만약 이전에 이 웹 서버에 정상적으로 접속을 한적이 있다면, 일시적인 문제일 수 있으니 나중에 다시 접속해 보시기 바랍니다.</li></ul>">
 
 <!ENTITY sharedLongDesc "<ul><li>서버가 일시적으로 사용할 수 없거나 또는 너무 많은 접속이 몰리는 상태일 수 있습니다. 잠시 후에 재시도해 보시기 바랍니다.</li><li>어떤 페이지도 열 수 없다면, 컴퓨터의 네트워크 연결을 확인해 보시기 바랍니다.</li><li>사용자의 컴퓨터나 네트워크가 방화벽 또는 프록시로 보호되고 있다면, &brandShortName;가 웹에 접속할 수 있도록 허용되어 있는지 확인해 주시기 바랍니다.</li></ul>">
-
-<!ENTITY malwareBlocked.title "공격 의심 사이트!">
-<!ENTITY malwareBlocked.longDesc "<p>공격 사이트가 개인 정보를 탈취하거나, 다른 컴퓨터를 공격하기 위해 사용자 컴퓨터를 이용하거나, 사용자 시스템에 손상 입히는데 사용할 악성 프로그램을 설치하려고 합니다.</p><p>만약 사용자가 공격 사이트로 지정된 웹 사이트의 소유자이고 잘못 등록되어 있다면 <a href='http://www.stopbadware.org/home/reviewinfo'>확인 요청</a>을 하실 수 있습니다.</p>">
-
-<!ENTITY unwantedBlocked.title "원치 않는 소프트웨어 의심 사이트!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>원치 않는 소프트웨어 사이트가 예상치 못한 방식으로 여러분의 시스템을 속이고 영향을 끼치는 소프트웨어를 설치하려 시도합니다.</p>
-">
-
-<!ENTITY phishingBlocked.title "위조 의심 사이트!">
-<!ENTITY phishingBlocked.longDesc "<p>현재 페이지에 개인 정보나 금융 정보를 입력하면 개인 정보 유출과 같은 신원 도난이나 유출한 개인 정보를 이용한 사기를 당할 수 있습니다.</p><p>이런 종류의 위조 웹 사이트들은 피싱 (Phishing) 공격을 하는 것으로 알려져있는데, 사용자가 신뢰할만한 사이트의 웹 페이지와 전자 메일 주소를 거의 원본에 가깝게 위조해서, 마치 신뢰된 웹 사이트에서 개인 정보 입력을 요구하는 것처럼 위장하여 사용자를 속입니다.</p>">
-
-<!ENTITY forbiddenBlocked.title "금지된 사이트">
-<!ENTITY forbiddenBlocked.longDesc "<p>&brandShortName;가 이 사이트를 막도록 설정되어 있기 때문에 페이지를 로딩하지 않았습니다.</p>
-">
 
 <!ENTITY cspBlocked.title "콘텐츠 보안 정책에 의해 차단되었습니다">
 <!ENTITY cspBlocked.longDesc "<p>콘텐츠 보안 정책에 의해 읽기가 금지된 콘텐츠가 포함되어 있기 때문에 이 페이지의 읽기를 중지했습니다.</p>">
