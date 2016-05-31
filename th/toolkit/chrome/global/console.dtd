@@ -4,7 +4,7 @@
 
 <!ENTITY errorConsole.title "หน้าจอข้อผิดพลาด">
 
-<!ENTITY errFile.label   "แฟ้มต้นฉบับ :">
+<!ENTITY errFile.label   "ไฟล์ต้นฉบับ:">
 <!ENTITY errLine.label   "บรรทัด:">
 <!ENTITY errColumn.label "สดมภ์ :">
 

@@ -8,9 +8,9 @@
 
 <!ENTITY printDialog.title "พิมพ์">
 
-<!ENTITY fpDialog.title "บันทึกแฟ้ม">
+<!ENTITY fpDialog.title "บันทึกไฟล์">
 
-<!ENTITY fileCheck.label "พิมพ์เป็นแฟ้ม">
+<!ENTITY fileCheck.label "พิมพ์เป็นไฟล์">
 <!ENTITY fileCheck.accesskey "ฟ">
 <!ENTITY propertiesButton.label "คุณสมบัติ…">
 <!ENTITY propertiesButton.accesskey "ส">

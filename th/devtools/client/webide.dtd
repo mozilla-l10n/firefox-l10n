@@ -170,7 +170,7 @@
 
 
 <!ENTITY simulator_version "รุ่น">
-
+<!ENTITY simulator_profile "โพรไฟล์">
 <!ENTITY simulator_hardware "ฮาร์ดแวร์">
 <!ENTITY simulator_device "อุปกรณ์">
 

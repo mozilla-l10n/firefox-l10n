@@ -16,7 +16,7 @@
 <!ENTITY listEmpty.findUpdates.label          "ตรวจหาการปรับรุ่น">
 <!ENTITY listEmpty.search.label               "ไม่พบส่วนเสริมที่ตรงกัน">
 <!ENTITY listEmpty.button.label               "เรียนรู้เพิ่มเติมเกี่ยวกับส่วนเสริม">
-<!ENTITY installAddonFromFile.label           "ติดตั้งส่วนเสริมจากแฟ้ม…">
+<!ENTITY installAddonFromFile.label           "ติดตั้งส่วนเสริมจากไฟล์…">
 <!ENTITY installAddonFromFile.accesskey       "ต">
 <!ENTITY toolsMenu.tooltip                    "เครื่องมือสำหรับส่วนเสริม">
 
@@ -144,7 +144,7 @@
 <!ENTITY detail.updateManual.label            "ปิด">
 <!ENTITY detail.updateManual.tooltip          "อย่าติดตั้งการปรับรุ่นโดยอัตโนมัติ">
 <!ENTITY detail.home                          "หน้าหลัก">
-<!ENTITY detail.repository                    "โพรไฟล์ของส่วนเสริม">
+<!ENTITY detail.repository                    "โพรไฟล์ส่วนเสริม">
 <!ENTITY detail.size                          "ขนาด">
 
 <!ENTITY detail.checkForUpdates.label         "ตรวจสอบการปรับรุ่น">
