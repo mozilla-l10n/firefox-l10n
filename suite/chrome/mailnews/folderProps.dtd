@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "T">
 <!ENTITY retentionKeepRecent.label "Les">
 <!ENTITY retentionKeepRecent.accesskey "L">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Toujours supprimer les messages lus (outrepasse les paramètres d’âge)">
 <!ENTITY retentionApplyToFlagged.label "Toujours conserver les messages suivis">
 <!ENTITY retentionApplyToFlagged.accesskey "o">
 <!ENTITY retentionKeepRecent.label "Les">
