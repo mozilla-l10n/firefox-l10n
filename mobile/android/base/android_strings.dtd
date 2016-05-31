@@ -235,8 +235,9 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Blokkert">
 
 <!ENTITY pref_show_web_fonts "Vis web-fonter">
+<!ENTITY pref_show_web_fonts_summary2 "Last ned eksterne skrifter når en side blir lastet inn">
 
-
+<!ENTITY pref_tracking_protection_title2 "Sporingsbeskyttelse">
 <!ENTITY pref_tracking_protection_summary3 "Påslått i Privat Nettlesing">
 <!ENTITY pref_donottrack_title "Ikke spor">
 <!ENTITY pref_donottrack_summary "&brandShortName; vil fortelle nettsted at du ikke ønsker å spores">
@@ -245,7 +246,8 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Påslått i privat nettlesing">
 <!ENTITY pref_tracking_protection_disabled "Avslått">
 
-
+<!ENTITY pref_whats_new_notification "Hva er nytt i &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Les om nye funksjoner etter en oppdatering">
 
 <!ENTITY tracking_protection_prompt_title "Nå med sporingsbeskyttelse">
 <!ENTITY tracking_protection_prompt_text "Blokkerer sporingselementer aktivt, slik at du ikke trenger bekymre deg.">
@@ -279,19 +281,22 @@
 
 <!ENTITY tab_queue_notification_settings "For å \&quot;Åpne flere lenker\&quot;, skru på \u0027Tegn over andre apper\u0027-tillatelsen for &brandShortName;">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!ENTITY content_notification_title_plural "&formatD; nettsider oppdatert">
+<!ENTITY content_notification_action_settings "Varslingsinnstillinger">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "Sist oppdatert &formatS;">
 
 <!ENTITY pref_char_encoding "Tegnkoding">
 <!ENTITY pref_char_encoding_on "Vis meny">
 <!ENTITY pref_char_encoding_off "Ikke vis meny">
-
+<!ENTITY pref_clear_private_data2 "Slett private data">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Tøm nå">
@@ -300,7 +305,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Velg hvilke data som skal slettes">
 <!ENTITY pref_plugins "Programtillegg">
 <!ENTITY pref_plugins_enabled "Slå på">
-
+<!ENTITY pref_plugins_tap_to_play2 "Trykk for å spille">
 <!ENTITY pref_plugins_disabled "Avslått">
 <!ENTITY pref_text_size "Tekststørrelse">
 <!ENTITY pref_restore_tabs "Gjenopprett faner">
@@ -350,6 +355,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Nedlastinger">
 <!ENTITY pref_private_data_syncedTabs "Synkroniserte faner">
 
+<!ENTITY pref_default_browser "Velg som standard nettleser">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Gi tilbakemelding">
@@ -477,7 +483,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Forstørr små områder">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Forstørr lenker og skjemafelt når du rører nær de.">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -530,9 +536,9 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; Hjem">
 <!ENTITY home_history_title "Historikk">
-
-
-
+<!ENTITY home_synced_devices_smartfolder "Synkroniserte enheter">
+<!ENTITY home_synced_devices_number "&formatD; enheter">
+<!ENTITY home_history_back_to2 "Tilbake til fullstendig historikk">
 <!ENTITY home_clear_history_button "Slett nettleserhistorikk">
 <!ENTITY home_clear_history_confirm "Er du sikker på at du vil slette historikken?">
 <!ENTITY home_bookmarks_empty "Bokmerkene dine vises her.">
@@ -600,6 +606,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "Deler av denne siden er ikke sikker (som f.eks. bilder)">
 <!ENTITY mixed_content_protection_disabled1 "Du har slått av beskyttelse mot usikkert innhold.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "Sporingsbeskyttelse">
 <!ENTITY doorhanger_tracking_state_enabled "Påslått">
 <!ENTITY doorhanger_tracking_state_disabled "Avslått">
 <!ENTITY doorhanger_tracking_message_enabled1 "Forsøk på spore nettaktiviteten din er blokkert.">
@@ -764,6 +772,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; er oppdatert">
 <!ENTITY whatsnew_notification_summary "Les om hva som er nytt i denne versjonen">
 
+<!ENTITY promotion_add_to_homescreen "Legg til på startskjermen">
 
+<!ENTITY helper_first_offline_bookmark_title "Les frakoblet">
 
 
