@@ -5,19 +5,19 @@
 
 <!ENTITY setupButton.label          "ตั้งค่า &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "ต">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ให้คุณเข้าถึงประวัติ ที่คั่นหน้า รหัสผ่าน และแท็บที่เปิดไว้ผ่านอุปกรณ์ของคุณทั้งหมด">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ให้คุณเข้าถึงประวัติ ที่คั่นหน้า รหัสผ่าน และแท็บที่เปิดไว้ของคุณระหว่างอุปกรณ์ทั้งหมดของคุณ">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "ปรับรุ่น">
-<!ENTITY resetPass.label              "ล้าง">
+<!ENTITY updatePass.label             "ปรับปรุง">
+<!ENTITY resetPass.label              "ตั้งใหม่">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "จัดการบัญชีผู้ใช้">
+<!ENTITY manageAccount.label          "จัดการบัญชี">
 <!ENTITY manageAccount.accesskey      "ก">
 <!ENTITY changePassword2.label        "เปลี่ยนรหัสผ่าน…">
-<!ENTITY myRecoveryKey.label          "กุญแจกู้ข้อมูลของฉัน">
+<!ENTITY myRecoveryKey.label          "กุญแจกู้คืนของฉัน">
 <!ENTITY resetSync2.label             "กลับค่าเดิมของ Sync…">
 
 <!ENTITY pairDevice.label             "จับคู่อุปกรณ์">
@@ -26,7 +26,7 @@
 <!ENTITY engine.bookmarks.label     "ที่คั่นหน้า">
 <!ENTITY engine.bookmarks.accesskey "ค">
 <!ENTITY engine.tabs.label          "แท็บ">
-<!ENTITY engine.tabs.accesskey      "ท">
+<!ENTITY engine.tabs.accesskey      "แ">
 <!ENTITY engine.history.label       "ประวัติ">
 <!ENTITY engine.history.accesskey   "ป">
 <!ENTITY engine.passwords.label     "รหัสผ่าน">
@@ -51,7 +51,7 @@
 <!-- Firefox Accounts stuff -->
 
 <!ENTITY fxaPrivacyNotice.link.label "ประกาศความเป็นส่วนตัว">
-<!ENTITY determiningAcctStatus.label     "กำลังกำหนดสถานบัญชีของคุณ…">
+<!ENTITY determiningAcctStatus.label     "กำลังตรวจสอบสถานะบัญชีของคุณ…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -59,17 +59,17 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInUnverified.beforename.label "">
-<!ENTITY signedInUnverified.aftername.label "ยังไม่ตรวจสอบความถูกต้อง">
+<!ENTITY signedInUnverified.aftername.label "ยังไม่ยืนยัน">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 
-<!ENTITY signedInLoginFailure.beforename.label "โปรดเข้าใช้งานเพื่อทำการเชื่อมต่ออีกครั้ง">
+<!ENTITY signedInLoginFailure.beforename.label "โปรดเข้าสู่ระบบเพื่อเชื่อมต่อใหม่">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "คุณยังไม่ได้เข้าใช้งาน">
+<!ENTITY notSignedIn.label           "คุณไม่ได้เข้าสู่ระบบ">
 <!ENTITY signIn.label                "เข้าสู่ระบบ">
 <!ENTITY profilePicture.tooltip      "เปลี่ยนรูปโพรไฟล์">
 <!ENTITY verifiedManage.label        "จัดการบัญชี">
@@ -77,7 +77,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.label                "ยืนยันอีเมล">
 <!ENTITY forget.label                "ไม่จำอีเมลนี้">
 
-<!ENTITY welcome.description "เข้าถึงแท็บ ที่คั่นหน้า รหัสผ่าน และมากกว่า ในทุก ๆ ที่ที่คุณใช้ &brandShortName;">
+<!ENTITY welcome.description "เข้าถึงแท็บ ที่คั่นหน้า รหัสผ่าน และอื่น ๆ ของคุณในทุกที่ที่คุณใช้ &brandShortName;">
 <!ENTITY welcome.signIn.label "เข้าสู่ระบบ">
 <!ENTITY welcome.createAccount.label "สร้างบัญชี">
 
