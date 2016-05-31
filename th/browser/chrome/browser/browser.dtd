@@ -349,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "ยังไม่มีแท็บที่ซิงค์…!">
-
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "การตั้งค่า Sync">
 
 <!ENTITY appMenuRemoteTabs.signin.label "เข้าสู่ระบบ Sync">
@@ -735,15 +735,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "เปิดการซิงค์แท็บเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "เปิด">
+<!ENTITY syncedTabs.context.open.accesskey                   "ป">
+<!ENTITY syncedTabs.context.openInNewTab.label               "เปิดในแท็บใหม่">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "ม">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "เปิดในหน้าต่างใหม่">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "ใ">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "เปิดในหน้าต่างส่วนตัวใหม่">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "ส">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "คั่นแท็บนี้…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ค">
 <!ENTITY syncedTabs.context.copy.label                       "คัดลอก">
 <!ENTITY syncedTabs.context.copy.accesskey                   "ค">
 

@@ -9,7 +9,7 @@
 <!ENTITY tabCrashed.commentPlaceholder "แสดงความเห็น (ความเห็นจะถูกเผยแพร่ต่อสาธารณะ)">
 <!ENTITY tabCrashed.emailPlaceholder "ป้อนที่อยู่อีเมลของคุณตรงนี้">
 <!ENTITY tabCrashed.emailMe "อีเมลหาฉันเมื่อมีข้อมูลที่มากขึ้น">
-<!ENTITY tabCrashed.crashReporter "Mozilla Crash Reporter">
+<!ENTITY tabCrashed.crashReporter "ตัวรายงานข้อขัดข้อง Mozilla">
 <!ENTITY tabCrashed.reportSent "ส่งรายงานข้อขัดข้องแล้ว; ขอบคุณที่ช่วยทำ &brandShortName; ให้ดีขึ้น!">
 <!ENTITY tabCrashed.closeTab "ปิดแท็บนี้">
 <!ENTITY tabCrashed.restoreTab "เรียกคืนแท็บนี้">
