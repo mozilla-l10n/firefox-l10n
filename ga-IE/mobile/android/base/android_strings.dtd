@@ -174,7 +174,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "LEID: Is féidir aon suíomh Gréasáin a chur le do liosta de sholáthraithe cuardaigh trí fhadbhrú ar a réimse cuardaigh, ansin an deilbhín &formatI; a thapáil.">
 <!ENTITY pref_category_advanced "Ardroghanna">
-<!ENTITY pref_category_advanced_summary3 "Athchóiriú cluaisíní, sábhálaí sonraí, uirlisí forbartha">
+<!ENTITY pref_category_advanced_summary3 "Athchóiriú cluaisíní, spárálaí sonraí, uirlisí forbartha">
 <!ENTITY pref_category_notifications "Fógraí">
 <!ENTITY pref_category_notifications_summary "Gnéithe nua, nuashonruithe suímh gréasáin">
 <!ENTITY pref_content_notifications "Nuashonruithe suímh gréasáin">
@@ -225,7 +225,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Cumasaithe, seachas tríú páirtí">
 <!ENTITY pref_cookies_disabled "Díchumasaithe">
 
-<!ENTITY pref_category_data_saver "Sábhálaí sonraí">
+<!ENTITY pref_category_data_saver "Spárálaí sonraí">
 <!ENTITY pref_category_media "Meáin">
 <!ENTITY pref_category_developer_tools "Uirlisí forbartha">
 
