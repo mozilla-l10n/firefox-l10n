@@ -5,7 +5,7 @@
 
 
 <!ENTITY editorCheck.label "Composer">
-
+<!ENTITY editorCheck.accesskey "c">
 
 <!ENTITY compose.label "Nettsideutvikling">
 <!ENTITY editing.label "Innstillinger for nye sider">
