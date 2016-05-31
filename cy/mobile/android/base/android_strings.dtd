@@ -174,7 +174,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Awgrym: Ychwanegwch unrhyw wefan i\u0027ch rhestr o ddarparwyr chwilio drwy bwyso\u0027n hir ar y maes chwilio ac yna tapio ar yr eicon &formatI;.">
 <!ENTITY pref_category_advanced "Uwch">
-<!ENTITY pref_category_advanced_summary3 "Adfer tabiau, diogelwr data, offer datblygwyr">
+<!ENTITY pref_category_advanced_summary3 "Adfer tabiau, arbedwr data, offer datblygwyr">
 <!ENTITY pref_category_notifications "Hysbysiadau">
 <!ENTITY pref_category_notifications_summary "Nodweddion newydd, diweddariadau gwefan">
 <!ENTITY pref_content_notifications "Diweddariadau\u0027r wefan">
@@ -225,7 +225,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Galluogwyd, eithrio 3ydd parti">
 <!ENTITY pref_cookies_disabled "Analluogwyd">
 
-<!ENTITY pref_category_data_saver "Diogelwr data">
+<!ENTITY pref_category_data_saver "Arbedwr data">
 <!ENTITY pref_category_media "Cyfrwng">
 <!ENTITY pref_category_developer_tools "Offer datblygwyr">
 

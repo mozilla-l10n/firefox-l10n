@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "Heb ganfod gweinydd">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Gwiriwch y cyfeiriad am wallau teipio, megis <strong>ww</strong>.esiampl.com yn lle <strong>www</strong>.esiampl.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Chwilio</button> </div> <li>Os nad oeddech yn gallu llwytho unrhyw dudalennau, gwiriwch ddata eich dyfais neu'r cysylltiad diwifr. <button id='wifi'>Galluogi'r Diwifr</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Gwiriwch y cyfeiriad am wallau teipio, megis <strong>ww</strong>.example.com yn lle <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Chwilio</button> </div> <li>Os nad oeddech yn gallu llwytho unrhyw dudalennau, gwiriwch ddata eich dyfais neu'r cysylltiad diwifr. <button id='wifi'>Galluogi'r Diwifr</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Heb ganfod ffeil">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Gwiriwch yr enw ffeil am brif lythrennu neu wallau teipio eraill.</li> <li>Gwiriwch i weld os yw'r ffeil wedi symud, ailenwi neu ei dileu.</li> </ul>">
@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.title "Nid yw'r cyfeiriad yn ddilys">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Mae cyfeiriadau gwe fel arfer wedi eu hysgrifennu fel <strong>http://www.esiampl.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Search</button> </div> <li>Gwnewch yn siŵr eich bod yn defnyddio blaen slaes (h.y. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Mae cyfeiriadau gwe fel arfer wedi eu hysgrifennu fel <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Search</button> </div> <li>Gwnewch yn siŵr eich bod yn defnyddio blaen slaes (h.y. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Cafodd y cysylltiad ei darfu">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
