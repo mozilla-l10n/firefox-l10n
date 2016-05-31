@@ -22,8 +22,8 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-<!ENTITY  doNotTrack.pre.label          "นอกจากนี้คุณยัง ">
-<!ENTITY  doNotTrack.settings.label     "จัดการการตั้งค่า อย่าตามรอย">
+<!ENTITY  doNotTrack.pre.label          "คุณยังสามารถ ">
+<!ENTITY  doNotTrack.settings.label     "จัดการการตั้งค่า อย่าตามรอย ของคุณ">
 
 
 <!ENTITY  history.label                 "ประวัติ">

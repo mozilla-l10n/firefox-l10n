@@ -42,8 +42,8 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- My Recovery Key dialog -->
 
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ใส่ใจเกี่ยวกับความเป็นส่วนตัวของคุณ">
+
 <!ENTITY recoveryKeyEntry.label        "กุญแจกู้ข้อมูลของคุณ">
 <!ENTITY recoveryKeyEntry.accesskey    "ญ">
 <!ENTITY syncGenerateNewKey.label  "สร้างกุญแจใหม่">
@@ -68,7 +68,7 @@
 <!ENTITY addDevice.dialog.connected.label   "อุปกรณ์เชื่อมต่อแล้ว">
 <!-- Existing Account Page 2: Manual Login -->
 
-<!ENTITY setup.signInPage.title.label "Sign In">
+<!ENTITY setup.signInPage.title.label "เข้าสู่ระบบ">
 <!ENTITY existingRecoveryKey.description "คุณสามารถคัดลอกกุญแจกู้ข้อมูลโดยไปที่ตัวเลือก &syncBrand.shortName.label; บนอุปกรณ์อื่นของคุณ และเลือก  &quot;กุญแจกู้ข้อมูลของฉัน&quot; ภายใต้ &quot;จัดการบัญชี&quot;">
 <!ENTITY verifying.label              "กำลังตรวจสอบ…">
 <!ENTITY resetPassword.label          "ล้างรหัสผ่าน">

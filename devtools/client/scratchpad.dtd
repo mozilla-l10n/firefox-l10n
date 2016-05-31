@@ -33,7 +33,7 @@
 <!ENTITY openFileCmd.accesskey        "เ">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "เปิดแฟ้มล่าสุด">
+<!ENTITY openRecentMenu.label         "เปิดล่าสุด">
 <!ENTITY openRecentMenu.accesskey     "ล">
 
 <!ENTITY revertCmd.label              "ยกเลิกการเปลี่ยนแปลง…">
