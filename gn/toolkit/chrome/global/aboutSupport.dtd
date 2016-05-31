@@ -77,7 +77,7 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "Jerohoryvéva user.js-pe">
-<!ENTITY aboutSupport.userJSDescription "Nemaba'ete ñongatuha oguereko peteĩ <a id='prefs-user-js-link'>marandurenda user.js</a>, ogueroikóva jerohoryvéva ndaha'éiva &brandShortName; omoheñoimbyre.">
+<!ENTITY aboutSupport.userJSDescription "Nemba'ete ñongatuha oguereko peteĩ <a id='prefs-user-js-link'>marandurenda user.js</a>, ogueroikóva jerohoryvéva ndaha'éiva &brandShortName; omoheñoimbyre.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Jerohoryvéva tuichamba'éva mbotypyre">
 <!ENTITY aboutSupport.lockedPrefsName "Téra">
