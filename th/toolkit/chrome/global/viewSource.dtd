@@ -64,11 +64,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "ปกติ">
 <!ENTITY menu_textReset.accesskey "ป">
 
-<!ENTITY findOnCmd.label     "หาในหน้านี้…">
-<!ENTITY findOnCmd.accesskey "ห">
+<!ENTITY findOnCmd.label     "ค้นหาในหน้านี้…">
+<!ENTITY findOnCmd.accesskey "ค">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "หาอีกครั้ง">
-<!ENTITY findAgainCmd.accesskey "อ">
+<!ENTITY findAgainCmd.label  "ค้นหาอีกครั้ง">
+<!ENTITY findAgainCmd.accesskey "ก">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">

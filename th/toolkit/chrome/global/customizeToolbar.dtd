@@ -13,4 +13,4 @@
 <!ENTITY restoreDefaultSet.label  "เรียกคืนค่าปริยาย">
 <!ENTITY addNewToolbar.label      "เพิ่มแถบเครื่องมือใหม่">
 <!ENTITY saveChanges.label        "เสร็จ">
-<!ENTITY undoChanges.label        "เรียกคืนค่าก่อนแก้ไข">
+<!ENTITY undoChanges.label        "เลิกทำการเปลี่ยนแปลง">
