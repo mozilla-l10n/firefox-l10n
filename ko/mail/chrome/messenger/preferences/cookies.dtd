@@ -18,6 +18,7 @@
 <!ENTITY props.path.label                  "경로:">
 <!ENTITY props.secure.label                "전송:">
 <!ENTITY props.expires.label               "만기:">
+<!ENTITY props.container.label             "컨테이너:">
 
 <!ENTITY window.title                      "쿠키">
 <!ENTITY windowClose.key                   "w">
@@ -29,3 +30,4 @@
 
 <!ENTITY button.close.label                "닫기">
 <!ENTITY button.close.accesskey            "C">
+
