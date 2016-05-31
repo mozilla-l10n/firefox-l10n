@@ -13,6 +13,6 @@
 <!ENTITY newtab.customize.topsites "แสดงเว็บเด่นของคุณ">
 <!ENTITY newtab.customize.blank2 "แสดงหน้าว่าง">
 <!ENTITY newtab.undo.removedLabel "นำภาพขนาดย่อออกไปแล้ว">
-<!ENTITY newtab.undo.undoButton "เรียกคืน">
+<!ENTITY newtab.undo.undoButton "เลิกทำ">
 <!ENTITY newtab.undo.restoreButton "เรียกคืนทั้งหมด">
 <!ENTITY newtab.undo.closeTooltip "ซ่อน">

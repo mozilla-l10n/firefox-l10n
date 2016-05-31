@@ -19,6 +19,7 @@
 <!ENTITY fileNotFound.title "ไม่พบไฟล์">
 <!ENTITY fileNotFound.longDesc "<ul><li>แฟ้มที่เรียกอาจเปลี่ยนชื่อ, ถูกลบ, หรือย้ายที่ไปแล้ว</li><li>ที่อยู่แฟ้มอาจสะกดผิด, เขียนตัวใหญ่-เล็กไม่ตรง, หรือตกหล่น</li><li>คุณอาจไม่ได้รับอนุญาตให้เข้าถึงแฟ้มที่เรียก</li></ul>">
 
+<!ENTITY fileAccessDenied.title "การเข้าถึงไฟล์ถูกปฏิเสธ">
 
 
 <!ENTITY generic.title "การดำเนินการตามที่ร้องขอไม่เสร็จสิ้น">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "XUL ระยะไกล">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งปัญหาข้างต้น</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "การเชื่อมต่อของคุณไม่ปลอดภัย">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ใช้เทคโนโลยีความปลอดภัยที่ล้าสมัยและเสี่ยงต่อการถูกโจมตี ผู้โจมตีสามารถเปิดเผยข้อมูลที่คุณคิดว่าปลอดภัยได้อย่างง่ายดาย ผู้ดูแลเว็บไซต์จำเป็นต้องแก้ไขเซิร์ฟเวอร์ก่อนที่คุณจะสามารถเยี่ยมชมไซต์ได้</p><p>รหัสข้อผิดพลาด: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

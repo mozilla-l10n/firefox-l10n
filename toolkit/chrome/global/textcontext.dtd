@@ -8,8 +8,8 @@
 <!ENTITY copyCmd.accesskey "ค">
 <!ENTITY pasteCmd.label "วาง">
 <!ENTITY pasteCmd.accesskey "ว">
-<!ENTITY undoCmd.label "เรียกคืน">
-<!ENTITY undoCmd.accesskey "ร">
+<!ENTITY undoCmd.label "เลิกทำ">
+<!ENTITY undoCmd.accesskey "เ">
 <!ENTITY selectAllCmd.label "เลือกทั้งหมด">
 <!ENTITY selectAllCmd.accesskey "ท">
 <!ENTITY deleteCmd.label "ลบ">

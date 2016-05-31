@@ -150,7 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "ดูบริการ Share เพิ่มเติม…">
+<!ENTITY findShareServices.label "ค้นหาบริการแบ่งปันเพิ่มเติม…">
 <!ENTITY sharePageCmd.label "แบ่งปันหน้านี้">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "บ">
@@ -663,11 +663,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "ส">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "หาในหน้านี้…">
-<!ENTITY findOnCmd.accesskey "ห">
+<!ENTITY findOnCmd.label     "ค้นหาในหน้านี้…">
+<!ENTITY findOnCmd.accesskey "ค">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "หาอีกครั้ง">
-<!ENTITY findAgainCmd.accesskey "อ">
+<!ENTITY findAgainCmd.label  "ค้นหาอีกครั้ง">
+<!ENTITY findAgainCmd.accesskey "ก">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
@@ -773,8 +773,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.accesskey "ต">
 
 <!ENTITY social.activated.description "บริการจาก<label/>ถูกเปิดใช้งานแล้ว คุณสามารถเปลี่ยนแปลงการตั้งค่าของบริการใน<label class='text-link'>ตัวจัดการส่วนเสริม</label>">
-<!ENTITY social.activated.undo.label "โอ๊ะ เรียกคืนค่านี้!">
-<!ENTITY social.activated.undo.accesskey "ร">
+<!ENTITY social.activated.undo.label "อุปส์ เลิกทำสิ่งนี้!">
+<!ENTITY social.activated.undo.accesskey "เ">
 <!ENTITY social.learnMore.label "เรียนรู้เพิ่มเติม…">
 <!ENTITY social.learnMore.accesskey "ร">
 <!ENTITY social.closeNotificationItem.label "ไม่ใช่ตอนนี้">
