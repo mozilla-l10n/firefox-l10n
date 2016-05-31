@@ -29,9 +29,9 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
-<!ENTITY Custom.label         "ปรับแต่ง…">
+<!ENTITY Custom.label         "กำหนดเอง…">
 <!ENTITY ShrinkToFit.label    "ย่อให้พอดีกระดาษ">
-<!ENTITY customPrompt.title   "ปรับแต่งอัตราส่วน…">
+<!ENTITY customPrompt.title   "มาตราส่วนที่กำหนดเอง…">
 
 <!ENTITY homearrow.tooltip    "หน้าแรก">
 <!ENTITY endarrow.tooltip     "หน้าสุดท้าย">

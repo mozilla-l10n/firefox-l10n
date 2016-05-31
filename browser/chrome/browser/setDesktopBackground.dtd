@@ -11,5 +11,5 @@
 <!ENTITY preview.label              "ดูตัวอย่าง">
 <!ENTITY color.label                "สี :">
 <!ENTITY setDesktopBackground.title "ตั้งภาพพื้นหลังของพื้นโต๊ะ">
-<!ENTITY openDesktopPrefs.label     "เปิดหน้าต่างปรับแต่งพื้นโต๊ะ">
+<!ENTITY openDesktopPrefs.label     "เปิดการตั้งค่าพื้นโต๊ะ">
 <!ENTITY closeWindow.key            "w">

@@ -72,7 +72,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "ค่า">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "ปรับแต่ง user.js">
+<!ENTITY aboutSupport.userJSTitle "การตั้งค่า user.js">
 <!ENTITY aboutSupport.userJSDescription "โฟลเดอร์โพรไฟล์ของคุณประกอบด้วย<a id='prefs-user-js-link'>แฟ้ม user.js</a>ที่รวมไปถึงการตั้งค่าที่ไม่ได้ถูกสร้างโดย &brandShortName;">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "การตั้งค่าสำคัญที่ปิดกั้น">

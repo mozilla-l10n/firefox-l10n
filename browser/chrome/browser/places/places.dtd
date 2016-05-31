@@ -38,7 +38,7 @@
 <!ENTITY cmd.backup.accesskey           "ส">
 <!ENTITY cmd.restore2.label             "คืนค่าเดิม">
 <!ENTITY cmd.restore2.accesskey         "ด">
-<!ENTITY cmd.restoreFromFile.label      "เลือกแฟ้ม…">
+<!ENTITY cmd.restoreFromFile.label      "เลือกไฟล์…">
 <!ENTITY cmd.restoreFromFile.accesskey  "ล">
 
 <!ENTITY cmd.bookmarkLink.label         "คั่นหน้าเว็บนี้…">
