@@ -9,7 +9,7 @@
 <!ENTITY name.text                       "Eich enw fel mae'n cael ei ddangos i eraill">
 <!ENTITY email.label                     "Cyfeiriad e-bost:">
 <!ENTITY email.accesskey                 "y">
-<!ENTITY email.placeholder               "e-bost@esiampl.com">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Cyfrinair:">
 <!ENTITY password.accesskey              "C">
 <!ENTITY password.placeholder            "Cyfrinair">

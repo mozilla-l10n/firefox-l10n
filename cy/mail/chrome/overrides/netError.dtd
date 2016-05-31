@@ -17,7 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Heb ganfod gweinydd">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Gwiriwch y cyfeiriad am wallau teipio megis <strong>ww</strong>.esiampl.com yn lle <strong>www</strong>.esiampl.com</li> <li>Os ydych yn methu llwytho unrhyw dudalen, gwiriwch gysylltiad rhwydwaith eich cyfrifiadur.</li> <li>Os yw eich cyfrifiadur neu rwydwaith wedi ei ddiogelu gan fur cadarn neuddirprwy gwnewch yn siŵr fod gan &brandShortName; ganiatâd i fynd ar y We.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Gwiriwch y cyfeiriad am wallau teipio megis <strong>ww</strong>.example.com yn lle <strong>www</strong>.example.com</li> <li>Os ydych yn methu llwytho unrhyw dudalen, gwiriwch gysylltiad rhwydwaith eich cyfrifiadur.</li> <li>Os yw eich cyfrifiadur neu rwydwaith wedi ei ddiogelu gan fur cadarn neu ddirprwy gwnewch yn siŵr fod gan &brandShortName; ganiatâd i fynd ar y We.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Heb ganfod ffeil">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Gwiriwch yr enw ffeil am brif lythrennu neu wallau teipio eraill.</li> <li>Gwiriwch i weld os yw'r ffeil wedi symud, ailenwi neu ei dileu.</li> </ul>">
