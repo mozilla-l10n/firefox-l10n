@@ -28,7 +28,7 @@
 <!ENTITY loaddevice.modname                     "ชื่อโมดูล :">
 <!ENTITY loaddevice.modname.accesskey           "ม">
 <!ENTITY loaddevice.modname.default             "สร้างโมดูล PKCS#11">
-<!ENTITY loaddevice.filename                    "ชื่อแฟ้มโมดูล :">
+<!ENTITY loaddevice.filename                    "ชื่อไฟล์โมดูล:">
 <!ENTITY loaddevice.filename.accesskey          "ฟ">
 <!ENTITY loaddevice.browse                      "เรียกดู…">
 <!ENTITY loaddevice.browse.accesskey            "ร">

@@ -41,7 +41,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "ประวัติการปรับรุ่น">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "แสดงประวัติการปรับรุ่น">
 
-<!ENTITY aboutSupport.appBasicsProfileDir "ไดเรกทอรี่โพรไฟล์">
+<!ENTITY aboutSupport.appBasicsProfileDir "ไดเรกทอรีโพรไฟล์">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
