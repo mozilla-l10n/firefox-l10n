@@ -4,7 +4,7 @@
 
 <!ENTITY searchreset.tabtitle "Ripristino impostazioni di ricerca">
 <!ENTITY searchreset.pageTitle "Ripristinare le impostazioni di ricerca?">
-<!ENTITY searchreset.pageInfo1 "Le impostazioni di ricerca attuali potrebbero essere obsolete. Se lo si desidera è possibile ripristinare le impostazioni predefinite di Firefox.">
+<!ENTITY searchreset.pageInfo1 "Le impostazioni di ricerca attuali potrebbero essere obsolete. Se lo si desidera è possibile ripristinare le impostazioni predefinite di &brandShortName;.">
 <!ENTITY searchreset.selector.label "Questa operazione imposterà come motore di ricerca predefinito:">
 <!ENTITY searchreset.beforelink.pageInfo2 "È possibile modificare le impostazioni di ricerca in qualunque momento nelle ">
 <!ENTITY searchreset.afterlink.pageInfo2 ".">
