@@ -21,7 +21,7 @@
 <!ENTITY dnsNotFound.title "ไม่พบเซิร์ฟเวอร์">
 
 
-<!ENTITY fileNotFound.title "ไม่พบแฟ้ม">
+<!ENTITY fileNotFound.title "ไม่พบไฟล์">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ตรวจสอบชื่อไฟล์สำหรับตัวพิมพ์ใหญ่เล็กหรือข้อผิดพลาดการพิมพ์อื่น ๆ</li> <li>ตรวจสอบเพื่อดูหากไฟล์ถูกย้าย เปลี่ยนชื่อ หรือลบ</li> </ul>">
 
 
@@ -43,7 +43,7 @@
 <!ENTITY contentEncodingError.title "ข้อผิดพลาดการเข้ารหัสเนื้อหา">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
-<!ENTITY unsafeContentType.title "ชนิดแฟ้มไม่ปลอดภัย">
+<!ENTITY unsafeContentType.title "ชนิดไฟล์ที่ไม่ปลอดภัย">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
 <!ENTITY netReset.title "การเชื่อมต่อถูกล้าง">

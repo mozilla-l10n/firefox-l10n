@@ -58,7 +58,7 @@ can reach it easily. -->
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "เปิดที่ตั้ง…">
-<!ENTITY openFileCmd.label "เปิดแฟ้ม…">
+<!ENTITY openFileCmd.label "เปิดไฟล์…">
 <!ENTITY openFileCmd.accesskey "ป">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
@@ -107,7 +107,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "ม">
 
 <!ENTITY fxaSignIn.label "เข้าใช้ &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "เปิดการปรับแต่ง &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "เปิดการตั้งค่า &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "เชื่อมต่อ &syncBrand.shortName.label; ใหม่">
 <!ENTITY fxaUnverified.label "ยืนยันความถูกต้องของบัญชี">
 <!ENTITY syncStartPanel2.heading "เปิดใช้งาน &syncBrand.shortName.label; แล้ว">
@@ -330,7 +330,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.label "ปรับแต่ง">
 <!ENTITY appMenuCustomize.tooltip "ปรับแต่งเมนูและแถบเครื่องมือ">
 <!ENTITY appMenuCustomizeExit.label "ออกจากการปรับแต่ง">
-<!ENTITY appMenuCustomizeExit.tooltip "เสร็จสิ้นขั้นตอนการปรับแต่ง">
+<!ENTITY appMenuCustomizeExit.tooltip "เสร็จสิ้นการปรับแต่ง">
 <!ENTITY appMenuHistory.label "ประวัติ">
 <!ENTITY appMenuHistory.showAll.label "แสดงประวัติทั้งหมด">
 <!ENTITY appMenuHistory.clearRecent.label "ล้างประวัติเมื่อเร็ว ๆ นี้…">

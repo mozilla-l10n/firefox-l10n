@@ -14,7 +14,7 @@
 <!ENTITY aboutPrivateBrowsing.info.visited               "หน้าที่เยี่ยมชมแล้ว">
 <!ENTITY aboutPrivateBrowsing.info.searches              "ค้นหา">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "คุกกี้">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "แฟ้มชั่วคราว">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "ไฟล์ชั่วคราว">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "จะบันทึก">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " :">

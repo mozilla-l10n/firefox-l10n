@@ -61,7 +61,7 @@
 
 <!ENTITY rights.safebrowsing-a "การท่องเว็บแบบปลอดภัย: ">
 <!ENTITY rights.safebrowsing-b "ไม่แนะนำให้ปิดใช้งานการท่องเว็บแบบปลอดภัยเพราะอาจจะส่งผลให้คุณเข้าไปยังเว็บไซต์ที่ไม่ปลอดภัย ถ้าคุณต้องการปิดความสามารถนี้อย่างถาวร โปรแกรมทำตามขั้นตอนนี้:">
-<!ENTITY rights.safebrowsing-term1 "เปิดตัวปรับแต่งของโปรแกรม">
+<!ENTITY rights.safebrowsing-term1 "เปิดการตั้งค่าแอปพลิเคชัน">
 <!ENTITY rights.safebrowsing-term2 "เลือก ความปลอดภัย">
 
 <!ENTITY rights.safebrowsing-term4 "การท่องเว็บแบบปลอดภัยถูกปิดใช้งานแล้ว">

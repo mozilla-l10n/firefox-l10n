@@ -19,7 +19,7 @@
 
 
 
-
+<!ENTITY projectMenu_showPrefs_label "การตั้งค่า">
 
 
 
@@ -97,6 +97,8 @@
 <!-- Addons -->
 <!ENTITY addons_aboutaddons "เปิดตัวจัดการส่วนเสริม">
 <!-- Prefs -->
+
+<!ENTITY prefs_title "การตั้งค่า">
 
 <!ENTITY prefs_general_title "ทั่วไป">
 <!ENTITY prefs_restore "เรียกคืนค่าปริยาย">

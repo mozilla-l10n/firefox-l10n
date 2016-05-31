@@ -6,7 +6,7 @@
 <!ENTITY migrationWizard.title          "ตัวช่วยนำเข้า">
 
 <!ENTITY importFrom.label               "นำเข้าตัวเลือก, ที่คั่นหน้า, ประวัติ, รหัสผ่าน และข้อมูลจาก :">
-<!ENTITY importFromUnix.label           "นำเข้าค่าปรับแต่ง, ที่คั่นหน้า, ประวัติ, รหัสผ่าน และข้อมูลจาก :">
+<!ENTITY importFromUnix.label           "นำเข้าการตั้งค่า ที่คั่นหน้า ประวัติ รหัสผ่าน และข้อมูลอื่น ๆ จาก:">
 <!ENTITY importFromBookmarks.label      "นำเข้าที่คั่นหน้าจาก :">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
@@ -38,7 +38,7 @@
 <!ENTITY migrating.label                "กำลังนำเข้า…">
 
 <!ENTITY selectProfile.title            "เลือกโพรไฟล์">
-<!ENTITY selectProfile.label            "โพรไฟล์ต่อไปนี้สามารถนำเข้าได้ :">
+<!ENTITY selectProfile.label            "โพรไฟล์ดังต่อไปนี้สามารถนำเข้าได้:">
 
 <!ENTITY done.title                     "การนำเข้าเสร็จสมบูรณ์">
 <!ENTITY done.label                     "โพรไฟล์ต่อไปนี้ได้ถูกนำเข้าเป็นผลสำเร็จ :">

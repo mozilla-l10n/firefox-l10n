@@ -40,7 +40,7 @@
 <!ENTITY helpShowTour2.label            "นำชม &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "ช">
 
-<!ENTITY preferencesCmdMac.label        "ปรับแต่ง…">
+<!ENTITY preferencesCmdMac.label        "การตั้งค่า…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "บริการ">
