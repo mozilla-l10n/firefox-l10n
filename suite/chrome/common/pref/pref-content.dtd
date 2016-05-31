@@ -13,6 +13,9 @@
 <!ENTITY useFavIcons.accesskey                  "A">
 <!ENTITY enableAutomaticImageResizing.label     "Réduire les images à la taille de la fenêtre">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
+<!ENTITY scrolling.label                        "Défilement">
+<!ENTITY useAutoScroll.label                    "Utiliser le défilement automatique">
+<!ENTITY useAutoScroll.accesskey                "t">
 <!ENTITY useSmoothScroll.label                  "Utiliser le défilement doux">
 <!ENTITY useSmoothScroll.accesskey              "d">
 <!ENTITY allowHWAccel.label                     "Utiliser l’accélération graphique matérielle si disponible">
