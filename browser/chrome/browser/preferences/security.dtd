@@ -4,7 +4,7 @@
 
 <!ENTITY  general.label                 "ทั่วไป">
 
-<!ENTITY  warnAddonInstall.label        "เตือนเมื่อเว็บไซต์พยายามติดตั้งส่วนเสริม">
+<!ENTITY  warnAddonInstall.label        "เตือนฉันเมื่อไซต์พยายามที่จะติดตั้งส่วนเสริม">
 <!ENTITY  warnAddonInstall.accesskey    "ต">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -17,19 +17,19 @@
 <!ENTITY  blockDownloads.label            "ปิดกั้นการดาวน์โหลดที่อันตราย">
 <!ENTITY  blockDownloads.accesskey        "อ">
 
-<!ENTITY  blockUncommonUnwanted.label     "เตือนเกี่ยวกับซอฟต์แวร์ไม่พึงประสงค์และไม่ปกติ">
+<!ENTITY  blockUncommonUnwanted.label     "เตือนฉันเกี่ยวกับซอฟต์แวร์ไม่พึงประสงค์และไม่ปกติ">
 <!ENTITY  blockUncommonUnwanted.accesskey "ส">
 
-<!ENTITY  addonExceptions.label         "ยกเว้น…">
-<!ENTITY  addonExceptions.accesskey     "ย">
+<!ENTITY  addonExceptions.label         "ข้อยกเว้น…">
+<!ENTITY  addonExceptions.accesskey     "อ">
 
 
-<!ENTITY  logins.label                  "เข้าระบบ">
+<!ENTITY  logins.label                  "การเข้าสู่ระบบ">
 
-<!ENTITY  rememberLogins.label          "จำการเข้าระบบของเว็บไซต์">
+<!ENTITY  rememberLogins.label          "จดจำการเข้าสู่ระบบสำหรับไซต์">
 <!ENTITY  rememberLogins.accesskey      "จ">
-<!ENTITY  passwordExceptions.label      "ยกเว้น…">
-<!ENTITY  passwordExceptions.accesskey  "ว">
+<!ENTITY  passwordExceptions.label      "ข้อยกเว้น…">
+<!ENTITY  passwordExceptions.accesskey  "อ">
 
 <!ENTITY  useMasterPassword.label        "ใช้รหัสผ่านหลัก">
 <!ENTITY  useMasterPassword.accesskey    "ช">
