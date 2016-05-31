@@ -168,6 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "현재 페이지 구독하기…">
 <!ENTITY addCurPagesCmd.label "모든 탭 북마크 추가…">
 <!ENTITY showAllBookmarks2.label "모든 북마크 보기">
+<!ENTITY recentBookmarks.label "최근 즐겨찾기됨">
+<!ENTITY otherBookmarksCmd.label "다른 즐겨찾기">
 <!ENTITY bookmarksToolbarChevron.tooltip "북마크 계속 보기">
 
 <!ENTITY backCmd.label                "뒤로">
@@ -222,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "북마크">
+<!ENTITY bookmarksMenuButton.other.label "다른 즐겨찾기">
 <!ENTITY viewBookmarksSidebar2.label        "북마크 탐색창 보기">
 <!ENTITY viewBookmarksToolbar.label         "도구 모음에 표시">
 
@@ -345,6 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "아직 동기화된 탭이 없습니다!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "다른 기기에서도 여기에서 열린 탭을 사용하시겠습니까?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync 설정">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "다른 기기의 탭 목록을 보기 위해서 로그인 하세요.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync에 로그인">
@@ -720,6 +725,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "동기화한 탭">
 <!ENTITY syncedTabs.sidebar.noclients.label    "다른 기기의 탭을 이곳에서도 보려면 그 기기의 Firefox에 로그인하십시오.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "아직 동기화된 탭이 없습니다!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "다른 기기에서도 여기에서 열린 탭을 사용하시겠습니까?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "다른 기기의 탭 목록을 보기 위해서 로그인 하세요.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "열린 탭이 없음">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; 설정 열기">
@@ -727,8 +734,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "다른 기기의 탭 목록을 보려면 탭 동기화를 켜십시오.">
 
+<!ENTITY syncedTabs.context.open.label                       "열기">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "새 탭에서 열기">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "새 창에서 열기">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "새 사생활 보호 창에서 열기">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "이 탭 북마크…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "복사">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "동기화">
