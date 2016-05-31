@@ -69,6 +69,7 @@
 <!ENTITY unknownSocketType.title "การตอบสนองที่ไม่คาดคิดจากเซิร์ฟเวอร์">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>ตรวจสอบให้แน่ใจว่าระบบของคุณมีตัวจัดการความปลอดภัยส่วนบุคคลติดตั้งอยู่</li> <li>สิ่งนี้อาจเกิดจากการกำหนดค่าที่ไม่มาตรฐานบนเซิร์ฟเวอร์</li> </ul>">
 
+<!ENTITY nssFailure2.title "การเชื่อมต่อปลอดภัยล้มเหลว">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>หน้าที่คุณกำลังพยายามจะดูไม่สามารถแสดงได้เนื่องจากไม่สามารถยืนยันความถูกต้องของข้อมูลที่ได้รับ</li> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "การเชื่อมต่อของคุณไม่ปลอดภัย">
@@ -96,10 +97,12 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "ไม่สามารถเชื่อมต่ออย่างปลอดภัย">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "ข้อมูลขั้นสูง: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "การเชื่อมต่อของคุณไม่ปลอดภัย">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "ข้อมูลขั้นสูง: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "ขั้นสูง">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ใช้เทคโนโลยีความปลอดภัยที่ตกรุ่นและมีช่องโหว่ในการโจมตี ผู้บุกรุกสามารถล่วงรู้ข้อมูลได้อย่างง่ายดายโดยที่คุณคิดว่ามันปลอดภัย">
 <!ENTITY weakCryptoAdvanced.override "(ไม่ปลอดภัย) กำลังโหลด <span class='hostname'></span> ที่ใช้งานการรักษาความปลอดภัยที่ล้าสมัย">
