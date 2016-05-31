@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Ñemboguejy">
-<!ENTITY aboutDownloads.header                     "Nde ñemboguejy">
-<!ENTITY aboutDownloads.empty                      "Ñemboguejy'ỹ">
+<!ENTITY aboutDownloads.header                     "Ne ñemboguejypyre">
+<!ENTITY aboutDownloads.empty                      "Ndaipóri Ñemboguejy">
 
 <!ENTITY aboutDownloads.open                       "Jeike">
 <!ENTITY aboutDownloads.remove                     "Mboguete">
 <!ENTITY aboutDownloads.removeAll                  "Emboguepaite">
 <!ENTITY aboutDownloads.pause                      "Mombyta">
-<!ENTITY aboutDownloads.resume                     "Ku'ememe">
+<!ENTITY aboutDownloads.resume                     "Embomeme">
 <!ENTITY aboutDownloads.cancel                     "Heja">
 <!ENTITY aboutDownloads.retry                      "Ha'ãjey">
