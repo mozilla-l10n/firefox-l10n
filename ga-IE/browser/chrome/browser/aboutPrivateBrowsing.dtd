@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Brabhsáil Phríobháideach">
 
 <!ENTITY trackingProtection.title                        "Cosaint ar Rianú">
-
+<!ENTITY trackingProtection.description2                 "Úsáideann suímh áirithe rianairí a choinníonn súil ar a ndéanann tú ar an nGréasán. Le Cosaint ar Rianú, cuireann Firefox bac ar go leor rianairí a bhailíonn faisnéis faoi d'iompar brabhsála.">
 <!ENTITY trackingProtection.startTour1                   "Conas a oibríonn sé">
