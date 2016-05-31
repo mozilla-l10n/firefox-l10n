@@ -33,7 +33,7 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Ehecha tapia ha'épa &brandShortName; kundaha ypykuéva">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
-<!ENTITY setAsMyDefaultBrowser2.label     "Ijypykue rupi jejapo">
+<!ENTITY setAsMyDefaultBrowser2.label     "Ejapo chugui ypykuéva">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; ko'ág̃a nde hekaha ypykuéva">
 <!ENTITY isNotDefault.label               "&brandShortName; ndaha'éi kundahára ypykuéva">

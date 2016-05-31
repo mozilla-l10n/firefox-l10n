@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Tembiapo mbojevy">
+<!ENTITY restorepage.tabtitle       "Tembiapopa'ũ mbojevy">
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
@@ -10,7 +10,7 @@
 <!ENTITY restorepage.problemDesc    "&brandShortName; oreko apañuãi oguerujey hag̃ua ovetã ha tendayke. Ikatúva ojehu oĩre peteĩ web kuatiarogue ojeikeramóvape.">
 <!ENTITY restorepage.tryThis        "Eha'ãmi:">
 <!ENTITY restorepage.restoreSome    "Emboty peteĩ térã hetave tendayke nde reimo'ãva ha'eha apañuãi ñepyrũmby">
-<!ENTITY restorepage.startNew       "Eñepyrũ tembiapo pyahu kundahápe">
+<!ENTITY restorepage.startNew       "Eñepyrũ kundaha rembiapopa'ũ pyahu">
 
 <!ENTITY restorepage.tryagainButton "Mbojevy">
 <!ENTITY restorepage.restore.access "R">
@@ -35,7 +35,7 @@
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; oĩma oguata haguáicha">
 
 <!ENTITY welcomeback2.label.restoreAll  "Ovetã ha tendayke Mbojevyjey">
-<!ENTITY welcomeback2.label.restoreSome "Embojevyjey reipotàvante">
+<!ENTITY welcomeback2.label.restoreSome "Embojevyjey reipotávante">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
@@ -56,5 +56,5 @@ their language.
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Eikuaave moĩmbaha rehegua omyengoviáva Tendayke Aty">
 <!ENTITY tabgroupsmigration.description2        "&brandShortName; omongurusu opaite aty ikatu hag̃uáicha nokañýi mba'evete.">
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Tendayke Mongurusupyre Aty Jechauka">
-<!ENTITY tabgroupsmigration.restoredescription  "Emboguevijeykuaa avei ko ovetãme sa'i térã hetave aty oĩva tuguápe:">
+<!ENTITY tabgroupsmigration.restoredescription  "Embojevyjeykuaa avei ko ovetãme sa'i térã hetave aty oĩva tuguápe:">
 

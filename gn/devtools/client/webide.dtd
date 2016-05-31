@@ -117,7 +117,7 @@
 <!ENTITY prefs_title "Jerohoryvéva">
 <!ENTITY prefs_editor_title "Mbosako'iha">
 <!ENTITY prefs_general_title "Tuichakue">
-<!ENTITY prefs_restore "Ijypykue repy ñembojevy">
+<!ENTITY prefs_restore "Embojevy heko ypykuépe">
 <!ENTITY prefs_manage_components "Mbohetapy rape'apo ñangareko">
 <!ENTITY prefs_options_autoconnectruntime "Eikejey ñemongu'e mboyvegua aravópe">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Eikejey ñemongu'e mboyvegua aravópe oñepyrũvo WebIDE">
@@ -204,7 +204,7 @@
 
 <!ENTITY simulator_title "Ta'ãngahára jeporavorã">
 <!ENTITY simulator_remove "Ta'ãngahára mboguete">
-<!ENTITY simulator_reset "Ijypykuépe mbojevy">
+<!ENTITY simulator_reset "Embojevy heko ypykuépe">
 <!ENTITY simulator_name "Téra">
 <!ENTITY simulator_software "Software">
 <!ENTITY simulator_version "Peteïchagua">

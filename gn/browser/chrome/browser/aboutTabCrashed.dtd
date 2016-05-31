@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabCrashed.header "Maranduvaira'ẽva'erã: ko tenda ho'a">
-<!ENTITY tabCrashed.message "Ko'ágã marandu porã :  ikatukuánte remboty ko tendayke  , embojevykuaa umi tendayke ho'ava'ekue.">
+<!ENTITY tabCrashed.message "Ko'ágã marandu porã:  ikatukuánte remboty ko tendayke, embojevykuaa umi tendayke ho'ava'ekue.">
 <!ENTITY tabCrashed.sendReport "Remoguahẽva'erã marandu mba'eoikova'ekuegui ikatuhaguãicha ojejojoko umi maranduvai.">
 <!ENTITY tabCrashed.includeURL "Emoinge pe kuatiarogue kundaharape oĩva pe">
 <!ENTITY tabCrashed.commentPlaceholder "Embojuapy je'erei (umi je'erei ohecháta opavavete)">
