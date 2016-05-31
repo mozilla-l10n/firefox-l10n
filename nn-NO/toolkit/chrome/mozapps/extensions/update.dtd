@@ -11,7 +11,7 @@
 
 <!ENTITY  mismatch.win.title              "Inkompatible utvidingar">
 <!ENTITY  mismatch.top.label              "Følgande utvidingar er ikkje kompatible med den nye versjonen av &brandShortName; og vert difor slått av">
-<!ENTITY  mismatch.bottom.label           "&brandShortName; kan sjå etter kompatible versjonar av desse utvidingane.">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; kan sjå etter kompatible versjonar for desse utvidingane.">
 
 <!ENTITY  checking.wizard.title           "Søkjer etter kompatible utvidingar">
 <!ENTITY  checking.top.label              "Søkjer etter oppdateringar for inkompatible tillegg…">
@@ -27,8 +27,8 @@
 <!ENTITY  installing.top.label            "Lastar ned og installerer oppdateringane …">
 
 <!ENTITY  noupdates.wizard.title          "Ingen oppdateringar funne">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; klarte ikkje å finna oppdateringar.">
-<!ENTITY  noupdates.error.desc            "Det oppstod nokre problem når ein såg etter oppdateringar.">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; klarte ikkje å finna oppdateringar for dei inkompatible innlegga.">
+<!ENTITY  noupdates.error.desc            "Det oppstod nokre problem under søket etter oppdateringar.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; ser jamnleg etter oppdateringar, og informerer deg når dei er tilgjengelege">
 
 <!ENTITY  finished.wizard.title           "Oppdatering fullført">
