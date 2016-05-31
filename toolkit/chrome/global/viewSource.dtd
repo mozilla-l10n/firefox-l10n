@@ -12,7 +12,7 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "ซอร์สโค้ดของ: ">
 
-<!ENTITY fileMenu.label "แฟ้ม">
+<!ENTITY fileMenu.label "ไฟล์">
 <!ENTITY fileMenu.accesskey "ฟ">
 <!ENTITY savePageCmd.label "บันทึกเป็น…">
 <!ENTITY savePageCmd.accesskey "ป">

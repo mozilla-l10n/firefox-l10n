@@ -35,6 +35,6 @@
 <!ENTITY report.comment                                      "แสดงความเห็น (ความเห็นจะปรากฏต่อสาธารณะ)">
 <!ENTITY report.pageURL                                      "รวม URL หน้านี้ไว้ด้วย">
 
-<!ENTITY plugin.file                                         "แฟ้ม">
+<!ENTITY plugin.file                                         "ไฟล์">
 <!ENTITY plugin.mimeTypes                                    "ชนิดของ MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "เปิดใช้งาน Adobe Flash ในโหมดการป้องกัน">
