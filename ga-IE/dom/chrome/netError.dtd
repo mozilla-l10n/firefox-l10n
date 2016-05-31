@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "Comhad Gan Aimsiú">
 <!ENTITY fileNotFound.longDesc "<ul><li>An féidir go bhfuil an mhír athainmnithe, bainte, nó bogtha?</li><li>An bhfuil botún litrithe, nó ceannlitir mhícheart, nó botún eile den sórt sin, sa seoladh?</li><li>An bhfuil na ceadanna rochtana cuí agat don mhír iarrtha?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "Diúltaíodh rochtain ar an gcomhad">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Seans nach bhfuil an comhad ann a thuilleadh, nó b'fhéidir nach bhfuil cead agat é a rochtain.</li></ul>">
 
 <!ENTITY generic.title "Ní féidir an t-iarratas a chríochnú">
 <!ENTITY generic.longDesc "<p>Níl eolas breise faoin bhfadhb nó faoin earráid seo ar fáil faoi láthair.</p>">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "XUL Cianda">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Níl do cheangal slán">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p>Úsáideann <span class='hostname'></span> teicneolaíocht slándála atá as dáta agus leochaileach ar ionsaithe. D'fhéadfadh ionsaitheoir eolas a nochtadh áit ar shíl tú go raibh sé slán. Beidh ar riarthóir an tsuímh gréasáin an freastalaí a dheisiú sula mbeidh tú ábalta cuairt a thabhairt ar an suíomh.</p><p>Cód Earráide: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

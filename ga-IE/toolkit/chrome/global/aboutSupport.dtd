@@ -105,7 +105,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Bain triail as an Mód Slán">
 <!ENTITY aboutSupport.restartInSafeMode.label "Atosaigh gan aon bhreiseáin…">
 
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Gnéithe">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnóisic">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Logchomhad Clistí">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
