@@ -13,7 +13,7 @@
 <!ENTITY  mismatch.top.label              "Følgende utvidelser er ikke kompatible med denne nye versjonen av &brandShortName;, og blir derfor avslått:">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; kan se etter kompatible versjoner av disse utvidelsene.">
 
-<!ENTITY  checking.wizard.title           "Søker etter oppdateringer">
+<!ENTITY  checking.wizard.title           "Søker etter kompatible utvidelser">
 <!ENTITY  checking.top.label              "Søker etter oppdateringer …">
 <!ENTITY  checking.status                 "Dette kan ta en liten stund …">
 
