@@ -14,7 +14,7 @@
 <!ENTITY  mismatch.bottom.label           "&brandShortName; kan sjå etter kompatible versjonar av desse utvidingane.">
 
 <!ENTITY  checking.wizard.title           "Søkjer etter kompatible utvidingar">
-<!ENTITY  checking.top.label              "Ser etter oppdateringar …">
+<!ENTITY  checking.top.label              "Søkjer etter oppdateringar for inkompatible tillegg…">
 <!ENTITY  checking.status                 "Dette kan ta nokre minutt …">
 
 <!ENTITY  found.wizard.title               "Oppdateringar funne">
