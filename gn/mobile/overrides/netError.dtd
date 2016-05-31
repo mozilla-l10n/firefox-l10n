@@ -44,7 +44,7 @@
 <!ENTITY netOffline.title "Jeikekatu'ỹre">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Eha'ãjey. &brandShortName; oñeha'ãta ombojuruja peteĩ jeike ha emyanyhẽjey kuatiarogue. <button id='wifi'> Embojuruja Wi-Fi</button> </li> </ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>Eha'ãjey. &brandShortName; oñeha'ãta ombojuruja peteĩ jeike ha emyenyhẽjey kuatiarogue. <button id='wifi'> Embojuruja Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Tetepy mbopapapy jejavy">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Ikatúpiko, eñomongeta umi ñanduti rendakuéra jára ndive emomarandumi hag̃ua chupekuéra ko apañuãi rehegua.</li> </ul>">
