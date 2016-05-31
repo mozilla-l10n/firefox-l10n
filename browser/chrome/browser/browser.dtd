@@ -61,11 +61,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Opna fil…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Utskriftsformat …">
+<!ENTITY printSetupCmd.label "Utskriftsformat…">
 <!ENTITY printSetupCmd.accesskey "m">
 <!ENTITY printPreviewCmd.label "Førehandsvis sida">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Skriv ut …">
+<!ENTITY printCmd.label "Skriv ut…">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.commandkey "p">
 
@@ -187,7 +187,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Skriv ut">
 <!ENTITY printButton.tooltip          "Skriv ut denne sida">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Vis sideinformasjon">
+<!ENTITY urlbar.viewSiteInfo.label                      "Vis sideinfo">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
@@ -314,7 +314,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "V"> 
 <!ENTITY viewSidebarMenu.label "Sidestolpe">
 <!ENTITY viewSidebarMenu.accesskey "d">
-<!ENTITY viewCustomizeToolbar.label       "Tilpass …"> 
+<!ENTITY viewCustomizeToolbar.label       "Tilpass…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
 
 <!ENTITY historyMenu.label "Historikk">
@@ -501,7 +501,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY emailPageCmd.label           "Send lenkeadresse på e-post…">
 <!ENTITY emailPageCmd.accesskey       "e">
-<!ENTITY savePageCmd.label            "Lagra side som …">
+<!ENTITY savePageCmd.label            "Lagra side som…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "r">

@@ -13,7 +13,7 @@
 <!ENTITY  mismatch.top.label              "Følgande utvidingar er ikkje kompatible med den nye versjonen av &brandShortName; og vert difor slått av">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; kan sjå etter kompatible versjonar av desse utvidingane.">
 
-<!ENTITY  checking.wizard.title           "Ser etter oppdateringar">
+<!ENTITY  checking.wizard.title           "Søkjer etter kompatible utvidingar">
 <!ENTITY  checking.top.label              "Ser etter oppdateringar …">
 <!ENTITY  checking.status                 "Dette kan ta nokre minutt …">
 

@@ -17,11 +17,11 @@
 <!ENTITY savePageCmd.label "Lagra sida som …">
 <!ENTITY savePageCmd.accesskey "s">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Utskriftsformat …">
+<!ENTITY pageSetupCmd.label "Utskriftsformat…">
 <!ENTITY pageSetupCmd.accesskey "m">
 <!ENTITY printPreviewCmd.label "Førehandsvis sida …">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Skriv ut …">
+<!ENTITY printCmd.label "Skriv ut…">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Lukk">
