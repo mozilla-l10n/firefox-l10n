@@ -106,5 +106,5 @@
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "การติดตั้งเสร็จสิ้น">
-<!ENTITY changeOptions.label "คุณสามารถปรับแต่งค่านี้ได้โดยเลือกจากตัวเลือกด้านล่าง">
+<!ENTITY changeOptions.label "คุณสามารถเปลี่ยนการตั้งค่านี้โดยเลือกตัวเลือก Sync ด้านล่าง">
 <!ENTITY continueUsing.label "คุณสามารถใช้งาน &brandShortName; ต่อได้แล้ว">

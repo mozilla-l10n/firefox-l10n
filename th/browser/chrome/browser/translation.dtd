@@ -54,8 +54,8 @@
   -->
 <!ENTITY translation.options.neverForSite.label "ไม่ต้องแปลหน้านี้">
 <!ENTITY translation.options.neverForSite.accesskey "ม">
-<!ENTITY translation.options.preferences.label  "ปรับแต่งการแปล">
-<!ENTITY translation.options.preferences.accesskey "ป">
+<!ENTITY translation.options.preferences.label  "การตั้งค่าการแปล">
+<!ENTITY translation.options.preferences.accesskey "ก">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'

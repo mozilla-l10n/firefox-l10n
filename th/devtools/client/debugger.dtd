@@ -108,7 +108,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
-<!ENTITY debuggerUI.searchGlobal           "ค้นหาในทุกไฟล์">
+<!ENTITY debuggerUI.searchGlobal           "ค้นหาในไฟล์ทั้งหมด">
 <!ENTITY debuggerUI.searchGlobal.key       "F">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears

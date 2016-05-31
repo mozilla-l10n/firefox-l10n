@@ -29,8 +29,8 @@
 <!ENTITY newWindowCmd.accesskey       "น">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "เปิดแฟ้ม…">
-<!ENTITY openFileCmd.accesskey        "ฟ">
+<!ENTITY openFileCmd.label            "เปิดไฟล์…">
+<!ENTITY openFileCmd.accesskey        "เ">
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "เปิดแฟ้มล่าสุด">
