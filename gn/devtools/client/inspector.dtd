@@ -77,7 +77,7 @@
      the inspector contextual-menu for the item that lets users delete the
      current node -->
 
-<!ENTITY inspectorHTMLDelete.label          "Mohendaha mboguete">
+<!ENTITY inspectorHTMLDelete.label          "Akytã mboguete">
 <!ENTITY inspectorHTMLDelete.accesskey      "m">
 <!-- LOCALIZATION NOTE (inspectorAttributeSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other

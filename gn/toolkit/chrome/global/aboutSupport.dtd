@@ -47,7 +47,7 @@ This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDi
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Ñongatuha rechaukaha">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Mboguerã'i myandypyre">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Mba'ejoajurã myendypyre">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Mbyatypy ñemboheko">
 <!ENTITY aboutSupport.appBasicsUserAgent "Puruhára pytyvõha">
 <!ENTITY aboutSupport.appBasicsOS "OS">

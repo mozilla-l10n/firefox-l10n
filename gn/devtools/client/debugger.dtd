@@ -22,7 +22,7 @@
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
 
-<!ENTITY debuggerUI.blackBoxMessage.label "Ko ayvu reñoiha ojeguerekova'erã caja negra-ramo: umi osokuaaha oñemboguéma ha ijejapo rape ndoikéi pype.">
+<!ENTITY debuggerUI.blackBoxMessage.label "Ko ayvu reñoiha ojeguerekova'erã caja negra-ramo: umi osokuaaha oñemongéma ha ijejapo rape ndoikéi pype.">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
@@ -48,7 +48,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
 
-<!ENTITY debuggerUI.sources.toggleBreakpoints "Myandy/mbogue osokuaahakuéra">
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Myendy/monge osokuaahakuéra">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
 

@@ -139,7 +139,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
 
-<!ENTITY netmonitorUI.footer.perf   "Myandy/mbogue apopyre ñehesa'ỹijo…">
+<!ENTITY netmonitorUI.footer.perf   "Myendy/monge apopyre ñehesa'ỹijo…">
 <!-- LOCALIZATION NOTE (netmonitorUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 

@@ -10,7 +10,7 @@
 <!ENTITY  offline.toggleOffline.accesskey "G">
 
 <!ENTITY  mismatch.win.title              "Moĩmbaha ojueheguáva">
-<!ENTITY  mismatch.top.label              "Ko'ã moimbaha ndojoguerahái ko apopyre &brandShortName; mba'éva ndive ha oñemboguéma:">
+<!ENTITY  mismatch.top.label              "Ko'ã moĩmbaha ndojoguerahái ko apopyre &brandShortName; mba'éva ndive ha oñemongéma:">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; ikatu ohechajey oĩpa apopy ojogueraháva ojepurukuaáva ko'ã moimbaha rehegua.">
 
 <!ENTITY  checking.wizard.title           "Ohekahína moimbaha ojogueraháva">

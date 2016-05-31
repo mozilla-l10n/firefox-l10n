@@ -64,7 +64,7 @@
 <!ENTITY rights.safebrowsing-term1 "Eike tembipuru'i erohoryvévape">
 <!ENTITY rights.safebrowsing-term2 "Eiporavo Tekorosãrã ta'ãngarupa">
 <!ENTITY rights2.safebrowsing-term3 "Embogue poravopyrã &quot;&enableSafeBrowsing.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "Kundaha jerovia ko'ág̃a oñemboguéma">
+<!ENTITY rights.safebrowsing-term4 "Kundaha jerovia ko'ág̃a oñemongéma">
 <!-- location aware browsing points for branded builds -->
 
 <!ENTITY rights.locationawarebrowsing-a "Kundaha ipyendaitéva: ">
@@ -73,7 +73,7 @@
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Ehai geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Eikutu jo'a jerohoryváva geo.enabled-pe">
-<!ENTITY rights.locationawarebrowsing-term4 "Pe kundaha tendaite rehegua oñemboguéma ko'ág̃a">
+<!ENTITY rights.locationawarebrowsing-term4 "Pe kundaha tendaite rehegua oñemongéma ko'ág̃a">
 <!-- intro paragraph for unbranded builds -->
 
 <!ENTITY rights.webservices-unbranded "Ko'ápe emoinge peteĩ ñanduti renda mba'epytyvõrã pe japopyre ogueroikéva, je'epyre ndive mba'éichapa ojepe'aiteva'erã, ojejapótaramo.">

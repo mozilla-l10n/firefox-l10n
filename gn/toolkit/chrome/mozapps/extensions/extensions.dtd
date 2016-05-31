@@ -10,7 +10,7 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Oñemyenyhẽhína…">
-<!ENTITY listEmpty.installed.label            "Ndereguerekói ñemboguyjypyre mba'evéichagua moimbaha ãichagua">
+<!ENTITY listEmpty.installed.label            "Ndereguerekói ãichagua moĩmbaha">
 <!ENTITY listEmpty.availableUpdates.label     "Ndojejuhúi ñembohekopyahu">
 <!ENTITY listEmpty.recentUpdates.label        "Nerembopyahúi mba'eveichagua moĩmbaha">
 <!ENTITY listEmpty.findUpdates.label          "Ñembohekopyahu jeheka">
@@ -24,22 +24,22 @@
 <!ENTITY cmd.forward.tooltip                  "Ambue toguépe jehasa ">
 
 <!ENTITY showUnsignedExtensions.button.label  "Heta pukukue ndaikatúi kuri ojehechajey">
-<!ENTITY showAllExtensions.button.label       "Embogue">
+<!ENTITY showAllExtensions.button.label       "Opaite mba'ejoapyrã jehecha">
 <!ENTITY debugAddons.label                    "Emopotĩ Moĩmbahakuéra">
 <!ENTITY debugAddons.accesskey                "p">
 <!-- global warnings -->
 
-<!ENTITY warning.safemode.label                    "Opaite umi moimbaha oñemboguepáma teko jerovia rupi.">
-<!ENTITY warning.checkcompatibility.label          "Ojueheguáva jehechajey moimbaha reheguáva oñemboguéma. Ikatu oguereko heta juehegua'ỹva.">
+<!ENTITY warning.safemode.label                    "Opaite moĩmbaha oñemongepáma teko jerovia rupi.">
+<!ENTITY warning.checkcompatibility.label          "Ojueheguáva jehechajey moĩmbaha reheguáva oñemongéma. Ikatu oguereko heta juehegua'ỹva.">
 <!ENTITY warning.checkcompatibility.enable.label   "Myandy">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Ojueheguáva jehechajey moimbaha reheguáva myandy.">
-<!ENTITY warning.updatesecurity.label              "Tekorosãrã jehecjajey moimbaha rehegua oñemboguéma. Ikatu ehecha nde rekorosãrã oñembyaikuaáva embohekopyahu aja.">
+<!ENTITY warning.updatesecurity.label              "Tekorosãrã jehechajey moĩmbaha rehegua oñemongéma. Ikatu ehecha nde rekorosãrã oñembyaikuaáva embohekopyahu aja.">
 <!ENTITY warning.updatesecurity.enable.label       "Myandy">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Emyandy jehechajey moimbaha rekorosãrã reheguáva">
 <!-- global informations -->
 
 <!ENTITY info.plugincheck.label                 "Ejopy ko'ápe ehecha hag̃ua hekopyahúpa mba'ejoajurã">
-<!ENTITY info.plugincheck.tooltip               "Ejopy ko'ápe ehecha hag̃ua nemboguejyrã'ípa hekopyahúma">
+<!ENTITY info.plugincheck.tooltip               "Ejopy ko'ápe ehecha hag̃ua hekopyahúmapa mba'ejoajurãnguéra">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Jeheka">
@@ -69,7 +69,7 @@
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Moimbaha hekopyahuhína">
 <!ENTITY updates.installed.label              "Oñembohekopyahúma nemoimbaha.">
-<!ENTITY updates.downloaded.label             "Nemoimbaha rehegua ñembohekopyahu oñemboguepáma.">
+<!ENTITY updates.downloaded.label             "Ne moĩmbaha rehegua ñembohekopyahu oñemboguejypáma.">
 <!ENTITY updates.restart.label                "Emoñepyrujey ko'ág̃a emohenda hag̃ua">
 <!ENTITY updates.noneFound.label              "Ndojejuhúi ñembohekopyahu">
 <!ENTITY updates.manualUpdatesFound.label     "Ehecha ñembohekopyahu eipurukuaáva">
@@ -90,7 +90,7 @@
 
 <!ENTITY cmd.enableAddon.label                "Myandy">
 <!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "Mbogue">
+<!ENTITY cmd.disableAddon.label               "Monge">
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.enableTheme.label                "Tema puru">
 <!ENTITY cmd.enableTheme.accesskey            "W">
@@ -138,10 +138,10 @@
 
 <!ENTITY detail.updateType                    "Ñembohekopyahu ijeheguíva">
 <!ENTITY detail.updateDefault.label           "Jepokokuaa'ỹha">
-<!ENTITY detail.updateDefault.tooltip         "Embogue">
+<!ENTITY detail.updateDefault.tooltip         "Emohendarei tekopyahu oĩ jave kóva ypykuéramo">
 <!ENTITY detail.updateAutomatic.label         "Hẽe">
 <!ENTITY detail.updateAutomatic.tooltip       "Emohenda ñembohekopyahu ijeheguíva">
-<!ENTITY detail.updateManual.label            "Embogue">
+<!ENTITY detail.updateManual.label            "Mongepyre">
 <!ENTITY detail.updateManual.tooltip          "Aníke emohenda ñembohekopyahu ijeheguíva">
 <!ENTITY detail.home                          "Kuatiarogue ñepyrũha">
 <!ENTITY detail.repository                    "Perfil del complemento">
@@ -189,7 +189,7 @@
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(ñemboguepyréva)">
+<!ENTITY addon.disabled.postfix               "(ñemongepyréva)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if

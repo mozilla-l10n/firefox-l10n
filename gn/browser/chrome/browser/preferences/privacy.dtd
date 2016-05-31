@@ -71,7 +71,7 @@
 <!ENTITY  historyHeader.custom.label       "Eiporu peteĩ ñemboheko mba'etéva tembiasakuépe g̃uarã">
 <!ENTITY  historyHeader.post.label         "Guarani">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; imandu'áta nekundaha rembiasakue, ñemboguejy, myanyhẽha ha jehekaha, ha oñongatúta avei ñanduti renda kookie eike hague.">
+<!ENTITY  rememberDescription.label      "&brandShortName; imandu'áta nekundaha rembiasakue, ñemboguejy, myanyhẽha ha jehekaha, ha oñongatúta avei ñanduti renda cookie eike hague.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -79,7 +79,7 @@
 <!ENTITY  rememberActions.pre.label           "Katui ikatútapa">
 <!ENTITY  rememberActions.clearHistory.label  "Tembiasakue ramovegua mopotï">
 <!ENTITY  rememberActions.middle.label        ", or">
-<!ENTITY  rememberActions.removeCookies.label "kookie peteĩteĩ mboguete">
+<!ENTITY  rememberActions.removeCookies.label "cookie peteĩteĩ mboguete">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; oipurujeýta pe ñemboheko kundaha ñemigua pegua, ha noñongatumo'ãi mba'evéichagua mba'ekuaarã tembiasakuéva oikundahakuévo ñandutípe.">
