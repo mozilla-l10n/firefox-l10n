@@ -24,9 +24,10 @@
 
 <!ENTITY  onboard_start_restricted1 "Vær trygg og ha kontroll med denne forenklede versjonen av &brandShortName;.">
 
-
-
-
+<!ENTITY  reading_list_migration_title "Leseliste tilkoblet">
+<!ENTITY  reading_list_migration_subtext "Innholdet i leselisten din blir nå lagt til i bokmerkene dine">
+<!ENTITY  reading_list_migration_goto_bookmarks "Gå til bokmerker">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Bokmerkefeltet er skjult">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -62,15 +63,18 @@
 <!ENTITY bookmark_removed "Bokmerke fjernet">
 <!ENTITY bookmark_updated "Bokmerke oppdatert">
 <!ENTITY bookmark_options "Innstillinger">
-
+<!ENTITY screenshot_added_to_bookmarks "Skjermbildet lagt til i bokmerker">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Skjermbilder">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Leseliste">
 
-
+<!ENTITY reader_saved_offline "Lagret frakoblet">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Bytt">
 
 <!ENTITY history_today_section "I dag">
 <!ENTITY history_yesterday_section "I går">
@@ -109,7 +113,7 @@
 <!ENTITY settings "Innstillinger">
 <!ENTITY settings_title "Innstillinger">
 <!ENTITY pref_category_general "Generelt">
-
+<!ENTITY pref_category_general_summary3 "Hjem, språk, fanekø">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -148,15 +152,15 @@
 <!ENTITY overlay_no_synced_devices "Ingen Firefox Account-tilkoblede enheter funnet">
 
 <!ENTITY pref_category_search3 "Søk">
-
+<!ENTITY pref_category_search_summary2 "Legg til, velg standard, vis forslag">
 <!ENTITY pref_category_accessibility "Tilgjengelighet">
 <!ENTITY pref_category_accessibility_summary2 "Teksttørrelse, forstørring, taleinndata">
 <!ENTITY pref_category_privacy_short "Personvern">
-
+<!ENTITY pref_category_privacy_summary4 "Sporing, innlogginger, datavalg">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Om &brandShortName;, OSS, tilbakemelding">
 <!ENTITY pref_category_datareporting "Datavalg">
-
+<!ENTITY pref_category_logins "Innlogginger">
 <!ENTITY pref_learn_more "Les mer">
 <!ENTITY pref_category_installed_search_engines "Installerte søkemotorer">
 <!ENTITY pref_category_add_search_providers "Legg til flere søketilbydere">
@@ -168,12 +172,13 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "TIPS: Legg til et nettsted i din liste over søketilbydere ved å trykke lenge på søkefeltet og så trykke på &formatI; ikonet.">
 <!ENTITY pref_category_advanced "Avansert">
-
-
-
-
-
+<!ENTITY pref_category_advanced_summary3 "Gjenopprett faner, datalager, utviklerverktøy">
+<!ENTITY pref_category_notifications "Varslinger">
+<!ENTITY pref_category_notifications_summary "Nye funksjoner, nettstedsoppdateringer">
+<!ENTITY pref_content_notifications "Nettstedsoppdateringer">
+<!ENTITY pref_content_notifications_summary2 "Oppdag nytt innhold fra støttede nettsteder">
 <!ENTITY pref_developer_remotedebugging_usb "Ekstern debugging via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Ekstern debugging via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi-debugging krever at enheten din har installert en QR-kodeleseapp.">
@@ -183,8 +188,8 @@
 <!ENTITY pref_category_home "Hjem">
 <!ENTITY pref_category_home_summary "Tilpass startsiden">
 <!ENTITY pref_category_home_panels "Paneler">
-
-
+<!ENTITY pref_category_home_add_ons "Utvidelser">
+<!ENTITY pref_home_updates2 "Innholdsoppdateringer">
 <!ENTITY pref_home_updates_enabled "Påslått">
 <!ENTITY pref_home_updates_wifi "Bare med Wi-Fi">
 <!ENTITY pref_category_home_homepage "Startside">
@@ -210,7 +215,7 @@
 <!ENTITY pref_header_search "Søk">
 <!ENTITY pref_header_privacy_short "Personvern">
 <!ENTITY pref_header_accessibility "Tilgjengelighet">
-
+<!ENTITY pref_header_notifications "Varslinger">
 <!ENTITY pref_header_advanced "Avansert">
 <!ENTITY pref_header_help "Hjelp">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -220,8 +225,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Påslått, med unntak for tredjeparts">
 <!ENTITY pref_cookies_disabled "Avslått">
 
-
-
+<!ENTITY pref_category_data_saver "Datalagrer">
+<!ENTITY pref_category_media "Media">
+<!ENTITY pref_category_developer_tools "Utviklerverktøy">
 
 <!ENTITY pref_tap_to_load_images_title2 "Vis bilder">
 <!ENTITY pref_tap_to_load_images_enabled "Alltid">
