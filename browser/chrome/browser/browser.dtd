@@ -308,7 +308,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "பக்கப்பட்டை">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "தனிபயனாக்குதல்…"> 
+<!ENTITY viewCustomizeToolbar.label       "தனிபயனாக்கு…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 <!ENTITY historyMenu.label "வரலாறு">
@@ -436,7 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "புதிய சாளரத்தில் இணைப்பைத் திற">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "புதிய தனிப்பட்ட உலாவுதல் சாளரத்தில் இணைப்பைத் திற">
+<!ENTITY openLinkInPrivateWindowCmd.label "புதிய தனிப்பட்ட சாளரத்தில் இணைப்பைத் திற">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "இணைப்பைத் திற">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
@@ -456,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "பக்க மூலத்தைக் காட்டு">
+<!ENTITY viewPageSourceCmd.label      "பக்கத்தின் மூலத்தைக் காட்டு">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "சட்ட மூலத்தை காட்டு">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
@@ -485,7 +485,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "மின்னஞ்சல் இணைப்பு ...">
 <!ENTITY emailPageCmd.accesskey       "ம">
-<!ENTITY savePageCmd.label            "பக்கத்தை இப்படி சேமி…">
+<!ENTITY savePageCmd.label            "இவ்வாறு சேமி…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
