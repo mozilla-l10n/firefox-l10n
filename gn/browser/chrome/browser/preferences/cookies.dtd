@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Ko'ã Kookie oñeñongatúma nemohendahápe:">
+<!ENTITY     cookiesonsystem.label          "Ko'ã cookie oñeñongatúma nemohendahápe:">
 <!ENTITY     cookiename.label               "Kookie réra">
 <!ENTITY     cookiedomain.label             "Tenda"> 
 <!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):

@@ -31,7 +31,7 @@
 <!ENTITY alwaysAsk.label "Eporandumeméke chéve moõpa añongatúta marandurenda">
 <!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY alwaysCheckDefault2.label        "Ehecha tapia &brandShortName; ha'eha kundaha ypykuéva">
+<!ENTITY alwaysCheckDefault2.label        "Ehecha tapia ha'épa &brandShortName; kundaha ypykuéva">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
 <!ENTITY setAsMyDefaultBrowser2.label     "Ijypykue rupi jejapo">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
