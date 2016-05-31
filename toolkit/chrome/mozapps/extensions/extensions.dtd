@@ -155,7 +155,7 @@
 <!ENTITY detail.showPreferencesWin.tooltip    "แก้ไขตัวเลือกของส่วนเสริมนี้">
 <!ENTITY detail.showPreferencesUnix.label     "การตั้งค่า">
 <!ENTITY detail.showPreferencesUnix.accesskey "ก">
-<!ENTITY detail.showPreferencesUnix.tooltip   "ปรับแต่งส่วนเสริมนี้">
+<!ENTITY detail.showPreferencesUnix.tooltip   "เปลี่ยนการตั้งค่าของส่วนเสริมนี้">
 <!-- ratings -->
 
 
