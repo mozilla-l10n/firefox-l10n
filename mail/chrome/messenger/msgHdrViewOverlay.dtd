@@ -61,7 +61,7 @@
 <!ENTITY markAsReadMenuItem1.accesskey "M">
 <!ENTITY markAsUnreadMenuItem1.label "Marker som ulesen">
 <!ENTITY markAsUnreadMenuItem1.accesskey "M">
-<!ENTITY saveAsMenuItem1.label "Lagra som …">
+<!ENTITY saveAsMenuItem1.label "Lagra som…">
 <!ENTITY saveAsMenuItem1.accesskey "s">
 <!ENTITY viewSourceMenuItem1.label "Vis kjeldekode">
 <!ENTITY viewSourceMenuItem1.accesskey "V">
@@ -75,7 +75,7 @@
 
 <!ENTITY openAttachmentCmd.label    "Opna">
 <!ENTITY openAttachmentCmd.accesskey    "O">
-<!ENTITY saveAsAttachmentCmd.label    "Lagra som …">
+<!ENTITY saveAsAttachmentCmd.label    "Lagra som…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "s">
 <!ENTITY detachAttachmentCmd.label    "Splitt …">
 <!ENTITY detachAttachmentCmd.accesskey    "t">
