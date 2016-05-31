@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Cuir cosc ar ábhar contúirteach nó cealgach">
+<!ENTITY  enableSafeBrowsing.accesskey    "C">
 
+<!ENTITY  blockDownloads.label            "Cuir cosc ar íosluchtuithe contúirteacha">
+<!ENTITY  blockDownloads.accesskey        "s">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Tabhair rabhadh dom faoi bhogearraí neamhchoitianta nó bogearraí gan iarraidh">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Eisceachtaí…">
 <!ENTITY  addonExceptions.accesskey     "E">
