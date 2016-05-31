@@ -22,7 +22,7 @@
 
 <!ENTITY window.title                 "กระดานทดลอง">
 
-<!ENTITY fileMenu.label               "แฟ้ม">
+<!ENTITY fileMenu.label               "ไฟล์">
 <!ENTITY fileMenu.accesskey           "ฟ">
 
 <!ENTITY newWindowCmd.label           "หน้าต่างใหม่">

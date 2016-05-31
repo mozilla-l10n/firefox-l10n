@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
 
-<!ENTITY setupButton.label          "ติดตั้ง &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "ตั้งค่า &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "ต">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ให้คุณเข้าถึงประวัติ ที่คั่นหน้า รหัสผ่าน และแท็บที่เปิดไว้ผ่านอุปกรณ์ของคุณทั้งหมด">
 <!-- The page shown when logged in... -->
@@ -18,9 +18,9 @@
 <!ENTITY manageAccount.accesskey      "ก">
 <!ENTITY changePassword2.label        "เปลี่ยนรหัสผ่าน…">
 <!ENTITY myRecoveryKey.label          "กุญแจกู้ข้อมูลของฉัน">
-<!ENTITY resetSync2.label             "ล้าง Sync…">
+<!ENTITY resetSync2.label             "กลับค่าเดิมของ Sync…">
 
-<!ENTITY pairDevice.label             "เชื่อมโยงอุปกรณ์">
+<!ENTITY pairDevice.label             "จับคู่อุปกรณ์">
 
 <!ENTITY syncMy.label               "ซิงค์">
 <!ENTITY engine.bookmarks.label     "ที่คั่นหน้า">
@@ -31,8 +31,8 @@
 <!ENTITY engine.history.accesskey   "ป">
 <!ENTITY engine.passwords.label     "รหัสผ่าน">
 <!ENTITY engine.passwords.accesskey "ร">
-<!ENTITY engine.prefs.label         "ค่าปรับแต่ง">
-<!ENTITY engine.prefs.accesskey     "ต">
+<!ENTITY engine.prefs.label         "การตั้งค่า">
+<!ENTITY engine.prefs.accesskey     "ค">
 <!ENTITY engine.addons.label        "ส่วนเสริม">
 <!ENTITY engine.addons.accesskey    "ส">
 <!-- Device Settings -->
@@ -43,14 +43,14 @@
 <!ENTITY changeSyncDeviceName.label "เปลี่ยนชื่ออุปกรณ์…">
 <!ENTITY cancelChangeSyncDeviceName.label "ยกเลิก">
 <!ENTITY saveChangeSyncDeviceName.label "บันทึก">
-<!ENTITY unlinkDevice.label           "ยกเลิกการเชื่อมโยงอุปกรณ์นี้">
+<!ENTITY unlinkDevice.label           "เลิกเชื่อมโยงอุปกรณ์นี้">
 <!-- Footer stuff -->
 
-<!ENTITY prefs.tosLink.label        "ข้อกำหนดการให้บริการ">
+<!ENTITY prefs.tosLink.label        "เงื่อนไขการให้บริการ">
 <!ENTITY prefs.ppLink.label         "นโยบายความเป็นส่วนตัว">
 <!-- Firefox Accounts stuff -->
 
-<!ENTITY fxaPrivacyNotice.link.label "หนังสือบอกกล่าวความเป็นส่วนตัว">
+<!ENTITY fxaPrivacyNotice.link.label "ประกาศความเป็นส่วนตัว">
 <!ENTITY determiningAcctStatus.label     "กำลังกำหนดสถานบัญชีของคุณ…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -70,12 +70,12 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "คุณยังไม่ได้เข้าใช้งาน">
-<!ENTITY signIn.label                "เข้าใช้งาน">
+<!ENTITY signIn.label                "เข้าสู่ระบบ">
 <!ENTITY profilePicture.tooltip      "เปลี่ยนรูปโพรไฟล์">
-<!ENTITY verifiedManage.label        "จัดการบัญชีผู้ใช้">
-<!ENTITY disconnect.label            "ยกเลิกการเชื่อมต่อ…">
-<!ENTITY verify.label                "ตรวจความถูกต้องของอีเมล">
-<!ENTITY forget.label                "ลืมอีเมลนี้">
+<!ENTITY verifiedManage.label        "จัดการบัญชี">
+<!ENTITY disconnect.label            "ตัดการเชื่อมต่อ…">
+<!ENTITY verify.label                "ยืนยันอีเมล">
+<!ENTITY forget.label                "ไม่จำอีเมลนี้">
 
 <!ENTITY welcome.description "เข้าถึงแท็บ ที่คั่นหน้า รหัสผ่าน และมากกว่า ในทุก ๆ ที่ที่คุณใช้ &brandShortName;">
 <!ENTITY welcome.signIn.label "เข้าสู่ระบบ">

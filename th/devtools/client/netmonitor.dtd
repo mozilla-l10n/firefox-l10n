@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.file): This is the label displayed
   -  in the network table toolbar, above the "file" column. -->
 
-<!ENTITY netmonitorUI.toolbar.file        "แฟ้ม">
+<!ENTITY netmonitorUI.toolbar.file        "ไฟล์">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
 

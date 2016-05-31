@@ -2,20 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "ใช้การป้องกันการติดตาม">
+<!ENTITY  trackingProtectionHeader.label       "ใช้การป้องกันการตามรอย">
 <!ENTITY  trackingProtectionAlways.label       "เสมอ">
 <!ENTITY  trackingProtectionAlways.accesskey   "อ">
-<!ENTITY  trackingProtectionPrivate.label      "ในหน้าต่างท่องเว็บแบบส่วนตัวเท่านั้น">
-<!ENTITY  trackingProtectionPrivate.accesskey  "น">
-<!ENTITY  trackingProtectionNever.label        "ไม่ต้อง">
+<!ENTITY  trackingProtectionPrivate.label      "เฉพาะในหน้าต่างส่วนตัว">
+<!ENTITY  trackingProtectionPrivate.accesskey  "พ">
+<!ENTITY  trackingProtectionNever.label        "ไม่เลย">
 <!ENTITY  trackingProtectionNever.accesskey    "ไ">
 <!ENTITY  trackingProtectionLearnMore.label    "เรียนรู้เพิ่มเติม">
-<!ENTITY  trackingProtectionExceptions.label   "ยกเว้น…">
-<!ENTITY  trackingProtectionExceptions.accesskey "ย">
+<!ENTITY  trackingProtectionExceptions.label   "ข้อยกเว้น…">
+<!ENTITY  trackingProtectionExceptions.accesskey "ข">
 
-<!ENTITY tracking.label                 "การติดตาม">
-<!ENTITY trackingProtectionPBM5.label         "ใช้การป้องกันการติดตามในหน้าต่างท่องเว็บส่วนตัว">
-<!ENTITY trackingProtectionPBM5.accesskey     "ส">
+<!ENTITY tracking.label                 "การตามรอย">
+<!ENTITY trackingProtectionPBM5.label         "ใช้การป้องกันการตามรอยในหน้าต่างส่วนตัว">
+<!ENTITY trackingProtectionPBM5.accesskey     "ต">
 <!ENTITY trackingProtectionPBMLearnMore.label "เรียนรู้เพิ่มเติม">
 <!ENTITY changeBlockList.label          "เปลี่ยนรายการการปิดกั้น">
 <!ENTITY changeBlockList.accesskey      "เ">
@@ -43,32 +43,32 @@
 <!ENTITY  suggestionSettings.label      "เปลี่ยนการตั้งค่าสำหรับคำแนะนำจากเครื่องมือค้นหา…">
 <!ENTITY  suggestionSettings.accesskey  "ล">
 
-<!ENTITY  acceptCookies.label           "รับคุกกี้จากเว็บไซต์">
-<!ENTITY  acceptCookies.accesskey       "ร">
+<!ENTITY  acceptCookies.label           "ยอมรับคุกกี้จากไซต์">
+<!ENTITY  acceptCookies.accesskey       "ย">
 
-<!ENTITY  acceptThirdParty.pre.label      "รับคุกกี้จากเว็บไซต์อื่น ๆ :">
+<!ENTITY  acceptThirdParty.pre.label      "ยอมรับคุกกี้จากบุคคลที่สาม:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "อ">
 <!ENTITY  acceptThirdParty.always.label   "เสมอ">
-<!ENTITY  acceptThirdParty.never.label    "ไม่ต้อง">
+<!ENTITY  acceptThirdParty.never.label    "ไม่เลย">
 <!ENTITY  acceptThirdParty.visited.label  "จากที่เยี่ยม">
 
-<!ENTITY  keepUntil.label               "เก็บจนกระทั่ง :">
+<!ENTITY  keepUntil.label               "เก็บจนกระทั่ง:">
 <!ENTITY  keepUntil.accesskey           "ก">
 
 <!ENTITY  expire.label                  "มันหมดอายุ">
 <!ENTITY  close.label                   "ฉันปิด &brandShortName;">
 
-<!ENTITY  cookieExceptions.label        "ยกเว้น…">
-<!ENTITY  cookieExceptions.accesskey    "ย">
+<!ENTITY  cookieExceptions.label        "ข้อยกเว้น…">
+<!ENTITY  cookieExceptions.accesskey    "ข">
 
 <!ENTITY  showCookies.label             "แสดงคุกกี้…">
 <!ENTITY  showCookies.accesskey         "ส">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; จะ:">
 <!ENTITY  historyHeader.pre.accesskey      "จ">
-<!ENTITY  historyHeader.remember.label     "จำประวัติการท่องเว็บ">
-<!ENTITY  historyHeader.dontremember.label "ไม่จำประวัติการท่องเว็บ">
-<!ENTITY  historyHeader.custom.label       "ใช้ค่าตั้งเองกับประวัติการเข้าเว็บ">
+<!ENTITY  historyHeader.remember.label     "จดจำประวัติ">
+<!ENTITY  historyHeader.dontremember.label "ไม่จดจำประวัติ">
+<!ENTITY  historyHeader.custom.label       "ใช้การตั้งค่าที่กำหนดเองสำหรับประวัติ">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; จะจำประวัติการท่องเว็บ การดาวน์โหลด การกรอกฟอร์มและการค้นหา รวมไปถึงคุกกี้จากเว็บไซต์ที่คุณไปเยี่ยมชมเอาไว้">
@@ -76,9 +76,9 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberActions.pre.label           "คุณอาจจะต้องการ ">
-<!ENTITY  rememberActions.clearHistory.label  "ล้างประวัติการท่องเว็บของคุณเมื่อเร็วๆ นี้">
-<!ENTITY  rememberActions.middle.label        "หรือ ">
+<!ENTITY  rememberActions.pre.label           "คุณอาจต้องการ ">
+<!ENTITY  rememberActions.clearHistory.label  "ล้างประวัติเมื่อเร็ว ๆ นี้ของคุณ">
+<!ENTITY  rememberActions.middle.label        " หรือ ">
 <!ENTITY  rememberActions.removeCookies.label "เอาคุกกี้ออกเอง">
 <!ENTITY  rememberActions.post.label          ".">
 
@@ -87,16 +87,16 @@
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
 <!ENTITY  dontrememberActions.pre.label          "คุณอาจจะต้องการ ">
-<!ENTITY  dontrememberActions.clearHistory.label "ล้างประวัติการท่องเว็บปัจจุบันของคุณ">
+<!ENTITY  dontrememberActions.clearHistory.label "ล้างประวัติปัจจุบันทั้งหมด">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "ใช้การดูเว็บแบบส่วนตัวเสมอ">
-<!ENTITY  privateBrowsingPermanent2.accesskey "ม">
+<!ENTITY  privateBrowsingPermanent2.label "ใช้โหมดการท่องเว็บแบบส่วนตัวเสมอ">
+<!ENTITY  privateBrowsingPermanent2.accesskey "ส">
 
-<!ENTITY  rememberHistory2.label      "จำประวัติการท่องเว็บและการดาวน์โหลดของฉัน">
+<!ENTITY  rememberHistory2.label      "จดจำประวัติการท่องเว็บและการดาวน์โหลดของฉัน">
 <!ENTITY  rememberHistory2.accesskey  "จ">
 
-<!ENTITY  rememberSearchForm.label       "จำประวัติการค้นหาและการกรอกฟอร์ม">
+<!ENTITY  rememberSearchForm.label       "จดจำประวัติการค้นหาและการกรอกฟอร์ม">
 <!ENTITY  rememberSearchForm.accesskey   "ฟ">
 
 <!ENTITY  clearOnClose.label             "ล้างประวัติเมื่อปิด &brandShortName;">

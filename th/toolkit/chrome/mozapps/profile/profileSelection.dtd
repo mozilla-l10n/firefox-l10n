@@ -7,14 +7,14 @@
 
 <!ENTITY            windowtitle.label      "&brandShortName; - เลือกโพรไฟล์ผู้ใช้">
 
-<!ENTITY            profilename.label      "ชื่อโพรไฟล์ :">
+<!ENTITY            profilename.label      "ชื่อโพรไฟล์:">
 
 <!ENTITY            start.label            "เริ่ม &brandShortName;">
 <!ENTITY            exit.label             "ออก">
 
-<!ENTITY            availprofiles.label    "โพรไฟล์ที่มี">
+<!ENTITY            availprofiles.label    "โพรไฟล์ที่ใช้งานได้">
 
-<!ENTITY            newButton.label        "สร้างโพรไฟล์ใหม่…">
+<!ENTITY            newButton.label        "สร้างโพรไฟล์…">
 <!ENTITY            newButton.accesskey    "ส">
 <!ENTITY            renameButton.label     "เปลี่ยนชื่อโพรไฟล์…">
 <!ENTITY            renameButton.accesskey "ป">

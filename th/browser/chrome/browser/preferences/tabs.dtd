@@ -3,17 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newWindowsAsTabs.label       "เปิดหน้าต่างใหม่ในแท็บใหม่แทน">
-<!ENTITY newWindowsAsTabs.accesskey   "ท">
+<!ENTITY newWindowsAsTabs.accesskey   "แ">
 
-<!ENTITY warnCloseMultipleTabs.label  "เตือนเมื่อจะปิดหลายแท็บในคราวเดียว">
-<!ENTITY warnCloseMultipleTabs.accesskey  "ต">
+<!ENTITY warnCloseMultipleTabs.label  "เตือนฉันเมื่อจะปิดหลายแท็บ">
+<!ENTITY warnCloseMultipleTabs.accesskey  "น">
 
 <!ENTITY warnOpenManyTabs.label       "เตือนเมื่อเปิดแท็บจำนวนมาก ซึ่งอาจทำให้ &brandShortName; ทำงานช้าลง">
 <!ENTITY warnOpenManyTabs.accesskey   "ม">
 
-<!ENTITY switchToNewTabs.label        "เมื่อเปิดลิงก์ในแท็บใหม่ ให้สลับไปที่แท็บนั้นทันที">
-<!ENTITY switchToNewTabs.accesskey    "ส">
+<!ENTITY switchToNewTabs.label        "เมื่อฉันเปิดลิงก์ในแท็บใหม่ สลับไปที่แท็บนั้นทันที">
+<!ENTITY switchToNewTabs.accesskey    "ม">
 
-<!ENTITY showTabsInTaskbar.label          "แสดงพรีวิวแท็บในแถบเครื่องมือ Windows">
-<!ENTITY showTabsInTaskbar.accesskey      "ค">
+<!ENTITY showTabsInTaskbar.label          "แสดงตัวอย่างแท็บในแถบงาน Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
 <!ENTITY tabsGroup.label          "แท็บ">

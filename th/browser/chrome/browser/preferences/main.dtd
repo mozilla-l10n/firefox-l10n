@@ -4,19 +4,19 @@
 
 <!ENTITY startup.label             "เริ่มการทำงาน">
 
-<!ENTITY startupPage.label         "เมื่อ &brandShortName; เริ่ม :">
+<!ENTITY startupPage.label         "เมื่อ &brandShortName; เริ่ม:">
 <!ENTITY startupPage.accesskey     "ร">
-<!ENTITY startupHomePage.label     "แสดงหน้าแรก">
+<!ENTITY startupHomePage.label     "แสดงหน้าแรกของฉัน">
 <!ENTITY startupBlankPage.label    "แสดงหน้าว่าง">
-<!ENTITY startupLastSession.label  "แสดงหน้าต่างและแท็บจากครั้งก่อน">
+<!ENTITY startupLastSession.label  "แสดงหน้าต่างและแท็บของฉันจากครั้งก่อน">
 
-<!ENTITY homepage.label            "หน้าแรก :">
+<!ENTITY homepage.label            "หน้าแรก:">
 <!ENTITY homepage.accesskey        "น">
 <!ENTITY useCurrentPage.label      "ใช้หน้าปัจจุบัน">
 <!ENTITY useCurrentPage.accesskey  "ป">
 <!ENTITY useMultiple.label         "ใช้หน้าปัจจุบัน">
 <!ENTITY chooseBookmark.label      "ใช้ที่คั่นหน้า…">
-<!ENTITY chooseBookmark.accesskey  "ช">
+<!ENTITY chooseBookmark.accesskey  "ท">
 <!ENTITY restoreDefault.label      "คืนสู่ค่าปริยาย">
 <!ENTITY restoreDefault.accesskey  "ค">
 
@@ -31,7 +31,7 @@
 <!ENTITY alwaysAsk.label "ถามฉันเสมอว่าจะบันทึกไฟล์ที่ไหน">
 <!ENTITY alwaysAsk.accesskey "ถ">
 
-<!ENTITY alwaysCheckDefault2.label        "ตรวจว่า &brandShortName; เป็นเบราว์เซอร์ปริยายหรือไม่">
+<!ENTITY alwaysCheckDefault2.label        "ตรวจสอบเสมอว่า &brandShortName; เป็นเบราว์เซอร์ปริยายของคุณหรือไม่">
 <!ENTITY alwaysCheckDefault2.accesskey    "ร">
 <!ENTITY setAsMyDefaultBrowser2.label     "ตั้งเป็นเบราว์เซอร์ปริยาย">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "ป">

@@ -96,7 +96,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "ส">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "เข้าสู่ภาพเต็มหน้าจอ">
+<!ENTITY enterFullScreenCmd.label "เต็มหน้าจอ">
 <!ENTITY enterFullScreenCmd.accesskey "ต">
 <!ENTITY exitFullScreenCmd.label "ออกจากภาพเต็มหน้าจอ">
 <!ENTITY exitFullScreenCmd.accesskey "ต">
@@ -257,7 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "ตรวจดูส่วนประกอบ">
 <!ENTITY inspectContextMenu.accesskey "ป">
 
-<!ENTITY fileMenu.label         "แฟ้ม"> 
+<!ENTITY fileMenu.label         "ไฟล์"> 
 <!ENTITY fileMenu.accesskey       "ฟ">
 <!ENTITY newUserContext.label             "แท็บคอนเทนเนอร์ใหม่">
 <!ENTITY newUserContext.accesskey         "ค">

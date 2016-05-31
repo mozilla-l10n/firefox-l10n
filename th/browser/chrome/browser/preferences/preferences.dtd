@@ -17,7 +17,7 @@
 <!ENTITY  paneTabs.title          "แท็บ">
 <!ENTITY  paneSearch.title        "ค้นหา">
 <!ENTITY  paneContent.title       "เนื้อหา">
-<!ENTITY  paneApplications.title  "โปรแกรม">
+<!ENTITY  paneApplications.title  "แอปพลิเคชัน">
 <!ENTITY  panePrivacy.title       "ความเป็นส่วนตัว">
 <!ENTITY  paneSecurity.title      "ความปลอดภัย">
 <!ENTITY  paneAdvanced.title      "ขั้นสูง">
@@ -25,4 +25,4 @@
 
 <!ENTITY  paneSync.title          "Sync">
 
-<!ENTITY  helpButton.label        "วิธีใช้">
+<!ENTITY  helpButton.label        "ช่วยเหลือ">
