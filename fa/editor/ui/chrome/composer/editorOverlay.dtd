@@ -15,7 +15,7 @@
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Paste As Quotation">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
-
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "پیدا کردن">
 <!ENTITY findReplaceCmd.label "پیدا کردن و جایگذاری...">
 <!ENTITY enableInlineSpellChecker.label "Spellcheck As You Type">
@@ -73,28 +73,29 @@
 <!ENTITY FontSizeSelect.tooltip "Choose a font size">
 <!ENTITY decreaseFontSize.label "Smaller">
 <!ENTITY decreaseFontSize.accesskey "r">
-
+<!ENTITY decrementFontSize.key "&lt;">
 <!-- < is above this key on many keyboards -->
 <!ENTITY decrementFontSize.key2 "،"> 
 <!ENTITY increaseFontSize.label "Larger">
 <!ENTITY increaseFontSize.accesskey "g">
-
+<!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> 
 
 <!ENTITY fontSizeMenu.label "Size">
 <!ENTITY fontSizeMenu.accesskey "z">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY size-tinyCmd.label "ریز">
+<!ENTITY size-tinyCmd.accesskey "ر">
+<!ENTITY size-smallCmd.label "کوچک">
+<!ENTITY size-smallCmd.accesskey "ک">
+<!ENTITY size-mediumCmd.label "متوسط‌">
+<!ENTITY size-mediumCmd.accesskey "م">
+<!ENTITY size-largeCmd.label "بزرگ‌">
+<!ENTITY size-largeCmd.accesskey "ب">
+<!ENTITY size-extraLargeCmd.label "بسیار بزرگ">
+<!ENTITY size-extraLargeCmd.accesskey "س">
+<!ENTITY size-hugeCmd.label "عظیم">
+<!ENTITY size-hugeCmd.accesskey "ع">
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Text Style">
@@ -142,7 +143,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Remove Named Anchors">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragraph">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -310,6 +311,8 @@
 <!ENTITY throbber.tooltip "Go to the &vendorShortName; home page">
 <!ENTITY HighlightColorButton.tooltip "Choose highlight color for text">
 <!-- Editor toolbar -->
+
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "تنظیم اندازه قلم">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Smaller font size">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Larger font size">
 <!ENTITY boldToolbarCmd.tooltip "Bold">

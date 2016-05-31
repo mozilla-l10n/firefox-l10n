@@ -17,9 +17,9 @@
 <!ENTITY accountManager.close.commandkey     "یک">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "هنوز هیچ حسابی پیکربندی نشده است">
-
-
-
+<!ENTITY accountManager.noAccount.description "روی دکمه‌ی &accountManager.newAccount.label; کلیک کنید تا به &brandShortName; اجازه دهید که شما را در فرایند پیکربندی آن راهنمایی کند.">
+<!ENTITY account.autoSignOn.label     "ورود در آغاز راه اندازی">
+<!ENTITY account.autoSignOn.accesskey "و">
 <!ENTITY account.connect.label        "اتصال‌">
 <!ENTITY account.connect.accesskey    "ا">
 <!ENTITY account.disconnect.label     "قطع ارتباط">
@@ -34,8 +34,8 @@
 <!ENTITY account.cancelReconnection.accesskey     "ل">
 <!ENTITY account.copyDebugLog.label     "رونوشت برداشتن از ثبت اشکال زدایی">
 <!ENTITY account.copyDebugLog.accesskey "ر">
-
-
-
-
-
+<!ENTITY account.showDebugLog.label     "نمایش ثبت اشکال زدایی">
+<!ENTITY account.showDebugLog.accesskey "م">
+<!ENTITY account.connecting           "در حال اتصال…">
+<!ENTITY account.disconnecting        "در حال قطع ارتباط…">
+<!ENTITY account.disconnected         "متصل نیست">

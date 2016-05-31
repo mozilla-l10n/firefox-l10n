@@ -5,10 +5,10 @@
 
 <!ENTITY openFileCmd.label "بازکردن پرونده…">
 <!ENTITY openFileCmd.accesskey "ب">
-
+<!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "بازکردن نشانی اینترنتی…">
 <!ENTITY openRemoteCmd.accesskey "ش">
-
+<!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "صفحه‌های اخیر">
 <!ENTITY fileRecentMenu.accesskey "ص">
 <!ENTITY saveCmd.label "ذخیره">
@@ -19,7 +19,7 @@
 <!ENTITY saveAsChangeEncodingCmd2.accesskey "ک">
 <!ENTITY publishCmd.label "انتشار‌">
 <!ENTITY publishCmd.accesskey "ا">
-
+<!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "انتشار به عنوان...">
 <!ENTITY publishAsCmd.accesskey "ش">
 <!ENTITY fileRevert.label "بازگشت">
