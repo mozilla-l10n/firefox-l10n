@@ -20,8 +20,8 @@
 <!ENTITY replaceButton.accessKey "R">
 <!ENTITY replaceAllButton.label "Replace All">
 <!ENTITY replaceAllButton.accessKey "A">
-
-
+<!ENTITY stopButton.label "توقف">
+<!ENTITY stopButton.accessKey "ق">
 <!ENTITY userDictionary.label "Personal Dictionary:">
 <!ENTITY moreDictionaries.label "Download more dictionaries…">
 <!ENTITY addToUserDictionaryButton.label "Add Word">
