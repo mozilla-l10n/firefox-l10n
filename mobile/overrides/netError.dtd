@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "A kiszolgáló nem található">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Ellenőrizze a címet, hogy nincs-e benne elgépelés, például: <strong>ww</strong>.valami.hu a <strong>www</strong>.valami.hu</li> helyett. <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Keresés</button> </div> <li>Ha semmilyen oldalt nem tud betölteni, ellenőrizze az eszköz adatkapcsolatát, illetve Wi-Fi kapcsolatát. <button id='wifi'>Kapcsolja be a Wi-Fi-t</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Ellenőrizze a címet, hogy nincs-e benne elgépelés, például: <strong>ww</strong>.example.com a <strong>www</strong>.example.com</li> helyett. <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Keresés</button> </div> <li>Ha semmilyen oldalt nem tud betölteni, ellenőrizze az eszköz adatkapcsolatát, illetve Wi-Fi kapcsolatát. <button id='wifi'>Kapcsolja be a Wi-Fi-t</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "A fájl nem található">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ellenőrizze a fájlnevet, hogy jól írta-e.</li> <li>Ellenőrizze, hogy a fájlt áthelyezték-e, átnevezték-e vagy eltávolították-e.</li> </ul>">
@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.title "A cím érvénytelen">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>A webcímeket általában <strong>http://www.valami.hu/</strong> formában írják.</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Keresés</button> </div> <li>Ellenőrizze, hogy előre dőlő perjeleket használ-e (azaz: <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>A webcímeket általában <strong>http://www.example.com/</strong> formában írják.</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Keresés</button> </div> <li>Ellenőrizze, hogy előre dőlő perjeleket használ-e (azaz: <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "A kapcsolat megszakadt">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
