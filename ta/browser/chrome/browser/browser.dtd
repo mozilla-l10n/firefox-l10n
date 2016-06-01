@@ -560,7 +560,7 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "கட்டுப்பாடுகளை காட்டு">
+<!ENTITY mediaShowControls.label     "கட்டுப்பாடுகளைக் காட்டு">
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "கட்டுப்பாடுகளை மறை">
 <!ENTITY mediaHideControls.accesskey "C">
@@ -573,7 +573,7 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "புள்ளிவிவரம் காட்டு">
 <!ENTITY videoShowStats.accesskey    "ட">
-<!ENTITY videoHideStats.label        "புள்ளிவிபரத்தை மறைக்க">
+<!ENTITY videoHideStats.label        "புள்ளிவிபரத்தை மறை">
 <!ENTITY videoHideStats.accesskey    "t">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -617,7 +617,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
-<!ENTITY closeCmd.label                 "மூடு">  
+<!ENTITY closeCmd.label                 "மூடுக">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -646,7 +646,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "இந்தப் பக்கத்தில் தேடு…">
+<!ENTITY findOnCmd.label     "இப்பக்கத்தில் தேடு…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "மீண்டும் தேடு">
