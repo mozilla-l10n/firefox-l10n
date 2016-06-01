@@ -9,7 +9,7 @@
 <!ENTITY name.text                       "Így fog megjelenni a neve">
 <!ENTITY email.label                     "E-mail cím:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "email@pelda.hu">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Jelszó:">
 <!ENTITY password.accesskey              "J">
 <!ENTITY password.placeholder            "Jelszó">
