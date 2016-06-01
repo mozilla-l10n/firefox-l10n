@@ -102,7 +102,7 @@
      the panel at all.
      -->
 
-<!ENTITY downloadsHistory.label           "அனைத்து பதிவிறக்கங்களும் காண்பி">
+<!ENTITY downloadsHistory.label           "அனைத்து பதிவிறக்கங்களையும் காண்பி">
 <!ENTITY downloadsHistory.accesskey       "S">
 
 <!ENTITY clearDownloadsButton.label       "பதிவிறக்கங்களை அழி">
