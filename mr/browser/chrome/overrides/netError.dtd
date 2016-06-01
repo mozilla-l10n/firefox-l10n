@@ -115,4 +115,4 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "आपली जोडणी सुरक्षीत नाही">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरत आहे. आक्रमणकर्ता सहजपणे आपण सुरक्षित समजत असलेली माहिती मिळवू शकतो. वेबसाइट प्रशासकाने सर्व्हर निर्दोष केल्यावरच आपण साइटला भेट देऊ शकता. </p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरत आहे. आक्रमणकर्ता सहजपणे आपण सुरक्षित समजत असलेली माहिती मिळवू शकतो. वेबसाइट प्रशासकाने सर्व्हर निर्दोष केल्यावरच आपण साइटला भेट देऊ शकता. </p><p>त्रुटी कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
