@@ -168,7 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Diese Seite abonnieren…">
 <!ENTITY addCurPagesCmd.label "Lesezeichen für alle Tabs hinzufügen…">
 <!ENTITY showAllBookmarks2.label "Lesezeichen verwalten">
-<!ENTITY unsortedBookmarksCmd.label "Unsortierte Lesezeichen">
+<!ENTITY recentBookmarks.label "Kürzlich als Lesezeichen gesetzt">
+<!ENTITY otherBookmarksCmd.label "Weitere Lesezeichen">
 <!ENTITY bookmarksToolbarChevron.tooltip "Weitere Lesezeichen anzeigen">
 
 <!ENTITY backCmd.label                "Zurück">
@@ -196,7 +197,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Nachricht über den Offline-Speicher der App anzeigen">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Zugangsdaten verwalten">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Überprüfen, ob Ihr Passwort gespeichert werden soll">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Nachricht über die Installation einer App anzeigen">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Plugin-Verwendung durch die Website festlegen">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Ändern der Berechtigung der Website zum Anzeigen von Benachrichtigungen">
 
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "B">
 
 <!ENTITY bookmarksMenuButton.label          "Lesezeichen">
-<!ENTITY bookmarksMenuButton.unsorted.label "Unsortierte Lesezeichen">
+<!ENTITY bookmarksMenuButton.other.label "Weitere Lesezeichen">
 <!ENTITY viewBookmarksSidebar2.label        "Lesezeichen-Sidebar anzeigen">
 <!ENTITY viewBookmarksToolbar.label         "Lesezeichen-Symbolleiste anzeigen">
 
@@ -256,16 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Element untersuchen">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
-<!ENTITY responsiveDesignTool.label   "Bildschirmgrößen testen">
-<!ENTITY responsiveDesignTool.accesskey "B">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Entwickler-Symbolleiste schließen">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Entwicklerwerkzeuge ein-/ausblenden">
-
-<!ENTITY devToolbarOtherToolsButton.label  "Mehr">
 
 <!ENTITY fileMenu.label         "Datei"> 
 <!ENTITY fileMenu.accesskey       "D">
@@ -349,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Menü &quot;Hilfe&quot; öffnen">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronisierte Tabs">
-<!ENTITY appMenuRemoteTabs.fetching.label "Synchronisierte Tabs abrufen…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Keine offenen Tabs">
@@ -359,7 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Melden Sie sich auf Ihren anderen Geräten bei Firefox an, um deren Tabs hier angezeigt zu bekommen.">
+<!ENTITY appMenuRemoteTabs.noclients.title "Noch keine synchronisierten Tabs">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Wollen Sie Ihre Tabs von Ihren anderen Geräten hier angezeigt bekommen?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync-Einstellungen">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Melden Sie sich an, um eine Liste der Tabs auf Ihren anderen Geräten zu sehen.">
 <!ENTITY appMenuRemoteTabs.signin.label "Bei Sync anmelden">
@@ -734,8 +724,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Synchronisierte Tabs">
 
 <!ENTITY syncedTabs.sidebar.label              "Synchronisierte Tabs">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Synchronisierte Tabs werden abgerufen…">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Melden Sie sich auf Ihren anderen Geräten bei Firefox an, um deren Tabs hier angezeigt zu bekommen.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Noch keine synchronisierten Tabs">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Wollen Sie Ihre Tabs von Ihren anderen Geräten hier angezeigt bekommen?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Melden Sie sich an, um eine Liste der Tabs von Ihren anderen Geräten angezeigt zu bekommen.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Keine offenen Tabs">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Einstellungen von &syncBrand.shortName.label; öffnen">
@@ -743,10 +734,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivieren Sie das Synchronisieren von Tabs, um die Tabs von Ihren anderen Geräten angezeigt zu bekommen.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Diesen Tab öffnen">
-<!ENTITY syncedTabs.context.openTab.accesskey               "f">
+<!ENTITY syncedTabs.context.open.label                       "Öffnen">
+<!ENTITY syncedTabs.context.open.accesskey                   "n">
+<!ENTITY syncedTabs.context.openInNewTab.label               "In neuem Tab öffnen">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "T">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "In neuem Fenster öffnen">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "F">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "In neuem privaten Fenster öffnen">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Diesen Tab als Lesezeichen hinzufügen…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "L">
+<!ENTITY syncedTabs.context.copy.label                       "Adresse kopieren">
+<!ENTITY syncedTabs.context.copy.accesskey                   "k">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
