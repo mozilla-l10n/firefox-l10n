@@ -65,10 +65,6 @@
 <!ENTITY finishedBackground.more "Aktualizacja zostanie zainstalowana przy następnym uruchomieniu programu &brandShortName;. Uruchom ponownie program &brandShortName; lub nie instaluj aktualizacji teraz i kontynuuj pracę.">
 <!ENTITY finishedBackground.moreElevated "Aktualizacja wymaga uprawnień administracyjnych i zostanie zainstalowana przy następnym uruchomieniu programu &brandShortName;. Uruchom program &brandShortName; ponownie, kontynuuj pracę uruchamiając ponownie później lub odrzuć tę aktualizację.">
 
-<!ENTITY  installed.title                 "Aktualizacja zainstalowana">
-<!ENTITY  installed.intro                 "Instalacja aktualizacji zakończyła się powodzeniem.">
-<!ENTITY  whatsnew.label                  "Spis najważniejszych zmian…">
-
 <!ENTITY  update.details.label            "Szczegóły">
 <!ENTITY  update.installedOn.label        "Zainstalowano:">
 <!ENTITY  update.status.label             "Status:">
