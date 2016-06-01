@@ -51,17 +51,17 @@
 <!ENTITY defaultPortLabel.label "Alapértelmezett:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Írja be a bejövő leveleket kezelő kiszolgáló nevét (például: „mail.cegnev.hu”).">
+<!ENTITY incomingServer.description "Írja be a bejövő leveleket kezelő kiszolgáló nevét (pl.: „mail.example.net”).">
 <!ENTITY incomingServer.label "Bejövő kiszolgáló:">
 <!ENTITY incomingServer.accesskey "B">
 <!ENTITY leaveMsgsOnSrvr.label "Üzenetek megtartása a kiszolgálón">
 <!ENTITY leaveMsgsOnSrvr.accesskey "m">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Enter the incoming user name given to you by your email provider (for example, „kovacsj”).">
+<!ENTITY incomingUsername.description "Írja be a felhasználói nevét, amelyet az e-mail szolgáltatója adott meg (például &quot;jkovacs&quot;)">
 <!ENTITY incomingUsername.label "Felhasználói név:">
 <!ENTITY incomingUsername.accesskey "F">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Írja be a hírcsoport-kiszolgáló (NNTP) nevét (például: „news.cegnev.hu”).">
+<!ENTITY newsServerNameDesc.label "Írja be a hírcsoport-kiszolgáló (NNTP) nevét (pl.: „news.example.net”).">
 <!ENTITY newsServerLabel.label "Hírcsoport-kiszolgáló:">
 <!ENTITY newsServerLabel.accesskey "H">
 <!-- Entities for Outgoing Server page -->
@@ -69,7 +69,7 @@
 
 <!ENTITY outgoingTitle.label "A kimenő levelek kiszolgáló adatai">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Írja be a bejövő leveleket kezelő kiszolgáló (SMTP) nevét (például: „smtp.cegnev.hu”).">
+<!ENTITY outgoingServer.description "Írja be a levélküldő kiszolgáló (SMTP) nevét (például: „smtp.example.net”).">
 <!ENTITY outgoingServer.label "Kimenő kiszolgáló:">
 <!ENTITY outgoingServer.accesskey "K">
 <!ENTITY outgoingUsername.description "Írja be az e-mail szolgáltatója által megadott kimenő felhasználói nevét (ez általában ugyanaz, mint a bejövő felhasználói név).">
