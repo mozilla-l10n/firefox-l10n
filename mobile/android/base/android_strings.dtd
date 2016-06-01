@@ -24,9 +24,6 @@
 <!ENTITY firstrun_tabqueue_subtext_off "Non caricare immediatamente in &brandShortName; i link aperti da altre app.">
 <!ENTITY firstrun_tabqueue_message_on "Attivato!">
 <!ENTITY firstrun_tabqueue_subtext_on "È possibile disattivare questa funzione in qualunque momento nella sezione &pref_category_general; delle &settings;.">
-<!ENTITY firstrun_notifications_title "Blog">
-<!ENTITY firstrun_notifications_message "Rimani aggiornato">
-<!ENTITY firstrun_notifications_subtext "Ricevi una notifica quando i blog salvati nei segnalibri pubblicano un aggiornamento.">
 <!ENTITY firstrun_readerview_title "Articoli">
 <!ENTITY firstrun_readerview_message "Fai un po’ di ordine">
 <!ENTITY firstrun_readerview_subtext "Utilizza la Modalità lettura per rendere più piacevole la lettura di articoli \u2014 anche non in linea.">
