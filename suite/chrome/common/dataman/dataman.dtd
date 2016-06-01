@@ -9,6 +9,7 @@
 <!ENTITY select.all.label "Todos los tipos de datos">
 <!ENTITY select.cookies.label "Solo cookies">
 <!ENTITY select.permissions.label "Solo permisos">
+<!ENTITY select.permissionspwd.label "Solamente permisos de contraseña">
 <!ENTITY select.preferences.label "Solo preferencias">
 <!ENTITY select.passwords.label "Solo contraseñas">
 <!ENTITY select.storage.label "Solo almacenamiento">
@@ -27,6 +28,7 @@
 
 <!ENTITY tab.cookies.label "Cookies">
 <!ENTITY tab.permissions.label "Permisos">
+<!ENTITY tab.permissionspwd.label "Permisos de contraseña">
 <!ENTITY tab.preferences.label "Preferencias">
 <!ENTITY tab.passwords.label "Contraseñas">
 <!ENTITY tab.storage.label "Almacenamiento">
@@ -152,6 +154,7 @@
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Permisos">
 <!ENTITY forget.permissions.accesskey "P">
+<!ENTITY forget.permissionspwd.label "Permisos de contraseña">
 <!ENTITY forget.preferences.label "Preferencias de contenido">
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "Contraseñas">
