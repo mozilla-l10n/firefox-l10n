@@ -655,7 +655,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "அகராதிகளை சேர்…">
+<!ENTITY spellAddDictionaries.label "அகராதிகளைச் சேர்…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "சரி">
@@ -775,11 +775,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.markpageMenu.accesskey "P">
 <!ENTITY social.markpageMenu.label "பக்கத்தை இங்கு சேமி...">
 <!ENTITY social.marklinkMenu.accesskey "L">
-<!ENTITY social.marklinkMenu.label "இணைப்பை இங்கு சேமி...">
+<!ENTITY social.marklinkMenu.label "தொடுப்பை இங்கு சேமி...">
 
-<!ENTITY getUserMedia.selectCamera.label "பகிர வேண்டிய கேமரா:">
+<!ENTITY getUserMedia.selectCamera.label "பகிர வேண்டிய படக்கருவி:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "பகிர வேண்டிய மைக்ரோஃபோன்:">
+<!ENTITY getUserMedia.selectMicrophone.label "பகிர வேண்டிய ஒலிவாங்கி:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
 <!ENTITY getUserMedia.allWindowsShared.message "திரையில் பார்வையிலுள்ள அனைத்து சாளரங்களும் பகிரப்படும்.">
