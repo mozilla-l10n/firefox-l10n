@@ -590,7 +590,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY identity.connectionSecure "Zabezpieczone połączenie">
 <!ENTITY identity.connectionNotSecure "Połączenie nie jest bezpieczne">
 <!ENTITY identity.connectionFile "Strona wczytana z tego komputera">
-<!ENTITY identity.connectionVerified1 "Połączenie bezpieczne, strona prowadzona przez:">
+<!ENTITY identity.connectionVerified2 "Połączenie bezpieczne, strona:">
 <!ENTITY identity.connectionInternal "To jest strona programu &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Dane logowania wprowadzone na tej stronie nie są chronione">
 
