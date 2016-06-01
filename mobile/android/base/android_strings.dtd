@@ -40,8 +40,8 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName;-crashreporter">
 <!ENTITY  crash_message2 "&brandShortName; ondervond een probleem en is vastgelopen. Uw tabbladen worden op de &brandShortName;-startpagina vermeld als u opnieuw start.">
-<!ENTITY  crash_send_report_message3 "&vendorShortName; van deze crash op de hoogte stellen, zodat ze dit kunnen verhelpen">
-<!ENTITY  crash_include_url2 "Het adres van de bezochte website bijvoegen">
+<!ENTITY  crash_send_report_message3 "&vendorShortName; van deze crash op de hoogte stellen, zodat dit kan worden verholpen">
+<!ENTITY  crash_include_url2 "Het adres van de bezochte pagina bijvoegen">
 <!ENTITY  crash_sorry "Het spijt ons">
 <!ENTITY  crash_comment "Voeg een opmerking toe (opmerkingen zijn publiekelijk zichtbaar)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; toestaan om contact met mij op te nemen over dit rapport">
