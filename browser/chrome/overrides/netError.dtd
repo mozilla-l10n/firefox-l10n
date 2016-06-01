@@ -24,6 +24,7 @@
 <!ENTITY fileNotFound.title "फाइल फेला परेन">
 <!ENTITY fileNotFound.longDesc "<ul><li>अक्षर ठूलो पार्न वा अरु किसिमको टाइपिङ् त्रुटिको निम्ति फाइलको नाम परीक्षण गर्नुहोस्।</li> <li>फाइल सरिएको, नाम परिवर्तन गरिएको वा मेटिएको परीक्षणको निम्ति हेर्नुहोस्।</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "फाइलमा पहुँच अस्वीकृत भयो">
 
 
 <!ENTITY generic.title "उफ।">

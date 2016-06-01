@@ -6,20 +6,21 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "निजि संझ्याल खोल्नुहोस्">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
+<!ENTITY privateBrowsing.title                           "निजी ब्राउजिङ">
 
 
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 
+<!ENTITY aboutPrivateBrowsing.info.searches              "खोजी">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "कुकिज">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "अस्थायी फाइलहरु">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "फायरफक्स  ">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          "  तपाईंको:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "डाउनलोडहरू">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "पुस्तकचिनोहरु">
+<!ENTITY aboutPrivateBrowsing.note.before                "निजी ब्राउजिङ  ">
 
 
 
