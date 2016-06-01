@@ -6,5 +6,5 @@
 <!ENTITY aboutProfiles.subtitle "Denne sida hjelper deg med å handsama profilane dine. Kvar profil er ei separat verd som inneheld separat historikk, sparate bokmerke, innstillingar og utvidingar.">
 <!ENTITY aboutProfiles.create "Lag ein ny profil">
 <!ENTITY aboutProfiles.restart.title "Start på nytt">
-<!ENTITY aboutProfiles.restart.inSafeMode "Start på nytt med utvidingar avslått …">
-<!ENTITY aboutProfiles.restart.normal "Start på nytt vanleg …">
+<!ENTITY aboutProfiles.restart.inSafeMode "Start på nytt med utvidingar avslått…">
+<!ENTITY aboutProfiles.restart.normal "Start på nytt vanleg…">
