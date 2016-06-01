@@ -41,7 +41,7 @@
 <!ENTITY  crash_reporter_title "&brandShortName;-ûngelokrapportearder">
 <!ENTITY  crash_message2 "&brandShortName; hie in probleem en is fêstrûn. Jo ljepblêden soene toand wurde moatte op jo &brandShortName;-startside as jo werstarte.">
 <!ENTITY  crash_send_report_message3 "&vendorShortName; fan dit ûngelok op de hichte stelle, sadat se dit ferhelpe kinne">
-<!ENTITY  crash_include_url2 "It adres fan de besochte website tafoegje">
+<!ENTITY  crash_include_url2 "It adres fan de besochte side tafoegje">
 <!ENTITY  crash_sorry "It spyt ús">
 <!ENTITY  crash_comment "Foegje in opmerking ta (opmerkingen binne publyklik sichtber)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; tastean om kontakt mei my op te nimmen oer dit rapport">
