@@ -37,6 +37,11 @@
 <!ENTITY fileNotFound.title "파일을 찾을 수 없음">
 <!ENTITY fileNotFound.longDesc "<ul><li>파일 이름의 대소문자를 비롯한 오타가 없는지 확인해 보시기 바랍니다.</li><li>이동되었거나, 이름이 변경되었거나, 삭제된 파일을 보려고 하는 것은 아닌지 확인해 보시기 바랍니다.</li></ul>">
 
+<!ENTITY fileAccessDenied.title "파일 접근이 거부됨">
+<!ENTITY fileAccessDenied.longDesc "<ul> 
+  <li>파일이 삭제 또는 이동되었거나 파일 접근 권한이 막혀있습니다.</li>
+</ul>
+">
 
 <!ENTITY generic.title "이런.">
 <!ENTITY generic.longDesc "<p>&brandShortName;가 어떠한 이유로 인하여 현재 페이지를 읽을 수 없습니다.</p>">
@@ -169,3 +174,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "고급 정보: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "안전하지 않은 연결">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> 가 오래되고 공격에 취약한 보안 기술을 사용합니다. 공격자는 여러분이 안전하다고 생각한 정보들을 쉽게 알아낼 수 있습니다. 이 웹사이트 방문하기 전에 서버 관리자가 서버를 고치는 것이 필요합니다.</p><p>오류 코드: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
