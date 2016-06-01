@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "A kiszolgáló nem található">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Ellenőrizze a címet, nem gépelte-e el. Például nem írt-e <strong>ww</strong>.valami.hu-t a <strong>www</strong>.valami.hu helyett.</li> <li>Ha semmilyen oldalt nem tud letölteni, ellenőrizze a számítógépe hálózati kapcsolatát.</li> <li>Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a &brandShortName; számára engedélyezett-e a webhozzáférés.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Ellenőrizze a címet, nem gépelte-e el. Például nem írt-e <strong>ww</strong>.example.com-ot a <strong>www</strong>.example.com helyett.</li> <li>Ha semmilyen oldalt nem tud letölteni, ellenőrizze a számítógépe hálózati kapcsolatát.</li> <li>Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a &brandShortName; számára engedélyezett-e a webhozzáférés.</li> </ul>">
 
 <!ENTITY fileNotFound.title "A fájl nem található">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ellenőrizze a fájlnevet, hogy jól írta-e.</li> <li>Ellenőrizze, hogy a fájlt áthelyezték-e, átnevezték-e vagy eltávolították-e.</li> </ul>">
