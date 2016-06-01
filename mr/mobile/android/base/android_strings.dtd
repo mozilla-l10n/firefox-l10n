@@ -25,9 +25,9 @@
 <!ENTITY  onboard_start_restricted1 "&brandShortName; या सोप्या आवृत्तीसह सुरक्षित आणि नियंत्रित रहा.">
 
 <!ENTITY  reading_list_migration_title "वाचन सूची जोडली आहे">
-<!ENTITY  reading_list_migration_subtext "आपल्या वाचन सूचीतील घटक आता आपल्या बुकमार्क्सशी जोडले जातील">
-<!ENTITY  reading_list_migration_goto_bookmarks "पुस्तकखुणांकडे जा">
-<!ENTITY  reading_list_migration_bookmarks_hidden "आपल्या बुकमार्क्स चा पॅनल लपलेला आहे">
+<!ENTITY  reading_list_migration_subtext "आपल्या वाचन सूचीतील घटक आता आपल्या वाचणखूणांशी जोडले जातील">
+<!ENTITY  reading_list_migration_goto_bookmarks "वाचणखूणांकडे जा">
+<!ENTITY  reading_list_migration_bookmarks_hidden "आपल्या वाचणखूणांचा पॅनल लपलेला आहे">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -63,7 +63,7 @@
 <!ENTITY bookmark_removed "वाचनखूण काढले">
 <!ENTITY bookmark_updated "वाचनखूण अद्ययावत केले">
 <!ENTITY bookmark_options "पर्याय">
-<!ENTITY screenshot_added_to_bookmarks "बुकमार्क्स शी स्क्रीनशॉट जोडले आहे">
+<!ENTITY screenshot_added_to_bookmarks "वाचणखूणां शी स्क्रीनशॉट जोडले आहे">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -623,7 +623,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY bookmarkhistory_button_import "आयात करा">
 <!ENTITY bookmarkhistory_import_both "Android मधून वाचनखूणा आणि इतिहास आयात करत आहे">
-<!ENTITY bookmarkhistory_import_bookmarks "Androidमधून वाचनखूणा आयात करत आहे">
+<!ENTITY bookmarkhistory_import_bookmarks "Android मधून वाचनखूणा आयात करत आहे">
 <!ENTITY bookmarkhistory_import_history "Androidमधून इतिहास आयात करत आहे">
 <!ENTITY bookmarkhistory_import_wait "कृपया प्रतिक्षा करा...">
 
@@ -775,5 +775,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "मुख्य पटलावर जोडा">
 
 <!ENTITY helper_first_offline_bookmark_title "ऑफलाइन वाचा">
-<!ENTITY helper_first_offline_bookmark_message "Bookmarks मध्ये आपले वाचक दृश्य घटक शोधा, अगदी ऑफलाइन सुद्धा.">
-<!ENTITY helper_first_offline_bookmark_button "पुस्तकखुणांकडे जा">
+<!ENTITY helper_first_offline_bookmark_message "वाचणखूणां मध्ये आपले वाचक दृश्य घटक शोधा, अगदी ऑफलाइन सुद्धा.">
+<!ENTITY helper_first_offline_bookmark_button "वाचणखूणांकडे जा">
