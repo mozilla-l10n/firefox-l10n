@@ -28,10 +28,6 @@
 <!ENTITY firstrun_tabqueue_message_on "Sukces!">
 <!ENTITY firstrun_tabqueue_subtext_on "Zawsze można wyłączyć kolejkę kart w sekcji „&pref_category_general;” ustawień.">
 
-<!ENTITY firstrun_notifications_title "Blogi">
-<!ENTITY firstrun_notifications_message "Bądź na bieżąco">
-<!ENTITY firstrun_notifications_subtext "Otrzymuj powiadomienia o nowych postach na blogach w zakładkach.">
-
 <!ENTITY firstrun_readerview_title "Artykuły">
 <!ENTITY firstrun_readerview_message "Popraw czytelność">
 <!ENTITY firstrun_readerview_subtext "Funkcja poprawiania czytelności ułatwia czytanie artykułów – i działa także w trybie offline.">
