@@ -494,17 +494,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "சட்டத்தை அச்சிடு…">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "இணைப்பை இப்படி சேமி…">
+<!ENTITY saveLinkCmd.label            "தொடுப்பை இவ்வாறு சேமி…">
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "படத்தை இப்படி சேமி…">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "நிகழ்படத்தை இப்படி சேமி…">
 <!ENTITY saveVideoCmd.accesskey       "ச">
-<!ENTITY saveAudioCmd.label           "ஆடியோவை இப்படி சேமி…">
+<!ENTITY saveAudioCmd.label           "ஒலியை இவ்வாறு சேமி…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "படத்தை மின்னஞ்சல் செய்...">
 <!ENTITY emailImageCmd.accesskey      "ப">
-<!ENTITY emailVideoCmd.label          "மின்னஞ்சல் வீடியோ...">
+<!ENTITY emailVideoCmd.label          "மின்னஞ்சல் காணொளி...">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "சாதனத்திற்கு காணொளியை அனுப்பு">
 <!ENTITY castVideoCmd.accesskey       "e">
@@ -514,15 +514,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "இந்த செருகுநிரலை மறைக்கவும்">
 <!ENTITY hidePluginCmd.accesskey      "H">
-<!ENTITY copyLinkCmd.label            "இணைப்பு இடத்தை நகலெடு">
+<!ENTITY copyLinkCmd.label            "தொடுப்பை இடத்தை நகலெடு">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "பட இடத்தை நகலெடு">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "படத்தை நகலெடு">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY copyVideoURLCmd.label        "வீடியோ இடத்தை நகலெடு">
+<!ENTITY copyVideoURLCmd.label        "காணொளி இடத்தை நகலெடு">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "ஆடியோ இடத்தை நகலெடு">
+<!ENTITY copyAudioURLCmd.label        "ஒலி இடத்தை நகலெடு">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "மின்னஞ்சல் முகவரியை நகலெடு">
 <!ENTITY copyEmailCmd.accesskey       "E">
@@ -542,7 +542,7 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "ஒலி நீக்கு">
 <!ENTITY mediaMute.accesskey         "M">
-<!ENTITY mediaUnmute.label           "ஒலிக்க செய்">
+<!ENTITY mediaUnmute.label           "ஒலிக்கச் செய்">
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate.label     "இயக்கு வேகம்">
 <!ENTITY mediaPlaybackRate.accesskey "l">
