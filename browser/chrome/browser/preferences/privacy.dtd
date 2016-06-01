@@ -19,7 +19,7 @@
 <!ENTITY changeBlockList.label "Seleziona elenco">
 <!ENTITY changeBlockList.accesskey "l">
 <!ENTITY  doNotTrack.pre.label "È inoltre possibile ">
-<!ENTITY  doNotTrack.settings.label "gestire le impostazioni relative all’antitracciamento (Do Not Track)">
+<!ENTITY  doNotTrack.settings.label "gestire le impostazioni relative a Do Not Track">
 <!ENTITY  doNotTrack.post.label ".">
 <!ENTITY history.label "Cronologia">
 <!ENTITY locationBar.label "Barra degli indirizzi">
