@@ -81,9 +81,9 @@
 <!ENTITY corruptedContentError.title "Øydelagd innhald">
 <!ENTITY corruptedContentError.longDesc "<p>Sida du freistar å visa kan ikkje opnast fordi ein feil i dataoverføringa vart oppdaga.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om dette problemet.</li></ul>">
 
-<!ENTITY securityOverride.linkText "eller du kan leggja til eit unntak …">
+<!ENTITY securityOverride.linkText "eller du kan legga til eit unntak…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg bort herifrå!">
-<!ENTITY securityOverride.exceptionButtonLabel "Lag eit unntak …">
+<!ENTITY securityOverride.exceptionButtonLabel "Lag eit unntak…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes

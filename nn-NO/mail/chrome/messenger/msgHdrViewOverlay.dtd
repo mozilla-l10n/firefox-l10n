@@ -87,7 +87,7 @@
 <!ENTITY saveAllAttachmentsCmd.accesskey    "L">
 <!ENTITY detachAllAttachmentsCmd.label    "Splitt alle …">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "S">
-<!ENTITY deleteAllAttachmentsCmd.label    "Slett alle …">
+<!ENTITY deleteAllAttachmentsCmd.label    "Slett alle…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY openAttachment.tooltip "Opna vedlagde fil">

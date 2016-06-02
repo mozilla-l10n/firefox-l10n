@@ -74,7 +74,7 @@
 <!ENTITY abbreviate.label "Vis namn i mappelista med">
 <!ENTITY abbreviateOn.label "fulle namn (til dømes «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "forkorta namn (til dømes «n.p.m.mail-news»)">
-<!ENTITY advancedButton.label "Avansert …">
+<!ENTITY advancedButton.label "Avansert…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset2.label "Standard tekstkoding:">
 <!ENTITY localPath.label "Lokal mappe:">

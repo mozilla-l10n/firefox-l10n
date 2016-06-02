@@ -11,7 +11,7 @@
 <!ENTITY searchTermCaption.label "Vel søkekriteria for dette søket: ">
 
 <!ENTITY folderSelectionCaption.label "Vel mapper å søkja i: ">
-<!ENTITY chooseFoldersButton.label "Vel …">
+<!ENTITY chooseFoldersButton.label "Vel…">
 <!ENTITY chooseFoldersButton.accesskey "V">
 
 <!ENTITY searchOnline.label "Søk på ekstern tenar kvar gong (gjer at det tek lengre tid å opna mappa).">

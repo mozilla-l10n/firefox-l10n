@@ -19,7 +19,7 @@
 <!ENTITY alwaysAsk.accesskey          "A">
 <!ENTITY chooseFolderWin.label        "Bla gjennom …">
 <!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "Vel …">
+<!ENTITY chooseFolderMac.label        "Vel…">
 <!ENTITY chooseFolderMac.accesskey    "V">
 
 <!ENTITY attachments.incoming.label   "Inn">

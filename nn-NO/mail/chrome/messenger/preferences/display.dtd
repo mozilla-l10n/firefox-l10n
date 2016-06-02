@@ -43,7 +43,7 @@
 <!ENTITY defaultSize.accesskey   "o">
 <!ENTITY fontOptions.accesskey   "r">
 <!ENTITY fontOptions.label       "Skrifttypar …">
-<!ENTITY colorButton.label       "Fargar …">
+<!ENTITY colorButton.label       "Fargar…">
 <!ENTITY colorButton.accesskey   "F">
 <!-- Advanced -->
 
