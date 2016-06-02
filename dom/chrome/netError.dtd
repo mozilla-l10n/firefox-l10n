@@ -70,7 +70,7 @@
 <!ENTITY nssBadCert.title "Trygt samband feila">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Dette kan vera eit problem med tenaroppsettet,  eller det kan vera nokon som prøvser å gje seg ut for å vera tenaren.</li> <li>Om du har kopla til denne tenaren tidlegare, kan feilen vera mellombels og du kan prøva igjen seinare.</li> </ul> ">
 
-<!ENTITY securityOverride.linkText "Eller du kan laga eit unntak …">
+<!ENTITY securityOverride.linkText "Eller du kan laga eit unntak…">
 <!ENTITY securityOverride.warningContent "<p>Du bør ikkje laga eit unntak dersom du brukar eit Internett-samband som du ikkje stolar heilt på, eller om du ikkje er van med å sjå ei slik åtvaring for denne tenaren.</p> <p>Dersom du framleis ynskjer å laga eit unntak for denne nettstaden, kan du gjera det i dei avanserte krypterings-innstillingane.</p>">
 
 <!ENTITY cspBlocked.title "Blokkerrt av tryggingspraksisen for innhald">

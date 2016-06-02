@@ -47,7 +47,7 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Genererer ein privat nykel">
-<!ENTITY createCertInfo.msg1 "Opprettar nykel … Dette kan ta litt tid …">
+<!ENTITY createCertInfo.msg1 "Opprettar nykel… Dette kan ta litt tid…">
 <!ENTITY createCertInfo.msg2 "Ver snill og vent …">
 <!-- Strings for protectedAuth dialog -->
 

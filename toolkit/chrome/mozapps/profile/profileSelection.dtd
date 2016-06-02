@@ -18,7 +18,7 @@
 <!ENTITY            newButton.accesskey    "L">
 <!ENTITY            renameButton.label     "Endra profilnamn …">
 <!ENTITY            renameButton.accesskey "E">
-<!ENTITY            deleteButton.label     "Slett profil …">
+<!ENTITY            deleteButton.label     "Slett profil…">
 <!ENTITY            deleteButton.accesskey "S">
 <!-- manager entities -->
 
