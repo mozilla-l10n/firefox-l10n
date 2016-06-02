@@ -4,7 +4,7 @@
 
 <!ENTITY searchreset.tabtitle "Restaurar ajustes de búsqueda">
 <!ENTITY searchreset.pageTitle "¿Restaurar su configuración de búsqueda?">
-<!ENTITY searchreset.pageInfo1 "Su configuración de búsquedas puede estar obsoleta. Firefox puede ayudarle a restaurar la configuración de búsqueda predeterminada.">
+<!ENTITY searchreset.pageInfo1 "Su configuración de búsquedas puede estar obsoleta. &brandShortName; puede ayudarle a restaurar la configuración de búsqueda predeterminada.">
 <!ENTITY searchreset.selector.label "Esto establecerá su buscador predeterminado a">
 <!ENTITY searchreset.beforelink.pageInfo2 "Puede cambiar esta configuración en cualquier momento desde la ">
 <!ENTITY searchreset.afterlink.pageInfo2 ".">
