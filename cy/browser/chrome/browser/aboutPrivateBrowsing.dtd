@@ -8,8 +8,8 @@
 
 <!ENTITY privateBrowsing.title                           "Pori Preifat">
 <!ENTITY privateBrowsing.title.tracking                  "Pori Preifat gyda Diogelwch Rhag Tracio">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Pan fyddwch yn pori mewn Ffenestr Breifat, nid yw Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "yn cadw">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Pan fyddwch yn pori mewn Ffenestr Breifat, ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nid yw Firefox yn cadw">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "tudalennau rydych wedi ymweld â nhw">
 <!ENTITY aboutPrivateBrowsing.info.searches              "eich chwilio">
