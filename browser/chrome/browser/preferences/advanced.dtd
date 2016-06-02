@@ -98,7 +98,7 @@
 
 <!ENTITY offlineNotify.label             "Fortel meg når ein nettstad ber om å lagra data for fråkopla bruk">
 <!ENTITY offlineNotify.accesskey         "F">
-<!ENTITY offlineNotifyExceptions.label   "Unntak …">
+<!ENTITY offlineNotifyExceptions.label   "Unntak…">
 <!ENTITY offlineNotifyExceptions.accesskey "U">
 
 <!ENTITY offlineAppsList2.label          "Følgjande nettstad har løyve til å lagra data for fråkopla bruk:">

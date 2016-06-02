@@ -10,7 +10,7 @@
 <!ENTITY  trackingProtectionNever.label        "Aldri">
 <!ENTITY  trackingProtectionNever.accesskey    "A">
 <!ENTITY  trackingProtectionLearnMore.label    "Lær meir">
-<!ENTITY  trackingProtectionExceptions.label   "Unntak …">
+<!ENTITY  trackingProtectionExceptions.label   "Unntak…">
 <!ENTITY  trackingProtectionExceptions.accesskey "U">
 
 <!ENTITY tracking.label                 "Sporing">
@@ -58,7 +58,7 @@
 <!ENTITY  expire.label                  "dei går ut på dato">
 <!ENTITY  close.label                   "eg avsluttar &brandShortName;">
 
-<!ENTITY  cookieExceptions.label        "Unntak …">
+<!ENTITY  cookieExceptions.label        "Unntak…">
 <!ENTITY  cookieExceptions.accesskey    "U">
 
 <!ENTITY  showCookies.label             "Vis infokapslar …">

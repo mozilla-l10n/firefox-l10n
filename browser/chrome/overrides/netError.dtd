@@ -87,7 +87,7 @@ was trying to connect. -->
 <!ENTITY corruptedContentError.longDesc "<p>Sida du freistar å visa kan ikkje opnast fordi ein feil i dataoverføringa vart oppdaga.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om dette problemet.</li></ul>">
 
 
-<!ENTITY securityOverride.exceptionButtonLabel "Legg til eit unntak …">
+<!ENTITY securityOverride.exceptionButtonLabel "Legg til eit unntak…">
 
 <!ENTITY errorReporting.automatic2 "Rapporter feil som dette for å hjelpa Mozilla med å identifisera og blokkera skadelege nettstadar">
 <!ENTITY errorReporting.learnMore "Les meir …">
