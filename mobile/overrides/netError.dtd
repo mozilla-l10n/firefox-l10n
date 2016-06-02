@@ -93,7 +93,7 @@
 
 <!ENTITY securityOverride.linkText "Eller du kan laga ein unntaksregel…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg bort herifrå!">
-<!ENTITY securityOverride.exceptionButtonLabel "Legg til eit unntak …">
+<!ENTITY securityOverride.exceptionButtonLabel "Legg til eit unntak…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
