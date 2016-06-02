@@ -19,7 +19,7 @@
 <!ENTITY profilePrompt.accesskey        "S">
 <!ENTITY profileDirectoryExplanation.text   "Innstillingane dine og andre brukardata vart lagra i:">
 <!ENTITY profileDefaultName             "Standardbrukar">
-<!ENTITY button.choosefolder.label      "Vel mappe …">
+<!ENTITY button.choosefolder.label      "Vel mappe…">
 <!ENTITY button.choosefolder.accesskey  "V">
 <!ENTITY button.usedefault.label        "Bruk standardmappe">
 <!ENTITY button.usedefault.accesskey    "B">

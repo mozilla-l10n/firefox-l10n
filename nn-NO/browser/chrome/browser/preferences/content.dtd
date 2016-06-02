@@ -11,7 +11,7 @@
 <!ENTITY  notificationsPolicyLearnMore.label   "Les meir">
 <!ENTITY  notificationsPolicyDesc3.label       "Vel kva for nettstad som har løyve til å senda deg varsel">
 <!ENTITY  notificationsPolicyButton.accesskey  "V">
-<!ENTITY  notificationsPolicyButton.label      "Vel …">
+<!ENTITY  notificationsPolicyButton.label      "Vel…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ikkje forstyrr meg">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "k">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Ingen varsel vil visast før du startar &brandShortName; på nytt">
@@ -35,7 +35,7 @@
 
 <!ENTITY languages.label              "Språk">
 <!ENTITY chooseLanguage.label         "Vel føretrekt språk å visa nettsider i">
-<!ENTITY chooseButton.label           "Vel …">
+<!ENTITY chooseButton.label           "Vel…">
 <!ENTITY chooseButton.accesskey       "V">
 
 <!ENTITY translateWebPages.label      "Omset vevinnhald">
