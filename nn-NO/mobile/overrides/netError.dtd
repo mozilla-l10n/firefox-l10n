@@ -91,7 +91,7 @@
 <!ENTITY corruptedContentError.title "Øydelagt innhald">
 <!ENTITY corruptedContentError.longDesc "<p>Sida du prøvar å visa kan ikkje opnast på grunn av ein feil i dataoverføringa.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om problemet.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Eller du kan laga ein unntaksregel …">
+<!ENTITY securityOverride.linkText "Eller du kan laga ein unntaksregel…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg bort herifrå!">
 <!ENTITY securityOverride.exceptionButtonLabel "Legg til eit unntak …">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
