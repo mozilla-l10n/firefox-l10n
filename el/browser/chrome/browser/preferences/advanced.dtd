@@ -14,6 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "ζ">
 <!ENTITY blockAutoRefresh.label          "Προειδοποίηση όταν οι ιστοσελίδες προσπαθούν να ανακατευθύνουν ή να φορτώσουν ξανά την σελίδα">
 <!ENTITY blockAutoRefresh.accesskey      "δ">
+<!ENTITY useOnScreenKeyboard.label       "Εμφάνιση ενός πληκτρολογίου αφής όταν χρειάζεται">
+<!ENTITY useOnScreenKeyboard.accesskey   "π">
 
 <!ENTITY browsing.label                  "Περιήγηση">
 
@@ -34,6 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Μάθετε περισσότερα">
 
 <!ENTITY telemetryDesc.label             "Αποστολή των δεδομένων συμπεριφοράς, χρήσης, υλικού και προσαρμογών του περιηγητή σας στον &vendorShortName; για να  βοηθήσετε να κάνουμε τον &brandShortName; καλύτερο">
+<!ENTITY enableTelemetryData.label       "Να αποστέλλονται πρόσθετα δεδομένα (πχ. Τηλεμετρία)">
+<!ENTITY enableTelemetryData.accesskey   "λ">
 <!ENTITY telemetryLearnMore.label        "Μάθετε περισσότερα">
 
 <!ENTITY crashReporterDesc.label         "Ο &brandShortName; υποβάλλει αναφορές καταρρεύσεων στον &vendorShortName; για την βελτίωση της σταθερότητας και της ασφάλειας του περιηγητή σας">
