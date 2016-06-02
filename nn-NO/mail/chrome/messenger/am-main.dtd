@@ -25,7 +25,7 @@
 <!ENTITY signatureFile.label "Legg ved signaturen frå ei fil i staden (tekst, HTML, eller bilde):">
 <!ENTITY signatureFile.accesskey "L">
 <!ENTITY edit.label "Rediger …">
-<!ENTITY choose.label "Vel …">
+<!ENTITY choose.label "Vel…">
 <!ENTITY choose.accesskey "V">
 <!ENTITY editVCard.label "Rediger adressekort …">
 <!ENTITY editVCard.accesskey "e">

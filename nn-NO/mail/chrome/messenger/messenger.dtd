@@ -32,11 +32,11 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Nettpratkonto …">
 <!ENTITY newIMAccountCmd.accesskey "N">
-<!ENTITY newFeedAccountCmd.label "Nyhendekjelde-konto …">
+<!ENTITY newFeedAccountCmd.label "Nyhendekjelde-konto…">
 <!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "Nettpratkontakt …">
 <!ENTITY newIMContactCmd.accesskey "t">
-<!ENTITY openMessageFileCmd.label "Opna lagra melding …">
+<!ENTITY openMessageFileCmd.label "Opna lagra melding…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Lagra som">
 <!ENTITY saveAsMenu.accesskey "s">
@@ -55,7 +55,7 @@
 <!ENTITY getNextNMsgCmd.accesskey "H">
 <!ENTITY sendUnsentCmd.label "Send usende meldingar">
 <!ENTITY sendUnsentCmd.accesskey "u">
-<!ENTITY subscribeCmd.label "Meld inn …">
+<!ENTITY subscribeCmd.label "Meld inn…">
 <!ENTITY subscribeCmd.accesskey "M">
 <!ENTITY deleteFolder.label "Slett mappe">
 <!ENTITY deleteFolder.accesskey "S">
@@ -269,7 +269,7 @@
 
 <!ENTITY findMenu.label "Søk">
 <!ENTITY findMenu.accesskey "S">
-<!ENTITY findCmd.label "Søk i denne meldinga …">
+<!ENTITY findCmd.label "Søk i denne meldinga…">
 <!ENTITY findCmd.accesskey "m">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Søk igjen">
@@ -278,7 +278,7 @@
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Søk i meldingar …">
+<!ENTITY searchMailCmd.label "Søk i meldingar…">
 <!ENTITY searchMailCmd.accesskey "k">
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Søk i adresser …">
