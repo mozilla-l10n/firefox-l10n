@@ -233,7 +233,7 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Finn kalender…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "F" >
-<!ENTITY calendar.context.deleteserver2.label          "Slett kalender …">
+<!ENTITY calendar.context.deleteserver2.label          "Slett kalender…">
 <!ENTITY calendar.context.deleteserver2.accesskey      "S">
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
@@ -272,7 +272,7 @@
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "n">
 <!ENTITY calendar.context.convertmenu.event.label        "Hending …">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "H">
-<!ENTITY calendar.context.convertmenu.message.label      "Melding …">
+<!ENTITY calendar.context.convertmenu.message.label      "Melding…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "M">
 <!ENTITY calendar.context.convertmenu.task.label         "Oppgåve …">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "O">
