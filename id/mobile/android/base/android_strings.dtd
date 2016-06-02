@@ -176,7 +176,7 @@
 <!ENTITY pref_category_notifications "Notifikasi">
 <!ENTITY pref_category_notifications_summary "Fitur baru, pembaruan situs web">
 <!ENTITY pref_content_notifications "Pembaruan situs web">
-
+<!ENTITY pref_content_notifications_summary2 "Temukan konten baru dari situs yang didukung">
 <!ENTITY pref_developer_remotedebugging_usb "Pendebugan daring via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Pendebugan daring via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Pendebugan Wi-Fi mewajibkan pada peranti Anda telah terpasang aplikasi pembaca kode QR.">
@@ -235,6 +235,7 @@
 <!ENTITY pref_show_web_fonts "Tampilkan font web">
 
 
+<!ENTITY pref_tracking_protection_title2 "Perlindungan Pelacakan">
 <!ENTITY pref_tracking_protection_summary3 "Aktifkan di Penjelajahan Pribadi">
 <!ENTITY pref_donottrack_title "Jangan lacak">
 <!ENTITY pref_donottrack_summary "&brandShortName; akan memberi tahu situs bahwa Anda tidak ingin dilacak">
@@ -283,7 +284,7 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!ENTITY content_notification_action_settings "Pengaturan Notifikasi">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -766,5 +767,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_summary "Lihat apa yang baru pada versi ini">
 
 
+<!ENTITY helper_first_offline_bookmark_title "Baca luring">
 
-
+<!ENTITY helper_first_offline_bookmark_button "Ke Markah">
