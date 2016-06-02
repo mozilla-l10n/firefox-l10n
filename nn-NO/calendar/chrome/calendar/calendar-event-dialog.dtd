@@ -70,7 +70,7 @@
 <!ENTITY  event.menu.item.save.accesskey                  "a">
 <!ENTITY  event.menu.item.saveandclose.label              "Lagra og lat att">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "r">
-<!ENTITY  event.menu.item.delete.label                    "Slett …">
+<!ENTITY  event.menu.item.delete.label                    "Slett…">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
 <!ENTITY  event.menu.item.page.setup.label                "Utskriftsformat">
 <!ENTITY  event.menu.item.page.setup.accesskey            "k">
@@ -105,7 +105,7 @@
 
 <!ENTITY  event.menu.options.label                            "Innstillingar">
 <!ENTITY  event.menu.options.accesskey                        "I">
-<!ENTITY  event.menu.options.attendees.label                  "Inviter deltakarar …">
+<!ENTITY  event.menu.options.attendees.label                  "Inviter deltakarar…">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
 <!ENTITY  event.menu.options.timezone2.label                  "Vis tidssoner">
 <!ENTITY  event.menu.options.timezone2.accesskey              "s">
@@ -134,11 +134,11 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Ledig">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "L">
 
-<!ENTITY event.invite.attendees.label                     "Inviter deltakarar …">
+<!ENTITY event.invite.attendees.label                     "Inviter deltakarar…">
 <!ENTITY event.invite.attendees.accesskey                 "I">
-<!ENTITY event.email.attendees.label                      "Skriv e-post til alle deltakarar …">
+<!ENTITY event.email.attendees.label                      "Skriv e-post til alle deltakarar…">
 <!ENTITY event.email.attendees.accesskey                  "a">
-<!ENTITY event.email.tentative.attendees.label            "Skriv e-post til uvisse deltakarar …">
+<!ENTITY event.email.tentative.attendees.label            "Skriv e-post til uvisse deltakarar…">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
 <!ENTITY event.remove.attendees.label2                    "Fjern alle deltakarar">
 <!ENTITY event.remove.attendees.accesskey                 "F">
