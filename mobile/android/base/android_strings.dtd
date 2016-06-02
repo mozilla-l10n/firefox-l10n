@@ -142,7 +142,7 @@
 <!ENTITY pref_cookies_accept_all "Activadas">
 <!ENTITY pref_cookies_not_accept_foreign "Activadas, salvo las de terceras partes">
 <!ENTITY pref_cookies_disabled "Desactivadas">
-<!ENTITY pref_category_data_saver "Guardado de datos">
+<!ENTITY pref_category_data_saver "Ahorro de datos">
 <!ENTITY pref_category_media "Medios">
 <!ENTITY pref_category_developer_tools "Herramientas de desarrollo">
 <!ENTITY pref_tap_to_load_images_title2 "Mostrar imágenes">
