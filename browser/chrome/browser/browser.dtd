@@ -695,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "การเชื่อมต่อของคุณไปยังไซต์นี้ไม่เป็นส่วนตัว ข้อมูลที่คุณส่งไปบนเว็บไซต์คนอื่นสามารถดูได้ (เช่น รหัสผ่าน ข้อความ บัตรเครดิต)">
 <!ENTITY identity.description.insecureLoginForms "ข้อมูลการเข้าระบบที่คุณป้อนบนหน้านี้นั้นไม่ปลอดภัยและอาจตกอยู่ในอันตรายได้">
 <!ENTITY identity.description.weakCipher "การเชื่อมต่อของคุณสู่เว็บไซต์นี้ใช้การเข้ารหัสแบบอ่อนแอและไม่เป็นส่วนตัว">
-
+<!ENTITY identity.description.weakCipher2 "คนอื่นสามารถดูข้อมูลของคุณหรือแก้ไขพฤติกรรมของเว็บไซต์ได้">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย">
 <!ENTITY identity.description.passiveLoaded "การเชื่อมต่อของคุณไม่เป็นส่วนตัวและข้อมูลที่คุณแบ่งปันกับเว็บไซต์คนอื่นสามารถดูได้">
 <!ENTITY identity.description.passiveLoaded2 "เว็บไซต์นี้มีเนื้อหาที่ไม่ได้เข้ารหัส (เช่น รูปภาพ)">
@@ -725,7 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "แท็บที่ซิงค์">
 
 <!ENTITY syncedTabs.sidebar.label              "แท็บที่ซิงค์">
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "ลงชื่อเข้าใช้ใน Firefox จากอุปกรณ์อื่นของคุณเพื่อดูแท็บของอุปกรณ์เหล่านั้นที่นี่">
 <!ENTITY syncedTabs.sidebar.noclients.title    "ยังไม่มีแท็บที่ซิงค์…!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "ต้องการเห็นแท็บจากอุปกรณ์อื่นๆ ที่นี่ไหม?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ลงชื่อเข้าใช้เพื่อดูรายการแท็บจากอุปกรณ์อื่นๆ ของคุณ">
