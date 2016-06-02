@@ -16,7 +16,7 @@
 <!ENTITY sendMessage.accesskey "u">
 <!ENTITY workOffline.label "Arbeid fråkopla når nedlastinga/synkroniseringa er ferdig">
 <!ENTITY workOffline.accesskey "f">
-<!ENTITY selectButton.label "Vel …">
+<!ENTITY selectButton.label "Vel…">
 <!ENTITY selectButton.accesskey "V">
 <!ENTITY MsgSelectDesc.label "Vel e-postmappene og nyhendegruppene du ønskjer å bruka fråkopla.">
 <!ENTITY MsgSelectInd.label "Last ned">

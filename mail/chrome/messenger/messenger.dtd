@@ -581,9 +581,9 @@
 
 <!ENTITY phishingOptionIgnore.label "Ignorer åtvaring for denne meldinga">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionSettings.label "Rediger svindeloppdagings-innstillingar …">
+<!ENTITY phishingOptionSettings.label "Rediger svindeloppdagings-innstillingar…">
 <!ENTITY phishingOptionSettings.accesskey "d">
-<!ENTITY phishingOptionSettingsUnix.label "Rediger svindeloppdagings-innstillingar …">
+<!ENTITY phishingOptionSettingsUnix.label "Rediger svindeloppdagings-innstillingar…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "d">
 <!-- AppMenu Popup -->
 
@@ -595,9 +595,9 @@
 <!ENTITY appmenuSelectFlagged.label "Vel meldingar med stjerne">
 <!-- Tags Menu Popup -->
 
-<!ENTITY addNewTag.label "Nytt merkelapp-stikkord …">
+<!ENTITY addNewTag.label "Nytt merkelapp-stikkord…">
 <!ENTITY addNewTag.accesskey "N">
-<!ENTITY manageTags.label "Handsam merkelapp-stikkord …">
+<!ENTITY manageTags.label "Handsam merkelapp-stikkord…">
 <!ENTITY manageTags.accesskey "H">
 <!-- Folder Pane -->
 
@@ -633,9 +633,9 @@
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "r">
 <!ENTITY folderContextMarkMailFolderRead.label "Merk mappe som lesen">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">
-<!ENTITY folderContextSubscribe.label "Meld inn …">
+<!ENTITY folderContextSubscribe.label "Meld inn…">
 <!ENTITY folderContextSubscribe.accesskey "M">
-<!ENTITY folderContextSearchForMessages.label "Søk i meldingar …">
+<!ENTITY folderContextSearchForMessages.label "Søk i meldingar…">
 <!ENTITY folderContextSearchForMessages.accesskey "S">
 <!ENTITY folderContextProperties2.label "Innstillingar">
 <!ENTITY folderContextProperties2.accesskey "I">
@@ -649,7 +649,7 @@
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!-- Gloda Search Bar -->
 
-<!ENTITY glodaSearchBar.placeholder "Søk i meldingar …">
+<!ENTITY glodaSearchBar.placeholder "Søk i meldingar…">
 <!-- Quick Search Menu Bar -->
 
 <!ENTITY searchSubjectMenu.label "Emne">

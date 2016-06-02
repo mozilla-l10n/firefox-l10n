@@ -7,7 +7,7 @@
 
 <!ENTITY acceptRemoteContent.label "Tillat eksternt innhald i meldingar">
 <!ENTITY acceptRemoteContent.accesskey "T">
-<!ENTITY remoteContentExceptions.label "Unntak …">
+<!ENTITY remoteContentExceptions.label "Unntak…">
 <!ENTITY remoteContentExceptions.accesskey "U">
 <!ENTITY acceptRemoteContentInfo.label "Les meir om personvernutfordringane ved eksternt innhald">
 <!-- Web Content -->
@@ -28,7 +28,7 @@
 <!ENTITY expire.label "dei går ut på dato">
 <!ENTITY close.label "eg lukkar &brandShortName;">
 <!ENTITY askEachTime.label "spør meg kvar gong">
-<!ENTITY cookieExceptions.label "Unntak …">
+<!ENTITY cookieExceptions.label "Unntak…">
 <!ENTITY cookieExceptions.accesskey "U">
 <!ENTITY showCookies.label "Vis infokapslar …">
 <!ENTITY showCookies.accesskey "V">

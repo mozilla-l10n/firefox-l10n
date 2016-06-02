@@ -19,7 +19,7 @@
 <!ENTITY playSound1.accesskey              "S">
 <!ENTITY showAnimatedAlert.label          "Vis eit varsel">
 <!ENTITY showAnimatedAlert.accesskey      "V">
-<!ENTITY customizeMailAlert.label         "Avansert …">
+<!ENTITY customizeMailAlert.label         "Avansert…">
 <!ENTITY customizeMailAlert.accesskey     "A">
 
 <!ENTITY showTrayIcon.label               "Vis eit ikon i systemstatusfeltet">

@@ -33,7 +33,7 @@
 <!ENTITY nntpRemoveMsgBody.accesskey "F">
 <!ENTITY offlineSelectNntp.label "Vel nyhendegrupper som skal lesast fråkopla…">
 <!ENTITY offlineSelectNntp.accesskey "V">
-<!ENTITY offlineImapAdvancedOffline.label "Avansert …">
+<!ENTITY offlineImapAdvancedOffline.label "Avansert…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Meldingssynkronisering">
 <!ENTITY diskspaceGroupTitle.label "Diskplass">

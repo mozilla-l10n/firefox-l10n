@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY AdvancedEditButton.label "Avanserte innstillingar …">
+<!ENTITY AdvancedEditButton.label "Avanserte innstillingar…">
 <!ENTITY AdvancedEditButton.accessKey "A">
 <!ENTITY AdvancedEditButton.tooltip "Legg til eller endra HTML-attributtar, stilattributtar og JavaScript">
 <!ENTITY chooseFileButton.label "Vel fil…">
