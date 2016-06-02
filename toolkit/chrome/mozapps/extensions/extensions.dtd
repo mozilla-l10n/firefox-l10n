@@ -7,6 +7,7 @@
 <!ENTITY search.buttonlabel                   "Αναζήτηση">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Φόρτωση…">
 <!ENTITY listEmpty.installed.label            "Δεν έχετε εγκατεστημένα πρόσθετα αυτού του τύπου">
@@ -22,7 +23,10 @@
 <!ENTITY cmd.back.tooltip                     "Μετάβαση πίσω μια σελίδα">
 <!ENTITY cmd.forward.tooltip                  "Μετάβαση μπροστά μια σελίδα">
 
+<!ENTITY showUnsignedExtensions.button.label  "Δεν ήταν δυνατή η επαλήθευση ορισμένων πρόσθετων">
 <!ENTITY showAllExtensions.button.label       "Εμφάνιση όλων των επεκτάσεων">
+<!ENTITY debugAddons.label                    "Αποσφαλμάτωση πρόσθετων">
+<!ENTITY debugAddons.accesskey                "θ">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Όλα τα πρόσθετα έχουν απενεργοποιηθεί στην ασφαλή λειτουργία.">
@@ -222,7 +226,9 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+<!ENTITY experiment.info.label "Τι είναι αυτό; Η Τηλεμετρία μπορεί να εγκαθιστά και να τρέχει περιοδικά πειράματα.">
 <!ENTITY experiment.info.learnmore "Μάθετε περισσότερα">
+<!ENTITY experiment.info.changetelemetry "Ρυθμίσεις Τηλεμετρίας">
 
 <!ENTITY setting.learnmore "Μάθετε περισσότερα…">
 
@@ -230,8 +236,10 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "Τα ακόλουθα πρόσθετα δεν έχουν επαληθευτεί για χρήση στο &brandShortName;. Μπορείτε να ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "βρείτε υποκατάστατα">
 <!ENTITY disabledUnsigned.description.end " ή ζητήστε από τους προγραμματιστές να επαληθεύσουν την εφαρμογή.">
+<!ENTITY disabledUnsigned.learnMore "Μάθετε περισσότερα σχετικά με τις προσπάθειές μας να είστε ασφαλείς στο διαδίκτυο.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->

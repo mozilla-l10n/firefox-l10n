@@ -5,10 +5,13 @@
 <!ENTITY  pageInfoWindow.width  "530">
 <!ENTITY  pageInfoWindow.height "480">
 
+<!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Αντιγραφή">
 <!ENTITY  copy.accesskey        "γ">
+<!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Επιλογή όλων">
 <!ENTITY  selectall.accesskey   "λ">
+<!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Γενικά">
 <!ENTITY  generalTab.accesskey  "Γ">
@@ -74,9 +77,11 @@
 <!ENTITY  securityView.privacy.history                  "Έχω επισκεφθεί αυτή τη σελίδα ξανά σήμερα;">
 <!ENTITY  securityView.privacy.cookies                  "Αυτή η σελίδα τοποθετεί πληροφορίες (cookies) στον υπολογιστή μου;">
 <!ENTITY  securityView.privacy.viewCookies              "Προβολή Cookies">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "π">
 <!ENTITY  securityView.privacy.passwords                "Έχω αποθηκεύσει κωδικούς για αυτή τη σελίδα;">
 <!ENTITY  securityView.privacy.viewPasswords            "Προβολή κωδικών">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "λ">
 
 <!ENTITY  securityView.technical.header                 "Τεχνικές λεπτομέρειες">
 
+<!ENTITY  helpButton.label                              "Βοήθεια">
