@@ -12,11 +12,11 @@
 <!ENTITY alwaysEncryptMessage.label "Påkravd (alle mottakarar må ha sertifikat)">
 <!ENTITY alwaysEncryptMessage.accesskey "P">
 <!ENTITY encryptionCert.message "Bruk dette sertifikatet til å kryptera og dekryptera meldingar sendt til deg:">
-<!ENTITY digitalSign.certificate.button "Vel …">
+<!ENTITY digitalSign.certificate.button "Vel…">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Tøm">
 <!ENTITY digitalSign.certificate_clear.accesskey "T">
-<!ENTITY encryption.certificate.button "Vel …">
+<!ENTITY encryption.certificate.button "Vel…">
 <!ENTITY encryption.certificate.accesskey "e">
 <!ENTITY encryption.certificate_clear.button "Tøm">
 <!ENTITY encryption.certificate_clear.accesskey "ø">

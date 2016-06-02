@@ -20,7 +20,7 @@
 <!ENTITY findReplaceCmd.label "Finn og byt ut …">
 <!ENTITY enableInlineSpellChecker.label "Stavekontroll medan du skriv">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Kontroller staving">
+<!ENTITY checkSpellingCmd2.label "Kontroller staving…">
 <!ENTITY checkSpellingCmd2.accesskey "K">
 <!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
@@ -36,7 +36,7 @@
 <!ENTITY insertImageCmd.accesskey "B">
 <!ENTITY insertHLineCmd.label "Horisontal linje">
 <!ENTITY insertHLineCmd.accesskey "o">
-<!ENTITY insertTableCmd.label "Tabell …">
+<!ENTITY insertTableCmd.label "Tabell…">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML …">
 <!ENTITY insertHTMLCmd.accesskey "H">
@@ -136,7 +136,7 @@
 
 <!ENTITY formatFontColor.label "Tekstfarge …">
 <!ENTITY formatFontColor.accesskey "f">
-<!ENTITY tableOrCellColor.label "Bakgrunnsfarge for tabell eller celle …">
+<!ENTITY tableOrCellColor.label "Bakgrunnsfarge for tabell eller celle…">
 <!ENTITY tableOrCellColor.accesskey "B">
 
 <!ENTITY formatRemoveStyles.key "y">
@@ -281,7 +281,7 @@
 <!ENTITY tableSplitCell.accesskey "D">
 <!ENTITY convertToTable.label "Lag tabell av merkt område">
 <!ENTITY convertToTable.accesskey "L">
-<!ENTITY tableProperties.label "Tabelleigenskapar …">
+<!ENTITY tableProperties.label "Tabelleigenskapar…">
 <!ENTITY tableProperties.accesskey "T">
 <!-- Toolbar-only items -->
 

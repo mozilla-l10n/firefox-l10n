@@ -5,9 +5,9 @@
 <!ENTITY AdvancedEditButton.label "Avanserte innstillingar …">
 <!ENTITY AdvancedEditButton.accessKey "A">
 <!ENTITY AdvancedEditButton.tooltip "Legg til eller endra HTML-attributtar, stilattributtar og JavaScript">
-<!ENTITY chooseFileButton.label "Vel fil …">
+<!ENTITY chooseFileButton.label "Vel fil…">
 <!ENTITY chooseFileButton.accessKey "V">
-<!ENTITY chooseFileLinkButton.label "Vel fil …">
+<!ENTITY chooseFileLinkButton.label "Vel fil…">
 <!ENTITY chooseFileLinkButton.accessKey "e">
 <!ENTITY makeUrlRelative.label "URL-en er relativ til sideadressa">
 <!ENTITY makeUrlRelative.accessKey "r">
