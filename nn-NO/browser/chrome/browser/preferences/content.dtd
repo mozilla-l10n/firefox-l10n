@@ -16,7 +16,7 @@
 <!ENTITY  notificationsDoNotDisturb.accesskey  "k">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Ingen varsel vil visast før du startar &brandShortName; på nytt">
 
-<!ENTITY  popupExceptions.label       "Unntak …">
+<!ENTITY  popupExceptions.label       "Unntak…">
 <!ENTITY  popupExceptions.accesskey   "U">
 
 <!ENTITY  fontsAndColors.label        "Skrifttypar og fargar">
@@ -26,10 +26,10 @@
 <!ENTITY  defaultSize.label           "Storleik:">
 <!ENTITY  defaultSize.accesskey       "S">
 
-<!ENTITY  advancedFonts.label         "Avansert …">
+<!ENTITY  advancedFonts.label         "Avansert…">
 <!ENTITY  advancedFonts.accesskey     "A">
 
-<!ENTITY  colors.label                "Fargar …">
+<!ENTITY  colors.label                "Fargar…">
 <!ENTITY  colors.accesskey            "F">
 
 
@@ -40,7 +40,7 @@
 
 <!ENTITY translateWebPages.label      "Omset vevinnhald">
 <!ENTITY translateWebPages.accesskey  "t">
-<!ENTITY translateExceptions.label    "Unntak …">
+<!ENTITY translateExceptions.label    "Unntak…">
 <!ENTITY translateExceptions.accesskey "n">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
