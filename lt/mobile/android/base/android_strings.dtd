@@ -24,6 +24,7 @@
 
 <!ENTITY  onboard_start_restricted1 "Būkite saugūs su šia supaprastinta „&brandShortName;“ versija.">
 
+<!ENTITY  reading_list_migration_title "Skaitinių sąrašas prijungtas">
 <!ENTITY  reading_list_migration_subtext "Jūsų skaitinių sąrašas bus pridėtas į jūsų adresyną">
 <!ENTITY  reading_list_migration_goto_bookmarks "Eiti į adresyną">
 <!ENTITY  reading_list_migration_bookmarks_hidden "Jūsų adresyno polangis paslėptas">
