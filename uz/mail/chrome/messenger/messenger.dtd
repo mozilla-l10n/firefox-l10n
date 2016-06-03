@@ -269,13 +269,13 @@
 
 <!ENTITY findMenu.label "Topish">
 <!ENTITY findMenu.accesskey "T">
-
-
-
-
-
-
-
+<!ENTITY findCmd.label "Xabar ichidan topish…">
+<!ENTITY findCmd.accesskey "t">
+<!ENTITY findCmd.key "f">
+<!ENTITY findAgainCmd.label "Yana topish">
+<!ENTITY findAgainCmd.accesskey "p">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
 
 
 
