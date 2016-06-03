@@ -6,10 +6,10 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.errorTitle     "Bu sharmandali holat.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; oynalaringiz va ichki oynalaringizni tiklayotganda muammo yuz berdi. Bunga, odatda, so‘nggi ochilgan vebsahifalar sabab bo‘ladi.">
+<!ENTITY restorepage.errorTitle     "Kechirasiz.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; oyna va ichki oynalaringizni tiklayotganda muammo yuz berdi. Bunga, odatda, so‘nggi ochilgan sahifalar sabab bo‘ladi.">
 <!ENTITY restorepage.tryThis        "Sinab ko‘rishingiz mumkin:">
-<!ENTITY restorepage.restoreSome    "Bitta yoki bir nechta ichki oynalarni o‘chirish muammoga sabab bo‘lishi mumkin">
+<!ENTITY restorepage.restoreSome    "Bir yoki bir nechta ichki oynani o‘chirish muammoga sabab bo‘lishi mumkin">
 <!ENTITY restorepage.startNew       "Butunlay yangi seansni boshlash">
 
 <!ENTITY restorepage.tryagainButton "Tiklash">
@@ -23,10 +23,6 @@
 <!ENTITY restorepage.windowLabel    "&#037;S oyna">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
-
-<!ENTITY welcomeback2.restoreButton  "Qani, ketdik!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Muvaffaqiyatli!">
