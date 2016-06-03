@@ -9,8 +9,8 @@
 <!ENTITY directoryHostname.accesskey       "o">
 <!ENTITY directoryBaseDN.label             "DN bază: ">
 <!ENTITY directoryBaseDN.accesskey         "b">
-<!ENTITY findButton.label                  "Caută">
-<!ENTITY findButton.accesskey              "C">
+<!ENTITY findButton.label                  "Găsește">
+<!ENTITY findButton.accesskey              "G">
 <!ENTITY directorySecure.label             "Utilizează conexiune securizată (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "Bind DN: ">

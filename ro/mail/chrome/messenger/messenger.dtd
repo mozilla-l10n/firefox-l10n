@@ -267,13 +267,13 @@
 <!ENTITY getAllNewMessagesCmd.key "Y">
 <!-- Search Menu -->
 
-<!ENTITY findMenu.label "Caută">
-<!ENTITY findMenu.accesskey "C">
-<!ENTITY findCmd.label "Caută în acest mesaj…">
-<!ENTITY findCmd.accesskey "C">
+<!ENTITY findMenu.label "Găsește">
+<!ENTITY findMenu.accesskey "G">
+<!ENTITY findCmd.label "Găsește în acest mesaj…">
+<!ENTITY findCmd.accesskey "G">
 <!ENTITY findCmd.key "F">
-<!ENTITY findAgainCmd.label "Caută din nou">
-<!ENTITY findAgainCmd.accesskey "d">
+<!ENTITY findAgainCmd.label "Găsește din nou">
+<!ENTITY findAgainCmd.accesskey "G">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "G">

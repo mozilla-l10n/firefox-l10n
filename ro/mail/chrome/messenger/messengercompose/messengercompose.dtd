@@ -88,17 +88,17 @@
 <!ENTITY selectAllCmd.label "Selectează tot">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findBarCmd.label "Caută…">
-<!ENTITY findBarCmd.accesskey "C">
+<!ENTITY findBarCmd.label "Găsește…">
+<!ENTITY findBarCmd.accesskey "G">
 <!ENTITY findBarCmd.key "F">
-<!ENTITY findReplaceCmd.label "Caută și înlocuiește…">
-<!ENTITY findReplaceCmd.accesskey "C">
+<!ENTITY findReplaceCmd.label "Găsește și înlocuiește…">
+<!ENTITY findReplaceCmd.accesskey "l">
 <!ENTITY findReplaceCmd.key "s">
-<!ENTITY findAgainCmd.label "Caută din nou">
-<!ENTITY findAgainCmd.accesskey "d">
+<!ENTITY findAgainCmd.label "Găsește din nou">
+<!ENTITY findAgainCmd.accesskey "G">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Caută înapoi">
+<!ENTITY findPrevCmd.label "Găsește anterior">
 <!ENTITY findPrevCmd.accesskey "n">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">

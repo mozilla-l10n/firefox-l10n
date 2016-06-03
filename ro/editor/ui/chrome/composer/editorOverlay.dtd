@@ -16,8 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Lipește ca citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Caută…">
-<!ENTITY findReplaceCmd.label "Caută și înlocuiește…">
+<!ENTITY findBarCmd.label "Găsește…">
+<!ENTITY findReplaceCmd.label "Găsește și înlocuiește…">
 <!ENTITY enableInlineSpellChecker.label "Corectare ortografică în timpul tastării">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY checkSpellingCmd2.label "Verifică ortografia">
@@ -292,8 +292,8 @@
 <!ENTITY pasteToolbarCmd.tooltip "Inserează">
 <!ENTITY printToolbarCmd.label "Tipărește">
 <!ENTITY printToolbarCmd.tooltip "Tipărește această pagină">
-<!ENTITY findToolbarCmd.label "Caută">
-<!ENTITY findToolbarCmd.tooltip "Caută text în pagină">
+<!ENTITY findToolbarCmd.label "Găsește">
+<!ENTITY findToolbarCmd.tooltip "Găsește text în pagină">
 <!ENTITY spellToolbarCmd.label "Ortografie">
 <!ENTITY spellToolbarCmd.tooltip "Verifică ortografia în zona selectată sau în întreaga pagină">
 <!ENTITY imageToolbarCmd.label "Imagine">
