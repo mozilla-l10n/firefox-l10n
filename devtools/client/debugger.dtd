@@ -130,7 +130,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
-<!ENTITY debuggerUI.searchToken           "Căutați">
+<!ENTITY debuggerUI.searchToken           "Găsește">
 <!ENTITY debuggerUI.searchToken.key       "c">
 <!ENTITY debuggerUI.searchToken.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears

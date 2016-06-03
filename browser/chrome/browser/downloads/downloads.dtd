@@ -123,4 +123,4 @@
      results in the Downloads view.
      -->
 
-<!ENTITY downloadsListNoMatch.label       "Nu am putut găsi nicio descărcare.">
+<!ENTITY downloadsListNoMatch.label       "Nu s-a putut găsi nicio descărcare care se potrivește.">

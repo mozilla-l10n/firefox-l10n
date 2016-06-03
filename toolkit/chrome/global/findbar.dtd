@@ -5,8 +5,8 @@
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
 
-<!ENTITY next.tooltip "Caută apariția următoare a textului">
-<!ENTITY previous.tooltip "Caută apariția precedentă a textului">
+<!ENTITY next.tooltip "Găsește apariția următoare a textului">
+<!ENTITY previous.tooltip "Găsește apariția anterioară a textului">
 <!ENTITY findCloseButton.tooltip "Închide bara de căutare">
 <!ENTITY highlightAll.label "Evidențiază toate aparițiile">
 <!ENTITY highlightAll.accesskey "a">
