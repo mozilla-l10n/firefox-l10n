@@ -4,7 +4,7 @@
 <!-- extracted from EdReplace.xul -->
 
 
-<!ENTITY replaceDialog.title "Căutare și înlocuire">
+<!ENTITY replaceDialog.title "Găsește și înlocuiește">
 <!ENTITY findField.label "Caută text:">
 <!ENTITY findField.accesskey "a">
 <!ENTITY replaceField.label "Înlocuiește cu:">
@@ -15,12 +15,12 @@
 <!ENTITY wrapCheckbox.accesskey "p">
 <!ENTITY backwardsCheckbox.label "Caută înapoi">
 <!ENTITY backwardsCheckbox.accesskey "a">
-<!ENTITY findNextButton.label "Caută următorul">
-<!ENTITY findNextButton.accesskey "C">
+<!ENTITY findNextButton.label "Găsește următorul">
+<!ENTITY findNextButton.accesskey "G">
 <!ENTITY replaceButton.label "Înlocuiește">
 <!ENTITY replaceButton.accesskey "o">
-<!ENTITY replaceAndFindButton.label "Înlocuiește și caută">
-<!ENTITY replaceAndFindButton.accesskey "i">
+<!ENTITY replaceAndFindButton.label "Înlocuiește și găsește">
+<!ENTITY replaceAndFindButton.accesskey "g">
 <!ENTITY replaceAllButton.label "Înlocuiește toate">
 <!ENTITY replaceAllButton.accesskey "t">
 <!ENTITY closeButton.label "Închide">
