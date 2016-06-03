@@ -33,8 +33,8 @@
 <!ENTITY calendar.menu.customize.label          "Personalizează…">
 <!ENTITY calendar.menu.customize.accesskey      "P">
 
-<!ENTITY showUnifinderCmd.label                 "Caută evenimente">
-<!ENTITY showUnifinderCmd.accesskey             "C">
+<!ENTITY showUnifinderCmd.label                 "Găsește evenimente">
+<!ENTITY showUnifinderCmd.accesskey             "G">
 <!ENTITY showUnifinderCmd.tooltip               "Comută panoul pentru găsirea evenimentelor">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Afișează sarcinile în calendar">
