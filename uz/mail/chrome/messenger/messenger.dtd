@@ -257,14 +257,18 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Asosiy format">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "A">
 
+<!ENTITY viewAttachmentsInlineCmd.label "Biriktirilgan fayllarni matn ichida ko‘rsatish">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "B">
 
-
-
-
-
-
+<!ENTITY pageSourceCmd.label "Xabar manbasi">
+<!ENTITY pageSourceCmd.accesskey "m">
+<!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!-- Search Menu -->
 
+<!ENTITY findMenu.label "Topish">
+<!ENTITY findMenu.accesskey "T">
 
 
 

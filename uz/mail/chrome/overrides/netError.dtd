@@ -22,7 +22,8 @@
 <!ENTITY fileNotFound.title "Fayl topilmadi">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Fayl nomlarini katta va kichik harflar bilan yozishda va shu kabi boshqa xatolarga ehtiyot bo‘ling.</li> <li>Faylning boshqa joyga ko‘chirilgan, nomi o‘zgartirilgan yoki o‘chirilgan bo‘lishi mumkin.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Fayldan foydalanishga ruxsat berilmadi">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>O‘chirib tashlangan, ko‘chirilgan yoki foydalanishga ruxsat berilmagan bo‘lishi mumkin.</li> </ul>">
 
 <!ENTITY generic.title "Obbo.">
 <!ENTITY generic.longDesc "<p>&brandShortName; dasturi ba’zi sabablarga ko‘ra ushbu sahifani yuklay olmaydi.</p>">
