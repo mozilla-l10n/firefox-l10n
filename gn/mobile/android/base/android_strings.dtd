@@ -388,9 +388,10 @@ size. -->
 
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Embohasa tembiapokue rehegua, jepuru, hardware mba\u0027ete ha mba\u0027ekuaarã ne kundahára rehegua &vendorShortName; ndive oipytyvõ hag̃ua &brandShortName;-pe oikoporãvévo">
-
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; oguerahauka marandu jejavy rehegua oipytyvõ hag̃ua &vendorShortName;-pe omoheñóivo peteĩ kundahára oikoporãva">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Marandu jejavyguáva">
 
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
