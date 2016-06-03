@@ -14,7 +14,7 @@
 <!ENTITY listEmpty.availableUpdates.label     "Nicio actualizare găsită">
 <!ENTITY listEmpty.recentUpdates.label        "Nu ați actualizat recent niciun supliment">
 <!ENTITY listEmpty.findUpdates.label          "Caută actualizări">
-<!ENTITY listEmpty.search.label               "Nu s-a putut găsi vreun supliment potrivit">
+<!ENTITY listEmpty.search.label               "Nu s-a putut găsi vreun supliment care se potrivește">
 <!ENTITY listEmpty.button.label               "Află mai multe despre suplimente">
 <!ENTITY installAddonFromFile.label           "Instalează supliment dintr-un fișier…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -79,8 +79,8 @@
 
 <!ENTITY cmd.showDetails.label                "Arată mai multe informații">
 <!ENTITY cmd.showDetails.accesskey            "A">
-<!ENTITY cmd.findUpdates.label                "Caută actualizări">
-<!ENTITY cmd.findUpdates.accesskey            "C">
+<!ENTITY cmd.findUpdates.label                "Găsește actualizări">
+<!ENTITY cmd.findUpdates.accesskey            "G">
 <!ENTITY cmd.preferencesWin.label             "Opțiuni">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferințe">
