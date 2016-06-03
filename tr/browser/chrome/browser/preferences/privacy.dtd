@@ -64,11 +64,11 @@
 <!ENTITY  showCookies.label             "Çerezleri göster…">
 <!ENTITY  showCookies.accesskey         "ö">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; uygulaması:">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; uygulaması">
 <!ENTITY  historyHeader.pre.accesskey      "u">
-<!ENTITY  historyHeader.remember.label     "Geçmişi hatırlasın">
-<!ENTITY  historyHeader.dontremember.label "Geçmişi asla hatırlamasın">
-<!ENTITY  historyHeader.custom.label       "Geçmiş için özel ayarları kullansın">
+<!ENTITY  historyHeader.remember.label     "geçmişi hatırlasın">
+<!ENTITY  historyHeader.dontremember.label "geçmişi asla hatırlamasın">
+<!ENTITY  historyHeader.custom.label       "geçmiş için özel ayarları kullansın">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; tarama, indirme, form ve arama geçmişlerinizi hatırlayacak; ziyaret ettiğiniz web sitelerinin çerezlerini saklayacak.">
