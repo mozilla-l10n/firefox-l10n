@@ -373,7 +373,7 @@ size. -->
 <!ENTITY datareporting_notification_action "Eiporavo mba\u0027épa emoherakuãta">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Eiporavo mba\u0027e marandúpa emoherakuãta">
-
+<!ENTITY datareporting_notification_summary "Eipuruporã hag̃ua &brandShortName; omondo ijehegui marandu &vendorShortName;-pe.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -382,6 +382,8 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "Mbaéichapa oĩhína &brandShortName;">
 
 
 <!ENTITY datareporting_telemetry_title "Telemetry">
