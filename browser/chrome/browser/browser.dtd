@@ -106,7 +106,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "แสดงแท็บทั้งหมด">
 <!ENTITY showAllTabsCmd.accesskey "ม">
 
-<!ENTITY fxaSignIn.label "เข้าใช้ &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "ลงชื่อเข้าใช้ &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "เปิดการตั้งค่า &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "เชื่อมต่อ &syncBrand.shortName.label; ใหม่">
 <!ENTITY fxaUnverified.label "ยืนยันความถูกต้องของบัญชี">
@@ -351,8 +351,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "ยังไม่มีแท็บที่ซิงค์…!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "การตั้งค่า Sync">
-
-<!ENTITY appMenuRemoteTabs.signin.label "เข้าสู่ระบบ Sync">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "ลงชื่อเข้าใช้เพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
+<!ENTITY appMenuRemoteTabs.signin.label "ลงชื่อเข้าใช้ Sync">
 
 
 <!ENTITY customizeMenu.addToToolbar.label "เพิ่มไปยังแถบเครื่องมือ">
@@ -725,10 +725,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "แท็บที่ซิงค์">
 
 <!ENTITY syncedTabs.sidebar.label              "แท็บที่ซิงค์">
-<!ENTITY syncedTabs.sidebar.noclients.label    "ลงชื่อเข้าใช้ใน Firefox จากอุปกรณ์อื่นของคุณเพื่อดูแท็บของอุปกรณ์เหล่านั้นที่นี่">
+<!ENTITY syncedTabs.sidebar.noclients.label    "ลงชื่อเข้าใช้ Firefox จากอุปกรณ์อื่น ๆ ของคุณเพื่อดูแท็บของอุปกรณ์เหล่านั้นที่นี่">
 <!ENTITY syncedTabs.sidebar.noclients.title    "ยังไม่มีแท็บที่ซิงค์…!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "ต้องการเห็นแท็บจากอุปกรณ์อื่นๆ ที่นี่ไหม?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "ลงชื่อเข้าใช้เพื่อดูรายการแท็บจากอุปกรณ์อื่นๆ ของคุณ">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "ลงชื่อเข้าใช้เพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 <!ENTITY syncedTabs.sidebar.notabs.label       "ไม่มีแท็บที่เปิดอยู่">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "เปิดการตั้งค่า &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown

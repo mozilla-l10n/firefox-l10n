@@ -5,7 +5,7 @@
 <!ENTITY aboutAccounts.welcome "ยินดีต้อนรับสู่ &syncBrand.shortName.label;">
 <!ENTITY aboutAccounts.connected "เชื่อมต่อบัญชีผู้ใช้แล้ว">
 
-<!ENTITY aboutAccountsConfig.description "เข้าสู่ระบบเพื่อซิงค์แท็บ ที่คั่นหน้า รหัสผ่าน และอื่น ๆ ของคุณ">
+<!ENTITY aboutAccountsConfig.description "ลงชื่อเข้าใช้เพื่อซิงค์แท็บ ที่คั่นหน้า รหัสผ่าน และอื่น ๆ ของคุณ">
 <!ENTITY aboutAccountsConfig.startButton.label "เริ่มต้นใช้งาน">
 <!ENTITY aboutAccountsConfig.useOldSync.label "กำลังใช้งาน Sync รุ่นเก่ากว่า?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "การตั้งค่า Sync">
