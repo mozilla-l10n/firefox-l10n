@@ -68,7 +68,7 @@
 <!ENTITY addDevice.dialog.connected.label   "อุปกรณ์เชื่อมต่อแล้ว">
 <!-- Existing Account Page 2: Manual Login -->
 
-<!ENTITY setup.signInPage.title.label "เข้าสู่ระบบ">
+<!ENTITY setup.signInPage.title.label "ลงชื่อเข้าใช้">
 <!ENTITY existingRecoveryKey.description "คุณสามารถคัดลอกกุญแจกู้ข้อมูลโดยไปที่ตัวเลือก &syncBrand.shortName.label; บนอุปกรณ์อื่นของคุณ และเลือก  &quot;กุญแจกู้ข้อมูลของฉัน&quot; ภายใต้ &quot;จัดการบัญชี&quot;">
 <!ENTITY verifying.label              "กำลังตรวจสอบ…">
 <!ENTITY resetPassword.label          "ล้างรหัสผ่าน">
