@@ -21,14 +21,9 @@
 <!ENTITY unsupported.label "Twój program &brandShortName; jest nieaktualny, ale najnowsza wersja nie jest obsługiwana na Twoim systemie. Proszę uaktualnić system i spróbować ponownie. To powiadomienie nie zostanie ponownie wyświetlone, ale możesz ">
 <!ENTITY  unsupportedLink.label           "dowiedzieć się więcej.">
 
-<!ENTITY incompatibleCheck.title "Sprawdzanie zgodności dodatków">
-<!ENTITY  incompatibleCheck.label         "Szukanie nowszych wersji zainstalowanych dodatków…">
-
 <!ENTITY  clickHere.label                 "Wyświetl więcej informacji o tej aktualizacji…">
 
 <!ENTITY  evangelism.desc                 "Aktualizacja programu &brandShortName; jest wysoce zalecana.">
-
-<!ENTITY incompatibleList.title "Znaleziono niezgodne dodatki">
 
 <!ENTITY  downloadPage.title              "Pobieranie programu &brandShortName;">
 
