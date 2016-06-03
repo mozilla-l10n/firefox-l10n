@@ -448,7 +448,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Deschide în filă nouă">
 <!ENTITY contextmenu_open_private_tab "Deschide în filă privată">
 <!ENTITY contextmenu_remove "Elimină">
-<!ENTITY contextmenu_add_to_launcher "Adaugă la ecran principal">
+<!ENTITY contextmenu_add_to_launcher "Adaugă la ecranul principal">
 <!ENTITY contextmenu_share "Împărtășește">
 <!ENTITY contextmenu_pasteandgo "Lipește și accesează">
 <!ENTITY contextmenu_paste "Lipește">
