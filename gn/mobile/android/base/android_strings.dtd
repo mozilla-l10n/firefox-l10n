@@ -279,6 +279,8 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY tab_queue_notification_settings "Eikévo \&quot;heta joajuhápe\&quot;, ikatúpa, embojuruja \u0027Moha\u0027ãnga ambue tembipuru ári\u0027 ñemoneĩ &brandShortName; pe g̃uarã">
+
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
@@ -291,23 +293,24 @@
      documentation for DateFormat.getMediumDateFormat(). -->
 <!ENTITY content_notification_updated_on "Hekopyahúva &formatS;-pe">
 
+<!ENTITY pref_char_encoding "Tai\u0027aty mbopapapy hechauka">
 <!ENTITY pref_char_encoding_on "Poravorã jehechauka">
 <!ENTITY pref_char_encoding_off "Ani ehechauka menu">
 <!ENTITY pref_clear_private_data2 "Mba\u0027ekuaarã ñemiguáva ñemopotĩ">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Hesakã ko\u0027ág̃a">
-
-
-
+<!ENTITY pref_clear_on_exit_title3 "Embogue mba\u0027ekuaarã ñemi ñesẽgua">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; omboguéta ijehegui mba\u0027ekuaarã embosa\u0027ývo \u0022Quit\u0022 poravorãite guive">
+<!ENTITY pref_clear_on_exit_dialog_title "Eiporavo mba\u0027ekuaarã embogueséva">
 <!ENTITY pref_plugins "Mboguejyrã\u0027i">
 <!ENTITY pref_plugins_enabled "Myendypyre">
-
+<!ENTITY pref_plugins_tap_to_play2 "Pokoha emboheta hag̃ua">
 <!ENTITY pref_plugins_disabled "Ojepuruve\u0027ỹva">
 <!ENTITY pref_text_size "Moñe\u0027ẽrã tuichakue">
-
-
-
+<!ENTITY pref_restore_tabs "Tendayke mbojevy">
+<!ENTITY pref_restore_always "Mbojevy tapiaite">
+<!ENTITY pref_restore_quit "Ani embojevy eheja rire &brandShortName;">
 <!ENTITY pref_font_size_tiny "Michĩva">
 <!ENTITY pref_font_size_small "Michĩ">
 <!ENTITY pref_font_size_medium "Mbytegua">
@@ -323,10 +326,11 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-
-
-
-
+<!ENTITY pref_media_autoplay_enabled "Emoneĩ mboheta jeheguíva">
+<!ENTITY pref_media_autoplay_enabled_summary "Ñanduti renda ñangarekoha ikatu emboheta ijehegui ta\u0027ãngamýi ha ambue mba\u0027ekuaarã ñandutiguáva ">
+<!ENTITY pref_zoom_force_enabled "Emyendy tapiaite zoom">
+<!ENTITY pref_zoom_force_enabled_summary "Eipe\u0027a mbarete oimeraẽva kuatiarogue ñembotuicha">
+<!ENTITY pref_voice_input "Ñe\u0027ẽpu jeikeha">
 
 
 
@@ -664,7 +668,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!ENTITY restrictable_feature_block_list "jejoko rysýi">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
