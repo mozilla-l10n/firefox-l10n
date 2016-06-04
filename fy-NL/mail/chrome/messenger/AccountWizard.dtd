@@ -38,39 +38,39 @@
 
 <!-- Entities for Incoming Server page -->
 
-<!ENTITY incomingTitle.label "Ynkommende tsjinnerynformaasje">
-<!ENTITY incomingServerTypeDesc.label "Selektearje it type fan jo ynkommende e-mailtsjinner.">
+<!ENTITY incomingTitle.label "Ynkommende serverynformaasje">
+<!ENTITY incomingServerTypeDesc.label "Selektearje it type fan jo ynkommende e-mailserver.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Lit berjochten op tsjinner">
+<!ENTITY leaveMsgsOnSrvr.label "Lit berjochten op server">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
 <!ENTITY portNum.label "Poarte:">
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Standert:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Fier de namme yn fan jo ynkommende tsjinner (bygelyks &quot;mail.example.net&quot;).">
-<!ENTITY incomingServer.label "Ynkommende tsjinner:">
+<!ENTITY incomingServer.description "Fier de namme yn fan jo ynkommende server (bygelyks &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.label "Ynkommende server:">
 <!ENTITY incomingServer.accesskey "o">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "Fier de ynkommende brûkersnamme yn dy't jo fan jo e-mailprovider krigen hawwe (bygelyks &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Brûkersnamme:">
 <!ENTITY incomingUsername.accesskey "B">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Fier de namme yn fan jo nijstsjinner (NNTP) (bygelyks “news.example.net”).">
-<!ENTITY newsServerLabel.label "Nijsgroeptsjinner:">
+<!ENTITY newsServerNameDesc.label "Fier de namme yn fan jo nijsserver (NNTP) (bygelyks “news.example.net”).">
+<!ENTITY newsServerLabel.label "Nijsgroepserver:">
 <!ENTITY newsServerLabel.accesskey "N">
 
 <!-- Entities for Outgoing Server page -->
 
-<!ENTITY outgoingTitle.label "Utgeande tsjinnerynformaasje">
+<!ENTITY outgoingTitle.label "Utgeande serverynformaasje">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Fier de namme yn fan jo útgeande tsjinner (SMTP) (bygelyks &quot;smtp.example.net&quot;).">
-<!ENTITY outgoingServer.label "Utgeande tsjinner:">
+<!ENTITY outgoingServer.description "Fier de namme yn fan jo útgeande server (SMTP) (bygelyks &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Utgeande server:">
 <!ENTITY outgoingServer.accesskey "d">
 <!ENTITY outgoingUsername.description "Fier de útgeande brûkersnamme yn dy't jo fan jo e-mailprovider krigen hawwe (dit is meastentiids itselde as jo ynkommende brûkersnamme).">
 <!ENTITY outgoingUsername.label "Utgeande brûkersnamme:">
@@ -83,12 +83,12 @@
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-<!ENTITY modifyOutgoing.suffix "Jo kinne de útgeande tsjinners wizigje yn de accountynstellingen.">
+<!ENTITY modifyOutgoing.suffix "Jo kinne de útgeande servers wizigje yn de accountynstellingen.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Jo besteande útgeande (SMTP-)tsjinner, “">
+<!ENTITY haveSmtp1.prefix "Jo besteande útgeande (SMTP-)server, “">
 <!ENTITY haveSmtp1.suffix3 "&quot;, sil brûkt wurde.">
 
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
@@ -101,7 +101,7 @@
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Jo útgeande (SMTP-)tsjinner, &quot;">
+<!ENTITY haveSmtp3.prefix "Jo útgeande (SMTP-)server, &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, sil brûkt wurde.">
 
 <!-- Entities for Account name page -->
@@ -117,9 +117,9 @@
 <!ENTITY completionTitle.label "Lokwinske!">
 <!ENTITY completionText.label "Kontrolearje oft de ynformaasje hjirûnder goed is.">
 <!ENTITY serverTypePrefix.label "Ynkommende tsinnerertype:">
-<!ENTITY serverNamePrefix.label "Ynkommende tsjinnernamme:">
-<!ENTITY smtpServerNamePrefix.label "Utgeande tsjinnernamme (SMTP):">
-<!ENTITY newsServerNamePrefix.label "Nijstsjinnernamme (NNTP):">
+<!ENTITY serverNamePrefix.label "Ynkommende servernamme:">
+<!ENTITY smtpServerNamePrefix.label "Utgeande servernamme (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Nijsservernamme (NNTP):">
 <!ENTITY downloadOnLogin.label "Berjochten no ynlade">
 <!ENTITY downloadOnLogin.accesskey "y">
 <!ENTITY deferStorageDesc.label "Fink dizze opsje út om e-mail foar dizze account te bewarjen yn syn eigen map. Dat sil fan dizze account in top-levelaccount meitsje. Oars sil hy diel útmeitsje fan it globale Postfek YN ûnder Lokale mappen.">

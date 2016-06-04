@@ -46,8 +46,8 @@
 <!ENTITY addTag.label "Berjocht labelje">
 <!ENTITY setJunkScore.label "Net-winske-berjochtesteat ynstelle op">
 <!ENTITY deleteMessage.label "Berjocht fuortsmite">
-<!ENTITY deleteFromPOP.label "Fan POP-tsjinner smite">
-<!ENTITY fetchFromPOP.label "Fan POP-tsjinner ophelje">
+<!ENTITY deleteFromPOP.label "Fan POP-server smite">
+<!ENTITY fetchFromPOP.label "Fan POP-server ophelje">
 <!ENTITY ignoreThread.label "Petear negearje">
 <!ENTITY ignoreSubthread.label "Subpetear negearje"> 
 <!ENTITY watchThread.label "Petear folgje">

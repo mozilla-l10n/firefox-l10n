@@ -23,7 +23,7 @@
 <!ENTITY incoming.label		  			 "Ynkommend:">
 <!ENTITY outgoing.label             	 "Utgeand:">
 <!ENTITY username.label                  "Brûkersnamme:">
-<!ENTITY hostname.label                  "Tsjinnerhostnamme">
+<!ENTITY hostname.label                  "Serverhostnamme">
 <!ENTITY port.label                      "Poarte">
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Autentikaasje">
@@ -80,9 +80,9 @@
 
 <!ENTITY contactYourProvider.description "&brandShortName; kin jo tastean om jo e-mail te krijen mei dizze konfiguraasjes. Mar, jo soene kontakt opnimme moatte mei de administrator of e-mailprovider oer dizze ferkearde ferbiningen. Sjoch de Thunderbird FAQ foar mear ynformaasje.">
 
-<!ENTITY insecureServer.tooltip.title    "Warskôging! Dit is in ûnfeilige tsjinner.">
+<!ENTITY insecureServer.tooltip.title    "Warskôging! Dit is in ûnfeilige server.">
 <!ENTITY insecureServer.tooltip.details  "Klik sirkel foar mear details.">
 
-<!ENTITY insecureUnencrypted.description "Jo e-mail en autentikaasje wurde net-fersifere ferstjoerd, dus jo wachtwurd (en jo berjocht) kin maklik lêzen wurde troch oare minsken. &brandShortName; sil jo jo e-mail ophelje, mar jo soene einliks jo e-mailprovider freegje moatte om de tsjinner te konfigurearjen mei in feilige ferbining.">
-<!ENTITY insecureSelfSigned.description  "De tsjinner brûkt in sertifikaat dy't wy net fertrouwe kinne, dus wy binne net wis oft ien it ferkear tusken &brandShortName; en jo tsjinner probearret te ûnderskeppen. &brandShortName; sil jo jo e-mail ophelje litte, mar jo soene einliks jo e-mailprovider freegje moatte om de tsjinner te konfigurearjen mei in feilich sertifikaat.">
-<!ENTITY secureServer.description        "Lokwinske! Dit is in feilige tsjinner.">
+<!ENTITY insecureUnencrypted.description "Jo e-mail en autentikaasje wurde net-fersifere ferstjoerd, dus jo wachtwurd (en jo berjocht) kin maklik lêzen wurde troch oare minsken. &brandShortName; sil jo jo e-mail ophelje, mar jo soene einliks jo e-mailprovider freegje moatte om de server te konfigurearjen mei in feilige ferbining.">
+<!ENTITY insecureSelfSigned.description  "De server brûkt in sertifikaat dy't wy net fertrouwe kinne, dus wy binne net wis oft ien it ferkear tusken &brandShortName; en jo server probearret te ûnderskeppen. &brandShortName; sil jo jo e-mail ophelje litte, mar jo soene einliks jo e-mailprovider freegje moatte om de server te konfigurearjen mei in feilich sertifikaat.">
+<!ENTITY secureServer.description        "Lokwinske! Dit is in feilige server.">

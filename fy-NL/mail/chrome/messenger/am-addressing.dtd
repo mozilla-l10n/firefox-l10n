@@ -8,12 +8,12 @@
 <!ENTITY addressingGroupTitle.label "Adressearing">
 <!ENTITY addressingText.label      "By it opsykjen fan adressen:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "Myn algiemene LDAP-tsjinnerynstellingen brûke foar dit account">
+<!ENTITY useGlobal.label           "Myn algiemene LDAP-serverynstellingen brûke foar dit account">
 <!ENTITY useGlobal.accesskey       "M">
 <!ENTITY editDirectories.label     "Mappen bewurkje…">
 <!ENTITY editDirectories.accesskey "B">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Oare LDAP-tsjinner brûke:">
+<!ENTITY directories.label         "Oare LDAP-server brûke:">
 <!ENTITY directories.accesskey     "n">
 <!ENTITY directoriesNone.label     "Gjin">
 

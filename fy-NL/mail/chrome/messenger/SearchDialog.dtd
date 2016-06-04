@@ -7,7 +7,7 @@
 <!ENTITY searchHeading.accesskey     "k">
 <!ENTITY searchSubfolders.label      "Yn submappen sykje">
 <!ENTITY searchSubfolders.accesskey  "Y">
-<!ENTITY searchOnServer.label        "Sykje op tsjinner">
+<!ENTITY searchOnServer.label        "Sykje op server">
 <!ENTITY searchOnServer.accesskey    "t">
 <!ENTITY resetButton.label           "Wiskje">
 <!ENTITY resetButton.accesskey       "W">
