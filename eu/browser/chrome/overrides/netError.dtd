@@ -63,17 +63,21 @@
 <!ENTITY proxyResolveFailure.title "Proxy-zerbitzaria ezin da aurkitu">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Egiaztatu proxyaren konexioaren ezarpenak.</li> <li>Egiaztatu zure ordenagailuak sareko konexioa duela.</li> <li> Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> </ul>">
 
+<!ENTITY redirectLoop.title "Orriak ez du berbideraketa ondo egiten">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Arazo hau baliteke cookieak desgaituta eduki edo ez onartzeagatik izatea.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Zerbitzariaren erantzuna ez zen espero">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Egiaztatu zure sistemak Personal Security Manager delakoa instalatuta duela.</li> <li>Baliteke zerbitzariaren konfigurazio ez-estandar batengatik izatea.</li> </ul>">
 
+<!ENTITY nssFailure2.title "Konexio seguruak huts egin du">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Ikusten saiatzen ari zaren orria ezin da erakutsi jasotako datuen egiazkotasuna ezin delako egiaztatu.</li> <li>Mesedez jarri harremanetan webgunearen jabeekin arazoaren berri emateko.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "Zure konexioa ez da segurua">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY sharedLongDesc "<ul> <li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriro minutu batzuen buruan.</li> <li>Beste inolako orririk ezin baduzu kargatu, egiaztatu ordenagailuaren sareko konexioa.</li> <li>Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du edukien segurtasun-politikak baimentzen ez duelako.</p>">
@@ -95,6 +99,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informazio aurreratua: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Zure konexioa ez da segurua">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Informazio aurreratua: SSL_ERROR_NO_CYPHER_OVERLAP">
@@ -102,8 +107,11 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ostalariak zaharkituta dagoen eta erasoen aurrean babesik ez duen segurtasun-teknologia erabiltzen du. Segurua zela uste zenuen informazioa erraz agerraraz lezake erasotzaile batek.">
 <!ENTITY weakCryptoAdvanced.override "(Ez segurua) Saiatu <span class='hostname'></span> kargatzen segurtasun zaharkitua erabiliz">
 
+<!ENTITY certerror.pagetitle1  "Konexio ez-segurua">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Gune honek HTTP Strict Transport Security (HSTS) erabiltzen du &brandShortName; modu seguruan soilik konektatzen dela zehazteko. Ondorioz, ezin da salbuespenik gehitu ziurtagiri honentzat.">
+<!ENTITY certerror.copyToClipboard.label "Kopiatu testua arbelean">
 
-
-
+<!ENTITY inadequateSecurityError.title "Zure konexioa ez da segurua">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ostalariak zaharkituta dagoen eta erasoen aurrean babesik ez duen segurtasun-teknologia erabiltzen du. Segurua zela uste zenuen informazioa erraz agerraraz lezake erasotzaile batek. Zuk gunea bisitatu ahal izan aurretik zerbitzaria konpondu behar du webgunearen kudeatzaileak.</p><p>Errore-kodea: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
