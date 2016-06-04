@@ -70,7 +70,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "คุณไม่ได้เข้าสู่ระบบ">
-<!ENTITY signIn.label                "ลงชื่อเข้าใช้">
+<!ENTITY signIn.label                "ลงชื่อเข้า">
 <!ENTITY profilePicture.tooltip      "เปลี่ยนรูปโพรไฟล์">
 <!ENTITY verifiedManage.label        "จัดการบัญชี">
 <!ENTITY disconnect.label            "ตัดการเชื่อมต่อ…">
@@ -78,7 +78,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "ไม่จำอีเมลนี้">
 
 <!ENTITY welcome.description "เข้าถึงแท็บ ที่คั่นหน้า รหัสผ่าน และอื่น ๆ ของคุณในทุกที่ที่คุณใช้ &brandShortName;">
-<!ENTITY welcome.signIn.label "ลงชื่อเข้าใช้">
+<!ENTITY welcome.signIn.label "ลงชื่อเข้า">
 <!ENTITY welcome.createAccount.label "สร้างบัญชี">
 
 <!ENTITY welcome.useOldSync.label "กำลังใช้งาน Sync รุ่นเก่ากว่า?">
@@ -87,7 +87,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "ประสานที่คั่นหน้า ประวัติ แท็บ รหัสผ่าน ส่วนเสริม และการตั้งค่าระหว่างอุปกรณ์ทั้งหมดของคุณ">
 <!ENTITY signedOut.accountBox.title   "เชื่อมต่อกับ &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "สร้างบัญชี">
-<!ENTITY signedOut.accountBox.signin  "ลงชื่อเข้าใช้">
+<!ENTITY signedOut.accountBox.signin  "ลงชื่อเข้า">
 
 <!ENTITY signedIn.engines.label       "ซิงค์ระหว่างอุปกรณ์ทั้งหมด">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
