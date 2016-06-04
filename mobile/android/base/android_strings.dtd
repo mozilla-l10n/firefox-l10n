@@ -542,11 +542,11 @@ size. -->
 <!ENTITY home_clear_history_button "ล้างประวัติการท่องเว็บ">
 <!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าต้องการล้างประวัติของคุณ?">
 <!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่คุณบันทึกไว้จะแสดงที่นี่">
-<!ENTITY home_closed_tabs_title "แท็บที่เพิ่งปิดเมื่อเร็ว ๆ นี้">
+<!ENTITY home_closed_tabs_title "แท็บที่เพิ่งปิด">
 <!ENTITY home_last_tabs_title "แท็บจากคราวที่แล้ว">
 <!ENTITY home_last_tabs_empty "แท็บเมื่อเร็ว ๆ นี้ของคุณจะแสดงที่นี่">
 <!ENTITY home_open_all "เปิดทั้งหมด">
-<!ENTITY home_most_recent_empty "เว็บไซต์ที่คุณเพิ่งเยี่ยมชมล่าสุดจะแสดงที่นี่">
+<!ENTITY home_most_recent_empty "เว็บไซต์ที่คุณเยี่ยมชมล่าสุดจะแสดงที่นี่">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "หมายเหตุ: การใช้ &formatS1;แท็บส่วนตัวใหม่&formatS2; จะไม่บันทึกประวัติของคุณ">
