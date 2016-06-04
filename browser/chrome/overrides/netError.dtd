@@ -22,8 +22,8 @@
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Veuillez vérifier la syntaxe de l’adresse
-    (saisie de <strong>ww</strong>.exemple.com au lieu de
-    <strong>www</strong>.exemple.com par exemple)&#x00A0;;</li>
+    (saisie de <strong>ww</strong>.example.com au lieu de
+    <strong>www</strong>.example.com par exemple)&#x00A0;;</li>
   <li>Si vous n’arrivez à naviguer sur aucun site, vérifiez la connexion
     au réseau de votre ordinateur&#x00A0;;</li>
   <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy,
@@ -51,7 +51,7 @@
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>La syntaxe des adresses web est généralement
-    <strong>http://www.exemple.com/</strong>&#x00A0;;</li>
+    <strong>http://www.example.com/</strong>&#x00A0;;</li>
   <li>Assurez-vous de bien utiliser des barres obliques (c.à.d.
     <strong>/</strong>).</li>
 </ul>

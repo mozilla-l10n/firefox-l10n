@@ -95,7 +95,7 @@
 <!ENTITY  permCookie            "Définir des cookies">
 <!ENTITY  permNotifications     "Afficher des notifications">
 <!ENTITY  permInstall           "Installer des extensions ou des thèmes">
-<!ENTITY  permGeo               "Partager la localisation">
+<!ENTITY  permGeo               "Partager ma localisation">
 
 <!ENTITY  securityTab           "Sécurité">
 <!ENTITY  securityTab.accesskey "S">
