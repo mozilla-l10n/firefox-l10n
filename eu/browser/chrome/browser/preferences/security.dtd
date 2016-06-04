@@ -11,8 +11,11 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Blokeatu eduki arriskutsu eta iruzurtia">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
-
+<!ENTITY  blockDownloads.label            "Blokeatu deskarga arriskutsuak">
+<!ENTITY  blockDownloads.accesskey        "s">
 
 
 
