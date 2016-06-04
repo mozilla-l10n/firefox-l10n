@@ -11,8 +11,14 @@
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+<!ENTITY  enableSafeBrowsing.label        "Bloquear contenido peligroso y engañoso">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "Bloquear descargas peligrosas">
+<!ENTITY  blockDownloads.accesskey        "D">
 
+<!ENTITY  blockUncommonUnwanted.label     "Avisarme sobre software no deseado y poco común">
+<!ENTITY  blockUncommonUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "Excepciones…">
 <!ENTITY  addonExceptions.accesskey     "E">
