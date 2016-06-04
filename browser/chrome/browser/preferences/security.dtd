@@ -11,6 +11,8 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "ख़तरनाक और संदेहास्पद सामग्री रोकें (B)">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 
 
