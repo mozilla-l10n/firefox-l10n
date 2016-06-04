@@ -4,7 +4,7 @@
 
 <!ENTITY doNotDownloadPop3Movemail.label "Om skiifromte te besparjen, net ynlade:">
 <!ENTITY doNotDownloadNntp.label "Om skiifromte te besparjen, net ynlade foar offline gebrûk:">
-<!ENTITY doNotDownloadImap.label "Om skiifromte te besparjen, berjochten ynlade fan de tsjinner en lokale kopiën bewarje foar offline gebrûk kin beheint wirde troch leeftiid of grutte.">
+<!ENTITY doNotDownloadImap.label "Om skiifromte te besparjen, berjochten ynlade fan de server en lokale kopiën bewarje foar offline gebrûk kin beheint wirde troch leeftiid of grutte.">
 <!ENTITY allFoldersOffline.label "Berjochten foar dizze account op dizze kompjûter bewarje">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Berjochten grutter as">
@@ -19,8 +19,8 @@
 <!ENTITY nntpDownloadMsg.label "Berjochten âlder as">
 <!ENTITY nntpDownloadMsg.accesskey "a">
 <!ENTITY retentionCleanup.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde">
-<!ENTITY retentionCleanupImap.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde, sawol lokale kopyen as de orizjinele op de tsjinner.">
-<!ENTITY retentionCleanupPop.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde, ynklusyf orizjinelen op de tsjinner.">
+<!ENTITY retentionCleanupImap.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde, sawol lokale kopyen as de orizjinele op de server.">
+<!ENTITY retentionCleanupPop.label "Om skiifromte frij te meitsjen, kinne âlde berjochten permanint fuortsmiten wurde, ynklusyf orizjinelen op de server.">
 <!ENTITY retentionKeepMsg.label "Berjochten fuortsmite dy't âlder binne as">
 <!ENTITY retentionKeepMsg.accesskey "u">
 <!ENTITY retentionKeepAll.label "Gjin berjochten fuortsmite">

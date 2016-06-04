@@ -4,13 +4,13 @@
 
 <!ENTITY aboutSupport.appBasicsAppBuildID "Applikaasje Build ID">
 
-<!ENTITY aboutSupport.accountsTitle "E-mail en nijs-accounts">
+<!ENTITY aboutSupport.accountsTitle "E-mail en nijsaccounts">
 <!ENTITY aboutSupport.showPrivateData.mainText "Ynklusyf accountnammen">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(mooglik identifikaasje-ynformaasje)">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(mooglik identifikaasjeynformaasje)">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Namme">
-<!ENTITY aboutSupport.accountsIncomingServer "Ynkommende tsjinner">
-<!ENTITY aboutSupport.accountsOutgoingServers "Utgeande tsjinners">
+<!ENTITY aboutSupport.accountsIncomingServer "Ynkommende server">
+<!ENTITY aboutSupport.accountsOutgoingServers "Utgeande servers">
 <!ENTITY aboutSupport.accountsServerName "Namme">
 <!ENTITY aboutSupport.accountsConnSecurity "Ferbiningsfeilichheid">
 <!ENTITY aboutSupport.accountsAuthMethod "Autentikaasjemetoade">

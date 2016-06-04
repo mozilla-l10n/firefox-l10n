@@ -6,9 +6,9 @@
 
 <!ENTITY messageStorage.label "Berjochteopslach">
 <!ENTITY securitySettings.label "Befeiligingsynstellingen">
-<!ENTITY serverSettings.label "Tsjinnerynstellingen">
-<!ENTITY serverType.label "Tsjinnertype:">
-<!ENTITY serverName.label "Tsjinnernamme:">
+<!ENTITY serverSettings.label "Serverynstellingen">
+<!ENTITY serverType.label "Servertype:">
+<!ENTITY serverName.label "Servernamme:">
 <!ENTITY serverName.accesskey "T">
 <!ENTITY userName.label "Brûkersnamme:">
 <!ENTITY userName.accesskey "n">
@@ -23,7 +23,7 @@
 <!ENTITY biffStart.label "Op nije berjochten kontrolearje nei elke">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "minuten">
-<!ENTITY useIdleNotifications.label "Direkte tsjinnernotifikaasjes tastean as der nije berjochten binnenkomme">
+<!ENTITY useIdleNotifications.label "Direkte servernotifikaasjes tastean as der nije berjochten binnenkomme">
 <!ENTITY useIdleNotifications.accesskey "D">
 <!ENTITY connectionSecurity.label "Ferbiningsfeilichheid:">
 <!ENTITY connectionSecurity.accesskey "b">
@@ -33,7 +33,7 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Autentikaasjemetoade:">
 <!ENTITY authMethod.accesskey "A">
-<!ENTITY leaveOnServer.label "Berjochten op de tsjinner stean litte">
+<!ENTITY leaveOnServer.label "Berjochten op de server stean litte">
 <!ENTITY leaveOnServer.accesskey "h">
 <!ENTITY headersOnly.label "Allinnich berjochtkoppen ophelje">
 <!ENTITY headersOnly.accesskey "k">
@@ -67,7 +67,7 @@
 <!ENTITY maxMessagesStart.accesskey "f">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "berjochten">
-<!ENTITY alwaysAuthenticate.label "Altyd freegje om autentikaasje by ferbinen mei dizze tsjinner">
+<!ENTITY alwaysAuthenticate.label "Altyd freegje om autentikaasje by ferbinen mei dizze server">
 <!ENTITY alwaysAuthenticate.accesskey "z">
 <!ENTITY newsrcFilePath.label "newsrc-bestân:">
 <!ENTITY localPath.label "Lokale map">
