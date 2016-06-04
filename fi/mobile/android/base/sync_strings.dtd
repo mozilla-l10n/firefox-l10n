@@ -75,8 +75,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos2 'käyttöehdot'>
-<!ENTITY fxaccount_status_linkprivacy2 'tietosuojakäytäntö'>
+<!ENTITY fxaccount_status_linktos2 'Käyttöehdot'>
+<!ENTITY fxaccount_status_linkprivacy2 'Tietosuojakäytäntö'>
 <!ENTITY fxaccount_status_more 'Lue lisää&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Poista&ellipsis;'>
 
@@ -123,4 +123,4 @@
 <!ENTITY fxaccount_sync_finish_migrating_notification_title 'Viimeistelläänkö &syncBrand.shortName.label;-palvelun päivitys?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Kirjaudu sisään tilille &formatS;'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Kirjaudu tilille &formatS;'>
