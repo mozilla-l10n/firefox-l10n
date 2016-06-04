@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>Tiedosto voi olla poistettu, siirretty tai nimetty uudelleen.</li><li>Onko tiedoston nimi ja sijainti kirjoitettu virheettömästi ja oikealla kirjainkoolla?</li><li>Onko käyttäjällä lukuoikeudet tiedostoon?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Tiedoston käyttö estettiin">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>Se on saatettu poistaa, siirtää tai ehkä tiedoston oikeudet estävät käytön.</li></ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Tiedosto on saatettu poistaa tai siirtää, tai sen käyttöoikeudet voivat estää käytön.</li></ul>">
 
 <!ENTITY generic.title "Verkkopyyntöä ei kyetä toteuttamaan">
 <!ENTITY generic.longDesc "<p>Tästä ongelmasta tai virheestä ei ole saatavilla lisätietoja.</p>">
@@ -93,7 +93,7 @@
 <!ENTITY remoteXUL.title "XUL-koodia etänä">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul></p>">
 
-<!ENTITY inadequateSecurityError.title "Yhteytesi ei ole suojattu">
+<!ENTITY inadequateSecurityError.title "Yhteys ei ole suojattu">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> käyttää vanhentunutta suojausteknologiaa, joka on hyökkäyksille altis. Hyökkääjä saattaa helposti paljastaa tietoa, jonka luulit olevan suojattu. Verkkosivuston ylläpitäjän tulee korjata tämä ongelma ennen kuin voit käydä sivustolla.</p><p>Virhekoodi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> käyttää suojaustekniikkaa, joka on vanhentunut ja haavoittuvainen hyökkäyksille. Hyökkääjä voisi helposti lukea tietoja, joiden luulit olevan suojattuja. Sivuston ylläpitäjän täytyy korjata tämä ongelma ennen kuin voit käydä sivustolla.</p><p>Virhekoodi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
