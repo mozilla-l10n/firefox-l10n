@@ -30,7 +30,7 @@
 
 <!ENTITY  locationBar.label             "Konum çubuğu">
 
-<!ENTITY  locbar.suggest.label          "Konum çubuğunu kullanırken">
+<!ENTITY  locbar.suggest.label          "Konum çubuğunu kullanırken şunları öner:">
 <!ENTITY  locbar.history.label          "Geçmiş">
 <!ENTITY  locbar.history.accesskey      "G">
 <!ENTITY  locbar.bookmarks.label        "Yer imleri">
