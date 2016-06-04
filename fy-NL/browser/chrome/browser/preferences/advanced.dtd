@@ -114,7 +114,7 @@
 <!ENTITY certs.auto.accesskey     		 "A">
 <!ENTITY certs.ask               		 "My eltse kear freegje">
 <!ENTITY certs.ask.accesskey       		 "e">
-<!ENTITY enableOCSP.label                "Freegje OCSP-respondertsjinners om de aktuele faliditeit fan sertifikaten te befêstigjen">
+<!ENTITY enableOCSP.label                "Freegje OCSP-responderservers om de aktuele faliditeit fan sertifikaten te befêstigjen">
 <!ENTITY enableOCSP.accesskey            "F">
 <!ENTITY viewCerts.label         		 "Sertifikaten besjen">
 <!ENTITY viewCerts.accesskey     		 "S">
