@@ -19,23 +19,25 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Zerbitzaria ez da aurkitu">
-
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Helbidea ondo begiratu mota honetako erroreak ekiditeko: <strong>ww</strong>.adibidea.net <strong>www</strong>.adibidea.net-en ordez</li> <li>Ezin baduzu inolako orririk kargatu, begiratu zure ordenagailuaren sareko konexioa.</li> <li>Zure ordenagailua edo sarea firewall edo proxy baten bitartez babestuta badago, ziurtatu &brandShortName;(e)k weba nabigatzeko baimenik daukan.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Fitxategia ez da aurkitu">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Egiaztatu fitxategi-izenaren kapitalizazioa edo bestelako idazketa-erroreak.</li> <li>Egiaztatu ea fitxategia lekuz aldatu, berrizendatu edo ezabatu egin duten.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Fitxategi-atzipena ukatu egin da">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Kendua edo lekuz aldatua egon liteke, edo fitxategi-baimenek sarrera eragotz lezakete.</li> </ul>">
 
 <!ENTITY generic.title "Iepa.">
+<!ENTITY generic.longDesc "<p>&brandShortName;(e)k ezin du orria kargatu.</p>">
 
-
-
+<!ENTITY malformedURI.title "Helbidea ez da baliozkoa">
+<!ENTITY malformedURI.longDesc "<ul> <li>Web helbideak normalean <strong>http://www.adibidez.net/</strong> formatukoak dira</li> <li>Ziurtatu aurrerako barrak erabiltzen dituzula (<strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Konexioa eten egin da">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokumentua iraungita">
-
+<!ENTITY notCached.longDesc "<p>Eskatutako dokumentua ez dago &brandShortName;(r)en cache memorian.</p><ul><li>Segurtasun-neurri gisa, &brandShortName;(e)k ez ditu berriro automatikoki eskatzen informazio pertsonala izan dezaketen dokumentuak.</li><li>Egin klik 'Saiatu berriro' botoian webguneko dokumentua berriro eskatzeko.</li></ul>">
 
 <!ENTITY netOffline.title "Lineaz kanpo">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Sakatu &quot;Saiatu berriro&quot; linean jarri eta orria berritzeko.</li> </ul>">
@@ -52,6 +54,7 @@
 <!ENTITY netTimeout.title "Konexioaren denbora-muga gainditu da">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Ez da helbidea ulertu">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Agian bestelako softwarea instalatu behar duzu helbide hau irekitzeko.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy-zerbitzaria konexioak ukatzen ari da">

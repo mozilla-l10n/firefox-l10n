@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Egin fitxa guztien laster-marka…">
 <!ENTITY showAllBookmarks2.label "Erakutsi laster-marka guztiak">
 <!ENTITY recentBookmarks.label "Azken laster-markak">
-
+<!ENTITY otherBookmarksCmd.label "Beste laster-markak">
 <!ENTITY bookmarksToolbarChevron.tooltip "Erakutsi laster-marka gehiago">
 
 <!ENTITY backCmd.label                "Atzera">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Laster-markak">
-
+<!ENTITY bookmarksMenuButton.other.label "Beste laster-markak">
 <!ENTITY viewBookmarksSidebar2.label        "Ikusi laster-marken tresna-barra">
 <!ENTITY viewBookmarksToolbar.label         "Ikusi laster-marken tresna-barra">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -695,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Gune honetarako zure konexioa ez da pribatua. Bidaltzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu txartelak, etab.).">
 <!ENTITY identity.description.insecureLoginForms "Orri honetan sartzen duzun saio-hasiera informazioa ez da segurua eta arriskuan egon liteke.">
 <!ENTITY identity.description.weakCipher "Gune honetarako zure konexioak zifraketa ahula erabiltzen du eta ez da pribatua.">
-
+<!ENTITY identity.description.weakCipher2 "Besteek zure informazioa ikusi edo webgunearen portaera alda lezakete.">
 <!ENTITY identity.description.activeBlocked "&brandShortName;(e)k seguruak ez diren orri honetako zatiak blokeatu ditu.">
 <!ENTITY identity.description.passiveLoaded "Zure konexioa ez da pribatua eta gunearekin partekatzen duzun informazioa besteek ikus lezakete.">
 <!ENTITY identity.description.passiveLoaded2 "Wegune honek segurua ez den edukia dauka (adibidez irudiak).">
@@ -725,7 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Sinkronizatutako fitxak">
 
 <!ENTITY syncedTabs.sidebar.label              "Sinkronizatutako fitxak">
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "Hasi saioa Firefoxen zure beste gailuetatik horien fitxak hemen ikusteko.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Sinkronizatutako fitxarik ez... momentuz!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Beste gailuetako zure fitxak hemen ikusi nahi dituzu?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Hasi saioa zure beste gailuetako fitxak ikusteko.">
