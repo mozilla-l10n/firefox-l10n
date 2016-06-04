@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Bestelakoak">
 <!ENTITY runtimePanel_installsimulator "Instalatu simulatzailea">
 <!ENTITY runtimePanel_noadbhelper "Instalatu ADB laguntzailea">
-
+<!ENTITY runtimePanel_nousbdevice "Ezin duzu zure gailua ikusi?">
 <!ENTITY runtimePanel_refreshDevices_label "Berritu gailuak">
 <!-- Lense -->
 
