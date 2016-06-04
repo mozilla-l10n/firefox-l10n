@@ -27,7 +27,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentDescription "คำอธิบาย">
 <!ENTITY aboutSupport.experimentActive "ทำงาน">
 <!ENTITY aboutSupport.experimentEndDate "วันสิ้นสุด">
-<!ENTITY aboutSupport.experimentHomepage "หน้าหลัก">
+<!ENTITY aboutSupport.experimentHomepage "หน้าแรก">
 
 
 <!ENTITY aboutSupport.appBasicsTitle "แอปพลิเคชั่นพื้นฐาน">
@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "หน้าต่างหลายโปรเซส">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "โหมดปลอดภัย">
 
 <!ENTITY aboutSupport.showDir.label "เปิดไดเรกทอรี">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -98,7 +99,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "กระบะทราย">
 
-<!ENTITY aboutSupport.safeModeTitle "ลองใช้ Safe Mode">
+<!ENTITY aboutSupport.safeModeTitle "ลองใช้โหมดปลอดภัย">
 <!ENTITY aboutSupport.restartInSafeMode.label "เริ่มใหม่และปิดใช้งานส่วนเสริม…">
 
 
