@@ -144,7 +144,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "ที่คั่นหน้า">
 <!ENTITY bookmarksMenu.accesskey "น">
 <!ENTITY bookmarkThisPageCmd.label "คั่นหน้าเว็บนี้">
-<!ENTITY editThisBookmarkCmd.label "แก้ไขที่คั่นหน้า">
+<!ENTITY editThisBookmarkCmd.label "แก้ไขที่คั่นหน้านี้">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "I">
 <!-- LOCALIZATION NOTE (findShareServices.label):
