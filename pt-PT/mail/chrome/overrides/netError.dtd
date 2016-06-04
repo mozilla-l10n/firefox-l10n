@@ -76,7 +76,7 @@
 <!ENTITY sharedLongDesc "<ul> <li>O site pode estar temporariamente indisponível ou ocupado. Tente novamente dentro de alguns instantes.</li> <li>Se não conseguir carregar qualquer página, verifique a ligação de rede do seu computador.</li> <li>Se o seu computador ou rede estiverem protegidos por uma firewall ou proxy, verifique se o &brandShortName; tem autorização para aceder à web.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdo">
-<!ENTITY cspBlocked.longDesc "O <p>&brandShortName; impediu o carregamento da página porque a mesma tem uma política de segurança de conteúdo que a impede.</p>">
+<!ENTITY cspBlocked.longDesc "<p>O &brandShortName; impediu o carregamento desta página deste modo, porque esta contém uma política de segurança de conteúdo que a desativou.</p>">
 
 <!ENTITY corruptedContentError.title "Erro de conteúdo corrompido">
 <!ENTITY corruptedContentError.longDesc "<p>O conteúdo que está a tentar visualizar não pode ser mostrado porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor contacte os proprietários para os informar sobre este problema.</li></ul>">
