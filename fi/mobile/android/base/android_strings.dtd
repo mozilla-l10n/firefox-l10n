@@ -24,6 +24,11 @@
 
 <!ENTITY  onboard_start_restricted1 "Surffaa turvallisin mielin ja tukevasti kontrollissa tämän yksinkertaisemman &brandShortName;in kanssa.">
 
+<!ENTITY  reading_list_migration_title "Lukulista yhdistetty">
+<!ENTITY  reading_list_migration_subtext "Lukulistan kohteet lisätään nyt kirjanmerkkeihin">
+<!ENTITY  reading_list_migration_goto_bookmarks "Siirry kirjanmerkkeihin">
+<!ENTITY  reading_list_migration_bookmarks_hidden "Kirjanmerkit-paneeli on piilotettu">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Kirjanmerkit">
@@ -65,7 +70,7 @@
 <!ENTITY screenshot_folder_label_in_bookmarks "Kuvakaappaukset">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Lukulista">
 
-<!ENTITY reader_saved_offline "Tallennettu yhteydettömässä tilassa käytettäväksi">
+<!ENTITY reader_saved_offline "Tallennettiin yhteydettömässä tilassa käytettäväksi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -169,7 +174,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Vinkki: Lisää minkä tahansa verkkosivun haku hakukonelistaasi painamalla pitkään sivun hakukenttää ja painamalla &formatI;-kuvaketta.">
 <!ENTITY pref_category_advanced "Lisäasetukset">
-<!ENTITY pref_category_advanced_summary3 "Välilehtien palauttaminen, datasäästö, kehittäjien työkalut">
+<!ENTITY pref_category_advanced_summary3 "Välilehtien palauttaminen, datan säästäminen, kehittäjien työkalut">
 <!ENTITY pref_category_notifications "Ilmoitukset">
 <!ENTITY pref_category_notifications_summary "Uudet ominaisuudet, sivustojen päivitykset">
 <!ENTITY pref_content_notifications "Sivustojen päivitykset">
@@ -220,7 +225,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Sallittu pois lukien kolmannen osapuolen evästeet">
 <!ENTITY pref_cookies_disabled "Estetty">
 
-<!ENTITY pref_category_data_saver "Datasäästö">
+<!ENTITY pref_category_data_saver "Datan säästäminen">
 <!ENTITY pref_category_media "Media">
 <!ENTITY pref_category_developer_tools "Kehittäjien työkalut">
 
@@ -282,12 +287,7 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; sivustoa päivitetty">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Asetukset">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Lue nyt">
+<!ENTITY content_notification_action_settings "Ilmoitusten asetukset">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -535,8 +535,6 @@ size. -->
 <!ENTITY home_history_title "Sivuhistoria">
 <!ENTITY home_synced_devices_smartfolder "Synkronoidut laitteet">
 <!ENTITY home_synced_devices_number "&formatD; laitetta">
-<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-<!ENTITY home_synced_devices_one "1 laite">
 <!ENTITY home_history_back_to2 "Takaisin koko historiaan">
 <!ENTITY home_clear_history_button "Tyhjennä selaushistoria">
 <!ENTITY home_clear_history_confirm "Tyhjennetäänkö selaushistoria?">
