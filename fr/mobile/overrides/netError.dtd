@@ -20,8 +20,8 @@
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Veuillez vérifier la syntaxe de l’adresse
-    (saisie de <strong>ww</strong>.exemple.com au lieu de
-    <strong>www</strong>.exemple.com par exemple)&#x00A0;;</li>
+    (saisie de <strong>ww</strong>.example.com au lieu de
+    <strong>www</strong>.example.com par exemple)&#x00A0;;</li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Rechercher</button>
@@ -52,7 +52,7 @@
 <!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>La syntaxe des adresses web est généralement
-    <strong>http://www.exemple.com/</strong>&#x00A0;;</li>
+    <strong>http://www.example.com/</strong>&#x00A0;;</li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Rechercher</button>
