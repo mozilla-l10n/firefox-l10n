@@ -7,10 +7,10 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "h">
 
 <!ENTITY privateBrowsing.title                           "Nabigatze pribatua">
-
-
-
-
+<!ENTITY privateBrowsing.title.tracking                  "Jarraipenaren babesa duen nabigatze pribatua">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Leiho pribatu batean nabigatzen duzunean, Firefoxek ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ez du gordeko">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "bisitatutako orriak">
 <!ENTITY aboutPrivateBrowsing.info.searches              "bilaketak">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookieak">
