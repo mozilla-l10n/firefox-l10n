@@ -31,7 +31,7 @@
 <!ENTITY generic.longDesc "<p> A &brandShortName; nem tudja betölteni az oldalt valamilyen okból.</p>">
 
 <!ENTITY malformedURI.title "A cím érvénytelen">
-<!ENTITY malformedURI.longDesc "<ul> <li>A webcímeket általában <strong>http://www.valami.hu/</strong> formában írják.</li> <li>Ellenőrizze, hogy előre dőlő perjeleket használ-e (azaz: <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>A webcímeket általában <strong>http://www.example.com/</strong> formában írják.</li> <li>Ellenőrizze, hogy előre dőlő perjeleket használ-e (azaz: <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "A kapcsolat megszakadt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
