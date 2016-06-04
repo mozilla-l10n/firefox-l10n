@@ -69,7 +69,7 @@
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
-<!ENTITY reader_switch_to_bookmarks "Vaihda">
+<!ENTITY reader_switch_to_bookmarks "Siirry">
 
 <!ENTITY history_today_section "Tänään">
 <!ENTITY history_yesterday_section "Eilen">
@@ -151,10 +151,10 @@
 <!ENTITY pref_category_accessibility "Esteettömyys">
 <!ENTITY pref_category_accessibility_summary2 "Tekstin koko, zoomaus, puhesyöte">
 <!ENTITY pref_category_privacy_short "Tietosuoja">
-<!ENTITY pref_category_privacy_summary4 "Seuranta, evästeet, datavalinnat">
+<!ENTITY pref_category_privacy_summary4 "Seuranta, kirjautumistiedot, kerätyt tiedot">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Tietoja &brandShortName;ista, UKK, palaute">
-<!ENTITY pref_category_datareporting "Tietojen lähettäminen">
+<!ENTITY pref_category_datareporting "Kerätyt tiedot">
 <!ENTITY pref_category_logins "Kirjautumistiedot">
 <!ENTITY pref_learn_more "Lue lisää">
 <!ENTITY pref_category_installed_search_engines "Asennetut hakukoneet">
@@ -171,9 +171,9 @@
 <!ENTITY pref_category_advanced "Lisäasetukset">
 <!ENTITY pref_category_advanced_summary3 "Välilehtien palauttaminen, datasäästö, kehittäjien työkalut">
 <!ENTITY pref_category_notifications "Ilmoitukset">
-<!ENTITY pref_category_notifications_summary "Uudet ominaisuudet, verkkosivustojen päivitykset">
-<!ENTITY pref_content_notifications "Verkkosivustojen päivitykset">
-<!ENTITY pref_content_notifications_summary2 "Löydä uutta sisältöä tuetuilta sivuilta">
+<!ENTITY pref_category_notifications_summary "Uudet ominaisuudet, sivustojen päivitykset">
+<!ENTITY pref_content_notifications "Sivustojen päivitykset">
+<!ENTITY pref_content_notifications_summary2 "Löydä uutta sisältöä tuetuilta sivustoilta">
 <!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi debugging requires your device to have a QR code reader app installed.">
@@ -229,8 +229,8 @@
 <!ENTITY pref_tap_to_load_images_data "Vain Wi-Fi -yhteydellä">
 <!ENTITY pref_tap_to_load_images_disabled2 "Estetty">
 
-<!ENTITY pref_show_web_fonts "Näytä sivujen omat kirjasinlajit">
-<!ENTITY pref_show_web_fonts_summary2 "Lataa etäkirjasinlajit sivua ladattaessa">
+<!ENTITY pref_show_web_fonts "Näytä sivujen kirjasinlajit">
+<!ENTITY pref_show_web_fonts_summary2 "Lataa verkosta sivujen omat kirjasinlajit sivua ladattaessa">
 
 <!ENTITY pref_tracking_protection_title2 "Seurannan suojaus">
 <!ENTITY pref_tracking_protection_summary3 "Käytössä yksityisen selaamisen tilassa">
@@ -241,7 +241,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Käytössä yksityisen selaamisen tilassa">
 <!ENTITY pref_tracking_protection_disabled "Pois käytöstä">
 
-<!ENTITY pref_whats_new_notification "Lue &brandShortName;in uusista ominaisuuksista">
+<!ENTITY pref_whats_new_notification "Mitä uutta &brandShortName;issa">
 <!ENTITY pref_whats_new_notification_summary "Lue lisää uusista ominaisuuksista päivittämisen jälkeen">
 
 <!ENTITY tracking_protection_prompt_title "Seurannan suojauksen tuki nyt mukana">
@@ -537,7 +537,7 @@ size. -->
 <!ENTITY home_synced_devices_number "&formatD; laitetta">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 laite">
-<!ENTITY home_history_back_to2 "Takaisin täyteen historiaan">
+<!ENTITY home_history_back_to2 "Takaisin koko historiaan">
 <!ENTITY home_clear_history_button "Tyhjennä selaushistoria">
 <!ENTITY home_clear_history_confirm "Tyhjennetäänkö selaushistoria?">
 <!ENTITY home_bookmarks_empty "Asetetut kirjanmerkit näkyvät tässä.">
@@ -648,12 +648,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName;in päivitys saatavilla">
 <!ENTITY updater_start_select2 "Lataa koskettamalla">
- 
+
 <!ENTITY updater_downloading_title2 "Ladataan &brandShortName;ia">
 <!ENTITY updater_downloading_title_failed2 "Lataus epäonnistui">
 <!ENTITY updater_downloading_select2 "Asenna päivitys koskettamalla latauksen päätyttyä">
 <!ENTITY updater_downloading_retry2 "Yritä uudestaan koskettamalla">
- 
+
 <!ENTITY updater_apply_title2 "&brandShortName;in päivitys saatavilla">
 <!ENTITY updater_apply_select2 "Päivitä koskettamalla">
 
