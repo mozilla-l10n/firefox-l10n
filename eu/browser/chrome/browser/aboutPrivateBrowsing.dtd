@@ -20,9 +20,9 @@
 
 <!ENTITY aboutPrivateBrowsing.info.downloads             "deskargak">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "laster-markak">
-
-
-
+<!ENTITY aboutPrivateBrowsing.note.before                "Nabigatze pribatuak ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "ez zaitu anonimo egiten">
+<!ENTITY aboutPrivateBrowsing.note.after                 " Interneten nabigatzean. Kontuan izan zure enplegatzaileak edo Interneteko zerbitzu-hornitzaileak zein orri bisitatzen dituzun jakin dezakeela.">
 
 
 
