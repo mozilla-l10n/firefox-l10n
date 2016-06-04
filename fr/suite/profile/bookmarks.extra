@@ -9,15 +9,15 @@
 
     <DT><H3>Recherches sur le Web</H3>
     <DL><p>
-        <DT><A HREF="http://www.google.com/">Google</A>
-        <DT><A HREF="http://groups.google.com/">Les groupes Google</A>
-        <DT><A HREF="http://news.google.com/">L’actualité sur Google</A>
+        <DT><A HREF="https://www.google.com/">Google</A>
+        <DT><A HREF="https://groups.google.com/">Les groupes Google</A>
+        <DT><A HREF="https://news.google.com/">L’actualité sur Google</A>
     </DL><p>
 
     <DT><H3>Sites communautaires</H3>
     <DL><p>
-        <DT><A HREF="http://www.forums.mozfr.org">Geckozone, site d’assistance francophone des logiciels basés sur Gecko</A>
-        <DT><A HREF="http://frenchmozilla.fr">Frenchmozilla, site des traducteurs francophones des logiciels basés sur Gecko</A>
+        <DT><A HREF="https://forums.mozfr.org">Geckozone, site d’assistance francophone des logiciels basés sur Gecko</A>
+        <DT><A HREF="https://mozfr.org">mozfr.org, site de la communauté Mozilla francophone</A>
     </DL><p>
 
 #unfilter emptyLines
