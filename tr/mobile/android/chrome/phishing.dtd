@@ -9,8 +9,8 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Saldırgan olarak bildirilmiş site!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> konumundaki sitenin saldırı sitesi olduğu bildirildi ve açılması güvenlik tercihlerinize dayanılarak engellendi.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Saldırı sitesi olarak tanımlanan siteler özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırı amacıyla kullanan ya da sisteminize zarar veren programları kurmaya çalışan sitelerdir.</p><p>Bazı saldırı siteleri zararlı yazılımları bilerek dağıtırken, çoğu site, sahibinin bilgisi ve izni dışında bu amaçla kullanılır.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> adresindeki bu sayfanın saldırı sayfası olduğu bildirildi ve açılması güvenlik tercihlerinize dayanılarak engellendi.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Saldırı siteleri; özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırmak için kullanan ve sisteminize zarar veren programları kurmaya çalışır.</p><p>Bazı saldırı siteleri zararlı yazılımları bilerek dağıtır ama çoğu site, sahiplerinin bilgisi ve izni dışında ele geçirilerek bu amaçla kullanılır.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Aldatıcı site!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -19,7 +19,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "İstenmeyen yazılım sitesi şüphesi!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> konumundaki bu web sayfasının istenmeyen yazılım içerdiği bildirilmiştir. Güvenlik tercihlerinize dayanılarak sayfa engellendi.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> adresindeki bu sayfanın istenmeyen yazılım içerdiği bildirilmiştir. Güvenlik tercihlerinize dayanılarak sayfa engellendi.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "İstenmeyen yazılım sayfaları, yanıltıcı olabilecek ve sisteminiz beklenmedik şekillerde etkileyebilecek yazılımlar yüklemeye çalışır.">
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Engellenmiş site">
