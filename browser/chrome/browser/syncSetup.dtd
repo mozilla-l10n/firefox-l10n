@@ -16,8 +16,8 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Tsjinner">
-<!ENTITY serverType.default.label      "Standert: Mozilla &syncBrand.fullName.label;-tsjinner">
-<!ENTITY serverType.custom2.label    "Brûk in eigen tsjinner…">
+<!ENTITY serverType.default.label      "Standert: Mozilla &syncBrand.fullName.label;-server">
+<!ENTITY serverType.custom2.label    "Brûk in eigen server…">
 <!ENTITY signIn.account2.label       "Account">
 <!ENTITY signIn.account2.accesskey   "A">
 <!ENTITY signIn.password.label      "Wachtwurd">
