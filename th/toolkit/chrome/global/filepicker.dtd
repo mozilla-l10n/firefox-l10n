@@ -17,5 +17,5 @@
 <!ENTITY noPermissionError.label "คุณไม่มีสิทธิ์ในการดูไดเรกทอรีนี้">
 
 <!ENTITY folderUp.tooltiptext   "ขึ้นไปหนึ่งระดับ">
-<!ENTITY folderHome.tooltiptext "ไปที่ไดเรกทอรีบ้าน">
+<!ENTITY folderHome.tooltiptext "ไปที่หน้าแรก">
 <!ENTITY folderNew.tooltiptext  "สร้างไดเรกทอรีใหม่">
