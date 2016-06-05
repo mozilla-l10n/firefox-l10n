@@ -168,6 +168,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Agregar las pestañas abiertas…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
+<!ENTITY recentBookmarks.label "Agregados recientemente a Marcadores">
 <!ENTITY otherBookmarksCmd.label "Otros Marcadores">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
@@ -347,6 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "No hay pestañas sincronizadas... ¡aún!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Quieres ver las pestañas de tus otros dispositivos aquí?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sincronizar preferencias">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicia sesión para ver una lista de pestañas de tus otros dispositivos.">
@@ -723,6 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Pestañas sincronizadas">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Inicia sesión en Firefox desde otros dispositivos para ver tus pestañas aquí.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "No hay pestañas sincronizadas... ¡aún!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "¿Quieres ver las pestañas de tus otros dispositivos aquí?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Inicia sesión para ver una lista de pestañas de tus otros dispositivos.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "No hay pestañas abiertas">
