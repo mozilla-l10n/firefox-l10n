@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "隐私浏览模式">
-<!ENTITY privateBrowsing.title.tracking                  "隐私浏览模式现已提供跟踪保护">
+<!ENTITY privateBrowsing.title.tracking                  "隐私浏览模式现已附带跟踪保护">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "当您在隐私窗口中浏览时，Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "不会保存">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        "：">
@@ -28,4 +28,4 @@
 
 <!ENTITY trackingProtection.title                        "跟踪保护">
 <!ENTITY trackingProtection.description2                 "一些网站使用跟踪器技术监控您在网上的活动。具有“跟踪保护”功能的 Firefox 可以拦截多种跟踪器，防止它们收集有关您网上行为的信息。">
-<!ENTITY trackingProtection.startTour1                   "了解如何生效">
+<!ENTITY trackingProtection.startTour1                   "看看怎么用">
