@@ -4,7 +4,7 @@
 
 <!ENTITY     props.name.label               "Namme:">
 <!ENTITY     props.value.label              "Ynformaasje:">
-<!ENTITY     props.domain.label             "Tsjinner:">
+<!ENTITY     props.domain.label             "Server:">
 <!ENTITY     props.path.label               "Paad:">
 <!ENTITY     props.secure.label             "Ferstjoerd oan:">
 <!ENTITY     props.expires.label            "Ferrint:">
@@ -17,5 +17,5 @@
 <!ENTITY     button.deny.accesskey          "W">
 
 <!ENTITY     dialog.title                   "Ynstellen fan cookie fêstdwaan">
-<!ENTITY     dialog.remember.label          "Brûk myn kar foar alle cookies fan dizze webstee">
+<!ENTITY     dialog.remember.label          "Brûk myn kar foar alle cookies fan dizze website">
 <!ENTITY     dialog.remember.accesskey      "B">

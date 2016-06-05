@@ -51,7 +51,7 @@
 
 <!ENTITY  downloadPage.title              "&brandShortName; wurdt ynladen">
 <!ENTITY  downloading.intro               "Fernijing ynlade…">
-<!ENTITY  connecting.label                "Ferbine mei de fernijingstsjinner…">
+<!ENTITY  connecting.label                "Ferbine mei de fernijingsserver…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; wie net yn steat om de yntegriteit fan de
                                            ynkrementele fernijing dy't ynladen is te kontrolearjen en laadt
                                            derom no it folsleine fernijingspakket yn.">
