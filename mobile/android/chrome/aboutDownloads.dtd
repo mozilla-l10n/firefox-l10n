@@ -6,3 +6,8 @@
 <!ENTITY aboutDownloads.header                     "ההורדות שלך">
 <!ENTITY aboutDownloads.empty                      "אין הורדות">
 
+<!ENTITY aboutDownloads.open                       "פתיחה">
+<!ENTITY aboutDownloads.pause                      "השהיה">
+<!ENTITY aboutDownloads.resume                     "המשך">
+<!ENTITY aboutDownloads.cancel                     "ביטול">
+<!ENTITY aboutDownloads.retry                      "לנסות שוב">

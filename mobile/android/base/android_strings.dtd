@@ -5,6 +5,7 @@
 <!ENTITY firstrun_panel_title_welcome "ברוכים הבאים">
 <!ENTITY  onboard_start_message3 "גלישה באמצעות &brandShortName;">
 
+<!ENTITY firstrun_data_title "נתונים">
 <!ENTITY  onboard_start_button_browser "התחלת גלישה">
 
 <!ENTITY  onboard_start_restricted1 "הישארו בטוחים ובשליטה עם גרסה מופשטת זו של &brandShortName;.">
