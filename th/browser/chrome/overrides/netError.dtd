@@ -15,7 +15,7 @@
 <!ENTITY connectionFailure.title "ไม่สามารถเชื่อมต่อ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "ที่อยู่เว็บนี้ถูกจำกัดการเข้าถึง">
+<!ENTITY deniedPortAccess.title "ที่อยู่นี้ถูกจำกัด">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "ไม่พบเซิร์ฟเวอร์">
@@ -27,11 +27,11 @@
 <!ENTITY fileAccessDenied.title "การเข้าถึงไฟล์ถูกปฏิเสธ">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>ไฟล์อาจถูกเอาออก ย้าย หรือการอนุญาตของไฟล์อาจป้องกันการเข้าถึง</li> </ul>">
 
-<!ENTITY generic.title "โอ๊ะ">
+<!ENTITY generic.title "อุปส์">
 <!ENTITY generic.longDesc "<p>&brandShortName; ไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางอย่าง</p>">
 
 <!ENTITY malformedURI.title "ที่อยู่ไม่ถูกต้อง">
-
+<!ENTITY malformedURI.longDesc "<ul> <li>ที่อยู่เว็บมักจะเขียนเป็น <strong>http://www.example.com/</strong></li> <li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมายทับไปข้างหน้า (กล่าวคือ <strong>/</strong>)</li> </ul>">
 
 <!ENTITY netInterrupt.title "การเชื่อมต่อถูกขัดจังหวะ">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -40,7 +40,7 @@
 <!ENTITY notCached.longDesc "<p>เอกสารที่ร้องขอไม่มีในแคชของ &brandShortName;</p><ul><li>ตามมาตรการรักษาความปลอดภัย &brandShortName; จะไม่ร้องขอเอกสารที่ละเอียดอ่อนให้ใหม่โดยอัตโนมัติ</li><li>คลิก ลองอีกครั้ง เพื่อร้องขอเอกสารจากเว็บไซต์ใหม่</li></ul>">
 
 <!ENTITY netOffline.title "โหมดออฟไลน์">
-<!ENTITY netOffline.longDesc2 "<ul> <li>โปรด &quot;ลองใหม่อีกครั้ง&quot; เพื่อสลับไปยังโหมดออนไลน์และเรียกหน้าเว็บใหม่</li> </ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>กด &quot;ลองอีกครั้ง&quot; เพื่อสลับเป็นโหมดออนไลน์และโหลดหน้าใหม่</li> </ul>">
 
 <!ENTITY contentEncodingError.title "ข้อผิดพลาดการเข้ารหัสเนื้อหา">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
@@ -48,7 +48,7 @@
 <!ENTITY unsafeContentType.title "ชนิดไฟล์ที่ไม่ปลอดภัย">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
-<!ENTITY netReset.title "การเชื่อมต่อถูกล้าง">
+<!ENTITY netReset.title "การเชื่อมต่อถูกตั้งใหม่">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "การเชื่อมต่อหมดเวลา">
@@ -61,7 +61,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>ตรวจสอบให้แน่ใจว่าการตั้งค่าพร็อกซีถูกต้อง</li> <li>ติดต่อผู้ดูแลเครือข่ายของคุณเพื่อให้แน่ใจว่าเซิร์ฟเวอร์พร็อกซีกำลังทำงานอยู่</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "ไม่สามารถค้นหาเซิร์ฟเวอร์พร็อกซี">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>ตรวจสอบให้แน่ใจว่าการตั้งค่าพร็อกซี่ถูกต้อง</li> <li>ตรวจสอบให้แน่ใจว่าคอมพิวเตอร์ของคุณสามารถเชื่อมต่อกับเครือข่ายได้</li> <li>ถ้าคอมพิวเตอร์หรือเครือข่ายของคุณถูกปกป้องไว้ด้วย firewall หรือพร็อกซี่ ตรวจสอบให้แน่ใจว่า &brandShortName; ได้รับอนุญาตให้เข้าถึงเว็บได้</li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>ตรวจสอบให้แน่ใจว่าการตั้งค่าพร็อกซีถูกต้อง</li> <li>ตรวจสอบให้แน่ใจว่าคอมพิวเตอร์ของคุณมีการเชื่อมต่อเครือข่ายที่ทำงานได้</li> <li>หากคอมพิวเตอร์หรือเครือข่ายของคุณถูกปกป้องด้วยไฟร์วอลล์หรือพร็อกซี ตรวจสอบให้แน่ใจว่า &brandShortName; ได้รับอนุญาตให้เข้าถึงเว็บ</li> </ul>">
 
 <!ENTITY redirectLoop.title "หน้าไม่ได้เปลี่ยนเส้นทางอย่างถูกต้อง">
 <!ENTITY redirectLoop.longDesc "<ul> <li>ปัญหานี้บางครั้งอาจมีสาเหตุมาจากการปิดใช้งานหรือปฏิเสธการยอมรับคุกกี้</li> </ul>">
@@ -78,6 +78,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "เจ้าของ <span class='hostname'/> ได้กำหนดค่าเว็บไซต์ของพวกเขาไม่เหมาะสม  เพื่อปกป้องข้อมูลของคุณจากการถูกขโมย &brandShortName; จึงไม่ได้เชื่อมต่อไปยังเว็บไซต์นี้">
 
+<!ENTITY sharedLongDesc "<ul> <li>ไซต์อาจใช้งานไม่ได้ชั่วคราวหรือกำลังทำงานหนักเกินไป ลองอีกครั้งในอีกสักครู่</li> <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อเครือข่ายของคอมพิวเตอร์ของคุณ</li> <li>หากคอมพิวเตอร์หรือเครือข่ายของคุณถูกปกป้องด้วยไฟร์วอลล์หรือพร็อกซี ตรวจสอบให้แน่ใจว่า &brandShortName; ได้รับอนุญาตให้เข้าถึงเว็บ</li> </ul>">
 
 <!ENTITY cspBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ป้องกันหน้านี้จากการโหลดในลักษณะนี้เนื่องจากหน้ามีนโยบายความปลอดภัยของเนื้อหาที่ไม่อนุญาต</p>">
