@@ -15,10 +15,10 @@
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 <!ENTITY  blockDownloads.label            "Bloker hentning af farlige filer">
-<!ENTITY  blockDownloads.accesskey        "D">
+<!ENTITY  blockDownloads.accesskey        "o">
 
 <!ENTITY  blockUncommonUnwanted.label     "Advar mig om uønsket og usædvanlig software">
-<!ENTITY  blockUncommonUnwanted.accesskey "C">
+<!ENTITY  blockUncommonUnwanted.accesskey "d">
 
 <!ENTITY  addonExceptions.label         "Undtagelser…">
 <!ENTITY  addonExceptions.accesskey     "t">
