@@ -168,7 +168,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "S'abonar a aquesta pagina...">
 <!ENTITY addCurPagesCmd.label "Marcar totes los onglets…">
 <!ENTITY showAllBookmarks2.label "Afichar totes los marcapaginas">
-
+<!ENTITY recentBookmarks.label "Marcats recentament">
 <!ENTITY otherBookmarksCmd.label "Autres marcapaginas">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afichar mai de marcapaginas">
 
@@ -200,9 +200,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Actualament, partejatz vòstra webcam o vòstre microfòn amb lo site">
 
-
-
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Actualament, partejatz vòstre microfòn amb lo site">
 
 
 
@@ -380,7 +380,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Non">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Òc">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "O">
 <!-- 
   Comment duplicated from browser-sets.inc:
 

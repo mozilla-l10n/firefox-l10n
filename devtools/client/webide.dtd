@@ -154,15 +154,17 @@
 <!-- Device Preferences -->
 
 <!ENTITY devicepreference_title "Preferéncias del periferic">
-
-
+<!ENTITY devicepreference_search "Preferéncias de recèrca">
+<!ENTITY devicepreference_newname "Nom de la preferéncia novèla">
 <!ENTITY devicepreference_newtext "Valor de la preferéncia">
-
+<!ENTITY devicepreference_addnew "Apondre una novèla preferéncia">
 <!-- Device Settings -->
+
+<!ENTITY devicesetting_title "Paramètres del periferic">
 <!ENTITY devicesetting_search "Paramètres de recèrca">
-
-
-
+<!ENTITY devicesetting_newname "Nom del paràmetre novèl">
+<!ENTITY devicesetting_newtext "Valor del paramètre">
+<!ENTITY devicesetting_addnew "Apondre un paramètre novèl">
 <!-- Monitor -->
 <!ENTITY monitor_help "Ajuda">
 <!-- WiFi Authentication -->

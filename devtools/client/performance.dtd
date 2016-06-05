@@ -41,6 +41,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
+<!ENTITY performanceUI.toolbar.waterfall "Cascada">
+
 
 
 <!ENTITY performanceUI.toolbar.memory-calltree "Assignacions">
@@ -61,7 +63,7 @@
 
 <!ENTITY performanceUI.table.samples                  "Exemples">
 
-
+<!ENTITY performanceUI.table.function                 "Foncion">
 
 
 
