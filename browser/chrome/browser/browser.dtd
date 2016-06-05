@@ -353,7 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "การตั้งค่า Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ลงชื่อเข้าใช้เพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 <!ENTITY appMenuRemoteTabs.signin.label "ลงชื่อเข้าใช้ Sync">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "ดูแถบข้างแท็บที่ซิงค์">
 
 <!ENTITY customizeMenu.addToToolbar.label "เพิ่มไปยังแถบเครื่องมือ">
 <!ENTITY customizeMenu.addToToolbar.accesskey "พ">
