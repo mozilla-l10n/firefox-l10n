@@ -15,7 +15,7 @@
 <!ENTITY setup.choicePage.existing2.label  "Ik brûk &syncBrand.shortName.label; al op in oar apparaat">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Tsjinner">
+<!ENTITY server.label               "Server">
 <!ENTITY serverType.default.label      "Standert: Mozilla &syncBrand.fullName.label;-server">
 <!ENTITY serverType.custom2.label    "Brûk in eigen server…">
 <!ENTITY signIn.account2.label       "Account">
