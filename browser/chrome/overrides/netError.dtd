@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "ไม่พบเซิร์ฟเวอร์">
-
+<!ENTITY dnsNotFound.longDesc "<ul> <li>ตรวจสอบข้อผิดพลาดในการพิมพ์ที่อยู่ อย่างเช่น <strong>ww</strong>.example.com แทนที่จะเป็น <strong>www</strong>.example.com</li> <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อเครือข่ายของคอมพิวเตอร์ของคุณ</li> <li>หากคอมพิวเตอร์หรือเครือข่ายของคุณถูกปกป้องด้วยไฟร์วอลล์หรือพร็อกซี ตรวจสอบให้แน่ใจว่า &brandShortName; ได้รับอนุญาตให้เข้าถึงเว็บ</li> </ul>">
 
 <!ENTITY fileNotFound.title "ไม่พบไฟล์">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ตรวจสอบชื่อไฟล์สำหรับตัวพิมพ์ใหญ่เล็กหรือข้อผิดพลาดการพิมพ์อื่น ๆ</li> <li>ตรวจสอบเพื่อดูหากไฟล์ถูกย้าย เปลี่ยนชื่อ หรือลบ</li> </ul>">
