@@ -17,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "Blokeatu deskarga arriskutsuak">
 <!ENTITY  blockDownloads.accesskey        "s">
 
-
+<!ENTITY  blockUncommonUnwanted.label     "Abisatu nahi ez den eta ezohikoa den softwareari buruz">
+<!ENTITY  blockUncommonUnwanted.accesskey "o">
 
 <!ENTITY  addonExceptions.label         "Salbuespenak…">
 <!ENTITY  addonExceptions.accesskey     "S">
