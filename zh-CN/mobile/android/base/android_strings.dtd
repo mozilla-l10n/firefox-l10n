@@ -25,7 +25,7 @@
 <!ENTITY  onboard_start_restricted1 "使用简化的 &brandShortName; 版本，确保安全和可控。">
 
 <!ENTITY  reading_list_migration_title "阅读列表已与书签连通">
-<!ENTITY  reading_list_migration_subtext "您在“阅读列表”添加的项目现在将添加为您的书签">
+<!ENTITY  reading_list_migration_subtext "您在“阅读列表”添加的项目现在将添加到您的书签">
 <!ENTITY  reading_list_migration_goto_bookmarks "转至书签">
 <!ENTITY  reading_list_migration_bookmarks_hidden "您的书签面板已隐藏">
 
@@ -775,5 +775,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "添加到主屏幕">
 
 <!ENTITY helper_first_offline_bookmark_title "离线阅读">
-<!ENTITY helper_first_offline_bookmark_message "在您的书签中查看您的阅读项目，离线也不怕。">
+<!ENTITY helper_first_offline_bookmark_message "在您的书签中打开您的阅读项目，离线也不怕。">
 <!ENTITY helper_first_offline_bookmark_button "转至书签">
