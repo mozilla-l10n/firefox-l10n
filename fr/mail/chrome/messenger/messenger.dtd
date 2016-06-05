@@ -167,6 +167,8 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Vue compacte">
 <!ENTITY compactVersion.accesskey "V">
+<!ENTITY folderPaneBar.label "Barre d’outils du panneau des dossiers">
+<!ENTITY folderModeSelector.label "Vues des dossiers">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Trier par">
@@ -365,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.label "Modifier comme un nouveau message">
 <!ENTITY editAsNewMsgCmd.accesskey "e">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Modifier le brouillon">
+<!ENTITY editDraftMsgCmd.accesskey "b">
 <!ENTITY createFilter.label "Créer un filtre à partir du message…">
 <!ENTITY createFilter.accesskey "i">
 <!ENTITY moveMsgToMenu.label "Déplacer le message vers">
@@ -717,10 +721,11 @@
 <!ENTITY contextOpenContainingFolder.accesskey "i">
 <!ENTITY contextEditMsgAsNew.label "Modifier comme un nouveau message">
 <!ENTITY contextEditMsgAsNew.accesskey "e">
+<!ENTITY contextEditDraftMsg.label "Modifier le brouillon">
 <!ENTITY contextArchive.label "Archiver">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Répondre à l’expéditeur">
-<!ENTITY contextReplySender.accesskey "R">
+<!ENTITY contextReplySender.accesskey "x">
 <!ENTITY contextReplyNewsgroup2.label "Faire suivre au groupe">
 <!ENTITY contextReplyNewsgroup2.accesskey "g">
 <!ENTITY contextReplyAll.label "Répondre à tout le monde">
@@ -730,7 +735,7 @@
 <!ENTITY contextForward.label "Transférer">
 <!ENTITY contextForward.accesskey "f">
 <!ENTITY contextForwardAsMenu.label "Transférer au format">
-<!ENTITY contextForwardAsMenu.accesskey "n">
+<!ENTITY contextForwardAsMenu.accesskey "m">
 <!ENTITY contextForwardAsInline.label "Intégré">
 <!ENTITY contextForwardAsInline.accesskey "I">
 <!ENTITY contextForwardAsAttachmentItem.label "Pièce jointe">
@@ -746,9 +751,15 @@
 <!ENTITY contextKillThreadMenu.label "Ignorer la discussion">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignorer le sous-fil de discussion">
+<!ENTITY contextKillSubthreadMenu.accesskey "g">
 <!ENTITY contextWatchThreadMenu.label "Surveiller la discussion">
+<!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+   In the en-US locale we ran out of access keys, so there is an empty access key for
+   Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Enregistrer sous…">
-<!ENTITY contextSaveAs.accesskey "s">
+<!ENTITY contextSaveAs.accesskey "r">
 <!ENTITY contextPrint.label "Imprimer…">
 <!ENTITY contextPrint.accesskey "p">
 <!ENTITY contextPrintPreview.label "Aperçu avant impression">
