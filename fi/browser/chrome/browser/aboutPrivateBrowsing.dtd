@@ -6,8 +6,8 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Avaa yksityinen ikkuna">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "A">
 
-<!ENTITY privateBrowsing.title                           "Yksityisselaus">
-<!ENTITY privateBrowsing.title.tracking                  "Yksityisselaus seurannan suojauksen kanssa">
+<!ENTITY privateBrowsing.title                           "Yksityinen selaus">
+<!ENTITY privateBrowsing.title.tracking                  "Yksityinen selaus seurannan suojauksen kanssa">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Kun selaat yksityisessä ikkunassa, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ei tallenna">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        "">
@@ -20,11 +20,11 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          "">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "lataukset.">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "kirjanmerkit">
-<!ENTITY aboutPrivateBrowsing.note.before                "Yksityisselaus ">
+<!ENTITY aboutPrivateBrowsing.note.before                "Yksityinen selaus ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ei tee sinusta anonyymiä">
 <!ENTITY aboutPrivateBrowsing.note.after                 " Internetissä. Työnantajasi tai Internet-palveluntarjoajasi voi edelleen tietää, millä sivuilla on vierailtu.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Lue lisää">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "yksityisselauksesta">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "yksityisestä selauksesta">
 
 <!ENTITY trackingProtection.title                        "Seurannan suojaus">
 <!ENTITY trackingProtection.description2                 "Jotkin sivustot käyttävät seurantamenetelmiä, joiden avulla ne voivat tarkkailla, mitä teet Internetissä. Seurannan suojauksen avulla Firefox estää monia seurantamenetelmiä, jotka keräävät tietoa selaamisestasi.">
