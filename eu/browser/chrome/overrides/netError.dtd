@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Zerbitzaria ez da aurkitu">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Helbidea ondo begiratu mota honetako erroreak ekiditeko: <strong>ww</strong>.adibidea.net <strong>www</strong>.adibidea.net-en ordez</li> <li>Ezin baduzu inolako orririk kargatu, begiratu zure ordenagailuaren sareko konexioa.</li> <li>Zure ordenagailua edo sarea firewall edo proxy baten bitartez babestuta badago, ziurtatu &brandShortName;(e)k weba nabigatzeko baimenik daukan.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Helbidea ondo begiratu mota honetako erroreak ekiditeko: <strong>ww</strong>.adibidea.eus <strong>www</strong>.adibidea.eus-en ordez</li> <li>Ezin baduzu inolako orririk kargatu, begiratu zure ordenagailuaren sareko konexioa.</li> <li>Zure ordenagailua edo sarea firewall edo proxy baten bitartez babestuta badago, ziurtatu &brandShortName;(e)k weba nabigatzeko baimenik daukan.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Fitxategia ez da aurkitu">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Egiaztatu fitxategi-izenaren kapitalizazioa edo bestelako idazketa-erroreak.</li> <li>Egiaztatu ea fitxategia lekuz aldatu, berrizendatu edo ezabatu egin duten.</li> </ul>">
@@ -31,7 +31,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName;(e)k ezin du orria kargatu.</p>">
 
 <!ENTITY malformedURI.title "Helbidea ez da baliozkoa">
-<!ENTITY malformedURI.longDesc "<ul> <li>Web helbideak normalean <strong>http://www.adibidez.net/</strong> formatukoak dira</li> <li>Ziurtatu aurrerako barrak erabiltzen dituzula (<strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Web helbideak normalean <strong>http://www.adibidea.eus/</strong> formatukoak dira</li> <li>Ziurtatu aurrerako barrak erabiltzen dituzula (<strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Konexioa eten egin da">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -76,6 +76,7 @@
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/> gunearen jabeak webgunea gaizki konfiguratu du. Zure informazioa lapurtzea saihesteko, &brandShortName; ez da webgune honetara konektatu.">
 
 <!ENTITY sharedLongDesc "<ul> <li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriro minutu batzuen buruan.</li> <li>Beste inolako orririk ezin baduzu kargatu, egiaztatu ordenagailuaren sareko konexioa.</li> <li>Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> </ul>">
 

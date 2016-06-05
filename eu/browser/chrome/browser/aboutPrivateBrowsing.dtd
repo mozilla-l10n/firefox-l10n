@@ -15,16 +15,16 @@
 <!ENTITY aboutPrivateBrowsing.info.searches              "bilaketak">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookieak">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "behin-behineko fitxategiak">
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefoxek ondorengoa ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "gordeko du">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "deskargak">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "laster-markak">
 <!ENTITY aboutPrivateBrowsing.note.before                "Nabigatze pribatuak ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ez zaitu anonimo egiten">
 <!ENTITY aboutPrivateBrowsing.note.after                 " Interneten nabigatzean. Kontuan izan zure enplegatzaileak edo Interneteko zerbitzu-hornitzaileak zein orri bisitatzen dituzun jakin dezakeela.">
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Argibide gehiago: ">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Nabigatze pribatua">
 
 <!ENTITY trackingProtection.title                        "Jarraipenaren babesa">
 <!ENTITY trackingProtection.description2                 "Zenbait webgunek zure jarraipena egin eta Interneten zehar duzun jarduera monitoriza dezakete. Jarraipenaren babesarekin, zure nabigatze-portaerari buruzko informazioa biltzea blokeatuko ditu Firefoxek.">
