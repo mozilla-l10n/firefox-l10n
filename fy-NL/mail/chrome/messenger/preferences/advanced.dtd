@@ -1,4 +1,4 @@
-﻿<!-- This Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -95,7 +95,7 @@
 <!ENTITY clearCacheNow.accesskey         	"N">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "As in tsjinner freget om myn persoanlike sertifikaat:">
+<!ENTITY certSelection.description       "As in server freget om myn persoanlike sertifikaat:">
 <!ENTITY certs.auto                      "Selektearje automatysk ien">
 <!ENTITY certs.auto.accesskey            "m">
 <!ENTITY certs.ask                       "My altyd freegje">

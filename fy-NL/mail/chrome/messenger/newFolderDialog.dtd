@@ -8,7 +8,7 @@
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Meitsje as in submap fan:">
 <!ENTITY description.accesskey      "M">
-<!ENTITY folderRestriction1.label   "Dizze tsjinner beheint mappen ta twa spesjale soarten.">
+<!ENTITY folderRestriction1.label   "Dizze server beheint mappen ta twa spesjale soarten.">
 <!ENTITY folderRestriction2.label   "Tastean dat de nije map befettet:">
 <!ENTITY foldersOnly.label          "Allinnich mappen">
 <!ENTITY messagesOnly.label         "Allinnich berjochten">
