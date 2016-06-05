@@ -39,6 +39,12 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Dostop do datoteke je bil zavrnjen">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Morda je bila odstranjena, premaknjena ali pa dovoljenja datoteke preprečujejo dostop.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "
@@ -136,9 +142,11 @@
 </ul>
 ">
 
+<!ENTITY certerror.longpagetitle1 "Vaša povezava ni varna">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Lastnik <span class='hostname'/> je neustrezno nastavil svojo spletno stran. &brandShortName; se ni povezal s to spletno stranjo, da bi preprečil krajo vaših podatkov.">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -179,7 +187,13 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> uporablja varnostno tehnologijo, ki je zastarela in ranljiva za napade. Napadalec lahko zlahka razkrije podatke, ki naj bi bili zaščiteni.">
 <!ENTITY weakCryptoAdvanced.override "(Ni varno) Naloži <span class='hostname'></span> z uporabo zastarele varnostne tehnologije">
 
+<!ENTITY certerror.pagetitle1  "Nevarna povezava">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ta stran uporablja HTTP
+Strict Transport Security (HSTS), ki določa, da se lahko &brandShortName; nanjo
+poveže zgolj varno. Posledično za to digitalno potrdilo ni mogoče dodati izjeme.">
+<!ENTITY certerror.copyToClipboard.label "Kopiraj besedilo v odložišče">
 
+<!ENTITY inadequateSecurityError.title "Vaša povezava ni varna">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uporablja varnostno tehnologijo, ki je zastarela in ranljiva na napade. Napadalec lahko zlahka razkrije podatke, ki naj bi bili zaščiteni. Preden lahko obiščete to stran, bo moral njen skrbnik popraviti strežnik.</p><p>Koda napake: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

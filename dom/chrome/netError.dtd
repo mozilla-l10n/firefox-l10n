@@ -19,6 +19,9 @@
 <!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
 <!ENTITY fileNotFound.longDesc "<ul><li>Morda je bila želena datoteka preimenovana, izbrisana ali prestavljena.</li><li>Je njeno ime napačno črkovano, napisano z nepravilnimi velikimi in malimi črkami ali kako drugače narobe napisano?</li><li>Imate ustrezna dovoljenja za dostop do želene datoteke?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "Dostop do datoteke je bil zavrnjen">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Morda je bila odstranjena, premaknjena ali pa dovoljenja datoteke preprečujejo dostop.</li></ul>">
+
 <!ENTITY generic.title "Zahteve ni mogoče izpolniti">
 <!ENTITY generic.longDesc "<p>Trenutno ni na voljo dodatnih podatkov o tem problemu oziroma o tej napaki.</p>">
 
@@ -75,27 +78,6 @@
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Prijavljena napadalna stran!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Napadalne strani poskušajo namestiti programe za krajo osebnih podatkov, uporabijo vaš računalnik za napad na druge ali poškodujejo vaš sistem.</p> 
-<p>Lastniki spletnih strani, ki so bile po njihovem mnenju zmotno prijavljene kot napadalne, lahko <a href='http://www.stopbadware.org/home/reviewinfo' >zahtevajo pregled</a>.</p>
-">
-
-<!ENTITY unwantedBlocked.title "Morebitna stran z neželeno programsko opremo!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Strani z neželeno programsko opremo poskušajo namestiti programsko opremo, ki je lahko zavajajoča in lahko neželeno vpliva na vaš sistem.</p>
-">
-
-<!ENTITY phishingBlocked.title "Morebitna spletna prevara!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Vnos osebnih podatkov na tej strani lahko pripelje do kraje identitete ali drugih zlorab.</p> 
-<p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot ribarjenje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>
-">
-
-<!ENTITY forbiddenBlocked.title "Prepovedana stran">
-<!ENTITY forbiddenBlocked.longDesc "<p>Brskalnik je preprečil nalaganje te strani, ker je nastavljen, da jo zavrača.</p>
-">
-
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo …">
 <!ENTITY securityOverride.warningContent "
 <p>Izjeme ne dodajajte, če uporabljate internetno povezavo, ki je ne zaupate popolnoma ali če tega opozorila običajno na tem strežniku ne vidite.</p>
@@ -110,3 +92,8 @@
 
 <!ENTITY remoteXUL.title "Oddaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Vaša povezava ni varna">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uporablja varnostno tehnologijo, ki je zastarela in ranljiva. Napadalec lahko zlahka razkrije podatke, ki naj bi bili zaščiteni. Preden lahko obiščete to stran, bo moral njen skrbnik popraviti strežnik.</p><p>Koda napake: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
