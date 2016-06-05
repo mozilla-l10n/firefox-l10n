@@ -6,7 +6,7 @@
 
 <!ENTITY certmgr.tab.mine                     "Jo sertifikaten">
 <!ENTITY certmgr.tab.others2                  "Minsken">
-<!ENTITY certmgr.tab.websites3                "Tsjinners">
+<!ENTITY certmgr.tab.websites3                "Servers">
 <!ENTITY certmgr.tab.ca                       "Organisaasjes">
 <!ENTITY certmgr.tab.orphan2                  "Oaren">
 
