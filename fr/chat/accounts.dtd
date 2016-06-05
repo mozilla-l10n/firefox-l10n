@@ -23,4 +23,14 @@
 <!ENTITY account.connect.accesskey    "o">
 <!ENTITY account.disconnect.label     "Déconnecter">
 <!ENTITY account.disconnect.accesskey "D">
-<!ENTITY account.delete.label         "Supprimer">
+<!ENTITY account.edit.label           "Propriétés">
+<!ENTITY account.edit.accesskey       "P">
+<!ENTITY account.moveup.label         "Monter">
+<!ENTITY account.movedown.label       "Descendre">
+<!ENTITY account.cancelReconnection.label     "Annuler la reconnexion">
+<!ENTITY account.cancelReconnection.accesskey "A">
+<!ENTITY account.copyDebugLog.label     "Copier le journal de débogage">
+<!ENTITY account.copyDebugLog.accesskey "C">
+<!ENTITY account.connecting           "Connexion en cours…">
+<!ENTITY account.disconnecting        "Déconnexion en cours…">
+<!ENTITY account.disconnected         "Non connecté">
