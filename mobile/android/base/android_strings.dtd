@@ -70,7 +70,7 @@
 <!ENTITY screenshot_folder_label_in_bookmarks "Kuvakaappaukset">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Lukulista">
 
-<!ENTITY reader_saved_offline "Tallennettiin yhteydettömässä tilassa käytettäväksi">
+<!ENTITY reader_saved_offline "Tallennettiin verkotta luettavaksi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
