@@ -9,7 +9,7 @@
 <!ENTITY name.text                       "Zure izena, besteei erakutsiko zaien bezala">
 <!ENTITY email.label                     "Helbide elektronikoa:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "eposta@adibidea.com">
+<!ENTITY email.placeholder               "eposta@adibidea.eus">
 <!ENTITY password.label                  "Pasahitza:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Pasahitza">
