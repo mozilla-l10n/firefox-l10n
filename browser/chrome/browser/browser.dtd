@@ -222,7 +222,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcapaginas">
-
+<!ENTITY bookmarksMenuButton.other.label "Autres marcapaginas">
 <!ENTITY viewBookmarksSidebar2.label        "Afichar la barra laterala d'onglets">
 <!ENTITY viewBookmarksToolbar.label         "Afichar la barra personala">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -345,9 +345,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 
+<!ENTITY appMenuRemoteTabs.openprefs.label "Preferéncias de Sync">
 
-
-
+<!ENTITY appMenuRemoteTabs.signin.label "Començar la session de Sync">
 
 
 <!ENTITY customizeMenu.addToToolbar.label "Apondre a la barra d'aisinas">
@@ -376,7 +376,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "Anar a l'onglet :">
 
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ne saber mai…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Non">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Òc">
