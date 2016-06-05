@@ -24,6 +24,11 @@
 <!ENTITY fileNotFound.title "Archivo no encontrado">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Comprueba que el nombre del archivo no contenga errores.</li> <li>Verifica si el archivo se borró, movió o renombró.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "El acceso al archivo fue denegado">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>Puede haber sido eliminado, movido o los permisos del archivo pueden evitar el acceso.</li>
+</ul>
+">
 
 <!ENTITY generic.title "¡Chin!">
 <!ENTITY generic.longDesc "<p>&brandShortName; no puede cargar esta página por alguna razón.</p>">
@@ -70,9 +75,11 @@
 <!ENTITY nssFailure2.title "Conexión segura fallida">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>La página que estás tratando de ver no se puede mostrar porque la autenticidad de los datos recibidos no pueden ser verificados.</li> <li>Por favor contacta a los propietarios del sitio web para informarles de este problema.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "Tu conexión no es segura">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "El dueño de <span class='hostname'/> ha configurado mal su sitio web. Para proteger tu información de ser robada. &brandShortName; no se ha conectado a este sitio web.">
 
 <!ENTITY sharedLongDesc "<ul> <li>El sitio podría estar temporalmente fuera de servicio o muy ocupado. Intenta nuevamente en un momento.</li> <li>Si no puedes cargar ninguna página, verifica la conexión de red de tu computadora.</li> <li>Si la red o tu computadora están protegidas por un firewall o proxy, asegúrate que &brandShortName; pueda acceder a internet.</li> </ul>">
 
@@ -104,6 +111,14 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa tecnología de seguridad obsoleta y vulnerable para atacar. Un atacante puede fácilmente revelar información que se pensaba estaba segura.">
 <!ENTITY weakCryptoAdvanced.override "(No seguro) Tratando de cargar <span class='hostname'></span> usando seguridad obsoleta">
 
+<!ENTITY certerror.pagetitle1  "Conexión insegura">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa HTTP
+Strict Transport Security (HSTS) para especificar que &brandShortName; solamente se conecte
+de forma segura. Como resultado, no es posible agregar una excepción para este
+certificado.">
+<!ENTITY certerror.copyToClipboard.label "Copiar texto al portapapeles">
 
+<!ENTITY inadequateSecurityError.title "Tu conexión no es segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnología de seguridad que es obsoleta y vulnerable a los ataques. Un atacante podría fácilmente revelar información que se piensa segura. El administrador del sitio web necesitará corregir el servidor antes de poder visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
