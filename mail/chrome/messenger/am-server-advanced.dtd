@@ -9,7 +9,7 @@
 <!ENTITY usingSubscription.accesskey "t">
 <!ENTITY usingSubscription.label "Allinnich oanmelde mappen toane">
 <!ENTITY dualUseFolders.accesskey "a">
-<!ENTITY dualUseFolders.label "Tsjinner stipet mappen mei submappen en berjochten">
+<!ENTITY dualUseFolders.label "Server stipet mappen mei submappen en berjochten">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!ENTITY maximumConnectionsNumber.label "Maksimum tal serverferbiningen yn de buffer">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->

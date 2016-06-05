@@ -1,4 +1,4 @@
-﻿<!-- This Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -36,5 +36,5 @@
 <!ENTITY  noproxy.label                 "Gjin proxy foar:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Foarbyld: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Dizze proxytsjinner foar alle protokollen brûke">
+<!ENTITY  shareproxy.label              "Dizze proxyserver foar alle protokollen brûke">
 <!ENTITY  shareproxy.accesskey          "x">

@@ -4,7 +4,7 @@
 
 <!ENTITY settings.caption "Ynstellingen">
 <!ENTITY security.caption "Befeiliging en autentikaasje">
-<!ENTITY serverName.label "Tsjinnernamme:">
+<!ENTITY serverName.label "Servernamme:">
 <!ENTITY serverName.accesskey "T">
 <!ENTITY serverDescription.label "Omskriuwing:">
 <!ENTITY serverDescription.accesskey "O">
@@ -18,7 +18,7 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, as beskikber">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY smtpEditTitle.label "SMTP-tsjinner">
+<!ENTITY smtpEditTitle.label "SMTP-server">
 <!ENTITY serverPortDefault.label "Standert:">
 <!ENTITY authMethod.label "Autentikaasjemetoade:">
 <!ENTITY authMethod.accesskey "i">
