@@ -12,7 +12,7 @@
 
 <!ENTITY certmgr.mine                         "Jo hawwe sertifikaten fan dizze organisaasje dy't jo identifisearje:">
 <!ENTITY certmgr.others                       "Jo hawwe sertifikaten as bestân dy't dizze minsken identifisearje:">
-<!ENTITY certmgr.websites2                    "Jo hawwe sertifikaten as bestân dy't dizze tsjinners identifisearje:">
+<!ENTITY certmgr.websites2                    "Jo hawwe sertifikaten as bestân dy't dizze servers identifisearje:">
 <!ENTITY certmgr.cas                          "Jo hawwe sertifikaten as bestân dy't dizze sertifikaatautoriteiten identifisearje:">
 <!ENTITY certmgr.orphans                      "Jo hawwe sertifikaten as bestân dy't net passe yn ien fan de oare kategoryën:">
 
@@ -43,7 +43,7 @@
 <!ENTITY certmgr.deletecert.title             "Sertifikaat fuortsmite">
 
 <!ENTITY certmgr.certname 					  "Sertifikaatnamme">
-<!ENTITY certmgr.certserver                   "Tsjinner">
+<!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Libbensdoer">
 <!ENTITY certmgr.tokenname 					  "Befeiligingsapparaat">
 <!ENTITY certmgr.begins 					  "Start op">
