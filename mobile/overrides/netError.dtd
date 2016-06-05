@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "Zerbitzaria ez da aurkitu">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Helbidea ondo begiratu mota honetako erroreak ekiditeko: <strong>ww</strong>.adibidea.net <strong>www</strong>.adibidea.net-en ordez</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Search</button> </div> <li>Ezin baduzu inolako orririk kargatu, begiratu zure gailuaren datu- edo WiFi-konexioa. <button id='wifi'>Gaitu Wi-Fia</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Helbidea ondo begiratu mota honetako erroreak ekiditeko: <strong>ww</strong>.adibidea.eus <strong>www</strong>.adibidea.eus-en ordez</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Search</button> </div> <li>Ezin baduzu inolako orririk kargatu, begiratu zure gailuaren datu- edo WiFi-konexioa. <button id='wifi'>Gaitu Wi-Fia</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Ez da fitxategia aurkitu">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Egiaztatu fitxategi izenean maiuskula/minuskula edo bestelako akatsik dagoen.</li> <li>Egiaztatu fitxategia lekuz aldatu, izenez aldatu edo ezabatu den.</li> </ul>">
@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.title "Helbidea ez da baliozkoa">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Orokorrean web helbideak honela idazten dira: <strong>http://www.adibidea.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Bilatu</button> </div> <li>Egiaztatu aurrerako barrak erabiltzen ari zarela (hau da, <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Orokorrean web helbideak honela idazten dira: <strong>http://www.adibidea.eus/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Bilatu</button> </div> <li>Egiaztatu aurrerako barrak erabiltzen ari zarela (hau da, <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Konexioa eten egin da">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
