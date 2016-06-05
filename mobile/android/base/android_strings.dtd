@@ -24,9 +24,6 @@
 <!ENTITY firstrun_tabqueue_subtext_off "Ставьте ссылки в очередь, касаясь их в других приложениях, чтобы открыть их позже в &brandShortName;.">
 <!ENTITY firstrun_tabqueue_message_on "Успех!">
 <!ENTITY firstrun_tabqueue_subtext_on "Вы всегда можете отключить её в меню &settings; в разделе &pref_category_general;.">
-<!ENTITY firstrun_notifications_title "Блоги">
-<!ENTITY firstrun_notifications_message "Будьте в курсе">
-<!ENTITY firstrun_notifications_subtext "Получайте уведомления, когда в блогах в ваших закладках появятся обновления.">
 <!ENTITY firstrun_readerview_title "Статьи">
 <!ENTITY firstrun_readerview_message "Удалите всё ненужное">
 <!ENTITY firstrun_readerview_subtext "Используйте Вид для чтения, чтобы облегчить чтение статей \u2014 даже без связи с Интернетом.">

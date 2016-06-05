@@ -38,9 +38,7 @@
 <!ENTITY finishedBackgroundPage.text "Обновление стабильности и безопасности для &brandShortName; успешно загружено и готово для установки.">
 <!ENTITY finishedBackground.name "Обновление:">
 <!ENTITY finishedBackground.more "Обновление будет установлено при следующем запуске &brandShortName;. Вы можете перезапустить &brandShortName; прямо сейчас, или продолжить работу и перезапустить его позже.">
-<!ENTITY installed.title "Обновление установлено">
-<!ENTITY installed.intro "Обновление было успешно установлено.">
-<!ENTITY whatsnew.label "Изменения в новой версии…">
+<!ENTITY finishedBackground.moreElevated "Для этого обновления необходимы права администратора. Обновление будет установлено при следующем запуске &brandShortName;. Вы можете перезапустить &brandShortName; сейчас, продолжить работу и перезапустить его позже, или отказаться от этого обновления.">
 <!ENTITY update.details.label "Подробности">
 <!ENTITY update.installedOn.label "Установлено:">
 <!ENTITY update.status.label "Статус:">
