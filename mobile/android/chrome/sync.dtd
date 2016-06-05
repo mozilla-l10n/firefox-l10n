@@ -12,14 +12,14 @@
 <!ENTITY sync.syncNow               "No syngronisearje">
 
 <!ENTITY sync.setup.title           "Ferbine mei Sync">
-<!ENTITY sync.setup.pair            "Selektearje ‘In apparaat keppelje' op jo oare apparaat om it te aktivearjen.">
+<!ENTITY sync.setup.pair            "Selektearje ‘In apparaat keppelje’ op jo oare apparaat om it te aktivearjen.">
 <!ENTITY sync.fallback              "Ik bin net ticht by myn kompjûter…">
 <!ENTITY sync.setup.manual          "Fier jo Sync-accountynformaasje yn">
 <!ENTITY sync.account               "Accountnamme">
 <!ENTITY sync.password              "Wachtwurd">
 <!ENTITY sync.recoveryKey           "Werstelkaai">
-<!ENTITY sync.customServer          "Eigen tsjinner brûke">
-<!ENTITY sync.serverURL             "Tsjinner-URL">
+<!ENTITY sync.customServer          "Eigen server brûke">
+<!ENTITY sync.serverURL             "Server-URL">
 <!ENTITY sync.setup.connect         "Ferbine">
 <!ENTITY sync.setup.cancel          "Annulearje">
 <!ENTITY sync.setup.tutorial        "Toane hoe">

@@ -53,11 +53,11 @@
 
 <!ENTITY fxaccount_status_signed_in_as 'Oanmeld as'>
 <!ENTITY fxaccount_status_manage_account 'Account beheare'>
-<!ENTITY fxaccount_status_auth_server 'Accounttsjinner'>
+<!ENTITY fxaccount_status_auth_server 'Accountserver'>
 <!ENTITY fxaccount_status_sync_now 'No syngronisearje'>
 <!ENTITY fxaccount_status_syncing2 'Syngronisearje…'>
 <!ENTITY fxaccount_status_device_name 'Apparaatnamme'>
-<!ENTITY fxaccount_status_sync_server 'Synctsjinner'>
+<!ENTITY fxaccount_status_sync_server 'Syncserver'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ynskeakele'>
 <!ENTITY fxaccount_status_needs_verification2 'Jo account moat ferifiearre wurde. Tik om de ferifikaasje-e-mail opnij te ferstjoeren.'>
@@ -110,8 +110,8 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Net jildich e-mailadres of wachtwurd'>
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Net jildich e-mailadres of wachtwurd'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Account is net ferifiearre'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Tsjinner is dwaande, probearje it letter opnij'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Tsjinner is dwaande, probearje it letter opnij'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server is dwaande, probearje it letter opnij'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server is dwaande, probearje it letter opnij'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Der wie in probleem'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Account is beskoattele. &formatS1;'>
 
