@@ -63,6 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Desactivar la función de navegación segura no se recomienda ya que puede resultar que vayas a sitios peligrosos. Si deseas desactivar la función por completo, sigue estos pasos:">
 <!ENTITY rights.safebrowsing-term1 "Abre las preferencias de la aplicación">
 <!ENTITY rights.safebrowsing-term2 "Selecciona la selección de seguridad">
+<!ENTITY rights2.safebrowsing-term3 "Desmarcar la opción para &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "La navegación segura está desactivada">
 
 <!-- location aware browsing points for branded builds -->
