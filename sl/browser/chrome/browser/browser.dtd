@@ -727,8 +727,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Vklopite sinhronizacijo zavihkov za ogled seznama zavihkov drugih naprav.">
 
+<!ENTITY syncedTabs.context.open.label                       "Odpri">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Odpri v novem zavihku">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "z">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Odpri v novem oknu">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "k">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Odpri v novem zasebnem oknu">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "a">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Dodaj zavihek med zaznamke …">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "D">
+<!ENTITY syncedTabs.context.copy.label                       "Kopiraj">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
