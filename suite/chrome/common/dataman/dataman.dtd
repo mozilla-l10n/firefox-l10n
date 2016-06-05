@@ -9,6 +9,7 @@
 <!ENTITY select.all.label "Tous les types de données">
 <!ENTITY select.cookies.label "Uniquement les cookies">
 <!ENTITY select.permissions.label "Uniquement les permissions">
+<!ENTITY select.permissionspwd.label "Uniquement les permissions des mots de passe">
 <!ENTITY select.preferences.label "Uniquement les préférences">
 <!ENTITY select.passwords.label "Uniquement les mots de passe">
 <!ENTITY select.storage.label "Uniquement le stockage">
@@ -27,6 +28,7 @@
 
 <!ENTITY tab.cookies.label "Cookies">
 <!ENTITY tab.permissions.label "Permissions">
+<!ENTITY tab.permissionspwd.label "Permissions des mots de passe">
 <!ENTITY tab.preferences.label "Préférences">
 <!ENTITY tab.passwords.label "Mots de passe">
 <!ENTITY tab.storage.label "Stockage">
@@ -73,6 +75,15 @@
 <!ENTITY perm.host.placeholder "Saisissez un nom d’hôte">
 <!ENTITY perm.button.add.label "Ajouter">
 <!ENTITY perm.button.add.accesskey "A">
+
+<!-- password permissions -->
+<!ENTITY permpwd.UseDefault "Par défaut">
+<!ENTITY permpwd.AskAlways "Toujours demander">
+<!ENTITY permpwd.NeverSave "Ne jamais enregistrer">
+
+<!ENTITY permpwd.host.placeholder "Saisissez un nom d’hôte">
+<!ENTITY permpwd.button.add.label "Ajouter">
+<!ENTITY permpwd.button.add.accesskey "A">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Les préférences de contenu sont une manière pour &brandShortName; d’enregistrer ses paramètres tels que le niveau de zoom pour un site web en particulier.">
@@ -143,6 +154,8 @@
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Permissions">
 <!ENTITY forget.permissions.accesskey "P">
+<!ENTITY forget.permissionspwd.label "Permissions des mots de passe">
+<!ENTITY forget.permissionspwd.accesskey "r">
 <!ENTITY forget.preferences.label "Préférences de contenu">
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "Mots de passe">
