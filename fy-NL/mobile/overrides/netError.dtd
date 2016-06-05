@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "Dit adres hat in beheinde tagong">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Tsjinner net fûn">
+<!ENTITY dnsNotFound.title "Server net fûn">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "
@@ -112,16 +112,16 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "De proxytsjinner wegeret ferbiningen">
+<!ENTITY proxyConnectFailure.title "De proxyserver wegeret ferbiningen">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Kontrolearje oft jo proxy-ynstellingen goed binne.</li>
-  <li>Nim kontakt op mei jo netwurkbeheerder om te kontrolearjen oft de proxytsjinner
+  <li>Nim kontakt op mei jo netwurkbeheerder om te kontrolearjen oft de proxyserver
     wurket.</li>
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Kin de proxytsjinner net fine">
+<!ENTITY proxyResolveFailure.title "Kin de proxyserver net fine">
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Kontrolearje de proxyynstellingen om wis te wêzen dat se korrekt binne.</li>
@@ -139,12 +139,12 @@
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Unferwacht antwurd fan de tsjinner">
+<!ENTITY unknownSocketType.title "Unferwacht antwurd fan de server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Soargje derfoar dat de persoanlike befeiligingsbehearder op jo systeem
     ynstallearre is.</li>
-  <li>Dit kin it gefolch wêze fan in net-standert konfiguraasje fan de tsjinner.</li>
+  <li>Dit kin it gefolch wêze fan in net-standert konfiguraasje fan de server.</li>
 </ul>
 ">
 
@@ -159,8 +159,8 @@
 <!ENTITY nssBadCert.title "Feilige Ferbining Mislearre">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-<li>Dit koe in probleem wêze mei de konfiguraasje fan de tsjinner, of it kin iets wêze wat probeart de tsjinner as in oar foar te dwaan.</li>
-<li>As jo earder al súksesfol ferbining hân hawwe mei dizze tsjinner, kin de flater tydlik wêze en kinne jo it letter nochris probearje.</li>
+<li>Dit koe in probleem wêze mei de konfiguraasje fan de server, of it kin iets wêze wat probeart de server as in oar foar te dwaan.</li>
+<li>As jo earder al súksesfol ferbining hân hawwe mei dizze server, kin de flater tydlik wêze en kinne jo it letter nochris probearje.</li>
 </ul>
 ">
 
@@ -190,7 +190,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>Jo kinne better gjin útsûndering tafoegje as jo in ynternetferbining hawwe dy't jo net folslein fertrouwe, of as it net normaal is dat jo in warskôging sjogge foar dizze tsjinner.</p>
+<p>Jo kinne better gjin útsûndering tafoegje as jo in ynternetferbining hawwe dy't jo net folslein fertrouwe, of as it net normaal is dat jo in warskôging sjogge foar dizze server.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
