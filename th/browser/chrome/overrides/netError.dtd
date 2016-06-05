@@ -89,7 +89,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "เพิ่มข้อยกเว้น…">
 
-<!ENTITY errorReporting.automatic2 "รายงานข้อผิดพลาดเช่นนี้เพื่อช่วยเหลือ Mozilla ในการชี้ระบุและจำกัดไซต์ที่ประสงค์ร้าย">
+<!ENTITY errorReporting.automatic2 "รายงานข้อผิดพลาดเช่นนี้เพื่อช่วย Mozilla ระบุและปิดกั้นไซต์ที่ประสงค์ร้าย">
 <!ENTITY errorReporting.learnMore "เรียนรู้เพิ่มเติม…">
 
 <!ENTITY remoteXUL.title "XUL ระยะไกล">
@@ -106,7 +106,7 @@ was trying to connect. -->
 <!ENTITY weakCryptoUsed.longDesc2 "ข้อมูลขั้นสูง: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "ขั้นสูง">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ใช้เทคโนโลยีความปลอดภัยที่ล้าสมัยและเสี่ยงต่อการถูกโจมตี ผู้โจมตีสามารถเปิดเผยข้อมูลที่คุณคิดว่าปลอดภัยได้อย่างง่ายดาย">
-<!ENTITY weakCryptoAdvanced.override "(ไม่ปลอดภัย) กำลังโหลด <span class='hostname'></span> ที่ใช้งานการรักษาความปลอดภัยที่ล้าสมัย">
+<!ENTITY weakCryptoAdvanced.override "(ไม่ปลอดภัย) ลองโหลด <span class='hostname'></span> โดยใช้ความปลอดภัยที่ล้าสมัย">
 
 <!ENTITY certerror.pagetitle1  "การเชื่อมต่อไม่ปลอดภัย">
 
