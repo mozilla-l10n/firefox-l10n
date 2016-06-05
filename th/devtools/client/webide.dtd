@@ -38,7 +38,7 @@
 
 <!ENTITY runtimeMenu_showDevicePrefs_label "การตั้งค่าอุปกรณ์">
 
-<!ENTITY runtimeMenu_showSettings_label "การตั้งค่าอุปกรณ์">
+<!ENTITY runtimeMenu_showSettings_label "ตั้งค่าอุปกรณ์">
 
 
 <!ENTITY viewMenu_label "ดู">
@@ -144,6 +144,8 @@
 
 
 <!-- Device Settings -->
+
+<!ENTITY devicesetting_title "ตั้งค่าอุปกรณ์">
 <!ENTITY devicesetting_search "ตั้งค่าการค้นหา">
 
 
