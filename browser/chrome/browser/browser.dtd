@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Otevřít předvolby &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Opětovné připojení k &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Ověřte svůj účet">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; povolen">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; se za chvíli začne synchronizovat.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizovat">
@@ -228,6 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Zobrazit v postranní liště">
 <!ENTITY viewBookmarksToolbar.label         "Zobrazit lištu záložek">
 
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +260,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "S">
 <!ENTITY newUserContext.label             "Nový kontejnerový panel">
 <!ENTITY newUserContext.accesskey         "j">
-<!ENTITY userContextPersonal.label        "Osobní">
-<!ENTITY userContextPersonal.accesskey    "O">
-<!ENTITY userContextWork.label            "Práce">
-<!ENTITY userContextWork.accesskey        "P">
-<!ENTITY userContextBanking.label         "Bankovnictví">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Nakupování">
-<!ENTITY userContextShopping.accesskey    "a">
 <!ENTITY newNavigatorCmd.label        "Nové okno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -560,19 +551,9 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "z">
 <!ENTITY mediaUnmute.label           "Zapnout zvuk">
 <!ENTITY mediaUnmute.accesskey       "z">
-<!ENTITY mediaPlaybackRate.label     "Rychlost přehrávání">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Pomalá (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "P">
-<!ENTITY mediaPlaybackRate100x.label "Normální">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Vysoká (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "V">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Velmi vysoká (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "m">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -680,7 +661,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Zabezpečené připojení">
 <!ENTITY identity.connectionNotSecure "Připojení není zabezpečeno">
 <!ENTITY identity.connectionFile "Tato stránka je uložena ve vašem počítači.">
-<!ENTITY identity.connectionVerified1 "Spojení s tímto serverem je zabezpečené. Jeho provozovatelem je:">
 <!ENTITY identity.connectionInternal "Toto je zabezpečená stránka aplikace &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Přihlašovací údaje zadané na této stránce mohou být vyzrazeny.">
 

@@ -162,8 +162,6 @@ za chvíli.</li>
 <!ENTITY cspBlocked.title "Zablokováno dle bezpečnostních pravidel obsahu">
 <!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila v nahrání této stránky, protože tato stránka má bezpečnostní pravidla, která takovýto způsob nahrání zakazují.</p>">
 
-<!ENTITY corruptedContentError.title "Chyba v obsahu stránky">
-<!ENTITY corruptedContentError.longDesc "<p>Stránka, kterou se snažíte načíst, nemůže být zobrazena, protože přenesená data jsou chybná.</p><ul><li>Kontaktujte prosím vlastníka stránky a informujte ho o tomto problému.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku">
@@ -187,6 +185,9 @@ za chvíli.</li>
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> používá zabezpečení, které je zastaralé a náchylné k útoku. Útočník by mohl snadno odhalit informace, o kterých jste si mysleli, že jsou v bezpečí.">
 <!ENTITY weakCryptoAdvanced.override "(Nezabezpečeno) Zkusí načíst <span class='hostname'></span> pomocí zastaralého zabezpečení">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+
 <!ENTITY certerror.pagetitle1  "Nezabezpečené připojení">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tento server používá HTTP
 Strict Transport Security (HSTS), čímž určuje, že se má &brandShortName; připojovat
@@ -197,3 +198,4 @@ pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifiká
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii která je zastaralá a náchylná k útoku. Útočník může snadno získat informace, které si myslíte, že jsou zabezpečené. Administrátor serveru musí server opravit předtím, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
