@@ -137,8 +137,6 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "ආරක්ෂක ප්‍රතිපත්තියට අනුව අවහිර කර ඇත">
 <!ENTITY cspBlocked.longDesc "<p>මේ සඳහා ඉඩ නොදෙන අන්තර්ගත ආරක්ෂක ප්‍රතිපත්තියක් පිටුවේ ඇති නිසා  &brandShortName; මේ ආකාරයෙන් පූරණය කිරීමෙන් වැලකී සිටී.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "හැරදැමීමක් එක් කරන්න…">
@@ -161,9 +159,13 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "සංකීර්ණ">
 <!ENTITY weakCryptoAdvanced.override "(අනාරක්ශිතයි) යල්පැනගිය ආරක්ශණයක් මගින් <span class='hostname'></span> පූර්ණයට උත්සහ කරන්න">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+
 <!ENTITY certerror.pagetitle1  "අනාරක්ෂිත සම්බන්ධයක්">
 <!ENTITY certerror.copyToClipboard.label "පෙළ පසුරු පුවරුවට පිටපත් කරන්න">
 
 <!ENTITY inadequateSecurityError.title "ඔබේ සබඳතාවය අනාරක්ෂිතයි">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

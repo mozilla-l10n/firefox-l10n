@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "යාවත්කාලීන සඳහා ස්වයංක්‍රීයව පරීක්ෂා නොකරන්න (අනතුරුදායනවබ බව වැඩිකරයන නිසා නිර්දේශ නොකරයි)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "මෙය මගේ ඇඩෝන කිසිවක් හෝ අබල කරයි නම් මට අනතුරු අඟවන්න">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "යාවත්කාලීන අතීතය පෙන්වන්න">
 <!ENTITY updateHistory.accesskey         "p">
 
