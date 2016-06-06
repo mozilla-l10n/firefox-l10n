@@ -104,8 +104,6 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Bloquiáu pola política de seguridá de conteníu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina se cargue d'esta forma porque la páxina tien una política de seguridá de conteníu que nun lo permite.</p>">
 
-<!ENTITY corruptedContentError.title "Fallu de corrupción del conteníu">
-<!ENTITY corruptedContentError.longDesc "<p>Nun pue amosase la páxina que tas intentando ver, porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Por favor, contauta col propietariu de la web pa informá-y d'esti problema.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Amestar esceición…">
@@ -129,6 +127,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa teunoloxía de seguranza obsoleta y vulnerable p'atacar. Un atacante pue revelar, de mou mui cenciellu, información que se pensaba que taba segura.">
 <!ENTITY weakCryptoAdvanced.override "(Non seguro) Tratando de cargar <span class='hostname'></span> usando seguridá obsoleta">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+
 <!ENTITY certerror.pagetitle1  "Conexón insegura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Esti sitiu usa HTTP Strict Transport Security (HSTS) pa especificar que &brandShortName; namái se coneuta a él de mou seguru. Como resultáu, nun ye dable amestar una esceición pa esti certificáu.">
 <!ENTITY certerror.copyToClipboard.label "Copiar testu al cartafueyu">
@@ -137,3 +138,4 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>usa teunoloxía de seguranza obsoleta y vulnerable a ataques. Un atacante pue, de mou cenciellu, revelar información que pensabes que taba a salvu. L'alministrador del sitiu web tendría d'iguar el sirvidor enantes de que puedas visitar esti sitiu.</p><p>Códigu de fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
