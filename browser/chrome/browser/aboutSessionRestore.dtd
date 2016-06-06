@@ -49,9 +49,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "अपने अन्य टैब समूह को विस्थापित करे">
-
+<!ENTITY tabgroupsmigration.pagetitle2          "हमने टैब समूह को हटा दिया, लेकिन आपके टैब को सहेजा गया">
 <!ENTITY tabgroupsmigration.learnaboutaddons    "टैब समूह प्रतिस्थापन ऐड ऑन्स के बारे में जानें.">
-
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; ने आपके सारे ग्रुप को पुस्तचिह्न्नित कर लिया इसलिए आपने कुछ नहीं खोया हैं.">
 <!ENTITY tabgroupsmigration.bookmarkbutton      "टैब समूह पुस्तचिह्न दिखाएँ">
 <!ENTITY tabgroupsmigration.restoredescription  "आप अब विंडोज में कुछ या सभी पृष्ठभूमि समूहों का पुनः निर्माण करने के लिए भी चुन सकते हैं:">
 
