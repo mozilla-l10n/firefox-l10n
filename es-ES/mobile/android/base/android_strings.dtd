@@ -24,9 +24,6 @@
 <!ENTITY firstrun_tabqueue_subtext_off "Guarde enlaces para más tarde en &brandShortName; al tocar sobre ellos en otras aplicaciones.">
 <!ENTITY firstrun_tabqueue_message_on "¡Éxito!">
 <!ENTITY firstrun_tabqueue_subtext_on "Siempre puede desactivar esto en &settings; bajo &pref_category_general;.">
-<!ENTITY firstrun_notifications_title "Blogs">
-<!ENTITY firstrun_notifications_message "Seguir informado">
-<!ENTITY firstrun_notifications_subtext "Ser informado cuando los blogs que tiene en marcadores publican una actualización.">
 <!ENTITY firstrun_readerview_title "Artículos">
 <!ENTITY firstrun_readerview_message "Soltar lastre">
 <!ENTITY firstrun_readerview_subtext "Use la vista de lectura para hacer los artículos más cómodos de leer \u2014 incluso sin conexión.">
