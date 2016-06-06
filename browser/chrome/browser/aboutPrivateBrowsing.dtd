@@ -6,7 +6,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-
 <!ENTITY privateBrowsing.title                           "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ">
 <!ENTITY privateBrowsing.title.tracking                  "Private Browsing with Tracking Protection">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "When you browse in a Private Window, Firefox ">
