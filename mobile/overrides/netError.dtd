@@ -92,7 +92,6 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 
 
-<!ENTITY corruptedContentError.title "Error de contenido corrupto">
 
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sácame de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Añadir excepción…">
