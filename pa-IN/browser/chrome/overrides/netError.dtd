@@ -162,6 +162,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "ਛੋਟ ਸ਼ਾਮਲ">
+
 <!ENTITY errorReporting.automatic2 "ਇੰਜ ਦੀਆਂ ਸਮੱਸਿਆਵਾਂ ਦੀ ਜਾਣਕਾਰੀ ਦੇਣ ਨਾਲ Mozilla ਖ਼ਤਰਨਾਕ ਸਾਈਟਾਂ ਦੀ ਪਛਾਣ ਕਰਦਾ ਅਤੇ ਉਹਨਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦਾ ਹੈ।">
 <!ENTITY errorReporting.learnMore "…ਹੋਰ ਜਾਣੋ">
 
@@ -169,7 +170,6 @@ was trying to connect. -->
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ਇਹ ਸਮੱਸਿਆ ਦੀ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਵੈਬਸਾਈਟ ਦੇ ਮਾਲਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।</li></ul></p>">
 
 <!ENTITY sslv3Used.title "ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ਤਕਨੀਕੀ ਜਾਣਕਾਰੀ: SSL_ERROR_UNSUPPORTED_VERSION">
