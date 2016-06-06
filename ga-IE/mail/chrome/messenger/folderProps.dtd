@@ -33,7 +33,7 @@
 <!ENTITY retentionApplyToFlagged.label "Coimeád teachtaireachtaí marcáilte i gcónaí">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderSynchronizationTab.label          "Sioncrónú">
+<!ENTITY folderSynchronizationTab.label          "Sioncronú">
 <!ENTITY folderCheckForNewMessages2.label         "Seiceáil an fillteán seo i gcónaí agus teachtaireachtaí nua á bhfáil don chuntas seo">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
