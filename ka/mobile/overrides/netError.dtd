@@ -181,8 +181,6 @@
 <!ENTITY cspBlocked.title "დაბლოკილია, შიგთავსის უსაფრთხოების დებულების შესაბამისად.">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;-მა შეზღუდა გვერდის ჩატვირთვა, რადგან შეიცავს შიგთავსს, რომელიც მიუღებელია უსაფრთხოების დებულების შესაბამისად.</p>">
 
-<!ENTITY corruptedContentError.title "დაზიანებული შიგთავსის შეცდომა">
-<!ENTITY corruptedContentError.longDesc "<p>გვერდი, რომლის ჩვენებაც გსურთ, არ აისახება შეცდომის გამო მონაცემთა გადატანისას.</p><ul><li>გთხოვთ მიმართოთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ.</li></ul>">
 
 <!ENTITY securityOverride.linkText "ან გამონაკლისის დამატება შეგიძლიათ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "გამაშორე აქაურობას!">
