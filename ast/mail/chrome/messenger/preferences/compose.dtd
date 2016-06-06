@@ -26,8 +26,6 @@
 <!ENTITY bgColor.accesskey                    "C">
 <!ENTITY restoreHTMLDefaults.label            "Restaurar valores por omisión">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
-<!ENTITY enterKeyCreatesNewParagraph.label    "Al usar el formatu de párrafu, la tecla Enter crea un párrafu nuevu">
-<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 
 <!ENTITY spellCheck.label                     "Comprobar la ortografía enantes d'unviar">
 <!ENTITY spellCheck.accesskey                 "C">

@@ -168,8 +168,6 @@
 <!ENTITY cspBlocked.title "Bloquiáu pola política de seguranza de conteníu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina cargue d'esti mou porque tien una política de seguranza de conteníu que nun lo permite.</p>">
 
-<!ENTITY corruptedContentError.title "Fallu por conteníu corruptu">
-<!ENTITY corruptedContentError.longDesc "<p>El conteníu que tas intentando ver nun pue amosase porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Por favor, contauta colos propietarios pa informa-yos d'esti problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O pues amestar una esceición…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sacáime d'equí!">
@@ -189,3 +187,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "XUL remotu">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
