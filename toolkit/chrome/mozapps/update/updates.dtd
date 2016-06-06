@@ -31,26 +31,10 @@
                                            ეს ცნობა აღარ გამოჩნდება, მაგრამ თქვენ შეგიძლიათ">
 <!ENTITY  unsupportedLink.label           "გაიგოთ მეტი.">
 
-<!ENTITY  incompatibleCheck.title         "პაკეტის თავსებადობის შემოწმება">
-<!ENTITY  incompatibleCheck.label         "თქვენი დამატებების ახალი ვერსიების მოძიება…">
-
 <!ENTITY  clickHere.label                 "ამ განახლების შესახებ დამატებითი ინფორმაციის ნახვა">
 
 <!ENTITY  evangelism.desc                 "მკაცრად რეკომენდებულია,რომ &brandShortName; 
 რაც შეიძლება სწრაფად განაახლოთ.">
-
-<!ENTITY  license.instructions            "თუ შეთანხმების პირობებს ეთანხმებით, განახლების ჩადგმის 
-გასაგრძელებლად დაწკაპეთ - ვეთანხმები.">
-
-<!ENTITY  license.titleText               "პროგრამის სალიცენზიო შეთანხმება">
-<!ENTITY  license.introText               "ამ პროგრამის გამოყენების პირობები.">
-<!ENTITY  license.instructionText         "გთხოვთ გაეცნოთ სალიცენზიო შეთანხმებას. გამოიყენეთ ცოცია სალიცენზიო შეთანხმების სრულად საჩვენებლად.">
-<!ENTITY  license.accept                  "ვიღებ სალიცენზიო შეთანხმების პირობებს">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "არ ვიღებ სალიცენზიო შეთანხმების პირობებს">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "მოიძებნა არათავსებადი პაკეტი">
 
 <!ENTITY  downloadPage.title              "&brandShortName; იტვირთება">
 <!ENTITY  downloading.intro               "განახლება იტვირთება…">
@@ -91,10 +75,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "განახლება ჩაიდგმება &brandShortName; შემდეგ სეანსზე. შეგიძლიათ დახუროთ და ხელახლა 
 გახსნათ &brandShortName; ან გააგრძელოთ მუშაობა და გააკეთოთ ეს მოგვიანებით.">
-
-<!ENTITY  installed.title                 "განახლება ჩაიდგა">
-<!ENTITY  installed.intro                 "განახლება წარმატებით ჩაიდგა.">
-<!ENTITY  whatsnew.label                  "დამატებითი მონაცემები სიახლეების შესახებ…">
 
 <!ENTITY  update.details.label            "დეტალები">
 <!ENTITY  update.installedOn.label        "ჩაიდგა:">

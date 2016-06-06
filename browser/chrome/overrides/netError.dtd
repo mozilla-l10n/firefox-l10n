@@ -138,8 +138,6 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "დაბლოკილია, შიგთავსის უსაფრთხოების დებულების შესაბამისად.">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;-მა შეზღუდა გვერდის ჩატვირთვა, რადგან შეიცავს შიგთავსს, რომელიც მიუღებელია უსაფრთხოების დებულების შესაბამისად.</p>">
 
-<!ENTITY corruptedContentError.title "შეცდომა შიგთავსი დაზიანებულია">
-<!ENTITY corruptedContentError.longDesc "<p>გვერდის ჩვენება, რომლის ნახვაც გსურთ, ვერ მოხერხდება მონაცემთა გადაცემისას აღმოჩენილი შეცდომის გამო.</p><ul><li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და შეატყობინეთ ხარვეზის შესახებ.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "გამონაკლისის დამატება…">
@@ -163,6 +161,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>გამოყენებული უსაფრთხოების ტექნოლოგია მოძველებული და დაუცველია შეტევებისგან. თავდამსხმელს ადვილად შეეძლება მნიშვნელოვანი ინფორმაციის ნახვა.">
 <!ENTITY weakCryptoAdvanced.override "(სახიფათოა) სცადეთ ჩატვირთვა <span class='hostname'></span> მოძველებული უსაფრთხოების გამოყენებით.">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+
 <!ENTITY certerror.pagetitle1  "დაუცველი კავშირი">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ეს საიტი HTTP-ს იყენებს 
 Strict Transport Security (HSTS) რათა მიუთითოთ, რომ &brandShortName; დაუკავშირდეს მხოლოდ 
@@ -174,3 +175,4 @@ Strict Transport Security (HSTS) რათა მიუთითოთ, რო�
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს დაცვის ტექნოლოგიას, რომელიც მოძველებული და მარტივად შესატევია. თავდამსხმელმა შესაძლოა მარტივად იხილოს ის ინფორმაცია, რომელიც უსაფრთხო გეგონათ. სანამ საიტზე შეხვალთ, აუცილებელია მისმა ადმინისტრატორმა ეს შეცდომა მოაგვაროს.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+

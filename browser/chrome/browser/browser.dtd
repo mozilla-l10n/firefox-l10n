@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label;-ის პარამეტრების გახსნა">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; - ხელახლა დაკავშირება">
 <!ENTITY fxaUnverified.label "თქვენი ანგარიშის დადასტურება">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ჩართულია">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; ახლავე დაიწყებს სინქრონირებას.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "ჩაკეცვა">
@@ -228,6 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "სანიშნეთა გვერდითი ზოლის ჩვენება">
 <!ENTITY viewBookmarksToolbar.label         "სანიშნეთა ხელსაწყოთა ზოლის ჩვენება">
 
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +260,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "ფ">
 <!ENTITY newUserContext.label             "ახალი სათავსი ჩანართი">
 <!ENTITY newUserContext.accesskey         "ს">
-<!ENTITY userContextPersonal.label        "პირადი">
-<!ENTITY userContextPersonal.accesskey    "პ">
-<!ENTITY userContextWork.label            "სამუშაო">
-<!ENTITY userContextWork.accesskey        "მ">
-<!ENTITY userContextBanking.label         "საბანკო საქმე">
-<!ENTITY userContextBanking.accesskey     "ს">
-<!ENTITY userContextShopping.label        "ვაჭრობა">
-<!ENTITY userContextShopping.accesskey    "ვ">
 <!ENTITY newNavigatorCmd.label        "ახალი ფანჯარა">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ა">
@@ -560,19 +551,9 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ხმის ჩართვა">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate.label     "დაკვრის სიჩქარე">
-<!ENTITY mediaPlaybackRate.accesskey "კ">
-<!ENTITY mediaPlaybackRate050x.label "შენელებული მოძრობა  (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "ბ">
-<!ENTITY mediaPlaybackRate100x.label "ჩვეულებრივი სიჩქარე">
-<!ENTITY mediaPlaybackRate100x.accesskey "ვ">
-<!ENTITY mediaPlaybackRate150x.label "მაღალი სიჩქარე (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "მ">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "უაზრო სიჩქარე (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "უ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -680,7 +661,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "დაცული კავშირი">
 <!ENTITY identity.connectionNotSecure "კავშირი დაუცველია">
 <!ENTITY identity.connectionFile "ეს გვერდი თქვენს კომპიუტერშია შენახული.">
-<!ENTITY identity.connectionVerified1 "თქვენ ამ საიტთან დაცულად ხართ დაკავშირებული, მფლობელი:">
 <!ENTITY identity.connectionInternal "ეს &brandShortName;-ს დაცული გვერდია.">
 <!ENTITY identity.insecureLoginForms2 "ამ გვერდზე შეყვანილი შესვლის ინფორმაცია შესაძლოა რისკის ქვეშ იყოს.">
 
