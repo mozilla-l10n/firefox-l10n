@@ -36,7 +36,6 @@
 <!ENTITY archiveInOtherFolder.label "Otra:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!ENTITY specialFolders.label "Borradores y plantillas">
-<!ENTITY keepDrafts.label "Mantener los borradores de mensajes en:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Carpeta &quot;Borradores&quot; en:">
 <!ENTITY draftsFolderOn.accesskey "d">
@@ -48,4 +47,3 @@
 <!ENTITY templatesFolderOn.accesskey "n">
 <!ENTITY templateInOtherFolder.label "Otro:">
 <!ENTITY templateInOtherFolder.accesskey "r">
-
