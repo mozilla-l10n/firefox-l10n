@@ -244,7 +244,7 @@
 <!ENTITY calendar.context.removeserver.accesskey       "B">
 <!ENTITY calendar.context.unsubscribeserver.label      "Díliostáil ó Fhéilire…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "D">
-<!ENTITY calendar.context.synccalendars.label          "Sioncrónaigh Féilirí">
+<!ENTITY calendar.context.synccalendars.label          "Sioncronaigh Féilirí">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Foilsigh Féilire…">
 <!ENTITY calendar.context.publish.accesskey            "F">
