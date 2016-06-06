@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Avrir las preferenzas da &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconnectar cun &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verifitgar tes conto">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; è activà">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; cumenza immediat a sincronisar.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimar">
@@ -224,6 +222,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Mussar la trav laterala da segnapaginas">
 <!ENTITY viewBookmarksToolbar.label         "Mussar la trav d'utensils da segnapaginas">
 
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -257,14 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Nov tab da container">
 <!ENTITY newUserContext.accesskey         "C">
-<!ENTITY userContextPersonal.label        "Privat">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Fatschenta">
-<!ENTITY userContextWork.accesskey        "t">
-<!ENTITY userContextBanking.label         "Banca">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Far cumpras">
-<!ENTITY userContextShopping.accesskey    "c">
 <!ENTITY newNavigatorCmd.label        "Nova fanestra">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -551,19 +542,9 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Cun tun">
 <!ENTITY mediaUnmute.accesskey       "C">
-<!ENTITY mediaPlaybackRate.label     "Tempo da far ir">
-<!ENTITY mediaPlaybackRate.accesskey "m">
-<!ENTITY mediaPlaybackRate050x.label "Sveltezza bassa (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "p">
-<!ENTITY mediaPlaybackRate100x.label "Sveltezza normala">
-<!ENTITY mediaPlaybackRate100x.accesskey "n">
-<!ENTITY mediaPlaybackRate150x.label "Sveltezza auta (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "a">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Sveltezza immensa (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "i">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -671,7 +652,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Connexiun segirada">
 <!ENTITY identity.connectionNotSecure "Questa connexiun n'è betg segirada">
 <!ENTITY identity.connectionFile "Questa pagina è memorisada sin tes computer.">
-<!ENTITY identity.connectionVerified1 "Ti es collià a moda segira cun questa pagina, administrada da:">
 <!ENTITY identity.connectionInternal "Quai è ina pagina segira da &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Infurmaziuns d'annunzia endatadas sin questa pagina èn eventualmain periclitadas.">
 
