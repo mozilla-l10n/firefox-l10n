@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Esiet sveicināti">
-<!ENTITY  onboard_start_message3 "Pārlūkot ar &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Iegūstiet pilnu kontroli pār to kā sērfojat internetā.">
 
 <!ENTITY firstrun_urlbar_message "Laipni lūgti &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Atrodiet lietas ātrāk ar noderīgiem meklēšanas ieteikumu īsceļiem.">
@@ -22,18 +20,19 @@
 <!ENTITY  onboard_start_button_browser "Sākt pārlūkošanu">
 <!ENTITY firstrun_button_next "Nākamā">
 
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
 <!ENTITY  onboard_start_restricted1 "Kontrolējiet situāciju un esiet drošībā ar šo vienkāršoto &brandShortName; versiju.">
 
-<!ENTITY  reading_list_migration_title "Lasīšanas saraksts ir pievienots">
-<!ENTITY  reading_list_migration_subtext "Jūsu lasīšanas saraksta vienības tiks pievienotas grāmatzīmēm">
-<!ENTITY  reading_list_migration_goto_bookmarks "Iet uz grāmatzīmēm">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Jūsu grāmatzīmju panelis ir paslēpts">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-
 <!ENTITY  bookmarks_title "Grāmatzīmes">
 <!ENTITY  history_title "Vēsture">
-<!ENTITY  reading_list_title "Lasīšanas saraksts">
 <!ENTITY  recent_tabs_title "Nesenās cilnes">
 
 <!ENTITY  switch_to_tab "Pāriet uz cilni">
@@ -69,6 +68,9 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Ekrānattēli">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Lasīšanas saraksts">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
 
 <!ENTITY reader_saved_offline "Saglabāts nesaistei">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -114,35 +116,35 @@
 <!ENTITY settings_title "Iestatījumi">
 <!ENTITY pref_category_general "Vispārīgi">
 <!ENTITY pref_category_general_summary3 "Mājas, valoda, cilņu saraksts">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
 <!ENTITY pref_category_language "Valoda">
 <!ENTITY pref_category_language_summary "Mainiet pārlūka valodu">
 <!ENTITY pref_browser_locale "Pārlūka valoda">
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-
 <!ENTITY locale_system_default "Sistēmas noklusētā">
+
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-
 <!ENTITY overlay_share_label "Pievienot &brandShortName;">
+
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
 <!ENTITY overlay_share_bookmark_btn_label "Grāmatzīme">
 <!ENTITY overlay_share_bookmark_btn_label_already "Jau atzīmēta grāmatzīmēs">
 <!ENTITY overlay_share_send_other "Sūtīt uz citām ierīcēm">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "Sūtīt uz citu ierīci">
 <!ENTITY overlay_share_no_url "Saite nav atrasta">
 <!ENTITY overlay_share_select_device "Izvēlieties ierīci">
@@ -174,6 +176,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Padoms: Pievienojiet jebkuru lapu meklētājiem, ilgāku laiku paturot pirkstu uz tās meklēšanas lauka un tad piespiežot &formatI; iconu.">
 <!ENTITY pref_category_advanced "Papildus">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Atjaunošanas cilnes, datu taupītājs, izstrādātāju rīki">
 <!ENTITY pref_category_notifications "Paziņojumi">
 <!ENTITY pref_category_notifications_summary "Jaunas funkcijas, mājas lapu ziņas">
@@ -209,8 +214,8 @@
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
 <!ENTITY home_homepage_hint_user_address "Ievadiet adresi vai meklējamo frāzi">
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Vispārīgi">
 <!ENTITY pref_header_search "Meklēt">
 <!ENTITY pref_header_privacy_short "Privātums">
@@ -225,6 +230,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktivētas, izņemot 3. pušu">
 <!ENTITY pref_cookies_disabled "Deaktivētas">
 
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_data_saver "Datu taupīšana">
 <!ENTITY pref_category_media "Mediji">
 <!ENTITY pref_category_developer_tools "Izstrādātāju rīki">
@@ -276,9 +284,9 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 cilne gaida">
+
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-
 <!ENTITY tab_queue_notification_settings "Lai \&quot;Atvērtu vairākas cilnes\&quot;, ieslēdziet \u0027Zīmēt pa virsu citām aplikācijām\u0027 atļauju &brandShortName; ">
 
 <!ENTITY content_notification_summary "&brandShortName;">
@@ -287,7 +295,10 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; lapas atjauninātas">
-<!ENTITY content_notification_action_settings "Paziņojumu iestatījums">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -323,9 +334,9 @@ same character/combination is used to increase the preview font size. It should 
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
 <!ENTITY pref_font_size_adjust_char "A">
+
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-
 <!ENTITY pref_font_size_preview_text "Mazā oranžā lapsa pārlēca pāri glāžšķūņa rūķeļiem ātrāk, veiklāk un drošāk. Kā bezpeļņas organizācija, mēs atļaujamies inovēt bez kompromisiem. Tas nozīmē patīkamāku pārlūkošanu jums un gaišāku nākotni tīmeklim.">
 
 <!ENTITY pref_media_autoplay_enabled "Atļaut video palaišanu">
@@ -380,13 +391,13 @@ size. -->
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-
 <!ENTITY datareporting_fhr_title "&brandShortName; stāvokļa ziņojums">
 <!ENTITY datareporting_fhr_summary2 "Dod &vendorShortName; informāciju par pārlūka stāvokli un palīdz jums izprast pārlūka veiktspēju">
 <!ENTITY datareporting_abouthr_title "Aplūkot manu stāvokļa ziņojumu">
@@ -405,8 +416,8 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "Tikai pa Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nekad">
 <!ENTITY pref_update_autodownload_always "Vienmēr">
-<!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Palīdzība">
 
 <!ENTITY quit "Iziet">
@@ -434,16 +445,16 @@ size. -->
 <!ENTITY set_image_fail "Neizdevās iestatīt attēlu">
 <!ENTITY set_image_path_fail "Neizdevās saglabāt attēlu">
 <!ENTITY set_image_chooser_title "Iestatīt attēlu kā">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY find_text "Meklēt lapā">
 <!ENTITY find_prev "Iepriekšējā">
 <!ENTITY find_next "Turpināt">
 <!ENTITY find_close "Aizvērt">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY media_sending_to "Sending to Device">
 <!ENTITY media_play "Play">
 <!ENTITY media_pause "Pause">
@@ -464,10 +475,10 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Piespraust lapu">
 <!ENTITY contextmenu_top_sites_unpin "Izņemt lapu">
 <!ENTITY contextmenu_add_search_engine "Pievienot meklētāju">
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
 <!ENTITY doorhanger_login_no_username "[Nav lietotājvārda]">
 <!ENTITY doorhanger_login_edit_title "Rediģēt lietotājvārdu">
 <!ENTITY doorhanger_login_edit_username_hint "Lietotājvārds">
@@ -479,38 +490,38 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy_error "Nevarēja nokopēt paroli">
 <!ENTITY doorhanger_login_select_action_text "Izvēlieties citu lietotājvārdu">
 <!ENTITY doorhanger_login_select_title "Kopēt paroli no">
+
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-
 <!ENTITY pref_magnifying_glass_enabled "Palielināt mazus apgabalus">
 <!ENTITY pref_magnifying_glass_enabled_summary2 "Palielināt saites un formu laukus, ka pieskaras to tuvumā">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
 <!ENTITY pref_scroll_title_bar2 "Pārlūkot pilnekrānā">
 <!ENTITY pref_scroll_title_bar_summary2 "Paslēpt &brandShortName; rīkjoslu ritinot lapas">
 
 <!ENTITY pref_tab_queue_title3 "Cilņu rinda">
 <!ENTITY pref_tab_queue_summary4 "Saglabāt saites līdz nākamai reizei, kad atvērsiet &brandShortName;">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-
 <!ENTITY page_removed "Lapa aizvākta">
 
 <!ENTITY bookmark_edit_title "Grāmatzīmes rediģēšana">
 <!ENTITY bookmark_edit_name "Nosaukums">
 <!ENTITY bookmark_edit_location "Adrese">
 <!ENTITY bookmark_edit_keyword "Atslēgvārdi">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
 <!ENTITY site_settings_title3       "Lapas iestatījumi">
 <!ENTITY site_settings_cancel       "Atcelt">
 <!ENTITY site_settings_clear        "Notīrīt">
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-
 <!ENTITY page_action_dropmarker_description "Papildu darbības">
 
 <!ENTITY masterpassword_create_title "Izveidot galveno paroli">
@@ -531,13 +542,14 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Pievienot lapu">
+
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
 <!ENTITY home_title "&brandShortName; sākumlapa">
 <!ENTITY home_history_title "Vēsture">
 <!ENTITY home_synced_devices_smartfolder "Sinhronizētās ierīces">
 <!ENTITY home_synced_devices_number "&formatD; ierīces">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_history_back_to2 "Atpakaļ uz pilnu vēsturi">
 <!ENTITY home_clear_history_button "Notīrīt pārlūkošanas vēsturi">
 <!ENTITY home_clear_history_confirm "Vai tiešām vēlaties notīrīt pārlūkošanas vēsturi?">
@@ -550,19 +562,19 @@ size. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Khmm: izmantojot &formatS1;Jauna privātā cilve&formatS2; netiks saglabāta pārlūkošanas vēsture.">
+
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-
 <!ENTITY home_default_empty "Šim panelim neizdevās atrast saturu.">
+
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
 <!ENTITY home_move_back_to_filter "Atpakaļ uz &formatS;">
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; slēptas ierīces">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -581,8 +593,8 @@ size. -->
 <!ENTITY filepicker_audio_title "Izvēlieties vai ierakstiet skaņu">
 <!ENTITY filepicker_image_title "Izvēlieties vai uzņemiet attēlu">
 <!ENTITY filepicker_video_title "Izvēlieties vai ierakstiet video">
-<!-- Site identity popup -->
 
+<!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ir savienojums ar">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -599,21 +611,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Nedrošs savienojums">
 <!ENTITY identity_login_insecure "Šī lapa nav droša un jūsu pieteikšanās dati var būt ievainojami.">
 <!ENTITY identity_connection_chromeui "Šī ir droša &brandShortName; lapa">
-<!-- Mixed content notifications in site identity popup -->
 
+<!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; bloķēja nedrošo saturu šajā lapā.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; bloķēja daļu nedrošā satura šajā lapā.">
 <!ENTITY mixed_content_display_loaded1 "Šīs lapas daļas (piemēram attēli) nav drošai.">
 <!ENTITY mixed_content_protection_disabled1 "Nedrošu elementu aizsardzība ir deaktivēta.">
-<!-- Tracking content notifications in site identity popup -->
 
+<!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Izsekošanas aizsardzība">
 <!ENTITY doorhanger_tracking_state_enabled "Aktivizēta">
 <!ENTITY doorhanger_tracking_state_disabled "Deaktivēta">
 <!ENTITY doorhanger_tracking_message_enabled1 "Mēģinājumi izsekot jūsu aktivitātēm internetā tika bloķēti.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Šajā lapā ir elementi, kas var izsekot jūsu aktivitātēm internetā.">
-<!-- Common mixed and tracking content strings in site identity popup -->
 
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Uzzināt vairāk">
 <!ENTITY enable_protection "Aktivēt aizsardzību">
 <!ENTITY disable_protection "Deaktivēt aizsardzību">
@@ -635,15 +647,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
 <!ENTITY search_bar_item_desc "Meklet ar &formatS;">
+
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-
 <!ENTITY suggestion_for_engine "Meklē &formatS1; frāzi &formatS2;">
 
 <!ENTITY searchable_description "Grāmatzīmes un vēsture">
-<!-- Updater notifications --> 
 
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Ir pieejams &brandShortName; atjauninājums">
 <!ENTITY updater_start_select2 "Pieskarieties, lai lejupielādētu">
 
@@ -654,15 +666,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Ir pieejams &brandShortName; atjauninājums">
 <!ENTITY updater_apply_select2 "Pieskarieties te, lai atjauninātu">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-
 <!ENTITY updater_permission_text "Lai lejupielādētu failus un atjauninājumus atļaujiet &brandShortName; piekļūt ierīces glabātuvei.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Atļaut">
-<!-- Guest mode -->    
 
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "Jauna viesa sesija">
 <!ENTITY exit_guest_session "Iziet no viesa sesijas">
 <!ENTITY guest_session_dialog_continue "Turpināt">
@@ -674,45 +686,45 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; tagad pārstartēsies">
 <!ENTITY exit_guest_session_text "Šīs sesijas pārlūkošanas dati tiks izdzēsti.">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
-
 <!ENTITY percent "&formatS;&#037;&#037;">
+
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
 <!ENTITY actionbar_menu "Izvēlne">
 <!ENTITY actionbar_done "Darīts">
-<!-- Voice search in the awesome bar -->
 
+<!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Runājiet">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-
 <!ENTITY remote_tabs_last_synced "Pēdējā sinhronizācija: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Sinhronizēšana nekad nav veikta">
+
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-
 <!ENTITY intent_uri_private_browsing_prompt "Saite atvērsies &formatS;. Vai tiešām aiziet no privātās pārlūkošanas režīma?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -722,18 +734,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      unpolished when this string is longer than one line so ideally keep it
      short! -->
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Iziet no privātās pārlūkošanas režīma?">
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-
 <!ENTITY devtools_auth_scan_header "Skanējamais QR kods tiek rādīs jūsu ierīcē">
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
 <!ENTITY restrictable_feature_addons_installation "Papildinājumi">
 <!ENTITY restrictable_feature_addons_installation_description "Pievienojiet papildu iespējas Firefox. Piezīme: Papildinājumi var deaktivēt noteiktus ierobežojumus.">
 <!ENTITY restrictable_feature_private_browsing "Privātā pārlūkošana">
@@ -746,9 +758,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone_description "Ļauj ģimenes locekļiem iesaistīties reālā laika sarunās apmeklētajās lapās.">
 <!ENTITY restrictable_feature_block_list "Bloķēšanas saraksts">
 <!ENTITY restrictable_feature_block_list_description "Bloķēt mājas lapas, kas satur sensitīvu saturu">
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-
 <!ENTITY bookmarks_about_browser "Firefox: Par pārlūku">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: Pielāgot ar papildinājumiem">
@@ -758,17 +770,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_restricted_support2 "Firefox atbalsts un palīdzība Android planšetdatoru aizsargātajiem profiliem">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Apgūstiet tīmekli: Mozilla Webmaker">
+
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-
 <!ENTITY unsupported_sdk_version "Atvainojiet! Šī &brandShortName; nestrādās šajā ierīcē (&formatS1;, &formatS2;). Lūdzu lejupielādējiet pareizo versiju.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; vairs neatjaunināsies">
 <!ENTITY eol_notification_summary "Gribat zināt vairāk">
+
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-
 <!ENTITY whatsnew_notification_title "&brandShortName; ir jaunākā versija">
 <!ENTITY whatsnew_notification_summary "Uzziniet, kas šajā versijā ir jauns">
 
@@ -777,3 +789,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_title "Lasīt nesaistē">
 <!ENTITY helper_first_offline_bookmark_message "Atrodiet Lasīšanas skata ierakstus starp grāmatzīmēm arī nesaistē.">
 <!ENTITY helper_first_offline_bookmark_button "Iet uz grāmatzīmēm">
+
+

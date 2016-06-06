@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Neizdevās ielādēt lapu">
 <!ENTITY retry.label "Mēģināt vēlreiz">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nevar pieslēgties">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -80,25 +80,23 @@
 
 <!ENTITY nssBadCert.title "Drošais savienojums neizdevās">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Šī var būt problēma ar servera konfigurāciju vai pazīme, ka par šo serveri uzdodas cits dators.</li> <li>Ja pagātnē esat pieslēdzies šim serverim, problēma var būt īslaicīga. Tad mēģiniet vēlreiz nedaudz vēlāk.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Lapa var būt īslaicīgi nepieejama vai pārāk noslogota, mēģiniet vēlreiz nedaudz vēlāk.</li> <li>Ja nevarat ielādēt nevienu lapu, pārbaudiet ierīces datu vai Wi-Fi savienojumu. <button id='wifi'>Ieslēgt Wi-Fi</button></li> </ul>">
 
 <!ENTITY cspBlocked.title "Satura drošības politikas ierobežojums">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; liedza šīs lapas ielādi, jo tā neatbilst satura drošības politikai.</p>">
 
-<!ENTITY corruptedContentError.title "Bojāta satura kļūda">
-<!ENTITY corruptedContentError.longDesc "<p>Lapu, ko mēģināt aplūkot, nevar attēlot, jo notikusi kļūda datu ielādes laikā.</p><ul><li>Lūdzu, pastāstiet par šo problēmu vietnes īpašniekiem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Vai arī varat pievienot izņēmumu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Vediet mani prom!">
 <!ENTITY securityOverride.exceptionButtonLabel "Pievienot izņēmumu…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Jums nevajadzētu pievienot izņēmumu, ja neizmantojat pilnībā uzticamu interneta savienojumu, vai ja parasti šāds paziņojums par šo serveri neparādās.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
