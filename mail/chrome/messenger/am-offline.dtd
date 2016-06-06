@@ -46,7 +46,7 @@
 
 <!ENTITY allAutosync.label               "Sioncronaigh na teachtaireachtaí go léir go logánta gan cuimhneamh ar aois">
 <!ENTITY allAutosync.accesskey           "c">
-<!ENTITY ageAutosyncBefore.label         "Sioncrónaigh teachtaireachtaí ó na">
+<!ENTITY ageAutosyncBefore.label         "Sioncronaigh teachtaireachtaí ó na">
 <!ENTITY ageAutosync.accesskey           "z">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Lá">
