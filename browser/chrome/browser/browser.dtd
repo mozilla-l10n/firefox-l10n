@@ -815,10 +815,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Roinnfear fuaim ón gcluaisín.">
 <!ENTITY getUserMedia.allWindowsShared.message "Comhroinnfear gach fuinneog infheicthe ar do scáileáin.">
 
-<!ENTITY trackingProtection.title "Cosaint ar Rianú">
-<!ENTITY trackingProtection.detectedBlocked3 "Tá &brandShortName; ag cur baic ar chodanna den leathanach a d'fhéadfadh a bheith ag rianú do chuid brabhsála.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Tá eilimintí ar an suíomh seo a d'fhéadfadh do bhrabhsáil a rianú. Tá cosaint díchumasaithe agat.">
-<!ENTITY trackingProtection.notDetected3 "Níor aimsíodh aon eilimint rianaithe ar an leathanach seo.">
+<!ENTITY trackingProtection.title "Cosaint ar Lorgaireacht">
+<!ENTITY trackingProtection.detectedBlocked3 "Tá &brandShortName; ag cur baic ar chodanna den leathanach a d'fhéadfadh a bheith ag lorg do chuid brabhsála.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Tá eilimintí ar an suíomh seo a d'fhéadfadh do bhrabhsáil a lorg. Tá cosaint díchumasaithe agat.">
+<!ENTITY trackingProtection.notDetected3 "Níor aimsíodh aon eilimint lorgaireachta ar an leathanach seo.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -832,7 +832,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Cumasaigh cosaint">
 <!ENTITY trackingProtection.block2.accesskey "C">
 
-<!ENTITY trackingContentBlocked.message "Lorg">
+<!ENTITY trackingContentBlocked.message "Lorgaireacht">
 <!ENTITY trackingContentBlocked.moreinfo "Cuireadh cosc ar chodanna den leathanach a leanann do chuid ghníomhaíochta ar líne.">
 <!ENTITY trackingContentBlocked.learnMore "Tuilleadh Eolais">
 <!ENTITY trackingContentBlocked.options "Roghanna">
@@ -840,7 +840,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Cumasaigh cosaint">
 <!ENTITY trackingContentBlocked.block.accesskey "C">
-<!ENTITY trackingContentBlocked.disabled.message "Tá cosaint ar lorg díchumasaithe">
+<!ENTITY trackingContentBlocked.disabled.message "Tá cosaint ar lorgaireacht díchumasaithe">
 
 <!ENTITY pointerLock.notification.message "Brúigh ESC am ar bith chun é a thaispeáint arís.">
 
