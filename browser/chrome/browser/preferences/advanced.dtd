@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "不检查更新（不推荐：存在安全风险）">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "如果将禁用任何附加组件，警告我">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "显示更新历史">
 <!ENTITY updateHistory.accesskey         "p">
 

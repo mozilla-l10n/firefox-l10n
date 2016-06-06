@@ -84,8 +84,6 @@
 <!ENTITY cspBlocked.title "由于内容安全策略而被拦截">
 <!ENTITY cspBlocked.longDesc "<p>浏览器阻止了这个页面的载入，因为该页面含有安全政策不允许的内容。</p>">
 
-<!ENTITY corruptedContentError.title "内容损坏错误">
-<!ENTITY corruptedContentError.longDesc "<p>您尝试查看的页面无法显示，因为检测到一个数据传输错误。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
 
 <!ENTITY remoteXUL.title "远程 XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>请联系此网站的管理员并告知此问题。</li></ul></p>">
