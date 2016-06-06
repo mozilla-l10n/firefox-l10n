@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "40em">
 <!ENTITY window.height                "8em">
 
-<!ENTITY doNotTrackCheckbox.label     "Úsáid Ná Lorgtar Mé">
+<!ENTITY doNotTrackCheckbox.label     "Úsáid “Ná Lorgtar Mé”">
 <!ENTITY doNotTrackCheckbox.accesskey "Ú">
 
 <!ENTITY doNotTrackLearnMore.label    "Tuilleadh Eolais">

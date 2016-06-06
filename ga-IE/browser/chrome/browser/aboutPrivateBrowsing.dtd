@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "Brabhsáil Phríobháideach">
-<!ENTITY privateBrowsing.title.tracking                  "Brabhsáil Phríobháideach le Cosaint ar Lorg">
+<!ENTITY privateBrowsing.title.tracking                  "Brabhsáil Phríobháideach le Cosaint ar Lorgaireacht">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Nuair a dhéanann tú brabhsáil i bhFuinneog Phríobháideach, ní shábhálann Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "does not save">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -26,6 +26,6 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Tuilleadh eolais faoi">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Brabhsáil Phríobháideach">
 
-<!ENTITY trackingProtection.title                        "Cosaint ar Rianú">
-<!ENTITY trackingProtection.description2                 "Úsáideann suímh áirithe rianairí a choinníonn súil ar a ndéanann tú ar an nGréasán. Le Cosaint ar Rianú, cuireann Firefox bac ar go leor rianairí a bhailíonn faisnéis faoi d'iompar brabhsála.">
+<!ENTITY trackingProtection.title                        "Cosaint ar Lorgaireacht">
+<!ENTITY trackingProtection.description2                 "Úsáideann suímh áirithe lorgairí a choinníonn súil ar a ndéanann tú ar an nGréasán. Le Cosaint ar Lorgaireacht, cuireann Firefox bac ar go leor lorgairí a bhailíonn faisnéis faoi d'iompar brabhsála.">
 <!ENTITY trackingProtection.startTour1                   "Conas a oibríonn sé">
