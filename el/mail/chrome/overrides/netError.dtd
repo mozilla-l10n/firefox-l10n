@@ -35,6 +35,7 @@
 </ul>
 ">
 
+
 <!ENTITY generic.longDesc "
 <p>Ο &brandShortName; δεν μπορεί να φορτώσει τη σελίδα για κάποιο λόγο.</p>
 ">
@@ -151,24 +152,9 @@
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Ύποπτη σελίδα κακόβουλων επιθέσεων!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Οι ιστοσελίδες επιθέσεων προσπαθούν να εγκαταστήσουν προγράμματα στον υπολογιστή σας τα οποία υποκλέπτουν προσωπικές σας πληροφορίες, χρησιμοποιούν τον υπολογιστή σας για να επιτίθενται σε άλλους υπολογιστές και βλάπτουν το σύστημα σας.</p>
-<p>Οι ιδιοκτήτες των ιστοσελίδων που πιστεύουν ότι η σελίδα τους έχει υποδειχθεί λανθασμένα ως κακόβουλη ιστοσελίδα μπορούν να ζητήσουν <a href='http://www.stopbadware.org/home/reviewinfo' >επανεξέταση</a>.</p>
-">
-
-
-<!ENTITY phishingBlocked.title "Σελίδα ύποπτη για πλαστογραφία!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Η εισαγωγή προσωπικών πληροφοριών σε αυτή τη σελίδα μπορεί να έχει σαν αποτέλεσμα να πέσετε θύμα απάτης.</p>
-<p>Αυτού του είδους οι πλαστογραφίες χρησιμοποιούνται σε απάτες γνωστές και ως phishing attacks, με τις οποίες οι ύποπτες σελίδες και emails προσπαθούν να μιμηθούν έμπιστες σε εσάς πηγές.</p>
-">
-
 <!ENTITY cspBlocked.title "Έχει φραγεί από την πολιτική προστασίας περιεχομένου">
 <!ENTITY cspBlocked.longDesc "<p>Ο &brandShortName; εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν το επιτρέπει.</p>">
 
-<!ENTITY corruptedContentError.title "Σφάλμα κατεστραμμένου περιεχομένου">
-<!ENTITY corruptedContentError.longDesc "<p>Δεν είναι δυνατή η εμφάνιση αυτής της σελίδας επειδή υπήρξε ένα σφάλμα στην μεταγωγή δεδομένων.</p><ul><li>Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για το πρόβλημα.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ή μπορείτε να προσθέσετε μια εξαίρεση...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Να φύγω από εδώ!">
@@ -188,3 +174,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Απομακρυσμένο XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλούμε επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για αυτό το πρόβλημα.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

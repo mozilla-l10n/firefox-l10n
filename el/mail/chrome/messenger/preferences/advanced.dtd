@@ -65,7 +65,5 @@
 <!ENTITY certs.ask                       "Να γίνεται ερώτηση κάθε φορά">
 <!ENTITY certs.ask.accesskey             "γ">
 
-<!ENTITY viewCertificates.label         "Προβολή πιστοποιητικών">
-<!ENTITY viewCertificates.accesskey     "σ">
-<!ENTITY viewSecurityDevices.label      "Συσκευές ασφαλείας">
-<!ENTITY viewSecurityDevices.accesskey  "υ">
+<!ENTITY viewSecurityDevices.label "Συσκευές ασφαλείας">
+<!ENTITY viewSecurityDevices.accesskey "υ">
