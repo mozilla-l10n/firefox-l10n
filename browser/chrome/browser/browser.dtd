@@ -112,8 +112,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Ouvrir les préférences de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Se reconnecter à &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Confirmer votre compte">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activé">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; débutera la synchronisation dans un instant.">
 
 <!ENTITY fullScreenMinimize.tooltip "Réduire">
 <!ENTITY fullScreenRestore.tooltip "Restaurer">
