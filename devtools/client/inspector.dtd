@@ -4,35 +4,25 @@
 <!ENTITY inspectorHTMLEdit.label       "Редагувати як HTML">
 <!ENTITY inspectorHTMLEdit.accesskey   "Р">
 
-<!-- LOCALIZATION NOTE (inspectorHTMLCopyInner.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorCopyInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
-<!ENTITY inspectorHTMLCopyInner.label       "Скопіювати внутрішній HTML">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "н">
 
-<!-- LOCALIZATION NOTE (inspectorHTMLCopyOuter.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
-<!ENTITY inspectorHTMLCopyOuter.label       "Скопіювати зовнішній HTML">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "з">
 
-<!-- LOCALIZATION NOTE (inspectorCopyUniqueSelector.label): This is the label
+<!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
-<!ENTITY inspectorCopyUniqueSelector.label       "Скопіювати унікальний вибір">
-<!ENTITY inspectorCopyUniqueSelector.accesskey   "у">
 
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteOuter.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
-<!ENTITY inspectorHTMLPasteOuter.label      "Вставити зовнішній HTML">
-<!ENTITY inspectorHTMLPasteOuter.accesskey  "В">
 
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
-<!ENTITY inspectorHTMLPasteInner.label      "Вставити внутрішній HTML">
-<!ENTITY inspectorHTMLPasteInner.accesskey  "с">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
@@ -79,14 +69,13 @@
      current node -->
 <!ENTITY inspectorHTMLDelete.label          "Видалити вузол">
 <!ENTITY inspectorHTMLDelete.accesskey      "д">
-<!-- LOCALIZATION NOTE (inspectorAttributeSubmenu.label): This is the label
+
+<!-- LOCALIZATION NOTE (inspectorAttributesSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
      attribute items, which allow to:
      - add new attribute
      - edit attribute
      - remove attribute -->
-<!ENTITY inspectorAttributeSubmenu.label      "Атрибут">
-<!ENTITY inspectorAttributeSubmenu.accesskey  "А">
 
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
@@ -108,21 +97,15 @@
 
 <!ENTITY inspector.selectButton.tooltip     "Вибрати елемент мишею">
 
-<!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
-     the placeholder in inspector search box -->
-<!ENTITY inspectorSearchHTML.label2          "Шукати з селекторами CSS">
-<!ENTITY inspectorSearchHTML.key            "F">
-
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that is
      shown as the placeholder for the markup view search in the inspector. -->
 <!ENTITY inspectorSearchHTML.label3 "Пошук в HTML">
 
-<!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
+<!-- LOCALIZATION NOTE (inspectorImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the URL embedding the image data encoded in Base 64 (what we name
      here Image Data URL). For more information:
      https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
-<!ENTITY inspectorCopyImageDataUri.label       "Копіювати URL даних зображення">
 
 <!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
      shown in the inspector contextual-menu for the item that lets users see
@@ -161,3 +144,21 @@
      DOM (as children of the currently selected element). -->
 <!ENTITY inspectorAddNode.label       "Створити новий вузол">
 <!ENTITY inspectorAddNode.accesskey   "в">
+
+<!-- LOCALIZATION NOTE (inspectorCopyHTMLSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     copy items, which allow to:
+     - Copy Inner HTML
+     - Copy Outer HTML
+     - Copy Unique selector
+     - Copy Image data URI -->
+
+<!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     paste items, which allow to:
+     - Paste Inner HTML
+     - Paste Outer HTML
+     - Before
+     - After
+     - As First Child
+     - As Last Child -->

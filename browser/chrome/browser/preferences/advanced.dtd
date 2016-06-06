@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Не перевіряти оновлення (не рекомендовано: небезпечно)">
 <!ENTITY updateManual.accesskey          "Н">
 
-<!ENTITY updateAutoAddonWarn.label       "Попереджати мене, якщо це вимкне котрийсь з моїх додатків">
-<!ENTITY updateAutoAddonWarn.accesskey   "К">
-
 <!ENTITY updateHistory.label             "Показати журнал оновлень">
 <!ENTITY updateHistory.accesskey         "ж">
 

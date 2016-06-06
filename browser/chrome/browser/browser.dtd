@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Відкрити налаштування синхронізації">
 <!ENTITY fxaSignInError.label "Повторно підключитись до Синхронізації">
 <!ENTITY fxaUnverified.label "Підтвердити свій обліковий запис">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; увімкнена">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; почне синхронізацію негайно.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Згорнути">
@@ -228,6 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Показати панель закладок">
 <!ENTITY viewBookmarksToolbar.label         "Показати панель закладок">
 
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +260,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newUserContext.label             "Нова вкладка в контейнері">
 <!ENTITY newUserContext.accesskey         "к">
-<!ENTITY userContextPersonal.label        "Особистий">
-<!ENTITY userContextPersonal.accesskey    "О">
-<!ENTITY userContextWork.label            "Робочий">
-<!ENTITY userContextWork.accesskey        "Р">
-<!ENTITY userContextBanking.label         "Банківський">
-<!ENTITY userContextBanking.accesskey     "Б">
-<!ENTITY userContextShopping.label        "Покупки">
-<!ENTITY userContextShopping.accesskey    "П">
 <!ENTITY newNavigatorCmd.label        "Нове вікно">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "в">
@@ -560,19 +551,9 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "и">
 <!ENTITY mediaUnmute.label           "Увімкнути звук">
 <!ENTITY mediaUnmute.accesskey       "и">
-<!ENTITY mediaPlaybackRate.label     "Швідкість відтворення">
-<!ENTITY mediaPlaybackRate.accesskey "Ш">
-<!ENTITY mediaPlaybackRate050x.label "Вповільнена швидкість (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "п">
-<!ENTITY mediaPlaybackRate100x.label "Нормальна швидкість">
-<!ENTITY mediaPlaybackRate100x.accesskey "Н">
-<!ENTITY mediaPlaybackRate150x.label "Висока швидкість (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "ш">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Шалена швидкість (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "л">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -680,7 +661,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Захищене з'єднання">
 <!ENTITY identity.connectionNotSecure "Незахищене з'єднання">
 <!ENTITY identity.connectionFile "Ця сторінка збережена на вашому комп'ютері.">
-<!ENTITY identity.connectionVerified1 "Ви підключились до цього сайту через захищене з'єднання, яке керується:">
 <!ENTITY identity.connectionInternal "Це захищена сторінка &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Логіни введені на цій сторінці можуть бути скомпрометовані.">
 
