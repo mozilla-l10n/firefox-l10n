@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Nikoli ne preverjaj posodobitev (ni priporočeno zaradi varnosti)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Obvesti me, ali bo to povzročilo nezdružljivost mojih dodatkov">
-<!ENTITY updateAutoAddonWarn.accesskey   "O">
-
 <!ENTITY updateHistory.label             "Zgodovina posodobitev">
 <!ENTITY updateHistory.accesskey         "Z">
 
