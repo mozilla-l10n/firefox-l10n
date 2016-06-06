@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Dalal-jàmm">
-<!ENTITY  onboard_start_message3 "Joow ak &brandShortName;">
 
 <!ENTITY firstrun_urlbar_message "Dalal-jàmm ci &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Gis mbir yi ci lu gaaw ak ndimbalu dégtalukaayu ceet gi.">
@@ -19,15 +18,19 @@
 <!ENTITY  onboard_start_button_browser "Tàmbalil joow">
 <!ENTITY firstrun_button_next "Toftal">
 
-<!ENTITY  onboard_start_restricted1 "Nekkal ci kaaraange ak bii sumb buñ yombal bu &brandShortName;.">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
-<!ENTITY  reading_list_migration_title "Limub jàng bi lonku">
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+<!ENTITY  onboard_start_restricted1 "Nekkal ci kaaraange ak bii sumb buñ yombal bu &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Màndarga-xët">
 <!ENTITY  history_title "Jaar-jaar">
-<!ENTITY  reading_list_title "Limub jàng">
 <!ENTITY  recent_tabs_title "Làcc yi mujj">
 
 <!ENTITY  switch_to_tab "Dem ci làcc wi">
@@ -63,6 +66,9 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Jàppug xoolu">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Limub jàng">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
 
 <!ENTITY reader_saved_offline "Denc nañ ko ci biti lonkoo">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -156,6 +162,9 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_category_advanced "Advanced">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_summary "Customize your homepage">
@@ -184,6 +193,9 @@
 <!ENTITY pref_cookies_accept_all "Suqaliku">
 <!ENTITY pref_cookies_disabled "Suuxal">
 
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 
 
@@ -211,6 +223,10 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -408,6 +424,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; Home">
 <!ENTITY home_history_title "History">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_clear_history_button "Clear browsing history">
 <!ENTITY home_clear_history_confirm "Are you sure you want to clear your history?">
 <!ENTITY home_bookmarks_empty "Bookmarks you save show up here.">
@@ -597,5 +614,7 @@ dale ko ci Android">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+
 
 

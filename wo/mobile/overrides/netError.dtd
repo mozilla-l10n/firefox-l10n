@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Jumte ci yebum xët wi">
 <!ENTITY retry.label "Jéemaatal">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Jokkoo bi lajj na">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -146,9 +146,9 @@ sampu na ci sa doxalin.</li>
 <li>Su fekkee mës nga jokko ak serwëër bile, mën na am njumte bi du yagg
 mën nga jéemaat ci kanam.</li> 
 </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
@@ -161,17 +161,15 @@ mën nga jéemaat ci kanam.</li>
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
-<!ENTITY corruptedContentError.title "Njumte ci këmb bu sankar">
-<!ENTITY corruptedContentError.longDesc "<p>Xët wi nga bëgg mënul wonewu ndax dafay jëfandikoo xeetu naj bu jagul walla kenn tëggaalewuko.</p><ul><li>Jokkool ak webmaster bu dal bi ngir yëgal ko jafe jafe bi.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Walla mën nga yokk lu kenn tëggaalewul…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Génnal xët wi !">
 <!ENTITY securityOverride.exceptionButtonLabel "Yokk lu kenn tëggaalewul…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Waruloo yokk lu kenn tëggaalewul boo dee jëfandikoo jokkoo internet boo wóoluwul walla boo tammul di jot ay artu ci serwëër bi .</p> 
  
@@ -181,3 +179,11 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL bu sori">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Jokkool ak boroomi dalub web ngir yëgal leen jafe jafe bi.</li></ul></p>">
 
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
