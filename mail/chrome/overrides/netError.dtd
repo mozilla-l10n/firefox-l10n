@@ -167,6 +167,8 @@
 <!ENTITY cspBlocked.title "Blockerad av säkerhetspolicyn för innehåll">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; förhindrade den här sidan från att laddas på detta sätt eftersom sidan har en säkerhetspolicy för innehåll som inte tillåter detta.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Skadat innehållsfel">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Sidan du försöker visa kan inte visas eftersom ett fel i dataöverföringen upptäcktes.</p><ul><li>Kontakta webbplatsens ägare för att informera dem om detta problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Eller så kan du lägga till ett undantag…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ta mig härifrån!">
@@ -187,5 +189,7 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "Extern XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakta ägaren av webbplatsen för att informera dem om detta problem.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Din anslutning är inte säker">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> använder en säkerhetsteknologi som är föråldrad och sårbar för angrepp. En angripare kan lätt avslöja information som du tänkt ska vara säker. Webbplatsens administratör måste rätta till servern innan du kan besöka webbplatsen.</p><p>Felkod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
