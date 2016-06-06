@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "פתיחת ההעדפות של &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "התחברות מחדש אל &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "אימות החשבון שלך">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; מופעל">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; יתחיל בפעולת הסנכרון בתוך מספר רגעים.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "מזער">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "הצגת סרגל הצד">
 <!ENTITY viewBookmarksToolbar.label         "הצגת סרגל הכלים">
 
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -246,14 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "קובץ"> 
 <!ENTITY fileMenu.accesskey       "ק">
-<!ENTITY userContextPersonal.label        "פרטי">
-<!ENTITY userContextPersonal.accesskey    "א">
-<!ENTITY userContextWork.label            "עבודה">
-<!ENTITY userContextWork.accesskey        "ע">
-<!ENTITY userContextBanking.label         "בנקאות">
-<!ENTITY userContextBanking.accesskey     "ב">
-<!ENTITY userContextShopping.label        "קניות">
-<!ENTITY userContextShopping.accesskey    "ק">
 <!ENTITY newNavigatorCmd.label        "חלון חדש">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ח">
@@ -538,19 +529,9 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "ש">
 <!ENTITY mediaUnmute.label           "בטל השתקה">
 <!ENTITY mediaUnmute.accesskey       "ש">
-<!ENTITY mediaPlaybackRate.label     "מהירות ניגון">
-<!ENTITY mediaPlaybackRate.accesskey "מ">
-<!ENTITY mediaPlaybackRate050x.label "תנועה אטית  (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "א">
-<!ENTITY mediaPlaybackRate100x.label "מהירות רגילה">
-<!ENTITY mediaPlaybackRate100x.accesskey "ר">
-<!ENTITY mediaPlaybackRate150x.label "מהירות גבוהה (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "ג">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "מהירות סילון">
-<!ENTITY mediaPlaybackRate200x.accesskey "ס">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -658,7 +639,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "חיבור מאובטח">
 <!ENTITY identity.connectionNotSecure "חיבור זה אינו מאובטח">
 <!ENTITY identity.connectionFile "העמוד הזה מאוחסן במחשב שלך.">
-<!ENTITY identity.connectionVerified1 "כרגע על חיבור מאובטח לאתר זה, המופעל ע״י:">
 <!ENTITY identity.connectionInternal "דף זה הנו דף מאובטח של &brandShortName;.">
 
 <!-- Strings for connection state warnings. -->

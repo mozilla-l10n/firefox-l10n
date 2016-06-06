@@ -4,6 +4,5 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-<!ENTITY ChooseApp.description "בחר יישום">
 <!ENTITY ChooseApp.label "בחר…">
 <!ENTITY ChooseApp.accessKey "ב">

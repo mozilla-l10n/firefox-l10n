@@ -25,25 +25,9 @@
 הודעה זו לא תוצג שוב אבל אפשר לקרוא">
 <!ENTITY  unsupportedLink.label           "מידע נוסף.">
 
-<!ENTITY  incompatibleCheck.title         "בודק תאימות תוספות">
-<!ENTITY  incompatibleCheck.label         "מחפש גרסאות עדכניות לתוספות שלך…">
-
 <!ENTITY  clickHere.label                 "הצג מידע נוסף על עדכון זה">
 
 <!ENTITY  evangelism.desc                 "מומלץ כי תפעיל את עדכון זה עבור &brandShortName; בהקדם האפשרי.">
-
-<!ENTITY  license.instructions            "אם אתה מסכים לתנאי הסכם זה, לחץ על אני מסכים 
-להלן כדי להמשיך בהתקנת עדכון זה.">
-
-<!ENTITY  license.titleText               "הסכם רישוי תוכנה">
-<!ENTITY  license.introText               "תנאים לשימוש בתוכנה זו.">
-<!ENTITY  license.instructionText         "בבקשה קרא את תנאי ההסכם הבאים. השתמש בפס הגלילה כדי לקרוא את המשך ההסכם.">
-<!ENTITY  license.accept                  "אני מקבל את תנאי ההסכם.">
-<!ENTITY  license.accept.accesskey        "מ">
-<!ENTITY  license.decline                 "אני לא מקבל את תנאי ההסכם">
-<!ENTITY  license.decline.accesskey       "ל">
-
-<!ENTITY  incompatibleList.title          "נמצאו תוספות לא תואמות">
 
 <!ENTITY  downloadPage.title              "מוריד את &brandShortName;">
 <!ENTITY  downloading.intro               "מוריד את העדכון…">
@@ -78,10 +62,6 @@
 <!ENTITY  finishedBackground.name         "עדכון:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "העדכון יותקן בהפעלה הבאה של &brandShortName;. תוכל להפעיל מחדש את &brandShortName; כעת, או להמשיך לעבוד ולהפעיל מחדש מאוחר יותר.">
-
-<!ENTITY  installed.title                 "העדכון הותקן">
-<!ENTITY  installed.intro                 "העדכון הותקן בהצלחה.">
-<!ENTITY  whatsnew.label                  "קרא עוד על מה חדש…">
 
 <!ENTITY  update.details.label            "פרטים">
 <!ENTITY  update.installedOn.label        "הותקן בתאריך:">
