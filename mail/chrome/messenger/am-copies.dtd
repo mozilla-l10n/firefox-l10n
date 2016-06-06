@@ -36,7 +36,6 @@
 <!ENTITY archiveInOtherFolder.label "Auter ordinatur:">
 <!ENTITY archiveInOtherFolder.accesskey "A">
 <!ENTITY specialFolders.label "Sbozs e models">
-<!ENTITY keepDrafts.label "Memorisar ils sbozs da messadis en:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Ordinatur &quot;Sboz&quot; en:">
 <!ENTITY draftsFolderOn.accesskey "D">

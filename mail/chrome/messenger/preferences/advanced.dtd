@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "T">
 <!ENTITY updateManual.label              "Mai tschertgar actualisaziuns (betg recumandà, privel da segirezza)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "M'avisar sche supplements vegnissan deactivads quatras">
-<!ENTITY updateAutoAddonWarn.accesskey   "d">
 <!ENTITY updateHistory.label             "Mussar la cronologia da las actualisaziuns">
 <!ENTITY updateHistory.accesskey         "c">
 
