@@ -95,8 +95,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Άνοιγμα προτιμήσεων &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Επανασύνδεση στο &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Επιβεβαιώστε τον λογαριασμό σας">
-<!ENTITY syncStartPanel2.heading "Το &syncBrand.shortName.label; ενεργοποιήθηκε">
-<!ENTITY syncStartPanel2.subTitle "Ο &brandShortName; θα ξεκινήσει τον συγχρονισμό σύντομα.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Ελαχιστοποίηση">
@@ -187,6 +185,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Προβολή πλευρικής στήλης σελιδοδεικτών">
 <!ENTITY viewBookmarksToolbar.label         "Προβολή εργαλειοθήκης σελιδοδεικτών">
 
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -206,10 +205,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Έλεγχος αντικειμένου">
 
  
-<!ENTITY userContextPersonal.label        "Προσωπικό">
-<!ENTITY userContextWork.label            "Εργασία">
-<!ENTITY userContextBanking.label         "Τραπεζικές υπηρεσίες">
-<!ENTITY userContextShopping.label        "Αγορές">
 <!ENTITY newNavigatorCmd.label        "Νέο παράθυρο">
 <!ENTITY newPrivateWindow.label     "Νέο παράθυρο ιδιωτικής περιήγησης">
 
@@ -413,14 +408,9 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Σίγαση">
 <!ENTITY mediaUnmute.label           "Άρση σίγασης">
-<!ENTITY mediaPlaybackRate.label     "Ταχύτητα αναπαραγωγής">
-<!ENTITY mediaPlaybackRate050x.label "Αργή κίνηση (0.5×)">
-<!ENTITY mediaPlaybackRate100x.label "Κανονική ταχύτητα">
-<!ENTITY mediaPlaybackRate150x.label "Υψηλή ταχύτητα (1.5×)">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Πολύ υψηλή ταχύτητα (2×)">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -480,7 +470,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Ασφαλής σύνδεση">
 <!ENTITY identity.connectionNotSecure "Η σύνδεση δεν είναι ασφαλής">
 <!ENTITY identity.connectionFile "Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.">
-<!ENTITY identity.connectionVerified1 "Είστε συνδεδεμένοι με ασφάλεια σε αυτό τη σελίδα, η οποία διευθύνεται από:">
 <!ENTITY identity.connectionInternal "Αυτή είναι μια ασφαλής σελίδα του &brandShortName;.">
 
 <!-- Strings for connection state warnings. -->
