@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "副本和文件夹">
 <!ENTITY sendingPrefix.label "当发送消息时，自动：">
@@ -36,7 +36,6 @@
 <!ENTITY archiveInOtherFolder.label "Other:">
 <!ENTITY archiveInOtherFolder.accesskey "l">
 <!ENTITY specialFolders.label "草稿和模板">
-<!ENTITY keepDrafts.label "保留消息草稿在：">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "“草稿”文件夹：">
 <!ENTITY draftsFolderOn.accesskey "D">

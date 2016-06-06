@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 
+<!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title               "软件安装">
 <!ENTITY addOnsTitle.label                    "附加组件">
 <!ENTITY addOnsAllow.label                    "允许网站安装附加组件和更新">
@@ -27,7 +27,5 @@
 <!ENTITY appWeekly.accesskey                  "w">
 <!ENTITY appModeAutomatic.label               "自动下载并安装更新">
 <!ENTITY appModeAutomatic.accesskey           "u">
-<!ENTITY appModeAutoAddonWarn.label           "如果可能禁用我的附加组件，提醒我">
-<!ENTITY appModeAutoAddonWarn.accesskey       "n">
 <!ENTITY updateHistoryButton.label            "显示更新历史…">
 <!ENTITY updateHistoryButton.accesskey        "S">
