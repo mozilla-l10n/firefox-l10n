@@ -26,8 +26,6 @@
 <!ENTITY bgColor.accesskey                    "ρ">
 <!ENTITY restoreHTMLDefaults.label            "Επαναφορά προεπιλογών">
 <!ENTITY restoreHTMLDefaults.accesskey        "φ">
-<!ENTITY enterKeyCreatesNewParagraph.label    "Όταν χρησιμοποιείται η μορφή παραγράφου, το πλήκτρο Enter να δημιουργεί μια νέα παράγραφο">
-<!ENTITY enterKeyCreatesNewParagraph.accesskey "μ">
 
 <!ENTITY spellCheck.label                     "Ορθογραφικός έλεγχος πριν την αποστολή">
 <!ENTITY spellCheck.accesskey                 "θ">
