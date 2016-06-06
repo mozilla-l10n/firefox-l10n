@@ -149,3 +149,6 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "L">
 <!ENTITY spellAddDictionaries.label     "Ajouter des dictionnaires…">
 <!ENTITY spellAddDictionaries.accesskey "j">
+<!-- Developer Tools -->
+<!ENTITY devtoolsInspect.label          "Inspecter l’élément">
+<!ENTITY devtoolsInspect.accesskey      "n">

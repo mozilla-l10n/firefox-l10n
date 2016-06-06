@@ -17,7 +17,6 @@
 <!ENTITY locationBar.label "Barre d’adresse">
 <!ENTITY tabWindows.label "Onglets">
 <!ENTITY links.label "Liens">
-<!ENTITY offline.label "Hors connexion">
 <!ENTITY security.label "Confidentialité et sécurité">
 <!ENTITY privatedata.label "Vie privée">
 <!ENTITY cookies.label "Cookies">
@@ -29,7 +28,6 @@
 <!ENTITY certs.label "Certificats">
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Avancé">
-<!ENTITY down.label "Téléchargements">
 <!ENTITY cache.label "Cache">
 <!ENTITY offlineApps.label "Applications hors connexion">
 <!ENTITY proxies.label "Proxies">
@@ -39,7 +37,6 @@
 <!ENTITY keynav.label "Navigation au clavier">
 <!ENTITY findAsYouType.label "Recherche à la saisie">
 <!ENTITY search.label "Recherche sur Internet">
-<!ENTITY policies.label "Politiques de sécurité">
 <!ENTITY mousewheel.label "Souris">
 <!ENTITY scriptsAndWindows.label "Scripts et plugins">
 <!ENTITY spellingPane.label  "Orthographe">
