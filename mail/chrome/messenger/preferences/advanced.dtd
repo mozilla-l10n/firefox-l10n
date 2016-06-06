@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "G">
 <!ENTITY updateManual.label              "Nun comprobar enxamás anovamientos (nun se recomienda: riesgu de seguridá)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Avisame si esto va desactivar dalgún de los mios complementos">
-<!ENTITY updateAutoAddonWarn.accesskey   "A">
 <!ENTITY updateHistory.label             "Amosar historial d'anovamientos">
 <!ENTITY updateHistory.accesskey         "M">
 
