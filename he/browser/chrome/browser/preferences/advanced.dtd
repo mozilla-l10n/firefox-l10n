@@ -81,9 +81,6 @@
 <!ENTITY updateManual.label              "לעולם לא לבצע בדיקת עדכונים (לא מומלץ: סיכוני אבטחה)">
 <!ENTITY updateManual.accesskey          "ל">
 
-<!ENTITY updateAutoAddonWarn.label       "הזהר אותי אם עדכון זה ינטרל תוספות מותקנות">
-<!ENTITY updateAutoAddonWarn.accesskey   "ז">
-
 <!ENTITY updateHistory.label             "הצג היסטורית עדכונים">
 <!ENTITY updateHistory.accesskey         "צ">
 
