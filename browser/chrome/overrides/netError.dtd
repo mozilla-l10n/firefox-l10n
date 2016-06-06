@@ -162,8 +162,6 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine strani.</p>">
 
-<!ENTITY corruptedContentError.title "Okvara vsebine">
-<!ENTITY corruptedContentError.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je bila med prenosom podatkov odkrita napaka.</p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo...">
@@ -187,6 +185,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> uporablja varnostno tehnologijo, ki je zastarela in ranljiva za napade. Napadalec lahko zlahka razkrije podatke, ki naj bi bili zaščiteni.">
 <!ENTITY weakCryptoAdvanced.override "(Ni varno) Naloži <span class='hostname'></span> z uporabo zastarele varnostne tehnologije">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+
 <!ENTITY certerror.pagetitle1  "Nevarna povezava">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ta stran uporablja HTTP
 Strict Transport Security (HSTS), ki določa, da se lahko &brandShortName; nanjo
@@ -197,3 +198,4 @@ poveže zgolj varno. Posledično za to digitalno potrdilo ni mogoče dodati izje
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uporablja varnostno tehnologijo, ki je zastarela in ranljiva na napade. Napadalec lahko zlahka razkrije podatke, ki naj bi bili zaščiteni. Preden lahko obiščete to stran, bo moral njen skrbnik popraviti strežnik.</p><p>Koda napake: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+

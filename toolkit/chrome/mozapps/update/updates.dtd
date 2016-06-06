@@ -31,25 +31,10 @@
                                            Tega opozorila vam ne bomo več prikazovali, lahko pa preberete ">
 <!ENTITY  unsupportedLink.label           "več o tem.">
 
-<!ENTITY  incompatibleCheck.title         "Preverjanje združljivosti dodatkov">
-<!ENTITY  incompatibleCheck.label         "Iskanje novih različic vaših dodatkov ...">
-
 <!ENTITY  clickHere.label                 "Kliknite za več splošnih podatkov o tej posodobitvi">
 
 <!ENTITY  evangelism.desc                 "Toplo priporočamo, da posodobitev za 
                                            &brandShortName; uveljavite čimprej.">
-
-<!ENTITY  license.instructions            "Če se strinjate s pogoji licence, kliknite gumb Strinjam se za nadaljevanje namestitve.">
-
-<!ENTITY  license.titleText               "Licenčna pogodba za programsko opremo">
-<!ENTITY  license.introText               "Pogoji uporabe te programske opreme.">
-<!ENTITY  license.instructionText         "Prosim, preberite spodnjo licenčno pogodbo. Uporabite drsnik za pregled celotnega besedila.">
-<!ENTITY  license.accept                  "Sprejmem pogoje licence">
-<!ENTITY  license.accept.accesskey        "S">
-<!ENTITY  license.decline                 "Ne sprejmem pogojev licence">
-<!ENTITY  license.decline.accesskey       "N">
-
-<!ENTITY  incompatibleList.title          "Najdeni nezdružljivi dodatki">
 
 <!ENTITY  downloadPage.title              "Prenašanje &brandShortName;">
 <!ENTITY  downloading.intro               "Prenašanje posodobitev ...">
@@ -85,10 +70,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Posodobitev bo nameščena, ko boste naslednjič zagnali &brandShortName;. To lahko 
                                            storite zdaj ali nadaljujete z delom in ga ponovno zaženete pozneje.">
-
-<!ENTITY  installed.title                 "Posodobitev nameščena">
-<!ENTITY  installed.intro                 "Posodobitev se je uspešno namestila.">
-<!ENTITY  whatsnew.label                  "Preberite več o novostih ...">
 
 <!ENTITY  update.details.label            "Podrobnosti">
 <!ENTITY  update.installedOn.label        "Datum namestitve:">
