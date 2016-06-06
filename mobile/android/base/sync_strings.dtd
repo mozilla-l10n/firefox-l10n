@@ -47,15 +47,15 @@
 <!ENTITY fxaccount_back_to_browsing "Fill ar bhrabhsáil">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Fáilte go dtí &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description2 "Logáil isteach chun do chuid cluaisíní, leabharmharcanna, focail fhaire agus araile a shioncrónú.">
+<!ENTITY fxaccount_getting_started_description2 "Logáil isteach chun do chuid cluaisíní, leabharmharcanna, focail fhaire agus araile a shioncronú.">
 <!ENTITY fxaccount_getting_started_get_started "Tús maith">
 <!ENTITY fxaccount_getting_started_old_firefox "An bhfuil seanleagan de &syncBrand.shortName.label; agat?">
 
 <!ENTITY fxaccount_status_signed_in_as "Logáilte isteach mar">
 <!ENTITY fxaccount_status_manage_account "Bainistigh mo chuntas">
 <!ENTITY fxaccount_status_auth_server "Freastalaí an chuntais">
-<!ENTITY fxaccount_status_sync_now "Sioncrónaigh anois">
-<!ENTITY fxaccount_status_syncing2 "Á Shioncrónú…">
+<!ENTITY fxaccount_status_sync_now "Sioncronaigh anois">
+<!ENTITY fxaccount_status_syncing2 "Á Shioncronú…">
 <!ENTITY fxaccount_status_device_name "Ainm an ghléis">
 <!ENTITY fxaccount_status_sync_server "Freastalaí Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
@@ -63,8 +63,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Caithfidh tú do chuntas a dhearbhú. Tapáil chun an teachtaireacht dearbhaithe a sheoladh arís.">
 <!ENTITY fxaccount_status_needs_credentials "Ní féidir ceangal. Tapáil chun logáil isteach.">
 <!ENTITY fxaccount_status_needs_upgrade "Caithfidh tú &brandShortName; a nuashonrú chun logáil isteach.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Tá &syncBrand.shortName.label; réidh, ach níl sé ag sioncrónú go huathoibríoch. Scoránaigh “Auto-sync data” sna Android Settings &gt; Data Usage.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "Tá &syncBrand.shortName.label; réidh, ach níl sé ag sioncrónú go huathoibríoch. Scoránaigh “Auto-sync data” sna Android Settings &gt; Accounts.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Tá &syncBrand.shortName.label; réidh, ach níl sé ag sioncronú go huathoibríoch. Scoránaigh “Auto-sync data” sna Android Settings &gt; Data Usage.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "Tá &syncBrand.shortName.label; réidh, ach níl sé ag sioncronú go huathoibríoch. Scoránaigh “Auto-sync data” sna Android Settings &gt; Accounts.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tapáil le logáil isteach i do chuntas nua Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Leabharmharcanna">
 <!ENTITY fxaccount_status_history "Stair">
@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_remove_account "Dícheangail&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Bain an Cuntas Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "Stopfaidh &brandShortName; sioncrónú le do chuntas, ach ní scriosfaidh sé do chuid sonraí brabhsála ar an ngléas seo.">
+<!ENTITY fxaccount_remove_account_dialog_message "Stopfaidh &brandShortName; sioncronú le do chuntas, ach ní scriosfaidh sé do chuid sonraí brabhsála ar an ngléas seo.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Baineadh Cuntas Firefox &formatS;.">

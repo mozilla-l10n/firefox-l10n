@@ -9,7 +9,7 @@
 <!ENTITY sync.details               "Mionsonraí">
 <!ENTITY sync.deviceName            "An gléas seo">
 <!ENTITY sync.disconnect            "Dícheangail">
-<!ENTITY sync.syncNow               "Sioncrónaigh Anois">
+<!ENTITY sync.syncNow               "Sioncronaigh Anois">
 
 <!ENTITY sync.setup.title           "Ceangail le Sync">
 <!ENTITY sync.setup.pair            "Chun é a chur i ngníomh, roghnaigh &quot;Ceangail Gléas&quot; ar do ghléas eile.">

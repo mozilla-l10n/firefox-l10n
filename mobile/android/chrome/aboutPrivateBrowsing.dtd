@@ -7,13 +7,13 @@
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.title.private "+ Cosaint ar Rianú">
+<!ENTITY privatebrowsingpage.title.private "+ Cosaint ar Lorgaireacht">
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Níl tú ag brabhsáil go príobháideach">
 
-<!ENTITY privatebrowsingpage.description.trackingProtection "Cuireann &brandShortName; bac ar chodanna áirithe de leathanaigh a d'fhéadfadh do chuid brabhsála a rianú.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "Cuireann &brandShortName; bac ar chodanna áirithe de leathanaigh a d'fhéadfadh do chuid brabhsála a lorg.">
 <!ENTITY privatebrowsingpage.description.privateDetails "Ní choinneoimid do stair bhrabhsála, ach sábhálfar leabharmharcanna nua agus comhaid a íosluchtaíonn tú ar do ghléas.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses

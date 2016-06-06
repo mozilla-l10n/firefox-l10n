@@ -18,7 +18,7 @@
 <!ENTITY firstrun_sync_message "&brandShortName;, i gcónaí ar fáil dhuit.">
 <!ENTITY firstrun_sync_subtext "Sioncronaigh do chluaisíní, d\u0027fhocal faire, agus tuilleadh pé áit a n-úsáideann tú é.">
 <!ENTITY firstrun_signin_message "Ceangail agus tosaigh">
-<!ENTITY firstrun_signin_button "Sínigh isteach le sioncronú">
+<!ENTITY firstrun_signin_button "Logáil isteach le sioncronú">
 <!ENTITY  onboard_start_button_browser "Bí ag brabhsáil leat">
 <!ENTITY firstrun_button_next "Ar Aghaidh">
 
@@ -156,7 +156,7 @@
 <!ENTITY pref_category_accessibility "Inrochtaineacht">
 <!ENTITY pref_category_accessibility_summary2 "Clómhéid, zúmáil, ionchur labhartha">
 <!ENTITY pref_category_privacy_short "Príobháideachas">
-<!ENTITY pref_category_privacy_summary4 "Rianú, fianáin, roghanna sonraí">
+<!ENTITY pref_category_privacy_summary4 "Lorgaireacht, fianáin, roghanna sonraí">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Maidir le &brandShortName;, Ceisteanna Coitianta, aiseolas">
 <!ENTITY pref_category_datareporting "Roghanna sonraí">
@@ -237,7 +237,7 @@
 <!ENTITY pref_show_web_fonts "Taispeáin clófhoirne Gréasáin">
 <!ENTITY pref_show_web_fonts_summary2 "Íoslódáil clófhoirne cianda agus leathanach á lódáil">
 
-<!ENTITY pref_tracking_protection_title2 "Cosaint ar Lorg">
+<!ENTITY pref_tracking_protection_title2 "Cosaint ar Lorgaireacht">
 <!ENTITY pref_tracking_protection_summary3 "Cumasaithe i mBrabhsáil Phríobháideach">
 <!ENTITY pref_donottrack_title "Ná lorgtar mé">
 <!ENTITY pref_donottrack_summary "Cuirfidh &brandShortName; in iúl do shuímh Ghréasáin gan tusa a lorg ar líne">
@@ -249,8 +249,8 @@
 <!ENTITY pref_whats_new_notification "Nithe nua de chuid &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Tuilleadh eolais faoi ghnéithe nua tar éis nuashonraithe">
 
-<!ENTITY tracking_protection_prompt_title "Anois le Cosaint ar Lorg">
-<!ENTITY tracking_protection_prompt_text "Cuir cosc ar eilimintí rianaithe sa chaoi nach mbeidh imní ort.">
+<!ENTITY tracking_protection_prompt_title "Anois le Cosaint ar Lorgaireacht">
+<!ENTITY tracking_protection_prompt_text "Cuir cosc ar eilimintí lorgaireachta sa chaoi nach mbeidh imní ort.">
 <!ENTITY tracking_protection_prompt_tip_text "Tuilleadh eolais sna Socruithe Príobháideachta">
 <!ENTITY tracking_protection_prompt_action_button "Tuigim!">
 
@@ -339,7 +339,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "Úsáid príomhfhocal faire">
 <!ENTITY pref_sync2 "Logáil isteach">
-<!ENTITY pref_sync_summary2 "Sioncrónaigh do chuid cluaisíní, leabharmharcanna, focail fhaire, stair">
+<!ENTITY pref_sync_summary2 "Sioncronaigh do chuid cluaisíní, leabharmharcanna, focail fhaire, stair">
 <!ENTITY pref_search_suggestions "Taispeáin moltaí cuardaigh">
 <!ENTITY pref_history_search_suggestions "Taispeáin stair an chuardaigh">
 <!ENTITY pref_import_options "Roghanna iompórtála">
@@ -353,7 +353,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Sonraí suíomhanna as líne">
 <!ENTITY pref_private_data_siteSettings2 "Socruithe an tsuímh">
 <!ENTITY pref_private_data_downloadFiles2 "Íosluchtuithe">
-<!ENTITY pref_private_data_syncedTabs "Cluaisíní sioncrónaithe">
+<!ENTITY pref_private_data_syncedTabs "Cluaisíní sioncronaithe">
 
 <!ENTITY pref_default_browser "Déan brabhsálaí réamhshocraithe de">
 <!ENTITY pref_about_firefox "Maidir le &brandShortName;">
@@ -536,7 +536,7 @@ size. -->
 
 <!ENTITY home_title "Baile &brandShortName;">
 <!ENTITY home_history_title "Stair">
-<!ENTITY home_synced_devices_smartfolder "Gléasanna sioncrónaithe">
+<!ENTITY home_synced_devices_smartfolder "Gléasanna sioncronaithe">
 <!ENTITY home_synced_devices_number "Gléasanna &formatD;">
 <!ENTITY home_history_back_to2 "Fill ar an stair iomlán">
 <!ENTITY home_clear_history_button "Glan do stair bhrabhsála">
@@ -607,7 +607,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Dhíchumasaigh tú cosaint ar ábhar neamhshlán.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY doorhanger_tracking_title2 "Cosaint ar Lorg">
+<!ENTITY doorhanger_tracking_title2 "Cosaint ar Lorgaireacht">
 <!ENTITY doorhanger_tracking_state_enabled "Cumasaithe">
 <!ENTITY doorhanger_tracking_state_disabled "Díchumasaithe">
 <!ENTITY doorhanger_tracking_message_enabled1 "Cuireadh cosc ar iarrachtaí d\u0027iompar ar líne a lorg.">
@@ -705,9 +705,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 
-<!ENTITY remote_tabs_last_synced "Sioncrónaithe: &formatS;">
+<!ENTITY remote_tabs_last_synced "Sioncronaithe: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!ENTITY remote_tabs_never_synced "Sioncrónú is déanaí: gan sioncrónú">
+<!ENTITY remote_tabs_never_synced "An sioncronú is déanaí: gan sioncronú">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
