@@ -25,24 +25,9 @@
                                            ina giada. Quest messadi na vegn betg pli mussa, ti pos dentant">
 <!ENTITY  unsupportedLink.label           "retschaiver dapli infurmaziuns.">
 
-<!ENTITY  incompatibleCheck.title         "Controllar la cumpatibilitad dals supplements">
-<!ENTITY  incompatibleCheck.label         "Tschertgar novas versiuns da tes supplements…">
-
 <!ENTITY  clickHere.label                 "Vesair ulteriuras infurmaziuns davart questa actualisaziun">
 
 <!ENTITY  evangelism.desc                 "I vegn recumandà urgentamain d'installar questa actualisaziun da &brandShortName; il pli spert pussaivel.">
-
-<!ENTITY  license.instructions            "Sche ti approveschas las cundiziuns da la cunvegna da licenza, clicca sin 'Acceptar' e cuntinuescha cun l'installaziun.">
-
-<!ENTITY  license.titleText               "Cunvegna da licenza">
-<!ENTITY  license.introText               "Cundiziuns per utilisar questa software">
-<!ENTITY  license.instructionText         "Legia per plaschair attentamain questa cunvegna da licenza. Utilisescha la trav da defilar per guardar il rest da la cunvegna da licenza.">
-<!ENTITY  license.accept                  "Jau accept la cunvegna da licenza.">
-<!ENTITY  license.accept.accesskey        "a">
-<!ENTITY  license.decline                 "Jau n'accept betg la cunvegna da licenza.">
-<!ENTITY  license.decline.accesskey       "e">
-
-<!ENTITY  incompatibleList.title          "Chattà supplements incumpatibels">
 
 <!ENTITY  downloadPage.title              "Telechargiar &brandShortName;">
 <!ENTITY  downloading.intro               "L'actualisaziun vegn telechargiada…">
@@ -72,10 +57,6 @@
 <!ENTITY  finishedBackground.name         "Actualisaziun:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "L'actualisaziun vegn installada la proxima giada che &brandShortName; vegn avià. Ti pos ussa reaviar &brandShortName; u cuntinuar a lavurar e reaviar pli tard.">
-
-<!ENTITY  installed.title                 "L'actualisaziun è installada">
-<!ENTITY  installed.intro                 "L'actualisaziun è vegnida installada cun success.">
-<!ENTITY  whatsnew.label                  "Legia dapli davart las novitads…">
 
 <!ENTITY  update.details.label            "Detagls">
 <!ENTITY  update.installedOn.label        "Installà ils:">

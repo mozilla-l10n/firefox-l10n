@@ -113,8 +113,6 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Bloccà da las directivas per la segirezza dal cuntegn">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha impedì che questa pagina chargia en tala maniera perquai che la pagina cuntegna directivas per la segirezza dal cuntegn (content security policy) che scumondan quai.</p>">
 
-<!ENTITY corruptedContentError.title "Errur: Cuntegn donnegià">
-<!ENTITY corruptedContentError.longDesc "<p>La pagina che ti emprovas da contemplar na po betg vegnir mussada pervia dad ina errur en las datas tramessas.</p><ul><li>Contactescha per plaschair il possessur da la website per l'infurmar davart quest problem.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Agiuntar in'excepziun…">
@@ -138,6 +136,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> utilisescha ina tecnologia da segirezza antiquada e vulnerabla per attatgas. In attatgader pudess leger senza gronds sforzs las infurmaziuns che paran dad esser segiradas.">
 <!ENTITY weakCryptoAdvanced.override "(Betg segir) Emprova da chargiar <span class='hostname'></span> cun utilisar ina tecnologia da segirezza antiquada">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

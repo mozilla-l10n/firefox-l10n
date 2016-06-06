@@ -78,8 +78,6 @@
 <!ENTITY cspBlocked.title "Bloccà da las directivas per la segirezza dal cuntegn">
 <!ENTITY cspBlocked.longDesc "<p>Il navigatur ha impedì che questa pagina chargia en tala maniera perquai che la pagina cuntegna directivas per la segirezza dal cuntegn (content security policy) che scumondan quai.</p>">
 
-<!ENTITY corruptedContentError.title "Errur: Cuntegn donnegià">
-<!ENTITY corruptedContentError.longDesc "<p>La pagina che ti emprovas da contemplar na po betg vegnir mussada pervia dad ina errur en las datas tramessas.</p><ul><li>Contactescha per plaschair il possessur da la website per l'infurmar davart quest problem.</li></ul>">
 
 <!ENTITY remoteXUL.title "Remote-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Infurmescha per plaschair il possesur da la website davart quest problem.</li></ul></p>">
