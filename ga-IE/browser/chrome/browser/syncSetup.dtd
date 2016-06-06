@@ -82,7 +82,7 @@
 <!ENTITY syncDeviceName.label       "Ainm an Ghléis:">
 <!ENTITY syncDeviceName.accesskey   "s">
 
-<!ENTITY syncMy.label               "Sioncrónaigh Mo Chuid">
+<!ENTITY syncMy.label               "Sioncronaigh Mo Chuid">
 <!ENTITY engine.bookmarks.label     "Leabharmharcanna">
 <!ENTITY engine.bookmarks.accesskey "L">
 <!ENTITY engine.tabs.label          "Cluaisíní">
