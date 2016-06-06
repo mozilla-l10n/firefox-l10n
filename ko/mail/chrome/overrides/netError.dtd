@@ -79,8 +79,6 @@
 <!ENTITY cspBlocked.title "콘텐츠 보안 정책에 의해 차단되었습니다">
 <!ENTITY cspBlocked.longDesc "<p>콘텐츠 보안 정책에 의해 읽기가 금지된 콘텐츠가 포함되어 있기 때문에 이 페이지의 읽기를 중지했습니다.</p>">
 
-<!ENTITY corruptedContentError.title "콘텐츠 전송 오류">
-<!ENTITY corruptedContentError.longDesc "<p>열고자 하는 콘텐츠가 데이터 전송 도중에 문제가 발생하였습니다.</p><ul><li>웹 사이트 관리자에게 현재 문제를 알려 주시기 바랍니다.</li></ul>">
 
 <!ENTITY securityOverride.linkText "예외 추가…">
 <!ENTITY securityOverride.getMeOutOfHereButton "페이지 나가기">
@@ -100,3 +98,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "원격 XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 보고해 주시기 바랍니다.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
