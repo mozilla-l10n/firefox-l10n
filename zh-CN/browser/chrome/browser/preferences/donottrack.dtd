@@ -6,7 +6,5 @@
 <!ENTITY window.width                 "40em">
 <!ENTITY window.height                "8em">
 
-<!ENTITY doNotTrackCheckbox.label     "使用请勿跟踪">
-<!ENTITY doNotTrackCheckbox.accesskey "U">
 
 <!ENTITY doNotTrackLearnMore.label    "详细了解">

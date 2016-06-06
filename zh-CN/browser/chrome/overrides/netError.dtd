@@ -109,8 +109,6 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "由于内容安全策略而被拦截">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了这个页面载入，因为这个页面的内容安全政策不允许其以这种方式被载入。</p>">
 
-<!ENTITY corruptedContentError.title "内容损坏错误">
-<!ENTITY corruptedContentError.longDesc "<p>您尝试查看的页面无法显示，因为检测到一个数据传输错误。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
@@ -134,6 +132,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> 使用了过时的安全技术，较容易遭受攻击。攻击者可以容易地获取您认为是安全的信息。">
 <!ENTITY weakCryptoAdvanced.override "尝试使用过时的安全性设置载入此页面 <span class='hostname'></span>（不安全）">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+
 <!ENTITY certerror.pagetitle1  "不安全的连接">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此网站使用了 HTTP 严格传输安全（HSTS）要求 &brandShortName; 只进行安全连接。正因如此，您不能为此证书添加一个例外。">
 <!ENTITY certerror.copyToClipboard.label "复制文本到剪贴板">
@@ -142,3 +143,4 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> 使用了过时的安全技术，较容易遭受攻击。攻击者可以容易地获取您认为是安全的信息。需要该网站的管理员先修正服务器，然后您才能访问该网站。</p><p>错误代码：NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
