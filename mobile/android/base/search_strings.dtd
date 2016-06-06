@@ -22,8 +22,6 @@
 <!ENTITY pref_clearHistory_dialogMessage 'Izbrišem vso zgodovino iskanja iz naprave?'>
 <!ENTITY pref_clearHistory_title 'Počisti zgodovino iskanj'>
 
-<!ENTITY pref_searchProvider_title 'Iskalnik'>
-
 <!ENTITY search_widget_button_label 'Išči'>
 
 <!ENTITY network_error_title 'Ni povezave z internetom.'>
