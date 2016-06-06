@@ -29,10 +29,6 @@
 <!ENTITY firstrun_tabqueue_message_on "Bravo !">
 <!ENTITY firstrun_tabqueue_subtext_on "Vous pouvez désactiver cette fonctionnalité à tout moment depuis &settings; > &pref_category_general;.">
 
-<!ENTITY firstrun_notifications_title "Blogs">
-<!ENTITY firstrun_notifications_message "Tenez-vous au courant">
-<!ENTITY firstrun_notifications_subtext "Soyez averti lorsque les blogs ajoutés à vos marque-pages publient une actualité.">
-
 <!ENTITY firstrun_readerview_title "Articles">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Retirez le superflu">
