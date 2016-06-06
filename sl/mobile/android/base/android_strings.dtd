@@ -174,7 +174,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Nasvet: poljubno spletno stran lahko dodate na seznam iskalnikov, tako da dolgo pritisnete na njeno polje za iskanje in se dotaknete ikone &formatI;.">
 <!ENTITY pref_category_advanced "Napredno">
-<!ENTITY pref_category_advanced_summary3 "Obnavljanje zavihkov, shranjevanje podatkov, razvojna orodja">
+<!ENTITY pref_category_advanced_summary3 "Obnavljanje zavihkov, prihranek podatkov, razvojna orodja">
 <!ENTITY pref_category_notifications "Obvestila">
 <!ENTITY pref_category_notifications_summary "Nove možnosti, posodobitve spletnih strani">
 <!ENTITY pref_content_notifications "Posodobitve spletnih strani">
@@ -225,7 +225,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Omogočeno, brez tretjih strani">
 <!ENTITY pref_cookies_disabled "Onemogočeno">
 
-<!ENTITY pref_category_data_saver "Shranjevanje podatkov">
+<!ENTITY pref_category_data_saver "Prihranek podatkov">
 <!ENTITY pref_category_media "Predstavnost">
 <!ENTITY pref_category_developer_tools "Razvojna orodja">
 
