@@ -31,26 +31,10 @@ install software on this computer.">
 උත්සහ කරන්න. මෙම දැන්වීම නැවත නොපෙන්වන නමුත්">
 <!ENTITY  unsupportedLink.label           "තවත් දැනගන්න.">
 
-<!ENTITY  incompatibleCheck.title         "ඇඩෝන අනුකූල තාවය පිරික්සමින්">
-<!ENTITY  incompatibleCheck.label         "ඔබේ ඇඩෝන වල නවතම වෙළුම සඳහා සොයමින්…">
-
 <!ENTITY  clickHere.label                 "මෙම යාවත්කාල කිරීම පිළිබද තවත් තොරතුරු දක්වන්න">
 
 <!ENTITY  evangelism.desc                 "&brandShortName; සඳහා මෙම යාවත් කිරීම හැකි ඉක්මනින් 
 යොදන ලෙස තරයේ අවවාද කරයි.">
-
-<!ENTITY  license.instructions            "ඔබ මෙම ගිවිසුමේ කොන්දේසි හා එකග වේ නම් මෙම යාවත්කාල කිරීම ස්ථාපනය සඳහා 
-'මම එකග වේ' මත ක්ලික් කරන්න.">
-
-<!ENTITY  license.titleText               "මෘදුකාංග බලපත්‍ර ගිවිසුම">
-<!ENTITY  license.introText               "මෙම මෘදුකාංගය භාවිතා කිරීමට සඳහා නියම සහ කොන්දේසි.">
-<!ENTITY  license.instructionText         "පහත බලපත්‍ර ගිවිසුම කියවන්න. මෙම ගිවිසුමේ ඉතිරිටික බැලීමට රෝල් තීරුව භාවිතා කරන්න.">
-<!ENTITY  license.accept                  "බලපත්‍ර ගිවිසුමහි නියම මම අනුමත කරමි">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "බලපත්‍ර ගිවිසුමහි නියම මම අනුමත නොකරමි">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "අනුකූල නොවන ඇඩෝනයක් හමු විය">
 
 <!ENTITY  downloadPage.title              "&brandShortName; බාගත කිරීම">
 <!ENTITY  downloading.intro               "යාවත්කාල කිරීම භාගත වේ...">
@@ -91,10 +75,6 @@ install software on this computer.">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "යාවත් කිරීම් ස්ථාපනය &brandShortName; මීළඟට ආරම්භ වූ විට සිදු වේ. ඔබට දැන් 
  &brandShortName; යළි ආරම්භ කළ හැක, හෝ දැනට වැඩ කරමින් පසුව යළි අරඹන්න.">
-
-<!ENTITY  installed.title                 "යාවත්කාල කිරීම ස්ථාපිතයි">
-<!ENTITY  installed.intro                 "යාවත්කාල කිරීම සාර්ථක ලෙස ස්ථාපිතයි.">
-<!ENTITY  whatsnew.label                  "අළුත් දෑ පිළිබද කියවන්න...">
 
 <!ENTITY  update.details.label            "තොරතුරු">
 <!ENTITY  update.installedOn.label        "ස්ථාපිත දිනය:">
