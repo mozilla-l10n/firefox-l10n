@@ -27,7 +27,5 @@
 <!ENTITY appWeekly.accesskey                  "n">
 <!ENTITY appModeAutomatic.label               "Aktualizácie automaticky prevziať a nainštalovať">
 <!ENTITY appModeAutomatic.accesskey           "m">
-<!ENTITY appModeAutoAddonWarn.label           "Upozorniť, ak by nainštalovanie zakázalo niektoré doplnky">
-<!ENTITY appModeAutoAddonWarn.accesskey       "U">
 <!ENTITY updateHistoryButton.label            "Zobraziť históriu aktualizácií">
 <!ENTITY updateHistoryButton.accesskey        "h">
