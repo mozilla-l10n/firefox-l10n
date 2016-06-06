@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "&brandShortName; 업데이트가 있으나 최신 버전은 현재 운영 체제를 지원하지 않습니다. 시스템을 업그레이드 하신 후 다시 시도해 두십시오. 앞으로 이 메시지 다시 표시 안합니다.">
 <!ENTITY  unsupportedLink.label           "정보 확인">
 
-<!ENTITY  incompatibleCheck.title         "부가 기능 업데이트 확인">
-<!ENTITY  incompatibleCheck.label         "부가 기능 업데이트 찾기…">
-
 <!ENTITY  clickHere.label                 "이 업데이트에 대한 상세 정보 보기">
 
 <!ENTITY  evangelism.desc                 "&brandShortName; 업데이트를 가능한 빨리 업데이트 하시길 권장합니다.">
-
-<!ENTITY  license.instructions            "이 라이선스에 동의하시면 동의함을 선택하여 업데이트를 설치하십시오.">
-
-<!ENTITY  license.titleText               "소프트웨어 라이선스 계약조건">
-<!ENTITY  license.introText               "이 소프트웨어를 사용하기 위한 계약조건.">
-<!ENTITY  license.instructionText         "다음 계약조건을 읽어 보시기 바랍니다. 이 계약조건의 나머지를 보시기 위해서는 스크롤바를 이용하실 수 있습니다.">
-<!ENTITY  license.accept                  "이 계약조건에 대하여 동의 합니다.">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "이 계약조건에 대하여 동의하지 않습니다.">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "호환 되지 않은 부가 기능">
 
 <!ENTITY  downloadPage.title              "&brandShortName; 다운로드 중…">
 <!ENTITY  downloading.intro               "업데이트 다운로드 중…">
@@ -70,10 +55,6 @@
 <!ENTITY  finishedBackground.name         "업데이트:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "업데이트는 &brandShortName; 다시 시작할 때 적용 합니다. 지금 &brandShortName;를 다시 시작하거나 나중에 하실 수 있습니다.">
-
-<!ENTITY  installed.title                 "업데이트 설치 완료">
-<!ENTITY  installed.intro                 "업데이트 설치가 완료되었습니다.">
-<!ENTITY  whatsnew.label                  "새 소식…">
 
 <!ENTITY  update.details.label            "상세 정보">
 <!ENTITY  update.installedOn.label        "설치 위치:">
