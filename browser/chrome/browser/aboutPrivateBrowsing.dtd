@@ -7,16 +7,16 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "h">
 
 <!ENTITY privateBrowsing.title                           "Nabigatze pribatua">
-<!ENTITY privateBrowsing.title.tracking                  "Jarraipenaren babesa duen nabigatze pribatua">
+<!ENTITY privateBrowsing.title.tracking                  "Jarraipenaren babesdun nabigatze pribatua">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Leiho pribatu batean nabigatzen duzunean, Firefoxek ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ez du gordeko">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ez ditu gordeko">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "bisitatutako orriak">
 <!ENTITY aboutPrivateBrowsing.info.searches              "bilaketak">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookieak">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "behin-behineko fitxategiak">
-<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefoxek ondorengoa ">
-<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "gordeko du">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefoxek ondorengoak ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "gordeko ditu">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "deskargak">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "laster-markak">
@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Nabigatze pribatua">
 
 <!ENTITY trackingProtection.title                        "Jarraipenaren babesa">
-<!ENTITY trackingProtection.description2                 "Zenbait webgunek zure jarraipena egin eta Interneten zehar duzun jarduera monitoriza dezakete. Jarraipenaren babesarekin, zure nabigatze-portaerari buruzko informazioa biltzea blokeatuko ditu Firefoxek.">
+<!ENTITY trackingProtection.description2                 "Zenbait webgunek zure jarraipena egin eta Interneten zehar duzun jarduera monitoriza dezakete. Jarraipenaren babesarekin, zure nabigatze-portaerari buruzko informazioa biltzea blokeatuko du Firefoxek.">
 <!ENTITY trackingProtection.startTour1                   "Ikusi nola dabilen">
