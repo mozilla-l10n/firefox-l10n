@@ -7,7 +7,6 @@
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "Προσοχή! Μπορεί να ακυρώσετε την εγγύηση του προϊόντος! ;-)">
 <!ENTITY aboutWarningText.label "Η αλλαγή των προεπιλεγμένων τιμών πιθανόν να προκαλέσει  ανεπιθύμητες παρενέργειες στην σταθερότητα, ασφάλεια και συμπεριφορά αυτής της εφαρμογής. Θα πρέπει να συνεχίσετε με τις αλλαγές μόνο αν γνωρίζετε καλά τι κάνετε.">
-<!ENTITY aboutWarningButton.label "Θα προσέχω, Το υπόσχομαι!">
 <!ENTITY aboutWarningCheckbox.label "Εμφάνιση της προειδοποίησης και την επόμενη φορά">
 
 <!ENTITY searchPrefs.label "Αναζήτηση:">

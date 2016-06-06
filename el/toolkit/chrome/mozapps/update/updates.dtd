@@ -31,26 +31,10 @@
                                            You will not see this notice again, but you can">
 <!ENTITY  unsupportedLink.label           "Διαβάστε περισσότερα.">
 
-<!ENTITY  incompatibleCheck.title         "Έλεγχος συμβατότητας προσθέτων">
-<!ENTITY  incompatibleCheck.label         "Αναζήτηση για νεότερες εκδόσεις των προσθέτων σας…">
-
 <!ENTITY  clickHere.label                 "Πατήστε εδώ">
 
 <!ENTITY  evangelism.desc                 "Σας συστήνουμε να εγκαταστήσετε αυτή την ενημέρωση
                                            για τον &brandShortName; όσο το δυνατόν πιο σύντομα.">
-
-<!ENTITY  license.instructions            "Αν συμφωνείτε με τους όρους, πατήστε Συμφωνώ για 
-                                           να συνεχίσετε με την εγκατάσταση αυτής της ενημέρωσης.">
-
-<!ENTITY  license.titleText               "Άδεια χρήσης λογισμικού">
-<!ENTITY  license.introText               "Όροι και συνθήκες χρήσης αυτού του λογισμικού.">
-<!ENTITY  license.instructionText         "Διαβάστε την ακόλουθη άδεια χρήσης. Χρησιμοποιήστε την μπάρα κύλισης για να δείτε το υπόλοιπο κείμενο της άδειας.">
-<!ENTITY  license.accept                  "Αποδέχομαι τους όρους της άδειας χρήσης">
-<!ENTITY  license.accept.accesskey        "χ">
-<!ENTITY  license.decline                 "ΔΕΝ αποδέχομαι τους όρους της άδειας χρήσης">
-<!ENTITY  license.decline.accesskey       "Δ">
-
-<!ENTITY  incompatibleList.title          "Βρέθηκαν ασύμβατα πρόσθετα">
 
 <!ENTITY  downloadPage.title              "Γίνεται λήψη του &brandShortName;">
 <!ENTITY  downloading.intro               "Οι παρακάτω ενημερώσεις εγκαθίστανται/εγκαταστάθηκαν:">
@@ -91,10 +75,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Η ενημέρωση θα εγκατασταθεί στην επόμενη εκκίνηση του &brandShortName;. Μπορείτε
                                             να επανεκκινήσετε τον &brandShortName; τώρα, ή να συνεχίσετε και τον επανεκκινήσετε αργότερα.">
-
-<!ENTITY  installed.title                 "Η ενημέρωση εγκαταστάθηκε">
-<!ENTITY  installed.intro                 "Η ενημέρωση εγκαταστάθηκε επιτυχώς.">
-<!ENTITY  whatsnew.label                  "Διαβάστε περισσότερα για το τι νέο υπάρχει...">
 
 <!ENTITY  update.details.label            "Λεπτομέρειες">
 <!ENTITY  update.installedOn.label        "Εγκαταστάθηκε σε:">
