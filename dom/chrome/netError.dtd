@@ -82,8 +82,6 @@
 <!ENTITY cspBlocked.title "콘텐츠 보안 정책에 의한 차단">
 <!ENTITY cspBlocked.longDesc "<p>이 페이지는 콘텐츠 보안 정책에서 허락하지 않는 방법으로 로딩되어 브라우저가 차단했습니다.</p>">
 
-<!ENTITY corruptedContentError.title "손상된 콘텐츠 오류">
-<!ENTITY corruptedContentError.longDesc "<p>이 페이지는 전송 데이터에 오류가 감지되어서 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 본 문제점을 알려 주시기 바랍니다.</li></ul>">
 
 <!ENTITY remoteXUL.title "원격 XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>현재 문제를 해결하려면 웹 사이트 관리자에게 연락하시기 바랍니다.</li></ul></p>">

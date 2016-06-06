@@ -165,8 +165,6 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "콘텐츠 보안 정책에 의한 차단">
 <!ENTITY cspBlocked.longDesc "<p>이 페이지는 콘텐츠 보안 정책에서 허락하지 않는 방법으로 로딩되어 &brandShortName;가 차단했습니다.</p>">
 
-<!ENTITY corruptedContentError.title "콘텐츠 전송 오류">
-<!ENTITY corruptedContentError.longDesc "<p>이 페이지는 전송 데이터에 오류가 감지되어서 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 본 문제점을 알려 주시기 바랍니다.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "예외 추가…">
@@ -190,6 +188,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>에서 사용하는 보안 기술이 오래되었고 공격에 취약합니다. 안전하다고 생각하는 정보가 공격에 의해 쉽게 노출될 수 있습니다.">
 <!ENTITY weakCryptoAdvanced.override "(안전하지 않음) 오래된 보안을 이용해서 <span class='hostname'></span> 로딩 시도">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+
 <!ENTITY certerror.pagetitle1  "안전하지 않은 연결">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "이 사이트는 &brandShortName;가 안전한 경우에만 
 연결함을 명시하기 위해서 HTTP Strict Transport Security (HSTS)를 사용합니다.
@@ -200,3 +201,4 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>이 오래되어서 공격에 안전하지 않은 보안 기술을 사용하고 있습니다. 사용자가 안전하다고 여길 수 있는 정보를 공격자가 쉽게 탈취할 수 있습니다. 사용자가 사이트에 방문하기 위해서는 웹사이트 관리자가 서버를 고쳐야 합니다.</p><p>오류 코드: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+

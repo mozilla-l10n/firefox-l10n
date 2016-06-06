@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "업데이트 확인 안함 (추천 안함: 보안 위협)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "부가 기능을 사용 안함으로 변경 시 알려주기">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "업데이트 기록 보기">
 <!ENTITY updateHistory.accesskey         "p">
 
