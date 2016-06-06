@@ -6,7 +6,5 @@
 <!ENTITY window.width                 "40em">
 <!ENTITY window.height                "8em">
 
-<!ENTITY doNotTrackCheckbox.label     "Використовувати відмову від стеження">
-<!ENTITY doNotTrackCheckbox.accesskey "В">
 
 <!ENTITY doNotTrackLearnMore.label    "Докладніше">
