@@ -168,6 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Naroči se na to stran …">
 <!ENTITY addCurPagesCmd.label "Dodaj vse zavihke med zaznamke …">
 <!ENTITY showAllBookmarks2.label "Prikaži vse zaznamke">
+<!ENTITY recentBookmarks.label "Nedavni zaznamki">
+<!ENTITY otherBookmarksCmd.label "Drugi zaznamki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži več zaznamkov">
 
 <!ENTITY backCmd.label                "Nazaj">
@@ -222,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Zaznamki">
+<!ENTITY bookmarksMenuButton.other.label "Drugi zaznamki">
 <!ENTITY viewBookmarksSidebar2.label        "Prikaži stransko vrstico zaznamkov">
 <!ENTITY viewBookmarksToolbar.label         "Prikaži orodno vrstico zaznamkov">
 
@@ -345,6 +348,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "Ni še sinhroniziranih zavihkov!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Želite tukaj videti zavihke drugih naprav?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Možnosti sinhronizacije">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavite se za ogled seznama zavihkov drugih naprav.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se v Sync">
@@ -720,6 +725,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Sinhronizirani zavihki">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Prijavite se v Firefox iz drugih naprav in si oglejte njihove zavihke tukaj.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Ni še sinhroniziranih zavihkov!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Želite tukaj videti zavihke drugih naprav?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Prijavite se za ogled seznama zavihkov drugih naprav.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ni odprtih zavihkov">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Odpri nastavitve &syncBrand.shortName.label;">
