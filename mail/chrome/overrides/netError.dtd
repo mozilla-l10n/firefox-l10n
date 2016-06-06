@@ -167,8 +167,6 @@
 <!ENTITY cspBlocked.title "Блоковано політикою безпеки вмісту">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці завантажитись цим чином, бо вона має політику безпеки вмісту котра це забороняє.</p>">
 
-<!ENTITY corruptedContentError.title "Пошкоджений вміст">
-<!ENTITY corruptedContentError.longDesc "<p>Вміст, котрий ви намагаєтесь переглянути, не може бути показаний — у передачі даних помічена помилка.</p><ul><li>Будь ласка, повідомте власникам вмісту про цю проблему.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Або ви можете зробити виняток…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Заберіть мене звідси">
@@ -188,3 +186,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Віддалений XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Будь ласка, зв’яжіться з власниками сайта та поінформуйте їх про цю проблему.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
