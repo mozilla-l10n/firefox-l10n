@@ -26,8 +26,6 @@
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "기본 설정으로 복원">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
-<!ENTITY enterKeyCreatesNewParagraph.label    "문단 형식을 사용하면 엔터키를 칠 때 새 문단을 생성합니다.">
-<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
 
 <!ENTITY spellCheck.label                     "보내기 전에 맞춤법 검사">
 <!ENTITY spellCheck.accesskey                 "C">

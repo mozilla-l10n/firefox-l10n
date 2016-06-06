@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "새 업데이트 체크하지 않기(추천하지 않음: 보안 위험)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "부가 기능이 비활성화 될 때 경고하기">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
 <!ENTITY updateHistory.label             "업데이트 기록 보기">
 <!ENTITY updateHistory.accesskey         "p">
 
