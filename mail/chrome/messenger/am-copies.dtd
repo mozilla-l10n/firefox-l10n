@@ -36,7 +36,6 @@
 <!ENTITY archiveInOtherFolder.label "drugo:">
 <!ENTITY archiveInOtherFolder.accesskey "r">
 <!ENTITY specialFolders.label "Osnutki in predloge">
-<!ENTITY keepDrafts.label "Osnutke za sporočila shranjuj v:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "mapo &quot;Osnutki&quot; na:">
 <!ENTITY draftsFolderOn.accesskey "n">
