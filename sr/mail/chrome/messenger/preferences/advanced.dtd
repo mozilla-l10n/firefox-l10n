@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "П">
 <!ENTITY updateManual.label              "Никада не проверавај да ли има ажурирања (није препоручено: безбедносни ризик)">
 <!ENTITY updateManual.accesskey          "Н">
-<!ENTITY updateAutoAddonWarn.label       "Упозори ме ако ће ово искључити било који од мојих додатака">
-<!ENTITY updateAutoAddonWarn.accesskey   "У">
 <!ENTITY updateHistory.label             "Прикажи историјат ажурирања">
 <!ENTITY updateHistory.accesskey         "П">
 
