@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "ਅੱਪਡੇਟ ਲਈ ਕਦੇ ਜਾਂਚ ਨਾ ਕਰੋ (ਸਿਫਾਰਸ਼ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ: ਸੁਰੱਖਿਆ ਲਈ ਖਤਰਾ)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "ਮੈਨੂੰ ਸਾਵਧਾਨ ਕਰੋ ਜੇ ਇਹ ਮੇਰੀ ਕੋਈ ਵੀ ਐਡ-ਆਨ ਨੂੰ ਬੰਦ ਕਰ ਦੇਵੇ">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "ਅੱਪਡੇਟ ਅਤੀਤ ਨੂੰ ਵੇਖੋ">
 <!ENTITY updateHistory.accesskey         "p">
 
