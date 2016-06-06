@@ -168,8 +168,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label " इस पृष्ठ की सदस्यता लें…">
 <!ENTITY addCurPagesCmd.label " सभी टैब पुस्तचिह्नित करें…">
 <!ENTITY showAllBookmarks2.label " सभी पुस्तचिह्नों को दिखाएँ">
-
-
+<!ENTITY recentBookmarks.label "हाल में पुस्तचिह्नित">
+<!ENTITY otherBookmarksCmd.label "अन्य पुस्तचिह्न">
 <!ENTITY bookmarksToolbarChevron.tooltip " अधिक पुस्तचिह्न दिखाएँ">
 
 <!ENTITY backCmd.label                "पीछे ">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "पुस्तचिह्न.">
-
+<!ENTITY bookmarksMenuButton.other.label "अन्य पुस्तचिह्न">
 <!ENTITY viewBookmarksSidebar2.label        "पुस्तचिह्न बाज़ू पट्टी देखें">
 <!ENTITY viewBookmarksToolbar.label         " पुस्तचिह्न औज़ारपट्टी देखें">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -348,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "प्राथमिकताएँ सिंक कीजिए">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से साइन इन करें">
 <!ENTITY appMenuRemoteTabs.signin.label "सिंक करने के लिए साइन इन करें">
@@ -694,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "इस साइट पे आपका कनेक्शन निजी नहीं हैं. सुचना जो आप जमा करते हैं दुसरो के द्वारा देखा जा सकता(जैसे पासवर्ड,संदेश, क्रेडिट कार्ड, इत्यादि.)">
 <!ENTITY identity.description.insecureLoginForms "आपके द्वारा इस पृष्ट में दी गयी जानकारी सुरक्षित नहीं है तथा उसका गलत इस्तेमाल किया जा सकता है ">
 <!ENTITY identity.description.weakCipher "इस वेबसाइट से आपका कनेक्शन कमज़ोर गोपन का उपयोग करता है और निजी नहीं है।">
-
+<!ENTITY identity.description.weakCipher2 "अन्य लोग आपकी जानकारी को देख सकते हैं या वेबसाइट के व्यवहार को बदल सकते हैं.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; इस पृष्ठ के कुछ हिस्सों को अवरुद्ध कर दिया है जो सुरक्षित नहीं हैं।">
 <!ENTITY identity.description.passiveLoaded "आपका कनेक्शन निजी नही हैं और सुचना जो आप इस साइट के साथ साझा करते है दुसरो के द्वारा देखा जा सकता. ">
 <!ENTITY identity.description.passiveLoaded2 "यह वेबसाइट वह सामग्री शामिल करता है जो सुरक्षित नहीं हैं(जैसा की छवि).">
@@ -726,7 +726,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "सिंक हुए टैब्स">
 
 
-
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से साइन इन करें.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "कोई खुला टैब नहीं">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "खोलें &syncBrand.shortName.label; वरीयताएँ">
@@ -735,12 +735,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "टैब्स की सूची देखने हेतु अपने दुसरे उपकरणों से साइन इन करें.">
 
 
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.openInNewTab.label               "नए टैब में खोलें">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "नए विंडो में खोलें">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "नए और निजी विंडो में खोलें">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "यह टैब पुस्तचिह्नित करें...">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 
