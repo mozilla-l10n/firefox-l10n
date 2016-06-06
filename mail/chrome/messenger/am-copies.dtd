@@ -36,6 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Annan plats:">
 <!ENTITY archiveInOtherFolder.accesskey "p">
 <!ENTITY specialFolders.label "Utkast och mallar">
+<!ENTITY keepDrafts2.label "Spara utkast i:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Mappen ”Utkast” i:">
 <!ENTITY draftsFolderOn.accesskey "U">

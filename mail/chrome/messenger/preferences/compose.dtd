@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Återställ standard">
 <!ENTITY restoreHTMLDefaults.accesskey        "Å">
+<!ENTITY defaultToParagraph.label             "Använd styckeformat istället för brödtext som standard">
+<!ENTITY defaultToParagraph.accesskey         "t">
 
 <!ENTITY spellCheck.label                     "Kontrollera stavningen innan meddelanden skickas">
 <!ENTITY spellCheck.accesskey                 "K">
