@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "歡迎">
-<!ENTITY  onboard_start_message3 "使用 &brandShortName; 瀏覽">
-<!ENTITY  onboard_start_subtext3 "讓您的行動網頁瀏覽體驗能有您自己的風格。">
 
 <!ENTITY firstrun_urlbar_message "歡迎使用 &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "透過好用的搜尋建議捷徑，更快找到想要的東西。">
@@ -20,20 +18,32 @@
 <!ENTITY firstrun_signin_message "開始連線使用">
 <!ENTITY firstrun_signin_button "登入至 Sync">
 <!ENTITY  onboard_start_button_browser "開始瀏覽">
+<!ENTITY firstrun_button_notnow "現在不要">
 <!ENTITY firstrun_button_next "下一步">
 
-<!ENTITY  onboard_start_restricted1 "透過這個簡單版的 &brandShortName; 保持安全與控制程度。">
+<!ENTITY firstrun_tabqueue_title "鏈結">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "打開分頁佇列">
+<!ENTITY firstrun_tabqueue_subtext_off "當在其他應用程式內點擊鏈結時，會在 &brandShortName; 儲存以便稍後查看。">
 
-<!ENTITY  reading_list_migration_title "已連線至閱讀清單">
-<!ENTITY  reading_list_migration_subtext "將把您的閱讀清單加到書籤當中">
-<!ENTITY  reading_list_migration_goto_bookmarks "前往書籤">
-<!ENTITY  reading_list_migration_bookmarks_hidden "已隱藏您的書籤面板">
+<!ENTITY firstrun_tabqueue_message_on "成功！">
+<!ENTITY firstrun_tabqueue_subtext_on "您可以在 &pref_category_general; 底下的 &settings; 關閉它。">
+
+<!ENTITY firstrun_readerview_title "文章">
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "保持整潔">
+<!ENTITY firstrun_readerview_subtext "使用閱讀模式讓文章即使在離線模式也能更好讀取 \u2014。">
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "您">
+<!ENTITY firstrun_account_message "在您別的裝置上有 &brandShortName; 嗎？">
+
+<!ENTITY  onboard_start_restricted1 "透過這個簡單版的 &brandShortName; 保持安全與控制程度。">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "行動書籤">
 <!ENTITY  history_title "瀏覽紀錄">
-<!ENTITY  reading_list_title "閱讀清單">
 <!ENTITY  recent_tabs_title "最近開啟的分頁">
 
 <!ENTITY  switch_to_tab "切換到分頁">
@@ -69,6 +79,11 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "畫面擷圖">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "閱讀清單">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; 個項目">
+<!ENTITY bookmark_folder_one_item "1 個項目">
 
 <!ENTITY reader_saved_offline "已儲存離線閱讀">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +189,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "秘訣: 長按網頁中的搜尋欄位，然後點擊 &formatI; 圖示來將任何網站新增至您的搜尋服務提供者清單。">
 <!ENTITY pref_category_advanced "進階">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "還原分頁、Data Saver、開發者工具">
 <!ENTITY pref_category_notifications "通知">
 <!ENTITY pref_category_notifications_summary "新功能、網站更新">
@@ -225,6 +243,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "啟用，第三方 Cookie 除外">
 <!ENTITY pref_cookies_disabled "停用">
 
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_data_saver "Data saver">
 <!ENTITY pref_category_media "媒體">
 <!ENTITY pref_category_developer_tools "開發者工具">
@@ -287,7 +308,12 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; 網站更新">
-<!ENTITY content_notification_action_settings "通知設定">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "設定">
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "立刻閱讀">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -538,6 +564,8 @@ size. -->
 <!ENTITY home_history_title "瀏覽紀錄">
 <!ENTITY home_synced_devices_smartfolder "已同步的裝置">
 <!ENTITY home_synced_devices_number "&formatD; 台裝置">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 台裝置">
 <!ENTITY home_history_back_to2 "回到完整瀏覽紀錄">
 <!ENTITY home_clear_history_button "清除瀏覽紀錄">
 <!ENTITY home_clear_history_confirm "您確定要清除瀏覽紀錄？">
@@ -777,4 +805,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_title "離線閱讀">
 <!ENTITY helper_first_offline_bookmark_message "就算離線時，您的閱讀畫面項目也會保存在書籤當中。">
 <!ENTITY helper_first_offline_bookmark_button "前往書籤">
+
+<!ENTITY helper_triple_readerview_open_title "可於離線時閱讀">
+<!ENTITY helper_triple_readerview_open_message "將閱讀畫面項目加入書籤，以在離線時閱讀。">
+<!ENTITY helper_triple_readerview_open_button "加入書籤">
+
 

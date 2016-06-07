@@ -23,6 +23,6 @@
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "加到副本 (Cc):">
 <!ENTITY ccButton.accesskey                 "C">
-<!ENTITY bccButton.label                    "加入到密件副本:">
+<!ENTITY bccButton.label                    "加到密件副本 (Bcc):">
 <!ENTITY bccButton.accesskey                "B">
 

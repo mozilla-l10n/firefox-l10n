@@ -26,6 +26,7 @@
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "已依照您的管理設定封鎖 <span id='forbidden_sitename'/> 網頁。">
 
+<!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
 <!ENTITY reportDeceptiveSite.label "回報詐騙網站…">
 <!ENTITY reportDeceptiveSite.accesskey "d">
 <!ENTITY notADeceptiveSite.label "此網站不是詐騙網站…">

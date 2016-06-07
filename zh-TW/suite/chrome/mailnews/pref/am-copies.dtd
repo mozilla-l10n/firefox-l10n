@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "其他資料夾:">
 <!ENTITY archiveInOtherFolder.accesskey "l">
 <!ENTITY specialFolders.label "草稿與範本">
-<!ENTITY keepDrafts.label "儲存郵件草稿到:">
+<!ENTITY keepDrafts2.label "將郵件草稿保存於:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "「草稿」郵件匣:">
 <!ENTITY draftsFolderOn.accesskey "D">

@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "回復為預設值">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
-<!ENTITY enterKeyCreatesNewParagraph.label    "使用段落格式時，按下 Enter 鍵建立新段落">
-<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
+<!ENTITY defaultToParagraph.label             "預設使用段落模式而非內文">
+<!ENTITY defaultToParagraph.accesskey         "P">
 
 <!ENTITY spellCheck.label                     "寄送前先檢查拼字">
 <!ENTITY spellCheck.accesskey                 "C">

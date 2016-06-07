@@ -27,8 +27,6 @@
 <!ENTITY appWeekly.accesskey                  "e">
 <!ENTITY appModeAutomatic.label               "自動下載並安裝更新檔案">
 <!ENTITY appModeAutomatic.accesskey           "u">
-<!ENTITY appModeAutoAddonWarn.label           "若需要停用任何已安裝的附加元件時先警告我">
-<!ENTITY appModeAutoAddonWarn.accesskey       "n">
 <!ENTITY updateHistoryButton.label            "顯示更新記錄…">
 <!ENTITY updateHistoryButton.accesskey        "S">
 
