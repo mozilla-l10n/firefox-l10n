@@ -12,6 +12,7 @@
 <!ENTITY netmonitorUI.toolbar.method "Metodo">
 <!ENTITY netmonitorUI.toolbar.file "File">
 <!ENTITY netmonitorUI.toolbar.domain "Dominio">
+<!ENTITY netmonitorUI.toolbar.cause "Origine">
 <!ENTITY netmonitorUI.toolbar.type "Tipo">
 <!ENTITY netmonitorUI.toolbar.transferred "Trasferito">
 <!ENTITY netmonitorUI.toolbar.size "Dimensione">
