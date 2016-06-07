@@ -182,8 +182,8 @@ temporal y pueas tentalo de nueves más sero.</li>
 <!ENTITY cspBlocked.title "Bloquióse pola política de seguranza de conteníu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina cargue d'esti mou porque tien una política de seguranza de conteníu que nun lo permite.</p>">
 
-<!ENTITY corruptedContentError.title "Fallu de conteníu toyíu">
-<!ENTITY corruptedContentError.longDesc "<p>Nun pue amosase la páxina que tas tentando de ver porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Fallu de conteníu toyíu">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Nun pue amosase la páxina que tas tentando de ver porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Contauta colos dueños del sitiu pa informa-yos d'esti problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O pues amestar una esceición…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sacáime d'equí!">
