@@ -11,3 +11,5 @@
 <!ENTITY addonAction.uninstall                  "הסר">
 <!ENTITY addonAction.undo                       "ביטול">
 
+<!ENTITY addonUnsigned.message                  "לא ניתן לאמת תוסף זה על־ידי &brandShortName;.">
+<!ENTITY addonUnsigned.learnMore                "מידע נוסף">

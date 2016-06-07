@@ -5,12 +5,15 @@
 
 <!ENTITY toolbar.searchPlaceholder     "חיפוש">
 
+<!ENTITY newPref.namePlaceholder       "שם">
 
 <!ENTITY newPref.valueString           "מחרוזת">
 <!ENTITY newPref.valueInteger          "מספר שלם">
 
+<!ENTITY newPref.stringPlaceholder     "הכנסת מחרוזת">
 <!ENTITY newPref.numberPlaceholder     "הכנסת מספר">
 
 <!ENTITY newPref.cancelButton          "ביטול">
 
 <!ENTITY contextMenu.copyPrefName      "העתקת שם">
+<!ENTITY contextMenu.copyPrefValue     "העתקת ערך">

@@ -26,6 +26,7 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1; ב־&formatS2;'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'תפריט סימניות'>
@@ -43,6 +44,9 @@
      Firefox. -->
 
 
+<!ENTITY fxaccount_status_history 'היסטוריה'>
+<!ENTITY fxaccount_status_passwords2 'כניסות'>
+<!ENTITY fxaccount_status_tabs 'לשוניות פתוחות'>
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
@@ -54,6 +58,7 @@
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox

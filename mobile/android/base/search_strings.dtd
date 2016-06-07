@@ -14,5 +14,8 @@
 <!ENTITY search_pref_title 'הגדרות'>
 <!ENTITY search_pref_button_content_description 'הגדרות'>
 
+<!ENTITY pref_clearHistory_confirmation 'ההיסטוריה נמחקה'>
+<!ENTITY pref_clearHistory_dialogMessage 'האם למחוק את כל היסטורית החיפוש מהתקן זה?'>
+<!ENTITY pref_clearHistory_title 'מחיקת היסטורית חיפוש'>
 
 

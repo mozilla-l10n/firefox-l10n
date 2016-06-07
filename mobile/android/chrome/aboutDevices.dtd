@@ -3,8 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDevices.title              "התקנים">
+<!ENTITY aboutDevices.header             "ההתקנים שלך">
 <!ENTITY aboutDevices.refresh            "רענון">
+<!ENTITY aboutDevices.addDeviceHeader    "הוספת התקן">
 <!ENTITY aboutDevices.roku               "Roku">
 <!ENTITY aboutDevices.chromecast         "Chromecast">
 <!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
      user prompting them to input the IP address of a casting device. -->
+<!ENTITY aboutDevices.placeholder        "כתובת IP">
+<!ENTITY aboutDevices.connectManually    "התחברות באופן ידני">
