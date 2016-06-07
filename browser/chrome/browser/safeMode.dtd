@@ -6,7 +6,7 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Start i Sikker Modus">
-<!ENTITY refreshProfile.label         "Oppfrisk &brandShortName;">
+<!ENTITY refreshProfile.label         "Frisk opp &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "Sikker Modus er en spesiell modus i &brandShortName; som kan brukes for å feilsøke problemer.">
 <!ENTITY safeModeDescription4.label   "Utvidelser og tilpassede innstillinger vil midlertidig slås av.">
