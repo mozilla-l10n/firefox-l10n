@@ -8,9 +8,9 @@
 <!-- Buttons -->
 <!ENTITY toButton.label                      "收件者->"> 
 <!ENTITY toButton.accesskey                  "T"> 
-<!ENTITY ccButton.label                      "副本(Cc)->"> 
+<!ENTITY ccButton.label                      "副本 (Cc)->"> 
 <!ENTITY ccButton.accesskey                  "C"> 
-<!ENTITY bccButton.label                     "密件副本(Bcc)->">  
+<!ENTITY bccButton.label                     "密件副本 (Bcc)->">  
 <!ENTITY bccButton.accesskey                 "B">  
 <!ENTITY newButton.label                     "新增…"> 
 <!ENTITY newButton.accesskey                 "N"> 
