@@ -109,6 +109,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "由于内容安全策略而被拦截">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了这个页面载入，因为这个页面的内容安全政策不允许其以这种方式被载入。</p>">
 
+<!ENTITY corruptedContentErrorv2.title "损坏内容错误">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>您尝试查看的页面无法显示，因为检测到传输的数据含有错误。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
@@ -134,6 +136,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>一个到 <span id='wrongSystemTime_URL'/> 的安全连接无法完成，因为您的计算机时钟好像使用了错误的时间。</p> <p>您的计算机认为现在是 <span id='wrongSystemTime_systemDate'/>，但它或许应该是 <span id='wrongSystemTime_actualDate'/>。请更正您的日期和时间设置以修复此问题。</p>">
 
 <!ENTITY certerror.pagetitle1  "不安全的连接">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此网站使用了 HTTP 严格传输安全（HSTS）要求 &brandShortName; 只进行安全连接。正因如此，您不能为此证书添加一个例外。">
@@ -144,3 +147,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> 使用了过时的安全技术，较容易遭受攻击。攻击者可以容易地获取您认为是安全的信息。需要该网站的管理员先修正服务器，然后您才能访问该网站。</p><p>错误代码：NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY prefReset.longDesc "看上去您的网络安全设置可能会导致此问题。您想还原到默认设置吗？">
+<!ENTITY prefReset.label "恢复默认设置">
