@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Autre :">
 <!ENTITY archiveInOtherFolder.accesskey "u">
 <!ENTITY specialFolders.label "Brouillons et modèles">
-<!ENTITY keepDrafts.label "Conserver les brouillons dans :">
+<!ENTITY keepDrafts2.label "Conserver les brouillons dans :">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Dossier « Brouillons » de :">
 <!ENTITY draftsFolderOn.accesskey "r">

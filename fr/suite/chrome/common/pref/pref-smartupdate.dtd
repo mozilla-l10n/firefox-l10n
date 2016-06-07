@@ -27,8 +27,6 @@
 <!ENTITY appWeekly.accesskey                  "m">
 <!ENTITY appModeAutomatic.label               "Télécharger et installer automatiquement la mise à jour">
 <!ENTITY appModeAutomatic.accesskey           "u">
-<!ENTITY appModeAutoAddonWarn.label           "Avertir si cela désactive des modules complémentaires">
-<!ENTITY appModeAutoAddonWarn.accesskey       "e">
 
 <!ENTITY updateHistoryButton.label            "Afficher l’historique des mises à jour…">
 <!ENTITY updateHistoryButton.accesskey        "h">

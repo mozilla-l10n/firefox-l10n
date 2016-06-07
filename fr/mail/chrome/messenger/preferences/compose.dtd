@@ -28,6 +28,8 @@
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 <!ENTITY enterKeyCreatesNewParagraph.label    "Lors de l’utilisation du formatage de paragraphe, la touche « Entrée » permet de créer un nouveau paragraphe">
 <!ENTITY enterKeyCreatesNewParagraph.accesskey "s">
+<!ENTITY defaultToParagraph.label             "Utiliser le format paragraphe à la place du format texte principal par défaut">
+<!ENTITY defaultToParagraph.accesskey         "P">
 
 <!ENTITY spellCheck.label                     "Vérifier l’orthographe avant l’envoi">
 <!ENTITY spellCheck.accesskey                 "V">
