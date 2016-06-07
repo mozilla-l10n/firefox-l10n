@@ -60,8 +60,6 @@
 <!ENTITY updateCheck.accesskey           "S">
 <!ENTITY updateManual.label              "Søg aldrig efter opdateringer (frarådes, sikkerhedsrisiko)">
 <!ENTITY updateManual.accesskey          "ø">
-<!ENTITY updateAutoAddonWarn.label       "Advar mig, hvis dette vil deaktivere nogle af mine tilføjelser">
-<!ENTITY updateAutoAddonWarn.accesskey   "A">
 <!ENTITY updateHistory.label             "Vis opdateringshistorik">
 <!ENTITY updateHistory.accesskey         "V">
 
