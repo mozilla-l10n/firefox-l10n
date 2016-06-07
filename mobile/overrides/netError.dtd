@@ -140,6 +140,8 @@
 <!ENTITY cspBlocked.title "由于内容安全策略而被阻止">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了这个页面的载入，因为这个页面的内容安全政策不允许其以这种方式被载入。</p>">
 
+<!ENTITY corruptedContentErrorv2.title "损坏内容错误">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>您尝试查看的页面无法显示，因为检测到传输的数据含有错误。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
 
 <!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
 <!ENTITY securityOverride.getMeOutOfHereButton "带我离开！">
