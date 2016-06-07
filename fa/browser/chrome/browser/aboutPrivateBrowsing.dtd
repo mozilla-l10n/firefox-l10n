@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "مرور ناشناس">
 
 <!ENTITY trackingProtection.title                        "محافظت در برابر ردگیری">
-
-
+<!ENTITY trackingProtection.description2                 "بعضی از سایت‌ها از ردیاب‌هایی برای پایش فعالیت‌های اینترنتی شما استفاده می‌کنند. با استفاده از «محافظت در برابر ردیابی» فایرفاکس تعداد زیادی از ردیاب‌هایی که اطلاعاتِ مرور شما را جمع‌آوری می‌کنند را مسدود می‌کند.">
+<!ENTITY trackingProtection.startTour1                   "ببینید چگونه کار می‌کند">
