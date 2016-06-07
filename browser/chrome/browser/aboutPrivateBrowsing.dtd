@@ -7,8 +7,8 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "پ">
 
 <!ENTITY privateBrowsing.title                           "مرور ناشناس">
-<!ENTITY privateBrowsing.title.tracking                  "مرور ناشناس با امکان محافظت در برابر ردگیری‌ها">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "هنگامی که شما در یک پنجره خصوصی شروع به مرور می‌کنید، فایرفاکس ">
+<!ENTITY privateBrowsing.title.tracking                  "مرور ناشناس با امکان محافظت در برابر ردگیری">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "هنگامی که شما در یک پنجره ناشناس شروع به مرور وب می‌کنید، فایرفاکس موارد زیر را ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ذخیره نمی‌کند">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "صفحات بازدید شده">
@@ -16,13 +16,13 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies               "کوکی‌ها">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "پرونده‌های موقتی">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "فایرفاکس ">
-<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "ذخیره‌ خواهد شد">
-<!ENTITY aboutPrivateBrowsing.info.saved.after2          " شما:">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "اطلاعات زیر را ذخیره خواهد کرد">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "بارگیری‌ها">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "نشانک‌ها">
 <!ENTITY aboutPrivateBrowsing.note.before                "مرور ناشناس ">
-<!ENTITY aboutPrivateBrowsing.note.emphasize             "باعث نمی‌شود شما ناشناخته باشید">
-<!ENTITY aboutPrivateBrowsing.note.after                 " در اینترنت که کارفرما یا ارائه‌دهنده خدمات اینترنت شما همچنان می‌تواند صفحاتی را که بازدید می‌کنید را ردیابی کند.">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "شما را در اینترنت ناشناس نمی‌کند.">
+<!ENTITY aboutPrivateBrowsing.note.after                 " کارفرما یا ارائه‌دهنده خدمات اینترنتی شما همچنان می‌تواند از صفحاتی که بازدید می‌کنید اطلاع داشته باشد.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "در مورد‌ آن بیشتر بدانید">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "مرور ناشناس">
 
