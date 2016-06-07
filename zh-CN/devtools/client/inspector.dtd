@@ -1,28 +1,38 @@
 <!-- LOCALIZATION NOTE (inspectorHTMLEdit.label): This is the label shown
      in the inspector contextual-menu for the item that lets users edit the
      (outer) HTML of the current node -->
-<!ENTITY inspectorHTMLEdit.label       "作为 HTML 编辑">
+<!ENTITY inspectorHTMLEdit.label       "编辑 HTML">
 <!ENTITY inspectorHTMLEdit.accesskey   "E">
 
 <!-- LOCALIZATION NOTE (inspectorCopyInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
+<!ENTITY inspectorCopyInnerHTML.label       "HTML 里面">
+<!ENTITY inspectorCopyInnerHTML.accesskey   "I">
 
 <!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
+<!ENTITY inspectorCopyOuterHTML.label       "HTML 外面">
+<!ENTITY inspectorCopyOuterHTML.accesskey   "O">
 
 <!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
+<!ENTITY inspectorCopyCSSSelector.label "CSS 选择器">
+<!ENTITY inspectorCopyCSSSelector.accesskey "S">
 
 <!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
+<!ENTITY inspectorPasteOuterHTML.label      "HTML 外面">
+<!ENTITY inspectorPasteOuterHTML.accesskey  "O">
 
 <!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
+<!ENTITY inspectorPasteInnerHTML.label      "HTML 里面">
+<!ENTITY inspectorPasteInnerHTML.accesskey  "I">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
@@ -76,6 +86,8 @@
      - add new attribute
      - edit attribute
      - remove attribute -->
+<!ENTITY inspectorAttributesSubmenu.label      "属性">
+<!ENTITY inspectorAttributesSubmenu.accesskey  "A">
 
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
@@ -106,6 +118,7 @@
      the URL embedding the image data encoded in Base 64 (what we name
      here Image Data URL). For more information:
      https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
+<!ENTITY inspectorImageDataUri.label       "图像数据 URL">
 
 <!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
      shown in the inspector contextual-menu for the item that lets users see
@@ -152,6 +165,7 @@
      - Copy Outer HTML
      - Copy Unique selector
      - Copy Image data URI -->
+<!ENTITY inspectorCopyHTMLSubmenu.label      "复制">
 
 <!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
@@ -162,3 +176,4 @@
      - After
      - As First Child
      - As Last Child -->
+<!ENTITY inspectorPasteHTMLSubmenu.label      "粘贴">
