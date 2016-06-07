@@ -69,7 +69,8 @@
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
-
+<!ENTITY cmd.unblock2.label               "อนุญาตการดาวน์โหลด">
+<!ENTITY cmd.unblock2.accesskey           "ต">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->

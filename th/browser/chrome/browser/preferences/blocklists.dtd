@@ -8,6 +8,7 @@
 <!ENTITY treehead.list.label          "รายการ">
 
 
-
-
-
+<!ENTITY button.cancel.label          "ยกเลิก">
+<!ENTITY button.cancel.accesskey      "ย">
+<!ENTITY button.ok.label              "บันทึกการเปลี่ยนแปลง">
+<!ENTITY button.ok.accesskey          "บ">

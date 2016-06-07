@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "ค้นหา">
 <!-- Toolbar items --> 
 
-<!ENTITY homeButton.label             "บ้าน">
+<!ENTITY homeButton.label             "หน้าแรก">
 
 <!ENTITY bookmarksButton.label          "ที่คั่นหน้า">
 <!ENTITY bookmarksCmd.commandkey "b">
