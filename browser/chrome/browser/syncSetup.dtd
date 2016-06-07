@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "ติดตั้ง &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "ยินดีต้อนรับ! หากคุณไม่เคยใช้งาน &syncBrand.fullName.label; มาก่อน คุณจำเป็นต้องสร้างบัญชีใหม่">
 <!ENTITY button.createNewAccount.label "สร้างบัญชีผู้ใช้ใหม่">
 <!ENTITY button.haveAccount.label      "ฉันมีบัญชีผู้ใช้แล้ว">
 
 <!ENTITY setup.choicePage.title.label     "คุณเคยใช้ &syncBrand.fullName.label; มาก่อนหรือไม่?">
-
-
+<!ENTITY setup.choicePage.new.label       "ฉันไม่เคยใช้ &syncBrand.shortName.label; มาก่อน">
+<!ENTITY setup.choicePage.existing2.label "ฉันใช้ &syncBrand.shortName.label; บนอุปกรณ์อื่นอยู่แล้ว">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "เซิร์ฟเวอร์">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "เชื่อมโยงอุปกรณ์">
 <!ENTITY addDevice.showMeHow.label          "บอกฉันว่าทำอย่างไร">
-
+<!ENTITY addDevice.dontHaveDevice.label     "ฉันไม่มีอุปกรณ์อยู่กับตัว">
 <!ENTITY pairDevice.setup.description.label  "เปิดการใช้งานโดยเลือก &quot;เชื่อมโยงอุปกรณ์&quot; จากอุปกรณ์ของคุณ">
 <!ENTITY addDevice.setup.enterCode.label    "จากนั้น กรอกรหัสนี้:">
 <!ENTITY pairDevice.dialog.description.label "เปิดการใช้งานบนอุปกรณ์ใหม่ของคุณ โดยไปที่ตัวเลือก &quot;ติดตั้ง Sync&quot; บนอุปกรณ์ของคุณ">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "ส่วนเสริม">
 <!ENTITY engine.addons.accesskey    "ส">
 
+<!ENTITY choice2a.merge.main.label       "ผสานข้อมูลของอุปกรณ์นี้กับข้อมูล &syncBrand.shortName.label; ของฉัน">
 <!ENTITY choice2.merge.recommended.label "แนะนำ:">
 <!ENTITY choice2a.client.main.label      "แทนที่ข้อมูลบนอุปกรณ์เครื่องนี้ด้วยข้อมูลจาก &syncBrand.shortName.label; ของฉัน">
-
+<!ENTITY choice2a.server.main.label      "แทนที่อุปกรณ์อื่น ๆ ทั้งหมดด้วยข้อมูลของอุปกรณ์นี้">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "ยืนยัน">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; จะผสานข้อมูลเบราว์เซอร์ทั้งหมดของอุปกรณ์นี้เข้ากับบัญชี Sync ของคุณ">
 <!ENTITY confirm.client3.label         "เตือน: ข้อมูลเหล่านี้ของ &brandShortName; บนอุปกรณ์เครื่องนี้จะถูกลบทิ้งทั้งหมด:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; จะคัดลอกข้อมูลจาก &syncBrand.fullName.label; ของคุณ ลงสู่อุปกรณ์เครื่องนี้">
 <!ENTITY confirm.server2.label         "เตือน: อุปกรณ์เหล่านี้จะถูกเขียนทับด้วยข้อมูลบนคอมพิวเตอร์เครื่องนี้:">

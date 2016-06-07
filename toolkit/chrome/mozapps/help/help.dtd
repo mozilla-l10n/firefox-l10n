@@ -20,7 +20,7 @@
 <!ENTITY selectAllCmd.accesskey         "ท">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "บ้าน">
+<!ENTITY homeButton.label               "หน้าแรก">
 <!ENTITY homeButton.tooltip             "กลับไปหน้าแรกวิธีใช้">
 <!ENTITY printButton.label              "พิมพ์">
 <!ENTITY printButton.tooltip            "พิมพ์หน้านี้">
