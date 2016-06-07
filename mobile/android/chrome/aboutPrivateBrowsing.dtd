@@ -12,9 +12,11 @@
      term. -->
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; חוסם חלקים מהדפים שעשויים לעקוב אחר פעילות הגלישה שלך.">
+<!ENTITY privatebrowsingpage.description.privateDetails "אנחנו לא נשמור שום היסטוריה, אבל קבצים שיורדו וסימניות חדשות שייווצרו עדיין יישמרו בהתקן שלך.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "בגלישה פרטית, לא נשאיר שום היסטורית גלישה או עוגיות. סימניות שיתווספו וקבצים שיורדו עדיין יישמרו בהתקן שלך.">
 
 <!ENTITY privatebrowsingpage.link.normal "פתיחת לשונית פרטית חדשה">
