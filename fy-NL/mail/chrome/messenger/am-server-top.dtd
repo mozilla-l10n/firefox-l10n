@@ -44,7 +44,7 @@
 <!ENTITY deleteOnServer2.accesskey "i">
 <!ENTITY downloadOnBiff.label "Nije berjochten automatysk ynlade">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Jo ynlochnamme">
+<!ENTITY username.label "Jo brûkersnamme">
 <!ENTITY deleteMessagePrefix.label "As ik in berjocht fuortsmyt:">
 <!ENTITY modelMoveToTrash.label "It nei it jiskefet ferpleatse">
 <!ENTITY modelMoveToTrash.accesskey "j">
