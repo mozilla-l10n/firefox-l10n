@@ -279,6 +279,8 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY tab_queue_notification_settings "لإمكانية \&quot;فتح عدة روابط\&quot; تحتاج لإعطاء &brandShortName; صلاحية \u0027الرسم فوق التطبيقات الأخرى\u0027">
+
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
@@ -773,5 +775,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "أضِف إلى شاشة البداية">
 
 <!ENTITY helper_first_offline_bookmark_title "اقرأ دون اتصال">
-
+<!ENTITY helper_first_offline_bookmark_message "اعثر على عناصر منظور القارئ في العلامات حتى بدون اتصّال.">
 <!ENTITY helper_first_offline_bookmark_button "اذهب إلى العلامات">
