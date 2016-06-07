@@ -65,16 +65,16 @@
 <!ENTITY addDevice.setup.enterCode.label    "Dêrnei, typ dizze koade:">
 <!ENTITY pairDevice.dialog.description.label "Om jo nije apparaat te aktivearjen, selektearje ‘Sync ynstelle’ op it apparaat.">
 <!ENTITY addDevice.dialog.enterCode.label   "Typ de koade dy't it apparaat jout:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Probearje op 'e nij.">
+<!ENTITY addDevice.dialog.tryAgain.label    "Probearje opnij.">
 <!ENTITY addDevice.dialog.successful.label  "It apparaat is suksesfol tafoege. De earste syngronisaasje kin inkele minuten duorje en sil op de achtergrûn slute.">
 <!ENTITY addDevice.dialog.recoveryKey.label "Om jo apparaat te aktivearjen, moatte jo jo werstelkaai opjaan. Meitsje in ôfdruk of bewarje dizze kaai en nim it mei jo mei.">
 <!ENTITY addDevice.dialog.connected.label   "Apparaat ferbûn">
 
 <!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Ynlogge">
+<!ENTITY setup.signInPage.title.label "Oannmelde">
 <!ENTITY existingRecoveryKey.description  "Jo kinne in kopy fan jo werstelkaai krije by &syncBrand.shortName.label; Opsjes op jo oare apparaat, en ‘Myn werstelkaai’ ûnder ‘Behear account’.">
 <!ENTITY verifying.label              "Ferifiearje…">
-<!ENTITY resetPassword.label          "Wachtwurd op 'e nij ynstelle">
+<!ENTITY resetPassword.label          "Wachtwurd opnij ynstelle">
 <!ENTITY resetSyncKey.label           "Ik haw myn oare apparaat ferlern.">
 
 <!-- Sync Options -->
