@@ -42,6 +42,9 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "افزودنی‌ها و شخصی‌سازی‌های شما حذف شده‌اند و تنظیمات مروگر شما دوباره به حالت پیش‌فرض برگشته است. اگر این مشکل شما را حل نکرد، ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "در مورد کارهایی که میتوانید انجام دهید بیشتر بدانید.">
@@ -49,9 +52,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "دیگر گروه‌های زبانه خود را منتقل کنید">
-
+<!ENTITY tabgroupsmigration.pagetitle2          "ما «گروه‌های زبانه» را حذف کرده‌ایم، اما زبانه‌های شما را ذخیره کردیم">
 <!ENTITY tabgroupsmigration.learnaboutaddons    "در مورد افزودنی‌های جایگزین گروه‌های زبانه بیشتر بدانید">
-
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; تمامی گروه‌های شما را نشانک‌گذاری کرده است تا چیزی را از دست ندهید.">
 <!ENTITY tabgroupsmigration.bookmarkbutton      "نمایش گروه‌های زبانه نشانک شده">
 <!ENTITY tabgroupsmigration.restoredescription  "شما همچنین می‌توانید انتخاب کنید که تعداد یا تمام گروه‌های در پس‌زمینه را به داخل پنجره باز کنید:">
 
