@@ -76,6 +76,8 @@
      - add new attribute
      - edit attribute
      - remove attribute -->
+<!ENTITY inspectorAttributesSubmenu.label      "Атрибути">
+<!ENTITY inspectorAttributesSubmenu.accesskey  "А">
 
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
@@ -152,6 +154,7 @@
      - Copy Outer HTML
      - Copy Unique selector
      - Copy Image data URI -->
+<!ENTITY inspectorCopyHTMLSubmenu.label      "Копіювати">
 
 <!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
@@ -162,3 +165,4 @@
      - After
      - As First Child
      - As Last Child -->
+<!ENTITY inspectorPasteHTMLSubmenu.label      "Вставити">
