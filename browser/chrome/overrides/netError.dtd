@@ -100,6 +100,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "اطلاعات پیشرفته: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "اتصال شما امن نیست">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "اطلاعات پیشرفته: SSL_ERROR_NO_CYPHER_OVERLAP">
@@ -111,6 +112,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "این پایگاه از امنیت بالای انتقال HTTP (HSTS) برای این&brandShortName; استفاده می‌کند و تنها اتصال به آن امن است. در نتیجه این امکان وجود ندارد تا برای این گواهی استثنایی قائل شود.">
 <!ENTITY certerror.copyToClipboard.label "رونوشت متن به کلیپ بورد">
 
+<!ENTITY inadequateSecurityError.title "اتصال شما امن نیست">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> استفاده از تکنولوژی های امنیتی که تاریخ‌ آن‌ها گذشته است در برابر حملات آسیب پذیراست. و حمله کننده می ‌تواند به راحتی اطلاعاتی که شما تصویر می‌کنید امن است را فاش کند. مدیریت پایگاه وب نیاز دارد تا نخست کارگزار را قبل از بازدید پایگاه وب درست کند.</p><p> کد خطا: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
