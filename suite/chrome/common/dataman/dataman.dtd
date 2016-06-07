@@ -155,6 +155,7 @@
 <!ENTITY forget.permissions.label "Permisos">
 <!ENTITY forget.permissions.accesskey "P">
 <!ENTITY forget.permissionspwd.label "Permisos de contraseña">
+<!ENTITY forget.permissionspwd.accesskey "r">
 <!ENTITY forget.preferences.label "Preferencias de contenido">
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "Contraseñas">
