@@ -11,6 +11,7 @@
 <!ENTITY aboutPage.checkForUpdates.none         "אין עדכונים זמינים">
 <!ENTITY aboutPage.checkForUpdates.available2   "הורדת עדכון">
 <!ENTITY aboutPage.checkForUpdates.downloading  "העדכון בהורדה…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "התקנת עדכון">
 <!ENTITY aboutPage.faq.label                    "תשובות לשאלות נפוצות">
 <!ENTITY aboutPage.support.label                "תמיכה">
 <!ENTITY aboutPage.privacyPolicy.label          "מדיניות פרטיות">

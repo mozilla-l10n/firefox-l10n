@@ -4,7 +4,10 @@
 
 <!ENTITY firstrun_panel_title_welcome "ברוכים הבאים">
 
+<!ENTITY firstrun_urlbar_message "ברוכים הבאים ל־&brandShortName;">
+<!ENTITY firstrun_bookmarks_title "היסטוריה">
 <!ENTITY firstrun_data_title "נתונים">
+<!ENTITY firstrun_sync_title "Sync">
 <!ENTITY  onboard_start_button_browser "התחלת גלישה">
 
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
@@ -60,6 +63,8 @@
 
 <!ENTITY history_today_section "היום">
 <!ENTITY history_yesterday_section "אתמול">
+<!ENTITY history_week_section3 "7 הימים האחרונים">
+<!ENTITY history_older_section3 "ישן מ־6 חודשים">
 
 <!ENTITY search "חיפוש">
 <!ENTITY reload "טעינה מחדש">
@@ -88,9 +93,12 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "מנגן שמע – &formatS;">
 
 <!ENTITY settings "הגדרות">
 <!ENTITY settings_title "הגדרות">
+<!ENTITY pref_category_general "כללי">
+<!ENTITY pref_category_general_summary3 "דף בית, שפה, תור לשונית">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -129,7 +137,12 @@
 <!ENTITY overlay_no_synced_devices "לא אותרו התקנים המחוברים ל־Firefox Account">
 
 <!ENTITY pref_category_search3 "חיפוש">
+<!ENTITY pref_category_accessibility "נגישות">
+<!ENTITY pref_category_accessibility_summary2 "גודל טקסט, מרחק מתצוגה, קלט קולי">
 <!ENTITY pref_category_privacy_short "פרטיות">
+<!ENTITY pref_category_privacy_summary4 "מעקב, כניסות, בחירות נתונים">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "אודות &brandShortName;, תשובות לשאלות נפוצות, משוב">
 <!ENTITY pref_category_datareporting "בחירות נתונים">
 <!ENTITY pref_category_logins "כניסות">
 <!ENTITY pref_learn_more "מידע נוסף">
@@ -143,33 +156,52 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "טיפ: ניתן להוסיף כל אתר לרשימת ספקי החיפוש שלך על ידי לחיצה ארוכה על שדה החיפוש שלו ולאחר מכן הקשה על הסמל &formatI;.">
 <!ENTITY pref_category_advanced "מתקדם">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_notifications "התראות">
+<!ENTITY pref_category_notifications_summary "תכונות חדשות, עדכוני אתרים">
+<!ENTITY pref_content_notifications "עדכוני אתרים">
+<!ENTITY pref_content_notifications_summary2 "גילוי תוכן חדש מאתרים נתמכים">
+<!ENTITY pref_developer_remotedebugging_usb "ניפוי שגיאות מרחוק דרך USB">
+<!ENTITY pref_developer_remotedebugging_wifi "ניפוי שגיאות מרחוק דרך Wi-Fi">
 <!ENTITY pref_remember_signons2 "שמירת כניסות">
 <!ENTITY pref_manage_logins "ניהול כניסות">
 
 <!ENTITY pref_category_home "בית">
 <!ENTITY pref_category_home_summary "התאמה אישית של עמוד הבית">
 <!ENTITY pref_category_home_panels "לוחות">
+<!ENTITY pref_category_home_add_ons "תוספות">
+<!ENTITY pref_home_updates2 "עדכוני תוכן">
 <!ENTITY pref_home_updates_enabled "מופעל">
 <!ENTITY pref_home_updates_wifi "על רשתות Wi-Fi בלבד">
+<!ENTITY pref_category_home_homepage "דף בית">
+<!ENTITY home_homepage_title "הגדרת דף בית">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "דף הבית של &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "מותאם אישית">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "הכנסת כתובת או מונח חיפוש">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "כללי">
+<!ENTITY pref_header_search "חיפוש">
 <!ENTITY pref_header_privacy_short "פרטיות">
+<!ENTITY pref_header_accessibility "נגישות">
+<!ENTITY pref_header_notifications "התראות">
+<!ENTITY pref_header_advanced "מתקדם">
 <!ENTITY pref_header_help "עזרה">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
@@ -181,19 +213,41 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_media "מדיה">
+<!ENTITY pref_category_developer_tools "כלי פיתוח">
+
+<!ENTITY pref_tap_to_load_images_title2 "הצגת תמונות">
+<!ENTITY pref_tap_to_load_images_enabled "תמיד">
+<!ENTITY pref_tap_to_load_images_data "רק בחיבורי Wi-Fi">
 
 
+<!ENTITY pref_tracking_protection_title2 "הגנת מעקב">
+<!ENTITY pref_tracking_protection_summary3 "מופעל בגלישה פרטית">
+<!ENTITY pref_donottrack_summary "&brandShortName; יגיד לאתרים שאין ברצונך שיעקבו אחריך">
 
+<!ENTITY pref_tracking_protection_enabled "מופעל">
+<!ENTITY pref_tracking_protection_enabled_pb "מופעל בגלישה פרטית">
+<!ENTITY pref_tracking_protection_disabled "מנורטל">
 
+<!ENTITY pref_whats_new_notification "מה חדש ב־&brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "למד אודות תכונות חדשות לאחר עדכון">
 
+<!ENTITY tracking_protection_prompt_title "עכשיו עם הגנת מעקב">
+<!ENTITY tracking_protection_prompt_tip_text "נא לעבור אל הגדרות הפרטיות למידע נוסף">
+<!ENTITY tracking_protection_prompt_action_button "הבנתי!">
 
-
+<!ENTITY tab_queue_toast_message3 "הלשונית נשמרה ב־&brandShortName;">
+<!ENTITY tab_queue_toast_action "פתיחה כעת">
+<!ENTITY tab_queue_prompt_title "האם לפתוח קישורים מרובים?">
+<!ENTITY tab_queue_prompt_text4 "שמירה עד לפתיחה הבאה של &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text2 "ניתן לשנות זאת מאוחר יותר בהגדרות">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "הפעלה">
 <!ENTITY tab_queue_prompt_negative_action_button "לא כעת">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "מעבר להגדרות">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -207,10 +261,12 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; אתרים עודכנו">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
@@ -218,6 +274,7 @@
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "עודכן בתאריך &formatS;">
 
 <!ENTITY pref_char_encoding "קידוד תווים">
 <!ENTITY pref_char_encoding_on "הצגת תפריט">
@@ -225,6 +282,8 @@
 <!ENTITY pref_clear_private_data2 "מחיקה כעת">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "מחיקה כעת">
+<!ENTITY pref_clear_on_exit_title3 "מחיקת נתונים פרטיים ביציאה">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ימחק נתונים בצורה אוטומטית בכל פעם שתיבחר האפשרות „יציאה” מהתפריט הראשי. ">
 <!ENTITY pref_plugins "תוספים חיצוניים">
 <!ENTITY pref_plugins_enabled "פעיל">
