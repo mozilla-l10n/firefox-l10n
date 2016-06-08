@@ -18,14 +18,25 @@
 <!ENTITY firstrun_signin_message "Conectate, empecemos">
 <!ENTITY firstrun_signin_button "Registrarse en Sync">
 <!ENTITY  onboard_start_button_browser "Iniciar navegación">
+<!ENTITY firstrun_button_notnow "No ahora">
 <!ENTITY firstrun_button_next "Siguiente">
 
+<!ENTITY firstrun_tabqueue_title "Enlaces">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Habilitar cola de pestañas">
+<!ENTITY firstrun_tabqueue_subtext_off "Guardar enlaces para después en &brandShortName; al tocarlos en otras aplicaciones.">
 
+<!ENTITY firstrun_tabqueue_message_on "¡Éxito!">
+<!ENTITY firstrun_tabqueue_subtext_on "Siempre se puede desactivar esto en &settings; / &pref_category_general;.">
 
+<!ENTITY firstrun_readerview_title "Artículos">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Perder el desorden">
+<!ENTITY firstrun_readerview_subtext "Usá vista de lectura para que los artículos sean más fáciles de leer \u2014 aún sin conexión.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Vos">
+<!ENTITY firstrun_account_message "¿Tenés &brandShortName; en otro dispositivo?">
 
 <!ENTITY  onboard_start_restricted1 "Mantenete seguro y en control con esta versión simplificada de &brandShortName;.">
 
