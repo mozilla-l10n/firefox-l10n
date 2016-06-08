@@ -189,5 +189,7 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "Віддалений XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Будь ласка, зв’яжіться з власниками сайта та поінформуйте їх про цю проблему.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Ваше з'єднання незахищене">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> використовує технологію безпеки, яка є застарілою і вразливою до атак. Нападник може з легкістю розкрити інформацію, яка, на вашу думку, знаходиться в безпеці. Перед тим, як ви зможете відвідати сайт, його адміністратор повинен виправити це на сервері.</p><p>Код помилки: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
