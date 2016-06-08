@@ -49,7 +49,7 @@
 <!ENTITY  switch_to_tab "切换到标签页">
 
 <!ENTITY  crash_reporter_title "&brandShortName; 崩溃报告器">
-<!ENTITY  crash_message2 "&brandShortName; 因某个问题而崩溃。您的标签页将在下次启动的 &brandShortName; 开始页中列出。">
+<!ENTITY  crash_message2 "&brandShortName; 因某个问题而崩溃。下次启动 &brandShortName; 时，您的标签页将在开始页中列出。">
 <!ENTITY  crash_send_report_message3 "告知 &vendorShortName; 有关此次崩溃的情况，以便修复此问题">
 <!ENTITY  crash_include_url2 "包含当时访问页面的地址">
 <!ENTITY  crash_sorry "非常抱歉">
@@ -757,7 +757,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!ENTITY devtools_auth_scan_header "扫描您的其他设备上显示的二维码">
+<!ENTITY devtools_auth_scan_header "扫描另一台设备上显示的二维码">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
