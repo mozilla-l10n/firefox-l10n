@@ -563,7 +563,7 @@ size. -->
 <!ENTITY home_title "&brandShortName; 首页">
 <!ENTITY home_history_title "历史记录">
 <!ENTITY home_synced_devices_smartfolder "受同步的设备">
-<!ENTITY home_synced_devices_number "&formatD; 设备">
+<!ENTITY home_synced_devices_number "&formatD; 台设备">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 台设备">
 <!ENTITY home_history_back_to2 "返回完整历史记录">
@@ -591,13 +591,13 @@ size. -->
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; 个隐藏的设备">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; 台隐藏的设备">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "隐藏的设备">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "取消隐藏选中设备">
+<!ENTITY home_remote_tabs_unhide_selected_devices "不再隐藏选中的设备">
 
 <!ENTITY remote_tabs_panel_moved_title "我的标签页去哪了？">
 <!ENTITY remote_tabs_panel_moved_desc "我们已经从其他设备转移了您的标签页到您的首页上的一个面板，这让您可以轻松地在每次打开新标签页时访问它们。">
