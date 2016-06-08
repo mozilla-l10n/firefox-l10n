@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Velkommen">
-<!ENTITY  onboard_start_message3 "På nettet med &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Gør dit mobile internet til dit eget.">
 
 <!ENTITY firstrun_urlbar_message "Velkommen til &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Find tingene hurtigere ved hjælp af søgeforslag.">
@@ -20,20 +18,32 @@
 <!ENTITY firstrun_signin_message "Bliv forbundet, start">
 <!ENTITY firstrun_signin_button "Log ind på Sync">
 <!ENTITY  onboard_start_button_browser "Start surfing">
+<!ENTITY firstrun_button_notnow "Ikke nu">
 <!ENTITY firstrun_button_next "Næste">
 
-<!ENTITY  onboard_start_restricted1 "Beskyt dig selv og bevar kontrollen med denne mere simple version af &brandShortName;.">
+<!ENTITY firstrun_tabqueue_title "Links">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Aktiver fanebladskø">
+<!ENTITY firstrun_tabqueue_subtext_off "Gem links til senere åbning i &brandShortName;, når du vælger dem i andre apps.">
 
-<!ENTITY  reading_list_migration_title "Forbundet til Læseliste">
-<!ENTITY  reading_list_migration_subtext "Indholdet i din Læseliste vil nu blive føjet til dine bogmærker">
-<!ENTITY  reading_list_migration_goto_bookmarks "Åbn bogmærker">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Dit bogmærkepanel er skjult">
+<!ENTITY firstrun_tabqueue_message_on "Succes!">
+<!ENTITY firstrun_tabqueue_subtext_on "Du kan altid deaktivere igen i &settings; under &pref_category_general;.">
+
+<!ENTITY firstrun_readerview_title "Artikler">
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Slip af med distraherende elementer">
+<!ENTITY firstrun_readerview_subtext "Brug læsevisning til at gøre artikler mere læsevenlige \u2014 også når du er offline.">
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Dig">
+<!ENTITY firstrun_account_message "Har du &brandShortName; på andre enheder?">
+
+<!ENTITY  onboard_start_restricted1 "Beskyt dig selv og bevar kontrollen med denne mere simple version af &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Bogmærker">
 <!ENTITY  history_title "Historik">
-<!ENTITY  reading_list_title "Læseliste">
 <!ENTITY  recent_tabs_title "Seneste faneblade">
 
 <!ENTITY  switch_to_tab "Skift til faneblad">
@@ -69,6 +79,11 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Skærmbilleder">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Læseliste">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; enheder">
+<!ENTITY bookmark_folder_one_item "1 enhed">
 
 <!ENTITY reader_saved_offline "Gemt offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -288,7 +303,12 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; websteder er blevet opdateret">
-<!ENTITY content_notification_action_settings "Indstillinger for beskeder">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Indstillinger">
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Læs nu">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -536,6 +556,8 @@ size. -->
 <!ENTITY home_history_title "Historik">
 <!ENTITY home_synced_devices_smartfolder "Synckroniserede enheder">
 <!ENTITY home_synced_devices_number "&formatD; enheder">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 enhed">
 <!ENTITY home_history_back_to2 "Tilbage til hele historikken">
 <!ENTITY home_clear_history_button "Ryd browserhistorik">
 <!ENTITY home_clear_history_confirm "Er du sikker på, at du vil rydde historikken?">
@@ -784,3 +806,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_title "Læs offline">
 <!ENTITY helper_first_offline_bookmark_message "Find ting fra din læseliste i bogmærkerne, også når du er offline.">
 <!ENTITY helper_first_offline_bookmark_button "Åbn bogmærker">
+
+<!ENTITY helper_triple_readerview_open_title "Tilgængelig offline">
+<!ENTITY helper_triple_readerview_open_message "Bogmærk elementer i læsevisning, så du kan læse dem offline.">
+<!ENTITY helper_triple_readerview_open_button "Føj til bogmærker">

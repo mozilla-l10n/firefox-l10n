@@ -184,8 +184,8 @@ og du anbefales at prøve igen senere.</li>
 <!ENTITY cspBlocked.title "Blokeret grundet indholdssikkerhedspolitik">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindrede denne webside i at blive indlæst på denne måde da den har en indholdssikkerhedspolitik, der forbyder dette.</p>">
 
-<!ENTITY corruptedContentError.title "Fejlbehæftet indhold">
-<!ENTITY corruptedContentError.longDesc "<p>Websiden kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Fejlbehæftet indhold">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Websiden kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Eller du kan tilføje en undtagelse…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få mig væk herfra!">
