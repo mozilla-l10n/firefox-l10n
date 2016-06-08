@@ -10,26 +10,13 @@
 <!ENTITY netmonitorUI.reloadNotice3 ", aby zobaczyć szczegółowe informacje o aktywności sieciowej.">
 
 <!ENTITY netmonitorUI.toolbar.status3 "Status">
-<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
-  -  in the network table toolbar, above the "method" column. -->
 <!ENTITY netmonitorUI.toolbar.method      "Metoda">
-
-<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.file): This is the label displayed
-  -  in the network table toolbar, above the "file" column. -->
 <!ENTITY netmonitorUI.toolbar.file        "Plik">
-
-<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
-  -  in the network table toolbar, above the "domain" column. -->
 <!ENTITY netmonitorUI.toolbar.domain      "Domena">
-
-<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
-  -  in the network table toolbar, above the "type" column. -->
+<!ENTITY netmonitorUI.toolbar.cause "Przyczyna">
 <!ENTITY netmonitorUI.toolbar.type        "Typ">
 <!ENTITY netmonitorUI.toolbar.transferred "Przesłano">
 <!ENTITY netmonitorUI.toolbar.size        "Rozmiar">
-
-<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
-  -  in the network table toolbar, above the "waterfall" column. -->
 <!ENTITY netmonitorUI.toolbar.waterfall   "Oś czasu">
 
 <!ENTITY netmonitorUI.tab.headers         "Nagłówki">
