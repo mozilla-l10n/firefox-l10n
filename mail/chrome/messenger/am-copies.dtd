@@ -15,14 +15,14 @@
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Розділяйте адреси комами">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Слати Bcc на ці адреси:">
+<!ENTITY bccAddress.label "Надсилати приховані копії за цими адресами:">
 <!ENTITY bccAddress.accesskey "т">
 <!ENTITY bccAddressList.placeholder "Розділяйте адреси комами">
 <!ENTITY saveMessageDlg.label "Показувати діалог підтвердження під час збереження пошти">
 <!ENTITY saveMessageDlg.accesskey "к">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "Тека «Відіслані» у:">
-<!ENTITY sentFolderOn.accesskey "в">
+<!ENTITY sentFolderOn.label "теці &quot;Надіслані&quot; у:">
+<!ENTITY sentFolderOn.accesskey "Н">
 <!ENTITY sentInOtherFolder.label "Інші:">
 <!ENTITY sentInOtherFolder.accesskey "І">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
@@ -31,19 +31,20 @@
 <!ENTITY keepArchives.accesskey "а">
 <!ENTITY archiveHierarchyButton.label "Налаштування архіву…">
 <!ENTITY archiveHierarchyButton.accesskey "л">
-<!ENTITY archivesFolderOn.label "Тека «Архіви» у:">
+<!ENTITY archivesFolderOn.label "теці &quot;Архіви&quot; у:">
 <!ENTITY archivesFolderOn.accesskey "А">
 <!ENTITY archiveInOtherFolder.label "Інші:">
 <!ENTITY archiveInOtherFolder.accesskey "і">
 <!ENTITY specialFolders.label "Чернетки та шаблони">
+<!ENTITY keepDrafts2.label "Зберігати чернетки повідомлень у:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Тека «Чернетки» у:">
+<!ENTITY draftsFolderOn.label "теці &quot;Чернетки&quot; у:">
 <!ENTITY draftsFolderOn.accesskey "Ч">
 <!ENTITY draftInOtherFolder.label "Інші:">
 <!ENTITY draftInOtherFolder.accesskey "н">
 <!ENTITY keepTemplates.label "Зберігати шаблони листів у:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Тека «Шаблони» у:">
-<!ENTITY templatesFolderOn.accesskey "ш">
+<!ENTITY templatesFolderOn.label "теці &quot;Шаблони&quot; у:">
+<!ENTITY templatesFolderOn.accesskey "Ш">
 <!ENTITY templateInOtherFolder.label "Інші:">
 <!ENTITY templateInOtherFolder.accesskey "і">
