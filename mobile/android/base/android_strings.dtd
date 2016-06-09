@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "സ്വാഗതം">
-<!ENTITY  onboard_start_message3 "&brandShortName; ഉപയോഗിച്ചു് പരതുക">
-<!ENTITY  onboard_start_subtext3 "താങ്കളുടെ മൊബൈല്‍ ബ്രൗസിങ്ങ് അനുഭവത്തെ തികച്ചും സ്വന്തമാക്കി മാറ്റൂ.">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; -ലേക്ക് സ്വാഗതം">
 
@@ -20,19 +18,25 @@
 
 
 <!ENTITY  onboard_start_button_browser "ബ്രൌസിങ് തുടങ്ങാം">
+
 <!ENTITY firstrun_button_next "അടുത്ത">
 
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
 <!ENTITY  onboard_start_restricted1 "&brandShortName; ന്‍റെ ഈ ലളിതമാക്കിയ പതിപ്പ് വഴി സുരക്ഷിതമായും നിയന്ത്രണത്തിലായും തുടരൂ.">
-
-
-
-
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY  history_title "നാള്‍വഴി">
-
 <!ENTITY  recent_tabs_title "ഒടുവില്‍ ഉപയോഗിച്ച ടാബുകള്‍">
 
 <!ENTITY  switch_to_tab "ടാബ് മാറ്റുക">
@@ -66,6 +70,9 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
 
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -166,7 +173,9 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 
-
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 
 
@@ -211,7 +220,9 @@
 <!ENTITY pref_cookies_accept_all "പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു">
 <!ENTITY pref_cookies_not_accept_foreign "മൂന്നാം കക്ഷിയെ ഒഴിവാക്കി, പ്രവര്‍ത്തനസജ്ജമാക്കി">
 <!ENTITY pref_cookies_disabled "പ്രവര്‍ത്തനരഹിതമാക്കി">
-
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 
 
@@ -260,7 +271,10 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -389,12 +403,12 @@ size. -->
 <!ENTITY share_image_failed "ഈ ചിത്രം പങ്കുവെക്കാൻ സാധിച്ചില്ല">
 <!ENTITY save_as_pdf "PDF ആയി സൂക്ഷിക്കുക">
 
-<!ENTITY find_in_page "താളില്‍ കണ്ടെത്തുക">
-<!ENTITY desktop_mode "സ്ക്രീനില്‍ കാണുന്ന സൈറ്റ് ">
+
+
 <!ENTITY page "താള്‍">
 <!ENTITY tools "ഉപകരണങ്ങള്‍">
-<!ENTITY new_tab "പുതിയ ടാബ്">
-<!ENTITY new_private_tab "പുതിയ സ്വകാര്യ ടാബ്">
+
+
 <!ENTITY close_all_tabs "എല്ലാ ടാബും അടക്കുക">
 <!ENTITY close_private_tabs "സ്വകാര്യ റ്റാബുകള്‍ അടയ്ക്കൂ">
 
@@ -495,6 +509,7 @@ size. -->
 <!ENTITY home_history_title "നാള്‍വഴി">
 
 
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 
 <!ENTITY home_clear_history_button "ബ്രൗസിങ്ങ് നാൾവഴി വെടിപ്പാക്കുക">
 <!ENTITY home_clear_history_confirm "നാള്‍വഴി മായ്ക്കട്ടെ?">
@@ -685,6 +700,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+
+
+
 
 
 
