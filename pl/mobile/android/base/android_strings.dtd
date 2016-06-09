@@ -428,6 +428,7 @@
 <!ENTITY home_last_tabs_title "Karty z ostatniej sesji">
 <!ENTITY home_last_tabs_empty "Tutaj pojawiają się ostatnio otwarte karty.">
 <!ENTITY home_open_all "Otwórz wszystkie">
+<!ENTITY home_restore_all "Przywróć wszystkie">
 <!ENTITY home_closed_tabs_number "Karty: &formatD;">
 <!ENTITY home_closed_tabs_one "Karty: 1">
 <!ENTITY home_most_recent_empty "Tutaj pojawiają się ostatnio odwiedzone witryny.">
