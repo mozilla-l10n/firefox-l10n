@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Nunca procurar atualizações (não recomendado: risco de segurança)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Avisar-me se este procedimento desativar algum dos meus extras">
-<!ENTITY updateAutoAddonWarn.accesskey   "v">
-
 <!ENTITY updateHistory.label             "Mostrar o histórico das atualizações">
 <!ENTITY updateHistory.accesskey         "h">
 

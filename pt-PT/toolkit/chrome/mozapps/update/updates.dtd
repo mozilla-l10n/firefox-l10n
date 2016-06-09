@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "O &brandShortName; está desatualizado, mas o seu sistema operativo não é compatível com a versão mais recente. Atualize o seu sistema e volte a tentar. Este aviso não voltará a ser mostrado, mas pode obter">
 <!ENTITY  unsupportedLink.label           "mais informações.">
 
-<!ENTITY  incompatibleCheck.title         "A verificar a compatibilidade do extra">
-<!ENTITY  incompatibleCheck.label         "A procurar versões mais recentes dos seus extras…">
-
 <!ENTITY  clickHere.label                 "Saber mais informações sobre esta atualização">
 
 <!ENTITY  evangelism.desc                 "Recomendamos que aplique esta atualização do &brandShortName; o mais depressa possível.">
-
-<!ENTITY  license.instructions            "Se concordar com os termos deste acordo, clique Concordo (em baixo) para continuar com a instalação desta atualização.">
-
-<!ENTITY  license.titleText               "Acordo de licenciamento de software">
-<!ENTITY  license.introText               "Termos e condições para usar este software.">
-<!ENTITY  license.instructionText         "Por favor, leia o seguinte acordo de licenciamento. Utilize a barra lateral para ver o resto deste acordo.">
-<!ENTITY  license.accept                  "Eu aceito os termos do acordo de licenciamento">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Eu NÃO aceito os termos do acordo de licenciamento">
-<!ENTITY  license.decline.accesskey       "e">
-
-<!ENTITY  incompatibleList.title          "Encontrados extras incompatíveis">
 
 <!ENTITY  downloadPage.title              "A descarregar o &brandShortName;">
 <!ENTITY  downloading.intro               "A descarregar atualização…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "A atualização será instalada da próxima vez que o &brandShortName; iniciar. Pode reiniciar agora o &brandShortName; ou continuar a trabalhar e reiniciar mais tarde.">
 
-<!ENTITY  installed.title                 "Atualização instalada">
-<!ENTITY  installed.intro                 "A atualização foi instalada com sucesso.">
-<!ENTITY  whatsnew.label                  "Saber mais acerca das novidades…">
 
 <!ENTITY  update.details.label            "Detalhes">
 <!ENTITY  update.installedOn.label        "Instalada em:">
