@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
 
-<!ENTITY corruptedContentError.title "Galat Konten Rusak">
-<!ENTITY corruptedContentError.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Galat Konten Rusak">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
@@ -107,11 +107,15 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Canggih">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> menggunakan teknologi keamanan yang ketinggalan zaman dan rentan penyerangan. Penyerang bisa mengungkapkan informasi yang Anda sangka aman.">
 <!ENTITY weakCryptoAdvanced.override "(Tidak aman) Coba muat <span class='hostname'></span> menggunakan keamanan yang ketinggalan zaman">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Sambungan Tidak Aman">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Situs ini menggunakan HTTP Keamanan Transpor Ketat (HTTP Strict Transport Security - HSTS) untuk menentukan agar &brandShortName; hanya tersambung ke situs ini secara aman. Sebagai akibatknya, Anda tidak dapat menambahkan pengecualian untuk sertifikat ini.">
+
 <!ENTITY certerror.copyToClipboard.label "Salin teks ke papan klip">
 
 <!ENTITY inadequateSecurityError.title "Sambungan Anda tidak aman">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

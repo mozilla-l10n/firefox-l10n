@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Buka preferensi &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Sambungkan ulang ke &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verifikasikan Akun Anda">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; diaktifkan">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; akan memulai penyinkronan sesaat lagi.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minikan">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Markah Lain">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tampilkan markah lainnya">
 
+
+
+
+
 <!ENTITY backCmd.label                "Mundur">
 <!ENTITY backButton.tooltip           "Mundur satu laman">
 <!ENTITY forwardCmd.label             "Maju">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Markah Lain">
 <!ENTITY viewBookmarksSidebar2.label        "Tampilkan Bilah Samping Markah">
 <!ENTITY viewBookmarksToolbar.label         "Tampilkan Bilah Alat Markah">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "B">
 <!ENTITY newUserContext.label             "Tab Kontainer Baru">
 <!ENTITY newUserContext.accesskey         "K">
-<!ENTITY userContextPersonal.label        "Pribadi">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Pekerjaan">
-<!ENTITY userContextWork.accesskey        "k">
-<!ENTITY userContextBanking.label         "Bank">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Belanja">
-<!ENTITY userContextShopping.accesskey    "j">
 <!ENTITY newNavigatorCmd.label        "Jendela Baru">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "J">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Keraskan">
 <!ENTITY mediaUnmute.accesskey       "K">
-<!ENTITY mediaPlaybackRate.label     "Kecepatan Putar">
-<!ENTITY mediaPlaybackRate.accesskey "K">
-<!ENTITY mediaPlaybackRate050x.label "Gerak Lambat (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "L">
-<!ENTITY mediaPlaybackRate100x.label "Normal">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Gerak Cepat (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "C">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Cepaat Sekali (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "a">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Sambungan Aman">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Aman">
 <!ENTITY identity.connectionFile "Laman ini tersimpan di komputer Anda.">
-<!ENTITY identity.connectionVerified1 "Anda tersambung dengan aman ke situs ini, yang dijalankan oleh:">
+
 <!ENTITY identity.connectionInternal "Ini adalah laman &brandShortName; aman.">
 <!ENTITY identity.insecureLoginForms2 "Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.">
 <!-- Strings for connection state warnings. -->

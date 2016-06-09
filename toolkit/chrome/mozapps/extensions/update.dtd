@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Ditemukan Pengaya yang kompatibel">
 <!ENTITY  found.top.label                 "Pilih Pengaya yang akan dipasang:">
-<!ENTITY  found.disabledXPinstall.label   "Versi baru tidak dapat dipasang karena pemasangan perangkat lunak sedang dimatikan. Anda dapat mengubah pengaturan berikut.">
+
 <!ENTITY  found.enableXPInstall.label     "Izinkan situs web untuk memasang perangkat lunak">
 <!ENTITY  found.enableXPInstall.accesskey "a">
 
