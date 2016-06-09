@@ -8,7 +8,7 @@
 
 <!ENTITY aboutWarningTitle.label "Fortsett med varsomhet. Du kan bryte garantien!">
 <!ENTITY aboutWarningText.label "Dersom du endrer disse avanserte innstillingene kan det virke negativt på sikkerhet, stabilitet og ytelse i dette programmet. Fortsett bare dersom du vet hva du gjør.">
-<!ENTITY aboutWarningButton.label "Jeg skal være forsiktig, jeg lover!">
+
 <!ENTITY aboutWarningCheckbox.label "Vis denne advarselen neste gang også">
 
 <!ENTITY searchPrefs.label "Søk:">
