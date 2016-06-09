@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "&brandShortName;a te kevn e, lê versiyona nû ji hêla pergala te ve nayê destekirin. Tika ye pergala xwe bilind bike, û paşê dîsa biceribîne. Tu yê vê hişyariyê careke din nebînî, lê tu dikarî">
 <!ENTITY  unsupportedLink.label           "agahiyên din bistînî.">
 
-<!ENTITY  incompatibleCheck.title         "Hevgirtina Add-onê Kontrol Dike">
-<!ENTITY  incompatibleCheck.label         "Li guhertoyên nûtir ên add-onên te digere…">
-
 <!ENTITY  clickHere.label                 "Zêdetir agahî derbarê vê rojanekirinê de nîşan bide">
 
 <!ENTITY  evangelism.desc                 "Bi awayeke tund tê pêşniyarkirin ku vê yekê bikî rojane bike ji bo &brandShortName; di demeke herî nêz de.">
-
-<!ENTITY  license.instructions            "Heke şertên vê peymanê bipejirînî Dipejirînim bitikîne û sazkirinê bidomîne.">
-
-<!ENTITY  license.titleText               "Peymana Lîsansa Nivîsbariyê">
-<!ENTITY  license.introText               "Şert û rewşên bikaranîna vê nivîsbariyê.">
-<!ENTITY  license.instructionText         "Ji kerema xwe peymana lîsansê ya lijêr bixwîne. Ji bo xwendina hemû peymanê şiva kêlekê bi kar bîne.">
-<!ENTITY  license.accept                  "Şertên Peymana Lîsansê dipejirînim">
-<!ENTITY  license.accept.accesskey        "P">
-<!ENTITY  license.decline                 "Şertên Peymana Lîsansê NAPEJIRÎNIM">
-<!ENTITY  license.decline.accesskey       "t">
-
-<!ENTITY  incompatibleList.title          "Add-onên Hev Nagirin Hatin Dîtin">
 
 <!ENTITY  downloadPage.title              "&brandShortName; tê daxistin">
 <!ENTITY  downloading.intro               "Rojanekirin tê daxistin...">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Rojanekirin wê di destpêkirina nû ya &brandShortName; were sazkirin. Tu dikarî niha &brandShortName; destpê bikî, an jî xebata xwe bidomînî û paşê dîsa bidî destpêkirin.">
 
-<!ENTITY  installed.title                 "Rojanekirin Hat Sazkirin">
-<!ENTITY  installed.intro                 "Rojanekirin bi temamî hat sazkirin.">
-<!ENTITY  whatsnew.label                  "Derbarê yên nû de zêdetir bixwîne......">
 
 <!ENTITY  update.details.label            "Kitekit">
 <!ENTITY  update.installedOn.label        "Li vir hat sazkirin:">

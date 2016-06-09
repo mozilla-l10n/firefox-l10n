@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Ji hêla Peymana Ewlekariya Naverokê ve hate astenkirin">
 <!ENTITY cspBlocked.longDesc "<p>Ji ber ku di vê rûpelê de naverokeke dijberî peymana ewlekariyê heye, &brandShortName;ê ew asteng kir.</p>">
 
-<!ENTITY corruptedContentError.title "Çewtiya Naveroka Şikestî">
-<!ENTITY corruptedContentError.longDesc "<p>Ji ber ku di guhestina daneyan de çewtiyek hat dîtin rûpel nayê nîşandan.</p><ul><li>Bi xwediyên malperê re bikeve têkiliyê yan jî ji menuya alîkariyê zêdetir agahiyan bixwîne.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Çewtiya Naveroka Şikestî">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ji ber ku di guhestina daneyan de çewtiyek hat dîtin rûpel nayê nîşandan.</p><ul><li>Bi xwediyên malperê re bikeve têkiliyê yan jî ji menuya alîkariyê zêdetir agahiyan bixwîne.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Zêdebariyê Bidê…">
@@ -94,9 +94,13 @@ was trying to connect. -->
 
 
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

@@ -108,8 +108,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignInError.label "Dîsa têkeve &syncBrand.shortName.label;ê">
 
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; hat çalakirin">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; dê kêliyeke din bê hevcotkirin.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Biçûk Bike">
@@ -167,6 +165,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Zêdetir bijare nîşan bide">
 
+
+
+
+
 <!ENTITY backButton.tooltip           "Rûpelek here paş">
 
 <!ENTITY forwardButton.tooltip        "Rûpelek here pêş">
@@ -216,6 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewBookmarksSidebar2.label        "Di darikê dijareyan de nîşan bide">
 <!ENTITY viewBookmarksToolbar.label         "Di Darikê Bijareyan de Nîşan Bide">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -248,14 +251,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Pel"> 
 <!ENTITY fileMenu.accesskey       "P">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY newNavigatorCmd.label        "Pencereya Nû">
@@ -535,19 +530,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "B">
 <!ENTITY mediaUnmute.label           "Bideng">
 <!ENTITY mediaUnmute.accesskey       "B">
-<!ENTITY mediaPlaybackRate.label     "Leza lêdanê">
-<!ENTITY mediaPlaybackRate.accesskey "d">
-<!ENTITY mediaPlaybackRate050x.label "Tevgeriyana hêdî (0,5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "T">
-<!ENTITY mediaPlaybackRate100x.label "Leza asayî">
-<!ENTITY mediaPlaybackRate100x.accesskey "a">
-<!ENTITY mediaPlaybackRate150x.label "Leza bilind (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "L">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Leza pir bilind (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "p">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

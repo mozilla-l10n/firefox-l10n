@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Nûkirinan qet kontrol neke (nayê pêşniyarkirin: rîska ewlekariyê)">
 <!ENTITY updateManual.accesskey          "q">
 
-<!ENTITY updateAutoAddonWarn.label       "Eger ev yek ji pêvekên min neçalak bike min hişyar bike">
-<!ENTITY updateAutoAddonWarn.accesskey   "h">
-
 <!ENTITY updateHistory.label             "Raboriya nûkirinê nîşan bide">
 <!ENTITY updateHistory.accesskey         "R">
 

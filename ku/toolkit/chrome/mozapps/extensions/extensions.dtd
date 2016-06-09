@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Tê barkirin…">
-<!ENTITY listEmpty.installed.label            "Tu add-onên te yên sazkirî yên ji vê cureyê nîn in">
+
 <!ENTITY listEmpty.availableUpdates.label     "Tu rojanekirin nehat dîtin">
-<!ENTITY listEmpty.recentUpdates.label        "Di demeke nêz de te tu add-on rojane nekiriye">
+
 <!ENTITY listEmpty.findUpdates.label          "Ji bo Rojanekirinan Kontrol Bike">
 <!ENTITY listEmpty.search.label               "Tu add-oneke ku li vê tê nehat dîtin">
 <!ENTITY listEmpty.button.label               "Derbarê add-onan de zêdetir agahiyan bistîne">
@@ -105,9 +105,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Rake">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Vebijêrk">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Vebijêrkên vê add-onê biguherîne">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Vebijêrk">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Vebijêrkên vê add-onê biguherîne">
+
 <!ENTITY cmd.contribute.label                 "Hevpar">
 <!ENTITY cmd.contribute.accesskey             "H">
 <!ENTITY cmd.contribute.tooltip               "Ji bo pêşdebirina vê add-onê hevkariyê bike">
@@ -122,7 +122,7 @@
 
 <!ENTITY discover.title                       "Add-on çi ne?">
 <!ENTITY discover.description2                "Add-on sepan in û bi wan dikarî &brandShortName;ê taybet bikî. Dikarî taybetî û şêwazên cuda bi kar bînî. Dikarî kara-ji-demê, hişyarkiirna seqayê, an jî dirbên xuyakirinê bi kar bînî û &brandShortName;a xwe xweşiktir bikî.">
-<!ENTITY discover.footer                      "Dema ku tu bikevî înternetê, ev pencerok dê ji bo ceribandina te bikeve hin add-onên herî baş û nas.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Guherto">
@@ -135,11 +135,11 @@
 
 <!ENTITY detail.updateType                    "Rojanekirinên Xweber">
 <!ENTITY detail.updateDefault.label           "Standard">
-<!ENTITY detail.updateDefault.tooltip         "Eger tenê ev standard be, rojanekirinan xweber saz bike">
+
 <!ENTITY detail.updateAutomatic.label         "Çalak">
 <!ENTITY detail.updateAutomatic.tooltip       "Rojanekirinan xweber saz bike">
 <!ENTITY detail.updateManual.label            "Neçalak">
-<!ENTITY detail.updateManual.tooltip          "Rojanekirinan xweber saz neke">
+
 <!ENTITY detail.home                          "Serûpel">
 <!ENTITY detail.repository                    "Profîla Add-onê">
 <!ENTITY detail.size                          "Mezinahî">
@@ -149,10 +149,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Ji bo vê add-onê rojanekirinan kontrol bike">
 <!ENTITY detail.showPreferencesWin.label      "Vebijêrk">
 <!ENTITY detail.showPreferencesWin.accesskey  "V">
-<!ENTITY detail.showPreferencesWin.tooltip    "Vebijêrkên vê add-onê biguherîne">
+
 <!ENTITY detail.showPreferencesUnix.label     "Vebijêrk">
 <!ENTITY detail.showPreferencesUnix.accesskey "V">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Vebijêrkên vê add-onê biguherîne">
+
 <!-- ratings -->
 
 
