@@ -80,8 +80,8 @@
 <!ENTITY cspBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; သည်ယခု၀တ်ဆိုက်အားပါ၀င်နေသောအရာတစ်ခု၏လုံခြုံရေး ကြောင့်ရယူခြင်းကိုခွင့်မပြုပါ.</p>">
 
-<!ENTITY corruptedContentError.title "နှောက်ယှက်ခံရသောပြသာနာ">
-<!ENTITY corruptedContentError.longDesc "<p>အချက်အလက်ကူးယူပြောင်းခြင်းပြသာနာကြောင့်၀တ်ဆိုက်အားမပြသနိုင်ပါ။</p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်များဤပြသာနာအားအသိပေးရန်ကျေးဇူးပြုပြီးဆက်သွယ်ပေးပါ။</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "နှောက်ယှက်ခံရသောပြသာနာ">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>အချက်အလက်ကူးယူပြောင်းခြင်းပြသာနာကြောင့်၀တ်ဆိုက်အားမပြသနိုင်ပါ။</p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်များဤပြသာနာအားအသိပေးရန်ကျေးဇူးပြုပြီးဆက်သွယ်ပေးပါ။</li></ul>">
 
 <!ENTITY securityOverride.linkText "သို့မဟုတ်ပါက သင်ခြွင်းချက်တစ်ခုထားနိုင်သည်">
 <!ENTITY securityOverride.getMeOutOfHereButton "ဒီနေရာမှ ကျွန်ပ်ကကို ဆွဲထုတ်ပါ။">
