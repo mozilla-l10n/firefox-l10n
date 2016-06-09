@@ -2,23 +2,23 @@
      in the inspector contextual-menu for the item that lets users edit the
      (outer) HTML of the current node -->
 
-<!-- LOCALIZATION NOTE (inspectorHTMLCopyInner.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorCopyInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
 
-<!-- LOCALIZATION NOTE (inspectorHTMLCopyOuter.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
 
-<!-- LOCALIZATION NOTE (inspectorCopyUniqueSelector.label): This is the label
+<!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
 
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteOuter.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
@@ -54,7 +54,7 @@
      the inspector contextual-menu for the item that lets users delete the
      current node -->
 
-<!-- LOCALIZATION NOTE (inspectorAttributeSubmenu.label): This is the label
+<!-- LOCALIZATION NOTE (inspectorAttributesSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
      attribute items, which allow to:
      - add new attribute
@@ -74,12 +74,9 @@
      from current node -->
 
 
-<!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
-     the placeholder in inspector search box -->
-
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that is
      shown as the placeholder for the markup view search in the inspector. -->
-<!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
+<!-- LOCALIZATION NOTE (inspectorImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the URL embedding the image data encoded in Base 64 (what we name
      here Image Data URL). For more information:
@@ -110,3 +107,19 @@
      the inspector toolbar for the button that lets users add elements to the
      DOM (as children of the currently selected element). -->
 
+<!-- LOCALIZATION NOTE (inspectorCopyHTMLSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     copy items, which allow to:
+     - Copy Inner HTML
+     - Copy Outer HTML
+     - Copy Unique selector
+     - Copy Image data URI -->
+<!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     paste items, which allow to:
+     - Paste Inner HTML
+     - Paste Outer HTML
+     - Before
+     - After
+     - As First Child
+     - As Last Child -->

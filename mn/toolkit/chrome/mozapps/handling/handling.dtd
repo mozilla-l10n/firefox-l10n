@@ -4,6 +4,7 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-<!ENTITY ChooseApp.description "Програм сонго">
+
 <!ENTITY ChooseApp.label "Сонго…">
 <!ENTITY ChooseApp.accessKey "н">
+
