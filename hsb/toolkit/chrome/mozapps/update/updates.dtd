@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Waš &brandShortName; je zestarjeny, ale najnowša wersija so na wašim systemje njepodpěruje. Prošu zaktualizujće swój system a spytajće potom hišće raz. Njebudźeće tutu zdźělenku znowa widźeć, ale móžeće">
 <!ENTITY  unsupportedLink.label           "wjace wo tym zhonić.">
 
-<!ENTITY  incompatibleCheck.title         "Kompatibelnosć přidatkow pruwować">
-<!ENTITY  incompatibleCheck.label         "Pytanje za nowšimi wersijemi wašich přidatkow…">
-
 <!ENTITY  clickHere.label                 "Dalše informacije wo tutej aktualizaciji čitać">
 
 <!ENTITY  evangelism.desc                 "Poruča so z dorazom, zo tutu aktualizaciju za &brandShortName; tak bórze kaž móžno nałožujeće.">
-
-<!ENTITY  license.instructions            "Jeli sće z wuměnjenjemi dojednanja přezjedny, klikńće deleka na Přezjedny, zo byšće z instalaciju tuteje aktualizacije pokročował.">
-
-<!ENTITY  license.titleText               "Softwarowe licencne dojednanje">
-<!ENTITY  license.introText               "Wuměnjenja za wužiwanje tuteje softwary.">
-<!ENTITY  license.instructionText         "Prošu přečitajće slědowace licencne dojednanje. Wužijće suwansku lajstu, zo byšće zbytk tutoho dojednanja čitał.">
-<!ENTITY  license.accept                  "Akceptuju wuměnjenja licencneho dojednanja">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "NJEakceptuju wuměnjenja licencneho dojednanja">
-<!ENTITY  license.decline.accesskey       "N">
-
-<!ENTITY  incompatibleList.title          "Njekompatibelne přidatki namakane">
 
 <!ENTITY  downloadPage.title              "&brandShortName; sćahnyć">
 <!ENTITY  downloading.intro               "Aktualizacija so sćahuje…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Aktualizacija budźe so instalować přichodny raz, hdyž &brandShortName; startuje. Móžeće &brandShortName; nětko znowa startować abo dale dźěłać a pozdźišo znowa startować.">
 
-<!ENTITY  installed.title                 "Aktualizacija instalowana">
-<!ENTITY  installed.intro                 "Aktualizacija bu wuspěšnje instalowana.">
-<!ENTITY  whatsnew.label                  "Wjace wo tym čitać, štož je nowe…">
 
 <!ENTITY  update.details.label            "Podrobnosće">
 <!ENTITY  update.installedOn.label        "Instalowany na:">

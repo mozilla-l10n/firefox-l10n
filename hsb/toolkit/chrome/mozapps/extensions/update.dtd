@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Kompatibelne přidatki namakane">
 <!ENTITY  found.top.label                 "Wubjerće přidatki, kotrež byšće rady instalował:">
-<!ENTITY  found.disabledXPinstall.label   "Tute aktualizacije njedadźa so instalować, dokelž instalacija softwary je tuchwilu znjemóžnjena. Móžeće tute nastajenja deleka změnić.">
+
 <!ENTITY  found.enableXPInstall.label     "Websydłam dowolić, zo softwaru instaluja">
 <!ENTITY  found.enableXPInstall.accesskey "W">
 
