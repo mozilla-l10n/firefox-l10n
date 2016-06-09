@@ -190,7 +190,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Tip: Du kan tilføje et websted til din liste over søgetjenester ved at trykke og holde på dets søgefelt og så trykke på ikonet &formatI;.">
 <!ENTITY pref_category_advanced "Avanceret">
-<!ENTITY pref_category_advanced_summary3 "Gendan faneblade, data-gemmer, udviklerværktøjer">
+<!ENTITY pref_category_advanced_summary3 "Gendan faneblade, data-sparer, udviklerværktøjer">
 <!ENTITY pref_category_notifications "Beskeder">
 <!ENTITY pref_category_notifications_summary "Nye funktioner, opdatering af websteder">
 <!ENTITY pref_content_notifications "Opdatering af websteder">
@@ -241,7 +241,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktiver, men stop 3. parts cookies">
 <!ENTITY pref_cookies_disabled "Deaktiveret">
 
-<!ENTITY pref_category_data_saver "Data-gemmer">
+<!ENTITY pref_category_data_saver "Data-sparer">
 <!ENTITY pref_category_media "Medie">
 <!ENTITY pref_category_developer_tools "Udviklerværktøjer">
 
