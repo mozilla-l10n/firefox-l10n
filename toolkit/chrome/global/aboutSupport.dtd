@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Informacions de depanatge">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  Aquesta pagina conten d'informacions tecnicas que poirián èsser utilasquand  ensajatz de resòlvre un problèma. Se cercatz de responsas a de questions correntas sus &brandShortName;, consultatz nòstre <a id='supportLink'>site Web d'assisténcia</a>.">
+
 <!ENTITY aboutSupport.crashes.title "Rapòrts de plantatge">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->

@@ -7,7 +7,7 @@
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; garda las informacions que concernisson vòstres paramètres e preferéncias dins vòstre perfil personal.">
-
+<!ENTITY profileCreationExplanation_2.text  "Se partejatz aquesta còpia de &brandShortName; amb d'autres utilizaires, podètz utilizar los perfils per gardar las informacions de cada utilizaire separadas. Per aquò far, cada utilizaire deurà crear son perfil pròpri.">
 <!ENTITY profileCreationExplanation_3.text  "Se sètz la sola persona qu'utilize aquesta còpia de &brandShortName;, vos cal aver al mens un perfil. S'o desiratz, podètz crear diferents perfils per vos-meteis. Per exemple, podètz voler dispausar de perfils separats per vòstra utilizacion personala e professionala.">
 <!ENTITY profileCreationExplanation_4.text  "Per començar la creacion de vòstre perfil, clicatz sus Seguent.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Per començar a crear vòstre perfil, clicatz sus Contunhar.">
