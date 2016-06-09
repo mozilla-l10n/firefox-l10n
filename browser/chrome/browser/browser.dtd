@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Բացել &syncBrand.shortName.label;-ի կարգավորումները">
 <!ENTITY fxaSignInError.label "Վերակապակցվել &syncBrand.shortName.label;ին">
 <!ENTITY fxaUnverified.label "Ստուգել հաշիվը">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; միացված է">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName;-ը միանգամից կհամաժամեցնի:">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Փոքրացնել">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Այլ Էջանիշեր">
 <!ENTITY bookmarksToolbarChevron.tooltip "Ցուցադրել ավելի շատ էջանիշեր">
 
+
+
+
+
 <!ENTITY backCmd.label                "Նախորդը">
 <!ENTITY backButton.tooltip           "Գնալ Նախորդ Էջ">
 <!ENTITY forwardCmd.label             "Հաջորդը">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Այլ Էջանիշեր">
 <!ENTITY viewBookmarksSidebar2.label        "Դիտել էջանիշերի վահանակը">
 <!ENTITY viewBookmarksToolbar.label         "Դիտել էջանիշերի վահանակը">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "Ֆ">
 <!ENTITY newUserContext.label             "Նոր պարունակի ներդիր">
 <!ENTITY newUserContext.accesskey         "պ">
-<!ENTITY userContextPersonal.label        "Անձնական">
-<!ENTITY userContextPersonal.accesskey    "Ա">
-<!ENTITY userContextWork.label            "Աշխատանքային">
-<!ENTITY userContextWork.accesskey        "Ա">
-<!ENTITY userContextBanking.label         "Բանկային">
-<!ENTITY userContextBanking.accesskey     "Բ">
-<!ENTITY userContextShopping.label        "Առևտուր">
-<!ENTITY userContextShopping.accesskey    "Ա">
 <!ENTITY newNavigatorCmd.label        "Նոր Պատուհան">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Ն">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "Ա">
 <!ENTITY mediaUnmute.label           "Ձայնով">
 <!ENTITY mediaUnmute.accesskey       "ա">
-<!ENTITY mediaPlaybackRate.label     "Խաղարկել արագությունը">
-<!ENTITY mediaPlaybackRate.accesskey "ա">
-<!ENTITY mediaPlaybackRate050x.label "Դանդաղ շարժ (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "Դ">
-<!ENTITY mediaPlaybackRate100x.label "Նորմալ արագություն">
-<!ENTITY mediaPlaybackRate100x.accesskey "Ն">
-<!ENTITY mediaPlaybackRate150x.label "Բարձր արագություն (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "Բ">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Խառը արագություն (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "Խ">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Անվտանգ կապակցում">
 <!ENTITY identity.connectionNotSecure "Կապակցումը անվտանգ չէ">
 <!ENTITY identity.connectionFile "Այս էջը գտնվում է համակարգչում:">
-<!ENTITY identity.connectionVerified1 "Դուք անվտանգ կապակցված եք այս կայքին, որը աշխատեցնում է՝">
+
 <!ENTITY identity.connectionInternal "Սա անվտանգ &brandShortName; էջ է:">
 <!ENTITY identity.insecureLoginForms2 "Այս էջից մուտքագրումները վտանգված են:">
 <!-- Strings for connection state warnings. -->
