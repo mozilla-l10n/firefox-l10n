@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Atverti „&syncBrand.shortName.label;“ nuostatas">
 <!ENTITY fxaSignInError.label "Iš naujo jungtis prie „&syncBrand.shortName.label;“">
 <!ENTITY fxaUnverified.label "Patvirtinkite savo paskyrą">
-<!ENTITY syncStartPanel2.heading "„&syncBrand.shortName.label;“ įgalinta">
-<!ENTITY syncStartPanel2.subTitle "„&brandShortName;“ tuoj pat pradės sinchronizavimą.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Suskleisti">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Kiti adresai">
 <!ENTITY bookmarksToolbarChevron.tooltip "Kiti adresai">
 
+
+
+
+
 <!ENTITY backCmd.label                "Atgal">
 <!ENTITY backButton.tooltip           "Vienu tinklalapiu atgal">
 <!ENTITY forwardCmd.label             "Pirmyn">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Kiti adresai">
 <!ENTITY viewBookmarksSidebar2.label        "Rodyti adresyną parankinėje">
 <!ENTITY viewBookmarksToolbar.label         "Rodyti adresyno juostą">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Nauja sudėtinė kortelė">
 <!ENTITY newUserContext.accesskey         "s">
-<!ENTITY userContextPersonal.label        "Asmeninis">
-<!ENTITY userContextPersonal.accesskey    "A">
-<!ENTITY userContextWork.label            "Darbas">
-<!ENTITY userContextWork.accesskey        "D">
-<!ENTITY userContextBanking.label         "Bankininkystė">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Pirkiniai">
-<!ENTITY userContextShopping.accesskey    "P">
 <!ENTITY newNavigatorCmd.label        "Naujas langas">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "l">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "r">
 <!ENTITY mediaUnmute.label           "Įjungti garsą">
 <!ENTITY mediaUnmute.accesskey       "r">
-<!ENTITY mediaPlaybackRate.label     "Atkūrimo greitis">
-<!ENTITY mediaPlaybackRate.accesskey "e">
-<!ENTITY mediaPlaybackRate050x.label "Sumažintas (0,5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "m">
-<!ENTITY mediaPlaybackRate100x.label "Normalus">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Padidintas (1,5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "d">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Ypač didelis (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "Y">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Saugus ryšys">
 <!ENTITY identity.connectionNotSecure "Ryšys nėra saugus">
 <!ENTITY identity.connectionFile "Šis tinklalapis yra įrašytas jūsų kompiuteryje.">
-<!ENTITY identity.connectionVerified1 "Esate saugiai prisijungę prie šios svetainės, kurią valdo:">
+
 <!ENTITY identity.connectionInternal "Tai yra saugus „&brandShortName;“ tinklalapis.">
 <!ENTITY identity.insecureLoginForms2 "Šiame tinklalapyje įvesti prisijungimo duomenys gali būti perimti.">
 <!-- Strings for connection state warnings. -->
