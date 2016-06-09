@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Ná lorg nuashonruithe riamh (rabhadh: contúirt slándála)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Tabhair rabhadh dom má tá breiseán díchumasaithe dá mbarr">
-<!ENTITY updateAutoAddonWarn.accesskey   "T">
-
 <!ENTITY updateHistory.label             "Taispeáin Stair na Nuashonruithe">
 <!ENTITY updateHistory.accesskey         "p">
 

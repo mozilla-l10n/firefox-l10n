@@ -66,7 +66,7 @@
 <!ENTITY redirectLoop.title "Níl an leathanach ag atreorú i gceart">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Uaireanta tarlaíonn an fhadhb seo de bharr fianáin a bheith díchumasaithe nó bheith ag diúltú leo.</li></ul>">
 
-<!ENTITY unknownSocketType.title "Freagra gan súil leis ón bhfreastalaí">
+<!ENTITY unknownSocketType.title "Freagra nach rabhthas ag súil leis ón bhfreastalaí">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Cinntigh go bhfuil an Bainisteoir Pearsanta Slándála suiteáilte ar do ríomhaire.</li> <li>D'fhéadfadh seo tarlú de dheasca cumraíocht neamhchaighdeánach an fhreastalaí.</li></ul>">
 
 <!ENTITY nssFailure2.title "Níorbh Fhéidir Ceangal Slán a Bhunú">
@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Bactha ag an Polasaí Slándala Inneachair">
 <!ENTITY cspBlocked.longDesc "<p>Chuir &brandShortName; stad ar luchtú an leathanaigh seo toisc go bhfuil polasaí slándála inneachair ag an leathanach a dhícheadaíonn é.</p>">
 
-<!ENTITY corruptedContentError.title "Earráid: Ábhar Truaillithe">
-<!ENTITY corruptedContentError.longDesc "<p>An leathanach atá tú ag iarraidh a amharc, ní féidir é a thaispeáint toisc gur tharla earráid agus na sonraí á seoladh.</p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Earráid: Ábhar Truaillithe">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>An leathanach atá tú ag iarraidh a amharc, ní féidir é a thaispeáint toisc gur tharla earráid agus na sonraí á seoladh.</p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Cruthaigh Eisceacht…">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Ardroghanna">
 <!ENTITY weakCryptoAdvanced.longDesc "Baineann <span class='hostname'></span> úsáid as teicneolaíocht slándála sheanaimseartha agus tá sé i mbaol a ionsaí. Bheadh bradaí in ann teacht ar d'fhaisnéis phearsanta go héasca. ">
 <!ENTITY weakCryptoAdvanced.override "(Contúirteach) Bain triail as <span class='hostname'></span> a luchtú in ainneoin teicneolaíocht slándála seanaimseartha">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Ceangal Neamhshlán">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Úsáideann an suíomh seo HTTP Strict Transport Security (HSTS) le cinntiú go gceanglaíonn &brandShortName; leis trí cheangal slán. Dá bharr seo, ní féidir eisceacht a chruthú don teastas seo.">
+
 <!ENTITY certerror.copyToClipboard.label "Cóipeáil an téacs go dtí an ghearrthaisce">
 
 <!ENTITY inadequateSecurityError.title "Níl do cheangal slán">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p>Úsáideann <span class='hostname'></span> teicneolaíocht slándála atá as dáta agus leochaileach ar ionsaithe. D'fhéadfadh ionsaitheoir eolas a nochtadh áit ar shíl tú go raibh sé slán. Beidh ar riarthóir an tsuímh gréasáin an freastalaí a dheisiú sula mbeidh tú ábalta cuairt a thabhairt ar an suíomh. </p><p> Cód Earráide: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+
