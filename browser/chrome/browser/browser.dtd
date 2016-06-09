@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; লৈ পুনৰ সংযোগ কৰক">
 
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; সামৰ্থবান">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; কিছু সময়তে সংমিহলি আৰম্ভ কৰিব।">
 
 
 <!ENTITY fullScreenMinimize.tooltip "সৰু কৰক">
@@ -171,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "অধিক পত্ৰচিহ্ন দেখুৱাওক">
 
+
+
+
+
 <!ENTITY backCmd.label                "পিছলৈ">
 <!ENTITY backButton.tooltip           "এটা পৃষ্ঠা পিছলৈ যাওক">
 <!ENTITY forwardCmd.label             "আগলৈ">
@@ -221,6 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewBookmarksSidebar2.label        "পত্ৰচিহ্নসমূহ কাষবাৰ দৰ্শন কৰক">
 <!ENTITY viewBookmarksToolbar.label         "পত্ৰচিহ্ন টুলবাৰ দৰ্শন কৰক">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -253,14 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ফাইল"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY newNavigatorCmd.label        "নতুন উইন্ডো">
@@ -542,19 +537,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "অমৌন কৰক">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate.label     "বজোৱাৰ গতি">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "নিম্ন গতি (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "স্বাভাৱিক গতি">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "উচ্চ গতি (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "H">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "অত্যাধিক গতি (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "L">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

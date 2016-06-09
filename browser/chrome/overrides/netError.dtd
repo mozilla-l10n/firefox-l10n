@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "সমল সুৰক্ষা নীতিৰ দবাৰা প্ৰতিৰোধিত">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; পৃষ্ঠাটোক এই ধৰনে লোড হোৱাৰ পৰা প্ৰতিৰোধ কৰিলে কাৰণ পৃষ্ঠাটোৰ এটা সমল সুৰক্ষা নীতি আছে যিটোৱে ইয়াৰ অনুমতি নিদিয়ে</p>">
 
-<!ENTITY corruptedContentError.title "ক্ষতিগ্ৰস্থ সমল ত্ৰুটি">
-<!ENTITY corruptedContentError.longDesc "<p>আপুনি দৰ্শন কৰিব বিচৰা পৃষ্ঠা দেখাব নোৱাৰি কাৰণ তথ্য পৰিৱহনত এটা ত্ৰুটি দেখা গৈছিল।</p><ul><li>এই সমস্যাৰ বিষয়ে জনাবলে অনুগ্ৰহ কৰি ৱেবছাইট গৰাকীসমূহৰ সৈতে যোগাযোগ কৰক।</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "ক্ষতিগ্ৰস্থ সমল ত্ৰুটি">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>আপুনি দৰ্শন কৰিব বিচৰা পৃষ্ঠা দেখাব নোৱাৰি কাৰণ তথ্য পৰিৱহনত এটা ত্ৰুটি দেখা গৈছিল।</p><ul><li>এই সমস্যাৰ বিষয়ে জনাবলে অনুগ্ৰহ কৰি ৱেবছাইট গৰাকীসমূহৰ সৈতে যোগাযোগ কৰক।</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্ৰম যোগ কৰক…">
@@ -95,9 +95,13 @@ was trying to connect. -->
 
 
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

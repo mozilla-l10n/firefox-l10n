@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "সমস্যমুক্তিৰ তথ্য">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  এই পৃষ্ঠাত কাৰিকৰী তথ্য আছে যোনটো লাভদায়ক হব পাৰে যদি আপুনি এটা সমস্যা সমাধান কৰিব বিচাৰিছে। যদি আপুনি &brandShortName; ৰ সাধাৰণ প্ৰশ্ন কিছুমানৰ উত্তৰ বিচাৰিছে, আমাৰ সমৰ্থন ৱেবছাইট <a id='supportLink'>সমৰ্থন ৱেবছাইট</a> চাওক।">
-
 <!ENTITY aboutSupport.crashes.title "স্খলন সংবাদসমূহ">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -50,6 +48,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "ব্যৱহাৰকাৰী সহায়ক">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "মেমৰিৰ ব্যৱহাৰ">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
@@ -79,6 +78,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "গ্ৰাফিকসমূহ">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "বৃদ্ধিত GC">
 
@@ -95,6 +97,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ৰ' তথ্যক ক্লিপবৰ্ডলে কপি কৰক">
 
 <!ENTITY aboutSupport.sandboxTitle "চেণ্ডবক্স">
+
+
+
 
 
 
