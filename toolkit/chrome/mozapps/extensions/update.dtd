@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "S'han trobat complements compatibles">
 <!ENTITY  found.top.label                 "Seleccioneu els complements que voleu instal·lar:">
-<!ENTITY  found.disabledXPinstall.label   "No poden instal·lar-se aquestes actualitzacions perquè la instal·lació de programari està actualment inhabilitada. Podeu canviar aquest paràmetre a sota.">
+
 <!ENTITY  found.enableXPInstall.label     "Permet que els llocs web instal·lin programari">
 <!ENTITY  found.enableXPInstall.accesskey "P">
 

@@ -81,8 +81,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blocat per la política de seguretat del contingut">
 <!ENTITY cspBlocked.longDesc "<p>El &brandShortName; ha impedit que la pàgina es carregui d'aquesta manera perquè la pàgina té una política de seguretat del contingut que no ho permet.</p>">
 
-<!ENTITY corruptedContentError.title "Error de contingut malmès">
-<!ENTITY corruptedContentError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error en la transmissió de les dades.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Error de contingut malmès">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error en la transmissió de les dades.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Afegeix una excepció…">
@@ -105,6 +105,8 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Avançat">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> utilitza una tecnologia de seguretat obsoleta i vulnerable a atacs. Un atacant podria veure fàcilment la informació que altrament pensaríeu que és segura.">
 <!ENTITY weakCryptoAdvanced.override "(Insegur) Intenta carregar <span class='hostname'></span> amb la seguretat obsoleta">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
@@ -112,3 +114,5 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "La connexió no és segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

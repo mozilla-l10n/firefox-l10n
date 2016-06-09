@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Informació de resolució de problemes">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Aquesta pàgina conté informació tècnica que pot ser útil quan proveu de resoldre un problema. Si cerqueu respostes per a preguntes freqüents del &brandShortName;, visiteu el nostre <a id='supportLink'>lloc web d'assistència</a>.">
-
 <!ENTITY aboutSupport.crashes.title "Informes de fallada">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -52,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent d'usuari">
 <!ENTITY aboutSupport.appBasicsOS "SO">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilització de la memòria">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Processos de treball de servei registrats">
@@ -85,6 +84,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Gràfics">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Recollida de deixalles incremental">
 
@@ -104,6 +106,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Prova el mode segur">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reinicia amb els complements inhabilitats…">
+
+
+
 
 
 

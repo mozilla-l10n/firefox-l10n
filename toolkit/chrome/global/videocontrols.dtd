@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "S'ha aturat la càrrega del vídeo.">
 <!ENTITY error.network "S'ha interromput la reproducció del vídeo a causa d'un problema de la xarxa.">
-<!ENTITY error.decode "El vídeo no es pot reproduir perquè el fitxer està malament.">
+
 <!ENTITY error.srcNotSupported "El format del vídeo o el tipus MIME no és compatible.">
 <!ENTITY error.noSource2 "No s'ha trobat cap vídeo amb un format o un tipus MIME compatibles.">
 <!ENTITY error.generic "S'ha interromput la reproducció del vídeo a causa d'un problema desconegut.">

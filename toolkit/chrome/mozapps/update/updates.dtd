@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "El &brandShortName; no està actualitzat, però la darrera versió és incompatible amb el vostre sistema. Actualitzeu el sistema i torneu-ho a provar. Aquest missatge només es mostra una vegada, però podeu">
 <!ENTITY  unsupportedLink.label           "obtenir més informació.">
 
-<!ENTITY  incompatibleCheck.title         "S'està comprovant la compatibilitat dels complements">
-<!ENTITY  incompatibleCheck.label         "S'estan cercant versions més noves dels vostres complements…">
-
 <!ENTITY  clickHere.label                 "Feu clic aquí per a més informació general d'aquesta actualització">
 
 <!ENTITY  evangelism.desc                 "És molt recomanable que apliqueu aquesta actualització en el &brandShortName; tan aviat com sigui possible.">
-
-<!ENTITY  license.instructions            "Si esteu d'acord amb els termes d'aquest acord, feu clic a Accepto per continuar instal·lant aquesta actualització.">
-
-<!ENTITY  license.titleText               "Acord de llicència del programari">
-<!ENTITY  license.introText               "Termes i condicions per utilitzar aquest programari.">
-<!ENTITY  license.instructionText         "Llegiu l'acord de llicència següent. Utilitzeu la barra de desplaçament per visualitzar la resta de l'acord.">
-<!ENTITY  license.accept                  "Accepto els termes de l'acord de llicència">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "No accepto els termes de l'acord de llicència">
-<!ENTITY  license.decline.accesskey       "N">
-
-<!ENTITY  incompatibleList.title          "S'han trobat complements incompatibles">
 
 <!ENTITY  downloadPage.title              "S'està baixant el &brandShortName;">
 <!ENTITY  downloading.intro               "S'està baixant l'actualització…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "L'actualització s'instal·larà la propera vegada que s'iniciï el &brandShortName;. Podeu reiniciar el &brandShortName; ara, o continuar treballant i reiniciar-lo més endavant.">
 
-<!ENTITY  installed.title                 "L'actualització s'ha instal·lat">
-<!ENTITY  installed.intro                 "L'actualització s'ha instal·lat amb èxit.">
-<!ENTITY  whatsnew.label                  "Llegiu-ne més quant a les novetats…">
 
 <!ENTITY  update.details.label            "Detalls">
 <!ENTITY  update.installedOn.label        "Instal·lat el:">

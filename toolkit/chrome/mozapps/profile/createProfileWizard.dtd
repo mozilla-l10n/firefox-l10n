@@ -7,7 +7,7 @@
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "El &brandShortName; emmagatzema informació sobre els vostres paràmetres i preferències en el vostre perfil personal.">
-<!ENTITY profileCreationExplanation_2.text  "Si esteu compartint aquesta còpia del &brandShortName; amb altres usuaris, podeu utilitzar els perfils per mantenir separada la informació de cadascun dels usuaris. Per fer-ho, cada usuari o usuària hauria de crear el seu propi perfil.">
+
 <!ENTITY profileCreationExplanation_3.text  "Si sou l'única persona que utilitza aquesta còpia del &brandShortName; heu de tenir com a mínim un perfil. Si voleu, podeu crear diversos perfils per emmagatzemar-hi diferents preferències i paràmetres de configuració. Per exemple, potser us agradaria tenir un perfil per a la feina i un altre per a ús personal.">
 <!ENTITY profileCreationExplanation_4.text  "Per començar a crear el vostre perfil, feu clic a Endavant.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Per començar a crear el vostre perfil, feu clic a Continua.">
