@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "সুসঙ্গত এড-অ'ন পোৱা গৈছে">
 <!ENTITY  found.top.label                 "ইনস্টল কৰিব বিচৰা এড-অ'নসমূহ বাচি লওক:">
-<!ENTITY  found.disabledXPinstall.label   "এই আপডেইট ইনস্টল কৰিব নোৱাৰি কাৰণ চফ্টৱেৰৰ ইনস্টল বৰ্ত্তমানে নিষ্ক্ৰিয়। এই পছন্দ আপুনি তলত সলনি কৰিব পাৰে।">
+
 <!ENTITY  found.enableXPInstall.label     "ৱেব ছাইটক চফ্টৱেৰ ইনস্টল কৰিব দিব">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 

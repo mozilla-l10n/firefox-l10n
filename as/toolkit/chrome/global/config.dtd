@@ -8,7 +8,7 @@
 
 <!ENTITY aboutWarningTitle.label "ইয়াৰ বাবে আপোনাৰ ৱাৰেন্টি নোহোৱা হব পাৰে!">
 <!ENTITY aboutWarningText.label "এই উন্নত সংহতিসমূহ সলনি কৰাটো স্থিৰতা,সুৰক্ষা আৰু এই এপ্লিকেচনৰ কাৰ্য্যক্ষমতাৰ কাৰণে ক্ষতিকৰ হ'ব পাৰে। আপুনি যি কৰি আছে তাৰ বিষয়ে সুনিশ্চিত হৈ আগবাঢ়িব।">
-<!ENTITY aboutWarningButton.label "মই সাৱধান হ'ম, মই কথা দিছোঁ!">
+
 <!ENTITY aboutWarningCheckbox.label "পিছৰ বাৰ এই সকিয়নি দেখুৱাব">
 
 <!ENTITY searchPrefs.label "সন্ধান কৰক:">

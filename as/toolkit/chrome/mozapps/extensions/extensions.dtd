@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "ল'ড কৰা হৈছে…">
-<!ENTITY listEmpty.installed.label            "ইনস্টল হোৱা এই ধৰণৰ বাবে আপোনাৰ কোনো এড-অন নাই">
+
 <!ENTITY listEmpty.availableUpdates.label     "কোনো আপডেইট পোৱা নগল">
-<!ENTITY listEmpty.recentUpdates.label        "আপুনি শেহতীয়াভাৱে কোনো এড-অন আপডেইট কৰা নাই">
+
 <!ENTITY listEmpty.findUpdates.label          "আপডেইটসমূহৰ কাৰণে নীৰিক্ষণ কৰক">
 <!ENTITY listEmpty.search.label               "কোনো মিল থকা এড-অন পোৱা নগল">
 <!ENTITY listEmpty.button.label               "এড-অন সমূহুৰ বিষয়ে অধিক জানক">
@@ -105,9 +105,9 @@
 <!ENTITY cmd.uninstallAddon.label             "আতৰাওক">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "বিকল্পসমূহ">
-<!ENTITY cmd.showPreferencesWin.tooltip       "এই এড-অনৰ বিকল্পসমূহ পৰিৱৰ্তন কৰক">
+
 <!ENTITY cmd.showPreferencesUnix.label        "পছন্দসমূহ">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "এই এড-অনৰ পছন্দসমূহ পৰিৱৰ্তন কৰক">
+
 <!ENTITY cmd.contribute.label                 "অৱদান দিয়ক">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "এই এড-অনৰ উন্নয়নৰ বাবে অৱদান কৰক">
@@ -122,7 +122,7 @@
 
 <!ENTITY discover.title                       "এড-অনসমূহ কি?">
 <!ENTITY discover.description2                "এড-অনসমূহ হল কিছুমান এপ্লিকেচন যিবোৰে আপোনাক &brandShortName; ক অতিৰিক্ত কাৰ্য্যকৰীতা অথবা শৈলীৰ হৈতে ব্যক্তিগত ৰূপ দিয়াৰ অনুমতি দিয়ে। &brandShortName; ক আপোনাৰ নিজাববিয়া বনাবলে এটা সময়-সঞ্চয়ী কাষবাৰ, বতৰ সংকেতক অথবা এটা থীম ৰূপ প্ৰয়োগ কৰি চাওক।">
-<!ENTITY discover.footer                      "যেতিয়া আপুনি ইন্টাৰনেটৰ লগত সংযোগিত থাকিব, এই পেইনে আপুনি প্ৰয়োগ কৰিবলে কিছুমান শ্ৰেষ্ট আৰু লোকপ্ৰিয় এড-অন দেখাব।">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "সংস্কৰণ">
@@ -135,11 +135,11 @@
 
 <!ENTITY detail.updateType                    "স্বচালিত আপডেইটসমূহ">
 <!ENTITY detail.updateDefault.label           "অবিকল্পিত">
-<!ENTITY detail.updateDefault.tooltip         "আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল কৰিব যদিহে সেইটো অবিকল্পিত হয়">
+
 <!ENTITY detail.updateAutomatic.label         "অন">
 <!ENTITY detail.updateAutomatic.tooltip       "আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল কৰক">
 <!ENTITY detail.updateManual.label            "অফ">
-<!ENTITY detail.updateManual.tooltip          "আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল নকৰিব">
+
 <!ENTITY detail.home                          "ঘৰপৃষ্ঠা">
 <!ENTITY detail.repository                    "এড-অন আলেখ্যন">
 <!ENTITY detail.size                          "আকাৰ">
@@ -149,10 +149,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "এই এড-অনৰ কাৰণে আপডেইটসমূহ নীৰিক্ষণ কৰক">
 <!ENTITY detail.showPreferencesWin.label      "বিকল্পসমূহ">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "এই এড-অনৰ বিকল্পসমূহ সলনি কৰক">
+
 <!ENTITY detail.showPreferencesUnix.label     "পছন্দসমূহ">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "এই এড-অনৰ পছন্দসমূহ সলনি কৰক">
+
 <!-- ratings -->
 
 
@@ -221,8 +221,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "এইটো কি? টেলিমেট্ৰি ইনস্টল হৈ সময়ে সময়ে পৰীক্ষা চলাব পাৰে।">
 <!ENTITY experiment.info.learnmore "অধিক জানক">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "টেলিমেট্ৰি সংহতিসমূহ">

@@ -11,28 +11,10 @@
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
 <!ENTITY toolboxCloseButton.tooltip    "উন্নয়নকাৰী সঁজুলিসমূহ বন্ধ কৰক">
-<!ENTITY toolboxOptionsButton.key      "O">
-<!ENTITY toolboxNextTool.key           "]">
-<!ENTITY toolboxPreviousTool.key       "[">
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey, fullZoomEnlargeCmd.commandkey2,
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey,
-fullZoomReduceCmd.commandkey2, fullZoomResetCmd.commandkey,
-and fullZoomResetCmd.commandkey2 should all match the corresponding
-values from browser.dtd.  -->
-
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY toolboxReload.key             "r">
-<!-- This key is used with the accel+shift modifiers to minimize the toolbox -->
-
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
   -  It allows you to switch the context of the whole toolbox. -->
+
 <!ENTITY toolboxFramesTooltip          "বৰ্তমানে লক্ষ্য কৰা দস্তাবেজ ৰূপে এটা iframe বাছক">
 <!-- LOCALIZATION NOTE (toolboxNoAutoHideButton): This is the label for
   -  the button to force the popups/panels to stay visible on blur.
@@ -112,12 +94,10 @@ values from browser.dtd.  -->
 
 <!ENTITY options.disableJavaScript.label     "JavaScript অসামৰ্থবান কৰক *">
 <!ENTITY options.disableJavaScript.tooltip   "এই বিকল্প অন কৰিলে বৰ্তমান টেবৰ বাবে JavaScript অসামৰ্থবান হ'ব। যদি টেব অথবা সঁজুলিবাকচ বন্ধ কৰা হয় তেন্তে এই সংহতি মনত ৰখা নহব।">
-<!-- LOCALIZATION NOTE (options.disableCache.label2,
-  -  options.disableCache.tooltip2): This is the options panel label and
-  -  tooltip for the checkbox that toggles the cache on or off. -->
+<!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
+  -  options.disableHTTPCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
-<!ENTITY options.disableCache.label2     "ক্যাশ অসামৰ্থবান কৰক (যেতিয়া সঁজুলিবাকচ খোলা থাকে)">
-<!ENTITY options.disableCache.tooltip2   "এই বিকল্প অন কৰিবলে সঁজুলিবাকচ খোলা থকা সকলো টেবৰ বাবে ক্যাশ অসামৰ্থবান হব।">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
@@ -210,4 +190,3 @@ values from browser.dtd.  -->
 <!ENTITY options.sourceeditor.keybinding.label          "কিবাইণ্ডিংসমূহ">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "অবিকল্পিত">
-

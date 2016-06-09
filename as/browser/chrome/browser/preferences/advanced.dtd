@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "আপডেইটসমূহৰ বাবে কেতিয়াও নীৰিক্ষণ নকৰিব (উপদেশিত নহয়: সুৰক্ষা ভয়)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "যদি ই মোৰ কোনো এড-অন অসামৰ্থবান কৰে মোক সতৰ্ক কৰিব">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "আপডেইটৰ ইতিহাস দেখুৱাওক">
 <!ENTITY updateHistory.accesskey         "p">
 
