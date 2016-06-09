@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Lokað á vegna öryggisreglu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur öryggisreglu sem kemur í veg fyrir það.</p>">
 
-<!ENTITY corruptedContentError.title "Villa skemmd gögn">
-<!ENTITY corruptedContentError.longDesc "<p>Ekki er hægt að sýna síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við vefsíðueiganda til að láta hann vita af vandamálinu.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Villa skemmd gögn">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ekki er hægt að sýna síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við vefsíðueiganda til að láta hann vita af vandamálinu.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Bæta við undantekningu…">
@@ -107,6 +107,8 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Ítarlegt">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> notar öryggi sem er úrelt og er ekki öruggt. Árásaraðili gæti auðveldlega fengið aðgang að upplýsingum sem þú heldur að séu öruggar.">
 <!ENTITY weakCryptoAdvanced.override "(Ekki öruggt) Prófa að hlaða inn <span class='hostname'></span> á óöruggan hátt">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Óörugg tenging">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Þetta vefsvæði notar HTTP Strict Transport Security (HSTS) til að skilgreina að &brandShortName; megi aðeins tengjast með öryggum hætti. Það þýðir, að það er ekki hægt að bæta við undantekningu fyrir þetta skilríki.">
@@ -116,3 +118,5 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> notast við öryggistækni sem er úreld og ekki lengur örugg. Árásaraðili gæti auðveldlega komist í upplýsingar sem þú telur vera öruggar. Vefumsjónaraðilinn verður að laga miðlarann áður en þú getur heimsótt vefsvæðið .</p><p>Villu kóði: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+

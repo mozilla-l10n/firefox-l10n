@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Opna &syncBrand.shortName.label; stillingar">
 <!ENTITY fxaSignInError.label "Endurtengjast við &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Staðfesta reikning">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; virkt">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; mun samstilla eftir smástund.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minnka">
@@ -171,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Nýlega sett í bókamerki">
 <!ENTITY otherBookmarksCmd.label "Önnur bókamerki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sýna fleiri bókamerki">
+<!ENTITY showRecentlyBookmarked.label     "Sýna nýlega sett í bókamerki">
+<!ENTITY showRecentlyBookmarked.accesskey "n">
+<!ENTITY hideRecentlyBookmarked.label     "Fela nýlega sett í bókamerki">
+<!ENTITY hideRecentlyBookmarked.accesskey "F">
 
 <!ENTITY backCmd.label                "Til baka">
 <!ENTITY backButton.tooltip           "Til baka um eina síðu">
@@ -227,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Önnur bókamerki">
 <!ENTITY viewBookmarksSidebar2.label        "Birta bókamerki í hliðslá">
 <!ENTITY viewBookmarksToolbar.label         "Skoða bókamerkjaslá">
+
+<!ENTITY containersMenu.label "Geymir">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +265,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "S">
 <!ENTITY newUserContext.label             "Nýr hópaflipi">
 <!ENTITY newUserContext.accesskey         "h">
-<!ENTITY userContextPersonal.label        "Persónulegt">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Vinna">
-<!ENTITY userContextWork.accesskey        "V">
-<!ENTITY userContextBanking.label         "Netbanki">
-<!ENTITY userContextBanking.accesskey     "N">
-<!ENTITY userContextShopping.label        "Versla">
-<!ENTITY userContextShopping.accesskey    "V">
 <!ENTITY newNavigatorCmd.label        "Nýr gluggi">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -560,19 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "H">
 <!ENTITY mediaUnmute.label           "Virkja hljóð">
 <!ENTITY mediaUnmute.accesskey       "h">
-<!ENTITY mediaPlaybackRate.label     "Spilunarhraði">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Hægt (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "æ">
-<!ENTITY mediaPlaybackRate100x.label "Venjulegur hraði">
-<!ENTITY mediaPlaybackRate100x.accesskey "n">
-<!ENTITY mediaPlaybackRate150x.label "Hratt (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "H">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!ENTITY mediaPlaybackRate2.label     "Spilunarhraði">
+<!ENTITY mediaPlaybackRate2.accesskey "l">
+<!ENTITY mediaPlaybackRate050x2.label "Hægt (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "H">
+<!ENTITY mediaPlaybackRate100x2.label "Venjulegt">
+<!ENTITY mediaPlaybackRate100x2.accesskey "n">
+<!ENTITY mediaPlaybackRate125x2.label "Hratt(1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "r">
+<!ENTITY mediaPlaybackRate150x2.label "Hraðara (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Fáránlegur hraði (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "l">
+<!ENTITY mediaPlaybackRate200x2.label "Fáránlega hratt (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "l">
+<!ENTITY mediaLoop.label             "Endurtaka">
+<!ENTITY mediaLoop.accesskey         "E">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Örugg tenging">
 <!ENTITY identity.connectionNotSecure "Tenging er ekki örugg">
 <!ENTITY identity.connectionFile "Þessi síða er vistuð á tölvunni þinni.">
-<!ENTITY identity.connectionVerified1 "Þú ert tengdur á öruggan hátt við þetta vefsvæði, sem er frá:">
+<!ENTITY identity.connectionVerified2 "Þú ert tengdur á öruggan hátt við þetta vefsvæði, sem er frá:">
 <!ENTITY identity.connectionInternal "Þetta er örugg &brandShortName; síða.">
 <!ENTITY identity.insecureLoginForms2 "Hugsanlega gæti þriðji aðili komist yfir allar þær skráningar sem þú setur inn á þessa síðu.">
 <!-- Strings for connection state warnings. -->
