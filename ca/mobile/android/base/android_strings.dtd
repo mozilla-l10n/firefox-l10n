@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Us donem la benvinguda">
-<!ENTITY  onboard_start_message3 "Navegeu amb el &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Feu que l\u0027experiència de navegació web mòbil sigui realment vostra.">
 
 <!ENTITY firstrun_urlbar_message "Benvingut al &brandShortName;">
 
@@ -20,10 +18,17 @@
 
 <!ENTITY firstrun_signin_button "Inicia la sessió al Sync">
 <!ENTITY  onboard_start_button_browser "Comença a navegar">
+
 <!ENTITY firstrun_button_next "Següent">
 
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
 
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -31,7 +36,6 @@
 
 <!ENTITY  bookmarks_title "Adreces d\u0027interès">
 <!ENTITY  history_title "Historial">
-<!ENTITY  reading_list_title "Llista de lectura">
 <!ENTITY  recent_tabs_title "Pestanyes recents">
 
 <!ENTITY  switch_to_tab "Canvia a la pestanya">
@@ -65,7 +69,10 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "Llista de lectura">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -168,7 +175,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "CONSELL: Per afegir qualsevol lloc web a la llista de proveïdors de cerca, manteniu premut el camp de cerca i toqueu la icona &formatI;.">
 <!ENTITY pref_category_advanced "Avançat">
-
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 
 
@@ -217,7 +226,9 @@
 <!ENTITY pref_cookies_accept_all "Habilitades">
 <!ENTITY pref_cookies_not_accept_foreign "Habilitades, excepte de tercers">
 <!ENTITY pref_cookies_disabled "Inhabilitades">
-
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_developer_tools "Eines per a desenvolupadors">
 
@@ -273,7 +284,10 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -405,12 +419,12 @@ size. -->
 <!ENTITY share_image_failed "No es pot compartir la imatge">
 <!ENTITY save_as_pdf "Desa com a PDF">
 <!ENTITY print "Imprimeix">
-<!ENTITY find_in_page "Cerca a la pàgina">
-<!ENTITY desktop_mode "Mostra lloc d\u0027escriptori">
+
+
 <!ENTITY page "Pàgina">
 <!ENTITY tools "Eines">
-<!ENTITY new_tab "Pestanya nova">
-<!ENTITY new_private_tab "Pestanya privada nova">
+
+
 <!ENTITY close_all_tabs "Tanca totes les pestanyes">
 <!ENTITY close_private_tabs "Tanca les pestanyes privades">
 <!ENTITY tabs_normal "Pestanyes">
@@ -420,8 +434,6 @@ size. -->
 <!ENTITY set_image_chooser_title "Defineix la imatge com a">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Cerca a la pàgina">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Següent">
 <!ENTITY find_close "Tanca">
@@ -520,6 +532,7 @@ size. -->
 <!ENTITY home_history_title "Historial">
 
 
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 
 <!ENTITY home_clear_history_button "Neteja l\u0027historial de navegació">
 <!ENTITY home_clear_history_confirm "Esteu segur que voleu netejar l\u0027historial?">
@@ -735,6 +748,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY promotion_add_to_homescreen "Afegeix a la pantalla d\u0027inici">
+
+
+
+
 
 
 
