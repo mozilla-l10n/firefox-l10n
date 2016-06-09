@@ -20,19 +20,7 @@
 
 
 
-
-
 <!ENTITY  clickHere.label                 "Reba ibindi bisobanuro by'iki igihuzagihe">
-
-
-
-<!ENTITY  license.titleText               "Amasezerano y'Iyemererakoresha ya Porogaramu Mudasobwa">
-<!ENTITY  license.introText               "Ibisabwa kugira ngo wemererwe gukoresha iyi porogaramu mudasobwa.">
-<!ENTITY  license.instructionText         "Usabwe gusoma amasezerano yerekeye imikoreshereze akurikira. Koresha agafashanyereza kugira ngo urebe igice  gisigaye cy'amazerano.">
-<!ENTITY  license.accept                  "Nemeye ibiteganywa n'Amasezerano Yerekeye Imikoreshereze">
-<!ENTITY  license.accept.accesskey        "y">
-<!ENTITY  license.decline                 "Ntabwo nemeye ibiteganywa n' Amasezerano Yerekeye Imikoreshereze">
-<!ENTITY  license.decline.accesskey       "N">
 
 
 <!ENTITY  downloading.intro               "Iyimura ry'ibihuzagihe...">
@@ -55,9 +43,6 @@
 <!ENTITY  finishedBackground.name         "Ihuzagihe:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 
-<!ENTITY  installed.title                 "Igihuzagihe ryatunganyijwe">
-<!ENTITY  installed.intro                 "Igihuzagihe ryatunganyijwe neza">
-<!ENTITY  whatsnew.label                  "Gusoma ibikurikira ku byerekeye ibishya...">
 
 <!ENTITY  update.details.label            "Birambuye">
 <!ENTITY  update.installedOn.label        "Isanzwe kuri:">
