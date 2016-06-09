@@ -80,8 +80,8 @@
 <!ENTITY cspBlocked.title "Kigengo ne ki Cik me Gwoko kuc pa jami matye iye">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; otyeko gengo pot buk man ki pango iyore man pien pot buk tye ki cik me jami matye iye mape yee en.</p>">
 
-<!ENTITY corruptedContentError.title "Bal me Jami Matye Iye">
-<!ENTITY corruptedContentError.longDesc "<p>Pot buk ma i tye katemo neno ne pe romo nyutu pien bal me cwalo tic onyutu.</p><ul><li>Tim ber i kube wegi di bar me web me mino gi ngec pi peko man.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Bal me Jami Matye Iye">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Pot buk ma i tye katemo neno ne pe romo nyutu pien bal me cwalo tic onyutu.</p><ul><li>Tim ber i kube wegi di bar me web me mino gi ngec pi peko man.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Onyo itwero medo ma nikwanyo…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kwanya woko ki kany!">
