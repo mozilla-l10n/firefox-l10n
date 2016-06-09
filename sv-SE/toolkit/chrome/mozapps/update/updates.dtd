@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Din &brandShortName; är gammal men den senaste versionen stöds inte på ditt system. Uppgradera systemet och försök sedan igen. Det här meddelandet visas inte igen, men du kan">
 <!ENTITY  unsupportedLink.label           "läsa mer.">
 
-<!ENTITY  incompatibleCheck.title         "Kontrollerar tilläggens kompatibilitet">
-<!ENTITY  incompatibleCheck.label         "Söker efter nyare versioner av dina tillägg…">
-
 <!ENTITY  clickHere.label                 "Visa mer information om den här uppdateringen">
 
 <!ENTITY  evangelism.desc                 "Vi rekommenderar starkt att du snarast möjligt installerar denna uppdatering till &brandShortName;.">
-
-<!ENTITY  license.instructions            "Om du godkänner villkoren i detta avtal klickar du på Jag godkänner nedan för att fortsätta med installationen av uppdateringen.">
-
-<!ENTITY  license.titleText               "Programvarulicens">
-<!ENTITY  license.introText               "Villkor för att använda denna programvara.">
-<!ENTITY  license.instructionText         "Läs följande licensavtal. Använd rullisten för att se resten av avtalet.">
-<!ENTITY  license.accept                  "Jag accepterar villkoren i licensavtalet">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Jag accepterar INTE villkoren i licensavtalet">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Inkompatibla tillägg hittades">
 
 <!ENTITY  downloadPage.title              "Hämtar &brandShortName;">
 <!ENTITY  downloading.intro               "Hämtar uppdateringen…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Uppdateringen kommer att installeras nästa gång &brandShortName; startar. Du kan starta om &brandShortName; nu, eller fortsätta och starta om senare.">
 
-<!ENTITY  installed.title                 "Uppdatering installerad">
-<!ENTITY  installed.intro                 "Uppdateringen har installerats.">
-<!ENTITY  whatsnew.label                  "Läs om vad som är nytt…">
 
 <!ENTITY  update.details.label            "Detaljer">
 <!ENTITY  update.installedOn.label        "Installerad:">
