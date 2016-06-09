@@ -436,7 +436,7 @@ size. -->
 <!ENTITY share_image_failed "Methu rhannu\u0027r ddelwedd">
 <!ENTITY save_as_pdf "Cadw fel PDF">
 <!ENTITY print "Argraffu">
-
+<!ENTITY find_in_page "Canfod ar y Dudalen">
 
 <!ENTITY page "Tudalen">
 <!ENTITY tools "Offer">
@@ -451,6 +451,8 @@ size. -->
 <!ENTITY set_image_chooser_title "Gosod Delwedd Fel">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Canfod ar y Dudalen">
 <!ENTITY find_prev "Blaenorol">
 <!ENTITY find_next "Nesaf">
 <!ENTITY find_close "Cau">
