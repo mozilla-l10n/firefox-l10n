@@ -82,8 +82,8 @@
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-<!ENTITY bookmark_folder_items "&formatD; enheder">
-<!ENTITY bookmark_folder_one_item "1 enhed">
+<!ENTITY bookmark_folder_items "&formatD; elementer">
+<!ENTITY bookmark_folder_one_item "1 element">
 
 <!ENTITY reader_saved_offline "Gemt offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
