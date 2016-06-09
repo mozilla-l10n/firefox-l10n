@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ป้องกันหน้านี้จากการโหลดในลักษณะนี้เนื่องจากหน้ามีนโยบายความปลอดภัยของเนื้อหาที่ไม่อนุญาต</p>">
 
-<!ENTITY corruptedContentError.title "ข้อผิดพลาดเนื้อหาเสียหาย">
-<!ENTITY corruptedContentError.longDesc "<p>ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากตรวจพบข้อผิดพลาดในการส่งผ่านข้อมูล</p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "ข้อผิดพลาดเนื้อหาเสียหาย">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากตรวจพบข้อผิดพลาดในการส่งผ่านข้อมูล</p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li></ul>">
 
 <!ENTITY securityOverride.linkText "หรือคุณสามารถเพิ่มข้อยกเว้น…">
 <!ENTITY securityOverride.getMeOutOfHereButton "นำฉันออกไปจากที่นี่!">
