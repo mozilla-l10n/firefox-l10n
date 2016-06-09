@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "Harzet gant ur reolenn diogelroez a-fet endalc'hadoù">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; en deus miret ar bajennad-mañ ouzh bezañ pellgarget gant an doare-mañ rak ar bajenn-mañ he deus reolennoù a-fet diogelroez a zisaotren d'hen ober.</p>">
 
-<!ENTITY corruptedContentError.title "Fazi a-fet endalc'had bet kontronet">
-<!ENTITY corruptedContentError.longDesc "<p>Ar bajenn emaoc'h o klask gweladenniñ n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.</p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn a-benn kelaouiñ anezho eus ar gudenn-mañ.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Fazi a-fet endalc'had bet kontronet">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ar bajenn emaoc'h o klask gweladenniñ n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.</p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn a-benn kelaouiñ anezho eus ar gudenn-mañ.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Pe un nemedenn a vez ouzhpennet ganeoc'h...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Lamit kuit ac'hanon deus amañ !">
