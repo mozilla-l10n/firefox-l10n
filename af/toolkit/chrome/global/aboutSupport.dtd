@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Inligting vir probleemoplossing">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Hierdie bladsy bevat tegniese inligting wat nuttig kan wees wanneer u 'n probleem probeer oplos. Indien u soek vir antwoorde op algemene vrae oor &brandShortName;, besoek gerus ons <a id='supportLink'>steunwerf</a>.">
-
 <!ENTITY aboutSupport.crashes.title "Omvalverslae">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -50,6 +48,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Gebruikeragent">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "Geheuegebruik">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
@@ -79,6 +78,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 
 
@@ -95,6 +97,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopieer rou data na die knipbord">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandput">
+
+
+
 
 
 
