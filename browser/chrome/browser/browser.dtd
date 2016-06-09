@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "باز کردن ترجیحات &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "بازگشت به &syncBrand.shortName.label;…">
 <!ENTITY fxaUnverified.label "حساب خود را تایید کنید">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; فعال شد">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; به زودی هم‌گام‌سازی را شروع میکند">
 
 
 <!ENTITY fullScreenMinimize.tooltip "کمینه کردن">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "نشانک‌‌های دیگر">
 <!ENTITY bookmarksToolbarChevron.tooltip "نشانک‌های بیشتری نمایش داده شود">
 
+
+
+
+
 <!ENTITY backCmd.label                "برگشت">
 <!ENTITY backButton.tooltip           "برگشتن به یک صفحه قبل">
 <!ENTITY forwardCmd.label             "جلو">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "نشانک‌‌های دیگر">
 <!ENTITY viewBookmarksSidebar2.label        "نمایش نوار ابزار نشانک‌ها">
 <!ENTITY viewBookmarksToolbar.label         "نمایش نوار ابزار نشانک‌ها">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "ف">
 <!ENTITY newUserContext.label             "ایجاد زبانه حامل جدید">
 <!ENTITY newUserContext.accesskey         "ح">
-<!ENTITY userContextPersonal.label        "شخصی">
-<!ENTITY userContextPersonal.accesskey    "ش">
-<!ENTITY userContextWork.label            "کار">
-<!ENTITY userContextWork.accesskey        "ک">
-<!ENTITY userContextBanking.label         "کارهای بانکی">
-<!ENTITY userContextBanking.accesskey     "ک">
-<!ENTITY userContextShopping.label        "خرید">
-<!ENTITY userContextShopping.accesskey    "خ">
 <!ENTITY newNavigatorCmd.label        "پنجره جدید‌">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "پ">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "ق">
 <!ENTITY mediaUnmute.label           "وصل صدا">
 <!ENTITY mediaUnmute.accesskey       "و">
-<!ENTITY mediaPlaybackRate.label     "سرعت پخش">
-<!ENTITY mediaPlaybackRate.accesskey "پ">
-<!ENTITY mediaPlaybackRate050x.label "حرکت آهسته (۰.۵×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "ح">
-<!ENTITY mediaPlaybackRate100x.label "سرعت عادی">
-<!ENTITY mediaPlaybackRate100x.accesskey "ع">
-<!ENTITY mediaPlaybackRate150x.label "سرعت بالا(۱.۵×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "ب">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "سرعت جنون‌آمیز(۲×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "ج">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "اتصال امن">
 <!ENTITY identity.connectionNotSecure "اتصال امن نیست">
 <!ENTITY identity.connectionFile "این صفحه بر روی رایانه شما ذخیره شده است.">
-<!ENTITY identity.connectionVerified1 "شما بطور امن به این سایت متصل شده‌اید، اداره شده توسط:">
+
 <!ENTITY identity.connectionInternal "این یک صفحۀ امن &brandShortName; است.">
 <!ENTITY identity.insecureLoginForms2 "اطلاعات ورودی که در این صفحه وارد می‌کنید می‌توانند فاش شوند.">
 <!-- Strings for connection state warnings. -->

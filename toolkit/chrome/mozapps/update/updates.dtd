@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "&brandShortName; شما قدیمی شده است، اما آخرین نسخه بر روی سیستم شما پشتیبانی نمی‌شود. لطفا سیستم خود را ارتقا دهید، سپس مجددا تلاش کنید. دیگر این اطلاع‌رسانی را مشاهده نخواهید کرد، اما شما می توانید">
 <!ENTITY  unsupportedLink.label           "اطلاعات بیشتر.">
 
-<!ENTITY  incompatibleCheck.title         "بررسی سازگاری افزودنی‌ها">
-<!ENTITY  incompatibleCheck.label         "جست‌وجو به دنبال نسخهٔ جدیدتری از افزودنی‌های‌تان…">
-
 <!ENTITY  clickHere.label                 "اطلاعات بیشتر در مورد این بروزرسانی">
 
 <!ENTITY  evangelism.desc                 "به شدت توصیه می‌شود که این بروزرسانی از &brandShortName; را هر چه سریع‌تر اعمال نمایید.">
-
-<!ENTITY  license.instructions            "اگر موارد این توافق‌نامه را می‌پذیرید، گزینه موافق هستم را در ادامه انتخاب کنید تا نصب بروزرسانی ادامه یابد.">
-
-<!ENTITY  license.titleText               "توافق‌نامهٔ مجوز نرم‌افزار">
-<!ENTITY  license.introText               "شرایط استفاده از این نرم‌افزار.">
-<!ENTITY  license.instructionText         "لطفاً توافق‌نامهٔ مجوز نرم‌افزار حاضر را بخوانید. برای دیدن ادامهٔ این متن از نوار لغزنده استفاده کنید.">
-<!ENTITY  license.accept                  "من با مفاد این توافق‌نامه موافق هستم">
-<!ENTITY  license.accept.accesskey        "ه">
-<!ENTITY  license.decline                 "من با مفاد این توافق‌نامه موافق نیستم">
-<!ENTITY  license.decline.accesskey       "ن">
-
-<!ENTITY  incompatibleList.title          "افزودنی ناسازگاری پیدا شد">
 
 <!ENTITY  downloadPage.title              "در حال بارگیری &brandShortName;">
 <!ENTITY  downloading.intro               "در حال دریافت بروزرسانی…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "این بروزرسانی دفعهٔ بعدی که &brandShortName; شروع به کار کند نصب خواهد شد. می‌توانید هم‌اکنون &brandShortName; را راه‌اندازی مجدد کنید، یا به کارتان ادامه داده و این کار را بعداً انجام دهید.">
 
-<!ENTITY  installed.title                 "بروزرسانی نصب شد">
-<!ENTITY  installed.intro                 "‏این بروزرسانی با موفقیت نصب شد.">
-<!ENTITY  whatsnew.label                  "در مورد چیزهای جدید بیشتر بدانید…">
 
 <!ENTITY  update.details.label            "جزئیات">
 <!ENTITY  update.installedOn.label        "نصب شد در:">

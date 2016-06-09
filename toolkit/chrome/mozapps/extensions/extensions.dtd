@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "در حال بار کردن…">
-<!ENTITY listEmpty.installed.label            "هیچ افزودنی‌ای از این نوع نصب نشده است">
+
 <!ENTITY listEmpty.availableUpdates.label     "هیچ بروزرسانی‌ای پیدا نشد">
-<!ENTITY listEmpty.recentUpdates.label        "اخیراً هیچ افزودنی‌ای به‌هنگام نشده است">
+
 <!ENTITY listEmpty.findUpdates.label          "بررسی برای بروزرسانی‌ها">
 <!ENTITY listEmpty.search.label               "هیچ افزودنی در پاسخ به جست‌وجوی شما پیدا نشد">
 <!ENTITY listEmpty.button.label               "دربارهٔ افزودنی‌ها بیشتر بدانید">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "حذف">
 <!ENTITY cmd.uninstallAddon.accesskey         "ح">
 <!ENTITY cmd.showPreferencesWin.label         "گزینه‌ها">
-<!ENTITY cmd.showPreferencesWin.tooltip       "تغییر گزینه‌های این افزودنی">
+
 <!ENTITY cmd.showPreferencesUnix.label        "ترجیحات">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "تغییر ترجیحات این افزودنی">
+
 <!ENTITY cmd.contribute.label                 "مشارکت">
 <!ENTITY cmd.contribute.accesskey             "م">
 <!ENTITY cmd.contribute.tooltip               "مشارکت در توسعهٔ این افزودنی">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "افزودنی‌ها به چه کار می‌آیند؟">
 <!ENTITY discover.description2                "افزودنی‌ها برنامه‌هایی هستند که به شما امکان شخصی‌سازی &brandShortName; را با افزودن قابلیت‌های جدید یا تغییر ظاهر آن می‌دهند. برای داشتن &brandShortName; شخصی، افزودن نوار کناری برای صرفه‌جویی در زمان، یک افزودنی اطلاع از وضعیت هوا، یا یک ظاهر جدید را امتحان کنید.">
-<!ENTITY discover.footer                      "زمانی که به اینترنت متصل باشید، این ناحیه برخی از بهترین و پرطرفدارترین افزودنی‌هایی که می‌توانید آزمایش کنید را نشان می‌دهد.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "نسخه">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "بروزرسانی‌های خودکار">
 <!ENTITY detail.updateDefault.label           "پیش‌فرض">
-<!ENTITY detail.updateDefault.tooltip         "تنها در صورت اینکه گزینه نصب خودکار بروزرسانی‌ها گزینه پیش‌فرض باشد این اتفاق بیافتد">
+
 <!ENTITY detail.updateAutomatic.label         "فعال">
 <!ENTITY detail.updateAutomatic.tooltip       "بروزرسانی‌های جدید به صورت خودکار نصب شوند">
 <!ENTITY detail.updateManual.label            "غیر فعال">
-<!ENTITY detail.updateManual.tooltip          "بروزرسانی‌های جدید به صورت خودکار نصب نشوند">
+
 <!ENTITY detail.home                          "صفحهٔ افزودنی">
 <!ENTITY detail.repository                    "نمایهٔ افزودنی">
 <!ENTITY detail.size                          "حجم">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "بررسی بروزرسانی‌های این افزودنی">
 <!ENTITY detail.showPreferencesWin.label      "گزینه‌ها">
 <!ENTITY detail.showPreferencesWin.accesskey  "گ">
-<!ENTITY detail.showPreferencesWin.tooltip    "تغییر گزینه‌های این افزودنی">
+
 <!ENTITY detail.showPreferencesUnix.label     "ترجیحات">
 <!ENTITY detail.showPreferencesUnix.accesskey "ت">
-<!ENTITY detail.showPreferencesUnix.tooltip   "تغییر ترجیحات این افزودنی">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "این چیست؟ تلمتری امکان دارد آزمون هایی را گهگاه نصب و اجرا نماید.">
 <!ENTITY experiment.info.learnmore "بیشتر بدانید">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "تنظیمات تلمتری">

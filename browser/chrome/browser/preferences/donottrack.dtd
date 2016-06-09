@@ -3,10 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "ردیابی نکن">
-<!ENTITY window.width                 "40em">
-<!ENTITY window.height                "8em">
 
-<!ENTITY doNotTrackCheckbox.label     "استفاده از «ردیابی نکن»">
-<!ENTITY doNotTrackCheckbox.accesskey "س">
+
+
+
 
 <!ENTITY doNotTrackLearnMore.label    "بیشتر بدانید">

@@ -8,7 +8,7 @@
 
 <!ENTITY aboutWarningTitle.label "به کجا چنین شتابان؟!">
 <!ENTITY aboutWarningText.label "تغییر این تنظیمات پیشرفته ممکن است اثر بدی در پایداری، امنیت، و سرعت این برنامه بگذارند.  تنها در صورتی باید ادامه دهید که از کاری که می‌خواهید انجام دهید اطمینان داشته باشید.">
-<!ENTITY aboutWarningButton.label "قول می‌دهم مواظب باشم!">
+
 <!ENTITY aboutWarningCheckbox.label "دفعهٔ بعدی هم این هشدار نمایش داده شود">
 
 <!ENTITY searchPrefs.label "جست‌وجو:">
