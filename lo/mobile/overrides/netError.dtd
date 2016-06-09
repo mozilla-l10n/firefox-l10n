@@ -86,8 +86,8 @@
 <!ENTITY cspBlocked.title "ຖືກບັອກໂດຍນະໂຍບາຍຄວາມປອດໄພທາງດ້ານເນື້ອຫາ">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ປ້ອງກັນຫນ້າເວັບນີ້ຈາກການໂຫລດໃນທິດທາງນີ້ເພາະວ່າຫນ້າເວັບມີເນື້ອຫາທີ່ຖືກບັອກໄວ້ໂດຍນະໂຍບາຍຄວາມປອດໄພ.</p>">
 
-<!ENTITY corruptedContentError.title "ມີການຜີດຜາດໃນການເຊື່ອມຍົງເນື້ອຫາ">
-<!ENTITY corruptedContentError.longDesc "<p>ບໍ່ສາມາດສະແດງຫນ້າເວັບທີ່ທ່່ານກຳລັງເຂົ້າໄປເບິງເພາະໄດ້ກວດພົບວ່າເກີດມີຂໍ້ຜິດໃນການສົ່ງຂໍ້ມູນ.</p><ul><li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໃຊ້ເພື່ອແຈ້ງບັນຫານີ້.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "ມີການຜີດຜາດໃນການເຊື່ອມຍົງເນື້ອຫາ">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>ບໍ່ສາມາດສະແດງຫນ້າເວັບທີ່ທ່່ານກຳລັງເຂົ້າໄປເບິງເພາະໄດ້ກວດພົບວ່າເກີດມີຂໍ້ຜິດໃນການສົ່ງຂໍ້ມູນ.</p><ul><li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໃຊ້ເພື່ອແຈ້ງບັນຫານີ້.</li></ul>">
 
 <!ENTITY securityOverride.linkText "ຫລືທ່ານສາມາດເພີ່ມຂໍ້ຍົກເວັ້ນ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ພາຂ້ອຍອອກຈາກບ່ອນນີ້!">

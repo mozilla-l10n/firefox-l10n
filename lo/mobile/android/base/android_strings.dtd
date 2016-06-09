@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "ຍິນດີຕ້ອນຮັບ">
-<!ENTITY  onboard_start_message3 "ຄົ້ນຫາດ້ວຍ &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "ສ້າງປະສົບການໃນການທ່ອງເວັບເທິງມີຖືເປັນໄປຕາມເອກະລັກຂອງຕົວທ່ານເອງ.">
 
 <!ENTITY firstrun_urlbar_message "ຍິນດີຕ້ອນຮັບສູ່ &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "ຄົ້ນຫາສຶ່ງຕ່າງໆໄດ້ໄວຂື້ນດ້ວຍການໃຊ້ເຄື່ອງມືແນະນຳການຄົ້ນຫາ">
@@ -20,20 +18,25 @@
 <!ENTITY firstrun_signin_message "ສ້າງການເຊື່ອມຕໍ່, ເລີມຕົ້ນເຮັດວຽກ">
 <!ENTITY firstrun_signin_button "ລົງຊື່ເຂົ້າໃຊ້ເພື່ອ Sync">
 <!ENTITY  onboard_start_button_browser "ເລີ່ມການຄົ້ນຫາ">
+
 <!ENTITY firstrun_button_next "ຕໍ່ໄປ">
 
-<!ENTITY  onboard_start_restricted1 "ທ່ອງເວັບຢ່າງປອດໄພ ແລະ ຢູ່ພາຍໃຕ້ການຄວບຄຸມຂອງທ່ານດ້ວຍລຸ້ນນີ້ຂອງ &brandShortName;.">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
-<!ENTITY  reading_list_migration_title "ໄດ້ເຊື່ອມຕໍ່ເຂົ້າກັບລາຍການອ່ານແລ້ວ">
-<!ENTITY  reading_list_migration_subtext "ລາຍການອ່ານຂອງທ່ານຈະໄດ້ຮັບການເພີ່ມເຂົ້າໄປໄວ້ໃນບຸກມາກຂອງທ່ານ">
-<!ENTITY  reading_list_migration_goto_bookmarks "ໄປທີ່ບຸກມາກ">
-<!ENTITY  reading_list_migration_bookmarks_hidden "ແຜງບຸກມາກຂອງທ່ານຖືກເຊື່ອງໄວ້">
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
+<!ENTITY  onboard_start_restricted1 "ທ່ອງເວັບຢ່າງປອດໄພ ແລະ ຢູ່ພາຍໃຕ້ການຄວບຄຸມຂອງທ່ານດ້ວຍລຸ້ນນີ້ຂອງ &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "ບຸກມາກສ໌">
 <!ENTITY  history_title "ປະວັດການໃຊ້ງານ">
-<!ENTITY  reading_list_title "ລາຍການອ່ານ">
 <!ENTITY  recent_tabs_title "ແທັບມື້ກີ້ນີ້">
 
 <!ENTITY  switch_to_tab "ຍ້າຍໄປຫາແທັບ">
@@ -68,7 +71,10 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "ພາບຫນ້າຈໍ">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "ລາຍການອ່ານ">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
 
 <!ENTITY reader_saved_offline "ບັກທຶກເປັນອັອບລາຍໄວ້ແລ້ວ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +180,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "ຄຳແນະນຳ: ເພີ່ມທຸກໆເວັບໄຊຕ໌ເຂົ້າໄປໃນລາຍການຂອງຜູ້ສະຫນອງການຄົ້ນຫາຂອງທ່ານໂດຍການກົດຄ້າງໄວ້ໃນຫ້ອງຄົ້ນຫາ ແລະ ຫລັງຈາກນັ້ນໄປແຕະທີ່ໄອຄອນ &formatI;">
 <!ENTITY pref_category_advanced "ຂັ້ນສູງ">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ກູ້ຄືນແທັບ, ຜູ້ຝາກຂໍ້ມູນ, ເຄື່ອງມືສຳລັບນັກພັດທະນາ">
 <!ENTITY pref_category_notifications "ການແຈ້ງເຕືອນ">
 <!ENTITY pref_category_notifications_summary "ຈຸດເດັ່ນໃຫມ່ໆ, ການອັບເດດເວັບໄຊຕ໌">
@@ -224,6 +233,9 @@
 <!ENTITY pref_cookies_accept_all "ເປີດໃຊ້ງານແລ້ວ">
 <!ENTITY pref_cookies_not_accept_foreign "ເປີດໃຊ້ງານ, ປະກອບໄປດ້ວຍບຸກຄົນທີ່ສາມ">
 <!ENTITY pref_cookies_disabled "ປິດໃຊ້ງານ">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_data_saver "ຜູ້ຝາກຂໍ້ມູນ">
 <!ENTITY pref_category_media "ມີເດຍ">
@@ -287,7 +299,10 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "ອັບເດດເວັບໄຊຕ໌ &formatD;">
-<!ENTITY content_notification_action_settings "ຕັ້ງຄ່າການແຈ້ງເຕືອນ">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -421,12 +436,12 @@ size. -->
 <!ENTITY share_image_failed "ບໍ່ສາມາດແບ່ງປັນຮູບພາບນີ້ໄດ້">
 <!ENTITY save_as_pdf "ບັກທຶກເປັນ PDF">
 <!ENTITY print "ພິມ">
-<!ENTITY find_in_page "ຄົ້ນຫາໃນຫນ້ານີ້">
-<!ENTITY desktop_mode "ເອີ້ນໃຊ້ເວັບໄຊຕ໌ສຳລັບເດສ໌ກທັອບ">
+
+
 <!ENTITY page "ຫນ້າ">
 <!ENTITY tools "ເຄື່ອງມື">
-<!ENTITY new_tab "ເປີດໜ້າຕ່າງໃໝ່">
-<!ENTITY new_private_tab "ແທັບສ່ວນຕົວໃຫມ່">
+
+
 <!ENTITY close_all_tabs "ປິດແທັບທັງຫມົດ">
 <!ENTITY close_private_tabs "ປິດແທັບສ່ວນຕົວ">
 <!ENTITY tabs_normal "ແທັບ">
@@ -436,8 +451,6 @@ size. -->
 <!ENTITY set_image_chooser_title "ກໍານົດຮູບພາບໃຫ້ເປັນ">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "ຄົ້ນຫາໃນຫນ້ານີ້">
 <!ENTITY find_prev "ກ່ອນຫນ້ານີ້">
 <!ENTITY find_next "ຕໍ່ໄປ">
 <!ENTITY find_close "ປິດ">
@@ -538,6 +551,7 @@ size. -->
 <!ENTITY home_history_title "ປະຫວັດການໃຊ້ງານ">
 <!ENTITY home_synced_devices_smartfolder "ອຸປະກອນທີ່ Sync ແລ້ວ">
 <!ENTITY home_synced_devices_number "ອຸປະກອນ &formatD;">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_history_back_to2 "ກັບຄືນສູ່ປະຫວັດການໃຊ້ງານທັງຫມົດ">
 <!ENTITY home_clear_history_button "ລົບລ້າງປະຫວັດຂອງການຊອກຫາ">
 <!ENTITY home_clear_history_confirm "ທ່ານຫມັ້ນໃຈແລ້ວບໍ່ວ່າທ່ານຕ້ອງການລົບລ້າງປະຫວັດການໃຊ້ງານຂອງທ່ານທີ່ຜ່ານມາ?">
@@ -776,4 +790,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "ອ່ານອັອບລາຍ">
 <!ENTITY helper_first_offline_bookmark_message "ຄົ້ນຫາຕົວອ່ານຂອງທ່ານໃນບຸກມາກ ເຖິງວ່າມັນຈະອັອບລາຍກໍ່ຕາມ.">
-<!ENTITY helper_first_offline_bookmark_button "ໄປທີ່ບຸກມາກ">
+
+
+
+
+
