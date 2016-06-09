@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Harzet gant ur reolenn diogelroez a-fet endalc'hadoù">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; en deus miret ar bajennad-mañ ouzh bezañ pellgarget gant an doare-mañ rak reolennoù a-fet diogelroez ez eus er bajennad o tisaotren d'hen ober.</p>">
 
-<!ENTITY corruptedContentError.title "Fazi a-fet endalc'had bet kontronet">
-<!ENTITY corruptedContentError.longDesc "<p>Ar bajenn emaoc'h o klask gweladenniñ n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.</p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn a-benn kelaouiñ anezho eus ar gudenn-mañ.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Fazi a-fet endalc'had bet kontronet">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ar bajenn emaoc'h o klask gweladenniñ n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.</p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn a-benn kelaouiñ anezho eus ar gudenn-mañ.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ouzhpennañ un nemedenn…">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Kempleshoc'h">
 <!ENTITY weakCryptoAdvanced.longDesc "Galvezouriezh diogelroez diamzeret a vez arveret gant <span class='hostname'></span>, ha bresk eo d'an tagadennoù. Gallout a ra un tager dizoloiñ titouroù a soñje deoc'h oa diogel. ">
 <!ENTITY weakCryptoAdvanced.override "(Arvarus) Klaskit kargañ <span class='hostname'></span> gant diogelroez diamzeret">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Kennask arvarus">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Al lec'hienn-mañ a arver HTTP Strict Transport Security (HSTS) evit erspizañ e rank &brandShortName; kennaskañ outi gant un doare diogel. N'haller ket ouzhpennañ un nemedenn evit an testeni-mañ eta.">
+
 <!ENTITY certerror.copyToClipboard.label "Eilañ an destenn er golver">
 
 <!ENTITY inadequateSecurityError.title "N'eo ket diarvar ho kennask">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> a arver ur c'halverezh diogelroez diamzeret ha bresk. Gallout a rafe un tager dizoloiñ titouroù a gredec'h diarvar. Ret vo da verour al lec'hienn ratreañ an dafariad a-raok ma c'hallfec'h gweladenniñ al lec'hienn.</p><p>Boneg fazi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+

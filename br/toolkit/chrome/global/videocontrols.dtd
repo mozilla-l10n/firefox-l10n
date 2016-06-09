@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Paouezet eo bet kargadur ar video.">
 <!ENTITY error.network "Paouezet eo bet lenn ar video en abeg d'ur fazi rouedad.">
-<!ENTITY error.decode "N'haller ket lenn ar video rak kontronet eo ar restr.">
+
 <!ENTITY error.srcNotSupported "N'eo ket skoret mentrezh ar video pe ar rizh MIME.">
 <!ENTITY error.noSource2 "N'eo ket bet kavet video ebet gant ur mentrezh pe ur rizh MIME skoret.">
 <!ENTITY error.generic "Paouezet eo bet lenn ar video en abeg d'ur fazi dianav.">

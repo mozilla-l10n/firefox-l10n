@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Na wiriañ biken mard ez eus hizivadurioù (ket erbedet : arvarus evit ho tiogelroez)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Kemenn din mar bez diweredekaet un askouezh din gant an dra-se">
-<!ENTITY updateAutoAddonWarn.accesskey   "e">
-
 <!ENTITY updateHistory.label             "Diskouez roll istor an hizivaat">
 <!ENTITY updateHistory.accesskey         "r">
 

@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "O kargañ…">
-<!ENTITY listEmpty.installed.label            "N'eus askouezh ebet eus ar rizh-mañ staliet">
+
 <!ENTITY listEmpty.availableUpdates.label     "Hizivadenn ebet kavet">
-<!ENTITY listEmpty.recentUpdates.label        "N'hoc'h eus ket hizivaet askouezh ebet nevez zo">
+
 <!ENTITY listEmpty.findUpdates.label          "Klask hizivadennoù">
 <!ENTITY listEmpty.search.label               "Askouezh ebet bet kavet">
 <!ENTITY listEmpty.button.label               "Gouzout hiroc'h a-zivout an askouezhioù">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Dilemel">
 <!ENTITY cmd.uninstallAddon.accesskey         "D">
 <!ENTITY cmd.showPreferencesWin.label         "Dibarzhioù">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Kemmañ dibarzhioù an askouezh-mañ">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Gwellvezioù">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Kemmañ gwellvezioù an askouezh-mañ">
+
 <!ENTITY cmd.contribute.label                 "Kenoberiañ">
 <!ENTITY cmd.contribute.accesskey             "K">
 <!ENTITY cmd.contribute.tooltip               "Kenoberiañ da ziorren an askouezh-mañ">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Petra eo an askouezhioù ?">
 <!ENTITY discover.description2                "Arloadoù a ro tro deoc'h da bersonelaat &brandShortName; gant keweriusterioù pe stiloù ouzhpenn eo an askouezhioù. Amprouit ur varrenn gostez pe un arload evit an hinad, pe un neuz da lakaat &brandShortName; da vezañ evel ma plijo deoc'h.">
-<!ENTITY discover.footer                      "Pa viot kennasket ouzh internet e tiskouezo ar penel-mañ un darn eus an askouezhioù gwellañ ha brudetañ da brouadiñ.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Handelv">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Hizivadurioù emgefreek">
 <!ENTITY detail.updateDefault.label           "Diouer">
-<!ENTITY detail.updateDefault.tooltip         "Staliañ emgefreek an hizivadennoù mar bez an arventenn dre ziouer">
+
 <!ENTITY detail.updateAutomatic.label         "Gweredekaet">
 <!ENTITY detail.updateAutomatic.tooltip       "Staliañ an hizivadurioù ent emgefreek">
 <!ENTITY detail.updateManual.label            "Diweredekaet">
-<!ENTITY detail.updateManual.tooltip          "Arabat staliañ an hizivadennoù ent emgefreek">
+
 <!ENTITY detail.home                          "Pennbajenn">
 <!ENTITY detail.repository                    "Aelad an askouezh">
 <!ENTITY detail.size                          "Ment">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Gwiriañ hag-eñ ez eus hizivadennoù hegerz evit an askouezh-mañ">
 <!ENTITY detail.showPreferencesWin.label      "Dibarzhioù">
 <!ENTITY detail.showPreferencesWin.accesskey  "o">
-<!ENTITY detail.showPreferencesWin.tooltip    "Kemmañ dibarzhioù an askouezh-mañ">
+
 <!ENTITY detail.showPreferencesUnix.label     "Gwellvezioù">
 <!ENTITY detail.showPreferencesUnix.accesskey "G">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Kemmañ gwellvezioù an askouezh-mañ">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Petra eo an dra-se ? Telemetry a c'hell staliañ hag erounit arnodoù ur wech an amzer.">
 <!ENTITY experiment.info.learnmore "Gouzout hiroc'h">
 <!ENTITY experiment.info.learnmore.accesskey "G">
 <!ENTITY experiment.info.changetelemetry "Arventennoù Telemetry">
