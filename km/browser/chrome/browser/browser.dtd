@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "បើក​ចំណូលចិត្ត &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "តភ្ជាប់​ឡើង​វិញ​ទៅកាន់ &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "ផ្ទៀងផ្ទាត់​គណនី​របស់​អ្នក">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; បាន​បើក">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; នឹង​កំពុង​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ឥឡូវនេះ។">
 
 
 <!ENTITY fullScreenMinimize.tooltip "បង្រួម​អប្បបរមា">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "បង្ហាញ​ចំណាំ​​ច្រើន​ទៀត">
 
+
+
+
+
 <!ENTITY backCmd.label                "ថយក្រោយ">
 <!ENTITY backButton.tooltip           "ថយក្រោយ​មួយ​ទំព័រ">
 <!ENTITY forwardCmd.label             "ទៅមុខ">
@@ -226,6 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewBookmarksSidebar2.label        "មើល​របារ​ឧបករណ៍​ចំណាំ">
 <!ENTITY viewBookmarksToolbar.label         "មើល​របារ​ឧបករណ៍​ចំណាំ">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -258,14 +261,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ឯកសារ"> 
 <!ENTITY fileMenu.accesskey       "ឯ">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY newNavigatorCmd.label        "បង្អួច​​​ថ្មី">
@@ -558,19 +553,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "ប">
 <!ENTITY mediaUnmute.label           "បើក​សំឡេង">
 <!ENTITY mediaUnmute.accesskey       "ប">
-<!ENTITY mediaPlaybackRate.label     "ល្បឿន​ចាក់">
-<!ENTITY mediaPlaybackRate.accesskey "ល">
-<!ENTITY mediaPlaybackRate050x.label "ល្បឿន​យឺត (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "យ">
-<!ENTITY mediaPlaybackRate100x.label "ល្បឿន​ធម្មតា">
-<!ENTITY mediaPlaybackRate100x.accesskey "ធ">
-<!ENTITY mediaPlaybackRate150x.label "ល្បឿន​លឿន (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "ល">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "ល្បឿន​មិន​ល្អ (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "ល">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -679,7 +677,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "ការ​តភ្ជាប់​ដែលមាន​សុវត្ថិភាព">
 <!ENTITY identity.connectionNotSecure "ការតភ្ជាប់​ពុំ​មាន​សុវត្ថិភាព">
 <!ENTITY identity.connectionFile "ទំព័រ​នេះ​ត្រូវ​បាន​រក្សាទុក​នៅ​ក្នុង​កុំព្យូទ័រ​របស់​អ្នក។">
-<!ENTITY identity.connectionVerified1 "អ្នក​ត្រូវ​បាន​តភ្ជាប់​​ទៅ​តំបន់បណ្ដាញ​នេះ​ដោយ​សុវត្ថិភាព ដំណើរការ​ដោយ៖">
+
 <!ENTITY identity.connectionInternal "នេះគឺជាទំព័រ &brandShortName; ដែល​មាន​សុវត្ថិភាព">
 <!ENTITY identity.insecureLoginForms2 "ការ​ចូល​ទាំង​ឡាយ​ដែល​បាន​បញ្ចូល​ក្នុង​ទំព័រ​នេះ​អាច​ត្រូវ​បាន​គេ​សម្របសម្រួល​។ ​">
 <!-- Strings for connection state warnings. -->

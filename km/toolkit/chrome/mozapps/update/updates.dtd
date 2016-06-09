@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "&brandShortName; របស់​អ្នក​ចាស់ ប៉ុន្តែ​កំណែ​ថ្មី​បំផុត​មិន​ត្រូវ​បាន គាំទ្រ​ក្នុង​ប្រព័ន្ធ​របស់​អ្នក។ សូម​ធ្វើ​បច្ចុប្បន្នភាព​ប្រព័ន្ធ​របស់​អ្នក ហើយ​បន្ទាប់មក​ព្យាយាម​ម្ដង​ទៀត។ អ្នក​នឹង​មិន​ឃើញ​ការ​ជូន​ដំណឹង​នេះ​ម្ដង​ទៀត​ទេ ប៉ុន្តែ​អ្នក​អាច">
 <!ENTITY  unsupportedLink.label           "ស្វែងយល់បន្ថែម">
 
-<!ENTITY  incompatibleCheck.title         "ពិនិត្យមើល​ភាព​ឆប​គ្នា​របស់​កម្មវិធី​បន្ថែម">
-<!ENTITY  incompatibleCheck.label         "កំពុង​រក​មើល​កំណែ​ថ្មី​ជាង​របស់​កម្មវិធី​បន្ថែម​របស់​អ្នក…">
-
 <!ENTITY  clickHere.label                 "មើល​ព័ត៌មាន​បន្ថែម​អំពី​បច្ចុប្បន្នភាព​នេះ">
 
 <!ENTITY  evangelism.desc                 "អ្នក​ត្រូវ​បាន​ផ្ដល់​អនុសាសន៍​ឲ្យ​អនុវត្ត​បច្ចុប្បន្នភាព​នេះ ​សម្រាប់ &brandShortName; ឆាប់​ៗ​​តាមតែ​អាច​ធ្វើ​បាន ។">
-
-<!ENTITY  license.instructions            "ប្រសិនបើ​អ្នក​យល់ព្រម​នឹង​ល័ក្ខខ័ណ្ឌ​នៃ​កិច្ចព្រមព្រៀង​នេះ សូម​ចុច​ ខ្ញុំ​យល់ព្រម ខាងក្រោម​ដើម្បី​បន្ត​ការ​ដំឡើង​បច្ចុប្បន្នភាព​នេះ ។">
-
-<!ENTITY  license.titleText               "កិច្ចព្រមព្រៀង​អាជ្ញាប័ណ្ណ​កម្មវិធី">
-<!ENTITY  license.introText               "ល័ក្ខខ័ណ្ឌ និង​កិច្ចព្រមព្រៀង​សម្រាប់​ប្រើ​កម្មវិធី​នេះ ។">
-<!ENTITY  license.instructionText         "សូម​អាន​កិច្ច​ព្រមព្រៀង​អជ្ញាបណ្ណ​ខាងក្រោម ។ ប្រើ​របារ​រំកិល​ដើម្បី​មើល​កិច្ច​ព្រមព្រៀង​នេះ​ទាំងអស់ ។">
-<!ENTITY  license.accept                  "ខ្ញុំ ព្រម​ទទួល​ ល័ក្ខខ័ណ្ឌ​នៃ​កិច្ចព្រមព្រៀង​អាជ្ញាប័ណ្ណ">
-<!ENTITY  license.accept.accesskey        "ម">
-<!ENTITY  license.decline                 "ខ្ញុំ​ មិន​ព្រម​ទទួល ល័ក្ខខ័ណ្ឌ​នៃ​កិច្ច​ព្រមព្រៀង​អាជ្ញាប័ណ្ណ​">
-<!ENTITY  license.decline.accesskey       "ន">
-
-<!ENTITY  incompatibleList.title          "រក​ឃើញ​កម្មវិធី​បន្ថែម​មិន​ឆប​គ្នា">
 
 <!ENTITY  downloadPage.title              "ទាញ​យក &brandShortName;">
 <!ENTITY  downloading.intro               "កំពុង​ទាញ​យក​បច្ចុប្បន្នភាព…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "បច្ចុប្បន្នភាព​នឹង​ត្រូវ​បាន​ដំឡើង​ នៅ​ពេល​ដែល &brandShortName; ចាប់ផ្ដើម​ឡើងវិញ​​ពេល​ក្រោយ ។ អ្នក ​អាច​ចាប់ផ្ដើម &brandShortName; ឡើងវិញ​ឥឡូវនេះ​ ឬ​បន្ត​ធ្វើ​ការ រួច​ចាប់ផ្ដើម​ឡើងវិញ​ពេលក្រោយ ។">
 
-<!ENTITY  installed.title                 "បច្ចុប្បន្នភាព​ត្រូវ​បាន​ដំឡើង">
-<!ENTITY  installed.intro                 "បច្ចុប្បន្នភាព​ត្រូវ​បាន​ដំឡើង​ដោយ​ជោគជ័យ ។">
-<!ENTITY  whatsnew.label                  "អាន​បន្ថែម​អំពី​អ្វី​ដែល​ថ្មី…">
 
 <!ENTITY  update.details.label            "សេចក្ដី​លម្អិត">
 <!ENTITY  update.installedOn.label        "បាន​ដំឡើង​លើ ៖">
