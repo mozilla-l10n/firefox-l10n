@@ -3,10 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Dim Tracio">
-<!ENTITY window.width                 "40em">
-<!ENTITY window.height                "8em">
 
-<!ENTITY doNotTrackCheckbox.label     "Defnyddio Dim Tracio">
-<!ENTITY doNotTrackCheckbox.accesskey "D">
+
+
+
 
 <!ENTITY doNotTrackLearnMore.label    "Dysgu Rhagor">

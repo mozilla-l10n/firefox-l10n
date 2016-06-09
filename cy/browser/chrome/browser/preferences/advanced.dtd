@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Byth gwirio am ddiweddariadau (ddim yn argymell: perygl diogelwch)">
 <!ENTITY updateManual.accesskey          "B">
 
-<!ENTITY updateAutoAddonWarn.label       "Rhybuddio os fydd hwn yn anablu ategion">
-<!ENTITY updateAutoAddonWarn.accesskey   "R">
-
 <!ENTITY updateHistory.label             "Dangos Hanes Diweddaru">
 <!ENTITY updateHistory.accesskey         "D">
 
