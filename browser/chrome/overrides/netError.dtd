@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "حجبتها سياسة أمن المحتوى">
 <!ENTITY cspBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأن للصفحة سياسة أمن محتوى تمنع ذلك.</p>">
 
-<!ENTITY corruptedContentError.title "خطأ: محتوى فاسد">
-<!ENTITY corruptedContentError.longDesc "<p>تعذر عرض الصفحة التي تريد مشاهدتها بسبب خطأ أثناء نقل البيانات.</p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "خطأ: محتوى فاسد">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>تعذر عرض الصفحة التي تريد مشاهدتها بسبب خطأ أثناء نقل البيانات.</p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "أضِف استثناءً…">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "متقدم">
 <!ENTITY weakCryptoAdvanced.longDesc "يستخدم <span class='hostname'></span> تقنية أمان قديمة ومعرّضة للهجوم. يمكن للمهاجم بسهولة كشف المعلومات التي تخالها آمنة.">
 <!ENTITY weakCryptoAdvanced.override "(غير آمن) جرب تحميل <span class='hostname'></span>. باستخدام حماية قديمة">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "اتصال غير آمن">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "يستخدم هذا الموقع سياسة النقل الصارمة (HSTS) تفرض على &brandShortName; ألا يتصل به إلا بأمان. بناء على هذا فقد تعذّر إضافة استثناء لهذه الشهادة.">
+
 <!ENTITY certerror.copyToClipboard.label "انسخ النص إلى الحافظة">
 
 <!ENTITY inadequateSecurityError.title "اتّصالك غير آمن">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p>يستخدم <span class='hostname'></span> تقنية أمنية عتيقة و عرضة للهجوم. يمكن لمهاجم بسهولة الاطلاع على معلومات تظنها بمأمن. على مدير الموقع إصلاح الخادوم قبل أن يمكنك زيارة الموقع.</p><p>رمز العطل: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+

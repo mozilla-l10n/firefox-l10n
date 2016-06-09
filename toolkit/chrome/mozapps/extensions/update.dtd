@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "وجدت إضافات متوافقة">
 <!ENTITY  found.top.label                 "اختر الإضافات التي تريد تثبيتها:">
-<!ENTITY  found.disabledXPinstall.label   "تعذّر تحديث الإضافات لأن تثبيت البرمجيات معطّل. يمكن تغيير ذلك في الأسفل.">
+
 <!ENTITY  found.enableXPInstall.label     "اسمح للمواقع بتثبيت برمجيات">
 <!ENTITY  found.enableXPInstall.accesskey "س">
 

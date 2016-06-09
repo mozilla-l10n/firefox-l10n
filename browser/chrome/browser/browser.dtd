@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "افتح تفضيلات &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "أعِد الاتصال مع &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "أكّد حسابك">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; مفعّل">
-<!ENTITY syncStartPanel2.subTitle "سيبدأ &brandShortName; في المزامنة حالًا.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "صغّر">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "العلامات الأخرى">
 <!ENTITY bookmarksToolbarChevron.tooltip "أظهِر المزيد من العلامات">
 
+
+
+
+
 <!ENTITY backCmd.label                "السابق">
 <!ENTITY backButton.tooltip           "عُد للخلف صفحة واحدة">
 <!ENTITY forwardCmd.label             "التالي">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "العلامات الأخرى">
 <!ENTITY viewBookmarksSidebar2.label        "أظهِر شريط العلامات الجانبي">
 <!ENTITY viewBookmarksToolbar.label         "أظهِر شريط أدوات العلامات">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "م">
 <!ENTITY newUserContext.label             "لسان حاوٍ جديد">
 <!ENTITY newUserContext.accesskey         "ح">
-<!ENTITY userContextPersonal.label        "شخصي">
-<!ENTITY userContextPersonal.accesskey    "ش">
-<!ENTITY userContextWork.label            "عمل">
-<!ENTITY userContextWork.accesskey        "ع">
-<!ENTITY userContextBanking.label         "الصيرفة">
-<!ENTITY userContextBanking.accesskey     "ص">
-<!ENTITY userContextShopping.label        "تسوق">
-<!ENTITY userContextShopping.accesskey    "ت">
 <!ENTITY newNavigatorCmd.label        "نافذة جديدة">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ج">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "ك">
 <!ENTITY mediaUnmute.label           "أطلق الصوت">
 <!ENTITY mediaUnmute.accesskey       "ط">
-<!ENTITY mediaPlaybackRate.label     "سرعة التشغيل">
-<!ENTITY mediaPlaybackRate.accesskey "ت">
-<!ENTITY mediaPlaybackRate050x.label "حركة بطيئة (٠٫٥×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "ط">
-<!ENTITY mediaPlaybackRate100x.label "سرعة عادية">
-<!ENTITY mediaPlaybackRate100x.accesskey "د">
-<!ENTITY mediaPlaybackRate150x.label "حركة سريعة (١٫٥×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "ع">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "حركة سريعة جدا (٢×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "ج">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "اتصال آمن">
 <!ENTITY identity.connectionNotSecure "الاتصال غير آمن">
 <!ENTITY identity.connectionFile "هذه الصفحة مخزنة على حاسوبك.">
-<!ENTITY identity.connectionVerified1 "تتصل بأمان مع هذا الموقع، و الذي يديره:">
+
 <!ENTITY identity.connectionInternal "هذه صفحة &brandShortName; آمنة.">
 <!ENTITY identity.insecureLoginForms2 "معلومات الولوج التي تُدخلها في هذه الصفحة قد تكون مخترقة.">
 <!-- Strings for connection state warnings. -->
