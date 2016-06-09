@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "&brandShortName; eskirgan, ammo soʻnggi versiyasini tizimingizga oʻrnatib boʻlmaydi. Avval tizimingizni yangilab, soʻngra qaytadan urinib koʻring. Siz ushbu ogohlantirishni boshqa koʻrmaysiz, lekin koʻproq">
 <!ENTITY  unsupportedLink.label           "ma`lumot olishingiz mumkin.">
 
-<!ENTITY  incompatibleCheck.title         "Qoʻshimcha dastur mosligi tekshirilmoqda">
-<!ENTITY  incompatibleCheck.label         "Qoʻshimcha dasturlaringizning yangi versiyalari qidirlmoqda...">
-
 <!ENTITY  clickHere.label                 "Ushbu yangilanish haqida koʻproq ma`lumotni koʻrish">
 
 <!ENTITY  evangelism.desc                 "&brandShortName; uchun yangilanish mavjud boʻlishi bilanoq, tezda uni amalga oshirish tavsiya qilinadi.">
-
-<!ENTITY  license.instructions            "Agar ushbu bitim shartlariga rozi boʻlsangiz, ushbu yangilanishni oʻrnatishni davob ettirish uchun pastdagi Roziman tugmasini bosing.">
-
-<!ENTITY  license.titleText               "Dastur litsenziyasi bitimi">
-<!ENTITY  license.introText               "Ushbu dasturiy ta`minotdan foydalanish shartlari.">
-<!ENTITY  license.instructionText         "Iltimos, quyidagi litsenziya bitimini oʻqing. Bitimning qolganlarini koʻrish uchun siljitish panelidan foydalaning.">
-<!ENTITY  license.accept                  "Men litsenziya bitimi bishartlariga roziman">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Men litsenziya shartlariga rozi emasman">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Mos kelmaydigan qoʻshimcha dasturlar topildi">
 
 <!ENTITY  downloadPage.title              "&brandShortName; yuklab olinmoqda">
 <!ENTITY  downloading.intro               "Yangilanish yuklab olinmoqda...">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Yangilanish &brandShortName; keyingi safar ishga tushirilganda oʻrnatiladi. Siz&brandShortName;ni hozir yoki keyinroq qayta ishga tushirishingiz mumkin.">
 
-<!ENTITY  installed.title                 "Yangilanish oʻrnatildi">
-<!ENTITY  installed.intro                 "Yangilanish muvaffaqiyatli oʻrnatildi.">
-<!ENTITY  whatsnew.label                  "Yangi narsalar haqida koʻproq oʻqish">
 
 <!ENTITY  update.details.label            "Tafsilotlar">
 <!ENTITY  update.installedOn.label        "Oʻrnatilgan:">

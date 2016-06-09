@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Yuklanmoqda...">
-<!ENTITY listEmpty.installed.label            "Ushbu turdagi oʻrnatilgan birorta ham qoʻshimcha dasturingiz yoʻq">
+
 <!ENTITY listEmpty.availableUpdates.label     "Yangilanishlar topilmadi">
-<!ENTITY listEmpty.recentUpdates.label        "Yaqinda birorta ham qoʻshimcha dasturlarni yangilamagansiz">
+
 <!ENTITY listEmpty.findUpdates.label          "Yangilanishlar uchun tekshirish">
 <!ENTITY listEmpty.search.label               "Mos qoʻshimcha dasturlar topilmadi">
 <!ENTITY listEmpty.button.label               "Qoʻshimcha dasturlar haqida koʻproq oʻrganish">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Oʻchirish">
 <!ENTITY cmd.uninstallAddon.accesskey         "O">
 <!ENTITY cmd.showPreferencesWin.label         "Moslamalar">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Ushbu qoʻshimcha dastur moslamalarini oʻzgartirish">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Moslamalar">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Ushbu qoʻshimcha dastur moslamalarini oʻzgartirish">
+
 <!ENTITY cmd.contribute.label                 "Hissa qoʻshish">
 <!ENTITY cmd.contribute.accesskey             "H">
 <!ENTITY cmd.contribute.tooltip               "Ushbu qoʻshimcha dasturni rivojlantirishga hissa qoʻshish">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Qoʻshimcha dasturlar nima?">
 <!ENTITY discover.description2                "Qoʻshimcha dasturlar &brandShortName;ni keng imkoniyatlaridan foydalanib, moslash imkonini beradi. &brandShortName;ni didingiz boʻyicha moslash uchun vaqtni tejash yon paneli, ob-havo ma`lumoti yoki mavzulardan foydalaning.">
-<!ENTITY discover.footer                      "Siz internetga ulanganingizda, ushbu panel ba`zi mashhur va eng zoʻz qoʻshimcha dasturlarni sinab koʻrishni takli qiladi.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Versiyasi">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Avtomatik yangilanishlar">
 <!ENTITY detail.updateDefault.label           "Standart">
-<!ENTITY detail.updateDefault.tooltip         "Agar faqat ular standart boʻlsa avtomatik yangilanishlar oʻrnatilsin">
+
 <!ENTITY detail.updateAutomatic.label         "Yoqilgan">
 <!ENTITY detail.updateAutomatic.tooltip       "Yangilanishlarni avtomatik oʻrnatish">
 <!ENTITY detail.updateManual.label            "Oʻchirilgan">
-<!ENTITY detail.updateManual.tooltip          "Yangilanishlar avtomatik oʻrnatilmasin">
+
 <!ENTITY detail.home                          "Uy sahifasi">
 <!ENTITY detail.repository                    "Qoʻshimcha dastur profili">
 <!ENTITY detail.size                          "Hajmi">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Ushbu qoʻshimcha dastur uchun yangilanishlarni tekshirish">
 <!ENTITY detail.showPreferencesWin.label      "Moslamalar">
 <!ENTITY detail.showPreferencesWin.accesskey  "M">
-<!ENTITY detail.showPreferencesWin.tooltip    "Ushbu qoʻshimcha dastur moslamalarini oʻzgartirish">
+
 <!ENTITY detail.showPreferencesUnix.label     "Moslamalar">
 <!ENTITY detail.showPreferencesUnix.accesskey "M">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Ushbu qoʻshimcha dastur moslamalarini oʻzgartirish">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Bu nima? Telemetriya vaqtdan vaqtga holatidan tajribalarni ishga tushirishi va o‘rnatishi mumkin.">
 <!ENTITY experiment.info.learnmore "Koʻproq oʻrganish">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Telemetriya sozlamalari">

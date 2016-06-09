@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; parametrlarini ochish">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label;ga qayta ulanish">
 <!ENTITY fxaUnverified.label "Hisobingizni tasdiqlang">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; yoqib qo‘yildi">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; sinxronlashni hoziroq boshlaydi.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Yig‘ish">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Boshqa xatcho‘plar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Ko‘proq xatcho‘plarni ko‘rsatish">
 
+
+
+
+
 <!ENTITY backCmd.label                "Orqaga">
 <!ENTITY backButton.tooltip           "Bir sahifa orqaga qaytish">
 <!ENTITY forwardCmd.label             "Oldinga">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Boshqa xatcho‘plar">
 <!ENTITY viewBookmarksSidebar2.label        "Xatcho‘plarni yon panelda ko‘rsatish">
 <!ENTITY viewBookmarksToolbar.label         "Xatcho‘plar panelini ko‘rsatish">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Yangi Konteyner ichki oynasi">
 <!ENTITY newUserContext.accesskey         "K">
-<!ENTITY userContextPersonal.label        "Shaxsiy">
-<!ENTITY userContextPersonal.accesskey    "S">
-<!ENTITY userContextWork.label            "Ish">
-<!ENTITY userContextWork.accesskey        "I">
-<!ENTITY userContextBanking.label         "Bank ishi">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Xaridlar">
-<!ENTITY userContextShopping.accesskey    "X">
 <!ENTITY newNavigatorCmd.label        "Yangi oyna">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "o">
 <!ENTITY mediaUnmute.label           "Tovushni yoqish">
 <!ENTITY mediaUnmute.accesskey       "y">
-<!ENTITY mediaPlaybackRate.label     "Ijro etish tezligi">
-<!ENTITY mediaPlaybackRate.accesskey "I">
-<!ENTITY mediaPlaybackRate050x.label "Sekin harakat (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "O‘rtacha tezlik">
-<!ENTITY mediaPlaybackRate100x.accesskey "O">
-<!ENTITY mediaPlaybackRate150x.label "Yuqori tezlik (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "Y">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Kulguli tezlik (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "K">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Xavfsiz ulanish">
 <!ENTITY identity.connectionNotSecure "Ulanish – xavfsiz emas">
 <!ENTITY identity.connectionFile "Bu sahifa kompyuteringizda saqlangan.">
-<!ENTITY identity.connectionVerified1 "Quyidagi yordamida ishlaydigan ushbu saytga xavfli ulandingiz:">
+
 <!ENTITY identity.connectionInternal "Bu xavfsiz &brandShortName; sahifasi.">
 <!ENTITY identity.insecureLoginForms2 "Bu sahifaga kiritilgan taxalluslar yomon oqibatlarga olib kelishi mumkin.">
 <!-- Strings for connection state warnings. -->

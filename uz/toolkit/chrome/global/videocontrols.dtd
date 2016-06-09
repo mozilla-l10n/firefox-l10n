@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Video yuklash toʻxtatdi">
 <!ENTITY error.network "Video ijro etish tarmoq xatosi tufayli bekor qilingan">
-<!ENTITY error.decode "Videoni koʻrsatib boʻlmaydi, chunki fayl buzilgan.">
+
 <!ENTITY error.srcNotSupported "Video format yoki MIME turi mos kelmaydi.">
 <!ENTITY error.noSource2 "Mos video format va MIME turi topilmadi. ">
 <!ENTITY error.generic "Videoni koʻrsatish noma`lum sabablarga koʻra bekor qilindi. ">

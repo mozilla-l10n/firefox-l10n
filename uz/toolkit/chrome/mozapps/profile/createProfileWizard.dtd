@@ -7,7 +7,7 @@
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; barcha moslamalar va parametrlar ma`lumotlarini shaxsiy profilingizga saqlaydi.">
-<!ENTITY profileCreationExplanation_2.text  "Agar siz &brandShortName; nusxasini boshqa foydalanuvchilar bilan boʻlishsangiz, har bir foydalanuvchining ma`lumotlarini alohida saqlashingiz mumkin. Bu bilan har bir foydalanuvchi oʻzining shaxsiy profilini yaratishi mumkin.">
+
 <!ENTITY profileCreationExplanation_3.text  "Agar siz &brandShortName; nusxasidan foydalanayotgan yagona shaxs boʻsangiz, bitta profilingiz boʻlishi kerak. Agar bir nechta profil yaratmoqchi boʻlsangiz, parametrlar va moslamalarga oʻzgartirish kiritishingiz kerak. Masalan, profillaringizni ish va shaxsiy foydalanish uchun ajratishingiz mumkin.">
 <!ENTITY profileCreationExplanation_4.text  "Profilingizni yaratishni boshlashni xohlasangiz, &quot;Keyingi&quot;ni bosing.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Profilingizni yaratishni boshlashni xohlasangiz, &quot;Davom etish&quot;ni bosing.">

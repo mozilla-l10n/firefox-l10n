@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Mos qoʻshimcha dasturlar topildi">
 <!ENTITY  found.top.label                 "Oʻrnatmoqchi boʻlgan qoʻshimcha dasturingizni tanlang:">
-<!ENTITY  found.disabledXPinstall.label   "Ushbu yangilanishlarni oʻrnatib boʻlmaydi, chunki dastur oʻrnatish hozirda oʻchirib qoʻyilgan. Quyidagi moslamalardan uni oʻzgartirishingiz mumkin.">
+
 <!ENTITY  found.enableXPInstall.label     "Veb saytlarga dastur oʻrnatishga ruxsat berish">
 <!ENTITY  found.enableXPInstall.accesskey "r">
 

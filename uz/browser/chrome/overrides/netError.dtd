@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Kontent xavfsizlik nazorati tomonidan bloklangan">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ushbu sahifani bu yo‘lda yuklashga to‘sqinlik qildi, chunki sahifadagi xavfsizlik siyosati bunga ruxsat bermadi.</p>">
 
-<!ENTITY corruptedContentError.title "Buzilgan kontent xatosi">
-<!ENTITY corruptedContentError.longDesc "<p>Siz ko‘rmoqchi bo‘lgan sahifani ko‘rsatib bo‘lmaydi, chunki ma’lumotlarni uzatishda xato aniqlandi.</p><ul><li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bog‘laning.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Buzilgan kontent xatosi">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Siz ko‘rmoqchi bo‘lgan sahifani ko‘rsatib bo‘lmaydi, chunki ma’lumotlarni uzatishda xato aniqlandi.</p><ul><li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bog‘laning.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Istisno qo‘shish">
@@ -98,9 +98,13 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Qo‘shimcha">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> eskirgan, hujumga qarshi zaif xavfsizlik texnologiyasidan foydalanadi. Siz xavfsiz deb o‘ylagan ma’lumotni hujumchi osongina oshkor qilishi mumkin.">
 <!ENTITY weakCryptoAdvanced.override "(Xavfsiz emas) Eskirgan xavfsizlik texnologiyali <span class='hostname'></span> sahifasini yuklab ko‘rish">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Yangilanishlar uchun hech qachon tekshirilmasin (tavsiya qilinmaydi: xavfsizlik xavf ostida qolishi mumkin)">
 <!ENTITY updateManual.accesskey          "h">
 
-<!ENTITY updateAutoAddonWarn.label       "Qoʻshimcha dasturlardan biri oʻchirilsa, meni ogohlantir">
-<!ENTITY updateAutoAddonWarn.accesskey   "o">
-
 <!ENTITY updateHistory.label             "Yangilash tarixini koʻrsatish">
 <!ENTITY updateHistory.accesskey         "n">
 
