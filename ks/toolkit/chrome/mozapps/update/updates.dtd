@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "تُہند &amp;برانڈ شاٹ ناو چُھ تأریخ نیبر، مگر تازْ ترین وْرجنس چُھ نْہتعاون تُہندس سِسٹمس پیٹھ۔ مہربأنی کْرتھ کْریو پنپن سسٹم اپگریڈ، پتْہ کْریو دوبار کوشش۔توہیہ وْچھیو نْہ یہ نوٹِس دوبار، مگر توہیہ ہیکیو">
 <!ENTITY  unsupportedLink.label           "مزید ہیچھیو">
 
-<!ENTITY  incompatibleCheck.title         "ایڈ ـ آن كمپیٹیبلٹی وچھیو ">
-<!ENTITY  incompatibleCheck.label         "نئو۪ی ایڈ آن كئ ورجن خٲطرئ وچھان">
-
 <!ENTITY  clickHere.label                 "یتھ اپڈیٹس متعلق وچھیو مزید مولومات">
 
 <!ENTITY  evangelism.desc                 "توہیہ چُھ تأکید کرنْہ یوان ذ، توہیہ کْریو لاگو یہاپڈیٹ برانڈ شاٹ ناوس؛ باپت تیوت جلدی یوت مُمکن چُھ۔ ">
-
-<!ENTITY  license.instructions            "اگر توہیہ مانان چھ ییمہ معایدْک شرط، کْلک کْریو بْہ چُھس مانانبونْہ کْن یہ ایپڈیٹ انسٹال کرُن جأری تھاونْہ باپت">
-
-<!ENTITY  license.titleText               "سافٹویر لایسنس مہایدئ">
-<!ENTITY  license.introText               "شرط یئ سافٹویر استیمال كرنئ خئطرئ">
-<!ENTITY  license.instructionText         "مہربأنی کْرتھ پْریو یہ لاسن معاہدْ۔ استعمال کْریو سِکرال بار ویو کرنْہ باپت باقی حصہ معاہدُک۔">
-<!ENTITY  license.accept                  "میئ چھئ منظور لایسنس مہایدئ">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "میئ چھئ نئ منظور  لایسنس مہایدئك شرط">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "رلنٲی ايڈ آںس آی اَتھ۪ی">
 
 <!ENTITY  downloadPage.title              "&brandShortName; ڈاون لوڈ كران">
 <!ENTITY  downloading.intro               "اپڈیٹ ڈاون لوڈ كران ...">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "یہ اپڈیٹ یِیہ انسٹال کرنْہ بْیِہ سات ییلہ &amp;برانڈ شاٹ ناو؛ شروع گژھ۔ توہیہہیکیو دوبار شروع کْرتھ &amp;برانڈ شاٹ ناو؛ وْنئ، یا تھأیو جأری کأم تْہ کْریو دوبار شروع پتْہ۔">
 
-<!ENTITY  installed.title                 "اپڈیٹ گئو انسٹال">
-<!ENTITY  installed.intro                 "اپڈیٹ گئو كامیئبی سان انسٹال">
-<!ENTITY  whatsnew.label                  "پریو مزید نئو كیا ہ چھُ ...">
 
 <!ENTITY  update.details.label            "تفصیلات">
 <!ENTITY  update.installedOn.label        "پیٹھ انسٹال كرمُت">

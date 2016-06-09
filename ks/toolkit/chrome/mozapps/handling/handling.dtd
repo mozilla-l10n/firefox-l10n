@@ -4,6 +4,7 @@
 
 <!ENTITY window.emWidth "۲۶em">
 <!ENTITY window.emHeight "۳۶em ">
-<!ENTITY ChooseApp.description "عمل ژٲریو">
+
 <!ENTITY ChooseApp.label "&amp; ژٲریو...">
 <!ENTITY ChooseApp.accessKey "C">
+

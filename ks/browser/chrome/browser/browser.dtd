@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignInError.label " سیٹ اَپ  كریو  &syncBrand.shortName.label;…">
 
-<!ENTITY syncStartPanel2.heading "سینک برانڈ۔شاٹ ناو۔ لیبل؛ چُھ اینیبْل کرنْہ آمُت&amp;">
-<!ENTITY syncStartPanel2.subTitle "برانڈ شاٹ ناو؛ کرِ شروع سینکینگ پْہرس باپت۔&amp;">
 
 
 <!ENTITY fullScreenMinimize.tooltip "كم كریو">
@@ -171,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "مزید نشان زد ہٲویو">
 
+
+
+
+
 <!ENTITY backCmd.label                "پَتھ">
 <!ENTITY backButton.tooltip           "اكھ صفحئ  گژھیو پتھ">
 <!ENTITY forwardCmd.label             "برونہہ پکنأیو ">
@@ -221,6 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewBookmarksSidebar2.label        "ویو کْریو بوک مارْک سایِڈ بار">
 <!ENTITY viewBookmarksToolbar.label         "نشان زَد ٹول بار ہٲویو">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -253,14 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "تئ فائل"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY newNavigatorCmd.label        "نئئ وِنڈو">
@@ -544,19 +539,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "آواز تھٲویو یلئ">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate.label     "سُپیڈ کْریو پْلے&amp;">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "سِلو موشن  (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "س">
-<!ENTITY mediaPlaybackRate100x.label "نارمل رفتار&amp;">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "ہاے رفتار  (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "ہ">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "لوڈیکرس رفتار (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "ل">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

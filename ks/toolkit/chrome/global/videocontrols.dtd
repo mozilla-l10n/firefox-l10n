@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "ویڈیو لوڈ كروٛن رۄكٲومُت">
 <!ENTITY error.network "ویڈیو پلے بیك مكلیمُت نیٹورك دِقت كئ وجئ سٲت">
-<!ENTITY error.decode "ویڈیو ہیكٲو نئ چلٲوِتھ كیازئ كئ فایل چھَ كورپٹ">
+
 <!ENTITY error.srcNotSupported "ویڈیو فارنیٹ یا MIME  قئسمس چھُ نئ تعاوُن">
 <!ENTITY error.noSource2 "كہین ویڈیو آو نئ اتھ۪ی یَتھ فارمیٹ تئ MIME قئسمَس تعاوُن آس۪ی">
 <!ENTITY error.generic "ویڈیو پلے بیك مكلٲو نا مولوم دقت كئ وجئ سٲت">

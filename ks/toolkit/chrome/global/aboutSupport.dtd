@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle " مولومات ہیوند مثلئ ہل كران">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "یتھ پیجس منز چھ تکنیکی انفارمیشن یوس ذن فأیدْ مند ہیکہ أسِتھ ییلہ توہیہ کوشش کْریو پرابلیم حل کرنْچ۔ اگر توہیہ جواب ژھانڈان چھیو عام سوالن &amp;برانڈ شاٹ ناوس؛ مُتلق، چک آوٹ کْریو <a id='supportLink'>امدأدی ویب سایِٹ</a>۔ ">
-
 <!ENTITY aboutSupport.crashes.title "كریش بیان">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -52,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "استیمال كرن وۄل ایجینٹ">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "میمری ہیوند  استیمال">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
@@ -81,6 +80,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "گریفیكس">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "جاوا سكریپٹ">
 <!ENTITY aboutSupport.jsIncrementalGC "انكریمینٹل جی سی">
 
@@ -100,6 +102,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "سیف موڈس کْریو کوشش">
 <!ENTITY aboutSupport.restartInSafeMode.label "&amp; تئ دوبارئ كریو شروع  ایڈ آن ڈیسیبْل کْرتھ ...">
+
+
+
 
 
 

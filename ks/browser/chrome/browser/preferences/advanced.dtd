@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "زہِن مئ وچھیو اپڈیٹس (چھُ نئ مشوَرئ یوان دِنئ، حفٲظتی خطراتاو كِن)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "می۪ی كریو آگاہ اگر یئ میٖن ایڈ آنس بند كر۪ی">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "اپڈیٹ تٲریخ ہٲویو">
 <!ENTITY updateHistory.accesskey         "p">
 

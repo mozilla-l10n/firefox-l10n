@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "مشمولات حفٲظتی پالسی كرمُت بند">
 <!ENTITY cspBlocked.longDesc "<p>برانڈ شاٹ ناو؛ ان رُکوو یہ پیج لوڈینگ نِش یتھ طریقس منز کیازِ کہ پیجس چھ اکھ کنٹینٹ حفاظتی پالیسی یوس نْہ اتھ اجازت دِوان چِھ۔&amp;</p>">
 
-<!ENTITY corruptedContentError.title "مشمولات چھَ كورپٹڈ ">
-<!ENTITY corruptedContentError.longDesc "<p> یہ پیج یوس توہیہ ویو کرنْچ کوشش کران چھیو  ہیکو نْہ ہأوِتھ کیازِ کِہ ڈاٹا ٹرانسمیشنس منز آو اکھ ایرر۔</p><ul><li>مہربأنی کْرتھ کْریو کنٹیکٹْہ ویب سایِٹ مألک تِمن انفارم کرنْہ باپت یہ پرابلیم۔</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "مشمولات چھَ كورپٹڈ ">
+<!ENTITY corruptedContentErrorv2.longDesc "<p> یہ پیج یوس توہیہ ویو کرنْچ کوشش کران چھیو  ہیکو نْہ ہأوِتھ کیازِ کِہ ڈاٹا ٹرانسمیشنس منز آو اکھ ایرر۔</p><ul><li>مہربأنی کْرتھ کْریو کنٹیکٹْہ ویب سایِٹ مألک تِمن انفارم کرنْہ باپت یہ پرابلیم۔</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "غٲر مومول جوڈیو...">
@@ -95,9 +95,13 @@ was trying to connect. -->
 
 
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
