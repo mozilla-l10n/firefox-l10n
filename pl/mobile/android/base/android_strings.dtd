@@ -424,9 +424,12 @@
 <!ENTITY home_clear_history_confirm "Czy na pewno wyczyścić historię przeglądania?">
 <!ENTITY home_bookmarks_empty "Tutaj pojawiają się zachowane zakładki.">
 <!ENTITY home_closed_tabs_title "Niedawno zamknięte karty">
+<!ENTITY home_closed_tabs_title2 "Ostatnio zamknięte">
 <!ENTITY home_last_tabs_title "Karty z ostatniej sesji">
 <!ENTITY home_last_tabs_empty "Tutaj pojawiają się ostatnio otwarte karty.">
 <!ENTITY home_open_all "Otwórz wszystkie">
+<!ENTITY home_closed_tabs_number "Karty: &formatD;">
+<!ENTITY home_closed_tabs_one "Karty: 1">
 <!ENTITY home_most_recent_empty "Tutaj pojawiają się ostatnio odwiedzone witryny.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: W &formatS1;nowej karcie prywatnej&formatS2; historia nie jest zachowywana.">
 
