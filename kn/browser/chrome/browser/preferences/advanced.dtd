@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಎಂದಿಗೂ ಪರಿಶೀಲಿಸಬೇಡ (ಸಲಹೆ ಮಾಡಲಾಗುವುದಿಲ್ಲ: ಸುರಕ್ಷತಾ ಅಪಾಯ)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "ನನ್ನ ಯಾವುದೆ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಇದು ಅಶಕ್ತಗೊಳಿಸಿದಲ್ಲಿ ನನ್ನನ್ನು ಎಚ್ಚರಿಸು">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "ಅಪ್ಡೇಟ್ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
 <!ENTITY updateHistory.accesskey         "p">
 
