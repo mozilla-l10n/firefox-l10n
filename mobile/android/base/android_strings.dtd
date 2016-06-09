@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Välkommen">
-<!ENTITY  onboard_start_message3 "Surfa med &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Gör den mobila webbupplevelsen verkligen din egen.">
 
 <!ENTITY firstrun_urlbar_message "Välkommen till &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Hitta saker snabbare med hjälpsamma sökförslags genvägar.">
@@ -20,20 +18,25 @@
 <!ENTITY firstrun_signin_message "Anslut och kom igång">
 <!ENTITY firstrun_signin_button "Logga in till Sync">
 <!ENTITY  onboard_start_button_browser "Börja surfa">
+
 <!ENTITY firstrun_button_next "Nästa">
 
-<!ENTITY  onboard_start_restricted1 "Håll dig trygg och kontrollen med denna förenklade version av &brandShortName;.">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
-<!ENTITY  reading_list_migration_title "Läslista ansluten">
-<!ENTITY  reading_list_migration_subtext "Din läslistas innehåll kommer nu att läggas till i dina bokmärken">
-<!ENTITY  reading_list_migration_goto_bookmarks "Gå till bokmärken">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Din bokmärkespanel är dold">
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
+<!ENTITY  onboard_start_restricted1 "Håll dig trygg och kontrollen med denna förenklade version av &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Bokmärken">
 <!ENTITY  history_title "Historik">
-<!ENTITY  reading_list_title "Läslista">
 <!ENTITY  recent_tabs_title "Senaste flikarna">
 
 <!ENTITY  switch_to_tab "Byt till flik">
@@ -68,7 +71,10 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Skärmdump">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "Läslista">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
 
 <!ENTITY reader_saved_offline "Sparad offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +180,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "TIPS: Lägg till en webbplats till din lista på söktjänster genom att långtrycka på dess sökfält och trycka på &formatI; ikonen.">
 <!ENTITY pref_category_advanced "Avancerat">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Återställ flikar, insticksmoduler, utvecklarverktyg">
 <!ENTITY pref_category_notifications "Notifieringar">
 <!ENTITY pref_category_notifications_summary "Nya funktioner, webbplatsuppdateringar">
@@ -224,6 +233,9 @@
 <!ENTITY pref_cookies_accept_all "Aktiverad">
 <!ENTITY pref_cookies_not_accept_foreign "Aktiverade, utom för tredje part">
 <!ENTITY pref_cookies_disabled "Inaktiverade">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_data_saver "Data sparare">
 <!ENTITY pref_category_media "Media">
@@ -255,7 +267,7 @@
 <!ENTITY tracking_protection_prompt_action_button "Jag fattar!">
 
 <!ENTITY tab_queue_toast_message3 "Flik sparad i &brandShortName;">
-<!ENTITY tab_queue_toast_action "Öppna nu ">
+<!ENTITY tab_queue_toast_action "Öppna nu">
 <!ENTITY tab_queue_prompt_title "Öppnar flera länkar?">
 <!ENTITY tab_queue_prompt_text4 "Spara dom tills nästa gång du öppnar &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Du kan ändra detta senare i inställningarna">
@@ -263,7 +275,7 @@
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "Aktivera tillståndet för ritning över andra appar">
 <!ENTITY tab_queue_prompt_positive_action_button "Aktivera">
-<!ENTITY tab_queue_prompt_negative_action_button "Inte nu ">
+<!ENTITY tab_queue_prompt_negative_action_button "Inte nu">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Gå till Inställningar">
@@ -287,7 +299,10 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; webbsidor uppdaterade">
-<!ENTITY content_notification_action_settings "Notifieringsinställning">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -341,19 +356,19 @@ size. -->
 <!ENTITY pref_sync2 "Logga in">
 <!ENTITY pref_sync_summary2 "Synka dina flikar, bokmärken, inloggningar, historik ">
 <!ENTITY pref_search_suggestions "Visa sökförslag">
-<!ENTITY pref_history_search_suggestions "Visa Sökhistorik">
+<!ENTITY pref_history_search_suggestions "Visa sökhistorik">
 <!ENTITY pref_import_options "Importeringsalternativ">
 <!ENTITY pref_import_android_summary "Importera bokmärken och historia från Androids standardwebbläsare">
 <!ENTITY pref_private_data_history2 "Bläddra i historiken">
 <!ENTITY pref_private_data_searchHistory "Sökhistorik">
-<!ENTITY pref_private_data_formdata2 "Formulär historia ">
+<!ENTITY pref_private_data_formdata2 "Formulärhistorik">
 <!ENTITY pref_private_data_cookies2 "Kakor och aktiva inloggningar">
-<!ENTITY pref_private_data_passwords2 "Sparade Inloggningar ">
+<!ENTITY pref_private_data_passwords2 "Sparade inloggningar">
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Nedkopplad webbplatsdata">
 <!ENTITY pref_private_data_siteSettings2 "Platsinställningar">
 <!ENTITY pref_private_data_downloadFiles2 "Hämtningar">
-<!ENTITY pref_private_data_syncedTabs "Synkade flikar ">
+<!ENTITY pref_private_data_syncedTabs "Synkade flikar">
 
 <!ENTITY pref_default_browser "Gör till standardwebbläsare">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
@@ -421,12 +436,12 @@ size. -->
 <!ENTITY share_image_failed "Kan inte dela bilden">
 <!ENTITY save_as_pdf "Spara som PDF">
 <!ENTITY print "Skriv ut">
-<!ENTITY find_in_page "Sök på sidan">
-<!ENTITY desktop_mode "Begär datorwebbplats">
+
+
 <!ENTITY page "Sida">
 <!ENTITY tools "Verktyg">
-<!ENTITY new_tab "Ny flik">
-<!ENTITY new_private_tab "Ny privat flik">
+
+
 <!ENTITY close_all_tabs "Stäng alla flikar">
 <!ENTITY close_private_tabs "Stäng privata flikar">
 <!ENTITY tabs_normal "Flikar">
@@ -436,8 +451,6 @@ size. -->
 <!ENTITY set_image_chooser_title "Använd bild som">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Sök på denna sidan">
 <!ENTITY find_prev "Föregående">
 <!ENTITY find_next "Nästa">
 <!ENTITY find_close "Stäng">
@@ -538,6 +551,7 @@ size. -->
 <!ENTITY home_history_title "Historik">
 <!ENTITY home_synced_devices_smartfolder "Synkade enheter">
 <!ENTITY home_synced_devices_number "&formatD; enheter">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_history_back_to2 "Tillbaka till fullständig Historik">
 <!ENTITY home_clear_history_button "Töm bläddringshistorik">
 <!ENTITY home_clear_history_confirm "Är du säker på att du vill rensa historiken?">
@@ -776,4 +790,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Läs offline">
 <!ENTITY helper_first_offline_bookmark_message "Hitta innehållet i din läsvy i bokmärken, även offline.">
-<!ENTITY helper_first_offline_bookmark_button "Gå till bokmärken">
+
+
+
+
+
