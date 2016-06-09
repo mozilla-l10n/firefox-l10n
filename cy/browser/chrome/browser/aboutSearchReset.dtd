@@ -6,6 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "Adfer eich gosodiadau chwilio?">
 
+<!ENTITY searchreset.pageInfo1      "Efallai bod eich gosodiadau chwilio'n hen. Gall &brandShortName; eich cynorthwyo i adfer y gosodiadau rhagosodedig.">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
