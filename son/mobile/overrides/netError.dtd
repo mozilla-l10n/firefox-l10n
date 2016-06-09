@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "Gagayandi gundekuna saajaw alhukum bande">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ganji moɲoo woo ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukumoo ši yadda a ga.</p>">
 
-<!ENTITY corruptedContentError.title "Gundekuna laybante firka">
-<!ENTITY corruptedContentError.longDesc "<p>Moɲoo kaŋ war ga wiri ka dii ya ši hin ka cebandi zama firka maatandi bayhayey toonandiyanoo waate.</p><ul><li>Taare wa šendaa woo alhabar tee war maykey koyey se.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Gundekuna laybante firka">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Moɲoo kaŋ war ga wiri ka dii ya ši hin ka cebandi zama firka maatandi bayhayey toonandiyanoo waate.</p><ul><li>Taare wa šendaa woo alhabar tee war maykey koyey se.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Wala war ga hin ka hasaraw foo tonton…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ay kaataray ne!">
