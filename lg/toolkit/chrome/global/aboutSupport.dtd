@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Ebikwata ku kugonjoola obuzibu">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Omuko gunno gulina ebiwandiko ebyo'omugaso byo yinza okwetaga bwoba ogezako okujjawo obuzibu obuguddwo. Bwoba ononoonya ebyokudamu eri emitaawana ejjabulijo ku &brandShortName;, keberako ku <a id='supportLink'>muko ogwo'obuyambi</a>.">
-
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Alipoota ya ID">
@@ -48,6 +46,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Akayamba Omukozesa">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "Enkozesa Memory">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
@@ -74,6 +73,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Ebifananyi">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC Ekula">
 
@@ -84,6 +86,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Enkola eyomu Terekero">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Ebifudeyo mu Kutekamu">
+
+
+
 
 
 

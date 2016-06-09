@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Kiziyiziddwa Eteka Elifuga  Ebyokwerinda Ebyomunda">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; eziyiza omuko guno okutika mungeri eno kubanga omuko guno gulina amateka agafuga ebyokwerinda byomunda elitagikiriza.</p>">
 
-<!ENTITY corruptedContentError.title "Ensobi Mubyomunda Ebicupudwa">
-<!ENTITY corruptedContentError.longDesc "<p>Omuko gw'ogezaako okulaba tegusobola kulagibwa kubanga gukozesa ennyiga yo lugo etewagiddwa oba tekkirizidwa.</p><ul><li>Bambi tegeeza bannannyini mukutu gw'ekyapa obabuulire obuzibu buno.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Ensobi Mubyomunda Ebicupudwa">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Omuko gw'ogezaako okulaba tegusobola kulagibwa kubanga gukozesa ennyiga yo lugo etewagiddwa oba tekkirizidwa.</p><ul><li>Bambi tegeeza bannannyini mukutu gw'ekyapa obabuulire obuzibu buno.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Gatako ebyensuso…">
@@ -94,9 +94,13 @@ was trying to connect. -->
 
 
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

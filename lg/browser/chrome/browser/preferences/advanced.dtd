@@ -79,9 +79,6 @@
 <!ENTITY updateManual.label              "Tokeberanga bituusa (tekiwagiddwa: obunkenke mu byokwerinda)">
 <!ENTITY updateManual.accesskey          "T">
 
-<!ENTITY updateAutoAddonWarn.label       "Ndabula nga kino kiza salawo ku bigattwamu byage">
-<!ENTITY updateAutoAddonWarn.accesskey   "N">
-
 <!ENTITY updateHistory.label             "Laga Ebyafaayo Ebilongosirwamu">
 <!ENTITY updateHistory.accesskey         "b">
 

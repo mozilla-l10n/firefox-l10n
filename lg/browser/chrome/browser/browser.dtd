@@ -105,8 +105,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
 <!ENTITY fullScreenMinimize.tooltip "Funza">
 <!ENTITY fullScreenRestore.tooltip "Zzawo">
 
@@ -162,6 +160,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Laga obulambe obulala">
 
+
+
+
+
 <!ENTITY backButton.tooltip           "Ddayo emabega omuko gumu">
 
 <!ENTITY forwardButton.tooltip        "Genda mu maaso omuko gumu">
@@ -209,6 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksToolbar.label         "Labba  Akabawo  kebikola Akobulambe">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -240,14 +243,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fayiro"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY newNavigatorCmd.label        "Eddirisa Epya">
@@ -530,9 +525,13 @@ items are mutually exclusive. -->
 
 
 
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+
+
 
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu

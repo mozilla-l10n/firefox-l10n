@@ -7,7 +7,7 @@
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; etereka ebikwata ku ntegeka yo, ebyokweroboza, obulambe na'mabaluwa mu pulofailo yo.">
-<!ENTITY profileCreationExplanation_2.text  "Bwoba ogabana kopi eza &brandShortName; nabakozesa abalala, oyinza okozesa pulofailo okwawula ebiwandiiko bya buli mukozesa. Okukola kino, buli mukozesa alina okukola pulofailo eyiye.">
+
 <!ENTITY profileCreationExplanation_3.text  "Bwoba ng'okozesa &brandShortName; wekka, otondawo pulofailo wakiri emu. Oyinza okukola ezisingawo okutereza entereeza eziwera. Okyokulabirako oyinza okwagala pulofailo eyiyo okwawukana ku ya bizinensi yo.">
 <!ENTITY profileCreationExplanation_4.text  "Okutondawo pulofailo kakati, koona ku ekidirira.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Okutondawo pulofailo kakati, koona ku ekidirira.">

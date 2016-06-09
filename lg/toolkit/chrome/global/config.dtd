@@ -8,7 +8,7 @@
 
 <!ENTITY aboutWarningTitle.label "Kino kiyiza kuyitaku matekago!">
 <!ENTITY aboutWarningText.label "Okukyusa enteegeka ezekika ekya wagulu kiyinza okuvamu akabbi ku butebenkevu, ebyokwerinda, ne'nkola ya pulogulamu eno. Weyongerayo bwoba wekakasa kyokola.">
-<!ENTITY aboutWarningButton.label "Jjakuba wegendereze, nkusubiza!">
+
 <!ENTITY aboutWarningCheckbox.label "Langa akalabula kano edda">
 
 <!ENTITY searchPrefs.label "Noonya:">

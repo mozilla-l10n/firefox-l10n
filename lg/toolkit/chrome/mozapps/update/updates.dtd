@@ -22,24 +22,9 @@
 
 
 
-<!ENTITY  incompatibleCheck.title         "Kebera enkwanagana y'ebyokozesa">
-<!ENTITY  incompatibleCheck.label         "Okunoonya ebika biggya ebyokwongerwako…">
-
 <!ENTITY  clickHere.label                 "Laba ebisingawo ku by'okuzza obugya bino">
 
 <!ENTITY  evangelism.desc                 "Kisembebwa nyo n'amaanyi nti otekemu ekituusa kino ekya  &brandShortName; mu bwangu ddala.">
-
-<!ENTITY  license.instructions            "Bw'oba okiriza obukwakulizo bw'endagano eno, koona Nzikiriza wansi okwongera okuteekako ekizza obugya kino.">
-
-<!ENTITY  license.titleText               "Endagano Y'ekisanyiizo ku Kidukanya kompyuta">
-<!ENTITY  license.introText               "Obukwakulizo n'enkola ebyokozesa ekidukanya kompyuta kino.">
-<!ENTITY  license.instructionText         "Bambi ssoma ku ndagano ya lisensi eno. Kozesa akatambuza wansi olabe ebirala kundagano.">
-<!ENTITY  license.accept                  "Nzikiriza obukwakulizzo by'endagano ku lisensi">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Kiriziganya ne NOT n`abukwakkulizo bw`Endagaano y`Ekisanyizo">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Teri byongeddwako bwe bikolagana bizuulidddwa">
 
 <!ENTITY  downloadPage.title              "Okutikula &brandShortName;">
 <!ENTITY  downloading.intro               "Okutikula akatereeza…">
@@ -70,9 +55,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Enkyuukakyuuka eggya kuteekebwako omulundi omulala nga &brandShortName; atandika. Osobola  okuddamu okutandisa &brandShortName; kati, oba genda maaso ne byokola ogitandise oluvannyuma.">
 
-<!ENTITY  installed.title                 "Akatuukaganya Katekeddwamu">
-<!ENTITY  installed.intro                 "Akatuukaganya katekeddwamu buluungi.">
-<!ENTITY  whatsnew.label                  "Ssoma ko ku ebilala ebipya…">
 
 <!ENTITY  update.details.label            "Mubujjuvu">
 <!ENTITY  update.installedOn.label        "Kitekeddwaku:">
