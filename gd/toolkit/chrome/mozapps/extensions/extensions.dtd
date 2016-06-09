@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "A' luchdadh…">
-<!ENTITY listEmpty.installed.label            "Chan eil tuilleadan dhen t-seòrsa seo air a stàladh agad">
+
 <!ENTITY listEmpty.availableUpdates.label     "Cha deach ùrachadh a lorg">
-<!ENTITY listEmpty.recentUpdates.label        "Cha do dh'ùraich thu tuilleadan sam bith o chionn ghoirid">
+
 <!ENTITY listEmpty.findUpdates.label          "Lorg ùrachaidhean">
 <!ENTITY listEmpty.search.label               "Cha deach tuilleadan freagarrach a lorg">
 <!ENTITY listEmpty.button.label               "Faigh barrachd fiosrachaidh mu thuilleadain">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Thoir air falbh">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Roghainnean">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Atharraich roghainnean an tuilleadain seo">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Roghainnean">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Atharraich roghainnean an tuilleadain seo">
+
 <!ENTITY cmd.contribute.label                 "Gabh pàirt ann">
 <!ENTITY cmd.contribute.accesskey             "G">
 <!ENTITY cmd.contribute.tooltip               "Gabh pàirt ann an leasachadh an tuilleadain seo">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Dè th' ann an tuilleadan?">
 <!ENTITY discover.description2                "'S e aplacaid a tha ann an tuilleadan leis an urrainn dhut feartan no stoidhle a bharrachd a chur ri &brandShortName;. Feuch ri bàr-taoibhe a shàbhaileas ùine, aithrisiche na h-aimsire no ùrlar gus do dhreach fhèin a chur air &brandShortName;.">
-<!ENTITY discover.footer                      "Nochdaidh cuid dhe na tuilleadan as fhearr 's air a bheil an fhèill as motha an-seo nuair a bhios tu co-cheangailte ris an lìon gun urrainn dhut feuchainn riutha.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Tionndadh">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Ùrachaidhean fèin-obrachail">
 <!ENTITY detail.updateDefault.label           "Bunaiteach">
-<!ENTITY detail.updateDefault.tooltip         "Na stàlaich ùrachaidhean gu fèin-obrachail ach mas e sin an roghainn bhunaiteach">
+
 <!ENTITY detail.updateAutomatic.label         "Air">
 <!ENTITY detail.updateAutomatic.tooltip       "Stàlaich ùrachaidhean gu fèin-obrachail">
 <!ENTITY detail.updateManual.label            "Dheth">
-<!ENTITY detail.updateManual.tooltip          "Na stàlaich ùrachaidhean gu fèin-obrachail">
+
 <!ENTITY detail.home                          "Duilleag-dhachaigh">
 <!ENTITY detail.repository                    "Pròifil an tuilleadain">
 <!ENTITY detail.size                          "Meud">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Lorg ùrachaidhean airson an tuilleadain seo">
 <!ENTITY detail.showPreferencesWin.label      "Roghainnean">
 <!ENTITY detail.showPreferencesWin.accesskey  "o">
-<!ENTITY detail.showPreferencesWin.tooltip    "Atharraich roghainnean an tuilleadain seo">
+
 <!ENTITY detail.showPreferencesUnix.label     "Roghainnean">
 <!ENTITY detail.showPreferencesUnix.accesskey "R">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Atharraich roghainnean an tuilleadain seo">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Dè tha seo? Faodaidh gun stàlaich 's gun ruith telemeatraidh deuchainnean o àm gu àm.">
 <!ENTITY experiment.info.learnmore "Barrachd fiosrachaidh">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Roghainnean an telemeatraidh">

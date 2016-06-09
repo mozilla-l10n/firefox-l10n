@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Sguireadh de luchdadh a' video.">
 <!ENTITY error.network "Sguireadh cluich a' video air sgàth mearachd lìonraidh.">
-<!ENTITY error.decode "Cha ghabh a' video a chluich a chionn 's gu bheil am faidhle coirbte.">
+
 <!ENTITY error.srcNotSupported "Chan eil taic ann ri fòrmat a' video no an seòrsa MIME.">
 <!ENTITY error.noSource2 "Cha deach video a lorg aig a bheil fòrmat no seòrsa MIME a tha taic ris.">
 <!ENTITY error.generic "Sguireadh de chluich a' video air sgàth mearachd neo-aithnichte.">

@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Na thoir sùil airson ùrachaidhean idir (cha mholamaid seo oir adhbharaichidh seo cunnartan tèarainteachd)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Thoir rabhadh dhomh ma bhios gin dhe na tuilleadan agam à comas 'na chois">
-<!ENTITY updateAutoAddonWarn.accesskey   "T">
-
 <!ENTITY updateHistory.label             "Seall eachdraidh nan ùrachaidhean">
 <!ENTITY updateHistory.accesskey         "h">
 

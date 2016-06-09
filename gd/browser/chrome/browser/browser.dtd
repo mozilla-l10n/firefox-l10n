@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Fosgail roghainnean &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Ath-cheangail ris &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Dearbh an cunntas agad">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; an comas">
-<!ENTITY syncStartPanel2.subTitle "Tòisichidh &brandShortName; air an t-sioncronachadh sa bhad.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Lughdaich">
@@ -171,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Comharran-lìn a rinn thu o chionn goirid">
 <!ENTITY otherBookmarksCmd.label "Comharran-lìn eile">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharran-lìn">
+<!ENTITY showRecentlyBookmarked.label     "Seall na comharran-lìn a rinn thu o chionn goirid">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "Falaich na comharran-lìn a rinn thu o chionn goirid">
+<!ENTITY hideRecentlyBookmarked.accesskey "h">
 
 <!ENTITY backCmd.label                "Air ais">
 <!ENTITY backButton.tooltip           "Rach duilleag air ais">
@@ -227,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Comharran-lìn eile">
 <!ENTITY viewBookmarksSidebar2.label        "Seall bàr-taoibh nan comharra-lìn">
 <!ENTITY viewBookmarksToolbar.label         "Seall bàr nan comharra-lìn">
+
+<!ENTITY containersMenu.label "Soithichean">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +265,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Taba soithich ùr">
 <!ENTITY newUserContext.accesskey         "c">
-<!ENTITY userContextPersonal.label        "Pearsanta">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Obair">
-<!ENTITY userContextWork.accesskey        "O">
-<!ENTITY userContextBanking.label         "Bancaireachd">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Seopadaireachd">
-<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "Uinneag ùr">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -560,19 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Till an fhuaim">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate.label     "Astar na cluich">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Slaodach (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "Astar àbhaisteach">
-<!ENTITY mediaPlaybackRate100x.accesskey "A">
-<!ENTITY mediaPlaybackRate150x.label "Luath (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "h">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!ENTITY mediaPlaybackRate2.label     "Astar na cluich">
+<!ENTITY mediaPlaybackRate2.accesskey "l">
+<!ENTITY mediaPlaybackRate050x2.label "Slaodach (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "Àbhaisteach">
+<!ENTITY mediaPlaybackRate100x2.accesskey "b">
+<!ENTITY mediaPlaybackRate125x2.label "Luath (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "u">
+<!ENTITY mediaPlaybackRate150x2.label "Nas luaithe (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Air leth luath (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "l">
+<!ENTITY mediaPlaybackRate200x2.label "Air leth luath (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "l">
+<!ENTITY mediaLoop.label             "Lùb">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Ceangal tèarainte">
 <!ENTITY identity.connectionNotSecure "Chan eil an ceangal tèarainte">
 <!ENTITY identity.connectionFile "Tha an duilleag seo ’ga stòradh air a’ choimpiutair agad.">
-<!ENTITY identity.connectionVerified1 "Tha ceangal tèarainte agad ris an làrach seo a tha ’ga ruith le:">
+<!ENTITY identity.connectionVerified2 "Tha ceangal tèarainte agad ris an làrach seo a tha le:">
 <!ENTITY identity.connectionInternal "Seo duilleag &brandShortName; tèarainte.">
 <!ENTITY identity.insecureLoginForms2 "Dh’fhaoidte gu bheil cothrom air daoine air fiosrachadh clàraidh air an duilleag seo.">
 <!-- Strings for connection state warnings. -->

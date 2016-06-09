@@ -3,10 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Na tracaich">
-<!ENTITY window.width                 "45em">
-<!ENTITY window.height                "10em">
 
-<!ENTITY doNotTrackCheckbox.label     "Cleachd an gleus “Na tracaich”">
-<!ENTITY doNotTrackCheckbox.accesskey "u">
+
+
+
 
 <!ENTITY doNotTrackLearnMore.label    "Barrachd fiosrachaidh">
