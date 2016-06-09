@@ -46,6 +46,7 @@
 <!ENTITY helpus.getInvolvedLink     "ចូលរួម​ចំណែក!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "អ្វី​ដែល​ថ្មី">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "ព័ត៌មាន​អាជ្ញាប័ណ្ណ">
