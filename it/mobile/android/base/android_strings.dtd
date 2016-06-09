@@ -33,7 +33,6 @@
 <!ENTITY bookmarks_title "Segnalibri">
 <!ENTITY home_title "&brandShortName; Home">
 <!ENTITY history_title "Cronologia">
-<!ENTITY recent_tabs_title "Schede recenti">
 <!ENTITY switch_to_tab "Passa alla scheda">
 <!ENTITY crash_reporter_title "Crash Reporter &brandShortName;">
 <!ENTITY crash_message2 "&brandShortName; ha riscontrato un problema e si è bloccato. Le schede aperte dovrebbero essere visibili nella pagina iniziale di &brandShortName; dopo il riavvio.">
@@ -364,10 +363,11 @@
 <!ENTITY home_clear_history_button "Elimina cronologia">
 <!ENTITY home_clear_history_confirm "Eliminare la cronologia di navigazione?">
 <!ENTITY home_bookmarks_empty "In questa sezione verranno visualizzati i segnalibri salvati.">
-<!ENTITY home_closed_tabs_title "Schede chiuse di recente">
-<!ENTITY home_last_tabs_title "Schede dall’ultima esecuzione">
+<!ENTITY home_closed_tabs_title2 "Chiuse di recente">
 <!ENTITY home_last_tabs_empty "In questa sezione verranno visualizzate le schede recenti.">
-<!ENTITY home_open_all "Apri tutte">
+<!ENTITY home_restore_all "Ripristina tutte">
+<!ENTITY home_closed_tabs_number "&formatD; schede">
+<!ENTITY home_closed_tabs_one "1 scheda">
 <!ENTITY home_most_recent_empty "In questa sezione verranno visualizzati i siti web più recenti.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: utilizzando una &formatS1;Nuova scheda anonima&formatS2; non verrà salvata alcuna cronologia.">
 <!ENTITY home_default_empty "Nessun contenuto disponibile per questo pannello.">
