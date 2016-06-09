@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Rasta suderinamų priedų">
 <!ENTITY  found.top.label                 "Pažymėkite priedus, kuriuos norite įdiegti:">
-<!ENTITY  found.disabledXPinstall.label   "Naujinimų negalima įdiegti dėl to, kad išjungta naujinimo funkcija. Šią nuostatą galima pakeisti žemiau.">
+
 <!ENTITY  found.enableXPInstall.label     "Įjungti naujinimo funkciją">
 <!ENTITY  found.enableXPInstall.accesskey "n">
 

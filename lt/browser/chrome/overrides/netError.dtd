@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Užblokuota dėl saugumo politikos">
 <!ENTITY cspBlocked.longDesc "<p>„&brandShortName;“ neleido įkelti šio tinklalapio, nes jo saugumo politika neleidžia jo turinio įterpti nurodytuoju būdu.</p>">
 
-<!ENTITY corruptedContentError.title "Klaida: duomenys pažeisti">
-<!ENTITY corruptedContentError.longDesc "<p>Tinklalapio, kurį bandote atverti, parodyti negalima, nes, perduodant duomenis, įvyko klaida.</p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Klaida: duomenys pažeisti">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Tinklalapio, kurį bandote atverti, parodyti negalima, nes, perduodant duomenis, įvyko klaida.</p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Sukurti išimtį…">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Išsamiau">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> naudoja saugumo technologiją, kuri yra pasenusi ir pažeidžiama. Piktavalis galėtų lengvai perimti informaciją, kuri jūsų manymu buvo saugi.">
 <!ENTITY weakCryptoAdvanced.override "(Nesaugu) Bandyti įkelti <span class='hostname'></span> su pasenusia apsauga">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Nesaugus ryšys">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ši svetainė „HTTP Strict Transport Security“ (HSTS) pagalba nurodė, kad „&brandShortName;“ prie jos jungtųsi tik saugiu ryšiu. Dėl to šiam liudijimui negalima sukurti išimties.">
+
 <!ENTITY certerror.copyToClipboard.label "Kopijuoti tekstą į iškarpinę">
 
 <!ENTITY inadequateSecurityError.title "Jūsų ryšys nėra saugus">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> naudoja saugumo technologiją, kuri yra pasenusi ir pažeidžiama. Piktavalis lengvai galėtų pamatyti informaciją, kuri jums atrodė saugi. Kol svetainės administratorius jos nesutvarkys, negalėsite į šią svetainę užeiti.</p><p>Klaidos kodas: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+

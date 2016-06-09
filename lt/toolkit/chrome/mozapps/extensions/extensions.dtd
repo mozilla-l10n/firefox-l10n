@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Įkeliama…">
-<!ENTITY listEmpty.installed.label            "Nėra įdiegtų šio tipo priedų">
+
 <!ENTITY listEmpty.availableUpdates.label     "Naujinimų nerasta">
-<!ENTITY listEmpty.recentUpdates.label        "Pastaruoju metu nesate atnaujinę jokių priedų">
+
 <!ENTITY listEmpty.findUpdates.label          "Tikrinti, ar yra naujinimų">
 <!ENTITY listEmpty.search.label               "Paiešką atitinkančių priedų nerasta">
 <!ENTITY listEmpty.button.label               "Sužinokite apie priedus daugiau">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Pašalinti">
 <!ENTITY cmd.uninstallAddon.accesskey         "š">
 <!ENTITY cmd.showPreferencesWin.label         "Nuostatos">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Keisti šio priedo parinktis">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Nuostatos">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Keisti šio priedo nuostatas">
+
 <!ENTITY cmd.contribute.label                 "Paremti">
 <!ENTITY cmd.contribute.accesskey             "P">
 <!ENTITY cmd.contribute.tooltip               "Paremti šio priedo kūrimą">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Kas yra priedai?">
 <!ENTITY discover.description2                "Priedai – nedidelės programos, kurios leidžia pritaikyti „&brandShortName;“ savo poreikiams, suteikiant papildomų funkcijų ar pakeičiant išvaizdą. Individualizuokite „&brandShortName;“, išbandydami laiką taupantį parankinės modulį, orų pranešiklį ar jums patinkantį grafinį apvalkalą.">
-<!ENTITY discover.footer                      "Kai prisijungsite prie interneto, šioje srityje pamatysite keletą geriausių ir populiariausių priedų.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Laida">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Naujinti automatiškai">
 <!ENTITY detail.updateDefault.label           "Kaip numatyta">
-<!ENTITY detail.updateDefault.tooltip         "Automatiškai naujinti šį priedą, jeigu taip numatyta">
+
 <!ENTITY detail.updateAutomatic.label         "Taip">
 <!ENTITY detail.updateAutomatic.tooltip       "Automatiškai naujinti šį priedą, kai jam randama naujinimų">
 <!ENTITY detail.updateManual.label            "Ne">
-<!ENTITY detail.updateManual.tooltip          "Nediegti priedo naujinimų automatiškai">
+
 <!ENTITY detail.home                          "Svetainė">
 <!ENTITY detail.repository                    "Priedo profilis">
 <!ENTITY detail.size                          "Dydis">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Ieškoti šio priedo naujinimų">
 <!ENTITY detail.showPreferencesWin.label      "Nuostatos">
 <!ENTITY detail.showPreferencesWin.accesskey  "N">
-<!ENTITY detail.showPreferencesWin.tooltip    "Keisti šio priedo parinktis">
+
 <!ENTITY detail.showPreferencesUnix.label     "Nuostatos">
 <!ENTITY detail.showPreferencesUnix.accesskey "N">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Keisti šio priedo nuostatas">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Kas tai? Eksperimentai retkarčiais gali būti įdiegiami ir sužadinami telemetrijos būdu.">
 <!ENTITY experiment.info.learnmore "Sužinoti daugiau">
 <!ENTITY experiment.info.learnmore.accesskey "d">
 <!ENTITY experiment.info.changetelemetry "Telemetrijos nuostatos">
