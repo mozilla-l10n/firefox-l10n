@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "Ithintelwe nguMgaqonkqubo woKhuseleko lomXholo">
 <!ENTITY cspBlocked.longDesc "<p>i-&brandShortName; ithintele eli khasi ukuba lilayishe ngale ndlela kuba ikhasi linomgaqonkqubo wokhuseleko lomxholo elingakuvumeliyo.</p>">
 
-<!ENTITY corruptedContentError.title "Imposiso yomxholo owonakalisiweyo">
-<!ENTITY corruptedContentError.longDesc "<p>Ikhasi ozama ukulijonga alinakuboniswa kuba kubhaqwe imposiso ekuthunyelweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Imposiso yomxholo owonakalisiweyo">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ikhasi ozama ukulijonga alinakuboniswa kuba kubhaqwe imposiso ekuthunyelweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Okanye ungongeza ieksepshini…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ndikhuphe apha!">
