@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "Krymp till sidbredd">
 <!ENTITY customPrompt.title   "Egen skala…">
 
+
+
+
 <!ENTITY homearrow.tooltip    "Första sidan">
 <!ENTITY endarrow.tooltip     "Sista sidan">
 <!ENTITY nextarrow.tooltip    "Nästa sida">

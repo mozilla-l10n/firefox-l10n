@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Sök aldrig efter uppdateringar (rekommenderas inte: säkerhetsrisk)">
 <!ENTITY updateManual.accesskey          "ö">
 
-<!ENTITY updateAutoAddonWarn.label       "Varna om några tillägg kommer att inaktiveras">
-<!ENTITY updateAutoAddonWarn.accesskey   "V">
-
 <!ENTITY updateHistory.label             "Visa tidigare uppdateringar">
 <!ENTITY updateHistory.accesskey         "a">
 

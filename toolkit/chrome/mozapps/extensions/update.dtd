@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Tillgängliga uppdateringar hittades">
 <!ENTITY  found.top.label                 "Välj vilka tillägg som du vill installera:">
-<!ENTITY  found.disabledXPinstall.label   "Dessa uppdateringar kan inte installeras eftersom programinstallationer för närvarande är inaktiverade. Du kan ändra denna inställning nedan.">
+
 <!ENTITY  found.enableXPInstall.label     "Tillåt att webbplatser installerar programvara">
 <!ENTITY  found.enableXPInstall.accesskey "w">
 

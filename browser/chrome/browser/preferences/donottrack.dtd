@@ -3,10 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Spåra inte">
-<!ENTITY window.width                 "40em">
-<!ENTITY window.height                "8em">
 
-<!ENTITY doNotTrackCheckbox.label     "Använd Spåra inte">
-<!ENTITY doNotTrackCheckbox.accesskey "A">
+
+
+
 
 <!ENTITY doNotTrackLearnMore.label    "Läs mer">
