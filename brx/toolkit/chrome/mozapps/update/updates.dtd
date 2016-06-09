@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "नोंथांनि &brandShortName; आ गोजाम, नाथाय गोदानथार बिसानआ नोंथांनि सिस्टेमआवहेफाजाब होजायाखै। अननानै नोंथांनि सिस्टेमखौ आपग्रेड खालाम, बेनि उनाव फिन नाजा।नोंथाङा बे मिथिसारहोनायखौ नायफिननाय नङा, नाथाय नोंथाङा हायो">
 <!ENTITY  unsupportedLink.label           "गोबां सोलों">
 
-<!ENTITY  incompatibleCheck.title         "Add-on गोरोबथिगोनांखौ आनजाद खालाम गासिनो दं">
-<!ENTITY  incompatibleCheck.label         "नोंथांनि add-ons नि गोदानथार लिरस्लायनायखौ नागिर गासिनो दं...">
-
 <!ENTITY  clickHere.label                 "बे आपडेटनि सोमोन्दै गोबां मोनथिहोनायखौ नाय">
 
 <!ENTITY  evangelism.desc                 "बेखौ गोरायै थिननाय जायोदि नोंथाङा जेसे हागौ एसे गोख्रै&brandShortName; नि थाखाय बे आपडेटखौ बाहायो।">
-
-<!ENTITY  license.instructions            "नोंथाङा बे गोरोबथानि रादायखौ आजावनोब्ला, बे आपडेटखौइनष्टल खालामलांबाय थानो गाहायनि 'आं आजावो'-खौ क्लिक खालाम।">
-
-<!ENTITY  license.titleText               "सफ्टवेयार गनायथि गोरोबथा">
-<!ENTITY  license.introText               "बे सफ्टवेयारखौ बाहायनायनि रादाय आरो सर्तफोर।">
-<!ENTITY  license.instructionText         "गाहायनि लाइसेन्स गोरोबथाखौ फराय। बे गोरोबथाखौ नायनो स्क्रल बारखौ बाहाय।">
-<!ENTITY  license.accept                  "आं बे गनायथि बिलाइनि रादायफोरखौ आजावो">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "आं बे गनायथि बिलाइनि रादायफोरखौ आजावा">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "गोरोबथिगोनां Add-ons मोनबाय">
 
 <!ENTITY  downloadPage.title              "&brandShortName; खौ डाउनल'ड खालाम गासिनो दं">
 <!ENTITY  downloading.intro               "आपडेटखौ डाउनल'ड खालाम गासिनो दङ... ">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "उननि समाव &brandShortName; खौ जागायनाय समाव आपडेटखौ इनष्टल खालामगोन।नोंथाङा दा &brandShortName; खौ फिन जागायनो हायो, एबा खामानि मावलांबाय था आरो उनाव फिन नाजा।">
 
-<!ENTITY  installed.title                 "आपडेट इनष्टल खालामबाय">
-<!ENTITY  installed.intro                 "आपडेटखौ जाफुंसारै इनष्टल खालामबाय।">
-<!ENTITY  whatsnew.label                  "गोदाननि सोमोन्दै गोबां फराय...  ">
 
 <!ENTITY  update.details.label            "गुवारै">
 <!ENTITY  update.installedOn.label        "..आव इनष्टल खालामबाय:">

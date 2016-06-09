@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "आपडेटफोरखौ माब्लाबाबो आनजाद खालामनो नाङा (सुबुरन होआखै: रैखाथि जुखि)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "जदि आंनि जायखि जाया add-ons खौ लोरबां खालामब्ला आंखौ सांग्रांथि हो (W)">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "आपडेट जारिमिनखौ दिनथि (p)">
 <!ENTITY updateHistory.accesskey         "p">
 

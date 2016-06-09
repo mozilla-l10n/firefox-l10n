@@ -4,6 +4,7 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-<!ENTITY ChooseApp.description "मोनसे एप्लिकेसन बासिख">
+
 <!ENTITY ChooseApp.label "बासिख...(C)">
 <!ENTITY ChooseApp.accessKey "C">
+

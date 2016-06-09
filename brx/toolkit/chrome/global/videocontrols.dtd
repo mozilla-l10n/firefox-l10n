@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "भिडिअ ल'ड खालामनायखौ बन्द खालामबाय।">
 <!ENTITY error.network "मोनथिमोनै जाहोननि थाखाय भिडिअ प्लेबेकखौ गारबाय।">
-<!ENTITY error.decode "डिभिअखौ दामनो हाया मानोना फाइला गाज्रि जाबाय।">
+
 <!ENTITY error.srcNotSupported "भिडिअ फरमेट एबा MIME रोखोमा हेफाजाब होजाया।">
 <!ENTITY error.noSource2 "हेफाजाब होजानाय फटमेटजों जेबो भिडिअ आरो MIME रोखोम मोनाखै।">
 <!ENTITY error.generic "मोनथिमोनै जाहोननि थाखाय भिडिअ प्लेबेकखौ गारबाय।">

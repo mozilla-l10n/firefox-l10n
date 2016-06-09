@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "ल'ड खालाम गासिनो दं...">
-<!ENTITY listEmpty.installed.label            "नोंथांहा इनष्टल खालामखानाय बे रोखोमनि जेबो add-ons गैया।">
+
 <!ENTITY listEmpty.availableUpdates.label     "जेबो आपडेट मोनाखै">
-<!ENTITY listEmpty.recentUpdates.label        "नोंथाङा दाबावैसो जेबो add-ons खौ आपडेट खालामाखै">
+
 <!ENTITY listEmpty.findUpdates.label          "आपडेटफोरनि थाखाय आनजाद खालाम">
 <!ENTITY listEmpty.search.label               "add-ons जों गोरोबनाय जेबो नागिर मोनाखिसै">
 <!ENTITY listEmpty.button.label               "add-ons नि सोमोन्दै गोबां सोलों">
@@ -105,9 +105,9 @@
 <!ENTITY cmd.uninstallAddon.label             "बोखार">
 <!ENTITY cmd.uninstallAddon.accesskey         "ब">
 <!ENTITY cmd.showPreferencesWin.label         "उफ्राफोर">
-<!ENTITY cmd.showPreferencesWin.tooltip       "बे add-on नि उफ्राफोरखौ सोलाय">
+
 <!ENTITY cmd.showPreferencesUnix.label        "पसन्दफोर">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "बे add-on नि पसन्दखौ सोलाय">
+
 <!ENTITY cmd.contribute.label                 "बिहोमा हो (C)">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "बे add-on नि जौगाखांनायाव बिहोमा हो">
@@ -122,7 +122,7 @@
 
 <!ENTITY discover.title                       "Add-ons आ मा मा?">
 <!ENTITY discover.description2                "Add-ons आ एप्लिकेसन, जाय नोंथांखौ बांद्राय खामानिगोहो एबा आदबजों&brandShortName; खौ बाहायनो गनायथि होयो। &brandShortName; खौ गावनि निजि खालामनो सम-बासायनाय साइडबार, आबहावा मिथिहोग्रा, एबा थिमगोनां नुथायखौनाजा।">
-<!ENTITY discover.footer                      "नोंथाङा इन्टारनेटजों फोनांजाबनाय समाव, बे पेनआ माखासे साबसिन दिन्थिगोन आरो नोंथांनि थाखाय नाजानाय मुंदांखासिन add-ons खौ दिन्थिगोन।">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "लिरस्लायनाय">
@@ -135,11 +135,11 @@
 
 <!ENTITY detail.updateType                    "गावनो गाव आपडेटफोर">
 <!ENTITY detail.updateDefault.label           "डिफल्ट">
-<!ENTITY detail.updateDefault.tooltip         "डिफल्टब्ला आपडेटफोरखौ गावनो गाव महरै इनष्टल खालाम">
+
 <!ENTITY detail.updateAutomatic.label         "अन">
 <!ENTITY detail.updateAutomatic.tooltip       "आपडेटफोरखौ गावनो गाव महरै इनष्टल खालाम">
 <!ENTITY detail.updateManual.label            "अफ">
-<!ENTITY detail.updateManual.tooltip          "आपडेटफोरखौ गावनो गाव महरै इनष्टल खालामा">
+
 <!ENTITY detail.home                          "ह'मबिलाइ">
 <!ENTITY detail.repository                    "Add-on प्रफाइल">
 <!ENTITY detail.size                          "महर">
@@ -149,10 +149,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "बे add-on नि थाखाय आपडेटफोरनि थाखाय आनजाद खालाम">
 <!ENTITY detail.showPreferencesWin.label      "उफ्रा">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "बे add-on नि उफ्राफोरखौ सोलाय">
+
 <!ENTITY detail.showPreferencesUnix.label     "पसन्द (P)">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "बे add-on नि पसन्दखौ सोलाय">
+
 <!-- ratings -->
 
 
@@ -221,8 +221,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "बेयो मा? टिलेमेट्रिआ इनष्टल खालामनो हागौ आरो सम सम आनजादखौ सालायनो हागौ।">
 <!ENTITY experiment.info.learnmore "गोबां सोलों">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "टिलेमेट्रि सेटिं">

@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "गोजोननाय रैखाथि पलिसिजों हेंथा होजाबाय">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; आ बे बिलाइखौ बेबाइदि ल'ड खालामनाय निफ्राय हेंथा होबाय मानोना बिलाइहा मोनसे थानाय-आयदा रैखाथि पलिसि दं जाय बेखौ गनायथिगैयै खालामो।</p>">
 
-<!ENTITY corruptedContentError.title "रैखाथि फोनांजाबा फेलें जाबाय">
-<!ENTITY corruptedContentError.longDesc "<p>नोंथाङा नायनो नाजाबाय थानाय बिलाइखौ दिन्थिनो हाया मानोना डाटा दैथायनायाव गोरोन्थि संना दिहुनबाय।</p><ul><li>बे जेंनाखौ वेबसाइट बिगोमानो खिन्थानो जगाजग खालाम।</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "रैखाथि फोनांजाबा फेलें जाबाय">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>नोंथाङा नायनो नाजाबाय थानाय बिलाइखौ दिन्थिनो हाया मानोना डाटा दैथायनायाव गोरोन्थि संना दिहुनबाय।</p><ul><li>बे जेंनाखौ वेबसाइट बिगोमानो खिन्थानो जगाजग खालाम।</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "एंगारनायखौ दाजाबदेर...">
@@ -95,9 +95,13 @@ was trying to connect. -->
 
 
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
