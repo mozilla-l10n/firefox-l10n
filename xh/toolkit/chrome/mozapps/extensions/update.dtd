@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Ifumene iZongezelelo zoHambelwano">
 <!ENTITY  found.top.label                 "Khetha izongezelelo ongathanda ukuzifakela:">
-<!ENTITY  found.disabledXPinstall.label   "Ezi zihlaziyi azinakufakelwa ngenxa yokuba ufakelo lwesoftwe lweziwe alwasebenza ngokunje. Ungayitshintsha le setingi ingaphantsi.">
+
 <!ENTITY  found.enableXPInstall.label     "Vumela iiwebhusayithi ukufakela isoftwe">
 <!ENTITY  found.enableXPInstall.accesskey "V">
 

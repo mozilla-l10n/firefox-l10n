@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Vula &syncBrand.shortName.label; iipriferensi">
 <!ENTITY fxaSignInError.label "Qhagamshelanisa ngokutsha &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Qinisekisa IAkhawunti Yakho">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; yenziwe yasebenza">
-<!ENTITY syncStartPanel2.subTitle "I-&brandShortName; iza kuqalisa ukungqamanisa okomzuzwana.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Nciphisa">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Ezinye iiBhukmakhi">
 <!ENTITY bookmarksToolbarChevron.tooltip "Bonisa iibhukhmakhi ezininzi">
 
+
+
+
+
 <!ENTITY backCmd.label                "Emva">
 <!ENTITY backButton.tooltip           "Buya umva ngephepha elinye">
 <!ENTITY forwardCmd.label             "Phambili">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Ezinye iiBhukmakhi">
 <!ENTITY viewBookmarksSidebar2.label        "Bona ibha esecaleni yeeBhukhmakhi">
 <!ENTITY viewBookmarksToolbar.label         "Bona iThulbha Yeebhukhmakhi">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "I">
 <!ENTITY newUserContext.label             "Ithebhu Entsha Neyekhonteyina">
 <!ENTITY newUserContext.accesskey         "C">
-<!ENTITY userContextPersonal.label        "Eyobuqu">
-<!ENTITY userContextPersonal.accesskey    "E">
-<!ENTITY userContextWork.label            "Umsebenzi">
-<!ENTITY userContextWork.accesskey        "U">
-<!ENTITY userContextBanking.label         "Ukubhankisha">
-<!ENTITY userContextBanking.accesskey     "U">
-<!ENTITY userContextShopping.label        "Ukuthenga">
-<!ENTITY userContextShopping.accesskey    "U">
 <!ENTITY newNavigatorCmd.label        "Ifestile entsha">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "I">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Buyisela isandi">
 <!ENTITY mediaUnmute.accesskey       "y">
-<!ENTITY mediaPlaybackRate.label     "Dlala Isantya">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Intshukumo Ecothayo (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "I">
-<!ENTITY mediaPlaybackRate100x.label "Isantya Esiqhelekileyo">
-<!ENTITY mediaPlaybackRate100x.accesskey "I">
-<!ENTITY mediaPlaybackRate150x.label "Isantya Esiphezulu (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "I">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+<!ENTITY mediaPlaybackRate100x2.label "Okuqhelekileyo">
+<!ENTITY mediaPlaybackRate100x2.accesskey "O">
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Isantya Solovane (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "I">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Unxibelelwano lonxibelelwano">
 <!ENTITY identity.connectionNotSecure "Unxibelelwano alukhuselekanga">
 <!ENTITY identity.connectionFile "Eli phepha liyagcinwa kwikhompyutha yakho.">
-<!ENTITY identity.connectionVerified1 "Uqhagamshele ngokukhuselekileyo kule sayithi, isetyenziswa yi">
+
 <!ENTITY identity.connectionInternal "Le yi-&brandShortName; ekhuselekileyo indawo yolawulo.">
 <!ENTITY identity.insecureLoginForms2 "Iiogini ezifakwe kweli phepha zinokuba sengozini.">
 <!-- Strings for connection state warnings. -->

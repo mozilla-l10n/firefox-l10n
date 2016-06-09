@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Ithintelwe ngumGaqonkqubo woKhuseleko lomXholo">
 <!ENTITY cspBlocked.longDesc "<p>i-&brandShortName; ithintele eli khasi ukuba lilayishe ngale ndlela kuba ikhasi linomgaqonkqubo wokhuseleko lomxholo elingakuvumeliyo.</p>">
 
-<!ENTITY corruptedContentError.title "Imposiso yomxholo owonakalisiweyo">
-<!ENTITY corruptedContentError.longDesc "<p>Ikhasi ozama ukulijonga alinakuboniswa kuba kubhaqwe imposiso ekuthunyelweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Imposiso yomxholo owonakalisiweyo">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ikhasi ozama ukulijonga alinakuboniswa kuba kubhaqwe imposiso ekuthunyelweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Yongeza ieksepshini…">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Ihambele phambili">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> isebenzisa ubugcisa bokhuseleko obuphelelwe lixesha nobusesichengeni sokuhlaselwa. Umhlaseli unokuthi ngokulula aveze inkcazelo obucinga ukuba ikhuselekile.">
 <!ENTITY weakCryptoAdvanced.override "(Ayikhuselekanga) Zama ukulowuda <span class='hostname'></span> usebenzisa ukhuseleko oluphelelwe lixesha">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Uqhagamshelo Olungakhuselekanga">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Le sayithi isebenzisa HTTP Strict Transport Security (HSTS) ukucacisa ukuba i-&brandShortName; iqhagamshelana kuphela  kuyo ngokukhuselekileyo. Ze iziphumo, akunokwenzeka ukuba udibanise okuphume ecaleni   kwesisatifikethi.">
+
 <!ENTITY certerror.copyToClipboard.label "Khuphela umbhalo kwiklipbhodi">
 
 <!ENTITY inadequateSecurityError.title "Uqhagamshelo lwakho alukhuselekanga">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>isebenzisa iteknoloji yokhuseleko ephelelwe lixesha nesesichengeni sokuhlaselwa. Umhlaseli unokuthi ngokulula atyhile inkcazelo obucinga ukuba ikhuselekile. Umlawuli wewebhsayithi kuya kufuneka aqale alungise iseva kuqala ngaphambi kokuba  utyelele isayithi.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+
