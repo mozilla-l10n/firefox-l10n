@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "A(z) &brandShortName; régi, de a legújabb verzió nem támogatott ezen a rendszeren. Frissítse rendszerét, majd próbálja újra. Ez a figyelmeztetés nem jelenik meg többször, de ">
 <!ENTITY  unsupportedLink.label           "megtudhat többet.">
 
-<!ENTITY  incompatibleCheck.title         "Kiegészítők kompatibilitásának ellenőrzése">
-<!ENTITY  incompatibleCheck.label         "A kiegészítők újabb verzióinak keresése…">
-
 <!ENTITY  clickHere.label                 "További információk erről a frissítésről">
 
 <!ENTITY  evangelism.desc                 "Nagyon ajánlott a &brandShortName; frissítése.">
-
-<!ENTITY  license.instructions            "Ha egyetért a szerződés feltételeivel, kattintson az Egyetértek gombra a frissítés telepítésének folytatása előtt.">
-
-<!ENTITY  license.titleText               "Szoftverlicenc-szerződés">
-<!ENTITY  license.introText               "A szoftver használatának feltételei.">
-<!ENTITY  license.instructionText         "Olvassa el a következő licencszerződést. A gördítősáv mozgatásával a szerződés további részei is olvashatóvá válnak.">
-<!ENTITY  license.accept                  "Elfogadom a licencszerződés feltételeit.">
-<!ENTITY  license.accept.accesskey        "E">
-<!ENTITY  license.decline                 "Nem fogadom el a licencszerződés feltételeit.">
-<!ENTITY  license.decline.accesskey       "N">
-
-<!ENTITY  incompatibleList.title          "Nem kompatibilis kiegészítők">
 
 <!ENTITY  downloadPage.title              "A &brandShortName; letöltése">
 <!ENTITY  downloading.intro               "Frissítés letöltése… ">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "A frissítés a &brandShortName; következő indításakor fog települni. Újraindíthatja a &brandShortName; alkalmazást most, vagy folytathatja a munkát, és újraindíthatja később.">
 
-<!ENTITY  installed.title                 "Frissítés telepítve">
-<!ENTITY  installed.intro                 "A frissítés sikeresen telepítve lett.">
-<!ENTITY  whatsnew.label                  "Olvassa el az újdonságok ismertetését…">
 
 <!ENTITY  update.details.label            "Részletek">
 <!ENTITY  update.installedOn.label        "Telepítve:">

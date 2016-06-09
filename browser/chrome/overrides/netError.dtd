@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blokkolva a tartalombiztonsági irányelv szerint">
 <!ENTITY cspBlocked.longDesc "<p>A &brandShortName; nem engedte meg, hogy az oldalt ezen a módon betöltse, mert az oldal tartalombiztonsági irányelve ezt tiltja.</p>">
 
-<!ENTITY corruptedContentError.title "Sérült tartalom hiba">
-<!ENTITY corruptedContentError.longDesc "<p>A megtekinteni kívánt oldal nem jeleníthető meg, mert az adatátvitel közben hiba történt.</p><ul><li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Sérült tartalom hiba">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>A megtekinteni kívánt oldal nem jeleníthető meg, mert az adatátvitel közben hiba történt.</p><ul><li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Kivétel hozzáadása…">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Speciális">
 <!ENTITY weakCryptoAdvanced.longDesc "A(z) <span class='hostname'></span> elavult és sebezhető biztonsági technológiát használ. Egy támadó egyszerűen megszerezhet olyan adatokat, amiket Ön biztonságban lévőnek hitt.">
 <!ENTITY weakCryptoAdvanced.override "(Nem biztonságos) Próbálja meg elavult biztonsági technológia használatával betölteni ezt: <span class='hostname'></span>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Nem biztonságos kapcsolat">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ez az oldal HTTPStrict Transport Security (HSTS) használatával adja meg, hogy a &brandShortName; csak biztonságosan kapcsolódjon. Emiatt nem lehet kivételt felvenni ehhez a tanúsítványhoz.">
+
 <!ENTITY certerror.copyToClipboard.label "Szöveg másolása a vágólapra">
 
 <!ENTITY inadequateSecurityError.title "A kapcsolat nem biztonságos">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> olyan biztonsági technológiát használ, amely elavult, és sérülékeny a támadásokkal szemben. Egy támadó könnyen felfedhet olyan információkat, amelyeket biztonságosnak gondol. A weboldal rendszergazdájának ki kell javítania a kiszolgálót, mielőtt meglátogathatja az oldalt.</p><p>Hibakód: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+
