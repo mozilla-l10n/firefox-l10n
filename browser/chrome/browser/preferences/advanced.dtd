@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Aldri sjå etter oppdateringar (ikkje tilrådd: tryggingsrisiko)">
 <!ENTITY updateManual.accesskey          "d">
 
-<!ENTITY updateAutoAddonWarn.label       "Åtvar meg dersom dette vil slå av utvidingar">
-<!ENTITY updateAutoAddonWarn.accesskey   "Å">
-
 <!ENTITY updateHistory.label             "Vis oppdateringshistorikk">
 <!ENTITY updateHistory.accesskey         "V">
 

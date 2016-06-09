@@ -4,6 +4,7 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-<!ENTITY ChooseApp.description "Vel eit program">
+
 <!ENTITY ChooseApp.label "Vel…">
 <!ENTITY ChooseApp.accessKey "V">
+
