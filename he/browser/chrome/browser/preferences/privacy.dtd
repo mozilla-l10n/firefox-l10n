@@ -10,11 +10,14 @@
 <!ENTITY  trackingProtectionExceptions.label   "חריגות…">
 
 <!ENTITY tracking.label                 "מעקב">
+<!ENTITY trackingProtectionPBM5.label         "שימוש בהגנת מעקב בחלונות פרטיים">
 <!ENTITY trackingProtectionPBMLearnMore.label "מידע נוסף">
+<!ENTITY changeBlockList.label          "שינוי רשימת חסימות">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 <!ENTITY  doNotTrack.pre.label          "ניתן גם ">
+<!ENTITY  doNotTrack.settings.label     "ניהול הגדרות Do Not Track אישיות">
 
 <!ENTITY  history.label                 "היסטוריה">
 
@@ -28,6 +31,7 @@
 <!ENTITY  locbar.openpage.label         "לשוניות פתוחות">
 <!ENTITY  locbar.openpage.accesskey     "ל">
 
+<!ENTITY  suggestionSettings.label      "שינוי העדפות של הצעות מנועי חיפוש…">
 
 <!ENTITY  acceptCookies.label           "קבלת עוגיות מאתרים">
 <!ENTITY  acceptCookies.accesskey       "ק">

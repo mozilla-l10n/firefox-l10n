@@ -55,9 +55,11 @@
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Service Workers">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
 
+<!ENTITY filterOutput.placeholder "סינון פלט">
 <!ENTITY btnClear.label        "מחיקה">
 <!ENTITY btnClear.tooltip      "מחיקת פלט מסוף הרשת">
 

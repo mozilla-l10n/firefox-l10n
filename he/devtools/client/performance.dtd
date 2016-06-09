@@ -58,6 +58,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
+<!ENTITY performanceUI.table.totalDuration            "זמן כולל">
 <!ENTITY performanceUI.table.totalPercentage          "עלות כוללת">
 <!ENTITY performanceUI.table.selfPercentage           "עלות עצמית">
 <!ENTITY performanceUI.table.samples                  "דגימות">
@@ -68,6 +69,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
+<!ENTITY performanceUI.options.gear.tooltiptext "הגדרת העדפות הביצועים.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->

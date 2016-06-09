@@ -39,6 +39,7 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "מ">
 <!ENTITY runtimeMenu_showMonitor_label "צג">
 <!ENTITY runtimeMenu_showMonitor_accesskey "צ">
+<!ENTITY runtimeMenu_showDevicePrefs_label "העדפות התקן">
 <!ENTITY runtimeMenu_showSettings_label "הגדרות התקן">
 
 <!ENTITY viewMenu_label "תצוגה">
@@ -47,6 +48,7 @@
 <!ENTITY viewMenu_toggleEditor_accesskey "ע">
 <!ENTITY viewMenu_zoomin_label "התקרבות">
 <!ENTITY viewMenu_zoomout_label "התרחקות">
+<!ENTITY viewMenu_resetzoom_label "איפוס מרחק מתצוגה">
 
 <!ENTITY projectButton_label "פתיחת יישום">
 <!ENTITY runtimeButton_label "בחירת זמן ריצה">
@@ -68,9 +70,11 @@
 <!ENTITY projectPanel_runtimeApps "יישומי זמן ריצה">
 <!ENTITY projectPanel_tabs "לשוניות">
 <!ENTITY runtimePanel_usb "התקני USB">
+<!ENTITY runtimePanel_wifi "התקני Wi-Fi">
 <!ENTITY runtimePanel_installsimulator "התקנת מדמה">
 <!ENTITY runtimePanel_noadbhelper "התקנת מסייע ADB">
 <!ENTITY runtimePanel_nousbdevice "ההתקן שלך לא מופיע ברשימה?">
+<!ENTITY runtimePanel_refreshDevices_label "רענון התקנים">
 
 <!-- Lense -->
 <!ENTITY details_valid_header "חוקי">
@@ -101,6 +105,9 @@
 <!ENTITY prefs_editor_title "עורך">
 <!ENTITY prefs_general_title "כללי">
 <!ENTITY prefs_restore "שחזור בררות מחדל">
+<!ENTITY prefs_manage_components "ניהול רכיבים נוספים">
+<!ENTITY prefs_options_autoconnectruntime "התחברות לזמן ריצה קודם">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "התחברות לזמן ריצה קודם כאשר WebIDE יופעל">
 <!ENTITY prefs_options_rememberlastproject "לזכור פרויקט אחרון">
 <!ENTITY prefs_options_rememberlastproject_tooltip "שחזור פרויקט קודם כאשר WebIDE מופעל">
 <!ENTITY prefs_options_templatesurl "כתובת תבניות">
@@ -118,6 +125,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "להכניס באופן אוטומטי את סגירת הסוגריים">
 <!ENTITY prefs_options_keybindings "קיצורי מקשים">
 <!ENTITY prefs_options_keybindings_default "ברירת מחדל">
+<!ENTITY prefs_options_autosavefiles "שמירת קבצים באופן אוטומטי">
+<!ENTITY prefs_options_autosavefiles_tooltip "שמירת קבצים שנערכו באופן אוטומטי לפני הפעלת פרויקט">
 
 <!-- Permissions Table -->
 <!ENTITY permissionstable_title "טבלת הרשאות">
@@ -135,8 +144,11 @@
 <!ENTITY device_typeobject "עצם">
 
 <!-- Device Preferences -->
+<!ENTITY devicepreference_title "העדפות התקן">
+<!ENTITY devicepreference_search "העדפות חיפוש">
 
 <!-- Device Settings -->
+<!ENTITY devicesetting_search "הגדרות חיפוש">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "צג">

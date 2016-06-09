@@ -11,7 +11,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
+<!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2/3): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
 <!ENTITY netmonitorUI.perfNotice1         "• יש ללחוץ על הכפתור">
 <!ENTITY netmonitorUI.perfNotice2         "כדי להתחיל את ניתוח הביצועים.">
@@ -120,6 +120,9 @@
   -  in the network details footer for the "Flash" filtering button. -->
 <!ENTITY netmonitorUI.footer.filterFlash  "Flash">
 
+<!-- LOCALIZATION NOTE (netmonitorUI.footer.filterWS): This is the label displayed
+  -  in the network details footer for the "WS" filtering button. -->
+
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
 <!ENTITY netmonitorUI.footer.filterOther  "אחרים">
@@ -211,6 +214,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
   -  in the security tab if a security error prevented the connection. -->
+<!ENTITY netmonitorUI.security.error      "אירעה שגיאה:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.protocolVersion): This is the label displayed
   -  in the security tab describing TLS/SSL protocol version. -->

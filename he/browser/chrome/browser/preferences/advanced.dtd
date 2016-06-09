@@ -14,6 +14,7 @@
 <!ENTITY searchStartTyping.accesskey     "ט">
 <!ENTITY blockAutoRefresh.label          "הזהר אותי כאשר אתרים מנסים לטעון מחדש את הדף או להעביר אותי לדף אחר">
 <!ENTITY blockAutoRefresh.accesskey      "ה">
+<!ENTITY useOnScreenKeyboard.label       "הצגת מקלדת מגע בעת הצורך">
 
 <!ENTITY browsing.label                  "דפדוף">
 
