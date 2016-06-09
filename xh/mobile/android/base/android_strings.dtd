@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Wamkelekile">
-<!ENTITY  onboard_start_message3 "Bhrawuza i-&brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Yenza amava okubhrawuza iWebhu yefowni yakho ephathwayo abe ngawakho ngokwenene.">
 
 <!ENTITY firstrun_urlbar_message "Wamkelekile kwi-&brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Fumana izinto ngokukhawuleza ngezifutshaniso zokukhangela amacebiso eziluncedo.">
@@ -20,20 +18,25 @@
 <!ENTITY firstrun_signin_message "Qhagamshela, uqalise">
 <!ENTITY firstrun_signin_button "Sayina ungene ukuze uDibanise">
 <!ENTITY  onboard_start_button_browser "Qala ukubhrawuza">
+
 <!ENTITY firstrun_button_next "Okulandelayo">
 
-<!ENTITY  onboard_start_restricted1 "Hlala ukhuselekile yaye ukulawulo ngolu hlobo lwenziwe lula lwe-&brandShortName;.">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
-<!ENTITY  reading_list_migration_title "Uluhlu Lokufunda luqhagamshelwe">
-<!ENTITY  reading_list_migration_subtext "Uluhlu Lwakho Lokufunda ngoku ziza kongezwa kwiiBhukmakhi zakho">
-<!ENTITY  reading_list_migration_goto_bookmarks "Yiya kwiiBhukmakhi">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Iphaneli yeeBhukmakhi zakho ifihliwe">
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
+<!ENTITY  onboard_start_restricted1 "Hlala ukhuselekile yaye ukulawulo ngolu hlobo lwenziwe lula lwe-&brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Iibhukmakhi">
 <!ENTITY  history_title "Imbali">
-<!ENTITY  reading_list_title "ULuhlu Lokufunda">
 <!ENTITY  recent_tabs_title "Iithegi zakutshanje">
 
 <!ENTITY  switch_to_tab "Tshintshela kwithebhu">
@@ -68,7 +71,10 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Izikrinshoti">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "ULuhlu Lokufunda">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
 
 <!ENTITY reader_saved_offline "Igcinwe ngaphandle kwe-intanethi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +180,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "ICEBISO: Yongeza nayiphi na iwebhusayithi kuludwe lwakho lwezikhangeli ngokucinezela ixesha elide kwifildi yokukhangela uze uchwethe uphawu lwe&formatI; icon">
 <!ENTITY pref_category_advanced "Kwinqanaba eliphambili">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Buyisela iithebhu, ugcino lwedatha, izixhobo zomvelisi">
 <!ENTITY pref_category_notifications "Izaziso">
 <!ENTITY pref_category_notifications_summary "Iifitsha ezintsha, uhlaziyo lwewebhsayithi">
@@ -224,6 +233,9 @@
 <!ENTITY pref_cookies_accept_all "Ezenziwe zasebenza">
 <!ENTITY pref_cookies_not_accept_foreign "Zivunyelwe, ngaphandle kweqela lesi-3">
 <!ENTITY pref_cookies_disabled "Ivaliwe">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_data_saver "Ugcino lwedatha">
 <!ENTITY pref_category_media "Imidiya">
@@ -287,7 +299,10 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; iiwebhsayithi zihlaziyiwe">
-<!ENTITY content_notification_action_settings "Iisetingi zeZaziso">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -421,12 +436,12 @@ size. -->
 <!ENTITY share_image_failed "Akukwazeki ukwabelana nalo mfanekiso-ngqondweni">
 <!ENTITY save_as_pdf "Gcina njenge-PDF">
 <!ENTITY print "Printa">
-<!ENTITY find_in_page "Fumana kwikhasi">
-<!ENTITY desktop_mode "Cela isayithi yeDesktop">
+
+
 <!ENTITY page "Iphepha">
 <!ENTITY tools "Izixhobo zemiyalelo">
-<!ENTITY new_tab "Ithebhu entsha">
-<!ENTITY new_private_tab "Iithebhu zangasese ezintsha">
+
+
 <!ENTITY close_all_tabs "Vala Zonke iiThebhu">
 <!ENTITY close_private_tabs "Vala iithebhu zangasese">
 <!ENTITY tabs_normal "Ithebhu">
@@ -436,8 +451,6 @@ size. -->
 <!ENTITY set_image_chooser_title "Seta umfanekiso njenge">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Fumana kwiPhepha">
 <!ENTITY find_prev "Okwangaphambili">
 <!ENTITY find_next "Okulandelayo">
 <!ENTITY find_close "Vala">
@@ -538,6 +551,7 @@ size. -->
 <!ENTITY home_history_title "Imbali">
 <!ENTITY home_synced_devices_smartfolder "Izixhobo ezingqamanisiweyo">
 <!ENTITY home_synced_devices_number "&formatD; izixhobo">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_history_back_to2 "Ibuyela kwiMbali epheleleyo">
 <!ENTITY home_clear_history_button "Susa imbali yokubhrawuza">
 <!ENTITY home_clear_history_confirm "Uqinisekile ukuba ufuna ukususa imbali yakho?">
@@ -776,4 +790,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Funda ngaphandle kwe-intanethi">
 <!ENTITY helper_first_offline_bookmark_message "Fumana iiayithem zeSijongi soMfundi kwiiBhukmakhi, nangaphandle kwe-Intanethi.">
-<!ENTITY helper_first_offline_bookmark_button "Yiya kwiiBhukmakhi">
+
+
+
+
+
