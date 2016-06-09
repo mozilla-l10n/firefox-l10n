@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Jangan semak sebarang kemaskini (tidak digalakkan: risiko keselamatan)">
 <!ENTITY updateManual.accesskey          "n">
 
-<!ENTITY updateAutoAddonWarn.label       "Ingatkan saya jika ini boleh melumpuhkan sebarang addon saya">
-<!ENTITY updateAutoAddonWarn.accesskey   "I">
-
 <!ENTITY updateHistory.label             "Pamer Sejarah Kemaskini">
 <!ENTITY updateHistory.accesskey         "P">
 

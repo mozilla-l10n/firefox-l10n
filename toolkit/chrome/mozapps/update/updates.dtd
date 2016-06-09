@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "&brandShortName; Anda telah lapuk, tetapi versi yang terbaru tidak  disokong oleh sistem anda. Sila tatar sistem anda, kemudian cuba lagi.  Anda tidak akan melihat notis ini lagi, tetapi anda boleh">
 <!ENTITY  unsupportedLink.label           "ketahui lebih lanjut.">
 
-<!ENTITY  incompatibleCheck.title         "Memeriksa kesesuaian Add-on">
-<!ENTITY  incompatibleCheck.label         "Sedang mencari versi yang lebih baru untuk add-on anda...">
-
 <!ENTITY  clickHere.label                 "Lihat maklumat lanjut perihal kemaskinian ini">
 
 <!ENTITY  evangelism.desc                 "Adalah amat disarankan agar anda menggunakan kemaskini ini untuk &brandShortName; secepat mungkin.">
-
-<!ENTITY  license.instructions            "Jika anda setuju kepada terma perjanjian ini, klik Saya Setuju di bawah untuk sambung pemasangan kemaskini ini.">
-
-<!ENTITY  license.titleText               "Penjanjian Lesen Perisian">
-<!ENTITY  license.introText               "Terma dan keadaan untuk menggunakan perisian ini.">
-<!ENTITY  license.instructionText         "Sila baca perjanjian lesen berikut. Guna bar skrol untuk melihat lain-lain perjanjian ini.">
-<!ENTITY  license.accept                  "Saya terima terma Perjanjian Lesen">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Saya TIDAK terima terma Perjanjian Lesen">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Add-on yang tidak serasi dijumpai">
 
 <!ENTITY  downloadPage.title              "Memuat turun &brandShortName;">
 <!ENTITY  downloading.intro               "Memuaturun kemaskinian...">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Pengemaskinian tersebut akan dipasang pada masa akan datang apabila &brandShortName; dimulakan. Anda  boleh mulakan semula &brandShortName; sekarang, atau teruskan pengunaan dan mulakan semula lain kali.">
 
-<!ENTITY  installed.title                 "Kemaskinian Dipasang">
-<!ENTITY  installed.intro                 "Kemaskinian telah berjaya dipasang.">
-<!ENTITY  whatsnew.label                  "Baca lagi perihal apa yang baru...">
 
 <!ENTITY  update.details.label            "Perincian">
 <!ENTITY  update.installedOn.label        "Dipasang pada:">

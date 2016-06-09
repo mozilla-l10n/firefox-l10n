@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Menyelesaikan masalah Informasi">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Halaman ini mengandungi maklumat teknikal yang mungkin beguna apabila andacuba menyelesaikan masalah. Jika anda mencari jawapan untuk soalan-soalan lazim &brandShortName;, semak <a id='supportLink'>laman web sokongan</a> kami.">
-
 <!ENTITY aboutSupport.crashes.title "Laporan Kerosakan">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -50,6 +48,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Ejen pengguna">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "Kegunaan Memori">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
@@ -79,6 +78,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafik">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaSkrip">
 <!ENTITY aboutSupport.jsIncrementalGC "Penambahan GC">
 
@@ -93,6 +95,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Salin teks ke clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Salin data mentah kepada clipboard">
+
+
+
 
 
 

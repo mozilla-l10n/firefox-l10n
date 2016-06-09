@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Menemui Penambahan Serasi">
 <!ENTITY  found.top.label                 "Pilih penambahan yang anda ingin pasang:">
-<!ENTITY  found.disabledXPinstall.label   "Kemaskinian ini tidak dapat dipasang kerana pemasangan perisian kini sedang dilumpuhkan. Anda boleh menukar tetapan ini di bawah.">
+
 <!ENTITY  found.enableXPInstall.label     "Allow web sites to install software">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
