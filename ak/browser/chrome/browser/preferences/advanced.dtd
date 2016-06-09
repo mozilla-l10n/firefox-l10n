@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Nhwehwɛ ntoso biara da (yɛn nkamfo: banbɔ amaneɛ) ">
 <!ENTITY updateManual.accesskey          "h">
 
-<!ENTITY updateAutoAddonWarn.label       "Bɔ me kɔkɔ sɛ eyi bedum me nkaho bi a">
-<!ENTITY updateAutoAddonWarn.accesskey   "ɔ">
-
 <!ENTITY updateHistory.label             "Kyerɛ ntoso abakɔsɛm">
 <!ENTITY updateHistory.accesskey         "s">
 

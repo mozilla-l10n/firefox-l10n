@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Hawyi ho infɔmehyɛn">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "Krataafa yi wɔ infɔmehyɛn bi a ebɛhia sɛwo pɛsɛ wo siesie ɔhaw bi a. Sɛ wopɛ nyiano ma nsɛmbisa bi a ɛfa &brandShortName; ho a, hwɛ yɛ mmoa seat yi <a id='supportLink'> </a>.">
-
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Bɔ ahyɛnsode ho amane">
@@ -48,6 +46,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Odi dwuma Gyinamusini">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "Mɛmri Adwumadi">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
@@ -74,6 +73,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Eniso-ade">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "Javaskript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC Ntosontoso">
 
@@ -84,6 +86,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Nwomasiebea Vɛɛhyennom">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Instɔlehyɛn Abakɔsɛm">
+
+
+
 
 
 

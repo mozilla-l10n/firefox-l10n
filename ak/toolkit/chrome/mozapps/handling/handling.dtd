@@ -4,6 +4,7 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-<!ENTITY ChooseApp.description "Paw aplekehyen">
+
 <!ENTITY ChooseApp.label "Paw…">
 <!ENTITY ChooseApp.accessKey "P">
+

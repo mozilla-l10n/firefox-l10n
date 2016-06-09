@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Kɔntɛnt Sikuriti Mbra esi no kwan">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; sii krataafa yi kwan sɛ ɔbeloode wɔ kwan yi so efiri sɛ krataafa no wɔ sikuriti mbra bi a ɔmma biribi te sɛ yi ho kwan.</p>">
 
-<!ENTITY corruptedContentError.title "Mfomso a ɛkyerɛ kɔntent a ne ho atɔ kyima">
-<!ENTITY corruptedContentError.longDesc "<p>Wo renntumi nnhu krataafa a wo pɛ sɛ wo hwɛ no ɛsian sɛ wɔhuu mfomso bi wɔ data nsoma no mu.</p><ul><li>Yɛ srɛ wo sɛ bisa wɔn a wɛbsaet no yɛ wɔn de ma wɔ wɔnhwɛ ho asɛm nka.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Mfomso a ɛkyerɛ kɔntent a ne ho atɔ kyima">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Wo renntumi nnhu krataafa a wo pɛ sɛ wo hwɛ no ɛsian sɛ wɔhuu mfomso bi wɔ data nsoma no mu.</p><ul><li>Yɛ srɛ wo sɛ bisa wɔn a wɛbsaet no yɛ wɔn de ma wɔ wɔnhwɛ ho asɛm nka.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Yi Firi Mu…">
@@ -94,9 +94,13 @@ was trying to connect. -->
 
 
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

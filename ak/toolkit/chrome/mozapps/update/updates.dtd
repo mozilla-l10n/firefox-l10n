@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Wo &brandShortName; atwa mu, naaso wo sestem no nnsuo vɛɛhyɛn a adi ekyiri koraa no mu. Yɛsrɛ wo to wo sestem no so, na san so sɔ hwɛ.  Wo rennhu nkaebɔ yi bio, naaso wo bɛtumi">
 <!ENTITY  unsupportedLink.label           "asua bi aka ho.">
 
-<!ENTITY  incompatibleCheck.title         "Ɛrehwehwɛ nka-ho biakoyɛ">
-<!ENTITY  incompatibleCheck.label         "Ɛrehwehwɛ wo nkaho no avɛɛhyen foforo…">
-
 <!ENTITY  clickHere.label                 "Hwɛ saa ntoso yi ho asɛm bi ka ho">
 
 <!ENTITY  evangelism.desc                 "Ɛho hia sɛ wo de &brandShortName; yi ntoso bata ho sesei ara.">
-
-<!ENTITY  license.instructions            "Sɛ wo pene nhyehyɛe yi a, klike Me pene a edi so ansa woatoa so a instɔl ntoso yi.">
-
-<!ENTITY  license.titleText               "sɔftwɛɛ tumikrataa agyetomu">
-<!ENTITY  license.introText               "ɛfene ne nsɛnsɛm a ɛda sɔftwɛɛ yi adwumadi ho.">
-<!ENTITY  license.instructionText         "Kan tumikrataa Nteaseɛsɛm yi. fa skrol baa no hwɛ agyetomu na aka no.">
-<!ENTITY  license.accept                  "Me gye tumikrataa nkyerɛase no tum">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Mengye tumikrataa nkyerɛase no tum">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Ehu nkaho a wɔn mmfa">
 
 <!ENTITY  downloadPage.title              "Retwe &brandShortName;">
 <!ENTITY  downloading.intro               "Retwe ntoso no…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Bere foforo a &brandShortName; bɛhyɛ ase no, ntoso no bɛ instɔl. wobetumi asan asɔ &brandShortName; sesei anaa kɔso yɛ adwuma na san hyɛ ase akyiri.">
 
-<!ENTITY  installed.title                 "Wɔainstɔɔle ntoso no">
-<!ENTITY  installed.intro                 "Ntoso no instɔl no esi so pɛpɛɛpɛ.">
-<!ENTITY  whatsnew.label                  "Kenkan nea ɛyɛ foforo ho asɛm…">
 
 <!ENTITY  update.details.label            "nhunumu">
 <!ENTITY  update.installedOn.label        "instɔlee da yi:">
