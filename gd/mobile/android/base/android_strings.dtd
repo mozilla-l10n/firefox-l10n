@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Fàilte">
-<!ENTITY  onboard_start_message3 "Brabhsaich le &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Dèan brabhsadh mobile air an lìon gu tur a-rèir do thoil fhèin.">
 
 <!ENTITY firstrun_urlbar_message "Fàilte gu &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Faigh greim air rudan nas luaithe slighe ath-ghoiridean nam molaidhean luirg.">
@@ -20,20 +18,28 @@
 <!ENTITY firstrun_signin_message "Dèan ceangal, dèan toiseach-tòiseachaidh">
 <!ENTITY firstrun_signin_button "Clàraich a-steach gun t-sioncronachadh">
 <!ENTITY  onboard_start_button_browser "Tòisich air brabhsadh">
+<!ENTITY firstrun_button_notnow "Chan ann an-dràsta">
 <!ENTITY firstrun_button_next "Air adhart">
 
-<!ENTITY  onboard_start_restricted1 "Fan sàbhailte ’s cum smachd air cùisean leis an tionndadh simplichte seo de &brandShortName;.">
+<!ENTITY firstrun_tabqueue_title "Ceanglaichean">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
-<!ENTITY  reading_list_migration_title "Chaidh an liosta-leughaidh a cheangal">
-<!ENTITY  reading_list_migration_subtext "Thèid buill na liosta-leughaidh agad a chur ris na comharran-lìn agad a-nis">
-<!ENTITY  reading_list_migration_goto_bookmarks "Rach gu na comharran-lìn">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Tha panail nan comharran-lìn falaichte">
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+<!ENTITY firstrun_account_title "Thusa">
+<!ENTITY firstrun_account_message "A bheil &brandShortName; agad air uidheam eile?">
+
+<!ENTITY  onboard_start_restricted1 "Fan sàbhailte ’s cum smachd air cùisean leis an tionndadh simplichte seo de &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Comharran-lìn">
 <!ENTITY  history_title "Eachdraidh">
-<!ENTITY  reading_list_title "An liosta-leughaidh">
 <!ENTITY  recent_tabs_title "Tabaichean o chionn goirid">
 
 <!ENTITY  switch_to_tab "Gearr leum gun taba">
@@ -68,7 +74,10 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Glacaidhean-sgrìn">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "An liosta-leughaidh">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "An liosta leughaidh">
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+<!ENTITY bookmark_folder_one_item "1 nì">
 
 <!ENTITY reader_saved_offline "Air a shàbhaladh far loidhne">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +183,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "GLIOCAS: ’S urrainn dhut làrach-lìn sam bith a chur ri liosta nan solaraichean luirg ma nì thu brùthadh fada air an raon luirg aige ’s a’ suathadh ris an ìomhaigheag &formatI; an uairsin.">
 <!ENTITY pref_category_advanced "Adhartach">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Aisig tabaichean, caomhnaiche dàta, innealan an luchd-leasachaidh">
 <!ENTITY pref_category_notifications "Brathan">
 <!ENTITY pref_category_notifications_summary "Gleusan ùra, ùrachaidhean làraichean-lìn">
@@ -224,6 +236,9 @@
 <!ENTITY pref_cookies_accept_all "An comas">
 <!ENTITY pref_cookies_not_accept_foreign "An comas, as aonais feadhainn o threas-phàrtaidh">
 <!ENTITY pref_cookies_disabled "À comas">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_data_saver "Caomhnaiche dàta">
 <!ENTITY pref_category_media "Meadhanan">
@@ -287,7 +302,12 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; làraichean-lìn air ùrachadh">
-<!ENTITY content_notification_action_settings "Roghainn nam brathan">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Roghainnean">
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Leugh seo an-dràsta">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -538,6 +558,8 @@ size. -->
 <!ENTITY home_history_title "Eachdraidh">
 <!ENTITY home_synced_devices_smartfolder "Uidheaman sioncronaichte">
 <!ENTITY home_synced_devices_number "&formatD; uidheam(an)">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 uidheam">
 <!ENTITY home_history_back_to2 "Air ais gun eachdraidh shlàn">
 <!ENTITY home_clear_history_button "Falamhaich an eachdraidh brabhsaidh">
 <!ENTITY home_clear_history_confirm "A bheil thu cinnteach gu bheil thu airson an eachdraidh agad fhalamhadh?">
@@ -777,3 +799,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_title "Leugh far loidhne">
 <!ENTITY helper_first_offline_bookmark_message "Faigh cothrom air na rudan san t-sealladh-leughaidh sna comharran-lìn agad, fiù far loidhne.">
 <!ENTITY helper_first_offline_bookmark_button "Rach gu na comharran-lìn">
+
+<!ENTITY helper_triple_readerview_open_title "Ri fhaighinn far loidhne">
+
+<!ENTITY helper_triple_readerview_open_button "Cuir ris na comharran-lìn">
+
