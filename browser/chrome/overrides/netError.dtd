@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blokkert av sikkerhetspolicy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å lastes inn på denne måten fordi nettsiden har en sikkerhetspolicy som forbyr det.</p>">
 
-<!ENTITY corruptedContentError.title "Ødelagt innhold">
-<!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes på grunn av en feil i dataoverføringen.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Ødelagt innhold">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Siden du forsøker å vise kan ikke åpnes på grunn av en feil i dataoverføringen.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Lag et unntak …">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Avansert">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> bruker sikkerhetsteknologi som er utdatert og sårbar for angrep. En angriper kan enkelt hente ut informasjon som du tror er trygg.">
 <!ENTITY weakCryptoAdvanced.override "(Ikke sikker) Prøv å laste <span class='hostname'></span> med utdatert sikkerhet.">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Usikker tilkobling">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dette nettstedet bruker HTTP Strict Transport Security (HSTS) for å spesifisere at &brandShortName; bare skal kopla til trygt. Derfor kan en ikke legge til et unntak for dette sertifikatet.">
+
 <!ENTITY certerror.copyToClipboard.label "Kopier tekst til utklippstavlen">
 
 <!ENTITY inadequateSecurityError.title "Tilkoblingen din er ikke sikker">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> bruker sikkerhetsteknologi som er utdatert og sårbar for angrep. En angriper kan enkelt fremskaffe informasjon som du trodde var sikker. Nettstedsadministratoren må endre serveren først, før du kan besøke nettstedet.</p><p>Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+

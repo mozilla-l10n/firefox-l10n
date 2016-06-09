@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "Forminsk til å passe">
 <!ENTITY customPrompt.title   "Annen skala …">
 
+
+
+
 <!ENTITY homearrow.tooltip    "Første side">
 <!ENTITY endarrow.tooltip     "Siste side">
 <!ENTITY nextarrow.tooltip    "Neste side">
