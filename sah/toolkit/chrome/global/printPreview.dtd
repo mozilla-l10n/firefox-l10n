@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "Кээмэйигэр сөп түбэһиннэрэн кыччат">
 <!ENTITY customPrompt.title   "Масштаабын уларыт...">
 
+
+
+
 <!ENTITY homearrow.tooltip    "Бастакы сирэй">
 <!ENTITY endarrow.tooltip     "Бүтэһик сирэй">
 <!ENTITY nextarrow.tooltip    "Аныгыскы сирэй">

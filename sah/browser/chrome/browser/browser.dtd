@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
 <!ENTITY fullScreenMinimize.tooltip "Кыччат">
 <!ENTITY fullScreenRestore.tooltip "Хат улаатыннар">
 
@@ -167,6 +165,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Өссө бэлиэлэр">
 
+
+
+
+
 <!ENTITY backButton.tooltip           "Бу иннинээҕи сирэйгэ">
 
 <!ENTITY forwardButton.tooltip        "Аныгыскы сирэйгэ">
@@ -216,6 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksToolbar.label         "Бэлиэтиир тэрили көрдөр">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -247,14 +250,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Билэ"> 
 <!ENTITY fileMenu.accesskey       "Б">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY newNavigatorCmd.label        "Саҥа түннүк">
@@ -529,19 +524,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "Т">
 <!ENTITY mediaUnmute.label           "Тыаһын баар гын">
 <!ENTITY mediaUnmute.accesskey       "б">
-<!ENTITY mediaPlaybackRate.label     "Оонньуу тэтимэ">
-<!ENTITY mediaPlaybackRate.accesskey "н">
-<!ENTITY mediaPlaybackRate050x.label "Бытаардыллыбыт хамсааһын (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "Б">
-<!ENTITY mediaPlaybackRate100x.label "Көннөрү тэтим">
-<!ENTITY mediaPlaybackRate100x.accesskey "К">
-<!ENTITY mediaPlaybackRate150x.label "Муҥутуур тэтим (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "М">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Олус түргэн (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "О">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

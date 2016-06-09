@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Сөп түбэһэр эбиискэлэр көһүннүлэр">
 <!ENTITY  found.top.label                 "Туруоруоххун баҕарар эбиискэлэргин тал:">
-<!ENTITY  found.disabledXPinstall.label   "Саҥардыылар турар кыахтара суох эбит, тоҕо диэтэххэ ол кыах араарыллыбыт. Аллара баар бэлиэни туруоран ону уларытыаххын сөп.">
+
 <!ENTITY  found.enableXPInstall.label     "Ситим-сирдэр программа туруоралларын көҥүллүүргэ">
 <!ENTITY  found.enableXPInstall.accesskey "С">
 

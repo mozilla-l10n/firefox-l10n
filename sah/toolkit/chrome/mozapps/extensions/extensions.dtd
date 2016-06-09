@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Хачайдааһын...">
-<!ENTITY listEmpty.installed.label            "Маннык эбиискэни биири да туруора илик эбиккин">
+
 <!ENTITY listEmpty.availableUpdates.label     "Саҥардыы көстүбэтэ">
-<!ENTITY listEmpty.recentUpdates.label        "Кэнники кэмҥэ ханнык да эбиискэни саҥарда илик эбиккин">
+
 <!ENTITY listEmpty.findUpdates.label          "Саҥардыы баарын көрүү">
 <!ENTITY listEmpty.search.label               "Биир да сөп түбэһэр эбиискэ көстүбэтэ">
 <!ENTITY listEmpty.button.label               "Эбиискэ туһунан сиһилии">
@@ -105,9 +105,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Сот">
 <!ENTITY cmd.uninstallAddon.accesskey         "о">
 <!ENTITY cmd.showPreferencesWin.label         "Опциялара">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Бу эбиискэ туруорууларын уларыт">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Туруоруулар">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Бу эбиискэ туруорууларын уларыт">
+
 <!ENTITY cmd.contribute.label                 "Кыттыс">
 <!ENTITY cmd.contribute.accesskey             "К">
 <!ENTITY cmd.contribute.tooltip               "Бу эбиискэни тупсарарга кыттыс">
@@ -122,7 +122,7 @@
 
 <!ENTITY discover.title                       "Эбиискэ диэн тугуй?">
 <!ENTITY discover.description2                "Эбиискэлэр — &brandShortName; бырагыраамманы бэйэҕэр табыгастаах гына уларытан биэрэр эбии олордуллар тэриллэр. Холобур, ойоҕос хапталы туттан халлаан туругун куруук көрө сылдьыаххын сөп, эбэтэр &brandShortName; тас көрүҥүн бэйэҥ баҕараргынан уларытан биэриэххин сөп.">
-<!ENTITY discover.footer                      "Интэриниэккэ холбонноххуна бу туонаҕа (хапталга) саамай элбэхтик туһаныллар сорох эбиискэлэр көстүөхтэрэ. Тутатына туттан көрүөххүн сөп.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Барыл">
@@ -135,11 +135,11 @@
 
 <!ENTITY detail.updateType                    "Аптамаатынан саҥардыы">
 <!ENTITY detail.updateDefault.label           "Анаан этиллибэтэҕинэ">
-<!ENTITY detail.updateDefault.tooltip         "Талыллыбыкка саҥардыыны быһа холбонордуу туруорун ">
+
 <!ENTITY detail.updateAutomatic.label         "Холбоммут">
 <!ENTITY detail.updateAutomatic.tooltip       "Саҥардыыны ыйыппакка туруор">
 <!ENTITY detail.updateManual.label            "Араарыллыбыт">
-<!ENTITY detail.updateManual.tooltip          "Саҥардыылары ыйыппакка туруорума">
+
 <!ENTITY detail.home                          "Дьиэ-сирэй">
 <!ENTITY detail.repository                    "Эбиискэ профилэ">
 <!ENTITY detail.size                          "Кээмэй">
@@ -149,10 +149,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Бу эбиискэ саҥардыыта баарын көр">
 <!ENTITY detail.showPreferencesWin.label      "Туруоруулар">
 <!ENTITY detail.showPreferencesWin.accesskey  "Т">
-<!ENTITY detail.showPreferencesWin.tooltip    "Бу эбиискэ туруорууларын уларыт">
+
 <!ENTITY detail.showPreferencesUnix.label     "Туруоруулар">
 <!ENTITY detail.showPreferencesUnix.accesskey "Т">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Бу эбиискэ туруорууларын уларыт">
+
 <!-- ratings -->
 
 

@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Кыһалҕаны быһаарар туһунан">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "   Бу сирэйгэ техническэй информация бэриллэр, ону туһанан кыһалҕаҕын быһаарыаххын сөп. &brandShortName; програаммаҕа куруук көстөр кыһалҕаҕа хоруй ылыаххын баҕарар буоллаххына биһиги <a id='supportLink'>өйүүр ситим-сирбитигэр</a> киир. ">
-
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 
@@ -47,6 +45,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "Долоҕойу туттуу">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
@@ -74,6 +73,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Графика">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Инкрементальнай GC">
 
@@ -88,6 +90,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Тиэкси долоҕойго (буфер обмена) төгүллээ">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Таҥастамматах дааннайдары долоҕойго хатаа">
+
+
+
 
 
 

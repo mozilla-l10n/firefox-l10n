@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "&brandShortName; эргэрбит, ол гынан баран кэнники барыл Эн систиэмэҥ өйөөбөт эбит. Бука диэн систиэмэҕин саҥардан биэр, уонна хатылаа Бу биллэриини хос көрүөҥ суоҕа, ол эрэн бу туһунан ">
 <!ENTITY  unsupportedLink.label           "эбии билиэххин сөп.">
 
-<!ENTITY  incompatibleCheck.title         "Эбиискэ сөп түбэһиитин тургутуу">
-<!ENTITY  incompatibleCheck.label         "Эбиискэлэриҥ саҥа барылларын көрдөөһүн...">
-
 <!ENTITY  clickHere.label                 "Бу эбиискэ туһунан сиһилии">
 
 <!ENTITY  evangelism.desc                 "Бу саҥардыыны төһө кыалларынан түргэнник &brandShortName;-ка туһанарыҥ буоллар.">
-
-<!ENTITY  license.instructions            "Лиссиэнсийэ усулуобуйатын кытта сөбүлэһэр буоллаххына саҥардыыны туруорарга «Сөбүлэһэбин» диэни баттаа.">
-
-<!ENTITY  license.titleText               "Лиссиэнсийэ сөбүлэҥэ">
-<!ENTITY  license.introText               "Бу бырагыраамманы туһаныы быраабылата уонна усулуобуйалара.">
-<!ENTITY  license.instructionText         "Бука диэн лиссиэнсийэ сөбүлэҥин аах. Салгыы көрөргө дөкүмүөнү аллараттан сыҕарыт.">
-<!ENTITY  license.accept                  "Лиссиэнсийэ сөбүлэҥин ылынабын">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Лиссиэнсийэ сөбүлэҥин ЫЛЫММАППЫН">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Сөп түбэспэт саҥардыылар көһүннүлэр">
 
 <!ENTITY  downloadPage.title              "Хачайдаан ылыы - &brandShortName;">
 <!ENTITY  downloading.intro               "Саҥардыы хачайдана турар...">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Саҥардыы аныгыскы &brandShortName; хос ыытыы кэнниттэн туруоруллуо. Эн сип билигин  &brandShortName; хос ыытыаххын сөп, эбэтэр салгыы үлэлээн баран кэлин инньэ гыныаххын сөп.">
 
-<!ENTITY  installed.title                 "Саҥардыы туруорулунна">
-<!ENTITY  installed.intro                 "Саҥардыы сөпкө туруорулунна.">
-<!ENTITY  whatsnew.label                  "Саҥа барыл уларыйыылара...">
 
 <!ENTITY  update.details.label            "Сиһилии">
 <!ENTITY  update.installedOn.label        "Туруоруллубут:">
