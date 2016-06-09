@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "ကျွန်ပ်ရဲ့ ပေါင်းထည့်ချက်များ တခုခုကို ပိတ်မယ်ဆိုရင် ကျွန်ပ်ကို သတိပေးပါ">
-<!ENTITY updateAutoAddonWarn.accesskey   "က">
-
 <!ENTITY updateHistory.label             "pမွမ်းမံချက် မှတ်တမ်းကို ပြသပါ">
 <!ENTITY updateHistory.accesskey         "p">
 

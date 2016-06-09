@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "သင်၏ &brandShortName; သည် ဟောင်းနွမ်းနေသော ထုတ်ကုန်တစ်ခုဖြစ်ပြီးသင်အသုံးပြုသော ကွန်ပျူတာစနစ်တွင် နောက်ဆုံးထွက်လဲ မထုတ်တော့ပါနောက်တစ်ကြိမ် ကြိုးစားကြည့်ပါက ယခု သတိပေးချက်ကို မပေးတော့ပါ">
 <!ENTITY  unsupportedLink.label           "ပိုမိုလေ့လာပါ">
 
-<!ENTITY  incompatibleCheck.title         "ပေါင်းထည့်ချက် လိုက်ဖက်မှုကို စစ်ဆေးနေတယ်">
-<!ENTITY  incompatibleCheck.label         "သင့်ပေါင်းထည့်ချက်များရဲ့ ပိုဆန်းသစ်တဲ့ မူအဆင့်ကို ရှာနေတယ်...">
-
 <!ENTITY  clickHere.label                 "ဒီမွမ်းမံချက် အကြောင်း ပိုမို အချက်အလက်ကို ရှုမြင်ပါ">
 
 <!ENTITY  evangelism.desc                 "&brandShortName; အတွက် မွမ်းမံချက်ကို စောနိုင်မမျှ​ စောစော အသုံးချဖို့ သင့်ကို အထူး အကြံပြုထားတယ်။">
-
-<!ENTITY  license.instructions            "အကယ်၍ ဒီသဘောတူညီချက် စကားရပ်များကို သင်သဘောတူရင်၊ ဒီမွမ်းမံချက် တပ်ဆင်နေတာကို ဆက်လုပ်ဖို့ အောက်ပါ ကျွန်ပ် လက်ခံတယ် ကို နှိုပ်ပါ။">
-
-<!ENTITY  license.titleText               "ဆော့ဗ်ဝဲ ခွင့်ပြုမှု သဘောတူညီချက်">
-<!ENTITY  license.introText               "ဒီဆော့ဗ်ဝဲ သုံးစွဲမှုအတွက် စကားရပ်များနဲ့ အခြေအနေများ">
-<!ENTITY  license.instructionText         "အောက်ပါ ခွင့်ပြုမှု သဘောတူညီချက်ကို ဖတ်ရှုပါ။ ကျန်တဲ့ ဒီခွင့်ပြုချက်ကို ရှုမြင်ဖို့ လှိမ့်ဆင်း တန်းလျာကို သုံးစွဲပါ။">
-<!ENTITY  license.accept                  "ခွင့်ပြုမှု သဘောတူညီချက် စကားရပ်ကို ကျွန်ပ် လက်ခံတယ်">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "သဘောတူညီမှု ခွင့်ပြုချက်တွင် စကားရပ်များ NOT လက်မခံပါ">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "မလိုက်ဖက်တဲ့ ပေါင်းထည့်ချက်များကို တွေ့ရှိတယ်">
 
 <!ENTITY  downloadPage.title              "&brandShortName; အားဒေါင်းလုဒ်ချနေသှ်">
 <!ENTITY  downloading.intro               "မွမ်းမံချက်ကို ဆွဲချနေတယ်...">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "မွမ်းမံချက်ကို နောက်တကြိမ် &brandShortName; စတင်တဲ့အခါ တပ်ဆင်လိမ့်မယ်။ &brandShortName; ကို အခု သင် ပြန်ဖွင့်နိုင်တယ်၊ (သို့) ဆက်လက် လုပ်ဆောင်ပြီး နောက်တခါ ပြန်ဖွင့်လိုက်ပါ။">
 
-<!ENTITY  installed.title                 "မွမ်းမံချက် တပ်ဆင်လိုက်ပြီ">
-<!ENTITY  installed.intro                 "မွမ်းမံချက်ကို အောင်မြင်စွာ တပ်ဆင်လိုက်ပြီ။">
-<!ENTITY  whatsnew.label                  "သစ်လွင်တဲ့ အရာအတွက် ပိုမို ဖတ်ရှုပါ...">
 
 <!ENTITY  update.details.label            "အသေးစိတ်များ">
 <!ENTITY  update.installedOn.label        "တပ်ဆင်ထားတဲ့ နေရာ -">

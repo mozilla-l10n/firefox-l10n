@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "လိုက်ဖက်တဲ့ ပေါင်းထည့်ချက်များကို တွေ့ရှိတယ်">
 <!ENTITY  found.top.label                 "သင်တပ်ဆင်လိုတဲ့ ပေါင်းထည့်ချက်များကို ရွေးပါ -">
-<!ENTITY  found.disabledXPinstall.label   "လောလောဆယ် ဆော့ဗ်ဝဲ တပ်ဆင်မှုကို ပိတ်ထားတဲ့အတွက် ဒီမွမ်းမံချက်များ ကို တပ်ဆင်လို့ မရနိုင်ဘူး။ ဒီအောက်က အပြင်အဆင်ကိုသင်ပြင်ဆင်နိုင်တယ်။">
+
 <!ENTITY  found.enableXPInstall.label     "ဝဘ်ဆိုက်တွေကို ဆော့ဖ်ဝဲထည့်သွင်းခွင့်ပြုတယ်">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 

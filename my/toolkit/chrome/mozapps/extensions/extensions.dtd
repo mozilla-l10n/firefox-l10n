@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f ">
 
 <!ENTITY loading.label                        "ပွင့်လာနေတယ်...">
-<!ENTITY listEmpty.installed.label            "သင့်ဆီတွင်ဤအမျိုးအစားအတ်အွန်ထည့်သွင်းထားခြင်းမရှိပါ။">
+
 <!ENTITY listEmpty.availableUpdates.label     "အသစ်မတွေ့ပါ">
-<!ENTITY listEmpty.recentUpdates.label        "သင်သည်ယခုလတ်တလောမည်သည့်အတ်အွန်မှအဆင့်မြှင့်တင်ခြင်းမပြုလုပ်ထားပါ။">
+
 <!ENTITY listEmpty.findUpdates.label          "လုပ္ေဆာင္ခ်က္သစ္အတြက္စစ္ေဆးျခင္း">
 <!ENTITY listEmpty.search.label               "သင့်လျော်သော အက်အွန်အား မတွေ့ပါ">
 <!ENTITY listEmpty.button.label               "အက်အွန်တွေ အကြောင်း လေ့လာကြမယ်">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "ဖယ်ရှားပါ ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "ရွေးစရာများ">
-<!ENTITY cmd.showPreferencesWin.tooltip       "ယခုအက်အွန်၏ ရွေးချယ်ပိုင်ခွင့်အား ပြုပြင်ပါ">
+
 <!ENTITY cmd.showPreferencesUnix.label        "ဦးစားပေး အချက်များ">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "ယခုအက်အွန်၏ preferences ကိုပြောင်းပါ">
+
 <!ENTITY cmd.contribute.label                 "ပူးပေါင်း ပါ၀င် ဆောင်ရွက်ခြင်း">
 <!ENTITY cmd.contribute.accesskey             "ပ">
 <!ENTITY cmd.contribute.tooltip               "ယခု အက်အွန်ထုတ်လုပ်မှုတွင် ကူညီပါ၀င်ဆောင်ရွက်ခြင်း">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "အက်အွန်ဆိုတာဘာလဲ?">
 <!ENTITY discover.description2                "အတ်အွန်များ သည် သင်၏ &brandShortName; အားတစ်ကိုယ်ရေသုံးဆန်စေရန် ပြုလုပ်ပေးသော ထပ်တိုးလုပ်ဆောင်ချက်များနှင့် အက်ပလီကေးရှင်းများဖြစ်သည်။ ဘေးဘက်ဘား သို့ ရာသီဥတုအချက်ပေးအစီအစဉ် သို့ သမ်းပုံစုံတစ်ခုခုကို သုံးပြီး &brandShortName; အားသင့်ပုံစံအဖြစ်ပြောင်းလဲပါ။">
-<!ENTITY discover.footer                      "သင့်ကွန်ပျူတာ အင်တာနက်နဲ့ ချိတ်ဆက်မှုရတဲ့အခါ၊ ဒီဘက်ခြမ်းမှာ သင့်အတွက် အကောင်းဆုံးနဲ့ အကျော်ကြားဆုံးသော အက်အွန်အချို့ကို စမ်းသပ်ကြည့်နိုင်ဖို့ ဖော်ပြပေးထားပါမယ်။">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "မူအဆင့်">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "အလိုအလျောက် လုပ်ဆောင်ချက်အသစ်">
 <!ENTITY detail.updateDefault.label           "မူရင်းအခြေအနေ">
-<!ENTITY detail.updateDefault.tooltip         "အဆင့်မြှင့်တင်ခြင်း အား နဂိုမူလသတ်မှတ် ထားသည်အတိုင်းသာ အလိုအလျှောက်ပြုလုပ်ရန်">
+
 <!ENTITY detail.updateAutomatic.label         "ဖွင့်ပါ">
 <!ENTITY detail.updateAutomatic.tooltip       "အဆင့်မြင်တင်မှုများအား အလိုအလျောက် သွင်းပါ">
 <!ENTITY detail.updateManual.label            "ပိတ်ပါ">
-<!ENTITY detail.updateManual.tooltip          "အဆင့်မြင်တင်မှုများအား အလိုအလျောက် မသွင်းပါနှင့်">
+
 <!ENTITY detail.home                          "မူလအစ">
 <!ENTITY detail.repository                    "အက်အွန်၏ အကြာင်း">
 <!ENTITY detail.size                          "အရွယ်အ​စား">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "ယခုအက်အွန်အတွက် အဆင့်မြင်တင်မှုများအား စစ်ဆေးပါ">
 <!ENTITY detail.showPreferencesWin.label      "ရွေးစရာများ">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "ယခုအက်အွန်၏ ရွေးချယ်ပိုင်ခွင့်အား ပြုပြင်ပါ">
+
 <!ENTITY detail.showPreferencesUnix.label     "ဦးစားပေး အချက်များ">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "ယခု အက်အွန်၏ preferences ကိုပြောင်းပါ">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "ဒါဘာလဲ? Telemetry ဟာ စမ်းသပ်ချက်များ ကို တပ်ဆင်ပြီး လုပ်ဆောင်ကောင်းလုပ်နေလိမ့်မည်">
 <!ENTITY experiment.info.learnmore "ဆက်လက်ဖတ်ရှူရန်">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Telemetry အပြင်အဆင်များ">

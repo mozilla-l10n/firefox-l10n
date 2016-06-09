@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "အံကိုက်ဖို့ စိတ်ကြိုက်ဖန်တီးပါ">
 <!ENTITY customPrompt.title   "အချိုးကျ စိတ်ကြိုက်ဖန်တီးပါ...">
 
+
+
+
 <!ENTITY homearrow.tooltip    "ပထမ စာမျက်နှာ">
 <!ENTITY endarrow.tooltip     "နောက်ဆုံး စာမျက်နှာ">
 <!ENTITY nextarrow.tooltip    "နောက် စာမျက်နှာ">

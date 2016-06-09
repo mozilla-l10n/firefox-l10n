@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; သည်ယခု၀တ်ဆိုက်အားပါ၀င်နေသောအရာတစ်ခု၏လုံခြုံရေး ကြောင့်ရယူခြင်းကိုခွင့်မပြုပါ.</p>">
 
-<!ENTITY corruptedContentError.title "နှောက်ယှက်ခံရသောပြသာနာ">
-<!ENTITY corruptedContentError.longDesc "<p>အချက်အလက်ကူးယူပြောင်းခြင်းပြသာနာကြောင့်၀တ်ဆိုက်အားမပြသနိုင်ပါ။</p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်များဤပြသာနာအားအသိပေးရန်ကျေးဇူးပြုပြီးဆက်သွယ်ပေးပါ။</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "နှောက်ယှက်ခံရသောပြသာနာ">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>အချက်အလက်ကူးယူပြောင်းခြင်းပြသာနာကြောင့်၀တ်ဆိုက်အားမပြသနိုင်ပါ။</p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်များဤပြသာနာအားအသိပေးရန်ကျေးဇူးပြုပြီးဆက်သွယ်ပေးပါ။</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "ချွင်းချက် ထည့်သွင်းပါ...">
@@ -98,9 +98,13 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "အဆင့်မြင့်">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>သည် အိုဟောင်းပြီး ခုခံမှုအားနည်းသည့် လုံခြုံရေးနည်းပညာကို အသုံးပြုထားသည်။ တိုက်ခိုက်သူသည် သင်လုံခြုံသည်ဟု ထင်ရသည့် အချက်အလက်များကို လွယ်ကူစွာ ဖော်ထုတ်နိုင်သည်။">
 <!ENTITY weakCryptoAdvanced.override "(မလုံခြုံပါ) အိုဟောင်းနေသည့် လုံခြုံရေးနည်းပညာအသုံးပြုထားသော <span class='hostname'></span>ကို ခေါ်ယူကြည့်ပါ">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "အခက်အခဲဆိုင်ရာဖြေရှင်းခြင်းနည်းလမ်းများ။">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about &brandShortName;, check out our <a id='supportLink'>support website</a>.">
-
 <!ENTITY aboutSupport.crashes.title "ပျက်ဆီးချက်တင်ပြသူ">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -52,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "အသုံးပြုသူ အေးဂျင့်">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "မှတ်ဉာဏ်သုံးဆွဲမှူ">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "စာရင်းပြုထားသည့် Service Workers">
@@ -84,6 +83,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "ဂရပ်ဖစ်">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC တိုးတက်မှု">
 
@@ -103,6 +105,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "လုံခြုံရေးသုံးပုံစံ အားသုံးကြည့်မည်">
 <!ENTITY aboutSupport.restartInSafeMode.label "ထပ်ပေါင်းဆော့ဝဲများ ပိတ်ပြီး ပြန်စမည်...">
+
+
+
 
 
 
