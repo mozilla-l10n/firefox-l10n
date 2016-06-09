@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchreset.tabtitle       "Återställ sökinställningar">
+
+<!ENTITY searchreset.pageTitle      "Vill du återställa sökinställningarna?">
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
@@ -13,6 +16,8 @@ their language. -->
 
 
 
+<!ENTITY searchreset.noChangeButton        "Ändra inte">
+<!ENTITY searchreset.noChangeButton.access "n">
 
-
-
+<!ENTITY searchreset.changeEngineButton        "Ändra sökmotor">
+<!ENTITY searchreset.changeEngineButton.access "d">
