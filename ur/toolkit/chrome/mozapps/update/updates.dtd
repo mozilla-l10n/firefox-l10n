@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "                 آپ کا &brandShortName; متروک ہو چکا ہے، لیکن نیا ورژن اپ کے نظام پر معاونت شدہ نہیں ہے۔ اپنے نظام کو درجہ افزوں کریں، اور پھر کوشش کریں۔آپ یہ اطلاع نامہ دوبارہ نہں دیکھیں گے، پر اپ">
 <!ENTITY  unsupportedLink.label           "اور سیکھیں.">
 
-<!ENTITY  incompatibleCheck.title         "ایڈ اون کی موازنت کی پڑتال کر رہا ہے">
-<!ENTITY  incompatibleCheck.label         "آپ کے ایڈ اون کے لیے نئے ورژن ڈھونڈ رہا ہے...">
-
 <!ENTITY  clickHere.label                 "اس تازہ کاری کے متعلق مزید معلومات نظارہ کریں">
 
 <!ENTITY  evangelism.desc                 "یہ پرزور طور سے تجویز کردہ ہے کہ آپ یہ تازہ کاری &brandShortName; کے لیے جلد سے جلد لگائیں۔">
-
-<!ENTITY  license.instructions            "اگر آپ کو اس ایگریمنٹ کی شرائط قبول ہیں, تو اس تازہ کای کی تنصیب کو جاری رکھنے کے لیے نیچے مجھے قبول ہے پر کلک کریں۔">
-
-<!ENTITY  license.titleText               "سافٹ ویئر لائسنس معاہدہ">
-<!ENTITY  license.introText               "اس سوفٹ ویر کو استعمال کرنے کی شرائط۔">
-<!ENTITY  license.instructionText         "برائے مہربانی مندرجہ ذیل لائسنس معاہدہ پڑھیے۔ آخر تک پڑھنے کے لئے سکرول بار کا استعمال کیجیے۔">
-<!ENTITY  license.accept                  "مجھے اس معاہدے کی شرائط قبول ہیں۔">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "مجھے اس معاہدے کی شرائط قبول نہیں ہیں">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "غیر موازن ایڈ اون ملے">
 
 <!ENTITY  downloadPage.title              "&brandShortName; ڈاؤن لوڈ کر رہا ہے">
 <!ENTITY  downloading.intro               "تازہ کاری ڈاؤن لوڈ کر رہا ہے...">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "یہ تازہ کاری &brandShortName; کے اگلی بار چلنے پر تنصیب کی جائے گی۔ آپ &brandShortName; کو ابھی پھر چلا سکتے ہیں، یا کام جاری رکھ کر بعد میں پھر چلا سکتے ہیں۔">
 
-<!ENTITY  installed.title                 "تازہ کاری تنصیب کر دی گئی">
-<!ENTITY  installed.intro                 "تازہ کاری کامیابی سے تنصیب ہو گئی۔">
-<!ENTITY  whatsnew.label                  "کیا نیا ہے، اس کے بارے میں مزید پڑھیں...">
 
 <!ENTITY  update.details.label            "تفصیلات">
 <!ENTITY  update.installedOn.label        "تنصیب شدہ از:">

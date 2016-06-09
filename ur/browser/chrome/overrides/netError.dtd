@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "مواد سیکیورٹی پالسی کے تحت بلاک">
 <!ENTITY cspBlocked.longDesc "<p> نے اس صفحے کو اس طریقے سے لوڈ نہیں ہونے دیا کیونکہ اس صفحے کی مواد سکیورٹی پالیسی ہے جو اس کی اجازت نہیں دیتی۔ &brandShortName;</p>">
 
-<!ENTITY corruptedContentError.title "خراب مواد نقص">
-<!ENTITY corruptedContentError.longDesc "<p>جو صفح آپ دیکھنے کی کوشش کر رہے ہیں وہ دکھایا نہیں جا سکتا کیونکہ قوائف کی منتقلی میں نقص پکڑا گیا۔</p><ul><li>اس مسلے کا بتانے کے لیے ویب سائٹ کے مالکین سے رابطہ کیجیے۔</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "خراب مواد نقص">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>جو صفح آپ دیکھنے کی کوشش کر رہے ہیں وہ دکھایا نہیں جا سکتا کیونکہ قوائف کی منتقلی میں نقص پکڑا گیا۔</p><ul><li>اس مسلے کا بتانے کے لیے ویب سائٹ کے مالکین سے رابطہ کیجیے۔</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "اکسیپشن اضافہ کریں">
@@ -98,9 +98,13 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "اعلٰی ترین">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> سلامتی ٹیکنالوجی استعمال کرتا ہے جو بٰٰغد از تاریخ ہے اور حملہ کے لیے زد پزیر ہے۔ ایک حملاور آسانی سے معلومات افشا کرسکتا ہے جسے آپ محفوظ سمجھتے ہیں۔">
 <!ENTITY weakCryptoAdvanced.override "(ناقابل بھروسا) لوڈ کرنے کی کوشش کریں<span class='hostname'></span> پرانی سلامتی استعمال کرنے ہوئے">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

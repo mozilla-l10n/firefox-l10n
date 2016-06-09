@@ -48,6 +48,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "صارف ایجنٹ">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse " میموری استعمال کریں">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
@@ -75,6 +76,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "گرافکس">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "جاوا سکرپٹ">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
@@ -89,6 +93,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "متن کو تختہ تراشہ پر نقل کریں">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "تختہ تراشہ پر خام کوائف نقل کریں">
+
+
+
 
 
 

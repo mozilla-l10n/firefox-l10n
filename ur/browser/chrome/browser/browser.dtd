@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; ترجیحات کھولیں">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; سے پھر جڑیں">
 <!ENTITY fxaUnverified.label "اپنا اکاؤنٹ توثیق کریں">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; اہل بنایا گیا">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; ابھی ہم وقت ساز کرنا شروع کر دے گا۔">
 
 
 <!ENTITY fullScreenMinimize.tooltip "چھوٹا کریں">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "اور نشانیاں دکھائیں">
 
+
+
+
+
 <!ENTITY backCmd.label                "واپس">
 <!ENTITY backButton.tooltip           "ایک صفحہ واپس جائیں">
 <!ENTITY forwardCmd.label             "آگے">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewBookmarksSidebar2.label        "بغلی بار میں نشانیاں دیکھیں">
 <!ENTITY viewBookmarksToolbar.label         "نشانیاں ٹول بار دیکھیں">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "م">
 <!ENTITY newUserContext.label             "نیا حامل ٹیب">
 <!ENTITY newUserContext.accesskey         "ح">
-<!ENTITY userContextPersonal.label        "ذاتی">
-<!ENTITY userContextPersonal.accesskey    "ذ">
-<!ENTITY userContextWork.label            "کام">
-<!ENTITY userContextWork.accesskey        "ک">
-<!ENTITY userContextBanking.label         "بینکاری">
-<!ENTITY userContextBanking.accesskey     "ب">
-<!ENTITY userContextShopping.label        "خریداری">
-<!ENTITY userContextShopping.accesskey    "خ">
 <!ENTITY newNavigatorCmd.label        "نیا دریچہ">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ن">
@@ -559,19 +554,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "خ">
 <!ENTITY mediaUnmute.label           "انمیوٹ">
 <!ENTITY mediaUnmute.accesskey       "ا">
-<!ENTITY mediaPlaybackRate.label     "چلنے کی رفتار">
-<!ENTITY mediaPlaybackRate.accesskey "چ">
-<!ENTITY mediaPlaybackRate050x.label "آہستہ حرکت (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "ح">
-<!ENTITY mediaPlaybackRate100x.label "عام رفتار">
-<!ENTITY mediaPlaybackRate100x.accesskey "ع">
-<!ENTITY mediaPlaybackRate150x.label "تیز رفتار(1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "ت">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "دوھری رفتار(2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "د">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -680,7 +678,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "بعید کنکشن">
 <!ENTITY identity.connectionNotSecure "کنکشن قابل بھروسا نہیں">
 <!ENTITY identity.connectionFile "یہ صفحہ آپکے کمپیوٹر پر سٹورڈ ہے۔">
-<!ENTITY identity.connectionVerified1 "آپ محفوظ طریقے سے اس سائٹ سے جڑے ہوے ہے، کی طرف سے چلائے:">
+
 <!ENTITY identity.connectionInternal "یہ ایک قابل بھروسا &brandShortName; صفحہ ہے۔">
 
 <!-- Strings for connection state warnings. -->

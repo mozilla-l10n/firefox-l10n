@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "ڈ">
 
 <!ENTITY loading.label                        "لوڈ کر رہا ہے...">
-<!ENTITY listEmpty.installed.label            "آپ کے پاس اس قسم کے کوئی ایڈ اون تنصیب شدہ نہیں">
+
 <!ENTITY listEmpty.availableUpdates.label     "کوئی تازہ کاریاں نہیں ملیں">
-<!ENTITY listEmpty.recentUpdates.label        "آپ نے حالیہ طور پر کوئی ایڈ اون تازہ نہیں کیے">
+
 <!ENTITY listEmpty.findUpdates.label          "تازہ کاریوں کے لیے چیک کریں">
 <!ENTITY listEmpty.search.label               "کوئی ایسے ایڈ اون نہیں ملے">
 <!ENTITY listEmpty.button.label               "ایڈ اون کے بارے میں اور سیکھیں">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "ہٹائیں">
 <!ENTITY cmd.uninstallAddon.accesskey         "ہ">
 <!ENTITY cmd.showPreferencesWin.label         "اختیارات">
-<!ENTITY cmd.showPreferencesWin.tooltip       "اس ایڈ اون کے اختیارات تبدیل کریں">
+
 <!ENTITY cmd.showPreferencesUnix.label        "ترجیحات">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "اس ایڈ اون کی ترجیحات تبدیل کریں">
+
 <!ENTITY cmd.contribute.label                 "حصہ لیں">
 <!ENTITY cmd.contribute.accesskey             "ح">
 <!ENTITY cmd.contribute.tooltip               "اس ایڈ اون کی تکمیل کاری میں حصہ لیں">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "ایڈ اون کیا ہوتے ہیں؟">
 <!ENTITY discover.description2                "ایڈ اون ایسی ایپلی کیشیں ہوتی ہیں جو آپ کو &brandShortName; کو  اور فعلیت اور طرز سے ذاتی بنانے میں مدد دیتی ہیں. &brandShortName; کو اپنا بنانے لے لیے وقت بچانے والا بغلی بار، موسم اعلان کنندہ  یا کوئی خیالیہ استعمال کر کے دیکھیں۔">
-<!ENTITY discover.footer                      "جب آپ انٹرنیٹ سے جڑے ہوں گے، تو یہ جھروکا آپ کے آزمانے کے لیے  سب سے بہترین اور معروف ایڈ اون فیچر کرے گا۔">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "ورژن">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "خودکار تازہ کاریاں">
 <!ENTITY detail.updateDefault.label           "طے شدہ">
-<!ENTITY detail.updateDefault.tooltip         "تازہ کاریاں خود بخود صرف تب تنصیب کریں جب یہ طےشدہ ہو">
+
 <!ENTITY detail.updateAutomatic.label         "آن">
 <!ENTITY detail.updateAutomatic.tooltip       "تازہ کاریاں خود بخود تنصیب کریں">
 <!ENTITY detail.updateManual.label            "آف کریں">
-<!ENTITY detail.updateManual.tooltip          "تازہ کاریاں خود بخود تنصیب مت کریں">
+
 <!ENTITY detail.home                          "ابتدائی صفحہ">
 <!ENTITY detail.repository                    "ایڈ اون پروفائل">
 <!ENTITY detail.size                          "سائز">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "اس ایڈ اون کے لیے تازہ کاریوں کی پڑتال کریں">
 <!ENTITY detail.showPreferencesWin.label      "اختیارات">
 <!ENTITY detail.showPreferencesWin.accesskey  "ا">
-<!ENTITY detail.showPreferencesWin.tooltip    "اس ایڈ اون کے اختیارات تبدیل کریں">
+
 <!ENTITY detail.showPreferencesUnix.label     "ترجیحات">
 <!ENTITY detail.showPreferencesUnix.accesskey "ت">
-<!ENTITY detail.showPreferencesUnix.tooltip   "اس ایڈ اون کی ترجیحات تبدیل کریں">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "یہ کیا ہے؟ Telemetry وقت وقت پر تجربات کو تنصیب اور چلا سکتا ہے۔">
 <!ENTITY experiment.info.learnmore "اور سیکھیں">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Telemetry سیٹنگیں">

@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "وڈیو لوڈ ہونا رک گئی۔">
 <!ENTITY error.network "نیٹ ورک نقص کی وجہ سے وڈیو پلے بیک ساقط کر دیا گیا۔">
-<!ENTITY error.decode "وڈیو چلائی نہیں جا سکتی کیونکہ مسل خراب ہے۔">
+
 <!ENTITY error.srcNotSupported "وڈیو وضع کاری یا MIME قسم معاونت شدہ نہیں۔">
 <!ENTITY error.noSource2 "معاونت شدہ وضع اور MIME قسم کی کوئی وڈیو نہیں ملی۔">
 <!ENTITY error.generic "وڈیو پلے بیک نامعلوم نقص کی وجی سے ساقط کر دیا گیا۔">

@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "تازہ کاریوں کے لیے کبھی بھی یہ چیک کریں (تجویز کردہ نہیں: سلامتی خطرہ)">
 <!ENTITY updateManual.accesskey          "ک">
 
-<!ENTITY updateAutoAddonWarn.label       "اگر یہ میرے کوئی بھی ایڈ اون نا اہل بنائے گا تو مجھے متنبہ کریں">
-<!ENTITY updateAutoAddonWarn.accesskey   "م">
-
 <!ENTITY updateHistory.label             "تازہ کاری تاریخ دکھائیں">
 <!ENTITY updateHistory.accesskey         "ت">
 
