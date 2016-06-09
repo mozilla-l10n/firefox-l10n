@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "स्वागत अछि!">
-<!ENTITY  onboard_start_message3 "&brandShortName; सँ ब्राउज करू">
-<!ENTITY  onboard_start_subtext3 "अपन मोबाइल वेब ब्राउज़िंग अनुभव वास्तव मे स्वयं अपना लेल बनाबू.">
 
 <!ENTITY firstrun_urlbar_message " &brandShortName; मे स्वागत अछि!">
 
@@ -20,19 +18,25 @@
 
 
 <!ENTITY  onboard_start_button_browser "हँसपद ब्राउजिंग">
+
 <!ENTITY firstrun_button_next "आगाँ">
 
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
 <!ENTITY  onboard_start_restricted1 "सुरक्षित आओर &brandShortName; केर ई सरल संस्करण केर नियंत्रण मे रहू. ">
-
-
-
-
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "पुस्तकचिह्न">
 <!ENTITY  history_title "इतिहास">
-
 <!ENTITY  recent_tabs_title "हालिया टैब">
 
 <!ENTITY  switch_to_tab "टैबमे जाउ">
@@ -66,6 +70,9 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
 
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -167,7 +174,9 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 
-
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 
 
@@ -212,7 +221,9 @@
 <!ENTITY pref_cookies_accept_all "सक्रिय">
 <!ENTITY pref_cookies_not_accept_foreign "सक्षम, तेसर पक्ष छोड़कर">
 <!ENTITY pref_cookies_disabled "निष्क्रिय">
-
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 
 
@@ -264,7 +275,10 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -394,12 +408,12 @@ size. -->
 <!ENTITY share_image_failed "ई छवि केँ साझा करए मे असमर्थ">
 <!ENTITY save_as_pdf "बतौर पीडीएफ़ सहेजू">
 <!ENTITY print "छापू">
-<!ENTITY find_in_page "पृष्ठ मे ताकू">
-<!ENTITY desktop_mode "डेस्कटाप साइटक लेल आग्रह करू">
+
+
 <!ENTITY page "पृष्ठ">
 <!ENTITY tools "अओजार">
-<!ENTITY new_tab "नव टैब">
-<!ENTITY new_private_tab "नव निज टैब">
+
+
 <!ENTITY close_all_tabs "सभटा टैब बन्न करू">
 <!ENTITY close_private_tabs "निज टैब बन्न करू">
 
@@ -409,8 +423,6 @@ size. -->
 <!ENTITY set_image_chooser_title "बिंब एहि रूपमे सेट करू">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "पृष्ठ मे खोजू">
 <!ENTITY find_prev "पाछाँ">
 <!ENTITY find_next "आगाँ">
 <!ENTITY find_close "बन्न करू">
@@ -508,6 +520,7 @@ size. -->
 <!ENTITY home_history_title "इतिहास">
 
 
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 
 <!ENTITY home_clear_history_button "ब्राउजिंग इतिहास साफ करू">
 <!ENTITY home_clear_history_confirm "की अहाँ सुनिश्चित छी जे अहाँ अपन इतिहासकेँ साफ कएनाइ चाहैत अछि?">
@@ -724,6 +737,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+
+
+
 
 
 
