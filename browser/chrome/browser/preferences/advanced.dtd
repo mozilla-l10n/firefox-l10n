@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Verificar pas jamai las mesas a jorn (desconselhat, aquò representa un risc de seguretat)">
 <!ENTITY updateManual.accesskey          "V">
 
-<!ENTITY updateAutoAddonWarn.label       "M'alertar s'aquò desactiva de moduls">
-<!ENTITY updateAutoAddonWarn.accesskey   "a">
-
 <!ENTITY updateHistory.label             "Afichar l'istoric de las mesas a jorn">
 <!ENTITY updateHistory.accesskey         "h">
 

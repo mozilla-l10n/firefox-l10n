@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Moduls compatibles trobats">
 <!ENTITY  found.top.label                 "Seleccionatz los moduls que desiratz installar :">
-<!ENTITY  found.disabledXPinstall.label   "Aquestas mesas a jorn pòdon pas èsser installadas perque l'installacion de logicials es actualament desactivada. Podètz cambiar aqueste paramètre çaijós.">
+
 <!ENTITY  found.enableXPInstall.label     "Autorizar los sites Web a installar de logicials">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 

@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Dobrir las preferénciias del &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Se reconnectar a &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verificatz vòstre compte">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activat">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; començarà la sincronizacion dins un momenton.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Reduire">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Autres marcapaginas">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afichar mai de marcapaginas">
 
+
+
+
+
 <!ENTITY backCmd.label                "Pagina precedenta">
 <!ENTITY backButton.tooltip           "Recuolar d'una pagina">
 <!ENTITY forwardCmd.label             "Pagina seguenta">
@@ -225,6 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Autres marcapaginas">
 <!ENTITY viewBookmarksSidebar2.label        "Afichar la barra laterala d'onglets">
 <!ENTITY viewBookmarksToolbar.label         "Afichar la barra personala">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -259,14 +262,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 
 
-<!ENTITY userContextPersonal.label        "Personal">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Trabalh">
-<!ENTITY userContextWork.accesskey        "T">
-<!ENTITY userContextBanking.label         "Banca">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Crompas">
-<!ENTITY userContextShopping.accesskey    "s">
 <!ENTITY newNavigatorCmd.label        "Fenèstra novèla">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -551,19 +546,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "u">
 <!ENTITY mediaUnmute.label           "Ausible">
 <!ENTITY mediaUnmute.accesskey       "u">
-<!ENTITY mediaPlaybackRate.label     "Velocitat de lectura">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Alentit (×0,5)">
-<!ENTITY mediaPlaybackRate050x.accesskey "n">
-<!ENTITY mediaPlaybackRate100x.label "Velocitat Normala">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Velocitat Nauta (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "N">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Velocitat desmesurada (×2)">
-<!ENTITY mediaPlaybackRate200x.accesskey "l">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

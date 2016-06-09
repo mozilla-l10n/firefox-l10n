@@ -8,7 +8,7 @@
 
 <!ENTITY aboutWarningTitle.label "Atencion, dangièr !">
 <!ENTITY aboutWarningText.label "La modificacion d'aquestas preferéncias avançadas pòt èsser damatjable per l'estabilitat, la seguretat e las performàncias d'aquesta aplicacion. Contunhetz que se sabètz çò que fasètz.">
-<!ENTITY aboutWarningButton.label "Farai atencion, o promèti !">
+
 <!ENTITY aboutWarningCheckbox.label "Afichar aqueste avertiment lo còp que ven">
 
 <!ENTITY searchPrefs.label "Recercar...">

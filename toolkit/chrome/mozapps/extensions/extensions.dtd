@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Cargament...">
-<!ENTITY listEmpty.installed.label            "Avètz pas cap de modul d'aqueste tipe d'installat">
+
 <!ENTITY listEmpty.availableUpdates.label     "Cap de mesa a jorn pas trobada">
-<!ENTITY listEmpty.recentUpdates.label        "Avètz pas mes a jorn vòstres moduls complementaris dempuèi un cèrtan temps">
+
 <!ENTITY listEmpty.findUpdates.label          "Recèrca las mesas a jorn">
 <!ENTITY listEmpty.search.label               "Pas cap de modul correspondent">
 <!ENTITY listEmpty.button.label               "N'aprene mai suls moduls complementaris">
@@ -107,9 +107,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Suprimir">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
 <!ENTITY cmd.showPreferencesWin.label         "Opcions">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Modificar las opcions d'aqueste modul complementari">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Preferéncias">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Modificar las preferéncias d'aqueste modul complementari">
+
 <!ENTITY cmd.contribute.label                 "Contribuir">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuir al desvolopament d'aqueste modul complementari">
@@ -124,7 +124,7 @@
 
 <!ENTITY discover.title                       "De qué son los moduls complementaris ?">
 <!ENTITY discover.description2                "Los moduls complementaris son d'aplicacions que permeton de personalizar &brandShortName; amb de foncionalitats o d'estils suplementaris. Ganhatz de temps amb un panèl lateral, susvelhatz la metèo o cambiatz l'aparéncia de &brandShortName; coma vos agrada.">
-<!ENTITY discover.footer                      "Quand vòstra connexion Internet serà activa, aqueste panèl vos permetrà de descobrir certans dels melhors moduls complementaris e tanben los mai populars.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Version">
@@ -137,11 +137,11 @@
 
 <!ENTITY detail.updateType                    "Mesas a jorn automaticas">
 <!ENTITY detail.updateDefault.label           "Per defaut">
-<!ENTITY detail.updateDefault.tooltip         "Installar pas las mesas a jorn automaticament que se s'agís del reglatge per defaut">
+
 <!ENTITY detail.updateAutomatic.label         "Activadas">
 <!ENTITY detail.updateAutomatic.tooltip       "Installar automaticament las mesas a jorn">
 <!ENTITY detail.updateManual.label            "Desactivadas">
-<!ENTITY detail.updateManual.tooltip          "Installa pas automaticament las mesas a jorn">
+
 <!ENTITY detail.home                          "Pagina d'acuèlh">
 <!ENTITY detail.repository                    "Perfil del modul">
 <!ENTITY detail.size                          "Talha">
@@ -151,10 +151,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Verificar se de mesas a jorn son disponiblas per aqueste modul">
 <!ENTITY detail.showPreferencesWin.label      "Opcions">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Modificar las opcions d'aqueste modul">
+
 <!ENTITY detail.showPreferencesUnix.label     "Preferéncias">
 <!ENTITY detail.showPreferencesUnix.accesskey "r">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Modificar las preferéncias d'aqueste modul">
+
 <!-- ratings -->
 
 
@@ -223,8 +223,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Qu'es aquò ? La telemetria pòt installar e aviar d'experimentacions de temps en temps.">
 <!ENTITY experiment.info.learnmore "N'aprendre mai">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Paramètres de Telemetria">
