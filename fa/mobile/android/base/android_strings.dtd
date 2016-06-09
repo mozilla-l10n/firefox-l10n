@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "خوش آمدید">
-<!ENTITY  onboard_start_message3 "مرور با &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "تجربۀ مرور وب در موبایل را مختص خود کنید.">
 
 <!ENTITY firstrun_urlbar_message "به &brandShortName; خوش‌آمدید">
 <!ENTITY firstrun_urlbar_subtext "با میانبرهای پیشنهادی جست‌و‌جو سریعتر پیدا کنید.">
@@ -20,20 +18,29 @@
 <!ENTITY firstrun_signin_message "وصل شوید،‌شروع کنید">
 <!ENTITY firstrun_signin_button "برای همگام‌سازی وارد شوید">
 <!ENTITY  onboard_start_button_browser "شروع وب‌گردی">
+<!ENTITY firstrun_button_notnow "هم‌اکنون نه">
 <!ENTITY firstrun_button_next "بعدی">
 
-<!ENTITY  onboard_start_restricted1 "با این نسخۀ ساده شده از &brandShortName; امن بمانید و زندگی آنلاین خود را در دستان خود بگیرید.">
+<!ENTITY firstrun_tabqueue_title "پیوندها">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "روشن کردن صف زبانه‌ها">
+<!ENTITY firstrun_tabqueue_subtext_off "ذخیره پیوندها برای آینده در &brandShortName; هنگام ضربه زدن به آنها در برنامه‌های دیگر.">
 
-<!ENTITY  reading_list_migration_title "فهرست مطالعه متصل شد">
-<!ENTITY  reading_list_migration_subtext "موارد فهرست مطالعه شما هم‌اکنون به نشانک های شما اضافه شد">
-<!ENTITY  reading_list_migration_goto_bookmarks "رفتن به نشانک‌ها">
-<!ENTITY  reading_list_migration_bookmarks_hidden "پنل نشانک های شما مخفی است">
+<!ENTITY firstrun_tabqueue_message_on "با موفقیت انجام شد!">
+<!ENTITY firstrun_tabqueue_subtext_on "همیشه می‌توانید این امکان را در &settings; تحت عنوان &pref_category_general; خاموش کنید.">
+
+<!ENTITY firstrun_readerview_title "مقالات">
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
+<!ENTITY  onboard_start_restricted1 "با این نسخۀ ساده شده از &brandShortName; امن بمانید و زندگی آنلاین خود را در دستان خود بگیرید.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "نشانک‌ها">
 <!ENTITY  history_title "تاریخچه">
-<!ENTITY  reading_list_title "لیست خواندن">
 <!ENTITY  recent_tabs_title "زبانه‌های اخیر">
 
 <!ENTITY  switch_to_tab "پرش به زبانه">
@@ -68,7 +75,10 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "عکس صفحه">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "لیست خواندن">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
 
 <!ENTITY reader_saved_offline "ذخیره به صورت آفلاین">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +184,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "نکته: هر وب سایتی را با فشردن طولانی بر روی فیلد جستجو و تپ بر روی شمایل &formatI; به فهرست تامین کننده‌های جستجو اضافه کنید.">
 <!ENTITY pref_category_advanced "پیشرفته">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "بازآوری زبانه‌ها، ذخیره‌کننده اطلاعات، ابزارهای توسعه">
 <!ENTITY pref_category_notifications "اعلان‌ها">
 <!ENTITY pref_category_notifications_summary "ویژیگی‌های جدید، بروزرسانی های پایگاه وب">
@@ -224,6 +237,9 @@
 <!ENTITY pref_cookies_accept_all "فعال شد">
 <!ENTITY pref_cookies_not_accept_foreign "فعال شده، بدون شخص ثالث">
 <!ENTITY pref_cookies_disabled "غیرفعال شد">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_data_saver "صرفه‌جویی‌کننده اطلاعات">
 <!ENTITY pref_category_media "رسانه">
@@ -287,7 +303,10 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; پایگاه‌های وب بروزرسانی شدند">
-<!ENTITY content_notification_action_settings "تنظیمات اعلان‌ها">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -421,12 +440,12 @@ size. -->
 <!ENTITY share_image_failed "نمی‌تواند این تصویر را به اشتراک بگذارد">
 <!ENTITY save_as_pdf "ذخیره به صورت PDF">
 <!ENTITY print "چاپ">
-<!ENTITY find_in_page "پیدا کردن در صفحه">
-<!ENTITY desktop_mode "درخواست وب‌سایت دسکتاپ">
+
+
 <!ENTITY page "صفحه">
 <!ENTITY tools "ابزارها">
-<!ENTITY new_tab "زبانهٔ جدید">
-<!ENTITY new_private_tab "زبانه‌ی خصوصی جدید">
+
+
 <!ENTITY close_all_tabs "بستن همه‌ی زبانه‌ها">
 <!ENTITY close_private_tabs "بستن زبانه‌های خصوصی">
 <!ENTITY tabs_normal "زبانه‌ها">
@@ -436,8 +455,6 @@ size. -->
 <!ENTITY set_image_chooser_title "تنظیم تصویر به عنوان">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "پیدا کردن در صفحه">
 <!ENTITY find_prev "قبلی">
 <!ENTITY find_next "بعدی">
 <!ENTITY find_close "بستن">
@@ -538,6 +555,7 @@ size. -->
 <!ENTITY home_history_title "تاریخچه">
 <!ENTITY home_synced_devices_smartfolder "دستگاه‌های همگام‌ شده">
 <!ENTITY home_synced_devices_number "&formatD; دستگاه‌ها">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_history_back_to2 "بازگشت به تاریخچه کامل">
 <!ENTITY home_clear_history_button "پاک کردن تاریخچه مرور">
 <!ENTITY home_clear_history_confirm "آیا مطمئن هستید می‌خواهید تاریخچه مرور خود را پاک کنید؟">
@@ -776,4 +794,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "مطالعه آفلاین">
 <!ENTITY helper_first_offline_bookmark_message "پیدا کردن موارد حالت مشاهده مطالعه در نشانک‌ها ، حتی آفلاین.">
-<!ENTITY helper_first_offline_bookmark_button "رفتن به نشانک‌ها">
+
+
+
+
+

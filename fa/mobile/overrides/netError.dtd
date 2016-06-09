@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "بلوکه شده بنا بر سیاست امنیتی محتوا">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; از بارگذاری این صفحه به این شکل جلوگیری کرد، زیرا که صفحه محتوایی دارد که سیاست امنیتی مانع آن می‌شود</p>">
 
-<!ENTITY corruptedContentError.title "خطای خرابی محتوا">
-<!ENTITY corruptedContentError.longDesc "<p>صفحه‌ای که تلاش می‌کنید ببینید به دلیل وجود یک خطا در انتقال داده، نمی‌تواند نمایش داده شود.</p><ul><li> لطفا با مسئولین سایت تماس بگیرید و آنها را از این مشکل مطلع سازید.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "خطای خرابی محتوا">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>صفحه‌ای که تلاش می‌کنید ببینید به دلیل وجود یک خطا در انتقال داده، نمی‌تواند نمایش داده شود.</p><ul><li> لطفا با مسئولین سایت تماس بگیرید و آنها را از این مشکل مطلع سازید.</li></ul>">
 
 <!ENTITY securityOverride.linkText "یا می‌توانید یک استثنا اضافه کنید…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ترک این مکان!">
