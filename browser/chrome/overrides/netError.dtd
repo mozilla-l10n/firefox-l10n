@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "S'ha blocau por a politica de seguranza de conteniu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha privau que a pachina se cargue d'ista traza porque tiene una politica de seguranza de conteniu que no lo permite.</p>">
 
-<!ENTITY corruptedContentError.title "Error en o conteniu d'a pachina">
-<!ENTITY corruptedContentError.longDesc "<p>A pachina que ye mirando de veyer no se puede amostrar porque s'ha produciu una error en a transmisión d'os datos.</p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Error en o conteniu d'a pachina">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>A pachina que ye mirando de veyer no se puede amostrar porque s'ha produciu una error en a transmisión d'os datos.</p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Adhibir una excepción…">
@@ -107,12 +107,19 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Abanzau">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> fa servir una tecnolochía de seguridat obsoleta y vulnerable a a ataques. Un atacant podría veyer facilment la información que atrament pensarías que ye segura.">
 <!ENTITY weakCryptoAdvanced.override "(Inseguro) Mira de cargar <span class='hostname'></span> con a seguridat obsoleta">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+
+<!ENTITY certerror.wrongSystemTime "<p>No ye posible una connexión segura a <span id='wrongSystemTime_URL'/> ya que lo suyo reloch pareixe amostrar un tiempo incorrecto.</p> <p>Lo suyo ordinador piensa que ye <span id='wrongSystemTime_systemDate'/>, quan habría d'estar <span id='wrongSystemTime_actualDate'/>. Pa fixar iste problema, cambie los achustes de calendata y hora pa que correspondan a lo tiempo correcto.</p>">
 
 <!ENTITY certerror.pagetitle1  "Connexión insegura">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Iste puesto fa servir HTTP Strict Transport Security (HSTS) pa especificar que &brandShortName; nomás se connecte ta ell de traza segura. A resultas d'isto, no ye posible anyader una excepción a lo certificau.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Iste puesto fa servir HTTP Strict Transport Security (HSTS) pa especificar que &brandShortName; nomás se pueda connectar a ell de traza segura. A resultas d'isto, no ye posible anyader una excepción a iste certificau.">
 <!ENTITY certerror.copyToClipboard.label "Copiar lo texto en lo portafuellas">
 
 <!ENTITY inadequateSecurityError.title "La connexion no ye pas segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> fa servir technolochía de seguranza que ye obsoleta y vulnerable debant d'un ataque. Un acatant podría revelar información que vusté creyeba segura. L'administrador d'o puesto web habrá de fixar lo servidor antes que vusté pueda vesitar lo puesto.</p><p>Codigo d'error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY prefReset.longDesc "Pareix que los suyos achustes de seguranza de ret sigan la causa d'isto. Quiere restaurar los achustes por defecto?">
+<!ENTITY prefReset.label "Restaurar los achustes por defecto">
