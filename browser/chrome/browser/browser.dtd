@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Wedi gosod Nod Tudalen yn Ddiweddar">
 <!ENTITY otherBookmarksCmd.label "Nodau Tudalen Eraill">
 <!ENTITY bookmarksToolbarChevron.tooltip "Dangos pob ffolder nod tudalen">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Dangos Nodau Tudalen Ddiweddar">
+<!ENTITY showRecentlyBookmarked.accesskey "D">
+<!ENTITY hideRecentlyBookmarked.label     "Cuddio Nodau Tudalen Ddiweddar">
+<!ENTITY hideRecentlyBookmarked.accesskey "C">
 
 <!ENTITY backCmd.label                "Nôl">
 <!ENTITY backButton.tooltip           "Nôl un tudalen">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Gweld Bar Offer Nodau Tudalen">
 <!ENTITY viewBookmarksToolbar.label         "Gweld Bar Offer Nodau Tudalen">
 
+<!ENTITY containersMenu.label "Cynwysyddion">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -555,8 +556,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Dad-dewi">
 <!ENTITY mediaUnmute.accesskey       "a">
-
-
+<!ENTITY mediaPlaybackRate2.label     "Cyflymder Chwarae">
+<!ENTITY mediaPlaybackRate2.accesskey "y">
 
 
 
@@ -661,7 +662,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "T">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Canfod yn y Dudalen…">
+<!ENTITY findOnCmd.label     "Canfod ar y Dudalen…">
 <!ENTITY findOnCmd.accesskey "a">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Canfod Eto">
