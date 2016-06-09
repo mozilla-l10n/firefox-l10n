@@ -7,7 +7,7 @@
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName;  Vebijêrk, bijare û nasnameyên te yên di posteyê de tomar dike.">
-<!ENTITY profileCreationExplanation_2.text  "Heke kopyeya &brandShortName; 'ê bi bikarhênerên din re bikar bînî, ji bo tomarkirina agahiyên her bikarhênerê, dikarî profîlên cuda bikar bînî. Ji bo vê divê her bikarhênerek profîla xwe ya taybet biafirîne.">
+
 <!ENTITY profileCreationExplanation_3.text  "Heke tenê tu kopyeya &brandShortName; 'ê bikar bînî divê herî kêm profîlekê biafirînî. Ji bo cureyên mîhengan ên cuda, dikarî ji profîlekê zêdetir profîlek biafirînî.">
 <!ENTITY profileCreationExplanation_4.text  "Ji bo afirandina profîlekê bişkoja 'Bidomîne' bitikîne.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Ji bo afirandina profîlê Bidomîne bitikîne.">

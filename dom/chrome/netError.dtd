@@ -8,7 +8,7 @@
 
 
 <!ENTITY connectionFailure.title "Girêdan Bi Ser Neket">
-<!ENTITY connectionFailure.longDesc "<p>Her çiqas malper çalak xuya dibe jî gerok nikare girêdanekê çêke.</p><ul><li>Gelo weşana malperê ji bo demekê hatiye rawestandin? Dû re dîsa biceribîne.</li><li>Dikarî wan malperên din vekî? Girêdana torê ya komputera xwe kontrol bike.</li><li>Komputer an jî nivîsbariya te ji hêla Firewall an jî proxyekê ve tê parastin? Mîhengên çewt dikarin pirsgirêkan derxin pêşberî gerokê.</li></ul>">
+
 
 <!ENTITY deniedPortAccess.title "Portê Ji Ber Sedemên Ewlekariyê Asteng Kir">
 <!ENTITY deniedPortAccess.longDesc "<p>Navnîşana ku dixwazî vekî portekê destnîşan kir (e.g. <q>mozilla.org:80</q> port 80 li ser mozilla.org) ji 
@@ -37,15 +37,10 @@ armancên <em>din</em> pirtir ji bo gerîna di webê de hatiye bikaranîn. Ji bo
 ji bo pirsgirêkan kontrol bike û dîsa biceribîne.</p>">
 
 <!ENTITY netInterrupt.title "Şandina Daneyan Hat Qutkirin">
-<!ENTITY netInterrupt.longDesc "<p>Gerokê girêdanê çêkir lê girêdan 
-di dema şandina agahiyan de qut bû. Ji kerema xwe re dîsa biceribîne.</p> 
-<ul> 
-<li>Dikarî wan malperên din vekî? Girêdana torê ya komputera xwe kontrol bike.</li> 
-<li>Hê jî pirsgirêk heye? Ji bo alîkariyê serî li rêvebira xwe ya torê an jî peydekara xwe ya Internetê bide.</li> 
-</ul>">
+
 
 <!ENTITY notCached.title "Dema belgeyê derbas bû">
-<!ENTITY notCached.longDesc "<p>Belgeya hatî xwestin di pêşbîra gerokê de tune ye. </p><ul><li>Wekî rêgiriya bo ewlekariyê, geroka te belgeyên bihîstyar xweber ji nû ve naxwaze.</li><li>Ji bo ku ji malperê daxwaza belgeyê bikî bişkoka Dîsa biceribîne bitikîne.</li></ul>">
+
 
 <!ENTITY netOffline.title "Moda Negirêdayî">
 <!ENTITY netOffline.longDesc2 "<p>Gerok niha di moda negirêdayî de ye û nikare xwe bigihîne hêmana xwestî.</p><ul><li>Girêdana kompîterê bi toreke çalak re heye?</li><li>Ji bo ku derbasî moda girêdayî bibî û rûpelê dîsa bar bikî &quot;Dîsa Biceribîne&quot;yê btikîne.</li></ul>">
@@ -60,36 +55,19 @@ di dema şandina agahiyan de qut bû. Ji kerema xwe re dîsa biceribîne.</p>
 <!ENTITY netReset.longDesc "<p>Dema girêdan baş bû girêdana torê qut bû. Ji kerema xwe re dîsa biceribîne.</p>">
 
 <!ENTITY netTimeout.title "Dem Têrê Nekir">
-<!ENTITY netTimeout.longDesc "<p>Malperê bersiv neda girêdanê û gerok dema li benda dûberekirinê bû hat sekinandin.</p> 
-<ul> 
-<li>Dibe ku pêşkêşkarê daxwaza bilind nedîtibe an jî çewtiyeke demdemî hebe. Ji kerema xwe re Dû re dîsa biceribîne.</li> 
-<li>Dikarî wan malperên din vekî? Girêdana torê ya komputera xwe kontrol bike.</li> 
-<li>Komputer an jî nivîsbariya te ji hêla Firewall an jî proxyekê ve tê parastin? Mîhengên çewt dikarin pirsgirêkan derxin pêşberî gerokê.</li> 
-<li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li> 
-</ul>">
+
 
 <!ENTITY unknownProtocolFound.title "Protokola Nayê Zanîn">
 <!ENTITY unknownProtocolFound.longDesc "<p>Navnîşan ji bo protokolekê ye (e.g. <q>wxyz://</q>) gerok  wê nas nake, ji ber vê yekê gerok nikare vê malperê veke.</p> <ul>  <li>Dixwazî têkevî multimediayekê an jî servîseke din ku ne deq e? Malperê ji bo pêdiviyên wisa kontrol bike.</li>  <li>Hinek protokol, berî gerokê, nivîsbarî an jî pêvekên partiya çaremîn dixwazin.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Pêşkêşkara Proxyê Girêdanê Red Kir">
-<!ENTITY proxyConnectFailure.longDesc "<p>Gerok wekî ku proxyekê bi kar bîne hatiye mîhenkirin, lê proxyê girêdanekê red kir.</p> 
-<ul> 
-<li>Mîhengên proxya gerokê rast in? Mîhengan kontrol bike û dîsa biceribîne.</li> 
-<li>Gelo servîsa proxyê destûrê dide girêdanên vê torê?</li> 
-<li>Hê jî pirsgirêk heye? Ji bo alîkariyê serî li rêvebira xwe ya torê an jî peydekara xwe ya Internetê bide.</li> 
-</ul>">
+
 
 <!ENTITY proxyResolveFailure.title "Pêşkêşkara Proxyê Nayê Dîtin">
-<!ENTITY proxyResolveFailure.longDesc "<p>Gerok wekî ku proxyekê bi kar bîne hatiye mîhenkirin, lê proxyê nehat dîtin.</p><ul><li>Mîhengên proxya gerokê rast in? Mîhengan kontrol bike û dîsa biceribîne.</li><li>Gelo komputer bi toreke çalak ve girêdayî ye?</li><li>Hê jî pirsgirêk heye? Ji bo alîkariyê serî li rêvebira xwe ya torê an jî peydekara xwe ya Internetê bide.</li></ul>">
+
 
 <!ENTITY redirectLoop.title "Girêdana Nerasterast">
-<!ENTITY redirectLoop.longDesc "<p>Gerokê ceribandina şûnde anîna parçeyê sekinand. Girêdana malperê 
-bi awayekî ku dê qet neqede, nerasterast tê xwestin.</p> 
-<ul> 
-<li>Gelo te çerezên ku ev malper dixwaze asteng kirine?</li> 
-<li><em>Na</em>: Heke çerezên ku ev malper dixwaze nehatibin astenkirin, nexwe ev pirsgirêk ji mîhengên pêşkêşkara te ye, 
-ne ji komputera te ye.</li> 
-</ul>">
+
 
 <!ENTITY unknownSocketType.title "Bersiva Nerast">
 <!ENTITY unknownSocketType.longDesc "<p>Malperê da zanîn ku daxwaza torê nedihat hêvîkirin û gerok 
@@ -99,15 +77,15 @@ nikare bidomîne.</p>">
 <!ENTITY nssFailure2.longDesc2 "<p>Ji ber ku cureyê şidandinê ê nederbasdar an jî bêdestek bi kar tînî, rûpela ku dixwazî vekî, nayê nîşandan.</p><ul><li>Bi xwediyê malperê re têkeve têkiliyê an jî ji pêşeka alîkariyê zêdetir agahî bixwîne.</li></ul>">
 
 <!ENTITY nssBadCert.title "Girêdana Ewle Têk Çû">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Dibe ku ev çewtî ji ber mîhengên pêşkêşkar be an jî hin kes dikin ku pêşkêşkarê taklît bikin.</li> <li>Heke  di demên borî de te bi awayekî serkeftî bi vê pêşkêşkarê re girêdan çêkiribe, dibe ku ev çewtî demdemî bin û tu dikarî dû re dîsa biceribînî.</li> </ul>">
+
 
 
 
 <!ENTITY cspBlocked.title "Ji hêla Peymana Ewlekariya Naverokê ve hate astenkirin">
 <!ENTITY cspBlocked.longDesc "<p>Ji ber ku di vê r»pelê de naverokeke peymana ewlekariyê ew asteng dike heye, gerokê di dema barkirina bi vî awayî de ev rûpel asteng kir.</p>">
 
-<!ENTITY corruptedContentError.title "Çewtiya Naveroka Şikestî">
-<!ENTITY corruptedContentError.longDesc "<p>Ji ber ku di guhestina daneyan de çewtiyek hat dîtin ev rûpel nayê nîşandan.</p><ul><li>Xwediyên malperê derbarê vê arîşeyê de agahdar bike.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Çewtiya Naveroka Şikestî">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ji ber ku di guhestina daneyan de çewtiyek hat dîtin ev rûpel nayê nîşandan.</p><ul><li>Xwediyên malperê derbarê vê arîşeyê de agahdar bike.</li></ul>">
 
 <!ENTITY remoteXUL.title "XULa dûr">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tika ye ji bo çareserkirina vê pirsgirêkê bi xwediyê malperê re bikeve têkiliyê.</li></ul></p>">
