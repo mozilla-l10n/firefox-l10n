@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY toolbar.searchPlaceholder     "Search">
+<!ENTITY toolbar.searchPlaceholder     "Jénode">
 
-<!ENTITY newPref.namePlaceholder       "Name">
+<!ENTITY newPref.namePlaceholder       "Mámekɨ">
 
 <!ENTITY newPref.valueBoolean          "Boolean">
-<!ENTITY newPref.valueString           "String">
-<!ENTITY newPref.valueInteger          "Integer">
+<!ENTITY newPref.valueString           "Igaɨ">
+<!ENTITY newPref.valueInteger          "Nána">
 
-<!ENTITY newPref.stringPlaceholder     "Enter a string">
-<!ENTITY newPref.numberPlaceholder     "Enter a number">
+<!ENTITY newPref.stringPlaceholder     "Igaɨ yújude">
+<!ENTITY newPref.numberPlaceholder     "Fákara yújude">
 
-<!ENTITY newPref.toggleButton          "Toggle">
-<!ENTITY newPref.cancelButton          "Cancel">
+<!ENTITY newPref.toggleButton          "Méidote">
+<!ENTITY newPref.cancelButton          "Fúitade">
 
-<!ENTITY contextMenu.copyPrefName      "Copy Name">
-<!ENTITY contextMenu.copyPrefValue     "Copy Value">
+<!ENTITY contextMenu.copyPrefName      "Mámekɨ fákadote">
+<!ENTITY contextMenu.copyPrefValue     "Ráifide fákadote">
