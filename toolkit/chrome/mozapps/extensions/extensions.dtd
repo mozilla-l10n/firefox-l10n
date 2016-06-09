@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "लोड कर रहा है…">
-<!ENTITY listEmpty.installed.label            "आपके इस प्रकार की कोई सहयुक्तियाँ संस्थापित नहीं हैं">
+
 <!ENTITY listEmpty.availableUpdates.label     "कोई अद्यतन नहीं मिला">
-<!ENTITY listEmpty.recentUpdates.label        "आपने हाल में कोई सहयुक्तियाँ अद्यतन नहीं की हैं">
+
 <!ENTITY listEmpty.findUpdates.label          "अद्यतन के लिए जाँचें">
 <!ENTITY listEmpty.search.label               "कोई मेल खाती सहयुक्तियाँ नहीं ढूँढ़ सका">
 <!ENTITY listEmpty.button.label               "सहयुक्तियाँ के बारे में अधिक जानें">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "हटाएँ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "विकल्प">
-<!ENTITY cmd.showPreferencesWin.tooltip       "इस सहयुक्ति के विकल्पों को बदलें">
+
 <!ENTITY cmd.showPreferencesUnix.label        "वरीयताएँ">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "इस सहयुक्ति की वरीयताएँ बदलें">
+
 <!ENTITY cmd.contribute.label                 "योगदान करें">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "इस सहयुक्ति के विकास में अपना योगदान दें">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "सहयुक्तियाँ क्या हैं?">
 <!ENTITY discover.description2                "सहयुक्तियाँ ऐसे अनुप्रयोग हैं जो आपको &brandShortName; को अतिरिक्त प्रकार्यात्मकता या शैली से व्यक्तिगत रूचि के अनुसार ढालने में मदद करते हैं. समय बचाने वाली बाजूपट्टी, मौसम सूचक या एक ऐसे प्रसंग जो आपका अपना &brandShortName; बनाने वाले प्रसंग आजमाएँ.">
-<!ENTITY discover.footer                      "जब आप इंटरनेट से कनेक्टेड होते हैं, यह पट्टी आपके लिए सबसे बेहतरीन और लोकप्रिय सहयुक्तियाँ प्रस्तुत करता है जिसे आप आजमा सकें.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "संस्करण">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "स्वचालित अद्यतन">
 <!ENTITY detail.updateDefault.label           "तयशुदा">
-<!ENTITY detail.updateDefault.tooltip         "स्वतः अद्यतन संस्थापित करता है यदि वह तयशुदा है">
+
 <!ENTITY detail.updateAutomatic.label         "चालू">
 <!ENTITY detail.updateAutomatic.tooltip       "स्वतः अद्यतन संस्थापित करता है">
 <!ENTITY detail.updateManual.label            "बंद">
-<!ENTITY detail.updateManual.tooltip          "स्वतः अद्यतनों को संस्थापित मत करें">
+
 <!ENTITY detail.home                          "होमपेज">
 <!ENTITY detail.repository                    "सहयुक्ति प्रोफ़ाइल">
 <!ENTITY detail.size                          "आकार">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "इस सहयुक्ति के लिए अद्यतन के लिए जाँच करें">
 <!ENTITY detail.showPreferencesWin.label      "विकल्प">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "इस सहयुक्ति विकल्प को बदलें">
+
 <!ENTITY detail.showPreferencesUnix.label     "वरीयताएँ">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "इस सहयुक्ति वरीयताएँ को बदलें">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "यह क्या है? टेलिमित संस्थापित हो सकता है और समय समय पर प्रयोग चला सकता है.">
 <!ENTITY experiment.info.learnmore "और जानें">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "टेलिमिति सेटिंग">
