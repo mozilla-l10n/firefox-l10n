@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Ocorreu um problema ao carregar a página">
-<!ENTITY retry.label "Voltar a tentar">
+<!ENTITY retry.label "Tentar novamente">
 <!ENTITY returnToPreviousPage.label "Retroceder">
 <!ENTITY advanced.label "Avançado">
 <!-- Specific error messages -->
