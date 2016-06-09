@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Informacije rješavanja problema">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Ova stranica sadrži tehničke informacije koje vam mogu biti korisne kada pokušavate riješiti problem. Ako tražite odgovore na česta pitanja o &brandShortName;u, posjetite našu <a id='supportLink'>web stranicu podrške</a>.">
-
 <!ENTITY aboutSupport.crashes.title "Izvještaji o rušenju">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -52,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Zauzeće memorije">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registrirani service workeri">
@@ -85,6 +84,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Inkrementalni GC">
 
@@ -104,6 +106,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Pokušaj siguran način rada">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ponovno pokreni s isključenim dodacima…">
+
+
+
 
 
 

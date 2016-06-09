@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Otvori &syncBrand.shortName.label; postavke">
 <!ENTITY fxaSignInError.label "Ponovno povezivanje na &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Potvrdite vaš račun">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; omogućen">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; će ubrzo započeti sa sinkronizacijom.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Smanji">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži više zabilješki">
 
+
+
+
+
 <!ENTITY backCmd.label                "Natrag">
 <!ENTITY backButton.tooltip           "Natrag za jednu stranicu">
 <!ENTITY forwardCmd.label             "Naprijed">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewBookmarksSidebar2.label        "Prikaži okno zabilješki">
 <!ENTITY viewBookmarksToolbar.label         "Prikaži traku zabilješki">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Nova sadržajna kartica">
 <!ENTITY newUserContext.accesskey         "d">
-<!ENTITY userContextPersonal.label        "Osobno">
-<!ENTITY userContextPersonal.accesskey    "O">
-<!ENTITY userContextWork.label            "Posao">
-<!ENTITY userContextWork.accesskey        "P">
-<!ENTITY userContextBanking.label         "Bankarstvo">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Kupovina">
-<!ENTITY userContextShopping.accesskey    "K">
 <!ENTITY newNavigatorCmd.label        "Novi prozor">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -559,19 +554,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "U">
 <!ENTITY mediaUnmute.label           "Odtišaj">
 <!ENTITY mediaUnmute.accesskey       "O">
-<!ENTITY mediaPlaybackRate.label     "Brzina reprodukcije">
-<!ENTITY mediaPlaybackRate.accesskey "r">
-<!ENTITY mediaPlaybackRate050x.label "Usporeno (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "s">
-<!ENTITY mediaPlaybackRate100x.label "Normalna brzina">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Ubrzano (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "U">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Suludo ubrzano (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "l">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -680,7 +678,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Sigurna veza">
 <!ENTITY identity.connectionNotSecure "Veza nije sigurna">
 <!ENTITY identity.connectionFile "Ova stranica je spremljena na vaše računalo.">
-<!ENTITY identity.connectionVerified1 "Sigurno ste povezani na ovu stranicu, koju pokreće:">
+
 <!ENTITY identity.connectionInternal "Ovo je sigurna &brandShortName; stranica.">
 <!ENTITY identity.insecureLoginForms2 "Prijave na ovoj stranici mogu biti kompromitirane.">
 <!-- Strings for connection state warnings. -->

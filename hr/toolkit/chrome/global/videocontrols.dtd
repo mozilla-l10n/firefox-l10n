@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Učitavanje videa zaustavljeno.">
 <!ENTITY error.network "Reprodukcija videa je otkazana zbog mrežne greške.">
-<!ENTITY error.decode "Video nije moguće reproducirati jer je datoteka oštećena.">
+
 <!ENTITY error.srcNotSupported "Video format ili MIME vrsta nisu podržani.">
 <!ENTITY error.noSource2 "Nije pronađen video s podržanim formatom ili MIME vrstom.">
 <!ENTITY error.generic "Reprodukcija videa je otkazana zbog nepoznate greške.">
