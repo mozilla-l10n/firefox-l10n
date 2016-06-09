@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "No cerquis mai actualitzacions (poc recomanable pel risc de seguretat que comporta)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Avisa'm si això faria que s'inhabilités algun dels meus complements">
-<!ENTITY updateAutoAddonWarn.accesskey   "v">
-
 <!ENTITY updateHistory.label             "Mostra l'historial d'actualitzacions">
 <!ENTITY updateHistory.accesskey         "h">
 

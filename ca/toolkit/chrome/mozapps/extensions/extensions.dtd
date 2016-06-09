@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "S'està carregant…">
-<!ENTITY listEmpty.installed.label            "No teniu instal·lat cap complement d'aquest tipus">
+
 <!ENTITY listEmpty.availableUpdates.label     "No s'ha trobat cap actualització">
-<!ENTITY listEmpty.recentUpdates.label        "No heu actualitzat recentment cap complement">
+
 <!ENTITY listEmpty.findUpdates.label          "Cerca actualitzacions">
 <!ENTITY listEmpty.search.label               "No s'ha pogut trobar cap complement que hi coincideixi">
 <!ENTITY listEmpty.button.label               "Més informació dels complements">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Suprimeix">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Opcions">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Canvia les opcions del complement">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Preferències">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Canvia les preferències del complement">
+
 <!ENTITY cmd.contribute.label                 "Col·labora-hi">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Col·labora en el desenvolupament del complement">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Què són els complements?">
 <!ENTITY discover.description2                "Els complements són aplicacions que us permeten personalitzar el &brandShortName; amb una funcionalitat o estil addicional. Proveu una barra lateral per estalviar temps, un servei meteorològic o un tema perquè el &brandShortName; sembli més personal.">
-<!ENTITY discover.footer                      "Quan estigueu connectat a Internet, des d'aquesta subfinestra es mostraran alguns dels millors i més populars complements que podeu provar.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Versió">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Actualitzacions automàtiques">
 <!ENTITY detail.updateDefault.label           "Per defecte">
-<!ENTITY detail.updateDefault.tooltip         "Instal·la automàticament les actualitzacions només si és el comportament per defecte">
+
 <!ENTITY detail.updateAutomatic.label         "Activades">
 <!ENTITY detail.updateAutomatic.tooltip       "Instal·la actualitzacions automàticament">
 <!ENTITY detail.updateManual.label            "Desactivades">
-<!ENTITY detail.updateManual.tooltip          "No instal·lis actualitzacions automàticament">
+
 <!ENTITY detail.home                          "Pàgina d'inici">
 <!ENTITY detail.repository                    "Perfil del complement">
 <!ENTITY detail.size                          "Mida">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Cerca actualitzacions d'aquest complement">
 <!ENTITY detail.showPreferencesWin.label      "Opcions">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Canvia les opcions del complement">
+
 <!ENTITY detail.showPreferencesUnix.label     "Preferències">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Canvia les preferències del complement">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Què és això? De tant en tant, la telemesura pot instal·lar i executar experiments.">
 <!ENTITY experiment.info.learnmore "Més informació">
 <!ENTITY experiment.info.learnmore.accesskey "M">
 <!ENTITY experiment.info.changetelemetry "Paràmetres de la telemesura">

@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Obre les preferències del &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Torna a connectar al &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verifiqueu el compte">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activat">
-<!ENTITY syncStartPanel2.subTitle "El &brandShortName; iniciarà la sincronització d'aquí a uns instants.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimitza">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Altres adreces d'interès">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostra més adreces d'interès">
 
+
+
+
+
 <!ENTITY backCmd.label                "Enrere">
 <!ENTITY backButton.tooltip           "Vés una pàgina enrere">
 <!ENTITY forwardCmd.label             "Endavant">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Altres adreces d'interès">
 <!ENTITY viewBookmarksSidebar2.label        "Mostra la barra lateral de les adreces d'interès">
 <!ENTITY viewBookmarksToolbar.label         "Mostra la barra de les adreces d'interès">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Pestanya de contenidor nova">
 <!ENTITY newUserContext.accesskey         "c">
-<!ENTITY userContextPersonal.label        "Personal">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Feina">
-<!ENTITY userContextWork.accesskey        "F">
-<!ENTITY userContextBanking.label         "Banca">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Compres">
-<!ENTITY userContextShopping.accesskey    "s">
 <!ENTITY newNavigatorCmd.label        "Finestra nova">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "e">
 <!ENTITY mediaUnmute.label           "Amb so">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate.label     "Velocitat de reproducció">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Càmera lenta (×0,5)">
-<!ENTITY mediaPlaybackRate050x.accesskey "l">
-<!ENTITY mediaPlaybackRate100x.label "Velocitat normal">
-<!ENTITY mediaPlaybackRate100x.accesskey "n">
-<!ENTITY mediaPlaybackRate150x.label "Alta velocitat (×1,5)">
-<!ENTITY mediaPlaybackRate150x.accesskey "A">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Màxima velocitat (×2)">
-<!ENTITY mediaPlaybackRate200x.accesskey "M">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Connexió segura">
 <!ENTITY identity.connectionNotSecure "La connexió no és segura">
 <!ENTITY identity.connectionFile "Aquesta pàgina està desada a l'ordinador.">
-<!ENTITY identity.connectionVerified1 "Esteu connectat de forma segura a aquest lloc, mantingut per:">
+
 <!ENTITY identity.connectionInternal "Aquesta és una pàgina del &brandShortName; segura.">
 <!ENTITY identity.insecureLoginForms2 "Les dades d'inici de sessió que introduïu en aquesta pàgina podrien estar en risc.">
 <!-- Strings for connection state warnings. -->
