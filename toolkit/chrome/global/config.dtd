@@ -8,7 +8,7 @@
 
 <!ENTITY aboutWarningTitle.label "Acest lucru v-ar putea invalida garanția!">
 <!ENTITY aboutWarningText.label "Schimbarea valorilor acestor setări avansate poate dăuna stabilității, securității și performanței aplicației. Ar trebui să continuați doar dacă știți ce faceți.">
-<!ENTITY aboutWarningButton.label "Voi avea grijă, promit!">
+
 <!ENTITY aboutWarningCheckbox.label "Arată această avertizare data viitoare">
 
 <!ENTITY searchPrefs.label "Căutare:">

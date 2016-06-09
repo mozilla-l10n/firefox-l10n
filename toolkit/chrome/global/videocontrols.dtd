@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Încărcarea clipului a fost oprită.">
 <!ENTITY error.network "Redarea clipului a fost abandonată datorită unei erori de rețea.">
-<!ENTITY error.decode "Clipul nu poate fi redat fiindcă fișierul este corupt.">
+
 <!ENTITY error.srcNotSupported "Formatul clipului sau tipul său MIME nu este suportat.">
 <!ENTITY error.noSource2 "Nu s-a găsit niciun clip cu format sau tip MIME suportat.">
 <!ENTITY error.generic "Redarea clipului a fost abandonată datorită unei erori necunoscute.">
