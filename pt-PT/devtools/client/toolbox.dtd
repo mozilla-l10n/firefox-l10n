@@ -202,7 +202,7 @@
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Fechar automaticamente parêntesis retos">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Inserir automaticamente os parêntesis retos de fecho">
 <!ENTITY options.sourceeditor.expandtab.label           "Indentar usando espaços">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "Utilizar espaços em vez do carácter de tabulação">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Utilizar espaços em vez do caratere de tabulação">
 <!ENTITY options.sourceeditor.tabsize.label             "Tamanho da tabulação">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Combinações de teclas">
