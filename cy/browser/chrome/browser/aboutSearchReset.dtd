@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchreset.tabtitle       "Adfer Gosodiadau Chwilio">
+
+<!ENTITY searchreset.pageTitle      "Adfer eich gosodiadau chwilio?">
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
