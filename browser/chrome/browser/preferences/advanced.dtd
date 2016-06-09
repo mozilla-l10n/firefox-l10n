@@ -82,9 +82,6 @@
 <!ENTITY updateManual.label              "இற்றைப்படுத்தல்களுக்காக பரிசோதிக்கவேண்டும். (பரிந்துரைக்கப்படவில்லை: ஆபத்தானது)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "இது என் செருகல்கள் எதையேனும் முடக்கும் எனில் எச்சரிக்கை செய்க">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "இற்றைப்படுத்தல் வரலாற்றைக் காட்டுக">
 <!ENTITY updateHistory.accesskey         "p">
 
