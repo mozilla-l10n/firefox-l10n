@@ -38,6 +38,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 
 
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
@@ -52,6 +53,12 @@ variant of aboutSupport.showDir.label. -->
 
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+
+
+
+
+
 
 
 

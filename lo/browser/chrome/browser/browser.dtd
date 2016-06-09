@@ -107,8 +107,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
 <!ENTITY fullScreenMinimize.tooltip "ເຮັດໃຫ້ນ້ອຍລົງ">
 <!ENTITY fullScreenRestore.tooltip "ກູ້ຄືນ">
 
@@ -164,6 +162,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "ສະແດງບຸກມາກເພີມເຕີມ">
 
+
+
+
+
 <!ENTITY backButton.tooltip           "ກັບກັບໄປໜ້າກ່ອນໜ້ານີ້">
 
 <!ENTITY forwardButton.tooltip        "ໄປໜ້າຖັດໄປ">
@@ -211,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksToolbar.label         "ເບິງແຖບເຄື່ອງມືບຸກມາກ">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -242,14 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ໄຟລ໌"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY newNavigatorCmd.label        "ຫນ້າຕ່າງໃຫມ່">
@@ -530,9 +525,13 @@ items are mutually exclusive. -->
 
 
 
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+
+
 
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
