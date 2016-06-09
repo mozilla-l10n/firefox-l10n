@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Yeniləmələri heç vaxt yoxlama (tövsiyyə edilmir: təhlükəsizlik riski)">
 <!ENTITY updateManual.accesskey          "h">
 
-<!ENTITY updateAutoAddonWarn.label       "Bu əməliyyat, əlavələrdən birini söndürəcəksə mənə bildir">
-<!ENTITY updateAutoAddonWarn.accesskey   "m">
-
 <!ENTITY updateHistory.label             "Yeniləmə Tarixçəsini Göstər">
 <!ENTITY updateHistory.accesskey         "n">
 

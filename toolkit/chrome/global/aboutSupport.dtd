@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Problem həll etmə məlumatları">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Bu səhifə, bir problemi həll etməyə çalışarkən işinizə yaraya biləcək texniki məlumatlara malikdir. &brandShortName; haqqında ümumi suallarla bağlı cavab axtarırsınızsa <a id='supportLink'>dəstək saytımıza</a> baxın.">
-
 <!ENTITY aboutSupport.crashes.title "Çökmə Məlumatları">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -52,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "İstifadəçi Vəkli">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "Yaddaş istifadəsi">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Qeyd Olunmuş Service Worker-lar">
@@ -85,6 +84,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Təchizat məlumatlar">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Əlavə GC">
 
@@ -104,6 +106,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Təhlükəsiz Modu Yoxlayın">
 <!ENTITY aboutSupport.restartInSafeMode.label "Əlavələr sönülü olaraq yenidən başlat…">
+
+
+
 
 
 

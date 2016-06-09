@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Video yükləmə dayandırıldı.">
 <!ENTITY error.network "Bir şəbəkə səhvi səbəbi ilə video göstərilməsi ləğv edildi.">
-<!ENTITY error.decode "Fayl korlandığı üçün video göstərilə bilmir.">
+
 <!ENTITY error.srcNotSupported "Video formatı və ya MIME formatı dəstəklənmir.">
 <!ENTITY error.noSource2 "Dəstəklənən formatlarda və ya MIME formatlarında video tapılmadı.">
 <!ENTITY error.generic "Naməlum bir səhv səbəbi ilə video göstərilməsi ləğv edildi.">

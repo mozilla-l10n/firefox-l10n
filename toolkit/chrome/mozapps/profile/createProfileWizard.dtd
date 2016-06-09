@@ -7,7 +7,7 @@
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; nizamlarınızı, favoritlərinizi və oxşar seçimlərinizi hesabınızda saxlayır.">
-<!ENTITY profileCreationExplanation_2.text  "&brandShortName; brauzerini başqalarıyla ortaq işlədirsinizsə, hər istifadəçinin məlumatlarını ayrı-ayrı saxlamaq üçün fərqli hesablar yarada bilərsiniz.">
+
 <!ENTITY profileCreationExplanation_3.text  "&brandShortName; brauzerini istifadə edirsinizsə ən azından bir hesaba sahib olmağınız lazımdır. Sizi maraqlandıran fərqli ayarları birdən çox hesabda saxlaya bilərsiniz. Məsələn iş üçün ayrı, ev üçün ayrı hesab yarada bilərsiniz.">
 <!ENTITY profileCreationExplanation_4.text  "Hesab yaratmaq üçün 'İrəli' düyməsinə basın.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Hesab yaratmaq üçün Davam düyməsinə basın.">

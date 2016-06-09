@@ -80,8 +80,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Məzmun təhlükəsizlik qaydaları xəbərdar etdiyi üçün bloklandı">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu səhifənin bu üsulla yüklənməsinin qarşısını aldı, çünki, səhifədə olan fayllardan birinin təhlükəsizlik siyasəti bunu qadağan edir.</p>">
 
-<!ENTITY corruptedContentError.title "Zədəli Məzmun Xətası">
-<!ENTITY corruptedContentError.longDesc "<p>Baxmaq istədiyiniz səhifə açıla bilmir, çünki fayl ötürülməsi zamanı bir xəta baş verdi.</p><ul><li>Lütfən sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Zədəli Məzmun Xətası">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Baxmaq istədiyiniz səhifə açıla bilmir, çünki fayl ötürülməsi zamanı bir xəta baş verdi.</p><ul><li>Lütfən sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "İstisnalıq ver…">
@@ -104,6 +104,8 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Təkmilləşmiş">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> vaxtı keçmiş güvənlik texnologiyasını işlədir və hücumlara qarşı qorumasızdır. Hücum edən sizin güvənilir bildiyiniz məlumatı rahatlıqla ala bilər.">
 <!ENTITY weakCryptoAdvanced.override "(Qorumalı deyil) <span class='hostname'></span> üçün köhnə qoruma ilə yenidən yükləməyi yoxla">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Qorumasız Bağlantı">
 
@@ -112,3 +114,5 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "Bağlantınız qorumalı deyil">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
