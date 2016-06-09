@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "आपका &brandShortName; का समय समाप्त हो गया है, लेकिन नवीनतम संस्करण आपके तंत्र पर समर्थित नहीं है. अपने तंत्र को उन्नत करें, फिर कोशिश करें. आप इस सूचना को फिर नहीं देख पाएँगे, लेकिन आप">
 <!ENTITY  unsupportedLink.label           "अधिक जान सकते हैं.">
 
-<!ENTITY  incompatibleCheck.title         "सहयुक्ति सुसंगता जाँच रहा है">
-<!ENTITY  incompatibleCheck.label         "आपके सहयुक्तियों के नए संस्करण के लिए देख रहा है…">
-
 <!ENTITY  clickHere.label                 "इस अद्यतन के बारे में अधिक सूचना देखें">
 
 <!ENTITY  evangelism.desc                 "इसकी अनुशंसा की जाती है कि आप इस अद्यतन को &brandShortName; के लिए यथाशीघ्र लागू करें.">
-
-<!ENTITY  license.instructions            "अगर आप इस मसौदे से सहमत हैं, नीचे मैं सहमत हूं पर क्लिक करें इस अद्यतन के संस्थापन जारी रखने के लिये.">
-
-<!ENTITY  license.titleText               "सॉफ्टवेयर लाइसेंस मसौदा">
-<!ENTITY  license.introText               "Terms and conditions for using this software.">
-<!ENTITY  license.instructionText         "कृपया निम्नलिखित लाइसेंस अनुबंध पढ़ें. स्क्रॉव बार को प्रयोग करें इस अनुबंध के शेष को देखने के लिए.">
-<!ENTITY  license.accept                  "मैं लाइसेंस अनुबंध की शर्त स्वीकार करता हूं">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "मैं लाइसेंस अनुबंध की शर्त स्वीकार नहीं करता हूं">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "असंगत सहयुक्तियाँ मिलीं">
 
 <!ENTITY  downloadPage.title              "&brandShortName; डाउनलोड कर रहा है">
 <!ENTITY  downloading.intro               "यह अद्यतन डाउनलोड कर रहा है…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "इस अद्यतन को अगली बार तब संस्थापित किया जाएगा जब &brandShortName; आरंभ होता है. आप &brandShortName; को अब फिर आरंभ कर सकते हैं, या काम करना जारी रखकर बाद में फिर आरंभ कर सकते हैं.">
 
-<!ENTITY  installed.title                 "अद्यतन संस्थापित किया गया">
-<!ENTITY  installed.intro                 "यह अद्यतन सफलतापूर्वक संस्थापित किया गया था.">
-<!ENTITY  whatsnew.label                  "नई चीजों के बारे में अधिक जानने के लिए पढ़ें…">
 
 <!ENTITY  update.details.label            "विवरण">
 <!ENTITY  update.installedOn.label        "इस पर संस्थापित:">

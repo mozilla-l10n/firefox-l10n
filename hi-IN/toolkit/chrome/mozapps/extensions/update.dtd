@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "सुसंगत सहयुक्ति पाया">
 <!ENTITY  found.top.label                 "उन सहयुक्ति को चुनें जिसे आप संस्थापित करना चाहते हैं:">
-<!ENTITY  found.disabledXPinstall.label   "इन अद्यतन को संस्थापित नहीं किया जा सकता है क्योंकि सॉफ्टवेयर संस्थापन अभी निष्क्रिय है. आप इस सेटिंग को नीचे बदल सकते हैं.">
+
 <!ENTITY  found.enableXPInstall.label     "वेबसाइट को सॉफ्टवेयर संस्थापन की अनुमति दें">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 

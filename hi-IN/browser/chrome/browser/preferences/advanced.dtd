@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "अद्यतन के लिए कभी मत जाँचें (अनुशंसित नहीं: सुरक्षा जोखिम)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "मुझे चताएँ यदि यह किसी सहयुक्ति को निष्क्रिय करता है">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "अद्यतन इतिहास दिखाएँ">
 <!ENTITY updateHistory.accesskey         "p">
 
