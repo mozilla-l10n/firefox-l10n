@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Deschide preferințele &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectare la &syncBrand.shortName.label;">
 
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activată">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; va începe sincronizarea din clipă în clipă.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizează">
@@ -171,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe semne de carte">
 
+
+
+
+
 <!ENTITY backCmd.label                "Înapoi">
 <!ENTITY backButton.tooltip           "Mergi cu o pagină înapoi">
 <!ENTITY forwardCmd.label             "Înainte">
@@ -224,6 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewBookmarksSidebar2.label        "Arată bara cu semne de carte">
 <!ENTITY viewBookmarksToolbar.label         "Arată bara cu semne de carte">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -256,14 +259,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fișier"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-<!ENTITY userContextPersonal.label        "Personal">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Serviciu">
-<!ENTITY userContextWork.accesskey        "S">
-
-
 
 
 <!ENTITY newNavigatorCmd.label        "Fereastră nouă">
@@ -555,19 +550,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "n">
 <!ENTITY mediaUnmute.label           "Activează sunetul">
 <!ENTITY mediaUnmute.accesskey       "n">
-<!ENTITY mediaPlaybackRate.label     "Viteză redare">
-<!ENTITY mediaPlaybackRate.accesskey "V">
-<!ENTITY mediaPlaybackRate050x.label "Încetinire (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "i">
-<!ENTITY mediaPlaybackRate100x.label "Viteză normală">
-<!ENTITY mediaPlaybackRate100x.accesskey "n">
-<!ENTITY mediaPlaybackRate150x.label "Viteză mare (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "V">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Viteză foarte mare (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "V">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -676,7 +674,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Conexiune securizată">
 <!ENTITY identity.connectionNotSecure "Conexiunea nu este securizată">
 <!ENTITY identity.connectionFile "Această pagină este stocată pe calculator.">
-<!ENTITY identity.connectionVerified1 "Ești conectat în mod securizat la acest site aparținând:">
+
 <!ENTITY identity.connectionInternal "Aceasta este o pagină securizată &brandShortName;.">
 
 <!-- Strings for connection state warnings. -->
