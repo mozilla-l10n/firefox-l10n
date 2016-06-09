@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "ย่อให้พอดีกระดาษ">
 <!ENTITY customPrompt.title   "มาตราส่วนที่กำหนดเอง…">
 
+
+
+
 <!ENTITY homearrow.tooltip    "หน้าแรก">
 <!ENTITY endarrow.tooltip     "หน้าสุดท้าย">
 <!ENTITY nextarrow.tooltip    "หน้าถัดไป">

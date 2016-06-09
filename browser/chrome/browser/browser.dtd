@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "เปิดการตั้งค่า &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "เชื่อมต่อ &syncBrand.shortName.label; ใหม่">
 <!ENTITY fxaUnverified.label "ยืนยันความถูกต้องของบัญชี">
-<!ENTITY syncStartPanel2.heading "เปิดใช้งาน &syncBrand.shortName.label; แล้ว">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; จะเริ่มการซิงค์ในไม่ช้า">
 
 
 <!ENTITY fullScreenMinimize.tooltip "ย่อหาย">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "ที่คั่นหน้าอื่น ๆ">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าอื่น ๆ ด้วย">
 
+
+
+
+
 <!ENTITY backCmd.label                "ย้อนกลับ">
 <!ENTITY backButton.tooltip           "ย้อนกลับไปหนึ่งหน้า">
 <!ENTITY forwardCmd.label             "ถัดไป">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "ที่คั่นหน้าอื่น ๆ">
 <!ENTITY viewBookmarksSidebar2.label        "ดูแถบข้างที่คั่นหน้า">
 <!ENTITY viewBookmarksToolbar.label         "ดูแถบเครื่องมือที่คั่นหน้า">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "ฟ">
 <!ENTITY newUserContext.label             "แท็บคอนเทนเนอร์ใหม่">
 <!ENTITY newUserContext.accesskey         "ค">
-<!ENTITY userContextPersonal.label        "ส่วนบุคคล">
-<!ENTITY userContextPersonal.accesskey    "ส">
-<!ENTITY userContextWork.label            "การทำงาน">
-<!ENTITY userContextWork.accesskey        "ท">
-<!ENTITY userContextBanking.label         "การธนาคาร">
-<!ENTITY userContextBanking.accesskey     "ธ">
-<!ENTITY userContextShopping.label        "การจับจ่าย">
-<!ENTITY userContextShopping.accesskey    "จ">
 <!ENTITY newNavigatorCmd.label        "หน้าต่างใหม่">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ม">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "ป">
 <!ENTITY mediaUnmute.label           "เปิดเสียง">
 <!ENTITY mediaUnmute.accesskey       "ด">
-<!ENTITY mediaPlaybackRate.label     "ความเร็วในการเล่น">
-<!ENTITY mediaPlaybackRate.accesskey "ร">
-<!ENTITY mediaPlaybackRate050x.label "ภาพเคลื่อนไหวช้า (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "ช">
-<!ENTITY mediaPlaybackRate100x.label "ความเร็วปกติ">
-<!ENTITY mediaPlaybackRate100x.accesskey "ป">
-<!ENTITY mediaPlaybackRate150x.label "ความเร็วสูง (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "ส">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "ความเร็วจนน่าหัวเราะ (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "น">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "การเชื่อมต่อปลอดภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่นิรภัย">
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บบนคอมพิวเตอร์ของคุณ">
-<!ENTITY identity.connectionVerified1 "คุณกำลังเชื่อมต่อไปยังเว็บไซต์นี้อย่างปลอดภัย ดำเนินงานโดย:">
+
 <!ENTITY identity.connectionInternal "นี้คือหน้า &brandShortName; ที่ปลอดภัย">
 
 <!-- Strings for connection state warnings. -->

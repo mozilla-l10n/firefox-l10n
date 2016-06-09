@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "พบส่วนเสริมที่เข้ากันได้">
 <!ENTITY  found.top.label                 "เลือกส่วนเสริมที่คุณต้องการติดตั้ง :">
-<!ENTITY  found.disabledXPinstall.label   "ไม่สามารถติดตั้งรายการปรับรุ่นเหล่านี้ เนื่องจากการติดตั้งโปรแกรมถูกปิดการใช้งาน คุณสามารถเปลี่ยนการตั้งค่าได้ด้านล่าง">
+
 <!ENTITY  found.enableXPInstall.label     "ยอมให้เว็บไซต์ติดตั้งโปรแกรมได้">
 <!ENTITY  found.enableXPInstall.accesskey "ย">
 
