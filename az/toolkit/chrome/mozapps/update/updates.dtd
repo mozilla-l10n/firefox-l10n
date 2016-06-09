@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Sizin &brandShortName; səyyahınız köhnəlib, amma son versiya sizin sistem tərəfindən dəstəklənmir. Sisteminizi yüksəldib bir daha yoxlayın. Bir daha bu xəbərdarlığı görməyəcəksiz, ">
 <!ENTITY  unsupportedLink.label           "daha ətraflı öyrənin.">
 
-<!ENTITY  incompatibleCheck.title         "Əlavələrin uyğunluq yoxlaması">
-<!ENTITY  incompatibleCheck.label         "Əlavələrinizin yeni versiyaları axtarılır…">
-
 <!ENTITY  clickHere.label                 "Bu yeniləmə haqqındaki məlumatları göstər">
 
 <!ENTITY  evangelism.desc                 "&brandShortName; proqramına aid bu yeniləməni qısa zamanda qurmağınız şiddətlə tövsiyyə edilir.">
-
-<!ENTITY  license.instructions            "Bu şərtləri qəbul edirsinizsə Qəbul edirəm düyməsinə basın ve yeniləməyə davam edin.">
-
-<!ENTITY  license.titleText               "Proqram lisenziya müqaviləsi">
-<!ENTITY  license.introText               "Bu proqramın istifadə qaydaları və şərtləri.">
-<!ENTITY  license.instructionText         "Lütfən  aşağıdakı lisenziya müqaviləsini oxuyun. Müqavilənin davamını görmək üçün sürüşdürmə çubuğundan istifadə edin.">
-<!ENTITY  license.accept                  "Lisenziya müqaviləsinin şərtlərini qəbul edirəm">
-<!ENTITY  license.accept.accesskey        "k">
-<!ENTITY  license.decline                 "Lisenziya müqaviləsinin şərtlərini qəbul ETMİRƏM">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Uyğun olmayan əlavələr tapıldı">
 
 <!ENTITY  downloadPage.title              "&brandShortName; yüklənir">
 <!ENTITY  downloading.intro               "Aşağıdakı yeniləmələr quruldu:">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Yeniləmə &brandShortName; yenidən başladılanda quraşdırılacaq. &brandShortName; səyyahını indi və ya işinizə davam edib, daha sonra da yenidən başlada bilərsiniz.">
 
-<!ENTITY  installed.title                 "Yeniləmə faylları quraşdırıldı">
-<!ENTITY  installed.intro                 "Yeniləmə uğurla quraşdırıldı.">
-<!ENTITY  whatsnew.label                  "Yenilikləri oxu…">
 
 <!ENTITY  update.details.label            "Ətraflı məlumat">
 <!ENTITY  update.installedOn.label        "Quraşdırma tarixi:">

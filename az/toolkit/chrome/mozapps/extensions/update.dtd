@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Uyğun əlavə tapıldı">
 <!ENTITY  found.top.label                 "Quraşdırmaq istədiyiniz əlavəni seçin:">
-<!ENTITY  found.disabledXPinstall.label   "Bu yeniləmələr qurula bilməz, çünki proqram quraşdırılması indi söndürülüb. Bu seçimi aşağıdan dəyişə bilərsiniz.">
+
 <!ENTITY  found.enableXPInstall.label     "Saytların proqram yükləməsinə icazə ver">
 <!ENTITY  found.enableXPInstall.accesskey "y">
 
