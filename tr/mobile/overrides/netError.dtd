@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "İçerik güvenliği ilkesi uyarınca engellendi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
 
-<!ENTITY corruptedContentError.title "Hasarlı İçerik Hatası">
-<!ENTITY corruptedContentError.longDesc "<p>Veri aktarımında bir sorun tespit edildiği için görüntülemeye çalıştığınız sayfa gösterilemiyor.</p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Hasarlı İçerik Hatası">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Veri aktarımında bir sorun tespit edildiği için görüntülemeye çalıştığınız sayfa gösterilemiyor.</p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
 
 <!ENTITY securityOverride.linkText "İsterseniz ayrıcalık tanıyın…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Beni buradan kurtar!">
