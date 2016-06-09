@@ -22,18 +22,6 @@
 
 
 
-
-
-
-<!ENTITY  license.titleText               "Tumelano ya Laesense ya Serweboleta">
-<!ENTITY  license.introText               "Mabaka le dipeelo tsa go dirisa serweboleta seno.">
-<!ENTITY  license.instructionText         "Tsweetswee buisa tumelano e e latelang ya laesense. Dirisa baratshutiso go leba tumelano eno yotlhe.">
-
-
-
-
-
-
 <!ENTITY  downloading.intro               "E kopolola ntšhwafatso…">
 <!ENTITY  connecting.label                "E golagana le dikgatlhong tsa ntšhwafatso…">
 
@@ -55,9 +43,6 @@
 <!ENTITY  finishedBackground.name         "Ntšhwafatsa:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 
-<!ENTITY  installed.title                 "Ntšhwafatso e Tlhomilwe">
-<!ENTITY  installed.intro                 "Ntšhwafatso e tlhomilwe ka katlego.">
-<!ENTITY  whatsnew.label                  "Buisa tse dingwe ka ga tse dintšhwa…">
 
 <!ENTITY  update.details.label            "Dintlha">
 <!ENTITY  update.installedOn.label        "Tlhomilwe mo:">

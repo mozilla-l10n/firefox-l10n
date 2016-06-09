@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Bula &syncBrand.shortName.label; dikgethwa">
 <!ENTITY fxaSignInError.label "Golaganya-gape le &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Netefatsa Akhaonto ya gago">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; kgontshitswe">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; go tla simolodisiwa thulaganyo ka tsamaisano mo motsotsong.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Ngotla">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Supa matshwaotsebe a le mantsi">
 
+
+
+
+
 <!ENTITY backCmd.label                "Morago">
 <!ENTITY backButton.tooltip           "Boela morago tsebe e le nngwe">
 <!ENTITY forwardCmd.label             "Fetisa">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewBookmarksSidebar2.label        "&amp;Leba Matshwaotsebe a Barathoko">
 <!ENTITY viewBookmarksToolbar.label         "&amp;Leba Matshwaotsebe a Bara ya didiriswa">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Thebe ya Seduti e Ntšha">
 <!ENTITY newUserContext.accesskey         "T">
-<!ENTITY userContextPersonal.label        "Ka namana">
-<!ENTITY userContextPersonal.accesskey    "K">
-<!ENTITY userContextWork.label            "Tiro">
-<!ENTITY userContextWork.accesskey        "T">
-<!ENTITY userContextBanking.label         "Polokelo ya tsa madi">
-<!ENTITY userContextBanking.accesskey     "P">
-<!ENTITY userContextShopping.label        "Theko">
-<!ENTITY userContextShopping.accesskey    "T">
 <!ENTITY newNavigatorCmd.label        "Window e Ntšha">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "W">
@@ -558,19 +553,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "D">
 <!ENTITY mediaUnmute.label           "Sedidimatse">
 <!ENTITY mediaUnmute.accesskey       "d">
-<!ENTITY mediaPlaybackRate.label     "Lebelo la Tshameko">
-<!ENTITY mediaPlaybackRate.accesskey "s">
-<!ENTITY mediaPlaybackRate050x.label "Motsamao o Bonya (0.5x)">
-<!ENTITY mediaPlaybackRate050x.accesskey "M">
-<!ENTITY mediaPlaybackRate100x.label "Lebelo la Tlwaelo">
-<!ENTITY mediaPlaybackRate100x.accesskey "L">
-<!ENTITY mediaPlaybackRate150x.label "Lebelo le le kwa Godimo (1.5x)">
-<!ENTITY mediaPlaybackRate150x.accesskey "L">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+<!ENTITY mediaPlaybackRate100x2.label "Tlwaelegileng">
+<!ENTITY mediaPlaybackRate100x2.accesskey "T">
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Lebelo le le Maswe (2x)">
-<!ENTITY mediaPlaybackRate200x.accesskey "L">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

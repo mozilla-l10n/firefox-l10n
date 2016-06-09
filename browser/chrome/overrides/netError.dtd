@@ -60,8 +60,8 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;thibetse tsebe e go tsenya ka tsela e ntseng jaana ka gore tsebe e na le pholisi ya diteng pabalesego e sa e letleleleng.</p>">
 
-<!ENTITY corruptedContentError.title "Phoso ya Diteng e Senyegileng">
-<!ENTITY corruptedContentError.longDesc "<p> Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore phoso mo phetiso tshedimosetso e lemogilwe.</p><ul><li>Tswêê-tswêê i tshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Phoso ya Diteng e Senyegileng">
+<!ENTITY corruptedContentErrorv2.longDesc "<p> Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore phoso mo phetiso tshedimosetso e lemogilwe.</p><ul><li>Tswêê-tswêê i tshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Tsenya tse di ntshitsweng...">
@@ -79,9 +79,13 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Maemogadi">
 
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
