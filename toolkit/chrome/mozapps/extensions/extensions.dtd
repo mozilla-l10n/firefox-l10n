@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Llwytho…">
-<!ENTITY listEmpty.installed.label            "Nid oes gennych ychwanegion o'r math yma wedi eu gosod">
+
 <!ENTITY listEmpty.availableUpdates.label     "Heb ganfod diweddariadau">
-<!ENTITY listEmpty.recentUpdates.label        "Nid ydych wedi diweddaru eich ychwanegion yn ddiweddar">
+
 <!ENTITY listEmpty.findUpdates.label          "Gwirio am Ddiweddariadau">
 <!ENTITY listEmpty.search.label               "Methu canfod ychwanegion o'r un math">
 <!ENTITY listEmpty.button.label               "Dysgu rhagor am ychwanegion">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Tynnu">
 <!ENTITY cmd.uninstallAddon.accesskey         "T">
 <!ENTITY cmd.showPreferencesWin.label         "Dewisiadau">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Newid dewisiadau'r ychwanegyn">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Dewisiadau">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Newid dewisiadau'r ychwanegyn">
+
 <!ENTITY cmd.contribute.label                 "Cyfrannu">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Cyfrannu i ddatblygiad yr ychwanegyn">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Beth yw Ychwanegion?">
 <!ENTITY discover.description2                "Mae Ychwanegion yn raglenni sy'n caniatáu i chi bersenoleiddio &brandShortName; gyda swyddogaethau neu steil ychwanegol. Defnyddiwch y bar ochr, hysbysydd tywydd, neu thema i'ch gwneud yn gysurus gyda &brandShortName;.">
-<!ENTITY discover.footer                      "Pan fyddwch wedi cysylltu â'r rhyngrwyd, bydd y paen yn cynnwys rhai o'r ychwanegion gorau a mwyaf poblogaidd i chi eu dewis.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Fersiwn">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Diweddariadau Awtomatig">
 <!ENTITY detail.updateDefault.label           "Rhagosodedig">
-<!ENTITY detail.updateDefault.tooltip         "Gosod diweddariadau'n awtomatig os mai dyna yw'r rhagosodedig">
+
 <!ENTITY detail.updateAutomatic.label         "Ymlaen">
 <!ENTITY detail.updateAutomatic.tooltip       "Gosod diweddariadau'n awtomatig">
 <!ENTITY detail.updateManual.label            "Diffodd">
-<!ENTITY detail.updateManual.tooltip          "Peidio gosod diweddariadau'n awtomatig">
+
 <!ENTITY detail.home                          "Tudalen Cartref">
 <!ENTITY detail.repository                    "Proffil Ychwanegyn">
 <!ENTITY detail.size                          "Maint">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Gwirio am ddiweddariad i'r ychwanegyn">
 <!ENTITY detail.showPreferencesWin.label      "Dewisiadau">
 <!ENTITY detail.showPreferencesWin.accesskey  "D">
-<!ENTITY detail.showPreferencesWin.tooltip    "Newid dewisiadau'r ychwanegyn">
+
 <!ENTITY detail.showPreferencesUnix.label     "Dewisiadau">
 <!ENTITY detail.showPreferencesUnix.accesskey "e">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Newid dewisiadau'r ychwanegyn">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Beth yw hyn? Mae Telemetreg yn gallu gosod a rhedeg arbrofion o bryd i'w gilydd.">
 <!ENTITY experiment.info.learnmore "Dysgu Rhagor">
 <!ENTITY experiment.info.learnmore.accesskey "D">
 <!ENTITY experiment.info.changetelemetry "Gosodiadau Telemetreg">

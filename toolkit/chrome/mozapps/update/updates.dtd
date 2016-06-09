@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Mae eich &brandShortName; yn hen, ond nid yw'r fersiwn diweddaraf yncael ei gynnal ar eich system. Diweddarwch eich system, yna ceisiwch eto. Fyddwch chi ddim yn gweld y rhybudd yma eto, ond mae modd i chi">
 <!ENTITY  unsupportedLink.label           "ddysgu rhagor.">
 
-<!ENTITY  incompatibleCheck.title         "Gwirio fod Ychwanegyn yn Cydweddu">
-<!ENTITY  incompatibleCheck.label         "Chwilio am fersiwn mwy diweddar o'ch ychwanegion…">
-
 <!ENTITY  clickHere.label                 "Darllen mwy am y diweddariad">
 
 <!ENTITY  evangelism.desc                 "Argymhellir yn gryf eich bod yn diweddaru &brandShortName; gynted ag y bo modd.">
-
-<!ENTITY  license.instructions            "Os ydych yn cytuno ag amodau'r cytundeb, cliciwch Cytuno isod i barhau i osod y diweddariad.">
-
-<!ENTITY  license.titleText               "Cytundeb Trwydded Meddalwedd">
-<!ENTITY  license.introText               "Amodau defnyddio'r feddalwedd.">
-<!ENTITY  license.instructionText         "Darllenwch y cytundeb trwyddedu canlynol. Defnyddiwch y bar sgrolio i ddarllen gweddill y cytundeb.">
-<!ENTITY  license.accept                  "Rwy'n Derbyn amodau’r Cytundeb Trwyddedu">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "NID wyf yn derbyn amodau'r Cytundeb Trwyddedu">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Wedi Canfod Ychwanegion Anghytûn">
 
 <!ENTITY  downloadPage.title              "Llwytho &brandShortName; i lawr">
 <!ENTITY  downloading.intro               "Llwytho'r diweddariad…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn. Mae modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn hwyrach.">
 
-<!ENTITY  installed.title                 "Diweddariad wedi ei Osod">
-<!ENTITY  installed.intro                 "Cafodd y diweddariad ei osod yn llwyddiannus.">
-<!ENTITY  whatsnew.label                  "Beth sy'n newydd…">
 
 <!ENTITY  update.details.label            "Manylion">
 <!ENTITY  update.installedOn.label        "Gosodwyd ar:">

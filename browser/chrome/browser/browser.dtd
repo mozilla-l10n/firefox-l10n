@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Agor dewisiadau &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Ail gysylltu i &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Gwirio eich Cyfrif">
-<!ENTITY syncStartPanel2.heading "Galluogwyd &syncBrand.shortName.label;">
-<!ENTITY syncStartPanel2.subTitle "Bydd &brandShortName; yn cychwyn cydweddu ymhen ychydig.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Lleihau">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Nodau Tudalen Eraill">
 <!ENTITY bookmarksToolbarChevron.tooltip "Dangos pob ffolder nod tudalen">
 
+
+
+
+
 <!ENTITY backCmd.label                "Nôl">
 <!ENTITY backButton.tooltip           "Nôl un tudalen">
 <!ENTITY forwardCmd.label             "Ymlaen">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Nodau Tudalen Eraill ">
 <!ENTITY viewBookmarksSidebar2.label        "Gweld Bar Offer Nodau Tudalen">
 <!ENTITY viewBookmarksToolbar.label         "Gweld Bar Offer Nodau Tudalen">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Tab Cynhwysydd Newydd">
 <!ENTITY newUserContext.accesskey         "y">
-<!ENTITY userContextPersonal.label        "Personol">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Gwaith">
-<!ENTITY userContextWork.accesskey        "G">
-<!ENTITY userContextBanking.label         "Bancio">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Siopa">
-<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "Ffenestr Newydd">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Dad-dewi">
 <!ENTITY mediaUnmute.accesskey       "a">
-<!ENTITY mediaPlaybackRate.label     "Cyflymder Chwarae">
-<!ENTITY mediaPlaybackRate.accesskey "y">
-<!ENTITY mediaPlaybackRate050x.label "Symud Araf (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "Cyflymder Arferol">
-<!ENTITY mediaPlaybackRate100x.accesskey "A">
-<!ENTITY mediaPlaybackRate150x.label "Cyflymder Uchel (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "U">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Cyflym Iawn (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "I">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Cysylltiad Pell">
 <!ENTITY identity.connectionNotSecure "Nid yw'r Cysylltiad yn Ddiogel">
 <!ENTITY identity.connectionFile "Mae'r dudalen hon wedi ei chadw ar eich cyfrifiadur.">
-<!ENTITY identity.connectionVerified1 "Rydych wedi eich cysylltu'n ddiogel â'r wefan hon, sy'n cael ei redeg gan:">
+
 <!ENTITY identity.connectionInternal "Mae hon yn dudalen &brandShortName; diogel.">
 <!ENTITY identity.insecureLoginForms2 "Gall mewngofnodion sy'n cael eu cyflwyno ar y dudalen hon gael eu cyfaddawdu.">
 <!-- Strings for connection state warnings. -->
