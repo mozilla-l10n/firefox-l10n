@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; అభీష్టాలు తెరువు">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; తిరిగి అనుసంధానించు">
 <!ENTITY fxaUnverified.label "మీ ఖాతాను నిర్ధారించండి">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; చేతనం">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; కాసేపట్లో సింక్రనించడం మొదలుపెడుతుంది.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "చిన్నదిచేయు">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "మరికొన్ని ఇష్టాంశములను చూపు">
 
+
+
+
+
 <!ENTITY backCmd.label                "వెనుకకు">
 <!ENTITY backButton.tooltip           "ఒక పేజీ వెనుకకు వెళ్ళుము">
 <!ENTITY forwardCmd.label             "ముందుకు">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewBookmarksSidebar2.label        "ఇష్టాంశాల ప్రక్కపట్టీని చూడండి">
 <!ENTITY viewBookmarksToolbar.label         "ఇష్టాంశముల సాధనపట్టీను దర్శించుము">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "కొత్త కంటైనర్ టాబ్">
 <!ENTITY newUserContext.accesskey         "C">
-<!ENTITY userContextPersonal.label        "వ్యక్తిగతం">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "ఉద్యోగం">
-<!ENTITY userContextWork.accesskey        "W">
-<!ENTITY userContextBanking.label         "బ్యాంకింగ్">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "షాపింగ్">
-<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "కొత్త విండో">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -557,19 +552,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ధ్వనిని ప్రవేశపెట్టు">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate.label     "నడిపే వేగం">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "నెమ్మదిగా (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "మామూలు వేగం (N)">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "వేగంగా (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "H">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "హాస్యాస్పద వేగం (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "L">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -678,7 +676,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "సురక్షిత అనుసంధానం">
 <!ENTITY identity.connectionNotSecure "అనుసంధానం సురక్షితం కాదు">
 <!ENTITY identity.connectionFile "ఈ పేజీ మీ కంప్యూటర్ నందు వుంచబడును.">
-<!ENTITY identity.connectionVerified1 " ఈ సైటుకు మీరు సురక్షితంగా అనుసంధానమయ్యారు, సైటుని నడుపుతోంది:">
+
 <!ENTITY identity.connectionInternal "ఇది సురక్షిత &brandShortName; పేజీ.">
 
 <!-- Strings for connection state warnings. -->

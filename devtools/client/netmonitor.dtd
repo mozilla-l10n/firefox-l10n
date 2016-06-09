@@ -8,13 +8,14 @@
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-<!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
+<!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2/3): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
 
 
 
 <!ENTITY netmonitorUI.perfNotice1         "• బటన్ పై నొక్కి">
 <!ENTITY netmonitorUI.perfNotice2         "పనితనం విశ్లేషణ ప్రారంభించుము.">
+
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 

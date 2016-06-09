@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "ట్రబుల్‌షూటింగ్ సమాచారము">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  మీరు వొక సమస్యను పరిష్కరించుటకు ప్రయత్నించునప్పుడు మీకు వుపయోగవంతంగా వుండగల సాంకేతిక సమాచారమును యీ పేజీ కలిగివుంటుంది. మీరు &brandShortName; గురించిన వుమ్మడి ప్రశ్నలకు సమాధానముల కొరకు చూస్తుంటే, మా <a id='supportLink'>తోడ్పాటు వెబ్ సైట్</a> చూడండి.">
-
 <!ENTITY aboutSupport.crashes.title "క్రాష్ నివేదికలు">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -52,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "వాడుకరి ప్రతినిధి">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "మెమొరీ వినియోగం">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
@@ -81,6 +80,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "గ్రాఫిక్స్">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "జావాస్క్రిప్ట్">
 <!ENTITY aboutSupport.jsIncrementalGC "ప్రవర్ధమాన GC">
 
@@ -98,6 +100,9 @@ variant of aboutSupport.showDir.label. -->
 
 
 <!ENTITY aboutSupport.restartInSafeMode.label "పొడిగింతలను అచేతనించి పునఃప్రారంభించు…">
+
+
+
 
 
 

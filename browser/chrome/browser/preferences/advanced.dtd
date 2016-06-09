@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "నవీకరణల కొరకు యెప్పుడూ పరిశీలించవద్దు (సిఫార్సు చేయనిది: రక్షణ సమస్య)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "పొడిగింతలలో దేనినైనా యిది అచేతనం చేయబోతే నన్ను వారించు">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "నవీకరణ చరిత్రను చూపించు">
 <!ENTITY updateHistory.accesskey         "p">
 
