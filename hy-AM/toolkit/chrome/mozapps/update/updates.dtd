@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Ձեր &brandShortName;-ը հնացել է, բայց վերջին տարբերակը չիաջակցվում ձեր համակարգի կողմից: Թարմացրեք համակարգը, ապա կրկին փորձել:Այլևս չեք տեսնի այս հուշումը, բայց կարող եք">
 <!ENTITY  unsupportedLink.label           "իմանալ ավելին:">
 
-<!ENTITY  incompatibleCheck.title         "Ստուգվում է հավելումների համատեղելիությունը">
-<!ENTITY  incompatibleCheck.label         "Ձեր հավելումների նոր տարբերակների որոնում…">
-
 <!ENTITY  clickHere.label                 "Մանրամասներ այս թարմացման մասին">
 
 <!ENTITY  evangelism.desc                 "Խստիվ խորհուրդ է տրվում կիրառել &brandShortName;-ի այս  թարմացումը, որքան հնարավոր է շուտ:">
-
-<!ENTITY  license.instructions            "Եթե համաձայն եք այս պայմանագրի կետերին, ապա ստորև սեղմեք Ես Համաձայն եմ՝  թարմացումների տեղադրումը շարունակելու համար:">
-
-<!ENTITY  license.titleText               "Ծրագրի Արտոնագրի Համաձայնագիր">
-<!ENTITY  license.introText               "Այս ծրագրի օգտագործման կանոնները և պայմանները:">
-<!ENTITY  license.instructionText         "Խնդրում եմ կարդացեք հետևյալ արտոնագրի համաձայնագիրը: Համաձայնագիրի մնացած մասը դիտելու համար օգտվեք պտտման գծից:">
-<!ENTITY  license.accept                  "Ես ընդունում եմ Արտոնագրի Համաձայնագրի պայմանները">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Ես ՉԵՄ ընդունում Արտոնագրի Համաձայնագրի պայմանները">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Գտնվել են անհամատեղելի հավելումներ">
 
 <!ENTITY  downloadPage.title              "&brandShortName;-ի ներբեռնում">
 <!ENTITY  downloading.intro               "Բեռնավորում է թարմացումը…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Թարմացումը կտեղադրվի &brandShortName;-ը հաջորդ անգամ բացելիս: Դուք կարող եք վերամեկնարկել &brandShortName;-ը հիմա կամ շարունակել աշխատանքը և վերամեկնարկել ավելի ուշ:">
 
-<!ENTITY  installed.title                 "Թարմացումը Տեղադրվեց">
-<!ENTITY  installed.intro                 "Թարմացումը հաջողությամբ տեղադրվեց:">
-<!ENTITY  whatsnew.label                  "Կարդալ մանրամասն թե ինչն է նոր…">
 
 <!ENTITY  update.details.label            "Մանրամասներ">
 <!ENTITY  update.installedOn.label        "Տեղադրված է.">

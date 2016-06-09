@@ -3,10 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Չհետագծել">
-<!ENTITY window.width                 "40em">
-<!ENTITY window.height                "8em">
 
-<!ENTITY doNotTrackCheckbox.label     "Օգտագործել Չհետագծելը">
-<!ENTITY doNotTrackCheckbox.accesskey "Օ">
+
+
+
 
 <!ENTITY doNotTrackLearnMore.label    "Իմանալ ավելին">
