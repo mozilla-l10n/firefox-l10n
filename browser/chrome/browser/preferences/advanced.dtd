@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കേണ്ട (ഉചിതമല്ല: സുരക്ഷ പ്രശ്നം)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "ഏതെങ്കിലും ആഡ്-ഓണുകള്‍ ഇതു് പ്രവര്‍ത്തന രഹിതമാക്കുമെങ്കില്‍ ദയവായി മുന്നറിയിപ്പു് നല്‍കുക">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "പരിഷ്കരണ വിശദാംശങ്ങള്‍ (ഹിസ്റ്ററി) കാണിക്കുക ">
 <!ENTITY updateHistory.accesskey         "p">
 

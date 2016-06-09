@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "ട്രബിള്‍ഷൂട്ടിങിനുള്ള വിവരം">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
-
 <!ENTITY aboutSupport.crashes.title "തകരാര്‍ രേഖപ്പെടുത്തുന്ന റിപോര്‍ട്ടുകള്‍">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -52,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "യൂസര്‍ ഏജന്റ്">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "മെമ്മറിയുടെ ഉപയോഗം">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "രജിസ്റ്റര്‍ ചെയ്‌ത Service Workers">
@@ -84,6 +83,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "ഗ്രാഫിക്ക്സ്">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "ജാവാസ്ക്രിപ്റ്റ്">
 <!ENTITY aboutSupport.jsIncrementalGC "വര്‍ദ്ധിച്ച ജിസി">
 
@@ -103,6 +105,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "സേഫ് മോഡ് ശ്രമിച്ചുനോക്കുക">
 <!ENTITY aboutSupport.restartInSafeMode.label "ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കുക…">
+
+
+
 
 
 

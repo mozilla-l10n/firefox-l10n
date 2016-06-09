@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "സ്ക്രീനിന്റെ അളവിലാക്കുന്നതിനായി ചെറുതാക്കുക">
 <!ENTITY customPrompt.title   "അളവ് ഇഷ്ടാനുസരണമാക്കുക...">
 
+
+
+
 <!ENTITY homearrow.tooltip    "ആദ്യ താള്‍ ">
 <!ENTITY endarrow.tooltip     "ഒടുവിലുള്ള താള്‍ ">
 <!ENTITY nextarrow.tooltip    "അടുത്ത താള്‍">
