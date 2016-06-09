@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Tshedimošo ya go rarolla mathata">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "Letlakala le le na le tshedimošo ya setegniki yeo e ka bago le mohola ge o leka go rarolla bothata. Ge e ba o nyaka dikarabo tša dipotšišo tše tlwaelegilego ka ga &brandShortName;, lebelela wepesaete ya rena ya  <a id='supportLink'> ya thekgo</a>.">
-
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 
@@ -47,6 +45,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Moemedi wa modiriši">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "Tirišo ya polokelo">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
@@ -75,6 +74,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Diswantšho">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC e nyenyane">
 
@@ -89,6 +91,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopiša sengwalwa go lenaneo-polokelo">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiša tsebišo e sa tswakwago go lenaneo-polokelo">
+
+
+
 
 
 

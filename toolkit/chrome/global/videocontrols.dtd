@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Go hlahlela bidio go emišitšwe.">
 <!ENTITY error.network "Go boeletša go bapala bidio go foloditše ka baka la phošo ya neteweke.">
-<!ENTITY error.decode "Bidio e ka se bapale ka gobane faele e senyegile.">
+
 <!ENTITY error.srcNotSupported "Fomate ya faele goba mohuta wa MIME ga o thekgwe.">
 <!ENTITY error.noSource2 "Ga go hwetšwe bidio ya fomate e thekgwago le ya mohuta wa MIME.">
 <!ENTITY error.generic "Go boeletša go bapala bidio go foloditšwe ka baka la phošo e sa tsebjwego.">
