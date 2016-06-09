@@ -80,8 +80,8 @@
 <!ENTITY cspBlocked.title "مواد سیکیورٹی پالسی کے تحت بلاک">
 <!ENTITY cspBlocked.longDesc "<p> نے اس صفحے کو اس طریقے سے لوڈ نہیں ہونے دیا کیونکہ اس صفحے کی مواد سکیورٹی پالیسی ہے جو اس کی اجازت نہیں دیتی۔ &brandShortName;</p>">
 
-<!ENTITY corruptedContentError.title "خراب مواد نقص">
-<!ENTITY corruptedContentError.longDesc "<p>جو صفح آپ دیکھنے کی کوشش کر رہے ہیں وہ دکھایا نہیں جاسکتا کیونکہ قوائف کی منتقلی میں نقص پکڑا گیا۔</p><ul><li>برائے مہربانی ویب سائٹ کے مالکان سے رابطہ کریں انہیں اس مسئلے سے آگاہ کرنے کے لیے ۔</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "خراب مواد نقص">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>جو صفح آپ دیکھنے کی کوشش کر رہے ہیں وہ دکھایا نہیں جاسکتا کیونکہ قوائف کی منتقلی میں نقص پکڑا گیا۔</p><ul><li>برائے مہربانی ویب سائٹ کے مالکان سے رابطہ کریں انہیں اس مسئلے سے آگاہ کرنے کے لیے ۔</li></ul>">
 
 <!ENTITY securityOverride.linkText "یا آپ ایک استثنا کا اضافہ کر سکتے ہیں…">
 <!ENTITY securityOverride.getMeOutOfHereButton "مجھے یہاں سے نکالیں!">
