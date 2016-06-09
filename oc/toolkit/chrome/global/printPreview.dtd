@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "Adaptar a la pagina">
 <!ENTITY customPrompt.title   "Personalizar l'escala...">
 
+
+
+
 <!ENTITY homearrow.tooltip    "Primièra pagina...">
 <!ENTITY endarrow.tooltip     "Darrièra pagina...">
 <!ENTITY nextarrow.tooltip    "Pagina seguenta">

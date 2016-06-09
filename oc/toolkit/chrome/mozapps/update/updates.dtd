@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Vòstre &brandShortName; es pas a jorn, pasmens la version la mai recenta es pas presa en carga per vòstre sistèma. Metètz a jorn vòstre sistèma, puèi ensajatz tornarmai. Aqueste messatge s'aficharà pas mai, mas podètz">
 <!ENTITY  unsupportedLink.label           "ne saber mai.">
 
-<!ENTITY  incompatibleCheck.title         "Verificacion de compatibilitat dels moduls complementaris">
-<!ENTITY  incompatibleCheck.label         "Recèrca de versions novèlas de vòstres moduls complementaris…">
-
 <!ENTITY  clickHere.label                 "Mai d'entresenhas a prepaus d'aquesta mesa a jorn">
 
 <!ENTITY  evangelism.desc                 "Vos recomandam fòrça d'aplicar aquesta mesa a jorn de &brandShortName; çò pus viste possible.">
-
-<!ENTITY  license.instructions            "Se sètz d'acòrdi amb los tèrmes d'aqueste acòrdi, clicatz sus Soi d'acòrdi çaijós per perseguir l'installacion de la mesa a jorn.">
-
-<!ENTITY  license.titleText               "Acòrdi de licéncia logiciala">
-<!ENTITY  license.introText               "Tèrmes e condicions d'utilizacion d'aqueste logicial.">
-<!ENTITY  license.instructionText         "Legissètz l'acòrd de licéncia seguent. Utilizatz la barra de desfilament per visualizar la seguida d'aqueste acòrdi.">
-<!ENTITY  license.accept                  "Accèpti los tèrmes de l'acòrdi de licéncia">
-<!ENTITY  license.accept.accesskey        "A">
-<!ENTITY  license.decline                 "Accèpti PAS los tèrmes de l'acòrdi de licéncia">
-<!ENTITY  license.decline.accesskey       "P">
-
-<!ENTITY  incompatibleList.title          "Moduls complementaris incompatibles trobats">
 
 <!ENTITY  downloadPage.title              "Telecargament de &brandShortName;">
 <!ENTITY  downloading.intro               "A telecargar la mesa a jorn...">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "La mesa a jorn s'installarà quand aviarètz tornamai &brandShortName;. Podètz tornar aviar &brandShortName; ara o contunhar de trabalhar e torniar aviar pus tard.">
 
-<!ENTITY  installed.title                 "Mesa a jorn installada">
-<!ENTITY  installed.intro                 "La mesa a jorn es estada installada amb succès.">
-<!ENTITY  whatsnew.label                  "Ne saber mai sus las novetats‪…">
 
 <!ENTITY  update.details.label            "Detalhs">
 <!ENTITY  update.installedOn.label        "Installat lo :">
