@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdos">
 <!ENTITY cspBlocked.longDesc "<p>O &brandShortName; impediu o carregamento desta página desta forma porque a página tem uma política de segurança de conteúdo que não o permite.</p>">
 
-<!ENTITY corruptedContentError.title "Erro de conteúdo corrompido">
-<!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar visualizar não pode ser mostrada porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor, contacte os proprietários do website para os informar sobre este problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Erro de conteúdo corrompido">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>A página que está a tentar visualizar não pode ser mostrada porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor, contacte os proprietários do website para os informar sobre este problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ou pode adicionar uma exceção…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Tirem-me daqui!">

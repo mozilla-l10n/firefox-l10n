@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bem-vindo">
-<!ENTITY  onboard_start_message3 "Explorar com o &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Torne a sua experiência de navegação na Web móvel verdadeiramente sua.">
 
 <!ENTITY firstrun_urlbar_message "Bem-vindo ao &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Encontre coisas mais rapidamente com os atalhos de sugestão de pesquisa úteis.">
@@ -20,20 +18,30 @@
 <!ENTITY firstrun_signin_message "Ligue-se para começar">
 <!ENTITY firstrun_signin_button "Iniciar sessão no Sync">
 <!ENTITY  onboard_start_button_browser "Iniciar navegação">
+<!ENTITY firstrun_button_notnow "Não agora">
 <!ENTITY firstrun_button_next "Seguinte">
 
-<!ENTITY  onboard_start_restricted1 "Mantenha-se seguro e em controlo com esta versão simplificada do &brandShortName;.">
+<!ENTITY firstrun_tabqueue_title "Ligações">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
-<!ENTITY  reading_list_migration_title "Lista de leitura ligada">
-<!ENTITY  reading_list_migration_subtext "Os seus itens da Lista de Leitura serão agora adicionados aos seus Marcadores">
-<!ENTITY  reading_list_migration_goto_bookmarks "Ir para Marcadores">
-<!ENTITY  reading_list_migration_bookmarks_hidden "O painel de Marcadores está oculto">
+
+<!ENTITY firstrun_tabqueue_message_on "Sucesso!">
+<!ENTITY firstrun_tabqueue_subtext_on "Pode sempre desativar a opção na categoria &pref_category_general; das &settings;.">
+
+<!ENTITY firstrun_readerview_title "Artigos">
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+<!ENTITY firstrun_account_title "Você">
+<!ENTITY firstrun_account_message "Instalou o &brandShortName; em outros dispositivos?">
+
+<!ENTITY  onboard_start_restricted1 "Mantenha-se seguro e em controlo com esta versão simplificada do &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Marcadores">
 <!ENTITY  history_title "Histórico">
-<!ENTITY  reading_list_title "Lista de Leitura">
 <!ENTITY  recent_tabs_title "Separadores recentes">
 
 <!ENTITY  switch_to_tab "Mudar para o separador">
@@ -69,6 +77,11 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Capturas de ecrã">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Lista de leitura">
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
+<!ENTITY bookmark_folder_items "&formatD; itens">
+<!ENTITY bookmark_folder_one_item "1 item">
 
 <!ENTITY reader_saved_offline "Guardado offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +187,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Dica: adicione qualquer website à sua lista de fornecedores de pesquisa com um toque longo no campo de pesquisa do site e tocando no ícone &formatI;.">
 <!ENTITY pref_category_advanced "Avançadas">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Reposição de separadores, poupança de dados, ferramentas de programador">
 <!ENTITY pref_category_notifications "Notificações">
 <!ENTITY pref_category_notifications_summary "Novas funcionalidades, atualizações de websites">
@@ -224,6 +240,9 @@
 <!ENTITY pref_cookies_accept_all "Ativadas">
 <!ENTITY pref_cookies_not_accept_foreign "Ativadas, excluindo as de terceiros">
 <!ENTITY pref_cookies_disabled "Desativadas">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_data_saver "Poupança de dados">
 <!ENTITY pref_category_media "Multimédia">
@@ -287,7 +306,12 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; websites atualizados">
-<!ENTITY content_notification_action_settings "Definição de notificações">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Definições">
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Ler agora">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -422,7 +446,7 @@ size. -->
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY print "Imprimir">
 <!ENTITY find_in_page "Localizar na página">
-<!ENTITY desktop_mode "Solicitar site de computador">
+<!ENTITY desktop_mode "Pedir site de computador">
 <!ENTITY page "Página">
 <!ENTITY tools "Ferramentas">
 <!ENTITY new_tab "Novo separador">
@@ -437,7 +461,7 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "Encontrar na página">
+<!ENTITY find_text "Localizar na página">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Seguinte">
 <!ENTITY find_close "Fechar">
@@ -538,6 +562,8 @@ size. -->
 <!ENTITY home_history_title "Histórico">
 <!ENTITY home_synced_devices_smartfolder "Dispositivos sincronizados">
 <!ENTITY home_synced_devices_number "&formatD; dispositivos">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 dispositivo">
 <!ENTITY home_history_back_to2 "Voltar ao histórico completo">
 <!ENTITY home_clear_history_button "Limpar histórico de navegação">
 <!ENTITY home_clear_history_confirm "Tem a certeza de que pretende apagar o histórico?">
@@ -776,4 +802,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Ler offline">
 <!ENTITY helper_first_offline_bookmark_message "Encontre os seus itens da Vista de leitura nos Marcadores, até offline">
-<!ENTITY helper_first_offline_bookmark_button "Ir para marcadores">
+<!ENTITY helper_first_offline_bookmark_button "Ir para Marcadores">
+
+<!ENTITY helper_triple_readerview_open_title "Disponível offline">
+
+<!ENTITY helper_triple_readerview_open_button "Adicionar aos Marcadores">
+
