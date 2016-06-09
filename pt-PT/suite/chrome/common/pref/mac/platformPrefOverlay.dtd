@@ -14,5 +14,5 @@
 
 <!ENTITY urlbar.label                 "&#8984;+Enter na barra de localização">
 <!ENTITY urlbar.accesskey             "l">
-<!ENTITY middleClick.label            "Clique central, &#8984;+clique ou &#8984;+Enter em ligações numa página web">
-<!ENTITY middleClick.accesskey        "n">
+<!ENTITY middleClick.label            "Clique no botão do meio, &#8984;+clique ou &#8984;+Enter nas ligações numa página da Web">
+<!ENTITY middleClick.accesskey        "m">
