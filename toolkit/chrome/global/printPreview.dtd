@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "Kâğıda sığdır">
 <!ENTITY customPrompt.title   "Özel ölçek…">
 
+
+
+
 <!ENTITY homearrow.tooltip    "İlk sayfa">
 <!ENTITY endarrow.tooltip     "Son sayfa">
 <!ENTITY nextarrow.tooltip    "Sonraki sayfa">
