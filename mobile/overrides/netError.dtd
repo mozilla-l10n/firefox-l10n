@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "معطّل من قِبَل سياسة أمن المحتوى">
 <!ENTITY cspBlocked.longDesc "<p>يمنع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأنّ لهذه الصفحة سياسة أمن المحتوى تمنع ذلك.</p>">
 
-<!ENTITY corruptedContentError.title "خطأ: محتوى فاسد">
-<!ENTITY corruptedContentError.longDesc "<p>تعذر عرض الصفحة التي تريد مشاهدتها بسبب خطأ أثناء نقل البيانات.</p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "خطأ: محتوى فاسد">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>تعذر عرض الصفحة التي تريد مشاهدتها بسبب خطأ أثناء نقل البيانات.</p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul>">
 
 <!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء…">
 <!ENTITY securityOverride.getMeOutOfHereButton "أخرجني من هنا!">
