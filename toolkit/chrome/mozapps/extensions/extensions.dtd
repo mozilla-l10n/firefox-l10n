@@ -12,7 +12,7 @@
 <!ENTITY loading.label                        "A carregar…">
 <!ENTITY listEmpty.installed.label            "Não tem instalado qualquer extra deste tipo">
 <!ENTITY listEmpty.availableUpdates.label     "Nenhuma atualização encontrada">
-<!ENTITY listEmpty.recentUpdates.label        "Não foram efetuadas atualizações recentemente">
+<!ENTITY listEmpty.recentUpdates.label        "Não possui extras atualizados recentemente">
 <!ENTITY listEmpty.findUpdates.label          "Procurar atualizações">
 <!ENTITY listEmpty.search.label               "Não foram encontrados extras coincidentes">
 <!ENTITY listEmpty.button.label               "Saber mais acerca dos extras">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Remover">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Opções">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Mudar opções deste extra">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Alterar opções deste extra">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferências">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Mudar preferências deste extra">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Alterar  preferências deste extra">
 <!ENTITY cmd.contribute.label                 "Colaborar">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Participar no desenvolvimento deste extra">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "O que são extras?">
 <!ENTITY discover.description2                "Os extras são aplicações que permitem personalizar o &brandShortName; com funcionalidades ou estilos. Experimente uma barra lateral, um notificador meteorológico ou um tema para ajustar o &brandShortName; ao seu gosto.">
-<!ENTITY discover.footer                      "Quando estiver ligado à Internet, este painel mostrará alguns dosmelhores e mais populares extras para que os possa experimentar.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Versão">
@@ -138,7 +138,7 @@
 
 <!ENTITY detail.updateType                    "Atualizações automáticas">
 <!ENTITY detail.updateDefault.label           "Predefinição">
-<!ENTITY detail.updateDefault.tooltip         "Instalar atualizações automaticamente se for a predefinição">
+
 <!ENTITY detail.updateAutomatic.label         "Ligado">
 <!ENTITY detail.updateAutomatic.tooltip       "Instalar atualizações automaticamente">
 <!ENTITY detail.updateManual.label            "Desligado">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Procurar atualizações para este extra">
 <!ENTITY detail.showPreferencesWin.label      "Opções">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Mudar opções deste extra">
+<!ENTITY detail.showPreferencesWin.tooltip    "Alterar opções deste extra">
 <!ENTITY detail.showPreferencesUnix.label     "Preferências">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Mudar preferências deste extra">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "O que é isto? A telemetria pode instalar e executar experi~encias de vez em quando.">
 <!ENTITY experiment.info.learnmore "Saber mais">
 <!ENTITY experiment.info.learnmore.accesskey "m">
 <!ENTITY experiment.info.changetelemetry "Definições de telemetria">
