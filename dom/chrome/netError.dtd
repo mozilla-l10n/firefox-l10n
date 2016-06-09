@@ -81,8 +81,8 @@
 <!ENTITY cspBlocked.title "已依內容安全政策封鎖">
 <!ENTITY cspBlocked.longDesc "<p>瀏覽器阻止了這個頁面載入，因為這個頁面有個內容安全政策不允許其以這種方式載入。</p>">
 
-<!ENTITY corruptedContentError.title "內容毀損錯誤">
-<!ENTITY corruptedContentError.longDesc "<p>因為在資料傳輸過程當中偵測到錯誤，無法顯示您正要檢視的頁面。</p><ul><li>請通知網站管理者以讓他們知道這個問題。</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "內容毀損錯誤">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>因為在資料傳輸過程當中偵測到錯誤，無法顯示您正要檢視的頁面。</p><ul><li>請通知網站管理者以讓他們知道這個問題。</li></ul>">
 
 <!ENTITY remoteXUL.title "遠端 XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>請聯絡網站管理員以通知他們這個問題。</li></ul></p>">

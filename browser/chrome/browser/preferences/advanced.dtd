@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "不要檢查更新（不建議，可能會有安全性風險）">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "若需要停用任何已安裝的附加元件時先警告我">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "顯示更新記錄">
 <!ENTITY updateHistory.accesskey         "p">
 

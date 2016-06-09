@@ -24,24 +24,9 @@
 <!ENTITY  unsupported.label               "您的 &brandShortName; 已經過時，但最新版本不支援您的系統。請升級您的系統並再試一次。您將不會再看到到此通知，可在此處">
 <!ENTITY  unsupportedLink.label           "了解更多資訊。">
 
-<!ENTITY  incompatibleCheck.title         "檢查附加元件相容性">
-<!ENTITY  incompatibleCheck.label         "正在尋找您的附加元件的更新版本…">
-
 <!ENTITY  clickHere.label                 "檢視關於此更新的詳細訊息">
 
 <!ENTITY  evangelism.desc                 "強烈建議您立刻套用 &brandShortName; 的更新版本。">
-
-<!ENTITY  license.instructions            "若您同意此授權協議，請按「我同意」以繼續安裝。">
-
-<!ENTITY  license.titleText               "軟體授權協議書">
-<!ENTITY  license.introText               "使用此軟體的條款和限制。">
-<!ENTITY  license.instructionText         "請看完下列的授權協議。用捲軸檢視條款剩下的部份。">
-<!ENTITY  license.accept                  "我接受授權協議的條款">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "我「不」接受授權協議的條款">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "找到不相容附加元件">
 
 <!ENTITY  downloadPage.title              "正在下載 &brandShortName;">
 <!ENTITY  downloading.intro               "正在下載下列更新檔…">
@@ -74,10 +59,8 @@
 <!ENTITY  finishedBackground.name         "更新:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "此更新會在下次 &brandShortName; 啟動時安裝。您可以現在就重開 &brandShortName;，或是繼續使用，稍後再重新啟動。">
-
-<!ENTITY  installed.title                 "已安裝更新檔">
-<!ENTITY  installed.intro                 "已成功安裝更新。">
-<!ENTITY  whatsnew.label                  "深入閱讀新版不同之處…">
+<!ENTITY  finishedBackground.moreElevated "需要有系統管理員權限才能安裝此更新，此更新將在下次啟動 &brandShortName; 時安裝。
+您可以立刻重新啟動 &brandShortName;、繼續使用稍後再更新，或是拒絕此更新。">
 
 <!ENTITY  update.details.label            "詳細資訊">
 <!ENTITY  update.installedOn.label        "安裝於:">

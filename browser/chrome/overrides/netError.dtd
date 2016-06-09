@@ -146,8 +146,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "已依內容安全政策封鎖">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了這個頁面載入，因為這個頁面的內容安全政策不允許其以這種方式被載入。</p>">
 
-<!ENTITY corruptedContentError.title "內容毀損錯誤">
-<!ENTITY corruptedContentError.longDesc "<p>因為在資料傳輸過程當中偵測到錯誤，無法顯示您正要檢視的頁面。</p><ul><li>請通知網站管理者以讓他們知道這個問題。</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "內容毀損錯誤">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>因為在資料傳輸過程當中偵測到錯誤，無法顯示您正要檢視的頁面。</p><ul><li>請通知網站管理者以讓他們知道這個問題。</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "新增例外網站…">
@@ -171,12 +171,19 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> 使用過時的安全性技術，容易遭受攻擊。攻擊者可以簡單地得知您認為安全地資訊。">
 <!ENTITY weakCryptoAdvanced.override "嘗試使用過時的安全性設定載入此頁面 <span class='hostname'></span>（不安全）">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>您的系統時間不正確，無法與 <span id='wrongSystemTime_URL'/> 建立安全連線。</p> <p>您的電腦認為目前時間為 <span id='wrongSystemTime_systemDate'/>，但應該是 <span id='wrongSystemTime_actualDate'/>。若要修正此問題，請將您的系統日期與時間設定為正確時間。</p>">
+
 <!ENTITY certerror.pagetitle1  "不安全的連線">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此網站使用 HTTP Strict Transport Security (HSTS) 要求 &brandShortName; 只能進行安全連線。因此您無法將此憑證設為例外。">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此網站透過 HTTP Strict Transport Security (HSTS) 要求 &brandShortName; 僅能透過安全連線連結到該網站，所以無法將此憑證加入例外清單。">
 <!ENTITY certerror.copyToClipboard.label "將文字複製到剪貼簿">
 
 <!ENTITY inadequateSecurityError.title "您的連線並不安全">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> 使用過時的安全性技術，容易遭受攻擊。攻擊者可以簡單地得知您認為安全的資訊。網站管理員修正伺服器設定後您才能連線至此網站。</p><p>錯誤代碼: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY prefReset.longDesc "看來可能是您的網路安全設定造成此問題，您是否要恢復預設設定值？">
+<!ENTITY prefReset.label "還原預設設定">
 
