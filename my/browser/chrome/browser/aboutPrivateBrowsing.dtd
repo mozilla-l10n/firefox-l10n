@@ -8,24 +8,24 @@
 
 <!ENTITY privateBrowsing.title                           "လုံခြုံစွာ ကြည့်ရှူခြင်း">
 <!ENTITY privateBrowsing.title.tracking                  "စောင့်ကြည့်ခြင်းမှ ကာကွယ်ပြီး လုံခြုံစွာ ကြည့်ရှုရန်">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "သင် သီးသန့်ဝင်းဒိုးအသုံးပြုသောအခါ၊ မီးမြေခွေး ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "သည် မသိမ်းဆည်းပါ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "ကြည့်ရှုခဲ့သည့် စာမျက်နှာများကို">
+<!ENTITY aboutPrivateBrowsing.info.searches              "ရှာဖွေချက်များ">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "ကွတ်ကီးများ">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "ယာယီ ဖိုင်များ">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "မီးမြေခွေး ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "သိမ်းပါမည်">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " သင်၏။ ။">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "ဒေါင်းလုဒ်ဖိုင်များ">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "မှတ်သားချက်များ">
+<!ENTITY aboutPrivateBrowsing.note.before                "လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "သည် သင့်ကို အမည်မသိအသုံးပြုသူ မဖြစ်စေနိုင်ပါ">
+<!ENTITY aboutPrivateBrowsing.note.after                 "အင်တာနက်ပေါ်တွင်။ သင့် အလုပ်ရှင် သို့မဟုတ် အင်တာနက်ဝန်ဆောင်မှုပေးသူသည် သင်ကြည့်ရှုခဲ့သည်များကို သိနိုင်ပါသေးသည်။">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "ပိုမိုလေ့လာရန်">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း">
 
 <!ENTITY trackingProtection.title                        "ခြေရာခံခြင်း မှ အကာအကွယ်">
 
-
+<!ENTITY trackingProtection.startTour1                   "ဆောင်ရွက်ပုံကို ကြည့်ရန်">
