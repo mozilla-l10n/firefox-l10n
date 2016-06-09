@@ -26,6 +26,7 @@
 <!ENTITY firstrun_tabqueue_message_off "Emyendy Tendayke Ha\u0027ãrõva">
 <!ENTITY firstrun_tabqueue_subtext_off "Eñongatu &brandShortName;-pe joajuha ag̃avépe g̃uarã, reipurukuaátava ambue app-pe.">
 
+<!ENTITY firstrun_tabqueue_message_on "Po\u0027aite">
 <!ENTITY firstrun_tabqueue_subtext_on "Akóinte emoingekuaa kóva &settings;pe oĩva &pref_category_general;pe.">
 
 <!ENTITY firstrun_readerview_title "Marandukuéra">
@@ -422,7 +423,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Marandu jejavyguáva">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Mba\u0027epuru Rendaite">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "Eipytyvõ &vendorShortName;pe oikuaa hag̃ua moõpa reime! Emoherakuã moõitépa reime Wi-Fi ha Locación celular rupive ikatu hag̃uáicha reipuru porãve mba\u0027epytyvorã geolocalización rehegua.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -446,12 +447,12 @@ size. -->
 <!ENTITY share_image_failed "Ndaikatúi emoherakuã ko ta\u0027ãnga">
 <!ENTITY save_as_pdf "Eñongatu PDF ramo">
 <!ENTITY print "Ñembokuatia">
-
-
+<!ENTITY find_in_page "Eheka kuatiaroguépe">
+<!ENTITY desktop_mode "Ejerure mba\u0027erechaha renda">
 <!ENTITY page "Kuatiarogue">
 <!ENTITY tools "Tembipuru">
-
-
+<!ENTITY new_tab "Tendayke pyahu">
+<!ENTITY new_private_tab "Tendayke pyahu ñemiguáva">
 <!ENTITY close_all_tabs "Embotypaite tendayke">
 <!ENTITY close_private_tabs "Emboty tendayke ñemiguáva">
 <!ENTITY tabs_normal "Tendayke">
@@ -461,6 +462,8 @@ size. -->
 <!ENTITY set_image_chooser_title "Ta\u0027ãnga atýramo">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Eheka kuatiaroguépe">
 <!ENTITY find_prev "Mboyvegua">
 <!ENTITY find_next "Upeigua">
 <!ENTITY find_close "Mboty">
@@ -498,7 +501,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "Ñe\u0027ẽnemi jehechauka">
 <!ENTITY doorhanger_login_edit_toast_error "Ndaikatúi eñongatu jeikeha">
 <!ENTITY doorhanger_login_select_message "Emomokõi ñe\u0027ẽnemi &formatS;?">
-
+<!ENTITY doorhanger_login_select_toast_copy "Ñe\u0027ẽñemi ohasáma kuatiajokohápe">
 <!ENTITY doorhanger_login_select_toast_copy_error "Ndaikatúi emonguatia ñe\u0027ẽnemi">
 <!ENTITY doorhanger_login_select_action_text "Eiporavo ambue tembiapo ñepyrũ">
 <!ENTITY doorhanger_login_select_title "Emonguatia ñe\u0027ẽnemi amo">
@@ -506,12 +509,12 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Emomba\u0027e tenda michĩva">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Embotuichave joajuha ha myanyhẽha epoko rupi ijerére">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Eikundaha mba\u0027erechaha tuichavévape">
-
+<!ENTITY pref_scroll_title_bar_summary2 "Eñomi &brandShortName; rembipuru renda emongu\u0027e jave kuatiatogue">
 
 <!ENTITY pref_tab_queue_title3 "Tendayke ruguái">
 <!ENTITY pref_tab_queue_summary4 "Eñongatu joajuha eike jey peve &brandShortName;">
@@ -587,15 +590,20 @@ size. -->
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; mba\u0027e\u0027oka ñemigua">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "Mba\u0027e\u0027oka kañyguáva">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Ehechauka mba\u0027e\u0027oka poravopyre">
 
+<!ENTITY remote_tabs_panel_moved_title "Moõ oho tendaykekuéra?">
+<!ENTITY remote_tabs_panel_moved_desc "Roguerahapaite ne rendaykekuéra ambue mba\u0027e\u0027okagua peteĩ ta\u0027ãngarupa nde kuatiarogue pegua eike pya\u0027evévo ipype embojuruja vove tendayke pyahu.">
+<!ENTITY remote_tabs_panel_moved_link "Chereraha ta\u0027ãngarupa pyahúpe.">
 
-
-
+<!ENTITY pin_site_dialog_hint "Ehai ñe\u0027ẽñemi jehekarã">
 
 <!ENTITY filepicker_title "Eiporavo marandurenda">
 <!ENTITY filepicker_audio_title "Eiporavo térã eñongatu mba\u0027epu">
@@ -615,12 +623,15 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
-
+<!ENTITY identity_connection_secure "Jeikekatu Hekorosãva">
+<!ENTITY identity_connection_insecure "Jeikekatu hekorosã\u0027ỹva">
+<!ENTITY identity_login_insecure "Ko kuatiatogue nahekorosãi ha nde puruhára réra oñembyaikuaa.">
 <!ENTITY identity_connection_chromeui "Kóvaniko &brandShortName; rogue hekorosãva">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ojoko tetepy nahekorosãi rupi ko kuatiaroguépe.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ojoko tetepymimi nahekorosãi rupi ko kuatiarogue.">
+<!ENTITY mixed_content_display_loaded1 "Ko kuatiarogue pehẽ nahekorosãmbái (ta\u0027ãngáramo).">
 
 <!-- Tracking content notifications in site identity popup -->
 
