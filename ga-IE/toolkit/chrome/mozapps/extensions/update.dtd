@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Aimsíodh Breiseáin Chomhoiriúnacha">
 <!ENTITY  found.top.label                 "Roghnaigh na breiseáin is mian leat a shuiteáil:">
-<!ENTITY  found.disabledXPinstall.label   "Ní féidir na breiseáin seo a shuiteáil toisc go bhfuil suiteáil bhogearraí díchumasaithe faoi láthair. Tig leat an rogha seo a athrú thíos.">
+
 <!ENTITY  found.enableXPInstall.label     "Tabhair cead do shuímh Ghréasáin bogearraí a shuiteáil">
 <!ENTITY  found.enableXPInstall.accesskey "a">
 
