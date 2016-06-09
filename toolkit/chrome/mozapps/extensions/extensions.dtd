@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "লোড করা হচ্ছে…">
-<!ENTITY listEmpty.installed.label            "আপনার এই ধরণের কোনো অ্যাড-অন ইনস্টল করা নেই">
+
 <!ENTITY listEmpty.availableUpdates.label     "কোনো হালনাগাদ পাওয়া যায়নি">
-<!ENTITY listEmpty.recentUpdates.label        "আপনি সাম্প্রতিক সময়ে কোনো অ্যাড-অন হালনাগাদ করেননি">
+
 <!ENTITY listEmpty.findUpdates.label          "হালনাগাদের জন্য পরীক্ষা">
 <!ENTITY listEmpty.search.label               "কোনো অন্তরমিলযুক্ত অ্যাড-অন খুঁজে পাওয়া যায়নি">
 <!ENTITY listEmpty.button.label               "অ্যাড-অন সম্পর্কে আরও শিখুন">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "অপসারন করুন R">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "অপশন">
-<!ENTITY cmd.showPreferencesWin.tooltip       "এই অ্যাড-অন এর অপশন পরিবর্তন করুন">
+
 <!ENTITY cmd.showPreferencesUnix.label        "পছন্দসমূহ">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "এই অ্যাড-অন এর পছন্দসমূহ পরিবর্তন করুন">
+
 <!ENTITY cmd.contribute.label                 "অবদান রাখুন C">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "অ্যাড-অন উন্নয়নে অবদান রাখুন">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "অ্যাড-অন কি?">
 <!ENTITY discover.description2                "অ্যাড-অন হল এমন অ্যাপ্লিকেশন যা কি না অতিরিক্ত কার্যকরণ বা শৈলীসহ  &brandShortName; এর সাথে আপনাকে পরিচিত করে। সময়- সংরক্ষনীয় সাইডবার, আবহাওয়া ঘোষক, বা &brandShortName; কে নিজের মত করে দেখার জন্য থীম চেহারা ব্যবহার করে।">
-<!ENTITY discover.footer                      "আপনি যখন ইন্টারনেট এর সাথে সংযুক্ত থাকবেন তখন আপনার ব্যবহারের জন্য এ প্যানে কিছু সর্বোৎকৃষ্ট ও সবচেয়ে জনপ্রিয় অ্যাড-অন প্রদর্শিত হবে।">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "সংস্করণ">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "স্বয়ংক্রিয় হালনাগাদ">
 <!ENTITY detail.updateDefault.label           "পূর্বনির্ধারিত">
-<!ENTITY detail.updateDefault.tooltip         "পূর্বনির্ধারিত হলেই কেবল স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে">
+
 <!ENTITY detail.updateAutomatic.label         "সচল">
 <!ENTITY detail.updateAutomatic.tooltip       "স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে">
 <!ENTITY detail.updateManual.label            "বন্ধ">
-<!ENTITY detail.updateManual.tooltip          "স্বয়ংক্রিয়ভাবে  হালনাগাদ ইনস্টল করা হবে না">
+
 <!ENTITY detail.home                          "প্রধান পাতা">
 <!ENTITY detail.repository                    "অ্যাড-অন প্রোফাইল">
 <!ENTITY detail.size                          "আকার">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "এই অ্যাড-অনের জন্য হালনাগাদ পরীক্ষা">
 <!ENTITY detail.showPreferencesWin.label      "অপশন O">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "অ্যাড-অন এর অপশন পরিবর্তন করুন">
+
 <!ENTITY detail.showPreferencesUnix.label     "পছন্দ সমূহ P">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "এই অ্যাড-অন এর পছন্দসমূহ পরিবর্তন করুন">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "এটা কি? হয়তো টেলিমেট্রি ইন্সটল এবং পরীক্ষানিরীক্ষা চালাতে পারে।">
 <!ENTITY experiment.info.learnmore "আরও জানুন…">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "টেলেমেট্রি সেটিং">

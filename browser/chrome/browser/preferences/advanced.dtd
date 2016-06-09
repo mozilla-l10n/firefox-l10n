@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "হালনাগাদকরণ কখনও পরীক্ষা করবেন না N (প্রস্তাবিত নয়: নিরাপত্তা ঝুঁকি রয়েছে)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "আমাকে সতর্ক করুন যদি এটি আমার কোন অ্যাডঅনে নিষ্ক্রিয় থাকে W">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "হালনাগাদের ইতিহাস প্রদর্শন P">
 <!ENTITY updateHistory.accesskey         "P">
 

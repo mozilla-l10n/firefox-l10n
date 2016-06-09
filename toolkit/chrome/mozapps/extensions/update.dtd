@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "সুসংগত অ্যাড-অন পাওয়া গেছে">
 <!ENTITY  found.top.label                 "ইনস্টল করার জন্য অ্যাড-অন নির্বাচন করুন:">
-<!ENTITY  found.disabledXPinstall.label   "সফটওয়্যার ইনস্টলেশন নিষ্ক্রিয় থাকার ফলে এই হালনাগাদগুলো ইনস্টল করা সম্ভব নয়। নিম্নলিখিত স্থানে এই সেটিং পরিবর্তন করা যাবে।">
+
 <!ENTITY  found.enableXPInstall.label     "ওয়েবসাইটগুলোকে সফটওয়্যার ইনস্টল করার অনুমোদন দেয়া হবে (A)">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
