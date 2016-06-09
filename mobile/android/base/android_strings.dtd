@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Witajće">
-<!ENTITY  onboard_start_message3 "Z &brandShortName; přehladować">
-<!ENTITY  onboard_start_subtext3 "Čińće swoje mobilne webpřehladowanske dožiwjenje woprawdźe k swojemu.">
 
 <!ENTITY firstrun_urlbar_message "Witajće do &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Namakajće wěcy spěšnišo z wužitnymi tastowymi skrótšenki za pytanske namjety.">
@@ -20,20 +18,25 @@
 <!ENTITY firstrun_signin_message "Zwjazajće so, započńće">
 <!ENTITY firstrun_signin_button "Pola Sync přizjewić">
 <!ENTITY  onboard_start_button_browser "Přehladowanje startować">
+
 <!ENTITY firstrun_button_next "Přichodny">
 
-<!ENTITY  onboard_start_restricted1 "Wostańće dale wěsty a mějće dale kontrolu z tutej zjednorjenej wersiju &brandShortName;.">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
-<!ENTITY  reading_list_migration_title "Čitanska lisćina zwjazana">
-<!ENTITY  reading_list_migration_subtext "Zapiski wašeje čitanskeje lisćiny so nětko wašim zapołožkam přidadźa">
-<!ENTITY  reading_list_migration_goto_bookmarks "K zapołožkam">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Waš wobłuk zapołožkow je schowany">
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
+<!ENTITY  onboard_start_restricted1 "Wostańće dale wěsty a mějće dale kontrolu z tutej zjednorjenej wersiju &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Zapołožki">
 <!ENTITY  history_title "Historija">
-<!ENTITY  reading_list_title "Čitanska lisćina">
 <!ENTITY  recent_tabs_title "Najnowše rajtarki">
 
 <!ENTITY  switch_to_tab "K rajtarkej přepinać">
@@ -68,7 +71,10 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Fota wobrazowki">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "Čitanska lisćina">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
 
 <!ENTITY reader_saved_offline "Offline składowany">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +180,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "POKIW: Přidajće swojej lisćinje pytanskich poskićowarjow websydło, tłóčo dołho na jeho pytanske polo a podótkńće so potom symbola &formatI;.">
 <!ENTITY pref_category_advanced "Rozšěrjene">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Rajtarki wobnowić, datowy serwer, wuwiwarske nastroje">
 <!ENTITY pref_category_notifications "Zdźělenja">
 <!ENTITY pref_category_notifications_summary "Nowe funkcije, aktualizacije websydłow">
@@ -224,6 +233,9 @@
 <!ENTITY pref_cookies_accept_all "Zmóžnjeny">
 <!ENTITY pref_cookies_not_accept_foreign "Zmóžnjeny, z wuwzaćom třećich poskićowarjow">
 <!ENTITY pref_cookies_disabled "Znjemóžnjeny">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_data_saver "Datowy serwer">
 <!ENTITY pref_category_media "Medije">
@@ -287,7 +299,10 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; websydłow zaktualizowanych">
-<!ENTITY content_notification_action_settings "Zdźělenske nastajenje">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -421,12 +436,12 @@ size. -->
 <!ENTITY share_image_failed "Tutón wobraz njeda so dźělić">
 <!ENTITY save_as_pdf "Jako PDF składować">
 <!ENTITY print "Ćišćeć">
-<!ENTITY find_in_page "Na stronje pytać">
-<!ENTITY desktop_mode "Desktopowe sydło požadać">
+
+
 <!ENTITY page "Strona">
 <!ENTITY tools "Nastroje">
-<!ENTITY new_tab "Nowy rajtark">
-<!ENTITY new_private_tab "Nowy priwatny rajtark">
+
+
 <!ENTITY close_all_tabs "Wšě rajtarki začinić">
 <!ENTITY close_private_tabs "Priwatne rajtarki začinić">
 <!ENTITY tabs_normal "Rajtarki">
@@ -436,8 +451,6 @@ size. -->
 <!ENTITY set_image_chooser_title "Wobraz stajić jako">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Na stronje pytać">
 <!ENTITY find_prev "Předchadny">
 <!ENTITY find_next "Přichodny">
 <!ENTITY find_close "Začinić">
@@ -538,6 +551,7 @@ size. -->
 <!ENTITY home_history_title "Historija">
 <!ENTITY home_synced_devices_smartfolder "Synchronizowane graty">
 <!ENTITY home_synced_devices_number "&formatD; gratow">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_history_back_to2 "Wróćo k dospołnej historiji">
 <!ENTITY home_clear_history_button "Přehladowansku historiju wuprózdnić">
 <!ENTITY home_clear_history_confirm "Chceće woprawdźe historiju wuprózdnić?">
@@ -776,4 +790,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Offline čitać">
 <!ENTITY helper_first_offline_bookmark_message "Namakajće zapiski wašeho čitakoweho napohlada tež offline.">
-<!ENTITY helper_first_offline_bookmark_button "K zapołožkam">
+
+
+
+
+
