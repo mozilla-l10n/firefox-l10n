@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "अंतर्भुत माहिती सुरक्षा धोरणद्वारे रोखले गेले">
 <!ENTITY cspBlocked.longDesc "<p>पृष्ठामध्ये अंतर्भुत माहिती सुरक्षा धोरण आढळल्यामुळे &brandShortName;ने पृष्ठाला याप्रकारे लोड होण्यापासून रोखले.</p>">
 
-<!ENTITY corruptedContentError.title "दोषीत अंतर्भुत माहिती त्रुटी">
-<!ENTITY corruptedContentError.longDesc "<p>डाटा स्थानांतरनवेळी त्रुटी आढळल्याने दृष्यास्पद पृष्ठ दाखवणे अशक्य आहे.</p><ul><li>या अडचणीविषयी माहिती पूरवण्याकरीता, कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "दोषीत अंतर्भुत माहिती त्रुटी">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>डाटा स्थानांतरनवेळी त्रुटी आढळल्याने दृष्यास्पद पृष्ठ दाखवणे अशक्य आहे.</p><ul><li>या अडचणीविषयी माहिती पूरवण्याकरीता, कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोडा…">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "प्रगत">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरते. आपण समजत असलेली सुरक्षित माहिती आक्रमणकर्ता सहजरीत्या पाहू शकतो.">
 <!ENTITY weakCryptoAdvanced.override "(असुरक्षित) कालबाह्य सुरक्षा यंत्रणा वापरून <span class='hostname'></span> लोड करण्याचा प्रयत्न करा">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "असुरक्षित जोडणी">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ही साईट HTTP वापरते कठोर वाहतूक सुरक्षा (HSTS) असे निर्देशित करते की &brandShortName;हिच्याशी फक्त सुरक्षितपणे जोडणी करू शकतो. परिणामी, या एका प्रमाणपत्रासाठी अपवाद समाविष्ट करणे  शक्य नाही.">
+
 <!ENTITY certerror.copyToClipboard.label "क्लिपबोर्डमध्ये मजकूरचे प्रत बनवा">
 
 <!ENTITY inadequateSecurityError.title "आपली जोडणी सुरक्षीत नाही">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरत आहे. आक्रमणकर्ता सहजपणे आपण सुरक्षित समजत असलेली माहिती मिळवू शकतो. वेबसाइट प्रशासकाने सर्व्हर निर्दोष केल्यावरच आपण साइटला भेट देऊ शकता. </p><p>त्रुटी कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+
