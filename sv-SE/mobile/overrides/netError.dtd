@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "Blockerad av säkerhetspolicyn för innehåll">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; förhindrade sidan från att öppnas på detta sätt eftersom sidan har en säkerhetspolicy för innehåll som inte tillåter detta.</p>">
 
-<!ENTITY corruptedContentError.title "Skadat innehåll">
-<!ENTITY corruptedContentError.longDesc "<p>Sidan du försöker se kan inte visas på grund av att ett fel i dataöverföringen upptäcktes.</p><ul><li>Kontakta ägarna till webbplatsen för att informera dem om detta problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Skadat innehåll">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Sidan du försöker se kan inte visas på grund av att ett fel i dataöverföringen upptäcktes.</p><ul><li>Kontakta ägarna till webbplatsen för att informera dem om detta problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Eller så kan du lägga till ett undantag…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ta mig härifrån!">
