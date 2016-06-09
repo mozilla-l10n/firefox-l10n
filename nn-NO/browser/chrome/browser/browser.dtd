@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Nyleg bokmerkt">
 <!ENTITY otherBookmarksCmd.label "Andre bokmerke">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis fleire bokmerke">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Vis nyleg bokmerka">
+<!ENTITY showRecentlyBookmarked.accesskey "V">
+<!ENTITY hideRecentlyBookmarked.label     "Gøym nyleg bokmerka">
+<!ENTITY hideRecentlyBookmarked.accesskey "G">
 
 <!ENTITY backCmd.label                "Tilbake">
 <!ENTITY backButton.tooltip           "Gå tilbake ei side">
