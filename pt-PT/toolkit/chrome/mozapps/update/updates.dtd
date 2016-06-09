@@ -20,7 +20,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "Pode sempre obter a última versão do &brandShortName; em:">
 
 <!ENTITY  unsupported.title               "Sistema não suportado">
-<!ENTITY  unsupported.label               "O &brandShortName; está desatualizado, mas o seu sistema operativo não é compatível com a versão mais recente. Atualize o seu sistema e volte a tentar. Este aviso não voltará a ser mostrado, mas pode obter">
+<!ENTITY  unsupported.label               "O &brandShortName; está desatualizado, mas o seu sistema operativo não é compatível com a versão mais recente. Atualize o seu sistema e tente novamente. Este aviso não voltará a ser mostrado, mas pode obter">
 <!ENTITY  unsupportedLink.label           "mais informações.">
 
 <!ENTITY  clickHere.label                 "Saber mais informações sobre esta atualização">
@@ -55,7 +55,7 @@
 <!ENTITY  finishedBackground.name         "Atualização:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "A atualização será instalada da próxima vez que o &brandShortName; iniciar. Pode reiniciar agora o &brandShortName; ou continuar a trabalhar e reiniciar mais tarde.">
-
+<!ENTITY  finishedBackground.moreElevated "Esta atualização requer privilégios de administrador. A atualização será instalada da próxima vez que o &brandShortName; iniciar. Pode reiniciar o &brandShortName; agora, e continuar a trabalhar e reiniciar depois, ou rejeitar esta atualização.">
 
 <!ENTITY  update.details.label            "Detalhes">
 <!ENTITY  update.installedOn.label        "Instalada em:">

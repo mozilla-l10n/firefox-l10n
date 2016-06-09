@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY loadError.label "Erro ao carregar a página">
-<!ENTITY retry.label "Voltar a tentar">
+<!ENTITY retry.label "Tentar novamente">
 <!-- Specific error messages -->
 
 
