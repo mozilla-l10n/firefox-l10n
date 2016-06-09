@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Thibetšwe ke pholisi ya tšhireletšego ya dikagare">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; e thibetše letlakala le go hlahlela ka tsela ye ka gobane letlakala le le nale pholisi ya tšhireletšego ya dikagare yeo e sa go dumelelego.</p>">
 
-<!ENTITY corruptedContentError.title "Phošo ya dikagare tšeo di senyegilego">
-<!ENTITY corruptedContentError.longDesc "<p>Letlakala leo o lekago go le lebelela le ka se laetšwe ka gobane go lemogilwe phošo go phetišetšo ya tsebišo.</p><ul><li>Hle ikopanye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Phošo ya dikagare tšeo di senyegilego">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Letlakala leo o lekago go le lebelela le ka se laetšwe ka gobane go lemogilwe phošo go phetišetšo ya tsebišo.</p><ul><li>Hle ikopanye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Oketša tše sa akaretšwego…">
@@ -94,9 +94,13 @@ was trying to connect. -->
 
 
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

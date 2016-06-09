@@ -107,8 +107,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
 <!ENTITY fullScreenMinimize.tooltip "Nyenyefatša">
 <!ENTITY fullScreenRestore.tooltip "Bušetša">
 
@@ -164,6 +162,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Bontšha dipukutshwayo tše oketšegilego">
 
+
+
+
+
 <!ENTITY backButton.tooltip           "Boela morago letlakala le tee">
 
 <!ENTITY forwardButton.tooltip        "Eya pele letlakala le tee">
@@ -211,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksToolbar.label         "Lebelela thulupaa ya dipukutshwayo">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -242,14 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Faele"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY newNavigatorCmd.label        "Lefasetere le leswa">
@@ -524,19 +519,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "H">
 <!ENTITY mediaUnmute.label           "Homotšolla">
 <!ENTITY mediaUnmute.accesskey       "l">
-<!ENTITY mediaPlaybackRate.label     "Lebelo la go bapala">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Ka go nanya (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "K">
-<!ENTITY mediaPlaybackRate100x.label "Lebelo le tlwaelegilego">
-<!ENTITY mediaPlaybackRate100x.accesskey "e">
-<!ENTITY mediaPlaybackRate150x.label "Lebelo le phagamego (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "h">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+<!ENTITY mediaPlaybackRate100x2.label "Tlwaelo">
+<!ENTITY mediaPlaybackRate100x2.accesskey "T">
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Lebelo le legolo kudu (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "l">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

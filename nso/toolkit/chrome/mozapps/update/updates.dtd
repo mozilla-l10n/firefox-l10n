@@ -22,24 +22,9 @@
 
 
 
-<!ENTITY  incompatibleCheck.title         "Go lekola tshwanelano ya setlaleletši">
-<!ENTITY  incompatibleCheck.label         "Go nyaka dikgatišo tše diswa tša ditlaleletši tša gago…">
-
 <!ENTITY  clickHere.label                 "Lebelela tshedimošo e oketšegilego ka kaonafatšo ye">
 
 <!ENTITY  evangelism.desc                 "Go eletšwa ka go tia gore o diriše kaonafatšo ye bakeng sa &brandShortName; ka pela ka mo go ka kgonegago.">
-
-<!ENTITY  license.instructions            "Ge e ba o dumela mabaka a tumelelano ye, kgotla Ke a dumela ka mo tlase gore o iše pele ka go lokela kaonafatšo ye.">
-
-<!ENTITY  license.titleText               "Tumelelano ya laesense ya lenaneotirišo la khomphutha">
-<!ENTITY  license.introText               "Melao le dipeelo tša go diriša lenaneotirišo le la khomphutha.">
-<!ENTITY  license.instructionText         "Hle bala tumelelano ya laesense ye e latelago. Diriša para ya go iša tlase le godimo go lebelela tumelelano ye ka moka.">
-<!ENTITY  license.accept                  "Ke amogela mabaka a tumelelano ya laesense">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Ga KE amogele mabaka a tumelelano ya laesense">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Go hweditšwe setlaleletši se sa swanelanego">
 
 <!ENTITY  downloadPage.title              "Go laolla &brandShortName;">
 <!ENTITY  downloading.intro               "Go laolla kaonafatšo…">
@@ -70,9 +55,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Kaonafatšo e tla lokelwa nakong e latelago ge &brandShortName; e thoma. O ka thoma &brandShortName; gape gona bjale, goba wa iša pele o šoma gomme wa thoma gape ka moragonyana.">
 
-<!ENTITY  installed.title                 "Kaonafatšo e loketšwe">
-<!ENTITY  installed.intro                 "Kaonafatšo e loketšwe ka katlego.">
-<!ENTITY  whatsnew.label                  "Bala ka botlalo mabapi le gore ke eng se seswa…">
 
 <!ENTITY  update.details.label            "Dintlha">
 <!ENTITY  update.installedOn.label        "Loketšwe go:">
