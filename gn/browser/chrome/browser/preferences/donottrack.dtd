@@ -3,10 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Anive Ehapykueho">
-<!ENTITY window.width                 "40em">
-<!ENTITY window.height                "8em">
 
-<!ENTITY doNotTrackCheckbox.label     "Ani Cherapykueho Jeporu">
-<!ENTITY doNotTrackCheckbox.accesskey "J">
+
+
+
 
 <!ENTITY doNotTrackLearnMore.label    "Eikuaave Hesegua">

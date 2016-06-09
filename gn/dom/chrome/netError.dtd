@@ -8,7 +8,7 @@
 
 
 <!ENTITY connectionFailure.title "Ojavy oikekuévo">
-<!ENTITY connectionFailure.longDesc "<p>Ko tenda ha'eteroguáicha oikoha, kundaha ndaikatúi oike</p><ul><li>¿Ikatuhína ko tenda ndojepurukuaái ko'ag̃aite?</li><li>Ndaikatúipa reikundaha ambue tendápe. Ehechajey neñanduti mohendahápe jeike</li><li>Nemohendahápa omo'ã chupe peteĩ proxy térã firewall. Peteĩ ñemboheko ndoikóiva ikatu ombyai nekundaha.</li></ul>">
+
 
 <!ENTITY deniedPortAccess.title "Mbojuajuhaite jejokopyre jerovia'ỹ rupi">
 <!ENTITY deniedPortAccess.longDesc "<p>Pe kundaharape ejeruréva omoha'eño peteĩ mbojuajuhaite (techapyrã <q>mozilla.org:80</q> mbojuajuhaite 80 mozilla.org mba'éva) ojepurúva tapiaite eike hag̃ua <em>ambuéva</em> eikundaha ñandutípe. Kundaha ojokóma jerurepyre nde ñemo'ã ha rekorosãrã.</p>">
@@ -29,10 +29,10 @@
 <!ENTITY malformedURI.longDesc "<p>Kundaharape me'ẽpyre ndoĩri peteĩ ysaja ojekuaávape. Ehechajey jejavy Kundaharape rendápe ha eha'ãjey.</p>">
 
 <!ENTITY netInterrupt.title "Mba'ekuaarã mbohasa jejopyre">
-<!ENTITY netInterrupt.longDesc "<p>Kundaharape oike hekoitépe, hákatu ojejoko pe jeike oñembohasakuévo marandu. Eha'ãjey.</p><ul><li>Ndaikatúipa eikundaha ambue tenda rupi. Ehechajey ñandutípe jeike nemohendaha pegua.</li><li>Eporandu neñanduti me'ẽhárape eguereko hag̃ua ñepytyvõ aporekoguáva.</li></ul>">
+
 
 <!ENTITY notCached.title "Kuatia oikove'ỹmava">
-<!ENTITY notCached.longDesc "<p>Pe kuatia ejerurepyréva ndojepurukuaái kundahára kachépe. </p><ul><li>Tekorosãrã kyhyjeháraramo, pe kundahára ndojerurevéi ijehegui kuatiakuéra imarandu ñemiguáva.</li><li>Ejopy Ha'ãjey ejerurejey hag̃ua pe kuatia ñandutirenda pegua.</li></ul>">
+
 
 <!ENTITY netOffline.title "Jeikekatu'ỹre">
 <!ENTITY netOffline.longDesc2 "<p>Pe kundaha omba&apos;apo jeikekatu&apos;ỹre ha ndaikatúi oike pe mba&apos;epuru jerurepyre rehe.</p><ul><li>¿Oñembojuaju mohendaha peteĩ ñanduti oikóva rehe?</li><li>Ejopy &quot;Ha&apos;ãjey&quot; ehasa hag̃ua jeikekatúpe ha emonyhẽjey kuatiarogue.</li></ul>">
@@ -47,19 +47,19 @@
 <!ENTITY netReset.longDesc "<p>Pe joajuha ñanduti ndivegua ojejoko sapy'a ojeheka aja jey pe jeikekatu. Eha'ã jey.</p>">
 
 <!ENTITY netTimeout.title "Opáma aravo ñeha'ãrõ">
-<!ENTITY netTimeout.longDesc "<p>Pe tenda ejeruréva nombohovái pe jerure jeike rehegua ha pe kundaha noha'arõvéima ñembohovái.</p><ul><li>¿Ikatu pe mohendahavusu ojepurueterei térã peteĩ ñekytĩ ndahi'aréitava? Eha'ã jey ag̃amieve.</li><li>¿Ndaikatúi eikundaha ambue tenda rupi? Ehechajey nemohendaha ñandutípe.</li><li>Nemohendaha omo'ã chupe peteĩ proxy térã peteĩ firewall rupi? Peteĩ ñemboheko oiko'ỹva ikatu omboykese nekundaha.</li><li>¿Oĩ gueteri apañuãi? Eporandu neñanduti ñangarekohára térã neñanduti me'ẽhárape nepytyvõ hag̃ua.</li></ul>">
+
 
 <!ENTITY unknownProtocolFound.title "Taperekoite ojekuaa'ỹva">
 <!ENTITY unknownProtocolFound.longDesc "<p>Pe kundaharape omoha'eño peteĩ mba'ete (techapyrã <q>wxyz://</q>) kundaha nomoneĩri, péva rupi pe kundaha ndaikatúi oikekatu tendápe.</p><ul><li> Ndépa eikese jeikeha hekoetáva térã ambue mba'epytyvõrã ndaha'éiva moñe'ẽrã. Eporandu pe tenda jerurete mbohetapýva.</li><li>Heta mba'ete ikatu ojerure software ambue mba'éva térã mboguerã'i pe kundaha ohechakuaa mboyve.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Pe mohendahavusu proxy ombotove jeike">
-<!ENTITY proxyConnectFailure.longDesc "<p>Ko kundaha oñemboheko oipuru hag̃ua peteĩ mohendahavusu proxy, hákatu ndojejuhúi pe mohendahavusu proxy.</p><ul><li>Oĩporãpa proxy ñemboheko kundaha rehegua. Ehechajey pe ñemboheko ha eha'ãjey.</li><li>Pe mohendahápa ojoajuhína peteĩ ñanduti oikóva rehe.</li><li>Oguerekópa gueteri apañuãi. Eporandu neñanduti ñangarekohára térã ñanduti me'ẽhára ndive pytyvõrã aporekoguáva.</li></ul>">
+
 
 <!ENTITY proxyResolveFailure.title "Ndojejuhúi pe mohendahavusu proxy">
-<!ENTITY proxyResolveFailure.longDesc "<p>Ko kundaha oñemboheko oipuru hag̃ua peteĩ mohendahavusu proxy, hákatu ndojejuhúi pe mohendahavusu proxy.</p><ul><li>Oĩporãpa proxy ñemboheko kundaha rehegua. Ehechajey pe ñemboheko ha eha'ãjey.</li><li>Pe mohendahápa ojoajuhína peteĩ ñanduti oikóva rehe.</li><li>Oguerekópa gueteri apañuãi. Eporandu neñanduti ñangarekohára térã ñanduti me'ẽhára ndive pytyvõrã aporekoguáva.</li></ul>">
+
 
 <!ENTITY redirectLoop.title "Avakua jeguerahajey">
-<!ENTITY redirectLoop.longDesc "<p>Pe kundaha opytáma oguerujeysehápe pe mba'epuru jerurepyréva. Pe tenda oguerahajeýta nde jerurepyre peteĩ ysaja araka'eve noĩmbamo'ãiva rehegua.</p><ul><li> Eguerekópa mboguehápe térã jokohápe umi kookie oikotevẽ añetéva ko tenda.</li><li><em>JEHAIPY</em>: Emboajérõ umi kookie tenda pegua nomyatyrõi apañuãi, ikatuhína apañuãi mohendahavusu ñembaheko ha ndaha'éi nemohendaha rehegua.</li></ul>">
+
 
 <!ENTITY unknownSocketType.title "Ñembohovái vai">
 <!ENTITY unknownSocketType.longDesc "<p>Pe tenda ombohovái ñanduti mba'ejerure oñeha'ãrõ'ỹre ha pe kundahára ndaikatuvéima oku'ejey.</p>">
@@ -68,7 +68,7 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Ko kuatiarogue eñeha'ãva ehecha ndojehechaukakuaái ndaikatúi rupi ojehechajey añeteguávapa umi mba'ekuaarã õguahẽva.</p><ul><li>Eñe'ẽ umi ñanduti renda jára ndive emombe'u hag̃ua chupekuéra ko apañuãi rehegua.</li></ul>">
 
 <!ENTITY nssBadCert.title "Jeikekatu jejavýva">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Kóva ikatu oiko peteĩ apañuãi mohendahavusu mbohekorãma, ikatu avei peteĩva oñeha'ã oikese nemohendahavusúpe.</li> <li>Eikéramo ko nemohendahavusúpe apañuãi'ỹre ymave, pe jejavy ikatu sapy'aguánteva, ha eikatúta eñeha'ã eikejey ag̃amieve.</li> </ul>">
+
 
 <!ENTITY securityOverride.linkText "Térã ikatu embojoapy oĩ'ỹva…">
 <!ENTITY securityOverride.warningContent "<p>Ani embojoapy peteĩ oĩ'ỹva eipurúramo ñanduti ejeroviaguasu'ỹha térã ndereipokuaáiramo ehecha peteĩ jesarekorã ko mohendahavusu rehegua.</p> <p>Embojoapyséramo gueteri pe oĩ'ỹva ko tendápe g̃uarã, ikatu ejapo iñemboheko opátamava ipapapývape.</p>">
@@ -76,8 +76,8 @@
 <!ENTITY cspBlocked.title "Ojejoko tetepy rekorosãrã purureko rupi">
 <!ENTITY cspBlocked.longDesc "<p>Pe kundaha ojoko ko kuatiaroguégui oñemyenyhẽvo kóicha kuatiarogue oguereko rupi peteĩ tapereko jeroviaha tetepy rehegua nomoneĩriva.</p>">
 
-<!ENTITY corruptedContentError.title "Tetepy imarãva rupi jejavy">
-<!ENTITY corruptedContentError.longDesc "<p>Kuatiarogue eñeha'ãva ehecha ndojehechaukakuaái ojejuhu rupi peteĩ jejavy mba'ekuaarã ñembohasakuévo.</p><ul><li>Eñe'ẽ umi ñanduti renda jára ndive emombe'u hag̃ua chupekuéra ko apañuãi rehegua.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Tetepy imarãva rupi jejavy">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Kuatiarogue eñeha'ãva ehecha ndojehechaukakuaái ojejuhu rupi peteĩ jejavy mba'ekuaarã ñembohasakuévo.</p><ul><li>Eñe'ẽ umi ñanduti renda jára ndive emombe'u hag̃ua chupekuéra ko apañuãi rehegua.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL okaygua">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Eñe'ẽ ñanduti renda jára ndive emomarandu hag̃ua chupe ko apañuãi rehegua.</li></ul></p>">

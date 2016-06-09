@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Marandu apañuãi oñemyatyrõ haguã">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "Ko kuatiarogue oguereko marandu aporekoguáva ikatúva eipuru  emyatyrõse jave peteĩ apañuãi. Ehekáramo mbohovái umi porandu oikovéva  &brandShortName; rehegua, eike <a id='supportLink'>tenda eikekuaaha</a>.">
-
 <!ENTITY aboutSupport.crashes.title "Marandu jejavyguáva">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -52,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Puruhára pytyvõha">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Mandu'arenda jepuru">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Mba'apohára mba'epytyvõrã mboguapyréva">
@@ -85,6 +84,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Ta'ãnga">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Mba'eky'a mbotuicháva mbyatypyre">
 
@@ -110,3 +112,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Ndaipóri jehaipy">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+
+
+

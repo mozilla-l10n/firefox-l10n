@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Oñemyenyhẽhína…">
-<!ENTITY listEmpty.installed.label            "Ndereguerekói ãichagua moĩmbaha">
+
 <!ENTITY listEmpty.availableUpdates.label     "Ndojejuhúi ñembohekopyahu">
-<!ENTITY listEmpty.recentUpdates.label        "Nerembopyahúi mba'eveichagua moĩmbaha">
+
 <!ENTITY listEmpty.findUpdates.label          "Ñembohekopyahu jeheka">
 <!ENTITY listEmpty.search.label               "Ndojejuhúi mba'evéichagua ñemboguejypyre ojogueraháva">
 <!ENTITY listEmpty.button.label               "Eikuaave moimbahakuéra rehegua">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Mboguete">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Jeporavorã">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Emoambue poravopyrã ko moimbaha rehegua">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Jerohoryvéva">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Emoambue jerohoryvéva ko moimbaha rehegua">
+
 <!ENTITY cmd.contribute.label                 "Pytyvõ">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Eipytyvõ moimbaha ñemboguatápe">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Mba'épa umi moĩmbaha.">
 <!ENTITY discover.description2                "Umi moĩmbaha ha'e tembipuru'i ombohapéva emomba'ete hag̃ua &brandShortName; tembiaporã oguerekóva térã moimbyréva. Eipuru ta'ãngarupa yke oikuave'ẽva aravo, ohechaukáva ára rehegua térã peteĩ téma ñemoha'ãngáva ejapo hag̃ua &brandShortName;-gui nemba'ete.">
-<!ENTITY discover.footer                      "Eikete vove ñandutípe, ko ta'ãngarupa ome'ẽta heta mba'e iporã ha ojehecharamovéva moimbaha eipuruséramo g̃uarã.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Peteïchagua">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Ñembohekopyahu ijeheguíva">
 <!ENTITY detail.updateDefault.label           "Jepokokuaa'ỹha">
-<!ENTITY detail.updateDefault.tooltip         "Emohendarei tekopyahu oĩ jave kóva ypykuéramo">
+
 <!ENTITY detail.updateAutomatic.label         "Hẽe">
 <!ENTITY detail.updateAutomatic.tooltip       "Emohenda ñembohekopyahu ijeheguíva">
 <!ENTITY detail.updateManual.label            "Mongepyre">
-<!ENTITY detail.updateManual.tooltip          "Aníke emohenda ñembohekopyahu ijeheguíva">
+
 <!ENTITY detail.home                          "Kuatiarogue ñepyrũha">
 <!ENTITY detail.repository                    "Perfil del complemento">
 <!ENTITY detail.size                          "Tuichakue">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Eheka ñembohekopyahu ko moimbaha rehegua">
 <!ENTITY detail.showPreferencesWin.label      "Jeporavorã">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Emoambue poravopyrã ko moimbaha rehegua">
+
 <!ENTITY detail.showPreferencesUnix.label     "Ojererohoryvéva">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Emoambue jerohoryvéva ko moimbaha rehegua">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "¿Mba'épiko kóva? Telemetry ikatu omohenda ha omboguata mba'epyahu sapy'a py'a.">
 <!ENTITY experiment.info.learnmore "Jeikuaave">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Telemetría ñemoĩporã">

@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Tekopyahu jejhechajey'ỹva, (jerovia'ỹva: hekorosã kyhyjéta)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Chemomarandu omongekuaáramo chehegui kóva moĩmbaha arekóva.">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "Tembiasakue rekopyahu jehechauka">
 <!ENTITY updateHistory.accesskey         "p">
 
