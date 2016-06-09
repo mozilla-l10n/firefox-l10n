@@ -4,9 +4,16 @@
 
 <!ENTITY safeb.palm.accept.label "צא מכאן!">
 <!ENTITY safeb.palm.decline.label "התעלם מהזהרה זו">
-<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu item. -->
+<!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
+  item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
+  shown. -->
 <!ENTITY safeb.palm.notdeceptive.label "אתר זה אינו אתר מטעה…">
+<!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
+  safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
+  report-phishing.dtd are never shown at the same time, the same accesskey can
+  be used for them. -->
 <!ENTITY safeb.palm.reportPage.label "למה דף זה נחסם?">
+<!ENTITY safeb.palm.whyForbidden.label "למה דף זה נחסם?">
 
 <!ENTITY safeb.blocked.malwarePage.title "דף תקיפה מדווח!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -20,6 +27,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.title2 "אתר מטעה!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "הדף בכתובת <span id='phishing_sitename'/> דווח כאתר מטעה ונחסם בהתאם להעדפות האבטחה שלך.">
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "אתר חסום">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

@@ -11,7 +11,9 @@
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+<!ENTITY  enableSafeBrowsing.label        "חסימת תוכן מסוכן ומטעה">
 
+<!ENTITY  blockDownloads.label            "חסימת הורדות מסוכנות">
 
 
 <!ENTITY  addonExceptions.label         "חריגות…">
