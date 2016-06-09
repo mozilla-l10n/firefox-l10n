@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Kupakia…">
-<!ENTITY listEmpty.installed.label            "Huna vifaa vya nyongeza vya aina hii vilivyosakinishwa">
+
 <!ENTITY listEmpty.availableUpdates.label     "Hakuna visasaisho vilivyopatikana">
-<!ENTITY listEmpty.recentUpdates.label        "Hivi karibuni hujasasaisha vifaa vyovyote vya nyongeza">
+
 <!ENTITY listEmpty.findUpdates.label          "Kagua Visasaisho">
 <!ENTITY listEmpty.search.label               "Haingepata vifaa vya nyongeza vyovyote vinavyooana">
 <!ENTITY listEmpty.button.label               "Jifunze zaidi kuhusu vifaa vya nyongeza">
@@ -105,9 +105,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Ondoa">
 <!ENTITY cmd.uninstallAddon.accesskey         "O">
 <!ENTITY cmd.showPreferencesWin.label         "Chaguo">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Badilisha chaguo hili la vifaa vya nyongeza">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Mapendeleo">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Badilisha mapendeleo haya ya vifaa vya nyongeza">
+
 <!ENTITY cmd.contribute.label                 "Changia">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Changia kwa maeneleo ya kifaa hiki cha nyongeza">
@@ -122,7 +122,7 @@
 
 <!ENTITY discover.title                       "Kifaa cha nyongeza ni nini?">
 <!ENTITY discover.description2                "Vifaa vya nyongeza ni programu-tumizi ambazo hukuruhusu kubinafsisha &brandShortName; na utenda kazi wa ziada au staili. Jaribu mwambaa upande unaohifadhi wakati, kiarifisho cha hali ya hewa, au mwoneko mandhari kujenga &brandShortName; yako mwenyewe.">
-<!ENTITY discover.footer                      "Wakatu imeunganishwa kwa mtandao, kidirisha hiki kitaonekana vifaa vya nyongeza bora zaidi na vinavyojulikana zaidi kwako ili uvijaribu.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Toleo">
@@ -135,11 +135,11 @@
 
 <!ENTITY detail.updateType                    "Visasaisho Kiotomatiki">
 <!ENTITY detail.updateDefault.label           "Chaguo msingi">
-<!ENTITY detail.updateDefault.tooltip         "Sakinisha kiotomatiki visasaisho kama hili ni chaguo msingi">
+
 <!ENTITY detail.updateAutomatic.label         "Imewashwa">
 <!ENTITY detail.updateAutomatic.tooltip       "Sakinisha visasaisho kiotomatiki">
 <!ENTITY detail.updateManual.label            "Imezimwa">
-<!ENTITY detail.updateManual.tooltip          "Usisakinishe visasaisho kiotomatiki">
+
 <!ENTITY detail.home                          "Ukurasa maskani">
 <!ENTITY detail.repository                    "Umbo la Vifaa vya nyongeza">
 <!ENTITY detail.size                          "Ukubwa">
@@ -149,10 +149,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Kagua kwa visasaisho kwa kifaa hiki cha nyongeza">
 <!ENTITY detail.showPreferencesWin.label      "Chaguo">
 <!ENTITY detail.showPreferencesWin.accesskey  "C">
-<!ENTITY detail.showPreferencesWin.tooltip    "Badilisha chaguo hizi za vifaa vya nyongeza">
+
 <!ENTITY detail.showPreferencesUnix.label     "Mapendeleo">
 <!ENTITY detail.showPreferencesUnix.accesskey "M">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Badilisha mapendeleo ya kifaa hiki cha nyongeza">
+
 <!-- ratings -->
 
 

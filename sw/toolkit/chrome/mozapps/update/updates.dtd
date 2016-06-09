@@ -22,24 +22,9 @@
 
 
 
-<!ENTITY  incompatibleCheck.title         "Kukagua Utangamanifu wa Kifaa cha nyongeza">
-<!ENTITY  incompatibleCheck.label         "Kuangalia matoleo mapya zaidiya vifaa vyako vya nyongeza…">
-
 <!ENTITY  clickHere.label                 "Angalia maelezo zaidi kuhusu kisasaisho hiki">
 
 <!ENTITY  evangelism.desc                 "Inapendekezwa sana kuwa utekeleze kisasaisho hiki cha &brandShortName; haraka iwezekanavyo.">
-
-<!ENTITY  license.instructions            "Kama unakubaliana na masharti ya makubaliano haya, bofya Ninakubali hapa chini na uendelee kusakinisha kisasaisho hiki.">
-
-<!ENTITY  license.titleText               "Makubaliano ya Leseni ya Programu">
-<!ENTITY  license.introText               "Masharti ya kutumia programu hii.">
-<!ENTITY  license.instructionText         "Tafadhali soma makubaliano yafuatayo ya leseni. Tumia mwambaa bigirizi kuangalia makubaliano mengine.">
-<!ENTITY  license.accept                  "Ninakubali masharti ya Makubaliano ya Leseni">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "SIKUBALI masharti ya Makubaliano ya Leseni">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Vifaa vya nyongeza Sitangamanifu Vimepatikana">
 
 <!ENTITY  downloadPage.title              "Kupakua &brandShortName;">
 <!ENTITY  downloading.intro               "Kupakua kisasaisho…">
@@ -70,9 +55,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Kisasaisho kitasakinishwa wakati ujao ambapo &brandShortName; itaanza. Unaweza kuwasha upya &brandShortName; sasa, au endelea kufanya kazi na uwashe upya tena baadaye.">
 
-<!ENTITY  installed.title                 "Kisasaisho Kimesakinishwa">
-<!ENTITY  installed.intro                 "Kisasaisho kimefanikiwa kusakinishwa.">
-<!ENTITY  whatsnew.label                  "Soma zaidi kuhusu ni nini kipya…">
 
 <!ENTITY  update.details.label            "Maelezo">
 <!ENTITY  update.installedOn.label        "Ilisakinishwa:">

@@ -108,8 +108,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
 <!ENTITY fullScreenMinimize.tooltip "Punguza">
 <!ENTITY fullScreenRestore.tooltip "Rejesha">
 
@@ -165,6 +163,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Onyesha alamisho zaidi">
 
+
+
+
+
 <!ENTITY backButton.tooltip           "Rudi nyuma ukurasa mmoja">
 
 <!ENTITY forwardButton.tooltip        "Nenda mbele ukurasa mmoja">
@@ -214,6 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksToolbar.label         "Tazama Mwambaa zana wa Alamisho">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -245,14 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Faili"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY newNavigatorCmd.label        "Dirisha Mpya">
@@ -527,19 +522,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "N">
 <!ENTITY mediaUnmute.label           "Nyamazishua">
 <!ENTITY mediaUnmute.accesskey       "z">
-<!ENTITY mediaPlaybackRate.label     "Kasi ya Kucheza">
-<!ENTITY mediaPlaybackRate.accesskey "a">
-<!ENTITY mediaPlaybackRate050x.label "Mwendo wa Polepole (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "M">
-<!ENTITY mediaPlaybackRate100x.label "Kasi ya Kawaida">
-<!ENTITY mediaPlaybackRate100x.accesskey "K">
-<!ENTITY mediaPlaybackRate150x.label "Kasi ya Juu (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "K">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Kasi Isiyo ya kawaida (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "K">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

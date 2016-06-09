@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Maelezo ya Usuluhishaji">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Ukurasa huu una maelezo ya kiufundi ambayo yanaweza kutumiwa wakati unajaribu kutatua tatizo. Kama unatafuta majibu kwa maswali ya kawaidia kuhusu &brandShortName;, kagua kiungo chetu <a id='supportLink'>wavuti wa usaidizi</a>.">
-
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Kitambulishi Ripoti">
@@ -48,6 +46,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Mtumaiji Wakala">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utumizi wa Kumbukumbu">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
@@ -75,6 +74,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Sanaa">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "Hati ya java">
 <!ENTITY aboutSupport.jsIncrementalGC "GC ya Nyongesa">
 
@@ -89,6 +91,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Nakili matini katika ubao">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Nakili data ghafi kwa ubao">
+
+
+
 
 
 

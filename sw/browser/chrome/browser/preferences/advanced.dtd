@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Kamwe usikague visasisho (haipendekezwi: hatari kwa usalama)">
 <!ENTITY updateManual.accesskey          "K">
 
-<!ENTITY updateAutoAddonWarn.label       "Nionye kama hii italemaza vifaa vyovyote vya nyongeza">
-<!ENTITY updateAutoAddonWarn.accesskey   "N">
-
 <!ENTITY updateHistory.label             "Onyesha Historia ya Visasaisho">
 <!ENTITY updateHistory.accesskey         "s">
 

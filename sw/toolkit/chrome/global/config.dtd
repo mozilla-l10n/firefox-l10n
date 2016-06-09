@@ -8,7 +8,7 @@
 
 <!ENTITY aboutWarningTitle.label "Hii inaweza fanya hati yako batili!">
 <!ENTITY aboutWarningText.label "Kubadilisha mipangilio ya juu inaweza kudhuru udhibiti wako, usalama, na na utendakazi wa programu hii. Unafaa kuendelea kama unahakika unafanya nini.">
-<!ENTITY aboutWarningButton.label "Nitakuwa mwangalifu, ninaahidi!">
+
 <!ENTITY aboutWarningCheckbox.label "Onyesha onyo hii wakati ujao">
 
 <!ENTITY searchPrefs.label "Tafuta:">

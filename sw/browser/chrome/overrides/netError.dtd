@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; imzuia ukurasa huu kupakiwa kwa njia hii kwa sababu ukurasa una sera ya usalama wa maudhui ambayo haiiruhusu.</p>">
 
-<!ENTITY corruptedContentError.title "Kosa la Kuharibika kwa Maudhui">
-<!ENTITY corruptedContentError.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Kosa la Kuharibika kwa Maudhui">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ongeza Jambo la pekee…">
@@ -94,9 +94,13 @@ was trying to connect. -->
 
 
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
