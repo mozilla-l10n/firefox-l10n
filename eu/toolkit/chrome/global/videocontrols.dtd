@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Bideoa kargatzea geldituta.">
 <!ENTITY error.network "Bideoaren erreprodukzioa abortatuta sareko errore batengatik.">
-<!ENTITY error.decode "Ezin da bideoa erreproduzitu fitxategia hondatuta dagoelako.">
+
 <!ENTITY error.srcNotSupported "Bideo-formatua edo MIME mota ez da onartzen.">
 <!ENTITY error.noSource2 "Ez da bideorik aurkitu onartutako bideo-formatu eta MIME motarekin.">
 <!ENTITY error.generic "Bideoaren erreprodukzioa abortatuta errore ezezagun batengatik.">
