@@ -96,8 +96,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
 <!ENTITY fullScreenClose.tooltip "Ɨ́baide">
 
 
@@ -145,6 +143,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Bíe rábemo kúeri">
 <!ENTITY subscribeToPageMenuitem.label "Bíe rábenmo kúeri">
 <!ENTITY addCurPagesCmd.label "Tuñoka úitɨraɨ zota...">
+
+
+
+
 
 
 
@@ -203,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksToolbar.label         "Rɨgɨnoga rádozɨ">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -236,14 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "J">
 
 
-<!ENTITY userContextPersonal.label        "Kúeɨena">
-<!ENTITY userContextPersonal.accesskey    "K">
-<!ENTITY userContextWork.label            "Táɨjina">
-<!ENTITY userContextWork.accesskey        "T">
-<!ENTITY userContextBanking.label         "Bancos">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Ɨbade">
-<!ENTITY userContextShopping.accesskey    "Ɨ">
 <!ENTITY newNavigatorCmd.label        "Kómue eroirafo">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "K">
@@ -533,17 +528,20 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "K">
 
 
-<!ENTITY mediaPlaybackRate050x.label "Fɨade Jóreño óra (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "F">
 
 
-<!ENTITY mediaPlaybackRate150x.label "Ráɨre íte (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "R">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Ráɨre jáide (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "R">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

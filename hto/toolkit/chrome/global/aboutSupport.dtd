@@ -45,6 +45,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Mámekɨ náama">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Ráa ofítaɨra">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers já kúega">
@@ -76,6 +77,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Jíderiya">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Fɨgoñede ráa áiyo íte.">
 
@@ -94,6 +98,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Fáka dɨne ñúera">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ábɨdo taɨne jɨaɨmakɨ ráa dɨga...">
+
+
+
 
 
 
