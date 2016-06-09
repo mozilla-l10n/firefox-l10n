@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Kigengo ki Cik me Gwoko ber-bedo pa jami matye iye">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ogengo woko pot buk man me canne i yo man pien pot buk ke tye ki cik me jami matye iye mape ye en.</p>">
 
-<!ENTITY corruptedContentError.title "Bal me jami matye iye ma oballe">
-<!ENTITY corruptedContentError.longDesc "<p>Pot buk ma i tye katemo neno ne ni pe kitwero nyuto ne pien bal onyute i cwalo tic.</p><ul><li>Tim ber i kube ki wegi kakube man pi mini gi ngec pi peko man.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Bal me jami matye iye ma oballe">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Pot buk ma i tye katemo neno ne ni pe kitwero nyuto ne pien bal onyute i cwalo tic.</p><ul><li>Tim ber i kube ki wegi kakube man pi mini gi ngec pi peko man.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Med ma Kikwanyo…">
@@ -98,9 +98,13 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Ma lamal">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> tiyo ki diro me gwoko ber bedo ma dong kare okato woko ki goro. Ngat mo romo nyuto ngec ma i tamo ni kigwoko maber ni i yo ma yot.">
 <!ENTITY weakCryptoAdvanced.override "(Pe ki ber bedo) Tem cano <span class='hostname'></span> tiyo ki gwoko ber bedo ma kare ne okato woko">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

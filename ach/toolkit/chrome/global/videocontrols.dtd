@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Kijuko cano video woko.">
 <!ENTITY error.network "Kijuko woko tuku video malube ki bal me kube me wiyamo.">
-<!ENTITY error.decode "Video pe romo tuku pien file otyeko bale woko.">
+
 <!ENTITY error.srcNotSupported "Kit me yubu Video onyo MIME pe kicwako.">
 <!ENTITY error.noSource2 "Pe kinongo video mo keken ki MIME ma tiyo.">
 <!ENTITY error.generic "Kijuko woko tuku cal video pi bal ma pe ngene.">

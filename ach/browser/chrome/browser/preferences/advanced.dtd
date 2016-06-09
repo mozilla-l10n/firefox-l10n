@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Pe i rot pi ngec manyen matwal (pe kicwako: ber bedo pe gene)">
 <!ENTITY updateManual.accesskey          "P">
 
-<!ENTITY updateAutoAddonWarn.label       "Miya ngec kace man bi juko med-ikome mamega mo">
-<!ENTITY updateAutoAddonWarn.accesskey   "M">
-
 <!ENTITY updateHistory.label             "Nyut gin mukato me Ngec manyen">
 <!ENTITY updateHistory.accesskey         "g">
 
