@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; മുന്‍ഗണനകള്‍ തുറക്കുക">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label;-ലേക്ക് വീണ്ടും കണക്ട് ചെയ്യുക">
 <!ENTITY fxaUnverified.label "താങ്കളുടെ അക്കൗണ്ട് ഉറപ്പു് വരുത്തൂ">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; പ്രവര്‍ത്തന സജ്ജം">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; അനുനിമിഷം സിന്‍ക് ചെയ്യുന്നു.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "ചെറുതാക്കുക">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "കൂടുതല്‍ അടയാളക്കുറിപ്പുകള്‍ കാണിക്കുക">
 
+
+
+
+
 <!ENTITY backCmd.label                "പുറകോട്ട്‌">
 <!ENTITY backButton.tooltip           "ഒരു താള്‍ പുറകോട്ട്‌ പോകുക">
 <!ENTITY forwardCmd.label             "മുമ്പോട്ട്">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewBookmarksSidebar2.label        "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക">
 <!ENTITY viewBookmarksToolbar.label         "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "പുതിയ കണ്ടൈനര്‍ റ്റാബ്">
 <!ENTITY newUserContext.accesskey         "C">
-<!ENTITY userContextPersonal.label        "വ്യക്തിപരം">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "ജോലി">
-<!ENTITY userContextWork.accesskey        "W">
-<!ENTITY userContextBanking.label         "ബാങ്കിങ്ങ്">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "വ്യാപാരം">
-<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "പുതിയ ജാലകം ">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -556,19 +551,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ശബ്ദം സജ്ജമാക്കുക">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate.label     "പ്രവര്‍ത്തന വേഗത">
-<!ENTITY mediaPlaybackRate.accesskey "ന">
-<!ENTITY mediaPlaybackRate050x.label "സ്ലോ മോഷന്‍ (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "സ">
-<!ENTITY mediaPlaybackRate100x.label "സാധാരണ വേഗത">
-<!ENTITY mediaPlaybackRate100x.accesskey "സ">
-<!ENTITY mediaPlaybackRate150x.label "കൂടിയ വേഗത (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "ക">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "അതിവേഗത (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "അ">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -677,7 +675,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "സുരക്ഷിത കണക്ഷന്‍">
 <!ENTITY identity.connectionNotSecure "താങ്കളുടെ കണക്ഷന്‍ സുരക്ഷിതമല്ല">
 <!ENTITY identity.connectionFile "ഈ താള്‍ താങ്കളുടെ കമ്പ്യൂട്ടറില്‍ ശേഖരിച്ചിട്ടുണ്ട്.">
-<!ENTITY identity.connectionVerified1 "താങ്കള്‍ സുരക്ഷിതമായി ഈ വെബ്‌ സൈറ്റിലേക്ക് കണക്റ്റ് ചെയ്തിട്ടുണ്ട്, പ്രവര്‍ത്തിപ്പിക്കുന്നത്:">
+
 <!ENTITY identity.connectionInternal "ഇതു് സുരക്ഷിതമായൊരു &brandShortName; താള്‍ ആകുന്നു.">
 
 <!-- Strings for connection state warnings. -->

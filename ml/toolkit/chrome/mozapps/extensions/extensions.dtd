@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "ലഭ്യമാക്കുന്നു…">
-<!ENTITY listEmpty.installed.label            "ഈ രീതിയിലുള്ള ആഡ്-ഓണുകള്‍ നിങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്തിട്ടില്ല">
+
 <!ENTITY listEmpty.availableUpdates.label     "പരിഷ്കരണങ്ങള്‍ ലഭ്യമല്ല">
-<!ENTITY listEmpty.recentUpdates.label        "അടുത്തിടയ്ക്കു് ആഡ്-ഓണുകള്‍ പരിഷ്കരിച്ചിട്ടില്ല">
+
 <!ENTITY listEmpty.findUpdates.label          "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക">
 <!ENTITY listEmpty.search.label               "ചേരുന്ന ആഡ്-ഓണുകള്‍ ലഭ്യമായില്ല">
 <!ENTITY listEmpty.button.label               "ആഡ്-ഓണുകളെപ്പറ്റി കൂടുതല്‍ അറിയുക">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "നീക്കം ചെയ്യുക">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "ഐച്ഛികങ്ങള്‍">
-<!ENTITY cmd.showPreferencesWin.tooltip       "ഈ ആഡ്-ഓണിനുള്ള ഐച്ഛികങ്ങള്‍ മാറ്റുക">
+
 <!ENTITY cmd.showPreferencesUnix.label        "മുന്‍ഗണനകള്‍">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "ഈ ആഡ്-ഓണിനുള്ള മുന്‍ഗണനകള്‍ മാറ്റുക">
+
 <!ENTITY cmd.contribute.label                 "സംഭാവന ചെയ്യുക">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "ഈ ആഡ്-ഓണിന്റെ പുരോഗതിയ്ക്കായി സംഭാവന ചെയ്യുക">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "എന്താണു് ആഡ്-ഓണുകള്‍?">
 <!ENTITY discover.description2                "നിങ്ങളുടെ ഇഷ്ടാനുസൃതം &brandShortName; -നു് കൂടുതല്‍ പ്രവര്‍ത്തനശേഷിയും ശൈലിയും ലഭ്യമാക്കുന്ന പ്രയോഗങ്ങളാണു് ആഡ്-ഓണുകള്‍. &brandShortName; നിങ്ങളുടെ ഇഷ്ടമുള്ളത് പോലെ ആക്കാന്‍ ഒരു കാലാവസ്ഥാ അറിയിപ്പോ, തീം മാറ്റുകയോ ചെയ്ത് നോക്കു.">
-<!ENTITY discover.footer                      "ഇന്റര്‍നെറ്റ് കണക്ഷനുള്ളപ്പോള്‍, ഈ പെയിനില്‍ ഏറ്റവും  ഉത്തമമായ ആഡ്-ഓണുകള്‍ നിങ്ങള്‍ക്കു് കാണാം.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "പതിപ്പു്">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "ഓട്ടോമാറ്റിക്ക് പരിഷ്കരണങ്ങള്‍">
 <!ENTITY detail.updateDefault.label           "സ്വതവേ">
-<!ENTITY detail.updateDefault.tooltip         "സ്വതവേയുള്ളതാണെങ്കില്‍ മാത്രം പരിഷ്കരണങ്ങള്‍ ഓട്ടോമാറ്റിക്കായി ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
+
 <!ENTITY detail.updateAutomatic.label         "ഓണ്‍">
 <!ENTITY detail.updateAutomatic.tooltip       "പരിഷ്കരണങ്ങള്‍ ഓട്ടോമാറ്റിക്കായി ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
 <!ENTITY detail.updateManual.label            "ഓഫ്">
-<!ENTITY detail.updateManual.tooltip          "പരിഷ്കരണങ്ങള്‍ ഓട്ടോമാറ്റിക്കായി ഇന്‍സ്റ്റോള്‍ ചെയ്യരുതു്">
+
 <!ENTITY detail.home                          "ആസ്ഥാനതാള്‍">
 <!ENTITY detail.repository                    "ആഡ്-ഓണ്‍ പ്രൊഫൈല്‍">
 <!ENTITY detail.size                          "വ്യാപ്തി">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "ഈ ആഡ്-ഓണിനുള്ള പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക">
 <!ENTITY detail.showPreferencesWin.label      "ഐച്ഛികങ്ങള്‍">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "ഈ ആഡ്-ഓണിനുള്ള ഐച്ഛികങ്ങള്‍ മാറ്റുക">
+
 <!ENTITY detail.showPreferencesUnix.label     "മുന്‍ഗണനകള്‍">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "ഈ ആഡ്-ഓണിനുള്ള മുന്‍ഗണനകള്‍ മാറ്റുക">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "എന്താണിതു്? ഓരോ സമയത്തു് ടെലിമെട്രി ഇന്‍സ്റ്റോള്‍ ചെയ്തു് പരീക്ഷണങ്ങള്‍ പ്രവര്‍ത്തിയ്ക്കുന്നു.">
 <!ENTITY experiment.info.learnmore "കൂടുതല്‍ അറിയുക">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "ടെലിമെട്രി സജ്ജീകരണങ്ങള്‍">
