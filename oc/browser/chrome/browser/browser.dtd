@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Marcats recentament">
 <!ENTITY otherBookmarksCmd.label "Autres marcapaginas">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afichar mai de marcapaginas">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Afichar los Marcats recentament">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "Amagar los Marcats recentament">
+<!ENTITY hideRecentlyBookmarked.accesskey "g">
 
 <!ENTITY backCmd.label                "Pagina precedenta">
 <!ENTITY backButton.tooltip           "Recuolar d'una pagina">
@@ -202,8 +202,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Actualament, partejatz vòstra webcam o vòstre microfòn amb lo site">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Actualament, partejatz vòstra webcam o vòstre microfòn amb lo site">
-
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Actualament, partejatz vòstre microfòn amb lo site">
 <!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Actualament, partejatz vòstre microfòn amb lo site">
 
 
@@ -546,8 +547,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "u">
 <!ENTITY mediaUnmute.label           "Ausible">
 <!ENTITY mediaUnmute.accesskey       "u">
-
-
+<!ENTITY mediaPlaybackRate2.label     "Velocitat de lectura">
+<!ENTITY mediaPlaybackRate2.accesskey "l">
 
 
 
@@ -706,6 +707,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Onglets del navigador">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
+<!ENTITY syncTabsMenu3.label     "Onglets sincronizats">
+
+<!ENTITY syncedTabs.sidebar.label              "Onglets sincronizats">
 
 
 

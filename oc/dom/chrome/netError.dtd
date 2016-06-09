@@ -31,7 +31,7 @@
 
 
 <!ENTITY notCached.title "Lo document a expirat">
-
+<!ENTITY notCached.longDesc "<p>Lo document demandat es pas disponible dins lo cache del navigador.</p> <ul> <li>Per de rasons de seguretat, lo navigador redemanda pas automaticament los documents sensibles.</li> <li>Clicar sus « Ensajar tornarmai » per tornar demandar lo document a partir del site Web.</li> </ul>">
 
 <!ENTITY netOffline.title "Offline Mode">
 <!ENTITY netOffline.longDesc2 "<p>Lo navigador es en mòde fòra connexion e se pòt pas connectar a l&apos;adreça indicada.</p><ul><li>L&apos;ordenador es connectat a la ret ?</li><li>Clicatz sul boton &quot;Ensajar tornarmai&quot; per tornar en mòde connectat e recargar la pagina.</li></ul>">
@@ -46,16 +46,16 @@
 <!ENTITY netReset.longDesc "<p>The network link was interrupted while negotiating a connection. Please try again.</p>">
 
 <!ENTITY netTimeout.title "Network Timeout">
-
+<!ENTITY netTimeout.longDesc "<p>Lo navigador a esperat tròp longtemps al moment de la connexion al site e a arrestat d'esperar una responsa.</p> <ul> <li>Benlèu que lo servidor es en suscarga o es temporàriament en pana ? Ensajatz pus tard.</li><li>D'autres sites son tanben inaccessibles ? Verificatz la connexion a la ret de vòstre ordenador.</li> <li>Vòstre ordenador o vòstra ret es protegida per un parafuòc o un proxy?  De paramètres incorrèctes pòdon interferir amb la navigacion sus lo Web.</li> <li>Avètz totjorn de problèmas ? Consultatz vòstre administrator de la ret o vòstre provesidor d'accès a Internet per obténer d'ajuda.</li> </ul>">
 
 <!ENTITY unknownProtocolFound.title "Unknown Protocol">
 <!ENTITY unknownProtocolFound.longDesc "<p>L'adreça indica un protocòl (per ex. <q>wxyz://</q>) desconegut del navigador que doncas se pòt pas connectar corrèctament al site.</p><ul><li>Ensajatz d'accedir a de contengut multimèdia o d'autres servicis que son pas de tèxte ? Verificatz los prerequesits logicials del site.</li><li>D'unes protocòls pòdon necessitar un logiciel tèrç o de plugins per que lo navigador los pòsca reconéisser.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy Server Refused Connection">
-
+<!ENTITY proxyConnectFailure.longDesc "<p>Lo navigador es configurat per utilizar un servidor proxy mas lo proxy a refusat la connexion.</p><ul><li>La configuracion proxy del navigador es corrècta ? Verificatz los paramètres e tornatz ensajar.</li><li>Lo servici proxy autoriza las connexions a partir d'aquesta ret ?</li><li>Avètz encara de problèmas ? Consultatz vòstre administrator de ret o vòstre provesidor d'accès a Internet per obténer d'ajuda.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Proxy Server Not Found">
-
+<!ENTITY proxyResolveFailure.longDesc "<p>Lo navigador es configurat per utilizar un servidor proxy mas lo servidor proxy es introbable.</p><ul><li>La configuracion proxy del navigador es corrècta ? Verificatz los paramètres e tornatz ensajar.</li><li>L'ordenador es connectat a la ret ?</li><li>Avètz encara de problèmas ? Consultatz vòstre administrator de ret o  vòstre provesidor d'accès a Internet per obténer d'ajuda.</li></ul>">
 
 <!ENTITY redirectLoop.title "Redirect Loop">
 
@@ -67,7 +67,7 @@
 <!ENTITY nssFailure2.longDesc2 "<p>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pò pas èsser verificada.</p><ul><li>Contactatz los proprietaris del site Web per los n'assabentar.</li></ul>">
 
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu'ensaja d'usurpar l'identitat del servidor.</li> <li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz ensajar tornamai pus tard.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "O podètz apondre una excepcion…">
 <!ENTITY securityOverride.warningContent "<p>Vos cal pas apondre d'excepcion s'utilizatz una connexion a Internet dins la quala avètz pas totalament fisança o s'avètz pas la costuma de recebre un avertiment per aqueste servidor.</p> <p>Se volètz encara apondre una excepcion a aqueste site, lo podètz far dins vòstres paramètres de criptatge avançat.</p>">
