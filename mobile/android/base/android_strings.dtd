@@ -77,6 +77,8 @@
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "An liosta leughaidh">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+
+<!ENTITY bookmark_folder_items "&formatD; nì(thean)">
 <!ENTITY bookmark_folder_one_item "1 nì">
 
 <!ENTITY reader_saved_offline "Air a shàbhaladh far loidhne">
