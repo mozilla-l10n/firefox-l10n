@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; प्राधान्यता उघडा">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; सह जोडणी करा">
 <!ENTITY fxaUnverified.label "आपले खाते सत्यापित करा">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; सुरू केले">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; लवकरच ताळमेळ सुरू करेल.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "छोटे करा">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "इतर वाचनखूणा">
 <!ENTITY bookmarksToolbarChevron.tooltip "आणखी वाचनखूणा दर्शवा">
 
+
+
+
+
 <!ENTITY backCmd.label                "मागे">
 <!ENTITY backButton.tooltip           "ऐक पृष्ठ मागे जा">
 <!ENTITY forwardCmd.label             "पुढे">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "इतर वाचनखूणा">
 <!ENTITY viewBookmarksSidebar2.label        "वाचनखूणा साधनपट्टी दृष्य">
 <!ENTITY viewBookmarksToolbar.label         "वाचनखूणा साधनपट्टी दृष्य">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "नवीन Container टॅब">
 <!ENTITY newUserContext.accesskey         "C">
-<!ENTITY userContextPersonal.label        "Personal">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Work">
-<!ENTITY userContextWork.accesskey        "W">
-<!ENTITY userContextBanking.label         "बँकिंग">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Shopping">
-<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "नवीन पटल">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "मंद अशक्य करा">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate.label     "चालवायची गति">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "मंदगति (0.5x)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "सामान्य गति">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "शीघ्रगति (1.5x)">
-<!ENTITY mediaPlaybackRate150x.accesskey "H">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "हास्यास्पद गति (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "L">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "सुरक्षित जोडणी">
 <!ENTITY identity.connectionNotSecure "जोडणी असुरक्षित आहे">
 <!ENTITY identity.connectionFile "हे पृष्ठ आपल्या संगणकावर संचयीत केले गेले आहे.">
-<!ENTITY identity.connectionVerified1 ":द्वारे चालवण्यात येणाऱ्या साईटला आपण सुरक्षितपणे जुळलेले आहात">
+
 <!ENTITY identity.connectionInternal "हे सुरक्षित &brandShortName; पृष्ठ आहे.">
 <!ENTITY identity.insecureLoginForms2 "आपण ह्या पृष्ठावर दिलेल्या लॉग इन माहितीबरोबर तडजोड होऊ शकते.">
 <!-- Strings for connection state warnings. -->

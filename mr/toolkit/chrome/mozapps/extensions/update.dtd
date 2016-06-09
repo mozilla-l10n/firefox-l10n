@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "सहत्व ॲड-ऑन्स् आढळले">
 <!ENTITY  found.top.label                 "आपल्याला प्रतिष्ठापन करण्याकरीता ॲड-ऑन्स् निवडा:">
-<!ENTITY  found.disabledXPinstall.label   "हे अद्ययावत प्रतिष्ठापीत होऊ शकले नाही कारण सॉफ्टवेअर प्रतिष्ठापन सद्या अकार्यान्वीत आहे. आपण ही सेटींग खालिल प्रमाणे बदलवू शकता.">
+
 <!ENTITY  found.enableXPInstall.label     "सॉफ्टवेअर इंस्टॉल करण्यासाठी संकेतस्थळांना परवानगी द्या">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
