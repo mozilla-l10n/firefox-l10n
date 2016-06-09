@@ -101,8 +101,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -163,6 +161,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
+
+
+
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
@@ -193,17 +195,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-
-
-
-
-
-
-
-
 
 
 
@@ -491,9 +486,13 @@ items are mutually exclusive. -->
 
 
 
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+
+
 
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
