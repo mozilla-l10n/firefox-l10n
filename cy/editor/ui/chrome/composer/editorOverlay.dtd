@@ -293,7 +293,7 @@
 <!ENTITY printToolbarCmd.label "Argraffu">
 <!ENTITY printToolbarCmd.tooltip "Argraffu'r dudalen">
 <!ENTITY findToolbarCmd.label "Canfod">
-<!ENTITY findToolbarCmd.tooltip "Canfod y testun yn y dudalen">
+<!ENTITY findToolbarCmd.tooltip "Canfod y testun ar y dudalen">
 <!ENTITY spellToolbarCmd.label "Sillafu">
 <!ENTITY spellToolbarCmd.tooltip "Gwirio sillafu o adran neu o'r dudalen gyfan">
 <!ENTITY imageToolbarCmd.label "Delwedd">

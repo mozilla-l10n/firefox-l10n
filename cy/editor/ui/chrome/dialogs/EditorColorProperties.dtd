@@ -5,7 +5,7 @@
 
 <!ENTITY windowTitle.label "Lliwiau Tudalen a Chefndir">
 <!ENTITY pageColors.label "Lliwiau Tudalen">
-<!ENTITY defaultColorsRadio.label "Lliwiau Rhagosodedig y Darllenydd (Peidio gosod lliwiau yn y dudalen)">
+<!ENTITY defaultColorsRadio.label "Lliwiau Rhagosodedig y Darllenydd (Peidio gosod lliwiau ar y dudalen)">
 <!ENTITY defaultColorsRadio.accessKey "L">
 <!ENTITY defaultColorsRadio.tooltip "Defnyddio gosodiad lliw porwr y gwyliwr (darllenydd) yn unig">
 <!ENTITY customColorsRadio.label "Defnyddio lliwiau addasu:">
