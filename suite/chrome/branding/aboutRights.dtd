@@ -5,7 +5,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "Acerca dos seus direitos">
+<!ENTITY rights.intro-header    "Sobre os seus direitos">
 <!ENTITY rights.intro "O &brandFullName; é livre e é um software de código aberto, construído por uma comunidade de centenas de pessoas de todo o mundo. Existem algumas coisas que deve saber:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -16,8 +16,8 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 
-<!ENTITY rights.intro-point1a "O &brandShortName; é disponibilizado nos termos da ">
-<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1a "O &brandShortName; está disponível sob os termos da ">
+<!ENTITY rights.intro-point1b "Licença pública da Mozilla">
 <!ENTITY rights.intro-point1c ". Isto significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas. Também pode modificar o código fonte do &brandShortName; conforme as suas necessidades. A Mozilla Public License também lhe dá o direito de distribuir as suas versões modificadas.">
 
 <!ENTITY rights.intro-point2a "A Mozilla não lhe dá nenhum direito às marcas registadas ou logótipos da Mozilla e do Firefox. Encontra mais informação adicional sobre marcas registadas ">
