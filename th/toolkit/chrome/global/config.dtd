@@ -8,7 +8,7 @@
 
 <!ENTITY aboutWarningTitle.label "โปรดระวัง แก้แล้วพังเราจะไม่รับผิดชอบนะ">
 <!ENTITY aboutWarningText.label "การเปลี่ยนแปลงการตั้งค่าขั้นสูงอาจจะทำให้โปรแกรมขาดเสถียรภาพ ความปลอดภัยลดลงและลดประสิทธิภาพการทำงานโดยรวม คุณจะดำเนินการต่อก็ได้ หากรู้ว่ากำลังทำอะไรอยู่">
-<!ENTITY aboutWarningButton.label "ตกลง เราจะระมัดระวัง">
+
 <!ENTITY aboutWarningCheckbox.label "แสดงการเตือนนี้ทุกครั้ง">
 
 <!ENTITY searchPrefs.label "ค้นหา :">

@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "ไม่ต้องตรวจสอบการปรับรุ่น (ไม่แนะนำ: เสี่ยงต่อความปลอดภัยของระบบ)">
 <!ENTITY updateManual.accesskey          "ม">
 
-<!ENTITY updateAutoAddonWarn.label       "เตือนฉันถ้าการปรับรุ่นจะส่งผลกระทบให้เกิดการปิดใช้งานส่วนเสริม">
-<!ENTITY updateAutoAddonWarn.accesskey   "น">
-
 <!ENTITY updateHistory.label             "แสดงประวัติการปรับรุ่น">
 <!ENTITY updateHistory.accesskey         "ป">
 
