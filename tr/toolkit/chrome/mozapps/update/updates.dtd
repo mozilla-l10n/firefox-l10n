@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "&brandShortName; güncel değil, fakat sisteminiz en son sürümü desteklemiyor. Lütfen sisteminizi yükseltin ve tekrar deneyin. Bu bildirimi tekrar görmeyeceksiniz ancak konuyla ilgili">
 <!ENTITY  unsupportedLink.label           "daha fazla bilgi alabilirsiniz.">
 
-<!ENTITY  incompatibleCheck.title         "Eklenti uyumluluk denetimi">
-<!ENTITY  incompatibleCheck.label         "Eklentilerinizin yeni sürümleri aranıyor…">
-
 <!ENTITY  clickHere.label                 "Bu güncelleme hakkındaki bilgileri göster">
 
 <!ENTITY  evangelism.desc                 "Bu &brandShortName; güncellemesini en kısa sürede uygulamanız şiddetle tavsiye edilir.">
-
-<!ENTITY  license.instructions            "Bu şartları kabul ediyorsanız lütfen aşağıdaki 'Kabul Ediyorum' düğmesine tıklayarak bu güncellemeyi kurmaya devam edin.">
-
-<!ENTITY  license.titleText               "Yazılım lisans anlaşması">
-<!ENTITY  license.introText               "Bu yazılımı kullanma kuralları ve koşulları.">
-<!ENTITY  license.instructionText         "Lütfen aşağıdaki lisans sözleşmesini okuyun. Anlaşmanın geri kalanını görmek için kaydırmak çubuğunu kullanın.">
-<!ENTITY  license.accept                  "Lisans Anlaşması'nın koşullarını kabul ediyorum">
-<!ENTITY  license.accept.accesskey        "k">
-<!ENTITY  license.decline                 "Lisans Anlaşması'nın koşullarını kabul ETMİYORUM">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Uyumsuz eklentiler bulundu">
 
 <!ENTITY  downloadPage.title              "&brandShortName; indiriliyor">
 <!ENTITY  downloading.intro               "Güncelleme indiriliyor…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Güncelleme &brandShortName; yeniden başlatıldığında kurulacak. &brandShortName; uygulamasını isterseniz şimdi veya işinizi bitirdikten sonra yeniden başlatabilirsiniz.">
 
-<!ENTITY  installed.title                 "Güncelleme kuruldu">
-<!ENTITY  installed.intro                 "Güncelleme başarılı bir şekilde kuruldu.">
-<!ENTITY  whatsnew.label                  "Yenilikleri oku…">
 
 <!ENTITY  update.details.label            "Ayrıntılar">
 <!ENTITY  update.installedOn.label        "Kurulum tarihi:">

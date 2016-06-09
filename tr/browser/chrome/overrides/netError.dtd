@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "İçerik güvenlik politikası uyarınca engellendi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
 
-<!ENTITY corruptedContentError.title "Hasarlı İçerik Hatası">
-<!ENTITY corruptedContentError.longDesc "<p>Veri aktarımında bir hata tespit edildiği için bakmak istediğiniz sayfa gösterilemiyor.</p><ul><li>Site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Hasarlı İçerik Hatası">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Veri aktarımında bir hata tespit edildiği için bakmak istediğiniz sayfa gösterilemiyor.</p><ul><li>Site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ayrıcalık tanı…">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Gelişmiş">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> sitesi eskimiş ve saldırılara açık bir güvenlik teknolojisi kullanıyor. Saldırganlar, güvende olduğunu düşündüğünüz bilgileri kolayca ele geçirebilir.">
 <!ENTITY weakCryptoAdvanced.override "(Güvenli değil) Eskimiş güvenlik ayarlarıyla <span class='hostname'></span> adresini yeniden yüklemeyi dene">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Güvensiz Bağlantı">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Bu site, &brandShortName; tarayıcısının kendisine yalnızca güvenli olarak bağlanabileceğini belirtmek için HTTP Sıkı Aktarım Güvenliği (HSTS) kullanmaktadır. Sonuç olarak, bu sertifika için istisna eklenemez.">
+
 <!ENTITY certerror.copyToClipboard.label "Metni panoya kopyala">
 
 <!ENTITY inadequateSecurityError.title "Bağlantınız güvenli değil">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> eskimiş ve saldırılara açık bir güvenlik teknolojisi kullanıyor. Saldırganlar, güvende olduğunu sandığınız bilgilerinizi kolayca ele geçirebilirler. Bu siteye girebilmeniz için önce site yöneticisinin sunucuyu düzeltmesi gerekir.</p><p>Hata kodu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+
