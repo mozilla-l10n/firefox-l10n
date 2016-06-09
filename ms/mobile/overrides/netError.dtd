@@ -80,8 +80,8 @@
 <!ENTITY cspBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; menghalang laman ini daripada dipaparkan kerana ia mempunyai kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
 
-<!ENTITY corruptedContentError.title "Ralat Kandungan Rosak">
-<!ENTITY corruptedContentError.longDesc "<p>Laman yang anda cuba untuk lihat tidak dapat dipamer kerana ada kesilapan dalam penghantaran data telah dikesan.</p><ul><li>Sila hubungi pemilik tapak web ini untuk memaklumkannya mengenai masalah ini.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Ralat Kandungan Rosak">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Laman yang anda cuba untuk lihat tidak dapat dipamer kerana ada kesilapan dalam penghantaran data telah dikesan.</p><ul><li>Sila hubungi pemilik tapak web ini untuk memaklumkannya mengenai masalah ini.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Atau anda boleh tambah pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Keluarkan saya dari sini!">
