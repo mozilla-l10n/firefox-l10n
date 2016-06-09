@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Блокирано от политика за сигурност на страницата">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото страницата е с политика за сигурност, което го забранява.</p>">
 
-<!ENTITY corruptedContentError.title "Грешка на развалено съдържание">
-<!ENTITY corruptedContentError.longDesc "<p>Не може да се покаже страницата, която се опитвате на видите, защото беше открита грешка при прехвърлянето на данни.</p><ul><li>Моля, свържете се със собствениците на сайта и ги информирайте за проблема.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Грешка на развалено съдържание">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Не може да се покаже страницата, която се опитвате на видите, защото беше открита грешка при прехвърлянето на данни.</p><ul><li>Моля, свържете се със собствениците на сайта и ги информирайте за проблема.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
@@ -98,9 +98,13 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Допълнителни">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> използва технологии за защита, които са остарели и уязвими за атака. Атакуваща страна може да разкрие информация, която си мислите, че е в безопасност.">
 <!ENTITY weakCryptoAdvanced.override "(Не е защитено) Опит за зареждане на <span class='hostname'></span>, използвайки остарели нива на защита">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

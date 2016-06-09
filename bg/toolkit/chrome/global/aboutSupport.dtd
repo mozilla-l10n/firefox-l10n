@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Информация за отстраняване на неизправности">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "Тази страница съдържа техническа информация, която може да ви е от полза, когато сеопитвате да решите проблем. Ако търсите отговори на често задавани въпросиза &brandShortName;, проверете в нашата <a id='supportLink'>страница за поддръжка</a>.">
-
 <!ENTITY aboutSupport.crashes.title "Доклади за крашове">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -52,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Потребителски агент">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "Използване на паметта">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Регистрирани скрити обслужващи страници">
@@ -85,6 +84,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Изчертаване">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Постепенен GC">
 
@@ -104,6 +106,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Пробвайте Надежден режим">
 <!ENTITY aboutSupport.restartInSafeMode.label "Рестартиране с изключени добавки…">
+
+
+
 
 
 

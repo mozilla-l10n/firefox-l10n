@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Никога не се проверява за обновявания (не е препоръчвано: риск за безопасността)">
 <!ENTITY updateManual.accesskey          "Н">
 
-<!ENTITY updateAutoAddonWarn.label       "Предупреждение при възможно изключване на добавки">
-<!ENTITY updateAutoAddonWarn.accesskey   "в">
-
 <!ENTITY updateHistory.label             "История на обновяванията">
 <!ENTITY updateHistory.accesskey         "о">
 

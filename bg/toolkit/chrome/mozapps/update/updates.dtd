@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Вашият &brandShortName; е остарял, но последната версияе неподдържана от вашата система. Моля, надградете системата си и опитайте пак. Няма да видите това предупреждение повече, но можете да">
 <!ENTITY  unsupportedLink.label           "научите повече.">
 
-<!ENTITY  incompatibleCheck.title         "Проверяване на съвместимостта на добавките">
-<!ENTITY  incompatibleCheck.label         "Преглеждане за по-нова версия на добавките…">
-
 <!ENTITY  clickHere.label                 "Показване на повече информация за това обновяване">
 
 <!ENTITY  evangelism.desc                 "Горещо се препоръчва прилагането на обновяването на &brandShortName; възможно най-скоро.">
-
-<!ENTITY  license.instructions            "Ако сте съгласни с условията на споразумението, „Съгласен съм“, за да продължите.">
-
-<!ENTITY  license.titleText               "Лицензно споразумение за софтуер">
-<!ENTITY  license.introText               "Условия за ползването на този софтуер.">
-<!ENTITY  license.instructionText         "Моля, прочетете следното лицензно споразумение. Използвайте лентата за превъртане, за да видите останалата част от споразумението.">
-<!ENTITY  license.accept                  "Приемам условията на лицензното споразумение">
-<!ENTITY  license.accept.accesskey        "П">
-<!ENTITY  license.decline                 "НЕ приемам условията на лицензното споразумение">
-<!ENTITY  license.decline.accesskey       "Н">
-
-<!ENTITY  incompatibleList.title          "Има несъвместими добавки">
 
 <!ENTITY  downloadPage.title              "Изтегляне на &brandShortName;">
 <!ENTITY  downloading.intro               "Изтегляне на обновяването…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Обновяването ще бъде инсталирано при следващото пускане на&brandShortName;. Можете сега да рестартирате &brandShortName; или да продължите да работите и да рестартирате по-късно.">
 
-<!ENTITY  installed.title                 "Обновяването е инсталирано">
-<!ENTITY  installed.intro                 "Обновяването е инсталирано успешно.">
-<!ENTITY  whatsnew.label                  "Прочетете повече за новите неща…">
 
 <!ENTITY  update.details.label            "Подробности">
 <!ENTITY  update.installedOn.label        "Инсталирано на:">
