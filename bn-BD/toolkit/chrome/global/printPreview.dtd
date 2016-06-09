@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "মানানসই করার জন্য সংকোচন করা হবে">
 <!ENTITY customPrompt.title   "স্বনির্ধারিত আকার পরিবর্তন…">
 
+
+
+
 <!ENTITY homearrow.tooltip    "প্রথম পৃষ্ঠা">
 <!ENTITY endarrow.tooltip     "শেষ পৃষ্ঠা">
 <!ENTITY nextarrow.tooltip    "পরবর্তী পৃষ্ঠা">
