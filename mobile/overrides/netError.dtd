@@ -87,8 +87,8 @@
 <!ENTITY cspBlocked.title "Blocat per la política de seguretat del contingut">
 <!ENTITY cspBlocked.longDesc "<p>El &brandShortName; ha impedit que la pàgina es carregui d'aquesta manera perquè la pàgina té una política de seguretat del contingut que no ho permet.</p>">
 
-<!ENTITY corruptedContentError.title "Error de contingut malmès">
-<!ENTITY corruptedContentError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error en la transmissió de les dades.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Error de contingut malmès">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error en la transmissió de les dades.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O bé, podeu afegir una excepció…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Treu-me d'aquí!">
