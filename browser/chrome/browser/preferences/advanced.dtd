@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Ez bilatu eguneraketak inoiz (ez gomendatua: segurtasun arriskua)">
 <!ENTITY updateManual.accesskey          "n">
 
-<!ENTITY updateAutoAddonWarn.label       "Abisatu nire gehigarriren bat desgaituko badu">
-<!ENTITY updateAutoAddonWarn.accesskey   "A">
-
 <!ENTITY updateHistory.label             "Erakutsi eguneraketen historia">
 <!ENTITY updateHistory.accesskey         "E">
 

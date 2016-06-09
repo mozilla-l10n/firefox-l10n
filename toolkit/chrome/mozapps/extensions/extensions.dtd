@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Kargatzen…">
-<!ENTITY listEmpty.installed.label            "Ez daukazu mota honetako gehigarririk instalatuta">
+
 <!ENTITY listEmpty.availableUpdates.label     "Ez da eguneraketarik aurkitu">
-<!ENTITY listEmpty.recentUpdates.label        "Azkenaldian ez duzu gehigarririk eguneratu">
+
 <!ENTITY listEmpty.findUpdates.label          "Bilatu eguneraketak">
 <!ENTITY listEmpty.search.label               "Ezin izan da bat datorren gehigarririk aurkitu">
 <!ENTITY listEmpty.button.label               "Gehigarriei buruzko argibide gehiago">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Kendu">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
 <!ENTITY cmd.showPreferencesWin.label         "Aukerak">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Aldatu gehigarri honen aukerak">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Hobespenak">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Aldatu gehigarri honen hobespenak">
+
 <!ENTITY cmd.contribute.label                 "Lagundu">
 <!ENTITY cmd.contribute.accesskey             "L">
 <!ENTITY cmd.contribute.tooltip               "Lagundu gehigarri honen garapenean">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Zer dira gehigarriak?">
 <!ENTITY discover.description2                "&brandShortName; aparteko funtzionaltasun edo estiloarekin pertsonalizatzeko aplikazioak dira gehigarriak. Proba ezazu denbora aurrezteko alboko barra bat, eguraldiaren jakinarazlea edo &brandShortName;(r)en itxura zeure egiteko gai bat.">
-<!ENTITY discover.footer                      "Internetera konektatuta zaudenean, panel honetan gehigarri on eta ezagunenetako batzuk agertuko dira proba ditzazun.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Bertsioa">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Eguneraketa automatikoak">
 <!ENTITY detail.updateDefault.label           "Lehenetsia">
-<!ENTITY detail.updateDefault.tooltip         "Instalatu eguneraketak automatikoki lehenetsia bada soilik">
+
 <!ENTITY detail.updateAutomatic.label         "Aktibatuta">
 <!ENTITY detail.updateAutomatic.tooltip       "Instalatu eguneraketak automatikoki">
 <!ENTITY detail.updateManual.label            "Desaktibatuta">
-<!ENTITY detail.updateManual.tooltip          "Ez instalatu eguneraketak automatikoki">
+
 <!ENTITY detail.home                          "Webgunea">
 <!ENTITY detail.repository                    "Gehigarriaren profila">
 <!ENTITY detail.size                          "Tamaina">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Bilatu gehigarri honen eguneraketak">
 <!ENTITY detail.showPreferencesWin.label      "Aukerak">
 <!ENTITY detail.showPreferencesWin.accesskey  "A">
-<!ENTITY detail.showPreferencesWin.tooltip    "Aldatu gehigarri honen aukerak">
+
 <!ENTITY detail.showPreferencesUnix.label     "Hobespenak">
 <!ENTITY detail.showPreferencesUnix.accesskey "H">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Aldatu gehigarri honen hobespenak">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Zer da hau? Noizean behin esperimentuak instala eta exekuta litzake Telemetry-k.">
 <!ENTITY experiment.info.learnmore "Argibide gehiago">
 <!ENTITY experiment.info.learnmore.accesskey "A">
 <!ENTITY experiment.info.changetelemetry "Telemetry ezarpenak">

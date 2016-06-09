@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Gehigarri bateragarriak aurkitu dira">
 <!ENTITY  found.top.label                 "Hautatu instalatu nahi dituzun gehigarriak:">
-<!ENTITY  found.disabledXPinstall.label   "Eguneraketa hauek ezin dira instalatu software instalazioa desgaituta dagoelako. Ezarpen hau behean alda dezakezu.">
+
 <!ENTITY  found.enableXPInstall.label     "Baimendu webguneek softwarea instalatzea">
 <!ENTITY  found.enableXPInstall.accesskey "a">
 

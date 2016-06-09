@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Zure &brandShortName; zaharkituta dago baina azken bertsioak ez du zure sistema onartzen. Bertsio-berritu zure sistema eta saiatu berriro mesedez. Ez duzu abisu hau berriro ikusiko. Irakurri ">
 <!ENTITY  unsupportedLink.label           "argibide gehiago.">
 
-<!ENTITY  incompatibleCheck.title         "Gehigarrien bateragarritasuna egiaztatzen">
-<!ENTITY  incompatibleCheck.label         "Gehigarrien bertsio berriagoak bilatzen…">
-
 <!ENTITY  clickHere.label                 "Ikusi eguneraketa honi buruzko argibide gehiago">
 
 <!ENTITY  evangelism.desc                 "Oso gomendagarria da &brandShortName;(r)en bertsio-berritze hau ahal bezain laster ezartzea.">
-
-<!ENTITY  license.instructions            "Lizentzia-kontratu honen baldintzak onartuz gero, egin klik 'Onartzen dut' botoian instalazioarekin aurrera jarraitzeko.">
-
-<!ENTITY  license.titleText               "Softwarearen lizentzia-kontratua">
-<!ENTITY  license.introText               "Software hau erabiltzeko termino eta baldintzak">
-<!ENTITY  license.instructionText         "Mesedez irakurri hurrengo lizentzia-kontratua. Korritze-barra erabili lizentziaren amaiera ikusi ahal izateko.">
-<!ENTITY  license.accept                  "Lizentzia-kontratuaren baldintzak onartzen ditut">
-<!ENTITY  license.accept.accesskey        "o">
-<!ENTITY  license.decline                 "Lizentzi-kontratuaren baldintzak EZ ditut onartzen">
-<!ENTITY  license.decline.accesskey       "E">
-
-<!ENTITY  incompatibleList.title          "Gehigarri bateraezinak aurkitu dira">
 
 <!ENTITY  downloadPage.title              "&brandShortName; deskargatzen">
 <!ENTITY  downloading.intro               "Eguneraketa deskargatzen…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Eguneraketa &brandShortName; abiarazten den hurrengo aldian ezarriko da. &brandShortName; orain berrabiarazi edo lanean jarraitu eta geroago berrabiaraz dezakezu.">
 
-<!ENTITY  installed.title                 "Eguneraketa instalatu da">
-<!ENTITY  installed.intro                 "Eguneraketa ondo instalatu da.">
-<!ENTITY  whatsnew.label                  "Berrikuntzei buruzko argibideak…">
 
 <!ENTITY  update.details.label            "Xehetasunak">
 <!ENTITY  update.installedOn.label        "Noiz instalatua:">

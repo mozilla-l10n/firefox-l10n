@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Ireki &syncBrand.shortName.label; hobespenak">
 <!ENTITY fxaSignInError.label "Birkonektatu &syncBrand.shortName.label;(e)ra">
 <!ENTITY fxaUnverified.label "Egiaztatu zure kontua">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; gaituta">
-<!ENTITY syncStartPanel2.subTitle "Une batetik bestera hasiko da sinkronizatzen &brandShortName;.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Txikitu">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Beste laster-markak">
 <!ENTITY bookmarksToolbarChevron.tooltip "Erakutsi laster-marka gehiago">
 
+
+
+
+
 <!ENTITY backCmd.label                "Atzera">
 <!ENTITY backButton.tooltip           "Joan orri bat atzera">
 <!ENTITY forwardCmd.label             "Aurrera">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Beste laster-markak">
 <!ENTITY viewBookmarksSidebar2.label        "Ikusi laster-marken tresna-barra">
 <!ENTITY viewBookmarksToolbar.label         "Ikusi laster-marken tresna-barra">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Edukiontzi-fitxa berria">
 <!ENTITY newUserContext.accesskey         "E">
-<!ENTITY userContextPersonal.label        "Pertsonala">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Lanekoa">
-<!ENTITY userContextWork.accesskey        "L">
-<!ENTITY userContextBanking.label         "Banka">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Erosketak">
-<!ENTITY userContextShopping.accesskey    "E">
 <!ENTITY newNavigatorCmd.label        "Leiho berria">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "L">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Ez mututu">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate.label     "Erreprodukzio-abiadura">
-<!ENTITY mediaPlaybackRate.accesskey "b">
-<!ENTITY mediaPlaybackRate050x.label "Mantsoa (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "M">
-<!ENTITY mediaPlaybackRate100x.label "Abiadura normala">
-<!ENTITY mediaPlaybackRate100x.accesskey "n">
-<!ENTITY mediaPlaybackRate150x.label "Abiadura azkarra (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "z">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Abiadura bizia (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "b">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Konexio segurua">
 <!ENTITY identity.connectionNotSecure "Konexioa ez da segurua">
 <!ENTITY identity.connectionFile "Orri hau zure ordenagailuan biltegiratuta dago.">
-<!ENTITY identity.connectionVerified1 "Modu seguruan zaude konektatuta gune honetara. Arduraduna:">
+
 <!ENTITY identity.connectionInternal "&brandShortName; orri segurua da hau.">
 <!ENTITY identity.insecureLoginForms2 "Orri honetan sartutako saio-hasierak arriskuan egon litezke.">
 <!-- Strings for connection state warnings. -->
