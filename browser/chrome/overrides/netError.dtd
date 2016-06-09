@@ -115,7 +115,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
 
-<!ENTITY errorReporting.automatic2 "报告类似错误以帮助 Mozilla 识别和拦截恶意站点">
+<!ENTITY errorReporting.automatic2 "报告此类错误以帮助 Mozilla 识别和拦截恶意站点">
 <!ENTITY errorReporting.learnMore "详细了解…">
 
 <!ENTITY remoteXUL.title "远程 XUL">
