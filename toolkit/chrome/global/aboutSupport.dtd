@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Felsökningsinformation">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  Den här sidan innehåller teknisk information som kan vara till hjälp när du försöker lösa ett problem. Vill du se svaren på några av de vanligaste frågorna om &brandShortName;, kan du besöka vår <a id='supportLink'>supportwebbplats</a>.">
+
 <!ENTITY aboutSupport.crashes.title "Kraschrapporter">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -50,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Användaragent">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Minnesanvändning">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Prestanda">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registrerade  Service Workers">
@@ -84,8 +86,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafik">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integritet">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verifiera integritet">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">

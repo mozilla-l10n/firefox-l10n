@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Hämtar…">
-
+<!ENTITY listEmpty.installed.label            "Du har inga tillägg av den här typen installerade">
 <!ENTITY listEmpty.availableUpdates.label     "Inga uppdateringar hittades">
-
+<!ENTITY listEmpty.recentUpdates.label        "Du har inte uppdaterat några tillägg nyligen">
 <!ENTITY listEmpty.findUpdates.label          "Sök efter uppdateringar">
 <!ENTITY listEmpty.search.label               "Kunde inte hitta några matchande tillägg">
 <!ENTITY listEmpty.button.label               "Läs mer om tillägg">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Ta bort">
 <!ENTITY cmd.uninstallAddon.accesskey         "T">
 <!ENTITY cmd.showPreferencesWin.label         "Inställningar">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Ändra tilläggets inställningar">
 <!ENTITY cmd.showPreferencesUnix.label        "Inställningar">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Ändra tilläggets inställningar">
 <!ENTITY cmd.contribute.label                 "Bidra">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Ge ett bidrag till utvecklingen av detta tillägg">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Vad är tillägg?">
 <!ENTITY discover.description2                "Tillägg är program som gör att du kan anpassa &brandShortName; med extra funktionalitet eller utseende. Prova ett tidsbesparande sidofält, en väderrapportör eller ett annat utseende till &brandShortName;.">
-
+<!ENTITY discover.footer                      "När du är ansluten till internet kommer den här panelen att visa några av de bästa och mest populära tilläggen som du kan testa.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Version">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Automatiska uppdateringar">
 <!ENTITY detail.updateDefault.label           "Standard">
-
+<!ENTITY detail.updateDefault.tooltip         "Installera uppdateringar automatiskt endast om det är standard">
 <!ENTITY detail.updateAutomatic.label         "På">
 <!ENTITY detail.updateAutomatic.tooltip       "Installerar uppdateringar automatiskt">
 <!ENTITY detail.updateManual.label            "Av">
-
+<!ENTITY detail.updateManual.tooltip          "Installera inte uppdateringar automatiskt">
 <!ENTITY detail.home                          "Webbplats">
 <!ENTITY detail.repository                    "Tilläggets profil">
 <!ENTITY detail.size                          "Storlek">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Söker efter uppdateringar till tillägget">
 <!ENTITY detail.showPreferencesWin.label      "Inställningar">
 <!ENTITY detail.showPreferencesWin.accesskey  "ä">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Ändra tilläggets inställningar">
 <!ENTITY detail.showPreferencesUnix.label     "Inställningar">
 <!ENTITY detail.showPreferencesUnix.accesskey "ä">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Ändra tilläggets inställningar">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Vad är detta? Telemetri kan installera och köra experiment då och då.">
 <!ENTITY experiment.info.learnmore "Läs mer">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Telemetri-inställningar">

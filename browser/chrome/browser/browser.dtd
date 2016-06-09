@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Nyligen bokmärkt">
 <!ENTITY otherBookmarksCmd.label "Andra bokmärken">
 <!ENTITY bookmarksToolbarChevron.tooltip "Visa fler bokmärken">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Visa nyligen bokmärkta">
+<!ENTITY showRecentlyBookmarked.accesskey "V">
+<!ENTITY hideRecentlyBookmarked.label     "Dölj nyligen bokmärkta">
+<!ENTITY hideRecentlyBookmarked.accesskey "D">
 
 <!ENTITY backCmd.label                "Bakåt">
 <!ENTITY backButton.tooltip           "Gå bakåt en sida">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Visa i sidofältet Bokmärken">
 <!ENTITY viewBookmarksToolbar.label         "Visa Bokmärkesfältet">
 
+<!ENTITY containersMenu.label "Behållare">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -555,8 +556,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "L">
 <!ENTITY mediaUnmute.label           "Ljud på">
 <!ENTITY mediaUnmute.accesskey       "L">
-
-
+<!ENTITY mediaPlaybackRate2.label     "Uppspelningshastighet">
+<!ENTITY mediaPlaybackRate2.accesskey "U">
 
 
 

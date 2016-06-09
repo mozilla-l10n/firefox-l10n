@@ -15,7 +15,7 @@
 
 <!ENTITY netmonitorUI.perfNotice1         "• Klicka på knappen">
 <!ENTITY netmonitorUI.perfNotice2         "för att starta en prestandaanalys.">
-
+<!ENTITY netmonitorUI.perfNotice3         "Analysera">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 

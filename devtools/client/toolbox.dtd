@@ -110,6 +110,8 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
+<!ENTITY options.disableHTTPCache.label     "Inaktivera HTTP Cache (när verktygslådan är öppen)">
+<!ENTITY options.disableHTTPCache.tooltip   "Aktivera det här alternativet inaktiverar HTTP-cache för alla flikar som har verktygslådan öppen. Service Workers påverkas inte av det här alternativet.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
