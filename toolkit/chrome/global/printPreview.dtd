@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "Багтааж сунга">
 <!ENTITY customPrompt.title   "Дурын хэмжээ…">
 
+
+
+
 <!ENTITY homearrow.tooltip    "Эхний хуудас">
 <!ENTITY endarrow.tooltip     "Сүүлийн хуудас">
 <!ENTITY nextarrow.tooltip    "Дараагийн хуудас">

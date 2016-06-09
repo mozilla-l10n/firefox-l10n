@@ -21,23 +21,9 @@
 
 
 
-<!ENTITY  incompatibleCheck.title         "Нэмэгдлийн хувилбарын нийцлэлийг шалгаж байна">
-<!ENTITY  incompatibleCheck.label         "Таны нэмэгдэлд шинэ хувилбар байгаа эсэхийг шалгаж байна…">
-
 <!ENTITY  clickHere.label                 "Энэ шинэчлэлийн талаар нэмэлт мэдээлэл харах">
 
 <!ENTITY  evangelism.desc                 "&brandShortName; дээр энэ шинэчлэлийг хийхийг эрчимтэй санал болгож байна.">
-
-<!ENTITY  license.instructions            "Хэрэв та энэ гэрээг зөвшөөрвөл Би зөвшөөрнө товч дээр дарж шинэчлэл суулгахыг үргэлжлүүлнэ үү.">
-
-<!ENTITY  license.introText               "Энэ програмыг хэрэглэх нөхцөл.">
-
-
-<!ENTITY  license.accept.accesskey        "Б">
-
-<!ENTITY  license.decline.accesskey       "и">
-
-<!ENTITY  incompatibleList.title          "Нийцгүй нэмэгдлүүд олдлоо">
 
 <!ENTITY  downloading.intro               "Шинэчлэлийг татаж авч байна…">
 <!ENTITY  connecting.label                "Шинэчлэх сервертэй холбогдож байна…">
@@ -65,9 +51,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Дараагийн удаа &brandShortName;-г ачаалах үед шинэчлэл суугдах болно. Та одоо &brandShortName;-г шинээр ачаалах, эсвэл үргэлжлүүлэн ажиллаад сүүлд шинээр ачаалж болох юм.">
 
-<!ENTITY  installed.title                 "Шинэчлэл суугдсан">
-<!ENTITY  installed.intro                 "Шинэчлэл амжилттай суугдлаа.">
-<!ENTITY  whatsnew.label                  "Юу шинээр нэмэгдсэнийг унш…">
 
 <!ENTITY  update.details.label            "Нарийн мэдээлэл">
 <!ENTITY  update.installedOn.label        "Суугдсан газар:">
