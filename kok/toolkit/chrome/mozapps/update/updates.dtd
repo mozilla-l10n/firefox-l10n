@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "तुमच्या &brandShortName; ची तारीक सोपल्या, पूण सद्याच्या आवृत्तेक तुमच्या संगणकार फाटबळ ना. मात्शे तुमची व्यवस्था सुदारात, मागीर परत यत्न करात. तुमका ही नोटिस परत दिसची ना, पूण तुमी ">
 <!ENTITY  unsupportedLink.label           "अदिक शिकात">
 
-<!ENTITY  incompatibleCheck.title         "तपासता अँड-ऑन अनुरूपताय">
-<!ENTITY  incompatibleCheck.label         "तुमच्या अँड-ऑनाची नवीं वर्जनां पळयता...">
-
 <!ENTITY  clickHere.label                 "ह्या सुदाराविशी अदिक म्हायती पळयात">
 
 <!ENTITY  evangelism.desc                 "हो सुदार जाता तितल्या बेगीन &brandShortName; क लागू करपाची शिफारस केल्या.">
-
-<!ENTITY  license.instructions            "तुमका जर ह्या कराराच्यो शर्ती मान्य आसात, हो सुदार प्रतिष्ठापित करप चालू दवरुपाखातीरम्हाका मान्य आसा क्लीक करात.">
-
-<!ENTITY  license.titleText               "सॉफ्टवेयर परवानो करार">
-<!ENTITY  license.introText               "हे सॉफ्टवेयर वापरपाक अटी.">
-<!ENTITY  license.instructionText         "मुखावयलो परवानो करार मात्सो वाचात. उरिल्लो करार पळोवपाक स्क्रोल बार वापरात.">
-<!ENTITY  license.accept                  "परवानो कराराच्या अटी म्हाका मान्य आसात">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "परवानो कराराच्या अटी म्हाका मान्य ना">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "विसंगत अँड-ऑन मेळ्ळे">
 
 <!ENTITY  downloadPage.title              "आनी ब्रॅन्ड शॉर्ट नेम; डाऊनलोड करता">
 <!ENTITY  downloading.intro               "सुदार डावनलोड करता...">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "फुडले खेप &brandShortName; सुरू जातकेर सुदार प्रतिष्ठापित जातलो. तुमी &brandShortName; आता परत चालू करपाक शकचा, वो काम चालू दवरून मागीर परत चालू करपाक शकता.">
 
-<!ENTITY  installed.title                 "सुदार प्रतिष्ठापित">
-<!ENTITY  installed.intro                 "सुदार सफळ रीतीन प्रतिष्ठापित.">
-<!ENTITY  whatsnew.label                  "नवे किदे आसा हाचेविशी आनिक वाचात...">
 
 <!ENTITY  update.details.label            "विवरण">
 <!ENTITY  update.installedOn.label        "वेर प्रतिष्ठापन केला:">

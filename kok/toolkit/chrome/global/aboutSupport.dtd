@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "ट्रबलशूट करपाक माहिती">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  ह्या पानान तांत्रिक माहिती आसा जाचो तुमका आडमेळ सोडोवपाक उपेग जाव येता. तुमी &brandShortName; विशीं सामान्य प्रस्नांक जाप सोदतात जाल्यार, आमची <a id='फाटबळजोडणी'>फाटबळ सायट पळयात</a>.">
-
 <!ENTITY aboutSupport.crashes.title "क्रॅश अहवाल">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -50,6 +48,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "वापरप्यालो एजंट">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "मेमरीटो वापर">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
@@ -79,6 +78,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "ग्राफिक्स">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "जावास्क्रिप्ट">
 <!ENTITY aboutSupport.jsIncrementalGC "इन्क्रिमेंटल जीसी">
 
@@ -95,6 +97,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "रॉ डेटाची क्लिपबोर्डार प्रत करात">
 
 <!ENTITY aboutSupport.sandboxTitle "सँडबॉक्स">
+
+
+
 
 
 

@@ -8,7 +8,7 @@
 
 <!ENTITY aboutWarningTitle.label "हें तुमची वॉरंटी निरुपेगी करीत ">
 <!ENTITY aboutWarningText.label "ही अद्यावत स्थापिता बदलप ह्या अनुप्रयोगाच्या स्थैर्याक, सुरक्षेक आणि कार्यक्षमतेक घातक थारू येता. तुमी किदे करतात हाची तुमका खात्री आसत जाल्यारूच मुखार वचात.">
-<!ENTITY aboutWarningButton.label "हांव उतर दिता. हांव जतनाय घेतलो! ">
+
 <!ENTITY aboutWarningCheckbox.label "ही चत्राय फुडले वेळा दाखय">
 
 <!ENTITY searchPrefs.label "सोद:">

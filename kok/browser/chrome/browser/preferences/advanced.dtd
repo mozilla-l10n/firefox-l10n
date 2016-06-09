@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "सुदार तपासूं नाकात(शिफारस करूक ना: सुरक्षा धोको)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "हे म्हजे जोडी  दाखयतले जाल्यार म्हाका शिटकावणी दी.">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "सुदार इतिहास दाखयात">
 <!ENTITY updateHistory.accesskey         "p">
 

@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "व्हिडीयो लोड करप थांबला.">
 <!ENTITY error.network "नेटवर्क एरराकलागून व्हिडियो प्लेबॅक सोडून दिले.">
-<!ENTITY error.decode "व्हिडीयो वाजोवपाक शकना कारण फायल इबाडल्या.">
+
 <!ENTITY error.srcNotSupported "व्हिडीयो स्वरूप वो MIME प्रकाराक फांटबळ ना.">
 <!ENTITY error.noSource2 "फांटबळ आशिल्ले स्वरूप आणि MIME प्रकारासंयत व्हिडीयो ना.">
 <!ENTITY error.generic "अज्ञात एरराकलागून व्हिडिओ प्लेबॅक सोडून दिले.">

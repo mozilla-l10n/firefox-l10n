@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "मजकूर सुरक्षा धोरणान प्रतिबंधित केलां">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; न ह्या पानाक अशेतरेन लोड जावपापासून आडयला कारण पानाक आशय सुरक्षा धोरण आसा जे अशे करपाक दिना.</p>">
 
-<!ENTITY corruptedContentError.title "भ्रश्ट आशय एरर">
-<!ENTITY corruptedContentError.longDesc "<p>तुमी पळोवपाक सोदता ते पान दाखओवपाक शकना कारण डेटा धाडपान एरर आयला.</p><ul><li>ह्या आडमेळाविशीं कळोवपाक मात्शे वेबसायट मालकांक संपर्क करात.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "भ्रश्ट आशय एरर">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>तुमी पळोवपाक सोदता ते पान दाखओवपाक शकना कारण डेटा धाडपान एरर आयला.</p><ul><li>ह्या आडमेळाविशीं कळोवपाक मात्शे वेबसायट मालकांक संपर्क करात.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोडात...">
@@ -95,9 +95,13 @@ was trying to connect. -->
 
 
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
