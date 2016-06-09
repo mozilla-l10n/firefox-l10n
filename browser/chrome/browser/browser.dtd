@@ -108,8 +108,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
 <!ENTITY fullScreenMinimize.tooltip "Nciphisa">
 <!ENTITY fullScreenRestore.tooltip "Buyisela">
 
@@ -165,6 +163,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Bonisa ukuphawulwa kokubonisa okungaphezulu">
 
+
+
+
+
 <!ENTITY backButton.tooltip           "Hlehla ngekhasi elilodwa">
 
 <!ENTITY forwardButton.tooltip        "Yiya phambili ngekhasi elilodwa">
@@ -212,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksToolbar.label         "Buka ibha yamathuluzi wezimpawu zokubekisa">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -243,14 +246,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Ifayela"> 
 <!ENTITY fileMenu.accesskey       "I">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY newNavigatorCmd.label        "Ifasitela elisha">
@@ -525,19 +520,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Khulumisa">
 <!ENTITY mediaUnmute.accesskey       "K">
-<!ENTITY mediaPlaybackRate.label     "Dlala isivinini">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Ukuhamba kancane (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "U">
-<!ENTITY mediaPlaybackRate100x.label "Isivinini esijwayelekile">
-<!ENTITY mediaPlaybackRate100x.accesskey "j">
-<!ENTITY mediaPlaybackRate150x.label "Isivinini esiphezulu (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "I">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+<!ENTITY mediaPlaybackRate100x2.label "Okuvamile">
+<!ENTITY mediaPlaybackRate100x2.accesskey "O">
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Isivinini esiphezulu kakhulu (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "I">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

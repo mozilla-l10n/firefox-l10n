@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "I-&brandShortName; ayiphelelwanga yisikhathi, kodwa inguqulo yakamuva ayisebenzelani kuhlelo lwakho. Sicela uthuthukise uhlelo lwakho, bese uyazama futhi. Ngeke ubone lesi saziso futhi, kodwa ungakwazi">
 <!ENTITY  unsupportedLink.label           "lunda kabanzi.">
 
-<!ENTITY  incompatibleCheck.title         "Kuhlola ukufaneleka kokungezwayo">
-<!ENTITY  incompatibleCheck.label         "Kufuna izinguquko ezintsha zokungezwayo kwakho…">
-
 <!ENTITY  clickHere.label                 "Bheka okunye ukwaziswa ngalokhu kulungiswa">
 
 <!ENTITY  evangelism.desc                 "Kunconywa kakhulu ukuthi usebenzise lokhu kuvuselela kwe-&brandShortName; ngokukhulu ukushesha.">
-
-<!ENTITY  license.instructions            "Uma uvuma imigomo yalemvumelwano, chofoza u-ngiyavuma ngezansi ukuqhubeka ukufaka lokhu kuvuselela.">
-
-<!ENTITY  license.titleText               "Isivumelwano Semvume Yohlaka Olusetshenziswayo">
-<!ENTITY  license.introText               "Imigomo Nemibandela yokusebenzisa lolu hlaka olusetshenziswayo.">
-<!ENTITY  license.instructionText         "Sicela ufunde isivumelwano semvume esilandelayo. Sebenzisa umgoqo wokuhambisa ukuze usibone sonke lesi sivumelwano.">
-<!ENTITY  license.accept                  "Ngiyayamukela imigomo yalesi Sivumelwano Semvume">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Angiyamukeli NEZE imigomo yalesi Sivumelwano Semvume">
-<!ENTITY  license.decline.accesskey       "E">
-
-<!ENTITY  incompatibleList.title          "Kutholwe okungezwayo okungafanelani">
 
 <!ENTITY  downloadPage.title              "Kulayishwa kungeniswa i-&brandShortName;">
 <!ENTITY  downloading.intro               "Ithatha loku kulungiswa iyakufaka…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Ukuvuselela kuzofakwa ngesikhathi esizayo uma i-&brandShortName; iqala. Ungaqala kabusha i-&brandShortName; manje, noma qhubeka ukusebenza bese uqala kabusha ngesikhathi esizayo.">
 
-<!ENTITY  installed.title                 "Ukulungiswa Kufakelwe">
-<!ENTITY  installed.intro                 "Ukulungiswa kufakelwe ngempumelelo.">
-<!ENTITY  whatsnew.label                  "Funda okuningi ngokusha…">
 
 <!ENTITY  update.details.label            "Imininingwane">
 <!ENTITY  update.installedOn.label        "Kufakelwe mhlaka:">

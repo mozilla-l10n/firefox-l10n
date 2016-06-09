@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Ungalokothi uhlole ukufaka ukwaziswa kwamuva (akunconyiwe: ubungozi bokuphepha)">
 <!ENTITY updateManual.accesskey          "U">
 
-<!ENTITY updateAutoAddonWarn.label       "Ngixwayise uma lokhu kungakhubaza noma yikuphi okwami okungangezwa">
-<!ENTITY updateAutoAddonWarn.accesskey   "N">
-
 <!ENTITY updateHistory.label             "Bonisa umlando wokuvuselela">
 <!ENTITY updateHistory.accesskey         "w">
 

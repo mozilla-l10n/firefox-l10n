@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Iyalayisha…">
-<!ENTITY listEmpty.installed.label            "Awunakho okungezwayo kwalolu hlobo okakiwe">
+
 <!ENTITY listEmpty.availableUpdates.label     "Akukho ukuvuselela okutholakele">
-<!ENTITY listEmpty.recentUpdates.label        "Okwamanje awuvuselelanga okungezwayo">
+
 <!ENTITY listEmpty.findUpdates.label          "Ihlola Okufakwe Muva">
 <!ENTITY listEmpty.search.label               "Ayikwazanga ukuthola okwengezwayo okufanayo">
 <!ENTITY listEmpty.button.label               "Funda kabanzi ngokungezwayo">
@@ -105,9 +105,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Susa">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
 <!ENTITY cmd.showPreferencesWin.label         "Izinketho">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Shintasha izinketho zokwengezwayo">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Okuthandwayo">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Shintsha lokhu okuthandwayo kokungezwayo">
+
 <!ENTITY cmd.contribute.label                 "Bamba iqhaza">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Bamba iqhaza ekukukhuleni kwalokho okwengezwayo">
@@ -122,7 +122,7 @@
 
 <!ENTITY discover.title                       "Yini okwengezwayo?">
 <!ENTITY discover.description2                "Okwengezwayo mahlelo kisebenza akuvumela ukuba wenza kube ngokwakho i-&brandShortName; ngokwenzeka okungaphezulu noma isitayela. Zana umugqa oseceleni wokonga isikhathi, isazisi ngesimo sezulu, noma ukubuka ngendikimba ukuze wenze i-&brandShortName; kube ngeyakho.">
-<!ENTITY discover.footer                      "Uma uxhunyiwe kwi-inthanethi, leli windi lizofaka okwengezwayo okuhle kakhulu futhi nokwaziwayo ukuze ukuzame.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Inguqulo">
@@ -135,11 +135,11 @@
 
 <!ENTITY detail.updateType                    "Ukuvuselela okuzenzakalelayo">
 <!ENTITY detail.updateDefault.label           "Okwakhona">
-<!ENTITY detail.updateDefault.tooltip         "Faka ukuvuselela ngokuzenzakalela uma kuphela lokho kungokwakhona">
+
 <!ENTITY detail.updateAutomatic.label         "Khanya">
 <!ENTITY detail.updateAutomatic.tooltip       "Faka ukuvuselela ngokuzenzakalela">
 <!ENTITY detail.updateManual.label            "Cima">
-<!ENTITY detail.updateManual.tooltip          "Ungafaki ukuvuselela ngokuzenzakalela">
+
 <!ENTITY detail.home                          "Ikhasi eliyisiqalo">
 <!ENTITY detail.repository                    "Iprofayeli yokwengeziwe">
 <!ENTITY detail.size                          "Usayizi">
@@ -149,10 +149,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Hlola ukuvuselela kwalokhu okwengezwayo">
 <!ENTITY detail.showPreferencesWin.label      "Izinketho">
 <!ENTITY detail.showPreferencesWin.accesskey  "I">
-<!ENTITY detail.showPreferencesWin.tooltip    "Shintasha izinketho zokwengezwayo">
+
 <!ENTITY detail.showPreferencesUnix.label     "Okuthandwayo">
 <!ENTITY detail.showPreferencesUnix.accesskey "O">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Shintsha lokhu okuthandwayo kokungezwayo">
+
 <!-- ratings -->
 
 
