@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Vaš &brandShortName; je zastario, ali najnovija verzija nije podržana na vašem sistemu. Molimo nadogradite vaš sistem, a zatim pokušajte ponovo. Ovu napomenu nećete više vidjeti, ali možete">
 <!ENTITY  unsupportedLink.label           "saznati više.">
 
-<!ENTITY  incompatibleCheck.title         "Provjeravam kompatibilnost add-ona">
-<!ENTITY  incompatibleCheck.label         "Tražim novije verzije vaših add-ona…">
-
 <!ENTITY  clickHere.label                 "Pogledajte više informacija o ovom updateu">
 
 <!ENTITY  evangelism.desc                 "Toplo preporučujemo da primjenite ovaj update za &brandShortName; čim prije.">
-
-<!ENTITY  license.instructions            "Ako se slažete sa uslovima ovog ugovora, pritisnite Slažem se da biste nastavili instalaciju updatea.">
-
-<!ENTITY  license.titleText               "Uslovi licenciranja softvera">
-<!ENTITY  license.introText               "Uslovi i odredbe za korištenje ovog softvera.">
-<!ENTITY  license.instructionText         "Molimo vas da pročitate sljedeće uslove licenciranja. Koristite točkić na mišu da pogledate preostali dio ovog ugovora.">
-<!ENTITY  license.accept                  "Ja prihvatam pravila licence">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Ja ne prihvatam pravila licence">
-<!ENTITY  license.decline.accesskey       "t">
-
-<!ENTITY  incompatibleList.title          "Pronađeni nekompatibilni add-oni">
 
 <!ENTITY  downloadPage.title              "Preuzimam &brandShortName;">
 <!ENTITY  downloading.intro               "Preuzimam update…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Update će biti instaliran sljedeći put kada se &brandShortName; pokrene. Vi možete restartovati &brandShortName; odmah, ili nastaviti sa radom i restartovati poslije.">
 
-<!ENTITY  installed.title                 "Update instaliran">
-<!ENTITY  installed.intro                 "Update uspješno instaliran.">
-<!ENTITY  whatsnew.label                  "Pročitajte više o tome šta je novo…">
 
 <!ENTITY  update.details.label            "Detalji">
 <!ENTITY  update.installedOn.label        "Instalirano na:">

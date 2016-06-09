@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Nikada ne provjeravaj za update (nije preporučeno: sigurnosni rizik)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Upozori me ukoliko će ovo onemogućiti bilo koji od mojih add-ona">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "Prikaži historijat nadogradnji">
 <!ENTITY updateHistory.accesskey         "P">
 

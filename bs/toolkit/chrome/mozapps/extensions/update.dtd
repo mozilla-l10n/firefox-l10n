@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Kompatibilni add-oni pronađeni">
 <!ENTITY  found.top.label                 "Izaberite add-one koje želite instalirati:">
-<!ENTITY  found.disabledXPinstall.label   "Ovi updatei ne mogu biti instalirani zato što je instalacija softvera trenutno onemogućena. Ovu postavku možete promijeniti ispod.">
+
 <!ENTITY  found.enableXPInstall.label     "Dozvolite web stranicama da instaliraju softver">
 <!ENTITY  found.enableXPInstall.accesskey "a">
 
