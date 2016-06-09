@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "अद्यावधिहरूको लागि कहिल्यै जाँच नगर्ने (सिफारिस गरिदैन: सुरक्षा जोखिम)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "यसले कुनै एड-अन हरूलाई काम नगर्ने बनाउछ भने मलाई चेतावनी दिनुहोस्">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "अद्यावधिक इतिहास देखाउनुहोस्">
 <!ENTITY updateHistory.accesskey         "p">
 

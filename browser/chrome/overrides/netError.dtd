@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "सामग्री सुरक्षा नीति द्वारा अवरुद्ध">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ले यो पृष्ठ लोड हुनबाट यसप्रकारले रोक्यो किनभने यो पृष्ठमा सामग्री सुरक्षा नीति छ जसले यसलाई अस्विकार गर्यो।</p>">
 
-<!ENTITY corruptedContentError.title "भ्रष्ट सामग्री त्रुटि">
-<!ENTITY corruptedContentError.longDesc "<p>डाटा ट्रान्समिसनमा खराबी भएको पत्ता लागेकोले तपाईँले हेर्न खोज्नु भएको पृष्ठ देखाउन मिलेन। </p><ul><li>कृपया वेव मालिकलाई यस खराबीको बारेमा जानकारी दिन सम्पर्क गर्नुहोस्।</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "भ्रष्ट सामग्री त्रुटि">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>डाटा ट्रान्समिसनमा खराबी भएको पत्ता लागेकोले तपाईँले हेर्न खोज्नु भएको पृष्ठ देखाउन मिलेन। </p><ul><li>कृपया वेव मालिकलाई यस खराबीको बारेमा जानकारी दिन सम्पर्क गर्नुहोस्।</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद थप्नुहोस्...">
@@ -107,6 +107,8 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "उन्नत">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ले पुरानो र आक्रमण हुनसक्ने सुरक्षा प्रविधि प्रयोग गर्दछ। कुनै आक्रमणकर्ताले तपाईँलाई सुरक्षित लागेको जानकारी बाहिर फुत्काउन सक्छ। ">
 <!ENTITY weakCryptoAdvanced.override "(सुरक्षित छैन) <span class='hostname'></span> पुरानो सुरक्षा प्रविधि अपनाई लोड गर्न प्रयास गर्नुहोस्">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "असुरक्षित जडान">
 
@@ -115,3 +117,5 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "तपाईँको जडान सुरक्षित छैन">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
