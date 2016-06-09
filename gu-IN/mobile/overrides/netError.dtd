@@ -77,8 +77,8 @@
 
 
 
-<!ENTITY corruptedContentError.title "બગડેલ વસ્તુ ક્ષતિ">
-<!ENTITY corruptedContentError.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે ડૅટા ટ્રાન્સમિશનમાં મળી આવેલી ક્ષતિના કારણે બતાવી શકાશે નહિ.</p><ul><li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "બગડેલ વસ્તુ ક્ષતિ">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે ડૅટા ટ્રાન્સમિશનમાં મળી આવેલી ક્ષતિના કારણે બતાવી શકાશે નહિ.</p><ul><li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li></ul>">
 
 <!ENTITY securityOverride.linkText "અથવા તમે અપવાદ ઉમેરી શકો…">
 <!ENTITY securityOverride.getMeOutOfHereButton "મને અહીંથી બહાર કાઢો!">
