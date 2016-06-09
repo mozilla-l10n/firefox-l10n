@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "مسدود شده بنا بر سیاست امنیتی محتوا">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; از بارگیری این صفحه به این شیوه جلوگیری کرد، زیرا این صفحه دارای یک سیاست امنیتی است که این کار در تضاد با آن قرار دارد.</p>">
 
-<!ENTITY corruptedContentError.title "خطای خرابی محتوا">
-<!ENTITY corruptedContentError.longDesc "<p>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست، زیرا تأیید اعتبار اطلاعات دریافتی امکان‌پذیر نیست.</p><ul><li>لطفاً با صاحبان این وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "خطای خرابی محتوا">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست، زیرا تأیید اعتبار اطلاعات دریافتی امکان‌پذیر نیست.</p><ul><li>لطفاً با صاحبان این وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "افزودن استثنا…">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "پیشرفته">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> از تکنولوژی امنیتی منسوخ شده استفاده می‌کند که در برابر حمله‌ها آسیب‌پذیر است. یک مهاجم به راحتی می‌تواند اطلاعاتی که شما فکر می‌کنید امن هستند را افشا کند.">
 <!ENTITY weakCryptoAdvanced.override "(امن نیست) تلاش برای بارگذاری <span class='hostname'></span>با استفاده از امنیت منسوخ شده">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "ارتباط نا امن">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "این پایگاه از امنیت بالای انتقال HTTP (HSTS) برای این&brandShortName; استفاده می‌کند و تنها اتصال به آن امن است. در نتیجه این امکان وجود ندارد تا برای این گواهی استثنایی قائل شود.">
+
 <!ENTITY certerror.copyToClipboard.label "رونوشت متن به کلیپ بورد">
 
 <!ENTITY inadequateSecurityError.title "اتصال شما امن نیست">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> استفاده از تکنولوژی های امنیتی که تاریخ‌ آن‌ها گذشته است در برابر حملات آسیب پذیراست. و حمله کننده می ‌تواند به راحتی اطلاعاتی که شما تصویر می‌کنید امن است را فاش کند. مدیریت پایگاه وب نیاز دارد تا نخست کارگزار را قبل از بازدید پایگاه وب درست کند.</p><p> کد خطا: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+

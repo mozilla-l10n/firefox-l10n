@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "هرگز بروزرسانی‌ها بررسی نشوند (توصیه نمی‌شود: خطر امنیتی)">
 <!ENTITY updateManual.accesskey          "ه">
 
-<!ENTITY updateAutoAddonWarn.label       "به من اخطار بده اگر اینکار افزودنی‌های مرا غیرفعال می‌کند">
-<!ENTITY updateAutoAddonWarn.accesskey   "ا">
-
 <!ENTITY updateHistory.label             "نمایش تاریخچه‌ی به‌هنگام‌سازی‌ها">
 <!ENTITY updateHistory.accesskey         "ه">
 

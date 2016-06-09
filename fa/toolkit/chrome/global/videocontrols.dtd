@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "بارگیری فیلم متوقف شد.">
 <!ENTITY error.network "پخش ویدئو به دلیل خطای شبکه متوقف گردید.">
-<!ENTITY error.decode "به دلیل خراب بودن فایل، این ویدئو قابل پخش نیست.">
+
 <!ENTITY error.srcNotSupported "قالب ویدئو یا نوع MIME پشتیبانی نمیشود.">
 <!ENTITY error.noSource2 "هیچ ویدئویی با قالب پشتیبانی شده و نوع MIME یافت نشد.">
 <!ENTITY error.generic "به دلیل خطای نامشخض، پخش ویدئو متوقف گردید.">
