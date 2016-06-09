@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bun venit">
-<!ENTITY  onboard_start_message3 "Navighează cu &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Fă ca experiența de navigare mobilă pe web să fie cu adevărat unică.">
 
 <!ENTITY firstrun_urlbar_message "Bun venit la &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Găsește lucruri mai rapid cu scurtăturile sugestiilor utile de căutare.">
@@ -20,20 +18,25 @@
 
 
 <!ENTITY  onboard_start_button_browser "Începe navigarea">
+
 <!ENTITY firstrun_button_next "Înainte">
 
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
 <!ENTITY  onboard_start_restricted1 "Rămâi în siguranță și păstrează controlul cu această versiune simplificată de &brandShortName;.">
-
-<!ENTITY  reading_list_migration_title "Listă de citit conectată">
-<!ENTITY  reading_list_migration_subtext "Elementele din lista ta de citit vor fi adăugate în semnele tale de carte">
-<!ENTITY  reading_list_migration_goto_bookmarks "Mergi la semnele de carte">
-
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Semne de carte">
 <!ENTITY  history_title "Istoric">
-<!ENTITY  reading_list_title "Listă de citit">
 <!ENTITY  recent_tabs_title "File recente">
 
 <!ENTITY  switch_to_tab "Comută la filă">
@@ -68,7 +71,10 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Capturi de ecran">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "Listă de citit">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -172,6 +178,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "PONT: Adaugă orice site web în lista motoarelor de căutare prin atingerea lungă pe câmpul de căutare al acestuia iar apoi atingând iconița &formatI;.">
 <!ENTITY pref_category_advanced "Avansat">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Restaurează filele, economizorul de date, uneltele de dezvoltare">
 <!ENTITY pref_category_notifications "Notificări">
 <!ENTITY pref_category_notifications_summary "Funcționalități noi, actualizările site-urilor web">
@@ -222,6 +231,9 @@
 <!ENTITY pref_cookies_accept_all "Activate">
 <!ENTITY pref_cookies_not_accept_foreign "Activate, excluzând terții">
 <!ENTITY pref_cookies_disabled "Dezactivate">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_data_saver "Economizor de date">
 <!ENTITY pref_category_media "Media">
@@ -283,7 +295,10 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; site-uri web actualizate">
-<!ENTITY content_notification_action_settings "Setări pentru notificări">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -417,12 +432,12 @@ size. -->
 <!ENTITY share_image_failed "Nu se poate partaja această imagine">
 <!ENTITY save_as_pdf "Salvează ca PDF">
 <!ENTITY print "Tipărește">
-<!ENTITY find_in_page "Găsește în pagină">
-<!ENTITY desktop_mode "Cere versiune de desktop">
+
+
 <!ENTITY page "Pagină">
 <!ENTITY tools "Unelte">
-<!ENTITY new_tab "Filă nouă">
-<!ENTITY new_private_tab "Filă privată nouă">
+
+
 <!ENTITY close_all_tabs "Închide toate filele">
 <!ENTITY close_private_tabs "Închide filele private">
 <!ENTITY tabs_normal "File">
@@ -432,8 +447,6 @@ size. -->
 <!ENTITY set_image_chooser_title "Setează imaginea ca">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Găsește în pagină">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Următor">
 <!ENTITY find_close "Închide">
@@ -534,6 +547,7 @@ size. -->
 <!ENTITY home_history_title "Istoric">
 
 
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 
 <!ENTITY home_clear_history_button "Șterge istoricul de navigare">
 <!ENTITY home_clear_history_confirm "Sigur dorești să ștergi istoricul?">
@@ -769,4 +783,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Adaugă la ecranul principal">
 
 
-<!ENTITY helper_first_offline_bookmark_button "Mergi la semnele de carte">
+
+
+
+
+
