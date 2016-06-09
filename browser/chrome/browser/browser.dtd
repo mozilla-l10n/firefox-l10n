@@ -165,6 +165,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "הרשמה לדף זה…">
 <!ENTITY addCurPagesCmd.label "יצירת סימנייה לכל הלשוניות…">
 <!ENTITY showAllBookmarks2.label "הצגת כל הסימניות">
+<!ENTITY otherBookmarksCmd.label "סימניות אחרות">
 <!ENTITY bookmarksToolbarChevron.tooltip "הצגת סימניות נוספות">
 
 <!ENTITY backCmd.label                "אחורה">
@@ -194,6 +195,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "שמירת ססמה">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "ניהול השימוש בתוספים חיצוניים בדף זה">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "ניהול השיתוף של המצלמה ו/או המיקרופון שלך עם האתר">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "המצלמה ו/או המיקרופון שלך משותפים כעת עם האתר">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "ניהול השיתוף של המיקרופון שלך עם האתר">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "המיקרופון שלך משותף כעת עם האתר">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "ניהול השיתוף של החלונות או המסך שלך עם האתר">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "החלון או המסך שלך משותפים כעת עם האתר">
 
 <!ENTITY urlbar.servicesNotificationAnchor.label        "הצגת הודעת התקנת שירות">
 <!ENTITY urlbar.translateNotificationAnchor.label       "תרגום דף זה">
@@ -210,6 +217,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "סימניות">
+<!ENTITY bookmarksMenuButton.other.label "סימניות אחרות">
 <!ENTITY viewBookmarksSidebar2.label        "הצגת סרגל הצד">
 <!ENTITY viewBookmarksToolbar.label         "הצגת סרגל הכלים">
 
