@@ -40,7 +40,7 @@
 <!-- Data Choices -->
 
 <!ENTITY telemetrySection.label          "Telemetria">
-<!ENTITY telemetryDesc.label             "Partilha o desempenho, a utilização, o hardware e os dados de personalização sobre o cliente de correio com a &vendorShortName; para ajudar a melhorar o &brandShortName;">
+<!ENTITY telemetryDesc.label             "Partilha o desempenho, utilização, hardware e os dados de personalização sobre o cliente de correio com a &vendorShortName; para ajudar-nos a melhorar o &brandShortName;">
 <!ENTITY enableTelemetry.label           "Ativar telemetria">
 <!ENTITY enableTelemetry.accesskey       "t">
 <!ENTITY telemetryLearnMore.label        "Saber mais">

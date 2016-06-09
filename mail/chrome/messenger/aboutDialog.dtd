@@ -36,7 +36,7 @@
 <!ENTITY community.creditsLink      "comunidade global">
 <!ENTITY community.end3             " que trabalha para tornar a Internet melhor. Acreditamos que a Internet deve ser aberta, pública e acessível para todos.">
 
-<!ENTITY helpus.start               "Gostaria de nos ajudar? ">
+<!ENTITY helpus.start               "Quer ajudar? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Efetue um donativo">
 <!ENTITY helpus.middle              " ou ">

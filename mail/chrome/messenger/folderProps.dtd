@@ -30,7 +30,7 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Apagar todas menos as mais recentes">
 <!ENTITY retentionKeepRecent.accesskey "t">
-<!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens com estrela">
+<!ENTITY retentionApplyToFlagged.label "Manter sempre as mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Sincronização">

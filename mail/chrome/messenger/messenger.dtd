@@ -76,7 +76,7 @@
 <!ENTITY settingsOfflineCmd2.accesskey "d">
 <!ENTITY downloadSelectedCmd.label "Obter mensagens selecionadas">
 <!ENTITY downloadSelectedCmd.accesskey "m">
-<!ENTITY downloadStarredCmd.label "Transferir mensagens com estrela">
+<!ENTITY downloadStarredCmd.label "Obter mensagens com estrela">
 <!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "Imprimir...">
 <!ENTITY printCmd.accesskey "p">
