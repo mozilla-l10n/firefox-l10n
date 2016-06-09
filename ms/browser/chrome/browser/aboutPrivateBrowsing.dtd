@@ -6,17 +6,17 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Buka satu tetingkap sulit">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
+<!ENTITY privateBrowsing.title.tracking                  "Pelayaran Peribadi dengan Perlindungan Penjejakan">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Apabila anda belayar dalam Tetingkap Peribadi, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "tidak menyimpan">
+
+<!ENTITY aboutPrivateBrowsing.info.visited               "halaman yang dilawati">
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "akan menyimpan">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " anda:">
 
 
 

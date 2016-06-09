@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignInError.label "Sambung semula ke &syncBrand.shortName.label;">
 
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; dibolehkan">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; akan memulakan penyegerakan sebentar lagi.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Pengurangan">
@@ -171,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Pamer lebih penandabuku">
 
+
+
+
+
 <!ENTITY backCmd.label                "Kembali">
 <!ENTITY backButton.tooltip           "Undur sehalaman">
 <!ENTITY forwardCmd.label             "Maju">
@@ -221,6 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewBookmarksSidebar2.label        "Lihat Penandabuku Bar Sisi">
 <!ENTITY viewBookmarksToolbar.label         "Lihat Penandabuku Bar Alatan">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -253,14 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fail"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY newNavigatorCmd.label        "Tetingkap Baru">
@@ -547,19 +542,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "B">
 <!ENTITY mediaUnmute.label           "Nyahbisu">
 <!ENTITY mediaUnmute.accesskey       "N">
-<!ENTITY mediaPlaybackRate.label     "Kelajuan Permainan">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Gerak Perlahan (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "G">
-<!ENTITY mediaPlaybackRate100x.label "Kelajuan Normal">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Kelajuan Tinggi (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "T">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Kelajuan Merepek (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "l">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
