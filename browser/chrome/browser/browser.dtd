@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignInError.label "Teelto &syncBrand.shortName.label;">
 
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ena hurmi">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; maa fuɗɗo syncude ko leelaani.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Taggu">
@@ -171,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Hollu maantore goɗɗe">
 
+
+
+
+
 <!ENTITY backCmd.label                "Rutto">
 <!ENTITY backButton.tooltip           "Rutto hello wooto">
 <!ENTITY forwardCmd.label             "Yeeso">
@@ -221,6 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewBookmarksSidebar2.label        "Hollu Palal Maantore">
 <!ENTITY viewBookmarksToolbar.label         "Hollu Palal Maantore">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -253,14 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fiilde"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY newNavigatorCmd.label        "Henorde Hesere">
@@ -544,19 +539,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Ittu muumɗinal">
 <!ENTITY mediaUnmute.accesskey       "I">
-<!ENTITY mediaPlaybackRate.label     "Muumaa Taro">
-<!ENTITY mediaPlaybackRate.accesskey "u">
-<!ENTITY mediaPlaybackRate050x.label "Leeltino (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "L">
-<!ENTITY mediaPlaybackRate100x.label "Muumaa Potɗo">
-<!ENTITY mediaPlaybackRate100x.accesskey "P">
-<!ENTITY mediaPlaybackRate150x.label "Muumaa Jaawɗo (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "J">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Mumaa Pakitɗo (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "a">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

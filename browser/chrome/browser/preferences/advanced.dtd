@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Hoto yuurnito kesɗitine (wasiyaaka: ena ŋakki hisde)">
 <!ENTITY updateManual.accesskey          "u">
 
-<!ENTITY updateAutoAddonWarn.label       "Reentin-am so ɗum maa daaƴ gooral e ɓeyditte am">
-<!ENTITY updateAutoAddonWarn.accesskey   "R">
-
 <!ENTITY updateHistory.label             "Hollu Aslol Kesɗitine">
 <!ENTITY updateHistory.accesskey         "A">
 
