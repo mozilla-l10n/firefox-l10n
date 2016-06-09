@@ -110,8 +110,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.pagetitle1  "Ligação não segura">
+<!ENTITY certerror.wrongSystemTime "<p>Uma ligação segura para <span id='wrongSystemTime_URL'/> não é possível porque o relógio parece mostrar a hora errada.</p> <p>O seu computador pensa que são <span id='wrongSystemTime_systemDate'/>, quando devem ser <span id='wrongSystemTime_actualDate'/>. Para reparar este problema, altere as suas definições de data e hora para corresponderem à hora correta.</p>">
 
+<!ENTITY certerror.pagetitle1  "Ligação não segura">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este site utiliza HTTP Strict Transport Security (HSTS) para especificar que o &brandShortName; apenas se liga ao mesmo em segurança. Como resultado, não é possível adicionar uma exceção para este certificado.">
 <!ENTITY certerror.copyToClipboard.label "Copiar texto para a área de transferência">
 
 <!ENTITY inadequateSecurityError.title "A sua ligação não é segura">
@@ -119,4 +121,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utiliza tecnologia de segurança que está desatualizada e vulnerável a ataques. Um atacante pode facilmente revelar informação que pensou estar segura. O administrador do website precisa de corrigir o servidor primeiro antes que possa visitar o site. </p><p>Código de erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "Parece que as suas definições de segurança de rede podem estar a causar isto. Pretende que as definições predefinidas sejam restauradas?">
+<!ENTITY prefReset.label "Restaurar definições predefinidas">

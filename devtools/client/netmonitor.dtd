@@ -15,7 +15,7 @@
 
 <!ENTITY netmonitorUI.perfNotice1         "• Clique no">
 <!ENTITY netmonitorUI.perfNotice2         "botão para iniciar a análise de desempenho.">
-
+<!ENTITY netmonitorUI.perfNotice3         "Analisar">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 

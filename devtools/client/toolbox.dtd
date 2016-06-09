@@ -110,6 +110,8 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
+<!ENTITY options.disableHTTPCache.label     "Desativar cache HTTP (quando a caixa de ferramentas está aberta)">
+<!ENTITY options.disableHTTPCache.tooltip   "Ligar esta opção irá desativar o cache HTTP para todos os separadores que têm a caixa de ferramentas aberta. Os Service Workers não são afetados por esta opção.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
@@ -155,7 +157,7 @@
    - label for the checkbox that toggles timestamps in the Web Console -->
 
 <!ENTITY options.timestampMessages.label      "Ativar marcas temporais">
-<!ENTITY options.timestampMessages.tooltip    "Se ativar esta opção os comandos e o resultado da consola web irão mostrar uma marca temporal">
+<!ENTITY options.timestampMessages.tooltip    "Se ativar esta opção os comandos e a saída da consola web irão mostrar uma marca temporal">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
