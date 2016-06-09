@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "समस्या समाधानको सूचना">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
-
 <!ENTITY aboutSupport.crashes.title "क्र्यास प्रतिवेदनहरू">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -49,6 +47,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "प्रयोगकर्ता-प्रतिनिधि">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "स्मृति प्रयोग">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "दर्ता भएका Service Workers">
@@ -80,6 +79,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "ग्राफिक्स">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "बढोत्तरी जीसी">
 
@@ -96,6 +98,9 @@ variant of aboutSupport.showDir.label. -->
 
 
 <!ENTITY aboutSupport.restartInSafeMode.label "एड-अनहरू अक्षम पारेर पुनः सुरु गर्नुहोस...">
+
+
+
 
 
 

@@ -23,22 +23,8 @@
 
 <!ENTITY  unsupportedLink.label           "थप जान्नुहोस् ।">
 
-<!ENTITY  incompatibleCheck.title         "एड-अन अनुकुलता जाँचिदैछ">
-<!ENTITY  incompatibleCheck.label         "तपाईंको एडअनको नयाँ संस्करण खोज्दै…">
-
 <!ENTITY  clickHere.label                 "यो अपडेटको बारेमा थप जानकारी हेर्नुहोस्">
 
-
-
-<!ENTITY  license.titleText               "सफ्टवेयर लाइसेन्स सम्झौता">
-<!ENTITY  license.introText               "यो सफ्टवेर प्रयोग गर्नका लागि नियम र सर्तहरु।">
-<!ENTITY  license.instructionText         "कृपया निम्न लाइसेन्स सम्झौता पढ्नुहोस्। यो सम्झौताको बाँकी हेर्न स्क्रोल बार प्रयोग गर्नुहोस्।">
-<!ENTITY  license.accept                  "म इजाजतपत्र सम्झौतामा भएकामा सर्तहरू स्वीकार गर्दछु">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "म इजाजतपत्र सम्झौतामा भएका सर्तहरू स्वीकार गर्दिन">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "असमर्थित एड-अन भेटियो">
 
 <!ENTITY  downloadPage.title              " &brandShortName; डाउनलोड गरिदै">
 <!ENTITY  downloading.intro               "अद्यावधि डाउनलोड गर्दै…">
@@ -63,9 +49,6 @@
 <!ENTITY  finishedBackground.name         "अद्यावधिकः">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 
-<!ENTITY  installed.title                 "अद्यावधि स्थापना गरियो">
-<!ENTITY  installed.intro                 "अद्यावधि सफलतापूर्वक स्थापना गरियो।">
-<!ENTITY  whatsnew.label                  "नयाँ के के छन् भन्ने जान्नुहोस्…">
 
 <!ENTITY  update.details.label            "विवरण">
 <!ENTITY  update.installedOn.label        "स्थापना मिति:">
