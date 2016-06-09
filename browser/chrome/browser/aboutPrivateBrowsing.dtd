@@ -22,7 +22,7 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "marcadores">
 <!ENTITY aboutPrivateBrowsing.note.before                "A navegação privada ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "não o torna anónimo">
-<!ENTITY aboutPrivateBrowsing.note.after                 " na Internet. O seu empregador ou operador de serviço de Internet continuam a poder consultar as páginas que visita.">
+<!ENTITY aboutPrivateBrowsing.note.after                 " na Internet. O seu empregador ou provedor de serviço de Internet podem ainda saber as páginas que visita.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Saiba mais acerca da">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Navegação privada">
 

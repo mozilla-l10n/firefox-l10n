@@ -11,4 +11,4 @@
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Preferências de sincronização">
 <!ENTITY aboutAccounts.noConnection.title "Sem ligação">
 <!ENTITY aboutAccounts.noConnection.description "Tem que estar ligado à Internet para iniciar a sessão.">
-<!ENTITY aboutAccounts.noConnection.retry "Voltar a tentar">
+<!ENTITY aboutAccounts.noConnection.retry "Tentar novamente">
