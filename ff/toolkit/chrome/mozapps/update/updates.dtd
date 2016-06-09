@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "&brandShortName; hiiɗɗitii, kono yamre sakkitiinde ndee jaaɓdaani e yuɓɓo maa. Tiiɗno hesɗitin yuɓɓo maa, kisa eto-ɗaa kadi. A yiyataa ngol tintinol goɗngol, kono aɗa waawi">
 <!ENTITY  unsupportedLink.label           "ɓeydude humpito.">
 
-<!ENTITY  incompatibleCheck.title         "Nana Ƴeewtoo Jaaɓondiral Ɓeyditte">
-<!ENTITY  incompatibleCheck.label         "Nana yiyloo jame ɓeyditte maa ɓurɗe hesɗude…">
-
 <!ENTITY  clickHere.label                 "Ɓeydu humpito baɗte ngal kesɗitinal">
 
 <!ENTITY  evangelism.desc                 "Ena wasiyaa noo feewi nde njammintaa ngal kesɗitinal &brandShortName; ko yaajtii.">
-
-<!ENTITY  license.instructions            "So a jaɓii e kuule ngal nandondiral, dobo Mi Jaɓii les ɗoo ngam jokkude aafgol ngal kesɗitinal.">
-
-<!ENTITY  license.titleText               "Nanondiral Jamirol Topirde">
-<!ENTITY  license.introText               "Kuule e hujjaaji kuutorgol ndee topirɗe.">
-<!ENTITY  license.instructionText         "Tiiɗno tar ɗee-ɗee nanondire jamirol. Huutoro palal wororde ngam yiyde ko heddii e jamirol ngol.">
-<!ENTITY  license.accept                  "Mi jaɓii kuule Nanondiral Jamirol ɗee">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Mi jaɓaani NOT kuule Nanondiral Jamirol ɗee">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Ɓeyditte ɗe Njaaɓdaani Njiytaama">
 
 <!ENTITY  downloadPage.title              "Nana aawtoo &brandShortName;">
 <!ENTITY  downloading.intro               "Nana aawtoo kesɗitinal ngal…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Kesɗitinal ngal maa aafe tuma mo &brandShortName; hurmiti. waawi hurmitinde &brandShortName; jooni, walla jokku gollaade, kurmitinaa goɗngol.">
 
-<!ENTITY  installed.title                 "Kesɗitinal Aafaama">
-<!ENTITY  installed.intro                 "Kesɗitinal ngal aafraama no moƴƴirta.">
-<!ENTITY  whatsnew.label                  "Tar humpito baɗte ko hesɗi…">
 
 <!ENTITY  update.details.label            "Cariiɗe">
 <!ENTITY  update.installedOn.label        "Aafaa ko ñalnde:">

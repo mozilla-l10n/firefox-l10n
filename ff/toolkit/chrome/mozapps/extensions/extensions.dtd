@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Nana loowa…">
-<!ENTITY listEmpty.installed.label            "A alaa hay ɓeydital gootal aafaangal e oo fannu">
+
 <!ENTITY listEmpty.availableUpdates.label     "Alaa kesɗitine njiytaa">
-<!ENTITY listEmpty.recentUpdates.label        "A hesɗitinaani hay beyditere wootere sakket">
+
 <!ENTITY listEmpty.findUpdates.label          "Yuurno Kesɗitine">
 <!ENTITY listEmpty.search.label               "Horiima yiytude ɓaydittee jaaɓɗuɗe">
 <!ENTITY listEmpty.button.label               "Ɓeydu humpito e ɓeyditte">
@@ -105,9 +105,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Ittu">
 <!ENTITY cmd.uninstallAddon.accesskey         "I">
 <!ENTITY cmd.showPreferencesWin.label         "Cuɓe">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Waylu cuɓe ngal ɓeydital">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Cuɓoraaɗe">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Waylu cuɓoraaɗe ngal ɓeydital">
+
 <!ENTITY cmd.contribute.label                 "Addu ballal">
 <!ENTITY cmd.contribute.accesskey             "A">
 <!ENTITY cmd.contribute.tooltip               "Wallit e totagol ngal ɓeydital">
@@ -122,7 +122,7 @@
 
 <!ENTITY discover.title                       "Ko woni ɓeyditte?">
 <!ENTITY discover.description2                "Ɓeyditte ko jaaɓnirɗe ballooje-ma heertinde &brandShortName; ɓeyda heen gaatuleeje goɗɗe walla panni. Ƴeewndo palal kuutorɗe jaawnowal, tintinorde asamaan, walla mbaydi siŋkoore ɓeydowal &brandShortName; nanndude e yiɗde maa.">
-<!ENTITY discover.footer                      "So a seŋiima e enternet, ngal alluwal maa hollu ɓeyditte ɓurɗe ŋarɗude e lollude ngal ƴeewndo-ɗaa.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Yamre">
@@ -135,11 +135,11 @@
 
 <!ENTITY detail.updateType                    "Kesɗitine Jaajol">
 <!ENTITY detail.updateDefault.label           "Goowaaɗo">
-<!ENTITY detail.updateDefault.tooltip         "Aaf kesɗitine e jaajol so wonaa tawa ko ɗum goowaɗum">
+
 <!ENTITY detail.updateAutomatic.label         "Kuɓɓol">
 <!ENTITY detail.updateAutomatic.tooltip       "Aaf kesɗitine e jaajol">
 <!ENTITY detail.updateManual.label            "Ñifol">
-<!ENTITY detail.updateManual.tooltip          "Hoto aaf kesɗitine e jaajol">
+
 <!ENTITY detail.home                          "Hello jaɓɓorgo">
 <!ENTITY detail.repository                    "Heftinirde Ɓeyditte">
 <!ENTITY detail.size                          "Ɓetol">
@@ -149,10 +149,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Yuurno kesɗitine ngal ɓeydital">
 <!ENTITY detail.showPreferencesWin.label      "Cuɓe">
 <!ENTITY detail.showPreferencesWin.accesskey  "C">
-<!ENTITY detail.showPreferencesWin.tooltip    "Waylu cuɓe ngal ɓeydital">
+
 <!ENTITY detail.showPreferencesUnix.label     "Cuɓoraaɗe">
 <!ENTITY detail.showPreferencesUnix.accesskey "C">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Waylu cuɓoraaɗe ngal ɓeydital">
+
 <!-- ratings -->
 
 
@@ -221,8 +221,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Ko ɗumwoni? Telemeetriri ana waawi aafde e dognude dawtinde saha-sahaa kala.">
 <!ENTITY experiment.info.learnmore "Ɓeydu Humpito">
 <!ENTITY experiment.info.learnmore.accesskey "Ɓ">
 <!ENTITY experiment.info.changetelemetry "Teelte Telemeetiri">
