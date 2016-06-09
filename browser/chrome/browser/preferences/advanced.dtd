@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Ungaze ukhangele uhlaziyo (akucetyiswa oko: yingozi kukhuseleko)">
 <!ENTITY updateManual.accesskey          "U">
 
-<!ENTITY updateAutoAddonWarn.label       "Ndilumnkise ukuba oku kuya kuqhwalelisa naziphi na izongezelelo zam">
-<!ENTITY updateAutoAddonWarn.accesskey   "N">
-
 <!ENTITY updateHistory.label             "Bonisa iMbali yoHlaziyo">
 <!ENTITY updateHistory.accesskey         "B">
 
