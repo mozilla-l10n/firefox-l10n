@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Gagayandi gundekuna saajaw alhukum bande">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ganji moɲoo woo ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukumoo ši yadda a ga.</p>">
 
-<!ENTITY corruptedContentError.title "Gundekuna laybante firka">
-<!ENTITY corruptedContentError.longDesc "<p>Moɲoo kaŋ war ga wiri ka dii ya ši hin ka cebandi zama firka maatandi bayhayey toonandiyanoo waate.</p><ul><li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Gundekuna laybante firka">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Moɲoo kaŋ war ga wiri ka dii ya ši hin ka cebandi zama firka maatandi bayhayey toonandiyanoo waate.</p><ul><li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Hasaraw tonton…">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Jinekoyante">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ga goy nda dabaribayray saajaw kaŋ žen nd'a feera zanbayyan se. Zanbakaw ga hin ka tanba ka dii alhabar kaŋ war ga tammahã mma sutura.">
 <!ENTITY weakCryptoAdvanced.override "(Ši saajaw) Ceeci ka <span class='hostname'></span> nda saajaw žeena">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Manti ciyari saajante">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Nungoo woo ga goy nda HTTP Strict Transport Security (HSTS) ka tabatandi kaŋ &brandShortName; ka ciya saajante hinne tee a ga. Woo sabboo ra, boro ši hin ka hasaraw tonton tabatiyan-tiiraa woo se.">
+
 <!ENTITY certerror.copyToClipboard.label "Hantumoo berandi deeji-walhaa ga">
 
 <!ENTITY inadequateSecurityError.title "War ciyaroo manti saajante">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ga goy nda dabaribayray kaŋ žen nd'a ga yalaafu zanbakey se. A ga faala zanbakaw se a ma hin ka alhabar kaŋ war ga tammahãa a ga saajaw fukkar. Interneti nungu juwalkaa mma hima ka feršikaa hanse jina hala war ma ma nungoo guna.</p><p>Firka tammaasa: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Gagayyan maašeedey">
-<!ENTITY window.width                 "50em">
+
 
 <!ENTITY treehead.list.label          "Maašeede">
 <!ENTITY windowClose.key              "w">

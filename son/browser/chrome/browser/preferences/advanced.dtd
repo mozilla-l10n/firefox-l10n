@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Ši taagandirey ceeci abada (manti yaamarante: saajaw allamaana)">
 <!ENTITY updateManual.accesskey          "b">
 
-<!ENTITY updateAutoAddonWarn.label       "Ay yaamar nda woo ga tontoney jerey kayandi">
-<!ENTITY updateAutoAddonWarn.accesskey   "A">
-
 <!ENTITY updateHistory.label             "Taagandiri taariku cebe">
 <!ENTITY updateHistory.accesskey         "a">
 

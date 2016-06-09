@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Goo ma zumandi…">
-<!ENTITY listEmpty.installed.label            "War ši nda dumoo woo tontoni kul kaŋ sinjandi.">
+
 <!ENTITY listEmpty.availableUpdates.label     "Taagandiri kul mana duwandi">
-<!ENTITY listEmpty.recentUpdates.label        "War ma tontoni kul taagandiri cee korawey">
+
 <!ENTITY listEmpty.findUpdates.label          "Taagandirey ceeci">
 <!ENTITY listEmpty.search.label               "Mana hin ka duu tontoni tenjante kul">
 <!ENTITY listEmpty.button.label               "Tontoney wey bay ka tonton">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Kaa">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
 <!ENTITY cmd.showPreferencesWin.label         "Suubarey">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Tontonoo woo suubarey barmay">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Ibaayey">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Tontonoo woo ibaayey barmay">
+
 <!ENTITY cmd.contribute.label                 "Kanbuzaamay">
 <!ENTITY cmd.contribute.accesskey             "K">
 <!ENTITY cmd.contribute.tooltip               "Kanbuzaamay tontonoo woo cineyanoo še">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Macin ti tontoney?">
 <!ENTITY discover.description2                "Tontoney ti porogaramyaŋ kaŋ ga too war ma &brandShortName; hanse war boŋ se nda goyyan sahã wala fasal tontoniyaŋ. Wey šii: ceraw zuu-žeeri cahãnte, waati-alhaali bangandikaw wala furari cebe-diji ka &brandShortName; tee war boŋ wane.">
-<!ENTITY discover.footer                      "Waati kaŋ ga ciya nda Interneti, zanfun-izoo woo goo nda tontoni kul ihenney nda bayrantey war šiiyanoo še.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Dumi">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Boŋtaagandirey">
 <!ENTITY detail.updateDefault.label           "Tilasu">
-<!ENTITY detail.updateDefault.tooltip         "Taagandirey sinji ngey boŋše de nda tilasu no">
+
 <!ENTITY detail.updateAutomatic.label         "Ga goy">
 <!ENTITY detail.updateAutomatic.tooltip       "Boŋtaagandirey sinji">
 <!ENTITY detail.updateManual.label            "Šii goy ra">
-<!ENTITY detail.updateManual.tooltip          "Ši boŋtaagandirey sinji">
+
 <!ENTITY detail.home                          "Šintinmoo">
 <!ENTITY detail.repository                    "Alhal tontoni">
 <!ENTITY detail.size                          "Adadu">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Taagandirey ceeci tontonoo woo še">
 <!ENTITY detail.showPreferencesWin.label      "Suubarey">
 <!ENTITY detail.showPreferencesWin.accesskey  "S">
-<!ENTITY detail.showPreferencesWin.tooltip    "Tontonoo woo suubarey barmay">
+
 <!ENTITY detail.showPreferencesUnix.label     "Ibaayey">
 <!ENTITY detail.showPreferencesUnix.accesskey "b">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Tontonoo woo ibaayey barmay">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Cin ti woo? A ga tee kabukaw ga šiiyaŋ sinji nd'i dirandi waati fooyaŋ.">
 <!ENTITY experiment.info.learnmore "Bay ka tonton">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Kabukaw kayandiyaney">
