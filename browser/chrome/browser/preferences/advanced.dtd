@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "កុំ​រកមើល​បច្ចុប្បន្នភាព (មិន​ត្រូវ​បាន​ផ្ដល់​អនុសាសន៍ ៖ ហានិភ័យ​សុវត្ថិភាព)">
 <!ENTITY updateManual.accesskey          "ក">
 
-<!ENTITY updateAutoAddonWarn.label       "ព្រមាន​ខ្ញុំ ប្រសិនបើ​វា​នឹង​បិទ​​កម្មវិធី​បន្ថែម​ណាមួយ​របស់​ខ្ញុំ ">
-<!ENTITY updateAutoAddonWarn.accesskey   "ព">
-
 <!ENTITY updateHistory.label             "បង្ហាញ​ប្រវត្តិ​បច្ចុប្បន្នភាព">
 <!ENTITY updateHistory.accesskey         "ព">
 

@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "ព័ត៌មាន​អំពី​ដំណោះស្រាយ​បញ្ហា">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  ទំព័រ​នេះ មាន​ព័ត៌មាន​បច្ចេកទេស​ដែល​អាច​មាន​ប្រយោជន៍ នៅ​ពេល​ដែល​អ្នក ព្យាយាម​ដោះស្រាយ​បញ្ហា ។ ប្រសិនបើ​អ្នក​កំពុង​រក​ចម្លើយ​សម្រាប់​សំណួរ​ទូទៅ អំពី &brandShortName; ពិនិត្យមើល <a id='supportLink'>តំបន់​បណ្ដាញ​គាំទ្រ</a> របស់​យើង ។">
-
 <!ENTITY aboutSupport.crashes.title "របាយការណ៍​ការ​គាំង">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -52,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "ភ្នាក់ងារ​អ្នកប្រើ">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "អង្គ​ចងចាំ​ដែល​ប្រើ">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers ដែល​បាន​ចុះ​ឈ្មោះ">
@@ -84,6 +83,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "ក្រាហ្វិក">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC បន្ថែម">
 
@@ -103,6 +105,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "សាកល្បង​របៀប​សុវត្ថិភាព">
 <!ENTITY aboutSupport.restartInSafeMode.label "ចាប់ផ្ដើម​ឡើងវិញ​ដោយ​បិទ​កម្មវិធី​បន្ថែម...">
+
+
+
 
 
 

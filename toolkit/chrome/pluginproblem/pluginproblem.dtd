@@ -3,10 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
-
-<!ENTITY unsupportedPlatform.pre                             "យើង​សូម​អធ្យាស្រ័យ​ផង ប៉ុន្តែ &brandShortName; មិន​អាច​​លេង​​កម្មវិធី Flash នៅ​លើ​ឧបករណ៍​នេះ​បាន​ទេ។">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
-     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn’t suit traditions in your locale. -->
 <!ENTITY unsupportedPlatform.learnMore                       "ស្វែងយល់​បន្ថែម...">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
@@ -35,7 +33,7 @@
 <!ENTITY report.failed                                       "បាន​បរាជ័យ​ក្នុង​ការ​ដាក់​ស្នើ។">
 <!ENTITY report.unavailable                                  "គ្មាន​របាយការណ៍។">
 <!ENTITY report.comment                                      "បន្ថែម​មតិយោបល់ (មតិយោបល់​ត្រូវ​បាន​មើល​ឃើញ​ជា​សាធារណៈ)">
-<!ENTITY report.pageURL                                      "រួម​មាន​ URL របស់​ទំព័រ">
+
 
 <!ENTITY plugin.file                                         "ឯកសារ">
 <!ENTITY plugin.mimeTypes                                    "ប្រភេទ MIME">
