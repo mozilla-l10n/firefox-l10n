@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "ବିଷୟବସ୍ତୁ ସୁରକ୍ଷା ନିତୀ ଦ୍ୱାରା ଅଟକ ରଖାଯାଇଛି">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ଏହି ପୃଷ୍ଠାକୁ ଏହି ଉପାୟରେ ଧାରଣ କରିବାରୁ ବାରଣ କରିଥାଏ କାରଣ ସେହି ପୃଷ୍ଠାରେ ବିଷୟବସ୍ତୁ ସୁରକ୍ଷା ନିତୀ ଅଛି ଯାହାକି ଏହାକୁ ଅନୁମତି ଦେଇନଥାଏ।</p>">
 
-<!ENTITY corruptedContentError.title "ତ୍ରୁଟିଯୁକ୍ତ ବିଷୟବସ୍ତୁ ତ୍ରୁଟି">
-<!ENTITY corruptedContentError.longDesc "<p>ଆପଣ ଦେଖିବାକୁ ଇଚ୍ଛାକରୁଥିବା ପୃଷ୍ଠାକୁ ଦର୍ଶାଯାଇପାରିବ ନାହିଁ କାରଣ ତଥ୍ୟ ପରିବହନରେ ଗୋଟିଏ ତ୍ରୁଟି ଦେଖାଦେଇଛି।</p><ul><li>ଏହି ସମସ୍ୟା ବିଷୟରେ ଅଗଚର କରାଇବା ପାଇଁ ଦୟାକରି ୱେବସାଇଟ ମାଲିକଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "ତ୍ରୁଟିଯୁକ୍ତ ବିଷୟବସ୍ତୁ ତ୍ରୁଟି">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>ଆପଣ ଦେଖିବାକୁ ଇଚ୍ଛାକରୁଥିବା ପୃଷ୍ଠାକୁ ଦର୍ଶାଯାଇପାରିବ ନାହିଁ କାରଣ ତଥ୍ୟ ପରିବହନରେ ଗୋଟିଏ ତ୍ରୁଟି ଦେଖାଦେଇଛି।</p><ul><li>ଏହି ସମସ୍ୟା ବିଷୟରେ ଅଗଚର କରାଇବା ପାଇଁ ଦୟାକରି ୱେବସାଇଟ ମାଲିକଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "ବ୍ୟତିକ୍ରମ ଯୋଗକରନ୍ତୁ…">
@@ -94,9 +94,13 @@ was trying to connect. -->
 
 
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

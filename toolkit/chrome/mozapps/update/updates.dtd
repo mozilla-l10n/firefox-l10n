@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "ଆପଣଙ୍କର &brandShortName; ପୁରୁଣା ହୋଇଛି, କିନ୍ତୁ ନୂତନତମ ସଂସ୍କରଣଟି ଆପଣଙ୍କ ତନ୍ତ୍ରରେ ସହାୟତା ପ୍ରାପ୍ତ ନୁହଁ। ଦୟାକରି ଆପଣଙ୍କ ତନ୍ତ୍ରକୁ ଉନ୍ନୟନ କରନ୍ତୁ, ତାପରେ ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ। ଆପଣ ଏହି ବିଜ୍ଞପ୍ତିକୁ ପୁଣିଥରେ ଦେଖିବେ ନାହିଁ, କିନ୍ତୁ ଆପଣ ଦେଖି ପାରିବେ">
 <!ENTITY  unsupportedLink.label           "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ।">
 
-<!ENTITY  incompatibleCheck.title         "ଏଡ଼-ଅନ ସୁସଂଗତି ଯାଞ୍ଚ କରୁଅଛି">
-<!ENTITY  incompatibleCheck.label         "ଆପଣଙ୍କର ଏଡ଼-ଅନଗୁଡ଼ିକର ନୂତନତମ ସଂସ୍କରଣଗୁଡ଼ିକୁ ଖୋଜୁଅଛି…">
-
 <!ENTITY  clickHere.label                 "ଏହି ଅଦ୍ୟତନ ବିଷୟରେ ଅଧିକ ସୂଚନା ଦେଖନ୍ତୁ">
 
 <!ENTITY  evangelism.desc                 "ଏହା ବିଶେଷ ଭାବେ ପରାମର୍ଶିତ ଯେ ଯଥାଶିଘ୍ର ସମ୍ଭବ ଆପଣ ଏହି ଅଦ୍ୟତନକୁ &brandShortName;ପାଇଁ ପ୍ରୟୋଗ କରନ୍ତୁ।">
-
-<!ENTITY  license.instructions            "ଯଦି ଆପଣଏହି ରାଜିନାମାର ନିୟମଗୁଡ଼ିକ ସହିତ ସହମତ ହୁଅନ୍ତି, ତେବେ, ଏହି ଅଦ୍ୟତନ ସ୍ଥାପନକୁ ଆଗକୁ ବଢ଼ାଇବା ପାଇଁ ନିମ୍ନରେ ମୁଁ ସହମତ କ୍ଲିକ କରନ୍ତୁ।">
-
-<!ENTITY  license.titleText               "ସଫ୍ଟୱେର ଅନୁମତି ପତ୍ର ରାଜିନାମା">
-<!ENTITY  license.introText               "ଏହି ସଫ୍ଟୱେରକୁ ବ୍ୟବହାର କରିବା ପାଇଁ ନିୟମାବଳୀ ଏବଂ ସର୍ତ୍ତ।">
-<!ENTITY  license.instructionText         "ଦୟାକରି ନିମ୍ନଲିଖିତ ଅନୁମତି ପତ୍ର ରାଜିନାମାକୁ ପଢ଼ନ୍ତୁ। ଏହି ରାଜିନାମାର ବଳକା ଅଂଶ ଦେଖିବା ପାଇଁ ଦୃଶ୍ୟବଦଳା ପଟିକୁ ବ୍ୟବହାର କରନ୍ତୁ।">
-<!ENTITY  license.accept                  "ଏହି ଅନୁମତି ପତ୍ର ରାଜିନାମାରେ ମୁଁ ସହମତ">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "ଏହି ଅନୁମତି ପତ୍ର ରାଜିନାମାର ନିୟମାବଳୀକୁ ମୁଁ ଗ୍ରହଣ କରିବି ନାହିଁ।">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "ଅସଂଗତ ଏଡ଼-ଅନଗୁଡ଼ିକ ମିଳିଲା">
 
 <!ENTITY  downloadPage.title              "Downloading &brandShortName;">
 <!ENTITY  downloading.intro               "ଅଦ୍ୟତନ ଆହରଣ କରୁଅଛି…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "ପରବର୍ତ୍ତି ସମୟରେ &brandShortName; ଆରମ୍ଭ ହେଲେ ଅଦ୍ୟତନକୁ ସ୍ଥାପନ କରାଯିବ। ଆପଣ ବର୍ତ୍ତମାନ &brandShortName; କୁ ପୁନଃଚାଳନ କରିପାରିବେ, ଅଥବା କାର୍ଯ୍ୟ ଚାଲୁ ରଖନ୍ତୁ ଏବଂ ପରେ ପୁନଃଚାଳନ କରନ୍ତୁ।">
 
-<!ENTITY  installed.title                 "ଅଦ୍ୟତନ ସ୍ଥାପିତ ହୋଇଛି">
-<!ENTITY  installed.intro                 "ଅଦ୍ୟତନ ସଫଳତାର ସହିତ ସ୍ଥାପିତ ହୋଇଥିଲା।">
-<!ENTITY  whatsnew.label                  "କଣ ନୂଆ ଅଛି ତାହା ବିଷୟରେ ପଢ଼ନ୍ତୁ…">
 
 <!ENTITY  update.details.label            "ବିବରଣୀ">
 <!ENTITY  update.installedOn.label        "ରେ ସ୍ଥାପିତ:">
