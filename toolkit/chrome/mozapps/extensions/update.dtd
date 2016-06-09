@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "ஏற்ற கூடுதல் இணைப்பு கண்டுபிடிக்கப்பட்டது">
 <!ENTITY  found.top.label                 "நீங்கள் நிறுவ விரும்பும் கூடுதல் இணைப்புகளை தேர்ந்தெடுக்கவும்:">
-<!ENTITY  found.disabledXPinstall.label   "இந்த மேம்படுத்தல்களை நிறுவ முடியவில்லை ஏனெனில் மென்பொருள் நிறுவல் தற்போது செயல்நீக்கப்பட்டுள்ளது. இந்த அமைவுகளை கீழே மாற்றலாம்.">
+
 <!ENTITY  found.enableXPInstall.label     "இணைய தளங்களை மென்பொருட்களை நிறுவ அனுமதிக்கவும்">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 

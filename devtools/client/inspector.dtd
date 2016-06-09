@@ -3,36 +3,26 @@
      (outer) HTML of the current node -->
 <!ENTITY inspectorHTMLEdit.label       "HTML வடிவில் திருத்து">
 <!ENTITY inspectorHTMLEdit.accesskey   "த">
-<!-- LOCALIZATION NOTE (inspectorHTMLCopyInner.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorCopyInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
 
-<!ENTITY inspectorHTMLCopyInner.label       "உட்புற HTMLஐ நகலெடு">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "உ">
-<!-- LOCALIZATION NOTE (inspectorHTMLCopyOuter.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
 
-<!ENTITY inspectorHTMLCopyOuter.label       "வெளிப்புற HTML ஐ நகலெடு">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "வ">
-<!-- LOCALIZATION NOTE (inspectorCopyUniqueSelector.label): This is the label
+<!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
 
-<!ENTITY inspectorCopyUniqueSelector.label       "தனித்துவமான தேர்வியை நகலெடுக்கவும்">
-<!ENTITY inspectorCopyUniqueSelector.accesskey   "த">
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteOuter.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
-<!ENTITY inspectorHTMLPasteOuter.label      "வெளிப்புற HTML ஒட்டு">
-<!ENTITY inspectorHTMLPasteOuter.accesskey  "P">
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
-<!ENTITY inspectorHTMLPasteInner.label      "HTML உள்ளர ஒட்டு">
-<!ENTITY inspectorHTMLPasteInner.accesskey  "n">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
@@ -77,7 +67,7 @@
 
 <!ENTITY inspectorHTMLDelete.label          "கணுவை நீக்கு">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
-<!-- LOCALIZATION NOTE (inspectorAttributeSubmenu.label): This is the label
+<!-- LOCALIZATION NOTE (inspectorAttributesSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
      attribute items, which allow to:
      - add new attribute
@@ -98,20 +88,15 @@
 
 
 <!ENTITY inspector.selectButton.tooltip     "ம்வுசைக் கொண்டு கூறைத் தேர்ந்தெடுக்கவும்">
-<!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
-     the placeholder in inspector search box -->
-<!ENTITY inspectorSearchHTML.key            "F">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that is
      shown as the placeholder for the markup view search in the inspector. -->
 
 <!ENTITY inspectorSearchHTML.label3 "HTML ஐத் தேடு">
-<!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
+<!-- LOCALIZATION NOTE (inspectorImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the URL embedding the image data encoded in Base 64 (what we name
      here Image Data URL). For more information:
      https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
-
-<!ENTITY inspectorCopyImageDataUri.label       "படத்தரவின் இணைப்பை நகலெடு">
 <!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
      shown in the inspector contextual-menu for the item that lets users see
      the DOM properties of the current node. When triggered, this item
@@ -138,3 +123,19 @@
      the inspector toolbar for the button that lets users add elements to the
      DOM (as children of the currently selected element). -->
 
+<!-- LOCALIZATION NOTE (inspectorCopyHTMLSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     copy items, which allow to:
+     - Copy Inner HTML
+     - Copy Outer HTML
+     - Copy Unique selector
+     - Copy Image data URI -->
+<!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     paste items, which allow to:
+     - Paste Inner HTML
+     - Paste Outer HTML
+     - Before
+     - After
+     - As First Child
+     - As Last Child -->

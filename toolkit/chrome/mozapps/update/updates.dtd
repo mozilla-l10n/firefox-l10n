@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "உங்கள் &brandShortName; காலாவதியாகிவிட்டது, ஆனால் சமீபத்திய பதிப்புக்கு உங்கள் கணினியில் ஆதரவில்லை. உங்கள் கணினியை மேம்படுத்திவிட்டு, மீண்டும் முயற்சிக்கவும். இந்த அறிவிப்பு மீண்டும் காண்பிக்கப்படாது, ஆனால் நீங்கள் இவற்றைச் செய்யலாம்">
 <!ENTITY  unsupportedLink.label           "மேலும் அறிக.">
 
-<!ENTITY  incompatibleCheck.title         "கூடுதல் இணைப்பு பொருத்தத்தை சரி பார்க்கிறது">
-<!ENTITY  incompatibleCheck.label         "உங்கள் கூடுதல் இணைப்பின் புதிய பதிப்புகளுக்கு பார்க்கிறது…">
-
 <!ENTITY  clickHere.label                 "இந்த மேம்படுத்தல் பற்றிய மேலும் தகவல்களை காண">
 
 <!ENTITY  evangelism.desc                 "&brandShortName;க்கு சீக்கிரமாக இந்த மேம்படுத்தலை நிறுவ கடுமையாக பரிந்துரைக்கப்படுகிறது.">
-
-<!ENTITY  license.instructions            "இந்த ஒப்பந்தத்தின் விதிமுறைகளை நீங்கள் ஏற்றுக்கொண்டால் நான் ஏற்கிறேன் என்பதை கீழே சொடுக்கி இந்த மேம்படுத்தலை நிறுவவும்.">
-
-<!ENTITY  license.titleText               "மென்பொருள் உரிம ஒப்பந்தம்">
-<!ENTITY  license.introText               "இந்த மென்பொருளை பயன்படுத்துவதற்கான விதிமுறைகள் மற்றும் நிபந்தனைகள்.">
-<!ENTITY  license.instructionText         "பின்வரும் உரிம ஒப்பந்தத்தை வாசிக்கவும். மீதமுள்ள ஒப்பந்தத்தை வாசிக்க சுருள் பட்டியை பயன்படுத்தவும்.">
-<!ENTITY  license.accept                  "நான் உரிம ஒப்பந்த விதிமுறைகளை ஏற்கிறேன்">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "நான் உரிம ஒப்பந்த விதிமுறைகளை ஏற்கவில்லை">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "தவறான கூடுதல் இணைப்புகள் காணப்படுகின்றன">
 
 <!ENTITY  downloadPage.title              "&brandShortName;ஐ பதிவிறக்குகிறது">
 <!ENTITY  downloading.intro               "மேம்படுத்தலை பதிவிறக்குகிறது…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "அடுத்த முறை &brandShortName; ஐ துவக்கும் போது மேம்படுத்தல் நிறுவப்படும். இப்போது &brandShortName;ஐ மறுதுவக்கலாம் அல்லது தொடர்ந்து வேலை செய்து பின்னர் மறுதுவக்கலாம்.">
 
-<!ENTITY  installed.title                 "நிறுவப்பட்டதை மேம்படுத்து">
-<!ENTITY  installed.intro                 "மேம்படுத்தல் வெற்றிகரமாக நிறுவப்பட்டது.">
-<!ENTITY  whatsnew.label                  "எது புதியது என்பது பற்றி வாசிக்கவும்…">
 
 <!ENTITY  update.details.label            "விவரங்கள்">
 <!ENTITY  update.installedOn.label        "நிறுவப்பட்ட நாள்:">

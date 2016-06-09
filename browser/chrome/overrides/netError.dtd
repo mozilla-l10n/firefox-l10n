@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "உள்ளடக்க பாதுகாப்பு கொள்கையால் தடுக்கப்பட்டது">
 <!ENTITY cspBlocked.longDesc "<p> &brandShortName; இந்த பக்கம் இந்த வழியில் ஏற்றப்படுவதை தடுத்தது ஏனெனில் இந்த பக்கத்தின் ஒரு உள்ளடக்க பாதுகாப்பு கொள்கை அதை தடுக்கிறது.</p>">
 
-<!ENTITY corruptedContentError.title "சிதைந்த உள்ளடக்கப் பிழை">
-<!ENTITY corruptedContentError.longDesc "<p>தரவுப் பரிமாற்றத்தில் ஒரு பிழை கண்டறியப்பட்டுள்ளதால், நீங்கள் காண முயற்சிக்கும் பக்கத்தைக் காண்பிக்க முடியாது.</p><ul><li>இணைய உரிமையாளர்களைத் தொடர்பு கொண்டு இந்த பிரச்சனை குறித்து தெரிவிக்கவும்.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "சிதைந்த உள்ளடக்கப் பிழை">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>தரவுப் பரிமாற்றத்தில் ஒரு பிழை கண்டறியப்பட்டுள்ளதால், நீங்கள் காண முயற்சிக்கும் பக்கத்தைக் காண்பிக்க முடியாது.</p><ul><li>இணைய உரிமையாளர்களைத் தொடர்பு கொண்டு இந்த பிரச்சனை குறித்து தெரிவிக்கவும்.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Add Exception">
@@ -95,9 +95,13 @@ was trying to connect. -->
 
 
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
