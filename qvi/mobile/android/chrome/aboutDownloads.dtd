@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDownloads.title                      "Downloads">
-<!ENTITY aboutDownloads.header                     "Your Downloads">
-<!ENTITY aboutDownloads.empty                      "No Downloads">
+<!ENTITY aboutDownloads.title                      "Aparinakuna">
+<!ENTITY aboutDownloads.header                     "Kanpak aparinakuna">
+<!ENTITY aboutDownloads.empty                      "Mana aparinakuna">
 
-<!ENTITY aboutDownloads.open                       "Open">
-<!ENTITY aboutDownloads.remove                     "Delete">
-<!ENTITY aboutDownloads.removeAll                  "Delete All">
-<!ENTITY aboutDownloads.pause                      "Pause">
-<!ENTITY aboutDownloads.resume                     "Resume">
-<!ENTITY aboutDownloads.cancel                     "Cancel">
-<!ENTITY aboutDownloads.retry                      "Retry">
+<!ENTITY aboutDownloads.open                       "Paskana">
+<!ENTITY aboutDownloads.remove                     "Anchuchina">
+<!ENTITY aboutDownloads.removeAll                  "Anchuchina tukuylla">
+<!ENTITY aboutDownloads.pause                      "Samana">
+<!ENTITY aboutDownloads.resume                     "Katina">
+<!ENTITY aboutDownloads.cancel                     "Tukuchina">
+<!ENTITY aboutDownloads.retry                      "Kutin shinana">

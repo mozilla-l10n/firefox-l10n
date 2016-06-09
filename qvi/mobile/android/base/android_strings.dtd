@@ -2,105 +2,111 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "Welcome">
-<!ENTITY  onboard_start_message3 "Browse with &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Make your mobile Web browsing experience truly your own.">
+<!ENTITY firstrun_panel_title_welcome "Shamupay">
 
-<!ENTITY firstrun_urlbar_message "Welcome to &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Find things faster with helpful search suggestion shortcuts.">
-<!ENTITY firstrun_bookmarks_title "History">
-<!ENTITY firstrun_bookmarks_message "Your faves, front and center">
-<!ENTITY firstrun_bookmarks_subtext "Get results from your bookmarks and history when you search.">
-<!ENTITY firstrun_data_title "Data">
-<!ENTITY firstrun_data_message "Less data, more savings">
-<!ENTITY firstrun_data_subtext2 "Turn off images to spend less data on every site you visit.">
+<!ENTITY firstrun_urlbar_message "Shamupay &brandShortName;man">
+<!ENTITY firstrun_urlbar_subtext "Tupari mulukkana asha uchalla harkaniwan kunaypak maskanapak.">
+<!ENTITY firstrun_bookmarks_title "Mawka pankakuna">
+<!ENTITY firstrun_bookmarks_message "Kanpak allikachishka, ñawpaman chawpipash">
+<!ENTITY firstrun_bookmarks_subtext "Tarini kutinchiykuna kanpak akllashka pankakunamanta mawka pankakunapash hayka shinanki mashkanakuna.">
+<!ENTITY firstrun_data_title "Chanikuna">
+<!ENTITY firstrun_data_message "Kuruyana chanikuna, yapana allichishkakuna">
+<!ENTITY firstrun_data_subtext2 "Sinshayashka rikchakuna chanikuna kuruyanapak tukuykuna kuska web. ">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, always by your side">
-<!ENTITY firstrun_sync_subtext "Sync your tabs, passwords, and more everywhere you use it.">
-<!ENTITY firstrun_signin_message "Get connected, get started">
-<!ENTITY firstrun_signin_button "Sign in to Sync">
-<!ENTITY  onboard_start_button_browser "Start Browsing">
-<!ENTITY firstrun_button_next "Next">
+<!ENTITY firstrun_sync_message "&brandShortName;, tukuypacha kanpak laduta">
+<!ENTITY firstrun_sync_subtext "Paktanina kanpak chipiñakuna, rimaypakanakuna shuktapash wiñay arinanki.">
+<!ENTITY firstrun_signin_message "Llamiraypak, kallari">
+<!ENTITY firstrun_signin_button "Yaykuy Sync-man">
+<!ENTITY  onboard_start_button_browser "Wanpunata Kallarina">
 
-<!ENTITY  onboard_start_restricted1 "Stay safe and in control with this simplified version of &brandShortName;.">
+<!ENTITY firstrun_button_next "Chayshuk shamuna">
 
-<!ENTITY  reading_list_migration_title "Reading List connected">
-<!ENTITY  reading_list_migration_subtext "Your Reading List items will now be added to your Bookmarks">
-<!ENTITY  reading_list_migration_goto_bookmarks "Go to Bookmarks">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Your Bookmarks panel is hidden">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
+<!ENTITY  onboard_start_restricted1 "Sakin allikichin shina tutiwi kaywan katinaya kay &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Bookmarks">
-<!ENTITY  history_title "History">
-<!ENTITY  reading_list_title "Reading List">
-<!ENTITY  recent_tabs_title "Recent Tabs">
 
-<!ENTITY  switch_to_tab "Switch to tab">
+<!ENTITY  bookmarks_title "Akllashka pankakuna">
+<!ENTITY  history_title "Mawka pankakuna">
+<!ENTITY  recent_tabs_title "Chayra chipiñakuna">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_send_report_message3 "Tell &vendorShortName; about this crash so they can fix it">
-<!ENTITY  crash_include_url2 "Include the address of the page I was on">
-<!ENTITY  crash_sorry "We\'re sorry">
-<!ENTITY  crash_comment "Add a comment (comments are publicly visible)">
-<!ENTITY  crash_allow_contact2 "Allow &vendorShortName; to contact me about this report">
-<!ENTITY  crash_email "Your email">
-<!ENTITY  crash_closing_alert "Exit without sending a crash report?">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
-<!ENTITY  crash_close_label "Close">
-<!ENTITY  crash_restart_label "Restart &brandShortName;">
+<!ENTITY  switch_to_tab "Trukana chipiñakuna">
 
-<!ENTITY url_bar_default_text2 "Search or enter address">
+<!ENTITY  crash_reporter_title "Llankaywillay Witina chay &brandShortName;">
+<!ENTITY  crash_message2 "&brandShortName; llakita charirka chay manta wicharka. Kanpak chipiñakuna rikuchirinakashka tsirpayupa kallarinapi &brandShortName; kutin kallarinkapak.">
+<!ENTITY  crash_send_report_message3 "Willana kay &vendorShortName; kay witinapi allichinata ushachun">
+<!ENTITY  crash_include_url2 "Kimichina kuska panka chaypi karkani">
+<!ENTITY  crash_sorry "Yakinchimi">
+<!ENTITY  crash_comment "Kimichina shuk rimana (kay rimanakuna rikuririn tukuyman)">
+<!ENTITY  crash_allow_contact2 "Kishpichina &vendorShortName; llamiraytana kay shimiyarik llankaywillanata">
+<!ENTITY  crash_email "Kanpak email">
+<!ENTITY  crash_closing_alert "Llukshina mana kachashpa kay llankawillay witi?">
+<!ENTITY  sending_crash_report "Kachashpa kay llankaywillay witina\u2026">
+<!ENTITY  crash_close_label "Wichkana">
+<!ENTITY  crash_restart_label "Kutin kallarina &brandShortName;">
 
-<!ENTITY bookmark "Bookmark">
-<!ENTITY bookmark_remove "Remove bookmark">
-<!ENTITY bookmark_added "Bookmark added">
+<!ENTITY url_bar_default_text2 "Maskana o killkana kuska">
+
+<!ENTITY bookmark "Akllashkapanka">
+<!ENTITY bookmark_remove "Kichuna akllaskapanka">
+<!ENTITY bookmark_added "Akllaskapanka yapashka">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "Already bookmarked">
-<!ENTITY bookmark_removed "Bookmark removed">
-<!ENTITY bookmark_updated "Bookmark updated">
-<!ENTITY bookmark_options "Options">
-<!ENTITY screenshot_added_to_bookmarks "Screenshot added to bookmarks">
+<!ENTITY bookmark_already_added "Tiyana allashka pankapik">
+<!ENTITY bookmark_removed "Akllashka panka kichushka">
+<!ENTITY bookmark_updated "Akllashka panka kunanpayashka">
+<!ENTITY bookmark_options "Shuk tawkakuna rikurina">
+<!ENTITY screenshot_added_to_bookmarks "Llikllarikunapa hapishka yapanapak akllashka pankakunami ">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-<!ENTITY screenshot_folder_label_in_bookmarks "Screenshots">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "Reading List">
+<!ENTITY screenshot_folder_label_in_bookmarks "Llikllarikunapa hapishka">
 
-<!ENTITY reader_saved_offline "Saved offline">
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
+
+<!ENTITY reader_saved_offline "Allichina offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
-<!ENTITY reader_switch_to_bookmarks "Switch">
+<!ENTITY reader_switch_to_bookmarks "Trukana">
 
-<!ENTITY history_today_section "Today">
-<!ENTITY history_yesterday_section "Yesterday">
-<!ENTITY history_week_section3 "Last 7 days">
-<!ENTITY history_older_section3 "Older than 6 months">
+<!ENTITY history_today_section "Kunan puncha">
+<!ENTITY history_yesterday_section "Kayna puncha">
+<!ENTITY history_week_section3 "7 puncha puchukay">
+<!ENTITY history_older_section3 "Sukta killa ashtawan">
 
-<!ENTITY search "Search">
-<!ENTITY reload "Reload">
-<!ENTITY forward "Forward">
-<!ENTITY menu "Menu">
-<!ENTITY back "Back">
-<!ENTITY stop "Stop">
-<!ENTITY site_security "Site Security">
-<!ENTITY edit_mode_cancel "Cancel">
+<!ENTITY search "Maskana">
+<!ENTITY reload "Yapachina">
+<!ENTITY forward "Ñawpak">
+<!ENTITY menu "Hatun rikuna">
+<!ENTITY back "Washapi">
+<!ENTITY stop "Harkana">
+<!ENTITY site_security "Allikichina Kushka">
+<!ENTITY edit_mode_cancel "Tukuchina">
 
-<!ENTITY close_tab "Close Tab">
-<!ENTITY one_tab "1 tab">
+<!ENTITY close_tab "Chipiña Wichkana">
+<!ENTITY one_tab "1 chipiña">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
-<!ENTITY new_tab_opened "New tab opened">
-<!ENTITY new_private_tab_opened "New private tab opened">
+<!ENTITY num_tabs2 "&formatD; Chipiñakuna">
+<!ENTITY new_tab_opened "Mushuk chipiña pashkashka">
+<!ENTITY new_private_tab_opened "Ñukapak mushuk chipiña pashkashka">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "SWITCH">
+<!ENTITY switch_button_message "TRUKANA">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -108,482 +114,490 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
-<!ENTITY tab_title_prefix_is_playing_audio "Playing audio – &formatS;">
+<!ENTITY tab_title_prefix_is_playing_audio "Uyapak riwichishpa – &formatS;">
 
-<!ENTITY settings "Settings">
-<!ENTITY settings_title "Settings">
-<!ENTITY pref_category_general "General">
-<!ENTITY pref_category_general_summary3 "Home, language, tab queue">
-
+<!ENTITY settings "Tikuykuna">
+<!ENTITY settings_title "Tikuykuna">
+<!ENTITY pref_category_general "Shinakuna">
+<!ENTITY pref_category_general_summary3 "Tsirpayupa kallarina, shimi, shutitan chipiña">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-<!ENTITY pref_category_language "Language">
-<!ENTITY pref_category_language_summary "Change the language of your browser">
-<!ENTITY pref_browser_locale "Browser language">
 
+<!ENTITY pref_category_language "Shimi">
+<!ENTITY pref_category_language_summary "Trukana shimi wanpuna">
+<!ENTITY pref_browser_locale "Shimi wanpuna">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "System default">
 
+<!ENTITY locale_system_default "Llika shinarishka">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-<!ENTITY overlay_share_label "Add to &brandShortName;">
 
+<!ENTITY overlay_share_label "Yapana &brandShortName;man">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "Bookmark">
-<!ENTITY overlay_share_bookmark_btn_label_already "Already bookmarked">
-<!ENTITY overlay_share_send_other "Send to other devices">
 
+<!ENTITY overlay_share_bookmark_btn_label "Akllashkapanka">
+<!ENTITY overlay_share_bookmark_btn_label_already "Akllashkapankakuna ñami chaypi">
+<!ENTITY overlay_share_send_other "Kachana shuk irunrinkunaman">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "Send to another device">
-<!ENTITY overlay_share_no_url "No link found in this share">
-<!ENTITY overlay_share_select_device "Select device">
+
+<!ENTITY overlay_share_send_tab_btn_label "Shuk irunrinkunama kachana">
+<!ENTITY overlay_share_no_url "Tukllayay na taririshka kay wakipit">
+<!ENTITY overlay_share_select_device "Akllana shuk irunrin">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "No Firefox Account connected devices found">
+<!ENTITY overlay_no_synced_devices "Na taririrka shuk Firefox Cuentata llamiraypashka irunrinkunapak">
 
-<!ENTITY pref_category_search3 "Search">
-<!ENTITY pref_category_search_summary2 "Add, set default, show suggestions">
-<!ENTITY pref_category_accessibility "Accessibility">
-<!ENTITY pref_category_accessibility_summary2 "Text size, zoom, voice input">
-<!ENTITY pref_category_privacy_short "Privacy">
-<!ENTITY pref_category_privacy_summary4 "Tracking, logins, data choices">
+<!ENTITY pref_category_search3 "Maskana">
+<!ENTITY pref_category_search_summary2 "Yapana, wallpachana shinarishka, rikuchina kunaykuna">
+<!ENTITY pref_category_accessibility "Yaykuchun sakina">
+<!ENTITY pref_category_accessibility_summary2 "Llatun shay kamu, kimirishka, shimi yaykuna">
+<!ENTITY pref_category_privacy_short "Ñukapallak">
+<!ENTITY pref_category_privacy_summary4 "Katina, cookies, akllana chanikunata">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "About &brandShortName;, FAQs, feedback">
-<!ENTITY pref_category_datareporting "Data choices">
-<!ENTITY pref_category_logins "Logins">
-<!ENTITY pref_learn_more "Learn more">
-<!ENTITY pref_category_installed_search_engines "Installed search engines">
-<!ENTITY pref_category_add_search_providers "Add more search providers">
-<!ENTITY pref_category_search_restore_defaults "Restore search engines">
-<!ENTITY pref_search_restore_defaults "Restore defaults">
-<!ENTITY pref_search_restore_defaults_summary "Restore defaults">
+<!ENTITY pref_category_vendor_summary2 "Chay shimiyarik kay &brandShortName;, Ashtawan Tapuykuna, shimirimaykuna">
+<!ENTITY pref_category_datareporting "Akllana chanikunata">
+<!ENTITY pref_category_logins "Tachurikuna">
+<!ENTITY pref_learn_more "Ashtawan yachahuna">
+<!ENTITY pref_category_installed_search_engines "Maskanakuna llamitinkinashka">
+<!ENTITY pref_category_add_search_providers "Tinkina ashtawan hakakkuna mashkanakuna">
+<!ENTITY pref_category_search_restore_defaults "Kutin allichina maskanakuna llamitinkinashka">
+<!ENTITY pref_search_restore_defaults "Kutin allichina chaninkuna shinarishka">
+<!ENTITY pref_search_restore_defaults_summary "Kutin allichina chaninkuna shinarishka">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "TIP: Add any website to your list of search providers by long-pressing on its search field and then touching the &formatI; icon.">
-<!ENTITY pref_category_advanced "Advanced">
-<!ENTITY pref_category_advanced_summary3 "Restore tabs, data saver, developer tools">
-<!ENTITY pref_category_notifications "Notifications">
-<!ENTITY pref_category_notifications_summary "New features, website updates">
-<!ENTITY pref_content_notifications "Website updates">
-<!ENTITY pref_content_notifications_summary2 "Discover new content from supported sites">
-<!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
-<!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi debugging requires your device to have a QR code reader app installed.">
-<!ENTITY pref_remember_signons2 "Remember logins">
-<!ENTITY pref_manage_logins "Manage logins">
+<!ENTITY pref_search_hint2 "Kunay: Kimichi mayhan kuska web kanpak shutitan jakana kay maskanakuna takarina tawka pacha kanpak pampa maskanakuna takarishpa hipachay chay iconupi &formatI;.">
+<!ENTITY pref_category_advanced "Hatun ñawpashka">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "Kutin allichina chipiñakuna, plugins, llamkanakuna chay yuyantik">
+<!ENTITY pref_category_notifications "Willachaykuna">
+<!ENTITY pref_category_notifications_summary "Mushuk imakaykuna, web panka kunanpayashkakuna">
+<!ENTITY pref_content_notifications "Kunanpayashkakuna kuska web">
+<!ENTITY pref_content_notifications_summary2 "Ñatarina mushuk shutitan willana yanapashka kuskakunamanda">
+<!ENTITY pref_developer_remotedebugging_usb "Pichana chay karupi USBmanta">
+<!ENTITY pref_developer_remotedebugging_wifi "Pichana chay karupi Wi-Fimanta">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Kay pichana chay Wi-Fi mutsurina charichuk shuk saylluray killkatik chay kamachintan QR llamintikinashka kanpak irunrinpi.">
+<!ENTITY pref_remember_signons2 "Yarina tachurikunata">
+<!ENTITY pref_manage_logins "Runrichina tachurikunata">
 
-<!ENTITY pref_category_home "Home">
-<!ENTITY pref_category_home_summary "Customize your homepage">
-<!ENTITY pref_category_home_panels "Panels">
-<!ENTITY pref_category_home_add_ons "Add-ons">
-<!ENTITY pref_home_updates2 "Content updates">
-<!ENTITY pref_home_updates_enabled "Enabled">
-<!ENTITY pref_home_updates_wifi "Only over Wi-Fi">
-<!ENTITY pref_category_home_homepage "Homepage">
-<!ENTITY home_homepage_title "Set a Homepage">
+<!ENTITY pref_category_home "Tsirpayupa kallarina">
+<!ENTITY pref_category_home_summary "Ñukapak kana tsirpayupa kallarina">
+<!ENTITY pref_category_home_panels "Tutiwi chuskurullpikuna">
+<!ENTITY pref_category_home_add_ons "Imashkakuna">
+<!ENTITY pref_home_updates2 "Yuyayta riksichik kunanpayashka">
+<!ENTITY pref_home_updates_enabled "Murikuyashka">
+<!ENTITY pref_home_updates_wifi "Wi-Fi mantallak">
+<!ENTITY pref_category_home_homepage "Tsirpayupa kallarina">
+<!ENTITY home_homepage_title "Wallpachana tsuirpayupa kallarina">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "&brandShortName; Home">
+<!ENTITY home_homepage_radio_default "&brandShortName; Tsirpayupa kallarina">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
-<!ENTITY home_homepage_radio_user_address "Custom">
+<!ENTITY home_homepage_radio_user_address "Ñukapayak">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "Enter address or search term">
-
+<!ENTITY home_homepage_hint_user_address "Yaykuy kuska o maskanakuna">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "General">
-<!ENTITY pref_header_search "Search">
-<!ENTITY pref_header_privacy_short "Privacy">
-<!ENTITY pref_header_accessibility "Accessibility">
-<!ENTITY pref_header_notifications "Notifications">
-<!ENTITY pref_header_advanced "Advanced">
-<!ENTITY pref_header_help "Help">
+
+<!ENTITY pref_header_general "Shinakuna">
+<!ENTITY pref_header_search "Maskana">
+<!ENTITY pref_header_privacy_short "Ñukapallak">
+<!ENTITY pref_header_accessibility "Yaykuchun sakina">
+<!ENTITY pref_header_notifications "Willachaykuna">
+<!ENTITY pref_header_advanced "Hatun ñawpashka">
+<!ENTITY pref_header_help "Yanapay">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Enabled">
-<!ENTITY pref_cookies_not_accept_foreign "Enabled, excluding 3rd party">
-<!ENTITY pref_cookies_disabled "Disabled">
+<!ENTITY pref_cookies_accept_all "Murikuyashka">
+<!ENTITY pref_cookies_not_accept_foreign "Murikuyashka kichushpa shukkunata">
+<!ENTITY pref_cookies_disabled "Mana murikuyashka">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
-<!ENTITY pref_category_data_saver "Data saver">
-<!ENTITY pref_category_media "Media">
-<!ENTITY pref_category_developer_tools "Developer tools">
+<!ENTITY pref_category_data_saver "Chanikuna ituwa">
+<!ENTITY pref_category_media "Multimedia">
+<!ENTITY pref_category_developer_tools "Llamkanakuna chay yuyantik">
 
-<!ENTITY pref_tap_to_load_images_title2 "Show images">
-<!ENTITY pref_tap_to_load_images_enabled "Always">
-<!ENTITY pref_tap_to_load_images_data "Only over Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled2 "Blocked">
+<!ENTITY pref_tap_to_load_images_title2 "Rikuchina rikchak">
+<!ENTITY pref_tap_to_load_images_enabled "Tukuypacha">
+<!ENTITY pref_tap_to_load_images_data "Wi-Fi mantallak">
+<!ENTITY pref_tap_to_load_images_disabled2 "Shinshayashka">
 
-<!ENTITY pref_show_web_fonts "Show web fonts">
-<!ENTITY pref_show_web_fonts_summary2 "Download remote fonts when loading a page">
+<!ENTITY pref_show_web_fonts "Rikuchina pukyukuna web">
+<!ENTITY pref_show_web_fonts_summary2 "Urahuchina aparinkapa karullashka pukyukuna hayka shuk panka aparihun">
 
-<!ENTITY pref_tracking_protection_title2 "Tracking Protection">
-<!ENTITY pref_tracking_protection_summary3 "Enabled in Private Browsing">
-<!ENTITY pref_donottrack_title "Do not track">
-<!ENTITY pref_donottrack_summary "&brandShortName; will tell sites that you do not want to be tracked">
+<!ENTITY pref_tracking_protection_title2 "Kamachay ama katichun">
+<!ENTITY pref_tracking_protection_summary3 "Murikuyashka chay wanpuna ñukapallak">
+<!ENTITY pref_donottrack_title "Ama katina">
+<!ENTITY pref_donottrack_summary "&brandShortName; nikrini chay kuskakunaman mana munani katiwachun">
 
-<!ENTITY pref_tracking_protection_enabled "Enabled">
-<!ENTITY pref_tracking_protection_enabled_pb "Enabled in Private Browsing">
-<!ENTITY pref_tracking_protection_disabled "Disabled">
+<!ENTITY pref_tracking_protection_enabled "Murikuyashka">
+<!ENTITY pref_tracking_protection_enabled_pb "Murikuyashka chay wanpuna ñukapallak">
+<!ENTITY pref_tracking_protection_disabled "Mana murikuyashka">
 
-<!ENTITY pref_whats_new_notification "What\'s new in &brandShortName;">
-<!ENTITY pref_whats_new_notification_summary "Learn about new features after an update">
+<!ENTITY pref_whats_new_notification "Chipiña allichishka kai &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Yachahunki mushukta hipa kunanpayashkapi">
 
-<!ENTITY tracking_protection_prompt_title "Now with Tracking Protection">
-<!ENTITY tracking_protection_prompt_text "Actively block tracking elements so you don\'t have to worry.">
-<!ENTITY tracking_protection_prompt_tip_text "Visit Privacy settings to learn more">
-<!ENTITY tracking_protection_prompt_action_button "Got it!">
+<!ENTITY tracking_protection_prompt_title "Kunanka kamachay ama katichun">
+<!ENTITY tracking_protection_prompt_text "Shinshayashka kay nipakuna yupinata ama ñapiyuna kankichuk.">
+<!ENTITY tracking_protection_prompt_tip_text "Shamuy ñukapayak tikuykuna ashtawan yachahunkapak">
+<!ENTITY tracking_protection_prompt_action_button "Charihuni!">
 
-<!ENTITY tab_queue_toast_message3 "Tab saved in &brandShortName;">
-<!ENTITY tab_queue_toast_action "Open now">
-<!ENTITY tab_queue_prompt_title "Opening multiple links?">
-<!ENTITY tab_queue_prompt_text4 "Save them until the next time you open &brandShortName;.">
-<!ENTITY tab_queue_prompt_tip_text2 "You can change this later in Settings">
+<!ENTITY tab_queue_toast_message3 "Chipiña allichishka kai &brandShortName;">
+<!ENTITY tab_queue_toast_action "Kunan paskana">
+<!ENTITY tab_queue_prompt_title "Paskana tawka tukllayaykuna?">
+<!ENTITY tab_queue_prompt_text4 "Allichi hipa paskankakaman &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text2 "Trukana ushanki hipa chay tukuykuna">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Turn on Permit drawing over other apps">
-<!ENTITY tab_queue_prompt_positive_action_button "Enable">
-<!ENTITY tab_queue_prompt_negative_action_button "Not now">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Kishpichina jawina shukta saylluraykunapi">
+<!ENTITY tab_queue_prompt_positive_action_button "Murikuyana">
+<!ENTITY tab_queue_prompt_negative_action_button "Kunan na">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "Go to Settings">
+<!ENTITY tab_queue_prompt_settings_button "Ri Tikuykunaman">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural2 "&formatD; tabs waiting">
+<!ENTITY tab_queue_notification_text_plural2 "Chipiñakuna shullahun &formatD;">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular2 "1 tab waiting">
-
+<!ENTITY tab_queue_notification_text_singular2 "1 chipiña shullahun">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "To \&quot;Open multiple links\&quot;, please enable the \'Draw over other apps\' permission for &brandShortName;">
+
+<!ENTITY tab_queue_notification_settings "\&quot;Paskay ashta tukllayaykuna\&quot; pak, marikuyanapay \&quot;Shukta saylluraykunapi\&quot; &brandShortName;pak">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; websites updated">
-<!ENTITY content_notification_action_settings "Notifications Setting">
+<!ENTITY content_notification_title_plural "&formatD; web kuskakuna kunanpayashka">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Updated on &formatS;">
+<!ENTITY content_notification_updated_on "Kunanpayashka kaypi &formatS;">
 
-<!ENTITY pref_char_encoding "Character encoding">
-<!ENTITY pref_char_encoding_on "Show menu">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
-<!ENTITY pref_clear_private_data2 "Clear private data">
+<!ENTITY pref_char_encoding "Kamachintana unanchakuna">
+<!ENTITY pref_char_encoding_on "Rikuchina hatun rikuna">
+<!ENTITY pref_char_encoding_off "Na rikuchina hatun rikuna">
+<!ENTITY pref_clear_private_data2 "Pichana Chanikuna Shukllayashka">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
-<!ENTITY pref_clear_private_data_now_tablet "Clear now">
-<!ENTITY pref_clear_on_exit_title3 "Clear private data on exit">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; will automatically clear your data whenever you select \u0022Quit\u0022 from the main menu">
-<!ENTITY pref_clear_on_exit_dialog_title "Select which data to clear">
+<!ENTITY pref_clear_private_data_now_tablet "Kunan kichuna">
+<!ENTITY pref_clear_on_exit_title3 "Pichana chanikuna shukllayashka llukshikpi">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; pichanakatinka kanpak chanikuna hayka akyanay \u0022Salir\u0022 hatun rikunamanta ">
+<!ENTITY pref_clear_on_exit_dialog_title "Maskanki ima chanikuna kichuykrinki">
 <!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Enabled">
-<!ENTITY pref_plugins_tap_to_play2 "Touch to play">
-<!ENTITY pref_plugins_disabled "Disabled">
-<!ENTITY pref_text_size "Text size">
-<!ENTITY pref_restore_tabs "Restore tabs">
-<!ENTITY pref_restore_always "Always restore">
-<!ENTITY pref_restore_quit "Don\'t restore after quitting &brandShortName;">
-<!ENTITY pref_font_size_tiny "Tiny">
-<!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
-<!ENTITY pref_font_size_large "Large">
-<!ENTITY pref_font_size_xlarge "Extra Large">
-<!ENTITY pref_font_size_set "Set">
+<!ENTITY pref_plugins_enabled "Murikuyashka">
+<!ENTITY pref_plugins_tap_to_play2 "Takari riwichinkapak">
+<!ENTITY pref_plugins_disabled "Mana murikuyashka">
+<!ENTITY pref_text_size "Llatun chay kamu">
+<!ENTITY pref_restore_tabs "Kutin allichina chipiñakuna">
+<!ENTITY pref_restore_always "Tukuypacha kutin wallpachana">
+<!ENTITY pref_restore_quit "Mana kutin wallpachana hipa llukshishkapi chay &brandShortName;">
+<!ENTITY pref_font_size_tiny "Yapa uchillapacha ">
+<!ENTITY pref_font_size_small "Uchilla">
+<!ENTITY pref_font_size_medium "Mallta">
+<!ENTITY pref_font_size_large "Hatun">
+<!ENTITY pref_font_size_xlarge "Hatun pachak">
+<!ENTITY pref_font_size_set "Tikuna">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
 <!ENTITY pref_font_size_adjust_char "A">
-
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
-<!ENTITY pref_media_autoplay_enabled "Allow autoplay">
-<!ENTITY pref_media_autoplay_enabled_summary "Control if websites can autoplay videos and other media content">
-<!ENTITY pref_zoom_force_enabled "Always enable zoom">
-<!ENTITY pref_zoom_force_enabled_summary "Force override so you can zoom any page">
-<!ENTITY pref_voice_input "Voice input">
-<!ENTITY pref_voice_input_summary2 "Allow voice dictation in the URL bar">
-<!ENTITY pref_qrcode_enabled "QR code reader">
-<!ENTITY pref_qrcode_enabled_summary2 "Allow QR scanner in the URL bar">
+<!ENTITY pref_font_size_preview_text "Chay utka añas kishpu kushpana ashtawan kikin na yakta ashtaka pankallakta ashtawas usharikta ashtawan allikichinata. Shina hatun tantanahuy na chariyanata munashpa ushanaya kanchi shuk shinanata kampak shutipi mana charishpa nimapash kanakay. Kayra ashtawan allipacha ushana kampak shina hatun allipacha shamuk kaypa Web.">
 
-<!ENTITY pref_use_master_password "Use master password">
-<!ENTITY pref_sync2 "Sign in">
-<!ENTITY pref_sync_summary2 "Sync your tabs, bookmarks, logins, history">
-<!ENTITY pref_search_suggestions "Show search suggestions">
-<!ENTITY pref_history_search_suggestions "Show search history">
-<!ENTITY pref_import_options "Import options">
-<!ENTITY pref_import_android_summary "Import bookmarks and history from the native browser">
-<!ENTITY pref_private_data_history2 "Browsing history">
-<!ENTITY pref_private_data_searchHistory "Search history">
-<!ENTITY pref_private_data_formdata2 "Form history">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
-<!ENTITY pref_private_data_passwords2 "Saved logins">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Offline website data">
-<!ENTITY pref_private_data_siteSettings2 "Site settings">
-<!ENTITY pref_private_data_downloadFiles2 "Downloads">
-<!ENTITY pref_private_data_syncedTabs "Synced tabs">
+<!ENTITY pref_media_autoplay_enabled "Sakina kutin shinana paylla">
+<!ENTITY pref_media_autoplay_enabled_summary "Tutiwy hayka web kuskakuna riwichina payllara videukunata, shukta multimedia charishkapash.">
+<!ENTITY pref_zoom_force_enabled "Kimirishka tukuypacha murikuyashka">
+<!ENTITY pref_zoom_force_enabled_summary "Kushpanakuna hawakillkapi allichinapak chika pipash panka">
+<!ENTITY pref_voice_input "Shimi yaykuna">
+<!ENTITY pref_voice_input_summary2 "Kacharina shimi killkachishkata harka yachayshuti">
+<!ENTITY pref_qrcode_enabled "Killkatik chay kamachintan QR">
+<!ENTITY pref_qrcode_enabled_summary2 "Kishpichina hikakllaran QR harka yachayshutipi">
 
-<!ENTITY pref_default_browser "Make default browser">
-<!ENTITY pref_about_firefox "About &brandShortName;">
-<!ENTITY pref_vendor_faqs "FAQs">
-<!ENTITY pref_vendor_feedback "Give feedback">
+<!ENTITY pref_use_master_password "Arina hatun rimaypakana">
+<!ENTITY pref_sync2 "Yaykuy">
+<!ENTITY pref_sync_summary2 "Paktanina kanpak chipiñakuna, akllashkapankakuna, yaykunakuna, mawkapanka">
+<!ENTITY pref_search_suggestions "Rikuchina shuk nishkanakuna chay maskana ">
+<!ENTITY pref_history_search_suggestions "Rikuchina shuk nishkanakuna chay maskana">
+<!ENTITY pref_import_options "Tawka rikurina yaykuna">
+<!ENTITY pref_import_android_summary "Kanchamanta apamuy akllashka pankakuna chay mawka pankakuna wanpuna kallarishka">
+<!ENTITY pref_private_data_history2 "Mawka pankakuna wanpunatak">
+<!ENTITY pref_private_data_searchHistory "Mawka pankakuna maskana">
+<!ENTITY pref_private_data_formdata2 "Mawka pankakuna formularyupi">
+<!ENTITY pref_private_data_cookies2 "Cookies tachurikuna riwichishkakuna">
+<!ENTITY pref_private_data_passwords2 "Tachurikuna allichishkakuna">
+<!ENTITY pref_private_data_cache "Caché">
+<!ENTITY pref_private_data_offlineApps "Chanikuna chay kuska web mana llamiraypak ">
+<!ENTITY pref_private_data_siteSettings2 "Tikuykuna kuska">
+<!ENTITY pref_private_data_downloadFiles2 "Aparinakuna">
+<!ENTITY pref_private_data_syncedTabs "Chipiñakuna paktañina">
 
-<!ENTITY pref_dialog_set_default "Set as default">
-<!ENTITY pref_dialog_default "Default">
-<!ENTITY pref_dialog_remove "Remove">
+<!ENTITY pref_default_browser "Shinana wampuna shinarishka">
+<!ENTITY pref_about_firefox "Chay shimiyarik kay &brandShortName;">
+<!ENTITY pref_vendor_faqs "Ashtawan Tapuykuna">
+<!ENTITY pref_vendor_feedback "Kachana shimirimaykuna">
 
-<!ENTITY pref_search_last_toast "You can\'t remove or disable your last search engine.">
+<!ENTITY pref_dialog_set_default "Wallpachana shina shinarishka">
+<!ENTITY pref_dialog_default "Shinarishka">
+<!ENTITY pref_dialog_remove "Wankina">
 
-<!ENTITY pref_panels_show "Show">
-<!ENTITY pref_panels_hide "Hide">
-<!ENTITY pref_panels_reorder "Change order">
-<!ENTITY pref_panels_move_up "Move up">
-<!ENTITY pref_panels_move_down "Move down">
+<!ENTITY pref_search_last_toast "Mana kichuy ushanki o mana murikullana kanpak puchukay maskanakuna.">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-<!ENTITY datareporting_notification_action "Choose what to share">
+<!ENTITY pref_panels_show "Riksichiy">
+<!ENTITY pref_panels_hide "Pakana">
+<!ENTITY pref_panels_reorder "Hichyanata trukana">
+<!ENTITY pref_panels_move_up "Hawa kuyuna">
+<!ENTITY pref_panels_move_down "Uku kuyuna">
+
+<!ENTITY datareporting_notification_title "&brandShortName; yupayachay chinakuna ">
+<!ENTITY datareporting_notification_action "Akllay kanpak munashka wakina">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
-<!ENTITY datareporting_notification_action_long "Choose what information to share">
-<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
+<!ENTITY datareporting_notification_action_long "Akllay chinakuna kanpak munashka wakina">
+<!ENTITY datareporting_notification_summary "Allichinapak kanpak kawsay, &brandShortName; kachay wakin willanakuy &vendorShortName;man.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
-
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
-<!ENTITY datareporting_fhr_summary2 "Shares data with &vendorShortName; about your browser health and helps you understand your browser performance">
-<!ENTITY datareporting_abouthr_title "View my Health Report">
+
+<!ENTITY datareporting_fhr_title "Willay allikay kay &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "Tukllayay chanikuna &vendorShortName;wan suñuk wanpuna kawsankichu ruranapash. ">
+<!ENTITY datareporting_abouthr_title "Rikuna ñukapak Willana Allikayta">
 <!ENTITY datareporting_telemetry_title "Telemetry">
-<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY datareporting_telemetry_summary "Wakina runriwi, mutsuy, hardware, ñukapalla chanikuna kanpak wampuna kay &vendorShortName; yanapankapak shinankapak &brandShortName; allitapacha">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; kachana llankaywillanakuna kay witinakuna yanapankapak &vendorShortName; shinachun paypa wampuna ashtawan alli allikichirina">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
-<!ENTITY datareporting_wifi_title2 "&vendorShortName; Location Service">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Help &vendorShortName; map the world! Share the approximate Wi-Fi and cellular location of your device to improve our geolocation service.">
+<!ENTITY datareporting_crashreporter_title_short "Llankaywillay witina chay">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; Yanapanakuna chay Kuskallay">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Yanapay &vendorShortName; churana kay pacha! Wakina kuskallay chay Wi-Fi o kanpak irunrinmantak allikachinkampak ñukanchipak hayma.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Automatic updates">
-<!ENTITY pref_update_autodownload_wifi "Only over Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Never">
-<!ENTITY pref_update_autodownload_always "Always">
-
+<!ENTITY pref_update_autodownload3 "Kunanpachak paymandallak">
+<!ENTITY pref_update_autodownload_wifi "Wi-Fi mantallak">
+<!ENTITY pref_update_autodownload_never "Manallaycapi">
+<!ENTITY pref_update_autodownload_always "Tukuypacha">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
-<!ENTITY help_menu "Help">
 
-<!ENTITY quit "Quit">
+<!ENTITY help_menu "Yanapay">
 
-<!ENTITY addons "Add-ons">
-<!ENTITY logins "Logins">
-<!ENTITY downloads "Downloads">
-<!ENTITY char_encoding "Character Encoding">
+<!ENTITY quit "Llukshina">
 
-<!ENTITY share "Share">
-<!ENTITY share_title "Share via">
-<!ENTITY share_image_failed "Unable to share this image">
-<!ENTITY save_as_pdf "Save as PDF">
-<!ENTITY print "Print">
-<!ENTITY find_in_page "Find in Page">
-<!ENTITY desktop_mode "Request Desktop Site">
-<!ENTITY page "Page">
-<!ENTITY tools "Tools">
-<!ENTITY new_tab "New Tab">
-<!ENTITY new_private_tab "New Private Tab">
-<!ENTITY close_all_tabs "Close All Tabs">
-<!ENTITY close_private_tabs "Close Private Tabs">
-<!ENTITY tabs_normal "Tabs">
-<!ENTITY tabs_private "Private">
-<!ENTITY set_image_fail "Unable to set image">
-<!ENTITY set_image_path_fail "Unable to save image">
-<!ENTITY set_image_chooser_title "Set Image As">
+<!ENTITY addons "Paktachinakuna">
+<!ENTITY logins "Tachurikuna">
+<!ENTITY downloads "Aparinakuna">
+<!ENTITY char_encoding "Kamachintana unanchakuna">
 
+<!ENTITY share "Wakina">
+<!ENTITY share_title "Wakina ñan">
+<!ENTITY share_image_failed "Na usharin wakinata kay rikchak">
+<!ENTITY save_as_pdf "Allichina PDFsnaya">
+<!ENTITY print "Killkallinchina">
+
+
+<!ENTITY page "Panka">
+<!ENTITY tools "Llamkanakuna">
+
+
+<!ENTITY close_all_tabs "Tukuylla chipiñakunata wichkana">
+<!ENTITY close_private_tabs "Wichkana shukllayak chipiñakunata">
+<!ENTITY tabs_normal "Manyakuna chikanyachinapak">
+<!ENTITY tabs_private "Shukllayak">
+<!ENTITY set_image_fail "Na usharin churana rikchakan">
+<!ENTITY set_image_path_fail "Na usharin allichina rikchakan">
+<!ENTITY set_image_chooser_title "Wallpachana rikchak shina">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY find_text "Find in Page">
-<!ENTITY find_prev "Previous">
-<!ENTITY find_next "Next">
-<!ENTITY find_close "Close">
-
+<!ENTITY find_prev "Ñawpachak">
+<!ENTITY find_next "Chayshuk shamuna">
+<!ENTITY find_close "Wichkana">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_sending_to "Sending to Device">
-<!ENTITY media_play "Play">
-<!ENTITY media_pause "Pause">
-<!ENTITY media_stop "Stop">
 
-<!ENTITY contextmenu_open_new_tab "Open in New Tab">
-<!ENTITY contextmenu_open_private_tab "Open in Private Tab">
-<!ENTITY contextmenu_remove "Remove">
-<!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
-<!ENTITY contextmenu_share "Share">
-<!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
-<!ENTITY contextmenu_paste "Paste">
-<!ENTITY contextmenu_copyurl "Copy Address">
-<!ENTITY contextmenu_edit_bookmark "Edit">
-<!ENTITY contextmenu_subscribe "Subscribe to Page">
-<!ENTITY contextmenu_site_settings "Edit Site Settings">
-<!ENTITY contextmenu_top_sites_edit "Edit">
-<!ENTITY contextmenu_top_sites_pin "Pin Site">
-<!ENTITY contextmenu_top_sites_unpin "Unpin Site">
-<!ENTITY contextmenu_add_search_engine "Add a Search Engine">
+<!ENTITY media_sending_to "Kachashpa irunrinman">
+<!ENTITY media_play "Kutin shinana">
+<!ENTITY media_pause "Shamana">
+<!ENTITY media_stop "Harkana">
 
+<!ENTITY contextmenu_open_new_tab "Paskana shuk mushuk chipiñapi">
+<!ENTITY contextmenu_open_private_tab "Paskana shuk chipiñapi shukllayak">
+<!ENTITY contextmenu_remove "Anchuchina">
+<!ENTITY contextmenu_add_to_launcher "Yapana Kallarina Llikllarikumpi">
+<!ENTITY contextmenu_share "Wakina">
+<!ENTITY contextmenu_pasteandgo "Tinkishpa Rina">
+<!ENTITY contextmenu_paste "Tinkichina">
+<!ENTITY contextmenu_copyurl "Kutin killkana kuska">
+<!ENTITY contextmenu_edit_bookmark "Kamullchina">
+<!ENTITY contextmenu_subscribe "Uchilkanki Pankanapi">
+<!ENTITY contextmenu_site_settings "Kamullchina tikuykuna kuska">
+<!ENTITY contextmenu_top_sites_edit "Kamullchina">
+<!ENTITY contextmenu_top_sites_pin "Kuska Pin">
+<!ENTITY contextmenu_top_sites_unpin "Kuska Unpin">
+<!ENTITY contextmenu_add_search_engine "Yapana shuk maskanakuna">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-<!ENTITY doorhanger_login_no_username "[No username]">
-<!ENTITY doorhanger_login_edit_title "Edit login">
-<!ENTITY doorhanger_login_edit_username_hint "Username">
-<!ENTITY doorhanger_login_edit_password_hint "Password">
-<!ENTITY doorhanger_login_edit_toggle "Show password">
-<!ENTITY doorhanger_login_edit_toast_error "Failed to save login">
-<!ENTITY doorhanger_login_select_message "Copy password from &formatS;?">
-<!ENTITY doorhanger_login_select_toast_copy "Password copied to clipboard">
-<!ENTITY doorhanger_login_select_toast_copy_error "Couldn\'t copy password">
-<!ENTITY doorhanger_login_select_action_text "Select another login">
-<!ENTITY doorhanger_login_select_title "Copy password from">
 
+<!ENTITY doorhanger_login_no_username "[Mana shinahukpa shuti]">
+<!ENTITY doorhanger_login_edit_title "Kamullchina tachuri">
+<!ENTITY doorhanger_login_edit_username_hint "Shinahukpa shuti">
+<!ENTITY doorhanger_login_edit_password_hint "Rimaypakana">
+<!ENTITY doorhanger_login_edit_toggle "Rikuchina rimay pakana">
+<!ENTITY doorhanger_login_edit_toast_error "Mana allichi usharirka tachurita">
+<!ENTITY doorhanger_login_select_message "Kutin killkana rimaypakana &formatS;pak?">
+<!ENTITY doorhanger_login_select_toast_copy "Rimaypakana kutin killkashkata panka apanakunaman">
+<!ENTITY doorhanger_login_select_toast_copy_error "Na usharin kutin killkana rimaypakanata">
+<!ENTITY doorhanger_login_select_action_text "Akllana shuk arik">
+<!ENTITY doorhanger_login_select_title "Kutin killkaana rimaypakana chay manta">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-<!ENTITY pref_magnifying_glass_enabled "Magnify small areas">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "Enlarge links and form fields when touching near them">
 
+<!ENTITY pref_magnifying_glass_enabled "Hatunyachina kuska uchillakunata">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Yapay tukllayakuna killkanapanka kuskapash hayka killkana paykuna nik.">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Full-screen browsing">
-<!ENTITY pref_scroll_title_bar_summary2 "Hide the &brandShortName; toolbar when scrolling down a page">
 
-<!ENTITY pref_tab_queue_title3 "Tab queue">
-<!ENTITY pref_tab_queue_summary4 "Save links until the next time you open &brandShortName;">
+<!ENTITY pref_scroll_title_bar2 "Wanpuna tukuy llikllarikumpi">
+<!ENTITY pref_scroll_title_bar_summary2 "Pakay harka llamkanakuna kay &brandShortName; kulluchikpi shuk panka chay ukuman">
 
+<!ENTITY pref_tab_queue_title3 "Chipiña shutitan">
+<!ENTITY pref_tab_queue_summary4 "Allichina hipa paskankakaman &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-<!ENTITY page_removed "Page removed">
 
-<!ENTITY bookmark_edit_title "Edit Bookmark">
-<!ENTITY bookmark_edit_name "Name">
-<!ENTITY bookmark_edit_location "Location">
-<!ENTITY bookmark_edit_keyword "Keyword">
+<!ENTITY page_removed "Tsirpayupa kichushka">
 
+<!ENTITY bookmark_edit_title "Kamuchina akllaska panka">
+<!ENTITY bookmark_edit_name "Shuti">
+<!ENTITY bookmark_edit_location "Kuskayai">
+<!ENTITY bookmark_edit_keyword "Chay shimipacha">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-<!ENTITY site_settings_title3       "Site Settings">
-<!ENTITY site_settings_cancel       "Cancel">
-<!ENTITY site_settings_clear        "Clear">
 
+<!ENTITY site_settings_title3       "Tukuykuna kuska">
+<!ENTITY site_settings_cancel       "Tukuchina">
+<!ENTITY site_settings_clear        "Pichana">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-<!ENTITY page_action_dropmarker_description "Additional Actions">
 
-<!ENTITY masterpassword_create_title "Create Master Password">
-<!ENTITY masterpassword_remove_title "Remove Master Password">
-<!ENTITY masterpassword_password "Password">
-<!ENTITY masterpassword_confirm "Confirm password">
+<!ENTITY page_action_dropmarker_description "Mirachina yanikuna">
 
-<!ENTITY button_ok "OK">
-<!ENTITY button_cancel "Cancel">
-<!ENTITY button_yes "Yes">
-<!ENTITY button_no "No">
-<!ENTITY button_clear_data "Clear data">
-<!ENTITY button_set "Set">
-<!ENTITY button_clear "Clear">
-<!ENTITY button_copy "Copy">
+<!ENTITY masterpassword_create_title "Shinana hatun rimaypakana">
+<!ENTITY masterpassword_remove_title "Kichuna hatun rimaypakana">
+<!ENTITY masterpassword_password "Rimaypakana">
+<!ENTITY masterpassword_confirm "Allirikuna rimay pakana">
 
-<!ENTITY home_top_sites_title "Top Sites">
+<!ENTITY button_ok "Arinina">
+<!ENTITY button_cancel "Tukuchina">
+<!ENTITY button_yes "Ari">
+<!ENTITY button_no "Mana">
+<!ENTITY button_clear_data "Pichana chanikuna">
+<!ENTITY button_set "Wallpachana">
+<!ENTITY button_clear "Pichana">
+<!ENTITY button_copy "Kutin killkana">
+
+<!ENTITY home_top_sites_title "Imariak kuskakuna">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "Add a site">
-
+<!ENTITY home_top_sites_add "Yapana kuskaman">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "&brandShortName; Home">
-<!ENTITY home_history_title "History">
-<!ENTITY home_synced_devices_smartfolder "Synced devices">
-<!ENTITY home_synced_devices_number "&formatD; devices">
-<!ENTITY home_history_back_to2 "Back to full History">
-<!ENTITY home_clear_history_button "Clear browsing history">
-<!ENTITY home_clear_history_confirm "Are you sure you want to clear your history?">
-<!ENTITY home_bookmarks_empty "Bookmarks you save show up here.">
-<!ENTITY home_closed_tabs_title "Recently closed tabs">
-<!ENTITY home_last_tabs_title "Tabs from last time">
-<!ENTITY home_last_tabs_empty "Your recent tabs show up here.">
-<!ENTITY home_open_all "Open all">
-<!ENTITY home_most_recent_empty "Websites you visited most recently show up here.">
+
+<!ENTITY home_title "&brandShortName; tsirpayupa kallarina">
+<!ENTITY home_history_title "Mawka pankakuna">
+
+
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+
+<!ENTITY home_clear_history_button "Kichuna mawka pankakuna wampunatak">
+<!ENTITY home_clear_history_confirm "Chikapachachu kuchunata munanki kanpak mawka pankakuna?">
+<!ENTITY home_bookmarks_empty "Akllashka pankakuna kaypi rikuchirinka.">
+<!ENTITY home_closed_tabs_title "Chairaya chipiñakuna wichkashka">
+<!ENTITY home_last_tabs_title "Puchuk chipiñakuna">
+<!ENTITY home_last_tabs_empty "Akllashka pankakuna kaypi rikuchirinka.">
+<!ENTITY home_open_all "Tukuyta paskana">
+<!ENTITY home_most_recent_empty "Kuska Web chayra napashamushkakunan kaypi rikuchirinka.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: using a &formatS1;New Private Tab&formatS2; won\'t save your history.">
-
+<!ENTITY home_most_recent_emptyhint2 "Psst: mutsurishpa shuk &formatS1;Mushuk Chipiña Shukllayay&formatS2; na allichirinka kanpak mawkapanka.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-<!ENTITY home_default_empty "No content could be found for this panel.">
 
+<!ENTITY home_default_empty "Nimapash yuyayta na taririrka kay tutiwik killkana.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-<!ENTITY home_move_back_to_filter "Back to &formatS;">
 
+<!ENTITY home_move_back_to_filter "Wanpuna chay &formatS;">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; devices hidden">
+
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; Irunrinkuna pakashka">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "Hidden devices">
+<!ENTITY home_remote_tabs_hidden_devices_title "Irunrinkuna pakashka">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "Unhide selected devices">
+<!ENTITY home_remote_tabs_unhide_selected_devices "Mana pakana irunrinkuna akllashkakuna">
 
-<!ENTITY remote_tabs_panel_moved_title "Where did my tabs go?">
-<!ENTITY remote_tabs_panel_moved_desc "We\'ve moved your tabs from other devices into a panel on your home page that can be easily accessed every time you open a new tab.">
-<!ENTITY remote_tabs_panel_moved_link "Take me to my new panel.">
+<!ENTITY remote_tabs_panel_moved_title "Maypitak ñukapak chipiñakuna?">
+<!ENTITY remote_tabs_panel_moved_desc "Kawinashka kanpak chipiñakuna shukkuna irunrishumanta tuttiwik killkanaman tsirpayupa kallarinapi. Ushanki yaykuna paykunapi hayka paskanki shuk musuk chipiñata.">
+<!ENTITY remote_tabs_panel_moved_link "Apaway mushuk chuskurullpi">
 
-<!ENTITY pin_site_dialog_hint "Enter a search keyword">
+<!ENTITY pin_site_dialog_hint "Yaykuy shuk shimi pakashka chay maskana">
 
-<!ENTITY filepicker_title "Choose File">
-<!ENTITY filepicker_audio_title "Choose or record a sound">
-<!ENTITY filepicker_image_title "Choose or take a picture">
-<!ENTITY filepicker_video_title "Choose or record a video">
-
+<!ENTITY filepicker_title "Akllana tsirwakay">
+<!ENTITY filepicker_audio_title "Akllana o uyarichina">
+<!ENTITY filepicker_image_title "Akllana o hapina shuk rikchak">
+<!ENTITY filepicker_video_title "Akllana o shuk shuyukichina">
 <!-- Site identity popup -->
-<!ENTITY identity_connected_to "You are connected to">
+
+<!ENTITY identity_connected_to "Llamiraypashkami kanki">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -595,128 +609,125 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_connection_secure "Secure Connection">
-<!ENTITY identity_connection_insecure "Insecure connection">
-<!ENTITY identity_login_insecure "This page is not secure and your login could be vulnerable.">
-<!ENTITY identity_connection_chromeui "This is a secure &brandShortName; page">
-
+<!ENTITY identity_connection_secure "Llamiray allikichina">
+<!ENTITY identity_connection_insecure "Llamiray mana allikichina">
+<!ENTITY identity_login_insecure "Kay panka na alli allikichirinchu chay tachury yanka pakiriklla.">
+<!ENTITY identity_connection_chromeui "Kayta shuk panka kana kay &brandShortName; ">
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all1 "&brandShortName; has blocked insecure content on this page.">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName; has blocked some of the insecure content on this page.">
-<!ENTITY mixed_content_display_loaded1 "Parts of this page are not secure (such as images).">
-<!ENTITY mixed_content_protection_disabled1 "You have disabled protection from insecure content.">
 
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; sinshayashka yuyayta mana allikichina kay panka.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; shinshayashka tawka yuyayta mana allikichina kay panka.">
+<!ENTITY mixed_content_display_loaded1 "Rakirikuska kay panka mana allikichina (shina rikchakuna).">
+<!ENTITY mixed_content_protection_disabled1 "Riwichinashkanki kamachayta shutitan willana mana allikichinamanta.">
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title2 "Tracking Protection">
-<!ENTITY doorhanger_tracking_state_enabled "Enabled">
-<!ENTITY doorhanger_tracking_state_disabled "Disabled">
-<!ENTITY doorhanger_tracking_message_enabled1 "Attempts to track your online behavior have been blocked.">
-<!ENTITY doorhanger_tracking_message_disabled2 "This page includes elements that may track your browsing.">
 
+<!ENTITY doorhanger_tracking_title2 "Kamachay ama katichun">
+<!ENTITY doorhanger_tracking_state_enabled "Murikuyashka">
+<!ENTITY doorhanger_tracking_state_disabled "Mana murikuyashka">
+<!ENTITY doorhanger_tracking_message_enabled1 "Kutin shinanakuna katina kanpak shinahukta kay Internetpi shina sinshayashka.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Kay panka charin nipakuna shina usharinman katinata kanpak wampuna.">
 <!-- Common mixed and tracking content strings in site identity popup -->
-<!ENTITY learn_more "Learn More">
-<!ENTITY enable_protection "Enable protection">
-<!ENTITY disable_protection "Disable protection">
 
-<!ENTITY private_data_success "Private data cleared">
-<!ENTITY private_data_fail "Some private data could not be cleared">
+<!ENTITY learn_more "Yachakuna ashtawan">
+<!ENTITY enable_protection "Riwichina kamachay">
+<!ENTITY disable_protection "Riwichinana kamachay">
 
-<!ENTITY bookmarkhistory_button_import "Import">
-<!ENTITY bookmarkhistory_import_both "Importing bookmarks and history
-                                      from Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importing bookmarks
-                                           from Android">
-<!ENTITY bookmarkhistory_import_history "Importing history
-                                         from Android">
-<!ENTITY bookmarkhistory_import_wait "Please wait...">
+<!ENTITY private_data_success "Chanikuna shukllayashka pichanashka">
+<!ENTITY private_data_fail "Wakin chanikuna shukllayashka na usharinka pichanata">
 
-<!ENTITY suggestions_prompt3 "Would you like to turn on search suggestions?">
+<!ENTITY bookmarkhistory_button_import "Kanchamanta apamuna">
+<!ENTITY bookmarkhistory_import_both "Kanchamanta apamuy akllashka pankakuna mawka pankakuna Androidmanta">
+<!ENTITY bookmarkhistory_import_bookmarks "Kanchamanta apamuy akllashka pankakuna Androidmanta">
+<!ENTITY bookmarkhistory_import_history "Kanchamanta apamuy mawka pankakuna Androidmanta">
+<!ENTITY bookmarkhistory_import_wait "Shullapay…">
+
+<!ENTITY suggestions_prompt3 "Munankichi riwichina kunaykunata kay maskanata?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
-<!ENTITY search_bar_item_desc "Search with &formatS;">
-
+<!ENTITY search_bar_item_desc "Kaywan maskana &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-<!ENTITY suggestion_for_engine "Search &formatS1; for &formatS2;">
 
-<!ENTITY searchable_description "Bookmarks and history">
+<!ENTITY suggestion_for_engine "Maskana &formatS1; Kaypa &formatS2;">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Update available for &brandShortName;">
-<!ENTITY updater_start_select2 "Touch to download">
+<!ENTITY searchable_description "Mawka pankakuna akllashka">
+<!-- Updater notifications --> 
 
-<!ENTITY updater_downloading_title2 "Downloading &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Download failed">
-<!ENTITY updater_downloading_select2 "Touch to apply update once downloaded">
-<!ENTITY updater_downloading_retry2 "Touch to retry">
+<!ENTITY updater_start_title2 "Kunanpachak &brandShortName; shinankapak">
+<!ENTITY updater_start_select2 "Takarina kaypa aparina">
 
-<!ENTITY updater_apply_title2 "Update available for &brandShortName;">
-<!ENTITY updater_apply_select2 "Touch to update">
+<!ENTITY updater_downloading_title2 "Aparinahuna &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Aparinashka na usharirka">
+<!ENTITY updater_downloading_select2 "Takarina sayllurankapak kunanpachak ña aparinashkapi">
+<!ENTITY updater_downloading_retry2 "Takarina kutin shinankapak">
 
+<!ENTITY updater_apply_title2 "Kunanpachak &brandShortName; shinankapak">
+<!ENTITY updater_apply_select2 "Takarina kunan payanapak">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "To download files and updates, allow &brandShortName; permission to access storage.">
+
+<!ENTITY updater_permission_text "Uriahuchina aparinata tsirwakaykuna kunanpayashkakunapash, kachari &brandShortName; yaykuna allichishkata. ">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Allow">
+<!ENTITY updater_permission_allow "Kishpichina">
+<!-- Guest mode -->    
 
-    <!-- Guest mode -->
-<!ENTITY new_guest_session "New Guest Session">
-<!ENTITY exit_guest_session "Exit Guest Session">
-<!ENTITY guest_session_dialog_continue "Continue">
-<!ENTITY guest_session_dialog_cancel "Cancel">
-<!ENTITY new_guest_session_title "&brandShortName; will now restart">
-<!ENTITY new_guest_session_text2 "The person using it will not be able to see any of your personal browsing data (like saved logins, history or bookmarks).\n\nWhen your guest is done, their browsing data will be deleted and your session will be restored.">
-<!ENTITY guest_browsing_notification_title "Guest browsing is enabled">
-<!ENTITY guest_browsing_notification_text "Tap to exit">
+<!ENTITY new_guest_session "Mushuk Tantayrimay Shukpak">
+<!ENTITY exit_guest_session "Llukshina shukpak tantayrimay">
+<!ENTITY guest_session_dialog_continue "Katina">
+<!ENTITY guest_session_dialog_cancel "Tukuchina">
+<!ENTITY new_guest_session_title "&brandShortName; Kutin kallarinka">
+<!ENTITY new_guest_session_text2 "Runa arinakpika na rikuy ushankachu nimata chanikuna wanpuna kanpak (shina mawka pankakuna, akllashka pankakuna, tachurikuna allichishkakuna).\n\nShuk tukuchikpika, paypa chanikuna wanpunakuna kichurinkami kutin wallpacharinka kanpak tantayrimay.">
+<!ENTITY guest_browsing_notification_title "Shukpak wanpuna riwichishkami">
+<!ENTITY guest_browsing_notification_text "Ñitinki llukshinkapak">
 
-<!ENTITY exit_guest_session_title "&brandShortName; will now restart">
-<!ENTITY exit_guest_session_text "The browsing data from this session will be deleted.">
-
+<!ENTITY exit_guest_session_title "&brandShortName; kutin kallarinka">
+<!ENTITY exit_guest_session_text "Chanikuna wanpunaka kay tantayrimay kichurinami.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
+
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
-<!ENTITY percent "&formatS;&#37;&#37;">
 
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-<!ENTITY actionbar_menu "Menu">
-<!ENTITY actionbar_done "Done">
 
+<!ENTITY actionbar_menu "Hatun rikuna">
+<!ENTITY actionbar_done "Shinashka">
 <!-- Voice search in the awesome bar -->
-<!ENTITY voicesearch_prompt "Speak now">
 
+<!ENTITY voicesearch_prompt "Kunan rimana">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-<!ENTITY remote_tabs_last_synced "Last synced: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!ENTITY remote_tabs_never_synced "Last synced: never">
 
+<!ENTITY remote_tabs_last_synced "Puchuk paktanina: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Puchuk paktanina: manallaykapi">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-<!ENTITY intent_uri_private_browsing_prompt "This link will open in &formatS;. Are you sure you want to exit Private Browsing?">
+
+<!ENTITY intent_uri_private_browsing_prompt "Kay tukllayay paskarinka chay &formatS;. Allipachachu munanki llukshinata wampuna shukllayaymanta?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -724,59 +735,63 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
-<!ENTITY intent_uri_private_browsing_multiple_match_title "Exit Private Browsing?">
-
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Llukshina wampuna shukllayaymanta?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!ENTITY devtools_auth_scan_header "Scanning for the QR code displayed on your other device">
 
+<!ENTITY devtools_auth_scan_header "Hikakllarashpa kamachintan QR rikuchishka shuk irunrinpi">
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restrictable_feature_addons_installation "Add-ons">
-<!ENTITY restrictable_feature_addons_installation_description "Add features or functionality to Firefox. Note: Add-ons can disable certain restrictions.">
-<!ENTITY restrictable_feature_private_browsing "Private Browsing">
-<!ENTITY restrictable_feature_private_browsing_description "Allows family members to browse without saving information about the sites and pages they\'ve visited.">
-<!ENTITY restrictable_feature_clear_history "Clear History">
-<!ENTITY restrictable_feature_clear_history_description "Allows family members to delete information about the sites and pages they\'ve visited.">
-<!ENTITY restrictable_feature_advanced_settings "Advanced Settings">
-<!ENTITY restrictable_feature_advanced_settings_description "This includes importing bookmarks, restoring tabs and automated updates. Turn off for simplified settings suitable for any family member.">
-<!ENTITY restrictable_feature_camera_microphone "Camera &amp; Microphone">
-<!ENTITY restrictable_feature_camera_microphone_description "Allows family members to engage in real time communication on websites.">
-<!ENTITY restrictable_feature_block_list "Block List">
-<!ENTITY restrictable_feature_block_list_description "Block websites that include sensitive content.">
 
+<!ENTITY restrictable_feature_addons_installation "Paktachinakuna">
+<!ENTITY restrictable_feature_addons_installation_description "Yapana paktachikunata o shinanakuna Firefox. Willay: Paktachinakuna ushanka mana murikuyanata maykan kamachiy.">
+<!ENTITY restrictable_feature_private_browsing "Ñukapak wanpunata">
+<!ENTITY restrictable_feature_private_browsing_description "Sakina shuk ayllukunata wampunachun ama allichishpa willanata chay shina pankakuna kay kuska paykuna chayachun.">
+<!ENTITY restrictable_feature_clear_history "Pichana maukapankakuna">
+<!ENTITY restrictable_feature_clear_history_description "Sakina shuk ayllukinata kichuna willanata chay shina pankakuna kay kuska paykuna chayachun.">
+<!ENTITY restrictable_feature_advanced_settings "Hatun ñawpashka tikuykuna">
+<!ENTITY restrictable_feature_advanced_settings_description "Kay kimichina kanchamanta apamuna akllashka pankakuna, kutin allichina chipiñakuna kunanpachak paymantallak. Wañuna kay hawalla tikuykuna chay shuk ayllukinata. ">
+<!ENTITY restrictable_feature_camera_microphone "Kuyuna Rimayhi">
+<!ENTITY restrictable_feature_camera_microphone_description "Sakina shuk ayllukinata aynina chay kunan pacha willachi chay kuska web.">
+<!ENTITY restrictable_feature_block_list "Shutikuk kay sinshayaykuna">
+<!ENTITY restrictable_feature_block_list_description "Sinshayanakuna kuska web yuyayta riksichik chawchawan">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-<!ENTITY bookmarks_about_browser "Firefox: About your browser">
-<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
-<!ENTITY bookmarks_addons "Firefox: Customize with add-ons">
-<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
-<!ENTITY bookmarks_support "Firefox: Support">
-<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
-<!ENTITY bookmarks_restricted_support2 "Firefox Help and Support for restricted profiles on Android tablets">
-<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "Learn the Web: Mozilla Webmaker">
 
+<!ENTITY bookmarks_about_browser "Firefox: Suñuk kanpak wanpuna">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Ñukapallak kay paktachinakuna.">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Yanapay">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Firefox yapana kamachiy perfiles chay Android tabletas">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Yachakuna kay Web: Mozilla Webmaker">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "Sorry! This &brandShortName; won\'t work on this device (&formatS1;, &formatS2;). Please download the correct version.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; will no longer update">
-<!ENTITY eol_notification_summary "Tap to learn more">
+<!ENTITY unsupported_sdk_version "Llakinchimi! Kay &brandShortName; na llankankachu kay irunrinpi (&formatS1;, &formatS2;). Urahuchina aparinata chay alli shinashkata.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; mana kunanpayarinka">
+<!ENTITY eol_notification_summary "Takari yachakuna mas">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-<!ENTITY whatsnew_notification_title "&brandShortName; is up to date">
-<!ENTITY whatsnew_notification_summary "Find out what\'s new in this version">
 
-<!ENTITY promotion_add_to_homescreen "Add to home screen">
+<!ENTITY whatsnew_notification_title "&brandShortName; ña kunanpayashka">
+<!ENTITY whatsnew_notification_summary "Tarinki mushukta kay wallpa">
 
-<!ENTITY helper_first_offline_bookmark_title "Read offline">
-<!ENTITY helper_first_offline_bookmark_message "Find your Reader View items in Bookmarks, even offline.">
-<!ENTITY helper_first_offline_bookmark_button "Go to Bookmarks">
+<!ENTITY promotion_add_to_homescreen "Yapana Kallarina Llikllarikumpi">
+
+<!ENTITY helper_first_offline_bookmark_title "Killkakatina offline">
+<!ENTITY helper_first_offline_bookmark_message "Tarinki kampak Reader View akllashka pankakuna, shinapash offline. ">
+
+
+
+
+

@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY toolbar.searchPlaceholder     "Search">
+<!ENTITY toolbar.searchPlaceholder     "Maskana">
 
-<!ENTITY newPref.namePlaceholder       "Name">
+<!ENTITY newPref.namePlaceholder       "Shuti">
 
-<!ENTITY newPref.valueBoolean          "Boolean">
-<!ENTITY newPref.valueString           "String">
-<!ENTITY newPref.valueInteger          "Integer">
+<!ENTITY newPref.valueBoolean          "Booleano">
+<!ENTITY newPref.valueString           "Watu">
+<!ENTITY newPref.valueInteger          "Tukuy">
 
-<!ENTITY newPref.stringPlaceholder     "Enter a string">
-<!ENTITY newPref.numberPlaceholder     "Enter a number">
+<!ENTITY newPref.stringPlaceholder     "Yaykuna shuk wallata ">
+<!ENTITY newPref.numberPlaceholder     "Yaykuchi shuk yupayta">
 
 <!ENTITY newPref.toggleButton          "Toggle">
-<!ENTITY newPref.cancelButton          "Cancel">
+<!ENTITY newPref.cancelButton          "Tukuchina">
 
-<!ENTITY contextMenu.copyPrefName      "Copy Name">
-<!ENTITY contextMenu.copyPrefValue     "Copy Value">
+<!ENTITY contextMenu.copyPrefName      "Shutita killkana">
+<!ENTITY contextMenu.copyPrefValue     "Chaninta killkana">

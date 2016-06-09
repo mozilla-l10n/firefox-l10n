@@ -2,26 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Get me out of here!">
-<!ENTITY safeb.palm.decline.label "Ignore this warning">
-<!ENTITY safeb.palm.reportPage.label "Why was this page blocked?">
-<!ENTITY safeb.palm.whyForbidden.label "Why was this page blocked?">
+<!ENTITY safeb.palm.accept.label "Kaymanta llukchiway!">
+<!ENTITY safeb.palm.decline.label "Ama rikuychu kay willana">
+<!ENTITY safeb.palm.reportPage.label "Imashpa harkashka kay panka?">
+<!ENTITY safeb.palm.whyForbidden.label "Imashpa harkashka kay panka?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
+<!ENTITY safeb.blocked.malwarePage.title "Panka willana hawrayakta!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Kay kuska chay <span id='malware_sitename'/> willachishkami kashna hawrayak sinshayashka kanpak allichishka munashkata.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Chay pankakuna hawrayakuna munan llamitinkinata ruray katichikunata shuwankapak willana shukllayay, arina kanpak antanikik hawrayankankapak o shukta wakllichinkapak kanpak llika.</p><p>Shuk pankakuna hawrayakuna kachan ruray katichiykunata na allikunata shuk kuna arinakunashka mana yachakta chay wasiyuk.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title3 "Deceptive Site!">
+<!ENTITY safeb.blocked.phishingPage.title3 "Kuska mana alli!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc3 "This web page at <span id='phishing_sitename'/> has been reported as a deceptive site and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Deceptive sites are designed to trick you into doing something dangerous, like installing software, or revealing your personal information, like passwords, phone numbers or credit cards.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Kay kuska chay <span id='phishing_sitename'/> willachishkami kashna hawrayak sinshayashka kanpak allichishka munashkata.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Umay kuskakuna shinashka umankapak rurashun imapish mana allikichina, kashna software Llamitinkina, willaychina kanpaklla willanata, kashna rimaypakanakuna, yupaykuna rimachik anta o panka creditukuna.</p><p>satina willanata kay panka web-pi shuwaypi rikurinka kampak kikinyari o anchashwaykuna.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Reported Unwanted Software Site!">
+<!ENTITY safeb.blocked.unwantedPage.title "Kuska willachishka charin software mana alli!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "This web page at <span id='unwanted_sitename'/> has been reported to contain unwanted software and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "Unwanted software pages try to install software that can be deceptive and affect your system in unexpected ways.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Kay panka web chay <span id='unwanted_sitename'/> willanashka charimanta software mana alli sinshayashka kanpak munashka allikichinashka.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Pankakuna chay software mana alli munan llamitinkinata software wakllichinata ushanka kanpak llika tawka ñanta.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Blocked Site">
+<!ENTITY safeb.blocked.forbiddenPage.title2 "Kuska Sinshayashka">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "The Web page at <span id='forbidden_sitename'/> has been blocked by your admin profile.">
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Kay panka web chay <span id='forbidden_sitename'/> sinshayashka kanpak perfil kamachikanayta.">

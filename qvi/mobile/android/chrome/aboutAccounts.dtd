@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.connected.title "Firefox Accounts">
-<!ENTITY aboutAccounts.connected.description "You are connected as">
-<!ENTITY aboutAccounts.syncPreferences.label "Tap here to check Sync settings">
+<!ENTITY aboutAccounts.connected.title "Cuentata Firefox">
+<!ENTITY aboutAccounts.connected.description "Kikin llamiraypashkanki shina">
+<!ENTITY aboutAccounts.syncPreferences.label "Takari kaypi rikunkapak tikuykunata kay Sync">
 
-<!ENTITY aboutAccounts.noConnection.title "No Internet connection">
-<!ENTITY aboutAccounts.retry.label "Try again">
+<!ENTITY aboutAccounts.noConnection.title "Llamiray illan Internetpa">
+<!ENTITY aboutAccounts.retry.label "Kutin shinana">
 
-<!ENTITY aboutAccounts.restrictedError.title "Restricted">
-<!ENTITY aboutAccounts.restrictedError.description "You cannot manage Firefox Accounts from this profile.">
+<!ENTITY aboutAccounts.restrictedError.title "Kitapanashka">
+<!ENTITY aboutAccounts.restrictedError.description "Na ushanki makinchina shul wallkana Firefox kaypa perfilpa.">

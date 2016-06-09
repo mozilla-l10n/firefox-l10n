@@ -5,218 +5,117 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Problem loading page">
-<!ENTITY retry.label "Try Again">
-
+<!ENTITY loadError.label "Llaki aparikpi pankata">
+<!ENTITY retry.label "Kutin Shinana">
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Unable to connect">
+
+<!ENTITY connectionFailure.title "Na usharin llamiraypak">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY deniedPortAccess.title "This address is restricted">
+<!ENTITY deniedPortAccess.title "Kay kuska saywanashkami">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Server not found">
+<!ENTITY dnsNotFound.title "Yanapak na tarishka">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "
-<ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-    <div id='searchbox'>
-      <input id='searchtext' type='search'></input>
-      <button id='searchbutton'>Search</button>
-    </div>
-  <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.
-    <button id='wifi'>Enable Wi-Fi</button>
-  </li>
-</ul>
-">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Allirikunki kay kuska killkashkata na pantaykuna charichun kashna <strong>ww</strong>.shina.com ama na <strong>www</strong>.shina.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Maskana</button> </div> <li>Mana ushakpika aparina nimapash panka, alli rikunki kay chanikuna kanpak irunrinpi o llamiray Wi-Fi . <button id='wifi'>Marikuyana Wi-Fi</button> </li> </ul>">
 
-<!ENTITY fileNotFound.title "File not found">
-<!ENTITY fileNotFound.longDesc "
-<ul>
-  <li>Check the file name for capitalization or other typing errors.</li>
-  <li>Check to see if the file was moved, renamed or deleted.</li>
-</ul>
-">
+<!ENTITY fileNotFound.title "Tsirwakay na tarishka">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Alli rikunki chay shuti kay tsirwakay ama charichun pantaykunata killkashkata.</li> <li>Alli rikunki chay tsirwakay kichurirkacha, kuyurirkaya o kutin shutinchina.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Access to the file was denied">
-<!ENTITY fileAccessDenied.longDesc "
-<ul>
-  <li>It may have been removed, moved, or file permissions may be preventing access.</li>
-</ul>
-">
+<!ENTITY fileAccessDenied.title "Chay yaykuna tsirwakay mana uswharirka">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Nishkapish kanka anchuchishka, kuyushishka, o mawka pankakuna na sakin yaykunata.</li> </ul>">
 
-<!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "
-<p>&brandShortName; can’t load this page for some reason.</p>
-">
+<!ENTITY generic.title "Chin!">
+<!ENTITY generic.longDesc "<p>&brandShortName; na ushan aparina kay panka imamantapash yupaypurachi.</p>">
 
-<!ENTITY malformedURI.title "The address isn’t valid">
+<!ENTITY malformedURI.title "Kay kuska mana alli yaykuchinchu">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "
-<ul>
-  <li>Web addresses are usually written like
-    <strong>http://www.example.com/</strong></li>
-    <div id='searchbox'>
-      <input id='searchtext' type='search'></input>
-      <button id='searchbutton'>Search</button>
-    </div>
-  <li>Make sure that you’re using forward slashes (i.e.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Chay kuskakuna web wiñaylla chasna killkashka kashna <strong>http://www.shina.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Maskana</button> </div> <li>Allirikunki tiyana arinanki chay harkakuna wiksuy ñawpaman (shina. <strong>/</strong>).</li> </ul>">
 
-<!ENTITY netInterrupt.title "The connection was interrupted">
+<!ENTITY netInterrupt.title "Kay llamiray pitirirka">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;’s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "Killkashka tukurishka">
+<!ENTITY notCached.longDesc "<p>Kay killkashka mañashka mana tiyana shinankapak chay caché kay &brandShortName;.</p><ul><li>Shina allilla &brandShortName; mana mañan killkashkakuna paymandayak chawcha.</li><li>Clicta shinanki kutin shinankapak kallarinkapak mañankapak killkashkata chay kuska web.</li></ul>">
 
-<!ENTITY netOffline.title "Offline mode">
+<!ENTITY netOffline.title "Llankana mana llamiray">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.
-    <button id='wifi'>Enable Wi-Fi</button>
-  </li>
-</ul>
-">
+<!ENTITY netOffline.longDesc3 "<ul> <li>Kutin shinana. &brandShortName; shinanka paskanata shuk llamiray kutin aparinka chay panka. <button id='wifi'>Marikuyana Wi-Fi</button> </li> </ul>">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.title "Pantashka kamachintashka yuyayta riksichik">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Yanapay willashpa wasiyuk kuska web willankapak kay llakita.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "Unsafe File Type">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.title "Kutinalla kay tsirwakay mana allikichina ">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Willanki wasiyukunawan chay kuska web willankapak kay llakita.</li></ul>">
 
-<!ENTITY netReset.title "The connection was reset">
+<!ENTITY netReset.title "Kay llamiray kutin kallarirka">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY netTimeout.title "The connection has timed out">
+<!ENTITY netTimeout.title "Kay llamiray tukurirka">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "The address wasn’t understood">
-<!ENTITY unknownProtocolFound.longDesc "
-<ul>
-  <li>You might need to install other software to open this address.</li>
-</ul>
-">
+<!ENTITY unknownProtocolFound.title "Kay kuska na hamurinchu">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Mutsurinki llamitinkinata shuk ruraykatichiy paskankapak kay kuska.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
-<!ENTITY proxyConnectFailure.longDesc "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Contact your network administrator to make sure the proxy server is
-    working.</li>
-</ul>
-">
+<!ENTITY proxyConnectFailure.title "Kay yanapak proxy mana anina llamiraykunata">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Alli rikunki chay tikuykuna kay proxy allikachun.</li> <li>Willarinki chay kamachikanawan alli rikunkapak chay yanapak proxy tiyana llankahuchun.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
+<!ENTITY proxyResolveFailure.title "Na usharin tarinata kay yanapak proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.
-    <button id='wifi'>Enable Wi-Fi</button>
-  </li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Rikunki tikuykunata kay proxy tiyankapak allikichina allikachun.</li> <li>Alli rikunki kanpak irunrikta charin shuk llamiray kay Wi-Fi o chanikunata. <button id='wifi'>Riwichina Wi-Fi</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "The page isn’t redirecting properly">
-<!ENTITY redirectLoop.longDesc "
-<ul>
-  <li>This problem can sometimes be caused by disabling or refusing to accept
-    cookies.</li>
-</ul>
-">
+<!ENTITY redirectLoop.title "Kay panka mana alli pushahunchu">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Kay llaki ushan tiyana yallina mana murikuyana kay cookies.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Unexpected response from server">
-<!ENTITY unknownSocketType.longDesc "
-<ul>
-  <li>Check to make sure your system has the Personal Security Manager
-    installed.</li>
-  <li>This might be due to a non-standard configuration on the server.</li>
-</ul>
-">
+<!ENTITY unknownSocketType.title "Kutipay mana shuyana kay yanapak">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Alli rikunki tiyana allikichina kampak llika charina Kamachikana kay allikichin ñukapayak llamitinkina.</li> <li>Kay usarinki imarayku shuk tikuykuna na sapsi chay yanapak.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
-<!ENTITY nssFailure2.longDesc2 "
-<ul>
-  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY nssFailure2.title "Llamiray Allikichina na Ushashka">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Kay panka kampak kutin shinana rikuna na ushan rikunki kikinkay chay chaskina chanikuna na usharin tiyana alli rikuna.</li> <li>Willanki wasiyukunawan chay kuska web willankapak kay llakita.</li> </ul>">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>This could be a problem with the server’s configuration, or it could be
-someone trying to impersonate the server.</li>
-  <li>If you have connected to this server successfully in the past, the error may
-be temporary, and you can try again later.</li>
-</ul>
-">
-
+<!ENTITY nssBadCert.title "Llamiray Allikichina na Ushashka">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Kay usharirka tiyuna shuk llaki chay tikuykuna kay yanapak o shuk kutin shinana rurana yallina kay.</li> <li> llamiraypak chay yanapak ñawpa haylli pantay usharin tiyana  temporalkutin shinana kipa.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY sharedLongDesc3 "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.
-    <button id='wifi'>Enable Wi-Fi</button>
-  </li>
-</ul>
-">
 
-<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY sharedLongDesc3 "<ul> <li>Kay kuska usharin tiyuna pachak na shinankapak o yapa kushkatiashka. Kutin shinana shuk uchillapacha.</li> <li>Mana ushakpika aparina nimapash panka, alli rikunki kay chanikuna kampak irunrinpi o llamiray Wi-Fi. <button id='wifi'>Riwichina Wi-Fi</button> </li> </ul>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY cspBlocked.title "Sinshayashkami Kapakkamaymanta allichishkaymanta yuyayta rikshichikmanta">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; harkashka kay panka aparinakay shina imashpa kay panka charin shuk kapakkamayallichish allichishkaymanta yuyayta rikshichikmanta mana kacharina.</p>">
 
-<!ENTITY securityOverride.linkText "Or you can add an exception…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
-<!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
+<!ENTITY corruptedContentErrorv2.title "Pantay yuyayta riksichikmanta wakllina">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Kay panka kampak tiyanki kutin shinana rikuy na usharin rikuchina imashpa tiyan shuk pantay chay yallinapi chanikunamanta.</p><ul><li>Willanki chay kuska wasiyukunaman web willankapak kay llakita.</li></ul>">
 
+<!ENTITY securityOverride.linkText "O ushanki yapana shuk ihichay...">
+<!ENTITY securityOverride.getMeOutOfHereButton "Kaymanta llukchiway!">
+<!ENTITY securityOverride.exceptionButtonLabel "Yapana Ihichay...">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY securityOverride.warningContent "<p>Mana kanakankichu yapana shuk ihichay ari arinki shuk llamiray Internetpa chay mana iñiyunki o mana tiyan yacharishka rikunkapak shuk willan kay yanapak.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.title "Ñawpa XUL ">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Willanki wasiyukunawan chay kuska web willankapak kay llakita.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Unable to Connect Securely">
+<!ENTITY sslv3Used.title "Na usharin llamiraypak wallpamanta allikichina">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-<!ENTITY sslv3Used.longDesc "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">
+<!ENTITY sslv3Used.longDesc "Willanata hatun ñawpashka: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Your connection is not secure">
+<!ENTITY weakCryptoUsed.title "Kanpa llamiray mana allikichina">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc "Advanced info: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoUsed.longDesc "Willanata hatun ñawpashka: SSL_ERROR_NO_CYPHER_OVERLAP">
 
-<!ENTITY inadequateSecurityError.title "Your connection is not secure">
+<!ENTITY inadequateSecurityError.title "Kanpa llamiray mana allikichina">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> arinay pakchi ruray allikichin mawka y kalak wakllichinakunata. Shuk waklliwik llanka rikuchinka chay willanata allikichishka yarinka. Chay kamachikana kuskaweb kuyuyllana tukunka chay yanapak ñawpa shinana napashamuna chay kuska.</p><p>Kamachintan pantashka: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
