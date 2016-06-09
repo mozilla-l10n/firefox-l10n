@@ -111,7 +111,7 @@ was trying to connect. -->
      please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Usikker tilkobling">
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dette nettstedet bruker HTTP Strict Transport Security (HSTS) for å spesifisere at &brandShortName; bare kan koble til det sikkert. Derfor kan en ikke legge til et unntak for dette sertifikatet.">
 <!ENTITY certerror.copyToClipboard.label "Kopier tekst til utklippstavlen">
 
 <!ENTITY inadequateSecurityError.title "Tilkoblingen din er ikke sikker">

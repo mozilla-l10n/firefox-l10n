@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Nylig bokmerket">
 <!ENTITY otherBookmarksCmd.label "Andre bokmerker">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bokmerker">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Vis nylig bokmerket">
+<!ENTITY showRecentlyBookmarked.accesskey "V">
+<!ENTITY hideRecentlyBookmarked.label     "Skjul nylig bokmerket">
+<!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Tilbake">
 <!ENTITY backButton.tooltip           "Gå tilbake en side">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Vis bokmerkesidestolpen">
 <!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
 
+<!ENTITY containersMenu.label "Beholdere">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -555,20 +556,21 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Slå på lyd">
 <!ENTITY mediaUnmute.accesskey       "S">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "Avspillingshastighet">
+<!ENTITY mediaPlaybackRate2.accesskey "A">
+<!ENTITY mediaPlaybackRate050x2.label "Sakte (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "Normal">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Fort (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "Fortere (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "o">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
+<!ENTITY mediaPlaybackRate200x2.label "Latterlig høy (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
 
 
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
@@ -679,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Sikker tilkobling">
 <!ENTITY identity.connectionNotSecure "Tilkoblingen er ikke sikker">
 <!ENTITY identity.connectionFile "Denne siden lagres på datamaskinen din.">
-
+<!ENTITY identity.connectionVerified2 "Sikker tilkobling til nettstedet, eid av:">
 <!ENTITY identity.connectionInternal "Dette er en sikker &brandShortName;-side.">
 <!ENTITY identity.insecureLoginForms2 "Innloggingsinfo skrevet inn på denne kan leses av en tredjepart.">
 <!-- Strings for connection state warnings. -->
