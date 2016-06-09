@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "ಸ್ವಾಗತ">
-<!ENTITY  onboard_start_message3 "&brandShortName; ನೊಂದಿಗೆ ವೀಕ್ಷಿಸಿ">
-<!ENTITY  onboard_start_subtext3 "ನಿಮ್ಮ ಮೊಬೈಲ್ ಜಾಲ ವೀಕ್ಷಣೆಯ ಅನುಭವವನ್ನು ನೈಜವಾಗಿ ನಿಮ್ಮ ಸ್ವಂತದ್ದಾಗಿಸಿಕೊಳ್ಳಿ.">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; ಗೆ ಸ್ವಾಗತ">
 <!ENTITY firstrun_urlbar_subtext "ಉಪಯುಕ್ತ ಹುಡುಕು ಸಲಹೆ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳಿಂದ ವೇಗವಾಗಿ ಹುಡುಕಿ.">
@@ -20,20 +18,25 @@
 <!ENTITY firstrun_signin_message "ಸಂಪರ್ಕಕ್ಕೆ ಬನ್ನಿ, ಪ್ರಾರಂಭಿಸಲು ಅನುವಾಗಿ">
 <!ENTITY firstrun_signin_button "ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್ ಆಗಿ">
 <!ENTITY  onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
+
 <!ENTITY firstrun_button_next "ಮುಂದೆ">
 
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
 <!ENTITY  onboard_start_restricted1 "‍ಸರಳಗೊಳಿಸಿರುವ ‍&brandShortName; ಆವೃತ್ತಿಯಿಂದ ಸುರಕ್ಷಿತವಾಗಿರಿ ಮತ್ತು ಹತೋಟಿಯಲ್ಲಿರಿ.">
-
-<!ENTITY  reading_list_migration_title "ಓದಬೇಕಿರುವ ಪಟ್ಟಿ ಸಂಪರ್ಕಿಸಲ್ಪಟ್ಟಿದೆ">
-
-<!ENTITY  reading_list_migration_goto_bookmarks "ಪುಟಗುರುತುಗಳಿಗೆ ಸಾಗು">
-
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "ಬುಕ್‌ಮಾರ್ಕುಗಳು">
 <!ENTITY  history_title "ಇತಿಹಾಸ">
-<!ENTITY  reading_list_title "ಓದಬೇಕಿರುವ ಪಟ್ಟಿ">
 <!ENTITY  recent_tabs_title "ಇತ್ತೀಚಿನ ಹಾಳೆಗಳು">
 
 <!ENTITY  switch_to_tab "ಟ್ಯಾಬ್‌ಗೆ ಬದಲಾಯಿಸು">
@@ -67,7 +70,10 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "ಓದಬೇಕಿರುವ ಪಟ್ಟಿ">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
 
 <!ENTITY reader_saved_offline "ಆಫ್‌ಲೈನ್ ಉಳಿಸಲಾಗಿದೆ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -173,6 +179,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "TIP: ಯಾವುದೇ ಜಾಲತಾಣವನ್ನು ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲು ಅದರ ಹುಡುಕು ವಲಯದಲ್ಲಿ ದೀರ್ಘವಾಗಿ ಒತ್ತಿ ಮತ್ತು &formatI; ಲಾಂಛನದ ಮೇಲೆ ತಟ್ಟಿ.">
 <!ENTITY pref_category_advanced "ಸುಧಾರಿತ">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ಟ್ಯಾಬ್‌ಗಳನ್ನು, ದತ್ತಾಂಶ ಉಳಿಕೆ, ಡೆವೆಲಪರ್ ಸಲಕರಣೆಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ">
 <!ENTITY pref_category_notifications "ಸೂಚನೆಗಳು">
 
@@ -223,6 +232,9 @@
 <!ENTITY pref_cookies_accept_all "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY pref_cookies_not_accept_foreign "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ, 3ನೆಯವರನ್ನು ಹೊರತುಪಡಿಸಿ">
 <!ENTITY pref_cookies_disabled "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_data_saver "ಡೇಟಾ ಉಳಿಕೆಗಾರ">
 <!ENTITY pref_category_media "ಮಾಧ್ಯಮ">
@@ -285,7 +297,10 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -418,12 +433,12 @@ size. -->
 <!ENTITY share_image_failed "ಈ ಚಿತ್ರವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 <!ENTITY save_as_pdf "PDF ನಂತೆ ಉಳಿಸಿ">
 <!ENTITY print "ಮುದ್ರಿಸು">
-<!ENTITY find_in_page "ಪುಟದಲ್ಲಿ ಹುಡುಕು">
-<!ENTITY desktop_mode "ಡೆಸ್ಕ್‌ಟಾಪ್ ತಾಣವನ್ನು ಕೇಳಿ">
+
+
 <!ENTITY page "ಪುಟ">
 <!ENTITY tools "ಸಾಧನಗಳು">
-<!ENTITY new_tab "ಹೊಸ ಹಾಳೆ">
-<!ENTITY new_private_tab "ಹೊಸ ಖಾಸಗಿ ಟ್ಯಾಬ್">
+
+
 <!ENTITY close_all_tabs "ಎಲ್ಲ ಟ್ಯಾಬ್‍ಗಳನ್ನು ಮುಚ್ಚು">
 <!ENTITY close_private_tabs "ಖಾಸಗಿ ಹಾಳೆಗಳನ್ನು ಮುಚ್ಚು">
 <!ENTITY tabs_normal "ಟ್ಯಾಬ್‌ಗಳು">
@@ -433,8 +448,6 @@ size. -->
 <!ENTITY set_image_chooser_title "ಚಿತ್ರವನ್ನು ಹೀಗೆ ಉಳಿಸು">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "ಪುಟದಲ್ಲಿ ಹುಡುಕು">
 <!ENTITY find_prev "ಹಿಂದಿನ">
 <!ENTITY find_next "ಮುಂದೆ">
 <!ENTITY find_close "ಮುಚ್ಚು">
@@ -535,6 +548,7 @@ size. -->
 <!ENTITY home_history_title "ಇತಿಹಾಸ">
 
 
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 
 <!ENTITY home_clear_history_button "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ">
 <!ENTITY home_clear_history_confirm "ನೀವು ಇತಿಹಾಸವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲು ಬಯಸಿದ್ದು ಖಚಿತವೆ?">
@@ -767,6 +781,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_summary "ಈ ಆವೃತ್ತಿಯಲ್ಲಿ ಹೊಸತೇನಿದೆ ಹುಡುಕಿ ನೋಡಿ">
 
 <!ENTITY promotion_add_to_homescreen "ಮುಖ್ಯ ತೆರೆಗೆ ಸೇರಿಸು">
+
+
+
+
 
 
 
