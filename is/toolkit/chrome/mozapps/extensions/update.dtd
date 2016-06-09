@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Fann samhæfðar viðbætur">
 <!ENTITY  found.top.label                 "Veldu þær viðbætur sem þú vilt setja inn:">
-
+<!ENTITY  found.disabledXPinstall.label   "Ekki er hægt að setja inn þessar uppfærslur því uppsetning hefur verið gerð óvirk. þú getur breytt þessu með stillingu hér fyrir neðan.">
 <!ENTITY  found.enableXPInstall.label     "Leyfa vefsvæðum að setja inn hugbúnað">
 <!ENTITY  found.enableXPInstall.accesskey "a">
 

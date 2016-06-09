@@ -32,8 +32,8 @@
 <!ENTITY Custom.label         "Sérsniðið…">
 <!ENTITY ShrinkToFit.label    "Minnka svo passi á síðu">
 <!ENTITY customPrompt.title   "Skali…">
-
-
+<!ENTITY simplifyPage.label   "Einfalda síðu">
+<!ENTITY simplifyPage.enabled.tooltip  "Breyta útliti til að auðveldara sé að lesa">
 
 
 <!ENTITY homearrow.tooltip    "Fyrsta síða">
