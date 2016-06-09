@@ -77,8 +77,8 @@
 <!ENTITY cspBlocked.title "Bị chặn bởi Chính sách Bảo vệ Nội dung">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; không tải trang này vì nó có một chính sách bảo vệ nội dung không cho phép việc tải theo cách này.</p>">
 
-<!ENTITY corruptedContentError.title "Lỗi Nội dung Hư">
-<!ENTITY corruptedContentError.longDesc "<p>Trang mà bạn đang cố xem không thể hiển thị được vì một lỗi trong truyền tải dữ liệu.</p><ul><li>Vui lòng liên hệ chủ trang web để báo họ về vấn đề này.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Lỗi Nội dung Hư">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Trang mà bạn đang cố xem không thể hiển thị được vì một lỗi trong truyền tải dữ liệu.</p><ul><li>Vui lòng liên hệ chủ trang web để báo họ về vấn đề này.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Hoặc bạn có thể thêm một ngoại lệ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Đưa tôi ra khỏi đây!">
