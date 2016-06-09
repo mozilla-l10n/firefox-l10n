@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "ನಿಮ್ಮ &brandShortName; ಹಳೆಯ ಕಾಲದ್ದಾಗಿದೆ, ಆದರೆ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಗೆ ನಿಮ್ಮ ವ್ಯವಸ್ಥೆಯಲ್ಲಿಬೆಂಬಲವಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ವ್ಯವಸ್ಥೆಯನ್ನು ನವೀಕರಿಸಿ, ನಂತರ ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ. ನಿಮಗೆ ಈ ಸೂಚನೆ ಮತ್ತೊಮ್ಮೆ ಕಾಣಿಸುವುದಿಲ್ಲ, ಆದರೆ ನೀವು">
 <!ENTITY  unsupportedLink.label           "ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಬಹುದು.">
 
-<!ENTITY  incompatibleCheck.title         "ಆಡ್‌-ಆನ್‌ಗಳ ಹೊಂದಾಣಿಕೆಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ">
-<!ENTITY  incompatibleCheck.label         "ನಿಮ್ಮ ಆಡ್‌-ಆನ್‌ಗಳ  ಹೊಸ ಆವೃತ್ತಿಗಾಗಿ ಹುಡುಕಲಾಗುತ್ತದೆ…">
-
 <!ENTITY  clickHere.label                 "ಈ ನವೀಕರಣದ ಬಗೆಗಿನ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ನೋಡಿ">
 
 <!ENTITY  evangelism.desc                 "ನಿಮಗೆ ಸಾಧ್ಯವಿದ್ದಷ್ಟು ಬೇಗ ಈ ಅಪ್‌ಡೇಟ್ ಅನ್ನು &brandShortName; ಗೆ ಅನ್ವಯಿಸಿ ಎಂದು ಸಲಹೆ ಮಾಡಲಾಗುತ್ತದೆ.">
-
-<!ENTITY  license.instructions            "ಈ ಒಡಂಬಡಿಕೆಯ ಕರಾರಿಗೆ ಒಪ್ಪುವುದಾದರೆ,ಈ ನವೀಕರಣದ ಅನುಸ್ಥಾಪನೆಯನ್ನು  ಮುಂದುವರೆಸಲು ಕೆಳಗಿರುವ 'ಸಮ್ಮತಿಸುತ್ತೇನೆ' ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ.">
-
-<!ENTITY  license.titleText               "ತಂತ್ರಾಂಶ ಕರಾರು ಒಡಂಬಡಿಕೆ">
-<!ENTITY  license.introText               "ಈ ತಂತ್ರಾಂಶದ ಕಾಯ್ದೆ ಹಾಗು ನಿಯಮಗಳು.">
-<!ENTITY  license.instructionText         "ದಯವಿಟ್ಟು ಈ ಕೆಳಗಿನ ಕರಾರು ಒಡಂಬಡಿಕೆಯನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಓದಿ. ಈ ಒಡಂಬಡಿಕೆಯ ಮಿಕ್ಕುಳಿದ ಭಾಗವನ್ನು ನೋಡಲು ಚಲನ ಪಟ್ಟಿಯನ್ನು(ಸ್ಕ್ರಾಲ್‌ಬಾರ್‌) ಬಳಸಿ.">
-<!ENTITY  license.accept                  "ಕರಾರು ಒಡಂಬಡಿಕೆಯ ಕಾಯ್ದೆಗಳನ್ನು ಒಪ್ಪಿಕೊ">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "NOT, ನಾನು ಕರಾರು ಒಡಂಬಡಿಕೆಯ ಕಾಯ್ದೆಗಳನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುವುದಿಲ್ಲ">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "ಹೊಂದಕಿಯಾಗದೆ ಇರುವ ಆಡ್‌-ಆನ್‌ಗಳು ಕಂಡುಬಂದಿವೆ">
 
 <!ENTITY  downloadPage.title              "&brandShortName; ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ">
 <!ENTITY  downloading.intro               "ನವೀಕರಣವನ್ನು ಡೌನ್‍ಲೋಡ್‍ ಮಾಡಲಾಗುತ್ತಿದೆ...">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "ಮುಂದಿನ ಬಾರಿ &brandShortName; ಆರಂಭಗೊಂಡಾಗ ಅಪ್‌ಡೇಟ್ ಅನುಸ್ಥಾಪಿತಗೊಳ್ಳುತ್ತದೆ. ನೀವು &brandShortName; ಅನ್ನು ಈಗ ಆರಂಭಿಸಬಹುದು, ಅಥವ  ನಿಮ್ಮ ಕೆಲಸವನ್ನು ಮುಂದುವರೆಸಿ ತದನಂತರ ಮರು ಆರಂಭಿಸಿ.">
 
-<!ENTITY  installed.title                 "ನವೀಕರಣವು ಅನುಸ್ಥಾಪಿತಗೊಂಡಿದೆ">
-<!ENTITY  installed.intro                 "ನವೀಕರಣವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಅನುಸ್ಥಾಪಿಸಲಾಗಿದೆ.">
-<!ENTITY  whatsnew.label                  "ಹೊಸತೇನಿದೆ ಎನ್ನುವುದರ ಬಗ್ಗೆ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು ಓದಿ...">
 
 <!ENTITY  update.details.label            "ವಿವರಗಳು">
 <!ENTITY  update.installedOn.label        "ಅನುಸ್ಥಾಪಿತವಾದ ದಿನಾಂಕ:">

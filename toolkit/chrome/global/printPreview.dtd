@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "ಹೊಂದಿಕೊಳ್ಳುವಂತೆ ಕುಗ್ಗಿಸು">
 <!ENTITY customPrompt.title   "ಅಳತೆ ಸೂಚಿಸು...">
 
+
+
+
 <!ENTITY homearrow.tooltip    "ಮೊದಲ ಪುಟ">
 <!ENTITY endarrow.tooltip     "ಕೊನೆಯ ಪುಟ">
 <!ENTITY nextarrow.tooltip    "ಮುಂದಿನ ಪುಟ">
