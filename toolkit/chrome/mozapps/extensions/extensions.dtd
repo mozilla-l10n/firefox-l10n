@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Đang mở…">
-<!ENTITY listEmpty.installed.label            "Bạn không có tiện ích nào thuộc kiểu này được cài đặt">
+
 <!ENTITY listEmpty.availableUpdates.label     "Không tìm thấy cập nhật">
-<!ENTITY listEmpty.recentUpdates.label        "Bạn chưa cập nhật tiện ích nào gần đây">
+
 <!ENTITY listEmpty.findUpdates.label          "Kiểm tra cập nhật">
 <!ENTITY listEmpty.search.label               "Không thể tìm thấy tiện ích phù hợp">
 <!ENTITY listEmpty.button.label               "Tìm hiểu thêm về tiện ích">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Xóa">
 <!ENTITY cmd.uninstallAddon.accesskey         "X">
 <!ENTITY cmd.showPreferencesWin.label         "Tùy chọn">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Thay đổi tùy chọn của tiện ích này">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Tùy chỉnh">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Thay đổi tùy chỉnh của tiện ích này">
+
 <!ENTITY cmd.contribute.label                 "Đóng góp">
 <!ENTITY cmd.contribute.accesskey             "g">
 <!ENTITY cmd.contribute.tooltip               "Đóng góp vào sự phát triển của tiện ích này">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Tiện ích là gì?">
 <!ENTITY discover.description2                "Tiện ích là những ứng dụng cho phép bạn cá nhân hóa &brandShortName; bằng kiểu dáng hoặc chức năng phụ. Hãy thử một thanh lề tiết kiệm thời gian, một trình báo thời tiết, hoặc một giao diện để biến &brandShortName; thành của riêng bạn.">
-<!ENTITY discover.footer                      "Khi bạn kết nối mạng, bảng này sẽ giới thiệu một số tiện ích tốt nhất và thông dụng nhất để bạn thử.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Phiên bản">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Cập nhật tự động">
 <!ENTITY detail.updateDefault.label           "Mặc định">
-<!ENTITY detail.updateDefault.tooltip         "Chỉ tự động cài đặt cập nhật khi đó là mặc định">
+
 <!ENTITY detail.updateAutomatic.label         "Bật">
 <!ENTITY detail.updateAutomatic.tooltip       "Tự động cài đặt cập nhật">
 <!ENTITY detail.updateManual.label            "Tắt">
-<!ENTITY detail.updateManual.tooltip          "Không tự động cài đặt cập nhật">
+
 <!ENTITY detail.home                          "Trang chủ">
 <!ENTITY detail.repository                    "Hồ sơ tiện ích">
 <!ENTITY detail.size                          "Dung lượng">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Kiểm tra cập nhật cho tiện ích này">
 <!ENTITY detail.showPreferencesWin.label      "Tùy chọn">
 <!ENTITY detail.showPreferencesWin.accesskey  "y">
-<!ENTITY detail.showPreferencesWin.tooltip    "Thay đổi tùy chọn của tiện ích này">
+
 <!ENTITY detail.showPreferencesUnix.label     "Tùy chỉnh">
 <!ENTITY detail.showPreferencesUnix.accesskey "y">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Thay đổi tùy chỉnh của tiện ích này">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Đây là gì? Thỉnh thoảng, Telemetry có thể sẽ cài đặt và chạy một số thử nghiệm.">
 <!ENTITY experiment.info.learnmore "Tìm hiểu thêm">
 <!ENTITY experiment.info.learnmore.accesskey "T">
 <!ENTITY experiment.info.changetelemetry "Thiết lập Telemetry">

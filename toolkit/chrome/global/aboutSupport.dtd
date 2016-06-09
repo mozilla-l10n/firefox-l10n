@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Thông tin Gỡ rối vấn đề">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Trang này chứa thông tin kĩ thuật có thể có ích khi bạn đang cố giải quyết một vấn đề. Nếu bạn đang tìm câu trả lời cho các câu hỏi thông thường về &brandShortName;, hãy xem <a id='supportLink'>trang web hỗ trợ</a> của chúng tôi.">
-
 <!ENTITY aboutSupport.crashes.title "Trình báo lỗi">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -52,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Chuỗi đại diện Người dùng">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "Sử dụng Bộ nhớ">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Các service worker đã đăng ký">
@@ -83,6 +82,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Đồ họa">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
@@ -102,6 +104,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "Thử dùng Chế độ an toàn">
 <!ENTITY aboutSupport.restartInSafeMode.label "Khởi động lại, tắt hết các tiện ích…">
+
+
+
 
 
 

@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "&brandShortName; đã cũ nhưng phiên bản mới nhất không được hỗ trợ trên hệ thống của bạn. Hãy nâng cấp hệ thống và thử lại. Bạn sẽ không thấy thông báo này nữa nhưng bạn có thể">
 <!ENTITY  unsupportedLink.label           "tìm hiểu thêm.">
 
-<!ENTITY  incompatibleCheck.title         "Đang kiểm tra Tính tương thích của Tiện ích">
-<!ENTITY  incompatibleCheck.label         "Đang tìm phiên bản mới hơn cho tiện ích của bạn…">
-
 <!ENTITY  clickHere.label                 "Xem thêm thông tin về bản cập nhật này">
 
 <!ENTITY  evangelism.desc                 "Lời khuyên tốt nhất là bạn hãy cài đặt bản cập nhật này cho &brandShortName; càng sớm càng tốt.">
-
-<!ENTITY  license.instructions            "Nếu bạn đồng ý với các điều khoản của thỏa thuận này, nhấp Tôi Đồng ý bên dưới để tiếp tục cài đặt bản cập nhật này.">
-
-<!ENTITY  license.titleText               "Thỏa thuận Cấp phép Phần mềm">
-<!ENTITY  license.introText               "Các điều khoản và điều kiện để dùng phần mềm này.">
-<!ENTITY  license.instructionText         "Xin đọc kĩ thỏa thuận cấp phép sau. Dùng thanh cuộn để xem phần còn lại của thỏa thuận này.">
-<!ENTITY  license.accept                  "Tôi chấp nhận các điều khoản của Thỏa thuận Cấp phép này">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Tôi KHÔNG chấp nhận các điều khoản của Thỏa thuận Cấp phép này">
-<!ENTITY  license.decline.accesskey       "K">
-
-<!ENTITY  incompatibleList.title          "Tìm thấy Tiện ích Không tương thích">
 
 <!ENTITY  downloadPage.title              "Đang tải &brandShortName;">
 <!ENTITY  downloading.intro               "Đang tải bản cập nhật xuống…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Bản cập nhật sẽ được cài trong lần khởi động tới của &brandShortName;. Bạn có thể khởi động lại &brandShortName; ngay bây giờ, hoặc cứ tiếp tục sử dụng và khởi động lại sau.">
 
-<!ENTITY  installed.title                 "Bản Cập nhật đã được cài">
-<!ENTITY  installed.intro                 "Bản cập nhật đã được cài đặt thành công.">
-<!ENTITY  whatsnew.label                  "Đọc chi tiết về các đặc điểm mới…">
 
 <!ENTITY  update.details.label            "Chi tiết">
 <!ENTITY  update.installedOn.label        "Cài đặt vào:">
