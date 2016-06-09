@@ -26,10 +26,12 @@
 <!ENTITY bgColor.accesskey                    "т">
 <!ENTITY restoreHTMLDefaults.label            "Відновити типові значення">
 <!ENTITY restoreHTMLDefaults.accesskey        "В">
+<!ENTITY defaultToParagraph.label             "Використовувати типово формат абзацу замість основного тексту">
+<!ENTITY defaultToParagraph.accesskey         "б">
 
 <!ENTITY spellCheck.label                     "Перевіряти орфографію перед відсиланням листа">
 <!ENTITY spellCheck.accesskey                 "і">
-<!ENTITY spellCheckInline.label               "Перевіряти орфографію при наборі тексту">
+<!ENTITY spellCheckInline.label               "Перевіряти орфографію під час введення">
 <!ENTITY spellCheckInline1.accesskey          "е">
 <!ENTITY languagePopup.label                  "Мова:">
 <!ENTITY languagePopup.accessKey              "М">
@@ -43,8 +45,8 @@
 
 <!ENTITY emailCollectionPicker.label           "Автоматично додавати адреси з вихідних листів в:">
 <!ENTITY emailCollectionPicker.accesskey       "А">
-<!ENTITY addressingTitle.label                 "Автодоповнення адрес">
-<!ENTITY autocompleteText.label                "При введенні адреси шукати відповідні поштові адреси у:">
+<!ENTITY addressingTitle.label                 "Автозавершення адреси">
+<!ENTITY autocompleteText.label                "При введенні адреси шукати відповідні адреси у:">
 <!ENTITY addressingEnable.label                "Локальних адресних книгах">
 <!ENTITY addressingEnable.accesskey            "Л">
 <!ENTITY directories.label                     "Сервері каталогів:">
