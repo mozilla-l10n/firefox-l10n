@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "Minnka svo passi á síðu">
 <!ENTITY customPrompt.title   "Skali…">
 
+
+
+
 <!ENTITY homearrow.tooltip    "Fyrsta síða">
 <!ENTITY endarrow.tooltip     "Seinasta síða">
 <!ENTITY nextarrow.tooltip    "Næsta síða">

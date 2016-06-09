@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "&brandShortName; er úreldur, en nýjasta útgáfa er ekki með stuðning fyrir þitt stýrikerfi. Uppfærðu stýrikerfið, og reyndu aftur. Þú munt ekki sjá þessi skilaboð aftur, en þú getur">
 <!ENTITY  unsupportedLink.label           "frekari upplýsingar.">
 
-<!ENTITY  incompatibleCheck.title         "Athuga samhæfni viðbótar">
-<!ENTITY  incompatibleCheck.label         "Leita að uppfærðum viðbótum…">
-
 <!ENTITY  clickHere.label                 "Skoða meiri upplýsingar um uppfærslu">
 
 <!ENTITY  evangelism.desc                 "Við mælum með því að þú setjir inn þessa uppfærslu fyrir &brandShortName; eins fljótt og auðið er.">
-
-<!ENTITY  license.instructions            "Ef þú samþykkir skilmála þessa samnings, smelltu þá á Ég samþykki hérna fyrir neðan til að halda áfram uppsetningu.">
-
-<!ENTITY  license.titleText               "Hugbúnaðarleyfis samningur">
-<!ENTITY  license.introText               "Skilmálar fyrir notkun á þessum hugbúnaði.">
-<!ENTITY  license.instructionText         "Vinsamlegast lestu eftirfarandi skilmála. Notaðu skrunrönd til að skoða restina af samningnum.">
-<!ENTITY  license.accept                  "Ég samþykki skilmála samningsins">
-<!ENTITY  license.accept.accesskey        "g">
-<!ENTITY  license.decline                 "Ég samþykki EKKI skilmála samningsins">
-<!ENTITY  license.decline.accesskey       "E">
-
-<!ENTITY  incompatibleList.title          "Ósamhæfðar viðbætur fundust">
 
 <!ENTITY  downloadPage.title              "Niðurhala &brandShortName;">
 <!ENTITY  downloading.intro               "Niðurhala uppfærslu…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Uppfærslan verður sett inn í næsta skipti sem &brandShortName; verður endurræstur. Þú getur endurræst &brandShortName; núna, eða haldið áfram að vinna og endurræst seinna.">
 
-<!ENTITY  installed.title                 "Uppfærsla sett upp">
-<!ENTITY  installed.intro                 "Uppsetning uppfærslu tókst.">
-<!ENTITY  whatsnew.label                  "Lesa hvað er nýtt…">
 
 <!ENTITY  update.details.label            "Nánar">
 <!ENTITY  update.installedOn.label        "Sett upp:">

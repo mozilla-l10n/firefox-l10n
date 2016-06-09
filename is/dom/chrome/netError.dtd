@@ -76,8 +76,8 @@
 <!ENTITY cspBlocked.title "Lokað á vegna öryggisregla">
 <!ENTITY cspBlocked.longDesc "<p>Vafrinn kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur öryggisreglu sem kemur í veg fyrir það.</p>">
 
-<!ENTITY corruptedContentError.title "Villa skemmd gögn">
-<!ENTITY corruptedContentError.longDesc "<p>Ekki er hægt að sýna síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við vefsíðueiganda til að láta hann vita af vandamálinu.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Villa skemmd gögn">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ekki er hægt að sýna síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við vefsíðueiganda til að láta hann vita af vandamálinu.</li></ul>">
 
 <!ENTITY remoteXUL.title "Fjarlægt XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hafðu samband við eigendur vefsvæðins til að láta þá vita af þessu vandamáli.</li></ul></p>">
