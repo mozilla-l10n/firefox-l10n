@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "S'ha bloquiau por a politica de seguranza de conteniu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha privau que a pachina se cargue d'ista traza porque tiene una politica de seguranza de conteniu que no lo permite.</p>">
 
-<!ENTITY corruptedContentError.title "Error en o conteniu d'a pachina">
-<!ENTITY corruptedContentError.longDesc "<p>A pachina que ye mirando de veyer no se puede amostrar porque s'ha produciu una error en a transmisión d'os datos.</p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Error en o conteniu d'a pachina">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>A pachina que ye mirando de veyer no se puede amostrar porque s'ha produciu una error en a transmisión d'os datos.</p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema</li></ul>">
 
 <!ENTITY securityOverride.linkText "U puede adhibir-ie una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Quita-me d'aquí!">
