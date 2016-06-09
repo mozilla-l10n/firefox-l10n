@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "Q'aton ruma ri chajinel rupam na'oj">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xusamajib'ej ruxaq k'amaya'l pa rub'eyal re' ruma ruchajin jun runa'oj rujikomal rupam, ri man nuya' ta q'ij.</p>">
 
-<!ENTITY corruptedContentError.title "Sachoj ruma itzel rupam">
-<!ENTITY corruptedContentError.longDesc "<p>Ri ruxaq wuj tajin natojtob'ej natz'ët man tikirel ta nik'ut pe ruma xilitäj jun sachoj toq yeq'alajisäx pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Sachoj ruma itzel rupam">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ri ruxaq wuj tajin natojtob'ej natz'ët man tikirel ta nik'ut pe ruma xilitäj jun sachoj toq yeq'alajisäx pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Tikirel chuqa' natz'aqatisaj jun man relik ta…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Kinawelesaj el wawe'!">

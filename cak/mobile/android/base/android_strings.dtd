@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Ütz apetik">
-<!ENTITY  onboard_start_message3 "Katok pa k\u0027amaya\u0027l rik\u0027in &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Tab\u0027ana\u0027 chi ri awetamab\u0027al pa ruwi\u0027 okem pa k\u0027amaya\u0027l richin oyonib\u0027äl kan awichin wi.">
 
 <!ENTITY firstrun_urlbar_message "Ütz apetik pa &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Anin ke\u0027awila\u0027 taq wachinäq rik\u0027in kito\u0027ik ri taq ruq\u0027a\u0027 okem ichilab\u0027en richin kanoxïk.">
@@ -20,20 +18,25 @@
 <!ENTITY firstrun_signin_message "Katok, tatikirisaj">
 <!ENTITY firstrun_signin_button "Tatikirisaj molojri\u0027ïl pa Ximojri\u0027ïl">
 <!ENTITY  onboard_start_button_browser "Tichap okem pa k\u0027amaya\u0027l">
+
 <!ENTITY firstrun_button_next "Jun chik">
 
-<!ENTITY  onboard_start_restricted1 "Tichajin rik\u0027in re ko\u0027öl ruwäch chi &brandShortName;.">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
-<!ENTITY  reading_list_migration_title "Okixan ri rucholajem sik\u0027inem">
-<!ENTITY  reading_list_migration_subtext "Man xketz\u0027aqatisäx ta qa ri taq asamaj richin rucholajem sik\u0027inem pa taq Yaketal">
-<!ENTITY  reading_list_migration_goto_bookmarks "Tib\u0027an b\u0027enam pa Yaketal">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Ewan ri rupas Ayaketal">
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
+<!ENTITY  onboard_start_restricted1 "Tichajin rik\u0027in re ko\u0027öl ruwäch chi &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Yakäl taq etal">
 <!ENTITY  history_title "Natab\u0027äl">
-<!ENTITY  reading_list_title "Rucholajem sik\u0027inem">
 <!ENTITY  recent_tabs_title "K\u0027ak\u0027a\u0027 taq Tabs">
 
 <!ENTITY  switch_to_tab "Tiq\u0027asäx pa ri ruwi\u0027">
@@ -68,7 +71,10 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Chapoj taq ruwäch">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "Rucholajem sik\u0027inem">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
 
 <!ENTITY reader_saved_offline "Yakon pa k\u0027amab\u0027ey">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +180,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "NA\u0027OJ: Tatz\u0027aqatisaj xa b\u0027a achike chi ruxaq k\u0027amaya\u0027l pan acholajem ya\u0027öl kanoxïk rik\u0027in napïtz\u0027 qa yaloj pa ri ruk\u0027ojlem richin yakanon k\u0027a ri\u0027 nachäp qa ri ruwachib\u0027al &formatI;.">
 <!ENTITY pref_category_advanced "Q\u0027axinäq">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Kinuk\u0027ik taq ruwi\u0027, chajinel taq tzij, taq rusamajib\u0027al b\u0027anel">
 <!ENTITY pref_category_notifications "Taq rutzijol">
 <!ENTITY pref_category_notifications_summary "Ri k\u0027ak\u0027a\u0027 taq rub\u0027anikil, taq k\u0027exoj kiwäch taq ruxaq ajk\u0027amaya\u0027l">
@@ -224,6 +233,9 @@
 <!ENTITY pref_cookies_accept_all "Jaqon">
 <!ENTITY pref_cookies_not_accept_foreign "Jaqäl, manäq ri juley chik winäq">
 <!ENTITY pref_cookies_disabled "Man jaqäl ta">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_data_saver "Chajinel taq tzij">
 <!ENTITY pref_category_media "K\u0027ïy k\u0027oxom">
@@ -287,7 +299,10 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; taq ruxaq k\u0027amaya\u0027l k\u0027exon kiwäch">
-<!ENTITY content_notification_action_settings "Kinuk\u0027ulem ri taq tzijol">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -421,12 +436,12 @@ size. -->
 <!ENTITY share_image_failed "Majun nitikïr ta nikomonïx re jun wachib\u0027äl re\u0027">
 <!ENTITY save_as_pdf "Tiyak achi\u0027el jun PDF">
 <!ENTITY print "Titz\u0027ajb\u0027äx">
-<!ENTITY find_in_page "Tikanöx pa ruxaq">
-<!ENTITY desktop_mode "Tik\u0027utüx ruxaq k\u0027amayal richin tzub\u0027al">
+
+
 <!ENTITY page "Ruxaq">
 <!ENTITY tools "Taq samajib\u0027äl">
-<!ENTITY new_tab "K’ak’a’ ruwi’">
-<!ENTITY new_private_tab "K\u0027ak\u0027a\u0027 ichinan ruwi\u0027">
+
+
 <!ENTITY close_all_tabs "Ketz\u0027apïx konojel ri taq ruwi\u0027">
 <!ENTITY close_private_tabs "Ketz\u0027apïx ri ichinan taq ruwi\u0027">
 <!ENTITY tabs_normal "Taq ruwi\u0027">
@@ -436,8 +451,6 @@ size. -->
 <!ENTITY set_image_chooser_title "Tiya\u0027 kan ri wachib\u0027äl achi\u0027el">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Tikanöx pa ruxaq">
 <!ENTITY find_prev "Chuwäch">
 <!ENTITY find_next "Jun chik">
 <!ENTITY find_close "Titz\u0027apïx">
@@ -538,6 +551,7 @@ size. -->
 <!ENTITY home_history_title "Natab\u0027äl">
 <!ENTITY home_synced_devices_smartfolder "Ximon taq okisaxel">
 <!ENTITY home_synced_devices_number "&formatD; taq okisaxel">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_history_back_to2 "Jumul chik ri tz\u0027aqät Natab\u0027äl">
 <!ENTITY home_clear_history_button "Tiyuj el runatab\u0027al ri okik\u0027amaya\u0027l">
 <!ENTITY home_clear_history_confirm "¿La kan nawajo\u0027 nayüj el rupam ri natab\u0027äl?">
@@ -776,4 +790,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Tisik\u0027ïx pa k\u0027amab\u0027ey">
 <!ENTITY helper_first_offline_bookmark_message "Tawila\u0027 ri asik\u0027inel Ketz\u0027et taq ruch\u0027akulal Yaketal, achi\u0027el chuqa\u0027 toq majun okem pa k\u0027amaya\u0027l.">
-<!ENTITY helper_first_offline_bookmark_button "Tib\u0027an b\u0027enam pa Yaketal">
+
+
+
+
+
