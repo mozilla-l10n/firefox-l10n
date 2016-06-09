@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Informações sobre resolução de problemas">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  Esta página contém as informações técnicas que podem ser úteis para o ajudar a tentar resolver um problema. Se estiver à procura de respostas a questões comuns sobre o &brandShortName;, aceda ao nosso <a id='supportLink'>website de apoio</a>.">
+
 <!ENTITY aboutSupport.crashes.title "Relatórios de falha">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -113,6 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Registo de falha">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Registo de decisões">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funcionalidades desativadas do Crash Guard">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Alternativas">
