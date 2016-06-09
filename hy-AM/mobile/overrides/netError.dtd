@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "Արգելափակվել է Բովանդակության Անվտանգության Քաղաքականության կողմից">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;­­-ը խոչընդոտեց այս էջի բացումը, քանի որ էջի պարունակության անվտանգության կանոնակարգն արգելում է դա:</p>">
 
-<!ENTITY corruptedContentError.title "Բովանդակությունը վնասված է">
-<!ENTITY corruptedContentError.longDesc "<p>Տվյալ էջը չի կարող ցուցադրվել, քանի որ տեղի է ունեցնել տվյալների փոխանցման սխալ։</p><ul><li>Կապնվեք վեբ կայքի հեղինակների հետ՝ այս մասին հաղորդելու համար։</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Բովանդակությունը վնասված է">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Տվյալ էջը չի կարող ցուցադրվել, քանի որ տեղի է ունեցնել տվյալների փոխանցման սխալ։</p><ul><li>Կապնվեք վեբ կայքի հեղինակների հետ՝ այս մասին հաղորդելու համար։</li></ul>">
 
 <!ENTITY securityOverride.linkText "Կամ կարող եք ավելացնել բացառություն…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Դուրս բեր ինձ այստեղից:">
