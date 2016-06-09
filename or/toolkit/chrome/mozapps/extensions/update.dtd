@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "ସୁସଂଗତ ଏଡ଼-ଅନଗୁଡ଼ିକ ମିଳିଲା">
 <!ENTITY  found.top.label                 "ଆପଣ ସ୍ଥାପନ କରିବାକୁ ଚାହୁଁଥିବା ଏଡ଼-ଅନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ:">
-<!ENTITY  found.disabledXPinstall.label   "ଏହି ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରାଯାଇପାରିବ ନାହିଁ କାରଣ ସଫ୍ଟୱେର ସ୍ଥାପନକୁ ବର୍ତ୍ତମାନ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି। ତଳେ ଆପଣ ଏହି ବିନ୍ୟାସକୁ ପରିବର୍ତ୍ତନ କରିପାରିବେ।">
+
 <!ENTITY  found.enableXPInstall.label     "ସଫ୍ଟୱେର ସ୍ଥାପନ କରିବାକୁ ୱେବସାଇଟଗୁଡ଼ିକୁ ଅନୁମତି ଦିଅନ୍ତୁ">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 

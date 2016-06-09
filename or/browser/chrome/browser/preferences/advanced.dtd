@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "ଅପଡେଟସବୁ କଦାପି ଦେଖନ୍ତୁ ନାହିଁ (ଏଭଳି ନ କରିବା ପାଇଁ ପରାମର୍ଶ: ନିରାପତ୍ତା ଜନିତ ବିପଦ)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "ଯଦି ଏହା କୌଣସି ଏଡ-ଅନକୁ ନିଷ୍କ୍ରିୟ କରୁଛି ତେବେ ମୋତେ ସୂଚନା ଦିଅନ୍ତୁ">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "ଅପଡେଟ ଇତିହାସ ଦେଖାନ୍ତୁ">
 <!ENTITY updateHistory.accesskey         "p">
 
