@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bi xêr hatî">
-<!ENTITY  onboard_start_message3 "Bi &brandShortName;ê bigerin">
-<!ENTITY  onboard_start_subtext3 "Bila cerebeya we ya gera li ser Webê ji we re bimîne.">
 
 <!ENTITY firstrun_urlbar_message "Bi xêr hatî &brandShortName;ê">
 <!ENTITY firstrun_urlbar_subtext "Bi kurteriyên pêşniyarên lêgerînê yên bikêrhatî tiştan zûtir bibînin.">
@@ -20,20 +18,25 @@
 <!ENTITY firstrun_signin_message "Girêdanê çêke, dest pê bike">
 <!ENTITY firstrun_signin_button "Têkeve Syncê">
 <!ENTITY  onboard_start_button_browser "Dest bi gerê bike">
+
 <!ENTITY firstrun_button_next "Pêşve">
 
-<!ENTITY  onboard_start_restricted1 "Bi versiyona hêsankirî ya &brandShortName;\u0027ê re ewle û xwedankontrol bin.">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
-<!ENTITY  reading_list_migration_title "Lîsteya Xwendinê hat girêdan">
-<!ENTITY  reading_list_migration_subtext "Hêmanên Lîsteya te ya xwendinê dê niha li Bijareyan bên zêdekirin">
-<!ENTITY  reading_list_migration_goto_bookmarks "Here Bijareyan">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Panela te ya Bijareyan veşartî ye">
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
+<!ENTITY  onboard_start_restricted1 "Bi versiyona hêsankirî ya &brandShortName;\u0027ê re ewle û xwedankontrol bin.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Bijare">
 <!ENTITY  history_title "Raborî">
-<!ENTITY  reading_list_title "Lîsteya Xwendinê">
 <!ENTITY  recent_tabs_title "Hilpekînên dawiyê">
 
 <!ENTITY  switch_to_tab "Biçe hilpekînê">
@@ -68,7 +71,10 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Wêneekran">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "Lîsteya Xwendinê">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
 
 <!ENTITY reader_saved_offline "Negirêdanê tomar bû">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +180,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "TIP: Li ser qada lêgerînê dirêj pêlê bike û paşê îkona &formatI;\u0027ê bitikîne ku malperan têxî nav pêşkêşkarên lêgerînê.">
 <!ENTITY pref_category_advanced "Pêşketî">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Hilpekînan veava bike, teserufa daneyan, amûrên pêşvebirinê">
 <!ENTITY pref_category_notifications "Agahdarî">
 <!ENTITY pref_category_notifications_summary "Taybetiyên nû, nûbûnên malperê">
@@ -224,6 +233,9 @@
 <!ENTITY pref_cookies_accept_all "Çalak">
 <!ENTITY pref_cookies_not_accept_foreign "Çalak, ji bî partiyên 3yemîn">
 <!ENTITY pref_cookies_disabled "Neçalak">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_data_saver "Teserufa daneyan">
 <!ENTITY pref_category_media "Medya">
@@ -287,7 +299,10 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; malper hatin nûkirin">
-<!ENTITY content_notification_action_settings "Eyarên Hişyariyan">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -421,12 +436,12 @@ size. -->
 <!ENTITY share_image_failed "Wêne nikare bê parvekirin">
 <!ENTITY save_as_pdf "Wek PDF tomar bike">
 <!ENTITY print "Çap bike">
-<!ENTITY find_in_page "Di rûpelê de bibîne">
-<!ENTITY desktop_mode "Sîteya Sermaseyê Bixwaze">
+
+
 <!ENTITY page "Rûpel">
 <!ENTITY tools "Amûr">
-<!ENTITY new_tab "Hilpekîna Nû">
-<!ENTITY new_private_tab "Hilpekîna Nû Ya Taybet">
+
+
 <!ENTITY close_all_tabs "Hemû Hilpekînan Bigire">
 <!ENTITY close_private_tabs "Hilpekînên Taybet Bigire">
 <!ENTITY tabs_normal "Hilpekîn">
@@ -436,8 +451,6 @@ size. -->
 <!ENTITY set_image_chooser_title "Wêneyî eyar bike">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Di Rûpelê De Bibîne">
 <!ENTITY find_prev "Paşve">
 <!ENTITY find_next "Pêşve">
 <!ENTITY find_close "Bigire">
@@ -538,6 +551,7 @@ size. -->
 <!ENTITY home_history_title "Raborî">
 <!ENTITY home_synced_devices_smartfolder "Cîhazên synkkirî">
 <!ENTITY home_synced_devices_number "&formatD; cîhaz">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_history_back_to2 "Vegere hemû Raboriyê">
 <!ENTITY home_clear_history_button "Raboriya gerê jê bibe">
 <!ENTITY home_clear_history_confirm "Tu ji dil dixwazî ku raboriyê jê bibî?">
@@ -744,6 +758,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+
+
+
 
 
 
