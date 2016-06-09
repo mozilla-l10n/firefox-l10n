@@ -11,25 +11,6 @@
 
 
 <!ENTITY toolboxCloseButton.tooltip    "ડેવલપર સાધનોને બંધ કરો">
-<!ENTITY toolboxOptionsButton.key      "O">
-<!ENTITY toolboxNextTool.key           "]">
-<!ENTITY toolboxPreviousTool.key       "[">
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey, fullZoomEnlargeCmd.commandkey2,
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey,
-fullZoomReduceCmd.commandkey2, fullZoomResetCmd.commandkey,
-and fullZoomResetCmd.commandkey2 should all match the corresponding
-values from browser.dtd.  -->
-
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY toolboxReload.key             "r">
-<!-- This key is used with the accel+shift modifiers to minimize the toolbox -->
-
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
   -  It allows you to switch the context of the whole toolbox. -->
@@ -111,12 +92,10 @@ values from browser.dtd.  -->
 
 <!ENTITY options.disableJavaScript.label     "JavaScript * ને સક્રિય કરો">
 <!ENTITY options.disableJavaScript.tooltip   "આ વિકલ્પને ચાલુ રાખવાથી વર્તમાન ટૅબ માટે JavaScript નિષ્ક્રિય થઇ જશે. જો ટૅબ અથવા સાધનબોક્સ બંધ થયેલ છે પછી આ સુયોજન ભૂલ થઇ જશે.">
-<!-- LOCALIZATION NOTE (options.disableCache.label2,
-  -  options.disableCache.tooltip2): This is the options panel label and
-  -  tooltip for the checkbox that toggles the cache on or off. -->
+<!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
+  -  options.disableHTTPCache.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
-<!ENTITY options.disableCache.label2     "કેશને નિષ્ક્રિય કરો (જ્યારે સાધનબોક્સ ખુલ્લુ હોય)">
-<!ENTITY options.disableCache.tooltip2   "આ વિકલ્પને ચાલુ રાખવાનું બધા ટૅબ માટે કેશને નિષ્ક્રિય કરશે કે જેની પાસે સાધનબોક્સ ખુલ્લુ છે.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
@@ -207,4 +186,3 @@ values from browser.dtd.  -->
 <!ENTITY options.sourceeditor.keybinding.label          "કીબાઇન્ડીંગ">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "મૂળભૂત">
-
