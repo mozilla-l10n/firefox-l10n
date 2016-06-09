@@ -4,6 +4,7 @@
 
 <!ENTITY searchreset.tabtitle       "ရှာဖွေမှုအပြင်အဆင်များကို သိမ်းခဲ့သည့်အတိုင်း သတ်မှတ်ရန်">
 
+<!ENTITY searchreset.pageTitle      "ရှာဖွေမှုအပြင်အဆင်များကို သင်သိမ်းခဲ့သည့်အတိုင်း သတ်မှတ်မည် ဟုတ်ပါသလား။">
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
@@ -14,7 +15,10 @@ Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
 
 
+<!ENTITY searchreset.link.pageInfo2       "အပြင်အဆင် စာမျက်နှာ">
 
+<!ENTITY searchreset.noChangeButton        "မပြောင်းလဲပါနှင့်">
+<!ENTITY searchreset.noChangeButton.access "D">
 
-
-
+<!ENTITY searchreset.changeEngineButton        "ရှာဖွေရေး ယန္တရားကို ပြောင်းလဲအသုံးပြုရန်">
+<!ENTITY searchreset.changeEngineButton.access "C">

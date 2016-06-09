@@ -23,6 +23,10 @@
 <!ENTITY restorepage.windowLabel    "၀င်းဒိုး &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "စကြစို့။">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "အောင်မြင်ပါသည်။">
