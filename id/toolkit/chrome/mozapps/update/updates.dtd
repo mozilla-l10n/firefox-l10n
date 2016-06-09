@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Versi &brandShortName; adalah versi lawas, tetapi versi baru tidak didukung sistem Anda. Silakan tingkatkan versi sistem Anda, lalu coba lagi. Anda tidak akan mendapatkan pemberitahuan ini lagi, tetapi Anda dapat">
 <!ENTITY  unsupportedLink.label           "mempelajarinya lebih lanjut.">
 
-<!ENTITY  incompatibleCheck.title         "Pemeriksaan Kompatibilitas Pengaya">
-<!ENTITY  incompatibleCheck.label         "Memeriksa versi baru pengaya Anda…">
-
 <!ENTITY  clickHere.label                 "Lihat informasi lebih lanjut tentang pemutakhiran ini">
 
 <!ENTITY  evangelism.desc                 "Sangat disarankan agar Anda menerapkan pemutakhiran &brandShortName; ini sesegera mungkin.">
-
-<!ENTITY  license.instructions            "Apabila Anda setuju dengan syarat persetujuan ini, klik Saya Setuju di bawah ini untuk melanjutkan pemasangan versi baru ini.">
-
-<!ENTITY  license.titleText               "Perjanjian Lisensi Perangkat Lunak">
-<!ENTITY  license.introText               "Persyaratan penggunaan perangkat lunak.">
-<!ENTITY  license.instructionText         "Silakan dibaca perjanjian lisensi berikut. Gunakan bilah penggeser untuk melihat sisa bacaan perjanjian.">
-<!ENTITY  license.accept                  "Saya menyetujui persyaratan Perjanjian Lisensi">
-<!ENTITY  license.accept.accesskey        "S">
-<!ENTITY  license.decline                 "Saya TIDAK menyetujui Perjanjian Lisensi">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Pengaya yang Tidak Kompatibel Ditemukan">
 
 <!ENTITY  downloadPage.title              "Mengunduh &brandShortName;">
 <!ENTITY  downloading.intro               "Mengunduh versi baru…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Pemutakhiran akan dipasang saat &brandShortName; dimulai lagi. Anda dapat memulai ulang &brandShortName; sekarang juga atau tetap bekerja dan memulai ulang nanti.">
 
-<!ENTITY  installed.title                 "Versi Baru Terpasang">
-<!ENTITY  installed.intro                 "Versi baru sukses dipasang.">
-<!ENTITY  whatsnew.label                  "Baca tentang hal baru…">
 
 <!ENTITY  update.details.label            "Detail">
 <!ENTITY  update.installedOn.label        "Dipasang pada:">

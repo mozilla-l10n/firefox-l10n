@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Jangan pernah memeriksa pemutakhiran (tidak disarankan: berisiko keamanan)">
 <!ENTITY updateManual.accesskey          "J">
 
-<!ENTITY updateAutoAddonWarn.label       "Peringatkan saya jika pemutakhiran akan menonaktifkan satu atau beberapa pengaya">
-<!ENTITY updateAutoAddonWarn.accesskey   "P">
-
 <!ENTITY updateHistory.label             "Tampilkan Riwayat Pemutakhiran">
 <!ENTITY updateHistory.accesskey         "w">
 
