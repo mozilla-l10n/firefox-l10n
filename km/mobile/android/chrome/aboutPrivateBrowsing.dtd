@@ -13,7 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "អ្នក​មិន​ស្ថិត​នៅ​ក្នុង​ការ​រក​មើល​ជា​ឯកជន​ទេ">
 
-
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; ទប់ស្កាត់​ផ្នែក​នានា​នៃ​ទំព័រ​ទាំងឡាយ​ណា​ដែល​អាច​តាមដាន​សកម្មភាព​ប្រើប្រាស់​អ៊ីនធឺណិត​របស់​អ្នក។">
+<!ENTITY privatebrowsingpage.description.privateDetails "យើង​មិន​ចងចាំ​ប្រវត្តិ​ណា​មួយ​នៅ​ក្នុង​ការ​ប្រើប្រាស់​ទេ ប៉ុន្តែ​ឯកសារ​ដែល​បាន​ទាញ​យក​និង​ចំណាំ​ថ្មីៗ​ដែល​បាន​បង្កើត នឹង​នៅតែ​ត្រូវ​រក្សាទុក​ក្នុង​ឧបករណ៍​របស់​អ្នក។">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
