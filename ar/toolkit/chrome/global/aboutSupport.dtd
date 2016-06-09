@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "معلومات مواجهة الأعطال">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  تحتوي هذه الصفحة معلومات تقنية قد تكون مفيدة عندما تحاول حل مشكلة ما. إن كنت تبحث عن إجابات لأسئلة شائعة تخص &brandShortName;، تحقق من <a id='supportLink'>موقع الدعم</a>.">
-
 <!ENTITY aboutSupport.crashes.title "بلاغات الانهيار">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -52,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "عميل المستخدم">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "استخدام الذاكرة">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
@@ -82,6 +81,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "الرسوميات">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "جافاسكربت">
 <!ENTITY aboutSupport.jsIncrementalGC "جامع القمامة التزايدي">
 
@@ -101,6 +103,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "جرّب الوضع الآمن">
 <!ENTITY aboutSupport.restartInSafeMode.label "أعِد التشغيل مع تعطيل الإضافات…">
+
+
+
 
 
 
