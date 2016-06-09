@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "Užblokuota dėl saugumo politikos">
 <!ENTITY cspBlocked.longDesc "<p>„&brandShortName;“ neleido įkelti šio tinklalapio, nes jo saugumo politika neleidžia turinio įterpti nurodytuoju būdu.</p>">
 
-<!ENTITY corruptedContentError.title "Klaida: duomenys pažeisti">
-<!ENTITY corruptedContentError.longDesc "<p>Tinklalapio, kurį bandote atverti, parodyti negalima, nes, perduodant duomenis, įvyko klaida.</p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Klaida: duomenys pažeisti">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Tinklalapio, kurį bandote atverti, parodyti negalima, nes, perduodant duomenis, įvyko klaida.</p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Galite sukurti išimtį…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Išeiti">
