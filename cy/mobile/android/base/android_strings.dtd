@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Croeso">
-<!ENTITY  onboard_start_message3 "Pori gyda &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Gwnewch eich profiad pori ar y we yn un cartrefol.">
 
 <!ENTITY firstrun_urlbar_message "Croeso i &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Canfod pethau\u0027n gynt gydag llwybrau byr awgrymiadau defnyddiol.">
@@ -20,20 +18,25 @@
 <!ENTITY firstrun_signin_message "Cysylltu a chychwyn arni">
 <!ENTITY firstrun_signin_button "Mewngofnodwch i Sync">
 <!ENTITY  onboard_start_button_browser "Cychwyn Pori">
+
 <!ENTITY firstrun_button_next "Nesaf">
 
-<!ENTITY  onboard_start_restricted1 "Cadwch yn ddiogel ac mewn reolaeth gyda\u0027r fersiwn symlach yma o &brandShortName;.">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
-<!ENTITY  reading_list_migration_title "Cysylltwyd y Rhestr Ddarllen">
-<!ENTITY  reading_list_migration_subtext "Bydd eich eitemau Rhestr Ddarllen yn cael eu hychwanegu i\u0027ch Nodau Tudalen">
-<!ENTITY  reading_list_migration_goto_bookmarks "Mynd i\u0027r Nodau Tudalen">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Mae eich panel Nodau Tudalen wedi ei guddio">
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
+<!ENTITY  onboard_start_restricted1 "Cadwch yn ddiogel ac mewn reolaeth gyda\u0027r fersiwn symlach yma o &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Nodau Tudalen">
 <!ENTITY  history_title "Hanes">
-<!ENTITY  reading_list_title "Rhestr Ddarllen">
 <!ENTITY  recent_tabs_title "Tabiau Diweddar">
 
 <!ENTITY  switch_to_tab "Newid i\u0027r tab">
@@ -68,7 +71,10 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Lluniau Sgrin">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "Rhestr Ddarllen">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
 
 <!ENTITY reader_saved_offline "Cadwyd all-lein">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +180,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Awgrym: Ychwanegwch unrhyw wefan i\u0027ch rhestr o ddarparwyr chwilio drwy bwyso\u0027n hir ar y maes chwilio ac yna tapio ar yr eicon &formatI;.">
 <!ENTITY pref_category_advanced "Uwch">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Adfer tabiau, arbedwr data, offer datblygwyr">
 <!ENTITY pref_category_notifications "Hysbysiadau">
 <!ENTITY pref_category_notifications_summary "Nodweddion newydd, diweddariadau gwefan">
@@ -224,6 +233,9 @@
 <!ENTITY pref_cookies_accept_all "Galluogwyd">
 <!ENTITY pref_cookies_not_accept_foreign "Galluogwyd, eithrio 3ydd parti">
 <!ENTITY pref_cookies_disabled "Analluogwyd">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_data_saver "Arbedwr data">
 <!ENTITY pref_category_media "Cyfrwng">
@@ -287,7 +299,10 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; gwefannau wedi eu diweddaru">
-<!ENTITY content_notification_action_settings "Gosodiadau Hysbysiadau">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -421,12 +436,12 @@ size. -->
 <!ENTITY share_image_failed "Methu rhannu\u0027r ddelwedd">
 <!ENTITY save_as_pdf "Cadw fel PDF">
 <!ENTITY print "Argraffu">
-<!ENTITY find_in_page "Canfod yn y Dudalen">
-<!ENTITY desktop_mode "Gofyn am Wefan Lawn">
+
+
 <!ENTITY page "Tudalen">
 <!ENTITY tools "Offer">
-<!ENTITY new_tab "Tab Newydd">
-<!ENTITY new_private_tab "Tab Preifat Newydd">
+
+
 <!ENTITY close_all_tabs "Cau Pob Tab">
 <!ENTITY close_private_tabs "Cau Tabiau Preifat">
 <!ENTITY tabs_normal "Tabiau">
@@ -436,8 +451,6 @@ size. -->
 <!ENTITY set_image_chooser_title "Gosod Delwedd Fel">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Canfod yn y Dudalen">
 <!ENTITY find_prev "Blaenorol">
 <!ENTITY find_next "Nesaf">
 <!ENTITY find_close "Cau">
@@ -538,6 +551,7 @@ size. -->
 <!ENTITY home_history_title "Hanes">
 <!ENTITY home_synced_devices_smartfolder "Dyfeisiau cydweddwyd ">
 <!ENTITY home_synced_devices_number "&formatD; dyfeisiadau">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_history_back_to2 "Nôl i\u0027r Hanes llawn">
 <!ENTITY home_clear_history_button "Clirio eich hanes pori">
 <!ENTITY home_clear_history_confirm "Ydych chi\u0027n siŵr eich bod chi eisiau clirio eich hanes?">
@@ -776,4 +790,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Darllen all-lein">
 <!ENTITY helper_first_offline_bookmark_message "Canfod eich eitemau Golwg Darllen yn Nodau Tudalen, hyd yn oed all-lein.">
-<!ENTITY helper_first_offline_bookmark_button "Mynd i\u0027r Nodau Tudalen">
+
+
+
+
+
