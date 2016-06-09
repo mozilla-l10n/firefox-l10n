@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "સુધારાઓ માટે ક્યારેય ચકાસો નહિં (આગ્રહણીય નથી: સુરક્ષા જોખમ)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "જો આ મારા કોઇ-પણ એડ-ઑન નિષ્ક્રિય કરે તો મને ચેતવણી આપજો">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "સુધારા ઇતિહાસ બતાવો">
 <!ENTITY updateHistory.accesskey         "p">
 

@@ -74,8 +74,8 @@ was trying to connect. -->
 
 
 
-<!ENTITY corruptedContentError.title "બગડેલું વસ્તુ સંપાદક">
-<!ENTITY corruptedContentError.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે બતાવી શકાશે નહિં કારણ કે માહિતીના પરિવહનમાં ક્ષતિ મળી આવી છે.</p><ul><li>મહેરબાની કરીને આ સમસ્યાની જાણ કરવા માટે વેબસાઇટના માલિકનો સંપર્ક કરો.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "બગડેલું વસ્તુ સંપાદક">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે બતાવી શકાશે નહિં કારણ કે માહિતીના પરિવહનમાં ક્ષતિ મળી આવી છે.</p><ul><li>મહેરબાની કરીને આ સમસ્યાની જાણ કરવા માટે વેબસાઇટના માલિકનો સંપર્ક કરો.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "અપવાદ એડ-ઓન">
@@ -93,9 +93,13 @@ was trying to connect. -->
 
 
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

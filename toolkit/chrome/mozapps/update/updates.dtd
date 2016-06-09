@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "તમારી &brandShortName; ની તારીખની સમાપ્તિ છે, પરંતુ તાજેતરની આવૃત્તિ તમારી સિસ્ટમ પર આધારભૂત નથી. મહેરબાની કરીને તમારી સિસ્ટમને સુધારો, પછી ફરી પ્રયત્ન કરો. તમે ફરી આ સૂચનાને જોશો નહિં, પરંતુ તમે કરી શકો છો">
 <!ENTITY  unsupportedLink.label           "વધારે શીખો.">
 
-<!ENTITY  incompatibleCheck.title         "એડ-ઓન સુસંગતતા ચકાસી રહ્યા છીએ">
-<!ENTITY  incompatibleCheck.label         "તમારા એડ-ઓનની નવી આવૃત્તિઓ માટે જોઈ રહ્યા છીએ...">
-
 <!ENTITY  clickHere.label                 "અહીં ક્લિક કરો">
 
 <!ENTITY  evangelism.desc                 "એ ખૂબ આગ્રહણીય છે કે તમે  &brandShortName; માટે શક્ય એટલો જલદી સુધારો લાગુ કરો.">
-
-<!ENTITY  license.instructions            "જો તમે આ મંજૂરીપત્રની શરતો સાથે મંજૂર થઈ જાઓ, તો આ સુધારો સ્થાપિત કરવા સાથે ચાલુ રાખવા માટે હું મંજૂર છું એમ ક્લિક કરો.">
-
-<!ENTITY  license.titleText               "સોફ્ટવેર લાઈસન્સ મંજૂરીપત્ર">
-<!ENTITY  license.introText               "આ સોફ્ટવેર વાપરવાની શરતો અને કાયદાઓ.">
-<!ENTITY  license.instructionText         "મહેરબાની કરીને નીચેનું લાઈસન્સ મંજૂરીપત્ર વાંચો. આ મંજૂરીપત્રની બાકીની વસ્તુઓ જોવા માટે સરકપટ્ટી વાપરો.">
-<!ENTITY  license.accept                  "હું લાઈસન્સ મંજૂરીપત્રની શરતો સ્વીકારું છું">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "હું લાઈસન્સ મંજૂરીપત્રની શરતો સ્વીકારતો નથી">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "અસુસંગત એડ-ઓન મળ્યા">
 
 <!ENTITY  downloadPage.title              "&brandShortName; ને ડાઉનલોડ કરી રહ્યા છે">
 <!ENTITY  downloading.intro               "સુધારાઓ ડાઉનલોડ કરી રહ્યા છીએ:">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "સુધારો ફરીવાર જ્યારે તમે &brandShortName; શરૂ કરો ત્યારે સ્થાપિત થઈ જશે. તમે &brandShortName; ને હમણાં પુનઃશરૂ કરી શકો, કે પછી કામ કરવાનું ચાલુ રાખો અને પછીથી પુનઃશરૂ કરો.">
 
-<!ENTITY  installed.title                 "સુધારો સ્થાપિત થઈ ગયો">
-<!ENTITY  installed.intro                 "સુધારો સફળતાપૂર્વક સ્થાપિત થઈ ગયો હતો.">
-<!ENTITY  whatsnew.label                  "શું નવું છે એના વિશે વધુ વાંચો...">
 
 <!ENTITY  update.details.label            "વિગતો">
 <!ENTITY  update.installedOn.label        "પર સ્થાપિત થયેલ:">
