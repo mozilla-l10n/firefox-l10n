@@ -80,8 +80,8 @@
 <!ENTITY cspBlocked.title "সমল সুৰক্ষা নীতিৰ দ্বাৰা প্ৰতিৰোধিত">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; পৃষ্ঠাটোক এই ধৰনে লোড হোৱাৰ পৰা প্ৰতিৰোধ কৰিলে কাৰণ পৃষ্ঠাটোৰ এটা সমল সুৰক্ষা নীতি আছে যিটোৱে ইয়াৰ অনুমতি নিদিয়ে</p>">
 
-<!ENTITY corruptedContentError.title "ক্ষতিগ্ৰস্থ সমল ত্ৰুটি">
-<!ENTITY corruptedContentError.longDesc "<p>তথ্য পৰিবহনত এটা ত্ৰুটিৰ বাবে আপুনি দৰ্শন কৰিব বিচৰা পৃষ্ঠা দেখাব নোৱাৰি।</p><ul><li>অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীসকলক এই সমস্যা জনাওক।</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "ক্ষতিগ্ৰস্থ সমল ত্ৰুটি">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>তথ্য পৰিবহনত এটা ত্ৰুটিৰ বাবে আপুনি দৰ্শন কৰিব বিচৰা পৃষ্ঠা দেখাব নোৱাৰি।</p><ul><li>অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীসকলক এই সমস্যা জনাওক।</li></ul>">
 
 <!ENTITY securityOverride.linkText "বা আপুনি এটা ব্যতিক্ৰম যোগ কৰিব পাৰে…">
 <!ENTITY securityOverride.getMeOutOfHereButton "মোক ইয়াৰ পৰা লৈ যাওক!">
