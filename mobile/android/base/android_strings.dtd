@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "स्वागत">
-<!ENTITY  onboard_start_message3 "&brandShortName; सोबत ब्राउझ करा">
-<!ENTITY  onboard_start_subtext3 "आपला मोबाईल वेब ब्राउझिंग अनुभव खऱ्या अर्थाने स्वतःचा बनवा.">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; मध्ये आपले स्वागत आहे">
 <!ENTITY firstrun_urlbar_subtext "उपयुक्त शोध सूचना शॉर्टकट्सने गोष्टी जलद शोधा. ">
@@ -20,20 +18,25 @@
 <!ENTITY firstrun_signin_message "जोडणी करा, प्रारंभ करा">
 <!ENTITY firstrun_signin_button "सींक करण्यासाठी साइन इन करा">
 <!ENTITY  onboard_start_button_browser "ब्राउझिंगला सुरुवात करा">
+
 <!ENTITY firstrun_button_next "पुढे">
 
-<!ENTITY  onboard_start_restricted1 "&brandShortName; या सोप्या आवृत्तीसह सुरक्षित आणि नियंत्रित रहा.">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
-<!ENTITY  reading_list_migration_title "वाचन सूची जोडली आहे">
-<!ENTITY  reading_list_migration_subtext "आपल्या वाचन सूचीतील घटक आता आपल्या वाचणखूणांशी जोडले जातील">
-<!ENTITY  reading_list_migration_goto_bookmarks "वाचणखूणांकडे जा">
-<!ENTITY  reading_list_migration_bookmarks_hidden "आपल्या वाचणखूणांचा पॅनल लपलेला आहे">
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
+<!ENTITY  onboard_start_restricted1 "&brandShortName; या सोप्या आवृत्तीसह सुरक्षित आणि नियंत्रित रहा.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "वाचनखूणा">
 <!ENTITY  history_title "इतिहास">
-<!ENTITY  reading_list_title "वाचन यादी">
 <!ENTITY  recent_tabs_title "अलीकडील टॅब">
 
 <!ENTITY  switch_to_tab "टॅबवर जा">
@@ -68,7 +71,10 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "स्क्रीनशॉटस्">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "वाचन यादी">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
 
 <!ENTITY reader_saved_offline "ऑफलाईन साठविलेले">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +180,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "टीप: शोध क्षेत्रात दीर्घकाळ-दाबुन आणि &formatI; चिन्हावर थाप मारुन कुठलीपण वेबसाइट आपल्या शोध पुरविणारे यादीत समाविष्ट करा.">
 <!ENTITY pref_category_advanced "प्रगत">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "टॅब्स, प्लगइन, विकसक साधने मूळस्थितीत आणा">
 <!ENTITY pref_category_notifications "सूचना">
 <!ENTITY pref_category_notifications_summary "नवीन वैशिष्ट्ये, वेबसाइट अद्ययावत">
@@ -224,6 +233,9 @@
 <!ENTITY pref_cookies_accept_all "कार्यान्वीत">
 <!ENTITY pref_cookies_not_accept_foreign "तिसरा पक्ष सोडुन, सक्षम">
 <!ENTITY pref_cookies_disabled "निष्क्रिय">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_data_saver "डाटा सर्व्हर">
 <!ENTITY pref_category_media "मेडिया">
@@ -287,7 +299,10 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; वेबसाइट अद्ययावत">
-<!ENTITY content_notification_action_settings "सूचना सेटिंग्स्">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -421,12 +436,12 @@ size. -->
 <!ENTITY share_image_failed "ही प्रतिमा शेअर करु शकत नाही">
 <!ENTITY save_as_pdf "PDF म्हणून साठवा">
 <!ENTITY print "छापा">
-<!ENTITY find_in_page "पानात शोधा">
-<!ENTITY desktop_mode "डेस्कटॉप साइटची विनंती करा">
+
+
 <!ENTITY page "पान">
 <!ENTITY tools "साधने">
-<!ENTITY new_tab "नवीन टॅब">
-<!ENTITY new_private_tab "नवीन खाजगी टॅब">
+
+
 <!ENTITY close_all_tabs "सर्व टॅब बंद करा">
 <!ENTITY close_private_tabs "खाजगी टॅब बंद करा">
 <!ENTITY tabs_normal "टॅब्स">
@@ -436,8 +451,6 @@ size. -->
 <!ENTITY set_image_chooser_title "या साठी प्रतिमा वापरा">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "पानात शोधा">
 <!ENTITY find_prev "मागील">
 <!ENTITY find_next "पुढे">
 <!ENTITY find_close "बंद">
@@ -538,6 +551,7 @@ size. -->
 <!ENTITY home_history_title "इतिहास">
 <!ENTITY home_synced_devices_smartfolder "सींक झालेले उपकरणे">
 <!ENTITY home_synced_devices_number "&formatD; उपकरणे">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_history_back_to2 "पूर्ण इतिहास कडे जा">
 <!ENTITY home_clear_history_button "ब्राऊजिंग इतिहास पुसा">
 <!ENTITY home_clear_history_confirm "आपला इतिहास पुसण्याबद्दल आपली खात्री आहे का?">
@@ -776,4 +790,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "ऑफलाइन वाचा">
 <!ENTITY helper_first_offline_bookmark_message "वाचणखूणां मध्ये आपले वाचक दृश्य घटक शोधा, अगदी ऑफलाइन सुद्धा.">
-<!ENTITY helper_first_offline_bookmark_button "वाचणखूणांकडे जा">
+
+
+
+
+
