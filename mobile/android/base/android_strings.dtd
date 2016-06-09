@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Вітаємо">
-<!ENTITY  onboard_start_message3 "Переглядайте з &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Зробіть свій мобільний перегляд Інтернету дійсно унікальним.">
 
 <!ENTITY firstrun_urlbar_message "Вітаємо в &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Знаходьте швидше з корисними ярликами пошукових пропозицій.">
@@ -20,20 +18,32 @@
 <!ENTITY firstrun_signin_message "Підключайтеся й починайте">
 <!ENTITY firstrun_signin_button "Увійти до Синхронізації">
 <!ENTITY  onboard_start_button_browser "Почати перегляд">
+<!ENTITY firstrun_button_notnow "Не зараз">
 <!ENTITY firstrun_button_next "Далі">
 
-<!ENTITY  onboard_start_restricted1 "Залишайтеся в безпеці та на контролі з цією спрощеною версією &brandShortName;.">
+<!ENTITY firstrun_tabqueue_title "Посилання">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Увімкнути чергу вкладок">
+<!ENTITY firstrun_tabqueue_subtext_off "Зберігайте посилання на потім в &brandShortName; при відкритті їх з інших програм.">
 
-<!ENTITY  reading_list_migration_title "Список читання під’єднано">
-<!ENTITY  reading_list_migration_subtext "Елементи вашого списку читання зараз будуть додані до закладок">
-<!ENTITY  reading_list_migration_goto_bookmarks "Перейти до закладок">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Панель закладок приховано">
+<!ENTITY firstrun_tabqueue_message_on "Успішно!">
+<!ENTITY firstrun_tabqueue_subtext_on "Ви завжди можете вимкнути це в &settings; розділу &pref_category_general;.">
+
+<!ENTITY firstrun_readerview_title "Статті">
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Прибрати сміття">
+<!ENTITY firstrun_readerview_subtext "Використовуйте режим читання, щоб зробити статті приємнішими для читання \u2014 навіть в автономному режимі.">
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Ваш">
+<!ENTITY firstrun_account_message "Маєте &brandShortName; на іншому пристрої?">
+
+<!ENTITY  onboard_start_restricted1 "Залишайтеся в безпеці та на контролі з цією спрощеною версією &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Закладки">
 <!ENTITY  history_title "Історія">
-<!ENTITY  reading_list_title "Список читання">
 <!ENTITY  recent_tabs_title "Недавні вкладки">
 
 <!ENTITY  switch_to_tab "Перейти у вкладку">
@@ -69,6 +79,11 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Знімки екрану">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Список читання">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; елементів">
+<!ENTITY bookmark_folder_one_item "1 елемент">
 
 <!ENTITY reader_saved_offline "Збережено автономно">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +189,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Підказка: Додавайте будь-який сайт до списку засобів пошуку тривалим дотиком до його пошукового поля, а потім торкнувшись піктограми &formatI;.">
 <!ENTITY pref_category_advanced "Додаткові">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Відновлення вкладок, збереження даних, інструменти розробника">
 <!ENTITY pref_category_notifications "Сповіщення">
 <!ENTITY pref_category_notifications_summary "Нові можливості, оновлення сайту">
@@ -225,6 +243,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Увімкнено, крім сторонніх">
 <!ENTITY pref_cookies_disabled "Вимкнено">
 
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_data_saver "Збереження даних">
 <!ENTITY pref_category_media "Медіа">
 <!ENTITY pref_category_developer_tools "Інструменти розробника">
@@ -287,7 +308,12 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; веб-сайтів оновлено">
-<!ENTITY content_notification_action_settings "Налаштування сповіщень">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Налаштування">
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Читати зараз">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -538,6 +564,8 @@ size. -->
 <!ENTITY home_history_title "Історія">
 <!ENTITY home_synced_devices_smartfolder "Синхронізовані пристрої">
 <!ENTITY home_synced_devices_number "&formatD; пристроїв">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 пристрій">
 <!ENTITY home_history_back_to2 "Назад до повної історії">
 <!ENTITY home_clear_history_button "Стерти історію перегляду">
 <!ENTITY home_clear_history_confirm "Ви впевнені, що хочете стерти свою історію?">
@@ -780,3 +808,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_title "Читати автономно">
 <!ENTITY helper_first_offline_bookmark_message "Знаходьте елементи списку читання в закладках, навіть в автономному режимі.">
 <!ENTITY helper_first_offline_bookmark_button "Перейти до закладок">
+
+<!ENTITY helper_triple_readerview_open_title "Доступно автономно">
+<!ENTITY helper_triple_readerview_open_message "Закласти елементи режиму читання для автономного їх читання.">
+<!ENTITY helper_triple_readerview_open_button "Додати до закладок">
+
