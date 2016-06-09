@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "Helykitöltés">
 <!ENTITY customPrompt.title   "Egyéni méretezés…">
 
+
+
+
 <!ENTITY homearrow.tooltip    "Első oldal">
 <!ENTITY endarrow.tooltip     "Utolsó oldal">
 <!ENTITY nextarrow.tooltip    "Következő oldal">

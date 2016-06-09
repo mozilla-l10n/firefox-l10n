@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "A &syncBrand.shortName.label; beállításainak megnyitása">
 <!ENTITY fxaSignInError.label "Újracsatlakozás a &syncBrand.shortName.label;hez">
 <!ENTITY fxaUnverified.label "Fiók ellenőrzése">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; bekapcsolva">
-<!ENTITY syncStartPanel2.subTitle "A &brandShortName; mindjárt elkezdi a szinkronizálást.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Kis méret">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Más könyvjelzők">
 <!ENTITY bookmarksToolbarChevron.tooltip "További könyvjelzők megjelenítése">
 
+
+
+
+
 <!ENTITY backCmd.label                "Vissza">
 <!ENTITY backButton.tooltip           "Ugrás az előző oldalra">
 <!ENTITY forwardCmd.label             "Előre">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Más könyvjelzők">
 <!ENTITY viewBookmarksSidebar2.label        "Könyvjelzők oldalsáv megjelenítése">
 <!ENTITY viewBookmarksToolbar.label         "Könyvjelző eszköztár megjelenítése">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Új konténerlap">
 <!ENTITY newUserContext.accesskey         "k">
-<!ENTITY userContextPersonal.label        "Személyes">
-<!ENTITY userContextPersonal.accesskey    "z">
-<!ENTITY userContextWork.label            "Munka">
-<!ENTITY userContextWork.accesskey        "u">
-<!ENTITY userContextBanking.label         "Bankolás">
-<!ENTITY userContextBanking.accesskey     "a">
-<!ENTITY userContextShopping.label        "Vásárlás">
-<!ENTITY userContextShopping.accesskey    "V">
 <!ENTITY newNavigatorCmd.label        "Új ablak">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "a">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "N">
 <!ENTITY mediaUnmute.label           "Hang be">
 <!ENTITY mediaUnmute.accesskey       "n">
-<!ENTITY mediaPlaybackRate.label     "Lejátszási sebesség">
-<!ENTITY mediaPlaybackRate.accesskey "s">
-<!ENTITY mediaPlaybackRate050x.label "Lassított felvétel (0,5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "L">
-<!ENTITY mediaPlaybackRate100x.label "Normál sebesség">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Gyorsított felvétel (1,5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "G">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Elképzelhetetlen sebesség (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "k">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Biztonságos kapcsolat">
 <!ENTITY identity.connectionNotSecure "A kapcsolat nem biztonságos">
 <!ENTITY identity.connectionFile "Ez az oldal a számítógépén van tárolva.">
-<!ENTITY identity.connectionVerified1 "Biztonságosan kapcsolódott ehhez ez oldalhoz; az üzemeltetője:">
+
 <!ENTITY identity.connectionInternal "Ez egy biztonságos &brandShortName; oldal.">
 <!ENTITY identity.insecureLoginForms2 "Az oldalon megadott bejelentkezési adatok nincsenek biztonságban.">
 <!-- Strings for connection state warnings. -->
