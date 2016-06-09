@@ -80,8 +80,8 @@
 <!ENTITY cspBlocked.title "విషయపు భద్రతా విధానం చేత నిరోధించబడింది">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; యీ పేజీను యీ మార్గములో లోడగుటనుండి నిరోధిస్తోంది యెంచేతంటే యీ పేజీ కాంటెంట్ రక్షణ విధానమును కలిగివుంది అది దీనిని అనుమతించుటలేదు.</p>">
 
-<!ENTITY corruptedContentError.title "పాడైన కాంటెంట్ దోషం">
-<!ENTITY corruptedContentError.longDesc "<p>మీరు దర్శించుటకు ప్రయత్నిస్తున్న పేజీ చూపబడలేదు యెంచేతంటే దాని యందు దత్తాంశ బదలాయింపులో దోషం గుర్తించబడెను.</p><ul><li>దయచేసి వెబ్‌సైట్ యజమానులను సంప్రదించి వారికి యీ సమస్య గురించి తెలుపండి.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "పాడైన కాంటెంట్ దోషం">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>మీరు దర్శించుటకు ప్రయత్నిస్తున్న పేజీ చూపబడలేదు యెంచేతంటే దాని యందు దత్తాంశ బదలాయింపులో దోషం గుర్తించబడెను.</p><ul><li>దయచేసి వెబ్‌సైట్ యజమానులను సంప్రదించి వారికి యీ సమస్య గురించి తెలుపండి.</li></ul>">
 
 <!ENTITY securityOverride.linkText "లేదా మీరు ఒక ఆక్షేపణను జతచేయగలరు…">
 <!ENTITY securityOverride.getMeOutOfHereButton "నన్ను ఇక్కడినుండి బయటపెట్టు!">

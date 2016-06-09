@@ -4,15 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "స్వాగతం">
 
-
-
 <!ENTITY firstrun_urlbar_message "&brandShortName;‌కి స్వాగతం">
 
 
 
 
-
-
+<!ENTITY firstrun_data_title "దత్తాంశం">
+<!ENTITY firstrun_data_message "తక్కువ డేటా, మరింత పొదుపు">
 
 <!ENTITY firstrun_sync_title "సింక్">
 
@@ -21,9 +19,16 @@
 
 <!ENTITY  onboard_start_button_browser "విహరణ మొదలుపెట్టండి">
 
+<!ENTITY firstrun_button_next "తదుపరి">
+
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
 
 
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -31,7 +36,6 @@
 
 <!ENTITY  bookmarks_title "ఇష్టాంశాలు">
 <!ENTITY  history_title "చరిత్ర">
-
 <!ENTITY  recent_tabs_title "ఇటీవలి ట్యాబులు">
 
 <!ENTITY  switch_to_tab "ట్యాబుకు మారండి">
@@ -65,6 +69,9 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -73,7 +80,7 @@
 <!ENTITY history_today_section "ఈరోజు">
 <!ENTITY history_yesterday_section "నిన్న">
 <!ENTITY history_week_section3 "గత 7 రోజులు">
-
+<!ENTITY history_older_section3 "6 నెలల కంటే పాతవి">
 
 <!ENTITY search "వెతుకు">
 <!ENTITY reload "రీలోడుచెయ్యి">
@@ -150,7 +157,7 @@
 
 <!ENTITY pref_category_privacy_short "అంతరంగికత">
 
-
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 
 <!ENTITY pref_category_datareporting "డేటా ఎంపికలు">
 
@@ -166,7 +173,9 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_category_advanced "ఉన్నతం">
-
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 
 
@@ -214,7 +223,9 @@
 <!ENTITY pref_cookies_accept_all "చేతనం">
 <!ENTITY pref_cookies_not_accept_foreign "చేతనం, 3వ పక్షం మినహాయించి">
 <!ENTITY pref_cookies_disabled "అచేతనం">
-
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 
 
@@ -236,7 +247,7 @@
 
 
 
-
+<!ENTITY tracking_protection_prompt_action_button "అర్థమయింది!">
 
 <!ENTITY tab_queue_toast_action "ఇప్పుడే తెరువు">
 
@@ -244,7 +255,7 @@
 
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-
+<!ENTITY tab_queue_prompt_positive_action_button "చేతనించు">
 <!ENTITY tab_queue_prompt_negative_action_button "ఇప్పుడు కాదు">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
@@ -262,7 +273,10 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -392,12 +406,12 @@ size. -->
 <!ENTITY share_image_failed "ఈ చిత్రాన్ని పంచుకోలేకున్నాం">
 <!ENTITY save_as_pdf "PDFగా భద్రపరచు">
 
-<!ENTITY find_in_page "పేజీలో వెతుకు">
-<!ENTITY desktop_mode "డెస్క్‌టాప్ సైటును అభ్యర్థించు">
+
+
 <!ENTITY page "పేజీ">
 <!ENTITY tools "పనిముట్లు">
-<!ENTITY new_tab "కొత్త ట్యాబ్">
-<!ENTITY new_private_tab "కొత్త అంతరంగిక ట్యాబు">
+
+
 <!ENTITY close_all_tabs "ట్యాబులన్నీ మూసివేయి">
 <!ENTITY close_private_tabs "ప్రయివేటు ట్యాబులను మూసివేయి">
 
@@ -407,8 +421,6 @@ size. -->
 <!ENTITY set_image_chooser_title "చిత్రమును ఇలా అమర్చు">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "పేజీలో వెతకండి">
 <!ENTITY find_prev "క్రితం">
 
 <!ENTITY find_close "మూసివేయి">
@@ -506,6 +518,7 @@ size. -->
 <!ENTITY home_history_title "చరిత్ర">
 
 
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 
 <!ENTITY home_clear_history_button "విహరణ చరిత్రను తుడిచేయి">
 <!ENTITY home_clear_history_confirm "మీరు నిశ్చయంగా మీ చరిత్రను తుడిచేయాలని అనుకొంటున్నారా?">
@@ -706,6 +719,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+
+
+
 
 
 
