@@ -110,7 +110,7 @@
 <!ENTITY cmd.showPreferencesWin.label         "Opções">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Alterar opções deste extra">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferências">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Alterar  preferências deste extra">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Alterar as preferências deste extra">
 <!ENTITY cmd.contribute.label                 "Colaborar">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Participar no desenvolvimento deste extra">
