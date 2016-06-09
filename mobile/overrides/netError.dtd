@@ -80,8 +80,8 @@
 <!ENTITY cspBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
 
-<!ENTITY corruptedContentError.title "Galat Konten Rusak">
-<!ENTITY corruptedContentError.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Galat Konten Rusak">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Atau dapat ditambahkan pada pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kabur!">
