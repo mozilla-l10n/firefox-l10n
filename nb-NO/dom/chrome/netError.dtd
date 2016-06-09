@@ -8,7 +8,7 @@
 
 
 <!ENTITY connectionFailure.title "Klarte ikke koble til nettstedet">
-
+<!ENTITY connectionFailure.longDesc "<p>Selv om adressen ser ut til å være gyldig, klarte ikke nettleseren å koble til det.</p><ul><li>Kan nettstedet midlertidig være utilgjengelig? Prøv igjen senere.</li><li>Klarer du å åpne andre nettsider?  Kontroller datamaskinens nettverksforbindelse.</li><li>Er datamaskinen eller nettverket ditt beskyttet av en brannmur eller proxy? Feil innstillinger kan forstyrre åpning av nettsider.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Porten er adgangsbegrenset av sikkerhetsårsaker">
 <!ENTITY deniedPortAccess.longDesc "<p>Forespørselsadressen oppgav en port (f.eks. <q>mozilla.org:80</q> for port 80 på mozilla.org) som normalt brukes til et <em>annet</em> formål enn nettlesing. Nettleseren har avbrutt forespørselen av sikkerhetsårsaker.</p>">
@@ -29,7 +29,7 @@
 <!ENTITY malformedURI.longDesc "<p>Den oppgitte adressen er ikke i et gjenkjennbart format. Se i adresselinjen om det er skrivefeil, og prøv igjen.</p>">
 
 <!ENTITY netInterrupt.title "Dataoverføring ble avbrutt">
-
+<!ENTITY netInterrupt.longDesc "<p>Nettleseren klarte å koble til serveren, men tilkoblingen ble avbrutt ved overføring av informasjon. Prøv igjen.</p><ul><li>Klarer du å åpne andre nettsider? Kontroller datamaskinens nettverkstilkobling.</li><li>Har du fortsatt problem? Henvend deg til nettverksansvarlig eller Internett-tilbyder for mer hjelp.</li></ul>">
 
 <!ENTITY notCached.title "Dokumentet er utgått på dato">
 
