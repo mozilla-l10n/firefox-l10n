@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; баптауларын ашу">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; үшін қайта байланысу">
 <!ENTITY fxaUnverified.label "Тіркелгіні растау">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; іске қосылған">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; синхрондауды қазір бастайды.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Бүктеу">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Басқа бетбелгілер">
 <!ENTITY bookmarksToolbarChevron.tooltip "Көбірек бетбелгілерді көрсету">
 
+
+
+
+
 <!ENTITY backCmd.label                "Артқа">
 <!ENTITY backButton.tooltip           "Алдыңғы бетке қайту">
 <!ENTITY forwardCmd.label             "Алға">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Басқа бетбелгілер">
 <!ENTITY viewBookmarksSidebar2.label        "Бүйір панелін қарау">
 <!ENTITY viewBookmarksToolbar.label         "Бетбелгілер панелін қарау">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newUserContext.label             "Жаңа контейнерлік бет">
 <!ENTITY newUserContext.accesskey         "к">
-<!ENTITY userContextPersonal.label        "Жеке">
-<!ENTITY userContextPersonal.accesskey    "Ж">
-<!ENTITY userContextWork.label            "Жұмыс">
-<!ENTITY userContextWork.accesskey        "Ж">
-<!ENTITY userContextBanking.label         "Банкинг">
-<!ENTITY userContextBanking.accesskey     "Б">
-<!ENTITY userContextShopping.label        "Шоппинг">
-<!ENTITY userContextShopping.accesskey    "Ш">
 <!ENTITY newNavigatorCmd.label        "Жаңа терезе">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "т">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "Д">
 <!ENTITY mediaUnmute.label           "Даусын қосу">
 <!ENTITY mediaUnmute.accesskey       "Д">
-<!ENTITY mediaPlaybackRate.label     "Ойнату жылдамдығы">
-<!ENTITY mediaPlaybackRate.accesskey "й">
-<!ENTITY mediaPlaybackRate050x.label "Баяу (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "я">
-<!ENTITY mediaPlaybackRate100x.label "Қалыпты жылдамдық">
-<!ENTITY mediaPlaybackRate100x.accesskey "л">
-<!ENTITY mediaPlaybackRate150x.label "Үдетілген (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "д">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Өте жылдам (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "е">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Қауіпсіз байланыс">
 <!ENTITY identity.connectionNotSecure "Байланыс қауіпсіз емес">
 <!ENTITY identity.connectionFile "Бұл парақ сіздің компьютеріңізде сақталған.">
-<!ENTITY identity.connectionVerified1 "Бұл сайтқа қауіпсіз түрде байланысты орнаттыңыз, сайт иесі:">
+
 <!ENTITY identity.connectionInternal "Бұл - қауіпсіз &brandShortName; беті.">
 <!ENTITY identity.insecureLoginForms2 "Бұл парақта енгізілген логин ақпаратына бөтен адамдардың қолы жетуі мүмкін.">
 <!-- Strings for connection state warnings. -->

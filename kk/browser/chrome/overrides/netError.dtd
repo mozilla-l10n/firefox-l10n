@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Құрамасының қауіпсіздік саясатымен блокталған">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; бұл парақтың осы жолмен жүктелуге жол бермеген, өйткені онда осыны рұқсат етпейтін қауіпсіздік саясаты бар.</p>">
 
-<!ENTITY corruptedContentError.title "Зақымдалған құрама қатесі">
-<!ENTITY corruptedContentError.longDesc "<p>Сіз қараймын деген парақ көрсетілмейді, өйткені мәліметтер тасымалданған кезде қате анықталды.</p><ul><li>Веб сайт иелеріне осы мәселе жөнінде хабарлаңыз.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Зақымдалған құрама қатесі">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Сіз қараймын деген парақ көрсетілмейді, өйткені мәліметтер тасымалданған кезде қате анықталды.</p><ul><li>Веб сайт иелеріне осы мәселе жөнінде хабарлаңыз.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ерекше ереже қосу…">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Кеңейтілген">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ескірген және шабуылдарға тұрақсыз қауіпсіздік технологиясын қолдануда. Шабуылшы сіз қауіпсіз деп ойлап тұрған ақпаратты оңай ала алады.">
 <!ENTITY weakCryptoAdvanced.override "(Қауіпсіз емес) <span class='hostname'></span> ескірген қауіпсіздікті қолданып, жүктеу талабы">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Қауіпсіз емес байланыс">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Бұл сайт &brandShortName; оған тек қауіпсіз түрде қосылу керектігін көрсету үшін HTTP Strict Transport Security (HSTS) қолданады. Нәтижесінде, бұл сертификатты ережеден тыс қосу мүмкін емес.">
+
 <!ENTITY certerror.copyToClipboard.label "Мәтінді алмасу буферіне көшіру">
 
 <!ENTITY inadequateSecurityError.title "Сіздің байланысыңыз қауіпсіз емес">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ескірген және шабуылдарға әлсіз қауіпсіздік технологиясын қолдануда. Шабуылшы сіз қауіпсіз деп ойлаған ақпаратты оңай анықтай алады. Сіз сайтты шолғанға дейін оның әкімшісі серверді ретке келтіруі тиіс.</p><p>Қате коды: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+

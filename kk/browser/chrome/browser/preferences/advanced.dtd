@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Жаңартуларды тексермеу (ұсынылмайды: қауіпсіздік төмендейді)">
 <!ENTITY updateManual.accesskey          "р">
 
-<!ENTITY updateAutoAddonWarn.label       "Бұл менің қосымшаларымды сөндірсе, мені ескерту">
-<!ENTITY updateAutoAddonWarn.accesskey   "с">
-
 <!ENTITY updateHistory.label             "Жаңартулар тарихын көрсету">
 <!ENTITY updateHistory.accesskey         "р">
 
