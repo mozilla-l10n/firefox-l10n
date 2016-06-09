@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "মাপ অনুযায়ী সংকুচন">
 <!ENTITY customPrompt.title   "নিজস্ব পছন্দের মাপ...">
 
+
+
+
 <!ENTITY homearrow.tooltip    "প্রথম পৃষ্ঠা">
 <!ENTITY endarrow.tooltip     "সর্বশেষ পৃষ্ঠা">
 <!ENTITY nextarrow.tooltip    "পরবর্তী পৃষ্ঠা">

@@ -50,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "ইউজার এজেন্ট">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "মেমরির ব্যবহার">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "নিবন্ধিত সার্ভিস কর্মীরা">
@@ -81,6 +82,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "গ্রাফিক্স">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
@@ -100,6 +104,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.safeModeTitle "সুরক্ষিত মোডে চেষ্টা করুন">
 <!ENTITY aboutSupport.restartInSafeMode.label "অ্যাড-অন নিষ্ক্রিয় করে পুনরায় চালু করুন...">
+
+
+
 
 
 

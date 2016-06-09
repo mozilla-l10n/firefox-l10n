@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "কখনো আপডেট পরীক্ষা করা হবে না (প্রস্তাবিত নয়: বিপজ্জনক)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "উপস্থিত কোনো অতিরিক্ত সামগ্রী এর ফলে নিষ্ক্রিয় হওয়ার সম্ভাবনা থাকলে সতর্ক করা হবে">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "আপডেট কর্ম সংক্রান্ত পূর্ববর্তী তথ্য প্রদর্শন">
 <!ENTITY updateHistory.accesskey         "আ">
 
