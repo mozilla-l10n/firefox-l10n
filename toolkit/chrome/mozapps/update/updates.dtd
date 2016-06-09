@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Tha am &brandShortName; agad ro aosta ach chan eil taic ris an tionndadh as ùire air an t-siostam agad. Feuch is àrdaich an siostam agad is feuch ris a-rithist. Chan fhaic thu am brath seo a-rithist ach gheibh thu">
 <!ENTITY  unsupportedLink.label           "barrachd fiosrachaidh an-seo.">
 
-<!ENTITY  incompatibleCheck.title         "A' sgrùdadh co-chòrdalachd nan tuilleadan">
-<!ENTITY  incompatibleCheck.label         "A' lorg tionndaidhean nas ùire dhe na tuilleadain agad…">
-
 <!ENTITY  clickHere.label                 "Seall barrachd fiosrachaidh mun ùrachadh seo">
 
 <!ENTITY  evangelism.desc                 "Mholar dhut gu mòr an t-ùrachadh seo airson &brandShortName; a chur an sàs cho luath 's a ghabhas.">
-
-<!ENTITY  license.instructions            "Ma dh’aontaicheas tu ri teirmichean an aonta seo, briog air “Tha mi ag aontachadh” gu h-ìosal mus lean thu ort le stàladh an ùrachaidh seo.">
-
-<!ENTITY  license.titleText               "Aonta ceadachas a' bhathair-bhuig">
-<!ENTITY  license.introText               "Teirmichean is cumhaichean cleachdaidh a' bhathar-bhuig seo.">
-<!ENTITY  license.instructionText         "Leugh aonta a' cheadachais a leanas. Cleachd am bàr sgrolaidh gus an corr dhen aonta a leughadh.">
-<!ENTITY  license.accept                  "Tha mi ag aontachadh ri teirmichean Aonta a' Cheadachais">
-<!ENTITY  license.accept.accesskey        "C">
-<!ENTITY  license.decline                 "CHAN EIL mi ag aontachadh ri teirmichean Aonta a' Cheadachais">
-<!ENTITY  license.decline.accesskey       "t">
-
-<!ENTITY  incompatibleList.title          "Chaidh tuilleadain neo-chòrdail a lorg">
 
 <!ENTITY  downloadPage.title              "A' luchdadh a-nuas &brandShortName;">
 <!ENTITY  downloading.intro               "A' luchdadh a-nuas an ùrachaidh…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Thèid an t-ùrachadh a stàladh an ath-thuras a thòisicheas &brandShortName;. 'S urrainn dhut &brandShortName; ath-thòiseachadh an-dràsta no leantainn air adhart ris na bha thu a' dèanamh 's ath-thòiseachadh uaireigin eile.">
 
-<!ENTITY  installed.title                 "Ùrachadh air a stàladh">
-<!ENTITY  installed.intro                 "Shoirbhich le stàladh an ùrachaidh.">
-<!ENTITY  whatsnew.label                  "Leugh barrachd mu na tha ùr…">
 
 <!ENTITY  update.details.label            "Mion-fhiosrachadh">
 <!ENTITY  update.installedOn.label        "Air a stàladh:">
