@@ -22,6 +22,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "נתוני הקלטה בזמן אמת מבוטלים כאשר Firefox אינו במצב ריבוי תהליכים.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
