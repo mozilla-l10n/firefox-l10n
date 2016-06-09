@@ -807,5 +807,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "Ir a Marcadores">
 
 <!ENTITY helper_triple_readerview_open_title "Disponible sin conexión">
+<!ENTITY helper_triple_readerview_open_message "Marcar ítems de vista de lectura para leerlos sin conexión.">
 <!ENTITY helper_triple_readerview_open_button "Agregar a marcadores">
 
