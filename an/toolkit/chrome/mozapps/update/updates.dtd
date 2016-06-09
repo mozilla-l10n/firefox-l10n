@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "O suyo &brandShortName; no ye esviellau, pero a zaguer versión no tien suporte ta o suyo sistema. Esvielle o sistema y torne a prebar-lo. Iste mensache que s'amuestra soque una vegada pero puede">
 <!ENTITY  unsupportedLink.label           "saber-ne mas">
 
-<!ENTITY  incompatibleCheck.title         "Se ye comprebando a compatibilidad d'os complementos">
-<!ENTITY  incompatibleCheck.label         "Se son mirando versions mas nuevas d'os suyos complementos…">
-
 <!ENTITY  clickHere.label                 "Veyer mas información d'ista actualización">
 
 <!ENTITY  evangelism.desc                 "Ye muit recomendable que aplique ista actualización ta &brandShortName; antes con antes.">
-
-<!ENTITY  license.instructions            "Si ye d&apos;alcuerdo con os termins d&apos;iste alcuerdo, prete &quot;Soi d&apos;alcuerdo&quot; mas abaixo ta continar instalando ista actualización.">
-
-<!ENTITY  license.titleText               "Alcuerdo de licencia de software">
-<!ENTITY  license.introText               "Termins y condicions d'uso d'iste software.">
-<!ENTITY  license.instructionText         "Leiga o l'alcuerdo de licencia siguient. Emplegue a barra de desplazamiento ta veyer a resta de l'alcuerdo.">
-<!ENTITY  license.accept                  "Accepto os termins de l'alcuerdo de licencia">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "NO accepto os termins de l'alcuerdo de licencia">
-<!ENTITY  license.decline.accesskey       "N">
-
-<!ENTITY  incompatibleList.title          "S'han trobau complementos incompatibles">
 
 <!ENTITY  downloadPage.title              "Se ye descargando &brandShortName;">
 <!ENTITY  downloading.intro               "Se ye descargando l'actualización…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "L'actualización s'instalará a proxima vegada que s'inicie &brandShortName;. Puede reiniciar &brandShortName; agora, u continar treballando y reiniciar-lo mas entabant.">
 
-<!ENTITY  installed.title                 "L'actualización s'ha instalau">
-<!ENTITY  installed.intro                 "L'actualización s'ha instalau con exito.">
-<!ENTITY  whatsnew.label                  "Leyer-ne mas quant a las novedatz…">
 
 <!ENTITY  update.details.label            "Detalles">
 <!ENTITY  update.installedOn.label        "Instalau en:">
