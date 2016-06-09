@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "Blokkert av tryggingspraksis for innhald">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; hindra nettsida frå å lastast inn på denne måten fordi nettsida har ein tryggingspraksis for innhald som forbyr det.</p>">
 
-<!ENTITY corruptedContentError.title "Øydelagt innhald">
-<!ENTITY corruptedContentError.longDesc "<p>Sida du prøvar å visa kan ikkje opnast på grunn av ein feil i dataoverføringa.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om problemet.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Øydelagt innhald">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Sida du prøvar å visa kan ikkje opnast på grunn av ein feil i dataoverføringa.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om problemet.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Eller du kan laga ein unntaksregel…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg bort herifrå!">
