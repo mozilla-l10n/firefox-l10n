@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Sjálfvirkar uppfærslur">
 <!ENTITY detail.updateDefault.label           "Sjálfgefið">
-
+<!ENTITY detail.updateDefault.tooltip         "Setja sjálfvirkt inn uppfærslur aðeins ef það er ekki sjálfgefið">
 <!ENTITY detail.updateAutomatic.label         "Virkt">
 <!ENTITY detail.updateAutomatic.tooltip       "Setja sjálfvirkt inn uppfærslur">
 <!ENTITY detail.updateManual.label            "Óvirkt">
-
+<!ENTITY detail.updateManual.tooltip          "Ekki setja sjálfvirkt inn uppfærslur">
 <!ENTITY detail.home                          "Heimasíða">
 <!ENTITY detail.repository                    "Lýsing viðbótar">
 <!ENTITY detail.size                          "Stærð">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Athuga uppfærslur fyrir þessa viðbót">
 <!ENTITY detail.showPreferencesWin.label      "Valkostir">
 <!ENTITY detail.showPreferencesWin.accesskey  "o">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Breyta stillingum fyrir þessa viðbót">
 <!ENTITY detail.showPreferencesUnix.label     "Valkostir">
 <!ENTITY detail.showPreferencesUnix.accesskey "o">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Breyta stillingum viðbótar">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Hvað er þetta? Fjarmæling getur sett inn og keyrt tilraunir öðru hverju.">
 <!ENTITY experiment.info.learnmore "Fræðast meira">
 <!ENTITY experiment.info.learnmore.accesskey "F">
 <!ENTITY experiment.info.changetelemetry "Stillingar fjarmælingar">
