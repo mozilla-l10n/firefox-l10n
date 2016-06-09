@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Velkomin(n)">
-<!ENTITY  onboard_start_message3 "Vafra með &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Gerðu vef upplifunina á handhæga tækinu virkilega þína eigin.">
 
 <!ENTITY firstrun_urlbar_message "Vertu velkomin í &brandShortName;!">
 <!ENTITY firstrun_urlbar_subtext "Finnið efni hraðar með hjálplegum leitar uppástungum.">
@@ -20,20 +18,25 @@
 <!ENTITY firstrun_signin_message "Tengdu þig til að hefjast handa">
 <!ENTITY firstrun_signin_button "Skráðu þig inn til að samstilla">
 <!ENTITY  onboard_start_button_browser "Fara að vafra">
+
 <!ENTITY firstrun_button_next "Áfram">
 
-<!ENTITY  onboard_start_restricted1 "Upplifðu öryggi og að vera við stjórnvölinn með þessari einföldu útgáfu af &brandShortName;.">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
-<!ENTITY  reading_list_migration_title "Leslisti tengdur">
-<!ENTITY  reading_list_migration_subtext "Efni á lestrarlista þínum verða bættir við bókamerkin þín">
-<!ENTITY  reading_list_migration_goto_bookmarks "Sýna bókamerki">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Bókamerkja spjaldið þitt er falið">
+
+
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+
+<!ENTITY  onboard_start_restricted1 "Upplifðu öryggi og að vera við stjórnvölinn með þessari einföldu útgáfu af &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Bókamerki">
 <!ENTITY  history_title "Ferill">
-<!ENTITY  reading_list_title "Lestrarlisti">
 <!ENTITY  recent_tabs_title "Nýlegir flipar">
 
 <!ENTITY  switch_to_tab "Fara í flipa">
@@ -68,7 +71,10 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Skjámyndir">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "Lestrarlisti">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
 
 <!ENTITY reader_saved_offline "Vistað á tæki">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +180,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Ábending: Bæta hvaða vefsíðu sem er við leitarvélar þínar með því að halda lengi niðri á leitarsvæðið og snerta síðan &formatI; merkið.">
 <!ENTITY pref_category_advanced "Frekari stillingar">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Endurheimta flipa, bjargvættur gagna, verkfærakista forritarans">
 <!ENTITY pref_category_notifications "Tilkynningar">
 <!ENTITY pref_category_notifications_summary "Ný virkni, uppfærslur á vefsvæði">
@@ -224,6 +233,9 @@
 <!ENTITY pref_cookies_accept_all "Virkt">
 <!ENTITY pref_cookies_not_accept_foreign "Virkar fyrir utan þriðja aðila">
 <!ENTITY pref_cookies_disabled "Óvirkar">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_category_data_saver "Bjargvættur gagna">
 <!ENTITY pref_category_media "Miðill">
@@ -287,7 +299,10 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; vefsvæði uppfærð">
-<!ENTITY content_notification_action_settings "Stilla tilkynningar">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -421,12 +436,12 @@ size. -->
 <!ENTITY share_image_failed "Gat ekki deilt þessari mynd">
 <!ENTITY save_as_pdf "Vista sem PDF">
 <!ENTITY print "Prenta">
-<!ENTITY find_in_page "Finna á síðu">
-<!ENTITY desktop_mode "Fá venjulega síðu">
+
+
 <!ENTITY page "Síða">
 <!ENTITY tools "Verkfæri">
-<!ENTITY new_tab "Nýr flipi">
-<!ENTITY new_private_tab "Nýr einkaflipi">
+
+
 <!ENTITY close_all_tabs "Loka öllum flipum">
 <!ENTITY close_private_tabs "Loka einkaflipum">
 <!ENTITY tabs_normal "Flipar">
@@ -436,8 +451,6 @@ size. -->
 <!ENTITY set_image_chooser_title "Nota mynd sem">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Finna á síðu">
 <!ENTITY find_prev "Fyrrverandi">
 <!ENTITY find_next "Áfram">
 <!ENTITY find_close "Loka">
@@ -538,6 +551,7 @@ size. -->
 <!ENTITY home_history_title "Ferill">
 <!ENTITY home_synced_devices_smartfolder "Samstillt tæki">
 <!ENTITY home_synced_devices_number "&formatD; tæki">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_history_back_to2 "Aftur í allan ferilinn">
 <!ENTITY home_clear_history_button "Hreinsa feril">
 <!ENTITY home_clear_history_confirm "Ertu viss að þú viljir hreinsa ferilinn þinn?">
@@ -776,4 +790,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Lesa þegar engin tenging er">
 <!ENTITY helper_first_offline_bookmark_message "Finndu það sem er á lestrarlistanum í bókamerkjunum, jafnvel þegar engin nettenging er til staðar.">
-<!ENTITY helper_first_offline_bookmark_button "Sýna Bókamerki">
+
+
+
+
+
