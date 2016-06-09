@@ -7,7 +7,7 @@
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; składuje informacije wo wašich nastajenjach a preferencach we wašim wosobinskim profilu.">
-<!ENTITY profileCreationExplanation_2.text  "Jeli tutu kopiju &brandShortName; zhromadnje z druhimi wužiwarjemi wužiwaće, móžeće rozdźelne profile wužiwać, zo byšće informacije kóždeho wužiwarja rozdźělene zdźeržał. Za to dyrbjał kóždy wužiwar swój profil załožić.">
+
 <!ENTITY profileCreationExplanation_3.text  "Jeli sće jenička wosoba, kotraž tutu kopiju &brandShortName; wužiwa, dyrbiće znajmjeńša jedyn profil měć. Jeli chceće, móžeće wjacore profile za sebje załožić, zo byšće rozdźělne grupy nastajenjow a preferency składował. Na přikład chceće snano separatne profile za powołanske a priwatne wužiwanje měć.">
 <!ENTITY profileCreationExplanation_4.text  "Zo byšće swój profil załožił, klikńće na Dale.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Zo byšće swój profil załožił, klikńće na Pokročować.">

@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Začitowanje wideja je so zastajiło.">
 <!ENTITY error.network "Wothrawanje wideja je so syćoweho zmylka dla přetorhnyło.">
-<!ENTITY error.decode "Widejo njeda so wothrać, dokelž dataja je wobškodźena.">
+
 <!ENTITY error.srcNotSupported "Widejowy format abo MIME-typ so njepodpěruje.">
 <!ENTITY error.noSource2 "Widejo z podpěranym formatom a MIME-typom njeje so namakało.">
 <!ENTITY error.generic "Wothrawanje wideja je so njeznateho zmylka dla přetorhnyło.">
