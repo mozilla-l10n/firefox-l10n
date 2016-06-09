@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "अहाँ &brandShortName; समयातीत अछि, मुदा नवीनतम संस्करणअहाँक तंत्र पर समर्थित नहि अछि. अपन तंत्रकेँ उन्नत बनाउ फेर कोसिस करू. अहाँ ई सूचनाक फेर नहि देखब मुदा अहाँ कए सकैछी">
 <!ENTITY  unsupportedLink.label           "आओर जानू.">
 
-<!ENTITY  incompatibleCheck.title         "सहयुक्ति सुसंगता जाँच रहल अछि ">
-<!ENTITY  incompatibleCheck.label         "अहाँक सहयुक्ति क नव संस्करणक लेल देख रहल अछि …">
-
 <!ENTITY  clickHere.label                 "ई अद्यतनक संबंध मे बेसी सूचना देखू">
 
 <!ENTITY  evangelism.desc                 "एकर अनुशंसा कएल जाएत अछि जे अहाँ एहि अद्यतनकेँ &brandShortName; क लेल यथाशीघ्र लागू करू.">
-
-<!ENTITY  license.instructions            "जँ अहाँ एहि मसौदासँ सहमत छी, नीच्चाँ हम सहमत छी  पर क्लिक करू एहि अद्यतन क संस्थापन जारी रखबाक लेल .">
-
-<!ENTITY  license.titleText               "साफ्टवेयर ला एकटा लाइसेंस मसौदा">
-<!ENTITY  license.introText               "Terms and conditions for using this software.">
-<!ENTITY  license.instructionText         "कृपया निम्नलिखित ला एकटा लाइसेंस अनुबंध पढ़ू. स्क्राल बार केँ प्रयोग करू एहि अनुबंध क शेष केँ देखब क लेल.">
-<!ENTITY  license.accept                  "हम एकटा लाइसेंस अनुबंधक शर्त स्वीकार करैत छी">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "हम एकटा लाइसेंस अनुबंधक शर्त स्वीकार नहि करैत छी">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "असंगत सहयुक्ति भेटल">
 
 <!ENTITY  downloadPage.title              "&brandShortName; डाउनलोड कए रहल अछि">
 <!ENTITY  downloading.intro               "ई अद्यतन डाउनलोड कए रहल अछि …">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "ई अद्यतन केँ अगिला बेर तखन संस्थापित कएल जएताह जखन &brandShortName; आरंभ होइछ. अहाँ &brandShortName; केँ आब फेर आरंभ कए सकैत छी, अथवा काम कएनाइ जारी राखबाक बादमे फेर आरंभ कए सकैत छी.">
 
-<!ENTITY  installed.title                 "अद्यतन संस्थापित कएल गेल">
-<!ENTITY  installed.intro                 "ई अद्यतन सफलतापूर्वक संस्थापित कएल गेल छल.">
-<!ENTITY  whatsnew.label                  "नवीन चीजक संबंधमे बेसी जानबाक लेल पढ़ू…">
 
 <!ENTITY  update.details.label            "विवरण">
 <!ENTITY  update.installedOn.label        "ई पर संस्थापित:">

@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोड़ू…">
@@ -95,9 +95,13 @@ was trying to connect. -->
 
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> आब पुरान भ गेल अछि आओर हमला खातिर भेद्य भ चुकल अछि. एक हमला द्वारा अहाँक सूचना जकरा अहाँ सुरक्षित बुझैत छी ओ आसानी सँ प्रकट भ सकैत अछि.">
 <!ENTITY weakCryptoAdvanced.override "(Not secure) लोड करबाक कोसिस करू <span class='hostname'></span> पुरानसुरक्षा क उपयोग सँ ">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "सुसंगत सहयुक्ति पएलक">
 <!ENTITY  found.top.label                 "ओ सहयुक्ति केँ चुनू जकरा अहाँ संस्थापित कएनाइ चाहैत छी:">
-<!ENTITY  found.disabledXPinstall.label   "ई अद्यतनकेँ संस्थापित कएल जाए सकैत अछि किएक एकटा साफ्टवेयर संस्थापन अखन निष्क्रिय अछि. अहाँ सेटिंग केँ नीच्चाँ बदैल सकैत छी.">
+
 <!ENTITY  found.enableXPInstall.label     "वेबसाइट केँ साफ्टवेयर संस्थापनक अनुमति दिअ' ">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
