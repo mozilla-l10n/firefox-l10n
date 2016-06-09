@@ -4,6 +4,7 @@
 
 <!ENTITY window.emWidth "36em">
 <!ENTITY window.emHeight "36em">
-<!ENTITY ChooseApp.description "Kies 'n toepassing">
+
 <!ENTITY ChooseApp.label "Kies…">
 <!ENTITY ChooseApp.accessKey "K">
+

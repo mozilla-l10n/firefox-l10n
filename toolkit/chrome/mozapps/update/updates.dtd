@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "U kopie van &brandShortName; is nie meer op datum nie, maar die jongste weergawe word nie deur u stelsel ondersteun nie. Gradeer asb. u stelsel op en probeer weer. Dié kennisgewing sal nie weer wys nie, maar ">
 <!ENTITY  unsupportedLink.label           "lees gerus meer.">
 
-<!ENTITY  incompatibleCheck.title         "Kontroleer of byvoegings versoenbaar is">
-<!ENTITY  incompatibleCheck.label         "Soek tans vir jonger weergawes van u byvoegings…">
-
 <!ENTITY  clickHere.label                 "Bekyk meer inligting oor hierdie bywerking">
 
 <!ENTITY  evangelism.desc                 "Daar word sterk aanbeveel dat u hierdie bywerking vir &brandShortName; so gou moontlik toepas.">
-
-<!ENTITY  license.instructions            "As u met die bepalings van hierdie ooreenkoms instem, kliek Ek stem in hier onder om hierdie bywerking te installeer.">
-
-<!ENTITY  license.titleText               "Sagtewarelisensieooreenkoms">
-<!ENTITY  license.introText               "Bepalings en voorwaardes vir die gebruik van hierdie sagteware.">
-<!ENTITY  license.instructionText         "Lees asseblief die volgende lisensieooreenkoms. Gebruik die rolbalk om die res van die ooreenkoms te bekyk.">
-<!ENTITY  license.accept                  "Ek aanvaar die bepalings van die lisensieooreenkoms">
-<!ENTITY  license.accept.accesskey        "s">
-<!ENTITY  license.decline                 "Ek aanvaar nié die bepalings van die lisensieooreenkoms nie">
-<!ENTITY  license.decline.accesskey       "n">
-
-<!ENTITY  incompatibleList.title          "Onversoenbare byvoegings gevind">
 
 <!ENTITY  downloadPage.title              "Laai tans &brandShortName; af">
 <!ENTITY  downloading.intro               "Laai tans die bywerking af…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U kan &brandShortName; nou herbegin, of voortgaan om te werk, en later herbegin.">
 
-<!ENTITY  installed.title                 "Bywerking geïnstalleer">
-<!ENTITY  installed.intro                 "Die bywerking is suksesvol geïnstalleer.">
-<!ENTITY  whatsnew.label                  "Leer meer oor wat nuut is…">
 
 <!ENTITY  update.details.label            "Besonderhede">
 <!ENTITY  update.installedOn.label        "Geïnstalleer op:">

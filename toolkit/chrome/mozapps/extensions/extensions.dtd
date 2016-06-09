@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Laai tans…">
-<!ENTITY listEmpty.installed.label            "Daar is geen byvoegings van hierdie tipe geïnstalleer nie">
+
 <!ENTITY listEmpty.availableUpdates.label     "Geen bywerkings gevind nie">
-<!ENTITY listEmpty.recentUpdates.label        "Geen byvoegings is onlangs bygewerk nie">
+
 <!ENTITY listEmpty.findUpdates.label          "Kontroleer vir bywerkings">
 <!ENTITY listEmpty.search.label               "Kon nie enige bypassende byvoegings vind nie">
 <!ENTITY listEmpty.button.label               "Kom meer te wete oor byvoegings">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Verwyder">
 <!ENTITY cmd.uninstallAddon.accesskey         "V">
 <!ENTITY cmd.showPreferencesWin.label         "Opsies">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Verander hierdie byvoeging se opsies">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Voorkeure">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Verander hierdie byvoeging se voorkeure">
+
 <!ENTITY cmd.contribute.label                 "Dra by">
 <!ENTITY cmd.contribute.accesskey             "D">
 <!ENTITY cmd.contribute.tooltip               "Dra by tot die ontwikkeling van hierdie byvoeging">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Wat is byvoegings?">
 <!ENTITY discover.description2                "Byvoegings is toepassings waarmee jy &brandShortName; kan pasmaak met ekstra funksionaliteit of styl. Daar is byvoorbeeld 'n kantbalk wat jou tyd spaar, 'n weerberig, of 'n tema wat &brandShortName; meer laat lyk soos jy daarvan hou.">
-<!ENTITY discover.footer                      "Wanneer jy aan die internet gekoppel is, sal hierdie paneel van die beste en gewildste byvoegings bevat wat jy kan probeer.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Weergawe">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Outobywerkings">
 <!ENTITY detail.updateDefault.label           "Verstek">
-<!ENTITY detail.updateDefault.tooltip         "Installeer bywerkings outomaties net as dit die verstek is">
+
 <!ENTITY detail.updateAutomatic.label         "Aan">
 <!ENTITY detail.updateAutomatic.tooltip       "Installeer bywerkings outomaties">
 <!ENTITY detail.updateManual.label            "Af">
-<!ENTITY detail.updateManual.tooltip          "Moenie bywerkings outomaties installeer nie">
+
 <!ENTITY detail.home                          "Tuisblad">
 <!ENTITY detail.repository                    "Byvoeging-profiel">
 <!ENTITY detail.size                          "Grootte">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Kontroleer vir bywerking vir hierdie byvoeging">
 <!ENTITY detail.showPreferencesWin.label      "Opsies">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Verander hierdie byvoeging se opsies">
+
 <!ENTITY detail.showPreferencesUnix.label     "Voorkeure">
 <!ENTITY detail.showPreferencesUnix.accesskey "V">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Verander hierdie byvoeging se voorkeure">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Wat's dié? Telemetrie kan per geleentheid eksperimente installeer en uitvoer.">
 <!ENTITY experiment.info.learnmore "Meer inligting">
 <!ENTITY experiment.info.learnmore.accesskey "M">
 <!ENTITY experiment.info.changetelemetry "Instellings vir Telemetrie">
