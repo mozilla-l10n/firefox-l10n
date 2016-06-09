@@ -76,7 +76,7 @@
 
 <!ENTITY filterOutput.placeholder "Filtrar saída">
 <!ENTITY btnClear.label        "Limpar">
-<!ENTITY btnClear.tooltip      "Limpar dados da consola web">
+<!ENTITY btnClear.tooltip      "Limpar a saída da consola web">
 <!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
