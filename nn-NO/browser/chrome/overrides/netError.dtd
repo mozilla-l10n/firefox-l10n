@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blokkert av tryggingspraksis for innhald">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; hindra nettsida frå å lasta inn på denne måten fordi nettsida har ein tryggingspraksis som forbyr det.</p>">
 
-<!ENTITY corruptedContentError.title "Øydelagd innhald">
-<!ENTITY corruptedContentError.longDesc "<p>Sida du freistar å visa kan ikkje opnast fordi ein feil i dataoverføringa vart oppdaga.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om dette problemet.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Øydelagd innhald">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Sida du freistar å visa kan ikkje opnast fordi ein feil i dataoverføringa vart oppdaga.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om dette problemet.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Legg til eit unntak…">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Avansert">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> brukar tryggingsteknologi som er utdatert og utsett for åtak. Ein angripar kan lett avsløra informasjon som du trudde var trygg.">
 <!ENTITY weakCryptoAdvanced.override "(Ikkje trygg) Prøv å lasta <span class='hostname'></span> med hjelp av forelda tryggleik">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Usikkert samband">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Denne nettstaden brukar HTTP Strict Transport Security (HSTS) for å spesifisera at &brandShortName; berre skal kopla til trygt. Difor kan ein ikkje leggja til eit unntak for dette sertifikatet.">
+
 <!ENTITY certerror.copyToClipboard.label "Kopier tekst til utklippstavla">
 
 <!ENTITY inadequateSecurityError.title "Tilkoplinga di er ikkje trygg">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brukar tryggingsteknologi som er forelda og sårbar for åtak. Ein angripar kan lett avsløra informasjon som du trudde skulle vera sikker. Administrator på nettstaden må fiksa tenaren før du kan vitja nettsida.</p><p>Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+

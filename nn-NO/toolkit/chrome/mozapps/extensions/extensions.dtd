@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Lastar …">
-<!ENTITY listEmpty.installed.label            "Du har ingen utvidingar av denne typen installert">
+
 <!ENTITY listEmpty.availableUpdates.label     "Ingen oppdateringar funne">
-<!ENTITY listEmpty.recentUpdates.label        "Du har ikkje nyleg oppdatert utvidingane">
+
 <!ENTITY listEmpty.findUpdates.label          "Sjå etter oppdateringar">
 <!ENTITY listEmpty.search.label               "Klarte ikkje å finna passande utvidingar">
 <!ENTITY listEmpty.button.label               "Les meir om utvidingar">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Slett">
 <!ENTITY cmd.uninstallAddon.accesskey         "e">
 <!ENTITY cmd.showPreferencesWin.label         "Innstillingar">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Endra innstillingane til denne utvidinga">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Innstillingar">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Endra innstillingane til denne utvidinga">
+
 <!ENTITY cmd.contribute.label                 "Ver med">
 <!ENTITY cmd.contribute.accesskey             "V">
 <!ENTITY cmd.contribute.tooltip               "Bidra til utviklinga av denne utvidinga">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Kva er utvidingar?">
 <!ENTITY discover.description2                "Utvidingar er program som lèt deg tilpassa &brandShortName; med ekstra funksjonalitet eller annan stil. Prøv ein sidestolpe som sparer deg tid, vêrvarsling, eller eit tema som får &brandShortName; til å sjå ut som din eigen.">
-<!ENTITY discover.footer                      "Når du er kopla til nettet vil dette vindauget innehalda nokre av dei beste og mest populære utvidingane som du kan prøva ut.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Version">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Automatiske oppdateringar">
 <!ENTITY detail.updateDefault.label           "Standard">
-<!ENTITY detail.updateDefault.tooltip         "Installer oppdateringar automatisk berre om det er standard">
+
 <!ENTITY detail.updateAutomatic.label         "på">
 <!ENTITY detail.updateAutomatic.tooltip       "Installer utvidingar automatisk ">
 <!ENTITY detail.updateManual.label            "Av">
-<!ENTITY detail.updateManual.tooltip          "Ikkje installer oppdateringar automatisk">
+
 <!ENTITY detail.home                          "Heimeside">
 <!ENTITY detail.repository                    "Utvidingsprofil">
 <!ENTITY detail.size                          "Storleik">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Søker etter oppdateringar for denne utvidinga">
 <!ENTITY detail.showPreferencesWin.label      "Innstillingar">
 <!ENTITY detail.showPreferencesWin.accesskey  "I">
-<!ENTITY detail.showPreferencesWin.tooltip    "Endre innstillingane til denne utvidinga">
+
 <!ENTITY detail.showPreferencesUnix.label     "Innstillingar">
 <!ENTITY detail.showPreferencesUnix.accesskey "I">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Endre innstillingane til denne utvidinga">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Kva er dette? Telemetri kan installera og køyra eksperiment med jamne mellomrom.">
 <!ENTITY experiment.info.learnmore "Les meir">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Telemetri-innstillingar">

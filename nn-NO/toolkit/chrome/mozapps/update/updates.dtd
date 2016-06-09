@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "&brandShortName; er utdatert, men den nyaste versjonen er ikkje støtta på systemet ditt. Oppgrader systemet, og prøv igjen. Du vil ikkje sjå dette varselet igjen, men du kan ">
 <!ENTITY  unsupportedLink.label           "lesa meir om det.">
 
-<!ENTITY  incompatibleCheck.title         "Kontrollerer utvidingskompatibilitet">
-<!ENTITY  incompatibleCheck.label         "Søkjer etter nyare versjonar av utvidingar og tema …">
-
 <!ENTITY  clickHere.label                 "Trykk her for meir informasjon om denne oppdateringa">
 
 <!ENTITY  evangelism.desc                 "Det er sterkt tilrådd at du installerer denne oppdateringa for &brandShortName; så snart som muleg.">
-
-<!ENTITY  license.instructions            "Dersom du godtek vilkåra i avtalen, trykk på Godta-knappen under for å halda fram å installera oppdateringa.">
-
-<!ENTITY  license.titleText               "Avtale for programvarelisens">
-<!ENTITY  license.introText               "Vilkår for bruk av denne programvara.">
-<!ENTITY  license.instructionText         "Les følgjande lisensavtale. Bruk rullefeltet for å sjå resten av avtalen.">
-<!ENTITY  license.accept                  "Eg godtek vilkåra i lisensavtalen">
-<!ENTITY  license.accept.accesskey        "E">
-<!ENTITY  license.decline                 "Eg godtek IKKJE vilkåra i lisensavtalen">
-<!ENTITY  license.decline.accesskey       "d">
-
-<!ENTITY  incompatibleList.title          "Ikkje-kompatible utvidingar/tema funne">
 
 <!ENTITY  downloadPage.title              "Lastar ned &brandShortName;">
 <!ENTITY  downloading.intro               "Lastar ned oppdateringa …">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Oppdateringa vil bli installert neste gong &brandShortName; startar. Du kan starta &brandShortName; på nytt no, eller du kan halda fram med å arbeida og starta på nytt einare.">
 
-<!ENTITY  installed.title                 "Oppdatering installert">
-<!ENTITY  installed.intro                 "Oppdateringa vart installert.">
-<!ENTITY  whatsnew.label                  "Les om kva som er nytt …">
 
 <!ENTITY  update.details.label            "Detaljar">
 <!ENTITY  update.installedOn.label        "Installert:">

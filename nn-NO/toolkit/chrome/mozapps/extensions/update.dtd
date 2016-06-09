@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Oppdateringar funne">
 <!ENTITY  found.top.label                 "Vel dei oppdateringane du ønskjer å installere:">
-<!ENTITY  found.disabledXPinstall.label   "Desse oppdateringane kan ikkje installerast fordi programvareinstallering er slått av. Du kan endra denne i innstillinga nedanfor.">
+
 <!ENTITY  found.enableXPInstall.label     "Tillat nettsider å installera programvare.">
 <!ENTITY  found.enableXPInstall.accesskey "T">
 
