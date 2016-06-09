@@ -18,18 +18,24 @@
 <!ENTITY firstrun_signin_message "Eike, eñepyrũ">
 <!ENTITY firstrun_signin_button "Emoñepyrũ tembiapo embojuehe hag̃ua">
 <!ENTITY  onboard_start_button_browser "Eñepyrũ eikundaha">
-
+<!ENTITY firstrun_button_notnow "Ko\u0027ág̃a nahániri">
 <!ENTITY firstrun_button_next "Upeigua">
 
+<!ENTITY firstrun_tabqueue_title "Joajuhakuéra">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Emyendy Tendayke Ha\u0027ãrõva">
+<!ENTITY firstrun_tabqueue_subtext_off "Eñongatu &brandShortName;-pe joajuha ag̃avépe g̃uarã, reipurukuaátava ambue app-pe.">
 
+<!ENTITY firstrun_tabqueue_subtext_on "Akóinte emoingekuaa kóva &settings;pe oĩva &pref_category_general;pe.">
 
-
-
+<!ENTITY firstrun_readerview_title "Marandukuéra">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-
+<!ENTITY firstrun_readerview_message "Emopotĩ ojehecháva">
+<!ENTITY firstrun_readerview_subtext "Eipuru Moñe\u0027ẽrã Jehechaha ehechaporãve emoñe\u0027ẽséva \u2014 ñanduti\u0027ỹre jepe.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!ENTITY firstrun_account_title "Nde">
+<!ENTITY firstrun_account_message "Rerekópa &brandShortName; ambue mba\u0027e\u0027okápe?">
 
 <!ENTITY  onboard_start_restricted1 "Eguerekóta tekorosã ha ñangarekoha ko apopyre momichĩmbyre &brandShortName; mba\u0027éva.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -71,10 +77,12 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Ta\u0027ãngakuéra">
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Moñe\u0027ẽrã Rysýi">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
+<!ENTITY bookmark_folder_items "&formatD; temimoĩ">
+<!ENTITY bookmark_folder_one_item "1 temimoĩ">
 
 <!ENTITY reader_saved_offline "Tairendápe ñongatupyre">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -301,8 +309,10 @@
 <!ENTITY content_notification_title_plural "&formatD; ñanduti renda hekopyahupyréva">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Ñemboheko">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Emoñe\u0027ẽ ko\u0027ág̃a">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -340,6 +350,8 @@ size. -->
 <!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
+<!ENTITY pref_font_size_preview_text "Aguara pytãju raríva ohechauka ndéve mba\u0027éichapa ipya\u0027eve, hasy\u0027ỹve ha hekorosãve. Ndoromba\u0027apói rupi viru rapykuéri, oresãso rojapóvo mba\u0027epyahúva ou porãva ndéve, avave orejopy\u0027ỹre. Upéva he\u0027ise rehasa porãve reikévo ñandutivevépe ha avei iporãve ñandutiveve renonderã.">
 
 <!ENTITY pref_media_autoplay_enabled "Emoneĩ mboheta jeheguíva">
 <!ENTITY pref_media_autoplay_enabled_summary "Ñanduti renda ñangarekoha ikatu emboheta ijehegui ta\u0027ãngamýi ha ambue mba\u0027ekuaarã ñandutiguáva ">
@@ -550,6 +562,7 @@ size. -->
 <!ENTITY home_synced_devices_smartfolder "Mba\u0027e\u0027oka mbojuehepyre">
 <!ENTITY home_synced_devices_number "&formatD; mba\u0027e\u0027oka">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 mba\u0027e\u0027oka">
 <!ENTITY home_history_back_to2 "Ejujey tembiasakue tuichavéva">
 <!ENTITY home_clear_history_button "Embogue kundahára rembiasakue">
 <!ENTITY home_clear_history_confirm "Emboguetese añetépa tembiasakue">
@@ -561,10 +574,15 @@ size. -->
 <!ENTITY home_most_recent_empty "Ñanduti renda eike ramove hague.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Nde!: eipurúrõ &formatS1;New Private Tab&formatS2; noñeñongatumo\u0027ãi ne rembiasakue.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "Mba\u0027eve ndojejuhúi ko mba\u0027erechahápe.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Ejevy &formatS;-pe">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -599,7 +617,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 
 
-
+<!ENTITY identity_connection_chromeui "Kóvaniko &brandShortName; rogue hekorosãva">
 <!-- Mixed content notifications in site identity popup -->
 
 
@@ -620,6 +638,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!ENTITY suggestions_prompt3 "Emyendysépa ñe\u0027ẽreka joguaha jehechauka?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
@@ -630,23 +649,33 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
-<!-- Updater notifications -->
+<!ENTITY suggestion_for_engine "Eheka &formatS1;-pe &formatS2;">
 
+<!ENTITY searchable_description "Techaukaha ha Tembiasakue">
+<!-- Updater notifications --> 
 
+<!ENTITY updater_start_title2 "Oĩma Tekopyahu &brandShortName;-pe g̃uarã">
+<!ENTITY updater_start_select2 "Epoko remboguejy hag̃ua">
 
+<!ENTITY updater_downloading_title_failed2 "Ñemboguejy javypyre">
+<!ENTITY updater_downloading_select2 "Epoko reipuru hag̃ua oñemboguejypa rire">
+<!ENTITY updater_downloading_retry2 "Epoko reha\u0027ãjey hag̃ua">
 
-
-
-
+<!ENTITY updater_apply_select2 "Epoko rembohekopyahu hag̃ua">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Embohekopyahu hag̃ua marandurenda ha tekopyahu, emoneĩ &brandShortName; oike hag̃ua mbyatyrendápe">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!-- Guest mode -->
+<!ENTITY updater_permission_allow "Moneĩ">
+<!-- Guest mode -->    
 
+<!ENTITY new_guest_session "Tembiapopa\u0027ũ Pepirũmbyre">
+<!ENTITY exit_guest_session "Tembiapopa\u0027ũ Pepirũmbyrégui ñese">
+<!ENTITY guest_session_dialog_continue "Ehove hese">
 
-
-
+<!ENTITY new_guest_session_title "&brandShortName; oñepyrũjeýta">
 
 
 
