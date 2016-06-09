@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Không tự động kiểm tra các cập nhật (không nên vì nguy cơ bảo mật)">
 <!ENTITY updateManual.accesskey          "n">
 
-<!ENTITY updateAutoAddonWarn.label       "Cảnh báo tôi nếu điều này làm vô hiệu hóa tiện ích nào đó">
-<!ENTITY updateAutoAddonWarn.accesskey   "C">
-
 <!ENTITY updateHistory.label             "Hiển thị Lược sử Cập nhật">
 <!ENTITY updateHistory.accesskey         "L">
 

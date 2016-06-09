@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Mở tùy chỉnh của &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Kết nối lại tới &syncBrand.shortName.label;">
 
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; đã bật">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; sẽ bắt đầu đồng bộ ngay.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Thu nhỏ">
@@ -171,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các trang đánh dấu">
 
+
+
+
+
 <!ENTITY backCmd.label                "Lùi">
 <!ENTITY backButton.tooltip           "Trở lại trang trước">
 <!ENTITY forwardCmd.label             "Tiến">
@@ -221,6 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewBookmarksSidebar2.label        "Hiển thị thanh lề đánh dấu trang">
 <!ENTITY viewBookmarksToolbar.label         "Hiển thị thanh đánh dấu trang">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -253,14 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Tập tin"> 
 <!ENTITY fileMenu.accesskey       "T">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY newNavigatorCmd.label        "Cửa sổ mới">
@@ -549,19 +544,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Bật tiếng">
 <!ENTITY mediaUnmute.accesskey       "B">
-<!ENTITY mediaPlaybackRate.label     "Tốc độ chơi">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Chuyển động chậm (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "h">
-<!ENTITY mediaPlaybackRate100x.label "Tốc độ bình thường">
-<!ENTITY mediaPlaybackRate100x.accesskey "b">
-<!ENTITY mediaPlaybackRate150x.label "Tốc độ nhanh (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "n">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Tốc độ rất nhanh (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "r">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Tìm thấy các Tiện ích Tương thích">
 <!ENTITY  found.top.label                 "Chọn các tiện ích bạn muốn cài đặt:">
-<!ENTITY  found.disabledXPinstall.label   "Các bản cập nhật này không thể cài đặt được bởi vì chức năng cài đặt phần mềm hiện tại đã bị vô hiệu hóa. Bạn có thể thay đổi thiết lập này bên dưới.">
+
 <!ENTITY  found.enableXPInstall.label     "Cho phép các trang web cài đặt phần mềm">
 <!ENTITY  found.enableXPInstall.accesskey "C">
 
