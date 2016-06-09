@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Kicholajem taq q'atoj">
-<!ENTITY window.width                 "50em">
+
 
 <!ENTITY treehead.list.label          "Cholajem">
 <!ENTITY windowClose.key              "w">

@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Tajin yejaq ri rajowaxïk &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Tok chik pam &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Tanik'oj ri ataqoya'l">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; tzijïl">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; chi jataq xtutikirisaj ri ximojri'ïl.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Ch'utinarisaxïk">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Ch'aqa' chik taq Yaketal">
 <!ENTITY bookmarksToolbarChevron.tooltip "Kek'ut pe ch'aqa' chik taq yaketal">
 
+
+
+
+
 <!ENTITY backCmd.label                "Chi ruwäch">
 <!ENTITY backButton.tooltip           "Titzolïx jun ruxaq">
 <!ENTITY forwardCmd.label             "Jun chik">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Ch'aqa' chik taq Yaketal">
 <!ENTITY viewBookmarksSidebar2.label        "Titz'et ri ajxikin kipas taq yaketal ">
 <!ENTITY viewBookmarksToolbar.label         "Titz'et rukatz'ik taq yaketal">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "Y">
 <!ENTITY newUserContext.label             "K'ak'a' k'ojlib'äl ruwi'">
 <!ENTITY newUserContext.accesskey         "k">
-<!ENTITY userContextPersonal.label        "Ichinan">
-<!ENTITY userContextPersonal.accesskey    "I">
-<!ENTITY userContextWork.label            "Chapoj samaj">
-<!ENTITY userContextWork.accesskey        "C">
-<!ENTITY userContextBanking.label         "Yakb'äl pwäq">
-<!ENTITY userContextBanking.accesskey     "Y">
-<!ENTITY userContextShopping.label        "Tiloq'">
-<!ENTITY userContextShopping.accesskey    "T">
 <!ENTITY newNavigatorCmd.label        "K'ak'a' tzuwäch">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "K">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Tak'axäx">
 <!ENTITY mediaUnmute.accesskey       "a">
-<!ENTITY mediaPlaybackRate.label     "Chanin Rutzijik">
-<!ENTITY mediaPlaybackRate.accesskey "t">
-<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "Pa rub'eyal b'inem">
-<!ENTITY mediaPlaybackRate100x.accesskey "P">
-<!ENTITY mediaPlaybackRate150x.label "High Speed (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "H">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "L">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Ütz Okem">
 <!ENTITY identity.connectionNotSecure "Itzel chi Okem">
 <!ENTITY identity.connectionFile "Re ruxaq k'amaya'l re' yakon pan akematz'ib'.">
-<!ENTITY identity.connectionVerified1 "Ütz ri awokem pa re ruxaq k'amaya'l re', samajib'en ruma:">
+
 <!ENTITY identity.connectionInternal "Re re' ütz chi &brandShortName; ruxaq.">
 <!ENTITY identity.insecureLoginForms2 "Kitikirib'al taq molojri'ïl etz'ib'an pa re ruxaq k'amaya'l re' rik'in jub'a' ye'itzelan.">
 <!-- Strings for connection state warnings. -->

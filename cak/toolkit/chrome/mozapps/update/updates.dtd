@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Ri &brandShortName; man k'exon ta ruwäch, xa xe chi ri ruk'isib'äl ruwäch man nuk'äm ta ri' rik'in ri aq'inoj. Tak'exa' ruwäch ri aq'inoj k'a ri' tatojtob'ej chik. Man xtatz'ët ta chik re rutzijol re', po yatikïr">
 <!ENTITY  unsupportedLink.label           "tawetamaj ch'aqa' chik taq etamab'äl.">
 
-<!ENTITY  incompatibleCheck.title         "Runik'oxik ri we nikik'äm ki' ri taq tz'aqat">
-<!ENTITY  incompatibleCheck.label         "Tajin nikanöx ch'aqa' chik kiwäch ri taq tz'aqat…">
-
 <!ENTITY  clickHere.label                 "Titz'et ch'aqa' chik rutzijol chi rij re k'exoj ruwäch re'">
 
 <!ENTITY  evangelism.desc                 "Nichilab'ëx chi tiyak re  Ruk'exoj ruwäch ri &brandShortName; pa aninäq.">
-
-<!ENTITY  license.instructions            "We ütz yetz'et ri rojqanem re jun tunuj na'oj re', tapitz'a' pa Ütz nintz'et ri tunuj na'oj richin nitikïr chik el rik'in ri ruyakik ri k'exoj ruwäch.">
-
-<!ENTITY  license.titleText               "Rutunuj Na'oj ri rya'öl q'ij kema'">
-<!ENTITY  license.introText               "Taq ojqanem chuqa' achike nuk'äm pe ri rokisaxik re kema' re'.">
-<!ENTITY  license.instructionText         "Tasik'ij re jun tunuj na'oj re' richin ya'öl q'ij. Tawokisaj ri ruche'el richin natz'ët ri ch'aqa' chik taq rucholajem tzij.">
-<!ENTITY  license.accept                  "Yenk'üt ri taq rojqanem ri tunuj na'oj richin niya' q'ij">
-<!ENTITY  license.accept.accesskey        "C">
-<!ENTITY  license.decline                 "MANÄQ man yenk'ül ta ri taq rojqanem ri tunuj na'oj richin niya' q'ij">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "E k'o taq tz'aqat ri man nikik'äm ta ki'">
 
 <!ENTITY  downloadPage.title              "Tajin niqasäx &brandShortName;">
 <!ENTITY  downloading.intro               "Tajin niqasäx ri k'exoj ruwäch…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Xtiyake ri k'exoj ruwäch toq xtatikirisaj chik &brandShortName;. Wakami ütz natikirisaj chik &brandShortName; ütz chuqa' yasamäj chuqa' natikirisaj chik el pa jun chik ti mej.">
 
-<!ENTITY  installed.title                 "Xyak ri k'exoj ruwäch">
-<!ENTITY  installed.intro                 "Ütz xyake' chupam ri k'exoj ruwäch.">
-<!ENTITY  whatsnew.label                  "Tisik'ïx ch'aqa' chik chi kij ri k'ak'a' taq…">
 
 <!ENTITY  update.details.label            "Taq b'anikil">
 <!ENTITY  update.installedOn.label        "Xyak pa:">

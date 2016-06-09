@@ -8,7 +8,7 @@
 
 <!ENTITY aboutWarningTitle.label "Nïm runuk'ulem">
 <!ENTITY aboutWarningText.label "Re ruxaq nuk'ulem, nuya' q'ij chi ye'ak'ëx ri nima'q taq awajowab'al, yejal ri taq retal toq majun awetamab'al achajin, rik'in jub'a' itzel taq rub'anikil xke'anük'. Niqachilab'ej chawe chi mani yatok po yatikïr we kan awetaman achike ri xtasamajij qa.">
-<!ENTITY aboutWarningButton.label "Xtinchajij wi' ¡qitzij ninb'ij!">
+
 <!ENTITY aboutWarningCheckbox.label "Junelïk tik'ut pe re jun retal k'ayewal re'.">
 
 <!ENTITY searchPrefs.label "Tikanöx:">

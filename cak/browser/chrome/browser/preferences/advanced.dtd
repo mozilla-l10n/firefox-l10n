@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Mani nikanöx taq k'exoj ruwäch (man chilab'en ta: ruk'ayewal chajinïk)">
 <!ENTITY updateManual.accesskey          "M">
 
-<!ENTITY updateAutoAddonWarn.label       "Taya' pe rutzijol chwe we re re' yeruchüp jun chi ke ri taq nutz'aqat">
-<!ENTITY updateAutoAddonWarn.accesskey   "T">
-
 <!ENTITY updateHistory.label             "Tik'ut pe ri runatab'al taq k'exoj ruwäch">
 <!ENTITY updateHistory.accesskey         "k">
 
