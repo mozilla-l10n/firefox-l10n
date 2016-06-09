@@ -39,7 +39,6 @@
 
 <!ENTITY bookmarks_title "Zakładki">
 <!ENTITY history_title "Historia">
-<!ENTITY recent_tabs_title "Ostatnio otwarte karty">
 
 <!ENTITY switch_to_tab "Przełącz na kartę">
 
@@ -423,11 +422,8 @@
 <!ENTITY home_clear_history_button "Wyczyść historię przeglądania">
 <!ENTITY home_clear_history_confirm "Czy na pewno wyczyścić historię przeglądania?">
 <!ENTITY home_bookmarks_empty "Tutaj pojawiają się zachowane zakładki.">
-<!ENTITY home_closed_tabs_title "Niedawno zamknięte karty">
 <!ENTITY home_closed_tabs_title2 "Ostatnio zamknięte">
-<!ENTITY home_last_tabs_title "Karty z ostatniej sesji">
 <!ENTITY home_last_tabs_empty "Tutaj pojawiają się ostatnio otwarte karty.">
-<!ENTITY home_open_all "Otwórz wszystkie">
 <!ENTITY home_restore_all "Przywróć wszystkie">
 <!ENTITY home_closed_tabs_number "Karty: &formatD;">
 <!ENTITY home_closed_tabs_one "Karty: 1">
