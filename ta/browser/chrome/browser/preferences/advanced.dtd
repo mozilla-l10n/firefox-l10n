@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "புதுப்பித்தல்கள் உள்ளதா என்று ஒரு போதும் பார்க்க வேண்டாம் (பரிந்துரைக்கப்படவில்லை: பாதுகாப்பு அபாயம்)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "இது என் துணை நிரல்கள் எதையேனும் முடக்கும் எனில் எச்சரிக்கை செய்">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "மேம்படுத்தல் வரலாற்றைக் காட்டு">
 <!ENTITY updateHistory.accesskey         "p">
 

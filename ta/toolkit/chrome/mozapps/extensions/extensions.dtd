@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "ஏற்றுகிறது…">
-<!ENTITY listEmpty.installed.label            "இந்த வகையில் கூடுதல் இணைப்பு உங்களிடம் இல்லையெனில் நிறுவவும்">
+
 <!ENTITY listEmpty.availableUpdates.label     "புதுப்பித்தல்கள் எதுவும் இல்லை">
-<!ENTITY listEmpty.recentUpdates.label        "நீங்கள் எந்த கூடுதல் இணைப்புகளையும் சமீபத்தில் புதுப்பிக்கவில்லை">
+
 <!ENTITY listEmpty.findUpdates.label          "புதுப்பித்தல்களுக்கு சரி பார்க்கவும்">
 <!ENTITY listEmpty.search.label               "பொருந்தும் எந்த கூடுதல் இணைப்புகளையும் காண முடியவில்லை">
 <!ENTITY listEmpty.button.label               "கூடுதல் இணைப்புகள் பற்றி மேலும் அறிய">
@@ -105,9 +105,9 @@
 <!ENTITY cmd.uninstallAddon.label             "நீக்கு">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "விருப்பங்கள்">
-<!ENTITY cmd.showPreferencesWin.tooltip       "இந்த கூடுதல் இணைப்பு விருப்பங்களை மாற்றவும்">
+
 <!ENTITY cmd.showPreferencesUnix.label        "விருப்பங்கள்">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "இந்த கூடுதல் இணைப்பு விருப்பங்களை மாற்றவும்">
+
 <!ENTITY cmd.contribute.label                 "உதவுங்கள்">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "இந்த கூடுதல் இணைப்பை உருவாக்க உதவுங்கள்">
@@ -122,7 +122,7 @@
 
 <!ENTITY discover.title                       "கூடுதல் இணைப்பு என்றால் என்ன?">
 <!ENTITY discover.description2                "கூடுதல் இணைப்பு என்பது கூடுதல் செயல்பாடு அல்லது பாணியுடன் &brandShortName;-ஐ தனிப்பட்டதாக்கும் பயன்பாடுகள் ஆகும். ஒரு நேரம் சேமிக்கும் பக்கப்பட்டை, ஒரு வானிலை அறிவிப்பி அல்லது உங்களுக்கு சொந்தமாக உள்ள &brandShortName; -இன் தீம்மை முயற்சிக்கவும்.">
-<!ENTITY discover.footer                      "நீங்கள் இணையத்தில் இணைக்கப்படும் போது, இந்த பலகம் உங்களுக்கு மிகவும் பிரபலமான கூடுதல் இணைப்புகளை நீங்கள் முயற்சிக்க காட்டும்.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "பதிப்பு">
@@ -135,11 +135,11 @@
 
 <!ENTITY detail.updateType                    "தானியாக்க புதுப்பித்தல்கள்">
 <!ENTITY detail.updateDefault.label           "முன்னிருப்பு">
-<!ENTITY detail.updateDefault.tooltip         "அது முன்னிருப்பாக இருந்தால் மட்டும் தானாக புதுப்பித்தல்களை தானா நிறுவவும்">
+
 <!ENTITY detail.updateAutomatic.label         "இயக்கு">
 <!ENTITY detail.updateAutomatic.tooltip       "தானாக புதுப்பித்தல்களை நிறுவவும்">
 <!ENTITY detail.updateManual.label            "நிறுத்து">
-<!ENTITY detail.updateManual.tooltip          "தானாக புதுப்பித்தல்களை நிறுவ வேண்டாம்">
+
 <!ENTITY detail.home                          "முதன்மை பக்கம்">
 <!ENTITY detail.repository                    "கூடுதல் இணைப்பு விவரக்குறிப்பு">
 <!ENTITY detail.size                          "அளவு">
@@ -149,10 +149,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "இந்த கூடுதல் இணைப்பிற்கான புதுப்பித்தல்களுக்கு சரி பார்">
 <!ENTITY detail.showPreferencesWin.label      "விருப்பங்கள்">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "இந்த கூடுதல் இணைப்பின் விருப்பங்களை மாற்று">
+
 <!ENTITY detail.showPreferencesUnix.label     "விருப்பங்கள்">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "இந்த கூடுதல் இணைப்புகளின் விருப்பங்களை மாற்று">
+
 <!-- ratings -->
 
 
@@ -221,8 +221,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "என்ன இது? நேரத்திற்கு நேரம் தொலைப்பதிவவானது சோதனைகளை நிறுவி இயக்க கூடும்.">
 <!ENTITY experiment.info.learnmore "மேலும் அறிய">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "தொலைப்பதிவு அமைவுகள்">
