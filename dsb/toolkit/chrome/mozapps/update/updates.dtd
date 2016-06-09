@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Waš &brandShortName; jo zestarjony, ale nejnowša wersija njepódpěra se na wašom systemje. Pšosym zaktualizěrujśo swój system a wopytajće pótom hyšći raz. Njebuźośo toś tu powěźeńku znowego wiźeś, ale móžośo">
 <!ENTITY  unsupportedLink.label           "wěcej wó tom zgóniś.">
 
-<!ENTITY  incompatibleCheck.title         "Kompatibelnosć dodankow pśespytaś">
-<!ENTITY  incompatibleCheck.label         "Pytanje za nowšymi wersijami wašych dodankow…">
-
 <!ENTITY  clickHere.label                 "Dalšne informacije wó toś tej aktualizaciji cytaś">
 
 <!ENTITY  evangelism.desc                 "Pśiraźijo se kšuśe, až nałožujośo toś tu aktualizaciju za &brandShortName; tak skóro ako móžno.">
-
-<!ENTITY  license.instructions            "Jolic sćo z wumjěnjami dojadnanja wobjadny, klikniśo dołojce na Wobjadny, aby z instalaciju tós teje aktualizacije pókšacował.">
-
-<!ENTITY  license.titleText               "Softwarowe licencne dojadnanje">
-<!ENTITY  license.introText               "Wuměnjenja za wužywanje toś teje softwary.">
-<!ENTITY  license.instructionText         "Pšosym pśecytajśo slědujuce licencne dojadnanje. Wužyjśo suwatu rědku, aby zbytk toś togo dojadnanja cytał.">
-<!ENTITY  license.accept                  "Akceptěrujom wuměnjenja licencnego dojadnanja">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "NJEakceptěrujom wuměnjenja licencnego dojadnanja">
-<!ENTITY  license.decline.accesskey       "N">
-
-<!ENTITY  incompatibleList.title          "Njekompatibelne dodanki namakane">
 
 <!ENTITY  downloadPage.title              "&brandShortName; ześěgnuś">
 <!ENTITY  downloading.intro               "Aktualizacija se ześěgujo…">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Aktualizacija buźo se instalěrowaś pśiducy raz, gaž &brandShortName; startujo. Móžośo &brandShortName; něnto znowego startowaś abo dalej źěłaś a pózdźej znowego startowaś.">
 
-<!ENTITY  installed.title                 "Aktualizacija zainstalěrowana">
-<!ENTITY  installed.intro                 "Aktualizacija jo se wuspěšnje zainstalěrowała.">
-<!ENTITY  whatsnew.label                  "Wěcej wó tom cytaś, což jo nowe…">
 
 <!ENTITY  update.details.label            "Drobnostki">
 <!ENTITY  update.installedOn.label        "Zainstalěrowany na:">

@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Nigda za aktualizacijami njepytaś (njedopórucone: wěstotne riziko)">
 <!ENTITY updateManual.accesskey          "e">
 
-<!ENTITY updateAutoAddonWarn.label       "Warnowaś, jolic to znjemóžnijo dodanki">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 <!ENTITY updateHistory.label             "Aktualizacisku historiju pokazaś">
 <!ENTITY updateHistory.accesskey         "h">
 

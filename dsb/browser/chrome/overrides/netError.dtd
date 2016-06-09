@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Pśez wěstotne pšawidła za wopśimjeśe zablokěrowany">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; jo zacytowanjoju toś togo boka na toś ten nałog zajźował, dokulaž bok ma wěstotne pšawidła za wopśimjeśe, kótarež to njedowóluju.</p>">
 
-<!ENTITY corruptedContentError.title "Zmólka - wobškóźone wopśimjeśe">
-<!ENTITY corruptedContentError.longDesc "<p>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž jo se zmólka pśi pśenosowanju datow namakała.</p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Zmólka - wobškóźone wopśimjeśe">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž jo se zmólka pśi pśenosowanju datow namakała.</p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Wuwześe pśidaś…">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Rozšyrjone">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> wužywa wěstotnu technologiju, kótaraž jo zestarjona a napadojta na napady. Napadowaŕ by mógał lažko daty wótkšyś, kótarež su za wěste měli.">
 <!ENTITY weakCryptoAdvanced.override "(Njewěsty) Zestarjonu wěstotu wužywaś, aby <span class='hostname'></span> zacytował">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Njewěsty zwisk">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Toś to sedło wužywa HTTP Strict Transport Security (HSTS), aby pódało, až &brandShortName; ma jano wěsćej z nim zwězaś. Pótakem njejo móžno wuwześe za toś ten certifikat pśidaś.">
+
 <!ENTITY certerror.copyToClipboard.label "Tekst do mjazywótkłada kopěrowaś">
 
 <!ENTITY inadequateSecurityError.title "Waš zwisk njejo wěsty">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> wužywa wěstotnu technologiju, kótaraž jo zestarjona a sensibelna za napady. Napadowaŕ by mógał informacije lažko namakaś, kótarež maśo za wěste. Websedłowy administrator musy problem na serwerje rozwězaś, nježli až móžośo se k sedłoju woglědaś.</p><p>Zmólkowy kod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+

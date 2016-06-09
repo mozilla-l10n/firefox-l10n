@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Nastajenja &syncBrand.shortName.label; wócyniś">
 <!ENTITY fxaSignInError.label "Z &syncBrand.shortName.label; znowego zwězaś">
 <!ENTITY fxaUnverified.label "Wašo konto wobkšuśiś">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; zmóžnjony">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; chapja we wokognuśu synchronizěrowaś.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Miniměrowaś">
@@ -172,6 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Druge cytańske znamjenja">
 <!ENTITY bookmarksToolbarChevron.tooltip "Dalšne cytańske znamjenja pokazaś">
 
+
+
+
+
 <!ENTITY backCmd.label                "Slědk">
 <!ENTITY backButton.tooltip           "Jaden bok slědk">
 <!ENTITY forwardCmd.label             "Doprědka">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Druge cytańske znamjenja">
 <!ENTITY viewBookmarksSidebar2.label        "Rědku cytańskich znamjenjow pokazaś">
 <!ENTITY viewBookmarksToolbar.label         "Rědku cytańskich znamjenjow pokazaś">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Nowy kontejnerowy rejtark">
 <!ENTITY newUserContext.accesskey         "k">
-<!ENTITY userContextPersonal.label        "Wósobinski">
-<!ENTITY userContextPersonal.accesskey    "W">
-<!ENTITY userContextWork.label            "Słužbny">
-<!ENTITY userContextWork.accesskey        "S">
-<!ENTITY userContextBanking.label         "Bankownistwo">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Nakupowanje">
-<!ENTITY userContextShopping.accesskey    "N">
 <!ENTITY newNavigatorCmd.label        "Nowe wokno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -560,19 +555,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "B">
 <!ENTITY mediaUnmute.label           "Ze zukom">
 <!ENTITY mediaUnmute.accesskey       "z">
-<!ENTITY mediaPlaybackRate.label     "Wótgrawańska malsnošć">
-<!ENTITY mediaPlaybackRate.accesskey "m">
-<!ENTITY mediaPlaybackRate050x.label "Pomała malsnosć (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "P">
-<!ENTITY mediaPlaybackRate100x.label "Normalna malsnosć">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Wusoka malsnosć (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "W">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Jara wusoka spěšnosć (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "J">
+
+
+
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Wěsty zwisk">
 <!ENTITY identity.connectionNotSecure "Zwisk njejo wěsty">
 <!ENTITY identity.connectionFile "Toś ten bok jo se na wašom licadle składł.">
-<!ENTITY identity.connectionVerified1 "Sćo z toś tym sedłom wěsće zwězany, kótaregož wobgóspodarjowaŕ jo:">
+
 <!ENTITY identity.connectionInternal "To jo wěsty bok &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Pśizjawjenja, kótarež zapódawaju se na toś tom boku, by mógli wobgrozone byś.">
 <!-- Strings for connection state warnings. -->
