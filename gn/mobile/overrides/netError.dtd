@@ -88,8 +88,8 @@
 <!ENTITY cspBlocked.title "Ojejoko hetepy rekorosãrã purureko rupi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ndohejái ko kuatiaroguépe oñemyañyhẽvo kóicha pe kuatiarogue oguereko rupi tetepy rekorosãrã purureko nomoneĩrĩva.</p>">
 
-<!ENTITY corruptedContentError.title "Tetepy imarãva jejavy">
-<!ENTITY corruptedContentError.longDesc "<p>Pe Kuatiarogue ehechaséva ndaikatúi ojehechauka ndéve ojejuhu rupi peteĩ jejavy mba'ekuaarã ñembohasakuévo.</p><ul><li>Ikatúpiko, eñe'ẽ ko ñanduti renda jarakuéra ndive emomarandumi hag̃ua chupekuéra ko apañuãi.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Tetepy imarãva jejavy">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Pe Kuatiarogue ehechaséva ndaikatúi ojehechauka ndéve ojejuhu rupi peteĩ jejavy mba'ekuaarã ñembohasakuévo.</p><ul><li>Ikatúpiko, eñe'ẽ ko ñanduti renda jarakuéra ndive emomarandumi hag̃ua chupekuéra ko apañuãi.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Térã ikatu embojoapy oĩ'ỹva…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Cheguenohẽmína ko'águi!">
