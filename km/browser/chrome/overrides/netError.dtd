@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "បង្ហាញ​ក្នុង​ការ​ផ្ទុក​ទំព័រ">
 <!ENTITY retry.label "ព្យាយាម​ម្តងទៀត">
-
-
+<!ENTITY returnToPreviousPage.label "ថយក្រោយ">
+<!ENTITY advanced.label "កម្រិត​ខ្ពស់">
 <!-- Specific error messages -->
 
 
@@ -89,11 +89,12 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "មិន​អាច​តភ្ជាប់​ដោយ​សុវត្ថិភាព​ឡើយ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "ព័ត៌មាន​កម្រិត​ខ្ពស់៖ SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "ព័ត៌មាន​កម្រិត​ខ្ពស់៖ SSL_ERROR_NO_CYPHER_OVERLAP">
-
+<!ENTITY weakCryptoUsed.longDesc2 "ព័ត៌មាន​កម្រិត​ខ្ពស់​: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "កម្រិត​ខ្ពស់">
 
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
