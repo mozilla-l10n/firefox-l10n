@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Жүктелуде…">
-<!ENTITY listEmpty.installed.label            "Сізде осы түрдегі қосымшалар орнатылмаған">
+
 <!ENTITY listEmpty.availableUpdates.label     "Жаңартулар табылмады">
-<!ENTITY listEmpty.recentUpdates.label        "Соңғы кезде ешбір кеңейту жаңартылмады">
+
 <!ENTITY listEmpty.findUpdates.label          "Жаңартуларды тексеру">
 <!ENTITY listEmpty.search.label               "Сәйкес келетін қосымшалар табылмады">
 <!ENTITY listEmpty.button.label               "Қосымшалар жөнінде көбірек біліңіз">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Өшіру">
 <!ENTITY cmd.uninstallAddon.accesskey         "ш">
 <!ENTITY cmd.showPreferencesWin.label         "Баптаулар">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Бұл кеңейтудің баптауларын өзгерту">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Баптаулар">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Бұл кеңейтудің баптауларын көрсету">
+
 <!ENTITY cmd.contribute.label                 "Үлес қосу">
 <!ENTITY cmd.contribute.accesskey             "с">
 <!ENTITY cmd.contribute.tooltip               "Бұл қосымшаны дамытуға үлес қосу">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Кеңейтулер деген не?">
 <!ENTITY discover.description2                "Кеңейтулер - бұл &brandShortName; өзіңіз үшін баптауға көмектесетін қолданбалар, олар стиль не мүмкіндікті қосады. &brandShortName; өзіңізге лайық ету үшін уақыт сақтайтын бүйір панелі, ауа райы хабарлағышы, немесе сыртқы түрі темаларын көріңіз.">
-<!ENTITY discover.footer                      "Интернетке қосулы кезде, бұл панель сізге пайдалы бола алатын кеңейтулерді ұсынып отырады.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Нұсқасы">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Автожаңартулар">
 <!ENTITY detail.updateDefault.label           "Негізгі">
-<!ENTITY detail.updateDefault.tooltip         "Жаңартуларды тек ол негізгі баптау болса ғана автоорнату">
+
 <!ENTITY detail.updateAutomatic.label         "Іске қосулы">
 <!ENTITY detail.updateAutomatic.tooltip       "Жаңартуларды автоорнату">
 <!ENTITY detail.updateManual.label            "Сөндірулі">
-<!ENTITY detail.updateManual.tooltip          "Жаңартуларды автоорнатпау">
+
 <!ENTITY detail.home                          "Үй парағы">
 <!ENTITY detail.repository                    "Кеңейту профайлы">
 <!ENTITY detail.size                          "Өлшемі">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Бұл қосымша үшін жаңартуларды іздеу">
 <!ENTITY detail.showPreferencesWin.label      "Баптаулар">
 <!ENTITY detail.showPreferencesWin.accesskey  "Б">
-<!ENTITY detail.showPreferencesWin.tooltip    "Бұл кеңейтудің баптауларын өзгерту">
+
 <!ENTITY detail.showPreferencesUnix.label     "Баптаулар">
 <!ENTITY detail.showPreferencesUnix.accesskey "п">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Бұл кеңейтудің баптауларын өзгерту">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Бұл не? Телеметрия кейде эксперименттерді орнатып, орындай алады.">
 <!ENTITY experiment.info.learnmore "Көбірек білу">
 <!ENTITY experiment.info.learnmore.accesskey "л">
 <!ENTITY experiment.info.changetelemetry "Телеметрия баптаулары">

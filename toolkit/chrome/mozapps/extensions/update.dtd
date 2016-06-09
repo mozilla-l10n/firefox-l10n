@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Үйлесімді қосымшалар табылды">
 <!ENTITY  found.top.label                 "Орнату үшін қосымшаларды таңдаңыз:">
-<!ENTITY  found.disabledXPinstall.label   "Жаңартуларды орнату мүмкін емес, өйткені бағдарлама орнату мүмкіндігі. сөндірулі. Мұны осында өзгерте аласыз.">
+
 <!ENTITY  found.enableXPInstall.label     "Веб-сайттарға бағдарламалық қамтаманы орнатуға рұқсат беру">
 <!ENTITY  found.enableXPInstall.accesskey "б">
 

@@ -33,6 +33,9 @@
 <!ENTITY ShrinkToFit.label    "Парақ енімен тең қылу">
 <!ENTITY customPrompt.title   "Масштабты баптау...">
 
+
+
+
 <!ENTITY homearrow.tooltip    "Бірінші парақ">
 <!ENTITY endarrow.tooltip     "Соңғы парақ">
 <!ENTITY nextarrow.tooltip    "Келесі парақ">

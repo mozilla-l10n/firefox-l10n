@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Сіздің &brandShortName; өніміңіз ескірген, бірақта, оның ең соңғы нұсқасы сіздің жүйеңізді қолдамайды. Жүйеңізді жаңартып, қайтадан көріңіз. Осы ескертуді келесіде көрмейсіз, бірақта">
 <!ENTITY  unsupportedLink.label           "көбірек білуіңізге болады.">
 
-<!ENTITY  incompatibleCheck.title         "Қосымшалардың үйлесімділігін тексеру">
-<!ENTITY  incompatibleCheck.label         "Қосымшаларыңыздың жаңа нұсқалары ізделуде…">
-
 <!ENTITY  clickHere.label                 "Бұл жаңарту жөнінде көбірек білу">
 
 <!ENTITY  evangelism.desc                 "&brandShortName; үшін осы жаңартуды сізге неғұрлым тезірек орнату міндетті түрде ұсынылады.">
-
-<!ENTITY  license.instructions            "Келісімнің шартарымен келіссеңіз, Қабылдаймын дегенді жаңарту орнатуды жалғастыру үшін таңдаңыз.">
-
-<!ENTITY  license.titleText               "Бағдарламаның лицензиясын қабылдау">
-<!ENTITY  license.introText               "Осы бағдарламалық қамтаманы қолдану мерзімі мен шарттары.">
-<!ENTITY  license.instructionText         "Төмендегі лицензиялық келісімді оқып шығыңыз. Толығымен қарау үшін скролл бар қолданыңыз.">
-<!ENTITY  license.accept                  "Мен бұл лицензиялық келесімді қабылдаймын">
-<!ENTITY  license.accept.accesskey        "д">
-<!ENTITY  license.decline                 "Мен бұл лицензиялық келесімді қабылдамаймын">
-<!ENTITY  license.decline.accesskey       "а">
-
-<!ENTITY  incompatibleList.title          "Үйлесімсіз қосымша табылды">
 
 <!ENTITY  downloadPage.title              "&brandShortName; жүктелуде">
 <!ENTITY  downloading.intro               "Жаңарту жүктелуде...">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Осы жаңарту &brandShortName; келесі рет қосылғанда орнатылады. Сіз &brandShortName; қазір, немесе жұмысыңызды жалғастырып, кейін қайта қоса аласыз.">
 
-<!ENTITY  installed.title                 "Жаңарту орнатылды">
-<!ENTITY  installed.intro                 "Жаңарту сәтті орнатылды">
-<!ENTITY  whatsnew.label                  "Жаңа нұсқасындағы өзгерістер...">
 
 <!ENTITY  update.details.label            "Көбірек білу">
 <!ENTITY  update.installedOn.label        "Орнатылған:">
