@@ -5,8 +5,6 @@
 <!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about &brandShortName;, check out our <a id='supportLink'>support website</a>.">
-
 <!ENTITY aboutSupport.crashes.title "Crash Reports">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -52,6 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
+
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registered Service Workers">
@@ -85,6 +84,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Graphics">
 
+
+
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
@@ -110,3 +112,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Failure Log">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+
+
+

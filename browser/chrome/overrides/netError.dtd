@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
@@ -107,12 +107,16 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Advanced">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe.">
 <!ENTITY weakCryptoAdvanced.override "(Not secure) Try loading <span class='hostname'></span> using outdated security">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Insecure Connection">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "This site uses HTTP Strict Transport Security (HSTS) to specify that &brandShortName; only connect to it securely. As a result, it is not possible to add an exception for this certificate.">
+
 <!ENTITY certerror.copyToClipboard.label "Copy text to clipboard">
 
 <!ENTITY inadequateSecurityError.title "Your connection is not secure">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+
