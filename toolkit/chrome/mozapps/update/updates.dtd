@@ -23,22 +23,8 @@
 
 <!ENTITY  unsupportedLink.label           "আরও জানুন">
 
-<!ENTITY  incompatibleCheck.title         "অতিরিক্ত সামগ্রীর সামঞ্জস্য পরীক্ষা করা হচ্ছে">
-<!ENTITY  incompatibleCheck.label         "অতিরিক্ত সামগ্রীর নতুন সংস্করণ অনুসন্ধান করা হচ্ছে…">
-
 <!ENTITY  clickHere.label                 "চিহ্নিত আপডেট সম্পর্কে অধিক তথ্য জানুন">
 
-
-
-<!ENTITY  license.titleText               "সফ্টওয়্যার লাইসেন্স চুক্তি">
-<!ENTITY  license.introText               "এই সফ্টওয়্যার ব্যবহারের শর্তাবলী।">
-<!ENTITY  license.instructionText         "অনুগ্রহ করে নিম্নলিখিত লাইসেন্স চুক্তির বিষয়বস্তু পড়ুন। চুক্তিপত্রের অবশিষ্ট অংশে পড়তে স্ক্রোল-বার প্রয়োগ করুন।">
-<!ENTITY  license.accept                  "চুক্তিপত্রের শর্তে আমি সম্মত">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "চুক্তিপত্রের শর্তে আমি সম্মত নই">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "বিসংগত অতিরিক্ত সামগ্রী সনাক্ত করা হয়েছে">
 
 <!ENTITY  downloadPage.title              "Downloading &brandShortName;">
 <!ENTITY  downloading.intro               "আপডেট ডাউনলোড করা হচ্ছে...">
@@ -63,9 +49,6 @@
 <!ENTITY  finishedBackground.name         "আপডেট করুন:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 
-<!ENTITY  installed.title                 "আপডেট ইনস্টল সমাপ্ত">
-<!ENTITY  installed.intro                 "সাফল্যের সাথে আপডেট ইনস্টল করা হয়েছে।">
-<!ENTITY  whatsnew.label                  "নতুন বিষয়বস্তু সম্পর্কে জানুন...">
 
 <!ENTITY  update.details.label            "বিবরণ">
 <!ENTITY  update.installedOn.label        "ইনস্টলেশনের তারিখ:">

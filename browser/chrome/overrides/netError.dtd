@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "তথ্য সুরক্ষার নীতির কারণে প্রতিরোধ করা হয়েছে">
 <!ENTITY cspBlocked.longDesc "<p>এই পৃষ্ঠার মধ্যে উপস্থিত তথ্য সুরক্ষার নীতির কারণে &brandShortName; দ্বারা এই পৃষ্ঠাটি এই পদ্ধতিতে লোড করতে প্রতিরোধ করা হয়েছে।</p>">
 
-<!ENTITY corruptedContentError.title "ক্ষতিগ্রস্ত তথ্য সম্বন্ধীয় ত্রুটি">
-<!ENTITY corruptedContentError.longDesc "<p>তথ্য বিনিময়ের সময় একটি ত্রুটি সনাক্ত হওয়ার ফলে, আপনার অনুরোধ করা পৃষ্ঠাটি প্রদর্শন করা সম্ভব নয়।</p><ul><li>অনুগ্রহ করে, ওয়েব সাইটের পরিচালকদের এই সমস্যা সম্পর্কে অবগত করুন।</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "ক্ষতিগ্রস্ত তথ্য সম্বন্ধীয় ত্রুটি">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>তথ্য বিনিময়ের সময় একটি ত্রুটি সনাক্ত হওয়ার ফলে, আপনার অনুরোধ করা পৃষ্ঠাটি প্রদর্শন করা সম্ভব নয়।</p><ul><li>অনুগ্রহ করে, ওয়েব সাইটের পরিচালকদের এই সমস্যা সম্পর্কে অবগত করুন।</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্রম যোগ করুন…">
@@ -95,9 +95,13 @@ was trying to connect. -->
 
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> নিরাপত্তা টেকনোলজি ব্যবহার করে যা পুরোনো এবং আক্রমণ প্রবণ। একজন আক্রমণকারী সহজে তথ্য ছিনিয়ে নিতে পারে যা আপনি সুরক্ষিত ভাবছেন।">
 <!ENTITY weakCryptoAdvanced.override "(নিরাপদ নয়) লোড করার চেষ্টা করুন <span class='hostname'></span>পুরোনো নিরাপত্তা ব্যবহার করে">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
