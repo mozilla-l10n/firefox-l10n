@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "O que são extras?">
 <!ENTITY discover.description2                "Os extras são aplicações que permitem personalizar o &brandShortName; com funcionalidades ou estilos. Experimente uma barra lateral, um notificador meteorológico ou um tema para ajustar o &brandShortName; ao seu gosto.">
-
+<!ENTITY discover.footer                      "Quando estiver ligado à Internet, este painel mostrará alguns dos melhores e mais populares extras para que os possa experimentar.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Versão">
@@ -138,7 +138,7 @@
 
 <!ENTITY detail.updateType                    "Atualizações automáticas">
 <!ENTITY detail.updateDefault.label           "Predefinição">
-
+<!ENTITY detail.updateDefault.tooltip         "Instalar atualizações automaticamente se for a predefinição">
 <!ENTITY detail.updateAutomatic.label         "Ligado">
 <!ENTITY detail.updateAutomatic.tooltip       "Instalar atualizações automaticamente">
 <!ENTITY detail.updateManual.label            "Desligado">
@@ -155,7 +155,7 @@
 <!ENTITY detail.showPreferencesWin.tooltip    "Alterar opções deste extra">
 <!ENTITY detail.showPreferencesUnix.label     "Preferências">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Mudar as preferências deste extra">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "O que é isto? A telemetria pode instalar e executar experiências de vez em quando.">
 <!ENTITY experiment.info.learnmore "Saber mais">
 <!ENTITY experiment.info.learnmore.accesskey "m">
 <!ENTITY experiment.info.changetelemetry "Definições de telemetria">
