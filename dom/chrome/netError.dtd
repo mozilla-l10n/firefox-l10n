@@ -8,7 +8,7 @@
 
 
 <!ENTITY connectionFailure.title "Byanze kwinjira">
-<!ENTITY connectionFailure.longDesc "<p>Nubwo urubuga rusa naho rwemewe, mucukumbuzi ntiyashoboye gushyiraho umwinjiro.</p><ul><li>Urubuga rwaba rudashobora kubona mu gihe gito? Kongera kugerageza hanyuma.</li><li>Ntabwo ushobora gushakisha izindi mbuga?  Kugenzura umwinjiro w'urusobemiyoboro wa mudasobwa.</li><li>Mudasobwa cyangwa urusobemiyoboro byawe birinzwe n'urukutamuriro cyangwa porogisi? Amagenamiterere atari yo ashobora kubangamira gushakisha ku Rubuga.</li></ul>">
+
 
 <!ENTITY deniedPortAccess.title "Umuyoboro wabujijwe kubera impamvu z'umutekano">
 <!ENTITY deniedPortAccess.longDesc "<p>Aderesi yasabwe yagaragaje umuyoboro (urugero <q>mozilla.org:80</q> w'umuyoboro 80 kuri mozilla.org) akenshi ukoreshwa hagamijwe  <em>ibindi</em> bitari gushakisha ku Rubuga. Mucukumbuzi yaretse ikibazo mu rwego rw'umutekano wawe no kukurinda.</p>">
@@ -28,7 +28,7 @@
 <!ENTITY malformedURI.longDesc "<p>Aderesi yatanzwe ntabwo ifite imiterere yemewe. Usabwe kugenzura umwanya w'indangahantu kugira ngo ubone amakosa maze wongere ugerageze.</p>">
 
 <!ENTITY netInterrupt.title "Iyimura ry'Ibyatanzwe ryiburijwemo">
-<!ENTITY netInterrupt.longDesc "<p>Mucukumbuzi yahujwe neza, ariko ukwihuza kwahagaritswe mu kwimura amakuru.  Usabwe kongera kugerageza.</p><ul><li>Ntabwo ushobora gushakisha  izindi mbuga? Kugenzura ukwihuza k'urusobemiyoboro rwa mudasobwa.</li><li>Uracyafite ingorane? Kubaza umuyobozi w'urusomiyoboro cyangwa utanga Interineti kugira ngo agufashe.</li></ul>">
+
 
 
 
@@ -43,19 +43,19 @@
 <!ENTITY netReset.longDesc "<p>Ihuza ry'urusobemiyoboro ryahagaritswe mu gihe cyo gushakisha umwinjiro. Usabwe kongera kugerageza.</p>">
 
 <!ENTITY netTimeout.title "Kurangiza igihe kuri interineti">
-<!ENTITY netTimeout.longDesc "<p>Urubuga rwasabwe ntirwasubije ikibazo cyo kwihuza na mucukumbuzi yaretse gutegereza igisubizo.</p><ul><li>Seriveri ishobora kuba yahawe ibibazo byinshi cyangwa se ikaba yihagaritse mu gihe gito?  Kongera kugerageza hanyuma.</li><li>Ntabwo ushobora gushakisha izindi mbuga? Kugenzura umwinjiro w'urusobemiyoboro wa mudasobwa.</li><li>Mudasobwa cyangwa urusobemiyoboro byawe birinzwe n'urukutamuriro cyangwa porogisi? Amagenamiterere atari yo ashobora kubangamira gushakisha ku Rubuga.</li><li>Uracyafite ingorane? Kubaza umuyobozi w'urusobemiyoboro wawe cyangwa utanga Interineti kugira ngo agufashe.</li></ul>">
+
 
 <!ENTITY unknownProtocolFound.title "Porotokole itazwi">
 <!ENTITY unknownProtocolFound.longDesc "<p>Aderesi igaragaza porotokole (urugero <q>wxyz://</q>) mucukumbuzi itemera, bityo mucukumbuki ntishobora kwinjira neza ku rubuga.</p><ul><li>Urimo kugerageza kugera kuri mutwaramakuru cyangwa izindi serivisi zitari inyandiko? Kugenzura urubuga kugira ngo ubone ibisabwa bindi.</li><li>Porotokole zimwe na zimwe zishobora gusaba porogaramu cyangwa amacomeka yo hanze mbere y'uko mucukumbuzi ishobora kuyemera.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Seriveri ya Porogisi Yanze Umwinjiro">
-<!ENTITY proxyConnectFailure.longDesc "<p>Mucukumbuzi yahawe imiterere ituma ikoresha seriveri ya porogisi, ariko porogisi yanze kwihuza.</p><ul><li>Igenamiterere rya porogisi ya seriveri ni ryo? Kugenzura amagenamiterere maze ukongera kugerageza.</li><li>Serivisi ya porogisi yaba yemera imyinjiro ihereye kuri uru rusobemiyoboro?</li><li>Uracyafite ingorane? Kubaza umuyobozi w'urusobemiyoboro cyangwa utanga Interineti kugira ngo agufashe.</li></ul>">
+
 
 <!ENTITY proxyResolveFailure.title "Seriveri porogisi ntibonetse">
-<!ENTITY proxyResolveFailure.longDesc "<p>Mucukumbuzi yahawe imiterere ituma ikoresha seriveri ya porogisi, ariko porogisi ntiyashoboye kuboneka.</p><ul><li>Ibonezamiterere rya porogisi ya mucukumbuzi ni ryo? Kugenzura amagenamiterere maze ukongera kugerageza.</li><li>Mudasobwa yaba iri ku rusobemiyoboro rukora?</li><li>Uracyafite ingorane? Kubaza umuyobozi w'urusobemiyoboro rwawe cyangwa utanga Interineti kugira ngo agufashe.</li></ul>">
+
 
 <!ENTITY redirectLoop.title "Igaruka kenshi ry'iyobora">
-<!ENTITY redirectLoop.longDesc "<p>Mucukumbuzi yaretse kugerageza kuzana ikintu cyasabwe. Urubuga rurimo kongera kohereza ikibazo mu buryo budashobora kurangira.</p><ul><li>Wahagaritse cyangwa wafunze Dosiyenyibutsa zisabwa n'uru rubuga?</li><li><em>NOTE</em>: Niba kwemera Dosiyenyibutsa z'urubuga bidakemura ikibazo, bishobora kuba ari ikibazo cy'igenamiterere rya seriveri aho kuba icya mudasobwa yawe.</li></ul>">
+
 
 <!ENTITY unknownSocketType.title "Igisubizo si cyo">
 <!ENTITY unknownSocketType.longDesc "<p>Urubuga rwasubije ikibazo cy'urusobemiyoboro mu buryo butunguranye bityo mucukumbuzi ntishobora gukomeza.</p>">
