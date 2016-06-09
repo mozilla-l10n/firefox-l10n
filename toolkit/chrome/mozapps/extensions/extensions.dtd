@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Зареждане…">
-<!ENTITY listEmpty.installed.label            "Нямате инсталирани добавки от този вид">
+
 <!ENTITY listEmpty.availableUpdates.label     "Не бяха намерени обновявания">
-<!ENTITY listEmpty.recentUpdates.label        "Скоро не сте обновявали никоя добавка">
+
 <!ENTITY listEmpty.findUpdates.label          "Проверка за обновявания">
 <!ENTITY listEmpty.search.label               "Няма намерени съвпадащи добавки">
 <!ENTITY listEmpty.button.label               "Научете повече за добавките">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Премахване">
 <!ENTITY cmd.uninstallAddon.accesskey         "П">
 <!ENTITY cmd.showPreferencesWin.label         "Настройки">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Промяна на настройките на тази добавка">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Настройки">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Сменяне на настройките на тази добавка">
+
 <!ENTITY cmd.contribute.label                 "Принос">
 <!ENTITY cmd.contribute.accesskey             "П">
 <!ENTITY cmd.contribute.tooltip               "Принос за развитието на тази добавка">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Какво са добавките?">
 <!ENTITY discover.description2                "Добавките са приложения, с които персонализирате &brandShortName;,така че да има допълнителна функционалност или стил. Опитайте времеспестяваща странична лента, известия за времетоили нов изглед за &brandShortName;.">
-<!ENTITY discover.footer                      "Когато сте свързани с Интернет, този панел ще показванякои от най-добрите и популярни добавки, така че да може да ги опитате.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Версия">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Автоматично обновяване">
 <!ENTITY detail.updateDefault.label           "Стандартно">
-<!ENTITY detail.updateDefault.tooltip         "Автоматично инсталиране на обновявания само ако е стандартно">
+
 <!ENTITY detail.updateAutomatic.label         "Включено">
 <!ENTITY detail.updateAutomatic.tooltip       "Автоматично инсталиране на обновявания">
 <!ENTITY detail.updateManual.label            "Изключено">
-<!ENTITY detail.updateManual.tooltip          "Без автоматично инсталиране на обновявания">
+
 <!ENTITY detail.home                          "Страница">
 <!ENTITY detail.repository                    "Профил на добавка">
 <!ENTITY detail.size                          "Размер">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Проверка за обновяване на тази добавка">
 <!ENTITY detail.showPreferencesWin.label      "Настройки">
 <!ENTITY detail.showPreferencesWin.accesskey  "Н">
-<!ENTITY detail.showPreferencesWin.tooltip    "Промяна на настройките на това обновяване">
+
 <!ENTITY detail.showPreferencesUnix.label     "Настройки">
 <!ENTITY detail.showPreferencesUnix.accesskey "Н">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Сменяне на настройките на тази добавка">
+
 <!-- ratings -->
 
 
@@ -224,8 +224,6 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
-<!ENTITY experiment.info.label "Какво е това? Телеметрията може да инсталира и пуска експерименти от време на време.">
 <!ENTITY experiment.info.learnmore "Научете повече">
 <!ENTITY experiment.info.learnmore.accesskey "Н">
 <!ENTITY experiment.info.changetelemetry "Настройки на телеметрията">

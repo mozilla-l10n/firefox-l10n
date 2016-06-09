@@ -3,10 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
-
-<!ENTITY unsupportedPlatform.pre                             "Много съжаляваме, но &brandShortName; не може да пуска Flash на това устройство. ">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
-     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn’t suit traditions in your locale. -->
 <!ENTITY unsupportedPlatform.learnMore                       "Научете повече…">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
@@ -35,7 +33,7 @@
 <!ENTITY report.failed                                       "Изпращането се провали.">
 <!ENTITY report.unavailable                                  "Няма наличен доклад.">
 <!ENTITY report.comment                                      "Добавяне на коментар (коментарите са обществено видими)">
-<!ENTITY report.pageURL                                      "Включване URL адреса на страницата">
+
 
 <!ENTITY plugin.file                                         "Файл">
 <!ENTITY plugin.mimeTypes                                    "MIME типове">

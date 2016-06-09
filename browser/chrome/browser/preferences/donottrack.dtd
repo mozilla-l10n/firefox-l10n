@@ -3,10 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Без проследяване">
-<!ENTITY window.width                 "40em">
-<!ENTITY window.height                "8em">
 
-<!ENTITY doNotTrackCheckbox.label     "Без проследяване">
-<!ENTITY doNotTrackCheckbox.accesskey "Б">
+
+
+
 
 <!ENTITY doNotTrackLearnMore.label    "Научете повече">
