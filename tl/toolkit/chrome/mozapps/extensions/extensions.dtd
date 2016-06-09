@@ -8,9 +8,9 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY listEmpty.installed.label            "Wala kang ganitong klaseng add-ons na naka-install">
+
 <!ENTITY listEmpty.availableUpdates.label     "Walang updates na nakita">
-<!ENTITY listEmpty.recentUpdates.label        "Wala kang bagong update na add-ons">
+
 <!ENTITY listEmpty.findUpdates.label          "Maghanap ng mga Update">
 <!ENTITY listEmpty.search.label               "Walang mahanap na tumutugmang add-ons">
 <!ENTITY listEmpty.button.label               "Dagdag-kaalaman tungkol sa add-ons">
@@ -99,9 +99,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Alisin">
 <!ENTITY cmd.uninstallAddon.accesskey         "A">
 <!ENTITY cmd.showPreferencesWin.label         "Options">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Palitan ang options ng add-on na ito">
+
 <!ENTITY cmd.showPreferencesUnix.label        "Mga Preferences">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Palitan ang preferences ng add-on na ito">
+
 <!ENTITY cmd.contribute.label                 "Sumali">
 <!ENTITY cmd.contribute.accesskey             "S">
 <!ENTITY cmd.contribute.tooltip               "Sumali sa development ng add-on na ito">
@@ -116,7 +116,7 @@
 
 <!ENTITY discover.title                       "Ano ang mga Add-ons?">
 <!ENTITY discover.description2                "Ang Add-ons ay application na hahayaan kang i-personalize ang &brandShortName; na may  extra functionality o style.Subukan ang time-saving sidebar, weather notifier, o ang themed look upang gawin ang &brandShortName; sa iyong kagustuhan">
-<!ENTITY discover.footer                      "Pag konektado ka sa Internet, ipapakita ng pane na ito ang ilan sa pinakamagaganda at sikat na add-ons para masubukan mo.">
+
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Bersyon">
@@ -128,11 +128,11 @@
 <!ENTITY detail.contributions.description     "Hinihiling ang iyong suporta para sa pagpapatuloy ng development ng add-on na ito sa pamamagitan ng pagbibigay ng ano mang halaga ng kontribusyon.">
 
 
-<!ENTITY detail.updateDefault.tooltip         "Awtomatikong mag-install ng updates">
+
 
 <!ENTITY detail.updateAutomatic.tooltip       "Awtomatikong pag-install ng mga updates">
 
-<!ENTITY detail.updateManual.tooltip          "Hindi awtomatikong naiinstall updates">
+
 
 
 <!ENTITY detail.size                          "Sukat">
@@ -142,10 +142,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Tingnan para sa mga update para sa add-on na ito">
 <!ENTITY detail.showPreferencesWin.label      "Options">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Palitan ang options ng add-on na ito">
+
 <!ENTITY detail.showPreferencesUnix.label     "Mga Preferences">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Palitan ang preferences ng add-on na ito">
+
 <!-- ratings -->
 <!-- download/install progress -->
 

@@ -8,7 +8,7 @@
 
 <!ENTITY aboutWarningTitle.label "Baka mawala ang bisa ng iyong warranty!">
 <!ENTITY aboutWarningText.label "Maaring ikasama ang pagbago ng mga advanced settings sa katatagan, kasiguruhan, at pagtakbo ng application na ito. Dapat mo lang ipagpatuloy kung sigurado kayo sa inyong ginagawa.">
-<!ENTITY aboutWarningButton.label "Mag-iingat ako, Nangangako ako!">
+
 <!ENTITY aboutWarningCheckbox.label "Ipakita ang babalang ito sa susunod">
 
 <!ENTITY searchPrefs.label "Hanapin:">

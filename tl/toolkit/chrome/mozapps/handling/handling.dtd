@@ -4,6 +4,7 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-<!ENTITY ChooseApp.description "Piliin ng Application">
+
 <!ENTITY ChooseApp.label "Mamili...">
 <!ENTITY ChooseApp.accessKey "M">
+

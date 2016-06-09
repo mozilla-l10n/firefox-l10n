@@ -21,22 +21,9 @@
 
 
 
-<!ENTITY  incompatibleCheck.title         "Sinusuri ang kompatibilidad ng mga add-on">
-<!ENTITY  incompatibleCheck.label         "Hinahanap para sa bagong mga bersyon ng mga add-on mo…">
-
 <!ENTITY  clickHere.label                 "Karagdagang impormasyon tungkol sa update na ito">
 
 <!ENTITY  evangelism.desc                 "Mahigpit na inirerekomenda na mag-aplay mo ito i-update ang para &brandShortName; sa lalong madaling panahon.">
-
-
-<!ENTITY  license.introText               "Tuntunin at Kondisyon sa paggamit ng software na ito.">
-<!ENTITY  license.instructionText         "Pakibasa ang sumusunod na kasunduan. Gamitin ang scroll bar para mabasa ang buong kasunduan.">
-<!ENTITY  license.accept                  "Tinatanggap ko ang mga tuntunin ng Kasunduan">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Hindi ko tinatanggap ang mga tuntunin ng Kasunduan">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "hindi akma na Add-ons ang nahanap.">
 
 <!ENTITY  downloading.intro               "Dina-download na ang update">
 <!ENTITY  connecting.label                "Kumokonek sa update server…">
@@ -60,8 +47,6 @@
 <!ENTITY  finishedBackground.name         "I-update:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 
-<!ENTITY  installed.intro                 "Ang update ay matagumpay na na-install.">
-<!ENTITY  whatsnew.label                  "Magbasa nang higit pa tungkol sa kung ano ang bago...">
 
 <!ENTITY  update.installedOn.label        "Na-install noong:">
 
