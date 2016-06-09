@@ -75,8 +75,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "కాంటెంట్ రక్షణ విధానము చేత నిలిపివేయబడెను">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; యీ పేజీను యీ మార్గములో లోడగుటనుండి నిరోధిస్తోంది యెంచేతంటే యీ పేజీ కాంటెంట్ రక్షణ విధానమును కలిగివుంది అది దీనిని అనుమతించుటలేదు.</p>">
 
-<!ENTITY corruptedContentError.title "పాడైన విషయ దోషం">
-<!ENTITY corruptedContentError.longDesc "<p>మీరు దర్శించుటకు ప్రయత్నిస్తున్న పేజీ చూపబడలేదు యెంచేతంటే దాని యందు దత్తాంశ బదలాయింపులో దోషం గుర్తించబడెను.</p><ul><li>దయచేసి వెబ్‌సైట్ యజమానులను సంప్రదించి వారికి యీ సమస్య గురించి తెలుపండి.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "పాడైన విషయ దోషం">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>మీరు దర్శించుటకు ప్రయత్నిస్తున్న పేజీ చూపబడలేదు యెంచేతంటే దాని యందు దత్తాంశ బదలాయింపులో దోషం గుర్తించబడెను.</p><ul><li>దయచేసి వెబ్‌సైట్ యజమానులను సంప్రదించి వారికి యీ సమస్య గురించి తెలుపండి.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "మినహాయింపును చేర్చు…">
@@ -97,9 +97,13 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "ఉన్నతం">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> పాతబడిన, దాడులకు అనువైన భద్రతా సాంకేతికను వాడుతోంది. మీరు భద్రం అనుకున్న సమాచారాన్ని అటాకర్లు తేలిగ్గా బయల్పరచగలరు.">
 <!ENTITY weakCryptoAdvanced.override "(సురక్షితం కాదు) <span class='hostname'></span>ను పాతబడిన భద్రతను వాడి తెరువు">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

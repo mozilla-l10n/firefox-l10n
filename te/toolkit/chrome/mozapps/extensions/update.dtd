@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "సారూప్యంగల  పొడిగింతలు  కనబడినవి">
 <!ENTITY  found.top.label                 "మీరు సంస్థాపించుటకు  ఇష్టపడే  పొడిగింతలు  ఎంపికచేసుకొనండి:">
-<!ENTITY  found.disabledXPinstall.label   "ఈ నవీకరణలు సంస్థాపించబడవు ఎంచేతంటే ప్రస్తుతం సాఫ్టువేరు సంస్థాపన అచేతనం చేయబడివుంది. ఈఅమర్పును మీరు క్రింద మార్చవచ్చు.">
+
 <!ENTITY  found.enableXPInstall.label     "సాఫ్టవేరులను  సంస్థాపించుటకు  వెబ్ సైటులను  అనుమతించు">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 

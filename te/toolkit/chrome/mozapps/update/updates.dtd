@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "మీ &brandShortName; పాతబడింది, కానీ సరికొత్త సంచికకు మీ వ్యవస్థలో తోడ్పాటు లేదు. దయచేసి మీ వ్యవస్థను నవీకరించి, ప్రయత్నించండి. మీ గమనిక మీకు మళ్ళీ కనిపించదు, కానీ మీరు">
 <!ENTITY  unsupportedLink.label           "మరింత తెలుసుకోవచ్చు.">
 
-<!ENTITY  incompatibleCheck.title         "ఈ  విస్తరణ  సరిపోతుందా అని పరిశీలన">
-<!ENTITY  incompatibleCheck.label         "మీ విస్తరణల నవీకరణలకోసం చూస్తున్నది…">
-
 <!ENTITY  clickHere.label                 "ఈ  నవీకరణ గురించి  ఎక్కువ  సమాచారాన్ని  చూడుము">
 
 <!ENTITY  evangelism.desc                 "&brandShortName; కి ఈ  నవీకరణ  త్వరగా చేయటంమంచిది.">
-
-<!ENTITY  license.instructions            "మీరు  ఈవొప్పందం యోక్క నిభందనలును ఆమోదించునట్లైతే  క్రిందవున్న  నాకుఆమోదమే అనుదానినినొక్కి  ఈనవీకరణ  సంస్థాపన  కొనసాగింపుము.">
-
-<!ENTITY  license.titleText               "సాఫ్టువేరు  విధాన  వొప్పందపత్రం">
-<!ENTITY  license.introText               "ఈ  సాఫ్టువేరు  వుపయోగించుటకు  నియమాలు మరియు నిభందనలు.">
-<!ENTITY  license.instructionText         "దయచేసి  క్రింది  విధాన వొప్పందపత్రంను  చదవండి.ఈమిగతా  వొప్పందపత్రం  చూడుటకు  స్క్రాల్‌బార్‌ను వుపయోగించండి.">
-<!ENTITY  license.accept                  "నేను  విధాన  వొప్పందపత్రం యొక్క  నిభందనలను  ఆమోదిస్తున్నాను">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "నేను  విధాన  వొప్పందపత్రం యొక్క  నిభందనలను  ఆమోదించుటలేదు">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "సరిపోని పొడిగింతలు  కనబడినవి">
 
 <!ENTITY  downloadPage.title              "&brandShortName; డౌన్‌లోడ్ చేయుచున్నది">
 <!ENTITY  downloading.intro               "నవీకరణను  డౌనులోడుచేస్తోంది...">
@@ -71,9 +56,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "&brandShortName;  పునఃప్రారంభం    చేసినపుడు ఈ నవీకరణ స్థాపించబడుతుంది . మీరు &brandShortName; ను ఇప్పుడు   పునఃప్రారంభం చేయండి లేక  పని కొనసాగించి ఆతరువాత   పునఃప్రారంభం చేయండి.">
 
-<!ENTITY  installed.title                 "నవీకరణ  సంస్థాపించబడింది">
-<!ENTITY  installed.intro                 "ఆనవీకరణ సమర్ధవంతంగా  సంస్థాపించబడింది.">
-<!ENTITY  whatsnew.label                  "కొత్త దేంటో  దానిగురించి  బాగా చదవండి...">
 
 <!ENTITY  update.details.label            "వివరాలు">
 <!ENTITY  update.installedOn.label        "సంస్థాపించబడింది:">
