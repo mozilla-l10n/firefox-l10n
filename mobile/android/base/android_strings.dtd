@@ -368,7 +368,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Offline sayt məlumatları">
 <!ENTITY pref_private_data_siteSettings2 "Sayt tənzimləmələri">
 <!ENTITY pref_private_data_downloadFiles2 "Endirilənlər">
-<!ENTITY pref_private_data_syncedTabs "Sinxronlaşdırılmış vərəqlər">
+<!ENTITY pref_private_data_syncedTabs "Sinxron vərəqlər">
 
 <!ENTITY pref_default_browser "Əsas səyyah et">
 <!ENTITY pref_about_firefox "&brandShortName; haqqında">
