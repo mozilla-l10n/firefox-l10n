@@ -31,9 +31,12 @@
 
 <!ENTITY firstrun_readerview_title "مقالات">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-
+<!ENTITY firstrun_readerview_message "از بین بردن درهم ریختگی">
+<!ENTITY firstrun_readerview_subtext "از حالت تمایش برای مطالعه بهتر مقالات استفاده کنید\u2014 حتی به صورت آفلاین">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!ENTITY firstrun_account_title "شما">
+<!ENTITY firstrun_account_message "شما &brandShortName; را بر روی دستگاه دیگری دارید؟">
 
 <!ENTITY  onboard_start_restricted1 "با این نسخۀ ساده شده از &brandShortName; امن بمانید و زندگی آنلاین خود را در دستان خود بگیرید.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -75,10 +78,12 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "عکس صفحه">
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "فهرست مطالعه">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
+<!ENTITY bookmark_folder_items "&formatD; موارد">
+<!ENTITY bookmark_folder_one_item "۱ مورد">
 
 <!ENTITY reader_saved_offline "ذخیره به صورت آفلاین">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -305,8 +310,10 @@
 <!ENTITY content_notification_title_plural "&formatD; پایگاه‌های وب بروزرسانی شدند">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "تنظیمات">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "هم‌اکنون مطالعه کنید">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -440,12 +447,12 @@ size. -->
 <!ENTITY share_image_failed "نمی‌تواند این تصویر را به اشتراک بگذارد">
 <!ENTITY save_as_pdf "ذخیره به صورت PDF">
 <!ENTITY print "چاپ">
-
-
+<!ENTITY find_in_page "پیدا کردن در صفحه">
+<!ENTITY desktop_mode "درخواست نسخه رومیزی پایگاه">
 <!ENTITY page "صفحه">
 <!ENTITY tools "ابزارها">
-
-
+<!ENTITY new_tab "زبانه جدید">
+<!ENTITY new_private_tab "زبانه‌ی خصوصی جدید">
 <!ENTITY close_all_tabs "بستن همه‌ی زبانه‌ها">
 <!ENTITY close_private_tabs "بستن زبانه‌های خصوصی">
 <!ENTITY tabs_normal "زبانه‌ها">
@@ -455,6 +462,8 @@ size. -->
 <!ENTITY set_image_chooser_title "تنظیم تصویر به عنوان">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "پیدا کردن در صفحه">
 <!ENTITY find_prev "قبلی">
 <!ENTITY find_next "بعدی">
 <!ENTITY find_close "بستن">
@@ -556,6 +565,7 @@ size. -->
 <!ENTITY home_synced_devices_smartfolder "دستگاه‌های همگام‌ شده">
 <!ENTITY home_synced_devices_number "&formatD; دستگاه‌ها">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "۱ دستگاه">
 <!ENTITY home_history_back_to2 "بازگشت به تاریخچه کامل">
 <!ENTITY home_clear_history_button "پاک کردن تاریخچه مرور">
 <!ENTITY home_clear_history_confirm "آیا مطمئن هستید می‌خواهید تاریخچه مرور خود را پاک کنید؟">
@@ -794,8 +804,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "مطالعه آفلاین">
 <!ENTITY helper_first_offline_bookmark_message "پیدا کردن موارد حالت مشاهده مطالعه در نشانک‌ها ، حتی آفلاین.">
+<!ENTITY helper_first_offline_bookmark_button "رفتن به نشانک‌ها">
 
-
-
-
+<!ENTITY helper_triple_readerview_open_title "به صورت آفلاین در دسترس است">
+<!ENTITY helper_triple_readerview_open_message "نمایش موارد نشانک های مطالعه جهت مطالعه آن ها به صورت آفلاین.">
+<!ENTITY helper_triple_readerview_open_button "اضافه کردن به نشانک‌ها">
 
