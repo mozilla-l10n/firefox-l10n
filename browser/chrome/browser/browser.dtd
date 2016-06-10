@@ -558,20 +558,21 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "L">
 <!ENTITY mediaPlaybackRate2.label     "Uppspelningshastighet">
 <!ENTITY mediaPlaybackRate2.accesskey "U">
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate050x2.label "långsam (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "l">
+<!ENTITY mediaPlaybackRate100x2.label "Normal">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Snabb (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "S">
+<!ENTITY mediaPlaybackRate150x2.label "Snabbare (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "n">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Löjligt snabb (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "Loopa">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -680,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Säker Anslutning">
 <!ENTITY identity.connectionNotSecure "Anslutningen är inte säker ">
 <!ENTITY identity.connectionFile "Den här sidan är lagrad på din dator.">
-
+<!ENTITY identity.connectionVerified2 "Du är säkert ansluten till denna webbplats, som tillhör:">
 <!ENTITY identity.connectionInternal "Detta är en säker &brandShortName; sida.">
 <!ENTITY identity.insecureLoginForms2 "Inloggningar du anger på denna sida kan äventyras">
 <!-- Strings for connection state warnings. -->

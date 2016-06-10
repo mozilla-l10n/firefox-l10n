@@ -6,6 +6,8 @@
 <!ENTITY window.width                 "50em">
 <!ENTITY window.height                "10em">
 
+<!ENTITY doNotTrackCheckbox2.label    "Tillämpa alltid Spåra inte">
+<!ENTITY doNotTrackCheckbox2.accesskey "a">
 
-
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; kommer att skicka en signal om att du inte vill spåras när spårningsskydd är på.">
 <!ENTITY doNotTrackLearnMore.label    "Läs mer">
