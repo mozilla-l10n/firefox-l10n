@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Видеоны жүктеу тоқтатылған.">
 <!ENTITY error.network "Видеоны жүктеу желілік қате салдарынан үзілді.">
-
+<!ENTITY error.decode "Видео файлын ойнату мүмкін емес, өйткені ол зақымдалған.">
 <!ENTITY error.srcNotSupported "Видео пішімі не MIME түріне қолдау жоқ.">
 <!ENTITY error.noSource2 "Пішімі не MIME түріне қолдауы бар ешбір видео табылмады.">
 <!ENTITY error.generic "Видеоны ойнату белгісіз қате салдарынан үзілді.">
