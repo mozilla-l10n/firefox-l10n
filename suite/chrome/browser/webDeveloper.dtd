@@ -18,7 +18,7 @@
 <!ENTITY browserConsoleCmd.accesskey     "n">
 
 <!ENTITY responsiveDesignTool.label      "Vue adaptative">
-<!ENTITY responsiveDesignTool.accesskey  "R">
+<!ENTITY responsiveDesignTool.accesskey  "u">
 <!ENTITY responsiveDesignTool.commandkey "V">
 
 <!ENTITY eyedropper.label                "Pipette">
@@ -35,7 +35,7 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 <!ENTITY scratchpad.label                "Ardoise JavaScript">
-<!ENTITY scratchpad.accesskey            "A">
+<!ENTITY scratchpad.accesskey            "r">
 <!ENTITY scratchpad.keycode              "VK_F4">
 <!ENTITY scratchpad.keytext              "F4">
 
