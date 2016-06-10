@@ -26,6 +26,8 @@
 <!ENTITY netmonitorUI.toolbar.file        "Tệp">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
+<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.cause): This is the label displayed
+  -  in the network table toolbar, above the "cause" column. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.transferred): This is the label displayed
