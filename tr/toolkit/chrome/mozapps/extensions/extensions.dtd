@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Yükleniyor…">
-
+<!ENTITY listEmpty.installed.label            "Bu türden kurulmuş bir eklentiniz yok">
 <!ENTITY listEmpty.availableUpdates.label     "Güncelleme bulunamadı">
-
+<!ENTITY listEmpty.recentUpdates.label        "Yakın zamanda herhangi bir eklenti güncellemediniz">
 <!ENTITY listEmpty.findUpdates.label          "Güncellemeleri denetle">
 <!ENTITY listEmpty.search.label               "Eşleşen bir eklenti bulunamadı">
 <!ENTITY listEmpty.button.label               "Eklentiler hakkında daha fazlasını öğrenin">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Kaldır">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
 <!ENTITY cmd.showPreferencesWin.label         "Seçenekler">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Bu eklentinin seçeneklerini değiştir">
 <!ENTITY cmd.showPreferencesUnix.label        "Tercihler">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Bu eklentinin tercihlerini değiştir">
 <!ENTITY cmd.contribute.label                 "Katkıda bulun">
 <!ENTITY cmd.contribute.accesskey             "u">
 <!ENTITY cmd.contribute.tooltip               "Bu eklentinin geliştirilmesine katkıda bulun">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Bu eklentinin güncellemelerini denetle">
 <!ENTITY detail.showPreferencesWin.label      "Seçenekler">
 <!ENTITY detail.showPreferencesWin.accesskey  "S">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Bu eklentinin seçeneklerini değiştir">
 <!ENTITY detail.showPreferencesUnix.label     "Tercihler">
 <!ENTITY detail.showPreferencesUnix.accesskey "T">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Bu eklentinin tercihlerini değiştir">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Bu nedir? Telemetry zaman zaman deneyler yükleyip çalıştırabilir.">
 <!ENTITY experiment.info.learnmore "Daha fazla bilgi al">
 <!ENTITY experiment.info.learnmore.accesskey "D">
 <!ENTITY experiment.info.changetelemetry "Telemetry ayarları">

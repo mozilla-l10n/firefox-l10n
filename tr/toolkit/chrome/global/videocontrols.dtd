@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Video yükleme durduruldu.">
 <!ENTITY error.network "Bir ağ hatası nedeniyle video oynatması iptal edildi.">
-
+<!ENTITY error.decode "Dosya hasarlı olduğu için video oynatılamıyor.">
 <!ENTITY error.srcNotSupported "Video biçimi veya MIME türü desteklenmiyor.">
 <!ENTITY error.noSource2 "Desteklenen biçimlerde veya MIME türlerinde video bulunamadı.">
 <!ENTITY error.generic "Bilinmeyen bir hata nedeniyle video oynatma iptal edildi.">
