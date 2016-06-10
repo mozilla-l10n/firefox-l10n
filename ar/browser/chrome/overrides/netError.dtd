@@ -111,7 +111,7 @@ was trying to connect. -->
      please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "اتصال غير آمن">
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "يستخدم هذا الموقع سياسة النقل الصارمة (HSTS) تفرض على &brandShortName; ألا يتصل به إلا بأمان. بناء على هذا فقد تعذّر إضافة استثناء لهذه الشهادة.">
 <!ENTITY certerror.copyToClipboard.label "انسخ النص إلى الحافظة">
 
 <!ENTITY inadequateSecurityError.title "اتّصالك غير آمن">
@@ -119,4 +119,4 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p>يستخدم <span class='hostname'></span> تقنية أمنية عتيقة و عرضة للهجوم. يمكن لمهاجم بسهولة الاطلاع على معلومات تظنها بمأمن. على مدير الموقع إصلاح الخادوم قبل أن يمكنك زيارة الموقع.</p><p>رمز العطل: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.label "استرجع الإعدادات الأصلية">

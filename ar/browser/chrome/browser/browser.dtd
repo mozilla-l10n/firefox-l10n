@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "المعلّم حديثا">
 <!ENTITY otherBookmarksCmd.label "العلامات الأخرى">
 <!ENTITY bookmarksToolbarChevron.tooltip "أظهِر المزيد من العلامات">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "أظهر المعلّم حديثا">
+<!ENTITY showRecentlyBookmarked.accesskey "ظ">
+<!ENTITY hideRecentlyBookmarked.label     "أخفِ المعلّم حديثا">
+<!ENTITY hideRecentlyBookmarked.accesskey "خ">
 
 <!ENTITY backCmd.label                "السابق">
 <!ENTITY backButton.tooltip           "عُد للخلف صفحة واحدة">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "أظهِر شريط العلامات الجانبي">
 <!ENTITY viewBookmarksToolbar.label         "أظهِر شريط أدوات العلامات">
 
+<!ENTITY containersMenu.label "الحاويات">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -555,22 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "ك">
 <!ENTITY mediaUnmute.label           "أطلق الصوت">
 <!ENTITY mediaUnmute.accesskey       "ط">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "سرعة التشغيل">
+<!ENTITY mediaPlaybackRate2.accesskey "ت">
+<!ENTITY mediaPlaybackRate050x2.label "بطيئة (نصف السرعة)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "ط">
+<!ENTITY mediaPlaybackRate100x2.label "عادية">
+<!ENTITY mediaPlaybackRate100x2.accesskey "ع">
+<!ENTITY mediaPlaybackRate125x2.label "سريعة (١٫٢٥ ضعف)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "أسرع (١٫٥ ضعف)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "سريعة جدًا (ضعفي السرعة)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "تكرار">
+<!ENTITY mediaLoop.accesskey         "ر">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -679,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "اتصال آمن">
 <!ENTITY identity.connectionNotSecure "الاتصال غير آمن">
 <!ENTITY identity.connectionFile "هذه الصفحة مخزنة على حاسوبك.">
-
+<!ENTITY identity.connectionVerified2 "تتصل بأمان مع هذا الموقع، و الذي يملكه:">
 <!ENTITY identity.connectionInternal "هذه صفحة &brandShortName; آمنة.">
 <!ENTITY identity.insecureLoginForms2 "معلومات الولوج التي تُدخلها في هذه الصفحة قد تكون مخترقة.">
 <!-- Strings for connection state warnings. -->
