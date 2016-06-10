@@ -632,22 +632,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ojoko tetepy nahekorosãi rupi ko kuatiaroguépe.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; ojoko tetepymimi nahekorosãi rupi ko kuatiarogue.">
 <!ENTITY mixed_content_display_loaded1 "Ko kuatiarogue pehẽ nahekorosãmbái (ta\u0027ãngáramo).">
-
+<!ENTITY mixed_content_protection_disabled1 "Ndereguerekói ñemo\u0027ã mba\u0027e nahekorosãivagui.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
-
+<!ENTITY doorhanger_tracking_title2 "Tapykuereho ñemo\u0027ã">
+<!ENTITY doorhanger_tracking_state_enabled "Myendypyre">
+<!ENTITY doorhanger_tracking_state_disabled "Ojepuruve\u0027ỹva">
+<!ENTITY doorhanger_tracking_message_enabled1 "Ojejokókuri ohapykuehoséva rejapóva ñandutivevépe.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Ko kuatiarogue oguereko mba\u0027epuru ohapykuehokuaáva ne kundahakue.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
+<!ENTITY learn_more "Eikuaave">
+<!ENTITY enable_protection "Emyandy ñemo\u0027ã">
+<!ENTITY disable_protection "Eipe\u0027aite ñemo\u0027ã">
 
+<!ENTITY private_data_success "Mba\u0027ekuaarã ñemigua mopotĩpyre">
+<!ENTITY private_data_fail "Oĩ mba\u0027ekuaarã ñemigua ikatu\u0027ỹva oñemopotĩ ">
 
-
-
-
-
-
-
+<!ENTITY bookmarkhistory_button_import "Mba\u0027ereru">
+<!ENTITY bookmarkhistory_import_both "Android rechaukaha ha rembiasakue jegueru">
+<!ENTITY bookmarkhistory_import_bookmarks "Emba\u0027ereru techaukaha Android guive">
+<!ENTITY bookmarkhistory_import_history "Emba\u0027ereru tembiasakue Android guive">
+<!ENTITY bookmarkhistory_import_wait "Ikatúpiko eha\u0027ãrõmi…">
 
 <!ENTITY suggestions_prompt3 "Emyendysépa ñe\u0027ẽreka joguaha jehechauka?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -656,6 +662,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Eheka &formatS; ndive">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -668,10 +675,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_title2 "Oĩma Tekopyahu &brandShortName;-pe g̃uarã">
 <!ENTITY updater_start_select2 "Epoko remboguejy hag̃ua">
 
+<!ENTITY updater_downloading_title2 "Emboguejyhína &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Ñemboguejy javypyre">
 <!ENTITY updater_downloading_select2 "Epoko reipuru hag̃ua oñemboguejypa rire">
 <!ENTITY updater_downloading_retry2 "Epoko reha\u0027ãjey hag̃ua">
 
+<!ENTITY updater_apply_title2 "Oĩma tekopyahurã &brandShortName;-pe g̃uarã">
 <!ENTITY updater_apply_select2 "Epoko rembohekopyahu hag̃ua">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -685,12 +694,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session "Tembiapopa\u0027ũ Pepirũmbyre">
 <!ENTITY exit_guest_session "Tembiapopa\u0027ũ Pepirũmbyrégui ñese">
 <!ENTITY guest_session_dialog_continue "Ehove hese">
-
+<!ENTITY guest_session_dialog_cancel "Heja">
 <!ENTITY new_guest_session_title "&brandShortName; oñepyrũjeýta">
 
+<!ENTITY guest_browsing_notification_title "Ñeikundaha pepirũguáva oñemyendýma">
+<!ENTITY guest_browsing_notification_text "Epoko esẽ hag̃ua">
 
-
-
+<!ENTITY exit_guest_session_title "&brandShortName; oñepyrũjeýta ko\u0027ág̃a">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
