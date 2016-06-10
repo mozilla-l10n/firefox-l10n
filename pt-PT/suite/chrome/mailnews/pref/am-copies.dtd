@@ -5,7 +5,7 @@
 
 
 <!ENTITY copyAndFolderTitle.label "Cópias e pastas">
-<!ENTITY sendingPrefix.label "Ao enviar mensagens, automaticamente: ">
+<!ENTITY sendingPrefix.label "Ao enviar mensagens, automaticamente:">
 <!ENTITY fccMailFolder.label "Guardar uma cópia em:">
 <!ENTITY fccMailFolder.accesskey "G">
 <!ENTITY fccReplyFollowsParent.label "Guardar respostas na pasta da mensagem a ser respondida para">
