@@ -27,11 +27,11 @@
 
 
 <!ENTITY firstrun_tabqueue_message_on "Lyckades!">
-
+<!ENTITY firstrun_tabqueue_subtext_on "Du kan alltid stänga av detta i &settings; under &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Artiklar">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-
+<!ENTITY firstrun_readerview_subtext "Använd Läsvy för att göra artiklar mer lättlästa \u2014 även offline.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "Du">
