@@ -8,7 +8,7 @@
 
 <!ENTITY syncKey.keepItSafe.heading       "यसलाई सुरक्षित राख्नुहोस्">
 <!ENTITY syncKey.keepItSafe1.description  "यो कुञ्जी नहराउनुहोस् ।">
-
+<!ENTITY syncKey.keepItSafe2.description  " हामी तपाईँको साँचोको प्रतिलिपि राख्ने छैनौँ (किनभने त्यो गोप्य रहदैन!) त्यसैले ">
 
 
 <!ENTITY syncKey.findOutMore1.label       "&syncBrand.fullName.label; र तपाईँको गोपनीयता बारेमा अझै यहाँ जान्नुहोस् ">
