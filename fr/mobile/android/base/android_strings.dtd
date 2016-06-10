@@ -45,7 +45,6 @@
 <!ENTITY  bookmarks_title "Marque-pages">
 <!ENTITY bookmark_remove "Supprimer le marque-page">
 <!ENTITY  history_title "Historique">
-<!ENTITY  recent_tabs_title "Onglets récents">
 
 <!ENTITY  switch_to_tab "Aller à l’onglet">
 
@@ -373,6 +372,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Onglets synchronisés">
 
 <!ENTITY pref_default_browser "Définir comme navigateur par défaut">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Consulter l’assistance de Mozilla">
 <!ENTITY pref_about_firefox "À propos de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Donner votre avis">
@@ -561,10 +561,12 @@ size. -->
 <!ENTITY home_clear_history_button "Effacer l’historique de navigation">
 <!ENTITY home_clear_history_confirm "Voulez-vous vraiment effacer votre historique ?">
 <!ENTITY home_bookmarks_empty "Les marque-pages enregistrés s’affichent ici.">
-<!ENTITY home_closed_tabs_title "Onglets récemment fermés">
-<!ENTITY home_last_tabs_title "Onglets de la session précédente">
+<!ENTITY home_closed_tabs_title2 "Récemment fermés">
 <!ENTITY home_last_tabs_empty "Les onglets de la session précédente s’affichent ici.">
-<!ENTITY home_open_all "Tout ouvrir">
+<!ENTITY home_restore_all "Tout restaurer">
+<!ENTITY home_closed_tabs_number "&formatD; onglets">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 onglet">
 <!ENTITY home_most_recent_empty "Les sites récemment visités s’affichent ici.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
