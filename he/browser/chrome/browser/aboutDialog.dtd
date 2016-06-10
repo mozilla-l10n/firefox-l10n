@@ -25,7 +25,7 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       "היא ">
+<!ENTITY community.exp.middle       " היא ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "קהילה עולמית">
 <!ENTITY community.exp.end          " שמשימתה היא להשאיר את הרשת פתוחה, ציבורית ונגישה לכולם.">
