@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Uyumlu eklentiler bulundu">
 <!ENTITY  found.top.label                 "Yüklemek istediğiniz eklentileri seçin:">
-
+<!ENTITY  found.disabledXPinstall.label   "Bu güncellemeler kurulamaz çünkü yazılım kurulumu şu an devre dışı. Bu ayarı aşağıdan değiştirebilirsiniz.">
 <!ENTITY  found.enableXPInstall.label     "Sitelerin yazılım yüklemesine izin ver">
 <!ENTITY  found.enableXPInstall.accesskey "m">
 

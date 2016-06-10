@@ -555,12 +555,12 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Sesi aç">
 <!ENTITY mediaUnmute.accesskey       "S">
+<!ENTITY mediaPlaybackRate2.label     "Oynatma hızı">
+<!ENTITY mediaPlaybackRate2.accesskey "O">
 
 
-
-
-
-
+<!ENTITY mediaPlaybackRate100x2.label "Normal">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 
 
 
