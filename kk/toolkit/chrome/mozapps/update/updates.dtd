@@ -55,7 +55,7 @@
 <!ENTITY  finishedBackground.name         "Жаңарту:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Осы жаңарту &brandShortName; келесі рет қосылғанда орнатылады. Сіз &brandShortName; қазір, немесе жұмысыңызды жалғастырып, кейін қайта қоса аласыз.">
-
+<!ENTITY  finishedBackground.moreElevated "Бұл жаңарту әкімшілік құқықтарды талап етеді. Бұл жаңарту &brandShortName; келесі рет іске қосылған кезде орнатылатын болады. Сіз &brandShortName; қазір қайта қосуды, қайта қосуды кейінге қалдырып, жұмысты жалғастыруды немесе бұл жаңартудан бас тартуды қалай аласыз.">
 
 <!ENTITY  update.details.label            "Көбірек білу">
 <!ENTITY  update.installedOn.label        "Орнатылған:">

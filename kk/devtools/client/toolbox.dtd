@@ -110,6 +110,8 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
+<!ENTITY options.disableHTTPCache.label     "HTTP кэшін сөндіру (саймандар панелі ашық кезде)">
+<!ENTITY options.disableHTTPCache.tooltip   "Бұл опцияны іске қосу HTTP кэшін барлық саймандар панелі ашық беттері үшін сөндіреді. Бұл опция Service Workers-ге әсер етпейді.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->

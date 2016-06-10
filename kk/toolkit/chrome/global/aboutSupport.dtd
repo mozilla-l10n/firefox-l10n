@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Мәселелерді шешу ақпараты">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  Бұл парақта мәселелерді шешуде пайдалы бола алатын техникалық ақпарат бар. Егер сіз &brandShortName; туралы жалпы сұрақтарға жауапты іздесеңіз, біздің <a id='supportLink'>қолдау көрсету</a> сайтын шолыңыз.">
+
 <!ENTITY aboutSupport.crashes.title "Құлау туралы хабарлар">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -50,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsOS "ОЖ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Жады қолданылуы">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Өнімділік">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Тіркелген жұмыс үрдістері">
@@ -84,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Графика">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "Орналасулар дерекқоры">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Бүтіндігі">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Бүтіндігін тексеру">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Өспелі GC">
@@ -112,6 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Ақаулықтар журналы">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Шешімдер журналы">
 
 
