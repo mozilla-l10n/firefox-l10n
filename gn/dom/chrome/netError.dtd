@@ -8,7 +8,7 @@
 
 
 <!ENTITY connectionFailure.title "Ojavy oikekuévo">
-
+<!ENTITY connectionFailure.longDesc "<p>Ko tenda ha'eteroguáicha oikóva, kundahára ndaikatúi oike.</p><ul><li>¿Ikatuhína ko tenda eipuru ko'ag̃aite? Eha'ãkuaa ag̃amieve.</li><li>Ndaikatumo'ãi oheka ambue tenda?  Ehechajey ne ñanduti mohendahápe jeike.</li><li>Ne mohendahápa térã ne ñanduti omo'ã chupe peteĩ firewall térã proxy? Peteĩ ñemboheko ndoikóiva ikatu ombyai ne kundahára ñanduti pegua.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Mbojuajuhaite jejokopyre jerovia'ỹ rupi">
 <!ENTITY deniedPortAccess.longDesc "<p>Pe kundaharape ejeruréva omoha'eño peteĩ mbojuajuhaite (techapyrã <q>mozilla.org:80</q> mbojuajuhaite 80 mozilla.org mba'éva) ojepurúva tapiaite eike hag̃ua <em>ambuéva</em> eikundaha ñandutípe. Kundaha ojokóma jerurepyre nde ñemo'ã ha rekorosãrã.</p>">
@@ -29,7 +29,7 @@
 <!ENTITY malformedURI.longDesc "<p>Kundaharape me'ẽpyre ndoĩri peteĩ ysaja ojekuaávape. Ehechajey jejavy Kundaharape rendápe ha eha'ãjey.</p>">
 
 <!ENTITY netInterrupt.title "Mba'ekuaarã mbohasa jejopyre">
-
+<!ENTITY netInterrupt.longDesc "<p>Kundaharape oike hekoitépe, hákatu ojejoko pe jeike oñembohasakuévo marandu.  Eha'ãjey.</p><ul><li>Ndaikatúipa eikundaha ambue tenda rupi? Ehechajey ñandutípe jeike ne mohendaha pegua.</li><li>Eporandu ne ñanduti me'ẽhárape eguereko hag̃ua ñepytyvõ aporekoguáva.</li></ul>">
 
 <!ENTITY notCached.title "Kuatia oikove'ỹmava">
 
