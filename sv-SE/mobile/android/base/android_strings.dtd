@@ -26,12 +26,15 @@
 <!ENTITY firstrun_tabqueue_message_off "Aktivera flik-kö">
 
 
+<!ENTITY firstrun_tabqueue_message_on "Lyckades!">
 
 
 <!ENTITY firstrun_readerview_title "Artiklar">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+<!ENTITY firstrun_account_title "Du">
 
 
 <!ENTITY  onboard_start_restricted1 "Håll dig trygg och kontrollen med denna förenklade version av &brandShortName;.">
@@ -77,7 +80,7 @@
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Läslista">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-
+<!ENTITY bookmark_folder_one_item "1 objekt">
 
 <!ENTITY reader_saved_offline "Sparad offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -307,6 +310,7 @@
 <!ENTITY content_notification_action_settings2 "Inställningar">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Läs nu">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -797,6 +801,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_message "Hitta innehållet i din läsvy i bokmärken, även offline.">
 <!ENTITY helper_first_offline_bookmark_button "Gå till bokmärken">
 
+<!ENTITY helper_triple_readerview_open_title "Tillgänglig offline">
 
-
+<!ENTITY helper_triple_readerview_open_button "Lägg till i bokmärken">
 
