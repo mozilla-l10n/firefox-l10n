@@ -7,8 +7,8 @@
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Adicionar a: ">
 
-<!ENTITY ListName.label                 "Nome da lista:">
-<!ENTITY ListNickName.label             "Nick da lista:">
+<!ENTITY ListName.label                 "Nome da lista: ">
+<!ENTITY ListNickName.label             "Nick da lista: ">
 <!ENTITY ListDescription.label          "Descrição: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Escreva os endereços de e-mail para os adicionar à lista de correio:">
