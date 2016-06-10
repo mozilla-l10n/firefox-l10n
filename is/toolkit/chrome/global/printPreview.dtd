@@ -34,7 +34,7 @@
 <!ENTITY customPrompt.title   "Skali…">
 <!ENTITY simplifyPage.label   "Einfalda síðu">
 <!ENTITY simplifyPage.enabled.tooltip  "Breyta útliti til að auðveldara sé að lesa">
-
+<!ENTITY simplifyPage.disabled.tooltip "Ekki er hægt að einfalda þessa síðu">
 
 <!ENTITY homearrow.tooltip    "Fyrsta síða">
 <!ENTITY endarrow.tooltip     "Seinasta síða">
