@@ -18,12 +18,15 @@
 <!ENTITY firstrun_signin_message "Wa ciya ka šintin">
 <!ENTITY firstrun_signin_button "Huru Sync ra">
 <!ENTITY  onboard_start_button_browser "Ceecikaw tunandi">
-
+<!ENTITY firstrun_button_notnow "Manti sohõda">
 <!ENTITY firstrun_button_next "Bisa">
 
+<!ENTITY firstrun_tabqueue_title "Dobey">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Kanji šette tunandi">
+<!ENTITY firstrun_tabqueue_subtext_off "Dobey naagu porogaram taney ra k\u0027i gaabu hiino se &brandShortName; ra">
 
-
+<!ENTITY firstrun_tabqueue_message_on "Zaame!">
 
 
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
