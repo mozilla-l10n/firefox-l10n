@@ -26,7 +26,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Pode ter sido removido, movido, ou as permissões do ficheiro podem estar a prevenir o acesso.</li> </ul>">
 
 <!ENTITY generic.title "Bolas">
-<!ENTITY generic.longDesc "<p>O &brandShortName; não conseguiu carregar a página por algum motivo.</p> ">
+<!ENTITY generic.longDesc "<p>O &brandShortName; não conseguiu carregar a página por algum motivo.</p>">
 
 <!ENTITY malformedURI.title "O endereço não é válido">
 <!ENTITY malformedURI.longDesc "<ul> <li>Normalmente, os endereços web são escritos como <strong>http://www.example.com/</strong></li> <li>Verifique se está a utilizar as barras corretamente (exemplo <strong>/</strong>).</li> </ul>">

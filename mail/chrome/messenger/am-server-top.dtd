@@ -85,7 +85,7 @@
 <!ENTITY browseNewsrc.accesskey "r">
 
 <!ENTITY accountTitle.label "Definições da conta">
-<!ENTITY accountSettingsDesc.label "Esta é uma conta especial. Não existem quaisquer identidades associadas.">
+<!ENTITY accountSettingsDesc.label "Esta é uma conta especial.  Não existem quaisquer identidades associadas.">
 <!ENTITY storeType.label "Tipo de armazenamento das mensagens:">
 <!ENTITY storeType.accesskey "T">
 <!ENTITY mboxStore2.label "Um ficheiro por pasta (mbox)">

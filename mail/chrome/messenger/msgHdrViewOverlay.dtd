@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField4.label "Para ">
-<!ENTITY fromField4.label "De ">
-<!ENTITY senderField4.label "Remetente ">
-<!ENTITY organizationField4.label "Organização ">
-<!ENTITY replyToField4.label "Responder para ">
+<!ENTITY toField4.label "Para">
+<!ENTITY fromField4.label "De">
+<!ENTITY senderField4.label "Remetente">
+<!ENTITY organizationField4.label "Organização">
+<!ENTITY replyToField4.label "Responder para">
 
-<!ENTITY subjectField4.label "Assunto ">
-<!ENTITY ccField4.label "Cc ">
+<!ENTITY subjectField4.label "Assunto">
+<!ENTITY ccField4.label "Cc">
 <!ENTITY bccField4.label "Bcc">
-<!ENTITY newsgroupsField4.label "Grupos de notícias ">
-<!ENTITY followupToField4.label "Reenviar para ">
-<!ENTITY tagsHdr4.label "Etiquetas ">
-<!ENTITY dateField4.label "Data ">
+<!ENTITY newsgroupsField4.label "Grupos de notícias">
+<!ENTITY followupToField4.label "Reenviar para">
+<!ENTITY tagsHdr4.label "Etiquetas">
+<!ENTITY dateField4.label "Data">
 <!ENTITY userAgentField4.label "User agent">
 <!ENTITY referencesField4.label "Referências">
 <!ENTITY messageIdField4.label "ID da mensagem">
