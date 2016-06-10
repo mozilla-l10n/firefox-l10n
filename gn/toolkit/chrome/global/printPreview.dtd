@@ -32,8 +32,8 @@
 <!ENTITY Custom.label         "Ñemomba'epyre…">
 <!ENTITY ShrinkToFit.label    "Kuatiarogue ñemoĩporã">
 <!ENTITY customPrompt.title   "Jupiha ñemomba'epyre…">
-
-
+<!ENTITY simplifyPage.label   "Kuatiarogue ñemomichĩ">
+<!ENTITY simplifyPage.enabled.tooltip  "Emoambue moha'ãnga ñemoñe'ẽ hasy'ỹve hag̃ua">
 
 
 <!ENTITY homearrow.tooltip    "Kuatiarogue peteïha">
