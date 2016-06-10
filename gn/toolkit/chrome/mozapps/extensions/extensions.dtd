@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Oñemyenyhẽhína…">
-
+<!ENTITY listEmpty.installed.label            "Ndereguerekói ãichagua moĩmbaha">
 <!ENTITY listEmpty.availableUpdates.label     "Ndojejuhúi ñembohekopyahu">
-
+<!ENTITY listEmpty.recentUpdates.label        "Nerembopyahúi mba'evéichagua moĩmbaha">
 <!ENTITY listEmpty.findUpdates.label          "Ñembohekopyahu jeheka">
 <!ENTITY listEmpty.search.label               "Ndojejuhúi mba'evéichagua ñemboguejypyre ojogueraháva">
 <!ENTITY listEmpty.button.label               "Eikuaave moimbahakuéra rehegua">
