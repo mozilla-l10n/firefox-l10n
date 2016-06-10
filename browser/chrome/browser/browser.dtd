@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Abrir preferências &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectar-se ao &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verificar conta">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ativo">
-<!ENTITY syncStartPanel2.subTitle "O &brandShortName; começará a sincronizar em instantes.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
@@ -171,6 +169,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Favoritos recentes">
 <!ENTITY otherBookmarksCmd.label "Outros favoritos">
 <!ENTITY bookmarksToolbarChevron.tooltip "Exibir mais favoritos">
+<!ENTITY showRecentlyBookmarked.label     "Mostrar favoritos recentes">
+<!ENTITY hideRecentlyBookmarked.label     "Ocultar favoritos recentes">
 
 <!ENTITY backCmd.label                "Voltar">
 <!ENTITY backButton.tooltip           "Página anterior">
@@ -228,6 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Ver painel de favoritos">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de favoritos">
 
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +262,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "A">
 <!ENTITY newUserContext.label             "Nova aba container">
 <!ENTITY newUserContext.accesskey         "c">
-<!ENTITY userContextPersonal.label        "Pessoal">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Trabalho">
-<!ENTITY userContextWork.accesskey        "T">
-<!ENTITY userContextBanking.label         "Bancos">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Compras">
-<!ENTITY userContextShopping.accesskey    "C">
 <!ENTITY newNavigatorCmd.label        "Nova janela">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "o">
@@ -560,19 +553,12 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Ativar som">
 <!ENTITY mediaUnmute.accesskey       "A">
-<!ENTITY mediaPlaybackRate.label     "Velocidade de reprodução">
-<!ENTITY mediaPlaybackRate.accesskey "d">
-<!ENTITY mediaPlaybackRate050x.label "Câmera lenta (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "C">
-<!ENTITY mediaPlaybackRate100x.label "Velocidade normal">
-<!ENTITY mediaPlaybackRate100x.accesskey "V">
-<!ENTITY mediaPlaybackRate150x.label "Velocidade alta (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "e">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!ENTITY mediaPlaybackRate100x2.label "Normal">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Velocidade burlesca (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "b">
+<!ENTITY mediaLoop.label             "Repetição">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -680,7 +666,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Conexão segura">
 <!ENTITY identity.connectionNotSecure "Conexão não é segura">
 <!ENTITY identity.connectionFile "Esta página está armazenada no seu computador.">
-<!ENTITY identity.connectionVerified1 "Você está conectado seguramente a este site, administrado por:">
 <!ENTITY identity.connectionInternal "Esta é uma página segura do &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Informações de login registradas nesta página podem ser comprometidas.">
 

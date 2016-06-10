@@ -135,8 +135,6 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 <!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdo">
 <!ENTITY cspBlocked.longDesc "<p>O &brandShortName; impediu esta página de carregar desta forma porque a política de segurança de conteúdo da página não permite.</p>">
 
-<!ENTITY corruptedContentError.title "Conteúdo corrompido">
-<!ENTITY corruptedContentError.longDesc "<p>A página que você está tentando abrir não pôde ser exibida porque foi detectado um erro na transmissão.</p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
@@ -160,6 +158,9 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa tecnologia de segurança está desatualizada e vulnerável a ataque. Um invasor pode facilmente revelar informações que você pensou estarem seguras.">
 <!ENTITY weakCryptoAdvanced.override "(Não seguro) Tentando carregar <span class='hostname'></span> usando a segurança desatualizada">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+
 <!ENTITY certerror.pagetitle1  "Conexão insegura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este site usa HTTP 
 Strict Transport Security (HSTS) para indicar que o &brandShortName; deve se conectar 
@@ -171,3 +172,5 @@ certificado.">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa uma tecnologia de segurança que está ultrapassada e vulnerável a ataques. Um cracker poderia facilmente coletar informações enquanto você acreditava estar seguro. O administrador do website precisa consertar essa brecha no servidor antes de você poder visitar esse site.</p><p>Código de Erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY prefReset.label "Restaurar configurações padrão">
