@@ -333,7 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Tarixçə yan panelini göstər">
 <!ENTITY appMenuHelp.tooltip "Kömək Menyusunu Aç">
 
-<!ENTITY appMenuRemoteTabs.label "Sinxronlaşdırılmış Vərəqlər">
+<!ENTITY appMenuRemoteTabs.label "Sinxron Vərəqlər">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Açıq vərəq yoxdur">
@@ -720,9 +720,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Brauzer vərəqləri">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu3.label     "Sinxronlaşdırılmış Vərəqlər">
+<!ENTITY syncTabsMenu3.label     "Sinxron Vərəqlər">
 
-<!ENTITY syncedTabs.sidebar.label              "Sinxronlaşdırılmış Vərəqlər">
+<!ENTITY syncedTabs.sidebar.label              "Sinxron Vərəqlər">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Digər cihazlarınızdan da Firefox-a daxil olun, vərəqlərini burada görün.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Hələlik sinxronlaşdırılmış vərəq yoxdur!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Digər cihazlarınızda olan vərəqləri burada görmək istərdiniz?">
