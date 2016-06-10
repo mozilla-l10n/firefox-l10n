@@ -18,7 +18,7 @@
 
 <!ENTITY rights.intro-point1a "O &brandShortName; está disponível sob os termos da ">
 <!ENTITY rights.intro-point1b "Licença pública da Mozilla">
-<!ENTITY rights.intro-point1c ". Isto significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas. Também pode modificar o código fonte do &brandShortName; conforme as suas necessidades. A Mozilla Public License também lhe dá o direito de distribuir as suas versões modificadas.">
+<!ENTITY rights.intro-point1c ". Isto significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas.  Também pode modificar o código fonte do &brandShortName; conforme as suas necessidades. A Mozilla Public License também lhe dá o direito de distribuir as suas versões modificadas.">
 
 <!ENTITY rights.intro-point2a "A Mozilla não lhe dá nenhum direito às marcas registadas ou logótipos da Mozilla e do Firefox. Encontra mais informação adicional sobre marcas registadas ">
 <!ENTITY rights.intro-point2b "aqui">
@@ -41,13 +41,13 @@
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "O &brandFullName; disponibiliza serviços opcionais (&quot;Serviços&quot;), tais como serviços de sugestão de extras e de atualizações ou a funcionalidade de navegação segura, que estão disponíveis para serem utilizadas por si nesta versão binária do &brandShortName; tal como descrito em baixo. Por definição, estes estão ativos. Se não quiser utilizar os serviços ou se os termos em baixo não são aceitáveis, pode encontrar informações sobre como os desativar ">
+<!ENTITY rights2.webservices-a "O &brandFullName; disponibiliza serviços opcionais (&quot;Serviços&quot;), tais como serviços de sugestão de extras e de atualizações ou a funcionalidade de navegação segura, que estão disponíveis para serem utilizadas por si nesta versão binária do &brandShortName; tal como descrito em baixo.  Por definição, estes estão ativos. Se não quiser utilizar os serviços ou se os termos em baixo não são aceitáveis, pode encontrar informações sobre como os desativar ">
 <!ENTITY rights2.webservices-b "aqui">
 <!ENTITY rights2.webservices-c ". Outras funcionalidades e serviços podem ser desativados nas preferências da aplicação.">
 <!-- add-on related points for branded builds -->
 
 <!ENTITY rights.addons-a "Serviços de extras: ">
-<!ENTITY rights.addons-b "Por definição, o &brandShortName; irá sugerir extras na página &view.discover.label; e procurar por atualizações em intervalos regulares. Se quiser desativar estas funcionalidades para evitar a comunicação de informação sobre extras instalados para o servidor, siga estes passos:">
+<!ENTITY rights.addons-b "Por definição, o &brandShortName; irá sugerir extras na página &view.discover.label; e procurar por atualizações em intervalos regulares.  Se quiser desativar estas funcionalidades para evitar a comunicação de informação sobre extras instalados para o servidor, siga estes passos:">
 <!ENTITY rights.addons-term1 "Abrir preferências da aplicação">
 <!ENTITY rights.addons-term2 "Selecionar o painel &smart.label; na categoria &advance.label;">
 <!ENTITY rights.addons-term3 "Desmarque as opções para &quot;&autoAddOnsUpdates.label;&quot; e &quot;&enablePersonalized.label;&quot;">
@@ -66,8 +66,8 @@
 
 <!ENTITY rights.webservices-term1 "A &vendorShortName; pode descontinuar ou alterar os serviços a qualquer momento.">
 <!ENTITY rights.webservices-term2 "É convidado a usar os Serviços que acompanham a versão do &brandShortName;, e tem todos os direitos necessários para o fazer. A &vendorShortName; e os seus licenciadores reservam todos os outros direitos nos Serviços. Estes termos não têm a intenção de limitar quaisquer direitos dados sobre as licenças de open source aplicáveis ao &brandShortName; e às correspondentes versões dos códigos fonte do &brandShortName;.">
-<!ENTITY rights.webservices-term3 "Os serviços são fornecidos &quot;tal como estão.&quot; A &vendorShortName;, os seus colaboradores, licenciadores e distribuidores, renunciam a todas as garantias, sejam elas expressas ou implícitas, incluindo sem limites, garantias que o serviço é comercial e serve para os seus objetivos pessoais.  Você é responsável por selecionar os Serviços para os seus propósitos assim como a qualidade e o desempenho dos Serviços. Algumas jurisdições não permitem a exclusão ou a limitação de garantias implícitas, como tal este aviso poderá não ser adequado para si.">
-<!ENTITY rights.webservices-term4 "Exceto quando necessário por lei, a &vendorShortName;, os seus colaboradores, licenciadores e distribuidores não poderão ser responsabilizados por qualquer dano indireto, especial, acidental, consequente, punitivo, exemplares ou danos diretos decorrentes da utilização do &brandShortName; e os seus serviços. A responsabilidade coletiva sob estes termos, não poderá exceder $500 (quinhentos dólares). Algumas jurisdições não permitem a exclusão ou a limitação de alguns danos e, como tal, esta exclusão e limitação poderá não ser aplicada a si.">
+<!ENTITY rights.webservices-term3 "Os serviços são fornecidos &quot;tal como estão.&quot;  A &vendorShortName;, os seus colaboradores, licenciadores e distribuidores, renunciam a todas as garantias, sejam elas expressas ou implícitas, incluindo sem limites, garantias que o serviço é comercial e serve para os seus objetivos pessoais.  Você é responsável por selecionar os Serviços para os seus propósitos assim como a qualidade e o desempenho dos Serviços. Algumas jurisdições não permitem a exclusão ou a limitação de garantias implícitas, como tal este aviso poderá não ser adequado para si.">
+<!ENTITY rights.webservices-term4 "Exceto quando necessário por lei, a &vendorShortName;, os seus colaboradores, licenciadores e distribuidores não poderão ser responsabilizados por qualquer dano indireto, especial, acidental, consequente, punitivo, exemplares ou danos diretos decorrentes da utilização do &brandShortName; e os seus serviços.  A responsabilidade coletiva sob estes termos, não poderá exceder $500 (quinhentos dólares). Algumas jurisdições não permitem a exclusão ou a limitação de alguns danos e, como tal, esta exclusão e limitação poderá não ser aplicada a si.">
 <!ENTITY rights.webservices-term5 "A &vendorShortName; poderá atualizar os termos conforme necessário de tempos a tempos. Estes termos não poderão ser alterados ou cancelados sem o acordo escrito da &vendorShortName;.">
 <!ENTITY rights.webservices-term6 "Estes termos são regidos pelas leis do estado da California, U.S.A., excluindo conflitos de provisão de leis. Se algum destes termos for identificado como inválido ou sem valor jurídico, as restantes porções manterão a sua força e efeito. No evento de um conflito entre uma versão traduzida destes termos e a versão em Inglês, a versão em Inglês é a que prevalece.">
 
