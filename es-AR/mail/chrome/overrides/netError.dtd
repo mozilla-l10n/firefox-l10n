@@ -166,8 +166,7 @@ ser temporal y puede inentarlo nuevamente más tarde.</li>
 <!ENTITY cspBlocked.title "Bloqueado por política de seguridad de contenido">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que se cargue esta página de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
 
-<!ENTITY corruptedContentError.title "Error de contenido corrupto">
-<!ENTITY corruptedContentError.longDesc "<p>El contenido que está tratando de ver no puede mostrarse porque se detectó un error en la transmisión de los datos.</p><ul><li>Contacte a los dueños para inormarles de este problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Error de contenido corrupto">
 
 <!ENTITY securityOverride.linkText "O puede agregar una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Sáquenme de aquí">
@@ -187,3 +186,7 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte a los dueños del sitio web para informarles este problema.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "La conexión no es segura">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
