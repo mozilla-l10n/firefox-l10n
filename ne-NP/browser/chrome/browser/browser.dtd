@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "हालसालै थपिएको पुस्तकचिनो">
 <!ENTITY otherBookmarksCmd.label "अन्य पुस्तकचिनोहरू">
 <!ENTITY bookmarksToolbarChevron.tooltip "अरु पुस्तकचिनोहरू देखाउनुहोस्">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "हालसालै थपिएको पुस्तकचिनो">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "हालसालै थपिएको पुस्तकचिनो">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "पछाडि जाने">
 <!ENTITY backButton.tooltip           "एक पृष्ठ पछाडि जानुहोस्">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "पुस्तकचिनो टुलबार देखाउनुहोस्">
 <!ENTITY viewBookmarksToolbar.label         "पुस्तकचिनो टुलबार देखाउनुहोस्">
 
+<!ENTITY containersMenu.label "कन्टेनरहरू">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -555,20 +556,21 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "अन म्यूट ">
 <!ENTITY mediaUnmute.accesskey       "m">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "बजाउने गति">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "बिस्तार (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "सामान्य">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "छिटो (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "झनै छिटो (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
+<!ENTITY mediaPlaybackRate200x2.label "अति छिटो (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
 
 
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
