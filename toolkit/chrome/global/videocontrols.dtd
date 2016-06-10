@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "توقف تحميل الفديو.">
 <!ENTITY error.network "توقف تشغيل الفديو بسبب عُطل شبكي.">
-
+<!ENTITY error.decode "تعذّر تشغيل الفديو لعطب في الملف.">
 <!ENTITY error.srcNotSupported "نسق أو نوع MIME الفديو غير مدعوم.">
 <!ENTITY error.noSource2 "لم يُعثر على فديو بنسق أو نوع MIME مدعوم.">
 <!ENTITY error.generic "توقف تشغيل الفديو بسبب عُطل غير معروف.">
