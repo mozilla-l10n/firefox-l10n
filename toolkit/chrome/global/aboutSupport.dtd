@@ -87,8 +87,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Grafík">
 
 <!ENTITY aboutSupport.placeDatabaseTitle "Gagnagrunnur fyrir staði">
-
-
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Áreiðanleiki">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Sannprófa áreiðanleika">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Stigvaxandi GC">
@@ -115,6 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Villu loggur">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Atburðaskrá fyrir ákvarðanir">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Óvirkar stillingar fyrir hrunvara">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Leiðir framhjá villum">
