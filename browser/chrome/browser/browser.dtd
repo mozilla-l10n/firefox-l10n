@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Féach ar Bharra na Leabharmharcanna">
 <!ENTITY viewBookmarksToolbar.label         "Féach ar Bharra Leabharmharc">
 
+<!ENTITY containersMenu.label "Coimeádáin">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
