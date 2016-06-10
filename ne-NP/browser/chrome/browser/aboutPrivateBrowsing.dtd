@@ -9,7 +9,7 @@
 <!ENTITY privateBrowsing.title                           "निजी ब्राउजिङ">
 
 
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "बचत गर्दैन">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 
 <!ENTITY aboutPrivateBrowsing.info.searches              "खोजी">
@@ -24,7 +24,7 @@
 
 
 
-
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "निजी ब्राउजिङ">
 
 <!ENTITY trackingProtection.title                        "सुरक्षा ट्रयाक गरिँदै ">
 

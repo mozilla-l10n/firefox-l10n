@@ -16,7 +16,9 @@
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
 <!ENTITY robots.errorLongDesc1 "रोबोटहरूले मानवजातिलाई हानी नोक्सानी वा अरू कुनै कार्यबाट मानवलाई हानी पुर्‍याउने कार्यमा साथ दिने छैनन्।">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..." -->
+<!ENTITY robots.errorLongDesc2 "तपाईँहरूले नपत्याउने कुराहरू रोबोटहरूले देखेका छन्।">
 <!-- Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
+<!ENTITY robots.errorLongDesc3 "रोबटहरू तपाईँको प्लासटिक साथी हुन् जसको साथ रमाइलो हुन्छ।">
 <!-- TV: Futurama. Bender's first line is "Bite my shiny metal ass." -->
 <!ENTITY robots.errorLongDesc4 "यन्त्रमानवहरूको बाहिरी शरीर चम्किलो धातुहरूले बनेको हुन्छ जसलाई टोक्नु हुदैन।">
 <!-- TV: Battlestar Galactica (2004 series). From the opening text. -->
