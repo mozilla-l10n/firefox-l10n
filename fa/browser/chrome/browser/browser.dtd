@@ -169,8 +169,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "به تازگی نشانک‌گذاری شده">
 <!ENTITY otherBookmarksCmd.label "نشانک‌‌های دیگر">
 <!ENTITY bookmarksToolbarChevron.tooltip "نشانک‌های بیشتری نمایش داده شود">
-
-
+<!ENTITY showRecentlyBookmarked.label     "نمایش اخیرا نشانک‌گذاری شده">
+<!ENTITY showRecentlyBookmarked.accesskey "ن">
 
 
 
