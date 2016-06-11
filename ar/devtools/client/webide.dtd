@@ -176,7 +176,7 @@
      server. -->
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "نقطة النهاية التي تحاول الاتصال بها تحتاج المزيد من المعلومات لاستيثاق الاتصال. من فضلك امسح رمز QR أدناه ضوئيا عبر الطلب الموجود في الجهاز الآخر.">
+<!ENTITY wifi_auth_scan_request "نقطة النهاية التي تحاول الاتصال بها تحتاج المزيد من المعلومات لاستيثاق الاتصال.  من فضلك امسح رمز QR أدناه ضوئيا عبر الطلب الموجود في الجهاز الآخر.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "ألم يظهر طلب مسح QR ضوئيا؟">
