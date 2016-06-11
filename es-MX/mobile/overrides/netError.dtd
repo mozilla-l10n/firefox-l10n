@@ -88,6 +88,8 @@
 <!ENTITY cspBlocked.title "Bloqueado por la Política de Seguridad de Contenido">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que se cargara esta página en esta forma por que tiene una política de seguridad de contenido que no lo permite.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Error por contenido dañado">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La página que estás tratando de ver no se puede mostrar porque se detectó un error en la transmisión de datos.</p><ul><li>Favor de contactar a los dueños del sitio web para informarles del problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O puedes agregar una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sácame de aquí!">
