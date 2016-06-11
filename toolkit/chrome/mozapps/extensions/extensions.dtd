@@ -25,6 +25,7 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "אין אפשרות לאמת חלק מההרחבות">
 <!ENTITY showAllExtensions.button.label       "הצגת כל ההרחבות">
+<!ENTITY debugAddons.label                    "ניפוי שגיאות של תוספות">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "כל התוספות נוטרלו במצב בטוח.">
@@ -105,8 +106,6 @@
 <!ENTITY cmd.installAddon.accesskey           "ה">
 <!ENTITY cmd.uninstallAddon.label             "הסרה">
 <!ENTITY cmd.uninstallAddon.accesskey         "ה">
-<!ENTITY cmd.debugAddon.label                 "ניפוי שגיאות">
-<!ENTITY cmd.debugAddon.accesskey             "נ">
 <!ENTITY cmd.showPreferencesWin.label         "אפשרויות">
 <!ENTITY cmd.showPreferencesWin.tooltip       "שנה את האפשרויות של תוספת זו">
 <!ENTITY cmd.showPreferencesUnix.label        "העדפות">
