@@ -161,18 +161,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "S">
 <!ENTITY shareVideo.label "s ဤဗီဒီယိုကို မျှဝေမည်">
 <!ENTITY shareVideo.accesskey "s">
-
-
+<!ENTITY feedsMenu2.label "ဒီစာမျက်နှာမှ ပုံမှန်သတင်း ရယူရန်">
+<!ENTITY subscribeToPageMenupopup.label "ဒီစာမျက်နှာမှ ပုံမှန်သတင်း ရယူရန်">
 <!ENTITY subscribeToPageMenuitem.label "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ...">
 <!ENTITY addCurPagesCmd.label "စာအမှတ် အားလုံးကို မှတ်သားပါ...">
 <!ENTITY showAllBookmarks2.label "မှတ်သားချက်များအားလုံးကို ပြသပါ">
-
-
+<!ENTITY recentBookmarks.label "မကြာသေးမီက မှတ်သားထားသောဝဘ်စာမျက်နှာများ">
+<!ENTITY otherBookmarksCmd.label "အခြား မှတ်သားချက်များ">
 <!ENTITY bookmarksToolbarChevron.tooltip "မှတ်သားချက်များကို ပိုမို ဖေါ်ပြသပါ">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "(S) လတ်တလော မှတ်ထားသည်များကို ပြရန်">
+<!ENTITY showRecentlyBookmarked.accesskey "S">
+<!ENTITY hideRecentlyBookmarked.label     "(H) လတ်တလော မှတ်ထားသည်များကို မပြရန်">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "နောက်">
 <!ENTITY backButton.tooltip           "နောက် တမျက်နှာ သွားပါ">
@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "မှတ်သားချက်များ">
-
+<!ENTITY bookmarksMenuButton.other.label "အခြား မှတ်သားချက်များ">
 <!ENTITY viewBookmarksSidebar2.label        "ဝတ်ဆိုက်မှတ်သားဘားကိုကြည့်မည်">
 <!ENTITY viewBookmarksToolbar.label         "ဝတ်ဆိုက်မှတ်သားဘားကိုကြည့်မယ်။">
 
