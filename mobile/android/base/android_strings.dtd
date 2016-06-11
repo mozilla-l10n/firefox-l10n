@@ -357,7 +357,10 @@
 <!ENTITY home_top_sites_add "Добавить сайт">
 <!ENTITY home_title "Стартовая страница &brandShortName;">
 <!ENTITY home_history_title "История">
-<!ENTITY home_history_back_to "Вернуться ко всей истории">
+<!ENTITY home_synced_devices_smartfolder "Облачные устройства">
+<!ENTITY home_synced_devices_number "&formatD; устройств(а)">
+<!ENTITY home_synced_devices_one "1 устройство">
+<!ENTITY home_history_back_to2 "Вернуться ко всей истории">
 <!ENTITY home_clear_history_button "Удалить историю веб-сёрфинга">
 <!ENTITY home_clear_history_confirm "Вы уверены, что хотите удалить свою историю?">
 <!ENTITY home_bookmarks_empty "Сохраняемые вами закладки появятся здесь.">
