@@ -34,6 +34,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "הקלטת פרופיל אינה זמינה כרגע. נא לסגור את כל חלונות הגלישה הפרטית ולנסות שוב.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
@@ -62,6 +63,7 @@
 <!ENTITY performanceUI.table.totalPercentage          "עלות כוללת">
 <!ENTITY performanceUI.table.selfPercentage           "עלות עצמית">
 <!ENTITY performanceUI.table.samples                  "דגימות">
+<!ENTITY performanceUI.table.function                 "פונקציה">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
