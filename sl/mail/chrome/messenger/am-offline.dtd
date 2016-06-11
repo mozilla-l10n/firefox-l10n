@@ -5,7 +5,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Zaradi prihranka prostora na disku ne prenesi:">
 <!ENTITY doNotDownloadNntp.label "Zaradi prihranka prostora na disku ne prenesi za delo brez povezave:">
 <!ENTITY doNotDownloadImap.label "Če želite varčevati s prostorom na disku, je mogoče prenos in krajevno hranjenje sporočil za delo brez povezave omejiti glede da njihovo starost ali velikost.">
-<!ENTITY allFoldersOffline.label "Ohrani sporočila za ta račun na tem računalniku">
+<!ENTITY allFoldersOffline.label "Obdrži sporočila za ta račun na tem računalniku">
 <!ENTITY allFoldersOffline.accesskey "O">
 <!ENTITY offlineNotDownload.label "sporočil večjih od">
 <!ENTITY offlineNotDownload.accesskey "e">
@@ -27,7 +27,7 @@
 <!ENTITY retentionKeepAll.accesskey "š">
 <!ENTITY retentionKeepRecent.label "Izbriši vse, razen najnovejših">
 <!ENTITY retentionKeepRecent.accesskey "s">
-<!ENTITY retentionApplyToFlagged.label "Vedno ohrani sporočila z zvezdico">
+<!ENTITY retentionApplyToFlagged.label "Vedno obdrži sporočila z zvezdico">
 <!ENTITY retentionApplyToFlagged.accesskey "V">
 <!ENTITY nntpRemoveMsgBody.label "Odstrani telesa iz sporočil, ki so starejša od">
 <!ENTITY nntpRemoveMsgBody.accesskey "d">

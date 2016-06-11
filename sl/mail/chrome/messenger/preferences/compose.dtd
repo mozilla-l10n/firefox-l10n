@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "z">
 <!ENTITY restoreHTMLDefaults.label            "Ponastavi privzeto">
 <!ENTITY restoreHTMLDefaults.accesskey        "n">
+<!ENTITY defaultToParagraph.label             "Privzeto uporabi obliko odstavka namesto telesa besedila">
+<!ENTITY defaultToParagraph.accesskey         "k">
 
 <!ENTITY spellCheck.label                     "Pred pošiljanjem preveri črkovanje">
 <!ENTITY spellCheck.accesskey                 "P">

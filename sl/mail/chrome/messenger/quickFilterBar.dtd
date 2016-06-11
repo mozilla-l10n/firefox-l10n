@@ -45,7 +45,7 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "Ohrani uporabo filtrov ob menjavi map">
+         "Obdrži uporabo filtrov ob menjavi map">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
