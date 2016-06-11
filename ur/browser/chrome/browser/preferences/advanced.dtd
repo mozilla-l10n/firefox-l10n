@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "م">
 <!ENTITY blockAutoRefresh.label          "جب ویب سائٹیں صفحہ کو دوسری سمت بھیجنے کی یا پھر لوڈ کرنے کی کوشش کریں تو مجھے متنبہ کریں">
 <!ENTITY blockAutoRefresh.accesskey      "س">
-
-
+<!ENTITY useOnScreenKeyboard.label       "بہ وقت ضرورت حساس کی بورڈ دکھایں">
+<!ENTITY useOnScreenKeyboard.accesskey   "ک">
 
 <!ENTITY browsing.label                  "براؤزنگ">
 

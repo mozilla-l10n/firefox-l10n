@@ -166,8 +166,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "اس صفحہ کے ساتھ رکنیت سازی کریں…">
 <!ENTITY addCurPagesCmd.label "تمام ٹیب نشان زد کریں…">
 <!ENTITY showAllBookmarks2.label "تمام نشانیاں دکھائیں">
-
-
+<!ENTITY recentBookmarks.label "حالیہ نشانی کردہ">
+<!ENTITY otherBookmarksCmd.label "دیگر نشانیاں">
 <!ENTITY bookmarksToolbarChevron.tooltip "اور نشانیاں دکھائیں">
 
 
@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "نشانیاں">
-
+<!ENTITY bookmarksMenuButton.other.label "دیگر نشانیاں">
 <!ENTITY viewBookmarksSidebar2.label        "بغلی بار میں نشانیاں دیکھیں">
 <!ENTITY viewBookmarksToolbar.label         "نشانیاں ٹول بار دیکھیں">
 
@@ -282,9 +282,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "کاٹیں">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ک"> 
-
+<!ENTITY copyCmd.label            "نقل کریں">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "ن"> 
 <!ENTITY pasteCmd.label           "چسپاں کریں">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "چ"> 
@@ -336,18 +336,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "ہمہ وقت ساز ٹیب">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "کوئی کھولیں ٹیب نہیں">
+<!ENTITY appMenuRemoteTabs.notabs.label "کوئی کھولی ہوئی ٹیب نہیں">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "اپنے دیگر آلات پر ٹیب کی فہرست دیکھنے کے لئے ٹیب ہم سازی آن کر دیں۔">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "کوی ہم وقت ٹیب ابی موجود نہیں…اب نک!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "اپنے ٹیب کو دوسرے آلات سے یہاں سے دیکھنا پسند کریں گے؟">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ہمہ وقت ساز ترجیحات">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ٹیبیں کی فہرست دیکھنے کے لئے اپنے دیگر آلات سے سائن ان کریں۔">
 <!ENTITY appMenuRemoteTabs.signin.label "ہم سازی کے لئے سائن ان کریں">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "حمہ تن ساز ٹیبس کے بغلی بار کا نظارہ کریں">
 
 <!ENTITY customizeMenu.addToToolbar.label "ٹول بار میں ڈالیں">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ڈ">
@@ -454,8 +455,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ٹ">
 <!ENTITY openFrameCmd.label           "فریم نئے دریچے میں کھولیں">
 <!ENTITY openFrameCmd.accesskey       "د">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "ربط کو نئے حامل ٹیب میں کھولیں">
+<!ENTITY openLinkCmdInContainerTab.accesskey "ح">
 <!ENTITY showOnlyThisFrameCmd.label     "صرف یہ فریم دکھائیں">
 <!ENTITY showOnlyThisFrameCmd.accesskey "د">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -680,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "یہ صفحہ آپکے کمپیوٹر پر سٹورڈ ہے۔">
 
 <!ENTITY identity.connectionInternal "یہ ایک قابل بھروسا &brandShortName; صفحہ ہے۔">
-
+<!ENTITY identity.insecureLoginForms2 "اس صفحہ پر داخل کردہ لاگ ان اشتباہ کیا جا سکتا ہے۔">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; نے اس صفحے کے وہ حصے بلاک کر دیے ہیں جو قابل بھروسا نہیں ہیں۔">
@@ -692,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "اس سائٹ سے آپ کی کنکشن رازدار نہیں ہے۔ جو معلومات آپ بھیجتے ہیں (جیسے کے پاس ورڈ، پیغامات، کریڈٹ کارڈ وغیرہ) اسے اور لوگ دیکھ سکیں گے۔">
 <!ENTITY identity.description.insecureLoginForms "جو لاگ ان معلومات آپ اس صفحے پر داخل کرتے ہیں وہ محفوظ نہیں ہے اور اشتباہ ہو سکتی ہے۔">
 <!ENTITY identity.description.weakCipher "اس ویب سائٹ پر آپ کے کنکشن کمزور خفیہ کندھ استعمال کرتا ہے اور نجی نہیں ہے۔">
-
+<!ENTITY identity.description.weakCipher2 "دیگر لوگ آپ کی معلومات دیکھ سکتے ہیں یا ویب سائٹ کا رویہ بدل سکتے ہیں۔">
 <!ENTITY identity.description.activeBlocked "&brandShortName;  نے اس صفحے کے وہ حصے بلاک کر دیے ہیں جو قابل بھروسا نہیں ہیں۔">
 <!ENTITY identity.description.passiveLoaded "آپ کی کنکشن رازدار نہیں ہے اور وہ معلومات جو آپ سائٹ سے شیئر کریں گے دیگر لوگ دیکھ سکیں گے۔">
 <!ENTITY identity.description.passiveLoaded2 "اس ویب سائٹ میں مواد شامل ہے جو کہ قابل بھروسا نہیں ہے (جیسے کے نقوش)۔">
@@ -723,26 +724,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "ہمہ وقت ساز ٹیب">
 
-
-
+<!ENTITY syncedTabs.sidebar.noclients.title    "کوی ہم وقت ٹیب ابی موجود نہیں…اب نک!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "اپنے ٹیب کو دوسرے آلات سے یہاں سے دیکھنا پسند کریں گے؟">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ٹیبیں کی فہرست دیکھنیں کے لئے اپنے دیگر آلات سے سائن ان کریں۔">
 <!ENTITY syncedTabs.sidebar.notabs.label       "کوئی کھلے ٹیب نہیں">
-
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; ترجیحات کھولیں">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "اپنے دیگر آلات پر ٹیب کی فہرست دیکھنے کے لئے ٹیب ہم سازی آن کر دیں۔">
 
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "کھولیں">
+<!ENTITY syncedTabs.context.open.accesskey                   "ک">
+<!ENTITY syncedTabs.context.openInNewTab.label               "نئے ٹیب میں کھولیں">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "ئ">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "ربط نئی ونڈوں میں کھولیں">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "و">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "ربط نئے نجی ونڈوں میں کھولیں">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "ن">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "یہ صفحہ نشان زد کریں...">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ن">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "نقل کریں">
+<!ENTITY syncedTabs.context.copy.accesskey                   "ن">
 
 
 <!ENTITY syncBrand.shortName.label    "ہمہ وار کریں">

@@ -21,7 +21,7 @@
 <!ENTITY     props.path.label               "راہ:">
 <!ENTITY     props.secure.label             "بھیجیں برائے:">
 <!ENTITY     props.expires.label            "مدت ختم ہوتی ہے:">
-
+<!ENTITY     props.container.label          "حامل:">
 
 <!ENTITY     window.title                   "کوکیاں">
 <!ENTITY     windowClose.key                "د">
