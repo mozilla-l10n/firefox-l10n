@@ -169,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Недавно закладені">
 <!ENTITY otherBookmarksCmd.label "Інші закладки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показати інші закладки">
+<!ENTITY showRecentlyBookmarked.label     "Показати недавно закладені">
+<!ENTITY showRecentlyBookmarked.accesskey "о">
+<!ENTITY hideRecentlyBookmarked.label     "Приховати нещодавно закладені">
+<!ENTITY hideRecentlyBookmarked.accesskey "х">
 
 <!ENTITY backCmd.label                "Назад">
 <!ENTITY backButton.tooltip           "Назад на одну сторінку">
@@ -226,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Показати панель закладок">
 <!ENTITY viewBookmarksToolbar.label         "Показати панель закладок">
 
+<!ENTITY containersMenu.label "Контейнери">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -551,9 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "и">
 <!ENTITY mediaUnmute.label           "Увімкнути звук">
 <!ENTITY mediaUnmute.accesskey       "и">
+<!ENTITY mediaPlaybackRate2.label     "Швидкість відтворення">
+<!ENTITY mediaPlaybackRate2.accesskey "в">
+<!ENTITY mediaPlaybackRate050x2.label "Повільно (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "П">
+<!ENTITY mediaPlaybackRate100x2.label "Нормально">
+<!ENTITY mediaPlaybackRate100x2.accesskey "Н">
+<!ENTITY mediaPlaybackRate125x2.label "Швидко (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "к">
+<!ENTITY mediaPlaybackRate150x2.label "Швидше (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "е">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Надшвидко (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "о">
+<!ENTITY mediaLoop.label             "Цикл">
+<!ENTITY mediaLoop.accesskey         "л">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -661,6 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Захищене з'єднання">
 <!ENTITY identity.connectionNotSecure "Незахищене з'єднання">
 <!ENTITY identity.connectionFile "Ця сторінка збережена на вашому комп'ютері.">
+<!ENTITY identity.connectionVerified2 "Ви безпечно підключились до цього сайту, власником якого є:">
 <!ENTITY identity.connectionInternal "Це захищена сторінка &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Логіни введені на цій сторінці можуть бути скомпрометовані.">
 
