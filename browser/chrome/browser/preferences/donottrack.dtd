@@ -6,6 +6,8 @@
 <!ENTITY window.width                 "50em">
 <!ENTITY window.height                "10em">
 
+<!ENTITY doNotTrackCheckbox2.label    "طبّق دائمًا ”لا تتعقبني“">
+<!ENTITY doNotTrackCheckbox2.accesskey "د">
 
-
+<!ENTITY doNotTrackTPInfo.description "سيُرسل &brandShortName; إشارة أنك لا تريد أن يتعقبك أحد ما دامت الحماية من التعقب مفعّلة.">
 <!ENTITY doNotTrackLearnMore.label    "اطّلع على المزيد">

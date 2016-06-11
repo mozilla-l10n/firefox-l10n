@@ -12,7 +12,7 @@
   safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
-<!ENTITY safeb.palm.notdeceptive.accesskey "d">
+<!ENTITY safeb.palm.notdeceptive.accesskey "خ">
 <!ENTITY safeb.palm.reportPage.label "لماذا حُظرت هذه الصفحة؟">
 <!ENTITY safeb.palm.whyForbidden.label "لماذا حُظرت هذه الصفحة؟">
 

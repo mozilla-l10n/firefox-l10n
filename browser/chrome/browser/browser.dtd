@@ -563,14 +563,14 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate100x2.label "عادية">
 <!ENTITY mediaPlaybackRate100x2.accesskey "ع">
 <!ENTITY mediaPlaybackRate125x2.label "سريعة (١٫٢٥ ضعف)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate125x2.accesskey "س">
 <!ENTITY mediaPlaybackRate150x2.label "أسرع (١٫٥ ضعف)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "a">
+<!ENTITY mediaPlaybackRate150x2.accesskey "ع">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "سريعة جدًا (ضعفي السرعة)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaPlaybackRate200x2.accesskey "د">
 <!ENTITY mediaLoop.label             "تكرار">
 <!ENTITY mediaLoop.accesskey         "ر">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
