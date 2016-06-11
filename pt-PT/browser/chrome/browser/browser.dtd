@@ -571,8 +571,8 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Alucinante (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "A">
-<!ENTITY mediaLoop.label             "Ciclo">
-<!ENTITY mediaLoop.accesskey         "C">
+<!ENTITY mediaLoop.label             "Repetição">
+<!ENTITY mediaLoop.accesskey         "R">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
