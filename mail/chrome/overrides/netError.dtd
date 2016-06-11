@@ -137,6 +137,8 @@ da ima &brandShortName; pravico dostopati do omrežja.</li>
 <!ENTITY cspBlocked.title "Blokirano zaradi Politike za varnost vsebin">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje te strani na ta način, kajti zanjo velja politika o varnosti vsebin, ki tega ne dovoljuje.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Napaka pokvarjene vsebine">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je bila zaznana napaka pri prenosu podatkov.</p><ul><li>O težavi obvestite lastnike spletne strani.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo …">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hočem vstran!">
@@ -155,5 +157,7 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "Oddaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o tej težavi.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Vaša povezava ni varna">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uporablja varnostno tehnologijo, ki je zastarela in ranljiva na napade. Napadalec lahko enostavno razkrije podatke, ki naj bi bili zaščiteni. Skrbnik spletne strani bo moral najprej popraviti strežnik, preden lahko obiščete stran.</p><p>Koda napake: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
