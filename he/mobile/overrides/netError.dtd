@@ -38,6 +38,18 @@
 <!ENTITY malformedURI.title "כתובת לא חוקית">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
+<ul>
+  <li>כתובות של אתרים הן בד״כ משהו בסגנון
+    <strong>http://www.example.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>חיפוש</button>
+    </div>
+  <li>נא לוודא שהשתמשת בלוכסנים בכיוון הנכון (למשל 
+    <strong>/</strong>).</li>
+</ul>
+">
 
 <!ENTITY netInterrupt.title "החיבור הופסק">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -69,6 +81,11 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "כתובת זו אינה מובנת">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>יתכן שיש צורך ביישומונים נוספים כדי לפתוח כתובת זו.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "השרת המתווך דחה את ההתחברות">
 <!ENTITY proxyConnectFailure.longDesc "
@@ -111,6 +128,7 @@
 
 <!ENTITY cspBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
 
+<!ENTITY corruptedContentErrorv2.title "שגיאת תוכן משובש">
 
 <!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
 <!ENTITY securityOverride.getMeOutOfHereButton "תוציא אותי מכאן!">
@@ -133,10 +151,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "לא ניתן להיכנס באופן מאובטח">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "פרטים מתקדמים: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "החיבור שלך אינו בטוח">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "פרטים מתקדמים: SSL_ERROR_NO_CYPHER_OVERLAP">
 
 <!ENTITY inadequateSecurityError.title "החיבור שלך אינו בטוח">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate

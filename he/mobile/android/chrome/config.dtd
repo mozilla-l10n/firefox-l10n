@@ -7,6 +7,7 @@
 
 <!ENTITY newPref.namePlaceholder       "שם">
 
+<!ENTITY newPref.valueBoolean          "בוליאני">
 <!ENTITY newPref.valueString           "מחרוזת">
 <!ENTITY newPref.valueInteger          "מספר שלם">
 
