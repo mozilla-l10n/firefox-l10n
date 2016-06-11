@@ -8,19 +8,20 @@
 
 
 
-
-
-
-
+<!ENTITY firstrun_bookmarks_subtext "ទទួលបាន​លទ្ធផល​ពី​ការ​ចំណាំ​និង​ប្រវត្តិ​ស្វែងរក​របស់​អ្នក នៅ​ពេល​អ្នក​ស្វែងរក​អ្វី​មួយ។">
+<!ENTITY firstrun_data_title "ទិន្នន័យ">
+<!ENTITY firstrun_data_message "ប្រើ​ទិន្នន័យ​តិច, សន្សំ​បាន​ច្រើន">
+<!ENTITY firstrun_data_subtext2 "បិទ​រូបភាព​នៅ​គ្រប់​វេបសាយ​ដែល​អ្នក​ចូល​មើល ដើម្បី​សន្សំសំចៃ​ទិន្នន័យ​របស់​អ្នក។">
 <!ENTITY firstrun_sync_title "ធ្វើ​សមកាលកម្ម">
 
 
 
 
 <!ENTITY  onboard_start_button_browser "ចាប់​ផ្ដើម​រុករក">
-
+<!ENTITY firstrun_button_notnow "ពេល​ក្រោយ">
 <!ENTITY firstrun_button_next "បន្ទាប់">
 
+<!ENTITY firstrun_tabqueue_title "តំណ">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
 
