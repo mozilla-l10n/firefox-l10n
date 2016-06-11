@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Lapas ielādes kļūda">
 <!ENTITY retry.label "Mēģināt vēlreiz">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Neizdevās pieslēgties">
 <!ENTITY connectionFailure.longDesc "<p>Lai arī izvēlētā lapa liekas pareiza, pārlūks nevarēja nodibināt savienojumu.</p><ul><li>Iespējams, lapa ir īslaicīgi nepieejama? Mēģiniet vēlreiz nedaudz vēlāk.</li><li>Vai jums ir problēmas arī ar citu lapu aplūkošanu? Pārbaudiet sava datora tīkla savienojumu.</li><li>Vai jūsu dators ir aizsargāts no tīkla ar ugunsmūri? Nepareizi ugunsmūra iestatījumi var traucēt tīmekļa pārlūkošanu.</li></ul>">
@@ -76,8 +76,8 @@
 <!ENTITY cspBlocked.title "Bloķē satura drošības politika">
 <!ENTITY cspBlocked.longDesc "<p>Pārlūks liedza šai lapai ielādēties šādā veidā, jo to neatļauj lapas drošības politika.</p>">
 
-<!ENTITY corruptedContentError.title "Bojāta satura kļūda">
-<!ENTITY corruptedContentError.longDesc "<p>Lapu, ko mēģināt apskatīt nevar attēlot datu pārraides kļūdas dēļ.</p><ul><li>Lūdzu sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Bojāta satura kļūda">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Lappuse, kuru mēģināt skatīt nevar parādīt, jo tika atrasta kļūda datu pārraidi.</p><ul><li>Lūdzu, sazinieties ar mājas īpašniekiem, lai informētu viņus par šo problēmu.</li></ul>">
 
 <!ENTITY remoteXUL.title "Attālināts XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lūdzu sazinieties ar mājas lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul></p>">
