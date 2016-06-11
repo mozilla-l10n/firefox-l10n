@@ -6,7 +6,7 @@
    - the former is shown in a private browsing window and the latter in
    - a regular (non-private) browsing window. -->
 
-<!ENTITY privatebrowsingpage.title.private       "Ceci n’est pas une fenêtre de navigation privée.">
+<!ENTITY privatebrowsingpage.title.private       "Nouvelle fenêtre de navigation privée">
 <!ENTITY privatebrowsingpage.title.normal        "Voulez-vous démarrer la navigation privée ?">
 
 <!ENTITY privatebrowsingpage.status.private      "&brandShortName; ne conservera aucun historique pour cette fenêtre.">
