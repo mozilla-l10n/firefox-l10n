@@ -134,13 +134,14 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Serbest">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "S">
 
-
+<!ENTITY event.invite.attendees.label                     "Katılımcıları davet et…">
+<!ENTITY event.invite.attendees.accesskey                 "K">
 <!ENTITY event.email.attendees.label                      "Tüm katılımcılara e-posta yaz…">
 <!ENTITY event.email.attendees.accesskey                  "T">
 <!ENTITY event.email.tentative.attendees.label            "Katılımı belli olmayan katılımcılara e-posta yaz…">
 <!ENTITY event.email.tentative.attendees.accesskey        "K">
-
-
+<!ENTITY event.remove.attendees.label2                    "Tüm katılımcıları sil">
+<!ENTITY event.remove.attendees.accesskey                 "s">
 
 
 <!-- Toolbar -->
@@ -203,8 +204,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "A" >
 <!ENTITY event.attachments.popup.removeAll.label          "Tümünü kaldır" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
-
-
+<!ENTITY event.attachments.popup.attachPage.label         "Web sayfası ekle…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
 <!ENTITY event.url.label                                  "İlgili bağlantı:" >
 <!ENTITY event.priority2.label                            "Önemlilik:">
 
