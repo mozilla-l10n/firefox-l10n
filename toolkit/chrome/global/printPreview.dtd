@@ -32,6 +32,9 @@
 <!ENTITY Custom.label "Настроить…">
 <!ENTITY ShrinkToFit.label "Сжать по размеру">
 <!ENTITY customPrompt.title "Настроить масштаб…">
+<!ENTITY simplifyPage.label "Упростить страницу">
+<!ENTITY simplifyPage.enabled.tooltip "Изменить макет для облегчения её чтения">
+<!ENTITY simplifyPage.disabled.tooltip "Эта страница не может быть автоматически упрощена">
 <!ENTITY homearrow.tooltip "Первая страница">
 <!ENTITY endarrow.tooltip "Последняя страница">
 <!ENTITY nextarrow.tooltip "Следующая страница">

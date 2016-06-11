@@ -78,8 +78,6 @@
 <!ENTITY fxaSignedIn.tooltip "Открыть настройки Синхронизации">
 <!ENTITY fxaSignInError.label "Снова подсоединиться к Синхронизации">
 <!ENTITY fxaUnverified.label "Подтвердить свой аккаунт">
-<!ENTITY syncStartPanel2.heading "Синхронизация включена">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; сейчас начнёт синхронизироваться.">
 <!ENTITY fullScreenMinimize.tooltip "Свернуть">
 <!ENTITY fullScreenRestore.tooltip "Восстановить">
 <!ENTITY fullScreenClose.tooltip "Закрыть">
