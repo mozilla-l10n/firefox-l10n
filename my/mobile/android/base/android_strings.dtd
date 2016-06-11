@@ -169,11 +169,11 @@
 <!ENTITY pref_category_accessibility "သုံးစွဲနိုင်စွမ်း">
 <!ENTITY pref_category_accessibility_summary2 "စာသားအရွယ်အစား၊ မြင်ကွင်းအချုံအချဲ့၊ အသံဖြင့်အမိန့်ပေးခြင်း">
 <!ENTITY pref_category_privacy_short "လုံခြုံရေး">
-
+<!ENTITY pref_category_privacy_summary4 "နောက်ယောင်ခံခြင်း၊ ဝင်ရောက်မှုများ၊ ဒေတာအသုံးပြုခြင်းဆိုင်ရာ ရွေးချယ်မှုများ">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 
 <!ENTITY pref_category_datareporting "ဒေတာ အမျိုးအစား">
-
+<!ENTITY pref_category_logins "ဝင်ရောက်မှုများ">
 <!ENTITY pref_learn_more "ဆက်လေ့လာပါ">
 <!ENTITY pref_category_installed_search_engines "တပ်ဆင်ထားသော ရှာဖွေရေးဝန်ဆောင်မှုများ">
 <!ENTITY pref_category_add_search_providers "ရှာဖွေရေးဝန်ဆောင်မှု ထပ်ထည့်ပါ">
@@ -189,9 +189,9 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
-
-
+<!ENTITY pref_category_notifications "အသိပေးချက်များ">
+<!ENTITY pref_category_notifications_summary "စွမ်းဆောင်ချက်အသစ်များ၊ ဝဘ်ဆိုက် မြှင့်တင်မှုများ">
+<!ENTITY pref_content_notifications "ဝဘ်ဆိုက် မြှင့်တင်မှုများ">
 
 
 
@@ -202,7 +202,7 @@
 <!ENTITY pref_category_home "ပင်မ">
 <!ENTITY pref_category_home_summary "သင်၏ပင်မမျက်နှာစာကို ပြင်ပါ">
 <!ENTITY pref_category_home_panels "အကွက်များ">
-
+<!ENTITY pref_category_home_add_ons "အတ်အွန်များ">
 
 <!ENTITY pref_home_updates_enabled "ဖွင့်ထားတယ်">
 <!ENTITY pref_home_updates_wifi "Wi-Fi ဖြင့်သာ">
@@ -229,7 +229,7 @@
 <!ENTITY pref_header_search "ရှာဖွေပါ">
 <!ENTITY pref_header_privacy_short "ကိုယ်ရေးလုံခြုံမှု">
 <!ENTITY pref_header_accessibility "သုံးစွဲနိုင်စွမ်း">
-
+<!ENTITY pref_header_notifications "အသိပေးချက်များ">
 <!ENTITY pref_header_advanced "အဆင့်မြင့်">
 <!ENTITY pref_header_help "အကူအညီ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -242,7 +242,9 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 
-
+<!ENTITY pref_category_data_saver "ဒေတာချွေတာစနစ်">
+<!ENTITY pref_category_media "မီဒီယာ">
+<!ENTITY pref_category_developer_tools "ကျွမ်းကျင်သူသုံး ကိရိယာ">
 
 <!ENTITY pref_tap_to_load_images_title2 "ရုပ်ပုံများကို ပြပါ">
 <!ENTITY pref_tap_to_load_images_enabled "အမြဲတမ်း">
@@ -252,6 +254,7 @@
 <!ENTITY pref_show_web_fonts "ဝဘ်ဖောင့်များကို ပြပါ">
 
 
+<!ENTITY pref_tracking_protection_title2 "ခြေရာခံခြင်း ကာကွယ်မှု">
 
 <!ENTITY pref_donottrack_title "ခြေရာမခံပါနှင့်">
 <!ENTITY pref_donottrack_summary "&brandShortName; သှ် ဝတ်ဆိုဒ်များအား သင့်ကို ခြေရာမခံရန် ပြောပေးထားမည်ဖြစ်သှ်">
