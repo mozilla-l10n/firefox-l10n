@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loadError.label "การโหลดหน้าเว็บเกิดข้อผิดพลาด">
+<!ENTITY loadError.label "ข้อผิดพลาดการโหลดหน้า">
 <!ENTITY retry.label "ลองอีกครั้ง">
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "เชื่อมต่อเครือข่ายไม่สำเร็จ">
+<!ENTITY connectionFailure.title "การเชื่อมต่อล้มเหลว">
 
 
 <!ENTITY deniedPortAccess.title "พอร์ตถูกจำกัดการใช้เนื่องจากเหตุผลด้านความปลอดภัย">
