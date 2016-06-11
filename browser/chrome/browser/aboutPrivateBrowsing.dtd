@@ -22,10 +22,10 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "ចំណាំ">
 <!ENTITY aboutPrivateBrowsing.note.before                "ការ​រក​មើល​ជា​ឯកជន ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "កុំ​ធ្វើ​អ្នក​ជា​អនាមិក">
-
-
-
+<!ENTITY aboutPrivateBrowsing.note.after                 " នៅ​លើ​អ៊ីនធឺណិត។ និយោជក​ ឬ​អ្នក​ផ្ដល់​សេវាកម្ម​អ៊ីនធឺណិត​របស់​អ្នក​​នៅ​តែ​អាច​ដឹង​​ថា​ទំព័រ​ណា​ដែល​អ្នក​បាន​ចូល​មើល។">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "ស្វែងយល់​បន្ថែម​អំពី">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "ការ​រក​មើល​ឯកជន">
 
 <!ENTITY trackingProtection.title                        "ការ​ទប់ស្កាត់​ការ​តាមដាន">
-
-
+<!ENTITY trackingProtection.description2                 "វេបសាយ​ខ្លះ​ប្រើ​កម្មវិធី​តាមដាន​ដែល​អាច​ត្រួតពិនិត្យ​មើល​សកម្មភាព​របស់​អ្នក​នៅ​លើ​អ៊ីនធឺណិត។ ជាមួយ​​ការ​ការពារ​ការ​តាមដាន Firefox នឹង​បិទ​កម្មវិធី​តាមដាន​ជា​ច្រើន​ដែល​អាច​ប្រមូល​ព័ត៌មាន​អំពី​​ការ​ប្រព្រឹត្តិ​នៃ​ការ​រក​មើល​របស់​អ្នក។">
+<!ENTITY trackingProtection.startTour1                   "មើល​​ថា​វា​ដំណើរការ​ដូច​ម្ដេច">
