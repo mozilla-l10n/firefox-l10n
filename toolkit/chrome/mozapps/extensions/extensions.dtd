@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Eklenti nedir?">
 <!ENTITY discover.description2                "Eklentiler ek işlev ve biçimlerle &brandShortName; uygulamanızı kişiselleştirmenizi sağlayan uygulamalardır. Size zaman kazandıracak bir araç çubuğunu, hava durumu habercisini veya &brandShortName; uygulamasının istediğiniz gibi görünmesini sağlayacak bir temayı deneyin.">
-
+<!ENTITY discover.footer                      "İnternete bağlı olduğunuzda bu bölümde denemeniz için en iyi ve en popüler eklentilerden bazıları öne çıkarılacak.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Sürüm">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Otomatik güncellemeler">
 <!ENTITY detail.updateDefault.label           "Varsayılan">
-
+<!ENTITY detail.updateDefault.tooltip         "Güncellemeleri sadece varsayılan ayar buysa kendiliğinden kur">
 <!ENTITY detail.updateAutomatic.label         "Açık">
 <!ENTITY detail.updateAutomatic.tooltip       "Güncellemeleri kendiliğinden kur">
 <!ENTITY detail.updateManual.label            "Kapalı">
-
+<!ENTITY detail.updateManual.tooltip          "Güncellemeleri kendiliğinden kurma">
 <!ENTITY detail.home                          "Ana sayfa">
 <!ENTITY detail.repository                    "Eklenti profili">
 <!ENTITY detail.size                          "Boyut">
