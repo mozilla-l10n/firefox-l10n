@@ -10,6 +10,7 @@
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
+<!ENTITY searchreset.selector.label "פעולה זו תשנה את בררת המחדל של מנוע החיפוש שלך אל">
 
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively

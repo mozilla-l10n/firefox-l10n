@@ -6,14 +6,17 @@
 <!-- LOCALIZATION NOTE (inspectorCopyInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
+<!ENTITY inspectorCopyInnerHTML.label       "HTML פנימי">
 
 <!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
+<!ENTITY inspectorCopyOuterHTML.label       "HTML חיצוני">
 
 <!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
+<!ENTITY inspectorCopyCSSSelector.label "בוחר CSS">
 
 <!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
