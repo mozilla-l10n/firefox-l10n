@@ -31,6 +31,7 @@
 
 <!ENTITY firstrun_readerview_title "Hantumey">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Šiitaroo yolkandi">
 <!ENTITY firstrun_readerview_subtext "Cawkaw gunari ka goy ka hantumey boryandi cawyan se \u2014 ba nda ciyari šii.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
