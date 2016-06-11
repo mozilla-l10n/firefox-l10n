@@ -88,6 +88,7 @@
 <!ENTITY cspBlocked.title "Satura drošības politikas ierobežojums">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; liedza šīs lapas ielādi, jo tā neatbilst satura drošības politikai.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Bojāta satura kļūda">
 
 <!ENTITY securityOverride.linkText "Vai arī varat pievienot izņēmumu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Vediet mani prom!">
