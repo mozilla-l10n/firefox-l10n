@@ -171,7 +171,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Показати інші закладки">
 <!ENTITY showRecentlyBookmarked.label     "Показати недавно закладені">
 <!ENTITY showRecentlyBookmarked.accesskey "о">
-<!ENTITY hideRecentlyBookmarked.label     "Приховати нещодавно закладені">
+<!ENTITY hideRecentlyBookmarked.label     "Приховати недавно закладені">
 <!ENTITY hideRecentlyBookmarked.accesskey "х">
 
 <!ENTITY backCmd.label                "Назад">
