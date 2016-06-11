@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Jūsu &brandShortName; ir novecojis, bet jaunākā versija jūsu sistēmā netiek atbalstīta. Lūdzu atjauniniet savu sistēmu un mēģiniet vēlreiz. Šis paziņojums netiks rādīts atkārtoti, bet jūs varat ">
 <!ENTITY  unsupportedLink.label           "uzzināt vairāk.">
 
-<!ENTITY  incompatibleCheck.title         "Pārbauda papildinājumu savietojumu">
-<!ENTITY  incompatibleCheck.label         "Meklē jūsu papildinājumu jaunākās versijas…">
-
 <!ENTITY  clickHere.label                 "Vairāk informācijas par šo atjauninājumu">
 
 <!ENTITY  evangelism.desc                 "Šo &brandShortName; atjauninājumu būtu jāuzstāda pēc iespējas ātrāk.">
-
-<!ENTITY  license.instructions            "Ja piekrītat šī līguma noteikumiem, spiediet zemāk esošo Es piekrītu, un varēsiet turpināt atjauninājuma instalēšanu.">
-
-<!ENTITY  license.titleText               "Programmatūras licences līgums.">
-<!ENTITY  license.introText               "Šīs programmatūras lietošanas nosacījumi.">
-<!ENTITY  license.instructionText         "Lūdzu, izlasiet šo licences līgumu. Lietojiet ritjoslu, lai apskatītu visu līguma tekstu.">
-<!ENTITY  license.accept                  "Es piekrītu licences līguma noteikumiem">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Es nepiekrītu licences līguma noteikumiem">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Atrasti nesaderīgi papildinājumi">
 
 <!ENTITY  downloadPage.title              "Lejupielādē &brandShortName;">
 <!ENTITY  downloading.intro               "Lejupielādē atjauninājumu...">
@@ -70,10 +55,10 @@
 <!ENTITY  finishedBackground.name         "Atjauninājums:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Spiediet Pārstartēt &brandShortName; tagad, lai tūlīt instalētu atjauninājumu.">
-
-<!ENTITY  installed.title                 "Atjauninājums uzinstalēts">
-<!ENTITY  installed.intro                 "Atjauninājums sekmīgi uzinstalēts.">
-<!ENTITY  whatsnew.label                  "Vairāk par jaunajām lietām...">
+<!ENTITY  finishedBackground.moreElevated "Šim atjauninājumam ir nepieciešamas administratora tiesības . Atjauninājums tiks
+                                           instalēts nākamo reizi palaižot &brandShortName;. Jūs varat pārstartēt
+                                           &brandShortName; tagad, vai arī turpināt darbu un pārstartēt vēlāk, vai
+                                           atteikties no šī atjauninājuma.">
 
 <!ENTITY  update.details.label            "Sīkāka informācija">
 <!ENTITY  update.installedOn.label        "Uzinstalēts:">
