@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Leabharmharc leo le déanaí">
 <!ENTITY otherBookmarksCmd.label "Leabharmharcanna Eile">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh leabharmharcanna">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Taispeáin na Leabharmharcanna is déanaí">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "Folaigh na Leabharmharcanna is déanaí">
+<!ENTITY hideRecentlyBookmarked.accesskey "h">
 
 <!ENTITY backCmd.label                "Siar">
 <!ENTITY backButton.tooltip           "Leathanach amháin siar">

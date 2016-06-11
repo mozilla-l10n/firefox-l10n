@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Ná Lorgtar Mé">
+<!ENTITY window.width                 "55em">
+<!ENTITY window.height                "12em">
 
-
-
-
+<!ENTITY doNotTrackCheckbox2.label    "Úsáid Ná Lorgtar Orm i gcónaí">
+<!ENTITY doNotTrackCheckbox2.accesskey "s">
 
 <!ENTITY doNotTrackLearnMore.label    "Tuilleadh Eolais">

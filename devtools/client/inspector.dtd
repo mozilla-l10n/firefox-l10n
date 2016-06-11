@@ -7,22 +7,32 @@
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
 
+<!ENTITY inspectorCopyInnerHTML.label       "HTML Istigh">
+<!ENTITY inspectorCopyInnerHTML.accesskey   "I">
 <!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
 
+<!ENTITY inspectorCopyOuterHTML.label       "HTML Amuigh">
+<!ENTITY inspectorCopyOuterHTML.accesskey   "A">
 <!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
 
+<!ENTITY inspectorCopyCSSSelector.label "Roghnóir CSS">
+<!ENTITY inspectorCopyCSSSelector.accesskey "S">
 <!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
+<!ENTITY inspectorPasteOuterHTML.label      "HTML Amuigh">
+<!ENTITY inspectorPasteOuterHTML.accesskey  "A">
 <!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
+<!ENTITY inspectorPasteInnerHTML.label      "HTML Istigh">
+<!ENTITY inspectorPasteInnerHTML.accesskey  "I">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
@@ -76,6 +86,8 @@
      - edit attribute
      - remove attribute -->
 
+<!ENTITY inspectorAttributesSubmenu.label      "Aitreabúidí">
+<!ENTITY inspectorAttributesSubmenu.accesskey  "A">
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
@@ -150,6 +162,8 @@
      - Copy Outer HTML
      - Copy Unique selector
      - Copy Image data URI -->
+
+<!ENTITY inspectorCopyHTMLSubmenu.label      "Cóipeáil">
 <!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
      paste items, which allow to:
@@ -159,3 +173,5 @@
      - After
      - As First Child
      - As Last Child -->
+
+<!ENTITY inspectorPasteHTMLSubmenu.label      "Greamaigh">
