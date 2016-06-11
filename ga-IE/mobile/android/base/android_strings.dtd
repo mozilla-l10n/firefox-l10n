@@ -32,7 +32,7 @@
 <!ENTITY firstrun_readerview_title "Ailt">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Glan an furtla fartla">
-
+<!ENTITY firstrun_readerview_subtext "Tá sé níos éasca altanna a léamh leis an Amharc Léitheoireachta \u2014 fiú agus tú as líne.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "Tusa">
@@ -807,6 +807,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "Téigh go Leabharmharcanna">
 
 <!ENTITY helper_triple_readerview_open_title "Ar fáil as líne">
-<!ENTITY helper_triple_readerview_open_message "Cuir leabharmharc leis Amharc Léitheoireachta chun míreanna a léamh as líne.">
+<!ENTITY helper_triple_readerview_open_message "Cuir leabharmharc leis an Amharc Léitheoireachta chun míreanna a léamh as líne.">
 <!ENTITY helper_triple_readerview_open_button "Cuir leis na Leabharmharcanna">
 
