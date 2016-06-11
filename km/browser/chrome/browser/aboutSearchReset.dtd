@@ -6,8 +6,12 @@
 
 <!ENTITY searchreset.pageTitle      "តើ​ស្ដារ​ការ​កំណត់​ស្វែងរក​របស់​អ្នក​មែន​ទេ?">
 
+<!ENTITY searchreset.pageInfo1      "ការ​កំណត់​ស្វែងរក​របស់​អ្នក​អាច​ហួស​សម័យ។ &brandShortName; អាច​ជួយ​អ្នក​ស្ដារ​ការ​កំណត់​ស្វែងរក​លំនាំដើម។">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
+
+
+<!ENTITY searchreset.selector.label "វា​នឹង​កំណត់​ម៉ាស៊ីន​ស្វែងរក​លំនាំដើម​របស់​អ្នក​ជា">
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
