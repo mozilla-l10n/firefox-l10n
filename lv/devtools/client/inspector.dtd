@@ -165,6 +165,7 @@
      - Copy Outer HTML
      - Copy Unique selector
      - Copy Image data URI -->
+<!ENTITY inspectorCopyHTMLSubmenu.label      "Kopēt">
 
 <!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
@@ -175,3 +176,4 @@
      - After
      - As First Child
      - As Last Child -->
+<!ENTITY inspectorPasteHTMLSubmenu.label      "Ielīmēt">

@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Mēģināt vēlreiz">
 <!ENTITY returnToPreviousPage.label "Iet atpakaļ">
 <!ENTITY advanced.label "Papildu">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nevar pieslēgties">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -83,8 +83,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Bloķē satura drošības politika">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; liedza šīs lapas ielādi, jo tās drošības politika to neļauj.</p>">
 
-<!ENTITY corruptedContentError.title "Bojāta satura kļūda">
-<!ENTITY corruptedContentError.longDesc "<p>Lapu, ko mēģināt apskatīt nevar attēlot datu pārraides kļūdas dēļ.</p><ul><li>Lūdzu sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Bojāta satura kļūda">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Lappuse, kuru mēģināt skatīt nevar parādīt, jo tika atrasta kļūda datu pārraidi.</p><ul><li>Lūdzu, sazinieties ar mājas īpašniekiem, lai informētu viņus par šo problēmu.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Pieļaut izņēmumu...">
@@ -108,6 +108,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> izmanto drošības tehnoloģiju, kas ir novecojusi un pakļauj jūs uzbrukuma riskam. Uzbrucēji var viegli iegūt informāciju, kuru uzskatījāt par drošu.">
 <!ENTITY weakCryptoAdvanced.override "(Nav drošs) Mēģiniet ielādēt <span class='hostname'></span> izmantojot novecojušu drosību">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>Drošs savienojums ar <span id='wrongSystemTime_URL'/> nav iespējams, jo izskatās, ka  jūsu pulkstenis rāda nepareizu laiku.</p> <p>Jūsu dators uzskata, ka ir <span id='wrongSystemTime_systemDate'/>, taču jābūt <span id='wrongSystemTime_actualDate'/>. Lai izlabotu šo kļūdu samainiet datuma un laika iestatījumus datorā.</p>">
+
 <!ENTITY certerror.pagetitle1  "Nedrošs savienojums">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Šī lapa izmanto HTTP Strict Transport Security (HSTS), lai norādītu, ka &brandShortName; pieslēdzas tai tikai drošā režīmā. Šī iemesla dēļ, nav iespējams pievienot sertifikāta izņēmumu šai lapai.">
 <!ENTITY certerror.copyToClipboard.label "Kopēt tekstu atmiņā">
@@ -116,3 +120,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> izmanto novecojušu un nedrošu drošības tehnoloģiju. Uzbrucējs varētu piekļūt informācijai, kuru uzskatījāt par droši aizsargātu. Lapas administratoram vajadzēs salabot serveri, pirms varēsiet apmeklē lapu.</p><p>Kļūdas kods: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY prefReset.longDesc "Izskatās, ka jūsu tīkla drošības iestatījumi varētu bū pie vainas. Vai vēlaties atjaunot noklusētos iestatījumus?">
+<!ENTITY prefReset.label "Atjaunot noklusētos iestatījumus">
