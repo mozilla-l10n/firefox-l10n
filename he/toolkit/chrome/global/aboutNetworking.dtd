@@ -29,3 +29,4 @@
 <!ENTITY aboutNetworking.messagesReceived      "הודעות שהתקבלו">
 <!ENTITY aboutNetworking.bytesSent             "בתים שנשלחו">
 <!ENTITY aboutNetworking.bytesReceived         "בתים שהתקבלו">
+<!ENTITY aboutNetworking.dnsLookup             "חיפוש ב־DNS">
