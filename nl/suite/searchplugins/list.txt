@@ -1,5 +1,4 @@
 google
-bing
 duckduckgo
 bolcom-nl
 wikipedia-nl
