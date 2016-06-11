@@ -82,6 +82,8 @@
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; objekti">
+<!ENTITY bookmark_folder_one_item "1 objekts">
 
 <!ENTITY reader_saved_offline "Saglabāts nesaistei">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -308,8 +310,10 @@
 <!ENTITY content_notification_title_plural "&formatD; lapas atjauninātas">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Iestatījumi">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Lasīt">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -561,6 +565,7 @@ size. -->
 <!ENTITY home_synced_devices_smartfolder "Sinhronizētās ierīces">
 <!ENTITY home_synced_devices_number "&formatD; ierīces">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 ierīce">
 <!ENTITY home_history_back_to2 "Atpakaļ uz pilnu vēsturi">
 <!ENTITY home_clear_history_button "Notīrīt pārlūkošanas vēsturi">
 <!ENTITY home_clear_history_confirm "Vai tiešām vēlaties notīrīt pārlūkošanas vēsturi?">
@@ -801,4 +806,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_message "Atrodiet Lasīšanas skata ierakstus starp grāmatzīmēm arī nesaistē.">
 <!ENTITY helper_first_offline_bookmark_button "Iet uz grāmatzīmēm">
 
+<!ENTITY helper_triple_readerview_open_title "Pieejams bezsaistē">
+<!ENTITY helper_triple_readerview_open_message "Grāmatzīmju lasītāja skata vienības, ko lasīt bezsaistē.">
+<!ENTITY helper_triple_readerview_open_button "Pievienot grāmatzīmēm">
 
