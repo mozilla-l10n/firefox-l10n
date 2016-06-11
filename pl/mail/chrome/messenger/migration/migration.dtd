@@ -6,6 +6,7 @@
 
 <!ENTITY importFromWin.label "Importuje opcje, ustawienia kont, książki adresowe, filtry oraz inne dane z:">
 <!ENTITY importFromNonWin.label "Importuje opcje, ustawienia kont, książki adresowe, filtry oraz inne dane z:">
+<!ENTITY importSourceNotFound.label "Nie znaleziono żadnej aplikacji, z której można importować dane.">
 
 <!ENTITY importFromNothing.label "Nie importuj niczego">
 <!ENTITY importFromNothing.accesskey "r">
