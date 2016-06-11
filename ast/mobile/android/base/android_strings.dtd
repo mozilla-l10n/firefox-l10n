@@ -14,7 +14,7 @@
 <!ENTITY firstrun_data_subtext2 "Desactiva les imáxenes pa nun marafundiar datos en cada sitiu que visites.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, siempres del to llau">
-<!ENTITY firstrun_sync_subtext "Sincroniza les tos llingüetes, contraseñes y más en tolos llaos que lo uses.">
+<!ENTITY firstrun_sync_subtext "Sincroniza les tos llingüetes, contraseñes y más en tolos llaos que lu uses.">
 <!ENTITY firstrun_signin_message "Conéutate, entama">
 <!ENTITY firstrun_signin_button "Aniciar sesión en Sync">
 <!ENTITY  onboard_start_button_browser "Entamar a restolar">
@@ -252,7 +252,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "Amosar imáxenes">
 <!ENTITY pref_tap_to_load_images_enabled "Siempres">
 <!ENTITY pref_tap_to_load_images_data "Namái na Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled2 "Bloquiáu">
+<!ENTITY pref_tap_to_load_images_disabled2 "Bloquiao">
 
 <!ENTITY pref_show_web_fonts "Amosar fontes de web">
 <!ENTITY pref_show_web_fonts_summary2 "Baxa les fontes remotes al cargar una páxina">
@@ -354,7 +354,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "El rápidu raposu naranxa salta penriba les tos espeutatives con más velocidá, más flexibilidá y más seguranza. Como una organización ensin ánimu de llucru, tenemos la llibertá d\&apos;innovar nel to nome ensin presión dala que te comprometa. Esto quier dicir, una meyor esperiencia pa ti y un futuru destacáu pa la web.">
 
 <!ENTITY pref_media_autoplay_enabled "Permitir auto-reproducción">
-<!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web puen auto-reproducir videos y otru conteníu">
+<!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web puen auto-reproducir vídeos y otru conteníu">
 <!ENTITY pref_zoom_force_enabled "Habilitar siempres el zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forcia l\&apos;anulación pa qu\&apos;asina pueas facer zoom en cualesquier páxina">
 <!ENTITY pref_voice_input "Entrada de voz">
