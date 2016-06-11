@@ -31,8 +31,12 @@
 
 <!ENTITY firstrun_readerview_title "Raksti">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Aizvāciet nekārtību">
+<!ENTITY firstrun_readerview_subtext "Lasītāja skatu var izmantot, lai padarītu rakstu lasīšanu jaukāku \u2014 pat nesaistē.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Jūs">
+<!ENTITY firstrun_account_message "Lietojat &brandShortName; citā ierīcē?">
 
 <!ENTITY  onboard_start_restricted1 "Kontrolējiet situāciju un esiet drošībā ar šo vienkāršoto &brandShortName; versiju.">
 
