@@ -18,5 +18,8 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "אתר תוכנה לא רצויה מדווח!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "הדף בכתובת <span id='unwanted_sitename'/> דווח כיוון שהוא מכיל תכנה בלתי רצויה ולכן נחסם בהתאם להעדפות האבטחה שלך.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "דפי תכנה בלתי רצויה מנסים להתקין תכניות שעשויות להוליך שולל ולהשפיע על המערכת שלך בדרכים בלתי צפויות.">
 
+<!ENTITY safeb.blocked.forbiddenPage.title2 "אתר חסום">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
