@@ -16,4 +16,4 @@ their language. -->
 <!ENTITY searchreset.noChangeButton.access "D">
 
 <!ENTITY searchreset.changeEngineButton        "Ceecijinay barmay">
-
+<!ENTITY searchreset.changeEngineButton.access "C">
