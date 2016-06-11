@@ -5,7 +5,7 @@
 <!ENTITY providerUninstall.title                           "Odstrani ponudnika">
 <!ENTITY providerUninstall.accept.label                    "Odnaroči izbrano">
 <!ENTITY providerUninstall.accept.accesskey                "O">
-<!ENTITY providerUninstall.cancel.label                    "Ohrani dodatek">
+<!ENTITY providerUninstall.cancel.label                    "Obdrži dodatek">
 <!ENTITY providerUninstall.cancel.accesskey                "h">
 <!ENTITY providerUninstall.preName.label                   "Želite odstraniti oz. onemogočiti:">
 <!ENTITY providerUninstall.postName.label                  "S tem bodo spodnji koledarji onemogočeni.">
