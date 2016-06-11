@@ -281,7 +281,7 @@
 <!ENTITY pref_default_browser "Ustaw jako domyślną przeglądarkę">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Pomoc Mozilli">
 <!ENTITY pref_about_firefox "O programie &brandShortName;">
-<!ENTITY pref_vendor_faqs "FAQ">
+<!ENTITY pref_vendor_faqs "Najczęściej zadawane pytania">
 <!ENTITY pref_vendor_feedback "Przekaż informacje zwrotne">
 <!ENTITY pref_dialog_set_default "Ustaw jako domyślną">
 <!ENTITY pref_dialog_default "Domyślna">
