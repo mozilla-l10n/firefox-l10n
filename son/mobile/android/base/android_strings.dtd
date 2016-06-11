@@ -27,12 +27,15 @@
 <!ENTITY firstrun_tabqueue_subtext_off "Dobey naagu porogaram taney ra k\u0027i gaabu hiino se &brandShortName; ra">
 
 <!ENTITY firstrun_tabqueue_message_on "Zaame!">
+<!ENTITY firstrun_tabqueue_subtext_on "Waat kul war ga hin ka woo wii &settings; ra &pref_category_general; cire.">
 
-
+<!ENTITY firstrun_readerview_title "Hantumey">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-
+<!ENTITY firstrun_readerview_subtext "Cawkaw gunari ka goy ka hantumey boryandi cawyan se \u2014 ba nda ciyari šii.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!ENTITY firstrun_account_title "War">
+<!ENTITY firstrun_account_message "Goo nda &brandShortName; jinay tana foo ga?">
 
 <!ENTITY  onboard_start_restricted1 "Saajaw nda dabari gaabu nda &brandShortName; dumi faalantaa woo.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -74,10 +77,12 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Dijibiyey">
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Caw maašeede">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
+<!ENTITY bookmark_folder_items "&formatD; hayiizey">
+<!ENTITY bookmark_folder_one_item "Hayiize 1">
 
 <!ENTITY reader_saved_offline "Gaabundi bila nda interneti">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -304,8 +309,10 @@
 <!ENTITY content_notification_title_plural "&formatD; nungey n\u0027 ka taagandi">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Kayandiyaney">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Caw sohõ">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -439,12 +446,12 @@ size. -->
 <!ENTITY share_image_failed "Ši hin ka biyoo woo žemna">
 <!ENTITY save_as_pdf "Gaabu sanda PDF">
 <!ENTITY print "Kar">
-
-
+<!ENTITY find_in_page "Ceeci moɲoo ra">
+<!ENTITY desktop_mode "Ordinater nungoo hãa">
 <!ENTITY page "Moo">
 <!ENTITY tools "Goyjinawey">
-
-
+<!ENTITY new_tab "Kanji taaga">
+<!ENTITY new_private_tab "Sutura kanji taaga">
 <!ENTITY close_all_tabs "Kanjey kul daabu">
 <!ENTITY close_private_tabs "Sutura kanjey daabu">
 <!ENTITY tabs_normal "Kanjey">
@@ -454,6 +461,8 @@ size. -->
 <!ENTITY set_image_chooser_title "Bii kayandi sanda">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Ceeci moɲoo ra">
 <!ENTITY find_prev "Ibisante">
 <!ENTITY find_next "Bisa">
 <!ENTITY find_close "Daabu">
@@ -555,6 +564,7 @@ size. -->
 <!ENTITY home_synced_devices_smartfolder "Jinay hangantey">
 <!ENTITY home_synced_devices_number "&formatD; jinawey">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "Jinay 1">
 <!ENTITY home_history_back_to2 "Willi taariki timmantaa ga">
 <!ENTITY home_clear_history_button "Ceeciyan taariki tuusu">
 <!ENTITY home_clear_history_confirm "Alhakiika war ga boona ka taarikoo tuusu?">
@@ -793,8 +803,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Caw bila nda interneti">
 <!ENTITY helper_first_offline_bookmark_message "Duu cawkaw gunari haya-izey doo-šilbawey ra, ba interneti šii">
+<!ENTITY helper_first_offline_bookmark_button "Koy doo-šilbawey ga">
 
-
-
-
+<!ENTITY helper_triple_readerview_open_title "Ga bara bila nda ciyari">
+<!ENTITY helper_triple_readerview_open_message "Hantumkaw gunari doo-šilbay ka caw bila nda ciyari.">
+<!ENTITY helper_triple_readerview_open_button "Tonton doo-šilbawey ga">
 
