@@ -6,4 +6,5 @@
 
 <!ENTITY doNotTrackCheckbox2.label    "הפעל תמיד את Do Not Track">
 
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; יתריע שאינך רוצה שיעקבו אחריך כשהגנת המעקב פעילה.">
 <!ENTITY doNotTrackLearnMore.label    "מידע נוסף">
