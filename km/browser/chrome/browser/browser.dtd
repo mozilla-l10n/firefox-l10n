@@ -166,13 +166,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "ជាវ​ទំព័រ​នេះ…">
 <!ENTITY addCurPagesCmd.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
 <!ENTITY showAllBookmarks2.label "បង្ហាញ​ចំណាំ​ទាំងអស់">
-
-
+<!ENTITY recentBookmarks.label "បាន​ចំណាំ​ថ្មីៗ">
+<!ENTITY otherBookmarksCmd.label "ចំណាំ​ផ្សេង​ៗ">
 <!ENTITY bookmarksToolbarChevron.tooltip "បង្ហាញ​ចំណាំ​​ច្រើន​ទៀត">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "បង្ហាញ​ចំណាំ​ថ្មីៗ">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "លាក់​ចំណាំ​ថ្មីៗ">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "ថយក្រោយ">
 <!ENTITY backButton.tooltip           "ថយក្រោយ​មួយ​ទំព័រ">
@@ -209,6 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "គ្រប់គ្រងការចែករំលែកបង្អួច ឬអេក្រង់របស់អ្នកជាមួយតំបន់បណ្តាញ">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "អ្នកកំពុងចែករំលែកបង្អួច ឬអេក្រង់របស់អ្នកជាមួយតំបន់បណ្តាញ">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "ប្ដូរ​ថា​តើ​វេបសាយ​អាច​លាក់​សញ្ញា​ព្រួញ">
 <!ENTITY urlbar.servicesNotificationAnchor.label        "មើល​សារពីការ​ដំឡើង​សេវាកម្ម">
 <!ENTITY urlbar.translateNotificationAnchor.label       "បក​ប្រែ​ទំព័រ​នេះ">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "គ្រប់​គ្រង​ទំព័រ​បក​ប្រែ​">
@@ -225,10 +226,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "ចំណាំ">
-
+<!ENTITY bookmarksMenuButton.other.label "ចំណាំ​ផ្សេងៗ">
 <!ENTITY viewBookmarksSidebar2.label        "មើល​របារ​ឧបករណ៍​ចំណាំ">
 <!ENTITY viewBookmarksToolbar.label         "មើល​របារ​ឧបករណ៍​ចំណាំ">
 
+<!ENTITY containersMenu.label "ឧបករណ៍​ផ្ទុក">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,8 +263,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ឯកសារ"> 
 <!ENTITY fileMenu.accesskey       "ឯ">
-
-
+<!ENTITY newUserContext.label             "ផ្ទាំង​ឧបករណ៍​ផ្ទុក​ថ្មី">
+<!ENTITY newUserContext.accesskey         "C">
 <!ENTITY newNavigatorCmd.label        "បង្អួច​​​ថ្មី">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ប">
@@ -281,9 +283,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "កាត់">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ក"> 
-
+<!ENTITY copyCmd.label            "ចម្លង">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "បិទភ្ជាប់">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "ប"> 
@@ -342,8 +344,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
+<!ENTITY appMenuRemoteTabs.noclients.title "គ្មាន​ផ្ទាំង​ដែល​ធ្វើ​សមកាលកម្ម... នៅ​ឡើយ​ទេ!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "ចង់​មើល​ផ្ទាំង​របស់​អ្នក​ពី​ឧបករណ៍​ផ្សេង​នៅ​ទីនេះ​មែន​ទេ?">
+<!ENTITY appMenuRemoteTabs.openprefs.label "សមកាលកម្ម​ចំណូលចិត្ត">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ចូល​ដើម្បី​មើល​បញ្ជី​នៃ​ផ្ទាំង​ទាំង​ឡាយ​ពី​ឧបករណ៍​ផ្សេង​ទៀត​របស់​អ្នក។​">
 <!ENTITY appMenuRemoteTabs.signin.label "ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម">
 <!ENTITY appMenuRemoteTabs.sidebar.label "មើល​របា​ចំហៀង​នៃផ្ទាំងដែលបានធ្វើ​សមកាលកម្ម​">
@@ -453,8 +456,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ផ">
 <!ENTITY openFrameCmd.label           "បើក​ស៊ុម​ក្នុងបង្អួច​ថ្មី">
 <!ENTITY openFrameCmd.accesskey       "ប">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "បើក​តំណ​នៅ​ក្នុង​ផ្ទាំង​ឧបករណ៍​ផ្ទុក​ថ្មី">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "បង្ហាញ​តែ​ស៊ុម​នេះ​ប៉ុណ្ណោះ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ប">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -553,22 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "ប">
 <!ENTITY mediaUnmute.label           "បើក​សំឡេង">
 <!ENTITY mediaUnmute.accesskey       "ប">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "ល្បឿន​លេង">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "យឺត (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "ធម្មតា">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "លឿន (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "លឿន (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Ludicrous (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "រង្វិល​ជុំ">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
