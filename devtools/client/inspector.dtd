@@ -86,6 +86,8 @@
      - add new attribute
      - edit attribute
      - remove attribute -->
+<!ENTITY inspectorAttributesSubmenu.label      "Atribūti">
+<!ENTITY inspectorAttributesSubmenu.accesskey  "A">
 
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
@@ -116,6 +118,7 @@
      the URL embedding the image data encoded in Base 64 (what we name
      here Image Data URL). For more information:
      https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
+<!ENTITY inspectorImageDataUri.label       "Attēla datu adrese">
 
 <!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
      shown in the inspector contextual-menu for the item that lets users see

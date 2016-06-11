@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Problēmu novēršanas informācija">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Šī lapa satur tehnisku informāciju, kas var būt noderīga, mēģinot novērst problēmu. Ja meklējat atbildes uz vienkāršiem jautājumiem par &brandShortName;, aplūkojiet mūsu <a id='supportLink'>atbalsta mājas lapu</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Avārijas ziņojumi">
@@ -34,9 +34,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Nosaukums">
 <!ENTITY aboutSupport.appBasicsVersion "Versija">
 <!ENTITY aboutSupport.appBasicsBuildID "Būvējuma ID">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Atjauninājumu kanāls">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Atjauninājumu vēsture">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Parādīt atjauninājumu vēsturi">
@@ -52,8 +52,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Lietotāja aģents">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Atmiņas izmantojums">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsPerformance "Veiktspēja">
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Reģistrētie pakalpojumu darbinieki">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Profili">
@@ -74,8 +75,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Svarīgie modificētie iestatījumi">
 <!ENTITY aboutSupport.modifiedPrefsName "Nosaukums">
 <!ENTITY aboutSupport.modifiedPrefsValue "Vērtība">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js iestatījumi">
 <!ENTITY aboutSupport.userJSDescription "Jūsu profila mapē atrodas <a id='prefs-user-js-link'>user.js fails</a>, kas satur iestatījumus, ko nav izveidojis &brandShortName;.">
 
@@ -84,6 +85,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.lockedPrefsValue "Vērtība">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
+
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Inkrementālais GC">
