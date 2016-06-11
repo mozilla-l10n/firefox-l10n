@@ -10,3 +10,4 @@
 <!ENTITY aboutAccounts.retry.label "לנסות שוב">
 
 <!ENTITY aboutAccounts.restrictedError.title "מוגבל">
+<!ENTITY aboutAccounts.restrictedError.description "לא ניתן לנהל חשבונות Firefox מפרופיל זה.">

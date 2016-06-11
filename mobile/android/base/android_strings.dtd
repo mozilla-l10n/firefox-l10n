@@ -6,9 +6,15 @@
 
 <!ENTITY firstrun_urlbar_message "ברוכים הבאים ל־&brandShortName;">
 <!ENTITY firstrun_bookmarks_title "היסטוריה">
+<!ENTITY firstrun_bookmarks_subtext "קבלת תוצאות מהסימניות וההיסטוריה שלך תוך כדי חיפוש.">
 <!ENTITY firstrun_data_title "נתונים">
+<!ENTITY firstrun_data_message "פחות נתונים יותר חסכון">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, תמיד לצידך">
+<!ENTITY firstrun_sync_subtext "סנכרן את הלשוניות, ססמאות ועוד בכל מקום שתשתמש בו.">
+<!ENTITY firstrun_signin_button "התחברות אל Sync">
 <!ENTITY  onboard_start_button_browser "התחלת גלישה">
+<!ENTITY firstrun_button_next "הבא">
 
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
@@ -28,6 +34,7 @@
 <!ENTITY  switch_to_tab "מעבר ללשונית">
 
 <!ENTITY  crash_reporter_title "מדווח הקריסות של &brandShortName;">
+<!ENTITY  crash_message2 "&brandShortName; נתקל בבעיה וקרס. הלשוניות שלך אמורות להיות רשומות לאחר הפעלה מחדש בדף הפתיחה של &brandShortName;.">
 <!ENTITY  crash_send_report_message3 "ספרו ל־&vendorShortName; על קריסה זו כדי שיוכלו לתקן אותה">
 <!ENTITY  crash_include_url2 "לכלול את כתובת הדף בו הייתי">
 <!ENTITY  crash_sorry "אנו מצטערים">
@@ -39,6 +46,7 @@
 <!ENTITY  crash_close_label "סגירה">
 <!ENTITY  crash_restart_label "הפעל מחדש את &brandShortName;">
 
+<!ENTITY url_bar_default_text2 "חפש או הכנס כתובת">
 
 <!ENTITY bookmark "סימניה">
 <!ENTITY bookmark_remove "מחיקת סימניה">
@@ -50,9 +58,12 @@
 <!ENTITY bookmark_removed "סימניה נמחקה">
 <!ENTITY bookmark_updated "סימניה עודכנה">
 <!ENTITY bookmark_options "אפשרויות">
+<!ENTITY screenshot_added_to_bookmarks "צילום מסך נוסף לסימניות">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "צילומי מסך">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "רשימת קריאה">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
@@ -285,10 +296,13 @@
 <!ENTITY pref_clear_private_data_now_tablet "מחיקה כעת">
 <!ENTITY pref_clear_on_exit_title3 "מחיקת נתונים פרטיים ביציאה">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ימחק נתונים בצורה אוטומטית בכל פעם שתיבחר האפשרות „יציאה” מהתפריט הראשי. ">
+<!ENTITY pref_clear_on_exit_dialog_title "בחר אילו נתונים למחוק">
 <!ENTITY pref_plugins "תוספים חיצוניים">
 <!ENTITY pref_plugins_enabled "פעיל">
+<!ENTITY pref_plugins_tap_to_play2 "הקש כדי להפעיל">
 <!ENTITY pref_plugins_disabled "מנוטרל">
 <!ENTITY pref_text_size "גודל טקסט">
+<!ENTITY pref_restore_tabs "שיחזור לשוניות">
 <!ENTITY pref_restore_always "לשחזר תמיד">
 <!ENTITY pref_restore_quit "לא לשחזר לאחר יציאה מ־&brandShortName;">
 <!ENTITY pref_font_size_tiny "קטן מאד">
@@ -305,10 +319,18 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+<!ENTITY pref_media_autoplay_enabled "אפשר הפעלה אוטומטית">
+<!ENTITY pref_zoom_force_enabled "הפעל תמיד מרחק מתצוגה">
 <!ENTITY pref_voice_input "קלט קולי">
 <!ENTITY pref_qrcode_enabled "קורא קוד QR">
 
 <!ENTITY pref_use_master_password "שימוש בססמה ראשית">
+<!ENTITY pref_sync2 "התחברות">
+<!ENTITY pref_sync_summary2 "סנכרון הלשוניות, סימניות, כניסות וההיסטוריה שלך">
+<!ENTITY pref_search_suggestions "הצגת הצעות חיפוש">
+<!ENTITY pref_history_search_suggestions "הצגת היסטורית חיפוש">
+<!ENTITY pref_import_options "אפשרויות יבוא">
+<!ENTITY pref_import_android_summary "יבוא סימניות והיסטוריה מהדפדפן המובנה">
 <!ENTITY pref_private_data_history2 "היסטורית גלישה">
 <!ENTITY pref_private_data_searchHistory "היסטורית חיפוש">
 <!ENTITY pref_private_data_formdata2 "היסטורית טפסים">
@@ -320,7 +342,9 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "הורדות">
 <!ENTITY pref_private_data_syncedTabs "לשוניות מסונכרנות">
 
+<!ENTITY pref_default_browser "הפיכה לדפדפן ברירת מחדל">
 <!ENTITY pref_about_firefox "אודות &brandShortName;">
+<!ENTITY pref_vendor_faqs "תשובות לשאלות נפוצות">
 <!ENTITY pref_vendor_feedback "שליחת משוב">
 
 <!ENTITY pref_dialog_set_default "קביעה כבררת מחדל">
@@ -351,11 +375,15 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "דו״ח הבריאות של &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "משתף נתונים עם &vendorShortName; אודות בריאות הדפדפן ועוזר לך להבין את ביצועי הדפדפן שלך">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "מדווח הקריסות">
+<!ENTITY datareporting_wifi_title2 "שירות המיקום של &vendorShortName;">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "עדכונים אוטומטיים">
 <!ENTITY pref_update_autodownload_wifi "רק בחיבורי Wi-Fi">
 <!ENTITY pref_update_autodownload_never "לעולם לא">
 <!ENTITY pref_update_autodownload_always "תמיד">
@@ -374,6 +402,7 @@ size. -->
 <!ENTITY share_title "שיתוף באמצעות">
 <!ENTITY share_image_failed "לא ניתן לשתף את תמונה זו">
 <!ENTITY save_as_pdf "שמירה בתור PDF">
+<!ENTITY print "הדפסה">
 <!ENTITY find_in_page "חיפוש בדף">
 <!ENTITY desktop_mode "בקשת אתר שולחני">
 <!ENTITY page "דף">
@@ -440,6 +469,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "גלישה במסך מלא">
 
+<!ENTITY pref_tab_queue_summary4 "שמירת קישורים עד הפעם הבאה ש־&brandShortName; יפתח">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -484,9 +514,15 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "דף הבית של &brandShortName;">
 <!ENTITY home_history_title "היסטוריה">
+<!ENTITY home_synced_devices_smartfolder "התקנים מסונכרנים">
+<!ENTITY home_synced_devices_number "&formatD; התקנים">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_clear_history_button "מחיקת היסטורית גלישה">
 <!ENTITY home_clear_history_confirm "האם ברצונך למחוק את ההיסטוריה שלך?">
+<!ENTITY home_bookmarks_empty "סימניות שנשמרו יופיעו כאן.">
+<!ENTITY home_closed_tabs_title "לשוניות שנסגרו לאחרונה">
+<!ENTITY home_last_tabs_title "לשוניות מפעם שעברה">
+<!ENTITY home_last_tabs_empty "הלשוניות האחרונות שלך יופיעו כאן.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
@@ -500,11 +536,15 @@ size. -->
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; התקנים מוסתרים">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "התקנים מוסתרים">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 
+<!ENTITY remote_tabs_panel_moved_desc "העברנו את הלשוניות מהתקנים אחרים לחלונית בדף הבית שלך הנגישה בכל פעם שלשונית חדשה תיפתח.">
+<!ENTITY remote_tabs_panel_moved_link "העבירו אותי לחלונית החדשה שלי.">
 
 
 <!ENTITY filepicker_title "בחירת קובץ">
@@ -525,10 +565,16 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_connection_secure "חיבור מאובטח">
+<!ENTITY identity_connection_chromeui "דף זה הנו דף מאובטח של &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; חסם תוכן שאינו מאובטח בדף זה.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; חסם חלק מהתוכן שאינו מאובטח בדף זה.">
+<!ENTITY mixed_content_display_loaded1 "חלקים מדף זה אינם מאובטחים (כגון תמונות).">
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "הגנת מעקב">
 <!ENTITY doorhanger_tracking_state_enabled "מופעל">
 <!ENTITY doorhanger_tracking_state_disabled "מנוטרל">
 
@@ -545,34 +591,51 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                        מ־Android">
 <!ENTITY bookmarkhistory_import_bookmarks "יבוא סימניות
                                            מ־Android">
+<!ENTITY bookmarkhistory_import_history "יבוא היסטוריה
+                                         מ־Android">
 <!ENTITY bookmarkhistory_import_wait "נא להמתין…">
 
+<!ENTITY suggestions_prompt3 "האם ברצונך להפעיל הצעות חיפוש?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "חיפוש עם &formatS;">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
+<!ENTITY suggestion_for_engine "חיפוש ב־&formatS1; אחר &formatS2;">
 
+<!ENTITY searchable_description "סימניות והיסטוריה">
 
  <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "עדכון זמין עבור &brandShortName;">
+<!ENTITY updater_start_select2 "הקש להורדה">
 
+<!ENTITY updater_downloading_title2 "מוריד &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "ההורדה נכשלה">
+<!ENTITY updater_downloading_retry2 "הקש כדי לנסות שוב">
 
+<!ENTITY updater_apply_title2 "עדכון זמין עבור &brandShortName;">
+<!ENTITY updater_apply_select2 "הקש כדי לעדכן">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "על מנת להוריד קבצים ועדכונים, עליך ל אפשר ל־&brandShortName; הרשאת גישה לאחסון.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "אפשר">
 
     <!-- Guest mode -->
 <!ENTITY guest_session_dialog_continue "המשך">
 <!ENTITY guest_session_dialog_cancel "ביטול">
 <!ENTITY new_guest_session_title "&brandShortName; כעת יופעל מחדש">
+<!ENTITY guest_browsing_notification_text "הקש ליציאה">
 
+<!ENTITY exit_guest_session_title "&brandShortName; כעת יופעל מחדש">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -593,8 +656,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "תפריט">
+<!ENTITY actionbar_done "סיום">
 
 <!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "דבר כעת">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -602,7 +667,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "הסנכרון האחרון: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "הסנכרון האחרון: אף פעם">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -626,22 +693,37 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restrictable_feature_addons_installation "תוספות">
+<!ENTITY restrictable_feature_private_browsing "גלישה פרטית">
+<!ENTITY restrictable_feature_private_browsing_description "מאפשר לבני משפחה לגלוש מבלי לשמור מידע על האתרים והדפים שהם ביקרו.">
+<!ENTITY restrictable_feature_clear_history "מחיקת היסטוריה">
+<!ENTITY restrictable_feature_clear_history_description "מאפשר לבני משפחה למחוק מידע על אתרים ודפים שהם ביקרו.">
+<!ENTITY restrictable_feature_advanced_settings "הגדרות מתקדמות">
+<!ENTITY restrictable_feature_camera_microphone "מצלמה ומיקרופון">
+<!ENTITY restrictable_feature_block_list_description "חסימת אתרים המכילים תוכן רגיש.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: אודות הדפדפן שלך">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: התאמה אישית עם תוספות">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: תמיכה">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "אנו מצטערים! &brandShortName; לא יעבוד על התקן זה (&formatS1;, &formatS2;). נא להוריד את הגרסה הנכונה.">
 
+<!ENTITY eol_notification_summary "הקש למידע נוסף">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY promotion_add_to_homescreen "הוספה למסך הבית">
 
+<!ENTITY helper_first_offline_bookmark_button "מעבר לסימניות">
 
 

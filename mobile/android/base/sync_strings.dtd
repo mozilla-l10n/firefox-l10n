@@ -33,9 +33,11 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'תגיות'>
 <!ENTITY bookmarks.folder.toolbar.label 'סרגל כלים סימניות'>
+<!ENTITY bookmarks.folder.other.label 'סימניות אחרות'>
 <!ENTITY bookmarks.folder.desktop.label 'סימניות מהמחשב'>
 <!ENTITY bookmarks.folder.mobile.label 'סימניות מהנייד'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'נעוץ'>
 
 <!-- Firefox Account strings. -->
 
@@ -43,7 +45,23 @@
      created or signed in to an account, and take the user back to
      Firefox. -->
 
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'ברוכים הבאים אל &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description2 'התחבר כדי לסנכרן את הלשוניות, הסימניות, ההתחברויות ועוד.'>
+<!ENTITY fxaccount_getting_started_get_started 'התחלת שימוש'>
+<!ENTITY fxaccount_getting_started_old_firefox 'משתמשים בגרסה ישנה של &syncBrand.shortName.label;?'>
 
+<!ENTITY fxaccount_status_signed_in_as 'מחובר בתור'>
+<!ENTITY fxaccount_status_manage_account 'ניהול חשבון'>
+<!ENTITY fxaccount_status_auth_server 'שרת חשבון'>
+<!ENTITY fxaccount_status_sync_now 'סנכרון כעת'>
+<!ENTITY fxaccount_status_syncing2 'מסנכרן…'>
+<!ENTITY fxaccount_status_device_name 'שם התקן'>
+<!ENTITY fxaccount_status_sync_server 'שרת סנכרון'>
+<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
+<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: מופעל'>
+<!ENTITY fxaccount_status_needs_upgrade 'יש לשדרג את &brandShortName; כדי להתחבר.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'הקש כדי להתחבר לחשבון ה־Firefox החדש שלך.'>
+<!ENTITY fxaccount_status_bookmarks 'סימניות'>
 <!ENTITY fxaccount_status_history 'היסטוריה'>
 <!ENTITY fxaccount_status_passwords2 'כניסות'>
 <!ENTITY fxaccount_status_tabs 'לשוניות פתוחות'>
@@ -65,15 +83,20 @@
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
+<!ENTITY fxaccount_options_title 'אפשרויות &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_options_configure_title 'הגדרת &syncBrand.shortName.label;'>
 
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'עליך לשדרג את Firefox'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'הקש כדי להתחבר בתור &formatS;'>
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'הקש כדי להתחבר בתור &formatS;'>
