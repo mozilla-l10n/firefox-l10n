@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "ဝတ်ဆိုက်မှတ်သားဘားကိုကြည့်မည်">
 <!ENTITY viewBookmarksToolbar.label         "ဝတ်ဆိုက်မှတ်သားဘားကိုကြည့်မယ်။">
 
+<!ENTITY containersMenu.label "Containers">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -282,9 +283,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "tဖြတ်ယူ">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "(C)ကူးယူရန်">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Pပွား">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -336,16 +337,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "ဖွင့်ထားသည့်တဗ်များ မရှိပါ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "သင့်အခြား ကိရိယာများမှ တဗ်စာရင်းကို ကြည့်ရန် တဗ်ထပ်တူပြုအသုံးပြုခြင်းကို ဖွင့်ပါ။">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "ထပ်တူပြုထားသည့် တဗ်များ မရှိသေးပါ…။">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "အခြားကိရိယာများမှ တဗ်များကို ဒီမှာ ကြည့်ရှုချင်ပါသလား။">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ထပ်တူပြုပြိုင်တူအသုံးပြုရန် ရွေးချယ်နိုင်သည်များ">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "သင့်အခြားကိရိယာများရှိ တဗ်စာရင်းကို ကြည့်ရန် ဝင်ရောက်ပါ။">
 <!ENTITY appMenuRemoteTabs.signin.label "တပြေးညီဖြစ်စေရန် ဝင်ရောက်ပါ">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "ထပ်တူပြုပြီးသောတဗ်များ Sidebar ကို ကြည့်ရန်">
 
 <!ENTITY customizeMenu.addToToolbar.label "Aတူးဘားသို့ပေါင်းထည့်">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -452,8 +456,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Wဝင်းဒိုးအသစ်တွင်ဖွင့်ပါ">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "(C)ချိတ်ဆက်လင့်ကို ကွန်တိန်နာတဗ်အသစ်တွင် ဖွင့်ပါ">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "Sဒီဘောင်ကိုပဲ ပြပါ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -552,22 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "အသံ ပြန်ဖွင့်ပါ">
 <!ENTITY mediaUnmute.accesskey       "m">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "(d) ပြသနှုန်း">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "(S)အနှေး(0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "(N) ပုံမှန်">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "(F) အမြန် (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "(a) ပိုမြန် (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "(L)အင်မတန်မြန်(2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "ပြန်ကျော့ရန်">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
