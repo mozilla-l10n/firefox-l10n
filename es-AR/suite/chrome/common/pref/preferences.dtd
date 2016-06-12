@@ -16,7 +16,6 @@
 <!ENTITY locationBar.label "Barra de navegación">
 <!ENTITY tabWindows.label "Navegación con pestañas">
 <!ENTITY links.label "Comportamiento de enlaces">
-<!ENTITY offline.label "Sin conexión">
 <!ENTITY security.label "Privacidad y seguridad">
 <!ENTITY privatedata.label "Datos privados">
 <!ENTITY cookies.label "Cookies">
@@ -28,7 +27,6 @@
 <!ENTITY certs.label "Certificados">
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Avanzadas">
-<!ENTITY down.label "Descargar">
 <!ENTITY cache.label "Caché">
 <!ENTITY offlineApps.label "Aplicaciones sin conexión">
 <!ENTITY proxies.label "Proxies">
@@ -38,7 +36,6 @@
 <!ENTITY keynav.label "Navegación por teclado">
 <!ENTITY findAsYouType.label "Buscar al tipear">
 <!ENTITY search.label "Búsqueda en Internet">
-<!ENTITY policies.label "Políticas de seguridad">
 <!ENTITY mousewheel.label "Rueda del mouse">
 <!ENTITY scriptsAndWindows.label "Scripts y plugins">
 <!ENTITY spellingPane.label  "Ortografía">
