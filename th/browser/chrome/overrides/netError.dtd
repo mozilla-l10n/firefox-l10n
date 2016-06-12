@@ -110,6 +110,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime "<p>การเชื่อมต่อปลอดภัยไปยัง <span id='wrongSystemTime_URL'/> เป็นไปไม่ได้เนื่องจากนาฬิกาของคุณดูเหมือนจะแสดงเวลาผิด</p> <p>คอมพิวเตอร์ของคุณคิดว่าคือ <span id='wrongSystemTime_systemDate'/> ขณะที่ควรจะเป็น <span id='wrongSystemTime_actualDate'/> เพื่อแก้ปัญหานี้ เปลี่ยนการตั้งค่าวันที่และเวลาของคุณเพื่อให้ตรงกับเวลาที่ถูกต้อง</p>">
+
 <!ENTITY certerror.pagetitle1  "การเชื่อมต่อไม่ปลอดภัย">
 
 <!ENTITY certerror.copyToClipboard.label "คัดลอกข้อความไปยังคลิปบอร์ด">
