@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "نمایش نوار ابزار نشانک‌ها">
 <!ENTITY viewBookmarksToolbar.label         "نمایش نوار ابزار نشانک‌ها">
 
+<!ENTITY containersMenu.label "دربردارنده">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -557,20 +558,21 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "و">
 
 
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate050x2.label "&amp; آهسته(0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "عادی">
+<!ENTITY mediaPlaybackRate100x2.accesskey "ع">
+<!ENTITY mediaPlaybackRate125x2.label "سریع (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "س">
+<!ENTITY mediaPlaybackRate150x2.label "سریعتر(1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "س">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "سرعت جنون‌آمیز(۲×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "ج">
+<!ENTITY mediaLoop.label             "حلقه‌">
+<!ENTITY mediaLoop.accesskey         "ح">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
