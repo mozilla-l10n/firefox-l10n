@@ -71,20 +71,21 @@
 <!ENTITY certmgr.details.accesskey            "F">
 
 
+<!ENTITY certmgr.hierarchy.label              "प्रमाणपत्र सोपानुक्रम">
 
 
 
 
-
+<!ENTITY exceptionMgr.title                   "सुरक्षा अपवाद थप्नुहोस्">
 <!ENTITY exceptionMgr.exceptionButton.label   "सुरक्षा अपवाद पुष्टि गर्नुहोस्">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 
 
 <!ENTITY exceptionMgr.certlocation.url        "स्थान:">
-
+<!ENTITY exceptionMgr.certlocation.download   "प्रमाणपत्र प्राप्तगर्नुहोस्">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 
 <!ENTITY exceptionMgr.certstatus.viewCert     "दृश्य…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
-
-
+<!ENTITY exceptionMgr.permanent.label         "स्थायी रूपले यो अपवाद भंडार गर्नुहोस्">
+<!ENTITY exceptionMgr.permanent.accesskey     "P">
