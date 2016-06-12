@@ -5,7 +5,7 @@
 <!ENTITY newWindowsAsTabs.label       "Відкривати замість нових вікон нові вкладки">
 <!ENTITY newWindowsAsTabs.accesskey   "в">
 
-<!ENTITY warnCloseMultipleTabs.label  "Попереджати при закритті декількох вкладок.">
+<!ENTITY warnCloseMultipleTabs.label  "Попереджати при закритті декількох вкладок">
 <!ENTITY warnCloseMultipleTabs.accesskey  "к">
 
 <!ENTITY warnOpenManyTabs.label       "Попереджати, коли відкриття великої кількості вкладок може сповільнити роботу &brandShortName;">
