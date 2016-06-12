@@ -101,14 +101,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.label "ออกจากภาพเต็มหน้าจอ">
 <!ENTITY exitFullScreenCmd.accesskey "เ">
 <!ENTITY fullScreenCmd.label "เต็มจอ">
-<!ENTITY fullScreenCmd.accesskey "จ">
+<!ENTITY fullScreenCmd.accesskey "เ">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "แสดงแท็บทั้งหมด">
 <!ENTITY showAllTabsCmd.accesskey "ม">
 
 <!ENTITY fxaSignIn.label "ลงชื่อเข้าใช้ &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "เปิดการตั้งค่า &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "เชื่อมต่อ &syncBrand.shortName.label; ใหม่">
+<!ENTITY fxaSignInError.label "เชื่อมต่อกับ &syncBrand.shortName.label; ใหม่">
 <!ENTITY fxaUnverified.label "ยืนยันบัญชีของคุณ">
 
 
@@ -682,7 +682,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บบนคอมพิวเตอร์ของคุณ">
 <!ENTITY identity.connectionVerified2 "คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้ เจ้าของ:">
 <!ENTITY identity.connectionInternal "นี้คือหน้า &brandShortName; ที่ปลอดภัย">
-
+<!ENTITY identity.insecureLoginForms2 "การเข้าสู่ระบบที่ป้อนในหน้านี้อาจตกอยู่ในอันตราย">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่เชื่อถือไม่ได้">
