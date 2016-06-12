@@ -29,10 +29,10 @@
 <!ENTITY malformedURI.longDesc "<p>Girilen adres tanınan bir biçimde değil. Konum çubuğuna bakıp olası hataları giderdikten sonra yeniden deneyin.</p>">
 
 <!ENTITY netInterrupt.title "Veri aktarma hatası">
-
+<!ENTITY netInterrupt.longDesc "<p>Tarayıcı başarıyla bağlantı kurdu ama bilgiler aktarılırken bağlantı kesildi. Lütfen yeniden deneyin.</p><ul><li>Başka siteler de mi açılmıyor? Bilgisayarınızın ağ bağlantısını gözden geçirin.</li><li>Hâlâ sorun yaşıyorsanız ağ yöneticinize veya internet servis sağlayıcınıza başvurun.</li></ul>">
 
 <!ENTITY notCached.title "Belge zaman aşımına uğradı">
-
+<!ENTITY notCached.longDesc "<p>Talep edilen belge tarayıcının önbelleğinde mevcut değil.</p><ul><li>Güvenlik önlemi olarak, tarayıcınız hassas belgeleri otomatik olarak yeniden talep etmez.</li><li>Belgeyi web sitesinden yeniden talep etmek için Yeniden dene düğmesine tıklayın.</li></ul>">
 
 <!ENTITY netOffline.title "Çevrimdışı kip">
 <!ENTITY netOffline.longDesc2 "<p>Tarayıcı şu an çevrimdışı kipte ve istenen ögeye bağlanamaz.</p><ul><li>Bilgisayarınız etkin bir ağ bağlantısına sahip mi?</li><li>Çevrimiçi kipe geçerek sayfayı yeniden yüklemek için &quot;Yeniden dene&quot; düğmesine tıklayın.</li></ul>">

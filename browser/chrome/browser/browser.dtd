@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Yer imlerine yeni eklenenler">
 <!ENTITY otherBookmarksCmd.label "Diğer yer imleri">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha fazla yer imi göster">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Yer imlerine yeni eklenenleri göster">
+<!ENTITY showRecentlyBookmarked.accesskey "e">
+<!ENTITY hideRecentlyBookmarked.label     "Yer imlerine yeni eklenenleri gizle">
+<!ENTITY hideRecentlyBookmarked.accesskey "z">
 
 <!ENTITY backCmd.label                "Geri">
 <!ENTITY backButton.tooltip           "Bir sayfa geriye">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Yer İmleri kenar çubuğunu göster">
 <!ENTITY viewBookmarksToolbar.label         "Yer İmleri araç çubuğunu göster">
 
+<!ENTITY containersMenu.label "Taşıyıcılar">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -557,20 +558,21 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "S">
 <!ENTITY mediaPlaybackRate2.label     "Oynatma hızı">
 <!ENTITY mediaPlaybackRate2.accesskey "O">
-
-
+<!ENTITY mediaPlaybackRate050x2.label "Yavaş (0,5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "Y">
 <!ENTITY mediaPlaybackRate100x2.label "Normal">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
-
-
-
-
+<!ENTITY mediaPlaybackRate125x2.label "Hızlı (1,25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "H">
+<!ENTITY mediaPlaybackRate150x2.label "Daha hızlı (1,5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "D">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Çok hızlı (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "o">
+<!ENTITY mediaLoop.label             "Tekrarla">
+<!ENTITY mediaLoop.accesskey         "T">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -679,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Güvenli bağlantı">
 <!ENTITY identity.connectionNotSecure "Bağlantı güvenli değil">
 <!ENTITY identity.connectionFile "Bu sayfa bilgisayarınızda depolanıyor.">
-
+<!ENTITY identity.connectionVerified2 "Bu siteye güvenli bir şekilde bağlandınız. Site sahibi:">
 <!ENTITY identity.connectionInternal "Burası güvenli bir &brandShortName; sayfasıdır.">
 <!ENTITY identity.insecureLoginForms2 "Bu sayfaya girilen hesap bilgileri ele geçirilebilir.">
 <!-- Strings for connection state warnings. -->
