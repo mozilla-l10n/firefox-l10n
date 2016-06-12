@@ -13,53 +13,53 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(การดูเว็บแบบส่วนตัว)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(การท่องเว็บแบบส่วนตัว)">
 
 <!ENTITY appmenu.tooltip                     "เปิดเมนู">
-<!ENTITY navbarOverflow.label                "เครื่องมืออื่นๆ…">
+<!ENTITY navbarOverflow.label                "เครื่องมือเพิ่มเติม…">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "เรียกแท็บนี้ใหม่">
-<!ENTITY  reloadTab.accesskey                "ร">
-<!ENTITY  reloadAllTabs.label                "เรียกทุกแท็บใหม่">
+<!ENTITY  reloadTab.label                    "โหลดแท็บใหม่">
+<!ENTITY  reloadTab.accesskey                "ห">
+<!ENTITY  reloadAllTabs.label                "โหลดแท็บทั้งหมดใหม่">
 <!ENTITY  reloadAllTabs.accesskey            "ท">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "ปิดแท็บด้านขวา">
-<!ENTITY  closeTabsToTheEnd.accesskey        "ข">
-<!ENTITY  closeOtherTabs.label               "ปิดแท็บอื่น">
-<!ENTITY  closeOtherTabs.accesskey           "อ">
+<!ENTITY  closeTabsToTheEnd.label            "ปิดแท็บไปทางขวา">
+<!ENTITY  closeTabsToTheEnd.accesskey        "ว">
+<!ENTITY  closeOtherTabs.label               "ปิดแท็บอื่น ๆ">
+<!ENTITY  closeOtherTabs.accesskey           "ด">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "ตรึงแท็บ">
-<!ENTITY  pinTab.accesskey                   "ต">
-<!ENTITY  unpinTab.label                     "เลิกตรึงแท็บ">
-<!ENTITY  unpinTab.accesskey                 "ล">
+<!ENTITY  pinTab.label                       "ปักหมุดแท็บ">
+<!ENTITY  pinTab.accesskey                   "ป">
+<!ENTITY  unpinTab.label                     "ถอดหมุดแท็บ">
+<!ENTITY  unpinTab.accesskey                 "บ">
 <!ENTITY  moveToNewWindow.label              "ย้ายไปหน้าต่างใหม่">
 <!ENTITY  moveToNewWindow.accesskey          "ป">
-<!ENTITY  bookmarkAllTabs.label              "คั่นหน้าเว็บทุกแท็บ…">
-<!ENTITY  bookmarkAllTabs.accesskey          "บ">
+<!ENTITY  bookmarkAllTabs.label              "คั่นแท็บทั้งหมด…">
+<!ENTITY  bookmarkAllTabs.accesskey          "แ">
 <!ENTITY  undoCloseTab.label                 "เรียกคืนแท็บที่เพิ่งปิด">
 <!ENTITY  undoCloseTab.accesskey             "ด">
-<!ENTITY  closeTab.label                     "ปิดแท็บนี้">
+<!ENTITY  closeTab.label                     "ปิดแท็บ">
 <!ENTITY  closeTab.accesskey                 "ป">
 
 <!ENTITY  listAllTabs.label      "แสดงรายการแท็บทั้งหมด">
 
 <!ENTITY tabCmd.label "แท็บใหม่">
-<!ENTITY tabCmd.accesskey "ท">
+<!ENTITY tabCmd.accesskey "แ">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "เปิดที่ตั้ง…">
+<!ENTITY openLocationCmd.label "เปิดตำแหน่งที่ตั้ง…">
 <!ENTITY openFileCmd.label "เปิดไฟล์…">
-<!ENTITY openFileCmd.accesskey "ป">
+<!ENTITY openFileCmd.accesskey "เ">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
 <!ENTITY printSetupCmd.accesskey "ต">
@@ -73,7 +73,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.accesskey "ฟ">
 
 <!ENTITY menubarCmd.label "แถบเมนู">
-<!ENTITY menubarCmd.accesskey "ถ">
+<!ENTITY menubarCmd.accesskey "เ">
 <!ENTITY navbarCmd.label "แถบเครื่องมือนำทาง">
 <!ENTITY personalbarCmd.label "แถบเครื่องมือที่คั่นหน้า">
 <!ENTITY personalbarCmd.accesskey "ค">
@@ -89,17 +89,17 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "ซอร์สโค้ด">
 <!ENTITY pageSourceCmd.accesskey "ซ">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "ข้อมูลหน้าเว็บ">
-<!ENTITY pageInfoCmd.accesskey "น">
+<!ENTITY pageInfoCmd.label "ข้อมูลหน้า">
+<!ENTITY pageInfoCmd.accesskey "ข">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "สะท้อนแท็บ">
 <!ENTITY mirrorTabCmd.accesskey "ส">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "เต็มหน้าจอ">
-<!ENTITY enterFullScreenCmd.accesskey "ต">
+<!ENTITY enterFullScreenCmd.label "เข้าสู่ภาพเต็มหน้าจอ">
+<!ENTITY enterFullScreenCmd.accesskey "เ">
 <!ENTITY exitFullScreenCmd.label "ออกจากภาพเต็มหน้าจอ">
-<!ENTITY exitFullScreenCmd.accesskey "ต">
+<!ENTITY exitFullScreenCmd.accesskey "เ">
 <!ENTITY fullScreenCmd.label "เต็มจอ">
 <!ENTITY fullScreenCmd.accesskey "จ">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -109,16 +109,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "ลงชื่อเข้าใช้ &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "เปิดการตั้งค่า &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "เชื่อมต่อ &syncBrand.shortName.label; ใหม่">
-<!ENTITY fxaUnverified.label "ยืนยันความถูกต้องของบัญชี">
+<!ENTITY fxaUnverified.label "ยืนยันบัญชีของคุณ">
 
 
-<!ENTITY fullScreenMinimize.tooltip "ย่อหาย">
+<!ENTITY fullScreenMinimize.tooltip "ย่อ">
 <!ENTITY fullScreenRestore.tooltip "คืนสภาพ">
 <!ENTITY fullScreenClose.tooltip "ปิด">
 <!ENTITY fullScreenAutohide.label "ซ่อนแถบเครื่องมือ">
 <!ENTITY fullScreenAutohide.accesskey "ซ">
 <!ENTITY fullScreenExit.label "ออกจากโหมดเต็มจอ">
-<!ENTITY fullScreenExit.accesskey "อ">
+<!ENTITY fullScreenExit.accesskey "เ">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -141,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "ที่คั่นหน้า">
 <!ENTITY bookmarksMenu.accesskey "น">
-<!ENTITY bookmarkThisPageCmd.label "คั่นหน้าเว็บนี้">
+<!ENTITY bookmarkThisPageCmd.label "คั่นหน้านี้">
 <!ENTITY editThisBookmarkCmd.label "แก้ไขที่คั่นหน้านี้">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "I">
@@ -680,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "การเชื่อมต่อปลอดภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่นิรภัย">
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บบนคอมพิวเตอร์ของคุณ">
-
+<!ENTITY identity.connectionVerified2 "คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้ เจ้าของ:">
 <!ENTITY identity.connectionInternal "นี้คือหน้า &brandShortName; ที่ปลอดภัย">
 
 <!-- Strings for connection state warnings. -->
