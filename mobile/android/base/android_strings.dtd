@@ -31,7 +31,8 @@
 
 <!ENTITY firstrun_readerview_title "บทความ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-
+<!ENTITY firstrun_readerview_message "ลดความยุ่งเหยิง">
+<!ENTITY firstrun_readerview_subtext "ใช้มุมมองผู้อ่านเพื่อทำให้บทความอ่านง่ายขึ้น \u2014 แม้ขณะออฟไลน์">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "คุณ">
@@ -806,6 +807,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "ไปยังที่คั่นหน้า">
 
 <!ENTITY helper_triple_readerview_open_title "ใช้งานได้ออฟไลน์">
-
+<!ENTITY helper_triple_readerview_open_message "คั่นรายการมุมมองผู้อ่านเพื่ออ่านแบบออฟไลน์">
 <!ENTITY helper_triple_readerview_open_button "เพิ่มไปยังที่คั่นหน้า">
 
