@@ -41,6 +41,12 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Acceso denegado al archivo">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Puede haber sido eliminado, movido o los permisos pueden evitar el acceso.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Ups!">
 <!ENTITY generic.longDesc "
@@ -64,7 +70,6 @@
 ">
 
 <!ENTITY netInterrupt.title "La conexión fue interrumpida">
-
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Documento expirado">
@@ -170,8 +175,8 @@ alguien tratando de hacerse pasar por el servidor.</li>
 <!ENTITY cspBlocked.title "Bloqueado por política de seguridad de contenido">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue de esta forma porque tiene una política de seguridad que la deshabilita.</p>">
 
-<!ENTITY corruptedContentError.title "Error de contenido corrupto">
-<!ENTITY corruptedContentError.longDesc "<p>La página que estás tratando de ver no puede mostrarse porque se detectó un error en la transmisión de los datos.</p><ul><li>Ponete en contacto con los propietarios del sitio para informarles acerca de este problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Error de contenido corrupto">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La página que querés ver no puede ser mostrada porque se detectó un error en la transmisión de datos.</p><ul><li>Contactá a los dueños del sitio web para informarles del problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O podés agregar una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sáquenme de aquí!">
@@ -201,3 +206,7 @@ No deberías agregar una excepción si estás usando una conexión a Internet en
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Información avanzada: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "La conexión no es segura">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

@@ -6,7 +6,8 @@
 <!ENTITY window.width                 "40em">
 <!ENTITY window.height                "8em">
 
-<!ENTITY doNotTrackCheckbox.label     "Usar no rastrear">
-<!ENTITY doNotTrackCheckbox.accesskey "U">
+<!ENTITY doNotTrackCheckbox2.label    "Siempre aplicar no rastrear">
+<!ENTITY doNotTrackCheckbox2.accesskey "a">
 
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; enviará una señal indicando que no quiere ser rastreado mientra la protección de rastreo este activada.">
 <!ENTITY doNotTrackLearnMore.label    "Conocer más">
