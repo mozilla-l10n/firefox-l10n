@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
+<!ENTITY aboutLogins.title                       "ဝင်ရောက်မှုများ">
 <!ENTITY aboutLogins.update                      "မွမ်းမံချက်">
-
+<!ENTITY aboutLogins.emptyLoginText              "သင့် ဝင်ရောက်မှုများကို အမြဲ လုံခြုံစေပါ">
 

@@ -423,7 +423,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ပျက်ဆီးချက်တင်ပြသူ">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; တည်နေရာ ဝန်ဆောင်မှု">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "ကမ္ဘာ့မြေပုံ ဆွဲရာတွင် &vendorShortName; ကို ကူညီပါ။ ကျွန်ုပ်တို့၏ တည်နေရာပြစနစ် ပိုမိုကောင်းမွန်စေရန် သင့်ကိရိယာ၏ ခန့်မှန်း Wi-Fi နှင့် ဆယ်လူလာ တည်နေရာကို မျှဝေပါ။">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -437,53 +437,56 @@ size. -->
 
 <!ENTITY quit "ထွက်">
 
-
-
+<!ENTITY addons "အတ်အွန်များ">
+<!ENTITY logins "ဝင်ရောက်မှုများ">
+<!ENTITY downloads "ဆွဲချချက်များ">
 <!ENTITY char_encoding "အက္ခရာ စာဝှက်ရေးသားခြင်း">
 
 <!ENTITY share "မျှ​ဝေ">
 <!ENTITY share_title "မျှဝေမှ">
 <!ENTITY share_image_failed "ယခု ပုံအား မမျှဝေနိုင်ပါ">
 <!ENTITY save_as_pdf "PDF အနေဖြင့်သိမ်း">
-
-
-
+<!ENTITY print "ပုံနှိပ်ရန်">
+<!ENTITY find_in_page "စာမျက်နှာထဲတွင် ရှာပါ">
+<!ENTITY desktop_mode "ဒတ်စ်တောခ့်ဆိုက်ကို တောင်းပါ">
 <!ENTITY page "စာမျက်နှာ">
 <!ENTITY tools "ကိရိယာများ">
-
-
+<!ENTITY new_tab "တဗ် အသစ်">
+<!ENTITY new_private_tab "တစ်ကိုယ်ရေသုံး တဗ်အသစ်">
 <!ENTITY close_all_tabs "စာအမှတ် အားလုံးကို ပိတ်ရန်">
 <!ENTITY close_private_tabs "တစ်ကိုယ်ရေသုံးတပ်ဗ်များအား ပိတ်ပါ">
-
+<!ENTITY tabs_normal "တဗ်များ">
 <!ENTITY tabs_private "တစ်ကိုယ်ရေသုံး">
 <!ENTITY set_image_fail "ပုံအား မထားလိုက်နိုင်ပါ">
 <!ENTITY set_image_path_fail "ပုံအား မသိမ်းနိုင်ပါ">
 <!ENTITY set_image_chooser_title "ပုံအား သုံးမည်">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "စာမျက်နှာထဲတွင် ရှာပါ">
 <!ENTITY find_prev "အရင်နေရာ">
-
-
+<!ENTITY find_next "နောက်တစ်ခု">
+<!ENTITY find_close "ပိတ်ပါ">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "ဖုန်းသို့ ပို့နေသှ်">
 <!ENTITY media_play "ဖွင့်ပါ။">
 <!ENTITY media_pause "ခေတ္တရပ်တန့်တယ်">
-
+<!ENTITY media_stop "ရပ်ပါ">
 
 <!ENTITY contextmenu_open_new_tab "တပ်ဗ်အသစ်တစ်ခုဖွင့်ပါ">
 <!ENTITY contextmenu_open_private_tab "တစ်ကိုယ်ရေသုံးတပ်ဗ်ဖွင့်">
-
+<!ENTITY contextmenu_remove "ဖယ်ရှားပါ">
 <!ENTITY contextmenu_add_to_launcher "ပင်မစာမျက်နှာသို့ ထည့်ပါ">
-
+<!ENTITY contextmenu_share "မျှ​ဝေရန်">
 <!ENTITY contextmenu_pasteandgo "ကူးထားပြီးနောက်သွားမည်။">
 <!ENTITY contextmenu_paste "ပွားပါ">
 <!ENTITY contextmenu_copyurl "လိပ်စာအားကူးယူပါ">
 <!ENTITY contextmenu_edit_bookmark "တည်းဖြတ်">
 <!ENTITY contextmenu_subscribe "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ">
 <!ENTITY contextmenu_site_settings "ဝတ်ဆိုဒ်ပုံစံအထိုင်အားပြုပြင်">
-
+<!ENTITY contextmenu_top_sites_edit "တည်းဖြတ်">
 <!ENTITY contextmenu_top_sites_pin "ဆိုဒ်အား တွဲပါ">
 <!ENTITY contextmenu_top_sites_unpin "ဆိုဒ်အားတွဲဖြုတ်ပါ">
 <!ENTITY contextmenu_add_search_engine "ရှာဖွေရေး ဝန်ဆောင်မှု ထည့်သွင်းပါ">
@@ -491,25 +494,30 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[အသုံးပြုသူအမည် မပေးထားပါ]">
+<!ENTITY doorhanger_login_edit_title "ဝင်ရောက်မှုကို ပြင်ဆင်ရန်">
 <!ENTITY doorhanger_login_edit_username_hint "သုံးစွဲသူ အမည်">
-
-
-
-
-
-
-
-
+<!ENTITY doorhanger_login_edit_password_hint "စကားဝှက်">
+<!ENTITY doorhanger_login_edit_toggle "စကားဝှက်များကို ဖေါ်ပြပါ">
+<!ENTITY doorhanger_login_edit_toast_error "ဝင်ရောက်မှုကို သိမ်းရာတွင် မအောင်မြင်ပါ">
+<!ENTITY doorhanger_login_select_message "&formatS;ထံမှ စကားဝှက်ကို ကူးယူမည်လား။">
+<!ENTITY doorhanger_login_select_toast_copy "စကားဝှက်ကို ကလစ်ဘုတ်သို့ ကူးယူပြီး">
+<!ENTITY doorhanger_login_select_toast_copy_error "စကားဝှက်ကို မကူးယူနိုင်ပါ">
+<!ENTITY doorhanger_login_select_action_text "အခြားဝင်ရောက်မှုကို ရွေးပါ">
+<!ENTITY doorhanger_login_select_title "စကားဝှက်ကို ကူးယူရန်">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "သေးငယ်သော ဧရိယာများကို ချဲ့ပြပါ">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "လင့်များနှင့် ဖောင်ဖြည့်ကွက်လပ်များအနားထိလျှင် ၄င်းတို့ကို ချဲ့ပြပါ">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "စကရင်အပြည့် သုံးခြင်း">
+<!ENTITY pref_scroll_title_bar_summary2 "&brandShortName; တူးလ်ဘားကို စာမျက်နှာ အောက်သို့ scroll ဆွဲကြည့်နေစဉ် ဖျောက်ထားမည်">
 
-
-
+<!ENTITY pref_tab_queue_title3 "တဗ် တန်းစီမှု">
+<!ENTITY pref_tab_queue_summary4 "&brandShortName; ကို နောက်တစ်ကြိမ် မဖွင့်ခင်အချိန်ထိ လင့်များကို သိမ်းပါ။">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -524,7 +532,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "ဆိုက်အပြင်အဆင်များ">
-
+<!ENTITY site_settings_cancel       "မဆောင်ရွက်ပါ">
 <!ENTITY site_settings_clear        "ရှင်းလင်းပါ">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -533,16 +541,16 @@ size. -->
 
 <!ENTITY masterpassword_create_title "ပင်မ စကားဝှက်ကို ပြောင်းလဲပါ">
 <!ENTITY masterpassword_remove_title "ပင်ရင်း စကားဝှက်ကို ဖယ်ရှားပါ">
-
+<!ENTITY masterpassword_password "စကားဝှက်">
 <!ENTITY masterpassword_confirm "ပတ်စ်ဝတ်အားအတည်ပြုပါ">
 
 <!ENTITY button_ok "OK">
-
+<!ENTITY button_cancel "မဆောင်ရွက်ပါ">
 <!ENTITY button_yes "ကောင်းပြီ">
 <!ENTITY button_no "မလုပ်ဘူး">
 <!ENTITY button_clear_data "အချက်အလက်အားရှင်းပါ">
-
-
+<!ENTITY button_set "သတ်မှတ်ရန်">
+<!ENTITY button_clear "ရှင်းလင်းပါ">
 <!ENTITY button_copy "ကူးယူပါ">
 
 <!ENTITY home_top_sites_title "ထိပ်တန်းဝပ်ဆိုက်များ">
@@ -552,10 +560,13 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
-
-
+<!ENTITY home_title "&brandShortName; အဖွင့်စာမျက်နှာ">
+<!ENTITY home_history_title "မှတ်တမ်း">
+<!ENTITY home_synced_devices_smartfolder "ထပ်တူပြုပြီးသော ကိရိယာများ">
+<!ENTITY home_synced_devices_number "ကိရိယာများ &formatD; ခု">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-
+<!ENTITY home_synced_devices_one "ကိရိယာ 1 ခု">
+<!ENTITY home_history_back_to2 "မှတ်တမ်းအပြည့်အစုံသို့ ပြန်သွားပါ">
 <!ENTITY home_clear_history_button "ဘယောက်ဆာ မှတ်တမ်းအားရှင်းပါ">
 <!ENTITY home_clear_history_confirm "သင့် မှတ်တမ်းအား ဖျက်ပစ်မည်မှာ သေချာပြီလား?">
 <!ENTITY home_bookmarks_empty "သင်မှတ်ထားသော လင်ခ့်များ ဒီတွင်စုထားမည်">
@@ -573,6 +584,8 @@ size. -->
 <!ENTITY home_default_empty "ယခု ရင်ပြင်တွင် မည်သည့် အရာမျှတွေ့ရမည်မဟုတ်ပါ">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "&formatS; သို့ ပြန်သွားပါ">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -592,6 +605,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "ရှာဖွေရေးကီးစာလုံး ထည့်ပါ">
 
+<!ENTITY filepicker_title "ဖိုင် ရွေးပါ">
 <!ENTITY filepicker_audio_title "အသံသွင်း သို့ အသံတစ်သံအားရွေးပါ">
 <!ENTITY filepicker_image_title "ဓာတ်ပုံ ရိုက်သို့  တစ်ပုံရွေးပါ">
 <!ENTITY filepicker_video_title "ဗီဒီယိုရိုက် သို့ ဗီဒီယိုတစ်ခုရွေးပါ">
@@ -609,18 +623,23 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
-
-
+<!ENTITY identity_connection_secure "လုံခြုံသော ဆက်ကြောင်း">
+<!ENTITY identity_connection_insecure "မလုံခြုံသော ဆက်ကြောင်း">
+<!ENTITY identity_login_insecure "ဒီစာမျက်နှာသည် မလုံခြုံပါ။ ထို့ပြင် သင့်ဝင်ရောက်မှုအချက်အလက်သည် ခိုးယူခံရနိုင်သည်။">
+<!ENTITY identity_connection_chromeui "ဒီ &brandShortName; စာမျက်နှာသည် လုံခြုံစိတ်ချရသည်။">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; သည် ဒီစာမျက်နှာပေါ်ရှိ မလုံခြုံသော အကြောင်းအရာကို တားဆီးထားသည်။">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; သည် ဒီစာမျက်နှာပေါ်ရှိ မလုံခြုံသော အကြောင်းအရာအချို့ကို တားဆီးထားသည်။">
+<!ENTITY mixed_content_display_loaded1 "ဒီစာမျက်နှာ၏ အစိတ်အပိုင်းတချို့သည် မလုံခြုံပါ (ရုပ်ပုံများ စသည်)။">
+<!ENTITY mixed_content_protection_disabled1 "မလုံခြုံသော အကြောင်းအရာများထံမှ ကာကွယ်သည့် စနစ်ကို ပိတ်ထားသည်။">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
-
+<!ENTITY doorhanger_tracking_title2 "ခြေရာခံ ကာကွယ်မှု">
+<!ENTITY doorhanger_tracking_state_enabled "ဖွင့်ထားသည်">
+<!ENTITY doorhanger_tracking_state_disabled "ပိတ်ထားသည်">
+<!ENTITY doorhanger_tracking_message_enabled1 "သင့်လှုပ်ရှားမှုကို ခြေရာခံရန် ကြိုးစားနေမှုများကို တားဆီးထားသည်။">
+<!ENTITY doorhanger_tracking_message_disabled2 "သင့်လှုပ်ရှားမှုကို ခြေရာခံနိုင်ဖွယ်ရှိသည့် အစိတ်အပိုင်းများ ဒီစာမျက်နှာတွင် ပါဝင်သည်။">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "ဆက်လက်ဖတ်ရှူရန်">
@@ -630,6 +649,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "တစ်ကိုယ်ရေသုံး အချက်အလက်များရှင်းပြီး">
 <!ENTITY private_data_fail "အချို့သော တစ်ကိုယ်ရေသုံးအချက်အလက်များ မရှင်းလိုက်နိုင်ပါ">
 
+<!ENTITY bookmarkhistory_button_import "တင်သွင်းပါ">
 <!ENTITY bookmarkhistory_import_both "စာအမှတ်များနှင့် မှတ်တမ်းများအား   ဖုန်းမှ ဆွဲယူနေသှ်">
 <!ENTITY bookmarkhistory_import_bookmarks "စာအမှတ်များအား ဖုန်းမှ ဆွဲယူနေသှ် ">
 <!ENTITY bookmarkhistory_import_history "မှတ်တမ်းများအား ဖုန်းမှ ဆွဲယူနေသှ် ">
@@ -660,38 +680,52 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "မွမ်းမံချက်အား ဒေါင်းလုဒ်ရယူ​ပြီး ချက်ခြင်း အသုံးချရန် ထိပါ">
 <!ENTITY updater_downloading_retry2 "ပြန်လည်ကြိုးစားရန် ထိပါ">
 
+<!ENTITY updater_apply_title2 "&brandShortName; အတွက် မွမ်းမံချက်ရှိသည်">
 <!ENTITY updater_apply_select2 "မွမ်းမံရန် ထိပါ">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "ဖိုင်များနှင့် အဆင့်မြှင့်မွမ်းမံချက်များကို ဆွဲယူရန် သိမ်းဆည်းစနစ်ကို အသုံးပြုသည့် &brandShortName; လုပ်ဆောင်ချက်ကို ဆောင်ရွက်ခွင့်ပေးပါ။">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "ခွင့်ပြုရန်">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "ဧည့်သည်သုံးရန် ဖွင့်">
 <!ENTITY exit_guest_session "ဧည့်သည်သုံးထားသည်ကို ပိတ်မည်">
 <!ENTITY guest_session_dialog_continue "ဆက်လုပ်ပါ">
-
+<!ENTITY guest_session_dialog_cancel "ပယ်​ဖျက်ပါ">
 <!ENTITY new_guest_session_title "&brandShortName; ပြန်စ တော့မည်ဖြစ်သှ်">
-
+<!ENTITY new_guest_session_text2 "၎င်းကို အသုံးပြုနေသောသူသည် သင်၏ တစ်ကိုယ်ရေသုံး အချက်အလက်များ (သိမ်းထားသည့် ဝင်ရောက်မှုများ၊ မှတ်တမ်း သို့မဟုတ် စာမှတ်များ စသည်) ကို မြင်ရမည်မဟုတ်ပါ။\n\nWhen သင့် ဧည့်သည် အသုံးပြုပြီးပါက ၎င်း၏ အချက်အလက်များကို အလိုအလျောက် ဖျက်မည်ဖြစ်ပြီး သင့်အသုံးပြုမှုများကို ပြန်လည်သက်ရောက်စေပါလိမ့်မည်။">
 <!ENTITY guest_browsing_notification_title "ဧည့်သည်သုံး ပုံစံအားဖွင့်ပေးပါ">
 <!ENTITY guest_browsing_notification_text "ထွက်ရန်ထိပါ">
 
+<!ENTITY exit_guest_session_title "ယခု &brandShortName; သည် ပိတ်ပြီး ပြန်ဖွင့်ပါမည်">
 <!ENTITY exit_guest_session_text "ယခုသုံးထားသော ဘယောက်ဆာအချက်အလက်များဖျက်ပြီး">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "စာရင်း">
 <!ENTITY actionbar_done "ပြီးသွားပြီ">
 <!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "ယခု ပြောပါ">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -701,6 +735,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "နောက်ဆုံးချိတ်ခဲ့ချိန်- &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "နောက်ဆုံး ထပ်တူပြုသည့်အချိန် : မရှိပါ">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -722,35 +757,48 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_addons_installation "အတ်အွန်များ">
+
 <!ENTITY restrictable_feature_private_browsing "လုံခြုံစွာဝတ်ဆိုက်ကြည့်ရှူခြင်း">
 
+<!ENTITY restrictable_feature_clear_history "မှတ်တမ်းကို ရှင်းလင်းပါ">
 
+<!ENTITY restrictable_feature_advanced_settings "အဆင့်မြင့် အပြင်အဆင်များ">
 
+<!ENTITY restrictable_feature_camera_microphone "ကင်မရာနှင့် မိုက္ကရိုဖုန်း">
 
-
-
-
-
+<!ENTITY restrictable_feature_block_list "ပိတ်ပင်ထားသည့် စာရင်း">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "မီးမြေခွေး။ သင့်ဘရောက်ဇာအကြောင်း">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "မီးမြေခွေး။ အတ်အွန်များကို စိတ်ကြိုက်ဆောင်ရွက်ပါ">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "မီးမြေခွေး။ အထောက်အပံ့">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "ဝဘ်ကို လေ့လာပါ။ မော်ဇီလာ ဝဘ်မိက္ကာ">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-
+<!ENTITY eol_notification_title2 "&brandShortName; ကို အဆင့်မြှင့်လိမ့်မည် မဟုတ်ပါ">
+<!ENTITY eol_notification_summary "ဆက်လက်လေ့လာရန် ထိပါ">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; သည် နောက်ဆုံးပေါ် ဖြစ်သည်">
 
 
+<!ENTITY promotion_add_to_homescreen "ပင်မစာမျက်နှာသို့ ထည့်ပါ">
 
+<!ENTITY helper_first_offline_bookmark_title "အော့ဖ်လိုင်းတွင် ဖတ်ပါ">
 
+<!ENTITY helper_first_offline_bookmark_button "စာမှတ်များသို့ သွားပါ">
 
+<!ENTITY helper_triple_readerview_open_title "အော့ဖ်လိုင်း ရနိုင်ပါသည်">
 
-
+<!ENTITY helper_triple_readerview_open_button "စာအမှတ်များထဲသို့ ထည့်ပါ">
 
