@@ -6,6 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "Restaurar as configurações de pesquisa?">
 
+<!ENTITY searchreset.pageInfo1      "Suas configurações de pesquisa podem estar desatualizadas. O &brandShortName; pode ajudar a restaurar as configurações de pesquisar.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
@@ -23,4 +24,7 @@ their language. -->
 <!ENTITY searchreset.link.pageInfo2       "Página de configurações">
 
 <!ENTITY searchreset.noChangeButton        "Não alterar">
+<!ENTITY searchreset.noChangeButton.access "N">
 
+<!ENTITY searchreset.changeEngineButton        "Alterar mecanismo de pesquisa">
+<!ENTITY searchreset.changeEngineButton.access "A">
