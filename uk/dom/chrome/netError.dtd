@@ -87,6 +87,7 @@
 <!ENTITY cspBlocked.title "Заблоковано політикою безпеки вмісту">
 <!ENTITY cspBlocked.longDesc "<p>Браузер не дозволив завантажитись цій сторінці таким чином, тому що сторінка має політику безпеки вмісту, яка цього не дозволяє.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Пошкоджений вміст">
 
 <!ENTITY remoteXUL.title "Віддалений XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Зв’яжіться з власниками сайту та повідомте їх про цю проблему.</li></ul></p>">

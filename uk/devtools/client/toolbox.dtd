@@ -111,6 +111,7 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 <!ENTITY options.disableHTTPCache.label     "Вимкнути HTTP-кеш (коли відкрита панель інструментів)">
+<!ENTITY options.disableHTTPCache.tooltip   "Вмикаючи цю опцію ви забороняєте HTTP-кеш для всіх вкладок з відкритою панеллю інструментів. Ця опція не впливає на Service Workers.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
