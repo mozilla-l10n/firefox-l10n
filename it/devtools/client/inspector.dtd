@@ -2,50 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY inspectorHTMLEdit.label "Modifica come HTML">
-<!ENTITY inspectorHTMLEdit.accesskey "M">
-<!ENTITY inspectorCopyInnerHTML.label "HTML interno">
-<!ENTITY inspectorCopyInnerHTML.accesskey "H">
-<!ENTITY inspectorCopyOuterHTML.label "HTML esterno">
-<!ENTITY inspectorCopyOuterHTML.accesskey "T">
-<!ENTITY inspectorCopyCSSSelector.label "Selettore CSS">
-<!ENTITY inspectorCopyCSSSelector.accesskey "S">
-<!ENTITY inspectorPasteOuterHTML.label "HTML esterno">
-<!ENTITY inspectorPasteOuterHTML.accesskey "H">
-<!ENTITY inspectorPasteInnerHTML.label "HTML interno">
-<!ENTITY inspectorPasteInnerHTML.accesskey "T">
-<!ENTITY inspectorHTMLPasteExtraSubmenu.label "Incolla…">
-<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey "n">
-<!ENTITY inspectorHTMLPasteBefore.label "Prima">
-<!ENTITY inspectorHTMLPasteBefore.accesskey "P">
-<!ENTITY inspectorHTMLPasteAfter.label "Dopo">
-<!ENTITY inspectorHTMLPasteAfter.accesskey "D">
-<!ENTITY inspectorHTMLPasteFirstChild.label "Come primo figlio">
-<!ENTITY inspectorHTMLPasteFirstChild.accesskey "f">
-<!ENTITY inspectorHTMLPasteLastChild.label "Come ultimo figlio">
-<!ENTITY inspectorHTMLPasteLastChild.accesskey "o">
-<!ENTITY inspectorScrollNodeIntoView.label "Scorri nella visualizzazione">
-<!ENTITY inspectorScrollNodeIntoView.accesskey "S">
-<!ENTITY inspectorHTMLDelete.label "Elimina nodo">
-<!ENTITY inspectorHTMLDelete.accesskey "E">
-<!ENTITY inspectorAttributesSubmenu.label "Attributi">
-<!ENTITY inspectorAttributesSubmenu.accesskey "A">
-<!ENTITY inspectorAddAttribute.label "Aggiungi attributo">
-<!ENTITY inspectorAddAttribute.accesskey "A">
-<!ENTITY inspectorEditAttribute.label "Modifica attributo">
-<!ENTITY inspectorEditAttribute.accesskey "M">
 <!ENTITY inspectorRemoveAttribute.label "Elimina attributo">
 <!ENTITY inspectorRemoveAttribute.accesskey "E">
 <!ENTITY inspector.selectButton.tooltip "Seleziona un elemento con il mouse">
 <!ENTITY inspectorSearchHTML.label3 "Cerca in HTML">
-<!ENTITY inspectorImageDataUri.label "Data-URL immagine">
-<!ENTITY inspectorShowDOMProperties.label "Visualizza proprietà DOM">
-<!ENTITY inspectorUseInConsole.label "Utilizza in Console">
-<!ENTITY inspectorExpandNode.label "Espandi tutto">
-<!ENTITY inspectorCollapseNode.label "Contrai">
-<!ENTITY inspectorScreenshotNode.label "Salva una schermata del nodo">
-<!ENTITY inspectorDuplicateNode.label "Duplica nodo">
 <!ENTITY inspectorAddNode.label "Crea nuovo nodo">
 <!ENTITY inspectorAddNode.accesskey "C">
-<!ENTITY inspectorCopyHTMLSubmenu.label "Copia">
-<!ENTITY inspectorPasteHTMLSubmenu.label "Incolla">
