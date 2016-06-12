@@ -53,6 +53,9 @@
    Зависания браузера ">
 <!ENTITY aboutTelemetry.threadHangStatsSection "
    Зависания нитей ">
+<!ENTITY aboutTelemetry.scalarsSection "
+  Скаляры
+">
 <!ENTITY aboutTelemetry.histogramsSection "
    Гистограммы ">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
