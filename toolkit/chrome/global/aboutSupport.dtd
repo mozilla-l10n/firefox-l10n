@@ -56,6 +56,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Корисник">
 <!ENTITY aboutSupport.appBasicsOS "ОС">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Меморија">
+<!ENTITY aboutSupport.appBasicsPerformance "Перформансе">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Регистровани Service Workers">
@@ -89,6 +90,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Графика">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "База података локација">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Интегритет">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Потврди интегритет">
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Инкрементални GC">
 
@@ -114,3 +119,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Дневник неуспеха">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Дневник одлука">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Онемогућене могућности чувара рушења">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Алтернативна решења">
