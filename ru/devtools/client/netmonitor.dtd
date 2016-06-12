@@ -12,6 +12,7 @@
 <!ENTITY netmonitorUI.toolbar.method "Метод">
 <!ENTITY netmonitorUI.toolbar.file "Файл">
 <!ENTITY netmonitorUI.toolbar.domain "Домен">
+<!ENTITY netmonitorUI.toolbar.cause "Причина">
 <!ENTITY netmonitorUI.toolbar.type "Тип">
 <!ENTITY netmonitorUI.toolbar.transferred "Передано">
 <!ENTITY netmonitorUI.toolbar.size "Размер">
