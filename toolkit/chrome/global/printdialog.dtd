@@ -32,8 +32,8 @@
 <!ENTITY selectionRadio.accesskey "S">
 
 <!ENTITY copies.label "Nüsxələr">
-<!ENTITY numCopies.label "Kopya sayı:">
-<!ENTITY numCopies.accesskey "K">
+<!ENTITY numCopies.label "Nüsxə sayı:">
+<!ENTITY numCopies.accesskey "N">
 
 <!ENTITY printframeGroup.label "Çərçivəni çap et">
 <!ENTITY aslaidoutRadio.label "Ekranda göründüyü kimi">
