@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "หน้าที่เพิ่งคั่น">
 <!ENTITY otherBookmarksCmd.label "ที่คั่นหน้าอื่น ๆ">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าอื่น ๆ ด้วย">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "แสดงที่เพิ่งคั่น">
+<!ENTITY showRecentlyBookmarked.accesskey "ส">
+<!ENTITY hideRecentlyBookmarked.label     "ซ่อนที่เพิ่งคั่น">
+<!ENTITY hideRecentlyBookmarked.accesskey "อ">
 
 <!ENTITY backCmd.label                "ย้อนกลับ">
 <!ENTITY backButton.tooltip           "ย้อนกลับไปหนึ่งหน้า">
