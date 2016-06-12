@@ -34,6 +34,7 @@
 <!ENTITY update.noUpdatesFound "Установлена последняя версия &brandShortName;">
 <!ENTITY update.adminDisabled "Обновления отключены вашим системным администратором">
 <!ENTITY update.otherInstanceHandlingUpdates "Обновление производится другим процессом &brandShortName;">
+<!ENTITY update.restarting "Перезапуск…">
 <!ENTITY update.failed.start "Обновление не удалось. ">
 <!ENTITY update.failed.linkText "Загрузите последнюю версию">
 <!ENTITY update.failed.end "">

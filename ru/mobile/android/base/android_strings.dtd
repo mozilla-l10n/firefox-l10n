@@ -32,7 +32,6 @@
 <!ENTITY onboard_start_restricted1 "Будьте в безопасности и установите свой контроль с этой упрощённой версией &brandShortName;.">
 <!ENTITY bookmarks_title "Закладки">
 <!ENTITY history_title "История">
-<!ENTITY recent_tabs_title "Последние вкладки">
 <!ENTITY switch_to_tab "Перейти на вкладку">
 <!ENTITY crash_reporter_title "Сообщение о падении &brandShortName;">
 <!ENTITY crash_message2 "&brandShortName; столкнулся с проблемой и упал. После перезапуска список ваших вкладок будет показан на начальной странице &brandShortName;.">
@@ -238,6 +237,7 @@
 <!ENTITY pref_private_data_downloadFiles2 "Загрузки">
 <!ENTITY pref_private_data_syncedTabs "Облачные вкладки">
 <!ENTITY pref_default_browser "Сделать браузером по умолчанию">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Посетить Поддержку Mozilla">
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Отправить отзыв">
@@ -364,10 +364,11 @@
 <!ENTITY home_clear_history_button "Удалить историю веб-сёрфинга">
 <!ENTITY home_clear_history_confirm "Вы уверены, что хотите удалить свою историю?">
 <!ENTITY home_bookmarks_empty "Сохраняемые вами закладки появятся здесь.">
-<!ENTITY home_closed_tabs_title "Недавно закрытые вкладки">
-<!ENTITY home_last_tabs_title "Вкладки с прошлого раза">
+<!ENTITY home_closed_tabs_title2 "Недавно закрытые">
 <!ENTITY home_last_tabs_empty "Ваши недавние вкладки появятся здесь.">
-<!ENTITY home_open_all "Открыть все">
+<!ENTITY home_restore_all "Восстановить все">
+<!ENTITY home_closed_tabs_number "&formatD; вкладок">
+<!ENTITY home_closed_tabs_one "1 вкладка">
 <!ENTITY home_most_recent_empty "Недавно посещённые вами веб-сайты появятся здесь.">
 <!ENTITY home_most_recent_emptyhint2 "Псс: при использовании &formatS1;Новой приватной вкладки&formatS2; ваша история сохраняться не будет.">
 <!ENTITY home_default_empty "Для этой панели не удалось найти содержимого.">

@@ -22,6 +22,7 @@
 <!ENTITY helpus.middle " или ">
 <!ENTITY helpus.getInvolvedLink "присоединяйтесь!">
 <!ENTITY helpus.end "">
+<!ENTITY releaseNotes.link "Примечания к выпуску">
 <!ENTITY bottomLinks.license "Информация о лицензии">
 <!ENTITY bottomLinks.rights "Права конечного пользователя">
 <!ENTITY bottomLinks.privacy "Политика приватности">

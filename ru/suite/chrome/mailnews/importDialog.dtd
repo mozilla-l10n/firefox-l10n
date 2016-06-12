@@ -26,6 +26,7 @@
 <!ENTITY selectDescription.accesskey "ы">
 <!ENTITY acctName.label "Имя:">
 <!ENTITY acctName.accesskey "м">
+<!ENTITY noModulesFound.label "Не найдено приложения или файла, из которого можно импортировать данные.">
 <!ENTITY back.label "&lt; Назад">
 <!ENTITY forward.label "Далее &gt;">
 <!ENTITY finish.label "Готово">

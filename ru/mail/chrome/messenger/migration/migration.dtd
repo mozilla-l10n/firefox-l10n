@@ -5,6 +5,7 @@
 <!ENTITY migrationWizard.title "Мастер импорта">
 <!ENTITY importFromWin.label "Импортировать настройки, параметры учётной записи, адресную книгу, фильтры и другие данные из:">
 <!ENTITY importFromNonWin.label "Импортировать настройки, параметры учётной записи, адресную книгу, фильтры и другие данные из:">
+<!ENTITY importSourceNotFound.label "Не найдено приложения, из которого можно импортировать данные.">
 <!ENTITY importFromNothing.label "Не импортировать ничего">
 <!ENTITY importFromNothing.accesskey "н">
 <!ENTITY importFromSeamonkey3.label "SeaMonkey 2 или позже">
