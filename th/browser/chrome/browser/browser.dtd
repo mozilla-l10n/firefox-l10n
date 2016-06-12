@@ -164,11 +164,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenupopup.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
-<!ENTITY addCurPagesCmd.label "คั่นทุกแท็บ…">
+<!ENTITY addCurPagesCmd.label "คั่นแท็บทั้งหมด…">
 <!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าทั้งหมด">
 <!ENTITY recentBookmarks.label "หน้าที่เพิ่งคั่น">
 <!ENTITY otherBookmarksCmd.label "ที่คั่นหน้าอื่น ๆ">
-<!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าอื่น ๆ ด้วย">
+<!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าเพิ่มเติม">
 <!ENTITY showRecentlyBookmarked.label     "แสดงที่เพิ่งคั่น">
 <!ENTITY showRecentlyBookmarked.accesskey "ส">
 <!ENTITY hideRecentlyBookmarked.label     "ซ่อนที่เพิ่งคั่น">
@@ -180,12 +180,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardButton.tooltip        "ถัดไปหนึ่งหน้า">
 <!ENTITY backForwardButtonMenu.tooltip "คลิกขวาหรือดึงลงเพื่อแสดงประวัติ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ดึงลงเพื่อแสดงประวัติ">
-<!ENTITY reloadCmd.label              "เรียกใหม่">
-<!ENTITY reloadButton.tooltip         "เรียกหน้าปัจจุบันใหม่">
+<!ENTITY reloadCmd.label              "โหลดใหม่">
+<!ENTITY reloadButton.tooltip         "โหลดหน้าปัจจุบันใหม่">
 <!ENTITY stopCmd.label                "หยุด">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "หยุดการโหลดหน้านี้">
-<!ENTITY goEndCap.tooltip             "ไปยังที่ตั้งที่ป้อน">
+<!ENTITY goEndCap.tooltip             "ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง">
 <!ENTITY printButton.label            "พิมพ์">
 <!ENTITY printButton.tooltip          "พิมพ์หน้านี้">
 
@@ -197,7 +197,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "ดูการร้องขอตำแหน่งที่ตั้ง">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "ดูข้อความการติดตั้งส่วนเสริม">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "ดูข้อความที่เก็บข้อมูลออฟไลน์">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "จัดการการเข้าระบบของคุณ">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "จัดการข้อมูลการเข้าสู่ระบบของคุณ">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "โปรดทำเครื่องหมายกล่องนี้หากคุณต้องการบันทึกรหัสผ่าน">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "จัดการการใช้งานโปรแกรมเสริมบนหน้านี้">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "เปลี่ยนแปลงเพื่อให้คุณสามารถรับการแจ้งเตือนจากไซต์นี้">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "ดูแถบข้างที่คั่นหน้า">
 <!ENTITY viewBookmarksToolbar.label         "ดูแถบเครื่องมือที่คั่นหน้า">
 
+<!ENTITY containersMenu.label "คอนเทนเนอร์">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -252,13 +253,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "ส่วนเสริม">
 <!ENTITY addons.accesskey             "ส">
-<!ENTITY addons.commandkey            "a">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "นักพัฒนาเว็บ">
 <!ENTITY webDeveloperMenu.accesskey   "พ">
 
 <!ENTITY inspectContextMenu.label     "ตรวจดูส่วนประกอบ">
-<!ENTITY inspectContextMenu.accesskey "ป">
+<!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY fileMenu.label         "ไฟล์"> 
 <!ENTITY fileMenu.accesskey       "ฟ">
@@ -267,8 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "หน้าต่างใหม่">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ม">
-<!ENTITY newPrivateWindow.label     "หน้าต่างท่องเว็บแบบส่วนตัวใหม่">
-<!ENTITY newPrivateWindow.accesskey "น">
+<!ENTITY newPrivateWindow.label     "หน้าต่างส่วนตัวใหม่">
+<!ENTITY newPrivateWindow.accesskey "ห">
 <!ENTITY newNonRemoteWindow.label   "หน้าต่าง Non-e10s ใหม่">
 
 <!ENTITY editMenu.label         "แก้ไข"> 
@@ -296,8 +297,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.accesskey       "ท"> 
 <!ENTITY preferencesCmd2.label       "ตัวเลือก">
 <!ENTITY preferencesCmd2.accesskey     "ล">
-<!ENTITY preferencesCmdUnix.label       "ปรับแต่ง">
-<!ENTITY preferencesCmdUnix.accesskey     "ต"> 
+<!ENTITY preferencesCmdUnix.label       "การตั้งค่า">
+<!ENTITY preferencesCmdUnix.accesskey     "ค"> 
 
 <!ENTITY clearRecentHistory.label               "ล้างประวัติเมื่อเร็ว ๆ นี้…">
 
@@ -367,8 +368,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "อ">
 <!ENTITY customizeMenu.removeFromMenu.label "เอาออกจากเมนู">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "จ">
-<!ENTITY customizeMenu.addMoreItems.label "เพิ่มรายการ…">
-<!ENTITY customizeMenu.addMoreItems.accesskey "พ">
+<!ENTITY customizeMenu.addMoreItems.label "เพิ่มรายการเพิ่มเติม…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "เ">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ค้นหาหรือป้อนที่อยู่">
@@ -416,7 +417,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-<!ENTITY searchFor.label              "ค้นหา ">
+<!ENTITY searchFor.label              "ค้นหาสำหรับ ">
 <!ENTITY searchWith.label             " กับ:">
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -447,7 +448,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "ท">
 <!ENTITY openLinkCmd.label            "เปิดลิงก์ในหน้าต่างใหม่">
 <!ENTITY openLinkCmd.accesskey        "น">
-<!ENTITY openLinkInPrivateWindowCmd.label "เปิดลิงก์ในหน้าต่างท่องเว็บแบบส่วนตัวใหม่">
+<!ENTITY openLinkInPrivateWindowCmd.label "เปิดลิงก์ในหน้าต่างส่วนตัวใหม่">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "น">
 <!ENTITY openLinkCmdInCurrent.label     "เปิดลิงก์">
 <!ENTITY openLinkCmdInCurrent.accesskey "ล">
@@ -455,28 +456,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ท">
 <!ENTITY openFrameCmd.label           "เปิดกรอบในหน้าต่างใหม่">
 <!ENTITY openFrameCmd.accesskey       "น">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "เปิดลิงก์ในแท็บคอนเทนเนอร์ใหม่">
+<!ENTITY openLinkCmdInContainerTab.accesskey "ค">
 <!ENTITY showOnlyThisFrameCmd.label     "แสดงเฉพาะกรอบนี้">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ส">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "เรียกกรอบใหม่">
-<!ENTITY reloadFrameCmd.accesskey     "ร">
-<!ENTITY viewPartialSourceForSelectionCmd.label "ดูโค้ดที่เลือก">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "ดูโค้ด MathML">
+<!ENTITY reloadFrameCmd.label         "โหลดกรอบใหม่">
+<!ENTITY reloadFrameCmd.accesskey     "ห">
+<!ENTITY viewPartialSourceForSelectionCmd.label "ดูต้นฉบับที่เลือก">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "ดูต้นฉบับ MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "ก">
-<!ENTITY viewPageSourceCmd.label      "ดูซอร์สโค้ด">
-<!ENTITY viewPageSourceCmd.accesskey  "ซ">
-<!ENTITY viewFrameSourceCmd.label     "ดูต้นฉบับเอกสารของกรอบ">
-<!ENTITY viewFrameSourceCmd.accesskey "ก">
-<!ENTITY viewPageInfoCmd.label        "ดูข้อมูลหน้าเว็บ">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "ดูต้นฉบับหน้า">
+<!ENTITY viewPageSourceCmd.accesskey  "ด">
+<!ENTITY viewFrameSourceCmd.label     "ดูต้นฉบับกรอบ">
+<!ENTITY viewFrameSourceCmd.accesskey "ด">
+<!ENTITY viewPageInfoCmd.label        "ดูข้อมูลหน้า">
 <!ENTITY viewPageInfoCmd.accesskey    "ข">
 <!ENTITY viewFrameInfoCmd.label       "ดูข้อมูลกรอบ">
 <!ENTITY viewFrameInfoCmd.accesskey   "ข">
-<!ENTITY reloadImageCmd.label         "เรียกดูภาพใหม่">
-<!ENTITY reloadImageCmd.accesskey     "ร">
+<!ENTITY reloadImageCmd.label         "โหลดภาพใหม่">
+<!ENTITY reloadImageCmd.accesskey     "ห">
 <!ENTITY viewImageCmd.label           "ดูภาพ">
 <!ENTITY viewImageCmd.accesskey       "ภ">
 <!ENTITY viewImageInfoCmd.label       "ดูข้อมูลภาพ">
@@ -489,7 +490,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "พ">
 <!ENTITY setDesktopBackgroundCmd.label      "ตั้งเป็นภาพพื้นหลัง…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ต">
-<!ENTITY bookmarkPageCmd2.label       "คั่นหน้าเว็บนี้">
+<!ENTITY bookmarkPageCmd2.label       "คั่นหน้านี้">
 <!ENTITY bookmarkThisLinkCmd.label      "คั่นลิงก์นี้">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ล">
 <!ENTITY bookmarkThisFrameCmd.label      "คั่นกรอบนี้">
@@ -499,7 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "บันทึกหน้าเป็น…">
 <!ENTITY savePageCmd.accesskey        "ป">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "น">
+<!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "บันทึกกรอบเป็น…">
 <!ENTITY saveFrameCmd.accesskey       "ก">
@@ -507,14 +508,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "พ">
 <!ENTITY saveLinkCmd.label            "บันทึกลิงก์เป็น…">
 <!ENTITY saveLinkCmd.accesskey        "ล">
-<!ENTITY saveImageCmd.label           "บันทึกรูปเป็น…">
+<!ENTITY saveImageCmd.label           "บันทึกภาพเป็น…">
 <!ENTITY saveImageCmd.accesskey       "ท">
 <!ENTITY saveVideoCmd.label           "บันทึกวิดีโอเป็น…">
 <!ENTITY saveVideoCmd.accesskey       "ป">
 <!ENTITY saveAudioCmd.label           "บันทึกเสียงเป็น…">
 <!ENTITY saveAudioCmd.accesskey       "ป">
-<!ENTITY emailImageCmd.label          "อีเมลรูป…">
-<!ENTITY emailImageCmd.accesskey      "อ">
+<!ENTITY emailImageCmd.label          "อีเมลภาพ…">
+<!ENTITY emailImageCmd.accesskey      "พ">
 <!ENTITY emailVideoCmd.label          "อีเมลวิดีโอ…">
 <!ENTITY emailVideoCmd.accesskey      "อ">
 <!ENTITY castVideoCmd.label           "ส่งวิดีโอไปยังอุปกรณ์">
