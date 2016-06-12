@@ -557,20 +557,21 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "S">
 
 
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate050x2.label "Sakte (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "Normal">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Fort (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "Fortare (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "o">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Latterleg høg (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "Lykkje">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -679,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Trygt samband">
 <!ENTITY identity.connectionNotSecure "Sambandet er ikkje trygt">
 <!ENTITY identity.connectionFile "Denne sida er lagra på datamaskina di.">
-
+<!ENTITY identity.connectionVerified2 "Du er trygt kopla til denne sida, eigd av:">
 <!ENTITY identity.connectionInternal "Dette er ei trygg &brandShortName;-side.">
 <!ENTITY identity.insecureLoginForms2 "Innloggingsinfo skrive inn på denne sida kan lesast av tredjepart.">
 <!-- Strings for connection state warnings. -->
