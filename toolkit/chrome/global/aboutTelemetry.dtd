@@ -27,6 +27,7 @@
 <!ENTITY aboutTelemetry.slowSqlSection "Istruzioni SQL lente">
 <!ENTITY aboutTelemetry.chromeHangsSection "Blocchi del browser">
 <!ENTITY aboutTelemetry.threadHangStatsSection "Blocchi dei thread">
+<!ENTITY aboutTelemetry.scalarsSection "Scalari">
 <!ENTITY aboutTelemetry.histogramsSection "Istogrammi">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Istogrammi con chiave">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Misurazioni semplici">
