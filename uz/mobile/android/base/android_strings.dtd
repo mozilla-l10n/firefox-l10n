@@ -18,9 +18,10 @@
 <!ENTITY firstrun_signin_message "Ulaning va boshlang">
 <!ENTITY firstrun_signin_button "Sinxronlash uchun tizimga kirish">
 <!ENTITY  onboard_start_button_browser "Ko‘rishni boshlash">
-
+<!ENTITY firstrun_button_notnow "Hozir emas">
 <!ENTITY firstrun_button_next "Keyingi">
 
+<!ENTITY firstrun_tabqueue_title "Havolalar">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
 
