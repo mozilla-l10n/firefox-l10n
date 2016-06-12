@@ -807,8 +807,8 @@
 
 
 
-
-
+<!ENTITY copyImageAllCmd.label "Şəkli Köçür">
+<!ENTITY copyImageAllCmd.accesskey "i">
 <!ENTITY copyEmailCmd.label "E-poçt ünvanını köçür">
 <!ENTITY copyEmailCmd.accesskey "E">
 
