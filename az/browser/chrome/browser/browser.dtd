@@ -527,13 +527,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.accesskey      "g">
 <!ENTITY copyLinkCmd.label            "Keçid ünvanını köçür">
 <!ENTITY copyLinkCmd.accesskey        "K">
-<!ENTITY copyImageCmd.label           "Şəkil ünvanını kopyala">
+<!ENTITY copyImageCmd.label           "Şəkil Ünvanını Köçür">
 <!ENTITY copyImageCmd.accesskey       "k">
 <!ENTITY copyImageContentsCmd.label   "Şəkili kopyala">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY copyVideoURLCmd.label        "Videonun ünvanını kopyala">
+<!ENTITY copyVideoURLCmd.label        "Video Ünvanını Köçür">
 <!ENTITY copyVideoURLCmd.accesskey    "V">
-<!ENTITY copyAudioURLCmd.label        "Səsin ünvanını kopyala">
+<!ENTITY copyAudioURLCmd.label        "Səs Ünvanını Köçür">
 <!ENTITY copyAudioURLCmd.accesskey    "S">
 <!ENTITY copyEmailCmd.label           "E-poçt ünvanını köçür">
 <!ENTITY copyEmailCmd.accesskey       "E">
