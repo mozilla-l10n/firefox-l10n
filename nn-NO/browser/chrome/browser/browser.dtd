@@ -181,7 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Høgreklikk eller trekk ned for å visa historikk">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trekk ned for å visa historikk">
 <!ENTITY reloadCmd.label              "Oppdater">
-<!ENTITY reloadButton.tooltip         "Vis nyaste innhald i aktiv side">
+<!ENTITY reloadButton.tooltip         "Oppdater sida">
 <!ENTITY stopCmd.label                "Stopp">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Stopp lasting av denne sida">
