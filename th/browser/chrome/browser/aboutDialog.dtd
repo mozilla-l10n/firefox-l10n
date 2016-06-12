@@ -33,7 +33,7 @@
 <!ENTITY community.start2           "&brandShortName; ออกแบบโดย ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          " คือ">
+<!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "ชุมชนระดับโลก">
 <!ENTITY community.end3             "ที่ทำงานร่วมกันเพื่อทำให้อินเทอร์เน็ตเป็นพื้นที่เสรี เป็นของสาธารณะและทุกคนจะต้องเข้าถึงได้โดยไร้ข้อจำกัด">

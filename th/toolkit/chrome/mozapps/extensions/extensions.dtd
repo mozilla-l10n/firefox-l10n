@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "เอาออก">
 <!ENTITY cmd.uninstallAddon.accesskey         "อ">
 <!ENTITY cmd.showPreferencesWin.label         "ตัวเลือก">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "เปลี่ยนตัวเลือกของส่วนเสริมนี้">
 <!ENTITY cmd.showPreferencesUnix.label        "การตั้งค่า">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "เปลี่ยนการตั้งค่าของส่วนเสริมนี้">
 <!ENTITY cmd.contribute.label                 "เข้าร่วม">
 <!ENTITY cmd.contribute.accesskey             "ม">
 <!ENTITY cmd.contribute.tooltip               "เข้าร่วมพัฒนาส่วนเสริมนี้">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "การปรับรุ่นอัตโนมัติ">
 <!ENTITY detail.updateDefault.label           "ปริยาย">
-
+<!ENTITY detail.updateDefault.tooltip         "ติดตั้งการปรับปรุงโดยอัตโนมัติเฉพาะเมื่อเป็นค่าปริยาย">
 <!ENTITY detail.updateAutomatic.label         "เปิด">
 <!ENTITY detail.updateAutomatic.tooltip       "ติดตั้งการปรับรุ่นโดยอัตโนมัติ">
 <!ENTITY detail.updateManual.label            "ปิด">
-
+<!ENTITY detail.updateManual.tooltip          "ไม่ติดตั้งการปรับปรุงโดยอัตโนมัติ">
 <!ENTITY detail.home                          "หน้าแรก">
 <!ENTITY detail.repository                    "โพรไฟล์ส่วนเสริม">
 <!ENTITY detail.size                          "ขนาด">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "ตรวจสอบการปรับรุ่นของส่วนเสริมนี้">
 <!ENTITY detail.showPreferencesWin.label      "ตัวเลือก">
 <!ENTITY detail.showPreferencesWin.accesskey  "ล">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "เปลี่ยนตัวเลือกของส่วนเสริมนี้">
 <!ENTITY detail.showPreferencesUnix.label     "การตั้งค่า">
 <!ENTITY detail.showPreferencesUnix.accesskey "ก">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "เปลี่ยนการตั้งค่าของส่วนเสริมนี้">
 <!-- ratings -->
 
 
