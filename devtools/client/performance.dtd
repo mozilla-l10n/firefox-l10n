@@ -62,8 +62,10 @@
 <!ENTITY performanceUI.table.totalDuration            "זמן כולל">
 <!ENTITY performanceUI.table.totalPercentage          "עלות כוללת">
 <!ENTITY performanceUI.table.selfPercentage           "עלות עצמית">
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "אחוז הזמן שנוצל לטובת הפונקציה הזו.">
 <!ENTITY performanceUI.table.samples                  "דגימות">
 <!ENTITY performanceUI.table.function                 "פונקציה">
+<!ENTITY performanceUI.table.function.tooltip         "השם והמיקום המקורי של הפונקציה שנדגמה.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
