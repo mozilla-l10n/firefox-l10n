@@ -156,6 +156,7 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.pagetitle1  "חיבור בלתי מאובטח">
 <!ENTITY certerror.copyToClipboard.label "העתקת טקסט ללוח">
 
 <!ENTITY inadequateSecurityError.title "החיבור שלך אינו בטוח">

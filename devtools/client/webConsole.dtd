@@ -81,3 +81,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+<!ENTITY openInVarViewCmd.label "פתיחה בתצוגת משתנים">
+<!ENTITY storeAsGlobalVar.label "אחסון כמשתנה גלובלי">

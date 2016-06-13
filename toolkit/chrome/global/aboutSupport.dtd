@@ -89,6 +89,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "גרפיקה">
 
 <!ENTITY aboutSupport.placeDatabaseTitle "מסד נתוני מיקום">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "תקינות">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "וידוא תקינות">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "איסוף זבל מצטבר">
