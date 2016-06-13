@@ -8,7 +8,7 @@
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "Dit kin jo garânsje ûnnut meitsje!">
 <!ENTITY aboutWarningText.label "Fia dizze konfiguraasjeside kinne jo wiidweide foarkarren oanpasse dy't dizze applikaasje bestjoere. It is mooglik dat jo skaadlike neveneffekten feroarsaakje troch de weardes fan dizze foarkarren te feroarjen. Jo moatte allinnich trochgean as jo witte wat jo dogge of as jo de oanwizings folgje fan in betrouber advies.">
-<!ENTITY aboutWarningButton.label "Ik sil foarsichtich wêze, dat ûnthjit ik!">
+<!ENTITY aboutWarningButton2.label "Ik akseptearje it risiko!">
 <!ENTITY aboutWarningCheckbox.label "Lit dizze warskôging de folgjende kear wer sjen">
 
 <!ENTITY searchPrefs.label "Sykje:">
@@ -38,7 +38,7 @@
 <!ENTITY modify.accesskey "O">
 <!ENTITY toggle.label "Omskeakelje">
 <!ENTITY toggle.accesskey "s">
-<!ENTITY reset.label "Op 'e nij inisjalisearje">
+<!ENTITY reset.label "Opnij inisjalisearje">
 <!ENTITY reset.accesskey "i">
 <!ENTITY new.label "Nij">
 <!ENTITY new.accesskey "N">

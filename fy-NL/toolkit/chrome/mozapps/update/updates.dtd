@@ -28,26 +28,10 @@
                                            Jo sille dit berjocht net wer sjen, mar it kin wol">
 <!ENTITY  unsupportedLink.label           "lês mear.">
 
-<!ENTITY  incompatibleCheck.title         "Kontrolearret tafoegingen kompatibiliteit">
-<!ENTITY  incompatibleCheck.label         "Sykje nei nijere ferzjes fan jo add-ons…">
-
 <!ENTITY  clickHere.label                 "Besjoch mear ynformaasje oer dizze fernijing">
 
-<!ENTITY  evangelism.desc	              "It wurdt oanrêt dizze fernijing foar &brandShortName; sa fluch 
+<!ENTITY  evangelism.desc	                "It wurdt oanrêt dizze fernijing foar &brandShortName; sa fluch 
                                            as mooglik ta te passen.">
-
-<!ENTITY  license.instructions            "As jo akkoard geane mei de betingsten fan dizze oerienkomst, klik dan hjirûnder 
-                                           op Ik gean akkoard om troch te gean mei de ynstallaasje fan dizze fernijing.">
-
-<!ENTITY  license.titleText               "Lisinsjeoerienkomst">
-<!ENTITY  license.introText               "Betingsten en kondysjes foar it gebrûk fan dit programma.">
-<!ENTITY  license.instructionText         "Lês asjobleaft de folgjende lisinsje-oerienkomst troch. Brûk de skowbalke om de rest fan dizze oerienkomst te besjen.">
-<!ENTITY  license.accept                  "Ik akseptear de betingsten fan de lisinsje-oerienkomst">
-<!ENTITY  license.accept.accesskey        "k">
-<!ENTITY  license.decline                 "Ik akseptearje de betingsten fan de lisinsjeoerienkomst NET">
-<!ENTITY  license.decline.accesskey       "N">
-
-<!ENTITY  incompatibleList.title          "Ynkompatibele add-ons fûn">
 
 <!ENTITY  downloadPage.title              "&brandShortName; wurdt ynladen">
 <!ENTITY  downloading.intro               "Fernijing ynlade…">
@@ -88,10 +72,6 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "De fernijing sil ynstallearre wurde as &brandShortName; de folgjende kear start. Jo
                                            kinne no &brandShortName; opnij starte, of fierder gean en letter opnij starte.">
-
-<!ENTITY  installed.title                 "Fernijing ynstallearre">
-<!ENTITY  installed.intro                 "De fernijing is súksesfol ynstallearre.">
-<!ENTITY  whatsnew.label                  "Lês mear oer wat der nij is…">
 
 <!ENTITY  update.details.label            "Details">
 <!ENTITY  update.installedOn.label        "Ynstallearre op:">
