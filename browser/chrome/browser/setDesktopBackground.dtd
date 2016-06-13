@@ -12,3 +12,4 @@
 <!ENTITY color.label                "Χρώμα:">
 <!ENTITY setDesktopBackground.title "Ορισμός ταπετσαρίας">
 <!ENTITY openDesktopPrefs.label     "Άνοιγμα προτιμήσεων επιφάνειας εργασίας">
+<!ENTITY closeWindow.key            "w">
