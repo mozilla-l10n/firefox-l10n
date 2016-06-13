@@ -9,6 +9,7 @@
 <!ENTITY search_bar_hint 'חיפוש עם &formatS;'>
 
 <!ENTITY search_empty_title2 'התחל בחיפוש'>
+<!ENTITY search_empty_message 'חיפוש זריז אחר כל דבר שבא לך'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
