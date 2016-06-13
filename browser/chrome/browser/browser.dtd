@@ -446,8 +446,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Deschide linkul">
 <!ENTITY openLinkCmdInCurrent.accesskey "i">
-<!ENTITY openFrameCmdInTab.label      "Deschide cadrul în filă nouă">
-<!ENTITY openFrameCmdInTab.accesskey  "f">
+<!ENTITY openFrameCmdInTab.label      "Deschide cadrul într-o filă nouă">
+<!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Deschide cadrul într-o fereastră nouă">
 <!ENTITY openFrameCmd.accesskey       "D">
 

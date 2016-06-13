@@ -352,7 +352,7 @@
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
 
-<!ENTITY netmonitorUI.context.newTab      "Deschide în filă nouă">
+<!ENTITY netmonitorUI.context.newTab      "Deschide într-o filă nouă">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container -->

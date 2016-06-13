@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabCrashed.header "Mai întâi veștile rele: Această filă s-a închis neașteptat">
-<!ENTITY tabCrashed.message "Acum pentru veștile bune: Puteți închide doar această filă, să o restaurați sau să restaurați toate filele care s-au închis neașteptat.">
+<!ENTITY tabCrashed.message "Acum pentru veștile bune: Poți închide pur și simplu această filă, să o restaurezi sau să restaurezi toate filele care s-au închis neașteptat.">
 <!ENTITY tabCrashed.sendReport "Trimiteți un raport de defecțiuni pentru a ajuta la prevenirea mai multor vești proaste">
 <!ENTITY tabCrashed.includeURL "Include adresa paginii pe care eram">
 <!ENTITY tabCrashed.commentPlaceholder "Adăugați un comentariu (comentariile sunt vizibile publicului)">
