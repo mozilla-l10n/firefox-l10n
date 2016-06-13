@@ -28,7 +28,10 @@
 <!ENTITY searchTextBox.clear.label "Εκκαθάριση">
 
 <!ENTITY fillLoginMenu.label          "Συμπλήρωση λογαριασμού">
+<!ENTITY fillLoginMenu.accesskey      "ι">
 <!ENTITY fillPasswordMenu.label       "Συμπλήρωση κωδικού">
+<!ENTITY fillPasswordMenu.accesskey   "υ">
 <!ENTITY fillUsernameMenu.label       "Συμπλήρωση ονόματος χρήστη">
+<!ENTITY fillUsernameMenu.accesskey   "ο">
 <!ENTITY noLoginSuggestions.label     "(δεν υπάρχουν προτεινόμενοι λογαριασμοί)">
 <!ENTITY viewSavedLogins.label        "Προβολή λογαριασμών">

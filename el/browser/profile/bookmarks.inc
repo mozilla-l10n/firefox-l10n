@@ -19,6 +19,7 @@
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
+#define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
