@@ -193,7 +193,7 @@
 <!ENTITY pref_content_notifications_summary2 "גילוי תוכן חדש מאתרים נתמכים">
 <!ENTITY pref_developer_remotedebugging_usb "ניפוי שגיאות מרחוק דרך USB">
 <!ENTITY pref_developer_remotedebugging_wifi "ניפוי שגיאות מרחוק דרך Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ניפוי שגיאות דרך רשת אלחוטית דורש שבהתקנך יותקן יישומון לקריאת קודים מסוג QR.">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ניפוי שגיאות דרך רשת אלחוטית דורש שבהתקן שלך יותקן יישומון לקריאת קודים מסוג QR.">
 <!ENTITY pref_remember_signons2 "שמירת כניסות">
 <!ENTITY pref_manage_logins "ניהול כניסות">
 
@@ -612,7 +612,7 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "חיבור מאובטח">
-<!ENTITY identity_connection_insecure "חיבור בלתי מאובטח">
+<!ENTITY identity_connection_insecure "חיבור לא מאובטח">
 <!ENTITY identity_login_insecure "עמוד זה אינו מאובטח ויתכן כי פרטי הגישה שלך חשופים.">
 <!ENTITY identity_connection_chromeui "דף זה הנו דף מאובטח של &brandShortName;">
 
@@ -620,7 +620,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; חסם תוכן שאינו מאובטח בדף זה.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; חסם חלק מהתוכן שאינו מאובטח בדף זה.">
 <!ENTITY mixed_content_display_loaded1 "חלקים מדף זה אינם מאובטחים (כגון תמונות).">
-<!ENTITY mixed_content_protection_disabled1 "ניטרלת את ההגנה מפני תוכן בלתי מאובטח.">
+<!ENTITY mixed_content_protection_disabled1 "נטרלת את ההגנה מפני תוכן לא מאובטח.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "הגנת מעקב">
@@ -731,7 +731,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-<!ENTITY intent_uri_private_browsing_prompt "קישור זה ייפתח עם &formatS;. לצאת ממצב גלישה פרטית?">
+<!ENTITY intent_uri_private_browsing_prompt "קישור זה ייפתח עם &formatS;. האם לצאת ממצב גלישה פרטית?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -739,7 +739,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
-<!ENTITY intent_uri_private_browsing_multiple_match_title "לצאת מגלישה פרטית?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "האם לצאת מגלישה פרטית?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -758,7 +758,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history_description "מאפשר לבני משפחה למחוק מידע על אתרים ודפים שהם ביקרו.">
 <!ENTITY restrictable_feature_advanced_settings "הגדרות מתקדמות">
 <!ENTITY restrictable_feature_camera_microphone "מצלמה ומיקרופון">
-<!ENTITY restrictable_feature_camera_microphone_description "מאפשר לבני משפחה לתקשר בזמן אמת בזמן גלישה באתרים.">
+<!ENTITY restrictable_feature_camera_microphone_description "מאפשר לבני משפחה לתקשר בזמן אמת בעת גלישה באתרים.">
 <!ENTITY restrictable_feature_block_list_description "חסימת אתרים המכילים תוכן רגיש.">
 
 <!-- Default Bookmarks titles-->
