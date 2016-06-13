@@ -50,6 +50,7 @@
 <!ENTITY btnServerErrors              "שגיאות">
 <!ENTITY btnServerInfo                "מידע">
 <!ENTITY btnServerWarnings            "אזהרות">
+<!ENTITY btnServerLog                 "רישום">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
