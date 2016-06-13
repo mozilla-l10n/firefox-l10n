@@ -4,20 +4,27 @@
 
 <!ENTITY  trackingProtectionHeader.label       "שימוש בהגנת מעקב">
 <!ENTITY  trackingProtectionAlways.label       "תמיד">
+<!ENTITY  trackingProtectionAlways.accesskey   "ת">
 <!ENTITY  trackingProtectionPrivate.label      "רק בחלונות פרטיים">
+<!ENTITY  trackingProtectionPrivate.accesskey  "ר">
 <!ENTITY  trackingProtectionNever.label        "לעולם לא">
+<!ENTITY  trackingProtectionNever.accesskey    "ל">
 <!ENTITY  trackingProtectionLearnMore.label    "מידע נוסף">
 <!ENTITY  trackingProtectionExceptions.label   "חריגות…">
+<!ENTITY  trackingProtectionExceptions.accesskey "ח">
 
 <!ENTITY tracking.label                 "מעקב">
 <!ENTITY trackingProtectionPBM5.label         "שימוש בהגנת מעקב בחלונות פרטיים">
+<!ENTITY trackingProtectionPBM5.accesskey     "ה">
 <!ENTITY trackingProtectionPBMLearnMore.label "מידע נוסף">
 <!ENTITY changeBlockList.label          "שינוי רשימת חסימות">
+<!ENTITY changeBlockList.accesskey      "ש">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 <!ENTITY  doNotTrack.pre.label          "ניתן גם ">
 <!ENTITY  doNotTrack.settings.label     "לנהל את הגדרות ה־Do Not Track האישיות">
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "היסטוריה">
 
@@ -30,8 +37,11 @@
 <!ENTITY  locbar.bookmarks.accesskey    "ס">
 <!ENTITY  locbar.openpage.label         "לשוניות פתוחות">
 <!ENTITY  locbar.openpage.accesskey     "ל">
+<!ENTITY  locbar.searches.label         "חיפושים קשורים ממנוע חיפוש בררת המחדל">
+<!ENTITY  locbar.searches.accesskey     "ק">
 
 <!ENTITY  suggestionSettings.label      "שינוי העדפות של הצעות מנועי חיפוש…">
+<!ENTITY  suggestionSettings.accesskey  "צ">
 
 <!ENTITY  acceptCookies.label           "קבלת עוגיות מאתרים">
 <!ENTITY  acceptCookies.accesskey       "ק">

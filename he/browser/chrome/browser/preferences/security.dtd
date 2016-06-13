@@ -12,9 +12,13 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 <!ENTITY  enableSafeBrowsing.label        "חסימת תוכן מסוכן ומטעה">
+<!ENTITY  enableSafeBrowsing.accesskey    "ת">
 
 <!ENTITY  blockDownloads.label            "חסימת הורדות מסוכנות">
+<!ENTITY  blockDownloads.accesskey        "ה">
 
+<!ENTITY  blockUncommonUnwanted.label     "הזהר אותי מפני תוכנות לא רצויות ותוכנות לא נפוצות">
+<!ENTITY  blockUncommonUnwanted.accesskey "ל">
 
 <!ENTITY  addonExceptions.label         "חריגות…">
 <!ENTITY  addonExceptions.accesskey     "ח">

@@ -154,6 +154,8 @@
 <!-- Device Settings -->
 <!ENTITY devicesetting_title "הגדרות התקן">
 <!ENTITY devicesetting_search "הגדרות חיפוש">
+<!ENTITY devicesetting_newname "שם ההגדרה החדשה">
+<!ENTITY devicesetting_newtext "ערך ההגדרה">
 <!ENTITY devicesetting_addnew "הוספת הגדרה חדשה">
 
 <!-- Monitor -->

@@ -165,8 +165,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "הרשמה לדף זה…">
 <!ENTITY addCurPagesCmd.label "יצירת סימנייה לכל הלשוניות…">
 <!ENTITY showAllBookmarks2.label "הצגת כל הסימניות">
+<!ENTITY recentBookmarks.label "סימניות שנוספו לאחרונה">
 <!ENTITY otherBookmarksCmd.label "סימניות אחרות">
 <!ENTITY bookmarksToolbarChevron.tooltip "הצגת סימניות נוספות">
+<!ENTITY showRecentlyBookmarked.label     "הצגת סימניות שנוספו לאחרונה">
+<!ENTITY hideRecentlyBookmarked.label     "הסתרת סימניות שנוספו לאחרונה">
 
 <!ENTITY backCmd.label                "אחורה">
 <!ENTITY backButton.tooltip           "חזרה דף אחד אחורה">
