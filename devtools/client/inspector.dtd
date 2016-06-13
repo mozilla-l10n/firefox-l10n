@@ -81,6 +81,7 @@
 <!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users edit attribute
      for current node -->
+<!ENTITY inspectorEditAttribute.label        "עריכת מאפיין">
 
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
@@ -116,6 +117,7 @@
 <!-- LOCALIZATION NOTE (inspectorCollapseNode.label): This is the label
      shown in the inspector contextual-menu for recursively collapsing
      mark-up elements -->
+<!ENTITY inspectorCollapseNode.label       "צמצום">
 
 <!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
      shown in the inspector contextual-menu for the item that lets users take
@@ -147,3 +149,4 @@
      - After
      - As First Child
      - As Last Child -->
+<!ENTITY inspectorPasteHTMLSubmenu.label      "הדבקה">

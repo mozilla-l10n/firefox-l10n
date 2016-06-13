@@ -6,6 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "האם לשחזר את הגדרות החיפוש שלך?">
 
+<!ENTITY searchreset.pageInfo1      "יתכן שהגדרות החיפוש שלך אינן עדכניות. &brandShortName; יוכל לעזור לך בשחזור להגדרות חיפוש בררת המחדל.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
@@ -17,9 +18,13 @@ searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
+<!ENTITY searchreset.beforelink.pageInfo2 "ניתן לשנות את הגדרות אלו בכל עת מ">
+<!ENTITY searchreset.afterlink.pageInfo2  ".">
 
 <!ENTITY searchreset.link.pageInfo2       "עמוד הגדרות">
 
 <!ENTITY searchreset.noChangeButton        "לא לשנות">
+<!ENTITY searchreset.noChangeButton.access "ל">
 
 <!ENTITY searchreset.changeEngineButton        "שינוי מנוע חיפוש">
+<!ENTITY searchreset.changeEngineButton.access "ש">

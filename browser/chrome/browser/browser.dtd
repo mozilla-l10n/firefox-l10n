@@ -333,6 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "אין לשוניות מסונכרנות… בינתיים!">
 <!ENTITY appMenuRemoteTabs.openprefs.label "העדפות Sync">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "יש להיכנס כדי לצפות ברשימת הלשוניות שלך מהתקנים אחרים.">
 <!ENTITY appMenuRemoteTabs.signin.label "התחברות אל Sync">
 
 <!ENTITY customizeMenu.addToToolbar.label "הוספה לסרגל כלים">
@@ -661,6 +662,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "חיבור מאובטח">
 <!ENTITY identity.connectionNotSecure "חיבור זה אינו מאובטח">
 <!ENTITY identity.connectionFile "העמוד הזה מאוחסן במחשב שלך.">
+<!ENTITY identity.connectionVerified2 "התחברת לאתר זה באופן מאובטח, בבעלות:">
 <!ENTITY identity.connectionInternal "דף זה הנו דף מאובטח של &brandShortName;.">
 
 <!-- Strings for connection state warnings. -->
@@ -702,6 +704,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "לשוניות מסונכרנות">
 
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "יש להיכנס כדי לצפות ברשימת הלשוניות שלך מהתקנים אחרים.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "אין לשוניות פתוחות">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "פתיחת ההעדפות של &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
