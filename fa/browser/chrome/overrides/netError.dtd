@@ -110,8 +110,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.pagetitle1  "ارتباط نا امن">
+<!ENTITY certerror.wrongSystemTime "<p>اتصال امن به <span id='wrongSystemTime_URL'/> به دلیل اینکه بنظر می‌رسد ساعت شما زمان اشتباهی را نشان می‌دهد، امکان‌پذیر نیست.</p> <p>رایانه شما فکر می‌کند الان <span id='wrongSystemTime_systemDate'/> است، در حالی که باید <span id='wrongSystemTime_actualDate'/> باشد. برای اصلاح، تنظیمات تاریخ و ساعت خود را تغییر دهید تا مطابق زمان صحیح باشد.</p>">
 
+<!ENTITY certerror.pagetitle1  "ارتباط نا امن">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "این پایگاه از HTTP Strict Transport Security (HSTS) برای نشان دادن اینکه &brandShortName; تنها می‌تواند بصورت امن به آن متصل شود، استفاده می‌کند. در نتیجه، امکان اضافه کردن استثنا برای این گواهی‌نامه وجود ندارد.">
 <!ENTITY certerror.copyToClipboard.label "رونوشت متن به کلیپ بورد">
 
 <!ENTITY inadequateSecurityError.title "اتصال شما امن نیست">
@@ -119,4 +121,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> استفاده از تکنولوژی های امنیتی که تاریخ‌ آن‌ها گذشته است در برابر حملات آسیب پذیراست. و حمله کننده می ‌تواند به راحتی اطلاعاتی که شما تصویر می‌کنید امن است را فاش کند. مدیریت پایگاه وب نیاز دارد تا نخست کارگزار را قبل از بازدید پایگاه وب درست کند.</p><p> کد خطا: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "به نظر می‌رسد تنظیمات امنیتی شبکه شما ممکن است باعث این شده باشند. آیا می‌خواهید که تنظیمات پیش‌فرض دوباره تنظیم شوند؟">
+<!ENTITY prefReset.label "بازگردانی تنظیمات پیش‌فرض">
