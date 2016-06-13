@@ -24,7 +24,7 @@
 <!ENTITY rights.intro-point2-c " te vinden.">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Een aantal onderdelen in &brandShortName;, zoals de Crashreporter, bieden u de mogelijkheid feedback aan &vendorShortName; te leveren. Door het indienen van feedback geeft u &vendorShortName; toestemming om de feedback te gebruiken om zijn producten te verbeteren, de feedback op zijn websites te publiceren en de feedback te verspreiden.">
+<!ENTITY rights.intro-point2.5 "Enkele onderdelen in &brandShortName;, zoals de Crashreporter, bieden u de mogelijkheid feedback aan &vendorShortName; te leveren. Door het indienen van feedback geeft u &vendorShortName; toestemming de feedback te gebruiken om zijn producten te verbeteren, de feedback op zijn websites te publiceren en de feedback te verspreiden.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Hoe we uw persoonlijke gegevens en feedback gebruiken die via &brandShortName; naar &vendorShortName; is verzonden wordt beschreven in het ">
@@ -54,13 +54,13 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; maakt gebruik van webgebaseerde informatiediensten (‘Diensten’) om een aantal functies die met deze binaire versie van &brandShortName; worden meegeleverd onder de onderstaande voorwaarden te gebruiken. Als u de diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de functie of dienst(en) uitschakelen. Instructies over het uitschakelen van een bepaalde functie of dienst kunt u ">
+<!ENTITY rights2.webservices-a "&brandFullName; maakt gebruik van webgebaseerde informatiediensten (‘Diensten’) om een aantal functies die met deze binaire versie van &brandShortName; worden meegeleverd onder de onderstaande voorwaarden te gebruiken. Als u een of meer van de diensten niet wilt gebruiken of de onderstaande voorwaarden niet wilt accepteren, kunt u de functie of dienst(en) uitschakelen. Instructies over het uitschakelen van een bepaalde functie of dienst kunt u ">
 <!ENTITY rights2.webservices-b "hier">
 <!ENTITY rights3.webservices-c " vinden. Andere onderdelen en diensten kunnen worden uitgeschakeld in de voorkeuren van de toepassing.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Veilig surfen: ">
-<!ENTITY rights.safebrowsing-b "Uitschakelen van de functie Veilig surfen wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:">
+<!ENTITY rights.safebrowsing-b "uitschakelen van de functie Veilig surfen wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:">
 <!ENTITY rights.safebrowsing-term1 "Open de toepassingsvoorkeuren">
 <!ENTITY rights.safebrowsing-term2 "Selecteer de sectie Beveiliging">
 <!ENTITY rights2.safebrowsing-term3 "Vink de optie ‘&enableSafeBrowsing.label;’ uit">
@@ -82,7 +82,7 @@
 <!ENTITY rights.webservices-term1-unbranded "Servicevoorwaarden die op dit product van toepassing zijn, dienen hier te worden vermeld.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights2.webservices-term1 "&vendorShortName; en zijn medewerkers, licentiegevers en partners werken aan het verstrekken van de meest nauwkeurige en bijgewerkte Diensten. We kunnen echter niet garanderen dat deze informatie alomvattend en foutvrij is. De dienst Veilig surfen bijvoorbeeld identificeert mogelijk bepaalde riskante websites niet, en bepaalde veilige websites ten onrechte wel. Alle locaties die door de dienst Locatiebewust navigeren van onze serviceproviders worden verkregen zijn enkel schattingen. Noch wij, noch de serviceproviders garanderen de nauwkeurigheid van de gegeven locaties.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; en zijn medewerkers, licentiegevers en partners werken aan het verstrekken van de meest nauwkeurige en bijgewerkte Diensten. We kunnen echter niet garanderen dat deze informatie volledig en foutvrij is. De dienst Veilig surfen bijvoorbeeld identificeert mogelijk bepaalde riskante websites niet, en bepaalde veilige websites ten onrechte wel. Alle locaties die door de dienst Locatiebewust navigeren van onze serviceproviders worden verkregen, zijn enkel schattingen. Noch wij, noch de serviceproviders garanderen de nauwkeurigheid van de gegeven locaties.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; kan de Diensten naar eigen goeddunken discontinueren of wijzigen.">
 <!ENTITY rights2.webservices-term3 "U kunt deze Diensten gebruiken met de bijgeleverde versie van &brandShortName;, en &vendorShortName; geeft u alle benodigde rechten om dit te doen. &vendorShortName; en zijn licentiegevers behouden alle overige rechten in de Diensten. Deze voorwaarden zijn niet bedoeld om enige rechten die zijn verleend onder opensourcelicenties welke van toepassing zijn op &brandShortName; en overeenkomende broncodeversies van &brandShortName; te beperken.">
 <!ENTITY rights.webservices-term4 "De Diensten worden aangeboden zonder enige garantie. &vendorShortName;, zijn medewerkers, licentiegevers en distributeurs wijzen alle uitdrukkelijke of impliciete garanties af, met inbegrip van, maar niet beperkt tot garanties van verhandelbaarheid en geschiktheid van de Diensten voor een bepaald doel. U draagt de volledige verantwoordelijkheid wat betreft het selecteren van de Diensten voor uw doeleinden en wat betreft de kwaliteit en prestaties van de Diensten. Sommige wetgevingen staan uitsluitingen of beperkingen van impliciete garanties niet toe, dus mogelijk is deze disclaimer op u niet van toepassing.">
