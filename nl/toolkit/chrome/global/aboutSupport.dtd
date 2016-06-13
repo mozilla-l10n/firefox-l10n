@@ -56,6 +56,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Useragent">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Geheugengebruik">
+<!ENTITY aboutSupport.appBasicsPerformance "Prestaties">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Geregistreerde Service Workers">
@@ -89,6 +90,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafisch">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Places-database">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integriteit">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Integriteit verifiëren">
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incrementele GC">
 
@@ -114,3 +119,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Foutenlogboek">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Beslissingenlogboek">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Door crashbeveiliging uitgeschakelde functies">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
