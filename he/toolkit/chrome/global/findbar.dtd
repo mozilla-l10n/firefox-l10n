@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
 <!ENTITY next.tooltip "מציאת המופע הבא של הביטוי">
-<!ENTITY previous.tooltip "מציאת מופע קודם של הביטוי">
+<!ENTITY previous.tooltip "מציאת המופע הקודם של הביטוי">
 <!ENTITY findCloseButton.tooltip "סגירת סרגל החיפוש">
 <!ENTITY highlightAll.label "הדגשת הכול">
 <!ENTITY highlightAll.accesskey "ד">
