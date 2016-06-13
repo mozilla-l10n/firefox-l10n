@@ -167,6 +167,7 @@ ser temporal y puede inentarlo nuevamente más tarde.</li>
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que se cargue esta página de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contenido corrupto">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La página que está tratando de ver no puede mostrarse porque se detectó un error en la transmisión de los datos.</p><ul><li>Contacte a los dueños del sitio web para informarles de este problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O puede agregar una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Sáquenme de aquí">
@@ -190,3 +191,4 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.title "La conexión no es segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnología de seguridad que es obsoleta y vulnerable a los ataques. Un atacante podría revelar información que parece segura muy fácilmente. El administrador del sitio web necesitará arreglar el servidor antes de poder visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
