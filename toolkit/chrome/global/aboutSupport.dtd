@@ -91,7 +91,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Grafik">
 
 <!ENTITY aboutSupport.placeDatabaseTitle "Databasen Places">
-<!ENTITY aboutSupport.placeDatabaseIntegrity "integritet">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integritet">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Bekræft integritet">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
