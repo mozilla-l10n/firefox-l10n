@@ -405,7 +405,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "חיפוש עבור ">
+<!ENTITY searchFor.label              "חיפוש אחר ">
 <!ENTITY searchWith.label             " עם:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
