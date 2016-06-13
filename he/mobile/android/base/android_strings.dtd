@@ -337,6 +337,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "א">
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
@@ -403,6 +404,9 @@ size. -->
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "דו״ח הבריאות של &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "משתף נתונים עם &vendorShortName; אודות בריאות הדפדפן ועוזר לך להבין את ביצועי הדפדפן שלך">
+<!ENTITY datareporting_abouthr_title "הצג את דו״ח הבריאות שלי">
+<!ENTITY datareporting_telemetry_summary "משתף מידע על ביצועים, חומרה, שימוש והתאמות אישיות על הדפדפן שלך עם &vendorShortName; כדי לסייע לנו בשיפור &brandShortName;">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; שולח דיווחי קריסות כדי לעזור ל־&vendorShortName; לעשות את הדפדפן שלך יציב יותר ובטוח">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "מדווח הקריסות">
