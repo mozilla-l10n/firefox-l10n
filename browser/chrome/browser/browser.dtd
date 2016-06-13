@@ -560,16 +560,17 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "b">
 <!ENTITY mediaPlaybackRate050x2.label "Motela (0,5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "M">
-
-
+<!ENTITY mediaPlaybackRate100x2.label "Arrunta">
+<!ENTITY mediaPlaybackRate100x2.accesskey "A">
 <!ENTITY mediaPlaybackRate125x2.label "Azkarra (1,25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "A">
+<!ENTITY mediaPlaybackRate125x2.accesskey "z">
 <!ENTITY mediaPlaybackRate150x2.label "Azkarragoa (1,5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "z">
+<!ENTITY mediaPlaybackRate150x2.accesskey "r">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
+<!ENTITY mediaPlaybackRate200x2.label "Abiadura bizia (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "b">
 <!ENTITY mediaLoop.label             "Begizta">
 <!ENTITY mediaLoop.accesskey         "B">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and

@@ -111,7 +111,7 @@ was trying to connect. -->
      please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Konexio ez-segurua">
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Gune honek HTTP Strict Transport Security (HSTS) erabiltzen du &brandShortName; modu seguruan soilik konekta litekeela zehazteko. Ondorioz, ezin da salbuespenik gehitu ziurtagiri honentzat.">
 <!ENTITY certerror.copyToClipboard.label "Kopiatu testua arbelean">
 
 <!ENTITY inadequateSecurityError.title "Zure konexioa ez da segurua">
