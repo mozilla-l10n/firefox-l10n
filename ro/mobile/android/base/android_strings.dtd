@@ -15,15 +15,17 @@
 <!ENTITY firstrun_sync_title "Sincronizare">
 <!ENTITY firstrun_sync_message "&brandShortName;, mereu de partea ta">
 <!ENTITY firstrun_sync_subtext "Sincronizează filele, parolele și mai multe oriunde îl folosești.">
-
-
+<!ENTITY firstrun_signin_message "Conectează-te și începe">
+<!ENTITY firstrun_signin_button "Autentifică-te la Sincronizare">
 <!ENTITY  onboard_start_button_browser "Începe navigarea">
-
+<!ENTITY firstrun_button_notnow "Nu chiar acum">
 <!ENTITY firstrun_button_next "Înainte">
 
+<!ENTITY firstrun_tabqueue_title "Linkuri">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
 
+<!ENTITY firstrun_tabqueue_message_on "Succes!">
 
 
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -432,12 +434,12 @@ size. -->
 <!ENTITY share_image_failed "Nu se poate partaja această imagine">
 <!ENTITY save_as_pdf "Salvează ca PDF">
 <!ENTITY print "Tipărește">
-
-
+<!ENTITY find_in_page "Găsește în pagină">
+<!ENTITY desktop_mode "Cere versiune de desktop">
 <!ENTITY page "Pagină">
 <!ENTITY tools "Unelte">
-
-
+<!ENTITY new_tab "Filă nouă">
+<!ENTITY new_private_tab "Filă privată nouă">
 <!ENTITY close_all_tabs "Închide toate filele">
 <!ENTITY close_private_tabs "Închide filele private">
 <!ENTITY tabs_normal "File">
@@ -447,6 +449,8 @@ size. -->
 <!ENTITY set_image_chooser_title "Setează imaginea ca">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Găsește în pagină">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Următor">
 <!ENTITY find_close "Închide">
@@ -458,8 +462,8 @@ size. -->
 <!ENTITY media_pause "Pauză">
 <!ENTITY media_stop "Oprește">
 
-<!ENTITY contextmenu_open_new_tab "Deschide în filă nouă">
-<!ENTITY contextmenu_open_private_tab "Deschide în filă privată">
+<!ENTITY contextmenu_open_new_tab "Deschide într-o filă nouă">
+<!ENTITY contextmenu_open_private_tab "Deschide într-o filă privată">
 <!ENTITY contextmenu_remove "Elimină">
 <!ENTITY contextmenu_add_to_launcher "Adaugă la ecranul principal">
 <!ENTITY contextmenu_share "Împărtășește">
