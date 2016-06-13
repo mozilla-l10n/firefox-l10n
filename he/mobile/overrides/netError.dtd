@@ -129,6 +129,7 @@
 <!ENTITY cspBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
 
 <!ENTITY corruptedContentErrorv2.title "שגיאת תוכן משובש">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>העמוד המבוקש אינו ניתן לצפייה עקב שגיאה שאותרה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם מנהלי האתר וליידע אותם על תקלה זו.</li></ul>">
 
 <!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
 <!ENTITY securityOverride.getMeOutOfHereButton "תוציא אותי מכאן!">
