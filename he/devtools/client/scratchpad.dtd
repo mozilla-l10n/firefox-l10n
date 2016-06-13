@@ -57,7 +57,7 @@
 
 <!ENTITY wordWrap.label                "גלישת טקסט">
 
-<!ENTITY highlightTrailingSpace.label     "הדגשת הרווחים העוקבים">
+<!ENTITY highlightTrailingSpace.label     "הדגשת רווחים עוקבים">
 
 <!ENTITY largerFont.label             "גופן גדול יותר">
  <!-- + is above this key on many keyboards -->
