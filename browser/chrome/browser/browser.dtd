@@ -736,12 +736,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "បើកការធ្វើសមកាលកម្មផ្ទាំងដើម្បីមើលបញ្ជីនៃផ្ទាំងទាំងឡាយពីឧបករណ៍ផ្សេងទៀតរបស់អ្នក។">
 
 
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.openInNewTab.label               "បើក​ក្នុង​ផ្ទាំង​ថ្មី">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "បើក​ក្នុង​បង្អួច​ថ្មី">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "បើក​ក្នុង​បង្អួចឯក​ជន​ថ្មី">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 
 
 
