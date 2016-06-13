@@ -64,15 +64,15 @@
 <!ENTITY pairDevice.setup.description.label  "Pentru activare, selectează „Asociază un dispozitiv” de pe celălalt dispozitiv.">
 <!ENTITY addDevice.setup.enterCode.label    "Apoi introdu acest cod:">
 <!ENTITY pairDevice.dialog.description.label "Pentru a activa noul dispozitiv, selectează „Configurează Sincronizare” pe celălalt dispozitiv.">
-<!ENTITY addDevice.dialog.enterCode.label   "Introduceți codul furnizat de dispozitiv:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Vă rugăm să încercați încă o dată.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can several minutes and will finish in the background.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "Pentru a vă activa dispozitivul, va trebui să introduceți cheia de recuperare. Vă rugăm să o tipăriți sau să o salvați și să o luați cu dumneavoastră.">
+<!ENTITY addDevice.dialog.enterCode.label   "Introdu codul pe care dispozitivul îl furnizează:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Te rugăm să încerci din nou.">
+<!ENTITY addDevice.dialog.successful.label  "Dispozitivul a fost adăugat cu succes. Sincronizarea inițială poate dura câteva minute și se va încheia în fundal.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Pentru a-ți activa dispozitivul, va trebui să introduci cheia de recuperare. Te rugăm să o tipărești sau să o salvezi și să o iei cu tine.">
 <!ENTITY addDevice.dialog.connected.label   "Dispozitiv conectat">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Autentificare">
-<!ENTITY existingRecoveryKey.description "Puteți obține o copie a cheii de recuperare accesând opțiunile &syncBrand.shortName.label; de pe dispozitiv și selectând „Cheia mea de recuperare” sub „Gestionează contul”.">
+<!ENTITY existingRecoveryKey.description "Poți obține o copie a cheii de recuperare accesând opțiunile &syncBrand.shortName.label; de pe dispozitiv și selectând „Cheia mea de recuperare” sub „Gestionează contul”.">
 <!ENTITY verifying.label              "Se verifică…">
 <!ENTITY resetPassword.label          "Resetează parola">
 <!ENTITY resetSyncKey.label           "Am pierdut celălalt dispozitiv.">
@@ -80,7 +80,7 @@
 
 <!ENTITY setup.optionsPage.title      "Opțiuni de sincronizare">
 <!ENTITY syncDeviceName.label       "Numele dispozitivului:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.accesskey   "v">
 
 <!ENTITY syncMy.label               "Sincronizează">
 <!ENTITY engine.bookmarks.label     "Semne de carte">
@@ -110,4 +110,4 @@
 
 <!ENTITY setup.successPage.title "Configurare finalizată">
 <!ENTITY changeOptions.label "Puteți schimba această preferință selectând opțiunile de mai jos.">
-<!ENTITY continueUsing.label "Puteți folosi &brandShortName; în continuare.">
+<!ENTITY continueUsing.label "Poți folosi &brandShortName; în continuare.">

@@ -13,8 +13,8 @@
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "Deschide URL-ul în filă nouă">
-<!ENTITY openURL.accesskey "R">
+<!ENTITY openURL.label     "Deschide URL-ul într-o filă nouă">
+<!ENTITY openURL.accesskey "t">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output

@@ -211,7 +211,7 @@
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
 
-<!ENTITY debuggerUI.context.newTab           "Deschide în filă nouă">
+<!ENTITY debuggerUI.context.newTab           "Deschide într-o filă nouă">
 <!ENTITY debuggerUI.context.newTab.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
