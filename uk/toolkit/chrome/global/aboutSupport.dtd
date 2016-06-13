@@ -90,6 +90,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Графіка">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "База даних Places">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "Цілісність">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Перевірити цілісність">
 
@@ -119,3 +120,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Журнал рішень">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Можливості, вимкнені захистом від падіння">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Способи обходу">
