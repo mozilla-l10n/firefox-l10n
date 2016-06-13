@@ -71,6 +71,7 @@
 <!ENTITY projectPanel_tabs "לשוניות">
 <!ENTITY runtimePanel_usb "התקני USB">
 <!ENTITY runtimePanel_wifi "התקני Wi-Fi">
+<!ENTITY runtimePanel_other "אחר">
 <!ENTITY runtimePanel_installsimulator "התקנת מדמה">
 <!ENTITY runtimePanel_noadbhelper "התקנת מסייע ADB">
 <!ENTITY runtimePanel_nousbdevice "ההתקן שלך לא מופיע ברשימה?">
@@ -141,14 +142,19 @@
 <!ENTITY runtimedetails_privilegesWarning "(תבוצע הפעלה מחדש להתקן. נדרשת גישת root)">
 
 <!-- Device Preferences and Settings -->
+<!ENTITY device_typestring "מחרוזת">
 <!ENTITY device_typeobject "עצם">
+<!ENTITY device_typenone "בחירת סוג">
 
 <!-- Device Preferences -->
 <!ENTITY devicepreference_title "העדפות התקן">
 <!ENTITY devicepreference_search "העדפות חיפוש">
+<!ENTITY devicepreference_addnew "הוספת העדפה חדשה">
 
 <!-- Device Settings -->
+<!ENTITY devicesetting_title "הגדרות התקן">
 <!ENTITY devicesetting_search "הגדרות חיפוש">
+<!ENTITY devicesetting_addnew "הוספת הגדרה חדשה">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "צג">
@@ -170,4 +176,11 @@
 <!-- Logs panel -->
 
 <!-- Simulator Options -->
+<!ENTITY simulator_reset "שחזור בררות מחדל">
+<!ENTITY simulator_name "שם">
 <!ENTITY simulator_version "גרסה">
+<!ENTITY simulator_profile "פרופיל">
+<!ENTITY simulator_hardware "חומרה">
+<!ENTITY simulator_device "התקן">
+<!ENTITY simulator_pixelRatio "יחס פיקסלים">
+<!ENTITY simulator_tv_data "הדמיית טלוויזיה">

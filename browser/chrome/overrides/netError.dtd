@@ -162,3 +162,4 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY prefReset.label "שחזור הגדרות בררת המחדל">

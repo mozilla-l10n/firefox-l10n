@@ -538,9 +538,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "ש">
 <!ENTITY mediaUnmute.label           "בטל השתקה">
 <!ENTITY mediaUnmute.accesskey       "ש">
+<!ENTITY mediaPlaybackRate2.label     "מהירות נגינה">
+<!ENTITY mediaPlaybackRate050x2.label "אטית (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "א">
+<!ENTITY mediaPlaybackRate100x2.label "רגילה">
+<!ENTITY mediaPlaybackRate100x2.accesskey "ר">
+<!ENTITY mediaPlaybackRate125x2.label "מהירה (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "מ">
+<!ENTITY mediaPlaybackRate150x2.label "מהירה יותר (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "י">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "מטורפת (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "ט">
+<!ENTITY mediaLoop.label             "לולאה">
+<!ENTITY mediaLoop.accesskey         "ל">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -674,6 +687,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "נ">
 <!ENTITY identity.learnMore "מידע נוסף">
 
+<!ENTITY identity.removeCertException.label "הסרת חריגה">
+<!ENTITY identity.removeCertException.accesskey "ס">
 
 <!ENTITY identity.moreInfoLinkText2 "מידע נוסף">
 
@@ -692,8 +707,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
+<!ENTITY syncedTabs.context.open.label                       "פתיחה">
+<!ENTITY syncedTabs.context.open.accesskey                   "פ">
+<!ENTITY syncedTabs.context.openInNewTab.label               "פתיחה בלשונית חדשה">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "ל">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "פתיחה בחלון חדש">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "ח">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "פתיחה בחלון פרטי חדש">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "ר">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "צור סימנייה ללשונית זו…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ס">
+<!ENTITY syncedTabs.context.copy.label                       "העתקה">
+<!ENTITY syncedTabs.context.copy.accesskey                   "ע">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

@@ -15,6 +15,7 @@
   -  in the network table when empty to start performance analysis. -->
 <!ENTITY netmonitorUI.perfNotice1         "• יש ללחוץ על הכפתור">
 <!ENTITY netmonitorUI.perfNotice2         "כדי להתחיל את ניתוח הביצועים.">
+<!ENTITY netmonitorUI.perfNotice3         "ניתוח">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
@@ -37,6 +38,9 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
 <!ENTITY netmonitorUI.toolbar.domain      "שם מתחם">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.cause): This is the label displayed
+  -  in the network table toolbar, above the "cause" column. -->
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
@@ -228,6 +232,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hpkp): This is the label displayed
   -  in the security tab describing the usage of Public Key Pinning. -->
+<!ENTITY netmonitorUI.security.hpkp "הצמדת מפתח ציבורי:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
@@ -248,6 +253,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
   -  on the context menu that copies the selected request's url parameters -->
+<!ENTITY netmonitorUI.context.copyUrlParams     "העתקת משתני כתובת">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
