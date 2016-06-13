@@ -11,8 +11,8 @@
 <!ENTITY sync.title.connect.label "Conectare la &syncBrand.shortName.label;">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "Pentru a activa noul dispozitiv, selectează „Setează &syncBrand.shortName.label;” pe dispozitiv.">
-<!ENTITY sync.subtitle.pair.label "Pentru activare, selectează „Împerechează un dispozitiv” de pe celălalt dispozitiv.">
+<!ENTITY sync.subtitle.connect.label "Pentru a activa noul dispozitiv, selectează „Configurează &syncBrand.shortName.label;” pe dispozitiv.">
+<!ENTITY sync.subtitle.pair.label "Pentru activare, selectează „Asociază un dispozitiv” de pe celălalt dispozitiv.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "Nu am dispozitivul cu mine…">
 <!-- Configure Engines -->
