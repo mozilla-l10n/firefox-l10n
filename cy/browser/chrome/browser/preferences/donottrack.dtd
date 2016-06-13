@@ -9,4 +9,5 @@
 <!ENTITY doNotTrackCheckbox2.label    "Gosod Dim Tracio bob tro">
 <!ENTITY doNotTrackCheckbox2.accesskey "G">
 
+<!ENTITY doNotTrackTPInfo.description "Bydd &brandShortName; yn anfon arwydd na fyddwch am eich tracio pryd bynnag fydd Diogelu Rhag Tracio ymlaen.">
 <!ENTITY doNotTrackLearnMore.label    "Dysgu Rhagor">
