@@ -727,7 +727,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម">
 <!ENTITY syncedTabs.sidebar.noclients.label    "ចូលទៅកាន់ Firefox ពីឧបករណ៍ផ្សេងទៀតរបស់អ្នកដើម្បីមើលផ្ទាំងរបស់វានៅទីនេះ។">
 
-
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "តើ​អ្នក​ចង់​មើល​ផ្ទាំង​ពី​ឧបករណ៍​ផ្សេង​ទៀត​នៅ​ទីនេះ​ទេ?">
 
 <!ENTITY syncedTabs.sidebar.notabs.label       "គ្មានផ្ទាំងបើកទេ">
 
