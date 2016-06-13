@@ -6,4 +6,5 @@
 <!ENTITY aboutProfiles.subtitle "עמוד זה מאפשר לך לנהל את הפרופילים שלך. כל פרופיל הוא עולם נפרד המכיל היסטוריה, סימניות הגדרות ותוספות.">
 <!ENTITY aboutProfiles.create "יצירת פרופיל חדש">
 <!ENTITY aboutProfiles.restart.title "הפעלה מחדש">
+<!ENTITY aboutProfiles.restart.inSafeMode "הפעלה מחדש עם תוספות מנוטרלות…">
 <!ENTITY aboutProfiles.restart.normal "הפעלה רגילה מחדש…">

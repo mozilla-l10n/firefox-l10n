@@ -31,6 +31,7 @@
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "רישום חריגות JavaScript">
 <!ENTITY btnPageSecurity.label "אבטחה">
+<!ENTITY btnPageSecurity.tooltip "רישום שגיאות ואזהרות אבטחה">
 
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
