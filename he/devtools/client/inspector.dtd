@@ -72,6 +72,7 @@
      - add new attribute
      - edit attribute
      - remove attribute -->
+<!ENTITY inspectorAttributesSubmenu.label      "תכונות">
 
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
@@ -86,6 +87,7 @@
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
+<!ENTITY inspectorRemoveAttribute.label        "הסרת תכונה">
 
 <!ENTITY inspector.selectButton.tooltip     "בחירת רכיב עם העכבר">
 
