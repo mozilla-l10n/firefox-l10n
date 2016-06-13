@@ -32,6 +32,7 @@
 <!ENTITY helpus.getInvolvedLink "dołącz do nas">
 <!ENTITY helpus.end "!">
 
+<!ENTITY releaseNotes.link "Informacje o wydaniu">
 <!ENTITY bottomLinks.license "Informacje licencyjne">
 <!ENTITY bottomLinks.rights "Prawa użytkownika">
 <!ENTITY bottomLinks.privacy "Polityka prywatności">
