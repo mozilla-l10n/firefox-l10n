@@ -2,19 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountSetupTitle.label    "Setare &syncBrand.fullName.label;">
+<!ENTITY accountSetupTitle.label    "Configurare &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "Bun venit! Dacă n-ai mai folosit &syncBrand.fullName.label;, va trebui să creezi un cont nou.">
 <!ENTITY button.createNewAccount.label "Creează un cont nou">
 <!ENTITY button.haveAccount.label      "Am un cont">
 
-<!ENTITY setup.choicePage.title.label     "Ați mai folosit &syncBrand.fullName.label;?">
-
-
+<!ENTITY setup.choicePage.title.label     "Ai mai folosit &syncBrand.fullName.label; înainte?">
+<!ENTITY setup.choicePage.new.label       "N-am mai folosit niciodată &syncBrand.shortName.label; înainte">
+<!ENTITY setup.choicePage.existing2.label "Folosesc deja &syncBrand.shortName.label; pe alt dispozitiv">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.default.label      "Implicit: serverul &syncBrand.fullName.label; de la Mozilla">
-<!ENTITY serverType.custom2.label   "Folosește alt server…">
+<!ENTITY serverType.custom2.label   "Folosește un server personalizat…">
 <!ENTITY signIn.account2.label      "Cont">
 <!ENTITY signIn.account2.accesskey  "C">
 <!ENTITY signIn.password.label      "Parolă">
@@ -26,9 +29,9 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalii despre cont">
 <!ENTITY setup.emailAddress.label     "Adresa de e-mail">
 <!ENTITY setup.emailAddress.accesskey "e">
-<!ENTITY setup.choosePassword.label      "Alegeți o parolă">
+<!ENTITY setup.choosePassword.label      "Alege o parolă">
 <!ENTITY setup.choosePassword.accesskey  "p">
-<!ENTITY setup.confirmPassword.label     "Confirmați parola">
+<!ENTITY setup.confirmPassword.label     "Confirmă parola">
 <!ENTITY setup.confirmPassword.accesskey "m">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -37,17 +40,17 @@
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "Termenii de utilizare a serviciului">
 <!ENTITY setup.tosAgree2.label      "și cu">
-<!ENTITY setup.ppLink.label         "Politică de confidențialitate">
+<!ENTITY setup.ppLink.label         "Politica de confidențialitate">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- My Recovery Key dialog -->
 
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ține cont de confidențialitatea datelor dumneavoastră">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Pentru a vă asigura confidențialitatea totală, toate datele sunt criptate înainte de a fi încărcate pe server. Cheia de recuperare e necesară pentru a decripta datele nu este încărcată.">
-<!ENTITY recoveryKeyEntry.label        "Cheia dumneavoastră de recuperare">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ține cont de confidențialitatea datelor tale">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Pentru a-ți asigura confidențialitatea totală, toate datele sunt criptate înainte de a fi încărcate pe server. Cheia de recuperare care este necesară pentru a decripta datele nu este încărcată.">
+<!ENTITY recoveryKeyEntry.label        "Cheia ta de recuperare">
 <!ENTITY recoveryKeyEntry.accesskey    "C">
 <!ENTITY syncGenerateNewKey.label  "Generează o cheie nouă">
-<!ENTITY recoveryKeyBackup.description "Cheia de recuperare e necesară pentru a accesa &syncBrand.fullName.label; pe alte mașini. Vă rugăm să creați o copie de rezervă. Nu vă putem ajuta să o recuperați.">
+<!ENTITY recoveryKeyBackup.description "Cheia de recuperare este necesară pentru a accesa &syncBrand.fullName.label; pe alte mașini. Te rugăm să creezi o copie de rezervă. Nu te putem ajuta să recuperezi cheia de recuperare.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Tipărește…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
@@ -55,12 +58,12 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY pairDevice.title.label             "Împerecheați un dispozitiv">
+<!ENTITY pairDevice.title.label             "Asociază un dispozitiv">
 <!ENTITY addDevice.showMeHow.label          "Arată-mi cum.">
-
-<!ENTITY pairDevice.setup.description.label  "Pentru activare, selectați „Împerecheați un dispozitiv” de pe celălalt dispozitiv.">
-<!ENTITY addDevice.setup.enterCode.label    "Apoi introduceți acest cod:">
-<!ENTITY pairDevice.dialog.description.label "Pentru a activa noul dispozitiv, selectați „Setați sincronizarea” pe celălalt dispozitiv.">
+<!ENTITY addDevice.dontHaveDevice.label     "Nu am dispozitivul cu mine">
+<!ENTITY pairDevice.setup.description.label  "Pentru activare, selectează „Asociază un dispozitiv” de pe celălalt dispozitiv.">
+<!ENTITY addDevice.setup.enterCode.label    "Apoi introdu acest cod:">
+<!ENTITY pairDevice.dialog.description.label "Pentru a activa noul dispozitiv, selectează „Configurează Sincronizare” pe celălalt dispozitiv.">
 <!ENTITY addDevice.dialog.enterCode.label   "Introduceți codul furnizat de dispozitiv:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Vă rugăm să încercați încă o dată.">
 <!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can several minutes and will finish in the background.">

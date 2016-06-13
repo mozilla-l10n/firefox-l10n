@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- The page shown when not logged in... -->
 
-<!ENTITY setupButton.label          "Setare &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
+<!ENTITY setupButton.label          "Configurează &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "a">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; îți permite să accesezi istoricul, semnele de carte, parolele și filele deschise de pe toate dispozitivele pe care le ai.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
@@ -20,7 +20,7 @@
 <!ENTITY myRecoveryKey.label          "Cheia mea de recuperare">
 <!ENTITY resetSync2.label             "Resetează sincronizarea…">
 
-<!ENTITY pairDevice.label             "Împerechează un dispozitiv">
+<!ENTITY pairDevice.label             "Asociază un dispozitiv">
 
 <!ENTITY syncMy.label               "Sincronizează">
 <!ENTITY engine.bookmarks.label     "Semne de carte">
