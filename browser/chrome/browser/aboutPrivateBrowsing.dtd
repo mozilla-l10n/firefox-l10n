@@ -7,11 +7,25 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "δ">
 
 <!ENTITY privateBrowsing.title                           "Ιδιωτική Περιήγηση">
+<!ENTITY privateBrowsing.title.tracking                  "Ιδιωτική περιήγηση με την Προστασία Δεδομένων Περιήγησης">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Όταν πλοηγήστε σε Ιδιωτικό Παράθυρο, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "δεν αποθηκεύει">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "Σελίδες που επισκεφθήκατε">
 <!ENTITY aboutPrivateBrowsing.info.searches              "Αναζητήσεις">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Προσωρινά αρχεία">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Ο Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "θα αποθηκεύσει">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " :">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Λήψεις">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Σελιδοδείκτες">
+<!ENTITY aboutPrivateBrowsing.note.before                "Ιδιωτική περιήγηση ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "δεν σας κάνει ανώνυμο">
+<!ENTITY aboutPrivateBrowsing.note.after                 " στο διαδίκτυο. Ο εργοδότης σας ή ο πάροχος υπηρεσιών διαδικτύου μπορεί ακόμα να ξέρει ποια σελίδα επισκέπτεστε.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Διαβάστε περισσότερα σχετικά με">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "την Ιδιωτική Περιήγηση">
 
-<!ENTITY trackingProtection.title                        "Προστασία Δεδομένων Περιήγησης">
+<!ENTITY trackingProtection.title                        "την Προστασία Δεδομένων Περιήγησης">
+<!ENTITY trackingProtection.description2                 "Μερικοί ιστότοποι χρησιμοποιούν καταγραφείς που μπορούν να παρακολουθούν την δραστηριότητά σας στο Διαδίκτυο. Η Προστασία Δεδομένων Περιήγησης του Firefox θα εμποδίσει πολλούς καταγραφείς που μπορεί να συλλέγουν πληροφορίες για την συμπεριφορά της περιήγησης σας.">
 <!ENTITY trackingProtection.startTour1                   "Δείτε πως λειτουργεί">
