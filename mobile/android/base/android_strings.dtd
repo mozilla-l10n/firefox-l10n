@@ -560,7 +560,7 @@ size. -->
 <!ENTITY home_last_tabs_title "Filele de ultima dată">
 <!ENTITY home_last_tabs_empty "Filele tale recente apar aici.">
 <!ENTITY home_open_all "Deschide toate">
-<!ENTITY home_most_recent_empty "Site-urile pe care le-ai vizitat cel mai recent apar aici.">
+<!ENTITY home_most_recent_empty "Site-urile web pe care le-ai vizitat cel mai recent apar aici.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: folosind o &formatS1;filă privată nouă&formatS2; nu se va salva istoricul.">
