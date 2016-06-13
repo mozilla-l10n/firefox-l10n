@@ -164,8 +164,9 @@
 <!ENTITY cspBlocked.title "Blokkearre troch ynhâldsbefeiligingsbelied">
 <!ENTITY cspBlocked.longDesc "<p>De browser hat opkeard dat de side op dizze manier laden wurd, omdat de side in ynhâldsbefeiligingsbelied hat dat dit net tastiet.</p>">
 
-<!ENTITY corruptedContentError.title "Korruptearre ynhâldsflater">
-<!ENTITY corruptedContentError.longDesc "<p>De side dy't jo probearje te besjen kin net toand wurde omdat der in flater yn de gegevensoerdracht ûntdekt waard.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Korruptearre ynhâldsflater">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>De side dy't jo probearje te besjen kin net toand wurde, omdat der in flater yn de gegevensoerdracht ûntdekt waard.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.
+</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Of jo kinne in útsûndering tafoegje…">
@@ -186,3 +187,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Jo ferbining is net feilich">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brûkt feilichheidstechnology dy't út de tiid is en kwetsber foar oanfallen. In oanfaller soe maklik ynformaasje ûntdekke wêrfan jo tinke dat it feilich is. De website-eigner sil de server reparearje moatte eardat jo de website besykje kinne.</p><p>Flaterkoade: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

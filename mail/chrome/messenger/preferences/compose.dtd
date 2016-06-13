@@ -26,12 +26,12 @@
 <!ENTITY bgColor.accesskey                    "A">
 <!ENTITY restoreHTMLDefaults.label            "Standertwearden tebeksette">
 <!ENTITY restoreHTMLDefaults.accesskey        "S">
-<!ENTITY enterKeyCreatesNewParagraph.label    "As jo tekstopmaak Alinea brûke, makket de Enter-toets in nije alinea">
-<!ENTITY enterKeyCreatesNewParagraph.accesskey "E">
+<!ENTITY defaultToParagraph.label             "Standert alinea-opmaak brûke yn stee fan kerntekst">
+<!ENTITY defaultToParagraph.accesskey         "o">
 
 <!ENTITY spellCheck.label                     "Stavering kontrolearje foar it ferstjoeren">
 <!ENTITY spellCheck.accesskey                 "k">
-<!ENTITY spellCheckInline.label               "Stavering kontrolearje ûnder it typen">
+<!ENTITY spellCheckInline.label               "Stavering kontrolearje wylst it typen">
 <!ENTITY spellCheckInline1.accesskey          "n">
 <!ENTITY languagePopup.label                  "Taal:">
 <!ENTITY languagePopup.accessKey              "T">
@@ -52,7 +52,7 @@
 <!ENTITY directories.label                     "Directoryserver:">
 <!ENTITY directories.accesskey                 "y">
 <!ENTITY directoriesNone.label                 "Gjin">
-<!ENTITY editDirectories.label                 "Directorys bewurkje…">
+<!ENTITY editDirectories.label                 "Directory's bewurkje…">
 <!ENTITY editDirectories.accesskey             "w">
 
 <!ENTITY sendOptionsDescription.label          "Tekstopmaakgedrach konfigurearje">

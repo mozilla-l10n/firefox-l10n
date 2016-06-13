@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Oars:">
 <!ENTITY archiveInOtherFolder.accesskey "a">
 <!ENTITY specialFolders.label "Konsepten en sjabloanen">
-<!ENTITY keepDrafts.label "Berjochtkonsepten bewarje yn:">
+<!ENTITY keepDrafts2.label "Berjochtkonsepten bewarje yn:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Map &quot;Konsepten&quot; yn:">
 <!ENTITY draftsFolderOn.accesskey "t">
