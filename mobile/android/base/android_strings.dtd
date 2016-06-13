@@ -5,12 +5,12 @@
 <!ENTITY firstrun_panel_title_welcome "Bun venit">
 
 <!ENTITY firstrun_urlbar_message "Bun venit la &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Găsește lucruri mai rapid cu scurtăturile sugestiilor utile de căutare.">
+<!ENTITY firstrun_urlbar_subtext "Găsește lucruri mai rapid cu sugestiile utile pentru căutare.">
 <!ENTITY firstrun_bookmarks_title "Istoric">
-
-
+<!ENTITY firstrun_bookmarks_message "Site-urile favorite în prim plan">
+<!ENTITY firstrun_bookmarks_subtext "Obține rezultate de la semnele de carte și istoricul tău atunci când cauți.">
 <!ENTITY firstrun_data_title "Date">
-
+<!ENTITY firstrun_data_message "Trafic de date mai mic, mai mult trafic economisit">
 <!ENTITY firstrun_data_subtext2 "Oprește imaginile pentru a consuma mai puțin trafic de date pe fiecare site pe care îl vizitezi.">
 <!ENTITY firstrun_sync_title "Sincronizare">
 <!ENTITY firstrun_sync_message "&brandShortName;, mereu de partea ta">
