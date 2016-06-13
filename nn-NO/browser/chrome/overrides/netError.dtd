@@ -110,8 +110,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.pagetitle1  "Usikkert samband">
+<!ENTITY certerror.wrongSystemTime "<p>Ei trygg tilkopling til <span id='wrongSystemTime_URL'/> er ikkje muleg, fordi klokka ser ut til å visa feil tid.</p> <p>Datamaskina di trur at klokka er <span id='wrongSystemTime_systemDate'/>, når ho burde vera <span id='wrongSystemTime_actualDate'/>. For å løysa detta problemet, endra dato- og tidsinnstillingar for å få rett tid.</p>">
 
+<!ENTITY certerror.pagetitle1  "Usikkert samband">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Denne nettstaden brukar HTTP Strict Transport Security (HSTS) for å spesifisera at &brandShortName; berre skal kopla til trygt. Derfor kan ein ikkje legga til eit unntak for dette sertifikatet.">
 <!ENTITY certerror.copyToClipboard.label "Kopier tekst til utklippstavla">
 
 <!ENTITY inadequateSecurityError.title "Tilkoplinga di er ikkje trygg">
@@ -119,4 +121,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brukar tryggingsteknologi som er forelda og sårbar for åtak. Ein angripar kan lett avsløra informasjon som du trudde skulle vera sikker. Administrator på nettstaden må fiksa tenaren før du kan vitja nettsida.</p><p>Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "Det ser ut til at sikkerheitsinnstillingane i nettverket kan vera årsak til dette. Vil du stilla tilbake til standard innstillingar?">
+<!ENTITY prefReset.label "Still tilbake til standard innstillingar">

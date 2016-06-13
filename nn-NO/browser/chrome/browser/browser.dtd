@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Vis sidestolpe for bokmerke">
 <!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
 
+<!ENTITY containersMenu.label "Behaldarar">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -262,8 +263,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fil"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "Ny container-fane">
-<!ENTITY newUserContext.accesskey         "c">
+<!ENTITY newUserContext.label             "Ny innhaldsfane">
+<!ENTITY newUserContext.accesskey         "i">
 <!ENTITY newNavigatorCmd.label        "Nytt vindauge">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -456,7 +457,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Opna ramme i nytt vindauge">
 <!ENTITY openFrameCmd.accesskey       "v">
 <!ENTITY openLinkCmdInContainerTab.label "Opna lenke i ny innhaldsfane">
-<!ENTITY openLinkCmdInContainerTab.accesskey "O">
+<!ENTITY openLinkCmdInContainerTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Vis berre denne ramma">
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -555,8 +556,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Slå på lyd">
 <!ENTITY mediaUnmute.accesskey       "S">
-
-
+<!ENTITY mediaPlaybackRate2.label     "Avspelingsfart">
+<!ENTITY mediaPlaybackRate2.accesskey "A">
 <!ENTITY mediaPlaybackRate050x2.label "Sakte (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "Normal">
