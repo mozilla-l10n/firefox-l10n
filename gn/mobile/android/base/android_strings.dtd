@@ -766,25 +766,32 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY restrictable_feature_clear_history "Tembiasakue mboguete">
 <!ENTITY restrictable_feature_clear_history_description "Omoneĩ nde rogayguakuérape omboguetévo marandu tenda ha kuatiarogue ojeike hague rehegua.">
-
-
-
+<!ENTITY restrictable_feature_advanced_settings "Ñemoĩporã opapotámava">
+<!ENTITY restrictable_feature_advanced_settings_description "Ko\u0027ápe oike techaukaha, tendayke mbojevypyre ha ñembohekopyahu ijeheguíva. Embogue pe ñemoĩporãrã ojogueraháva nde rogaygua oimeraẽvape g̃uarã.">
+<!ENTITY restrictable_feature_camera_microphone "Ta\u0027ãnganohẽha ha Ñe\u0027ẽatãha">
 
 <!ENTITY restrictable_feature_block_list "jejoko rysýi">
-
+<!ENTITY restrictable_feature_block_list_description "Ejoko ñanduti renda ohechaukáva mba\u0027ekuaarã ivaikuaáva.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "Firefox: Ne kundahára rehegua">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Eñemomba\u0027ete hese moimbaha rupi">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Pytyvõha">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-
+<!ENTITY eol_notification_title2 "&brandShortName; ani embohekopyahu">
+<!ENTITY eol_notification_summary "Epoko ko\u0027ápe eikuaave hag̃ua">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+<!ENTITY whatsnew_notification_title "&brandShortName; hekopyahúma">
 
 
 
