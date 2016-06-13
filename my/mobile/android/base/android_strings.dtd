@@ -769,11 +769,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "မှတ်တမ်းကို ရှင်းလင်းပါ">
 <!ENTITY restrictable_feature_clear_history_description "မိသားစုဝင်များကို သူတို့ကြည့်ရှုခဲ့သည့် ဆိုက်များ၊ စာမျက်နှာများနှင့် ပတ်သက်သည့် အချက်အလက်များကို ပယ်ဖျက်နိုင်စေသည်။">
 <!ENTITY restrictable_feature_advanced_settings "အဆင့်မြင့် အပြင်အဆင်များ">
-
+<!ENTITY restrictable_feature_advanced_settings_description "စာမှတ်များ တင်သွင်းခြင်း၊ တဗ်များ ပြန်လည်အသုံးပြုခြင်းနှင့် အလိုအလျောက် မြှင့်တင်ခြင်းများ ပါဝင်သည်။ မည်သူမဆို အဆင်ပြေသုံးစွဲနိုင်ရန်နှင့် အပြင်အဆင်များ ရိုးရှင်းစေရန်အတွက် ၄င်းတို့ကို ပိတ်ပါ။">
 <!ENTITY restrictable_feature_camera_microphone "ကင်မရာနှင့် မိုက္ကရိုဖုန်း">
 
 <!ENTITY restrictable_feature_block_list "ပိတ်ပင်ထားသည့် စာရင်း">
-
+<!ENTITY restrictable_feature_block_list_description "ထိခိုက်မည့် အကြောင်းအရာပါဝင်သည့် ဝဘ်ဆိုက်များကို တားဆီးပါ။">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -783,11 +783,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "မီးမြေခွေး။ အထောက်အပံ့">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Android တက်ဘလက်ပေါ်ရှိ ကန့်သတ်ထားသည့် ပရိုဖိုင်းများအတွက် မီးမြေခွေးအကူအညီနှင့် အထောက်အပံ့">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "ဝဘ်ကို လေ့လာပါ။ မော်ဇီလာ ဝဘ်မိက္ကာ">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+
+<!ENTITY unsupported_sdk_version "တောင်းပန်ပါသည်။ &brandShortName; သည် ဒီကိရိယာ (&formatS1;, &formatS2;) ပေါ်တွင် လုပ်ဆောင်မည် မဟုတ်ပါ။ ကျေးဇူးပြု၍ မှန်ကန်သည့်ဗားရှင်းကို ဆွဲယူပါ။">
 
 <!ENTITY eol_notification_title2 "&brandShortName; ကို အဆင့်မြှင့်လိမ့်မည် မဟုတ်ပါ">
 <!ENTITY eol_notification_summary "ဆက်လက်လေ့လာရန် ထိပါ">
@@ -800,10 +803,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "ပင်မစာမျက်နှာသို့ ထည့်ပါ">
 
 <!ENTITY helper_first_offline_bookmark_title "အော့ဖ်လိုင်းတွင် ဖတ်ပါ">
-
+<!ENTITY helper_first_offline_bookmark_message "အင်တာနက်မရှိပဲနှင့်လည်း စာဖတ်အမြင်ထဲရှိ အကြောင်းအရာတို့ကို စာမှတ်များထဲတွင် ရှာနိုင်သည်။">
 <!ENTITY helper_first_offline_bookmark_button "စာမှတ်များသို့ သွားပါ">
 
 <!ENTITY helper_triple_readerview_open_title "အော့ဖ်လိုင်း ရနိုင်ပါသည်">
-
+<!ENTITY helper_triple_readerview_open_message "စာဖတ်အမြင်ဖြင့် ဖတ်ရှုနိုင်သော အကြောင်းအရာတို့ကို အင်တာနက်မရှိပဲ ဖတ်ရန် စာမှတ်အနေနှင့် သိမ်းပါ။">
 <!ENTITY helper_triple_readerview_open_button "စာအမှတ်များထဲသို့ ထည့်ပါ">
 
