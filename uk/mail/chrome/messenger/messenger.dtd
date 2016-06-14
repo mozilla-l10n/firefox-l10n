@@ -104,7 +104,7 @@
 <!ENTITY all.label "Всі">
 <!ENTITY all.accesskey "В">
 <!ENTITY selectThreadCmd.label "Розмову">
-<!ENTITY selectThreadCmd.accesskey "Г">
+<!ENTITY selectThreadCmd.accesskey "Р">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Позначені листи">
 <!ENTITY selectFlaggedCmd.accesskey "П">
@@ -159,7 +159,7 @@
 <!ENTITY unreadFolders.label "Непрочитані">
 <!ENTITY unreadFolders.accesskey "Н">
 <!ENTITY favoriteFolders.label "Улюблені">
-<!ENTITY favoriteFolders.accesskey "О">
+<!ENTITY favoriteFolders.accesskey "У">
 <!ENTITY recentFolders.label "Недавні">
 <!ENTITY recentFolders.accesskey "д">
 <!ENTITY compactVersion.label "Компактний вигляд">
@@ -205,7 +205,7 @@
 <!ENTITY sortDescending.label "За спаданням">
 <!ENTITY sortDescending.accesskey "м">
 <!ENTITY sortThreaded.label "За розмовами">
-<!ENTITY sortThreaded.accesskey "г">
+<!ENTITY sortThreaded.accesskey "о">
 <!ENTITY sortUnthreaded.label "Не за розмовами">
 <!ENTITY sortUnthreaded.accesskey "Н">
 <!ENTITY groupBySort.label "Групувати за методом сортування">
@@ -213,7 +213,7 @@
 <!ENTITY msgsMenu.label "Лист">
 <!ENTITY msgsMenu.accesskey "Л">
 <!ENTITY threads.label "Розмови">
-<!ENTITY threads.accesskey "Г">
+<!ENTITY threads.accesskey "Р">
 <!ENTITY allMsgsCmd.label "Всі">
 <!ENTITY allMsgsCmd.accesskey "В">
 <!ENTITY expandAllThreadsCmd.label "Розгорнути всі розмови">
@@ -225,7 +225,7 @@
 <!ENTITY unreadMsgsCmd.label "Непрочитані">
 <!ENTITY unreadMsgsCmd.accesskey "Н">
 <!ENTITY threadsWithUnreadCmd.label "Розмови з непрочитаними повідомленнями">
-<!ENTITY threadsWithUnreadCmd.accesskey "Г">
+<!ENTITY threadsWithUnreadCmd.accesskey "н">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Непрочитані повідомлення в розмовах, що відстежуються">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "с">
 <!ENTITY ignoredThreadsCmd.label "Ігноровані розмови">
@@ -315,7 +315,7 @@
 <!ENTITY goBackCmd.accesskey "д">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Чат">
-<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.accesskey "Ч">
 <!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Лист з зіркою">
 <!ENTITY prevStarredMsgCmd.accesskey "З">
@@ -430,7 +430,7 @@
 <!ENTITY openMessageWindowCmd.accesskey "В">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Відкрити в розмові">
-<!ENTITY openConversationCmd.accesskey "б">
+<!ENTITY openConversationCmd.accesskey "з">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Вкладення">
 <!ENTITY openAttachmentListCmd.accesskey "л">
@@ -715,7 +715,7 @@
 <!ENTITY contextOpenNewTab.label "Відкрити лист в новій вкладці">
 <!ENTITY contextOpenNewTab.accesskey "к">
 <!ENTITY contextOpenConversation.label "Відкрити повідомлення в розмові">
-<!ENTITY contextOpenConversation.accesskey "б">
+<!ENTITY contextOpenConversation.accesskey "р">
 <!ENTITY contextOpenContainingFolder.label "Відкрити повідомлення у відповідній теці">
 <!ENTITY contextOpenContainingFolder.accesskey "н">
 <!ENTITY contextEditMsgAsNew.label "Редагувати як нове повідомлення">
@@ -749,7 +749,7 @@
 <!ENTITY contextCopyMsgMenu.accesskey "о">
 <!ENTITY contextKillThreadMenu.label "Ігнорувати розмову">
 <!ENTITY contextKillSubthreadMenu.accesskey "г">
-<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillThreadMenu.accesskey "І">
 <!ENTITY contextKillSubthreadMenu.label "Ігнорувати підрозмову">
 <!ENTITY contextWatchThreadMenu.label "Відстежувати розмову">
 <!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):

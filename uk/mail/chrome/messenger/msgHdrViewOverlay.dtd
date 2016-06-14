@@ -52,7 +52,7 @@
 <!ENTITY otherActionsButton2.label "Більше">
 <!ENTITY otherActionsButton.tooltip "Більше дій">
 <!ENTITY otherActionsOpenConversation1.label "Відкрити в розмові">
-<!ENTITY otherActionsOpenConversation1.accesskey "б">
+<!ENTITY otherActionsOpenConversation1.accesskey "з">
 <!ENTITY otherActionsOpenInNewWindow1.label "Відкрити у новому вікні">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "в">
 <!ENTITY otherActionsOpenInNewTab1.label "Відкрити у новій вкладці">
