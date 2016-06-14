@@ -4,11 +4,11 @@
 <!-- extracted from EdReplace.xul -->
 
 
-<!ENTITY replaceDialog.title "Canfod ac Amnewid">
+<!ENTITY replaceDialog.title "Canfod a Newid">
 <!ENTITY findField.label "Canfod testun:">
 <!ENTITY findField.accesskey "C">
-<!ENTITY replaceField.label "Amnewid gyda:">
-<!ENTITY replaceField.accesskey "A">
+<!ENTITY replaceField.label "Newid gyda:">
+<!ENTITY replaceField.accesskey "N">
 <!ENTITY caseSensitiveCheckbox.label "Cydweddu maint">
 <!ENTITY caseSensitiveCheckbox.accesskey "C">
 <!ENTITY wrapCheckbox.label "Amlapio">
@@ -17,10 +17,10 @@
 <!ENTITY backwardsCheckbox.accesskey "h">
 <!ENTITY findNextButton.label "Canfod nesaf">
 <!ENTITY findNextButton.accesskey "n">
-<!ENTITY replaceButton.label "Amnewid">
-<!ENTITY replaceButton.accesskey "A">
-<!ENTITY replaceAndFindButton.label "Amnewid a Chanfod">
-<!ENTITY replaceAndFindButton.accesskey "A">
-<!ENTITY replaceAllButton.label "Amnewid Popeth">
-<!ENTITY replaceAllButton.accesskey "A">
+<!ENTITY replaceButton.label "Newid">
+<!ENTITY replaceButton.accesskey "N">
+<!ENTITY replaceAndFindButton.label "Newid a Chanfod">
+<!ENTITY replaceAndFindButton.accesskey "N">
+<!ENTITY replaceAllButton.label "Newid Popeth">
+<!ENTITY replaceAllButton.accesskey "N">
 <!ENTITY closeButton.label "Cau">
