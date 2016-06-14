@@ -110,8 +110,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.pagetitle1  "Njewěsty zwisk">
+<!ENTITY certerror.wrongSystemTime "<p>Wěsty zwisk z <span id='wrongSystemTime_URL'/> móžno njeje, dokelž waš časnik po zdaću wopačny čas pokazuje.</p> <p>Waš ličak mysli, zo je <span id='wrongSystemTime_systemDate'/>, byrnjež <span id='wrongSystemTime_actualDate'/> było. Zo byšće tutón problem rozrisał, změńće swój datumowe a časowe nastajenja, zo byšće korektny čas nastajił.</p>">
 
+<!ENTITY certerror.pagetitle1  "Njewěsty zwisk">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tute sydło wužiwa HTTP Strict Transport Security (HSTS), zo by podało, zo &brandShortName; ma jenož wěsće z nim zwjazać. Potajkim njeje móžno wuwzaće za tutón certifikat přidać.">
 <!ENTITY certerror.copyToClipboard.label "Tekst do mjezyskłada kopěrować">
 
 <!ENTITY inadequateSecurityError.title "Waš zwisk wěsty njeje">
@@ -119,4 +121,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> wužiwa wěstotnu technologiju, kotraž je zestarjena a sensibelna za nadpady. Nadpadowar móhł informacije lochko wotkryć, kotrež za wěste maće. Websydłowy administrator dyrbi problem na serwerje rozrisać, prjedy hač móžeće sydło wopytać.</p><p>Zmylkowy kode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "Zda so, zo waše nastajenja syćoweje wěstoty móhli to zawinować. Chceće standardne nastajenja wobnowić?">
+<!ENTITY prefReset.label "Standardne nastajenja wobnowić">
