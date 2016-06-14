@@ -522,7 +522,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.accesskey      "l">
 <!ENTITY copyLinkCmd.label            "Copiază adresa linkului">
 <!ENTITY copyLinkCmd.accesskey        "C">
-<!ENTITY copyImageCmd.label           "Copiază adresa imaginii">
+<!ENTITY copyImageCmd.label           "Copiază locația imaginii">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Copiază imaginea">
 <!ENTITY copyImageContentsCmd.accesskey  "p"> 
