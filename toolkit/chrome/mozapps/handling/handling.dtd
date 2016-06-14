@@ -4,5 +4,7 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
+<!ENTITY ChooseOtherApp.description "Vybrat jinou aplikaci">
 <!ENTITY ChooseApp.label "Zvolit…">
 <!ENTITY ChooseApp.accessKey "Z">
+<!ENTITY accept "Otevřít odkaz">

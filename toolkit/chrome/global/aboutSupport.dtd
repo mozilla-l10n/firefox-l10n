@@ -56,6 +56,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Identifikace prohlížeče">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Spotřeba paměti">
+<!ENTITY aboutSupport.appBasicsPerformance "Výkon">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registrovaní Service Workers">
@@ -89,6 +90,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Databáze umístění">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integrita">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Zkontrolovat integritu">
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Inkrementální GC">
 
@@ -114,3 +119,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Žurnál chyb">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Decision Log">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Zakázat funkce Crash Guard">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Možná řešení">
