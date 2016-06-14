@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Nooit controleren op updates (niet aanbevolen: beveiligingsrisico)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Mij waarschuwen als dit een van mijn add-ons zal uitschakelen">
-<!ENTITY updateAutoAddonWarn.accesskey   "w">
-
 <!ENTITY updateHistory.label             "Updategeschiedenis tonen">
 <!ENTITY updateHistory.accesskey         "d">
 

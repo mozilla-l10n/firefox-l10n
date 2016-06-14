@@ -165,8 +165,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Geblokkeerd door inhoudbeveiligingsbeleid">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; heeft voorkomen dat de pagina op deze manier werd geladen, omdat de pagina een inhoudbeveiligingsbeleid heeft dat dit niet toestaat.</p>">
 
-<!ENTITY corruptedContentError.title "Beschadigde-inhoudsfout">
-<!ENTITY corruptedContentError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat er een fout in de gegevensoverdracht is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Beschadigde-inhoudsfout">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat er een fout in de gegevensoverdracht is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Uitzondering toevoegen…">
@@ -190,6 +190,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> gebruikt verouderde beveiligingstechnologie die kwetsbaar is voor aanvallen. Een aanvaller kan eenvoudig gegevens onthullen waarvan u dacht dat deze veilig waren.">
 <!ENTITY weakCryptoAdvanced.override "(Niet beveiligd) <span class='hostname'></span> proberen te laden via verouderde beveiliging">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>Een beveiligde verbinding met <span id='wrongSystemTime_URL'/> is niet mogelijk, omdat uw klok de verkeerde tijd lijkt aan te geven.</p> <p>Uw computer denkt dat het <span id='wrongSystemTime_systemDate'/> is, terwijl het <span id='wrongSystemTime_actualDate'/> zou moeten zijn. Wijzig uw datum- en tijdinstellingen naar de juiste tijd om dit probleem te verhelpen.</p>">
+
 <!ENTITY certerror.pagetitle1  "Niet-beveiligde verbinding">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Deze website maakt gebruik
 van HTTP Strict Transport Security (HSTS) om aan te geven dat &brandShortName;
@@ -201,3 +205,6 @@ uitzondering voor dit certificaat toe te voegen.">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> gebruikt verouderde beveiligingstechnologie die kwetsbaar is voor aanvallen. Een aanvaller kan eenvoudig gegevens onthullen waarvan u dacht dat deze veilig waren. De websitebeheerder dient eerst de server in orde te maken voordat u de website kunt bezoeken.</p><p>Foutcode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY prefReset.longDesc "Het lijkt erop dat dit door uw netwerkbeveiligingsinstellingen wordt veroorzaakt. Wilt u de standaardinstellingen herstellen?">
+<!ENTITY prefReset.label "Standaardinstellingen herstellen">
