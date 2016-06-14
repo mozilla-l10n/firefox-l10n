@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Mostra la barra lateral de les adreces d'interès">
 <!ENTITY viewBookmarksToolbar.label         "Mostra la barra de les adreces d'interès">
 
+<!ENTITY containersMenu.label "Contenidors">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -555,12 +556,12 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "e">
 <!ENTITY mediaUnmute.label           "Amb so">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate2.label     "Velocitat de reproducció">
+<!ENTITY mediaPlaybackRate2.accesskey "l">
 
 
-
-
-
-
+<!ENTITY mediaPlaybackRate100x2.label "Normal">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 
 
 
@@ -568,7 +569,8 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
+<!ENTITY mediaPlaybackRate200x2.label "Màxima velocitat (×2)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "M">
 
 
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
@@ -679,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Connexió segura">
 <!ENTITY identity.connectionNotSecure "La connexió no és segura">
 <!ENTITY identity.connectionFile "Aquesta pàgina està desada a l'ordinador.">
-
+<!ENTITY identity.connectionVerified2 "Esteu connectat de forma segura a aquest lloc, mantingut per:">
 <!ENTITY identity.connectionInternal "Aquesta és una pàgina del &brandShortName; segura.">
 <!ENTITY identity.insecureLoginForms2 "Les dades d'inici de sessió que introduïu en aquesta pàgina podrien estar en risc.">
 <!-- Strings for connection state warnings. -->
