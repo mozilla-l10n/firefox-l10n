@@ -236,7 +236,7 @@
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "Mae'r ychwanegion canlynol wedi eu dilysu i'w defnyddio yn &brandShortName;. Gallwch ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "canfod amnewidiad">
+<!ENTITY disabledUnsigned.description.findAddonsLink "canfod newidiadau">
 <!ENTITY disabledUnsigned.description.end " neu ofyn i'r datblygwr iddynt gael eu dilysu.">
 <!ENTITY disabledUnsigned.learnMore "Dysgu rhagor am ein hymdrechion i'ch cadw'n ddiogel ar-lein.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
