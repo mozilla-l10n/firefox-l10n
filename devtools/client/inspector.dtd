@@ -14,7 +14,7 @@
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
 <!ENTITY inspectorCopyOuterHTML.label       "Zunanji HTML">
-<!ENTITY inspectorCopyOuterHTML.accesskey   "Z">
+<!ENTITY inspectorCopyOuterHTML.accesskey   "O">
 
 <!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
