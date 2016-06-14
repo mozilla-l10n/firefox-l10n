@@ -62,9 +62,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "אפס את כל התוספות לעדכון אוטומטי">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "איפוס כל התוספות לעדכון אוטומטי">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "א">
-<!ENTITY updates.resetUpdatesToManual.label          "אפס את כל התוספות לעדכון ידני">
+<!ENTITY updates.resetUpdatesToManual.label          "איפוס כל התוספות לעדכון ידני">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "א">
 <!ENTITY updates.updating.label               "מעדכן תוספות">
 <!ENTITY updates.installed.label              "התוספות שלך עודכנו.">

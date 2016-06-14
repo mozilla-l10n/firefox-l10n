@@ -12,7 +12,7 @@
 <!ENTITY restorepage.restoreSome    "להסיר אחת או יותר לשוניות שייתכן וגורמות לבעיה">
 <!ENTITY restorepage.startNew       "להתחיל גלישה חדשה לחלוטין">
 
-<!ENTITY restorepage.tryagainButton "שחזר">
+<!ENTITY restorepage.tryagainButton "שחזור">
 <!ENTITY restorepage.restore.access "ש">
 <!ENTITY restorepage.closeButton    "סגירה">
 <!ENTITY restorepage.close.access   "ס">
@@ -35,7 +35,7 @@
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; מוכן כעת לנסיעה.">
 
 <!ENTITY welcomeback2.label.restoreAll  "שחזור כל הלשוניות והחלונות">
-<!ENTITY welcomeback2.label.restoreSome "שחזור רק של אלו הנחוצות">
+<!ENTITY welcomeback2.label.restoreSome "שחזור של אלו הרצויות בלבד">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,

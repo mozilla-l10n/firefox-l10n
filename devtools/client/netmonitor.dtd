@@ -14,7 +14,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2/3): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
 <!ENTITY netmonitorUI.perfNotice1         "• יש ללחוץ על הכפתור">
-<!ENTITY netmonitorUI.perfNotice2         "כדי להתחיל את ניתוח הביצועים.">
+<!ENTITY netmonitorUI.perfNotice2         "כדי להתחיל בניתוח הביצועים.">
 <!ENTITY netmonitorUI.perfNotice3         "ניתוח">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
