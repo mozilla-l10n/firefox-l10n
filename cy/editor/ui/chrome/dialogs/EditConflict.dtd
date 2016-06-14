@@ -7,4 +7,4 @@
 <!ENTITY conflictWarning.label "Mae'r dudalen hon wedi'i newid gan raglen arall, ond mae gennych hefyd newidiadau heb eu cadw yn y Cyfansoddwr.">
 <!ENTITY conflictResolve.label "Dewis pa fersiwn i'w chadw:">
 <!ENTITY keepCurrentPageButton.label "Cadw'r newidiadau cyfredol i'r dudalen">
-<!ENTITY useOtherPageButton.label "Amnewid y dudalen gyfredol gyda'r newidiadau eraill">
+<!ENTITY useOtherPageButton.label "Newid y dudalen gyfredol gyda'r newidiadau eraill">

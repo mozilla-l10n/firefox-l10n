@@ -70,8 +70,8 @@
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "D">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Amnewid Enw Cyntaf/Olaf">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "A">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Newid Enw Cyntaf/Olaf">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "N">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">

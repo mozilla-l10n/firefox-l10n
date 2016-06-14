@@ -17,7 +17,7 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "D">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Canfod…">
-<!ENTITY findReplaceCmd.label "Canfod ac Amnewid…">
+<!ENTITY findReplaceCmd.label "Canfod a Newid…">
 <!ENTITY enableInlineSpellChecker.label "Gwirio Sillafu Wrth Deipio">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Gwirio Sillafu…">

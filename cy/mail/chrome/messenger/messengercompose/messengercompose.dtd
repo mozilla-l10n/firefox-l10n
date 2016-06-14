@@ -91,8 +91,8 @@
 <!ENTITY findBarCmd.label "Canfod…">
 <!ENTITY findBarCmd.accesskey "f">
 <!ENTITY findBarCmd.key "F">
-<!ENTITY findReplaceCmd.label "Canfod ac Amnewid…">
-<!ENTITY findReplaceCmd.accesskey "A">
+<!ENTITY findReplaceCmd.label "Canfod ac Newid…">
+<!ENTITY findReplaceCmd.accesskey "N">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Canfod Eto">
 <!ENTITY findAgainCmd.accesskey "E">
