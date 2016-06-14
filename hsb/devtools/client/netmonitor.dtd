@@ -15,7 +15,7 @@
 
 <!ENTITY netmonitorUI.perfNotice1         "• Klikńće na tłóčatko">
 <!ENTITY netmonitorUI.perfNotice2         ", zo byšće wukonowu analyzu započał.">
-
+<!ENTITY netmonitorUI.perfNotice3         "Analizować">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 
@@ -40,6 +40,8 @@
 <!ENTITY netmonitorUI.toolbar.domain      "Domena">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.cause): This is the label displayed
   -  in the network table toolbar, above the "cause" column. -->
+
+<!ENTITY netmonitorUI.toolbar.cause        "Přičina">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 
