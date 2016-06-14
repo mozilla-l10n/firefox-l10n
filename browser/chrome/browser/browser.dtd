@@ -726,24 +726,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម">
 <!ENTITY syncedTabs.sidebar.noclients.label    "ចូលទៅកាន់ Firefox ពីឧបករណ៍ផ្សេងទៀតរបស់អ្នកដើម្បីមើលផ្ទាំងរបស់វានៅទីនេះ។">
-
+<!ENTITY syncedTabs.sidebar.noclients.title    "មិន​មាន​ផ្ទាំង​បាន​ធ្វើ​សមកាលកម្ម… នៅ​ឡើយ!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "តើ​អ្នក​ចង់​មើល​ផ្ទាំង​ពី​ឧបករណ៍​ផ្សេង​ទៀត​នៅ​ទីនេះ​ទេ?">
-
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "ចូល​ដើម្បី​មើល​បញ្ជី​នៃ​ផ្ទាំង​ទាំង​ឡាយ​ពី​ឧបករណ៍​ផ្សេង​ទៀត​របស់​អ្នក។​">
 <!ENTITY syncedTabs.sidebar.notabs.label       "គ្មានផ្ទាំងបើកទេ">
-
+<!ENTITY syncedTabs.sidebar.openprefs.label    "បើក​ចំណូលចិត្ត &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "បើកការធ្វើសមកាលកម្មផ្ទាំងដើម្បីមើលបញ្ជីនៃផ្ទាំងទាំងឡាយពីឧបករណ៍ផ្សេងទៀតរបស់អ្នក។">
 
-
+<!ENTITY syncedTabs.context.open.label                       "បើក">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "បើក​ក្នុង​ផ្ទាំង​ថ្មី">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "បើក​ក្នុង​បង្អួច​ថ្មី">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "បើក​ក្នុង​បង្អួចឯក​ជន​ថ្មី">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-
-
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ចំណាំ​​ផ្ទាំង​​នេះ...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 
 
 
