@@ -105,6 +105,7 @@
 <!ENTITY offlineAppRemove.confirm        "Απομάκρυνση δεδομένων για εργασία χωρίς σύνδεση">
 
 <!ENTITY certificateTab.label            "Πιστοποιητικά">
+<!ENTITY certSelection.label             "Αιτήματα">
 <!ENTITY certSelection.description       "Όταν ένας εξυπηρετητής απαιτεί ένα πιστοποιητικό:">
 <!ENTITY certs.auto                      "Αυτόματη επιλογής ενός">
 <!ENTITY certs.auto.accesskey            "τ">

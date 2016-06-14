@@ -23,6 +23,8 @@
 
 <!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is no space between this phrase and the linked about.buildconfig.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 <!ENTITY about.buildconfig.beforeTheLink "Δείτε την ">
+<!ENTITY about.buildconfig.linkTitle     "παραμετροποίηση κατά την μεταγλώττιση">
 <!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
 <!ENTITY about.buildconfig.afterTheLink  " που χρησιμοποιήθηκε για αυτή την έκδοση.">
 
+<!ENTITY about.buildIdentifier        "Αναγνωριστικό υλοποίησης ">

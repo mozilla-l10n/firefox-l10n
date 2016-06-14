@@ -75,6 +75,10 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Η ενημέρωση θα εγκατασταθεί στην επόμενη εκκίνηση του &brandShortName;. Μπορείτε
                                             να επανεκκινήσετε τον &brandShortName; τώρα, ή να συνεχίσετε και τον επανεκκινήσετε αργότερα.">
+<!ENTITY  finishedBackground.moreElevated "Η ενημέρωση απαιτεί δικαιώματα διαχειριστή. Η ενημέρωση
+                                           θα εγκατασταθεί την επόμενη φορά που ο &brandShortName; θα ξεκινήσει. Μπορείτε είτε να επανεκκινήσετε το
+                                           &brandShortName; τώρα, είτε να συνεχίσετε τη δουλειά σας και να επανεκκινήσετε αργότερα, είτε να αρνηθείτε
+                                           την ενημέρωση.">
 
 <!ENTITY  update.details.label            "Λεπτομέρειες">
 <!ENTITY  update.installedOn.label        "Εγκαταστάθηκε σε:">

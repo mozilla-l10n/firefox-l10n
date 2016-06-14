@@ -12,5 +12,7 @@
 <!ENTITY syncKey.keepItSafe3.description  "δεν μπορούμε να σας βοηθήσουμε να το ανακτήσετε">
 <!ENTITY syncKey.keepItSafe4a.description " αν χαθεί ή το ξεχάσετε. Θα το χρειαστείτε κάθε φορά συνδέετε μια νέα συσκευή στο &syncBrand.fullName.label;.">
 <!ENTITY syncKey.findOutMore1.label       "Διαβάστε περισσότερα για το &syncBrand.fullName.label; και το απόρρητο σας στο ">
+<!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "Όροι υπηρεσίας του &syncBrand.fullName.label; είναι διαθέσιμες στο ">
 <!ENTITY syncKey.footer2.label            ". Η πολιτική απορρήτου είναι διαθέσιμη στο ">
+<!ENTITY syncKey.footer3.label            ".">

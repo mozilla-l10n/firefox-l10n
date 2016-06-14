@@ -217,6 +217,8 @@
 <!ENTITY addon.createdBy.label                "Από ">
 
 <!ENTITY eula.title                           "Συμφωνία άδειας χρήσης">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Αποδοχή και Εγκατάσταση…">
 
 <!ENTITY settings.path.button.label           "Περιήγηση…">
@@ -228,7 +230,9 @@
      to cause this tab to appear. -->
 <!ENTITY experiment.info.label "Τι είναι αυτό; Η Τηλεμετρία μπορεί να εγκαθιστά και να τρέχει περιοδικά πειράματα.">
 <!ENTITY experiment.info.learnmore "Μάθετε περισσότερα">
+<!ENTITY experiment.info.learnmore.accesskey "μ">
 <!ENTITY experiment.info.changetelemetry "Ρυθμίσεις Τηλεμετρίας">
+<!ENTITY experiment.info.changetelemetry.accesskey "η">
 
 <!ENTITY setting.learnmore "Μάθετε περισσότερα…">
 
@@ -245,3 +249,4 @@
      being a link to an external site. -->
 <!ENTITY disabledUnsigned.devInfo.start "Οι προγραμματιστές που ενδιαφέρονται να επαληθεύσουν τα πρόσθετά τους, μπορούν να απευθυνθούν στο ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "εγχειρίδιο">
+<!ENTITY disabledUnsigned.devInfo.end ".">
