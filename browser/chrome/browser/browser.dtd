@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label;-voorkeuren openen">
 <!ENTITY fxaSignInError.label "Opnieuw verbinden met &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Uw account verifiëren">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ingeschakeld">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; zal over enkele ogenblikken beginnen met synchroniseren.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimaliseren">
@@ -171,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Recent aangemaakte bladwijzers">
 <!ENTITY otherBookmarksCmd.label "Andere bladwijzers">
 <!ENTITY bookmarksToolbarChevron.tooltip "Meer bladwijzers tonen">
+<!ENTITY showRecentlyBookmarked.label     "Recent aangemaakte bladwijzers tonen">
+<!ENTITY showRecentlyBookmarked.accesskey "t">
+<!ENTITY hideRecentlyBookmarked.label     "Recent aangemaakte bladwijzers verbergen">
+<!ENTITY hideRecentlyBookmarked.accesskey "v">
 
 <!ENTITY backCmd.label                "Terug">
 <!ENTITY backButton.tooltip           "Een pagina terug gaan">
@@ -228,6 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Bladwijzerzijbalk weergeven">
 <!ENTITY viewBookmarksToolbar.label         "Bladwijzerwerkbalk weergeven">
 
+<!ENTITY containersMenu.label "Containers">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +265,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "B">
 <!ENTITY newUserContext.label             "Nieuw containertabblad">
 <!ENTITY newUserContext.accesskey         "c">
-<!ENTITY userContextPersonal.label        "Persoonlijk">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Werk">
-<!ENTITY userContextWork.accesskey        "W">
-<!ENTITY userContextBanking.label         "Bankieren">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Winkelen">
-<!ENTITY userContextShopping.accesskey    "n">
 <!ENTITY newNavigatorCmd.label        "Nieuw venster">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -558,21 +554,25 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Dempen">
 <!ENTITY mediaMute.accesskey         "D">
-<!ENTITY mediaUnmute.label           "Dempen uitschakelen">
+<!ENTITY mediaUnmute.label           "Dempen opheffen">
 <!ENTITY mediaUnmute.accesskey       "D">
-<!ENTITY mediaPlaybackRate.label     "Afspeelsnelheid">
-<!ENTITY mediaPlaybackRate.accesskey "s">
-<!ENTITY mediaPlaybackRate050x.label "Slow motion (0,5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "Normale snelheid">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Hoge snelheid (1,5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "H">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!ENTITY mediaPlaybackRate2.label     "Afspeelsnelheid">
+<!ENTITY mediaPlaybackRate2.accesskey "f">
+<!ENTITY mediaPlaybackRate050x2.label "Langzaam (0,5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "L">
+<!ENTITY mediaPlaybackRate100x2.label "Normaal">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Snel (1,25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "S">
+<!ENTITY mediaPlaybackRate150x2.label "Sneller (1,5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "r">
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Belachelijke snelheid (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "B">
+<!ENTITY mediaPlaybackRate200x2.label "Belachelijk (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "B">
+<!ENTITY mediaLoop.label             "Herhalen">
+<!ENTITY mediaLoop.accesskey         "H">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -680,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Beveiligde verbinding">
 <!ENTITY identity.connectionNotSecure "Verbinding is niet beveiligd">
 <!ENTITY identity.connectionFile "Deze pagina is op uw computer opgeslagen.">
-<!ENTITY identity.connectionVerified1 "U hebt een beveiligde verbinding met deze website, welke wordt beheerd door:">
+<!ENTITY identity.connectionVerified2 "U hebt een beveiligde verbinding met deze website, welke wordt beheerd door:">
 <!ENTITY identity.connectionInternal "Dit is een beveiligde &brandShortName;-pagina.">
 <!ENTITY identity.insecureLoginForms2 "Ingevoerde aanmeldingen op deze pagina zouden kunnen worden overgenomen.">
 
