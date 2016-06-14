@@ -71,7 +71,7 @@
 <!ENTITY  event.menu.item.saveandclose.label              "Зберегти та закрити">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "т">
 <!ENTITY  event.menu.item.delete.label                    "Видалити…">
-<!ENTITY  event.menu.item.delete.accesskey                "С">
+<!ENTITY  event.menu.item.delete.accesskey                "В">
 <!ENTITY  event.menu.item.page.setup.label                "Параметри сторінки">
 <!ENTITY  event.menu.item.page.setup.accesskey            "р">
 <!ENTITY  event.menu.item.print.label                     "Друк">
