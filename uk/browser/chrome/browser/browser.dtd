@@ -291,7 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.accesskey         "т"> 
 <!ENTITY deleteCmd.label          "Видалити">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "С"> 
+<!ENTITY deleteCmd.accesskey        "В"> 
 <!ENTITY selectAllCmd.label         "Виділити все">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "с"> 
