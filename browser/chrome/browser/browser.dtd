@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label;-foarkarren iepenje">
 <!ENTITY fxaSignInError.label "Opnij ferbine mei &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Jo account ferifiearje">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ynskeakele">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; sil ynkoarten starte mei syngronisearjen.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalisearje ">
@@ -171,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Resint oanmakke blêdwizers">
 <!ENTITY otherBookmarksCmd.label "Oare blêdwizers">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mear blêdwizers toane">
+<!ENTITY showRecentlyBookmarked.label     "Resint oanmakke blêdwizers toane">
+<!ENTITY showRecentlyBookmarked.accesskey "t">
+<!ENTITY hideRecentlyBookmarked.label     "Resint oanmakke blêdwizers ferstopje">
+<!ENTITY hideRecentlyBookmarked.accesskey "f">
 
 <!ENTITY backCmd.label                "Tebek">
 <!ENTITY backButton.tooltip           "Ien side tebek gean">
@@ -228,6 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Blêdwizersydbalke werjaan">
 <!ENTITY viewBookmarksToolbar.label         "Blêdwizerarkbalke werjaan">
 
+<!ENTITY containersMenu.label "Konteners">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +265,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey               "B">
 <!ENTITY newUserContext.label             "Nij kontenerljepblêd">
 <!ENTITY newUserContext.accesskey         "k">
-<!ENTITY userContextPersonal.label        "Persoanlik">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Wurk">
-<!ENTITY userContextWork.accesskey        "W">
-<!ENTITY userContextBanking.label         "Bankiere">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Winkelje">
-<!ENTITY userContextShopping.accesskey    "n">
 <!ENTITY newNavigatorCmd.label            "Nij finster">
 <!ENTITY newNavigatorCmd.key              "N">
 <!ENTITY newNavigatorCmd.accesskey        "N">
@@ -559,20 +555,24 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Lûd út">
 <!ENTITY mediaMute.accesskey         "L">
 <!ENTITY mediaUnmute.label           "Lûd oan">
-<!ENTITY mediaUnmute.accesskey       "o">
-<!ENTITY mediaPlaybackRate.label     "Ofspylfaasje">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Slow Motion (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "Normale faasje">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Hege faasje (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "H">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!ENTITY mediaUnmute.accesskey       "L">
+<!ENTITY mediaPlaybackRate2.label     "Ofspylfaasje">
+<!ENTITY mediaPlaybackRate2.accesskey "O">
+<!ENTITY mediaPlaybackRate050x2.label "Stadich (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "Normaal">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Fluch (1,25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "Flugger (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "r">
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Healwize faasje (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "e">
+<!ENTITY mediaPlaybackRate200x2.label "Healwize faasje (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "H">
+<!ENTITY mediaLoop.label             "Werhelje">
+<!ENTITY mediaLoop.accesskey         "W">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -680,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Befeilige ferbining">
 <!ENTITY identity.connectionNotSecure "Ferbining is net befeilige">
 <!ENTITY identity.connectionFile "Dizze side is op jo kompjûter bewarre.">
-<!ENTITY identity.connectionVerified1 "Jo hawwe in befeilige ferbining mei dizze website, hokker beheard wurdt troch:">
+<!ENTITY identity.connectionVerified2 "Jo hawwe in befeilige ferbining mei dizze website, hokker beheard wurdt troch:">
 <!ENTITY identity.connectionInternal "Dit is in befeilige &brandShortName;-side.">
 <!ENTITY identity.insecureLoginForms2 "Ynfierde oanmeldingen op dizze side soenen oernommen wurde kinne.">
 
