@@ -23,11 +23,15 @@
 
 <!ENTITY firstrun_tabqueue_title "Links">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Ativar fila de abas">
+<!ENTITY firstrun_tabqueue_subtext_off "Salvar links para mais tarde no &brandShortName; quando tocar-los em outros aplicativos.">
 
 <!ENTITY firstrun_tabqueue_message_on "Sucesso!">
+<!ENTITY firstrun_tabqueue_subtext_on "Você sempre pode desligar isso nas &settings; no &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Artigos">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Eliminar a desordem">
 <!ENTITY firstrun_readerview_subtext "Use o leitor para tornar os artigos mais agradáveis de ler \u2014 mesmo off-line.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
@@ -806,5 +810,6 @@ do Android">
 <!ENTITY helper_first_offline_bookmark_button "Ir para os favoritos">
 
 <!ENTITY helper_triple_readerview_open_title "Disponível offline">
+<!ENTITY helper_triple_readerview_open_message "Marcar itens do leitor para lê-los offline.">
 <!ENTITY helper_triple_readerview_open_button "Adicionar aos favoritos">
 
