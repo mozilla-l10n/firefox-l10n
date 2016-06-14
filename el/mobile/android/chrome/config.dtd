@@ -7,7 +7,7 @@
 
 <!ENTITY newPref.namePlaceholder       "Όνομα">
 
-<!ENTITY newPref.valueBoolean          "Λογική μεταβλητή">
+<!ENTITY newPref.valueBoolean          "Δυαδικός">
 <!ENTITY newPref.valueString           "Συμβολοσειρά">
 <!ENTITY newPref.valueInteger          "Ακέραιος">
 
