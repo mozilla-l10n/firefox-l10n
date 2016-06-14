@@ -78,10 +78,12 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Chapoj taq ruwäch">
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Rucholajem sik\u0027inem">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
+<!ENTITY bookmark_folder_items "&formatD; cholna\u0027oj">
+<!ENTITY bookmark_folder_one_item "1 cholna\u0027oj">
 
 <!ENTITY reader_saved_offline "Yakon pa k\u0027amab\u0027ey">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -308,8 +310,10 @@
 <!ENTITY content_notification_title_plural "&formatD; taq ruxaq k\u0027amaya\u0027l k\u0027exon kiwäch">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Taq nunuk\u0027ulem">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Tisik\u0027ïx wakami">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -443,12 +447,12 @@ size. -->
 <!ENTITY share_image_failed "Majun nitikïr ta nikomonïx re jun wachib\u0027äl re\u0027">
 <!ENTITY save_as_pdf "Tiyak achi\u0027el jun PDF">
 <!ENTITY print "Titz\u0027ajb\u0027äx">
-
-
+<!ENTITY find_in_page "Tikanöx pa ruxaq">
+<!ENTITY desktop_mode "Tik\u0027utüx ruxaq k\u0027amayal richin tzub\u0027al">
 <!ENTITY page "Ruxaq">
 <!ENTITY tools "Taq samajib\u0027äl">
-
-
+<!ENTITY new_tab "K’ak’a’ ruwi’">
+<!ENTITY new_private_tab "K\u0027ak\u0027a\u0027 ichinan ruwi\u0027">
 <!ENTITY close_all_tabs "Ketz\u0027apïx konojel ri taq ruwi\u0027">
 <!ENTITY close_private_tabs "Ketz\u0027apïx ri ichinan taq ruwi\u0027">
 <!ENTITY tabs_normal "Taq ruwi\u0027">
@@ -458,6 +462,8 @@ size. -->
 <!ENTITY set_image_chooser_title "Tiya\u0027 kan ri wachib\u0027äl achi\u0027el">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Tikanöx pa ruxaq">
 <!ENTITY find_prev "Chuwäch">
 <!ENTITY find_next "Jun chik">
 <!ENTITY find_close "Titz\u0027apïx">
@@ -559,6 +565,7 @@ size. -->
 <!ENTITY home_synced_devices_smartfolder "Ximon taq okisaxel">
 <!ENTITY home_synced_devices_number "&formatD; taq okisaxel">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 okisaxel">
 <!ENTITY home_history_back_to2 "Jumul chik ri tz\u0027aqät Natab\u0027äl">
 <!ENTITY home_clear_history_button "Tiyuj el runatab\u0027al ri okik\u0027amaya\u0027l">
 <!ENTITY home_clear_history_confirm "¿La kan nawajo\u0027 nayüj el rupam ri natab\u0027äl?">
@@ -797,8 +804,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Tisik\u0027ïx pa k\u0027amab\u0027ey">
 <!ENTITY helper_first_offline_bookmark_message "Tawila\u0027 ri asik\u0027inel Ketz\u0027et taq ruch\u0027akulal Yaketal, achi\u0027el chuqa\u0027 toq majun okem pa k\u0027amaya\u0027l.">
+<!ENTITY helper_first_offline_bookmark_button "Tib\u0027an b\u0027enam pa taq Yaketal">
 
-
-
-
+<!ENTITY helper_triple_readerview_open_title "Wachel pa k\u0027amab\u0027ey">
+<!ENTITY helper_triple_readerview_open_message "Yaketal sik\u0027inel Titz\u0027et taq cholna\u0027oj richin yesik\u0027ïx toq majun okem pa k\u0027amaya\u0027l.">
+<!ENTITY helper_triple_readerview_open_button "Tib\u0027an b\u0027enam pa taq Yaketal">
 
