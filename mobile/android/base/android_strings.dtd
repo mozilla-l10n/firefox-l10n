@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Dobrodošli">
-<!ENTITY  onboard_start_message3 "Brskajte s &brandShortName;om">
-<!ENTITY  onboard_start_subtext3 "Naredite mobilno brskanje po spletu resnično vaše.">
 
 <!ENTITY firstrun_urlbar_message "Dobrodošli v &brandShortName;u">
 <!ENTITY firstrun_urlbar_subtext "Iščite hitreje s pomočjo uporabnih iskalnih predlogov.">
@@ -20,20 +18,32 @@
 <!ENTITY firstrun_signin_message "Povežite se in začnite">
 <!ENTITY firstrun_signin_button "Prijava v Sync">
 <!ENTITY  onboard_start_button_browser "Začnite brskati">
+<!ENTITY firstrun_button_notnow "Ne zdaj">
 <!ENTITY firstrun_button_next "Naprej">
 
-<!ENTITY  onboard_start_restricted1 "Ostanite varni in obdržite nadzor, z to poenostavljeno različico &brandShortName;.">
+<!ENTITY firstrun_tabqueue_title "Povezave">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Vključi čakalno vrsto zavihkov">
+<!ENTITY firstrun_tabqueue_subtext_off "Shrani povezave za poznejšo rabo v &brandShortName;, kadar jih tapnete v drugih aplikacijah.">
 
-<!ENTITY  reading_list_migration_title "Bralni seznam povezan">
-<!ENTITY  reading_list_migration_subtext "Predmeti bralnega seznama bodo zdaj dodani k vašim zaznamkom">
-<!ENTITY  reading_list_migration_goto_bookmarks "Odpri zaznamke">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Plošča zaznamkov je skrita">
+<!ENTITY firstrun_tabqueue_message_on "Uspelo je!">
+<!ENTITY firstrun_tabqueue_subtext_on "To možnost lahko kadar koli izključite v &settings; pod &pref_category_general;.">
+
+<!ENTITY firstrun_readerview_title "Članki">
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Odstrani nepotrebno">
+<!ENTITY firstrun_readerview_subtext "Uporabite bralni pogled in članki bodo prijetnejši za branje, \u2014 tudi kadar ste brez povezave.">
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Vi">
+<!ENTITY firstrun_account_message "Je &brandShortName; tudi v drugi napravi?">
+
+<!ENTITY  onboard_start_restricted1 "Ostanite varni in obdržite nadzor, z to poenostavljeno različico &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Zaznamki">
 <!ENTITY  history_title "Zgodovina">
-<!ENTITY  reading_list_title "Bralni seznam">
 <!ENTITY  recent_tabs_title "Nedavni zavihki">
 
 <!ENTITY  switch_to_tab "Preklopi na zavihek">
@@ -69,6 +79,11 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Posnetki zaslona">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Bralni seznam">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+<!ENTITY bookmark_folder_items "Število predmetov: &formatD;">
+<!ENTITY bookmark_folder_one_item "1 predmet">
 
 <!ENTITY reader_saved_offline "Shranjeno za delo brez povezave">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +189,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Nasvet: poljubno spletno stran lahko dodate na seznam iskalnikov, tako da dolgo pritisnete na njeno polje za iskanje in se dotaknete ikone &formatI;.">
 <!ENTITY pref_category_advanced "Napredno">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Obnavljanje zavihkov, prihranek podatkov, razvojna orodja">
 <!ENTITY pref_category_notifications "Obvestila">
 <!ENTITY pref_category_notifications_summary "Nove možnosti, posodobitve spletnih strani">
@@ -225,6 +243,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Omogočeno, brez tretjih strani">
 <!ENTITY pref_cookies_disabled "Onemogočeno">
 
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_data_saver "Prihranek podatkov">
 <!ENTITY pref_category_media "Predstavnost">
 <!ENTITY pref_category_developer_tools "Razvojna orodja">
@@ -287,7 +308,12 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "Št. posodobljenih strani: &formatD;">
-<!ENTITY content_notification_action_settings "Nastavitve obvestil">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Nastavitve">
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Preberi zdaj">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -538,6 +564,8 @@ size. -->
 <!ENTITY home_history_title "Zgodovina">
 <!ENTITY home_synced_devices_smartfolder "Sinhronizirane naprave">
 <!ENTITY home_synced_devices_number "Št. naprav: &formatD;">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 naprava">
 <!ENTITY home_history_back_to2 "Nazaj na polno zgodovino">
 <!ENTITY home_clear_history_button "Počisti zgodovino brskanja">
 <!ENTITY home_clear_history_confirm "Ste prepričani, da želite počistiti vašo zgodovino?">
@@ -780,3 +808,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_title "Preberi brez povezave">
 <!ENTITY helper_first_offline_bookmark_message "Iščite po predmetih bralnega pogleda tudi brez povezave.">
 <!ENTITY helper_first_offline_bookmark_button "Odpri zaznamke">
+
+<!ENTITY helper_triple_readerview_open_title "Na voljo brez povezave">
+<!ENTITY helper_triple_readerview_open_message "Dodajte predmete bralnega pogleda med zaznamke, da jih boste brali tudi v načinu brez povezave.">
+<!ENTITY helper_triple_readerview_open_button "Dodaj med zaznamke">
+
