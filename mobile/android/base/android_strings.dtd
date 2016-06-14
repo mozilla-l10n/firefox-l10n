@@ -18,19 +18,25 @@
 <!ENTITY firstrun_signin_message "Cysylltu a chychwyn arni">
 <!ENTITY firstrun_signin_button "Mewngofnodwch i Sync">
 <!ENTITY  onboard_start_button_browser "Cychwyn Pori">
-
+<!ENTITY firstrun_button_notnow "Dim nawr">
 <!ENTITY firstrun_button_next "Nesaf">
 
+<!ENTITY firstrun_tabqueue_title "Dolenni">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-
+<!ENTITY firstrun_tabqueue_message_off "Agor ciw Tabiau">
+<!ENTITY firstrun_tabqueue_subtext_off "Cadw\u0027r dolenni ar gyfer hwyrach ymlaen yn &brandShortName; wrth eu tapio mewn apiau eraill.">
 
 <!ENTITY firstrun_tabqueue_message_on "Llwyddiant!">
+<!ENTITY firstrun_tabqueue_subtext_on "Mae modd diffodd hyn yn y &gosodiadau; o dan &pref_category_general;.">
 
-
+<!ENTITY firstrun_readerview_title "Erhyglau">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-
+<!ENTITY firstrun_readerview_message "Colli\u0027r blerwch">
+<!ENTITY firstrun_readerview_subtext "Defnyddio\u0027r Golwg Darllen i wneud erthyglau yn brafiach eu darllen — hyd yn oed all-lein.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!ENTITY firstrun_account_title "Chi">
+<!ENTITY firstrun_account_message "A oes gennych &brandShortName; ar ddyfais arall?">
 
 <!ENTITY  onboard_start_restricted1 "Cadwch yn ddiogel ac mewn reolaeth gyda\u0027r fersiwn symlach yma o &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -72,10 +78,12 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Lluniau Sgrin">
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Rhestr Ddarllen">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
+<!ENTITY bookmark_folder_items "Eitemau &formatD;">
+<!ENTITY bookmark_folder_one_item "1 eitem">
 
 <!ENTITY reader_saved_offline "Cadwyd all-lein">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -302,8 +310,10 @@
 <!ENTITY content_notification_title_plural "&formatD; gwefannau wedi eu diweddaru">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Gosodiadau">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Darllen nawr">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -438,11 +448,11 @@ size. -->
 <!ENTITY save_as_pdf "Cadw fel PDF">
 <!ENTITY print "Argraffu">
 <!ENTITY find_in_page "Canfod ar y Dudalen">
-
+<!ENTITY desktop_mode "Gofyn am wefan bwrdd gwaith">
 <!ENTITY page "Tudalen">
 <!ENTITY tools "Offer">
-
-
+<!ENTITY new_tab "Tab newydd">
+<!ENTITY new_private_tab "Tab preifat newydd">
 <!ENTITY close_all_tabs "Cau Pob Tab">
 <!ENTITY close_private_tabs "Cau Tabiau Preifat">
 <!ENTITY tabs_normal "Tabiau">
@@ -555,6 +565,7 @@ size. -->
 <!ENTITY home_synced_devices_smartfolder "Dyfeisiau cydweddwyd ">
 <!ENTITY home_synced_devices_number "&formatD; dyfeisiadau">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 dyfais">
 <!ENTITY home_history_back_to2 "Nôl i\u0027r Hanes llawn">
 <!ENTITY home_clear_history_button "Clirio eich hanes pori">
 <!ENTITY home_clear_history_confirm "Ydych chi\u0027n siŵr eich bod chi eisiau clirio eich hanes?">
@@ -793,8 +804,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Darllen all-lein">
 <!ENTITY helper_first_offline_bookmark_message "Canfod eich eitemau Golwg Darllen yn Nodau Tudalen, hyd yn oed all-lein.">
+<!ENTITY helper_first_offline_bookmark_button "Mynd i\u0027r Nodau Tudalen">
 
-
-
-
+<!ENTITY helper_triple_readerview_open_title "Ar gael All-lein">
+<!ENTITY helper_triple_readerview_open_message "Gosod Nod Tudalen i eitemau Golwg Darllen i\u0027w darllen all-lein.">
+<!ENTITY helper_triple_readerview_open_button "Ychwanegu at y Nodau Tudalen">
 
