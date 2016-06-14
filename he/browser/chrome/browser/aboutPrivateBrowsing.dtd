@@ -16,8 +16,8 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies               "עוגיות">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "קבצים זמניים">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "ישמור">
-<!ENTITY aboutPrivateBrowsing.info.saved.after2          " את:">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "ישמור:">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          "">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "הורדות">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "סימניות">
 <!ENTITY aboutPrivateBrowsing.note.before                "גלישה פרטית ">
