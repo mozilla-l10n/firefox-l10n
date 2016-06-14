@@ -118,3 +118,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "ການເຊື່ອມຕໍ່ຂອງທ່ານບໍ່ປອດໄພ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ການນຳໃຊ້ເທັກໂນໂລຢີທີ່ຫລ້າສະໄຫມ ແລະ ມີຊ່ອງໂວໃຫ້ແກ່ການໂຈມຕີ. ຜູ້ບຸກລຸກສາມາດເປີດເຜີຍຂໍ້ມູນທີ່ທ່ານຄິດວ່າປອດໄພໄດ້ຢ່າງງ່າຍດາຍ. ຜູ້ດູແລເວັບໄຊຕ໌ຈະຕ້ອງແກ້ໄຂເຄື່ອງແມ່ຂາຍກ່ອນທີ່ທ່ານຈະສາມາດເຂົ້າໄປເບິງເວັບໄຊຕ໌ໄດ້.</p><p> ລະຫັດຂໍ້ຜິດພາດ:NS_ERROR_NET_INADEQUATE_SECURITY</p>">
