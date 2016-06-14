@@ -13,11 +13,11 @@
 <!ENTITY addIMAccountButton.label "Додати чатовий запис…">
 <!ENTITY addIMAccountButton.accesskey "Ч">
 <!ENTITY addFeedAccountButton.label "Додати обліковий запис стрічки новин…">
-<!ENTITY addFeedAccountButton.accesskey "F">
+<!ENTITY addFeedAccountButton.accesskey "т">
 <!ENTITY addOtherAccountButton.label "Додати інший запис…">
 <!ENTITY addOtherAccountButton.accesskey "і">
 <!ENTITY setDefaultButton.label "Встановити типовим">
-<!ENTITY setDefaultButton.accesskey "у">
+<!ENTITY setDefaultButton.accesskey "и">
 <!ENTITY removeButton.label "Вилучити обліковий запис">
 <!ENTITY removeButton.accesskey "В">
 
