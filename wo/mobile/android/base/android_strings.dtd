@@ -70,7 +70,7 @@
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
-<!ENTITY reader_saved_offline "Denc nañ ko ci biti lonkoo">
+<!ENTITY reader_saved_offline "Denc nañ ko ci biti-lonkoo">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -109,45 +109,48 @@
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
 
-<!ENTITY settings "Parammeetar yi">
-<!ENTITY settings_title "Parammeetar yi">
+<!ENTITY settings "Jekk-jekkal">
+<!ENTITY settings_title "Jekk-jekkal">
+<!ENTITY pref_category_general "Yépp">
+<!ENTITY pref_category_general_summary3 "Njëlbeen, làkk, limub ay palanteer">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-<!ENTITY pref_category_language "Language">
-<!ENTITY pref_category_language_summary "Change the language of your browser">
-<!ENTITY pref_browser_locale "Browser language">
+<!ENTITY pref_category_language "Làkk">
+<!ENTITY pref_category_language_summary "Soppi làkku sa joowukaay">
+<!ENTITY pref_browser_locale "Làkku joowukaay bi">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "System default">
+<!ENTITY locale_system_default "Wàccaaleeg noste gi">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-<!ENTITY overlay_share_label "Add to &brandShortName;">
+<!ENTITY overlay_share_label "Yokk ci &brandShortName;">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "Bookmark">
-<!ENTITY overlay_share_bookmark_btn_label_already "Already bookmarked">
-<!ENTITY overlay_share_send_other "Send to other devices">
+<!ENTITY overlay_share_bookmark_btn_label "Màndarga-xët">
+<!ENTITY overlay_share_bookmark_btn_label_already "Mi ngi ci màndarga-xët yi">
+<!ENTITY overlay_share_send_other "Yóonnee ko yeneen jumtukaay">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "Send to another device">
-<!ENTITY overlay_share_no_url "No link found in this share">
-<!ENTITY overlay_share_select_device "Select device">
+<!ENTITY overlay_share_send_tab_btn_label "Yóonnee ko beneen jumtukaay">
+<!ENTITY overlay_share_no_url "Giseesul benn lëkkalekaay ci bii séddoo">
+<!ENTITY overlay_share_select_device "Tànn ab jumtukaay">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Giseesul benn jumtukaay bu lonku ci am Saqum Firefox">
 
-<!ENTITY pref_category_search3 "Search">
+<!ENTITY pref_category_search3 "Seet">
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_datareporting "Data choices">
 <!ENTITY pref_learn_more "Learn more">
