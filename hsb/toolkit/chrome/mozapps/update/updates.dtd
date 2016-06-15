@@ -55,7 +55,7 @@
 <!ENTITY  finishedBackground.name         "Aktualizacija:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Aktualizacija budźe so instalować přichodny raz, hdyž &brandShortName; startuje. Móžeće &brandShortName; nětko znowa startować abo dale dźěłać a pozdźišo znowa startować.">
-
+<!ENTITY  finishedBackground.moreElevated "Tuta aktualizacija sej administratorowe priwilegije wužaduje. Aktualizacija budźe so přichodny raz instalować, hdyž so &brandShortName; startuje. Móžeće &brandShortName; nětko znowa startować, dale dźěłać a pozdźišo znowa startować abo tutu aktualizaciju wotpokazać.">
 
 <!ENTITY  update.details.label            "Podrobnosće">
 <!ENTITY  update.installedOn.label        "Instalowany na:">
