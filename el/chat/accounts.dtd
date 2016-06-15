@@ -14,7 +14,7 @@
 <!ENTITY accountManager.close.label          "Κλείσιμο">
 <!ENTITY accountManager.close.accesskey      "κ">
 <!-- This should match account.commandkey in instantbird.dtd -->
-<!ENTITY accountManager.close.commandkey     "α">
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Δεν έχει παραμετροποιηθεί ακόμη κάποιος λογαριασμός">
 <!ENTITY accountManager.noAccount.description "Πατήστε στο κουμπί &accountManager.newAccount.label; για να σας οδηγήσει ο &brandShortName; στην ρύθμιση ενός.">
