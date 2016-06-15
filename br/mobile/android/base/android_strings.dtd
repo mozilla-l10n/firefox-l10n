@@ -260,7 +260,7 @@
 
 <!ENTITY pref_tracking_protection_title2 "Gwarez heuliañ">
 <!ENTITY pref_tracking_protection_summary3 "Gweredekaet er merdeiñ prevez">
-<!ENTITY pref_donottrack_title "N\u0027am heuilhit ket">
+<!ENTITY pref_donottrack_title "Na heuliañ ma roudoù">
 <!ENTITY pref_donottrack_summary "&brandShortName; a lavaro d\u0027al lec\u0027hiennoù ne fell ket deoc\u0027h bezañ heuliet">
 
 <!ENTITY pref_tracking_protection_enabled "Gweredekaet">
