@@ -18,14 +18,17 @@
 
 <!ENTITY firstrun_signin_button "Inicia la sessió al Sync">
 <!ENTITY  onboard_start_button_browser "Comença a navegar">
-
+<!ENTITY firstrun_button_notnow "Ara no">
 <!ENTITY firstrun_button_next "Següent">
 
+<!ENTITY firstrun_tabqueue_title "Enllaços">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
 
+<!ENTITY firstrun_tabqueue_message_on "Tot correcte!">
 
 
+<!ENTITY firstrun_readerview_title "Articles">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
@@ -69,10 +72,12 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Llista de lectura">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
+<!ENTITY bookmark_folder_items "&formatD; elements">
+<!ENTITY bookmark_folder_one_item "1 element">
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -80,8 +85,8 @@
 
 <!ENTITY history_today_section "Avui">
 <!ENTITY history_yesterday_section "Ahir">
-
-
+<!ENTITY history_week_section3 "Darrers 7 dies">
+<!ENTITY history_older_section3 "Fa més de 6 mesos">
 
 <!ENTITY search "Cerca">
 <!ENTITY reload "Actualitza">
@@ -110,11 +115,12 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "S\u0027està reproduint l\u0027àudio: &formatS;">
 
 <!ENTITY settings "Paràmetres">
 <!ENTITY settings_title "Paràmetres">
 <!ENTITY pref_category_general "General">
-
+<!ENTITY pref_category_general_summary3 "Inici, llengua, cua de pestanyes">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -180,19 +186,19 @@
      “storing data”. -->
 
 
+<!ENTITY pref_content_notifications "Actualitzacions de llocs web">
 
+<!ENTITY pref_developer_remotedebugging_usb "Depuració remota per USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Depuració remota per Wi-Fi">
 
-
-
-
-
+<!ENTITY pref_remember_signons2 "Recorda les dades d\u0027inici de sessió">
 <!ENTITY pref_manage_logins "Gestiona els inicis de sessió">
 
 <!ENTITY pref_category_home "Inici">
 <!ENTITY pref_category_home_summary "Personalitzeu la pàgina d\u0027inici">
 <!ENTITY pref_category_home_panels "Subfinestres">
 <!ENTITY pref_category_home_add_ons "Complements">
-
+<!ENTITY pref_home_updates2 "Actualitzacions de contingut">
 <!ENTITY pref_home_updates_enabled "Activades">
 <!ENTITY pref_home_updates_wifi "Només per Wi-Fi">
 <!ENTITY pref_category_home_homepage "Pàgina d\u0027inici">
@@ -217,7 +223,7 @@
 <!ENTITY pref_header_search "Cerca">
 <!ENTITY pref_header_privacy_short "Privadesa">
 <!ENTITY pref_header_accessibility "Accessibilitat">
-
+<!ENTITY pref_header_notifications "Notificacions">
 <!ENTITY pref_header_advanced "Avançat">
 <!ENTITY pref_header_help "Ajuda">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -230,6 +236,8 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 
+<!ENTITY pref_category_data_saver "Economitzador de dades">
+<!ENTITY pref_category_media "Elements multimèdia">
 <!ENTITY pref_category_developer_tools "Eines per a desenvolupadors">
 
 <!ENTITY pref_tap_to_load_images_title2 "Mostra les imatges">
@@ -237,6 +245,7 @@
 <!ENTITY pref_tap_to_load_images_data "Només per Wi-Fi">
 
 
+<!ENTITY pref_show_web_fonts "Mostra els tipus de lletra web">
 
 
 <!ENTITY pref_tracking_protection_title2 "Protecció contra el seguiment">
@@ -286,6 +295,7 @@
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Paràmetres">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
@@ -331,7 +341,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si els llocs web poden reproduir automàticament vídeos i altres continguts multimèdia">
 <!ENTITY pref_zoom_force_enabled "Habilita sempre el zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Fes que es pugui aplicar el zoom en qualsevol pàgina">
-
+<!ENTITY pref_voice_input "Entrada de veu">
 
 
 
@@ -354,6 +364,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Baixades">
 <!ENTITY pref_private_data_syncedTabs "Pestanyes sincronitzades">
 
+<!ENTITY pref_default_browser "Fes que sigui el navegador per defecte">
 <!ENTITY pref_about_firefox "Quant al &brandShortName;">
 <!ENTITY pref_vendor_faqs "PMF">
 <!ENTITY pref_vendor_feedback "Doneu la vostra opinió">
@@ -419,12 +430,12 @@ size. -->
 <!ENTITY share_image_failed "No es pot compartir la imatge">
 <!ENTITY save_as_pdf "Desa com a PDF">
 <!ENTITY print "Imprimeix">
-
-
+<!ENTITY find_in_page "Cerca a la pàgina">
+<!ENTITY desktop_mode "Mostra lloc d\u0027escriptori">
 <!ENTITY page "Pàgina">
 <!ENTITY tools "Eines">
-
-
+<!ENTITY new_tab "Pestanya nova">
+<!ENTITY new_private_tab "Pestanya privada nova">
 <!ENTITY close_all_tabs "Tanca totes les pestanyes">
 <!ENTITY close_private_tabs "Tanca les pestanyes privades">
 <!ENTITY tabs_normal "Pestanyes">
@@ -434,6 +445,8 @@ size. -->
 <!ENTITY set_image_chooser_title "Defineix la imatge com a">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Cerca a la pàgina">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Següent">
 <!ENTITY find_close "Tanca">
@@ -472,8 +485,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_toast_error "No s\u0027ha pogut desar l\u0027inici de sessió">
 
 
-
-
+<!ENTITY doorhanger_login_select_toast_copy_error "No s\u0027ha pogut copiar la contrasenya">
+<!ENTITY doorhanger_login_select_action_text "Tria un altre inici de sessió">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
