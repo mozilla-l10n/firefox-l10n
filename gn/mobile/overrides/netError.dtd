@@ -14,7 +14,7 @@
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Ko kundaharenda ndaikatúi eipuru">
-<!ENTITY deniedPortAccess.longDesc "">
+<!ENTITY deniedPortAccess.longDesc ".">
 
 <!ENTITY dnsNotFound.title "Mohendahavusu ndojejuhúiva">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
