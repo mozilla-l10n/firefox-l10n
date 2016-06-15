@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Anders:">
 <!ENTITY archiveInOtherFolder.accesskey "n">
 <!ENTITY specialFolders.label "Concepten en sjablonen">
-<!ENTITY keepDrafts.label "Berichtconcepten bewaren in:">
+<!ENTITY keepDrafts2.label "Conceptberichten bewaren in:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Map ‘Concepten’ in:">
 <!ENTITY draftsFolderOn.accesskey "M">
