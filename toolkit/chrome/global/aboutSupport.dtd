@@ -86,6 +86,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Datowa banka Places">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "Integrita">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Integritu přepruwować">
 

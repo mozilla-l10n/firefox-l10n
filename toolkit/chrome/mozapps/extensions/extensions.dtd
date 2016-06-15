@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Začituje so…">
-
+<!ENTITY listEmpty.installed.label            "Njejsće přidatki tutoho typa instalował">
 <!ENTITY listEmpty.availableUpdates.label     "Žane aktualizacije namakane">
-
+<!ENTITY listEmpty.recentUpdates.label        "W poslednim času njejsće přidatki aktualizował">
 <!ENTITY listEmpty.findUpdates.label          "Za aktualizacijemi pytać">
 <!ENTITY listEmpty.search.label               "Přihódne přidatki njedachu so namakać">
 <!ENTITY listEmpty.button.label               "Dalše informacije wo přidatkach">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Wotstronić">
 <!ENTITY cmd.uninstallAddon.accesskey         "s">
 <!ENTITY cmd.showPreferencesWin.label         "Nastajenja">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Nastajenja tutoho přidatka změnić">
 <!ENTITY cmd.showPreferencesUnix.label        "Nastajenja">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Nastajenja tutoho přidatka změnić">
 <!ENTITY cmd.contribute.label                 "Přinošować">
 <!ENTITY cmd.contribute.accesskey             "P">
 <!ENTITY cmd.contribute.tooltip               "K wuwiću tutoho přidatka přinošować">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Što přidatki su?">
 <!ENTITY discover.description2                "Přidatki su nałoženja, z kotrymiž móžeće &brandShortName; z přidatnej funkcionalnosću abo přidatnym stilom swojim přećam a potrjebam přiměrić. Wupruwujće čas lutowacu bóčnicu, předpowědź wjedra abo drastu, zo byšće swój wosobinski &brandShortName; dóstał.">
-
+<!ENTITY discover.footer                      "Hdyž sće z internetom zwjazany, budźe tute wokno wam někotre z lěpšich a najbóle woblubowanich přidatkow za wupruwowanje poskićeć.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Wersija">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Awtomatiske aktualizacije">
 <!ENTITY detail.updateDefault.label           "Standard">
-
+<!ENTITY detail.updateDefault.tooltip         "Aktualizacije jenož awtomatisce instalować, jeli to je standard">
 <!ENTITY detail.updateAutomatic.label         "Zapinjeny">
 <!ENTITY detail.updateAutomatic.tooltip       "Aktualizacije awtomatisce instalować">
 <!ENTITY detail.updateManual.label            "Wupinjeny">
-
+<!ENTITY detail.updateManual.tooltip          "Aktualizacije awtomatisce njeinstalować">
 <!ENTITY detail.home                          "Startowa strona">
 <!ENTITY detail.repository                    "Přidatkowy profil">
 <!ENTITY detail.size                          "Wulkosć">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Aktualizacije za tutón přidatk pytać">
 <!ENTITY detail.showPreferencesWin.label      "Nastajenja">
 <!ENTITY detail.showPreferencesWin.accesskey  "N">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Nastajenja tutoho přidatka změnić">
 <!ENTITY detail.showPreferencesUnix.label     "Nastajenja">
 <!ENTITY detail.showPreferencesUnix.accesskey "N">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Nastajenja tutoho přidatka změnić">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Što to je? Telemetrija móže hdys a hdys eksperimenty instalować a přewjesć.">
 <!ENTITY experiment.info.learnmore "Dalše informacije">
 <!ENTITY experiment.info.learnmore.accesskey "D">
 <!ENTITY experiment.info.changetelemetry "Telemetrijowe nastajenja">
