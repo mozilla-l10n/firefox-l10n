@@ -499,7 +499,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "ชื่อผู้ใช้">
 <!ENTITY doorhanger_login_edit_password_hint "รหัสผ่าน">
 <!ENTITY doorhanger_login_edit_toggle "แสดงรหัสผ่าน">
-<!ENTITY doorhanger_login_edit_toast_error "การบันทึกการเข้าสู่ระบบล้มเหลว">
+<!ENTITY doorhanger_login_edit_toast_error "ไม่สามารถบันทึกการเข้าสู่ระบบ">
 <!ENTITY doorhanger_login_select_message "คัดลอกรหัสผ่านจาก &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "คัดลอกรหัสผ่านไปยังคลิปบอร์ดแล้ว">
 <!ENTITY doorhanger_login_select_toast_copy_error "ไม่สามารถคัดลอกรหัสผ่าน">
