@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Afegides més recentment">
 <!ENTITY otherBookmarksCmd.label "Altres adreces d'interès">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostra més adreces d'interès">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Mostra les afegides més recentment">
+<!ENTITY showRecentlyBookmarked.accesskey "o">
+<!ENTITY hideRecentlyBookmarked.label     "Amaga les afegides més recentment">
+<!ENTITY hideRecentlyBookmarked.accesskey "m">
 
 <!ENTITY backCmd.label                "Enrere">
 <!ENTITY backButton.tooltip           "Vés una pàgina enrere">
@@ -558,21 +558,21 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.label     "Velocitat de reproducció">
 <!ENTITY mediaPlaybackRate2.accesskey "l">
-
-
+<!ENTITY mediaPlaybackRate050x2.label "Lent (0,5x)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "L">
 <!ENTITY mediaPlaybackRate100x2.label "Normal">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
-
-
-
-
+<!ENTITY mediaPlaybackRate125x2.label "Ràpid (1,25x)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "R">
+<!ENTITY mediaPlaybackRate150x2.label "Més ràpid (1,5x)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "s">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Màxima velocitat (×2)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "M">
-
-
+<!ENTITY mediaLoop.label             "Repetició">
+<!ENTITY mediaLoop.accesskey         "R">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

@@ -7,6 +7,8 @@
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
 
+<!ENTITY inspectorCopyInnerHTML.label       "HTML interior">
+<!ENTITY inspectorCopyInnerHTML.accesskey   "i">
 <!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
