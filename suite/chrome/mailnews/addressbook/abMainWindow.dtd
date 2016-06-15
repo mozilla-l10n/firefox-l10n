@@ -93,7 +93,7 @@
 <!ENTITY newmsgButton.tooltip                           "Een e-mailbericht sturen">
 <!ENTITY newIM.tooltip                                  "Een instant-bericht sturen of chatten">
 <!ENTITY deleteItemButton.tooltip                       "Geselecteerde item verwijderen">
-<!ENTITY throbber.tooltip                               "Naar de &vendorShortName;-startpagina">
+<!ENTITY throbber.tooltip                               "Naar de &vendorShortName;-startpagina gaan">
 <!ENTITY advancedButton.tooltip                         "Uitgebreid adres zoeken">
 
 <!-- Dir Tree header -->

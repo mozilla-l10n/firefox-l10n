@@ -86,7 +86,7 @@
 <!ENTITY saveAudioCmd.accesskey         "n">
 <!ENTITY copyLinkCmd.label              "Koppelingslocatie kopiëren">
 <!ENTITY copyLinkCmd.accesskey          "p">
-<!ENTITY copyImageCmd.label             "Afbeeldingslocatie kopiëren">
+<!ENTITY copyImageCmd.label             "Afbeelding kopiëren">
 <!ENTITY copyImageCmd.accesskey         "o">
 <!ENTITY copyVideoURLCmd.label          "Videolocatie kopiëren">
 <!ENTITY copyVideoURLCmd.accesskey      "o">

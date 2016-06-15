@@ -12,7 +12,7 @@
 <!ENTITY  directTypeRadio.accesskey     "D">
 <!ENTITY  systemTypeRadio.label         "Proxyinstellingen van systeem gebruiken">
 <!ENTITY  systemTypeRadio.accesskey     "s">
-<!ENTITY  manualTypeRadio.label         "Handmatige proxyconfiguratie">
+<!ENTITY  manualTypeRadio.label         "Handmatige proxyconfiguratie:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  wpadTypeRadio.label           "Proxyconfiguratie automatisch detecteren">
 <!ENTITY  wpadTypeRadio.accesskey       "a">

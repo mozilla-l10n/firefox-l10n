@@ -26,7 +26,7 @@
 <!ENTITY useIdleNotifications.label "Directe servernotificaties toestaan als nieuwe berichten binnenkomen">
 <!ENTITY useIdleNotifications.accesskey "D">
 <!ENTITY connectionSecurity.label "Verbindingsbeveiliging:">
-<!ENTITY connectionSecurity.accesskey "V">
+<!ENTITY connectionSecurity.accesskey "e">
 <!ENTITY connectionSecurityType-0.label "Geen">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, mits beschikbaar">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">

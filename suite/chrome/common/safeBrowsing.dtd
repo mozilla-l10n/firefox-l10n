@@ -9,10 +9,10 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Gerapporteerde aanvalpagina!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Deze webpagina op <span id='malware_sitename'/> is gerapporteerd als een aanvalpagina en is geblokkeerd op basis van uw beveiligingsinstellingen.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Deze webpagina op <span id='malware_sitename'/> is gerapporteerd als een aanvalpagina en is geblokkeerd op basis van uw beveiligingsvoorkeuren.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Aanvalpagina’s proberen programma’s te installeren die privégegevens stelen, uw computer gebruiken om anderen aan te vallen, of uw systeem beschadigen.</p><p>Sommige aanvalpagina’s verspreiden bewust gevaarlijke software, maar vele zijn gecompromitteerd zonder de kennis of toestemming van hun eigenaars.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Gerapporteerde pagina met ongewenste software!!">
+<!ENTITY safeb.blocked.unwantedPage.title "Gerapporteerde pagina met ongewenste software!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Deze webpagina op <span id='unwanted_sitename'/> is gerapporteerd als een webpagina die ongewenste software bevat en is geblokkeerd op basis van uw beveiligingsvoorkeuren.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Pagina’s met ongewenste software proberen software te installeren die misleidend kan zijn en uw systeem op onverwachte manieren kan beïnvloeden.</p>">

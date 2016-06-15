@@ -4,7 +4,7 @@
 
 <!ENTITY applyTheme.label            "Thema toepassen">
 <!ENTITY applyTheme.accesskey        "h">
-<!ENTITY getMoreThemesCmd.label      "Meer  thema’s verkrijgen">
+<!ENTITY getMoreThemesCmd.label      "Meer thema’s verkrijgen">
 <!ENTITY getMoreThemesCmd.accesskey  "M">
 <!ENTITY getBackgroundsCmd.label     "Achtergronden verkrijgen">
 <!ENTITY getBackgroundsCmd.accesskey "A">

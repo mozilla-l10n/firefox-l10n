@@ -13,6 +13,6 @@
 <!ENTITY syncKey.keepItSafe4.description  " als u deze verliest. U zult deze sleutel telkens wanneer u een nieuwe computer of apparaat met &syncBrand.fullName.label; verbindt moeten gebruiken.">
 <!ENTITY syncKey.findOutMore1.label       "Meer informatie over &syncBrand.fullName.label; en uw privacy kunt u vinden op ">
 <!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Servicevoorwaarden zijn beschikbaar op ">
+<!ENTITY syncKey.footer1.label            "De servicevoorwaarden van &syncBrand.fullName.label; zijn beschikbaar op ">
 <!ENTITY syncKey.footer2.label            ". Het privacybeleid is beschikbaar op ">
 <!ENTITY syncKey.footer3.label            ".">

@@ -48,7 +48,7 @@
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Browserinhoudwerkset">
+<!ENTITY browserContentToolboxMenu.label     "Browserinhoudswerkset">
 <!ENTITY browserContentToolboxMenu.accesskey "t">
 
 <!ENTITY devToolbarCloseButton.tooltiptext   "Ontwikkelaarswerkbalk sluiten">

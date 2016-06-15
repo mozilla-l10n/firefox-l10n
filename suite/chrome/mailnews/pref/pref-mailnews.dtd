@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.mailnews.title              "Mail &amp; nieuwsgroepen">
+<!ENTITY pref.mailnews.title              "E-mail &amp; nieuwsgroepen">
 <!ENTITY generalSettings.caption          "Algemene instellingen">
 <!ENTITY confirmMove.label                "Bevestiging vragen bij het verplaatsen van mappen naar de prullenbak">
 <!ENTITY confirmMove.accesskey            "B">

@@ -32,7 +32,7 @@
 
 # LOCALIZATION NOTE (mozilla_about):
 # link title for http://www.mozilla.org/about/
-#define mozilla_about About Mozilla
+#define mozilla_about Over Mozilla
 
 #define extend_seamonkey SeaMonkey uitbreiden
 

@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- These are added to the Advanced - Scripts & Plugins panel -->
-<!ENTITY enbPluginCheckMailNews.label     "Mail &amp; nieuwsgroepen">
+<!ENTITY enbPluginCheckMailNews.label     "E-mail &amp; nieuwsgroepen">
 <!ENTITY enbPluginCheckMailNews.accesskey "a">
 
 <!-- These are added to the Window menu -->
-<!ENTITY mail.label                       "Mail &amp; nieuwsgroepen">
-<!ENTITY mail.accesskey                   "M">
+<!ENTITY mail.label                       "E-mail &amp; nieuwsgroepen">
+<!ENTITY mail.accesskey                   "m">
 <!ENTITY addressbook.label                "Adresboek">
 <!ENTITY addressbook.accesskey            "A">
 

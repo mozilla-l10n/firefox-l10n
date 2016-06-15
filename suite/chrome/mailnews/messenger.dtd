@@ -203,7 +203,7 @@
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Normaal">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY bodyMenu.label "Berichtopmaak als">
+<!ENTITY bodyMenu.label "Berichttekst als">
 <!ENTITY bodyMenu.accesskey "o">
 <!ENTITY bodyAllowHTML.label "Originele HTML">
 <!ENTITY bodyAllowHTML.accesskey "O">
@@ -214,13 +214,13 @@
 <!ENTITY bodyAllParts.label "Alle tekstgedeelten">
 <!ENTITY bodyAllParts.accesskey "A">
 
-<!ENTITY bodyMenuFeed.label "Feedberichtopmaak als">
+<!ENTITY bodyMenuFeed.label "Feedberichttekst als">
 <!ENTITY bodyMenuFeed.accesskey "F">
 <!ENTITY viewFeedWebPage.label "Webpagina">
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Samenvatting">
 <!ENTITY viewFeedSummary.accesskey "m">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "Standaardformaat">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Standaardindeling">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "S">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Bijlagen in bericht weergeven">
@@ -251,7 +251,7 @@
 <!ENTITY nextUnreadMsgCmd.label "Ongelezen bericht">
 <!ENTITY nextUnreadMsgCmd.accesskey "O">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextFlaggedMsgCmd.label "Gemarkeerde berichten">
+<!ENTITY nextFlaggedMsgCmd.label "Gemarkeerd bericht">
 <!ENTITY nextFlaggedMsgCmd.accesskey "m">
 <!ENTITY nextUnreadThread.label "Ongelezen conversatie">
 <!ENTITY nextUnreadThread.accesskey "c">
@@ -429,11 +429,11 @@
 <!ENTITY advancedButton.tooltip "Uitgebreid berichten zoeken">
 <!ENTITY getMsgButton.tooltip "Nieuwe berichten ophalen">
 <!ENTITY newMsgButton.tooltip "Een nieuw bericht aanmaken">
-<!ENTITY replyButton.tooltip "Het bericht beantwoorden">
+<!ENTITY replyButton.tooltip "Het geselecteerde bericht beantwoorden">
 <!ENTITY replyAllButton.tooltip "Afzender en alle ontvangers beantwoorden">
 <!ENTITY replyAllButtonNews.tooltip "Afzender en nieuwsgroep beantwoorden">
 <!ENTITY forwardButton.tooltip "Geselecteerde bericht doorsturen">
-<!ENTITY fileButton.tooltip "Geselecteerde bericht archiveren">
+<!ENTITY fileButton.tooltip "Geselecteerde bericht verplaatsen">
 <!ENTITY nextButton.tooltip "Naar het volgende ongelezen bericht gaan">
 <!ENTITY goBackButton.tooltip "Een bericht terug gaan">
 <!ENTITY goForwardButton.tooltip "Een bericht vooruit gaan">
@@ -441,7 +441,7 @@
 <!ENTITY undeleteButton.tooltip "Geselecteerde bericht terugplaatsen">
 <!ENTITY markButton.tooltip "Berichten markeren">
 <!ENTITY stopButton.tooltip "De huidige overdracht stoppen">
-<!ENTITY throbber.tooltip "Naar de &vendorShortName;-startpagina">
+<!ENTITY throbber.tooltip "Naar de &vendorShortName;-startpagina gaan">
 <!ENTITY junkButton.tooltip "Geselecteerde berichten als ongewenst markeren">
 <!ENTITY notJunkButton.tooltip "Geselecteerde berichten als gewenst markeren">
 
@@ -519,8 +519,8 @@
 <!ENTITY folderContextNew.accesskey "N">
 <!ENTITY folderContextSubscribe.label "Abonneren…">
 <!ENTITY folderContextSubscribe.accesskey "A">
-<!ENTITY folderContextSearchMessages.label "Zoeken…">
-<!ENTITY folderContextSearchMessages.accesskey "Z">
+<!ENTITY folderContextSearchMessages.label "Berichten zoeken…">
+<!ENTITY folderContextSearchMessages.accesskey "z">
 <!ENTITY folderContextProperties.label "Eigenschappen…">
 <!ENTITY folderContextProperties.accesskey "E">
 <!ENTITY folderContextSettings.label "Instellingen…">
@@ -530,8 +530,8 @@
 <!ENTITY focusSearchInput.key "k">
 <!ENTITY advancedButton.label "Geavanceerd…">
 <!ENTITY advancedButton.accesskey "a">
-<!ENTITY searchButton.label "Zoeken in berichten…">
-<!ENTITY searchButton.accesskey "Z">
+<!ENTITY searchButton.label "Berichten zoeken…">
+<!ENTITY searchButton.accesskey "z">
 
 <!ENTITY all.label "Alle">
 <!ENTITY all.accesskey "A">
