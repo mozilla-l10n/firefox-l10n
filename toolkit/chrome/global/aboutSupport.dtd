@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Informacije za rozrisowanje problemow">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  Tuta strona wobsahuje techniske informacije, kotrež móhli wužitne być, hdyž pospytujeće problem rozrisać. Jeli za wotmołwami za zwučene prašenja wo &brandShortName; pytaće, wopytajće našu <a id='supportLink'>podpěranske websydło</a>.">
+
 <!ENTITY aboutSupport.crashes.title "Rozprawy wo spadach">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -50,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsOS "Dźěłowy system">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Wužity składowak">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Wukon">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Zregistrowane service workers">
@@ -84,8 +86,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integrita">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Integritu přepruwować">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Inkrementelny GC">
@@ -112,6 +114,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Protokol nimokulenjow">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Rozsudowy protokol">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funkcije, kotrež su so wot spadoweho stražnika znjemóžnili">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Nuzowe rozrisanja">
