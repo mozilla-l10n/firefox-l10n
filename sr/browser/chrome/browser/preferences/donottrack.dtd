@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Не желим да ме прате">
-<!ENTITY window.width                 "50em">
-<!ENTITY window.height                "8em">
+<!ENTITY window.width                 "60em">
+<!ENTITY window.height                "15em">
 
 <!ENTITY doNotTrackCheckbox2.label    "Увек користи Не желим да ме прате">
 <!ENTITY doNotTrackCheckbox2.accesskey "к">

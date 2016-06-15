@@ -23,7 +23,7 @@
 
 <!ENTITY firstrun_tabqueue_title "Везе">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Укључи ред језичака">
+<!ENTITY firstrun_tabqueue_message_off "Укључи низ језичака">
 <!ENTITY firstrun_tabqueue_subtext_off "Сачувајте везе за касније у &brandShortName;-у при додиру у другим апликацијама.">
 
 <!ENTITY firstrun_tabqueue_message_on "Успех!">
@@ -192,7 +192,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Обнова језичака, чување података, алати за развој">
+<!ENTITY pref_category_advanced_summary3 "Обнова језичака, штедња података, алати за развој">
 <!ENTITY pref_category_notifications "Обавештења">
 <!ENTITY pref_category_notifications_summary "Нове могућности, ажурирања веб сајта">
 <!ENTITY pref_content_notifications "Ажурирања веб сајта">
@@ -246,7 +246,7 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_data_saver "Чување података">
+<!ENTITY pref_category_data_saver "Штедња података">
 <!ENTITY pref_category_media "Медија">
 <!ENTITY pref_category_developer_tools "Алати за развој">
 
@@ -516,7 +516,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Режим целог екрана">
 <!ENTITY pref_scroll_title_bar_summary2 "Сакриј &brandShortName; алатну траку док скролујем страницу">
 
-<!ENTITY pref_tab_queue_title3 "Ред језичака">
+<!ENTITY pref_tab_queue_title3 "Низ језичака">
 <!ENTITY pref_tab_queue_summary4 "Снимите везе док следећи пут не отворите &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
