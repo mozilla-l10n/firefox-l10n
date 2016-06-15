@@ -4,8 +4,8 @@
 
 <!ENTITY window.title                 "កុំ​តាមដាន">
 <!ENTITY window.width                 "50em">
+<!ENTITY window.height                "10em">
 
 
 
-
-
+<!ENTITY doNotTrackLearnMore.label    "ស្វែងយល់​​បន្ថែម">

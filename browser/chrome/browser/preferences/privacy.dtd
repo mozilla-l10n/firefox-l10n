@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-
+<!ENTITY  trackingProtectionPrivate.label      "តែ​នៅ​ក្នុង​បង្អួច​ឯកជន​ប៉ុណ្ណោះ">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
 
 
 <!ENTITY  trackingProtectionLearnMore.label    "ស្វែងយល់​បន្ថែម​">
@@ -20,6 +20,8 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
+<!ENTITY  doNotTrack.pre.label          "អ្នក​ក៏​អាច ">
+<!ENTITY  doNotTrack.settings.label     "គ្រប់គ្រង​ការ​កំណត់ &quot;កុំ​តាមដាន&quot; របស់​អ្នក">
 
 
 <!ENTITY  history.label                 "ប្រវត្តិ">
