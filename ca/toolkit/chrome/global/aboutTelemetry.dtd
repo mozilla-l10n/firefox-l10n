@@ -14,7 +14,7 @@
 
 <!ENTITY aboutTelemetry.extendedRecordingDisabled "  L'enregistrament ampliat de la telemesura està <span>inhabilitat</span>.">
 
-<!ENTITY aboutTelemetry.pingDataSource "Fes ping a l'origen de les dades">
+<!ENTITY aboutTelemetry.pingDataSource "Font de dades de ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Dades de ping actuals">
 
@@ -25,7 +25,7 @@
 
 <!ENTITY aboutTelemetry.showSubsessionData "Mostra dades de la subsessió">
 
-<!ENTITY aboutTelemetry.choosePing "Escull ping:">
+<!ENTITY aboutTelemetry.choosePing "Trieu el ping:">
 
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping més recent">
 
