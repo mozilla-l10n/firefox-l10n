@@ -8,7 +8,7 @@
 <!ENTITY menuBar.tooltip                "Menubalk">
 <!ENTITY searchBar.tooltip              "Zoekbalk">
 
-<!ENTITY search.placeholder             "Zoeken in geschiedenis">
+<!ENTITY search.placeholder             "Geschiedenis doorzoeken">
 <!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Weergeven">
 

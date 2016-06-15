@@ -45,7 +45,7 @@
 
 <!-- New Account Page 2: Recovery Key -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; denkt aan uw privacy">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Om uw totale privacy te waarborgen worden al uw gegevens voor het uploaden versleuteld. De herstelsleutel, die nodig is om uw gegevens te ontcijferen, wordt niet geüpload.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Om uw totale privacy te waarborgen, worden al uw gegevens voor het uploaden versleuteld. De herstelsleutel, die nodig is om uw gegevens te ontcijferen, wordt niet geüpload.">
 <!ENTITY recoveryKeyEntry.label        "Uw herstelsleutel">
 <!ENTITY recoveryKeyEntry.accesskey    "h">
 <!ENTITY recoveryGenerateNewKey.label  "Nieuwe sleutel genereren">

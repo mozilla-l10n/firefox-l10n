@@ -9,7 +9,7 @@
 <!ENTITY subjectColumn.label "Onderwerp">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Prioriteit">
-<!ENTITY tagsColumn.label "Label">
+<!ENTITY tagsColumn.label "Labels">
 <!ENTITY accountColumn.label "Account">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Grootte">
@@ -31,13 +31,13 @@
 <!ENTITY subjectColumn2.tooltip "Sorteren op onderwerp">
 <!ENTITY dateColumn2.tooltip "Sorteren op datum">
 <!ENTITY priorityColumn2.tooltip "Sorteren op prioriteit">
-<!ENTITY tagsColumn2.tooltip "Sorteren op label">
+<!ENTITY tagsColumn2.tooltip "Sorteren op labels">
 <!ENTITY accountColumn2.tooltip "Sorteren op account">
 <!ENTITY statusColumn2.tooltip "Sorteren op status">
 <!ENTITY sizeColumn2.tooltip "Sorteren op grootte">
 <!ENTITY junkStatusColumn2.tooltip "Sorteren op ongewenstberichtstatus">
 <!ENTITY unreadColumn2.tooltip "Aantal ongelezen berichten in conversatie">
-<!ENTITY totalColumn2.tooltip "Totaal aantal berichten in conversatie">
+<!ENTITY totalColumn2.tooltip "Totale aantal berichten in conversatie">
 <!ENTITY readColumn2.tooltip "Sorteren op gelezen">
 <!ENTITY receivedColumn2.tooltip "Sorteren op ontvangstdatum">
 <!ENTITY flagColumn2.tooltip "Sorteren op markering">

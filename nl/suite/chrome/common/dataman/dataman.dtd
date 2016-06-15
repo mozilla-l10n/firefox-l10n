@@ -138,8 +138,8 @@
 <!ENTITY fdata.tree.fieldname.label "Veldnaam">
 <!ENTITY fdata.tree.value.label "Ingevoerde waarde">
 <!ENTITY fdata.tree.usecount.label "Aantal malen gebruikt">
-<!ENTITY fdata.tree.firstused.label "Eerste gebruik">
-<!ENTITY fdata.tree.lastused.label "Laatste gebruik">
+<!ENTITY fdata.tree.firstused.label "Eerst gebruikt">
+<!ENTITY fdata.tree.lastused.label "Laatst gebruikt">
 
 <!ENTITY fdata.ctx.remove.label "Verwijderen">
 <!ENTITY fdata.ctx.remove.accesskey "V">
@@ -154,7 +154,7 @@
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Toestemmingen">
 <!ENTITY forget.permissions.accesskey "T">
-<!ENTITY forget.permissionspwd.label "Wachtwoordtoestemmingem">
+<!ENTITY forget.permissionspwd.label "Wachtwoordtoestemmingen">
 <!ENTITY forget.permissionspwd.accesskey "a">
 <!ENTITY forget.preferences.label "Inhoudsvoorkeuren">
 <!ENTITY forget.preferences.accesskey "I">

@@ -49,12 +49,12 @@
 <!ENTITY stopButton.tooltip           "Het laden van deze pagina stoppen">
 <!ENTITY searchButton.label           "Zoeken">
 <!ENTITY searchButton.tooltip         "Typ een woord in het veld links hiernaast en klik daarna op Zoeken">
-<!ENTITY goButton.label               "Ga">
-<!ENTITY goButton.tooltip             "Typ een locatie in het veld links hiernaast en klik daarna op Ga">
+<!ENTITY goButton.label               "Gaan">
+<!ENTITY goButton.tooltip             "Typ een locatie in het veld links hiernaast en klik daarna op Gaan">
 <!ENTITY printButton.label            "Afdrukken">
 <!ENTITY printButton.tooltip          "Deze pagina afdrukken">
 
-<!ENTITY throbber.tooltip             "Naar de &vendorShortName;-startpagina">
+<!ENTITY throbber.tooltip             "Naar de &vendorShortName;-startpagina gaan">
 
 <!ENTITY locationBar.tooltip          "Voer een zoekterm, sleutelwoord of webadres in">
 <!ENTITY locationBar.accesskey        "d">

@@ -43,7 +43,7 @@
 <!ENTITY replyWithTemplate.label "Antwoorden met sjabloon">
 <!ENTITY markMessageRead.label "Markeren als gelezen">
 <!ENTITY markMessageUnread.label "Markeren als ongelezen">
-<!ENTITY markMessageStarred.label "Ster toevoegen">
+<!ENTITY markMessageStarred.label "Markering toevoegen">
 <!ENTITY setPriority.label "Prioriteit wijzigen naar">
 <!ENTITY addTag.label "Bericht labelen">
 <!ENTITY setJunkScore.label "Ongewenstberichtstatus instellen op">

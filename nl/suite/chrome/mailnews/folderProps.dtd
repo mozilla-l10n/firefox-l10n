@@ -30,8 +30,8 @@
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepRecent.label "De meest recente">
 <!ENTITY retentionKeepRecent.accesskey "r">
-<!ENTITY retentionApplyToFlagged.label "Berichten met ster altijd bewaren">
-<!ENTITY retentionApplyToFlagged.accesskey "s">
+<!ENTITY retentionApplyToFlagged.label "Gemarkeerde berichten altijd bewaren">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Synchronisatie">
 <!ENTITY folderCheckForNewMessages2.label        "Bij het ophalen van nieuwe berichten voor deze account, altijd deze map controleren">

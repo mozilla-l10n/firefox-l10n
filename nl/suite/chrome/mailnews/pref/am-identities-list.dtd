@@ -5,7 +5,7 @@
 <!ENTITY identitiesListManageDesc.label "Identiteiten voor deze account beheren. Standaard wordt de eerste identiteit gebruikt.">
 <!ENTITY identitiesListAdd.label "Toevoegen…">
 <!ENTITY identitiesListAdd.accesskey "T">
-<!ENTITY identitiesListDefault.label "Standaard instellen">
+<!ENTITY identitiesListDefault.label "Als standaard instellen">
 <!ENTITY identitiesListDefault.accesskey "d">
 <!ENTITY identitiesListEdit.label "Bewerken…">
 <!ENTITY identitiesListEdit.accesskey "B">

@@ -38,7 +38,7 @@
 <!ENTITY useCurrentGroup.accesskey      "o">
 <!ENTITY browseFile.label               "Bestand kiezen…">
 <!ENTITY browseFile.accesskey           "k">
-<!ENTITY useDefault.label               "Standaard herstellen">
+<!ENTITY useDefault.label               "Standaardinstelling herstellen">
 <!ENTITY useDefault.accesskey           "n">
 
 <!ENTITY defaultBrowserGroup.label      "Standaardbrowser">

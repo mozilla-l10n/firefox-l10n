@@ -19,8 +19,8 @@
 <!ENTITY saveTo.accesskey               "B">
 <!ENTITY chooseDownloadFolder.label     "Map kiezen…">
 <!ENTITY chooseDownloadFolder.accesskey "M">
-<!ENTITY alwaysAsk.label                "Altijd vragen waar bestanden moeten worden opgeslagen">
-<!ENTITY alwaysAsk.accesskey            "A">
+<!ENTITY alwaysAsk.label                "Mij altijd vragen waar bestanden moeten worden opgeslagen">
+<!ENTITY alwaysAsk.accesskey            "v">
 
 <!ENTITY downloadHistory.label          "Downloadgeschiedenis">
 <!ENTITY removeEntries.label            "Downloadvermeldingen verwijderen">

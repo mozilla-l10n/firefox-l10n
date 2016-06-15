@@ -7,7 +7,7 @@
 <!ENTITY menuBar.tooltip                 "Menubalk">
 <!ENTITY searchBar.tooltip               "Zoekbalk">
 
-<!ENTITY search.placeholder              "Zoeken in downloads">
+<!ENTITY search.placeholder              "Downloads doorzoeken">
 <!ENTITY search.label                    "Zoeken in downloads">
 <!ENTITY search.accesskey                "Z">
 <!ENTITY search.key                      "f">
