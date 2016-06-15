@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "K'a nimakol tiya' ketal">
 <!ENTITY otherBookmarksCmd.label "Ch'aqa' chik taq Yaketal">
 <!ENTITY bookmarksToolbarChevron.tooltip "Kek'ut pe ch'aqa' chik taq yaketal">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Tik'ut pe ri k'a nimakol tiya' retal">
+<!ENTITY showRecentlyBookmarked.accesskey "k">
+<!ENTITY hideRecentlyBookmarked.label     "Tewäx ri k'a nimakol tiya' retal">
+<!ENTITY hideRecentlyBookmarked.accesskey "T">
 
 <!ENTITY backCmd.label                "Chi ruwäch">
 <!ENTITY backButton.tooltip           "Titzolïx jun ruxaq">
