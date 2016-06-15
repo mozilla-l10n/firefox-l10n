@@ -11,8 +11,11 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "ទប់ស្កាត់​មាតិកា​ដែល​មាន​ភាព​គ្រោះថ្នាក់​និង​ការ​បញ្ឆោត">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
-
+<!ENTITY  blockDownloads.label            "ទប់ស្កាត់​ការ​ទាញយក​ដែល​គ្រោះថ្នាក់">
+<!ENTITY  blockDownloads.accesskey        "d">
 
 
 

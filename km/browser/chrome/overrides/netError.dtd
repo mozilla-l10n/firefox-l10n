@@ -24,7 +24,7 @@
 <!ENTITY fileNotFound.title "រក​មិន​ឃើញ​ឯកសារ">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ពិនិត្យ​ឈ្មោះ​ឯកសារ​រក​មើល​អក្សរពុម្ព​ ឬ​កំហុស​ក្នុង​ការ​វាយ​ផ្សេងទៀត​ ។</li> <li>ពិនិត្យមើល​ថា តើ​ឯកសារ​ត្រូវ​បាន​ផ្លាស់ទី ប្ដូរ​ឈ្មោះ ឬ​លុប​ដែរ​ឬ​ទេ ។</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>វា​ប្រហែល​ជា​ត្រូវបាន​លុប ផ្លាស់ប្ដូរ​ទីតាំង ឬ​ក៏​មក​ពី​ការ​កំណត់​សិទ្ធិ​ចូល​ប្រើប្រាស់​ឯកសារ។</li> </ul>">
 
 <!ENTITY generic.title "អ្ហុះ !">
 
@@ -67,6 +67,7 @@
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>មិន​អាច​បង្ហាញ​ទំព័រ​ដែល​អ្នក​កំពុង​ព្យាយាម​មើល​ដោយ​សារ​មិន​អាច​ផ្ទៀងផ្ទាត់​ទិន្នន័យ​ដែល​បាន​ទទួល។</li> <li>សូម​​ទាក់ទង​ម្ចាស់​តំបន់​បណ្ដាញ ដើម្បី​ប្រាប់​អំពី​បញ្ហា​នេះ។</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "ការ​ត​ភ្ជាប់​របស់​អ្នក​មិន​មាន​សុវត្ថិភាពឡើយ​">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -81,6 +82,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "បន្ថែម​ករណី​លើកលែង…">
 
+<!ENTITY errorReporting.automatic2 "សូម​រាយការណ៍​កំហុស​បែប​នេះ​ដើម្បី​ជួយ​ដល់ Mozilla ក្នុង​ការ​កំណត់ និង​ទប់​ស្កាត់​វេបសាយ​ដែល​មាន​បំណង​អាក្រក់">
 <!ENTITY errorReporting.learnMore "ស្វែងយល់​បន្ថែម...">
 
 <!ENTITY remoteXUL.title "XUL ពី​ចម្ងាយ">
@@ -91,18 +93,21 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ព័ត៌មាន​កម្រិត​ខ្ពស់៖ SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "ការ​ត​ភ្ជាប់​របស់​អ្នក​មិន​មាន​សុវត្ថិភាពឡើយ​">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "ព័ត៌មាន​កម្រិត​ខ្ពស់​: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "កម្រិត​ខ្ពស់">
-
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ប្រើប្រាស់​បច្ចេកវិទ្យា​ដែល​ហួស​សម័យ​ និង​ងាយ​រង​គ្រោះ​ពី​ការ​វាយ​ប្រហារ​នានា។ អ្នក​វាយ​ប្រហារ​អាច​ធ្វើ​ឲ្យ​ព័ត៌មាន​ដែល​អ្នក​គិត​ថា​មាន​សុវត្ថិភាពហើយ លេច​ចេញ​មក​បាន​យ៉ាង​ងាយ។">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.pagetitle1  "ការ​តភ្ជាប់​ដែល​មិន​មាន​សុវត្ថិភាព​">
 
 
 
+<!ENTITY inadequateSecurityError.title "ការ​ត​ភ្ជាប់​របស់​អ្នក​មិន​មាន​សុវត្ថិភាពឡើយ​">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

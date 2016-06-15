@@ -26,7 +26,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "សកម្ម">
 <!ENTITY aboutSupport.experimentEndDate "កាលបរិច្ឆេទ​បញ្ចប់">
 <!ENTITY aboutSupport.experimentHomepage "គេហទំព័រ">
-
+<!ENTITY aboutSupport.experimentBranch "សាខា​">
 
 <!ENTITY aboutSupport.appBasicsTitle "មូលដ្ឋាន​គ្រឹះ​របស់​កម្មវិធី">
 <!ENTITY aboutSupport.appBasicsName "ឈ្មោះ">
@@ -50,7 +50,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "ភ្នាក់ងារ​អ្នកប្រើ">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "អង្គ​ចងចាំ​ដែល​ប្រើ">
-
+<!ENTITY aboutSupport.appBasicsPerformance "ដំណើរការ">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers ដែល​បាន​ចុះ​ឈ្មោះ">
