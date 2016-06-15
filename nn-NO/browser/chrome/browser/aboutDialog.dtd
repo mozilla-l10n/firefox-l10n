@@ -12,7 +12,7 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "S">
 <!ENTITY update.updateButton.label2                "Start &brandShortName; på nytt for å oppdatera">
 <!ENTITY update.updateButton.accesskey            "S">
-<!ENTITY update.applyButtonBillboard.label        "Installer oppdatering …">
+<!ENTITY update.applyButtonBillboard.label        "Installer oppdatering…">
 <!ENTITY update.applyButtonBillboard.accesskey    "I">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
