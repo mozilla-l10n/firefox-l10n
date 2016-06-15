@@ -182,6 +182,8 @@ kdo se snaží vydávat za server.</li>
 <!ENTITY cspBlocked.title "Zablokováno dle bezpečnostních pravidel obsahu">
 <!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila této stránce v nahrání, protože má bezpečnostní pravidla, která tento způsob načtení zakazují.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Chyba v obsahu stránky">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Stránka, kterou se pokoušíte zobrazit, nemůže být zobrazena, protože byla v přenosu dat detekována chyba.</p><ul><li>Prosím, kontaktujte majitele webové stránky a informujte ho o tomto problému.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Nebo můžete přidat výjimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Rychle odsud pryč">
