@@ -53,7 +53,7 @@
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "&brandShortName;-oppdateringar:">
-<!ENTITY updateAuto.label                "Automatisk installer oppdateringar (tilrådd: betre tryggleik)">
+<!ENTITY updateAuto.label                "Automatisk installer oppdateringar (tilrådd: betre sikkerheit)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Sjå etter oppdateringar, men la meg velja om dei skal installerast">
 <!ENTITY updateCheck.accesskey           "S">
