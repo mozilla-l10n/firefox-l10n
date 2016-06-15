@@ -8,7 +8,7 @@
 
 
 <!ENTITY connectionFailure.title "Bağlanma girişimi başarısız">
-
+<!ENTITY connectionFailure.longDesc "<p>Açmak istediğiniz site geçerli görünmesine rağmen tarayıcı bu siteyle bağlantı kuramadı.</p><ul><li>Site geçici olarak kapalı olabilir. Daha sonra yeniden deneyin.</li><li>Diğer siteler de mi açılmıyor? Öyleyse bilgisayarınızın ağ bağlantısın kontrol edin.</li><li>Bilgisayarınız veya ağınız bir güvenlik duvarıyla veya vekil sunucuyla korunuyorsa hatalı ayarlar internete erişmenizi engelleyebilir.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Güvenlik nedeniyle bağlantı noktası kısıtlanmış">
 <!ENTITY deniedPortAccess.longDesc "<p>İstenen adres normalde web gezintisi <em>dışında</em> amaçlar için kullanılan bir bağlantı noktası (örn. mozilla.org üzerinde 80. port için <q>mozilla.org:80</q>) içeriyor. Tarayıcı sizi korumak ve güvenliğini sağlamak amacıyla isteği iptal etti.</p>">
@@ -47,7 +47,7 @@
 <!ENTITY netReset.longDesc "<p>Bağlantı sırasında ağ iletişimi kesintiye uğradı. Lütfen yeniden deneyin.</p>">
 
 <!ENTITY netTimeout.title "Ağ zaman aşımı">
-
+<!ENTITY netTimeout.longDesc "<p>İstenen site bağlantı isteğine yanıt vermeyince tarayıcı da beklemeyi bıraktı.</p><ul><li>Sunucu, yoğun talep veya geçici bir kesinti nedeniyle hizmet veremiyor olabilir. Daha sonra yeniden deneyin.</li><li>Diğer siteler de mi açılmıyor? Öyleyse bilgisayarınızın ağ bağlantısın kontrol edin.</li><li>Bilgisayarınız veya ağınız bir güvenlik duvarıyla veya vekil sunucuyla korunuyorsa hatalı ayarlar internete erişmenizi engelleyebilir.</li><li>Her yolu denemenize rağmen hâlâ bağlantı kuramıyorsanız ağ yöneticinize veya internet servis sağlayıcınıza başvurun.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Tanınmayan iletişim kuralı">
 <!ENTITY unknownProtocolFound.longDesc "<p>Girilen adres tarayıcı tarafından tanınmayan bir iletişim kuralına (ör. <q>abcd://</q>) işaret ettiğinden tarayıcı siteye düzgünce bağlanamıyor.</p><ul><li>Çoklu ortam barındıran veya metin içermeyen bir hizmete bağlanmak istiyor olabilirsiniz.</li><li>Bazı iletişim kurallarının tarayıcı tarafından tanınabilmesi için üçüncü kişilerce geliştirilen yazılımlara ya da eklentilere ihtiyaç duyulabilir.</li></ul>">
