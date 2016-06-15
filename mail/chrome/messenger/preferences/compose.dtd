@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "P">
 <!ENTITY restoreHTMLDefaults.label            "Obnovit výchozí">
 <!ENTITY restoreHTMLDefaults.accesskey        "O">
-<!ENTITY enterKeyCreatesNewParagraph.label    "Při použití formátu odstavce, klávesou Enter vytvoříte nový odstavec">
-<!ENTITY enterKeyCreatesNewParagraph.accesskey "f">
+<!ENTITY defaultToParagraph.label             "Ve výchozím nastavení používat formát odstavce namísto základního textu">
+<!ENTITY defaultToParagraph.accesskey         "D">
 
 <!ENTITY spellCheck.label                     "Při odesílání zpráv kontrolovat pravopis">
 <!ENTITY spellCheck.accesskey                 "k">
