@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Njedawno jako zapołožka wotpołoženy">
 <!ENTITY otherBookmarksCmd.label "Druhe zapołožki">
 <!ENTITY bookmarksToolbarChevron.tooltip "Dalše zapołožki pokazać">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Njedawno jako zapołožka wotpołožene pokazać">
+<!ENTITY showRecentlyBookmarked.accesskey "d">
+<!ENTITY hideRecentlyBookmarked.label     "Njedawno jako zapołožka wotpołožene schować">
+<!ENTITY hideRecentlyBookmarked.accesskey "d">
 
 <!ENTITY backCmd.label                "Wróćo">
 <!ENTITY backButton.tooltip           "Jednu stronu wróćo">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Lajstu zapołožkow pokazać">
 <!ENTITY viewBookmarksToolbar.label         "Lajstu zapołožkow pokazać">
 
+<!ENTITY containersMenu.label "Kontejnery">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -555,22 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "z">
 <!ENTITY mediaUnmute.label           "Ze zynkom">
 <!ENTITY mediaUnmute.accesskey       "Z">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "Wothrawanska spěšnosć">
+<!ENTITY mediaPlaybackRate2.accesskey "h">
+<!ENTITY mediaPlaybackRate050x2.label "Pomału (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "P">
+<!ENTITY mediaPlaybackRate100x2.label "Normalny">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Spěšny (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "S">
+<!ENTITY mediaPlaybackRate150x2.label "Spěšniši (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "n">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Jara wysoki (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "J">
+<!ENTITY mediaLoop.label             "Awtomatisce wospjetować">
+<!ENTITY mediaLoop.accesskey         "A">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -679,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Wěsty zwisk">
 <!ENTITY identity.connectionNotSecure "Zwisk wěsty njeje">
 <!ENTITY identity.connectionFile "Tuta strona je so na wašim ličaku składowała.">
-
+<!ENTITY identity.connectionVerified2 "Sće z tutym sydłom wěsće zwjazany, kotrehož wobsedźer je:">
 <!ENTITY identity.connectionInternal "To je wěsta strona &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Přizjewjenja, kotrež so na tutej stronje zapodawaja, móhli wohrožene być.">
 <!-- Strings for connection state warnings. -->
