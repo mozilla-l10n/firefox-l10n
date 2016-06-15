@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Отвори &syncBrand.shortName.label; поставке">
 <!ENTITY fxaSignInError.label "Поново се повежи на &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Потврдите налог">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; омогућен">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; ће започети синхронизацију моментално.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Умањи">
@@ -171,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Недавно забележене">
 <!ENTITY otherBookmarksCmd.label "Остале забелешке">
 <!ENTITY bookmarksToolbarChevron.tooltip "Прикажи још забелешки">
+<!ENTITY showRecentlyBookmarked.label     "Прикажи недавно забележене">
+<!ENTITY showRecentlyBookmarked.accesskey "н">
+<!ENTITY hideRecentlyBookmarked.label     "Сакриј недавно забележене">
+<!ENTITY hideRecentlyBookmarked.accesskey "н">
 
 <!ENTITY backCmd.label                "Назад">
 <!ENTITY backButton.tooltip           "Назад за једну страну">
@@ -228,6 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Прикажи у бочној палети">
 <!ENTITY viewBookmarksToolbar.label         "Прикажи траку са забелешкама">
 
+<!ENTITY containersMenu.label "Контејнери">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +265,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "Д">
 <!ENTITY newUserContext.label             "Нови језичак">
 <!ENTITY newUserContext.accesskey         "ј">
-<!ENTITY userContextPersonal.label        "Лични">
-<!ENTITY userContextPersonal.accesskey    "Л">
-<!ENTITY userContextWork.label            "Пословни">
-<!ENTITY userContextWork.accesskey        "П">
-<!ENTITY userContextBanking.label         "Банкарство">
-<!ENTITY userContextBanking.accesskey     "Б">
-<!ENTITY userContextShopping.label        "Куповина">
-<!ENTITY userContextShopping.accesskey    "К">
 <!ENTITY newNavigatorCmd.label        "Нови прозор">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
@@ -560,19 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "г">
 <!ENTITY mediaUnmute.label           "Пусти тон">
 <!ENTITY mediaUnmute.accesskey       "т">
-<!ENTITY mediaPlaybackRate.label     "Брзина пуштања">
-<!ENTITY mediaPlaybackRate.accesskey "Б">
-<!ENTITY mediaPlaybackRate050x.label "Споро (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "С">
-<!ENTITY mediaPlaybackRate100x.label "Нормално">
-<!ENTITY mediaPlaybackRate100x.accesskey "Н">
-<!ENTITY mediaPlaybackRate150x.label "Брзо (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "Б">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!ENTITY mediaPlaybackRate2.label     "Брзина пуштања">
+<!ENTITY mediaPlaybackRate2.accesskey "п">
+<!ENTITY mediaPlaybackRate050x2.label "Споро (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "С">
+<!ENTITY mediaPlaybackRate100x2.label "Нормално">
+<!ENTITY mediaPlaybackRate100x2.accesskey "Н">
+<!ENTITY mediaPlaybackRate125x2.label "Брзо (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "Б">
+<!ENTITY mediaPlaybackRate150x2.label "Брже (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "ж">
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Ludicrous Speed (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "L">
+<!ENTITY mediaPlaybackRate200x2.label "Ludicrous (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "Loop">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -680,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Безбедна веза">
 <!ENTITY identity.connectionNotSecure "Веза није безбедна">
 <!ENTITY identity.connectionFile "Ова страница се складишти на рачунару.">
-<!ENTITY identity.connectionVerified1 "Безбедно сте повезани на овај сајт, којим управља:">
+<!ENTITY identity.connectionVerified2 "Безбедно сте повезани на овај сајт, који је у власништву:">
 <!ENTITY identity.connectionInternal "Ово је безбедна &brandShortName; страница.">
 <!ENTITY identity.insecureLoginForms2 "Пријаве које су унесене на овој страници су можда угрожене.">
 
