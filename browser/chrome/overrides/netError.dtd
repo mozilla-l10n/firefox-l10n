@@ -25,7 +25,7 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Comproveu les majúscules i minúscules del nom del fitxer i qualsevol altre error que s'hagi produït en teclejar.</li> <li>Comproveu que el fitxer no s'hagi mogut, canviat de nom o eliminat.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "S'ha denegat l'accés al fitxer">
-
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Pot ser que s'hagi eliminat, que s'hagi traslladat o que els permisos del fitxer n'impedeixin l'accés.</li> </ul>">
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>El &brandShortName; no ha pogut carregar la pàgina per algun motiu.</p>">
