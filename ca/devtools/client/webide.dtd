@@ -86,7 +86,7 @@
 <!ENTITY runtimePanel_installsimulator "Instal·la el simulador">
 <!ENTITY runtimePanel_noadbhelper "Instal·la l'ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "No veieu el vostre dispositiu?">
-
+<!ENTITY runtimePanel_refreshDevices_label "Actualitza els dispositius">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "vàlid">
@@ -213,6 +213,6 @@
 <!ENTITY simulator_device "Dispositiu">
 <!ENTITY simulator_screenSize "Pantalla">
 <!ENTITY simulator_pixelRatio "Relació de píxels">
-
-
-
+<!ENTITY simulator_tv_data "Simulació de TV">
+<!ENTITY simulator_tv_data_open "Dades de configuració">
+<!ENTITY simulator_tv_data_open_button "Obre el directori de configuració…">
