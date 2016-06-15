@@ -162,6 +162,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine strani.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Napaka zaradi pokvarjene vsebine">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je bila zaznana napaka pri prenosu podatkov.</p><ul><li>O težavi obvestite lastnike spletne strani.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo...">
@@ -187,8 +189,9 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>Varna povezava na <span id='wrongSystemTime_URL'/> ni mogoča, ker vaša ura prikazuje napačen čas.</p><p>Računalnik misli, da je ura <span id='wrongSystemTime_systemDate'/>, morala pa bi biti <span id='wrongSystemTime_actualDate'/>. Za odpravo te težave pravilno nastavitve čas.</p>">
 
-<!ENTITY certerror.pagetitle1  "Nevarna povezava">
+<!ENTITY certerror.pagetitle1  "Povezava ni varna">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ta stran uporablja HTTP
 Strict Transport Security (HSTS), ki določa, da se lahko &brandShortName; nanjo
 poveže zgolj varno. Posledično za to digitalno potrdilo ni mogoče dodati izjeme.">
@@ -199,3 +202,5 @@ poveže zgolj varno. Posledično za to digitalno potrdilo ni mogoče dodati izje
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uporablja varnostno tehnologijo, ki je zastarela in ranljiva na napade. Napadalec lahko zlahka razkrije podatke, ki naj bi bili zaščiteni. Preden lahko obiščete to stran, bo moral njen skrbnik popraviti strežnik.</p><p>Koda napake: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY prefReset.longDesc "Videti je, da to povzročajo omrežne nastavitve. Ali želite obnoviti privzete nastavitve?">
+<!ENTITY prefReset.label "Obnovi privzete nastavitve">
