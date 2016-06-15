@@ -159,8 +159,8 @@ za chvíli.</li>
 <!ENTITY cspBlocked.title "Zablokováno dle bezpečnostních pravidel obsahu">
 <!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila v nahrání této stránky, protože tato stránka má bezpečnostní pravidla, která takovýto způsob nahrání zakazují.</p>">
 
-<!ENTITY corruptedContentError.title "Chyba v obsahu stránky">
-<!ENTITY corruptedContentError.longDesc "<p>Stránka, kterou se snažíte načíst, nemůže být zobrazena, protože přenesená data jsou chybná.</p><ul><li>Kontaktujte prosím vlastníka stránky a informujte ho o tomto problému.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Chyba v obsahu stránky">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Stránka, kterou se snažíte zobrazit nemůže být zobrazena, protože byla detekována chyba v přenosu dat.</p><ul><li>Prosím, kontaktujte správce webové stránky a informujte je o tomto problému.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Nebo můžete přidat výjimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Rychle odsud pryč">
@@ -180,3 +180,8 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Vzdálené XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte prosím vlastníka stránky a informujte ho o tomto problému.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Vaše připojení není zabezpečené">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii zabezpečení, která je zastaralá a náchylná k útoku. Útočník může snadno odhalit informace, které si myslíte, že jsou bezpečené. Administrátor webové stránky musí opravit server než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
