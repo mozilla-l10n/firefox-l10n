@@ -110,8 +110,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.pagetitle1  "Kennask arvarus">
+<!ENTITY certerror.wrongSystemTime "<p>N'eo ket posupl kaout ur c'hennask diogel  da <span id='wrongSystemTime_URL'/> peogwir eo diskouezet un eur fall gant ho horolaj.</p><p>Krediñ a ra hoc'h urzhiataer eo <span id='wrongSystemTime_systemDate'/>, padal e rankfe bezañ <span id='wrongSystemTime_actualDate'/>. Evit ratreañ ar gudenn-se e c'hallit kemmañ an deiziad hag an eur en arventennoù evit klotañ gant an eur reizh.</p>">
 
+<!ENTITY certerror.pagetitle1  "Kennask arvarus">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Al lec'hienn-mañ a arver HTTP Strict Transport Security (HSTS) evit erspizañ e rank &brandShortName; kennaskañ outi gant un doare diogel. N'haller ket ouzhpennañ un nemedenn evit an testeni-mañ eta.">
 <!ENTITY certerror.copyToClipboard.label "Eilañ an destenn er golver">
 
 <!ENTITY inadequateSecurityError.title "N'eo ket diarvar ho kennask">
@@ -119,4 +121,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> a arver ur c'halverezh diogelroez diamzeret ha bresk. Gallout a rafe un tager dizoloiñ titouroù a gredec'h diarvar. Ret vo da verour al lec'hienn ratreañ an dafariad a-raok ma c'hallfec'h gweladenniñ al lec'hienn.</p><p>Boneg fazi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "Gallout a ra hoc'h arventennoù rouedad bezañ kaoz eus kement-se. Fellout a ra deoc'h assav an arventennoù dre ziouer?">
+<!ENTITY prefReset.label "Assav an arventennoù dre ziouer">

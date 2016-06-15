@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Lakaet war ur sined nevez zo">
 <!ENTITY otherBookmarksCmd.label "Sinedoù all">
 <!ENTITY bookmarksToolbarChevron.tooltip "Diskouez meur a sined">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Diskouez ar sinedoù nevez">
+<!ENTITY showRecentlyBookmarked.accesskey "D">
+<!ENTITY hideRecentlyBookmarked.label     "Kuzhat ar sinedoù nevez">
+<!ENTITY hideRecentlyBookmarked.accesskey "K">
 
 <!ENTITY backCmd.label                "Kent">
 <!ENTITY backButton.tooltip           "Mont d'ar bajennad kent">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Gwelout barrenn gostez ar sinedoù">
 <!ENTITY viewBookmarksToolbar.label         "Gwelout barrenn ostilhoù ar sinedoù">
 
+<!ENTITY containersMenu.label "Endalc'herien">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -555,22 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Heglev">
 <!ENTITY mediaUnmute.accesskey       "H">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "Tizh lenn">
+<!ENTITY mediaPlaybackRate2.accesskey "l">
+<!ENTITY mediaPlaybackRate050x2.label "Gorrek (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "G">
+<!ENTITY mediaPlaybackRate100x2.label "Reizh">
+<!ENTITY mediaPlaybackRate100x2.accesskey "z">
+<!ENTITY mediaPlaybackRate125x2.label "Herrek (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "H">
+<!ENTITY mediaPlaybackRate150x2.label "Herrekoc'h (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "e">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Tizh divuzul (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "d">
+<!ENTITY mediaLoop.label             "Dol">
+<!ENTITY mediaLoop.accesskey         "D">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -679,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Secure Connection">
 <!ENTITY identity.connectionNotSecure "N'eo ket diarvar ar c'hennask">
 <!ENTITY identity.connectionFile "War hoc'h urzhiataer eo kadavet ar bajenn-mañ.">
-
+<!ENTITY identity.connectionVerified2 "Kennasket oc'h en un doare diogel ouzh al lec'hienn, perc'hennet gant :">
 <!ENTITY identity.connectionInternal "Ur bajenn &brandShortName; diarvar eo.">
 <!ENTITY identity.insecureLoginForms2 "Treuzvarc'het e c'hall bezañ an titouroù kennaskañ enanket er bajenn-mañ.">
 <!-- Strings for connection state warnings. -->

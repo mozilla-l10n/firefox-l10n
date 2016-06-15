@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  doNotTrack.pre.label          "Gallout a rit ivez ">
-<!ENTITY  doNotTrack.settings.label     "Merañ hoc'h arventennoù Na heuliañ ma roudoù">
+<!ENTITY  doNotTrack.settings.label     "Merañ hoc&apos;h arventennoù &quot;Na heuliañ ma roudoù&quot;">
 <!ENTITY  doNotTrack.post.label         " a c'hallit ober ivez.">
 
 <!ENTITY  history.label                 "Roll istor">
