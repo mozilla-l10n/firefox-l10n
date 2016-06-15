@@ -32,5 +32,5 @@
 <!ENTITY  changeMasterPassword.label     "Canvia la contrasenya mestra…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-<!ENTITY  savedLogins.label              "Inicis de sessió desats">
+<!ENTITY  savedLogins.label              "Inicis de sessió desats…">
 <!ENTITY  savedLogins.accesskey          "I">
