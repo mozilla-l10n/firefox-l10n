@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "Nikdy nevyhledávat aktualizace (nedoporučováno z důvodu rizika ohrožení)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Upozornit, pokud by aktualizace zakázala některé doplňky">
-<!ENTITY updateAutoAddonWarn.accesskey   "U">
 <!ENTITY updateHistory.label             "Zobrazit historii aktualizací">
 <!ENTITY updateHistory.accesskey         "b">
 
