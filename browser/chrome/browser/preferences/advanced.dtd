@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Никад не проверавај надоградње (не препоручује се)">
 <!ENTITY updateManual.accesskey          "Н">
 
-<!ENTITY updateAutoAddonWarn.label       "Упозори ме ако ће ово да онемогући било који додатак">
-<!ENTITY updateAutoAddonWarn.accesskey   "з">
-
 <!ENTITY updateHistory.label             "Прикажи историјат надоградњи">
 <!ENTITY updateHistory.accesskey         "и">
 
