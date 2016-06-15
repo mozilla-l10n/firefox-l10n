@@ -76,6 +76,7 @@
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "El propietari de <span class='hostname'/> ha configurat el lloc web incorrectament. Per protegir la vostra informació contra robatori, el &brandShortName; no s'ha connectat a aquest lloc web.">
 
 <!ENTITY sharedLongDesc "<ul> <li>El lloc web podria estar temporalment no disponible o massa ocupat. Torneu-ho a provar d'aquí uns moments.</li> <li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre ordinador.</li> <li>Si el vostre ordinador o la vostra xarxa estan protegits per un tallafocs o per un servidor intermediari, assegureu-vos que el &brandShortName; tingui permís per accedir al web.</li> </ul>">
 
@@ -109,11 +110,13 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.pagetitle1  "Connexió insegura">
 
-
+<!ENTITY certerror.copyToClipboard.label "Copia el text al porta-retalls">
 
 <!ENTITY inadequateSecurityError.title "La connexió no és segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
-
+<!ENTITY prefReset.longDesc "Sembla que la configuració actual de seguretat a la xarxa està causant aquest error. Voleu utilitzar la configuració per defecte?">
+<!ENTITY prefReset.label "Restaura la configuració per defecte">
