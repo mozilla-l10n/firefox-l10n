@@ -8,7 +8,7 @@
 
 
 <!ENTITY connectionFailure.title "Error de connexió">
-
+<!ENTITY connectionFailure.longDesc "<p>Encara que el lloc sembla vàlid, el navegador no ha pogut establir-hi una connexió.</p><ul><li>Pot ser que no estigui disponible temporalment? Torneu-ho a provar més tard.</li><li>No podeu navegar per altres llocs? Comproveu la connexió del vostre ordinador a la xarxa.</li><li>L'ordinador està protegit amb un tallafocs o servidor intermediari? Una configuració incorrecta pot interferir amb la navegació web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "El port s'ha restringit per motius de seguretat">
 <!ENTITY deniedPortAccess.longDesc "<p>L'adreça sol·licitada especifica un port (e.g. <q>mozilla.org:80</q> per al 80 a mozilla.org) que normalment s'utilitza per a propòsits <em>diferents</em> de la navegació web. El navegador ha cancel·lat la sol·licitud per garantir la vostra protecció i seguretat.</p>">
@@ -19,6 +19,7 @@
 <!ENTITY fileNotFound.title "No s'ha trobat el fitxer">
 <!ENTITY fileNotFound.longDesc "<ul><li>Pot ser que l'element hagi canviat de nom, s'hagi esborrat o canviat d'ubicació?</li><li>Que hi ha cap error ortogràfic, de majúscules/minúscules, o bé tipogràfic a l'adreça?</li><li>Teniu suficients permisos d'accés per accedir a l'element sol·licitat?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "S'ha denegat l'accés al fitxer">
 
 
 <!ENTITY generic.title "No es pot completar la sol·licitud">
@@ -28,7 +29,7 @@
 <!ENTITY malformedURI.longDesc "<p>L'adreça proporcionada no té un format reconegut. Comproveu si a la barra d'ubicació hi ha cap error i torneu-ho a provar.</p>">
 
 <!ENTITY netInterrupt.title "S'ha interromput la transferència de dades">
-
+<!ENTITY netInterrupt.longDesc "<p>El navegador s'ha connectat amb èxit, però la connexió s'ha interromput mentre es transferia informació. Torneu-ho a provar.</p><ul><li>Podeu navegar per altres llocs web? Comproveu la connexió de l'ordinador a la xarxa.</li><li>Encara teniu problemes? Demaneu ajuda al vostre administrador de xarxa o al vostre proveïdor d'Internet.</li></ul>">
 
 <!ENTITY notCached.title "El document ha caducat">
 
