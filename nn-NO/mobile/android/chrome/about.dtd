@@ -11,7 +11,7 @@
 <!ENTITY aboutPage.checkForUpdates.none         "Ingen oppdateringar er tilgjengelege">
 <!ENTITY aboutPage.checkForUpdates.available2   "Last ned oppdatering">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Lastar ned oppdatering …">
-<!ENTITY aboutPage.checkForUpdates.downloaded2  "Installer oppdatering">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Installer oppdateringa">
 <!ENTITY aboutPage.faq.label                    "Ofte stilte spørsmål">
 <!ENTITY aboutPage.support.label                "Hjelp">
 <!ENTITY aboutPage.privacyPolicy.label          "Personvern">
