@@ -27,7 +27,5 @@
 <!ENTITY appWeekly.accesskey                  "e">
 <!ENTITY appModeAutomatic.label               "Automatisch de update downloaden en installeren">
 <!ENTITY appModeAutomatic.accesskey           "u">
-<!ENTITY appModeAutoAddonWarn.label           "Mij waarschuwen als dit een van mijn add-ons zal uitschakelen">
-<!ENTITY appModeAutoAddonWarn.accesskey       "w">
 <!ENTITY updateHistoryButton.label            "Updategeschiedenis tonen…">
 <!ENTITY updateHistoryButton.accesskey        "U">
