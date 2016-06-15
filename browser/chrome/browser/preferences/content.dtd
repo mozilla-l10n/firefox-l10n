@@ -7,13 +7,14 @@
 <!ENTITY  blockPopups.label           "ទប់ស្កាត់​​បង្អួច​លេច​ឡើង">
 <!ENTITY  blockPopups.accesskey       "ទ">
 
+<!ENTITY  notificationsPolicy.label            "ការ​ជូន​ដំណឹង">
+
+<!ENTITY  notificationsPolicyDesc3.label       "ជ្រើសរើស​វេបសាយ​ណា​ដែល​អាច​ផ្ដល់​ដំណឹង​ឲ្យ​អ្នក">
 
 
-
-
-
-
-
+<!ENTITY  notificationsDoNotDisturb.label      "កុំ​រំខាន​ខ្ញុំ">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
+<!ENTITY  notificationsDoNotDisturbDetails.value "មិនមាន​ការ​ជូន​ដំណឹង​ទេ រហូត​ដល់​អ្នក​បើក &brandShortName; ម្ដង​ទៀត">
 
 <!ENTITY  popupExceptions.label       "ករណី​លើក​លែង">
 <!ENTITY  popupExceptions.accesskey   "ក">
