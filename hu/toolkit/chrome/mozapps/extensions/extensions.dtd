@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Betöltés…">
-
+<!ENTITY listEmpty.installed.label            "Nincs ilyen típusú kiegészítője">
 <!ENTITY listEmpty.availableUpdates.label     "Nem találhatók frissítések">
-
+<!ENTITY listEmpty.recentUpdates.label        "Mostanában nem frissített kiegészítőket">
 <!ENTITY listEmpty.findUpdates.label          "Frissítések keresése">
 <!ENTITY listEmpty.search.label               "Nem található ilyen kiegészítő">
 <!ENTITY listEmpty.button.label               "További tudnivalók a kiegészítőkről">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Eltávolítás">
 <!ENTITY cmd.uninstallAddon.accesskey         "l">
 <!ENTITY cmd.showPreferencesWin.label         "Beállítások">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "A kiegészítő beállításainak módosítása">
 <!ENTITY cmd.showPreferencesUnix.label        "Beállítások">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "A kiegészítő beállításainak módosítása">
 <!ENTITY cmd.contribute.label                 "Támogatás">
 <!ENTITY cmd.contribute.accesskey             "T">
 <!ENTITY cmd.contribute.tooltip               "A kiegészítő fejlesztésének támogatása">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Mik azok a kiegészítők?">
 <!ENTITY discover.description2                "A kiegészítők olyan alkalmazások, amelyekkel személyre szabható a &brandShortName; akár többletfunkciókkal, akár eltérő kinézettel. Próbáljon ki egy oldalsávot, amellyel gyorsabb a munka, nézze meg, milyen az időjárás, vagy öltöztesse a &brandShortName; programot olyan ruhába, amilyen tetszik.">
-
+<!ENTITY discover.footer                      "Ha csatlakozva van az internetre, ezen a panelen megjelennek a legjobb és legnépszerűbb kiegészítők, amelyeket kipróbálhat.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Verzió">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Automatikus frissítések">
 <!ENTITY detail.updateDefault.label           "Alapértelmezett">
-
+<!ENTITY detail.updateDefault.tooltip         "Frissítések automatikus telepítése csak akkor, ha ez az alapbeállítás">
 <!ENTITY detail.updateAutomatic.label         "Be">
 <!ENTITY detail.updateAutomatic.tooltip       "Frissítések automatikus telepítése">
 <!ENTITY detail.updateManual.label            "Ki">
-
+<!ENTITY detail.updateManual.tooltip          "Ne legyenek automatikus frissítések">
 <!ENTITY detail.home                          "Honlap">
 <!ENTITY detail.repository                    "Kiegészítő profilja">
 <!ENTITY detail.size                          "Méret">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Frissítések keresése ehhez a kiegészítőhöz">
 <!ENTITY detail.showPreferencesWin.label      "Beállítások">
 <!ENTITY detail.showPreferencesWin.accesskey  "B">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "A kiegészítő beállításainak módosítása">
 <!ENTITY detail.showPreferencesUnix.label     "Beállítások">
 <!ENTITY detail.showPreferencesUnix.accesskey "B">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "A kiegészítő beállításainak módosítása">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Mi ez? A telemetria időről időre kísérleteket telepíthet és futtathat.">
 <!ENTITY experiment.info.learnmore "További tudnivalók">
 <!ENTITY experiment.info.learnmore.accesskey "T">
 <!ENTITY experiment.info.changetelemetry "Telemetria beállításai">

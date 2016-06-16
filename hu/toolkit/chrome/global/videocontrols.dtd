@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "A videó betöltése leállt.">
 <!ENTITY error.network "A videólejátszás leállt hálózati hiba miatt.">
-
+<!ENTITY error.decode "A videót nem lehet lejátszani, mert a fájl sérült.">
 <!ENTITY error.srcNotSupported "A videó formátuma vagy MIME-típusa nem támogatott.">
 <!ENTITY error.noSource2 "Nincs támogatott formátumú vagy MIME-típusú videó.">
 <!ENTITY error.generic "A videólejátszás leállt ismeretlen hiba miatt.">

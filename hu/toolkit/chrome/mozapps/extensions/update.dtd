@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Vannak kompatibilis kiegészítők">
 <!ENTITY  found.top.label                 "Válassza ki a telepíteni kívánt kiegészítőket:">
-
+<!ENTITY  found.disabledXPinstall.label   "Ezeket a frissítéseket nem lehet telepíteni, mert a szoftvertelepítés jelenleg tiltva van. Alább megváltoztathatja ezt a beállítást,">
 <!ENTITY  found.enableXPInstall.label     "Szoftvertelepítés engedélyezése a webhelyeknek">
 <!ENTITY  found.enableXPInstall.accesskey "S">
 
