@@ -662,7 +662,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label "Zoeken in deze pagina…">
+<!ENTITY findOnCmd.label "Zoeken op deze pagina…">
 <!ENTITY findOnCmd.accesskey "Z">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label "Opnieuw zoeken">
@@ -685,7 +685,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Ingevoerde aanmeldingen op deze pagina zouden kunnen worden overgenomen.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; heeft onderdelen op deze pagina die niet zijn beveiligd geblokkeerd.">
+<!ENTITY identity.activeBlocked "&brandShortName; heeft onderdelen van deze pagina die niet zijn beveiligd geblokkeerd.">
 <!ENTITY identity.passiveLoaded "Onderdelen van deze pagina zijn niet beveiligd (zoals afbeeldingen).">
 <!ENTITY identity.activeLoaded "U hebt beveiliging op deze pagina uitgeschakeld.">
 <!ENTITY identity.weakEncryption "Deze pagina gebruikt zwakke beveiliging.">

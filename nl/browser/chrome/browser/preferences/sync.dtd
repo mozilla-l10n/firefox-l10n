@@ -46,8 +46,8 @@
 <!ENTITY unlinkDevice.label           "Dit apparaat ontkoppelen">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Servicevoorwaarden (en)">
-<!ENTITY prefs.ppLink.label         "Privacybeleid (en)">
+<!ENTITY prefs.tosLink.label        "Servicevoorwaarden">
+<!ENTITY prefs.ppLink.label         "Privacybeleid">
 
 <!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Privacyverklaring">
