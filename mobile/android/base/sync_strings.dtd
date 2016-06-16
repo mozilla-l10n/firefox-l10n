@@ -69,14 +69,14 @@
 <!ENTITY fxaccount_status_bookmarks 'Bladwijzers'>
 <!ENTITY fxaccount_status_history 'Geschiedenis'>
 <!ENTITY fxaccount_status_passwords2 'Aanmeldingen'>
-<!ENTITY fxaccount_status_tabs 'Geopende tabbladen'>
+<!ENTITY fxaccount_status_tabs 'Open tabbladen'>
 <!ENTITY fxaccount_status_legal 'Juridisch' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos2 'Servicevoorwaarden (en)'>
-<!ENTITY fxaccount_status_linkprivacy2 'Privacyverklaring (en)'>
+<!ENTITY fxaccount_status_linktos2 'Servicevoorwaarden'>
+<!ENTITY fxaccount_status_linkprivacy2 'Privacyverklaring'>
 <!ENTITY fxaccount_status_more 'Meer&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Verbreken&ellipsis;'>
 
