@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Wachten op andere apparaat…">
 
 <!ENTITY sync.pair.title            "Een apparaat koppelen">
-<!ENTITY sync.pair.description      "Selecteer &#x0022;Sync instellen&#x0022; op uw nieuwe apparaat om het te activeren.">
+<!ENTITY sync.pair.description      "Selecteer ‘Sync instellen’ op uw nieuwe apparaat om het te activeren.">
 <!ENTITY sync.setup.close           "Sluiten">
 <!ENTITY sync.setup.waitingdownload "Uw gegevens worden nu op de achtergrond gedownload. U kunt dit venster op elk gewenst moment sluiten.">
