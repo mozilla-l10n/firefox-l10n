@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Nodau Tudalen">
-<!ENTITY bookmarksMenuButton.other.label "Nodau Tudalen Eraill ">
+<!ENTITY bookmarksMenuButton.other.label "Nodau Tudalen Eraill">
 <!ENTITY viewBookmarksSidebar2.label        "Gweld Bar Offer Nodau Tudalen">
 <!ENTITY viewBookmarksToolbar.label         "Gweld Bar Offer Nodau Tudalen">
 
