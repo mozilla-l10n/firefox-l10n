@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "Kliknite na">
-
+<!ENTITY canvasDebuggerUI.emptyNotice2    "tipku za snimanje animacije stoga poziva okvira.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 

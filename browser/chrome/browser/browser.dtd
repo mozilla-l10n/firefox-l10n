@@ -692,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Vaša veza s ovom stranicom nije privatna. Informacije koje pošaljete (npr. lozinke, poruke, broj kreditne kartice itd.) može vidjeti treća strana.">
 <!ENTITY identity.description.insecureLoginForms "Pristupni podaci koje unesete na ovoj stranici nisu sigurni i mogu biti kompromitirani.">
 <!ENTITY identity.description.weakCipher "Vaša veza s ovom stranicom koristi slabu enkripciju i nije privatna.">
-
+<!ENTITY identity.description.weakCipher2 "Drugi ljudi mogu vidjeti vaše informacije ili modificirati ponašanje stranice.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; je blokirao dijelove ove stranice koji nisu sigurni.">
 <!ENTITY identity.description.passiveLoaded "Vaša veza nije privatna i informacije koje dijelite s ovom stranicom mogu vidjeti drugi.">
 <!ENTITY identity.description.passiveLoaded2 "Ova stranica ima sadržaj koji nije siguran (npr. slike).">

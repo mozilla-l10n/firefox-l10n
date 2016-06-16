@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Učitavanje…">
-
+<!ENTITY listEmpty.installed.label            "Nemate instaliran nijedan dodatak ove vrste">
 <!ENTITY listEmpty.availableUpdates.label     "Nema pronađenih dopuna">
-
+<!ENTITY listEmpty.recentUpdates.label        "U posljednje vrijeme niste ažurirali nijedan dodatak">
 <!ENTITY listEmpty.findUpdates.label          "Provjeri dostupnost dopuna">
 <!ENTITY listEmpty.search.label               "Nisu pronađeni dodaci koji se podudaraju">
 <!ENTITY listEmpty.button.label               "Saznajte više o dodacima">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Ukloni">
 <!ENTITY cmd.uninstallAddon.accesskey         "U">
 <!ENTITY cmd.showPreferencesWin.label         "Mogućnosti">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Promijeni mogućnosti ovog dodatka">
 <!ENTITY cmd.showPreferencesUnix.label        "Osobitosti">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Promijeni osobitosti ovog dodatka">
 <!ENTITY cmd.contribute.label                 "Doprinesite">
 <!ENTITY cmd.contribute.accesskey             "D">
 <!ENTITY cmd.contribute.tooltip               "Doprinesite razvoju ovog dodatka">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Što su dodaci?">
 <!ENTITY discover.description2                "Dodaci su aplikacije koje vam omogućavaju personalizaciju &brandShortName;a s dodatnim funkcionalnostima ili stilom. Isprobajte bočnu traku koja vam ušteđuje vrijeme, dodajte vremensku prognozu ili postavite drugu temu za &brandShortName;.">
-
+<!ENTITY discover.footer                      "Kada ste spojeni na Internet, u ovom će prozoru biti istaknute neke od najboljih i najpopularnijih dodataka koje možete isprobati.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Inačica">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Automatske dopune">
 <!ENTITY detail.updateDefault.label           "Zadano">
-
+<!ENTITY detail.updateDefault.tooltip         "Instaliraj dopune automatski samo ako je to zadana postavka">
 <!ENTITY detail.updateAutomatic.label         "Uključeno">
 <!ENTITY detail.updateAutomatic.tooltip       "Automatski instaliraj dopune">
 <!ENTITY detail.updateManual.label            "Isključeno">
-
+<!ENTITY detail.updateManual.tooltip          "Nemoj automatski instalirati dopune">
 <!ENTITY detail.home                          "Početna stranica">
 <!ENTITY detail.repository                    "Profil dodataka">
 <!ENTITY detail.size                          "Veličina">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Provjeri dostupnost dopuna za ovaj dodatak">
 <!ENTITY detail.showPreferencesWin.label      "Mogućnosti">
 <!ENTITY detail.showPreferencesWin.accesskey  "o">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Promijeni mogućnosti ovog dodatka">
 <!ENTITY detail.showPreferencesUnix.label     "Osobitosti">
 <!ENTITY detail.showPreferencesUnix.accesskey "t">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Promijeni osobitosti ovog dodatka">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Šta je ovo? Telemetrija može instalirati i pokretati eksperimente sa vremena na vrijeme.">
 <!ENTITY experiment.info.learnmore "Saznajte više">
 <!ENTITY experiment.info.learnmore.accesskey "z">
 <!ENTITY experiment.info.changetelemetry "Postavke telemetrije">

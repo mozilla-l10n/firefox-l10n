@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Adresa nije pronađena">
-
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Provjerite greške pri pisanju poput <strong>ww</strong>.example.com umjesto <strong>www</strong>.example.com</li> <li>Ako ne možete pristupiti niti jednoj stranici, provjerite vezu između mreže i vašeg računala.</li> <li>Ako je vaše računalo ili mreža zaštićena putem vatrozida ili proxya, provjerite da je &brandShortName; dozvoljen pristup na Web.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite naziv datoteke, te postoji li pravopisna ili tipografska greška.</li> <li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li> </ul>">
@@ -27,15 +27,16 @@
 
 
 <!ENTITY generic.title "Ups.">
+<!ENTITY generic.longDesc "<p>&brandShortName; iz nekog razloga ovu stranicu nije moguće učitati.</p>">
 
-
-
+<!ENTITY malformedURI.title "Neispravna adresa">
+<!ENTITY malformedURI.longDesc "<ul> <li>Adrese web stranica se obično pišu u formatu poput <strong>http://www.example.com/</strong></li> <li>Provjerite da upisujete kose crte prema naprijed (tj. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Podatkovni prijenos je prekinut">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokument je istekao">
-
+<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u &brandShortName;ovoj priručnoj memoriji.</p><ul><li>. Radi mjere sigurnosti, &brandShortName; neće automatski ponovno zatražiti osjetljive dokumente.</li><li>Kliknite na Pokušaj ponovno da biste zatražili dokument od web stranice.</li></ul>">
 
 <!ENTITY netOffline.title "Izvanmrežni rad">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Kliknite na &quot;Pokušaj ponovno&quot; da biste uključili mrežni način rada i ponovno učitali stranicu.</li> </ul>">
@@ -52,6 +53,7 @@
 <!ENTITY netTimeout.title "Vezi je isteklo vrijeme">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Nepoznati protokol">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Možda ćete trebali instalirati drugi program da biste mogli otvoriti ovu adresu.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy poslužitelj odbio vezu">
@@ -60,6 +62,7 @@
 <!ENTITY proxyResolveFailure.title "Proxy poslužitelj nije pronađen">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Provjerite postavke za proxy.</li> <li>Provjerite ima li vaše računalo ispravnu vezu prema mreži.</li> <li>Ako je vaše računalo zaštićeno vatrozidom ili proxyem, provjerite ima li &brandShortName; dozvolu za pristupanje Webu.</li> </ul>">
 
+<!ENTITY redirectLoop.title "Petlja preusmjeravanja">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Ovaj problem ponekad može biti uzrokovan isključivanjem ili odbijanjemprimanja kolačića.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Neispravan odgovor">
@@ -71,6 +74,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY sharedLongDesc "<ul> <li>Ova je stranica privremeno nedostupna ili prezauzeta. Pokušajte ponovno za nekoliko trenutaka.</li> <li>Ako ne možete učitati niti jednu stranicu, provjerite mrežne postavke vašeg računala.</li> <li>Ako je vaše računalo ili mreža zaštićena vatrozidom ili proxyem, provjerite ima li &brandShortName; dozvolu pristupiti Internetu.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je sprječio učitavanje stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje..</p>">
