@@ -5,10 +5,10 @@
 <!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "Hoofdwachtwoord wijzigen">
 <!ENTITY setPassword.tokenName.label "Beveiligingsapparaat">
-<!ENTITY setPassword.oldPassword.label "Huidige wachtwoord">
-<!ENTITY setPassword.newPassword.label "Nieuw wachtwoord">
-<!ENTITY setPassword.reenterPassword.label "Nieuw wachtwoord (nogmaals)">
-<!ENTITY setPassword.meter.label "Wachtwoordkwaliteitsmeter:">
+<!ENTITY setPassword.oldPassword.label "Huidige wachtwoord:">
+<!ENTITY setPassword.newPassword.label "Nieuw wachtwoord:">
+<!ENTITY setPassword.reenterPassword.label "Nieuw wachtwoord (nogmaals):">
+<!ENTITY setPassword.meter.label "Wachtwoordkwaliteitsmeter">
    
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Herinitialiseren">
@@ -16,7 +16,7 @@
 <!ENTITY resetPassword.text  "Als u uw hoofdwachtwoord opnieuw instelt, zullen al uw opgeslagen web- en e-mailwachtwoorden, formuliergegevens, persoonlijke certificaten en privésleutels worden vergeten. Weet u zeker dat u uw hoofdwachtwoord wilt herinitialiseren?">
 
 <!-- Downloading a cert -->
-<!ENTITY downloadCert.title "Bezig met ophalen van certificaat">
+<!ENTITY downloadCert.title "Certificaat downloaden">
 <!ENTITY downloadCert.message1 "U wordt gevraagd een nieuwe certificaatautoriteit (CA) te vertrouwen.">
 <!ENTITY downloadCert.trustSSL "Deze CA vertrouwen voor het identificeren van websites.">
 <!ENTITY downloadCert.trustEmail "Deze CA vertrouwen voor het identificeren van e-mailgebruikers.">
@@ -28,7 +28,7 @@
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Gebruikersidentificatieverzoek">
 <!ENTITY clientAuthAsk.message1 "Deze website vraagt u zich te identificeren met een beveiligingscertificaat:">
-<!ENTITY clientAuthAsk.message2 "Kies een certificaat om als identificatie te presenteren:">
+<!ENTITY clientAuthAsk.message2 "Kies een certificaat om als identificatie aan te bieden:">
 <!ENTITY clientAuthAsk.message3 "Details van het geselecteerde certificaat:">
 
 <!-- Strings for the cert picker dialog -->
