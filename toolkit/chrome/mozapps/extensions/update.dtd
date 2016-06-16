@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Wedi Canfod Ychwanegion Cydweddus">
 <!ENTITY  found.top.label                 "Dewiswch yr ychwanegion yr hoffech ei osod:">
-
+<!ENTITY  found.disabledXPinstall.label   "Nid oes modd gosod y diweddariadau hyn gan fod gosod meddalwedd wedi ei hanalluogi ar hyn o bryd. Gallwch newid y gosodiad isod.">
 <!ENTITY  found.enableXPInstall.label     "Caniatáu i wefannau osod meddalwedd">
 <!ENTITY  found.enableXPInstall.accesskey "C">
 
