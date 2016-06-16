@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Gwybodaeth am Ddatrys Problemau">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  Mae'r dudalen hon yn cynnwys gwybodaeth dechnegol a allai fod yn ddefnyddiolpan fyddwch yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynaucyffredin am &brandShortName;, edrychwch ar ein wefan cefnogi <a id='supportLink'></a>.">
+
 <!ENTITY aboutSupport.crashes.title "Ardroddiad Chwalu">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->

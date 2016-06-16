@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Mae llwytho'r fideo wedi dod i ben.">
 <!ENTITY error.network "Mae chwarae'r fideo wedi dod i ben oherwydd gwall rhwydwaith.">
-
+<!ENTITY error.decode "Nid oedd modd chwarae'r fideo gan fod y ffeil yn llwgr.">
 <!ENTITY error.srcNotSupported "Nid yw'r fformat fideo na'r math MIME yn cael eu cynnal.">
 <!ENTITY error.noSource2 "Heb ganfod fideo gyda fformat sy'n cael ei gynnal na math MIME.">
 <!ENTITY error.generic "Ataliwyd chwarae'r fideo oherwydd gwall anhysbys.">
