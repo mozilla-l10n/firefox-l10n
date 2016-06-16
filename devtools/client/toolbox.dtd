@@ -198,11 +198,11 @@
 
 <!ENTITY options.sourceeditor.label                     "Editorvoorkeuren">
 <!ENTITY options.sourceeditor.detectindentation.label   "Inspringing detecteren">
-<!ENTITY options.sourceeditor.detectindentation.tooltip "Inspringing op basis van broninhoud detecteren">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Inspringing raden op basis van broninhoud">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Automatisch haakjes sluiten">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Automatisch sluithaakjes invoegen">
 <!ENTITY options.sourceeditor.expandtab.label           "Inspringen met behulp van spaties">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "Spaties gebruiken in plaats van het tab-teken">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Spaties gebruiken in plaats van het tabteken">
 <!ENTITY options.sourceeditor.tabsize.label             "Tabgrootte">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Sneltoetsen">
