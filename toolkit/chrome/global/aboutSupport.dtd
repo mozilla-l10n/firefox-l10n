@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Hibakeresési információ">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  Ez az oldal problémakeresésnél használható technikai információkat tartalmaz. Ha a &brandShortName; programmal kapcsolatos gyakori kérdésekre keresi a választ, akkor nézze meg a <a id='supportLink'>támogató weboldalunkat</a>.">
+
 <!ENTITY aboutSupport.crashes.title "Hibajelentések">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
