@@ -18,18 +18,25 @@
 <!ENTITY firstrun_signin_message "Zwjazajće so, započńće">
 <!ENTITY firstrun_signin_button "Pola Sync přizjewić">
 <!ENTITY  onboard_start_button_browser "Přehladowanje startować">
-
+<!ENTITY firstrun_button_notnow "Nic hnydom">
 <!ENTITY firstrun_button_next "Přichodny">
 
+<!ENTITY firstrun_tabqueue_title "Wotkazy">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Rajtarkowy čakanski rynk zmóžnić">
+<!ENTITY firstrun_tabqueue_subtext_off "Wotkaz za pozdźišo w &brandShortName; składować, hdyž so jich w druhich nałoženjach podótknu.">
 
+<!ENTITY firstrun_tabqueue_message_on "Wuspěch!">
+<!ENTITY firstrun_tabqueue_subtext_on "Móžeće to w &settings; pod &pref_category_general; znjemóžnić">
 
-
-
+<!ENTITY firstrun_readerview_title "Nastawki">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-
+<!ENTITY firstrun_readerview_message "Zrumować">
+<!ENTITY firstrun_readerview_subtext "Wužiwajće čitakowy napohlad wužiwać, zo byšće nastawki lěpje čitajomne činił \u2014 tež offline ">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!ENTITY firstrun_account_title "Wy">
+<!ENTITY firstrun_account_message "Maće &brandShortName; na druhim graće?">
 
 <!ENTITY  onboard_start_restricted1 "Wostańće dale wěsty a mějće dale kontrolu z tutej zjednorjenej wersiju &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -71,10 +78,12 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Fota wobrazowki">
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Čitanska lisćina">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
+<!ENTITY bookmark_folder_items "&formatD; zapiskow">
+<!ENTITY bookmark_folder_one_item "1 zapisk">
 
 <!ENTITY reader_saved_offline "Offline składowany">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -301,8 +310,10 @@
 <!ENTITY content_notification_title_plural "&formatD; websydłow zaktualizowanych">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Nastajenja">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Nětko čitać">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -436,12 +447,12 @@ size. -->
 <!ENTITY share_image_failed "Tutón wobraz njeda so dźělić">
 <!ENTITY save_as_pdf "Jako PDF składować">
 <!ENTITY print "Ćišćeć">
-
-
+<!ENTITY find_in_page "Na stronje pytać">
+<!ENTITY desktop_mode "Desktopowe sydło požadać">
 <!ENTITY page "Strona">
 <!ENTITY tools "Nastroje">
-
-
+<!ENTITY new_tab "Nowy rajtark">
+<!ENTITY new_private_tab "Nowy priwatny rajtark">
 <!ENTITY close_all_tabs "Wšě rajtarki začinić">
 <!ENTITY close_private_tabs "Priwatne rajtarki začinić">
 <!ENTITY tabs_normal "Rajtarki">
@@ -451,6 +462,8 @@ size. -->
 <!ENTITY set_image_chooser_title "Wobraz stajić jako">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Na stronje pytać">
 <!ENTITY find_prev "Předchadny">
 <!ENTITY find_next "Přichodny">
 <!ENTITY find_close "Začinić">
@@ -552,6 +565,7 @@ size. -->
 <!ENTITY home_synced_devices_smartfolder "Synchronizowane graty">
 <!ENTITY home_synced_devices_number "&formatD; gratow">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 grat">
 <!ENTITY home_history_back_to2 "Wróćo k dospołnej historiji">
 <!ENTITY home_clear_history_button "Přehladowansku historiju wuprózdnić">
 <!ENTITY home_clear_history_confirm "Chceće woprawdźe historiju wuprózdnić?">
@@ -790,8 +804,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Offline čitać">
 <!ENTITY helper_first_offline_bookmark_message "Namakajće zapiski wašeho čitakoweho napohlada tež offline.">
+<!ENTITY helper_first_offline_bookmark_button "K zapołožkam">
 
-
-
-
+<!ENTITY helper_triple_readerview_open_title "Offline k dispoziciji">
+<!ENTITY helper_triple_readerview_open_message "Składujće zapiski čitanskeho napohlada jako zapołožki, zo byšće je offline čitał.">
+<!ENTITY helper_triple_readerview_open_button "K zapołožkam přidać">
 
