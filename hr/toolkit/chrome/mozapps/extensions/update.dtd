@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Pronađeni nekompatibilni dodaci">
 <!ENTITY  found.top.label                 "Odaberite dodatke koje biste htjeli instalirati:">
-
+<!ENTITY  found.disabledXPinstall.label   "Ove dodatke nije moguće instalirati jer je instalacija programa trenutno onemogućena. Ovu postavku možete promijeniti niže.">
 <!ENTITY  found.enableXPInstall.label     "Dopusti web stranicama da instaliraju programe">
 <!ENTITY  found.enableXPInstall.accesskey "a">
 

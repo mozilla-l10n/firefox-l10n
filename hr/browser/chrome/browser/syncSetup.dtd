@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; podešavanje">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "Dobrodošli! Ako nikada niste koristili &syncBrand.fullName.label; trebat ćete otvoriti novi korisnički račun.">
 <!ENTITY button.createNewAccount.label "Otvori novi korisnički račun">
 <!ENTITY button.haveAccount.label      "Već imam korisnički račun">
 
 <!ENTITY setup.choicePage.title.label     "Jeste li već koristili &syncBrand.fullName.label;?">
-
-
+<!ENTITY setup.choicePage.new.label       "Nikad nisam koristio/la &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing2.label "Već koristim &syncBrand.shortName.label; na drugom uređaju">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Poslužitelj">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "Upari uređaj">
 <!ENTITY addDevice.showMeHow.label          "Pokažite mi kako.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "Nemam uređaj sa sobom">
 <!ENTITY pairDevice.setup.description.label  "Da biste aktivirali, odaberite &quot;Upari uređaj&quot; na svojem uređaju.">
 <!ENTITY addDevice.setup.enterCode.label    "Zatim upišite ovaj kôd:">
 <!ENTITY pairDevice.dialog.description.label "Da biste aktivirali vaš novi uređaj, odaberite &quot;Podesi sync&quot; na vašem uređaju.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "Dodaci">
 <!ENTITY engine.addons.accesskey    "a">
 
+<!ENTITY choice2a.merge.main.label       "Spoji podatke ovog uređaja s mojim &syncBrand.shortName.label; podacima">
 <!ENTITY choice2.merge.recommended.label "Preporučeno:">
 <!ENTITY choice2a.client.main.label      "Zamijeni sve podatke na ovom uređaju s mojim &syncBrand.shortName.label; podacima">
-
+<!ENTITY choice2a.server.main.label      "Zamijeni podatke svih uređaja s podacima na ovom računalu">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Potvrdi">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; će sada spojiti sve podatke ovog uređaja s podacima vašeg Sync korisničkog računa.">
 <!ENTITY confirm.client3.label         "Upozorenje: Sljedeći &brandShortName; podaci će biti obrisani s ovog uređaja:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; će zatim kopirati vaše &syncBrand.fullName.label; podatke na ovo uređaj.">
 <!ENTITY confirm.server2.label         "Upozorenje: Sljedeći uređaji će biti prepisani s lokalnim podacima:">
