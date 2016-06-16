@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Á Luchtú…">
-
+<!ENTITY listEmpty.installed.label            "Níl aon bhreiseán den chineál seo suiteáilte agat">
 <!ENTITY listEmpty.availableUpdates.label     "Ní bhfuarthas nuashonruithe">
-
+<!ENTITY listEmpty.recentUpdates.label        "Ní raibh aon bhreiseáin nuashonraithe agat le déanaí">
 <!ENTITY listEmpty.findUpdates.label          "Lorg Nuashonruithe">
 <!ENTITY listEmpty.search.label               "Níor aimsíodh aon bhreiseáin chomhoiriúnacha">
 <!ENTITY listEmpty.button.label               "Tuilleadh eolais faoi bhreiseáin">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Bain">
 <!ENTITY cmd.uninstallAddon.accesskey         "B">
 <!ENTITY cmd.showPreferencesWin.label         "Roghanna">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Athraigh roghanna an bhreiseáin seo">
 <!ENTITY cmd.showPreferencesUnix.label        "Sainroghanna">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Athraigh sainroghanna an bhreiseáin seo">
 <!ENTITY cmd.contribute.label                 "Glac Páirt">
 <!ENTITY cmd.contribute.accesskey             "c">
 <!ENTITY cmd.contribute.tooltip               "Glac páirt i bhforbairt an bhreiseáin seo">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Cad is Breiseán ann?">
 <!ENTITY discover.description2                "Is feidhmchláir iad na breiseáin a chuireann ar do chumas &brandShortName; a oiriúnú duit féin le feidhmeanna nó stíleanna breise. Bain triail as barra taoibh a spárálann am, fogróir aimsire, nó cuma de réir téama chun do &brandShortName; féin a chruthú.">
-
+<!ENTITY discover.footer                      "Nuair a bhíonn tú ceangailte leis an Idirlíon, taispeántar cuid de na breiseáin is fearr agus is mó éilimh orthu sa phána seo.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Leagan">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Nuashonruithe Uathoibríocha">
 <!ENTITY detail.updateDefault.label           "Réamhshocrú">
-
+<!ENTITY detail.updateDefault.tooltip         "Suiteáil nuashonruithe go huathoibríoch más é sin an réamhshocrú">
 <!ENTITY detail.updateAutomatic.label         "Ann">
 <!ENTITY detail.updateAutomatic.tooltip       "Suiteáil nuashonruithe go huathoibríoch">
 <!ENTITY detail.updateManual.label            "As">
-
+<!ENTITY detail.updateManual.tooltip          "Ná suiteáil nuashonruithe go huathoibríoch">
 <!ENTITY detail.home                          "Leathanach Baile">
 <!ENTITY detail.repository                    "Próifíl an Bhreiseáin">
 <!ENTITY detail.size                          "Méid">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Lorg nuashonruithe le haghaidh an bhreiseáin seo">
 <!ENTITY detail.showPreferencesWin.label      "Roghanna">
 <!ENTITY detail.showPreferencesWin.accesskey  "R">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Athraigh roghanna an bhreiseáin seo">
 <!ENTITY detail.showPreferencesUnix.label     "Sainroghanna">
 <!ENTITY detail.showPreferencesUnix.accesskey "S">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Athraigh sainroghanna an bhreiseáin seo">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Cad é seo? Suiteálfaidh agus rithfidh Telemetry turgnaimh anois is arís.">
 <!ENTITY experiment.info.learnmore "Tuilleadh Eolais">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Socruithe Telemetry">
