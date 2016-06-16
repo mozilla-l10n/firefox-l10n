@@ -4,7 +4,7 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-
+<!ENTITY ChooseOtherApp.description "Dewis Rhaglen arall">
 <!ENTITY ChooseApp.label "Dewis…">
 <!ENTITY ChooseApp.accessKey "D">
-
+<!ENTITY accept "Agor dolen">

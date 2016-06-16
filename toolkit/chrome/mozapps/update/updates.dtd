@@ -55,7 +55,7 @@
 <!ENTITY  finishedBackground.name         "Diweddaru:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn. Mae modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn hwyrach.">
-
+<!ENTITY  finishedBackground.moreElevated "Mae'r diweddariad angen breintiau gweinyddwr. Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn. Mae modd ailgychwyn &brandShortName; nawr, parhau i weithio ac ailgychwyn yn hwyrach, neu wrthod y diweddariad.">
 
 <!ENTITY  update.details.label            "Manylion">
 <!ENTITY  update.installedOn.label        "Gosodwyd ar:">

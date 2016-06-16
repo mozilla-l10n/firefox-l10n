@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Asiant Defnyddiwr">
 <!ENTITY aboutSupport.appBasicsOS "SW">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Defnydd o'r cof">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Perfformiad">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers Cofrestredig">
@@ -86,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Graffigau">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "Cronfa Ddata Mannau">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Cyfanrwydd">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Gwirio Cyfanrwydd">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC Cynnyddol">
@@ -114,6 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Cofnod Methiant">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Cofnod Penderfynnu">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Nodweddion Crash Guard wedi ei Analluogi">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Dulliau Datrys">

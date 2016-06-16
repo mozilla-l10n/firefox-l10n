@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>Efallai bod yr eitem wedi cael ei hailenwi, ei thynnu neu ei symud?</li><li>Oes yna wall sillafu, llythrennu neu wall teipio arall yn y cyfeiriad?</li><li>A oes gennych hawl digonol i gael mynediad at yr eitem hon?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Mae mynediad i'r ffeil wedi ei wrthod">
-<!ENTITY fileAccessDenied.longDesc "<ul> <li>Gall ei fod wedi ei dynnu, symud neu fod caniatâd ffeiliau yn rhwystro mynediad.</li> </ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Gall ei fod wedi ei dynnu, symud neu fod caniatâd ffeiliau yn rhwystro mynediad.</li></ul>">
 
 <!ENTITY generic.title "Methu Cyflawni'r Cais">
 <!ENTITY generic.longDesc "<p>Nid oes gwybodaeth ar gael am y gwall neu broblem yma ar hyn o bryd.</p>">
