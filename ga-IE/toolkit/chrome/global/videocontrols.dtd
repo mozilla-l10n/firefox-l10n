@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Stopadh luchtú an fhíseáin.">
 <!ENTITY error.network "Stopadh athsheinm an fhíseáin mar gheall ar earráid líonra.">
-
+<!ENTITY error.decode "Ní féidir an físeán a sheinm toisc go bhfuil an comhad truaillithe.">
 <!ENTITY error.srcNotSupported "Ní thacaítear leis an bhformáid fhíse nó leis an gcineál MIME.">
 <!ENTITY error.noSource2 "Níor aimsíodh aon fhíseán a dtacaítear lena fhormáid agus lena chineál MIME.">
 <!ENTITY error.generic "Stopadh athsheinm an fhíseáin mar gheall ar earráid anaithnid.">
