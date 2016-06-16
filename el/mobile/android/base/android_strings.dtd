@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Καλώς ήλθατε">
-<!ENTITY  onboard_start_message3 "Περιηγηθείτε με το &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Προσαρμόστε την εμπειρία περιήγησης στο κινητό διαδίκτυο απολύτως στις προτιμήσεις σας.">
 
 <!ENTITY firstrun_urlbar_message "Καλώς ήλθατε στον &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Βρείτε τα πάντα πιο γρήγορα με τις χρήσιμες προτάσεις αναζήτησης.">
@@ -20,20 +18,28 @@
 <!ENTITY firstrun_signin_message "Συνδεθείτε και ξεκινήστε">
 <!ENTITY firstrun_signin_button "Είσοδος στον Συγχρονισμό">
 <!ENTITY  onboard_start_button_browser "Ξεκινήστε την περιήγηση">
+<!ENTITY firstrun_button_notnow "Όχι τώρα">
 <!ENTITY firstrun_button_next "Επόμενο">
 
-<!ENTITY  onboard_start_restricted1 "Παραμείνετε ασφαλής και διατηρήστε τον έλεγχο με αυτή την απλοποιημένη έκδοση του &brandShortName;.">
+<!ENTITY firstrun_tabqueue_title "Σύνδεσμοι">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Ενεργοποίηση της ουράς αναμονής καρτελών">
+<!ENTITY firstrun_tabqueue_subtext_off "Αποθήκευση συνδέσμων για αργότερα στον &brandShortName; όταν τους επιλέγω σε άλλες εφαρμογές.">
 
-<!ENTITY  reading_list_migration_title "Η λίστα ανάγνωσης έχει συνδεθεί">
-<!ENTITY  reading_list_migration_subtext "Τα στοιχεία της λίστας ανάγνωσης σας πλέον θα προστίθενται στους σελιδοδείκτες σας">
-<!ENTITY  reading_list_migration_goto_bookmarks "Μετάβαση στους σελιδοδείκτες">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Το πλαίσιο των σελιδοδεικτών σας είναι κρυμμένο">
+<!ENTITY firstrun_tabqueue_message_on "Επιτυχία!">
+<!ENTITY firstrun_tabqueue_subtext_on "Μπορείτε πάντα να το απενεργοποιήσετε στις &settings; στην ενότητα &pref_category_general;.">
+
+<!ENTITY firstrun_readerview_title "Άρθρα">
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+<!ENTITY  onboard_start_restricted1 "Παραμείνετε ασφαλής και διατηρήστε τον έλεγχο με αυτή την απλοποιημένη έκδοση του &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Mobile">
 <!ENTITY  history_title "Ιστορικό">
-<!ENTITY  reading_list_title "Λίστα ανάγνωσης">
 <!ENTITY  recent_tabs_title "Πρόσφατες καρτέλες">
 
 <!ENTITY  switch_to_tab "Μετάβαση σε καρτέλα">
@@ -69,6 +75,9 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Στιγμιότυπα οθόνης">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Λίστα ανάγνωσης">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
 
 <!ENTITY reader_saved_offline "Αποθηκευμένα για χρήση χωρίς σύνδεση">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +183,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "ΣΥΜΒΟΥΛΗ: προσθέστε οποιαδήποτε ιστοσελίδα στη λίστα των μηχανών αναζήτησης σας, πατώντας παρατεταμένα το πεδίο αναζήτησης της και μετά το εικονίδιο &formatI;.">
 <!ENTITY pref_category_advanced "Για προχωρημένους">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Επαναφορά καρτελών, εξοικονόμηση δεδομένων, εργαλεία προγραμματιστών">
 <!ENTITY pref_category_notifications "Ειδοποιήσεις">
 <!ENTITY pref_category_notifications_summary "Νέα χαρακτηριστικά, ενημερώσεις ιστοσελίδων">
@@ -225,6 +237,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Ενεργοποίηση, εκτός από cookies τρίτων">
 <!ENTITY pref_cookies_disabled "Απενεργοποίηση">
 
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_data_saver "Εξοικονόμηση δεδομένων">
 <!ENTITY pref_category_media "Πολυμέσα">
 <!ENTITY pref_category_developer_tools "Εργαλεία προγραμματιστών">
@@ -287,7 +302,10 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "Έχουν ενημερωθεί &formatD; ιστοσελίδες">
-<!ENTITY content_notification_action_settings "Ρυθμίσεις ειδοποιήσεων">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -512,6 +530,7 @@ size. -->
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
@@ -641,5 +660,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+
 
 
