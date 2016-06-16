@@ -16,6 +16,8 @@
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "ഡിവൈസ് ലഭ്യമല്ല...">
 <!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.passwords2 "പ്രവേശനങ്ങള്‍">
 <!ENTITY sync.configure.engines.title.history "നാള്‍വഴി">
 <!ENTITY sync.configure.engines.title.tabs "ടാബുകള്‍">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
@@ -48,9 +50,9 @@
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label;-ന്റെ പഴയ പതിപ്പു് ഉപയോഗിയ്ക്കുന്നോ?">
 
 <!ENTITY fxaccount_status_signed_in_as "ഇങ്ങനെ പ്രവേശിച്ചിരിയ്ക്കുന്നു">
-
+<!ENTITY fxaccount_status_manage_account "അക്കൗണ്ട് കൈകാര്യം ചെയ്യുക">
 <!ENTITY fxaccount_status_auth_server "അക്കൌണ്ട് സര്‍വര്‍">
-
+<!ENTITY fxaccount_status_sync_now "ഉടന്‍ സിന്‍ക് ചെയ്യുക">
 <!ENTITY fxaccount_status_syncing2 "സിന്‍ക് ചെയ്യുന്നു...">
 <!ENTITY fxaccount_status_device_name "ഉപകരണത്തിന്റെ പേരു്">
 <!ENTITY fxaccount_status_sync_server "സിന്‍ക് സര്‍വര്‍">
@@ -64,14 +66,15 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "താങ്കളുടെ പുതിയ ഫയര്‍ഫോക്സ് അക്കൌണ്ടില്‍ പ്രവേശിക്കാന്‍ സ്ക്രീനില്‍ തൊടുക.">
 
 <!ENTITY fxaccount_status_history "നാള്‍വഴി">
-
+<!ENTITY fxaccount_status_passwords2 "പ്രവേശനങ്ങള്‍">
 <!ENTITY fxaccount_status_tabs "ടാബുകള്‍ തുറക്കുക">
 <!ENTITY fxaccount_status_legal "നിയമപരം" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linktos2 "സേവന നിബന്ധനകള്‍">
+<!ENTITY fxaccount_status_linkprivacy2 "സ്വകാര്യ വ്യവസ്ഥകള്‍">
 <!ENTITY fxaccount_status_more "കൂടുതല്‍&ellipsis;">
 
 

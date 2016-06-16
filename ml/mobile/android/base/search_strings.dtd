@@ -13,10 +13,11 @@
 
 <!ENTITY search_plus_content_description "തിരയല്‍ ബാറിലേക്ക് ചേര്‍ക്കൂ">
 
-
+<!ENTITY search_pref_title "സജ്ജീകരണങ്ങള്‍">
+<!ENTITY search_pref_button_content_description "സജ്ജീകരണങ്ങള്‍">
 
 <!ENTITY pref_clearHistory_confirmation "നാള്‍വഴി ഒഴിവാക്കി">
-
+<!ENTITY pref_clearHistory_dialogMessage "ഈ ഉപകരണത്തില്‍ നിന്ന് എല്ലാ നാള്‍വഴിയും നീക്കം ചെയ്യണോ?">
 <!ENTITY pref_clearHistory_title "തിരയല്‍ ചരിത്രം ഒഴിവാക്കൂ">
 
 <!ENTITY search_widget_button_label "തിരയുക">

@@ -20,3 +20,5 @@
 <!ENTITY aboutPage.credits.label                "ബഹുമതികള്‍">
 <!ENTITY aboutPage.license.label                "ലൈസന്‍സ് വിവരം">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+
+<!ENTITY aboutPage.logoTrademark                "ഫയര്‍ഫോക്സും ഫയര്‍ഫോക്സ് ചിഹ്നങ്ങളും മോസില്ലാ ഫൗണ്ടേഷന്റെ വ്യാപാരമുദ്ര ആകുന്നു.">
