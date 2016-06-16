@@ -161,13 +161,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ഈ വീഡിയോ പങ്കിടുക">
 <!ENTITY shareVideo.accesskey "r">
-
-
+<!ENTITY feedsMenu2.label "ഈ താളില്‍ അംഗമാകുക">
+<!ENTITY subscribeToPageMenupopup.label "ഈ താളില്‍ അംഗമാകുക">
 <!ENTITY subscribeToPageMenuitem.label "ഈ താളില്‍ അംഗമാകുക...">
 <!ENTITY addCurPagesCmd.label "എല്ലാ റ്റാബുകളും അടയാളപ്പെടുത്തുക...">
 <!ENTITY showAllBookmarks2.label "എല്ലാ അടയാളക്കുറിപ്പുകളും കാണിയ്ക്കുക">
-
-
+<!ENTITY recentBookmarks.label "ഏറ്റവും ഒടുവില്‍ അടയാളക്കുറിപ്പാക്കിയതു്">
+<!ENTITY otherBookmarksCmd.label "മറ്റു് അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY bookmarksToolbarChevron.tooltip "കൂടുതല്‍ അടയാളക്കുറിപ്പുകള്‍ കാണിക്കുക">
 
 
@@ -226,10 +226,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "അടയാളക്കുറിപ്പുകള്‍">
-
+<!ENTITY bookmarksMenuButton.other.label "മറ്റു് അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY viewBookmarksSidebar2.label        "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക">
 <!ENTITY viewBookmarksToolbar.label         "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക">
 
+<!ENTITY containersMenu.label "കണ്ടെയിനറുകള്‍">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -282,9 +283,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "മുറിക്കുക">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "പകര്‍ത്തുക">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "പ"> 
 <!ENTITY pasteCmd.label           "ഒട്ടിക്കുക">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -333,13 +334,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "നാള്‍വഴി സൈഡ്ബാര്‍ കാണുക.">
 <!ENTITY appMenuHelp.tooltip "സഹായ മെനു തുറക്കുക">
 
+<!ENTITY appMenuRemoteTabs.label "സിന്‍കായ ടാബുകള്‍">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "ടാബൊന്നും തുറന്നിരിക്കുന്നില്ല">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "മറ്റുള്ള ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണുവാന്‍ ടാബ് സിന്‍ക് ഓണാക്കൂ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "ഒരു ടാബും സിന്‍ക് ചെയ്തിട്ടില്ല …ഇതുവരെ!">
 
 
 
