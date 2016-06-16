@@ -2,8 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutAccounts.connected.title "ഫയര്‍ഫോക്സ് അക്കൗണ്ടുകള്‍">
 
 
 
+<!ENTITY aboutAccounts.noConnection.title "ഇന്റർനെറ്റ് ബന്ധം ഇല്ല">
+<!ENTITY aboutAccounts.retry.label "വീണ്ടും ശ്രമിയ്ക്കുക">
 
-
+<!ENTITY aboutAccounts.restrictedError.description "നിങ്ങള്‍ക്ക് ഈ പ്രൊഫൈലില്‍ നിന്നു ഫയര്‍ഫോക്സ് അക്കൗണ്ടുകള്‍ കൈകാര്യം ചെയ്യാന്‍ കഴിയില്ല.">
