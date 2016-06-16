@@ -771,7 +771,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings "Ñemoĩporã opapotámava">
 <!ENTITY restrictable_feature_advanced_settings_description "Ko\u0027ápe oike techaukaha, tendayke mbojevypyre ha ñembohekopyahu ijeheguíva. Embogue pe ñemoĩporãrã ojogueraháva nde rogaygua oimeraẽvape g̃uarã.">
 <!ENTITY restrictable_feature_camera_microphone "Ta\u0027ãnganohẽha ha Ñe\u0027ẽatãha">
-
+<!ENTITY restrictable_feature_camera_microphone_description "Emoneĩ nde rogayguakuérape oñomomarandu hag̃ua aravoitépe ñanduti renda rupive.">
 <!ENTITY restrictable_feature_block_list "jejoko rysýi">
 <!ENTITY restrictable_feature_block_list_description "Ejoko ñanduti renda ohechaukáva mba\u0027ekuaarã ivaikuaáva.">
 <!-- Default Bookmarks titles-->
@@ -790,6 +790,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "¡Ambyasy! Ko &brandShortName; ndoikomo\u0027ãi ko mba\u0027e\u0027okápe (&formatS1;, &formatS2;). Ikatúpiko emboguejy peteĩchagua oikóva rehegua.">
+
 <!ENTITY eol_notification_title2 "&brandShortName; ani embohekopyahu">
 <!ENTITY eol_notification_summary "Epoko ko\u0027ápe eikuaave hag̃ua">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
@@ -801,7 +803,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Embojuaju mba\u0027erechaha ypýpe">
 
 <!ENTITY helper_first_offline_bookmark_title "Emoñe\u0027ẽ ñandutípe">
-
+<!ENTITY helper_first_offline_bookmark_message "Ejuhu nde Moñe\u0027ẽha Recha Jeguerohoryvévape, ikatu ñanduti\u0027ỹre avei.">
 <!ENTITY helper_first_offline_bookmark_button "Tereho techaukahápe">
 
 <!ENTITY helper_triple_readerview_open_title "Eipurukuaa ñandutípe">
