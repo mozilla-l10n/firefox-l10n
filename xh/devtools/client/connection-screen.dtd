@@ -23,6 +23,8 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelp "Izixhobo zokuPhuhlisa ze-Firefox zinga-debug izixhobo ezikude (i-Firefox nge-Android ne-Firefox OS, umzekelo). Qinisekisa ukuba uluvulile ukhetho lwe'Remote debugging' kwisixhobo esikude. Ngokuninzi, bona i ">
 <!ENTITY remoteDocumentation "Ulwenziwo lwamaxwebhu">
 <!ENTITY remoteHelpSuffix ".">
 
