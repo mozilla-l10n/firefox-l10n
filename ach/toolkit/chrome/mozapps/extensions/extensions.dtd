@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Cano…">
-
+<!ENTITY listEmpty.installed.label            "Pe itye ki med-ikome ma kit man ma kiketo">
 <!ENTITY listEmpty.availableUpdates.label     "Ngec manyen pe ononge">
-
+<!ENTITY listEmpty.recentUpdates.label        "Pwod pe i keto ngec manyen i med-ikome cokki">
 <!ENTITY listEmpty.findUpdates.label          "Rot pi ngec manyen">
 <!ENTITY listEmpty.search.label               "Pe onongo romo nongo med-ikome marwate">
 <!ENTITY listEmpty.button.label               "Nong ngec mapol ikom med-ikome">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Kwany woko">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
 <!ENTITY cmd.showPreferencesWin.label         "Gin ayera">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Lok gin ayera me med-ikome man">
 <!ENTITY cmd.showPreferencesUnix.label        "Gin ma imito">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Lok ma imaro me med-ikome man">
 <!ENTITY cmd.contribute.label                 "Jogi">
 <!ENTITY cmd.contribute.accesskey             "J">
 <!ENTITY cmd.contribute.tooltip               "Mi bot pi yubo med-ikome man">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Ngo ma med-ikome obedo?">
 <!ENTITY discover.description2                "Med-ikome obedo purugram ma weko i yiko imiti ni &brandShortName; kwedetic mogo madwong onyo kit. Tem gintic ma inget me gwoko cawa, lami ngec me kot, onyo poro lok me weko &brandShortName; bed megi.">
-
+<!ENTITY discover.footer                      "Ka ikube i intanet, dirica man bi nyutu med-ikome mogo ma beco loyo dok ngen tutwal pi yin me temo gi.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Kite">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Ngec manyen mapire kene">
 <!ENTITY detail.updateDefault.label           "En matye">
-
+<!ENTITY detail.updateDefault.tooltip         "Ket ngec manyen pire kene keken kace meno aye mapire kene">
 <!ENTITY detail.updateAutomatic.label         "Cwiny">
 <!ENTITY detail.updateAutomatic.tooltip       "Ket ngec manyen pire kene">
 <!ENTITY detail.updateManual.label            "Neki">
-
+<!ENTITY detail.updateManual.tooltip          "Pe i ket ngec manyen pire kene">
 <!ENTITY detail.home                          "Pot buk me acaki">
 <!ENTITY detail.repository                    "Profile me med-ikome">
 <!ENTITY detail.size                          "Dite">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Rot pi ngec manyen pi med-ikome man">
 <!ENTITY detail.showPreferencesWin.label      "Gin ayera">
 <!ENTITY detail.showPreferencesWin.accesskey  "G">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Lok gin ayera me med-ikome man">
 <!ENTITY detail.showPreferencesUnix.label     "Gin ma imito">
 <!ENTITY detail.showPreferencesUnix.accesskey "G">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Lok ma imaro me med-ikome man">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Man ngo? Pimo tic romo keto ki timo kwed kare ki kare.">
 <!ENTITY experiment.info.learnmore "Nong ngec Mapol">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Ter me Pimo tic">

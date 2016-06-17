@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Lapok tic pe onoge">
-
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Ngi anonge pi coc mogo ma pe ki coyo maber calo <strong>ww</strong>.example.com me kaka <strong>www</strong>.example.com</li> <li>Ka pe i romo cano pot buk mo keken, ngi kakube me komputa ni Kube.</li> <li>Kace komputa onyo kakube me komputa ni ki gwoko ki lagwok komputa onyo latic pi lawote, nen ni meno &brandShortName; tye ki rukuca me donyo i Kakube.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Pwal pe ononge">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ngi nying pwail pi nukta madongo onyo coc mogo ma pe kicoyo maber.</li> <li>Ngi me neno kace pwaile kikobo woko, kicako nyinge manyen onyo kijwayo woko.</li> </ul>">
@@ -27,15 +27,16 @@
 
 
 <!ENTITY generic.title "Ayi.">
+<!ENTITY generic.longDesc "<p>&brandShortName; pe twero cano pot buk man pi tyen lok mo.</p>">
 
-
-
+<!ENTITY malformedURI.title "Kanonge pe tye atir">
+<!ENTITY malformedURI.longDesc "<ul> <li>Kanonge me kakube pol kare kicoyo gi calo <strong>http://www.example.com/</strong></li> <li>Myero inen ni itye katic ki lapok me anyim (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Kibalo kube woko">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Gin acoya Kare ne okato woko">
-
+<!ENTITY notCached.longDesc "<p>Gin acoya ma ikwayo pire ni pe nonge kama &brandShortName; ogwoko iye.</p><ul><li>Me gwoke ki i peko, &brandShortName; pe nwoyo kwayo pire kene gin acoyo ma pi gi lit.</li><li>Dii Tem Doki wek i nwo kwayo gin acoya ki i kakube.</li></ul>">
 
 <!ENTITY netOffline.title "Pe okube iyamo">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Dii &quot;Tem Doki&quot; wek i loke ikube i yamo kadong i nwo cano pot buke.</li> </ul>">
@@ -52,6 +53,7 @@
 <!ENTITY netTimeout.title "Kare me kube otum woko">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Pe ki niang kanonge">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Mogo romo mite ni i ket purugram mukene wek oyab kanonge man.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Lapok tic pi lawote pe tye ka ye kube">
@@ -60,6 +62,7 @@
 <!ENTITY proxyResolveFailure.title "Pe romo nongo lapok tic pi lawote">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Ngi ter pa latic pi lawote wek i nen ni meno gi tye kakare.</li> <li>Ngi wek i nen ni meno komputa ni tye ki kakube ma tiyo.</li> <li>Ka ce komputa onyo kakube me koputa ni kigwoko ki lagwok komputa onyo latic pi lawote, nen ni meno &brandShortName; tye ki rukuca me donyo i Kakube.</li> </ul>">
 
+<!ENTITY redirectLoop.title "Pot buk pe tye ka cwalo kwac ka mukene kakare">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Peko man kare mukene bino pi juko onyo kwero ye angija.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Lagam ma pe kibedo ka kuro ki bot lapok tic">
@@ -71,6 +74,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY sharedLongDesc "<ul> <li>Kakube romo bedo ni pe nonge pi tutunu onyo tic odiyo. Tem doki inge karemanok.</li> <li>Ka pe iromo cano pot buk mo keken, ngi kakube me komputa mamegi.</li> <li>Ka ce komputa onyo kakube ni kigengo ki lagwok komputa onyo latic pi lawote, nen ni meno &brandShortName; tye ki rukuca me donyo i Kakube.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Kigengo ki Cik me Gwoko ber-bedo pa jami matye iye">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ogengo woko pot buk man me canne i yo man pien pot buk ke tye ki cik me jami matye iye mape ye en.</p>">

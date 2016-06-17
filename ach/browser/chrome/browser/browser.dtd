@@ -690,7 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Kube ni ki kakube man pe tye i mung. Jo mukene twero neno ngec ma i cwalo (calo mung me donyo, kwena, ka me wil, ki mukene).">
 <!ENTITY identity.description.insecureLoginForms "Ngec me donyo iye ma i keto i pot buk man pe ki ber bedo kadong ki romo libo ne.">
 <!ENTITY identity.description.weakCipher "Kube ni ki kakube man tiyo ki loko ngec i kod ma goro ki peke i mung.">
-
+<!ENTITY identity.description.weakCipher2 "Jo mukene twero neno ngec mamegi onyo loko time pa kakube.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ogengo but potbuk man ma pe tye ki ber bedo.">
 <!ENTITY identity.description.passiveLoaded "Kube mamegi pe tye ki ber bedo kadong jo mukene twero neno ngec ma i nywako ki kakube ne.">
 <!ENTITY identity.description.passiveLoaded2 "Kakube man tye ki jami mogo ma pe tye ki ber bedo (calo cal).">
