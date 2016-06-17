@@ -5,6 +5,7 @@
 <!ENTITY window.width                                   "32em">
 
 <!ENTITY languages.customize.Header                     "Γλώσσες">
+<!ENTITY languages.customize.description                "Ορισμένες φορές, οι σελίδες προσφέρονται σε παραπάνω από μια γλώσσες. Επιλογή γλωσσών εμφάνισης αυτών των σελίδων, με σειρά προτίμησης:">
 <!ENTITY languages.customize.moveUp.label               "Μετακίνηση πάνω">
 <!ENTITY languages.customize.moveUp.accesskey           "π">
 <!ENTITY languages.customize.moveDown.label             "Μετακίνηση κάτω">
