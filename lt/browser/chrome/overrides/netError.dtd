@@ -111,7 +111,7 @@ was trying to connect. -->
      please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Nesaugus ryšys">
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ši svetainė „HTTP Strict Transport Security“ (HSTS) pagalba nurodė, kad „&brandShortName;“ prie jos jungtųsi tik saugiu ryšiu. Dėl to šiam liudijimui negalima sukurti išimties.">
 <!ENTITY certerror.copyToClipboard.label "Kopijuoti tekstą į iškarpinę">
 
 <!ENTITY inadequateSecurityError.title "Jūsų ryšys nėra saugus">
