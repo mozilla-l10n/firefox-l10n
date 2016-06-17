@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "ক্লিক করুন">
-
+<!ENTITY canvasDebuggerUI.emptyNotice2    "অ্যানিমেশন ফ্রেমের কল স্ট্যাক রেকর্ড করার বোতাম।">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 
