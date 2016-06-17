@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "బటన్‌పై నొక్కి">
-
+<!ENTITY canvasDebuggerUI.emptyNotice2    "ఏనిమేషన్ ఫ్రేమ్ కాల్ స్టాక్ రికార్డ్ చేయుము.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 
