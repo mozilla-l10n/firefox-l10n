@@ -87,6 +87,7 @@
 <!ENTITY cspBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
 <!ENTITY cspBlocked.longDesc "<p>Brskalnik je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine strani.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Napaka zaradi pokvarjene vsebine">
 
 <!ENTITY remoteXUL.title "Oddaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul></p>">
