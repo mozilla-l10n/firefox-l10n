@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Oturumu kurtar">
+<!ENTITY restorepage.tabtitle       "Oturumu Geri Getir">
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
@@ -12,12 +12,12 @@
 <!ENTITY restorepage.restoreSome    "Soruna neden olduğunu düşündüğünüz bir veya daha fazla sekmeyi kaldırmak">
 <!ENTITY restorepage.startNew       "Tamamen yeni bir tarama oturumu başlatmak">
 
-<!ENTITY restorepage.tryagainButton "Kurtar">
+<!ENTITY restorepage.tryagainButton "Geri getir">
 <!ENTITY restorepage.restore.access "K">
 <!ENTITY restorepage.closeButton    "Kapat">
 <!ENTITY restorepage.close.access   "a">
 
-<!ENTITY restorepage.restoreHeader  "Kurtar">
+<!ENTITY restorepage.restoreHeader  "Geri getir">
 <!ENTITY restorepage.listHeader     "Pencereler ve sekmeler">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "&#037;S. pencere">
