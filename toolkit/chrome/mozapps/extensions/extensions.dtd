@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "កំពុង​ផ្ទុក…">
-
+<!ENTITY listEmpty.installed.label            "អ្នក​មិន​មាន​កម្មវិធី​បន្ថែម​ប្រភេទ​ណាមួយ​ដែល​ត្រូវ​បាន​ដំឡើង​ទេ">
 <!ENTITY listEmpty.availableUpdates.label     "រក​មិន​ឃើញ​បច្ចុប្បន្នភាព">
-
+<!ENTITY listEmpty.recentUpdates.label        "បច្ចុប្បន្ន​នេះ អ្នក​មិន​បាន​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​បន្ថែម​ទេ">
 <!ENTITY listEmpty.findUpdates.label          "រកមើល​បច្ចុប្បន្នភាព">
 <!ENTITY listEmpty.search.label               "មិន​អាច​រក​ឃើញ​កម្មវិធី​បន្ថែម​ណាមួយ​ដែល​ផ្គូផ្គង​គ្នា​ទេ">
 <!ENTITY listEmpty.button.label               "សិក្សា​បន្ថែម​អំពី​កម្មវិធី​បន្ថែម">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "យកចេញ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "ជម្រើស">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "ផ្លាស់ប្ដូរ​ជម្រើស​របស់​កម្មវិធី​បន្ថែម​នេះ">
 <!ENTITY cmd.showPreferencesUnix.label        "ចំណូលចិត្ត">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "ផ្លាស់ប្ដូរ​ចំណូលចិត្ត​របស់​កម្មវិធី​បន្ថែម​នេះ">
 <!ENTITY cmd.contribute.label                 "រួមចំណែក">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "ចូលរួម​ក្នុង​ការ​អភិវឌ្ឍ​កម្មវិធី​បន្ថែម​នេះ">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "តើ​អ្វី​ជា​កម្មវិធី​បន្ថែម ?">
 <!ENTITY discover.description2                "កម្មវិធី​បន្ថែម គឺជា​កម្មវិធី​ដែល​អនុញ្ញាត​ឲ្យ​អ្នក​ផ្លាស់ប្ដូរ &brandShortName; ដែល​មាន​ មុខងារ ឬ​រចនាប័ទ្ម​ផ្សេងៗ​ទៀត​តាម​តម្រូវការ​ ។ សាកល្បង​ប្រើ​របារ​ចំហៀង​សន្សំ​ពេលវេលា កម្មវិធី​ជូនដំណឹង​អំពី​អាកាសធាតុ ឬ​រូបរាង​ស្បែក​ដើម្បី​ធ្វើឲ្យ &brandShortName; មាន​លក្ខណៈ​ជា​​របស់​អ្នក​ផ្ទាល់ ។">
-
+<!ENTITY discover.footer                      "នៅ​ពេល​ដែល​អ្នក​បាន​តភ្ជាប់​ទៅ​កាន់​អ៊ីនធឺណិត បន្ទះ​នេះ​នឹង​ធ្វើឲ្យ​​ កម្មវិធី​បន្ថែម​ដ៏​ពេញ​និយម​មួយចំនួន​របស់​អ្នក​មាន​លក្ខណៈ​កាន់តែ​ពិសេស​ឡើង​សម្រាប់​​អ្នក​ព្យាយាម។">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "កំណែ">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "បច្ចុប្បន្នភាព​ស្វ័យប្រវត្តិ">
 <!ENTITY detail.updateDefault.label           "លំនាំ​ដើម">
-
+<!ENTITY detail.updateDefault.tooltip         "អាច​ដំឡើង​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ​បាន លុះត្រាតែ​វា​ជា​លំនាំដើម">
 <!ENTITY detail.updateAutomatic.label         "បើក">
 <!ENTITY detail.updateAutomatic.tooltip       "ដំឡើង​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ">
 <!ENTITY detail.updateManual.label            "បិទ">
-
+<!ENTITY detail.updateManual.tooltip          "កុំ​ដំឡើង​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ">
 <!ENTITY detail.home                          "គេហទំព័រ">
 <!ENTITY detail.repository                    "ទម្រង់​កម្មវិធី​បន្ថែម">
 <!ENTITY detail.size                          "ទំហំ">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "រកមើល​បច្ចុប្បន្នភាព​សម្រាប់​កម្មវិធី​បន្ថែម​នេះ">
 <!ENTITY detail.showPreferencesWin.label      "ជម្រើស">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "ផ្លាស់ប្ដូរ​ជម្រើស​របស់​កម្មវិធី​បន្ថែម​នេះ">
 <!ENTITY detail.showPreferencesUnix.label     "ចំណូលចិត្ត">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "ផ្លាស់ប្ដូរ​ចំណូលចិត្ត​របស់​កម្មវិធី​បន្ថែម​នេះ">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "តើ​នេះ​ជា​អ្វី? Telemetry អាច​ដំឡើង និង​ដំណើរការ​ការ​សាកល្បង​ពី​ពេល​មួយ​ទៅ​ពេល​មួយ។">
 <!ENTITY experiment.info.learnmore "សិក្សា​​បន្ថែម">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "ការ​កំណត់ Telemetry">
