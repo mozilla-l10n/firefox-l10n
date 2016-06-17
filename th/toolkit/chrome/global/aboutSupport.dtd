@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "ข้อมูลการแก้ไขปัญหา">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  หน้านี้ประกอบด้วยข้อมูลทางด้านเทคนิคที่อาจจะมีประโยชน์ต่อคุณเมื่อคุณพยายาม จะแก้ไขปัญหา หากคุณกำลังมองหาคำตอบของคำถามที่พบบ่อยที่เกี่ยวกับ &brandShortName; ให้ตรวจสอบ<a id='supportLink'>เว็บไซต์การช่วยเหลือ</a>ของเรา">
+
 <!ENTITY aboutSupport.crashes.title "ตัวรายงานข้อขัดข้อง">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
