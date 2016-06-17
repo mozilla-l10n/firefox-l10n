@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Sini atweatwe no agyina.">
 <!ENTITY error.network "Sini abɔbio no so etwa wɔ nɛtwɛk mfomso bi nti.">
-
+<!ENTITY error.decode "Sini no ntumi mbɔ efisɛ fael no asɛe.">
 <!ENTITY error.srcNotSupported "Sini fɔɔmat anaa MIME bɔbea no nni akwanya.">
 <!ENTITY error.noSource2 "Enhu sini biara a ɛwɔ fɔɔmat a edi mu ɛne MIME bɔbea.">
 <!ENTITY error.generic "Sini abɔbio no so etwa wɔ mfomso bi a yennim nti.">

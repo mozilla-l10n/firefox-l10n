@@ -49,6 +49,8 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+
+<!ENTITY rights2.webservices-a "&brandFullName; de wɛb so infɔmehyɛn som (&quot;Services&quot;) yɛ adwuma ma ɛma nyɛbea bia wɔayi ama wo sɛ fa baenari vɛɛhyen ɛma &brandShortName; wɔ aseɛ nkyerɛkyerɛmu tɛmsno. Sɛ wo mpɛsɛ wo de baako anaa dodow som anaa tɛms a ɛwɔ aseɛ no nnyɛ ngye ntom a, wobɛtumi adum yɛbea no anaa asom no.wobetumi ahu akwankyerɛ a ɛkyerɛ yɛbea bi anaa som bi">
 <!ENTITY rights2.webservices-b "aha">
 
 <!-- safe browsing points for branded builds -->
@@ -79,7 +81,7 @@
 <!ENTITY rights2.webservices-term1 "&vendorShortName; ne ne boafo, lansesefoɔ ne aboafo yɛ adwuma ma som papa.   Nanso, yɛntumi ndi agyenamu sɛ infɔmehyɛn yi yɛ papa paa. Tesɛ, Ahotew Browsen ntumi nhu saet bɔnee no.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; betumi atwe asan anaa ɔbɛsesa asom dwuma a ɔpɛ.">
 <!ENTITY rights2.webservices-term3 "Wo wɔ kwan sɛ wobetumi de &brandShortName; vɛɛhyen a ɛka ho no ayɛ asom yi ho adwuma, na wo wɔ tumi nyinaa a ehia sɛ wodebɛyɛ saa. &vendorShortName; ne ɛho tumikrataamafo wɔ kwan sɛ wɔbɛyɛ mbra ho akwanma ho adwuma wɔ wɔn asom. Wɔanyɛ saa ɛfene yi sɛ wontia mbra akwanya biara a wowɔ wɔ atumikrataa a wayɛ-fo ase a wɔfa &brandShortName; ho ɛne &brandShortName; kɔmputa kasa vɛɛhyen.">
-
+<!ENTITY rights.webservices-term4 "Wɔma asom ndwumadi no sɛ &quot;as-is.&quot; &vendorShortName;, ɛho aboafo, tumikrataamafo, ne akyekyɛwfo mpene waranti biara, sɛ ɛyɛ kyenkyenee anaa ehinta. waranti a wɔkyerɛ sɛ asomdwuma no yɛ ma wo pɛyeɛ a yetumi tɔn nyinaa ka ho. Asom no adwumadi ne ɛho nsɛnsɛm nyinaa wɔ w'afa. Mbea bi mpene sɛ yeyi anaa yetia awaranti a wɔehinta enti saa krata yi mfa wɔn ho.">
 <!ENTITY rights.webservices-term5 "Mbra anka hwee entia a, &vendorShortName;, ɛho aboafo, tumikrataamafo, ne akyekyɛwfo ndi fɔ wɔ atitiriw, asotwe, mpofrim ne esiekyiri asɛe a efri &brandShortName; ho adwumayɛ mu. Ka a ɛsɛ atua wɔ eyi mu mboro $500 (dɔla ahanum). Mbea bi mpene sɛ yeyi anaa yetia asɛe bi enti saa krata yi mfa wɔn ho.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; betumi ato ɛfene yi so mbere a ehia biara. Wontumi nsesa anaa ntwa ɛfene yi mu wɔ bere a wonni &vendorShortName; nkyerɛwapene.">
 <!ENTITY rights.webservices-term7 "Saa mbra yi hyɛ California, U.S.A mbra ase sɛ woyi wɔn mbra-bɔ-abira nhyehyɛe no frim a. Sɛ yɛbɛka sɛ mbra yi baabi ndi mu a, mbea na wɔaka no de wɔde wɔn bɛyɛ adwuma yiye ara. Sɛ mbra no asekyerɛ bi ne ne brɔfo-mu bɔ abira a, nea ɛkyerɛ wɔ brɔfo no mu na wɔde bɛyɛ adwuma.">

@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Ehu Nkaho a Wɔfa">
 <!ENTITY  found.top.label                 "Paw nkaho a wo bɛpɛ sɛ wo bɛinstɔl:">
-
+<!ENTITY  found.disabledXPinstall.label   "Woedum sɔftwɛɛ instɔlehyɛn nti wo renntumi nninstɔl ntoso yinom. Wo betumi asesa nhyehyɛe yi wɔ famu ha.">
 <!ENTITY  found.enableXPInstall.label     "Ma ho kwan ma nwɛbsaet ntumi ninstɔl sɔftwɛɛ">
 <!ENTITY  found.enableXPInstall.accesskey "k">
 
