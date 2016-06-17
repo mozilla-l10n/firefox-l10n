@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
+
+<!ENTITY unsupportedPlatform.pre                             "Maaf, &brandShortName; tidak dapat menjalankan Flash pada perangkat ini. ">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn’t suit traditions in your locale. -->
 <!ENTITY unsupportedPlatform.learnMore                       "Pelajari Lebih Lanjut…">
@@ -33,7 +35,7 @@
 <!ENTITY report.failed                                       "Pengiriman gagal.">
 <!ENTITY report.unavailable                                  "Tidak ada laporan yang tersedia.">
 <!ENTITY report.comment                                      "Tambahkan komentar (ditampilkan secara publik)">
-
+<!ENTITY report.pageURL                                      "Sertakan URL laman">
 
 <!ENTITY plugin.file                                         "Berkas">
 <!ENTITY plugin.mimeTypes                                    "Jenis MIME">

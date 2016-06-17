@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "Penyetelan &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "Selamat datang! Jika Anda belum pernah menggunakan &syncBrand.fullName.label; Anda perlu untuk membuat akun baru.">
 <!ENTITY button.createNewAccount.label "Buat Akun Baru">
 <!ENTITY button.haveAccount.label      "Saya Sudah Punya Akun">
 
 <!ENTITY setup.choicePage.title.label     "Sudah pernah menggunakan &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Saya belum pernah menggunakan &syncBrand.shortName.label; sebelumnya">
-
+<!ENTITY setup.choicePage.existing2.label "Saya sudah menggunakan &syncBrand.shortName.label; pada perangkat lainnya">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Server">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "Pasangkan Perangkat">
 <!ENTITY addDevice.showMeHow.label          "Tunjukkan Caranya.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "Perangkat saya sedang tidak di dekat saya">
 <!ENTITY pairDevice.setup.description.label  "Untuk mengaktifkan, pilih &quot;Pasangkan Perangkat&quot; pada perangkat Anda.">
 <!ENTITY addDevice.setup.enterCode.label    "Kemudian, masukkan kode ini:">
 <!ENTITY pairDevice.dialog.description.label "Untuk mengaktifkan perangkat baru Anda, pilih &quot;Setel Sync&quot; pada perangkatnya.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "Pengaya">
 <!ENTITY engine.addons.accesskey    "a">
 
+<!ENTITY choice2a.merge.main.label       "Gabungkan data perangkat ini dengan data &syncBrand.shortName.label; saya">
 <!ENTITY choice2.merge.recommended.label "Direkomendasikan:">
 <!ENTITY choice2a.client.main.label      "Ganti semua data pada perangkat ini dengan data &syncBrand.shortName.label; saya">
-
+<!ENTITY choice2a.server.main.label      "Timpa data di perangkat lain dengan data perangkat ini">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Konfirmasi">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; akan menggabungkan semua data peramban perangkat ini ke akun Sync Anda.">
 <!ENTITY confirm.client3.label         "Peringatan: Data &brandShortName; berikut pada perangkat ini akan dihapus:">
 <!ENTITY confirm.client2.moreinfo.label "Setelah itu &brandShortName; akan menyalin data &syncBrand.fullName.label; ke perangkat ini.">
 <!ENTITY confirm.server2.label         "Peringatan: Data pada perangkat berikut akan ditimpa dengan data lokal Anda saat ini:">
