@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey  "m">
 
 <!ENTITY systemIntegration.label       "Integración con el sistema">
-<!ENTITY alwaysCheckDefault.label          "Siempre verificar si &brandShortName; es el cliente de correo predeterminado al iniciar">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!ENTITY alwaysCheckDefault.label      "Siempre verificar si &brandShortName; es el cliente de correo predeterminado al iniciar">
+<!ENTITY alwaysCheckDefault.accesskey  "l">
 <!ENTITY searchIntegration.label       "Permitir que &searchIntegration.engineName; busque mensajes">
 <!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY checkDefaultsNow.label        "Verificar ahora…">
@@ -45,7 +45,7 @@
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Conocer más">
 
-<!ENTITY crashReporterSection.label      "Inforem de fallos">
+<!ENTITY crashReporterSection.label      "Informe de fallos">
 <!ENTITY crashReporterDesc.label         "&brandShortName; envía informes de fallos para ayudar a hacer que &vendorShortName; sea más estable y seguro">
 <!ENTITY enableCrashReporter.label       "Habilitar informe de fallos">
 <!ENTITY enableCrashReporter.accesskey   "H">
@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "c">
 <!ENTITY updateManual.label              "Nunca buscar actualizaciones (norecomendado: riesgo de seguridad)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Avisarme si esto deshabilitará alguno de mis complementos">
-<!ENTITY updateAutoAddonWarn.accesskey   "v">
 <!ENTITY updateHistory.label             "Mostrar historial de actualizaciones">
 <!ENTITY updateHistory.accesskey         "h">
 
@@ -77,7 +75,7 @@
 <!ENTITY showOffline.label             "Sin conexión…">
 <!ENTITY showOffline.accesskey         "S">
 
-<!ENTITY Diskspace "Espacio en disco">
+<!ENTITY Diskspace                       "Espacio en disco">
 <!ENTITY offlineCompactFolders.label     "Compactar carpetas cuando se recuperen más de">
 <!ENTITY offlineCompactFolders.accesskey "e">
 <!ENTITY offlineCompactFoldersMB.label   "MB en total">
@@ -105,5 +103,5 @@
 
 <!ENTITY manageCertificates.label "Administrar certificados">
 <!ENTITY manageCertificates.accesskey "m">
-<!ENTITY viewSecurityDevices.label      "Dispositivos de seguridad">
-<!ENTITY viewSecurityDevices.accesskey  "u">
+<!ENTITY viewSecurityDevices.label "Dispositivos de seguridad">
+<!ENTITY viewSecurityDevices.accesskey "u">
