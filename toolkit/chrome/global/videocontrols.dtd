@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Ukulayishwa kwevidiyo kumisiwe.">
 <!ENTITY error.network "Ukudlalwa kwevidiyo kumisiwe ngenxa yephutha lenethiwekhi.">
-
+<!ENTITY error.decode "Ividiyo ayikwazi ukudlalwa ngoba ifayela lonakele.">
 <!ENTITY error.srcNotSupported "Ifometi levidiyo noma ihlobo lwe-MIME ayixhasiwe.">
 <!ENTITY error.noSource2 "Ayikho ividiyo yefometi exhasiwe nohlobo lwe-MIME etholiwe.">
 <!ENTITY error.generic "Ukudlalwa kwevidiyo kumisiwe ngenxa yephutha elingaziwa.">
