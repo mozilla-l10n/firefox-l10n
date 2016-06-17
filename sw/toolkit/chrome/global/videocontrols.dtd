@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Upakiaji wa video umesitishwa.">
 <!ENTITY error.network "Kucheza tena video kumeghairiwa kwa sababu ya hitilafu ya mtandao.">
-
+<!ENTITY error.decode "Video haiwezi kuchezwa kwa sababu faili imeharibika.">
 <!ENTITY error.srcNotSupported "Fomati ya video au aina ya MIME haiauniwi.">
 <!ENTITY error.noSource2 "Hakuna video iliyo na fomati inayoauniwa na aina ya MIME imepatikana.">
 <!ENTITY error.generic "Kucheza tena video kumeghairiwa kwa sababu ya hitilafu isiyojulikana.">

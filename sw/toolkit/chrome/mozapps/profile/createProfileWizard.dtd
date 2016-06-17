@@ -7,7 +7,7 @@
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; huhifadhi maelezo kuhusu mipangilio yako na mapendeleo katika maelezo yako mafupi ya kibinafsi.">
-
+<!ENTITY profileCreationExplanation_2.text  "Kama unagawiza nakala hii ya &brandShortName; na watumiaji wengine, unaweza kutumia maelezo mafupi kuweka kila maelezo ya mtumiaji yakitengana. Kufanya hivi, kila mtumiaji anafaa kuunda maelezo yake mafupi.">
 <!ENTITY profileCreationExplanation_3.text  "Kama ni wewe pekee yako unayetumia nakala hii ya &brandShortName;, lazima uwe na maelezo mafupi moja au zaidi. Kama ungependa, unaweza kuunda maelezo yako mafupi anuwai mwenyewe kuhifadhi seti tofauti za mipangilio na mapendeleo. Kwa mfano, ungependa kuwa na maelezo mafupi kando ya biashara na matumizi ya kibinafsi.">
 <!ENTITY profileCreationExplanation_4.text  "Kuanza kuunda maelezo yako mafupi, bofya Ifuatayo.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Kuanza kuunda maelezo yako mafupi, bofya Endelea.">
