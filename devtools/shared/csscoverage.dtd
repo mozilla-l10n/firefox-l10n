@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "Bazen">
 <!ENTITY csscoverage.optimize.body2 "etiketlerini sayfanın sonuna taşıyarak ve tepedeki 'load' olayından önce ihtiyacınız olan stilleri içeren yeni bir satıriçi">
-
+<!ENTITY csscoverage.optimize.body3 "elementi oluşturarak yüklenmeyi hızlandırabilirsiniz. İhtiyacınız olan stil blokları şunlar:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 
