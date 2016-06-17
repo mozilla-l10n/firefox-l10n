@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Loowgol widewoo dartinaama.">
 <!ENTITY error.network "Tartol widewoo dartiima sabu juumre laylaytol.">
-
+<!ENTITY error.decode "Widewoo oo waawaa tareede sabu fiilde ndee ko moƴƴaani.">
 <!ENTITY error.srcNotSupported "Mbayka widewoo walla fannu MIME tammbitaaka.">
 <!ENTITY error.noSource2 "Alaa widewoo baɗɗo mbayka tammbitaaka yiytaa.">
 <!ENTITY error.generic "Tartol widewoo dartiima sabu juumre nde anndaaka.">
