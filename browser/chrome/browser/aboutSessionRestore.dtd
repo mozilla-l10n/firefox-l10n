@@ -23,6 +23,10 @@
 <!ENTITY restorepage.windowLabel    "విండో &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "వెళ్దాం పద!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "సఫలం!">
@@ -38,6 +42,9 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "మీ పొడిగింతలు మరియు ఇచ్ఛాపూర్వకమార్పులు తీసివేయబడినవి మరియు విహారిణి అమర్పులు తిరిగి వాటి అప్రమేయాలకు ఉంచబడెను. ఇది మీ సమస్యను పరిష్కరింకపోతే, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "మీరు ఇంకా ఏమి చేయగలరో తెలుసుకోండి.">

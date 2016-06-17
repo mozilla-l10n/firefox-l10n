@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "కదుల్చుట ద్వారా మీరు కొన్ని సార్లు లోడింగ్ వేగవంతం చేయవచ్చు">
 <!ENTITY csscoverage.optimize.body2 "పేజీ దిగువకు టాగ్లు మరియు కొత్త ఇన్‌లైన్ సృష్టించుట">
-
+<!ENTITY csscoverage.optimize.body3 "'load' ఘటన ముందునుండి పైనకు అవసరమైన శైలులతో కూడిన మూలకం. మీకు కావలసిన శైలి బ్లాక్స్ ఇవి:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

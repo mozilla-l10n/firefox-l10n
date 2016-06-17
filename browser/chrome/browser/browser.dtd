@@ -690,7 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "ఈ సైటుకు మీరు గుట్టుగా అనుసంధానం కావడంలేదు. మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డ్స్, మొదలగునవి).">
 <!ENTITY identity.description.insecureLoginForms "ఈ పేజీలో మీరు అందించిన లాగిన్ సమాచారం సురక్షితంకాదు మరియు రాజీపడవచ్చు.">
 <!ENTITY identity.description.weakCipher "ఈ వెబ్‌సైటుతో మీ అనుసంధానం బలహీనమైన ఎన్క్రిప్షన్‌తో వుంది మరియు గుట్టుగా లేదు.">
-
+<!ENTITY identity.description.weakCipher2 "ఇతరులు మీ సమాచారం చూడగలరు లేదా వెబ్‌సైట్ పనితీరుని మార్చగలరు.">
 <!ENTITY identity.description.activeBlocked "సురక్షితంకాని భాగాలను &brandShortName; ఈ పేజీలో నిరోధించినది.">
 <!ENTITY identity.description.passiveLoaded "ఈ సైటుకు మీరు గుట్టుగా అనుసంధానం కావడం మరియు మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు.">
 <!ENTITY identity.description.passiveLoaded2 "ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్ కలిగివుంది (చిత్రాలు వంటివి).">

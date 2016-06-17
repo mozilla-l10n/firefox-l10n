@@ -31,7 +31,7 @@
 
 <!ENTITY report.unavailable                                  "ఏ నివేదిక అందుబాటులో లేదు.">
 <!ENTITY report.comment                                      "వ్యాఖ్యను చేర్చండి (వ్యాఖ్యలు అందరికీ కనిపిస్తాయి)">
-
+<!ENTITY report.pageURL                                      "పేజీ చిరునామాను చేర్చు">
 
 <!ENTITY plugin.file                                         "దస్త్రం">
 <!ENTITY plugin.mimeTypes                                    "MIME రకాలు">

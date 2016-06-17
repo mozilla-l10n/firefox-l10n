@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "ఇతరాలు">
 <!ENTITY runtimePanel_installsimulator "సిమ్యులేటర్ సంస్థాపించు">
 <!ENTITY runtimePanel_noadbhelper "ADB సహాయకి సంస్థాపించు">
-
+<!ENTITY runtimePanel_nousbdevice "మీ పరికరం చూడలేక పోతున్నారా?">
 
 <!-- Lense -->
 

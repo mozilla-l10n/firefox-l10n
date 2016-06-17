@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "సేవిక కనబడలేదు">
-
+<!ENTITY dnsNotFound.longDesc "<ul> <li>చిరునామాలో <strong>www</strong>.example.com బదులుగా <strong>ww</strong>.example.com టైపు చేయడంలాంటివి</li> తప్పులు ఉన్నాయేమో పరిశీలించుము. <li>మీరు ఏపేజీలను లోడు చేయలేకపోతే, మీ కంప్యూటర్ నెట్వర్క్ అనుసంధానంను సరిచూసుకోండి.</li> <li>మీ కంప్యూటర్ లేక నెట్వర్క్ గాని  ఫైర్వాల్  చేత రక్షించబడుతుంటే, ఖచ్చితంగా &brandShortName; వెబ్ వాడుకొనే అనుమతి  వుండునట్లు చూసుకోండి.</li> </ul>">
 
 <!ENTITY fileNotFound.title "ఫైల్  కనబడ లేదు">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ఫైల్  యొక్క కేపిటలైజేషన్ లేదా ఇతర టైపింగ్ తప్పును పరిశీలించండి.</li> <li>ఒకవేళ ఫైల్  కదల్చబడిందో,పునఃనామకరణ చేయబడిందో లేక తొలిగించబడిందో  పరిశీలించి చూడండి.</li> </ul>">
@@ -27,15 +27,16 @@
 
 
 <!ENTITY generic.title "అయ్యో.">
+<!ENTITY generic.longDesc "<p>&brandShortName;ఏదోఒక కారణం వలన ఈ పేజీని లోడు చేయలేకపోతోంది.</p>">
 
-
-
+<!ENTITY malformedURI.title "ఈ చిరునామా సరైనది కాదు">
+<!ENTITY malformedURI.longDesc "<ul> <li>సాధారణంగా వెబ్ చిరునామాలను ఇలావ్రాస్తారు <strong>http://www.example.com/</strong></li> <li>మీరు ఫార్వార్డు స్లాషెస్‌ను ఖచ్చితంగా వుపయోగించునట్లు చేయండి (అది <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "అనుసంధానంకు  భంగంకలిగింది">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "పత్రము గడువుతీరినది">
-
+<!ENTITY notCached.longDesc "<p>అభ్యర్దించిన పత్రము &brandShortName; యొక్క క్యాచీనందు అందుబాటులో లేదు.</p><ul><li> భద్రత కొరకు ముందస్తుజాగ్రత్తగా, &brandShortName; అనునది సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.</li><li>వెబ్‌సైట్ నుండి పత్రమును తిరిగి-అభ్యర్ధించుటకు మరలా ప్రయత్నించు నొక్కుము.</li></ul>">
 
 <!ENTITY netOffline.title "ఆఫ్‌లైన్ రీతి">
 <!ENTITY netOffline.longDesc2 "<ul> <li>ఆన్‌లైన్ రీతినకు మారి పేజీను తిరిగి లోడ్ చేయుటకు  &quot;మరలా ప్రయత్నించు&quot; వత్తుము.</li> </ul>">
@@ -52,6 +53,7 @@
 <!ENTITY netTimeout.title "అనుసంధానం సమయం అయిపోయింది.">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "ఆ చిరునామా అర్థం కాలేదు">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>ఈచిరునామాను తెరువుటకు మీరు వేరే సాఫ్టువేరును స్థాపించుకోవలిసిన అవసరం ఉండవచ్చు.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "ఆప్రోక్సీ సేవిక అనుసంధానాలను తిరస్కరిస్తోంది.">
@@ -60,6 +62,7 @@
 <!ENTITY proxyResolveFailure.title "ప్రోక్సీ సేవికను కనుగొనలేక పోయింది.">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>ప్రోక్సీ అమరికలు ఖచ్చితంగా సరైనవిగా ఉండునట్లు చేయుటకు పరిశీలించండి.</li> <li>మీ కంప్యూటర్ ఖచ్చితంగా పనిచేస్తున్న నెట్వర్క్  అనుసంధానం కలిగివుండునట్లు చేయుటకు పరిశీలించండి.</li> <li>మీ కంప్యూటర్గాని లేక నెట్వర్క్ గాని  ఫైర్‌వాల్ లేక ప్రోక్సీ చేత రక్షించబడుతుంటే, ఖచ్చితంగా  &brandShortName; వెబ్ వాడుకొనే అనుమతి  వుండునట్లు చూసుకోండి.</li> </ul>">
 
+<!ENTITY redirectLoop.title "పేజీ సరిగా తిరిగిపంప బడుటలేదు">
 <!ENTITY redirectLoop.longDesc "<ul> <li>ఈ సమస్య కు కారణం కొన్ని సమయాల్లో కుకీలఆమోదింపును అచేతనం చేయుటంకాని లేక తిరస్కరించుటకాని కావచ్చు.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "సేవికనుండి అనుకోని స్పందన">
@@ -71,6 +74,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY sharedLongDesc "<ul> <li>సైటు తాత్కాలికంగా అందుబాటులో  వుండివుండకపోవచ్చు  లేదా  వత్తిడిలో వుండివుండవచ్చు. కాసేపు ఆగి ప్రయత్నించండి.</li> <li>మీరు ఏ పేజీలను లోడు చేయలేక పోతుంటే, మీ కంప్యూటర్ యొక్క నెట్వర్క్  అనుసంధానంను సరిచూసుకోండి.</li> <li>మీరు కంప్యూటర్గాని లేక నెట్వర్క్ గాని  ఫైర్‌వాల్ లేక ప్రోక్సీ  చేత రక్షించబడుతుంటే, ఖచ్చితంగా  &brandShortName; వెబ్ వాడుకొనే అనుమతి  ఉండునట్లు చూసుకోండి.</li> </ul>">
 
 <!ENTITY cspBlocked.title "కాంటెంట్ రక్షణ విధానము చేత నిలిపివేయబడెను">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; యీ పేజీను యీ మార్గములో లోడగుటనుండి నిరోధిస్తోంది యెంచేతంటే యీ పేజీ కాంటెంట్ రక్షణ విధానమును కలిగివుంది అది దీనిని అనుమతించుటలేదు.</p>">
