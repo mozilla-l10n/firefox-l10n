@@ -30,7 +30,7 @@
 <!ENTITY archiveInOtherFolder.label "altra:">
 <!ENTITY archiveInOtherFolder.accesskey "a">
 <!ENTITY specialFolders.label "Bozze e modelli">
-<!ENTITY keepDrafts.label "Conserva le bozze dei messaggi in:">
+<!ENTITY keepDrafts2.label "Mantenere le bozze in:">
 <!ENTITY draftsFolderOn.label "cartella &quot;Bozze&quot; su:">
 <!ENTITY draftsFolderOn.accesskey "B">
 <!ENTITY draftInOtherFolder.label "altra:">
