@@ -32,9 +32,11 @@
 <!ENTITY firstrun_readerview_title "Cikkek">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Elég a zsúfoltságból">
-
+<!ENTITY firstrun_readerview_subtext "Használja az Olvasó nézetet, hogy olvashatóbbak legyenek a cikkek \u2014 akár kapcsolat nélkül is.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!ENTITY firstrun_account_title "Ön">
+<!ENTITY firstrun_account_message "Van &brandShortName; telepítve más eszközén is?">
 
 <!ENTITY  onboard_start_restricted1 "Maradjon biztonságban, tartsa magánál az irányítást a &brandShortName; ezen egyszerű változatával.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -79,7 +81,7 @@
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-
+<!ENTITY bookmark_folder_one_item "1 elem">
 
 <!ENTITY reader_saved_offline "Kapcsolat nélkül mentve">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -308,6 +310,7 @@
      Clicking the action will jump to the notification settings of the app. -->
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Olvasás most">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -557,6 +560,7 @@ size. -->
 <!ENTITY home_synced_devices_smartfolder "Szinkronizált eszközök">
 <!ENTITY home_synced_devices_number "&formatD; készülék">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 eszköz">
 <!ENTITY home_history_back_to2 "Vissza minden előzményhez">
 <!ENTITY home_clear_history_button "Böngészési előzmények törlése">
 <!ENTITY home_clear_history_confirm "Biztosan törölni kívánja az előzményeket?">
@@ -797,6 +801,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_message "Találja meg az olvasónézet elemeit a könyvjelzőknél, kapcsolat nélkül is.">
 
 
-
-
+<!ENTITY helper_triple_readerview_open_title "Elérhető kapcsolat nélkül">
+<!ENTITY helper_triple_readerview_open_message "Könyvjelzőzze az Olvasó nézet lapjait, hogy kapcsolat nélkül is el tudja olvasni.">
+<!ENTITY helper_triple_readerview_open_button "Hozzáadás a könyvjelzőkhöz">
 
