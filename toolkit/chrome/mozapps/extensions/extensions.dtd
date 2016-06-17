@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Kuyalayishwa…">
-
+<!ENTITY listEmpty.installed.label            "Akunazo izongezelelo zolu didi ezifakelweyo">
 <!ENTITY listEmpty.availableUpdates.label     "Akukho zihlaziyi zifumanekayo">
-
+<!ENTITY listEmpty.recentUpdates.label        "Akuhlaziyanga naziphi na izongezelelo kutshanje">
 <!ENTITY listEmpty.findUpdates.label          "Khangela iZihlaziyi">
 <!ENTITY listEmpty.search.label               "Ayifumani naziphi na izongezelelo ezihambelanayo">
 <!ENTITY listEmpty.button.label               "Funda ngokungaphezulu ngezongezelelo">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Susa">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
 <!ENTITY cmd.showPreferencesWin.label         "Ekunokukhethwa kuko">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Tshintsha okunokukhethwa kuko kwesongezelelo">
 <!ENTITY cmd.showPreferencesUnix.label        "Iipriferensi">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Tshintsha iipriferensi zesongezelelo">
 <!ENTITY cmd.contribute.label                 "Yenza igalelo">
 <!ENTITY cmd.contribute.accesskey             "Y">
 <!ENTITY cmd.contribute.tooltip               "Yenza igalelo kuphuhliso lwesi songezelelo">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Yintoni izongezelelo?">
 <!ENTITY discover.description2                "Izongezelelo ziiaplikheshini ezenza ukwazi ukufaka iinkcukacha zakho ze-&brandShortName; ngokusebenza okanye isimbo esithe kratya. Zama ibha yasecaleni engachithi xesha, isazisi semozulu okanye inkangeleko enomxholo ukwenza i-&brandShortName; ibe yeyakho.">
-
+<!ENTITY discover.footer                      "Xa ukwi-intanethi, le pheyini iya kubonakalisa izongezelelo ezingcono nezibalulekileyo ukuba ulinge zona.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Uguqulelo">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "IZihlaziyi ezizenzekelayo">
 <!ENTITY detail.updateDefault.label           "Isiseko">
-
+<!ENTITY detail.updateDefault.tooltip         "Fakela uhlaziyo ngokuzenzekela kuphela ukuba oko kusisiseko">
 <!ENTITY detail.updateAutomatic.label         "Ivulile">
 <!ENTITY detail.updateAutomatic.tooltip       "Fakela uhlaziyo ngokuzenzekela">
 <!ENTITY detail.updateManual.label            "Icimile">
-
+<!ENTITY detail.updateManual.tooltip          "Ungalufakeli uhlaziyo ngokuzenzekelayo">
 <!ENTITY detail.home                          "Ikhasi lasekhaya">
 <!ENTITY detail.repository                    "Iprofayile yesongezelelo">
 <!ENTITY detail.size                          "Ubungakanani">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Khangela uhlaziyo lwesi songezelelo">
 <!ENTITY detail.showPreferencesWin.label      "Ekunokukhethwa kuko">
 <!ENTITY detail.showPreferencesWin.accesskey  "E">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Tshintsha okunokukhethwa kuko kwesongezelelo">
 <!ENTITY detail.showPreferencesUnix.label     "Izikhethwa">
 <!ENTITY detail.showPreferencesUnix.accesskey "I">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Tshintsha iipriferensi zesongezelelo">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Yintoni le? Ithelemetri isenokufakela ize ihambise imiboniso amaxesha ngamaxesha.">
 <!ENTITY experiment.info.learnmore "Funda ngaphezulu">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Iisethingi zethelemetri">

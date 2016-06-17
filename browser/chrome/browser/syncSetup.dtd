@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "Useto &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "Wamkelekile! Ukuba awuzange uyisebenzise &syncBrand.fullName.label; ngaphambili, kuya kudingeka ukuba uyile iakhawunti entsha.">
 <!ENTITY button.createNewAccount.label "Yila iAkhawunti eNtsha">
 <!ENTITY button.haveAccount.label      "Ndinayo iAkhawunti">
 
 <!ENTITY setup.choicePage.title.label     "Ingaba wakha wayisebenzisa &syncBrand.fullName.label; ngaphambili?">
-
-
+<!ENTITY setup.choicePage.new.label       "Andizange ndayisebenzisa &syncBrand.shortName.label; ngaphambili">
+<!ENTITY setup.choicePage.existing2.label "Sele ndiyisebenzisa &syncBrand.shortName.label; kwesinye isixhobo">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Iseva">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "Hambisa ngambini iSixhobo">
 <!ENTITY addDevice.showMeHow.label          "Ndibonise ukuba kanjani na.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "Andinaso isixhobo kum">
 <!ENTITY pairDevice.setup.description.label  "Ukuvuselela, khetha &quot;Hambisa ngambini isixhobo&quot; kwesinye isixhobo sakho.">
 <!ENTITY addDevice.setup.enterCode.label    "Emva koko, ngenisa le khowudi:">
 <!ENTITY pairDevice.dialog.description.label "Ukuvuselela isixhobo sakho esitsha, khetha &quot;Seta uNgqamaniso&quot; kwisixhobo.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "Izongezelelo">
 <!ENTITY engine.addons.accesskey    "z">
 
+<!ENTITY choice2a.merge.main.label       "Dibanisa le ngcombolo yesixhobo kunye nengcombolo yam &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Okucetyisiweyo:">
 <!ENTITY choice2a.client.main.label      "Buyisela yonke ingcombolo ekwesi sixhobo kunye nengcombolo yam &syncBrand.shortName.label;">
-
+<!ENTITY choice2a.server.main.label      "Buyisela zonke ezinye izixhobo kunye nengcombolo yesi sixhobo">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Qinisekisa">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ngoku iya kudibanisa yonke ingcombolo yebhrawuza yesi sixhobo ibe kwiakhawunti yakho yoNgqamaniso.">
 <!ENTITY confirm.client3.label         "Isilumkiso: Ingcombolo ye-&brandShortName; elandelayo kwesi sixhobo   iya kucinywa:">
 <!ENTITY confirm.client2.moreinfo.label "I-&brandShortName; iya kuthi iyikopele kwesi sixhobo ingcombolo ye-&syncBrand.fullName.label; yakho.">
 <!ENTITY confirm.server2.label         "Isilumkiso: Izixhobo ezilandelayo ziya kucinywa yingcombolo yakho yalapha:">
