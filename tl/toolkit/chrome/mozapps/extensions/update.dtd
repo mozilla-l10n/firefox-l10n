@@ -16,7 +16,7 @@
 
 <!ENTITY  found.wizard.title               "Nahanap ang mga Compatible na Add-on">
 <!ENTITY  found.top.label                 "Piliin ang add-ons na gusto mong iinstall:">
-
+<!ENTITY  found.disabledXPinstall.label   "Ang mga update na ito ay hindi maaaring i-install dahil ang software na-install ay kasalukuyang hindi pinagana. Maaari mong baguhin ang setting na ito sa ibaba.">
 <!ENTITY  found.enableXPInstall.label     "Allow web sites to install software">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
