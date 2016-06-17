@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "വേറെ">
 <!ENTITY runtimePanel_installsimulator "സിമുലേറ്റര്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
 <!ENTITY runtimePanel_noadbhelper "എഡിബി സഹായി ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
-
+<!ENTITY runtimePanel_nousbdevice "നിങ്ങളുടെ ഡിവൈസ് കാണുന്നില്ലേ?">
 
 <!-- Lense -->
 

@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "ട്രബിള്‍ഷൂട്ടിങിനുള്ള വിവരം">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
+
 <!ENTITY aboutSupport.crashes.title "തകരാര്‍ രേഖപ്പെടുത്തുന്ന റിപോര്‍ട്ടുകള്‍">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->

@@ -13,8 +13,8 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "മൈക്രോസോഫ്റ്റ്‍ എഡ്ജ്">
 <!ENTITY importFromEdge.accesskey       "E">
-
-
+<!ENTITY importFromNothing.label        "ഒന്നും import ചെയ്യരുത്‌">
+<!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "സഫാരി">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromCanary.label         "ക്രോം കാനറി">
