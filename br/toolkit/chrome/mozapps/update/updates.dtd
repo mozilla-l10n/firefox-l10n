@@ -55,7 +55,7 @@
 <!ENTITY  finishedBackground.name         "Hizivaat :">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Staliet e vo an hizivadur ar wech a zeu ma vo loc'het &brandShortName;. Gallout a rit adloc'hañ &brandShortName; bremañ, pe genderc'hel gant ho labour.">
-
+<!ENTITY  finishedBackground.moreElevated "Aotreoù ardead a zo azgoulennet gant an hizivadenn. Staliet eo vo ar wech a zeu ma vo loc'het &brandShortName;. Gallout a rit adloc'hañ &brandShortName; diouzhtu, kenderc'hel da labourat hag adloc'hañ diwezhatoc'h pe nac'hañ an hizivadenn.">
 
 <!ENTITY  update.details.label            "Munudoù">
 <!ENTITY  update.installedOn.label        "staliet war :">

@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Kavet ez eus bet askouezhioù keverlec'h">
 <!ENTITY  found.top.label                 "Diuz an askouezhioù a fell deoc'h staliañ :">
-
+<!ENTITY  found.disabledXPinstall.label   "N'hall ket an hizivadurioù-mañ bezañ staliet dre m'eo diweredekaet ar staliañ meziantoù evit ar mare. Posupl eo deoc'h cheñch an arventenn-mañ amañ-dindan.">
 <!ENTITY  found.enableXPInstall.label     "Aotren lec'hiennoù da staliañ meziantoù">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
