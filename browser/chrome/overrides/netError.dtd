@@ -165,6 +165,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue de esta forma porque tiene una política de seguridad que la deshabilita.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contenido corrupto">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La página que está tratando de ver no puede mostrarse porque se detectó un error en la transmisión de los datos.</p><ul><li>Contacte a los dueños del sitio web para informarles de este problema.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción">
@@ -190,6 +191,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>No es posible una conexión segura a <span id='wrongSystemTime_URL'/> porque el reloj parece estar mostrando la hora incorrecta.</p><p>La computadora piensa que es <span id='wrongSystemTime_systemDate'/> cuando debería ser <span id='wrongSystemTime_actualDate'/>. Para solucionar el problema, cambie la fecha y hora para que coincidan con las correctas.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conexión insegura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa HTTP
@@ -203,4 +205,5 @@ certificado.">
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnología de seguridad que es obsoleta y vulnerable a los ataques. Un atacante podría fácilmente revelar información que se piensa segura. El administrador del sitio web necesitará corregir el servidor antes de poder visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY prefReset.longDesc "Parece que la configuración de seguridad de la red puede estar causando esto. ¿Desea que se restaure la configuración predeterminada?">
 <!ENTITY prefReset.label "Restaurar configuración predeterminada">

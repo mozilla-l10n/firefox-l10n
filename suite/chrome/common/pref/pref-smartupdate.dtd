@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title               "Instalación de software">
 <!ENTITY addOnsTitle.label                    "Complementos">
@@ -23,8 +27,5 @@
 <!ENTITY appWeekly.accesskey                  "e">
 <!ENTITY appModeAutomatic.label               "Automatically download and install the update">
 <!ENTITY appModeAutomatic.accesskey           "u">
-<!ENTITY appModeAutoAddonWarn.label           "Avisarme si ésto deshabilitará algunos de mis complementos">
-<!ENTITY appModeAutoAddonWarn.accesskey       "b">
 <!ENTITY updateHistoryButton.label            "Mostrar historial de actualizaciones…">
 <!ENTITY updateHistoryButton.accesskey        "z">
-
