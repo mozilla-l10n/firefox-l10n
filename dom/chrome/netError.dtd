@@ -8,7 +8,7 @@
 
 
 <!ENTITY connectionFailure.title "E reteletswe ke go Golaganya">
-
+<!ENTITY connectionFailure.longDesc "<p>Lefa setsha se se lebega se siame, sebatli gasea kgona go bona kgolagano.</p><ul><li>Aa setsha gaseyo ka nakwana? Leka gape mogagonyana.</li><li>Gao kgone go batla mo ditsheng tsedingwe?Tlhola kgolagano ya sebaladidikadike.</li><li>Aa sebaladidikadike sa gago se sireleditswe ke mopakwana  kgotsa setshwareledi? Dithulaganyo tse eseng tsone di ka gwetlhagwetlhana le go batla ga gago mo webong.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Setshwaraganyi se Kganetswe ka Mabaka a tsa Pabalesego">
 <!ENTITY deniedPortAccess.longDesc "<p>Aterese e e kopilweng e papamaditse setshegetsi (e.g. <q>mozilla.org:80</q> for port 80 on mozilla.org) ka gale e dirisiwa go <em>other</em> gona le patol ya mo webong. Sebatli se emisitse topo go go sireletsa.</p>">
@@ -27,10 +27,10 @@
 <!ENTITY malformedURI.longDesc "<p>Aterese e o e tsentseng ga e mo moalong o o letlelesegang. Tsweetswee tlhola bara ya lefelo go ntsha diphoso ebe o leka gape.</p>">
 
 <!ENTITY netInterrupt.title "Phuduso ya tshedimosetso e kgaupeditswe">
-
+<!ENTITY netInterrupt.longDesc "<p>Sebatli se atlegile mo kgolaganong, mme kgolagano e kgaupeditswe ka nako ya phuduso ya tshedimosetso. Tsweetswee leka gape.</p><ul><li>Gao kgone go batla ditsha tse dingwe? Tlhola kgologano ya sebaladidikadike.</li><li>Ntse o tshwere bothata? Itomaganye le molaola kgolagono kgotsa moanamisa mafaratlhatlha a enthanet go go thusa.</li></ul>">
 
 <!ENTITY notCached.title "Tokumente e fetilwe ke nako">
-
+<!ENTITY notCached.longDesc "<p>Tokumente e kopilweng ga e teng mo polokotshedimosetso ya gangwe le gape ya sebatli.</p><ul><li>Ka Itiso ya pabalesego, sebatli ga se itirise go kopa gape ditokumente tsa sephiri .</li><li>Tobetsa Leka Gape go kopa gape tokumente mo webosaeteng.</li></ul>">
 
 <!ENTITY netOffline.longDesc2 "<p> Sebatli se dira ka mokgwa o sa golaganang mme ga se kake sa golagana le selwana se se kopilweng.</p><ul><li>A khomputara e golaganye le mafaratlhatlha a dirisiwang?</li><li>Tobetsa &quot;Leka Gape&quot; go fetolela mo mokgwa kgolaganong ka mafaratlhatlha a bo o tsenya sešwa tsebe.</li></ul>">
 
@@ -44,19 +44,19 @@
 <!ENTITY netReset.longDesc "<p>Kgokagano ya mafaratlhatlha e ne ya kgaopediwa fa go buisanyediwa kgolagano.Tswêê-tswêê leka gape.</p>">
 
 <!ENTITY netTimeout.title "Kgolagano e fetilwe ke nako">
-
+<!ENTITY netTimeout.longDesc "<p> Saete e kopilweng ga e a tsibogela kopo ya kgolagano mme sebatli se emisitse go letela karabo.</p><ul><li>A e ka bo e le gore sefara e itemogela topo e kwa godimo kgotsa kgaogo ya nakwana?  Leka gape moragonyana.</li><li>A ga o kgone go batla disaete tse dingwe? Tlhola kgolagano ya mafaratlhatlha a khomputara.</li><li>A khomputara ya gago kgotsa mafaratlhatlha a sireleditswe ka mopakwana kgotsa kemela?  Dithulaganyo tse di sa siamang di kgoreletsana le Patlo ya webo.</li><li>O santse o na le bothata? Ikopanye le motsamaisa mafaratlhatlha wa gago kgotsa motlamedi wa inthanete go bona thuso.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Tsamaiso e sa Itsiweng">
 <!ENTITY unknownProtocolFound.longDesc "<p>Aterese e papamatsa tsamaiso (e.g. <q>wxyz://</q>) sebatli gase e lemoge, kajalo sebatli gase kgone go golagana le setsha.</p><ul><li>Aa o leka go dirisa Mmediamentsi  kgotsa sepe se eseng mokwalo? Tlhola tse di batliwang ke setsha.</li><li>Ditsamaiso tse dingwe di ka gwetlha tiriso ya dirweboletla tsa tshereganyo kgotsa dioketswa pele ga sebatli se ka di lemoga.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Sefara ya setshwareledi e ganne kgolagano">
-
+<!ENTITY proxyConnectFailure.longDesc "<p>Sebatli se dirilwe gore se dirise sefara ya tshwarelelo, mme setshwareledi ga se bonale.</p><ul><li>Aa kgolagano ya setshwareledi sa sebatli se siame? Tlhola dipaakanyo ebe o leka gape.</li><li>Aa sebaladidikadike se goketswe mo kgolaganong e e mo tirisong?</li><li>Fa go santse gona le bothata, itomaganye le mothokomedi wa dithaeletsanyo kgotsa moanamisa enthanet go go thusa.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Sefara ya kemelo ga e a bonwa">
-
+<!ENTITY proxyResolveFailure.longDesc "<p>Sebatli se dirilwe gore se dirise sefara ya tshwarelelo, mme setshwareledi ga se bonale.</p><ul><li>Aa kgolagano ya setshwareledi sa sebatli se siame? Tlhola dipaakanyo ebe o leka gape.</li><li>Aa sebaladidikadike se goketswe mo kgolaganong e e mo tirisong?</li><li>Fa go santse gona le bothata, itomaganye le mothokomedi wa dithaeletsanyo kgotsa moanamisa enthanet go go thusa.</li></ul>">
 
 <!ENTITY redirectLoop.title "Fetisa Poapoeletso">
-
+<!ENTITY redirectLoop.longDesc "<p>Sebatli se emisitse go leka go ntsha selwana se se kopilweng. Saete e fetisetsa kopo ka tsela e ka se tlholeng e digela.</p><ul><li>A o kganetse go dira kgotsa o thibetse dikhukhi tse di lopiwang ke saete e?</li><li><em>NTLHATLALELETSO</em>: Fa o amogela gore dikhukhi tsa saete e ga di baakanye bothata, e ka tswa e le bothata jwa thulaganyo ya sefara e seng khomputara ya gago.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Phetolo e sa Siamang">
 <!ENTITY unknownSocketType.longDesc "<p>Saete e fetotse kopo ya mafaratlhatlha ka tsela e sa solofelwang mme sebatli ga se kake sa tswelela.</p>">
@@ -65,7 +65,7 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore boammaaruri jwa tshedimosetso e amogetsweng ga boa kgonwa go rurifadiwa.</p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
 
 <!ENTITY nssBadCert.title "Kgolagano e Sireletsegileng e Reteletswe ">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Se ekatswa ele bothata jwa kgola gano ya sefara, kgotsa ele mongwe yo o lekang go itira sefara.</li> <li>Fa okile wa atlega mo go ikgolaganyeng le sefara e, phoso ekatswa ele ya nakwana,kajalo o ka leka gape moragonyana.</li> </ul>">
 
 
 

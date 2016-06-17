@@ -691,7 +691,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Kgolagano ya gago mo saete eno ga e poraefete. Tshedimosetso e o e romelang e ka lebiwa ke batho ba bangwe (jaaka dikhunololamoraba, melaetsa, dikaratamolato, le tse dingwe.).">
 
 <!ENTITY identity.description.weakCipher "Kgolagano ya gago mo saete eno e dirisa mokgwatshireletso o bokoa gape ga e poraefete.">
-
+<!ENTITY identity.description.weakCipher2 "Batho bangwe ba kgona go leba tshedimosetso ya gago kgotsa go fetola tiro - tsamaiso ya webosaete.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; e kgoreleditse dikarolo tsa tsebe eno tse di sa sireletsegang.">
 <!ENTITY identity.description.passiveLoaded "Kgolagano ya gago ga e poraefete ka jalo tshedimosetso e o e abelanang le saete e ka lebiwa ke batho ba bangwe.">
 <!ENTITY identity.description.passiveLoaded2 "Webosaete eno e tshotse diteng tse di sa sireletsegang (jaaka ditshwantsho).">
