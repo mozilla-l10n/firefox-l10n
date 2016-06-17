@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "افزودنی‌های سازگاری پیدا شدند">
 <!ENTITY  found.top.label                 "افزودنی‌هایی که می‌خواهید نصب شوند را انتخاب کنید:">
-
+<!ENTITY  found.disabledXPinstall.label   "این بروزرسانی‌ها قابل نصب‌کردن نمی‌باشند زیرا نصب نرم‌افزار غیرفعال شده است. در ادامه می‌توانید این تنظیم را تغییر دهید.">
 <!ENTITY  found.enableXPInstall.label     "وب‌گاه‌ها مجاز به نصب نرم‌افزار باشند">
 <!ENTITY  found.enableXPInstall.accesskey "گ">
 
