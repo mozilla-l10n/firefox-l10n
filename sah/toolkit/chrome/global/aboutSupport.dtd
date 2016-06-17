@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Кыһалҕаны быһаарар туһунан">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "   Бу сирэйгэ техническэй информация бэриллэр, ону туһанан кыһалҕаҕын быһаарыаххын сөп. &brandShortName; програаммаҕа куруук көстөр кыһалҕаҕа хоруй ылыаххын баҕарар буоллаххына биһиги <a id='supportLink'>өйүүр ситим-сирбитигэр</a> киир. ">
+
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 
