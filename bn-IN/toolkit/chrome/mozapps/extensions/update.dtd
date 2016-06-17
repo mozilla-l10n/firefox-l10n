@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "সুসংগত অতিরিক্ত সামগ্রী সনাক্ত হয়েছে">
 <!ENTITY  found.top.label                 "ইনস্টল করার উদ্দেশ্যে অতিরিক্ত সামগ্রী নির্বাচন করুন:">
-
+<!ENTITY  found.disabledXPinstall.label   "সফ্টওয়্যার ইনস্টলেশন বর্তমানে নিষ্ক্রিয় থাকার ফলে এই আপডেটগুলি ইনস্টল করা সম্ভব হবে না। নিম্নলিখিত স্থানে এই বৈশিষ্ট্য পরিবর্তন করা যাবে।">
 <!ENTITY  found.enableXPInstall.label     "ওয়েব-সাইট দ্বারা সফ্টওয়্যার ইনস্টল করার অনুমতি প্রদান করা হবে">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 

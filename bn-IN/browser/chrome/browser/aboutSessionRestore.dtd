@@ -23,6 +23,10 @@
 <!ENTITY restorepage.windowLabel    "উইন্ডো &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "যলুন যাওয়া যাক!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "সাফল্যের সাথে সমাপ্ত!">
@@ -38,6 +42,9 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "আপনার অ্যাড-অনসমূহ এবং কাস্টমাইজেশানসমূহ সরিয়ে ফেলা হয়েছে এবং আপনার ব্রাউজারের সেটিংস আগের মত করে দেওয়া হয়েছে। এতে যদি আপনার সমস্যার সমাধান না হয়ে থাকে, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "আপনি কি কি করতে পারেন তা সম্বন্ধে আরও জানুন।">

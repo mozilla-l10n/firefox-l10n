@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "লোড করা হচ্ছে…">
-
+<!ENTITY listEmpty.installed.label            "এই ধরনের কোনো অতিরিক্ত সামগ্রী ইনস্টল করা হয়নি">
 <!ENTITY listEmpty.availableUpdates.label     "কোনো আপডেট পাওয়া যায়নি">
-
+<!ENTITY listEmpty.recentUpdates.label        "কোনো অতিরিক্ত সামগ্রী সম্প্রতি আপডেট করা হয়নি">
 <!ENTITY listEmpty.findUpdates.label          "আপডেটের উপস্থিতি পরীক্ষা করুন">
 <!ENTITY listEmpty.search.label               "কোনো সুংগত অতিরিক্ত সামগ্রী পাওয়া যায়নি">
 <!ENTITY listEmpty.button.label               "অতিরিক্ত সামগ্রী সম্বন্ধে অধিক তথ্য প্রাপ্ত করুন">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "মুছে ফেলুন">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "বিকল্প">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "চিহ্নিত অতিরিক্ত সামগ্রীর বিকল্প মান পরিবর্তন করুন">
 <!ENTITY cmd.showPreferencesUnix.label        "পছন্দ">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "চিহ্নিত অতিরিক্ত সামগ্রীর পছন্দসই মান পরিবর্তন করুন">
 <!ENTITY cmd.contribute.label                 "যোগদান করুন">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "এই অতিরিক্ত সামগ্রী নির্মাণের কাজে যোগদান করুন">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "অতিরিক্ত সামগ্রী কী?">
 
-
+<!ENTITY discover.footer                      "ইন্টারনেটের সাথে সংযোগ স্থাপন করা হলে, সর্বোত্তম ও জনপ্রিয় অতিরিক্ত সামগ্রীগুলি  আপনার পরীক্ষার জন্য এই পেইনের মধ্যে প্রদর্শন করা হবে।">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "সংস্করণ">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "স্বয়ংক্রিয় আপডেট">
 <!ENTITY detail.updateDefault.label           "ডিফল্ট">
-
+<!ENTITY detail.updateDefault.tooltip         "শুধুমাত্র ডিফল্ট মান হিসাবে চিহ্নিত হলে, স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করা হবে">
 <!ENTITY detail.updateAutomatic.label         "চালু">
 <!ENTITY detail.updateAutomatic.tooltip       "স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করুন">
 <!ENTITY detail.updateManual.label            "বন্ধ করুন">
-
+<!ENTITY detail.updateManual.tooltip          "স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করা হবে না">
 <!ENTITY detail.home                          "হোম-পেজ">
 <!ENTITY detail.repository                    "অতিরিক্ত সামগ্রীর প্রোফাইল">
 <!ENTITY detail.size                          "মাপ">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "চিহ্নিত অতিরিক্ত সামগ্রীর আপডেট পরীক্ষা করুন">
 <!ENTITY detail.showPreferencesWin.label      "বিকল্প">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "চিহ্নিত অতিরিক্ত সামগ্রীর বিকল্প মান পরিবর্তন করুন">
 <!ENTITY detail.showPreferencesUnix.label     "পছন্দ">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "চিহ্নিত অতিরিক্ত সামগ্রীর পছন্দসই মান পরিবর্তন করুন">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "এটা কি? টেলিমেট্রি সময়ে সময়ে পরীক্ষানিরীক্ষা ইনস্টল করতে পারে আর চালাতে পারে।">
 <!ENTITY experiment.info.learnmore "আরও জানুন">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "টেলিমেট্রির বৈশিষ্ট্যাবলী">

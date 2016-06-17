@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "অন্যান্য">
 <!ENTITY runtimePanel_installsimulator "সিমুলেটর ইন্সটল করুন">
 <!ENTITY runtimePanel_noadbhelper "ADB হেল্পার ইন্সটল করুন">
-
+<!ENTITY runtimePanel_nousbdevice "আপনি কি আপনার ডিভাইস দেখতে পাচ্ছেন না?">
 
 <!-- Lense -->
 

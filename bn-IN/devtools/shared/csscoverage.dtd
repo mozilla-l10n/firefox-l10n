@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "আপনি মাঝে মাঝে স্থানান্তর করেও গতি বাড়াতে পারেন">
 <!ENTITY csscoverage.optimize.body2 "পৃষ্ঠার নিচে ট্যাগ করে এবং একটি নতুন ইনলাইন তৈরি করে">
-
+<!ENTITY csscoverage.optimize.body3 "'লোড' ঘটার আগে প্রয়োজনীয় শৈলীর সঙ্গে উপাদান আবশ্যক।এখানে আপনার প্রয়োজনীয় শৈলী ব্লক দেওয়া আছে:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 
