@@ -6,10 +6,13 @@
 <!-- First page of the wizard -->
 
 
+<!ENTITY setup.pickSetupType.description2 "Amogelesega! fa o ise o dirise &syncBrand.fullName.label; pele, o tla tlhokana le go dira akhaonto e ntšha.">
+
+
 
 <!ENTITY setup.choicePage.title.label     "A o tlile wa dirisa &syncBrand.fullName.label; pele?">
-
-
+<!ENTITY setup.choicePage.new.label       "Ga ke ise ke dirise &syncBrand.shortName.label; pele">
+<!ENTITY setup.choicePage.existing2.label "Ke setse ke dirisa &syncBrand.shortName.label; mo sedirisweng se sengwe">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Dikgatlhong">
@@ -83,13 +86,14 @@
 <!ENTITY engine.addons.label        "Dioketswa">
 <!ENTITY engine.addons.accesskey    "D">
 
+<!ENTITY choice2a.merge.main.label       "Kopanya tshedimosetso ya sediriswa se le &syncBrand.shortName.label; tshedimosetso">
 
 <!ENTITY choice2a.client.main.label      "Emisetsa tshedimosetso tsotlhe mo sedirweng le &syncBrand.shortName.label; tshedimosetso">
 
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Tlhomamisa">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ga jaana e tla kopanya tsotlhe tsa sediriswa sa tshedimosetso ya sebatli mo akhaonto ya gago ya Thulaganyo ka tsamaisano.">
 
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; e tla kopolola &syncBrand.fullName.label; tshedimosetso ya gago mo sedirisweng se.">
 

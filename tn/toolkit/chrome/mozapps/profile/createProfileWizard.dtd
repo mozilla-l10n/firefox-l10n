@@ -7,7 +7,7 @@
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; e boloka tshedimosetso ka ga boalo le diratwabogolo tsa gago mo porofaeleng ya gago ya sebele.">
-
+<!ENTITY profileCreationExplanation_2.text  "Fa e le gore o arolelana khopi eno ya &brandShortName; le badirisi ba bangwe, o ka dirisa diporofaele go kgaoganya tshedimosetso ya modirisi mongwe le mongwe. Go dira seno, modirisi mongwe le mongwe o tshwanetse go itlhamela porofaele ya gagwe.">
 <!ENTITY profileCreationExplanation_3.text  "Fa e le wena fela o dirisang khopi eno ya &brandShortName;, o tshwanetse go nna le bonnye, porofaele e le nngwe fela. Fa o rata o ka itlhamela diporofaele tse dintsi go bolokela boalo le diratwabogolo tse di farologaneng. Go naya sekai, o ka batla go nna le diporofaele tse di farologaneng tsa tiriso ya kgwebo le ya sebele.">
 
 

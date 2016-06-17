@@ -46,6 +46,7 @@
 <!ENTITY helpus.getInvolvedLink     "Tsaya karolo!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Ke eng se sešha">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Tshedimosetso ya Teseletso">
