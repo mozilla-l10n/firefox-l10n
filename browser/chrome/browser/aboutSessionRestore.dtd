@@ -54,7 +54,7 @@ their language.
 <!ENTITY tabgroupsmigration.tabtitle            "เคลื่อนย้ายกลุ่มแท็บของคุณ">
 <!ENTITY tabgroupsmigration.pagetitle2          "เราได้ทำการนำกลุ่มแท็บออกแล้ว แต่ยังเก็บแท็บของคุณเอาไว้">
 <!ENTITY tabgroupsmigration.learnaboutaddons    "เรียนรู้เกี่ยวกับส่วนเสริมที่มาแทนที่กลุ่มแท็บ">
-
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; ได้ทำการคั่นหน้าเว็บของกลุ่มแท็บทั้งหมดแล้วดังนั้นคุณไม่ได้สูญเสียอะไร">
 <!ENTITY tabgroupsmigration.bookmarkbutton      "แสดงกลุ่มแท็บที่คั่นหน้าเว็บไว้">
 <!ENTITY tabgroupsmigration.restoredescription  "คุณสามารถเลือกการเรียกคืนกลุ่มแท็บเบื้องหลังบางส่วนหรือทั้งหมดเข้าไปยังหน้าต่าง">
 

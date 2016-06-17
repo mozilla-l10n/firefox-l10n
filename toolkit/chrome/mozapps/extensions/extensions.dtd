@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "กำลังโหลด…">
-
+<!ENTITY listEmpty.installed.label            "คุณไม่ได้ติดตั้งส่วนเสริมประเภทนี้ไว้">
 <!ENTITY listEmpty.availableUpdates.label     "ไม่พบการปรับรุ่น">
-
+<!ENTITY listEmpty.recentUpdates.label        "คุณไม่ได้ปรับรุ่นส่วนเสริมเมื่อเร็ว ๆ นี้">
 <!ENTITY listEmpty.findUpdates.label          "ตรวจหาการปรับรุ่น">
 <!ENTITY listEmpty.search.label               "ไม่พบส่วนเสริมที่ตรงกัน">
 <!ENTITY listEmpty.button.label               "เรียนรู้เพิ่มเติมเกี่ยวกับส่วนเสริม">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "ส่วนเสริมคืออะไร ?">
 <!ENTITY discover.description2                "ส่วนเสริมคือโปรแกรมที่ทำให้คุณปรับแต่งความสามารถพิเศษหรือรูปโฉมของ &brandShortName; ได้ ลองใช้แถบข้างที่ช่วยประหยัดเวลาใช้งาน ส่วนเสริมเตือนสภาพอากาศ หรือชุดตกแต่งเพื่อสร้าง &brandShortName; ที่เป็นของคุณเองดูสิ">
-
+<!ENTITY discover.footer                      "เมื่อคุณเชื่อมต่ออินเทอร์เน็ต ช่องนี้จะแสดงส่วนเสริมยอดเยี่ยมและส่วนเสริมยอดนิยมให้คุณลองใช้ดู">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "รุ่น">
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "นี้คืออะไร? การวัดและส่งข้อมูลทางไกลจะถูกทดลองติดตั้งและทำงานเป็นครั้งคราว">
 <!ENTITY experiment.info.learnmore "เรียนรู้เพิ่มเติม">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "ตั้งค่าการวัดและส่งข้อมูลทางไกล">

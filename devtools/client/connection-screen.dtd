@@ -23,6 +23,8 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelp "แถบเครื่องมือนักพัฒนาของ Firefox สามารถใช้ดีบักอุปกรณ์ (เช่น Firefox สำหรับแแอนดรอยด์ และ Firefox OS) ได้ พยายามให้แน่ใจว่าคุณเปิดใช้ตัวเลือก 'การดีบักระยะไกล' จากในอุปกรณ์ระยะไกลนั้น ข้อมูลเพิ่มเติม โปรดดู ">
 <!ENTITY remoteDocumentation "เอกสารอ้างอิง">
 
 
