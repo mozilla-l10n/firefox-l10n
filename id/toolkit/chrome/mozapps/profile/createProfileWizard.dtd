@@ -7,7 +7,7 @@
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; menyimpan informasi tentang pengaturan di profil pribadi Anda.">
-
+<!ENTITY profileCreationExplanation_2.text  "Apabila Anda menggunakan program &brandShortName; bersama-sama dengan pengguna lain, Anda dapat menggunakan profil untuk menjaga terpisahnya data Anda dengan pengguna lain. Caranya adalah dengan membuat profil terpisah untuk setiap pengguna.">
 <!ENTITY profileCreationExplanation_3.text  "Apabila Anda adalah satu-satunya orang yang menggunakan program &brandShortName; ini, Anda paling tidak harus membuat sebuah profil. Apabila diinginkan, Anda dapat membuat beberapa profil untuk menyimpan kelompok pengaturan yang berbeda. Sebagai contoh, Anda mempunyai profil terpisah untuk penggunaan pribadi dan untuk penggunaan bisnis.">
 <!ENTITY profileCreationExplanation_4.text  "Untuk memulai membuat profil, klik Lanjut.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Untuk memulai membuat profil, klik Lanjut.">

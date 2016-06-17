@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Pemuatan video dihentikan.">
 <!ENTITY error.network "Pemutaran video dibatalkan karena ada galat jaringan.">
-
+<!ENTITY error.decode "Video tidak dapat diputar karena berkasnya rusak.">
 <!ENTITY error.srcNotSupported "Format atau jenis MIME video tidak dudukung.">
 <!ENTITY error.noSource2 "Tidak ditemukan video dalam format atau jenis MIME yang didukung.">
 <!ENTITY error.generic "Pemutaran video dibatalkan karena galat tidak dikenal.">
