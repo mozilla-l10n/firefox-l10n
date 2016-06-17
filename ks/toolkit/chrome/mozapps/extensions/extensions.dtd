@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "لوڈ كران">
-
+<!ENTITY listEmpty.installed.label            "تُہ۪ی چھُ نئ ام۪ی قئسمُك كاںہ تئ ایڈ آن اِنسٹال كر۪یتھ">
 <!ENTITY listEmpty.availableUpdates.label     "كہین اپڈیٹ آی نئ اتھی">
-
+<!ENTITY listEmpty.recentUpdates.label        "تُہ۪ی چھُ حال۪ی اپڈیٹ كرمُت ایڈ آنس">
 <!ENTITY listEmpty.findUpdates.label          "اپڈیٹس خٲطرئ وچھیو">
 <!ENTITY listEmpty.search.label               "كہین تئ رلیمِت ای آنس ہیك نئ لبِتھ">
 <!ENTITY listEmpty.button.label               "ایڈ آنسن متعلق زٲنیو مزید">
@@ -107,9 +107,9 @@
 <!ENTITY cmd.uninstallAddon.label             "تئ ہٹئویو">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "آپشنس  ">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "یئ ایڈ آن صورت بدلٲویو">
 <!ENTITY cmd.showPreferencesUnix.label        "ترجیح ">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "یئ ایڈ آن ترجیح بدلٲویو">
 <!ENTITY cmd.contribute.label                 "شركت كریو">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "یم۪ی ایڈ آنچئ  بہبودی منز  كریو  شركت">
@@ -124,7 +124,7 @@
 
 <!ENTITY discover.title                       "ایڈ آںس كیاہ چھَ؟">
 <!ENTITY discover.description2                "ایڈ۔آن چھ ایپلیکیشنْہ یم توہیہ اجازت چھ دِوان پْرسانالایز کرنس &amp;برانڈ شاٹ ناو؛اضأفی فنکشینیلٹی یا سیٹایلس سان۔ کوشش کْریو أکس وقت بچاونْچ سایڈ بار ہْنز، اکھ موسمی نوٹیفایرْچ، یا اکھ تھیمْڈ لوک یُتھ ذن &amp;برانڈ شاٹ ناو؛تُہند پنُن باسِہ۔">
-
+<!ENTITY discover.footer                      "ییلہ توہیہ اِنٹرنیٹس سْیت کنیکٹْہ أسیو، یہ پین کرِ فیچرکینہہ ساروْی کھوتْہ بہترین تْہ ساروْی کھوتْہ مشہور ایڈ۔آن توہیہ باپت یمن پیٹھ توہیہ کوشش کْریو۔">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "ترجمہ">
@@ -137,11 +137,11 @@
 
 <!ENTITY detail.updateType                    "پانٲی اپڈیٹس">
 <!ENTITY detail.updateDefault.label           "ڈیفالٹ">
-
+<!ENTITY detail.updateDefault.tooltip         "پانٲی كریو اپڈیٹ اِنسٹال اگر سُئ ڈیفالٹ چھُ">
 <!ENTITY detail.updateAutomatic.label         "یلئ">
 <!ENTITY detail.updateAutomatic.tooltip       "پانٲی كریو اپڈیٹس اِنسٹال">
 <!ENTITY detail.updateManual.label            "بند">
-
+<!ENTITY detail.updateManual.tooltip          "پانٲی مئ كریو اپڈیٹس اِنسٹال">
 <!ENTITY detail.home                          "ہوم صفحئ">
 <!ENTITY detail.repository                    "ایڈ آن پروفایل">
 <!ENTITY detail.size                          "سایز">
@@ -151,10 +151,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "یَتھ آیڈ آنسس خٲطرئ وچھیو اپ ڈیٹس">
 <!ENTITY detail.showPreferencesWin.label      "آپشنس  ">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "یئ ایڈ آن صورت بدلٲویو">
 <!ENTITY detail.showPreferencesUnix.label     "ترجیح ">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "یئ ایڈ آن ترجیح بدلٲویو">
 <!-- ratings -->
 
 
@@ -223,6 +223,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "یہ کیاہ چُھ؟ ٹیلی میٹری ما کرِ انسٹال تْہ رن تجرُب وقتن فوقتن۔">
 <!ENTITY experiment.info.learnmore "مزید ہیچھِو">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "ٹیلی میٹری سیٹینگ">

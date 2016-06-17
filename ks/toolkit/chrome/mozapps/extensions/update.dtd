@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "لئب رلوئن ایڈ۔آنس">
 <!ENTITY  found.top.label                 "ایڈ۔آنس ژئریو یم تہئ انسٹال یژھیو كر۪ین:">
-
+<!ENTITY  found.disabledXPinstall.label   "یم اپڈیٹ ہیکو نْہ انسٹال کْرتھ کیازِ کہ سافٹ وْیر انسٹالیشن چھ وْنکینسڈیسیبلْڈ۔ توہیہ ہیکیو یہ سیٹینگ بونْہ کْنئ تبدیل کْرتھ۔">
 <!ENTITY  found.enableXPInstall.label     "ویب سایٹس دیو اجازتھ سافٹویر انسٹال كرنئ خئطرئ">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
