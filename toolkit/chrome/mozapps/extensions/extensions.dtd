@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Memuatkan...">
-
+<!ENTITY listEmpty.installed.label            "Anda tidak mempunyai sebarang jenis Add-ons ini yang terpasang">
 <!ENTITY listEmpty.availableUpdates.label     "Tiada kemaskini ditemui">
-
+<!ENTITY listEmpty.recentUpdates.label        "Anda tidak ada mengemaskini sebarang add-on baru-baru ini">
 <!ENTITY listEmpty.findUpdates.label          "Periksa untuk Kemas kini">
 <!ENTITY listEmpty.search.label               "Tidak dapat menemui sebarang add-on yang berpasangan">
 <!ENTITY listEmpty.button.label               "Ketahui lebih lanjut mengenai add-on">
@@ -105,9 +105,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Singkir">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Opsyen">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Tukar pilihan add-on ini">
 <!ENTITY cmd.showPreferencesUnix.label        "Keutamaan">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Tukarkan keutamaan add-on's ini">
 <!ENTITY cmd.contribute.label                 "Menyumbang">
 <!ENTITY cmd.contribute.accesskey             "M">
 <!ENTITY cmd.contribute.tooltip               "Sumbang untuk pembangunan add-on ini">
@@ -122,7 +122,7 @@
 
 <!ENTITY discover.title                       "Apakah Add-ons?">
 <!ENTITY discover.description2                "Tambahan adalah aplikasi yang membenarkan anda memperibadikan &brandShortName; with kefungsian lebih atau stail. Cubalah bar tepi yang menjimatkan masa, sebuah pemberitahu cuaca, atau sebuah tema lihat untuk buat &brandShortName; anda sendiri.">
-
+<!ENTITY discover.footer                      "Apabila anda telah disambungkan ke internet, anak tetingkap ini akan  memaparkan beberapa aplikasi tambahan yang menarik dan popular untuk anda cuba.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Versi">
@@ -135,11 +135,11 @@
 
 <!ENTITY detail.updateType                    "Kemaskini automatik">
 <!ENTITY detail.updateDefault.label           "Lalai">
-
+<!ENTITY detail.updateDefault.tooltip         "Pasang kemas kini secara automatik jika ianya secara asal">
 <!ENTITY detail.updateAutomatic.label         "Hidupkan">
 <!ENTITY detail.updateAutomatic.tooltip       "Pasang kemas kini secara automatik">
 <!ENTITY detail.updateManual.label            "Matikan">
-
+<!ENTITY detail.updateManual.tooltip          "Jangan pasan kemas kini secara automatik">
 <!ENTITY detail.home                          "Homepage">
 <!ENTITY detail.repository                    "Profil add-on">
 <!ENTITY detail.size                          "Saiz">
@@ -149,10 +149,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Periksa kemas kini bagi add-on ini">
 <!ENTITY detail.showPreferencesWin.label      "Pilihan">
 <!ENTITY detail.showPreferencesWin.accesskey  "P">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Tukar pilihan add-on ini">
 <!ENTITY detail.showPreferencesUnix.label     "Keutamaan">
 <!ENTITY detail.showPreferencesUnix.accesskey "K">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Tukarkan keutamaan add-on's ini">
 <!-- ratings -->
 
 
@@ -221,6 +221,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Apakah ini? Telemetri mungkin dipasang dan melaksanakan eksperimen dari semasa ke semasa.">
 <!ENTITY experiment.info.learnmore "Pelajari Lagi">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Tetapan Telemetri">

@@ -23,6 +23,8 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelp "Alatan Pembangunan Firefox boleh menyahpepijat peranti capaian jauh (Firefox untuk Android dan Firefox OS, sebagai contoh). Pastikan anda telah membuka pilihan 'Remote debugging' dalam peranti capaian jauh. Untuk makluman, lihat ">
 <!ENTITY remoteDocumentation "dokumentasi">
 <!ENTITY remoteHelpSuffix ".">
 
