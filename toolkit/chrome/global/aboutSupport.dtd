@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Feilsøking">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  Denne siden inneholder teknisk informasjon som kan være nyttig når du forsøker å løse et problem. Besøk også <a id='supportLink'>brukerstøttenettstedet</a> for å få svar på ofte stilte spørsmål om &brandShortName;.">
+
 <!ENTITY aboutSupport.crashes.title "Krasjrapporter">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->

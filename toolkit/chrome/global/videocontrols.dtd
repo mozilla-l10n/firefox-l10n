@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Videolasting stoppet.">
 <!ENTITY error.network "Videoavspilling avbrutt på grunn av nettverksfeil.">
-
+<!ENTITY error.decode "Kan ikke spille av video fordi filen er skadet.">
 <!ENTITY error.srcNotSupported "Videoformat eller MIME-type støttes ikke.">
 <!ENTITY error.noSource2 "Ingen video med et støttet format eller MIME-type funnet.">
 <!ENTITY error.generic "Videoavspilling avbrutt på grunn av ukjent feil.">
