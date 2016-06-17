@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Այլ">
 <!ENTITY runtimePanel_installsimulator "Տեղադրել Նմանակիչ">
 <!ENTITY runtimePanel_noadbhelper "Տեղադրել ADB օգնականը">
-
+<!ENTITY runtimePanel_nousbdevice "Չե՞ք տեսնում ձեր սարքը">
 <!ENTITY runtimePanel_refreshDevices_label "Թարմացնել սարքերը">
 <!-- Lense -->
 
