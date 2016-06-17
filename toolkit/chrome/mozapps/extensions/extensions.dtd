@@ -29,7 +29,7 @@
 <!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Todas as extensões e temas foram desativados pelo modo de segurança.">
+<!ENTITY warning.safemode.label                    "Todos os complementos foram desativados pelo modo de segurança.">
 <!ENTITY warning.checkcompatibility.label          "A verificação de compatibilidade está desativada. Você pode ter complementos incompatíveis.">
 <!ENTITY warning.checkcompatibility.enable.label   "Ativar">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Ativar verificação de compatibilidade">
