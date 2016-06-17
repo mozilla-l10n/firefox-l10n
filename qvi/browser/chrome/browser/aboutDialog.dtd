@@ -40,6 +40,7 @@
 <!ENTITY helpus.getInvolvedLink     "Ayniy!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Imapash mushuk tianchu">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Nikikta willanata">
