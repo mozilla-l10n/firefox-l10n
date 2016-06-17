@@ -12,7 +12,7 @@
 -->
 
 <!ENTITY  enableSafeBrowsing.label        "Rhwystro cynnwys peryglus a thwyllodrus">
-<!ENTITY  enableSafeBrowsing.accesskey    "B">
+<!ENTITY  enableSafeBrowsing.accesskey    "R">
 
 <!ENTITY  blockDownloads.label            "Rhwystro llwytho i lawr peryglus">
 <!ENTITY  blockDownloads.accesskey        "p">
