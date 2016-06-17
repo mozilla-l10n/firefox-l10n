@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Agahiyên Tamîrkirinê">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  Ev rûpel ji bo dema ku tu pirsgirêkekê çareser bikî ji te re bibe alîkar, agahiyên teknîkî dihewîne. Eger li bersiva PPP yên &brandShortName; digerî, li <a id='supportLink'>malpera desteka webê</a> binêre.">
+
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID'a Raporkirinê">

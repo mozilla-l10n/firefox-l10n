@@ -18,6 +18,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
+<!ENTITY abouthome.defaultSnippet2.v1 "Bi hêsanî dikarî Firefoxê li gorî dilê xwe taybet bikî. <a>Ji nava bi hezaran add-onan yên bi dilê xwe hilbijêre</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; bernameyeke belaş û vekirî ye ku ji hêla Weqfa Mozillayê ya bo xêrxwaziyê ve tê pêşkêşkirin. <a>Mafên xwe bizane…</a>">
 
