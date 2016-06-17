@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "غیره">
 <!ENTITY runtimePanel_installsimulator "نصب شبیه‌ساز">
 <!ENTITY runtimePanel_noadbhelper "نصب راهنما ADB">
-
+<!ENTITY runtimePanel_nousbdevice "نمی‌توانید دستگاه های خود را مشاهده کنید؟">
 <!ENTITY runtimePanel_refreshDevices_label "ازنوسازی دستگاه ها">
 <!-- Lense -->
 

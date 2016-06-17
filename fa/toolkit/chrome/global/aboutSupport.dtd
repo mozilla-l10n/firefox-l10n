@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "اطلاعات رفع اشکال">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  این صفحه حاوی اطلاعات فنی است که امکان دارد هنگامی که به دنبال حل مشکلی هستید به شما کمک کند.  اگر به دنبال پاسخی برای پرسش‌های معمول دربارهٔ &brandShortName; هستید، از <a id='supportLink'>وب‌گاه پشتیبانی ما</a> بازدید نمایید.">
+
 <!ENTITY aboutSupport.crashes.title "گزارش‌های فروپاشی">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
