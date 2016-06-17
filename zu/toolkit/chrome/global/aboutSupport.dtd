@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Imininingwane yokuxazululwa kwezinkinga">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  Leli khasi liqukethe ulwazi olunzima olungahle lukusize umauzama ukuxazulula inkinga. Uma ufuna izimpendulo zemibuzo ejwayelekile mayelana ne-&brandShortName;, hlola i-<a id='supportLink'>support web site</a>.">
+
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 

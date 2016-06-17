@@ -13,8 +13,8 @@
 <!ENTITY importFromIE.accesskey         "M">
 
 
-
-
+<!ENTITY importFromNothing.label        "Ungamukeli noma yini">
+<!ENTITY importFromNothing.accesskey    "U">
 <!ENTITY importFromSafari.label         "I-Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 
