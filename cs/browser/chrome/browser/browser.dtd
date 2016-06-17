@@ -169,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Naposledy přidané">
 <!ENTITY otherBookmarksCmd.label "Ostatní záložky">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobrazí více záložek">
+<!ENTITY showRecentlyBookmarked.label     "Zobrazit nedávno přidané záložky">
+<!ENTITY showRecentlyBookmarked.accesskey "e">
+<!ENTITY hideRecentlyBookmarked.label     "Schovat nedávno přidané záložky">
+<!ENTITY hideRecentlyBookmarked.accesskey "e">
 
 <!ENTITY backCmd.label                "Zpět">
 <!ENTITY backButton.tooltip           "Přejde o jednu stránku zpět">
@@ -226,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Zobrazit v postranní liště">
 <!ENTITY viewBookmarksToolbar.label         "Zobrazit lištu záložek">
 
+<!ENTITY containersMenu.label "Kontejnery">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -551,9 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "z">
 <!ENTITY mediaUnmute.label           "Zapnout zvuk">
 <!ENTITY mediaUnmute.accesskey       "z">
+<!ENTITY mediaPlaybackRate2.label     "Rychlost přehrávání">
+<!ENTITY mediaPlaybackRate2.accesskey "r">
+<!ENTITY mediaPlaybackRate050x2.label "Pomalá (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "P">
+<!ENTITY mediaPlaybackRate100x2.label "Normální">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Rychlá (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "R">
+<!ENTITY mediaPlaybackRate150x2.label "Rychlejší (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "e">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Absurdní (2 ×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "A">
+<!ENTITY mediaLoop.label             "Smyčka">
+<!ENTITY mediaLoop.accesskey         "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -661,6 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Zabezpečené připojení">
 <!ENTITY identity.connectionNotSecure "Připojení není zabezpečeno">
 <!ENTITY identity.connectionFile "Tato stránka je uložena ve vašem počítači.">
+<!ENTITY identity.connectionVerified2 "Jste zabezpečeně připojeni na tuto stránku, provozovanou:">
 <!ENTITY identity.connectionInternal "Toto je zabezpečená stránka aplikace &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Přihlašovací údaje zadané na této stránce mohou být vyzrazeny.">
 
