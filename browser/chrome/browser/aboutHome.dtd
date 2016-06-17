@@ -18,6 +18,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
+<!ENTITY abouthome.defaultSnippet2.v1 "ଆପଣଙ୍କ ଇଚ୍ଛା ଅନୁସାରେ Firefox କୁ ରଚନା କରିବା ସହଜ। <a>ହଜାର ହଜାର ଏଡ-ଅନଗୁଡ଼ିକ ମଧ୍ଯରୁ ବାଛନ୍ତୁ</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; ହେଉଛି ଲାଭ ହୀନ Mozilla ଅନୁଷ୍ଠାନର ଏକ ମାଗଣା ଏବଂ ମୁକ୍ତ ଉତ୍ସ ସଫ୍ଟୱେର। <a>ଆପଣଙ୍କର ଅଧିକାରକୁ ଜାଣନ୍ତୁ…</a>">
 

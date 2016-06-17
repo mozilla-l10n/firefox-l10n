@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "ସର୍ଭର ମିଳୁନାହିଁ">
-
+<!ENTITY dnsNotFound.longDesc "<ul> <li>ଲିଖନ ତ୍ରୁଟିଗୁଡ଼ିକ ପାଇଁ ଠିକଣାଟି ପରଖିନିଅନ୍ତୁ ଯଥା <strong>ww</strong>.example.com <strong>www</strong>.example.com</li> ବଦଳରେ ଥାଏ ।<li>ଆପଣ କୌଣସି ପୃଷ୍ଠା ଲୋଡ଼ ନ କରିପାରିଲେ ନିଜ କମ୍ପୁଟରର ନେଟୱର୍କ ସଂଯୋଗ ପରଖିନିଅନ୍ତୁ ।</li> <li>ଆପଣଙ୍କ କମ୍ପୁଟର କିମ୍ବା ନେଟୱାର୍କଟି ଫାୟାରୱାଲ ବା ପ୍ରକ୍ସି ଦ୍ୱାରା ସୁରକ୍ଷିତ ଥିଲେ &brandShortName; ୱେବରେ ଖୋଲିବା ପାଇଁ ଅନୁମୋଦିତ କି ନାଁ ନିଶ୍ଚିତ କରନ୍ତୁ ।</li> </ul>">
 
 <!ENTITY fileNotFound.title "ଫାଇଲ ମିଳୁନାହିଁ">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ଅକ୍ଷର ପ୍ରକାର କିମ୍ବା ଅନ୍ୟାନ୍ୟ ଟାଇପ ତ୍ରୁଟିଗୁଡ଼ିକୁ ଯାଞ୍ଚ କରିବା ପାଇଁ ଫାଇଲନାମକୁ ଯାଞ୍ଚ କରନ୍ତୁ</li> <li>ଫାଇଲଟି କଢ଼ାଯାଇଛି କି ନାହିଁ , ପୁନଃନାମକରଣ ଅଥବା ଅପସାରଣ ହୋଇଛି କି ନାହିଁ ଦେଖିବା ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ।</li> </ul>">
@@ -27,15 +27,16 @@
 
 
 <!ENTITY generic.title "ଆହାଃ">
+<!ENTITY generic.longDesc "<p>&brandShortName; କୌଣସି କାରଣବଶତଃ ଏହି ପୃଷ୍ଠାକୁ ଧାରଣ କରିପାରିବ ନାହିଁ।</p>">
 
-
-
+<!ENTITY malformedURI.title "ଏହି ଠିକଣାଟି ବୈଧ ନୁହେଁ">
+<!ENTITY malformedURI.longDesc "<ul> <li>ୱେବ ଠିକଣାଗୁଡ଼ିକ ସାଧାରଣତଃ ଏହି ପ୍ରକାରେ ଲେଖାଯାଇଥାଏ <strong>http://www.example.com/</strong></li> <li>ନିଶ୍ଚିତ କରନ୍ତୁ ଯେ ଆପଣ  ତୀର୍ଯକ ରେଖା ବ୍ୟବହାର କରୁଛନ୍ତି (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "ସଂଯୋଗଟି ବାଧାପ୍ରାପ୍ତ ହୋଇଛି">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "ଦଲିଲର ସମୟ ସମାପ୍ତ ହୋଇଛି">
-
+<!ENTITY notCached.longDesc "<p>ଅନୁରୋଧ କରାଯାଇଥିବା ଦଲିଲଟି &brandShortName; ର କ୍ୟାଶେରେ ଉପଲବ୍ଧ ନାହିଁ।</p><ul><li>ସୁରକ୍ଷା ଦୃଷ୍ଟିକୋଣରୁ, &brandShortName; ଜରୁଜୀ ଦଲିଲଗୁଡ଼ିକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ପୁନଃ-ଅନୁରୋଧ କରିନଥାଏ।</li><li>ୱେବସାଇଟରୁ ଦଲିଲକୁ ପୁନଃ-ଅନୁରୋଧ କରିବା ପାଇଁ ପୁଣଥରେ ଚେଷ୍ଟାକରନ୍ତୁ କୁ କ୍ଲିକ କରନ୍ତୁ।</li></ul>">
 
 <!ENTITY netOffline.title "ଅଫଲାଇନ ଅବସ୍ଥା">
 <!ENTITY netOffline.longDesc2 "<ul> <li>&quot; କୁ ଦବାଇ ଅନଲାଇନ ଧାରାକୁ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ଏବଂ ପୃଷ୍ଠାକୁ ପୁନର୍ଦ୍ଧାରଣ କରିବା ପାଇଁ &quot; କୁ ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ।</li> </ul>">
@@ -52,6 +53,7 @@
 <!ENTITY netTimeout.title "ସଂଯୋଗ ସମୟ ସମାପ୍ତ ହୋଇଯାଇଛି">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "ଠିକଣାଟି ବୁଝାପଡ଼ିନଥିଲା">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>ଏହି ଠିକଣାକୁ ଖୋଲିବା ପାଇଁ ଆପଣଙ୍କୁ ହୁଏତଃ ଅନ୍ୟ ସଫ୍ଟୱେର ସ୍ଥାପନ କରିବାକୁ ଆବଶ୍ୟକ ହୋଇପାରେ।</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "ପ୍ରକ୍ସି ସର୍ଭର ସଂଯୋଗଗୁଡ଼ଡିକୁ ବାରଣ କରୁଛି">
@@ -60,6 +62,7 @@
 <!ENTITY proxyResolveFailure.title "ପ୍ରକ୍ସି ସର୍ଭରକୁ ଖୋଜିବାରେ ଅସମର୍ଥ">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>ପ୍ରକ୍ସି ସଂରଚନା ଠିକ ଅଛି କି ନାହିଁ ନିଶ୍ଚିତ ହେବା ପାଇଁ ସେଗୁଡ଼ିକୁ ପରଖିନିଅନ୍ତୁ ।</li> <li>ଆପଣଙ୍କ କମ୍ପୁଟରରେ ସକ୍ରିୟ ନେଟୱାର୍କ ସଂଯୋଗ ଅଛି କି ନାହିଁ ପରଖିନିଅନ୍ତୁ ।</li> <li>ନିଜ କମ୍ପୁଟର କିମ୍ବା ନେଟୱାର୍କ କୌଣସି ଫାୟାରୱାଲ କିମ୍ବା ପ୍ରକ୍ସି ଦ୍ୱାରା ସୁରକ୍ଷିତ ଥିଲେ&brandShortName; ୱେବରେ ଖୋଲିବା ପାଇଁ ଅନୁମୋଦିତ କି ନାଁ ନିଶ୍ଚିତ କରନ୍ତୁ ।</li> </ul>">
 
+<!ENTITY redirectLoop.title "ଏହି ପୃଷ୍ଠାଟି ସଠିକ ଭାବରେ ପୁନଃପ୍ରେରଣ କରିପାରୁନାହିଁ">
 <!ENTITY redirectLoop.longDesc "<ul> <li>ଏହି ସମସ୍ୟା ବେଳେବେଳେ କୁକିଗୁଡ଼ିକୁ ଗ୍ରହଣ କରିବାରୁ ନିଷ୍କ୍ରିୟକରିବା କିମ୍ବା ବାରଣ କରିବା ହେତୁ ଘଟିଥାଏ।</li> </ul>">
 
 <!ENTITY unknownSocketType.title "ସର୍ଭରରୁ ଅପ୍ରତ୍ୟାଶିତ ଉତ୍ତର">
@@ -71,6 +74,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY sharedLongDesc "<ul> <li>ସାଇଟଟି ଅସ୍ଥାୟୀ ଭାବରେ ଉପଲବ୍ଧ ହେଉନାହିଁ ଅଥବା ଅତି ବ୍ୟସ୍ତ । ଟିକେ ପରେ ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ ।</li> <li>ପୃଷ୍ଠାଟିଏ ଲୋଡ଼ କରିନପାରିଲେ ନିଜ କମ୍ପୁଟରର ନେଟୱାର୍କ ସଂଯୋଗ ପରଖିନିଅନ୍ତୁ ।</li> <li>ନିଜ କମ୍ପୁଟର କିମ୍ବା ନେଟୱାର୍କ ଫାୟାରୱାଲ କିମ୍ବା ପ୍ରକ୍ସି ଦ୍ୱାରା ସୁରକ୍ଷିତ ଥିଲେ&brandShortName; ୱେବରେ ଖୋଲିବା ପାଇଁ ଅନୁମୋଦିତ କି ନାଁ ନିଶ୍ଚିତ କରନ୍ତୁ ।</li> </ul>">
 
 <!ENTITY cspBlocked.title "ବିଷୟବସ୍ତୁ ସୁରକ୍ଷା ନିତୀ ଦ୍ୱାରା ଅଟକ ରଖାଯାଇଛି">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ଏହି ପୃଷ୍ଠାକୁ ଏହି ଉପାୟରେ ଧାରଣ କରିବାରୁ ବାରଣ କରିଥାଏ କାରଣ ସେହି ପୃଷ୍ଠାରେ ବିଷୟବସ୍ତୁ ସୁରକ୍ଷା ନିତୀ ଅଛି ଯାହାକି ଏହାକୁ ଅନୁମତି ଦେଇନଥାଏ।</p>">

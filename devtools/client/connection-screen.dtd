@@ -23,6 +23,8 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelp "Firefox ବିକାଶକାରୀ ସାଧନଗୁଡ଼ିକ ସୁଦୂର ଉପକରଣଗୁଡ଼ିକର ତୃଟିନିବାରଣ କରିପାରିବ (ଉଦାହରଣ ସ୍ୱରୂପ, ଏଣ୍ଡ୍ରଏଡ ପାଇଁ Firefox ଏବଂFirefox OS)। 'ସୁଦୂର ତୃଟିନିବାରଣ' ବିକଳ୍ପକୁ ସୁଦୂର ଉପକରଣରେ ଅନ କରିଛନ୍ତି କି ନାହିଁ ନିଶ୍ଚିତ କରନ୍ତୁ। ଅଧିକ ବିବରଣୀ ପାଇଁ, ଏହାକୁ ଦେଖନ୍ତୁ">
 <!ENTITY remoteDocumentation "ଦଲିଲକରଣ">
 <!ENTITY remoteHelpSuffix ".">
 

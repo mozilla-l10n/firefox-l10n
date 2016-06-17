@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; ବ୍ୟବସ୍ଥା">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "ସ୍ୱାଗତମ! ଯଦି ଆପଣ କଦାପି &syncBrand.fullName.label; ପୂର୍ବରୁ ବ୍ୟବହାର କରିନାହାନ୍ତି, ତେବେ ଆପଣଙ୍କୁ ଏକ ନୂତନ ଖାତା ସୃଷ୍ଟି କରିବା ଆବଶ୍ୟକ।">
 <!ENTITY button.createNewAccount.label "ନୂତନ ଖାତା ପ୍ରସ୍ତୁତ କରନ୍ତୁ">
 <!ENTITY button.haveAccount.label      "ମୋର ଗୋଟିଏ ଖାତା ଅଛି">
 
 <!ENTITY setup.choicePage.title.label     "ଆପଣ ପୂର୍ବରୁ &syncBrand.fullName.label; କୁ ବ୍ୟବହାର କରିଛନ୍ତି କି?">
-
-
+<!ENTITY setup.choicePage.new.label       "ମୁଁ ପୂର୍ବରୁ &syncBrand.shortName.label; କୁ ବ୍ୟବହାର କରିନାହିଁ">
+<!ENTITY setup.choicePage.existing2.label "ମୁଁ ପୂର୍ବରୁ &syncBrand.shortName.label; କୁ ଅନ୍ୟ ଉପକରଣରେ ବ୍ୟବହାର କରିଛି">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "ସର୍ଭର">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "ଏକ ଉପକରଣକୁ ଯୁଗଳ କରନ୍ତୁ।">
 <!ENTITY addDevice.showMeHow.label          "ଏହା କିପରି ହେଉଛି ମୋତେ ଦେଖନ୍ତୁ।">
-
+<!ENTITY addDevice.dontHaveDevice.label     "ମୋ ପାଖରେ ସେହି ଉପକରଣଟି ନାହିଁ">
 <!ENTITY pairDevice.setup.description.label  "ସକ୍ରିୟ କରିବା ପାଇଁ, ଆପଣଙ୍କର ଅନ୍ୟ ଉପକରଣରେ &quot;Pair a Device&quot; ବାଛନ୍ତୁ।">
 <!ENTITY addDevice.setup.enterCode.label    "ତାପରେ, ଏହି ସଂକେତକୁ ଭରଣ କରନ୍ତୁ:">
 <!ENTITY pairDevice.dialog.description.label "ଆପଣଙ୍କର ନୂତନ ଉପକରଣକୁ ସକ୍ରିୟ କରିବା ପାଇଁ, ଉପକରଣ ଉପରେ  &quot;Set Up Sync&quot; ବାଛନ୍ତୁ।">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "ଏଡ-ଅନଗୁଡ଼ିକ">
 <!ENTITY engine.addons.accesskey    "A">
 
+<!ENTITY choice2a.merge.main.label       "ଏହି ଉପକରଣର ତଥ୍ୟକୁ ମୋର &syncBrand.shortName.label; ତଥ୍ୟ ସହିତ ସନ୍ତୁଳନ କରନ୍ତୁ">
 <!ENTITY choice2.merge.recommended.label "ପରାମର୍ଶିତ:">
 <!ENTITY choice2a.client.main.label      "ଏହି ଉପକରଣର ସମସ୍ତ ତଥ୍ୟକୁ ମୋର &syncBrand.shortName.label; ତଥ୍ୟ ସହିତ ବଦଳାନ୍ତୁ">
-
+<!ENTITY choice2a.server.main.label      "ଅନ୍ୟ ସମସ୍ତ ଉପକରଣଗୁଡ଼ିକୁ ଏହି ଉପକରଣର ତଥ୍ୟ ସହିତ ବଦଳାନ୍ତୁ">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "ନିଶ୍ଚିତ କରନ୍ତୁ">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ବର୍ତ୍ତମାନ ଏହି ଉପକରଣର ସମସ୍ତ ବ୍ରାଉଜର ତଥ୍ୟକୁ ଆପଣଙ୍କର  Sync ଖାତାରେ ମିଶ୍ରଣ କରିବ।">
 <!ENTITY confirm.client3.label         "ଚେତାବନୀ: ଏହି ଉପକରଣରେ ଥିବା ନିମ୍ନଲିଖିତ &brandShortName; ତଥ୍ୟକୁ ଅପସାରଣ କରିଦିଆଯିବ:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName;ତାପରେ ଆପଣଙ୍କର &syncBrand.fullName.label; ତଥ୍ୟକୁ ଏହି ଉପକରଣରେ ନକଲ କରିବ।">
 <!ENTITY confirm.server2.label         "ଚେତାବନୀ: ନିମ୍ନଲିଖିତ ଉପକରଣଗୁଡ଼ିକୁ ଆପଣଙ୍କର ସ୍ଥାନୀୟ ତଥ୍ୟ ସହିତ ନବଲିଖିନ କରାଯିବ:">

@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "ଘୁଞ୍ଚାଇବା ଦ୍ୱାରା ଆପଣ ବେଳେ ବେଳେ ଧାରଣ କାର୍ଯ୍ୟକୁ ତୀବ୍ରତର କରିପାରିବେ">
 <!ENTITY csscoverage.optimize.body2 "ପୃଷ୍ଠା ତଳେ ଲଗାଉଛି ଏବଂ ନୂଆ ଧାଡ଼ି ସୃଷ୍ଟି କରୁଛି">
-
+<!ENTITY csscoverage.optimize.body3 "ଶୈଳୀଗୁଡ଼ିକ ସହିତ ଉପାଦାନ 'ଧାରଣ କରିବା' ଘଟଣା ପୂର୍ବରୁ ଉପରେ ଆବଶ୍ୟକ ହୋଇଥାଏ। ଏଠାରେ ଆପଣ ଆବଶ୍ୟକ କରୁଥିବା ଶୈଳୀ ବ୍ଲକ ଅଛି:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 
