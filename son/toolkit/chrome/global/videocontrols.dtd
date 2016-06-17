@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Widewo zumandiyan kay.">
 <!ENTITY error.network "Widewo hẽenandiyan mun feršikaw firka sabbu ra.">
-
+<!ENTITY error.decode "Widewo ši hin ka hẽenandi zama tukoo n' ka laybu.">
 <!ENTITY error.srcNotSupported "Widewo takari wala MIME tukoo ši kanbandi.">
 <!ENTITY error.noSource2 "Widewo kul mana duwandi nda takari nda MIME dumi.">
 <!ENTITY error.generic "Widewo hẽenandiyan kay firka šibayante sabu ra.">

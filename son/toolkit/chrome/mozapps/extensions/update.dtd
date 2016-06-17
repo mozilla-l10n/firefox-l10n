@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Tontoni cerekanbantey duwandi">
 <!ENTITY  found.top.label                 "Tontoney kaŋ war ga boona k'i sinji suuba:">
-
+<!ENTITY  found.disabledXPinstall.label   "Tontoney ši hin ka sinjandi zama goyjinay sinjiyanoo kayandi sohõ. War ga hin ka kayandiyanoo barmay ganda.">
 <!ENTITY  found.enableXPInstall.label     "Naŋ Interneti nungey ma porogaram sinji">
 <!ENTITY  found.enableXPInstall.accesskey "a">
 
