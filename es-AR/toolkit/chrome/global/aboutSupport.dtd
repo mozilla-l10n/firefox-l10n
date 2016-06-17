@@ -120,3 +120,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Registro de decisión">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Características de protección contra fallos deshabilitadas">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Soluciones">
