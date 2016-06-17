@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Thông tin Gỡ rối vấn đề">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  Trang này chứa thông tin kĩ thuật có thể có ích khi bạn đang cố giải quyết một vấn đề. Nếu bạn đang tìm câu trả lời cho các câu hỏi thông thường về &brandShortName;, hãy xem <a id='supportLink'>trang web hỗ trợ</a> của chúng tôi.">
+
 <!ENTITY aboutSupport.crashes.title "Trình báo lỗi">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
