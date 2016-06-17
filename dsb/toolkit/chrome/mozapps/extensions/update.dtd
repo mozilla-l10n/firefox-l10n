@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Kompatibelne dodanki namakane">
 <!ENTITY  found.top.label                 "Wubjeŕśo dodanki, kótarež by rady instalěrował:">
-
+<!ENTITY  found.disabledXPinstall.label   "Toś te aktualizacije njedaju se instalěrowaś, dokulaž instalacija softwary jo tuchylu znjemóžnjona. Móžośo toś te nastajenja dołojce změniś.">
 <!ENTITY  found.enableXPInstall.label     "Websedłam dowóliś, až instalěruju software">
 <!ENTITY  found.enableXPInstall.accesskey "W">
 
