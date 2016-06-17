@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Učitavanje videa zaustavljeno.">
 <!ENTITY error.network "Prikazivanje videa prekinuto usljed greške na mreži.">
-
+<!ENTITY error.decode "Video ne može biti prikazan zbog greške u fajlu.">
 <!ENTITY error.srcNotSupported "Video format ili MIME tip nije podržan.">
 <!ENTITY error.noSource2 "Nije pronađen niti jedan video sa podržanim formatom i MIME tipom.">
 <!ENTITY error.generic "Prikazivanje videa prekinuto usljed nepoznate greške.">

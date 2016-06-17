@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Učitavanje…">
-
+<!ENTITY listEmpty.installed.label            "Vi nemate instaliranih add-ona ovog tipa">
 <!ENTITY listEmpty.availableUpdates.label     "Nijedan update nije pronađen">
-
+<!ENTITY listEmpty.recentUpdates.label        "Odavno niste vršili update add-ona">
 <!ENTITY listEmpty.findUpdates.label          "Provjeri za update">
 <!ENTITY listEmpty.search.label               "Nisam uspio pronaći odgovarajuće add-one">
 <!ENTITY listEmpty.button.label               "Naučite više o add-onima">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Ukloni">
 <!ENTITY cmd.uninstallAddon.accesskey         "U">
 <!ENTITY cmd.showPreferencesWin.label         "Opcije">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Promijeni opcije ovog add-ona">
 <!ENTITY cmd.showPreferencesUnix.label        "Postavke">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Promijeni postavke ovog add-ona">
 <!ENTITY cmd.contribute.label                 "Doprinesite">
 <!ENTITY cmd.contribute.accesskey             "D">
 <!ENTITY cmd.contribute.tooltip               "Doprinesite razvoju ovog add-ona">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Šta su Add-oni?">
 <!ENTITY discover.description2                "Add-oni su aplikacije koje vam omogućavaju da personalizirate &brandShortName; sa dodatnom funkcionalnošću ili stilom. Probajte vremensku prognozu ili tematiziran izgled da uljepšate &brandShortName;.">
-
+<!ENTITY discover.footer                      "Kada ste konektovani na internet, ovaj panel će prikazivati neke od najboljih i najpopularnijih add-ona koje možete isprobati.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Verzija">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Automatski update-i">
 <!ENTITY detail.updateDefault.label           "Izvorno">
-
+<!ENTITY detail.updateDefault.tooltip         "Automatski instaliraj update samo ako je to izvorna postavka">
 <!ENTITY detail.updateAutomatic.label         "Uključeno">
 <!ENTITY detail.updateAutomatic.tooltip       "Automatski instaliraj update">
 <!ENTITY detail.updateManual.label            "Isključeno">
-
+<!ENTITY detail.updateManual.tooltip          "Nemoj automatski instalirati update">
 <!ENTITY detail.home                          "Web stranica">
 <!ENTITY detail.repository                    "Add-on profil">
 <!ENTITY detail.size                          "Veličina">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Provjeri za update za ovaj add-on">
 <!ENTITY detail.showPreferencesWin.label      "Opcije">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Promijeni opcije ovog add-ona">
 <!ENTITY detail.showPreferencesUnix.label     "Postavke">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Promijeni postavke ovog add-ona">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Šta je ovo? Telemetrija može instalirati i pokretati eksperimente s vremena na vrijeme.">
 <!ENTITY experiment.info.learnmore "Saznajte više">
 <!ENTITY experiment.info.learnmore.accesskey "z">
 <!ENTITY experiment.info.changetelemetry "Postavke telemetrije">
