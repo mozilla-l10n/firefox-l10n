@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "व्हिडीओ लोड करणे थांबवले.">
 <!ENTITY error.network "नेटवर्क त्रुटीमुळे व्हिडीओ चालवणे बंद केले.">
-
+<!ENTITY error.decode "फाइल सदोषीत असल्याने व्हिडीओ चालवणे अशक्य.">
 <!ENTITY error.srcNotSupported "व्हिडीओ रूपण किंवा MIME प्रकार समर्थीत नाही.">
 <!ENTITY error.noSource2 "समर्थीत रूपण व MIME प्रकारसह व्हिडीओ आढळले नाही.">
 <!ENTITY error.generic "अपरिचीत त्रुटीमुळे व्हिडीओ चालवणे रद्द केले.">
