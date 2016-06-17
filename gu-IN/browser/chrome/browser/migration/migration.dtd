@@ -13,8 +13,8 @@
 <!ENTITY importFromIE.accesskey         "M">
 
 
-
-
+<!ENTITY importFromNothing.label        "કંઇ આયાત ન કરો">
+<!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "સફારી">
 <!ENTITY importFromSafari.accesskey     "S">
 

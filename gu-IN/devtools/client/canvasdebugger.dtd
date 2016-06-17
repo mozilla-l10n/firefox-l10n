@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "તેની પર ક્લિક કરો">
-
+<!ENTITY canvasDebuggerUI.emptyNotice2    "એનિમેશન ફ્રેમનાં કોલ સ્ટેકનાં અહેવાલ કરવાનું બટન.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed

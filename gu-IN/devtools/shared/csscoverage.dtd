@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "તમે ખસેડીને લાવવામાં અમુકવાર ઝડપી થઇ શકે છે">
 <!ENTITY csscoverage.optimize.body2 "પાનાંની હેઠળ ટૅગ અને નવી શ્રેણી બનાવી રહ્યા છે">
-
+<!ENTITY csscoverage.optimize.body3 "ટોચની 'લોડ' ઘટના પહેલાં જરૂરી શૈલીઓ સાથે ઘટક. અહિંયા શૈલી બ્લોક છે જે તમને જરૂરી છે:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

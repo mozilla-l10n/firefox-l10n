@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "સુસંગત એડ-ઓન મળ્યા">
 <!ENTITY  found.top.label                 "તમે જે એડ-ઓન સ્થાપિત કરવા ઈચ્છો છો તે પસંદ કરો:">
-
+<!ENTITY  found.disabledXPinstall.label   "આ સુધારાઓ સ્થાપિત કરી શકાતા નથી કારણ કે સોફ્ટવેર સ્થાપન વર્તમાનમાં નિષ્ક્રિય કરવામાં આવેલ છે. તમે આ સુયોજન નીચે બદલી શકો છો.">
 <!ENTITY  found.enableXPInstall.label     "વેબ સાઈટોને સોફ્ટવેર સ્થાપિત કરવા માટે પરવાનગી આપો">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
