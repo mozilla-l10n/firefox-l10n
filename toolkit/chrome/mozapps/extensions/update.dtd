@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "E hweditše ditlaleletši tše swanelanago">
 <!ENTITY  found.top.label                 "Kgetha ditlaleletši tšeo o ka ratago go di lokela:">
-
+<!ENTITY  found.disabledXPinstall.label   "Dikaonafatšo tše di ka se lokelwe ka gobane go lokelwa ga lenaneotirišo la khomphutha ga bjale go šitišitšwe. O ka fetoša peakanyo ye ka mo tlase.">
 <!ENTITY  found.enableXPInstall.label     "Dumelela diwepesaete go lokela lenaneotirišo la khomphutha">
 <!ENTITY  found.enableXPInstall.accesskey "D">
 

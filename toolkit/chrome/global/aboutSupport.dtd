@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Tshedimošo ya go rarolla mathata">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "Letlakala le le na le tshedimošo ya setegniki yeo e ka bago le mohola ge o leka go rarolla bothata. Ge e ba o nyaka dikarabo tša dipotšišo tše tlwaelegilego ka ga &brandShortName;, lebelela wepesaete ya rena ya  <a id='supportLink'> ya thekgo</a>.">
+
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 

@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "Peakanyo ya &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "O a amogelwa! Ge e ba o sa ka wa diriša &syncBrand.fullName.label; pele ga mo, go tla nyakega gore o hlame akhaonto e mpsha.">
 <!ENTITY button.createNewAccount.label "Hlama akhaonto e mpsha">
 <!ENTITY button.haveAccount.label      "Ke na le akhaonto">
 
 <!ENTITY setup.choicePage.title.label     "Na o ile wa diriša &syncBrand.fullName.label; pele ga mo?">
-
-
+<!ENTITY setup.choicePage.new.label       "Ga ke sešo ka diriša &syncBrand.shortName.label; pele ga mo">
+<!ENTITY setup.choicePage.existing2.label "Ke šetše ke diriša &syncBrand.shortName.label; go sešomišwa se sengwe">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Seabi">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "Para sešomišwa">
 <!ENTITY addDevice.showMeHow.label          "Mpontšhe gore ke dire bjang.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "Ga ke a swara sedirišwa">
 <!ENTITY pairDevice.setup.description.label  "Gore o diragatše, kgetha &quot;Para sešomišwa&quot; go sešomišwa sa gago se sengwe.">
 <!ENTITY addDevice.setup.enterCode.label    "Ke moka, o tsenye khoutu ye:">
 <!ENTITY pairDevice.dialog.description.label "Go diragatša sešomišwa sa gago se seswa, kgetha &quot;Beakanya Sync&quot; sešomišweng.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "Dikoketšo">
 <!ENTITY engine.addons.accesskey    "D">
 
+<!ENTITY choice2a.merge.main.label       "Kopanya tsebišo ya sešomišwa se le tsebišo ya ka ya &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Šišintšwe:">
 <!ENTITY choice2a.client.main.label      "Tšeela tsebišo yohle legato sešomišweng se ka tsebišo ya ka ya &syncBrand.shortName.label;">
-
+<!ENTITY choice2a.server.main.label      "Tšeela dišomišwa tšohle tše dingwe legato ka tsebišo ya sešomišwa se">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Netefatša">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; bjale e tla kopanya tsebišo yohle ya praosara ya sešomišwa le akhaonto ya gago ya Sync.">
 <!ENTITY confirm.client3.label         "Temošo: Tsebišo e latelago ya &brandShortName; yeo e lego sešomišweng se e tla phumolwa:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; ke moka e tla kopišetša tsebišo ya gago ya &syncBrand.fullName.label; sešomišwa se.">
 <!ENTITY confirm.server2.label         "Temošo: Didirišwa tše latelago di tla tšeelwa legato ke tsebišo ya gago ya mo lapeng:">

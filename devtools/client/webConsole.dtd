@@ -37,7 +37,7 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-
+<!ENTITY btnPageLogging.tooltip "Ngwala melaetša e rometšwego go sedirišwa sa &quot;khonsole&quot;">
 
 
 

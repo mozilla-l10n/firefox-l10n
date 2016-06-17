@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Go hlahlela…">
-
+<!ENTITY listEmpty.installed.label            "Ga o na ditlaleletši tša mohuta wo tšeo di loketšwego">
 <!ENTITY listEmpty.availableUpdates.label     "Ga go a hwetšwa dimpshafatšo">
-
+<!ENTITY listEmpty.recentUpdates.label        "Moragobjale ga se wa mpshafatša ditlaleletši dife goba dife">
 <!ENTITY listEmpty.findUpdates.label          "Lekola dimpshafatšo">
 <!ENTITY listEmpty.search.label               "Ga go a hwetšwa ditlaleletši tšeo di swanago">
 <!ENTITY listEmpty.button.label               "Ithute mo gontši ka ditlaleletši">
@@ -105,9 +105,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Tloša">
 <!ENTITY cmd.uninstallAddon.accesskey         "T">
 <!ENTITY cmd.showPreferencesWin.label         "Dikgetho">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Fetoša dikgetho tša setlaleletši se">
 <!ENTITY cmd.showPreferencesUnix.label        "Dikganyogo">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Fetoša dikganyogo tša setlaleletši se">
 <!ENTITY cmd.contribute.label                 "Tsenya letsogo">
 <!ENTITY cmd.contribute.accesskey             "s">
 <!ENTITY cmd.contribute.tooltip               "Tsenya letsogo go tšwetšopele ya setlaleletši se">
@@ -122,7 +122,7 @@
 
 <!ENTITY discover.title                       "Ditlaleletši ke eng?">
 <!ENTITY discover.description2                "Ditlaleletši ke ditirišo tšeo di go dumelelago go dira &brandShortName; ka tsela ya gago; ka go šoma ka mo go oketšegilego goba setaele. Leka para ya go boloka nako, setsebiši sa maemo a boso, goba tebego yeo e nago le sehlogo ya go dira gore &brandShortName; e be ka mo o e nyakago ka gona.">
-
+<!ENTITY discover.footer                      "Ge o kgokagantšwe go inthanete, lefasetere le le tla bonagatša tše dingwe tša ditlaleletši tše tšwago pele le tše tumilego kudu gore o di leke.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Kgatišo">
@@ -135,11 +135,11 @@
 
 <!ENTITY detail.updateType                    "Dimpshafatšo tša boitirišo">
 <!ENTITY detail.updateDefault.label           "Tirelwa">
-
+<!ENTITY detail.updateDefault.tooltip         "Lokela dimpshafatšo ka maitirišo feela ge eba seo e le tirelwa">
 <!ENTITY detail.updateAutomatic.label         "Thumašitšwe">
 <!ENTITY detail.updateAutomatic.tooltip       "Lokela dimpshafatšo ka boitirišo">
 <!ENTITY detail.updateManual.label            "Timile">
-
+<!ENTITY detail.updateManual.tooltip          "O se ke wa lokela dimpshafatšo ka boitirišo">
 <!ENTITY detail.home                          "Letlakala la mathomo">
 <!ENTITY detail.repository                    "Profaele ya setlaleletši">
 <!ENTITY detail.size                          "Bogolo">
@@ -149,10 +149,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Lekola dimpshafatšo tša setlaleletši se">
 <!ENTITY detail.showPreferencesWin.label      "Dikgetho">
 <!ENTITY detail.showPreferencesWin.accesskey  "o">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Fetoša dikgetho tša setlaleletši se">
 <!ENTITY detail.showPreferencesUnix.label     "Dikganyogo">
 <!ENTITY detail.showPreferencesUnix.accesskey "D">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Fetoša dikganyogo tša setlaleletši se">
 <!-- ratings -->
 
 
