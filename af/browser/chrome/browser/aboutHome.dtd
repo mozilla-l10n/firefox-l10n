@@ -18,6 +18,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
+<!ENTITY abouthome.defaultSnippet2.v1 "Dis maklik om Firefox presies op te stel soos mens daarvan hou. <a>Kies uit derduisende byvoegings</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; is vry en oopbronsagteware van die Mozilla-stigting sonder winsbejag. <a>Ken u regte…</a>">
 

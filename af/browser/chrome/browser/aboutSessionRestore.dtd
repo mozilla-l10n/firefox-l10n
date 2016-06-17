@@ -23,6 +23,10 @@
 <!ENTITY restorepage.windowLabel    "Venster &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "Laat wiel!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Sukses!">
@@ -38,6 +42,9 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Byvoegings en aanpassings is verwyder en die blaaierinstellings is teruggestel na verstekwaardes. As dit nie probleme oplos nie, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "kry meer inligting oor wat om te doen.">
@@ -45,9 +52,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "Migreer die ander oortjiegroepe">
-
+<!ENTITY tabgroupsmigration.pagetitle2          "Ons het oortjiegroepe verwyder, maar die oortjies is gestoor">
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Meer inligting oor byvoegings wat plaasvervangers is vir oortjiegroepe.">
-
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; het al u groepe geboekmerk sodat u niks verloor nie.">
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Wys geboekmerkte oortjiegroepe">
 <!ENTITY tabgroupsmigration.restoredescription  "Voel ook vry om nou party of alle agtergrondgroepe na vensters te herstel:">
 
