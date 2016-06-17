@@ -162,6 +162,8 @@ za chvíli.</li>
 <!ENTITY cspBlocked.title "Zablokováno dle bezpečnostních pravidel obsahu">
 <!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila v nahrání této stránky, protože tato stránka má bezpečnostní pravidla, která takovýto způsob nahrání zakazují.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Chyba v obsahu stránky">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Stránka, kterou se snažíte načíst, nemůže být zobrazena, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím správce serveru a informujte je o tomto problému.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku">
@@ -187,6 +189,7 @@ za chvíli.</li>
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>Není možné navázat zabezpečené připojení k <span id='wrongSystemTime_URL'/>, protože se zdá, že vaše hodiny ukazují špatný čas.</p> <p>Váš počítač si myslí, že je <span id='wrongSystemTime_systemDate'/> a mělo by být <span id='wrongSystemTime_actualDate'/>. Pro vyřešení tohoto problému prosím opravte nastavení data a času.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nezabezpečené připojení">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tento server používá HTTP
@@ -199,3 +202,5 @@ pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifiká
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii která je zastaralá a náchylná k útoku. Útočník může snadno získat informace, které si myslíte, že jsou zabezpečené. Administrátor serveru musí server opravit předtím, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY prefReset.longDesc "Zdá se, že příčinou může být vaše nastavení zabezpečení. Chcete obnovit výchozí nastavení?">
+<!ENTITY prefReset.label "Obnovit výchozí nastavení">
