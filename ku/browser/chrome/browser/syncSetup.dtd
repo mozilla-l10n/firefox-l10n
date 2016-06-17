@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "Sazkirina &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "Bi xêr hatî! Eger te berê &syncBrand.fullName.label; bi kar neanîbe, divê tu hesabekî nû vekî.">
 <!ENTITY button.createNewAccount.label "Hesabekî nû biafirîne">
 <!ENTITY button.haveAccount.label      "Hesabekî min heye">
 
 <!ENTITY setup.choicePage.title.label     "Te berê &syncBrand.fullName.label; bi kar anî?">
-
-
+<!ENTITY setup.choicePage.new.label       "Min &syncBrand.shortName.label; berê bi kar neanî">
+<!ENTITY setup.choicePage.existing2.label "Ez jixwe li ser cîhazeke din &syncBrand.shortName.label;ê bi kar tînim">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Pêşkêşkar">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "Cîhazekê hevcot bike">
 <!ENTITY addDevice.showMeHow.label          "Nîşan bide çawan.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "Bi min re cîhaz tune ye">
 <!ENTITY pairDevice.setup.description.label  "Ji bo çalak bikî, ji cîhaza din &quot;Cîhazê hevcot bike&quot;ê hilbijêre.">
 <!ENTITY addDevice.setup.enterCode.label    "Piştre vê kodê binivîse:">
 <!ENTITY pairDevice.dialog.description.label "Ji bo cîhaza nû çalak bikî, li ser cîhazê &quot;Syncê saz bike&quot;yê hilbijêre.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "Add-on">
 <!ENTITY engine.addons.accesskey    "A">
 
+<!ENTITY choice2a.merge.main.label       "Daneyên li ser vê cîhazê bi daneyên li ser &syncBrand.shortName.label;ê re hevcot bike">
 <!ENTITY choice2.merge.recommended.label "Pêşniyarbûyî:">
 <!ENTITY choice2a.client.main.label      "Hemû daneyên li ser vê cîhazê rake û daneyên li ser &syncBrand.shortName.label;ê bi cî bike">
-
+<!ENTITY choice2a.server.main.label      "Daneyên vê cîhazê li ser hemû cîhazan bi cî bike">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Pesendkirin">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; dê niha hemû daneyên geroka vê cîhazê bi hesabê Syncê re hevcot bike.">
 <!ENTITY confirm.client3.label         "Hişyarî: Daneyên jêrê yên &brandShortName;a li ser vê cîhazê   dê bên jêbirin">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; dê daneyên &syncBrand.fullName.label;ê paşê li vê cîhazê kopî bike.">
 <!ENTITY confirm.server2.label         "Hişyarî: Daneyên te yên herêmî dê li ser van cîhazan bên nivîsandin:">

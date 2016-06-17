@@ -8,7 +8,8 @@
 <!ENTITY warnCloseMultipleTabs.label  "Dema ku ji yekê zêdetir hilpekîn bên girtin min hişyar bike">
 <!ENTITY warnCloseMultipleTabs.accesskey  "p">
 
-
+<!ENTITY warnOpenManyTabs.label       "Dema ku ji yekê zêdetir hilpekîn di bin &brandShortName; 'ê de vebin min hişyar bike">
+<!ENTITY warnOpenManyTabs.accesskey   "v">
 
 
 

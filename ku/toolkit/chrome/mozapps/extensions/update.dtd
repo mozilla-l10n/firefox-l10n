@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Add-onên hev digirin hatin dîtin">
 <!ENTITY  found.top.label                 "Add-onên ku dixwazî saz bikî hilbijêre:">
-
+<!ENTITY  found.disabledXPinstall.label   "Ji ber ku sazkirina nivîsbariyê hat bêbandorkirin ev rojanekirin nayên sazkirin. Dikarî vê mîhengê biguherînî.">
 <!ENTITY  found.enableXPInstall.label     "Ji bo sazkirina nivîsbariyan destûrê bide malperan">
 <!ENTITY  found.enableXPInstall.accesskey "d">
 

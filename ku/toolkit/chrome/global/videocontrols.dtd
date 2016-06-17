@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Barkirina vîdeoyê hat sekinandin.">
 <!ENTITY error.network "Ji ber çewtiyeke torê vîdeo hat betalkirin.">
-
+<!ENTITY error.decode "Ji ber ku pel xirabe ye vîdeo nayê lêdan.">
 <!ENTITY error.srcNotSupported "Formata vîdeoyê yan jî cureyê MIMEyê nayê destekirin.">
 <!ENTITY error.noSource2 "Tu vîdeoyên bi formata destekirî ya jî bi cureyê MIME nehat dîtin.">
 <!ENTITY error.generic "Ji ber çewtiyeke nenas lêdana vîdeoyê hat betalkirin.">

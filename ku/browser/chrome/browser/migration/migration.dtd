@@ -13,8 +13,8 @@
 <!ENTITY importFromIE.accesskey         "M">
 
 
-
-
+<!ENTITY importFromNothing.label        "Tu tiştî veneguhêze hundir">
+<!ENTITY importFromNothing.accesskey    "d">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 
