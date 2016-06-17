@@ -7,10 +7,12 @@
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
+<!ENTITY safeb.palm.notdeceptive.label "এটি কোন ক্ষতিকারক সাইট না…">
 <!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
   safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
+<!ENTITY safeb.palm.notdeceptive.accesskey "d">
 <!ENTITY safeb.palm.reportPage.label "এই পেজটি কেন ব্লক করা হয়েছিলো?">
 <!ENTITY safeb.palm.whyForbidden.label "এই পেজটি কেন ব্লক করা হয়েছিলো?">
 

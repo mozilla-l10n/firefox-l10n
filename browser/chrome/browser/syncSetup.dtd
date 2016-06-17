@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; সেটআপ">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "স্বাগতম! পূর্বে; আপনি যদি কখনও &syncBrand.fullName.label; ব্যবহার না করেন, আপনাকে একটি নতুন একাউন্ট খুলতে হবে।">
 <!ENTITY button.createNewAccount.label "নতুন অ্যাকাউন্ট তৈরি">
 <!ENTITY button.haveAccount.label      "আমার একটি একাউন্ট আছে">
 
 <!ENTITY setup.choicePage.title.label     "পূর্বে &syncBrand.fullName.label; ব্যবহার করেছেন?">
-
-
+<!ENTITY setup.choicePage.new.label       "পূর্বে &syncBrand.shortName.label; ব্যবহার করিনি">
+<!ENTITY setup.choicePage.existing2.label "আমি ইতোমধ্যে অন্য কম্পিউটারে &syncBrand.shortName.label; ব্যবহার করছি">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "সার্ভার">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "যন্ত্র যুগলবন্দি করুন">
 <!ENTITY addDevice.showMeHow.label          "কিভাবে করা হবে তা আমাকে দেখিয়ে দিন।">
-
+<!ENTITY addDevice.dontHaveDevice.label     "আমার কাছে ডিভাইসটি নেই">
 <!ENTITY pairDevice.setup.description.label  "সক্রিয় করার জন্য, আপনার অন্য ডিভাইসটির &quot;ডিভাইস যুগলবন্দি করুন&quot; নির্বাচন করুন।">
 <!ENTITY addDevice.setup.enterCode.label    "তারপর, এ কোড দিন:">
 <!ENTITY pairDevice.dialog.description.label "আপনার নতুন ডিভাইস সক্রিয় করার জন্য, আপনার ডিভাইসের &quot;সিঙ্ক সেটাপ&quot; নির্বাচন করুন।">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "অ্যাড-অন (A)">
 <!ENTITY engine.addons.accesskey    "A">
 
+<!ENTITY choice2a.merge.main.label       "&syncBrand.shortName.label; ডাটার সাথে কম্পিউটারে ডাটা একত্রীকরণ">
 <!ENTITY choice2.merge.recommended.label "সুপারিশকৃত:">
 <!ENTITY choice2a.client.main.label      "&syncBrand.shortName.label; দ্বারা কম্পিউটারের সব ডাটা প্রতিস্থাপন করুন">
-
+<!ENTITY choice2a.server.main.label      "কম্পিউটারের ডাটা দ্বারা অন্যান্য সব ডিভাইস প্রতিস্থাপন করুন">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "নিশ্চিত">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label;আপনার সিঙ্ক অ্যাকাউন্টে এই কম্পিউটারের সব ব্রাউজার ডাটা একত্রীকরণ করা হবে।">
 <!ENTITY confirm.client3.label         "সতর্কীকরণ: এ কম্পিউটারের নিম্নোক্ত সব &brandShortName; ডাটা  অপসারন করা হবে:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; আপনার কম্পিউটারে &syncBrand.fullName.label; ডাটা অনুলিপি করবে।">
 <!ENTITY confirm.server2.label         "সতর্কীকরণ: নিম্নোক্ত ডিভাইস, আপনার স্থানীয় ডাটা দ্বারা প্রতিস্থাপিত হবে:">

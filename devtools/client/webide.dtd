@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "অন্যান্য">
 <!ENTITY runtimePanel_installsimulator "সিমুলেটর ইনস্টল করুন">
 <!ENTITY runtimePanel_noadbhelper "ইনস্টল ADB Helper">
-
+<!ENTITY runtimePanel_nousbdevice "আপনার ডিভাইস দেখতে পাচ্ছেন না?">
 <!ENTITY runtimePanel_refreshDevices_label "ডিভাইসগুলো রিফ্রেস করুন">
 <!-- Lense -->
 

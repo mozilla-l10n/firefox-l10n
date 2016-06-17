@@ -692,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "এই সাইট এ আপনার সংযোগ ব্যক্তিগত নয়। আপনার জমা দেওয়া তথ্য অন্যদের দ্বারা দেখা যেতে পারে। (যেমন পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড ইত্যাদি)।">
 <!ENTITY identity.description.insecureLoginForms "আপনি এই পেজে লগইন করতে যে তথ্য দিয়েছেন তা নিরাপদ নয় এবং চুরিও হতে পারে।">
 <!ENTITY identity.description.weakCipher "এই ওয়েবসাইটে আপনার সংযোগ দুর্বল এনক্রিপশন ব্যবহার করে এবং এটি ব্যক্তিগত নয়।">
-
+<!ENTITY identity.description.weakCipher2 "যে কেউ আপনার দেয়া তথ্য দেখতে পারে বা ওয়েব সাইটের আচরন পরিবর্তন করতে পারে।">
 <!ENTITY identity.description.activeBlocked "&brandShortName; নিরাপদ নয় তাই এই পৃষ্ঠার কিছু অংশ ব্লক করা হয়েছে।">
 <!ENTITY identity.description.passiveLoaded "আপনার সংযোগটি ব্যক্তিগত নয় এবং এই সাইটে আপনার শেয়ার করা তথ্য অন্যদের দ্বারা দেখা যেতে পারে।">
 <!ENTITY identity.description.passiveLoaded2 "এই ওয়েবসাইটে কিছু অনিরাপদ বিষয়বস্তু রয়েছে (যেমন ছবি)।">
