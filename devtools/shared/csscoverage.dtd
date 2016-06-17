@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "आप खिसका कर लोडिंग की गति बढ़ा सकते हैं">
 <!ENTITY csscoverage.optimize.body2 "पृष्ठ के तल में टैग और नया इनलाइन का निर्माण">
-
+<!ENTITY csscoverage.optimize.body3 "शीर्ष में 'load' घटना के पहले जरूरी शैली के साथ तत्व. यहाँ शैली ब्लॉक हैं जो आपके लिए जरूरी है:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 
