@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Информация за отстраняване на неизправности">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "Тази страница съдържа техническа информация, която може да ви е от полза, когато сеопитвате да решите проблем. Ако търсите отговори на често задавани въпросиза &brandShortName;, проверете в нашата <a id='supportLink'>страница за поддръжка</a>.">
+
 <!ENTITY aboutSupport.crashes.title "Доклади за крашове">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->

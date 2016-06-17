@@ -25,6 +25,7 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Страниците с нежелан софтуер се опитват да инсталират софтуер, който подвежда и влияе по неочакван начин на вашия компютър.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Страницата <span id='phishing_sitename'/> е докладван като „измамническа“ и беше блокирана според настройките ви за безопасност.">
 
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Блокиран сайт">

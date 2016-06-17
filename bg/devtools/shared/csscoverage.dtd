@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "Понякога можете да ускорите зареждането чрез преместване на етикетите">
 <!ENTITY csscoverage.optimize.body2 "към края на страницата и създаване на нови инлайн елементи">
-
+<!ENTITY csscoverage.optimize.body3 "с нужните стилове, сложени преди събитието „load“ в началото. Ето стиловете на блокове, които са ви нужни:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

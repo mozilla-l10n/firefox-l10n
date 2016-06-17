@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "Щракнете на">
-
+<!ENTITY canvasDebuggerUI.emptyNotice2    "бутона за запис стека на извиквания на анимирания кадър.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 

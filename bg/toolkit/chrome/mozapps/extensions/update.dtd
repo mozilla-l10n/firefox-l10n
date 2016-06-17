@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Намерени съвместими добавки">
 <!ENTITY  found.top.label                 "Изберете добавките, които искате да инсталирате:">
-
+<!ENTITY  found.disabledXPinstall.label   "Тези обновявания не могат да бъдат инсталирани, защото в момента инсталирането на софтуер е изключено. По-долу можете да промените това.">
 <!ENTITY  found.enableXPInstall.label     "Разрешаване на сайтове да инсталират софтуер">
 <!ENTITY  found.enableXPInstall.accesskey "Р">
 
