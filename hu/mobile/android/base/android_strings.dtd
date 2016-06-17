@@ -18,15 +18,20 @@
 <!ENTITY firstrun_signin_message "Kapcsolódjon, vágjon bele">
 <!ENTITY firstrun_signin_button "Jelentkezzen be a Syncbe">
 <!ENTITY  onboard_start_button_browser "Böngészés megkezdése">
-
+<!ENTITY firstrun_button_notnow "Most nem">
 <!ENTITY firstrun_button_next "Következő">
 
+<!ENTITY firstrun_tabqueue_title "Hivatkozások">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Lapsor bekapcsolása">
 
 
+<!ENTITY firstrun_tabqueue_message_on "Sikerült!">
+<!ENTITY firstrun_tabqueue_subtext_on "Ezt kikapcsolhatja a &settings; menüben, az &pref_category_general; kategória alatt.">
 
-
+<!ENTITY firstrun_readerview_title "Cikkek">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Elég a zsúfoltságból">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
