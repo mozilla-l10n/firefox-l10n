@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Okutika video kukomye.">
 <!ENTITY error.network "Okuzanya vidiyo kukomeddwa olwensobi munyunga.">
-
+<!ENTITY error.decode "Vidiyo teyinza kuzanyibwa kubanga fayiro eyononese.">
 <!ENTITY error.srcNotSupported "Engeri ya vidiyo oba ekika kya MIME tekiwagirwa.">
 <!ENTITY error.noSource2 "Tewali vidiyo eyentereza ewagirwa ne ekika kya MIME kyizulidwa.">
 <!ENTITY error.generic "Okuzanya vidiyo kukomezeddwa olwensobi etamanyiddwa.">

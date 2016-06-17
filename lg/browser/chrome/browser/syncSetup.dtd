@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Okutegeka">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "Tukusanyukidde! bwobanga tokozesangako &syncBrand.fullName.label;, ojjakwetaga okutondawo akaunta empya.">
 <!ENTITY button.createNewAccount.label "Tondawo Akaunta Empya">
 <!ENTITY button.haveAccount.label      "Nnina Akaunti">
 
 <!ENTITY setup.choicePage.title.label     "Walyo kozesezako &syncBrand.fullName.label;?">
-
-
+<!ENTITY setup.choicePage.new.label       "Sikozesangako &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing2.label "Natandika da okukozesa &syncBrand.shortName.label; ku kompyuta endala">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Kompyuta efuga zinazo">
@@ -57,10 +60,10 @@
 
 <!ENTITY pairDevice.title.label             "Yunga Ebyuma">
 <!ENTITY addDevice.showMeHow.label          "Ndaga nga.">
-
-
+<!ENTITY addDevice.dontHaveDevice.label     "Sirina kikozesebwa nange">
+<!ENTITY pairDevice.setup.description.label  "Okutandika, londa &#x0022;Yunga ekyuma&#x0022; kukyuma ekirala.">
 <!ENTITY addDevice.setup.enterCode.label    "Oluvanyuma, otekemu kodi eno:">
-
+<!ENTITY pairDevice.dialog.description.label "Okutandika ekyuma ekyirala, londa &#x0022;Tegeka Akatuusa&#x0022; ku kyuma ekyo.">
 <!ENTITY addDevice.dialog.enterCode.label   "Tekamu kodi ekuwereddwa ekyuma:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Bambi gezako nate.">
 <!ENTITY addDevice.dialog.successful.label  "Ekyuma kigattidwako bulungi. Okutusaganya okusooka kusoobola okutwala edakika nyinji ko era ejakumaliriza mukasirise.">
@@ -69,7 +72,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Yingira">
-
+<!ENTITY existingRecoveryKey.description "Osoobola okufuna kopi ya'kasumuluzo akanunula nga ogenze ku bilondebwako bya &syncBrand.shortName.label; ku kyumakyo ekirala no londako  &#x0022;Akasumuluzo Kange Akanunula&#x0022; wansiwa &#x0022;Ddukanya Akaunti&#x0022;.">
 <!ENTITY verifying.label              "Ekakasa…">
 <!ENTITY resetPassword.label          "Funa Akasumuluzo Akapya">
 <!ENTITY resetSyncKey.label           "Mbuziza ekyuma kyange ekirala.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "Ebigattibwako">
 <!ENTITY engine.addons.accesskey    "E">
 
+<!ENTITY choice2a.merge.main.label       "Gatta ebiri mu kompyuta eno ne ebiri mu &syncBrand.shortName.label; yange">
 <!ENTITY choice2.merge.recommended.label "Ekisembebwa:">
 
-
+<!ENTITY choice2a.server.main.label      "Kyusa ebirala byoona mu byuma ebisigade ne'ebiri ku kompyuta eno">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Kakasa">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; kati ejja kugata data yena ali mu kanonyesa ka kompyuta eno ne'ebiri mu akaunta yo Etuusa.">
 
 
 <!ENTITY confirm.server2.label         "Okuwabulwa: Ebiri mu byuma bino bijja ku sangulwa wadewo ebiri mu kompyuta:">

@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Okutikka…">
-
+<!ENTITY listEmpty.installed.label            "Tolina byongerwako byonna bya kika kino biteereddwako">
 <!ENTITY listEmpty.availableUpdates.label     "Tewali kituusa kisangiddwa">
-
+<!ENTITY listEmpty.recentUpdates.label        "Totuukanyizza byongerwako byonna gyebuvuddeko">
 <!ENTITY listEmpty.findUpdates.label          "Kebera Ebituusa">
 <!ENTITY listEmpty.search.label               "Tesobodde kuzuula byongerwako bituukagana">
 <!ENTITY listEmpty.button.label               "Yiga ebisingawo ku byongerwako">
@@ -105,9 +105,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Jjamu">
 <!ENTITY cmd.uninstallAddon.accesskey         "J">
 <!ENTITY cmd.showPreferencesWin.label         "Ebyokwerobozaako">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Kyusa ebyokulondako bye' ekyongerwako kino">
 <!ENTITY cmd.showPreferencesUnix.label        "Byololonzeko">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Kyusa ebyokulondako by'ekyongerwako kino">
 <!ENTITY cmd.contribute.label                 "waayo">
 <!ENTITY cmd.contribute.accesskey             "w">
 <!ENTITY cmd.contribute.tooltip               "Waayo ku kulaakulanya kw'ekyokwongerako kino">
@@ -122,7 +122,7 @@
 
 <!ENTITY discover.title                       "Ebigattibwako bye biki?">
 <!ENTITY discover.description2                "Obugatibwako bwe bu pulogulaamu obukusobozesa okufula  &brandShortName;  nga bwogyagala nokufuna enkola nendabika eyenjawulo. Gezako akabawo kebali, akalanga obudde, oba endabika eyenjawulo okufula  &brandShortName; eyiyo.">
-
+<!ENTITY discover.footer                      "Bwonoba oyungidwa ku mukutu gwensi yona, ekitundu kino kijjakulaga obumuku ku bugattibwako obusinga obulungi nokumanyika osoobole obugezako.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Enkola">
@@ -135,11 +135,11 @@
 
 <!ENTITY detail.updateType                    "Ebyetuukaganya byokka">
 <!ENTITY detail.updateDefault.label           "eky'enkalakalira">
-
+<!ENTITY detail.updateDefault.tooltip         "Teekako ebyetuukaganya byokka singa biba nti byebikulu">
 <!ENTITY detail.updateAutomatic.label         "Kweri">
 <!ENTITY detail.updateAutomatic.tooltip       "Teekako eby'okutuukanya weekka">
 <!ENTITY detail.updateManual.label            "Teriiko">
-
+<!ENTITY detail.updateManual.tooltip          "Toteekako byakwetuukanya byokka">
 <!ENTITY detail.home                          "Omuko ogusooka">
 <!ENTITY detail.repository                    "Ebikwata ku byongerwako">
 <!ENTITY detail.size                          "Obunene">
@@ -149,10 +149,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Kebera ebyokutuukaganya ebikwata ku kyongerwako kino">
 <!ENTITY detail.showPreferencesWin.label      "Ebyokulondako">
 <!ENTITY detail.showPreferencesWin.accesskey  "E">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Kyusa ebyokulondako bye' ekyongerwako kino">
 <!ENTITY detail.showPreferencesUnix.label     "Ebyokweroboza">
 <!ENTITY detail.showPreferencesUnix.accesskey "b">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Kyusa ebyokulondako by'ekyongerwako kino">
 <!-- ratings -->
 
 
