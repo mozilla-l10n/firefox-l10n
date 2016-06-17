@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "பிற">
 <!ENTITY runtimePanel_installsimulator "சிமுலேட்டரை நிறுவு">
 <!ENTITY runtimePanel_noadbhelper "ADB உதவியை நிறுவு">
-
+<!ENTITY runtimePanel_nousbdevice "உங்கள் சாதனத்தைப் பார்க்க முடியவில்லை?">
 
 <!-- Lense -->
 

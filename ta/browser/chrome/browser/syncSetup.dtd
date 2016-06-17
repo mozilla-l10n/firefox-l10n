@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;  அமைப்பு">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "நல்வரவு! நீங்கள் இதற்கு முன்பு &syncBrand.fullName.label; ஐப் பயன்படுத்தியிருக்காவிட்டால், நீங்கள் ஒரு கணக்கை உருவாக்க வேண்டும்.">
 <!ENTITY button.createNewAccount.label "ஒரு புதிய கணக்கை உருவாக்கவும்">
 <!ENTITY button.haveAccount.label      "எனக்கு கணக்கு உள்ளது">
 
 <!ENTITY setup.choicePage.title.label     "நீங்கள் இதற்கு முன்பு &syncBrand.fullName.label; ஐப் பயன்படுத்தியிருக்கிறீர்களா?">
-
-
+<!ENTITY setup.choicePage.new.label       "நான் இதற்கு முன்பு &syncBrand.shortName.label; ஐப் பயன்படுத்தியதில்லை">
+<!ENTITY setup.choicePage.existing2.label "ஏற்கனவே வேறொரு சாதனத்தில் &syncBrand.shortName.label; ஐப் பயன்படுத்தி வருகிறேன்">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "சேவையகம்">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "ஒரு சாதனத்தை இணையாக்கவும்">
 <!ENTITY addDevice.showMeHow.label          "எவ்வாறு என எனக்கு காட்டு.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "என்னிடம் சாதனம் இல்லை">
 <!ENTITY pairDevice.setup.description.label  "செயல்படுத்த , உங்கள் மற்றொரு சாதனத்தில் &quot;ஒரு சாதனத்தை இணையாக்கவும்&quot; என்பதைத் தேர்ந்தெடுக்கவும்.">
 <!ENTITY addDevice.setup.enterCode.label    "பின், இந்த குறியீட்டை உள்ளிடு:">
 <!ENTITY pairDevice.dialog.description.label "உங்கள் புதிய சாதனத்தைச் செயல்படுத்த, சாதனத்தில் &quot;ஒத்திசைவை அமைக்கவும்&quot; என்பதைத் தேர்ந்தெடுக்கவும்.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "நீட்சிகள்">
 <!ENTITY engine.addons.accesskey    "ந">
 
+<!ENTITY choice2a.merge.main.label       "இந்த சாதனத்தின் தரவை எனது &syncBrand.shortName.label; தரவுடன் ஒன்றாக்கு">
 <!ENTITY choice2.merge.recommended.label "பரிந்துரைக்கப்பட்டது:">
 <!ENTITY choice2a.client.main.label      "இந்த சாதனத்தில் உள்ள அனைத்து தரவையும் எனது &syncBrand.shortName.label; தரவால் இடமாற்று">
-
+<!ENTITY choice2a.server.main.label      "மற்ற அனைத்து சாதனங்களிலும் உள்ள தரவை இந்த சாதனத்தின் தரவால் இடமாற்று">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "உறுதிப்படுத்து">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; இப்போது இந்த சாதனத்தின் அனைத்து உலாவி தரவையும் உங்கள் Sync கணக்கில் ஒன்றாக்கும்.">
 <!ENTITY confirm.client3.label         "எச்சரிக்கை: இந்த சாதனத்தில் உள்ள பின்வரும் &brandShortName; தரவு அழிக்கப்படும்:">
 <!ENTITY confirm.client2.moreinfo.label "பிறகு &brandShortName; உங்கள் &syncBrand.fullName.label; தரவை இந்த சாதனத்திற்கு நகலெடுக்கும்.">
 <!ENTITY confirm.server2.label         "Warning: The following devices will be  overwritten with your local data:">
