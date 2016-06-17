@@ -23,6 +23,10 @@
 <!ENTITY restorepage.windowLabel    "&#037;S oyna">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "Qani, ketdik!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Muvaffaqiyatli!">
