@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "वीडियो लोडिंग रोकल गेल.">
 <!ENTITY error.network "संजाल त्रुटिक कारण वीडियो प्लेबैक रुकि गेल.">
-
+<!ENTITY error.decode "वीडियो नहि चलल किएक फाइल खराब छल.">
 <!ENTITY error.srcNotSupported "वीडियो प्रारूप या MIME प्रकार समर्थित नहि अछि.">
 <!ENTITY error.noSource2 "समर्थित प्रारूप आओर MIME प्रकारक संग कोनो वीडियो नहि.">
 <!ENTITY error.generic "अनजान त्रुटिक कारण वीडियो प्लेबैक रुकि गेल.">

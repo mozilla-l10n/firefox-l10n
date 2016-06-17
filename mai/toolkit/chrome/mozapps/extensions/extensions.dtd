@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "लोड कए रहल अछि…">
-
+<!ENTITY listEmpty.installed.label            "अहाँक एहि प्रकारक कोनो सहयुक्ति संस्थापित नहि अछि">
 <!ENTITY listEmpty.availableUpdates.label     "कोनो अद्यतन नहि भेटल">
-
+<!ENTITY listEmpty.recentUpdates.label        "अहाँ हाल मे कोनो सहयुक्ति अद्यतन नहि कएने छी">
 <!ENTITY listEmpty.findUpdates.label          "अद्यतन क लेल जाँचू">
 <!ENTITY listEmpty.search.label               "कोनो मेल खाएत सहयुक्ति नहि ताकि सका">
 <!ENTITY listEmpty.button.label               "सहयुक्तिक संबंधमे  बेसी जानू">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "हटाउ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "विकल्प">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "ई सहयुक्तिक विकल्पकेँ बदलू">
 <!ENTITY cmd.showPreferencesUnix.label        "वरीयता">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "ई सहयुक्तिक वरीयता बदलू">
 <!ENTITY cmd.contribute.label                 "योगदान करू">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "ई सहयुक्ति क विकासमे अपन योगदान दिअ">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "सहयुक्ति क अछि?">
 <!ENTITY discover.description2                "सहयुक्ति एहन अनुप्रयोग अछि जे अहाँकेँ &brandShortName; केँ  अतिरिक्त प्रकार्यात्मकता अथवा शैली सँ व्यक्तिगत रूचि क अनुसार ढालबमे मदति करैत अछि. समय बचाबैबला कतकापट्टी, मौसम सूचक अथवा एकटा एहिन प्रसंग जे अहाँक  अपन &brandShortName; बनाबैबला प्रसंग आजमाउ.">
-
+<!ENTITY discover.footer                      "जखन अहाँ इंटरनेट सँ कनेक्टेड होइछ, ई पट्टी अहाँक लेल सबसँ नीक आओर लोकप्रिय सहयुक्ति प्रस्तुत करैत अछि जकरा अहाँ आजमाए सकू.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "संस्करण">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "स्वचालित अद्यतन">
 <!ENTITY detail.updateDefault.label           "पूर्वनिर्धारित">
-
+<!ENTITY detail.updateDefault.tooltip         "स्वतः अद्यतन संस्थापित करैत अछि जँ ओ पूर्वनिर्धारित अछि">
 <!ENTITY detail.updateAutomatic.label         "चालू">
 <!ENTITY detail.updateAutomatic.tooltip       "स्वतः अद्यतन संस्थापित करैत अछि">
 <!ENTITY detail.updateManual.label            "बन्न">
-
+<!ENTITY detail.updateManual.tooltip          "स्वतः अद्यतन केँ संस्थापित मत  करू ">
 <!ENTITY detail.home                          "होमपेज">
 <!ENTITY detail.repository                    "सहयुक्ति प्रोफाइल">
 <!ENTITY detail.size                          "आकार">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "ई सहयुक्ति क लेल अद्यतन क लेल जाँच  करू ">
 <!ENTITY detail.showPreferencesWin.label      "विकल्प">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "ई सहयुक्तिक विकल्पकेँ बदलू">
 <!ENTITY detail.showPreferencesUnix.label     "वरीयता">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "ई सहयुक्तिक वरीयता बदलू">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "ई की अछि? टेलिमिति संस्थापित कए सकैछ आओर समय समय पर प्रयोग चलाए सकैछ.">
 <!ENTITY experiment.info.learnmore "आओर जानू">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "टेलिमिति सेटिंग">
