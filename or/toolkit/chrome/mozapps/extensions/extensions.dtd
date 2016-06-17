@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "ଧାରଣ କରୁଅଛି…">
-
+<!ENTITY listEmpty.installed.label            "ଆପଣଙ୍କ ପାଖରେ ଏହି ପ୍ରକାରର କୌଣସି ଏଡ-ଅନ ସ୍ଥାପିତ ନାହିଁ">
 <!ENTITY listEmpty.availableUpdates.label     "କୌଣସି ଅଦ୍ୟତନ ମିଳିଲା ନାହିଁ">
-
+<!ENTITY listEmpty.recentUpdates.label        "ଆପଣ ନିକଟରେ କୌଣସି ଏଡ-ଅନକୁ ଅଦ୍ୟତନ କରିନାହାନ୍ତି">
 <!ENTITY listEmpty.findUpdates.label          "ଅଦ୍ୟତନଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ">
 <!ENTITY listEmpty.search.label               "କୌଣସି ସାଦୃଶ୍ୟ ଏଡ-ଅନ ମିଳିଲା ନାହିଁ">
 <!ENTITY listEmpty.button.label               "ଏଡ-ଅନଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
@@ -105,9 +105,9 @@
 <!ENTITY cmd.uninstallAddon.label             "କାଢ଼ନ୍ତୁ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "ବିକଳ୍ପଗୁଡ଼ିକ">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "ଏହି ଏଡ-ଅନର ବିକଳ୍ପକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
 <!ENTITY cmd.showPreferencesUnix.label        "ପସନ୍ଦ">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "ଏହି ଏଡ-ଅନର ପସନ୍ଦକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
 <!ENTITY cmd.contribute.label                 "ଯୋଗଦାନ କରନ୍ତୁ">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "ଏହି ଏଡ-ଅନର ବିକାଶରେ ଯୋଗଦାନ କରନ୍ତୁ">
@@ -122,7 +122,7 @@
 
 <!ENTITY discover.title                       "ଏଡ-ଅନଗୁଡ଼ିକ କ'ଣ?">
 <!ENTITY discover.description2                "ଏଡ-ଅନଗୁଡ଼ିକ ହେଉଛି ଗୋଟିଏ ପ୍ରକାର ପ୍ରୟୋଗ ଯାହାକି ଆପଣଙ୍କ &brandShortName; କୁ ଅତିରିକ୍ତ ବିଶେଷତା କିମ୍ବା ଶୈଳୀ ସହିତ ବ୍ୟକ୍ତିଗତ କରିବା ପାଇଁ ସହାୟତା କରିଥାଏ। ଗୋଟିଏ ସମୟ-ସଂରକ୍ଷଣ ପାର୍ଶ୍ୱପଟି, ଗୋଟିଏ ପାଣିପାଗ ବିଜ୍ଞପ୍ତି, କିମ୍ବା ଗୋଟିଏ ପ୍ରସଙ୍ଗମୟ ଦୃଶ୍ୟକୁ ନିଜର &brandShortName; କରିବା ପାଇଁ ଚେଷ୍ଟାକରନ୍ତୁ।">
-
+<!ENTITY discover.footer                      "ଯେତେବେଳେ ଆପଣ ଇଣ୍ଟରନେଟରେ ସଂଯୁକ୍ତ ହୁଅନ୍ତି, ସେତେବେଳେ ଏହି ପଟ୍ଟିକଟି କିଛି ଉତ୍ତମ ଏବଂ ସୁପରିଚିତ ଏଡ-ଅନଗୁଡ଼ିକୁ ଆପଣଙ୍କ ପାଇଁ ପ୍ରୟାସ କରିବାକୁ ଦର୍ଶାଇଥାଏ।">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "ସଂସ୍କରଣ">
@@ -135,11 +135,11 @@
 
 <!ENTITY detail.updateType                    "ସ୍ୱୟଂଚାଳିତ  ଅଦ୍ୟତନଗୁଡ଼ିକ">
 <!ENTITY detail.updateDefault.label           "ପୂର୍ବନିର୍ଦ୍ଧାରିତ">
-
+<!ENTITY detail.updateDefault.tooltip         "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ସ୍ଥାପନ କରନ୍ତୁ ଯଦି ତାହା କେବଳ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ହୋଇଥାଏ">
 <!ENTITY detail.updateAutomatic.label         "ଅନ">
 <!ENTITY detail.updateAutomatic.tooltip       "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ସ୍ଥାପନ କରନ୍ତୁ">
 <!ENTITY detail.updateManual.label            "ଅଫ">
-
+<!ENTITY detail.updateManual.tooltip          "ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ସ୍ଥାପନ କରନ୍ତୁ ନାହିଁ">
 <!ENTITY detail.home                          "ମୂଳ ପୃଷ୍ଠା">
 <!ENTITY detail.repository                    "ଏଡ-ଅନ ରୂପରେଖା">
 <!ENTITY detail.size                          "ଆକାର">
@@ -149,10 +149,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "ଏହି ଏଡ-ଅନ ପାଇଁ ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଯାଞ୍ଚକରନ୍ତୁ">
 <!ENTITY detail.showPreferencesWin.label      "ବିକଳ୍ପଗୁଡ଼ିକ">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "ଏହି ଏଡ-ଅନର ବିକଳ୍ପକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
 <!ENTITY detail.showPreferencesUnix.label     "ପସନ୍ଦ">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "ଏହି ଏଡ-ଅନର ପସନ୍ଦକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
 <!-- ratings -->
 
 
@@ -221,6 +221,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "ଏହା କଣ? ଦୂରମାପି ହୁଏତଃ ସ୍ଥାପିତ ହେବ ଏବଂ ସମୟ ସମୟରେ ପରୀକ୍ଷା ଚଲାଇବ।">
 <!ENTITY experiment.info.learnmore "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "ଦୂରମାପି ସଂରଚନା">

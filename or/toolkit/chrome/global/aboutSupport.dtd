@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "ତ୍ରୁଟି ନିବାରଣ ସୂଚନା">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  ଏହି ପୃଷ୍ଠାରେ ପାରୀଭାଷିକ ସୂଚନା ଧାରଣ ହୋଇଥାଏ ଯାହାକି ଆପଣ କୌଣସି ସମସ୍ୟାର ସମାଧାନ କରିବା ସମୟରେ ସହାୟକ ହୋଇପାରେ। ଯଦି ଆପଣ  &brandShortName; ବିଷୟରେ ସାଧାରଣ ପ୍ରଶ୍ନର ଉତ୍ତରଖୋଜୁଥାନ୍ତି , ତେବେ ଆମର <a id='supportLink'>ସହାୟତା ୱେବସାଇଟ</a> କୁ ଅନୁସରଣ କରନ୍ତୁ।">
+
 <!ENTITY aboutSupport.crashes.title "କ୍ରାସ ବିବରଣୀ">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
