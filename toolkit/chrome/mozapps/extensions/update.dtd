@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Chaidh tuilleadain cho-chòrdail a lorg">
 <!ENTITY  found.top.label                 "Tagh na tuilleadain a bu toigh leat stàladh:">
-
+<!ENTITY  found.disabledXPinstall.label   "Cha ghabh na h-ùrachaidhean seo a stàladh a chionn 's gu bheil stàladh de bhathar-bog à comas an-dràsta. 'S urrainn dhut an roghainn seo atharrachadh gu h-ìosal.">
 <!ENTITY  found.enableXPInstall.label     "Leig le làraichean-lìn bathar-bog a stàladh">
 <!ENTITY  found.enableXPInstall.accesskey "a">
 
