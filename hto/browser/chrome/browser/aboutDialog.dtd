@@ -45,6 +45,7 @@
 <!ENTITY helpus.getInvolvedLink     "¡Yóne!">
 <!ENTITY helpus.end                 "?">
 
+<!ENTITY releaseNotes.link          "Mɨnika benomo íte">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Ráfue bíe fɨnoka">

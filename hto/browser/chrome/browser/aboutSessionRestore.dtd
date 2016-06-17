@@ -19,6 +19,10 @@
 <!ENTITY restorepage.windowLabel    "Éroirafo &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "¡Ɨ́fo!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "¡Ñúe íte!">
@@ -41,7 +45,7 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "Éroi jɨamakɨ ináizɨte útɨraɨmo">
-
+<!ENTITY tabgroupsmigration.pagetitle2          "Óni óga jɨamakɨ ináizɨte útɨraɨmo, ó úitɨraɨ ñue jonega">
 
 
 
