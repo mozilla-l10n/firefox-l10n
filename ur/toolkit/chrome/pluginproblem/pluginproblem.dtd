@@ -33,7 +33,7 @@
 <!ENTITY report.failed                                       "جمع کاری ناکام۔">
 <!ENTITY report.unavailable                                  "کوئی رپورٹ دستیاب نہیں۔">
 <!ENTITY report.comment                                      "تبصرہ ڈالیں (تبصرے عوامی طور پر سب کو نظر آتے ہیں)">
-
+<!ENTITY report.pageURL                                      "صفحات کا URL شامل کریں">
 
 <!ENTITY plugin.file                                         "فائل">
 <!ENTITY plugin.mimeTypes                                    "MIME اقسام">

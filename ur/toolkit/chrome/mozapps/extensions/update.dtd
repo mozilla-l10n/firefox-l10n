@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "موازن ایڈ اون مل گئے">
 <!ENTITY  found.top.label                 "جو ایڈ اون آپ تنصیب کرنا چاہتے ہیں، منتخب کریں:">
-
+<!ENTITY  found.disabledXPinstall.label   "یہ تازہ کاریاں تنصیب نہیں ہو سکتیں کیونک سافٹ ویئر تنصیب اس وقت نااہل ہے۔ آپ اس سیٹگ جو نیچے تبدیل کر سکتے ہیں۔">
 <!ENTITY  found.enableXPInstall.label     "ویب سائٹوں کو سافٹ ویئر تنصیب کرنے دیں">
 <!ENTITY  found.enableXPInstall.accesskey "ک">
 
