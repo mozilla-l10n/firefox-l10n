@@ -19,7 +19,7 @@
 <!ENTITY safeb.blocked.malwarePage.title "Página avaliada como foco de ataques!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "A página no site <span id='malware_sitename'/> foi considerada um foco de ataques e foi bloqueada de acordo com as suas preferências de segurança.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Páginas de ataque tentam instalar programas que roubam informações privadas, usam o seu computador para atacar outros ou danificam o seu sistema.</p><p>Algumas destas páginas distribuem software nocivo intencionalmente, mas muitas são comprometidas sem o conhecimento ou permissão de seus responsáveis.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Páginas de ataque tentam instalar programas que roubam informações privativas, usam o seu computador para atacar outros ou danificam o seu sistema.</p><p>Algumas destas páginas distribuem software nocivo intencionalmente, mas muitas são comprometidas sem o conhecimento ou permissão de seus responsáveis.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Relatada como página de software indesejado!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
