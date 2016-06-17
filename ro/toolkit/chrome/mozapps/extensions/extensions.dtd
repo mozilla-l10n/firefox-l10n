@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Se încarcă…">
-
+<!ENTITY listEmpty.installed.label            "Nu ai vreun supliment de acest tip instalat">
 <!ENTITY listEmpty.availableUpdates.label     "Nicio actualizare găsită">
-
+<!ENTITY listEmpty.recentUpdates.label        "Nu ați actualizat recent niciun supliment">
 <!ENTITY listEmpty.findUpdates.label          "Caută actualizări">
 <!ENTITY listEmpty.search.label               "Nu s-a putut găsi vreun supliment care se potrivește">
 <!ENTITY listEmpty.button.label               "Află mai multe despre suplimente">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Elimină">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Opțiuni">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Schimbă opțiunile acestui supliment">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferințe">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Schimbă preferințele acestui supliment">
 <!ENTITY cmd.contribute.label                 "Contribuie">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuie la dezvoltarea acestui supliment">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Ce sunt suplimentele?">
 <!ENTITY discover.description2                "Suplimentele sunt aplicații care vă permit să personalizați &brandShortName; cu funcționalități sau stiluri suplimentare. Economisiți timp cu o bară laterală, țineți prognoza meteo la îndemână sau folosiți o temă pentru a personaliza &brandShortName;.">
-
+<!ENTITY discover.footer                      "Când sunteți conectat la internet, acest panou va afișa cele mai utilizate și populare extensii pentru a vă permite să le încercați.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Versiune">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Actualizări automate">
 <!ENTITY detail.updateDefault.label           "Implicit">
-
+<!ENTITY detail.updateDefault.tooltip         "Instalează automat actualizări doar dacă aceasta e setarea implicită">
 <!ENTITY detail.updateAutomatic.label         "Activate">
 <!ENTITY detail.updateAutomatic.tooltip       "Instalează actualizări automat">
 <!ENTITY detail.updateManual.label            "Dezactivate">
-
+<!ENTITY detail.updateManual.tooltip          "Nu instala actualizările automat">
 <!ENTITY detail.home                          "Pagina de start">
 <!ENTITY detail.repository                    "Profilul suplimentului">
 <!ENTITY detail.size                          "Mărime">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Verifică dacă există actualizări pentru acest supliment">
 <!ENTITY detail.showPreferencesWin.label      "Opțiuni">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Schimbă opțiunile acestui supliment">
 <!ENTITY detail.showPreferencesUnix.label     "Preferințe">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Schimbă preferințele acestui supliment">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Ce este aceasta? Telemetria poate instala și rula experimente din când în când.">
 <!ENTITY experiment.info.learnmore "Află mai multe">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Configurări Telemetrie">

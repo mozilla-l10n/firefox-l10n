@@ -23,6 +23,8 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelp "Uneltele de dezvoltare Firefox pot depana dispozitive de la distanță (Firefox pentru Android și Firefox OS, de exemplu). Asigurați-vă că ați pornit opțiunea „Depanare de la distanță” în dispozitivul de la distanță. Pentru mai multe detalii, vedeți ">
 <!ENTITY remoteDocumentation "documentație">
 <!ENTITY remoteHelpSuffix ".">
 

@@ -96,13 +96,14 @@
 <!ENTITY engine.addons.label        "Suplimente">
 <!ENTITY engine.addons.accesskey    "S">
 
+<!ENTITY choice2a.merge.main.label       "Îmbină datele de pe acest dispozitiv cu datele &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Recomandat:">
 <!ENTITY choice2a.client.main.label      "Înlocuiește toate datele de pe acest dispozitiv cu datele &syncBrand.shortName.label;">
-
+<!ENTITY choice2a.server.main.label      "Înlocuiește datele de pe toate dispozitivele cu datele de pe acest dispozitiv">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Confirmare">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; va îmbina acum toate datele browserului de pe acest dispozitiv cu contul de sincronizare.">
 <!ENTITY confirm.client3.label         "Atenție: Următoarele date &brandShortName; de pe acest dispozitiv vor fi șterse:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; va copia datele &syncBrand.fullName.label; pe acest dispozitiv.">
 <!ENTITY confirm.server2.label         "Atenție: Următoarele dispozitive vor fi suprascrise cu datele dumneavoastră locale:">

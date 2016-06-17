@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "Clic pe">
-
+<!ENTITY canvasDebuggerUI.emptyNotice2    "buton pentru a înregistra stiva de apeluri a unui cadru de animație.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 
