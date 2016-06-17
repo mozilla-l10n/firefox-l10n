@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "உகந்ததக்க பக்கங்கள்">
 <!ENTITY csscoverage.optimize.body2 "பக்கத்தின் கீழே குறிச்சொல்லையும் ஒரு புதிய உள்வரைவையும் உருவாக்கிறது">
-
+<!ENTITY csscoverage.optimize.body3 "மேலே 'load' நிகழ்வுக்கு முன்னதாக பாணிகளுடன் கூடிய அங்கங்கள் தேவை. உங்களுக்கு தேவையான பாணியில் சில தொகுதிகள் இங்கே:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 
