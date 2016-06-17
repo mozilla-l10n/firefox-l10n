@@ -23,6 +23,10 @@
 <!ENTITY restorepage.windowLabel    "ಕಿಟಕಿ &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "ಬನ್ನಿ ಹೋಗೋಣ!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "ಯಶಸ್ವಿಯಾಗಿದೆ!">
@@ -38,6 +42,9 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "ನಿಮ್ಮ ಆಡ್-ಆನ್‌ಗಳು ಮತ್ತು ಅಗತ್ಯಾನುಗುಣವಾಗಿಸಿದ್ದವನ್ನು ತೆಗೆಯಲಾಗಿದೆ ಮತ್ತು ನಿಮ್ಮ ವೀಕ್ಷಕದ ಸಿದ್ದತೆಗಳನ್ನು ಪೂರ್ವನಿಯೋಜಿತಗೊಳಿಸಲಾಗಿದೆ. ಇದು ನಿಮ್ಮ ತೊಂದರೆಯನ್ನು ಸರಿಪಡಿಸದಿದ್ದಲ್ಲಿ, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "‍">
 
 <!ENTITY welcomeback2.link.pageInfo2        "ನೀವು ಏನೆಲ್ಲಾ ಮಾಡಬಹುದು ಎಂಬ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ.">
@@ -45,7 +52,7 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "ನಮ್ಮ ಇತರೆ ಹಾಳೆ ಗುಂಪುಗಳಿಗೆ ವಲಸೆ ಹೋಗಿ">
-
+<!ENTITY tabgroupsmigration.pagetitle2          "ನಾವು ನಿಮ್ಮ ಹಾಳೆ ಗುಂಪುಗಳನ್ನು ತೆಗೆದಿದ್ದೇವೆ, ಆದರೆ ನಿಮ್ಮ ಎಲ್ಲ ಹಾಳೆಗಳನ್ನು ಉಳಿಸಿದ್ದೇವೆ">
 
 
 <!ENTITY tabgroupsmigration.bookmarkbutton      "ಗುರುತುಮಾಡಲಾದ ಹಾಳೆಗಳ ಗುಂಪುಗಳನ್ನು ತೋರಿಸು">

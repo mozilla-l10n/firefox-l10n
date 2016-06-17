@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "ಪರಿಚಾರಕವು ಕಂಡುಬಂದಿಲ್ಲ">
-
+<!ENTITY dnsNotFound.longDesc "<ul> <li><strong>www</strong>.example.com ನ ಬದಲಿಗೆ  <strong>ww</strong>.example.com ಎಂದಾಗಿರುವ ಬೆರಳಚ್ಚು ದೋಷಗಳಿಗೆಗಾಗಿ ಪರೀಕ್ಷಿಸಿ</li><li>ನಿಮ್ಮಿಂದ ಯಾವುದೆ ಪುಟವನ್ನು ಲೋಡ್ ಮಾಡಲು ಆಗದೆ ಹೋದಲ್ಲಿ,ನಿಮ್ಮ ಗಣಕದ ಜಾಲ ಸಂಪರ್ಕವನ್ನು ಪರೀಕ್ಷಿಸಿ.</li> <li>ನಿಮ್ಮ ಗಣಕವು ಅಥವ ಜಾಲಬಂಧ ಒಂದು ಫೈರ್ವಾಲ್‍ನಿಂದ ಅಥವ ಪ್ರಾಕ್ಸಿಯಿಂದ ಸಂರಕ್ಷಿತಗೊಂಡಿದ್ದಲ್ಲಿ, &brandShortName; ಜಾಲವನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ಅನುಮತಿಸಲು ಮರೆಯದಿರಿ.</li> </ul>">
 
 <!ENTITY fileNotFound.title "ಕಡತವು  ಕಂಡುಬಂದಿಲ್ಲ">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ಕ್ಯಾಪಿಟಲೈಸೇಶನ್‍ಗಾಗಿ ಅಥವ ಇತರೆ ಬೆರಳಚ್ಚು ದೋಷಗಳಿಗಾಗಿ ಕಡತದ ಹೆಸರನ್ನು ಪರೀಕ್ಷಿಸಿ.</li> <li>ಕಡತವು ಸ್ಥಳಾಂತರಿಸಲ್ಪಟ್ಟಿದೆಯೆ, ಹೆಸರು ಬದಲಾಯಿಸಲ್ಪಟ್ಟಿದೆಯೆ ಅಥವ ಅಳಿಸಲ್ಪಟಿದೆಯೆ ಎಂದು ಪರೀಕ್ಷಿಸಿ.</li> </ul>">
@@ -27,15 +27,16 @@
 
 
 <!ENTITY generic.title "ಓಹ್.">
+<!ENTITY generic.longDesc "<p>&brandShortName; ಕ್ಕೆ ಈ ಪುಟವನ್ನು ಕೆಲವೊಂದು ಕಾರಣದಿಂದಾಗಿ ಲೋಡ್‍ ಮಾಡಲಾಗುವುದಿಲ್ಲ.</p>">
 
-
-
+<!ENTITY malformedURI.title "ವಿಳಾಸವು ಸಮಂಜಸವಾಗಿಲ್ಲ">
+<!ENTITY malformedURI.longDesc "<ul> <li>ಜಾಲ ವಿಳಾಸವು ಸಾಮಾನ್ಯವಾಗಿ     <strong>http://www.example.com/</strong> ರೀತಿಯಲ್ಲಿ  ಬರೆಯಲ್ಪಡುತ್ತದೆ</li> <li>ಮುಮ್ಮುಖವಾಗಿರುವ ಅಡ್ಡಗೆರಗಳನ್ನು ನೀವು ಬಳಸಿದ್ದೀರ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ (ಉದಾ. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "ಸಂಪರ್ಕಕ್ಕೆ ಅಡಚಣೆಯಾಗಿದೆ">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "ದಸ್ತಾವೇಜಿನ ವಾಯಿದೆ ತೀರಿದೆ">
-
+<!ENTITY notCached.longDesc "<p>ಮನವಿ ಸಲ್ಲಿಸಲಾದ ದಸ್ತಾವೇಜು &brandShortName; ನ ಕ್ಯಾಶೆಯಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ.</p><ul><li>As a security precautionಸುರಕ್ಷತಾ ಮುನ್ನೆಚ್ಚರಿಕೆಯಾಗಿ, &brandShortName; ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸೂಕ್ಷ್ಮ ಸಂವೇದಿ ದಸ್ತಾವೇಜುಗಳನ್ನು ಮರಳಿ-ಮನವಿ ಮಾಡುವುದಿಲ್ಲ.</li><li>ಜಾಲತಾಣದಿಂದ ದಸ್ತಾವೇಜನ್ನು ಮರಳಿ-ಮನವಿ ಮಾಡಲು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸು ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</li></ul>">
 
 <!ENTITY netOffline.title "ಆಫ್‍ಲೈನ್‍ ಕ್ರಮ">
 <!ENTITY netOffline.longDesc2 "<ul> <li>ಆನ್‌ಲೈನ್ ಕ್ರಮಕ್ಕೆ ಬದಲಾಯಿಸಿ ನಂತರ ಪುಟವನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡಲು &quot;ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸು&quot; ಅನ್ನು ಒತ್ತಿ.</li> </ul>">
@@ -52,6 +53,7 @@
 <!ENTITY netTimeout.title "ಸಂಪರ್ಕದ ಕಾಲಾವಧಿ ಮುಗಿದಿದೆ">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "ವಿಳಾಸವನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳಲಾಗಿಲ್ಲ">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>ಈ ವಿಳಾಸವನ್ನು ತೆರೆಯಲು ಬೇರೊಂದು ತಂತ್ರಾಂಶವನ್ನು ನೀವು ಅನುಸ್ಥಾಪಿಸುವುದು ಅಗತ್ಯವಾಗಿರುತ್ತದೆ.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "ಪ್ರಾಕ್ಸಿ ಪರಿಚಾರಕವು ಸಂಪರ್ಕವನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತಿದೆ">
@@ -60,6 +62,7 @@
 <!ENTITY proxyResolveFailure.title "ಪ್ರಾಕ್ಸಿ ಪರಿಚಾರಕವನ್ನು ಪತ್ತೆಮಾಡಲಾಗಿಲ್ಲ">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>ಪ್ರಾಕ್ಸಿ  ಸಿದ್ಧತೆಗಳು ಸರಿ ಇವೆಯೆ ಎಂದು ಪರೀಕ್ಷಿಸಿ.</li> <li>ನಿಮ್ಮ ಗಣಕದಲ್ಲಿ ಕಾರ್ಯ ನಿರತವಾಗಿರುವ ಒಂದು ಜಾಲ ಸಂಪರ್ಕ ಇದೆ ಎಂದು ಪರೀಕ್ಷಿಸಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.</li> <li>ನಿಮ್ಮ ಗಣಕ ಅಥವ ಜಾಲಬಂಧವು ಒಂದು ಫೈರ್ವಾಲ್ ಅಥವ ಪ್ರಾಕ್ಸಿ ಇಂದ ಸಂರಕ್ಷಿತಗೊಂಡಿದ್ದೆ,  &brandShortName; ವು ಜಾಲವನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ಅನುಮತಿ ಇದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.</li> </ul>">
 
+<!ENTITY redirectLoop.title "ಪುಟವು ಸರಿಯಾಗಿ ಮರಳಿ ನಿರ್ದೇಶನಗೊಳ್ಳುತ್ತಿಲ್ಲ">
 <!ENTITY redirectLoop.longDesc "<ul> <li>ಕುಕಿಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸುವುದು ಅಥವ ಪಡೆದುಕೊಳ್ಳುವುದನ್ನು ನಿರ್ಬಂಧಿಸಿವುದು ಕೆಲವೊಮ್ಮೆ ಈ ತೊಂದರೆಗೆ  ಕಾರಣವಾಗಿರುತ್ತದೆ.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "ಪರಿಚಾರಕದಿಂದ ಅನಿರೀಕ್ಷಿತ ಪ್ರತಿಕ್ರಿಯೆ">
@@ -71,6 +74,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY sharedLongDesc "<ul> <li>ತಾಣವು ತಾತ್ಕಾಲಿಕವಾಗಿ ಅಲಭ್ಯವಾಗಿದೆ ಅಥವ ಬಹುವಾಗಿ ಬಳಸಲ್ಪಡುತ್ತಿದೆ. ಕೆಲವು ಕ್ಷಣಗಳನಂತರ ಮರಳಿ ಪ್ರಯತ್ನಿಸಿ.</li> <li>ನಿಮಗೆ ಯಾವುದೆ ಪುಟವನ್ನು ಲೋಡ್‍ ಮಾಡಲುಆಗದೇ ಹೋದರೆ, ನಿಮ್ಮ ಗಣಕದ ಜಾಲ ಸಂಪರ್ಕವನ್ನು ಪರೀಕ್ಷಿಸಿ.</li> <li>ನಿಮ್ಮ ಗಣಕ ಅಥವ ಜಾಲಬಂಧವು ಒಂದು ಫೈರ್ವಾಲ್ ಅಥವ ಪ್ರಾಕ್ಸಿ ಇಂದ ಸಂರಕ್ಷಿತಗೊಂಡಿದ್ದೆ, &brandShortName; ವುಜಾಲವನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ಅನುಮತಿ ಇದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.</li> </ul>">
 
 <!ENTITY cspBlocked.title "ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮದಿಂದ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ">
 <!ENTITY cspBlocked.longDesc "<p> ಈ ಪುಟವನ್ನು ಈ ರೀತಿಯಲ್ಲಿ ಲೋಡ್ ಮಾಡುದಂತೆ  &brandShortName; ತಡೆದಿದೆ ಏಕೆಂದರೆ ಈ ಪುಟದಲ್ಲಿನ ವಿಷಯ ಸುರಕ್ಷತಾ ನಿಯಮವು ಇದಕ್ಕೆ ಅನುಮತಿ ನೀಡುವುದಿಲ್ಲ.</p>">

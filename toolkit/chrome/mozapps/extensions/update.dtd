@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "ಹೊಂದಾಣಿಕೆಯಾಗಿರುವ ಎಕ್ಸ್‍ಟೆನ್ಶನ್‍ಗಳು">
 <!ENTITY  found.top.label                 "ನೀವು ಅನುಸ್ಥಾಪಿಸ ಬೇಕಿರುವ ಎಕ್ಸ್‍ಟೆನ್ಶನ್‍ಗಳನ್ನು ಆರಿಸಿ:">
-
+<!ENTITY  found.disabledXPinstall.label   "ಈ ನವೀಕರಣಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲಾಗುವುದಿಲ್ಲ ಏಕೆಂದರೆ ತಂತ್ರಾಂಶ ಅನುಸ್ಥಾಪನೆಯು ಪ್ರಸ್ತುತ ನಿಷ್ಕ್ರಿಯಗೊಂಡಿದೆ. ನೀವು ಈ ಸಿದ್ಧತೆಗಳನ್ನು ಇಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದಾಗಿದೆ.">
 <!ENTITY  found.enableXPInstall.label     "ಜಾಲತಾಣಗಳಿಗೆ ತಂತ್ರಾಂಶವನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಅನುಮತಿಸು">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
