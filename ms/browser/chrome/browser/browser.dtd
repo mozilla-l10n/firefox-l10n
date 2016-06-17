@@ -680,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Sambungan anda ke laman ini adalah terbuka. Maklumat yang anda hantar mampu dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).">
 
 <!ENTITY identity.description.weakCipher "Sambungan anda ke halaman ini menggunakan enkripsi yang lemah dan bukan secara persendirian.">
-
+<!ENTITY identity.description.weakCipher2 "Orang lain boleh melihat maklumat anda atau mengubah tingkah laku laman web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; telah menyekat sebahagian halaman ini yang tidak selamat">
 <!ENTITY identity.description.passiveLoaded "Sambungan anda adalah terbuka dan maklumat yang anda kongsi dengan halaman ini mampu dilihat oleh orang lain.">
 <!ENTITY identity.description.passiveLoaded2 "Laman web ini mengandungi kandungan yang tidak selamat (seperti imej).">

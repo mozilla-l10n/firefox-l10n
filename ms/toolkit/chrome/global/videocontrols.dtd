@@ -25,7 +25,7 @@
 
 <!ENTITY error.aborted "Video yang dimuatkan berhenti.">
 <!ENTITY error.network "Video ulangan digugurkan kerana kesalahan rangkaian.">
-
+<!ENTITY error.decode "Video tidak dapat dimainkan disebabkan fail telah korup.">
 <!ENTITY error.srcNotSupported "Format video atau jenis MIME adalah tidak disokong.">
 <!ENTITY error.noSource2 "Tiada video dijumpai dengan format dan jenis MIME yang disokong.">
 <!ENTITY error.generic "Pemaparan video diberhentikan kerana masalah yang tidak diketahui.">

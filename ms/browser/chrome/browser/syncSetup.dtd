@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Persediaan">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "Selamat Datang! Jika anda tidak pernah menggunakan &syncBrand.fullName.label; sebelum ini, anda akan diperlukan untuk mencipta akaun baru.">
 <!ENTITY button.createNewAccount.label "Buka akaun baru">
 <!ENTITY button.haveAccount.label      "Saya Mempunyai Akaun">
 
 <!ENTITY setup.choicePage.title.label     "Pernahkah anda menggunakan &syncBrand.fullName.label; sebelum ini?">
-
-
+<!ENTITY setup.choicePage.new.label       "Saya tidak pernah guna &syncBrand.shortName.label; sebelum ini">
+<!ENTITY setup.choicePage.existing2.label "Saya sudah pun menggunakan &syncBrand.shortName.label; pada peranti yang lain">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Pelayan">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "Memasangkan Peranti">
 <!ENTITY addDevice.showMeHow.label          "Tunjukan saya bagaimana.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "Saya tidak mempunyai alat tersebut pada saya">
 <!ENTITY pairDevice.setup.description.label  "Untuk mengaktifkan, pilih &quot;Gandingkan Peranti&quot; pada peranti lain anda.">
 <!ENTITY addDevice.setup.enterCode.label    "Kemudian,masukkan kod ini:">
 <!ENTITY pairDevice.dialog.description.label "Untuk mengaktifkan, pilih &quot;Gandingkan Peranti&quot; pada peranti lain anda.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "Add-ons">
 <!ENTITY engine.addons.accesskey    "A">
 
+<!ENTITY choice2a.merge.main.label       "Satukan data peranti ini dengan &syncBrand.shortName.label; data saya">
 <!ENTITY choice2.merge.recommended.label "Disyorkan:">
 <!ENTITY choice2a.client.main.label      "Gantikan semua data dalam peranti ini dengan &syncBrand.shortName.label; data">
-
+<!ENTITY choice2a.server.main.label      "Gantikan semua peranti lain dengan data peranti ini">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Pasti">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; akan disatukan semua peranti data pelayar ini kepada akaun Sync anda.">
 <!ENTITY confirm.client3.label         "Amaran: Data &brandShortName; berikut pada peranti ini  akan dipadam:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; akan seterusnya menyalin data &syncBrand.fullName.label; anda ke peranti ini.">
 <!ENTITY confirm.server2.label         "Amaran: Alat-alat berikut akan ditulis ganti dengan data tempatan anda:">
