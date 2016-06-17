@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "ಇದರ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ">
-
+<!ENTITY canvasDebuggerUI.emptyNotice2    "ಆ್ಯನಿಮೇಶನ್ ಚೌಕಟ್ಟಿನ ಕರೆಯ ಸ್ಟ್ಯಾಕ್‌ ರೆಕಾರ್ಡ್ ಮಾಡುವ ಗುಂಡಿ.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 

@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "ಕೆಲವೊಮ್ಮೆ ಸ್ಥಳಾಂತರಿಸುವ ಮೂಲಕ ನೀವು ಲೋಡ್ ಮಾಡುವುದನ್ನು ವೇಗವಾಗಿಸಬಹುದು">
 <!ENTITY csscoverage.optimize.body2 "ಪುಟದ ಕೆಳಭಾಗಕ್ಕೆ ಟ್ಯಾಗ್‌ಗಳು ಮತ್ತು ಒಂದು ಹೊಸ ಇನ್‌ಲೈನ್ ಅನ್ನು ರಚಿಸಲಾಗುತ್ತಿದೆ">
-
+<!ENTITY csscoverage.optimize.body3 "'load' ಘಟನೆಯು ಮೇಲ್ಭಾಗಕ್ಕೆ ಹೋಗುವ ಮೊದಲು ಅಗತ್ಯವಿರುವ ಶೈಲಿಗಳನ್ನು ಹೊಂದಿರುವ ಘಟಕ. ನಿಮಗೆ ಅಗತ್ಯವಿರುವ ಶೈಲಿ ಬ್ಲಾಕ್‌ಗಳು ಇಲ್ಲಿವೆ:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

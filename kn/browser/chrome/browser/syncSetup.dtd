@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; ಸಿದ್ಧತೆ">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "ಸ್ವಾಗತ, ನೀವು ಹಿಂದೆಂದೂ &syncBrand.fullName.label; ಅನ್ನು ಬಳಸದೆ ಇದ್ದಲ್ಲಿ, ನೀವು ಒಂದು ಹೊಸ ಖಾತೆಯನ್ನು ರಚಿಸಬೇಕಾಗುತ್ತದೆ.">
 <!ENTITY button.createNewAccount.label "ಒಂದು ಹೊಸ ಖಾತೆಯನ್ನು ರಚಿಸು">
 <!ENTITY button.haveAccount.label      "ನಾನು ಖಾತೆಯೊಂದನ್ನು ಹೊಂದಿದ್ದೇನೆ">
 
 <!ENTITY setup.choicePage.title.label     "ನೀವು ಈ ಮೊದಲು &syncBrand.fullName.label; ಅನ್ನು ಬಳಸಿದ್ದೀರೆ?">
-
-
+<!ENTITY setup.choicePage.new.label       "ನಾನು ಈ ಮೊದಲು &syncBrand.shortName.label; ಅನ್ನು ಬಳಸಿಲ್ಲ">
+<!ENTITY setup.choicePage.existing2.label "ನಾನು ಈಗಾಗಲೆ &syncBrand.shortName.label; ಅನ್ನು ಇನ್ನೊಂದು ಸಾಧನದಲ್ಲಿ ಬಳಸುತ್ತಿದ್ದೇನೆ">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "ಪರಿಚಾರಕ">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "ಒಂದು ಸಾಧನವನ್ನು ಜೋಡಿಸು">
 <!ENTITY addDevice.showMeHow.label          "ಹೇಗೆಂದು ನನಗೆ ತೋರಿಸು.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "ನನ್ನಲ್ಲಿ ಈಗ ಸಾಧನವು ಇಲ್ಲ">
 <!ENTITY pairDevice.setup.description.label  "ಸಕ್ರಿಯಗೊಳಿಸಲು, ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿರುವ &quot;ಒಂದು ಸಾಧನವನ್ನು ಪೇರ್ ಮಾಡು &quot; ಅನ್ನು ಆರಿಸಿ.">
 <!ENTITY addDevice.setup.enterCode.label    "ನಂತರ ಈ ಸಂಕೇತವನ್ನು ನಮೂದಿಸಿ:">
 <!ENTITY pairDevice.dialog.description.label "ನಿಮ್ಮ ಹೊಸ ಸಾಧನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ಸಾಧನದಲ್ಲಿರುವ &quot;ಸಿಂಕ್ ಅನ್ನು ಸಿದ್ಧಗೊಳಿಸು&quot; ಅನ್ನು ಆರಿಸಿ.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "ಆಡ್-ಆನ್‌ಗಳು">
 <!ENTITY engine.addons.accesskey    "A">
 
+<!ENTITY choice2a.merge.main.label       "ಈ ಸಾಧನದ ದತ್ತಾಂಶವನ್ನು ನನ್ನ &syncBrand.shortName.label; ದತ್ತಾಂಶದೊಂದಿಗೆ ವಿಲೀನಗೊಳಿಸು">
 <!ENTITY choice2.merge.recommended.label "ಇದನ್ನು ಸಲಹೆ ಮಾಡಲಾಗುತ್ತದೆ:">
 <!ENTITY choice2a.client.main.label      "ಈ ಸಾಧನದಲ್ಲಿನ ಎಲ್ಲಾ ದತ್ತಾಂಶವನ್ನು ನನ್ನ &syncBrand.shortName.label; ದತ್ತಾಂಶದಿಂದ ಬದಲಾಯಿಸು">
-
+<!ENTITY choice2a.server.main.label      "ಈ ಸಾಧನದಲ್ಲಿನ ದತ್ತಾಂಶವನ್ನು ಇತರೆ ಎಲ್ಲಾ ದತ್ತಾಂಶಗಳಿಂದ ಬದಲಾಯಿಸು">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "ಖಚಿತಪಡಿಸು">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ಈಗ ನಿಮ್ಮ ಸಾಧನದ ಜಾಲವೀಕ್ಷಕದ ಎಲ್ಲಾ ಮಾಹಿತಿಯನ್ನು ನಿಮ್ಮ ಸಿಂಕ್ ಖಾತೆಯೊಂದಿಗೆ ವಿಲೀನಗೊಳಿಸುತ್ತದೆ.">
 <!ENTITY confirm.client3.label         "ಎಚ್ಚರಿಕೆ: ಈ ಸಾಧನದಲ್ಲಿನ &brandShortName; ದತ್ತಾಂಶವನ್ನು ಅಳಿಸಲಾಗುತ್ತದೆ:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; ನಂತರ ನಿಮ್ಮ &syncBrand.fullName.label; ದತ್ತಾಂಶವನ್ನು ಈ ಸಾಧನಕ್ಕೆ ಪ್ರತಿ ಮಾಡುತ್ತದೆ.">
 <!ENTITY confirm.server2.label         "ಎಚ್ಚರಿಕೆ: ಈ ಕೆಳಗಿನ ಸಾಧನಗಳ ಮೇಲೆ ನಿಮ್ಮ ಸ್ಥಳೀಯ ಮಾಹಿತಿಯಿಂದ ತಿದ್ದಿ ಬರೆಯಲಾಗುತ್ತದೆ:">

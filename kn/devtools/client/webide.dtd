@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "ಇತರೆ">
 <!ENTITY runtimePanel_installsimulator "ಸಿಮ್ಯುಲೇಟರ್ ಅನುಸ್ಥಾಪಿಸು">
 <!ENTITY runtimePanel_noadbhelper "ADB ಹೆಲ್ಪರ್ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಿ">
-
+<!ENTITY runtimePanel_nousbdevice "ನಿಮ್ಮ ಸಾಧನವು ಕಾಣಿಸುತ್ತಿಲ್ಲವೆ?">
 
 <!-- Lense -->
 
