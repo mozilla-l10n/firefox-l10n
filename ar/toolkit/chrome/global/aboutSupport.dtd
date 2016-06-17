@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "معلومات مواجهة الأعطال">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  تحتوي هذه الصفحة معلومات تقنية قد تكون مفيدة عندما تحاول حل مشكلة ما. إن كنت تبحث عن إجابات لأسئلة شائعة تخص &brandShortName;، تحقق من <a id='supportLink'>موقع الدعم</a>.">
+
 <!ENTITY aboutSupport.crashes.title "بلاغات الانهيار">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
