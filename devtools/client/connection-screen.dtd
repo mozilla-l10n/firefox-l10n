@@ -23,6 +23,8 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelp "Firefox-ի Ծրագրավորողի Գործիքները կարող են վրիպազերծել հեռակա սարքերը (Firefox-ը Android-ի համար և Firefox OS): Համոզվեք, որ միացրել եք 'Հեռակա վրիպազերծում' ընտրանքը հեռակա սարքում: Մանրամասները՝">
 <!ENTITY remoteDocumentation "փաստաթղթերը">
 <!ENTITY remoteHelpSuffix ".">
 
