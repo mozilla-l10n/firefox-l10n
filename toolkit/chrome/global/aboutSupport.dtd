@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Informații de depanare">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  Această pagină conține informații tehnice care ar putea fi utile atunci cândîncerci să rezolvi o problemă. Dacă ești în căutarea de răspunsuri la întrebări comunedespre &brandShortName;, verifică <a id='supportLink'>site-ul nostru de suport</a>.">
+
 <!ENTITY aboutSupport.crashes.title "Rapoarte de defecțiuni">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->

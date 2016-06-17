@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "Puteți uneori accelera încărcarea mișcând">
 <!ENTITY csscoverage.optimize.body2 "etichetele din partea de jos a paginii și creând un nou element">
-
+<!ENTITY csscoverage.optimize.body3 "în linie cu stilurile necesare înainte ca evenimentul 'load' să apară în prim plan. Aici sunt blocurile de stil de are aveți nevoie:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

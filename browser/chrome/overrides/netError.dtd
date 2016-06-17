@@ -27,15 +27,16 @@
 
 
 <!ENTITY generic.title "Au.">
+<!ENTITY generic.longDesc "<p>&brandShortName; nu poate încărca pagina dintr-un motiv oarecare.</p>">
 
-
-
+<!ENTITY malformedURI.title "Adresa nu este validă">
+<!ENTITY malformedURI.longDesc "<ul> <li>Adresele web se scriu de obicei așa: <strong>http://www.exemplu.ro/</strong></li> <li>Asigurați-vă că folosiți slash-uri orientate spre dreapta (de ex., <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Document expirat">
-
+<!ENTITY notCached.longDesc "<p>Documentul cerut nu este disponibil în cache-ul din &brandShortName;.</p><ul><li>Ca o măsură de securitate, &brandShortName; nu cere din nou automat documente confidențiale.</li><li>Clic pe „Încearcă din nou” pentru a cere din nou documentul de la site-ul web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Apăsați pe „Încearcă din nou” pentru a comuta la modul online și a reîncărca pagina.</li> </ul>">
@@ -52,6 +53,7 @@
 <!ENTITY netTimeout.title "Timpul conexiunii a expirat">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Adresa nu a fost înțeleasă">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>S-ar putea să fie nevoie să instalați alt software pentru a deschide această adresă.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
@@ -60,6 +62,7 @@
 <!ENTITY proxyResolveFailure.title "Nu se poate găsi serverul proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Verifică setările proxy pentru a te asigura că sunt corecte.</li> <li>Asigură-te că calculatorul are o conexiune funcțională la rețea.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
 
+<!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivați sau refuzați să acceptați cookie-uri.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
