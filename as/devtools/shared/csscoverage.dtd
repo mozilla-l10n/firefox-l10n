@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "আপুনি কেতিয়াবা গমণ কৰি ল'ড কৰাৰ গতি বৃদ্ধি কৰিব পাৰিব।">
 <!ENTITY csscoverage.optimize.body2 "পৃষ্ঠাৰ তললৈ টেগ কৰা এটা নতুন ইনলাইন সৃষ্টি কৰা">
-
+<!ENTITY csscoverage.optimize.body3 "ওপৰত 'load' ঘটনাৰ আগত শৈলীসমূহৰ সৈতে উপাদান প্ৰয়োজনীয়। আপোনাক প্ৰয়োজন হোৱা শৈলী খণ্ডসমূহ তলত দিয়া হৈছে:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 
