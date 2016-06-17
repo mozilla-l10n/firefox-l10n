@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Taq tz'aqat nikik'äm ki', ri xe'ilitäj">
 <!ENTITY  found.top.label                 "Ke'acha' ri taq tz'aqat nawajo' ye'ayäk:">
-
+<!ENTITY  found.disabledXPinstall.label   "Man tikirel ta yesamajïx re taq k'exoj re' ruma ri ruyakik kema' chupül. Yatikïr nak'ëx re runuk'ulem pa xulan.">
 <!ENTITY  found.enableXPInstall.label     "Tiya' q'ij chi ke ri taq ruxaq k'amaya'l tiyak kema'">
 <!ENTITY  found.enableXPInstall.accesskey "T">
 

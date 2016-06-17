@@ -55,7 +55,7 @@
 <!ENTITY  finishedBackground.name         "K'exoj ruwäch:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Xtiyake ri k'exoj ruwäch toq xtatikirisaj chik &brandShortName;. Wakami ütz natikirisaj chik &brandShortName; ütz chuqa' yasamäj chuqa' natikirisaj chik el pa jun chik ti mej.">
-
+<!ENTITY  finishedBackground.moreElevated "Re k'exoj ruwäch re' nrajo' runa'oj nuk'samajel. Ri k'exoj ruwäch xtiyak pa ri jun chik ramaj &brandShortName; titikirisäx. Tikirel natikirisaj chik &brandShortName; wakami, kasamäj chik el chuqa' tatikirisaj chik pa jun ti mej, o taxutuj re k'exoj ruwäch re'.">
 
 <!ENTITY  update.details.label            "Taq b'anikil">
 <!ENTITY  update.installedOn.label        "Xyak pa:">

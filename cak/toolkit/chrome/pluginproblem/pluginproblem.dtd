@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
      is not supported on some devices. Include a trailing space as needed. -->
+
+<!ENTITY unsupportedPlatform.pre                             "Takuyu' chi qe, ri &brandShortName; man nitikïr ta nutzïj ro Flash pa re okisaxel re'. ">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn’t suit traditions in your locale. -->
 <!ENTITY unsupportedPlatform.learnMore                       "Tetamäx ch'aqa' chik…">
@@ -33,7 +35,7 @@
 <!ENTITY report.failed                                       "Man xtikïr ta xutäq.">
 <!ENTITY report.unavailable                                  "Majun rutzijol niwachin.">
 <!ENTITY report.comment                                      "Titz'aqatisäx jun rutzijol (ri taq rutzijol konojel winaqi' yetz'eton)">
-
+<!ENTITY report.pageURL                                      "Tatz'aqatisaj ri URL richin ri ruxaq k'amaya'l">
 
 <!ENTITY plugin.file                                         "Yakb'äl">
 <!ENTITY plugin.mimeTypes                                    "MIME ruwäch">

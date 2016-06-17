@@ -110,8 +110,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.pagetitle1  "Man ütz ta chi okem">
+<!ENTITY certerror.wrongSystemTime "<p>Jun ütz okem pa <span id='wrongSystemTime_URL'/> man tikirel ta ruma chi ri ch'utiq'ijub'äl nuk'üp pe ju sachoj ramaj.</p> <p>Ri akematz'ib' nuna'oji chi wakami <span id='wrongSystemTime_systemDate'/>, toq k'o chi <span id='wrongSystemTime_actualDate'/>. Richin nisol re k'ayewal re', tajala' ri runuk'ulem q'ijul chuqa' ramaj richin nuk'äm ri' rik'in ri ütz ramaj.</p>">
 
+<!ENTITY certerror.pagetitle1  "Man ütz ta chi okem">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Re ruxaq k'amaya'l re' kan nrokisaj Nïm Ruchajinïk Ruk'wayöl HTTP (HSTS) richin nuya' retal chi &brandShortName; xa xe tokrik'in rija' pa ütz rub'anikil. Rin nib'e'el chi man nitikïr ta nutz'aqtisaj jun man relik ta chi re reruwujil b'i'aj re'.">
 <!ENTITY certerror.copyToClipboard.label "Tiwachib'ëx ri rucholajem tzij pa molwuj">
 
 <!ENTITY inadequateSecurityError.title "Itzel ri awokem">
@@ -119,4 +121,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> nrokisaj k'ak'a' samaj richin jikomal, ri e ojer chuqa' man k'ayew ta yeq'eleb'ëx. Jun q'eleb'enel chanin nuya' rutzijol ri etamab'äl, ri nina'ojïx chi echajin. Ri runuk'samajel ruxaq k'amaya'l k'o chi nutz'ët nab'ey ri ruk'u'x samaj chuwäch nitikïr nutz'ët ri ruxaq k'amaya'l.</p><p>Runimatz'ib' sachoj: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "Achi'el ta chi ja ri runuk'ulem rujikomal k'amab'ey, ri nib'ano re re'. ¿La nawajo' chi nitzolïx ri runuk'ulem kan k'o wi?">
+<!ENTITY prefReset.label "Titzolïx ri runuk'ulem kan k'o wi">

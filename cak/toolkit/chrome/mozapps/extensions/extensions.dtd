@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "p">
 
 <!ENTITY loading.label                        "Tajin nusamajib'ej…">
-
+<!ENTITY listEmpty.installed.label            "Man ayakon ta re ruwäch tz'aqat re'">
 <!ENTITY listEmpty.availableUpdates.label     "Majun taq k'exoj ruwäch xe'ilitäj ">
-
+<!ENTITY listEmpty.recentUpdates.label        "Majun k'ak'a' k'exoj ab'anon chi ke ri taq tz'aqat">
 <!ENTITY listEmpty.findUpdates.label          "Kekanöx taq jaloj">
 <!ENTITY listEmpty.search.label               "Man xe'ilitäj ta taq tz'aqat ri nikixïm ki'">
 <!ENTITY listEmpty.button.label               "Tetamäx ch'aqa' chik chi kij ri taq tz'aqat">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Telesäx">
 <!ENTITY cmd.uninstallAddon.accesskey         "s">
 <!ENTITY cmd.showPreferencesWin.label         "Taq cha'oj">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Kejal ri taq rucha'oj re tz'aqat re'">
 <!ENTITY cmd.showPreferencesUnix.label        "Taq ajowab'äl">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Kejal ri taq rajowaxik re tz'aqat re'">
 <!ENTITY cmd.contribute.label                 "Kito'on">
 <!ENTITY cmd.contribute.accesskey             "K">
 <!ENTITY cmd.contribute.tooltip               "Kito'on chi rusamajixik re tz'aqat re'">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "¿Atux ri taq tz'aqat?">
 <!ENTITY discover.description2                "Ri taq tz'aqat taq e chokoy, ri nikiya' q'ij chawe richin nawichinaj &brandShortName; rik'in rutz'aqat rusamaj o rub'anikil. Tatojtob'ej rik'in rukajtz'ik ruchi' richin nayäk aramaj, jun rutzijonel rub'anikil ri q'ij o tatz'eta' konojel ri taq na'oj richin naya' kan &brandShortName; achi'el arayib'al.">
-
+<!ENTITY discover.footer                      "Toq atokinäq pa k'amaya'l, re pas re' xtiwachin pe jujun chi ke ri e ütz chuqa' ri konojel yekanon ri taq tz'aqat ri', richin ye'atojtob'ej.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Ruwäch">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "K'exoj pa kiyonil">
 <!ENTITY detail.updateDefault.label           "Jikib'an wi">
-
+<!ENTITY detail.updateDefault.tooltip         "Pa kiyonil keyak ri taq k'exoj, xa xe we kan e k'o wi">
 <!ENTITY detail.updateAutomatic.label         "Titzij">
 <!ENTITY detail.updateAutomatic.tooltip       "Kiyonïl keyak ri taq k'exoj">
 <!ENTITY detail.updateManual.label            "Tichup">
-
+<!ENTITY detail.updateManual.tooltip          "Man keyak pa kiyonil ri taq k'exoj">
 <!ENTITY detail.home                          "Ruxaq tikirib'äl">
 <!ENTITY detail.repository                    "Ruwäch rub'i' tz'aqat">
 <!ENTITY detail.size                          "Nimilem">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Kekanöx taq kik'exoj re taq tz'aqat re'">
 <!ENTITY detail.showPreferencesWin.label      "Taq cha'oj">
 <!ENTITY detail.showPreferencesWin.accesskey  "T">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Kejal ri taq rucha'oj re tz'aqat re'">
 <!ENTITY detail.showPreferencesUnix.label     "Taq ajowab'äl">
 <!ENTITY detail.showPreferencesUnix.accesskey "a">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Kejal ri taq rajowaxik re tz'aqat re'">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "¿Achike re re'? Ri Telemetry nitikïr yeruyäk chuqa' yerusamajij jujun taq solna'oj. ">
 <!ENTITY experiment.info.learnmore "Tetamäx ch'aqa' chik">
 <!ENTITY experiment.info.learnmore.accesskey "K">
 <!ENTITY experiment.info.changetelemetry "Taq rajowab'äl Telemetry">
