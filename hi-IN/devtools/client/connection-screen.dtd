@@ -23,6 +23,8 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelp "Firefox डेवलपर उपकरण दूरस्थ डिवाइस (Android के लिए Firefox और Firefox OS , उदाहरण के लिए) डिबग कर सकते हैं. यह सुनिश्चित करें कि आप 'दूरस्थ डीबगिंग' के विकल्प पर दूरस्थ डिवाइस में बदल गया है.  और अधिक के लिए देखें">
 <!ENTITY remoteDocumentation "दस्तावेज़">
 <!ENTITY remoteHelpSuffix ".">
 

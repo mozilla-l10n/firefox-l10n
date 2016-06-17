@@ -42,6 +42,9 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "आपका एड -ओन्स और मनपसंदीदा को मिटा दिया गया है। और आपके ब्राउज़र सेटिंग को पुरानी स्तिथि में ला दिया गाया है।यदि ये आपकी समस्या का हल न कर पाये,">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "अधिक जानने ,कि आप क्या कर सकते हैं">

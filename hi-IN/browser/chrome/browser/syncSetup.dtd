@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; सेटअप">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "  आपका स्वागत है! यदि आपने &syncBrand.fullName.label; को पहले कभी उपयोग नहीं किया है, तो आपको नया खाता बनाना होगा.">
 <!ENTITY button.createNewAccount.label "एक नया खाता बनाएँ">
 <!ENTITY button.haveAccount.label      "मेरे पास एक खाता है">
 
 <!ENTITY setup.choicePage.title.label     "क्या आपने कभी पहले &syncBrand.fullName.label; का प्रयोग किया है?">
-
-
+<!ENTITY setup.choicePage.new.label       " मैंने कभी &syncBrand.shortName.label; का पहले उपयोग नहीं किया है">
+<!ENTITY setup.choicePage.existing2.label "मैं पहले से &syncBrand.shortName.label; का उपयोग दूसरी युक्तियों पर कर रहा हूँ">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "सर्वर">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "युक्ति युग्मित करें">
 <!ENTITY addDevice.showMeHow.label          "मुझे दिखाएँ कि कैसे.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "मेरे पास युक्ति नहीं है">
 <!ENTITY pairDevice.setup.description.label  "सक्रिय करने के लिए, &quot;युक्ति युग्मित करें&quot; को अपने अन्य युक्ति पर चुनें.">
 <!ENTITY addDevice.setup.enterCode.label    "फिर इस कोड को डालें:">
 <!ENTITY pairDevice.dialog.description.label " अपनी युक्ति को सक्रिय करने के लिए, &quot;सिंक सेटअप करें&quot; को युक्ति पर चुनें.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        " सहयुक्तियाँ">
 <!ENTITY engine.addons.accesskey    "A">
 
+<!ENTITY choice2a.merge.main.label       "इस युक्ति के आँकड़े को मेरे &syncBrand.shortName.label; आँकड़े से मिलाएँ">
 <!ENTITY choice2.merge.recommended.label "अनुशंसित:">
 <!ENTITY choice2a.client.main.label      "इस युक्ति पर सारे आँकड़े को मेरे &syncBrand.shortName.label; आँकड़े से प्रतिस्थापित करें">
-
+<!ENTITY choice2a.server.main.label      "इस युक्ति आँकड़े से सारे अन्य युक्तियों को प्रतिस्थापित करें">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "पुष्टि करें">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; अब इस युक्ति के सारे ब्राउज़र आँकड़े को आपके सिंक खाते से मिलाएगा.">
 <!ENTITY confirm.client3.label         "चेतावनी: इस युक्ति पर निम्नलिखित &brandShortName; आँकड़ा मिटाया जाएगा:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; तब आपके &syncBrand.fullName.label; आँकड़े को इस युक्ति पर लेबल करेगा.">
 <!ENTITY confirm.server2.label         "चेतावनी: निम्नलिखित युक्तियाँ आपके स्थानीय आँकड़े से अधिलिखित किया जाएगा:">
