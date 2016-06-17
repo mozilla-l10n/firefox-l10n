@@ -23,6 +23,8 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelp "ഫയര്‍ഫോക്സ് ഡവലപ്പര്‍ പ്രയോഗങ്ങള്‍ക്ക് റിമോട്ട് ഡിവൈസുകള്‍ ഡീബഗ് ചെയ്യുവാന്‍ സാധ്യമാകുന്നു (ഉദാഹരണത്തിന്, Android-നുള്ള Firefox). റിമോട്ട് ഡിവൈസില്‍ 'റിമോട്ട് ഡീബഗ്ഗിങ്' ഐച്ഛികം ഓണ്‍ ചെയ്തു എന്നുറപ്പാക്കുക. കൂടുതല്‍ വിവരങ്ങള്‍ക്ക്,">
 <!ENTITY remoteDocumentation "വിവരണക്കുറിപ്പു്">
 <!ENTITY remoteHelpSuffix ".">
 

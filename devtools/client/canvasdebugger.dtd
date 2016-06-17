@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "ഇതിൽ ഞെക്കുക">
-
+<!ENTITY canvasDebuggerUI.emptyNotice2    "അനിമേഷൻ ഫ്രെയിമിന്റെ കോൾ സ്റ്റാക് സൂക്ഷിക്കാനുള്ള ബട്ടൺ">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 

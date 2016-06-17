@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "താങ്കൾക്ക് ലഭ്യമാക്കുന്നതിന്റെ വേഗത ടാഗുകൾ താളിന്റെ താഴേക്കും">
 <!ENTITY csscoverage.optimize.body2 "ലോഡ് ഇവന്റുകൾക്ക് മുൻപ് ആവശ്യമായ സ്റ്റൈലുകളോട് കൂടിയ ഒരു പുതിയ ഇൻലൈൻ എലമെന്റ് മുകളിലേക്കും മാറ്റുന്നതിലൂടെ ചില സമയങ്ങളിൽ വർദ്ധിപ്പിക്കാം">
-
+<!ENTITY csscoverage.optimize.body3 "താങ്കൾക്ക് ആവശ്യമായ സ്റ്റൈൽ കൂട്ടങ്ങൾ ഇവയാണ്:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 

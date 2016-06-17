@@ -23,6 +23,10 @@
 <!ENTITY restorepage.windowLabel    "ജാലകം &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "നമുക്ക് പോകാം!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "വിജയിച്ചു!">
@@ -38,6 +42,9 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "നിങ്ങളുടെ ആഡ്-ഓണുകളും യഥേഷ്ടമായി സജ്ജമാക്കിയിരിയ്ക്കുന്നവയും നിക്കം ചെയ്തിരിയ്ക്കുന്നു, ഒപ്പം ബ്രൌസര്‍ സജ്ജീകരണങ്ങളും സ്വതവേയുള്ളവയിലേക്കു് തിരിച്ചു് സജ്ജമാക്കിയിരിയ്ക്കുന്നു. ഇതു് നിങ്ങള്‍ളുടെ പ്രശ്നം പരിഹരിച്ചില്ലെങ്കില്‍,  ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "‌‌">
 
 <!ENTITY welcomeback2.link.pageInfo2        "നിങ്ങൾക്ക് എന്തു ചെയ്യാനാവുമെന്നു കൂടുതലറിയുക.">
