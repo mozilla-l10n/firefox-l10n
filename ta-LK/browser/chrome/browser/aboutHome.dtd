@@ -15,6 +15,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
+<!ENTITY abouthome.defaultSnippet2.v1 "நீங்கள் விரும்பியவாறு எளிதாக உங்கள் Firefox இனைத் தனிபயனாக்கலாம். <a> ஆயிரமாயிரம் செருகல்கள் </a> இதற்கு உதவும்.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName;  ஆனது இலாப நோக்கற்ற Mozilla அறக்கட்டளையின் ஒரு கட்டற்ற திறந்த மூல மென்பொருளாகும். <a>உங்கள் உரிமைகள் எவை?/a>">
 
