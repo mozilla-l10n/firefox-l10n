@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Versoenbare byvoegings gevind">
 <!ENTITY  found.top.label                 "Kies die byvoegings wat u wil installeer:">
-
+<!ENTITY  found.disabledXPinstall.label   "Hierdie byvoegings kan nie geïnstalleer word nie omdat sagteware-installering tans gedeaktiveer is. U kan daardie opstelling hier onder verander.">
 <!ENTITY  found.enableXPInstall.label     "Laat webwerwe toe om sagteware te installeer">
 <!ENTITY  found.enableXPInstall.accesskey "L">
 

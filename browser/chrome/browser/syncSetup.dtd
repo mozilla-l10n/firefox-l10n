@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;-opsteller">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "Welkom! As u nog nooit &syncBrand.fullName.label; gebruik het nie, moet u 'n nuwe rekening opstel.">
 <!ENTITY button.createNewAccount.label "Skep 'n nuwe rekening">
 <!ENTITY button.haveAccount.label      "Ek het 'n rekening">
 
 <!ENTITY setup.choicePage.title.label     "Het u &syncBrand.fullName.label; tevore gebruik?">
-
-
+<!ENTITY setup.choicePage.new.label       "Ek het nog nooit &syncBrand.shortName.label; tevore gebruik nie">
+<!ENTITY setup.choicePage.existing2.label "Ek gebruik reeds &syncBrand.shortName.label; op 'n ander toestel">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Bediener">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "Assosieer 'n toestel">
 <!ENTITY addDevice.showMeHow.label          "Wys my hoe.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "Ek het nie 'n toestel by my nie">
 <!ENTITY pairDevice.setup.description.label  "Om te aktiveer, kies &quot;Assosieer &apos;n toestel&quot; op die ander toestel.">
 <!ENTITY addDevice.setup.enterCode.label    "Tik dan hierdie kode in:">
 <!ENTITY pairDevice.dialog.description.label "Om die nuwe toestel te aktiveer, kies &quot;Stel Sync op&quot; op die toestel.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "Byvoegings">
 <!ENTITY engine.addons.accesskey    "B">
 
+<!ENTITY choice2a.merge.main.label       "Voeg hierdie toestel se data saam met my &syncBrand.shortName.label;-data">
 <!ENTITY choice2.merge.recommended.label "Aanbevole:">
 <!ENTITY choice2a.client.main.label      "Vervang alle data op hierdie toestel met my &syncBrand.shortName.label;-data">
-
+<!ENTITY choice2a.server.main.label      "Vervang alle ander toestelle met hierdie toestel se data">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Bevestig">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; sal nou al hierdie toestel se blaaier se data met jou Sync-rekening saamvoeg.">
 <!ENTITY confirm.client3.label         "Let wel: Die volgende &brandShortName;-data op hierdie toestel sal geskrap word:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; sal dan die &syncBrand.fullName.label;-data na hierdie toestel kopieer.">
 <!ENTITY confirm.server2.label         "Let wel: Die volgende toestelle sal met jou plaaslike data oorheengeskryf word:">
