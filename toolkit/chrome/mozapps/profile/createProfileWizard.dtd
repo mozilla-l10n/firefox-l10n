@@ -7,7 +7,7 @@
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; składujo informacije wó wašych nastajenjach a preferencach we wašom wósobinskem profilu.">
-
+<!ENTITY profileCreationExplanation_2.text  "Jolic wužywaśo toś tu kopiju &brandShortName; zgromadnje z drugimi wužywarjami, móžośo rozdźelne profile wužywaś, aby informacije kuždego wužywarja rozdźělone źaržał. Za to by dejał kuždy wužywaŕ swój profil załožyś.">
 <!ENTITY profileCreationExplanation_3.text  "Jolic sćo jadnučka wósoba, kótaraž wužywa toś tu kopiju &brandShortName;, musyśo nanejmjenjej jaden profil měś. Jolic cośo, móžośo někotare profile za sebje załožyś, aby rozdźělne kupki nastajenjow a preference składował. Na pśikład cośo snaź separatne profile za pówołańske a priwatne wužywanje měś.">
 <!ENTITY profileCreationExplanation_4.text  "Aby swój profil załožył, klikniśo na Dalej.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Aby swój profil załožył, klikniśo na Pókšacowaś.">

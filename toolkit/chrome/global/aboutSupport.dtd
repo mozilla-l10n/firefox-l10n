@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Informacije za rozwězowanje problemow">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  Toś ten bok wopśimujo techniske informacije, kótarež by mógli wužytne byś, gaž wopytujośo problem rozwězaś. Jolic pytaśo za wótegronami za zwucone pšašanja wó &brandShortName;, woglědajśo k našomu <a id='supportLink'>pódpěrańskemu websydłoju</a>.">
+
 <!ENTITY aboutSupport.crashes.title "Rozpšawy wowalenjow">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
@@ -50,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsOS "Źěłowy system">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Wužyty składowak">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Wugbaśe">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Zregistrěrowane &quot;service workers&quot;">
@@ -84,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "Datowa banka Places">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integrita">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Integritu pśeglědowaś">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Inkrementelny GC">
@@ -112,6 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Protokol njewuspěchow">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Protokol rozsuźenja">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funkcije, kótarež su se wót wowaleńskego stražnika znjemóžnili">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Nuzowe rozwězanja">
