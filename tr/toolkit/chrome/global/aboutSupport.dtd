@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Kullanıcı aracı">
 <!ENTITY aboutSupport.appBasicsOS "İşletim sistemi">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Bellek kullanımı">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Performans">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Kayıtlı Service Worker'lar">
@@ -86,8 +86,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafikler">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Bütünlük">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Bütünlüğü doğrula">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Artırımlı GC">
