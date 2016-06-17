@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.title                 "Συγχρονισμός">
 <!ENTITY sync.notconnected          "Χωρίς σύνδεση">
 <!ENTITY sync.connect               "Σύνδεση">
 <!ENTITY sync.connected             "Συνδεδεμένο">
@@ -12,13 +12,20 @@
 <!ENTITY sync.syncNow               "Sync Τώρα">
 
 <!ENTITY sync.setup.title           "Σύνδεση στο Sync">
+<!ENTITY sync.setup.pair            "Για να ενεργοποίηση, επιλέξτε τη &#x0022;Σύζευξη με συσκευή&#x0022; στην άλλη συσκευή σας.">
 <!ENTITY sync.fallback              "Δεν είμαι κοντά στον υπολογιστή μου…">
 <!ENTITY sync.setup.manual          "Εισάγετε τις πληροφορίες λογαριασμού σας στο Sync">
 <!ENTITY sync.account               "Όνομα λογαριασμού">
 <!ENTITY sync.password              "Κωδικός">
+<!ENTITY sync.recoveryKey           "Κλειδί ανάκτησης">
 <!ENTITY sync.customServer          "Χρήση προσαρμοσμένου εξυπηρετητή">
 <!ENTITY sync.serverURL             "URL  εξυπηρετητή">
 <!ENTITY sync.setup.connect         "Σύνδεση">
 <!ENTITY sync.setup.cancel          "Ακύρωση">
 <!ENTITY sync.setup.tutorial        "Δείξτε μου πως">
+<!ENTITY sync.setup.waiting2        "Αναμονή για την άλλη συσκευή…">
 
+<!ENTITY sync.pair.title            "Σύζευξη με συσκευή">
+<!ENTITY sync.pair.description      "Για ενεργοποίηση της νέα σας συσκευής, επιλέξτε τη &#x0022;Ρύθμιση του Συγχρονισμού&#x0022; στη συσκευή.">
+<!ENTITY sync.setup.close           "Κλείσιμο">
+<!ENTITY sync.setup.waitingdownload "Τα δεδομένα σας μεταφορτώνονται στο παρασκήνιο. Μπορείτε να κλείσετε αυτό το παράθυρο ανά πάσα στιγμή.">
