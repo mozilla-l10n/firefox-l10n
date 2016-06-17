@@ -110,7 +110,7 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Nid yw cysylltiad diogel i <span id='wrongSystemTime_URL'/> yn bosib gan fod eich cloc i weld yn dangos yr amser yn anghywir.</p> <p>Mae eich cyfrifiadur yn meddwl mai <span id='wrongSystemTime_systemDate'/>, yw hi, pan ddylai fod yn <span id='wrongSystemTime_actualDate'/>. I ddatrys  yr anhawster, newidiwch eich gosodiadau dyddiad ac amser i'w cydweddu â'r amser cywir.</p>">
+<!ENTITY certerror.wrongSystemTime "<p>Nid yw cysylltiad diogel i <span id='wrongSystemTime_URL'/> yn bosib gan fod eich cloc i weld yn dangos yr amser yn anghywir.</p> <p>Mae eich cyfrifiadur yn meddwl mai <span id='wrongSystemTime_systemDate'/>, yw hi, pan ddylai fod yn <span id='wrongSystemTime_actualDate'/>. I ddatrys yr anhawster, newidiwch eich gosodiadau dyddiad ac amser i'w cydweddu â'r amser cywir.</p>">
 
 <!ENTITY certerror.pagetitle1  "Cysylltiad Anniogel">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Mae'r wefan hon yn defnyddio HTTP Strict Transport Security (HSTS) i bennu fod &brandShortName; yn unig yn cysylltu iddo'n ddiogel. O ganlyniad, nid yw'n bosib ychwanegu eithriad ar gyfer y dystysgrif hon.">
