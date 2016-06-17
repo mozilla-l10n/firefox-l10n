@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "सार्भारखौ मोनाखै">
-
+<!ENTITY dnsNotFound.longDesc "<ul> <li>गोरोन्थि टाइप जानाय थंखौ आनजाद खालाम, जेरै- <strong>www</strong>.example.com नि सोलायै<strong>ww</strong>.example.com</li> जायोब्ला।<li>नोंथाङा जायखि जाया बिलाइखौ ल'ड खालामनो हायाखैब्ला, नोंथांनि कम्पुटारनि नेटवार्क फोनांजाबखौआनजाद खालाम।</li> नोंथांनि कम्पुटार एबा नेटवार्कआ फायारवाल एबा प्रक्सिजों रैखाथि खालामजायोब्ला &brandShortName; खौ वेब हाबहोनो गनायथि होनाय जायो नामा रोखा खालाम।</ul>">
 
 <!ENTITY fileNotFound.title "फाइलखौ मोनाखै">
 <!ENTITY fileNotFound.longDesc "<ul> <li>गेदेर हांखो एबा गुबुन टाइपिं गोरोन्थिनि थाखाय फाइल मुंखौ आनजाद खालाम।</li> <li>फाइलखौ लोरिहोबाय, फिन मुं होनाय एबा खोमोरबाय नामा नायनो थाखाय आनजाद खालाम।</li> </ul>">
@@ -27,15 +27,16 @@
 
 
 <!ENTITY generic.title "हाय">
+<!ENTITY generic.longDesc "<p>माखासे जाहोननि थाखाय &brandShortName; आ बिलाइखौ ल'ड खालामनो हाया।</p>">
 
-
-
+<!ENTITY malformedURI.title "थंआ बाहाय जाथाव नङा">
+<!ENTITY malformedURI.longDesc "<ul> <li>वेब थंखौ सरासनस्रायै http://www.example.com/ बादि <strong> लिरनाय जायो।</strong></li> <li>नोंथाङा फरवार्ड (सिंगांथिं) स्लेस (जेरै- <strong>/</strong>) खौ बाहायगासिनो दं नामा रोखा खालाम।</li> </ul>">
 
 <!ENTITY netInterrupt.title "फोनांजाबआ हेंथा होजाबाय">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "फोरमान बिलाइ मेयाद बारबाय">
-
+<!ENTITY notCached.longDesc "<p>खावलायखानाय फोरमान बिलाइआ &brandShortName;नि केछआव गैया।</p><ul><li>रैखाथिनि आगु-सांग्रां महरै, &brandShortName; आ बदगोनां फोरमान बिलाइखौ गावनो गाव महरै फिन-खावलाया।</li><li>फोरमान बिलाइखौ वेबसाइट निफ्राय फिन-खावलायनो फिन नाजा-खौ क्लिक खालाम।</li></ul>">
 
 <!ENTITY netOffline.title "अफलाइन म'ड">
 <!ENTITY netOffline.longDesc2 "<ul> <li>अनलाइन म&apos;डआव थांनो &quot;फिन नाजा&quot; खौ नारसिन आरो बिलाइखौ फिन ल&apos;ड खालाम।</li> </ul>">
@@ -52,6 +53,7 @@
 <!ENTITY netTimeout.title "फोनांजाबआ सम बारबाय">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "थंखौ बुजिनो मोनाखिसै">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>नोंथाङा बे थंखौ खेवनो गुबुन सफ्टवेयारखौ इनष्टल खालामनांगोन जानांगौ।</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "प्रक्सि सार्भारआ फोनांजाबखौ नेवसिगार गासिनो दङ">
@@ -60,6 +62,7 @@
 <!ENTITY proxyResolveFailure.title "प्रक्सि सार्भारखौ नागिरना दिहुननो हायाखै">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>प्रक्सि सेटिंआ गेबें नामा रोखा खालामनो बेफोरखौ आनजाद खालाम।</li> <li>नोंथांनि कम्पुटारहा मोनसे खामानि मावनाय नेटवार्क फोनांजाब दं नामा रोखा खालामनो आनजाद खालाम।</li> <li>नोंथांनि कम्पुटार एबा नेटवार्कआ फायारवाल एबा प्रक्सिजों रैखाथि खालामजायोब्ला&brandShortName; खौ वेब हाबहोनो गनायथि होनाय जायो नामा रोखा खालाम।</li> </ul>">
 
+<!ENTITY redirectLoop.title "बिलाइआ मोजाङै फिन बिथोन होयाखै">
 <!ENTITY redirectLoop.longDesc "<ul> <li>बे जेंनाया माब्लाबा माब्लाबा कुकिखौ आजावनाय एबा नेवसिनायनि थाखायजानो हागौ।</li> </ul>">
 
 <!ENTITY unknownSocketType.title "सार्भार निफ्राय मिजिंथियै फिननाय           ">
@@ -71,6 +74,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY sharedLongDesc "<ul> <li>साइटआ दसेनि थाखाय मोननो हाथाव जानो हागौ एबा जोबोद मुखुब जानो हागौ।दसेनि उनाव फिन नाजा।</li> <li>नोंथाङा जायखि जाया बिलाइखौ ल'ड खालामनो हायाखैब्ला, नोंथांनि कम्पुटारनि नेटवार्क फोनांजाबखौआनजाद खालाम।</li> <li>नोंथांनि कम्पुटार एबा नेटवार्कआ फायारवाल एबा प्रक्सिजों रैखाथि खालामजायोब्ला &brandShortName; खौ वेब हाबहोनो गनायथि होनाय जायो नामा रोखा खालाम।</li> </ul>">
 
 <!ENTITY cspBlocked.title "गोजोननाय रैखाथि पलिसिजों हेंथा होजाबाय">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; आ बे बिलाइखौ बेबाइदि ल'ड खालामनाय निफ्राय हेंथा होबाय मानोना बिलाइहा मोनसे थानाय-आयदा रैखाथि पलिसि दं जाय बेखौ गनायथिगैयै खालामो।</p>">

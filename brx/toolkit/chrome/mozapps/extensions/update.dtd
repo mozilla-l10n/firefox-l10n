@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "गोरोबथि गोनां Add-ons मोनबाय">
 <!ENTITY  found.top.label                 "नोंथाङा इनष्टल खालामनो लुबैनाय add-ons खौ सायख:">
-
+<!ENTITY  found.disabledXPinstall.label   "बेफोर आपडेटखौ इनष्टल खालामनो हाया मानोना सफ्टवेयार इनष्टलेसनआ दासान्दिलोरबां खालामजानाय। नोंथाङा गाहायनि बे सेटिंखौ सोलायनो हायो।">
 <!ENTITY  found.enableXPInstall.label     "सफ्टवेयारखौ इनष्टल खालामनो वेबसाइटफोरखौ गनायथि हो (A)">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
