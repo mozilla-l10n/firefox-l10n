@@ -20,7 +20,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "क्लिक गर्नुहोस्">
-
+<!ENTITY canvasDebuggerUI.emptyNotice2    "फ्रेमको स्ट्याक कल रेकर्ड गर्न बटनमा">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 

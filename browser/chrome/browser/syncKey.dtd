@@ -5,12 +5,12 @@
 <!ENTITY syncKey.page.title               "तपाईँको &syncBrand.fullName.label; साँचो">
 <!ENTITY syncKey.page.description2        "यो कि तपार्इँको &syncBrand.fullName.label; खातामा रहेको डाटा विसंकेतन गर्न प्रयोग गरिन्छ। तपाईँले प्रत्येक पटक &syncBrand.fullName.label; नया उपकरणमा मिलाउँदा, यो कि दर्ज गर्नुपर्ने हुन्छ।">
 <!ENTITY syncKey.keepItSecret.heading     "यसलाई गुप्त राख्नुहोस्">
-
+<!ENTITY syncKey.keepItSecret.description "तपाईँको गोपनीयताको रक्षा गर्नकालागि तपाईँको &syncBrand.fullName.label; खाता गुप्तिकरण गरिएको छ। यो कि बिना, कसैलाई पनि तपाईँको व्यक्तिगत जानकारी विसंकेतन गर्न वर्षौँ लाग्छ। यो कि हुने तापाईँ एकमात्र व्यक्ति हो। यसको अर्थ तपाईँमात्र आफ्नो &syncBrand.fullName.label; डाटा उपयोग गर्नसक्नु हुन्छ।">
 <!ENTITY syncKey.keepItSafe.heading       "यसलाई सुरक्षित राख्नुहोस्">
 <!ENTITY syncKey.keepItSafe1.description  "यो कुञ्जी नहराउनुहोस् ।">
 <!ENTITY syncKey.keepItSafe2.description  " हामी तपाईँको साँचोको प्रतिलिपि राख्ने छैनौँ (किनभने त्यो गोप्य रहदैन!) त्यसैले ">
-
-
+<!ENTITY syncKey.keepItSafe3.description  "हामी तपाईँलाई त्यो पुनर्प्राप्त गर्न मदत गर्न सक्दैनौँ">
+<!ENTITY syncKey.keepItSafe4a.description "यदि यो हराएको खण्डमा, तपाईँले यो कि कुनै पनि समय नयाँ उपकरण &syncBrand.fullName.label;मा जडान गर्दा प्रयोग गर्नुपर्ने हुन्छ।">
 <!ENTITY syncKey.findOutMore1.label       "&syncBrand.fullName.label; र तपाईँको गोपनीयता बारेमा अझै यहाँ जान्नुहोस् ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; सेवा सर्तहरू यहाँ उपलब्ध छन् ">

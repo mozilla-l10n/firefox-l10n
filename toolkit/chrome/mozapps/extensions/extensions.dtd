@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "लोड हुँदैछ…">
-
+<!ENTITY listEmpty.installed.label            "तपाईँले यस प्रकारको कुनै पनि एड-अन स्थापना गर्नुभएको छैन">
 <!ENTITY listEmpty.availableUpdates.label     "कुनै अद्यावधि फेला परेन">
-
+<!ENTITY listEmpty.recentUpdates.label        "तपाईँले हालै कुनै पनि एड-अनहरू स्थापना गर्नु भएको छैन">
 <!ENTITY listEmpty.findUpdates.label          "अद्यावधिकहरूका लागि जाँच गर्नुहोस्">
 <!ENTITY listEmpty.search.label               "कुनै पनि मिल्ने एड-अन पाइएन">
 <!ENTITY listEmpty.button.label               "एड-अन बारेमा थप जान्नुहोस्">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "हटाउनुहोस्">
 <!ENTITY cmd.uninstallAddon.accesskey         "ह">
 <!ENTITY cmd.showPreferencesWin.label         "विकल्पहरू">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "यस एड-अनका विकल्पहरू बदल्नुहोस्">
 <!ENTITY cmd.showPreferencesUnix.label        "प्राथमिकताहरू">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "यस एड-अनका प्राथमिकताहरू बदल्नुहोस्">
 <!ENTITY cmd.contribute.label                 "योगदान गर्नुहोस्">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "यो एड-अनको विकासमा योगदान दिनुहोस्">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "एड-अनहरू के हो ?">
 <!ENTITY discover.description2                "एड-अनहरू तपाईंलाई अतिरिक्त कार्यक्षमता वा शैलीमा &brandShortName;  लाई व्यक्तिगत बनाउने अनुप्रयोगहरू हुन्।  &brandShortName; लाई  आफ्नै बनाउन समय-बचत ट्याब, मौसम नोटिफायर, वा आवरण हाल्न प्रयास गर्नुहोस्।">
-
+<!ENTITY discover.footer                      "तपाईं इन्टरनेटमा जोडिएको बेला, यस पेनले  तपाईंलाई प्रयास गर्नको लागि सर्वोत्तम र सबैभन्दा लोकप्रिय एड-अनहरू प्रदर्शन गर्नेछ।">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "संस्करण">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "स्वतः अद्यावधि">
 <!ENTITY detail.updateDefault.label           "पूर्वनिर्धारित">
-
+<!ENTITY detail.updateDefault.tooltip         "यदि पूर्वनिर्धारित हो भने मात्र अद्यावधिहरू स्वतः स्थापना गर्नुहोस्">
 <!ENTITY detail.updateAutomatic.label         "खुल्ला">
 <!ENTITY detail.updateAutomatic.tooltip       "अद्यावधिहरू स्वतः इन्स्टल गर्नुहोस्">
 <!ENTITY detail.updateManual.label            "बंन्द गर्नुहोस्">
-
+<!ENTITY detail.updateManual.tooltip          "स्वचालित अद्यावधिक स्थापना नगर्नुहोस्">
 <!ENTITY detail.home                          "गृहपृष्ठ">
 <!ENTITY detail.repository                    "एड-अन प्रोफाइल">
 <!ENTITY detail.size                          "साइज">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "यो एड-अनको लागि अद्यावधिकहरू जाँच गर्नुहोस्">
 <!ENTITY detail.showPreferencesWin.label      "विकल्पहरू">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "यस एड-अनका विकल्पहरू बदल्नुहोस्">
 <!ENTITY detail.showPreferencesUnix.label     "प्राथमिकताहरू">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "यस एड-अनका प्राथमिकताहरू बदल्नुहोस्">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "यो के हो? Telemetry ले समय समयमा स्थापना र विभिन्न प्रयोगहरू गर्न सक्छ।">
 <!ENTITY experiment.info.learnmore "अझ जान्नुहोस्">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "टेलिमेट्री सेटिङ्">
