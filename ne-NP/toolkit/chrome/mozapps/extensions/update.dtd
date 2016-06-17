@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "समर्थित एड-अनहरू भेटिए">
 <!ENTITY  found.top.label                 "स्थापना गर्न चाहनुभएको एड-अनहरू छान्नुहोस्:">
-
+<!ENTITY  found.disabledXPinstall.label   "यी अद्यावधिक स्थापित गर्न सकिँदैन, किनभने सफ्टवेयर स्थापना हाल अक्षम गरिएको छ।  तपाईं तल दिइएको यो सेटिङ परिवर्तन गर्न सक्नुहुन्छ।">
 <!ENTITY  found.enableXPInstall.label     "Allow web sites to install software">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 

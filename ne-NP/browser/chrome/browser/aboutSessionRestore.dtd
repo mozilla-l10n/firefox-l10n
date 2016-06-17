@@ -23,6 +23,10 @@
 <!ENTITY restorepage.windowLabel    "सञ्झ्याल &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "जाऔँ !">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "सफलता!">
@@ -38,6 +42,9 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "तपाईँको एड-अनहरू र अनुकूलनहरू हटाइएको छ र तपाईँको ब्राउजरको पुर्वनिर्धारित सेटिङहरू पुनर्स्थापना गरिएको छ। यदि यसले तपाईँको समस्याको समाधान गरेन भने, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   ";">
 
 <!ENTITY welcomeback2.link.pageInfo2        "तपाईँ के गर्न सक्नुहुन्छ अझ बढी जान्नुहोस् ।">
@@ -45,9 +52,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "आफ्नो अन्य ट्याब समूहमा स्थानान्तरण गर्नुहोस्">
-
+<!ENTITY tabgroupsmigration.pagetitle2          "हामीले ट्याब समूह हटायौँ, तपाईँको ट्याबहरू सुरक्षित गरिसकेका छौं">
 <!ENTITY tabgroupsmigration.learnaboutaddons    "ट्याब समूह प्रतिस्थापन एड-अन बारे जान्नुहोस्।">
-
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; ले तपाईँको सबै समुह पुस्तकचिनो गरेकोले तपाईँले केहि गुमाउनुभएको छैन।">
 <!ENTITY tabgroupsmigration.bookmarkbutton      "पुस्तक चिन्हित् ट्याब समूह देखाउनुहोस्">
 <!ENTITY tabgroupsmigration.restoredescription  "तपाईं पनि अब Windows मा केही वा सबै पृष्ठभूमीको समूह पुनर्स्थापना रोज्न सक्नुहुन्छ:">
 

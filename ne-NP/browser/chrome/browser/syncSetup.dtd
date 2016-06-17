@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; स्थापना">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "स्वागतम! तपार्इँले &syncBrand.fullName.label; को प्रयोग कहिले गर्नुभएको छैन भने तपार्इँले एउटा नयाँ खाता खोल्न आवश्यक छ।">
 <!ENTITY button.createNewAccount.label "नयाँ खाता खोल्नुहोस्">
 <!ENTITY button.haveAccount.label      "मसँग एउटा खाता छ">
 
 <!ENTITY setup.choicePage.title.label     "के तपाईँले यस अघि &syncBrand.fullName.label; प्रयोग गर्नुभएको छ?">
-
-
+<!ENTITY setup.choicePage.new.label       "मैले पहिले &syncBrand.shortName.label; कहिल्यै प्रयोग गरेको छैन">
+<!ENTITY setup.choicePage.existing2.label "म पहिले नै अर्को उपकरणमा &syncBrand.shortName.label; प्रयोग गर्छु">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "सर्भर">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "साधनसँग सम्बन्धन कायम गर्नुहोस्">
 <!ENTITY addDevice.showMeHow.label          "कसरी मलाई देखाउनुहोस्।">
-
+<!ENTITY addDevice.dontHaveDevice.label     "मेरो साथमा उपकरण छैन">
 <!ENTITY pairDevice.setup.description.label  "सक्रिय गर्नका निमित्त तपाईको अर्को उपकरणमा &quot;पेयर अ डिभाईस&quot; सेलेक्ट गर्नुहोस।">
 <!ENTITY addDevice.setup.enterCode.label    "त्यसपछि, यो कोड प्रविष्ट गर्नुहोस्:">
 <!ENTITY pairDevice.dialog.description.label "तपाईँको नयाँ उपकरण सक्रिय गराउन, उपकरणमा &quot;सिङ्क सेट अप&quot; चयन गर्नुहोस्।">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "एड-अन">
 <!ENTITY engine.addons.accesskey    "A">
 
+<!ENTITY choice2a.merge.main.label       "मेरो &syncBrand.shortName.label; डेटा यो उपकरणको डेटासँग मर्ज गर्नुहोस्">
 <!ENTITY choice2.merge.recommended.label "सिफारिश गरिएको:">
 <!ENTITY choice2a.client.main.label      "यो उपकरणको डेटासँग मेरो &syncBrand.shortName.label; डेटा बदल्नुहोस्">
-
+<!ENTITY choice2a.server.main.label      "यो उपकरणको डाटा सबै अन्य उपकरणहरू बदल्नुहोस्">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "पुष्टि गर्नुहोस्">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; ले अब तपाईंको सिङ्क खातामा सबै उपकरणको ब्राउजर डाटा मर्ज गर्नेछ।">
 <!ENTITY confirm.client3.label         "चेतावनी: यस उपकरणमा निम्न &brandShortName; डाटा  मेटिने छ:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; ले त्यसपछि यो उपकरणमा तपाईँको &syncBrand.fullName.label; डाटा प्रतिलिपि गर्नेछ।">
 <!ENTITY confirm.server2.label         "चेतावनी: निम्न उपकरणहरूमा तपाईँको स्थानीय डाटा अधिलेखित गरिनेछ:">
