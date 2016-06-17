@@ -110,7 +110,7 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Wěsty zwisk z <span id='wrongSystemTime_URL'/> móžno njeje, dokelž waš časnik po zdaću wopačny čas pokazuje.</p> <p>Waš ličak mysli, zo je <span id='wrongSystemTime_systemDate'/>, byrnjež <span id='wrongSystemTime_actualDate'/> było. Zo byšće tutón problem rozrisał, změńće swój datumowe a časowe nastajenja, zo byšće korektny čas nastajił.</p>">
+<!ENTITY certerror.wrongSystemTime "<p>Wěsty zwisk z <span id='wrongSystemTime_URL'/> móžno njeje, dokelž waš časnik po zdaću wopačny čas pokazuje.</p> <p>Waš ličak mysli, zo je <span id='wrongSystemTime_systemDate'/>, byrnjež <span id='wrongSystemTime_actualDate'/> było. Zo byšće tutón problem rozrisał, změńće swoje datumowe a časowe nastajenja, zo byšće korektny čas nastajił.</p>">
 
 <!ENTITY certerror.pagetitle1  "Njewěsty zwisk">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tute sydło wužiwa HTTP Strict Transport Security (HSTS), zo by podało, zo &brandShortName; ma jenož wěsće z nim zwjazać. Potajkim njeje móžno wuwzaće za tutón certifikat přidać.">
