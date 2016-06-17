@@ -8,7 +8,7 @@
 
 
 <!ENTITY connectionFailure.title "ချိတ်ဆက်မှု မအောင်မြင်ပါ">
-
+<!ENTITY connectionFailure.longDesc "<p>Though the site seems valid, the browser was unable to establish a connection.</p><ul><li>Could the site be temporarily unavailable? Try again later.</li><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "လုံခြုံရေး ကိစ္စများကြောင့်တားမြစ်ထားတဲ့ Port">
 <!ENTITY deniedPortAccess.longDesc "<p>ဖွင့်ကြည့်လိုသောလိပ်စာသည် Port တစ်ခုအား ညွှန်းနေသည် (ဥပမာ <q>mozilla.org:80</q> သည် port 80ဖြင့်မော်ဇီလာဝတ်ဆိုဒ်အားဖွင့်ရန်ဖြစ်ပြီး) များသောအားဖြင့်၎င်းသည် ဝတ်ဆိုဒ်ကြည့်ရှူခြင်းထက်<em>ပိုသော</em>အသုံးချခြင်းအတွက်သုံးသည်။ဘယောင်ဆာသည်သင်၏ တောင်းဆိုလိပ်စာအား လုံခြုံရေးနှင့်စိတ်ချရရေးအတွက်ပြုလုပ်မပေးနိုင်ပါ</p>">
@@ -28,10 +28,10 @@
 <!ENTITY malformedURI.longDesc "<p>ပေးထားသောလိပ်စာသည်သတ်မှတ်ထားသော ပုံစံမျိုးဖြင့်မဟုတ်ပါ။ကျေးဇူးပြုပြီးတည်နေရာပြဘားအားအမှားများရှာရန်အတွက်စစ်ဆေးပါ</p>">
 
 <!ENTITY netInterrupt.title "ဒေတာ အလွှဲအ​ပြောင်း အဟန့်အတား ရှိတယ်">
-
+<!ENTITY netInterrupt.longDesc "<p>ဘယောင်ဆာသည်အောင်မြင်စွာချိတ်ဆက်သွားနိုင်သော်လည်းအချက်အလက်များ ကူးပြောင်းယူနေစဉ်အတွင်းချိတ်ဆက်မှူနှောက်ယှက်ခံရသည်။ကျေးဇူးပြုပြီးထပ်လုပ်ပါ</p><ul><li>ဝတ်ဆိုက်အားကြည့်ရှူမရပါကသင်၏ကွန်ပျူတာ နက်ဝပ်ချိတ်ဆက်မှူအားစစ်ဆေးကြည့်ပါ</li><li>ပြသာနကြုံနေဆဲလား။ကျေးဇူးပြုပြီးသင်၏နက်ဝပ် အတ်ဒမင်သို့မဟုတ်အင်တာနက်ဆားဗစ်ပေးသူထံသို့အကူအညီတောင်းဆိုပါ</li></ul>">
 
 <!ENTITY notCached.title "ဒေါ့ကုမန့်အကျိုးသက်ရောက်ရက်ကျော်လွန်ပြီး">
-
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "အော့ဖ်လိုင်း စနစ်">
 <!ENTITY netOffline.longDesc2 "<p>ဘယောင်ဆာသည်အင်တာနက်မဲ့အခြေအနေဖြင့်လုပ်ဆောင်နေသဖြင့်တောင်းဆိုထားသောအရာအားမရယူနိုင်ပါ။</p><ul><li>ဤကွန်ပျူတာအား ကွန်ယက်တစ်ခုသို့ချိတ်ဆက်ထားပါသလား။</li><li>&quot;Try Again&quot; အားနှိပ်ပြီး ချိတ်ဆက်လုပ်ဆောင်မှူစတင်ပြီးစာမျက်နှာအားပြန်ခေါ်ပါ။</li></ul>">
@@ -46,19 +46,19 @@
 <!ENTITY netReset.longDesc "<p>ဆက်သွယ်ရေးလိုင်း တခု တည်ဆောက်နေစဉ် ကွန်ရက် အချိတ်အဆက် အဟန့်အတား ရှိနေတယ်။ ထပ်ကြိုးစားကြည့်ပါ။</p>">
 
 <!ENTITY netTimeout.title "ကွန်ရက် အချိန်စေ့သွားပြီ">
-
+<!ENTITY netTimeout.longDesc "<p>တောင်းဆိုထားသောစာမျက်နှာသည် ဘယောင်ဆာမှ တုန့်ပြန်မှူစောင့်နေရင်းချိတ်ဆက်မှူပြုတ်သွားသောကြောင့် ရယူနိုင်ခြင်းမရှိပါ။</p><ul><li>ဆာဗာများတောင်းဆိုမှူများနေသောကြောင့်လေးလံနေခြင်းများလား ? နောက်ထပ် ထပ်ပြီးတော့ကြိုးစားကြည့်ပါ။</li><li>အခြားဝတ်ဆိုက်များအားကြည့်ရှူလို့ရပါသလား?မရပါက ကွန်ပျူတာ ချိတ်ဆက်မှူကို စစ်ဆေးကြည့်ပါ။</li><li>သင့်ကွန်ပျူတာအား ဖိုင်းယားဝေါသို့တစ်ခုခုဖြင့်ကာကွယ်ထားပါသလား?သို့အင်တာနက်ကြည့်ရှူအပြင်အဆင်မှားယွင်းနေပါသလား။</li><li>ဆက်ပြီးပြသာနက်တွေ့နေရပါသေးလား?သင့်ချိတ်ဆက်မှူကွန်ယက်ထိန်းချုပ်သူအား အကြောင်းကြားခြင်းသို့အင်တာနက်ဆားဗစ်ပေးသူအားဆက်သွယ်ခြင်းပြုလုပ်ပါ။</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "အမျိုးအမည်မသိတဲ့ ပရိုတိုကိုးလ်">
 <!ENTITY unknownProtocolFound.longDesc "<p>လိပ်စာသည်ပရိုတိုကောအတိအကျ(e.g. <q>wxyz://</q>)အား မသတ်မှတ်ထားပါ ထို့ကြောင့်ဘယောင်ဆာသည်ဝတ်ဆိုက်အားကောင်းစွာမချိတ်ဆက်နိုင်ပါ။</p><ul><li>သင်အခြားမီဒီယာတွေ စာမပါ ဆားဗစ်တွေအား တောင်းဆိုနေတာလား ? ဝတ်ဆိုက်အားအခြားလိုအပ်ချက်များအတွက်စစ်ဆေးပါ။</li><li>အချို့သောပရိုတိုကောများသည် Third-party ဆော့ဝဲများထည့်သွင်းပြီးမှ ဘယောက်ဆာတွင်အလုပ်လုပ်နိုင်မည်ဖြစ်သည်။</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "ပရောက်စီ ဆာဗာမှ ဆက်သွယ်ရေးလိုင်း ပိတ်ထားတယ်">
-
+<!ENTITY proxyConnectFailure.longDesc "<p>ဘယောက်ဆာအားပရောစီဆာဗာသုံးရန်ပြင်ဆင်ထားသော်လည်းချိတ်ဆက်မှူငြင်းဆိုနေပါသည်။</p><ul><li>ပရောဆီအပြင်အဆင်မှားနေသလား?အပြင်အဆင်အားနောက်တစ်ကြိမ်ထပ်ကြိုးစားကြည့်ပါ။</li><li>ပရောဆီဆားဗစ်သည်ကွန်ယက်အားချိတ်ဆက်ထားပါသလား?</li><li>ပြသာနာဆက်တွေ့သေးပါလား?သင့်အင်တာနက်ဆားဗစ်ပေးသူအားဆက်သွယ်ပါ။</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "ပရောက်စီ ဆာဗာ မတွေ့ရပါ">
-
+<!ENTITY proxyResolveFailure.longDesc "<p>ဤဘယောက်ဆာသည် ပရောက်ဆီသုံးရန်ပြုပြင်ထားသော်လည်း ပရောက်ဆီအားရှာမတွေ့ပါ။</p><ul><li>ပရောက်ဆီအပြင်အဆင်တွေမှန်ပါသလား?အပြင်အဆင်များကိုစစ်ဆေးပြီးတစ်ခေါက်ပြန်လုပ်ကြည့်ပါ။</li><li>ကွန်ပျူတာအားကွန်ယက်တစ်ခုသို့ချိတ်ဆက်ထားပါသလား?</li><li>စစ်ဆေးပြီးသော်လည်းအခက်အခဲရှိနေပါကသင်၏ကွန်ယက် ခန့်ခွဲသူထံသို့အကူအညီတောင်းရန်ဆက်သွယ်ပါ။</li></ul>">
 
 <!ENTITY redirectLoop.title "ထပ်ညွှန်း အပြင်အဆင်">
-
+<!ENTITY redirectLoop.longDesc "<p>The browser has stopped trying to retrieve the requested item. The site is redirecting the request in a way that will never complete.</p><ul><li>Have you disabled or blocked cookies required by this site?</li><li><em>NOTE</em>: If accepting the site's cookies does not resolve the problem, it is likely a server configuration issue and not your computer.</li></ul>">
 
 <!ENTITY unknownSocketType.title "မှားယွင်းတဲ့ ​တုံ့ပြန်ချက်">
 <!ENTITY unknownSocketType.longDesc "<p>ဤယခုဝတ်ဆိုဒ်သည်မျှော်လင့်ထားသောနည်းလမ်းဖြင့် ပြန်လည်မတုန့်ပြန်လာသဖြင့်ဘယောက်ဆာမှဆက်လက်မလုပ်ဆောင်နိုင်တော့ပါ။</p>">
@@ -67,7 +67,7 @@
 <!ENTITY nssFailure2.longDesc2 "<p>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>This could be a problem with the server's configuration, or it could be someone trying to impersonate the server.</li> <li>If you have connected to this server successfully in the past, the error may be temporary, and you can try again later.</li> </ul>">
 
 
 
