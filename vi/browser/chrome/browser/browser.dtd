@@ -682,7 +682,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Kết nối của bạn đến trang này không được bảo mật. Thông tin bạn gửi có thể bị thấy bởi người khác (ví dụ như mật khẩu, tin nhắn, thẻ tín dụng).">
 
 <!ENTITY identity.description.weakCipher "Kết nối đến trang này sử dụng mã hóa yếu và không bảo mật.">
-
+<!ENTITY identity.description.weakCipher2 "Người khác có thể thấy thông tin của bạn hoặc thay đổi hành vi của trang.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; đã chặn những phần không an toàn của trang này.">
 <!ENTITY identity.description.passiveLoaded "Kết nối không được bảo mật và thông tin bạn chia sẻ với trang này có thể bị thấy bởi người khác.">
 <!ENTITY identity.description.passiveLoaded2 "Trang web này chứa nội dung không an toàn (ví dụ: ảnh).">

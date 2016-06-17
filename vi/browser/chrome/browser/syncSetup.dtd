@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "Cài đặt &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "Xin chào! Nếu bạn chưa từng sử dụng &syncBrand.fullName.label; trước hết, bạn cần phải tạo một tài khoản mới.">
 <!ENTITY button.createNewAccount.label "Tạo một Tài Khoản Mới">
 <!ENTITY button.haveAccount.label      "Tôi Có Tài Khoản">
 
 <!ENTITY setup.choicePage.title.label     "Bạn đã dùng &syncBrand.fullName.label; trước đây chưa?">
-
-
+<!ENTITY setup.choicePage.new.label       "Tôi chưa bao giờ dùng &syncBrand.shortName.label; trước đây">
+<!ENTITY setup.choicePage.existing2.label "Tôi đang sử dụng &syncBrand.shortName.label; trên thiết bị khác">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Máy chủ">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "Ghép đối thiết bị">
 <!ENTITY addDevice.showMeHow.label          "Chỉ tôi cách làm.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "Tôi không có thiết bị ở đây">
 <!ENTITY pairDevice.setup.description.label  "Để kích hoạt, chọn &quot;Ghép đôi thiết bị&quot; trên thiết bị khác của bạn.">
 <!ENTITY addDevice.setup.enterCode.label    "Rồi nhập mã sau:">
 <!ENTITY pairDevice.dialog.description.label "Để kích hoạt thiết bị mới, chọn &quot;Cài đặt đồng bộ&quot; trên thiết bị.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "Tiện ích">
 <!ENTITY engine.addons.accesskey    "T">
 
+<!ENTITY choice2a.merge.main.label       "Hợp nhất dữ liệu trên thiết bị này với dữ liệu &syncBrand.shortName.label; của tôi">
 <!ENTITY choice2.merge.recommended.label "Khuyên dùng:">
 <!ENTITY choice2a.client.main.label      "Thay thế toàn bộ dữ liệu trên thiết bị này bằng dữ liệu &syncBrand.shortName.label; của tôi">
-
+<!ENTITY choice2a.server.main.label      "Thay thế toàn bộ thiết bị khác với dữ liệu của thiết bị này">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Xác nhận">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; sẽ hợp nhất toàn bộ dữ liệu trình duyệt trên thiết bị này với tài khoản đồng bộ của bạn.">
 <!ENTITY confirm.client3.label         "Cảnh báo: Dữ liệu của &brandShortName; trên thiết bị này sẽ bị xóa:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; sẽ sao chép dữ liệu &syncBrand.fullName.label; của bạn lên thiết bị này.">
 <!ENTITY confirm.server2.label         "Cảnh báo: Các thiết bị sau sẽ bị ghi đè bằng dữ liệu trong máy của bạn:">
