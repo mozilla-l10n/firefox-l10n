@@ -29,6 +29,7 @@
 <!ENTITY generic.title "Ahe.">
 
 
+<!ENTITY malformedURI.title "Aderesi nti yemerewe">
 
 
 <!ENTITY netInterrupt.title "Kwihuza kwaburijwemo">
@@ -49,6 +50,7 @@
 <!ENTITY netTimeout.title "Kwinjira kwarengeje igihe">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Aderesi ntabwo yumvikanye">
 
 
 <!ENTITY proxyConnectFailure.title "Seriveri porogosi yanga abinjira">
@@ -57,6 +59,7 @@
 <!ENTITY proxyResolveFailure.title "Ntibishoboka kubona seriveri porogosi">
 
 
+<!ENTITY redirectLoop.title "Paji ntabwo iri kongera kuyoborwa neza">
 
 
 <!ENTITY unknownSocketType.title "Igisubizo cya seriveri gitunguranye">

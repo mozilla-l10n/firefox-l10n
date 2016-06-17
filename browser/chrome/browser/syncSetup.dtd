@@ -4,10 +4,13 @@
 <!-- First page of the wizard -->
 
 
+<!ENTITY setup.pickSetupType.description2 "Ikaze! Niba utarigeze gukoresha &syncBrand.fullName.label; mbere,uzakenera gufunguza compte nshya.">
+
+
 
 <!ENTITY setup.choicePage.title.label     "Wigeze ukoresha &syncBrand.fullName.label; mbere?">
-
-
+<!ENTITY setup.choicePage.new.label       "Sinigeze nkoresha &syncBrand.shortName.label; mbere">
+<!ENTITY setup.choicePage.existing2.label "Nubundi ndi gukoresha &syncBrand.shortName.label; ku kindi gikoresho">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Seriveri">
@@ -49,7 +52,7 @@
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-
+<!ENTITY addDevice.dontHaveDevice.label     "Nta gikoresho mfite ">
 
 <!ENTITY addDevice.setup.enterCode.label    "Hanyuma,shyiramo zino code">
 
