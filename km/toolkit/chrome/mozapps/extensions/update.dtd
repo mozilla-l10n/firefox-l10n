@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "បាន​រក​ឃើញ​កម្មវិធី​បន្ថែម​ដែល​ឆប​គ្នា">
 <!ENTITY  found.top.label                 "ជ្រើស​កម្មវិធី​បន្ថែម​ដែល​អ្នក​ចង់​ដំឡើង ៖">
-
+<!ENTITY  found.disabledXPinstall.label   "មិន​អាច​ដំឡើង​បច្ចុប្បន្នភាព​ទាំងនេះ​​បាន​ទេ ព្រោះ​ការ​ដំឡើង​កម្មវិធី​បច្ចុប្បន្ន​ ត្រូវ​បាន​បិទ ។ អ្នក​អាច​ផ្លាស់ប្ដូរ​ការ​កំណត់​​នេះ​ខាងក្រោម ។">
 <!ENTITY  found.enableXPInstall.label     "អនុញ្ញាត​ឲ្យ​តំបន់បណ្ដាញ​ដំឡើង​កម្មវិធី">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
