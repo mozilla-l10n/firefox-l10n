@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; સુયોજન">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "તમારું સ્વાગત છે! જો તમે પહેલાં ક્યારેય &syncBrand.fullName.label; વાપર્યું નહિં હોય, તો તમારે નવું ખાતું બનાવવાની જરૂર રહેશે.">
 <!ENTITY button.createNewAccount.label "નવા ખાતાને બનાવો">
 <!ENTITY button.haveAccount.label      "મારી પાસે ખાતું છે">
 
 <!ENTITY setup.choicePage.title.label     "શું તમે પહેલા &syncBrand.fullName.label; ને વાપરેલ છે?">
-
-
+<!ENTITY setup.choicePage.new.label       "મેં કદી પહેલાં &syncBrand.shortName.label; વાપરેલ નથી">
+<!ENTITY setup.choicePage.existing2.label "હું પહેલેથી જ બીજા ઉપકરણ પર &syncBrand.shortName.label; ને વાપરી રહ્યા છે">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "સર્વર">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "ઉપકરણ જોડો">
 <!ENTITY addDevice.showMeHow.label          "મને બતાવો કેવી રીતે થાય છે.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "મારી પાસે અત્યારે ઉપકરણ નથી">
 <!ENTITY pairDevice.setup.description.label  "સક્રિય કરવા માટે, તમારા બીજા ઉપકરણ પર &quot;ઉપકરણ જોડો&quot; પસંદ કરો.">
 <!ENTITY addDevice.setup.enterCode.label    "પછી, આ કોડને દાખલ કરો:">
 <!ENTITY pairDevice.dialog.description.label "તમારું નવું ઉપકરણ સક્રિય કરવા માટે, ઉપકરણ પર &quot;સીંક સુયોજીત કરો&quot; પસંદ કરો.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "ઍડ-ઓન">
 <!ENTITY engine.addons.accesskey    "A">
 
+<!ENTITY choice2a.merge.main.label       "મારી &syncBrand.shortName.label; માહિતી સાથે આ ઉપકરણની માહિતીને ભેગુ કરો">
 <!ENTITY choice2.merge.recommended.label "અગ્રહણીય:">
 <!ENTITY choice2a.client.main.label      "મારી &syncBrand.shortName.label; માહિતી સાથે આ ઉપકરણ પર બધી માહિતીને બદલો">
-
+<!ENTITY choice2a.server.main.label      "ઉપકરણની માહિતી સાથે બધા બીજા ઉપકરણ સાથે બદલો">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "ખાતરી કરો">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; એ તમારાં સીંક ખાતામાં આ ઉપકરણની બ્રાઉઝર માહિતીને બધી ભેગી કરશે.">
 <!ENTITY confirm.client3.label         "ચેતવણી: આ ઉપકરણ પર નીચેની &brandShortName; માહિતીને કાઢી નંખાશે:">
 <!ENTITY confirm.client2.moreinfo.label "આ ઉપકરણમાં &brandShortName; એ  તમારી &syncBrand.fullName.label; માહિતીની નકલ કરશે.">
 <!ENTITY confirm.server2.label         "ચેતવણી: નીચેના ઉપકરણો તમારી સ્થાનિક માહિતી સાથે ઉપર લખાઇ જશે:">

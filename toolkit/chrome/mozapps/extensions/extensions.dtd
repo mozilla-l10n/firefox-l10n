@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "લાવી રહ્યા છે…">
-
+<!ENTITY listEmpty.installed.label            "તમારી પાસે આ પ્રકારનાં સ્થાપિત થયેલ કોઇપણ ઍડ-ઓન નથી">
 <!ENTITY listEmpty.availableUpdates.label     "સુધારાઓ મળ્યા નથી">
-
+<!ENTITY listEmpty.recentUpdates.label        "તમે તાજેતરમાં કોઇપણ ઍડ-ઓનને સુધારેલ નથી">
 <!ENTITY listEmpty.findUpdates.label          "સુધારાઓ માટે ચકાસો">
 <!ENTITY listEmpty.search.label               "કોઇપણ બંધબેસતા ઍડ-ઓનને શોધી શક્યા નહિં">
 <!ENTITY listEmpty.button.label               "ઍડ-ઓન વિશે વધારે શીખો">
@@ -107,9 +107,9 @@
 <!ENTITY cmd.uninstallAddon.label             "દૂર કરો">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "વિકલ્પો">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "આ ઍડ-ઓનનાં વિકલ્પોને બદલો">
 <!ENTITY cmd.showPreferencesUnix.label        "પસંદગીઓ">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "આ ઍડ-ઓનની પસંદગીઓને બદલો">
 <!ENTITY cmd.contribute.label                 "ફાળો આપો">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "આ ઍડ-ઓનનાં વિકાસ માટે ફાળો આપો">
@@ -124,7 +124,7 @@
 
 <!ENTITY discover.title                       "ક્યાં ઍડ-ઓન છે?">
 <!ENTITY discover.description2                "ઍડ-ઑન એવા કાર્યક્રમો છે કે જે તમને &brandShortName; ને વધારાના વિધેયો કે શૈલી સાથે વ્યક્તિગત બનાવવાની પરવાનગી આપે છે. સમય-બચાવ બાજુપટ્ટીનો પ્રયાસ કરી જુઓ, હવામાન સૂચક, અથવા &brandShortName; ને તમારું પોતાનું લાગે એવી થીમવાળું બનાવીને.">
-
+<!ENTITY discover.footer                      "જ્યારે તમે ઇન્ટરનેટ સાથે જોડાવો છે ત્યારે, આ તકતી પ્રયત્ન કરવા માટે તમારી માટે અમુક સારા અને મોટાભાગનાં જાણીતા ઍડ-ઓનનો ગુણધર્મ કરશે.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "આવૃત્તિ">
@@ -137,11 +137,11 @@
 
 <!ENTITY detail.updateType                    "આપોઆપ સુધારાઓ">
 <!ENTITY detail.updateDefault.label           "મૂળભૂત">
-
+<!ENTITY detail.updateDefault.tooltip         "ફક્ત આપમેળે સુધારાઓને સ્થાપિત કરે જો પેલુ મૂળભૂત હોય">
 <!ENTITY detail.updateAutomatic.label         "ચાલુ">
 <!ENTITY detail.updateAutomatic.tooltip       "આપમેળે સુધારાઓને સ્થાપિત કરો">
 <!ENTITY detail.updateManual.label            "બંધ">
-
+<!ENTITY detail.updateManual.tooltip          "આપમેળે સુધારાઓને સ્થાપિત કરો નહિં">
 <!ENTITY detail.home                          "ઘરપાનું">
 <!ENTITY detail.repository                    "ઍડ-ઓન રૂપરેખા">
 <!ENTITY detail.size                          "માપ">
@@ -151,10 +151,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "આ ઍડ-ઓન માટે સુધારાઓ માટે ચકાસો">
 <!ENTITY detail.showPreferencesWin.label      "વિકલ્પો">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "આ ઍડ-ઓનનાં વિકલ્પોને બદલો">
 <!ENTITY detail.showPreferencesUnix.label     "પસંદગીઓ">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "આ ઍડ-ઓનની પસંદગીઓને બદલો">
 <!-- ratings -->
 
 
@@ -223,6 +223,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "આ શું છે? ટેલીમેટ્રી સ્થાપિત થશે અને સમયે સમયે પરીક્ષણો ચલાવશે.">
 <!ENTITY experiment.info.learnmore "વધુ શીખો">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "ટેલીમેટ્રી સેટીંગ">

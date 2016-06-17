@@ -5,6 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "મુશ્કેલીનિવારણ જાણકારી">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.pageSubtitle "  આ પાનું ટૅકનિકલ જાણકારીને સમાવે છે કે જે ઉપયોગી થઇ શકે છે જ્યારે તમે સમસ્યાનો ઉકેલ લાવવાનો પ્રયત્ન કરી રહ્યા હોય. જો તમે &brandShortName; વિશે સામાન્ય પ્રશ્ર્નોનાં જવાબો જોઇ રહ્યા હોય, અમારી &lt;a id='supportLink'>આધાર વેબ સાઇટ&lt;/a> ને ચકાસો.">
+
 <!ENTITY aboutSupport.crashes.title "ભંગાણ અહેવાલો">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
