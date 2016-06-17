@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Se ye cargando…">
-
+<!ENTITY listEmpty.installed.label            "No tiene instalau garra complemento d'ista mena">
 <!ENTITY listEmpty.availableUpdates.label     "No s'ha trobau garra actualización">
-
+<!ENTITY listEmpty.recentUpdates.label        "No ha actualizau recientment garra complemento">
 <!ENTITY listEmpty.findUpdates.label          "Mirar si i hai actualizacions">
 <!ENTITY listEmpty.search.label               "No s'ha puesto trobar garra complemento que cumpla os criterios">
 <!ENTITY listEmpty.button.label               "Trobe más información d'os complementos">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey         "E">
 <!ENTITY cmd.showPreferencesWin.label         "Opcions">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Cambiar as opciones d'iste complemento">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferencias">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Cambiar as preferencias d'iste complemento">
 <!ENTITY cmd.contribute.label                 "Colaborar-ie">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Colaborar en o desembolique d'iste complemento">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Qué son os complementos?">
 <!ENTITY discover.description2                "Os complementos son aplicacions que le permiten personalizar &brandShortName; con funcionalidatz u estilos adicionals. Prebe un panel lateral ta cabidar tiempo, un notificador d'orache u un tema ta fer &brandShortName; mas personal.">
-
+<!ENTITY discover.footer                      "Quan siga connectau a Internet, ista finestra l'amostrará beluns d'os millors y mas populars complementos ta que los prebe.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Versión">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Actualizacions automaticas">
 <!ENTITY detail.updateDefault.label           "Por defecto">
-
+<!ENTITY detail.updateDefault.tooltip         "Instalar automaticament as actualizacions nomás si ixe ye o comportamiento por defecto">
 <!ENTITY detail.updateAutomatic.label         "Enchegadas">
 <!ENTITY detail.updateAutomatic.tooltip       "Instalar as actualizacions automaticament">
 <!ENTITY detail.updateManual.label            "Desenchegadas">
-
+<!ENTITY detail.updateManual.tooltip          "No instalar as actualizacions automaticament">
 <!ENTITY detail.home                          "Pachina d'inicio">
 <!ENTITY detail.repository                    "Perfil d'o complemento">
 <!ENTITY detail.size                          "Grandaria">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Mirar si i hai actualizacions d'este complemento">
 <!ENTITY detail.showPreferencesWin.label      "Opcions">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Cambiar as opciones d'iste complemento">
 <!ENTITY detail.showPreferencesUnix.label     "Preferencias">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Cambiar as preferencias d'iste complemento">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Qué ye ixo? De cabo ta quan, a telemetría se puet instalar y executar experimentos.">
 <!ENTITY experiment.info.learnmore "Ta saber-ne mas">
 <!ENTITY experiment.info.learnmore.accesskey "M">
 <!ENTITY experiment.info.changetelemetry "Achustes de telemetría">

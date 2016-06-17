@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "S'ha trobau complementos compatibles">
 <!ENTITY  found.top.label                 "Seleccione os complementos que quiere instalar:">
-
+<!ENTITY  found.disabledXPinstall.label   "No pueden instalar-se istas actualizacions porque a instalación de software ye desactivada en iste momento. Puede cambiar ista configuración debaixo.">
 <!ENTITY  found.enableXPInstall.label     "Permitir que os puestos web instalen software">
 <!ENTITY  found.enableXPInstall.accesskey "P">
 
