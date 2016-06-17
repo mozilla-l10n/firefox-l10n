@@ -12,7 +12,7 @@
 
 <!ENTITY  noupdatesfound.title            "কোনো আপডেট পাওয়া যায়নি">
 
-
+<!ENTITY  noupdatesautodisabled.intro     "কোনো আপডেট উপলব্ধ নেই। অনুগ্রহ করে পরে কোনো সময় পরীক্ষা করুন অথবা &brandShortName;-র স্বয়ংক্রিয় আপডেট পরীক্ষণ ব্যবস্থা সক্রিয় করুন।">
 
 <!ENTITY  manualUpdate.title              "আপডেট করতে ব্যর্থ">
 

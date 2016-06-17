@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;  প্রস্তুতি">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "স্বাগতম! পূর্বে কখনো &syncBrand.fullName.label;  ব্যবহার না করা হলে, একটি নতুন অ্যাকাউন্ট তৈরি করা আবশ্যক।">
 <!ENTITY button.createNewAccount.label "একটি নতুন অ্যাকাউন্ট তৈরি করুন">
 <!ENTITY button.haveAccount.label      "আমার একটি অ্যাকাউন্ট রয়েছে">
 
 <!ENTITY setup.choicePage.title.label     "পূর্বে  &syncBrand.fullName.label; ব্যবহার করছেন কি?">
-
-
+<!ENTITY setup.choicePage.new.label       "আমি &syncBrand.shortName.label; কখনো ব্যবহার করিনি">
+<!ENTITY setup.choicePage.existing2.label "আমি ইতিমধ্যেই ব্যবহার ও &syncBrand.shortName.label; করছি কোনো ডিভাইসের উপর">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "সার্ভার">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "ডিভাইস যুক্ত করুন">
 <!ENTITY addDevice.showMeHow.label          "প্রণালী জেনে নিন।">
-
+<!ENTITY addDevice.dontHaveDevice.label     "ডিভাইসটি আমার সঙ্গে নয়">
 <!ENTITY pairDevice.setup.description.label  "সক্রিয় করার জন্য, অন্য ডিভাইসের মধ্যে &quot;Pair a Device&quot; নির্বাচন করুন।">
 <!ENTITY addDevice.setup.enterCode.label    "এর পরে, এই কোডটি লিখুন:">
 <!ENTITY pairDevice.dialog.description.label "নতুন ডিভাইস সক্রিয় করার জন্য, ডিভাইসের মধ্যে &quot;Set Up Sync&quot; নির্বাচন করুন।">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "অতিরিক্ত সামগ্রী">
 <!ENTITY engine.addons.accesskey    "অ">
 
+<!ENTITY choice2a.merge.main.label       "এই ডিভাইসে ডাটা একত্রীকরণ করুন অামার &syncBrand.shortName.label; সাথে">
 <!ENTITY choice2.merge.recommended.label "প্রস্তাবিত পন্থা:">
 <!ENTITY choice2a.client.main.label      "এই ডিভাইসে ডেটা প্রতিস্থাপন করুন অামার &amp;syncBrand.shortName.label সাথে; data">
-
+<!ENTITY choice2a.server.main.label      "এই ডিভাইস এর তথ্য সহ অন্যান্য সকল ডিভাইস প্রতিস্থাপন করুন">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "নিশ্চিত করুন">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label;এখন আপনার সিঙ্ক অ্যাকাউন্টে এই সব ডিভাইস এর ব্রাউজার ডেটা একত্রীকরণ হবে।">
 <!ENTITY confirm.client3.label         "সতর্কতা: নিম্নলিখিত &brandShortName; এই ডিভাইসে   তথ্য মুছে ফেলা হবে:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; এই ডিভাইসটি তথ্য; তারপর আপনার &syncBrand.fullName.label; কপি হবে।">
 <!ENTITY confirm.server2.label         "সতর্কবার্তা: নিম্নলিখিত ডিভাইসের মধ্যে উপস্থিত তথ্য মুছে আপনার স্থানীয় তথ্য স্থাপন করা হবে:">

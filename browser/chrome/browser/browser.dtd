@@ -689,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "এই সাইট টি তে আপনার কানেক্সন নিরাপদ নয়। আপনি যে তথ্যগুলি জমা করেছেন, সেগুলি অন্ন কেউ দেখতে পেতে পারেন(পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড ইত্যাদি )।">
 <!ENTITY identity.description.insecureLoginForms "আপনার দ্বারা পৃষ্ঠাটিতে প্রবেশ করানো তথ্যগুলি নিরাপদ নয় এবং এগুলি বিপদের সম্মুখীন হতে পারে।">
 <!ENTITY identity.description.weakCipher "এই ওয়েবসাইটে আপনার সংযোগ দুর্বল এনক্রিপশন ব্যবহার করে এবং ব্যক্তিগত নয়।">
-
+<!ENTITY identity.description.weakCipher2 "অন্ন কেউ আপনার তথ্য দেখে নিয়ে সেটিকে পরিবরতন করতে পারে।">
 <!ENTITY identity.description.activeBlocked "&brandShortName; এই পৃষ্ঠাতে কিছু নিরাপদ নয় উপাদান অবরোধ করেছে।">
 <!ENTITY identity.description.passiveLoaded "আপনার সংযোগ সুরক্ষিত নয় এবনং সেটি অন্য কেউ দেখতে পেতে পারে।">
 <!ENTITY identity.description.passiveLoaded2 "এই ওয়েবসাইটে নিরাপদ নয় এমন সামগ্রী রয়েছে (যেমন ছবি)।">
