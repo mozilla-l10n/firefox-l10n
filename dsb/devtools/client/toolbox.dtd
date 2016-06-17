@@ -110,6 +110,8 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
+<!ENTITY options.disableHTTPCache.label     "HTTP-Cache znjemóžniś (gaž rědowy kašćik jo wócynjony)">
+<!ENTITY options.disableHTTPCache.tooltip   "Gaž se toś to nastajenje zmóžnja, se HTTP-cache za wšykne rejtarki znjemóžnijo, kótarež maju rědowy kašćik wócynjone. Service workerls njejsu pśez toś te nastajenje pótrjefjone.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
