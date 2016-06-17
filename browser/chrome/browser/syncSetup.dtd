@@ -4,12 +4,15 @@
 
 <!ENTITY accountSetupTitle.label    "Настройване на &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description2 "Добре дошли! Ако никога преди не сте ползвали &syncBrand.fullName.label;, ще е нужно да създадете нов профил.">
 <!ENTITY button.createNewAccount.label "Създаване на нов акаунт">
 <!ENTITY button.haveAccount.label      "Имам регистрация">
 
 <!ENTITY setup.choicePage.title.label     "Някога преди ползвали ли сте &syncBrand.fullName.label;?">
-
-
+<!ENTITY setup.choicePage.new.label       "Никога преди не съм ползвал &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing2.label "Вече използвам &syncBrand.shortName.label; на друг компютър">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Сървър">
@@ -57,7 +60,7 @@
 
 <!ENTITY pairDevice.title.label             "Сдвояване на устройство">
 <!ENTITY addDevice.showMeHow.label          "Показване как.">
-
+<!ENTITY addDevice.dontHaveDevice.label     "Устройството не е в мен сега">
 <!ENTITY pairDevice.setup.description.label  "За активиране, изберете „Сдвояване на устройство“ на вашето друго устройство.">
 <!ENTITY addDevice.setup.enterCode.label    "Там въведете следния код:">
 <!ENTITY pairDevice.dialog.description.label "За активиране на вашето ново устройство, изберете „Настройване на Sync“ на вашето устройство.">
@@ -93,13 +96,14 @@
 <!ENTITY engine.addons.label        "Добавки">
 <!ENTITY engine.addons.accesskey    "б">
 
+<!ENTITY choice2a.merge.main.label       "Сливане на данните на този компютър с данните на &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Препоръчвано:">
 <!ENTITY choice2a.client.main.label      "Заменяне на всички данни в този компютър с данните от моя &syncBrand.shortName.label;">
-
+<!ENTITY choice2a.server.main.label      "Замяна на данните във всички останали компютри с данните от този компютър">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Потвърждение">
-
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; сега ще слее всички данни от този компютър във вашия профил в Sync.">
 <!ENTITY confirm.client3.label         "Внимание: Следните данни на &brandShortName; ще бъдат изтрити от този компютър:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; след това ще копира вашите данни на &syncBrand.fullName.label; в този компютър.">
 <!ENTITY confirm.server2.label         "Внимание: Данните в следните устройства ще бъдат заменени с локалните данни:">

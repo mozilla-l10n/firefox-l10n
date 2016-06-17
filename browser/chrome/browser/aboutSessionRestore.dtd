@@ -23,6 +23,10 @@
 <!ENTITY restorepage.windowLabel    "Прозорец №&#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "Напред!">
 <!ENTITY welcomeback2.restoreButton.access "Н">
 
 <!ENTITY welcomeback2.tabtitle      "Успяхме!">
@@ -38,6 +42,9 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Добавките и персонализирането бяха премахнати, а настройките на браузъра бяха върнати до стандартните. Ако това не оправи проблема, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "научете повече, какво може да направите.">
@@ -45,9 +52,9 @@ their language.
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
 <!ENTITY tabgroupsmigration.tabtitle            "Мигриране на останалите ваши групи подпрозорци">
-
+<!ENTITY tabgroupsmigration.pagetitle2          "Премахнахме групите подпрозорци, но запазихме вашите подпрозорци">
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Научете повече за добавката, заменяща групите подпрозорци.">
-
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; направи отметки за всички ваши групи, така че не сте загубили нищо.">
 <!ENTITY tabgroupsmigration.bookmarkbutton      "Показване на отметките на групите подпрозорци">
 <!ENTITY tabgroupsmigration.restoredescription  "Също можете да възстановите още сега някои или всички непоказани групи в прозорци:">
 

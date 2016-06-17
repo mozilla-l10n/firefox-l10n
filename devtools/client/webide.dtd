@@ -85,7 +85,7 @@
 <!ENTITY runtimePanel_other "Друго">
 <!ENTITY runtimePanel_installsimulator "Инсталиране на симулатор">
 <!ENTITY runtimePanel_noadbhelper "Инсталиране на помощник за ADB">
-
+<!ENTITY runtimePanel_nousbdevice "Не можете да видите вашето устройство?">
 <!ENTITY runtimePanel_refreshDevices_label "Опресняване на списъка с устройства">
 <!-- Lense -->
 
