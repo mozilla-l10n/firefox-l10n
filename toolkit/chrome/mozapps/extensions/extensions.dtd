@@ -10,9 +10,9 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Yüklənir…">
-
+<!ENTITY listEmpty.installed.label            "Bu növ qurulmuş əlavəniz yoxdur">
 <!ENTITY listEmpty.availableUpdates.label     "Yenilənmə tapılmadı">
-
+<!ENTITY listEmpty.recentUpdates.label        "Yaxın vaxtlarda hər hansı bir əlavəni yeniləmədiniz">
 <!ENTITY listEmpty.findUpdates.label          "Yeniləmələri yoxla">
 <!ENTITY listEmpty.search.label               "Uyğun əlavə tapılmadı">
 <!ENTITY listEmpty.button.label               "Əlavələr haqqında daha çox öyrənin">
@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Sil">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Nizamlar">
-
+<!ENTITY cmd.showPreferencesWin.tooltip       "Bu əlavənin seçimlərini dəyiş">
 <!ENTITY cmd.showPreferencesUnix.label        "Nizamlamalar">
-
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Bu əlavənin seçimlərini dəyiş">
 <!ENTITY cmd.contribute.label                 "Kömək">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Bu əlavənin inkişaf etdirilməsinə kömək et">
@@ -125,7 +125,7 @@
 
 <!ENTITY discover.title                       "Əlavə nədir?">
 <!ENTITY discover.description2                "Əlavələr əlavə funksiya və formalarla &brandShortName; tətbiqinizi şəxsiləşdirmək üçün yaradılan kiçik tətbiqlərdir. Sizə zaman qazandıran bir vasitə çubuğunu, havanın vəziyyətini göstərən və ya &brandShortName; tətbiqinin istədiyiniz kimi görünməsini təmin edəcək bir mövzunu təcrübədən keçirin.">
-
+<!ENTITY discover.footer                      "İnternetə bağlananda bu bölmədə baxmağınız üçün ən çox istifadə olunana əlavələrin bəziləri önə çıxarılacaq.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Sürüm">
@@ -138,11 +138,11 @@
 
 <!ENTITY detail.updateType                    "Avtomatik yeniləmə">
 <!ENTITY detail.updateDefault.label           "Standart">
-
+<!ENTITY detail.updateDefault.tooltip         "Yeniləmələri sadəcə standart tənzimləmə budusa avtomatik quraşdır">
 <!ENTITY detail.updateAutomatic.label         "Açıqdır">
 <!ENTITY detail.updateAutomatic.tooltip       "Yeniləmələri avtomatik quraşdır">
 <!ENTITY detail.updateManual.label            "Bağlı">
-
+<!ENTITY detail.updateManual.tooltip          "Yeniləmələri avtomatik quraşdırma">
 <!ENTITY detail.home                          "Ana səhifə">
 <!ENTITY detail.repository                    "Əlavənin ID nömrəsi">
 <!ENTITY detail.size                          "Həcm">
@@ -152,10 +152,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Bu əlavənin yeniləmələri üçün bax">
 <!ENTITY detail.showPreferencesWin.label      "Nizamlar">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-
+<!ENTITY detail.showPreferencesWin.tooltip    "Bu əlavənin seçimlərini dəyiş">
 <!ENTITY detail.showPreferencesUnix.label     "Nizamlamalar">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-
+<!ENTITY detail.showPreferencesUnix.tooltip   "Bu əlavənin seçimlərini dəyiş">
 <!-- ratings -->
 
 
@@ -224,6 +224,8 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "Bu nədir? Telemetriya zaman-zaman eksperimentlər qurub çalışdıra bilər.">
 <!ENTITY experiment.info.learnmore "Ətraflı">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Telemetriya nizamlamaları">
