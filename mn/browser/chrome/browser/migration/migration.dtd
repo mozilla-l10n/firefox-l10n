@@ -13,8 +13,8 @@
 <!ENTITY importFromIE.accesskey         "M">
 
 
-
-
+<!ENTITY importFromNothing.label        "Юу ч бүү импортол">
+<!ENTITY importFromNothing.accesskey    "Ю">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 
