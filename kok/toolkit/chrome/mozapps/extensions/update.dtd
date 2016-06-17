@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "सुसंगत जोडी मेळल्यो">
 <!ENTITY  found.top.label                 "प्रतिष्ठापित करपाक सोदता त्यो जोडी निवडात:">
-
+<!ENTITY  found.disabledXPinstall.label   "हे सुदार प्रतिष्ठापित जावपाक शकना कारण सॉफ्टवेर प्रतिष्ठापन सध्या अक्षम केला. तुमच्यान हे स्थापित सकयल बदलू येता.">
 <!ENTITY  found.enableXPInstall.label     "सॉफ्टवेअर प्रतिष्ठापन करपाक वेबसायटीक परवानगी दियात">
 <!ENTITY  found.enableXPInstall.accesskey "स">
 

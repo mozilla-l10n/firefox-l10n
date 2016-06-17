@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "सर्व्हर मेळूंक ना">
-
+<!ENTITY dnsNotFound.longDesc "<ul> <li>एरर्स बरोवपाक नामो तपासात देखीक<strong>ww</strong>.example.com परस <strong>www</strong>.example.com</li> <li>तुमी खंयचीय पानां लोड करपा शकना जाल्यार, तुमच्या संगणकाची नेटवर्क जोडणी तपासात.</li> <li>तुमचो संगणकाची वो नेटवर्क फायरवॉल वो प्रॉक्सीन सुरक्षित आसा जाल्यार, &brandShortName; क वेबान प्रवेश आसा हाजी खात्री करात.</li> </ul>">
 
 <!ENTITY fileNotFound.title "फायल मेळूंक ना">
 <!ENTITY fileNotFound.longDesc "<ul> <li>कॅपिटलायझेशनाखातीर वो हेर टायपिंग एररांखातीर तपासात.</li> <li>फायल हालयली, नवे नाव दिले वो काडून उडयली हे पळोवपाक तपासात.</li> </ul>">
@@ -27,15 +27,16 @@
 
 
 <!ENTITY generic.title "आरे रे">
+<!ENTITY generic.longDesc "<p>&brandShortName; काय कारणाक लागून हे पान चालू जावपाक शकना</p>">
 
-
-
+<!ENTITY malformedURI.title "नामो वैध ना">
+<!ENTITY malformedURI.longDesc "<ul> <li>वेब नामो चड करून <strong>http://www.example.com/ भशेन बरयले वतात</strong></li> <li>तुमी फुडले स्लॅश वापरात हाजी खात्री करात (देख. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "जोडणेंत व्यत्यय आयलो">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "दस्तावेज सोपले">
-
+<!ENTITY notCached.longDesc "<p>विनंती केल्लो दस्तावेज &brandShortName; च्या कॅशान उपलब्ध ना.</p><ul><li>सुरक्षेची काळजीम्हण, &brandShortName; आपसूक संवेदनशील दस्तावेजांची परत-विनंती करीना.</li><li>वेबसायटीवयल्यान दस्तावेजाची परत-विनंती करपाक परत यत्न करातचेर क्लीक करात.</li></ul>">
 
 <!ENTITY netOffline.title "ऑफलायन स्थिती">
 <!ENTITY netOffline.longDesc2 "<ul> <li> ऑनलायन स्थितीन वचपाक आनी पान परत लोड करपाक &quot;परत यत्न करात&quot; दामात.</li> </ul>">
@@ -52,6 +53,7 @@
 <!ENTITY netTimeout.title "जोडणेचो काळ सोपलो">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "नामो कळूंना">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>हो नामो उगडपाक तुमका हेर सॉफ्टवेर प्रतिष्ठापित करचे पडत.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "प्रॉक्सी सर्व्हर जोडणी न्हंयकारता">
@@ -60,6 +62,7 @@
 <!ENTITY proxyResolveFailure.title "प्रॉक्सी सर्व्हर मेळपाक अपेस">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>सारकी आसात जाल्यार पळोवपाक प्रॉक्सि स्थापितां तपासात.</li> <li>तुमच्या संगणकाक काम करपी नेटवर्क जोडणी आसा हाजी खात्री करपाक तपासात.</li> <li>जर तुमचो संगणक वो नेटवर्क फायरवॉल वो प्रॉक्सिन सुरक्षित दवरला, जाल्यार&brandShortName; क वेबान प्रवेश करपाक परवानगी आसा हाजी खात्री करात.</li> </ul>">
 
+<!ENTITY redirectLoop.title "हे पान योग्य दिशा दिना">
 <!ENTITY redirectLoop.longDesc "<ul> <li>कुकीज अक्षम केल्यार वो स्विकारपाक न्हयकाल्यार काय वेळार हो आडमेळ येव येता.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "सर्वराकडल्यान अनपेक्षित प्रतिसाद">
@@ -71,6 +74,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY sharedLongDesc "<ul> <li>सायट तात्पुरती उपलब्ध नासत वो खूप कामान आसत. काय खीणांनी परत यत्न करात.</li> <li>तुमी खंयचीय पाना लोड करपाक शकना, तुमच्या संगणकाची नेटवर्क जोडणी तपासात.</li> <li>तुमचो संगणक वो नेटवर्क जर फायरवॉल वो प्रॉक्सिन सुरक्षित आसा, जाल्यार &brandShortName; क वेबान प्रवेश करपाची परवानगी आसा हाजी खात्री करात.</li> </ul>">
 
 <!ENTITY cspBlocked.title "मजकूर सुरक्षा धोरणान प्रतिबंधित केलां">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; न ह्या पानाक अशेतरेन लोड जावपापासून आडयला कारण पानाक आशय सुरक्षा धोरण आसा जे अशे करपाक दिना.</p>">
