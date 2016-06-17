@@ -771,7 +771,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings "အဆင့်မြင့် အပြင်အဆင်များ">
 <!ENTITY restrictable_feature_advanced_settings_description "စာမှတ်များ တင်သွင်းခြင်း၊ တဗ်များ ပြန်လည်အသုံးပြုခြင်းနှင့် အလိုအလျောက် မြှင့်တင်ခြင်းများ ပါဝင်သည်။ မည်သူမဆို အဆင်ပြေသုံးစွဲနိုင်ရန်နှင့် အပြင်အဆင်များ ရိုးရှင်းစေရန်အတွက် ၄င်းတို့ကို ပိတ်ပါ။">
 <!ENTITY restrictable_feature_camera_microphone "ကင်မရာနှင့် မိုက္ကရိုဖုန်း">
-
+<!ENTITY restrictable_feature_camera_microphone_description "ဝဘ်ဆိုက်များကြည့်နေစဉ် အချိန်နှင့်တစ်ပြေးညီဆက်သွယ်နိုင်ရန် မိသားစုဝင်များကို ချိတ်ဆက်နိုင်စွမ်း ရှိစေပါ။">
 <!ENTITY restrictable_feature_block_list "ပိတ်ပင်ထားသည့် စာရင်း">
 <!ENTITY restrictable_feature_block_list_description "ထိခိုက်မည့် အကြောင်းအရာပါဝင်သည့် ဝဘ်ဆိုက်များကို တားဆီးပါ။">
 <!-- Default Bookmarks titles-->
