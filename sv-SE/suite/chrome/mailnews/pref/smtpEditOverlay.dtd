@@ -15,7 +15,7 @@
 <!ENTITY connectionSecurity.label "Anslutningssäkerhet:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Ingen">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, om möjligt">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, om tillgängligt">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Server för utgående e-post (SMTP)">

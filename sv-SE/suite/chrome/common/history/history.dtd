@@ -5,7 +5,7 @@
 
 <!ENTITY menuBar.tooltip            "Menyrad">
 <!ENTITY historyWindowTitle.label   "Historik">
-<!ENTITY searchBar.tooltip              "Söklist">
+<!ENTITY searchBar.tooltip              "Sökfält">
 
 <!ENTITY search.placeholder             "Sök historik">
 <!ENTITY search.key                     "f">

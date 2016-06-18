@@ -125,7 +125,7 @@
 <!ENTITY proxy.label                        "Proxykonfiguration…">
 <!ENTITY proxy.accesskey                    "P">
 
-<!ENTITY bidiSwitchTextDirectionItem.label        "Växla textriktning">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Byt textriktning">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 

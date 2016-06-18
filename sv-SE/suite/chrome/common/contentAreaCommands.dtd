@@ -102,9 +102,9 @@
 <!ENTITY mediaPlay.accesskey          "p">
 <!ENTITY mediaPause.label             "Paus">
 <!ENTITY mediaPause.accesskey         "P">
-<!ENTITY mediaMute.label              "Stum">
+<!ENTITY mediaMute.label              "Ljud av">
 <!ENTITY mediaMute.accesskey          "m">
-<!ENTITY mediaUnmute.label            "Ej stum">
+<!ENTITY mediaUnmute.label            "Ljud på">
 <!ENTITY mediaUnmute.accesskey        "m">
 <!ENTITY mediaPlaybackRate.label        "Uppspelningshastighet">
 <!ENTITY mediaPlaybackRate.accesskey    "p">

@@ -26,7 +26,7 @@
 <!ENTITY useInternalNews.accesskey        "u">
 
 
-<!ENTITY messengerStartPage.caption         "Startsida för e-postklienten">
+<!ENTITY messengerStartPage.caption       "Startsida för E-post">
 <!ENTITY enableStartPage.label            "När e-postklienten startas visas startsidan i meddelandeytan">
 <!ENTITY enableStartPage.accesskey        "ä">
 <!ENTITY location.label                   "Adress:">

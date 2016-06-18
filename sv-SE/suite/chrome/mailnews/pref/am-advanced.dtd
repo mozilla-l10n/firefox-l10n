@@ -13,7 +13,7 @@
 <!ENTITY smtpListEdit.accesskey "R">
 <!ENTITY smtpListDelete.label "Ta bort">
 <!ENTITY smtpListDelete.accesskey "b">
-<!ENTITY smtpListSetDefault.label "Ange förinställd">
+<!ENTITY smtpListSetDefault.label "Välj som standard">
 <!ENTITY smtpListSetDefault.accesskey "e">
 
 <!ENTITY serverDetails.label "Egenskaper för den valda servern:">
