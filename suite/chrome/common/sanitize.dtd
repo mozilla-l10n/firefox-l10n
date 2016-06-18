@@ -7,7 +7,7 @@
 
 <!ENTITY itemHistory.label               "Webbläsarhistorik">
 <!ENTITY itemHistory.accesskey           "W">
-<!ENTITY itemUrlBar.label                "Adressradshistorik">
+<!ENTITY itemUrlBar.label                "Adressfältshistorik">
 <!ENTITY itemUrlBar.accesskey            "d">
 <!ENTITY itemDownloads.label             "Filhämtningshistorik">
 <!ENTITY itemDownloads.accesskey         "h">
