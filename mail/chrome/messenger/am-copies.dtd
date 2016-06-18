@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Annað:">
 <!ENTITY archiveInOtherFolder.accesskey "ð">
 <!ENTITY specialFolders.label "Drög og sniðmát">
-<!ENTITY keepDrafts.label "Geyma drög að pósti í:">
+<!ENTITY keepDrafts2.label "Geyma drög í:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;Drög&quot; mappa í:">
 <!ENTITY draftsFolderOn.accesskey "D">
