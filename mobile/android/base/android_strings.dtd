@@ -807,6 +807,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "Joan laster-marketara">
 
 <!ENTITY helper_triple_readerview_open_title "Lineaz kanpo erabilgarri">
-
+<!ENTITY helper_triple_readerview_open_message "Egin irakurtzeko ikuspegiko elementuen laster-markak hauek lineaz kanpo irakurtzeko.">
 <!ENTITY helper_triple_readerview_open_button "Gehitu laster-marketara">
 
