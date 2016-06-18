@@ -169,8 +169,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Yeni Əlfəcinlənmiş">
 <!ENTITY otherBookmarksCmd.label "Digər Əlfəcinlər">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha çox əlfəcin göstər">
-
-
+<!ENTITY showRecentlyBookmarked.label     "Yeni Əlfəcinlənmişləri Göstər">
+<!ENTITY showRecentlyBookmarked.accesskey "s">
 
 
 
