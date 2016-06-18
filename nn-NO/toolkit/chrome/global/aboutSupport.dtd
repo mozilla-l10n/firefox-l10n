@@ -115,6 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Feillogg">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Avgjerdslogg">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Krasjvern slo av funksjonar">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Løysingar">

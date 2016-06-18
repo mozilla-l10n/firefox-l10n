@@ -8,7 +8,7 @@
 
 <!ENTITY aboutWarningTitle.label "Hald fram med varsemd. Du kan bryte garantien!">
 <!ENTITY aboutWarningText.label "Dersom du endrar disse avanserte innstillingane kan det verka negativt på tryggleik, stabilitet og yting i dette programmet. Hald fram berre dersom du veit kva du gjer.">
-
+<!ENTITY aboutWarningButton2.label "Eg tek risikoen!">
 <!ENTITY aboutWarningCheckbox.label "Vis denne åtvaringa neste gong òg">
 
 <!ENTITY searchPrefs.label "Søk:">
