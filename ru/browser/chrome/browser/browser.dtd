@@ -303,9 +303,9 @@
 <!ENTITY openLinkCmdInTab.label "Открыть ссылку в новой вкладке">
 <!ENTITY openLinkCmdInTab.accesskey "в">
 <!ENTITY openLinkCmd.label "Открыть ссылку в новом окне">
-<!ENTITY openLinkCmd.accesskey "н">
+<!ENTITY openLinkCmd.accesskey "ь">
 <!ENTITY openLinkInPrivateWindowCmd.label "Открыть ссылку в новом приватном окне">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "ы">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "п">
 <!ENTITY openLinkCmdInCurrent.label "Открыть ссылку">
 <!ENTITY openLinkCmdInCurrent.accesskey "к">
 <!ENTITY openFrameCmdInTab.label "Открыть фрейм в новой вкладке">
@@ -313,7 +313,7 @@
 <!ENTITY openFrameCmd.label "Открыть фрейм в новом окне">
 <!ENTITY openFrameCmd.accesskey "н">
 <!ENTITY openLinkCmdInContainerTab.label "Открыть ссылку в новой вкладке контейнера">
-<!ENTITY openLinkCmdInContainerTab.accesskey "к">
+<!ENTITY openLinkCmdInContainerTab.accesskey "е">
 <!ENTITY showOnlyThisFrameCmd.label "Показать только этот фрейм">
 <!ENTITY showOnlyThisFrameCmd.accesskey "П">
 <!ENTITY reloadCmd.commandkey "r">
