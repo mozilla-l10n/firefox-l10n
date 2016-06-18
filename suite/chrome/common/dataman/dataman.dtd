@@ -9,6 +9,7 @@
 <!ENTITY select.all.label "Todos os tipos de dados">
 <!ENTITY select.cookies.label "Somente os cookies">
 <!ENTITY select.permissions.label "Somente as permissões">
+<!ENTITY select.permissionspwd.label "Somente as permissões de senha">
 <!ENTITY select.preferences.label "Somente as preferências">
 <!ENTITY select.passwords.label "Somente as senhas">
 <!ENTITY select.storage.label "Somente o armazenamento">
@@ -27,13 +28,14 @@
 
 <!ENTITY tab.cookies.label "Cookies">
 <!ENTITY tab.permissions.label "Permissões">
+<!ENTITY tab.permissionspwd.label "Permissões de senha">
 <!ENTITY tab.preferences.label "Preferências">
 <!ENTITY tab.passwords.label "Senhas">
 <!ENTITY tab.storage.label "Armazenamento">
 <!ENTITY tab.formdata.label "Dados de formulários">
 <!ENTITY tab.forget.label "Esquecer">
-<!-- cookies -->
 
+<!-- cookies -->
 <!ENTITY cookies.description "Este domínio armazena os seguintes cookies no seu computador:">
 
 <!ENTITY cookies.tree.host.label "Site da web">
@@ -60,8 +62,8 @@
 
 <!ENTITY cookies.blockOnRemove.label "Ao remover, bloquear os sites listados de definir cookies futuramente">
 <!ENTITY cookies.blockOnRemove.accesskey "A">
-<!-- permissions -->
 
+<!-- permissions -->
 <!ENTITY perm.UseDefault "Usar padrão">
 <!ENTITY perm.AskAlways "Sempre perguntar">
 <!ENTITY perm.NeverSave "Nunca salvar">
@@ -73,8 +75,17 @@
 <!ENTITY perm.host.placeholder "Digite um nome de servidor">
 <!ENTITY perm.button.add.label "Adicionar">
 <!ENTITY perm.button.add.accesskey "A">
-<!-- preferences -->
 
+<!-- password permissions -->
+<!ENTITY permpwd.UseDefault "Use o Padrão">
+<!ENTITY permpwd.AskAlways "Sempre perguntar">
+<!ENTITY permpwd.NeverSave "Nunca salvar">
+
+<!ENTITY permpwd.host.placeholder "Informe um hostname">
+<!ENTITY permpwd.button.add.label "Adicionar">
+<!ENTITY permpwd.button.add.accesskey "A">
+
+<!-- preferences -->
 <!ENTITY prefs.description "As preferências de conteúdo são uma forma do &brandShortName; salvar configurações, como níveis de zoom, especificamente para um site.">
 
 <!ENTITY prefs.tree.host.label "Site">
@@ -88,8 +99,8 @@
 
 <!ENTITY prefs.button.remove.label "Remover">
 <!ENTITY prefs.button.remove.accesskey "R">
-<!-- passwords -->
 
+<!-- passwords -->
 <!ENTITY pwd.description "Você tem as seguintes senhas armazenadas para este domínio:">
 
 <!ENTITY pwd.tree.host.label "Site">
@@ -105,8 +116,8 @@
 
 <!ENTITY pwd.button.remove.label "Remover">
 <!ENTITY pwd.button.remove.accesskey "R">
-<!-- storage -->
 
+<!-- storage -->
 <!ENTITY storage.description "Esse domínio utiliza os seguintes armazenamentos remotos em seu computador:">
 
 <!ENTITY storage.tree.host.label "Site">
@@ -120,8 +131,8 @@
 
 <!ENTITY storage.button.remove.label "Remover">
 <!ENTITY storage.button.remove.accesskey "R">
-<!-- form data -->
 
+<!-- form data -->
 <!ENTITY fdata.search.placeholder "Dados do campo de pesquisa">
 
 <!ENTITY fdata.tree.fieldname.label "Nome">
@@ -137,12 +148,14 @@
 
 <!ENTITY fdata.button.remove.label "Remover">
 <!ENTITY fdata.button.remove.accesskey "R">
-<!-- forget -->
 
+<!-- forget -->
 <!ENTITY forget.cookies.label "Cookies">
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Permissões">
 <!ENTITY forget.permissions.accesskey "P">
+<!ENTITY forget.permissionspwd.label "Permissões de senha">
+<!ENTITY forget.permissionspwd.accesskey "r">
 <!ENTITY forget.preferences.label "Preferências de conteúdo">
 <!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "Senhas">
