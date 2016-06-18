@@ -2,9 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchreset.tabtitle       "Keresési beállítások visszaállítása">
 
+<!ENTITY searchreset.pageTitle      "Visszaállítja a keresési beállításokat?">
+
+<!ENTITY searchreset.pageInfo1      "A keresési beállítások elavultak lehetnek. A &brandShortName; segíthet az alapértelmezett keresési beállítások visszaállításában.">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
+
+
+<!ENTITY searchreset.selector.label "Ez beállítja az alapértelmezett keresőmotort erre:">
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
