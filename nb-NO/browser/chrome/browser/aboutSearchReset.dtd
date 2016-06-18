@@ -22,6 +22,7 @@ their language. -->
 <!ENTITY searchreset.link.pageInfo2       "innstillingsside">
 
 <!ENTITY searchreset.noChangeButton        "Ikke endre">
+<!ENTITY searchreset.noChangeButton.access "n">
 
-
-
+<!ENTITY searchreset.changeEngineButton        "Endre søkemotor">
+<!ENTITY searchreset.changeEngineButton.access "E">
