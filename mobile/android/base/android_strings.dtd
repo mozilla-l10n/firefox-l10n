@@ -78,9 +78,11 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Képernyőképek">
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Olvasási lista">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+
+<!ENTITY bookmark_folder_items "&formatD; elem">
 <!ENTITY bookmark_folder_one_item "1 elem">
 
 <!ENTITY reader_saved_offline "Kapcsolat nélkül mentve">
@@ -308,6 +310,7 @@
 <!ENTITY content_notification_title_plural "&formatD; weboldal frissítve">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Beállítások">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
 <!ENTITY content_notification_action_read_now "Olvasás most">
@@ -444,12 +447,12 @@ size. -->
 <!ENTITY share_image_failed "Nem lehet megosztani ezt a képet">
 <!ENTITY save_as_pdf "Mentés PDF-ként">
 <!ENTITY print "Nyomtatás">
-
-
+<!ENTITY find_in_page "Keresés az oldalon">
+<!ENTITY desktop_mode "Asztali oldal kérése">
 <!ENTITY page "Oldal">
 <!ENTITY tools "Eszközök">
-
-
+<!ENTITY new_tab "Új lap">
+<!ENTITY new_private_tab "Új privát lap">
 <!ENTITY close_all_tabs "Minden lap bezárása">
 <!ENTITY close_private_tabs "Privát lapok bezárása">
 <!ENTITY tabs_normal "Lapok">
@@ -459,6 +462,8 @@ size. -->
 <!ENTITY set_image_chooser_title "Kép beállítása mint">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Keresés az oldalon">
 <!ENTITY find_prev "Előző">
 <!ENTITY find_next "Tovább">
 <!ENTITY find_close "Bezárás">
@@ -799,7 +804,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Olvasás kapcsolat nélkül">
 <!ENTITY helper_first_offline_bookmark_message "Találja meg az olvasónézet elemeit a könyvjelzőknél, kapcsolat nélkül is.">
-
+<!ENTITY helper_first_offline_bookmark_button "Ugrás a könyvjelzőkhöz.">
 
 <!ENTITY helper_triple_readerview_open_title "Elérhető kapcsolat nélkül">
 <!ENTITY helper_triple_readerview_open_message "Könyvjelzőzze az Olvasó nézet lapjait, hogy kapcsolat nélkül is el tudja olvasni.">
