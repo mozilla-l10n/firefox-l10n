@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Erabiltzaile-agentea">
 <!ENTITY aboutSupport.appBasicsOS "SEa">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Memoriaren erabilpena">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Errendimendua">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Erregistratutako zerbitzu-langileak">
@@ -86,8 +86,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafikoak">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Osotasuna">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Egiaztatu osotasuna">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "ZB inkrementala">
