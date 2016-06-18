@@ -8,7 +8,7 @@
 <!ENTITY tabCrashed.includeURL "நான் இருந்த பக்கத்தின் முகவரியைச் சேர்க்கவும்">
 <!ENTITY tabCrashed.commentPlaceholder "ஒரு கருத்தைச் சேர்க்கவும் (அனைவரும் காண முடியும்)">
 <!ENTITY tabCrashed.emailPlaceholder "மின்னஞ்சல் முகவரியை உள்ளிடவும்">
-<!ENTITY tabCrashed.emailMe "கூடுதல் தகவல் உள்ளபோது மின்னஞ்சல் செய்யவும்">
+<!ENTITY tabCrashed.emailMe "கூடுதல் தகவல் கிடைக்கும்பொழுது எனக்கு மின்னஞ்சல் செய்யவும்">
 <!ENTITY tabCrashed.crashReporter "மொசில்லா நொறுக்கு அறிக்கையாளர்">
 <!ENTITY tabCrashed.reportSent "சிதைவு அறிக்கையை ஏற்கனவே அனுப்பியாயிற்று. &brandShortName; சிறக்க உதவியதற்க்கு நன்றி!     ">
 <!ENTITY tabCrashed.closeTab "இந்த கீற்றை மூடு">

@@ -4,7 +4,7 @@
 
 <!ENTITY  fontsDialog.title                       "எழுத்துருக்கள்">
 
-<!ENTITY  language.label                          "எழுத்துருக்கள்:">
+<!ENTITY  language.label                          "என்பதற்கான எழுத்துருக்கள்:">
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "அளவு:">
@@ -61,7 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "ஷெரிஃப்">
 <!ENTITY  useDefaultFontSansSerif.label           "ஸான்ஸ் ஷெரிஃப்">
 
-<!ENTITY  allowPagesToUse.label                   "என் தேர்வுகளுக்குப் பதிலாக பக்கங்களை அதன் சொந்த எழுத்துருக்களை தேர்வு செய்ய அனுமதிக்கவும்">
+<!ENTITY  allowPagesToUse.label                   "என் தேர்வுகளுக்குப் பதிலாக பக்கங்கள் அதன் சொந்த எழுத்துருக்களை தேர்வு செய்ய அனுமதிக்கவும்">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
 
