@@ -27,7 +27,5 @@
 <!ENTITY appWeekly.accesskey                  "v">
 <!ENTITY appModeAutomatic.label               "Hämta och installera uppdateringen automatiskt">
 <!ENTITY appModeAutomatic.accesskey           "a">
-<!ENTITY appModeAutoAddonWarn.label           "Varna mig om detta kommer att stänga av något av mina tillägg">
-<!ENTITY appModeAutoAddonWarn.accesskey       "n">
 <!ENTITY updateHistoryButton.label            "Visa tidigare uppdateringar…">
 <!ENTITY updateHistoryButton.accesskey        "u">
