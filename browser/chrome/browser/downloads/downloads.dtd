@@ -64,7 +64,7 @@
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList.label              "பட்டியலை அழி">
 <!ENTITY cmd.clearList.accesskey          "ப">
-<!ENTITY cmd.clearDownloads.label         "பதிவிறக்கங்களை அழி">
+<!ENTITY cmd.clearDownloads.label         "பதிவிறக்கங்களை துடை">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
