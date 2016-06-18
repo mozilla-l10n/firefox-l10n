@@ -10,14 +10,14 @@
 
 
 
+<!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
 
 
 
 
 
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "mga bookmark">
+<!ENTITY aboutPrivateBrowsing.note.before                "Private Browsing  ">
 
 
 

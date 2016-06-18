@@ -10,10 +10,10 @@
 # live.
 
 
-#define bookmarks_title Bookmarks
+#define bookmarks_title Mga Bookmark
 
 
-#define bookmarks_heading Bookmarks
+#define bookmarks_heading Mga Bookmark
 
 
 #define bookmarks_toolbarfolder Bookmarks Toolbar Folder
@@ -64,7 +64,7 @@
 # link title for https://www.mozilla.org/en-US/contribute/
 
 
-#define firefox_community Get Involved
+#define firefox_community Makilahok
 
 
 # LOCALIZATION NOTE (firefox_about):

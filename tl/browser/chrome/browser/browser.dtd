@@ -659,10 +659,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Buksan ang Link sa Bagong Window">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Buksan ang Link sa Bagong Private Window">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 
 
 
