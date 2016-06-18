@@ -456,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ز">
 <!ENTITY openFrameCmd.label           "باز کردن چارچوب در پنجرهٔ جدید">
 <!ENTITY openFrameCmd.accesskey       "پ">
-<!ENTITY openLinkCmdInContainerTab.label "بازکردن پیوند در زبانه‌ای جدید">
+<!ENTITY openLinkCmdInContainerTab.label "بازکردن پیوند در زبانه حامل جدید">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "فقط نمایش همین چارچوب">
 <!ENTITY showOnlyThisFrameCmd.accesskey "چ">
