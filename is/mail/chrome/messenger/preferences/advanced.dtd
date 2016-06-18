@@ -53,8 +53,6 @@
 <!ENTITY updateCheck.accesskey "A">
 <!ENTITY updateManual.label "Aldrei athuga með uppfærslur (ekki mælt með: öryggisáhætta)">
 <!ENTITY updateManual.accesskey "A">
-<!ENTITY updateAutoAddonWarn.label "Vara við ef uppfærslan gerir einhverja viðbót óvirka">
-<!ENTITY updateAutoAddonWarn.accesskey "V">
 <!ENTITY updateHistory.label "Sýna uppfærslusögu">
 <!ENTITY updateHistory.accesskey "p">
 <!ENTITY useService.label "Nota bakgrunnsþjónustu til að setja inn uppfærslur">
