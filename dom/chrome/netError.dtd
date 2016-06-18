@@ -89,6 +89,8 @@
 <!ENTITY cspBlocked.title "Bloquiáu por polítiques de seguridá de conteníu">
 <!ENTITY cspBlocked.longDesc "<p>El restolador torgó qu'esta páxina se cargue d'esti mou porque la páxina tien una política de seguridá de conteníu que lo impide.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Fallu de conteníu toyíu">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La páxina que tas intentando ver nun pue amosase porque deteutóse un fallu na tresmisión de los datos.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti fallu.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL Remotu">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta col alministrador del sitiu web pa informalu d'esti problema.</li></ul></p>">

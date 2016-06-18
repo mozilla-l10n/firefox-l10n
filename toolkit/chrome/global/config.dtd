@@ -8,6 +8,7 @@
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "¡Equí puen estrizase coses!">
 <!ENTITY aboutWarningText.label "Camudar estos axustes avanzaos puede ser dañible pa la estabilidá, seguridá y rindimientu d'esta aplicación. Continúe namái si ta bien xuru de lo que ta faciendo.">
+<!ENTITY aboutWarningButton2.label "¡Aceuto'l riesgu!">
 <!ENTITY aboutWarningCheckbox.label "Amosar esti avisu la próxima vegada">
 
 <!ENTITY searchPrefs.label "Guetar:">
