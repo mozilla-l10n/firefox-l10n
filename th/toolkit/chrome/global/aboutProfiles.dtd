@@ -5,6 +5,6 @@
 <!ENTITY aboutProfiles.title "เกี่ยวกับโพรไฟล์">
 
 <!ENTITY aboutProfiles.create "สร้างโพรไฟล์ใหม่">
-
-
-
+<!ENTITY aboutProfiles.restart.title "เริ่มการทำงานใหม่">
+<!ENTITY aboutProfiles.restart.inSafeMode "เริ่มการทำงานใหม่และปิดใช้งานส่วนเสริม…">
+<!ENTITY aboutProfiles.restart.normal "เริ่มการทำงานใหม่ปกติ…">
