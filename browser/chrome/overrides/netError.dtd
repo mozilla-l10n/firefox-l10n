@@ -104,6 +104,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Bloquiáu pola política de seguridá de conteníu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina se cargue d'esta forma porque la páxina tien una política de seguridá de conteníu que nun lo permite.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Fallu de conteníu toyíu">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La páxina que quies ver nun pue amosase porque deteutóse un fallu na tresmisión de los datos.</p><ul><li>Contauta colos dueños del sitiu pa informa-yos esti problema.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Amestar esceición…">
@@ -129,6 +131,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>Nun ye dable una conexón segura a <span id='wrongSystemTime_URL'/> porque'l reló paez tar amosando la hora incorreuta.</p><p>La computadora camienta que ye <span id='wrongSystemTime_systemDate'/> cuando tendría ser <span id='wrongSystemTime_actualDate'/>. Pa iguar el fallu, camuda la data y hora pa que concasen coles correutes.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conexón insegura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Esti sitiu usa HTTP Strict Transport Security (HSTS) pa especificar que &brandShortName; namái se coneuta a él de mou seguru. Como resultáu, nun ye dable amestar una esceición pa esti certificáu.">
@@ -139,3 +142,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>usa teunoloxía de seguranza obsoleta y vulnerable a ataques. Un atacante pue, de mou cenciellu, revelar información que pensabes que taba a salvu. L'alministrador del sitiu web tendría d'iguar el sirvidor enantes de que puedas visitar esti sitiu.</p><p>Códigu de fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY prefReset.longDesc "Paez que la configuración de seguranza de la rede pue tar faciendo esto. ¿Quies que se restaure la configuración predeterminada?">
+<!ENTITY prefReset.label "Restaurar configuración predeterminada">
