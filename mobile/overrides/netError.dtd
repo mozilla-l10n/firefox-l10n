@@ -76,7 +76,7 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Kontrollera om Personal Security Manager  finns installerat på datorn.</li> <li>Det här kan ibland bero på en ovanlig konfiguration på servern.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Säker anslutning misslyckades">
-<!ENTITY nssFailure2.longDesc2 "<ul><li> Sidan du försöker visa kan inte visas för att autentisering av datan som skickats inte kunde bli verifierad.</li><li>Snälla kontakta hemsidans ägare för att informera dom om detta problem.</li></ul> ">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Sidan du försöker visa kan inte visas eftersom äktheten av mottagen data inte kunde verifieras.</li><li>Kontakta webbplatsens ägare för att informera dem om detta problem.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Säker anslutning misslyckades">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Detta kan bero på ett problem med serverns konfiguration, eller så kanske någon annan felaktigt utger sig för att vara servern.</li> <li>Om du tidigare utan problem har anslutit till den här servern kanske felet är tillfälligt och du kan försöka igen senare.</li> </ul>">
