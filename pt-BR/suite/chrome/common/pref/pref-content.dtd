@@ -6,23 +6,38 @@
 
 <!ENTITY pref.content.title                     "Conteúdo">
 <!ENTITY pref.content.description               "Essas opções influenciam como conteúdo de sites e mensagens devem aparecer no &brandShortName;.">
+
 <!ENTITY siteIcons.label                        "Ícones de sites">
 <!ENTITY useSiteIcons.label                     "Exibir ícones de sites">
 <!ENTITY useSiteIcons.accesskey                 "E">
 <!ENTITY useFavIcons.label                      "Procurar pelo ícone do site quando a página não define um">
 <!ENTITY useFavIcons.accesskey                  "P">
-<!ENTITY enableAutomaticImageResizing.label     "Redimensionar imagens para caber na janela">
-<!ENTITY enableAutomaticImageResizing.accesskey "R">
+
 <!ENTITY scrolling.label                        "Rolagem">
 <!ENTITY useAutoScroll.label                    "Usar autorrolagem">
 <!ENTITY useAutoScroll.accesskey                "t">
 <!ENTITY useSmoothScroll.label                  "Usar rolagem suave">
 <!ENTITY useSmoothScroll.accesskey              "U">
-<!ENTITY allowHWAccel.label                     "Usar aceleração de hardware quando disponível">
-<!ENTITY allowHWAccel.accesskey                 "e">
-<!ENTITY textZoomOnly.label                     "Realizar zoom apenas para o texto em vez da página toda">
-<!ENTITY textZoomOnly.accesskey                 "z">
-<!ENTITY blockAutoRefresh.label                 "Alertar se sites tentarem redirecionar ou recarregar a página">
-<!ENTITY blockAutoRefresh.accesskey             "A">
+
+<!ENTITY zoomPrefs.label                        "Opções de zoom">
+<!-- LOCALIZATION NOTE (minZoom.label, maxZoom.label, percent.label):
+     single hbox with minZoom.label preceding the minZoom control and
+     maxZoom.label preceding the maxZoom control; percent.label shows
+     the ASCII '%' character at the end of that string -->
+<!ENTITY minZoom.label                          "Faixa de">
+<!ENTITY minZoom.accesskey                      "f">
+<!ENTITY maxZoom.label                          "até">
+<!ENTITY maxZoom.accesskey                      "o">
+<!ENTITY percent.label                          "&#37;">
+
 <!ENTITY siteSpecific.label                     "Lembrar níveis de zoom com base no site">
 <!ENTITY siteSpecific.accesskey                 "m">
+<!ENTITY textZoomOnly.label                     "Realizar zoom apenas para o texto em vez da página toda">
+<!ENTITY textZoomOnly.accesskey                 "z">
+<!ENTITY enableAutomaticImageResizing.label     "Redimensionar imagens para caber na janela">
+<!ENTITY enableAutomaticImageResizing.accesskey "R">
+
+<!ENTITY allowHWAccel.label                     "Usar aceleração de hardware quando disponível">
+<!ENTITY allowHWAccel.accesskey                 "e">
+<!ENTITY blockAutoRefresh.label                 "Alertar se sites tentarem redirecionar ou recarregar a página">
+<!ENTITY blockAutoRefresh.accesskey             "A">
