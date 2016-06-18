@@ -22,7 +22,7 @@
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP ப்ராக்ஸி:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP ப்ராக்ஸி:">
+<!ENTITY  http.label                    "HTTP பதிலாள்:">
 <!ENTITY  http.accesskey                "x">
 <!ENTITY  ssl.label                     "SSL ப்ராக்ஸி:">
 <!ENTITY  ssl.accesskey                 "L">
@@ -39,10 +39,10 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "இதற்கு ப்ராக்ஸி இல்லை:">
+<!ENTITY  noproxy.label                 "இதற்கு பதிலாள் இல்லை:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "எடுத்துக்காட்டு: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "இந்த ப்ராக்ஸி சேவையகத்தை அனைத்து நெறிமுறைகளிலும் பயன்படுத்து">
+<!ENTITY  shareproxy.label              "இந்த பதிலாள் சேவையகத்தை அனைத்து நெறிமுறைகளிலும் பயன்படுத்து">
 <!ENTITY  shareproxy.accesskey          "s">
 <!ENTITY  autologinproxy.label          "கடவுச்சொல் சேமிக்கப்பட்டிருந்தால் அங்கீகரிப்புக்காக நினைவுப்படத்த வே்டாம்">
 <!ENTITY  autologinproxy.accesskey      "i">

@@ -51,8 +51,10 @@ their language.
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
-
-
-
-
+<!ENTITY tabgroupsmigration.tabtitle            "பிற கீற்றுக் குழுக்களை இடம்பெயர்த்து">
+<!ENTITY tabgroupsmigration.pagetitle2          "நாங்கள் கீற்றுக்குழுக்களை நீக்கினோம், ஆனால் கீற்றுகளை சேமித்துள்ளோம்">
+<!ENTITY tabgroupsmigration.learnaboutaddons    "கீற்றுக்குழு பதிலி கூடுதல் இணைப்புகள் குறித்து அறிக.">
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; அனைத்து குழுக்களையும் புத்தககுறியிட்டுள்ளது எனவே நீங்கள் எதையும் இழக்கவில்லை.">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "புத்தககுறியிட்ட கீற்றுக் குழுக்களை காட்டு">
+<!ENTITY tabgroupsmigration.restoredescription  "நீங்கள் சில அல்லது எல்லா பின்னணி குழுக்களையும் சாளரத்தில் மீட்டமைக்க இப்போதே தேர்ந்தெடுக்கலாம்:">
 

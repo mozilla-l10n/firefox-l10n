@@ -17,7 +17,7 @@
 <!ENTITY useMultiple.label         "நடப்பு பக்கங்களை பயன்படுத்து">
 <!ENTITY chooseBookmark.label      "புத்தககுறியை பயன்படுத்தவும்...">
 <!ENTITY chooseBookmark.accesskey  "ப">
-<!ENTITY restoreDefault.label      "முன்னிருப்புக்கு  மாற்று">
+<!ENTITY restoreDefault.label      "முன்னிருப்புக்கு மீட்டமை">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "பதிவிறக்கங்கள்">
