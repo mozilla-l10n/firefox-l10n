@@ -4,7 +4,7 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-
+<!ENTITY ChooseOtherApp.description "Aukeratu beste aplikazio bat">
 <!ENTITY ChooseApp.label "Aukeratu...">
 <!ENTITY ChooseApp.accessKey "A">
-
+<!ENTITY accept "Ireki lotura">
