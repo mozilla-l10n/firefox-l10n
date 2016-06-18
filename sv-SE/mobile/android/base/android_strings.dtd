@@ -11,7 +11,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Få resultat från dina bokmärken och historik då du söker.">
 <!ENTITY firstrun_data_title "Data">
 <!ENTITY firstrun_data_message "Mindre data, mer sparat">
-<!ENTITY firstrun_data_subtext2 "Stäng av bilder för att spendera mindre data på varje hemsida du besöker.">
+<!ENTITY firstrun_data_subtext2 "Stäng av bilderna för att spendera mindre data på varje webbplats du besöker.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, alltid vid din sida ">
 <!ENTITY firstrun_sync_subtext "Synka dina flikar, lösenord och mer överallt där du använder dom.">
@@ -210,8 +210,8 @@
 <!ENTITY pref_home_updates2 "Innehållsuppdateringar">
 <!ENTITY pref_home_updates_enabled "Aktiverad">
 <!ENTITY pref_home_updates_wifi "Endast via Wi-Fi">
-<!ENTITY pref_category_home_homepage "Hemsida">
-<!ENTITY home_homepage_title "Välj en hemsida">
+<!ENTITY pref_category_home_homepage "Startsida">
+<!ENTITY home_homepage_title "Välj en startsida">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
