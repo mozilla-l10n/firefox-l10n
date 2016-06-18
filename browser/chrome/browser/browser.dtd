@@ -313,7 +313,7 @@
 <!ENTITY openFrameCmd.label "Открыть фрейм в новом окне">
 <!ENTITY openFrameCmd.accesskey "н">
 <!ENTITY openLinkCmdInContainerTab.label "Открыть ссылку в новой вкладке контейнера">
-<!ENTITY openLinkCmdInContainerTab.accesskey "ы">
+<!ENTITY openLinkCmdInContainerTab.accesskey "к">
 <!ENTITY showOnlyThisFrameCmd.label "Показать только этот фрейм">
 <!ENTITY showOnlyThisFrameCmd.accesskey "П">
 <!ENTITY reloadCmd.commandkey "r">
