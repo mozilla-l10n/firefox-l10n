@@ -46,5 +46,5 @@
 <!ENTITY templateInOtherFolder.label "Annan mapp:">
 <!ENTITY templateInOtherFolder.accesskey "m">
 <!ENTITY specialFolders.label "Utkast och mallar">
-<!ENTITY keepDrafts.label "Spara utkast i:">
+<!ENTITY keepDrafts2.label "Spara utkast i:">
 <!ENTITY keepTemplates.label "Spara mallar i:">
