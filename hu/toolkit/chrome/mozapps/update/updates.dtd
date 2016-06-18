@@ -55,7 +55,7 @@
 <!ENTITY  finishedBackground.name         "Frissítés:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "A frissítés a &brandShortName; következő indításakor fog települni. Újraindíthatja a &brandShortName; alkalmazást most, vagy folytathatja a munkát, és újraindíthatja később.">
-
+<!ENTITY  finishedBackground.moreElevated "Ez a frissítés rendszergazdai jogosultságot igényel. A frissítés a &brandShortName; következő indításakor települ. Újraindíthatja most a &brandShortName;ot, folytathatja a munkát és újraindíthatja később, vagy elutasíthatja ezt a frissítést.">
 
 <!ENTITY  update.details.label            "Részletek">
 <!ENTITY  update.installedOn.label        "Telepítve:">
