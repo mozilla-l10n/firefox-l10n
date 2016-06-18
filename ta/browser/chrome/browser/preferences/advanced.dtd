@@ -86,21 +86,21 @@
 <!ENTITY updateHistory.label             "மேம்படுத்தல் வரலாற்றைக் காட்டு">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label                "புதுப்பிப்புகளை நிறுவ ஒரு பின்புல சேவையைப் பயன்படுத்து">
+<!ENTITY useService.label                "புதுப்பிப்புகளை நிறுவ ஒரு பின்புல சேவையைப் பயன்படுத்தவும்">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "தானாக புதுப்பி:">
-<!ENTITY enableSearchUpdate.label        "தேடும் பொறிகள்">
+<!ENTITY enableSearchUpdate.label        "தேடு பொறிகள்">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "ஒரு இணைய தளம் இணைப்பில்லாமல் பயன்படுத்த தரவை சேமிக்க கேட்டால் என்னிடம் சொல்">
+<!ENTITY offlineNotify.label             "ஒரு இணைய தளம் இணைப்பில்லாமல் தரவை சேமித்து பயன்படுத்தி கேட்டால் என்னிடம் சொல்">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "விதிவிலக்குகள்…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "பின்வரும் இணைய தளங்கள் இணைப்பில்லாத பயனுக்கு தரவை சேமிக்க அனுமதிக்கப்படுபவை:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "நீக்கு…">
+<!ENTITY offlineAppsListRemove.label     "நீக்குக…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "இணைப்பில்லாத தரவை நீக்கு">
 
