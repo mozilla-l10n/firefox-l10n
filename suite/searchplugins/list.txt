@@ -1,5 +1,7 @@
-creativecommons
 duckduckgo-sv-se
+bing
 google
-wikipedia
+prisjakt-sv-SE
+tyda-sv-SE
+wikipedia-sv-SE
 yahoo-sv-se
