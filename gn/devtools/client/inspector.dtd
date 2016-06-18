@@ -11,14 +11,20 @@
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
 
+<!ENTITY inspectorCopyOuterHTML.label       "HTML okaygua">
+<!ENTITY inspectorCopyOuterHTML.accesskey   "O">
 <!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
 
+<!ENTITY inspectorCopyCSSSelector.label "CSS Poravoha">
+<!ENTITY inspectorCopyCSSSelector.accesskey "S">
 <!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
+<!ENTITY inspectorPasteOuterHTML.label      "HTML okaygua">
+<!ENTITY inspectorPasteOuterHTML.accesskey  "O">
 <!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
