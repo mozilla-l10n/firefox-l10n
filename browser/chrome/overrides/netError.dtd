@@ -110,6 +110,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime "<p>En trygg tilkobling til <span id='wrongSystemTime_URL'/> er ikke mulig, fordi klokken ser ut til å vise feil tid.</p> <p>Datamaskinen din tror at klokka er <span id='wrongSystemTime_systemDate'/>, når den burde være <span id='wrongSystemTime_actualDate'/>. For å løse dette problemet, endre dato- og tidsinnstillinger for å få rett tid.</p>">
+
 <!ENTITY certerror.pagetitle1  "Usikker tilkobling">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dette nettstedet bruker HTTP Strict Transport Security (HSTS) for å spesifisere at &brandShortName; bare kan koble til det sikkert. Derfor kan en ikke legge til et unntak for dette sertifikatet.">
 <!ENTITY certerror.copyToClipboard.label "Kopier tekst til utklippstavlen">
@@ -119,4 +121,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> bruker sikkerhetsteknologi som er utdatert og sårbar for angrep. En angriper kan enkelt fremskaffe informasjon som du trodde var sikker. Nettstedsadministratoren må endre serveren først, før du kan besøke nettstedet.</p><p>Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "Det ser ut til at nettverkets sikkerhetsinnstillinger kan være årsak til dette. Vil du tilbakestille til standardinnstillinger?">
+<!ENTITY prefReset.label "Gjenopprett standardinnstillinger">
