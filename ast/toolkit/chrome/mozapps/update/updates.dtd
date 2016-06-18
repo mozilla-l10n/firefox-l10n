@@ -75,6 +75,10 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "L'anovamientu instalaráse la próxima vegada qu'anicie &brandShortName;.
                                            Pues reaniciar &brandShortName; agora o siguir trabayando y reaniciar más sero.">
+<!ENTITY  finishedBackground.moreElevated "Esti anovamientu rique de privilexos d'alministrador. L'anovamientu va
+                                           instalase la próxima vegada qu'anicies &brandShortName;. Pues reaniciar
+                                           &brandShortName; agora, siguir trabajando y reaniciar dempués o refugar esti
+                                           anovamientu.">
 
 <!ENTITY  update.details.label            "Detalles">
 <!ENTITY  update.installedOn.label        "Instaláu en:">
