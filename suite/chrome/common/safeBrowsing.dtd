@@ -24,6 +24,11 @@
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Site bloqueado">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "A página Web em <span id='forbidden_sitename'/> foi bloqueado pelo seu perfil de administrador.">
 
 <!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
+<!ENTITY reportDeceptiveSite.label "Reportar página maliciosa…">
+<!ENTITY reportDeceptiveSite.accesskey "d">
+<!ENTITY notADeceptiveSite.label "Esta não é uma página maliciosa…">
+<!ENTITY notADeceptiveSite.accesskey "d">
 
