@@ -18,7 +18,7 @@
 <!ENTITY manageAccount.accesskey      "G">
 <!ENTITY changePassword2.label        "Alterar senha…">
 <!ENTITY myRecoveryKey.label          "Minha chave de recuperação">
-<!ENTITY resetSync2.label             "Reconfigurar Sync…">
+<!ENTITY resetSync2.label             "Redefinir Sync…">
 
 <!ENTITY pairDevice.label             "Parear dispositivo">
 
