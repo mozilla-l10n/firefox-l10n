@@ -325,8 +325,8 @@
 <!ENTITY pref_clear_private_data2 "Rensa privat data">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
-<!ENTITY pref_clear_private_data_now_tablet "Rensa nu ">
-<!ENTITY pref_clear_on_exit_title3 "Rensa känsligt data vid avstängning">
+<!ENTITY pref_clear_private_data_now_tablet "Rensa nu">
+<!ENTITY pref_clear_on_exit_title3 "Rensa privat data vid avslut">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; kommer automatiskt rensa din data när du väljer  \Avsluta\ från huvudmenyn">
 <!ENTITY pref_clear_on_exit_dialog_title "Välj vilken data som ska rensas">
 <!ENTITY pref_plugins "Insticksmoduler">
@@ -370,7 +370,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Visa sökhistorik">
 <!ENTITY pref_import_options "Importeringsalternativ">
 <!ENTITY pref_import_android_summary "Importera bokmärken och historia från Androids standardwebbläsare">
-<!ENTITY pref_private_data_history2 "Bläddra i historiken">
+<!ENTITY pref_private_data_history2 "Webbläsarhistorik">
 <!ENTITY pref_private_data_searchHistory "Sökhistorik">
 <!ENTITY pref_private_data_formdata2 "Formulärhistorik">
 <!ENTITY pref_private_data_cookies2 "Kakor och aktiva inloggningar">
