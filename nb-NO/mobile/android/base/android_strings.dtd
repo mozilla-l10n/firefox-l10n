@@ -18,10 +18,12 @@
 <!ENTITY firstrun_signin_message "Koble til og kom i gang">
 <!ENTITY firstrun_signin_button "Logg inn for å synkronisere">
 <!ENTITY  onboard_start_button_browser "Start nettlesing">
-
+<!ENTITY firstrun_button_notnow "Ikke akkurat nå">
 <!ENTITY firstrun_button_next "Neste">
 
+<!ENTITY firstrun_tabqueue_title "Lenker">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Slå på fane-kø">
 
 
 
@@ -71,9 +73,11 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Skjermbilder">
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Leseliste">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+
+<!ENTITY bookmark_folder_items "&formatD; element">
 
 
 <!ENTITY reader_saved_offline "Lagret frakoblet">
@@ -301,6 +305,7 @@
 <!ENTITY content_notification_title_plural "&formatD; nettsider oppdatert">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Innstillinger">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
@@ -436,12 +441,12 @@ size. -->
 <!ENTITY share_image_failed "Klarte ikke dele dette bildet">
 <!ENTITY save_as_pdf "Lagre som PDF">
 <!ENTITY print "Skriv ut">
-
-
+<!ENTITY find_in_page "Finn på siden">
+<!ENTITY desktop_mode "Vis skrivebordsversjon">
 <!ENTITY page "Side">
 <!ENTITY tools "Verktøy">
-
-
+<!ENTITY new_tab "Ny fane">
+<!ENTITY new_private_tab "Ny privat fane">
 <!ENTITY close_all_tabs "Lukk alle faner">
 <!ENTITY close_private_tabs "Lukk private faner">
 <!ENTITY tabs_normal "Faner">
@@ -451,6 +456,8 @@ size. -->
 <!ENTITY set_image_chooser_title "Sett bilde som">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Finn på siden">
 <!ENTITY find_prev "Forrige">
 <!ENTITY find_next "Neste">
 <!ENTITY find_close "Lukk">
@@ -790,8 +797,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Les frakoblet">
 <!ENTITY helper_first_offline_bookmark_message "Hent innholdet i din leseliste i bokmerker, til og med frakoblet.">
+<!ENTITY helper_first_offline_bookmark_button "Gå til bokmerker">
 
 
-
-
+<!ENTITY helper_triple_readerview_open_button "Legg til i bokmerker">
 
