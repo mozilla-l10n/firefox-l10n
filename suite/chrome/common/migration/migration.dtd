@@ -13,7 +13,6 @@
 <!ENTITY importFromFile.accesskey        "F">
 <!ENTITY importFromNothing.label         "Ne rien importer">
 <!ENTITY importFromNothing.accesskey     "N">
-<!ENTITY importSourceNotFound.label      "Aucune application à partir de laquelle importer des données n’a été trouvée.">
 
 <!ENTITY importSource.title              "Importer des paramètres et des données">
 <!ENTITY importItems.title               "Éléments à importer">
