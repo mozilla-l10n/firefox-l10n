@@ -56,6 +56,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Reťazec User Agent">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Využitie pamäte">
+<!ENTITY aboutSupport.appBasicsPerformance "Výkon">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registrovaní Service Workers">
@@ -88,6 +89,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.lockedPrefsValue "Hodnota">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
+
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Inkrementálne GC">
