@@ -18,14 +18,19 @@
 <!ENTITY firstrun_signin_message "Pripojte sa a začnite">
 <!ENTITY firstrun_signin_button "Prihlásiť sa k službe Sync">
 <!ENTITY  onboard_start_button_browser "Začať prehliadať">
+<!ENTITY firstrun_button_notnow "Teraz nie">
 <!ENTITY firstrun_button_next "Ďalej">
 
+<!ENTITY firstrun_tabqueue_title "Odkazy">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
+<!ENTITY firstrun_tabqueue_message_on "Úspech!">
 
+<!ENTITY firstrun_readerview_title "Články">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Vy">
 
 <!ENTITY  onboard_start_restricted1 "Buďte v bezpečí a majte veci pod kontrolou s touto zjednodušenou verziou prehliadača &brandShortName;.">
 
@@ -71,6 +76,7 @@
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_one_item "1 položka">
 
 <!ENTITY reader_saved_offline "Uložené offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -297,8 +303,10 @@
 <!ENTITY content_notification_title_plural "&formatD; aktualizovaných webových stránok">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Nastavenia">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Prečítať teraz">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -550,6 +558,7 @@ size. -->
 <!ENTITY home_synced_devices_smartfolder "Synchronizované zariadenia">
 <!ENTITY home_synced_devices_number "počet zariadení: &formatD;">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 zariadenie">
 <!ENTITY home_history_back_to2 "Naspäť na Históriu">
 <!ENTITY home_clear_history_button "Vymazať históriu prehliadania">
 <!ENTITY home_clear_history_confirm "Naozaj chcete vymazať svoju históriu prehliadania?">
@@ -790,4 +799,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_message "Nájdite svoje položky zo Zoznamu na prečítanie medzi Záložkami, aj v režime offline.">
 <!ENTITY helper_first_offline_bookmark_button "Prejsť medzi Záložky">
 
+<!ENTITY helper_triple_readerview_open_title "Dostupné offline">
+<!ENTITY helper_triple_readerview_open_button "Pridať medzi záložky">
 
