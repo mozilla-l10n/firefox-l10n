@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY  trackingProtectionHeader.label       "سراغ راہ حفاظت استعمال کریں">
+<!ENTITY  trackingProtectionAlways.label       "ہمیشہ">
+<!ENTITY  trackingProtectionAlways.accesskey   "ہ">
+<!ENTITY  trackingProtectionPrivate.label      "صرف نجی ونڈوں میں">
+<!ENTITY  trackingProtectionPrivate.accesskey  "ف">
+<!ENTITY  trackingProtectionNever.label        "کبھی نہیں">
+<!ENTITY  trackingProtectionNever.accesskey    "ک">
 <!ENTITY  trackingProtectionLearnMore.label    "مزید سیکھیں">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "استثنیات…">
+<!ENTITY  trackingProtectionExceptions.accesskey "ا">
 
 <!ENTITY tracking.label                 "ٹریکنگ">
 <!ENTITY trackingProtectionPBM5.label         "ذاتی ونڈوز میں ٹریکنگ حفاظت کا استعمال کریں">
@@ -20,6 +22,8 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
+<!ENTITY  doNotTrack.pre.label          "آپ بھی ">
+<!ENTITY  doNotTrack.settings.label     "ٹریےک نہ کریں کی سیٹنگیں کو بندوبست کریں">
 
 
 <!ENTITY  history.label                 "سابقات">

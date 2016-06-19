@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "آپ نے پہلے &syncBrand.fullName.label; استعمال کیا ہے؟">
 <!ENTITY setup.choicePage.new.label       "میں نے پہلے کبھی &syncBrand.shortName.label; نہیں استعمال کیا">
-<!ENTITY setup.choicePage.existing2.label "میں پہلے سے ہی &syncBrand.shortName.label; ایک اور کمپیوٹر پر استعمال کر رہی/رہا ہوں">
+<!ENTITY setup.choicePage.existing2.label "میں پہلے سے ہی &syncBrand.shortName.label; ایک اور آلہ پر استعمال کر رہا ہوں">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "پیش کار">

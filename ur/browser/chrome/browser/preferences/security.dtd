@@ -11,8 +11,11 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "خطرناک اور دھوکہ دینے والے مواد کو بلاک کریں">
+<!ENTITY  enableSafeBrowsing.accesskey    "ب">
 
-
+<!ENTITY  blockDownloads.label            "خطرناک ڈاؤن لوڈز کو بلاک کریں">
+<!ENTITY  blockDownloads.accesskey        "خ">
 
 
 
