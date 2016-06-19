@@ -89,6 +89,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Celovitost">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Preveri celovitost">
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Inkrementalen GC">
 
