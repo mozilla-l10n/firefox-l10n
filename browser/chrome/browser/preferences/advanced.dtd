@@ -105,8 +105,8 @@
 <!ENTITY offlineAppRemove.confirm        "เอาข้อมูลออฟไลน์ออก">
 
 <!ENTITY certificateTab.label            "ใบรับรอง">
-<!ENTITY certSelection.label             "การร้องขอ">
-<!ENTITY certSelection.description       "เมื่อเซิร์ฟเวอร์ร้องขอใบรับรองส่วนตัว:">
+<!ENTITY certSelection.label             "คำร้องขอ">
+<!ENTITY certSelection.description       "เมื่อเซิร์ฟเวอร์ร้องขอใบรับรองส่วนบุคคลของฉัน:">
 <!ENTITY certs.auto                      "เลือกอัตโนมัติ">
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "ถามฉันทุกครั้ง">
