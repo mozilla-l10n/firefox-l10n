@@ -87,7 +87,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "Gaitu nabigatzailearen interfazea eta gehigarriak arazteko tresna-kutxak">
-<!ENTITY options.enableChrome.tooltip3  "Aukera hau gaituz gero, hainbat garatzaile-tresna nabigatzailearen testuinguruan erabili (Tresnak > Web garapena > Nabigatzailearen tresna-kutxa bidez) eta gehigarrien kudeatzailetik araztu ahal izango dituzu">
+<!ENTITY options.enableChrome.tooltip3  "Ezarrita badago, hainbat garatzaile-tresna nabigatzailearen testuinguruan erabili (Tresnak > Web garapena > Nabigatzailearen tresna-kutxa bidez) eta gehigarrien kudeatzailetik araztu ahal izango dituzu">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -99,7 +99,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableWorkers.label    "Gaitu langileen arazketa (garapenean)">
-<!ENTITY options.enableWorkers.tooltip  "Aukera hau gaituz gero, garatzaile-tresnek langileak arazi ahal izango dituzte">
+<!ENTITY options.enableWorkers.tooltip  "Ezarrita badago, garatzaile-tresnek langileak arazi ahal izango dituzte">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -111,13 +111,13 @@
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
 <!ENTITY options.disableHTTPCache.label     "Desgaitu HTTP cachea (tresna-kutxa irekita dagoenean)">
-
+<!ENTITY options.disableHTTPCache.tooltip   "Ezarrita badago, Ezarrita badago, HTTP cachea desgaitu egingo da tresna-kutxa zabalik duten fitxa guztietan. Aukera honek ez die zerbitzu-langileei eragiten.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "Gaitu zerbitzu-langileak HTTP bidez (tresna-kutxa irekita dagoenean)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Aukera hau gaituz gero, zerbitzu-langileak HTTP bidez erabilgarri egongo dira tresna-kutxa zabalik duten fitxa guztietan.">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Ezarrita badago, zerbitzu-langileak HTTP bidez erabilgarri egongo dira tresna-kutxa zabalik duten fitxa guztietan.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
