@@ -6,7 +6,10 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Deschide o fereastră privată">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
+<!ENTITY privateBrowsing.title                           "Navigare privată">
 <!ENTITY privateBrowsing.title.tracking                  "Navigare privată cu protecție față de urmărire">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Când navigați în modul privat, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nu salvează">
 
 
 
@@ -18,13 +21,11 @@
 
 
 
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "nu vă face anonimi">
+<!ENTITY aboutPrivateBrowsing.note.after                 " pe internet. Angajatorul dumneavoastră sau furnizorul de internet pot să știe în continuare paginile pe care le vizitați.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Aflați mai multe despre">
 
 
 <!ENTITY trackingProtection.title                        "Protecție față de urmărire">
-
-
+<!ENTITY trackingProtection.description2                 "Unele site-uri folosesc mecanisme de urmărire care pot monitoriza activitatea dumneavoastră pe internet. Cu ajutorul protecției față de urmărire Firefox va bloca multe mecanisme de urmărire care pot colecta informații despre activitatea de navigare.">
+<!ENTITY trackingProtection.startTour1                   "Vezi cum funcționează">
