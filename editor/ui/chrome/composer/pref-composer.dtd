@@ -7,6 +7,7 @@
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+<!ENTITY  pref.composer.title           "Σύνταξη μηνυμάτων">
 <!ENTITY  recentFiles.title             "Μενού πρόσφατων σελίδων">
 <!ENTITY  documentsInMenu.label         "Μέγιστος αριθμός ιστορικού σελίδων:">
 <!ENTITY  documentsInMenu.accesskey     "γ">
@@ -25,3 +26,4 @@
 <!ENTITY  useCSS.label                  "Χρήση CSS styles αντί για γνωρίσματα HTML">
 <!ENTITY  useCSS.accesskey              "Χ">
 <!ENTITY  crInPCreatesNewP.label        "Το πλήκτρο Return σε μια παράγραφο να δημιουργεί πάντα νέα παράγραφο">
+<!ENTITY  crInPCreatesNewP.accesskey    "ρ">

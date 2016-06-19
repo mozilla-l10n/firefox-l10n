@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "ρ">
 <!ENTITY restoreHTMLDefaults.label            "Επαναφορά προεπιλογών">
 <!ENTITY restoreHTMLDefaults.accesskey        "φ">
+<!ENTITY defaultToParagraph.label             "Χρήση της μορφής παραγράφου αντί της μορφής σώματος κειμένου ως προεπιλογή">
+<!ENTITY defaultToParagraph.accesskey         "π">
 
 <!ENTITY spellCheck.label                     "Ορθογραφικός έλεγχος πριν την αποστολή">
 <!ENTITY spellCheck.accesskey                 "θ">

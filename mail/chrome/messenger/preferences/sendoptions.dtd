@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "Επιλογές αποστολής">
 <!ENTITY sendMail.title               "Μορφή κειμένου">
+<!ENTITY autoDowngrade.label          "Αποστολή μηνυμάτων ως απλό κείμενο αν είναι δυνατόν">
+<!ENTITY autoDowngrade.accesskey      "α">
 <!ENTITY sendMaildesc.label           "Κατά την αποστολή μηνυμάτων σε μορφή HTML και αν δεν επιθυμούν HTML όλοι οι παραλήπτες:">
 <!ENTITY askMe.label                  "Ερώτηση για το τι να κάνω">
 <!ENTITY askMe.accesskey              "ρ">
@@ -17,6 +19,7 @@
 
 <!ENTITY domaindesc.label             "Όταν στέλνετε ένα μήνυμα σε μια διεύθυνση που ανήκει τους παρακάτω τομείς,  ο &brandShortName; επιλέγει αυτόματα τη σωστή μορφοποίηση για τον ανάλογο τομέα. ">
 <!ENTITY HTMLTab.label                "Τομείς HTML">
+<!ENTITY HTMLTab.accesskey            "τ">
 <!ENTITY PlainTextTab.label           "Τομείς απλού κειμένου">
 <!ENTITY PlainTextTab.accesskey       "π">
 <!ENTITY AddHtmlDomain.label          "Προσθήκη…">

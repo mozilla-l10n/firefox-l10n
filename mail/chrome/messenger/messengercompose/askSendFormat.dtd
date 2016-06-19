@@ -14,6 +14,7 @@
 <!ENTITY plainTextOnly.label "Αποστολή μόνο σε απλό κείμενο">
 <!ENTITY plainTextOnly.accesskey "λ">
 <!ENTITY htmlOnly.label "Aποστολή μόνο σε HTML">
+<!ENTITY htmlOnly.accesskey "τ">
 
 <!ENTITY send.label "Αποστολή">
 <!ENTITY send.accesskey "σ">
