@@ -192,6 +192,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "Restaurar pestañas, ahorrador de datos, herramientas de desarrollador">
 <!ENTITY pref_category_notifications "Notificaciones">
 <!ENTITY pref_category_notifications_summary "Nuevas características, actualizaciones de sitio web">
 <!ENTITY pref_content_notifications "Actualizaciones de sitio web">
@@ -245,6 +246,7 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_data_saver "Ahorrador de datos">
 <!ENTITY pref_category_media "Medios">
 <!ENTITY pref_category_developer_tools "Herramientas de desarrollador">
 
