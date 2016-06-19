@@ -840,7 +840,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Ativar proteção">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
-<!ENTITY trackingContentBlocked.disabled.message "A proteção contra monitorização está inativa">
+<!ENTITY trackingContentBlocked.disabled.message "A proteção contra monitorização está desativada">
 
 <!ENTITY pointerLock.notification.message "Prima ESC para voltar a mostrar.">
 

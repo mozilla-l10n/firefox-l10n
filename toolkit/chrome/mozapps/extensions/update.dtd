@@ -37,7 +37,7 @@
 <!ENTITY  finished.checkEnabled.desc      "O &brandShortName; verificará regularmente e informá-lo-áquando existirem atualizações para os seus extras.">
 
 <!ENTITY  adminDisabled.wizard.title      "Incapaz de verificar a existência de atualizações">
-<!ENTITY  adminDisabled.warning.label     "Não foi possível verificar a existência de atualizações para os extrasincompatíveis, porque a instalação de aplicações no &brandShortName; está inativa.Por favor contacte o seu administrador de sistemas.">
+<!ENTITY  adminDisabled.warning.label     "Não foi possível procurar por atualizações para os extras incompatíveis, porque a instalação de software no &brandShortName; está desativada. Por favor, contacte o seu administrador de sistemas para assistência.">
 
 <!ENTITY  versioninfo.wizard.title        "A verificar compatibilidade dos extras">
 <!ENTITY  versioninfo.top.label           "A verificar compatibilidade dos seus extras paraesta versão do &brandShortName;.">

@@ -30,10 +30,10 @@
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Todos os extras foram desativados pelo modo de segurança.">
-<!ENTITY warning.checkcompatibility.label          "A verificação de compatibilidade do extra está inativa. Poderá ter extras incompatíveis.">
+<!ENTITY warning.checkcompatibility.label          "A verificação de compatibilidade de extras está desativada. Poderá ter extras incompatíveis.">
 <!ENTITY warning.checkcompatibility.enable.label   "Ativar">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Ativar verificação de compatibilidade de extras">
-<!ENTITY warning.updatesecurity.label              "A verificação de compatibilidade de extras está inativa. Poderá estar comprometido com atualizações.">
+<!ENTITY warning.updatesecurity.label              "A verificação de compatibilidade de extras está desativada. Poderá estar comprometido com atualizações.">
 <!ENTITY warning.updatesecurity.enable.label       "Ativar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Ativar verificação de segurança de atualização do extra">
 <!-- global informations -->
