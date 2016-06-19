@@ -26,6 +26,7 @@
 <!ENTITY showUnsignedExtensions.button.label  "אין אפשרות לאמת חלק מההרחבות">
 <!ENTITY showAllExtensions.button.label       "הצגת כל ההרחבות">
 <!ENTITY debugAddons.label                    "ניפוי שגיאות של תוספות">
+<!ENTITY debugAddons.accesskey                "נ">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "כל התוספות נוטרלו במצב בטוח.">
