@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Gwezher arveriad">
 <!ENTITY aboutSupport.appBasicsOS "Reizhiad Korvoiñ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Arver ar vemor">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Digonusted">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Labourerien gwazerezh marilhet">
