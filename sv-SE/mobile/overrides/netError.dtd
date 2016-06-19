@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.title "Adressen är inte giltig">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul><li>Webbadresser skrivs vanligen som <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Sök</button>  </div> <li>Se till att du använder snedstreck (dvs.. / <strong>/</strong>.</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Webbadresser skrivs vanligen som <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Sök</button> </div> <li>Se till att du använder snedstreck (d.v.s. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Anslutningen avbröts">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">

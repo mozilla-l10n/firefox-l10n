@@ -10,7 +10,7 @@
 <!ENTITY aboutPage.checkForUpdates.checking     "Söker efter uppdateringar…">
 <!ENTITY aboutPage.checkForUpdates.none         "Finns inga uppdateringar">
 <!ENTITY aboutPage.checkForUpdates.available2   "Hämta uppdatering">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Hämtar uppdatering …">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Hämtar uppdatering…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Installera uppdatering">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Support">

@@ -17,7 +17,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Webbsidan på <span id='phishing_sitename'/> har rapporterats som en vilseledande webbplats och har blockerats enligt dina säkerhetsinställningar.">
 <!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Vilseledande webbplatser är utformade för att lura dig att göra något farligt, som att installera programvara, eller avslöja din personliga information, som lösenord, telefonnummer eller kreditkort.</p><p>Att uppge information på den här webbsidan kan resultera i identitetsstöld eller annat bedrägeri.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Rapporterad oönskad mjukvaru sida! ">
+<!ENTITY safeb.blocked.unwantedPage.title "Rapporterad oönskad mjukvarusida!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Webbsidan på <span id='unwanted_sitename'/> har rapporterats göra angrepp på telefoner/datorer och har därför blockerats enligt dina säkerhetsinställningar.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Oönskade programvarusidor kan försöka installera programvara som kan vara vilseledande och påverka ditt system på oväntade sätt.">

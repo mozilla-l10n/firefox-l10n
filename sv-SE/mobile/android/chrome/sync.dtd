@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Synka nu">
 
 <!ENTITY sync.setup.title           "Anslut till Sync">
-<!ENTITY sync.setup.pair            "Aktivera genom att välja &quot;Para ihop enheter&quot; på din andra enhet">
+<!ENTITY sync.setup.pair            "Aktivera genom att välja &quot;Para ihop enheter&quot; på din andra enhet.">
 <!ENTITY sync.fallback              "Jag har inte tillgång till datorn nu…">
 <!ENTITY sync.setup.manual          "Ange dina Sync-kontouppgifter">
 <!ENTITY sync.account               "Kontonamn">

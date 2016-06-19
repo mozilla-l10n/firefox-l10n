@@ -24,5 +24,5 @@
 
 <!ENTITY search_widget_button_label "Sök">
 
-<!ENTITY network_error_title "Ingen Internetanslutning">
+<!ENTITY network_error_title "Ingen internetanslutning">
 <!ENTITY network_error_message "Tryck här för att checka dina nätverksinställningar">
