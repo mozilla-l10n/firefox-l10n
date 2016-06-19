@@ -17,7 +17,7 @@
 <!ENTITY sync.link.nodevice.label "Jag har inte tillgång till enheten just nu…">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.passwords2 "Inloggningar ">
+<!ENTITY sync.configure.engines.title.passwords2 "Inloggningar">
 <!ENTITY sync.configure.engines.title.history "Historik">
 <!ENTITY sync.configure.engines.title.tabs "Flikar">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
@@ -55,9 +55,9 @@
 <!ENTITY fxaccount_status_manage_account "Hantera konto">
 <!ENTITY fxaccount_status_auth_server "Konto server">
 <!ENTITY fxaccount_status_sync_now "Synkronisera nu">
-<!ENTITY fxaccount_status_syncing2 "Synkroniserar...">
+<!ENTITY fxaccount_status_syncing2 "Synkroniserar…">
 <!ENTITY fxaccount_status_device_name "Enhetsnamn">
-<!ENTITY fxaccount_status_sync_server "Sync Server">
+<!ENTITY fxaccount_status_sync_server "Sync server">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: aktiverat">
 <!ENTITY fxaccount_status_needs_verification2 "Ditt konto måste bekräftas. Tryck för att skicka ett nytt verifieringsmeddelande.">
@@ -68,7 +68,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Tryck för att logga in till ditt nya Firefox Konto.">
 <!ENTITY fxaccount_status_bookmarks "Bokmärken">
 <!ENTITY fxaccount_status_history "Historik">
-<!ENTITY fxaccount_status_passwords2 "Inloggningar ">
+<!ENTITY fxaccount_status_passwords2 "Inloggningar">
 <!ENTITY fxaccount_status_tabs "Öppna flikar">
 <!ENTITY fxaccount_status_legal "Juridisk information" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -78,10 +78,10 @@
 <!ENTITY fxaccount_status_linktos2 "Tjänstevillkoren">
 <!ENTITY fxaccount_status_linkprivacy2 "Integritetspolicy">
 <!ENTITY fxaccount_status_more "Mer&ellipsis;">
-<!ENTITY fxaccount_remove_account "Koppla Från&ellipsis;">
+<!ENTITY fxaccount_remove_account "Koppla från&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Ta bort Firefox Konto?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; kommer sluta att synca med ditt konto, men kommer inte att ta bort något av din webläsardata på enheten">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; kommer sluta att synka med ditt konto, men kommer inte att ta bort något av din webbläsardata på enheten.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox Konto &formatS; borttaget.">
@@ -97,7 +97,7 @@
      status activity, which lets them manage their Firefox
      Account. -->
 
-<!ENTITY fxaccount_options_title "&syncBrand.shortName.label;-alternativ">
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; Alternativ">
 <!ENTITY fxaccount_options_configure_title "Anpassa &syncBrand.shortName.label;">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
