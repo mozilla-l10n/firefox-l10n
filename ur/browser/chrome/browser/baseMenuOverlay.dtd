@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "خدمات">
 
 <!ENTITY hideThisAppCmdMac2.label       "چھپائیں &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "ہے">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "دیگر چھپائیں">
-<!ENTITY hideOtherAppsCmdMac.commandkey "ہے">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "تمام دکھائیں">

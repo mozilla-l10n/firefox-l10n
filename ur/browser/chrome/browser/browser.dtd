@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "حالیہ نشانی کردہ">
 <!ENTITY otherBookmarksCmd.label "دیگر نشانیاں">
 <!ENTITY bookmarksToolbarChevron.tooltip "اور نشانیاں دکھائیں">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "حالیہ نشانی کردہ دکھائیں">
+<!ENTITY showRecentlyBookmarked.accesskey "ھ">
+<!ENTITY hideRecentlyBookmarked.label     "حالیہ نشانی کردہ چھپائیں">
+<!ENTITY hideRecentlyBookmarked.accesskey "ھ">
 
 <!ENTITY backCmd.label                "واپس">
 <!ENTITY backButton.tooltip           "ایک صفحہ واپس جائیں">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "بغلی بار میں نشانیاں دیکھیں">
 <!ENTITY viewBookmarksToolbar.label         "نشانیاں ٹول بار دیکھیں">
 
+<!ENTITY containersMenu.label "کنٹینرز">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -343,7 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "کوی ہم وقت ٹیب ابی موجود نہیں…اب نک!">
+<!ENTITY appMenuRemoteTabs.noclients.title "کوی ہم وقت ٹیب ابی موجود نہیں…اب تک!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "اپنے ٹیب کو دوسرے آلات سے یہاں سے دیکھنا پسند کریں گے؟">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ہمہ وقت ساز ترجیحات">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ٹیبیں کی فہرست دیکھنے کے لئے اپنے دیگر آلات سے سائن ان کریں۔">
@@ -555,22 +556,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "خ">
 <!ENTITY mediaUnmute.label           "انمیوٹ">
 <!ENTITY mediaUnmute.accesskey       "ا">
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "چلنے کی رفتار">
+<!ENTITY mediaPlaybackRate2.accesskey "چ">
+<!ENTITY mediaPlaybackRate050x2.label "(0.5×) گنا اہستہ ">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "عام">
+<!ENTITY mediaPlaybackRate100x2.accesskey "ع">
+<!ENTITY mediaPlaybackRate125x2.label "(1.25×) گنا تیز">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
 
 
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 
-
-
+<!ENTITY mediaLoop.label             "دہراؤ">
+<!ENTITY mediaLoop.accesskey         "د">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -707,8 +708,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "ن">
 <!ENTITY identity.learnMore "مزید سیکھیں">
 
-<!ENTITY identity.removeCertException.label "رعایت ہٹا دیں">
-<!ENTITY identity.removeCertException.accesskey "ر">
+<!ENTITY identity.removeCertException.label "استثنا ہٹائیں">
+<!ENTITY identity.removeCertException.accesskey "ہ">
 
 <!ENTITY identity.moreInfoLinkText2 "مزید معلومات">
 
@@ -723,8 +724,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "ہمہ وقت ساز ٹیب">
 
 <!ENTITY syncedTabs.sidebar.label              "ہمہ وقت ساز ٹیب">
-
-<!ENTITY syncedTabs.sidebar.noclients.title    "کوی ہم وقت ٹیب ابی موجود نہیں…اب نک!">
+<!ENTITY syncedTabs.sidebar.noclients.label    "یہاں انکے ٹیبیں دیکھنیں کے لئے اپنے دیگر آلات سے Firefox میں سائن ان کرے۔">
+<!ENTITY syncedTabs.sidebar.noclients.title    "کوی ہم وقت ٹیب ابی موجود نہیں…اب تک!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "اپنے ٹیب کو دوسرے آلات سے یہاں سے دیکھنا پسند کریں گے؟">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ٹیبیں کی فہرست دیکھنیں کے لئے اپنے دیگر آلات سے سائن ان کریں۔">
 <!ENTITY syncedTabs.sidebar.notabs.label       "کوئی کھلے ٹیب نہیں">
@@ -737,9 +738,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.open.accesskey                   "ک">
 <!ENTITY syncedTabs.context.openInNewTab.label               "نئے ٹیب میں کھولیں">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "ئ">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "ربط نئی ونڈوں میں کھولیں">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "نئی ونڈوں میں کھولیں">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "و">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "ربط نئے نجی ونڈوں میں کھولیں">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "نئے نجی ونڈوں میں کھولیں">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "ن">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "یہ صفحہ نشان زد کریں...">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ن">
