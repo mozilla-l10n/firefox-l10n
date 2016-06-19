@@ -751,9 +751,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "Suplimente">
 
 <!ENTITY restrictable_feature_private_browsing "Navigare fără urme">
-
+<!ENTITY restrictable_feature_private_browsing_description "Permite membrilor familiei să navigheze fără stocarea informațiilor despre site-urile și paginile vizitate.">
 <!ENTITY restrictable_feature_clear_history "Șterge istoricul">
-
+<!ENTITY restrictable_feature_clear_history_description "Permite membrilor familiei să șteargă informații despre site-urile și paginile pe care le-au vizitat.">
 <!ENTITY restrictable_feature_advanced_settings "Setări avansate">
 
 <!ENTITY restrictable_feature_camera_microphone "Cameră și microfon">
