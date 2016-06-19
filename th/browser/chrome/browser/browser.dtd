@@ -194,7 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
 <!ENTITY urlbar.defaultNotificationAnchor.label         "ดูการแจ้งเตือน">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "ดูการร้องขอตำแหน่งที่ตั้ง">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "ดูคำร้องขอตำแหน่งที่ตั้ง">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "ดูข้อความการติดตั้งส่วนเสริม">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "ดูข้อความที่เก็บข้อมูลออฟไลน์">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "จัดการข้อมูลการเข้าสู่ระบบของคุณ">

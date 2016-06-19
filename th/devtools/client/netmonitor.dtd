@@ -140,7 +140,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.method): This is the label displayed
   -  in the network details headers tab identifying the method. -->
 
-<!ENTITY netmonitorUI.summary.method      "Request method:">
+<!ENTITY netmonitorUI.summary.method      "วิธีการร้องขอ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.address): This is the label displayed
   -  in the network details headers tab identifying the remote address. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.status): This is the label displayed
@@ -240,6 +240,8 @@
   -  for the Copy as cURL menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
+
+<!ENTITY netmonitorUI.context.copyRequestHeaders     "คัดลอกส่วนหัวคำร้องขอ">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
@@ -276,6 +278,8 @@
      from the currently displayed request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.requestHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw request headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.requestHeaders "ส่วนหัวคำร้องขอ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.responseHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw response headers textarea -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
@@ -293,7 +297,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.newRequest): This is the label displayed
   -  as the title of the new custom request form -->
 
-<!ENTITY netmonitorUI.custom.newRequest   "การร้องขอใหม่">
+<!ENTITY netmonitorUI.custom.newRequest   "คำร้องขอใหม่">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.query): This is the label displayed
   -  above the query string entry in the custom request form -->
 
@@ -301,11 +305,11 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.headers): This is the label displayed
   -  above the request headers entry in the custom request form -->
 
-<!ENTITY netmonitorUI.custom.headers      "ส่วนหัวของการร้องขอ:">
+<!ENTITY netmonitorUI.custom.headers      "ส่วนหัวคำร้องขอ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.postData): This is the label displayed
   -  above the request body entry in the custom request form -->
 
-<!ENTITY netmonitorUI.custom.postData     "ส่วนเนื้อหาของการร้องขอ:">
+<!ENTITY netmonitorUI.custom.postData     "เนื้อหาคำร้องขอ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.send): This is the label displayed
   -  on the button which sends the custom request -->
 
