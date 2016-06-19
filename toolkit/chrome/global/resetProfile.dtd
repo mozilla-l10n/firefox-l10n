@@ -6,7 +6,7 @@
 <!ENTITY refreshProfile.dialog.description1  "เริ่มใหม่เพื่อแก้ไขปัญหาและเรียกคืนประสิทธิภาพ">
 <!ENTITY refreshProfile.dialog.description2  "นี้จะ:">
 <!ENTITY refreshProfile.dialog.items.label1  "เอาส่วนเสริมและการปรับแต่งของคุณออก">
-<!ENTITY refreshProfile.dialog.items.label2  "เรียกคืนการตั้งค่าเบราเซอร์ดั้งเดิมกลับคืนมา">
+<!ENTITY refreshProfile.dialog.items.label2  "เรียกคืนการตั้งค่าเบราว์เซอร์ปริยายของคุณ">
 <!ENTITY refreshProfile.dialog.button.label  "เรียก &brandShortName; ใหม่">
 
 <!ENTITY refreshProfile.title                "รีดประสิทธิภาพ &brandShortName;">
