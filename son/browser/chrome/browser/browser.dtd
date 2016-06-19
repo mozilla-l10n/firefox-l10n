@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Kokor doo-šilbantey">
 <!ENTITY otherBookmarksCmd.label "Doo-šilbay taaney">
 <!ENTITY bookmarksToolbarChevron.tooltip "Doo-šilbay tontoney cebe">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Kokor doo-šilbantey cebe">
+<!ENTITY showRecentlyBookmarked.accesskey "e">
+<!ENTITY hideRecentlyBookmarked.label     "Kokor doo-šilbantey tugu">
+<!ENTITY hideRecentlyBookmarked.accesskey "t">
 
 <!ENTITY backCmd.label                "Banda">
 <!ENTITY backButton.tooltip           "Yee moo foo banda">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Doo-šilbawey goyjinay zuu">
 <!ENTITY viewBookmarksToolbar.label         "Doo-šilbawey goyjinay žeeri">
 
+<!ENTITY containersMenu.label "Diikey">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -555,22 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "J">
 <!ENTITY mediaUnmute.label           "Jinde feeri">
 <!ENTITY mediaUnmute.accesskey       "J">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "Hẽenandiyan cahãri">
+<!ENTITY mediaPlaybackRate2.accesskey "i">
+<!ENTITY mediaPlaybackRate050x2.label "Mosso (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "s">
+<!ENTITY mediaPlaybackRate100x2.label "Hankul">
+<!ENTITY mediaPlaybackRate100x2.accesskey "H">
+<!ENTITY mediaPlaybackRate125x2.label "Cahã (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "C">
+<!ENTITY mediaPlaybackRate150x2.label "Cahã ka tonton (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Haarayhaya (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "r">
+<!ENTITY mediaLoop.label             "Kunkuni">
+<!ENTITY mediaLoop.accesskey         "K">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -679,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Ciyari moora">
 <!ENTITY identity.connectionNotSecure "Ciyaroo manti saajante">
 <!ENTITY identity.connectionFile "Moɲoo woo n' ka jisandii war ordinateroo ga.">
-
+<!ENTITY identity.connectionVerified2 "War dobu nda saajaw nungoo woo ga, kaŋ maykaa ti:">
 <!ENTITY identity.connectionInternal "Woo ti &brandShortName; moo saajante.">
 <!ENTITY identity.insecureLoginForms2 "Huruyan šilbawey kaŋ goo moɲoo woo ši hima saajante.">
 <!-- Strings for connection state warnings. -->
