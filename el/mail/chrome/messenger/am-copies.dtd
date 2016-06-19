@@ -36,6 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "άλλο:">
 <!ENTITY archiveInOtherFolder.accesskey "λ">
 <!ENTITY specialFolders.label "Προσχέδια και πρότυπα">
+<!ENTITY keepDrafts2.label "Να αποθηκεύονται τα προσχέδια μηνυμάτων στο:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "φάκελο &quot;Προσχέδια&quot; στο:">
 <!ENTITY draftsFolderOn.accesskey "σ">
