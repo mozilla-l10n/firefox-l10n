@@ -155,8 +155,6 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blokované kvôli zásadám ochrany obsahu">
 <!ENTITY cspBlocked.longDesc "<p>Prehliadač &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
 
-<!ENTITY corruptedContentError.title "Poškodený obsah stránky">
-<!ENTITY corruptedContentError.longDesc "<p>Táto stránka nemohla byť zobrazená kvôli chybe pri prenose údajov.</p><ul><li>Kontaktuje prevádzkovateľa webovej stránky a informujte ho o tomto probléme.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Pridať výnimku…">
@@ -180,6 +178,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> používa bezpečnostnú technológiu, ktorá je zastaraná a je náchylná na útoky. Útočník sa môže jednoducho dostať k informáciám, o ktorých si myslíte, že sú v bezpečí.">
 <!ENTITY weakCryptoAdvanced.override "(Nezabezpečené) Vyskúšať načítať <span class='hostname'></span> použitím zastaraného zabezpečenia">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+
 <!ENTITY certerror.pagetitle1  "Nezabezpečené pripojenie">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Táto stránka používa HTTP
 Strict Transport Security (HSTS), čím určuje, že &brandShortName; sa k nej má pripájať len zabezpečene.
@@ -190,3 +191,6 @@ Výsledkom toho je, že pre tento certifikát nie je možné pridať výnimku.">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> využíva technológiu zabezpečenia, ktorá je zastaraná a zraniteľná voči útokom. Útočník by mohol jednoducho odhaliť informácie, o ktorých ste si mysleli, že sú v bezpečí. Správca webovej stránky ju bude musieť pred jej ďalšou návštevou opraviť.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY prefReset.longDesc "Zdá sa, že príčinou môžu byť vaše nastavenia zabezpečenia internetu. Chceli by ste obnoviť predvolené nastavenia?">
+<!ENTITY prefReset.label "Obnoviť predvolené nastavenia">
