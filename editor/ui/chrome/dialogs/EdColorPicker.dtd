@@ -6,7 +6,9 @@
 <!ENTITY lastPickedColor.label "Τελευταίο επιλεγμένο χρώμα">
 <!ENTITY lastPickedColor.accessKey "λ">
 <!ENTITY setColor1.label "Πατήστε σε ένα χρώμα ή">
-<!ENTITY setColor2.label "καταχωρίστε ένα string χρώματος HTML">
+<!ENTITY setColor2.label "καταχωρίστε την HTML συμβολοσειρά χρώματος">
+<!ENTITY setColor2.accessKey "υ">
+<!ENTITY setColorExample.label "(π.χ..: &quot;#0000ff&quot; ή &quot;blue&quot;):">
 <!ENTITY default.label "Προεπιλεγμένο ">
 <!ENTITY default.accessKey "λ">
 <!ENTITY palette.label "Παλέτα:">
@@ -15,6 +17,6 @@
 <!ENTITY background.label "Φόντο για:">
 <!ENTITY background.accessKey "Φ">
 <!ENTITY table.label "Πίνακας">
-<!ENTITY table.accessKey "κ">
+<!ENTITY table.accessKey "π">
 <!ENTITY cell.label "Κελί(α)">
 <!ENTITY cell.accessKey "Κ">

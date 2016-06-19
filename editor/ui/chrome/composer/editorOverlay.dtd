@@ -5,25 +5,31 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
+<!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Επικόλληση χωρίς μορφοποίηση">
 <!ENTITY pasteNoFormatting.accesskey "κ">
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Επικόλληση ως">
 <!ENTITY pasteAs.accesskey "ω">
 <!ENTITY pasteAsQuotationCmd.label "Επικόλληση ως παράθεση">
 <!ENTITY pasteAsQuotationCmd.accesskey "ρ">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY findBarCmd.label "Εύρεση…">
 <!ENTITY findReplaceCmd.label "Εύρεση και αντικατάσταση…">
 <!ENTITY enableInlineSpellChecker.label "Ορθογραφικός έλεγχος κατά την πληκτρολόγηση">
 <!ENTITY enableInlineSpellChecker.accesskey "θ">
 <!ENTITY checkSpellingCmd2.label "Ορθογραφικός έλεγχος">
 <!ENTITY checkSpellingCmd2.accesskey "χ">
+<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Εισαγωγή">
 <!ENTITY insertMenu.accesskey "ι">
 <!ENTITY insertLinkCmd.label "Δεσμός…">
 <!ENTITY insertLinkCmd.accesskey "Δ">
+<!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "Άγκυρα…">
 <!ENTITY insertAnchorCmd.accesskey "α">
 <!ENTITY insertImageCmd.label "Εικόνα…">
@@ -32,6 +38,10 @@
 <!ENTITY insertHLineCmd.accesskey "ζ">
 <!ENTITY insertTableCmd.label "Πίνακας…">
 <!ENTITY insertTableCmd.accesskey "κ">
+<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Μαθηματικά…">
+<!ENTITY insertMathCmd.accesskey "Μ">
 <!ENTITY insertCharsCmd.label "Χαρακτήρες και σύμβολα…">
 <!ENTITY insertCharsCmd.accesskey "Χ">
 <!ENTITY insertBreakAllCmd.label "Αλλαγή κάτω από εικόνα">
@@ -51,6 +61,13 @@
 <!ENTITY fontVarWidth.accesskey "β">
 <!ENTITY fontFixedWidth.label "Σταθερού πλάτους">
 <!ENTITY fontFixedWidth.accesskey "θ">
+<!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fontTimes.accesskey "T">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Επιλογή μεγέθους γραμματοσειράς">
@@ -65,29 +82,31 @@
 
 <!ENTITY fontSizeMenu.label "Μέγεθος">
 <!ENTITY fontSizeMenu.accesskey "θ">
-<!ENTITY size-xx-smallCmd.label "xx-μικρό">
-<!ENTITY size-xx-smallCmd.accesskey "ρ">
-<!ENTITY size-x-smallCmd.label "x-μικρό">
-<!ENTITY size-x-smallCmd.accesskey "ι">
+<!ENTITY size-tinyCmd.label "Μικροσκοπικά">
+<!ENTITY size-tinyCmd.accesskey "ι">
 <!ENTITY size-smallCmd.label "μικρά">
 <!ENTITY size-smallCmd.accesskey "μ">
 <!ENTITY size-mediumCmd.label "μεσαίο">
 <!ENTITY size-mediumCmd.accesskey "σ">
 <!ENTITY size-largeCmd.label "μεγάλο">
 <!ENTITY size-largeCmd.accesskey "λ">
-<!ENTITY size-x-largeCmd.label "x-μεγάλο">
-<!ENTITY size-xx-largeCmd.label "xx-μεγάλο">
-<!ENTITY size-xx-largeCmd.accesskey "ε">
+<!ENTITY size-extraLargeCmd.label "Πολύ μεγάλα">
+<!ENTITY size-extraLargeCmd.accesskey "π">
+<!ENTITY size-hugeCmd.label "Τεράστια">
+<!ENTITY size-hugeCmd.accesskey "ρ">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Στυλ κειμένου">
 <!ENTITY fontStyleMenu.accesskey "Σ">
 <!ENTITY styleBoldCmd.label "Έντονα">
 <!ENTITY styleBoldCmd.accesskey "ν">
+<!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Πλάγια">
 <!ENTITY styleItalicCmd.accesskey "λ">
+<!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "Υπογράμμιση">
 <!ENTITY styleUnderlineCmd.accesskey "Υ">
+<!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Διαγράμμιση">
 <!ENTITY styleStrikeThruCmd.accesskey "Δ">
 <!ENTITY styleSuperscriptCmd.label "Εκθέτης">
@@ -118,19 +137,28 @@
 <!ENTITY tableOrCellColor.label "Χρώμα παρασκηνίου πίνακα ή κελιού…">
 <!ENTITY tableOrCellColor.accesskey "κ">
 
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Απομάκρυνση αγκυρών με όνομα">
 <!ENTITY formatRemoveNamedAnchors.accesskey "ρ">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Παράγραφος">
 <!ENTITY paragraphMenu.accesskey "γ">
 <!ENTITY paragraphParagraphCmd.label "Παράγραφος">  
 <!ENTITY paragraphParagraphCmd.accesskey "φ">
 <!ENTITY heading1Cmd.label "Κεφαλίδα 1">
+<!ENTITY heading1Cmd.accesskey "1">
 <!ENTITY heading2Cmd.label "Κεφαλίδα 2">
+<!ENTITY heading2Cmd.accesskey "2">
 <!ENTITY heading3Cmd.label "Κεφαλίδα 3">
+<!ENTITY heading3Cmd.accesskey "3">
 <!ENTITY heading4Cmd.label "Κεφαλίδα 4">
+<!ENTITY heading4Cmd.accesskey "4">
 <!ENTITY heading5Cmd.label "Κεφαλίδα 5">
+<!ENTITY heading5Cmd.accesskey "5">
 <!ENTITY heading6Cmd.label "Κεφαλίδα 6">
+<!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Διεύθυνση">
 <!ENTITY paragraphAddressCmd.accesskey "θ">
 <!ENTITY paragraphPreformatCmd.label "Προμορφοποίηση">
@@ -183,8 +211,10 @@
 
 <!ENTITY increaseIndent.label "Αύξηση εσοχής">
 <!ENTITY increaseIndent.accesskey "Α">
+<!ENTITY increaseIndent.key "]">
 <!ENTITY decreaseIndent.label "Μείωση εσοχής">
 <!ENTITY decreaseIndent.accesskey "Μ">
+<!ENTITY decreaseIndent.key "[">
 
 <!ENTITY colorsAndBackground.label "Χρώματα και παρασκήνιο σελίδας…">
 <!ENTITY colorsAndBackground.accesskey "ρ">
@@ -280,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Επιλογή χρώματος επισήμανσης κειμένου">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ορισμός μεγέθους γραμματοσειράς">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Μικρότερο μέγεθος γραμματοσειράς">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Μεγαλύτερο μέγεθος γραμματοσειράς">
 <!ENTITY boldToolbarCmd.tooltip "'Εντονα">

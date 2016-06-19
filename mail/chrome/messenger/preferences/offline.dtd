@@ -4,6 +4,8 @@
 
 <!ENTITY offlineDialog.title "Ρυθμίσεις εργασίας χωρίς σύνδεση">
 
+<!ENTITY checkAutoDetect.label "Να εντοπίζεται αυτόματα η κατάσταση δικτύου">
+<!ENTITY checkAutoDetect.accesskey "υ">
 <!ENTITY titleStartUp "Κατάσταση κατά την εκκίνηση:">
 <!ENTITY radioRememberPrevState.label "Απομνημόνευση προηγούμενης κατάστασης">
 <!ENTITY radioRememberPrevState.accesskey "μ">
@@ -11,6 +13,8 @@
 <!ENTITY radioAskState.accesskey "ρ">
 <!ENTITY radioAlwaysOnlineState.label "Mε σύνδεση">
 <!ENTITY radioAlwaysOnlineState.accesskey "π">
+<!ENTITY radioAlwaysOffline.label "Εκτός σύνδεσης">
+<!ENTITY radioAlwaysOffline.accesskey "τ">
 
 <!ENTITY textGoingOnline "Αποστολή μη απεσταλμένων κατά την σύνδεση;">
 <!ENTITY radioAutoSend.label "Ναι">

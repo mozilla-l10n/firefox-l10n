@@ -9,9 +9,11 @@
 <!ENTITY accountActionsButton.label "Ενέργειες λογαριασμού">
 <!ENTITY accountActionsButton.accesskey "ν">
 <!ENTITY addMailAccountButton.label "Προσθήκη λογαριασμού αλληλογραφίας...">
-<!ENTITY addMailAccountButton.accesskey "θ">
-<!ENTITY addIMAccountButton.label "Προσθήκη λογαριασμού chat…">
-<!ENTITY addIMAccountButton.accesskey "c">
+<!ENTITY addMailAccountButton.accesskey "α">
+<!ENTITY addIMAccountButton.label "Προσθήκη λογαριασμού συνομιλίας…">
+<!ENTITY addIMAccountButton.accesskey "σ">
+<!ENTITY addFeedAccountButton.label "Προσθήκη λογαριασμού Ροής…">
+<!ENTITY addFeedAccountButton.accesskey "ρ">
 <!ENTITY addOtherAccountButton.label "Προσθήκη άλλου λογαριασμού...">
 <!ENTITY addOtherAccountButton.accesskey "λ">
 <!ENTITY setDefaultButton.label "Ορισμός ως προεπιλεγμένου">

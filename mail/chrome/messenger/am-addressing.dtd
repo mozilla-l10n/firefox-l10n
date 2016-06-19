@@ -40,4 +40,8 @@
 <!ENTITY includeSigOnForward.label            "Χρήση υπογραφής στις προωθήσεις">
 <!ENTITY includeSigOnForward.accesskey        "θ">
 
+<!ENTITY globalComposingPrefs.label           "Καθολικές Προτιμήσεις Σύνταξης…">
+<!ENTITY globalComposingPrefs.accesskey       "κ">
 
+<!ENTITY globalAddressingPrefs.label          "Καθολικές Προτιμήσεις Διευθυνσιοδότησης…">
+<!ENTITY globalAddressingPrefs.accesskey      "δ">
