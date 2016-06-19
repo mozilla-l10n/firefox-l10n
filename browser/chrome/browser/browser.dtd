@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Nemrég könyvjelzőzött">
 <!ENTITY otherBookmarksCmd.label "Más könyvjelzők">
 <!ENTITY bookmarksToolbarChevron.tooltip "További könyvjelzők megjelenítése">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Nemrég könyvjelzőzött megjelenítése">
+<!ENTITY showRecentlyBookmarked.accesskey "N">
+<!ENTITY hideRecentlyBookmarked.label     "Nemrég könyvjelzőzött elrejtése">
+<!ENTITY hideRecentlyBookmarked.accesskey "r">
 
 <!ENTITY backCmd.label                "Vissza">
 <!ENTITY backButton.tooltip           "Ugrás az előző oldalra">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Könyvjelzők oldalsáv megjelenítése">
 <!ENTITY viewBookmarksToolbar.label         "Könyvjelző eszköztár megjelenítése">
 
+<!ENTITY containersMenu.label "Konténerek">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -555,22 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "N">
 <!ENTITY mediaUnmute.label           "Hang be">
 <!ENTITY mediaUnmute.accesskey       "n">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "Lejátszási sebesség">
+<!ENTITY mediaPlaybackRate2.accesskey "s">
+<!ENTITY mediaPlaybackRate050x2.label "Lassú (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "L">
+<!ENTITY mediaPlaybackRate100x2.label "Normál">
+<!ENTITY mediaPlaybackRate100x2.accesskey "o">
+<!ENTITY mediaPlaybackRate125x2.label "Gyors (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "G">
+<!ENTITY mediaPlaybackRate150x2.label "Gyorsabb (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "o">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Elképzelhetetlen (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "k">
+<!ENTITY mediaLoop.label             "Ismétlés">
+<!ENTITY mediaLoop.accesskey         "I">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -679,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Biztonságos kapcsolat">
 <!ENTITY identity.connectionNotSecure "A kapcsolat nem biztonságos">
 <!ENTITY identity.connectionFile "Ez az oldal a számítógépén van tárolva.">
-
+<!ENTITY identity.connectionVerified2 "Biztonságosan kapcsolódott ehhez ez oldalhoz; a tulajdonosa:">
 <!ENTITY identity.connectionInternal "Ez egy biztonságos &brandShortName; oldal.">
 <!ENTITY identity.insecureLoginForms2 "Az oldalon megadott bejelentkezési adatok nincsenek biztonságban.">
 <!-- Strings for connection state warnings. -->
