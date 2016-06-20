@@ -11,7 +11,7 @@
 <!ENTITY safeModeDescription3.label   "Feilige moadus is in spesjale moadus fan &brandShortName; om problemen te ûndersykjen.">
 <!ENTITY safeModeDescription4.label   "Jo add-ons en persoanlike ynstellingen wurde tydlik útskeakele.">
 
-<!ENTITY refreshProfileInstead.label  "Jo kinne it oplossingsykjen ek oerslaan en &brandShortName; probearje op te frissen.">
+<!ENTITY refreshProfileInstead.label  "As jo probleemoplossing oerslaan wolle, kinne jo probearje &brandShortName; op te frissen.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 <!ENTITY autoSafeModeDescription3.label "&brandShortName; is ûnferwacht sluten wylst it starten. Dit kin feroarsake wurde troch add-ons of oare problemen. Jo kinne probearje dit op te lossen troch in oplossing te sykjen yn feilige moadus.">

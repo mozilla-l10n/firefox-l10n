@@ -83,11 +83,8 @@
 <!ENTITY updateManual.label              "Noait kontrolearje op fernijingen (net oanrikkemandearre: feilichheidsrisiko)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "My warskôgje as dit ien fan myn tafoegingen útskeakelje sil">
-<!ENTITY updateAutoAddonWarn.accesskey   "w">
-
-<!ENTITY updateHistory.label             "Fernijingsskiednis sjen litte">
-<!ENTITY updateHistory.accesskey         "l">
+<!ENTITY updateHistory.label             "Fernijingsskiednis toane">
+<!ENTITY updateHistory.accesskey         "t">
 
 <!ENTITY useService.label                "Brûk in achtergrûntsjinst om fernijingen te ynstallearjen">
 <!ENTITY useService.accesskey            "a">
