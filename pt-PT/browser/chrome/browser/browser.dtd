@@ -74,8 +74,8 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Barra de menu">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY navbarCmd.label "Barra de ferramentas de navegação">
-<!ENTITY personalbarCmd.label "Barra de ferramentas de marcadores">
+<!ENTITY navbarCmd.label "Barra de navegação">
+<!ENTITY personalbarCmd.label "Barra de marcadores">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elementos da barra de marcadores">
 
@@ -789,7 +789,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Quer mais ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolha-as nos extras">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predefinições">
-<!ENTITY customizeMode.toolbars "Mostrar/ocultar barra de ferramentas">
+<!ENTITY customizeMode.toolbars "Mostrar/ocultar barras de ferramentas">
 <!ENTITY customizeMode.titlebar "Barra de título">
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "Os meus temas">
