@@ -165,8 +165,9 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blokkearre troch ynhâldsbefeiligingsbelied">
 <!ENTITY cspBlocked.longDesc "<p>De browser hat opkeard dat de side op dizze manier laden wurd, omdat de side in ynhâldsbefeiligingsbelied hat dat dit net tastiet.</p>">
 
-<!ENTITY corruptedContentError.title "Korruptearre ynhâldsflater">
-<!ENTITY corruptedContentError.longDesc "<p>De side dy't jo probearje te besjen kin net toand wurde omdat der in flater yn de gegevensoerdracht ûntdekt waard.</p><ul><li>Nim kontakt op mei de website-eigners om se te ynformearjen oer dit probleem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Skansearre-ynhâldsflater">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>De side dy't jo besjen wolle kin net werjûn wurde, omdat der in flater yn de gegevensoerdracht detektearre is.</p><ul><li>Nim kontakt op mei de website-eigners om se oer dit probleem te ynformearjen.</li></ul>">
+
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Foech Utsûndering ta">
@@ -190,6 +191,11 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûntdekke wêrfan jo tochten dat dizze feilich wienen.">
 <!ENTITY weakCryptoAdvanced.override "(Net befeilige) <span class='hostname'></span> probearje te laden fia ferâldere befeiliging">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>In befeilige ferbining mei <span id='wrongSystemTime_URL'/> is net mooglik, omdat jo klok de ferkearde tiid liket oan te jaan.</p> <p>Jo kompjûter tinkt dat it <span id='wrongSystemTime_systemDate'/> is, wylst it <span id='wrongSystemTime_actualDate'/> wêze moatte soe. Wizigje jo datum- en tiidynstellingen nei de krekte tiid om dit probleem te ferhelpen.</p>">
+
+
 <!ENTITY certerror.pagetitle1  "Net-befeilige ferbining">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dizze website makket gebrûk
 fan HTTP Strict Transport Security (HSTS) om oan te jaan dat &brandShortName;
@@ -201,3 +207,6 @@ allinnich in befeilige ferbining meitsje mei. Hjirtroch is it net mooglik om in
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûnthulle wêrfan jo tochten dat dizze feilich wienen. De websitebehearder moat earst de server yn oarder meitsje eardat jo de website besykje kinne.</p><p>Flaterkoade: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY prefReset.longDesc "It liket derop dat dit troch jo netwurkbefeiligingsynstellingen feroarsake wurdt. Wolle jo de standertynstellingen werstelle?">
+<!ENTITY prefReset.label "Standertynstellingen werstelle">
