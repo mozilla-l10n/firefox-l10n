@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE ພາສາລາວ
+#define MOZ_LANG_TITLE ພາສາອັງກິດ (ອາເມລິກາ)
