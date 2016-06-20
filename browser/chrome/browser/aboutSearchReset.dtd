@@ -2,7 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchreset.tabtitle       "शोध सेटिंग पुनर्संचयित करा">
 
+<!ENTITY searchreset.pageTitle      "शोध सेटिंग पुनर्संचयित करायचे आहेत का?">
+
+<!ENTITY searchreset.pageInfo1      "बहुतेक आपल्या शोध सेटिंग्ज जुन्या आहेत. &brandShortName; तुम्हाला पूर्वनिर्धारित शोध सेटिंग्ज पुनर्संचयित करण्यास मदत करू शकतो.">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
