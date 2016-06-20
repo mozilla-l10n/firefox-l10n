@@ -88,6 +88,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Brskalnik je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine strani.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Napaka zaradi pokvarjene vsebine">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Strani, ki si jo poskušate ogledati, ni mogoče prikazati, ker je bila zaznana napaka v prenosu podatkov.</p><ul><li>O tej težavi obvestite lastnike spletne strani.</li></ul>">
 
 <!ENTITY remoteXUL.title "Oddaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul></p>">
