@@ -4,7 +4,7 @@
 
 <!ENTITY pref.toolbars.title    "Barras de ferramentas">
 
-<!ENTITY composition.caption    "Mostrar estes botões na barra de ferramentas de composição:">
+<!ENTITY composition.caption    "Mostrar estes botões na barra de composição:">
 
 <!ENTITY new.label              "Nova">
 <!ENTITY open.label             "Abrir">
@@ -22,7 +22,7 @@
 <!ENTITY link.label             "Ligação">
 <!ENTITY anchor.label           "Âncora">
 
-<!ENTITY formatting.caption     "Mostrar estes botões na barra de ferramentas de formatação:">
+<!ENTITY formatting.caption     "Mostrar estes botões na barra de formatação:">
 
 <!ENTITY smaller.label          "Menor">
 <!ENTITY larger.label           "Maior">
