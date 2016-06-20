@@ -27,11 +27,11 @@
 
 <!ENTITY copyCmd.label       "Copiar">  
 <!ENTITY copyCmd.accesskey   "C"> 
-<!ENTITY copyCmd.commandkey  "c"> 
+<!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Ordenar Primeiro > Último">
 <!ENTITY sortFirst.accesskey "P">
 <!ENTITY sortLast.label      "Ordenar Último > Primeiro">
 <!ENTITY sortLast.accesskey  "O">
-<!ENTITY closeCmd.commandkey "W">  
-<!ENTITY focus1.commandkey   "L">  
-<!ENTITY focus2.commandkey   "D">  
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

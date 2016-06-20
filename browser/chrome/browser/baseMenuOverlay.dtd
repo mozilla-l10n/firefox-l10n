@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "Serviços">
 
 <!ENTITY hideThisAppCmdMac2.label       "Ocultar o &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "h">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ocultar outros">
-<!ENTITY hideOtherAppsCmdMac.commandkey "h">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Mostrar tudo">

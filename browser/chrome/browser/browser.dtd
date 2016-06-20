@@ -177,7 +177,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "Avançar">
 <!ENTITY forwardButton.tooltip        "Próxima página">
 <!ENTITY backForwardButtonMenu.tooltip "Botão direito do mouse ou clique movendo o mouse para baixo para ver o histórico">
-<!ENTITY backForwardButtonMenuMac.tooltip "Clique movendo o mouse para baixo para ver o histórico">
+<!ENTITY backForwardButtonMenuMac.tooltip "Puxe-o para mostrar o histórico">
 <!ENTITY reloadCmd.label              "Recarregar">
 <!ENTITY reloadButton.tooltip         "Atualizar a página">
 <!ENTITY stopCmd.label                "Parar">
@@ -555,6 +555,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.label           "Ativar som">
 <!ENTITY mediaUnmute.accesskey       "A">
 <!ENTITY mediaPlaybackRate2.label     "Velocidade de reprodução">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Lenta (0,5 ×)">
 <!ENTITY mediaPlaybackRate100x2.label "Normal">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
@@ -564,6 +565,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Ridícula (2 ×)">
 <!ENTITY mediaLoop.label             "Repetição">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
@@ -666,7 +668,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Adicionar dicionários…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "Concluir">
+<!ENTITY editBookmark.done.label                     "Pronto">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Conexão segura">
