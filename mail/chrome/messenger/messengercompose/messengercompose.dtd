@@ -307,3 +307,5 @@
 <!ENTITY addressesSidebarTitle.label "Kişiler">
 <!-- Identity popup customize menuitem -->
 
+<!ENTITY customizeFromAddress.label "Kimden adresini özelleştir…">
+<!ENTITY customizeFromAddress.accesskey "a">
