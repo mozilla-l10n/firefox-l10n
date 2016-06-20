@@ -6,6 +6,6 @@
 
 
 
-
-
-
+<!ENTITY aboutAccounts.noConnection.title "Walang koneksyon">
+<!ENTITY aboutAccounts.noConnection.description "Kailangang nakakonekta ka sa Internet upang makapag sign in">
+<!ENTITY aboutAccounts.noConnection.retry "Subukan muli">

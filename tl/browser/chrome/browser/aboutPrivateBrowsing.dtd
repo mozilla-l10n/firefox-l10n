@@ -2,26 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Ikaw ay kasalukuyang wala sa pribadong window.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Magbukas ng Pribadong Window">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+
+<!ENTITY privateBrowsing.title                           "Private Browsing">
+<!ENTITY privateBrowsing.title.tracking                  "Private Browsing na may Tracking Protection">
 
 
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 
 
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
-
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "mga temporary na file">
 
 
 
 
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "mga bookmark">
 <!ENTITY aboutPrivateBrowsing.note.before                "Private Browsing  ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "ay hindi ka ginagawang anonymous">
+
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Matuto pa ukol sa">
 
 
-
-
-
-
-
+<!ENTITY trackingProtection.description2                 "Ang ibang website ay gumagamit ng trackers para masubaybayan ang iyong ginagawa sa Internet. Pag ginamit mo ang Tracking Potection mapipigilan ni Firefox ang maraming mga trackers na maaaring magipon ng impormasyon ukol sa iyong pagkabrowse">
+<!ENTITY trackingProtection.startTour1                   "Tignan kung paano gumagana">
