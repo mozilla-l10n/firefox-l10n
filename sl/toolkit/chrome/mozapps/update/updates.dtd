@@ -70,6 +70,10 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Posodobitev bo nameščena, ko boste naslednjič zagnali &brandShortName;. To lahko 
                                            storite zdaj ali nadaljujete z delom in ga ponovno zaženete pozneje.">
+<!ENTITY  finishedBackground.moreElevated "Ta posodobitev zahteva skrbniška dovoljenja. Posodobitev bo
+                                           nameščena, ko se &brandShortName; naslednjič zažene. &brandShortName;
+                                           lahko ponovno zaženete zdaj, nadaljujete z delom in ponovno zaženete
+                                           kasneje ali zavrnete to posodobitev.">
 
 <!ENTITY  update.details.label            "Podrobnosti">
 <!ENTITY  update.installedOn.label        "Datum namestitve:">

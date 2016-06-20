@@ -56,6 +56,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Uporabniški agent">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Poraba pomnilnika">
+<!ENTITY aboutSupport.appBasicsPerformance "Učinkovitost">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registrirani Service Workerji">
@@ -89,6 +90,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Podatkovna zbirka mest">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "Celovitost">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Preveri celovitost">
 
@@ -117,3 +119,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Dnevnik napak">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPE št. 1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPE št. 2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Dnevnik odločitev">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Zaobidenja">
