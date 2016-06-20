@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY lightning.toolbar.calendar.name "Barra de ferramentas do calendário">
+<!ENTITY lightning.toolbar.calendar.name "Barra de calendário">
 <!ENTITY lightning.toolbar.calendar.name.accesskey "c">
-<!ENTITY lightning.toolbar.task.name "Barra de ferramentas de tarefas">
+<!ENTITY lightning.toolbar.task.name "Barra de tarefas">
 <!ENTITY lightning.toolbar.task.name.accesskey "t">
 
 <!ENTITY lightning.toolbar.sync.label "Sincronizar">
