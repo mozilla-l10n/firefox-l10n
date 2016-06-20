@@ -85,9 +85,11 @@
 <!ENTITY bookmark_folder_items "&formatD; stavke">
 <!ENTITY bookmark_folder_one_item "1 stavka">
 
+<!ENTITY reader_saved_offline "Spremljeno izvanmrežno">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Prebaci">
 
 <!ENTITY history_today_section "Danas">
 <!ENTITY history_yesterday_section "Jučer">
@@ -126,7 +128,7 @@
 <!ENTITY settings "Postavke">
 <!ENTITY settings_title "Postavke">
 <!ENTITY pref_category_general "Općenito">
-
+<!ENTITY pref_category_general_summary3 "Početna stranica, jezik, kartice na čekanju">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -165,15 +167,15 @@
 <!ENTITY overlay_no_synced_devices "Nisu pronađeni uređaji povezani na Firefox račun">
 
 <!ENTITY pref_category_search3 "Traži">
-
+<!ENTITY pref_category_search_summary2 "Dodaj, postavi zadano, prikaži prijedloge">
 <!ENTITY pref_category_accessibility "Pristupačnost">
 <!ENTITY pref_category_accessibility_summary2 "Veličina teksta, uvećanje, glasovni unos">
 <!ENTITY pref_category_privacy_short "Privatnost">
-
+<!ENTITY pref_category_privacy_summary4 "Praćenje, prijave, izbori podataka">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "O &brandShortName;, često postavljana pitanja, povratne informacije">
 <!ENTITY pref_category_datareporting "Izbori podataka">
-
+<!ENTITY pref_category_logins "Prijave">
 <!ENTITY pref_learn_more "Saznajte više">
 <!ENTITY pref_category_installed_search_engines "Instalirani pretraživači interneta">
 <!ENTITY pref_category_add_search_providers "Dodajte više pretraživača interneta">
@@ -185,14 +187,16 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "SAVJET: Dodajte bilo koju stranicu na popis pretraživača interneta tako da dugo pritisnete na polje za pretraživanje i onda pritisnete &formatI; ikonu.">
 <!ENTITY pref_category_advanced "Napredno">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
-
-
-
+<!ENTITY pref_category_advanced_summary3 "Vrati kartice, uštede na prijenosu podataka, alati za ravijatelje">
+<!ENTITY pref_category_notifications "Obavijesti">
+<!ENTITY pref_category_notifications_summary "Nove značajke, ažuriranja stranice">
+<!ENTITY pref_content_notifications "Ažuriranja stranice">
+<!ENTITY pref_content_notifications_summary2 "Otkrijte novi sadržaj na podržanim stranicama">
 <!ENTITY pref_developer_remotedebugging_usb "Udaljeno otklanjanje grešaka putem USB-a">
 <!ENTITY pref_developer_remotedebugging_wifi "Udaljeno otklanjanje grešaka putem Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Udaljeno otklanjanje grešaka putem Wi-Fi zahtjeva da vaš uređaj ima instaliranu aplikaciju za čitanje QR kodova.">
@@ -202,8 +206,8 @@
 <!ENTITY pref_category_home "Početak">
 <!ENTITY pref_category_home_summary "Prilagodite početnu stranicu">
 <!ENTITY pref_category_home_panels "Ploče">
-
-
+<!ENTITY pref_category_home_add_ons "Dodaci">
+<!ENTITY pref_home_updates2 "Ažuriranje sadržaja">
 <!ENTITY pref_home_updates_enabled "Omogućeno">
 <!ENTITY pref_home_updates_wifi "Samo preko Wi-Fi">
 <!ENTITY pref_category_home_homepage "Početna stranica">
@@ -229,7 +233,7 @@
 <!ENTITY pref_header_search "Traži">
 <!ENTITY pref_header_privacy_short "Privatnost">
 <!ENTITY pref_header_accessibility "Pristupačnost">
-
+<!ENTITY pref_header_notifications "Obavijesti">
 <!ENTITY pref_header_advanced "Napredno">
 <!ENTITY pref_header_help "Pomoć">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -242,7 +246,9 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 
-
+<!ENTITY pref_category_data_saver "Ušteda prijenosa podataka">
+<!ENTITY pref_category_media "Medij">
+<!ENTITY pref_category_developer_tools "Alati za razvijatelje">
 
 <!ENTITY pref_tap_to_load_images_title2 "Prikaži slike">
 <!ENTITY pref_tap_to_load_images_enabled "Uvijek">
@@ -250,8 +256,9 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Blokirano">
 
 <!ENTITY pref_show_web_fonts "Prikaži web fontove">
+<!ENTITY pref_show_web_fonts_summary2 "Preuzmi udaljene fontove prilikom učitavanja stranice">
 
-
+<!ENTITY pref_tracking_protection_title2 "Zaštita od praćenja">
 <!ENTITY pref_tracking_protection_summary3 "Omogućeno u Privatnom pretraživanju">
 <!ENTITY pref_donottrack_title "Ne prati me">
 <!ENTITY pref_donottrack_summary "&brandShortName; će reći stranicama da ne želite biti praćeni">
@@ -260,7 +267,8 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Omogućeno u Privatnom pretraživanju">
 <!ENTITY pref_tracking_protection_disabled "Onemogućeno">
 
-
+<!ENTITY pref_whats_new_notification "Šta je novo u &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Saznajte o novim značajkama nakon nadogradnje">
 
 <!ENTITY tracking_protection_prompt_title "Sada s zaštitom od praćenja">
 <!ENTITY tracking_protection_prompt_text "Aktivno blokira elemente za praćenje tako da se ne morate brinuti.">
@@ -280,7 +288,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Idite na Postavke">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -294,6 +302,7 @@
 
 <!ENTITY tab_queue_notification_settings "Kako biste otvorili višestruke poveznice, omogućite \u0027Crtaj preko drugih aplikacija\u0027 dozvolu za &brandShortName;">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
