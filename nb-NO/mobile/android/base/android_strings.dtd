@@ -27,7 +27,7 @@
 <!ENTITY firstrun_tabqueue_subtext_off "Lagre lenker for senere i &brandShortName; når du peker på de i andre program.">
 
 <!ENTITY firstrun_tabqueue_message_on "Suksess!">
-
+<!ENTITY firstrun_tabqueue_subtext_on "Du kan alltids slå av dette i &settings; under &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Artikler">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
