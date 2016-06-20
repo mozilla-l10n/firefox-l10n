@@ -24,7 +24,7 @@
 <!ENTITY homeButton.tooltip             "Ir para a página inicial da ajuda">
 <!ENTITY printButton.label              "Imprimir">
 <!ENTITY printButton.tooltip            "Imprimir a página">
-<!ENTITY closeWindow.commandkey         "w">
+<!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Localizar">
 <!ENTITY searchHeader.label             "Resultados da pesquisa">

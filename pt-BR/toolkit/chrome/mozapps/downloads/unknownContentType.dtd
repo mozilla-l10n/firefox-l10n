@@ -18,8 +18,8 @@
 
 <!ENTITY  whichIs.label              "tipo:">
 
-<!ENTITY  chooseHandlerMac.label      "Procurar…">
-<!ENTITY  chooseHandlerMac.accesskey  "P">
+<!ENTITY  chooseHandlerMac.label      "Escolher…">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "Procurar…">
 <!ENTITY  chooseHandler.accesskey     "P">
 

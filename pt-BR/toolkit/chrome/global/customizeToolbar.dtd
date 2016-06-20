@@ -12,5 +12,5 @@
 <!ENTITY useSmallIcons.label      "Ícones pequenos">
 <!ENTITY restoreDefaultSet.label  "Restaurar barras padrão">
 <!ENTITY addNewToolbar.label      "Nova barra…">
-<!ENTITY saveChanges.label        "Fechar">
+<!ENTITY saveChanges.label        "Pronto">
 <!ENTITY undoChanges.label        "Desfazer alterações">
