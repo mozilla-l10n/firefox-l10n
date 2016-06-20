@@ -34,7 +34,7 @@
   Zawieszenia przeglądarki
 ">
 <!ENTITY aboutTelemetry.threadHangStatsSection "Zawieszenia wątków">
-
+<!ENTITY aboutTelemetry.scalarsSection "Skalary">
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogramy
 ">
