@@ -307,18 +307,22 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "Stranica ažurirano: &formatD;">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Postavke">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Pročitajte sada">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "Ažurirano &formatS;">
 
 <!ENTITY pref_char_encoding "Kodna stranica">
 <!ENTITY pref_char_encoding_on "Prikaži izbornik">
 <!ENTITY pref_char_encoding_off "Ne prikazuj izbornik">
-
+<!ENTITY pref_clear_private_data2 "Očisti privatne podatke">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Očisti sad">
@@ -327,7 +331,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Odaberite koje podatke očistiti">
 <!ENTITY pref_plugins "Priključci">
 <!ENTITY pref_plugins_enabled "Omogućeno">
-
+<!ENTITY pref_plugins_tap_to_play2 "Pritisnite za pokretanje">
 <!ENTITY pref_plugins_disabled "Onemogućeno">
 <!ENTITY pref_text_size "Veličina teksta">
 <!ENTITY pref_restore_tabs "Vrati kartice">
@@ -377,6 +381,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Preuzimanja">
 <!ENTITY pref_private_data_syncedTabs "Sinkronizirane kartice">
 
+<!ENTITY pref_default_browser "Učinite zadanim pretraživačem">
 <!ENTITY pref_about_firefox "O &brandShortName;">
 <!ENTITY pref_vendor_faqs "Često postavljana pitanja">
 <!ENTITY pref_vendor_feedback "Dajte povratnu informaciju">
@@ -422,6 +427,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Automatska ažuriranja">
 <!ENTITY pref_update_autodownload_wifi "Samo preko Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nikada">
 <!ENTITY pref_update_autodownload_always "Uvijek">
@@ -432,7 +438,7 @@ size. -->
 <!ENTITY quit "Izlaz">
 
 <!ENTITY addons "Dodaci">
-
+<!ENTITY logins "Prijave">
 <!ENTITY downloads "Preuzimanja">
 <!ENTITY char_encoding "Kodna stranica">
 
@@ -441,12 +447,12 @@ size. -->
 <!ENTITY share_image_failed "Nije moguće podijeliti ovu sliku">
 <!ENTITY save_as_pdf "Spremi kao PDF">
 <!ENTITY print "Ispis">
-
-
+<!ENTITY find_in_page "Pronađi na stranici">
+<!ENTITY desktop_mode "Zahtjevaj desktop stranicu">
 <!ENTITY page "Stranica">
 <!ENTITY tools "Alati">
-
-
+<!ENTITY new_tab "Nova kartica">
+<!ENTITY new_private_tab "Nova privatna kartica">
 <!ENTITY close_all_tabs "Zatvori sve kartice">
 <!ENTITY close_private_tabs "Zatvori privatne kartice">
 <!ENTITY tabs_normal "Kartice">
@@ -456,6 +462,8 @@ size. -->
 <!ENTITY set_image_chooser_title "Postavi sliku kao">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Pronađi na stranici">
 <!ENTITY find_prev "Prethodni">
 <!ENTITY find_next "Sljedeći">
 <!ENTITY find_close "Zatvori">
@@ -501,7 +509,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Povećaj mala područja">
-
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Povećaj poveznice i polja obrasca kada se pritisne blizu njih">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -554,10 +562,11 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; početna stranica">
 <!ENTITY home_history_title "Povijest">
-
-
+<!ENTITY home_synced_devices_smartfolder "Sinkronizirani uređaji">
+<!ENTITY home_synced_devices_number "&formatD; uređaja">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-
+<!ENTITY home_synced_devices_one "1 uređaj">
+<!ENTITY home_history_back_to2 "Nazad do pune povijesti">
 <!ENTITY home_clear_history_button "Očisti povijest pregleda stranica">
 <!ENTITY home_clear_history_confirm "Jeste li sigurni da želite očistiti povijest?">
 <!ENTITY home_bookmarks_empty "Zabilješke koje spremite se pojave ovdje.">
@@ -596,6 +605,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "Unesite pojam za pretraživanje">
 
+<!ENTITY filepicker_title "Odaberi datoteku">
 <!ENTITY filepicker_audio_title "Odaberite ili snimite zvuk">
 <!ENTITY filepicker_image_title "Odaberite ili snimite sliku">
 <!ENTITY filepicker_video_title "Odaberite ili snimite video">
@@ -624,6 +634,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "Dijelovi ove stranice nisu sigurni (poput slika).">
 <!ENTITY mixed_content_protection_disabled1 "Onemogućili ste zaštitu od nesigurnog sadržaja.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "Zaštita od praćenja">
 <!ENTITY doorhanger_tracking_state_enabled "Omogućeno">
 <!ENTITY doorhanger_tracking_state_disabled "Onemogućeno">
 <!ENTITY doorhanger_tracking_message_enabled1 "Pokušaj praćenja vaše internet aktivnost je blokiran.">
@@ -788,10 +800,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; je ažuriran">
 <!ENTITY whatsnew_notification_summary "Saznajte što je novo u ovoj inačici">
 
+<!ENTITY promotion_add_to_homescreen "Dodaj na početni ekran">
 
+<!ENTITY helper_first_offline_bookmark_title "Čitaj izvanmrežno">
+<!ENTITY helper_first_offline_bookmark_message "Pronađite stavke Prikaza čitača u zabilješkama, čak i u izvanmrežnom načinu rada.">
+<!ENTITY helper_first_offline_bookmark_button "Idi u zabiilješke">
 
-
-
-
-
+<!ENTITY helper_triple_readerview_open_title "Dostupno izvanmrežno">
+<!ENTITY helper_triple_readerview_open_message "Zabilježite stavke Prikaza čitača kako biste ih čitali i kada nema interneta.">
+<!ENTITY helper_triple_readerview_open_button "Dodaj u zabilješke">
 
