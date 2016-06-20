@@ -10,7 +10,7 @@
 <!-- Toolbar-only items -->
 
 
-<!ENTITY compositionToolbar.tooltip "Barra de ferramentas de composição">
+<!ENTITY compositionToolbar.tooltip "Barra de composição">
 <!ENTITY previewToolbarCmd.label "Explorar">
 <!ENTITY previewToolbarCmd.tooltip "Carregar esta página no navegador">
 <!-- File menu items -->
@@ -23,11 +23,11 @@
 <!ENTITY sendPageCmd.accesskey "g">
 <!-- View menu items -->
 
-<!ENTITY compositionToolbarCmd.label "Barra de ferramentas de composição">
+<!ENTITY compositionToolbarCmd.label "Barra de composição">
 <!ENTITY compositionToolbarCmd.accesskey "c">
-<!ENTITY formattingToolbarCmd.label "Barra de ferramentas de formatação">
+<!ENTITY formattingToolbarCmd.label "Barra de formatação">
 <!ENTITY formattingToolbarCmd.accesskey "f">
-<!ENTITY editmodeToolbarCmd.label "Barra de ferramentas de edição">
+<!ENTITY editmodeToolbarCmd.label "Barra de edição">
 <!ENTITY editmodeToolbarCmd.accesskey "e">
 <!-- Format menu items -->
 
