@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchreset.tabtitle       "Gjenopprett søkeinnstillinger">
+
 <!ENTITY searchreset.pageTitle      "Gjenopprett dine søkeinnstillinger?">
 
 <!ENTITY searchreset.pageInfo1      "Dine søkeinnstillinger er kanskje gått ut på dato. &brandShortName; kan hjelpe deg å gjenopprette søksinnstillingene.">
