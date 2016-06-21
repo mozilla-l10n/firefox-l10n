@@ -2,59 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY inspectorHTMLEdit.label "Edytuj jako HTML">
-<!ENTITY inspectorHTMLEdit.accesskey "E">
-
-<!ENTITY inspectorCopyHTMLSubmenu.label "Kopiuj">
-<!ENTITY inspectorCopyInnerHTML.label "Wewnętrzny HTML">
-<!ENTITY inspectorCopyInnerHTML.accesskey "W">
-<!ENTITY inspectorCopyOuterHTML.label "Zewnętrzny HTML">
-<!ENTITY inspectorCopyOuterHTML.accesskey "Z">
-<!ENTITY inspectorCopyCSSSelector.label "Selector CSS">
-<!ENTITY inspectorCopyCSSSelector.accesskey "S">
-<!ENTITY inspectorImageDataUri.label "Obraz jako Data-URL">
-
-<!ENTITY inspectorPasteHTMLSubmenu.label "Wklej">
-<!ENTITY inspectorPasteOuterHTML.label "Zewnętrzny HTML">
-<!ENTITY inspectorPasteOuterHTML.accesskey "Z">
-<!ENTITY inspectorPasteInnerHTML.label "Wewnętrzny HTML">
-<!ENTITY inspectorPasteInnerHTML.accesskey "W">
-
-<!ENTITY inspectorHTMLPasteExtraSubmenu.label "Wklej…">
-<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey "W">
-<!ENTITY inspectorHTMLPasteBefore.label "Przed">
-<!ENTITY inspectorHTMLPasteBefore.accesskey "d">
-<!ENTITY inspectorHTMLPasteAfter.label "Po">
-<!ENTITY inspectorHTMLPasteAfter.accesskey "P">
-<!ENTITY inspectorHTMLPasteFirstChild.label "Jako pierwszy potomny">
-<!ENTITY inspectorHTMLPasteFirstChild.accesskey "J">
-<!ENTITY inspectorHTMLPasteLastChild.label "Jako ostatni potomny">
-<!ENTITY inspectorHTMLPasteLastChild.accesskey "o">
-<!ENTITY inspectorScrollNodeIntoView.label "Przewiń stronę do zaznaczonego elementu">
-<!ENTITY inspectorScrollNodeIntoView.accesskey "P">
-<!ENTITY inspectorHTMLDelete.label "Usuń węzeł">
-<!ENTITY inspectorHTMLDelete.accesskey "U">
-
-<!ENTITY inspectorAttributesSubmenu.label "Atrybuty">
-<!ENTITY inspectorAttributesSubmenu.accesskey "A">
-<!ENTITY inspectorAddAttribute.label "Dodaj atrybut">
-<!ENTITY inspectorAddAttribute.accesskey "D">
-<!ENTITY inspectorEditAttribute.label "Edytuj atrybut">
-<!ENTITY inspectorEditAttribute.accesskey "E">
 <!ENTITY inspectorRemoveAttribute.label "Usuń atrybut">
 <!ENTITY inspectorRemoveAttribute.accesskey "U">
 
 <!ENTITY inspector.selectButton.tooltip "Zaznacz element myszą">
 
 <!ENTITY inspectorSearchHTML.label3 "Szukaj w kodzie HTML">
-<!ENTITY inspectorShowDOMProperties.label "Wyświetl własności DOM">
-<!ENTITY inspectorUseInConsole.label "Otwórz w konsoli">
-
-<!ENTITY inspectorExpandNode.label "Rozwiń wszystkie">
-<!ENTITY inspectorCollapseNode.label "Zwiń">
-
-<!ENTITY inspectorScreenshotNode.label "Zrzut ekranu węzła">
-<!ENTITY inspectorDuplicateNode.label "Powiel węzeł">
 
 <!ENTITY inspectorAddNode.label "Utwórz nowy węzeł">
 <!ENTITY inspectorAddNode.accesskey "n">
