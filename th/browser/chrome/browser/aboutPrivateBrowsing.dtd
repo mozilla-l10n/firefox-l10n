@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ส">
 
 <!ENTITY privateBrowsing.title                           "การท่องเว็บแบบส่วนตัว">
-<!ENTITY privateBrowsing.title.tracking                  "การท่องเว็บแบบส่วนตัวด้วยการป้องกันการติดตาม">
+<!ENTITY privateBrowsing.title.tracking                  "การท่องเว็บแบบส่วนตัวพร้อมการป้องกันการตามรอย">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "เมื่อคุณเรียกดูหน้าต่างแบบส่วนตัว Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ไม่บันทึก">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
