@@ -76,6 +76,8 @@
      - edit attribute
      - remove attribute -->
 
+<!ENTITY inspectorAttributesSubmenu.label      "Öznitelikler">
+<!ENTITY inspectorAttributesSubmenu.accesskey  "Ö">
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
@@ -150,6 +152,8 @@
      - Copy Outer HTML
      - Copy Unique selector
      - Copy Image data URI -->
+
+<!ENTITY inspectorCopyHTMLSubmenu.label      "Kopyala">
 <!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
      paste items, which allow to:
@@ -159,3 +163,5 @@
      - After
      - As First Child
      - As Last Child -->
+
+<!ENTITY inspectorPasteHTMLSubmenu.label      "Yapıştır">
