@@ -10,8 +10,8 @@
 <!ENTITY newWinPageMenu.label           "Nova janela">
 <!ENTITY newTabPageMenu.label           "Novo separador">
 
-<!ENTITY blankPageRadio.label           "Página em branco">
-<!ENTITY blankPageRadio.accesskey       "b">
+<!ENTITY blankPageRadio.label           "Página vazia">
+<!ENTITY blankPageRadio.accesskey       "P">
 <!ENTITY homePageRadio.label            "Página inicial">
 <!ENTITY homePageRadio.accesskey        "i">
 <!ENTITY lastPageRadio.label            "Última página visitada">
