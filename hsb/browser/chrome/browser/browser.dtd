@@ -560,11 +560,11 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "h">
 <!ENTITY mediaPlaybackRate050x2.label "Pomału (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "P">
-<!ENTITY mediaPlaybackRate100x2.label "Normalny">
+<!ENTITY mediaPlaybackRate100x2.label "Normalna">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
-<!ENTITY mediaPlaybackRate125x2.label "Spěšny (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.label "Spěšna (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "S">
-<!ENTITY mediaPlaybackRate150x2.label "Spěšniši (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.label "Spěšniša (1.5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "n">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
