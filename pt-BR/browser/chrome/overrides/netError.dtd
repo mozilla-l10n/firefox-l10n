@@ -135,6 +135,7 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 <!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdo">
 <!ENTITY cspBlocked.longDesc "<p>O &brandShortName; impediu esta página de carregar desta forma porque a política de segurança de conteúdo da página não permite.</p>">
 
+<!ENTITY corruptedContentErrorv2.longDesc "<p>A página que está tentando visualizar não pode ser exibida porque foi detectado um erro na transmissão de dados.</p><ul><li>Entre em contato com os proprietários do site para informá-los sobre este problema.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
@@ -173,4 +174,5 @@ certificado.">
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa uma tecnologia de segurança que está ultrapassada e vulnerável a ataques. Um cracker poderia facilmente coletar informações enquanto você acreditava estar seguro. O administrador do website precisa consertar essa brecha no servidor antes de você poder visitar esse site.</p><p>Código de Erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY prefReset.longDesc "Parece que suas configurações de segurança de rede podem estar causando isso. Você quer restaurar as configurações padrão?">
 <!ENTITY prefReset.label "Restaurar configurações padrão">
