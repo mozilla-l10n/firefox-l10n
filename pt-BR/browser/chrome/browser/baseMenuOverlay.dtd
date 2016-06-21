@@ -9,15 +9,15 @@
 <!ENTITY windowMenu.label         "Janela">
 
 <!ENTITY helpMenu.label           "Ajuda"> 
-<!ENTITY helpMenu.accesskey       "a"> 
+<!ENTITY helpMenu.accesskey       "U"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ajuda"> 
-<!ENTITY helpMenuWin.accesskey    "u">
+<!ENTITY helpMenuWin.accesskey    "U">
 <!ENTITY aboutProduct2.label      "Sobre o &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "s">
 <!ENTITY productHelp2.label       "Ajuda do &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "a">
+<!ENTITY productHelp2.accesskey   "U">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Atalhos do teclado">
