@@ -40,7 +40,7 @@
 <!ENTITY contentEncodingError.title "Erro de Codificação de Conteúdo">
 <!ENTITY contentEncodingError.longDesc "<p>A página que está a tentar ver não pode ser apresentada porque utiliza uma forma de compressão inválida ou não suportada.</p><ul><li>Por favor contacte os proprietários do website para os informar deste problema.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Tipo de Ficheiro Inseguro">
+<!ENTITY unsafeContentType.title "Tipo de ficheiro inseguro">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Por favor informe os proprietários do website do problema.</li> </ul>">
 
 <!ENTITY netReset.title "Ligação interrompida">
