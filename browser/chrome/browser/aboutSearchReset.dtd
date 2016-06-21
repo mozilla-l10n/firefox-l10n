@@ -6,6 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "Vil du stille tilbake søkjeinnstillingane?">
 
+<!ENTITY searchreset.pageInfo1      "Søkjeinnstillingane dine er kanskje gamle. &brandShortName; kan hjelpa deg med å gjenoppretta søkjeinnstillingane.">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
 
