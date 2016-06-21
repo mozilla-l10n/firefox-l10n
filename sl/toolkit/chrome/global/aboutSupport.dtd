@@ -120,4 +120,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPE št. 1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPE št. 2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Dnevnik odločitev">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Onemogočene možnosti zaščite pred sesutjem">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Zaobidenja">
