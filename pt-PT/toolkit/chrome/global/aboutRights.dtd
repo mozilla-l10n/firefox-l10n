@@ -69,9 +69,9 @@
 
 <!ENTITY rights.locationawarebrowsing-a "Navegação com conhecimento da localização: ">
 <!ENTITY rights.locationawarebrowsing-b "é sempre opcional.  Não será enviada quaisquer informações de localização sem a sua permissão.  Se quiser desativar completamente a funcionalidade, siga este passos:">
-<!ENTITY rights.locationawarebrowsing-term1a "Na barra de URL, escreva ">
+<!ENTITY rights.locationawarebrowsing-term1a "Na barra de URL, digite ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
-<!ENTITY rights.locationawarebrowsing-term2 "Escreva geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term2 "Digite geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Duplo clique na preferência geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term4 "A navegação com conhecimento da localização está agora desativada">
 <!-- intro paragraph for unbranded builds -->
