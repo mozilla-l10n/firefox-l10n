@@ -6,8 +6,8 @@
 <!ENTITY generalSettings.caption          "Definições gerais">
 <!ENTITY confirmMove.label                "Confirmar ao mover pastas para o Lixo">
 <!ENTITY confirmMove.accesskey            "C">
-<!ENTITY preserveThreading.label          "Preservar tópicos ao ordenar as mensagens">
-<!ENTITY preserveThreading.accesskey      "v">
+<!ENTITY preserveThreading.label          "Manter tópicos ao ordenar as mensagens">
+<!ENTITY preserveThreading.accesskey      "M">
 <!ENTITY mailBiffOnNewWindow.label        "Verificar por novo correio apenas depois de abrir o correio e os grupos de notícias">
 <!ENTITY mailBiffOnNewWindow.accesskey    "V">
 
