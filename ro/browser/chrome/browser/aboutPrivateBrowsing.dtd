@@ -2,29 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate                 "În prezent nu sunteți într-o fereastră privată.">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "În prezent nu ești într-o fereastră privată.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Deschide o fereastră privată">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
 <!ENTITY privateBrowsing.title                           "Navigare privată">
 <!ENTITY privateBrowsing.title.tracking                  "Navigare privată cu protecție față de urmărire">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Când navigați în modul privat, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Când navighezi într-o fereastră privată, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nu salvează">
 
 <!ENTITY aboutPrivateBrowsing.info.visited               "paginile vizitate">
-
-
-
-
-
-
-
-
-
-<!ENTITY aboutPrivateBrowsing.note.emphasize             "nu vă face anonimi">
-<!ENTITY aboutPrivateBrowsing.note.after                 " pe internet. Angajatorul dumneavoastră sau furnizorul de internet pot să știe în continuare paginile pe care le vizitați.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Aflați mai multe despre">
-
+<!ENTITY aboutPrivateBrowsing.info.searches              "căutările">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "cookie-urile">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "fișierele temporare">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "îți va salva">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "descărcările">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "semnele de carte">
+<!ENTITY aboutPrivateBrowsing.note.before                "Navigare privată ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "nu te face anonim">
+<!ENTITY aboutPrivateBrowsing.note.after                 " pe internet. Angajatorul sau furnizorul de servicii internet pot să știe în continuare paginile pe care le vizitezi.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Află mai multe despre">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "navigarea privată">
 
 <!ENTITY trackingProtection.title                        "Protecție față de urmărire">
 <!ENTITY trackingProtection.description2                 "Unele site-uri folosesc mecanisme de urmărire care pot monitoriza activitatea dumneavoastră pe internet. Cu ajutorul protecției față de urmărire Firefox va bloca multe mecanisme de urmărire care pot colecta informații despre activitatea de navigare.">
