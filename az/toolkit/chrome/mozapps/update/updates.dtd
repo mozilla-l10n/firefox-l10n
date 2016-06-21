@@ -55,7 +55,7 @@
 <!ENTITY  finishedBackground.name         "Yeniləmə:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Yeniləmə &brandShortName; yenidən başladılanda quraşdırılacaq. &brandShortName; səyyahını indi və ya işinizə davam edib, daha sonra da yenidən başlada bilərsiniz.">
-
+<!ENTITY  finishedBackground.moreElevated "Bu yeniləmə administrator icazələri tələb edir. Yeniləmə &brandShortName; səyyahı bir sonrakı dəfə başlatdığınızda qurulacaq. &brandShortName; səyyahını indi və ya istifadə etməyə davam edib daha sonra yenidən başlada və ya yeniləməni rədd edə bilərsiz.">
 
 <!ENTITY  update.details.label            "Ətraflı məlumat">
 <!ENTITY  update.installedOn.label        "Quraşdırma tarixi:">
