@@ -25,10 +25,10 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " คือ">
+<!ENTITY community.exp.middle       " คือ ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "ชุมชนระดับโลก">
-<!ENTITY community.exp.end          "ที่ทำงานร่วมกันเพื่อทำให้อินเทอร์เน็ตเป็นพื้นที่เสรี เป็นของสาธารณะและทุกคนจะต้องเข้าถึงได้โดยไร้ข้อจำกัด">
+<!ENTITY community.exp.end          " ที่ทำงานร่วมกันเพื่อทำให้เว็บเปิดกว้าง เป็นของสาธารณะ และเข้าถึงได้ทุกคน">
 
 <!ENTITY community.start2           "&brandShortName; ออกแบบโดย ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -36,7 +36,7 @@
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "ชุมชนระดับโลก">
-<!ENTITY community.end3             "ที่ทำงานร่วมกันเพื่อทำให้อินเทอร์เน็ตเป็นพื้นที่เสรี เป็นของสาธารณะและทุกคนจะต้องเข้าถึงได้โดยไร้ข้อจำกัด">
+<!ENTITY community.end3             " ที่ทำงานร่วมกันเพื่อทำให้เว็บเปิดกว้าง เป็นของสาธารณะ และเข้าถึงได้ทุกคน">
 
 <!ENTITY helpus.start               "ต้องการที่จะช่วย? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
@@ -62,7 +62,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; เป็นรุ่นล่าสุดแล้ว">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "การปรับรุ่นถูกปิดไว้โดยผู้ดูแลระบบของคุณ">
+<!ENTITY update.adminDisabled       "การปรับปรุงถูกปิดใช้งานโดยผู้ดูแลระบบของคุณ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "โปรเซสอื่นได้ทำการปรับรุ่น &brandShortName; แล้ว">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):

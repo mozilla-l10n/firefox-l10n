@@ -77,17 +77,17 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY navbarCmd.label "แถบเครื่องมือนำทาง">
 <!ENTITY personalbarCmd.label "แถบเครื่องมือที่คั่นหน้า">
 <!ENTITY personalbarCmd.accesskey "ค">
-<!ENTITY bookmarksToolbarItem.label "แถบเครื่องมือรายการที่คั่นหน้า">
+<!ENTITY bookmarksToolbarItem.label "รายการแถบเครื่องมือที่คั่นหน้า">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "เรียกทุกแท็บใหม่">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "โหลดแท็บทั้งหมดใหม่">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ท">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "คั่นหน้าเว็บทุกแท็บ…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "บ">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "คั่นแท็บทั้งหมด…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "แ">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "เรียกคืนแท็บที่เพิ่งปิด">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ด">
 
-<!ENTITY pageSourceCmd.label "ซอร์สโค้ด">
-<!ENTITY pageSourceCmd.accesskey "ซ">
+<!ENTITY pageSourceCmd.label "ต้นฉบับหน้า">
+<!ENTITY pageSourceCmd.accesskey "น">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "ข้อมูลหน้า">
 <!ENTITY pageInfoCmd.accesskey "ข">
@@ -132,7 +132,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "ออกจากการแสดงผลเต็มจอ (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "ออกจากการแสดงผลเต็มจอ (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "ออกจากการแสดงผลเต็มจอ (esc)">
 <!ENTITY leaveDOMFullScreen.label "ออกจากการแสดงผลเต็มจอ">
 <!ENTITY leaveDOMFullScreen.accesskey "ม">
 
@@ -144,7 +144,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "คั่นหน้านี้">
 <!ENTITY editThisBookmarkCmd.label "แก้ไขที่คั่นหน้านี้">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "I">
+<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -166,7 +166,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
 <!ENTITY addCurPagesCmd.label "คั่นแท็บทั้งหมด…">
 <!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าทั้งหมด">
-<!ENTITY recentBookmarks.label "หน้าที่เพิ่งคั่น">
+<!ENTITY recentBookmarks.label "ที่เพิ่งคั่น">
 <!ENTITY otherBookmarksCmd.label "ที่คั่นหน้าอื่น ๆ">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าเพิ่มเติม">
 <!ENTITY showRecentlyBookmarked.label     "แสดงที่เพิ่งคั่น">
@@ -175,7 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "อ">
 
 <!ENTITY backCmd.label                "ย้อนกลับ">
-<!ENTITY backButton.tooltip           "ย้อนกลับไปหนึ่งหน้า">
+<!ENTITY backButton.tooltip           "ย้อนกลับหนึ่งหน้า">
 <!ENTITY forwardCmd.label             "ถัดไป">
 <!ENTITY forwardButton.tooltip        "ถัดไปหนึ่งหน้า">
 <!ENTITY backForwardButtonMenu.tooltip "คลิกขวาหรือดึงลงเพื่อแสดงประวัติ">
@@ -196,18 +196,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.label         "ดูการแจ้งเตือน">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "ดูคำร้องขอตำแหน่งที่ตั้ง">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "ดูข้อความการติดตั้งส่วนเสริม">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "ดูข้อความที่เก็บข้อมูลออฟไลน์">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "ดูข้อความการจัดเก็บข้อมูลออฟไลน์ของแอป">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "จัดการข้อมูลการเข้าสู่ระบบของคุณ">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "โปรดทำเครื่องหมายกล่องนี้หากคุณต้องการบันทึกรหัสผ่าน">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "ทำเครื่องหมายหากคุณต้องการบันทึกรหัสผ่านของคุณ">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "จัดการการใช้งานโปรแกรมเสริมบนหน้านี้">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "เปลี่ยนแปลงเพื่อให้คุณสามารถรับการแจ้งเตือนจากไซต์นี้">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "จัดการการแบ่งปันการใช้งานกล้องหรือไมโครโฟนของคุณกับเว็บไซต์">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "คุณกำลังแบ่งปันการใช้งานกล้องหรือไมโครโฟนของคุณบนเว็บไซต์">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "จัดการการแบ่งปันการใช้งานไมโครโฟนของคุณกับเว็บไซต์">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "คุณกำลังแบ่งปันการใช้งานไมโครโฟนของคุณบนเว็บไซต์">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "จัดการการแบ่งปันการใช้งานหน้าต่างหรือหน้าจอของคุณกับเว็บไซต์">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "คุณกำลังแบ่งปันการใช้งานหน้าต่างหรือหน้าจอของคุณบนเว็บไซต์">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "จัดการการแบ่งปันกล้องและ/หรือไมโครโฟนของคุณกับไซต์">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "คุณกำลังแบ่งปันกล้องและ/หรือไมโครโฟนของคุณกับไซต์">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "จัดการการแบ่งปันไมโครโฟนของคุณกับไซต์">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "คุณกำลังแบ่งปันไมโครโฟนของคุณกับไซต์">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "จัดการการแบ่งปันหน้าต่างหรือหน้าจอของคุณกับไซต์">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "คุณกำลังแบ่งปันหน้าต่างหรือหน้าจอของคุณกับไซต์">
 
 <!ENTITY urlbar.pointerLockNotificationAnchor.label     "เปลี่ยนไม่ว่าเว็บไซต์จะสามารถซ่อนตัวชี้เมาส์ได้">
 <!ENTITY urlbar.servicesNotificationAnchor.label        "ดูข้อความการติดตั้งบริการ">
