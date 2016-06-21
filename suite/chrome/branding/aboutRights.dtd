@@ -6,7 +6,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Sobre os seus direitos">
-<!ENTITY rights.intro "O &brandFullName; é livre e é um software de código aberto, construído por uma comunidade de centenas de pessoas de todo o mundo. Existem algumas coisas que deve saber:">
+<!ENTITY rights.intro "O &brandFullName; é livre e é um software de código aberto, criado por uma comunidade de milhares de pessoas por todo o mundo. Existem algumas coisas que deve saber:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -18,14 +18,14 @@
 
 <!ENTITY rights.intro-point1a "O &brandShortName; está disponível sob os termos da ">
 <!ENTITY rights.intro-point1b "Licença pública da Mozilla">
-<!ENTITY rights.intro-point1c ". Isto significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas.  Também pode modificar o código fonte do &brandShortName; conforme as suas necessidades. A Mozilla Public License também lhe dá o direito de distribuir as suas versões modificadas.">
+<!ENTITY rights.intro-point1c ". Isto significa que pode utilizar, copiar e distribuir o &brandShortName; para outras pessoas. Também é bem-vindo para modificar o código fonte do &brandShortName; conforme as suas necessidades. A Licença Pública da Mozilla também lhe dá o direito de distribuir as suas versões modificadas.">
 
-<!ENTITY rights.intro-point2a "A Mozilla não lhe dá nenhum direito às marcas registadas ou logótipos da Mozilla e do Firefox. Encontra mais informação adicional sobre marcas registadas ">
+<!ENTITY rights.intro-point2a "A Mozilla não lhe cede quaisquer direitos para as marcas registadas ou logótipos da Mozilla e SeaMonkey. Informação adicional sobre as marcas registadas pode ser encontrada ">
 <!ENTITY rights.intro-point2b "aqui">
 <!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
 
-<!ENTITY rights.intro-point3a "A política de privacidade dos produtos da &vendorShortName; pode ser encontrada ">
+<!ENTITY rights.intro-point3a "As políticas de privacidade dos produtos da &vendorShortName; podem ser encontradas ">
 <!ENTITY rights.intro-point3b "aqui">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 4 text for official branded builds -->
