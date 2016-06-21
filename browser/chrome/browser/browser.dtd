@@ -258,7 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "นักพัฒนาเว็บ">
 <!ENTITY webDeveloperMenu.accesskey   "พ">
 
-<!ENTITY inspectContextMenu.label     "ตรวจดูส่วนประกอบ">
+<!ENTITY inspectContextMenu.label     "ตรวจสอบองค์ประกอบ">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY fileMenu.label         "ไฟล์"> 
@@ -310,8 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "ค"> 
 <!ENTITY viewSidebarMenu.label "แถบข้าง">
 <!ENTITY viewSidebarMenu.accesskey "ง">
-<!ENTITY viewCustomizeToolbar.label       "กำหนดเอง…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "ก">
+<!ENTITY viewCustomizeToolbar.label       "ปรับแต่ง…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "ป">
 
 <!ENTITY historyMenu.label "ประวัติ">
 <!ENTITY historyMenu.accesskey "ป">
@@ -347,7 +347,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "ยังไม่มีแท็บที่ซิงค์…!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "การตั้งค่า Sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "ลงชื่อเข้าใช้เพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "ลงชื่อเข้าเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 <!ENTITY appMenuRemoteTabs.signin.label "ลงชื่อเข้าใช้ Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ดูแถบข้างแท็บที่ซิงค์">
 
@@ -376,7 +376,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "สลับไปยังแท็บ:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "คุณต้องการทำให้ประสบการณ์การค้นหาของคุณดีขึ้นด้วยการแนะนำคำค้นหรือไม่?">
+<!ENTITY urlbar.searchSuggestionsNotification.question "คุณต้องการปรับปรุงประสบการณ์การค้นหาของคุณด้วยคำแนะนำหรือไม่?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "เรียนรู้เพิ่มเติม…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "ไม่">
@@ -418,7 +418,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      search providers:  "Search for <used typed keywords> with:" -->
 
 <!ENTITY searchFor.label              "ค้นหาสำหรับ ">
-<!ENTITY searchWith.label             " กับ:">
+<!ENTITY searchWith.label             " ด้วย:">
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
@@ -495,7 +495,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ล">
 <!ENTITY bookmarkThisFrameCmd.label      "คั่นกรอบนี้">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "อ">
-<!ENTITY emailPageCmd.label           "อีเมลลิงก์…">
+<!ENTITY emailPageCmd.label           "ส่งอีเมลลิงก์…">
 <!ENTITY emailPageCmd.accesskey       "ม">
 <!ENTITY savePageCmd.label            "บันทึกหน้าเป็น…">
 <!ENTITY savePageCmd.accesskey        "ป">
@@ -514,28 +514,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "ป">
 <!ENTITY saveAudioCmd.label           "บันทึกเสียงเป็น…">
 <!ENTITY saveAudioCmd.accesskey       "ป">
-<!ENTITY emailImageCmd.label          "อีเมลภาพ…">
+<!ENTITY emailImageCmd.label          "ส่งอีเมลภาพ…">
 <!ENTITY emailImageCmd.accesskey      "พ">
-<!ENTITY emailVideoCmd.label          "อีเมลวิดีโอ…">
-<!ENTITY emailVideoCmd.accesskey      "อ">
+<!ENTITY emailVideoCmd.label          "ส่งอีเมลวิดีโอ…">
+<!ENTITY emailVideoCmd.accesskey      "ม">
 <!ENTITY castVideoCmd.label           "ส่งวิดีโอไปยังอุปกรณ์">
 <!ENTITY castVideoCmd.accesskey       "ส">
-<!ENTITY emailAudioCmd.label          "อีเมลเสียง…">
-<!ENTITY emailAudioCmd.accesskey      "อ">
-<!ENTITY playPluginCmd.label          "เรียกทำงานโปรแกรมเสริมนี้">
-<!ENTITY playPluginCmd.accesskey      "ร">
+<!ENTITY emailAudioCmd.label          "ส่งอีเมลเสียง…">
+<!ENTITY emailAudioCmd.accesskey      "ม">
+<!ENTITY playPluginCmd.label          "เปิดใช้งานโปรแกรมเสริมนี้">
+<!ENTITY playPluginCmd.accesskey      "ป">
 <!ENTITY hidePluginCmd.label          "ซ่อนโปรแกรมเสริมนี้">
 <!ENTITY hidePluginCmd.accesskey      "ซ">
 <!ENTITY copyLinkCmd.label            "คัดลอกที่ตั้งลิงก์">
 <!ENTITY copyLinkCmd.accesskey        "ต">
 <!ENTITY copyImageCmd.label           "คัดลอกที่ตั้งภาพ">
-<!ENTITY copyImageCmd.accesskey       "ค">
+<!ENTITY copyImageCmd.accesskey       "ด">
 <!ENTITY copyImageContentsCmd.label   "คัดลอกภาพ">
 <!ENTITY copyImageContentsCmd.accesskey  "ล"> 
-<!ENTITY copyVideoURLCmd.label        "คัดลอก URL ของวิดีโอ">
-<!ENTITY copyVideoURLCmd.accesskey    "ข">
-<!ENTITY copyAudioURLCmd.label        "คัดลอก URL ของเสียง">
-<!ENTITY copyAudioURLCmd.accesskey    "ข">
+<!ENTITY copyVideoURLCmd.label        "คัดลอกที่ตั้งวิดีโอ">
+<!ENTITY copyVideoURLCmd.accesskey    "ด">
+<!ENTITY copyAudioURLCmd.label        "คัดลอกที่ตั้งเสียง">
+<!ENTITY copyAudioURLCmd.accesskey    "ด">
 <!ENTITY copyEmailCmd.label           "คัดลอกที่อยู่อีเมล">
 <!ENTITY copyEmailCmd.accesskey       "อ">
 <!ENTITY thisFrameMenu.label              "กรอบนี้">
@@ -590,7 +590,7 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "แสดงสถิติ">
 <!ENTITY videoShowStats.accesskey    "ถ">
 <!ENTITY videoHideStats.label        "ซ่อนสถิติ">
-<!ENTITY videoHideStats.accesskey    "ซ">
+<!ENTITY videoHideStats.accesskey    "ถ">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -634,7 +634,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "ปิด">  
-<!ENTITY closeCmd.key                   "w">  
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "ป">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -643,19 +643,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.accesskey "บ">
 <!ENTITY pageStyleNoStyle.label "ไม่มีรูปแบบ">
 <!ENTITY pageStyleNoStyle.accesskey "ม">
-<!ENTITY pageStylePersistentOnly.label "รูปแบบพื้นฐาน">
+<!ENTITY pageStylePersistentOnly.label "รูปแบบหน้าพื้นฐาน">
 <!ENTITY pageStylePersistentOnly.accesskey "พ">
 
-<!ENTITY pageReportIcon.tooltip            "เปลี่ยนการตั้งค่าการปิดกั้นหน้าต่างป็อปอัพของเว็บนี้">
+<!ENTITY pageReportIcon.tooltip            "เปลี่ยนการตั้งค่าการปิดกั้นป็อปอัปสำหรับเว็บไซต์นี้">
 
-<!ENTITY allowPopups.accesskey "ป">
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "แก้ไขการตั้งค่าป็อปอัพ…">
-<!ENTITY editPopupSettings.label "แก้ไขตัวเลือกการปิดกั้นป็อปอัพ…">
-<!ENTITY editPopupSettings.accesskey "ก">
-<!ENTITY dontShowMessage.accesskey "ม">
+<!ENTITY editPopupSettingsUnix.label "แก้ไขการตั้งค่าตัวปิดกั้นป็อปอัป…">
+<!ENTITY editPopupSettings.label "แก้ไขตัวเลือกตัวปิดกั้นป็อปอัป…">
+<!ENTITY editPopupSettings.accesskey "แ">
+<!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "สลับทิศทางหน้ากระดาษ">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "น">
@@ -675,11 +675,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "เพิ่มพจนานุกรม…">
 <!ENTITY spellAddDictionaries.accesskey "พ">
 
-<!ENTITY editBookmark.done.label                     "เสร็จ">
+<!ENTITY editBookmark.done.label                     "เสร็จสิ้น">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "การเชื่อมต่อปลอดภัย">
-<!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่นิรภัย">
+<!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่ปลอดภัย">
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บบนคอมพิวเตอร์ของคุณ">
 <!ENTITY identity.connectionVerified2 "คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้ เจ้าของ:">
 <!ENTITY identity.connectionInternal "นี้คือหน้า &brandShortName; ที่ปลอดภัย">
