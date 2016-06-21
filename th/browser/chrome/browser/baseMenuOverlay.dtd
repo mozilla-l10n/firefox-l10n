@@ -48,7 +48,7 @@
 <!ENTITY hideThisAppCmdMac2.label       "ซ่อน &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      "ซ่อนโปรแกรมอื่น">
+<!ENTITY hideOtherAppsCmdMac.label      "ซ่อนอื่น ๆ">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "แสดงทั้งหมด">
