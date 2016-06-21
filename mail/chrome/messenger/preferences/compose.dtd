@@ -26,7 +26,7 @@
 <!ENTITY bgColor.accesskey                    "A">
 <!ENTITY restoreHTMLDefaults.label            "Standaardwaarden herstellen">
 <!ENTITY restoreHTMLDefaults.accesskey        "S">
-<!ENTITY defaultToParagraph.label             "Gebruik standaard tekstopmaak Alinea in plaats van Tekst">
+<!ENTITY defaultToParagraph.label             "Standaard tekstopmaak Alinea gebruiken in plaats van Tekst">
 <!ENTITY defaultToParagraph.accesskey         "r">
 
 <!ENTITY spellCheck.label                     "Spelling controleren voor het verzenden">
