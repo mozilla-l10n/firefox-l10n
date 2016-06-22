@@ -567,8 +567,8 @@ size. -->
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 cihaz">
 <!ENTITY home_history_back_to2 "Bütün Tarixçəyə geri dön">
-<!ENTITY home_clear_history_button "Səyahət keçmişini təmizlə">
-<!ENTITY home_clear_history_confirm "Keçmişi təmizləmək istədiyinizə əminsiniz?">
+<!ENTITY home_clear_history_button "Səyahət tarixçəsini təmizlə">
+<!ENTITY home_clear_history_confirm "Tarixçəni təmizləmək istədiyinizə əminsiniz?">
 <!ENTITY home_bookmarks_empty "Saxladığınız əlfəcinlər burada görünür.">
 <!ENTITY home_closed_tabs_title "Son qapatılan vərəqlər">
 <!ENTITY home_last_tabs_title "Son ziyarətdəki vərəqlər">
