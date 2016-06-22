@@ -5,7 +5,7 @@
 <!ENTITY header.label     "Qısa başlıq"> 
 <!ENTITY message.label    "Nümunə üçün mətnlər burada göstərilsin:">
 <!ENTITY editfield0.label "İstifadəçi adı:"> 
-<!ENTITY editfield1.label "Şifrə:"> 
+<!ENTITY editfield1.label "Parol:"> 
 <!ENTITY checkbox.label   "Nəzarət">
 <!ENTITY copyCmd.label    "Köçür">
 <!ENTITY copyCmd.accesskey "K">

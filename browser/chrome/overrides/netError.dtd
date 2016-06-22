@@ -24,6 +24,7 @@
 <!ENTITY fileNotFound.title "Fayl tapılmadı">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Faylın adını böyük hərf və ya digər yazı xətaları üçün yoxlayın.</li> <li>Faylın köçürülmüş, adı dəyişdirilmiş və ya silinmiş olmasını yoxlayın.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "Faylın işlədilməsinə icazə verilmədi">
 
 
 <!ENTITY generic.title "Uups.">
@@ -116,4 +117,4 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
-
+<!ENTITY prefReset.label "Ön tənzimləmələri bərpa et">

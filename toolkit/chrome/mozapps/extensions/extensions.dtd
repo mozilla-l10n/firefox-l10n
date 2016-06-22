@@ -43,7 +43,7 @@
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Axtarış">
-<!ENTITY view.discover.label                  "Əlavə yükləyin">
+<!ENTITY view.discover.label                  "Əlavə Endirin">
 <!ENTITY view.recentUpdates.label             "Yaxın vaxtlardakı yeniləmələr">
 <!ENTITY view.availableUpdates.label          "Mövcud yeniləmələr">
 <!-- addon updates -->

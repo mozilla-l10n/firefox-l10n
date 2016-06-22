@@ -50,9 +50,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktiv Qoşmalar">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfiqurasiya">
 <!ENTITY aboutSupport.appBasicsUserAgent "İstifadəçi Vəkli">
-
+<!ENTITY aboutSupport.appBasicsOS "ƏS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Yaddaş istifadəsi">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Məhsuldarlıq">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Qeyd Olunmuş Service Worker-lar">
@@ -109,10 +109,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Təhlükəsiz Modu Yoxlayın">
 <!ENTITY aboutSupport.restartInSafeMode.label "Əlavələr sönülü olaraq yenidən başlat…">
 
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Özəlliklər">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diaqnostikalar">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Xəta Qeydi">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 
 
 
