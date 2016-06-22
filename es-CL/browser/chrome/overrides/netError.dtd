@@ -126,8 +126,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Bloqueado por la política de seguridad de contenido">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; previno que esta página cargara de esta forma porque la página contiene una política de seguridad de contenido que no lo permite.</p>">
 
-<!ENTITY corruptedContentError.title "Error de contenido corrupto">
-<!ENTITY corruptedContentError.longDesc "<p>La página que estás intentando ver no puede ser mostrada porque se detecto un error en la transmisión de datos.</p><ul><li>Por favor, contacta a los dueños del sitio web para informarles de este problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Error de contenido corrupto">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
@@ -151,6 +150,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa tecnología de seguridad que está obsoleta y vulnerable a ataques. Un atacante puede fácilmente revelar información que se pensaba estaba segura.">
 <!ENTITY weakCryptoAdvanced.override "(Inseguro) Intentar cargar <span class='hostname'></span> usando seguridad obsoleta">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+
 <!ENTITY certerror.pagetitle1  "Conexión insegura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa HTTP Strict Transport Security (HSTS) para especificar que &brandShortName; solo se conecte a él de forma segura. Como resultado, no es posible añadir una excepción para este certificado.">
 <!ENTITY certerror.copyToClipboard.label "Copiar texto al portapapeles">
@@ -159,3 +161,5 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>utiliza tecnología de seguridad que es obsoleta y vulnerable a ataques. Un atacante fácilmente podría revelar información que creía estar a salvo. El administrador del sitio web tendrá que arreglar el servidor antes de que usted puede visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY prefReset.label "Restaurar ajustes predeterminados">
