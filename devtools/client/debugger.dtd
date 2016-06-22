@@ -184,5 +184,5 @@
   -  the same as netmonitorUI.context.copyUrl -->
 
 <!ENTITY debuggerUI.context.copyUrl           "رونوشت‌برداشتن از نشانی اینترنتی">
-
+<!ENTITY debuggerUI.context.copyUrl.accesskey "C">
 
