@@ -464,7 +464,6 @@
 <!ENTITY identity_connected_to "Połączono z">
 <!ENTITY identity_connection_secure "Zabezpieczone połączenie">
 <!ENTITY identity_connection_insecure "Niezabezpieczone połączenie">
-<!ENTITY identity_login_insecure "Ta strona nie jest zabezpieczona. Dane logowania mogą być narażone na ataki.">
 <!ENTITY identity_connection_chromeui "To jest strona programu &brandShortName;">
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; zablokował niezabezpieczoną treść na tej stronie.">
