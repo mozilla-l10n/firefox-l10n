@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "अलिकडील वाचनखूणा">
 <!ENTITY otherBookmarksCmd.label "इतर वाचनखूणा">
 <!ENTITY bookmarksToolbarChevron.tooltip "आणखी वाचनखूणा दर्शवा">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "अलिकडील वाचनखूणा दाखवा">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "अलिकडील वाचनखूणा लपवा">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "मागे">
 <!ENTITY backButton.tooltip           "ऐक पृष्ठ मागे जा">
@@ -555,20 +555,21 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "मंद अशक्य करा">
 <!ENTITY mediaUnmute.accesskey       "m">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "चालवायची गती">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "(0.5×) ने हळू करा">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "सामान्य">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "(1.25×)ने जलद करा">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "(1.5×)ने जलद करा">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
+<!ENTITY mediaPlaybackRate200x2.label "अतिशय जलद (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
 
 
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
