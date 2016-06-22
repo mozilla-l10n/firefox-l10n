@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "मागोवा घेऊ नका">
+<!ENTITY window.width                 "50em">
+<!ENTITY window.height                "10em">
 
-
-
-
+<!ENTITY doNotTrackCheckbox2.label    "कधीच मागोवा घेऊ नका">
+<!ENTITY doNotTrackCheckbox2.accesskey "A">
 
 <!ENTITY doNotTrackLearnMore.label    "अधिक जाणून घ्या">
