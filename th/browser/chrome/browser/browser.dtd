@@ -488,7 +488,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "ว">
 <!ENTITY viewBGImageCmd.label         "ดูภาพพื้นหลัง">
 <!ENTITY viewBGImageCmd.accesskey     "พ">
-<!ENTITY setDesktopBackgroundCmd.label      "ตั้งเป็นภาพพื้นหลัง…">
+<!ENTITY setDesktopBackgroundCmd.label      "ตั้งเป็นพื้นหลังเดสก์ท็อป…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ต">
 <!ENTITY bookmarkPageCmd2.label       "คั่นหน้านี้">
 <!ENTITY bookmarkThisLinkCmd.label      "คั่นลิงก์นี้">
@@ -682,11 +682,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่ปลอดภัย">
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บบนคอมพิวเตอร์ของคุณ">
 <!ENTITY identity.connectionVerified2 "คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้ เจ้าของ:">
-<!ENTITY identity.connectionInternal "นี้คือหน้า &brandShortName; ที่ปลอดภัย">
+<!ENTITY identity.connectionInternal "นี่คือหน้า &brandShortName; ที่ปลอดภัย">
 <!ENTITY identity.insecureLoginForms2 "การเข้าสู่ระบบที่ป้อนในหน้านี้อาจตกอยู่ในอันตราย">
 <!-- Strings for connection state warnings. -->
 
-<!ENTITY identity.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่เชื่อถือไม่ได้">
+<!ENTITY identity.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย">
 <!ENTITY identity.passiveLoaded "บางส่วนของหน้านี้มีเนื้อหาที่เชื่อถือไม่ได้ (เช่น รูปภาพ)">
 <!ENTITY identity.activeLoaded "คุณได้ปิดใช้งานการปกป้องหน้านี้">
 <!ENTITY identity.weakEncryption "หน้านี้ใช้การเข้ารหัสแบบอ่อนแอ">
