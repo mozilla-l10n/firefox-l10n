@@ -87,8 +87,8 @@
 <!ENTITY engine.bookmarks.accesskey "c">
 <!ENTITY engine.tabs.label          "Vərəqlər">
 <!ENTITY engine.tabs.accesskey      "V">
-<!ENTITY engine.history.label       "Keçmiș">
-<!ENTITY engine.history.accesskey   "K">
+<!ENTITY engine.history.label       "Tarixçə">
+<!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Şifrələr">
 <!ENTITY engine.passwords.accesskey "Ş">
 <!ENTITY engine.prefs.label         "Nizamlamalar">
