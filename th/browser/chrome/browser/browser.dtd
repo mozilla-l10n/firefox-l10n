@@ -728,7 +728,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.label    "ลงชื่อเข้าใช้ Firefox จากอุปกรณ์อื่น ๆ ของคุณเพื่อดูแท็บของอุปกรณ์เหล่านั้นที่นี่">
 <!ENTITY syncedTabs.sidebar.noclients.title    "ยังไม่มีแท็บที่ซิงค์…!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "ลงชื่อเข้าใช้เพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "ลงชื่อเข้าเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 <!ENTITY syncedTabs.sidebar.notabs.label       "ไม่มีแท็บที่เปิดอยู่">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "เปิดการตั้งค่า &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -785,8 +785,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "คลิกบนบริการเพื่อเพิ่มเข้าไปใน &brandShortName;">
 <!ENTITY social.directory.viewmore.text "ดูเพิ่ม">
 
-<!ENTITY customizeMode.menuAndToolbars.header2 "เพิ่มเครื่องมือและคุณสมบัติ">
-<!ENTITY customizeMode.menuAndToolbars.empty "อยากได้เครื่องมือเพิ่ม?">
+<!ENTITY customizeMode.menuAndToolbars.header2 "เครื่องมือและคุณลักษณะเพิ่มเติม">
+<!ENTITY customizeMode.menuAndToolbars.empty "ต้องการเครื่องมือเพิ่มเติม?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "เลือกจากส่วนเสริมที่มีนับพัน">
 <!ENTITY customizeMode.restoreDefaults "เรียกคืนค่าปริยาย">
 <!ENTITY customizeMode.toolbars "แสดง / ซ่อน แถบเครื่องมือ">
@@ -815,10 +815,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "เสียงจากแท็บจะถูกแบ่งปัน">
 <!ENTITY getUserMedia.allWindowsShared.message "หน้าตาที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกใช้ร่วมกัน">
 
-<!ENTITY trackingProtection.title "ป้องกันการติดตาม">
+<!ENTITY trackingProtection.title "การป้องกันการตามรอย">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; กำลังปิดกั้นบางส่วนของหน้านี้ที่อาจจะติดตามการท่องเว็บของคุณ">
-<!ENTITY trackingProtection.detectedNotBlocked3 "เว็บไซต์นี้มีส่วนประกอบที่อาจจะตามรอยการเปิดเว็บของคุณ คุณได้ปิดใช้การป้องกัน">
-<!ENTITY trackingProtection.notDetected3 "ไม่พบส่วนประกอบที่ทำการติดตามในหน้านี้">
+<!ENTITY trackingProtection.detectedNotBlocked3 "ไซต์นี้มีองค์ประกอบที่อาจตามรอยการท่องเว็บของคุณ คุณได้ปิดใช้งานการปกป้อง">
+<!ENTITY trackingProtection.notDetected3 "ไม่พบองค์ประกอบที่ตามรอยในหน้านี้">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -832,13 +832,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "เปิดใช้งานการปกป้อง">
 <!ENTITY trackingProtection.block2.accesskey "เ">
 
-<!ENTITY trackingContentBlocked.message "การติดตาม">
+<!ENTITY trackingContentBlocked.message "การตามรอย">
 <!ENTITY trackingContentBlocked.moreinfo "บางส่วนของหน้าที่ติดตามกิจกรรมออนไลน์ของคุณถูกปิดกั้น">
 <!ENTITY trackingContentBlocked.learnMore "เรียนรู้เพิ่มเติม">
 <!ENTITY trackingContentBlocked.options "ตัวเลือก">
 <!ENTITY trackingContentBlocked.unblock2.label "ปิดใช้งานการปกป้องสำหรับไซต์นี้">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "ป">
-<!ENTITY trackingContentBlocked.block.label "เปิดการปกป้อง">
+<!ENTITY trackingContentBlocked.block.label "เปิดใช้งานการปกป้อง">
 <!ENTITY trackingContentBlocked.block.accesskey "เ">
 <!ENTITY trackingContentBlocked.disabled.message "การป้องกันการติดตามถูกปิดใช้งาน">
 
@@ -849,7 +849,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
 <!ENTITY pluginActivateNow.label "อนุญาตสำหรับครั้งนี้">
-<!ENTITY pluginActivateAlways.label "อนุญาตและจำไว้">
+<!ENTITY pluginActivateAlways.label "อนุญาตและจดจำ">
 <!ENTITY pluginBlockNow.label "ปิดกั้นโปรแกรมเสริม">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -876,17 +876,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The translation should do the same. -->
 
 <!ENTITY panicButton.view.mainActionDesc          "การดำเนินการจะ:">
-<!ENTITY panicButton.view.deleteCookies           "ลบ<html:strong>คุกกี้</html:strong>เร็ว ๆ นี้">
-<!ENTITY panicButton.view.deleteHistory           "ลบ<html:strong>ประวัติการใช้</html:strong>เร็ว ๆ นี้">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "ปิด<html:strong>แท็บ</html:strong>และ<html:strong>หน้าต่าง</html:strong>ทั้งหมด">
+<!ENTITY panicButton.view.deleteCookies           "ลบ <html:strong>คุกกี้</html:strong> เมื่อเร็ว ๆ นี้">
+<!ENTITY panicButton.view.deleteHistory           "ลบ <html:strong>ประวัติ</html:strong> เมื่อเร็ว ๆ นี้">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "ปิด <html:strong>แท็บ</html:strong> และ <html:strong>หน้าต่าง</html:strong> ทั้งหมด">
 <!ENTITY panicButton.view.openNewWindow           "เปิดหน้าต่างว่างใหม่">
 
-<!ENTITY panicButton.view.undoWarning             "การกระทำนี้ไม่สามารถยกเลิกได้">
+<!ENTITY panicButton.view.undoWarning             "การกระทำนี้ไม่สามารถเลิกทำได้">
 <!ENTITY panicButton.view.forgetButton            "ลืมซะ!">
 
 <!ENTITY panicButton.thankyou.msg1                "ประวัติการใช้ล่าสุดได้ถูกลบล้างแล้ว">
-<!ENTITY panicButton.thankyou.msg2                "ดูหน้าเว็บปลอดภัย!">
-<!ENTITY panicButton.thankyou.buttonlabel         "ขอบคุณมาก!">
+<!ENTITY panicButton.thankyou.msg2                "การท่องเว็บปลอดภัย!">
+<!ENTITY panicButton.thankyou.buttonlabel         "ขอบคุณ!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "ข้อมูลเพิ่มเติมเกี่ยวกับ DRM…">
+<!ENTITY emeLearnMoreContextMenu.label            "เรียนรู้เพิ่มเติมเกี่ยวกับ DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
