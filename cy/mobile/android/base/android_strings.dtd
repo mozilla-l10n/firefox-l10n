@@ -13,7 +13,7 @@
 <!ENTITY firstrun_data_message "Llai o ddata, mwy o arbedion">
 <!ENTITY firstrun_data_subtext2 "Diffoddwch ddelweddau a gwario llai ar ddata pob gwefan fyddwch yn mynd iddyn nhw.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, bob tro o\u0027ch plaid chi.">
+<!ENTITY firstrun_sync_message "&brandShortName;, bob tro o\u0027ch plaid chi">
 <!ENTITY firstrun_sync_subtext "Cydweddu eich tabiau, cyfrineiriau a rhagor ym mhob man fyddwch yn ei ddefnyddio.">
 <!ENTITY firstrun_signin_message "Cysylltu a chychwyn arni">
 <!ENTITY firstrun_signin_button "Mewngofnodwch i Sync">
@@ -32,7 +32,7 @@
 <!ENTITY firstrun_readerview_title "Erhyglau">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Colli\u0027r blerwch">
-<!ENTITY firstrun_readerview_subtext "Defnyddio\u0027r Golwg Darllen i wneud erthyglau yn brafiach eu darllen — hyd yn oed all-lein.">
+<!ENTITY firstrun_readerview_subtext "Defnyddio\u0027r Golwg Darllen i wneud erthyglau yn brafiach eu darllen \u2014 hyd yn oed all-lein.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "Chi">
@@ -207,7 +207,7 @@
 <!ENTITY pref_category_home_summary "Cyfaddasu eich tudalen cartref">
 <!ENTITY pref_category_home_panels "Paneli">
 <!ENTITY pref_category_home_add_ons "Ychwanegion">
-<!ENTITY pref_home_updates2 "Diweddariadau cynnwys ">
+<!ENTITY pref_home_updates2 "Diweddariadau cynnwys">
 <!ENTITY pref_home_updates_enabled "Galluogwyd">
 <!ENTITY pref_home_updates_wifi "Hanes pori a llwytho i lawr">
 <!ENTITY pref_category_home_homepage "Tudalen Cartref">
@@ -562,7 +562,7 @@ size. -->
 
 <!ENTITY home_title "Cartref &brandShortName;">
 <!ENTITY home_history_title "Hanes">
-<!ENTITY home_synced_devices_smartfolder "Dyfeisiau cydweddwyd ">
+<!ENTITY home_synced_devices_smartfolder "Dyfeisiau cydweddwyd">
 <!ENTITY home_synced_devices_number "&formatD; dyfeisiadau">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 dyfais">
@@ -626,7 +626,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Cysylltiad Diogel">
 <!ENTITY identity_connection_insecure "Cysylltiad anniogel">
 <!ENTITY identity_login_insecure "Nid yw\u0027r dudalen yn ddiogel a gall eich mewngofnod fod yn fregus.">
-<!ENTITY identity_connection_chromeui "Mae hon yn dudalen &brandShortName; diogel.">
+<!ENTITY identity_connection_chromeui "Mae hon yn dudalen &brandShortName; diogel">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "Mae &brandShortName; wedi rhwystro elfennau anniogel ar y dudalen hon.">
