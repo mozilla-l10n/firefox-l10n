@@ -720,7 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "A">
 <!ENTITY contextEditMsgAsNew.label "Golygu fel Neges Newydd">
 <!ENTITY contextEditMsgAsNew.accesskey "N">
-<!ENTITY contextEditDraftMsg.label "Golygu Neges Ddrafft ">
+<!ENTITY contextEditDraftMsg.label "Golygu Neges Ddrafft">
 <!ENTITY contextArchive.label "Archif">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Ateb yr Anfonwr yn Unig">
