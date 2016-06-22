@@ -687,7 +687,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย">
-<!ENTITY identity.passiveLoaded "บางส่วนของหน้านี้มีเนื้อหาที่เชื่อถือไม่ได้ (เช่น รูปภาพ)">
+<!ENTITY identity.passiveLoaded "บางส่วนของหน้านี้ไม่ปลอดภัย (อย่างเช่น ภาพ)">
 <!ENTITY identity.activeLoaded "คุณได้ปิดใช้งานการปกป้องหน้านี้">
 <!ENTITY identity.weakEncryption "หน้านี้ใช้การเข้ารหัสแบบอ่อนแอ">
 <!-- Strings for connection state warnings in the subview. -->
@@ -705,7 +705,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "เปิดใช้งานการปกป้อง">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "เ">
-<!ENTITY identity.disableMixedContentBlocking.label "ปิดการปกป้องสำหรับตอนนี้">
+<!ENTITY identity.disableMixedContentBlocking.label "ปิดใช้งานการปกป้องสำหรับตอนนี้">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "ป">
 <!ENTITY identity.learnMore "เรียนรู้เพิ่มเติม">
 
@@ -727,7 +727,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "แท็บที่ซิงค์">
 <!ENTITY syncedTabs.sidebar.noclients.label    "ลงชื่อเข้าใช้ Firefox จากอุปกรณ์อื่น ๆ ของคุณเพื่อดูแท็บของอุปกรณ์เหล่านั้นที่นี่">
 <!ENTITY syncedTabs.sidebar.noclients.title    "ยังไม่มีแท็บที่ซิงค์…!">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "ต้องการเห็นแท็บจากอุปกรณ์อื่นๆ ที่นี่ไหม?">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ลงชื่อเข้าใช้เพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 <!ENTITY syncedTabs.sidebar.notabs.label       "ไม่มีแท็บที่เปิดอยู่">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "เปิดการตั้งค่า &syncBrand.shortName.label;">
@@ -769,7 +769,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.addons.label "จัดการบริการ…">
 
-<!ENTITY social.toggleNotifications.label "แสดงการแจ้งเตือน">
+<!ENTITY social.toggleNotifications.label "แสดงการแจ้งเตือนเดสก์ท็อป">
 <!ENTITY social.toggleNotifications.accesskey "ต">
 
 <!ENTITY social.activated.description "บริการจาก<label/>ถูกเปิดใช้งานแล้ว คุณสามารถเปลี่ยนแปลงการตั้งค่าของบริการใน<label class='text-link'>ตัวจัดการส่วนเสริม</label>">
@@ -796,7 +796,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.recommended "แนะนำ">
 <!ENTITY customizeMode.lwthemes.menuManage "จัดการ">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "รับชุดตกแต่งเพิ่ม">
+<!ENTITY customizeMode.lwthemes.menuGetMore "รับชุดตกแต่งเพิ่มเติม">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY social.chatBar.commandkey "c">

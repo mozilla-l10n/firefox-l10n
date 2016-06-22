@@ -34,7 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "สำเร็จ!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; พร้อมที่จะเริ่ม">
 
-<!ENTITY welcomeback2.label.restoreAll  "เรียกคืนทุกหน้าต่างและแท็บ">
+<!ENTITY welcomeback2.label.restoreAll  "เรียกคืนหน้าต่างและแท็บทั้งหมด">
 <!ENTITY welcomeback2.label.restoreSome "เรียกคืนเฉพาะที่คุณต้องการ">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
