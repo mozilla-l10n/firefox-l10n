@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Tagiau">
 <!ENTITY bookmarks.folder.toolbar.label "Bar Offer Nodau Tudalen">
-<!ENTITY bookmarks.folder.other.label "Nodau Tudalen Eraill ">
+<!ENTITY bookmarks.folder.other.label "Nodau Tudalen Eraill">
 <!ENTITY bookmarks.folder.desktop.label "Nodau Tudalen Bwrdd Gwaith">
 <!ENTITY bookmarks.folder.mobile.label "Nodau Tudalen Symudol">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
