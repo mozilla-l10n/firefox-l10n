@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchreset.tabtitle       "शोध सेटिंग पुनर्संचयित करा">
+<!ENTITY searchreset.tabtitle       "शोध सेटिंग पूर्वस्थितीत आणा">
 
 <!ENTITY searchreset.pageTitle      "शोध सेटिंग पुनर्संचयित करायचे आहेत का?">
 
@@ -24,7 +24,7 @@ their language. -->
 <!ENTITY searchreset.link.pageInfo2       "सेटिंग्ज पृष्ठ">
 
 <!ENTITY searchreset.noChangeButton        "बदलू नका">
-
+<!ENTITY searchreset.noChangeButton.access "D">
 
 <!ENTITY searchreset.changeEngineButton        "शोध यंत्र बदला">
 
