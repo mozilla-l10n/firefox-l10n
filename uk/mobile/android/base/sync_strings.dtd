@@ -115,7 +115,7 @@
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Якась проблема'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Обліковий запис заблоковано. &formatS1;'>
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; не підключений'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; не підключена'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Торкніться, щоб увійти як &formatS;'>
