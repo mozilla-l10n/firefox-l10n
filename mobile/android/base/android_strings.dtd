@@ -807,6 +807,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "Gå til bokmerker">
 
 <!ENTITY helper_triple_readerview_open_title "Tilgjengelig frakoblet">
-
+<!ENTITY helper_triple_readerview_open_message "Bokmerk lesevisningselementer for å lese de frakoblet.">
 <!ENTITY helper_triple_readerview_open_button "Legg til i bokmerker">
 
