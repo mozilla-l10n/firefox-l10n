@@ -103,7 +103,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.label "Tela inteira">
 <!ENTITY fullScreenCmd.accesskey "T">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Exibir todas as abas">
+<!ENTITY showAllTabsCmd.label "Mostrar todas as abas">
 <!ENTITY showAllTabsCmd.accesskey "x">
 
 <!ENTITY fxaSignIn.label "Entrar no &syncBrand.shortName.label;">
@@ -165,10 +165,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Inscrever RSS">
 <!ENTITY subscribeToPageMenuitem.label "Inscrever RSS…">
 <!ENTITY addCurPagesCmd.label "Adicionar todas as abas…">
-<!ENTITY showAllBookmarks2.label "Exibir todos os favoritos">
+<!ENTITY showAllBookmarks2.label "Mostrar todos os favoritos">
 <!ENTITY recentBookmarks.label "Favoritos recentes">
 <!ENTITY otherBookmarksCmd.label "Outros favoritos">
-<!ENTITY bookmarksToolbarChevron.tooltip "Exibir mais favoritos">
+<!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais favoritos">
 <!ENTITY showRecentlyBookmarked.label     "Mostrar favoritos recentes">
 <!ENTITY hideRecentlyBookmarked.label     "Ocultar favoritos recentes">
 
@@ -318,7 +318,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Janelas fechadas recentemente">
 <!ENTITY historyRestoreLastSession.label "Restaurar sessão anterior">
 
-<!ENTITY showAllHistoryCmd2.label "Exibir todo o histórico">
+<!ENTITY showAllHistoryCmd2.label "Mostrar histórico">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Personalizar">
@@ -326,7 +326,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.label "Concluir personalização">
 <!ENTITY appMenuCustomizeExit.tooltip "Concluir a personalização">
 <!ENTITY appMenuHistory.label "Histórico">
-<!ENTITY appMenuHistory.showAll.label "Exibir todo o histórico">
+<!ENTITY appMenuHistory.showAll.label "Mostrar histórico">
 <!ENTITY appMenuHistory.clearRecent.label "Limpar dados de navegação…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver painel do histórico">
@@ -456,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "A">
 <!ENTITY openLinkCmdInContainerTab.label "Abrir link em uma nova aba">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
-<!ENTITY showOnlyThisFrameCmd.label     "Exibir somente este frame">
+<!ENTITY showOnlyThisFrameCmd.label     "Mostrar somente este frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "x">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recarregar frame">
@@ -570,7 +570,7 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Exibir controles">
+<!ENTITY mediaShowControls.label     "Mostrar controles">
 <!ENTITY mediaShowControls.accesskey "n">
 <!ENTITY mediaHideControls.label     "Ocultar controles">
 <!ENTITY mediaHideControls.accesskey "n">
@@ -581,7 +581,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Exibir estatísticas">
+<!ENTITY videoShowStats.label        "Mostrar estatísticas">
 <!ENTITY videoShowStats.accesskey    "e">
 <!ENTITY videoHideStats.label        "Ocultar estatísticas">
 <!ENTITY videoHideStats.accesskey    "e">
@@ -757,12 +757,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
 
-<!ENTITY social.toggleSidebar.label "Exibir painel">
+<!ENTITY social.toggleSidebar.label "Mostrar painel">
 <!ENTITY social.toggleSidebar.accesskey "x">
 
 <!ENTITY social.addons.label "Gerenciar serviços…">
 
-<!ENTITY social.toggleNotifications.label "Exibir notificações no desktop">
+<!ENTITY social.toggleNotifications.label "Mostrar notificações no desktop">
 <!ENTITY social.toggleNotifications.accesskey "E">
 
 <!ENTITY social.activated.description "Os serviços do <label/> foram ativados. Você pode alterar as configurações dos serviços no <label class='text-link'>Gerenciador de complementos</label>.">
@@ -782,7 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Deseja mais ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolha entre milhares de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar padrões">
-<!ENTITY customizeMode.toolbars "Exibir / Ocultar barra de ferramentas">
+<!ENTITY customizeMode.toolbars "Mostrar / ocultar barras de ferramentas">
 <!ENTITY customizeMode.titlebar "Barra de título">
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "Meus temas">
@@ -837,7 +837,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pointerLock.notification.message "Tecle ESC quando quiser exibi-lo.">
 
-<!ENTITY pluginNotification.showAll.label "Exibir tudo">
+<!ENTITY pluginNotification.showAll.label "Mostrar tudo">
 <!ENTITY pluginNotification.showAll.accesskey "x">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->

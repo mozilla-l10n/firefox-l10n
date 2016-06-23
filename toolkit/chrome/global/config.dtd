@@ -9,7 +9,7 @@
 <!ENTITY aboutWarningTitle.label "HIC SUNT DRACONES">
 <!ENTITY aboutWarningText.label "A modificação destas configurações avançadas pode prejudicar a estabilidade, a segurança e o desempenho deste aplicativo. Continue somente se estiver seguro do que for fazer.">
 <!ENTITY aboutWarningButton2.label "Eu aceito o risco!">
-<!ENTITY aboutWarningCheckbox.label "Sempre exibir este alerta">
+<!ENTITY aboutWarningCheckbox.label "Mostrar este aviso da próxima vez">
 
 <!ENTITY searchPrefs.label "Localizar:">
 <!ENTITY searchPrefs.accesskey "o">

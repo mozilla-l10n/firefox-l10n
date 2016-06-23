@@ -38,7 +38,7 @@
 <!ENTITY translation.translatedTo.label         "para o">
 <!ENTITY translation.translatedToSuffix.label   "">
 
-<!ENTITY translation.showOriginal.button        "Exibir original">
+<!ENTITY translation.showOriginal.button        "Mostrar original">
 <!ENTITY translation.showTranslation.button     "Exibir tradução">
 
 <!ENTITY translation.errorTranslating.label     "Houve um erro durante a tradução desta página.">

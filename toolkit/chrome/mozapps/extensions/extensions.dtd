@@ -77,7 +77,7 @@
 <!ENTITY updates.updateSelected.tooltip       "Instalar as atualizações disponíveis desta lista">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Exibir mais informações">
+<!ENTITY cmd.showDetails.label                "Mostrar mais informações">
 <!ENTITY cmd.showDetails.accesskey            "E">
 <!ENTITY cmd.findUpdates.label                "Verificar atualização">
 <!ENTITY cmd.findUpdates.accesskey            "V">
@@ -115,8 +115,8 @@
 <!ENTITY cmd.contribute.accesskey             "F">
 <!ENTITY cmd.contribute.tooltip               "Contribuir para o desenvolvimento do complemento">
 
-<!ENTITY cmd.showReleaseNotes.label           "Exibir notas da versão">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Exibir as notas da versão para esta atualização">
+<!ENTITY cmd.showReleaseNotes.label           "Mostrar notas de lançamento">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Mostrar as notas de lançamento para esta atualização">
 <!ENTITY cmd.hideReleaseNotes.label           "Ocultar notas da versão">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ocultar as notas da versão para esta atualização">
 
@@ -181,13 +181,13 @@ melhores e mais populares complementos para você experimentar.">
 
 <!ENTITY search.filter2.label                 "Pesquisar:">
 <!ENTITY search.filter2.installed.label       "Meus complementos">
-<!ENTITY search.filter2.installed.tooltip     "Exibir complementos instalados">
+<!ENTITY search.filter2.installed.tooltip     "Mostrar complementos instalados">
 <!ENTITY search.filter2.available.label       "Complementos disponíveis">
-<!ENTITY search.filter2.available.tooltip     "Exibir complementos disponíveis para instalação">
+<!ENTITY search.filter2.available.tooltip     "Mostrar complementos disponíveis para instalação">
 
 <!ENTITY addon.homepage                       "Visitar o site">
 <!ENTITY addon.details.label                  "Mais">
-<!ENTITY addon.details.tooltip                "Exibir mais detalhes sobre este complemento">
+<!ENTITY addon.details.tooltip                "Mostrar mais detalhes sobre este complemento">
 <!ENTITY addon.unknownDate                    "Desconhecido">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form

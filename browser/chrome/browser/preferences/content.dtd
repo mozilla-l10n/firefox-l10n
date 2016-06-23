@@ -14,7 +14,7 @@
 <!ENTITY  notificationsPolicyButton.label      "Escolher…">
 <!ENTITY  notificationsDoNotDisturb.label      "Não me perturbe">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Nenhuma notificação será mostrada até que você reinicie o &brandShortName;">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Nenhuma notificação será mostrada até que reinicie o &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Exceções…">
 <!ENTITY  popupExceptions.accesskey   "E">

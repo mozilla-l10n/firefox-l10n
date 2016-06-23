@@ -96,7 +96,7 @@
 <!ENTITY details_location "Localização">
 <!ENTITY details_manifestURL "ID do aplicativo">
 <!ENTITY details_removeProject_button "Remover projeto">
-<!ENTITY details_showPrepackageLog_button "Exibir registro do pré-pacote">
+<!ENTITY details_showPrepackageLog_button "Show Pre-package Log">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Novo aplicativo">
@@ -125,8 +125,8 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar projeto anterior ao iniciar o WebIDE">
 <!ENTITY prefs_options_templatesurl "URL dos modelos">
 <!ENTITY prefs_options_templatesurl_tooltip "Índice de modelos disponíveis">
-<!ENTITY prefs_options_showeditor "Exibir editor">
-<!ENTITY prefs_options_showeditor_tooltip "Exibir editor interno">
+<!ENTITY prefs_options_showeditor "Show editor">
+<!ENTITY prefs_options_showeditor_tooltip "Show internal editor">
 <!ENTITY prefs_options_tabsize "Tamanho do tab">
 <!ENTITY prefs_options_expandtab "Tabs suaves">
 <!ENTITY prefs_options_expandtab_tooltip "Usar espaços em vez de tabs">
