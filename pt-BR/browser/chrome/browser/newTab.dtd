@@ -4,14 +4,14 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nova aba">
-<!ENTITY newtab.customize.classic "Exibir os sites mais visitados">
+<!ENTITY newtab.customize.classic "Mostrar os melhores sites">
 <!ENTITY newtab.customize.cog.enhanced "Incluir sites sugeridos">
 <!ENTITY newtab.customize.cog.title2 "NOVOS CONTROLES DE ABAS">
 <!ENTITY newtab.customize.cog.learn "Saiba mais sobre a nova aba">
 <!ENTITY newtab.customize.title "Personalize sua página de nova aba">
-<!ENTITY newtab.customize.suggested "Exibir sugestões e os sites mais visitados">
-<!ENTITY newtab.customize.topsites "Exibir os sites mais visitados">
-<!ENTITY newtab.customize.blank2 "Exibir página em branco">
+<!ENTITY newtab.customize.suggested "Mostrar sugestões e os melhores sites">
+<!ENTITY newtab.customize.topsites "Mostrar os melhores sites">
+<!ENTITY newtab.customize.blank2 "Mostrar página em branco">
 <!ENTITY newtab.undo.removedLabel "Miniatura removida.">
 <!ENTITY newtab.undo.undoButton "Desfazer.">
 <!ENTITY newtab.undo.restoreButton "Restaurar tudo.">

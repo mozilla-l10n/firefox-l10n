@@ -38,7 +38,7 @@
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
-<!ENTITY options.showUserAgentStyles.label "Exibir estilos do navegador">
+<!ENTITY options.showUserAgentStyles.label "Show Browser Styles">
 <!ENTITY options.showUserAgentStyles.tooltip "A ativação exibirá os estilos padrão que são carregados pelo navegador.">
 
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
@@ -166,8 +166,8 @@
 
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Exibir códigos-fonte originais">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Exibir códigos-fonte originais (por exemplo, arquivos Sass) no editor de estilos e na inspeção">
+<!ENTITY options.stylesheetSourceMaps.label      "Mostrar códigos-fonte originais">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Mostrar códigos-fonte originais (por exemplo, arquivos Sass) no editor de estilos e na inspeção">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -190,7 +190,7 @@
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
-<!ENTITY options.showPlatformData.label    "Exibir dados da plataforma Gecko">
+<!ENTITY options.showPlatformData.label    "Mostrar dados da plataforma Gecko">
 <!ENTITY options.showPlatformData.tooltip  "Se ativar esta opção, os relatórios do perfil JavaScript irão incluir os 
 símbolos da plataforma Gecko">
 

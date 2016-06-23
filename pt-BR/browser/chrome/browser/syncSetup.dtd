@@ -59,7 +59,7 @@
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 <!ENTITY pairDevice.title.label             "Parear dispositivo">
-<!ENTITY addDevice.showMeHow.label          "Exibir como.">
+<!ENTITY addDevice.showMeHow.label          "Mostre-me como.">
 <!ENTITY addDevice.dontHaveDevice.label     "O dispositivo não está comigo">
 <!ENTITY pairDevice.setup.description.label  "Para ativar, selecione “Parear dispositivo” no seu outro dispositivo.">
 <!ENTITY addDevice.setup.enterCode.label    "Então, forneça este código:">
