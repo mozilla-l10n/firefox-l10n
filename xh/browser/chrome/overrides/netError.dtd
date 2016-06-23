@@ -110,8 +110,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.pagetitle1  "Uqhagamshelo Olungakhuselekanga">
+<!ENTITY certerror.wrongSystemTime "<p>Uqhagamshelo olukhuselekileyo kwi <span id='wrongSystemTime_URL'/> akunakwenzeka ngenxa yokuba iiwotshi kubonakala ibonisa ixesha elingelilo.</p> <p>Ikhompyutha yakho icinga ukuba i <span id='wrongSystemTime_systemDate'/>, ixa imele i <span id='wrongSystemTime_actualDate'/>. Ukuze ulungise le ngxaki, tshintsha iisetingi zomhla nexesha ukuze zingqamane nexesha elichanileyo.</p>">
 
+<!ENTITY certerror.pagetitle1  "Uqhagamshelo Olungakhuselekanga">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Le sayithi isebenzisa HTTP Strict Transport Security (HSTS) ukucacisa ukuba i-&brandShortName; iqhagamshelana kuphela  kuyo ngokukhuselekileyo.Ngokomphumo, akunakwenzeka ukuba udibanise okuphume ecaleni kwesi satifikethi.">
 <!ENTITY certerror.copyToClipboard.label "Khuphela umbhalo kwiklipbhodi">
 
 <!ENTITY inadequateSecurityError.title "Uqhagamshelo lwakho alukhuselekanga">

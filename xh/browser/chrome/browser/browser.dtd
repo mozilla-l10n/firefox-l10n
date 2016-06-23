@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Okufakwe Ibhukmakhi Kutshanje">
 <!ENTITY otherBookmarksCmd.label "Ezinye iiBhukmakhi">
 <!ENTITY bookmarksToolbarChevron.tooltip "Bonisa iibhukhmakhi ezininzi">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Bonisa Okufakwe Ibhukmakhi Kutshanje">
+<!ENTITY showRecentlyBookmarked.accesskey "o">
+<!ENTITY hideRecentlyBookmarked.label     "Fihla Okufakwe Ibhukmakhi Kutshanje">
+<!ENTITY hideRecentlyBookmarked.accesskey "F">
 
 <!ENTITY backCmd.label                "Emva">
 <!ENTITY backButton.tooltip           "Buya umva ngephepha elinye">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Bona ibha esecaleni yeeBhukhmakhi">
 <!ENTITY viewBookmarksToolbar.label         "Bona iThulbha Yeebhukhmakhi">
 
+<!ENTITY containersMenu.label "Iikhonteyina">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -555,22 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Buyisela isandi">
 <!ENTITY mediaUnmute.accesskey       "y">
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "Dlala Isantya">
+<!ENTITY mediaPlaybackRate2.accesskey "a">
+<!ENTITY mediaPlaybackRate050x2.label "Ecothayo (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "E">
 <!ENTITY mediaPlaybackRate100x2.label "Okuqhelekileyo">
 <!ENTITY mediaPlaybackRate100x2.accesskey "O">
-
-
-
-
+<!ENTITY mediaPlaybackRate125x2.label "Ekhawulezayo (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "E">
+<!ENTITY mediaPlaybackRate150x2.label "Ebukhawuleza (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "b">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Ehlekisayo (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "E">
+<!ENTITY mediaLoop.label             "Isiqhoboshi">
+<!ENTITY mediaLoop.accesskey         "I">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -679,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Unxibelelwano lonxibelelwano">
 <!ENTITY identity.connectionNotSecure "Unxibelelwano alukhuselekanga">
 <!ENTITY identity.connectionFile "Eli phepha liyagcinwa kwikhompyutha yakho.">
-
+<!ENTITY identity.connectionVerified2 "Uqhagamshele ngokukhuselekileyo kule sayithi, enomnini oyi:">
 <!ENTITY identity.connectionInternal "Le yi-&brandShortName; ekhuselekileyo indawo yolawulo.">
 <!ENTITY identity.insecureLoginForms2 "Iiogini ezifakwe kweli phepha zinokuba sengozini.">
 <!-- Strings for connection state warnings. -->
