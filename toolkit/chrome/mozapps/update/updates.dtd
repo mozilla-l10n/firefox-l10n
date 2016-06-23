@@ -55,7 +55,7 @@
 <!ENTITY  finishedBackground.name         "Uhlaziyo:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Uhlaziyo luya kufakelwa kwixesha elizayo xa i-&brandShortName; iqalisa. Wena ungaphinda uyiqalise i-&brandShortName; ngoku, okanye qhubeka nokusebenza nokuqalisa ngokutsha kamva.">
-
+<!ENTITY  finishedBackground.moreElevated "Olu hlaziyo lufuna amalungelo omlawuli. Olu hlaziyo luya kufakwa xa i-&brandShortName; iphinda iqala. Ungaphinda uqale i&brandShortName; ngoku, qhubeka uphinde uqale ngelinye ixesha okanye ukhabe olu hlaziyo.">
 
 <!ENTITY  update.details.label            "Iinkcukacha">
 <!ENTITY  update.installedOn.label        "Lufakelwe ngo-:">
