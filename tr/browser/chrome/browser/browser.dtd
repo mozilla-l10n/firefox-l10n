@@ -572,7 +572,7 @@ fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Çok hızlı (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "o">
 <!ENTITY mediaLoop.label             "Tekrarla">
-<!ENTITY mediaLoop.accesskey         "T">
+<!ENTITY mediaLoop.accesskey         "r">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
