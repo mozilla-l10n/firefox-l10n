@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Bloka isiqulatho esiyingozi nesiqhathayo">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "Bloka ukudawnlowuda okuyingozi">
+<!ENTITY  blockDownloads.accesskey        "u">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Ndilumkise ngesoftwe engafunwayo nengaqhelekanga">
+<!ENTITY  blockUncommonUnwanted.accesskey "a">
 
 <!ENTITY  addonExceptions.label         "Izinxaxhi…">
 <!ENTITY  addonExceptions.accesskey     "I">

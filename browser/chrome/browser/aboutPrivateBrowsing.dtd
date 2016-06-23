@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Ukubhrawuza Kwangasese">
 
 <!ENTITY trackingProtection.title                        "Itreka Ukhuseleko">
-
-
+<!ENTITY trackingProtection.description2                 "Ezinye iiwebhsayithi zisebenzisa iitreka ezinokubek' esweni into oyenzayo kuyo yonke i-intanethi. Ngokhuseleko lokuTreka iFirefox iya kubloka iitreka ezininzi ezinokuqokelelayo inkcazelo ngendlela obrawuza ngayo.">
+<!ENTITY trackingProtection.startTour1                   "Bona indlela okusebenza ngayo oku">

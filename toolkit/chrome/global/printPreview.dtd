@@ -32,8 +32,8 @@
 <!ENTITY Custom.label         "Lungiselela…">
 <!ENTITY ShrinkToFit.label    "Finyeza Ukuze Kulingane">
 <!ENTITY customPrompt.title   "Lungiselela Isikali…">
-
-
+<!ENTITY simplifyPage.label   "Yenza lula iPhepha">
+<!ENTITY simplifyPage.enabled.tooltip  "Tshintsha ukuma ukuze ifundeke lula">
 
 
 <!ENTITY homearrow.tooltip    "Ikhasi lokuqala">
