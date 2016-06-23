@@ -7,4 +7,4 @@
 <!ENTITY ChooseOtherApp.description "Velg annet program">
 <!ENTITY ChooseApp.label "Velg …">
 <!ENTITY ChooseApp.accessKey "V">
-
+<!ENTITY accept "Åpne lenke">
