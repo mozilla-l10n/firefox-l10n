@@ -4,7 +4,7 @@
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
-<!ENTITY search_bar_hint "&amp;ഫോര്‍മാറ്റുകാളോടെ തിരയൂ">
+<!ENTITY search_bar_hint "&formatS; ഇതുമായി തെരയുക">
 
 <!ENTITY search_empty_title2 "തിരയല്‍ ആരംഭിക്കൂ">
 <!ENTITY search_empty_message "നിങ്ങള്‍ക്കാവശ്യമുള്ള എന്തിനു വേണ്ടിയും പെട്ടെന്ന് തിരയൂ">
