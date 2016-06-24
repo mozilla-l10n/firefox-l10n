@@ -23,6 +23,8 @@ their language. -->
 
 <!ENTITY searchreset.link.pageInfo2       "Iphepha leesetingi">
 
+<!ENTITY searchreset.noChangeButton        "Ungatshintshi">
+<!ENTITY searchreset.noChangeButton.access "D">
 
-
+<!ENTITY searchreset.changeEngineButton        "Tshintsha iNjini Yokutshintsha">
 
