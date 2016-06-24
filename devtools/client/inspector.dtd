@@ -86,7 +86,7 @@
      - add new attribute
      - edit attribute
      - remove attribute -->
-<!ENTITY inspectorAttributesSubmenu.label      "Atributos">
+<!ENTITY inspectorAttributesSubmenu.label      "Attributes">
 <!ENTITY inspectorAttributesSubmenu.accesskey  "A">
 
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
