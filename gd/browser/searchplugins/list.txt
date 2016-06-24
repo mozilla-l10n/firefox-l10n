@@ -1,6 +1,5 @@
 amazon-en-GB
 bbc-alba
-ddg
 faclair-beag
 google
 wikipedia-gd
