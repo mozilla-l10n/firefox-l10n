@@ -127,6 +127,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; previno que esta página cargara de esta forma porque la página contiene una política de seguridad de contenido que no lo permite.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contenido corrupto">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La página que estás intentando ver no puede ser mostrada debido a que se detectó un error en la transmisión de datos.</p><ul><li>Por favor, contacte al dueño del sitio web para informarle del problema.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
@@ -152,6 +153,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>Una conexión segura a <span id='wrongSystemTime_URL'/> no es posible por que tu reloj tiene mala la hora.</p> <p>Tu computador cree que son las <span id='wrongSystemTime_systemDate'/>, cuando debieran ser las <span id='wrongSystemTime_actualDate'/>. Para arreglar este problema, ajusta tu hora y fecha a las actuales.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conexión insegura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa HTTP Strict Transport Security (HSTS) para especificar que &brandShortName; solo se conecte a él de forma segura. Como resultado, no es posible añadir una excepción para este certificado.">
@@ -162,4 +164,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>utiliza tecnología de seguridad que es obsoleta y vulnerable a ataques. Un atacante fácilmente podría revelar información que creía estar a salvo. El administrador del sitio web tendrá que arreglar el servidor antes de que usted puede visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY prefReset.longDesc "Parece que tus ajustes de seguridad de red están causando esto. ¿Quieres que se restauren los ajustes predeterminados?">
 <!ENTITY prefReset.label "Restaurar ajustes predeterminados">
