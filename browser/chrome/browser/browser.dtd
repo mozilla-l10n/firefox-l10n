@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "ഏറ്റവും ഒടുവില്‍ അടയാളക്കുറിപ്പാക്കിയതു്">
 <!ENTITY otherBookmarksCmd.label "മറ്റു് അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY bookmarksToolbarChevron.tooltip "കൂടുതല്‍ അടയാളക്കുറിപ്പുകള്‍ കാണിക്കുക">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "അടുത്തിടെ അടയാളപ്പെടുത്തിയതു് കാണുക">
+<!ENTITY showRecentlyBookmarked.accesskey "ട">
+<!ENTITY hideRecentlyBookmarked.label     "അടുത്തിടെ അടയാളപ്പെടുത്തിയതു് കാണാതാക്കുക">
+<!ENTITY hideRecentlyBookmarked.accesskey "ക">
 
 <!ENTITY backCmd.label                "പുറകോട്ട്‌">
 <!ENTITY backButton.tooltip           "ഒരു താള്‍ പുറകോട്ട്‌ പോകുക">
@@ -200,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "നിങ്ങളുടെ പ്രവേശന വിവരങ്ങള്‍ കൈകാര്യം ചെയ്യുക">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "നിങ്ങളുടെ രഹസ്യവാക്ക് ശേഖരിച്ചുവെക്കാന്‍ ഇത് തിരഞ്ഞെടുക്കുക">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "ഈ താളിലുള്ള പ്ലഗിന്‍ ഉപയോഗം ക്രമീകരിക്കുക">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "സൈറ്റില്‍ നിന്നും അറിയിപ്പുകള്‍ ലഭിക്കുന്നതില്‍ മാറ്റം വരുത്തുക">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "താങ്കളുടെ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ അല്ലെങ്കില്‍ അവ രണ്ടും സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "താങ്കള്‍ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ അല്ലെങ്കില്‍ അവ രണ്ടും സൈറ്റുമായി പങ്കിടുന്നു">
@@ -345,11 +345,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "ഒരു ടാബും സിന്‍ക് ചെയ്തിട്ടില്ല …ഇതുവരെ!">
-
-
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഇവിടെ കാണിക്കണോ?">
+<!ENTITY appMenuRemoteTabs.openprefs.label "സിന്‍ക് മുന്‍ഗണനകള്‍">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണാന്‍ സൈന്‍ ഇന്‍ ചെയ്യുക.">
+<!ENTITY appMenuRemoteTabs.signin.label "സിങ്കിലേയ്ക്ക് പ്രവേശിക്കുക">
+<!ENTITY appMenuRemoteTabs.sidebar.label "സിന്‍ക് ചെയ്ത ടാബുകളുടെ സൈഡ്ബാര്‍ കാണിക്കുക">
 
 <!ENTITY customizeMenu.addToToolbar.label "ടൂള്‍ബാറിലേക്ക് ചേര്‍ക്കുക">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ക">
@@ -556,22 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ശബ്ദം സജ്ജമാക്കുക">
 <!ENTITY mediaUnmute.accesskey       "m">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "പ്രവര്‍ത്തന വേഗത">
+<!ENTITY mediaPlaybackRate2.accesskey "ത">
+<!ENTITY mediaPlaybackRate050x2.label "പതുക്കെ (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "പ">
+<!ENTITY mediaPlaybackRate100x2.label "സാധാരണ">
+<!ENTITY mediaPlaybackRate100x2.accesskey "സ">
+<!ENTITY mediaPlaybackRate125x2.label "വേഗത്തില്‍ (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "വ">
+<!ENTITY mediaPlaybackRate150x2.label "വേഗത്തില്‍ (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "ഗ">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "അതിവേഗം (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "അ">
+<!ENTITY mediaLoop.label             "ലൂപ്പ്">
+<!ENTITY mediaLoop.accesskey         "ല">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -680,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "സുരക്ഷിത കണക്ഷന്‍">
 <!ENTITY identity.connectionNotSecure "താങ്കളുടെ കണക്ഷന്‍ സുരക്ഷിതമല്ല">
 <!ENTITY identity.connectionFile "ഈ താള്‍ താങ്കളുടെ കമ്പ്യൂട്ടറില്‍ ശേഖരിച്ചിട്ടുണ്ട്.">
-
+<!ENTITY identity.connectionVerified2 "താങ്കള്‍ സുരക്ഷിതമായി ഈ വെബ്‌ സൈറ്റിലേക്ക് കണക്റ്റ് ചെയ്തിട്ടുണ്ട്, പ്രവര്‍ത്തിപ്പിക്കുന്നത്:">
 <!ENTITY identity.connectionInternal "ഇതു് സുരക്ഷിതമായൊരു &brandShortName; താള്‍ ആകുന്നു.">
 
 <!-- Strings for connection state warnings. -->
@@ -720,26 +721,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "ബ്രൌസര്‍ റ്റാബുകള്‍">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
+<!ENTITY syncTabsMenu3.label     "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
 
+<!ENTITY syncedTabs.sidebar.label              "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
 
-
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.title    "ഒരു ടാബും സിന്‍ക് ചെയ്തിട്ടില്ല …ഇതുവരെ!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഇവിടെ കാണിക്കണോ?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണാന്‍ സൈന്‍ ഇന്‍ ചെയ്യുക.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "ടാബൊന്നും തുറന്നിരിക്കുന്നില്ല">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; മുന്‍ഗണനകള്‍ തുറക്കുക">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "മറ്റുള്ള ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണുവാന്‍ ടാബ് സിന്‍ക് ഓണാക്കൂ">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "തുറക്കുക">
+<!ENTITY syncedTabs.context.open.accesskey                   "ത">
+<!ENTITY syncedTabs.context.openInNewTab.label               "പുതിയ ടാബില്‍ തുറക്കുക">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "ത">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "പുതിയ ജാലകത്തില്‍ തുറക്കുക">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "ത">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "പുതിയ സ്വകാര്യ ജാലകത്തില്‍ തുറക്കുക">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "സ">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ഈ ടാബ് അടയാളപ്പെടുത്തുക...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ഈ">
+<!ENTITY syncedTabs.context.copy.label                       "പകര്‍ത്തുക">
+<!ENTITY syncedTabs.context.copy.accesskey                   "പ">
 
 
 <!ENTITY syncBrand.shortName.label    "സിന്‍ക്">
