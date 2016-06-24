@@ -27,4 +27,4 @@ their language. -->
 <!ENTITY searchreset.noChangeButton.access "D">
 
 <!ENTITY searchreset.changeEngineButton        "Tshintsha iNjini Yokutshintsha">
-
+<!ENTITY searchreset.changeEngineButton.access "C">
