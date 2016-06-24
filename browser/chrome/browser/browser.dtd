@@ -169,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "최근 즐겨찾기됨">
 <!ENTITY otherBookmarksCmd.label "다른 즐겨찾기">
 <!ENTITY bookmarksToolbarChevron.tooltip "북마크 계속 보기">
+<!ENTITY showRecentlyBookmarked.label     "최근 한 북마크 보이기">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "최근 한 북마크 숨기기">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "뒤로">
 <!ENTITY backButton.tooltip           "한 페이지 뒤로 가기">
