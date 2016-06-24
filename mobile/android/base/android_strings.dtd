@@ -27,7 +27,7 @@
 <!ENTITY firstrun_tabqueue_subtext_off "Keçidlərə digər tətbiqlərdə basdıqda daha sonrası üçün onları &brandShortName; səyyahında saxla.">
 
 <!ENTITY firstrun_tabqueue_message_on "Uğurlu!">
-<!ENTITY firstrun_tabqueue_subtext_on "Bunu istədiyiniz vaxt &amp;tənzimləmələrdə &pref_category_general; altından söndürə bilərsiz.">
+<!ENTITY firstrun_tabqueue_subtext_on "Bunu istədiyiniz vaxt &settings; &pref_category_general; altından söndürə bilərsiz.">
 
 <!ENTITY firstrun_readerview_title "Məqalələr">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
