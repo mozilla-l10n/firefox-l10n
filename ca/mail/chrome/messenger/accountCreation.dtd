@@ -9,7 +9,7 @@
 <!ENTITY name.text                       "El vostre nom, com voleu que es vegi">
 <!ENTITY email.label                     "Adreça electrònica:">
 <!ENTITY email.accesskey                 "A">
-<!ENTITY email.placeholder               "email@exemple.com">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Contrasenya:">
 <!ENTITY password.accesskey              "C">
 <!ENTITY password.placeholder            "Contrasenya">
