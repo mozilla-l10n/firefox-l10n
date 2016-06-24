@@ -6,20 +6,21 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "ഒരു സ്വകാര്യ ജാലകം തുറക്കുക">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ക">
 
+<!ENTITY privateBrowsing.title                           "സ്വകാര്യ ബ്രൗസിങ്">
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "സന്ദര്‍ശിച്ച താളുകള്‍">
+<!ENTITY aboutPrivateBrowsing.info.searches              "തെരയലുകള്‍">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "കുക്കികള്‍ ">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "താല്‍കാലിക ഫയലുകള്‍">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "ഫയര്‍ഫോക്സ് ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "സൂക്ഷിക്കും">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " നിങ്ങളുടെ:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "ഡൗണ്‍ലോഡുകള്‍">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "അടയാളക്കുറിപ്പുകള്‍">
+<!ENTITY aboutPrivateBrowsing.note.before                "സ്വകാര്യ ബ്രൗസിങ് ">
 
 
 
