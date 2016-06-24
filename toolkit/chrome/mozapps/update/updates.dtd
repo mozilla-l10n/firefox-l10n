@@ -32,26 +32,10 @@
                                            nos verás nuevamente este aviso, pero puedes">
 <!ENTITY  unsupportedLink.label           "aprender más.">
 
-<!ENTITY  incompatibleCheck.title         "Verificando compatibilidad de complementos">
-<!ENTITY  incompatibleCheck.label         "Buscando nuevas versiones de tus complementos…">
-
 <!ENTITY  clickHere.label                 "Ver más infromación sobre esta actualización">
 
 <!ENTITY  evangelism.desc                 "Es altamente recomendable que apliques esta
                                            actualización para &brandShortName; tan pronto como sea posible.">
-
-<!ENTITY  license.instructions            "Si aceptas los términos de este contrato, haz clic en Acepto 
-                                           para continuar la instalación de esta actualización.">
-
-<!ENTITY  license.titleText               "Acuerdo de licencia de software">
-<!ENTITY  license.introText               "Términos y condiciones de uso de este software.">
-<!ENTITY  license.instructionText         "Por favor, lee el siguiente acuerdo de licencia. Usa la barra de desplazamiento para ver el resto de este acuerdo.">
-<!ENTITY  license.accept                  "Acepto los términos del Acuerdo de licencia">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "NO acepto los términos del Acuerdo de licencia">
-<!ENTITY  license.decline.accesskey       "t">
-
-<!ENTITY  incompatibleList.title          "Se encontraron complementos incompatibles">
 
 <!ENTITY  downloadPage.title              "Bajando &brandShortName;">
 <!ENTITY  downloading.intro               "Bajando la actualización…">
@@ -90,12 +74,8 @@
                                            bajada y está lista para ser instalada.">
 <!ENTITY  finishedBackground.name         "Actualización:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "La actualización se instalará la próxima vez que inicie &brandShortName;.
-                                           Puedes reiniciar  &brandShortName; ahora o continuar trabajando y reiniciar luego.">
-
-<!ENTITY  installed.title                 "Actualización instalada">
-<!ENTITY  installed.intro                 "La actualización fue instalada exitosamente.">
-<!ENTITY  whatsnew.label                  "Leer más sobre qué hay de nuevo…">
+<!ENTITY  finishedBackground.more         "La actualización se instalará la próxima vez que inicies &brandShortName;. Puedes reiniciar &brandShortName; ahora o continuar trabajando y reiniciar luego.">
+<!ENTITY  finishedBackground.moreElevated "Esta actualización requiere privilegios de administrador. La actualización se instalará la próxima vez que inicies &brandShortName;. Puedes reiniciar &brandShortName; ahora o continuar trabajando y reiniciar luego.">
 
 <!ENTITY  update.details.label            "Detalles">
 <!ENTITY  update.installedOn.label        "Instalada el:">
