@@ -54,4 +54,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceBtn.label        "ขยายออก">
 <!ENTITY fullZoomReduceBtn.accesskey    "อ">
 <!ENTITY fullZoomEnlargeBtn.label       "ขยายเข้า">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "ข">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "เ">

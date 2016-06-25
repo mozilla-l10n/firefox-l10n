@@ -32,9 +32,9 @@
 <!ENTITY Custom.label         "กำหนดเอง…">
 <!ENTITY ShrinkToFit.label    "ย่อให้พอดีกระดาษ">
 <!ENTITY customPrompt.title   "มาตราส่วนที่กำหนดเอง…">
-
-
-
+<!ENTITY simplifyPage.label   "หน้าแบบเรียบง่าย">
+<!ENTITY simplifyPage.enabled.tooltip  "เปลี่ยนเค้าโครงเพื่อการอ่านที่ง่ายขึ้น">
+<!ENTITY simplifyPage.disabled.tooltip "หน้านี้ไม่สามารถทำให้เรียบง่ายได้โดยอัตโนมัติ">
 
 <!ENTITY homearrow.tooltip    "หน้าแรก">
 <!ENTITY endarrow.tooltip     "หน้าสุดท้าย">

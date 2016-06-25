@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchreset.tabtitle       "เรียกคืนการตั้งค่าการค้นหา">
+
+<!ENTITY searchreset.pageTitle      "เรียกคืนการตั้งค่าการค้นหาของคุณ?">
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
@@ -12,7 +15,10 @@ Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
 
 
+<!ENTITY searchreset.link.pageInfo2       "หน้าตั้งค่า">
 
+<!ENTITY searchreset.noChangeButton        "ไม่เปลี่ยน">
+<!ENTITY searchreset.noChangeButton.access "D">
 
-
-
+<!ENTITY searchreset.changeEngineButton        "เปลี่ยนเครื่องมือค้นหา">
+<!ENTITY searchreset.changeEngineButton.access "C">

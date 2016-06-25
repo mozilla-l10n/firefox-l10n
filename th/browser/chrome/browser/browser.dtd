@@ -598,15 +598,15 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label       "ขยาย">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "ข">
+<!ENTITY fullZoomEnlargeCmd.label       "ขยายเข้า">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "เ">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "ย่อ">
-<!ENTITY fullZoomReduceCmd.accesskey    "ย">
+<!ENTITY fullZoomReduceCmd.label        "ขยายออก">
+<!ENTITY fullZoomReduceCmd.accesskey    "อ">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
@@ -615,9 +615,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "ย่อ-ขยายเฉพาะข้อความ">
-<!ENTITY fullZoomToggleCmd.accesskey    "ฉ">
-<!ENTITY fullZoom.label                 "ย่อ-ขยาย">
+<!ENTITY fullZoomToggleCmd.label        "ขยายเฉพาะตัวอักษร">
+<!ENTITY fullZoomToggleCmd.accesskey    "ต">
+<!ENTITY fullZoom.label                 "ขยาย">
 <!ENTITY fullZoom.accesskey             "ข">
 
 <!ENTITY sidebarCloseButton.tooltip     "ปิดแถบข้าง">
