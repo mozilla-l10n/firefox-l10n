@@ -569,6 +569,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Ultra rápido (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
 <!ENTITY mediaLoop.label             "En bucle">
 <!ENTITY mediaLoop.accesskey         "L">
