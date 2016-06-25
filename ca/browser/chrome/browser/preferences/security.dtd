@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Bloqueja el contingut perillós i maliciós">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "Bloqueja les baixades perilloses">
+<!ENTITY  blockDownloads.accesskey        "l">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Avisa'm en baixar programari indesitjable i poc habitual">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Excepcions…">
 <!ENTITY  addonExceptions.accesskey     "E">

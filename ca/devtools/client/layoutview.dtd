@@ -24,3 +24,5 @@
 <!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
   -  hovering over the button that allows users to edit the position of an
   -  element in the page. -->
+
+<!ENTITY geometry.button.tooltip  "Edita la posició">
