@@ -32,9 +32,9 @@
 <!ENTITY Custom.label         "Personalitza…">
 <!ENTITY ShrinkToFit.label    "Encongeix per ajustar">
 <!ENTITY customPrompt.title   "Personalitza l'escala…">
-
-
-
+<!ENTITY simplifyPage.label   "Simplifica la pàgina">
+<!ENTITY simplifyPage.enabled.tooltip  "Canvia el format per facilitar la lectura">
+<!ENTITY simplifyPage.disabled.tooltip "Aquesta pàgina no es pot simplificar automàticament">
 
 <!ENTITY homearrow.tooltip    "Primera pàgina">
 <!ENTITY endarrow.tooltip     "Darrera pàgina">
