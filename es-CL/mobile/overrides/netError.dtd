@@ -92,7 +92,9 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 
 
+<!ENTITY corruptedContentErrorv2.title "Error de contenido corrupto">
 
+<!ENTITY securityOverride.linkText "O puedes añadir una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sácame de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Añadir excepción…">
 
@@ -101,6 +103,9 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
+<!ENTITY securityOverride.warningContent "<p>No deberías agregar una excepción si estás usando conexión a Internet en la cual no confías completamente o si no estás acostumbrado a ver una advertencia para este servidor.</p> 
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button><button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacta a los dueños del sitio para informarles del problema.</li></ul></p>">

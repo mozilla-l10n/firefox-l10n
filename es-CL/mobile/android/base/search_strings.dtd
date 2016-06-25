@@ -24,3 +24,5 @@
 
 <!ENTITY search_widget_button_label 'Buscar'>
 
+<!ENTITY network_error_title 'Sin conexión a internet'>
+<!ENTITY network_error_message 'Toca aquí para verificar tus ajustes de red'>
