@@ -28,6 +28,11 @@
 <!ENTITY fontColor.accesskey "е">
 <!ENTITY bgColor.label "Фон:">
 <!ENTITY bgColor.accesskey "о">
+<!ENTITY defaultCompose.label "Формат составления по умолчанию:">
+<!ENTITY defaultBodyText.label "Обычный текст (нажатие Enter создает новую строку)">
+<!ENTITY defaultBodyText.accesskey "ы">
+<!ENTITY defaultParagraph.label "Абзац (нажатие Enter создает новый абзац)">
+<!ENTITY defaultParagraph.accesskey "ж">
 <!ENTITY selectHeaderType.label "Выберите тип заголовка ответа:">
 <!ENTITY selectHeaderType.accesskey "б">
 <!ENTITY noReplyOption.label "Без заголовка ответа">
