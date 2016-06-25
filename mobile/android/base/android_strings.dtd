@@ -169,7 +169,7 @@
 <!ENTITY pref_category_search3 "ค้นหา">
 <!ENTITY pref_category_search_summary2 "เพิ่ม ตั้งค่าปริยาย แสดงคำแนะนำ">
 <!ENTITY pref_category_accessibility "การช่วยเข้าถึง">
-<!ENTITY pref_category_accessibility_summary2 "ขนาดตัวอักษร ย่อ-ขยาย การรับค่าด้วยเสียง">
+<!ENTITY pref_category_accessibility_summary2 "ขนาดตัวอักษร การขยาย การรับค่าด้วยเสียง">
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
 <!ENTITY pref_category_privacy_summary4 "การตามรอย การเข้าสู่ระบบ ตัวเลือกข้อมูล">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -356,8 +356,8 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "อนุญาตการเล่นอัตโนมัติ">
 <!ENTITY pref_media_autoplay_enabled_summary "ควบคุมการเล่นวิดีโอและเนื้อหาสื่ออื่นของเว็บไซต์โดยอัตโนมัติ">
-<!ENTITY pref_zoom_force_enabled "เปิดใช้งานการย่อ-ขยายเสมอ">
-<!ENTITY pref_zoom_force_enabled_summary "บังคับใช้ค่าเพื่อให้คุณสามารถย่อ-ขยายได้ทุกหน้า">
+<!ENTITY pref_zoom_force_enabled "เปิดใช้งานการขยายเสมอ">
+<!ENTITY pref_zoom_force_enabled_summary "บังคับใช้ค่าเพื่อให้คุณสามารถขยายได้ทุกหน้า">
 <!ENTITY pref_voice_input "การรับค่าด้วยเสียง">
 <!ENTITY pref_voice_input_summary2 "อนุญาตการเขียนตามคำบอกเสียงในแถบ URL">
 <!ENTITY pref_qrcode_enabled "ตัวอ่านรหัส QR">
