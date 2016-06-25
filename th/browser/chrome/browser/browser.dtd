@@ -617,8 +617,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "ขยายเฉพาะตัวอักษร">
 <!ENTITY fullZoomToggleCmd.accesskey    "ต">
-<!ENTITY fullZoom.label                 "ขยาย">
-<!ENTITY fullZoom.accesskey             "ข">
+<!ENTITY fullZoom.label                 "การขยาย">
+<!ENTITY fullZoom.accesskey             "ก">
 
 <!ENTITY sidebarCloseButton.tooltip     "ปิดแถบข้าง">
 
