@@ -88,6 +88,7 @@
 <!ENTITY cspBlocked.longDesc "<p>El navegador evitó que se cargue esta página de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contenido corrupto">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La página que estás intentando ver no puede ser mostrada debido a que se detectó un error en la transmisión de datos.</p><ul><li>Por favor, contacte al dueño del sitio web para informarle del problema.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacte a los dueños del sitio para informarles del problema.</li></ul></p>">
