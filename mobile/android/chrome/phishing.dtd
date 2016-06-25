@@ -9,11 +9,17 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "¡Página reportada como fraudulenta!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Este sitio en <span id='malware_sitename'/> ha sido reportado como un sitio malicioso y ha sido bloqueado en base a tus preferencias de seguridad.">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "¡Sitio fraudulento!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "El sitio en %S ha sido reportado como un sitio fraudulento y ha sido bloqueado en base a tus preferencias de seguridad.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Los sitios fraudulentos están designados para engañarte a realizar algo peligroso, como instalar programas o revelar tu información personal, como contraseñas, números de teléfono o tarjetas de créditos.</p><p>Ingresando cualquier tipo de información en estos sitios web puede resultar en el robo de identidad u otros fraudes.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "¡Sitio sospechoso de software indeseable!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Las páginas de software no deseado intentan instalar software que puede ser engañoso y afectar su sistema de formas inesperadas.">
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Sitio bloqueado">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "El sitio Web en <span id='forbidden_sitename'/> ha sido bloqueado basándose en el perfil del administrador.">
