@@ -28,7 +28,7 @@
 <!ENTITY malformedURI.longDesc "<p>Adresa introdusă nu este într-un format recunoscut. Vă rugăm să verificați ca bara adresei să nu conțină greșeli și încercați din nou.</p>">
 
 <!ENTITY netInterrupt.title "Transfer de date întrerupt">
-<!ENTITY netInterrupt.longDesc "<p>Browserul s-a conectat cu succes, dar conexiunea a fost întreruptă în timp ce se transferau informații.  Vă rugăm să încercați din nou.</p><ul><li>Aveți probleme cu navigarea pe alte site-uri? Verificați conexiunea la rețea a calculatorului.</li><li>Problemele persistă? Consultați administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Browserul s-a conectat cu succes, dar conexiunea a fost întreruptă în timp ce se transferau informații.  Te rugăm să încerci din nou.</p><ul><li>Ai probleme cu navigarea pe alte site-uri? Verifică conexiunea la rețea a calculatorului.</li><li>Problemele persistă? Consultă administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
 
 <!ENTITY notCached.title "Document expirat">
 <!ENTITY notCached.longDesc "<p>Documentul cerut nu este disponibil în cache-ul din browser.</p><ul><li>Ca o măsură de securitate, browserul nu cere din nou automat documente confidențiale.</li><li>Clic pe „Încearcă din nou” pentru a cere din nou documentul de la site-ul web.</li></ul>">
@@ -46,7 +46,7 @@
 <!ENTITY netReset.longDesc "<p>Legătura de rețea a fost întreruptă în timp ce se negocia o conexiune. Vă rugăm să încercați din nou.</p>">
 
 <!ENTITY netTimeout.title "Timp expirat">
-<!ENTITY netTimeout.longDesc "<p>Site-ul cerut nu a răspuns cererii de conexiune, iar browserul a încetat să mai aștepte un răspuns.</p><ul><li>Se poate ca serverul să fie foarte solicitat sau să sufere o defecțiune temporară?  Încercați din nou mai târziu.</li><li>Aveți probleme cu navigarea pe alte site-uri? Verificați conexiunea la rețea a calculatorului.</li><li>Calculatorul este protejat de un firewall sau proxy? Setările incorecte ale acestora poate afecta navigarea pe web.</li><li>Problemele persistă? Consultați administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Site-ul cerut nu a răspuns cererii de conexiune, iar browserul a încetat să mai aștepte un răspuns.</p><ul><li>Se poate ca serverul să fie foarte solicitat sau să sufere o defecțiune temporară?  Încearcă din nou mai târziu.</li><li>Ai probleme cu navigarea pe alte site-uri? Verifică conexiunea la rețea a calculatorului.</li><li>Calculatorul este protejat de un firewall sau proxy? Setările incorecte ale acestora poate afecta navigarea pe web.</li><li>Problemele persistă? Consultă administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Protocol necunoscut">
 <!ENTITY unknownProtocolFound.longDesc "<p>Adresa specifică un protocol (de ex., <q>wxyz://</q>) pe care browserul nu îl cunoaște, astfel că browserul nu se poate conecta în mod corespunzător la site.</p><ul><li>Încercați să accesați conținut multimedia sau alte servicii nontext? Verificați site-ul pentru cerințe suplimentare.</li><li>Unele protocoale pot necesita programe terțe sau pluginuri înainte ca browserul să le poată recunoaște.</li></ul>">
