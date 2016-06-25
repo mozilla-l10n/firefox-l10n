@@ -103,15 +103,23 @@
 <!ENTITY cookieBlockImagesCmd.label "Блокировать изображения с этого веб-сайта">
 <!ENTITY cookieBlockImagesCmd.accesskey "л">
 <!ENTITY cookieBlockImagesMsg.label "Изображения этого веб-сайта никогда не будут загружаться.">
-<!ENTITY cookieAllowPopupsCmd.label "Разрешить всплывающие окна с этого веб-сайта">
-<!ENTITY cookieAllowPopupsCmd.accesskey "з">
-<!ENTITY cookieManagePopups.label "Управление веб-сайтами со всплывающими окнами">
-<!ENTITY cookieManagePopups.accesskey "п">
+<!ENTITY popupsMessageChangeTitle.label "Изменились права на открытие всплывающих окон">
+<!ENTITY popupAllowCmd.label "Разрешить всплывающие окна с этого веб-сайта">
+<!ENTITY popupAllowCmd.accesskey "з">
+<!ENTITY popupAllowMsg.label "Всплывающие окна с этого веб-сайта всегда будут отображаться.">
+<!ENTITY popupDefaultCmd.label "Права по умолчанию">
+<!ENTITY popupDefaultCmd.accesskey "в">
+<!ENTITY popupDefaultMsg.label "Всплывающие окна с этого веб-сайта будут отображаться на основе настроек по умолчанию.">
+<!ENTITY popupBlockCmd.label "Блокировать всплывающие окна с этого веб-сайта">
+<!ENTITY popupBlockCmd.accesskey "л">
+<!ENTITY popupBlockMsg.label "Всплывающие окна с этого веб-сайта никогда не будут отображаться.">
+<!ENTITY popupsManage.label "Управление веб-сайтами со всплывающими окнами">
+<!ENTITY popupsManage.accesskey "п">
 <!ENTITY cookieCookieManager.label "Управление куками">
 <!ENTITY cookieCookieManager.accesskey "н">
 <!ENTITY cookieImageManager.label "Управление изображениями">
 <!ENTITY cookieImageManager.accesskey "и">
-<!ENTITY cookiePopupManager.label "Управление всплывающими окнами">
-<!ENTITY cookiePopupManager.accesskey "а">
+<!ENTITY popupsManager.label "Управление всплывающими окнами">
+<!ENTITY popupsManager.accesskey "а">
 <!ENTITY clearPrivateDataCmd.label "Удалить личные данные…">
 <!ENTITY clearPrivateDataCmd.accesskey "е">

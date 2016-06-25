@@ -387,7 +387,6 @@
 <!ENTITY identity_connected_to "Вы соединены с">
 <!ENTITY identity_connection_secure "Защищённое соединение">
 <!ENTITY identity_connection_insecure "Незащищённое соединение">
-<!ENTITY identity_login_insecure "Эта страница не защищена и ваш логин может быть скомпрометирован.">
 <!ENTITY identity_connection_chromeui "Это защищённая страница &brandShortName;">
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; заблокировал небезопасное содержимое на этой странице.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; заблокировал некоторое небезопасное содержимое на этой странице.">
