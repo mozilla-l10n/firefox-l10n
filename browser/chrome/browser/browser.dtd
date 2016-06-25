@@ -789,7 +789,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "ต้องการเครื่องมือเพิ่มเติม?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "เลือกจากส่วนเสริมที่มีนับพัน">
 <!ENTITY customizeMode.restoreDefaults "เรียกคืนค่าปริยาย">
-<!ENTITY customizeMode.toolbars "แสดง / ซ่อน แถบเครื่องมือ">
+<!ENTITY customizeMode.toolbars "แสดง/ซ่อนแถบเครื่องมือ">
 <!ENTITY customizeMode.titlebar "แถบหัวเรื่อง">
 <!ENTITY customizeMode.lwthemes "ชุดตกแต่ง">
 <!ENTITY customizeMode.lwthemes.myThemes "ชุดตกแต่งของฉัน">
@@ -808,12 +808,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.marklinkMenu.accesskey "ล">
 <!ENTITY social.marklinkMenu.label "บันทึกลิงก์เป็น…">
 
-<!ENTITY getUserMedia.selectCamera.label "แบ่งปันกล้อง:">
+<!ENTITY getUserMedia.selectCamera.label "กล้องที่แบ่งปัน:">
 <!ENTITY getUserMedia.selectCamera.accesskey "ก">
-<!ENTITY getUserMedia.selectMicrophone.label "แบ่งปันไมโครโฟน:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "ม">
+<!ENTITY getUserMedia.selectMicrophone.label "ไมโครโฟนที่แบ่งปัน:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "ไ">
 <!ENTITY getUserMedia.audioCapture.label "เสียงจากแท็บจะถูกแบ่งปัน">
-<!ENTITY getUserMedia.allWindowsShared.message "หน้าตาที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกใช้ร่วมกัน">
+<!ENTITY getUserMedia.allWindowsShared.message "หน้าต่างที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกแบ่งปัน">
 
 <!ENTITY trackingProtection.title "การป้องกันการตามรอย">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; กำลังปิดกั้นบางส่วนของหน้านี้ที่อาจจะติดตามการท่องเว็บของคุณ">
