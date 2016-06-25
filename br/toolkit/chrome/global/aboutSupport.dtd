@@ -86,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Reizhiad kevregañ">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "Stlennvon &quot;Places&quot;">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Kevanded">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Gwiriañ ar gevanded">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Karzher azvuiadel">
@@ -114,6 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Kerzhlevr c'hwitadennoù">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Kerzhlevr divizoù">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Keweriusterioù diweredekaet gant ar gwarez e-enep d'ar sac'hadennoù">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Tremen e-biou">
