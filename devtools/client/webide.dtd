@@ -45,9 +45,9 @@
 <!ENTITY viewMenu_accesskey "V">
 
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_zoomin_label "ขยาย">
+<!ENTITY viewMenu_zoomin_label "ขยายเข้า">
 
-<!ENTITY viewMenu_zoomout_label "ย่อ">
+<!ENTITY viewMenu_zoomout_label "ขยายออก">
 
 
 

@@ -57,10 +57,10 @@
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
 
-
-
-
-
+<!ENTITY btnServerErrors              "ข้อผิดพลาด">
+<!ENTITY btnServerInfo                "ข้อมูล">
+<!ENTITY btnServerWarnings            "คำเตือน">
+<!ENTITY btnServerLog                 "บันทึก">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
