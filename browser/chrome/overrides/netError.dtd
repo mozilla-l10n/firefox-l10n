@@ -68,6 +68,7 @@
 <!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Verificați ca sistemul dumneavoastră să aibă instalat Personal Security  Manager.</li> <li>Aceasta se poate întâmpla și datorită unei configurații nestandard a serverului.</li> </ul>">
 
+<!ENTITY nssFailure2.title "Conexiunea securizată a eșuat">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Pagina pe care încercați să o vedeți nu poate fi afișată deoarece nu s-a putut verifica autenticitatea datelor primite.</li> <li>Vă rugăm să contactați proprietarii site-ului web pentru a-i informa despre această problemă</li> </ul>">
 
 <!-- Localization note (certerror.introPara) - The text content of the span tag
