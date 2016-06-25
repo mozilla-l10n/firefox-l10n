@@ -245,7 +245,7 @@
      “storing data”. -->
 
 <!ENTITY pref_category_data_saver "डेटा रक्षक">
-
+<!ENTITY pref_category_media "मीडिया">
 <!ENTITY pref_category_developer_tools "डेवलेपर औज़ार">
 
 <!ENTITY pref_tap_to_load_images_title2 "छवियाँ दिखाएँ">
