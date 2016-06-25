@@ -1,4 +1,5 @@
-creativecommons
+drae
+duckduckgo
 google
 wikipedia-es
 yahoo
