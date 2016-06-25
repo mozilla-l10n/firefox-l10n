@@ -13,6 +13,7 @@
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Para activar tu nuevo dispositivo, selecciona “Configurar &syncBrand.shortName.label;” en el dispositivo.'>
 <!ENTITY sync.subtitle.pair.label 'Para activar, selecciona “Asociar un dispositivo” en tu otro dispositivo.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.link.nodevice.label 'No tengo el dispositivo conmigo…'>
 
 <!-- Configure Engines -->
@@ -28,11 +29,13 @@
 <!ENTITY sync.default.client.name '&formatS1; en &formatS2;'>
 
 <!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'Menú de marcadores'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Etiquetas'>
 <!ENTITY bookmarks.folder.toolbar.label 'Barra de marcadores'>
 <!ENTITY bookmarks.folder.other.label 'Otros marcadores'>
 <!ENTITY bookmarks.folder.desktop.label 'Marcadores de escritorio'>
+<!ENTITY bookmarks.folder.mobile.label 'Marcadores en dispositivo móvil'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Fijado'>
 
@@ -43,7 +46,10 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Regresar a la navegación'>
 
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Bienvenido a &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description2 'Conéctate para sincronizar tus pestañas, marcadores, conexiones y más.'>
 <!ENTITY fxaccount_getting_started_get_started 'Empezar'>
+<!ENTITY fxaccount_getting_started_old_firefox '¿Estás usando una versión antigua de &syncBrand.shortName.label;?'>
 
 <!ENTITY fxaccount_status_signed_in_as 'Conectado como'>
 <!ENTITY fxaccount_status_manage_account 'Administrar cuenta'>
@@ -54,6 +60,12 @@
 <!ENTITY fxaccount_status_sync_server 'Sincronizar servidor'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: habilitado'>
+<!ENTITY fxaccount_status_needs_verification2 'Tu cuenta necesita ser verificada. Toca para reenviar el email de verificación.'>
+<!ENTITY fxaccount_status_needs_credentials 'No se pudo conectar. Toca para conectarte.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Necesitas actualizar &brandShortName; para conectarte.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; se establece, pero no sincronizar automáticamente. Cambiar \&quot;Auto-sincronización de datos\&quot; en ajustes Android &gt; Uso de datos.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; está configurado, pero no se está sincronizado automáticamente. Marca “Sincronizar datos automáticamente” en la configuración de Android &gt; Uso de datos.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Toca para conectarte a tu nueva cuenta de Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Marcadores'>
 <!ENTITY fxaccount_status_history 'Historial'>
 <!ENTITY fxaccount_status_passwords2 'Conexiones'>
@@ -69,8 +81,10 @@
 <!ENTITY fxaccount_remove_account 'Desconectar&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title '¿Remover cuenta de Firefox?'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; dejará de sincronizarse con tu cuenta, pero no se eliminará nada de tus datos de navegación en este dispositivo.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast 'Cuenta de Firefox &formatS; removida.'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Habilitar modo de depuración'>
 
@@ -83,6 +97,7 @@
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
+<!ENTITY fxaccount_options_title 'Opciones de &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Configurar &syncBrand.shortName.label;'>
 
 <!-- Localization note: these error messages are shown after a request
@@ -91,6 +106,7 @@
 <!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Necesitas actualizar Firefox'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'La cuenta ya existente. &formatS1;'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Email o contraseña inválido'>
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Email o contraseña inválido'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Cuenta no verificada'>
