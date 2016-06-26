@@ -27,7 +27,7 @@
 <!ENTITY firstrun_tabqueue_subtext_off "နောင်အခါ &brandShortName; ရှိ အခြားအက်ပ်များတွင် အသုံးပြုရန် လင့်များကို သိမ်းပါ။">
 
 <!ENTITY firstrun_tabqueue_message_on "အောင်မြင်ပါသည်။">
-<!ENTITY firstrun_tabqueue_subtext_on "ဒီလုပ်ဆောင်ချက်ကို &settings;၊ &pref_category_general;  အောက်တွင် သွားရောက် ပိတ်နိုင်ပါသည်။">
+<!ENTITY firstrun_tabqueue_subtext_on "ဒီလုပ်ဆောင်ချက်ကို &settings;၊ &pref_category_general; အောက်တွင် သွားရောက် ပိတ်နိုင်ပါသည်။">
 
 <!ENTITY firstrun_readerview_title "ဆောင်းပါးများ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -51,10 +51,10 @@
 <!ENTITY  crash_reporter_title "&brandShortName; အပျက်အစီး အစီရင်ခံစာ">
 <!ENTITY  crash_message2 "&brandShortName; တွင့် ပြဿနာ နှင့် အပျက်အစီးအချို့ရှိခဲ့သည်။ ဖွင့်ထားသော စာမျက်နှာကို သင်ပြန်ဖွင့်သော အချိန်တွင် &brandShortName; အစ စာမျက်နှာ၌ စာရင်းပြုပေးထားပါမည်။">
 <!ENTITY  crash_send_report_message3 "&vendorShortName;အား ယခုဖြစ်ရပ်အတွက် ပြင်ဆင်နိုင်စေရန် ဆက်သွယ်ပြောကြားပါ။">
-<!ENTITY  crash_include_url2 "ကျွနု်ပ်ရောက်နေသော စာမျက်နှာလိပ်စာကိုပါ ထည့်ပေးလိုက်မည်။">
+<!ENTITY  crash_include_url2 "ကျွန်ုပ်ရောက်နေသော စာမျက်နှာလိပ်စာကိုပါ ထည့်ပေးလိုက်မည်။">
 <!ENTITY  crash_sorry "ဝမ်းနည်းပါတယ်။">
 <!ENTITY  crash_comment "မှတ်ချက်ပေးပါ (ဤမှတ်ချက်များကို အများပြည်သူက မြင်ရလိမ့်မည်)">
-<!ENTITY  crash_allow_contact2 "&vendorShortName;ကို ကျွနု်ပ်အား ဆက်သွယ်ခွင့် ပေးထားမည်">
+<!ENTITY  crash_allow_contact2 "&vendorShortName;ကို ကျွန်ုပ်အား ဆက်သွယ်ခွင့် ပေးထားမည်">
 <!ENTITY  crash_email "သင့် အီးမေးလ်">
 <!ENTITY  crash_closing_alert "ပျက်စီးမှုအကြောင်း သတင်းမပို့တော့ဘဲ ထွက်မည်လား?">
 <!ENTITY  sending_crash_report "ပျက်စီးမှုအား သတင်းပို့နေသည်\u2026">
