@@ -42,6 +42,8 @@
 
 <!ENTITY switch_to_tab "Przełącz na kartę">
 
+<!ENTITY tab_offline_version "Wersja offline">
+
 <!ENTITY crash_reporter_title "&brandShortName; – Narzędzie zgłaszania awarii">
 <!ENTITY crash_message2 "&brandShortName; uległ awarii. Ostatnio otwarte karty powinny być dostępne na stronie startowej po ponownym uruchomieniu.">
 <!ENTITY crash_send_report_message3 "Prześlij zgłoszenie problemu do organizacji &vendorShortName;, aby mogła go rozwiązać">
