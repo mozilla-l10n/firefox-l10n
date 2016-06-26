@@ -118,22 +118,32 @@
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
+
+<!ENTITY performanceUI.flattenTreeRecursion             "Yenza Sicaba Ukubuyiselwa Komthi">
 <!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Yekisa ukubuyela xa kusebenza uhlolo.">
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 
+<!ENTITY performanceUI.enableMemory             "Rekhoda iMemori">
+<!ENTITY performanceUI.enableMemory.tooltiptext "Rekhoda ukusetyenziswa kwememori ngoxa uprofayila">
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
 
+<!ENTITY performanceUI.enableAllocations             "Rekhoda Ezibekiweyo">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Rekhoda ukubekwa kweNto ngoxa uprofayila.">
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
+<!ENTITY performanceUI.enableFramerate             "Rekhoda iReyithi yeFreyimu">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Rekhoda ireyithi yefreyimu ngoxa uprofayile">
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
+
+<!ENTITY performanceUI.console.recordingNoticeStart "Ngoku iyarekhoda isebenzisa">
 <!ENTITY performanceUI.console.recordingNoticeEnd   "">
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
@@ -141,4 +151,4 @@
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
 
 <!ENTITY performanceUI.console.stopCommandStart "Yekisa ukurekhoda ngokufaka">
-
+<!ENTITY performanceUI.console.stopCommandEnd   "kwikhonsoli.">
