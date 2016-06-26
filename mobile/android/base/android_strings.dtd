@@ -34,6 +34,7 @@
 <!ENTITY home_title "&brandShortName; Home">
 <!ENTITY history_title "Cronologia">
 <!ENTITY switch_to_tab "Passa alla scheda">
+<!ENTITY tab_offline_version "Visualizzazione attuale: versione non in linea">
 <!ENTITY crash_reporter_title "Crash Reporter &brandShortName;">
 <!ENTITY crash_message2 "&brandShortName; ha riscontrato un problema e si è bloccato. Le schede aperte dovrebbero essere visibili nella pagina iniziale di &brandShortName; dopo il riavvio.">
 <!ENTITY crash_send_report_message3 "Segnala a &vendorShortName; questo problema">
