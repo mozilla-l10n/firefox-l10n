@@ -114,7 +114,7 @@
   -  should be displayed. -->
 
 <!ENTITY performanceUI.showJITOptimizations             "Bonisa ukuOptimayiza kweJIT">
-
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Bonisa idatha yoku-ooptimayiza yeJIT eyisampulu kwifreyimu yeJavaScript nganye.">
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
