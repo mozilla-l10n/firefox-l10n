@@ -111,6 +111,8 @@
 <!ENTITY certs.auto.accesskey            "τ">
 <!ENTITY certs.ask                       "Ερώτηση κάθε φορά">
 <!ENTITY certs.ask.accesskey             "ρ">
+<!ENTITY enableOCSP.label                "Ερώτηση στους διακομιστές για OCSP ανταπόκριση ώστε να επιβεβαιωθεί η τρέχουσα εγκυρότητα των πιστοποιητικών">
+<!ENTITY enableOCSP.accesskey            "Ε">
 <!ENTITY viewCerts.label                 "Προβολή πιστοποιητικών">
 <!ENTITY viewCerts.accesskey             "ο">
 <!ENTITY viewSecurityDevices.label       "Συσκευές ασφαλείας">

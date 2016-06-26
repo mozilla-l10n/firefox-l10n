@@ -16,3 +16,4 @@
 
 <!ENTITY showTabsInTaskbar.label          "Προβολή προεπισκόπησης καρτελών στην taskbar των Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "ε">
+<!ENTITY tabsGroup.label          "Καρτέλες">
