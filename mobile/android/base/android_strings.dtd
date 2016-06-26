@@ -70,10 +70,12 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "पढ्ने सूची">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
+<!ENTITY bookmark_folder_items "&formatD; वस्तुहरू">
+<!ENTITY bookmark_folder_one_item "1 वस्तु">
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -178,10 +180,11 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
-
-
-
+<!ENTITY pref_category_advanced_summary3 "ट्याब, प्लगइन, विकासक उपकरणहरू पुनःस्थापना गर्नुहोस्">
+<!ENTITY pref_category_notifications "सूचनाहरू">
+<!ENTITY pref_category_notifications_summary "नयाँ सुविधाहरू, वेबसाइट अपडेट">
+<!ENTITY pref_content_notifications "वेबसाइट अपडेट">
+<!ENTITY pref_content_notifications_summary2 "समर्थित साइटबाट नयाँ सामग्री पत्ता लगउनुहोस्">
 <!ENTITY pref_developer_remotedebugging_usb "USB मार्फत रिमोट डिबग गर्न">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi मार्फत रिमोट डिबग गर्न">
 
@@ -191,19 +194,21 @@
 <!ENTITY pref_category_home "गृह">
 <!ENTITY pref_category_home_summary "आफ्नो गृहपृष्ठ अनुकुलन गर्नुहोस्">
 <!ENTITY pref_category_home_panels "प्यानलहरु">
-
-
-
-
-
+<!ENTITY pref_category_home_add_ons "एड-अनहरु">
+<!ENTITY pref_home_updates2 "सामग्री अद्यावधिकहरू">
+<!ENTITY pref_home_updates_enabled "सक्षम पारियो">
+<!ENTITY pref_home_updates_wifi "केवल वाइफाइको माध्यमबाट">
+<!ENTITY pref_category_home_homepage "गृहपृष्ठ">
 <!ENTITY home_homepage_title "गृहपृष्ठ चयन गर्नुहोस्">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; गृह">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "अनुकूल">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
@@ -211,16 +216,19 @@
      text field. -->
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_general "सामान्य">
+<!ENTITY pref_header_search "खोजी गर्नुहोस्">
+<!ENTITY pref_header_privacy_short "गोपनीयता">
 <!ENTITY pref_header_accessibility "पहुँचता">
-
+<!ENTITY pref_header_notifications "सूचनाहरू">
 <!ENTITY pref_header_advanced "उन्नत">
 <!ENTITY pref_header_help "मद्दत">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
+<!ENTITY pref_cookies_menu "कुकिज">
+<!ENTITY pref_cookies_accept_all "सक्षम पारियो">
 
-
-
+<!ENTITY pref_cookies_disabled "अक्षम पारिएको">
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
@@ -234,22 +242,26 @@
 
 
 
-
-
+<!ENTITY pref_tracking_protection_title2 "ट्रयाकिङ्ग सुरक्षा">
+<!ENTITY pref_tracking_protection_summary3 "निजी ब्राउजिङ्गमा सक्षम पारिएको">
+<!ENTITY pref_donottrack_title "ट्रयाक नगर्नुहोस्">
 
 
 <!ENTITY pref_tracking_protection_enabled "सक्षम पारिएको">
-
+<!ENTITY pref_tracking_protection_enabled_pb "निजी ब्राउजिङ्गमा सक्षम पारिएको">
 <!ENTITY pref_tracking_protection_disabled "अक्षम पारिएको">
 
+<!ENTITY pref_whats_new_notification "&brandShortName; मा नयाँ के छ">
+<!ENTITY pref_whats_new_notification_summary "अद्यावधिक पछि नयाँ सुविधाहरूको बारेमा जान्नुहोस्">
 
+<!ENTITY tracking_protection_prompt_title "अब ट्रयाकिङ्ग सुरक्षाको साथ">
 
+<!ENTITY tracking_protection_prompt_tip_text "थप जान्न को लागि गोपनीयता सेटिङमा भ्रमण गर्नुहोस्">
+<!ENTITY tracking_protection_prompt_action_button "पाएँ!">
 
-
-
-
+<!ENTITY tab_queue_toast_message3 "ट्याब &brandShortName; मा सुरक्षित">
 <!ENTITY tab_queue_toast_action "अहिले खोल्नुहोस्">
-
+<!ENTITY tab_queue_prompt_title "धेरै लिंकहरू खोल्दै हुनुहुन्छ?">
 
 
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
@@ -259,7 +271,7 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "सेटिङ्गमा जानुहोस्">
-
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -269,14 +281,18 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; वेबसाइट अद्यावधिक गरियो">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "सेटिङहरू">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "अब पढ्नुहोस्">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
