@@ -15,6 +15,7 @@
 <!-- toggle sidebar -->
 <!-- zoom -->
 
+<!ENTITY projectPanel_tabs "Καρτέλες">
 
 <!-- Lense -->
 
@@ -25,8 +26,10 @@
 
 
 <!-- Addons -->
+<!ENTITY addons_aboutaddons "Άνοιγμα της διαχείρισης προσθέτων">
 
 <!-- Prefs -->
+<!ENTITY prefs_restore "Επαναφορά προεπιλογών">
 
 <!-- Permissions Table -->
 
@@ -56,3 +59,4 @@
 <!-- Logs panel -->
 
 <!-- Simulator Options -->
+<!ENTITY simulator_reset "Επαναφορά προεπιλογών">

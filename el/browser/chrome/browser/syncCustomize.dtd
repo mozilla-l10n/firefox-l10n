@@ -3,8 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY syncCustomize.title              "Τι θα θέλατε να συγχρονίσετε;">
+<!ENTITY syncCustomize.description        "Μπορείτε να αλλάξετε αυτήν την προτίμηση στις Επιλογές.">
 
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
 -->
+<!ENTITY engine.history.label             "Ιστορικό">
+<!ENTITY engine.tabs.label                "Καρτέλες">
