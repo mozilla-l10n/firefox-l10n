@@ -27,6 +27,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Vumela inkqubo exananazileyo yeFirefox kwiiprefrensi ukuba irekhode idatha ngexesha lokwenene.">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 
@@ -56,13 +58,13 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "I-Waterfall">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Bonisa imisebenzi eyahlukeneyo eyenziwa yibhrawza ebudeni bokurekhoda, eyandlalwe ngolungelelwano njengengxangxasi.">
 <!ENTITY performanceUI.toolbar.js-calltree "Tsalela Umthi">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Ibalaselisa imisebenzi yeJavaScript apho ibhrawza ichitha ixesha elininzi ebudeni bokurekhoda">
 <!ENTITY performanceUI.toolbar.memory-calltree "Izinto ezabelweyo">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Ibonisa apho imemori ibikhona ebudeni bokurekhoda.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Itshati ye-JS Flame">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Ibonisa istekhi seminxeba seJavaScript ebudeni bokurekhoda.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Izinto ezabelweyo zetshati ye-flame">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -82,9 +84,11 @@
 <!ENTITY performanceUI.table.totalAlloc               "Zizonke izinto ezabelweyo ezenziwe iisampuli ">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Inani elipheleleyo lobeko lwe-Objekthi iye yasemplishwa kule ndawo nakubafowunelwa.">
 <!ENTITY performanceUI.table.selfAlloc                "Izinto Ezabelweyo Ezenziwe Iisampuli ">
-
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "Inani leeObjekti ezibekiweyo eziyisampulu yale ndawo">
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY performanceUI.options.filter.tooltiptext "Khetha idatha omawuyibonise kumzila wexesha">
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
 
@@ -96,14 +100,20 @@
 <!ENTITY performanceUI.invertTree.tooltiptext "Ibuyisa imiboniso yomnxeba womthi ipathi zeprofayile yomnxeba ukususela kweyona freyimu incinci ukunyuka ukuya kweyona freyimu inkulu.">
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
+
+<!ENTITY performanceUI.invertFlameGraph             "Buyisela iTshathi yeFleyimu">
 <!ENTITY performanceUI.invertFlameGraph.tooltiptext "Ibuyisela imiboniso yetshati yefreyimu ipathi zeprofayile yomnxeba ukususela kweyona freyimu incinci ukunyuka ukuya kweyona freyimu indala.">
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 
+<!ENTITY performanceUI.showPlatformData             "Bonisa iPlatfomu yeDatha yeGecko">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Ibonisa idatha yeplatfomu ivumela iingxelo zeJavaScript Profiler ukuba ziquke iisimboli zeplatfomu yeGecko.">
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
+
+<!ENTITY performanceUI.showJITOptimizations             "Bonisa ukuOptimayiza kweJIT">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
