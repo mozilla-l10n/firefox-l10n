@@ -82,6 +82,8 @@
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
+<!ENTITY bookmark_folder_items "Iiayithem ze-&amp;formatD">
+<!ENTITY bookmark_folder_one_item "1 iayithem">
 
 <!ENTITY reader_saved_offline "Igcinwe ngaphandle kwe-intanethi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -308,8 +310,10 @@
 <!ENTITY content_notification_title_plural "&formatD; iiwebhsayithi zihlaziyiwe">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Iisetingi">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Funda ngoku">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -443,12 +447,12 @@ size. -->
 <!ENTITY share_image_failed "Akukwazeki ukwabelana nalo mfanekiso-ngqondweni">
 <!ENTITY save_as_pdf "Gcina njenge-PDF">
 <!ENTITY print "Printa">
-
-
+<!ENTITY find_in_page "Fumana kwikhasi">
+<!ENTITY desktop_mode "Cela isayithi yedesktopu">
 <!ENTITY page "Iphepha">
 <!ENTITY tools "Izixhobo zemiyalelo">
-
-
+<!ENTITY new_tab "Ithebhu entsha">
+<!ENTITY new_private_tab "Iithebhu zangasese ezintsha">
 <!ENTITY close_all_tabs "Vala Zonke iiThebhu">
 <!ENTITY close_private_tabs "Vala iithebhu zangasese">
 <!ENTITY tabs_normal "Ithebhu">
@@ -458,6 +462,8 @@ size. -->
 <!ENTITY set_image_chooser_title "Seta umfanekiso njenge">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Fumana kwiPhepha">
 <!ENTITY find_prev "Okwangaphambili">
 <!ENTITY find_next "Okulandelayo">
 <!ENTITY find_close "Vala">
@@ -559,6 +565,7 @@ size. -->
 <!ENTITY home_synced_devices_smartfolder "Izixhobo ezingqamanisiweyo">
 <!ENTITY home_synced_devices_number "&formatD; izixhobo">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 isixhobo">
 <!ENTITY home_history_back_to2 "Ibuyela kwiMbali epheleleyo">
 <!ENTITY home_clear_history_button "Susa imbali yokubhrawuza">
 <!ENTITY home_clear_history_confirm "Uqinisekile ukuba ufuna ukususa imbali yakho?">
@@ -797,8 +804,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Funda ngaphandle kwe-intanethi">
 <!ENTITY helper_first_offline_bookmark_message "Fumana iiayithem zeSijongi soMfundi kwiiBhukmakhi, nangaphandle kwe-Intanethi.">
+<!ENTITY helper_first_offline_bookmark_button "Yiya kwiiBhukmakhi">
 
-
-
-
+<!ENTITY helper_triple_readerview_open_title "Ufumaneka ngaphandle kwe-intanethi">
+<!ENTITY helper_triple_readerview_open_message "I-Bookmark Reader View izinto onokuzifunda ngaphandle kwe-intanethi.">
+<!ENTITY helper_triple_readerview_open_button "Yiya kwiiBhukmakhi">
 
