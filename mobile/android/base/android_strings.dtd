@@ -36,7 +36,7 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "Wena">
-
+<!ENTITY firstrun_account_message "Ngaba une-&brandShortName; kwesinye isixhobo?">
 
 <!ENTITY  onboard_start_restricted1 "Hlala ukhuselekile yaye ukulawulo ngolu hlobo lwenziwe lula lwe-&brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -78,7 +78,7 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Izikrinshoti">
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "ULuhlu Lokufunda">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
