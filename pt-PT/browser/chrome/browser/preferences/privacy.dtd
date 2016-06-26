@@ -28,9 +28,9 @@
 
 <!ENTITY  history.label                 "Histórico">
 
-<!ENTITY  locationBar.label             "Barra de endereços">
+<!ENTITY  locationBar.label             "Barra de localização">
 
-<!ENTITY  locbar.suggest.label          "Ao usar a barra de endereços, mostrar sugestões com base em:">
+<!ENTITY  locbar.suggest.label          "Ao usar a barra de localização, sugerir:">
 <!ENTITY  locbar.history.label          "Histórico">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
