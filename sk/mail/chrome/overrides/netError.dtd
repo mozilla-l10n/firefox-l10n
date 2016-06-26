@@ -156,8 +156,7 @@
 <!ENTITY cspBlocked.title "Blokované kvôli zásadám ochrany obsahu">
 <!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
 
-<!ENTITY corruptedContentError.title "Poškodený obsah">
-<!ENTITY corruptedContentError.longDesc "<p>Tento obsah nemohol byť zobrazený kvôli chybe pri prenose údajov.</p><ul><li>Kontaktuje poskytovateľa obsahu a informujte ho o tomto probléme.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Poškodený obsah">
 
 <!ENTITY securityOverride.linkText "Alebo môžete pridať výnimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Rýchlo odtiaľto preč!">
@@ -177,3 +176,7 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Vzdialené XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte správcu webovej stránky a informujte ho o tomto probléme.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Vaše pripojenie nie je zabezpečené">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
