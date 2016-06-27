@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "기본 설정으로 복원">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY defaultToParagraph.label             "본문 서식 대신 단락 서식 사용">
+<!ENTITY defaultToParagraph.accesskey         "P">
 
 <!ENTITY spellCheck.label                     "보내기 전에 맞춤법 검사">
 <!ENTITY spellCheck.accesskey                 "C">

@@ -36,6 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "기타 폴더 지정:">
 <!ENTITY archiveInOtherFolder.accesskey "h">
 <!ENTITY specialFolders.label "초안 및 템플릿">
+<!ENTITY keepDrafts2.label "초안 메시지 유지:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;임시 편지함&quot;으로:">
 <!ENTITY draftsFolderOn.accesskey "D">
