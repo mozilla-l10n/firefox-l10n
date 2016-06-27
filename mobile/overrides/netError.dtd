@@ -11,6 +11,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Αδυναμία σύνδεσης">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Αυτή η διεύθυνση είναι περιορισμένη">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -18,6 +19,18 @@
 <!ENTITY dnsNotFound.title "Δεν βρέθηκε ο εξυπηρετητής">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
+<ul>
+  <li>Ελέγξτε τη διεύθυνση για τυπογραφικά λάθη όπως <strong>ww</strong>.example.com αντί για <strong>www</strong>.example.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'>
+      <button id='searchbutton'>Αναζήτηση</button>
+    </div>
+  <li>Εάν δεν μπορείτε να φορτώσετε καμία σελίδα, ελέγξτε τη σύνδεση δεδομένων ή Wi-Fi της συσκευής σας.
+    <button id='wifi'>Ενεργοποίηση του Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Το αρχείο δεν βρέθηκε">
 <!ENTITY fileNotFound.longDesc "
@@ -27,6 +40,12 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Άρνηση πρόσβασης στο αρχείο">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Ενδέχεται να έχει διαγραφεί, μετακινηθεί, ή να μην επιτρέπεται η πρόσβαση λόγω των δικαιωμάτων του αρχείου.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
@@ -36,13 +55,35 @@
 <!ENTITY malformedURI.title "Η διεύθυνση δεν είναι έγκυρη">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
+<ul>
+  <li>Οι διευθύνσεις Ιστού γράφονται συνήθως με τη μορφή
+    <strong>http://www.example.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Αναζήτηση</button>
+    </div>
+  <li>Σιγουρευτείτε ότι χρησιμοποιείτε τις σωστές καθέτους (δηλαδή
+    <strong>/</strong>).</li>
+</ul>
+">
 
 <!ENTITY netInterrupt.title "Η σύνδεση διακόπηκε">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY notCached.title "Το έγγραφο έληξε">
+<!ENTITY notCached.longDesc "<p>Το έγγραφο που ζητήσατε δεν βρίσκεται στην προσωρινή μνήμη του &brandShortName;.</p><ul><li>Για λόγους ασφαλείας, ο &brandShortName; δεν επαναφορτώνει αυτόματα τα ευαίσθητα έγγραφα.</li><li>Πατήστε στο «Προσπαθήστε ξανά» για να επαναφορτώσετε το έγγραφο από την ιστοσελίδα.</li></ul>">
 
 <!ENTITY netOffline.title "Λειτουργία εργασίας χωρίς σύνδεση">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "
+<ul>
+  <li>Προσπαθήστε ξανά. Ο &brandShortName; θα επιχειρήσει να συνδεθεί και να επαναφορτώσει τη σελίδα.
+    <button id='wifi'>Ενεργοποίηση του Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Σφάλμα κωδικοποίησης περιεχομένου">
 <!ENTITY contentEncodingError.longDesc "
@@ -59,9 +100,17 @@
 ">
 
 <!ENTITY netReset.title "Έγινε διακοπή της σύνδεσης με τη σελίδα">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Υπέρβαση ορίου χρόνου της σύνδεσης">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "Δεν έγινε κατανοητή η διεύθυνση">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Ίσως να χρειάζεται να εγκαταστήσετε κάποιο άλλο πρόγραμμα για να ανοίξετε αυτή τη διεύθυνση.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "Ο διαμεσολαβητής αρνείται συνδέσεις">
 <!ENTITY proxyConnectFailure.longDesc "
@@ -75,6 +124,14 @@
 <!ENTITY proxyResolveFailure.title "Αδυναμία εύρεσης διαμεσολαβητή">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "
+<ul>
+  <li>Ελέγξτε τις ρυθμίσεις διαμεσολαβητή για να σιγουρευτείτε ότι είναι σωστές.</li>
+  <li>Ελέγξτε αν η συσκευή σας διαθέτει λειτουργική σύνδεση δεδομένων ή Wi-Fi.
+    <button id='wifi'>Ενεργοποίηση του Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "Η σελίδα δεν ανακατευθύνει σωστά">
 <!ENTITY redirectLoop.longDesc "
@@ -92,6 +149,12 @@
 ">
 
 <!ENTITY nssFailure2.title "Αποτυχία ασφαλούς σύνδεσης">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Η σελίδα που προσπαθείτε να δείτε δεν είναι δυνατό να εμφανιστεί επειδή δεν μπορεί να επαληθευτεί η αυθεντικότητα των ληφθέντων δεδομένων.</li>
+  <li>Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για αυτό το πρόβλημα.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Αποτυχία ασφαλούς σύνδεσης">
 <!ENTITY nssBadCert.longDesc2 "
@@ -104,10 +167,20 @@
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>Η σελίδα ενδέχεται να είναι προσωρινά μη διαθέσιμη ή πολύ απασχολημένη. Προσπαθήστε ξανά σε λίγο.</li>
+  <li>Εάν δεν μπορείτε να φορτώσετε καμία σελίδα, ελέγξτε τη σύνδεση δεδομένων ή Wi-Fi της συσκευής σας.
+    <button id='wifi'>Ενεργοποίηση του Wi-Fi</button>
+  </li>
+</ul>
+">
 
+<!ENTITY cspBlocked.title "Έχει αποκλειστεί από την πολιτική προστασίας περιεχομένου">
+<!ENTITY cspBlocked.longDesc "<p>Ο &brandShortName; εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν το επιτρέπει.</p>">
 
-<!ENTITY corruptedContentError.title "Σφάλμα κατεστραμμένου περιεχομένου">
-<!ENTITY corruptedContentError.longDesc "<p>Δεν είναι δυνατή η εμφάνιση αυτής της σελίδας επειδή υπήρξε ένα σφάλμα στην μεταγωγή δεδομένων.</p><ul><li>Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για το πρόβλημα.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Σφάλμα κατεστραμμένου περιεχομένου">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Η σελίδα την οποία προσπαθείτε να δείτε δεν μπορεί να εμφανιστεί διότι ανιχνεύθηκε ένα σφάλμα μετάδοσης δεδομένων.</p><ul><li>Παρακαλώ επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για αυτό το πρόβλημα.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ή μπορείτε να προσθέσετε μια εξαίρεση...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Να φύγω από εδώ!">
@@ -128,3 +201,17 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Απομακρυσμένο XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλούμε επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για αυτό το πρόβλημα.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Αποτυχία ασφαλούς σύνδεσης">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Πληροφορίες για προχωρημένους: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Η σύνδεση σας δεν είναι ασφαλής">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Πληροφορίες για προχωρημένους: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Η σύνδεση σας δεν είναι ασφαλής">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p>Το <span class='hostname'></span> χρησιμοποιεί τεχνολογίες ασφάλειας οι οποίες είναι παρωχημένες και ευάλωτες σε επιθέσεις. Ένας εισβολέας θα μπορούσε εύκολα να αποκτήσει πληροφορίες που θεωρούσατε ότι είναι ασφαλείς. Ο διαχειριστής της ιστοσελίδας πρέπει να επιδιορθώσει τον διακομιστή προτού μπορέσετε να επισκεφθείτε τη σελίδα.</p><p>Κωδικός σφάλματος: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
