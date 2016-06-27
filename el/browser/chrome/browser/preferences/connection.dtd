@@ -28,7 +28,12 @@
 <!ENTITY  ssl.accesskey                 "s">
 <!ENTITY  socks.label                   "Σύστημα SOCKS:">
 <!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socksRemoteDNS.label          "Απομακρυσμένο DNS">
+<!ENTITY  socksRemoteDNS.accesskey      "π">
 <!ENTITY  port.label                    "Θύρα:">
 <!ENTITY  HTTPport.accesskey            "ρ">
 <!ENTITY  SSLport.accesskey             "ρ">
@@ -39,3 +44,6 @@
 <!ENTITY  noproxyExplain.label          "Για παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Χρήση αυτού του διαμεσολαβητή για όλα τα πρωτόκολλα">
 <!ENTITY  shareproxy.accesskey          "δ">
+<!ENTITY  autologinproxy.label          "Να μην ζητείται έλεγχος ταυτοποίησης αν είναι αποθηκευμένος ο κωδικός">
+<!ENTITY  autologinproxy.accesskey      "μ">
+<!ENTITY  autologinproxy.tooltip        "Αυτή η επιλογή σας ταυτοποιεί σιωπηλά στους διαμεσολαβητές όταν έχετε αποθηκευμένα τα στοιχεία πρόσβασης για αυτούς. Θα ειδοποιηθείτε αν η ταυτοποίηση αποτύχει.">
