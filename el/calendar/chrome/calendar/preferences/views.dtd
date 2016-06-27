@@ -12,6 +12,7 @@
 <!ENTITY pref.calendar.view.multiweekview.caption "Προβολή πολλαπλών εβδομάδων">
 
 <!ENTITY pref.weekstarts.label "Αρχή της εβδομάδας την:">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Εμφάνιση αριθμού εβδομάδας σε προβολές και μίνι μήνα">
 <!ENTITY pref.daysoff.label "Να συμπεριληφθούν αυτές οι ημέρες στις εργάσιμες:">
 
 <!ENTITY pref.calendar.view.daystart.label "Η ημέρα ξεκινάει στις:">
@@ -19,6 +20,7 @@
 <!ENTITY pref.calendar.view.visiblehours.label "Εμφάνιση:">
 
 <!ENTITY pref.numberofweeks.label "Αριθμός εβδομάδων προς εμφάνιση (συμπεριλαμβανομένων των προηγούμενων εβδομάδων):">
+<!ENTITY pref.numberofweeks.accesskey "ε">
 <!ENTITY pref.numberofpreviousweeks.label "Προηγούμενες εβδομάδες προς εμφάνιση:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "Π">
 <!ENTITY pref.numberofweeks.0 "καμία">
