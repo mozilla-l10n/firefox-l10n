@@ -27,20 +27,21 @@
 
 <!ENTITY newWindowCmd.label           "Ifestile Entsha">
 <!ENTITY newWindowCmd.accesskey       "E">
-
+<!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "Vula Ifayili…">
 <!ENTITY openFileCmd.accesskey        "V">
-
+<!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "Vula Okusandukubakho">
 <!ENTITY openRecentMenu.accesskey     "O">
 
-
+<!ENTITY revertCmd.label              "Tshintshela…">
+<!ENTITY revertCmd.accesskey          "a">
 
 <!ENTITY saveFileCmd.label            "Gcina">
 <!ENTITY saveFileCmd.accesskey        "G">
-
+<!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "Gcina njenge…">
 <!ENTITY saveFileAsCmd.accesskey      "n">
@@ -52,23 +53,28 @@
 <!ENTITY viewMenu.label               "Jonga">
 <!ENTITY viewMenu.accesskey           "J">
 
+<!ENTITY lineNumbers.label             "Bonisa Amanani Elayini">
+<!ENTITY lineNumbers.accesskey         "A">
 
+<!ENTITY wordWrap.label                "Songela iTeksti">
+<!ENTITY wordWrap.accesskey            "S">
 
+<!ENTITY highlightTrailingSpace.label     "Balaselisa iSithuba Sokutreyila">
+<!ENTITY highlightTrailingSpace.accesskey "B">
 
-
-
-
-
-
+<!ENTITY largerFont.label             "IFonti Enkudlwana">
+<!ENTITY largerFont.accesskey         "n">
+<!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey2       "="> 
 
 <!ENTITY smallerFont.label            "Ifonti Encinci">
 <!ENTITY smallerFont.accesskey        "n">
-
+<!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "Isayizi Eqhelekileyo">
 <!ENTITY normalSize.accesskey         "I">
-
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "Hlela">
 <!ENTITY editMenu.accesskey           "H">
@@ -79,14 +85,14 @@
 
 <!ENTITY inspect.label                "Hlola">
 <!ENTITY inspect.accesskey            "H">
-
+<!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "Bonisa">
 <!ENTITY display.accesskey            "B">
-
+<!ENTITY display.key                  "l">
 
 <!ENTITY pprint.label                 "Ukuprinta i-Pretty">
-
+<!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "U">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -95,6 +101,8 @@
   -  (browser).
   -->
 
+<!ENTITY environmentMenu.label        "Okusingqongileyo">
+<!ENTITY environmentMenu.accesskey    "k">
 
 
 <!ENTITY contentContext.label         "Isiqulatho">
@@ -129,15 +137,20 @@
 
 <!ENTITY reloadAndRun.label           "Phinda ulowude Uze Uqhube">
 <!ENTITY reloadAndRun.accesskey       "n">
+<!ENTITY reloadAndRun.key             "r">
 
-
-
+<!ENTITY executeMenu.label            "Phumeza">
+<!ENTITY executeMenu.accesskey        "h">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
   -->
+
+<!ENTITY errorConsoleCmd.commandkey   "j">
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
+<!ENTITY evalFunction.label "Hlola Umsebenzi Wangoku">
+<!ENTITY evalFunction.accesskey "l">
 <!ENTITY evalFunction.key "e">
