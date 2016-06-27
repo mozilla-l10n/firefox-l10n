@@ -569,10 +569,10 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Ludicrous (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "L">
-<!ENTITY mediaLoop.label             "Loop">
-<!ENTITY mediaLoop.accesskey         "L">
+<!ENTITY mediaPlaybackRate200x2.label "Дупло брже (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "е">
+<!ENTITY mediaLoop.label             "Понављај">
+<!ENTITY mediaLoop.accesskey         "ј">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

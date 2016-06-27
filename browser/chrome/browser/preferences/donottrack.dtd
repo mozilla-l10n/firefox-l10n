@@ -9,5 +9,5 @@
 <!ENTITY doNotTrackCheckbox2.label    "Увек користи Не желим да ме прате">
 <!ENTITY doNotTrackCheckbox2.accesskey "к">
 
-<!ENTITY doNotTrackTPInfo.description "&brandShortName; ће послати сигнал да не желите да будете праћени када је Заштита од праћења укључена.">
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; ће послати сигнал да не желите да будете праћени када је заштита од праћења укључена.">
 <!ENTITY doNotTrackLearnMore.label    "Сазнајте више">
