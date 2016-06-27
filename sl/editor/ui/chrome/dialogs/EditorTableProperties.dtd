@@ -34,7 +34,7 @@
 <!ENTITY tableCaptionLeft.label           "Levo od tabele">
 <!ENTITY tableCaptionRight.label          "Desno od tabele">
 <!ENTITY tableCaptionNone.label           "Brez">
-<!ENTITY tableInheritColor.label           "(Naj bo barva strani prosojna)">
+<!ENTITY tableInheritColor.label           "(naj bo barva strani prosojna)">
 
 <!ENTITY cellSelection.label              "Izbira">
 <!ENTITY cellSelectCell.label             "Celica">
@@ -62,7 +62,7 @@
 <!ENTITY cellAlignMiddle.label            "Sredina">
 <!ENTITY cellAlignBottom.label            "Dno">
 <!ENTITY cellAlignJustify.label           "Poravnaj">
-<!ENTITY cellInheritColor.label           "(Naj bo barva tabele prosojna)">
+<!ENTITY cellInheritColor.label           "(naj bo barva tabele prosojna)">
 <!ENTITY cellUseCheckboxHelp.label        "Uporabi potrditvena polja za določanje lastnosti, ki naj se uporabijo za vse izbrane celice">
 
 <!-- Used in both Table and Cell panels  -->
