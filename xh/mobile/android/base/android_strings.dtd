@@ -82,7 +82,7 @@
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
-<!ENTITY bookmark_folder_items "Iiayithem ze-&amp;formatD">
+<!ENTITY bookmark_folder_items "Iiayithem ze-&formatD;">
 <!ENTITY bookmark_folder_one_item "1 iayithem">
 
 <!ENTITY reader_saved_offline "Igcinwe ngaphandle kwe-intanethi">
