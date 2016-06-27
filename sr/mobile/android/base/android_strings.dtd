@@ -414,7 +414,7 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; извештај здравља">
-<!ENTITY datareporting_fhr_summary2 "Дели податке са &vendorShortName; о здрављу вашег прегледача и помаже да разумете перформансе прегледача">
+<!ENTITY datareporting_fhr_summary2 "Дели податке са &vendorShortName;-ом о здрављу вашег прегледача и помаже да разумете перформансе прегледача">
 <!ENTITY datareporting_abouthr_title "Прикажи мој извештај здравља">
 <!ENTITY datareporting_telemetry_title "Телеметрија">
 <!ENTITY datareporting_telemetry_summary "Делите податке о перформансама, коришћењу, хардверу и подешавањима који се тичу прегледача са &vendorShortName;-ом да бисте нам помогли да учинимо &brandShortName; бољим">
@@ -423,7 +423,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Извештач о рушењу">
 <!ENTITY datareporting_wifi_title2 "Сервис за локацију">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Помозите &vendorShortName; да мапира свет! Поделите приближну Wi-Fi и мобилну локацију вашег уређаја да би унапредили сервис геолокације.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Помозите &vendorShortName;-и да мапира свет! Поделите приближну Wi-Fi и мобилну локацију вашег уређаја да би унапредили сервис геолокације.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
