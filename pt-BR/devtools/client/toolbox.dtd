@@ -167,7 +167,7 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 <!ENTITY options.stylesheetSourceMaps.label      "Mostrar códigos-fonte originais">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Mostrar códigos-fonte originais (por exemplo, arquivos Sass) no editor de estilos e na inspeção">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Show original sources (e.g. Sass files) in the Style Editor and Inspector">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
