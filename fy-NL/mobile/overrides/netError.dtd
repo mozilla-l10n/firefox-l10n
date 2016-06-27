@@ -176,8 +176,8 @@
 <!ENTITY cspBlocked.title "Blokkearre troch ynhâldsbefeiligingsbelied">
 <!ENTITY cspBlocked.longDesc "<p>De browser hat opkeard dat de side op dizze manier laden wurd, omdat de side in ynhâldsbefeiligingsbelied hat dat dit net tastiet.</p>">
 
-<!ENTITY corruptedContentError.title "Korruptearre ynhâldsflater">
-<!ENTITY corruptedContentError.longDesc "<p>De side dy't jo probearje te besjen kin net toand wurde omdat der in flater yn de gegevensoerdracht ûntdekt waard.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Skansearre-ynhâldsflater">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>De side dy't jo besjen wolle kin net werjûn wurde, omdat der in flater yn de gegevensoerdracht detektearre is.</p><ul><li>Nim kontakt op mei de website-eigners om se oer dit probleem te ynformearjen.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Of jo kinne in útsûndering tafoegje...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Helje My Hjir út!">
