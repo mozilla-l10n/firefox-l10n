@@ -8,8 +8,8 @@
 
 <!ENTITY privateBrowsing.title                           "സ്വകാര്യ ബ്രൗസിങ്">
 
-
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "നിങ്ങള്‍ സ്വകാര്യ ജാലകത്തില്‍ ബ്രൗസ് ചെയ്യുമ്പോള്‍, ഫയര്‍ഫോക്സ് ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "സൂക്ഷിക്കുന്നില്ല">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "സന്ദര്‍ശിച്ച താളുകള്‍">
 <!ENTITY aboutPrivateBrowsing.info.searches              "തെരയലുകള്‍">
@@ -21,11 +21,11 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads             "ഡൗണ്‍ലോഡുകള്‍">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY aboutPrivateBrowsing.note.before                "സ്വകാര്യ ബ്രൗസിങ് ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "നിങ്ങളെ അജ്ഞാതനാക്കുന്നില്ല">
+<!ENTITY aboutPrivateBrowsing.note.after                 " ഇന്റര്‍നെറ്റില്‍. നിങ്ങളുടെ സ്ഥാപത്തിനോ അല്ലെങ്കില്‍ ഇന്റര്‍നെറ്റ് സേവന ദാതാവിനോ നിങ്ങള്‍ സന്ദര്‍ശിക്കുന്ന പേജുകള്‍ കാണാം എന്ന് ഓര്‍മ്മിക്കുക.">
 
-
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "സ്വകാര്യ ബ്രൗസിങ്">
 
 <!ENTITY trackingProtection.title                        "പിന്തുടരല്‍ സംരക്ഷണം">
 
-
+<!ENTITY trackingProtection.startTour1                   "എങ്ങനെ ഇത് പ്രവര്‍ത്തിക്കുന്നു എന്ന് കാണുക">
