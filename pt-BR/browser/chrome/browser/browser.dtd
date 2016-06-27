@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "A conexão com este site não é privativa. As informações que enviar (tais como senhas, mensagens, cartões de créditos, etc.) podem ser vistas por outros.">
 <!ENTITY identity.description.insecureLoginForms "As informações de login que você inserir nesta página não estão seguras e podem ser comprometidas.">
-<!ENTITY identity.description.weakCipher "A conexão com este website usa criptografia fraca e não é privada.">
+<!ENTITY identity.description.weakCipher "A conexão com este website usa criptografia fraca e não é privativa.">
 <!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do site web.">
 <!ENTITY identity.description.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">
 <!ENTITY identity.description.passiveLoaded "A sua coneção não é privativa e a informação que compartilha com o site pode ser vista por outros.">
