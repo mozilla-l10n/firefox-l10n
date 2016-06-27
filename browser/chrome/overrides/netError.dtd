@@ -72,7 +72,7 @@ do seu computador.</li> 
 <li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li> 
 </ul>">
 
-<!ENTITY netReset.title "Conexão reiniciada">
+<!ENTITY netReset.title "A conexão foi redefinida">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Tempo limite atingido">
