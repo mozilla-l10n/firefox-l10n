@@ -27,7 +27,7 @@
 <!ENTITY firstrun_tabqueue_subtext_off "Gcinela iilinki ixesha elizayo kwi&brandShortName; xa uzicofa kwezinye iiapp.">
 
 <!ENTITY firstrun_tabqueue_message_on "Impumelelo!">
-<!ENTITY firstrun_tabqueue_subtext_on "Nanini ungayicima le nto kwii&setingi; under &pref_category_general;.">
+
 
 <!ENTITY firstrun_readerview_title "Amanqaku">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
