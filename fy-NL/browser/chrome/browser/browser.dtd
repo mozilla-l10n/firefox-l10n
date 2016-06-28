@@ -180,8 +180,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardButton.tooltip        "Ien side foarút gean">
 <!ENTITY backForwardButtonMenu.tooltip "Klik mei rjochts of hâld yndrukt om skiednis te toanen">
 <!ENTITY backForwardButtonMenuMac.tooltip "Hâld yndrukt om skiednis te toanen">
-<!ENTITY reloadCmd.label              "Op 'e nij lade">
-<!ENTITY reloadButton.tooltip         "Dizze side op 'e nij lade">
+<!ENTITY reloadCmd.label              "Opnij lade">
+<!ENTITY reloadButton.tooltip         "Dizze side opnij lade">
 <!ENTITY stopCmd.label                "Beëinigje">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ophâlde mei it laden fan dizze side">
@@ -277,7 +277,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.label                "Ungedien meitsje">  
 <!ENTITY undoCmd.key                  "Z">  
 <!ENTITY undoCmd.accesskey            "U"> 
-<!ENTITY redoCmd.label                "Op 'e nij útfiere">  
+<!ENTITY redoCmd.label                "Opnij útfiere">  
 <!ENTITY redoCmd.key                  "Y">  
 <!ENTITY redoCmd.accesskey            "O"> 
 <!ENTITY cutCmd.label                 "Knippe">  
@@ -662,10 +662,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label "Sykje yn dizze side…">
+<!ENTITY findOnCmd.label "Sykje op dizze side…">
 <!ENTITY findOnCmd.accesskey "S">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Op 'e nij sykje">
+<!ENTITY findAgainCmd.label "Opnij sykje">
 <!ENTITY findAgainCmd.accesskey "s">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
@@ -685,7 +685,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Ynfierde oanmeldingen op dizze side soenen oernommen wurde kinne.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; hat ûnderdielen op dizze side dy't net befeilige binne blokkearre.">
+<!ENTITY identity.activeBlocked "&brandShortName; hat ûnderdielen fan dizze side dy't net befeilige binne blokkearre.">
 <!ENTITY identity.passiveLoaded "Underdielen fan dizze side binne net befeilige (lykas ôfbyldingen).">
 <!ENTITY identity.activeLoaded "Jo hawwe befeiliging op dizze side útskeakele.">
 <!ENTITY identity.weakEncryption "Dizze side brûkt swakke befeiliging.">

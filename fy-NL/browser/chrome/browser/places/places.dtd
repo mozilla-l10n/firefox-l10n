@@ -87,7 +87,7 @@
 <!ENTITY col.visitcount.label  					"Besykteller">
 <!ENTITY col.description.label  				"Omskriuwing">
 <!ENTITY col.dateadded.label  					"Tafoege">
-<!ENTITY col.lastmodified.label  				"Lêst oanpast">
+<!ENTITY col.lastmodified.label  				"Lêst wizige">
 
 <!ENTITY search.label  							"Sykje:">
 <!ENTITY search.accesskey  						"S">
@@ -114,11 +114,11 @@
 <!ENTITY view.accesskey           "B">
 <!ENTITY byDate.label             "Op datum">
 <!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Op webstee">
+<!ENTITY bySite.label             "Op website">
 <!ENTITY bySite.accesskey         "w">
 <!ENTITY byMostVisited.label      "Op meast besocht">
 <!ENTITY byMostVisited.accesskey  "m">
 <!ENTITY byLastVisited.label      "Op lêst besocht">
 <!ENTITY byLastVisited.accesskey  "l">
-<!ENTITY byDayAndSite.label       "Op datum en webstee">
+<!ENTITY byDayAndSite.label       "Op datum en website">
 <!ENTITY byDayAndSite.accesskey   "e">
