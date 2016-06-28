@@ -7,9 +7,10 @@
 <!ENTITY safeb.palm.reportPage.label "¿Por qué fue bloqueada esta página?">
 <!ENTITY safeb.palm.whyForbidden.label "¿Por qué fue bloqueada esta página?">
 
-<!ENTITY safeb.blocked.malwarePage.title "¡Página reportada como fraudulenta!">
+<!ENTITY safeb.blocked.malwarePage.title "¡Sospecha de sitio malicioso!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Este sitio en <span id='malware_sitename'/> ha sido reportado como un sitio malicioso y ha sido bloqueado en base a tus preferencias de seguridad.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Las páginas maliciosas intentan instalar programas que roban información privada, usan tu computador para atacar a otras, o dañar tu sistema</p><p>Algunas páginas fraudulentas distribuyen intencionalmente programas perjudiciales, pero muchas se ven comprometidas sin el conocimiento o permiso de sus dueños.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "¡Sitio fraudulento!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -18,6 +19,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "¡Sitio sospechoso de software indeseable!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Este sitio en <span id='unwanted_sitename'/> ha sido reportado por contener software no deseado y ha sido bloqueado en base a tus preferencias de seguridad.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Las páginas de software no deseado intentan instalar software que puede ser engañoso y afectar su sistema de formas inesperadas.">
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Sitio bloqueado">

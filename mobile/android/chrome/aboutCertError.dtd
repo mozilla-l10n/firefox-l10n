@@ -23,6 +23,8 @@ was trying to connect. -->
 <!ENTITY certerror.getMeOutOfHere.label "¡Sácame de aquí!">
 
 <!ENTITY certerror.expert.heading "Entiendo los riegos">
+<!ENTITY certerror.expert.content "Si entiendes que está pasando, puedes decirle a &brandShortName; que empiece a confiar en la identificación del sitio. <b>Incluso si confías en el sitio, este error podría significar que alguien está interfiriendo tu conexión.</b>">
+<!ENTITY certerror.expert.contentPara2 "No añadas una excepción a menos que haya una buena razón para que este sitio no use una identificación confiable.">
 <!ENTITY certerror.addTemporaryException.label "Visitar sitio">
 <!ENTITY certerror.addPermanentException.label "Añadir una excepción permanente">
 
