@@ -27,6 +27,9 @@
 </ul>">
 
 <!ENTITY fileAccessDenied.title "El acceso al archivo fue denegado">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>Puede haber sido removido o movido, o puede que los permisos del archivo prevengan el acceso.</li>
+</ul>">
 
 <!ENTITY generic.title "Chita.">
 <!ENTITY generic.longDesc "
@@ -83,6 +86,10 @@
 </ul>">
 
 <!ENTITY unknownSocketType.title "Respuesta inesperada del servidor">
+<!ENTITY unknownSocketType.longDesc "<ul>
+  <li>Revisa para asegurarse de que tu sistema tiene el administrador de seguridad personal instalado.</li>
+  <li>Esto puede ocurrir por una configuración no estándar en el servidor.</li>
+</ul>">
 
 <!ENTITY nssFailure2.title "Falló la conexión segura">
 
@@ -91,8 +98,11 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY cspBlocked.title "Bloqueado por la política de seguridad de contenido">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; previno que esta página cargara de esta forma porque la página contiene una política de seguridad de contenido que no lo permite.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contenido corrupto">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La página que estás intentando ver no puede ser mostrada por que se detectó un error en la transmisión de datos.</p><ul><li>Por favor, contacta al dueño del sitio web para informarle de este problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O puedes añadir una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sácame de aquí!">
