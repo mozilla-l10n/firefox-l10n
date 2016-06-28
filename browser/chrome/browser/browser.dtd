@@ -474,8 +474,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameSourceCmd.accesskey "ដ">
 <!ENTITY viewPageInfoCmd.label        "មើល​ព័ត៌មាន​ទំព័រ">
 <!ENTITY viewPageInfoCmd.accesskey    "ព">
-<!ENTITY viewFrameInfoCmd.label       "មើល​ព័ត៌មានស៊ុម">
-<!ENTITY viewFrameInfoCmd.accesskey   "ស">
+<!ENTITY viewFrameInfoCmd.label       "មើល​ព័ត៌មាន​ស៊ុម">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "ផ្ទុក​រូបភាព​ឡើង​វិញ">
 <!ENTITY reloadImageCmd.accesskey     "ក">
 <!ENTITY viewImageCmd.label           "មើល​រូបភាព">
