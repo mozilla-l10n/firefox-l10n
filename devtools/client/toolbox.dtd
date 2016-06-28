@@ -111,7 +111,7 @@
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
 <!ENTITY options.disableHTTPCache.label     "Díchumasaigh an Taisce HTTP (nuair a bhíonn an bosca uirlisí oscailte)">
-
+<!ENTITY options.disableHTTPCache.tooltip   "Díchumasaíonn an rogha seo an taisce HTTP do chluaisíní a bhfuil an bosca uirlisí oscailte iontu. Ní théann an rogha seo i bhfeidhm ar Oibrithe Seirbhíse.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->

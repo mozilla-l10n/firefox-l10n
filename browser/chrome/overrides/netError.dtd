@@ -110,6 +110,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime "<p>Ní féidir ceangal slán a bhunú le <span id='wrongSystemTime_URL'/> toisc nach bhfuil clog do ríomhaire ar an am ceart.</p> <p>Síleann do ríomhaire gurb é <span id='wrongSystemTime_systemDate'/> an t-am, ach is é <span id='wrongSystemTime_actualDate'/> an t-am ceart. Chun an fhadhb seo a réiteach, ceartaigh an dáta agus an t-am ar do ríomhaire.</p> ">
+
 <!ENTITY certerror.pagetitle1  "Ceangal Neamhshlán">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Úsáideann an suíomh seo HTTP Strict Transport Security (HSTS) le cinntiú go gceanglaíonn &brandShortName; leis trí cheangal slán. Dá bharr seo, ní féidir eisceacht a chruthú don teastas seo.">
 <!ENTITY certerror.copyToClipboard.label "Cóipeáil an téacs go dtí an ghearrthaisce">
