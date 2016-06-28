@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabCrashed.header "一个坏消息：此标签页已经崩溃">
-<!ENTITY tabCrashed.message "接着一个好消息：您只需选择关闭此标签页，恢复它，或者恢复所有已崩溃的标签页。">
+<!ENTITY tabCrashed.message "好消息是：您可以选择关闭此标签页，恢复此标签页，或者恢复所有已崩溃的标签页。">
 <!ENTITY tabCrashed.sendReport "提交崩溃报告以帮助我们解决问题">
 <!ENTITY tabCrashed.includeURL "包含我所浏览页面的网址">
 <!ENTITY tabCrashed.commentPlaceholder "加上附注（附注公开可见）">
