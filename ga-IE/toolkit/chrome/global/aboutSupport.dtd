@@ -86,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafaic">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "Bunachar Sonraí Áiteanna">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Sláine">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Deimhnigh an tSláine">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Bailitheoir Dramhaíola Incriminteach">
@@ -114,6 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Logchomhad Clistí">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Logchomhad Cinntí">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Gnéithe Díchumasaithe ag an gCosantóir Tuairteála">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Seifteanna">
