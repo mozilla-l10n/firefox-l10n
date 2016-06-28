@@ -9,6 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Plein écran">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Sortie du mode plein écran">
 <!ENTITY castingButton.castingLabel "Diffuser sur l’écran">
+<!ENTITY closedCaption.off "Désactivés">
 
 <!ENTITY stats.media "Média">
 <!ENTITY stats.size "Taille">
