@@ -99,7 +99,7 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
-
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> folosește tehnologie de securitate care este învechită și vulnerabilă la atac. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai a fi în siguranță.">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
@@ -109,5 +109,6 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește tehnologie de securitate care este învechită și vulnerabilă la atac. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai a fi în siguranță. Administratorul site-ului web va trebui să repare serverul mai întâi înainte să poți vizita site-ul.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 
