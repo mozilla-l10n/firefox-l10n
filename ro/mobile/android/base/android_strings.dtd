@@ -28,10 +28,13 @@
 <!ENTITY firstrun_tabqueue_message_on "Succes!">
 
 
+<!ENTITY firstrun_readerview_title "Articole">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-
+<!ENTITY firstrun_readerview_subtext "Folosește modul lectură pentru a face citirea articolelor mai plăcută \u2014 chiar și offline.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!ENTITY firstrun_account_title "Tu">
+<!ENTITY firstrun_account_message "Ai &brandShortName; pe alt dispozitiv?">
 
 <!ENTITY  onboard_start_restricted1 "Rămâi în siguranță și păstrează controlul cu această versiune simplificată de &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -77,6 +80,8 @@
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
+<!ENTITY bookmark_folder_items "&formatD; elemente">
+<!ENTITY bookmark_folder_one_item "1 element">
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
