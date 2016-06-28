@@ -75,25 +75,25 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "របារ​ម៉ឺនុយ">
 <!ENTITY menubarCmd.accesskey "រ">
 <!ENTITY navbarCmd.label "របារ​ឧបករណ៍​រុករក​">
-<!ENTITY personalbarCmd.label "របារ​ឧបករណ៍ចំណាំ">
-<!ENTITY personalbarCmd.accesskey "ច">
+<!ENTITY personalbarCmd.label "របារ​ឧបករណ៍​ចំណាំ">
+<!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ធាតុ​របារ​ឧបករណ៍​​ចំណាំ">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "ផ្ទុកផ្ទាំង​ទាំងអស់​ឡើងវិញ">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ផ">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "​">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "មិនធ្វើវិញ​នូវ​ការ​បិទ​ផ្ទាំង">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ម">
 
 <!ENTITY pageSourceCmd.label "ប្រភព​ទំព័រ">
 <!ENTITY pageSourceCmd.accesskey "ប">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "ព័ត៌មានទំព័រ">
-<!ENTITY pageInfoCmd.accesskey "ទ">
+<!ENTITY pageInfoCmd.label "ព័ត៌មាន​ទំព័រ">
+<!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "ផ្ទាំង​ឆ្លុះ">
-<!ENTITY mirrorTabCmd.accesskey "ផ">
+<!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "បើកពេញ​អេក្រង់">
@@ -103,8 +103,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.label "ពេញ​អេក្រង់">
 <!ENTITY fullScreenCmd.accesskey "ព">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "បង្ហាញ​ផ្ទាំងទាំងអស់">
-<!ENTITY showAllTabsCmd.accesskey "ទ">
+<!ENTITY showAllTabsCmd.label "បង្ហាញ​ផ្ទាំង​ទាំងអស់">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "ចូល​ទៅកាន់ &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "បើក​ចំណូលចិត្ត &syncBrand.shortName.label;">
@@ -166,9 +166,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "ជាវ​ទំព័រ​នេះ…">
 <!ENTITY addCurPagesCmd.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
 <!ENTITY showAllBookmarks2.label "បង្ហាញ​ចំណាំ​ទាំងអស់">
-<!ENTITY recentBookmarks.label "បាន​ចំណាំ​ថ្មីៗ">
-<!ENTITY otherBookmarksCmd.label "ចំណាំ​ផ្សេង​ៗ">
-<!ENTITY bookmarksToolbarChevron.tooltip "បង្ហាញ​ចំណាំ​​ច្រើន​ទៀត">
+<!ENTITY recentBookmarks.label "ដែល​បាន​ចំណាំ​ថ្មីៗ">
+<!ENTITY otherBookmarksCmd.label "ចំណាំ​ផ្សេង​ៗ​ទៀត">
+<!ENTITY bookmarksToolbarChevron.tooltip "បង្ហាញ​ចំណាំ​​ថែមទៀត">
 <!ENTITY showRecentlyBookmarked.label     "បង្ហាញ​ចំណាំ​ថ្មីៗ">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.label     "លាក់​ចំណាំ​ថ្មីៗ">
@@ -195,7 +195,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      It is not possible to see them visually in the UI. -->
 <!ENTITY urlbar.defaultNotificationAnchor.label         "មើល​ការ​ជូនដំណឹង">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "មើល​សំណើ​ទីតាំង">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "មើល​សារ​ដំឡើង​កម្មវិធី​ផ្នែក​បន្ថែម">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "មើល​សារ​អំពី​ការ​ដំឡើង​កម្មវិធី​បន្ថែម">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "មើលសារអំពីការផ្ទុកក្រៅបណ្តាញរបស់កម្មវិធី">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "គ្រប់គ្រងព័ត៌មាន​ការ​ចូល​របស់​អ្នក">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "គូសគ្រីសប្រសិនបើអ្នកចង់រក្សាទុកពាក្យសម្ងាត់របស់អ្នក">
@@ -212,7 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pointerLockNotificationAnchor.label     "ប្ដូរ​ថា​តើ​វេបសាយ​អាច​លាក់​សញ្ញា​ព្រួញ">
 <!ENTITY urlbar.servicesNotificationAnchor.label        "មើល​សារពីការ​ដំឡើង​សេវាកម្ម">
 <!ENTITY urlbar.translateNotificationAnchor.label       "បក​ប្រែ​ទំព័រ​នេះ">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "គ្រប់​គ្រង​ទំព័រ​បក​ប្រែ​">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "គ្រប់​គ្រង​ការ​បកប្រែ​ទំព័រ">
 <!ENTITY urlbar.emeNotificationAnchor.label             "គ្រប់គ្រងការប្រើប្រាស់កម្មវិធី DRM">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "បង្ហាញ​ប្រវត្តិ">
@@ -468,8 +468,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "មើល​កូដ​​ទំព័រ">
-<!ENTITY viewPageSourceCmd.accesskey  "ល">
+<!ENTITY viewPageSourceCmd.label      "មើល​កូដ​ទំព័រ">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "មើល​កូដ​ស៊ុម">
 <!ENTITY viewFrameSourceCmd.accesskey "ដ">
 <!ENTITY viewPageInfoCmd.label        "មើល​ព័ត៌មាន​ទំព័រ">
