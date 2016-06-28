@@ -55,7 +55,7 @@
 <!ENTITY  finishedBackground.name         "Nuashonrú:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Suiteálfar an nuashonrú an chéad uair eile a atosóidh &brandShortName;. Is féidir leat &brandShortName; a atosú anois nó leanúint ag obair agus é a atosú níos déanaí.">
-
+<!ENTITY  finishedBackground.moreElevated "Is é riarthóir an chórais amháin atá in ann an nuashonrú seo a chur i bhfeidhm. Suiteálfar é an chéad uair eile a atosóidh &brandShortName;. Is féidir leat &brandShortName; a atosú anois, leanúint ag obair agus é a atosú ar ball, nó an nuashonrú seo a dhiúltú.">
 
 <!ENTITY  update.details.label            "Mionsonraí">
 <!ENTITY  update.installedOn.label        "Suiteáilte ar:">
