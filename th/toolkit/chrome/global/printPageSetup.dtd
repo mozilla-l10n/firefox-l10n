@@ -10,13 +10,13 @@
 
 <!ENTITY formatGroup.label   "รูปแบบ">
 
-<!ENTITY orientation.label   "ทิศทาง :">
+<!ENTITY orientation.label   "ทิศทาง:">
 <!ENTITY portrait.label      "แนวตั้ง">
 <!ENTITY portrait.accesskey  "ต">
 <!ENTITY landscape.label     "แนวนอน">
 <!ENTITY landscape.accesskey "น">
 
-<!ENTITY scale.label         "มาตราส่วน :">
+<!ENTITY scale.label         "มาตราส่วน:">
 <!ENTITY scale.accesskey     "ม">
 <!ENTITY scalePercent        "&#037;">
 

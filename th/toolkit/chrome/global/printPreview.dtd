@@ -9,8 +9,8 @@
 <!ENTITY page.label           "หน้า:">
 <!ENTITY page.accesskey       "น">
 <!ENTITY of.label             "จาก">
-<!ENTITY scale.label          "อัตราส่วน:">
-<!ENTITY scale.accesskey      "อ">
+<!ENTITY scale.label          "มาตราส่วน:">
+<!ENTITY scale.accesskey      "ม">
 <!ENTITY portrait.label       "แนวตั้ง">
 <!ENTITY portrait.accesskey   "ง">
 <!ENTITY landscape.label      "แนวนอน">

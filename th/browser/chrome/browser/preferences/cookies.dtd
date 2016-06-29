@@ -21,7 +21,7 @@
 <!ENTITY     props.path.label               "พาธ :">
 <!ENTITY     props.secure.label             "ส่งเพื่อ :">
 <!ENTITY     props.expires.label            "หมดอายุ :">
-
+<!ENTITY     props.container.label          "คอนเทนเนอร์:">
 
 <!ENTITY     window.title                   "คุกกี้">
 <!ENTITY     windowClose.key                "w">

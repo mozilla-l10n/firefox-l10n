@@ -31,6 +31,8 @@
      - as the first child of the current node
      - as the last child of the current node -->
 
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "วาง…">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "ง">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
