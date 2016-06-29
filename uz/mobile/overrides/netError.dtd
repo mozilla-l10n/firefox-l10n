@@ -118,3 +118,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Ulanish xavfsiz emas">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> hujumlarga chidamsiz va eskirgan xavfsizlik texnonolgiyasidan foydalanadi. Xakker siz xavfsiz deb o‘ylaydigan ma’lumotlarni osongina ochib ko‘rishi mumkin. Siz saytga kira olishingiz uchun avvalo sayt administratori serverni to‘g‘rilashi kerak.</p><p>Xatolik kodi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

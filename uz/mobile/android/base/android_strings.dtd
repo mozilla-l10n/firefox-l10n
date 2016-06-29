@@ -23,14 +23,20 @@
 
 <!ENTITY firstrun_tabqueue_title "Havolalar">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Ichki oynani navbatga qo‘yishni yoqish">
+<!ENTITY firstrun_tabqueue_subtext_off "&brandShortName; ichidagi havolalarni keyinroq boshqa ilovalarda ochish uchun saqlang.">
 
+<!ENTITY firstrun_tabqueue_message_on "Muvaffaqiyatli!">
+<!ENTITY firstrun_tabqueue_subtext_on "Siz doimo uni &pref_category_general; ostidagi &settings; orqali yoqishingiz mumkin.">
 
-
-
+<!ENTITY firstrun_readerview_title "Maqolalar">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-
+<!ENTITY firstrun_readerview_message "Tartibsizlikdan qutuling">
+<!ENTITY firstrun_readerview_subtext "Maqolalarni o‘qishni osonlashtirish \u2014 oflayn o‘qish uchun \&quot;Oqish rejimi\&quot;dan foydalaning.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!ENTITY firstrun_account_title "Siz">
+<!ENTITY firstrun_account_message "&brandShortName; boshqa qurilmangizda bormi?">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName;ning soddalashtirilgan versiyasi bilan osongina boshqaring va xavfsiz qoling.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -51,7 +57,7 @@
 <!ENTITY  crash_allow_contact2 "&vendorShortName;ga ushbu ma’lumot haqida men bilan bog‘lainishiga ruxsat berman">
 <!ENTITY  crash_email "E-pochtangiz">
 <!ENTITY  crash_closing_alert "Nosozlik ma’lumotini jo‘natmasdan chiqilsinmi?">
-<!ENTITY  sending_crash_report "Nosozlik ma’lumoti\u2026 ni jo‘natish">
+<!ENTITY  sending_crash_report "Nosozlik ma’lumoti\u2026ni jo‘natish">
 <!ENTITY  crash_close_label "Yopish">
 <!ENTITY  crash_restart_label "&brandShortName;ni qayta ishga tushirish">
 
@@ -72,10 +78,12 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Ekran rasmlari">
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "O‘qish rejimi">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
+<!ENTITY bookmark_folder_items "&formatD; ta element">
+<!ENTITY bookmark_folder_one_item "1 ta element">
 
 <!ENTITY reader_saved_offline "Qurilma xotirasiga saqlandi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -302,8 +310,10 @@
 <!ENTITY content_notification_title_plural "&formatD; ta sayt yangilandi">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Sozlamalar">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Hozir o‘qish">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -437,12 +447,12 @@ size. -->
 <!ENTITY share_image_failed "Rasm bo‘lishiilmadi">
 <!ENTITY save_as_pdf "PDF sifatida saqlash">
 <!ENTITY print "Chop qilish">
-
-
+<!ENTITY find_in_page "Sahifadan topish">
+<!ENTITY desktop_mode "Saytning to‘liq versiyasi">
 <!ENTITY page "Sahifa">
 <!ENTITY tools "Asboblar">
-
-
+<!ENTITY new_tab "Yangi ichki oyna">
+<!ENTITY new_private_tab "Yangi maxfiy ichki oyna">
 <!ENTITY close_all_tabs "Barcha ichki oynalarni yopish">
 <!ENTITY close_private_tabs "Maxfiy ichki oynalarni yopish">
 <!ENTITY tabs_normal "Ichki oynalar">
@@ -452,6 +462,8 @@ size. -->
 <!ENTITY set_image_chooser_title "Rasm sifatida o‘rnatish">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Sahifadan topish">
 <!ENTITY find_prev "Oldingi">
 <!ENTITY find_next "Keyingi">
 <!ENTITY find_close "Yopish">
@@ -550,10 +562,11 @@ size. -->
 
 <!ENTITY home_title "&brandShortName; bosh sahifasi">
 <!ENTITY home_history_title "Tarix">
-
-
+<!ENTITY home_synced_devices_smartfolder "Sinxronlangan qurilmalar">
+<!ENTITY home_synced_devices_number "&formatD; qurilmalar">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-
+<!ENTITY home_synced_devices_one "1 ta qurilma">
+<!ENTITY home_history_back_to2 "To‘liq tarixga qaytish">
 <!ENTITY home_clear_history_button "Brauzer tarixini tozalash">
 <!ENTITY home_clear_history_confirm "Haqiqatan ham brauzer tarixini tozalamoqchimisiz?">
 <!ENTITY home_bookmarks_empty "Bu yerda ko‘rinishi uchun siz saqlagan xatcho‘plar.">
@@ -791,8 +804,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "Oflayn o‘qish">
 <!ENTITY helper_first_offline_bookmark_message "Oflayn bo‘lganda ham O‘qish rejimidagi elementlar xatcho‘plar ichidan topilsin.">
+<!ENTITY helper_first_offline_bookmark_button "Xatcho‘plarga o‘tish">
 
-
-
-
+<!ENTITY helper_triple_readerview_open_title "Oflayn mavjud">
+<!ENTITY helper_triple_readerview_open_message "\&quot;O‘qish rejimi\&quot;dagi saytlarni oflayn o‘qish uchun xatcho‘plarga qo‘shing.">
+<!ENTITY helper_triple_readerview_open_button "Xatcho‘plarga qo‘shish">
 
