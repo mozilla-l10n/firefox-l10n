@@ -96,6 +96,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Gevorderde inligting: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Die verbinding is nie beveilig nie">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Gevorderde inligting: SSL_ERROR_NO_CYPHER_OVERLAP">
@@ -105,9 +106,11 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.pagetitle1  "Onveilige verbinding">
 
+<!ENTITY certerror.copyToClipboard.label "Kopieer teks na die knipbord">
 
-
+<!ENTITY inadequateSecurityError.title "Die verbinding is nie beveilig nie">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

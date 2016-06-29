@@ -246,4 +246,4 @@
      being a link to an external site. -->
 <!ENTITY disabledUnsigned.devInfo.start "Ontwikkelaars wat hulle byvoegings wil laat verifieer kan gerus ons ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "handleiding">
-<!ENTITY disabledUnsigned.devInfo.end "lees.">
+<!ENTITY disabledUnsigned.devInfo.end " lees.">
