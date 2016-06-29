@@ -477,13 +477,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameInfoCmd.label       "មើល​ព័ត៌មាន​ស៊ុម">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "ផ្ទុក​រូបភាព​ឡើង​វិញ">
-<!ENTITY reloadImageCmd.accesskey     "ក">
+<!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "មើល​រូបភាព">
 <!ENTITY viewImageCmd.accesskey       "ព">
 <!ENTITY viewImageInfoCmd.label       "មើល​ព័ត៌មាន​របស់​រូបភាព">
 <!ENTITY viewImageInfoCmd.accesskey   "រ">
-<!ENTITY viewImageDescCmd.label       "មើល​​ព័ត៌មានលម្អិត">
-<!ENTITY viewImageDescCmd.accesskey   "ល">
+<!ENTITY viewImageDescCmd.label       "មើល​សេចក្ដី​ពណ៌នា">
+<!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "មើល​វីដេអូ">
 <!ENTITY viewVideoCmd.accesskey       "ល">
 <!ENTITY viewBGImageCmd.label         "មើល​រូបភាព​ផ្ទៃ​ខាងក្រោយ">

@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "អ">
 <!ENTITY blockAutoRefresh.label          "ព្រមាន​ខ្ញុំ នៅ​ពេល​ដែល​​តំបន់បណ្ដាញ​ព្យាយាម​ប្ដូរ​ទិស ឬ​ផ្ទុក​ទំព័រ​ឡើងវិញ">
 <!ENTITY blockAutoRefresh.accesskey      "ន">
-
-
+<!ENTITY useOnScreenKeyboard.label       "បង្ហាញ​ក្ដារចុច​ប៉ះ​នៅ​ពេល​ចាំបាច់">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "រក​មើល">
 
