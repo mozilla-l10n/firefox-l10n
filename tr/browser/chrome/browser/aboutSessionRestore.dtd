@@ -13,9 +13,9 @@
 <!ENTITY restorepage.startNew       "Tamamen yeni bir tarama oturumu başlatmak">
 
 <!ENTITY restorepage.tryagainButton "Geri getir">
-<!ENTITY restorepage.restore.access "K">
+<!ENTITY restorepage.restore.access "G">
 <!ENTITY restorepage.closeButton    "Kapat">
-<!ENTITY restorepage.close.access   "a">
+<!ENTITY restorepage.close.access   "K">
 
 <!ENTITY restorepage.restoreHeader  "Geri getir">
 <!ENTITY restorepage.listHeader     "Pencereler ve sekmeler">
