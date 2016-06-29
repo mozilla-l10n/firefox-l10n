@@ -164,7 +164,7 @@
 
 <!ENTITY devicepreference_title "Preferințele pentru dispozitiv">
 <!ENTITY devicepreference_search "Preferințe de căutare">
-<!ENTITY devicepreference_newname "Nume pentru preferință nouă">
+<!ENTITY devicepreference_newname "Nume pentru preferința nouă">
 <!ENTITY devicepreference_newtext "Valoare preferință">
 <!ENTITY devicepreference_addnew "Adăugați preferință nouă">
 <!-- Device Settings -->
