@@ -76,6 +76,8 @@
      - edit attribute
      - remove attribute -->
 
+<!ENTITY inspectorAttributesSubmenu.label      "Атрибути">
+<!ENTITY inspectorAttributesSubmenu.accesskey  "А">
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
@@ -136,7 +138,7 @@
      shown in the inspector contextual-menu for the item that lets users
      duplicate the currently selected node. -->
 
-<!ENTITY inspectorDuplicateNode.label       "Д&amp;ублиране на възела">
+<!ENTITY inspectorDuplicateNode.label       "Дублиране на възела">
 <!-- LOCALIZATION NOTE (inspectorAddNode.label): This is the label shown in
      the inspector toolbar for the button that lets users add elements to the
      DOM (as children of the currently selected element). -->

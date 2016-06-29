@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Сървърът не е намерен">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Проверете адреса за правописни грешки, като например <strong>ww</strong>.example.com вместо <strong>www</strong>.example.com</li> <li>Ако не можете да заредите каквато и да е страница,  проверете хардуера.</li> <li>Ако компютърът ви е зад защитна стена или прокси, проверете дали на &brandShortName; е разрешен достъп до мрежата.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Проверете адреса за правописни грешки, като например <strong>ww</strong>.example.com вместо <strong>www</strong>.example.com</li><li>Ако не можете да заредите каквато и да е страница, проверете хардуера.</li><li>Ако компютърът ви е зад защитна стена или прокси, проверете дали на &brandShortName; е разрешен достъп до мрежата.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Файлът не е намерен">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Проверете името на файла за големи/малки букви или други грешки при въвеждане.</li> <li>Проверете дали файлът не е преместен, преименуван или изтрит.</li> </ul>">
@@ -70,6 +70,7 @@
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата, която искате да видите, не може да бъде показана, защото достоверността на получените данни не може да бъде проверена.</li> <li>Моля, свържете се със собствениците на уебсайта и ги информирайте за този проблем.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "Връзка е незащитена">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -96,6 +97,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Допълнителна информация: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Връзка е незащитена">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Допълнителна информация: SSL_ERROR_NO_CYPHER_OVERLAP">
@@ -108,6 +110,7 @@ was trying to connect. -->
 
 
 
+<!ENTITY inadequateSecurityError.title "Връзка е незащитена">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

@@ -113,6 +113,8 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
 
+<!ENTITY performanceUI.showJITOptimizations             "Оптимизации на JIT">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Следене на извадките от данните за оптимизацията на JIT при всеки кадър от JavaScript.">
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
@@ -149,4 +151,4 @@
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
 
 <!ENTITY performanceUI.console.stopCommandStart "За спиране на следенето въведете">
-<!ENTITY performanceUI.console.stopCommandEnd   "в конзолата">
+<!ENTITY performanceUI.console.stopCommandEnd   "в конзолата.">

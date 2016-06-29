@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Използване на &amp;защитата от проследяване">
+<!ENTITY  trackingProtectionHeader.label       "Използване на защитата от проследяване">
 <!ENTITY  trackingProtectionAlways.label       "Винаги">
 <!ENTITY  trackingProtectionAlways.accesskey   "В">
 <!ENTITY  trackingProtectionPrivate.label      "Само в поверителни прозорци">
@@ -40,7 +40,7 @@
 <!ENTITY  locbar.searches.label         "Подобни търсения в стандартната търсеща машина">
 <!ENTITY  locbar.searches.accesskey     "П">
 
-<!ENTITY  suggestionSettings.label      "Промяна настройките на подсказките от търсещите машини">
+<!ENTITY  suggestionSettings.label      "Промяна настройките на подсказките от търсещите машини…">
 <!ENTITY  suggestionSettings.accesskey  "р">
 
 <!ENTITY  acceptCookies.label           "Разрешаване на бисквитките">

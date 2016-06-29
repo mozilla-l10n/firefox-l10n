@@ -161,18 +161,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "С">
 <!ENTITY shareVideo.label "Споделяне на видеозапис">
 <!ENTITY shareVideo.accesskey "С">
-
-
+<!ENTITY feedsMenu2.label "Абониране за тази страница">
+<!ENTITY subscribeToPageMenupopup.label "Абониране за тази страница">
 <!ENTITY subscribeToPageMenuitem.label "Абониране за тази страница…">
 <!ENTITY addCurPagesCmd.label "Отмятане всички подпрозорци…">
 <!ENTITY showAllBookmarks2.label "Показване на всички отметки">
-
-
+<!ENTITY recentBookmarks.label "Последни отметки">
+<!ENTITY otherBookmarksCmd.label "Други отметки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показване на повече отметки">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Показване на последните отметки">
+<!ENTITY showRecentlyBookmarked.accesskey "П">
+<!ENTITY hideRecentlyBookmarked.label     "Скриване на последните отметки">
+<!ENTITY hideRecentlyBookmarked.accesskey "С">
 
 <!ENTITY backCmd.label                "Назад">
 <!ENTITY backButton.tooltip           "Назад една страница">
@@ -226,10 +226,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Отметки">
-
+<!ENTITY bookmarksMenuButton.other.label "Други отметки">
 <!ENTITY viewBookmarksSidebar2.label        "Показване на страничната лента с отметки">
 <!ENTITY viewBookmarksToolbar.label         "Показване на лентата с отметки">
 
+<!ENTITY containersMenu.label "Контейнери">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -282,9 +283,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Изрязване">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "р"> 
-
+<!ENTITY copyCmd.label            "Копиране">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "К"> 
 <!ENTITY pasteCmd.label           "Поставяне">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "с"> 
@@ -336,16 +337,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "Синхронизирани подпрозорци">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Няма отворени подпрозорци">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Включете синхронизирането на подпрозорци, за да видите списък с подпрозорците от други ваши устройства.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Няма синхронизирани подпрозорци… все още!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Искате ли да видите свои подпрозорци от други устройства тук?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки на Sync">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Впишете се, за да видите списък с подпрозорци от други ваши устройства.">
 <!ENTITY appMenuRemoteTabs.signin.label "Впишете се в Sync">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Преглед на странична лента със синхронизирани подпрозорци">
 
 <!ENTITY customizeMenu.addToToolbar.label "Добавяне към лентата с инструменти">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
@@ -552,8 +556,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "з">
 <!ENTITY mediaUnmute.label           "Звук">
 <!ENTITY mediaUnmute.accesskey       "З">
-
-
+<!ENTITY mediaPlaybackRate2.label     "Скорост на възпроизвеждане">
+<!ENTITY mediaPlaybackRate2.accesskey "о">
 
 
 
@@ -676,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Защитена връзка">
 <!ENTITY identity.connectionNotSecure "Връзката е незащитена">
 <!ENTITY identity.connectionFile "Страницата е запазена в компютъра.">
-
+<!ENTITY identity.connectionVerified2 "Защитена връзка към този сайт, управляван от:">
 <!ENTITY identity.connectionInternal "Това е защитена страница на &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Данните за вход на тази страница може да са компрометирани.">
 <!-- Strings for connection state warnings. -->
@@ -718,26 +722,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Синхронизирани подпрозорци">
 
+<!ENTITY syncedTabs.sidebar.label              "Синхронизирани подпрозорци">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Впишете се във Firefox на друго устройство, за да видите тук техните подпрозорци.">
 
 
-
-
-
-
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Впишете се, за да видите тук подпрозорците в други ваши устройства.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Няма отворени подпрозорци">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Настройки на &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Включете синхронизирането на подпрозорци, за да видите списък с подпрозорците от други ваши устройства.">
 
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Отваряне в нов прозорец">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "п">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Отваряне в нов прозорец за поверително сърфиране">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "п">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Отмятане на страницата…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "т">
+<!ENTITY syncedTabs.context.copy.label                       "Копиране">
+<!ENTITY syncedTabs.context.copy.accesskey                   "К">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
