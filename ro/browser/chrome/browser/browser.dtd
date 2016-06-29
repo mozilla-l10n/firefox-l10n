@@ -702,7 +702,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Află mai multe">
 
-
+<!ENTITY identity.removeCertException.label "Elimină excepția">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "Mai multe informații">
 
