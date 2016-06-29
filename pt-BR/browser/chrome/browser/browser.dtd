@@ -83,7 +83,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "t">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Adicionar todas as abas…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "c">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Reabrir aba">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Desfazer fechar aba">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "b">
 
 <!ENTITY pageSourceCmd.label "Código-fonte">
