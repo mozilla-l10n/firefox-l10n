@@ -39,7 +39,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Hujjat eskirgan">
-
+<!ENTITY notCached.longDesc "<p>So‘ralgan hujjat &brandShortName; keshida mavjud emas.</p><ul><li>Xavfsizlik sabablariga ko‘ra, &brandShortName; maxfiy hujjatlarni avtomatik qayta so‘ramaydi.</li><li>Hujjatni saytdan qayta so‘rash uchun &quot;Yana urinib ko‘rish&quot;ni bosing.</li></ul>">
 
 <!ENTITY netOffline.title "Oflayn usuli">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -58,6 +58,7 @@
 <!ENTITY netTimeout.title "Ulanish vaqti o‘tib ketdi">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "Manzil tushunarsiz edi">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Ushbu manzilni ochish uchun boshqa dasturni o‘rnatishingiz kerak.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proksi server ulanishlarni rad qilmoqda">
@@ -68,6 +69,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Proksi sozlamalarining to‘g‘ri ekanligini tekshirib ko‘ring.</li> <li>Qurilmangizda internetga ulanish yoqilganligi yoki Wi-Fi’ga ualanganligini tekshirib ko‘ring. <button id='wifi'>Wi-Fi’ni yoqish</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "Sahifa to‘g‘ri yo‘naltirilmagan">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Ushbu muammo ba’zida kukilarni o‘chirilishiga yoki rozilikni rad qilinishiga sabab bo‘lishi mumkin.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Serverdan kutilmagan javob">
@@ -77,9 +79,11 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Siz ochmoqchi bo‘lgan sahifani ko‘rsatib bo‘lmaydi, chunki olingan ma’lumotlarning haqiqiyligini tekshirib bo‘lmadi.</li> <li>Ushbu muammo haqida xabar berish uchun veb-sayt egasi bilan bog‘laning.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Xavfsiz ulanib bo‘lmadi">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Muammoga sabab serverning sozlanishi yoki kimnidir serverni buzishga urinishi bo‘lishi mumkin.</li> <li>Agar serverga oldinroq ulana olgan bo‘lsangiz, xato vaqtinchalik bo‘lishi va keyinroq yana urinib ko‘rishingiz mumkin bo‘ladi.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY sharedLongDesc3 "<ul> <li>Sayt vaqtinchalik ishlamayapti yoki juda band. Bir necha daqiqadan keyin urinib ko‘ring.</li> <li>Agar birorta ham sahifa yuklanmasa, telefoningizning mobil internetga  yoki Wi-Fi tarmoqqa ulanishini tekshirib ko‘ring. <button id='wifi'>Wi-Fi tarmog‘ini yoqish</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Kontent xavfsizlik nazorati tomonidan to‘sib qo‘yilgan">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ushbu sahifani bu yo‘lda yuklashga to‘sqinlik qildi, chunki sahifadagi xavfsizlik siyosati bunga ruxsat bermadi.</p>">
@@ -106,9 +110,11 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Qo‘shimcha ma’lumot: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Ulanish xavfsiz emas">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Qo‘shimcha ma’lumot: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "Ulanish xavfsiz emas">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
