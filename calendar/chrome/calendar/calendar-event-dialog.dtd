@@ -32,6 +32,8 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
+<!ENTITY event.attendees.notify.label               "Уведомяване на участниците">
+<!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "Отделни покани за участниците">
 
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Тази опция изпраща по една покана за всеки участник. Всяка покана съдържа само адреса на получателя, така че други участници не се виждат.">
