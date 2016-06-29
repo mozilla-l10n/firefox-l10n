@@ -23,13 +23,15 @@
 
 <!ENTITY firstrun_tabqueue_title "Linkuri">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-
+<!ENTITY firstrun_tabqueue_message_off "Pornește filele în coadă">
+<!ENTITY firstrun_tabqueue_subtext_off "Salvează linkuri pentru mai târziu în &brandShortName; când le atingi în alte aplicații.">
 
 <!ENTITY firstrun_tabqueue_message_on "Succes!">
-
+<!ENTITY firstrun_tabqueue_subtext_on "O poți opri întotdeauna din &settings; sub &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Articole">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Scapă de îngrămădeală">
 <!ENTITY firstrun_readerview_subtext "Folosește modul lectură pentru a face citirea articolelor mai plăcută \u2014 chiar și offline.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
@@ -76,16 +78,18 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Capturi de ecran">
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Listă de citit">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
 <!ENTITY bookmark_folder_items "&formatD; elemente">
 <!ENTITY bookmark_folder_one_item "1 element">
 
+<!ENTITY reader_saved_offline "Salvat offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Comută">
 
 <!ENTITY history_today_section "Azi">
 <!ENTITY history_yesterday_section "Ieri">
@@ -97,7 +101,7 @@
 <!ENTITY forward "Înainte">
 <!ENTITY menu "Meniu">
 <!ENTITY back "Înapoi">
-<!ENTITY stop "Oprire">
+<!ENTITY stop "Oprește">
 <!ENTITY site_security "Securitatea site-ului">
 <!ENTITY edit_mode_cancel "Renunță">
 
@@ -163,7 +167,7 @@
 <!ENTITY overlay_no_synced_devices "Niciun dispozitiv conectat găsit la contul Firefox">
 
 <!ENTITY pref_category_search3 "Căutare">
-<!ENTITY pref_category_search_summary2 "Adaugă, setează motorul implicit, afișează sugestii">
+<!ENTITY pref_category_search_summary2 "Adaugă, setează motorul implicit, arată sugestii">
 <!ENTITY pref_category_accessibility "Accesibilitate">
 <!ENTITY pref_category_accessibility_summary2 "Mărimea textului, zoomul, intrarea vocală">
 <!ENTITY pref_category_privacy_short "Confidențialitate">
@@ -283,7 +287,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Nu acum">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "Mergi la Setări">
+<!ENTITY tab_queue_prompt_settings_button "Mergi la setări">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -296,6 +300,8 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY tab_queue_notification_settings "Pentru a „deschide linkuri multimple”, te rugăm să activezi permisiunea \u0027Permite afișarea peste alte aplicații\u0027 pentru &brandShortName;">
+
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
@@ -304,8 +310,10 @@
 <!ENTITY content_notification_title_plural "&formatD; site-uri web actualizate">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Setări">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Citește acum">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -351,7 +359,7 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Activează întotdeauna zoomul">
 <!ENTITY pref_zoom_force_enabled_summary "Forțează suprascrierea ca să poți face zoom pe orice pagină">
 <!ENTITY pref_voice_input "Intrare vocală">
-<!ENTITY pref_voice_input_summary2 "Permite dictarea vocală în bara de adresă">
+<!ENTITY pref_voice_input_summary2 "Permite dictarea vocală în bara URL">
 <!ENTITY pref_qrcode_enabled "Cititor de coduri QR">
 <!ENTITY pref_qrcode_enabled_summary2 "Permite scanerul QR în bara de adresă">
 
@@ -382,13 +390,13 @@ size. -->
 <!ENTITY pref_dialog_default "Implicit">
 <!ENTITY pref_dialog_remove "Elimină">
 
-<!ENTITY pref_search_last_toast "Nu poți elimina sau dezactiva ultimul tău motor de căutare.">
+<!ENTITY pref_search_last_toast "Nu poți elimina sau dezactiva ultimul motor de căutare.">
 
 <!ENTITY pref_panels_show "Afișează">
 <!ENTITY pref_panels_hide "Ascunde">
-<!ENTITY pref_panels_reorder "Schimbă ordinea">
-<!ENTITY pref_panels_move_up "Mută sus">
-<!ENTITY pref_panels_move_down "Mută jos">
+<!ENTITY pref_panels_reorder "Modifică ordinea">
+<!ENTITY pref_panels_move_up "Mută în sus">
+<!ENTITY pref_panels_move_down "Mută în jos">
 
 <!ENTITY datareporting_notification_title "Statistici și date pentru &brandShortName;">
 <!ENTITY datareporting_notification_action "Alege ce să partajezi">
@@ -554,10 +562,11 @@ size. -->
 
 <!ENTITY home_title "Pagina de start &brandShortName;">
 <!ENTITY home_history_title "Istoric">
-
-
+<!ENTITY home_synced_devices_smartfolder "Dispozitive sincronizate">
+<!ENTITY home_synced_devices_number "&formatD; dispozitive">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-
+<!ENTITY home_synced_devices_one "1 dispozitiv">
+<!ENTITY home_history_back_to2 "Înapoi la istoricul complet">
 <!ENTITY home_clear_history_button "Șterge istoricul de navigare">
 <!ENTITY home_clear_history_confirm "Sigur dorești să ștergi istoricul?">
 <!ENTITY home_bookmarks_empty "Semnele de carte pe care le salvezi apar aici.">
@@ -755,16 +764,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY restrictable_feature_addons_installation "Suplimente">
 <!ENTITY restrictable_feature_addons_installation_description "Adaugă funcționalități sau funcții în Firefox. Notă: Suplimentele pot dezactiva anumite restricții.">
-<!ENTITY restrictable_feature_private_browsing "Navigare fără urme">
+<!ENTITY restrictable_feature_private_browsing "Navigare privată">
 <!ENTITY restrictable_feature_private_browsing_description "Permite membrilor familiei să navigheze fără stocarea informațiilor despre site-urile și paginile vizitate.">
 <!ENTITY restrictable_feature_clear_history "Șterge istoricul">
 <!ENTITY restrictable_feature_clear_history_description "Permite membrilor familiei să șteargă informații despre site-urile și paginile pe care le-au vizitat.">
 <!ENTITY restrictable_feature_advanced_settings "Setări avansate">
-
+<!ENTITY restrictable_feature_advanced_settings_description "Acesta include importarea semnelor de carte, restaurarea filelor și actualizările automate. Oprește pentru setări simplificate potrivite oricărui membru al familiei.">
 <!ENTITY restrictable_feature_camera_microphone "Cameră și microfon">
-
-
-
+<!ENTITY restrictable_feature_camera_microphone_description "Permite membrilor familiei să se implice în comunicare în timp real pe site-uri web.">
+<!ENTITY restrictable_feature_block_list "Listă de blocări">
+<!ENTITY restrictable_feature_block_list_description "Blochează site-urile web care includ conținut sensibil.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -781,6 +790,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY unsupported_sdk_version "Ne pare rău! Acest &brandShortName; nu va funcționa pe acest dispozitiv (&formatS1;, &formatS2;). Te rugăm să descarci versiunea corectă.">
+
 <!ENTITY eol_notification_title2 "&brandShortName; nu se va mai actualiza">
 <!ENTITY eol_notification_summary "Atinge pentru a afla mai multe">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
@@ -791,9 +802,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Adaugă la ecranul principal">
 
+<!ENTITY helper_first_offline_bookmark_title "Citește offline">
+<!ENTITY helper_first_offline_bookmark_message "Găsește elementele din modul lectură în semnele de carte, chiar și offline.">
+<!ENTITY helper_first_offline_bookmark_button "Mergi la semnele de carte">
 
-
-
-
-
+<!ENTITY helper_triple_readerview_open_title "Disponibil offline">
+<!ENTITY helper_triple_readerview_open_message "Însemnează elementele pentru modul lectură pentru a le citi offline.">
+<!ENTITY helper_triple_readerview_open_button "Mergi la semnele de carte">
 
