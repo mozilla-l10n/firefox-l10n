@@ -19,17 +19,21 @@
 <!ENTITY dnsNotFound.title "Server topilmadi">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Quyidagiga o‘xshash xatolarni tekshirib chiqing: <strong>ww</strong>.example.com kabi yozilgan bo‘lishi mumkin, aslida  <strong>www</strong>.example.com kabi yozilishi kerak</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Izlash</button> </div> <li>Agar birorta ham sahifa yuklanmasa, qurilmangizning mobil internetga yoki WI-Fi tarmog‘iga ulanganligini tekshirib ko‘ring. <button id='wifi'>Wi-Fi’ni yoqish</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Fayl topilmadi">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Fayl nomlarining katta-kichigligini va boshqa yozishdagi xatolarini tekshiring.</li> <li>Faylning o‘chirilganligi, nomi o‘zgartirilganligi va ko‘chirilganligini tekshirib koʻring.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Fayldan foydalanishga ruxsat berilmadi">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>U o‘chirilgan, ko‘chirilgan bo‘lishi yoki foydalanish taqiqlab qo‘yilgan bo‘lishi mumkin.</li> </ul>">
 
 <!ENTITY generic.title "Obbo.">
+<!ENTITY generic.longDesc "<p>&brandShortName; ushbu sahifani noma’lum sabablarga ko‘ra yuklay olmadi.</p>">
 
-
+<!ENTITY malformedURI.title "Manzil noto‘g‘ri kiritilgan">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Veb manzillar odatda <strong>http://www.example.com/</strong></li> <div id='searchbox'> kabi yoziladi<input id='searchtext' type='search'></input> <button id='searchbutton'>Izlash</button> </div> <li>qiya chiziq belgisidan tog‘ri foydalanayotganingizga ishonch hosil qiling (masalan: <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Aloqa uzilib qoldi">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
