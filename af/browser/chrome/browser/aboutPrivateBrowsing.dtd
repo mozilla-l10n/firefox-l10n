@@ -6,6 +6,8 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Open 'n privaatvenster">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
+<!ENTITY privateBrowsing.title                           "Private blaaiery">
+<!ENTITY privateBrowsing.title.tracking                  "Private blaaiery met volgbeskerming">
 
 
 
@@ -22,9 +24,8 @@
 
 
 
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Private blaaiery">
 
 <!ENTITY trackingProtection.title                        "Volgbeskerming">
 
-
+<!ENTITY trackingProtection.startTour1                   "Sien hoe dit werk">

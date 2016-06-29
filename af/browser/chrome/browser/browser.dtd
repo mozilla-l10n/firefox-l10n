@@ -161,13 +161,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "D">
 <!ENTITY shareVideo.label "Deel dié video">
 <!ENTITY shareVideo.accesskey "D">
-
-
+<!ENTITY feedsMenu2.label "Skryf in op hierdie bladsy">
+<!ENTITY subscribeToPageMenupopup.label "Skryf in op hierdie bladsy">
 <!ENTITY subscribeToPageMenuitem.label "Teken in op hierdie bladsy…">
 <!ENTITY addCurPagesCmd.label "Boekmerk alle oortjies…">
 <!ENTITY showAllBookmarks2.label "Wys alle boekmerke">
-
-
+<!ENTITY recentBookmarks.label "Onlangs geboekmerk">
+<!ENTITY otherBookmarksCmd.label "Ander boekmerke">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wys meer boekmerke">
 
 
@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Boekmerke">
-
+<!ENTITY bookmarksMenuButton.other.label "Ander boekmerke">
 <!ENTITY viewBookmarksSidebar2.label        "Wys boekmerkkantbalk">
 <!ENTITY viewBookmarksToolbar.label         "Vertoon boekmerknutsbalk">
 
@@ -282,9 +282,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Knip">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "p"> 
-
+<!ENTITY copyCmd.label            "Kopieer">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Plak">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -336,16 +336,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "Gesinkroniseerde oortjies">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Geen oop oortjies nie">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Skakel oortjiesinkronisering aan om 'n lys oortjies op ander toestelle te sien.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Nog geen gesinkroniseerde oortjies nie!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Lus om oortjies van ander toestelle hier te sien?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync-voorkeure">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Meld aan om 'n lys oortjies van ander toestelle te sien.">
 <!ENTITY appMenuRemoteTabs.signin.label "Meld aan by Sync">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Wys kantbalk met gesinkroniseerde oortjies">
 
 <!ENTITY customizeMenu.addToToolbar.label "Voeg by nutsbalk">
 <!ENTITY customizeMenu.addToToolbar.accesskey "V">
@@ -552,22 +555,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "D">
 <!ENTITY mediaUnmute.label           "Ontdower">
 <!ENTITY mediaUnmute.accesskey       "d">
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "Speelspoed">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "Stadig (0,5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "Gewoon">
 <!ENTITY mediaPlaybackRate100x2.accesskey "G">
-
-
-
-
+<!ENTITY mediaPlaybackRate125x2.label "Vinnig (1,25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "V">
+<!ENTITY mediaPlaybackRate150x2.label "Vinniger (1,5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "n">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Blitsvinnig (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "B">
+<!ENTITY mediaLoop.label             "Speel in lus">
+<!ENTITY mediaLoop.accesskey         "l">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -676,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Beveiligde verbinding">
 <!ENTITY identity.connectionNotSecure "Verbinding is nié beveilig nie">
 <!ENTITY identity.connectionFile "Dié blad word op u rekenaar gestoor.">
-
+<!ENTITY identity.connectionVerified2 "U is veilig verbind aan dié werf besit deur:">
 <!ENTITY identity.connectionInternal "Hierdie is 'n beveiligde &brandShortName;-bladsy.">
 <!ENTITY identity.insecureLoginForms2 "Aanmeldinligting ingetik op dié bladsy kan gekompromitteer word. ">
 <!-- Strings for connection state warnings. -->
@@ -704,7 +708,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Meer inligting">
 
-
+<!ENTITY identity.removeCertException.label "Verwyder uitsondering">
+<!ENTITY identity.removeCertException.accesskey "r">
 
 <!ENTITY identity.moreInfoLinkText2 "Meer inligting">
 
@@ -718,26 +723,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "Gesinkroniseerde oortjies">
 
-
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Gesinkroniseerde oortjies">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Meld aan by Firefox vanaf ander toestelle om hulle oortjies hier te sien.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Nog geen gesinkroniseerde oortjies nie!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Lus om oortjies van ander toestelle hier te sien?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Meld aan om 'n lys oortjies van ander toestelle te sien.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Geen oop oortjies nie">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Open &syncBrand.shortName.label;-voorkeure">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Skakel oortjiesinkronisering aan om 'n lys oortjies van ander toestelle te sien.">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Open">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Open in nuwe oortjie">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Open in 'n nuwe venster">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Open in nuwe private venster">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Boekmerk hierdie oortjie…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "Kopieer">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
