@@ -809,7 +809,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_message "Знаходьте елементи списку читання в закладках, навіть в автономному режимі.">
 <!ENTITY helper_first_offline_bookmark_button "Перейти до закладок">
 
-<!ENTITY helper_triple_readerview_open_title "Доступно автономно">
-<!ENTITY helper_triple_readerview_open_message "Закласти елементи режиму читання для автономного їх читання.">
+<!ENTITY helper_triple_readerview_open_title "Автономний доступ">
+<!ENTITY helper_triple_readerview_open_message "Закласти елементи режиму читання для автономного доступу.">
 <!ENTITY helper_triple_readerview_open_button "Додати до закладок">
 
