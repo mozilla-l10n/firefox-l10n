@@ -9,10 +9,10 @@
 <!ENTITY firstrun_bookmarks_title "Tembiasakue">
 <!ENTITY firstrun_bookmarks_message "Eguerohoryvéva, tenonde ha mbytépe">
 <!ENTITY firstrun_bookmarks_subtext "Eguerekokuaa techaukahakuéra ha tembiasakue eheka vove eikuaasevéva.">
-<!ENTITY firstrun_data_title "Arange">
+<!ENTITY firstrun_data_title "Mba\u0027ekuaarã">
 <!ENTITY firstrun_data_message "Mba\u0027ekuaarã\u0027ive, ñembyatyve">
 <!ENTITY firstrun_data_subtext2 "Embogue ta\u0027angakuéra embohasa\u0027ive hag̃ua mba\u0027ekuaarã peteĩteĩva tenda eho hague pegua.">
-<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_title "Mbojuehe">
 <!ENTITY firstrun_sync_message "&brandShortName;, tapiaite oĩ nde ykére">
 <!ENTITY firstrun_sync_subtext "Embojuehe tendaykekuéra, ñe\u0027ẽñemi, ha hetave mba\u0027e opaite tenda eipuruhápe.">
 <!ENTITY firstrun_signin_message "Eike, eñepyrũ">
@@ -26,8 +26,8 @@
 <!ENTITY firstrun_tabqueue_message_off "Emyendy Tendayke Ha\u0027ãrõva">
 <!ENTITY firstrun_tabqueue_subtext_off "Eñongatu &brandShortName;-pe joajuha ag̃avépe g̃uarã, reipurukuaátava ambue tembipuru\u0027ípe.">
 
-<!ENTITY firstrun_tabqueue_message_on "Po\u0027aite">
-<!ENTITY firstrun_tabqueue_subtext_on "Akóinte emoingekuaa kóva &settings;pe oĩva &pref_category_general;pe.">
+<!ENTITY firstrun_tabqueue_message_on "¡Hu\u0027ãporãma!">
+<!ENTITY firstrun_tabqueue_subtext_on "Akóinte emboguekuaa ko poravorã &settings; guýpe &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Marandukuéra">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -36,7 +36,7 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "Nde">
-<!ENTITY firstrun_account_message "Rerekópa &brandShortName; ambue mba\u0027e\u0027okápe?">
+<!ENTITY firstrun_account_message "Eguereko &brandShortName; ambue mba\u0027e\u0027okápe?">
 
 <!ENTITY  onboard_start_restricted1 "Eguerekóta tekorosã ha ñangarekoha ko apopyre momichĩmbyre &brandShortName; mba\u0027éva.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -44,41 +44,41 @@
 
 <!ENTITY  bookmarks_title "Techaukahakuéra">
 <!ENTITY  history_title "Tembiasakue">
-<!ENTITY  recent_tabs_title "Tendayke pyahuvéva">
+<!ENTITY  recent_tabs_title "Tendayke ipyahuvéva">
 
-<!ENTITY  switch_to_tab "Tendayképe jeguerova">
+<!ENTITY  switch_to_tab "Tendayképe jeva">
 
-<!ENTITY  crash_reporter_title "&brandShortName; marandu jejavy rehegua">
-<!ENTITY  crash_message2 "&brandShortName; oguereko apañuãi ha ombeti. Itendaykekuéra oñemboysyiva\u0027erã &brandShortName;-pe kuatiarogue ñepyrũme emoñepyrũjeývo.">
+<!ENTITY  crash_reporter_title "&brandShortName; marandu jejavyguáva">
+<!ENTITY  crash_message2 "&brandShortName; iñapañuãi ha ombeti. Itendaykekuéra yjysyiva\u0027erã &brandShortName;-pe kuatiarogue ñepyrũme emoñepyrũjeývo.">
 <!ENTITY  crash_send_report_message3 "Emombe\u0027u &vendorShortName;-pe jejavy rehegua oñemoĩporã hag̃ua">
 <!ENTITY  crash_include_url2 "Emoinge pe kuatiarogue kundaharape oĩva pe">
 <!ENTITY  crash_sorry "Rombyasyeterei">
-<!ENTITY  crash_comment "Embojuapy je\u0027erei (umi je\u0027erei ohecháta opavavete)">
-<!ENTITY  crash_allow_contact2 "Eheja &vendorShortName;-pe tomombe\u0027u chéve ko marandu rehegua">
+<!ENTITY  crash_comment "Embojuapy je\u0027erei (ko\u0027ã je\u0027erei ohecháta opavave)">
+<!ENTITY  crash_allow_contact2 "Eheja &vendorShortName; tomombe\u0027u chéve ko marandu rehegua">
 <!ENTITY  crash_email "Ne ñanduti veve">
 <!ENTITY  crash_closing_alert "Esẽ emondo mboyve marandu jejavy rehegua?">
 <!ENTITY  sending_crash_report "Emondohína jejavy rehegua\u2026">
 <!ENTITY  crash_close_label "Mboty">
 <!ENTITY  crash_restart_label "&brandShortName; moñepyrũjey">
 
-<!ENTITY url_bar_default_text2 "Eheka térã emoinge kundaharape">
+<!ENTITY url_bar_default_text2 "Ehai ápe kundaharape">
 
 <!ENTITY bookmark "Techaukaha">
-<!ENTITY bookmark_remove "Emboguete mongurusu">
+<!ENTITY bookmark_remove "Emboguete techaukaha">
 <!ENTITY bookmark_added "Techaukaha mbojuapypyre">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Mongurusupyre">
-<!ENTITY bookmark_removed "Mongurusu mboguepyre">
+<!ENTITY bookmark_removed "Techaukaha mboguepyre">
 <!ENTITY bookmark_updated "Techaukaha mbojuapypyre">
 <!ENTITY bookmark_options "Jeporavorã">
-<!ENTITY screenshot_added_to_bookmarks "Mba\u0027erechaha japyhy ojuajúva techaukaha rehe">
+<!ENTITY screenshot_added_to_bookmarks "Mba\u0027erechaha japyhy ojuajúva techaukaháre">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Ta\u0027ãngakuéra">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "Moñe\u0027ẽrã Rysýi">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Moñe\u0027ẽrã rysýi">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
@@ -145,7 +145,7 @@
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
 
-<!ENTITY overlay_share_label "&brandShortName; moñepyrũjey">
+<!ENTITY overlay_share_label "&brandShortName; mbojuaju">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
@@ -160,7 +160,7 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "Emondo ambue mba\u0027e\u0027okápe">
 <!ENTITY overlay_share_no_url "Ndojejuhúi ko juajuhápe">
-<!ENTITY overlay_share_select_device "Eiporavo pe mba\u0027e\u0027oka">
+<!ENTITY overlay_share_select_device "Eiporavo mba\u0027e\u0027oka">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
@@ -178,7 +178,7 @@
 <!ENTITY pref_category_logins "Tembiapo moñepyrũ">
 <!ENTITY pref_learn_more "Eikuaave">
 <!ENTITY pref_category_installed_search_engines "Jehekaha mongu\u0027eha mohendapyre">
-<!ENTITY pref_category_add_search_providers "Embojoapyve hekaha">
+<!ENTITY pref_category_add_search_providers "Embojoapyve hekaha me\u0027ẽha">
 <!ENTITY pref_category_search_restore_defaults "Emboguevijey jehekaha mongu\u0027eha">
 <!ENTITY pref_search_restore_defaults "Ijypykuépe mbojevy">
 <!ENTITY pref_search_restore_defaults_summary "Ijypykuépe mbojevy">
@@ -198,13 +198,13 @@
 <!ENTITY pref_content_notifications "Ñanduti kuatiarogue ñembohekopyahu">
 <!ENTITY pref_content_notifications_summary2 "Tetepy pyahu ñeguenohẽ tenda ipu\u0027akáva">
 <!ENTITY pref_developer_remotedebugging_usb "Ñemopotĩ okayguáva USB rupi">
-<!ENTITY pref_developer_remotedebugging_wifi "Okaygua ñemopotĩ Wi-Fi rupive">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ñemopotĩ oikotevẽ pe mba\u0027e\u0027oka mohendapyre oguereko ayvu QR rembipuru\u0027i moñe\u0027ẽha.">
-<!ENTITY pref_remember_signons2 "Mandu\u0027a tembiapo ñepyrũ rehe">
-<!ENTITY pref_manage_logins "Eñangareko tembiapo ñepyrũ rehe">
+<!ENTITY pref_developer_remotedebugging_wifi "Okaygua ñemopotĩ Wi-Fi rupi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ñemopotĩ oikotevẽ mba\u0027e\u0027oka mohendapyre oguerekóva ayvu QR rembipuru\u0027i moñe\u0027ẽha.">
+<!ENTITY pref_remember_signons2 "Nemandu\u0027áke tembiapo ñepyrũre">
+<!ENTITY pref_manage_logins "Eñangareko tembiapo ñepyrũre">
 
 <!ENTITY pref_category_home "Óga">
-<!ENTITY pref_category_home_summary "Emomba\u0027ete nde kuatiarogue ñepyrũ">
+<!ENTITY pref_category_home_summary "Kuatiarogue ñepyrũ momba\u0027ete">
 <!ENTITY pref_category_home_panels "Ta\u0027ãngarupa">
 <!ENTITY pref_category_home_add_ons "Moĩmbahakuéra">
 <!ENTITY pref_home_updates2 "Tetepy ñembohekopyahu">
@@ -226,7 +226,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "Ehai kundaharape térã ñe\u0027ẽreka">
+<!ENTITY home_homepage_hint_user_address "Ehai kundaharape térã ñe\u0027ẽ rekaha">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_general "Tuichakue">
@@ -234,8 +234,8 @@
 <!ENTITY pref_header_privacy_short "Ñemiguáva">
 <!ENTITY pref_header_accessibility "Jeikekuaa">
 <!ENTITY pref_header_notifications "Ñemomarandu">
-<!ENTITY pref_header_advanced "Opanungáva">
-<!ENTITY pref_header_help "Pytyvõ">
+<!ENTITY pref_header_advanced "Opapotáva">
+<!ENTITY pref_header_help "Ñepytyvõ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Kookie">
@@ -247,8 +247,8 @@
      “storing data”. -->
 
 <!ENTITY pref_category_data_saver "Mba\u0027ekuaarã mo\u0027ãha">
-<!ENTITY pref_category_media "Momaranduhára">
-<!ENTITY pref_category_developer_tools "Tembipuru mboguatahára">
+<!ENTITY pref_category_media "Momaranduha">
+<!ENTITY pref_category_developer_tools "Tembipuru mboguataha">
 
 <!ENTITY pref_tap_to_load_images_title2 "Ta\u0027ãnga jehechauka">
 <!ENTITY pref_tap_to_load_images_enabled "Tapiaite">
