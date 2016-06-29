@@ -32,8 +32,8 @@
 <!ENTITY btnPageCSS.label   "CSS">
 
 <!ENTITY btnPageCSS.accesskey "C">
-<!ENTITY btnPageJS.label    "จาวาสคริปต์">
-<!ENTITY btnPageJS.tooltip  "บันทึกข้อผิดพลาดของจาวาสคริปต์">
+<!ENTITY btnPageJS.label    "JS">
+<!ENTITY btnPageJS.tooltip  "บันทึกข้อยกเว้น JavaScript">
 <!ENTITY btnPageJS.accesskey  "J">
 
 <!ENTITY btnPageSecurity.tooltip "Log security errors and warnings">

@@ -52,11 +52,11 @@
 <!ENTITY  finishedPage.text               "ชุดปรับรุ่นนี้จะถูกติดตั้งเมื่อเริ่ม &brandShortName; ครั้งถัดไป คุณสามารถเริ่ม &brandShortName; ใหม่ได้เดี๋ยวนี้ หรือคุณอาจใช้งานต่อไปและเริ่มโปรแกรมใหม่ภายหลัง">
 
 <!ENTITY  finishedBackgroundPage.text     "ชุดปรับรุ่นความปลอดภัยและเสถียรภาพสำหรับ &brandShortName; ได้ถูกดาวน์โหลดและพร้อมสำหรับการติดตั้งแล้ว">
-<!ENTITY  finishedBackground.name         "ปรับรุ่น :">
+<!ENTITY  finishedBackground.name         "ปรับปรุง:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "ชุดปรับรุ่นนี้จะถูกติดตั้งเมื่อเริ่ม &brandShortName; ครั้งถัดไป คุณสามารถเริ่ม &brandShortName; ใหม่ได้เดี๋ยวนี้ หรือคุณอาจใช้งานต่อไปและเริ่มโปรแกรมใหม่ภายหลัง">
 
 
 <!ENTITY  update.details.label            "รายละเอียด">
-<!ENTITY  update.installedOn.label        "ติดตั้งเมื่อ :">
-<!ENTITY  update.status.label             "สถานะ :">
+<!ENTITY  update.installedOn.label        "ติดตั้งเมื่อ:">
+<!ENTITY  update.status.label             "สถานะ:">

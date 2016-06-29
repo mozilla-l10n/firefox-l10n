@@ -52,9 +52,10 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 
 <!ENTITY aboutSupport.appBasicsMemoryUse "หน่วยความจำที่ใช้">
-
+<!ENTITY aboutSupport.appBasicsPerformance "ประสิทธิภาพ">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsProfiles "โพรไฟล์">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "หน้าต่างหลายโปรเซส">
 
@@ -86,7 +87,7 @@ variant of aboutSupport.showDir.label. -->
 
 
 
-<!ENTITY aboutSupport.jsTitle "จาวาสคริปต์">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "ตัวเก็บกวาดขยะแบบเพิ่มขึ้น">
 
 <!ENTITY aboutSupport.a11yTitle "กลไกการเข้าถึงได้">
@@ -106,10 +107,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "ลองใช้โหมดปลอดภัย">
 <!ENTITY aboutSupport.restartInSafeMode.label "เริ่มใหม่และปิดใช้งานส่วนเสริม…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "คุณลักษณะ">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "การวินิจฉัย">
 
-
-
-
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 
 
 

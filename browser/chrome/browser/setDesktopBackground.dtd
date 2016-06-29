@@ -9,7 +9,7 @@
 <!ENTITY fill.label                 "ขยายเต็มหน้าจอ">
 <!ENTITY fit.label                  "พอดีหน้าจอ">
 <!ENTITY preview.label              "ดูตัวอย่าง">
-<!ENTITY color.label                "สี :">
-<!ENTITY setDesktopBackground.title "ตั้งภาพพื้นหลังของพื้นโต๊ะ">
-<!ENTITY openDesktopPrefs.label     "เปิดการตั้งค่าพื้นโต๊ะ">
+<!ENTITY color.label                "สี:">
+<!ENTITY setDesktopBackground.title "ตั้งพื้นหลังเดสก์ท็อป">
+<!ENTITY openDesktopPrefs.label     "เปิดการตั้งค่าเดสก์ท็อป">
 <!ENTITY closeWindow.key            "w">

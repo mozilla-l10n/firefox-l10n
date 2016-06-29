@@ -5,7 +5,7 @@
 <!ENTITY safeModeDialog.title         "โหมดปลอดภัย &brandShortName;">
 <!ENTITY window.maxWidth              "400">
 
-<!ENTITY startSafeMode.label          "เริ่มทำงานในโหมดปลอดภัย">
+<!ENTITY startSafeMode.label          "เริ่มในโหมดปลอดภัย">
 <!ENTITY refreshProfile.label         "เรียก &brandShortName; ใหม่">
 
 <!ENTITY safeModeDescription3.label   "โหมดปลอดภัย เป็นการทำงานพิเศษของ &brandShortName; ที่สามารถใช้ระบุปัญหาได้">

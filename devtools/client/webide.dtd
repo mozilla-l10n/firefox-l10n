@@ -80,7 +80,7 @@
 <!ENTITY details_valid_header "ถูกต้อง">
 <!ENTITY details_warning_header "คำเตือน">
 
-
+<!ENTITY details_description "คำอธิบาย">
 <!ENTITY details_location "ที่ตั้ง">
 
 

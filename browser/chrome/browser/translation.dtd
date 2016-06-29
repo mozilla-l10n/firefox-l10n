@@ -17,7 +17,7 @@
 <!ENTITY translation.translate.button           "แปล">
 <!ENTITY translation.notNow.button              "ไม่ใช่ตอนนี้">
 
-<!ENTITY translation.translatingContent.label   "กำลังทำการแปลเนื้อหา">
+<!ENTITY translation.translatingContent.label   "กำลังแปลเนื้อหาของหน้า…">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -34,14 +34,14 @@
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
 
-<!ENTITY translation.translatedFrom.label       "หน้านี้ได้รับการแปลจาก">
+<!ENTITY translation.translatedFrom.label       "หน้านี้ถูกแปลจาก">
 <!ENTITY translation.translatedTo.label         "ถึง">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "แสดงต้นฉบับ">
 <!ENTITY translation.showTranslation.button     "แสดงการแปล">
 
-<!ENTITY translation.errorTranslating.label     "เกิดข้อผิดพลาดระหว่างการแปลหน้านี้">
+<!ENTITY translation.errorTranslating.label     "เกิดข้อผิดพลาดในการแปลหน้านี้">
 <!ENTITY translation.tryAgain.button            "ลองอีกครั้ง">
 
 <!ENTITY translation.serviceUnavailable.label   "การแปลไม่พร้อมใช้งานในขณะนี้ โปรดลองอีกครั้งในภายหลัง">

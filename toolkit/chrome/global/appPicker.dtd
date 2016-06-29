@@ -4,4 +4,4 @@
 
 <!ENTITY NoAppFound.label      "ไม่พบแอปพลิเคชันสำหรับชนิดไฟล์นี้">
 <!ENTITY BrowseButton.label    "เรียกดู…">
-<!ENTITY SendMsg.label         "ส่งไปยัง :">
+<!ENTITY SendMsg.label         "ส่งรายการนี้ไปยัง:">

@@ -14,11 +14,11 @@
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "ทั่วไป">
-<!ENTITY  generalTab.accesskey  "ท">
-<!ENTITY  generalURL            "ที่อยู่ :">
-<!ENTITY  generalType           "ชนิด :">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "ที่อยู่:">
+<!ENTITY  generalType           "ชนิด:">
 <!ENTITY  generalMode           "วิธีแสดงผล :">
-<!ENTITY  generalSize           "ขนาด :">
+<!ENTITY  generalSize           "ขนาด:">
 <!ENTITY  generalReferrer       "อ้างอิงจาก URL :">
 <!ENTITY  generalSource         "ตำแหน่งแคช :">
 <!ENTITY  generalModified       "วันที่แก้ไข :">
