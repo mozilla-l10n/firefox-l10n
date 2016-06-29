@@ -69,12 +69,14 @@
 <!ENTITY unknownSocketType.title "ចម្លើយតប​ពី​ម៉ាស៊ីន​បម្រើ​ដែល​មិន​បាន​រំពឹងទុក">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>ពិនិត្យមើល​ ដើម្បី​ឲ្យ​ប្រាកដ​ថា​ប្រព័ន្ធ​​របស់​អ្នក​មាន​កម្មវិធី​គ្រប់គ្រង​សុវត្ថិភាព​ផ្ទាល់ខ្លួន​ដែល​បាន​ដំឡើង​ រួចហើយ ។</li> <li>នេះ​ក៏​ព្រោះតែ​ការ​កំណត់​រចនាសម្ព័ន្ធ​មិន​ស្តង់ដារ​នៅ​លើ​ម៉ាស៊ីន​បម្រើ ។</li> </ul>">
 
+<!ENTITY nssFailure2.title "​ការ​តភ្ជាប់​សុវត្ថិភាព​បរាជ័យ">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>មិន​អាច​បង្ហាញ​ទំព័រ​ដែល​អ្នក​កំពុង​ព្យាយាម​មើល​ដោយ​សារ​មិន​អាច​ផ្ទៀងផ្ទាត់​ទិន្នន័យ​ដែល​បាន​ទទួល។</li> <li>សូម​​ទាក់ទង​ម្ចាស់​តំបន់​បណ្ដាញ ដើម្បី​ប្រាប់​អំពី​បញ្ហា​នេះ។</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "ការ​ត​ភ្ជាប់​របស់​អ្នក​មិន​មាន​សុវត្ថិភាពឡើយ​">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "ម្ចាស់​នៃ <span class='hostname'/> បាន​កំណត់​រចនាសម្ព័ន្ធ​វេបសាយ​របស់​ពួកគេ​មិន​ត្រឹមត្រូវ។ ដើម្បី​ការពារ​ព័ត៌មាន​របស់​អ្នក​ពី​ការ​លួច &brandShortName; មិន​បាន​ភ្ជាប់​ទៅ​វេបសាយ​នេះ​ទេ។">
 
 <!ENTITY sharedLongDesc "<ul> <li>តំបន់បណ្ដាញ​នេះ​អាច​នឹង​មិន​ដំណើរការ​ជា​បណ្ដោះអាសន្ន ឬ​ក៏​វា​រវល់​ពេក ។ ព្យាយាម​ម្ដងទៀត​ក្នុង​រយៈ​ពេល ​ពីរបី​​នាទី​ក្រោយ ។</li> <li>ប្រសិនបើ​ អ្នក​មិន​អាច​ផ្ទុក​​ទំព័រ​ណាមួយ​បាន​ទេ សូម​ពិនិត្យមើល​ការ​តភ្ជាប់​បណ្ដាញ​ កុំព្យូទ័រ​របស់​អ្នក ។</li> <li>ប្រសិនបើ​ កុំព្យូទ័រ ឬ​បណ្ដាញ​របស់​អ្នក​ត្រូវ​បាន​ការពារ​ដោយ​ជញ្ជាំងភ្លើង​ ឬ​ប្រូកស៊ី សូម​ប្រាកដ​ថា &brandShortName; អនុញ្ញាត​ឲ្យ​ចូល​ប្រើ​បណ្ដាញ ។</li> </ul>">
 
@@ -104,16 +106,20 @@ was trying to connect. -->
 <!ENTITY weakCryptoUsed.longDesc2 "ព័ត៌មាន​កម្រិត​ខ្ពស់​: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "កម្រិត​ខ្ពស់">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ប្រើប្រាស់​បច្ចេកវិទ្យា​ដែល​ហួស​សម័យ​ និង​ងាយ​រង​គ្រោះ​ពី​ការ​វាយ​ប្រហារ​នានា។ អ្នក​វាយ​ប្រហារ​អាច​ធ្វើ​ឲ្យ​ព័ត៌មាន​ដែល​អ្នក​គិត​ថា​មាន​សុវត្ថិភាពហើយ លេច​ចេញ​មក​បាន​យ៉ាង​ងាយ។">
-
+<!ENTITY weakCryptoAdvanced.override "(អសុវត្ថិភាព) ព្យាយាម​ផ្ទុក <span class='hostname'></span> ដោយ​ប្រើ​ប្រព័ន្ធ​សុវត្ថិភាព​ដែល​ហួស​សម័យ">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime "<p>​មិន​អាច​បង្កើត​ការ​តភ្ជាប់​ដោយ​សុវត្ថិភាព​ទៅ <span id='wrongSystemTime_URL'/> បាន​ទេ ពីព្រោះ​នាឡិកា​របស់​អ្នក​បង្ហាញ​ម៉ោង​ខុស។</p> <p>កុំព្យូទ័រ​របស់​អ្នក​គិត​ថា​វា​គឺជា <span id='wrongSystemTime_systemDate'/>, ខណៈ​ដែល​វា​គួរតែ <span id='wrongSystemTime_actualDate'/>។ អ្នក​អាច​ដោះស្រាយ​បញ្ហា​នេះ​បាន ដោយ​ប្ដូរ​ការ​កំណត់​កាលបរិច្ឆេទ​និង​ម៉ោង​ឲ្យ​បាន​ត្រឹមត្រូវ​ឡើងវិញ។</p>">
+
 <!ENTITY certerror.pagetitle1  "ការ​តភ្ជាប់​ដែល​មិន​មាន​សុវត្ថិភាព​">
-
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "វេបសាយ​នេះ​ប្រើ HTTP Strict Transport Security (HSTS) ដើម្បី​បញ្ជាក់​ថា &brandShortName; អាច​ភ្ជាប់​វា​បាន​តែតាម​វិធី​ដែល​មាន​សុវត្ថិភាព​ប៉ុណ្ណោះ។ ជា​លទ្ធផល វា​មិនអាច​បន្ថែម​ការ​លើកលែង​បាន​សម្រាប់​វិញ្ញាបនបត្រ​នេះ​ទេ។">
+<!ENTITY certerror.copyToClipboard.label "ចម្លង​អត្ថបទ​ទៅ​ក្ដារ​តម្បៀត​ខ្ទាស់">
 
 <!ENTITY inadequateSecurityError.title "ការ​ត​ភ្ជាប់​របស់​អ្នក​មិន​មាន​សុវត្ថិភាពឡើយ​">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ប្រើ​បច្ចេកវិទ្យា​សុវត្ថិភាព​ដែល​ហួស​សម័យ និង​​ងាយរង​ការ​វាយប្រហារ។ អ្នក​វាយប្រហារ​អាច​​​បញ្ចេញ​ព័ត៌មាន​ដែល​អ្នក​គិត​ថា​​មាន​សុវត្ថិភាព​ឲ្យ​គេ​ដឹង​បាន​យ៉ាង​ងាយស្រួល។ អ្នក​គ្រប់គ្រង​វេបសាយ​នឹង​ត្រូវ​​ជួសជុល​ម៉ាស៊ីន​មេ​ជា​មុន​ មុន​ពេល​អ្នក​អាច​ចូល​មើ​លវេបសាយ​បាន។</p><p>កូដ​កំហុស៖ NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "វា​ហាក់​ដូចជា​ការ​កំណត់​សុវត្ថិភាព​បណ្ដាញ​របស់​អ្នក​អាច​បង្ក​ឲ្យ​មាន​បញ្ហា​នេះ។ តើ​អ្នក​​ចង់​កំណត់​ជា​លំនាំដើម​ដើម្បី​សារ​បញ្ហា​នេះ​ដែរ ឬ​ទេ?">
+<!ENTITY prefReset.label "ស្ដារ​ការ​កំណត់​លំនាំដើម">

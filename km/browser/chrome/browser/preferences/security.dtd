@@ -17,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "ទប់ស្កាត់​ការ​ទាញយក​ដែល​គ្រោះថ្នាក់">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-
+<!ENTITY  blockUncommonUnwanted.label     "ព្រមាន​ខ្ញុំ​អំពី​ផ្នែក​ទន់​ដែលមិនត្រូវ​ការ និង​ខុស​ពី​ធម្មតា">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "ករណី​លើកលែង…">
 <!ENTITY  addonExceptions.accesskey     "ង">

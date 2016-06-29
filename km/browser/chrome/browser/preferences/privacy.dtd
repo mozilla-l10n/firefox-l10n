@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY  trackingProtectionHeader.label       "ប្រើប្រាស់​ការ​ការពារ​ការ​តាម​ដាន">
+<!ENTITY  trackingProtectionAlways.label       "ជានិច្ច">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "តែ​នៅ​ក្នុង​បង្អួច​ឯកជន​ប៉ុណ្ណោះ">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
-
-
+<!ENTITY  trackingProtectionNever.label        "កុំ">
+<!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "ស្វែងយល់​បន្ថែម​">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "ករណី​លើកលែង…">
+<!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "តាមដាន">
 <!ENTITY trackingProtectionPBM5.label         "ប្រើ​ការ​ទប់​ស្កាត់​ការ​តាម​ដាន​នៅ​ក្នុង​បង្អួចឯកជន​">
@@ -22,7 +24,7 @@
 
 <!ENTITY  doNotTrack.pre.label          "អ្នក​ក៏​អាច ">
 <!ENTITY  doNotTrack.settings.label     "គ្រប់គ្រង​ការ​កំណត់ &quot;កុំ​តាមដាន&quot; របស់​អ្នក">
-
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "ប្រវត្តិ">
 
