@@ -107,7 +107,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
-<!ENTITY aboutSupport.safeModeTitle "Tentar o modo de segurança">
+<!ENTITY aboutSupport.safeModeTitle "Tente o modo de segurança">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar com os extras desativados…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Funcionalidades">
