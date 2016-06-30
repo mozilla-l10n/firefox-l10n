@@ -37,7 +37,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
-<!ENTITY aboutSupport.appBasicsUpdateChannel "Sursă de actualizare">
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Canal de actualizare">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Istoricul actualizărilor">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Arată istoricul actualizărilor">
 
