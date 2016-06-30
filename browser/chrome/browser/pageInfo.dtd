@@ -82,6 +82,6 @@
 <!ENTITY  securityView.privacy.viewPasswords            "ดูรหัสผ่านที่บันทึกไว้">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "ร">
 
-<!ENTITY  securityView.technical.header                 "ข้อมูลทางเทคนิค">
+<!ENTITY  securityView.technical.header                 "รายละเอียดทางเทคนิค">
 
 <!ENTITY  helpButton.label                              "ช่วยเหลือ">
