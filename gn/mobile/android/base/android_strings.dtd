@@ -355,10 +355,10 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Aguara pytãju raríva ohechauka ndéve mba\u0027éichapa ipya\u0027eve, hasy\u0027ỹ ha hekorosãve. Nomba\u0027apói rupi viru rapykuéri año, oresãso rojapóvo mba\u0027epyahúva ou porãva ndéve, avave orejopy\u0027ỹre. Upéva he\u0027ise rehasa porãve reikévo ñanduti vevépe ha avei iporãve ñanduti veve renonderã.">
 
 <!ENTITY pref_media_autoplay_enabled "Emoneĩ ñemboheta ijeheguíva">
-<!ENTITY pref_media_autoplay_enabled_summary "Ñanduti renda ñangarekoha ikatu emboheta ijehegui ta\u0027ãngamýi ha ambue mba\u0027ekuaarã ñandutiguáva ">
+<!ENTITY pref_media_autoplay_enabled_summary "Ñanduti renda ñangarekoha ikatu omboheta ijehegui ta\u0027ãngamýi ha ambue mba\u0027ekuaarã ñandutiguáva">
 <!ENTITY pref_zoom_force_enabled "Emyendy tapiaite zoom">
-<!ENTITY pref_zoom_force_enabled_summary "Eipe\u0027a mbarete oimeraẽva kuatiarogue ñembotuicha">
-<!ENTITY pref_voice_input "Ñe\u0027ẽpu jeikeha">
+<!ENTITY pref_zoom_force_enabled_summary "Eipe\u0027a imbaretéva kuatiarogue ombotuichakuaáva">
+<!ENTITY pref_voice_input "Ñe\u0027ẽpu oikeha">
 <!ENTITY pref_voice_input_summary2 "Emoneĩ ñe\u0027ẽpu URL rendápe">
 <!ENTITY pref_qrcode_enabled "QR ayvu moñe\u0027ẽha">
 <!ENTITY pref_qrcode_enabled_summary2 "Emoneĩ QR moha\u0027ãngaha URL rendápe">
@@ -376,21 +376,21 @@ size. -->
 <!ENTITY pref_private_data_cookies2 "Kookie ha ñemyandypyréva">
 <!ENTITY pref_private_data_passwords2 "Tembiapo ñepyrũ ñongatupyréva">
 <!ENTITY pref_private_data_cache "Kache">
-<!ENTITY pref_private_data_offlineApps "Ñanduti renda mba\u0027ekuarã jeike\u0027ỹva">
+<!ENTITY pref_private_data_offlineApps "Ñanduti renda mba\u0027ekuaarã jeike\u0027ỹva">
 <!ENTITY pref_private_data_siteSettings2 "Tenda ñemboheko">
 <!ENTITY pref_private_data_downloadFiles2 "Ñemboguejy">
 <!ENTITY pref_private_data_syncedTabs "Tendayke ñembojuehepyre">
 
-<!ENTITY pref_default_browser "Ejapo kundahára ijypykuéva rupi">
+<!ENTITY pref_default_browser "Ejapo kundahára ijypykuéva">
 <!ENTITY pref_about_firefox "&brandShortName; reheguaite">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Temiandu mondo">
 
-<!ENTITY pref_dialog_set_default "Eipuru ijypykuéva rupi">
+<!ENTITY pref_dialog_set_default "Eipuru ijypykuévaramo">
 <!ENTITY pref_dialog_default "Ijypykue">
 <!ENTITY pref_dialog_remove "Mboguete">
 
-<!ENTITY pref_search_last_toast "Ndaikatúi embogue térã eipe\u0027aite jehekaha mongu\u0027eha ipaháva.">
+<!ENTITY pref_search_last_toast "Ndaikatúi emboguete térã eipe\u0027aite jehekaha mongu\u0027eha ipaháva.">
 
 <!ENTITY pref_panels_show "Chaukaha">
 <!ENTITY pref_panels_hide "Moñemi">
