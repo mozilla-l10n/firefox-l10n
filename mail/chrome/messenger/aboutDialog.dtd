@@ -103,6 +103,6 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Folosești în prezent ">
-<!ENTITY channel.description.end    " ca sursă de actualizare. ">
+<!ENTITY channel.description.end    " ca canal de actualizare. ">
 
 <!ENTITY cmdCloseMac.commandKey "w">
