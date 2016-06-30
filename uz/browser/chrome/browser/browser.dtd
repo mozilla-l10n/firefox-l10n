@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Soʻnggi xatchoʻpga qoʻshilgan saytlar">
 <!ENTITY otherBookmarksCmd.label "Boshqa xatcho‘plar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Ko‘proq xatcho‘plarni ko‘rsatish">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Soʻnggi xatchoʻpga qoʻshilgan saytlarni ko‘rsatish">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "Soʻnggi xatchoʻpga qoʻshilgan saytlarni yashirish">
+<!ENTITY hideRecentlyBookmarked.accesskey "y">
 
 <!ENTITY backCmd.label                "Orqaga">
 <!ENTITY backButton.tooltip           "Bir sahifa orqaga qaytish">
@@ -555,12 +555,12 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "o">
 <!ENTITY mediaUnmute.label           "Tovushni yoqish">
 <!ENTITY mediaUnmute.accesskey       "y">
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "Ijro etish tezligi">
+<!ENTITY mediaPlaybackRate2.accesskey "I">
+<!ENTITY mediaPlaybackRate050x2.label "Sekin (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "O‘rtacha">
+<!ENTITY mediaPlaybackRate100x2.accesskey "O">
 
 
 
