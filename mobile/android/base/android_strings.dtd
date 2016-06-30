@@ -226,7 +226,7 @@
 <!ENTITY pref_cookies_disabled "Nicht erlauben">
 
 <!ENTITY pref_category_data_saver "Geringerer Datenverbrauch">
-<!ENTITY pref_category_media "Medien">
+<!ENTITY pref_category_media "Medieninhalte">
 <!ENTITY pref_category_developer_tools "Entwicklerwerkzeuge">
 
 <!ENTITY pref_tap_to_load_images_title2 "Grafiken anzeigen">
@@ -246,7 +246,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Im Privaten Modus aktiviert">
 <!ENTITY pref_tracking_protection_disabled "Deaktiviert">
 
-<!ENTITY pref_whats_new_notification "Neue Funktionen und Änderungen in &brandShortName;">
+<!ENTITY pref_whats_new_notification "Neu in &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Erfahren Sie mehr über die nach einem Update zur Verfügung stehenden neuen Funktionen">
 
 <!ENTITY tracking_protection_prompt_title "Nun mit Schutz vor Aktivitätenverfolgung">
