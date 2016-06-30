@@ -22,7 +22,7 @@
 <!ENTITY attachFileCmd.accesskey "B">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
-<!ENTITY attachCloudCmd.accesskey "i">
+<!ENTITY attachCloudCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Webpagina…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -231,9 +231,9 @@
 <!ENTITY toAddr.label "Aan:">
 <!ENTITY ccAddr.label "Cc:">
 <!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Antwoord naar:">
+<!ENTITY replyAddr.label "Antwoord-naar:">
 <!ENTITY newsgroupsAddr.label "Nieuwsgroep:">
-<!ENTITY followupAddr.label "Reacties naar:">
+<!ENTITY followupAddr.label "Reacties-naar:">
 <!ENTITY subject.label "Onderwerp:">
 <!ENTITY subject.accesskey "n">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
@@ -289,7 +289,7 @@
 <!ENTITY attachFile.label "Bestand(en) koppelen…">
 <!ENTITY attachFile.accesskey "B">
 <!ENTITY attachCloud.label "Filelink…">
-<!ENTITY attachCloud.accesskey "i">
+<!ENTITY attachCloud.accesskey "F">
 <!ENTITY convertCloud.label "Converteren naar…">
 <!ENTITY convertCloud.accesskey "C">
 <!ENTITY cancelUpload.label "Uploaden annuleren">

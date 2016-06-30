@@ -7,7 +7,7 @@
 <!ENTITY identitiesListAdd.accesskey "T">
 <!ENTITY identitiesListEdit.label "Bewerken…">
 <!ENTITY identitiesListEdit.accesskey "B">
-<!ENTITY identitiesListDefault.label "Standaard instellen">
+<!ENTITY identitiesListDefault.label "Als standaard instellen">
 <!ENTITY identitiesListDefault.accesskey "d">
 <!ENTITY identitiesListDelete.label "Verwijderen">
 <!ENTITY identitiesListDelete.accesskey "V">
