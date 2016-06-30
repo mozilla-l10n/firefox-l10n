@@ -68,6 +68,7 @@
 <!ENTITY unknownSocketType.title "Неочакван отговор от сървъра">
 <!ENTITY unknownSocketType.longDesc "<ul><li>Проверете дали системата има инсталиран Personal Security Manager.</li><li>Настройките на сървъра може да са нестандартни.</li></ul>">
 
+<!ENTITY nssFailure2.title "Грешка в шифрованата връзка">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата, която искате да видите, не може да бъде показана, защото достоверността на получените данни не може да бъде проверена.</li> <li>Моля, свържете се със собствениците на уебсайта и ги информирайте за този проблем.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Връзка е незащитена">
