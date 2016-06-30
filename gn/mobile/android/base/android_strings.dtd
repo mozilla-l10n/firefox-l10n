@@ -259,27 +259,27 @@
 <!ENTITY pref_show_web_fonts_summary2 "Emboguejy teñoiha okayguáva henyhẽ aja kuatiarogue">
 
 <!ENTITY pref_tracking_protection_title2 "Tapykuereho ñemo\u0027ã">
-<!ENTITY pref_tracking_protection_summary3 "Embojuruja nde jeporeka neañoite">
+<!ENTITY pref_tracking_protection_summary3 "Embojuruja jeporeka añoguáva">
 <!ENTITY pref_donottrack_title "Ani rehapykue reka">
-<!ENTITY pref_donottrack_summary "&brandShortName; he\u0027íta tendakuérape nereikotevẽiha ñema\u0027ẽ ">
+<!ENTITY pref_donottrack_summary "&brandShortName; he\u0027íta tendakuérape nereikotevẽiha ñema\u0027ẽ">
 
 <!ENTITY pref_tracking_protection_enabled "Myandypyre">
-<!ENTITY pref_tracking_protection_enabled_pb "Embojuruja nde jeporeka neañoite">
+<!ENTITY pref_tracking_protection_enabled_pb "Embojuruja jeporeka añoguáva">
 <!ENTITY pref_tracking_protection_disabled "Ojepuruve\u0027ỹva">
 
 <!ENTITY pref_whats_new_notification "Mba\u0027e oĩ ipyahúva &brandShortName;-pe">
-<!ENTITY pref_whats_new_notification_summary "Eikuaa tembiaporã pyahu ñembohekopyahu rire">
+<!ENTITY pref_whats_new_notification_summary "Eikuaa tembiaporã pyahu ñembohekopyahu riregua">
 
 <!ENTITY tracking_protection_prompt_title "Ko\u0027ág̃a, jehapykueho ñemo\u0027ãha ndive">
 <!ENTITY tracking_protection_prompt_text "Ejoko mba\u0027epuru jehapykueho ani hag̃ua rejepy\u0027apy.">
 <!ENTITY tracking_protection_prompt_tip_text "Eho ñemboheko ñemiguápe eñemomaranduve hag̃ua">
-<!ENTITY tracking_protection_prompt_action_button "Aguerekóma!">
+<!ENTITY tracking_protection_prompt_action_button "Arekóma!">
 
 <!ENTITY tab_queue_toast_message3 "Tendayke oñeñongatu &brandShortName;-pe">
-<!ENTITY tab_queue_toast_action "Ijuruja ko\u0027ag̃a">
+<!ENTITY tab_queue_toast_action "Ijuruja ko\u0027ág̃a">
 <!ENTITY tab_queue_prompt_title "Ijurujáma heta juajuha?">
-<!ENTITY tab_queue_prompt_text4 "Eñongatúma eikejey peve &brandShortName;.">
-<!ENTITY tab_queue_prompt_tip_text2 "Ikatu emoambue tenondeve ñembohekópe">
+<!ENTITY tab_queue_prompt_text4 "Eñongatúma eikejey peve &brandShortName;-pe.">
+<!ENTITY tab_queue_prompt_tip_text2 "Ikatu emoambue tenondeve Ñembohekópe">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "Emyandy ta\u0027ãnga ñemoneĩ ambue tembipuru\u0027i ári">
@@ -287,7 +287,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Ko\u0027ág̃a nahániri">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "Eho ñembohekópe">
+<!ENTITY tab_queue_prompt_settings_button "Eho Ñembohekópe">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -300,7 +300,7 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
-<!ENTITY tab_queue_notification_settings "Eikévo \&quot;heta joajuhápe\&quot;, ikatúpa, embojuruja \u0027Moha\u0027ãnga ambue tembipuru ári\u0027 ñemoneĩ &brandShortName; pe g̃uarã">
+<!ENTITY tab_queue_notification_settings "Eikévo \&quot;heta joajuhápe\&quot;, ikatúpa, embojuruja \u0027Moha\u0027ãnga ambue tembipuru ári\u0027 ñemoneĩ &brandShortName;pe">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -317,21 +317,21 @@
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Hekopyahúva &formatS;-pe">
+<!ENTITY content_notification_updated_on "Hekopyahúva &formatS;">
 
-<!ENTITY pref_char_encoding "Tai\u0027aty mbopapapy hechauka">
+<!ENTITY pref_char_encoding "Tai\u0027aty mbopapapy">
 <!ENTITY pref_char_encoding_on "Poravorã jehechauka">
-<!ENTITY pref_char_encoding_off "Ani ehechauka menu">
+<!ENTITY pref_char_encoding_off "Ani ehechauka poravorã">
 <!ENTITY pref_clear_private_data2 "Mba\u0027ekuaarã ñemiguáva ñemopotĩ">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Hesakã ko\u0027ág̃a">
-<!ENTITY pref_clear_on_exit_title3 "Embogue mba\u0027ekuaarã ñemi ñesẽgua">
+<!ENTITY pref_clear_on_exit_title3 "Embogue mba\u0027ekuaarã ñemi esẽvo">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; omboguéta ijehegui mba\u0027ekuaarã embosa\u0027ývo \u0022Quit\u0022 poravorãite guive">
 <!ENTITY pref_clear_on_exit_dialog_title "Eiporavo mba\u0027ekuaarã embogueséva">
 <!ENTITY pref_plugins "Mboguejyrã\u0027i">
 <!ENTITY pref_plugins_enabled "Myendypyre">
-<!ENTITY pref_plugins_tap_to_play2 "Pokoha emboheta hag̃ua">
+<!ENTITY pref_plugins_tap_to_play2 "Pokoha ñembohetarã">
 <!ENTITY pref_plugins_disabled "Ojepuruve\u0027ỹva">
 <!ENTITY pref_text_size "Moñe\u0027ẽrã tuichakue">
 <!ENTITY pref_restore_tabs "Tendayke mbojevy">
@@ -341,7 +341,7 @@
 <!ENTITY pref_font_size_small "Michĩ">
 <!ENTITY pref_font_size_medium "Mbytegua">
 <!ENTITY pref_font_size_large "Tuicha">
-<!ENTITY pref_font_size_xlarge "Tuichaiterei">
+<!ENTITY pref_font_size_xlarge "Tuicharasáva">
 <!ENTITY pref_font_size_set "Mboheko">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
@@ -352,9 +352,9 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Aguara pytãju raríva ohechauka ndéve mba\u0027éichapa ipya\u0027eve, hasy\u0027ỹve ha hekorosãve. Ndoromba\u0027apói rupi viru rapykuéri, oresãso rojapóvo mba\u0027epyahúva ou porãva ndéve, avave orejopy\u0027ỹre. Upéva he\u0027ise rehasa porãve reikévo ñandutivevépe ha avei iporãve ñandutiveve renonderã.">
+<!ENTITY pref_font_size_preview_text "Aguara pytãju raríva ohechauka ndéve mba\u0027éichapa ipya\u0027eve, hasy\u0027ỹ ha hekorosãve. Nomba\u0027apói rupi viru rapykuéri año, oresãso rojapóvo mba\u0027epyahúva ou porãva ndéve, avave orejopy\u0027ỹre. Upéva he\u0027ise rehasa porãve reikévo ñanduti vevépe ha avei iporãve ñanduti veve renonderã.">
 
-<!ENTITY pref_media_autoplay_enabled "Emoneĩ mboheta jeheguíva">
+<!ENTITY pref_media_autoplay_enabled "Emoneĩ ñemboheta ijeheguíva">
 <!ENTITY pref_media_autoplay_enabled_summary "Ñanduti renda ñangarekoha ikatu emboheta ijehegui ta\u0027ãngamýi ha ambue mba\u0027ekuaarã ñandutiguáva ">
 <!ENTITY pref_zoom_force_enabled "Emyendy tapiaite zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Eipe\u0027a mbarete oimeraẽva kuatiarogue ñembotuicha">
