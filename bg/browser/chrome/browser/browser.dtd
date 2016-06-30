@@ -558,20 +558,21 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "З">
 <!ENTITY mediaPlaybackRate2.label     "Скорост на възпроизвеждане">
 <!ENTITY mediaPlaybackRate2.accesskey "о">
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate050x2.label "Бавна (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "Б">
+<!ENTITY mediaPlaybackRate100x2.label "Нормална">
+<!ENTITY mediaPlaybackRate100x2.accesskey "Н">
+<!ENTITY mediaPlaybackRate125x2.label "Бързо (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "р">
+<!ENTITY mediaPlaybackRate150x2.label "По-бърза (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "П">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Светкавична (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "С">
+<!ENTITY mediaLoop.label             "Повтаряне">
+<!ENTITY mediaLoop.accesskey         "в">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
