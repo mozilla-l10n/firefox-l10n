@@ -11,6 +11,6 @@
 <!ENTITY tabCrashed.emailMe "கூடுதல் தகவல் கிடைக்கும்பொழுது எனக்கு மின்னஞ்சல் செய்யவும்">
 <!ENTITY tabCrashed.crashReporter "மொசில்லா நொறுக்கு அறிக்கையாளர்">
 <!ENTITY tabCrashed.reportSent "சிதைவு அறிக்கையை ஏற்கனவே அனுப்பியாயிற்று. &brandShortName; சிறக்க உதவியதற்க்கு நன்றி!     ">
-<!ENTITY tabCrashed.closeTab "இந்த கீற்றை மூடு">
+<!ENTITY tabCrashed.closeTab "இந்த கீற்றை மூடவும்">
 <!ENTITY tabCrashed.restoreTab "இந்த கீற்றை மீட்கவும்">
 <!ENTITY tabCrashed.restoreAll "செயலிழந்த அனைத்து கீற்றுகளையும் மீட்கவும்">
