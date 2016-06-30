@@ -37,7 +37,7 @@
 <!ENTITY languagePopup.accessKey              "T">
 <!ENTITY downloadDictionaries.label           "Meer woordenboeken downloaden">
 
-<!ENTITY warnOnSendAccelKey.label             "Bevestiging vragen bij gebruik van sneltoets om berichten te verzenden">
+<!ENTITY warnOnSendAccelKey.label             "Bevestiging vragen bij het gebruik van sneltoets om berichten te verzenden">
 <!ENTITY warnOnSendAccelKey.accesskey         "B">
 <!ENTITY autoSave.label                       "Elke">
 <!ENTITY autoSave.accesskey                   "E">

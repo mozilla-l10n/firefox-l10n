@@ -17,7 +17,7 @@
 <!ENTITY newMessagesArrive.label          "Als nieuwe berichten binnenkomen:">
 <!ENTITY playSound.label                  "Een geluid afspelen">
 <!ENTITY playSound1.accesskey             "u">
-<!ENTITY showAnimatedAlert.label          "Een melding tonen">
+<!ENTITY showAnimatedAlert.label          "Een waarschuwing tonen">
 <!ENTITY showAnimatedAlert.accesskey      "t">
 <!ENTITY customizeMailAlert.label         "Aanpassen…">
 <!ENTITY customizeMailAlert.accesskey     "A">

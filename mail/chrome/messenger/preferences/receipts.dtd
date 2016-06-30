@@ -15,7 +15,7 @@
 <!ENTITY never.accesskey               "s">
 <!ENTITY returnSome.label              "In de volgende gevallen een leesbevestiging sturen">
 <!ENTITY returnSome.accesskey          "o">
-<!ENTITY notInToCc.label               "Als ik niet in de Aan of CC van het bericht sta:">
+<!ENTITY notInToCc.label               "Als ik niet in de Aan of Cc van het bericht sta:">
 <!ENTITY notInToCc.accesskey           "n">
 <!ENTITY outsideDomain.label           "Als de afzender zich buiten mijn domein bevindt:">
 <!ENTITY outsideDomain.accesskey       "b">
