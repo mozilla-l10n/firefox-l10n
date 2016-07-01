@@ -413,31 +413,31 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "Mbaéichapa oĩhína &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Emoherakuã mba\u0027ekuaarã &vendorShortName; ndive hesãi rehegua ha kundahára oipytyvõ oikumbývo kundahára apopyrépe">
+<!ENTITY datareporting_fhr_title "Mba\u0027éichapa oĩhína &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "Emoherakuã mba\u0027ekuaarã &vendorShortName; ndive hesãi rehegua ha kundahára oipytyvõ oikumbývo kundahára rembiapokue">
 <!ENTITY datareporting_abouthr_title "Ehecha marandu tesãi rehegua">
 <!ENTITY datareporting_telemetry_title "Telemetry">
-<!ENTITY datareporting_telemetry_summary "Embohasa tembiapokue rehegua, jepuru, hardware mba\u0027ete ha mba\u0027ekuaarã ne kundahára rehegua &vendorShortName; ndive oipytyvõ hag̃ua &brandShortName;-pe oikoporãvévo">
+<!ENTITY datareporting_telemetry_summary "Embohasa tembiapokue, jepuru, hardware mba\u0027ete ha mba\u0027ekuaarã ne kundahára &vendorShortName; ndive oipytyvõ hag̃ua &brandShortName;-pe oikoporãvévo">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; oguerahauka marandu jejavy rehegua oipytyvõ hag̃ua &vendorShortName;-pe omoheñóivo peteĩ kundahára oikoporãva">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Marandu jejavyguáva">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Mba\u0027epuru Rendaite">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Eipytyvõ &vendorShortName;pe oikuaa hag̃ua moõpa reime! Emoherakuã moõitépa reime Wi-Fi ha Locación celular rupive ikatu hag̃uáicha reipuru porãve mba\u0027epytyvorã geolocalización rehegua.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Eipytyvõ &vendorShortName;pe oikuaa hag̃ua moõpa reime! Emoherakuã moõpa Wi-Fi oĩ ha Locación celular ne mba\u0027e\u0027oka rupi ikatu hag̃uáicha eipuru porãve mba\u0027epytyvorã geolocalización rehegua.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "Ñembohekopyahu ijeheguíva">
 <!ENTITY pref_update_autodownload_wifi "Wi-Fi rupive añoite">
 <!ENTITY pref_update_autodownload_never "Araka\u0027eve">
-<!ENTITY pref_update_autodownload_always "Tapiaite">
+<!ENTITY pref_update_autodownload_always "Tapia">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Ñepytyvõ">
 
 <!ENTITY quit "Ñesẽ">
 
-<!ENTITY addons "Moimbaha">
+<!ENTITY addons "Moĩmbaha">
 <!ENTITY logins "Tembiapo ñepyrũ">
 <!ENTITY downloads "Ñemboguejy">
 <!ENTITY char_encoding "Tai\u0027aty mbopapapy">
@@ -446,8 +446,8 @@ size. -->
 <!ENTITY share_title "Omoherakuã">
 <!ENTITY share_image_failed "Ndaikatúi emoherakuã ko ta\u0027ãnga">
 <!ENTITY save_as_pdf "Eñongatu PDF ramo">
-<!ENTITY print "Ñembokuatia">
-<!ENTITY find_in_page "Eheka kuatiaroguépe">
+<!ENTITY print "Ñemonguatia">
+<!ENTITY find_in_page "Kuatiaroguépe jeheka">
 <!ENTITY desktop_mode "Ejerure mba\u0027erechaha renda">
 <!ENTITY page "Kuatiarogue">
 <!ENTITY tools "Tembipuru">
