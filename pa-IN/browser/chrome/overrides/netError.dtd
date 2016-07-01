@@ -157,6 +157,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "ਸਮੱਗਰੀ ਸੁਰੱਖਿਆ ਪਾਲਸੀ ਰਾਹੀਂ ਪਾਬੰਦੀ">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ਨੇ ਇਹ ਸਫ਼ੇ ਨੂੰ ਇਸ ਢੰਗ ਨਾਲ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕ ਦਿੱਤਾ ਹੈ, ਕਿਉਂਕਿ ਸਫ਼ੇ ਉੱਤੇ ਸਮੱਗਰੀ ਸਮੱਗਰੀ ਨੀਤੀ ਹੈ, ਜੋ ਇਸ ਤੋਂ ਰੋਕਦੀ ਹੈ।</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "ਛੋਟ ਸ਼ਾਮਲ">
@@ -182,6 +184,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>A secure connection to <span id='wrongSystemTime_URL'/> isn’t possible because your clock appears to show the wrong time.</p> <p>Your computer thinks it is <span id='wrongSystemTime_systemDate'/>, when it should be <span id='wrongSystemTime_actualDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
 
 <!ENTITY certerror.pagetitle1  "ਅਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "This site uses HTTP
@@ -195,3 +198,6 @@ certificate.">
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uਸੁਰੱਖਿਆ ਤਕਨੀਕ ਨੂੰ ਵਰਤਦਾ ਹੈ, ਜੋ ਕਿ ਪੁਰਾਣੀ ਹੋ ਚੁੱਕੀ ਹੈ ਅਤੇ ਹਮਲ਼ਿਆਂ ਦਾ ਸ਼ਿਕਾਰ ਹੋ ਸਕਦੀ ਹੈ। ਹਮਲਾਵਰ ਸੌਖੀ ਤਰ੍ਹਾਂ ਜਾਣਕਾਰੀ ਹਾਸਲ ਕਰ ਸਕਦਾ ਹੈ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਸੋਚਦੇ ਹੋ ਕਿ ਸੁਰੱਖਿਅਤ ਹੈ। ਤੁਹਾਡੇ ਵਲੋਂ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਤੋਂ ਪਹਿਲਾਂ ਵੈੱਬਸਾਈਟ ਦੇ ਪ੍ਰਸ਼ਾਸ਼ਕ ਨੂੰ ਸਰਵਰ ਨੂੰ ਪਹਿਲਾਂ ਠੀਕ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।</p><p>ਗਲਤੀ ਕੋਡ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+
+<!ENTITY prefReset.longDesc "It looks like your network security settings might be causing this. Do you want the default settings to be restored?">
+<!ENTITY prefReset.label "Restore default settings">
