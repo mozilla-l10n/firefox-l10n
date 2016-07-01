@@ -21,10 +21,10 @@
 
 <!ENTITY view.unsorted.label "Neřadit">
 <!ENTITY view.unsorted.accesskey "N">
-<!ENTITY view.sortAscending.label "Řadit od A do Z">
-<!ENTITY view.sortAscending.accesskey "A">
-<!ENTITY view.sortDescending.label "Řadit od Z do A">
-<!ENTITY view.sortDescending.accesskey "Z">
+<!ENTITY view.sortAscending.label "Vzestupně">
+<!ENTITY view.sortAscending.accesskey "V">
+<!ENTITY view.sortDescending.label "Sestupně">
+<!ENTITY view.sortDescending.accesskey "S">
 
 <!ENTITY view.groupNone.label "Nic">
 <!ENTITY view.groupNone.accesskey "N">
