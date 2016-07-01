@@ -449,13 +449,13 @@
 
 <!ENTITY tasksMenu.label "Asboblar">
 <!ENTITY tasksMenu.accesskey "A">
-
-
-
-
-
-
-
+<!ENTITY messengerCmd.label "Xat va yangiliklar to‘plami">
+<!ENTITY messengerCmd.accesskey "y">
+<!ENTITY addressBookCmd.label "Manzillar daftari">
+<!ENTITY addressBookCmd.accesskey "d">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Qo‘shimcha dasturlar">
+<!ENTITY addons.accesskey "Q">
 
 
 
