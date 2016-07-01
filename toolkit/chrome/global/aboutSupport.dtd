@@ -46,7 +46,7 @@ This is likely the same like date.heading in crashes.dtd. -->
 "Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateChannel "ਅੱਪਡੇਟ ਚੈਨਲ">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "ਅੱਪਡੇਟ ਅਤੀਤ">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖਾਓ">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "ਅੱਪਡੇਟ ਅਤੀਤ ਨੂੰ ਵੇਖਾਓ">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "ਪਰੋਫਾਈਲ ਡਾਇਰੈਕਟਰੀ">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -59,11 +59,13 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "ਯੂਜ਼ਰ ਏਜੰਟ">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "ਮੈਮੋਰੀ ਵਰਤੋਂ">
+<!ENTITY aboutSupport.appBasicsPerformance "ਕਾਰਗੁਜ਼ਾਰੀ">
+
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "ਰਜਿਸਟਰ ਕੀਤੇ Service Workers">
 
-<!ENTITY aboutSupport.appBasicsProfiles "Profiles">
+<!ENTITY aboutSupport.appBasicsProfiles "ਪਰੋਫਾਈਲ">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ਬਹੁ-ਕਾਰਜ ਵਿੰਡੋਜ਼">
 
@@ -94,6 +96,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.lockedPrefsValue "ਮੁੱਲ">
 
 <!ENTITY aboutSupport.graphicsTitle "ਗਰਾਫਿਕਸ">
+
+<!ENTITY aboutSupport.placeDatabaseTitle "ਥਾਵਾਂ ਦਾ ਡਾਟਾਬੇਸ">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "ਇਕਸਾਰਤਾ">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "ਇਕਸਾਰਤਾ ਨੂੰ ਤਸਦੀਕ ਕਰੋ">
+
 <!ENTITY aboutSupport.jsTitle "ਜਾਵਾਸਕ੍ਰਿਪਟ">
 <!ENTITY aboutSupport.jsIncrementalGC "ਵਾਧਾ GC">
 
@@ -120,3 +127,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "ਫੇਲ੍ਹ ਹੋਣ ਦੇ ਲਾਗ">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "ਫ਼ੈਸਲਾ ਲਾਗ">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "ਕਰੈਸ਼ ਗਾਰਡ ਆਯੋਗ ਫੀਚਰ">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "ਜੁਗਾੜ">
