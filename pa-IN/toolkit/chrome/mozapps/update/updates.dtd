@@ -66,6 +66,10 @@
 <!ENTITY  finishedBackground.more         "ਅੱਪਡੇਟ ਨੂੰ ਅਗਲੀ ਵਾਰ &brandShortName; ਚਾਲੂ ਹੋਣ ਉੱਤੇ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ
                                             &brandShortName; ਨੂੰ ਹੁਣ ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਆਪਣਾ ਕੰਮ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ।">
 
+<!ENTITY  finishedBackground.moreElevated "This update requires administrator privileges. The update will be
+                                           installed the next time &brandShortName; starts. You can restart
+                                           &brandShortName; now, continue working and restart later, or decline this
+                                           update.">
 <!ENTITY  update.details.label            "ਵੇਰਵੇ">
 <!ENTITY  update.installedOn.label        "ਇੰਸਟਾਲ ਕੀਤੇ:">
 <!ENTITY  update.status.label             "ਹਾਲਤ:">
