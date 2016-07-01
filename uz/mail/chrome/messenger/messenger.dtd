@@ -350,62 +350,62 @@
 <!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "Ro‘yxatga javob yozish">
 <!ENTITY replyToListMsgCmd.accesskey  "R">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY replyToListMsgCmd.key  "l">
+<!ENTITY forwardMsgCmd.label "Uzatish">
+<!ENTITY forwardMsgCmd.accesskey "U">
+<!ENTITY forwardMsgCmd.key  "l">
+<!ENTITY forwardAsMenu.label "Ba’zilarga uzatish">
+<!ENTITY forwardAsMenu.accesskey "u">
+<!ENTITY forwardAsInline.label "Qator ichida">
+<!ENTITY forwardAsInline.accesskey "Q">
+<!ENTITY forwardAsAttachmentCmd.label "Ilova">
+<!ENTITY forwardAsAttachmentCmd.accesskey "I">
+<!ENTITY editAsNewMsgCmd.label "Yangi xabar sifatida tahrirlash">
+<!ENTITY editAsNewMsgCmd.accesskey "t">
+<!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Qoralama xabarni tahrirlash">
+<!ENTITY editDraftMsgCmd.accesskey "Q">
+<!ENTITY createFilter.label "Xabardan filter yaratish…">
+<!ENTITY createFilter.accesskey "y">
+<!ENTITY moveMsgToMenu.label "Ko‘chirish">
+<!ENTITY moveMsgToMenu.accesskey "K">
+<!ENTITY moveCopyMsgRecentMenu.label "So‘nggi">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "S">
+<!ENTITY copyMessageLocation.label "Xabar manzilidan nusxa olish">
+<!ENTITY copyMessageLocation.accesskey "z">
+<!ENTITY copyMsgToMenu.label "Nusxa olish">
+<!ENTITY copyMsgToMenu.accesskey "N">
+<!ENTITY moveToFolderAgain.label "Yana ko‘chirish">
+<!ENTITY moveToFolderAgain.accesskey "Y">
+<!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY killThreadMenu.label "Yozishmalarni e’tiborsiz qoldirish">
+<!ENTITY killThreadMenu.accesskey "e">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Quyi yozishmalarni e’tiborsiz qoldirish">
+<!ENTITY killSubthreadMenu.accesskey "e">
+<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Yozishmani ko‘rish">
+<!ENTITY watchThreadMenu.accesskey "k">
+<!ENTITY watchThreadMenu.key "w">
+<!ENTITY tagMenu.label "Teg">
+<!ENTITY tagMenu.accesskey "T">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "Belgilash">
+<!ENTITY markMenu.accesskey "B">
+<!ENTITY toggleReadCmd.key "m">
+<!ENTITY markAsReadCmd.label "O‘qilgan sifatida">
+<!ENTITY markAsReadCmd.accesskey "O">
+<!ENTITY markAsUnreadCmd.label "O‘qilmagan sifatida">
+<!ENTITY markAsUnreadCmd.accesskey "O">
 
 
 
