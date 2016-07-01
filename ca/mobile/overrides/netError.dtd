@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "S'ha produït un problema en carregar la pàgina">
-<!ENTITY retry.label "Torneu-ho a provar">
+<!ENTITY retry.label "Torna-ho a provar">
 <!-- Specific error messages -->
 
 
@@ -24,6 +24,7 @@
 <!ENTITY fileNotFound.title "No s'ha trobat el fitxer">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Comproveu les majúscules i minúscules del nom del fitxer i qualsevol altre error que s'hagi produït en teclejar.</li> <li>Comproveu que el fitxer no s'hagi mogut, canviat de nom o eliminat.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "S'ha denegat l'accés al fitxer">
 
 
 <!ENTITY generic.title "Ups.">
