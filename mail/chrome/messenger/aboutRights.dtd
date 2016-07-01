@@ -49,8 +49,8 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights.webservices-a "&brandFullName; začleňuje informační služby webových serverů („Služby“), například službu aktualizace doplňků, které jsou dostupné v rámci této binární verze aplikace &brandShortName; za podmínek popsaných níže. Pokud si nepřejete Služby používat nebo jsou pro vás níže uvedené podmínky neakceptovatelné, lze tyto služby vypnout. Službu aktualizace doplňků lze vypnout pomocí dialogu Možnosti a volbou panelu ">
-<!ENTITY rights.webservices-b "Rozšířené,">
-<!ENTITY rights.webservices-c " s následnou volbou karty ">
+<!ENTITY rights.webservices-b "Rozšířené">
+<!ENTITY rights.webservices-c ", následnou volbou karty ">
 <!ENTITY rights.webservices-d "Aktualizace">
 <!ENTITY rights.webservices-e " a zrušením zaškrtnutí položek v části „Automaticky kontrolovat aktualizace“.">
 

@@ -153,7 +153,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.tooltip                          "Smaže označenou položku">
 
 <!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Složky kontaktů">
+<!ENTITY dirTreeHeader.label                            "Kontakty">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Jméno nebo e-mail">

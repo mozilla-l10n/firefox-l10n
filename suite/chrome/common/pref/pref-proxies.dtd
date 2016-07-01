@@ -9,23 +9,23 @@
 <!ENTITY  pref.proxies.desc             "Proxy server je síťová služba, která umožňuje filtrovat a urychlovat připojení k Internetu.">
 <!ENTITY  proxyTitle.label              "Konfigurace proxy serverů pro přístup k síti">
 <!ENTITY  directTypeRadio.label         "Přímé připojení k síti">
-<!ENTITY  directTypeRadio.accesskey     "P">
+<!ENTITY  directTypeRadio.accesskey     "j">
 <!ENTITY  systemTypeRadio.label         "Použít nastavení proxy serverů v systému">
-<!ENTITY  systemTypeRadio.accesskey     "n">
+<!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  manualTypeRadio.label         "Ruční konfigurace proxy serveru">
-<!ENTITY  manualTypeRadio.accesskey     "R">
+<!ENTITY  manualTypeRadio.accesskey     "k">
 <!ENTITY  wpadTypeRadio.label           "Automatické zjištění konfigurace proxy serveru">
 <!ENTITY  wpadTypeRadio.accesskey       "A">
-<!ENTITY  autoTypeRadio.label           "Automatická konfigurace proxy serveru (URL):">
-<!ENTITY  autoTypeRadio.accesskey       "u">
-<!ENTITY  reload.label                  "Obnovit">
-<!ENTITY  reload.accesskey              "b">
+<!ENTITY  autoTypeRadio.label           "URL pro automatickou konfiguraci proxy serveru:">
+<!ENTITY  autoTypeRadio.accesskey       "m">
+<!ENTITY  reload.label                  "Znovu načíst">
+<!ENTITY  reload.accesskey              "Z">
 <!ENTITY  http.label                    "HTTP proxy:">
-<!ENTITY  http.accesskey                "X">
+<!ENTITY  http.accesskey                "H">
 <!ENTITY  port.label                    "Port:">
-<!ENTITY  HTTPPort.accesskey            "o">
+<!ENTITY  HTTPPort.accesskey            "p">
 <!ENTITY  advanced.label                "Rozšířené…">
 <!ENTITY  advanced.accesskey            "z">
 <!ENTITY  noproxy.label                 "Nepoužívat proxy server pro:">
-<!ENTITY  noproxy.accesskey             "e">
+<!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Příklad: .mozilla.org, .net.nz, 192.168.1.0/24">

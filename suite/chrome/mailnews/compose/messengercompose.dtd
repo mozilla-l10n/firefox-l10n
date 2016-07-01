@@ -128,7 +128,7 @@
 <!ENTITY renameAttachment.accesskey "P">
 <!ENTITY deleteAttachment.accesskey "m">
 <!ENTITY selectAllAttachments.accesskey "a">
-<!ENTITY attachFile.label "Připojit soubor(y)…">
+<!ENTITY attachFile.label "Připojit soubor…">
 <!ENTITY attachFile.accesskey "S">
-<!ENTITY attachPage.label "Připojit WWW stránku…">
+<!ENTITY attachPage.label "Připojit webovou stránku…">
 <!ENTITY attachPage.accesskey "W">

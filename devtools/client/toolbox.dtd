@@ -200,7 +200,7 @@
 <!ENTITY options.sourceeditor.detectindentation.label   "Detekce odsazení">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Hádá odsazení na základě obsahu">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Automaticky uzavírat závorky">
-<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Automaticky vkládá uzavírací závorky">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Zajistí automatické vkládání ukončovacích závorek">
 <!ENTITY options.sourceeditor.expandtab.label           "Odsazení pomocí mezer">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Použije mezery namísto tabulátorů">
 <!ENTITY options.sourceeditor.tabsize.label             "Velikost odsazení">

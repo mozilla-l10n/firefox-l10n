@@ -7,7 +7,7 @@
 <!ENTITY directoryName.accesskey "n">
 <!ENTITY directoryHostname.label "Server: ">
 <!ENTITY directoryHostname.accesskey "s">
-<!ENTITY directoryBaseDN.label "DN základny: ">
+<!ENTITY directoryBaseDN.label "Základní rozlišovací jméno: ">
 <!ENTITY directoryBaseDN.accesskey "d">
 <!ENTITY findButton.label "Hledat">
 <!ENTITY findButton.accesskey "h">

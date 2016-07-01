@@ -23,7 +23,7 @@
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Soubor přes úložiště">
 <!ENTITY attachCloudCmd.accesskey "b">
-<!ENTITY attachPageCmd.label "WWW stránka…">
+<!ENTITY attachPageCmd.label "Webová stránka…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Osobní vizitka (vCard)">
