@@ -561,16 +561,17 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "O‘rtacha">
 <!ENTITY mediaPlaybackRate100x2.accesskey "O">
-
-
-
-
+<!ENTITY mediaPlaybackRate125x2.label "Tez (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "T">
+<!ENTITY mediaPlaybackRate150x2.label "Tezroq (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "T">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Kulguli tezlik (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "K">
+<!ENTITY mediaLoop.label             "Takrorlash">
+<!ENTITY mediaLoop.accesskey         "T">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
