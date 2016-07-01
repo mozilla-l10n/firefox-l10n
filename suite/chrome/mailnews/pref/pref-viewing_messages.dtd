@@ -34,10 +34,10 @@
 <!ENTITY markAsReadAfter.accesskey        "z">     
 <!ENTITY secondsLabel.label "sekundách">
 
-<!ENTITY openingMessages.label "Otevírané zprávy zobrazit:">
-<!ENTITY newWindowRadio.label "V novém okně">
-<!ENTITY newWindowRadio.accesskey "n">
-<!ENTITY existingWindowRadio.label "V existujícím okně se zprávou">
+<!ENTITY openingMessages.label "Otevírat zprávy v:">
+<!ENTITY newWindowRadio.label "Novém okně">
+<!ENTITY newWindowRadio.accesskey "N">
+<!ENTITY existingWindowRadio.label "Existujícím okně se zprávou">
 <!ENTITY existingWindowRadio.accesskey "x">
 <!ENTITY disableContent.label "Blokovat ve zprávách načítání obrázků a jiného obsahu ze vzdálených serverů">
 <!ENTITY disableContent.accesskey "B">

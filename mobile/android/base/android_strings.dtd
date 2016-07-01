@@ -69,7 +69,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "Záložky již byla přidána">
+<!ENTITY bookmark_already_added "Již přidána">
 <!ENTITY bookmark_removed "Záložka odebrána">
 <!ENTITY bookmark_updated "Záložka aktualizována">
 <!ENTITY bookmark_options "Možnosti">
@@ -151,7 +151,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Záložka">
-<!ENTITY overlay_share_bookmark_btn_label_already "Již byla přidána">
+<!ENTITY overlay_share_bookmark_btn_label_already "Již přidána">
 <!ENTITY overlay_share_send_other "Odeslat do jiného zařízení">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the

@@ -29,7 +29,7 @@
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
-<!ENTITY options.context.advancedSettings "Pokročilá nastavení">
+<!ENTITY options.context.advancedSettings "Rozšířené nastavení">
 
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->

@@ -672,7 +672,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Přidat slovník…">
-<!ENTITY spellAddDictionaries.accesskey "s">
+<!ENTITY spellAddDictionaries.accesskey "P">
 
 <!ENTITY editBookmark.done.label                     "Dokončit">
 <!ENTITY editBookmark.removeBookmark.accessKey       "S">

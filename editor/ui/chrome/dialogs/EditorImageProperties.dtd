@@ -68,7 +68,7 @@
 <!ENTITY showImageLinkBorder.accessKey "o">
 <!ENTITY LinkAdvancedEditButton.label "Rozšířené úpravy odkazu…">
 <!ENTITY LinkAdvancedEditButton.accessKey "L">
-<!ENTITY LinkAdvancedEditButton.tooltip "Umožní přidat nebo upravit HTML atributy, styly a JavaScript">
+<!ENTITY LinkAdvancedEditButton.tooltip "Vložení nebo úprava HTML atributů, stylů a JavaScriptu">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulář">

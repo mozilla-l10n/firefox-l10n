@@ -160,11 +160,11 @@ za chvíli.</li>
 <!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila v nahrání této stránky, protože tato stránka má bezpečnostní pravidla, která takovýto způsob nahrání zakazují.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Chyba v obsahu stránky">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Stránka, kterou se snažíte zobrazit nemůže být zobrazena, protože byla detekována chyba v přenosu dat.</p><ul><li>Prosím, kontaktujte správce webové stránky a informujte je o tomto problému.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Stránka, kterou se snažíte načíst, nemůže být zobrazena, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím správce serveru a informujte je o tomto problému.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Nebo můžete přidat výjimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Rychle odsud pryč">
-<!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku">
+<!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
@@ -184,4 +184,4 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.title "Vaše připojení není zabezpečené">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii zabezpečení, která je zastaralá a náchylná k útoku. Útočník může snadno odhalit informace, které si myslíte, že jsou bezpečené. Administrátor webové stránky musí opravit server než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii která je zastaralá a náchylná k útoku. Útočník může snadno získat informace, které si myslíte, že jsou zabezpečené. Administrátor serveru musí server opravit předtím, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

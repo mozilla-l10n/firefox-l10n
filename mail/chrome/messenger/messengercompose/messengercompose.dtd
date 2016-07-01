@@ -300,7 +300,7 @@
 <!ENTITY attachPage.accesskey "w">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Přidat slovníky…">
+<!ENTITY spellAddDictionaries.label "Přidat slovník…">
 <!ENTITY spellAddDictionaries.accesskey "P">
 
 <!-- Title for the address picker panel -->

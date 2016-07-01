@@ -45,7 +45,7 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- My Recovery Key dialog -->
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; zachovává vaše soukromí">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; chrání vaše soukromí">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Z důvodu zajištění vašeho soukromí jsou všechna vaše data před nahráním na server zašifrována. Obnovovací klíč potřebný k rozšifrování vašich dat nahrán není.">
 <!ENTITY recoveryKeyEntry.label        "Obnovovací klíč">
 <!ENTITY recoveryKeyEntry.accesskey    "K">

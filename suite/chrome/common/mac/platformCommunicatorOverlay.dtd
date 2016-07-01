@@ -52,7 +52,7 @@
 <!ENTITY zoomWindowCmd.label            "Lupa">
 
 <!-- Help menu -->
-<!ENTITY openHelpCmd.label              "Nápověda &brandShortName;">
+<!ENTITY openHelpCmd.label              "Nápověda aplikace &brandShortName;">
 <!ENTITY openHelpCmd.accesskey          "N">
 <!ENTITY openHelpCmd.key                "?">
 <!ENTITY openHelpCmd.modifiers          "accel">

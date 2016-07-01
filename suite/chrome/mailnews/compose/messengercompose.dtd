@@ -104,7 +104,7 @@
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
 <!ENTITY sendButton.label "Odeslat">
-<!ENTITY addressButton.label "Adresář">
+<!ENTITY addressButton.label "Adresa">
 <!ENTITY attachButton.label "Připojit">
 <!ENTITY spellingButton.label "Pravopis">
 <!ENTITY saveButton.label "Uložit">

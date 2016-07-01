@@ -4,7 +4,7 @@
 
 <!ENTITY AdvancedEditButton.label "Rozšířené úpravy…">
 <!ENTITY AdvancedEditButton.accessKey "R">
-<!ENTITY AdvancedEditButton.tooltip "Vložení či změna vlastností HTML, stylu a JavaScriptu">
+<!ENTITY AdvancedEditButton.tooltip "Vložení nebo úprava HTML atributů, stylů a JavaScriptu">
 <!ENTITY chooseFileButton.label "Vybrat soubor…">
 <!ENTITY chooseFileButton.accessKey "s">
 <!ENTITY chooseFileLinkButton.label "Vybrat soubor…">

@@ -45,7 +45,7 @@
 <!ENTITY propertiesCmd.key "i">
 
 <!-- View Menu -->
-<!ENTITY showAbToolbarCmd.label "Nástrojová lišta s kontakty">
+<!ENTITY showAbToolbarCmd.label "Lišta adresáře">
 <!ENTITY showAbToolbarCmd.accesskey "n">
 <!ENTITY layoutMenu.label "Rozmístění">
 <!ENTITY layoutMenu.accesskey "R">
@@ -85,7 +85,7 @@
 <!ENTITY searchBox.title "Hledat">
 
 <!-- Tooltips -->
-<!ENTITY addressbookToolbar.tooltip "Lišta složky kontaktů">
+<!ENTITY addressbookToolbar.tooltip "Lišta adresáře">
 <!ENTITY newContactButton.tooltip "Vytvoří nový kontakt">
 <!ENTITY newlistButton.tooltip "Vytvoří novou skupinu">
 <!ENTITY editItemButton.tooltip "Upraví označenou položku">

@@ -15,7 +15,7 @@
 
 <!ENTITY generalTab "Obecné">
 <!ENTITY generalTab.accesskey "O">
-<!ENTITY generalURL "URL:">
+<!ENTITY generalURL "Adresa:">
 <!ENTITY generalType "Typ:">
 <!ENTITY generalMode "Režim vykreslování:">
 <!ENTITY generalSize "Velikost:">
