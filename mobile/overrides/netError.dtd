@@ -88,14 +88,14 @@
 <!ENTITY contentEncodingError.title "Chyba kódování obsahu">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Kontaktujte prosím vlastníka webového serveru a informujte ho o tomto problému.</li>
+  <li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Nebezpečný typ souboru">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Kontaktujte prosím vlastníka stránky a informujte ho o tomto problému.</li>
+  <li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li>
 </ul>
 ">
 
@@ -154,7 +154,7 @@ Personal Security Manager.</li>
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Požadovanou stránku nelze zobrazit, protože nelze ověřit autenticitu přijatých dat.</li>
-  <li>Kontaktujte prosím vlastníka webového serveru a informujte ho o tomto problému.</li>
+  <li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li>
 </ul>
 ">
 
@@ -183,7 +183,7 @@ kdo se snaží vydávat za server.</li>
 <!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila v nahrání této stránky, protože tato stránka má bezpečnostní pravidla, která takovýto způsob nahrání zakazují.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Chyba v obsahu stránky">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Stránka, kterou se snažíte načíst, nemůže být zobrazena, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím správce serveru a informujte je o tomto problému.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanou stránku nelze zobrazit, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Nebo můžete přidat výjimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Rychle odsud pryč">
@@ -202,7 +202,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY remoteXUL.title "Vzdálené XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte prosím vlastníka stránky a informujte ho o tomto problému.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Nelze se zabezpečeně připojit">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
