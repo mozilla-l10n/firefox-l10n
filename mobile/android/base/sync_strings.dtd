@@ -16,6 +16,8 @@
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "ఆ పరికరం నా దగ్గర లేదు…">
 <!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.passwords2 "ప్రవేశాలు">
 <!ENTITY sync.configure.engines.title.history "చరిత్ర">
 <!ENTITY sync.configure.engines.title.tabs "ట్యాబులు">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
