@@ -5,7 +5,7 @@
 <!ENTITY accountWindow.title "Vlastnosti účtu">
 <!ENTITY accountWindow.width "300">
 <!ENTITY account.general "Obecné">
-<!ENTITY account.advanced "Pokročilé">
+<!ENTITY account.advanced "Rozšířené možnosti">
 <!ENTITY account.name "Uživatelské jméno:">
 <!ENTITY account.password "Heslo:">
 <!ENTITY account.alias "Alias:">

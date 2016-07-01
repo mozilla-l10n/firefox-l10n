@@ -22,7 +22,7 @@
 
 <!ENTITY generalTab "Obecné">
 <!ENTITY generalTab.accesskey "O">
-<!ENTITY generalURL "URL:">
+<!ENTITY generalURL "Adresa:">
 <!ENTITY generalType "Typ:">
 <!ENTITY generalMode "Režim vykreslování:">
 <!ENTITY generalSize "Velikost:">
@@ -58,7 +58,7 @@
 
 <!ENTITY mediaTab "Média">
 <!ENTITY mediaTab.accesskey "M">
-<!ENTITY mediaURL "URL:">
+<!ENTITY mediaURL "Adresa:">
 <!ENTITY mediaAlt "Alternativní text:">
 <!ENTITY mediaAltHeader "Alternativní text">
 <!ENTITY mediaAddress "Adresa">

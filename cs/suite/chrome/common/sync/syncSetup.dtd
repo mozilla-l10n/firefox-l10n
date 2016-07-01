@@ -60,7 +60,7 @@
 <!ENTITY setup.captchaPage2.title.label     "Potvrďte prosím, že nejste robot">
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Přidání zařízení">
+<!ENTITY addDevice.title.label              "Přidat zařízení">
 <!ENTITY addDevice.showMeHow.label          "Zobrazit nápovědu.">
 <!ENTITY addDevice.dontHaveDevice.label     "Nemám zařízení u sebe">
 <!ENTITY addDevice.setup.description.label  "Pro aktivaci přejděte do dialogu možností &syncBrand.shortName.label; na připojeném zařízení a zvolte „Přidat zařízení“.">
@@ -99,7 +99,7 @@
 <!ENTITY engine.prefs.accesskey     "e">
 
 <!ENTITY choice2.merge.main.label      "Sloučit data na tomto počítači s daty &syncBrand.shortName.label;">
-<!ENTITY choice2.merge.recommended.label "Doporučováno:">
+<!ENTITY choice2.merge.recommended.label "(doporučeno)">
 <!ENTITY choice2.client.main.label     "Nahradit všechna data na tomto počítači daty z vašeho &syncBrand.shortName.label;">
 <!ENTITY choice2.server.main.label     "Nahradit data na ostatních zařízeních daty na tomto počítači">
 

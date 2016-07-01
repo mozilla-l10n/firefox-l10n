@@ -588,7 +588,7 @@
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nová zpráva">
-<!ENTITY appmenuNewContactCmd.label "Kontakt v adresáři…">
+<!ENTITY appmenuNewContactCmd.label "Kontakt…">
 <!ENTITY appmenuEditMenu.label "Upravit">
 <!ENTITY appmenuToolbarLayout.label "Upravit lišty…">
 <!ENTITY appmenuSelectThread.label "Vybrat vlákna">
@@ -877,7 +877,7 @@
 <!ENTITY reportPhishingURL.accesskey "N">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Přidat slovníky…">
+<!ENTITY spellAddDictionaries.label "Přidat slovník…">
 <!ENTITY spellAddDictionaries.accesskey "P">
 
 <!-- Content Pane Context Menu -->

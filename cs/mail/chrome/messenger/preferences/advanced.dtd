@@ -31,7 +31,7 @@
 <!ENTITY searchIntegration.accesskey   "v">
 <!ENTITY checkDefaultsNow.label        "Zkontrolovat…">
 <!ENTITY checkDefaultsNow.accesskey    "Z">
-<!ENTITY configEditDesc.label          "Rozšířená konfigurace">
+<!ENTITY configEditDesc.label          "Rozšířené nastavení">
 <!ENTITY configEdit.label              "Editor předvoleb…">
 <!ENTITY configEdit.accesskey          "i">
 <!ENTITY returnReceiptsInfo.label      "Určuje, jak aplikace &brandShortName; zachází s potvrzením o přečtení">

@@ -166,7 +166,7 @@ za chvíli.</li>
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Stránka, kterou se snažíte načíst, nemůže být zobrazena, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím správce serveru a informujte je o tomto problému.</li></ul>">
 
 
-<!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku">
+<!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku…">
 
 <!ENTITY errorReporting.automatic2 "Hlásit chyby jako je tato a pomoci tak organizaci Mozilla identifikovat a blokovat škodlivé stránky">
 <!ENTITY errorReporting.learnMore "Zjistit více…">

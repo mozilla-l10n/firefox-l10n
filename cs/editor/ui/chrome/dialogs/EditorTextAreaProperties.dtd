@@ -16,7 +16,7 @@
 <!ENTITY TextAreaDisabled.accessKey "V">
 <!ENTITY TextAreaTabIndex.label "Rejstřík pro tab:">
 <!ENTITY TextAreaTabIndex.accessKey "R">
-<!ENTITY TextAreaAccessKey.label "Přístupový klíč:">
+<!ENTITY TextAreaAccessKey.label "Přístupová klávesa:">
 <!ENTITY TextAreaAccessKey.accessKey "k">
 <!ENTITY InitialText.label "Výchozí text:">
 <!ENTITY InitialText.accessKey "t">
