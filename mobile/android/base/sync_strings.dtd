@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etiquetes">
 <!ENTITY bookmarks.folder.toolbar.label "Barra d\u0027eines de les adreces">
-
+<!ENTITY bookmarks.folder.other.label "Altres adreces d\u0027interès">
 <!ENTITY bookmarks.folder.desktop.label "Adreces d\u0027escriptori">
 <!ENTITY bookmarks.folder.mobile.label "Adreces del mòbil">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->

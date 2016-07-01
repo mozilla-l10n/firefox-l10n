@@ -72,6 +72,7 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Captures de pantalla">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Llista de lectura">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
@@ -184,7 +185,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
+<!ENTITY pref_category_notifications "Notificacions">
 
 <!ENTITY pref_content_notifications "Actualitzacions de llocs web">
 
@@ -243,7 +244,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "Mostra les imatges">
 <!ENTITY pref_tap_to_load_images_enabled "Sempre">
 <!ENTITY pref_tap_to_load_images_data "Només per Wi-Fi">
-
+<!ENTITY pref_tap_to_load_images_disabled2 "Blocat">
 
 <!ENTITY pref_show_web_fonts "Mostra els tipus de lletra web">
 
@@ -314,10 +315,10 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccioneu quines dades cal netejar">
 <!ENTITY pref_plugins "Connectors">
 <!ENTITY pref_plugins_enabled "Habilitats">
-
+<!ENTITY pref_plugins_tap_to_play2 "Toca per iniciar-los">
 <!ENTITY pref_plugins_disabled "Inhabilitats">
 <!ENTITY pref_text_size "Mida del text">
-
+<!ENTITY pref_restore_tabs "Restaura les pestanyes">
 <!ENTITY pref_restore_always "Restaura-les sempre">
 <!ENTITY pref_restore_quit "No les restauris en sortir del &brandShortName;">
 <!ENTITY pref_font_size_tiny "Molt petita">
@@ -544,8 +545,9 @@ size. -->
 <!ENTITY home_title "Inici del &brandShortName;">
 <!ENTITY home_history_title "Historial">
 
-
+<!ENTITY home_synced_devices_number "&formatD; dispositius">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 dispositiu">
 
 <!ENTITY home_clear_history_button "Neteja l\u0027historial de navegació">
 <!ENTITY home_clear_history_confirm "Esteu segur que voleu netejar l\u0027historial?">
@@ -741,14 +743,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY restrictable_feature_advanced_settings "Paràmetres avançats">
 
-
+<!ENTITY restrictable_feature_camera_microphone "Càmera i micròfon">
 
 <!ENTITY restrictable_feature_block_list "Llista de bloquejos">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "Firefox: Quant al navegador">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Personalització amb complements">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Assistència">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
@@ -763,8 +769,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Afegeix a la pantalla d\u0027inici">
 
 
+<!ENTITY helper_first_offline_bookmark_button "Vés a les adreces d\u0027interès">
 
+<!ENTITY helper_triple_readerview_open_title "Disponible fora de línia">
 
-
-
+<!ENTITY helper_triple_readerview_open_button "Afegeix a les adreces d\u0027interès">
 
