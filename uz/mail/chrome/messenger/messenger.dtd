@@ -276,76 +276,80 @@
 <!ENTITY findAgainCmd.accesskey "p">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-
-
-
-
-
-
-
+<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "Xabarlarni izlash…">
+<!ENTITY searchMailCmd.accesskey "X">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "Manzillarni izlash…">
+<!ENTITY searchAddressesCmd.accesskey "i">
 <!-- Go Menu -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY goMenu.label "O‘tish">
+<!ENTITY goMenu.accesskey "t">
+<!ENTITY nextMenu.label "Keyingi">
+<!ENTITY nextMenu.accesskey "K">
+<!ENTITY nextMsgCmd.label "Xabar">
+<!ENTITY nextMsgCmd.accesskey "X">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "O‘qilmagan xabar">
+<!ENTITY nextUnreadMsgCmd.accesskey "O">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextStarredMsgCmd.label "Yulduzcha qo‘yilgan xabarlar">
+<!ENTITY nextStarredMsgCmd.accesskey "Y">
+<!ENTITY nextUnreadThread.label "Oʻqilmagan yozishma">
+<!ENTITY nextUnreadThread.accesskey "y">
+<!ENTITY nextUnreadThread.key "t">
+<!ENTITY prevMenu.label "Oldingi">
+<!ENTITY prevMenu.accesskey "l">
+<!ENTITY prevMsgCmd.label "Xabar">
+<!ENTITY prevMsgCmd.accesskey "X">
+<!ENTITY prevMsgCmd.key "b">
+<!ENTITY prevUnreadMsgCmd.label "Oʻqilmagan xabar">
+<!ENTITY prevUnreadMsgCmd.accesskey "U">
+<!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY goForwardCmd.label "Uzatish">
+<!ENTITY goForwardCmd.accesskey "U">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "Orqaga">
+<!ENTITY goBackCmd.accesskey "r">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Chat">
+<!ENTITY goChatCmd.accesskey "C">
+<!ENTITY goChatCmd.key "I">
+<!ENTITY prevStarredMsgCmd.label "Yulduzcha qo‘yilgan xabar">
+<!ENTITY prevStarredMsgCmd.accesskey "Y">
+<!ENTITY folderMenu.label "Jild">
+<!ENTITY folderMenu.accesskey "J">
+<!ENTITY goRecentlyClosedTabs.label "Yaqinda yopilgan ichki oynalar">
+<!ENTITY goRecentlyClosedTabs.accesskey "Y">
+<!ENTITY startPageCmd.label "Pochta bosh sahifasi">
+<!ENTITY startPageCmd.accesskey "b">
 <!-- Message Menu -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY msgMenu.label "Xabar">
+<!ENTITY msgMenu.accesskey "X">
+<!ENTITY newMsgCmd.label "Yangi xabar">
+<!ENTITY newMsgCmd.accesskey "Y">
+<!ENTITY newNewMsgCmd.label "Xabar">
+<!ENTITY newNewMsgCmd.accesskey "X">
+<!ENTITY archiveMsgCmd.label "Arxiv">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Xabarni bekor qilish">
+<!ENTITY cancelNewsMsgCmd.accesskey "b">
+<!ENTITY replyMsgCmd.label "Javob berish">
+<!ENTITY replyMsgCmd.accesskey "J">
+<!ENTITY replyMsgCmd.key  "r">
+<!ENTITY replySenderCmd.label "Faqat jo‘natuvchiga javob yozish">
+<!ENTITY replySenderCmd.accesskey "j">
+<!ENTITY replyNewsgroupCmd2.label "Yangiliklar to‘plamini kuzatib borish">
+<!ENTITY replyNewsgroupCmd2.accesskey  "k">
+<!ENTITY replyToAllMsgCmd.label "Barchasiga javob yozish">
+<!ENTITY replyToAllMsgCmd.accesskey  "j">
+<!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToListMsgCmd.label "Ro‘yxatga javob yozish">
+<!ENTITY replyToListMsgCmd.accesskey  "R">
 
 
 
