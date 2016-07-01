@@ -38,12 +38,12 @@
 <!ENTITY netOffline.longDesc2 "<p>Prohlížeč je nyní v režimu offline a k požadované položce se nelze připojit.</p><ul><li>Je počítač připojen k funkční síti?</li><li>Pro přechod do režimu online a obnovení stránky klepněte na tlačítko „Zkusit znovu“.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Chyba kódování obsahu">
-<!ENTITY contentEncodingError.longDesc "<p>Stránka, kterou se snažíte načíst, nemůže být zobrazena, jelikož server používá neplatný či nepodporovaný způsob komprimace dat.</p><ul><li>Kontaktujte prosím vlastníka webového serveru a informujte ho o tomto problému.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Požadovanou stránku nelze zobrazit, protože používá neplatný či nepodporovaný způsob komprese dat.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Nebezpečný typ souboru">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Kontaktujte prosím vlastníka stránky a informujte ho o tomto problému.</li>
+  <li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li>
 </ul>
 ">
 
@@ -69,7 +69,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Server na daný požadavek odpověděl neočekávaným způsobem a nemohl pokračovat.</p><ul><li>Na straně serveru běží jiná služba než je očekáváno.</li><li>Adresa (URL) obsahuje nesrovnalost mezi protokolem (např. http://) a určeným portem (např. mozilla.org:23).</li></ul>">
 
 <!ENTITY nssFailure2.title "Chyba zabezpečeného spojení">
-<!ENTITY nssFailure2.longDesc2 "<p>Požadovanou stránku nelze zobrazit, protože nelze ověřit autenticitu přijatých dat.</p><ul><li>Kontaktujte prosím vlastníka webového serveru a informujte ho o tomto problému.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Požadovanou stránku nelze zobrazit, protože nelze ověřit autenticitu přijatých dat.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
 
 <!ENTITY nssBadCert.title "Chyba zabezpečeného spojení">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -88,10 +88,10 @@
 <!ENTITY cspBlocked.longDesc "<p>Aplikace zabránila této stránce v nahrání, protože tato stránka má bezpečnostní pravidla, která tento způsob načtení zakazují.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Chyba v obsahu stránky">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Stránka, kterou se snažíte načíst, nemůže být zobrazena, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím správce serveru a informujte je o tomto problému.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanou stránku nelze zobrazit, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
 
 <!ENTITY remoteXUL.title "Vzdálené XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte prosím vlastníka stránky a informujte ho o tomto problému.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Vaše připojení není zabezpečené">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
