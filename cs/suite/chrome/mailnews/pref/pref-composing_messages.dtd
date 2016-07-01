@@ -7,7 +7,7 @@
 <!ENTITY forwardMsg.label "Přeposlat zprávy:">
 <!ENTITY inline.label "Vložené">
 <!ENTITY inline.accesskey "l">
-<!ENTITY asAttachment.label "Jako příloha">
+<!ENTITY asAttachment.label "Jako přílohu">
 <!ENTITY asAttachment.accesskey "p">
 
 <!ENTITY replyQuoteInline.label "Citovat v odpovědích vložené přílohy">

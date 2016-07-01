@@ -475,7 +475,7 @@
 <!ENTITY contextForward.accesskey "l">
 <!ENTITY contextForwardAsAttachment.label "Přeposlat jako přílohy">
 <!ENTITY contextForwardAsAttachment.accesskey "l">
-<!ENTITY contextArchive.label "Archiv">
+<!ENTITY contextArchive.label "Archivovat">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Přesunout do">
 <!ENTITY contextMoveMsgMenu.accesskey "S">

@@ -19,8 +19,8 @@
 <!ENTITY openFrameCmd.accesskey       "O">
 <!ENTITY openFrameCmdInTab.label      "Otevřít rám v novém panelu">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY keywordfield.label           "K hledání přiřadit klíčové slovo…">
-<!ENTITY keywordfield.accesskey       "K">
+<!ENTITY keywordfield.label           "Přiřadit k tomuto vyhledávání klíčové slovo…">
+<!ENTITY keywordfield.accesskey       "h">
 <!ENTITY showOnlyThisFrameCmd.label     "Zobrazit pouze tento rám">
 <!ENTITY showOnlyThisFrameCmd.accesskey "P">
 <!ENTITY goBackCmd.label              "Zpět">

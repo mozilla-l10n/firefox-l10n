@@ -67,7 +67,7 @@
 <!ENTITY openMsgInNewTab.accesskey        "p">
 <!ENTITY reuseExpRadio0.label             "Novém okně">
 <!ENTITY reuseExpRadio0.accesskey         "N">
-<!ENTITY reuseExpRadio1.label             "Aktuálním okně se zprávou">
-<!ENTITY reuseExpRadio1.accesskey         "u">
+<!ENTITY reuseExpRadio1.label             "Existujícím okně se zprávou">
+<!ENTITY reuseExpRadio1.accesskey         "x">
 <!ENTITY closeMsgOnMoveOrDelete.label     "Při přesunutí nebo smazání zprávy zavřít panel/okno">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "s">

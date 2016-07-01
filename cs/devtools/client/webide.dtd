@@ -135,7 +135,7 @@
 <!ENTITY prefs_options_autocomplete "Automatické doplňování">
 <!ENTITY prefs_options_autocomplete_tooltip "Povolí automatické doplňování kódu">
 <!ENTITY prefs_options_autoclosebrackets "Automaticky uzavírat závorky">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Zajistí automaticky vkládání ukončovacích závorek">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "Zajistí automatické vkládání ukončovacích závorek">
 <!ENTITY prefs_options_keybindings "Klávesové zkratky">
 <!ENTITY prefs_options_keybindings_default "Výchozí">
 <!ENTITY prefs_options_autosavefiles "Automatické ukládání souborů">

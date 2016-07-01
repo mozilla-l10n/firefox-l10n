@@ -18,9 +18,9 @@
 <!ENTITY saveTo.label "Uložit soubory do">
 <!ENTITY saveTo.accesskey "U">
 <!ENTITY chooseDownloadFolder.label "Vybrat složku…">
-<!ENTITY chooseDownloadFolder.accesskey "b">
-<!ENTITY alwaysAsk.label "Vždy se zeptat, kam uložit soubory">
-<!ENTITY alwaysAsk.accesskey "t">
+<!ENTITY chooseDownloadFolder.accesskey "r">
+<!ENTITY alwaysAsk.label "U každého souboru se zeptat, kam ho uložit">
+<!ENTITY alwaysAsk.accesskey "k">
 
 <!ENTITY downloadHistory.label "Historie stahování">
 <!ENTITY removeEntries.label "Odebrat položky stahování">
@@ -33,7 +33,7 @@
 <!ENTITY playSound.label "Přehrát zvukový soubor">
 <!ENTITY playSound.accesskey "h">
 <!ENTITY showAlert.label "Zobrazit výstrahu">
-<!ENTITY showAlert.accesskey "r">
+<!ENTITY showAlert.accesskey "b">
 <!ENTITY browse.label "Procházet…">
 <!ENTITY browse.accesskey "P">
 <!ENTITY playButton.label "Přehrát">

@@ -110,7 +110,7 @@
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.label
-         "Přílohy">
+         "Příloha">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
