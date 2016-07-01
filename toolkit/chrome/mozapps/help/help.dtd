@@ -50,7 +50,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.label "Vždy navrchu">
 <!ENTITY zLevel.accesskey "d">
 
-<!ENTITY fullZoomReduceBtn.label "Zvětšit velikost">
-<!ENTITY fullZoomReduceBtn.accesskey "v">
-<!ENTITY fullZoomEnlargeBtn.label "Zmenšit velikost textu">
-<!ENTITY fullZoomEnlargeBtn.accesskey "m">
+<!ENTITY fullZoomReduceBtn.label "Zmenšit">
+<!ENTITY fullZoomReduceBtn.accesskey "m">
+<!ENTITY fullZoomEnlargeBtn.label "Zvětšit">
+<!ENTITY fullZoomEnlargeBtn.accesskey "v">

@@ -32,13 +32,13 @@
 <!ENTITY rights.intro-point3-unbranded "Zásady ochrany soukromí nejsou pro neznačkové verze produktů k dispozici.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; rovněž poskytuje volitelné služby webových serverů, například službu aktualizace doplňků, a u těchto služeb není možno garantovat jejich 100&#37; správnost a bezchybnost. Více podrobností, včetně informací jak tyto služby zakázat, lze nalézt v sekci ">
-<!ENTITY rights.intro-point4b "Služby webových serverů">
+<!ENTITY rights.intro-point4a "&brandShortName; rovněž poskytuje volitelné služby webových serverů, například službu aktualizace doplňků, a u těchto služeb není možno garantovat jejich 100&#37; správnost a bezchybnost. Více podrobností, včetně informací jak tyto služby zakázat, lze nalézt v ">
+<!ENTITY rights.intro-point4b "podmínkách služeb">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Pokud tato neznačková verze produktu začleňuje některé služby webových serverů, měly by být jejich podmínky k nalezení v sekci ">
-<!ENTITY rights.intro-point4b-unbranded "Služby webových serverů">
+<!ENTITY rights.intro-point4a-unbranded "Pokud tato neznačková verze produktu začleňuje některé služby webových serverů, měly by být jejich podmínky k nalezení v ">
+<!ENTITY rights.intro-point4b-unbranded "podmínkách služeb">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
 <!ENTITY rights.webservices-header "Služby webových serverů aplikace &brandFullName;">

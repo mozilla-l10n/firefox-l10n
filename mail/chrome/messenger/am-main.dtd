@@ -9,8 +9,8 @@
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Výchozí identita">
 <!ENTITY identityDesc.label "Každý účet obsahuje identifikační informace, které ostatní lidé vidí při čtení vašich zpráv.">
-<!ENTITY name.label "Jméno:">
-<!ENTITY name.accesskey "J">
+<!ENTITY name.label "Vaše jméno:">
+<!ENTITY name.accesskey "j">
 <!ENTITY email.label "E-mailová adresa:">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Adresa pro odpověď:">

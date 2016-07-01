@@ -40,8 +40,8 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Pokud tato neznačková verze produktu začleňuje některé služby webových serverů, měly by být jejich podmínky k nalezení v sekci ">
-<!ENTITY rights.intro-point4b-unbranded "Služby webových serverů">
+<!ENTITY rights.intro-point4a-unbranded "Pokud tato neznačková verze produktu začleňuje některé služby webových serverů, měly by být jejich podmínky k nalezení v ">
+<!ENTITY rights.intro-point4b-unbranded "podmínkách služeb">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
 <!ENTITY rights2.webservices-header "Webové informační služby aplikace &brandFullName;">
