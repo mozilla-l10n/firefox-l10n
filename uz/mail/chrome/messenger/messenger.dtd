@@ -654,94 +654,101 @@
 <!ENTITY searchFromMenu.label "Xat jo‘natuvchi">
 <!ENTITY searchSubjectOrFromMenu.label "Mavzu yoki jo‘natuvchi">
 <!ENTITY searchRecipient.label "Qabul qiluvchi yoki Cc">
-
-
-
+<!ENTITY searchSubjectOrRecipientMenu.label "Mavzu, qabul qiluvchi yoki Cc">
+<!ENTITY searchMessageBody.label "Butun xabar">
+<!ENTITY saveAsVirtualFolderMenu.label "Qidiruvni Jild sifatida saqlash…">
 <!-- Thread Pane -->
 
-
-
-
-
+<!ENTITY threadColumn.label "Yozishma">
+<!ENTITY fromColumn.label "Jo‘natuvchi">
+<!ENTITY recipientColumn.label "Qabul qiluvchi">
+<!ENTITY correspondentColumn.label "Muxbirlar">
+<!ENTITY subjectColumn.label "Mavzu">
+<!ENTITY dateColumn.label "Sana">
 <!ENTITY priorityColumn.label "Muhimlik darajasi">
-
+<!ENTITY tagsColumn.label "Teg">
 <!ENTITY accountColumn.label "Hisob">
 <!ENTITY statusColumn.label "Holati">
-
-
-
-
-
-
-
+<!ENTITY sizeColumn.label "Hajmi">
+<!ENTITY junkStatusColumn.label "Spam holati">
+<!ENTITY unreadColumn.label "Oʻqilmagan">
+<!ENTITY totalColumn.label "Jami">
+<!ENTITY readColumn.label "Oʻqish">
+<!ENTITY receivedColumn.label "Qabul qilingan">
+<!ENTITY starredColumn.label "Yulduz qo‘yilgan">
 <!ENTITY locationColumn.label "Manzili">
-
-
+<!ENTITY idColumn.label "Qabul qilish tartibi">
+<!ENTITY attachmentColumn.label "Ilovalar">
 <!-- Thread Pane Tooltips -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY columnChooser2.tooltip "Ko‘rsatish uchun ustunlarni tanlang">
+<!ENTITY threadColumn2.tooltip "Xabar yozishmalarini ko‘rsatish">
+<!ENTITY fromColumn2.tooltip "Quyidagicha saralash">
+<!ENTITY recipientColumn2.tooltip "Qabul qiluvchi bo‘yicha saralash">
+<!ENTITY correspondentColumn2.tooltip "Muxbirlar bo‘yicha saralash">
+<!ENTITY subjectColumn2.tooltip "Mavzusi bo‘yicha saralash">
+<!ENTITY dateColumn2.tooltip "Sanasi boʻyicha saralash">
+<!ENTITY priorityColumn2.tooltip "Muhimligi bo‘yicha saralash">
+<!ENTITY tagsColumn2.tooltip "Teglar bo‘yicha saralash">
+<!ENTITY accountColumn2.tooltip "Hisob bo‘yicha saralash">
+<!ENTITY statusColumn2.tooltip "Holati bo‘yicha saralash">
+<!ENTITY sizeColumn2.tooltip "Hajmi bo‘yicha saralash">
+<!ENTITY junkStatusColumn2.tooltip "Spam bo‘yicha saralash">
+<!ENTITY unreadColumn2.tooltip "Yozishmalardagi o‘qilmagan xabarlar miqdori">
+<!ENTITY totalColumn2.tooltip "Yozishmalardagi xabarlarning jami miqdori">
+<!ENTITY readColumn2.tooltip "O‘qilganligi bo‘yicha saralash">
+<!ENTITY receivedColumn2.tooltip "Qabul qilingan sanasi bo‘yicha saralash">
+<!ENTITY starredColumn2.tooltip "Yulduz bo‘yicha saralash">
+<!ENTITY locationColumn2.tooltip "Manzil bo‘yicha saralash">
+<!ENTITY idColumn2.tooltip "Qabul qilingan tartibi bo‘yicha saralash">
+<!ENTITY attachmentColumn2.tooltip "Ilovalar bo‘yicha saralash">
 <!-- Thread Pane Context Menu -->
 
+<!ENTITY contextOpenNewWindow.label "Xabarni yangi oynada ochish">
+<!ENTITY contextOpenNewWindow.accesskey "o">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
+<!ENTITY contextOpenNewTab.label "Xabarni yangi ichki oynada ochish">
+<!ENTITY contextOpenNewTab.accesskey "i">
+<!ENTITY contextOpenConversation.label "Xabarni suhbatlarda ochish">
+<!ENTITY contextOpenConversation.accesskey "o">
+<!ENTITY contextOpenContainingFolder.label "Xabarni o‘zi joylashgan jildda ochish">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
+<!ENTITY contextEditMsgAsNew.label "Yangi xabar sifatida tahrirlash">
+<!ENTITY contextEditMsgAsNew.accesskey "t">
+<!ENTITY contextEditDraftMsg.label "Qoralama xabarni tahrirlash">
+<!ENTITY contextArchive.label "Arxiv">
+<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextReplySender.label "Faqat jo‘natuvchiga javob yozish">
+<!ENTITY contextReplySender.accesskey "j">
+<!ENTITY contextReplyNewsgroup2.label "Yangiliklar to‘plamini kuzatib borish">
+<!ENTITY contextReplyNewsgroup2.accesskey "k">
+<!ENTITY contextReplyAll.label "Barchaga javob berish">
+<!ENTITY contextReplyAll.accesskey "B">
+<!ENTITY contextReplyList.label "Ro‘yxatga javob yozish">
+<!ENTITY contextReplyList.accesskey "R">
+<!ENTITY contextForward.label "Uzatish">
+<!ENTITY contextForward.accesskey "U">
+<!ENTITY contextForwardAsMenu.label "Ba’zilarga uzatish">
+<!ENTITY contextForwardAsMenu.accesskey "u">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY contextForwardAsAttachmentItem.label "Ilova">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "I">
+<!ENTITY contextMultiForwardAsAttachment.label "Ilova sifatida uzatish">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "u">
+<!ENTITY contextMoveMsgMenu.label "Ko‘chirish">
+<!ENTITY contextMoveMsgMenu.accesskey "K">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "So‘nggi">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "S">
+<!ENTITY contextCopyMsgMenu.label "Nusxa olish">
+<!ENTITY contextCopyMsgMenu.accesskey "N">
+<!ENTITY contextKillThreadMenu.label "Yozishmalarni e’tiborsiz qoldirish">
+<!ENTITY contextKillSubthreadMenu.accesskey "e">
+<!ENTITY contextKillThreadMenu.accesskey "q">
+<!ENTITY contextKillSubthreadMenu.label "Quyi yozishmalarni e’tiborsiz qoldirish">
 
 <!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
    In the en-US locale we ran out of access keys, so there is an empty access key for
