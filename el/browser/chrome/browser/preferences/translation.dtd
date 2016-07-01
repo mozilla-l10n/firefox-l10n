@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                     "Εξαιρέσεις - Μετάφραση">
-<!ENTITY window.width                     "36 em">
+<!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
 <!ENTITY noTranslationForLanguages.label  "Η μετάφραση δεν είναι διαθέσιμη για τις ακόλουθες γλώσσες:">
