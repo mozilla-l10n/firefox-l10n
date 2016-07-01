@@ -45,7 +45,7 @@
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "Gwybodaeth Trwyddedu">
+<!ENTITY bottomLinks.license        "Manylion Trwyddedu">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
 <!ENTITY bottomLinks.rights         "Hawliau'r Defnyddiwr">
