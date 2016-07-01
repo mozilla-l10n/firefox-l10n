@@ -456,183 +456,204 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Qo‘shimcha dasturlar">
 <!ENTITY addons.accesskey "Q">
-
-
-
-
+<!ENTITY activitymanager.label "Faoliyat menejeri">
+<!ENTITY activitymanager.accesskey "F">
+<!ENTITY imAccountsStatus.label "Chat holati">
+<!ENTITY imAccountsStatus.accesskey "C">
 <!ENTITY imStatus.available          "Mavjud">
 <!ENTITY imStatus.unavailable        "Mavjud emas">
 <!ENTITY imStatus.offline            "Oflayn">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY imStatus.showAccounts       "Hisoblarni ko‘rsatish…">
+<!ENTITY joinChatCmd.label "Chatga qo‘shilish…">
+<!ENTITY joinChatCmd.accesskey "C">
+<!ENTITY savedFiles.label "Fayllar saqlandi">
+<!ENTITY savedFiles.accesskey "F">
+<!ENTITY savedFiles.key "j">
+<!ENTITY filtersCmd2.label "Xabar filterlari">
+<!ENTITY filtersCmd2.accesskey "f">
+<!ENTITY filtersApply.label "Jilgda filterlarni ishga tushirish">
+<!ENTITY filtersApply.accesskey "i">
+<!ENTITY filtersApplyToSelection.label "Tanlangan xabarlarda filterlarni ishga tushirish">
+<!ENTITY filtersApplyToSelection.accesskey "i">
+<!ENTITY filtersApplyToMessage.label "Xabarda filterlarni ishga tushirish">
+<!ENTITY filtersApplyToMessage.accesskey "u">
+<!ENTITY runJunkControls.label "Jildda spam xatni boshqarishni ishga tushirish">
+<!ENTITY runJunkControls.accesskey "b">
+<!ENTITY deleteJunk.label "Jilddagi spam sifatida belgilangan xatni o‘chirish">
+<!ENTITY deleteJunk.accesskey "o">
+<!ENTITY importCmd.label "Import qilish…">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY errorConsoleCmd.label "Xato terminali">
+<!ENTITY errorConsoleCmd.accesskey "t">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "So‘nggi tarixni tozalash…">
+<!ENTITY clearRecentHistory.accesskey "t">
+<!ENTITY accountManagerCmd2.label "Hisob sozlamalari">
+<!ENTITY accountManagerCmd2.accesskey "s">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-
-
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
+<!ENTITY allowRemoteDebugging.label "Masofadan tuzatishga ruxsat berish">
+<!ENTITY allowRemoteDebugging.accesskey "t">
 <!-- Mail Toolbar -->
 
+<!ENTITY getMsgButton1.label "Xabarlarni yuklab olish">
+<!ENTITY newMsgButton.label "Yozish">
 <!ENTITY replyButton.label "Javob qaytarish">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY replyAllButton.label "Barchasiga javob yozish">
+<!ENTITY replyListButton.label "Ro‘yxatga javob yozish">
+<!ENTITY forwardButton.label "Uzatish">
+<!ENTITY fileButton.label "Fayl">
+<!ENTITY archiveButton.label "Arxiv">
+<!ENTITY nextButton.label "Keyingi">
+<!ENTITY nextButtonToolbarItem.label "Keyingi o‘qilmagan">
+<!ENTITY nextMsgButton.label "Keyingi">
+<!ENTITY previousButton.label "Oldingi">
+<!ENTITY previousButtonToolbarItem.label "Oldingi oʻqilmagan">
+<!ENTITY previousMsgButton.label "Oldingi">
+<!ENTITY backButton1.label "Orqaga">
+<!ENTITY goForwardButton1.label "Oldinga">
+<!ENTITY deleteItem.title "O‘chirish">
+<!ENTITY deleteButton.label "O‘chirish">
+<!ENTITY undeleteButton.label "O‘chirilmasin">
+<!ENTITY markButton.label "Belgilash">
+<!ENTITY printButton.label "Chop qilish">
+<!ENTITY stopButton.label "To‘xtatish">
+<!ENTITY throbberItem.title "Faoliyat indikatori">
+<!ENTITY junkItem.title "Spam">
+<!ENTITY junkButton.label "Spam">
+<!ENTITY notJunkButton.label "Spam emas">
+<!ENTITY addressBookButton.label "Manzillar daftari">
+<!ENTITY chatButton.label "Chat">
+<!ENTITY glodaSearch.title "Xalqaro qidiruv">
+<!ENTITY searchItem.title "Tezkor qidiruv">
+<!ENTITY mailViewsToolbarItem.title "Xatni ko‘rishlar soni">
+<!ENTITY folderLocationToolbarItem.title "Jild joylashuvi">
+<!ENTITY tagButton.label "Teg">
+<!ENTITY compactButton.label "Ixcham">
+<!ENTITY appmenuButton.label "AppMenu">
 <!-- Mail Toolbar Tooltips-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY advancedButton.tooltip "Qo‘shimcha xabar qidiruvi">
+<!ENTITY getMsgButton.tooltip "Yangi xabarlarni yuklab olish">
+<!ENTITY getAllNewMsgCmd.label "Barcha yangi xabarlarni yuklab olish">
+<!ENTITY getAllNewMsgCmd.accesskey "y">
+<!ENTITY newMsgButton.tooltip "Yangi xabar yozish">
+<!ENTITY replyButton.tooltip "Xabarga javob yozish">
+<!ENTITY replyAllButton.tooltip "Xabar jo‘natuvchisi va barcha qabul qiluvchilarga javob yozish">
+<!ENTITY replyListButton.tooltip "Yozishmalar ro‘yxatiga javob qaytarish">
+<!ENTITY forwardButton.tooltip "Tanlangan xabarni uzatish">
+<!ENTITY forwardAsInline.tooltip "Tanlangan xabarni xabar ichidagi matn sifatida uzatish">
+<!ENTITY forwardAsAttachment.tooltip "Tanlangan xabarni ilova sifatida uzatish">
+<!ENTITY fileButton.tooltip "Fayl tanlangan xabar">
+<!ENTITY archiveButton.tooltip "Arxiv tanlangan xabarlar">
+<!ENTITY nextButton.tooltip "Keyingi o‘qilmagan xabarga o‘tish">
+<!ENTITY nextMsgButton.tooltip "Keyingi xabarga o‘tish">
+<!ENTITY previousButton.tooltip "Oldingi o‘qilmagan xabarga o‘tish">
+<!ENTITY previousMsgButton.tooltip "Oldingi xabarga o‘tish">
+<!ENTITY goForwardButton.tooltip "Bitta oldingi xabarga o‘tish">
+<!ENTITY goBackButton.tooltip "Bitta keyingi xabarga o‘tish">
+<!ENTITY deleteButton.tooltip "Tanlangan xabar yoki jildni o‘chirish">
+<!ENTITY undeleteButton.tooltip "Tanlangan xabar o‘chirilmasin">
+<!ENTITY markButton.tooltip "Xabarlarni belgilash">
+<!ENTITY printButton.tooltip "Bu xabarni chop qilish">
+<!ENTITY stopButton.tooltip "Joriy o‘tkazishni to‘xtatish">
+<!ENTITY junkButton.tooltip "Tanlangan xabarlarni spam sifatida belgilash">
+<!ENTITY notJunkButton.tooltip "Tanlangan xabarlarni spam emas sifatida belgilash">
+<!ENTITY addressBookButton.tooltip "Manzil kitobiga o‘tish">
+<!ENTITY chatButton.tooltip "Chat ichki oynasini ko‘rsatish">
+<!ENTITY tagButton.tooltip "Xabarlarni teglash">
+<!ENTITY compactButton.tooltip "O‘chirilgan xabarlarni tanlangan jilddan olib tashlash">
+<!ENTITY appmenuButton1.tooltip "&brandShortName; menyusini ko‘rsatish">
 <!-- Toolbar Button Popup -->
-
+<!ENTITY buttonMenuForwardAsAttachment.label "Ilova sifatida uzatish">
 <!-- Remote Content Button Popup -->
 
-
-
-
-
+<!ENTITY remoteContentOptionsAllowForMsg.label "Bu xabardagi masofadagi kontentni ko‘rsatish">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "k">
+<!ENTITY editRemoteContentSettings.label "Masofadagi kontentni tahrirlash…">
+<!ENTITY editRemoteContentSettings.accesskey "t">
+<!ENTITY editRemoteContentSettingsUnix.label "Masofadagi kontent parametrlarini tahrirlash…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "t">
 <!-- Phishing Button Popup -->
 
-
-
-
-
+<!ENTITY phishingOptionIgnore.label "Bu xabar uchun ogohlantirishlarni e’tiborsiz qoldirish">
+<!ENTITY phishingOptionIgnore.accesskey "e">
+<!ENTITY phishingOptionSettings.label "Tovlamachilikni aniqlash parametrlarini tahrirlash…">
+<!ENTITY phishingOptionSettings.accesskey "t">
+<!ENTITY phishingOptionSettingsUnix.label "Tovlamachilikni aniqlash parametrlarini tahrirlash…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "t">
 <!-- AppMenu Popup -->
 
-
-
-
-
+<!ENTITY appmenuNewMsgCmd.label "Yangi xabar">
+<!ENTITY appmenuNewContactCmd.label "Manzillar kitobidagi kontakt…">
+<!ENTITY appmenuEditMenu.label "Tahrirlash">
+<!ENTITY appmenuToolbarLayout.label "Asboblar paneli joylashuvi…">
+<!ENTITY appmenuSelectThread.label "Yozishmani tanlash">
+<!ENTITY appmenuSelectFlagged.label "Yulduz qo‘yilgan xabarlarni tanlash">
 <!-- Tags Menu Popup -->
 
-
-
+<!ENTITY addNewTag.label "Yangi teg…">
+<!ENTITY addNewTag.accesskey "Y">
+<!ENTITY manageTags.label "Teglarni boshqarish…">
+<!ENTITY manageTags.accesskey "b">
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Nomi">
-
-
-
+<!ENTITY folderUnreadColumn.label "O‘qilmagan">
+<!ENTITY folderTotalColumn.label "Jami">
+<!ENTITY folderSizeColumn.label "Hajmi">
 <!-- Folder Pane Context Menu -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY folderContextGetMessages.label "Xabarlarni yuklab olish">
+<!ENTITY folderContextGetMessages.accesskey "y">
+<!ENTITY folderContextOpenInNewWindow.label "Yangi oynada ochish">
+<!ENTITY folderContextOpenInNewWindow.accesskey "o">
+<!ENTITY folderContextOpenNewTab.label "Yangi ichki oynada ochish">
+<!ENTITY folderContextOpenNewTab.accesskey "i">
+<!ENTITY folderContextNew.label "Yangi ichki jild…">
+<!ENTITY folderContextNew.accesskey "Y">
+<!ENTITY folderContextRename.label "Nomini oʻzgartirish">
+<!ENTITY folderContextRename.accesskey "N">
+<!ENTITY folderContextRemove.label "O‘chirish">
+<!ENTITY folderContextRemove.accesskey "D">
+<!ENTITY folderContextCompact.label "Zichlash">
+<!ENTITY folderContextCompact.accesskey "Z">
+<!ENTITY folderContextEmptyTrash.label "Chiqindilar qutisini boʻshatish">
+<!ENTITY folderContextEmptyTrash.accesskey "b">
+<!ENTITY folderContextEmptyJunk.label "Spamni bo‘shatish">
+<!ENTITY folderContextEmptyJunk.accesskey "S">
+<!ENTITY folderContextSendUnsentMessages.label "Jo‘natilmagan xabarlarni jo‘natish">
+<!ENTITY folderContextSendUnsentMessages.accesskey "j">
+<!ENTITY folderContextUnsubscribe.label "Obunadan voz kechish">
+<!ENTITY folderContextUnsubscribe.accesskey "u">
+<!ENTITY folderContextMarkNewsgroupRead.label "Yangiliklar guruhini o‘qilgan sifatida belgilash">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
+<!ENTITY folderContextMarkMailFolderRead.label "Jildni o‘qilgan sifatida belgilash">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "b">
+<!ENTITY folderContextSubscribe.label "Obuna bo‘lish…">
+<!ENTITY folderContextSubscribe.accesskey "O">
+<!ENTITY folderContextSearchForMessages.label "Xabarlarni izlash…">
+<!ENTITY folderContextSearchForMessages.accesskey "i">
+<!ENTITY folderContextProperties2.label "Xossalari">
+<!ENTITY folderContextProperties2.accesskey "X">
+<!ENTITY folderContextFavoriteFolder.label "Sevimli jild">
+<!ENTITY folderContextFavoriteFolder.accesskey "S">
+<!ENTITY folderContextSettings2.label "Sozlamalar">
+<!ENTITY folderContextSettings2.accesskey "S">
 <!-- Search Bar -->
 
+<!ENTITY SearchNameOrEmail.label "Nomi yoi xat mazmuni:">
+<!ENTITY SearchNameOrEmail.accesskey "N">
 <!-- Gloda Search Bar -->
+
+<!ENTITY glodaSearchBar.placeholder "Xabarlarni izlash…">
 <!-- Quick Search Menu Bar -->
 
-
-
+<!ENTITY searchSubjectMenu.label "Mavzu">
+<!ENTITY searchFromMenu.label "Xat jo‘natuvchi">
+<!ENTITY searchSubjectOrFromMenu.label "Mavzu yoki jo‘natuvchi">
+<!ENTITY searchRecipient.label "Qabul qiluvchi yoki Cc">
 
 
 
