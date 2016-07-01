@@ -680,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Xavfsiz ulanish">
 <!ENTITY identity.connectionNotSecure "Ulanish – xavfsiz emas">
 <!ENTITY identity.connectionFile "Bu sahifa kompyuteringizda saqlangan.">
-
+<!ENTITY identity.connectionVerified2 "Quyidagi yordamida ishlaydigan ushbu saytga xavfli ulandingiz:">
 <!ENTITY identity.connectionInternal "Bu xavfsiz &brandShortName; sahifasi.">
 <!ENTITY identity.insecureLoginForms2 "Bu sahifaga kiritilgan taxalluslar yomon oqibatlarga olib kelishi mumkin.">
 <!-- Strings for connection state warnings. -->
