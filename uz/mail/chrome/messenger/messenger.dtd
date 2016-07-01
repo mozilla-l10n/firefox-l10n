@@ -406,45 +406,49 @@
 <!ENTITY markAsReadCmd.accesskey "O">
 <!ENTITY markAsUnreadCmd.label "O‘qilmagan sifatida">
 <!ENTITY markAsUnreadCmd.accesskey "O">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY markThreadAsReadCmd.label "Yozishma o‘qilmagan sifatida">
+<!ENTITY markThreadAsReadCmd.accesskey "Y">
+<!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markReadByDateCmd.label "Sanasi bo‘yicha o‘qilgan sifatida…">
+<!ENTITY markReadByDateCmd.accesskey "S">
+<!ENTITY markReadByDateCmd.key "c">
+<!ENTITY markAllReadCmd.label "Barchasi o‘qilgan">
+<!ENTITY markAllReadCmd.accesskey "B">
+<!ENTITY markAllReadCmd.key "c">
+<!ENTITY markStarredCmd.label "Yulduz qo‘shish">
+<!ENTITY markStarredCmd.accesskey "Y">
+<!ENTITY markStarredCmd.key "S">
+<!ENTITY markAsJunkCmd.label "Spam sifatida">
+<!ENTITY markAsJunkCmd.accesskey "S">
+<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.label "Spam emas sifatida">
+<!ENTITY markAsNotJunkCmd.accesskey "S">
+<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "Spam xabarni boshqarishni ishga tushirish">
+<!ENTITY recalculateJunkScoreCmd.accesskey "b">
+<!ENTITY openMessageWindowCmd.label "Xabarni ochish">
+<!ENTITY openMessageWindowCmd.accesskey "o">
+<!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "Suhbatda ochish">
+<!ENTITY openConversationCmd.accesskey "S">
+<!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Ilovalar">
+<!ENTITY openAttachmentListCmd.accesskey "I">
+<!ENTITY openFeedMessage1.label "Xabarlar tasmasi ochilganda">
+<!ENTITY openFeedMessage1.accesskey "o">
+<!ENTITY openFeedWebPage.label "Veb sahifa sifatida ochish">
+<!ENTITY openFeedWebPage.accesskey "V">
+<!ENTITY openFeedSummary.label "Natija sifatida ochish">
+<!ENTITY openFeedSummary.accesskey "N">
+<!ENTITY openFeedWebPageInMP.label "Xabar yon oynasidagi veb sahifa va natijaga o‘tish">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
 <!-- Windows Menu -->
+
+<!ENTITY windowMenu.label "Oyna">
 <!-- Tools Menu -->
 
+<!ENTITY tasksMenu.label "Asboblar">
+<!ENTITY tasksMenu.accesskey "A">
 
 
 
