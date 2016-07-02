@@ -105,7 +105,7 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "禁用 JavaScript *">
-<!ENTITY options.disableJavaScript.tooltip   "启用这个选项将对当前标签页禁用 JavaScript 。如果关闭了该标签页或者工具箱，则这个设置就不再有效。">
+<!ENTITY options.disableJavaScript.tooltip   "启用这个选项将对当前标签页禁用 JavaScript。如果关闭了该标签页或者工具箱，则这个设置就不再有效。">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
