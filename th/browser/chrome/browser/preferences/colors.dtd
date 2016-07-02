@@ -11,12 +11,12 @@
 
 <!ENTITY  overridePageColors.always.label "เสมอ">
 <!ENTITY  overridePageColors.auto.label   "ชุดตกแต่ง High Contrast เท่านั้น">
-<!ENTITY  overridePageColors.never.label  "ไม่ต้อง">
+<!ENTITY  overridePageColors.never.label  "ไม่เลย">
 
-<!ENTITY  color                           "ข้อความและพื้นหลัง">
-<!ENTITY  textColor.label                 "ข้อความ :">
-<!ENTITY  textColor.accesskey             "ข">
-<!ENTITY  backgroundColor.label           "พื้นหลัง :">
+<!ENTITY  color                           "ตัวอักษรและพื้นหลัง">
+<!ENTITY  textColor.label                 "ตัวอักษร:">
+<!ENTITY  textColor.accesskey             "ต">
+<!ENTITY  backgroundColor.label           "พื้นหลัง:">
 <!ENTITY  backgroundColor.accesskey       "พ">
 <!ENTITY  useSystemColors.label           "ใช้สีของระบบ">
 <!ENTITY  useSystemColors.accesskey       "ช">
