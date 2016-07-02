@@ -11,7 +11,7 @@
 
 <!ENTITY aboutWarningCheckbox.label "แสดงการเตือนนี้ทุกครั้ง">
 
-<!ENTITY searchPrefs.label "ค้นหา :">
+<!ENTITY searchPrefs.label "ค้นหา:">
 <!ENTITY searchPrefs.accesskey "ห">
 <!ENTITY focusSearch.key "ห">
 
