@@ -128,7 +128,7 @@
 <!ENTITY settings "Setări">
 <!ENTITY settings_title "Setări">
 <!ENTITY pref_category_general "General">
-<!ENTITY pref_category_general_summary3 "Pagina de start, limba, filele în coadă">
+<!ENTITY pref_category_general_summary3 "Pagină de start, limbă, file în coadă">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
