@@ -136,10 +136,10 @@
 
 <!-- sortMenu is also used by addressbook -->
 <!ENTITY sortMenu.label "Seřadit podle">
-<!ENTITY sortMenu.accesskey "d">
+<!ENTITY sortMenu.accesskey "p">
 
 <!ENTITY sortByDateCmd.label "Datum">
-<!ENTITY sortByDateCmd.accesskey "u">
+<!ENTITY sortByDateCmd.accesskey "D">
 <!ENTITY sortByReceivedCmd.label "Doručeno">
 <!ENTITY sortByReceivedCmd.accesskey "r">
 <!ENTITY sortByFlagCmd.label "Praporek">
@@ -152,16 +152,16 @@
 <!ENTITY sortByStatusCmd.accesskey "a">
 <!ENTITY sortByTagsCmd.label "Štítky">
 <!ENTITY sortByTagsCmd.accesskey "t">
-<!ENTITY sortByJunkStatusCmd.label "Druh zprávy">
-<!ENTITY sortByJunkStatusCmd.accesskey "D">
+<!ENTITY sortByJunkStatusCmd.label "Stav zprávy">
+<!ENTITY sortByJunkStatusCmd.accesskey "y">
 <!ENTITY sortBySubjectCmd.label "Předmět">
-<!ENTITY sortBySubjectCmd.accesskey "M">
+<!ENTITY sortBySubjectCmd.accesskey "m">
 <!ENTITY sortByFromCmd.label "Od">
 <!ENTITY sortByFromCmd.accesskey "O">
 <!ENTITY sortByRecipientCmd.label "Příjemce">
-<!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByRecipientCmd.accesskey "j">
 <!ENTITY sortByUnreadCmd.label "Přečtené">
-<!ENTITY sortByUnreadCmd.accesskey "N">
+<!ENTITY sortByUnreadCmd.accesskey "n">
 <!ENTITY sortByOrderReceivedCmd.label "Pořadí přijetí">
 <!ENTITY sortByOrderReceivedCmd.accesskey "P">
 <!ENTITY sortByAttachmentsCmd.label "Přílohy">
@@ -173,7 +173,7 @@
 <!ENTITY sortThreaded.label "Podle vláken">
 <!ENTITY sortThreaded.accesskey "l">
 <!ENTITY sortUnthreaded.label "Bez vláken">
-<!ENTITY sortUnthreaded.accesskey "b">
+<!ENTITY sortUnthreaded.accesskey "B">
 <!ENTITY groupBySort.label "Zobrazit ve skupinách">
 <!ENTITY groupBySort.accesskey "Z">
 <!ENTITY msgsMenu.label "Zprávy">
@@ -191,14 +191,14 @@
 <!ENTITY unreadMsgsCmd.label "Nepřečtené zprávy">
 <!ENTITY unreadMsgsCmd.accesskey "N">
 <!ENTITY threadsWithUnreadCmd.label "Vlákna s nepřečtenými">
-<!ENTITY threadsWithUnreadCmd.accesskey "L">
+<!ENTITY threadsWithUnreadCmd.accesskey "l">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Sledovaná vlákna s nepřečtenými">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "D">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "d">
 <!ENTITY ignoredThreadsCmd.label "Ignorovat vlákna">
-<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY ignoredThreadsCmd.accesskey "I">
 
 <!ENTITY headersMenu.label "Záhlaví">
-<!ENTITY headersMenu.accesskey "H">
+<!ENTITY headersMenu.accesskey "h">
 <!ENTITY headersAllCmd.label "Vše">
 <!ENTITY headersAllCmd.accesskey "V">
 <!ENTITY headersNormalCmd.label "Normální">
@@ -216,10 +216,10 @@
 
 <!ENTITY bodyMenuFeed.label "Tělo zprávy kanálu jako">
 <!ENTITY bodyMenuFeed.accesskey "z">
-<!ENTITY viewFeedWebPage.label "webová stránka">
-<!ENTITY viewFeedWebPage.accesskey "w">
-<!ENTITY viewFeedSummary.label "souhrn">
-<!ENTITY viewFeedSummary.accesskey "s">
+<!ENTITY viewFeedWebPage.label "Webová stránka">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Souhrn">
+<!ENTITY viewFeedSummary.accesskey "S">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Výchozí formát">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "f">
 
@@ -435,7 +435,7 @@
 <!ENTITY forwardButton.tooltip "Přepošle označenou zprávu">
 <!ENTITY fileButton.tooltip "Přesune označenou zprávu do složky">
 <!ENTITY nextButton.tooltip "Přejde na další nepřečtenou zprávu">
-<!ENTITY goBackButton.tooltip "Přejde o jednu zprávu zpět">
+<!ENTITY goBackButton.tooltip "Přejde o jednu zprávu vzad">
 <!ENTITY goForwardButton.tooltip "Přejde o jednu zprávu vpřed">
 <!ENTITY deleteButton.tooltip "Smaže označené zprávy nebo složky">
 <!ENTITY undeleteButton.tooltip "Obnoví označenou smazanou zprávu">

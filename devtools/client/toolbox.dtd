@@ -197,13 +197,13 @@
   -  section. -->
 
 <!ENTITY options.sourceeditor.label                     "Předvolby editoru">
-<!ENTITY options.sourceeditor.detectindentation.label   "Detekce odsazení">
-<!ENTITY options.sourceeditor.detectindentation.tooltip "Hádá odsazení na základě obsahu">
+<!ENTITY options.sourceeditor.detectindentation.label   "Automatické odsazování">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Rozpozná odsazení na základě obsahu zdrojového kódu">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Automaticky uzavírat závorky">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Zajistí automatické vkládání ukončovacích závorek">
 <!ENTITY options.sourceeditor.expandtab.label           "Odsazení pomocí mezer">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Použije mezery namísto tabulátorů">
-<!ENTITY options.sourceeditor.tabsize.label             "Velikost odsazení">
+<!ENTITY options.sourceeditor.tabsize.label             "Velikost tabulátoru">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Klávesové zkratky">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">

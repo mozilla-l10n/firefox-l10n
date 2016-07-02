@@ -23,13 +23,13 @@
 <!ENTITY day.7.Ddd "So" >
 <!ENTITY day.7.Ddd.accesskey "o">
 
-<!ENTITY day.1.name "Neděle" >
-<!ENTITY day.2.name "Pondělí" >
-<!ENTITY day.3.name "Úterý" >
-<!ENTITY day.4.name "Středa" >
-<!ENTITY day.5.name "Čtvrtek" >
-<!ENTITY day.6.name "Pátek" >
-<!ENTITY day.7.name "Sobota" >
+<!ENTITY day.1.name "neděle" >
+<!ENTITY day.2.name "pondělí" >
+<!ENTITY day.3.name "úterý" >
+<!ENTITY day.4.name "středa" >
+<!ENTITY day.5.name "čtvrtek" >
+<!ENTITY day.6.name "pátek" >
+<!ENTITY day.7.name "sobota" >
 
 <!ENTITY month.1.name "leden" >
 <!ENTITY month.2.name "únor" >
@@ -44,9 +44,9 @@
 <!ENTITY month.11.name "listopad" >
 <!ENTITY month.12.name "prosinec" >
 
-<!ENTITY onemonthbackward.tooltip "Přejde o jeden měsíc zpět" >
-<!ENTITY onemonthforward.tooltip "Přejde o jeden měsíc vpřed" >
-<!ENTITY showToday.tooltip "Přejde na dnešní datum">
-<!ENTITY onedayforward.tooltip "Přejde o jeden den vpřed">
-<!ENTITY onedaybackward.tooltip "Přejde o jeden den zpět">
+<!ENTITY onemonthbackward.tooltip "Přejde na předcházející měsíc" >
+<!ENTITY onemonthforward.tooltip "Přejde na následující měsíc" >
+<!ENTITY showToday.tooltip "Přejde na dnešní den">
+<!ENTITY onedayforward.tooltip "Přejde na předcházející den">
+<!ENTITY onedaybackward.tooltip "Přejde na následující den">
 <!ENTITY showselectedday.tooltip "Zobrazí události pro zvolený den">

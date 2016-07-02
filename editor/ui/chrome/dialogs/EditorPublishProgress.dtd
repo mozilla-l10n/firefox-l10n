@@ -10,7 +10,7 @@
 <!ENTITY status.label "Zveřejňuji…">
 <!ENTITY fileList.label "Stav zveřejňování">
 <!ENTITY succeeded.label "Úspěšné">
-<!ENTITY failed.label "Neúspěšné">
+<!ENTITY failed.label "Selhalo">
 
 <!ENTITY keepOpen "Ponechat okno otevřené po dokončení zveřejnění.">
 <!ENTITY closeButton.label "Zavřít">

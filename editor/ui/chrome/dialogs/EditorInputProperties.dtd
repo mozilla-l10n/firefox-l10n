@@ -29,7 +29,7 @@
 <!ENTITY InitialValue.accesskey "H">
 <!ENTITY InputChecked.label "Zaškrtnuto">
 <!ENTITY InputChecked.accesskey "Z">
-<!ENTITY InputSelected.label "Vybráno">
+<!ENTITY InputSelected.label "Výchozí výběr">
 <!ENTITY InputSelected.accesskey "b">
 <!ENTITY InputReadOnly.label "Pouze pro čtení">
 <!ENTITY InputReadOnly.accesskey "t">

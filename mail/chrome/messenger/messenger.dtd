@@ -177,7 +177,7 @@
 <!ENTITY sortByStarCmd.label "Hvězdička">
 <!ENTITY sortByStarCmd.accesskey "H">
 <!ENTITY sortByAttachmentsCmd.label "Přílohy">
-<!ENTITY sortByAttachmentsCmd.accesskey "y">
+<!ENTITY sortByAttachmentsCmd.accesskey "h">
 <!ENTITY sortByPriorityCmd.label "Priorita">
 <!ENTITY sortByPriorityCmd.accesskey "i">
 <!ENTITY sortBySizeCmd.label "Velikost">
@@ -186,8 +186,8 @@
 <!ENTITY sortByStatusCmd.accesskey "a">
 <!ENTITY sortByTagsCmd.label "Štítky">
 <!ENTITY sortByTagsCmd.accesskey "t">
-<!ENTITY sortByJunkStatusCmd.label "Druh zprávy">
-<!ENTITY sortByJunkStatusCmd.accesskey "u">
+<!ENTITY sortByJunkStatusCmd.label "Stav zprávy">
+<!ENTITY sortByJunkStatusCmd.accesskey "y">
 <!ENTITY sortBySubjectCmd.label "Předmět">
 <!ENTITY sortBySubjectCmd.accesskey "m">
 <!ENTITY sortByFromCmd.label "Od">
@@ -542,15 +542,15 @@
 <!ENTITY replyButton.tooltip "Odpoví na zprávu">
 <!ENTITY replyAllButton.tooltip "Odpoví na zprávu odesílateli a všem příjemcům">
 <!ENTITY replyListButton.tooltip "Odpoví na zprávu do e-mailové konference">
-<!ENTITY forwardButton.tooltip "Přepošle označnou zprávu">
-<!ENTITY forwardAsInline.tooltip "Přepošle označnou zprávu jako vložený text">
-<!ENTITY forwardAsAttachment.tooltip "Přepošle označnou zprávu jako přílohu">
+<!ENTITY forwardButton.tooltip "Přepošle označenou zprávu">
+<!ENTITY forwardAsInline.tooltip "Přepošle označenou zprávu jako vložený text">
+<!ENTITY forwardAsAttachment.tooltip "Přepošle označenou zprávu jako přílohu">
 <!ENTITY fileButton.tooltip "Přesune označenou zprávu do složky">
 <!ENTITY archiveButton.tooltip "Archivovat označené zprávy">
 <!ENTITY nextButton.tooltip "Přejde na další nepřečtenou zprávu">
 <!ENTITY nextMsgButton.tooltip "Přejde na další zprávu">
-<!ENTITY previousButton.tooltip "Přejde na předchozí nepřečtenou zprávu">
-<!ENTITY previousMsgButton.tooltip "Přejde na předchozí zprávu">
+<!ENTITY previousButton.tooltip "Přejde na předcházející nepřečtenou zprávu">
+<!ENTITY previousMsgButton.tooltip "Přejde na předcházející zprávu">
 <!ENTITY goForwardButton.tooltip "Přejde o jednu zprávu vpřed">
 <!ENTITY goBackButton.tooltip "Přejde o jednu zprávu vzad">
 <!ENTITY deleteButton.tooltip "Smaže označené zprávy nebo složky">

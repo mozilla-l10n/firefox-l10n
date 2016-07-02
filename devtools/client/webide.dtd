@@ -127,11 +127,11 @@
 <!ENTITY prefs_options_templatesurl_tooltip "Seznam dostupných šablon">
 <!ENTITY prefs_options_showeditor "Zobrazit editor">
 <!ENTITY prefs_options_showeditor_tooltip "Zobrazí interní editor">
-<!ENTITY prefs_options_tabsize "Velikost tabu">
+<!ENTITY prefs_options_tabsize "Velikost tabulátoru">
 <!ENTITY prefs_options_expandtab "Měkké tabulátory">
-<!ENTITY prefs_options_expandtab_tooltip "Použije mezery namísto znaku tabulátor">
-<!ENTITY prefs_options_detectindentation "Automatické odsazení">
-<!ENTITY prefs_options_detectindentation_tooltip "Hádá odsazení na základě obsahu zdrojového kódu">
+<!ENTITY prefs_options_expandtab_tooltip "Použije mezery namísto tabulátorů">
+<!ENTITY prefs_options_detectindentation "Automatické odsazování">
+<!ENTITY prefs_options_detectindentation_tooltip "Rozpozná odsazení na základě obsahu zdrojového kódu">
 <!ENTITY prefs_options_autocomplete "Automatické doplňování">
 <!ENTITY prefs_options_autocomplete_tooltip "Povolí automatické doplňování kódu">
 <!ENTITY prefs_options_autoclosebrackets "Automaticky uzavírat závorky">

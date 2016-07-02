@@ -168,7 +168,7 @@ za chvíli.</li>
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanou stránku nelze zobrazit, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Nebo můžete přidat výjimku…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Rychle odsud pryč">
+<!ENTITY securityOverride.getMeOutOfHereButton "Rychle odsud pryč!">
 <!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the

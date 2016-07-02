@@ -175,7 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "e">
 
 <!ENTITY backCmd.label                "Zpět">
-<!ENTITY backButton.tooltip           "Přejde o jednu stránku zpět">
+<!ENTITY backButton.tooltip           "Přejde na předchozí stránku">
 <!ENTITY forwardCmd.label             "Vpřed">
 <!ENTITY forwardButton.tooltip        "Přejde na následující stránku">
 <!ENTITY backForwardButtonMenu.tooltip "Při dlouhém stisku či po klepnutí pravým tlačítkem zobrazí historii">

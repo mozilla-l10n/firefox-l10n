@@ -6,8 +6,7 @@
 <!ENTITY markAsReadCmd.accesskey "P">
 <!ENTITY markAsReadCmd.key "m">
 
-
-<!ENTITY markFlaggedCmd.label "S praporkem">
+<!ENTITY markFlaggedCmd.label "Praporek">
 <!ENTITY markFlaggedCmd.accesskey "p">
 <!ENTITY markFlaggedCmd.key "i">
 

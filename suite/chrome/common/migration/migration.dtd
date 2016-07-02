@@ -4,8 +4,8 @@
 
 <!ENTITY migrationWizard.title "Průvodce importem">
 
-<!ENTITY importAllFrom.label "Importovat všechny položky z:">
-<!ENTITY importBookmarksFrom.label "Importovat záložky z:">
+<!ENTITY importAllFrom.label "Importovat všechny položky z aplikace:">
+<!ENTITY importBookmarksFrom.label "Importovat záložky z aplikace:">
 
 <!ENTITY importFromThunderbird.label "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
@@ -21,7 +21,7 @@
 <!ENTITY selectProfile.title "Zvolte profil">
 <!ENTITY selectProfile.label "Importovat je možné z následujících profilů:">
 
-<!ENTITY migrating.title "Importování…">
+<!ENTITY migrating.title "Probíhá import…">
 <!ENTITY migrating.label "Následující položky jsou nyní importovány…">
 
 <!ENTITY done.title "Import byl dokončen">

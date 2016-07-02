@@ -10,8 +10,8 @@
 <!ENTITY caseSensitiveCheckbox.accesskey "R">
 <!ENTITY wrapCheckbox.label "Obousměrné hledání">
 <!ENTITY wrapCheckbox.accesskey "O">
-<!ENTITY findButton.label "Hledat">
-<!ENTITY findButton.accesskey "H">
+<!ENTITY findButton.label "Najít další">
+<!ENTITY findButton.accesskey "t">
 <!ENTITY cancelButton.label "Zrušit">
 <!ENTITY closeButton.label "Zavřít">
 <!ENTITY up.label "Nahoru">

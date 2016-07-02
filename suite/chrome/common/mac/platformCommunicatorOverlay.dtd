@@ -13,7 +13,7 @@
 <!ENTITY preferencesCmd.key             ",">
 <!ENTITY preferencesCmd.modifiers       "accel">
 <!ENTITY servicesMenu.label             "Služby">
-<!ENTITY hideThisAppCmd.label           "Skrýt aplikaci &brandShortName;">
+<!ENTITY hideThisAppCmd.label           "Skrýt &brandShortName;">
 <!ENTITY hideThisAppCmd.key             "S">
 <!ENTITY hideThisAppCmd.modifiers       "accel">
 <!ENTITY hideOtherAppsCmd.label         "Skrýt ostatní">

@@ -108,7 +108,7 @@
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Účet již existuje &formatS1;'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Neplatný e-mail nebo heslo'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Neplatný e-mail či heslo'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Neplatný e-mail nebo heslo'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Účet není ověřen'>
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server je zaneprázdněn, zkuste to za chvíli znovu'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server je zaneprázdněn, zkuste to za chvíli znovu'>

@@ -131,7 +131,7 @@
 <!ENTITY  event.menu.options.show.time.accesskey              "j">
 <!ENTITY  event.menu.options.show.time.busy.label             "Není volno">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "e">
-<!ENTITY  event.menu.options.show.time.free.label             "Volný">
+<!ENTITY  event.menu.options.show.time.free.label             "Volno">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "l">
 
 <!ENTITY event.invite.attendees.label                     "Pozvat účastníky…">
@@ -335,7 +335,7 @@
 <!ENTITY event.recurrence.preview.label                 "Náhled">
 
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label                     "Pozvání účastníků">
+<!ENTITY invite.title.label                     "Pozvat účastníky">
 <!ENTITY event.organizer.label                  "Organizátor">
 <!ENTITY event.freebusy.suggest.slot            "Doporučit čas:">
 <!ENTITY event.freebusy.button.next.slot        "Následující místo">
@@ -361,7 +361,7 @@
 <!ENTITY event.timezone.custom.label     "Více časových zón…">
 
 <!-- Read-Only dialog -->
-<!ENTITY read.only.general.label         "Obecný">
+<!ENTITY read.only.general.label         "Obecné">
 <!ENTITY read.only.title.label           "Název:">
 <!ENTITY read.only.event.start.label     "Začátek:">
 <!ENTITY read.only.task.start.label      "Začátek:">

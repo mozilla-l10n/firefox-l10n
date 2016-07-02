@@ -27,12 +27,12 @@
 <!ENTITY saveAsTemplateCmd.accesskey "B">
 <!ENTITY attachMenu.label "Připojit">
 <!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "Připojit soubor…">
+<!ENTITY attachFileCmd.label "Soubor…">
 <!ENTITY attachFileCmd.accesskey "S">
-<!ENTITY attachPageCmd.label "Připojit WWW stránku…">
+<!ENTITY attachPageCmd.label "Webovou stránku…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Osobní vizitka (vCard)">
+<!ENTITY attachVCardCmd.label "Osobní vizitku (vCard)">
 <!ENTITY attachVCardCmd.accesskey "V">
 <!ENTITY sendNowCmd.label "Odeslat nyní">
 <!ENTITY sendCmd.keycode "VK_RETURN">
@@ -51,8 +51,8 @@
 <!-- View menu items -->
 <!ENTITY showComposeToolbarCmd.label "Lišta pošty">
 <!ENTITY showComposeToolbarCmd.accesskey "o">
-<!ENTITY showFormatToolbarCmd.label "Lišta stylů">
-<!ENTITY showFormatToolbarCmd.accesskey "S">
+<!ENTITY showFormatToolbarCmd.label "Lišta úprav">
+<!ENTITY showFormatToolbarCmd.accesskey "p">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formát">

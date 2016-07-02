@@ -54,7 +54,7 @@
 <!ENTITY cellStyle.label "Styl buňky:">
 <!ENTITY cellStyle.accessKey "y">
 <!ENTITY cellNormal.label "Normální">
-<!ENTITY cellHeader.label "Styl záhlaví">
+<!ENTITY cellHeader.label "Záhlaví">
 <!ENTITY cellTextWrap.label "Zalamovat text:">
 <!ENTITY cellTextWrap.accessKey "l">
 <!ENTITY cellWrap.label "Zalamovat">

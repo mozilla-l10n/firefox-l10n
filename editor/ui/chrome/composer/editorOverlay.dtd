@@ -290,7 +290,7 @@
 <!ENTITY pasteToolbarCmd.tooltip "Vložit">
 <!ENTITY printToolbarCmd.label "Tisknout">
 <!ENTITY printToolbarCmd.tooltip "Vytiskne tuto stránku">
-<!ENTITY findToolbarCmd.label "Hledat">
+<!ENTITY findToolbarCmd.label "Najít">
 <!ENTITY findToolbarCmd.tooltip "Vyhledání textu na stránce">
 <!ENTITY spellToolbarCmd.label "Pravopis">
 <!ENTITY spellToolbarCmd.tooltip "Zkontroluje pravopis v označeném textu nebo na celé stránce">
