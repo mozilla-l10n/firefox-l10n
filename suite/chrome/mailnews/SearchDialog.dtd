@@ -15,7 +15,7 @@
 <!ENTITY resetButton.accesskey "B">
 <!ENTITY openButton.label "Otevřít">
 <!ENTITY openButton.accesskey "t">
-<!ENTITY deleteButton.label "Vymazat">
+<!ENTITY deleteButton.label "Smazat">
 <!ENTITY deleteButton.accesskey "m">
 <!ENTITY searchDialogTitle.label "Hledat ve zprávách">
 <!ENTITY results.label "Nalezené položky:">

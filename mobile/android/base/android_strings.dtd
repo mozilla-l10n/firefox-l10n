@@ -263,9 +263,9 @@
 <!ENTITY pref_donottrack_title "Funkce Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požádá webové stránky, aby nesledovaly vaši aktivitu">
 
-<!ENTITY pref_tracking_protection_enabled "Povoleno">
-<!ENTITY pref_tracking_protection_enabled_pb "Povoleno v režimu anonymního prohlížení">
-<!ENTITY pref_tracking_protection_disabled "Zakázáno">
+<!ENTITY pref_tracking_protection_enabled "Povolena">
+<!ENTITY pref_tracking_protection_enabled_pb "Povolena v režimu anonymního prohlížení">
+<!ENTITY pref_tracking_protection_disabled "Zakázána">
 
 <!ENTITY pref_whats_new_notification "Co je nového v aplikaci &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Zjistěte více o nových funkcích po aktualizaci">
@@ -330,9 +330,9 @@
 <!ENTITY pref_clear_on_exit_summary2 "Aplikace &brandShortName; automaticky vymaže vaše data kdykoliv, kdy zvolíte \u0022Ukončit\u0022 z hlavní nabídky">
 <!ENTITY pref_clear_on_exit_dialog_title "Vyberte data, která chcete vymazat">
 <!ENTITY pref_plugins "Zásuvné moduly">
-<!ENTITY pref_plugins_enabled "Povolit">
-<!ENTITY pref_plugins_tap_to_play2 "Dotkněte se pro přehrání">
-<!ENTITY pref_plugins_disabled "Zakázat">
+<!ENTITY pref_plugins_enabled "Povoleny">
+<!ENTITY pref_plugins_tap_to_play2 "Spustit po klepnutí">
+<!ENTITY pref_plugins_disabled "Zakázány">
 <!ENTITY pref_text_size "Velikost textu">
 <!ENTITY pref_restore_tabs "Obnovit panely">
 <!ENTITY pref_restore_always "Vždy obnovit">

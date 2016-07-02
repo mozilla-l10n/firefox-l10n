@@ -23,7 +23,7 @@
 <!ENTITY TextAreaWrap.label "Druh zalamování:">
 <!ENTITY TextAreaWrap.accessKey "z">
 <!ENTITY WrapDefault.value "Výchozí">
-<!ENTITY WrapOff.value "Vypnuto">
+<!ENTITY WrapOff.value "Zakázáno">
 <!ENTITY WrapHard.value "Tvrdé">
 <!ENTITY WrapSoft.value "Měkké">
 <!ENTITY WrapPhysical.value "Fyzické">

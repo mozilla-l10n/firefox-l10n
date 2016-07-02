@@ -24,36 +24,32 @@
 <!ENTITY PhoneticField2.id "PhoneticLastName">
 
 <!ENTITY NameField1.label "Jméno:">
-<!ENTITY NameField1.accesskey "N">
+<!ENTITY NameField1.accesskey "J">
 <!ENTITY NameField2.label "Příjmení:">
-<!ENTITY NameField2.accesskey "M">
+<!ENTITY NameField2.accesskey "P">
 <!ENTITY PhoneticField1.label "Foneticky:">
 <!ENTITY PhoneticField2.label "Foneticky:">
-<!ENTITY DisplayName.label "Zobrazené jméno:">
-<!ENTITY DisplayName.accesskey "O">
+<!ENTITY DisplayName.label "Zobrazované jméno:">
+<!ENTITY DisplayName.accesskey "n">
 <!ENTITY preferDisplayName.label "Vždy upřednostnit zobrazované jméno před hlavičkou zprávy">
 <!ENTITY preferDisplayName.accesskey "u">
 <!ENTITY NickName.label "Přezdívka:">
-<!ENTITY NickName.accesskey "P">
+<!ENTITY NickName.accesskey "e">
 
 <!ENTITY PrimaryEmail.label "E-mail:">
-<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY PrimaryEmail.accesskey "m">
 <!ENTITY SecondEmail.label "Další e-mail:">
 <!ENTITY SecondEmail.accesskey "a">
-<!ENTITY PreferMailFormat.label "Upřednostňovaný formát poštovních zpráv:">
-<!ENTITY PreferMailFormat.accesskey "u">
+<!ENTITY PreferMailFormat.label "Upřednostňovaný formát zpráv:">
+<!ENTITY PreferMailFormat.accesskey "r">
 <!ENTITY PlainText.label "Prostý text">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Neznámý">
 <!ENTITY ScreenName.label "Účet pro IM">
 <!ENTITY ScreenName.accesskey "E">
 
-
-
-
-
 <!ENTITY WorkPhone.label "Zaměstnání:">
-<!ENTITY WorkPhone.accesskey "Z">
+<!ENTITY WorkPhone.accesskey "m">
 <!ENTITY HomePhone.label "Domů:">
 <!ENTITY HomePhone.accesskey "D">
 <!ENTITY FaxNumber.label "Fax:">
@@ -61,22 +57,22 @@
 <!ENTITY PagerNumber.label "Pager:">
 <!ENTITY PagerNumber.accesskey "g">
 <!ENTITY CellularNumber.label "Mobilní telefon:">
-<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY CellularNumber.accesskey "t">
 
 <!ENTITY Home.tab "Bydliště">
 <!ENTITY Home.accesskey "B">
 <!ENTITY HomeAddress.label "Adresa:">
-<!ENTITY HomeAddress.accesskey "r">
+<!ENTITY HomeAddress.accesskey "A">
 <!ENTITY HomeAddress2.label "">
 <!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Město:">
 <!ENTITY HomeCity.accesskey "M">
 <!ENTITY HomeState.label "Kraj:">
-<!ENTITY HomeState.accesskey "K">
+<!ENTITY HomeState.accesskey "j">
 <!ENTITY HomeZipCode.label "PSČ:">
 <!ENTITY HomeZipCode.accesskey "P">
 <!ENTITY HomeCountry.label "Země:">
-<!ENTITY HomeCountry.accesskey "Z">
+<!ENTITY HomeCountry.accesskey "e">
 <!ENTITY HomeWebPage.label "Webová stránka:">
 <!ENTITY HomeWebPage.accesskey "W">
 <!ENTITY Birthday.label "Narozeniny:">
@@ -96,19 +92,19 @@
 <!ENTITY Company.label "Organizace:">
 <!ENTITY Company.accesskey "g">
 <!ENTITY WorkAddress.label "Adresa:">
-<!ENTITY WorkAddress.accesskey "e">
+<!ENTITY WorkAddress.accesskey "A">
 <!ENTITY WorkAddress2.label "">
 <!ENTITY WorkAddress2.accesskey "">
 <!ENTITY WorkCity.label "Město:">
-<!ENTITY WorkCity.accesskey "t">
+<!ENTITY WorkCity.accesskey "M">
 <!ENTITY WorkState.label "Kraj:">
 <!ENTITY WorkState.accesskey "j">
 <!ENTITY WorkZipCode.label "PSČ:">
-<!ENTITY WorkZipCode.accesskey "S">
+<!ENTITY WorkZipCode.accesskey "P">
 <!ENTITY WorkCountry.label "Země:">
 <!ENTITY WorkCountry.accesskey "e">
 <!ENTITY WorkWebPage.label "Webová stránka:">
-<!ENTITY WorkWebPage.accesskey "b">
+<!ENTITY WorkWebPage.accesskey "W">
 
 <!ENTITY Other.tab "Ostatní">
 <!ENTITY Other.accesskey "O">
@@ -124,10 +120,10 @@
 <!ENTITY Notes.accesskey "P">
 
 <!ENTITY Photo.tab "Fotografie">
-<!ENTITY Photo.accesskey "o">
+<!ENTITY Photo.accesskey "F">
 <!ENTITY PhotoDesc.label "Zvolte jednu z následujících:">
 <!ENTITY GenericPhoto.label "Obecná fotografie">
-<!ENTITY GenericPhoto.accesskey "O">
+<!ENTITY GenericPhoto.accesskey "e">
 <!ENTITY DefaultPhoto.label "Výchozí">
 <!ENTITY PhotoFile.label "Na počítači">
 <!ENTITY PhotoFile.accesskey "p">

@@ -152,7 +152,7 @@
 <!ENTITY  event.toolbar.privacy.label                     "Soukromí">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Uloží a zavře">
-<!ENTITY  event.toolbar.delete.tooltip                    "Smaže">
+<!ENTITY  event.toolbar.delete.tooltip                    "Smazat">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Pozve účastníky">
 <!ENTITY  event.toolbar.attachments.tooltip               "Přidá přílohy">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Změní soukromí">
@@ -256,7 +256,7 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Každý" >
 <!ENTITY repeat.units.months.both                       "měsíc" >
-<!ENTITY event.recurrence.monthly.every.label           "každý" >
+<!ENTITY event.recurrence.monthly.every.label           "Každý" >
 <!ENTITY event.recurrence.monthly.first.label           "první">
 <!ENTITY event.recurrence.monthly.second.label          "druhý">
 <!ENTITY event.recurrence.monthly.third.label           "třetí">
@@ -298,7 +298,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "říjen" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "listopad" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "prosinec" >
-<!ENTITY event.recurrence.yearly.every.label                 "každý">
+<!ENTITY event.recurrence.yearly.every.label                 "Každý">
 <!ENTITY event.recurrence.yearly.first.label                 "první">
 <!ENTITY event.recurrence.yearly.second.label                "druhý">
 <!ENTITY event.recurrence.yearly.third.label                 "třetí">

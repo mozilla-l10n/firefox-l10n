@@ -6,7 +6,7 @@
 <!ENTITY security.caption "Zabezpečení a autentizace">
 <!ENTITY serverName.label "Adresa serveru:">
 <!ENTITY serverName.accesskey "A">
-<!ENTITY serverDescription.label "Název serveru">
+<!ENTITY serverDescription.label "Název serveru:">
 <!ENTITY serverDescription.accesskey "N">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "P">

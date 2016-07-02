@@ -31,9 +31,9 @@
 <!ENTITY printPreviewAddressBook.accesskey "L">
 
 <!-- Edit Menu -->
-<!ENTITY deleteAbCmd.label "Odstranit">
-<!ENTITY deleteContactCmd.label "Odstranit">
-<!ENTITY deleteContactsCmd.label "Odstranit">
+<!ENTITY deleteAbCmd.label "Smazat adresář">
+<!ENTITY deleteContactCmd.label "Smazat kontakt">
+<!ENTITY deleteContactsCmd.label "Smazat vybrané kontakty">
 <!ENTITY deleteListCmd.label "Smazat seznam">
 <!ENTITY deleteListsCmd.label "Smazat vybrané seznamy">
 <!ENTITY deleteItemsCmd.label "Smazat vybrané položky">
@@ -57,9 +57,9 @@
 <!ENTITY menu_ShowNameAs.accesskey "b">
 <!ENTITY firstLastCmd.label "Jméno Příjmení">
 <!ENTITY firstLastCmd.accesskey "j">
-<!ENTITY lastFirstCmd.label "Příjmení, jméno">
+<!ENTITY lastFirstCmd.label "Příjmení, Jméno">
 <!ENTITY lastFirstCmd.accesskey "p">
-<!ENTITY displayNameCmd.label "Zobrazené jméno">
+<!ENTITY displayNameCmd.label "Zobrazované jméno">
 <!ENTITY displayNameCmd.accesskey "z">
 
 <!-- Tasks Menu -->
