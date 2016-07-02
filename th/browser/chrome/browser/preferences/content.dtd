@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "ป็อปอัป">
+<!ENTITY  popups.label                "ป๊อปอัป">
 
-<!ENTITY  blockPopups.label           "ปิดกั้นหน้าต่างป็อปอัป">
+<!ENTITY  blockPopups.label           "ปิดกั้นหน้าต่างป๊อปอัป">
 <!ENTITY  blockPopups.accesskey       "ป">
 
 <!ENTITY  notificationsPolicy.label            "การแจ้งเตือน">
