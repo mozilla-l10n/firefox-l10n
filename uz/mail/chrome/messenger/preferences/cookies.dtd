@@ -18,7 +18,7 @@
 <!ENTITY props.path.label                  "Yo‘l:">
 <!ENTITY props.secure.label                "Jo‘natish:">
 <!ENTITY props.expires.label               "Muddati o‘tishi:">
-
+<!ENTITY props.container.label             "Container:">
 
 <!ENTITY window.title                      "Kukilar">
 <!ENTITY windowClose.key                   "w">
