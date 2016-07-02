@@ -22,26 +22,26 @@
 <!ENTITY  reload.accesskey              "ร">
 <!ENTITY  ftp.label                     "พร็อกซี FTP:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "พร็อกซี HTTP :">
+<!ENTITY  http.label                    "พร็อกซี HTTP:">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "พร็อกซี SSL:">
 <!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "โฮสต์ SOCKS :">
+<!ENTITY  socks.label                   "โฮสต์ SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label          "Remote DNS">
+<!ENTITY  socksRemoteDNS.label          "DNS ระยะไกล">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
-<!ENTITY  port.label                    "พอร์ต :">
+<!ENTITY  port.label                    "พอร์ต:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "ไม่มีพร็อกซีสำหรับ:">
 <!ENTITY  noproxy.accesskey             "ไ">
-<!ENTITY  noproxyExplain.label          "ตัวอย่าง : .mozilla.org, .net.th, 192.168.1.0/24">
+<!ENTITY  noproxyExplain.label          "ตัวอย่าง: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ใช้เซิร์ฟเวอร์พร็อกซีนี้สำหรับทุกโพรโทคอล">
 <!ENTITY  shareproxy.accesskey          "ช">
 <!ENTITY  autologinproxy.label          "ไม่ต้องขึ้นข้อความพร้อมรับสำหรับการพิสูจน์ ถ้ารหัสผ่านได้รับการบันทึกแล้ว">
