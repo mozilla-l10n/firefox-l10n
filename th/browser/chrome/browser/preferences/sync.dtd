@@ -69,7 +69,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "โปรดลงชื่อเข้าใช้เพื่อเชื่อมต่อใหม่">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "คุณไม่ได้เข้าสู่ระบบ">
+<!ENTITY notSignedIn.label           "คุณไม่ได้ลงชื่อเข้า">
 <!ENTITY signIn.label                "ลงชื่อเข้า">
 <!ENTITY profilePicture.tooltip      "เปลี่ยนรูปโพรไฟล์">
 <!ENTITY verifiedManage.label        "จัดการบัญชี">

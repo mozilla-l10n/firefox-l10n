@@ -17,8 +17,8 @@
 <!ENTITY useMultiple.label         "ใช้หน้าปัจจุบัน">
 <!ENTITY chooseBookmark.label      "ใช้ที่คั่นหน้า…">
 <!ENTITY chooseBookmark.accesskey  "ท">
-<!ENTITY restoreDefault.label      "คืนสู่ค่าปริยาย">
-<!ENTITY restoreDefault.accesskey  "ค">
+<!ENTITY restoreDefault.label      "เรียกคืนค่าปริยาย">
+<!ENTITY restoreDefault.accesskey  "เ">
 
 <!ENTITY downloads.label     "ดาวน์โหลด">
 

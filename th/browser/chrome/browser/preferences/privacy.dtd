@@ -28,9 +28,9 @@
 
 <!ENTITY  history.label                 "ประวัติ">
 
-<!ENTITY  locationBar.label             "แถบที่อยู่">
+<!ENTITY  locationBar.label             "แถบตำแหน่งที่ตั้ง">
 
-<!ENTITY  locbar.suggest.label          "เมื่อใช้แถบที่อยู่ ให้เสนอแนะ :">
+<!ENTITY  locbar.suggest.label          "เมื่อใช้แถบตำแหน่งที่ตั้ง เสนอแนะ:">
 <!ENTITY  locbar.history.label          "ประวัติ">
 <!ENTITY  locbar.history.accesskey      "ป">
 <!ENTITY  locbar.bookmarks.label        "ที่คั่นหน้า">

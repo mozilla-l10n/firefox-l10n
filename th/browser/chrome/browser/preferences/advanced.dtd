@@ -6,7 +6,7 @@
 
 <!ENTITY generalTab.label                "ทั่วไป">
 
-<!ENTITY accessibility.label             "สิ่งอำนวยความสะดวก">
+<!ENTITY accessibility.label             "การช่วยเข้าถึง">
 
 <!ENTITY useCursorNavigation.label       "ใช้ปุ่มลูกศรนำทางภายในหน้าเสมอ">
 <!ENTITY useCursorNavigation.accesskey   "ป">
@@ -17,13 +17,13 @@
 <!ENTITY useOnScreenKeyboard.label       "แสดงแป้นพิมพ์สัมผัสเมื่อต้องการ">
 <!ENTITY useOnScreenKeyboard.accesskey   "ป">
 
-<!ENTITY browsing.label                  "การดูหน้าเว็บ">
+<!ENTITY browsing.label                  "การท่องเว็บ">
 
 <!ENTITY useAutoScroll.label             "ใช้การเลื่อนหน้าอัตโนมัติ">
 <!ENTITY useAutoScroll.accesskey         "อ">
 <!ENTITY useSmoothScrolling.label        "ใช้การเลื่อนหน้าแบบลื่นไหล">
 <!ENTITY useSmoothScrolling.accesskey    "ล">
-<!ENTITY allowHWAccel.label              "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อมีให้ใช้">
+<!ENTITY allowHWAccel.label              "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อใช้งานได้">
 <!ENTITY allowHWAccel.accesskey          "ร">
 <!ENTITY checkSpelling.label             "ตรวจสอบตัวสะกดขณะพิมพ์">
 <!ENTITY checkSpelling.accesskey         "ส">
@@ -41,7 +41,7 @@
 <!ENTITY telemetryLearnMore.label        "เรียนรู้เพิ่มเติม">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; ส่งข้อมูลรายงานข้อขัดข้องเพื่อช่วย &vendorShortName; ทำเบราว์เซอร์ของคุณให้เสถียรและปลอดภัยมากขึ้น">
-<!ENTITY enableCrashReporter.label       "เปิดใช้ตัวรายงานข้อขัดข้อง">
+<!ENTITY enableCrashReporter.label       "เปิดใช้งานตัวรายงานข้อขัดข้อง">
 <!ENTITY enableCrashReporter.accesskey   "ต">
 <!ENTITY crashReporterLearnMore.label    "เรียนรู้เพิ่มเติม">
 
@@ -100,14 +100,14 @@
 
 <!ENTITY offlineAppsList2.label          "เว็บไซต์เหล่านี้ได้รับอนุญาตให้เก็บข้อมูลไว้ใช้ตอนออฟไลน์:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "ลบ…">
-<!ENTITY offlineAppsListRemove.accesskey "ล">
+<!ENTITY offlineAppsListRemove.label     "เอาออก…">
+<!ENTITY offlineAppsListRemove.accesskey "เ">
 <!ENTITY offlineAppRemove.confirm        "เอาข้อมูลออฟไลน์ออก">
 
 <!ENTITY certificateTab.label            "ใบรับรอง">
 <!ENTITY certSelection.label             "คำร้องขอ">
 <!ENTITY certSelection.description       "เมื่อเซิร์ฟเวอร์ร้องขอใบรับรองส่วนบุคคลของฉัน:">
-<!ENTITY certs.auto                      "เลือกอัตโนมัติ">
+<!ENTITY certs.auto                      "เลือกมาหนึ่งโดยอัตโนมัติ">
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "ถามฉันทุกครั้ง">
 <!ENTITY certs.ask.accesskey             "A">
