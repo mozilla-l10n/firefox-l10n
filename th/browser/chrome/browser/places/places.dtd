@@ -81,7 +81,7 @@
 <!ENTITY cmd.moveBookmarks.accesskey              "ย">
 
 <!ENTITY col.name.label          "ชื่อ">
-<!ENTITY col.tags.label          "ป้าย">
+<!ENTITY col.tags.label          "ป้ายกำกับ">
 <!ENTITY col.url.label           "ที่ตั้ง">
 <!ENTITY col.mostrecentvisit.label "ที่เยี่ยมชมเร็ว ๆ นี้">
 <!ENTITY col.visitcount.label    "ครั้งที่เข้าชม">
@@ -89,7 +89,7 @@
 <!ENTITY col.dateadded.label     "เพิ่มเมื่อ">
 <!ENTITY col.lastmodified.label  "แก้ไขล่าสุดเมื่อ">
 
-<!ENTITY search.label                              "ค้น :">
+<!ENTITY search.label                              "ค้นหา:">
 <!ENTITY search.accesskey                          "ค">
 
 <!ENTITY cmd.find.key  "f">

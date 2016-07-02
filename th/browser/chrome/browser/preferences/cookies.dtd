@@ -28,8 +28,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "ค้นหา :">
-<!ENTITY     filter.accesskey               "ห">
+<!ENTITY     filter.label                   "ค้นหา:">
+<!ENTITY     filter.accesskey               "ค">
 
 <!ENTITY     button.close.label             "ปิด">
 <!ENTITY     button.close.accesskey         "ป">

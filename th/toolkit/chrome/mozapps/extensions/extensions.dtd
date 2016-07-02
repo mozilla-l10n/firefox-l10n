@@ -176,7 +176,7 @@
 <!ENTITY sort.price.label                     "ราคา">
 <!ENTITY sort.price.tooltip                   "เรียงตามราคา">
 
-<!ENTITY search.filter2.label                 "ค้นหา :">
+<!ENTITY search.filter2.label                 "ค้นหา:">
 <!ENTITY search.filter2.installed.label       "ส่วนเสริมของฉัน">
 <!ENTITY search.filter2.installed.tooltip     "แสดงส่วนเสริมที่ติดตั้งไว้">
 <!ENTITY search.filter2.available.label       "ส่วนเสริมรอติดตั้ง">
