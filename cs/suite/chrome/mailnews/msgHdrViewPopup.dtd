@@ -13,7 +13,7 @@
 <!ENTITY SendMailTo.accesskey "z">
 <!ENTITY CopyEmailAddress.label "Kopírovat e-mailovou adresu">
 <!ENTITY CopyEmailAddress.accesskey "K">
-<!ENTITY CreateFilterFrom.label "Vytvořit filtr z…">
+<!ENTITY CreateFilterFrom.label "Vytvořit filtr…">
 <!ENTITY CreateFilterFrom.accesskey "V">
 <!ENTITY openInBrowser.label "Otevřít v prohlížeči">
 <!ENTITY openInBrowser.accesskey "O">
@@ -21,9 +21,9 @@
 <!ENTITY bookmarkLinkCmd.accesskey "P">
 <!ENTITY copyLinkCmd.label "Kopírovat adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey "K">
-<!ENTITY CopyMessageId.label "Kopírovat Id zprávy">
+<!ENTITY CopyMessageId.label "Kopírovat id zprávy">
 <!ENTITY CopyMessageId.accesskey "K">
-<!ENTITY OpenMessageForMsgId.label "Otevřít zprávu s Id">
+<!ENTITY OpenMessageForMsgId.label "Otevřít zprávu s id">
 <!ENTITY OpenMessageForMsgId.accesskey "O">
-<!ENTITY OpenBrowserWithMsgId.label "Otevřít prohlížeč s Id zprávy">
+<!ENTITY OpenBrowserWithMsgId.label "Otevřít prohlížeč s id zprávy">
 <!ENTITY OpenBrowserWithMsgId.accesskey "t">

@@ -98,8 +98,8 @@
 <!ENTITY  event.menu.view.toolbars.accesskey              "N">
 <!ENTITY  event.menu.view.toolbars.event.label            "Lišta událostí">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "u">
-<!ENTITY  event.menu.view.toolbars.customize.label        "Vlastní…">
-<!ENTITY  event.menu.view.toolbars.customize.accesskey    "V">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Přizpůsobit…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "z">
 <!ENTITY  event.menu.view.showlink.label                  "Zobrazit související odkazy">
 <!ENTITY  event.menu.view.showlink.accesskey              "s">
 
@@ -329,7 +329,7 @@
 
 <!ENTITY event.recurrence.range.label                   "Rozsah opakování">
 <!ENTITY event.recurrence.forever.label                 "Žádné konečné datum" >
-<!ENTITY event.recurrence.repeat.for.label              "Naplánovat na" >
+<!ENTITY event.recurrence.repeat.for.label              "Vytvořit" >
 <!ENTITY event.recurrence.appointments.label            "opakování" >
 <!ENTITY event.repeat.until.label                       "Opakovat do" >
 <!ENTITY event.recurrence.preview.label                 "Náhled">

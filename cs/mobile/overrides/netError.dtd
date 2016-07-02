@@ -85,7 +85,7 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Chyba kódování obsahu">
+<!ENTITY contentEncodingError.title "Chyba znakové sady obsahu">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li>
@@ -117,7 +117,6 @@
 <ul>
   <li>Zkontrolujte nastavení proxy serveru.</li>
   <li>Kontaktujte svého síťového administrátora, zda je proxy server v provozu.</li>
-
 </ul>
 ">
 

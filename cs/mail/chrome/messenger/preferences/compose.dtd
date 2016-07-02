@@ -29,10 +29,10 @@
 <!ENTITY defaultToParagraph.label             "Ve výchozím nastavení používat formát odstavce namísto základního textu">
 <!ENTITY defaultToParagraph.accesskey         "D">
 
-<!ENTITY spellCheck.label                     "Při odesílání zpráv kontrolovat pravopis">
-<!ENTITY spellCheck.accesskey                 "k">
-<!ENTITY spellCheckInline.label               "Povolit kontrolu pravopisu při psaní">
-<!ENTITY spellCheckInline1.accesskey          "P">
+<!ENTITY spellCheck.label                     "Před odesláním zprávy zkontrolovat pravopis">
+<!ENTITY spellCheck.accesskey                 "P">
+<!ENTITY spellCheckInline.label               "Kontrolovat pravopis při psaní">
+<!ENTITY spellCheckInline1.accesskey          "K">
 <!ENTITY languagePopup.label                  "Jazyk:">
 <!ENTITY languagePopup.accessKey              "J">
 <!ENTITY downloadDictionaries.label           "Stáhnout další slovníky">

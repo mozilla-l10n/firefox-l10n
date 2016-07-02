@@ -4,7 +4,7 @@
 
 <!ENTITY connectionsDialog.title "Nastavení připojení">
 
-<!ENTITY proxyTitle.label "Nastavení proxy serveru pro přístup na Internet">
+<!ENTITY proxyTitle.label "Nastavení proxy serverů pro přístup k internetu">
 <!ENTITY noProxyTypeRadio.label "Bez proxy serveru">
 <!ENTITY noProxyTypeRadio.accesskey "B">
 <!ENTITY systemTypeRadio.label "Použít nastavení proxy serverů v systému">

@@ -16,7 +16,7 @@
 <!ENTITY manageSubscriptions.accesskey "S">
 
 <!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY feeds.accountName "Kanaly blogu a novinek">
+<!ENTITY feeds.accountName "Kanály blogů a novinek">
 <!ENTITY feeds.wizardShortName "Kanály">
 <!ENTITY feeds.wizardLongName "Kanály blogů a novinek">
 <!ENTITY feeds.wizardLongName.accesskey "K">

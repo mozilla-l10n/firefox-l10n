@@ -14,11 +14,11 @@
 <!ENTITY encryptionCert.message "Použít tento certifikát pro zašifrování a dešifrování obdržených zpráv:">
 <!ENTITY digitalSign.certificate.button "Vybrat…">
 <!ENTITY digitalSign.certificate.accesskey "b">
-<!ENTITY digitalSign.certificate_clear.button "Smazat">
-<!ENTITY digitalSign.certificate_clear.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "Vymazat">
+<!ENTITY digitalSign.certificate_clear.accesskey "y">
 <!ENTITY encryption.certificate.button "Vybrat…">
 <!ENTITY encryption.certificate.accesskey "r">
-<!ENTITY encryption.certificate_clear.button "Smazat">
+<!ENTITY encryption.certificate_clear.button "Vymazat">
 <!ENTITY encryption.certificate_clear.accesskey "m">
 <!ENTITY signingGroupTitle.label "Elektronický podpis">
 <!ENTITY signMessage.label "Elektronicky podepsat zprávy (výchozí)">

@@ -8,7 +8,7 @@
 <!ENTITY historyPages.label "Historie je seznam navštívených stránek.">
 <!ENTITY enableHistory.label "Pamatovat si navštívené stránky">
 <!ENTITY enableHistory.accesskey "P">
-<!ENTITY clearHistory.label "Smazat historii">
+<!ENTITY clearHistory.label "Vymazat historii">
 <!ENTITY clearHistory.accesskey "h">
 
 <!ENTITY locationBarHistory.caption "Historie adresního řádku">

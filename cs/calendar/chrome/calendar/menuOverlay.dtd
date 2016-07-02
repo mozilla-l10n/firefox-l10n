@@ -29,8 +29,8 @@
 <!ENTITY calendar.removecalendar.label          "Odebrat zvolený kalendář…">
 <!ENTITY calendar.removecalendar.accesskey      "r">
 
-<!ENTITY calendar.menu.customize.label "Vlastní…">
-<!ENTITY calendar.menu.customize.accesskey "V">
+<!ENTITY calendar.menu.customize.label "Přizpůsobit…">
+<!ENTITY calendar.menu.customize.accesskey "z">
 
 <!ENTITY showUnifinderCmd.label "Najít události">
 <!ENTITY showUnifinderCmd.accesskey "a">

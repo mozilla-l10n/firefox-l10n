@@ -23,5 +23,5 @@
   The same accesskey is used for both labels.
 -->
 <!ENTITY clearDataDialog.label "Vymazat…">
-<!ENTITY clearDataSilent.label "Vymazat…">
+<!ENTITY clearDataSilent.label "Vymazat">
 <!ENTITY clearDataDialog.accesskey "V">

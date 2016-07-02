@@ -6,9 +6,9 @@
 <!ENTITY Settings.label "Nastavení">
 <!ENTITY TextAreaName.label "Název pole:">
 <!ENTITY TextAreaName.accessKey "N">
-<!ENTITY TextAreaRows.label "Řádků:">
+<!ENTITY TextAreaRows.label "Řádky:">
 <!ENTITY TextAreaRows.accessKey "d">
-<!ENTITY TextAreaCols.label "Sloupců:">
+<!ENTITY TextAreaCols.label "Sloupce:">
 <!ENTITY TextAreaCols.accessKey "S">
 <!ENTITY TextAreaReadOnly.label "Pouze pro čtení">
 <!ENTITY TextAreaReadOnly.accessKey "r">

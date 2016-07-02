@@ -11,7 +11,7 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Lišta editoru">
-<!ENTITY previewToolbarCmd.label "Náhled">
+<!ENTITY previewToolbarCmd.label "Procházet">
 <!ENTITY previewToolbarCmd.tooltip "Zobrazí stránku v prohlížeči">
 
 <!-- File menu items -->

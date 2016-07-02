@@ -20,7 +20,7 @@
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Název cookie:">
-<!ENTITY     props.value.label              "Data uložená v cookie:">
+<!ENTITY     props.value.label              "Obsah:">
 <!ENTITY     props.domain.label             "Server:">
 <!ENTITY     props.path.label               "Cesta:">
 <!ENTITY     props.secure.label             "Omezení na:">
