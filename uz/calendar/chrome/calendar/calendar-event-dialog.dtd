@@ -178,16 +178,16 @@
 <!ENTITY event.from.accesskey                             "B">
 <!ENTITY task.from.label                                  "Boshlanishi:" >
 <!ENTITY task.from.accesskey                              "B">
-
-
+<!ENTITY event.to.label                                   "Tugashi:" >
+<!ENTITY event.to.accesskey                               "u">
 <!ENTITY task.to.label                                    "Tugash sanasi:" >
 <!ENTITY task.to.accesskey                                "u">
 <!ENTITY task.status.label                                "Holati:" >
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Takrorlash:" >
 <!ENTITY event.repeat.accesskey                           "T">
-
-
+<!ENTITY event.until.label                                "&amp;Ushbu vaqtgacha:">
+<!ENTITY event.until.accesskey                            "B">
 <!ENTITY event.reminder.label                             "Eslatkich:" >
 <!ENTITY event.reminder.accesskey                         "E">
 <!ENTITY event.description.label                          "Ta’rifi:" >
@@ -204,8 +204,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
 <!ENTITY event.attachments.popup.removeAll.label          "Barchasini olib tashlash" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "B" >
-
-
+<!ENTITY event.attachments.popup.attachPage.label         "Veb sahifani ilova qilish…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
 <!ENTITY event.url.label                                  "Aloqador havola:" >
 <!ENTITY event.priority2.label                            "Muhimligi">
 
@@ -354,7 +354,7 @@
 <!ENTITY event.attendee.usertype.group          "Guruh">
 <!ENTITY event.attendee.usertype.resource       "Manba">
 <!ENTITY event.attendee.usertype.room           "Xona">
-
+<!ENTITY event.attendee.usertype.unknown        "Noma’lum">
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Vaqt hududini ko‘rsating">
