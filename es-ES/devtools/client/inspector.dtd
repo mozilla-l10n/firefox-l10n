@@ -1,47 +1,6 @@
-<!ENTITY inspectorHTMLEdit.label "Editar como HTML">
-<!ENTITY inspectorHTMLEdit.accesskey "E">
-<!ENTITY inspectorCopyInnerHTML.label "HTML interno">
-<!ENTITY inspectorCopyInnerHTML.accesskey "i">
-<!ENTITY inspectorCopyOuterHTML.label "HTML externo">
-<!ENTITY inspectorCopyOuterHTML.accesskey "e">
-<!ENTITY inspectorCopyCSSSelector.label "Selector CSS">
-<!ENTITY inspectorCopyCSSSelector.accesskey "S">
-<!ENTITY inspectorPasteOuterHTML.label "HTML externo">
-<!ENTITY inspectorPasteOuterHTML.accesskey "e">
-<!ENTITY inspectorPasteInnerHTML.label "HTML interno">
-<!ENTITY inspectorPasteInnerHTML.accesskey "i">
-<!ENTITY inspectorHTMLPasteExtraSubmenu.label "Pegar…">
-<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey "P">
-<!ENTITY inspectorHTMLPasteBefore.label "Antes">
-<!ENTITY inspectorHTMLPasteBefore.accesskey "A">
-<!ENTITY inspectorHTMLPasteAfter.label "Tras">
-<!ENTITY inspectorHTMLPasteAfter.accesskey "T">
-<!ENTITY inspectorHTMLPasteFirstChild.label "Como primer hijo">
-<!ENTITY inspectorHTMLPasteFirstChild.accesskey "C">
-<!ENTITY inspectorHTMLPasteLastChild.label "Como último hijo">
-<!ENTITY inspectorHTMLPasteLastChild.accesskey "m">
-<!ENTITY inspectorScrollNodeIntoView.label "Desplazar y hacer visible">
-<!ENTITY inspectorScrollNodeIntoView.accesskey "v">
-<!ENTITY inspectorHTMLDelete.label "Eliminar nodo">
-<!ENTITY inspectorHTMLDelete.accesskey "D">
-<!ENTITY inspectorAttributesSubmenu.label "Atributos">
-<!ENTITY inspectorAttributesSubmenu.accesskey "u">
-<!ENTITY inspectorAddAttribute.label "Añadir atributo">
-<!ENTITY inspectorAddAttribute.accesskey "A">
-<!ENTITY inspectorEditAttribute.label "Editar atributo">
-<!ENTITY inspectorEditAttribute.accesskey "E">
 <!ENTITY inspectorRemoveAttribute.label "Eliminar atributo">
 <!ENTITY inspectorRemoveAttribute.accesskey "b">
 <!ENTITY inspector.selectButton.tooltip "Seleccionar un elemento con el ratón">
 <!ENTITY inspectorSearchHTML.label3 "Buscar en HTML">
-<!ENTITY inspectorImageDataUri.label "Data-URL de imagen">
-<!ENTITY inspectorShowDOMProperties.label "Mostrar propiedades DOM">
-<!ENTITY inspectorUseInConsole.label "Usar en consola">
-<!ENTITY inspectorExpandNode.label "Expandir todo">
-<!ENTITY inspectorCollapseNode.label "Contraer">
-<!ENTITY inspectorScreenshotNode.label "Capturar pantalla del nodo">
-<!ENTITY inspectorDuplicateNode.label "Duplicar nodo">
 <!ENTITY inspectorAddNode.label "Crear nodo nuevo">
 <!ENTITY inspectorAddNode.accesskey "n">
-<!ENTITY inspectorCopyHTMLSubmenu.label "Copiar">
-<!ENTITY inspectorPasteHTMLSubmenu.label "Pegar">
