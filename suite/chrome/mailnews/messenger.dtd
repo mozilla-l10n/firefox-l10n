@@ -338,7 +338,7 @@
 <!ENTITY copyHereMenu.accesskey "P">
 <!ENTITY tagMenu.label "Přiřadit štítek">
 <!ENTITY tagMenu.accesskey "t">
-<!ENTITY tagCustomize.label "Vlastní…">
+<!ENTITY tagCustomize.label "Vlastní štítek…">
 <!ENTITY tagCustomize.accesskey "V">
 <!ENTITY markMenu.label "Označit">
 <!ENTITY markMenu.accesskey "z">

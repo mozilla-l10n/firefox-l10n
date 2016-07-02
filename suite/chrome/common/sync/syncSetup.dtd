@@ -104,7 +104,7 @@
 <!ENTITY choice2.server.main.label     "Nahradit data na ostatních zařízeních daty na tomto počítači">
 
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Potvrdit">
+<!ENTITY setup.optionsConfirmPage.title "Potvrzení">
 <!ENTITY confirm.merge.label    "Zvolili jste sloučení dat na tomto počítači s daty na ostatních zařízeních, kde běží &syncBrand.fullName.label;.">
 <!ENTITY confirm.client2.label         "Upozornění: Následující data aplikace &brandShortName; na tomto počítači budou smazána:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; poté nakopíruje data &syncBrand.fullName.label; na tento počítač.">

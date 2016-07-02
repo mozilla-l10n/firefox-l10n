@@ -349,7 +349,7 @@
 <!ENTITY calendar.print.title.label "Titulek">
 <!ENTITY calendar.print.layout.label "Vzhled">
 <!ENTITY calendar.print.range.label "Rozsah tisku">
-<!ENTITY calendar.print.currentView2.label "Aktuální pohled">
+<!ENTITY calendar.print.currentView2.label "Současný pohled">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Vybrané události/úkoly">
 <!ENTITY calendar.print.tasks.label "Úkoly">
 <!ENTITY calendar.print.events.label "Události">

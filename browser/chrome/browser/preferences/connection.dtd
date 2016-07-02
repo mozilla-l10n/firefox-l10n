@@ -7,7 +7,7 @@
 <!ENTITY  window.width                  "40em">
 <!ENTITY  window.macWidth               "42em">
 
-<!ENTITY  proxyTitle.label              "Nastavení proxy serverů pro přístup na Internet">
+<!ENTITY  proxyTitle.label              "Nastavení proxy serverů pro přístup k internetu">
 <!ENTITY  noProxyTypeRadio.label        "Bez proxy serveru">
 <!ENTITY  noProxyTypeRadio.accesskey    "B">
 <!ENTITY  systemTypeRadio.label         "Použít nastavení proxy serverů v systému">

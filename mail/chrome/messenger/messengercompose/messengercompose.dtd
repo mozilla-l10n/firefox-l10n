@@ -116,8 +116,8 @@
 <!ENTITY showFormattingBarCmd.accesskey "y">
 <!ENTITY showTaskbarCmd.label "Stavový řádek">
 <!ENTITY showTaskbarCmd.accesskey "S">
-<!ENTITY customizeToolbar.label "Vlastní…">
-<!ENTITY customizeToolbar.accesskey "V">
+<!ENTITY customizeToolbar.label "Přizpůsobit…">
+<!ENTITY customizeToolbar.accesskey "z">
 
 <!ENTITY addressSidebar.label "Lišta adresáře">
 <!ENTITY addressSidebar.accesskey "a">

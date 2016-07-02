@@ -285,9 +285,9 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Nabídka">
 <!ENTITY formatToolbar.tooltip "Lišta úprav">
-<!ENTITY cutToolbarCmd.tooltip "Vyjme">
-<!ENTITY copyToolbarCmd.tooltip "Zkopíruje">
-<!ENTITY pasteToolbarCmd.tooltip "Vloží">
+<!ENTITY cutToolbarCmd.tooltip "Vyjmout">
+<!ENTITY copyToolbarCmd.tooltip "Kopírovat">
+<!ENTITY pasteToolbarCmd.tooltip "Vložit">
 <!ENTITY printToolbarCmd.label "Tisknout">
 <!ENTITY printToolbarCmd.tooltip "Vytiskne tuto stránku">
 <!ENTITY findToolbarCmd.label "Hledat">

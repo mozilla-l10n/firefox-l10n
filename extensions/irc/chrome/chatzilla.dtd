@@ -12,8 +12,8 @@
 <!ENTITY server-nick.tooltip "Změní přezdívku nebo nastaví stav. Pro zaměření vstupního pole stiskněte klávesu Esc.">
 
 <!ENTITY Underline.label "Podtržení">
-<!ENTITY Bold.label "Tučně">
+<!ENTITY Bold.label "Tučné">
 <!ENTITY Reverse.label "Inverzní barvy">
 <!ENTITY Normal.label "Normálně">
-<!ENTITY Color.label "Barevně">
+<!ENTITY Color.label "Barva">
 <!ENTITY ForeBack.label "xx=Popř yy=Poz">

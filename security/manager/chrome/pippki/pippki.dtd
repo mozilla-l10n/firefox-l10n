@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Values for changepassword.xul -->
-<!ENTITY setPassword.title "Změnit hlavní heslo">
+<!ENTITY setPassword.title "Změna hlavního hesla">
 <!ENTITY setPassword.tokenName.label "Bezpečnostní zařízení">
 <!ENTITY setPassword.oldPassword.label "Současné heslo:">
 <!ENTITY setPassword.newPassword.label "Nové heslo:">

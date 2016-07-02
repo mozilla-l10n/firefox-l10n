@@ -5,7 +5,7 @@
 <!ENTITY virtualFolderProperties.title "Nová složka uloženého hledání">
 <!ENTITY name.label "Název:">
 <!ENTITY name.accesskey "N">
-<!ENTITY description.label "Vytvořit tuto novou podsložku ve složce:">
+<!ENTITY description.label "Vytvořit jako podsložku v:">
 <!ENTITY description.accesskey "p">
 
 <!ENTITY searchTermCaption.label "Upravit vyhledávací kritéria používaná pro tuto virtuální složku:">

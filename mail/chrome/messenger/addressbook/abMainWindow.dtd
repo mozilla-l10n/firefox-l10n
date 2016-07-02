@@ -90,8 +90,8 @@
 <!ENTITY showAbToolbarCmd.accesskey                     "d">
 <!ENTITY showTaskbarCmd.label                           "Stavový řádek">
 <!ENTITY showTaskbarCmd.accesskey                       "t">
-<!ENTITY customizeToolbar.label                         "Vlastní…">
-<!ENTITY customizeToolbar.accesskey                     "V">
+<!ENTITY customizeToolbar.label                         "Přizpůsobit…">
+<!ENTITY customizeToolbar.accesskey                     "z">
 <!ENTITY layoutMenu.label                               "Rozmístění">
 <!ENTITY layoutMenu.accesskey                           "R">
 <!ENTITY showDirectoryPane.label                        "Panel adresáře">

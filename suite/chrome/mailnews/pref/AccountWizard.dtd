@@ -109,7 +109,7 @@
 
 <!-- Entities for Done (Congratulations) page -->
 
-<!ENTITY completionTitle.label "Gratulujeme!">
+<!ENTITY completionTitle.label "Blahopřejeme!">
 <!ENTITY completionText.label "Ověřte prosím, zda jsou níže uvedené položky v pořádku.">
 <!ENTITY serverTypePrefix.label "Typ serveru pro příchozí zprávy:">
 <!ENTITY serverNamePrefix.label "Adresa serveru pro příchozí zprávy:">

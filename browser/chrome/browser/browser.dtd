@@ -536,7 +536,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "a">
 <!ENTITY copyAudioURLCmd.label        "Kopírovat adresu audia">
 <!ENTITY copyAudioURLCmd.accesskey    "a">
-<!ENTITY copyEmailCmd.label           "Kopírovat adresu e-mailu">
+<!ENTITY copyEmailCmd.label           "Kopírovat e-mailovou adresu">
 <!ENTITY copyEmailCmd.accesskey       "a">
 <!ENTITY thisFrameMenu.label              "Tento rám">
 <!ENTITY thisFrameMenu.accesskey          "T">

@@ -5,7 +5,7 @@
 <!ENTITY sanitizeDialog.title "Vymazání důvěrných dat">
 <!ENTITY sanitizeItems.label "Vymazat následující položky:">
 
-<!ENTITY itemHistory.label "Historie stránek">
+<!ENTITY itemHistory.label "Historie prohlížení">
 <!ENTITY itemHistory.accesskey "H">
 <!ENTITY itemUrlBar.label "Historie adresního řádku">
 <!ENTITY itemUrlBar.accesskey "a">

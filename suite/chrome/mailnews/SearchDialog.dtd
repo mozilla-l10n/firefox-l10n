@@ -15,7 +15,7 @@
 <!ENTITY resetButton.accesskey "B">
 <!ENTITY openButton.label "Otevřít">
 <!ENTITY openButton.accesskey "t">
-<!ENTITY deleteButton.label "Smazat">
+<!ENTITY deleteButton.label "Vymazat">
 <!ENTITY deleteButton.accesskey "m">
 <!ENTITY searchDialogTitle.label "Hledat ve zprávách">
 <!ENTITY results.label "Nalezené položky:">
@@ -33,7 +33,7 @@
 <!ENTITY abSearchHeading.accesskey "H">
 <!ENTITY propertiesButton.label "Vlastnosti">
 <!ENTITY propertiesButton.accesskey "V">
-<!ENTITY composeButton.label "Napsat zprávu">
-<!ENTITY composeButton.accesskey "z">
+<!ENTITY composeButton.label "Napsat">
+<!ENTITY composeButton.accesskey "s">
 <!ENTITY abSearchDialogTitle.label "Rozšířené hledání v kontaktech">
 

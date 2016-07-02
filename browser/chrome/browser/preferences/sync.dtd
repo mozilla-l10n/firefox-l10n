@@ -79,7 +79,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.description "Kdekoliv používáte &brandShortName;, přistupujte ke svým panelům, záložkám, heslům a dalším datům.">
 <!ENTITY welcome.signIn.label "Přihlášení">
-<!ENTITY welcome.createAccount.label "Vytvoření účtu">
+<!ENTITY welcome.createAccount.label "Vytvořit účet">
 
 <!ENTITY welcome.useOldSync.label "Používáte starší verzi Sync?">
 

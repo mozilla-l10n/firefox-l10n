@@ -132,8 +132,8 @@
 <!ENTITY menubarCmd.accesskey "n">
 <!ENTITY showMessengerToolbarCmd.label "Lišta pošty">
 <!ENTITY showMessengerToolbarCmd.accesskey "p">
-<!ENTITY customizeToolbar.label "Vlastní…">
-<!ENTITY customizeToolbar.accesskey "V">
+<!ENTITY customizeToolbar.label "Přizpůsobit…">
+<!ENTITY customizeToolbar.accesskey "z">
 
 <!ENTITY messagePaneLayoutStyle.label "Rozmístění">
 <!ENTITY messagePaneLayoutStyle.accesskey "R">
@@ -619,7 +619,7 @@
 <!ENTITY folderContextRename.accesskey "P">
 <!ENTITY folderContextRemove.label "Smazat">
 <!ENTITY folderContextRemove.accesskey "m">
-<!ENTITY folderContextCompact.label "Provést údržbu složky">
+<!ENTITY folderContextCompact.label "Provést údržbu">
 <!ENTITY folderContextCompact.accesskey "d">
 <!ENTITY folderContextEmptyTrash.label "Vysypat koš">
 <!ENTITY folderContextEmptyTrash.accesskey "k">
@@ -889,7 +889,7 @@
 <!ENTITY copyLinkCmd.accesskey "a">
 <!ENTITY copyImageAllCmd.label "Kopírovat obrázek">
 <!ENTITY copyImageAllCmd.accesskey "b">
-<!ENTITY copyEmailCmd.label "Kopírovat adresu e-mailu">
+<!ENTITY copyEmailCmd.label "Kopírovat e-mailovou adresu">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Zastavit">
 <!ENTITY stopCmd.accesskey "Z">

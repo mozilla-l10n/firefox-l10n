@@ -75,12 +75,12 @@
 <!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Záložky">
 <!ENTITY bookmarksMenu.accesskey "o">
-<!ENTITY addCurPageCmd.label "Přidat k záložkám">
+<!ENTITY addCurPageCmd.label "Přidat stránku do záložek">
 <!ENTITY addCurPageCmd.accesskey "P">
-<!ENTITY addCurPageAsCmd.label "Přidat k záložkám jako…">
+<!ENTITY addCurPageAsCmd.label "Přidat do záložek jako…">
 <!ENTITY addCurPageAsCmd.accesskey "J">
 <!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Přidat skupinu panelů k záložkám…">
+<!ENTITY addCurTabsAsCmd.label "Přidat skupinu panelů do záložek…">
 <!ENTITY addCurTabsAsCmd.accesskey "K">
 <!ENTITY manBookmarksCmd.label "Správce záložek…">
 <!ENTITY manBookmarksCmd.accesskey "S">
