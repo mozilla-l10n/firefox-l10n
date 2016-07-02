@@ -10,7 +10,7 @@
 
 <!ENTITY backButton.label "Zpět">
 <!ENTITY backButton.accesskey "Z">
-<!ENTITY backButton.tooltip "Přejde o jednu stránku zpět">
+<!ENTITY backButton.tooltip "Přejde na předchozí stránku zpět">
 <!ENTITY forwardButton.label "Vpřed">
 <!ENTITY forwardButton.accesskey "V">
 <!ENTITY forwardButton.tooltip "Přejde na následující stránku">

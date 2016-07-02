@@ -23,10 +23,10 @@
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Soubor přes úložiště">
 <!ENTITY attachCloudCmd.accesskey "b">
-<!ENTITY attachPageCmd.label "Webová stránka…">
+<!ENTITY attachPageCmd.label "Webovou stránku…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Osobní vizitka (vCard)">
+<!ENTITY attachVCardCmd.label "Osobní vizitku (vCard)">
 <!ENTITY attachVCardCmd.accesskey "O">
 <!ENTITY remindLater.label "Upozornit mě později">
 <!ENTITY remindLater.accesskey "U">
@@ -241,7 +241,7 @@
 <!ENTITY attachments.accesskey "P">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!ENTITY SmileButton.tooltip "Vloží smajlík">
+<!ENTITY SmileButton.tooltip "Vloží smajlíka">
 <!ENTITY smiley1Cmd.label "Úsměv">
 <!ENTITY smiley2Cmd.label "Zamračený">
 <!ENTITY smiley3Cmd.label "Mrknutí">

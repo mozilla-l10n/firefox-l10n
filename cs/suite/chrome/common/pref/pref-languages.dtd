@@ -19,7 +19,7 @@
 <!ENTITY languages.customize.others.label "Ostatní:">
 <!ENTITY languages.customize.others.accesskey "O">
 <!ENTITY languages.customize.Fallback2.grouplabel       "Znaková sada textu pro původní obsah">
-<!ENTITY languages.customize.Fallback2.label            "Znaková sada textu:">
+<!ENTITY languages.customize.Fallback2.label            "Výchozí znaková sada:">
 <!ENTITY languages.customize.Fallback2.accesskey        "t">
 <!ENTITY languages.customize.Fallback2.desc             "Tato znaková sada textu se používá pro původní obsah, který neobsahuje definici o své znakové sadě.">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->

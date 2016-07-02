@@ -24,8 +24,8 @@
 <!ENTITY OptionText.accesskey "T">
 <!ENTITY OptionValue.label "Hodnota:">
 <!ENTITY OptionValue.accesskey "H">
-<!ENTITY OptionSelected.label "Výchozí volba">
-<!ENTITY OptionSelected.accesskey "h">
+<!ENTITY OptionSelected.label "Výchozí výběr">
+<!ENTITY OptionSelected.accesskey "b">
 <!ENTITY OptionDisabled.label "Zakázáno">
 <!ENTITY OptionDisabled.accesskey "Z">
 <!ENTITY TextHeader.label "Text">

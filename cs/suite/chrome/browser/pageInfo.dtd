@@ -44,7 +44,7 @@
 <!ENTITY formTarget "Cíl:">
 <!ENTITY formFields "Prvky:">
 <!ENTITY formLabel "Označení">
-<!ENTITY formFName "Název prvku">
+<!ENTITY formFName "Název pole">
 <!ENTITY formType "Typ">
 <!ENTITY formCValue "Současná hodnota">
 

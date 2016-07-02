@@ -79,8 +79,8 @@
 <!ENTITY newmsgButton.accesskey "N">
 <!ENTITY deleteItemButton.label "Smazat">
 <!ENTITY deleteItemButton.accesskey "m">
-<!ENTITY newimButton.label "Krátká zpráva">
-<!ENTITY newimButton.accesskey "K">
+<!ENTITY newimButton.label "Zpráva přes IM">
+<!ENTITY newimButton.accesskey "I">
 <!ENTITY searchNameAndEmail.placeholder "Hledat jméno a e-mail">
 <!ENTITY searchBox.title "Hledat">
 

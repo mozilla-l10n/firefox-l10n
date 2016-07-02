@@ -34,7 +34,7 @@
 
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.importSnapshot): This string is displayed
   -  on a button that opens a dialog to import a saved snapshot data file. -->
-<!ENTITY canvasDebuggerUI.importSnapshot "Import…">
+<!ENTITY canvasDebuggerUI.importSnapshot "Importovat…">
 
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.clearSnapshots): This string is displayed
   -  on a button that remvoes all the snapshots. -->

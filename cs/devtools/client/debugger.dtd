@@ -130,9 +130,9 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
-<!ENTITY debuggerUI.searchToken           "Hledat">
+<!ENTITY debuggerUI.searchToken           "Najít">
 <!ENTITY debuggerUI.searchToken.key       "F">
-<!ENTITY debuggerUI.searchToken.accesskey "H">
+<!ENTITY debuggerUI.searchToken.accesskey "j">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->

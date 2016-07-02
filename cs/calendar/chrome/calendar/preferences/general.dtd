@@ -6,7 +6,7 @@
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-<!ENTITY pref.mainbox.label "Hlavní nastavení" >
+<!ENTITY pref.mainbox.label "Obecné nastavení" >
 <!ENTITY pref.dateformat.label "Formát data:" >
 <!ENTITY pref.dateformat.accesskey "d">
 <!ENTITY pref.dateformat.long "Dlouhý" >

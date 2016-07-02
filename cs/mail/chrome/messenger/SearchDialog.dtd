@@ -48,7 +48,7 @@
 <!ENTITY accountColumn.label "Účet">
 <!ENTITY statusColumn.label "Stav">
 <!ENTITY sizeColumn.label "Velikost">
-<!ENTITY junkStatusColumn.label "Druh zprávy">
+<!ENTITY junkStatusColumn.label "Stav zprávy">
 <!ENTITY unreadColumn.label "Nepřečtené">
 <!ENTITY totalColumn.label "Celkem">
 <!ENTITY readColumn.label "Přečteno">

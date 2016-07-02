@@ -5,7 +5,7 @@
 <!ENTITY folderProps.windowtitle.label           "Vlastnosti">
 
 <!ENTITY generalInfo.label                       "Obecné informace">
-<!ENTITY folderCharsetFallback2.label            "Výchozí znaková sada textu:">
+<!ENTITY folderCharsetFallback2.label            "Výchozí znaková sada:">
 <!ENTITY folderCharsetFallback2.accesskey        "k">
 <!ENTITY folderCharsetEnforce2.label             "Použít znakovou sadu pro všechny zprávy ve složce (individuální znaková sada zprávy nebo automatická detekce bude ignorována)">
 <!ENTITY folderCharsetEnforce2.accesskey         "a">

@@ -4,7 +4,7 @@
 
 <!ENTITY pref.composing.messages.title "Vytváření">
 <!ENTITY generalComposing.label "Obecné">
-<!ENTITY forwardMsg.label "Přeposlat zprávy:">
+<!ENTITY forwardMsg.label "Přeposílat zprávy:">
 <!ENTITY inline.label "Vložené">
 <!ENTITY inline.accesskey "l">
 <!ENTITY asAttachment.label "Jako přílohu">

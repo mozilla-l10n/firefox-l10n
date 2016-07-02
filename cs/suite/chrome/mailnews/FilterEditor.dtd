@@ -12,11 +12,11 @@
 <!ENTITY junk.label "Nevyžádaná">
 <!ENTITY notJunk.label "Není nevyžádaná">
 
-<!ENTITY lowestPriorityCmd.label "nejnižší">
-<!ENTITY lowPriorityCmd.label "nízká">
-<!ENTITY normalPriorityCmd.label "normální">
-<!ENTITY highPriorityCmd.label "vysoká">
-<!ENTITY highestPriorityCmd.label "nejvyšší">
+<!ENTITY lowestPriorityCmd.label "Nejnižší">
+<!ENTITY lowPriorityCmd.label "Nízká">
+<!ENTITY normalPriorityCmd.label "Normální">
+<!ENTITY highPriorityCmd.label "Vysoká">
+<!ENTITY highestPriorityCmd.label "Nejvyšší">
 
 <!ENTITY contextDesc.label "Použít filtr při:">
 <!ENTITY contextIncomingMail.label "Přijímání pošty:">

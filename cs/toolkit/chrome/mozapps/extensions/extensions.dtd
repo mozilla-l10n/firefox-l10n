@@ -20,8 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Nástroje doplňků">
 
-<!ENTITY cmd.back.tooltip                     "Přejde jednu stránku zpět">
-<!ENTITY cmd.forward.tooltip                  "Přejde jednu stránku vpřed">
+<!ENTITY cmd.back.tooltip                     "Přejde na předchozí stránku">
+<!ENTITY cmd.forward.tooltip                  "Přejde na následující stránku">
 
 <!ENTITY showUnsignedExtensions.button.label  "Některá rozšíření nemohla být ověřena">
 <!ENTITY showAllExtensions.button.label       "Zobrazit všechna rozšíření">
