@@ -566,6 +566,8 @@
 <!ENTITY compactButton.tooltip "O‘chirilgan xabarlarni tanlangan jilddan olib tashlash">
 <!ENTITY appmenuButton1.tooltip "&brandShortName; menyusini ko‘rsatish">
 <!-- Toolbar Button Popup -->
+
+<!ENTITY buttonMenuForwardAsInline.label "Gap ichida shaklida uzatish">
 <!ENTITY buttonMenuForwardAsAttachment.label "Ilova sifatida uzatish">
 <!-- Remote Content Button Popup -->
 
@@ -733,8 +735,8 @@
 <!ENTITY contextForward.accesskey "U">
 <!ENTITY contextForwardAsMenu.label "Ba’zilarga uzatish">
 <!ENTITY contextForwardAsMenu.accesskey "u">
-
-
+<!ENTITY contextForwardAsInline.label "Gap ichida">
+<!ENTITY contextForwardAsInline.accesskey "G">
 <!ENTITY contextForwardAsAttachmentItem.label "Ilova">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "I">
 <!ENTITY contextMultiForwardAsAttachment.label "Ilova sifatida uzatish">
@@ -849,62 +851,76 @@
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY AddToAddressBook.label "Manzillar daftariga qoʻshish…">
+<!ENTITY AddToAddressBook.accesskey "d">
+<!ENTITY AddDirectlyToAddressBook.label "Manzillar daftariga qoʻshish">
+<!ENTITY AddDirectlyToAddressBook.accesskey "d">
+<!ENTITY EditContact1.label "Kontaktni tahrirlash">
+<!ENTITY EditContact1.accesskey "t">
+<!ENTITY ViewContact.label "Kontaktni ko‘rish">
+<!ENTITY ViewContact.accesskey "k">
+<!ENTITY SubscribeToNewsgroup.label "Yangiliklar to‘plamiga obuna bo‘lish">
+<!ENTITY SubscribeToNewsgroup.accesskey "Y">
+<!ENTITY SendMessageTo.label "Xabar yozish">
+<!ENTITY SendMessageTo.accesskey "y">
+<!ENTITY CopyEmailAddress.label "E-pochta manzilidan nusxa olish">
+<!ENTITY CopyEmailAddress.accesskey "E">
+<!ENTITY CopyNameAndEmailAddress.label "Nomi va e-pochta manzilidan nusxa olish">
+<!ENTITY CopyNameAndEmailAddress.accesskey "N">
+<!ENTITY CopyNewsgroupName.label "Yangiliklar to‘plami nomidan nusxa olish">
+<!ENTITY CopyNewsgroupName.accesskey "n">
+<!ENTITY CopyNewsgroupURL.label "Yangiliklar to‘plami URL manzilidan nusxa olish">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
+<!ENTITY CreateFilterFrom.label "Filter yaratish…">
+<!ENTITY CreateFilterFrom.accesskey "F">
+<!ENTITY reportPhishingURL.label "E-pochta tovlamachiligi haqida xabar berish">
+<!ENTITY reportPhishingURL.accesskey "o">
 <!-- Spell checker context menu items -->
 
+<!ENTITY spellAddDictionaries.label "Kataloglarni qo‘shish…">
+<!ENTITY spellAddDictionaries.accesskey "q">
 <!-- Content Pane Context Menu -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY saveLinkAsCmd.label "Havolani saqlash…">
+<!ENTITY saveLinkAsCmd.accesskey "H">
+<!ENTITY saveImageAsCmd.label "Rasmni saqlash…">
+<!ENTITY saveImageAsCmd.accesskey "q">
+<!ENTITY copyLinkCmd.label "Havola manzilidan nusxa olish">
+<!ENTITY copyLinkCmd.accesskey "n">
+<!ENTITY copyImageAllCmd.label "Rasmdan nusxa olish">
+<!ENTITY copyImageAllCmd.accesskey "u">
+<!ENTITY copyEmailCmd.label "E-pochta manzilidan nusxa olish">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY stopCmd.label "To‘xtatish">
+<!ENTITY stopCmd.accesskey "T">
+<!ENTITY reloadCmd.label "Qaytadan yuklash">
+<!ENTITY reloadCmd.accesskey "y">
+<!ENTITY openInBrowser.label "Brauzerda ochish">
+<!ENTITY openInBrowser.accesskey "o">
+<!ENTITY openLinkInBrowser.label "Havolani brauzerda ochish">
+<!ENTITY openLinkInBrowser.accesskey "o">
 <!-- Statusbar -->
+
+<!ENTITY statusText.label "Tayyor">
 <!--  Mac OS X Window Menu -->
 
-
-
+<!ENTITY minimizeWindow.label "Yig‘ish">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Barchasini oldinga o‘tkazish">
+<!ENTITY zoomWindow.label "Masshtab">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-
-
-
-
-
-
-
-
-
+<!ENTITY preferencesCmdMac2.label       "Parametrlar">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "tezlatkich">
+<!ENTITY servicesMenuMac.label          "Xizmatlar">
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName;ni yashirish">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "tezlatkich">
+<!ENTITY hideOtherAppsCmdMac.label      "Boshqalarini yashirish">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Barchasini koʻrsatish">
 <!-- Mac OS X Dock Icon pop-up menu -->
+
+<!ENTITY dockOptions.label              "Ilova dastur &amp;nishonchasi parametrlari…">
