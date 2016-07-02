@@ -33,7 +33,7 @@
 <!ENTITY InputSelected.accesskey "b">
 <!ENTITY InputReadOnly.label "Pouze pro čtení">
 <!ENTITY InputReadOnly.accesskey "t">
-<!ENTITY InputDisabled.label "Vypnuto">
+<!ENTITY InputDisabled.label "Zakázáno">
 <!ENTITY InputDisabled.accesskey "n">
 <!ENTITY tabIndex.label "Rejstřík pro tab:">
 <!ENTITY tabIndex.accesskey "R">

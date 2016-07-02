@@ -10,5 +10,5 @@
 
 <!ENTITY signer.name "Podepsáno:">
 <!ENTITY recipient.name "Zašifrováno pro:">
-<!ENTITY email.address "Adresa elektronické pošty:">
+<!ENTITY email.address "E-mailová adresa:">
 <!ENTITY issuer.name "Certifikát vydal:">

@@ -7,7 +7,7 @@
 <!ENTITY name.accesskey "V">
 <!ENTITY name.placeholder "Jméno Příjmení">
 <!ENTITY name.text "Vaše jméno tak, jak se bude zobrazovat ostatním.">
-<!ENTITY email.label "E-mail:">
+<!ENTITY email.label "E-mailová adresa:">
 <!ENTITY email.accesskey "l">
 <!ENTITY email.placeholder "email@example.com">
 <!ENTITY password.label "Heslo:">

@@ -39,12 +39,12 @@
 
 <!ENTITY offlineFolder.check.label               "Označit složku pro použití v režimu offline">
 <!ENTITY offlineFolder.check.accesskey           "O">
-<!ENTITY offlineFolder.button.label              "Stáhnout nyní">
+<!ENTITY offlineFolder.button.label              "Stáhnout">
 <!ENTITY offlineFolder.button.accesskey          "S">
 
 <!ENTITY selectofflineNewsgroup.check.label      "Označit diskusní skupinu pro použití v režimu offline">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "O">
-<!ENTITY offlineNewsgroup.button.label           "Stáhnout nyní">
+<!ENTITY offlineNewsgroup.button.label           "Stáhnout">
 <!ENTITY offlineNewsgroup.button.accesskey       "S">
 
 <!ENTITY folderProps.name.label                  "Název:">
@@ -53,14 +53,14 @@
 <!ENTITY folderProps.location.accesskey          "A">
 
 <!ENTITY folderSharingTab.label                  "Sdílení">
-<!ENTITY privileges.button.label                 "Privilegia…">
-<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY privileges.button.label                 "Oprávnění…">
+<!ENTITY privileges.button.accesskey             "p">
 <!ENTITY permissionsDesc.label                   "Máte následující oprávnění:">
 <!ENTITY folderType.label                        "Typ složky:">
 
 <!ENTITY folderQuotaTab.label                    "Kvóta">
 <!ENTITY folderQuotaRoot.label                   "Hlavní kvóta:">
-<!ENTITY folderQuotaUsage.label                  "Použití:">
+<!ENTITY folderQuotaUsage.label                  "Využito:">
 <!ENTITY folderQuotaStatus.label                 "Stav:">
 
 <!ENTITY numberOfMessages.label                  "Počet zpráv:">

@@ -64,9 +64,9 @@
 <!ENTITY addDevice.showMeHow.label          "Zobrazit nápovědu.">
 <!ENTITY addDevice.dontHaveDevice.label     "Nemám zařízení u sebe">
 <!ENTITY addDevice.setup.description.label  "Pro aktivaci přejděte do dialogu možností &syncBrand.shortName.label; na připojeném zařízení a zvolte „Přidat zařízení“.">
-<!ENTITY addDevice.setup.enterCode.label    "A tam pak vložte tento kód:">
+<!ENTITY addDevice.setup.enterCode.label    "A pak vložte tento kód:">
 <!ENTITY addDevice.dialog.description.label "Pro aktivaci přejděte do dialogu možností &syncBrand.shortName.label; na připojovaném zařízení a zvolte „Připojit“.">
-<!ENTITY addDevice.dialog.enterCode.label   "Zde pak vložte kód, který obdržíte:">
+<!ENTITY addDevice.dialog.enterCode.label   "A pak vložte kód získaný z druhého zařízení:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Prosím zkuste to znovu.">
 <!ENTITY addDevice.dialog.successful.label  "Zařízení bylo úspěšně přidáno. Počáteční synchronizace může trvat několik minut a bude probíhat na pozadí.">
 <!ENTITY addDevice.dialog.recoveryKey.label "Pro aktivaci vzdáleného zařízení budete potřebovat obnovovací klíč. Níže uvedený obnovovací klíč si prosím vytiskněte nebo uložte a vezměte si ho sebou.">
@@ -94,9 +94,9 @@
 <!ENTITY engine.history.label       "Historie">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.passwords.label     "Hesla">
-<!ENTITY engine.passwords.accesskey "s">
+<!ENTITY engine.passwords.accesskey "e">
 <!ENTITY engine.prefs.label         "Předvolby">
-<!ENTITY engine.prefs.accesskey     "e">
+<!ENTITY engine.prefs.accesskey     "v">
 
 <!ENTITY choice2.merge.main.label      "Sloučit data na tomto počítači s daty &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "(doporučeno)">

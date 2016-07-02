@@ -24,7 +24,7 @@
 <!ENTITY     props.domain.label             "Server:">
 <!ENTITY     props.path.label               "Cesta:">
 <!ENTITY     props.secure.label             "Omezení na:">
-<!ENTITY     props.expires.label            "Platnost cookie vyprší:">
+<!ENTITY     props.expires.label            "Platnost do:">
 
 <!ENTITY     treehead.sitename.label        "Server">
 <!ENTITY     treehead.scheme.label          "Schéma">

@@ -23,8 +23,8 @@
 <!ENTITY account.connect.accesskey    "P">
 <!ENTITY account.disconnect.label     "Odpojit">
 <!ENTITY account.disconnect.accesskey "O">
-<!ENTITY account.delete.label         "Odstranit">
-<!ENTITY account.delete.accesskey     "d">
+<!ENTITY account.delete.label         "Smazat">
+<!ENTITY account.delete.accesskey     "m">
 <!ENTITY account.edit.label           "Volby">
 <!ENTITY account.edit.accesskey       "V">
 <!ENTITY account.moveup.label         "Posunout nahoru">

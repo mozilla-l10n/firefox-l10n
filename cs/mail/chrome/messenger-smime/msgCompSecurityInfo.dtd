@@ -15,4 +15,4 @@
 <!ENTITY tree.recipient "Příjemce:">
 <!ENTITY tree.status "Stav:">
 <!ENTITY tree.issuedDate "Vydal:">
-<!ENTITY tree.expiresDate "Doba platnosti:">
+<!ENTITY tree.expiresDate "Vyprší">

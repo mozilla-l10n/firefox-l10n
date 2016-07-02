@@ -9,7 +9,7 @@
 <!ENTITY devmgr.style "width: 52em; height: 32em;">
 
 <!ENTITY devmgr.devlist.label "Bezpečnostní moduly a zařízení">
-<!ENTITY devmgr.details.title "Detaily">
+<!ENTITY devmgr.details.title "Podrobnosti">
 <!ENTITY devmgr.details.title2 "Hodnota">
 
 <!ENTITY devmgr.button.login.label "Přihlásit">

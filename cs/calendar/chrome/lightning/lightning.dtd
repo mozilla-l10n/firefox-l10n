@@ -53,8 +53,8 @@
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Odmítne pozvání na všechna opakování události">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Smazat">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Smaže z kalendáře">
-<!ENTITY lightning.imipbar.btnDetails.label                                 "Detaily…">
-<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Zobrazí detaily události">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Podrobnosti…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Zobrazí podrobné informace o události">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Více">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Po klepnutí se zobrazí více možností">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Znovu potvrdit">

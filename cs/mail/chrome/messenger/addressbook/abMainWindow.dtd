@@ -106,7 +106,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.accesskey                        "J">
 <!ENTITY lastFirstCmd.label                             "Příjmení, Jméno">
 <!ENTITY lastFirstCmd.accesskey                         "P">
-<!ENTITY displayNameCmd.label                           "Zobrazené jméno">
+<!ENTITY displayNameCmd.label                           "Zobrazované jméno">
 <!ENTITY displayNameCmd.accesskey                       "Z">
 <!ENTITY sortMenu.label                                 "Seřadit podle">
 <!ENTITY sortMenu.accesskey                             "d">

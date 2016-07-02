@@ -589,7 +589,7 @@
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nová zpráva">
 <!ENTITY appmenuNewContactCmd.label "Kontakt…">
-<!ENTITY appmenuEditMenu.label "Upravit">
+<!ENTITY appmenuEditMenu.label "Úpravy">
 <!ENTITY appmenuToolbarLayout.label "Upravit lišty…">
 <!ENTITY appmenuSelectThread.label "Vybrat vlákna">
 <!ENTITY appmenuSelectFlagged.label "Vybrat zprávy s hvězdičkou">

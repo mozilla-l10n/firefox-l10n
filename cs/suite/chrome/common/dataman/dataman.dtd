@@ -17,7 +17,7 @@
 <!ENTITY domain.search.placeholder "Hledat v doménách">
 <!ENTITY domain.search.key "f">
 
-<!ENTITY domain.tree.domain.label "Domény">
+<!ENTITY domain.tree.domain.label "Doména">
 
 <!ENTITY domain.ctx.forgetdomain.label "Zapomenout tuto doménu">
 <!ENTITY domain.ctx.forgetdomain.accesskey "Z">
@@ -40,7 +40,7 @@
 
 <!ENTITY cookies.tree.host.label "Server">
 <!ENTITY cookies.tree.name.label "Název cookie">
-<!ENTITY cookies.tree.expires.label "Platnost">
+<!ENTITY cookies.tree.expires.label "Vyprší">
 
 <!ENTITY cookies.infobox.label "Informace o vybraném cookie">
 
