@@ -697,7 +697,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Renunță">
 <!ENTITY new_guest_session_title "&brandShortName; va reporni acum">
 <!ENTITY new_guest_session_text2 "Persoana care va folosi aceasta nu va putea să vadă niciuna din datele tale personale de navigare (precum parolele salvate, istoricul sau semnele de carte).\n\nCând vizitatorul a terminat, datele de navigare vor fi șterse iar sesiunea va fi restaurată.">
-<!ENTITY guest_browsing_notification_title "Navigarea ca vizitator e activată">
+<!ENTITY guest_browsing_notification_title "Navigarea ca vizitator este activată">
 <!ENTITY guest_browsing_notification_text "Atinge pentru ieșire">
 
 <!ENTITY exit_guest_session_title "&brandShortName; va reporni acum">
