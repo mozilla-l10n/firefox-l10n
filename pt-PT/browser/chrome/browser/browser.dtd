@@ -227,7 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
 <!ENTITY bookmarksMenuButton.other.label "Outros marcadores">
-<!ENTITY viewBookmarksSidebar2.label        "Ver barra lateral dos marcadores">
+<!ENTITY viewBookmarksSidebar2.label        "Ver barra lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de marcadores">
 
 <!ENTITY containersMenu.label "Contentores">
