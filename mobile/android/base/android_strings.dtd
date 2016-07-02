@@ -795,7 +795,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "Používate najnovšiu verziu prehliadača &brandShortName;">
 <!ENTITY whatsnew_notification_summary "Zistite, čo je nové v tejto verzii">
 
-<!ENTITY promotion_add_to_homescreen "Pridať na domovskú obrazovku">
+<!ENTITY promotion_add_to_homescreen "Pridať na úvodnú obrazovku">
 
 <!ENTITY helper_first_offline_bookmark_title "Prečítať offline">
 <!ENTITY helper_first_offline_bookmark_message "Nájdite svoje položky zo Zoznamu na prečítanie medzi Záložkami, aj v režime offline.">
