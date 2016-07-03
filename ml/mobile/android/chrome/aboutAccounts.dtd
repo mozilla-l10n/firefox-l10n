@@ -3,10 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.connected.title "ഫയര്‍ഫോക്സ് അക്കൗണ്ടുകള്‍">
-
-
+<!ENTITY aboutAccounts.connected.description "നിങ്ങള്‍ കണക്ട് ആയിരിക്കുന്നത്">
+<!ENTITY aboutAccounts.syncPreferences.label "സിന്‍ക് സജ്ജീകരണങ്ങള്‍ പരിശോധിക്കാന്‍ ഇവിടെ തട്ടുക">
 
 <!ENTITY aboutAccounts.noConnection.title "ഇന്റർനെറ്റ് ബന്ധം ഇല്ല">
 <!ENTITY aboutAccounts.retry.label "വീണ്ടും ശ്രമിയ്ക്കുക">
 
+<!ENTITY aboutAccounts.restrictedError.title "വിലക്കപ്പെട്ടത്">
 <!ENTITY aboutAccounts.restrictedError.description "നിങ്ങള്‍ക്ക് ഈ പ്രൊഫൈലില്‍ നിന്നു ഫയര്‍ഫോക്സ് അക്കൗണ്ടുകള്‍ കൈകാര്യം ചെയ്യാന്‍ കഴിയില്ല.">
