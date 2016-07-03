@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "ਜੀ ਆਇਆਂ ਨੂੰ">
-<!ENTITY  onboard_start_message3 "&brandShortName; ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ">
-<!ENTITY  onboard_start_subtext3 "ਆਪਣੇ ਮੋਬਾਈਲ ਵੈੱਬ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਤਜਰਬੇ ਨੂੰ ਸਹੀਂ ਰੂਪ ਵੀ ਆਪਣਾ ਬਣਾਓ">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; ਲਈ ਜੀ ਆਇਆਂ ਨੂੰ">
 <!ENTITY firstrun_urlbar_subtext "ਮਦਦਗਾਰ ਖੋਜ ਸੁਝਾਅ ਸ਼ਾਰਟਕੱਟਾਂ ਨਾਲ ਚੀਜ਼ਾਂ ਨੂੰ ਸੌਖੀ ਤਰ੍ਹਾਂ ਲੱਭੋ।">
@@ -20,20 +18,32 @@
 <!ENTITY firstrun_signin_message "ਕਨੈਕਟ ਹੋਵੋ, ਸ਼ੁਰੂ ਕਰੋ">
 <!ENTITY firstrun_signin_button "ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ">
 <!ENTITY  onboard_start_button_browser "ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ">
+<!ENTITY firstrun_button_notnow "ਹੁਣ ਨਹੀਂ">
 <!ENTITY firstrun_button_next "ਅੱਗੇ">
 
-<!ENTITY  onboard_start_restricted1 "&brandShortName; ਦੇ ਇਸ ਸਧਾਰਨ ਬਣਾਏ ਵਰਜ਼ਨ ਨਾਲ ਸੁਰੱਖਿਅਤ ਰਹੋ ਅਤੇ ਕੰਟਰੋਲ ਵਿੱਚ ਰੱਖੋ">
+<!ENTITY firstrun_tabqueue_title "ਲਿੰਕ">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "ਟੈਬ ਕਤਾਰ ਨੂੰ ਚਾਲੂ ਕਰੋ">
+<!ENTITY firstrun_tabqueue_subtext_off "Save links for later in &brandShortName; when tapping them in other apps.">
 
-<!ENTITY  reading_list_migration_title "ਪੜ੍ਹਨ ਸੂਚੀ ਨੂੰ ਕਨੈਕਟ ਕੀਤਾ ਹੈ">
-<!ENTITY  reading_list_migration_subtext "ਤੁਹਾਨੂੰ ਪੜ੍ਹਨ ਸੂਚੀ ਦੀਆਂ ਆਈਟਮਾਂ ਨੂੰ ਹੁਣ ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕਾਂ ਵਿੱਚ ਜੋੜਿਆ ਜਾਵੇਗਾ">
-<!ENTITY  reading_list_migration_goto_bookmarks "ਬੁੱਕਮਾਰਕਾਂ ਉੱਤੇ ਜਾਓ">
-<!ENTITY  reading_list_migration_bookmarks_hidden "ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ ਪੈਨਲ ਨੂੰ ਓਹਲੇ ਕੀਤਾ">
+<!ENTITY firstrun_tabqueue_message_on "ਕਾਮਯਾਬ!">
+<!ENTITY firstrun_tabqueue_subtext_on "You can always turn this off in &settings; under &pref_category_general;.">
+
+<!ENTITY firstrun_readerview_title "ਲੇਖ">
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "ਭੀੜ ਨੂੰ ਹਟਾਓ">
+<!ENTITY firstrun_readerview_subtext "Use Reader View to make articles nicer to read \u2014 even offline.">
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "ਤੁਸੀਂ">
+<!ENTITY firstrun_account_message "ਕੀ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ &brandShortName; ਹੈ?">
+
+<!ENTITY  onboard_start_restricted1 "&brandShortName; ਦੇ ਇਸ ਸਧਾਰਨ ਬਣਾਏ ਵਰਜ਼ਨ ਨਾਲ ਸੁਰੱਖਿਅਤ ਰਹੋ ਅਤੇ ਕੰਟਰੋਲ ਵਿੱਚ ਰੱਖੋ">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "ਬੁੱਕਮਾਰਕ">
 <!ENTITY  history_title "ਅਤੀਤ">
-<!ENTITY  reading_list_title "ਪੜ੍ਹਨ ਦੀ ਸੂਚੀ">
 <!ENTITY  recent_tabs_title "ਹਾਲ ਦੀਆਂ ਟੈਬਾਂ">
 
 <!ENTITY  switch_to_tab "ਟੈਬ ਉੱਤੇ ਜਾਓ">
@@ -69,6 +79,11 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "ਸਕਰੀਨਸ਼ਾਟ">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "ਪੜ੍ਹਨ ਦੀ ਸੂਚੀ">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; ਆਈਟਮਾਂ">
+<!ENTITY bookmark_folder_one_item "1 ਆਈਟਮ">
 
 <!ENTITY reader_saved_offline "ਆਫ਼ਲਾਈਨ ਲਈ ਸੰਭਾਲਿਆ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -287,7 +302,12 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ">
-<!ENTITY content_notification_action_settings "ਸੂਚਨਾਵਾਂ ਦੀ ਸੈਟਿੰਗ">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "ਸੈਟਿੰਗਾਂ">
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "ਹੁਣੇ ਪੜ੍ਹੋ">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -538,7 +558,9 @@ size. -->
 <!ENTITY home_history_title "ਅਤੀਤ">
 <!ENTITY home_synced_devices_smartfolder "ਸਿੰਕ ਕੀਤੇ ਡਿਵਾਈਸ">
 <!ENTITY home_synced_devices_number "&formatD; ਡਿਵਾਈਸ">
-<!ENTITY home_history_back_to2 "ਪੂਰੀ ਅਤੀਤ \'ਤੇ ਜਾਓ">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 ਡਿਵਾਈਸ">
+<!ENTITY home_history_back_to2 "ਪੂੇ ਅਤੀਤ ਤੇ ਜਾਓ">
 <!ENTITY home_clear_history_button "ਬਰਾਊਜ਼ਿੰਗ ਦੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY home_clear_history_confirm "ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY home_bookmarks_empty "ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇੱਥੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।">
@@ -780,3 +802,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_title "ਆਫ਼ਲਾਈਨ ਪੜ੍ਹੋ">
 <!ENTITY helper_first_offline_bookmark_message "ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਪੜ੍ਹਨ ਦੇਖਣ ਆਈਟਮਾਂ ਨੂੰ ਲੱਭੋ, ਭਾਵੇਂ ਆਫ਼ਲਾਈਨ ਹੋਵੋ।">
 <!ENTITY helper_first_offline_bookmark_button "ਬੁੱਕਮਾਰਕ ਉੱਤੇ ਜੋੜੋ">
+
+<!ENTITY helper_triple_readerview_open_title "ਆਫ਼ਲਾਈਨ ਲਈ ਮੌਜੂਦ">
+<!ENTITY helper_triple_readerview_open_message "ਰੀਡਰ ਝਲਕ ਆਈਤਮਾਂ ਨੂੰ ਆਫ਼ਲਾਈਨ ਪੜ੍ਹਨ ਵਾਸਤੇ ਬੁੱਕਮਾਰਕ ਕਰੋ।">
+<!ENTITY helper_triple_readerview_open_button "ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਜੋੜੋ">

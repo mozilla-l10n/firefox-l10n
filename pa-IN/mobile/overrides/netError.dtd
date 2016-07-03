@@ -177,8 +177,9 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ਨੇ ਇਹ ਸਫ਼ੇ ਨੂੰ ਇਸ ਢੰਗ ਨਾਲ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕਿਆ ਹੈ, ਕਿਉਂਕਿ ਸਫ਼ੇ ਵਿਚਲੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਇਸ ਤਰ੍ਹਾਂ ਕਰਨ ਤੋਂ ਰੋਕ ਲਗਾਉਂਦੀ ਹੈ</p>">
 
 
-<!ENTITY corruptedContentError.title "ਨਿਕਾਰਾ ਸਮੱਗਰੀ ਗਲਤੀ">
-<!ENTITY corruptedContentError.longDesc "<p>ਸਫ਼ਾ, ਜੋ ਤੁਸੀਂ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਨੂੰ ਵੇਖਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਡਾਟਾ ਲੈਣ-ਦੇਣ ਵਿੱਚ ਗਲਤੀ ਖੋਜੀ ਗਈ ਹੈ।</p><ul><li>ਇਹ ਸਮੱਸਿਆ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਵੈੱਬਸਾਈਟ ਮਾਲਕਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "ਨਿਕਾਰਾ ਹੋਈ ਸਮੱਗਰੀ ਗਲਤੀ">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>ਸਫ਼ਾ, ਜੋ ਤੁਸੀਂ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਨੂੰ ਵੇਖਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਡਾਟਾ ਲੈਣ-ਦੇਣ ਵਿੱਚ ਗਲਤੀ ਖੋਜੀ ਗਈ ਹੈ।</p><ul><li>ਇਹ ਸਮੱਸਿਆ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਵੈੱਬਸਾਈਟ ਮਾਲਕਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "ਜਾਂ ਤੁਸੀਂ ਛੋਟ ਦੇ ਸਕਦੇ ਹੋ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ਮੈਨੂੰ ਇੱਥੋਂ ਬਾਹਰ ਲੈ ਜਾਓ!">
