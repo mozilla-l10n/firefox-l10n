@@ -106,8 +106,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Историјат инсталација">
 <!ENTITY aboutSupport.updateHistoryTitle "Историјат ажурирања">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Копирај текст на clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Копирај податке на clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Копирај текст у бележницу">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Копирај податке у бележницу">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
