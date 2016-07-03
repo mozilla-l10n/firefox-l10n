@@ -32,8 +32,8 @@
 <!ENTITY onboard_start_restricted1 "Permanezca seguro y mantenga el control con esta versión simplificada de &brandShortName;.">
 <!ENTITY bookmarks_title "Marcadores">
 <!ENTITY history_title "Historial">
-<!ENTITY recent_tabs_title "Pestañas recientes">
 <!ENTITY switch_to_tab "Cambiar a la pestaña">
+<!ENTITY tab_offline_version "Mostrando versión sin conexión">
 <!ENTITY crash_reporter_title "Agente de informe de fallos de &brandShortName;">
 <!ENTITY crash_message2 "&brandShortName; ha tenido un problema y ha fallado. Sus pestañas se listarán en la página de inicio de &brandShortName; cuando reinicie.">
 <!ENTITY crash_send_report_message3 "Informar a &vendorShortName; sobre este cuelgue para que puedan arreglarlo">
@@ -238,6 +238,7 @@
 <!ENTITY pref_private_data_downloadFiles2 "Descargas">
 <!ENTITY pref_private_data_syncedTabs "Pestañas sincronizadas">
 <!ENTITY pref_default_browser "Convertir en predeterminado">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Visitar Ayuda de Mozilla">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Enviar opinión">
@@ -364,10 +365,11 @@
 <!ENTITY home_clear_history_button "Limpiar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Está seguro de que quiere limpiar su historial?">
 <!ENTITY home_bookmarks_empty "Los marcadores que guarde se muestran aquí.">
-<!ENTITY home_closed_tabs_title "Pestañas cerradas recientemente">
-<!ENTITY home_last_tabs_title "Pestañas de la última sesión">
+<!ENTITY home_closed_tabs_title2 "Cerradas recientemente">
 <!ENTITY home_last_tabs_empty "Sus pestañas recientes se mostrarán aquí.">
-<!ENTITY home_open_all "Abrir todo">
+<!ENTITY home_restore_all "Restaurar todas">
+<!ENTITY home_closed_tabs_number "&formatD; pestañas">
+<!ENTITY home_closed_tabs_one "1 pestaña">
 <!ENTITY home_most_recent_empty "Los sitios web que ha visitado recientemente se mostrarán aquí.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: usar una &formatS1;pestaña privada nueva&formatS2; no guardará su historial.">
 <!ENTITY home_default_empty "No se ha podido encontrar contenido para este panel.">
@@ -386,7 +388,6 @@
 <!ENTITY identity_connected_to "Está conectado a">
 <!ENTITY identity_connection_secure "Conexión segura">
 <!ENTITY identity_connection_insecure "Conexión insegura">
-<!ENTITY identity_login_insecure "Esta página no es segura y sus credenciales pueden ser vulnerables.">
 <!ENTITY identity_connection_chromeui "Esta es una página segura de &brandShortName;">
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ha bloqueado contenido inseguro en esta página.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; ha bloqueado parte del contenido inseguro en esta página.">
