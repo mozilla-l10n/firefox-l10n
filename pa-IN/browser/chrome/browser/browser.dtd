@@ -107,9 +107,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; ਵਿੱਚ ਸਾਇਨ ਇਨ">
-<!ENTITY fxaSignedIn.tooltip "Open &syncBrand.shortName.label; preferences">
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; ਪਸੰਦਾਂ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; ਨਾਲ ਮੁੜ-ਕੁਨੈਕਟ">
-<!ENTITY fxaUnverified.label "Verify Your Account">
+<!ENTITY fxaUnverified.label "ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ">
 
 
 <!ENTITY fullScreenMinimize.tooltip "ਨਿਊਨਤਮ">
@@ -169,9 +169,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "ਤਾਜ਼ਾ ਬੁੱਕਮਾਰਕ ਕੀਤੇ">
 <!ENTITY otherBookmarksCmd.label "ਹੋਰ ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmarksToolbarChevron.tooltip "ਹੋਰ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ">
-<!ENTITY showRecentlyBookmarked.label     "Show Recently Bookmarked">
+<!ENTITY showRecentlyBookmarked.label     "ਤਾਜ਼ਾ ਬੁੱਕਮਾਰਕ ਕੀਤਿਆਂ ਨੂੰ ਵੇਖੋ">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "Hide Recently Bookmarked">
+<!ENTITY hideRecentlyBookmarked.label     "ਤਾਜ਼ਾ ਬੁੱਕਮਾਰਕ ਕੀਤਿਆਂ ਨੂੰ ਛੁਪਾਓ">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 
@@ -195,13 +195,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
 <!ENTITY urlbar.defaultNotificationAnchor.label         "ਸੂਚਨਾ ਨੂੰ ਵੇਖਓ">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "View the location request">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "View the add-on install message">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "View the app-offline storage message">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Manage your login information">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Check if you want to save your password">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Manage plugin usage on this page">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Change whether you can receive notifications from the site">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "ਟਿਕਾਣਾ ਬੇਨਤੀ ਨੂੰ ਵੇਖੋ">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "ਐਡ-ਆਨ ਇੰਸਟਾਲ ਸੁਨੇਹੇ ਨੂੰ ਵੇਖੋ">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "ਐਪ-ਆਫ਼ਲਾਈਨ ਸਟੋਰੇਜ਼ ਸੁਨੇਹੇ ਨੂੰ ਵੇਖੋ">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "ਆਪਣੀ ਲਾਗਇਨ ਜਾਣਕਾਰੀ ਦਾ ਪਰਬੰਧ ਕਰੋ">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "ਜਾਂਚ ਕਰੋ ਕਿ ਜੇ ਤੁਸੀਂ ਆਪਣੇ ਪਾਸਵਰਡ ਨੂੰ ਸੰਭਾਲਣਾ ਚਾਹੁੰਦੇ ਹੋ">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਪਲੱਗਇਨ ਵਰਤੋਂ ਦਾ ਪਰਬੰਧ ਕਰੋ">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "ਬਦਲੋ ਕਿ ਕੀ ਸਾਈਟ ਤੋਂ ਤੁਸੀਂ ਨੋਟੀਫਿਕੇਸ਼ਨ ਲੈਣਾ ਚਾਹੁੰਦੇ ਹੋ">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Manage sharing your camera and/or microphone with the site">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "You are sharing your camera and/or microphone with the site">
@@ -210,11 +210,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Manage sharing your windows or screen with the site">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "You are sharing a window or your screen with the site">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Change whether the site can hide the pointer">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "View the service install message">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Translate this page">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Manage page translation">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Manage use of DRM software">
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "ਬਦਲੋ ਕਿ ਕੀ ਸਾਈਟ ਪੁਆਇੰਟਰ ਨੂੰ ਲੁਕਾ ਸਕਦੀ ਹੈ">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "ਸਰਵਿਸ ਇੰਸਟਾਲ ਸੁਨੇਹੇ ਨੂੰ ਵੇਖੋ">
+<!ENTITY urlbar.translateNotificationAnchor.label       "ਇਹ ਸਫ਼ੇ ਦਾ ਅਨੁਵਾਦ ਕਰੋ">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "ਸਫ਼ੇ ਦੇ ਅਨੁਵਾਦ ਦਾ ਪਰਬੰਧ ਕਰੋ">
+<!ENTITY urlbar.emeNotificationAnchor.label             "DRM ਸਾਫਟਵੇਅਰ ਦੀ ਵਰਤੋਂ ਦਾ ਪਰਬੰਧ ਕਰੋ">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ਅਤੀਤ ਨੂੰ ਵੇਖੋ">
 
@@ -271,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "ਨਵੀਂ Non-e10s ਵਿੰਡੋ">
+<!ENTITY newNonRemoteWindow.label   "ਨਵੀਂ ਗ਼ੈਰ-e10s ਵਿੰਡੋ">
 
 <!ENTITY editMenu.label         "ਸੋਧੋ"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -341,33 +341,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "ਕੋਈ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਨਹੀਂ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Turn on tab syncing to view a list of tabs from your other devices.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵੇਖਣ ਲਈ ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਨੂੰ ਚਾਲੂ ਕਰੋ।">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "No synced tabs… yet!">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Want to see your tabs from other devices here?">
+<!ENTITY appMenuRemoteTabs.noclients.title "ਹਾਲੇ… ਕੋਈ ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ ਨਹੀਂ ਹਨ!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਦੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ਸਿੰਕ ਦੀਆਂ ਪਸੰਦਾਂ">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Sign in to view a list of tabs from your other devices.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਦੇਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ।">
 <!ENTITY appMenuRemoteTabs.signin.label "ਸਿੰਕ ਕਰਨ ਸਾਈਨ ਇਨ ਕਰੋ">
-<!ENTITY appMenuRemoteTabs.sidebar.label "View Synced Tabs Sidebar">
+<!ENTITY appMenuRemoteTabs.sidebar.label "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ ਦੀ ਬਾਹੀ ਵੇਖੋ">
 
-<!ENTITY customizeMenu.addToToolbar.label "ਟੂਲਬਾਰ \'ਚ ਜੋੜੋ">
+<!ENTITY customizeMenu.addToToolbar.label "ਟੂਲਬਾਰ ਚ ਜੋੜੋ">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "ਮੇਨੂ \'ਚ ਜੋੜੋ">
+<!ENTITY customizeMenu.addToPanel.label "ਮੇਨੂ ਚ ਜੋੜੋ">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "ਟੂਲਬਾਰ \'ਚ ਭੇਜੋ">
+<!ENTITY customizeMenu.moveToToolbar.label "ਟੂਲਬਾਰ ਚ ਭੇਜੋ">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "ਮੇਨੂ \'ਚ ਭੇਜੋ">
+<!ENTITY customizeMenu.moveToPanel.label "ਮੇਨੂ ਚ ਭੇਜੋ">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-<!ENTITY customizeMenu.removeFromToolbar.label "ਟੂਲਬਾਰ  \'ਚੋਂ ਹਟਾਓ">
+<!ENTITY customizeMenu.removeFromToolbar.label "ਟੂਲਬਾਰ  ਚੋਂ ਹਟਾਓ">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
-<!ENTITY customizeMenu.removeFromMenu.label "ਮੀਨੂ ਤੋਂ ਹਟਾਓ">
+<!ENTITY customizeMenu.removeFromMenu.label "ਮੇਨੂ ਤੋਂ ਹਟਾਓ">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "…ਹੋਰ ਆਈਟਮਾਂ ਨੂੰ ਜੋੜੋ">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
@@ -375,9 +375,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ਖੋਜੋ ਜਾਂ ਐਡਰੈਸ ਦਿਉ">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "ਟੈਬ \'ਤੇ ਜਾਓ:">
+<!ENTITY urlbar.switchToTab.label     "ਟੈਬ ਤੇ ਜਾਓ:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "Would you like to improve your search experience with suggestions?">
+<!ENTITY urlbar.searchSuggestionsNotification.question "ਕੀ ਤੁਸੀਂ ਸੁਝਾਆਵਾਂ ਨਾਲ ਆਪਣੇ ਖੋਜ ਤਜਰਬੇ ਨੂੰ ਸੁਧਾਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "ਹੋਰ ਜਾਣੋ…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "ਨਹੀਂ">
@@ -440,24 +440,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "ਖੋਜ ਸੈਟਿੰਗ ਬਦਲੋ">
 
-<!ENTITY searchInNewTab.label         "ਨਵੀਂ ਟੈਬ \'ਚ ਖੋਜੋ">
+<!ENTITY searchInNewTab.label         "ਨਵੀਂ ਟੈਬ ਚ ਖੋਜੋ">
 <!ENTITY searchInNewTab.accesskey     "T">
-<!ENTITY searchSetAsDefault.label     "Set As Default Search Engine">
+<!ENTITY searchSetAsDefault.label     "ਮੂਲ ਖੋਜ ਇੰਜਣ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
-<!ENTITY openLinkCmdInTab.label       "ਨਵੀਂ ਟੈਬ \'ਚ ਖੋਲ੍ਹੋ">
+<!ENTITY openLinkCmdInTab.label       "ਨਵੀਂ ਟੈਬ ਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "ਨਵੀਂ ਵਿੰਡੋ \'ਚ ਖੋਲ੍ਹੋ">
+<!ENTITY openLinkCmd.label            "ਨਵੀਂ ਵਿੰਡੋ ਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "ਲਿੰਕ ਨੂੰ ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ \'ਚ ਖੋਲ੍ਹੋ">
+<!ENTITY openLinkInPrivateWindowCmd.label "ਲਿੰਕ ਨੂੰ ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "ਫਰੇਮ ਨੂੰ ਨਵੀਂ ਟੈਬ \'ਚ ਖੋਲ੍ਹੋ">
+<!ENTITY openFrameCmdInTab.label      "ਫਰੇਮ ਨੂੰ ਨਵੀਂ ਟੈਬ ਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "ਫਰੇਮ ਨੂੰ ਨਵੀਂ ਵਿੰਡੋ \'ਚ ਖੋਲ੍ਹੋ">
+<!ENTITY openFrameCmd.label           "ਫਰੇਮ ਨੂੰ ਨਵੀਂ ਵਿੰਡੋ ਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "Open Link in New Container Tab">
+<!ENTITY openLinkCmdInContainerTab.label "ਲਿੰਕ ਨੂੰ ਨਵੀਂ ਕਨਟੇਨਰ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "ਇਹ ਫਰੇਮ ਹੀ ਵੇਖੋ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "w">
@@ -519,7 +519,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "…ਵੀਡੀਓ ਨੂੰ ਈਮੇਲ ਕਰੋ">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "ਵੀਡੀਓ ਨੂੰ ਡਿਵਾਈਸ \'ਤੇ ਭੇਜੋ">
+<!ENTITY castVideoCmd.label           "ਵੀਡੀਓ ਨੂੰ ਡਿਵਾਈਸ ਤੇ ਭੇਜੋ">
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "…ਆਡੀਓ ਨੂੰ ਈਮੇਲ ਕਰੋ">
 <!ENTITY emailAudioCmd.accesskey      "a">
@@ -557,22 +557,22 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ਸੁਣਾਓ">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate2.label     "Play Speed">
+<!ENTITY mediaPlaybackRate2.label     "ਚੱਲਣ ਦੀ ਗਤੀ">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
-<!ENTITY mediaPlaybackRate050x2.label "Slow (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.label "ਹੌਲੀ (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
-<!ENTITY mediaPlaybackRate100x2.label "Normal">
+<!ENTITY mediaPlaybackRate100x2.label "ਸਧਾਰਨ">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
-<!ENTITY mediaPlaybackRate125x2.label "Fast (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.label "ਤੇਜ਼ (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
-<!ENTITY mediaPlaybackRate150x2.label "Faster (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.label "ਹੋਰ ਤੇਜ਼ (1.5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Ludicrous (2×)">
+<!ENTITY mediaPlaybackRate200x2.label "ਨ੍ਹੇਰੀ ਵਾਂਗ (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
-<!ENTITY mediaLoop.label             "Loop">
+<!ENTITY mediaLoop.label             "ਲੂਪ">
 <!ENTITY mediaLoop.accesskey         "L">
 
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
@@ -644,7 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "ਕੋਈ ਸਟਾਇਲ ਨਹੀਂ">
 <!ENTITY pageStyleNoStyle.accesskey "n">
-<!ENTITY pageStylePersistentOnly.label "ਡਿਫਾਲਟ ਸਫ਼ਾ ਸਟਾਇਲ">
+<!ENTITY pageStylePersistentOnly.label "ਡਿਫਾਲਟ ਸਫ਼ੇ ਦਾ ਸਟਾਇਲ">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "ਇਸ ਸਾਇਟ ਲਈ ਪੋਪਅੱਪ ਸੈਟਿੰਗ ਬਦਲੋ">
@@ -680,17 +680,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਹੈ">
-<!ENTITY identity.connectionNotSecure "Connection is Not Secure">
-<!ENTITY identity.connectionFile "This page is stored on your computer.">
-<!ENTITY identity.connectionVerified2 "You are securely connected to this site, owned by:">
-<!ENTITY identity.connectionInternal "This is a secure &brandShortName; page.">
-<!ENTITY identity.insecureLoginForms2 "Logins entered on this page could be compromised.">
+<!ENTITY identity.connectionNotSecure "ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ">
+<!ENTITY identity.connectionFile "ਇਹ ਸਫ਼ਾ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸੰਭਾਲਿਆ ਹੈ।">
+<!ENTITY identity.connectionVerified2 "ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨਾਲ ਸੁਰੱਖਿਅਤ ਰੂਪ ਨਾਲ ਕਨੈਕਟ ਹੈ, ਮਲਕੀਅਤ:">
+<!ENTITY identity.connectionInternal "ਇਹ ਸੁਰੱਖਿਅਤ &brandShortName; ਸਫ਼ਾ ਹੈ।">
+<!ENTITY identity.insecureLoginForms2 "ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਦਿੱਤੇ ਲਾਗਇਨਾਂ ਦੀ ਗਲਤ ਵਰਤੋ ਹੋ ਸਕਦੀ ਹੈ।">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; has blocked parts of this page that are not secure.">
-<!ENTITY identity.passiveLoaded "Parts of this page are not secure (such as images).">
-<!ENTITY identity.activeLoaded "You have disabled protection on this page.">
-<!ENTITY identity.weakEncryption "This page uses weak encryption.">
+<!ENTITY identity.activeBlocked "&brandShortName; ਨੇ ਇਸ ਸਫ਼ੇ ਦੇ ਕੁਝ ਭਾਗਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹਨ।">
+<!ENTITY identity.passiveLoaded "ਇਸ ਸਫ਼ੇ ਦੇ ਕੁਝ ਭਾਗ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹਨ (ਜਿਵੇਂ ਕਿ ਚਿੱਤਰ)।">
+<!ENTITY identity.activeLoaded "ਤੁਸੀਂ ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਸੁਰੱਖਿਆ ਨੂੰ ਅਸਮਰੱਥ ਕਰ ਚੁੱਕੇ ਹੋ।">
+<!ENTITY identity.weakEncryption "ਇਹ ਸਫ਼ਾ ਕਮਜ਼ੋਰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਵਰਤਦਾ ਹੈ।">
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Your connection to this site is not private. Information you submit could be viewed by others (like passwords, messages, credit cards, etc.).">
@@ -706,55 +706,46 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "ਸੁਰੱਖਿਆ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
-<!ENTITY identity.disableMixedContentBlocking.label "Disable protection for now">
+<!ENTITY identity.disableMixedContentBlocking.label "ਸੁਰੱਖਿਆ ਨੂੰ ਹੁਣ ਅਸਮਰੱਥ ਬਣਾਓ">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "ਹੋਰ ਸਿੱਖੋ">
 
-<!ENTITY identity.removeCertException.label "Remove Exception">
+<!ENTITY identity.removeCertException.label "ਛੋਟ ਨੂੰ ਹਟਾਓ">
 <!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "ਹੋਰ ਜਾਣਕਾਰੀ">
 
 <!ENTITY identity.permissions "ਇਜਾਜ਼ਤਾਂ">
-<!ENTITY identity.permissionsEmpty "You have not granted this site any special 
-permissions.">
+<!ENTITY identity.permissionsEmpty "ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਕੋਈ ਖਾਸ ਇਜਾਜ਼ਤਾਂ ਨਹੀਂ ਦਿੱਤੀਆਂ ਹਨ।">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Browser tabs">
+<!ENTITY tabsToolbar.label "ਬਰਾਊਜ਼ਰ ਦੀਆਂ ਟੈਬਾਂ">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Synced Tabs">
+<!ENTITY syncTabsMenu3.label     "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ">
 
-<!ENTITY syncedTabs.sidebar.label              "Synced Tabs">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Sign in to Firefox from your 
-other devices to view their tabs here.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "No synced tabs… yet!">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Want to see your tabs from other 
-devices here?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Sign in to view a list of tabs 
-from your other devices.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "No open tabs">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Open &syncBrand.shortName.label; 
-Preferences">
+<!ENTITY syncedTabs.sidebar.label              "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ">
+<!ENTITY syncedTabs.sidebar.noclients.label    "ਇੱਥੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਨੂੰ ਦੇਖਣ ਲਈ ਉਹਨਾਂ ਤੋਂ ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ">
+<!ENTITY syncedTabs.sidebar.noclients.title    "ਹਾਲੇ… ਕੋਈ ਸਿੰਕ ਕੀਤੀ ਟੈਬ ਨਹੀਂ ਹੈ!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਹੋਰ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਦੇਖਣ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ।">
+<!ENTITY syncedTabs.sidebar.notabs.label       "ਕੋਈ ਖੁੱਲ੍ਹੀ ਟੈਬ ਨਹੀਂ">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; 
+ਪਸੰਦ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Turn on tab syncing to 
-view a list of tabs from your other devices.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਨੂੰ ਵੇਖਣ ਲਈ ਟੈਬ ਸਿੰਕ ਨੂੰ ਚਾਲੂ ਕਰੋ।">
 
 <!ENTITY syncedTabs.context.open.label                       "ਖੋਲ੍ਹੋ">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Open in a New 
-Tab">
+<!ENTITY syncedTabs.context.openInNewTab.label               "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Open in a New 
-Window">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Open in a New 
-Private Window">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bookmark This 
-Tab…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ਇਹ ਟੈਬ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "ਕਾਪੀ ਕਰੋ">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
@@ -762,7 +753,7 @@ Tab…">
 
 <!ENTITY syncBrand.shortName.label    "ਸਿੰਕ">
 
-<!ENTITY syncSignIn.label             "Sign In To &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -826,39 +817,32 @@ Tab…">
 <!ENTITY getUserMedia.audioCapture.label "Audio from the tab will be shared.">
 <!ENTITY getUserMedia.allWindowsShared.message "ਆਪਣੀ ਸਕਰੀਨ ਤੋਂ ਸਭ ਵਿਖਾਈ ਦਿੰਦੀਆਂ ਵਿੰਡੋਜ਼ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਕੀਤਾ ਜਾਵੇਗਾ।">
 
-<!ENTITY trackingProtection.title "Tracking Protection">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; is blocking parts 
-of the page that may track your browsing.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "This site includes elements 
-that may track your browsing. You have disabled protection.">
-<!ENTITY trackingProtection.notDetected3 "No tracking elements detected on this 
-page.">
+<!ENTITY trackingProtection.title "ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ਸਫ਼ੇ ਦੇ ਭਾਗਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾ ਰਿਹਾ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਟਰੈਕ ਕਰ ਸਕਦੇ ਹਨ।">
+<!ENTITY trackingProtection.detectedNotBlocked3 "ਇਸ ਸਾਈਟ ਵਿੱਚ ਭਾਗ ਹਨ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਟਰੈਕ ਕਰ ਸਕਦੇ ਹਨ। ਤੁਸੀਂ ਸੁਰੱਖਿਆ ਨੂੰ ਅਸਮਰੱਥ ਕਰ ਚੁੱਕੇ ਹੋ।">
+<!ENTITY trackingProtection.notDetected3 "ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਕੋਈ ਵੀ ਟਰੈਕਿੰਗ ਭਾਗ ਨਹੀਂ ਮਿਲਿਆ।">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Disable protection for this site">
+<!ENTITY trackingProtection.unblock.label "ਇਸ ਸਾਈਟ ਲਈ ਸੁਰੱਖਿਆ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਓ">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Disable protection for this 
-session">
+<!ENTITY trackingProtection.unblockPrivate.label "ਇਸ ਸ਼ੈਸ਼ਨ ਲਈ ਸੁਰੱਖਿਆ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਓ">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "Enable protection">
+<!ENTITY trackingProtection.block2.label "ਸੁਰੱਖਿਆ ਨੂੰ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
-<!ENTITY trackingContentBlocked.message "Tracking">
-<!ENTITY trackingContentBlocked.moreinfo "Parts of the page that track your 
-online activity have been blocked.">
+<!ENTITY trackingContentBlocked.message "ਟਰੈਕਿੰਗ">
+<!ENTITY trackingContentBlocked.moreinfo "ਸਫ਼ੇ ਦੇ ਭਾਗ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਸਰਗਰਮੀ ਨੂੰ ਟਰੈਕ ਕਰ ਸਕਦੇ ਹਨ, ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਜਾ ਚੁੱਕੀ ਹੈ।">
 <!ENTITY trackingContentBlocked.learnMore "ਹੋਰ ਸਿੱਖੋ">
-<!ENTITY trackingContentBlocked.options "Options">
-<!ENTITY trackingContentBlocked.unblock2.label "Disable protection for this 
-site">
+<!ENTITY trackingContentBlocked.options "ਚੋਣਾਂ">
+<!ENTITY trackingContentBlocked.unblock2.label "ਇਸ ਸਾਈਟ ਲਈ ਸੁਰੱਖਿਆ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਓ">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Enable protection">
+<!ENTITY trackingContentBlocked.block.label "ਸੁਰੱਖਿਆ ਨੂੰ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "Tracking protection is 
-disabled">
+<!ENTITY trackingContentBlocked.disabled.message "ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ">
 
 <!ENTITY pointerLock.notification.message "ਇਹ ਫੇਰ ਵੇਖਣ ਲਈ ਕਿਸੇ ਵੀ ਵੇਲੇ ESC ਦਬਾਉ।">
 

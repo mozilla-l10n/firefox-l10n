@@ -6,10 +6,10 @@
 <!ENTITY window.width                 "50em">
 <!ENTITY window.height                "10em">
 
-<!ENTITY doNotTrackCheckbox2.label    "Always apply Do Not Track">
+<!ENTITY doNotTrackCheckbox2.label    "ਟਰੈਕ ਨਾ ਕਰੋ ਨੂੰ ਹਮੇਸ਼ਾ ਲਾਗੂ ਕਰੋ">
 <!ENTITY doNotTrackCheckbox2.accesskey "A">
 
-<!ENTITY doNotTrackTPInfo.description "&brandShortName; will send a signal that you don’t want to be tracked whenever Tracking Protection is on.">
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; ਸੰਕੇਤ ਭੇਜੇਗਾ ਕਿ ਤੁਸੀਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਜਦੋਂ ਵੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਚਾਲੂ ਹੁੰਦੀ ਹੈ।">
 
 
 <!ENTITY doNotTrackLearnMore.label    "ਹੋਰ ਜਾਣੋ">
