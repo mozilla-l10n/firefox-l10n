@@ -22,6 +22,7 @@
 <!ENTITY helpus.middle " o ">
 <!ENTITY helpus.getInvolvedLink "involúcrese!">
 <!ENTITY helpus.end "">
+<!ENTITY releaseNotes.link "Notas de versión">
 <!ENTITY bottomLinks.license "Información de licencia">
 <!ENTITY bottomLinks.rights "Derechos del usuario final">
 <!ENTITY bottomLinks.privacy "Política de privacidad">
