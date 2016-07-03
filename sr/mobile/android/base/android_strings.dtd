@@ -174,7 +174,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "САВЕТ: Додајте било који сајт на листу провајдера претраге тако што ћете дуго притиснути поље за претрагу, а затим притиснути &formatI; иконицу.">
 <!ENTITY pref_category_advanced "Напредно">
-<!ENTITY pref_category_advanced_summary3 "Обнова језичака, чување података, алати за развој">
+<!ENTITY pref_category_advanced_summary3 "Обнова језичака, штедња података, алати за развој">
 <!ENTITY pref_category_notifications "Обавештења">
 <!ENTITY pref_category_notifications_summary "Нове могућности, ажурирања веб сајта">
 <!ENTITY pref_content_notifications "Ажурирања веб сајта">
@@ -225,7 +225,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Укључујући трећа лица">
 <!ENTITY pref_cookies_disabled "Онемогућени">
 
-<!ENTITY pref_category_data_saver "Чување података">
+<!ENTITY pref_category_data_saver "Штедња података">
 <!ENTITY pref_category_media "Медија">
 <!ENTITY pref_category_developer_tools "Алати за развој">
 
@@ -388,7 +388,7 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; извештај здравља">
-<!ENTITY datareporting_fhr_summary2 "Дели податке са &vendorShortName; о здрављу вашег прегледача и помаже да разумете перформансе прегледача">
+<!ENTITY datareporting_fhr_summary2 "Дели податке са &vendorShortName;-ом о здрављу вашег прегледача и помаже да разумете перформансе прегледача">
 <!ENTITY datareporting_abouthr_title "Прикажи мој извештај здравља">
 <!ENTITY datareporting_telemetry_title "Телеметрија">
 <!ENTITY datareporting_telemetry_summary "Делите податке о перформансама, коришћењу, хардверу и подешавањима који се тичу прегледача са &vendorShortName;-ом да бисте нам помогли да учинимо &brandShortName; бољим">
@@ -397,7 +397,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Извештач о рушењу">
 <!ENTITY datareporting_wifi_title2 "Сервис за локацију">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Помозите &vendorShortName; да мапира свет! Поделите приближну Wi-Fi и мобилну локацију вашег уређаја да би унапредили сервис геолокације.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Помозите &vendorShortName;-и да мапира свет! Поделите приближну Wi-Fi и мобилну локацију вашег уређаја да би унапредили сервис геолокације.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -490,7 +490,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Режим целог екрана">
 <!ENTITY pref_scroll_title_bar_summary2 "Сакриј &brandShortName; алатну траку док скролујем страницу">
 
-<!ENTITY pref_tab_queue_title3 "Ред језичака">
+<!ENTITY pref_tab_queue_title3 "Низ језичака">
 <!ENTITY pref_tab_queue_summary4 "Снимите везе док следећи пут не отворите &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
@@ -716,7 +716,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-<!ENTITY intent_uri_private_browsing_prompt "This link will open in &formatS;. Are you sure you want to exit Private Browsing?">
+<!ENTITY intent_uri_private_browsing_prompt "Ова веза ће се отворити у &formatS;. Да ли сте сигурни да желите да изађете из приватног прегледања?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -778,5 +778,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Додај на почетни екран">
 
 <!ENTITY helper_first_offline_bookmark_title "Читај ван мреже">
-<!ENTITY helper_first_offline_bookmark_message "Пронађите читач у забелешкама, чак и ван мреже.">
+<!ENTITY helper_first_offline_bookmark_message "Пронађите ставке читача у забелешкама, чак и ван мреже.">
 <!ENTITY helper_first_offline_bookmark_button "Забелешке">
