@@ -18,9 +18,9 @@
 <!ENTITY sync.account               "Ne mba'ete réra">
 <!ENTITY sync.password              "Ñe'ẽñemi">
 <!ENTITY sync.recoveryKey           "Ñe'ẽñemiete jeguerujey rehegua">
-<!ENTITY sync.customServer          "Eiuru peteĩ mohendahavusu ñemomba'epyre">
+<!ENTITY sync.customServer          "Eipuru peteĩ mohendahavusu ñemomba'epyre">
 <!ENTITY sync.serverURL             "URL mohendahavusu rehegua">
-<!ENTITY sync.setup.connect         "Hecha">
+<!ENTITY sync.setup.connect         "Jeike">
 <!ENTITY sync.setup.cancel          "Heja">
 <!ENTITY sync.setup.tutorial        "Chembo'emína mba'éichapa">
 <!ENTITY sync.setup.waiting2        "Eha'arõhína ambue mba'e'okápe…">
