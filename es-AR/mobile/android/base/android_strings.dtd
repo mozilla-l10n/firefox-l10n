@@ -33,6 +33,7 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Móvil">
 <!ENTITY  history_title "Historial">
+<!ENTITY  reading_list_title "Lista de lectura">
 <!ENTITY  recent_tabs_title "Pestañas recientes">
 
 <!ENTITY  switch_to_tab "Cambiar a pestaña">
