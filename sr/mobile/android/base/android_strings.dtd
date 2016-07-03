@@ -501,7 +501,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "Прикажи лозинку">
 <!ENTITY doorhanger_login_edit_toast_error "Неуспешно снимање пријаве">
 <!ENTITY doorhanger_login_select_message "Копирај лозинку из &formatS;?">
-<!ENTITY doorhanger_login_select_toast_copy "Лозинка је копирана на clipboard">
+<!ENTITY doorhanger_login_select_toast_copy "Лозинка је копирана у бележницу">
 <!ENTITY doorhanger_login_select_toast_copy_error "Нисам успео копирати лозинку">
 <!ENTITY doorhanger_login_select_action_text "Изаберите другу пријаву">
 <!ENTITY doorhanger_login_select_title "Копирај лозинку из">
