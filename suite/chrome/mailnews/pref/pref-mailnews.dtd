@@ -11,7 +11,7 @@
 <!ENTITY mailBiffOnNewWindow.label        "Verificar por novo correio apenas depois de abrir o correio e os grupos de notícias">
 <!ENTITY mailBiffOnNewWindow.accesskey    "V">
 
-<!ENTITY defaultMailSettings.description  "Tornar o &brandShortName; a aplicação pré-definida de:">
+<!ENTITY defaultMailSettings.description  "Tornar o &brandShortName; a aplicação predefinida de:">
 <!ENTITY setDefaultMail.label             "Correio">
 <!ENTITY setDefaultMail.accesskey         "C">
 <!ENTITY setDefaultNews.label             "Notícias">

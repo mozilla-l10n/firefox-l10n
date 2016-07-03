@@ -124,7 +124,7 @@
 <!ENTITY PhotoDesc.label                "Obter uma das seguintes:">
 <!ENTITY GenericPhoto.label             "Fotografia genérica">
 <!ENTITY GenericPhoto.accesskey         "g">
-<!ENTITY DefaultPhoto.label             "Pré-definida">
+<!ENTITY DefaultPhoto.label             "Predefinida">
 <!ENTITY PhotoFile.label                "Neste computador">
 <!ENTITY PhotoFile.accesskey            "e">
 <!ENTITY BrowsePhoto.label              "Navegar">
