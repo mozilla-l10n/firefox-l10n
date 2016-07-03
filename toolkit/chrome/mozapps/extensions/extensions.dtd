@@ -124,7 +124,7 @@
 <!ENTITY discover.footer                      "ਜਦੋਂ ਤੁਸੀਂ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕੁਨੈਕਟ ਹੋਵੋਗੇ ਤਾਂ ਇਹ ਥਾਂ ਵੀ ਕੁਝ ਬਹੁਤ ਵਧੀਆ ਤੇ ਹਰਮਨ ਪਿਆਰੇ ਐਡ-ਆਨ ਵੇਖਾਏ ਜਾਣਗੇ, ਜਿੰਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ ਵਰਤਣਾ ਚਾਹੋਗੇ।">
 
 <!-- detail view -->
-<!ENTITY detail.version.label                 "ਵਰਜਨ">
+<!ENTITY detail.version.label                 "ਵਰਜ਼ਨ">
 <!ENTITY detail.lastupdated.label             "ਆਖਰੀ ਅੱਪਡੇਟ">
 <!ENTITY detail.creator.label                 "ਡਿਵੈਲਪਰ">
 <!ENTITY detail.homepage.label                "ਮੁੱਖ ਸਫ਼ਾ">

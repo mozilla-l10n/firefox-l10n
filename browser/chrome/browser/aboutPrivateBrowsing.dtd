@@ -8,25 +8,25 @@
 
 
 <!ENTITY privateBrowsing.title                           "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ">
-<!ENTITY privateBrowsing.title.tracking                  "Private Browsing with Tracking Protection">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "When you browse in a Private Window, Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "does not save">
+<!ENTITY privateBrowsing.title.tracking                  "ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ ਦੇ ਨਾਲ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "ਜਦੋਂ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਫਾਇਰਫਾਕਸ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ਇਹਨਾਂ ਨੂੰ ਨਹੀਂ ਸੰਭਾਲਦਾ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
-<!ENTITY aboutPrivateBrowsing.info.visited               "visited pages">
-<!ENTITY aboutPrivateBrowsing.info.searches              "searches">
-<!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "temporary files">
-<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "will save">
-<!ENTITY aboutPrivateBrowsing.info.saved.after2          " your:">
+<!ENTITY aboutPrivateBrowsing.info.visited               "ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼ੇ">
+<!ENTITY aboutPrivateBrowsing.info.searches              "ਖੋਜਾਂ">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "ਕੂਕੀਜ਼">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "ਆਰਜ਼ੀ ਫਾਈਲਾਂ">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "ਫਾਇਰਫਾਕਸ ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "ਸੰਭਾਲੇਗਾ">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " ਤੁਹਾਡੇ:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "ਡਾਊਨਲੋਡ">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "ਬੁੱਕਮਾਰਕ">
-<!ENTITY aboutPrivateBrowsing.note.before                "Private Browsing ">
-<!ENTITY aboutPrivateBrowsing.note.emphasize             "doesn’t make you anonymous">
-<!ENTITY aboutPrivateBrowsing.note.after                 " on the Internet. Your employer or Internet service provider can still know what page you visit.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Learn more about">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Private Browsing">
+<!ENTITY aboutPrivateBrowsing.note.before                "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਰਿੰਗ ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "ਤੁਹਾਨੂੰ ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਅਣਪਛਾਤਾ ਨਹੀਂ ">
+<!ENTITY aboutPrivateBrowsing.note.after                 " ਬਣਾਉਂਦੀ ਹੈ। ਤੁਹਾਡੀ ਕੰਪਨੀ ਜਾਂ ਇੰਟਰਨੈੱਟ ਸੇਵਾ ਦੇਣ ਵਾਲੇ ਫਿਰ ਵੀ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼ਿਆਂ ਬਾਰੇ ਜਾਣ ਸਕਦੇ ਹਨ।">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "ਇਸ ਬਾਰੇ ਹੋਰ ਜਾਣੋ">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ">
 
 <!ENTITY trackingProtection.title                        "ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ">
-<!ENTITY trackingProtection.description2                 "Some websites use trackers that can monitor your activity across the Internet. With Tracking Protection Firefox will block many trackers that can collect information about your browsing behavior.">
-<!ENTITY trackingProtection.startTour1                   "See how it works">
+<!ENTITY trackingProtection.description2                 "ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਟਰੈਕਰਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦੀਆਂ ਹਨ, ਜੋ ਕਿ ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖ ਸਕਦੇ ਹਨ। ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ ਨਾਲ ਫਾਇਰਫਾਕਸ ਕਈ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦਾ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਰਵੱਈਏ ਬਾਰੇ ਜਾਣਕਾਰੀ ਇਕੱਤਰ ਕਰ ਸਕਦੇ ਹਨ।">
+<!ENTITY trackingProtection.startTour1                   "ਵੇਖੋ ਕਿ ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ">

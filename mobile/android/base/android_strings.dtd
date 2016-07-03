@@ -24,15 +24,15 @@
 <!ENTITY firstrun_tabqueue_title "ਲਿੰਕ">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "ਟੈਬ ਕਤਾਰ ਨੂੰ ਚਾਲੂ ਕਰੋ">
-<!ENTITY firstrun_tabqueue_subtext_off "Save links for later in &brandShortName; when tapping them in other apps.">
+<!ENTITY firstrun_tabqueue_subtext_off "ਲਿੰਕ ਨੂੰ &brandShortName; ਵਿੱਚ ਬਾਅਦ ਲਈ ਸੰਭਾਲੋ, ਜਦੋਂ ਹੋਰ ਐਪਾਂ ਵਿੱਚੋਂ ਉਹਨਾਂ ਨੂੰ ਛੂਹਦੇ ਹੋ।">
 
 <!ENTITY firstrun_tabqueue_message_on "ਕਾਮਯਾਬ!">
 <!ENTITY firstrun_tabqueue_subtext_on "ਤੁਸੀਂ &pref_category_general; ਅਧੀਨ  &settings; ਵਿੱਚ ਇਸ ਨੂੰ ਕਦੇ ਵੀ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ।">
 
 <!ENTITY firstrun_readerview_title "ਲੇਖ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-<!ENTITY firstrun_readerview_message "ਭੀੜ ਨੂੰ ਹਟਾਓ">
-<!ENTITY firstrun_readerview_subtext "Use Reader View to make articles nicer to read \u2014 even offline.">
+<!ENTITY firstrun_readerview_message "ਘਸਮਾਣ ਨੂੰ ਹਟਾਓ">
+<!ENTITY firstrun_readerview_subtext "ਪੜ੍ਹਨ ਝਲਕ ਨੂੰ ਲੇਖਾਂ ਨੂੰ ਪੜ੍ਹਨ ਵਾਸਤੇ ਸੌਖਾ ਬਣਾਉਣ ਲਈ ਵਰਤੋਂ \u2014 ਭਾਵੇਂ ਆਫਲਾਈਨ ਹੋਵੋ।">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "ਤੁਸੀਂ">
@@ -411,8 +411,8 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਹਾਲਤ ਬਾਰੇ ਜਾਣਕਾਰੀ &vendorShortName; ਨਾਲ ਸਾਂਝੀ ਕਰੋ ਅਤੇ ਖੁਦ ਨੂੰ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਸਮਝਣ ਲਈ ਮਦਦ ਕਰੋ">
 <!ENTITY datareporting_abouthr_title "ਮੇਰੀ ਹਾਲਤ ਰਿਪੋਰਟ ਨੂੰ ਦੇਖੋ">
 <!ENTITY datareporting_telemetry_title "ਟੈਲੀਮੈਂਟਰੀ">
-<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY datareporting_telemetry_summary "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ, ਵਰਤੋਂ, ਹਾਰਡਵੇਅਰ ਅਤੇ ਕਸਟਮਾਈਜ਼ੇਸ਼ਨ ਡਾਟੇ ਨੂੰ &vendorShortName; ਨਾਲ ਸਾਂਝਾ ਕਰੋ ਤਾਂ ਕਿ ਅਸੀਂ &brandShortName; ਨੂੰ ਵਧੀਆ ਬਣਾ ਸਕੀਏ।">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; ਕਰੈਸ਼ ਜਾਣਕਾਰੀਆਂ ਭੇਜਦਾ ਹੈ, ਜਿਸ ਨਾਲ &vendorShortName; ਨੂੰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਸਥਿਰ ਅਤੇ ਸੁਰੱਖਿਅਤ ਬਣਾਉਣ ਲਈ ਮਦਦ ਮਿਲਦੀ ਹੈ">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
