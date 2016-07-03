@@ -195,7 +195,7 @@ was trying to connect. -->
 Strict Transport Security (HSTS) да би одредио да се &brandShortName; на њега повезује
 само безбедно. Као резултат тога, није могуће додати изузетак за овај 
 сертификат.">
-<!ENTITY certerror.copyToClipboard.label "Копирај текст на clipboard">
+<!ENTITY certerror.copyToClipboard.label "Копирај текст у бележницу">
 
 <!ENTITY inadequateSecurityError.title "Веза није сугурна">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
