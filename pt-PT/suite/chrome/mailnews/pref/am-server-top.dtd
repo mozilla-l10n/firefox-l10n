@@ -14,7 +14,7 @@
 <!ENTITY userName.accesskey "u">
 <!ENTITY port.label "Porta:">
 <!ENTITY port.accesskey "P">
-<!ENTITY serverPortDefault.label "Pré-definida:">
+<!ENTITY serverPortDefault.label "Predefinida:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -75,7 +75,7 @@
 <!ENTITY abbreviateOn.label "Nome completo (por exemplo: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nome abreviado (por exemplo: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avançado...">
-<!ENTITY serverDefaultCharset2.label "Codificação pré-definida:">
+<!ENTITY serverDefaultCharset2.label "Codificação predefinida:">
 <!ENTITY advancedButton.accesskey "a">
 <!ENTITY localPath.label "Diretório local:">
 <!ENTITY localFolderPicker.label "Escolha o diretório local">
