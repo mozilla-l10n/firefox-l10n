@@ -36,7 +36,7 @@
 <!ENTITY healthReportLearnMore.label     "Сазнајте више">
 
 <!ENTITY telemetryDesc.label             "Делите податке о перформансама, коришћењу, хардверу и подешавањима који се тичу прегледача са &vendorShortName;-ом да бисте нам помогли да учинимо &brandShortName; бољим">
-<!ENTITY enableTelemetryData.label       "Поделите додатне информације (нпр. Телеметрија)">
+<!ENTITY enableTelemetryData.label       "Подели додатне информације (нпр. Телеметрија)">
 <!ENTITY enableTelemetryData.accesskey   "л">
 <!ENTITY telemetryLearnMore.label        "Сазнајте више">
 
