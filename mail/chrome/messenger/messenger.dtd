@@ -769,7 +769,7 @@
    customizations for the thread pane columns in this folder to their default.
   -->
 
-<!ENTITY columnPicker.resetToInbox.label "Repor colunas pré-definidas">
+<!ENTITY columnPicker.resetToInbox.label "Repor colunas predefinidas">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
    the "columnPicker.applyToFolder.label" and

@@ -50,7 +50,7 @@
 <!ENTITY leaveMsgsOnSrvr.accesskey "M">
 <!ENTITY portNum.label "Porta:">
 <!ENTITY portNum.accesskey "o">
-<!ENTITY defaultPortLabel.label "Pré-definida:">
+<!ENTITY defaultPortLabel.label "Predefinida:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.description "Introduza o nome do servidor de receção (por exemplo, &quot;mail.example.net&quot;).">

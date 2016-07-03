@@ -6,7 +6,7 @@
 <!ENTITY securityTab.label "Segurança">
 <!ENTITY securityHeading.label "Para enviar ou receber mensagens encriptadas, deve especificar um certificado assinando digitalmente e um certificado de encriptado.">
 <!ENTITY encryptionGroupTitle.label "Encriptação">
-<!ENTITY encryptionChoiceLabel.label "Configuração da encriptação pré-definida ao enviar mensagens:">
+<!ENTITY encryptionChoiceLabel.label "Configuração da encriptação predefinida ao enviar mensagens:">
 <!ENTITY neverEncrypt.label "Nunca (não utilizar encriptação)">
 <!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "Necessário (incapaz de enviar mensagens a menos que os destinatários possuam um certificado)">
