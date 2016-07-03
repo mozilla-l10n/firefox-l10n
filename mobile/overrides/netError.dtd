@@ -19,6 +19,7 @@
 <!ENTITY dnsNotFound.title "സെര്‍വര്‍ കണ്ടെത്താനായില്ല">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li><strong>www</strong>.example.com എന്നതിനു പകരം <strong>ww</strong>.example.com പോലെ എന്തെങ്കിലും ടൈപ്പിങ് പിശക് ഉണ്ടോ എന്നറിയാന്‍ അഡ്രസ് പരിശോധിക്കൂ. </li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>തിരയൂ</button> </div> <li> നിങ്ങള്‍ക്ക് ഒരു താളും ലഭിക്കുന്നില്ലെങ്കില്‍, നിങ്ങളുടെ ഉപകരണത്തിലെ ഡാറ്റയോ അല്ലെങ്കില്‍ വൈ-ഫൈ കണക്ഷനോ പരിശോധിക്കൂ. <button id='wifi'>വൈ-ഫൈ സജ്ജമാക്കൂ</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "ഫയല്‍ കാണ്‍മാനില്ല">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ടൈപ്പ് ചെയ്യുന്നതിലുള്ള പിശകുകള്‍ക്കായി ഫയലിന്റെ പേര് പരിശോധിക്കുക.</li> <li>ഫയല്‍ നീക്കം ചെയ്യുകയോ,പേര് മാറ്റുകയോ അല്ലെങ്കില്‍  വെട്ടി നീക്കുകയോ മറ്റോ ചെയ്തോ എന്ന് പരിശോധിക്കുക.</li> </ul>">
@@ -26,8 +27,9 @@
 
 
 <!ENTITY generic.title "അയ്യോ!!">
+<!ENTITY generic.longDesc "<p>ചില കാരണങ്ങളാല്‍ &brandShortName; എന്നതിനു് ഈ താള്‍ ലോഡ്‌ ലഭ്യമാക്കുവാനായില്ല.</p>">
 
-
+<!ENTITY malformedURI.title "ഈ വിലാസം സാധുവല്ല">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
