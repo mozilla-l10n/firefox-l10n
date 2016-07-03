@@ -5,6 +5,7 @@
 <!ENTITY migrationWizard.title "Asistente para importar">
 <!ENTITY importFromWin.label "Importar opciones, configuración de cuentas, libretas de direcciones, filtros y otros datos de:">
 <!ENTITY importFromNonWin.label "Importar preferencias, configuraciones de cuentas, libretas de direcciones, filtros y otros datos de:">
+<!ENTITY importSourceNotFound.label "No se ha encontrado aplicación de la que importar datos.">
 <!ENTITY importFromNothing.label "No importar nada">
 <!ENTITY importFromNothing.accesskey "D">
 <!ENTITY importFromSeamonkey3.label "SeaMonkey 2 o posterior">
