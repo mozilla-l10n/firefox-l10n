@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name "&brandShortName; തിരയുക">
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
@@ -23,4 +25,4 @@
 <!ENTITY search_widget_button_label "തിരയുക">
 
 <!ENTITY network_error_title "ഇന്റര്‍നെറ്റ് സൗകര്യം ഇല്ല">
-
+<!ENTITY network_error_message "നെറ്റ്‍വര്‍ക്ക് സജ്ജീകരണങ്ങള്‍ പരിശോധിക്കാന്‍ ഇവിടെ തട്ടുക">

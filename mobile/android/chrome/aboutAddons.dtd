@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "ഉപേക്ഷിയ്ക്കുക">
 <!ENTITY addonAction.undo                       "വേണ്ട">
 
+<!ENTITY addonUnsigned.message                  "&brandShortName; വഴി ഈ ആഡ്-ഓണ്‍ ദൃഢീകരിക്കനായില്ല.">
 <!ENTITY addonUnsigned.learnMore                "കൂടുതല്‍ അറിയുക">

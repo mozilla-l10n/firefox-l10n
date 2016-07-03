@@ -752,9 +752,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "ആസ്ഥന താളിലേക്കു് ചേര്‍ക്കൂ">
 
+<!ENTITY helper_first_offline_bookmark_title "ഓഫ്‍ലൈനായി വായിക്കൂ">
 
+<!ENTITY helper_first_offline_bookmark_button "അടയാളങ്ങളിലേക്ക് പോകൂ">
 
+<!ENTITY helper_triple_readerview_open_title "ഓഫ്‍ലൈനായി ലഭ്യമാണ്">
 
-
-
+<!ENTITY helper_triple_readerview_open_button "അടയാളം  ചേര്‍ക്കൂ">
 
