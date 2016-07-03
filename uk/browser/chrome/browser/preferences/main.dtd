@@ -42,4 +42,4 @@
 <!ENTITY useFirefoxSync.label             "Підказка: При цьому використовуються окремі профілі. Скористайтеся синхронізацією для обміну даними між ними.">
 <!ENTITY getStarted.label                 "Скористатися синхронізацією…">
 
-<!ENTITY e10sEnabled.label                "Увімкнути багатопроцесовість &brandShortName;">
+<!ENTITY e10sEnabled.label                "Увімкнути багатопроцесність &brandShortName;">
