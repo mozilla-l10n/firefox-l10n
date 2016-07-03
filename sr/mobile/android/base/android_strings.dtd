@@ -240,7 +240,7 @@
 
 <!ENTITY pref_cookies_menu "Колачићи">
 <!ENTITY pref_cookies_accept_all "Омогућени">
-<!ENTITY pref_cookies_not_accept_foreign "Укључујући трећа лица">
+<!ENTITY pref_cookies_not_accept_foreign "Омогућени, без трећих лица">
 <!ENTITY pref_cookies_disabled "Онемогућени">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
