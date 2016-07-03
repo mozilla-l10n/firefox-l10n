@@ -11,7 +11,7 @@
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
-<!ENTITY privatebrowsingpage.title.normal1 "ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ \'ਚ ਨਹੀਂ ਹੋ">
+<!ENTITY privatebrowsingpage.title.normal1 "ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ \u0027ਚ ਨਹੀਂ ਹੋ">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; ਸਫ਼ਿਆਂ ਦੇ ਭਾਗਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦਾ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਸਰਗਰਮੀ ਨੂੰ ਟਰੈਕ ਕਰ ਸਕਦੇ ਹਨ।">
 <!ENTITY privatebrowsingpage.description.privateDetails "ਅਸੀਂ ਕਿਸੇ ਵੀ ਅਤੀਤ ਨੂੰ ਯਾਦ ਨਹੀਂ ਰੱਖਾਂਗੇ, ਪਰ ਫ਼ੇਰ ਵੀ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਈਲਾਂ ਅਤੇ ਨਵੇਂ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।">

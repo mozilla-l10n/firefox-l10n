@@ -57,7 +57,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "…ਟਿਕਾਣਾ ਨੂੰ ਖੋਲ੍ਹੋ">
+<!ENTITY openLocationCmd.label "…ਟਿਕਾਣੇ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY openFileCmd.label "…ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -126,8 +126,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "ਹੁਣ ਪੂਰੀ ਸਕਰੀਨ \'ਤੇ ਹੈ">
-<!ENTITY fullscreenWarning.generic.label "ਇਹ ਦਸਤਾਵੇਜ਼ ਪੂਰੀ ਸਕਰੀਨ \'ਤੇ ਹੈ">
+<!ENTITY fullscreenWarning.afterDomain.label "ਹੁਣ ਪੂਰੀ ਸਕਰੀਨ \u0027ਤੇ ਹੈ">
+<!ENTITY fullscreenWarning.generic.label "ਇਹ ਦਸਤਾਵੇਜ਼ ਪੂਰੀ ਸਕਰੀਨ \u0027ਤੇ ਹੈ">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -176,9 +176,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY backCmd.label                "ਪਿੱਛੇ">
-<!ENTITY backButton.tooltip           "ਇੱਕ ਪਿਛਲੇ ਸਫ਼ੇ \'ਤੇ ਜਾਓ">
+<!ENTITY backButton.tooltip           "ਇੱਕ ਪਿਛਲੇ ਸਫ਼ੇ \u0027ਤੇ ਜਾਓ">
 <!ENTITY forwardCmd.label             "ਅੱਗੇ">
-<!ENTITY forwardButton.tooltip        "ਇੱਕ ਸਫ਼ੇ \'ਤੇ ਅੱਗੇ ਜਾਓ">
+<!ENTITY forwardButton.tooltip        "ਇੱਕ ਸਫ਼ੇ \u0027ਤੇ ਅੱਗੇ ਜਾਓ">
 <!ENTITY backForwardButtonMenu.tooltip "ਅਤੀਤ ਵੇਖਣ ਲਈ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ ਜਾਂ ਹੇਠਾਂ ਖਿੱਚੋ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ਅਤੀਤ ਵੇਖਣ ਲਈ ਹੇਠਾਂ ਖਿੱਚੋ">
 <!ENTITY reloadCmd.label              "ਮੁੜ ਲੋਡ ਕਰੋ">
@@ -186,7 +186,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "ਰੋਕੋ">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "ਇਸ ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕੋ">
-<!ENTITY goEndCap.tooltip             "ਟਿਕਾਣਾ ਬਾਰ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ \'ਤੇ ਜਾਓ">
+<!ENTITY goEndCap.tooltip             "ਟਿਕਾਣਾ ਬਾਰ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ \u0027ਤੇ ਜਾਓ">
 <!ENTITY printButton.label            "ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printButton.tooltip          "ਇਹ ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰੋ">
 
@@ -479,7 +479,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY reloadImageCmd.label         "ਚਿੱਤਰ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰੋ">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "ਇੱਕਲਾ ਚਿੱਤਰ ਵੇਖੋ">
+<!ENTITY viewImageCmd.label           "ਇੱਕਲੇ ਚਿੱਤਰ ਨੂੰ ਵੇਖੋ">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "ਚਿੱਤਰ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
