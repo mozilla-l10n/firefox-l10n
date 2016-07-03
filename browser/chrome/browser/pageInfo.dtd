@@ -37,7 +37,7 @@
 <!ENTITY  mediaCount            "Sayaç">
 <!ENTITY  mediaDimension        "Ölçüler:">
 <!ENTITY  mediaLongdesc         "Uzun açıklama:">
-<!ENTITY  mediaBlockImage.accesskey "O">
+<!ENTITY  mediaBlockImage.accesskey "e">
 <!ENTITY  mediaSaveAs           "Farklı kaydet…">
 <!ENTITY  mediaSaveAs.accesskey "F">
 <!ENTITY  mediaSaveAs2.accesskey "e">
