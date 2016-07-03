@@ -270,7 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "в">
 <!ENTITY newPrivateWindow.label     "Приватне вікно">
 <!ENTITY newPrivateWindow.accesskey "т">
-<!ENTITY newNonRemoteWindow.label   "Нове однопроцесове вікно">
+<!ENTITY newNonRemoteWindow.label   "Однопроцесне вікно">
 
 <!ENTITY editMenu.label         "Редагувати"> 
 <!ENTITY editMenu.accesskey       "Р"> 
