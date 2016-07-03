@@ -27,7 +27,7 @@
 <!ENTITY firstrun_tabqueue_subtext_off "Save links for later in &brandShortName; when tapping them in other apps.">
 
 <!ENTITY firstrun_tabqueue_message_on "ਕਾਮਯਾਬ!">
-<!ENTITY firstrun_tabqueue_subtext_on "You can always turn this off in &settings; under &pref_category_general;.">
+<!ENTITY firstrun_tabqueue_subtext_on "ਤੁਸੀਂ &pref_category_general; ਅਧੀਨ  &settings; ਵਿੱਚ ਇਸ ਨੂੰ ਕਦੇ ਵੀ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ।">
 
 <!ENTITY firstrun_readerview_title "ਲੇਖ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -276,7 +276,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "ਤੁਸੀਂ ਬਾਅਦ \'ਚ ਸੈਟਿੰਗਾਂ ਵਿੱਚੋਂ ਇਸ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Turn on Permit drawing over other apps">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "ਹੋਰ ਐਪਾਂ ਉੱਤੇ ਡਰਾਇੰਗ ਕਰਨਾ ਚਾਲੂ ਕਰੋ">
 <!ENTITY tab_queue_prompt_positive_action_button "ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY tab_queue_prompt_negative_action_button "ਹੁਣੇ ਨਹੀਂ">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -417,12 +417,12 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; ਟਿਕਾਣਾ ਸੇਵਾ">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Help &vendorShortName; map the world! Share the approximate Wi-Fi and cellular location of your device to improve our geolocation service.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; ਨੂੰ ਸੰਸਾਰ ਦੇ ਨਕਸ਼ੇ ਲਈ ਮਦਦ ਦਿਓ! ਆਪਣੇ ਡਿਵਾਈਸ ਦੇ ਲਗਭਗ Wi-Fi ਅਤੇ ਸੈਲੂਲਰ ਟਿਕਾਣੇ ਨੂੰ ਸਾਂਝਾ ਕਰੋ ਤਾਂ ਕਿ ਸਾਡੀ ਭੂਗੋਲਿਕ ਟਿਕਾਣੇ ਨੂੰ ਸੁਧਾਰਿਆ ਜਾ ਸਕੇ।">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ ਕਰੋ">
-<!ENTITY pref_update_autodownload_wifi "ਸਿਰਫ਼ Wi-Fi \'ਤੇ ਹੀ">
+<!ENTITY pref_update_autodownload_wifi "ਸਿਰਫ਼ Wi-Fi ਤੇ ਹੀ">
 <!ENTITY pref_update_autodownload_never "ਕਦੇ ਨਹੀਂ">
 <!ENTITY pref_update_autodownload_always "ਹਮੇਸ਼ਾ">
 
@@ -495,7 +495,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "ਪਾਸਵਰਡ ਨੂੰ ਦਿਖਾਓ">
 <!ENTITY doorhanger_login_edit_toast_error "ਲਾਗਇਨ ਨੂੰ ਸੰਭਾਲਣ ਲਈ ਫੇਲ੍ਹ ਹੈ">
 <!ENTITY doorhanger_login_select_message "&formatS; ਤੋਂ ਪਾਸਵਰਡ ਨੂੰ ਕਾਪੀ ਕਰਨਾ ਹੈ?">
-<!ENTITY doorhanger_login_select_toast_copy "ਪਾਸਵਰਡ ਨੂੰ ਕਲਿੱਪਬੋਰਡ \'ਚ ਕਾਪੀ ਕੀਤਾ">
+<!ENTITY doorhanger_login_select_toast_copy "ਪਾਸਵਰਡ ਨੂੰ ਕਲਿੱਪਬੋਰਡ ਚ ਕਾਪੀ ਕੀਤਾ">
 <!ENTITY doorhanger_login_select_toast_copy_error "ਪਾਸਵਰਡ ਨੂੰ ਕਾਪੀ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ">
 <!ENTITY doorhanger_login_select_action_text "ਹੋਰ ਲਾਗਇਨ ਨੂੰ ਚੁਣੋ">
 <!ENTITY doorhanger_login_select_title "ਪਾਸਵਰਡ ਨੂੰ ਇਸ ਤੋਂ ਕਾਪੀ ਕੀਤਾ">
