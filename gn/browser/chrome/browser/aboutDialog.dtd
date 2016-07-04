@@ -22,7 +22,7 @@
 <!ENTITY warningDesc.telemetryDesc  "Omondo marandu ijehegui tembiapoguigua, hardware, jepuru ha ñemomba'egua &vendorShortName;-pe ojapo hag̃ua &brandShortName; iporãveháicha.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "Guarani">
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "ha'e peteĩ">
@@ -44,7 +44,7 @@
 <!ENTITY helpus.middle              " térã">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "eiképy">
-<!ENTITY helpus.end                 "Guarani">
+<!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Oĩpa mba'e pyahu">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
@@ -80,7 +80,7 @@
      try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.manual.start        "Tekopyahu rejuhukuaáva ápe">
-<!ENTITY update.manual.end          "Guarani">
+<!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
      update.unsupported.end all go into one line with linkText being wrapped in
@@ -90,7 +90,7 @@
 
 <!ENTITY update.unsupported.start    "Ndaikatuvéima reipuru ambue tekopyahu ko apopyvusúpe.">
 <!ENTITY update.unsupported.linkText "Kuaave">
-<!ENTITY update.unsupported.end      "Guarani">
+<!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
@@ -98,7 +98,7 @@
      example: Downloading update — 111 KB of 13 MB -->
 
 <!ENTITY update.downloading.start   "Oñemboguejyhína tekopyahu —">
-<!ENTITY update.downloading.end     "Guarani">
+<!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Ojepuruhína tekopyahu…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and

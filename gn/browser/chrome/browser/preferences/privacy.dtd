@@ -69,7 +69,7 @@
 <!ENTITY  historyHeader.remember.label     "Tembiasakuére ñemandu'a">
 <!ENTITY  historyHeader.dontremember.label "Ani nemandu'a tembiasakuére">
 <!ENTITY  historyHeader.custom.label       "Eiporu peteĩ ñemboheko mba'etéva tembiasakuépe g̃uarã">
-<!ENTITY  historyHeader.post.label         "Guarani">
+<!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; imandu'áta nekundaha rembiasakue, ñemboguejy, myanyhẽha ha jehekaha, ha oñongatúta avei ñanduti renda cookie eike hague.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->

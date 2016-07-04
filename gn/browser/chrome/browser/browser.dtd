@@ -125,7 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "Guarani">
+<!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "ha'e mba'erechaha henyhẽva ko'ág̃a">
 <!ENTITY fullscreenWarning.generic.label "Ko kuatia oĩ hína ko'ág̃a mba'erechaha tuichavévape">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -427,7 +427,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      as:  "Search <selected engine name><searchAfter.label text>" -->
 
 <!ENTITY search.label                 "Jeheka ">
-<!ENTITY searchAfter.label            "Guarani">
+<!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -603,17 +603,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "Guarani">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Momichĩ">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "Guarani">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Ñepyrũha">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "Guarani">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Moñe'ẽrã año mongakuaa">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">

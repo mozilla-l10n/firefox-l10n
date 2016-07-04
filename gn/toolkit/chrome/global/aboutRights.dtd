@@ -21,7 +21,7 @@
 
 <!ENTITY rights.intro-point2-a "Mozilla Foundation ha heseguáva noñeme'ẽi mba'evéichagua derécho térã ñe'ẽme'ẽ ñemurã rehegua, oike avei ápe Firefox réra ha ha'ãnga'i. Ikatu ojejuhu marandu pe ñemurã reheguáva ">
 <!ENTITY rights.intro-point2-b "ápe">
-<!ENTITY rights.intro-point2-c "Guarani">
+
 <!-- point 2.5 text for official branded builds -->
 
 <!ENTITY rights.intro-point2.5 "Mbovy mba'e &brandShortName;-pe, jejavy mombe'uháraicha, omomarandukuaa &vendorShortName;-pe. Oñemondóta jave pe marandu, ome'ẽ &vendorShortName;-pe juruja ojepuru porã hag̃ua pe marandu omoporãverekávo imba'erepy, oñemoherakuã hag̃ua pe marandu iñanduti rendápe ha oñemyasãi hag̃ua.">

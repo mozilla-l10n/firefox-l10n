@@ -35,7 +35,7 @@
 <!ENTITY clearTimeDuration.everything     "Opavave">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "Guarani">
+<!ENTITY clearTimeDuration.suffix         "">
 <!ENTITY clearTimeDuration.dateColumn     "Jehohague ára">
 <!ENTITY clearTimeDuration.nameColumn     "Téra">
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
