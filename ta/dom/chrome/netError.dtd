@@ -28,7 +28,7 @@
 <!ENTITY malformedURI.longDesc "<p>வழங்கிய முகவரி அடையாளங்காணத்தக்க வடிவில் இல்லை. இருப்பிடப்பட்டியைப் பார்த்து ஏதேனும் பிழைகள் உள்ளதா எனச் சரிபார்த்துவிட்டு மீண்டும் முயற்சிக்கவும்.</p>">
 
 <!ENTITY netInterrupt.title "தரவு பரிமாற்ற தடங்கல்">
-<!ENTITY netInterrupt.longDesc "[p]The browser connected successfully, but the connection was interrupted while transferring information.  Please try again.[/p][ul][li]Are you unable to browse other sites? Check the computer's network connection.[/li][li]Still having trouble? Consult your network administrator or Internet provider for assistance.[/li][/ul]">
+
 
 <!ENTITY notCached.title "ஆவணம் காலாவதியானது">
 <!ENTITY notCached.longDesc "<p>கோரிய ஆவணம் உலாவியின் தற்காலிக சேமிப்பில் கிடைக்கவில்லை.</p><ul><li> பாதுகாப்பு முன்னெச்சரிக்கையாக, உலாவி தானாக மீண்டும் முக்கியமான ஆவணங்ககளை கோருவது இல்லை.</li><li>இந்த ஆவணத்தை வலைதலத்தில் இருந்து மீண்டும் கோர &quot;மீண்டும் முயற்சிக்கவும்&quot; பொத்தானை சொடுக்கவும்.</li></ul>">
