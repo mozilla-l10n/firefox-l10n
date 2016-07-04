@@ -524,10 +524,10 @@ size. -->
 
 <!ENTITY page_removed "Kuatiarogue oguepyréva">
 
-<!ENTITY bookmark_edit_title "Embosako\u0027i techaukaha">
+<!ENTITY bookmark_edit_title "Techaukaha mbosako\u0027i">
 <!ENTITY bookmark_edit_name "Téra">
 <!ENTITY bookmark_edit_location "Tendaite">
-<!ENTITY bookmark_edit_keyword "Ñe\u0027ẽ ñemigua">
+<!ENTITY bookmark_edit_keyword "Ñe\u0027ẽ ñemi">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
@@ -539,19 +539,19 @@ size. -->
 
 <!ENTITY page_action_dropmarker_description "Tembiaporã mbohetáva">
 
-<!ENTITY masterpassword_create_title "Emoheñói ñe\u0027ẽnemi ha\u0027etéva">
+<!ENTITY masterpassword_create_title "Emoheñói ñe\u0027ẽñemi ha\u0027etéva">
 <!ENTITY masterpassword_remove_title "Ñe\u0027ẽñemi ha\u0027etéva mboguete">
 <!ENTITY masterpassword_password "Ñe\u0027ẽñemi">
-<!ENTITY masterpassword_confirm "Emoneĩ ñe\u0027ẽnemi">
+<!ENTITY masterpassword_confirm "Emoneĩ ñe\u0027ẽñemi">
 
 <!ENTITY button_ok "Moneĩ">
 <!ENTITY button_cancel "Heja">
 <!ENTITY button_yes "Hẽe">
 <!ENTITY button_no "Nahániri">
-<!ENTITY button_clear_data "Emopotĩ mba\u0027ekuaarã">
+<!ENTITY button_clear_data "Mba\u0027ekuaarã mopotĩ">
 <!ENTITY button_set "Mboheko">
 <!ENTITY button_clear "Mopotĩ">
-<!ENTITY button_copy "Mbohasarã">
+<!ENTITY button_copy "Monguatia">
 
 <!ENTITY home_top_sites_title "Py\u0027ỹigua">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -566,22 +566,22 @@ size. -->
 <!ENTITY home_synced_devices_number "&formatD; mba\u0027e\u0027oka">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 mba\u0027e\u0027oka">
-<!ENTITY home_history_back_to2 "Ejujey tembiasakue tuichavéva">
+<!ENTITY home_history_back_to2 "Ejujey tembiasakue tuichavévape">
 <!ENTITY home_clear_history_button "Embogue kundahára rembiasakue">
-<!ENTITY home_clear_history_confirm "Emboguetese añetépa tembiasakue">
-<!ENTITY home_bookmarks_empty "Techaukaha nepytyvõta ehechaukávo ko\u0027ápe.">
+<!ENTITY home_clear_history_confirm "Emboguetese añetete tembiasakue?">
+<!ENTITY home_bookmarks_empty "Techaukaha ñongatupure ehecháta ápe.">
 <!ENTITY home_closed_tabs_title "Tendayke oñembotyramovéva">
-<!ENTITY home_last_tabs_title "Tendayke ipahavéva">
-<!ENTITY home_last_tabs_empty "Ne tendayke ramovéva ojekuaa ko\u0027ápe.">
+<!ENTITY home_last_tabs_title "Tendayke ipaháva">
+<!ENTITY home_last_tabs_empty "Ne tendayke ramovéva ehecháta ápe.">
 <!ENTITY home_open_all "Mbojurujapaite">
 <!ENTITY home_most_recent_empty "Ñanduti renda eike ramove hague.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Nde!: eipurúrõ &formatS1;New Private Tab&formatS2; noñeñongatumo\u0027ãi ne rembiasakue.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: eipurúrõ &formatS1;New Private Tab&formatS2; noñeñongatumo\u0027ãi ne rembiasakue.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
-<!ENTITY home_default_empty "Mba\u0027eve ndojejuhúi ko mba\u0027erechahápe.">
+<!ENTITY home_default_empty "Mba\u0027eve tetepy ndojejuhúi ta\u0027ãngarupápe.">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
@@ -591,10 +591,10 @@ size. -->
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
 
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; mba\u0027e\u0027oka ñemigua">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; mba\u0027e\u0027oka kañypyre">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "Mba\u0027e\u0027oka kañyguáva">
+<!ENTITY home_remote_tabs_hidden_devices_title "Mba\u0027e\u0027oka kañypyre">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Ehechauka mba\u0027e\u0027oka poravopyre">
