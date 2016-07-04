@@ -8,12 +8,12 @@
 
 <!ENTITY privateBrowsing.title                           "Ukubhrawuza Kwangasese">
 <!ENTITY privateBrowsing.title.tracking                  "UBhrawuzo Lwabucala olunoKhuseleko Lokutreka">
-
-<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "musa ukugcina">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Xa ubhrawza kwiFestile yaNgasese, uFirefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "akagcini">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "amaphepha atyelelweyo">
 <!ENTITY aboutPrivateBrowsing.info.searches              "ukhangelo">
-<!ENTITY aboutPrivateBrowsing.info.cookies               "iikhukhi">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "iikuki">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "iifayile zexeshana">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "I-Firefox">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "iya kugcina">
