@@ -651,11 +651,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY bookmarkhistory_button_import "Mba\u0027ereru">
 <!ENTITY bookmarkhistory_import_both "Android rechaukaha ha rembiasakue jegueru">
-<!ENTITY bookmarkhistory_import_bookmarks "Emba\u0027ereru techaukaha Android guive">
-<!ENTITY bookmarkhistory_import_history "Emba\u0027ereru tembiasakue Android guive">
+<!ENTITY bookmarkhistory_import_bookmarks "Techaukaha Android guive jegueru">
+<!ENTITY bookmarkhistory_import_history "Tembiasakue Android guive jegueru">
 <!ENTITY bookmarkhistory_import_wait "Ikatúpiko eha\u0027ãrõmi…">
 
-<!ENTITY suggestions_prompt3 "Emyendysépa ñe\u0027ẽreka joguaha jehechauka?">
+<!ENTITY suggestions_prompt3 "Emyendyse ñe\u0027ẽreka joguaha jehechauka?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
@@ -667,13 +667,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
-<!ENTITY suggestion_for_engine "Eheka &formatS1;-pe &formatS2;">
+<!ENTITY suggestion_for_engine "Eheka &formatS1; &formatS2;-pe g̃uarã">
 
-<!ENTITY searchable_description "Techaukaha ha Tembiasakue">
+<!ENTITY searchable_description "Techaukaha ha tembiasakue">
 <!-- Updater notifications --> 
 
-<!ENTITY updater_start_title2 "Oĩma Tekopyahu &brandShortName;-pe g̃uarã">
-<!ENTITY updater_start_select2 "Epoko remboguejy hag̃ua">
+<!ENTITY updater_start_title2 "Hekopyahujeýma &brandShortName;">
+<!ENTITY updater_start_select2 "Epoko emboguejy hag̃ua">
 
 <!ENTITY updater_downloading_title2 "Emboguejyhína &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Ñemboguejy javypyre">
