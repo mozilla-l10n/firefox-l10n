@@ -793,18 +793,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY unsupported_sdk_version "¡Rombyasy! Ko &brandShortName; ndoikomo\u0027ãi ko mba\u0027e\u0027okápe (&formatS1;, &formatS2;). Ikatúpiko emboguejy peteĩchagua oikóva.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; hekopyahuve\u0027ỹmava">
-<!ENTITY eol_notification_summary "Epoko ko\u0027ápe eikuaave hag̃ua">
+<!ENTITY eol_notification_summary "Epoko eikuaave hag̃ua">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
 <!ENTITY whatsnew_notification_title "&brandShortName; hekopyahúma">
 <!ENTITY whatsnew_notification_summary "Eporandu mba\u0027e ipyahúvapa oĩ kóvape">
 
-<!ENTITY promotion_add_to_homescreen "Embojuaju mba\u0027erechaha ypýpe">
+<!ENTITY promotion_add_to_homescreen "Embojuaju mba\u0027erechaha momba\u0027evévare">
 
 <!ENTITY helper_first_offline_bookmark_title "Emoñe\u0027ẽ ñandutípe">
-<!ENTITY helper_first_offline_bookmark_message "Ejuhu nde Moñe\u0027ẽha Recha Jeguerohoryvévape, ikatu ñanduti\u0027ỹre avei.">
-<!ENTITY helper_first_offline_bookmark_button "Tereho techaukahápe">
+<!ENTITY helper_first_offline_bookmark_message "Ejuhu nde Moñe\u0027ẽha Recha Jeguerohoryvévape, ikatu ñanduti\u0027ỹre.">
+<!ENTITY helper_first_offline_bookmark_button "Eho techaukahápe">
 
 <!ENTITY helper_triple_readerview_open_title "Eipurukuaa ñandutípe">
 <!ENTITY helper_triple_readerview_open_message "Ehecha Bookmark Reader emoñe\u0027ẽ hag̃ua ñanduti\u0027ỹre.">

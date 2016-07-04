@@ -4,20 +4,20 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 
-<!ENTITY syncBrand.fullName.label "Sync Firefox">
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label;-pe jeike">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "Emyandy hag̃ua peteĩ mba\u0027e\u0027oka pyahu, eiporavo “Mboheho &syncBrand.shortName.label;\&quot; ne mba\u0027e\u0027okápe.">
+<!ENTITY sync.subtitle.connect.label "Emyandy hag̃ua peteĩ mba\u0027e\u0027oka pyahu, eiporavo “Mboheho &syncBrand.shortName.label;” ne mba\u0027e\u0027okápe.">
 <!ENTITY sync.subtitle.pair.label "Emyandy hag̃ua, eiporavo “Embojoja peteĩ mba\u0027e\u0027oka” pe ne ambue mba\u0027e\u0027okápe.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.link.nodevice.label "Che aguereko pe mba\u0027e\u0027oka chendive…">
+<!ENTITY sync.link.nodevice.label "Che ndaguerekói mba\u0027e\u0027oka chendive…">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.passwords2 "Emoñepyrũ tembiapo">
+<!ENTITY sync.configure.engines.title.passwords2 "Tembiapo moñepyrũ">
 <!ENTITY sync.configure.engines.title.history "Tembiasakue">
 <!ENTITY sync.configure.engines.title.tabs "Tendayke">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
@@ -26,16 +26,16 @@
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
 
-<!ENTITY sync.default.client.name "&formatS1; on &formatS2;">
+<!ENTITY sync.default.client.name "&formatS1; &formatS2;-pe">
 <!-- Bookmark folder strings -->
 
-<!ENTITY bookmarks.folder.menu.label "Techaukaha poravorã">
-<!ENTITY bookmarks.folder.places.label "Inglés">
+<!ENTITY bookmarks.folder.menu.label "Poravorã techaukaha rehegua">
+<!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Teramoĩ">
-<!ENTITY bookmarks.folder.toolbar.label "Techaukaha rembipuru renda">
+<!ENTITY bookmarks.folder.toolbar.label "Tembipuru renda techaukaha rehegua">
 <!ENTITY bookmarks.folder.other.label "Ambue techaukahakuéra">
-<!ENTITY bookmarks.folder.desktop.label "Techaukaha mba\u0027erechaha pegua">
-<!ENTITY bookmarks.folder.mobile.label "Pumbyry popegua rechaukaha">
+<!ENTITY bookmarks.folder.desktop.label "Techaukaha mba\u0027erechaha rehegua">
+<!ENTITY bookmarks.folder.mobile.label "Techaukaha Pumbyry popeguáva">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Mbojapyre">
 <!-- Firefox Account strings. -->
@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing "Ejevyjey kundahárape">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Eg̃uahẽporãite &syncBrand.shortName.label;-pe">
-<!ENTITY fxaccount_getting_started_description2 "Eñepyrũ tembiapo embojuehe hag̃ua tendaykekuéra, techaukaha, puruhára réra ha hetave mba\u0027e.">
+<!ENTITY fxaccount_getting_started_description2 "Eñepyrũ tembiapo embojuehe hag̃ua tendayke, techaukaha, ñe\u0027ẽñemi ha hetave.">
 <!ENTITY fxaccount_getting_started_get_started "Eñepyrũ">
 <!ENTITY fxaccount_getting_started_old_firefox "Eipuruhína apopy itujavéva &syncBrand.shortName.label; mba\u0027éva?">
 
