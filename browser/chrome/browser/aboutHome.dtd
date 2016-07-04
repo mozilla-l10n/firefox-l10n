@@ -14,11 +14,11 @@
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "Firefox चुनने के लिए आपका शुक्रिया! अपने ब्राउज़र का अधिक का अधिक फ़ायदा पाने के लिए, <a>नवीनतम सुविधाओं</a> के बारे में अधिक जानकारी लें">
+<!ENTITY abouthome.defaultSnippet1.v1 "Firefox चुनने के लिए आपका शुक्रिया! अपने ब्राउज़र का अधिक का अधिक फ़ायदा पाने के लिए, <a>नवीनतम सुविधाओं</a> के बारे में अधिक जानकारी लें.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "अपने Firefox को मनमुताबिक अनुकूलित करना अब आसान है. <a>हजारों सहयुक्तियों में से चुनें</a>">
+<!ENTITY abouthome.defaultSnippet2.v1 "अपने Firefox को मनमुताबिक अनुकूलित करना अब आसान है. <a>हजारों सहयुक्तियों में से चुनें</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; गैर लाभकारी Mozilla फाउन्डेशन का मुफ्त और मुक्त स्रोत सॉफ्टवेयर है. <a>अपने अधिकार जानें…</a>.">
 
