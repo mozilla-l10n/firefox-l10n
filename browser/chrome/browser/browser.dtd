@@ -61,21 +61,22 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "फाइल खोलें...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "ओ">
-
-
+<!ENTITY printSetupCmd.label "पृष्ठ व्यवस्थित…">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "छपाई पूर्वावलोकन">
 <!ENTITY printPreviewCmd.accesskey "v">
-
-
-<!ENTITY printCmd.commandkey "पी ">
+<!ENTITY printCmd.label "छापें...">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label " ऑफ़लाइन काम करें">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-
+<!ENTITY menubarCmd.label "मेन्यू पट्टी">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "संचरण औज़ारपट्टी">
-
-
+<!ENTITY personalbarCmd.label "पुस्तचिह्न औज़ारपट्टी">
+<!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label " औज़ारपट्टी मद पुस्तचिह्नित करता है">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "सभी टैब फिर लोड करें">
@@ -91,8 +92,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label " पृष्ठ सूचना">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "आई">
-
-
+<!ENTITY mirrorTabCmd.label "परछाई टैब">
+<!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "पूर्ण स्क्रीन में जाएँ">
@@ -102,8 +103,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.label "पूर्ण स्क्रीन">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-
-
+<!ENTITY showAllTabsCmd.label "सभी टैब दिखाएँ">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; में साइन इन करें">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; वरीयताएँ खोलें.">
@@ -114,8 +115,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenMinimize.tooltip " न्यूनतम करें">
 <!ENTITY fullScreenRestore.tooltip " फिर संग्रहित करें">
 <!ENTITY fullScreenClose.tooltip "बंद करें">
-
-
+<!ENTITY fullScreenAutohide.label "औज़ारपट्टी छिपाएँ">
+<!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "पूर्ण स्क्रीन मोड से बाहर निकलें">
 <!ENTITY fullScreenExit.accesskey "F">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -135,9 +136,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY leaveDOMFullScreen.label " पूर्ण स्क्रीन से निकलें">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
+<!ENTITY closeWindow.label "विंडो बंद करें">
+<!ENTITY closeWindow.accesskey "d">
 
-
-<!ENTITY bookmarksMenu.label " पुस्तचिह्न">
+<!ENTITY bookmarksMenu.label "पुस्तचिह्न">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "यह पृष्ठ पुस्तचिह्नित करें">
 <!ENTITY editThisBookmarkCmd.label "यह पुस्तचिह्न संपादित करें">
@@ -148,7 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "अधिक साझा सेवाओं का पता लगाएं ...">
 
-<!ENTITY sharePageCmd.commandkey "एस">
+<!ENTITY sharePageCmd.commandkey "S">
 
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "इस कड़ी को साझा करें.">
@@ -351,14 +353,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "मेन्यू में जोड़ें ">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
-
-
+<!ENTITY customizeMenu.moveToToolbar.label "औज़ार पट्टी की ओर खिसकाये">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-
+<!ENTITY customizeMenu.moveToPanel.label "मेन्यू की ओर खिसकाये">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "औजारपट्टी से मिटाएँ">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "मेन्यू से निकालें">
@@ -434,8 +437,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "खोज सेटिंग बदलाव">
 
-
-<!ENTITY searchSetAsDefault.label     "Default ख़ोज इंजिन की तरह स्थापित करें">
+<!ENTITY searchInNewTab.label         "नया टैब में खोजें ">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "डिफ़ॉल्ट ख़ोज इंजिन की तरह स्थापित करें">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       " नए टैब में कड़ी खोलें">
@@ -455,8 +459,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showOnlyThisFrameCmd.label     " सिर्फ यह फ्रेम दिखाएँ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "आर">
-<!ENTITY reloadFrameCmd.label         "फ्रेम लोड करें">
-<!ENTITY reloadFrameCmd.accesskey     "फ">
+<!ENTITY reloadFrameCmd.label         "ढाँचा फिर लोड करें">
+<!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "चयनित स्रोत देखें">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML स्रोत देखें">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
@@ -464,11 +468,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPartialSourceCmd.accesskey "ई">
 <!ENTITY viewPageSourceCmd.label      "पृष्ठ स्रोत देखें">
 <!ENTITY viewPageSourceCmd.accesskey  "प">
-
-
-<!ENTITY viewPageInfoCmd.label        "पृष्ठ &amp; सूचना देखें.">
+<!ENTITY viewFrameSourceCmd.label     "ढांचा स्रोत देखें">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "पृष्ठ सूचना देखें.">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.label       "फ्रेम &amp; सूचना देखें">
+<!ENTITY viewFrameInfoCmd.label       "ढांचा सूचना देखें">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "छवि फिर लोड करें">
 <!ENTITY reloadImageCmd.accesskey     "R">
