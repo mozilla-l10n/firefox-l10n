@@ -11,7 +11,7 @@
 <!ENTITY update.checkForUpdatesButton.label       "अद्यतन के लिए जाँच करे">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label2                "अद्यतन के लिए &brandShortName; को दुबारा शुरू करें.">
-<!ENTITY update.updateButton.accesskey            "आर">
+<!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "अद्यतन लागू करें… ">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -33,15 +33,15 @@
 <!ENTITY community.start2           "&brandShortName; बनाया गया है ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      " &vendorShortName;">
-<!ENTITY community.middle2          ",एक">
+<!ENTITY community.middle2          ", एक">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "वैश्विक समुदाय ">
 <!ENTITY community.end3             "जो वेब को खुला, सार्वजनिक और सभी की पहुँच के लिए बने रहने देने के लिए काम करते हैं. ">
 
 <!ENTITY helpus.start               "मदद करना चाहते हैं? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
-<!ENTITY helpus.donateLink          "एक दान करें">
-<!ENTITY helpus.middle              ",या">
+<!ENTITY helpus.donateLink          "दान करें">
+<!ENTITY helpus.middle              "या">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "शामिल हों!">
 <!ENTITY helpus.end                 "अथवा">
@@ -71,7 +71,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "अद्यतन विफल. ">
+<!ENTITY update.failed.start        "अद्यतन विफल.">
 <!ENTITY update.failed.linkText     " नवीनत संस्करण डाउनलोड करें">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -106,4 +106,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "आप अभी यहाँ हैं ">
-<!ENTITY channel.description.end    "चैनल अद्यतन करें|">
+<!ENTITY channel.description.end    "चैनल अद्यतन करें.">
