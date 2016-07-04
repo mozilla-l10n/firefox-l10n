@@ -43,7 +43,7 @@
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Førehandsvising:">
 
-<!ENTITY  feedTab               "Nyhendekjelder">
+<!ENTITY  feedTab               "Nyheitskjelder">
 <!ENTITY  feedTab.accesskey     "N">
 <!ENTITY  feedSubscribe         "Abonner">
 <!ENTITY  feedSubscribe.accesskey "A">
