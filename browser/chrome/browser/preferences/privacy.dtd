@@ -53,7 +53,7 @@
 <!ENTITY  expire.label                  "அவை காலாவதியாகிவிட்டது">
 <!ENTITY  close.label                   "நான் &brandShortName;ஐ மூடுகிறேன்">
 
-<!ENTITY  cookieExceptions.label        "விதிவிலக்குகள்…">
+<!ENTITY  cookieExceptions.label        "விதிவிலக்குகள்...">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
 <!ENTITY  showCookies.label             "நினைவிகளைக் காட்டு…">
