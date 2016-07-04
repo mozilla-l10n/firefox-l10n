@@ -676,32 +676,32 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_select2 "Epoko emboguejy hag̃ua">
 
 <!ENTITY updater_downloading_title2 "Emboguejyhína &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Ñemboguejy javypyre">
-<!ENTITY updater_downloading_select2 "Epoko reipuru hag̃ua oñemboguejypa rire">
-<!ENTITY updater_downloading_retry2 "Epoko reha\u0027ãjey hag̃ua">
+<!ENTITY updater_downloading_title_failed2 "Ñemboguejy ojavy">
+<!ENTITY updater_downloading_select2 "Epoko eipuru hag̃ua oguejypa rire">
+<!ENTITY updater_downloading_retry2 "Epoko eha\u0027ãjey hag̃ua">
 
-<!ENTITY updater_apply_title2 "Oĩma tekopyahurã &brandShortName;-pe g̃uarã">
-<!ENTITY updater_apply_select2 "Epoko rembohekopyahu hag̃ua">
+<!ENTITY updater_apply_title2 "Hekopyahujeýma &brandShortName;">
+<!ENTITY updater_apply_select2 "Epoko hekopyahu hag̃ua">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 
-<!ENTITY updater_permission_text "Embohekopyahu hag̃ua marandurenda ha tekopyahu, emoneĩ &brandShortName; oike hag̃ua mbyatyrendápe">
+<!ENTITY updater_permission_text "Emboguejy hag̃ua marandurenda ha tekopyahu, &brandShortName; emoneĩ oike hag̃ua ñembyatyhápe.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Moneĩ">
 <!-- Guest mode -->    
 
-<!ENTITY new_guest_session "Tembiapopa\u0027ũ Pepirũmbyre">
-<!ENTITY exit_guest_session "Tembiapopa\u0027ũ Pepirũmbyrégui ñese">
-<!ENTITY guest_session_dialog_continue "Ehove hese">
+<!ENTITY new_guest_session "Tembiapo Pyahu Pepirũmbyréva">
+<!ENTITY exit_guest_session "Tenda Pepirũmbyrévagui ñese">
+<!ENTITY guest_session_dialog_continue "Ku\u0027ejey">
 <!ENTITY guest_session_dialog_cancel "Heja">
 <!ENTITY new_guest_session_title "&brandShortName; oñepyrũjeýta">
-<!ENTITY new_guest_session_text2 "Tapicha oipurúva ndohechakuamo\u0027ãi oimeraẽva mba\u0027ekuaarã kundahára mba\u0027etéva rehegua (tembiapo ñepyrũramo, tembiasakue ýrõ techaukaha).\n\n Osẽ rire tapicha ñepepirũmbyre, oguepaitéta ne kundahára rapykuere ñanduti pegua ha tembiapo oikojeýta).">
-<!ENTITY guest_browsing_notification_title "Ñeikundaha pepirũguáva oñemyendýma">
+<!ENTITY new_guest_session_text2 "Tapicha oipurúva ndohechakuamo\u0027ãi oimeraẽva mba\u0027ekuaarã kundahára mba\u0027etéva (tembiapo ñepyrũramo, tembiasakue ýrõ techaukaha).\n\nOsẽ rire tapicha ñepepirũmbyre, oguepaitéta ne kundahára rapykuere ñanduti pegua ha tembiapo oikojeýta).">
+<!ENTITY guest_browsing_notification_title "Kundaha pepirũguáva hendýma">
 <!ENTITY guest_browsing_notification_text "Epoko esẽ hag̃ua">
 
-<!ENTITY exit_guest_session_title "&brandShortName; oñepyrũjeýta ko\u0027ág̃a">
-<!ENTITY exit_guest_session_text "Jeike hague mba\u0027ekuaarã ko kundahára pegua oguetéta.">
+<!ENTITY exit_guest_session_title "&brandShortName; oñepyrũjeýta">
+<!ENTITY exit_guest_session_text "Jeike mba\u0027ekuaarã rapekuere kundahára pegua oguetéta.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
@@ -733,15 +733,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 
-<!ENTITY remote_tabs_last_synced "Ñembojueheramovéva: &formatS;">
+<!ENTITY remote_tabs_last_synced "Mbojuehe paháva: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!ENTITY remote_tabs_never_synced "Ñembojueheramovéva: araka\u0027eve">
+<!ENTITY remote_tabs_never_synced "Mbojuehe paháva: araka\u0027eve">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
 
-<!ENTITY intent_uri_private_browsing_prompt "Ko joajuha ijurujáta &formatS;-pe. Añetépa resẽse Kundahára ñemígui?">
+<!ENTITY intent_uri_private_browsing_prompt "Ko joajuha ijurujáta &formatS;-pe. Añete resẽse ko Kundahára Ñemígui?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -757,42 +757,42 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
 
-<!ENTITY devtools_auth_scan_header "Ñehesa\u0027ỹijo QR ayvureñói ojehekáva oĩhína mba\u0027e\u0027oka ambuévape">
+<!ENTITY devtools_auth_scan_header "Ñehesa\u0027ỹijo QR ayvureñói ojehekáva oĩ mba\u0027e\u0027oka ambuévape">
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "Moĩmbahakuéra">
-<!ENTITY restrictable_feature_addons_installation_description "Embojuaju heseguáva térã tembiapoite Firefox rehe. Kuaarã: Umi moimbaha ikatu oipe\u0027aite ñemochi\u0027ĩ.">
+<!ENTITY restrictable_feature_addons_installation_description "Embojuaju heseguáva térã tembiapoite Firefox rehe. Kuaarã: Umi moĩmbaha ikatu oipe\u0027aite ñemochi\u0027ĩ.">
 <!ENTITY restrictable_feature_private_browsing "Kundahára Ñemi">
-<!ENTITY restrictable_feature_private_browsing_description "Emoneĩ nderogaygua oikundahávo oñongatu\u0027ỹre marandu tenda oike hague ha kuatiarogue eike hague ñandutípe.">
+<!ENTITY restrictable_feature_private_browsing_description "Emoneĩ nde rogayguápe oikundahávo oñongatu\u0027ỹre marandu tenda oike ha kuatiarogue oike hague ñandutípe.">
 <!ENTITY restrictable_feature_clear_history "Tembiasakue mboguete">
-<!ENTITY restrictable_feature_clear_history_description "Omoneĩ nde rogayguakuérape omboguetévo marandu tenda ha kuatiarogue ojeike hague rehegua.">
-<!ENTITY restrictable_feature_advanced_settings "Ñemoĩporã opapotámava">
-<!ENTITY restrictable_feature_advanced_settings_description "Ko\u0027ápe oike techaukaha, tendayke mbojevypyre ha ñembohekopyahu ijeheguíva. Embogue pe ñemoĩporãrã ojogueraháva nde rogaygua oimeraẽvape g̃uarã.">
-<!ENTITY restrictable_feature_camera_microphone "Ta\u0027ãnganohẽha ha Ñe\u0027ẽatãha">
-<!ENTITY restrictable_feature_camera_microphone_description "Emoneĩ nde rogayguakuérape oñomomarandu hag̃ua aravoitépe ñanduti renda rupive.">
-<!ENTITY restrictable_feature_block_list "jejoko rysýi">
-<!ENTITY restrictable_feature_block_list_description "Ejoko ñanduti renda ohechaukáva mba\u0027ekuaarã ivaikuaáva.">
+<!ENTITY restrictable_feature_clear_history_description "Omoneĩ nde rogayguakuérape omboguetévo marandu tenda ha kuatiarogue ojeike hague.">
+<!ENTITY restrictable_feature_advanced_settings "Ñemoĩporã opátama">
+<!ENTITY restrictable_feature_advanced_settings_description "Ko\u0027ápe oike techaukaha, tendayke mbojevypyre ha tekopyahu ijeheguíva. Embogue pe moĩporãrã ojogueraháva nde rogaygua oimeraẽvape g̃uarã.">
+<!ENTITY restrictable_feature_camera_microphone "Ta\u0027ãnganohẽ ha Ñe\u0027ẽatãha">
+<!ENTITY restrictable_feature_camera_microphone_description "Emoneĩ nde rogayguápe oñomomarandu hag̃ua aravoitépe ñanduti renda rupive.">
+<!ENTITY restrictable_feature_block_list "Jokoha Rysýi">
+<!ENTITY restrictable_feature_block_list_description "Ejoko ñanduti renda orekóva tetepy imarãkuaáva.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
 <!ENTITY bookmarks_about_browser "Firefox: Ne kundahára rehegua">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
-<!ENTITY bookmarks_addons "Firefox: Eñemomba\u0027ete hese moimbaha rupi">
+<!ENTITY bookmarks_addons "Firefox: Eñemomba\u0027ete moĩmbaha rupi">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: Pytyvõha">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
-<!ENTITY bookmarks_restricted_support2 "Firefox nepytyvõ ha ombohupa umi mba\u0027ete mochi\u0027ĩmbyre tableta Android-pe g̃uarã">
+<!ENTITY bookmarks_restricted_support2 "Firefox nepytyvõ ha ombohupa umi mba\u0027ete mochi\u0027ĩmbyre tableta Android guáva">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "Eipurukuaa ñanduti: Mozilla Webmaker">
+<!ENTITY bookmarks_restricted_webmaker "Eipuru Ñanduti: Mozilla Webmaker">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-<!ENTITY unsupported_sdk_version "¡Ambyasy! Ko &brandShortName; ndoikomo\u0027ãi ko mba\u0027e\u0027okápe (&formatS1;, &formatS2;). Ikatúpiko emboguejy peteĩchagua oikóva rehegua.">
+<!ENTITY unsupported_sdk_version "¡Rombyasy! Ko &brandShortName; ndoikomo\u0027ãi ko mba\u0027e\u0027okápe (&formatS1;, &formatS2;). Ikatúpiko emboguejy peteĩchagua oikóva.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; ani embohekopyahu">
+<!ENTITY eol_notification_title2 "&brandShortName; hekopyahuve\u0027ỹmava">
 <!ENTITY eol_notification_summary "Epoko ko\u0027ápe eikuaave hag̃ua">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
