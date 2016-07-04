@@ -8,7 +8,7 @@
 
 <!ENTITY privateBrowsing.title                           "Ukubhrawuza Kwangasese">
 <!ENTITY privateBrowsing.title.tracking                  "UBhrawuzo Lwabucala olunoKhuseleko Lokutreka">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "When you browse in a Private Window, Firefox ">
+
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "musa ukugcina">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "amaphepha atyelelweyo">
