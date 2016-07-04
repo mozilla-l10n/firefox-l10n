@@ -96,11 +96,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "з">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Повноекранний режим">
-<!ENTITY enterFullScreenCmd.accesskey "П">
+<!ENTITY enterFullScreenCmd.label "На весь екран">
+<!ENTITY enterFullScreenCmd.accesskey "е">
 <!ENTITY exitFullScreenCmd.label "Вийти з повноекранного режиму">
-<!ENTITY exitFullScreenCmd.accesskey "П">
-<!ENTITY fullScreenCmd.label "Повноекранний режим">
+<!ENTITY exitFullScreenCmd.accesskey "п">
+<!ENTITY fullScreenCmd.label "На весь екран">
 <!ENTITY fullScreenCmd.accesskey "е">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Показати всі вкладки">
