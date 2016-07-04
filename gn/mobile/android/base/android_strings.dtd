@@ -597,13 +597,13 @@ size. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "Mba\u0027e\u0027oka kañypyre">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "Ehechauka mba\u0027e\u0027oka poravopyre">
+<!ENTITY home_remote_tabs_unhide_selected_devices "Mba\u0027e\u0027oka poravopyre jehechauka">
 
-<!ENTITY remote_tabs_panel_moved_title "Moõ oho tendaykekuéra?">
+<!ENTITY remote_tabs_panel_moved_title "Moõ oho che tendaykekuéra?">
 <!ENTITY remote_tabs_panel_moved_desc "Roguerahapaite ne rendaykekuéra ambue mba\u0027e\u0027okagua peteĩ ta\u0027ãngarupa nde kuatiarogue pegua eike pya\u0027evévo ipype embojuruja vove tendayke pyahu.">
 <!ENTITY remote_tabs_panel_moved_link "Chereraha ta\u0027ãngarupa pyahúpe.">
 
-<!ENTITY pin_site_dialog_hint "Ehai ñe\u0027ẽñemi jehekarã">
+<!ENTITY pin_site_dialog_hint "Ehai ñe\u0027ẽ ñemi jehekarã">
 
 <!ENTITY filepicker_title "Eiporavo marandurenda">
 <!ENTITY filepicker_audio_title "Eiporavo térã eñongatu mba\u0027epu">
@@ -611,7 +611,7 @@ size. -->
 <!ENTITY filepicker_video_title "Eiporavo térã eñongatu ta\u0027ãngamýi">
 <!-- Site identity popup -->
 
-<!ENTITY identity_connected_to "Reikéma">
+<!ENTITY identity_connected_to "Eikéma">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -623,31 +623,31 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_connection_secure "Jeikekatu Hekorosãva">
-<!ENTITY identity_connection_insecure "Jeikekatu hekorosã\u0027ỹva">
-<!ENTITY identity_login_insecure "Ko kuatiatogue nahekorosãi ha nde puruhára réra oñembyaikuaa.">
-<!ENTITY identity_connection_chromeui "Kóvaniko &brandShortName; rogue hekorosãva">
+<!ENTITY identity_connection_secure "Jeike Tekorosãme">
+<!ENTITY identity_connection_insecure "Jeike hekorosã\u0027ỹva">
+<!ENTITY identity_login_insecure "Ko kuatiarogue nahekorosãi ha nde puruhára réra oñembyaikuaa.">
+<!ENTITY identity_connection_chromeui "&brandShortName; kuatiarogue hekorosãva">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all1 "&brandShortName; ojoko tetepy nahekorosãi rupi ko kuatiaroguépe.">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName; ojoko tetepymimi nahekorosãi rupi ko kuatiarogue.">
-<!ENTITY mixed_content_display_loaded1 "Ko kuatiarogue pehẽ nahekorosãmbái (ta\u0027ãngáramo).">
-<!ENTITY mixed_content_protection_disabled1 "Ndereguerekói ñemo\u0027ã mba\u0027e nahekorosãivagui.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ojoko tetepy hekorosã\u0027ỹva ko kuatiarogue pegua.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ojoko tetepy nahekorosãi rupi ko kuatiarogue pegua.">
+<!ENTITY mixed_content_display_loaded1 "Ko kuatiarogue pehẽ nahekorosãi (ta\u0027ãngáramo).">
+<!ENTITY mixed_content_protection_disabled1 "Nde eipe\u0027áma ñemo\u0027ã tetepy nahekorosãivagui.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY doorhanger_tracking_title2 "Tapykuereho ñemo\u0027ã">
-<!ENTITY doorhanger_tracking_state_enabled "Myendypyre">
+<!ENTITY doorhanger_tracking_title2 "Tapykueho ñemo\u0027ã">
+<!ENTITY doorhanger_tracking_state_enabled "Myandypyre">
 <!ENTITY doorhanger_tracking_state_disabled "Ojepuruve\u0027ỹva">
-<!ENTITY doorhanger_tracking_message_enabled1 "Ojejokókuri ohapykuehoséva rejapóva ñandutivevépe.">
+<!ENTITY doorhanger_tracking_message_enabled1 "Ojejokóma ehapykuehoséramo ejapóvakue ñandutípe.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Ko kuatiarogue oguereko mba\u0027epuru ohapykuehokuaáva ne kundahakue.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Eikuaave">
-<!ENTITY enable_protection "Emyandy ñemo\u0027ã">
-<!ENTITY disable_protection "Eipe\u0027aite ñemo\u0027ã">
+<!ENTITY enable_protection "Emyandy ñemo\u0027ãrã">
+<!ENTITY disable_protection "Eipe\u0027aite ñemo\u0027ãrã">
 
 <!ENTITY private_data_success "Mba\u0027ekuaarã ñemigua mopotĩpyre">
-<!ENTITY private_data_fail "Oĩ mba\u0027ekuaarã ñemigua ikatu\u0027ỹva oñemopotĩ ">
+<!ENTITY private_data_fail "Oĩ mba\u0027ekuaarã ñemigua ikatu\u0027ỹva oñemopotĩ">
 
 <!ENTITY bookmarkhistory_button_import "Mba\u0027ereru">
 <!ENTITY bookmarkhistory_import_both "Android rechaukaha ha rembiasakue jegueru">
