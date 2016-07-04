@@ -79,7 +79,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je sprječio učitavanje stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje..</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Greška oštećenog sadržajaCorrupted Content Error">
+<!ENTITY corruptedContentErrorv2.title "Greška oštećenog sadržaja">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Stranicu kojoj pokušavate pristupiti nije moguće prikazati zbog greške u prijenosu podataka.</p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul>">
 
 
