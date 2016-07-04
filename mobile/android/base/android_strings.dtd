@@ -290,7 +290,7 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
-<!ENTITY tab_queue_notification_settings "‍\&quot;ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಕೊಂಡಿಗಳನ್ನು ತೆರೆ\&quot;‌ಯಲು, ದಯವಿಟ್ಟು \u0027ಇತರೆ ಅನ್ವಯಗಳ ಮೇಲೆ ಚಿತ್ರಿಸು\u0027 ಅನುಮತಿಯನ್ನು ‍&brandShortName; ಗೆ ಸಕ್ರಿಯಗೊಳಿಸಿ">
+<!ENTITY tab_queue_notification_settings "‍\&quot;ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಕೊಂಡಿಗಳನ್ನು ತೆರೆ\&quot;‌ಯಲು, ದಯವಿಟ್ಟು \u0027ಇತರೆ ಅನ್ವಯಗಳ ಮೇಲೆ ಚಿತ್ರಿಸು\u0027 ಅನುಮತಿಯನ್ನು ‍&brandShortName; ಗೆ ಸಕ್ರಿಯಗೊಳಿಸಿ">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
