@@ -452,18 +452,18 @@ size. -->
 <!ENTITY page "Kuatiarogue">
 <!ENTITY tools "Tembipuru">
 <!ENTITY new_tab "Tendayke pyahu">
-<!ENTITY new_private_tab "Tendayke pyahu ñemiguáva">
+<!ENTITY new_private_tab "Tendayke pyahu ñemigua">
 <!ENTITY close_all_tabs "Embotypaite tendayke">
-<!ENTITY close_private_tabs "Emboty tendayke ñemiguáva">
+<!ENTITY close_private_tabs "Emboty tendayke ñemigua">
 <!ENTITY tabs_normal "Tendayke">
 <!ENTITY tabs_private "Ñemigua">
 <!ENTITY set_image_fail "Ndaikatúi emohenda ta\u0027ãnga">
-<!ENTITY set_image_path_fail "Ndaikatúi eñongatu pe ta\u0027ãnga">
+<!ENTITY set_image_path_fail "Ndaikatúi eñongatu ta\u0027ãnga">
 <!ENTITY set_image_chooser_title "Ta\u0027ãnga atýramo">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "Eheka kuatiaroguépe">
+<!ENTITY find_text "Kuatiaroguépe jejuhu">
 <!ENTITY find_prev "Mboyvegua">
 <!ENTITY find_next "Upeigua">
 <!ENTITY find_close "Mboty">
@@ -478,43 +478,43 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Eike peteĩ tendayke pyahúpe">
 <!ENTITY contextmenu_open_private_tab "Eike peteĩ tendayke ñemiguápe">
 <!ENTITY contextmenu_remove "Pe\u0027a">
-<!ENTITY contextmenu_add_to_launcher "Emoĩ mba\u0027erechaha ypýpe">
+<!ENTITY contextmenu_add_to_launcher "Embojuaju mba\u0027erechaha ñepyrũre">
 <!ENTITY contextmenu_share "Moherakuã">
-<!ENTITY contextmenu_pasteandgo "Emboja &amp; Go">
+<!ENTITY contextmenu_pasteandgo "Emboja &amp; Ho">
 <!ENTITY contextmenu_paste "Mboja">
-<!ENTITY contextmenu_copyurl "Emonguatia kundaharape">
+<!ENTITY contextmenu_copyurl "Kundaharape monguatia">
 <!ENTITY contextmenu_edit_bookmark "Mbosako\u0027i">
-<!ENTITY contextmenu_subscribe "Toguépe ñemboheraguapy">
-<!ENTITY contextmenu_site_settings "Tenda mbosako\u0027i ñemboheko">
+<!ENTITY contextmenu_subscribe "Eñemboheraguapy ko kuatiaroguépe">
+<!ENTITY contextmenu_site_settings "Tenda ñemboheko mbosako\u0027i">
 <!ENTITY contextmenu_top_sites_edit "Mbosako\u0027i">
 <!ENTITY contextmenu_top_sites_pin "Tenda papy">
 <!ENTITY contextmenu_top_sites_unpin "Tenda mosãso">
-<!ENTITY contextmenu_add_search_engine "Embojoapy Hekaha">
+<!ENTITY contextmenu_add_search_engine "Embojoapy hekaha mongu\u0027eha">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
-<!ENTITY doorhanger_login_no_username "[Puruhára réra]">
+<!ENTITY doorhanger_login_no_username "[Puruhára rera\u0027ỹre]">
 <!ENTITY doorhanger_login_edit_title "Jeikeha mbosako\u0027i">
 <!ENTITY doorhanger_login_edit_username_hint "Puruhára réra">
-<!ENTITY doorhanger_login_edit_password_hint "Ñe\u0027ẽnemi">
-<!ENTITY doorhanger_login_edit_toggle "Ñe\u0027ẽnemi jehechauka">
+<!ENTITY doorhanger_login_edit_password_hint "Ñe\u0027ẽñemi">
+<!ENTITY doorhanger_login_edit_toggle "Ñe\u0027ẽñemi jehechauka">
 <!ENTITY doorhanger_login_edit_toast_error "Ndaikatúi eñongatu jeikeha">
-<!ENTITY doorhanger_login_select_message "Emomokõi ñe\u0027ẽnemi &formatS;?">
+<!ENTITY doorhanger_login_select_message "Emonguatia ñe\u0027ẽñemi &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Ñe\u0027ẽñemi ohasáma kuatiajokohápe">
-<!ENTITY doorhanger_login_select_toast_copy_error "Ndaikatúi emonguatia ñe\u0027ẽnemi">
+<!ENTITY doorhanger_login_select_toast_copy_error "Ndaikatúi emonguatia ñe\u0027ẽñemi">
 <!ENTITY doorhanger_login_select_action_text "Eiporavo ambue tembiapo ñepyrũ">
-<!ENTITY doorhanger_login_select_title "Emonguatia ñe\u0027ẽnemi amo">
+<!ENTITY doorhanger_login_select_title "Emonguatia ñe\u0027ẽñemi amógui">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Emomba\u0027e tenda michĩva">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "Embotuichave joajuha ha myanyhẽha epoko rupi ijerére">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Embotuichave joajuha ha myanyhẽha epokokuévo ijerére">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Eikundaha mba\u0027erechaha tuichavévape">
-<!ENTITY pref_scroll_title_bar_summary2 "Eñomi &brandShortName; rembipuru renda emongu\u0027e jave kuatiatogue">
+<!ENTITY pref_scroll_title_bar_summary2 "Eñomi &brandShortName; rembipuru renda eñemongu\u0027e jave kuatiaroguépe">
 
 <!ENTITY pref_tab_queue_title3 "Tendayke ruguái">
 <!ENTITY pref_tab_queue_summary4 "Eñongatu joajuha eike jey peve &brandShortName;">
