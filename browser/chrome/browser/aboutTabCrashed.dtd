@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "Dårlege nyhende fyrst: Denne fana har krasja">
+<!ENTITY tabCrashed.header "Dårlege nyheiter først: Denne fana har krasja">
 <!ENTITY tabCrashed.message "Og no dei gode nyhenda: Du kan berre lata att denne fana, gjenoppretta henne, eller gjenoppretta alle krasja faner.">
-<!ENTITY tabCrashed.sendReport "Send ein krasjrapport for å hjelpa til med å hindra fleire dårlege nyhende">
+<!ENTITY tabCrashed.sendReport "Send ein krasjrapport for å hjelpa til med å hindra fleire dårlege nyheiter">
 <!ENTITY tabCrashed.includeURL "Ta med adressa til sida eg besøkte">
 <!ENTITY tabCrashed.commentPlaceholder "Legg til ein kommentar (kommentarar er offentleg synlege)">
 <!ENTITY tabCrashed.emailPlaceholder "Skriv inn e-postadressa di her">
