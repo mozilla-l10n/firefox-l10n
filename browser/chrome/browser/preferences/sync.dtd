@@ -1,19 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
 
+<!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "&syncBrand.fullName.label; అమర్చుము">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; అనునది మీరు మీ పరికరములు అన్నిటిపైన చరిత్రను, యిష్టాంశములను, సంకేతపదములను యాక్సెస్ చేయుటకు మరియు టాబ్‌లను తెరువుటకు అనుమతినిచ్చును.">
+
 <!-- The page shown when logged in... -->
+
 <!-- Login error feedback -->
-
-
 <!ENTITY updatePass.label             "నవీకరణ">
 <!ENTITY resetPass.label              "తిరిగివుంచు">
-<!-- Manage Account -->
 
+<!-- Manage Account -->
 <!ENTITY manageAccount.label          "ఖాతాను నిర్వహించు (n)">
 <!ENTITY manageAccount.accesskey      "n">
 <!ENTITY changePassword2.label        "సంకేతపదం మార్చు…">
@@ -35,8 +35,8 @@
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "పొడిగింతలు">
 <!ENTITY engine.addons.accesskey    "A">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "పరికరం పేరు (c):">
 <!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY fxaSyncDeviceName.label       "పరికరం పేరు">
@@ -44,28 +44,28 @@
 <!ENTITY cancelChangeSyncDeviceName.label "రద్దుచేయి">
 <!ENTITY saveChangeSyncDeviceName.label "దాచు">
 <!ENTITY unlinkDevice.label           "ఈ పరికరం లంకెతీయి">
-<!-- Footer stuff -->
 
+<!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "సేవా నిభందనలు">
 <!ENTITY prefs.ppLink.label         "గోప్యతా విదానం">
-<!-- Firefox Accounts stuff -->
 
+<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "గోప్యతా నోటీసు">
 <!ENTITY determiningAcctStatus.label     "మీ ఖాతా స్థితిని నిర్ధారిస్తున్నాం…">
+
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "నిర్థారించబడలేదు.">
+
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInLoginFailure.beforename.label "తిరిగిఅనుసంధానించుటకు సైన్ ఇన్ అవ్వండి">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
@@ -90,13 +90,19 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "సైన్ ఇన్">
 
 <!ENTITY signedIn.engines.label       "అన్ని పరికరాలు సింక్ చేయి">
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
-<!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 
+<!ENTITY mobilePromo3.start            " కోసం ఫైర్ఫాక్సు డౌన్లోడ్">
+<!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo3.androidLink      "ఆండ్రాయిడ్">
+
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 <!ENTITY mobilePromo3.iOSBefore         " లేదా ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo3.iOSLink          "iOS">
 
+<!ENTITY mobilePromo3.end              " మీ మొబైల్ పరికరంతో సింక్ చేయడానికి">
