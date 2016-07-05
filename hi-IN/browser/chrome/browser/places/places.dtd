@@ -5,7 +5,7 @@
 
 <!ENTITY places.library.title  "लाइब्रेरी">
 <!ENTITY places.library.width  "700">
-<!ENTITY places.library.height " 500">
+<!ENTITY places.library.height "500">
 <!ENTITY organize.label        "व्यवस्थित करें">
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "अपने पुस्तचिह्नों को व्यवस्थित करें">
