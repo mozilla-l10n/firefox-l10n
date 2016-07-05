@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE български
+#define MOZ_LANG_TITLE Английски (САЩ)
