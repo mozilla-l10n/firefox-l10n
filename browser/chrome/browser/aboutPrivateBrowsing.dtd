@@ -7,24 +7,24 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "যখন আপনি একটি ব্যক্তিগত উইন্ডো ব্রাউজ করেন, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "সংরক্ষিণ করবে না">
+
+<!ENTITY aboutPrivateBrowsing.info.visited               "দেখে ফেলা সাইটসমূহ">
 
 
 
 
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "সংরক্ষণ করা হবে">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " আপনার:">
 
 
+<!ENTITY aboutPrivateBrowsing.note.before                "ব্যাক্তিগত ব্রাউজিং ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "আপনাকে নামহীন করবে না ">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "এই সম্পর্কে আরও জানুন">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "ব্যাক্তিগত ব্রাউজিং">
 
 <!ENTITY trackingProtection.title                        "ট্র্যাকিং সুরক্ষা">
-
+<!ENTITY trackingProtection.description2                 "কিছু ওয়েবসাইট ট্র্যাক্যার ব্যবহার করে যেটা ইন্টারনেটের সাহায্যে আপনার কার্যকলাপ লক্ষ্য করতে পারে। ট্র্যাকিং প্রটেকসন ব্যবহার করে ফায়ারফক্স এমন অনেক ট্র্যাক্যার ব্লক করবে যারা আপনার ব্রাউসিং সম্পর্কে তথ্য সংগ্রহ করে।">
 

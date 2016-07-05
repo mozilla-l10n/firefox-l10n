@@ -167,7 +167,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "সব ট্যাব বুকমার্ক করা হবে…">
 <!ENTITY showAllBookmarks2.label "সব বুকমার্ক প্রদর্শন">
 
-
+<!ENTITY otherBookmarksCmd.label "অন্য বুকমার্কগুলো">
 <!ENTITY bookmarksToolbarChevron.tooltip "আরও বুকমার্ক প্রদর্শন">
 
 
@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "বুকমার্ক">
-
+<!ENTITY bookmarksMenuButton.other.label "অন্যান্য বুকমার্ক">
 <!ENTITY viewBookmarksSidebar2.label        "বুকমার্ক সাইডবার প্রদর্শন">
 <!ENTITY viewBookmarksToolbar.label         "বুকমার্ক টুলবার প্রদর্শন">
 
@@ -282,9 +282,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "কাটা (t)">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "অনুলিপি C">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "প্রতিলেপন (P)">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -343,7 +343,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.title "সিঙ্ক করা কোন ট্যাব নেই…এখনো!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "আপনি কি আপনার অন্যান্য ডিভাইসের ট্যাবসমূহ এখানে দেখতে চান?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "সিঙ্ক পছন্দসমূহ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "আপনার অন্যান্য ডিভাইসের ট্যাবের তালিকা দেখতে সাইন ইন করুন।">
 <!ENTITY appMenuRemoteTabs.signin.label "সিঙ্ক করতে সাইন ইন করুন">
@@ -732,7 +733,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "আপনার অন্যান্য ডিভাইসের ট্যাবের তালিকা দেখতে, ট্যাব সিংক বৈশিষ্ট্যটি চালু করে দিন।">
 
-
+<!ENTITY syncedTabs.context.open.label                       "খুলুন O">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
 
 
 
