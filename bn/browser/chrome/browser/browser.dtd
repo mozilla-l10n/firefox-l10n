@@ -680,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "নিরাপদ সংযোগ">
 <!ENTITY identity.connectionNotSecure "সংযোগ নিরাপদ নয়">
 <!ENTITY identity.connectionFile "এই পাতা আপনার কম্পিউটারে জমা হয়েছে।">
-
+<!ENTITY identity.connectionVerified2 "আপনি নিরাপদে এই সাইটে সংযুক্ত, যার মালিক:">
 <!ENTITY identity.connectionInternal "এটি একটি সুরক্ষিত &brandShortName; পৃষ্ঠা।">
 <!ENTITY identity.insecureLoginForms2 "এই পেজে লগইন করতে যে তথ্য দিয়েছেন তা চুরি হতে পারে।">
 <!-- Strings for connection state warnings. -->
