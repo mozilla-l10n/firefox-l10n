@@ -69,7 +69,7 @@
 <!ENTITY fxaccount_status_bookmarks 'Blêdwizers'>
 <!ENTITY fxaccount_status_history 'Skiednis'>
 <!ENTITY fxaccount_status_passwords2 'Oanmeldingen'>
-<!ENTITY fxaccount_status_tabs 'Iepene ljepblêden'>
+<!ENTITY fxaccount_status_tabs 'Iepen ljepblêden'>
 <!ENTITY fxaccount_status_legal 'Juridysk' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:

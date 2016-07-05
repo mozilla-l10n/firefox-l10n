@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "Wachtsje op oare apparaat…">
 
 <!ENTITY sync.pair.title            "In apparaat keppelje">
-<!ENTITY sync.pair.description      "Selektearje &#x0022;Sync ynstelle&#x0022; op jo nije apparaat om it te aktivearjen.">
+<!ENTITY sync.pair.description      "Selektearje ‘Sync ynstelle’ op jo nije apparaat om it te aktivearjen.">
 <!ENTITY sync.setup.close           "Slute">
 <!ENTITY sync.setup.waitingdownload "Jo gegevens wurde no op de achtergrûn download. Jo kinne dit finster op elk winske momint slute.">
