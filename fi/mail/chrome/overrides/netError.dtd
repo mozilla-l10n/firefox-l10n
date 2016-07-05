@@ -37,6 +37,13 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Tiedoston käyttö on estetty">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Se on voitu poistaa tai siirtää, tai siihen ei ole käyttöoikeutta.</li>
+</ul>
+">
+
 <!ENTITY generic.title "Verkkopyyntöä ei kyetä toteuttamaan">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; ei kykene lataamaan sivua jostain syystä.</p>
@@ -157,28 +164,11 @@
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Epäilty hyökkäyssivusto!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Hyökkäyssivustot yrittävät asentaa tietokoneellesi ohjelmia, jotka keräävät henkilötietoja, käyttävät tietokonettasi toisiin tietokoneisiin kohdistuviin hyökkäyksiin tai muuten vahingoittavat tietokonettasi.</p>
-<p>Sivuston omistajat, joiden sivusto on virheellisesti ilmoitettu hyökkäyssivustoksi, voivat <a href='http://www.stopbadware.org/home/reviewinfo' >anoa sivuston tilan tarkistamista</a>.</p>
-">
-
-<!ENTITY unwantedBlocked.title "Epäilty ei-haluttuja sovelluksia jakeleva sivusto!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>Sivustot, jotka jakelevat ei haluttuja sovelluksia yrittävät asentaa tietokoneellesi sovelluksia, jotka ovat petollisia tai vaikuttavat järjestelmään odottamattomalla tavalla.</p>
-">
-
-<!ENTITY phishingBlocked.title "Epäilty huijaussivusto!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Henkilötietojen kirjoittaminen tälle sivulle voi johtaa identiteettivarkauteen tai johonkin muuhun petokseen.</p>
-<p>Tämän tyyppiset verkkohuijaukset ovat osa phishing- tai khalastushuijauksia, joissa sivuilla tai sähköposteilla yritetään jäljitellä mahdollisesti luottamiesi toimijoiden viestintää.</p>
-">
-
 <!ENTITY cspBlocked.title "Sisällön tietosuojakäytännön estämä">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; esti tämän sivun latautumisen tässä yhteydessä, koska sivun sisällön tietosuojakäytäntö kieltää sen.</p>">
 
-<!ENTITY corruptedContentError.title "Sisältö vioittunut virhe">
-<!ENTITY corruptedContentError.longDesc "<p>Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Sisältö vioittunut -virhe">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Tai lisää poikkeussääntö…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Siirry pois sivulta">
@@ -198,3 +188,8 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "XUL-koodia etänä">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Yhteys ei ole turvalliinen">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> käyttää tietosuojateknologiaa, joka on vanhentunut ja hyökkäyksille haavoittuvainen. Hyökkääjä voisi helposti lukea tietoja, joiden luulit olevan suojattuja. Sivuston ylläpitäjän on korjattava tilanne, ennen kuin voit vierailla sivustolla.</p><p>Virhekoodi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

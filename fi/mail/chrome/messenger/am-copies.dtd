@@ -4,10 +4,10 @@
 
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label  "Kopiot ja kansiot">
-<!ENTITY sendingPrefix.label  "Lähetettäessä viestiä">
-<!ENTITY fccMailFolder.label  "Luo kopio kansioon:">
-<!ENTITY fccMailFolder.accesskey  "L">
+<!ENTITY copyAndFolderTitle.label "Kopiot ja kansiot">
+<!ENTITY sendingPrefix.label "Lähetettäessä viestiä">
+<!ENTITY fccMailFolder.label "Luo kopio kansioon:">
+<!ENTITY fccMailFolder.accesskey "L">
 <!ENTITY fccReplyFollowsParent.label "Tallenna vastaukset kansioon, jossa on viesti, johon vastataan">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
@@ -15,16 +15,16 @@
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Erottele osoitteet pilkuilla">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label  "Lähetä piilokopio (Bcc) näihin osoitteisiin:">
-<!ENTITY bccAddress.accesskey  "h">
+<!ENTITY bccAddress.label "Lähetä piilokopio (Bcc) näihin osoitteisiin:">
+<!ENTITY bccAddress.accesskey "h">
 <!ENTITY bccAddressList.placeholder "Erottele osoitteet pilkuilla">
-<!ENTITY saveMessageDlg.label  "Kysy vahvistus viestejä tallennettaessa">
-<!ENTITY saveMessageDlg.accesskey  "K">
+<!ENTITY saveMessageDlg.label "Kysy vahvistus viestejä tallennettaessa">
+<!ENTITY saveMessageDlg.accesskey "K">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label  "Lähetetyt, tilillä:">
-<!ENTITY sentFolderOn.accesskey  "ä">
-<!ENTITY sentInOtherFolder.label  "Muu:">
-<!ENTITY sentInOtherFolder.accesskey  "M">
+<!ENTITY sentFolderOn.label "Lähetetyt, tilillä:">
+<!ENTITY sentFolderOn.accesskey "ä">
+<!ENTITY sentInOtherFolder.label "Muu:">
+<!ENTITY sentInOtherFolder.accesskey "M">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Viestiarkistot">
 <!ENTITY keepArchives.label "Arkistoi viestit kansioon:">
@@ -36,12 +36,12 @@
 <!ENTITY archiveInOtherFolder.label "Muu:">
 <!ENTITY archiveInOtherFolder.accesskey "M">
 <!ENTITY specialFolders.label "Luonnokset ja mallipohjat ">
-<!ENTITY keepDrafts.label "Säilytä viestien luonnokset kansiossa:">
+<!ENTITY keepDrafts2.label "Säilytä viestien luonnokset kansiossa:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label  "Luonnokset, tilillä:">
-<!ENTITY draftsFolderOn.accesskey  "u">
-<!ENTITY draftInOtherFolder.label  "Muu:">
-<!ENTITY draftInOtherFolder.accesskey  "M">
+<!ENTITY draftsFolderOn.label "Luonnokset, tilillä:">
+<!ENTITY draftsFolderOn.accesskey "u">
+<!ENTITY draftInOtherFolder.label "Muu:">
+<!ENTITY draftInOtherFolder.accesskey "M">
 <!ENTITY keepTemplates.label "Säilytä viestien mallipohjat kansiossa:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "&quot;Mallipohjat&quot;, tilillä:">
