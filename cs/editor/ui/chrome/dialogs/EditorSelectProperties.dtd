@@ -37,7 +37,7 @@
 <!ENTITY AddOptGroup.accesskey "s">
 <!ENTITY RemoveElement.label "Odebrat">
 <!ENTITY RemoveElement.accesskey "O">
-<!ENTITY MoveElementUp.label "Přesunout výše">
+<!ENTITY MoveElementUp.label "Posunout výše">
 <!ENTITY MoveElementUp.accesskey "v">
-<!ENTITY MoveElementDown.label "Přesunout níže">
+<!ENTITY MoveElementDown.label "Posunout níže">
 <!ENTITY MoveElementDown.accesskey "n">

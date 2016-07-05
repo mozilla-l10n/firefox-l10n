@@ -119,7 +119,7 @@
 <!ENTITY showTabsToolbarCmd.label "Lišta panelů">
 <!ENTITY showTabsToolbarCmd.accesskey "n">
 
-<!ENTITY messagePaneLayoutStyle.label "Rozmístění">
+<!ENTITY messagePaneLayoutStyle.label "Rozložení">
 <!ENTITY messagePaneLayoutStyle.accesskey "R">
 <!ENTITY messagePaneClassic.label "Klasický pohled">
 <!ENTITY messagePaneClassic.accesskey "K">

@@ -27,7 +27,7 @@
 
 <!ENTITY network.hint.label "Vložte název sítě nebo serveru (možno i včetně portu) a kanál pro připojení.">
 
-<!ENTITY col.network "Sít">
+<!ENTITY col.network "Síť">
 <!ENTITY col.name "Název">
 <!ENTITY col.users "Uživatelé">
 <!ENTITY col.topic "Téma">

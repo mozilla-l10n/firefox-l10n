@@ -47,7 +47,7 @@
 <!-- View Menu -->
 <!ENTITY showAbToolbarCmd.label "Lišta adresáře">
 <!ENTITY showAbToolbarCmd.accesskey "n">
-<!ENTITY layoutMenu.label "Rozmístění">
+<!ENTITY layoutMenu.label "Rozložení">
 <!ENTITY layoutMenu.accesskey "R">
 <!ENTITY showDirectoryPane.label "Panel adresáře">
 <!ENTITY showDirectoryPane.accesskey "a">

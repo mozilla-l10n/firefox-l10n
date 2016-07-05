@@ -14,13 +14,13 @@
 <!ENTITY resetPass.label              "Obnovit">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Správa účtu">
+<!ENTITY manageAccount.label          "Spravovat účet">
 <!ENTITY manageAccount.accesskey      "S">
 <!ENTITY changePassword2.label        "Změnit heslo…">
 <!ENTITY myRecoveryKey.label          "Obnovovací klíč">
 <!ENTITY resetSync2.label             "Změnit typ synchronizace…">
 
-<!ENTITY pairDevice.label             "Připojit nové zařízení">
+<!ENTITY pairDevice.label             "Připojit zařízení">
 
 <!ENTITY syncMy.label               "Synchronizovat">
 <!ENTITY engine.bookmarks.label     "Záložky">
@@ -50,7 +50,7 @@
 <!ENTITY prefs.ppLink.label         "Zásady ochrany soukromí">
 
 <!-- Firefox Accounts stuff -->
-<!ENTITY fxaPrivacyNotice.link.label "Poznámka k soukromí">
+<!ENTITY fxaPrivacyNotice.link.label "Zásady ochrany soukromí">
 <!ENTITY determiningAcctStatus.label     "Získávání informací o stavu vašeho účtu…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,

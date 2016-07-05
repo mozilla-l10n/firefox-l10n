@@ -57,7 +57,7 @@
 <!ENTITY font.langGroup.malayalam "Malajálamština">
 <!ENTITY font.langGroup.math                     "Matematika">
 <!-- Minimum font size -->
-<!ENTITY minSize.label "Minimální velikost fontů:">
+<!ENTITY minSize.label "Minimální velikost písma:">
 <!ENTITY minSize.accesskey "M">
 <!ENTITY minSize.none "Žádná">
 

@@ -135,7 +135,7 @@
 <!ENTITY customizeToolbar.label "Přizpůsobit…">
 <!ENTITY customizeToolbar.accesskey "z">
 
-<!ENTITY messagePaneLayoutStyle.label "Rozmístění">
+<!ENTITY messagePaneLayoutStyle.label "Rozložení">
 <!ENTITY messagePaneLayoutStyle.accesskey "R">
 <!ENTITY messagePaneClassic.label "Klasický pohled">
 <!ENTITY messagePaneClassic.accesskey "K">
@@ -556,7 +556,7 @@
 <!ENTITY deleteButton.tooltip "Smaže označené zprávy nebo složky">
 <!ENTITY undeleteButton.tooltip "Obnoví označené zprávy">
 <!ENTITY markButton.tooltip "Označí zprávu">
-<!ENTITY printButton.tooltip "Vytiskne tuto zprávu">
+<!ENTITY printButton.tooltip "Vytiskne zprávu">
 <!ENTITY stopButton.tooltip "Zastaví probíhající akci">
 <!ENTITY junkButton.tooltip "Označí vybrané zprávy jako nevyžádané">
 <!ENTITY notJunkButton.tooltip "Označí vybrané zprávy jako běžné">

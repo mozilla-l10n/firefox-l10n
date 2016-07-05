@@ -30,7 +30,7 @@
 <!ENTITY neverRemove.label "Nikdy">
 
 <!ENTITY finishedBehavior.label "Když se dokončí stahování">
-<!ENTITY playSound.label "Přehrát zvukový soubor">
+<!ENTITY playSound.label "Přehrát zvuk">
 <!ENTITY playSound.accesskey "h">
 <!ENTITY showAlert.label "Zobrazit výstrahu">
 <!ENTITY showAlert.accesskey "b">

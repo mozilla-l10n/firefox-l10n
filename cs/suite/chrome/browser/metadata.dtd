@@ -6,7 +6,7 @@
 
 <!ENTITY caption.label "Vlastnosti prvku">
 <!ENTITY image-sec.label "Vlastnosti obrázku">
-<!ENTITY image-url.label "Umístění:">
+<!ENTITY image-url.label "Adresa:">
 <!ENTITY image-desc.label "Popis:">
 <!ENTITY image-alt.label "Alternativní text:">
 <!ENTITY image-width.label "Šířka:">

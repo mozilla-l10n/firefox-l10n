@@ -88,8 +88,8 @@
 <!ENTITY size-smallCmd.accesskey "l">
 <!ENTITY size-mediumCmd.label "Střední">
 <!ENTITY size-mediumCmd.accesskey "d">
-<!ENTITY size-largeCmd.label "Větší">
-<!ENTITY size-largeCmd.accesskey "t">
+<!ENTITY size-largeCmd.label "Velké">
+<!ENTITY size-largeCmd.accesskey "k">
 <!ENTITY size-extraLargeCmd.label "Extra velké">
 <!ENTITY size-extraLargeCmd.accesskey "x">
 <!ENTITY size-hugeCmd.label "Obrovské">

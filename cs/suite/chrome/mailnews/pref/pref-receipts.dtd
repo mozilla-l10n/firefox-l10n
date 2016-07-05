@@ -9,7 +9,7 @@
 <!ENTITY requestReceipt.label "Při odesílání zpráv vždy vyžadovat potvrzení o přečtení">
 <!ENTITY requestReceipt.accesskey "d">
 <!ENTITY receiptArrive.label " Při přijetí potvrzení">
-<!ENTITY leaveIt.label "Ponechat jej ve složce Doručená pošta">
+<!ENTITY leaveIt.label "Ponechat ve složce Doručená pošta">
 <!ENTITY leaveIt.accesskey "P">
 <!ENTITY moveToSent.label "Přesunout jej do složky „Odeslaná pošta“">
 <!ENTITY moveToSent.accesskey "s">

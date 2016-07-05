@@ -15,11 +15,11 @@
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Instalace aktualizace">
 <!ENTITY aboutPage.faq.label "Časté otázky">
 <!ENTITY aboutPage.support.label "Podpora">
-<!ENTITY aboutPage.privacyPolicy.label "Zásady ochrany soukromí">
+<!ENTITY aboutPage.privacyPolicy.label "Ochrana soukromí">
 <!ENTITY aboutPage.rights.label "Poznejte svá práva">
 <!ENTITY aboutPage.relNotes.label "Poznámky k vydání">
 <!ENTITY aboutPage.credits.label "Autoři">
-<!ENTITY aboutPage.license.label "Informace o licenci">
+<!ENTITY aboutPage.license.label "Licence">
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 <!ENTITY aboutPage.logoTrademark                "Firefox a logo Firefox jsou obchodními známkami organizace Mozilla Foundation.">

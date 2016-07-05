@@ -100,12 +100,12 @@
 <!ENTITY thisFrameMenu.accesskey      "t">
 <!ENTITY mediaPlay.label              "Přehrát">
 <!ENTITY mediaPlay.accesskey          "P">
-<!ENTITY mediaPause.label             "Zastavit">
-<!ENTITY mediaPause.accesskey         "Z">
-<!ENTITY mediaMute.label              "Ztlumit">
-<!ENTITY mediaMute.accesskey          "t">
-<!ENTITY mediaUnmute.label            "Vypnout ztlumení">
-<!ENTITY mediaUnmute.accesskey        "V">
+<!ENTITY mediaPause.label             "Pozastavit">
+<!ENTITY mediaPause.accesskey         "z">
+<!ENTITY mediaMute.label              "Vypnout zvuk">
+<!ENTITY mediaMute.accesskey          "z">
+<!ENTITY mediaUnmute.label            "Zapnout zvuk">
+<!ENTITY mediaUnmute.accesskey        "z">
 <!ENTITY mediaPlaybackRate.label        "Rychlost přehrávání">
 <!ENTITY mediaPlaybackRate.accesskey    "R">
 <!ENTITY mediaPlaybackRate050.label     "Pomalé přehrávání (½×)">

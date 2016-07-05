@@ -18,7 +18,7 @@
 <!ENTITY resetPass.accesskey "O">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label "Správa účtu">
+<!ENTITY manageAccount.label "Spravovat účet">
 <!ENTITY manageAccount.accesskey "S">
 <!ENTITY viewQuota.label "Zobrazit kvótu">
 <!ENTITY viewQuota.accesskey "Z">

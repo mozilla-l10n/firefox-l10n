@@ -9,10 +9,10 @@
 <!ENTITY fieldMapImport.next.accesskey "D">
 <!ENTITY fieldMapImport.previous.label "Předchozí">
 <!ENTITY fieldMapImport.previous.accesskey "P">
-<!ENTITY fieldMapImport.text "Použijte Přesunout níže nebo výše pro spojení správných polí v kontaktech na levé straně a polí pro import na pravé straně. Položky, které nechcete importovat, odznačte. ">
-<!ENTITY fieldMapImport.up.label "Přesunout výše">
+<!ENTITY fieldMapImport.text "Použijte Posunout níže nebo výše pro spojení správných polí v kontaktech na levé straně a polí pro import na pravé straně. Položky, které nechcete importovat, odznačte.">
+<!ENTITY fieldMapImport.up.label "Posunout výše">
 <!ENTITY fieldMapImport.up.accesskey "v">
-<!ENTITY fieldMapImport.down.label "Přesunout níže">
+<!ENTITY fieldMapImport.down.label "Posunout níže">
 <!ENTITY fieldMapImport.down.accesskey "n">
 <!ENTITY fieldMapImport.fieldListTitle "Položky kontaktů">
 <!ENTITY fieldMapImport.dataTitle "Označit data pro import">

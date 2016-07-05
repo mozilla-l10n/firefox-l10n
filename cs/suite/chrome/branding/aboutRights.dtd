@@ -48,7 +48,7 @@
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Služby doplňků: ">
 <!ENTITY rights.addons-b "Ve výchozím nastavení &brandShortName; navrhuje doplňky na stránce &view.discover.label; a v pravidelných intervalech kontroluje jejich aktualizace. Pokud si přejete tyto funkce zakázat a zamezit tak přenosu informací o nainstalovaných doplňcích na server, postupujte podle těchto kroků:">
-<!ENTITY rights.addons-term1 "Otevřít předvolby aplikace">
+<!ENTITY rights.addons-term1 "Otevřete předvolby aplikace">
 <!ENTITY rights.addons-term2 "Klepněte na kartu &smart.label; v kategorii &advance.label;">
 <!ENTITY rights.addons-term3 "Zrušte zaškrtnutí předvolby &quot;&autoAddOnsUpdates.label;&quot; a &quot;&enablePersonalized.label;&quot;">
 <!ENTITY rights.addons-term4 "Služby doplňků jsou nyní vypnuty">

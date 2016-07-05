@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Používat tento certifikát pro elektronický podpis odesílaných zpráv:">
 
 <!ENTITY certificates.label "Certifikáty">
-<!ENTITY manageCerts2.label "Spravovat certifikáty">
+<!ENTITY manageCerts2.label "Spravovat certifikáty…">
 <!ENTITY manageCerts2.accesskey "f">
-<!ENTITY manageDevices.label "Bezpečnostní zařízení">
+<!ENTITY manageDevices.label "Spravovat bezpečnostní zařízení…">
 <!ENTITY manageDevices.accesskey "p">

@@ -5,7 +5,7 @@
 <!ENTITY toField4.label "Komu">
 <!ENTITY fromField4.label "Od">
 <!ENTITY senderField4.label "Odesílatel">
-<!ENTITY organizationField4.label "Organizace">
+<!ENTITY organizationField4.label "Společnost">
 <!ENTITY replyToField4.label "Odpověď">
 
 <!ENTITY subjectField4.label "Předmět">
@@ -49,13 +49,13 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Vždy zobrazit Odpovědět odesílateli">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "V">
 
-<!ENTITY otherActionsButton2.label "Další">
+<!ENTITY otherActionsButton2.label "Více">
 <!ENTITY otherActionsButton.tooltip "Další akce">
-<!ENTITY otherActionsOpenConversation1.label "Otevřít jako konverzaci">
+<!ENTITY otherActionsOpenConversation1.label "Otevřít v konverzaci">
 <!ENTITY otherActionsOpenConversation1.accesskey "k">
 <!ENTITY otherActionsOpenInNewWindow1.label "Otevřít v novém okně">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "O">
-<!ENTITY otherActionsOpenInNewTab1.label "Otevřít v panelu">
+<!ENTITY otherActionsOpenInNewTab1.label "Otevřít v novém panelu">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "p">
 <!ENTITY markAsReadMenuItem1.label "Označit jako přečtená">
 <!ENTITY markAsReadMenuItem1.accesskey "z">
@@ -65,7 +65,7 @@
 <!ENTITY saveAsMenuItem1.accesskey "U">
 <!ENTITY viewSourceMenuItem1.label "Zobrazit zdrojový kód…">
 <!ENTITY viewSourceMenuItem1.accesskey "r">
-<!ENTITY otherActionsPrint1.label "Tisknout">
+<!ENTITY otherActionsPrint1.label "Tisk…">
 <!ENTITY otherActionsPrint1.accesskey "T">
 
 <!-- Attachment bar context menu items -->
@@ -103,7 +103,7 @@
 
 <!ENTITY CopyMessageId.label "Kopírovat id zprávy">
 <!ENTITY CopyMessageId.accesskey "K">
-<!ENTITY OpenMessageForMsgId.label "Otevřít zprávu pro id">
+<!ENTITY OpenMessageForMsgId.label "Otevřít zprávu s id">
 <!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "Otevřít prohlížeč s id zprávy">
 <!ENTITY OpenBrowserWithMsgId.accesskey "p">
