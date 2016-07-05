@@ -87,7 +87,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "ब्राउज़र क्रोम और ऐड-ऑन डिबगिंग टूलबॉक्स को सक्षम करें">
-<!ENTITY options.enableChrome.tooltip3  "इस विकल्प को चालू करना आपको ब्राउज़र संदर्भ में कई डेवलपर टूल को उपयोग करने की स्वीकृति देगा(via Tools > Web Developer > Browser Toolbox) और सहयुक्ति प्रबंधक से उन्हें डिबग करेगा">
+
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -97,8 +97,6 @@
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableWorkers.label    "कामगार डिबगिंग सक्रिय करें (in development)">
 <!ENTITY options.enableWorkers.tooltip  "इस विकल्प को चालू डिबग श्रमिकों के लिए डेवलपर उपकरण की अनुमति देगा">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and

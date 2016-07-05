@@ -262,8 +262,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         " फ़ाइल"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "नया Container टैब">
-<!ENTITY newUserContext.accesskey         "C">
+
+
 <!ENTITY newNavigatorCmd.label        " नया विंडो">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">

@@ -8,7 +8,6 @@
 <!ENTITY treehead.list.label          "सूचीसूची">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.cancel.label          "Cancel">
-<!ENTITY button.cancel.accesskey      "C">
-<!ENTITY button.ok.label              "Sava परिवर्तन">
-<!ENTITY button.ok.accesskey          "S">
+
+
+
