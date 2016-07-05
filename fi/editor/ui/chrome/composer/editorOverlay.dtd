@@ -78,24 +78,22 @@
 <!ENTITY increaseFontSize.label "Suurempi">
 <!ENTITY increaseFontSize.accesskey "S">
 <!ENTITY incrementFontSize.key "+">
-<!ENTITY incrementFontSize.key2 "?"> <!-- + is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "?"> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Koko">
 <!ENTITY fontSizeMenu.accesskey "o">
-<!ENTITY size-xx-smallCmd.label "Erittäin pieni">
-<!ENTITY size-xx-smallCmd.accesskey "E">
-<!ENTITY size-x-smallCmd.label "Hyvin pieni">
-<!ENTITY size-x-smallCmd.accesskey "H">
+<!ENTITY size-tinyCmd.label "Pienin">
+<!ENTITY size-tinyCmd.accesskey "P">
 <!ENTITY size-smallCmd.label "Pieni">
 <!ENTITY size-smallCmd.accesskey "n">
 <!ENTITY size-mediumCmd.label "Keskikokoinen">
 <!ENTITY size-mediumCmd.accesskey "K">
 <!ENTITY size-largeCmd.label "Suuri">
 <!ENTITY size-largeCmd.accesskey "u">
-<!ENTITY size-x-largeCmd.label "Hyvin suuri">
-<!ENTITY size-x-largeCmd.accesskey "v">
-<!ENTITY size-xx-largeCmd.label "Erittäin suuri">
-<!ENTITY size-xx-largeCmd.accesskey "r">
+<!ENTITY size-extraLargeCmd.label "Suurempi">
+<!ENTITY size-extraLargeCmd.accesskey "u">
+<!ENTITY size-hugeCmd.label "Suurin">
+<!ENTITY size-hugeCmd.accesskey "r">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Tekstin tyyli">

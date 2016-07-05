@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label        "Yleiset">
+<!ENTITY itemGeneral.label       "Yleiset">
 <!ENTITY dataChoicesTab.label    "Data Choices">
-<!ENTITY itemUpdate.label         "Päivitys">
+<!ENTITY itemUpdate.label        "Päivitys">
 <!ENTITY itemNetworking.label    "Verkkoyhteys ja levytila">
 <!ENTITY itemCertificates.label  "Varmenteet">
 
@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "H">
 <!ENTITY updateManual.label              "Älä hae päivityksiä (ei suositeltu: turvallisuusriski)">
 <!ENTITY updateManual.accesskey          "Ä">
-<!ENTITY updateAutoAddonWarn.label       "Varoita, jos päivitys poistaa käytöstä lisäosia">
-<!ENTITY updateAutoAddonWarn.accesskey   "V">
 <!ENTITY updateHistory.label             "Näytä päivityshistoria">
 <!ENTITY updateHistory.accesskey         "N">
 
@@ -77,7 +75,7 @@
 <!ENTITY showOffline.label             "Yhteydetön tila…">
 <!ENTITY showOffline.accesskey         "h">
 
-<!ENTITY Diskspace 			"Levytilan käyttö">
+<!ENTITY Diskspace                       "Levytilan käyttö">
 <!ENTITY offlineCompactFolders.label     "Tiivistä kansiot kun se säästää yhteensä yli">
 <!ENTITY offlineCompactFolders.accesskey "T">
 <!ENTITY offlineCompactFoldersMB.label   "Mt">
@@ -103,7 +101,7 @@
 <!ENTITY enableOCSP.label                "Vahvista varmenteiden ajantasainen voimassaolo OCSP-vastaajapalvelimilta">
 <!ENTITY enableOCSP.accesskey            "C">
 
-<!ENTITY viewCertificates.label         "Näytä varmenteet">
-<!ENTITY viewCertificates.accesskey     "N">
-<!ENTITY viewSecurityDevices.label      "Turvallisuuslaitteet">
-<!ENTITY viewSecurityDevices.accesskey  "T">
+<!ENTITY manageCertificates.label "Hallinnoi varmenteita">
+<!ENTITY manageCertificates.accesskey "H">
+<!ENTITY viewSecurityDevices.label "Turvallisuuslaitteet">
+<!ENTITY viewSecurityDevices.accesskey "T">
