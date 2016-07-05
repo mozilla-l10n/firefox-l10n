@@ -22,7 +22,7 @@
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.cancel.label          "रद्द करें">
-<!ENTITY button.cancel.accesskey      "र">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "परिवर्तन सहेजें">
-<!ENTITY button.ok.accesskey          "प">
+<!ENTITY button.ok.accesskey          "S">
 

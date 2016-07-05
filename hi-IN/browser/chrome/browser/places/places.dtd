@@ -10,10 +10,10 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "अपने पुस्तचिह्नों को व्यवस्थित करें">
 
-<!ENTITY file.close.label               " बंद करें">
+<!ENTITY file.close.label               "बंद करें">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    " दृश्य">
+<!ENTITY views.label                    "दृश्य">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "अपना दृश्य बदलें">
 <!ENTITY view.columns.label             "स्तंभ दिखाएँ">
