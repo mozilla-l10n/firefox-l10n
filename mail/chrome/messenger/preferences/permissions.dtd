@@ -21,6 +21,7 @@
 <!ENTITY allow.accesskey              "l">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Sulje">
-<!ENTITY button.close.accesskey       "S">
+<!ENTITY button.cancel.label          "Peruuta">
+<!ENTITY button.cancel.accesskey      "r">
+<!ENTITY button.ok.label              "Tallenna muutokset">
 
