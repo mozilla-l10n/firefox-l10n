@@ -66,7 +66,7 @@
 <!ENTITY bookmark_removed "বুকমার্ক অপসারণ করা হয়েছে">
 <!ENTITY bookmark_updated "বুকমার্ক আপডেট করা হয়েছে">
 <!ENTITY bookmark_options "অপশন">
-
+<!ENTITY screenshot_added_to_bookmarks "স্ক্রীনশট বুকমার্কে যুক্ত হয়েছে">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -75,6 +75,7 @@
      in the folder. -->
 
 
+<!ENTITY reader_saved_offline "অফলাইনে সংরক্ষিত">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -116,7 +117,7 @@
 <!ENTITY settings "সেটিংসমূহ">
 <!ENTITY settings_title "সেটিংসমূহ">
 <!ENTITY pref_category_general "সাধারণ">
-
+<!ENTITY pref_category_general_summary3 "হোম, ভাষা, ট্যাব কিউ">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -155,7 +156,7 @@
 <!ENTITY overlay_no_synced_devices "কোন ফায়ারফক্স অ্যাকাউন্ট সংযুক্ত ডিভাইস পাওয়া যায়নি">
 
 <!ENTITY pref_category_search3 "অনুসন্ধান করুন">
-
+<!ENTITY pref_category_search_summary2 "যোগ, ডিফল্ট সেট, প্রস্তাবনা দেখাও">
 <!ENTITY pref_category_accessibility "প্রবেশযোগ্যতা">
 <!ENTITY pref_category_accessibility_summary2 "টেক্সটের আকার, জুম করা, ভয়েস ইনপুট">
 <!ENTITY pref_category_privacy_short "গোপনীয়তা">
@@ -180,9 +181,9 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 
-
-
-
+<!ENTITY pref_category_notifications_summary "নতুন ফিচারসমূহ, ওয়েবসাইট হালনাগাদসমূহ">
+<!ENTITY pref_content_notifications "ওয়েবসাইট হালনাগাদসমূহ">
+<!ENTITY pref_content_notifications_summary2 "সমর্থিত সাইট থেকে নতুন বিষয়বস্তু আবিষ্কার করুন">
 <!ENTITY pref_developer_remotedebugging_usb "USB এর মাধ্যমে রিমোট ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi এর মাধ্যমে রিমোট ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ডিবাগিং এর জন্য আপনার ডিভাইসে একটি QR code reader অ্যাপ ইন্সটল করা থাকতে হবে।">
@@ -193,7 +194,7 @@
 <!ENTITY pref_category_home_summary "আপনার হোমপেজ কাস্টমাইজ করুন">
 <!ENTITY pref_category_home_panels "প্যানেল">
 
-
+<!ENTITY pref_home_updates2 "বিষয়বস্তু হালনাগাদ">
 <!ENTITY pref_home_updates_enabled "সক্রিয়">
 <!ENTITY pref_home_updates_wifi "শুধু ওয়াইফাই নির্ভর">
 <!ENTITY pref_category_home_homepage "নীড়পাতা">
@@ -232,6 +233,8 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 
+<!ENTITY pref_category_data_saver "ডাটা রক্ষাকারী">
+
 
 
 <!ENTITY pref_tap_to_load_images_title2 "ছবি দেখাও">
@@ -250,7 +253,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "ব্যক্তিগত ব্রাউজিং এ সক্রিয়">
 <!ENTITY pref_tracking_protection_disabled "নিষ্ক্রিয়">
 
-
+<!ENTITY pref_whats_new_notification_summary "একটি হালনাগাদের পর নতুন বৈশিষ্ট্যগুলি সম্পর্কে জানুন">
 
 <!ENTITY tracking_protection_prompt_title "এখন ট্র্যাকিং সুরক্ষিত আছে">
 <!ENTITY tracking_protection_prompt_text "ট্র্যাকিং উপাদান সক্রিয়ভাবে অবরোধ করা হচ্ছে তাই আপনি দুশ্চিন্তা করবেন না।">
@@ -288,6 +291,7 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; ওয়েবসাইট হালনাগাদ">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
@@ -308,7 +312,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "কোন তথ্য মুছে ফেলতে হবে তা নির্বাচন করুন">
 <!ENTITY pref_plugins "প্লাগইন">
 <!ENTITY pref_plugins_enabled "সক্রিয়">
-
+<!ENTITY pref_plugins_tap_to_play2 "চালাতে স্পর্শ করুন">
 <!ENTITY pref_plugins_disabled "নিষ্ক্রিয়">
 <!ENTITY pref_text_size "টেক্সটের আকার">
 <!ENTITY pref_restore_tabs "ট্যাব পুনরুদ্ধার করুন">
@@ -358,6 +362,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "ডাউনলোড">
 <!ENTITY pref_private_data_syncedTabs "সিঙ্ককৃত ট্যাব">
 
+<!ENTITY pref_default_browser "ডিফল্ট ব্রাউজার নির্ধারণ কুরুন">
 <!ENTITY pref_about_firefox "&brandShortName; সম্পর্কে">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "ফীডব্যাক প্রদান করুন">
@@ -770,6 +775,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_summary "এই সংস্করণে নতুন কি আছে খুঁজে বের করুন">
 
 
+<!ENTITY helper_first_offline_bookmark_title "অফলাইনে পড়ুন">
 
 
 
