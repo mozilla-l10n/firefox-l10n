@@ -80,7 +80,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentErrorv2.title " खराब अंतर्वस्तु त्रुटि">
-
+<!ENTITY corruptedContentErrorv2.longDesc "<p>पृष्ठ जिसे आप देखने की कोशिश कर रहे हैं नहीं दिखाया जा सकता है क्योंकि आंकड़ा संचारण में त्रुटि पाया गया.</p><ul><li>कृपया वेबसाइट मालिक को इस समस्या के बारे में सूचित करने के लिए संपर्क करें.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel " अपवाद जोड़ें…">
