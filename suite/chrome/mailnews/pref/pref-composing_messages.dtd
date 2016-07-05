@@ -28,6 +28,11 @@
 <!ENTITY fontColor.accesskey "T">
 <!ENTITY bgColor.label "Fondo:">
 <!ENTITY bgColor.accesskey "F">
+<!ENTITY defaultCompose.label "Formato de redacción por defecto:">
+<!ENTITY defaultBodyText.label "Cuerpo del texto (Enter crea una nueva línea)">
+<!ENTITY defaultBodyText.accesskey "E">
+<!ENTITY defaultParagraph.label "Párrafo (Enter crea un nuevo párrafo)">
+<!ENTITY defaultParagraph.accesskey "P">
 <!ENTITY selectHeaderType.label "Seleccione el tipo de cabecera de respuesta:">
 <!ENTITY selectHeaderType.accesskey "S">
 <!ENTITY noReplyOption.label "Sin cabecera de respuesta">

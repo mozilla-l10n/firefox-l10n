@@ -73,7 +73,6 @@
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="nav-doc-searchweb" nc:name="Búsquedas rápidas" nc:link="nav_help.xhtml#fast_searches"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="nav-doc-smartsearch" nc:name="Búsqueda avanzada  en el panel lateral" nc:link="nav_help.xhtml#sidebar_advanced_search_mode"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-searchprefs" nc:name="Configurar las preferencias de   búsqueda" nc:link="nav_help.xhtml#setting_search_preferences"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-searchpage" nc:name="Búsqueda dentro de una página" nc:link="nav_help.xhtml#searching_within_a_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-find_as_you_type" nc:name="Usar Encontrar según se escribe" nc:link="nav_help.xhtml#using_find_as_you_type"/></rdf:li>
@@ -742,6 +741,7 @@
 <rdf:Description about="#cust-toolbar">
     <nc:subheadings>
       <rdf:Seq>
+        <rdf:li> <rdf:Description ID="cust-main" nc:name="Barra de menús"  nc:link="customize_help.xhtml#menu_bar"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-main" nc:name="Barra de herramientas de navegación" nc:link="customize_help.xhtml#navigation_toolbar"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-personal" nc:name="Barra de herramientas personal" nc:link="customize_help.xhtml#personal_toolbar"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-status" nc:name="Barra de estado" nc:link="customize_help.xhtml#status_bar"/> </rdf:li>

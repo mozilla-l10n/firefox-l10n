@@ -103,15 +103,23 @@
 <!ENTITY cookieBlockImagesCmd.label "Bloquear imágenes de este sitio web">
 <!ENTITY cookieBlockImagesCmd.accesskey "n">
 <!ENTITY cookieBlockImagesMsg.label "Las imágenes de este sitio web no se descargarán nunca.">
-<!ENTITY cookieAllowPopupsCmd.label "Permitir ventanas emergentes de este sitio web">
-<!ENTITY cookieAllowPopupsCmd.accesskey "o">
-<!ENTITY cookieManagePopups.label "Administrar ventanas emergentes">
-<!ENTITY cookieManagePopups.accesskey "s">
+<!ENTITY popupsMessageChangeTitle.label "Permisos de ventanas emergentes cambiados">
+<!ENTITY popupAllowCmd.label "Permitir ventanas emergentes de este sitio web">
+<!ENTITY popupAllowCmd.accesskey "P">
+<!ENTITY popupAllowMsg.label "Las ventanas emergentes de este sitio web se mostrarán siempre.">
+<!ENTITY popupDefaultCmd.label "Usar permisos predeterminados para ventanas emergentes">
+<!ENTITY popupDefaultCmd.accesskey "U">
+<!ENTITY popupDefaultMsg.label "Las ventanas emergentes de este sitio web se mostrarán de acuerdo a su configuración por defecto.">
+<!ENTITY popupBlockCmd.label "Bloquear ventanas emergentes de este sitio web">
+<!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupBlockMsg.label "Las ventanas emergentes de este sitio web no se mostrarán.">
+<!ENTITY popupsManage.label "Administrar ventanas emergentes">
+<!ENTITY popupsManage.accesskey "A">
 <!ENTITY cookieCookieManager.label "Administrador de cookies">
 <!ENTITY cookieCookieManager.accesskey "k">
 <!ENTITY cookieImageManager.label "Administrador de imágenes">
 <!ENTITY cookieImageManager.accesskey "i">
-<!ENTITY cookiePopupManager.label "Administrador de ventanas emergentes">
-<!ENTITY cookiePopupManager.accesskey "v">
+<!ENTITY popupsManager.label "Administrador de ventanas emergentes">
+<!ENTITY popupsManager.accesskey "d">
 <!ENTITY clearPrivateDataCmd.label "Limpiar datos privados…">
 <!ENTITY clearPrivateDataCmd.accesskey "L">

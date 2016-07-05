@@ -228,6 +228,11 @@
 	 nc:link="customize_help.xhtml#hiding_a_toolbar"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="toolbar:menu_bar"
+         nc:name="barra de menús"
+         nc:link="customize_help.xhtml#menu_bar"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="toolbar:navigation_toolbar"
          nc:name="barra de herramientas de navegaci&#243;n"
 	 nc:link="customize_help.xhtml#navigation_toolbar"/>
@@ -243,11 +248,7 @@
 <rdf:Description about="#search">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
-       <rdf:Description ID="search:Advanced_mode"
-         nc:name="modo de b&#250;squeda avanzada del panel lateral"
-	 nc:link="nav_help.xhtml#sidebar_advanced_search_mode"/>
-     </rdf:li>
-     <rdf:li>
+       <rdf:Description ID="search:bookmarks"
        <rdf:Description ID="search:bookmarks"
          nc:name="buscar en marcadores"
 	 nc:link="nav_help.xhtml#searching_the_bookmarks_or_history_list"/>
