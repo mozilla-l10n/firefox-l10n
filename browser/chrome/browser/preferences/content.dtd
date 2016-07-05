@@ -10,8 +10,8 @@
 <!ENTITY  notificationsPolicy.label            "अधिसूचना">
 <!ENTITY  notificationsPolicyLearnMore.label   "अधिक जानें">
 <!ENTITY  notificationsPolicyDesc3.label       "कौन-सी वेबसाइटों अधिसूचना भेजने की अनुमति दे रहा">
-
-
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "चुनें…">
 <!ENTITY  notificationsDoNotDisturb.label      "परेशान नहीं करें">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value " कोई अधिसूचना नहीं दिखेगा जब तक &brandShortName; फिर से  चालू करेंगे ">

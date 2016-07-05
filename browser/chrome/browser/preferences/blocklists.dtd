@@ -8,6 +8,7 @@
 <!ENTITY treehead.list.label          "सूचीसूची">
 <!ENTITY windowClose.key              "w">
 
-
-
-
+<!ENTITY button.cancel.label          "रद्द करें">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.ok.label              "परिवर्तन सहेजें">
+<!ENTITY button.ok.accesskey          "S">
