@@ -291,7 +291,7 @@
 <!ENTITY printToolbarCmd.label "Ofdrukke">
 <!ENTITY printToolbarCmd.tooltip "Dizze side ôfdrukke">
 <!ENTITY findToolbarCmd.label "Sykje">
-<!ENTITY findToolbarCmd.tooltip "Tekst sykje yn side">
+<!ENTITY findToolbarCmd.tooltip "Tekst sykje op side">
 <!ENTITY spellToolbarCmd.label "Stavering">
 <!ENTITY spellToolbarCmd.tooltip "Stavering fan seleksje of hiele side kontrolearje">
 <!ENTITY imageToolbarCmd.label "Ofbylding">
