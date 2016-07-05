@@ -23,8 +23,8 @@ was trying to connect. -->
 
 <!ENTITY certerror.expert.heading "Aikũmby oikokuaaha mba'evai">
 <!ENTITY certerror.expert.content "Eikumbyetéramo mba'etépa pe oikóva, ikatu ehechauka &brandShortName;-pe oñepyrũ hag̃ua ojerovia ko tenda rehe. <b>Péicha ojeroviáramo ko tenda rehe, ko jejavy ikatu he'ise oĩha oimeraẽva ojokoséva nde jeike.</b>">
-<!ENTITY certerror.expert.contentPara2 "Ani embojuapy ykepeguáva ndereikuaa porãiramo oĩha peteĩ mba'e imbaretéva ko tenda oipuru hag̃ua jerovia rechaukaha.">
-<!ENTITY certerror.addTemporaryException.label "Tendápe jeho">
-<!ENTITY certerror.addPermanentException.label "Embojuapy ekepegua tapiaite">
+<!ENTITY certerror.expert.contentPara2 "Ani embojuapy oĩ'ỹva ndereikuaa porãiramo oĩha peteĩ mba'e imbaretéva ko tenda oipuru hag̃ua jerovia rechaukaha.">
+<!ENTITY certerror.addTemporaryException.label "Tendápe jeho ">
+<!ENTITY certerror.addPermanentException.label "Embojuapy oĩ'ỹva tapiaite">
 
 <!ENTITY certerror.technical.heading "Aporeko mba'emimíva">
