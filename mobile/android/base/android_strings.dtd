@@ -18,18 +18,24 @@
 <!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
 <!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
-
+<!ENTITY firstrun_button_notnow "এখনই নয়">
 <!ENTITY firstrun_button_next "পরবর্তী">
 
+<!ENTITY firstrun_tabqueue_title "লিঙ্ক">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "ট্যাব কিউ চালু করুন">
 
 
+<!ENTITY firstrun_tabqueue_message_on "সফল!">
 
 
+<!ENTITY firstrun_readerview_title "নিবন্ধ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!ENTITY firstrun_account_title "আপনি">
+<!ENTITY firstrun_account_message "&brandShortName; অন্য কোন ডিভাইসে রয়েছে?">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; এর সরলীকৃত সংস্করণের সাথে নিরাপদ ও নিয়ন্ত্রণে থাকুন।">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -70,15 +76,19 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-
+<!ENTITY screenshot_folder_label_in_bookmarks "স্ক্রীনশট">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "পঠন তালিকা">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 
+<!ENTITY bookmark_folder_items "&formatD; আইটেম">
+<!ENTITY bookmark_folder_one_item "1 টি আইটেম">
 
 <!ENTITY reader_saved_offline "অফলাইনে সংরক্ষিত">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "পরিবর্তন">
 
 <!ENTITY history_today_section "আজ">
 <!ENTITY history_yesterday_section "গতকাল">
@@ -160,11 +170,11 @@
 <!ENTITY pref_category_accessibility "প্রবেশযোগ্যতা">
 <!ENTITY pref_category_accessibility_summary2 "টেক্সটের আকার, জুম করা, ভয়েস ইনপুট">
 <!ENTITY pref_category_privacy_short "গোপনীয়তা">
-
+<!ENTITY pref_category_privacy_summary4 "ট্র্যাকিং, লগইন, ডাটা পছন্দ">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName; সম্পর্কিত প্রায়শ জিজ্ঞাসিত প্রশ্নাবলী, মতামত">
 <!ENTITY pref_category_datareporting "তথ্য পছন্দ">
-
+<!ENTITY pref_category_logins "লগইন">
 <!ENTITY pref_learn_more "আরও জানুন">
 <!ENTITY pref_category_installed_search_engines "ইন্সটলকৃত সার্চ ইঞ্জিন">
 <!ENTITY pref_category_add_search_providers "আরও সার্চসেবা প্রদানকারী যোগ করুন">
@@ -176,11 +186,13 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "পরামর্শ: যেকোনো ওয়েবসাইটকে আপনার অনুসন্ধান প্রদানকারীদের তালিকায় যুক্ত করতে সেই ওয়েবসাইটের অনুসন্ধানক্ষেত্রে কিছুক্ষন চেপে রেখে &formatI; আইকনে ক্লিক করুন।">
 <!ENTITY pref_category_advanced "উচ্চপর্যায়">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
+<!ENTITY pref_category_advanced_summary3 "ট্যাব, ডেটা রক্ষক, ডেভেলপার টুলগুলো ফিরিয়ে আনুন">
+<!ENTITY pref_category_notifications "ঘোষণা">
 <!ENTITY pref_category_notifications_summary "নতুন ফিচারসমূহ, ওয়েবসাইট হালনাগাদসমূহ">
 <!ENTITY pref_content_notifications "ওয়েবসাইট হালনাগাদসমূহ">
 <!ENTITY pref_content_notifications_summary2 "সমর্থিত সাইট থেকে নতুন বিষয়বস্তু আবিষ্কার করুন">
@@ -193,7 +205,7 @@
 <!ENTITY pref_category_home "হোম">
 <!ENTITY pref_category_home_summary "আপনার হোমপেজ কাস্টমাইজ করুন">
 <!ENTITY pref_category_home_panels "প্যানেল">
-
+<!ENTITY pref_category_home_add_ons "অ্যাড-অন">
 <!ENTITY pref_home_updates2 "বিষয়বস্তু হালনাগাদ">
 <!ENTITY pref_home_updates_enabled "সক্রিয়">
 <!ENTITY pref_home_updates_wifi "শুধু ওয়াইফাই নির্ভর">
@@ -220,7 +232,7 @@
 <!ENTITY pref_header_search "অনুসন্ধান">
 <!ENTITY pref_header_privacy_short "গোপনীয়তা">
 <!ENTITY pref_header_accessibility "প্রবেশযোগ্যতা">
-
+<!ENTITY pref_header_notifications "ঘোষণা">
 <!ENTITY pref_header_advanced "উচ্চপর্যায়">
 <!ENTITY pref_header_help "সহায়তা">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -234,8 +246,8 @@
      “storing data”. -->
 
 <!ENTITY pref_category_data_saver "ডাটা রক্ষাকারী">
-
-
+<!ENTITY pref_category_media "মিডিয়া">
+<!ENTITY pref_category_developer_tools "ডেভলপার টুলসমূহ">
 
 <!ENTITY pref_tap_to_load_images_title2 "ছবি দেখাও">
 <!ENTITY pref_tap_to_load_images_enabled "সর্বদা">
