@@ -170,7 +170,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Outros favoritos">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais favoritos">
 <!ENTITY showRecentlyBookmarked.label     "Mostrar favoritos recentes">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.label     "Ocultar favoritos recentes">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "Voltar">
 <!ENTITY backButton.tooltip           "Página anterior">
