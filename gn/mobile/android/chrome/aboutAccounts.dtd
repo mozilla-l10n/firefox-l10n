@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.connected.title "Firefox mba'ete">
-<!ENTITY aboutAccounts.connected.description "Reikemahína">
-<!ENTITY aboutAccounts.syncPreferences.label "Epoko ko'ápe ehechajey hag̃ua Sync ñemoĩporã">
+<!ENTITY aboutAccounts.connected.description "Reikehína ...ramo">
+<!ENTITY aboutAccounts.syncPreferences.label "Epoko ápe ehechajey hag̃ua Sync ñemoĩporã">
 
 <!ENTITY aboutAccounts.noConnection.title "Ndaikatuí eikévo ñandutípe">
 <!ENTITY aboutAccounts.retry.label "Eha'ãjey ag̃amieve">
