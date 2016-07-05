@@ -10,7 +10,7 @@
      on web development on the web. -->
 
 
-<!ENTITY newButton.label            "नया (N)">
+<!ENTITY newButton.label            "नया">
 <!ENTITY newButton.tooltip          "दस्तावेज में नयी स्टाइल शीट बनाएँ और जोड़ें">
 <!ENTITY newButton.accesskey        "N">
 
