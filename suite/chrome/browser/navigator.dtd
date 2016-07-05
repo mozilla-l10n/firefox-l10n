@@ -28,7 +28,7 @@
 <!ENTITY closeWindow.label "Zavřít okno">
 <!ENTITY closeWindow.accesskey "o">
 
-<!ENTITY minimizeButton.tooltip "Minimalizuje">
+<!ENTITY minimizeButton.tooltip "Minimalizovat">
 <!ENTITY restoreButton.tooltip "Obnovit">
 
 <!ENTITY feedsMenu.label "Odebírat tuto stránku">

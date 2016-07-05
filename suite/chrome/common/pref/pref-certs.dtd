@@ -8,7 +8,7 @@
 <!ENTITY  managecerts.accesskey    "f">
 <!ENTITY  managedevices.caption    "Správce bezpečnostních zařízení…">
 <!ENTITY  managedevices.text       "Tímto tlačítkem můžete spravovat svá bezpečnostní zařízení, jako např. čipové karty.">
-<!ENTITY  managedevices.button     "Správa bezpečnostních zařízení…">
+<!ENTITY  managedevices.button     "Spravovat bezpečnostní zařízení…">
 <!ENTITY  managedevices.accesskey  "b">
 
 <!ENTITY  ssl.label                "SSL">

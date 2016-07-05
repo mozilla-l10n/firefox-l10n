@@ -19,9 +19,9 @@
 <!ENTITY sidebar.customize.add.accesskey        "A">
 <!ENTITY sidebar.customize.preview.label        "Náhled…">
 <!ENTITY sidebar.customize.preview.accesskey    "N">
-<!ENTITY sidebar.customize.up.label             "Nahoru">
-<!ENTITY sidebar.customize.up.accesskey         "U">
-<!ENTITY sidebar.customize.down.label           "Dolů">
-<!ENTITY sidebar.customize.down.accesskey       "D">
+<!ENTITY sidebar.customize.up.label             "Posunout výše">
+<!ENTITY sidebar.customize.up.accesskey         "v">
+<!ENTITY sidebar.customize.down.label           "Posunout níže">
+<!ENTITY sidebar.customize.down.accesskey       "e">
 <!ENTITY sidebar.more.label                     "Získat další…">
 <!ENTITY sidebar.more.accesskey                 "Z">

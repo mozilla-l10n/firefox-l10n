@@ -14,7 +14,7 @@
 
 <!-- These are added to Preferences dialog -->
 <!ENTITY viewingMessages.label "Zobrazení zpráv">
-<!ENTITY notifications.label "Upozorňování">
+<!ENTITY notifications.label "Upozornění">
 <!ENTITY address.label "Adresování">
 <!ENTITY composingMessages.label "Vytváření zpráv">
 <!ENTITY format.label "Formát odesílání">

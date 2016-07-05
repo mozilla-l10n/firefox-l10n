@@ -33,7 +33,7 @@
 <!ENTITY bounceSystemDockIcon.label       "Animovat ikonku v doku">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
 
-<!ENTITY playSound.label                  "Přehrát zvukový soubor">
+<!ENTITY playSound.label                  "Přehrát zvuk">
 <!ENTITY playSound.accesskey              "P">
 <!ENTITY playButton.label                 "Přehrát">
 <!ENTITY playButton.accesskey             "h">

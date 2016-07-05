@@ -45,7 +45,7 @@
 <!ENTITY helpus.end                 "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Licenční informace">
+<!ENTITY bottomLinks.license        "Licence">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "O vašich právech">

@@ -59,8 +59,8 @@
 <!ENTITY CellularNumber.label "Mobilní telefon:">
 <!ENTITY CellularNumber.accesskey "t">
 
-<!ENTITY Home.tab "Bydliště">
-<!ENTITY Home.accesskey "B">
+<!ENTITY Home.tab "Soukromé">
+<!ENTITY Home.accesskey "S">
 <!ENTITY HomeAddress.label "Adresa:">
 <!ENTITY HomeAddress.accesskey "A">
 <!ENTITY HomeAddress2.label "">
@@ -89,8 +89,8 @@
 <!ENTITY JobTitle.accesskey "i">
 <!ENTITY Department.label "Oddělení:">
 <!ENTITY Department.accesskey "d">
-<!ENTITY Company.label "Organizace:">
-<!ENTITY Company.accesskey "g">
+<!ENTITY Company.label "Společnost:">
+<!ENTITY Company.accesskey "l">
 <!ENTITY WorkAddress.label "Adresa:">
 <!ENTITY WorkAddress.accesskey "A">
 <!ENTITY WorkAddress2.label "">

@@ -27,7 +27,7 @@
 <!ENTITY data.search.key "k">
 
 <!ENTITY tab.cookies.label "Cookies">
-<!ENTITY tab.permissions.label "Povolení">
+<!ENTITY tab.permissions.label "Oprávnění">
 <!ENTITY tab.permissionspwd.label "Oprávnění hesel">
 <!ENTITY tab.preferences.label "Předvolby">
 <!ENTITY tab.passwords.label "Hesla">
@@ -152,8 +152,8 @@
 <!-- forget -->
 <!ENTITY forget.cookies.label "Cookies">
 <!ENTITY forget.cookies.accesskey "C">
-<!ENTITY forget.permissions.label "Povolení">
-<!ENTITY forget.permissions.accesskey "P">
+<!ENTITY forget.permissions.label "Oprávnění">
+<!ENTITY forget.permissions.accesskey "p">
 <!ENTITY forget.permissionspwd.label "Oprávnění hesel">
 <!ENTITY forget.permissionspwd.accesskey "r">
 <!ENTITY forget.preferences.label "Předvolby obsahu">

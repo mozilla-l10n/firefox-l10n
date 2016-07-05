@@ -19,7 +19,7 @@
 
 <!ENTITY accountAdvancedTitle.label "Rozšířené možnosti">
 <!ENTITY accountAdvancedInfo.label "Pokud chcete, můžete tento krok přeskočit.">
-<!ENTITY accountAdvanced.newMailNotification.label "Notifikace e-mailem">
+<!ENTITY accountAdvanced.newMailNotification.label "Upozornit na novou poštu">
 <!ENTITY accountAliasGroupbox.caption "Místní alias">
 <!ENTITY accountAliasField.label "Alias:">
 <!ENTITY accountAliasInfo.label "Bude zobrazen pouze v okně vaší konverzace. Vzdálené kontakty ho neuvidí.">

@@ -19,7 +19,7 @@
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     selectAll.key                  "a">
 
-<!ENTITY     props.name.label               "Název cookie:">
+<!ENTITY     props.name.label               "Název:">
 <!ENTITY     props.value.label              "Obsah:">
 <!ENTITY     props.domain.label             "Server:">
 <!ENTITY     props.path.label               "Cesta:">

@@ -6,7 +6,7 @@
 <!ENTITY print.accesskey      "T">
 <!ENTITY pageSetup.label      "Vzhled stránky…">
 <!ENTITY pageSetup.accesskey  "V">
-<!ENTITY page.label           "Strana:">
+<!ENTITY page.label           "Stránka:">
 <!ENTITY page.accesskey       "a">
 <!ENTITY of.label             "z">
 <!ENTITY scale.label          "Měřítko:">

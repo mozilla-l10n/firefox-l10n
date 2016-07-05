@@ -10,10 +10,10 @@
 <!ENTITY columnLabel.keyword "Klíčové slovo">
 
 <!-- Buttons -->
-<!ENTITY up.label "Posunout nahoru">
-<!ENTITY up.accesskey "n">
-<!ENTITY dn.label "Posunout dolů">
-<!ENTITY dn.accesskey "d">
+<!ENTITY up.label "Posunout výše">
+<!ENTITY up.accesskey "v">
+<!ENTITY dn.label "Posunout níže">
+<!ENTITY dn.accesskey "n">
 <!ENTITY remove.label "Odebrat">
 <!ENTITY remove.accesskey "b">
 <!ENTITY edit.label "Upravit klíčové slovo…">

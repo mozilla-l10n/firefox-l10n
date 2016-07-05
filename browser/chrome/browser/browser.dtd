@@ -711,7 +711,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.label "Odebrat výjimku">
 <!ENTITY identity.removeCertException.accesskey "O">
 
-<!ENTITY identity.moreInfoLinkText2 "Další informace">
+<!ENTITY identity.moreInfoLinkText2 "Více informací">
 
 <!ENTITY identity.permissions "Oprávnění">
 <!ENTITY identity.permissionsEmpty "Pro tento server nemáte udělena žádná zvláštní oprávnění.">

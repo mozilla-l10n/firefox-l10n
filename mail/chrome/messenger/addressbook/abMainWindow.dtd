@@ -32,7 +32,7 @@
 <!ENTITY printSetupCmd.accesskey                        "V">
 <!ENTITY printPreviewContactCmd.label                   "Náhled tisku kontaktu">
 <!ENTITY printPreviewContactCmd.accesskey               "h">
-<!ENTITY printPreviewAddressBook.label                  "Náhled tisku složky">
+<!ENTITY printPreviewAddressBook.label                  "Náhled tisku složky kontaktů">
 <!ENTITY printPreviewAddressBook.accesskey              "l">
 <!ENTITY printContactCmd.label                          "Tisk kontaktu…">
 <!ENTITY printContactCmd.accesskey                      "T">
@@ -92,7 +92,7 @@
 <!ENTITY showTaskbarCmd.accesskey                       "t">
 <!ENTITY customizeToolbar.label                         "Přizpůsobit…">
 <!ENTITY customizeToolbar.accesskey                     "z">
-<!ENTITY layoutMenu.label                               "Rozmístění">
+<!ENTITY layoutMenu.label                               "Rozložení">
 <!ENTITY layoutMenu.accesskey                           "R">
 <!ENTITY showDirectoryPane.label                        "Panel adresáře">
 <!ENTITY showDirectoryPane.accesskey                    "a">

@@ -4,7 +4,7 @@
 
 <!ENTITY itemJunk.label "Nevyžádaná pošta">
 <!ENTITY itemPhishing.label "Podvodná pošta">
-<!ENTITY itemPasswords.label "Uložená hesla">
+<!ENTITY itemPasswords.label "Hesla">
 <!ENTITY itemAntiVirus.label "Antivir">
 
 <!-- Junk Mail Controls -->

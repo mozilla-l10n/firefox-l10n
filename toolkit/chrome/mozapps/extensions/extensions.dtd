@@ -9,9 +9,9 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY loading.label                        "Nahrávání…">
+<!ENTITY loading.label                        "Načítání…">
 <!ENTITY listEmpty.installed.label            "Žádný doplněk tohoto typu není nainstalován">
-<!ENTITY listEmpty.availableUpdates.label     "Aktualizace nenalezeny">
+<!ENTITY listEmpty.availableUpdates.label     "Nebyly nalezeny žádné aktualizace">
 <!ENTITY listEmpty.recentUpdates.label        "Žádný doplněk nebyl aktualizován">
 <!ENTITY listEmpty.findUpdates.label          "Zkontrolovat aktualizace">
 <!ENTITY listEmpty.search.label               "Nepodařilo se najít žádný odpovídající doplněk">
@@ -169,7 +169,7 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Název">
 <!ENTITY sort.name.tooltip                    "Řadit dle názvu">
-<!ENTITY sort.dateUpdated.label               "Aktualizace">
+<!ENTITY sort.dateUpdated.label               "Poslední aktualizace">
 <!ENTITY sort.dateUpdated.tooltip             "Řadit dle aktualizace">
 <!ENTITY sort.relevance.label                 "Nejlepší shody">
 <!ENTITY sort.relevance.tooltip               "Řadit dle nejlepší shody">
@@ -208,8 +208,8 @@
 <!ENTITY addon.updateAvailable.label          "Aktualizace je dostupná">
 <!ENTITY addon.checkingForUpdates.label       "Kontrola aktualizací…">
 <!ENTITY addon.releaseNotes.label             "Poznámky k vydání:">
-<!ENTITY addon.loadingReleaseNotes.label      "Nahrávání…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Omlouváme se, ale při nahrávání poznámek k vydání nastala chyba.">
+<!ENTITY addon.loadingReleaseNotes.label      "Načítání…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Omlouváme se, ale při načítání poznámek k vydání nastala chyba.">
 
 <!ENTITY addon.createdBy.label                "Od ">
 

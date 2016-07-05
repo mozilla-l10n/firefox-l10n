@@ -11,9 +11,9 @@
 <!ENTITY editButton.accesskey "P">
 <!ENTITY deleteButton.label "Smazat">
 <!ENTITY deleteButton.accesskey "m">
-<!ENTITY reorderUpButton.label "Přesunout výše">
+<!ENTITY reorderUpButton.label "Posunout výše">
 <!ENTITY reorderUpButton.accesskey "V">
-<!ENTITY reorderDownButton.label "Přesunout níže">
+<!ENTITY reorderDownButton.label "Posunout níže">
 <!ENTITY reorderDownButton.accesskey "T">
 <!ENTITY filterHeader.label "Aktivní filtry jsou automaticky prováděny v níže uvedeném pořadí.">
 <!ENTITY filtersForPrefix.label "Filtr pro:">

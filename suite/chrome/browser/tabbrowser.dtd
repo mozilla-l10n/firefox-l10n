@@ -17,6 +17,6 @@
 <!ENTITY bookmarkGroup.accesskey "P">
 <!ENTITY closeTabButton.tooltip "Zavře aktuální panel">
 <!ENTITY newTabButton.tooltip "Otevře nový panel">
-<!ENTITY  listAllTabs.tooltip "Seznam všech panelů">
+<!ENTITY  listAllTabs.tooltip "Zobrazí seznam všech panelů">
 <!ENTITY undoCloseTab.label "Otevřít zavřený panel">
 <!ENTITY undoCloseTab.accesskey "t">

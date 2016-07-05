@@ -10,7 +10,7 @@
 
 <!ENTITY fileMenu.label "Soubor">
 <!ENTITY fileMenu.accesskey "s">
-<!ENTITY newMenu.label "Nový objekt">
+<!ENTITY newMenu.label "Nový">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newBlankPageCmd.label "Prázdná stránka">
 <!ENTITY newBlankPageCmd.accesskey "P">
@@ -149,7 +149,7 @@
 
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey "P">
-<!ENTITY showPopupManager.label "Správce vyskakovacích oken">
+<!ENTITY showPopupManager.label "Správa vyskakovacích oken">
 <!ENTITY showPopupManager.accesskey "S">
 <!ENTITY dontShowMessage.label "Nezobrazovat tuto zprávu, pokud jsou blokována vyskakovací okna">
 <!ENTITY dontShowMessage.accesskey "N">

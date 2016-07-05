@@ -4,7 +4,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Vlastnosti stránky">
-<!ENTITY location.label "Umístění:">
+<!ENTITY location.label "Adresa:">
 <!ENTITY lastModified.label "Datum změny:">
 <!ENTITY titleInput.label "Nadpis:">
 <!ENTITY titleInput.accessKey "N">

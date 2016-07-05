@@ -12,10 +12,10 @@
 <!ENTITY requestReceipt.label "Při odesílání zpráv vždy vyžadovat potvrzení o přečtení">
 <!ENTITY requestReceipt.accesskey "v">
 <!ENTITY receiptArrive.label "Při přijetí potvrzení">
-<!ENTITY leaveIt.label "Ponechat ve složce Doručená pošta">
+<!ENTITY leaveIt.label "Ponechat ve složce „Doručená pošta“">
 <!ENTITY leaveIt.accesskey "D">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label "Přesunout do složky Odeslaná pošta">
+<!ENTITY moveToSent.label "Přesunout do složky „Odeslaná pošta“">
 <!ENTITY moveToSent.accesskey "s">
 <!ENTITY requestMDN.label "Pokud zpráva obsahuje žádost potvrzení o přečtení:">
 <!ENTITY returnSome.label "Vracet potvrzení o přečtení pro některé zprávy">

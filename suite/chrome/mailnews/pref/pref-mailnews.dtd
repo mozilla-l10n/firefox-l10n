@@ -25,11 +25,11 @@
 <!ENTITY useInternalNews.label            "Novinky (news:, snews:, nntp:)">
 <!ENTITY useInternalNews.accesskey        "o">
 
-<!ENTITY messengerStartPage.caption "Úvodní stránka pošty">
+<!ENTITY messengerStartPage.caption "Úvodní stránka">
 <!ENTITY enableStartPage.label "Při spuštění pošty zobrazovat v oblasti zpráv úvodní stránku ">
 <!ENTITY enableStartPage.accesskey "z">
-<!ENTITY location.label "Umístění:">
-<!ENTITY location.accesskey "U">
+<!ENTITY location.label "Adresa:">
+<!ENTITY location.accesskey "A">
 <!ENTITY useDefault.label "Obnovit výchozí">
 <!ENTITY useDefault.accesskey "b">
 <!ENTITY rememberLastMsg.label "Pamatovat si poslední vybranou zprávu">

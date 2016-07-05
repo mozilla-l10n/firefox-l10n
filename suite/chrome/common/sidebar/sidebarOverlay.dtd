@@ -14,7 +14,7 @@
 <!ENTITY sidebar.switch.accesskey "P">
 <!ENTITY sidebarCmd.label "Postranní lišta">
 <!ENTITY sidebarCmd.accesskey "l">
-<!ENTITY sidebar.loading.label "Načítá se…">
+<!ENTITY sidebar.loading.label "Načítání…">
 <!ENTITY sidebar.loadstopped.label "Načítání zastaveno">
 <!ENTITY sidebar.loading.stop.label "Zastavit">
 <!ENTITY sidebar.loading.stop.accesskey "S">
