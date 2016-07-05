@@ -23,6 +23,7 @@
 <!ENTITY fileNotFound.title "ফাইল পাওয়া যায়নি">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ফাইলের নামের বানান ও ছোট/বড় অক্ষর পরীক্ষা করুন।</li> <li>ফাইলের স্থান পরিবর্তন, নাম পরিবর্তন হয়েছে কিনা বা সেটি মুছে ফেলা হয়েছে কিনা তা পরীক্ষা করুন।</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "ফাইলে প্রবেশাধিকার প্রত্যাখ্যাত হয়েছে">
 
 
 <!ENTITY generic.title "ওহ্ হো!">
