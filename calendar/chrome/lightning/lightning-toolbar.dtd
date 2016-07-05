@@ -10,13 +10,13 @@
 <!ENTITY lightning.toolbar.sync.label "Синхронизиране">
 
 <!ENTITY lightning.toolbar.delete.label "Изтриване">
-
+<!ENTITY lightning.toolbar.delete.tooltip "Изтриване на избраните събития или задачи">
 <!ENTITY lightning.toolbar.edit.label "Редактиране">
 
 
 
 <!ENTITY lightning.toolbar.print.label "Отпечатване">
-
+<!ENTITY lightning.toolbar.print.tooltip "Отпечатване на събития или задачи">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Календар">
