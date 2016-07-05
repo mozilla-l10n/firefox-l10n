@@ -21,7 +21,7 @@
 <!ENTITY     props.path.label               "పాత్:">
 <!ENTITY     props.secure.label             "కొరకు పంపించు:">
 <!ENTITY     props.expires.label            "కాలముతీరిన:">
-
+<!ENTITY     props.container.label          "కంటెయినర్:">
 
 <!ENTITY     window.title                   "కుకీలు">
 <!ENTITY     windowClose.key                "w">

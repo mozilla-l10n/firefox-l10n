@@ -2,8 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title                 "ట్రాక్ చెయ్యవద్దు">
+<!ENTITY window.width                 "50em">
+<!ENTITY window.height                "10em">
 
+<!ENTITY doNotTrackCheckbox2.label    "ఎల్లప్పుడూ ట్రాక్ చేయవద్దు దరఖాస్తు చేయి">
+<!ENTITY doNotTrackCheckbox2.accesskey "A">
 
-
-
-
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; మీరు ట్రాక్ కావలసినప్పుడు ట్రాకింగ్ సంరక్షణ ఉంది లేదు ఒక సిగ్నల్ పంపుతుంది.">
+<!ENTITY doNotTrackLearnMore.label    "మరింత తెలుసుకోండి">

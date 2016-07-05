@@ -55,7 +55,10 @@
 <!ENTITY  finishedBackground.name         "నవీకరణ:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "&brandShortName;  పునఃప్రారంభం    చేసినపుడు ఈ నవీకరణ స్థాపించబడుతుంది . మీరు &brandShortName; ను ఇప్పుడు   పునఃప్రారంభం చేయండి లేక  పని కొనసాగించి ఆతరువాత   పునఃప్రారంభం చేయండి.">
-
+<!ENTITY  finishedBackground.moreElevated "ఈ నవీకరణకి నిర్వాహక అధికారాలు అవసరం. ఈ నవీకరణ
+                                            తదుపరి సమయం &brandShortName; ప్రారంభమైనప్పుడు ఇన్స్టాల్ అవుతుంది; మీరు 
+                                           &brandShortName;ను పునఃప్రారంభించవవచ్చు ఇప్పుడు, పని కొనసాగించండి మరియు తరువాత పునఃప్రారంభించుము, లేదా ఈ నవీకరణ
+                                            క్షీణిస్తుంది.">
 
 <!ENTITY  update.details.label            "వివరాలు">
 <!ENTITY  update.installedOn.label        "సంస్థాపించబడింది:">

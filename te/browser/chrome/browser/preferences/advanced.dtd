@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "సాధారణం">
 
@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "వెబ్‌సైటులు పేజీని మళ్ళించుటకు లేదా తిరిగి లోడుచేయుటకు ప్రయత్నిస్తున్నప్పుడు నన్ను హెచ్చరించు">
 <!ENTITY blockAutoRefresh.accesskey      "b">
-
-
+<!ENTITY useOnScreenKeyboard.label       "అవసరమైనప్పుడు స్పర్శా కీబోర్డు చూపించు">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "అన్వేషించు">
 
@@ -56,13 +56,13 @@
 <!ENTITY httpCache.label                 "క్యాచీ చేసిన వెబ్ విషయం">
 
 <!ENTITY offlineStorage2.label           "ఆఫ్‌లైన్ వెబ్ విషయం మరియు వాడుకరి దత్తాంశం">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "క్యాచీను యింతకు పరిమితం చేయుము">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB జాగాకు">

@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "మునుపటి స్థితిని తిరిగివుంచు">
+
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-
 <!ENTITY restorepage.errorTitle     "దయచేసి క్షమించాలి.">
 <!ENTITY restorepage.problemDesc    "మీ విండోలు, టాబ్లు &brandShortName; తిరిగి వుంచటం కుదరలేదు.  దీనికి సాధారణ కారణం ఇటీవల తెరువబడిన వెబ్ పేజీ.">
 <!ENTITY restorepage.tryThis        "తిరిగి ప్రయత్నించండి:">
@@ -21,10 +21,10 @@
 <!ENTITY restorepage.listHeader     "విండోలు మరియు టాబులు">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "విండో &#037;S">
+
+
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
 
 <!ENTITY welcomeback2.restoreButton  "వెళ్దాం పద!">
 <!ENTITY welcomeback2.restoreButton.access "L">
@@ -36,23 +36,25 @@
 
 <!ENTITY welcomeback2.label.restoreAll  "అన్ని విండోలు మరియు టాబ్‌లు తిరిగివుంచు">
 <!ENTITY welcomeback2.label.restoreSome "మీకు కావలసినవే తిరిగివుంచు">
+
+
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
 <!ENTITY welcomeback2.beforelink.pageInfo2  "మీ పొడిగింతలు మరియు ఇచ్ఛాపూర్వకమార్పులు తీసివేయబడినవి మరియు విహారిణి అమర్పులు తిరిగి వాటి అప్రమేయాలకు ఉంచబడెను. ఇది మీ సమస్యను పరిష్కరింకపోతే, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "మీరు ఇంకా ఏమి చేయగలరో తెలుసుకోండి.">
+
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
-
-
-
-
-
+<!ENTITY tabgroupsmigration.tabtitle            "మీ ఇతర టాబ్ గుంపులు మైగ్రేట్ చేయండి">
+<!ENTITY tabgroupsmigration.pagetitle2          "మేము టాబ్ గుంపులు తొలగించాము, కానీ మీ టాబ్లు సేవ్ చేశాము">
+<!ENTITY tabgroupsmigration.learnaboutaddons    "టాబ్ గుంపులు భర్తీ ఆడ్-ఆన్స్ గురించి తెలుసుకోండి.">
+<!ENTITY tabgroupsmigration.description2        "&brandShortName; మీ అన్ని గ్రూప్లు బుక్ మార్క్ చేయబడింది కాబట్టి మీరు ఏదీ కోల్పోలేదు.">
+<!ENTITY tabgroupsmigration.bookmarkbutton      "బుక్మార్క్ టాబ్ గుంపులు చూపించు">
+<!ENTITY tabgroupsmigration.restoredescription  "మీరు కూడా ఇప్పుడు కొన్ని లేదా అన్ని నేపథ్య సమూహాలు పునరుద్ధరించడానికి విండోస్ లోకి ఎంచుకోవచ్చు:">
 
