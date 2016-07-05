@@ -51,7 +51,7 @@
 <!ENTITY fxaccount_getting_started_get_started "Eñepyrũ">
 <!ENTITY fxaccount_getting_started_old_firefox "Eipuruhína apopy itujavéva &syncBrand.shortName.label; mba\u0027éva?">
 
-<!ENTITY fxaccount_status_signed_in_as "Jeike pyahu">
+<!ENTITY fxaccount_status_signed_in_as "Eike ...ramo">
 <!ENTITY fxaccount_status_manage_account "Mba\u0027ete ñangarekoha">
 <!ENTITY fxaccount_status_auth_server "Mohendahavusu mba\u0027etáva">
 <!ENTITY fxaccount_status_sync_now "Embojuehe ko\u0027ág̃a">
@@ -63,12 +63,12 @@
 <!ENTITY fxaccount_status_needs_verification2 "Ne mba\u0027ete oikotevẽ jehechajey. Ejopy emondojey hag̃ua ñanduti veve jehechajeyrãva.">
 <!ENTITY fxaccount_status_needs_credentials "Ndaikatúi eikehína. Ejopy emoñepyrũ hag̃ua tembiapo.">
 <!ENTITY fxaccount_status_needs_upgrade "Tekotevẽ embohekopyahu &brandShortName; emoñepyrũ hag̃ua tembiapo.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; oñembohekóma, hákatu ñoñembojuehéi ijeheguiete. Ejopy “Mba\u0027ekuaarã ijeheguíva ñembojuehe” Android pegua ñembojuehe &gt; Mba\u0027ekuaarã jepuru.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; hákatu ñoñembojuehéi ijeheguiete. Ejopy “Mba\u0027ekuaarã ijeheguíva ñembojuehe” Android poravorã pegua ñembojuehe &gt; Mba\u0027etekuéra.">
-<!ENTITY fxaccount_status_needs_finish_migrating "Ejopy emoñepyrũ hag̃ua tembiapo pe ne mba\u0027ete pyahu Firefox peguápe.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; oñembohekóma, hákatu ñoñembojuehéi ijehegui. Embojopara “Mba\u0027ekuaarã ijeheguíva Ñemoĩporãme” Android pegua Ñembohekópe &gt; Mba\u0027ekuaarã jepuru.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; oñembohekóma hákatu ñoñembojuehéi ijehegui. Embojopara “Mba\u0027ekuaarã ijeheguíva ñembojuehe” Android poravorã Ñembohekópe &gt; Mba\u0027etekuéra.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Ejopy emoñepyrũ hag̃ua tembiapo pe ne mba\u0027ete pyahu Firefox pegua.">
 <!ENTITY fxaccount_status_bookmarks "Techaukaha">
 <!ENTITY fxaccount_status_history "Tembiasakue">
-<!ENTITY fxaccount_status_passwords2 "Emoñepyrũ tembiapo">
+<!ENTITY fxaccount_status_passwords2 "Tembiapo moñepyrũ">
 <!ENTITY fxaccount_status_tabs "Tendayke ijurujáva">
 <!ENTITY fxaccount_status_legal "Añetegua" >
 <!-- Localization note: when tapped, the following two strings link to
