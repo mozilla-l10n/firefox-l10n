@@ -94,7 +94,7 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-<!ENTITY openInVarViewCmd.label "Variable दृश्य में खोलें">
-<!ENTITY openInVarViewCmd.accesskey "V">
-<!ENTITY storeAsGlobalVar.label "Store वैश्विक चर जैसा">
-<!ENTITY storeAsGlobalVar.accesskey "S">
+
+
+
+
