@@ -310,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Valitse tekstin korostusväri">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Muuta kirjasinkokoa">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Pienempi kirjasinkoko">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Suurempi kirjasinkoko">
 <!ENTITY boldToolbarCmd.tooltip "Lihavoi">

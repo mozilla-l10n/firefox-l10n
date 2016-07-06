@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Tiivis näkkymä">
 <!ENTITY compactVersion.accesskey "T">
 <!ENTITY folderPaneBar.label "Kansiopaneelin työkalupalkki">
+<!ENTITY folderModeSelector.label "Kansionäkymät">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Järjestelyperuste">
@@ -362,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Muokkaa viestiä uutena">
 <!ENTITY editAsNewMsgCmd.accesskey "o">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Muokkaa viestiluonnosta">
+<!ENTITY editDraftMsgCmd.accesskey "u">
 <!ENTITY createFilter.label "Luo viestistä suodatin…">
 <!ENTITY createFilter.accesskey "d">
 <!ENTITY moveMsgToMenu.label "Siirrä">
@@ -717,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "s">
 <!ENTITY contextEditMsgAsNew.label "Muokkaa uutena viestinä">
 <!ENTITY contextEditMsgAsNew.accesskey "M">
+<!ENTITY contextEditDraftMsg.label "Muokkaa viestiluonnosta">
 <!ENTITY contextArchive.label "Arkistoi">
 <!ENTITY contextArchive.accesskey "o">
 <!ENTITY contextReplySender.label "Vastaa vain lähettäjälle">
@@ -830,6 +834,7 @@
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
+<!ENTITY search.label.base1 "Etsi #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -858,6 +863,8 @@
 <!ENTITY SendMessageTo.accesskey "ä">
 <!ENTITY CopyEmailAddress.label "Kopioi sähköpostiosoite">
 <!ENTITY CopyEmailAddress.accesskey "s">
+<!ENTITY CopyNameAndEmailAddress.label "Kopioi nimi ja sähköpostiosoite">
+<!ENTITY CopyNameAndEmailAddress.accesskey "n">
 <!ENTITY CopyNewsgroupName.label "Kopioi keskusteluryhmän nimi">
 <!ENTITY CopyNewsgroupName.accesskey "e">
 <!ENTITY CopyNewsgroupURL.label "Kopioi keskusteluryhmän URL">
