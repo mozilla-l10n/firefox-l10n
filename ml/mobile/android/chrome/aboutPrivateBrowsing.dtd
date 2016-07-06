@@ -13,10 +13,13 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "നിങ്ങള്‍ സ്വകാര്യ ബ്രൗസിങ്ങില്‍ അല്ല">
 
-
+<!ENTITY privatebrowsingpage.description.trackingProtection "നിങ്ങളുടെ ബ്രൗസിങ്ങ് നിരീക്ഷിക്കാനിടയുള്ള ഭാഗങ്ങളെ &brandShortName; തടയും.">
+<!ENTITY privatebrowsingpage.description.privateDetails "നിങ്ങളുടെ നാള്‍വഴി ഞങ്ങള്‍ ഓര്‍ത്തുവെക്കില്ല, പക്ഷേ ഡൗണ്‍ലോഡ് ചെയ്ത ഫയലുകളും പുതിയ ബുക്ക്മാര്‍ക്കുകളും നിങ്ങളുടെ ഉപകരണത്തില്‍ തന്നെ ഉണ്ടാകും.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 
-<!ENTITY privatebrowsingpage.link.private "കൂടുതലറിയണോ?">
+<!ENTITY privatebrowsingpage.description.normal2 "സ്വകാര്യ ബ്രൗസിങ്ങില്‍ നിങ്ങളുടെ ബ്രൗസിങ്ങ് നാള്‍വഴിയോ കുക്കികളോ ഞങ്ങള്‍ സൂക്ഷിക്കില്ല. എങ്കിലും ചേര്‍ത്ത അടയാളക്കുറിപ്പുകളും ഡൗണ്‍ലോ‍ഡ് ചെയ്യുന്ന ഫയലുകളും ഉപകരണത്തിലുണ്ടാകും.">
 
+<!ENTITY privatebrowsingpage.link.private "കൂടുതലറിയണോ?">
+<!ENTITY privatebrowsingpage.link.normal "ഒരു പുതിയ സ്വകാര്യ ടാബ് തുറക്കൂ">
