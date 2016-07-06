@@ -19,6 +19,7 @@
 <!ENTITY dnsNotFound.title "সার্ভার পাওয়া যায়নি">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul><li> এরকম কোন বানান ভুল হয়েছে কিনা তা অ্যাড্রেসের সাথে মিলিয়ে নিন <strong>ww</strong>.example.com দিয়েছেন কিনা এইটার পরিবর্তে <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>অনুসন্ধান</button> </div> <li>আপনি যদি কোন পেজ লোড করতে সক্ষম না হন তাহলে, আপনার ডিভাইসের ডেটা এবং ওয়াইফাই কানেকশন পরীক্ষা করে নিন। <button id='wifi'>ওয়াইফাই চালু করুন</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "ফাইল পাওয়া যায়নি">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ফাইলের নামের বানান ও ছোট/বড় অক্ষর পরীক্ষা করুন।</li> <li>ফাইলের স্থান পরিবর্তন, নাম পরিবর্তন হয়েছে কিনা বা সেটি মুছে ফেলা হয়েছে কিনা তা পরীক্ষা করুন।</li> </ul>">
@@ -27,16 +28,18 @@
 
 
 <!ENTITY generic.title "ওহ্ হো!">
+<!ENTITY generic.longDesc "<p>&brandShortName; এই পৃষ্ঠাটি কোনো কারণে লোড করতে পারছে না।</p>">
 
-
+<!ENTITY malformedURI.title "ঠিকানাটি কার্যকর নয়">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>ওয়েব অ্যাড্রেস সাধারণত এরকমভাবে লেখা থাকে <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>অনুসন্ধান</button> </div> <li> ফরোয়ার্ড স্ল্যাশ ব্যবহার করছেন কিনা তা যাচাই করে নিন (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "সংযোগ বিঘ্নিত হয়েছে">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "নথিটি মেয়াদউত্তীর্ণ হয়েছে">
-
+<!ENTITY notCached.longDesc "<p>&brandShortName;' এর ক্যাশে আপনি যে নথিটি চেয়েছেন তা পাওয়া যাচ্ছে না।</p><ul><li>নিরাপত্তার জন্য, &brandShortName; নাজুক নথির জন্য পুনরায় অনুরোধ পাঠাবে না।</li><li>আবার চেষ্টা করুন বাটনে ক্লিক করে ওয়েবসাইট থেকে নথিটি পুনরায় অনুরোধ করুন।</li></ul>">
 
 <!ENTITY netOffline.title "অফলাইন মোড">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -55,6 +58,7 @@
 <!ENTITY netTimeout.title "সংযোগের সময়সীমা উত্তীর্ণ হয়েছে">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "ঠিকানাটি বোধগম্য হয়নি">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>এই ঠিকানা খোলার জন্য অন্য সফটওয়্যার ইনস্টল করার প্রয়োজন হতে পারে।</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "প্রক্সি সার্ভার সংযোগ প্রত্যাখ্যান করছে">
@@ -65,6 +69,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul><li>প্রক্সি সেটিংসমূহ সঠিক কিনা, তা পরীক্ষা করে দেখুন।</li><li>আপনার ডিভাইসে একটি কর্মক্ষম ডাটা অথবা ওয়াইফাই সংযোগ রয়েছে কিনা তা পরীক্ষা করে দেখুন<button id='wifi'>ওয়াই-ফাই আরম্ভ করুন</button>  </li>  </ul>">
 
+<!ENTITY redirectLoop.title "পৃষ্ঠাটি সঠিকভাবে রিডিরেক্ট হচ্ছে না">
 <!ENTITY redirectLoop.longDesc "<ul> <li>কুকি নিষ্ক্রিয় অথবা প্রত্যাখ্যান করা হলে, প্রায়ই এই সমস্যা হওয়ার সম্ভাবনা আছে।</li> </ul>">
 
 <!ENTITY unknownSocketType.title "সার্ভার থেকে অপ্রত্যাশিত উত্তর">
@@ -74,9 +79,11 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>প্রাপ্ত তথ্যের যথার্থতা পরীক্ষা করা সম্ভব না হওয়ার ফলে পৃষ্ঠাটি প্রদর্শন করা সম্ভব হয়নি।</li> <li>অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েব-সাইট নির্মাতাদের অবগত করুন।</li> </ul>">
 
 <!ENTITY nssBadCert.title "নিরাপদ সংযোগ স্থাপন করতে ব্যর্থ">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>সম্ভবত সার্ভারের কনফিগারেশনে সমস্যা হয়েছে অথবা কোনো ব্যক্তি এই সার্ভারের পরিচয় জাল করার চেষ্টা করছে।</li> <li>আপনি যদি আগে এই সার্ভারের সাথে সফলভাবে সংযোগ স্থাপন করে থাকেন, তাহলে সম্ভবত কোনো অস্থায়ী কারণে এই সমস্যা দেখা দিয়েছে এবং কিছুক্ষণ পর আবার চেষ্টা করুন।</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY sharedLongDesc3 "<ul> <li>এই সাইট সাময়িকভাবে পাওয়া যাচ্ছে না কিংবা খুব ব্যস্ত। কিছুক্ষণ পর আবার চেষ্টা করুন।</li> <li>কোন পেজ লোড করতে অক্ষম হলে, আপনার মোবাইল ডিভাইস এর তথ্য বা ওয়াই ফাই সংযোগ পরীক্ষা করুন। <button id='wifi'> ওয়াইফাই সক্রিয় করুন</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "বিষয়বস্তুর নিরাপত্তা নীতিমালা দ্বারা ব্লক">
 <!ENTITY cspBlocked.longDesc "<p>বএভাবে পৃষ্ঠাটি লোড করতে &brandShortName; প্রতিরোধ করে কারন পৃষ্ঠাটির বিষয়বস্তু নিরাপত্তা নীতিমালা এটিকে অনুমোদন দেয়না। </p>">
@@ -103,9 +110,11 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "অ্যাডভান্স তথ্য: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "আপনার সংযোগ নিরাপদ নয়">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "অ্যাডভান্স তথ্য: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "আপনার সংযোগ নিরাপদ নয়">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
