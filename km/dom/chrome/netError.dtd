@@ -81,5 +81,6 @@
 <!ENTITY remoteXUL.title "XUL ពី​ចម្ងាយ">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>សូម​ទាក់ទង​ម្ចាស់​តំបន់បណ្ដាញ​ ដើម្បី​ប្រាប់​ពួក​គេ​ឲ្យ​ដឹង​អំពី​បញ្ហា​នេះ ។</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "ការ​ត​ភ្ជាប់​របស់​អ្នក​មិន​មាន​សុវត្ថិភាពឡើយ​">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
