@@ -17,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "ক্ষতিকর ডাউনলোড ব্লক">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-
+<!ENTITY  blockUncommonUnwanted.label     "অনাকাঙ্খিত এবং অচেনা সফটওয়ার সম্পর্কে আমাকে সচেতন করো">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "ব্যতিক্রম... (E)">
 <!ENTITY  addonExceptions.accesskey     "E">
