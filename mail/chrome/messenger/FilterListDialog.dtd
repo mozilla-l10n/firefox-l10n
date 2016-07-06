@@ -35,5 +35,5 @@
 <!ENTITY helpButton.label "Помощ">
 <!ENTITY helpButton.accesskey "П">
 <!ENTITY closeCmd.key "W"> 
-<!ENTITY searchBox.emptyText "Търсене на филтрите по име">
+<!ENTITY searchBox.emptyText "Търсене на филтри по име…">
 

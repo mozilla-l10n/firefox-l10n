@@ -25,7 +25,7 @@
 <!ENTITY useSmoothScrolling.accesskey  "п">
 
 <!ENTITY systemIntegration.label       "Системно интегриране">
-<!ENTITY alwaysCheckDefault.label      "Винаги при стартиране се извършва проверка дали &brandShortName; е подразбиращият се пощенски клиент.">
+<!ENTITY alwaysCheckDefault.label      "Винаги при стартиране се извършва проверка дали &brandShortName; е стандартният пощенски клиент">
 <!ENTITY alwaysCheckDefault.accesskey  "В">
 <!ENTITY searchIntegration.label       "Разрешаване на &searchIntegration.engineName; да търси съобщения">
 <!ENTITY searchIntegration.accesskey   "т">
@@ -46,7 +46,7 @@
 <!ENTITY telemetryLearnMore.label        "Научете повече">
 
 <!ENTITY crashReporterSection.label      "Отчети за сривове">
-<!ENTITY crashReporterDesc.label         "&brandShortName; изпраща отчети за сривове, за да спомогне &vendorShortName; да увеличи стабилността и сигурността на пощенския клиент.">
+<!ENTITY crashReporterDesc.label         "&brandShortName; изпраща отчети за сривове, за да спомогне на &vendorShortName; да увеличи стабилността и сигурността на пощенския клиент">
 <!ENTITY enableCrashReporter.label       "Включване на отчетите">
 <!ENTITY enableCrashReporter.accesskey   "о">
 <!ENTITY crashReporterLearnMore.label    "Научете повече">
@@ -70,7 +70,7 @@
 
 <!ENTITY showSettings.label            "Настройки…">
 <!ENTITY showSettings.accesskey        "й">
-<!ENTITY proxiesConfigure.label        "Определяне как &brandShortName; се свързва с Интернет.">
+<!ENTITY proxiesConfigure.label        "Определяне как &brandShortName; се свързва с Интернет">
 <!ENTITY connectionsInfo.caption       "Връзка">
 <!ENTITY offlineInfo.caption           "Без връзка">
 <!ENTITY offlineInfo.label             "Конфигуриране настройките за работа без връзка">

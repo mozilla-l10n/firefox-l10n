@@ -56,9 +56,9 @@
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "Разстояние">
-<!ENTITY leftRightEditField.label "Отляво и отдясно">
+<!ENTITY leftRightEditField.label "Отляво и отдясно:">
 <!ENTITY leftRightEditField.accessKey "О">
-<!ENTITY topBottomEditField.label "Начало и край">
+<!ENTITY topBottomEditField.label "Начало и край:">
 <!ENTITY topBottomEditField.accessKey "й">
 <!ENTITY borderEditField.label "Плътен контур:">
 <!ENTITY borderEditField.accessKey "л">
@@ -68,7 +68,7 @@
 <!ENTITY showImageLinkBorder.accessKey "м">
 <!ENTITY LinkAdvancedEditButton.label "Разширено редактиране на връзка…">
 <!ENTITY LinkAdvancedEditButton.accessKey "Р">
-<!ENTITY LinkAdvancedEditButton.tooltip "Добавяне или промяна на атрибути на HTML, стилови атрибути и JavaScript.">
+<!ENTITY LinkAdvancedEditButton.tooltip "Добавяне или промяна на атрибути на HTML, стилови атрибути и JavaScript">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Формуляр">

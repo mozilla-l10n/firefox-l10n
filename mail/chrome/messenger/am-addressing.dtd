@@ -40,8 +40,8 @@
 <!ENTITY includeSigOnForward.label            "Включване на подпис при препращане">
 <!ENTITY includeSigOnForward.accesskey        "щ">
 
-<!ENTITY globalComposingPrefs.label           "Глобални настройки за писане...">
-<!ENTITY globalComposingPrefs.accesskey       "Г">
+<!ENTITY globalComposingPrefs.label           "Общи настройки за писане…">
+<!ENTITY globalComposingPrefs.accesskey       "п">
 
-<!ENTITY globalAddressingPrefs.label          "Глобални настройки за адресиране...">
-<!ENTITY globalAddressingPrefs.accesskey      "н">
+<!ENTITY globalAddressingPrefs.label          "Общи настройки за адресиране…">
+<!ENTITY globalAddressingPrefs.accesskey      "б">

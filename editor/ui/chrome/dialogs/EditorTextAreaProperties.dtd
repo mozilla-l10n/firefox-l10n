@@ -20,7 +20,7 @@
 <!ENTITY TextAreaTabIndex.accessKey "И">
 <!ENTITY TextAreaAccessKey.label "Клавиш за достъп:">
 <!ENTITY TextAreaAccessKey.accessKey "д">
-<!ENTITY InitialText.label "Първоначален текст">
+<!ENTITY InitialText.label "Първоначален текст:">
 <!ENTITY InitialText.accessKey "т">
 
 <!ENTITY TextAreaWrap.label "Режим пренасяне:">

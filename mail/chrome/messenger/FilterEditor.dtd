@@ -31,14 +31,14 @@
 <!ENTITY filterActionDesc.label "Изпълняват се следните действия:">
 <!ENTITY filterActionDesc.accesskey "л">
 
-<!ENTITY filterActionOrderWarning.label "Бележка: Филтиранията ще бъдат изпълнени в различна последователност">
+<!ENTITY filterActionOrderWarning.label "Бележка: Филтрите ще бъдат приложени в различна последователност.">
 <!ENTITY filterActionOrder.label "Преглед на заявките за изпълнение">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Преместване на писмото в">
 <!ENTITY copyMessage.label "Копиране на писмото в">
-<!ENTITY forwardTo.label "Препращане за:">
-<!ENTITY replyWithTemplate.label "Отговор с шаблон:">
+<!ENTITY forwardTo.label "Препращане до">
+<!ENTITY replyWithTemplate.label "Отговор с шаблон">
 <!ENTITY markMessageRead.label "Отбелязване като прочетено">
 <!ENTITY markMessageUnread.label "Отбелязване като непрочетено">
 <!ENTITY markMessageStarred.label "Добавяне на звезда">

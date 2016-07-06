@@ -25,7 +25,7 @@
 <!ENTITY background.accesskey       "Ф">
 <!ENTITY colon.character            ":">
 
-<!ENTITY backgroundImage.label      "Фоново изображение">
+<!ENTITY backgroundImage.label      "Фоново изображение:">
 <!ENTITY backgroundImage.accesskey  "б">
 <!ENTITY chooseFile.label           "Избор на файл…">
 <!ENTITY chooseFile.accesskey       "И">

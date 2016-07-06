@@ -27,5 +27,5 @@
 <!ENTITY junkClassification.label "Избор">
 <!ENTITY junkActions.label "Местоназначение и съхраняване">
 
-<!ENTITY globalJunkPrefs.label "Глобални настройки за нежелана поща">
+<!ENTITY globalJunkPrefs.label "Общи настройки за нежелана поща…">
 <!ENTITY globalJunkPrefs.accesskey "ж">
