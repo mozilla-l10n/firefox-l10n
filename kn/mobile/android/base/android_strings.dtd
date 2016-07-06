@@ -345,7 +345,7 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "ಜೂಮ್‌ ಅನ್ನು ಯಾವಾಗಲೂ ಸಕ್ರಿಯವಾಗಿರಿಸು">
 <!ENTITY pref_zoom_force_enabled_summary "ಯಾವುದೇ ಪುಟವನ್ನು ಜೂಮ್ ಮಾಡುವಂತಾಗಲು ಆದೇಶವನ್ನು ದಾಟಿ">
 <!ENTITY pref_voice_input "‍‍ಧ್ವನಿಯ ಇನ್‌ಪುಟ್">
-<!ENTITY pref_voice_input_summary2 "‍‍‍‍ URL ಪಟ್ಟಿಯಲ್ಲಿ ಧ್ವನಿ ಉತ್ಕಲೇಖನವನ್ನು ಅನುಮತಿಸು">
+<!ENTITY pref_voice_input_summary2 "‍‍‍‍URL ಪಟ್ಟಿಯಲ್ಲಿ ಧ್ವನಿ ಉತ್ಕಲೇಖನವನ್ನು ಅನುಮತಿಸು">
 <!ENTITY pref_qrcode_enabled "QR ಸಂಕೇತ ಓದುಗ">
 <!ENTITY pref_qrcode_enabled_summary2 "URL ಪಟ್ಟಿಯಲ್ಲಿ QR ಶೋಧಕವನ್ನು ಅನುಮತಿಸು">
 
