@@ -155,6 +155,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blokované kvôli zásadám ochrany obsahu">
 <!ENTITY cspBlocked.longDesc "<p>Prehliadač &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Poškodený obsah stránky">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Pridať výnimku…">
