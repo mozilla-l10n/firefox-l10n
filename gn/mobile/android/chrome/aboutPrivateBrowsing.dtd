@@ -13,13 +13,13 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Nereiméi kundaha ñemíme">
 
-<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; ojoko kuatiarogue vore ikatúva ohapykueho ne rembiapo kundahara peguáva.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Nañanemandu'amo'ãi tembiasakue rehe, hákatu umi marandurenda oguejypyréva ha techaukaga pyahu oñeñongatúta gueteri ne mba'e'okápe.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; ojoko kuatiarogue vore ikatúva ohapykueho ne rembiapo kundahára pegua.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Nañanemandu'amo'ãi tembiasakue rehe, hákatu umi marandurenda oguejypyréva ha techaukaha pyahu oñeñongatúta gueteri ne mba'e'okápe.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 
-<!ENTITY privatebrowsingpage.description.normal2 "Pe kundaha ñemíme, ndajaguerekomo'ãi mba'evéichagua kundaha rembiasakue térã kookie. Umi techaukaha oñembojuapýva ha marandurenda oñemboguejýva oñeñongatúta gueteri ne mba'e'okápe.">
+<!ENTITY privatebrowsingpage.description.normal2 "Kundaha ñemíme, ndajaguerekomo'ãi mba'evéichagua kundaha rembiasakue térã kookie. Techaukaha ojuapýva ha marandurenda oguejýva oñeñongatúta gueteri ne mba'e'okápe.">
 
-<!ENTITY privatebrowsingpage.link.private "Eikuaasevépa">
-<!ENTITY privatebrowsingpage.link.normal "Embojuruja peteĩ tendayke pyahu">
+<!ENTITY privatebrowsingpage.link.private "Eikuaasevépa?">
+<!ENTITY privatebrowsingpage.link.normal "Embojuruja tendayke pyahu">
