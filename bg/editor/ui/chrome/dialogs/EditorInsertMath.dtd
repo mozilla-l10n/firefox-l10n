@@ -5,7 +5,7 @@
 
 <!ENTITY windowTitle.label "Вмъкване на математика">
 
-<!ENTITY sourceEditField.label "Въведете текст на LaTeX :">
+<!ENTITY sourceEditField.label "Въведете текст на LaTeX:">
 
 <!ENTITY options.label "Настройки">
 <!ENTITY optionInline.label "Вложен режим">

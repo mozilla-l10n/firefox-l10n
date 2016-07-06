@@ -29,7 +29,7 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(например, &quot;Иван Петров&quot;)">
+<!ENTITY fullnameExample.label "(например, &quot;Иван Петров&quot;).">
 <!ENTITY fullnameLabel.label "Вашето име:">
 <!ENTITY fullnameLabel.accesskey "В">
 
@@ -58,7 +58,7 @@
 <!ENTITY incomingServer.accesskey "В">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "Въведете потребителското име, дадено ви от доставчика на поща (напр „jsmith“).">
-<!ENTITY incomingUsername.label "Потребителско име">
+<!ENTITY incomingUsername.label "Потребителско име:">
 <!ENTITY incomingUsername.accesskey "П">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Въведете името на новинарския сървър (NNTP) (например: &quot;news.example.net&quot;).">

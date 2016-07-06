@@ -72,7 +72,7 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "б">
 <!ENTITY synchronizeOfflineCmd.label "Изтегляне/Синхронизиране…">
 <!ENTITY synchronizeOfflineCmd.accesskey "х">
-<!ENTITY settingsOfflineCmd2.label "Настройки на работа без мрежа…">
+<!ENTITY settingsOfflineCmd2.label "Настройки на работа без мрежа">
 <!ENTITY settingsOfflineCmd2.accesskey "й">
 <!ENTITY downloadSelectedCmd.label "Изтегляне на маркирани писма">
 <!ENTITY downloadSelectedCmd.accesskey "И">

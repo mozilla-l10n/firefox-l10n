@@ -7,7 +7,7 @@
 <!ENTITY  language.label                          "Шрифтове за:">
 <!ENTITY  language.accesskey                      "Ш">
 
-<!ENTITY  size.label                              "Размер">
+<!ENTITY  size.label                              "Размер:">
 <!ENTITY  sizeProportional.accesskey              "з">
 <!ENTITY  sizeMonospace.accesskey                 "м">
 

@@ -36,9 +36,9 @@
 <!ENTITY NickName.label                 "Псевдоним:">
 <!ENTITY NickName.accesskey             "П">
 
-<!ENTITY PrimaryEmail.label             "Е-поща">
+<!ENTITY PrimaryEmail.label             "Е-поща:">
 <!ENTITY PrimaryEmail.accesskey         "Е">
-<!ENTITY SecondEmail.label              "Допълнителна е-поща">
+<!ENTITY SecondEmail.label              "Допълнителна е-поща:">
 <!ENTITY SecondEmail.accesskey          "л">
 <!ENTITY PreferMailFormat.label         "Предпочитан формат на получените писма:">
 <!ENTITY PreferMailFormat.accesskey     "у">
@@ -66,7 +66,7 @@
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Град:">
 <!ENTITY HomeCity.accesskey             "Г">
-<!ENTITY HomeState.label                "Област/Община">
+<!ENTITY HomeState.label                "Област/Община:">
 <!ENTITY HomeState.accesskey            "О">
 <!ENTITY HomeZipCode.label              "ZIP/Пощенски код:">
 <!ENTITY HomeZipCode.accesskey          "щ">
@@ -96,7 +96,7 @@
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Град:">
 <!ENTITY WorkCity.accesskey             "д">
-<!ENTITY WorkState.label                "Област/Община">
+<!ENTITY WorkState.label                "Област/Община:">
 <!ENTITY WorkState.accesskey            "О">
 <!ENTITY WorkZipCode.label              "ZIP/Пощенски код:">
 <!ENTITY WorkZipCode.accesskey          "щ">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY adaptiveJunkLog.title "Дневник на нежеланата поща">
-<!ENTITY adaptiveJunkLogInfo.label "Дневник за активността на разпознаването на нежелана поща">
+<!ENTITY adaptiveJunkLogInfo.label "Журнал за действията при разпознаване на нежелана поща.">
 <!ENTITY clearLog.label "Изчистване на дневника">
 <!ENTITY clearLog.accesskey "И">
 <!ENTITY closeLog.label "Затваряне">

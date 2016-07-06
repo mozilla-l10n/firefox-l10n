@@ -5,7 +5,7 @@
 <!ENTITY windowTitle.label            "Помощник за сметки за разговор">
 
 <!ENTITY accountProtocolTitle.label   "Мрежи за разговор">
-<!ENTITY accountProtocolInfo.label    "Моля, изберете мрежата на вашата сметка за разговор">
+<!ENTITY accountProtocolInfo.label    "Моля, изберете мрежата на вашата сметка за разговор.">
 <!ENTITY accountProtocolField.label   "Мрежа:">
 <!ENTITY accountProtocolGetMore.label "Изтегляне на повече…">
 

@@ -9,8 +9,8 @@
 <!ENTITY loginAtStartup.label "Проверка за нови статии при стартиране"> 
 <!ENTITY loginAtStartup.accesskey "р">
 
-<!ENTITY useQuickMode.label "По подразбиране се показва резюме на статията вместо да се зарежда уеб страницата."> 
-<!ENTITY useQuickMode.accesskey "д">
+<!ENTITY useQuickMode.label "Стандартно да се показва резюме на статията вместо уеб страницата"> 
+<!ENTITY useQuickMode.accesskey "С">
 
 <!ENTITY manageSubscriptions.label "Управление на абонаменти…"> 
 <!ENTITY manageSubscriptions.accesskey "У">

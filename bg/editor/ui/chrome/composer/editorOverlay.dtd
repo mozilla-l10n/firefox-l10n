@@ -134,7 +134,7 @@
 <!ENTITY styleVar.label "Променлив">
 <!ENTITY styleVar.accesskey "л">
 
-<!ENTITY formatFontColor.label "Цвят на текста">
+<!ENTITY formatFontColor.label "Цвят на текста…">
 <!ENTITY formatFontColor.accesskey "Ц">
 <!ENTITY tableOrCellColor.label "Фонов цвят на таблица или клетка…">
 <!ENTITY tableOrCellColor.accesskey "Ф">
@@ -218,7 +218,7 @@
 <!ENTITY decreaseIndent.accesskey "Н">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY colorsAndBackground.label "Цветове и фон на страницата">
+<!ENTITY colorsAndBackground.label "Цветове и фон на страницата…">
 <!ENTITY colorsAndBackground.accesskey "Ц">
 <!-- Table Menu -->
 

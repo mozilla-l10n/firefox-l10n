@@ -95,7 +95,7 @@
 
 <!ENTITY saveAttachmentButton1.label       "Запис">
 <!ENTITY saveAttachmentButton1.tooltip     "Запис на прикрепения файл">
-<!ENTITY saveAllAttachmentsButton1.label   "Запис на всички…">
+<!ENTITY saveAllAttachmentsButton1.label   "Запис на всички">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Запис на всички прикрепени файлове">
 
 <!ENTITY copyLinkCmd.label        "Копиране адреса на връзката">
