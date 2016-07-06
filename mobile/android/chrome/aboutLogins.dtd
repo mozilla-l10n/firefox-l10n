@@ -6,4 +6,4 @@
 <!ENTITY aboutLogins.title                       "പ്രവേശനങ്ങള്‍">
 <!ENTITY aboutLogins.update                      "പരിഷ്കരിയ്ക്കുക">
 
-
+<!ENTITY aboutLogins.emptyLoginHint              "നിങ്ങള്‍ &brandShortName; ഉപയോഗിച്ച് സൂക്ഷിച്ച പ്രവേശനങ്ങളും യോഗ്യതാപത്രങ്ങളും ഇവിടെ കാണിക്കും.">
