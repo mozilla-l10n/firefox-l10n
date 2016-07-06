@@ -24,6 +24,7 @@
 <!ENTITY fileNotFound.title "ফাইল পাওয়া যায়নি">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ফাইলের নামের বানান ও ছোট/বড় অক্ষর পরীক্ষা করুন।</li> <li>ফাইলের স্থান, নাম পরিবর্তিত হয়েছে কিনা বা সেটি মুছে ফেলা হয়েছে কিনা তা পরীক্ষা করুন।</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "ফাইলে প্রবেশাধিকার প্রত্যাখ্যাত হয়েছে">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>এটা মুছে ফেলা হতে পারে, সরিয়ে নেয়া হতে পারে, অথবা ফাইল প্রবেশাধিকার প্রতিরোধ করা হয়ে থাকতে পারে।</li></ul>">
 
 <!ENTITY generic.title "ওহ্ হো!">
@@ -68,11 +69,14 @@
 <!ENTITY unknownSocketType.title "সার্ভার থেকে অপ্রত্যাশিত উত্তর">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>আপনার সিস্টেমে ব্যক্তিগত নিরাপত্তা ব্যবস্থা উপস্থিত রয়েছে কিনা তা পরীক্ষা করুন।</li> <li>সার্ভারে আদর্শ কনফিগারেশন না থাকার ফলে এই সমস্যাটি হতে পারে।</li> </ul>">
 
+<!ENTITY nssFailure2.title "নিরাপদ সংযোগ স্থাপন করতে ব্যর্থ">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>প্রাপ্ত তথ্যের যথার্থতা পরীক্ষা করা সম্ভব না হওয়ার ফলে প্রদর্শনের জন্য চিহ্নিত পৃষ্ঠা প্রদর্শন করা সম্ভব হয়নি।</li> <li>অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েব-সাইট নির্মাতাদের সূচিত করুন।</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "আপনার সংযোগ নিরাপদ নয়">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/> এর মালিক তাদের ওয়েবসাইটটি ত্রুটিপূর্ণভাবে কনফিগার করেছেন।  আপনার তথ্যকে চুরি হয়ে যাওয়া থেকে বাঁচানোর জন্য &brandShortName; ওয়েবসাইটটির সাথে যুক্ত করা হয়নি।">
 
 <!ENTITY sharedLongDesc "<ul> <li>সাইটটি সম্ভবত সাময়িকভাবে অকার্যকর বা অত্যন্ত ব্যস্ত। কিছুক্ষন পর আবার চেষ্টা করুন।</li> <li>কোন পৃষ্ঠাই লোড করা সম্ভব না হলে আপনার কম্পিউটারের নেটওয়ার্ক সংযোগ পরীক্ষা করুন।</li> <li>আপনার কম্পিউটার বা নেটওয়ার্ক যদি কোনো ফায়ারওয়াল অথবা প্রক্সি দিয়ে সুরক্ষিত থাকে, &brandShortName; কে ওয়েবে সংযোগ করার অনুমতি প্রদান করা হয়েছে কিনা তা পরীক্ষা করুন।</li> </ul>">
 
