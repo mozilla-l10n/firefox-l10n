@@ -157,6 +157,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Poškodený obsah">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanú stránku nemožno zobraziť, pretože pri prenose údajov došlo k chybe.</p><ul><li>Kontaktujte prosím vlastníkov webového servera a informujte ich o tomto probléme.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Alebo môžete pridať výnimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Rýchlo odtiaľto preč!">
