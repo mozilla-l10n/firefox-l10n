@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "నిర్మూలించు">
 <!ENTITY addonAction.undo                       "చేయవద్దు">
 
+<!ENTITY addonUnsigned.message                  "ఈ యాడ్ఆన్ &brandShortName; ద్వారా ధృవీకరించబడలేదు.">
 <!ENTITY addonUnsigned.learnMore                "మరింత తెలుసుకోండి">
