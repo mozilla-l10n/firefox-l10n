@@ -12,16 +12,16 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Ko ñanduti renda <span id='malware_sitename'/> ojekuaauka ha'eha ñanduti imarãva ha ojejoko ojejesareko rire hekorosãrã ojeguerohoryvéva rehe.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Umi tenda hekomarãva oñeha'ã omohenda tembiaporape ikatúva omonda marandu ñemigua, oipuru ne mohendaha omoapañuãi hag̃ua ambuépe térã ombyai nde apopyvusu.</p><p>Oĩkuaa tenda hekomarãva omyasãi oipotaitégui software imarãva, hákatu heta ko'ãva rehegua oiko oikuaa'ỹre térã omoneĩ'ỹre ijarakuéra.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title3 "Tenda ombotavykuaáva">
+<!ENTITY safeb.blocked.phishingPage.title3 "Tenda ombotavykuaáva!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Ko ñanduti kuatiarogue <span id='phishing_sitename'/> oñemombe'úma ha'ekuaaha peteĩ tenda imarãva ha upévare ojejokóma ojejesareko rire hekorosãrã ojeguerohoryvéva rehe.">
-<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Tenda hekomarãva ojejapo ikatu hag̃ua nembotavy ha ejapo mba'e ivaíva, software ñemohenda, térã oikuaauka ne maranduete, ko'ãva ha'e ñe'ẽñemi, pumbyry papapy térã tarjeta ñemurãva.</p><p>Oimeraẽva marandu ñemoinge ko ñanduti kuatiarogue pegua ikatu ombohape nde reraite ñemonda térã ambue mba'evai.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Tenda hekomarãva ojejapo ikatu hag̃uáicha nembotavy ha ejapo mba'e ivaíva, software ñemohenda, térã oikuaauka ne maranduete, ko'ãva ha'e ñe'ẽñemi, pumbyry papapy térã tarjeta ñemurãva.</p><p>Oimeraẽva marandu ñemoinge ko ñanduti kuatiarogue pegua ikatu ombohape nde reraite ñemonda térã ambue mba'evai.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "¡Omomarandu Software renda ivaíva!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Ko ñanduti kuatiarogue <span id='unwanted_sitename'/> oñemomarandu hese oguerekoha software ivaíva ha ojejokóma hembiapoite hekotee'ỹgui.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Kuatiarogue software ivaíva omohendase software ikatúva nembotavy ha ombyai nde apopyvusu eha'ãrõ'ỹ rehe.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Tenda Ojejokopyre">
+<!ENTITY safeb.blocked.forbiddenPage.title2 "Tenda Jokopyre">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Ñanduti kuatiarogue <span id='forbidden_sitename'/> pegua ojokóma pe ñangarekohára mba'ete rupi.">
