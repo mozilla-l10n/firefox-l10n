@@ -571,8 +571,8 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Ludicrous (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
-
-
+<!ENTITY mediaLoop.label             "পুনরাবৃত্তি L">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -725,9 +725,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "সিঙ্ককৃত ট্যাব">
 
 <!ENTITY syncedTabs.sidebar.label              "সিঙ্ককৃত ট্যাব">
-
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "আপনার অন্যান্য ডিভাইসের Firefox সাইন ইন করে সেই ডিভাইসের ট্যাব এখানে দেখুন।">
+<!ENTITY syncedTabs.sidebar.noclients.title    "সিঙ্ক করা কোন ট্যাব নেই…এখনো!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "আপনি কি আপনার অন্যান্য ডিভাইসের ট্যাবসমূহ এখানে দেখতে চান?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "আপনার অন্যান্য ডিভাইসের ট্যাবের তালিকা দেখতে সাইন ইন করুন।">
 <!ENTITY syncedTabs.sidebar.notabs.label       "কোন ট্যাব খোলা নেই">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "পছন্দসমূহ &syncBrand.shortName.label; খুলুন">
@@ -737,16 +737,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.open.label                       "খুলুন O">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.openInNewTab.label               "নতুন ট্যাবে খুলুন (W)">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "W">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "নতুন উইন্ডোতে লিংক খোলা হবে (W)">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "W">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "একটি নতুন ব্যক্তিগত উইন্ডোতে লিংক খোলা হবে P">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "এই পৃষ্ঠা বুকমার্ক করা হবে…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "এ">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "অনুলিপি C">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "সিঙ্ক">
