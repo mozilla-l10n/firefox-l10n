@@ -11,8 +11,11 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "লুকানো এবং ক্ষতিকর কনটেন্ট ব্লক করো B">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
-
+<!ENTITY  blockDownloads.label            "ক্ষতিকর ডাউনলোড ব্লক">
+<!ENTITY  blockDownloads.accesskey        "d">
 
 
 
