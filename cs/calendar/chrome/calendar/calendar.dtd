@@ -12,7 +12,7 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Úkoly" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Zobrazit dokončené úkoly">
 
-<!ENTITY calendar.today.button.label          "Dnešní den">
+<!ENTITY calendar.today.button.label          "Dnes">
 <!ENTITY calendar.tomorrow.button.label       "Zítra">
 <!ENTITY calendar.upcoming.button.label       "Nadcházející">
 
@@ -325,7 +325,7 @@
 <!ENTITY calendarproperties.refreshInterval.label          "Aktualizovat kalendář:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Ručně">
 <!ENTITY calendarproperties.name.label                     "Název:">
-<!ENTITY calendarproperties.readonly.label                 "Pouze ke čtení">
+<!ENTITY calendarproperties.readonly.label                 "Pouze pro čtení">
 <!ENTITY calendarproperties.firealarms.label               "Zobrazovat upozornění">
 <!ENTITY calendarproperties.cache3.label                   "Podpora režimu offline">
 <!ENTITY calendarproperties.enabled.label                  "Zapnout kalendář">
@@ -346,8 +346,8 @@
 
 <!-- Calendar Printing -->
 <!ENTITY calendar.print.window.title "Tisk kalendáře">
-<!ENTITY calendar.print.title.label "Titulek">
-<!ENTITY calendar.print.layout.label "Vzhled">
+<!ENTITY calendar.print.title.label "Název:">
+<!ENTITY calendar.print.layout.label "Vzhled:">
 <!ENTITY calendar.print.range.label "Rozsah tisku">
 <!ENTITY calendar.print.currentView2.label "Současný pohled">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Vybrané události/úkoly">

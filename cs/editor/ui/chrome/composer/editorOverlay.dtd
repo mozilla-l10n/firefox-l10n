@@ -71,12 +71,12 @@
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Výběr velikosti písma">
-<!ENTITY decreaseFontSize.label "Zmenšit">
+<!ENTITY decreaseFontSize.label "Menší">
 <!ENTITY decreaseFontSize.accesskey "n">
 <!ENTITY decrementFontSize.key "&lt;">
 <!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
-<!ENTITY increaseFontSize.label "Zvětšit">
-<!ENTITY increaseFontSize.accesskey "v">
+<!ENTITY increaseFontSize.label "Větší">
+<!ENTITY increaseFontSize.accesskey "V">
 <!ENTITY incrementFontSize.key "&gt;">
 <!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 

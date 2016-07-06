@@ -15,9 +15,9 @@
 <!ENTITY taskAddressBook.tooltip "Adresář">
 <!-- searchAddressesCmd is also used by addressbook -->
 
-<!ENTITY searchAddressesCmd.label "Hledat kontakty…">
-<!ENTITY searchAddressesCmd.accesskey "L">
+<!ENTITY searchAddressesCmd.label "Hledat v kontaktech…">
+<!ENTITY searchAddressesCmd.accesskey "k">
 
 <!ENTITY searchMailCmd.label "Hledat ve zprávách…">
-<!ENTITY searchMailCmd.accesskey "Z">
+<!ENTITY searchMailCmd.accesskey "z">
 <!ENTITY searchMailCmd.key "f">

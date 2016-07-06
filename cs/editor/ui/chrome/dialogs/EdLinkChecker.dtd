@@ -4,6 +4,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Zkontrolovat umístění odkazu a obrázku">
-<!ENTITY succeeded.label "Úspěch">
+<!ENTITY succeeded.label "Úspěšné">
 <!ENTITY failed.label "Selhalo">
 <!ENTITY closeButton.label "Zavřít">

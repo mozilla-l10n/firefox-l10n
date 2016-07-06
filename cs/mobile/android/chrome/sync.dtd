@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow "Synchronizovat">
 
 <!ENTITY sync.setup.title "Připojení k Sync">
-<!ENTITY sync.setup.pair "Na druhém zařízení zvolte „Připojit nové zařízení“.">
+<!ENTITY sync.setup.pair "Na druhém zařízení zvolte „Připojit zařízení“.">
 <!ENTITY sync.fallback "Nejsem poblíž počítače…">
 <!ENTITY sync.setup.manual "Vložit nastavení účtu Sync">
 <!ENTITY sync.account "Název účtu">

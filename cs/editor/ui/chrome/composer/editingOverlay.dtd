@@ -22,8 +22,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publikovat jako…">
 <!ENTITY publishAsCmd.accesskey "i">
-<!ENTITY fileRevert.label "Zpět">
-<!ENTITY fileRevert.accesskey "Z">
+<!ENTITY fileRevert.label "Vrátit zpět">
+<!ENTITY fileRevert.accesskey "z">
 
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Nastavení pro publikování…">

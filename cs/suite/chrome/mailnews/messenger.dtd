@@ -114,8 +114,8 @@
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Lišta pošty">
 <!ENTITY showMessengerToolbarCmd.accesskey "p">
-<!ENTITY showSearchToolbarCmd.label "Lišta vyhledávání">
-<!ENTITY showSearchToolbarCmd.accesskey "v">
+<!ENTITY showSearchToolbarCmd.label "Lišta hledání">
+<!ENTITY showSearchToolbarCmd.accesskey "h">
 <!ENTITY showTabsToolbarCmd.label "Lišta panelů">
 <!ENTITY showTabsToolbarCmd.accesskey "n">
 
@@ -160,7 +160,7 @@
 <!ENTITY sortByFromCmd.accesskey "O">
 <!ENTITY sortByRecipientCmd.label "Příjemce">
 <!ENTITY sortByRecipientCmd.accesskey "j">
-<!ENTITY sortByUnreadCmd.label "Přečtené">
+<!ENTITY sortByUnreadCmd.label "Přečteno">
 <!ENTITY sortByUnreadCmd.accesskey "n">
 <!ENTITY sortByOrderReceivedCmd.label "Pořadí přijetí">
 <!ENTITY sortByOrderReceivedCmd.accesskey "P">
@@ -225,7 +225,7 @@
 
 <!ENTITY viewAttachmentsInlineCmd.label "Zobrazit přílohy ve zprávě">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "Z">
-<!ENTITY reloadCmd.label "Znovu načíst">
+<!ENTITY reloadCmd.label "Obnovit">
 <!ENTITY reloadCmd.accesskey "O">
 <!ENTITY stopCmd.label "Zastavit">
 <!ENTITY stopCmd.accesskey "S">
@@ -289,7 +289,7 @@
 <!ENTITY replyListCmd.accesskey "f">
 <!ENTITY replyNewsgroupCmd.label "Odpovědět do skupiny">
 <!ENTITY replyNewsgroupCmd.accesskey "u">
-<!ENTITY replySenderCmd.label "Odpovědět odesílateli">
+<!ENTITY replySenderCmd.label "Odpovědět pouze odesílateli">
 <!ENTITY replySenderCmd.accesskey "i">
 <!ENTITY replyToAllMsgCmd.label "Odpovědět všem">
 <!ENTITY replyToAllMsgCmd.accesskey "d">
@@ -336,7 +336,7 @@
 <!ENTITY fileHereMenu.accesskey "S">
 <!ENTITY copyHereMenu.label "Kopírovat sem">
 <!ENTITY copyHereMenu.accesskey "P">
-<!ENTITY tagMenu.label "Přiřadit štítek">
+<!ENTITY tagMenu.label "Štítek">
 <!ENTITY tagMenu.accesskey "t">
 <!ENTITY tagCustomize.label "Vlastní štítek…">
 <!ENTITY tagCustomize.accesskey "V">
@@ -397,7 +397,7 @@
 
 <!-- Folder Pane -->
 <!ENTITY nameColumn.label "Název">
-<!ENTITY unreadColumn.label "Nepřečtené">
+<!ENTITY unreadColumn.label "Nepřečteno">
 <!ENTITY totalColumn.label "Celkem">
 
 <!-- Toolbar items -->
@@ -440,7 +440,7 @@
 <!ENTITY deleteButton.tooltip "Smaže označené zprávy nebo složky">
 <!ENTITY undeleteButton.tooltip "Obnoví označenou smazanou zprávu">
 <!ENTITY markButton.tooltip "Označí zprávu">
-<!ENTITY stopButton.tooltip "Zastaví probíhající akci">
+<!ENTITY stopButton.tooltip "Ukončí probíhající spojení">
 <!ENTITY throbber.tooltip "Přejde na domovskou stránku aplikace &vendorShortName;">
 <!ENTITY junkButton.tooltip "Označí vybrané zprávy jako nevyžádané">
 <!ENTITY notJunkButton.tooltip "Označí vybrané zprávy jako běžné">
@@ -507,7 +507,7 @@
 <!ENTITY folderContextEmptyTrash.accesskey "k">
 <!ENTITY folderContextEmptyJunk.label "Smazat nevyžádanou poštu">
 <!ENTITY folderContextEmptyJunk.accesskey "m">
-<!ENTITY folderContextSendUnsentMessages.label "Odeslat neodeslané zprávy…">
+<!ENTITY folderContextSendUnsentMessages.label "Odeslat neodeslané zprávy">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "Odhlásit odebírání">
 <!ENTITY folderContextUnsubscribe.accesskey "d">
@@ -530,7 +530,7 @@
 <!ENTITY focusSearchInput.key "k">
 <!ENTITY advancedButton.label "Rozšířené…">
 <!ENTITY advancedButton.accesskey "R">
-<!ENTITY searchButton.label "Hledat zprávy…">
+<!ENTITY searchButton.label "Hledat ve zprávách…">
 <!ENTITY searchButton.accesskey "H">
 
 <!ENTITY all.label "Vše">

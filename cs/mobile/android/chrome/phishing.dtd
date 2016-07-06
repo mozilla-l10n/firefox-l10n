@@ -9,7 +9,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Nahlášená útočná stránka!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Tato webová stránka na serveru <span id='malware_sitename'/> byla nahlášena jako útočná stránka a proto byla na základě vašeho bezpečnostního nastavení zablokována.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Tato webová stránka na serveru <span id='malware_sitename'/> byla nahlášena jako útočná, a proto byla na základě vašeho bezpečnostního nastavení zablokována.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Útočné stránky se pokouší nainstalovat programy, které kradou vaše důvěrná data, používají váš počítač k dalším útokům, nebo jakkoliv poničí váš systém.</p><p>Některé stránky poskytují škodlivý software záměrně, řada z nich byla ale sama napadena a činí tak bez vědomí jejich vlastníků.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Klamavá stránka!">
@@ -19,7 +19,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "Nahlášena nevyžádaná stránka se software!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Tato webová stránka na serveru <span id='unwanted_sitename'/> byla nahlášena, že obsahuje nežádoucí software a byla zablokována na základě vašeho bezpečnostního nastavení.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Tato webová stránka na serveru <span id='unwanted_sitename'/> byla nahlášena, že obsahuje nevyžádaný software, a proto byla na základě vašeho bezpečnostního nastavení zablokována.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Nežádoucí stránka se software se pokouší nainstalovat software, který může být klamavý a ovlivnit váš systém neočekávanými způsoby.">
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Zablokovaná stránka">

@@ -8,65 +8,65 @@
 <!ENTITY popupWindowAllowCmd.label      "Povolit vyskakovací okna z tohoto serveru">
 <!ENTITY popupWindowAllowCmd.accesskey  "v">
 <!ENTITY openLinkCmdInTab.label       "Otevřít odkaz v novém panelu">
-<!ENTITY openLinkCmdInTab.accesskey   "N">
+<!ENTITY openLinkCmdInTab.accesskey   "n">
 <!ENTITY openLinkCmd.label            "Otevřít odkaz v novém okně">
 <!ENTITY openLinkCmd.accesskey        "O">
 <!ENTITY openLinkCmdInPrivateWindow.label     "Otevřít odkaz v anonymním okně">
-<!ENTITY openLinkCmdInPrivateWindow.accesskey "a">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "t">
 <!ENTITY openLinkInWindowCmd.label    "Otevřít">
 <!ENTITY openLinkInWindowCmd.accesskey "e">
 <!ENTITY openFrameCmd.label           "Otevřít rám v novém okně">
-<!ENTITY openFrameCmd.accesskey       "O">
+<!ENTITY openFrameCmd.accesskey       "n">
 <!ENTITY openFrameCmdInTab.label      "Otevřít rám v novém panelu">
-<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY openFrameCmdInTab.accesskey  "O">
 <!ENTITY keywordfield.label           "Přiřadit k tomuto vyhledávání klíčové slovo…">
 <!ENTITY keywordfield.accesskey       "h">
 <!ENTITY showOnlyThisFrameCmd.label     "Zobrazit pouze tento rám">
-<!ENTITY showOnlyThisFrameCmd.accesskey "P">
+<!ENTITY showOnlyThisFrameCmd.accesskey "p">
 <!ENTITY goBackCmd.label              "Zpět">
 <!ENTITY goBackCmd.accesskey          "Z">
 <!ENTITY goForwardCmd.label           "Vpřed">
 <!ENTITY goForwardCmd.accesskey       "V">
 <!ENTITY goUpCmd.label                "Výše">
-<!ENTITY goUpCmd.accesskey            "E">
+<!ENTITY goUpCmd.accesskey            "e">
 <!ENTITY reloadCmd.label              "Obnovit">
-<!ENTITY reloadCmd.accesskey          "B">
+<!ENTITY reloadCmd.accesskey          "b">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY stopCmd.label                "Zastavit">
-<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY stopCmd.accesskey            "s">
 <!ENTITY reloadFrameCmd.label         "Obnovit rám">
-<!ENTITY reloadFrameCmd.accesskey     "M">
+<!ENTITY reloadFrameCmd.accesskey     "m">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Zobrazit zdrojový kód výběru">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Zobrazit zdrojový kód MathML">
-<!ENTITY viewPartialSourceCmd.accesskey "Z">
+<!ENTITY viewPartialSourceCmd.accesskey "j">
 <!ENTITY viewPageSourceCmd.label      "Zobrazit zdrojový kód stránky">
-<!ENTITY viewPageSourceCmd.accesskey  "D">
+<!ENTITY viewPageSourceCmd.accesskey  "r">
 <!ENTITY viewFrameSourceCmd.label     "Zobrazit zdrojový kód rámu">
-<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewFrameSourceCmd.accesskey "j">
 <!ENTITY viewPageInfoCmd.label        "Zobrazit informace o stránce">
-<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "Zobrazit informace o rámu">
-<!ENTITY viewFrameInfoCmd.accesskey   "F">
+<!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY fitImageCmd.label            "Přizpůsobit obrázek velikosti okna">
-<!ENTITY fitImageCmd.accesskey        "B">
-<!ENTITY reloadImageCmd.label         "Načíst obrázek">
-<!ENTITY reloadImageCmd.accesskey     "N">
+<!ENTITY fitImageCmd.accesskey        "k">
+<!ENTITY reloadImageCmd.label         "Obnovit obrázek">
+<!ENTITY reloadImageCmd.accesskey     "b">
 <!ENTITY viewImageCmd.label           "Zobrazit obrázek">
-<!ENTITY viewImageCmd.accesskey       "i">
+<!ENTITY viewImageCmd.accesskey       "Z">
 <!ENTITY viewVideoCmd.label           "Zobrazit video">
-<!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "Zobrazit obrázek pozadí">
-<!ENTITY viewBGImageCmd.accesskey     "o">
+<!ENTITY viewVideoCmd.accesskey       "Z">
+<!ENTITY viewBGImageCmd.label         "Zobrazit obrázek na pozadí">
+<!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setDesktopBackgroundCmd.label     "Nastavit pozadí plochy…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "t">
 <!ENTITY bookmarkPageCmd.label        "Přidat stránku do záložek…">
 <!ENTITY bookmarkPageCmd.accesskey    "p">
 <!ENTITY bookmarkLinkCmd.label        "Přidat odkaz do záložek…">
-<!ENTITY bookmarkLinkCmd.accesskey    "D">
+<!ENTITY bookmarkLinkCmd.accesskey    "d">
 <!ENTITY bookmarkFrameCmd.label       "Přidat rám do záložek…">
 <!ENTITY bookmarkFrameCmd.accesskey   "d">
 <!ENTITY savePageAsCmd.label          "Uložit stránku jako…">
-<!ENTITY savePageCmd.label            "Uložit stránku jako…">
+<!ENTITY savePageCmd.label            "Uložit stránku">
 <!ENTITY savePageCmd.accesskey        "j">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameAsCmd.label         "Uložit rám jako…">
@@ -85,35 +85,35 @@
 <!ENTITY saveAudioCmd.label           "Uložit audio jako……">
 <!ENTITY saveAudioCmd.accesskey       "l">
 <!ENTITY copyLinkCmd.label            "Kopírovat adresu odkazu">
-<!ENTITY copyLinkCmd.accesskey        "K">
+<!ENTITY copyLinkCmd.accesskey        "s">
 <!ENTITY copyImageCmd.label           "Kopírovat obrázek">
-<!ENTITY copyImageCmd.accesskey       "r">
+<!ENTITY copyImageCmd.accesskey       "a">
 <!ENTITY copyVideoURLCmd.label        "Kopírovat adresu videa">
-<!ENTITY copyVideoURLCmd.accesskey    "d">
+<!ENTITY copyVideoURLCmd.accesskey    "a">
 <!ENTITY copyAudioURLCmd.label        "Kopírovat adresu audia">
-<!ENTITY copyAudioURLCmd.accesskey    "d">
+<!ENTITY copyAudioURLCmd.accesskey    "a">
 <!ENTITY metadataCmd.label            "Vlastnosti">
 <!ENTITY metadataCmd.accesskey        "V">
 <!ENTITY copyEmailCmd.label           "Kopírovat e-mailovou adresu">
-<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY copyEmailCmd.accesskey       "a">
 <!ENTITY thisFrameMenu.label          "Tento rám">
-<!ENTITY thisFrameMenu.accesskey      "t">
+<!ENTITY thisFrameMenu.accesskey      "T">
 <!ENTITY mediaPlay.label              "Přehrát">
 <!ENTITY mediaPlay.accesskey          "P">
 <!ENTITY mediaPause.label             "Pozastavit">
-<!ENTITY mediaPause.accesskey         "z">
+<!ENTITY mediaPause.accesskey         "P">
 <!ENTITY mediaMute.label              "Vypnout zvuk">
 <!ENTITY mediaMute.accesskey          "z">
 <!ENTITY mediaUnmute.label            "Zapnout zvuk">
 <!ENTITY mediaUnmute.accesskey        "z">
 <!ENTITY mediaPlaybackRate.label        "Rychlost přehrávání">
-<!ENTITY mediaPlaybackRate.accesskey    "R">
-<!ENTITY mediaPlaybackRate050.label     "Pomalé přehrávání (½×)">
+<!ENTITY mediaPlaybackRate.accesskey    "r">
+<!ENTITY mediaPlaybackRate050.label     "Pomalá (0.5×)">
 <!ENTITY mediaPlaybackRate050.accesskey "P">
-<!ENTITY mediaPlaybackRate100.label     "Normální rychlost">
+<!ENTITY mediaPlaybackRate100.label     "Normální">
 <!ENTITY mediaPlaybackRate100.accesskey "N">
-<!ENTITY mediaPlaybackRate150.label     "Rychlé přehrávání (1½×)">
-<!ENTITY mediaPlaybackRate150.accesskey "R">
+<!ENTITY mediaPlaybackRate150.label     "Rychlejší (1.5×)">
+<!ENTITY mediaPlaybackRate150.accesskey "e">
 <!ENTITY mediaPlaybackRate200.label     "Dvojnásobná rychlost">
 <!ENTITY mediaPlaybackRate200.accesskey "D">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
@@ -132,10 +132,10 @@ items are mutually exclusive. -->
 <!ENTITY videoHideStats.label         "Skrýt statistiku">
 <!ENTITY videoHideStats.accesskey     "s">
 <!ENTITY search.accesskey             "W">
-<!ENTITY bidiSwitchPageDirectionItem.label        "Přepnout orientaci stránky">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Změnit orientaci stránky">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "o">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Přepnout směr textu">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Změnit směr textu">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
 <!ENTITY spellAddToDictionary.label     "Přidat do slovníku">
 <!ENTITY spellAddToDictionary.accesskey "p">
 <!ENTITY spellUndoAddToDictionary.label      "Vrátit přidání do slovníku">
@@ -147,8 +147,8 @@ items are mutually exclusive. -->
 <!ENTITY spellNoSuggestions.label       "(Žádné návrhy nenalezeny)">
 <!ENTITY spellDictionaries.label        "Jazyky">
 <!ENTITY spellDictionaries.accesskey    "J">
-<!ENTITY spellAddDictionaries.label     "Získat další slovníky…">
-<!ENTITY spellAddDictionaries.accesskey "D">
+<!ENTITY spellAddDictionaries.label     "Přidat slovník…">
+<!ENTITY spellAddDictionaries.accesskey "P">
 <!-- Developer Tools -->
 <!ENTITY devtoolsInspect.label          "Prozkoumat prvek">
 <!ENTITY devtoolsInspect.accesskey      "P">

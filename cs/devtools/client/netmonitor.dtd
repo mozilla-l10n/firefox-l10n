@@ -20,7 +20,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 <!ENTITY netmonitorUI.reloadNotice1       "• Proveďte požadavek nebo">
-<!ENTITY netmonitorUI.reloadNotice2       "Obnovení">
+<!ENTITY netmonitorUI.reloadNotice2       "Obnovit">
 <!ENTITY netmonitorUI.reloadNotice3       "stránky, pokud chcete vidět detailní informace o síťové aktivitě.">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
@@ -75,7 +75,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.response): This is the label displayed
   -  in the network details pane identifying the response tab. -->
-<!ENTITY netmonitorUI.tab.response        "Odpovědi">
+<!ENTITY netmonitorUI.tab.response        "Odpověd">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->
@@ -87,7 +87,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.security): This is the label displayed
   -  in the network details pane identifying the security tab. -->
-<!ENTITY netmonitorUI.tab.security        "Bezpečnost">
+<!ENTITY netmonitorUI.tab.security        "Zabezpečení">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->

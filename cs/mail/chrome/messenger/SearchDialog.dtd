@@ -26,7 +26,7 @@
 <!ENTITY saveAsVFButton.accesskey    "a">
 
 <!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label       "Hledat ve složce kontaktů:">
+<!ENTITY abSearchHeading.label       "Hledat v:">
 <!ENTITY abSearchHeading.accesskey   "H">
 <!ENTITY propertiesButton.label      "Vlastnosti">
 <!ENTITY propertiesButton.accesskey  "V">
@@ -44,7 +44,7 @@
 <!ENTITY subjectColumn.label "Předmět">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Priorita">
-<!ENTITY tagsColumn.label "Štítek">
+<!ENTITY tagsColumn.label "Štítky">
 <!ENTITY accountColumn.label "Účet">
 <!ENTITY statusColumn.label "Stav">
 <!ENTITY sizeColumn.label "Velikost">
@@ -66,7 +66,7 @@
 <!ENTITY subjectColumn2.tooltip "Seřadíte podle předmětu">
 <!ENTITY dateColumn2.tooltip "Seřadíte podle data">
 <!ENTITY priorityColumn2.tooltip "Seřadíte podle priority">
-<!ENTITY tagsColumn2.tooltip "Seřadíte podle štítku">
+<!ENTITY tagsColumn2.tooltip "Seřadíte podle štítků">
 <!ENTITY accountColumn2.tooltip "Seřadíte podle účtu">
 <!ENTITY statusColumn2.tooltip "Seřadíte podle stavu">
 <!ENTITY sizeColumn2.tooltip "Seřadíte podle velikosti">

@@ -13,7 +13,7 @@
 <!ENTITY clearTimeDuration.lastHour "Poslední hodina">
 <!ENTITY clearTimeDuration.last2Hours "Poslední dvě hodiny">
 <!ENTITY clearTimeDuration.last4Hours "Poslední čtyři hodiny">
-<!ENTITY clearTimeDuration.today "Dnešek">
+<!ENTITY clearTimeDuration.today "Dnes">
 <!ENTITY clearTimeDuration.everything "Vše">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it. -->

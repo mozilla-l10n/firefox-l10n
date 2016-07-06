@@ -50,8 +50,8 @@
 <!ENTITY connection.label                "Připojení">
 
 <!ENTITY connectionDesc.label            "Konfigurovat připojení aplikace &brandShortName; k Internetu">
-<!ENTITY connectionSettings.label        "Nastavení připojení…">
-<!ENTITY connectionSettings.accesskey    "p">
+<!ENTITY connectionSettings.label        "Nastavení…">
+<!ENTITY connectionSettings.accesskey    "a">
 
 <!ENTITY httpCache.label                 "Mezipaměť webových stránek">
 

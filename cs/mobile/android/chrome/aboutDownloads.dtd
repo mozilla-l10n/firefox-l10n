@@ -10,6 +10,6 @@
 <!ENTITY aboutDownloads.remove "Smazat">
 <!ENTITY aboutDownloads.removeAll "Smazat vše">
 <!ENTITY aboutDownloads.pause "Pozastavit">
-<!ENTITY aboutDownloads.resume "Obnovit">
+<!ENTITY aboutDownloads.resume "Pokračovat">
 <!ENTITY aboutDownloads.cancel "Zrušit">
 <!ENTITY aboutDownloads.retry "Opakovat">

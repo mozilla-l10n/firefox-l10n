@@ -17,9 +17,9 @@
 <!ENTITY object.del.hint "Odstraní aktuální objekt a vymaže všechny jeho předvolby">
 <!ENTITY object.del.accesskey "O">
 
-<!ENTITY object.reset.label "Výchozí">
+<!ENTITY object.reset.label "Obnovit">
 <!ENTITY object.reset.hint "Nastaví výchozí předvolby pro aktuální objekt">
-<!ENTITY object.reset.accesskey "V">
+<!ENTITY object.reset.accesskey "v">
 
 <!ENTITY dialog.apply "Použít">
 

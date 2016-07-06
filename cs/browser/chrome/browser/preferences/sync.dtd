@@ -70,7 +70,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Nejste přihlášeni.">
-<!ENTITY signIn.label                "Přihlásit">
+<!ENTITY signIn.label                "Přihlásit se">
 <!ENTITY profilePicture.tooltip      "Změnit profilový obrázek">
 <!ENTITY verifiedManage.label        "Spravovat účet">
 <!ENTITY disconnect.label            "Odpojit…">
@@ -78,7 +78,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Zapomenout tento e-mail">
 
 <!ENTITY welcome.description "Kdekoliv používáte &brandShortName;, přistupujte ke svým panelům, záložkám, heslům a dalším datům.">
-<!ENTITY welcome.signIn.label "Přihlášení">
+<!ENTITY welcome.signIn.label "Přihlásit se">
 <!ENTITY welcome.createAccount.label "Vytvořit účet">
 
 <!ENTITY welcome.useOldSync.label "Používáte starší verzi Sync?">

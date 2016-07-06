@@ -49,7 +49,7 @@
 <!ENTITY cookies.info.host.label "Server:">
 <!ENTITY cookies.info.domain.label "Doména:">
 <!ENTITY cookies.info.path.label "Cesta:">
-<!ENTITY cookies.info.sendtype.label "Zasláno pro:">
+<!ENTITY cookies.info.sendtype.label "Omezení na:">
 <!ENTITY cookies.info.expires.label "Platnost do:">
 
 <!ENTITY cookies.ctx.remove.label "Odebrat">

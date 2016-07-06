@@ -29,7 +29,7 @@
 <!ENTITY saveAsVFButton.accesskey "a">
 
 <!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label "Hledat ve složce kontaktů:">
+<!ENTITY abSearchHeading.label "Hledat v:">
 <!ENTITY abSearchHeading.accesskey "H">
 <!ENTITY propertiesButton.label "Vlastnosti">
 <!ENTITY propertiesButton.accesskey "V">

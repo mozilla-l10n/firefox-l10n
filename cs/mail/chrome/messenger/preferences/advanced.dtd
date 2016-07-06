@@ -66,8 +66,8 @@
 <!ENTITY useService.accesskey            "s">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label            "Nastavení">
-<!ENTITY showSettings.accesskey        "N">
+<!ENTITY showSettings.label            "Nastavení…">
+<!ENTITY showSettings.accesskey        "a">
 <!ENTITY proxiesConfigure.label        "Konfigurovat připojení aplikace &brandShortName; k Internetu">
 <!ENTITY connectionsInfo.caption       "Připojení">
 <!ENTITY offlineInfo.caption           "Režim offline">
@@ -103,5 +103,5 @@
 
 <!ENTITY manageCertificates.label "Spravovat certifikáty">
 <!ENTITY manageCertificates.accesskey "f">
-<!ENTITY viewSecurityDevices.label "Bezpečnostní zařízení…">
+<!ENTITY viewSecurityDevices.label "Bezpečnostní zařízení">
 <!ENTITY viewSecurityDevices.accesskey "B">

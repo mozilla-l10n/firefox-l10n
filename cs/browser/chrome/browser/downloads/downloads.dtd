@@ -42,8 +42,8 @@
 
 <!ENTITY cmd.pause.label                  "Pozastavit">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Obnovit">
-<!ENTITY cmd.resume.accesskey             "O">
+<!ENTITY cmd.resume.label                 "Pokračovat">
+<!ENTITY cmd.resume.accesskey             "o">
 <!ENTITY cmd.cancel.label                 "Zrušit">
 <!ENTITY cmd.cancel.accesskey             "Z">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,

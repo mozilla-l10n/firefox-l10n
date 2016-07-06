@@ -12,9 +12,9 @@
 <!ENTITY search.key "f">
 <!ENTITY view.label "Zobrazit">
 
-<!ENTITY view.columns.label "Zobrazit sloupce">
+<!ENTITY view.columns.label "Zobrazené sloupce">
 <!ENTITY view.columns.accesskey "Z">
-<!ENTITY view.sortBy.label "Seřadit podle sloupce">
+<!ENTITY view.sortBy.label "Seřadit podle">
 <!ENTITY view.sortBy.accesskey "p">
 <!ENTITY view.groupBy.label "Seskupit podle">
 <!ENTITY view.groupBy.accesskey "k">

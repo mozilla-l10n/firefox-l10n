@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Vlastnosti výběrového seznamu">
-<!ENTITY Select.label "Seznam výběru">
+<!ENTITY Select.label "Výběr ze seznamu">
 <!ENTITY SelectName.label "Název seznamu:">
 <!ENTITY SelectName.accesskey "N">
 <!ENTITY SelectSize.label "Výška:">
