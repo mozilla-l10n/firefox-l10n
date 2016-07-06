@@ -7,22 +7,32 @@
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
 
+<!ENTITY inspectorCopyInnerHTML.label       "HTML ខាង​ក្នុង">
+<!ENTITY inspectorCopyInnerHTML.accesskey   "I">
 <!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
 
+<!ENTITY inspectorCopyOuterHTML.label       "HTML ខាង​ក្រៅ">
+<!ENTITY inspectorCopyOuterHTML.accesskey   "O">
 <!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
 
+<!ENTITY inspectorCopyCSSSelector.label "កម្មវិធី​ជ្រើស CSS">
+<!ENTITY inspectorCopyCSSSelector.accesskey "S">
 <!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
+<!ENTITY inspectorPasteOuterHTML.label      "HTML ខាង​ក្រៅ​">
+<!ENTITY inspectorPasteOuterHTML.accesskey  "O">
 <!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
+<!ENTITY inspectorPasteInnerHTML.label      "HTML ខាង​ក្នុង​">
+<!ENTITY inspectorPasteInnerHTML.accesskey  "I">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
@@ -76,18 +86,26 @@
      - edit attribute
      - remove attribute -->
 
+<!ENTITY inspectorAttributesSubmenu.label      "គុណ​លក្ខណៈ">
+<!ENTITY inspectorAttributesSubmenu.accesskey  "A">
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
 
+<!ENTITY inspectorAddAttribute.label        "បន្ថែម​គុណ​លក្ខណៈ">
+<!ENTITY inspectorAddAttribute.accesskey    "A">
 <!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users edit attribute
      for current node -->
 
+<!ENTITY inspectorEditAttribute.label        "កែសម្រួល​គុណលក្ខណៈ">
+<!ENTITY inspectorEditAttribute.accesskey    "E">
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
 
+<!ENTITY inspectorRemoveAttribute.label        "លុប​​គុណលក្ខណៈ​ចេញ">
+<!ENTITY inspectorRemoveAttribute.accesskey    "R">
 
 <!ENTITY inspector.selectButton.tooltip     "ជ្រើស​ធាតុ​ដោយ​ប្រើ​កណ្ដុរ">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that is
@@ -99,6 +117,8 @@
      the URL embedding the image data encoded in Base 64 (what we name
      here Image Data URL). For more information:
      https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
+
+<!ENTITY inspectorImageDataUri.label       "URL-ទិន្នន័យ​រូបភាព">
 <!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
      shown in the inspector contextual-menu for the item that lets users see
      the DOM properties of the current node. When triggered, this item
@@ -129,10 +149,14 @@
 <!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
      shown in the inspector contextual-menu for the item that lets users
      duplicate the currently selected node. -->
+
+<!ENTITY inspectorDuplicateNode.label       "ថ្នាំង​ស្ទួន">
 <!-- LOCALIZATION NOTE (inspectorAddNode.label): This is the label shown in
      the inspector toolbar for the button that lets users add elements to the
      DOM (as children of the currently selected element). -->
 
+<!ENTITY inspectorAddNode.label       "បង្កើត​ថ្នាំង​ថ្មី">
+<!ENTITY inspectorAddNode.accesskey   "C">
 <!-- LOCALIZATION NOTE (inspectorCopyHTMLSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
      copy items, which allow to:
@@ -140,6 +164,8 @@
      - Copy Outer HTML
      - Copy Unique selector
      - Copy Image data URI -->
+
+<!ENTITY inspectorCopyHTMLSubmenu.label      "​ចម្លង​">
 <!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
      paste items, which allow to:
@@ -149,3 +175,5 @@
      - After
      - As First Child
      - As Last Child -->
+
+<!ENTITY inspectorPasteHTMLSubmenu.label      "​បិទភ្ជាប់​">
