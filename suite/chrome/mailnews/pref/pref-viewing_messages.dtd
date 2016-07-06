@@ -5,16 +5,16 @@
 <!ENTITY pref.viewing.messages.title "Zobrazení zpráv">
 <!ENTITY style.label "Styl:">
 <!ENTITY style.accesskey "S">
-<!ENTITY regular.label "Obyčejné">
+<!ENTITY regular.label "Normální">
 <!ENTITY bold.label "Tučné">
 <!ENTITY italic.label "Kurzíva">
 <!ENTITY boldItalic.label "Tučná kurzíva">
 <!ENTITY size.label "Velikost:">
-<!ENTITY size.accesskey "k">
+<!ENTITY size.accesskey "V">
 <!ENTITY bigger.label "Větší">
 <!ENTITY smaller.label "Menší">
 <!ENTITY color.label "Barva:">
-<!ENTITY color.accesskey "r">
+<!ENTITY color.accesskey "a">
 <!ENTITY displayPlainText.caption "Při zobrazování textových zpráv">
 <!ENTITY fontPlainText.label "Písmo:">
 <!ENTITY fontPlainText.accesskey "P">
@@ -22,8 +22,8 @@
 <!ENTITY wrapInMsg.label "Zalamovat text na šířku okna">
 <!ENTITY wrapInMsg.accesskey "t">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label "Zobrazit emotivní značky jako ikony">
-<!ENTITY convertEmoticons.accesskey "e">
+<!ENTITY convertEmoticons.label "Zobrazit smajlíky jako ikony">
+<!ENTITY convertEmoticons.accesskey "Z">
 <!ENTITY generalMessageDisplay.caption "Obecné">
 <!ENTITY autoMarkAsRead.label "Automaticky označit zprávu jako přečtenou">
 <!ENTITY autoMarkAsRead.accesskey "A">
@@ -41,7 +41,7 @@
 <!ENTITY existingWindowRadio.accesskey "x">
 <!ENTITY disableContent.label "Blokovat ve zprávách načítání obrázků a jiného obsahu ze vzdálených serverů">
 <!ENTITY disableContent.accesskey "B">
-<!ENTITY showCondensedAddresses.label "U lidí v mém adresáři zobrazovat pouze jméno">
+<!ENTITY showCondensedAddresses.label "U lidí z mého adresáře zobrazovat pouze jméno">
 <!ENTITY showCondensedAddresses.accesskey "U">
 <!ENTITY closeMsgWindowOnDelete.label "Při smazání zprávy zavřít okno">
-<!ENTITY closeMsgWindowOnDelete.accesskey "m">
+<!ENTITY closeMsgWindowOnDelete.accesskey "s">

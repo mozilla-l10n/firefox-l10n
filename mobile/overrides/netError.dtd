@@ -13,7 +13,7 @@
 <!ENTITY connectionFailure.title "Chyba spojení">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY deniedPortAccess.title "Omezení přístupu na port">
+<!ENTITY deniedPortAccess.title "Omezení přístupu k adrese">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server nenalezen">

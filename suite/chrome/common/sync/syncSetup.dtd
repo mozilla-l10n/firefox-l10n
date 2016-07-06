@@ -73,11 +73,11 @@
 <!ENTITY addDevice.dialog.connected.label   "Zařízení připojeno">
 
 <!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Přihlásit">
+<!ENTITY setup.signInPage.title.label "Přihlásit se">
 <!ENTITY existingRecoveryKey.description "Svůj obnovovací klíč můžete nalézt v připojeném zařízení v dialogu možností &syncBrand.shortName.label;, pokud klepnete na „Obnovovací klíč“ pod tlačítkem „Správa účtu“.">
 <!ENTITY verifying.label              "Ověřování…">
-<!ENTITY resetPassword.label          "Vynulovat heslo">
-<!ENTITY resetSyncKey.label           "Ztratil jsem své další zařízení.">
+<!ENTITY resetPassword.label          "Obnovit heslo">
+<!ENTITY resetSyncKey.label           "Ztratil(a) jsem své další zařízení.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Možnosti synchronizace">

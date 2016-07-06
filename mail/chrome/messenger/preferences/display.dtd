@@ -23,7 +23,7 @@
 <!ENTITY displayText.label "Použít následující nastavení pro zobrazení citovaných zpráv v čistém textu:">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-) -->
-<!ENTITY convertEmoticons.label "Zobrazit emotivní značky jako ikony">
+<!ENTITY convertEmoticons.label "Zobrazit smajlíky jako ikony">
 <!ENTITY convertEmoticons.accesskey "Z">
 
 <!-- labels -->
@@ -49,8 +49,8 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Čtení">
 <!ENTITY display.caption                  "Zobrazení">
-<!ENTITY showCondensedAddresses.label     "Zobrazit pouze jméno odesílatele, pokud je v mém adresáři">
-<!ENTITY showCondensedAddresses.accesskey "b">
+<!ENTITY showCondensedAddresses.label     "U lidí z mého adresáře zobrazovat pouze jméno">
+<!ENTITY showCondensedAddresses.accesskey "U">
 
 <!ENTITY autoMarkAsRead.label             "Automaticky označit zprávu jako přečtenou">
 <!ENTITY autoMarkAsRead.accesskey         "A">
@@ -59,7 +59,7 @@
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "Po zobrazení po">
+<!ENTITY markAsReadDelay.label            "Pouze při zobrazení po">
 <!ENTITY markAsReadDelay.accesskey        "z">
 <!ENTITY secondsLabel.label               "sekundách">
 <!ENTITY openMsgIn.label                  "Otevírat zprávy v:">

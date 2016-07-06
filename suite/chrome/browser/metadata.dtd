@@ -25,7 +25,7 @@
 <!ENTITY link-rev.label "Zpětný vztah:">
 <!ENTITY misc-sec.label "Ostatní vlastnosti">
 <!ENTITY misc-lang.label "Jazyk textu:">
-<!ENTITY misc-title.label "Titulek:">
+<!ENTITY misc-title.label "Název:">
 <!ENTITY misc-tblsummary.label "Shrnutí tabulky:">
 <!ENTITY quote-sec.label "Vlastnosti uvozovek">
 <!ENTITY quote-cite.label "Informace:">

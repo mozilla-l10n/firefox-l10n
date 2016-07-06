@@ -58,8 +58,8 @@
 
 <!ENTITY view.columns.label "Zobrazené sloupce">
 <!ENTITY view.columns.accesskey "b">
-<!ENTITY view.sortBy.label "Řazení položek">
-<!ENTITY view.sortBy.accesskey "z">
+<!ENTITY view.sortBy.label "Seřadit podle">
+<!ENTITY view.sortBy.accesskey "d">
 
 <!ENTITY view.unsorted.label "Neřadit">
 <!ENTITY view.unsorted.accesskey "e">

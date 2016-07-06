@@ -364,7 +364,7 @@ size. -->
 <!ENTITY pref_qrcode_enabled_summary2 "Povolit skener QR v poli adresy">
 
 <!ENTITY pref_use_master_password "Použít hlavní heslo">
-<!ENTITY pref_sync2 "Přihlásit">
+<!ENTITY pref_sync2 "Přihlásit se">
 <!ENTITY pref_sync_summary2 "Synchronizace vašich panelů, záložek, přihlášení a historie">
 <!ENTITY pref_search_suggestions "Povolit našeptávání">
 <!ENTITY pref_history_search_suggestions "Zobrazit historii vyhledávání">
@@ -540,7 +540,7 @@ size. -->
 <!ENTITY page_action_dropmarker_description "Další akce">
 
 <!ENTITY masterpassword_create_title "Vytvořit hlavní heslo">
-<!ENTITY masterpassword_remove_title "Odebrat hlavní heslo">
+<!ENTITY masterpassword_remove_title "Zrušit hlavní heslo">
 <!ENTITY masterpassword_password "Heslo">
 <!ENTITY masterpassword_confirm "Potvrzení hesla">
 
@@ -662,7 +662,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
-<!ENTITY search_bar_item_desc "Vyhledat pomocí &formatS;">
+<!ENTITY search_bar_item_desc "Hledat pomocí &formatS;">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be

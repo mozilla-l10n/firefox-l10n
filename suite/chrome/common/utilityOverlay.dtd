@@ -64,8 +64,8 @@
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY clearHistoryCmd.label "Vymazat historii hledání">  
 <!ENTITY clearHistoryCmd.accesskey "V">
-<!ENTITY showSuggestionsCmd.label "Zobrazit našeptávač">  
-<!ENTITY showSuggestionsCmd.accesskey "b"> 
+<!ENTITY showSuggestionsCmd.label "Povolit našeptávání">  
+<!ENTITY showSuggestionsCmd.accesskey "n"> 
 <!ENTITY preferencesCmd.label "Předvolby…">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "e">
@@ -100,9 +100,9 @@
 
 <!ENTITY helpTroubleshootingInfo.label "Technické informace">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
-<!ENTITY releaseCmd.label "Poznámky k verzi">
+<!ENTITY releaseCmd.label "Poznámky k vydání">
 <!ENTITY releaseCmd.accesskey "P">
-<!ENTITY helpSafeMode.label "Restartovat se zakázanými doplňky…">
+<!ENTITY helpSafeMode.label "Restartovat se zakázanými doplňky">
 <!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY updateCmd.label "Zkontrolovat aktualizace…">
 <!ENTITY updateCmd.accesskey "a">
@@ -126,7 +126,7 @@
 <!ENTITY proxy.accesskey "C">
 
 <!ENTITY bidiSwitchTextDirectionItem.label "Změnit směr textu">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "z">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "r">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
 <!ENTITY customizeToolbarContext.label "Přizpůsobit…">

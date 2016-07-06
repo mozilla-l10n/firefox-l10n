@@ -24,8 +24,8 @@
 <!ENTITY migrating.title "Probíhá import…">
 <!ENTITY migrating.label "Následující položky jsou nyní importovány…">
 
-<!ENTITY selectProfile.title "Zvolte profil">
-<!ENTITY selectProfile.label "Importovat data je možné z následujících profilů:">
+<!ENTITY selectProfile.title "Volba profilu">
+<!ENTITY selectProfile.label "Importovat je možné z následujících profilů:">
 
 <!ENTITY done.title "Import byl dokončen">
 <!ENTITY done.label "Následující položky byly úspěšně importovány:">

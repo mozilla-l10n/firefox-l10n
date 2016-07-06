@@ -37,7 +37,7 @@
 <!ENTITY deleteListCmd.label "Smazat seznam">
 <!ENTITY deleteListsCmd.label "Smazat vybrané seznamy">
 <!ENTITY deleteItemsCmd.label "Smazat vybrané položky">
-<!ENTITY swapFirstNameLastNameCmd.label "Vyměnit jméno/příjmení">
+<!ENTITY swapFirstNameLastNameCmd.label "Vyměnit křestní jméno/příjmení">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "m">
 <!ENTITY propertiesCmd.label "Vlastnosti…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->

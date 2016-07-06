@@ -31,7 +31,7 @@
 <!ENTITY minimizeButton.tooltip "Minimalizovat">
 <!ENTITY restoreButton.tooltip "Obnovit">
 
-<!ENTITY feedsMenu.label "Odebírat tuto stránku">
+<!ENTITY feedsMenu.label "Odebírat kanál této stránky">
 <!ENTITY feedsMenu.accesskey "O">
 
 <!ENTITY menuBar.tooltip "Hlavní nabídka">
@@ -46,7 +46,7 @@
 <!ENTITY reloadButton.label "Obnovit">
 <!ENTITY reloadButton.tooltip "Aktualizuje načtenou stránku">
 <!ENTITY stopButton.label "Zastavit">
-<!ENTITY stopButton.tooltip "Zruší načítání stránky">
+<!ENTITY stopButton.tooltip "Zastaví načítání stránky">
 <!ENTITY searchButton.label "Hledat">
 <!ENTITY searchButton.tooltip "Napište hledané slovo do pole vlevo a klepněte na tlačítko Hledat">
 <!ENTITY goButton.label "Přejít">

@@ -7,7 +7,7 @@
 <!ENTITY language.label "Znaková sada:">
 <!ENTITY language.accesskey "Z">
 
-<!ENTITY size.label "Velikost">
+<!ENTITY size.label "Velikost:">
 <!ENTITY sizeProportional.accesskey              "e">
 <!ENTITY sizeMonospace.accesskey                 "l">
 

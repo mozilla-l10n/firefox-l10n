@@ -198,11 +198,11 @@
 <!ENTITY event.attachments.menubutton.accesskey           "t">
 <!ENTITY event.attachments.url.label                      "Webová stránka…">
 <!ENTITY event.attachments.url.accesskey                  "W">
-<!ENTITY event.attachments.popup.remove.label             "Odstranit" >
+<!ENTITY event.attachments.popup.remove.label             "Odebrat" >
 <!ENTITY event.attachments.popup.remove.accesskey         "d" >
 <!ENTITY event.attachments.popup.open.label               "Otevřít" >
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
-<!ENTITY event.attachments.popup.removeAll.label          "Odstranit vše" >
+<!ENTITY event.attachments.popup.removeAll.label          "Odebrat vše" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "v" >
 <!ENTITY event.attachments.popup.attachPage.label         "Připojit webovou stránku…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
@@ -367,7 +367,7 @@
 <!ENTITY read.only.task.start.label      "Začátek:">
 <!ENTITY read.only.event.end.label       "Konec:">
 <!ENTITY read.only.task.due.label        "Splnit do:">
-<!ENTITY read.only.repeat.label          "Opakování:">
+<!ENTITY read.only.repeat.label          "Opakovat:">
 <!ENTITY read.only.location.label        "Místo:">
 <!ENTITY read.only.category.label        "Kategorie:">
 <!ENTITY read.only.organizer.label       "Organizátor:">

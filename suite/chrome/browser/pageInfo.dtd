@@ -67,7 +67,7 @@
 <!ENTITY mediaCount "Počet">
 <!ENTITY mediaDimensions "Rozměry:">
 <!ENTITY mediaPhysDimensions "Skutečné rozměry:">
-<!ENTITY mediaTitle "Titulek:">
+<!ENTITY mediaTitle "Název:">
 <!ENTITY mediaLongdesc "Dlouhý popis:">
 <!ENTITY mediaBlockImage.accesskey "B">
 <!ENTITY mediaSaveAs "Uložit jako…">
@@ -95,8 +95,8 @@
 <!ENTITY permInstall "Instalovat doplňky">
 <!ENTITY permGeo "Prozradit polohu">
 
-<!ENTITY securityTab "Bezpečnost">
-<!ENTITY securityTab.accesskey "B">
+<!ENTITY securityTab "Zabezpečení">
+<!ENTITY securityTab.accesskey "b">
 <!ENTITY securityHeader "Bezpečnostní informace o této stránce">
 <!ENTITY securityView.certView "Zobrazit certifikát">
 <!ENTITY securityView.accesskey "c">

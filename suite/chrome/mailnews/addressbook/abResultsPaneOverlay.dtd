@@ -28,8 +28,8 @@
 <!ENTITY HomePhone.accesskey "l">
 <!ENTITY WorkPhone.label "Telefon do zaměstnání">
 <!ENTITY WorkPhone.accesskey "z">
-<!ENTITY ScreenName.label "Účet pro IM">
-<!ENTITY ScreenName.accesskey "I">
+<!ENTITY ScreenName.label "Zobrazované jméno">
+<!ENTITY ScreenName.accesskey "r">
 <!ENTITY sortAscending.label "Vzestupně">
 <!ENTITY sortAscending.accesskey "V">
 <!ENTITY sortDescending.label "Sestupně">

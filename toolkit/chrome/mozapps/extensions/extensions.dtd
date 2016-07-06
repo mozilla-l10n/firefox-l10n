@@ -168,7 +168,7 @@
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Název">
-<!ENTITY sort.name.tooltip                    "Řadit dle názvu">
+<!ENTITY sort.name.tooltip                    "Seřadit podle názvu">
 <!ENTITY sort.dateUpdated.label               "Poslední aktualizace">
 <!ENTITY sort.dateUpdated.tooltip             "Řadit dle aktualizace">
 <!ENTITY sort.relevance.label                 "Nejlepší shody">

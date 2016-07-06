@@ -62,7 +62,7 @@
 <!ENTITY cmd.properties.label "Vlastnosti">
 <!ENTITY cmd.properties.accesskey "V">
 
-<!ENTITY cmd.sortby_name.label "Seřadit podle jména">
+<!ENTITY cmd.sortby_name.label "Seřadit podle názvu">
 <!ENTITY cmd.sortby_name.accesskey "S">
 <!ENTITY cmd.context_sortby_name.accesskey "S">
 

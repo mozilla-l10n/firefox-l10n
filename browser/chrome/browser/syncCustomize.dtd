@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncCustomize.dialog.title       "Volba Sync">
-<!ENTITY syncCustomize.acceptButton.label "Začátek">
+<!ENTITY syncCustomize.acceptButton.label "Spustit">
 
 <!ENTITY syncCustomize.title              "Co byste rádi synchronizovali?">
 <!ENTITY syncCustomize.description        "Tento výběr můžete změnit v dialogu Možnosti.">

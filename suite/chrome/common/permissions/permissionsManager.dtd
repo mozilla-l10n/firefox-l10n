@@ -5,7 +5,7 @@
 <!ENTITY windowtitle.label "Výjimky">
 <!ENTITY treehead.sitename.label "Server">
 <!ENTITY treehead.status.label "Stav">
-<!ENTITY remove.label "Odebrat">
+<!ENTITY remove.label "Odebrat server">
 <!ENTITY remove.accesskey "O">
 <!ENTITY removeall.label "Odebrat všechny servery">
 <!ENTITY removeall.accesskey "e">

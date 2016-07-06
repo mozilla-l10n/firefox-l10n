@@ -146,7 +146,7 @@
 <!ENTITY permissionstable_name_header "Název">
 
 <!-- Runtime Details -->
-<!ENTITY runtimedetails_title "Info běhového prostředí">
+<!ENTITY runtimedetails_title "Informace o běhovém prostředí">
 <!ENTITY runtimedetails_adbIsRoot "ADB je root: ">
 <!ENTITY runtimedetails_summonADBRoot "root zařízení">
 <!ENTITY runtimedetails_ADBRootWarning "(vyžaduje odemčený bootloader)">
@@ -159,7 +159,7 @@
 <!ENTITY device_typenumber "Číslo">
 <!ENTITY device_typestring "Řetězec">
 <!ENTITY device_typeobject "Objekt">
-<!ENTITY device_typenone "Vyberte typ">
+<!ENTITY device_typenone "Zvolte typ">
 
 <!-- Device Preferences -->
 <!ENTITY devicepreference_title "Předvolby zařízení">

@@ -96,7 +96,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
-<!ENTITY debuggerUI.showOriginalSource           "Zobrazit původní zdroj">
+<!ENTITY debuggerUI.showOriginalSource           "Zobrazit původní zdroje">
 <!ENTITY debuggerUI.showOriginalSource.accesskey "p">
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for

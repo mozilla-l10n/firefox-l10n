@@ -22,7 +22,7 @@
 <!ENTITY pref_clearHistory_dialogMessage 'Smazat všechnu historii vyhledávání z tohoto zařízení?'>
 <!ENTITY pref_clearHistory_title 'Vymazání historie vyhledávání'>
 
-<!ENTITY search_widget_button_label 'Vyhledat'>
+<!ENTITY search_widget_button_label 'Hledat'>
 
 <!ENTITY network_error_title 'Připojení k Internetu není dostupné'>
 <!ENTITY network_error_message 'Klepněte pro kontrolu svého síťového nastavení'>

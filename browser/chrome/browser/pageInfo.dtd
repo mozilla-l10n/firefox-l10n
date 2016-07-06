@@ -61,8 +61,8 @@
 <!ENTITY permClearStorage "Vymazat úložiště">
 <!ENTITY permClearStorage.accesskey "m">
 
-<!ENTITY securityTab "Bezpečnost">
-<!ENTITY securityTab.accesskey "B">
+<!ENTITY securityTab "Zabezpečení">
+<!ENTITY securityTab.accesskey "b">
 <!ENTITY securityView.certView "Zobrazit certifikát">
 <!ENTITY securityView.accesskey "c">
 <!ENTITY securityView.unknown "neznámý">

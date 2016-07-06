@@ -161,7 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "S">
 <!ENTITY shareVideo.label "Sdílet video">
 <!ENTITY shareVideo.accesskey "S">
-<!ENTITY feedsMenu2.label "Odebírat tuto stránku">
+<!ENTITY feedsMenu2.label "Odebírat kanál této stránky">
 <!ENTITY subscribeToPageMenupopup.label "Odebírat kanál této stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odebírat kanál této stránky…">
 <!ENTITY addCurPagesCmd.label "Přidat všechny panely do záložek…">
@@ -348,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Chcete zde vidět vaše panely z ostatních zařízení?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Předvolby synchronizace">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Pro zobrazení seznamu panelů z vašich ostatních zařízení se prosím přihlaste.">
-<!ENTITY appMenuRemoteTabs.signin.label "Přihlásit ke službě Sync">
+<!ENTITY appMenuRemoteTabs.signin.label "Přihlásit se ke službě Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Zobrazit v postranní liště">
 
 <!ENTITY customizeMenu.addToToolbar.label "Přidat na lištu">
@@ -461,8 +461,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showOnlyThisFrameCmd.label     "Zobrazit pouze tento rám">
 <!ENTITY showOnlyThisFrameCmd.accesskey "p">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Znovu načíst rám">
-<!ENTITY reloadFrameCmd.accesskey     "r">
+<!ENTITY reloadFrameCmd.label         "Obnovit rám">
+<!ENTITY reloadFrameCmd.accesskey     "m">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Zobrazit zdrojový kód výběru">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Zobrazit zdrojový kód MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
@@ -609,8 +609,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Normální">
-<!ENTITY fullZoomResetCmd.accesskey     "N">
+<!ENTITY fullZoomResetCmd.label         "Výchozí">
+<!ENTITY fullZoomResetCmd.accesskey     "c">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -658,7 +658,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Změnit orientaci stránky">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "o">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Změnit orientaci textu">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Změnit směr textu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
@@ -880,7 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Zavřete všechny <html:strong>panely</html:strong> a <html:strong>okna</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Otevřete nové prázdné okno">
 
-<!ENTITY panicButton.view.undoWarning             "Tuto operaci nelze vzít zpět.">
+<!ENTITY panicButton.view.undoWarning             "Tuto akci nelze vzít zpět.">
 <!ENTITY panicButton.view.forgetButton            "Zapomenout!">
 
 <!ENTITY panicButton.thankyou.msg1                "Vaše nedávná historie byla vymazána.">

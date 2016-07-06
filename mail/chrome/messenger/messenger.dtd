@@ -168,7 +168,7 @@
 <!ENTITY folderModeSelector.label "Zobrazení složek">
 
 <!-- Sort Menu -->
-<!ENTITY sortMenu.label "Seřadit podle sloupce">
+<!ENTITY sortMenu.label "Seřadit podle">
 <!ENTITY sortMenu.accesskey "p">
 <!ENTITY sortByDateCmd.label "Datum">
 <!ENTITY sortByDateCmd.accesskey "D">
@@ -196,7 +196,7 @@
 <!ENTITY sortByRecipientCmd.accesskey "j">
 <!ENTITY sortByCorrespondentCmd.label "Korespondenti">
 <!ENTITY sortByCorrespondentCmd.accesskey "K">
-<!ENTITY sortByUnreadCmd.label "Přečtené">
+<!ENTITY sortByUnreadCmd.label "Přečteno">
 <!ENTITY sortByUnreadCmd.accesskey "n">
 <!ENTITY sortByOrderReceivedCmd.label "Pořadí přijetí">
 <!ENTITY sortByOrderReceivedCmd.accesskey "P">
@@ -387,7 +387,7 @@
 <!ENTITY watchThreadMenu.label "Sledovat vlákno">
 <!ENTITY watchThreadMenu.accesskey "v">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY tagMenu.label "Přiřadit štítek">
+<!ENTITY tagMenu.label "Štítek">
 <!ENTITY tagMenu.accesskey "t">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
@@ -557,7 +557,7 @@
 <!ENTITY undeleteButton.tooltip "Obnoví označené zprávy">
 <!ENTITY markButton.tooltip "Označí zprávu">
 <!ENTITY printButton.tooltip "Vytiskne zprávu">
-<!ENTITY stopButton.tooltip "Zastaví probíhající akci">
+<!ENTITY stopButton.tooltip "Ukončí probíhající spojení">
 <!ENTITY junkButton.tooltip "Označí vybrané zprávy jako nevyžádané">
 <!ENTITY notJunkButton.tooltip "Označí vybrané zprávy jako běžné">
 <!ENTITY addressBookButton.tooltip "Přejde do Adresáře">
@@ -602,7 +602,7 @@
 
 <!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Název">
-<!ENTITY folderUnreadColumn.label "Nepřečtené">
+<!ENTITY folderUnreadColumn.label "Nepřečteno">
 <!ENTITY folderTotalColumn.label "Celkem">
 <!ENTITY folderSizeColumn.label "Velikost">
 
@@ -625,7 +625,7 @@
 <!ENTITY folderContextEmptyTrash.accesskey "k">
 <!ENTITY folderContextEmptyJunk.label "Smazat nevyžádanou poštu">
 <!ENTITY folderContextEmptyJunk.accesskey "m">
-<!ENTITY folderContextSendUnsentMessages.label "Odeslat neodeslané zprávy…">
+<!ENTITY folderContextSendUnsentMessages.label "Odeslat neodeslané zprávy">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "Odhlásit odebírání">
 <!ENTITY folderContextUnsubscribe.accesskey "d">
@@ -668,14 +668,14 @@
 <!ENTITY subjectColumn.label "Předmět">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Priorita">
-<!ENTITY tagsColumn.label "Štítky">
+<!ENTITY tagsColumn.label "Štítek">
 <!ENTITY accountColumn.label "Účet">
 <!ENTITY statusColumn.label "Stav">
 <!ENTITY sizeColumn.label "Velikost">
 <!ENTITY junkStatusColumn.label "Druh zprávy">
-<!ENTITY unreadColumn.label "Nepřečtené">
+<!ENTITY unreadColumn.label "Nepřečteno">
 <!ENTITY totalColumn.label "Celkem">
-<!ENTITY readColumn.label "Přečtené">
+<!ENTITY readColumn.label "Přečteno">
 <!ENTITY receivedColumn.label "Doručeno">
 <!ENTITY starredColumn.label "Hvězdička">
 <!ENTITY locationColumn.label "Umístění">
@@ -691,7 +691,7 @@
 <!ENTITY subjectColumn2.tooltip "Seřadíte podle předmětu">
 <!ENTITY dateColumn2.tooltip "Seřadíte podle data">
 <!ENTITY priorityColumn2.tooltip "Seřadíte podle priority">
-<!ENTITY tagsColumn2.tooltip "Seřadíte podle štítku">
+<!ENTITY tagsColumn2.tooltip "Seřadíte podle štítků">
 <!ENTITY accountColumn2.tooltip "Seřadíte podle účtu">
 <!ENTITY statusColumn2.tooltip "Seřadíte podle stavu">
 <!ENTITY sizeColumn2.tooltip "Seřadíte podle velikosti">
@@ -881,7 +881,7 @@
 <!ENTITY spellAddDictionaries.accesskey "P">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Uložit cíl odkazu jako…">
+<!ENTITY saveLinkAsCmd.label "Uložit odkaz jako…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "Uložit obrázek jako…">
 <!ENTITY saveImageAsCmd.accesskey "r">

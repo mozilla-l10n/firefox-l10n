@@ -44,7 +44,7 @@
 <!ENTITY useStyleSheetNone.accesskey "N">
 <!ENTITY useStyleSheetPersistentOnly.label "Základní styl">
 <!ENTITY useStyleSheetPersistentOnly.accesskey "z">
-<!ENTITY bidiSwitchPageDirectionItem.label "Přepnout orientaci stránky">
+<!ENTITY bidiSwitchPageDirectionItem.label "Změnit orientaci stránky">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "o">
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
 <!ENTITY pageSourceCmd.accesskey "j">

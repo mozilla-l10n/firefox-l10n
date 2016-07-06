@@ -7,7 +7,7 @@
 <!ENTITY filterName.label "Název filtru:">
 <!ENTITY filterName.accesskey "N">
 
-<!ENTITY recentFolders.label "Nedávné">
+<!ENTITY recentFolders.label "Poslední">
 
 <!ENTITY junk.label "Nevyžádaná">
 <!ENTITY notJunk.label "Není nevyžádaná">

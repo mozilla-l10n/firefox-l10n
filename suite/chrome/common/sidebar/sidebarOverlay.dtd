@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sidebar.panels.label "Lišta">
+<!ENTITY sidebar.panels.label "Postranní lišta">
 <!ENTITY sidebar.reload.label "Obnovit">
 <!ENTITY sidebar.reload.accesskey "N">
 <!ENTITY sidebar.picker.label "Panely">
@@ -28,7 +28,7 @@
 <!ENTITY sidebar.close.tooltip "Zavře postranní lištu">
 <!ENTITY sidebar.open.tooltip "Otevře postranní lištu">
 
-<!ENTITY sidebar.search.label "Hledání">
+<!ENTITY sidebar.search.label "Hledat">
 <!ENTITY sidebar.client-bookmarks.label "Záložky">
 <!ENTITY sidebar.client-history.label "Historie">
 <!ENTITY sidebar.client-addressbook.label "Adresář">
