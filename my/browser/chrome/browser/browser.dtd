@@ -681,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "လုံခြုံသော ချိတ်ဆက်မှု">
 <!ENTITY identity.connectionNotSecure "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 <!ENTITY identity.connectionFile "ဒီစာမျက်နှာကို သင့်ကွန်ပြူတာတွင် သိမ်းထားသည်။">
-
+<!ENTITY identity.connectionVerified2 "သင်သည် ဒီဆိုက်ကို လုံခြုံစွာ ချိတ်ဆက်နိုင်ခဲ့သည်။ ဆောင်ရွက်သူ။:">
 <!ENTITY identity.connectionInternal "ဒီ &brandShortName; စာမျက်နှာသည် လုံခြုံစိတ်ချရသည်။">
 <!ENTITY identity.insecureLoginForms2 "ဒီစာမျက်နှာကို ဝင်ရောက်ရာတွင် အသုံးပြုသည့် အချက်အလက်များသည် တိုက်ခိုက်ခိုးယူခံရနိုင်သည်။">
 <!-- Strings for connection state warnings. -->
@@ -709,7 +709,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "ပိုမို လေ့လာပါ">
 
-
+<!ENTITY identity.removeCertException.label "(R)ခြွင်းချက် ဖယ်ရှားရန်">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "အချက်အလက် ပိုမိုကြည့်ရန်">
 
@@ -723,26 +724,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncTabsMenu3.label     "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
 
-
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
+<!ENTITY syncedTabs.sidebar.noclients.label    "သင့်အခြားကိရိယာများရှိ တပ်ဗ်များကို ဒီနေရာတွင်ကြည့်ရန် ထိုကိရိယာများရှိ မီးမြေခွေးသို့ ဝင်ရောက်ပါ။">
+<!ENTITY syncedTabs.sidebar.noclients.title    "ချိတ်ဆက်ထားသည့်တပ်ဗ်များ… မရှိသေးပါ။">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "အခြားကိရိယာများမှ သင့်တပ်ဗ်များကို ဒီနေရာမှာ မြင်တွေ့ချင်ပါသလား။">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "သင့်အခြားကိရိယာများရှိ တဗ်စာရင်းကို ကြည့်ရန် ဝင်ရောက်ပါ။">
+<!ENTITY syncedTabs.sidebar.notabs.label       "ဖွင့်ထားသည့်တပ်ဗ်များ မရှိပါ">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; ၏ အပြင်အဆင်များကို ဖွင့်ပါ">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "သင့်အခြား ကိရိယာများမှ တပ်ဗ်စာရင်းကို ကြည့်ရန် တပ်ဗ်ထပ်တူပြုအသုံးပြုခြင်းကို ဖွင့်ပါ။">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "(O) ဖွင့်ပါ">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "(w) တပ်ဗ်အသစ်တစ်ခုတွင် ဖွင့်ပါ">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "(N) ၀င်းဒိုးအသစ် တစ်ခုတွင် ဖွင့်ပါ">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "(P) သီးသန့် ဝင်းဒိုးအသစ်ထဲတွင် ဖွင့်ပါ။">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "(B) ဒီစာမျက်နှာကို မှတ်သားပါ…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "(C) ကူးယူပါ">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
