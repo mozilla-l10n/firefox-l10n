@@ -148,7 +148,7 @@
 <!ENTITY dsnMenu.accesskey "A">
 <!ENTITY deliveryFormatMenu.label "Ofleveropmaak">
 <!ENTITY deliveryFormatMenu.accesskey "m">
-<!ENTITY autoFormatCmd.label "Automatysk ûntdekke ">
+<!ENTITY autoFormatCmd.label "Automatysk detektearje">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Allinnich platte tekst">
 <!ENTITY plainTextFormatCmd.accesskey "p">

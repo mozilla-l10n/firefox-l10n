@@ -30,7 +30,7 @@
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Alle fuortsmite, útsein de lêste">
 <!ENTITY retentionKeepRecent.accesskey "a">
-<!ENTITY retentionApplyToFlagged.label "Berjochten mei stjer altyd bewarje">
+<!ENTITY retentionApplyToFlagged.label "Berjochten mei stjerke altyd bewarje">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Syngronisaasje">

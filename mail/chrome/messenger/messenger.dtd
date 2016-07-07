@@ -101,7 +101,7 @@
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "A">
 <!ENTITY selectMenu.label "Selektearje">
 <!ENTITY selectMenu.accesskey "S">
-<!ENTITY all.label "Alles">
+<!ENTITY all.label "Alle">
 <!ENTITY all.accesskey "A">
 <!ENTITY selectThreadCmd.label "Petear">
 <!ENTITY selectThreadCmd.accesskey "P">
@@ -154,7 +154,7 @@
 <!ENTITY folderView.accesskey "M">
 <!ENTITY unifiedFolders.label "Sammele">
 <!ENTITY unifiedFolders.accesskey "S">
-<!ENTITY allFolders.label "Alles">
+<!ENTITY allFolders.label "Alle">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Net lêzen">
 <!ENTITY unreadFolders.accesskey "N">
@@ -200,9 +200,9 @@
 <!ENTITY sortByUnreadCmd.accesskey "z">
 <!ENTITY sortByOrderReceivedCmd.label "Folchoarder fan ûntfangst">
 <!ENTITY sortByOrderReceivedCmd.accesskey "F">
-<!ENTITY sortAscending.label "Oprinnend">
+<!ENTITY sortAscending.label "Opgeand">
 <!ENTITY sortAscending.accesskey "O">
-<!ENTITY sortDescending.label "Ofrinnend">
+<!ENTITY sortDescending.label "Delgeand">
 <!ENTITY sortDescending.accesskey "f">
 <!ENTITY sortThreaded.label "Petearen">
 <!ENTITY sortThreaded.accesskey "P">
@@ -214,7 +214,7 @@
 <!ENTITY msgsMenu.accesskey "B">
 <!ENTITY threads.label "Petearen">
 <!ENTITY threads.accesskey "P">
-<!ENTITY allMsgsCmd.label "Alles">
+<!ENTITY allMsgsCmd.label "Alle">
 <!ENTITY allMsgsCmd.accesskey "A">
 <!ENTITY expandAllThreadsCmd.label "Alle petearen útklappe">
 <!ENTITY expandAllThreadsCmd.accesskey "ú">
@@ -233,7 +233,7 @@
 
 <!ENTITY headersMenu.label "Berjochtkoprigels">
 <!ENTITY headersMenu.accesskey "K">
-<!ENTITY headersAllCmd.label "Alles">
+<!ENTITY headersAllCmd.label "Alle">
 <!ENTITY headersAllCmd.accesskey "A">
 <!ENTITY headersNormalCmd.label "Normaal">
 <!ENTITY headersNormalCmd.accesskey "N">
@@ -454,7 +454,7 @@
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "b">
-<!ENTITY addons.label "Tafoegingen">
+<!ENTITY addons.label "Add-ons">
 <!ENTITY addons.accesskey "T">
 <!ENTITY activitymanager.label "Aktiviteitebehearder">
 <!ENTITY activitymanager.accesskey "a">
@@ -737,7 +737,7 @@
 <!ENTITY contextForwardAsMenu.accesskey "o">
 <!ENTITY contextForwardAsInline.label "Yn berjocht">
 <!ENTITY contextForwardAsInline.accesskey "Y">
-<!ENTITY contextForwardAsAttachmentItem.label "As bylage">
+<!ENTITY contextForwardAsAttachmentItem.label "Bylage">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "l">
 <!ENTITY contextMultiForwardAsAttachment.label "Trochstjoere as bylagen">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "o">
@@ -923,4 +923,4 @@
 <!ENTITY showAllAppsCmdMac.label        "Lit alles sjen">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
-<!ENTITY dockOptions.label              "App-ikoanopsjes…">
+<!ENTITY dockOptions.label              "Programmasymboalopsjes…">

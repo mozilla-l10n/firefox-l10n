@@ -31,7 +31,7 @@
 <!ENTITY DeletePlainText.label        "Fuortsmite">
 <!ENTITY DeletePlainText.accesskey    "s">
 
-<!ENTITY add.htmltitle                "In HTML-domeinnamme tafoegje">
+<!ENTITY add.htmltitle                "HTML-domeinnamme tafoegje">
 <!ENTITY add.htmldomain               "HTML-domeinnamme:">
-<!ENTITY add.plaintexttitle           "In platte-tekstdomeinnamme tafoegje">
+<!ENTITY add.plaintexttitle           "Platte-tekstdomeinnamme tafoegje">
 <!ENTITY add.plaintextdomain          "Platte-tekstdomeinnamme:">
