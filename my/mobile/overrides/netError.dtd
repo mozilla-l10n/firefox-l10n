@@ -25,7 +25,7 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>ဖိုင်နာမည်အား အကြီးစာလုံးပေးထားမိလားသို့အခြားပြဿနာရှီလားစစ်ပါ</li> <li>ဖိုင်အားဖျက်လိုက် သို့နာမည်ပြောင်းလိုက်လားစစ်ပါ </li> </ul>">
 
 <!ENTITY fileAccessDenied.title "ဖိုင်အသုံးပြုခြင်းကို တားမြစ်ထားသည်">
-<!ENTITY fileAccessDenied.longDesc "<ul> <li>It may have been removed, moved, or file permissions may be preventing access.</li> </ul>">
+
 
 <!ENTITY generic.title "တောင်းဆိုချက်ကို အပြီးမသတ်နိုင်ဘူး">
 <!ENTITY generic.longDesc "<p>&brandShortName; can’t load this page for some reason.</p>">
@@ -108,14 +108,11 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "လုံခြုံစိတ်ချစွာ မချိတ်ဆက်နိုင်ပါ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-<!ENTITY sslv3Used.longDesc "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc "Advanced info: SSL_ERROR_NO_CYPHER_OVERLAP">
 
 <!ENTITY inadequateSecurityError.title "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

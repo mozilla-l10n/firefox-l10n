@@ -7,10 +7,10 @@
 <!ENTITY firstrun_urlbar_message "&brandShortName; မှ ကြိုဆိုပါသည်။">
 <!ENTITY firstrun_urlbar_subtext "အကူအညီရသောရှာဖွေမှုအကြံပြုချက်ဆိုင်ရာ အလွယ်ခလုတ်များကို အသုံးပြုပြီး ပိုမိုလျင်မြန်စွာ ရှာဖွေပါ။">
 <!ENTITY firstrun_bookmarks_title "မှတ်တမ်း">
-<!ENTITY firstrun_bookmarks_message "Your faves, front and center">
+
 <!ENTITY firstrun_bookmarks_subtext "သင်ရှာဖွေသည့်အခါ စာမှတ်များနှင့် မှတ်တမ်းများမှ ရလဒ်များကို ရယူပါ။">
 <!ENTITY firstrun_data_title "အချက်အလက်">
-<!ENTITY firstrun_data_message "Less data, more savings">
+
 <!ENTITY firstrun_data_subtext2 "သင်ကြည့်ရှုသည့် ဝဘ်ဆိုက်များ မိုဘိုင်းဒေတာ သုံးစွဲမှုနည်းစေရန် ရုပ်ပုံများကို ပိတ်ပါ။">
 <!ENTITY firstrun_sync_title "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
 <!ENTITY firstrun_sync_message "&brandShortName; သည် သင့်ဘေးတွင် အမြဲရှိသည်">
@@ -31,7 +31,6 @@
 
 <!ENTITY firstrun_readerview_title "ဆောင်းပါးများ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-<!ENTITY firstrun_readerview_message "Lose the clutter">
 <!ENTITY firstrun_readerview_subtext "အော့ဖ်လိုင်း ဖြစ်နေလျှင်တောင်မှ \u2014 ဆောင်းပါးများကို ပိုမိုလွယ်ကူစွာ ဖတ်ရှုနိုင်ရန် စာဖတ်အမြင်ကို အသုံးပြုပါ။">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
@@ -282,7 +281,6 @@
 <!ENTITY tab_queue_prompt_tip_text2 "ဒီဟာကို အပြင်အဆင်များတွင် ပြင်ဆင်ပြောင်းလဲနိုင်ပါသည်။">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Turn on Permit drawing over other apps">
 <!ENTITY tab_queue_prompt_positive_action_button "ဖွင့်ပါ">
 <!ENTITY tab_queue_prompt_negative_action_button "ယခု မဆောင်ရွက်သေးပါ">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -299,8 +297,6 @@
 <!ENTITY tab_queue_notification_text_singular2 "တဗ် 1 ခု စောင့်ဆိုင်းနေသည်">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-
-<!ENTITY tab_queue_notification_settings "လင့်အများအပြားကို ဖွင့်ရန်၊ &brandShortName; အတွက် \u0027Draw over other apps\u0027 ကို ဆောင်ရွက်ခွင့်ပေးပါ။">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -358,7 +354,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "ဝတ်ဆိုဒ်များမှ အလိုအလျောက် မီဒီယာ သို့ ရုရှင်များအား အလိုအလျောက်ပြသခွင့်ရှိမရှိ သတ်မှတ်ပါ">
 <!ENTITY pref_zoom_force_enabled "မြင်ကွင်းချုံ့ချဲ့ ကို အမြဲတမ်း ဖွင့်ထားရန်">
 <!ENTITY pref_zoom_force_enabled_summary "အပြင်အဆင်ကို အတင်း သတ်မှတ်ပါ။ ထိုအခါ မည်သည့်စာမျက်နှာမဆို ချုံ့/ချဲ့ ကြည့်ရှုနိုင်ပါမည်။">
-<!ENTITY pref_voice_input "Voice input">
+
 <!ENTITY pref_voice_input_summary2 "URL ဘားရှိ အသံဖြင့်စေခိုင်းမှုကို ခွင့်ပြုပါ">
 <!ENTITY pref_qrcode_enabled "QR ကုဒ်ဖတ်သူ">
 <!ENTITY pref_qrcode_enabled_summary2 "URL ဘားရှိ QR ရှာဖွေသူကို ခွင့်ပြုပါ">
