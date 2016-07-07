@@ -24,4 +24,5 @@
 <!ENTITY button.cancel.label          "Peruuta">
 <!ENTITY button.cancel.accesskey      "r">
 <!ENTITY button.ok.label              "Tallenna muutokset">
+<!ENTITY button.ok.accesskey          "T">
 
