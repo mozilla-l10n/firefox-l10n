@@ -97,7 +97,7 @@
 <!ENTITY unknownProtocolFound.title "It adres waard net begrepen">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Jo moatte miskien oare software ynstallearje om dit adres te iepenjen.</li>
+  <li>Miskien moatte jo oare software ynstallearje om dit adres te iepenjen.</li>
 </ul>
 ">
 
@@ -131,8 +131,8 @@
 <!ENTITY unknownSocketType.title "Unferwacht antwurd fan de server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Gean nei oft de persoanlike befeiligingsbehearder ynstallearre is op
-    jo systeem.</li>
+  <li>Soargje derfoar dat de persoanlike befeiligingsbehearder op jo systeem 
+  ynstallearre is.</li>
   <li>Dit kin it gefolch wêze fan in net-standert konfiguraasje fan de server.</li>
 </ul>
 ">
@@ -170,7 +170,7 @@ was trying to connect. -->
 
 
 
-<!ENTITY securityOverride.exceptionButtonLabel "Foech Utsûndering ta">
+<!ENTITY securityOverride.exceptionButtonLabel "Utsûndering tafoegje…">
 
 <!ENTITY errorReporting.automatic2 "Flaters as dizze rapportearje om Mozilla te helpen kweawollende websites te werkennen en te blokkearjen">
 <!ENTITY errorReporting.learnMore "Mear ynfo…">
