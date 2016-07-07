@@ -107,8 +107,8 @@
 <!ENTITY  event.menu.options.accesskey                        "O">
 <!ENTITY  event.menu.options.attendees.label                  "Dielnimmers útnûgje…">
 <!ENTITY  event.menu.options.attendees.accesskey              "D">
-<!ENTITY  event.menu.options.timezone2.label                   "Tiidsoanes toane">
-<!ENTITY  event.menu.options.timezone2.accesskey               "s">
+<!ENTITY  event.menu.options.timezone2.label                  "Tiidsoanes toane">
+<!ENTITY  event.menu.options.timezone2.accesskey              "s">
 <!ENTITY  event.menu.options.priority2.label                  "Prioriteit">
 <!ENTITY  event.menu.options.priority2.accesskey              "r">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Net spesifisearre">
@@ -194,9 +194,9 @@
 <!ENTITY event.description.accesskey                      "w">
 <!ENTITY event.attachments.label                          "Bylagen:" >
 <!ENTITY event.attachments.accesskey                      "B" >
-<!ENTITY event.attachments.menubutton.label               "Tafoegje">
-<!ENTITY event.attachments.menubutton.accesskey           "T">
-<!ENTITY event.attachments.url.label                      "Webside…">
+<!ENTITY event.attachments.menubutton.label               "Keppelje">
+<!ENTITY event.attachments.menubutton.accesskey           "K">
+<!ENTITY event.attachments.url.label                      "Website…">
 <!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "Fuortsmite" >
 <!ENTITY event.attachments.popup.remove.accesskey         "F" >
@@ -204,7 +204,7 @@
 <!ENTITY event.attachments.popup.open.accesskey           "I" >
 <!ENTITY event.attachments.popup.removeAll.label          "Alle fuortsmite" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
-<!ENTITY event.attachments.popup.attachPage.label         "Webstee keppelje…" >
+<!ENTITY event.attachments.popup.attachPage.label         "Website keppelje…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "W">
 <!ENTITY event.url.label                                  "Byhearende keppeling:" >
 <!ENTITY event.priority2.label                            "Prioriteit:">
