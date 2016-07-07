@@ -634,12 +634,8 @@
 <!ENTITY social.toggleNotifications.label "Wyświetlaj powiadomienia">
 <!ENTITY social.toggleNotifications.accesskey "e">
 
-<!ENTITY social.activated.description "Usługi dostarczane przez <label/> zostały włączone. Można zmienić ustawienia dla tych usług w <label class='text-link'>Menedżerze dodatków</label>.">
-<!ENTITY social.activated.undo.label "Cofnij to!">
-<!ENTITY social.activated.undo.accesskey "C">
 <!ENTITY social.learnMore.label "Więcej informacji…">
 <!ENTITY social.learnMore.accesskey "W">
-<!ENTITY social.closeNotificationItem.label "Nie teraz">
 
 <!ENTITY social.directory.label "Katalog aktywowania">
 <!ENTITY social.directory.text "Poprzez katalog można dodać obsługę serwisów udostępniania.">
