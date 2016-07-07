@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookWindow.title 						"Adresboek">
+<!ENTITY addressbookWindow.title 						            "Adresboek">
 <!ENTITY blankResultsPaneMessage.label                  "Dit adresboek toant allnnich kontakten nei in sykopdracht">
 <!ENTITY localResultsOnlyMessage.label                  "Kontakten út eksterne adresboeken wurde pas nei in sykopdracht toand">
 <!-- File Menu -->

@@ -19,7 +19,7 @@
 <!ENTITY alwaysAsk.accesskey          "M">
 <!ENTITY chooseFolderWin.label        "Blêdzje…">
 <!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "Kies…">
+<!ENTITY chooseFolderMac.label        "Kieze…">
 <!ENTITY chooseFolderMac.accesskey    "K">
 
 <!ENTITY attachments.incoming.label   "Ynkommend">
@@ -34,5 +34,5 @@
 <!ENTITY authRequired.button.label        "Autorisearje">
 <!ENTITY authRequired.button.accesskey    "u">
 
-<!ENTITY enableCloudFileAccountOffer.label "Biedet dielen oan by bestannen grutter as">
+<!ENTITY enableCloudFileAccountOffer.label "Biedt dielen oan by bestannen grutter as">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
