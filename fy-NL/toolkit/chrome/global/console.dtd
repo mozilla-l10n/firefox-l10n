@@ -13,11 +13,11 @@
 <!ENTITY errors.label "Flaters">
 <!ENTITY errors.accesskey "F">
 <!ENTITY warnings.label "Warskôgingen">
-<!ENTITY warnings.accesskey "N">
+<!ENTITY warnings.accesskey "W">
 <!ENTITY messages.label "Berjochten">
 <!ENTITY messages.accesskey "B">
-<!ENTITY clear.label "Wisse">
-<!ENTITY clear.accesskey "W">
+<!ENTITY clear.label "Wiskje">
+<!ENTITY clear.accesskey "k">
 <!ENTITY codeEval.label     "Koade:">
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "Evaluearje">
