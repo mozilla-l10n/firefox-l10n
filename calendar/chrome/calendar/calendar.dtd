@@ -330,8 +330,8 @@
 <!ENTITY calendarproperties.cache3.label                   "Podpora režimu offline">
 <!ENTITY calendarproperties.enabled.label                  "Zapnout kalendář">
 <!ENTITY calendarproperties.forceDisabled.label            "Poskytovatel tohoto kalendáře nemohl být nalezen. To často nastává tehdy, pokud jste zakázali nebo odinstalovali některé konkrétní doplňky.">
-<!ENTITY calendarproperties.unsubscribe.label              "Neodebírat">
-<!ENTITY calendarproperties.unsubscribe.accesskey          "N">
+<!ENTITY calendarproperties.unsubscribe.label              "Zrušit odběr">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "Z">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publikování kalendáře">

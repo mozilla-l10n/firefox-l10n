@@ -49,7 +49,7 @@
 
 <!ENTITY minimizeWindowCmd.label        "Minimalizovat">
 <!ENTITY minimizeWindowCmd.key          "M">
-<!ENTITY zoomWindowCmd.label            "Lupa">
+<!ENTITY zoomWindowCmd.label            "Zvětšit okno">
 
 <!-- Help menu -->
 <!ENTITY openHelpCmd.label              "Nápověda aplikace &brandShortName;">

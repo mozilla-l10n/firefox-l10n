@@ -29,7 +29,7 @@
 <!ENTITY italic.label "Kurzíva">
 <!ENTITY outdent.label "Zmenšit odsazení">
 <!ENTITY indent.label "Zvětšit odsazení">
-<!ENTITY underline.label "Podtržení">
+<!ENTITY underline.label "Podtržené">
 <!ENTITY absolutePosition.label "Absolutní pozicování">
 <!ENTITY decreaseZIndex.label "Poslat do pozadí">
 <!ENTITY increaseZIndex.label "Přenést do popředí">

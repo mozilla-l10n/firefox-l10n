@@ -86,7 +86,7 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Použít až">
+<!ENTITY useCacheBefore.label            "Použít maximálně">
 <!ENTITY useCacheBefore.accesskey        "P">
 <!ENTITY useCacheAfter.label             "MB diskové mezipaměti">
 <!ENTITY clearCacheNow.label             "Vymazat">

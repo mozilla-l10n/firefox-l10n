@@ -14,7 +14,7 @@
 <!ENTITY dockOptions.label                "Nastavení ikony aplikace…">
 <!ENTITY dockOptions.accesskey            "n">
 
-<!ENTITY newMessagesArrive.label          "Při příchodu nové zprávy">
+<!ENTITY newMessagesArrive.label          "Při přijetí nové zprávy:">
 <!ENTITY playSound.label                  "Přehrát zvuk">
 <!ENTITY playSound1.accesskey              "P">
 <!ENTITY showAnimatedAlert.label          "Zobrazit upozornění">

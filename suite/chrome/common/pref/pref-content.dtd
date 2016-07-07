@@ -39,5 +39,5 @@
 
 <!ENTITY allowHWAccel.label                     "Použít hardwarovou akceleraci, je-li dostupná">
 <!ENTITY allowHWAccel.accesskey                 "h">
-<!ENTITY blockAutoRefresh.label                 "Upozornit, pokud se stránka pokusí přesměrovat nebo obnovit">
-<!ENTITY blockAutoRefresh.accesskey             "U">
+<!ENTITY blockAutoRefresh.label                 "Varovat, pokud se stránka pokouší o přesměrování nebo obnovení">
+<!ENTITY blockAutoRefresh.accesskey             "u">

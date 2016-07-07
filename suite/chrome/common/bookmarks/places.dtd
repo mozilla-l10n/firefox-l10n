@@ -80,7 +80,7 @@
 <!ENTITY col.title.label "Název">
 <!ENTITY col.tags.label "Štítky">
 <!ENTITY col.url.label "Adresa">
-<!ENTITY col.lastvisit.label "Poslední návštěva">
+<!ENTITY col.lastvisit.label "Datum návštěvy">
 <!ENTITY col.visitcount.label "Počet návštěv">
 <!ENTITY col.keyword.label "Klíčové slovo">
 <!ENTITY col.description.label "Popis">

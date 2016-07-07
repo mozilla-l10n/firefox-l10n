@@ -11,7 +11,7 @@
 <!ENTITY useCustomPrefs.accesskey "t">
 <!ENTITY requestReceipt.label "Při odesílání zpráv vždy vyžadovat potvrzení o přečtení">
 <!ENTITY requestReceipt.accesskey "i">
-<!ENTITY receiptArrive.label "Při přijetí potvrzení">
+<!ENTITY receiptArrive.label "Při přijetí potvrzení:">
 <!ENTITY leaveIt.label "Ponechat ve složce „Doručená pošta“">
 <!ENTITY leaveIt.accesskey "D">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->

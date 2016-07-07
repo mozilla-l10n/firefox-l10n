@@ -19,8 +19,8 @@
 <!ENTITY rights.intro-point1b "Veřejné licenci Mozilly">
 <!ENTITY rights.intro-point1c " (MPL). Ta vám umožňuje aplikaci &brandShortName; používat, kopírovat a šířit. Pokud potřebujete, můžete také pozměnit zdrojový kód aplikace &brandShortName; podle vašich potřeb. Veřejná licence Mozilly vám rovněž dává právo šířit vámi pozměněné verze.">
 
-<!ENTITY rights.intro-point2-a "Nejsou vám však podstoupena žádná práva ani licence k ochranným známkám Mozilla Foundation, či třetích stran, a to zejména k logu a jménu Firefox. Podrobnější informace o ochranných známkách jsou dostupné na ">
-<!ENTITY rights.intro-point2-b "samostatné stránce">
+<!ENTITY rights.intro-point2-a "Nejsou vám však podstoupena žádná práva ani licence k ochranným známkám Mozilla Foundation, či třetích stran, a to zejména k logu a jménu Firefox. Podrobnější informace o ochranných známkách jsou dostupné ">
+<!ENTITY rights.intro-point2-b "zde">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
@@ -55,7 +55,7 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandFullName; používá webové informační služby („Služby“) z důvodu zajištění některých funkcí dostupných v rámci této binární verze aplikace &brandShortName; za podmínek popsaných níže. Pokud si nepřejete jednu nebo více Služeb používat nebo jsou pro vás níže uvedené podmínky neakceptovatelné, lze tyto služby vypnout. Postup, jak lze vypnout určitou funkcionalitu nebo Službu, lze najít ">
-<!ENTITY rights2.webservices-b "v samostatné sekci">
+<!ENTITY rights2.webservices-b "zde">
 <!ENTITY rights3.webservices-c ". Další funkce a Služby lze zakázat v předvolbách aplikace.">
 
 <!-- safe browsing points for branded builds -->

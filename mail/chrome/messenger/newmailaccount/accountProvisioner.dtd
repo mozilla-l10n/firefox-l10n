@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Vítejte v aplikaci &brandShortName;">
+<!ENTITY window.title "Vítá vás &brandShortName;">
 <!ENTITY header2.label "Chtěli byste novou e-mailovou adresu?">
 <!ENTITY other.languages "Zobrazeny jsou pouze poskytovatelé adres ve vaší oblasti. Klepněte zde pro zobrazení všech poskytovatelů.">
 <!ENTITY error.line1 "Je nám líto, ale nepodařilo se najít žádnou z navrhovaných adres.">

@@ -19,13 +19,13 @@
 <!ENTITY rights.intro-point1b "Veřejné licenci Mozilly">
 <!ENTITY rights.intro-point1c " (MPL). Ta vám umožňuje aplikaci &brandShortName; používat, kopírovat a šířit. Pokud potřebujete, můžete také pozměnit zdrojový kód aplikace &brandShortName; podle vašich potřeb. Veřejná licence Mozilly vám rovněž dává právo šířit vámi pozměněné verze.">
 
-<!ENTITY rights.intro-point2a "Mozilla vám však nepodstupuje práva k ochranné známce a k logu Mozilly a Thunderbirdu. Podrobnější informace o ochranných známkách jsou dostupné  na ">
-<!ENTITY rights.intro-point2b "samostatné stránce">
+<!ENTITY rights.intro-point2a "Mozilla vám však nepodstupuje práva k ochranné známce a k logu Mozilly a Thunderbirdu. Podrobnější informace o ochranných známkách jsou dostupné ">
+<!ENTITY rights.intro-point2b "zde">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Zásady ochrany soukromí pro produkty &vendorShortName; jsou dostupné na ">
-<!ENTITY rights.intro-point3b "samostatné stránce">
+<!ENTITY rights.intro-point3a "Zásady ochrany soukromí pro produkty &vendorShortName; jsou dostupné ">
+<!ENTITY rights.intro-point3b "zde">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
