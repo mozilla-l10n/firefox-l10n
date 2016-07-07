@@ -26,9 +26,9 @@
 <!ENTITY downloadCert.viewCert.text "CA-sertifikaat bestudearje">
 
 <!-- Strings for the SSL client auth ask dialog -->
-<!ENTITY clientAuthAsk.title "Brûkersydentifikaasjefersyk">
-<!ENTITY clientAuthAsk.message1 "Dizze webstee fersiket jo om josels te ydentifisearjen mei in befeiligingssertifikaat:">
-<!ENTITY clientAuthAsk.message2 "Kies in sertifikaat om as ydentifikaasje te presentearjen:">
+<!ENTITY clientAuthAsk.title "Brûkersidentifikaasjefersyk">
+<!ENTITY clientAuthAsk.message1 "Dizze webstee fersiket jo om josels te identifisearjen mei in befeiligingssertifikaat:">
+<!ENTITY clientAuthAsk.message2 "Kies in sertifikaat om as identifikaasje te presentearjen:">
 <!ENTITY clientAuthAsk.message3 "Details fan it selektearre sertifikaat:">
 
 <!-- Strings for the cert picker dialog -->
