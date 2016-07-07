@@ -31,10 +31,10 @@
 <!ENTITY report.please                                       "Ungelokrapport ferstjoere">
 <!ENTITY report.submitting                                   "Rapport ferstjoere…">
 <!ENTITY report.submitted                                    "Ungelokrapport ferstjoerd.">
-<!ENTITY report.disabled                                     "Ungelokrapportage útskeakele.">
+<!ENTITY report.disabled                                     "Ungelokrapportaazje útskeakele.">
 <!ENTITY report.failed                                       "Ferstjoeren mislearre.">
 <!ENTITY report.unavailable                                  "Gjin rapport beskikber.">
-<!ENTITY report.comment                                      "Foegje kommentaar ta (kommentaar is publyklik sichtber)">
+<!ENTITY report.comment                                      "Foegje in opmerking ta (opmerkingen binne publyklik sichtber)">
 <!ENTITY report.pageURL                                      "De side-URL meistjoere">
 
 <!ENTITY plugin.file                                         "Bestân">
