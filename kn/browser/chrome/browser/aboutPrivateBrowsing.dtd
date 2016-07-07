@@ -6,25 +6,26 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "ಒಂದು Private ಕಿಟಕಿಯನ್ನು ತೆರೆ">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
+<!ENTITY privateBrowsing.title                           "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
 
 
 
 
 <!ENTITY aboutPrivateBrowsing.info.visited               "ಭೇಟಿಕೊಟ್ಟ ಪುಟಗಳು">
+<!ENTITY aboutPrivateBrowsing.info.searches              "ಹುಡುಕಾಟಗಳು">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "ಕುಕಿಗಳು">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "ತಾತ್ಕಾಲಿಕ ಕಡತಗಳು">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.downloads             "ಡೌನ್‍ಲೋಡುಗಳು">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "ಪುಟಗುರುತುಗಳು">
+<!ENTITY aboutPrivateBrowsing.note.before                "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "ಅಂತರಜಾಲದಲ್ಲಿ ನೀವು ಅನಾಮಧೇಯರಾಗಿ">
+<!ENTITY aboutPrivateBrowsing.note.after                 "ಇರಲು ಸಾಧ್ಯವಿಲ್ಲ. ನಿಮ್ಮ ಉದ್ಯೋಗದಾತರು ಅಥವಾ ನಿಮಗೆ ಅಂತರಜಾಲವನ್ನು ಸೇವೆಯನ್ನು ಒದಗಿಸುವವರು ನೀವು ಭೇಟಿ ನೀಡುವ ಪುಟವನ್ನು ಗಮನಿಸುವ ಸಾಧ್ಯತೆ ಇರುತ್ತದೆ.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "ಇದರ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
 
 <!ENTITY trackingProtection.title                        "ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ">
 
-
+<!ENTITY trackingProtection.startTour1                   "ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂದು ನೋಡಿ">
