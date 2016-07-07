@@ -97,8 +97,8 @@
 <!ENTITY undeleteMsgsCmd.accesskey "m">
 <!ENTITY deleteFolderCmd.label "Smazat složku">
 <!ENTITY deleteFolderCmd.accesskey "m">
-<!ENTITY unsubscribeNewsgroupCmd.label "Odhlásit odebírání">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "h">
+<!ENTITY unsubscribeNewsgroupCmd.label "Zrušit odběr">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "d">
 <!ENTITY selectMenu.label "Vybrat">
 <!ENTITY selectMenu.accesskey "a">
 <!ENTITY all.label "Vše">
@@ -356,7 +356,7 @@
 <!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Přeposlat jako">
 <!ENTITY forwardAsMenu.accesskey "j">
-<!ENTITY forwardAsInline.label "Vložená">
+<!ENTITY forwardAsInline.label "Vložené">
 <!ENTITY forwardAsInline.accesskey "V">
 <!ENTITY forwardAsAttachmentCmd.label "Příloha">
 <!ENTITY forwardAsAttachmentCmd.accesskey "P">
@@ -554,7 +554,7 @@
 <!ENTITY goForwardButton.tooltip "Přejde o jednu zprávu vpřed">
 <!ENTITY goBackButton.tooltip "Přejde o jednu zprávu vzad">
 <!ENTITY deleteButton.tooltip "Smaže označené zprávy nebo složky">
-<!ENTITY undeleteButton.tooltip "Obnoví označené zprávy">
+<!ENTITY undeleteButton.tooltip "Obnoví označenou smazanou zprávu">
 <!ENTITY markButton.tooltip "Označí zprávu">
 <!ENTITY printButton.tooltip "Vytiskne zprávu">
 <!ENTITY stopButton.tooltip "Ukončí probíhající spojení">
@@ -627,7 +627,7 @@
 <!ENTITY folderContextEmptyJunk.accesskey "m">
 <!ENTITY folderContextSendUnsentMessages.label "Odeslat neodeslané zprávy">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
-<!ENTITY folderContextUnsubscribe.label "Odhlásit odebírání">
+<!ENTITY folderContextUnsubscribe.label "Zrušit odběr">
 <!ENTITY folderContextUnsubscribe.accesskey "d">
 <!ENTITY folderContextMarkNewsgroupRead.label "Označit skupinu jako přečtenou">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "z">
@@ -735,7 +735,7 @@
 <!ENTITY contextForward.accesskey "l">
 <!ENTITY contextForwardAsMenu.label "Přeposlat jako">
 <!ENTITY contextForwardAsMenu.accesskey "e">
-<!ENTITY contextForwardAsInline.label "Vložená">
+<!ENTITY contextForwardAsInline.label "Vložené">
 <!ENTITY contextForwardAsInline.accesskey "V">
 <!ENTITY contextForwardAsAttachmentItem.label "Příloha">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "P">

@@ -85,8 +85,8 @@
 <!ENTITY undeleteMsgsCmd.accesskey "m">
 <!ENTITY deleteFolderCmd.label "Smazat složku">
 <!ENTITY deleteFolderCmd.accesskey "M">
-<!ENTITY unsubscribeNewsgroupCmd.label "Odhlásit odebírání">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "h">
+<!ENTITY unsubscribeNewsgroupCmd.label "Zrušit odběr">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "d">
 <!ENTITY selectMenu.label "Vybrat">
 <!ENTITY selectMenu.accesskey "A">
 <!ENTITY selectThreadCmd.label "Vlákno">
@@ -303,7 +303,7 @@
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Přeposlat jako">
 <!ENTITY forwardAsMenu.accesskey "j">
-<!ENTITY forwardAsInline.label "Vložená">
+<!ENTITY forwardAsInline.label "Vložené">
 <!ENTITY forwardAsInline.accesskey "V">
 <!ENTITY forwardAsAttachmentCmd.label "Příloha">
 <!ENTITY forwardAsAttachmentCmd.accesskey "P">
@@ -509,7 +509,7 @@
 <!ENTITY folderContextEmptyJunk.accesskey "m">
 <!ENTITY folderContextSendUnsentMessages.label "Odeslat neodeslané zprávy">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
-<!ENTITY folderContextUnsubscribe.label "Odhlásit odebírání">
+<!ENTITY folderContextUnsubscribe.label "Zrušit odběr">
 <!ENTITY folderContextUnsubscribe.accesskey "d">
 <!ENTITY folderContextMarkNewsgroupRead.label "Označit skupinu jako přečtenou">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "z">

@@ -8,7 +8,7 @@
 <!ENTITY defaultColorsRadio.label "Neurčovat barvy (nenastavovat barvy na stránce)">
 <!ENTITY defaultColorsRadio.accessKey "N">
 <!ENTITY defaultColorsRadio.tooltip "Použít vždy nastavení barev z aktuálního prohlížeče">
-<!ENTITY customColorsRadio.label "Použít vlastní barvy">
+<!ENTITY customColorsRadio.label "Použít vlastní barvy:">
 <!ENTITY customColorsRadio.accessKey "u">
 <!ENTITY customColorsRadio.tooltip "Použít vždy toto nastavení barev bez ohledu na nastavení aktuálního prohlížeče">
 <!ENTITY normalText.label "Běžný text">

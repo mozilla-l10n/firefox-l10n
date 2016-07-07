@@ -12,7 +12,7 @@
 
 <!ENTITY locationpage.description "Sdělte informace o tom, co je potřebné pro přístup k vzdálenému kalendáři" >
 <!ENTITY locationpage.login.description "Nepovinné: zadejte jméno a heslo" >
-<!ENTITY locationpage.username.label "Jméno:" >
+<!ENTITY locationpage.username.label "Uživatelské jméno:" >
 <!ENTITY locationpage.password.label "Heslo:" >
 
 <!ENTITY custompage.shortdescription "Upravit možnosti kalendáře" >

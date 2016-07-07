@@ -4,7 +4,7 @@
 
 <!ENTITY pref.notifications.title         "Upozornění">
 <!ENTITY notifications.caption            "Upozornění">
-<!ENTITY newMessagesArrive.label          "Při obdržení nové zprávy:">
+<!ENTITY newMessagesArrive.label          "Při přijetí nové zprávy:">
 
 <!-- LOCALIZATION NOTE: (showAlertFor.label, showAlertTimeEnd.label)
      showAlertFor.label is associated with the checkbox to show the alert,

@@ -7,21 +7,21 @@
 <!ENTITY pref.receipts.title "Potvrzení o přečtení">
 <!ENTITY prefReceipts.caption "Potvrzení o přečtení">
 <!ENTITY requestReceipt.label "Při odesílání zpráv vždy vyžadovat potvrzení o přečtení">
-<!ENTITY requestReceipt.accesskey "d">
-<!ENTITY receiptArrive.label " Při přijetí potvrzení">
+<!ENTITY requestReceipt.accesskey "i">
+<!ENTITY receiptArrive.label "Při přijetí potvrzení:">
 <!ENTITY leaveIt.label "Ponechat ve složce Doručená pošta">
-<!ENTITY leaveIt.accesskey "P">
+<!ENTITY leaveIt.accesskey "D">
 <!ENTITY moveToSent.label "Přesunout jej do složky „Odeslaná pošta“">
-<!ENTITY moveToSent.accesskey "s">
+<!ENTITY moveToSent.accesskey "O">
 <!ENTITY requestMDN.label "Pokud zpráva obsahuje žádost potvrzení o přečtení:">
 <!ENTITY returnSome.label "Vracet potvrzení o přečtení pro některé zprávy">
-<!ENTITY returnSome.accesskey "r">
+<!ENTITY returnSome.accesskey "V">
 <!ENTITY never.label "Nikdy neodeslat potvrzení o přečtení">
 <!ENTITY never.accesskey "N">
 <!ENTITY notInToCc.label "Pokud nejsem uveden v Komu nebo Kopie:">
-<!ENTITY notInToCc.accesskey "o">
+<!ENTITY notInToCc.accesskey "K">
 <!ENTITY outsideDomain.label "Pokud je odesílatel z jiné domény:">
-<!ENTITY outsideDomain.accesskey "k">
+<!ENTITY outsideDomain.accesskey "j">
 <!ENTITY otherCases.label "Ve všech ostatních případech:">
 <!ENTITY otherCases.accesskey "e">
 <!ENTITY askMe.label "Zeptat se">

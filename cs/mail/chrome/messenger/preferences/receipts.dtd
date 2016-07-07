@@ -5,7 +5,7 @@
 <!ENTITY dialog.title "Potvrzení o přečtení">
 <!ENTITY requestReceipt.label "Při odesílání zpráv vždy vyžadovat potvrzení o přečtení">
 <!ENTITY requestReceipt.accesskey "i">
-<!ENTITY receiptArrive.label "Při přijetí potvrzení">
+<!ENTITY receiptArrive.label "Při přijetí potvrzení:">
 <!ENTITY leaveIt.label "Ponechat ve složce „Doručená pošta“">
 <!ENTITY leaveIt.accesskey "D">
 <!ENTITY moveToSent.label "Přesunout do složky „Odeslaná pošta“">

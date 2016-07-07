@@ -75,7 +75,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.response): This is the label displayed
   -  in the network details pane identifying the response tab. -->
-<!ENTITY netmonitorUI.tab.response        "Odpověd">
+<!ENTITY netmonitorUI.tab.response        "Odpověď">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->

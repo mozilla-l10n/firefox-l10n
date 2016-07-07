@@ -5,7 +5,7 @@
 <!ENTITY subscribeDialog.title "Správce odebírání">
 <!ENTITY subscribeButton.label "Odebírat">
 <!ENTITY subscribeButton.accesskey "O">
-<!ENTITY unsubscribeButton.label "Odhlásit">
+<!ENTITY unsubscribeButton.label "Zrušit odběr">
 <!ENTITY unsubscribeButton.accesskey "d">
 <!ENTITY newGroupsTab.label "Nové skupiny">
 <!ENTITY newGroupsTab.accesskey "N">

@@ -11,10 +11,10 @@
 <!ENTITY menu_securitySign.accesskey "E">
 
 <!ENTITY menu_securityStatus.label "Zobrazit informace o zabezpečení">
-<!ENTITY menu_securityStatus.accesskey "O">
+<!ENTITY menu_securityStatus.accesskey "o">
 
 <!ENTITY securityButton.label "Zabezpečení">
-<!ENTITY securityButton.tooltip "Zobrazí nebo změní nastavení bezpečnosti">
+<!ENTITY securityButton.tooltip "Zobrazí nebo změní nastavení zabezpečení">
 
 <!ENTITY menu_viewSecurityStatus.label "Zabezpečení zprávy">
-<!ENTITY menu_viewSecurityStatus.accesskey "B">
+<!ENTITY menu_viewSecurityStatus.accesskey "b">

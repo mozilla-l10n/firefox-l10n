@@ -104,7 +104,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Verze knihoven">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historie instalací">
-<!ENTITY aboutSupport.updateHistoryTitle "Aktualizovat historii">
+<!ENTITY aboutSupport.updateHistoryTitle "Historie aktualizací">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Zkopírovat text do schránky">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Zkopírovat data do schránky">

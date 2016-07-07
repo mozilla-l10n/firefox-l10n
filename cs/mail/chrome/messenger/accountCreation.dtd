@@ -20,9 +20,9 @@
 <!ENTITY imapLong.label "IMAP (vzdálené složky)">
 <!ENTITY pop3Long.label "POP3 (místní úložiště pošty)">
 
-<!ENTITY incoming.label "Příchozí">
-<!ENTITY outgoing.label "Odchozí">
-<!ENTITY username.label "Uživatelské jméno">
+<!ENTITY incoming.label "Příchozí:">
+<!ENTITY outgoing.label "Odchozí:">
+<!ENTITY username.label "Uživatelské jméno:">
 <!ENTITY hostname.label "Název serveru">
 <!ENTITY port.label "Port">
 <!ENTITY ssl.label "SSL">

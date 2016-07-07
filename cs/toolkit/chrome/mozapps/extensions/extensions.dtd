@@ -202,7 +202,7 @@
 <!ENTITY addon.restartNow.label               "Restartovat">
 <!ENTITY addon.install.label                  "Instalovat">
 <!ENTITY addon.install.tooltip                "Nainstaluje doplněk">
-<!ENTITY addon.updateNow.label                "Instalovat aktualizaci">
+<!ENTITY addon.updateNow.label                "Aktualizovat">
 <!ENTITY addon.updateNow.tooltip              "Nainstaluje aktualizaci doplňku">
 <!ENTITY addon.includeUpdate.label            "Vybrat k instalaci">
 <!ENTITY addon.updateAvailable.label          "Aktualizace je dostupná">

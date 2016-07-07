@@ -135,7 +135,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.accesskey                        "s">
 <!ENTITY editButton2.label                              "Vlastnosti">
 <!ENTITY editButton2.accesskey                          "l">
-<!ENTITY newmsgButton.label                             "Nová zpráva">
+<!ENTITY newmsgButton.label                             "Napsat zprávu">
 <!ENTITY newmsgButton.accesskey                         "N">
 <!ENTITY newIM.label                                    "Zpráva přes IM">
 <!ENTITY newIM.accesskey                                "I">

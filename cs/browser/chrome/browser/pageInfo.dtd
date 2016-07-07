@@ -65,7 +65,7 @@
 <!ENTITY securityTab.accesskey "b">
 <!ENTITY securityView.certView "Zobrazit certifikát">
 <!ENTITY securityView.accesskey "c">
-<!ENTITY securityView.unknown "neznámý">
+<!ENTITY securityView.unknown "Neznámý">
 
 
 <!ENTITY securityView.identity.header "Identita webového serveru">
