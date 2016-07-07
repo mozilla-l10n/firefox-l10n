@@ -365,7 +365,7 @@
 <!ENTITY calendar.error.detail "Details…">
 <!ENTITY calendar.error.code "Flaterkoade:">
 <!ENTITY calendar.error.description "Beskriuwing:">
-<!ENTITY calendar.error.title "Der is in flater makke">
+<!ENTITY calendar.error.title "Der is in flater bard">
 
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "Tafoegje as barren">
