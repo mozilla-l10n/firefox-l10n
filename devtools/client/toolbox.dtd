@@ -200,7 +200,7 @@
 <!ENTITY options.sourceeditor.detectindentation.label   "Ynspringing detektearje ">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Ynspringing riede op basis fan boarneynhâld">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Automatysk heaken slute">
-<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Automatysk slútheakjes ynfoegje">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Automatysk slútheaken ynfoegje">
 <!ENTITY options.sourceeditor.expandtab.label           "Ynspringe mei help fan spaasjes">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Spaasjes brûke yn stee fan it ljepteken">
 <!ENTITY options.sourceeditor.tabsize.label             "Ljepgrutte">
