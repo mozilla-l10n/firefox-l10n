@@ -69,7 +69,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>De website antwurde op in ûnferwachte manier op de netwurkoanfraach en de browser kin net trochgean.</p>">
 
 <!ENTITY nssFailure2.title "Befeilige ferbining mislearre">
-<!ENTITY nssFailure2.longDesc2 "<p>De side dy't jo besjen wolle kin net toand wurde, omdat de echtheid fan de ûntfongen gegevens net ferifiearre wurde kin.</p><ul><li> Nim kontakt op mei de website-eigners om se te ynformearjen oer dit probleem.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>De side dy't jo besjen wolle kin net werjûn wurde, omdat der in flater yn de gegevensoerdracht detektearre is.</p><ul><li>Nim kontakt op mei de website-eigners om se oer dit probleem te ynformearjen.</li></ul>">
 
 <!ENTITY nssBadCert.title "Feilige ferbining mislearre">
 <!ENTITY nssBadCert.longDesc2 "<ul>
