@@ -44,7 +44,7 @@
 <!ENTITY cellSelectNext.accessKey         "F">
 <!ENTITY cellSelectPrevious.label         "Foarige">
 <!ENTITY cellSelectPrevious.accessKey     "o">
-<!ENTITY applyBeforeChange.label          "Dizze wizigings wurde tapast foardat de seleksje wizige wurdt.">
+<!ENTITY applyBeforeChange.label          "Dizze wizigingen wurde tapast foardat de seleksje wizige wurdt.">
 <!ENTITY cellContentAlignment.label       "Ynhâld rjochtsje">
 <!ENTITY cellHorizontal.label             "Horizontaal:">
 <!ENTITY cellHorizontal.accessKey         "z">
@@ -68,8 +68,8 @@
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Grutte">
 <!ENTITY pixels.label                     "piksels">
-<!ENTITY backgroundColor.label            "Eftergrûnkleur:">
+<!ENTITY backgroundColor.label            "Achtergrûnkleur:">
 <!ENTITY backgroundColor.accessKey        "E">
 <!ENTITY AlignLeft.label                  "Links">
-<!ENTITY AlignCenter.label                "Midden">
+<!ENTITY AlignCenter.label                "Sintrearre">
 <!ENTITY AlignRight.label                 "Rjochts">

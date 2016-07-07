@@ -4,24 +4,24 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Horisontale-lijneigenskippen">
+<!ENTITY windowTitle.label "Horizontale-lijneigenskippen">
 
-<!ENTITY dimensionsBox.label "Ofmjittings">
+<!ENTITY dimensionsBox.label "Ofmjittingen">
 <!ENTITY heightEditField.label "Hichte:">
 <!ENTITY heightEditField.accessKey "H">
 <!ENTITY widthEditField.label "Breedte:">
 <!ENTITY widthEditField.accessKey "B">
 <!ENTITY pixelsPopup.value "piksels">
-<!ENTITY alignmentBox.label "Utlijning">
+<!ENTITY alignmentBox.label "Utlining">
 <!ENTITY leftRadio.label "Links">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.label "Midden">
-<!ENTITY centerRadio.accessKey "M">
+<!ENTITY centerRadio.label "Sintrearre">
+<!ENTITY centerRadio.accessKey "S">
 <!ENTITY rightRadio.label "Rjochts">
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "3D-skaad">
 <!ENTITY threeDShading.accessKey "s">
 <!ENTITY saveSettings.label "As standert brûke">
-<!ENTITY saveSettings.accessKey "B">
-<!ENTITY saveSettings.tooltip "Dizze ynstellings foar it ynfoegjen fan nije horisontale lijnen bewarje">
+<!ENTITY saveSettings.accessKey "A">
+<!ENTITY saveSettings.tooltip "Dizze ynstellingen foar it ynfoegjen fan nije horizontale linen bewarje">

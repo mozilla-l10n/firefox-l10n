@@ -194,8 +194,8 @@
 <!ENTITY alignLeft.label "Links">
 <!ENTITY alignLeft.accesskey "L">
 <!ENTITY alignLeft.tooltip "Links útlynje">
-<!ENTITY alignCenter.label "Midden">
-<!ENTITY alignCenter.accesskey "M">
+<!ENTITY alignCenter.label "Sintrearre">
+<!ENTITY alignCenter.accesskey "S">
 <!ENTITY alignCenter.tooltip "Sintrearje">
 <!ENTITY alignRight.label "Rjochts">
 <!ENTITY alignRight.accesskey "R">
