@@ -8,9 +8,9 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-<!ENTITY update.checkForUpdatesButton.label       "ตรวจหาการปรับปรุง">
+<!ENTITY update.checkForUpdatesButton.label       "ตรวจสอบการปรับปรุง">
 <!ENTITY update.checkForUpdatesButton.accesskey   "ต">
-<!ENTITY update.updateButton.label2                "เริ่ม &brandShortName; ใหม่เพื่อปรับรุ่น">
+<!ENTITY update.updateButton.label2                "เริ่มการทำงาน &brandShortName; ใหม่เพื่อปรับปรุง">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "เรียกใช้การปรับปรุง…">
 <!ENTITY update.applyButtonBillboard.accesskey    "ร">
@@ -100,10 +100,10 @@
 <!ENTITY update.downloading.start   "กำลังดาวน์โหลดการปรับรุ่น — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "กำลังปรับรุ่น…">
+<!ENTITY update.applying            "กำลังเรียกใช้การปรับปรุง…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "คุณกำลังอยู่บนช่องทางปรับรุ่น ">
+<!ENTITY channel.description.start  "คุณกำลังอยู่บน ">
 <!ENTITY channel.description.end    " update channel. ">
