@@ -5,8 +5,8 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Apañuái oñemyenyhẽnguévo kuatiarogue">
-<!ENTITY retry.label "Eha'ãjey">
+<!ENTITY loadError.label "Apañuái henyhẽnguévo kuatiarogue">
+<!ENTITY retry.label "Ha'ãjey">
 <!-- Specific error messages -->
 
 
