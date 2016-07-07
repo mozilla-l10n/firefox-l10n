@@ -76,7 +76,7 @@
 <!ENTITY languages.customize.Fallback.cewindows   "Sintraal-Europeesk, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.simplified  "Sineesk, ferienfâldigd">
+<!ENTITY languages.customize.Fallback.simplified  "Sineesk, ferienfâldicht">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "Sineesk, tradisjoneel">
@@ -86,7 +86,7 @@
 <!ENTITY languages.customize.Fallback.greek       "Gryksk">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.hebrew      "Hebreeuwsk">
+<!ENTITY languages.customize.Fallback.hebrew      "Hebriuwsk">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.japanese    "Japansk">

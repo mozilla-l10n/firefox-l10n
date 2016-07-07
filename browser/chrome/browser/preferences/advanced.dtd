@@ -66,8 +66,8 @@
 <!ENTITY limitCacheSizeBefore.label      "Limitearje buffer oant">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB romte">
-<!ENTITY clearCacheNow.label            "No leechmeitsje">
-<!ENTITY clearCacheNow.accesskey        "l">
+<!ENTITY clearCacheNow.label             "No wiskje">
+<!ENTITY clearCacheNow.accesskey         "w">
 <!ENTITY clearOfflineAppCacheNow.label   "No wiskje">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Automatysk bufferbehear net brûke">

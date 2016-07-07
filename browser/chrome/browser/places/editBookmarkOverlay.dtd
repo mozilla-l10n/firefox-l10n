@@ -23,6 +23,6 @@
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Toan alle labels">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Laad dizze blêdwizer yn de sidebalke">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "s">
-<!ENTITY editBookmarkOverlay.choose.label                    "Kies…">
+<!ENTITY editBookmarkOverlay.choose.label                    "Kieze…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nije map">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "a">
