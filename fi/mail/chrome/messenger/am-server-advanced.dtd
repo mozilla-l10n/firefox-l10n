@@ -24,6 +24,7 @@
 <!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3DeferringDesc.label "Ladattaessa postia tämän tilin palvelimelta, tallennetaan uudet viestit kansioon:" >
 <!ENTITY accountInbox.label "Tämän tilin Saapuneet">
+<!ENTITY accountInbox.accesskey "t">
 <!ENTITY deferToServer.label "Saapuvat viestit toisen tilin saapuneet-kansioon">
 <!ENTITY deferToServer.accesskey "p">
 <!ENTITY deferGetNewMail.label "Nouda tilin viestit samalla kun muidenkin tilien viestit">
