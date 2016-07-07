@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.editing.title        "Nije-side-ynstellings">
+<!ENTITY pref.editing.title        "Nije-side-ynstellingen">
 
 <!ENTITY authorName.label          "Auteur:">
 <!ENTITY authorName.accesskey      "u">
-<!ENTITY pageColorHeader           "Standert side-presintaasje">
+<!ENTITY pageColorHeader           "Standert sidepresintaasje">
 
-<!ENTITY defaultColors.label	   "Standertkleuren lêzer (kleuren net fêstlizze)">
+<!ENTITY defaultColors.label	   "Standertkleurenlêzer (kleuren net fêstlizze)">
 <!ENTITY defaultColors.accesskey    "S">
 <!ENTITY customColors.label		    "Brûk oanpaste kleuren:">
 <!ENTITY customColors.accesskey     "B">
@@ -17,7 +17,7 @@
 <!ENTITY normalText.accesskey       "N">
 <!ENTITY linkText.label             "Keppelingstekst">
 <!ENTITY linkText.accesskey         "L">
-<!ENTITY activeLinkText.label       "Aktieve keppeling">
+<!ENTITY activeLinkText.label       "Aktive keppeling">
 <!ENTITY activeLinkText.accesskey   "A">
 <!ENTITY visitedLinkText.label      "Besochte keppeling">
 <!ENTITY visitedLinkText.accesskey  "B">
@@ -27,5 +27,5 @@
 
 <!ENTITY backgroundImage.label      "Eftergrûnôfbylding:">
 <!ENTITY backgroundImage.accesskey  "f">
-<!ENTITY chooseFile.label           "Bestân kieze...">
+<!ENTITY chooseFile.label           "Bestân kieze…">
 <!ENTITY chooseFile.accesskey       "k">

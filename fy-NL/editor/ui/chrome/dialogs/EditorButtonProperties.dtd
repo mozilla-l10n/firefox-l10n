@@ -4,12 +4,12 @@
 
 <!ENTITY windowTitle.label "Knopeigenskippen">
 
-<!ENTITY Settings.label "Ynstellings">
+<!ENTITY Settings.label "Ynstellingen">
 
 <!ENTITY ButtonType.label "Type">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "Ferstjoere">
-<!ENTITY reset.value "Wisse">
+<!ENTITY reset.value "Wiskje">
 <!ENTITY button.value "Knop">
 
 <!ENTITY ButtonName.label "Namme:">
@@ -20,8 +20,8 @@
 <!ENTITY tabIndex.accesskey "y">
 <!ENTITY ButtonDisabled.label "Utskeakele">
 <!ENTITY ButtonDisabled.accesskey "U">
-<!ENTITY AccessKey.label "Tagongskaai:">
-<!ENTITY AccessKey.accesskey "s">
+<!ENTITY AccessKey.label "Fluchtoets:">
+<!ENTITY AccessKey.accesskey "F">
 
 <!ENTITY RemoveButton.label "Knop fuortsmite">
-<!ENTITY RemoveButton.accesskey "f">
+<!ENTITY RemoveButton.accesskey "K">
