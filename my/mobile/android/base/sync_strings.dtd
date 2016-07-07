@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing "ဘယောက်ဆာသို့ပြန်သွားပါ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; မှကြိုဆိုပါတယ်">
-<!ENTITY fxaccount_getting_started_description2 "သင့် တဗ်များ၊ စာအမှတ်များ၊ ဝင်ရောက်မှုများနှင့် အခြား စသည်တို့ကို ထပ်တူပြုပြိုင်တူဖြစ်စေရန် ဝင်ရောက်ပါ။">
+<!ENTITY fxaccount_getting_started_description2 "သင့် တပ်ဗ်များ၊ စာအမှတ်များ၊ ဝင်ရောက်မှုများနှင့် အခြား စသည်တို့ကို ထပ်တူပြုပြိုင်တူဖြစ်စေရန် ဝင်ရောက်ပါ။">
 <!ENTITY fxaccount_getting_started_get_started "စတင်ပါ">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ဗားရှင်း အဟောင်းကို သုံးနေပါသလား?">
 
@@ -63,8 +63,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "သင့်အကောင့်အား အတည်ပြုရန် လိုအပ်သည်။ အတည်ပြုအီးမေလ်းအား ပြန်ပို့ပါ။">
 <!ENTITY fxaccount_status_needs_credentials "ချိတ်ဆက်မရပါ။ ဝင်ရန် ထိပါ။">
 <!ENTITY fxaccount_status_needs_upgrade "ဝင်ရောက်ရန် &brandShortName; အား အဆင့်မြှင့်ရန်လိုအပ်သှ်">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label;  အားတပ်ဆင်ပြီး ပေမယ့် အလိုအလျောက်ချိတ်ဆက်မထားပါ။ Android Settings &gt; Data Usage အောက်မှ  “Auto-sync data” အား နှိပ်ပြီး ချိတ်ပါ။">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; အားတပ်ဆင်ပြီး ပေမယ့် အလိုအလျောက်ချိတ်ဆက်မထားပါ။ Android Settings &gt; Accounts အောက်မှ “Auto-sync data” အား နှိပ်ပြီး ချိတ်ပါ။">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ကို တပ်ဆင်ပြီးပေမယ့် အလိုအလျောက် ချိတ်ဆက်မထားပါ။ Android Settings &gt; Data Usage အောက်မှ  “Auto-sync data” ကို နှိပ်ပြီး ချိတ်ပါ။">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; ကို တပ်ဆင်ပြီးပေမယ့် အလိုအလျောက် ချိတ်ဆက်မထားပါ။ Android Settings &gt; Accounts အောက်မှ “Auto-sync data” ကို နှိပ်ပြီး ချိတ်ပါ။">
 <!ENTITY fxaccount_status_needs_finish_migrating "သင့်မီးမြေခွေး အကောင့်အား ဝင်ရန် ထိပါ">
 <!ENTITY fxaccount_status_bookmarks "စာမှတ်များ">
 <!ENTITY fxaccount_status_history "မှတ်တမ်း">
@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_remove_account "ချိတ်ဆက်မှုကို ဖြုတ်ရန်&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "မီးမြေခွေးအကောင့်အားဖယ်ပြီး?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; သင့်အကောင့်အား ချိတ်ဆက်ခြင်း ရပ်တန့်သွားမည် ဖြစ်သှ်။ သင်၏ ဘယောက်ဆာ အချက်အလက်များအား ဖျက်ပစ်မည်မဟုတ်ပါ">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; သင့်အကောင့်ကို ချိတ်ဆက်ခြင်း ရပ်တန့်သွားမည် ဖြစ်သည်။ သင်၏ ဘယောက်ဆာ အချက်အလက်များကို ဖျက်ပစ်မည်မဟုတ်ပါ။">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "မီးမြေခွေးအကောင့် &formatS; ဖယ်ရှားပြီး">
