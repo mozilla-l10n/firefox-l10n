@@ -281,6 +281,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "ဒီဟာကို အပြင်အဆင်များတွင် ပြင်ဆင်ပြောင်းလဲနိုင်ပါသည်။">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "အခြားအက်ပ်များပေါ်တွင် ဖိဆွဲ၍ရွှေ့ခြင်းခွင့်ပြုချက်ကို ဖွင့်ပါ">
 <!ENTITY tab_queue_prompt_positive_action_button "ဖွင့်ပါ">
 <!ENTITY tab_queue_prompt_negative_action_button "ယခု မဆောင်ရွက်သေးပါ">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -297,6 +298,8 @@
 <!ENTITY tab_queue_notification_text_singular2 "တဗ် 1 ခု စောင့်ဆိုင်းနေသည်">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "လင့်အများအပြားကို ဖွင့်ရန်၊ &brandShortName; အတွက် \u0027အခြားအက်ပ်များပေါ်တွင် ဖိဆွဲ၍ရွှေ့ခြင်း\u0027 ကို ဆောင်ရွက်ခွင့်ပေးပါ။">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -354,7 +357,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "ဝတ်ဆိုဒ်များမှ အလိုအလျောက် မီဒီယာ သို့ ရုရှင်များအား အလိုအလျောက်ပြသခွင့်ရှိမရှိ သတ်မှတ်ပါ">
 <!ENTITY pref_zoom_force_enabled "မြင်ကွင်းချုံ့ချဲ့ ကို အမြဲတမ်း ဖွင့်ထားရန်">
 <!ENTITY pref_zoom_force_enabled_summary "အပြင်အဆင်ကို အတင်း သတ်မှတ်ပါ။ ထိုအခါ မည်သည့်စာမျက်နှာမဆို ချုံ့/ချဲ့ ကြည့်ရှုနိုင်ပါမည်။">
-
+<!ENTITY pref_voice_input "အသံဖြင့် ခိုင်းစေခြင်း">
 <!ENTITY pref_voice_input_summary2 "URL ဘားရှိ အသံဖြင့်စေခိုင်းမှုကို ခွင့်ပြုပါ">
 <!ENTITY pref_qrcode_enabled "QR ကုဒ်ဖတ်သူ">
 <!ENTITY pref_qrcode_enabled_summary2 "URL ဘားရှိ QR ရှာဖွေသူကို ခွင့်ပြုပါ">
