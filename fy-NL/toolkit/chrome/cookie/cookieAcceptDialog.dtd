@@ -11,7 +11,7 @@
 
 <!ENTITY     button.allow.label             "Tastean">
 <!ENTITY     button.allow.accesskey         "a">
-<!ENTITY     button.session.label           "Foar sesje tastean">
+<!ENTITY     button.session.label           "Tastean foar sesje">
 <!ENTITY     button.session.accesskey       "F">
 <!ENTITY     button.deny.label              "Wegerje">
 <!ENTITY     button.deny.accesskey          "W">
