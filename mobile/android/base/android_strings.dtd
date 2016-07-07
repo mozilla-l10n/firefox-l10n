@@ -419,7 +419,7 @@ size. -->
 <!ENTITY datareporting_abouthr_title "Myn steatrapport besjen">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Dielt gegevens oer prestaasjes, hardware, gebrûk en oanpassingen fan jo browser mei &vendorShortName; om &brandShortName; te helpen ferbetterjen">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; ferstjoerdt ûngelokrapporten om &vendorShortName; te helpen jo browser stabiler en feiliger te meitsjen">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; ferstjoert ûngelokrapporten om &vendorShortName; te helpen jo browser stabiler en feiliger te meitsjen">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crashreporter">
@@ -690,9 +690,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Ferlien &brandShortName; de machtiging foar tagong ta ûnthâld om bestannen en fernijingen te downloaden.">
+<!ENTITY updater_permission_text "&brandShortName; tastean de machtiging foar tagong ta ûnthâld om bestannen en fernijingen te downloaden.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Ferliene">
+<!ENTITY updater_permission_allow "Tastean">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Nije gastsesje">
@@ -801,7 +801,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-<!ENTITY whatsnew_notification_title "&brandShortName; is by-de-tiid">
+<!ENTITY whatsnew_notification_title "&brandShortName; is by de tiid">
 <!ENTITY whatsnew_notification_summary "Untdek wat der nij is yn dizze ferzje">
 
 <!ENTITY promotion_add_to_homescreen "Tafoegje oan startskerm">
