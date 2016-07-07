@@ -8,8 +8,8 @@
 <!ENTITY startSafeMode.label          "เริ่มในโหมดปลอดภัย">
 <!ENTITY refreshProfile.label         "เรียก &brandShortName; ใหม่">
 
-<!ENTITY safeModeDescription3.label   "โหมดปลอดภัย เป็นการทำงานพิเศษของ &brandShortName; ที่สามารถใช้ระบุปัญหาได้">
-<!ENTITY safeModeDescription4.label   "ส่วนเสริมและค่าที่คุณตั้งเองจะถูกปิดการใช้งานชั่วคราว">
+<!ENTITY safeModeDescription3.label   "โหมดปลอดภัยเป็นโหมดพิเศษของ &brandShortName; ที่สามารถใช้ในการแก้ไขปัญหา">
+<!ENTITY safeModeDescription4.label   "ส่วนเสริมและการตั้งค่าที่กำหนดเองของคุณจะถูกปิดใช้งานชั่วคราว">
 
 <!ENTITY refreshProfileInstead.label  "นอกจากนี้คุณยังสามารถข้ามการแก้ไขปัญหาและลองเรียก &brandShortName; ใหม่">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
