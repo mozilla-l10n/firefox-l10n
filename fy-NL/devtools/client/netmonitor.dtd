@@ -91,7 +91,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
-<!ENTITY netmonitorUI.footer.filterAll    "Alles">
+<!ENTITY netmonitorUI.footer.filterAll    "Alle">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterHTML): This is the label displayed
   -  in the network details footer for the "HTML" filtering button. -->
