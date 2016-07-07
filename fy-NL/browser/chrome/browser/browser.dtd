@@ -42,7 +42,7 @@ can reach it easily. -->
 <!ENTITY unpinTab.accesskey             "b">
 <!ENTITY moveToNewWindow.label          "Ferpleatse nei nij finster">
 <!ENTITY moveToNewWindow.accesskey      "f">
-<!ENTITY bookmarkAllTabs.label       	"Blêdwizer fan alle ljepblêden meitsje">
+<!ENTITY bookmarkAllTabs.label       	"Blêdwizer foar alle ljepblêden meitsje…">
 <!ENTITY bookmarkAllTabs.accesskey   	"B">
 <!ENTITY undoCloseTab.label          	"Ljepblêd slute ûngedien meitsje">
 <!ENTITY undoCloseTab.accesskey      	"m">
@@ -79,9 +79,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Blêdwizerarkbalke-ûnderdiel">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Alle ljepblêden werlade">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Alle ljepblêden opnij lade">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Blêdwizer fan alle ljepblêden meitsje…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Blêdwizer foar alle ljepblêden meitsje…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "l">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Ljepblêd slute ûngedien meitsje">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "m">
@@ -127,7 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "brûkt no it folsleine skerm">
-<!ENTITY fullscreenWarning.generic.label "Dit documint brûkt no it folsleine skerm">
+<!ENTITY fullscreenWarning.generic.label "Dit dokumint brûkt no it folsleine skerm">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -141,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label          "Blêdwizers">
 <!ENTITY bookmarksMenu.accesskey      "D">
-<!ENTITY bookmarkThisPageCmd.label        "Blêdwizer fan dizze side meitsje">
+<!ENTITY bookmarkThisPageCmd.label        "Blêdwizer foar dizze side meitsje">
 <!ENTITY editThisBookmarkCmd.label "Dizze blêdwizer bewurkje">
 <!ENTITY bookmarkThisPageCmd.commandkey   "d">
 <!ENTITY markPageCmd.commandkey "l">

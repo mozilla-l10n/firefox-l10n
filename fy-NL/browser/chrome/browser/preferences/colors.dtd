@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  colorsDialog.title               "Kleuren">
+<!ENTITY  colorsDialog.title              "Kleuren">
 <!ENTITY window.width                     "43em">
 <!ENTITY  window.macWidth                 "41em">
 
@@ -13,10 +13,10 @@
 <!ENTITY  overridePageColors.auto.label   "Allinnich by tema’s mei heech kontrast">
 <!ENTITY  overridePageColors.never.label  "Noait">
 
-<!ENTITY  color                           "Tekst en eftergrûn">
+<!ENTITY  color                           "Tekst en achtergrûn">
 <!ENTITY  textColor.label                 "Tekst:">
 <!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Eftergrûn:">
+<!ENTITY  backgroundColor.label           "Achtergrûn:">
 <!ENTITY  backgroundColor.accesskey       "E">
 <!ENTITY  useSystemColors.label           "Systeemkleuren brûke">
 <!ENTITY  useSystemColors.accesskey       "S">

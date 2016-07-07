@@ -19,7 +19,7 @@
 <!ENTITY safeb.blocked.malwarePage.title "Rapportearre oanfalside!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Dizze webside op <span id='malware_sitename'/> is rapportearre as in oanfalside en is blokkearre op basis fan jo befeiligingsfoarkarren.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Oanfalsiden wolle programma's ynstallearje dy't priveeynformaasje stelle, dy't jo kompjûter brûke om oaren oan te fallen, of dy't jo systeem skansearje.</p><p>Guon oanfalswebsteeën jouwe mei sin skansearjende programma's, mar der binne genôch websteeën dy't soks sûnder euvelmoed dogge en sûnder tastimming fan de eigners.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Oanfalsiden probearje programma’s te ynstallearjen dy't priveeynformaasje stelle, jo kompjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p><p>Guon oanfalssiden ferspriede bewust gefaarlike software, mar in protte binne kompromittearre sûnder de kunde of tastimming fan harren eigners.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Rapportearre side mei net-winske software!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
