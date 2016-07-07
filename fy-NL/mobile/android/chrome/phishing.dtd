@@ -15,7 +15,7 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "Misliedende website!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "De website op <span id='phishing_sitename'/> is rapportearre as in misliedende website en is blokkearre op basis fan jo befeiligingsfoarkarren.">
-<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Misliedende websites binne makke om jo wat gefaarliks dwaan te litten, lykas it ynstallearjen fan software, of it dielen fan jo persoanlike gegevens, lykas wachtwurden, telefoannûmers of creditcardgegevens.</p><p>It ynfieren fan persoanlike gegevens op dizze webside liede kin ta stellerij fan identiteitsgegevens of oare fraude.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Misliedende websites binne makke om jo wat gefaarliks dwaan te litten, lykas it ynstallearjen fan software, of it dielen fan jo persoanlike gegevens, lykas wachtwurden, telefoannûmers of creditcardgegevens.</p><p>It ynfieren fan persoanlike gegevens op dizze webside kin liede ta stellerij fan identiteitsgegevens of oare fraude.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Rapportearre website mei net-winske software!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
