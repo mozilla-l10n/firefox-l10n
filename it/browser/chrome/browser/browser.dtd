@@ -556,12 +556,8 @@
 <!ENTITY social.addons.label "Gestione servizi…">
 <!ENTITY social.toggleNotifications.label "Visualizza notifiche desktop">
 <!ENTITY social.toggleNotifications.accesskey "k">
-<!ENTITY social.activated.description "Sono stati attivati i servizi da <label/>. È possibile modificare le impostazioni relative ai servizi nel <label class='text-link'>Gestore componenti aggiuntivi</label>.">
-<!ENTITY social.activated.undo.label "Oops, annulla">
-<!ENTITY social.activated.undo.accesskey "a">
 <!ENTITY social.learnMore.label "Ulteriori informazioni…">
 <!ENTITY social.learnMore.accesskey "U">
-<!ENTITY social.closeNotificationItem.label "Non adesso">
 <!ENTITY social.directory.label "Portale servizi">
 <!ENTITY social.directory.text "È possibile attivare nuovi servizi di condivisione dal portale dedicato.">
 <!ENTITY social.directory.button "Apri il portale">
