@@ -11,7 +11,7 @@
 <!ENTITY useDefault.accesskey             "S">
 
 <!ENTITY changeDockIconOptions.label      "Wizigje eigenskippen fan it programmasymboal">
-<!ENTITY dockOptions.label                "Opsjes programmasymboal…">
+<!ENTITY dockOptions.label                "Programmasymboalopsjes…">
 <!ENTITY dockOptions.accesskey            "p">
 
 <!ENTITY newMessagesArrive.label          "As nije berjochten oankomme:">
