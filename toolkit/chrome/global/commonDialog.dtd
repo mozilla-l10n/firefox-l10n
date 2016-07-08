@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY header.label     "Σύντομος τίτλος"> 
+<!ENTITY message.label    "Κάποιο δείγμα κειμένου μπαίνει εδώ.">
 <!ENTITY editfield0.label "Όνομα χρήστη"> 
 <!ENTITY editfield1.label "Κωδικός πρόσβασης:"> 
+<!ENTITY checkbox.label   "επιλογή">
 <!ENTITY copyCmd.label    "Αντιγραφή">
 <!ENTITY copyCmd.accesskey "γ">
 <!ENTITY selectAllCmd.label "Επιλογή όλων">

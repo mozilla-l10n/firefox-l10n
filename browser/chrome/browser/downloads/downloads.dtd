@@ -23,6 +23,7 @@
 
      That's 50 characters, so we set the width at 50ch.
      -->
+<!ENTITY downloadDetails.width            "75ch">
 
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
@@ -53,6 +54,7 @@
 <!ENTITY cmd.show.label                   "Άνοιγμα φακέλου λήψης">
 <!ENTITY cmd.show.accesskey               "φ">
 <!ENTITY cmd.showMac.label                "Προβολή στον Finder">
+<!ENTITY cmd.showMac.accesskey            "ρ">
 <!ENTITY cmd.retry.label                  "Προσπάθεια ξανά">
 <!ENTITY cmd.goToDownloadPage.label       "Μετάβαση στη σελίδα λήψης">
 <!ENTITY cmd.goToDownloadPage.accesskey   "β">
@@ -67,30 +69,37 @@
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
+<!ENTITY cmd.unblock2.label               "Να επιτραπεί η λήψη">
+<!ENTITY cmd.unblock2.accesskey           "α">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
+<!ENTITY cmd.removeFile.label             "Διαγραφή αρχείου">
 <!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
+<!ENTITY cmd.chooseUnblock.label          "Να διαγραφεί το αρχείο ή να επιτραπεί η λήψη">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
+<!ENTITY cmd.chooseOpen.label             "Άνοιγμα ή διαγραφή του αρχείου">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
+<!ENTITY blocked.label                    "ΑΠΟΚΛΕΙΣΜΕΝΟ">
 
 <!-- LOCALIZATION NOTE (learnMore.label):
      Shown as a text link for some types of blocked downloads, for example
      malware, when there is an associated explanation page on the Mozilla site.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
+<!ENTITY learnMore.label                  "Μάθετε περισσότερα">
 
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
@@ -112,6 +121,7 @@
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
+<!ENTITY downloadsPanelEmpty.label        "Δεν υπάρχουν λήψεις για αυτή τη συνεδρία.">
 
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
