@@ -343,18 +343,18 @@ size. -->
 
 
 <!ENTITY pref_qrcode_enabled "ക്യുആര്‍ കോഡ് റീഡര്‍">
-
+<!ENTITY pref_qrcode_enabled_summary2 "യുആര്‍എല്‍ ബാറില്‍ ക്യുആര്‍ സ്കാന്നര്‍ അനുവദിക്കൂ">
 
 <!ENTITY pref_use_master_password "ഒരു പ്രധാന രഹസ്യവാക്ക് ഉപയോഗിക്കുക">
 <!ENTITY pref_sync2 "പ്രവേശിക്കുക">
-
+<!ENTITY pref_sync_summary2 "നിങ്ങളുടെ ടാബുകള്‍, അടയാളക്കുറിപ്പുകള്‍, പ്രവേശനങ്ങള്‍, നാള്‍വഴി എന്നിവ സിന്‍ക് ചെയ്യൂ">
 <!ENTITY pref_search_suggestions "തിരയല്‍ നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുക">
 <!ENTITY pref_history_search_suggestions "തെരച്ചില്‍ നടത്തിയ നാള്‍വഴി കാണിക്കുക">
 <!ENTITY pref_import_options "ഐച്ഛികങ്ങള്‍ ഇറക്കുമതി ചെയ്യുക">
-
+<!ENTITY pref_import_android_summary "നിങ്ങളുടെ നാള്‍വഴികളും അടയാളക്കുറിപ്പുകളും സഹജ ബ്രൗസറില്‍ നിന്നു ഇറക്കുമതി ചെയ്യൂ">
 <!ENTITY pref_private_data_history2 "ബ്രൌസ് ചെയ്ത വെബ്സൈറ്റുകള്‍">
 <!ENTITY pref_private_data_searchHistory "ചരിത്രം തിരയുക">
-
+<!ENTITY pref_private_data_formdata2 "നാള്‍വഴിയില്‍ നിന്ന്">
 <!ENTITY pref_private_data_cookies2 "സജീവമായ ലോഗിനുകളും  കൂക്കികളും">
 <!ENTITY pref_private_data_passwords2 "സൂക്ഷിച്ചിട്ടുള്ള പ്രവേശനങ്ങള്‍">
 <!ENTITY pref_private_data_cache "കാഷ്">
@@ -405,7 +405,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "തകരാര്‍ രേഖപ്പെടുത്തുന്ന പ്രയോഗം">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; പ്രദേശ സേവനങ്ങള്‍">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; എന്നതിനെ ലോകഭൂപടം ചിത്രീകരിക്കാന്‍ സഹായിക്കൂ. നിങ്ങളുടെ ഉപകരണത്തിന്റെ ഏകദേശ വൈഫൈ, സെല്ലുലാര്‍ പ്രദേശ വിവരം പങ്കുവെച്ച് ഞങ്ങളുടെ ഭൂപ്രദേശ സേവനം മെച്ചപ്പെടുത്തൂ.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
