@@ -25,7 +25,7 @@
 <!ENTITY certmgr.subjectinfo.label            "Utjûn oan">
 <!ENTITY certmgr.issuerinfo.label             "Utjûn troch">
 <!ENTITY certmgr.periodofvalidity.label       "Perioade fan jildichheid">
-<!ENTITY certmgr.fingerprints.label           "Fingerôfdruk">
+<!ENTITY certmgr.fingerprints.label           "Fingerôfdrukken">
 <!ENTITY certmgr.certdetail.title             "Detail fan sertifikaat">
 <!ENTITY certmgr.certdetail.cn                "Algemiene namme (CN)">
 <!ENTITY certmgr.certdetail.o                 "Organisaasje (O)">
