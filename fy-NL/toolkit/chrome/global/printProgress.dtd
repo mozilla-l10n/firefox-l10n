@@ -6,7 +6,7 @@
 <!ENTITY printWindow.title "Ofdrukke"> 
 <!ENTITY title    "Titel:"> 
 <!ENTITY progress "Foartgong:">
-<!ENTITY preparing "Tarieding…">
+<!ENTITY preparing "Tariedingâ€¦">
 <!ENTITY printComplete "Ofdrukken is klear.">
 
 <!ENTITY dialogCancel.label "Annulearje"> 
