@@ -66,7 +66,7 @@
 <!ENTITY bookmarksButton.label "Záložky">
 <!ENTITY bookmarksButton.tooltip "Nabídka záložek">
 <!ENTITY homeButton.label "Domů">
-<!ENTITY bookmarksToolbarItem.label "Položky lišty záložek">
+<!ENTITY bookmarksToolbarItem.label "Záložky nástrojové lišty">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobrazí více záložek">
 
 <!-- Statusbar -->

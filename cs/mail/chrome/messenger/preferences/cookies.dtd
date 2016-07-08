@@ -12,7 +12,7 @@
 <!ENTITY button.removeallcookies.label     "Odebrat všechny cookies">
 <!ENTITY button.removeallcookies.accesskey "d">
 
-<!ENTITY props.name.label                  "Název">
+<!ENTITY props.name.label                  "Název:">
 <!ENTITY props.value.label                 "Obsah:">
 <!ENTITY props.domain.label                "Server:">
 <!ENTITY props.path.label                  "Cesta:">

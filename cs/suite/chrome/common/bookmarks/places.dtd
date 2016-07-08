@@ -88,7 +88,7 @@
 <!ENTITY col.lastmodified.label "Poslední změna">
 
 <!ENTITY search.label "Hledat:">
-<!ENTITY search.placeholder "Hledat záložky">
+<!ENTITY search.placeholder "Hledat v záložkách">
 
 <!ENTITY search.in.label "Hledat v:">
 <!ENTITY search.scopeFolder.label "Zvolená složka">
