@@ -74,8 +74,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumint ferrûn">
-<!ENTITY notCached.longDesc "<p>It fersochte dokumint is net beskikber yn de buffer fan &brandShortName;.</p><ul><li>Fanwege in feilichheidsfoarsoarchmaatregel sil &brandShortName; fertroulike dokuminten net automatysk opnij oanfreegje.</li><li>Klik om it dokumint opnij oan te freegjen fan de website.</li></ul>">
-
+<!ENTITY notCached.longDesc "<p>It opfrege dokumint is net beskikber yn de buffer fan &brandShortName;.</p><ul><li>As befeiligingsmaatregel freget &brandShortName; gefoelige dokuminten net automatysk opnij op.</li><li>Klik op Opnij probearje om it dokumint opnij fan de website op te freegjen.</li></ul>">
 <!ENTITY netOffline.title "Offline-moadus">
 <!ENTITY netOffline.longDesc3 "
 <ul>
@@ -88,14 +87,14 @@
 <!ENTITY contentEncodingError.title "Ynhâldkodearingsflater">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Nim kontakt op mei de website-eigners om se te ynformearjen oer dit probleem.</li>
+  <li>Nim kontakt op mei de website-eigners om se oer dit probleem te ynformearjen.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Unfeilich bestânstype">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Nim kontakt op mei de website-eigners om se te ynformearjen oer dit probleem.</li>
+  <li>Nim kontakt op mei de website-eigners om se oer dit probleem te ynformearjen.</li>
 </ul>
 ">
 
@@ -152,7 +151,7 @@
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>De side dy't jo besjen wolle kin net toand wurde, omdat de echtheid fan de ûntfongen gegevens net ferifiearre wurde kin.</li>
-  <li>Nim kontakt op mei de website-eigners om se te ynformearjen oer dit probleem.</li>
+  <li>Nim kontakt op mei de website-eigners om se oer dit probleem te ynformearjen.</li>
 </ul>
 ">
 
@@ -196,7 +195,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Nim kontakt op mei de website-eigners om se te ynformearjen oer dit probleem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Nim kontakt op mei de website-eigners om se oer dit probleem te ynformearjen.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Kin gjin befeilige ferbining meitsje">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
