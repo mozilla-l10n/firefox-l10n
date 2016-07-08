@@ -19,5 +19,10 @@
 <!ENTITY session.accesskey            "σ">
 <!ENTITY allow.label                  "Να επιτρέπεται">
 <!ENTITY allow.accesskey              "ε">
+<!ENTITY windowClose.key              "w">
 
+<!ENTITY button.cancel.label          "Άκυρο">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.ok.label              "Αποθήκευση αλλαγών">
+<!ENTITY button.ok.accesskey          "S">
 
