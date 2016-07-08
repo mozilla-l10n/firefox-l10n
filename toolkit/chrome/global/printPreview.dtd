@@ -33,6 +33,8 @@
 <!ENTITY ShrinkToFit.label    "ఇముడునట్లు  కుచింపచేయి">
 <!ENTITY customPrompt.title   "ఇష్టానుసారమైన  స్కేలు...">
 <!ENTITY simplifyPage.label   "పేజీని సులభతరం చేయి">
+<!ENTITY simplifyPage.enabled.tooltip  "సులభంగా పఠనం కోసం లేఅవుట్ను మార్చండి">
+<!ENTITY simplifyPage.disabled.tooltip "ఈ పేజీ స్వయంచాలకంగా సరళీకృత సాధ్యం కాదు">
 
 <!ENTITY homearrow.tooltip    "మొదటి  పేజీ">
 <!ENTITY endarrow.tooltip     "చివరి పేజీ">
