@@ -85,7 +85,7 @@
 <!ENTITY col.url.label  						"Lokaasje">
 <!ENTITY col.mostrecentvisit.label 				"Meast resinte besite">
 <!ENTITY col.visitcount.label  					"Besykteller">
-<!ENTITY col.description.label  				"Omskriuwing">
+<!ENTITY col.description.label  				"Beskriuwing">
 <!ENTITY col.dateadded.label  					"Tafoege">
 <!ENTITY col.lastmodified.label  				"Lêst wizige">
 

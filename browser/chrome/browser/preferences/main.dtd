@@ -20,7 +20,7 @@
 <!ENTITY restoreDefault.label      "Standert werstelle">
 <!ENTITY restoreDefault.accesskey  "w">
 
-<!ENTITY downloads.label     	   "Ynladen bestannen">
+<!ENTITY downloads.label     	   "Downloads">
 
 <!ENTITY saveTo.label                  "Bestannen bewarje yn">
 <!ENTITY saveTo.accesskey              "e">

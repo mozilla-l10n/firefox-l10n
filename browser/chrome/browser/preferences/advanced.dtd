@@ -31,19 +31,19 @@
 <!ENTITY dataChoicesTab.label            "Gegevensopsjes">
 
 <!ENTITY healthReportDesc.label          "Helpt jo jo browserprestaasjes te begripen en dielt gegevens mei &vendorShortName; oer jo browsersûnens">
-<!ENTITY enableHealthReport.label        "&brandShortName;-sûnensrapport ynskeakelje">
+<!ENTITY enableHealthReport.label        "&brandShortName;-steatrapport ynskeakelje">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Mear ynfo">
 
 <!ENTITY telemetryDesc.label             "Dielt prestaasjes-, hardware-, gebrûk- en oanpassingsgegevens oer jo browser mei &vendorShortName; om &brandShortName; te helpen ferbetterjen">
 <!ENTITY enableTelemetryData.label       "Ekstra gegevens diele (byg., Telemetry)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Mear ynfo ">
+<!ENTITY telemetryLearnMore.label        "Mear ynfo">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; ferstjoerd ûngelokrapporten om &vendorShortName; te helpen jo browser noch stabiler en feiliger te meitsjen">
+<!ENTITY crashReporterDesc.label         "&brandShortName; ferstjoert ûngelokrapporten om &vendorShortName; te helpen jo browser noch stabiler en feiliger te meitsjen">
 <!ENTITY enableCrashReporter.label       "Ungelokrapportearder ynskeakelje">
 <!ENTITY enableCrashReporter.accesskey   "U">
-<!ENTITY crashReporterLearnMore.label    "Mear ynfo ">
+<!ENTITY crashReporterLearnMore.label    "Mear ynfo">
 
 <!ENTITY networkTab.label                "Netwurk">
 
