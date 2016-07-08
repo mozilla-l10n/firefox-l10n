@@ -12,7 +12,7 @@
 <!ENTITY host       "Host:">
 <!ENTITY port       "Poarte:">
 <!ENTITY connect    "Ferbine">
-<!ENTITY connecting "Ferbining…">
+<!ENTITY connecting "Ferbine…">
 <!ENTITY availableAddons "Beskikbere add-ons op oare apparaat:">
 <!ENTITY availableTabs "Beskikbere ljepblêden oare apparaat:">
 <!ENTITY availableProcesses "Beskikbere prosessen oare apparaat:">
