@@ -5,35 +5,31 @@
 <!ENTITY firstrun_panel_title_welcome "స్వాగతం">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName;‌కి స్వాగతం">
-
-
-
-
+<!ENTITY firstrun_bookmarks_title "చరిత్ర">
 <!ENTITY firstrun_data_title "దత్తాంశం">
 <!ENTITY firstrun_data_message "తక్కువ డేటా, మరింత పొదుపు">
-
 <!ENTITY firstrun_sync_title "సింక్">
 <!ENTITY firstrun_sync_message "&brandShortName;, ఎల్లప్పుడూ మీ పక్షమే">
-
-
-
+<!ENTITY firstrun_signin_button "సింక్ లోనికి ప్రవేశించండి">
 <!ENTITY  onboard_start_button_browser "విహరణ మొదలుపెట్టండి">
-
+<!ENTITY firstrun_button_notnow "ఇప్పుడు కాదు">
 <!ENTITY firstrun_button_next "తదుపరి">
 
+<!ENTITY firstrun_tabqueue_title "లింకులు">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
+<!ENTITY firstrun_tabqueue_message_on "సఫలం!">
 
-
-
+<!ENTITY firstrun_readerview_title "వ్యాసాలు">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "నీవు">
+<!ENTITY firstrun_account_message "మరొక &brandShortName; ఉన్నదా?">
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-
 <!ENTITY  bookmarks_title "ఇష్టాంశాలు">
 <!ENTITY  history_title "చరిత్ర">
 <!ENTITY  recent_tabs_title "ఇటీవలి ట్యాబులు">
@@ -61,21 +57,26 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "ఇప్పటికే బుక్మార్క్ చేయబడింది">
 <!ENTITY bookmark_removed "ఇష్టాంశం తొలగించబడింది">
 <!ENTITY bookmark_updated "ఇష్టాంశం తాజాకరించబడింది">
 <!ENTITY bookmark_options "ఎంపికలు">
-
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "స్క్రీన్‌షాట్‌లు">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "చదివుతున్న జాబితా">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; అంశాలు">
+<!ENTITY bookmark_folder_one_item "1 అంశం">
 
-
+<!ENTITY reader_saved_offline "ఆఫ్లైన్లో సేవ్ చేయబడింది">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "మార్చు">
 
 <!ENTITY history_today_section "ఈరోజు">
 <!ENTITY history_yesterday_section "నిన్న">
@@ -117,32 +118,30 @@
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
 <!ENTITY pref_category_language "భాష">
 <!ENTITY pref_category_language_summary "మీ విహారిణి భాషను మార్చుకోండి">
 <!ENTITY pref_browser_locale "విహారిణి భాష">
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-
 <!ENTITY locale_system_default "వ్యవస్థ అప్రమేయం">
+
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-
 <!ENTITY overlay_share_label "&brandShortName;కి చేర్చు">
+
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
 <!ENTITY overlay_share_bookmark_btn_label "ఇష్టాంశంగా గుర్తించు">
-
 <!ENTITY overlay_share_send_other "ఇతర పరికరాలకు పంపించు">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "మరొక పరికరానికి పంపించు">
 <!ENTITY overlay_share_no_url "ఈ పంచుకోలులో లంకె ఏమీ లేదు">
 <!ENTITY overlay_share_select_device "పరికరాన్ని ఎంచుకోండి">
@@ -152,15 +151,10 @@
 <!ENTITY overlay_no_synced_devices "ఫైర్‌ఫాక్స్ ఖాతా సంధానమైవున్న పరికరాలేమీ కనబడలేదు">
 
 <!ENTITY pref_category_search3 "వెతుకు">
-
-
-
 <!ENTITY pref_category_privacy_short "అంతరంగికత">
-
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-
 <!ENTITY pref_category_datareporting "డేటా ఎంపికలు">
-
+<!ENTITY pref_category_logins "లాగిన్ లు">
 <!ENTITY pref_learn_more "మరింత తెలుసుకోండి">
 <!ENTITY pref_category_installed_search_engines "స్థాపిత సెర్చింజన్లు">
 <!ENTITY pref_category_add_search_providers "మరిన్ని శోధన ప్రదాతలను చేర్చండి">
@@ -176,25 +170,18 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
-
-
-
-
-
-
-
+<!ENTITY pref_category_notifications "నోటిఫికేషన్‌లు">
 <!ENTITY pref_manage_logins "ప్రవేశాలను నిర్వహించండి">
 
 <!ENTITY pref_category_home "ముంగిలి">
 <!ENTITY pref_category_home_summary "మీ ముంగిలిపుటను మలచుకోండి">
 <!ENTITY pref_category_home_panels "ప్యానెళ్ళు">
-
-
+<!ENTITY pref_category_home_add_ons "యాడ్-ఆన్స్‍">
+<!ENTITY pref_home_updates2 "కంటేంట్ నవీకరణలు">
 <!ENTITY pref_home_updates_enabled "చేతనం">
 <!ENTITY pref_home_updates_wifi "వై-ఫై ద్వారా మాత్రమే">
-
-
+<!ENTITY pref_category_home_homepage "హొమ్ పేజీ">
+<!ENTITY home_homepage_title "హోంపేజీ సెట్ చేయండి">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -203,18 +190,19 @@
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "కస్ట్ం">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "సాధారణం">
 <!ENTITY pref_header_search "వెతకడం">
 <!ENTITY pref_header_privacy_short "అంతరంగికత">
-
-
+<!ENTITY pref_header_accessibility "వెసులుబాటు">
+<!ENTITY pref_header_notifications "నోటిఫికేషన్‌లు">
 <!ENTITY pref_header_advanced "ఉన్నతం">
 <!ENTITY pref_header_help "సహాయం">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -223,80 +211,79 @@
 <!ENTITY pref_cookies_accept_all "చేతనం">
 <!ENTITY pref_cookies_not_accept_foreign "చేతనం, 3వ పక్షం మినహాయించి">
 <!ENTITY pref_cookies_disabled "అచేతనం">
+
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
-
+<!ENTITY pref_category_data_saver "డేటా సేవర్">
+<!ENTITY pref_category_media "మీడియా">
+<!ENTITY pref_category_developer_tools "డెవలపర్ సాధనాలు">
 
 <!ENTITY pref_tap_to_load_images_title2 "బొమ్మలను చూపించు">
 <!ENTITY pref_tap_to_load_images_enabled "ఎల్లప్పుడూ">
-
-
-
-
+<!ENTITY pref_tap_to_load_images_data "వై-ఫై ద్వారా మాత్రమే">
+<!ENTITY pref_tap_to_load_images_disabled2 "నిరోధించబడింది">
 
 
 <!ENTITY pref_donottrack_title "ట్రాక్ చెయ్యవద్దు">
 <!ENTITY pref_donottrack_summary "మిమ్మల్ని ట్రాక్ చెయ్యవద్దనుకుంటున్నారని &brandShortName; వెబ్‌సైట్లకు తెలియజేస్తుంది">
 
-
-
-
-
-
+<!ENTITY pref_tracking_protection_enabled "ప్రారంభించబడింది">
+<!ENTITY pref_tracking_protection_disabled "నిలిపివేయబడింది">
 
 
 <!ENTITY tracking_protection_prompt_action_button "అర్థమయింది!">
 
 <!ENTITY tab_queue_toast_action "ఇప్పుడే తెరువు">
-
-
-
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "చేతనించు">
 <!ENTITY tab_queue_prompt_negative_action_button "ఇప్పుడు కాదు">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-
+<!ENTITY tab_queue_prompt_settings_button "సెట్టింగ్‌లకు వెళ్లు">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "సెట్టింగ్‌లు">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "ఇప్పుడు చదువు">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "&formatS; న నవీకరించబడింది">
 
 <!ENTITY pref_char_encoding "అక్షరాల ఎన్కోడింగు">
 <!ENTITY pref_char_encoding_on "మెను చూపించు">
 <!ENTITY pref_char_encoding_off "మెనూని చూపించకు">
-
+<!ENTITY pref_clear_private_data2 "ప్రైవేట్ డేటాను క్లియర్ చేయండి">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ఇప్పుడే చెరిపివేయి">
-
+<!ENTITY pref_clear_on_exit_title3 "మూసివేయునప్పుడు ప్రైవేట్ డేటాను క్లియర్ చేయండి">
 <!ENTITY pref_clear_on_exit_summary2 "ముఖ్య మెనూ నుండి మీరు \u0022Quit\u0022 ను ఎంచినప్పుడు &brandShortName; స్వయంచాలకంగా మీ డేటాను శుభ్రంచేయును">
 <!ENTITY pref_clear_on_exit_dialog_title "ఏఏ డేటాను తుడిచివేయాలో ఎంచుకోండి">
 <!ENTITY pref_plugins "ప్లగిన్లు">
 <!ENTITY pref_plugins_enabled "చేతనం">
-
+<!ENTITY pref_plugins_tap_to_play2 "ఆడటానికి తాకండి">
 <!ENTITY pref_plugins_disabled "అచేతనం">
 <!ENTITY pref_text_size "పాఠ్య పరిమాణం">
-
 <!ENTITY pref_restore_always "ఎప్పుడూ పునరుద్ధరించు">
 <!ENTITY pref_restore_quit "&brandShortName; నుండి నిష్క్రమించిన తర్వాత పునరుద్ధరించవద్దు">
 <!ENTITY pref_font_size_tiny "అతి చిన్న">
@@ -311,36 +298,29 @@ same character/combination is used to increase the preview font size. It should 
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
 <!ENTITY pref_font_size_adjust_char "అ">
+
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-
 <!ENTITY pref_font_size_preview_text "మరింత వేగం, సౌలభ్యం, భద్రతల గురించి మీ ఆకాంక్షలను ఈ చలాకీ ఆరెంజి నక్క అవలీలగా దూకేస్తుంది. ఒక లాభాపేక్ష లేని సంస్థగా, రాజీ పడాల్సిన అవసరం లేకుండా మీ తరపున విన్నూత్నీకరించడానికి మాకు స్వేచ్ఛ ఉంది. అంటే, మీకు మెరుగైన అనుభవం మరియు జాలానికి ఉజ్వల భవిష్యత్తు.">
 
 <!ENTITY pref_media_autoplay_enabled_summary "వెబ్‌సైట్లు వీడియోలనూ ఇతర మీడియానూ ఆటోమెటిగ్గా ఆడించవచ్చా వద్దో నియంత్రించండి">
 <!ENTITY pref_zoom_force_enabled "ఎల్లప్పుడూ జూమ్ చేతనించు">
 <!ENTITY pref_zoom_force_enabled_summary "ఏ పేజీనైనా జూమ్ చెయ్యగలిగేలా చేయండి">
 
-
-
-
-
 <!ENTITY pref_use_master_password "ప్రధాన సంకేతపదాన్ని వాడు">
-
-
+<!ENTITY pref_sync2 "సైన్ ఇన్">
 <!ENTITY pref_search_suggestions "వెతుకుడు సలహాలను చూపించు">
-
-
+<!ENTITY pref_import_options "ఎంపికలను దిగుమతి చెయ్యి">
 <!ENTITY pref_import_android_summary "నేటివ్ విహారిణి నుండి ఇష్టాంశాలనూ చరిత్రనూ దిగుమతి చేసుకోండి">
 <!ENTITY pref_private_data_history2 "విహరణ చరిత్ర">
-
-
+<!ENTITY pref_private_data_searchHistory "చరిత్ర శోధన">
 <!ENTITY pref_private_data_cookies2 "కుకీలు &amp; క్రియాశీల ప్రవేశాలు">
-
+<!ENTITY pref_private_data_passwords2 "సేవ్ చేయబడిన లాగిన్ లు">
 <!ENTITY pref_private_data_cache "క్యాషె">
 <!ENTITY pref_private_data_offlineApps "ఆఫ్‌లైన్ వెబ్‌సైటు డేటా">
 <!ENTITY pref_private_data_siteSettings2 "సైటు అమరికలు">
 <!ENTITY pref_private_data_downloadFiles2 "దింపుకోళ్ళు">
-
+<!ENTITY pref_private_data_syncedTabs "సింకైన ట్యాబులు">
 
 <!ENTITY pref_about_firefox "&brandShortName; గురించి">
 <!ENTITY pref_vendor_faqs "సందేహాలు">
@@ -366,13 +346,13 @@ size. -->
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-
 <!ENTITY datareporting_fhr_title "&brandShortName; ఆరోగ్య నివేదిక">
 <!ENTITY datareporting_fhr_summary2 "మీ విహారిణి ఆరోగ్యం గురించి భోగట్టాను &vendorShortName;కి తెలియజేస్తుంది మరియు మీరు మీ విహారిణి సామర్ధ్యాన్ని అర్థం చేసుకోడానికి సహాయపడుతుంది">
 <!ENTITY datareporting_abouthr_title "ఆరోగ్య నివేదికను చూడండి">
@@ -383,21 +363,19 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "క్రాష్ రిపోర్టర్">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; స్థాన సేవ">
-
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload_wifi "వై-ఫై ద్వారా మాత్రమే">
 <!ENTITY pref_update_autodownload_never "ఎప్పటికీవద్దు">
 <!ENTITY pref_update_autodownload_always "ఎల్లప్పుడూ">
-<!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "సహాయం">
 
 <!ENTITY quit "నిష్క్రమించు">
 
 <!ENTITY addons "పొడగింతలు">
-
 <!ENTITY downloads "దింపుకోళ్ళు">
 <!ENTITY char_encoding "అక్షర సంహితీకరణ">
 
@@ -405,28 +383,22 @@ size. -->
 <!ENTITY share_title "దీనిద్వారా పంచుకొను">
 <!ENTITY share_image_failed "ఈ చిత్రాన్ని పంచుకోలేకున్నాం">
 <!ENTITY save_as_pdf "PDFగా భద్రపరచు">
-
-
-
 <!ENTITY page "పేజీ">
 <!ENTITY tools "పనిముట్లు">
-
-
 <!ENTITY close_all_tabs "ట్యాబులన్నీ మూసివేయి">
 <!ENTITY close_private_tabs "ప్రయివేటు ట్యాబులను మూసివేయి">
-
 <!ENTITY tabs_private "అంతరంగికం">
 <!ENTITY set_image_fail "చిత్రాన్ని అమర్చలేదు">
 <!ENTITY set_image_path_fail "చిత్రాన్ని దాయలేక పోయింది">
 <!ENTITY set_image_chooser_title "చిత్రమును ఇలా అమర్చు">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_prev "క్రితం">
-
 <!ENTITY find_close "మూసివేయి">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY media_sending_to "పరికకానికి పంపిస్తున్నాం">
 <!ENTITY media_play "ఆడు">
 <!ENTITY media_pause "నిలుపు">
@@ -447,50 +419,42 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "సైటు పిన్‌చేయి">
 <!ENTITY contextmenu_top_sites_unpin "సిటు పిన్‌తీయి">
 <!ENTITY contextmenu_add_search_engine "అన్వేషణ యంత్రాన్ని కలుపు">
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
 <!ENTITY doorhanger_login_no_username "[వాడుకరి పేరు లేదు]">
 <!ENTITY doorhanger_login_edit_title "ప్రవేశాన్ని సవరించు">
 <!ENTITY doorhanger_login_edit_username_hint "వాడుకరినామము">
 <!ENTITY doorhanger_login_edit_password_hint "సంకేతపదం">
 <!ENTITY doorhanger_login_edit_toggle "సంకేతపదాన్ని చూపించు">
 
-
-
-
-
-
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
 <!ENTITY pref_scroll_title_bar2 "నిండుతెర విహరణ">
-
 
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-
 <!ENTITY page_removed "పేజీ తీసివేయబడెను">
 
 <!ENTITY bookmark_edit_title "ఇష్టాంశాన్ని సవరించు">
 <!ENTITY bookmark_edit_name "పేరు">
 <!ENTITY bookmark_edit_location "ప్రాంతం">
 <!ENTITY bookmark_edit_keyword "కీపదం">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
 <!ENTITY site_settings_title3       "సైటు అమరికలు">
 <!ENTITY site_settings_cancel       "రద్దుచేయి">
 <!ENTITY site_settings_clear        "తుడుచివేయి">
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-
 <!ENTITY page_action_dropmarker_description "అదనపు చర్యలు">
 
 <!ENTITY masterpassword_create_title "ప్రధాన సంకేతపదాన్ని సృష్టించండి">
@@ -511,15 +475,12 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "ఓ సైటును చేర్చండి">
+
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
 <!ENTITY home_title "&brandShortName; ముంగిలి">
 <!ENTITY home_history_title "చరిత్ర">
-
-
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-
 <!ENTITY home_clear_history_button "విహరణ చరిత్రను తుడిచేయి">
 <!ENTITY home_clear_history_confirm "మీరు నిశ్చయంగా మీ చరిత్రను తుడిచేయాలని అనుకొంటున్నారా?">
 <!ENTITY home_bookmarks_empty "మీరు భద్రపరుచుకున్న ఇష్టాంశాలు ఇక్కడ ఉంటాయి.">
@@ -531,17 +492,18 @@ size. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "ష్: &formatS1;కొత్త అంతరంగిక ట్యాబు&formatS2; వాడితే మీ చరిత్ర నమోదుకాదు.">
+
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-
 <!ENTITY home_default_empty "ఈ ప్యానల్ కొరకు ఏ కాంటెంట్ కనుగొనబడలేదు.">
+
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; పరికరాలు దాగివున్నాయి">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -559,8 +521,8 @@ size. -->
 <!ENTITY filepicker_audio_title "ఒక శబ్దాన్ని ఎంచండి లేదా రికార్డ్ చేయండి">
 <!ENTITY filepicker_image_title "ఒక చిత్రాన్ని ఎంచండి లేదా తీయండి">
 <!ENTITY filepicker_video_title "ఒక విడియోను ఎంచండి లేదా రికార్డు చేయండి">
-<!-- Site identity popup -->
 
+<!-- Site identity popup -->
 <!ENTITY identity_connected_to "మీరు దీనికి అనుసంధానించ బడినారు">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -574,19 +536,11 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 
-
-
 <!-- Mixed content notifications in site identity popup -->
-
-
 
 <!-- Tracking content notifications in site identity popup -->
 
-
-
-
 <!-- Common mixed and tracking content strings in site identity popup -->
-
 <!ENTITY learn_more "మరింత తెలుసుకోండి">
 <!ENTITY enable_protection "సంరక్షణను చేతనంచేయి">
 <!ENTITY disable_protection "సంరక్షణను ఆపివేయి">
@@ -607,15 +561,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
 <!ENTITY search_bar_item_desc "&formatS; తో వెతుకు">
+
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-
 <!ENTITY suggestion_for_engine "&formatS2; కోసం &formatS1;‌‌లో వెతుకు">
 
 <!ENTITY searchable_description "ఇష్టాంశాలు మరియు చరిత్ర">
-<!-- Updater notifications --> 
 
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName;కి నవీకరణ అందుబాటులో ఉంది">
 <!ENTITY updater_start_select2 "దింపుకోడానికి తాకండి">
 
@@ -626,55 +580,57 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "&brandShortName;‌కి నవీకరణ అందుబాటులో ఉంది">
 <!ENTITY updater_apply_select2 "నవీకరించడానికి తాకండి">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!-- Guest mode -->    
 
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "కొత్త అతిథి సెషన్">
 <!ENTITY exit_guest_session "అతథి సెషన్ నిష్క్రమించు">
 <!ENTITY guest_session_dialog_continue "కొనసాగించు">
 <!ENTITY guest_session_dialog_cancel "రద్దుచేయి">
 <!ENTITY new_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
-
 <!ENTITY guest_browsing_notification_title "అతిథి విహారణ చేతనమైంది">
 <!ENTITY guest_browsing_notification_text "తాకి నిష్క్రమించు">
 
 <!ENTITY exit_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
 <!ENTITY exit_guest_session_text "ఈ సెషన్ నుండి విహరణ దత్తాంశం తొలగించబడును.">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
 <!ENTITY actionbar_menu "మెనూ">
 <!ENTITY actionbar_done "అయినది">
-<!-- Voice search in the awesome bar -->
 
+<!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "ఇప్పుడు మాట్లాడండి">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-
 <!ENTITY remote_tabs_last_synced "చివరిగా సింకైంది: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "చివరి సింక్: ఇంకా చేయలేదు">
+
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -686,25 +642,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
 <!ENTITY restrictable_feature_private_browsing "అంతరంగిక విహారణ">
-
-
-
 <!ENTITY restrictable_feature_advanced_settings "ఉన్నత అమరికలు">
-
-
-
-
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -712,6 +662,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
@@ -719,11 +670,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-
-
-
-
-
 
 
 
