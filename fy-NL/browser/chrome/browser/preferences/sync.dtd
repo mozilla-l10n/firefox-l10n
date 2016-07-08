@@ -68,7 +68,7 @@
 
 <!ENTITY welcome.description 			"Krij tagong ta jo ljepblêden, blêdwizers, wachtwurden en mear oeral dêr't jo &brandShortName; brûke.">
 <!ENTITY welcome.signIn.label 			"Oanmelde">
-<!ENTITY welcome.createAccount.label	"Account meitsje">
+<!ENTITY welcome.createAccount.label	"Account oanmeitsje">
 
 <!ENTITY welcome.useOldSync.label 		"Brûke jo in âldere ferzje fan Sync?">
 
