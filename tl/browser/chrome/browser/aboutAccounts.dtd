@@ -1,11 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY aboutAccounts.connected "Account connected">
 
-
-
+<!ENTITY aboutAccountsConfig.description "Mag sign-in para maging konektado ang iyong tab, bookmarks, password at iba pa.">
+<!ENTITY aboutAccountsConfig.startButton.label "Simulan na">
 
 
 <!ENTITY aboutAccounts.noConnection.title "Walang koneksyon">
 <!ENTITY aboutAccounts.noConnection.description "Kailangang nakakonekta ka sa Internet upang makapag sign in">
-<!ENTITY aboutAccounts.noConnection.retry "Subukan muli">
+<!ENTITY aboutAccounts.noConnection.retry "Muling subukan">
