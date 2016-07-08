@@ -7,7 +7,21 @@
 <!-- Instant messaging account status window for Thunderbird -->
 
 <!ENTITY accountManager.newAccount.label     "Uusi tili">
+<!ENTITY accountManager.newAccount.accesskey "U">
 <!ENTITY accountManager.close.label          "Sulje">
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Yhtään tiliä ei ole vielä määritelty">
+<!ENTITY accountManager.noAccount.description "Napsauttamalla &accountManager.newAccount.label; -painiketta voit määritellä &brandShortName;in avulla uuden tilin.">
+<!ENTITY account.connect.label        "Yhdistä">
+<!ENTITY account.disconnect.label     "Katkaise yhteys">
+<!ENTITY account.delete.label         "Poista">
+<!ENTITY account.edit.label           "Ominaisuudet">
+<!ENTITY account.moveup.label         "Siirrä ylös">
+<!ENTITY account.movedown.label       "Siirrä alas">
+<!ENTITY account.cancelReconnection.label         "Keskeytä uudelleenyhdistäminen">
+<!ENTITY account.copyDebugLog.label     "Kopioi vikasietoloki">
+<!ENTITY account.showDebugLog.label     "Näytä vikasietoloki">
+<!ENTITY account.connecting           "Yhdistetään…">
+<!ENTITY account.disconnecting        "Katkaistaan yhteyttä…">
+<!ENTITY account.disconnected         "Ei yhdistetty">
