@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "လိုက်လံ မှတ်သားခြင်း မပြုပါနှင့်">
+<!ENTITY window.width                 "50em">
+<!ENTITY window.height                "10em">
 
-
-
-
+<!ENTITY doNotTrackCheckbox2.label    "(A) နောက်ယောင်ခံမလိုက်ရ ကို အမြဲသတ်မှတ်ထားပါ">
+<!ENTITY doNotTrackCheckbox2.accesskey "A">
 
 <!ENTITY doNotTrackLearnMore.label    "ပိုမိုလေ့လာရန်">
