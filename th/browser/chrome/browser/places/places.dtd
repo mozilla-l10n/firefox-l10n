@@ -74,8 +74,8 @@
 <!ENTITY cmd.new_separator.label           "ตัวแบ่งใหม่">
 <!ENTITY cmd.new_separator.accesskey       "บ">
 
-<!ENTITY cmd.reloadLivebookmark.label      "เรียกไลฟ์บุ๊กมาร์กใหม่">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "ร">
+<!ENTITY cmd.reloadLivebookmark.label      "โหลดที่คั่นหน้าสดใหม่">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "โ">
 
 <!ENTITY cmd.moveBookmarks.label                  "ย้าย…">
 <!ENTITY cmd.moveBookmarks.accesskey              "ย">
