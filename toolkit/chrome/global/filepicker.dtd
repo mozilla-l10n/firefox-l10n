@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY lookInMenuList.label   "ดูใน">
-<!ENTITY lookInMenuList.accesskey   "ด">
+<!ENTITY lookInMenuList.label   "มองหาใน:">
+<!ENTITY lookInMenuList.accesskey   "ม">
 <!ENTITY textInput.label        "ชื่อไฟล์:">
 <!ENTITY textInput.accesskey        "ช">
 <!ENTITY filterMenuList.label   "ชนิดไฟล์:">

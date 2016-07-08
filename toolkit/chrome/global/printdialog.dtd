@@ -11,12 +11,12 @@
 <!ENTITY fpDialog.title "บันทึกไฟล์">
 
 <!ENTITY fileCheck.label "พิมพ์เป็นไฟล์">
-<!ENTITY fileCheck.accesskey "ฟ">
+<!ENTITY fileCheck.accesskey "ไ">
 <!ENTITY propertiesButton.label "คุณสมบัติ…">
 <!ENTITY propertiesButton.accesskey "ส">
-<!ENTITY descText.label "คำอธิบายเครื่องพิมพ์ :">
+<!ENTITY descText.label "คำอธิบายเครื่องพิมพ์:">
 <!ENTITY printer.label "เครื่องพิมพ์">
-<!ENTITY printerInput.label "ชื่อเครื่องพิมพ์ :">
+<!ENTITY printerInput.label "ชื่อเครื่องพิมพ์:">
 <!ENTITY printerInput.accesskey "ช">
 
 <!ENTITY printrangeGroup.label "ช่วง">
