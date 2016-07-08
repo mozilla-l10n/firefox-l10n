@@ -12,7 +12,7 @@
 <!ENTITY prefWindow.size "width: 115ch; height: 43em;">
 
 <!-- pref-tabs.xul -->
-<!ENTITY urlbar.label "Control+Enter v adresním řádku">
+<!ENTITY urlbar.label "Ctrl+Enter v adresním řádku">
 <!ENTITY urlbar.accesskey "L">
 <!ENTITY middleClick.label "Prostřední tlačítko, Ctrl+klepnutí nebo Ctrl+Enter na odkazu na webové stránce">
 <!ENTITY middleClick.accesskey "S">
