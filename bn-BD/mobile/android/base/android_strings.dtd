@@ -803,8 +803,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "অফলাইনে পড়ুন">
 
+<!ENTITY helper_first_offline_bookmark_button "বুকমার্কে যাও">
 
+<!ENTITY helper_triple_readerview_open_title "অফলাইন বিদ্যমান">
 
-
-
+<!ENTITY helper_triple_readerview_open_button "বুকমার্কে যুক্ত কর">
 
