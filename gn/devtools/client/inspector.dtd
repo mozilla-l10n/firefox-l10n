@@ -117,6 +117,8 @@
      the URL embedding the image data encoded in Base 64 (what we name
      here Image Data URL). For more information:
      https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
+
+<!ENTITY inspectorImageDataUri.label       "URL mba'ekuaarã ra'ãnga">
 <!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
      shown in the inspector contextual-menu for the item that lets users see
      the DOM properties of the current node. When triggered, this item
@@ -162,6 +164,8 @@
      - Copy Outer HTML
      - Copy Unique selector
      - Copy Image data URI -->
+
+<!ENTITY inspectorCopyHTMLSubmenu.label      "Emonguatia">
 <!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
      paste items, which allow to:
@@ -171,3 +175,5 @@
      - After
      - As First Child
      - As Last Child -->
+
+<!ENTITY inspectorPasteHTMLSubmenu.label      "Mboja">

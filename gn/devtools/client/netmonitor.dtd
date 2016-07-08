@@ -15,7 +15,7 @@
 
 <!ENTITY netmonitorUI.perfNotice1         "• Ejopy pe votõme">
 <!ENTITY netmonitorUI.perfNotice2         "emoñepyrũ hag̃ua ehesa'ỹijo apopyre.">
-
+<!ENTITY netmonitorUI.perfNotice3         "Tesa'ỹijo">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 
@@ -40,6 +40,8 @@
 <!ENTITY netmonitorUI.toolbar.domain      "Tendatee">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.cause): This is the label displayed
   -  in the network table toolbar, above the "cause" column. -->
+
+<!ENTITY netmonitorUI.toolbar.cause        "Mba'ére">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 
