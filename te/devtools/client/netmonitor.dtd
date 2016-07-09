@@ -127,6 +127,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterWS): This is the label displayed
   -  in the network details footer for the "WS" filtering button. -->
+<!ENTITY netmonitorUI.footer.filterWS  "WS">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
@@ -134,6 +135,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
   -  in the network details footer for the url filtering textbox. -->
+<!ENTITY netmonitorUI.footer.filterFreetext.label  "ఫిల్టర్URLs">
 <!ENTITY netmonitorUI.footer.filterFreetext.key  "F">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
@@ -158,6 +160,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.address): This is the label displayed
   -  in the network details headers tab identifying the remote address. -->
+<!ENTITY netmonitorUI.summary.address     "రిమోట్ చిరునామా:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
@@ -256,6 +259,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
   -  on the context menu that copies the selected request's url parameters -->
+<!ENTITY netmonitorUI.context.copyUrlParams     "URL ను కాపీ చేయు పారామితులు">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
@@ -263,6 +267,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData): This is the label displayed
   -  on the context menu that copies the selected request's post data -->
+<!ENTITY netmonitorUI.context.copyPostData     "POST డేటాని కాపీ చేయండి">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData.accesskey): This is the access key
   -  for the Copy POST Data menu item displayed in the context menu for a request -->
@@ -276,9 +281,11 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCUrl.accesskey): This is the access key
   -  for the Copy as cURL menu item displayed in the context menu for a request -->
+<!ENTITY netmonitorUI.context.copyAsCurl.accesskey "C">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
+<!ENTITY netmonitorUI.context.copyRequestHeaders     "అభ్యర్థన శీర్షికలు కాపీ చేయండి">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
@@ -286,6 +293,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
   -  on the context menu that copies the selected item's response headers -->
+<!ENTITY netmonitorUI.context.copyResponseHeaders     "ప్రతిస్పందన శీర్షికలు కాపీ చేయండి">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
   -  for the Copy Response Headers menu item displayed in the context menu for a response -->
@@ -293,6 +301,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponse): This is the label displayed
   -  on the context menu that copies the selected response as a string -->
+<!ENTITY netmonitorUI.context.copyResponse "రెస్పాన్స్ కాపీ చేయండి">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRespose.accesskey): This is the access key
   -  for the Copy Response menu item displayed in the context menu for a request -->
@@ -308,6 +317,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar): This is the label displayed
   -  on the context menu that copies all as HAR format -->
+<!ENTITY netmonitorUI.context.copyAllAsHar "HAR నాటికి అన్ని కాపీ చేయండి">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar.accesskey): This is the access key
   -  for the Copy All As HAR menu item displayed in the context menu for a network panel -->
@@ -315,6 +325,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar): This is the label displayed
   -  on the context menu that saves all as HAR format -->
+<!ENTITY netmonitorUI.context.saveAllAsHar "HAR నాటికి అన్ని సేవ్ చేయండి">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar.accesskey): This is the access key
   -  for the Save All As HAR menu item displayed in the context menu for a network panel -->
