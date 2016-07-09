@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Изключването на възможността Безопасно сърфиране е непрепоръчително, защото може да доведе посещението ви в опасни страници. Ако желаете изцяло да изключите тази функционалност следвайте тези стъпки:">
 <!ENTITY rights.safebrowsing-term1 "Отворете настройките на приложението">
 <!ENTITY rights.safebrowsing-term2 "Изберете раздел Сигурност">
-
+<!ENTITY rights2.safebrowsing-term3 "Махнете отметката, за да „&enableSafeBrowsing.label;“">
 <!ENTITY rights.safebrowsing-term4 "Безопасното сърфиране вече е изключено">
 <!-- location aware browsing points for branded builds -->
 
