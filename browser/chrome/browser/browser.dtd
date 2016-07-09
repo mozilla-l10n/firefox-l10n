@@ -88,6 +88,9 @@
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "теперь находится в полноэкранном режиме">
 <!ENTITY fullscreenWarning.generic.label "Этот документ теперь находится в полноэкранном режиме">
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "контролирует ваш указатель мыши. Нажмите Esc, чтобы вернуть себе контроль.">
+<!ENTITY pointerlockWarning.generic.label "Этот документ контролирует ваш указатель мыши. Нажмите Esc, чтобы вернуть себе контроль.">
 <!ENTITY exitDOMFullscreen.button "Выйти из полноэкранного режима (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Выйти из полноэкранного режима (esc)">
 <!ENTITY leaveDOMFullScreen.label "Выйти из полноэкранного режима">
@@ -555,12 +558,8 @@
 <!ENTITY social.addons.label "Управление службами…">
 <!ENTITY social.toggleNotifications.label "Отображать уведомления на десктопе">
 <!ENTITY social.toggleNotifications.accesskey "а">
-<!ENTITY social.activated.description "Были включены службы от <label/>. Вы можете изменить параметры служб в <label class='text-link'>окне управления дополнениями</label>.">
-<!ENTITY social.activated.undo.label "Ой, отменить это!">
-<!ENTITY social.activated.undo.accesskey "м">
 <!ENTITY social.learnMore.label "Подробнее…">
 <!ENTITY social.learnMore.accesskey "о">
-<!ENTITY social.closeNotificationItem.label "Не сейчас">
 <!ENTITY social.directory.label "Каталог Служб">
 <!ENTITY social.directory.text "Вы можете активировать службы Обмена из этого каталога.">
 <!ENTITY social.directory.button "Перенести меня туда!">
