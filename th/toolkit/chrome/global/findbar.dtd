@@ -9,7 +9,7 @@
 <!ENTITY previous.tooltip "หาตำแหน่งก่อนหน้าของวลี">
 <!ENTITY findCloseButton.tooltip "ปิดแถบค้นหา">
 <!ENTITY highlightAll.label "แต้มสีทั้งหมด">
-<!ENTITY highlightAll.accesskey "A">
+<!ENTITY highlightAll.accesskey "ท">
 <!ENTITY highlightAll.tooltiptext "แต้มสีผลลัพธ์ของวลีทั้งหมด">
 <!ENTITY caseSensitive.label "ตรงทุกตัวอักษร">
 <!ENTITY caseSensitive.accesskey "ท">

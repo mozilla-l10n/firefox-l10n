@@ -20,9 +20,9 @@
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
 
-<!ENTITY btnPageNet.label   "การเชื่อมต่อ">
+<!ENTITY btnPageNet.label   "เน็ต">
 <!ENTITY btnPageNet.tooltip "บันทึกกิจกรรมของการใช้เครือข่าย">
-<!ENTITY btnPageNet.accesskey "N">
+<!ENTITY btnPageNet.accesskey "เ">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
@@ -35,9 +35,9 @@
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "บันทึกข้อยกเว้น JavaScript">
 <!ENTITY btnPageJS.accesskey  "J">
-
+<!ENTITY btnPageSecurity.label "ความปลอดภัย">
 <!ENTITY btnPageSecurity.tooltip "Log security errors and warnings">
-
+<!ENTITY btnPageSecurity.accesskey "ล">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
@@ -69,9 +69,9 @@
   -  should not be translated. -->
 
 <!ENTITY filterOutput.placeholder "Filter output">
-
+<!ENTITY btnClear.label        "ล้าง">
 <!ENTITY btnClear.tooltip      "ล้างค่าออกของคอนโซลเว็บ">
-
+<!ENTITY btnClear.accesskey    "ง">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
