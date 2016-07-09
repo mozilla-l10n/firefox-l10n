@@ -639,11 +639,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY toggleMuteCmd.key              "M">
 
-<!ENTITY pageStyleMenu.label "รูปแบบหน้า">
-<!ENTITY pageStyleMenu.accesskey "บ">
-<!ENTITY pageStyleNoStyle.label "ไม่มีรูปแบบ">
-<!ENTITY pageStyleNoStyle.accesskey "ม">
-<!ENTITY pageStylePersistentOnly.label "รูปแบบหน้าพื้นฐาน">
+<!ENTITY pageStyleMenu.label "ลักษณะหน้า">
+<!ENTITY pageStyleMenu.accesskey "ษ">
+<!ENTITY pageStyleNoStyle.label "ไม่มีลักษณะ">
+<!ENTITY pageStyleNoStyle.accesskey "ไ">
+<!ENTITY pageStylePersistentOnly.label "ลักษณะหน้าพื้นฐาน">
 <!ENTITY pageStylePersistentOnly.accesskey "พ">
 
 <!ENTITY pageReportIcon.tooltip            "เปลี่ยนการตั้งค่าการปิดกั้นป๊อปอัปสำหรับเว็บไซต์นี้">

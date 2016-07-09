@@ -11,14 +11,14 @@
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "กว้างตามสัดส่วน :">
-<!ENTITY  proportional.accesskey                  "ส">
+<!ENTITY  proportional.label                      "ความกว้างตามสัดส่วน:">
+<!ENTITY  proportional.accesskey                  "ค">
 
-<!ENTITY  serif.label                             "มีเชิง :">
-<!ENTITY  serif.accesskey                         "ช">
-<!ENTITY  sans-serif.label                        "ไม่มีเชิง :">
+<!ENTITY  serif.label                             "มีเชิง:">
+<!ENTITY  serif.accesskey                         "ม">
+<!ENTITY  sans-serif.label                        "ไม่มีเชิง:">
 <!ENTITY  sans-serif.accesskey                    "ม">
-<!ENTITY  monospace.label                         "กว้างคงที่ :">
+<!ENTITY  monospace.label                         "ความกว้างคงที่:">
 <!ENTITY  monospace.accesskey                     "ค">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "สิงหล">
 <!ENTITY  font.langGroup.tibetan                  "ทิเบต">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "ขนาดอักษรเล็กสุด :">
-<!ENTITY minSize.accesskey                        "ล">
+<!ENTITY minSize.label                            "ขนาดอักษรต่ำสุด:">
+<!ENTITY minSize.accesskey                        "ก">
 <!ENTITY minSize.none                             "ไม่มี">
 <!-- default font type -->
 
@@ -104,4 +104,4 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "เวียดนาม">
-<!ENTITY languages.customize.Fallback.other       "อื่นๆ (รวมถึงยุโรปตะวันตก)">
+<!ENTITY languages.customize.Fallback.other       "อื่น ๆ (รวมถึงยุโรปตะวันตก)">

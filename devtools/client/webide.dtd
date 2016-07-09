@@ -168,7 +168,7 @@
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
-
+<!ENTITY simulator_reset "เรียกคืนค่าปริยาย">
 
 
 <!ENTITY simulator_version "รุ่น">

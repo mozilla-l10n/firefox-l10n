@@ -83,7 +83,7 @@
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that is
      shown as the placeholder for the markup view search in the inspector. -->
 
-<!ENTITY inspectorSearchHTML.label3 "หา HTML">
+<!ENTITY inspectorSearchHTML.label3 "ค้นหา HTML">
 <!-- LOCALIZATION NOTE (inspectorImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the URL embedding the image data encoded in Base 64 (what we name
