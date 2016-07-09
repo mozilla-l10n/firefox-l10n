@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "റ്റാഗുകള്‍">
 <!ENTITY bookmarks.folder.toolbar.label "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ഉപകരണപ്പട്ട">
-
+<!ENTITY bookmarks.folder.other.label "മറ്റു് അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY bookmarks.folder.desktop.label "പണിയിടത്തിലുള്ള അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY bookmarks.folder.mobile.label "മൊബൈല്‍ അടയാളക്കുറിപ്പുകള്‍">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing "ബ്രൗസിംഗിലേക്ക് തിരികെ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;-ലേക്കു് സ്വാഗതം">
-
+<!ENTITY fxaccount_getting_started_description2 "നിങ്ങളുടെ ടാബുകള്‍, അടയാളകുറിപ്പുകള്‍, പ്രവേശനങ്ങള്‍ തുടങ്ങിയവ സിന്‍ക് ചെയ്യാനായി പ്രവേശിക്കൂ.">
 <!ENTITY fxaccount_getting_started_get_started "ഉപയോഗിച്ചു് തൂടങ്ങൂ">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label;-ന്റെ പഴയ പതിപ്പു് ഉപയോഗിയ്ക്കുന്നോ?">
 
@@ -86,6 +86,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "&formatS; ഫയര്‍ഫോക്സ് അക്കൗണ്ട് കളഞ്ഞു.">
 
+<!ENTITY fxaccount_enable_debug_mode "ഡീബഗ് മോഡ് സജ്ജമാക്കൂ">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
