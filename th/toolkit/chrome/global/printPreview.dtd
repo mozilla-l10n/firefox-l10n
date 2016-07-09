@@ -30,7 +30,7 @@
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "กำหนดเอง…">
-<!ENTITY ShrinkToFit.label    "ย่อให้พอดีกระดาษ">
+<!ENTITY ShrinkToFit.label    "ย่อให้พอดี">
 <!ENTITY customPrompt.title   "มาตราส่วนที่กำหนดเอง…">
 <!ENTITY simplifyPage.label   "หน้าแบบเรียบง่าย">
 <!ENTITY simplifyPage.enabled.tooltip  "เปลี่ยนเค้าโครงเพื่อการอ่านที่ง่ายขึ้น">

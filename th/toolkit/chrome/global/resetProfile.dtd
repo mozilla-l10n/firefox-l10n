@@ -4,7 +4,7 @@
 
 <!ENTITY refreshProfile.dialog.title         "เรียก &brandShortName; ใหม่">
 <!ENTITY refreshProfile.dialog.description1  "เริ่มใหม่เพื่อแก้ไขปัญหาและเรียกคืนประสิทธิภาพ">
-<!ENTITY refreshProfile.dialog.description2  "นี้จะ:">
+<!ENTITY refreshProfile.dialog.description2  "สิ่งนี้จะ:">
 <!ENTITY refreshProfile.dialog.items.label1  "เอาส่วนเสริมและการปรับแต่งของคุณออก">
 <!ENTITY refreshProfile.dialog.items.label2  "เรียกคืนการตั้งค่าเบราว์เซอร์ปริยายของคุณ">
 <!ENTITY refreshProfile.dialog.button.label  "เรียก &brandShortName; ใหม่">

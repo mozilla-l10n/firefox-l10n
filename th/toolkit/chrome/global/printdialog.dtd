@@ -38,7 +38,7 @@
 <!ENTITY printframeGroup.label "พิมพ์กรอบ">
 <!ENTITY aslaidoutRadio.label "อย่างที่จัดวางบนหน้าจอ">
 <!ENTITY aslaidoutRadio.accesskey "บ">
-<!ENTITY selectedframeRadio.label  "กรอบที่ถูกเลือก">
-<!ENTITY selectedframeRadio.accesskey  "ก">
-<!ENTITY eachframesepRadio.label  "แยกกันแต่ละกรอบ">
-<!ENTITY eachframesepRadio.accesskey  "ย">
+<!ENTITY selectedframeRadio.label  "กรอบที่เลือก">
+<!ENTITY selectedframeRadio.accesskey  "อ">
+<!ENTITY eachframesepRadio.label  "แต่ละกรอบแยกกัน">
+<!ENTITY eachframesepRadio.accesskey  "แ">
