@@ -9,7 +9,7 @@
 <!ENTITY privateBrowsing.title.tracking "Navegación privada con protección contra rastreo">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before "Cuando navega en una ventana privada, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize "no guarda">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.after ":">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after " sus:">
 <!ENTITY aboutPrivateBrowsing.info.visited "páginas visitadas">
 <!ENTITY aboutPrivateBrowsing.info.searches "búsquedas">
 <!ENTITY aboutPrivateBrowsing.info.cookies "cookies">
@@ -19,7 +19,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2 " sus:">
 <!ENTITY aboutPrivateBrowsing.info.downloads "descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks "marcadores">
-<!ENTITY aboutPrivateBrowsing.note.before "La navegación privada">
+<!ENTITY aboutPrivateBrowsing.note.before "La navegación privada ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize "no le hace anónimo">
 <!ENTITY aboutPrivateBrowsing.note.after " en Internet. Su empleador o proveedor de servicios de Internet aún pueden saber qué paginas visita.">
 <!ENTITY aboutPrivateBrowsing.learnMore2 "Más información sobre">
