@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  popups.label                "Αναδυόμενα παράθυρα">
 
 <!ENTITY  blockPopups.label           "Φραγή αναδυόμενων παραθύρων">
 <!ENTITY  blockPopups.accesskey       "Φ">
@@ -9,8 +10,10 @@
 <!ENTITY  notificationsPolicy.label            "Ειδοποιήσεις">
 <!ENTITY  notificationsPolicyLearnMore.label   "Μάθετε περισσότερα">
 <!ENTITY  notificationsPolicyDesc3.label       "Επιλέξτε ποιες ιστοσελίδες μπορούν να σας στέλνουν ειδοποιήσεις">
+<!ENTITY  notificationsPolicyButton.accesskey  "ι">
 <!ENTITY  notificationsPolicyButton.label      "Επιλογή…">
 <!ENTITY  notificationsDoNotDisturb.label      "Μην ενοχλείτε">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "ν">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Δεν θα εμφανίζονται ειδοποιήσεις μέχρι να επανεκκινήσετε τον &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Εξαιρέσεις...">
@@ -35,6 +38,10 @@
 <!ENTITY chooseButton.label           "Επιλογή...">
 <!ENTITY chooseButton.accesskey       "λ">
 
+<!ENTITY translateWebPages.label      "Μετάφραση περιεχομένου του ιστού">
+<!ENTITY translateWebPages.accesskey  "τ">
+<!ENTITY translateExceptions.label    "Εξαιρέσεις…">
+<!ENTITY translateExceptions.accesskey "ξ">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -43,5 +50,11 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
+<!ENTITY translation.options.attribution.beforeLogo "Μεταφράσεις από">
+<!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "Περιεχόμενο με DRM">
 
+<!ENTITY  playDRMContent.label         "Αναπαραγωγή περιεχομένου με DRM">
+<!ENTITY  playDRMContent.accesskey     "Α">
+<!ENTITY  playDRMContent.learnMore.label "Μάθε περισσότερα">
