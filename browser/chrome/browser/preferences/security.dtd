@@ -12,7 +12,8 @@
 -->
 
 
-
+<!ENTITY  blockDownloads.label            "Блокиране на опасни изтегляния">
+<!ENTITY  blockDownloads.accesskey        "d">
 
 
 

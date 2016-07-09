@@ -96,7 +96,7 @@
 <!ENTITY offlineNotify.label             "Предупреждение, когато сайт иска да съхрани информация за работа извън мрежата">
 <!ENTITY offlineNotify.accesskey         "П">
 <!ENTITY offlineNotifyExceptions.label   "Изключения…">
-<!ENTITY offlineNotifyExceptions.accesskey "И">
+<!ENTITY offlineNotifyExceptions.accesskey "з">
 
 <!ENTITY offlineAppsList2.label          "На следните сайтове е позволено да съхраняват информация за работа извън мрежата:">
 <!ENTITY offlineAppsList.height          "7em">
