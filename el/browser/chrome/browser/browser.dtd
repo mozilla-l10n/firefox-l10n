@@ -53,18 +53,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Νέα καρτέλα">
 <!ENTITY tabCmd.accesskey "τ">
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Άνοιγμα τοποθεσίας…">
 <!ENTITY openFileCmd.label "Άνοιγμα αρχείου…">
 <!ENTITY openFileCmd.accesskey "ν">
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας…">
 <!ENTITY printSetupCmd.accesskey "μ">
 <!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
 <!ENTITY printPreviewCmd.accesskey "ρ">
 <!ENTITY printCmd.label "Εκτύπωση…">
 <!ENTITY printCmd.accesskey "κ">
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Εργασία χωρίς σύνδεση">
 <!ENTITY goOfflineCmd.accesskey "χ">
@@ -77,19 +80,31 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY bookmarksToolbarItem.label "Αντικείμενα εργαλειοθήκης σελιδοδεικτών">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Ανανέωση όλων των καρτελών">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ο">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Όλες οι καρτέλες σε σελιδοδείκτη…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "τ">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Αναίρεση κλεισίματος καρτέλας">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ι">
 
 <!ENTITY pageSourceCmd.label "Κώδικας σελίδας">
 <!ENTITY pageSourceCmd.accesskey "δ">
+<!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Πληροφορίες σελίδας">
 <!ENTITY pageInfoCmd.accesskey "λ">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Άνοιγμα ίδιας καρτέλας">
+<!ENTITY mirrorTabCmd.accesskey "γ">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Μετάβαση σε πλήρη οθόνη">
+<!ENTITY enterFullScreenCmd.accesskey "π">
 <!ENTITY exitFullScreenCmd.label "Έξοδος από την πλήρη οθόνη">
+<!ENTITY exitFullScreenCmd.accesskey "π">
 <!ENTITY fullScreenCmd.label "Πλήρης οθόνη">
+<!ENTITY fullScreenCmd.accesskey "Π">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Προβολή όλων των καρτελών">
+<!ENTITY showAllTabsCmd.accesskey "λ">
 
 <!ENTITY fxaSignIn.label "Συνδεθείτε για να χρησιμοποιήσετε το &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Άνοιγμα προτιμήσεων &syncBrand.shortName.label;">
@@ -101,13 +116,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenRestore.tooltip "Επαναφορά">
 <!ENTITY fullScreenClose.tooltip "Κλείσιμο">
 <!ENTITY fullScreenAutohide.label "Απόκρυψη εργαλειοθηκών">
+<!ENTITY fullScreenAutohide.accesskey "ψ">
 <!ENTITY fullScreenExit.label "Έξοδος από πλήρη οθόνη">
+<!ENTITY fullScreenExit.accesskey "π">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "εκτελείται σε πλήρη οθόνη">
 <!ENTITY fullscreenWarning.generic.label "Αυτό το έγγραφο εκτελείται σε πλήρη οθόνη">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -116,35 +134,56 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreen.button "Έξοδος από πλήρη οθόνη (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Έξοδος από πλήρη οθόνη (esc)">
 <!ENTITY leaveDOMFullScreen.label "Έξοδος από την πλήρη οθόνη">
+<!ENTITY leaveDOMFullScreen.accesskey "δ">
 
 <!ENTITY closeWindow.label "Κλείσιμο παραθύρου">
+<!ENTITY closeWindow.accesskey "θ">
 
 <!ENTITY bookmarksMenu.label "Σελιδοδείκτες">
+<!ENTITY bookmarksMenu.accesskey "Σ">
 <!ENTITY bookmarkThisPageCmd.label "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY editThisBookmarkCmd.label "Επεξεργασία αυτού του σελιδοδείκτη">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Βρείτε περισσότερες υπηρεσίες διαμοιρασμού…">
 <!ENTITY sharePageCmd.label "Μοιραστείτε αυτή τη σελίδα">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "μ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Μοιραστείτε αυτόν τον δεσμό">
+<!ENTITY shareLink.accesskey "δ">
 <!ENTITY shareImage.label "Μοιραστείτε αυτή την εικόνα">
+<!ENTITY shareImage.accesskey "ε">
 <!ENTITY shareSelect.label "Μοιραστείτε αυτή την επιλογή">
+<!ENTITY shareSelect.accesskey "π">
 <!ENTITY shareVideo.label "Μοιραστείτε αυτό το βίντεο">
+<!ENTITY shareVideo.accesskey "β">
+<!ENTITY feedsMenu2.label "Συνδρομή σε αυτή τη σελίδα">
 <!ENTITY subscribeToPageMenupopup.label "Συνδρομή σε αυτή τη σελίδα">
 <!ENTITY subscribeToPageMenuitem.label "Συνδρομή σε αυτή τη σελίδα…">
 <!ENTITY addCurPagesCmd.label "Όλες οι καρτέλες σε σελιδοδείκτη…">
 <!ENTITY showAllBookmarks2.label "Προβολή όλων των σελιδοδεικτών">
+<!ENTITY recentBookmarks.label "Πρόσφατοι σελιδοδείκτες">
+<!ENTITY otherBookmarksCmd.label "Άλλοι σελιδοδείκτες">
 <!ENTITY bookmarksToolbarChevron.tooltip "Προβολή περισσότερων σελιδοδεικτών">
+<!ENTITY showRecentlyBookmarked.label     "Εμφάνιση πρόσφατων σελιδοδεικτών">
+<!ENTITY showRecentlyBookmarked.accesskey "φ">
+<!ENTITY hideRecentlyBookmarked.label     "Απόκρυψη πρόσφατων σελιδοδεικτών">
+<!ENTITY hideRecentlyBookmarked.accesskey "Φ">
 
 <!ENTITY backCmd.label                "Πίσω">
 <!ENTITY backButton.tooltip           "Μετάβαση μια σελίδα πίσω">
 <!ENTITY forwardCmd.label             "Μπροστά">
 <!ENTITY forwardButton.tooltip        "Μετάβαση μια σελίδα μπροστά">
+<!ENTITY backForwardButtonMenu.tooltip "Δεξί κλικ ή τράβηγμα προς τα κάτω για προβολή του ιστορικού">
+<!ENTITY backForwardButtonMenuMac.tooltip "Τράβηγμα προς στα κάτω για προβολή ιστορικού">
 <!ENTITY reloadCmd.label              "Ανανέωση">
 <!ENTITY reloadButton.tooltip         "Ανανέωση τρέχουσας σελίδας">
 <!ENTITY stopCmd.label                "Διακοπή">
+<!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Διακοπή φόρτωσης αυτής της σελίδας">
 <!ENTITY goEndCap.tooltip             "Μετάβαση στη διεύθυνση της γραμμής διευθύνσεων">
 <!ENTITY printButton.label            "Εκτύπωση">
@@ -157,9 +196,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.label         "Δείτε μία ειδοποίηση">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "Δείτε το αίτημα διαμοιρασμού τοποθεσίας">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "Δείτε το μήνυμα εγκατάστασης του πρόσθετου">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Προβολή του μηνύματος για τον εκτός σύνδεσης αποθηκευτικό χώρο της εφαρμογής">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Διαχειριστείτε τα στοιχεία σύνδεσής σας">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Επιλέξτε εάν θέλετε να αποθηκεύσετε τον κωδικό πρόσβασής σας">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Διαχείριση χρήσης του πρόσθετου στη συγκεκριμένη σελίδα">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Επιλέξτε αν επιθυμείτε να λαμβάνετε ειδοποιήσεις από τον ιστότοπο">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Διαχείριση διαμοιρασμού της κάμερας ή/και του μικροφώνου σας με τη συγκεκριμένη σελίδα">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Μοιράζεστε την κάμερα ή/και το μικρόφωνο σας με τη συγκεκριμένη σελίδα">
@@ -168,6 +209,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Διαχείριση διαμοιρασμού του παραθύρου ή της οθόνης σας με τη συγκεκριμένη σελίδα">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Μοιράζεστε το παράθυρο ή την οθόνη σας με τη συγκεκριμένη σελίδα">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Επιλέξτε αν επιθυμείτε να επιτρέπετε στον ιστότοπο να κρύβει τον δείκτη">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Προβολή του μηνύματος εγκατάστασης της υπηρεσίας">
 <!ENTITY urlbar.translateNotificationAnchor.label       "Μετέφρασε αυτή τη σελίδα">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Διαχείριση μετάφρασης της σελίδας">
 <!ENTITY urlbar.emeNotificationAnchor.label             "Διαχείριση της χρήσης του λογισμικού DRM">
@@ -180,8 +223,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "Αρχική σελίδα">
 
 <!ENTITY bookmarksButton.label          "Σελιδοδείκτες">
+<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Σελιδοδείκτες">
+<!ENTITY bookmarksMenuButton.other.label "Άλλοι σελιδοδείκτες">
 <!ENTITY viewBookmarksSidebar2.label        "Προβολή πλευρικής στήλης σελιδοδεικτών">
 <!ENTITY viewBookmarksToolbar.label         "Προβολή εργαλειοθήκης σελιδοδεικτών">
 
@@ -189,8 +234,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Ιστορικό">
+<!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Εργαλεία">
  
@@ -198,13 +246,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Προσθέστε μια λέξη-κλειδί για αυτή την αναζήτηση…">
 
 <!ENTITY downloads.label              "Λήψεις">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Πρόσθετα">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Εργαλεία Προγραμματιστή">
 
 <!ENTITY inspectContextMenu.label     "Έλεγχος αντικειμένου">
 
- 
+<!ENTITY fileMenu.label         "Αρχείο"> 
 <!ENTITY newNavigatorCmd.label        "Νέο παράθυρο">
 <!ENTITY newPrivateWindow.label     "Νέο παράθυρο ιδιωτικής περιήγησης">
 
@@ -237,6 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Εκκαθάριση πρόσφατου ιστορικού…">
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Προβολή"> 
  
@@ -252,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Επαναφορά προηγούμενης συνεδρίας">
 
 <!ENTITY showAllHistoryCmd2.label "Προβολή όλου του ιστορικού">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Προσαρμογή">
 <!ENTITY appMenuCustomize.tooltip "Προσαρμογή του μενού και των εργαλειοθηκών">
@@ -285,6 +338,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.label "Απομάκρυνση από το μενού">
 <!ENTITY customizeMenu.addMoreItems.label "Προσθήκη περισσότερων αντικειμένων…">
 
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Αναζητήστε ή εισάγετε μια διεύθυνση">
 <!ENTITY urlbar.switchToTab.label     "Μετάβαση σε καρτέλα:">
 
@@ -313,6 +367,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
 
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
@@ -354,6 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.label      "Άνοιγμα πλαισίου σε νέα καρτέλα">
 <!ENTITY openFrameCmd.label           "Άνοιγμα πλαισίου σε νέο παράθυρο">
 <!ENTITY showOnlyThisFrameCmd.label     "Προβολή μόνο αυτού του πλαισίου">
+<!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Ανανέωση πλαισίου">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Προβολή πηγαίου κώδικα επιλογής">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Προβολή πηγαίου κώδικα MathML">
@@ -376,6 +434,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Αποστολή δεσμού…">
 <!ENTITY savePageCmd.label            "Αποθήκευση σελίδας ως…">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Αποθήκευση πλαισίου ως…">
 <!ENTITY printFrameCmd.label          "Εκτύπωση πλαισίου…">
 <!ENTITY saveLinkCmd.label            "Αποθήκευση δεσμού ως…">
@@ -431,11 +490,17 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.label       "Μεγέθυνση">
- <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Σμίκρυνση">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Επαναφορά">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoom.label                 "Μεγέθυνση">
 
@@ -443,6 +508,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Έξοδος">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Έξοδος από τον &brandShorterName;">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Έξοδος"> 
 <!ENTITY quitApplicationCmdMac2.label   "Έξοδος από τον &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
@@ -459,9 +526,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Αλλαγή κατεύθυνσης σελίδας">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Αλλαγή κατεύθυνσης κειμένου">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Εύρεση σε αυτή τη σελίδα…">
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Εύρεση ξανά">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Προσθήκη λεξικών…">
 
@@ -543,6 +615,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage "Διαχείριση">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Λήψη περισσότερων θεμάτων">
 
+<!ENTITY social.chatBar.commandkey "c">
 
 <!ENTITY social.markpageMenu.label "Αποθήκευση σελίδας στο…">
 <!ENTITY social.marklinkMenu.label "Αποθήκευση δεσμού στο…">
