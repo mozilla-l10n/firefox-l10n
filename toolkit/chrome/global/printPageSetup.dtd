@@ -20,15 +20,15 @@
 <!ENTITY scale.accesskey     "ม">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "หดให้พอดีกับความกว้างหน้ากระดาษ">
-<!ENTITY shrinkToFit.accesskey "ห">
+<!ENTITY shrinkToFit.label   "ย่อให้พอดีความกว้างหน้า">
+<!ENTITY shrinkToFit.accesskey "ค">
 
 <!ENTITY optionsGroup.label  "ตัวเลือก">
 
 <!ENTITY printBG.label       "พิมพ์พื้นหลัง (สีและรูปภาพ)">
 <!ENTITY printBG.accesskey   "พ">
 
-<!ENTITY advanced.tab        "ขอบกระดาษและส่วนหัว/ท้าย">
+<!ENTITY advanced.tab        "ขอบกระดาษและส่วนหัว/ส่วนท้าย">
 
 <!ENTITY marginGroup.label   "ขอบกระดาษ (#1)">
 <!ENTITY marginUnits.inches  "นิ้ว">
@@ -54,7 +54,7 @@
 <!ENTITY footerCenter.tip    "ส่วนท้ายตรงกลาง">
 <!ENTITY footerRight.tip     "ส่วนท้ายด้านขวา">
 
-<!ENTITY hfTitle             "หัวเรื่อง">
+<!ENTITY hfTitle             "หัวข้อ">
 <!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "วันที่/เวลา">
 <!ENTITY hfPage              "หน้า #">
@@ -63,4 +63,4 @@
 <!ENTITY hfCustom            "กำหนดเอง…">
 
 <!ENTITY customPrompt.title  "กำหนดเอง…">
-<!ENTITY customPrompt.prompt "ป้อนข้อความส่วนหัวและส่วนท้ายตามกำหนดเอง">
+<!ENTITY customPrompt.prompt "ป้อนข้อความส่วนหัว/ส่วนท้ายที่กำหนดเองของคุณ">

@@ -9,8 +9,8 @@
 <!ENTITY paperInput.label "ขนาดกระดาษ:">
 <!ENTITY paperInput.accesskey "ก">
 
-<!ENTITY jobTitleInput.label "ชื่องานพิมพ์ :">
-<!ENTITY jobTitleInput.accesskey "ช">
+<!ENTITY jobTitleInput.label "หัวข้องาน:">
+<!ENTITY jobTitleInput.accesskey "ห">
 
 <!ENTITY colorGroup.label "สี:">
 <!ENTITY grayRadio.label "ระดับเทา">
@@ -19,11 +19,11 @@
 <!ENTITY colorRadio.accesskey "ส">
 
 <!ENTITY edgeMarginInput.label "ระยะจากขอบกระดาษถึงขอบพิมพ์">
-<!ENTITY topInput.label "หัว :">
+<!ENTITY topInput.label "หัว:">
 <!ENTITY topInput.accesskey "ห">
-<!ENTITY bottomInput.label "ท้าย :">
+<!ENTITY bottomInput.label "ท้าย:">
 <!ENTITY bottomInput.accesskey "ท">
-<!ENTITY leftInput.label "ซ้าย :">
-<!ENTITY leftInput.accesskey "ย">
-<!ENTITY rightInput.label "ขวา :">
+<!ENTITY leftInput.label "ซ้าย:">
+<!ENTITY leftInput.accesskey "ซ">
+<!ENTITY rightInput.label "ขวา:">
 <!ENTITY rightInput.accesskey "ข">

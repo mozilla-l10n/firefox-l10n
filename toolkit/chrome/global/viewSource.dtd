@@ -10,7 +10,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "ซอร์สโค้ดของ: ">
+<!ENTITY mainWindow.preface "ต้นฉบับของ: ">
 
 <!ENTITY fileMenu.label "ไฟล์">
 <!ENTITY fileMenu.accesskey "ฟ">
