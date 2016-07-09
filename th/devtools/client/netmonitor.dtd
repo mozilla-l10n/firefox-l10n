@@ -121,7 +121,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
   -  in the network details footer for the url filtering textbox. -->
 
-<!ENTITY netmonitorUI.footer.filterFreetext.label  "ตัวกรอง URL">
+<!ENTITY netmonitorUI.footer.filterFreetext.label  "กรอง URL">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
