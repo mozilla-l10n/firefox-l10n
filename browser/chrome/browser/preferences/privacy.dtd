@@ -35,8 +35,8 @@
 <!ENTITY  locbar.history.accesskey      "E">
 <!ENTITY  locbar.bookmarks.label        "Könyvjelzők">
 <!ENTITY  locbar.bookmarks.accesskey    "K">
-<!ENTITY  locbar.openpage.label         "Lapok megnyitása">
-<!ENTITY  locbar.openpage.accesskey     "L">
+<!ENTITY  locbar.openpage.label         "Nyitott lapok">
+<!ENTITY  locbar.openpage.accesskey     "N">
 <!ENTITY  locbar.searches.label         "Kapcsolódó keresések az alapértelmezett keresőszolgáltatásból">
 <!ENTITY  locbar.searches.accesskey     "c">
 
