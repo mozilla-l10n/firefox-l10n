@@ -348,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Искате ли да видите свои подпрозорци от други устройства тук?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки на Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Впишете се, за да видите списък с подпрозорци от други ваши устройства.">
-<!ENTITY appMenuRemoteTabs.signin.label "Впишете се в Sync">
+<!ENTITY appMenuRemoteTabs.signin.label "Вписване в Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Преглед на странична лента със синхронизирани подпрозорци">
 
 <!ENTITY customizeMenu.addToToolbar.label "Добавяне към лентата с инструменти">

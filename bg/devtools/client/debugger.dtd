@@ -170,7 +170,7 @@
   -  appears in the source editor context menu for editing a breakpoint. -->
 
 <!ENTITY debuggerUI.seEditMenuCondBreak     "Редактиране на условна точка на прекъсване">
-
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
