@@ -26,6 +26,7 @@
 <!ENTITY bgColor.accesskey                    "a">
 <!ENTITY restoreHTMLDefaults.label            "Palauta oletukset">
 <!ENTITY restoreHTMLDefaults.accesskey        "P">
+<!ENTITY defaultToParagraph.label             "Käytä oletuksena kappalemuotoilua leipätekstin sijaan">
 <!ENTITY defaultToParagraph.accesskey         "p">
 
 <!ENTITY spellCheck.label                     "Oikolue viestit ennen lähettämistä">
