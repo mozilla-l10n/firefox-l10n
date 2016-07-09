@@ -343,7 +343,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferințe de sincronizare">
 
-
+<!ENTITY appMenuRemoteTabs.signin.label "Autentifică-te la Sincronizare">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vezi bara laterală cu file sincronizate">
 
 <!ENTITY customizeMenu.addToToolbar.label "Adaugă la bara de unelte">
