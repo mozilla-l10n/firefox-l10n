@@ -33,6 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'ట్యాగులు'>
 <!ENTITY bookmarks.folder.toolbar.label 'ఇష్టాంశముల సాధనపట్టీ'>
+<!ENTITY bookmarks.folder.other.label 'ఇతర బుక్మార్కులు'>
 <!ENTITY bookmarks.folder.desktop.label 'డెస్కుటాప్ ఇష్టాంశములు'>
 <!ENTITY bookmarks.folder.mobile.label 'మొబైల్ యిష్టాంశములు'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -46,10 +47,12 @@
 <!ENTITY fxaccount_back_to_browsing 'తిరిగి విహరణకు'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync '&syncBrand.shortName.label;కి స్వాగతం'>
+<!ENTITY fxaccount_getting_started_description2 'మీ ట్యాబులను, ఇష్టాంశాలను, సంకేతపదాలను, ఇంకా మరెన్నింటినో సింక్ చేసుకోడానికి ప్రవేశించండి.'>
 <!ENTITY fxaccount_getting_started_get_started 'మొదలు పెట్టండి'>
 <!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label; పాత వర్షన్ ఉపయోగిస్తున్నారా?'>
 
 <!ENTITY fxaccount_status_signed_in_as 'ఇలా ప్రవేశించారు'>
+<!ENTITY fxaccount_status_manage_account 'ఖాతా నిర్వహించు'>
 <!ENTITY fxaccount_status_auth_server 'ఖాతా సేవకి'>
 <!ENTITY fxaccount_status_sync_now 'ఇప్పుడే సింక్ చేయి'>
 <!ENTITY fxaccount_status_syncing2 'సింకవుతోంది…'>
@@ -72,7 +75,10 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos2 'సేవా నిబంధనలు'>
+<!ENTITY fxaccount_status_linkprivacy2 'ప్రైవసీ విధానం'>
 <!ENTITY fxaccount_status_more 'మరిన్ని&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'డిస్కనెక్ట్&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'ఫైర్‌ఫాక్స్ ఖాతాను తొలగించాలా?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; మీ ఖాతాతో సింక్ అవ్వడాన్ని ఆపుతుంది, కానీ ఈ పరికరంపైని మీ విహారణ డేటాను తొలగించదు.'>
@@ -80,6 +86,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'ఫైర్‌ఫాక్స్ ఖాతా &formatS; తొలగించబడింది.'>
 
+<!ENTITY fxaccount_enable_debug_mode 'డీబగ్ రీతి ప్రారంభించు'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->

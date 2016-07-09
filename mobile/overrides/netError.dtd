@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "పేజీని లోడుచేయడంలో సమస్య">
 <!ENTITY retry.label "మళ్ళీ ప్రయత్నించు">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "సంధానం సాధ్యం కావడంలేదు">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -23,11 +23,11 @@
 <!ENTITY fileNotFound.title "ఫైల్  కనబడ లేదు">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ఫైల్  యొక్క కేపిటలైజేషన్ లేదా ఇతర టైపింగ్ తప్పును పరిశీలించండి.</li> <li>ఒకవేళ ఫైల్  కదల్చబడిందో,పునఃనామకరణ చేయబడిందో లేక తొలిగించబడిందో  పరిశీలించి చూడండి.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "ఫైలు యొక్క ఆక్సెస్ తిరస్కరించబడింది">
 
 <!ENTITY generic.title "Oops.">
 
-
+<!ENTITY malformedURI.title "ఈ చిరునామా సరైనది కాదు">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -35,7 +35,6 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "పత్రం కాలంచెల్లింది">
-
 
 <!ENTITY netOffline.title "ఆఫ్‌లైన్ రీతి">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -54,6 +53,7 @@
 <!ENTITY netTimeout.title "అనుసంధానం సమయం అయిపోయింది.">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "ఆ చిరునామా అర్థం కాలేదు">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>ఈచిరునామాను తెరువుటకు మీరు వేరే సాఫ్టువేరు సంస్థాపించవలిసిన అవసరం వుండవచ్చు.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "ఆప్రోక్సీ సేవిక అనుసంధానాలను తిరస్కరిస్తోంది.">
@@ -86,11 +86,11 @@
 <!ENTITY securityOverride.linkText "లేదా మీరు ఒక ఆక్షేపణను జతచేయగలరు…">
 <!ENTITY securityOverride.getMeOutOfHereButton "నన్ను ఇక్కడినుండి బయటపెట్టు!">
 <!ENTITY securityOverride.exceptionButtonLabel "ఆక్షేపనను జతచేయుము…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>మీరు పూర్తిగా నమ్మని అంతర్జాలము  అనుసంధానంను ఉపయోగిస్తున్నా లేదా ఈ సేవికగురించి హెచ్చరికను చూడకపోయినా మీరు ఆక్షేపనను జతచేయకూడదు.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 

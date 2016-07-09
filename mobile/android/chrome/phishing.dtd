@@ -4,20 +4,24 @@
 
 <!ENTITY safeb.palm.accept.label "ఇక్కడినుండి నన్ను బయటపడవేయి!">
 <!ENTITY safeb.palm.decline.label "ఈ హెచ్చరికను పట్టించుకోకండి">
-
-
+<!ENTITY safeb.palm.reportPage.label "ఎందుకు ఈ పేజీ నిరోధించబడింది?">
+<!ENTITY safeb.palm.whyForbidden.label "ఎందుకు ఈ పేజీ నిరోధించబడింది?">
 
 <!ENTITY safeb.blocked.malwarePage.title "మోసపూరిత సైటుగా నివేదించబడింది!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> వద్ద ఉన్న వెబ్‌సైటు మోసపూరితమైనదిగా నివేదించబడింది అందువల్ల మీ బధ్రత అభీష్టాల ఆధారంగా నిరోధించబడింది.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>దాడి సైటులు మీవ్యక్తిగత సమాచారాన్ని దొంగిలించు ప్రోగ్రామ్‌లను సంస్థాపించుటకు ప్రయత్నిస్తాయి, మీకంప్యూటర్ ఇతరులను దాడిచేయుటకు వుపయోగిస్తాయి, లేదా మీసిస్టమ్‌ను పాడుచేస్తాయి.</p><p>కొన్ని దాడిసైటులు కావాలని హానికారక సాఫ్ట్‌వేరును పంపిణిచేస్తాయి,కాని చాలావరకు వాటియజమానుల అనుమతిగాని లేదా సంబంధంగాని లేకుండానే రాజీకి వస్తాయి.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "మోసపూరిత సైట్!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "<span id='malware_sitename'/> వద్ద ఉన్న వెబ్‌సైటు మోసపూరితమైనదిగా నివేదించబడింది అందువల్ల మీ బధ్రత అభీష్టాల ఆధారంగా నిరోధించబడింది.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>మోసపూరిత సైట్లు పాస్వర్డ్లు, ఫోన్ నంబర్లు లేదా క్రెడిట్ కార్డుల వలే సాఫ్ట్వేర్ ఇన్స్టాల్, లేదా మీ వ్యక్తిగత సమాచారాన్ని బహిర్గతం చేయడం వంటి ప్రమాదకరమైన పనులు చేయమని మోసపూరిత రూపొందించబడ్డాయి.</p><p>ఈ వెబ్ పేజీలో ఏ సమాచారాన్ని ఎంటర్ దారితీయవచ్చు గుర్తింపు అపహరణ లేదా ఇతర మోసం.</p>">
 
-
+<!ENTITY safeb.blocked.unwantedPage.title "అవసరంలేని సాఫ్ట్‌వేర్ సైట్ నివేదించెను!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> వద్ద ఉన్న వెబ్‌సైటు మోసపూరితమైనదిగా నివేదించబడింది అందువల్ల మీ బధ్రత అభీష్టాల మేరకు నిరోధించబడింది.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "అవాంఛిత సాఫ్ట్‌వేర్ పేజీలు మోసపూరితమైన సాఫ్ట్‌వేర్‌ను సంస్థాపించుటకు ప్రయత్నించును మరియు ఊహించనిరీతిలో మీ సిస్టమ్‌పై ప్రభావంచూపును.">
 
-
+<!ENTITY safeb.blocked.forbiddenPage.title2 "నిరోధిత సైట్">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "ద వెబ్ పేజీ <span id='forbidden_sitename'/> వద్ మీ నిర్వాహక ప్రొఫైల్ ద్వారా నిరోధించబడింది.">

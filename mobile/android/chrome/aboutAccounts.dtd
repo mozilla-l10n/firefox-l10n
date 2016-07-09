@@ -4,6 +4,10 @@
 
 <!ENTITY aboutAccounts.connected.title "ఫైర్‌ఫాక్స్ ఖాతాలు">
 <!ENTITY aboutAccounts.connected.description "మీరు ఇలా కనెస్ట్ చేయబడ్డారు">
+<!ENTITY aboutAccounts.syncPreferences.label "సింక్ సెట్టింగులు తనిఖీ చేయడానికి ఇక్కడ నొక్కండి">
 
+<!ENTITY aboutAccounts.noConnection.title "ఇంటర్నెట్ కనెక్షన్ లేదు">
 <!ENTITY aboutAccounts.retry.label "మళ్ళీ ప్రయత్నించండి">
 
+<!ENTITY aboutAccounts.restrictedError.title "నియంత్రించబడింది">
+<!ENTITY aboutAccounts.restrictedError.description "మీరు ఈ ప్రొఫైల్ నుంచి మీ ఫైర్ఫాక్సు ఖాతాలను నిర్వహించలేము.">
