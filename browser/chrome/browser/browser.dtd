@@ -256,15 +256,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Έλεγχος αντικειμένου">
 
 <!ENTITY fileMenu.label         "Αρχείο"> 
+<!ENTITY newUserContext.label             "Νέα καρτέλα σε περιβάλλον">
 <!ENTITY newNavigatorCmd.label        "Νέο παράθυρο">
 <!ENTITY newPrivateWindow.label     "Νέο παράθυρο ιδιωτικής περιήγησης">
+<!ENTITY newNonRemoteWindow.label   "Νέο Παράθυρο χωρίς την λειτουργία ηλεκτρόλυσης">
 
 <!ENTITY editMenu.label         "Επεξεργασία"> 
  
 <!ENTITY undoCmd.label            "Αναίρεση">  
   
  
-  
+<!ENTITY redoCmd.label            "Ακύρωση αναίρεσης">  
   
  
 <!ENTITY cutCmd.label           "Αποκοπή">  
@@ -317,13 +319,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Προβολή πλευρικής στήλης ιστορικού">
 <!ENTITY appMenuHelp.tooltip "Άνοιγμα βοήθειας">
 
+<!ENTITY appMenuRemoteTabs.label "Συγχρονισμένες καρτέλες">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Δεν υπάρχουν ανοικτές καρτέλες">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ενεργοποιήστε τον συγχρονισμό καρτελών για να δείτε μια λίστα από καρτέλες από τις άλλες σας συσκευές.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "Καμία συγχρονισμένη καρτέλα… ακόμη!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Θέλετε να δείτε τις καρτέλες από τις άλλες σας συσκευές εδώ;">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Προτιμήσεις Συγχρονισμού">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Συνδεθείτε για να δείτε μία λίστα καρτελών από τις άλλες συσκευές σας.">
+<!ENTITY appMenuRemoteTabs.signin.label "Συνδεθείτε στο Συγχρονισμό">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Δείτε την πλευρική στήλη του Συγχρονισμού">
 
 <!ENTITY customizeMenu.addToToolbar.label "Προσθήκη στην εργαλειοθήκη">
 <!ENTITY customizeMenu.addToPanel.label "Προσθήκη στο μενού">
@@ -410,6 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInCurrent.label     "Άνοιγμα δεσμού">
 <!ENTITY openFrameCmdInTab.label      "Άνοιγμα πλαισίου σε νέα καρτέλα">
 <!ENTITY openFrameCmd.label           "Άνοιγμα πλαισίου σε νέο παράθυρο">
+<!ENTITY openLinkCmdInContainerTab.label "Άνοιγμα δεσμού σε νέα καρτέλα σε περιβάλλον">
 <!ENTITY showOnlyThisFrameCmd.label     "Προβολή μόνο αυτού του πλαισίου">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Ανανέωση πλαισίου">
@@ -467,9 +479,16 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Σίγαση">
 <!ENTITY mediaUnmute.label           "Άρση σίγασης">
+<!ENTITY mediaPlaybackRate2.label     "Ταχύτητα αναπαραγωγής">
+<!ENTITY mediaPlaybackRate050x2.label "Αργή (0.5×)">
+<!ENTITY mediaPlaybackRate100x2.label "Κανονική">
+<!ENTITY mediaPlaybackRate125x2.label "Γρήγορη (1.25×)">
+<!ENTITY mediaPlaybackRate150x2.label "Πιο γρήγορη (1.5×)">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Πολύ υψηλή (2×)">
+<!ENTITY mediaLoop.label             "Επανάληψη">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -502,6 +521,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
+<!ENTITY fullZoomToggleCmd.label        "Μεγέθυνση μόνο του κειμένου">
 <!ENTITY fullZoom.label                 "Μεγέθυνση">
 
 <!ENTITY sidebarCloseButton.tooltip     "Κλείσιμο πλευρικής στήλης">
@@ -518,11 +538,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
   
 
 
+<!ENTITY pageStyleMenu.label "Μορφοποίηση σελίδας">
+<!ENTITY pageStyleNoStyle.label "Χωρίς μορφοποίηση">
+<!ENTITY pageStylePersistentOnly.label "Βασική μορφοποίηση σελίδας">
 
+<!ENTITY pageReportIcon.tooltip            "Αλλαγή ρυθμίσεων φραγής αναδυόμενων παραθύρων για αυτή την ιστοσελίδα">
 
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Επεξεργασία προτιμήσεων φραγής αναδυόμενων παραθύρων…">
+<!ENTITY editPopupSettings.label "Επεξεργασία επιλογών φραγής αναδυόμενων παραθύρων…">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Αλλαγή κατεύθυνσης σελίδας">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Αλλαγή κατεύθυνσης κειμένου">
@@ -542,7 +568,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Ασφαλής σύνδεση">
 <!ENTITY identity.connectionNotSecure "Η σύνδεση δεν είναι ασφαλής">
 <!ENTITY identity.connectionFile "Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.">
+<!ENTITY identity.connectionVerified2 "Έχετε συνδεθεί με ασφαλή τρόπο στον ιστότοπο, που είναι ιδιοκτησία του:">
 <!ENTITY identity.connectionInternal "Αυτή είναι μια ασφαλής σελίδα του &brandShortName;.">
+<!ENTITY identity.insecureLoginForms2 "Τα στοιχεία σύνδεσης που πληκτρολογήσατε σε αυτή την σελίδα μπορεί να διαρεύσουν.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Ο &brandShortName; έχει εμποδίσει τμήματα αυτής της σελίδας που δεν είναι ασφαλή.">
@@ -566,6 +594,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.label "Απενεργοποίηση προστασίας για την ώρα">
 <!ENTITY identity.learnMore "Μάθετε περισσότερα">
 
+<!ENTITY identity.removeCertException.label "Αφαίρεση Εξαίρεσης">
 
 <!ENTITY identity.moreInfoLinkText2 "Περισσότερες πληροφορίες">
 
@@ -577,7 +606,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Καρτέλες περιηγητή">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu3.label     "Συγχρονισμένες καρτέλλες">
 
+<!ENTITY syncedTabs.sidebar.label              "Συγχρονισμένες καρτέλλες">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 

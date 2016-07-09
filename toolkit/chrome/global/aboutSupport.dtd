@@ -49,6 +49,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 
 
+
 <!ENTITY aboutSupport.showDir.label "Άνοιγμα καταλόγου">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -70,6 +71,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Γραφικά">
 
 
+
 <!ENTITY aboutSupport.a11yTitle "Προσιτότητα">
 <!ENTITY aboutSupport.a11yActivated "Ενεργοποιήθηκε">
 <!ENTITY aboutSupport.a11yForceDisabled "Να μην επιτρέπεται η προσιτότητα">
@@ -82,4 +84,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Αντιγραφή κειμένου στο πρόχειρο">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Αντιγραφή δεδομένων raw στο πρόχειρο">
 
+
+<!ENTITY aboutSupport.restartInSafeMode.label "Επανεκκίνηση με τα πρόσθετα απενεργοποιημένα…">
 
