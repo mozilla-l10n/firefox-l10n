@@ -36,6 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Друго:">
 <!ENTITY archiveInOtherFolder.accesskey "г">
 <!ENTITY specialFolders.label "Нацрти и шаблони">
+<!ENTITY keepDrafts2.label "Чувај нацрте порука у:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Фасцикла &quot;Нацрти&quot; на:">
 <!ENTITY draftsFolderOn.accesskey "Н">

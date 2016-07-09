@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "Б">
 <!ENTITY restoreHTMLDefaults.label            "Врати подразумевано">
 <!ENTITY restoreHTMLDefaults.accesskey        "д">
+<!ENTITY defaultToParagraph.label             "Подразумевано користи пасусе уместо текста тела поруке">
+<!ENTITY defaultToParagraph.accesskey         "П">
 
 <!ENTITY spellCheck.label                     "Провери правопис пре слања">
 <!ENTITY spellCheck.accesskey                 "в">
