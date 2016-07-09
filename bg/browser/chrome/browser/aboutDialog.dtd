@@ -22,7 +22,7 @@
 <!ENTITY warningDesc.telemetryDesc  "С цел подобряване на &brandShortName; автоматично се изпраща информация за производителност, хардуер, използване и настройки към &vendorShortName;.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "">
+<!ENTITY community.exp.start        "Тестването на работните издания на Mozilla помага за качеството на любимия ви софтуер.">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " е ">
@@ -71,7 +71,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Обновяването е неуспешно.">
+<!ENTITY update.failed.start        "Обновяването е неуспешно. ">
 <!ENTITY update.failed.linkText     "Изтеглете последната версия">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
