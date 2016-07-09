@@ -39,6 +39,10 @@
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Όνομα συσκευής:">
 <!ENTITY syncDeviceName.accesskey   "υ">
+<!ENTITY fxaSyncDeviceName.label       "Όνομα συσκευής">
+<!ENTITY changeSyncDeviceName.label "Μετονομασία συσκευής…">
+<!ENTITY cancelChangeSyncDeviceName.label "Ακύρωση">
+<!ENTITY saveChangeSyncDeviceName.label "Αποθήκευση">
 <!ENTITY unlinkDevice.label           "Αποσύνδεση αυτής της συσκευής">
 
 <!-- Footer stuff -->
@@ -46,25 +50,40 @@
 <!ENTITY prefs.ppLink.label         "Πολιτική απορρήτου">
 
 <!-- Firefox Accounts stuff -->
+<!ENTITY fxaPrivacyNotice.link.label "Πολιτική Απορρήτου">
+<!ENTITY determiningAcctStatus.label     "Καθορισμός της κατάστασης του λογαριασμού σας…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "Μη επαληθευμένος.">
 
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+<!ENTITY signedInLoginFailure.beforename.label "Παρακαλούμε συνδεθείτε ξανά για επανασύνδεση">
+<!ENTITY signedInLoginFailure.aftername.label "">
 
+<!ENTITY notSignedIn.label           "Δεν έχετε συνδεθεί.">
+<!ENTITY signIn.label                "Σύνδεση">
 <!ENTITY profilePicture.tooltip      "Αλλαγή εικόνας προφίλ">
 <!ENTITY verifiedManage.label        "Διαχείριση λογαριασμού">
+<!ENTITY disconnect.label            "Αποσύνδεση…">
+<!ENTITY verify.label                "Επαλήθευση διεύθυνσης">
+<!ENTITY forget.label                "Διαγραφή διεύθυνσης">
 
+<!ENTITY welcome.description "Πρόσβαση στις καρτέλες σας, στου σελιδοδείκτες, στους κωδικούς πρόσβασης και σε  άλλα όποτε χρησιμοποιείτε το &brandShortName;.">
+<!ENTITY welcome.signIn.label "Σύνδεση">
+<!ENTITY welcome.createAccount.label "Δημιουργία λογαριασμού">
 
+<!ENTITY welcome.useOldSync.label "Χρήση παλιότερης έκδοσης του Συγχρονισμού;">
 
-<!ENTITY signedOut.caption            "Πάρτε το διαδίκτυό σας μαζί σας">
+<!ENTITY signedOut.caption            "Έχετε την διαδρομή σας στο Διαδίκτυο μαζί σας">
 <!ENTITY signedOut.description        "Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς, τα πρόσθετα και τις προτιμήσεις σας σε όλες τις συσκευές σας.">
 <!ENTITY signedOut.accountBox.title   "Συνδεθείτε με έναν &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Δημιουργία λογαριασμού">
@@ -72,13 +91,18 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedIn.engines.label       "Συγχρονίστε όλες τις συσκευές σας">
 
-<!-- LOCALIZATION NOTE (mobilePromo2.*): the following strings will be used to
+<!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
-     The resulting sentence in English is: "Sync to your mobile device.
-     Download Firefox for Android or Firefox for iOS." -->
+     The resulting sentence in English is: "Download Firefox for
+     Android or iOS to sync with your mobile device." -->
 
-<!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo3.start            "Κάντε λήψη του Firefox για ">
+<!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo3.androidLink      "Android">
 
-<!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
-<!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
+<!ENTITY mobilePromo3.iOSBefore         " ή ">
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo3.iOSLink          "iOS">
 
+<!ENTITY mobilePromo3.end              " για να συγχρονίσετε την φορητή συσκευή σας.">
