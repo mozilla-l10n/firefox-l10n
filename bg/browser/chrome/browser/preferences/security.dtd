@@ -11,14 +11,17 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Блокиране на опасно и измамно съдържание">
+<!ENTITY  enableSafeBrowsing.accesskey    "Б">
 
 <!ENTITY  blockDownloads.label            "Блокиране на опасни изтегляния">
-<!ENTITY  blockDownloads.accesskey        "d">
+<!ENTITY  blockDownloads.accesskey        "т">
 
-
+<!ENTITY  blockUncommonUnwanted.label     "Предупреждение при нежелан или рядко срещан софтуер">
+<!ENTITY  blockUncommonUnwanted.accesskey "н">
 
 <!ENTITY  addonExceptions.label         "Изключения…">
-<!ENTITY  addonExceptions.accesskey     "з">
+<!ENTITY  addonExceptions.accesskey     "И">
 
 
 <!ENTITY  logins.label                  "Регистрации">
