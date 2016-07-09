@@ -80,7 +80,7 @@ da ima &brandShortName; pravico dostopati do spleta.</li>
 
 <!ENTITY unknownProtocolFound.title "Naslova ni bilo mogoče razumeti">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Morda boste morali namestiti kak drug program, da odprete ta naslov</li> 
+<li>Za odpiranje tega naslova boste morda morali namestiti dodaten program.</li> 
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "Posrednik zavrača povezave">
@@ -91,11 +91,12 @@ deluje.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Posrednika ni mogoče najti">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Preverite nastavitve posrednika, da so brez napak.</li> 
-<li>Preverite, ali je vaš računalnik dejavno povezan z omrežjem.</li> 
-<li>Če se vaš računalnik ali omrežje nahaja za požarnim zidom ali uporablja posrednika, se prepričajte, 
-da ima &brandShortName; pravico dostopati do omrežja.</li> 
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Preverite nastavitve posrednika in se prepričajte, da so pravilne.</li>
+  <li>Preverite, ali ima vaš računalnik delujočo omrežno povezavo.</li>
+  <li>Če uporabljate posrednika ali požarni zid, se prepričajte, 
+    da ima &brandShortName; dovoljenja za dostop do spleta.</li>
 </ul>">
 
 <!ENTITY redirectLoop.title "Stran se ne preusmerja pravilno">
@@ -105,9 +106,9 @@ piškotkov.</li>
 </ul>">
 
 <!ENTITY unknownSocketType.title "Nepričakovan odgovor strežnika">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Preverite, ali ima vaš sistem Upravitelja za osebno varnost 
-nameščenega.</li> 
+<!ENTITY unknownSocketType.longDesc "
+<ul> 
+<li>Preverite, ali je na vašem sistemu nameščen upravitelj osebne varnosti.</li> 
 <li>To je lahko posledica nestandardnih nastavitev na strežniku.</li> 
 </ul>">
 
