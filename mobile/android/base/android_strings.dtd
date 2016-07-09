@@ -10,6 +10,7 @@
 <!ENTITY firstrun_data_message "తక్కువ డేటా, మరింత పొదుపు">
 <!ENTITY firstrun_sync_title "సింక్">
 <!ENTITY firstrun_sync_message "&brandShortName;, ఎల్లప్పుడూ మీ పక్షమే">
+<!ENTITY firstrun_signin_message "కనెక్ట్ చేసుకోగా, ప్రారంభించడానికి">
 <!ENTITY firstrun_signin_button "సింక్ లోనికి ప్రవేశించండి">
 <!ENTITY  onboard_start_button_browser "విహరణ మొదలుపెట్టండి">
 <!ENTITY firstrun_button_notnow "ఇప్పుడు కాదు">
@@ -17,11 +18,13 @@
 
 <!ENTITY firstrun_tabqueue_title "లింకులు">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "టాబ్ క్యూ ఆన్ చేయండి">
 
 <!ENTITY firstrun_tabqueue_message_on "సఫలం!">
 
 <!ENTITY firstrun_readerview_title "వ్యాసాలు">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "అయోమయ లూస్">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "నీవు">
@@ -136,6 +139,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "ఇష్టాంశంగా గుర్తించు">
+<!ENTITY overlay_share_bookmark_btn_label_already "ఇప్పటికే బుక్మార్క్ చేయబడింది">
 <!ENTITY overlay_share_send_other "ఇతర పరికరాలకు పంపించు">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -151,9 +155,13 @@
 <!ENTITY overlay_no_synced_devices "ఫైర్‌ఫాక్స్ ఖాతా సంధానమైవున్న పరికరాలేమీ కనబడలేదు">
 
 <!ENTITY pref_category_search3 "వెతుకు">
+<!ENTITY pref_category_search_summary2 "డిఫాల్ట్ గా సెట్ చెయ్యండి, ప్రదర్శన సూచనలను జోడించండి">
 <!ENTITY pref_category_accessibility "అందుబాటు">
+<!ENTITY pref_category_accessibility_summary2 "వచన పరిమాణం, జూమ్, వాయిస్ ఇన్పుట్">
 <!ENTITY pref_category_privacy_short "అంతరంగికత">
+<!ENTITY pref_category_privacy_summary4 "ట్రాకింగ్, లాగిన్, డేటా ఎంపికలు">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "గురించి &brandShortName;, FAQs, ఫీడ్ బాక్">
 <!ENTITY pref_category_datareporting "డేటా ఎంపికలు">
 <!ENTITY pref_category_logins "లాగిన్ లు">
 <!ENTITY pref_learn_more "మరింత తెలుసుకోండి">
@@ -232,6 +240,7 @@
 <!ENTITY pref_tracking_protection_enabled "ప్రారంభించబడింది">
 <!ENTITY pref_tracking_protection_disabled "నిలిపివేయబడింది">
 
+<!ENTITY pref_whats_new_notification "&brandShortName;‌ లో కొత్తదనం ఏమిటి">
 
 <!ENTITY tracking_protection_prompt_action_button "అర్థమయింది!">
 
@@ -520,6 +529,7 @@ size. -->
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_back_to_filter "&formatS; కి తిరిగి వెళ్ళుము">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
@@ -539,6 +549,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "వెతికె పదాన్ని ఇవ్వండి">
 
+<!ENTITY filepicker_title "ఫైలును ఎంచుకోండి">
 <!ENTITY filepicker_audio_title "ఒక శబ్దాన్ని ఎంచండి లేదా రికార్డ్ చేయండి">
 <!ENTITY filepicker_image_title "ఒక చిత్రాన్ని ఎంచండి లేదా తీయండి">
 <!ENTITY filepicker_video_title "ఒక విడియోను ఎంచండి లేదా రికార్డు చేయండి">
@@ -556,10 +567,16 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_connection_secure "సురక్షిత కనెక్షన్">
+<!ENTITY identity_connection_insecure "అసురక్ష కనెక్షన్">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_protection_disabled1 "మీరు అసురక్షిత కంటెంట్ నుండి రక్షణను నిలిపివేశారు.">
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "ట్రాకింగ్ సంరక్షణ">
+<!ENTITY doorhanger_tracking_state_enabled "ప్రారంభించబడింది">
+<!ENTITY doorhanger_tracking_state_disabled "అపివేయబడినది">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "మరింత తెలుసుకోండి">
@@ -674,6 +691,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restrictable_feature_addons_installation "యాడ్-ఆన్స్‍">
 <!ENTITY restrictable_feature_private_browsing "అంతరంగిక విహారణ">
 <!ENTITY restrictable_feature_advanced_settings "ఉన్నత అమరికలు">
 
@@ -688,10 +706,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY eol_notification_title2 "&brandShortName; ఇక పై నవీకరించబడదు">
+<!ENTITY eol_notification_summary "ఇంకా తెలుసుకోడానికి ఇక్కడ తాకండి">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName; తాజాగా ఉంది">
+<!ENTITY whatsnew_notification_summary "ఈ వెర్షన్ లో కొత్త ఏమి తెలుసుకోండి">
 
+<!ENTITY promotion_add_to_homescreen "హోమ్ స్క్రీన్‌కు జోడించు">
 
+<!ENTITY helper_first_offline_bookmark_title "ఆఫ్లైన్లో చదువు">
+<!ENTITY helper_first_offline_bookmark_message "బుక్మార్క్లు మీ రీడర్ చూడండి అంశాలను ఆఫ్లైన్లో కనుగొనండి.">
+<!ENTITY helper_first_offline_bookmark_button "బుక్ మార్క్ లకు వెళ్ళండి">
 
+<!ENTITY helper_triple_readerview_open_title "ఆఫ్‌లైన్‌లో అందుబాటులో ఉంటుంది">
+<!ENTITY helper_triple_readerview_open_message "ఆఫ్ లైన్లో చదవడానికి బుక్మార్క్ రీడర్ వ్యూ ఉపయోగించండి.">
+<!ENTITY helper_triple_readerview_open_button "బుక్ మార్క్ లకు జోడించండి">
 
