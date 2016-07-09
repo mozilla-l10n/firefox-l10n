@@ -12,4 +12,4 @@
 <!ENTITY feedback.tools.title           "Orodja">
 <!ENTITY feedback.allowTelemetry.title  "Pošiljaj podatke o učinkovitosti">
 <!ENTITY feedback.forceCompat.title     "Vsili združljivost dodatkov">
-<!ENTITY feedback.errorConsole.title    "Omogoči konzolo za napake">
+<!ENTITY feedback.errorConsole.title    "Omogoči konzolo napak">
