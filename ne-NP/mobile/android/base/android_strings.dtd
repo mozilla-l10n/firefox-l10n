@@ -21,6 +21,7 @@
 <!ENTITY firstrun_button_notnow "अहिले हैन">
 <!ENTITY firstrun_button_next "अर्को">
 
+<!ENTITY firstrun_tabqueue_title "लिङ्कहरू">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
 
@@ -30,6 +31,8 @@
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!ENTITY firstrun_account_title "तपाईं">
+<!ENTITY firstrun_account_message "के तपाईंसँग अर्को उपकरणमा &brandShortName; छ?">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; को यो सरल सँस्करणसँग सुरक्षित र आफ्नो नियन्त्रणमा रहनुहोस्।">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
