@@ -37,10 +37,9 @@
 <!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Prepričajte se, da v imenu datoteke velike in male črke prav nastopajo in da ni drugih tipkarskih napak.</li>
-  <li>Poglejte, da se morda datoteke ni prestavilo, preimenovalo ali zbrisalo.</li>
-</ul>
-">
+  <li>Preverite, ali so bile velike in male črke v imenu datoteke pravilno natipkane in da ni drugih napak.</li>
+  <li>Preverite, ali je bila datoteka premaknjena, preimenovana ali izbrisana.</li>
+</ul>">
 
 <!ENTITY fileAccessDenied.title "Dostop do datoteke je bil zavrnjen">
 <!ENTITY fileAccessDenied.longDesc "
@@ -51,7 +50,7 @@
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; te strani iz neznanega vzroka ni mogoče naložiti.</p>
+<p>&brandShortName; iz neznanega razloga ne more naložiti te strani.</p>
 ">
 
 <!ENTITY malformedURI.title "Ta naslov ni veljaven">
@@ -117,8 +116,8 @@
 <!ENTITY proxyConnectFailure.title "Proxy strežnik zavrača povezave">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Preverite proxy nastavitve, da so brez napake.</li>
-  <li>Obrnite se na administratorja mreže, da zveste ali posredniški strežnik dela.</li>
+  <li>Preverite nastavitve posrednika in se prepričajte, da so pravilne.</li>
+  <li>Pri skrbniku svojega omrežja preverite, da posrednik deluje.</li>
 </ul>
 ">
 
@@ -199,7 +198,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY remoteXUL.title "Oddaljeni XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Varna povezava ni mogoča">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
