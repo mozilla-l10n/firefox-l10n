@@ -4,7 +4,7 @@
 
 <!ENTITY     props.name.label               "ชื่อ:">
 <!ENTITY     props.value.label              "เนื้อหา:">
-<!ENTITY     props.domain.label             "โฮส:">
+<!ENTITY     props.domain.label             "โฮสต์:">
 <!ENTITY     props.path.label               "เส้นทาง:">
 <!ENTITY     props.secure.label             "ส่งเพื่อ:">
 <!ENTITY     props.expires.label            "หมดอายุ:">

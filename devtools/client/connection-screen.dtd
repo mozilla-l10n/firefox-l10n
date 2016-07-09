@@ -10,7 +10,7 @@
 <!ENTITY title      "เชื่อมต่อ">
 <!ENTITY header     "เชื่อมต่อไปยังอุปกรณ์ระยะไกล">
 <!ENTITY host       "โฮสต์:">
-<!ENTITY port       "พอร์ต :">
+<!ENTITY port       "พอร์ต:">
 <!ENTITY connect    "เชื่อมต่อ">
 <!ENTITY connecting "เชื่อมต่อ">
 <!ENTITY availableAddons "ส่วนเสริมระยะไกลที่มี:">

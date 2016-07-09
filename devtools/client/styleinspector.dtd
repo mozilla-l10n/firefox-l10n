@@ -21,7 +21,7 @@
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->
 
-<!ENTITY selectedElementLabel  "element ที่ถูกเลือก:">
+<!ENTITY selectedElementLabel  "องค์ประกอบที่ถูกเลือก:">
 <!-- LOCALIZATION NOTE (togglePseudoClassPanel): This is the tooltip
   -  shown when hovering over the `Toggle Pseudo Class Panel` button in the
   -  rule view toolbar. -->

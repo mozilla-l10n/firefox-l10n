@@ -6,7 +6,7 @@
 
 <!ENTITY errFile.label   "ไฟล์ต้นฉบับ:">
 <!ENTITY errLine.label   "บรรทัด:">
-<!ENTITY errColumn.label "สดมภ์ :">
+<!ENTITY errColumn.label "คอลัมน์:">
 
 <!ENTITY all.label          "ทั้งหมด">
 <!ENTITY all.accesskey      "ท">
@@ -18,8 +18,8 @@
 <!ENTITY messages.accesskey "ข">
 <!ENTITY clear.label        "ล้าง">
 <!ENTITY clear.accesskey    "ง">
-<!ENTITY codeEval.label     "ต้นฉบับ :">
-<!ENTITY codeEval.accesskey "ต">
+<!ENTITY codeEval.label     "โค้ด:">
+<!ENTITY codeEval.accesskey "ค">
 <!ENTITY evaluate.label     "หาค่า">
 <!ENTITY evaluate.accesskey "ห">
 <!ENTITY filter2.label      "ตัวกรอง:">
