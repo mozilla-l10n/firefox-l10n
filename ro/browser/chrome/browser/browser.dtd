@@ -732,7 +732,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Deschide linkul într-o fereastră nouă">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Deschide linkul într-o fereastră privată nouă">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Deschide într-o fereastră privată nouă">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 
 
