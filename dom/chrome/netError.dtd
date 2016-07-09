@@ -84,5 +84,7 @@
 <!ENTITY remoteXUL.title "రిమోట్ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ఈ సమస్య గురించి వారికి తెలుపుటకు దయచేసి వెబ్‌సైట్ స్వంతదారులను సంప్రదించండి.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "మీ కనెక్షన్ సురక్షితమైనది కాదు">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> కాలం చెల్లిన మరియు దాడికి దుర్భలంగా అని భద్రతా సాంకేతికత ఉపయోగిస్తుంది. దాడి చేసినవారు సులభంగా మీరు సురక్షితంగా భావించిన సమాచారాన్ని బహిర్గతం కాలేదు. వెబ్సైట్ నిర్వాహకుడు మీరు సైట్ సందర్శించండి ముందు మొదటి సర్వర్ పరిష్కరించడానికి అవసరం.</p><p>లోపం కోడ్: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
