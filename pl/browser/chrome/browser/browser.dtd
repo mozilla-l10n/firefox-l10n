@@ -101,6 +101,11 @@
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "działa teraz w trybie pełnoekranowym">
 <!ENTITY fullscreenWarning.generic.label "Dokument jest teraz wyświetlany w trybie pełnoekranowym">
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "kontroluje teraz kursor. Użyj klawisza Esc, aby przejąć nad nim kontrolę.">
+<!ENTITY pointerlockWarning.generic.label "Dokument kontroluje teraz kursor. Użyj klawisza Esc, aby przejąć nad nim kontrolę.">
+
 <!ENTITY exitDOMFullscreen.button "Opuść tryb pełnoekranowy (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Opuść tryb pełnoekranowy (esc)">
 <!ENTITY leaveDOMFullScreen.label "Opuść tryb pełnoekranowy">
