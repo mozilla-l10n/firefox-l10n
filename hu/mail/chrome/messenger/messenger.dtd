@@ -639,7 +639,7 @@
 <!ENTITY folderContextSearchForMessages.accesskey "k">
 <!ENTITY folderContextProperties2.label "Tulajdonságok">
 <!ENTITY folderContextProperties2.accesskey "u">
-<!ENTITY folderContextFavoriteFolder.label "Kedvencek mappa">
+<!ENTITY folderContextFavoriteFolder.label "Megjelölés kedvencként">
 <!ENTITY folderContextFavoriteFolder.accesskey "v">
 <!ENTITY folderContextSettings2.label "Beállítások">
 <!ENTITY folderContextSettings2.accesskey "B">
