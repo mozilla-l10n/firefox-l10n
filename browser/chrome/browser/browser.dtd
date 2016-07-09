@@ -456,8 +456,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "д">
 <!ENTITY openFrameCmd.label           "Отваряне в нов прозорец">
 <!ENTITY openFrameCmd.accesskey       "п">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Отваряне на връзка в нов независим подпрозорец">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "Показване само на тази рамка">
 <!ENTITY showOnlyThisFrameCmd.accesskey "р">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -709,7 +709,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "И">
 <!ENTITY identity.learnMore "Научете повече">
 
-
+<!ENTITY identity.removeCertException.label "Премахване на изключение">
+<!ENTITY identity.removeCertException.accesskey "х">
 
 <!ENTITY identity.moreInfoLinkText2 "Повече информация">
 
@@ -725,8 +726,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Синхронизирани подпрозорци">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Впишете се във Firefox на друго устройство, за да видите тук техните подпрозорци.">
-
-
+<!ENTITY syncedTabs.sidebar.noclients.title    "Няма синхронизирани подпрозорци… все още!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Искате ли да видите свои подпрозорци от други устройства тук?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Впишете се, за да видите тук подпрозорците в други ваши устройства.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Няма отворени подпрозорци">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Настройки на &syncBrand.shortName.label;">
@@ -734,9 +735,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Включете синхронизирането на подпрозорци, за да видите списък с подпрозорците от други ваши устройства.">
 
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Отваряне">
+<!ENTITY syncedTabs.context.open.accesskey                   "О">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Отваряне в нов подпрозорец">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "д">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Отваряне в нов прозорец">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "п">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Отваряне в нов прозорец за поверително сърфиране">
