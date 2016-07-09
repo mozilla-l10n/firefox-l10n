@@ -151,6 +151,7 @@
 <!ENTITY overlay_no_synced_devices "ఫైర్‌ఫాక్స్ ఖాతా సంధానమైవున్న పరికరాలేమీ కనబడలేదు">
 
 <!ENTITY pref_category_search3 "వెతుకు">
+<!ENTITY pref_category_accessibility "అందుబాటు">
 <!ENTITY pref_category_privacy_short "అంతరంగికత">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_datareporting "డేటా ఎంపికలు">
@@ -306,14 +307,19 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "వెబ్‌సైట్లు వీడియోలనూ ఇతర మీడియానూ ఆటోమెటిగ్గా ఆడించవచ్చా వద్దో నియంత్రించండి">
 <!ENTITY pref_zoom_force_enabled "ఎల్లప్పుడూ జూమ్ చేతనించు">
 <!ENTITY pref_zoom_force_enabled_summary "ఏ పేజీనైనా జూమ్ చెయ్యగలిగేలా చేయండి">
+<!ENTITY pref_qrcode_enabled "QR కోడ్ రీడర్">
+<!ENTITY pref_qrcode_enabled_summary2 "URL బార్లో QR స్కానర్ అనుమతింఛండి">
 
 <!ENTITY pref_use_master_password "ప్రధాన సంకేతపదాన్ని వాడు">
 <!ENTITY pref_sync2 "సైన్ ఇన్">
+<!ENTITY pref_sync_summary2 "మీ టాబ్లు, బుక్మార్క్లు, లాగిన్, చరిత్ర సమకాలీకరించండి">
 <!ENTITY pref_search_suggestions "వెతుకుడు సలహాలను చూపించు">
+<!ENTITY pref_history_search_suggestions "శోధన చరిత్రను చూపించండి">
 <!ENTITY pref_import_options "ఎంపికలను దిగుమతి చెయ్యి">
 <!ENTITY pref_import_android_summary "నేటివ్ విహారిణి నుండి ఇష్టాంశాలనూ చరిత్రనూ దిగుమతి చేసుకోండి">
 <!ENTITY pref_private_data_history2 "విహరణ చరిత్ర">
 <!ENTITY pref_private_data_searchHistory "చరిత్ర శోధన">
+<!ENTITY pref_private_data_formdata2 "చరిత్రను రకము">
 <!ENTITY pref_private_data_cookies2 "కుకీలు &amp; క్రియాశీల ప్రవేశాలు">
 <!ENTITY pref_private_data_passwords2 "సేవ్ చేయబడిన లాగిన్ లు">
 <!ENTITY pref_private_data_cache "క్యాషె">
@@ -322,6 +328,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "దింపుకోళ్ళు">
 <!ENTITY pref_private_data_syncedTabs "సింకైన ట్యాబులు">
 
+<!ENTITY pref_default_browser "డీఫాల్ట్ బ్రౌజర్ గా చేయండి">
 <!ENTITY pref_about_firefox "&brandShortName; గురించి">
 <!ENTITY pref_vendor_faqs "సందేహాలు">
 <!ENTITY pref_vendor_feedback "అభిప్రాయాన్ని తెలియజేయండి">
@@ -366,6 +373,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "స్వయంచాలక అప్‌డేట్‌లు">
 <!ENTITY pref_update_autodownload_wifi "వై-ఫై ద్వారా మాత్రమే">
 <!ENTITY pref_update_autodownload_never "ఎప్పటికీవద్దు">
 <!ENTITY pref_update_autodownload_always "ఎల్లప్పుడూ">
@@ -376,6 +384,7 @@ size. -->
 <!ENTITY quit "నిష్క్రమించు">
 
 <!ENTITY addons "పొడగింతలు">
+<!ENTITY logins "లాగిన్ లు">
 <!ENTITY downloads "దింపుకోళ్ళు">
 <!ENTITY char_encoding "అక్షర సంహితీకరణ">
 
@@ -383,10 +392,16 @@ size. -->
 <!ENTITY share_title "దీనిద్వారా పంచుకొను">
 <!ENTITY share_image_failed "ఈ చిత్రాన్ని పంచుకోలేకున్నాం">
 <!ENTITY save_as_pdf "PDFగా భద్రపరచు">
+<!ENTITY print "ముద్రించు">
+<!ENTITY find_in_page "పేజీ లో వెతకండి">
+<!ENTITY desktop_mode "డెస్క్‌టాప్ సైటును అభ్యర్థించు">
 <!ENTITY page "పేజీ">
 <!ENTITY tools "పనిముట్లు">
+<!ENTITY new_tab "కొత్త టాబ్">
+<!ENTITY new_private_tab "కొత్త ప్రైవేట్ ట్యాబు">
 <!ENTITY close_all_tabs "ట్యాబులన్నీ మూసివేయి">
 <!ENTITY close_private_tabs "ప్రయివేటు ట్యాబులను మూసివేయి">
+<!ENTITY tabs_normal "టాబ్‌లు">
 <!ENTITY tabs_private "అంతరంగికం">
 <!ENTITY set_image_fail "చిత్రాన్ని అమర్చలేదు">
 <!ENTITY set_image_path_fail "చిత్రాన్ని దాయలేక పోయింది">
@@ -394,7 +409,9 @@ size. -->
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "పేజీలో వెతకండి">
 <!ENTITY find_prev "క్రితం">
+<!ENTITY find_next "తరువాత">
 <!ENTITY find_close "మూసివేయి">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
@@ -428,6 +445,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "వాడుకరినామము">
 <!ENTITY doorhanger_login_edit_password_hint "సంకేతపదం">
 <!ENTITY doorhanger_login_edit_toggle "సంకేతపదాన్ని చూపించు">
+<!ENTITY doorhanger_login_edit_toast_error "లాగిన్ సేవ్ చేయుట విఫలమైంది">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
@@ -480,7 +498,10 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; ముంగిలి">
 <!ENTITY home_history_title "చరిత్ర">
+<!ENTITY home_synced_devices_number "&formatD; పరికరాలు">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1పరికరం">
+<!ENTITY home_history_back_to2 "చరిత్రకు తిరిగి వెళ్ళుము">
 <!ENTITY home_clear_history_button "విహరణ చరిత్రను తుడిచేయి">
 <!ENTITY home_clear_history_confirm "మీరు నిశ్చయంగా మీ చరిత్రను తుడిచేయాలని అనుకొంటున్నారా?">
 <!ENTITY home_bookmarks_empty "మీరు భద్రపరుచుకున్న ఇష్టాంశాలు ఇక్కడ ఉంటాయి.">
