@@ -34,10 +34,9 @@
 <!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Preverite, ali je datoteka zapisana s pravilno velikostjo črk.</li>
-  <li>Preverite, ali je bila datoteka preimenovana, izbrisana ali premaknjena.</li>
-</ul>
-">
+  <li>Preverite, ali so bile velike in male črke v imenu datoteke pravilno natipkane in da ni drugih napak.</li>
+  <li>Preverite, ali je bila datoteka premaknjena, preimenovana ali izbrisana.</li>
+</ul>">
 
 <!ENTITY fileAccessDenied.title "Dostop do datoteke je bil zavrnjen">
 <!ENTITY fileAccessDenied.longDesc "
@@ -48,7 +47,7 @@
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; ne more naložiti te strani.</p>
+<p>&brandShortName; iz neznanega razloga ne more naložiti te strani.</p>
 ">
 
 <!ENTITY malformedURI.title "Neveljaven naslov">
