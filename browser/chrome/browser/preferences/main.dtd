@@ -31,5 +31,15 @@
 <!ENTITY alwaysAsk.label "Πάντα ερώτηση για την τοποθεσία αποθήκευσης">
 <!ENTITY alwaysAsk.accesskey "α">
 
+<!ENTITY alwaysCheckDefault2.label        "Πάντα να γίνεται έλεγχος αν ο &brandShortName; είναι ο προεπιλεγμένος σας περιηγητής">
+<!ENTITY alwaysCheckDefault2.accesskey    "Π">
+<!ENTITY setAsMyDefaultBrowser2.label     "Ορισμός ως προεπιλεγμένος">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "ω">
+<!ENTITY isDefault.label                  "Αυτήν τη στιγμή ο &brandShortName; είναι ο προεπιλεγμένος σας περιηγητής">
+<!ENTITY isNotDefault.label               "Ο &brandShortName; δεν είναι ο προεπιλεγμένος σας περιηγητής">
 
+<!ENTITY separateProfileMode.label        "Να επιτρέπεται στον &brandShortName; και στον Firefox να τρέχουν την ίδια στιγμή">
+<!ENTITY useFirefoxSync.label             "Συμβουλή: Αυτό χρησιμοποιεί ξεχωριστά προφίλ. Χρησιμοποιήστε το Συγχρονισμό για διαμοιρασμό δεδομένων μεταξύ τους.">
+<!ENTITY getStarted.label                 "Έναρξη χρήσης του Συγχρονισμού…">
 
+<!ENTITY e10sEnabled.label                "Ενεργοποίηση λειτουργίας πολλαπλών διεργασιών του &brandShortName;">
