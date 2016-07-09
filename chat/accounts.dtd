@@ -4,7 +4,9 @@
 
 <!-- Account manager window for Instantbird -->
 <!ENTITY accounts.title                      "Tilit - &brandShortName;">
+<!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
+<!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
 
 <!ENTITY accountManager.newAccount.label     "Uusi tili">
 <!ENTITY accountManager.newAccount.accesskey "U">
@@ -13,6 +15,8 @@
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Yhtään tiliä ei ole vielä määritelty">
 <!ENTITY accountManager.noAccount.description "Napsauttamalla &accountManager.newAccount.label; -painiketta voit määritellä &brandShortName;in avulla uuden tilin.">
+<!ENTITY account.autoSignOn.label     "Kirjudu käynnistäettäessä">
+<!ENTITY account.autoSignOn.accesskey "K">
 <!ENTITY account.connect.label        "Yhdistä">
 <!ENTITY account.disconnect.label     "Katkaise yhteys">
 <!ENTITY account.delete.label         "Poista">
