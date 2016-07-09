@@ -207,7 +207,7 @@
 <!ENTITY addon.includeUpdate.label            "รวมในการปรับรุ่น">
 <!ENTITY addon.updateAvailable.label          "พบการปรับรุ่น">
 <!ENTITY addon.checkingForUpdates.label       "กำลังตรวจสอบการปรับรุ่น…">
-<!ENTITY addon.releaseNotes.label             "บันทึกประจำรุ่น :">
+<!ENTITY addon.releaseNotes.label             "บันทึกประจำรุ่น:">
 <!ENTITY addon.loadingReleaseNotes.label      "กำลังโหลด…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "ขออภัย เราพบข้อผิดพลาดขณะโหลดบันทึกประจำรุ่น">
 

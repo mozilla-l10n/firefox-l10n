@@ -32,8 +32,8 @@
 <!ENTITY selectionRadio.accesskey "ล">
 
 <!ENTITY copies.label "สำเนา">
-<!ENTITY numCopies.label "จำนวนสำเนา :">
-<!ENTITY numCopies.accesskey "ว">
+<!ENTITY numCopies.label "จำนวนสำเนา:">
+<!ENTITY numCopies.accesskey "ส">
 
 <!ENTITY printframeGroup.label "พิมพ์กรอบ">
 <!ENTITY aslaidoutRadio.label "อย่างที่จัดวางบนหน้าจอ">

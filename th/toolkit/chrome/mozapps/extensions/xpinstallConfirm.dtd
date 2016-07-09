@@ -9,5 +9,5 @@
 <!ENTITY warningPrimary.label    "ติดตั้งส่วนเสริมจากผู้สร้างที่เชื่อถือได้เท่านั้น">
 <!ENTITY warningSecondary.label  "โปรแกรมที่ประสงค์ร้ายสามารถทำความเสียหายให้กับคอมพิวเตอร์หรือละเมิดความเป็นส่วนตัวของคุณได้">
 
-<!ENTITY from.label "จาก :">
+<!ENTITY from.label "จาก:">
 

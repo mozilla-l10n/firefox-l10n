@@ -5,9 +5,9 @@
 
 <!ENTITY setPassword.title  "เปลี่ยนรหัสผ่านหลัก">
 <!ENTITY setPassword.tokenName.label "กลไกความปลอดภัย">
-<!ENTITY setPassword.oldPassword.label "รหัสผ่านปัจจุบัน :">
-<!ENTITY setPassword.newPassword.label "รหัสผ่านใหม่ :">
-<!ENTITY setPassword.reenterPassword.label "รหัสผ่านใหม่ (อีกครั้ง) :">
+<!ENTITY setPassword.oldPassword.label "รหัสผ่านปัจจุบัน:">
+<!ENTITY setPassword.newPassword.label "รหัสผ่านใหม่:">
+<!ENTITY setPassword.reenterPassword.label "รหัสผ่านใหม่ (อีกครั้ง):">
 <!ENTITY setPassword.meter.label "มาตรวัดคุณภาพรหัสผ่าน">
 <!-- Values for resetpassword.xul -->
 
@@ -33,7 +33,7 @@
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "เลือกใบรับรอง">
-<!ENTITY certPicker.info  "ใบรับรอง :">
+<!ENTITY certPicker.info  "ใบรับรอง:">
 <!ENTITY certPicker.detailsLabel "รายละเอียดของใบรับรองที่เลือก:">
 
 <!ENTITY pkcs12.setpassword.title  "เลือกรหัสผ่านสำรองใบรับรอง :">

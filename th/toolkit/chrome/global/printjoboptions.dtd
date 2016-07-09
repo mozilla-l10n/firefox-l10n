@@ -6,13 +6,13 @@
 
 <!ENTITY printJobOptions.title "คุณสมบัติเครื่องพิมพ์">
 
-<!ENTITY paperInput.label "ขนาดกระดาษ :">
+<!ENTITY paperInput.label "ขนาดกระดาษ:">
 <!ENTITY paperInput.accesskey "ก">
 
 <!ENTITY jobTitleInput.label "ชื่องานพิมพ์ :">
 <!ENTITY jobTitleInput.accesskey "ช">
 
-<!ENTITY colorGroup.label "สี :">
+<!ENTITY colorGroup.label "สี:">
 <!ENTITY grayRadio.label "ระดับเทา">
 <!ENTITY grayRadio.accesskey "ท">
 <!ENTITY colorRadio.label "สี">

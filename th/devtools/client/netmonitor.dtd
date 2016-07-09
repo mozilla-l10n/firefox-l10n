@@ -143,10 +143,12 @@
 <!ENTITY netmonitorUI.summary.method      "วิธีการร้องขอ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.address): This is the label displayed
   -  in the network details headers tab identifying the remote address. -->
+
+<!ENTITY netmonitorUI.summary.address     "ที่อยู่ระยะไกล:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
 
-<!ENTITY netmonitorUI.summary.status      "Status code:">
+<!ENTITY netmonitorUI.summary.status      "รหัสสถานะ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.version): This is the label displayed
   -  in the network details headers tab identifying the http version. -->
 
@@ -154,7 +156,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.size): This is the label displayed
   -  in the network details headers tab identifying the headers size. -->
 
-<!ENTITY netmonitorUI.summary.size        "Headers size:">
+<!ENTITY netmonitorUI.summary.size        "ขนาดส่วนหัว:">
 <!-- LOCALIZATION NOTE (netmonitorUI.response.name): This is the label displayed
   -  in the network details response tab identifying an image's file name. -->
 
@@ -162,7 +164,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.response.dimensions): This is the label displayed
   -  in the network details response tab identifying an image's dimensions. -->
 
-<!ENTITY netmonitorUI.response.dimensions "มิติ :">
+<!ENTITY netmonitorUI.response.dimensions "มิติ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.response.mime): This is the label displayed
   -  in the network details response tab identifying an image's mime. -->
 
@@ -171,7 +173,7 @@
   -  in the network details timings tab identifying the amount of time spent
   -  in a "blocked" state. -->
 
-<!ENTITY netmonitorUI.timings.blocked     "ถูกปิดกั้น">
+<!ENTITY netmonitorUI.timings.blocked     "ถูกปิดกั้น:">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.dns): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "dns" state. -->
@@ -186,7 +188,7 @@
   -  in the network details timings tab identifying the amount of time spent
   -  in a "send" state. -->
 
-<!ENTITY netmonitorUI.timings.send        "Sending:">
+<!ENTITY netmonitorUI.timings.send        "กำลังส่ง:">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.wait): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "wait" state. -->
@@ -217,7 +219,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
 
-<!ENTITY netmonitorUI.security.certificate "ใบรับรอง :">
+<!ENTITY netmonitorUI.security.certificate "ใบรับรอง:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
 
