@@ -19,6 +19,17 @@
 <!ENTITY dnsNotFound.title "Servidor no encontrado">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul>
+  <li>Verifica los errores típicos al escribir una dirección como:
+    <strong>ww</strong>.example.com en lugar de 
+    <strong>www</strong>.example.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Buscar</button>
+    </div>
+  <li>Si eres incapaz de cargar cualquier página, revisa la conexión de datos o Wi-Fi de tu dispositivo.    
+    <button id='wifi'>Habilitar Wi-Fi</button>
+  </li></ul>">
 
 <!ENTITY fileNotFound.title "">
 <!ENTITY fileNotFound.longDesc "<ul>
@@ -39,15 +50,27 @@
 <!ENTITY malformedURI.title "La dirección no es válida">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul>
+  <li>Las direcciones de los sitios son usualmente como <strong>http://www.example.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Buscar</button>
+    </div>
+  <li>Asegurate que estás usando barras oblicuas (por ejemplo: <strong>/</strong>).</li></ul>">
 
 <!ENTITY netInterrupt.title "La conexión fue interrumpida">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Documento expirado">
+<!ENTITY notCached.longDesc "<p>El documento solicitado no está disponble en el caché de &brandShortName;.</p><ul><li>Como una precaución de seguridad, &brandShortName; no vuelve a solicitar automáticamente documentos sensibles. </li><li>Haz clic para volver a solicitar el documento al sitio web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sin conexión">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul>
+  <li>Vuelve a intentarlo. &brandShortName; intentará abrir una conexión y recargar la página.
+    <button id='wifi'>Habilitar Wi-Fi</button>
+  </li></ul>">
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<ul>
@@ -79,6 +102,11 @@
 <!ENTITY proxyResolveFailure.title "No se pudo encontrar el servidor proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul>
+  <li>Revisa la configuración del proxy para asegurarte de que es correcta.</li>
+  <li>Asegúrate de que tu dispositivo tiene una conexión operativa de datos o Wi-Fi
+    <button id='wifi'>Habilitar Wi-Fi</button>
+  </li></ul>">
 
 <!ENTITY redirectLoop.title "La página no está redirigiendo adecuadamente">
 <!ENTITY redirectLoop.longDesc "<ul>
@@ -92,11 +120,22 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "Falló la conexión segura">
+<!ENTITY nssFailure2.longDesc2 "<ul>
+  <li>La página que estás intentando ver no puede ser vista porque no se puede verificar la fuente de los datos recibidos.</li>
+  <li>Por favor, contacta a los dueños de la página para informar sobre estos problemas.</li></ul>">
 
 <!ENTITY nssBadCert.title "Falló la conexión segura">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+  <li>Esto podría ser un problema con la configuración del servidor, o que alguien esté intentando suplantar al servidor.</li>
+  <li>Si te pudiste conectar con éxito en el pasado, el error puede ser temporal, y puedes volver a intentarlo más tarde.</li></ul>">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "<ul>
+  <li>Este sitio puede estar temporalmente no disponible o muy ocupado. Vuelve a intentarlo en un rato.</li>
+  <li>Si eres incapaz de cargar cualquier página, revisa los datos móviles o conexión a Wi-Fi de tu dispositivo.
+    <button id='wifi'>Habilitar Wi-Fi</button>
+  </li></ul>">
 
 <!ENTITY cspBlocked.title "Bloqueado por la política de seguridad de contenido">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; previno que esta página cargara de esta forma porque la página contiene una política de seguridad de contenido que no lo permite.</p>">
@@ -133,3 +172,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Tu conexión no es segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>usa tecnología de seguridad que es obsoleta y vulnerable a ataques. Un ataque podría revelar fácilmente información que piensas que está a salvo. El administrador del sitio web necesitará arreglar el servidor antes de que puedas visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
