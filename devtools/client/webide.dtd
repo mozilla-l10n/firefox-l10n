@@ -111,7 +111,7 @@
 
 
 
-
+<!ENTITY prefs_options_tabsize "ขนาดแท็บ">
 
 
 
@@ -139,6 +139,8 @@
 <!ENTITY device_typeobject "วัตถุ">
 <!ENTITY device_typenone "เลือกชนิด">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "การตั้งค่าอุปกรณ์">
 
 
 
