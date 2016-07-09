@@ -101,8 +101,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.androidLink      "Android">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 
-<!ENTITY mobilePromo3.iOSBefore         " vagy a ">
+<!ENTITY mobilePromo3.iOSBefore         " vagy ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              " a mobileszközével való szinkronizáláshoz.">
+<!ENTITY mobilePromo3.end              " appot a mobileszközével való szinkronizáláshoz.">
