@@ -11,7 +11,7 @@
 <!ENTITY  trackingProtectionNever.accesskey    "Н">
 <!ENTITY  trackingProtectionLearnMore.label    "Научете повече">
 <!ENTITY  trackingProtectionExceptions.label   "Изключения…">
-<!ENTITY  trackingProtectionExceptions.accesskey "И">
+<!ENTITY  trackingProtectionExceptions.accesskey "з">
 
 <!ENTITY tracking.label                 "Следене">
 <!ENTITY trackingProtectionPBM5.label         "Използване на защитата от проследяване в поверителните прозорци">
