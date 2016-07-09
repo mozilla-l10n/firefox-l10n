@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Γενικά">
+<!ENTITY dataChoicesTab.label    "Επιλογές Δεδομένων">
 <!ENTITY itemUpdate.label        "Ενημέρωση">
 <!ENTITY itemNetworking.label    "Δίκτυο &amp; Αποθηκευτικός χώρος">
 <!ENTITY itemCertificates.label  "Πιστοποιητικά">
@@ -10,7 +11,18 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Ενεργοποίηση γενικής αναζήτησης και καταλογοποίησης">
 <!ENTITY enableGlodaSearch.accesskey   "γ">
+<!ENTITY allowHWAccel.label            "Να γίνεται χρήση της επιτάχυνσης υλικού όποτε είναι διαθέσιμη">
+<!ENTITY allowHWAccel.accesskey        "υ">
+<!ENTITY storeType.label               "Τύπος αποθήκευσης μηνυμάτων για νέους λογαριασμούς:">
+<!ENTITY storeType.accesskey           "Τ">
+<!ENTITY mboxStore2.label              "Αρχείο ανά φάκελο (mbox)">
+<!ENTITY maildirStore.label            "Αρχείο ανά μήνυμα (maildir)">
 
+<!ENTITY scrolling.label               "Κύλιση">
+<!ENTITY useAutoScroll.label           "Χρήση αυτόματης κύλισης">
+<!ENTITY useAutoScroll.accesskey       "Χ">
+<!ENTITY useSmoothScrolling.label      "Χρήση ομαλής κύλισης">
+<!ENTITY useSmoothScrolling.accesskey  "ο">
 
 <!ENTITY systemIntegration.label       "Ενσωμάτωση συστήματος">
 <!ENTITY alwaysCheckDefault.label      "Πάντα έλεγχος στην εκκίνηση για το αν ο &brandShortName; είναι η προεπιλεγμένη εφαρμογή αλληλογραφίας">
@@ -27,10 +39,31 @@
 <!ENTITY showReturnReceipts.accesskey  "Β">
 
 <!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Τηλεμετρία">
+<!ENTITY telemetryDesc.label             "Μοιράζεται δεδομένα σχετικά με την απόδοση, τη χρήση, το υλικό και την παραμετροποίηση για το πρόγραμμα αλληλογραφίας σας με το &vendorShortName; για να μας βοηθήσετε να κάνουμε το &brandShortName; καλύτερο">
+<!ENTITY enableTelemetry.label           "Ενεργοποίηση της Τηλεμετρίας">
+<!ENTITY enableTelemetry.accesskey       "Τ">
+<!ENTITY telemetryLearnMore.label        "Μάθετε περισσότερα">
 
+<!ENTITY crashReporterSection.label      "Αναφορά Κατάρρευσης">
+<!ENTITY crashReporterDesc.label         "Το &brandShortName; αποστέλλει αναφορές καταρρεύσεων για να βοηθήσει το &vendorShortName; να βελτιώσει το πρόγραμμα αλληλογραφίας σας και να το κάνει πιο σταθερό και ασφαλές">
+<!ENTITY enableCrashReporter.label       "Ενεργοποίηση της Αναφοράς Καταρρεύσεων">
+<!ENTITY enableCrashReporter.accesskey   "Κ">
+<!ENTITY crashReporterLearnMore.label    "Μάθετε περισσότερα">
 
 <!-- Update -->
+<!ENTITY updateApp.label                 "Ενημερώσεις για το &brandShortName;:">
+<!ENTITY updateAuto.label                "Αυτόματη εγκατάσταση ενημερώσεων (προτείνεται: αυξημένη ασφάλεια)">
+<!ENTITY updateAuto.accesskey            "Α">
+<!ENTITY updateCheck.label               "Να γίνεται έλεγχος για ενημερώσεις, αλλά να επιλέγω αν θα γίνει εγκατάστασή τους">
+<!ENTITY updateCheck.accesskey           "ε">
+<!ENTITY updateManual.label              "Να μη γίνεται ποτέ έλεγχος για ενημερώσεις (δεν προτείνεται: κίνδυνος ασφαλείας)">
+<!ENTITY updateManual.accesskey          "π">
+<!ENTITY updateHistory.label             "Εμφάνιση ιστορικού ενημερώσεων">
+<!ENTITY updateHistory.accesskey         "ι">
 
+<!ENTITY useService.label                "Χρήση μιας υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων">
+<!ENTITY useService.accesskey            "υ">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Ρυθμίσεις…">
@@ -45,6 +78,7 @@
 <!ENTITY Diskspace                       "Αποθηκευτικός χώρος">
 <!ENTITY offlineCompactFolders.label     "Συμπίεση φακέλων πάνω από">
 <!ENTITY offlineCompactFolders.accesskey "π">
+<!ENTITY offlineCompactFoldersMB.label   "MB στο σύνολο">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -64,6 +98,10 @@
 <!ENTITY certs.auto.accesskey            "λ">
 <!ENTITY certs.ask                       "Να γίνεται ερώτηση κάθε φορά">
 <!ENTITY certs.ask.accesskey             "γ">
+<!ENTITY enableOCSP.label                "Ερώτηση στους διακομιστές για OCSP ανταπόκριση ώστε να επιβεβαιωθεί η τρέχουσα εγκυρότητα των πιστοποιητικών">
+<!ENTITY enableOCSP.accesskey            "δ">
 
+<!ENTITY manageCertificates.label "Διαχείριση πιστοποιητικών">
+<!ENTITY manageCertificates.accesskey "Π">
 <!ENTITY viewSecurityDevices.label "Συσκευές ασφαλείας">
 <!ENTITY viewSecurityDevices.accesskey "υ">
