@@ -30,12 +30,18 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "γ">
 <!ENTITY newExistingEmailAccountCmd.label "Υπάρχων λογαριασμός αλληλογραφίας…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "χ">
+<!ENTITY newIMAccountCmd.label "Λογαριασμός Συνομιλίας…">
+<!ENTITY newIMAccountCmd.accesskey "Σ">
+<!ENTITY newFeedAccountCmd.label "Λογαριασμός Ροής…">
+<!ENTITY newFeedAccountCmd.accesskey "Ρ">
+<!ENTITY newIMContactCmd.label "Επαφή Συνομιλίας…">
 <!ENTITY openMessageFileCmd.label "Άνοιγμα αποθηκευμένου μηνύματος">
 <!ENTITY openMessageFileCmd.accesskey "ν">
 <!ENTITY saveAsMenu.label "Αποθήκευση ως">
 <!ENTITY saveAsMenu.accesskey "θ">
 <!ENTITY saveAsFileCmd.label "Αρχείο">
 <!ENTITY saveAsFileCmd.accesskey "χ">
+<!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Πρότυπο">
 <!ENTITY saveAsTemplateCmd.accesskey "Π">
 <!ENTITY getNewMsgForCmd.label "Λήψη νέων μηνυμάτων για">
@@ -54,6 +60,7 @@
 <!ENTITY deleteFolder.accesskey "Δ">
 <!ENTITY renameFolder.label "Μετονομασία φακέλου...">
 <!ENTITY renameFolder.accesskey "Μ">
+<!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Σύμπτυξη φακέλων">
 <!ENTITY compactFolders.accesskey    "φ">
 <!ENTITY emptyTrashCmd.label "Άδειασμα κάδου">
@@ -72,6 +79,7 @@
 <!ENTITY downloadStarredCmd.accesskey "α">
 <!ENTITY printCmd.label "Εκτύπωση...">
 <!ENTITY printCmd.accesskey "Ε">
+<!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
 <!ENTITY printPreviewCmd.accesskey "π">
 <!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας...">
@@ -96,6 +104,7 @@
 <!ENTITY all.accesskey "λ">
 <!ENTITY selectThreadCmd.label "Αλληλουχία">
 <!ENTITY selectThreadCmd.accesskey "χ">
+<!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Μηνύματα με αστέρι">
 <!ENTITY selectFlaggedCmd.accesskey "σ">
 <!ENTITY menuFavoriteFolder.label "Αγαπημένος φάκελος">
@@ -133,8 +142,10 @@
 <!ENTITY messagePaneWide.accesskey "Π">
 <!ENTITY messagePaneVertical.label "Κάθετη προβολή">
 <!ENTITY messagePaneVertical.accesskey "θ">
-<!ENTITY showFolderPaneCmd.label "Ταμπλό φακέλων">
+<!ENTITY showFolderPaneCmd.label "Πλαίσιο φακέλων">
 <!ENTITY showFolderPaneCmd.accesskey "φ">
+<!ENTITY showFolderPaneColsCmd.label "Στήλες στο Πλαίσιο Φακέλων">
+<!ENTITY showFolderPaneColsCmd.accesskey "Φ">
 <!ENTITY showMessageCmd.label "Περιοχή μηνύματος">
 <!ENTITY showMessageCmd.accesskey "μ">
 
@@ -150,6 +161,7 @@
 <!ENTITY favoriteFolders.accesskey "γ">
 <!ENTITY recentFolders.label "Πρόσφατοι">
 <!ENTITY recentFolders.accesskey "ρ">
+<!ENTITY folderPaneBar.label "Εργαλειοθήκη Πλαισίου Φακέλων">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ταξινόμηση κατά">
@@ -359,8 +371,10 @@
 <!ENTITY recalculateJunkScoreCmd.accesskey "κ">
 <!ENTITY openMessageWindowCmd.label "Άνοιγμα μηνύματος">
 <!ENTITY openMessageWindowCmd.accesskey "ν">
+<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Άνοιγμα σε συζήτηση">
 <!ENTITY openConversationCmd.accesskey "ζ">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Συνημμένα">
 <!ENTITY openAttachmentListCmd.accesskey "Σ">
 <!ENTITY openFeedMessage1.label "Άνοιγμα μηνύματος ροής">

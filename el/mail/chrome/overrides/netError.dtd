@@ -38,7 +38,13 @@
 ">
 
 <!ENTITY fileAccessDenied.title "Άρνηση πρόσβασης στο αρχείο">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Ενδέχεται να έχει διαγραφεί, μετακινηθεί, ή να μην επιτρέπεται η πρόσβαση λόγω των δικαιωμάτων του αρχείου.</li>
+</ul>
+">
 
+<!ENTITY generic.title "Ωχ!">
 <!ENTITY generic.longDesc "
 <p>Ο &brandShortName; δεν μπορεί να φορτώσει τη σελίδα για κάποιο λόγο.</p>
 ">
@@ -54,6 +60,7 @@
 ">
 
 <!ENTITY netInterrupt.title "Η σύνδεση διακόπηκε">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Το έγγραφο έληξε">
 <!ENTITY notCached.longDesc "<p>Το έγγραφο που ζητήσατε δεν είναι πια διαθέσιμο στην προσωρινή μνήμη.</p><ul><li>Ως μέτρο ασφαλείας ο  &brandShortName; δεν ζητά ξανά να ανασύρει ευαίσθητα έγγραφα.</li><li>Πατήστε Προσπάθεια ξανά για να γίνει αίτηση ξανά στη σελίδα.</li></ul>">
@@ -80,8 +87,10 @@
 ">
 
 <!ENTITY netReset.title "Έγινε διακοπή της σύνδεσης με τη σελίδα">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Υπέρβαση ορίου χρόνου της σύνδεσης">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Δεν έγινε κατανοητή η διεύθυνση">
 <!ENTITY unknownProtocolFound.longDesc "
@@ -158,6 +167,8 @@
 <!ENTITY cspBlocked.title "Έχει φραγεί από την πολιτική προστασίας περιεχομένου">
 <!ENTITY cspBlocked.longDesc "<p>Ο &brandShortName; εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν το επιτρέπει.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Σφάλμα κατεστραμμένου περιεχομένου">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Η σελίδα που προσπαθείτε να δείτε δεν μπορεί να εμφανιστεί επειδή εντοπίστηκε σφάλμα στην μετάδοση των δεδομένων.</p><ul><li>Επικοινωνήστε με τους ιδιοκτήτες του ιστοτόπου για να τους ενημερώσετε για το πρόβλημα</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ή μπορείτε να προσθέσετε μια εξαίρεση...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Να φύγω από εδώ!">
@@ -178,5 +189,7 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "Απομακρυσμένο XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλούμε επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για αυτό το πρόβλημα.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Η σύνδεσή σας δεν είναι ασφαλής">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "Το <p><span class='hostname'></span> χρησιμοποιεί τεχνολογία που είναι παρωχημένη και ευάλωτη σε επιθέσεις. Ένας εισβολέας θα μπορούσε εύκολα να αποκαλύψει πληροφορίες που πιστεύατε ότι ήταν ασφαλείς. Ο διαχειριστής του ιστοτόπου θα πρέπει να διορθώσει τον διακομιστή προτού επισκεφθείτε ξανά τον ιστοτόπο.</p><p>Κωδικός σφάλματος: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
