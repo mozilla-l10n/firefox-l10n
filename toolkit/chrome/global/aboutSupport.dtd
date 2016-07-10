@@ -50,9 +50,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Включени приставки">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Настройки на компилацията">
 <!ENTITY aboutSupport.appBasicsUserAgent "Потребителски агент">
-
+<!ENTITY aboutSupport.appBasicsOS "ОС">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Използване на паметта">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Производителност">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Регистрирани скрити обслужващи страници">
@@ -86,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Изчертаване">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "База от данни за места">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Цялост">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Проверка на целостта">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Постепенен GC">
@@ -109,10 +110,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Пробвайте Надежден режим">
 <!ENTITY aboutSupport.restartInSafeMode.label "Рестартиране с изключени добавки…">
 
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Възможности">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Диагностики">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Журнал на грешките">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Журнал на решенията">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Изключени възможности на защитата от сривове">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Заобикаляния">
