@@ -10,6 +10,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Μεγέθυνση">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "γ">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
  <!-- + is above this key on many keyboards -->
 
 <!ENTITY fullZoomReduceCmd.label        "Σμίκρυνση">

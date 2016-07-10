@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title  "Ενσωμάτωση συστήματος">
+<!ENTITY acceptIntegration.label  "Ορισμός ως προεπιλογή">
+<!ENTITY cancelIntegration.label  "Παράληψη της ενσωμάτωσης">
+<!ENTITY cancelIntegration2.label  "Άκυρο">
 <!ENTITY defaultClient.intro  "Χρήση του &brandShortName; ως την προεπιλεγμένη εφαρμογή για:">
 
 <!ENTITY email.label "Αλληλογραφία">
