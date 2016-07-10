@@ -6,6 +6,7 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "  మార్చు">
 
+<!ENTITY aboutTelemetry.uploadEnabled "FHR డేటా అప్లోడ్ <span> ఎనేబుల్ </span> ఉంది .">
 
 
 
@@ -62,3 +63,4 @@
 <!ENTITY aboutTelemetry.filterText "  వడపోత (పదబంధం లేక /regexp/)">
 
 
+<!ENTITY aboutTelemetry.rawPayload " రా పేలోడ్">
