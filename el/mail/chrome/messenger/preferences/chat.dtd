@@ -23,4 +23,20 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Αποστολή ειδοποιήσεων πληκτρολόγησης στις συζητήσεις">
 <!ENTITY  sendTyping.accesskey          "σ">
 
+<!ENTITY  chatNotifications.label             "Όταν έρχονται μηνύματα που απευθύνονται σε εσάς:">
+<!ENTITY  desktopChatNotifications.label      "Να εμφανίζεται μια ειδοποίηση:">
+<!ENTITY  desktopChatNotifications.accesskey  "ε">
+<!ENTITY  completeNotification.label          "με το όνομα του αποστολέα και μια προεπισκόπηση του μηνύματος">
+<!ENTITY  buddyInfoOnly.label                 "με το όνομα του αποστολέα μόνο">
+<!ENTITY  dummyNotification.label             "χωρίς οποιαδήποτε πληροφορία">
+<!ENTITY  chatSound.accesskey                 "δ">
+<!ENTITY  chatSound.label                     "Αναπαραγωγή ενός ήχου">
+<!ENTITY  play.label                          "Αναπαραγωγή">
+<!ENTITY  play.accesskey                      "Α">
+<!ENTITY  systemSound.label                   "Προκαθορισμένος ήχος συστήματος για νέα μηνύματα">
+<!ENTITY  systemSound.accesskey               "ρ">
+<!ENTITY  customsound.label                   "Να χρησιμοποιείται το παρακάτω αρχείο ήχου">
+<!ENTITY  customsound.accesskey               "χ">
+<!ENTITY  browse.label                        "Αναζήτηση...">
+<!ENTITY  browse.accesskey                    "ν">
 

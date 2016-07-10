@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Μορφοποίηση">
 <!ENTITY itemTags.label                   "Ετικέτες">
+<!ENTITY itemAdvanced.label               "Για προχωρημένους">
 
 <!ENTITY style.label                      "Μορφοποίηση:">
 <!ENTITY style.accesskey                  "φ">
@@ -46,7 +47,27 @@
 <!ENTITY colorButton.accesskey   "ρ">
 
 <!-- Advanced -->
+<!ENTITY reading.caption                  "Ανάγνωση">
+<!ENTITY display.caption                  "Εμφάνιση">
+<!ENTITY showCondensedAddresses.label     "Να εμφανίζεται μόνο το εμφανιζόμενο όνομα για τους ανθρώπους από το βιβλίο διευθύνσεών μου">
+<!ENTITY showCondensedAddresses.accesskey "ε">
 
+<!ENTITY autoMarkAsRead.label             "Αυτόματη σημείωση μηνυμάτων ως αναγνωσμένα">
+<!ENTITY autoMarkAsRead.accesskey         "Α">
+<!ENTITY markAsReadNoDelay.label          "Άμεσα κατά την εμφάνιση">
+<!ENTITY markAsReadNoDelay.accesskey      "μ">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Μετά την εμφάνιση σε">
+<!ENTITY markAsReadDelay.accesskey        "φ">
+<!ENTITY secondsLabel.label               "δευτερόλεπτα">
+<!ENTITY openMsgIn.label                  "Άνοιγμα μηνυμάτων σε:">
+<!ENTITY openMsgInNewTab.label            "Νέα καρτέλα">
+<!ENTITY openMsgInNewTab.accesskey        "κ">
+<!ENTITY reuseExpRadio0.label             "Νέο παράθυρο μηνύματος">
+<!ENTITY reuseExpRadio0.accesskey         "π">
+<!ENTITY reuseExpRadio1.label             "Υπάρχον παράθυρο μηνύματος">
+<!ENTITY reuseExpRadio1.accesskey         "υ">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Να κλείνει το παράθυρο μηνύματος ή η καρτέλα μετά από μετακίνηση ή διαγραφή">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "Κ">

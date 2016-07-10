@@ -2,7 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  colorsDialog.title              "Χρώματα">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overridePageColors.label        "Να γίνεται παράκαμψη των χρωμάτων που ορίζει το περιεχόμενο με τις επιλογές μου παραπάνω:">
+<!ENTITY  overridePageColors.accesskey    "π">
 
+<!ENTITY  overridePageColors.always.label "Πάντα">
+<!ENTITY  overridePageColors.auto.label   "Μόνο για θέματα Υψηλής Αντίθεσης">
+<!ENTITY  overridePageColors.never.label  "Ποτέ">
 
+<!ENTITY  color                           "Κείμενο και φόντο">
+<!ENTITY  textColor.label                 "Κείμενο:">
+<!ENTITY  textColor.accesskey             "Κ">
+<!ENTITY  backgroundColor.label           "Φόντο:">
+<!ENTITY  backgroundColor.accesskey       "Φ">
+<!ENTITY  useSystemColors.label           "Χρήση χρωμάτων συστήματος">
+<!ENTITY  useSystemColors.accesskey       "σ">
 
+<!ENTITY  underlineLinks.label            "Υπογράμμιση συνδέσμων">
+<!ENTITY  underlineLinks.accesskey        "Υ">
+<!ENTITY  links                           "Χρώματα Συνδέσμων">
+<!ENTITY  linkColor.label                 "Μη αναγνωσμένοι δεσμοί:">
+<!ENTITY  linkColor.accesskey             "Μ">
+<!ENTITY  visitedLinkColor.label          "Αναγνωσμένοι δεσμοί:">
+<!ENTITY  visitedLinkColor.accesskey      "Α">
