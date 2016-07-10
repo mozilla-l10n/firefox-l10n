@@ -3,8 +3,36 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Mail Content -->
+<!ENTITY captionMailContent.label "Περιεχόμενο Μηνυμάτων">
 
+<!ENTITY acceptRemoteContent.label "Να επιτρέπεται το απομακρυσμένο περιεχόμενο στα μηνύματα">
+<!ENTITY acceptRemoteContent.accesskey "π">
+<!ENTITY remoteContentExceptions.label "Εξαιρέσεις…">
+<!ENTITY remoteContentExceptions.accesskey "ξ">
+<!ENTITY acceptRemoteContentInfo.label "Μάθετε περισσότερα σχετικά με θέματα ιδιωτικότητας του απομακρυσμένου περιεχομένου">
 
 <!-- Web Content -->
+<!ENTITY captionWebContent.label "Περιεχόμενο Ιστού">
 
+<!ENTITY keepHistory.label "Να αποθηκεύεται η επίσκεψη σε ιστοτόπους και συνδέσμους που επισκέφθηκα">
+<!ENTITY keepHistory.accesskey "ι">
+<!ENTITY acceptCookies.label "Να γίνονται δεκτά τα cookies από τους ιστοτόπους">
+<!ENTITY acceptCookies.accesskey "γ">
+<!ENTITY acceptThirdParty.pre.label "Να γίνονται δεκτά τα cookies από τρίτους:">
+<!ENTITY acceptThirdParty.pre.accesskey "τ">
+<!ENTITY acceptThirdParty.always.label "Πάντα">
+<!ENTITY acceptThirdParty.never.label "Ποτέ">
+<!ENTITY acceptThirdParty.visited.label "Από όσα έχω επισκευθεί">
+<!ENTITY keepUntil.label "Διατήρηση έως:">
+<!ENTITY keepUntil.accesskey "δ">
+<!ENTITY expire.label "την λήξη τους">
+<!ENTITY close.label "το κλείσιμο του &brandShortName;">
+<!ENTITY askEachTime.label "Να γίνεται ερώτηση κάθε φορά">
+<!ENTITY cookieExceptions.label "Εξαιρέσεις…">
+<!ENTITY cookieExceptions.accesskey "Ε">
+<!ENTITY showCookies.label "Εμφάνιση των cookies…">
+<!ENTITY showCookies.accesskey "φ">
 
+<!ENTITY dntTrackingNotOkay.label2 "Να ενημερώνονται οι ιστότοποι ότι δεν επιθυμώ να καταγράφεται η συμπεριφορά της περιήγησής μου">
+<!ENTITY dntTrackingNotOkay.accesskey "σ">
+<!ENTITY doNotTrackInfo.label "Μάθετε περισσότερα για την Αποτροπή καταγραφής (Do Not Track)">
