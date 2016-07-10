@@ -187,11 +187,20 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "TIP: శోధన రంగంలో దీర్ఘ నొక్కడం మరియు అప్పుడు ఫార్మాట్ తాకడం ద్వారా శోధన ప్రొవైడర్లు మీ జాబితాకు ఏ వెబ్సైట్ జోడించు; చిహ్నం.">
 <!ENTITY pref_category_advanced "ఉన్నతం">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "టాబ్లు పునరుద్ధరించు, డేటా సేవర్, డెవలపర్ టూల్స్">
 <!ENTITY pref_category_notifications "నోటిఫికేషన్‌లు">
+<!ENTITY pref_category_notifications_summary "క్రొత్త ఫీచర్లు, వెబ్సైట్ నవీకరణలు">
+<!ENTITY pref_content_notifications "వెబ్సైట్ నవీకరణలు">
+<!ENTITY pref_content_notifications_summary2 "మద్దతు సైట్ల నుండి కొత్త కంటెంట్ కనుగొనండి">
+<!ENTITY pref_developer_remotedebugging_usb "USB ద్వారా రిమోట్ డీబగ్గింగ్">
+<!ENTITY pref_developer_remotedebugging_wifi "USB ద్వారా రిమోట్ డీబగ్గింగ్">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi డీబగ్గింగ్ ఒక QR కోడ్ రీడర్ అప్లికేషన్ ఇన్స్టాల్ చేయడానికి మీ పరికరం అవసరం.">
+<!ENTITY pref_remember_signons2 "లాగిన్ గుర్తుంచుకో">
 <!ENTITY pref_manage_logins "ప్రవేశాలను నిర్వహించండి">
 
 <!ENTITY pref_category_home "ముంగిలి">
@@ -217,6 +226,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "అడ్రసు ఎంటరు చేయండి లేదా పదమును శోధించండి">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "సాధారణం">
@@ -245,20 +255,34 @@
 <!ENTITY pref_tap_to_load_images_data "వై-ఫై ద్వారా మాత్రమే">
 <!ENTITY pref_tap_to_load_images_disabled2 "నిరోధించబడింది">
 
+<!ENTITY pref_show_web_fonts "వెబ్ ఫాంట్లు చూపించు">
+<!ENTITY pref_show_web_fonts_summary2 "పేజీ లోడ్ చేయునప్పుడు రిమోట్ ఫాంట్లు డౌన్లోడ్ చేయండి">
 
+<!ENTITY pref_tracking_protection_title2 "ట్రాకింగ్ సంరక్షణ">
+<!ENTITY pref_tracking_protection_summary3 "ప్రైవేట్ బ్రౌజింగ్ ను ప్రారంభించండి">
 <!ENTITY pref_donottrack_title "ట్రాక్ చెయ్యవద్దు">
 <!ENTITY pref_donottrack_summary "మిమ్మల్ని ట్రాక్ చెయ్యవద్దనుకుంటున్నారని &brandShortName; వెబ్‌సైట్లకు తెలియజేస్తుంది">
 
 <!ENTITY pref_tracking_protection_enabled "ప్రారంభించబడింది">
+<!ENTITY pref_tracking_protection_enabled_pb "ప్రైవేట్ బ్రౌజింగ్ ను ప్రారంభించండి">
 <!ENTITY pref_tracking_protection_disabled "నిలిపివేయబడింది">
 
 <!ENTITY pref_whats_new_notification "&brandShortName;‌ లో కొత్తదనం ఏమిటి">
+<!ENTITY pref_whats_new_notification_summary "ఒక నవీకరణ తర్వాత కొత్త లక్షణాల గురించి తెలుసుకోండి">
 
+<!ENTITY tracking_protection_prompt_title "ఇప్పుడు ట్రాకింగ్ సంరక్షణతో ఉన్నది">
+<!ENTITY tracking_protection_prompt_text "కాబట్టి మీరు ఆందోళన చెందనవసరం లేదు చురుకుగా ట్రాకింగ్ అంశాలు బ్లాక్ చేయండి.">
+<!ENTITY tracking_protection_prompt_tip_text "ప్రైవసీ సెట్టింగుల గురించి మరింత తెలుసుకోవడానికి సందర్శించండి">
 <!ENTITY tracking_protection_prompt_action_button "అర్థమయింది!">
 
+<!ENTITY tab_queue_toast_message3 "&brandShortName; లో టాబ్ సేవ్ చేయండి">
 <!ENTITY tab_queue_toast_action "ఇప్పుడే తెరువు">
+<!ENTITY tab_queue_prompt_title "బహుళ లింకులు తెరవడం?">
+<!ENTITY tab_queue_prompt_text4 "మీరు బహిరంగ &brandShortName; వరకు వాటిని సేవ్ చేయండి.">
+<!ENTITY tab_queue_prompt_tip_text2 "మీరు సెట్టింగ్లలో తర్వాత మార్చవచ్చు">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "ఇతర ఆప్స్ పై గీయడం పై అనుమతించండి">
 <!ENTITY tab_queue_prompt_positive_action_button "చేతనించు">
 <!ENTITY tab_queue_prompt_negative_action_button "ఇప్పుడు కాదు">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -269,17 +293,21 @@
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; టాబ్లు వేచి ఉన్నవి">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 టాబ్ వేచి ఉన్నయి">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "\&quot;బహుళ లింకులు తెరువు\&quot;, దయచేసి ఎనేబుల్ చేయడానికి &brandShortName; అనుమతి ఇతర ఆప్స్ ను ప్రారంభించండి">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; వెబ్సైట్లు నవీకరించబడింది">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
 <!ENTITY content_notification_action_settings2 "సెట్టింగ్‌లు">
@@ -306,6 +334,7 @@
 <!ENTITY pref_plugins_tap_to_play2 "ఆడటానికి తాకండి">
 <!ENTITY pref_plugins_disabled "అచేతనం">
 <!ENTITY pref_text_size "పాఠ్య పరిమాణం">
+<!ENTITY pref_restore_tabs "టాబ్లు పునరుద్ధరించు">
 <!ENTITY pref_restore_always "ఎప్పుడూ పునరుద్ధరించు">
 <!ENTITY pref_restore_quit "&brandShortName; నుండి నిష్క్రమించిన తర్వాత పునరుద్ధరించవద్దు">
 <!ENTITY pref_font_size_tiny "అతి చిన్న">
@@ -325,9 +354,12 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "మరింత వేగం, సౌలభ్యం, భద్రతల గురించి మీ ఆకాంక్షలను ఈ చలాకీ ఆరెంజి నక్క అవలీలగా దూకేస్తుంది. ఒక లాభాపేక్ష లేని సంస్థగా, రాజీ పడాల్సిన అవసరం లేకుండా మీ తరపున విన్నూత్నీకరించడానికి మాకు స్వేచ్ఛ ఉంది. అంటే, మీకు మెరుగైన అనుభవం మరియు జాలానికి ఉజ్వల భవిష్యత్తు.">
 
+<!ENTITY pref_media_autoplay_enabled "ఆటో ప్లే అనుమతించండి">
 <!ENTITY pref_media_autoplay_enabled_summary "వెబ్‌సైట్లు వీడియోలనూ ఇతర మీడియానూ ఆటోమెటిగ్గా ఆడించవచ్చా వద్దో నియంత్రించండి">
 <!ENTITY pref_zoom_force_enabled "ఎల్లప్పుడూ జూమ్ చేతనించు">
 <!ENTITY pref_zoom_force_enabled_summary "ఏ పేజీనైనా జూమ్ చెయ్యగలిగేలా చేయండి">
+<!ENTITY pref_voice_input "వాయిస్ ఇన్పుట్">
+<!ENTITY pref_voice_input_summary2 "URL బార్లో వాయిస్ డిక్టేషన్ అనుమతించు">
 <!ENTITY pref_qrcode_enabled "QR కోడ్ రీడర్">
 <!ENTITY pref_qrcode_enabled_summary2 "URL బార్లో QR స్కానర్ అనుమతింఛండి">
 
@@ -391,6 +423,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "క్రాష్ రిపోర్టర్">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; స్థాన సేవ">
+<!ENTITY datareporting_wifi_geolocation_summary4 "సహాయం &vendorShortName; ప్రపంచాన్ని మ్యాప్! మా జియోస్థానం సేవ మెరుగుపరిచేందుకు మీ పరికరం యొక్క ఉజ్జాయింపు Wi-Fi మరియు సెల్యులార్ స్థానాన్ని భాగస్వామ్యం చేయండి.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -467,14 +500,24 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "సంకేతపదం">
 <!ENTITY doorhanger_login_edit_toggle "సంకేతపదాన్ని చూపించు">
 <!ENTITY doorhanger_login_edit_toast_error "లాగిన్ సేవ్ చేయుట విఫలమైంది">
+<!ENTITY doorhanger_login_select_message "&formatS; నుండి పాస్వర్డ్ను కాపీ చేయాలా?">
+<!ENTITY doorhanger_login_select_toast_copy "పాస్వర్డ్ క్లిప్బోర్డ్కు కాపీ చేయబడింది">
+<!ENTITY doorhanger_login_select_toast_copy_error "పాస్వర్డ్ కాపీ చేయలేకపోయింది">
+<!ENTITY doorhanger_login_select_action_text "మరో లాగిన్ ఎంచుకోండి">
+<!ENTITY doorhanger_login_select_title "నుండి పాస్వర్డ్ ను కాపీ చేయండి">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_magnifying_glass_enabled "చిన్న ప్రాంతాల్లో పెద్దది చేయండి">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "లింకులు వచ్చేలా మరియు వాటిని సమీపంలో తాకిన్నప్పుడు ఖాళీలను ఏర్పాటు చేయండి">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "నిండుతెర విహరణ">
+<!ENTITY pref_scroll_title_bar_summary2 "ఒక పేజీ డౌన్ స్క్రోల్ చేయునప్పుడు &brandShortName; టూల్బార్ దాచండి">
 
+<!ENTITY pref_tab_queue_title3 "టాబ్ క్యూ">
+<!ENTITY pref_tab_queue_summary4 "మీరు బహిరంగంగా &brandShortName; వరకు లింకులు సేవ్ చేయండి">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -519,6 +562,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; ముంగిలి">
 <!ENTITY home_history_title "చరిత్ర">
+<!ENTITY home_synced_devices_smartfolder "సింక్ చేసిన పరికరాలు">
 <!ENTITY home_synced_devices_number "&formatD; పరికరాలు">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1పరికరం">
@@ -581,14 +625,21 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "సురక్షిత కనెక్షన్">
 <!ENTITY identity_connection_insecure "అసురక్ష కనెక్షన్">
+<!ENTITY identity_login_insecure "ఈ పేజీని సురక్షితమైనది కాదు మరియు మీ లాగిన్ హాని కావచ్చు.">
+<!ENTITY identity_connection_chromeui "ఇది సురక్షిత &brandShortName; పేజీ">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ఈ పేజీలోని అసురక్షిత కంటెంట్ను బ్లాక్ చేసారు.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ఈ పేజీలోని అసురక్షిత కంటెంట్ను బ్లాక్ చేసారు.">
+<!ENTITY mixed_content_display_loaded1 "ఈ పేజీలోని భాగాలు సురక్షితం కావు (చిత్రాలు వంటివి).">
 <!ENTITY mixed_content_protection_disabled1 "మీరు అసురక్షిత కంటెంట్ నుండి రక్షణను నిలిపివేశారు.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "ట్రాకింగ్ సంరక్షణ">
 <!ENTITY doorhanger_tracking_state_enabled "ప్రారంభించబడింది">
 <!ENTITY doorhanger_tracking_state_disabled "అపివేయబడినది">
+<!ENTITY doorhanger_tracking_message_enabled1 "మీ ఆన్లైన్ ప్రవర్తనను ట్రాక్ చేయడానికి ప్రయత్నాలు బ్లాక్ చేశారు.">
+<!ENTITY doorhanger_tracking_message_disabled2 "ఈ పేజీ మీ బ్రౌజింగ్ ను ట్రాక్ చేయడానికి అంశాలను కలిగి ఉంది.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "మరింత తెలుసుకోండి">
@@ -598,6 +649,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "అంతరంగిక భోగట్టా తుడిచివేయబడింది">
 <!ENTITY private_data_fail "కొంత అంతరంగిక భోగట్టాను తుడిచివేయలేకపోయాం">
 
+<!ENTITY bookmarkhistory_button_import "దిగుమతి చేయండి">
 <!ENTITY bookmarkhistory_import_both "ఇష్టాంశాలు మరియు చరిత్ర దిగుమతి ఆండ్రాయిడ్ నుండి">
 <!ENTITY bookmarkhistory_import_bookmarks "ఇష్టాంశాల దిగుమతి ఆండ్రాయిడ్ నుండి">
 <!ENTITY bookmarkhistory_import_history "చిరిత్ర దిగుమతి ఆండ్రాయిడ్ నుండి">
@@ -634,7 +686,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "ఫైళ్లు మరియు నవీకరణలను దిగుమతి అనుమతించటానికి &brandShortName; ప్రాప్యత నిల్వ అనుమతిస్తుంది.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "అనుమతించు">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "కొత్త అతిథి సెషన్">
