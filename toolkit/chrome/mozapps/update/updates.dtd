@@ -55,7 +55,7 @@
 <!ENTITY  finishedBackground.name         "Naujinimas:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Naujinimas bus įdiegtas kitą kartą paleidus „&brandShortName;“. Galite paleisti „&brandShortName;“ iš naujo dabar, arba tęsti darbą ir tai padaryti vėliau.">
-
+<!ENTITY  finishedBackground.moreElevated "Šis naujinimas reikalauja administratoriaus teisių. Naujinimas bus įdiegtas kitą kartą paleidžiant „&brandShortName;“. Galite perleisti „&brandShortName;“ dabar, tęsti darbą ir perleisti vėliau, arba atsisakyti šio naujinimo.">
 
 <!ENTITY  update.details.label            "Išsamiau">
 <!ENTITY  update.installedOn.label        "Įdiegta:">
