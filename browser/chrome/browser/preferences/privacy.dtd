@@ -2,35 +2,35 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY tracking.label                 "Следење">
 
-<!ENTITY doNotTrack.label               "Кажи им на мрежните места дека на сакам да ме следат">
-<!ENTITY doNotTrack.accesskey           "д">
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  history.label                 "Историја">
 
 <!ENTITY  locationBar.label             "Локациска лента">
 
-<!ENTITY  locbar.pre.label              "Кога ја користите локациската лента, предлози од:">
-<!ENTITY  locbar.pre.accessKey          "з">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Историја и Обележувачи">
 <!ENTITY  locbar.history.label          "Историја">
+<!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Обележувачи">
-<!ENTITY  locbar.nothing.label          "Ништо">
+
 
 <!ENTITY  acceptCookies.label           "Прифаќај колачиња од места">
 <!ENTITY  acceptCookies.accesskey       "м">
 
-<!ENTITY  acceptThirdParty.label        "Прифаќај колачиња од трети страни">
-<!ENTITY  acceptThirdParty.accesskey    "т">
+<!ENTITY  acceptThirdParty.pre.label      "Прифаќај колачиња од други места:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "к">
+<!ENTITY  acceptThirdParty.always.label   "Секогаш">
+<!ENTITY  acceptThirdParty.never.label    "Никогаш">
+<!ENTITY  acceptThirdParty.visited.label  "Од посетени">
 
 <!ENTITY  keepUntil.label               "Колачињата се чуваат:">
 <!ENTITY  keepUntil.accesskey           "К">
 
 <!ENTITY  expire.label                  "додека не истечат">
 <!ENTITY  close.label                   "до излез од &brandShortName;">
-<!ENTITY  askEachTime.label             "прашај ме секој пат">
 
 <!ENTITY  cookieExceptions.label        "Исклучоци…">
 <!ENTITY  cookieExceptions.accesskey    "И">
@@ -46,10 +46,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ќе ги памти Вашите формулари и пребарувања, историјата на сурфање и преземања, и ќе чува колачиња од интернет места кои ги посетувате.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Или пак, можеби ќе сакате да ">
 <!ENTITY  rememberActions.clearHistory.label  "ја исчистите вашата скорешна историја">
 <!ENTITY  rememberActions.middle.label        ", или ">
@@ -57,9 +57,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ќе ги користи истите поставки како и за приватното сурфање, и нема да ја памти историјата додека сурфате на интернет.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "Или пак, можеби ќе сакате да ">
 <!ENTITY  dontrememberActions.clearHistory.label "исчисти ја целата моментална историја">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -78,18 +78,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Поставки…">
 <!ENTITY  clearOnCloseSettings.accesskey "П">
-
-<!ENTITY  acceptThirdParty.always.label   "Секогаш">
-<!ENTITY  acceptThirdParty.never.label    "Никогаш">
-<!ENTITY  acceptThirdParty.pre.accesskey  "к">
-
-<!ENTITY  acceptThirdParty.pre.label      "Прифаќај колачиња од други места:">
-<!ENTITY  acceptThirdParty.visited.label  "Од посетени">
-<!ENTITY dntTrackingNopref.accesskey    "о">
-
-<!ENTITY dntTrackingNopref.label        "Не им кажувај на местата за моите преференции за следење.">
-<!ENTITY dntTrackingNotOkay.accesskey   "н">
-<!ENTITY dntTrackingNotOkay.label       "Кажи им на местата дека не сакам да ме следат.">
-<!ENTITY dntTrackingOkay.accesskey      "т">
-<!ENTITY dntTrackingOkay.label          "Кажи им на местата дека сакам да ме следат.">
-<!ENTITY doNotTrackInfo.label           "Дознај повеќе">
