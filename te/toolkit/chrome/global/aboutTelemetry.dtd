@@ -8,17 +8,28 @@
 
 <!ENTITY aboutTelemetry.uploadEnabled "FHR డేటా అప్లోడ్ <span> ఎనేబుల్ </span> ఉంది .">
 
+<!ENTITY aboutTelemetry.uploadDisabled "FHR డేటా అప్లోడ్ <span> ఎనేబుల్ </span> ఉంది .">
 
 
 
+<!ENTITY aboutTelemetry.pingDataSource "పింగ్ డేటా మూలం :">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "ప్రస్తుత పింగ్ డేటా">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "బధ్రపరిచారు పింగ్ డేటా">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "పింగ్ డేటా ప్రదర్శన :">
 
+<!ENTITY aboutTelemetry.structured "
+నిర్మితీకృత">
 
+<!ENTITY aboutTelemetry.raw "రా JSON">
 
+<!ENTITY aboutTelemetry.showSubsessionData "ఉప సెషన్ డేటా చూపించు">
 
+<!ENTITY aboutTelemetry.choosePing "పింగ్ ఎంచుకోండి:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&Lt; &lt; క్రొత్త పింగ్">
 
 
 
