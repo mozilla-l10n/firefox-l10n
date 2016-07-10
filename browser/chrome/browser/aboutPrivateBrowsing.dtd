@@ -27,4 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Приватно прелистување">
 
 <!ENTITY trackingProtection.title                        "Заштита од следење">
+<!ENTITY trackingProtection.description2                 "Некои страници користат следачи кои може ја мониторираат вашата активност на Интернет. Со Заштита од следење Firefox ќе блокира многу следачи кои собираат информации за Вашата навика при користење на Интернет.">
 <!ENTITY trackingProtection.startTour1                   "Погледнете како работи">
