@@ -5,11 +5,16 @@
 <!ENTITY firstrun_panel_title_welcome "స్వాగతం">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName;‌కి స్వాగతం">
+<!ENTITY firstrun_urlbar_subtext "ఉపయోగపడే శోధన సలహా షార్ట్కట్స్ తో వేగంగా విషయాలు వెతుకుము.">
 <!ENTITY firstrun_bookmarks_title "చరిత్ర">
+<!ENTITY firstrun_bookmarks_message "మీ ఫేవ్స్, ముందు మరియు సెంటర్">
+<!ENTITY firstrun_bookmarks_subtext "మీరు శోధించినప్పుడు మీ బుక్మార్క్లు మరియు చరిత్ర నుండి ఫలితాలను పొందండి.">
 <!ENTITY firstrun_data_title "దత్తాంశం">
 <!ENTITY firstrun_data_message "తక్కువ డేటా, మరింత పొదుపు">
+<!ENTITY firstrun_data_subtext2 "మీరు సందర్శించే ప్రతి సైట్ డేటాను తక్కువగా ఖర్చు పెట్టడానికి చిత్రాలు ఆపివేయండి.">
 <!ENTITY firstrun_sync_title "సింక్">
 <!ENTITY firstrun_sync_message "&brandShortName;, ఎల్లప్పుడూ మీ పక్షమే">
+<!ENTITY firstrun_sync_subtext "మీ టాబ్లు, పాస్వర్డ్లను సింక్ చేయండి, మరియు ప్రతిచోటా మీరు దాన్ని ఉపయోగించండి.">
 <!ENTITY firstrun_signin_message "కనెక్ట్ చేసుకోగా, ప్రారంభించడానికి">
 <!ENTITY firstrun_signin_button "సింక్ లోనికి ప్రవేశించండి">
 <!ENTITY  onboard_start_button_browser "విహరణ మొదలుపెట్టండి">
@@ -19,17 +24,21 @@
 <!ENTITY firstrun_tabqueue_title "లింకులు">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "టాబ్ క్యూ ఆన్ చేయండి">
+<!ENTITY firstrun_tabqueue_subtext_off "ఇతర ఆప్స్ ని నొక్కేటప్పుడు తరువాత &brandShortName; కోసం లింకులు సేవ్ చేయండి.">
 
 <!ENTITY firstrun_tabqueue_message_on "సఫలం!">
+<!ENTITY firstrun_tabqueue_subtext_on "మీరు ఎల్లప్పుడూ నేపథ్యంలో ఆఫ్ చెయ్యవచ్చు; కింద & pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "వ్యాసాలు">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "అయోమయ లూస్">
+<!ENTITY firstrun_readerview_subtext "ఆఫ్లైన్లో కూడా చదవడానికి \u2014 వ్యాసాలు బాగా చేయడానికి రీడర్స్ వీక్షణ ఉపయోగించవచ్చు.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "నీవు">
 <!ENTITY firstrun_account_message "మరొక &brandShortName; ఉన్నదా?">
 
+<!ENTITY  onboard_start_restricted1 "&brandShortName; యొక్క ఈ సరళీకృత వెర్షన్ తో సురక్షితమైన మరియు నియంత్రణలో ఉంచండి.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -64,6 +73,7 @@
 <!ENTITY bookmark_removed "ఇష్టాంశం తొలగించబడింది">
 <!ENTITY bookmark_updated "ఇష్టాంశం తాజాకరించబడింది">
 <!ENTITY bookmark_options "ఎంపికలు">
+<!ENTITY screenshot_added_to_bookmarks "స్క్రీన్షాట్ బుక్మార్క్లకు జోడించబడింది">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -113,10 +123,12 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "ఆడియో ప్లే చేయండి – &formatS;">
 
 <!ENTITY settings "అమరికలు">
 <!ENTITY settings_title "అమరికలు">
 <!ENTITY pref_category_general "సాధారణం">
+<!ENTITY pref_category_general_summary3 "హోం, భాష, టాబ్ క్యూ">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
