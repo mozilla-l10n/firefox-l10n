@@ -158,6 +158,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "Споделете го ова видео">
 <!ENTITY shareVideo.accesskey "r">
+<!ENTITY feedsMenu2.label "Претплати се на оваа страница">
 <!ENTITY subscribeToPageMenupopup.label "Претплати се на оваа страница">
 <!ENTITY subscribeToPageMenuitem.label "Претплати се на оваа страница…">
 <!ENTITY addCurPagesCmd.label "Обележи ги сите јазичиња…">
@@ -185,9 +186,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Печати">
 <!ENTITY printButton.tooltip          "Ја печати оваа страница">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Видете ги информациите за веб-сајтот">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Проверете дали сакате да ја зачувате Вашата лозинка">
 
 
 
