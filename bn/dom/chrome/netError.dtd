@@ -19,6 +19,7 @@
 <!ENTITY fileNotFound.title "ফাইল পাওয়া যায়নি">
 <!ENTITY fileNotFound.longDesc "<ul><li>আইটেমটির নাম অথবা স্থান পরিবর্তিত হওয়া অথবা সেটি মুছে ফেলার সম্ভাবনা রয়েছে কি?</li><li>ঠিকানা লেখার সময় অক্ষরের ছাঁদ, অশুদ্ধ বানান অথবা অন্য কোনো ত্রুটি রয়েছে কি?</li><li>অনুরোধ করা আইটেমটি ব্যবহারের জন্য যথাযথ অনুমতি আছে কি?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "ফাইলে প্রবেশাধিকার প্রত্যাখ্যাত হয়েছে">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>এটা মুছে ফেলা হতে পারে, সরিয়ে নেয়া হতে পারে, অথবা ফাইল প্রবেশাধিকার প্রতিরোধ করা হয়ে থাকতে পারে।</li></ul>">
 
 <!ENTITY generic.title "অনুরোধ পূরণ করা সম্ভব নয়">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "রিমোট XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>এই সমস্যাটি সম্পর্কে জানাতে অনুগ্রহ করে ওয়েবসাইটের মালিকের যোগাযোগ করুন।</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "আপনার সংযোগ নিরাপদ নয়">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> মেয়াদহীন নিরাপত্তা প্রযুক্তি ব্যবহার করছে যা আক্রমণের শিকার হতে পারে। আপনি হয়তো একে নিরাপদ মনে করছেন, কিন্তু একজন আক্রমণকারী খুব সহজেই আপনার তথ্য জেনে নিতে পারবে। ওয়েবসাইটের এডমিন এই সার্ভারের নিরাপত্তা ত্রুটি সারানোর আগ পর্যন্ত আপনি ভিজিট করতে পারবেন না।</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
