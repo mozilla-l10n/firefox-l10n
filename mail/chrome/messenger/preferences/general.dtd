@@ -10,6 +10,9 @@
 <!ENTITY useDefault.label                 "Επαναφορά προεπιλογών">
 <!ENTITY useDefault.accesskey             "π">
 
+<!ENTITY changeDockIconOptions.label      "Αλλαγή προτιμήσεων για το εικονίδιο της εφαρμογής">
+<!ENTITY dockOptions.label                "Επιλογές Εικονιδίου Εφαρμογής…">
+<!ENTITY dockOptions.accesskey            "Ε">
 
 <!ENTITY newMessagesArrive.label          "Όταν φθάνουν νέα μηνύματα:">
 <!ENTITY playSound.label                  "Αναπαραγωγή ενός ήχου">
@@ -19,6 +22,8 @@
 <!ENTITY customizeMailAlert.label         "Προσαρμογή…">
 <!ENTITY customizeMailAlert.accesskey     "μ">
 
+<!ENTITY showTrayIcon.label               "Εμφάνιση εικονιδίου στην μπάρα">
+<!ENTITY showTrayIcon.accesskey           "μ">
 
 <!ENTITY play.label                       "Αναπαραγωγή">
 <!ENTITY play.accesskey                   "π">
@@ -31,3 +36,4 @@
 <!ENTITY browse.label                     "Εξερεύνηση…">
 <!ENTITY browse.accesskey                 "ξ">
 
+<!ENTITY defaultSearchEngine.label        "Προεπιλεγμένη μηχανή αναζήτησης">

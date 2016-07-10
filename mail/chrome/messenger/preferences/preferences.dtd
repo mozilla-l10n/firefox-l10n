@@ -12,7 +12,12 @@
 <!ENTITY paneGeneral.title        "Γενικά">
 <!ENTITY paneDisplay.title        "Εμφάνιση">
 <!ENTITY paneComposition.title    "Σύνταξη">
+<!ENTITY paneChat.title           "Συνομιλία">
 <!ENTITY paneAttachments.title    "Συνημμένα">
+<!ENTITY panePrivacy.title        "Ιδιωτικότητα">
 <!ENTITY paneSecurity.title       "Ασφάλεια">
 <!ENTITY paneAdvanced.title       "Για προχωρημένους">
+<!ENTITY paneAccount.title        "Λογαριασμοί">
 
+<!ENTITY okButton.title           "ΟΚ">
+<!ENTITY okButton.accesskey       "Ο">

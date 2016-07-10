@@ -15,6 +15,7 @@
 <!ENTITY recentlyClosedTabsCmd.label "Πρόσφατα κλεισμένες καρτέλες">
 <!ENTITY recentlyClosedTabsCmd.accesskey "φ">
 
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
