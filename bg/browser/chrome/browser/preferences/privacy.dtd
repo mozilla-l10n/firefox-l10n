@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  doNotTrack.pre.label          "Можете също ">
-<!ENTITY  doNotTrack.settings.label     "да управлявате настройките на Без следене">
+<!ENTITY  doNotTrack.settings.label     "да управлявате настройките на Без проследяване">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "История">

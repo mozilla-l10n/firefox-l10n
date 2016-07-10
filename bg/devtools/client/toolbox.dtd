@@ -106,6 +106,8 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
+<!ENTITY options.disableHTTPCache.label     "Изключване на кеша на HTTP (докато кутията с инструменти е отворена)">
+<!ENTITY options.disableHTTPCache.tooltip   "Когато е избрана тази отметка кеша на HTTP, за всички раздели с отворена кутия с инструменти, ще бъде изключен.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
