@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -17,8 +17,8 @@
 
 <!ENTITY appmenu.tooltip                     "మెనుని తెరువు">
 <!ENTITY navbarOverflow.label                "మరిన్ని పనిముట్లు…">
-<!-- Tab context menu -->
 
+<!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "టాబ్ తిరిగి లోడ్‌చేయి">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "అన్ని టాబ్‌లను తిరిగిలోడ్ చేయి">
@@ -30,12 +30,12 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "వేరే ట్యాబులను మూసివేయి (o)">
 <!ENTITY  closeOtherTabs.accesskey           "o">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
 <!ENTITY  pinTab.label                       "పిన్ టాబ్">
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "గుచ్చినటాబ్ తీయుము">
@@ -119,12 +119,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "పూర్తితెర రీతిని నిష్క్రమించుము">
 <!ENTITY fullScreenExit.accesskey "F">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "ఇప్పుడు పూర్తి తెరలో వుంది">
 <!ENTITY fullscreenWarning.generic.label "ఈ పత్రం ఇప్పుడు పూర్తి తెరలో వుంది">
@@ -161,18 +161,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ఈ వీడియోను పంచుకోండి">
 <!ENTITY shareVideo.accesskey "r">
-
-
+<!ENTITY feedsMenu2.label "ఈ పేజీకి సబ్స్క్రైబ్ అవ్వండి">
+<!ENTITY subscribeToPageMenupopup.label "ఈ పేజీకి సబ్స్క్రైబ్ అవ్వండి">
 <!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకి చందాదారు కండి...">
 <!ENTITY addCurPagesCmd.label "అన్ని టాబ్ లను ఇష్టాంశముచేయుము...">
 <!ENTITY showAllBookmarks2.label "అన్ని యిష్టాంశములను చూపుము">
-
-
+<!ENTITY recentBookmarks.label "ఇటీవల బుక్మార్కు చేసినది">
+<!ENTITY otherBookmarksCmd.label "ఇతర బుక్మార్కులు">
 <!ENTITY bookmarksToolbarChevron.tooltip "మరికొన్ని ఇష్టాంశములను చూపు">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "ఇటీవల బుక్మార్కు చేసినవి చూపించు">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "ఇటీవల బుక్మార్కు చేసినవి దాచిపెట్టు">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "వెనుకకు">
 <!ENTITY backButton.tooltip           "ఒక పేజీ వెనుకకు వెళ్ళుము">
@@ -200,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "మీ లాగిన్ సమాచారం నిర్వహించండి">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "మీ సంకేతపదం దాచుకోవడానికి చెక్ చేయండి">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "ఈ పేజీలో చొప్పింత వాడుకను నిర్వహించండి">
-
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "మీరు సైట్ నుండి నోటిఫికేషన్లు అందుకుంటారో లేదో మార్చండి">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకోడాన్ని నిర్వహించుకోండి">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకుంటున్నారు">
@@ -218,22 +218,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.openHistoryPopup.tooltip                "చరిత్రను చూపించు">
 
 <!ENTITY searchItem.title             "వెతుకు">
-<!-- Toolbar items --> 
 
+<!-- Toolbar items --> 
 <!ENTITY homeButton.label             "ముంగిలి">
 
 <!ENTITY bookmarksButton.label          "ఇష్టాంశాలు">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "ఇష్టాంశాలు">
-
+<!ENTITY bookmarksMenuButton.other.label "ఇతర బుక్మార్కులు">
 <!ENTITY viewBookmarksSidebar2.label        "ఇష్టాంశాల ప్రక్కపట్టీని చూడండి">
 <!ENTITY viewBookmarksToolbar.label         "ఇష్టాంశముల సాధనపట్టీను దర్శించుము">
+
+<!ENTITY containersMenu.label "కంటెయినర్ లు">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
@@ -282,9 +283,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "కత్తిరించు">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "కాపీ చేయి">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "అతికించు">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -336,16 +337,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "సింకైన ట్యాబులు">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "తెరిచివున్న ట్యాబులు లేవు">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి టాబ్ సింక్ ను ఆన్ చేయండి.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.title "సింక్ చేయబడిన ట్యాబ్లు లేవు... ఇంకా!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "ఇక్కడ ఇతర పరికరాల నుండి మీ టాబ్లు చూడాలనుకుంటున్నారా?">
+<!ENTITY appMenuRemoteTabs.openprefs.label "సింక్ ప్రాధాన్యతలు">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి సైన్ ఇన్ అవ్వండి.">
+<!ENTITY appMenuRemoteTabs.signin.label "సింక్ లోనికి సైన్ ఇన్ అవ్వండి">
+<!ENTITY appMenuRemoteTabs.sidebar.label "సింక్ చేయబడిన టాబ్లు సైడ్బార్ చూడండి">
 
 <!ENTITY customizeMenu.addToToolbar.label "పనిముట్లపట్టీకి జతచేయి (A)">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -379,6 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "అవును">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -399,36 +404,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
-
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
-
 <!ENTITY contentSearchInput.label     "వెతకవలసిన ప్రశ్న">
 <!ENTITY contentSearchSubmit.label    "వెతకమని చెప్పు">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-
 <!ENTITY searchFor.label              "దీని కొరకు అన్వేషించు ">
 <!ENTITY searchWith.label             " దీనితో:">
+
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-
 <!ENTITY search.label                 " శోధన">
 <!ENTITY searchAfter.label            "">
+
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-
 <!ENTITY searchWithHeader.label       "దీనితో అన్వేషించు:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -452,8 +456,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "ఫ్రేమ్ ని కొత్త విండోనందు తెరువుము">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "లింకును కొత్త కంటైనర్ ట్యాబ్లో తెరువండి">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "ఈ ఫ్రేమ్ ను మాత్రమే చూపుము">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -536,11 +540,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "ఈ ఫ్రేమ్">
 <!ENTITY thisFrameMenu.accesskey          "h">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-
 <!ENTITY mediaPlay.label             "ఆడించు (P)">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "కొద్దిసేపు ఆపు">
@@ -552,22 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ధ్వనిని ప్రవేశపెట్టు">
 <!ENTITY mediaUnmute.accesskey       "m">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "నడిపే వేగం">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "నిధానము (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "సాధారణం">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "వేగము (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "మరింత వేగము (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "హాస్యాస్పదం (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "లూప్">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -586,18 +591,17 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "గణాంకాలు మరుగునవుంచు">
 <!ENTITY videoHideStats.accesskey    "t">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
 <!ENTITY fullZoomEnlargeCmd.label       "జూమ్‌చేయి">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "జూమ్ తగ్గించు">
@@ -676,17 +680,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "సురక్షిత అనుసంధానం">
 <!ENTITY identity.connectionNotSecure "అనుసంధానం సురక్షితం కాదు">
 <!ENTITY identity.connectionFile "ఈ పేజీ మీ కంప్యూటర్ నందు వుంచబడును.">
-
+<!ENTITY identity.connectionVerified2 "మీరు సురక్షితంగా యాజమాన్యంలో, ఈ సైట్ కు కనెక్ట్ అయ్యారు:">
 <!ENTITY identity.connectionInternal "ఇది సురక్షిత &brandShortName; పేజీ.">
+<!ENTITY identity.insecureLoginForms2 "ఈ పేజీలోని ప్రవేశించిన లాగిన్ లు రాజీపడతాయి.">
 
 <!-- Strings for connection state warnings. -->
-
 <!ENTITY identity.activeBlocked "సురక్షితంకాని భాగాలను &brandShortName; ఈ పేజీనందు నిరోధించినది.">
 <!ENTITY identity.passiveLoaded "ఈ పేజీలోని భాగాలు సురక్షితం కావు (చిత్రాలు వంటివి).">
 <!ENTITY identity.activeLoaded "ఈ పేజీకి రక్షణను మీరు అచేతనం చేసారు.">
 <!ENTITY identity.weakEncryption "ఈ పేజీ బలహీనమైన ఎన్క్రిప్షన్ ఉపయోగిస్తోంది.">
-<!-- Strings for connection state warnings in the subview. -->
 
+<!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "ఈ సైటుకు మీరు గుట్టుగా అనుసంధానం కావడంలేదు. మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డ్స్, మొదలగునవి).">
 <!ENTITY identity.description.insecureLoginForms "ఈ పేజీలో మీరు అందించిన లాగిన్ సమాచారం సురక్షితంకాదు మరియు రాజీపడవచ్చు.">
 <!ENTITY identity.description.weakCipher "ఈ వెబ్‌సైటుతో మీ అనుసంధానం బలహీనమైన ఎన్క్రిప్షన్‌తో వుంది మరియు గుట్టుగా లేదు.">
@@ -705,39 +709,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.learnMore "మరింత తెలుసుకోండి">
 
 
-
 <!ENTITY identity.moreInfoLinkText2 "మరింత సమాచారం">
 
 <!ENTITY identity.permissions "అనుమతులు">
 <!ENTITY identity.permissionsEmpty "ఈ సైటుకి మీరు ఎటువoటి ప్రత్యేక అనుమతులూ ఇవ్వలేదు.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-
 <!ENTITY tabsToolbar.label "విహారిణి టాబ్‌లు">
+
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-
 <!ENTITY syncTabsMenu3.label     "సింకైన ట్యాబులు">
-
-
-
-
-
-
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "తెరువు">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "కొత్త టాబ్‌ నందు తెరువుము">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "కొత్త విండో నందు తెరువుము">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "కొత్త ప్రైవేట్ విండోలో తెరువు">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ఈ టాబ్ బుక్మార్క్ చెయ్యి...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "కాపీ చేయి">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "సింక్">
@@ -837,35 +835,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "అన్నీ చూపించు (S)">
 <!ENTITY pluginNotification.showAll.accesskey "S">
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "ఇప్పుడు అనుమతించు">
 <!ENTITY pluginActivateAlways.label "అనుమతించి గుర్తుపెట్టుకో">
 <!ENTITY pluginBlockNow.label "ప్లగిన్ను నిరోధించు">
+
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
-
 <!ENTITY pluginNotification.width "32em">
 
 <!ENTITY uiTour.infoPanel.close "మూసివేయి">
 
 <!ENTITY appMenuSidebars.label         "పక్కపట్టీలు">
+
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-
 <!ENTITY panicButton.view.mainTimeframeDesc       "ఈ గతాన్ని మరిచిపో:">
 <!ENTITY panicButton.view.5min                    "ఐదు నిమిషాలు">
 <!ENTITY panicButton.view.2hr                     "రెండు గంటలు">
 <!ENTITY panicButton.view.day                     "24 గంటలు">
+
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
 <!ENTITY panicButton.view.mainActionDesc          "కొనసాగితే జరిగేవి:">
 <!ENTITY panicButton.view.deleteCookies           "ఇటీవలి <html:strong>కుకీలు</html:strong> తొలగించు">
 <!ENTITY panicButton.view.deleteHistory           "ఇటీవలి <html:strong>చరిత్ర</html:strong> తొలగించు">
