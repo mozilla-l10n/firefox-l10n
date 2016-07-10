@@ -51,6 +51,8 @@ their language.
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
+<!ENTITY tabgroupsmigration.tabtitle            "Migrează celelalte grupuri de file">
+
 
 
 
