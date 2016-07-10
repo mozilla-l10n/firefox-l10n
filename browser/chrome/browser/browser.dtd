@@ -751,7 +751,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "ลงชื่อเข้าใช้ &syncBrand.shortName.label;">
+<!ENTITY syncSignIn.label             "ลงชื่อเข้าใช้ &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "ซิงค์ตอนนี้">
 <!ENTITY syncSyncNowItem.accesskey    "ซ">

@@ -4,7 +4,7 @@
 
 
 <!ENTITY  history.title             "ประวัติการปรับรุ่น">
-<!ENTITY  history.intro             "รายการชุดปรับรุ่นที่ติดตั้งแล้ว :">
+<!ENTITY  history.intro             "การปรับปรุงดังต่อไปนี้ได้รับการติดตั้งแล้ว:">
 <!ENTITY  closebutton.label         "ปิด">
                                      
 <!ENTITY  noupdates.label           "ยังไม่มีการติดตั้งชุดปรับรุ่น">
