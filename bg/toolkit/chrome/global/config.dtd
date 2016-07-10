@@ -8,7 +8,7 @@
 
 <!ENTITY aboutWarningTitle.label "Това ще отмени всякакви гаранции за стабилност!">
 <!ENTITY aboutWarningText.label "Промяната на тези настройки за напреднали може да се отрази пагубно върху стабилността, безопасността и производителността на приложението. Продължете само ако сте сигурни какво правите.">
-
+<!ENTITY aboutWarningButton2.label "Приемам риска!">
 <!ENTITY aboutWarningCheckbox.label "Показване на предупреждението и следващия път">
 
 <!ENTITY searchPrefs.label "Търсене:">
