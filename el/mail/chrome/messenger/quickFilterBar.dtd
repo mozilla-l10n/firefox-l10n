@@ -158,52 +158,69 @@
      the messages and that there is a hotkey they can press to get to the
      box faster.
      -->
+<!ENTITY quickFilterBar.textbox.emptyText.base1
+         "Φιλτράρισμα των μηνυμάτων #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2
+         "k">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
      linux (which use the control key).  This should match the value of
      quickFilterBar.show.key above.
      -->
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac
+         "&lt;Ctrl+Shift+K&gt;">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
      The description of the key-binding to get into the box on mac systems.
      This should match the value of quickFilterBar.show.key above.
      -->
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac
+         "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanMode.tooltip "Μέθοδος φιλτραρίσματος ετικετών">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAny.label "Οποιοδήποτε">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Τουλάχιστον ένα από τα επιλεγμένα κριτήρια ετικετών θα πρέπει να ταιριάζουν">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAll.label "Όλες">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Όλα από τα επιλεγμένα κριτήρια ετικετών θα πρέπει να ταιριάζουν">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
      Choose this value so that the emptyText fits nicely with a little bit of
      extra whitespace.
      -->
+<!ENTITY quickFilterBar.textbox.idealWidth
+         "320">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.minWidth):
      The minimum width of the quick filter textbox in pixels.  This is the size
      which we should refuse to flex below.  When we hit this size, the buttons
      with labels will have their labels collapsed.
      -->
+<!ENTITY quickFilterBar.textbox.minWidth
+         "280">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.explanation.label):
      This label explains what the sender/recipients/subject/body buttons do.
