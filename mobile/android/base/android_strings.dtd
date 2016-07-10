@@ -696,6 +696,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "కొనసాగించు">
 <!ENTITY guest_session_dialog_cancel "రద్దుచేయి">
 <!ENTITY new_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
+<!ENTITY new_guest_session_text2 "అది ఉపయోగిస్తున్న వ్యక్తి మీ వ్యక్తిగత బ్రౌజింగ్ డేటా (సేవ్ లాగిన్, చరిత్ర లేదా బుక్మార్క్లు) చూడటానికి చెయ్యగలరు. \n \n మీ అతిథి చేసుంటే, వారి బ్రౌజింగ్ డేటా తొలగించబడుతుంది మరియు మీ సెషన్ పునరుద్ధరించబడుతుంది.">
 <!ENTITY guest_browsing_notification_title "అతిథి విహారణ చేతనమైంది">
 <!ENTITY guest_browsing_notification_text "తాకి నిష్క్రమించు">
 
@@ -716,6 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
@@ -739,6 +741,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "ఈ లింక్ &formatS;లో తెరుచుకుంటుంది. మీరు ఖచ్చితంగా ప్రైవేట్ బ్రౌజింగ్ నుండి నిష్క్రమించాలనుకుంటున్నారా?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -746,6 +749,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "ప్రైవేట్ బ్రౌజింగ్ నిష్క్రమించాలా?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -753,24 +757,40 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+<!ENTITY devtools_auth_scan_header "మీ ఇతర సాధనంలో QR కోడ్ స్కాన్ చేస్తొంది">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "యాడ్-ఆన్స్‍">
+<!ENTITY restrictable_feature_addons_installation_description "ఫైర్ఫాక్స్ లక్షణాలు లేదా కార్యాచరణ జోడించండి. గమనిక: ఆడ్డన్స్ నిర్దిష్ట పరిమితులను నిలిపివేయవచ్చు.">
 <!ENTITY restrictable_feature_private_browsing "అంతరంగిక విహారణ">
+<!ENTITY restrictable_feature_private_browsing_description "కుటుంబ సభ్యులు వారు సందర్శించిన సైట్లు మరియు పేజీల గురించి సమాచారాన్ని సేవ్ చేయకుండా బ్రౌజ్ చేయడానికి అనుమతిస్తుంది.">
+<!ENTITY restrictable_feature_clear_history "చరిత్రను క్లియర్ చేయి">
+<!ENTITY restrictable_feature_clear_history_description "కుటుంబ సభ్యులు వారు సందర్శించిన సైట్లు మరియు పేజీల గురించి సమాచారాన్ని సేవ్ చేయకుండా బ్రౌజ్ చేయడానికి అనుమతిస్తుంది.">
 <!ENTITY restrictable_feature_advanced_settings "ఉన్నత అమరికలు">
+<!ENTITY restrictable_feature_advanced_settings_description "ఇది బుక్మార్క్లు దిగుమతి, టాబ్లు పునరుద్ధరించడం మరియు ఆటోమేటిక్ అప్డేట్లను కలిగి ఉంటుంది. ఏ కుటుంబ సభ్యుడు అనుకూలంగా సరళీకృత సెట్టింగులను కోసం ఆపివేయండి.">
+<!ENTITY restrictable_feature_camera_microphone "కెమెరా మరియు మైక్రోఫోన్">
+<!ENTITY restrictable_feature_camera_microphone_description "వెబ్సైట్లలో నిజ సమయంలో కమ్యూనికేషన్ చేయటం కుటుంబ సభ్యులు అనుమతిస్తుంది.">
+<!ENTITY restrictable_feature_block_list "నిరోధిత జాబితా">
+<!ENTITY restrictable_feature_block_list_description "సున్నితమైన కంటెంట్ను కలిగిన వెబ్సైట్లు బ్లాక్ చేయండి.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "ఫైర్ఫాక్స్: మీ బ్రౌజర్ గురించి">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "ఫైర్ఫాక్సు: యాడాన్లతో అభిమతీకరించుకోండి">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "ఫైర్‌ఫాక్స్: మద్దత్తు">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "ఫైర్ఫాక్స్ సహాయం మరియు ఆండ్రాయిడ్ టాబ్లెట్లలో పరిమితం ప్రొఫైల్స్ మద్దతు">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "వెబ్ గురించి నేర్చుకోండి: మొజిల్లా ఆధారితం వెబ్ మేకర్">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "క్షమించాలి! ఈ &brandShortName; ఈ పరికరంలో పని చేయదు (&formatS1;, &formatS2;). సరైన వెర్షన్ డౌన్లోడ్ చెయ్యండి.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; ఇక పై నవీకరించబడదు">
 <!ENTITY eol_notification_summary "ఇంకా తెలుసుకోడానికి ఇక్కడ తాకండి">
