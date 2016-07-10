@@ -11,8 +11,9 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
+<!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2/3): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
+<!ENTITY netmonitorUI.perfNotice1         "• Κάντε κλικ στο">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
@@ -28,6 +29,9 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
+
+<!-- LOCALIZATION NOTE (netmonitorUI.toolbar.cause): This is the label displayed
+  -  in the network table toolbar, above the "cause" column. -->
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
@@ -91,6 +95,9 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFlash): This is the label displayed
   -  in the network details footer for the "Flash" filtering button. -->
 
+<!-- LOCALIZATION NOTE (netmonitorUI.footer.filterWS): This is the label displayed
+  -  in the network details footer for the "WS" filtering button. -->
+
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
 
@@ -132,9 +139,6 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.response.mime): This is the label displayed
   -  in the network details response tab identifying an image's mime. -->
-
-<!-- LOCALIZATION NOTE (netmonitorUI.response.encoding): This is the label displayed
-  -  in the network details response tab identifying an image's encoding. -->
 
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.blocked): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
