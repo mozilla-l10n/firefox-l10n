@@ -16,6 +16,7 @@
 <!ENTITY clearTimeDuration.everything     "Όλα">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
+<!ENTITY clearTimeDuration.suffix         "">
 
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
@@ -23,6 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Λεπτομέρειες">
 <!ENTITY detailsProgressiveDisclosure.accesskey "ε">
 
+<!ENTITY itemHistory.label                 "Ιστορικό περιήγησης">
+<!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCache.label                   "Προσωρινή μνήμη">
 <!ENTITY itemCache.accesskey               "ω">
 

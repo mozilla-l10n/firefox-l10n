@@ -27,6 +27,8 @@
      The label to display for the "App Menu... Preferences..." menu item that
      controls whether the quick filter bar is visible.
      -->
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
+         "Μπάρα γρήγορου φιλτραρίσματος">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
@@ -145,8 +147,10 @@
      size of the text box to the label's right.  (If your string for
      "no results" is longer than the "#### messages" case, then size for that.
      -->
+<!ENTITY quickFilterBar.resultsLabel.minWidth
+         "100">
 
-<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base):
+<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base1):
      This is the base of the empty text for the text search box.  We replace
      #1 with the contents of the appropriate
      quickFilterBar.textbox.emptyText.keyLabel.* value for the platform.
@@ -154,8 +158,6 @@
      the messages and that there is a hotkey they can press to get to the
      box faster.
      -->
-<!ENTITY quickFilterBar.textbox.emptyText.base
-         "Αναζήτηση σε αυτά τα μηνύματα... #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->

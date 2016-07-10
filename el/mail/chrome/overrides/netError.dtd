@@ -14,6 +14,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Αυτή η διεύθυνση είναι περιορισμένη">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Δεν βρέθηκε ο εξυπηρετητής">
 <!ENTITY dnsNotFound.longDesc "
@@ -36,6 +37,7 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Άρνηση πρόσβασης στο αρχείο">
 
 <!ENTITY generic.longDesc "
 <p>Ο &brandShortName; δεν μπορεί να φορτώσει τη σελίδα για κάποιο λόγο.</p>
