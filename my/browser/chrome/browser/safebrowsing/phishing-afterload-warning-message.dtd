@@ -24,8 +24,10 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/>ရှိ ဒီဝဘ်စာမျက်နှာသည် မလိုအပ်သော ဆော့ဖ်ဝဲများ ပါဝင်ကြောင်း အကြောင်းကြားခံထားရပြီး သင့်လုံခြုံရေး အပြင်အဆင်များပေါ်မူတည်ပြီး ထိုဆိုက်ကို တားဆီးထားသည်။">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>မလိုအပ်သည့် ဆော့ဖ်ဝဲ စာမျက်နှာများသည် သင့်စနစ်ကို ပုံမှန်မလည်ပတ်စေရန် ဆောင်ရွက်စေသည့် ဆော့ဖ်ဝဲများ တပ်ဆင်ရန် ကြိုးစားကြသည်။</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title2 "အတုအယောင်ဝဘ်ဆိုက်">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "ဤဝဘ်ဆိုက်၏<span id='phishing_sitename'/>သည် တိုက်ခိုက်နိုင်ဖွယ်ရှိသောစာမျက်နှာဟု သတင်းပေးခြင်းခံရပြီး သင်၏လုံခြုံရေးအပြင်အဆင်များအရ ပိတ်ပင်ထားသည်။">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>လှည့်စားသည့်ဆိုဒ်များသည် သင့်ကို လှည့်ဖြားပြီး မလိုအပ်သည့်ဆော့ဖ်ဝဲများတပ်ဆင်ခြင်း၊ စကားဝှက်များ၊ ဖုန်းနံပါတ်များ သို့မဟုတ် အကြွေးဝယ်ကဒ်ကဲ့သို့ ကိုယ်ရေးအချက်အလက်ကို ဖော်ထုတ်ခြင်း၊ စသည့် အန္တရာယ်ဖြစ်နိုင်သည့်အပြုအမူကို ဆောင်ရွက်စေရန်အတွက် ဖန်တီးထားခြင်း ဖြစ်သည်။</p><p>ဒီဝဘ်စာမျက်နှာတွင် အချက်အလက်များဖြည့်သွင်းခြင်းသည် အချက်အလက်ခိုးယူမှု သို့မဟုတ် အခြားမသမာမှုကို ဖြစ်စေနိုင်သည်။</p>">
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "ပိတ်ထားသည့် ဝဘ်ဆိုက်">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

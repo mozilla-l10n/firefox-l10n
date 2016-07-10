@@ -24,7 +24,8 @@
 <!ENTITY fileNotFound.title "ဖိုင် မတွေ့ရဘူး">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Check the file name for capitalization or other typing errors.</li> <li>Check to see if the file was moved, renamed or deleted.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "ဖိုင်အသုံးပြုခြင်းကို တားမြစ်ထားသည်">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>၎င်းကို ဖျက်ထားခြင်း၊ ရွှေ့ထားခြင်း သို့မဟုတ် ဖိုင်အသုံးပြုမှုဆိုင်ရာမူဝါဒများက အသုံးမပြုနိုင်စေရန် တားမြစ်နေခြင်း ဖြစ်နိုင်ပါသည်။</li> </ul>">
 
 <!ENTITY generic.title "တောင်းဆိုချက်ကို အပြီးမသတ်နိုင်ဘူး">
 <!ENTITY generic.longDesc "<p>&brandShortName; can't load this page for some reason.</p>">
@@ -68,11 +69,14 @@
 <!ENTITY unknownSocketType.title "မမှန်ကန်တဲ့ တုံ့ပြန်ချက်">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Check to make sure your system has the Personal Security Manager installed.</li> <li>This might be due to a non-standard configuration on the server.</li> </ul>">
 
+<!ENTITY nssFailure2.title "လုံခြုံသောချိတ်ဆက်မှု မအောင်မြင်ပါ">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>လက်ခံရရှိလိုက်သော ခွင့်ပြုချက်အား အတည်မပြုနိုင်သဖြင့် ဝတ်စာမျက်နှာအား မပြနိုင်ပါ</li> <li>ယခု ပြသာနာအတွက် ဝတ်ဆိုဒ် ပိုင်ရှင်အား ဆက်သွယ်ပါ</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/>၏ ပိုင်ရှင်သည် သူတို့၏ ဒီဝဘ်ဆိုက်ကို သင့်လျော်မှန်ကန်စွာ ချိန်ညှိထားခြင်း မရှိပါ။ သင့်အချက်အလက်များ ခိုးယူခံရခြင်းမှ ကာကွယ်ရန် &brandShortName; သည် ဒီဝဘ်ဆိုက်ကို မချိတ်ဆက်ထားပါ။">
 
 <!ENTITY sharedLongDesc "<ul> <li>သင်ကြည့်ရှုလိုသောဝတ်ဆိုက်သည်လောလောဆယ်ကြည့်ရှူမရနိုင်ပါ။ အလွန်အလုပ်များနေသောကြောင့်ဖြစ်ပါလိမ့်မည်။</li> <li>အကယ်လိုပြန်လည်ကြည့်ရှူမရပါကသင်၏ကွန်ပျူတာနက်ဝပ် ချိတ်ဆက်မှူကိုစစ်ကြည့်ပါ။.</li> <li>အကယ်လို့သင့်ကွန်ပျူတာအား ဖိုင်းယားဝေါလ်တစ်ခုခုဖြင့်ကာကွယ်တာပါက &brandShortName; အားအင်တာနက်သို့ဆက်သွယ်မှူ ပါမစ်ခွင့်ပြုပေးထားလားစစ်ပါ။</li> </ul>">
 
@@ -96,6 +100,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Advanced info: SSL_ERROR_NO_CYPHER_OVERLAP">
@@ -105,10 +110,14 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime "<p><span id='wrongSystemTime_URL'/>သို့ လုံခြုံသော ချိတ်ဆက်မှုသည် မဖြစ်နိုင်ပါ။ အဘယ်ကြောင့်ဆိုသော် သင့်နာရီသည် အချိန်မှားယွင်းနိုင်ဖွယ်ရှိသည်။</p> <p>ရက်စွဲသည် <span id='wrongSystemTime_actualDate'/>ဖြစ်သင့်သော်ငြားလည်း သင့်ကွန်ပြူတာသည် <span id='wrongSystemTime_systemDate'/>ဖြစ်သည်ဟု ထင်နိုင်သည်။ ဒီပြဿနာကို ဖြေရှင်းရန် ရက်စွဲနှင့် အချိန်အပြင်အဆင်များကို မှန်ကန်သည့် ရက်စွဲ၊ အချိန်သို့ ပြောင်းလဲသတ်မှတ်ပါ။</p>">
 
+<!ENTITY certerror.pagetitle1  "မလုံခြုံသော ချိတ်ဆက်မှု">
 
+<!ENTITY certerror.copyToClipboard.label "စာကို ကလစ်ဘုတ်သို့ ကူးပါ">
 
+<!ENTITY inadequateSecurityError.title "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
-
+<!ENTITY prefReset.label "မူလသတ်မှတ်ထားသည့်အတိုင်း ပြန်ထားပါ">
