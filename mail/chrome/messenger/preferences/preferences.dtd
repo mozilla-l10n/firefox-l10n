@@ -4,6 +4,7 @@
 
 <!ENTITY  prefWindow.titleWin     "Επιλογές">
 <!ENTITY  prefWindow.titleGNOME   "Προτιμήσεις &brandShortName;">
+<!ENTITY  prefWindow.titleMAC     "Προτιμήσεις">
 <!ENTITY  prefWindow.styleWindows "width: 53em; min-height: 38.5em;">
 <!ENTITY  prefWindow.styleMac     "width: 53em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 54em; min-height: 38em;">
