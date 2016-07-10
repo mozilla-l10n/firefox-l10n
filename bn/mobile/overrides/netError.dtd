@@ -25,7 +25,7 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>ফাইলের নামের বানান ও ছোট/বড় অক্ষর পরীক্ষা করুন।</li> <li>ফাইলের স্থান পরিবর্তন, নাম পরিবর্তন হয়েছে কিনা বা সেটি মুছে ফেলা হয়েছে কিনা তা পরীক্ষা করুন।</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "ফাইলে প্রবেশাধিকার প্রত্যাখ্যাত হয়েছে">
-
+<!ENTITY fileAccessDenied.longDesc "<ul><li>এটা মুছে ফেলা হতে পারে, সরিয়ে নেয়া হতে পারে, অথবা ফাইল প্রবেশাধিকার প্রতিরোধ করা হয়ে থাকতে পারে।</li></ul>">
 
 <!ENTITY generic.title "ওহ্ হো!">
 <!ENTITY generic.longDesc "<p>&brandShortName; এই পৃষ্ঠাটি কোনো কারণে লোড করতে পারছে না।</p>">
