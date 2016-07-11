@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "အန္တရာယ်ရှိသည့် အကြောင်းအရာတုများကို တားဆီးပါ">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "အန္တရာယ်ရှိသည့် ဆွဲယူထားသည့်ဖိုင်များကို တားဆီးပါ">
+<!ENTITY  blockDownloads.accesskey        "d">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "မလိုအပ်သည့် ထူးဆန်းသော ဆော့ဖ်ဝဲများတွေ့လျှင် သတိပေးပါ">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Eခြွင်းချက်များ...">
 <!ENTITY  addonExceptions.accesskey     "E">

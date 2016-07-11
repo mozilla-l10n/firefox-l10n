@@ -32,9 +32,9 @@
 <!ENTITY Custom.label         "စိတ်ကြိုက် ဖန်တီးပါ...">
 <!ENTITY ShrinkToFit.label    "အံကိုက်ဖို့ စိတ်ကြိုက်ဖန်တီးပါ">
 <!ENTITY customPrompt.title   "အချိုးကျ စိတ်ကြိုက်ဖန်တီးပါ...">
-
-
-
+<!ENTITY simplifyPage.label   "စာမျက်နှာကို ရိုးရှင်းအောင်ပြုလုပ်ပါ">
+<!ENTITY simplifyPage.enabled.tooltip  "ပိုမိုလွယ်ကူစွာ ဖတ်ရှုနိုင်ရန် အထားအသိုပြောင်းလဲပါ">
+<!ENTITY simplifyPage.disabled.tooltip "ဒီစာမျက်နှာကို ရိုးရှင်းစေရန် အလိုအလျောက် မပြုလုပ်နိုင်ခဲ့ပါ">
 
 <!ENTITY homearrow.tooltip    "ပထမ စာမျက်နှာ">
 <!ENTITY endarrow.tooltip     "နောက်ဆုံး စာမျက်နှာ">
