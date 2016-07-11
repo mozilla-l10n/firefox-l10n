@@ -33,8 +33,8 @@
 
 <!ENTITY fileNotFound.title "">
 <!ENTITY fileNotFound.longDesc "<ul>
-  <li>Revise el nombre del archivo por mayúsculas u otro tipo de errores de tipeo.</li>
-  <li>Revise si el archivo fue movido, renombrado o eliminado.</li>
+  <li>Revisa el nombre del archivo en busca de mayúsculas u otro tipo de errores de tipeo.</li>
+  <li>Revisa si el archivo fue movido, renombrado o eliminado.</li>
 </ul>">
 
 <!ENTITY fileAccessDenied.title "El acceso al archivo fue denegado">
@@ -43,9 +43,7 @@
 </ul>">
 
 <!ENTITY generic.title "Chita.">
-<!ENTITY generic.longDesc "
-<p>&brandShortName; no puede cargar esta página por alguna razón.</p>
-">
+<!ENTITY generic.longDesc "<p>&brandShortName; no puede cargar esta página por alguna razón.</p>">
 
 <!ENTITY malformedURI.title "La dirección no es válida">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
@@ -95,18 +93,18 @@
 
 <!ENTITY proxyConnectFailure.title "El servidor proxy está rechazando conexiones">
 <!ENTITY proxyConnectFailure.longDesc "<ul>
-  <li>Revisa los ajustes del proxy para asegurarte de que son correctos.</li>
-  <li>Contacta a tu administrador de red para asegurarte de que el servidor proxy está funcionando.</li>
+  <li>Revisa los ajustes del proxy para asegurarse de que son correctos.</li>
+  <li>Contacta al administrador de tu red para asegurarte de que el servidor proxy está funcionando.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "No se pudo encontrar el servidor proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul>
-  <li>Revisa la configuración del proxy para asegurarte de que es correcta.</li>
-  <li>Asegúrate de que tu dispositivo tiene una conexión operativa de datos o Wi-Fi
-    <button id='wifi'>Habilitar Wi-Fi</button>
-  </li></ul>">
+  <li>Revisa los ajustes del servidor proxy para asegurarte de que son correctos.</li>
+  <li>Asegúrate de que tu dispositivo tiene una conexión operativa de datos o Wi-Fi.
+    <button id='wifi'>Habilitar Wi-Fi</button> </li>
+</ul>">
 
 <!ENTITY redirectLoop.title "La página no está redirigiendo adecuadamente">
 <!ENTITY redirectLoop.longDesc "<ul>
