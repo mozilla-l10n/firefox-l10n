@@ -30,7 +30,7 @@
 <!ENTITY certmgr.certdetail.cn                "Nombre común (CN)">
 <!ENTITY certmgr.certdetail.o                 "Organización (O)">
 <!ENTITY certmgr.certdetail.ou                "Unidad Organizacional (UO)">
-<!ENTITY certmgr.certdetail.serialnumber      "Número de Serie">
+<!ENTITY certmgr.certdetail.serialnumber      "Número de serie">
 <!ENTITY certmgr.certdetail.sha256fingerprint "Huella digital SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Huella digital SHA1">
 
@@ -49,7 +49,7 @@
 <!ENTITY certmgr.begins                       "Empieza el">
 <!ENTITY certmgr.expires                      "Vence el">
 <!ENTITY certmgr.email                        "Email">
-<!ENTITY certmgr.serial                       "Número de Serie">
+<!ENTITY certmgr.serial                       "Número de serie">
 
 <!ENTITY certmgr.close.label                  "Cerrar">
 <!ENTITY certmgr.close.accesskey              "C">

@@ -40,7 +40,7 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-<!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias de dispositivo">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias del dispositivo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Ajustes del dispositivo">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
@@ -57,7 +57,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Abrir App">
-<!ENTITY runtimeButton_label "Seleccionar entorno de ejecución">
+<!ENTITY runtimeButton_label "Seleccionar tiempo de ejecución">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->

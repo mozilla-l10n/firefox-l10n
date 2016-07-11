@@ -29,9 +29,9 @@
 <!ENTITY welcomeback2.restoreButton  "¡Empecemos!">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
-<!ENTITY welcomeback2.tabtitle      "¡Lo logramos!">
+<!ENTITY welcomeback2.tabtitle      "¡Hecho!">
 
-<!ENTITY welcomeback2.pageTitle     "¡Lo logramos!">
+<!ENTITY welcomeback2.pageTitle     "¡Hecho!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; está listo para ser usado.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Restaurar todas las ventanas y pestañas">
