@@ -17,7 +17,7 @@
 <!ENTITY aboutProduct2.label      "About &brandShorterName; ">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; मदद">
-<!ENTITY productHelp2.accesskey   "म">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "कुंजीपट शॉर्टकट">
