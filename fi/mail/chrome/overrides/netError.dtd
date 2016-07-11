@@ -37,10 +37,10 @@
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "Tiedoston käyttö on estetty">
+<!ENTITY fileAccessDenied.title "Tiedoston käyttö estettiin">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>Se on voitu poistaa tai siirtää, tai siihen ei ole käyttöoikeutta.</li>
+  <li>Tiedosto on voitu poistaa tai siirtää, tai ehkä siihen ei ole käyttöoikeutta.</li>
 </ul>
 ">
 
@@ -189,7 +189,7 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "XUL-koodia etänä">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul></p>">
 
-<!ENTITY inadequateSecurityError.title "Yhteys ei ole turvalliinen">
+<!ENTITY inadequateSecurityError.title "Yhteys ei ole suojattu">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> käyttää tietosuojateknologiaa, joka on vanhentunut ja hyökkäyksille haavoittuvainen. Hyökkääjä voisi helposti lukea tietoja, joiden luulit olevan suojattuja. Sivuston ylläpitäjän on korjattava tilanne, ennen kuin voit vierailla sivustolla.</p><p>Virhekoodi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> käyttää suojaustekniikkaa, joka on vanhentunut ja haavoittuvainen hyökkäyksille. Hyökkääjä voisi helposti lukea tietoja, joiden luulit olevan suojattuja. Sivuston ylläpitäjän täytyy korjata tämä ongelma ennen kuin voit käydä sivustolla.</p><p>Virhekoodi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

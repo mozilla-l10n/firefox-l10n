@@ -13,11 +13,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Lähetä kopio (Cc) näihin osoitteisiin:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.placeholder "Erottele osoitteet pilkuilla">
+<!ENTITY ccAddressList.placeholder "Erottele osoitteet pilkuin">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Lähetä piilokopio (Bcc) näihin osoitteisiin:">
 <!ENTITY bccAddress.accesskey "h">
-<!ENTITY bccAddressList.placeholder "Erottele osoitteet pilkuilla">
+<!ENTITY bccAddressList.placeholder "Erottele osoitteet pilkuin">
 <!ENTITY saveMessageDlg.label "Kysy vahvistus viestejä tallennettaessa">
 <!ENTITY saveMessageDlg.accesskey "K">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
