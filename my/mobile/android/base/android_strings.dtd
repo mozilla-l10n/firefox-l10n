@@ -57,7 +57,7 @@
 <!ENTITY  crash_allow_contact2 "&vendorShortName;ကို ကျွန်ုပ်အား ဆက်သွယ်ခွင့် ပေးထားမည်">
 <!ENTITY  crash_email "သင့် အီးမေးလ်">
 <!ENTITY  crash_closing_alert "ပျက်စီးမှုအကြောင်း သတင်းမပို့တော့ဘဲ ထွက်မည်လား?">
-<!ENTITY  sending_crash_report "ပျက်စီးမှုအား သတင်းပို့နေသည်\u2026">
+<!ENTITY  sending_crash_report "ပျက်စီးမှုကို သတင်းပို့နေသည်\u2026">
 <!ENTITY  crash_close_label "ပိတ်ပါ">
 <!ENTITY  crash_restart_label "&brandShortName; ကို ပြန်ဖွင့်ပါ">
 
@@ -70,8 +70,8 @@
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "စာမှတ်လုပ်ထားပြီး">
-<!ENTITY bookmark_removed "စာညှပ်အား ပယ်ဖျက်ပြီး။">
-<!ENTITY bookmark_updated "စာညှပ်အား ပြင်ဆင်သတ်မှတ်ပြီး">
+<!ENTITY bookmark_removed "စာညှပ်ကို ဖယ်ရှားပြီး။">
+<!ENTITY bookmark_updated "စာညှပ်ကို ပြင်ဆင်သတ်မှတ်ပြီး">
 <!ENTITY bookmark_options "ရွေးစရာများ">
 <!ENTITY screenshot_added_to_bookmarks "မျက်နှာပြင်ပုံရိပ်ဖမ်းချက်ကို စာမှတ်များထဲသို့ ထည့်ပြီးပါပြီ">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
@@ -321,15 +321,15 @@
 
 <!ENTITY pref_char_encoding "အက္ခရာ စာဝှက်ရေးသားခြင်း">
 <!ENTITY pref_char_encoding_on "မီနူး စာရင်းပြပါ">
-<!ENTITY pref_char_encoding_off "မီနူးအား မပြပါနှင့်">
+<!ENTITY pref_char_encoding_off "မီနူးကို မပြပါနှင့်">
 <!ENTITY pref_clear_private_data2 "တစ်ကိုယ်ရေသုံး အချက်အလက်များ ရှင်းပါ">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "အခုရှင်းပါ">
 <!ENTITY pref_clear_on_exit_title3 "ထွက်သည့်အချိန်တွင် တစ်ကိုယ်ရေသုံး အချက်အလက်များကို ရှင်းလင်းပါ">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; မူလ မီနူး မှ \u0022Quit\u0022 အားရွေးထားပါက အချက်အလက်များအား အလိုအလျောက် ဖျက်သွားလိမ့်မည်">
-<!ENTITY pref_clear_on_exit_dialog_title "ရှင်းမည့် အချက်အလက်အား ရွေးပါ">
-<!ENTITY pref_plugins "ပလပ်အင်">
+<!ENTITY pref_clear_on_exit_dialog_title "ရှင်းလင်းလိုသည့် အချက်အလက်ကို ရွေးပါ">
+<!ENTITY pref_plugins "ပလပ်အင်များ">
 <!ENTITY pref_plugins_enabled "ဖွင့်ထားသည်">
 <!ENTITY pref_plugins_tap_to_play2 "ဖွင့်ရန် ထိပါ">
 <!ENTITY pref_plugins_disabled "ပိတ်ထားသည်">
@@ -337,8 +337,8 @@
 <!ENTITY pref_restore_tabs "တပ်ဗ်များကို ပြန်လည်အသုံးပြုရန်">
 <!ENTITY pref_restore_always "အမြဲ ပြန်ဖွင့်ပါ">
 <!ENTITY pref_restore_quit "&brandShortName; ပိတ်လိုက်ပါက အရင်ဖွင့်ထားသော အရာများ ပြန်မခေါ်ပါ">
-<!ENTITY pref_font_size_tiny "အသေး">
-<!ENTITY pref_font_size_small "ခပ်သေးသေး">
+<!ENTITY pref_font_size_tiny "ခပ်သေးသေး">
+<!ENTITY pref_font_size_small "အသေး">
 <!ENTITY pref_font_size_medium "အလယ်အလတ်">
 <!ENTITY pref_font_size_large "ကြီးကြီး">
 <!ENTITY pref_font_size_xlarge "ခပ်ကြီးကြီး">
@@ -355,7 +355,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\u0027re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_media_autoplay_enabled "အလိုအလျောက်ပြသခြင်း ခွင့်ပြုပါ">
-<!ENTITY pref_media_autoplay_enabled_summary "ဝတ်ဆိုဒ်များမှ အလိုအလျောက် မီဒီယာ သို့ ရုရှင်များအား အလိုအလျောက်ပြသခွင့်ရှိမရှိ သတ်မှတ်ပါ">
+<!ENTITY pref_media_autoplay_enabled_summary "ဝဘ်ဆိုဒ်များက မီဒီယာ သို့မဟုတ် ရုပ်ရှင်များကို အလိုအလျောက်ပြသခွင့်ရှိမရှိ သတ်မှတ်ပါ">
 <!ENTITY pref_zoom_force_enabled "မြင်ကွင်းချုံ့ချဲ့ ကို အမြဲတမ်း ဖွင့်ထားရန်">
 <!ENTITY pref_zoom_force_enabled_summary "အပြင်အဆင်ကို အတင်း သတ်မှတ်ပါ။ ထိုအခါ မည်သည့်စာမျက်နှာမဆို ချုံ့/ချဲ့ ကြည့်ရှုနိုင်ပါမည်။">
 <!ENTITY pref_voice_input "အသံဖြင့် ခိုင်းစေခြင်း">
@@ -373,9 +373,9 @@ size. -->
 <!ENTITY pref_private_data_history2 "ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း">
 <!ENTITY pref_private_data_searchHistory "ရှာဖွေမှု မှတ်တမ်း">
 <!ENTITY pref_private_data_formdata2 "ဖောင်ဖြည့် မှတ်တမ်း">
-<!ENTITY pref_private_data_cookies2 "ကွတ်ကီးများ နှင့် လတ်တလော​ သုံးဆွဲမှု">
+<!ENTITY pref_private_data_cookies2 "ကွတ်ကီးများ နှင့် လက်ရှိဝင်ရောက်မှုများ">
 <!ENTITY pref_private_data_passwords2 "သိမ်းထားသော ဝင်ရောက်မှုများ">
-<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_cache "ယာယီမှတ်တမ်း">
 <!ENTITY pref_private_data_offlineApps "ချိတ်ဆက်မဲ့သုံး အချက်အလက်">
 <!ENTITY pref_private_data_siteSettings2 "ဆိုဒ်ဆိုင်ရာ အပြင်အဆင်များ">
 <!ENTITY pref_private_data_downloadFiles2 "ဆွဲချချက်များ">
@@ -383,7 +383,7 @@ size. -->
 
 <!ENTITY pref_default_browser "ပုံသေအသုံးပြုမည့် ဘရောက်ဇာအဖြစ် သတ်မှတ်ပါ">
 <!ENTITY pref_about_firefox "&brandShortName; အကြောင်း">
-<!ENTITY pref_vendor_faqs "FAQs">
+<!ENTITY pref_vendor_faqs "မေးလေ့ရှိသော မေးခွန်းများ">
 <!ENTITY pref_vendor_feedback "အကြံပေးပါ">
 
 <!ENTITY pref_dialog_set_default "မူလအဖြစ်ထားပါ">
