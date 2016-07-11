@@ -56,7 +56,7 @@
 <!ENTITY cmd.showMac.label                "Finder ਵਿੱਚ ਵੇਖੋ">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "ਮੁੜ-ਕੋਸ਼ਿਸ਼">
-<!ENTITY cmd.goToDownloadPage.label       "ਡਾਊਨਲੋਡ ਪੇਜ਼ \'ਤੇ ਜਾਓ">
+<!ENTITY cmd.goToDownloadPage.label       "ਡਾਊਨਲੋਡ ਸਫ਼ੇ 'ਤੇ ਜਾਓ">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "ਡਾਊਨਲੋਡ ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
@@ -69,7 +69,7 @@
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
-<!ENTITY cmd.unblock2.label               "Allow Download">
+<!ENTITY cmd.unblock2.label               "ਡਾਊਨਲੋਡ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 <!ENTITY cmd.unblock2.accesskey           "o">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
@@ -81,7 +81,7 @@
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
-<!ENTITY cmd.chooseUnblock.label          "Remove File or Allow Download">
+<!ENTITY cmd.chooseUnblock.label          "ਫਾਈਲ ਨੂੰ ਹਟਾਓ ਜਾਂ ਡਾਊਨਲੋਡ ਨੂੰ ਇਜਾਜ਼ਤ ਦਿਓ">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the

@@ -7,13 +7,13 @@
 <!ENTITY  blockPopups.label           "ਪੋਪਅੱਪ ਵਿੰਡੋ ਨੂੰ ਬਲਾਕ ਕਰੋ">
 <!ENTITY  blockPopups.accesskey       "B">
 <!ENTITY  notificationsPolicy.label            "ਸੂਚਨਾਵਾਂ">
-<!ENTITY  notificationsPolicyLearnMore.label   "Learn more">
-<!ENTITY  notificationsPolicyDesc3.label       "Choose which sites are allowed to send you notifications">
+<!ENTITY  notificationsPolicyLearnMore.label   "ਹੋਰ ਜਾਣੋ">
+<!ENTITY  notificationsPolicyDesc3.label       "ਚੋਣ ਕਰੋ ਕਿ ਕਿਹੜੀਆਂ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਨੂੰ ਸੂਚਨਾਵਾਂ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "…ਚੁਣੋ">
 <!ENTITY  notificationsDoNotDisturb.label      "ਮੈਨੂੰ ਤੰਗ ਨਾ ਕਰੋ">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-<!ENTITY  notificationsDoNotDisturbDetails.value "No notification will be shown until you restart &brandShortName;">
+<!ENTITY  notificationsDoNotDisturbDetails.value "ਤੁਹਾਡੇ ਵਲੋਂ &brandShortName; ਨੂੰ ਮੁੜ-ਚਾਲੂ ਹੋਣ ਤੱਕ ਕੋਈ ਸੂਚਨਾ ਨਹੀਂ ਭੇਜੀ ਜਾਵੇਗੀ।">
 <!ENTITY  popupExceptions.label       "…ਛੋਟ">
 <!ENTITY  popupExceptions.accesskey   "E">
 

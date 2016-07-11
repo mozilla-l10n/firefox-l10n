@@ -77,8 +77,8 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "ਤੁਸੀਂ ਸਾਇਨ ਇਨ ਨਹੀਂ ਹੋ।">
 <!ENTITY signIn.label                "ਸਾਇਨ ਇਨ">
-<!ENTITY profilePicture.tooltip      "Change profile picture">
-<!ENTITY verifiedManage.label        "Manage Account">
+<!ENTITY profilePicture.tooltip      "ਪਰੋਫਾਈਲ ਤਸਵੀਰ ਨੂੰ ਬਦਲੋ">
+<!ENTITY verifiedManage.label        "ਖਾਤੇ ਦਾ ਪਰਬੰਧ ਕਰੋ">
 <!ENTITY disconnect.label            "…ਡਿਸ-ਕੁਨੈਕਟ">
 <!ENTITY verify.label                "ਈਮੇਲ ਜਾਂਚ">
 <!ENTITY forget.label                "ਇਹ ਈਮੇਲ ਭੁੱਲ ਜਾਓ">
@@ -89,13 +89,13 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "ਸਿੰਕ ਦੇ ਪੁਰਾਣੇ ਵਰਜਨ ਨੂੰ ਵਰਤ ਰਹੇ ਹੋ?">
 
-<!ENTITY signedOut.caption            "Take your Web with you">
-<!ENTITY signedOut.description        "Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.">
-<!ENTITY signedOut.accountBox.title   "Connect with a &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.caption            "ਆਪਣੇ ਵੈੱਬ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ">
+<!ENTITY signedOut.description        "ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ।">
+<!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ਨਾਲ ਕਨੈਕਟ ਕਰੋ">
 <!ENTITY signedOut.accountBox.create  "ਖਾਤਾ ਬਣਾਓ">
 <!ENTITY signedOut.accountBox.signin  "ਸਾਈਨ ਇਨ">
 
-<!ENTITY signedIn.engines.label       "Sync across all devices">
+<!ENTITY signedIn.engines.label       "ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਨਾਲ ਸਿੰਕ ਕਰੋ">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
@@ -104,7 +104,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY mobilePromo3.start            "ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਸਿੰਕ ਕਰਨ ਲਈ ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-<!ENTITY mobilePromo3.androidLink      "Android">
+<!ENTITY mobilePromo3.androidLink      "ਐਂਡਰਾਈਡ">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 <!ENTITY mobilePromo3.iOSBefore         " ਜਾਂ ">

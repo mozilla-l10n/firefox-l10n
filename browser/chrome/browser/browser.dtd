@@ -176,9 +176,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY backCmd.label                "ਪਿੱਛੇ">
-<!ENTITY backButton.tooltip           "ਇੱਕ ਪਿਛਲੇ ਸਫ਼ੇ \u0027ਤੇ ਜਾਓ">
+<!ENTITY backButton.tooltip           "ਇੱਕ ਪਿਛਲੇ ਸਫ਼ੇ 'ਤੇ ਜਾਓ">
 <!ENTITY forwardCmd.label             "ਅੱਗੇ">
-<!ENTITY forwardButton.tooltip        "ਇੱਕ ਸਫ਼ੇ \u0027ਤੇ ਅੱਗੇ ਜਾਓ">
+<!ENTITY forwardButton.tooltip        "ਇੱਕ ਸਫ਼ੇ 'ਤੇ ਅੱਗੇ ਜਾਓ">
 <!ENTITY backForwardButtonMenu.tooltip "ਅਤੀਤ ਵੇਖਣ ਲਈ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ ਜਾਂ ਹੇਠਾਂ ਖਿੱਚੋ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ਅਤੀਤ ਵੇਖਣ ਲਈ ਹੇਠਾਂ ਖਿੱਚੋ">
 <!ENTITY reloadCmd.label              "ਮੁੜ ਲੋਡ ਕਰੋ">
@@ -186,7 +186,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "ਰੋਕੋ">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "ਇਸ ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕੋ">
-<!ENTITY goEndCap.tooltip             "ਟਿਕਾਣਾ ਬਾਰ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ \u0027ਤੇ ਜਾਓ">
+<!ENTITY goEndCap.tooltip             "ਟਿਕਾਣਾ ਬਾਰ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ 'ਤੇ ਜਾਓ">
 <!ENTITY printButton.label            "ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printButton.tooltip          "ਇਹ ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰੋ">
 
@@ -203,12 +203,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਪਲੱਗਇਨ ਵਰਤੋਂ ਦਾ ਪਰਬੰਧ ਕਰੋ">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "ਬਦਲੋ ਕਿ ਕੀ ਸਾਈਟ ਤੋਂ ਤੁਸੀਂ ਨੋਟੀਫਿਕੇਸ਼ਨ ਲੈਣਾ ਚਾਹੁੰਦੇ ਹੋ">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Manage sharing your camera and/or microphone with the site">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "You are sharing your camera and/or microphone with the site">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Manage sharing your microphone with the site">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "You are sharing your microphone with the site">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Manage sharing your windows or screen with the site">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "You are sharing a window or your screen with the site">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "ਆਪਣੇ ਕੈਮਰੇ ਅਤੇ/ਜਾਂ ਮਾਈਕਰੋਫ਼ੋਨ ਨੂੰ ਸਾਈਟ ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "ਤੁਸੀਂ ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਕੈਮਰੇ ਅਤੇ/ਜਾਂ ਮਾਈਕਰੋਫ਼ੋਨ ਨੂੰ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋ">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ ਨੂੰ ਸਾਈਟ ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "ਤੁਸੀਂ ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ ਨੂੰ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋ">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "ਵਿੰਡੋ ਜਾਂ ਆਪਣਈ ਸਕਰੀਨ ਨੂੰ ਸਾਈਟ ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "ਤੁਸੀਂ ਸਾਈਟ ਨਾਲ ਵਿੰਡੋ ਜਾਂ ਆਪਣੀ ਸਕਰੀਨ ਨੂੰ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋ">
 
 <!ENTITY urlbar.pointerLockNotificationAnchor.label     "ਬਦਲੋ ਕਿ ਕੀ ਸਾਈਟ ਪੁਆਇੰਟਰ ਨੂੰ ਲੁਕਾ ਸਕਦੀ ਹੈ">
 <!ENTITY urlbar.servicesNotificationAnchor.label        "ਸਰਵਿਸ ਇੰਸਟਾਲ ਸੁਨੇਹੇ ਨੂੰ ਵੇਖੋ">
@@ -231,7 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "ਬੁੱਕਮਾਰਕ ਬਾਹੀ ਵੇਖੋ">
 <!ENTITY viewBookmarksToolbar.label         "ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਵੇਖੋ">
 
-<!ENTITY containersMenu.label "Containers">
+<!ENTITY containersMenu.label "ਕਨਟੇਨਰ">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -584,7 +584,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "ਪੂਰੀ ਸਕਰੀਨ">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "…ਸਨੈਪਸ਼ਾਟ ਇੰਝ ਨੂੰ ਸੰਭਾਲੋ">
+<!ENTITY videoSaveImage.label        "…ਸਨੈਪਸ਼ਾਟ ਨੂੰ ਇੰਝ ਨੂੰ ਸੰਭਾਲੋ">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -693,16 +693,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "ਇਹ ਸਫ਼ਾ ਕਮਜ਼ੋਰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਵਰਤਦਾ ਹੈ।">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Your connection to this site is not private. Information you submit could be viewed by others (like passwords, messages, credit cards, etc.).">
-<!ENTITY identity.description.insecureLoginForms "The login information you enter on this page is not secure and could be compromised.">
-<!ENTITY identity.description.weakCipher "Your connection to this website uses weak encryption and is not private.">
-<!ENTITY identity.description.weakCipher2 "Other people can view your information or modify the website’s behavior.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; has blocked parts of this page that are not secure.">
-<!ENTITY identity.description.passiveLoaded "Your connection is not private and information you share with the site could be viewed by others.">
-<!ENTITY identity.description.passiveLoaded2 "This website contains content that is not secure (such as images).">
-<!ENTITY identity.description.passiveLoaded3 "Although &brandShortName; has blocked some content, there is still content on the page that is not secure (such as images).">
-<!ENTITY identity.description.activeLoaded "This website contains content that is not secure (such as scripts) and your connection to it is not private.">
-<!ENTITY identity.description.activeLoaded2 "Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).">
+<!ENTITY identity.description.insecure "ਇਸ ਸਾਈਟ ਨਾਲ ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਪ੍ਰਾਈਵੇਟ ਨਹੀਂ ਹੈ। ਤੁਹਾਡੇ ਵਲੋਂ ਭੇਜੀ ਜਾਣਕਾਰੀ (ਜਿਵੇਂ ਕਿ ਪਾਸਵਰਡ, ਸੁਨੇਹੇ, ਕਰੈਡਿਟ ਕਾਰਡ ਆਦਿ) ਨੂੰ ਹੋਰ ਵਲੋਂ ਵੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।">
+<!ENTITY identity.description.insecureLoginForms "ਤੁਹਾਡੇ ਵਲੋਂ ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਦਿੱਤੀ ਜਾਣ ਵਾਲੀ ਲਾਗਇਨ ਜਾਣਕਾਰੀ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ ਅਤੇ ਉਸ ਨੂੰ ਚੋਰੀ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।">
+<!ENTITY identity.description.weakCipher "ਇਸ ਵੈੱਬਸਾਈਟ ਨਾਲ ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਕਮਜ਼ੋਰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਵਰਤਦਾ ਹੈ ਅਤੇ ਪ੍ਰਾਈਵੇਟ ਨਹੀਂ ਹੈ।">
+<!ENTITY identity.description.weakCipher2 "ਹੋਰ ਲੋਕ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖ ਸਕਦੇ ਹਨ ਜਾਂ ਵੈੱਬਸਾਈਟ ਦੇ ਰਵੱਈਏ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹਨ।">
+<!ENTITY identity.description.activeBlocked "&brandShortName; ਨੇ ਇਸ ਸਫ਼ੇ ਦੇ ਭਾਗਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ, ਕਿਉਂਕਿ ਇਹ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ।">
+<!ENTITY identity.description.passiveLoaded "ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਪ੍ਰਾਈਵੇਟ ਨਹੀਂ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਸਾਈਟ ਉੱਤੇ ਸਾਂਝੀ ਕੀਤੀ ਜਾਣਕਾਰੀ ਨੂੰ ਹੋਰਾਂ ਵਲੋਂ ਵੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।">
+<!ENTITY identity.description.passiveLoaded2 "ਇਹ ਵੈੱਬਸਾਟਈ ਵਿੱਚ ਸਮੱਗਰੀ ਹੈ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ (ਜਿਵੇਂ ਕਿ ਚਿੱਤਰ)।">
+<!ENTITY identity.description.passiveLoaded3 "ਹਾਲਾਂਕਿ &brandShortName; ਨੇ ਕੁਝ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ, ਪਰ ਸਫ਼ੇ ਉੱਤੇ ਹਾਲੇ ਵੀ ਸਮੱਗਰੀ ਹੈ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ (ਜਿਵੇਂ ਕਿ ਚਿੱਤਰ)।">
+<!ENTITY identity.description.activeLoaded "ਇਸ ਵੈੱਬਸਾਈਟ ਉੱਤੇ ਸਮੱਗਰੀ ਹੈ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ (ਜਿਵੇਂ ਕਿ ਸਕ੍ਰਿਪਟਾਂ) ਅਤੇ ਇਸ ਨਾਲ ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਵੀ ਪ੍ਰਾਈਵੇਟ ਨਹੀਂ ਹੈ।">
+<!ENTITY identity.description.activeLoaded2 "ਇਸ ਸਾਈਟ ਨਾਲ ਤੁਹਾਡੇ ਵਲੋਂ ਸਾਂਝੀ ਕੀਤੀ ਜਾਣਕਾਰੀ (ਜਿਵੇਂ ਕਿ ਪਾਸਵਰਡ, ਸੁਨੇਹੇ, ਕਰੈਡਿਟ ਕਾਰਡ ਆਦਿ) ਨੂੰ ਹੋਰਾਂ ਵਲੋਂ ਵੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।">
 
 <!ENTITY identity.enableMixedContentBlocking.label "ਸੁਰੱਖਿਆ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
@@ -814,7 +814,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "ਸਾਂਝਾ ਕਰਨ ਲਈ ਮਾਈਕਰੋਫੋਨ:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.audioCapture.label "Audio from the tab will be shared.">
+<!ENTITY getUserMedia.audioCapture.label "ਟੈਬ ਤੋਂ ਆਡੀਓ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾਵੇਗਾ।">
 <!ENTITY getUserMedia.allWindowsShared.message "ਆਪਣੀ ਸਕਰੀਨ ਤੋਂ ਸਭ ਵਿਖਾਈ ਦਿੰਦੀਆਂ ਵਿੰਡੋਜ਼ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਕੀਤਾ ਜਾਵੇਗਾ।">
 
 <!ENTITY trackingProtection.title "ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ">
