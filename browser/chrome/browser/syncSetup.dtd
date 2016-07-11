@@ -8,9 +8,13 @@
 
 <!ENTITY setup.pickSetupType.description2 "Καλώς ήλθατε, αν δεν έχετε χρησιμοποιήσει το &syncBrand.fullName.label; στο παρελθόν, θα χρειαστεί να δημιουργήσετε ένα νέο λογαριασμό.">
 <!ENTITY button.createNewAccount.label "Δημιουργία νέου λογαριασμού">
+<!ENTITY button.haveAccount.label      "Έχω ήδη λογαριασμό">
 
+<!ENTITY setup.choicePage.title.label     "Έχετε χρησιμοποιήσει το «&syncBrand.fullName.label;» στο παρελθόν;">
+<!ENTITY setup.choicePage.new.label       "Δεν έχω χρησιμοποιήσει το «&syncBrand.shortName.label;» στο παρελθόν">
 
 <!-- New Account AND Existing Account -->
+<!ENTITY signIn.account2.label      "Λογαριασμός">
 
 <!-- New Account Page 1: Basic Account Info -->
 

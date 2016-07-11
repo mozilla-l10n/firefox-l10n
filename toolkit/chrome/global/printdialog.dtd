@@ -10,6 +10,7 @@
 
 <!ENTITY fpDialog.title "Αποθήκευση αρχείου">
 
+<!ENTITY fileCheck.label "Εκτύπωση σε αρχείο">
 <!ENTITY propertiesButton.label "Ιδιότητες…">
 <!ENTITY descText.label "Περιγραφή εκτυπωτή:">
 <!ENTITY printer.label "Εκτυπωτής">

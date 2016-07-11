@@ -19,15 +19,19 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
+<!ENTITY netmonitorUI.reloadNotice2       "Ανανέωση">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
+<!ENTITY netmonitorUI.toolbar.status3     "Κατάσταση">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
+<!ENTITY netmonitorUI.toolbar.method      "Μέθοδος">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.file): This is the label displayed
   -  in the network table toolbar, above the "file" column. -->
+<!ENTITY netmonitorUI.toolbar.file        "Αρχείο">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
@@ -37,6 +41,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
+<!ENTITY netmonitorUI.toolbar.type        "Τύπος">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.transferred): This is the label displayed
   -  in the network table toolbar, above the "transferred" column, which is the
@@ -45,6 +50,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
   -  in the network table toolbar, above the "size" column, which is the
   -  uncompressed / decoded size. -->
+<!ENTITY netmonitorUI.toolbar.size        "Μέγεθος">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
   -  in the network table toolbar, above the "waterfall" column. -->

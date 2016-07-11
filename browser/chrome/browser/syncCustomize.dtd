@@ -7,10 +7,13 @@
 
 <!ENTITY syncCustomize.title              "Τι θα θέλατε να συγχρονίσετε;">
 <!ENTITY syncCustomize.description        "Μπορείτε να αλλάξετε αυτήν την προτίμηση στις Επιλογές.">
+<!ENTITY syncCustomizeUnix.description    "Μπορείτε να αλλάξετε αυτή την επιλογή στις Προτιμήσεις.">
 
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
 -->
+<!ENTITY engine.bookmarks.label           "Σελιδοδείκτες">
 <!ENTITY engine.history.label             "Ιστορικό">
 <!ENTITY engine.tabs.label                "Καρτέλες">
+<!ENTITY engine.passwords.label           "Κωδικοί πρόσβασης">

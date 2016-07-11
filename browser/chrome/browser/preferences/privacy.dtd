@@ -4,7 +4,12 @@
 
 <!ENTITY  trackingProtectionHeader.label       "Χρήση προστασίας δεδομένων περιήγησης">
 <!ENTITY  trackingProtectionAlways.label       "Πάντα">
+<!ENTITY  trackingProtectionPrivate.label      "Μόνο σε ιδιωτικά παράθυρα">
+<!ENTITY  trackingProtectionNever.label        "Ποτέ">
+<!ENTITY  trackingProtectionLearnMore.label    "Μάθετε περισσότερα">
+<!ENTITY  trackingProtectionExceptions.label   "Εξαιρέσεις…">
 
+<!ENTITY trackingProtectionPBMLearnMore.label "Μάθετε περισσότερα">
 <!ENTITY changeBlockList.label          "Αλλαγή λίστας αποκλεισμού">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
