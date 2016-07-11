@@ -128,6 +128,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "est désormais en plein écran">
 <!ENTITY fullscreenWarning.generic.label "Ce document est désormais en plein écran">
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "contrôle votre curseur. Appuyez sur Échap pour reprendre le contrôle.">
+<!ENTITY pointerlockWarning.generic.label "Ce document contrôle votre curseur. Appuyez sur Échap pour reprendre le contrôle.">
+
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -767,12 +773,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY social.toggleNotifications.label "Afficher les notifications sur le bureau">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Les services de <label/> ont été activés. Vous pouvez modifier les paramètres des services depuis le <label class='text-link'>gestionnaire de modules complémentaires</label>.">
-<!ENTITY social.activated.undo.label "Annuler">
-<!ENTITY social.activated.undo.accesskey "A">
 <!ENTITY social.learnMore.label "En savoir plus…">
 <!ENTITY social.learnMore.accesskey "s">
-<!ENTITY social.closeNotificationItem.label "Plus tard">
 
 <!ENTITY social.directory.label "Répertoire d’activation">
 <!ENTITY social.directory.text "Vous pouvez activer des services de partage depuis le répertoire.">
