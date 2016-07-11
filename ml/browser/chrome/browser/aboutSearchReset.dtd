@@ -6,6 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "തിരയല്‍ ക്രമീകരണം വീണ്ടെടുക്കണോ?">
 
+<!ENTITY searchreset.pageInfo1      "നിങ്ങളുടെ തെരയല്‍ സജ്ജീകരണങ്ങള്‍ കാലോചിതമാവില്ല. &brandShortName; സ്വതേയുള്ള തെരയല്‍ സജ്ജീകരണങ്ങള്‍ വീണ്ടെടുക്കാന്‍ സഹായിക്കും.">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
@@ -20,4 +21,5 @@ their language. -->
 <!ENTITY searchreset.noChangeButton        "മാറ്റേണ്ടതില്ല">
 
 
+<!ENTITY searchreset.changeEngineButton        "തെരയല്‍ യന്ത്രം മാറ്റൂ">
 
