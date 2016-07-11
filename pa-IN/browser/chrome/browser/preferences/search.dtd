@@ -9,11 +9,11 @@
 <!ENTITY provideSearchSuggestions.label        "ਖੋਜ ਸੁਝਾਅ ਦਿੰਦਾ ਹੈ">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "Show search suggestions in location bar results">
+<!ENTITY showURLBarSuggestions.label           "ਟਿਕਾਣਾ ਖੋਜ ਨਤੀਜਿਆਂ ਵਿਚ ਖੋਜ ਸੁਝਾਆਵਾਂ ਨੂੰ ਵੇਖਾਓ">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "Search suggestions will not be shown in location bar results because you have configured &brandShortName; to never remember history.">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "ਟਿਕਾਣਾ ਖੋਜ ਨਤੀਜਿਆਂ ਵਿੱਚ ਖੋਜ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖਾਏ ਜਾਣਗੇ, ਕਿਉਂਕਿ ਤੁਸੀਂ &brandShortName; ਨੂੰ ਕਦੇ ਵੀ ਅਤੀਤ ਯਾਦ ਨਾ ਰੱਖਣ ਲਈ ਸੰਰਚਿਤ ਕੀਤਾ ਹੈ।">
 
-<!ENTITY redirectWindowsSearch.label "Use this search engine for searches from Windows">
+<!ENTITY redirectWindowsSearch.label "ਵਿੰਡੋਜ਼ ਤੋਂ ਖੋਜਾਂ ਲਈ ਇਸ ਖੋਜ ਇੰਜਣ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY redirectWindowsSearch.accesskey "W">
 
 <!ENTITY oneClickSearchEngines.label           "ਇੱਕ-ਕਲਿੱਕ ਖੋਜ ਇੰਜਣ">

@@ -6,7 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "ਖੋਜ ਸੈਟਿੰਗਾਂ ਨੂੰ ਮੁੜ-ਬਹਾਲ ਕਰਨਾ ਹੈ?">
 
-<!ENTITY searchreset.pageInfo1      "Your search settings might be out-of-date. &brandShortName; can help you restore the default search settings.">
+<!ENTITY searchreset.pageInfo1      "ਤੁਹਾਡੀਆਂ ਖੋਜ ਸੈਟਿੰਗਾਂ ਪੁਰਾਣੀਆਂ ਹੋ ਸਕਦੀਆਂ ਹਨ। &brandShortName; ਖੋਜ ਸੈਟਿੰਗਾਂ ਨੂੰ ਮੂਲ ਵਾਸਤੇ ਮੁੜ-ਬਹਾਲ ਕਰਨ ਲਈ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ।">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is

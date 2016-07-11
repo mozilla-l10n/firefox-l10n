@@ -42,4 +42,4 @@
 <!ENTITY done.title                     "ਇੰਪੋਰਟ ਮੁਕੰਮਲ ਹੋਇਆ">
 <!ENTITY done.label                     "ਇਹ ਆਈਟਮਾਂ ਸਫਲਤਾਪੂਰਕ ਇੰਪੋਰਟ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ:">
 
-<!ENTITY closeSourceBrowser.label       "Please ensure the selected browser is closed before continuing.">
+<!ENTITY closeSourceBrowser.label       "ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਚੁਣੇ ਗਏ ਬਰਾਊਜ਼ਰ ਦੇ ਬੰਦ ਕਰਨ ਨੂੰ ਯਕੀਨੀ ਬਣਾਓ।">

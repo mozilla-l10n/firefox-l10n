@@ -47,13 +47,13 @@
 <!ENTITY helpus.getInvolvedLink     "ਭਾਗ ਲਵੋ!">
 <!ENTITY helpus.end                 "">
 
-<!ENTITY releaseNotes.link          "What’s new">
+<!ENTITY releaseNotes.link          "ਨਵਾਂ ਕੀ ਹੈ">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "ਕਾਨੂੰਨੀ ਜਾਣਕਾਰੀ">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "ਅੰਤਮ ਯੂਜ਼ਰ ਹੱਕ">
+<!ENTITY bottomLinks.rights         "ਅੰਤਮ ਵਰਤੋਂਕਾਰ ਦੇ ਹੱਕ">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "ਪਰਦੇਦਾਰੀ ਨੀਤੀ">

@@ -4,20 +4,20 @@
 
 <!ENTITY  general.label                 "ਆਮ">
 
-<!ENTITY  warnAddonInstall.label        "Warn me when sites try to install add-ons">
+<!ENTITY  warnAddonInstall.label        "ਮੈਨੂੰ ਸਾਵਧਾਨ ਕਰੋ, ਜਦੋਂ ਸਾਈਟਾਂ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨ">
 <!ENTITY  warnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-<!ENTITY  enableSafeBrowsing.label        "Block dangerous and deceptive content">
+<!ENTITY  enableSafeBrowsing.label        "ਖ਼ਤਰਨਾਕ ਅਤੇ ਭਰਮਪੂਰਕ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
-<!ENTITY  blockDownloads.label            "Block dangerous downloads">
+<!ENTITY  blockDownloads.label            "ਖ਼ਤਰਨਾਕ ਡਾਊਨਲੋਡਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ">
 <!ENTITY  blockDownloads.accesskey        "D">
 
-<!ENTITY  blockUncommonUnwanted.label     "Warn me about unwanted and uncommon software">
+<!ENTITY  blockUncommonUnwanted.label     "ਮੈਨੂੰ ਬੇਲੋੜੇ ਅਤੇ ਅਸਧਾਰਨ ਸਾਫਟਵੇਅਰਾਂ ਦੇ ਬਾਰੇ ਚੇਤਾਵਨੀ ਦਿਓ">
 <!ENTITY  blockUncommonUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "…ਛੋਟਾਂ">
@@ -26,14 +26,14 @@
 
 <!ENTITY  logins.label                  "ਲਾਗਇਨ">
 
-<!ENTITY  rememberLogins.label          "Remember logins for sites">
+<!ENTITY  rememberLogins.label          "ਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਨੂੰ ਯਾਦ ਰੱਖੋ">
 <!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "…ਛੋਟਾਂ">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
-<!ENTITY  useMasterPassword.label        "Use a master password">
+<!ENTITY  useMasterPassword.label        "ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "Change Master Password…">
+<!ENTITY  changeMasterPassword.label     "…ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
 <!ENTITY  savedLogins.label              "…ਸੰਭਾਲੇ ਹੋਏ ਲਾਗਇਨ">
