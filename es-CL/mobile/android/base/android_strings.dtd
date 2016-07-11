@@ -180,7 +180,7 @@
 <!ENTITY pref_category_installed_search_engines "Motores de búsqueda instalados">
 <!ENTITY pref_category_add_search_providers "Añadir más proveedores de búsqueda">
 <!ENTITY pref_category_search_restore_defaults "Restaurar motores de búsqueda">
-<!ENTITY pref_search_restore_defaults "Restaurar predeterminandos">
+<!ENTITY pref_search_restore_defaults "Restaurar predeterminados">
 <!ENTITY pref_search_restore_defaults_summary "Restaurar predeterminados">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
@@ -418,7 +418,7 @@ size. -->
 <!ENTITY datareporting_abouthr_title "Ver mi reporte de salud">
 <!ENTITY datareporting_telemetry_title "Telemetría">
 <!ENTITY datareporting_telemetry_summary "Comparte datos de rendimiento, uso, hardware y personalizaciones de tu navegador con &vendorShortName; para ayudarnos a mejorar &brandShortName;">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; envía reporte de fallos a &vendorShortName; para hacer más estable y seguro tu navegador">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; envía informes de fallos a &vendorShortName; para hacer más estable y seguro al navegador">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Agente de informe de fallos">
@@ -653,7 +653,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_both "Importando marcadores e historial desde Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Importando marcadores desde Android">
 <!ENTITY bookmarkhistory_import_history "Importando historial desde Android">
-<!ENTITY bookmarkhistory_import_wait "Por favor, espere...">
+<!ENTITY bookmarkhistory_import_wait "Por favor, espera...">
 
 <!ENTITY suggestions_prompt3 "¿Te gustaría activar las sugerencias de búsqueda?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -675,7 +675,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_title2 "Actualización disponible para &brandShortName;">
 <!ENTITY updater_start_select2 "Tocar para descargar">
 
-<!ENTITY updater_downloading_title2 "Descargando &brandShortName;">
+<!ENTITY updater_downloading_title2 "Bajando &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Descarga fallida">
 <!ENTITY updater_downloading_select2 "Tocar para aplicar actualización una vez descargada">
 <!ENTITY updater_downloading_retry2 "Tocar para reintentar">
