@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "Zabierz mnie stąd!">
 <!ENTITY safeb.palm.decline.label "Zignoruj to ostrzeżenie">
 <!ENTITY safeb.palm.reportPage.label "Dlaczego ta strona została zablokowana?">
-<!ENTITY safeb.palm.whyForbidden.label "Dlaczego ta strona została zablokowana?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Strona zgłoszona jako dokonująca ataków!">
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Strona <span id='malware_sitename'/> została zgłoszona jako strona stanowiąca zagrożenie i została zablokowana zgodnie z ustawieniami bezpieczeństwa.">
@@ -18,6 +17,3 @@
 <!ENTITY safeb.blocked.unwantedPage.title "Zgłoszone niechciane oprogramowanie!">
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Strona <span id='unwanted_sitename'/> została zgłoszona jako zawierająca niechciane oprogramowanie i została zablokowana zgodnie z ustawieniami bezpieczeństwa.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Witryny zawierające niechciane oprogramowanie próbują nakłonić do instalacji programów mogących wprowadzać w błąd i wpływać na system operacyjny w nieoczekiwany sposób.</p>">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Zablokowana strona">
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Strona <span id='forbidden_sitename'/> została zablokowana przez administratora.">
