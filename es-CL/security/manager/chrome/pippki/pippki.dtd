@@ -16,8 +16,8 @@
 <!ENTITY resetPassword.text  "Si restableces tu contraseña maestra, todas las contraseñas de webs y de correo electrónico, los datos de los formularios, certificados personales y llaves privadas almacenados serán olvidados. ¿Estás seguro de que quieres restablecer tu contraseña maestra?">
 
 <!-- Downloading a cert -->
-<!ENTITY downloadCert.title "Descargando Certificado">
-<!ENTITY downloadCert.message1 "Se le ha pedido que confíe en una nueva Autoridad de Certificación (CA).">
+<!ENTITY downloadCert.title "Descargando certificado">
+<!ENTITY downloadCert.message1 "Se te ha pedido que confíes en una nueva autoridad de certificación (CA).">
 <!ENTITY downloadCert.trustSSL "Confiar en esta CA para identificar sitios web.">
 <!ENTITY downloadCert.trustEmail "Confiar en este CA para identificar usuarios de email.">
 <!ENTITY downloadCert.trustObjSign "Confiar en esta CA para identificar desarrolladores de software.">
@@ -26,7 +26,7 @@
 <!ENTITY downloadCert.viewCert.text "Examinar certificado CA">
 
 <!-- Strings for the SSL client auth ask dialog -->
-<!ENTITY clientAuthAsk.title "Solicitud de Identificación de Usuario">
+<!ENTITY clientAuthAsk.title "Solicitud de identificación de usuario">
 <!ENTITY clientAuthAsk.message1 "Este sitio ha solicitado que usted se identifique con un certificado:">
 <!ENTITY clientAuthAsk.message2 "Seleccionar un certificado para presentar como identificación:">
 <!ENTITY clientAuthAsk.message3 "Detalles del certificado seleccionado:">

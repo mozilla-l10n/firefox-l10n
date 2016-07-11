@@ -206,7 +206,7 @@
 <!ENTITY addon.updateNow.tooltip              "Instalar la actualización para este complemento">
 <!ENTITY addon.includeUpdate.label            "Incluir en la actualización">
 <!ENTITY addon.updateAvailable.label          "Hay una actualización disponible">
-<!ENTITY addon.checkingForUpdates.label       "Buscar actualizaciones…">
+<!ENTITY addon.checkingForUpdates.label       "Buscando actualizaciones…">
 <!ENTITY addon.releaseNotes.label             "Notas de lanzamiento:">
 <!ENTITY addon.loadingReleaseNotes.label      "Cargando…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Lo siento, hubo un error al cargar las notas de lanzamiento.">

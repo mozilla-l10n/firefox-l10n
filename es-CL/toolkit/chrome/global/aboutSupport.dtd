@@ -14,7 +14,7 @@
 <!ENTITY aboutSupport.crashes.title "Reportes de fallos">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!ENTITY aboutSupport.crashes.id "ID del reporte">
+<!ENTITY aboutSupport.crashes.id "ID del informe">
 <!ENTITY aboutSupport.crashes.sendDate "Enviado">
 <!ENTITY aboutSupport.crashes.allReports "Todos los reportes de fallos">
 <!ENTITY aboutSupport.crashes.noConfig "Esta aplicación no ha sido configurada para mostrar reportes de fallos.">
@@ -59,7 +59,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsPerformance "Rendimiento">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutSupport.appBasicsServiceWorkers "ServiceWorkers registrados">
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers registrados">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Perfiles">
 
@@ -112,7 +112,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Caja de arena">
 
 <!ENTITY aboutSupport.safeModeTitle "Probar el modo seguro">
-<!ENTITY aboutSupport.restartInSafeMode.label "Reinicar con los complementos desactivados…">
+<!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar sin complementos…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Funciones">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnósticos">

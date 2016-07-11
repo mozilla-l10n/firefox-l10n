@@ -50,7 +50,7 @@
 <!ENTITY prefs.ppLink.label         "Política de privacidad">
 
 <!-- Firefox Accounts stuff -->
-<!ENTITY fxaPrivacyNotice.link.label "Aviso de privacidad">
+<!ENTITY fxaPrivacyNotice.link.label "Política de privacidad">
 <!ENTITY determiningAcctStatus.label     "Determinando el estado de la cuenta…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,

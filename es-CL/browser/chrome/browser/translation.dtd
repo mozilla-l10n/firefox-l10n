@@ -42,7 +42,7 @@
 <!ENTITY translation.showTranslation.button     "Mostrar traducción">
 
 <!ENTITY translation.errorTranslating.label     "Hubo un error al traducir esta página.">
-<!ENTITY translation.tryAgain.button            "Volver a intentar">
+<!ENTITY translation.tryAgain.button            "Volver a intentarlo">
 
 <!ENTITY translation.serviceUnavailable.label   "La traducción no está disponible en este momento. Por favor, vuelve a intentarlo más tarde.">
 

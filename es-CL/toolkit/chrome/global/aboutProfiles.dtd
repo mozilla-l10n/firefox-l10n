@@ -6,5 +6,5 @@
 <!ENTITY aboutProfiles.subtitle "Esta página le ayuda a administrar sus perfiles. Cada perfil es un mundo separado que contiene su propio conjunto de historial, marcadores, ajustes y complementos, sin relacionarse con otro perfil.">
 <!ENTITY aboutProfiles.create "Crear un nuevo perfil">
 <!ENTITY aboutProfiles.restart.title "Reiniciar">
-<!ENTITY aboutProfiles.restart.inSafeMode "Reiniciar con complementos desactivados…">
+<!ENTITY aboutProfiles.restart.inSafeMode "Reiniciar sin complementos…">
 <!ENTITY aboutProfiles.restart.normal "Reiniciar normalmente…">
