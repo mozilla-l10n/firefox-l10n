@@ -4,7 +4,9 @@
 
 <!ENTITY defaultSearchEngine.label             "Προεπιλεγμένη μηχανή αναζήτησης">
 
+<!ENTITY chooseYourDefaultSearchEngine.label   "Επιλογή της προεπιλεγμένης μηχανής αναζήτησης. Ο &brandShortName; την χρησιμοποιεί στην μπάρα διευθύνσεων, την μπάρα αναζήτησης και την αρχική σελίδα.">
 
+<!ENTITY provideSearchSuggestions.label        "Παροχή προτάσεων αναζήτηση">
 
 
 

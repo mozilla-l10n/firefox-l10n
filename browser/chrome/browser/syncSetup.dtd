@@ -6,6 +6,8 @@
 
 <!-- First page of the wizard -->
 
+<!ENTITY setup.pickSetupType.description2 "Καλώς ήλθατε, αν δεν έχετε χρησιμοποιήσει το &syncBrand.fullName.label; στο παρελθόν, θα χρειαστεί να δημιουργήσετε ένα νέο λογαριασμό.">
+<!ENTITY button.createNewAccount.label "Δημιουργία νέου λογαριασμού">
 
 
 <!-- New Account AND Existing Account -->

@@ -4,3 +4,5 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Νέα καρτέλα">
+<!ENTITY newtab.customize.classic "Εμφάνιση των δημοφιλέστερων σελίδων σου">
+<!ENTITY newtab.customize.cog.enhanced "Να συμπεριλαμβάνονται προτεινόμενες ιστοσελίδες">

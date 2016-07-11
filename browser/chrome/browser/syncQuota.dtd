@@ -3,3 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY quota.dialogTitle.label    "Όριο εξυπηρετητή">
+<!ENTITY quota.retrievingInfo.label "Γίνεται λήψη πληροφοριών ορίων…">
+<!ENTITY quota.typeColumn.label     "Τύπος">

@@ -3,3 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "Περί δικτύωσης">
+<!ENTITY aboutNetworking.warning               "Πολύ πειραματικό. Να μην χρησιμοποιείται χωρίς επίβλεψη από ενήλικα.">
+<!ENTITY aboutNetworking.showNextTime          "Εμφάνιση της προειδοποίησης και την επόμενη φορά">
