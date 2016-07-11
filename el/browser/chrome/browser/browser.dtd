@@ -442,7 +442,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Ορισμός ως ταπετσαρία…">
 <!ENTITY bookmarkPageCmd2.label       "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY bookmarkThisLinkCmd.label      "Προσθήκη στους σελιδοδείκτες">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "δ">
 <!ENTITY bookmarkThisFrameCmd.label      "Προσθήκη στους σελιδοδείκτες">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "λ">
 <!ENTITY emailPageCmd.label           "Αποστολή δεσμού…">
 <!ENTITY savePageCmd.label            "Αποθήκευση σελίδας ως…">
 <!-- alternate for content area context menu -->

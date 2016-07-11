@@ -14,6 +14,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2/3): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
 <!ENTITY netmonitorUI.perfNotice1         "• Κάντε κλικ στο">
+<!ENTITY netmonitorUI.perfNotice2         "κουμπί για έναρξη ανάλυσης επιδόσεων.">
+<!ENTITY netmonitorUI.perfNotice3         "Ανάλυση">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->

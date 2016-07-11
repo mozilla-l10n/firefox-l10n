@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader.label       "Χρήση προστασίας δεδομένων περιήγησης">
+<!ENTITY  trackingProtectionAlways.label       "Πάντα">
 
 <!ENTITY changeBlockList.label          "Αλλαγή λίστας αποκλεισμού">
 
