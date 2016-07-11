@@ -19,7 +19,7 @@
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
 
-<!ENTITY inspectorCopyCSSSelector.label "CSS নির্বাচক S">
+<!ENTITY inspectorCopyCSSSelector.label "CSS নির্বাচক">
 <!ENTITY inspectorCopyCSSSelector.accesskey "S">
 <!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
@@ -86,7 +86,7 @@
      - edit attribute
      - remove attribute -->
 
-<!ENTITY inspectorAttributesSubmenu.label      "বৈশিষ্ট্যাবলী A">
+<!ENTITY inspectorAttributesSubmenu.label      "বৈশিষ্ট্যাবলী">
 <!ENTITY inspectorAttributesSubmenu.accesskey  "A">
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
