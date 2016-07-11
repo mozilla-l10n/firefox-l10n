@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ക">
 
 <!ENTITY privateBrowsing.title                           "സ്വകാര്യ ബ്രൗസിങ്">
-
+<!ENTITY privateBrowsing.title.tracking                  "നിരീക്ഷണ സംരക്ഷണത്തോടെ സ്വകാര്യ ബ്രൗസിങ്">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "നിങ്ങള്‍ സ്വകാര്യ ജാലകത്തില്‍ ബ്രൗസ് ചെയ്യുമ്പോള്‍, ഫയര്‍ഫോക്സ് ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "സൂക്ഷിക്കുന്നില്ല">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
