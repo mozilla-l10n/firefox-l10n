@@ -348,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Te gustaría ver las pestañas de tus otros dispositivos aquí?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Conéctate para ver una lista de pestañas de tus otros dispositivos.">
-<!ENTITY appMenuRemoteTabs.signin.label "Conectarse para sincronizar">
+<!ENTITY appMenuRemoteTabs.signin.label "Conectarse a Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver barra lateral con las pestañas sincronizadas">
 
 <!ENTITY customizeMenu.addToToolbar.label "Añadir a la barra">
