@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "Allontanarsi da questo sito">
 <!ENTITY safeb.palm.decline.label "Ignora questo avviso">
 <!ENTITY safeb.palm.reportPage.label "Perché questo sito è stato bloccato?">
-<!ENTITY safeb.palm.whyForbidden.label "Perché questo sito è stato bloccato?">
 <!ENTITY safeb.blocked.malwarePage.title "Segnalato sito malevolo">
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Il sito web <span id='malware_sitename'/> è stato segnalato come sito web malevolo ed è stato bloccato sulla base delle impostazioni di sicurezza correnti.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Un sito web malevolo cerca di installare dei software in grado di sottrarre le informazioni personali degli utenti, sfruttare il computer per attaccare altre macchine o semplicemente danneggiare il sistema.</p><p>Alcuni di questi siti distribuiscono intenzionalmente software dannoso, ma gran parte dei siti viene compromessa senza che il proprietario ne sia a conoscenza o ne sia responsabile.</p>">
@@ -15,5 +14,3 @@
 <!ENTITY safeb.blocked.unwantedPage.title "Segnalato sito contenente software indesiderato">
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Il sito web <span id='unwanted_sitename'/> è stato segnalato come sito contenente software indesiderato ed è stato bloccato sulla base delle impostazioni di sicurezza correnti.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Questo tipo di siti cerca di installare programmi che possono risultare ingannevoli e avere conseguenze inaspettate sul sistema.</p>">
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Sito bloccato">
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Il sito web <span id='forbidden_sitename'/> è stato bloccato dal profilo amministratore.">
