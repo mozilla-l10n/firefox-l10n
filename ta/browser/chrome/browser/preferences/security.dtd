@@ -24,9 +24,9 @@
 <!ENTITY  passwordExceptions.label      "விதிவிலக்குகள்…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
-<!ENTITY  useMasterPassword.label        "ஒரு முதன்மை கடவுச்சொல்லை பயன்படுத்து">
+<!ENTITY  useMasterPassword.label        "ஒரு முதன்மை கடவுச்சொல்லை பயன்படுத்தவும்">
 <!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "முதன்மை கடவுச்சொல்லை மாற்று…">
+<!ENTITY  changeMasterPassword.label     "முதன்மை கடவுச்சொல்லை மாற்றவும்...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
 
