@@ -80,8 +80,8 @@
 
 <!ENTITY securityOverride.linkText "ਜਾਂ ਤੁਸੀਂ ਛੋਟ ਨੂੰ ਸ਼ਾਮਲ ਕਰ ਸਕਦੇ ਹੋ…">
 <!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
-<p>If you still wish to add an exception for this site, you can do so in your advanced encryption settings.</p>
+<p>ਤੁਹਾਨੂੰ ਛੋਟ ਨਹੀਂ ਜੋੜਨੀ ਚਾਹੀਦੀ ਹੈ, ਜੇ ਤੁਸੀਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਭਰੋਸੇਯੋਗ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਨੂੰ ਵਰਤ ਰਹੇ ਹੋ ਜਾਂ ਜੇ ਤੁਸੀਂ ਇਸ ਸਰਵਰ ਲਈ ਚੇਤਾਵਨੀ ਨਹੀਂ ਵੇਖਦੇ ਰਹੋ ਹੋ।</p>
+<p>ਜੇ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਹਾਲੇ ਵੀ ਛੋਟ ਜੋੜਨੀ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਤਕਨੀਕੀ ਇੰਕ੍ਰਿਪਸ਼ਨ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਇਹ ਕਰ ਸਕਦੇ ਹੋ।</p>
 ">
 
 <!ENTITY cspBlocked.title "ਸਮੱਗਰੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਵਲੋਂ ਪਾਬੰਦੀ ਲਾਈ">
