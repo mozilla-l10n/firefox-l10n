@@ -622,6 +622,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "Επανασύνδεση στο &syncBrand.shortName.label;…">
 
 
+<!ENTITY social.ok.label       "ΟΚ">
 
 <!ENTITY social.toggleSidebar.label "Προβολή πλευρικής στήλης">
 

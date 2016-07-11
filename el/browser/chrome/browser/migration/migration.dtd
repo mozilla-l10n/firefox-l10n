@@ -9,8 +9,11 @@
 <!ENTITY importFromUnix.label           "Εισαγωγή προτιμήσεων,σελιδοδεικτών, ιστορικού, κωδικών και άλλων δεδομένων από:">
 <!ENTITY importFromBookmarks.label      "Εισαγωγή σελιδοδεικτών από:">
 
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromNothing.label        "Να μην εισαχθεί τίποτα">
 <!ENTITY importFromNothing.accesskey    "τ">
+<!ENTITY importFromSafari.label         "Safari">
 
 <!ENTITY noMigrationSources.label       "Δεν βρέθηκαν προγράμματα τα οποία περιέχουν σελιδοδείκτες, ιστορικό ή δεδομένα κωδικών.">
 

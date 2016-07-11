@@ -16,6 +16,7 @@
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID Αναφοράς">
 <!ENTITY aboutSupport.crashes.sendDate "Υποβλήθηκε">
+<!ENTITY aboutSupport.crashes.allReports "Όλες οι αναφορές κατάρρευσης">
 
 <!ENTITY aboutSupport.extensionsTitle "Επεκτάσεις">
 <!ENTITY aboutSupport.extensionName "Όνομα">
