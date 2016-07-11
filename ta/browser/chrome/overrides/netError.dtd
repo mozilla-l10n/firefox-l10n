@@ -30,7 +30,7 @@
 <!ENTITY generic.longDesc "<p>சில காரணங்களால் &brandShortName; ஆல் இந்த பக்கத்தை ஏற்ற முடியாது.</p>">
 
 <!ENTITY malformedURI.title "இந்த முகவரி தவறானது">
-<!ENTITY malformedURI.longDesc "<ul> <li>இணைய முகவரி கீழ்காணுமாறு இருக்கும் <strong>http://www.example.coஅ/</strong></li><li>நீங்க / பயன்படுத்தினீர்களா என பார்க்கவும் (i.e. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>இணைய முகவரி கீழ்காணுமாறு இருக்கும் <strong>http://www.example.com/</strong></li><li>நீங்க / பயன்படுத்தினீர்களா என பார்க்கவும் (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "இணைப்பில் தடங்கல் உள்ளது">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
