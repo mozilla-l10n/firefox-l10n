@@ -42,7 +42,7 @@
 <!ENTITY fileAccessDenied.title "Tiedoston käyttö estettiin">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>Tiedosto on saatettu poistaa tai siirtää, tai sen käyttöoikeudet voivat estää käytön.</li>
+  <li>Tiedosto on voitu poistaa tai siirtää, tai ehkä siihen ei ole käyttöoikeutta.</li>
 </ul>
 ">
 

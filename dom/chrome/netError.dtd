@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>Tiedosto voi olla poistettu, siirretty tai nimetty uudelleen.</li><li>Onko tiedoston nimi ja sijainti kirjoitettu virheettömästi ja oikealla kirjainkoolla?</li><li>Onko käyttäjällä lukuoikeudet tiedostoon?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Tiedoston käyttö estettiin">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>Tiedosto on saatettu poistaa tai siirtää, tai sen käyttöoikeudet voivat estää käytön.</li></ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Tiedosto on voitu poistaa tai siirtää, tai ehkä siihen ei ole käyttöoikeutta.</li></ul>">
 
 <!ENTITY generic.title "Verkkopyyntöä ei kyetä toteuttamaan">
 <!ENTITY generic.longDesc "<p>Tästä ongelmasta tai virheestä ei ole saatavilla lisätietoja.</p>">
