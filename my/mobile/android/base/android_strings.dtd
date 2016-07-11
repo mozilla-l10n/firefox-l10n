@@ -418,10 +418,10 @@ size. -->
 <!ENTITY datareporting_abouthr_title "ကျန်းမာရေးအစီရင်ခံစာ အားကြည့်မည်">
 <!ENTITY datareporting_telemetry_title "တယ်လီမန်ထရီ">
 <!ENTITY datareporting_telemetry_summary "လုပ်ဆောင်ချက်များ ၊ ဟတ်ဒ်ဝဲနှင့် ပြင်ဆင်မှူအချက်အလက်များအား &vendorShortName; အားမျှဝေပေးခြင်း အားဖြင့် &brandShortName; အားပိုကောင်းအောင်လုပ်ရန်ကူညီပါ။">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; သည် ပျက်ဆီးမှု ဆိုင်ရာအချက်အလက်များအား &vendorShortName; သို့ပေးပို့ခြင်းအားဖြင့် သင်၏ သုံးဆွဲမှူအားပိုမိုတည်ငြိမ်လုံခြုံအောင် လုပ်ရန် ကူညီပါ။">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; သည် ပျက်ဆီးမှု ဆိုင်ရာအချက်အလက်များကို &vendorShortName; အား ပေးပို့ခြင်းဖြင့် သင်၏ သုံးဆွဲမှုကို ပိုမိုတည်ငြိမ်လုံခြုံအောင် ပြုလုပ်ရာတွင် ကူညီပါ။">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "ပျက်ဆီးချက်တင်ပြသူ">
+<!ENTITY datareporting_crashreporter_title_short "ပျက်စီးမှုတင်ပြသူ">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; တည်နေရာ ဝန်ဆောင်မှု">
 <!ENTITY datareporting_wifi_geolocation_summary4 "ကမ္ဘာ့မြေပုံ ဆွဲရာတွင် &vendorShortName; ကို ကူညီပါ။ ကျွန်ုပ်တို့၏ တည်နေရာပြစနစ် ပိုမိုကောင်းမွန်စေရန် သင့်ကိရိယာ၏ ခန့်မှန်း Wi-Fi နှင့် ဆယ်လူလာ တည်နေရာကို မျှဝေပါ။">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
@@ -443,8 +443,8 @@ size. -->
 <!ENTITY char_encoding "အက္ခရာ စာဝှက်ရေးသားခြင်း">
 
 <!ENTITY share "မျှ​ဝေ">
-<!ENTITY share_title "မျှဝေမှ">
-<!ENTITY share_image_failed "ယခု ပုံအား မမျှဝေနိုင်ပါ">
+<!ENTITY share_title "အခြားကနေ မျှဝေ">
+<!ENTITY share_image_failed "ယခုရုပ်ပုံကို မမျှဝေနိုင်ပါ">
 <!ENTITY save_as_pdf "PDF အနေဖြင့်သိမ်း">
 <!ENTITY print "ပုံနှိပ်ရန်">
 <!ENTITY find_in_page "စာမျက်နှာထဲတွင် ရှာပါ">
@@ -457,9 +457,9 @@ size. -->
 <!ENTITY close_private_tabs "တစ်ကိုယ်ရေသုံးတပ်ဗ်များအား ပိတ်ပါ">
 <!ENTITY tabs_normal "တပ်ဗ်များ">
 <!ENTITY tabs_private "တစ်ကိုယ်ရေသုံး">
-<!ENTITY set_image_fail "ပုံအား မထားလိုက်နိုင်ပါ">
-<!ENTITY set_image_path_fail "ပုံအား မသိမ်းနိုင်ပါ">
-<!ENTITY set_image_chooser_title "ပုံအား သုံးမည်">
+<!ENTITY set_image_fail "ရုပ်ပုံကို မသတ်မှတ်နိုင်ပါ">
+<!ENTITY set_image_path_fail "ရုပ်ပုံကို မသိမ်းနိုင်ပါ">
+<!ENTITY set_image_chooser_title "ရုပ်ပုံကို အသုံးပြုမည်">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
@@ -470,9 +470,9 @@ size. -->
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_sending_to "ဖုန်းသို့ ပို့နေသှ်">
-<!ENTITY media_play "ဖွင့်ပါ။">
-<!ENTITY media_pause "ခေတ္တရပ်တန့်တယ်">
+<!ENTITY media_sending_to "ဖုန်းသို့ ပို့နေသည်">
+<!ENTITY media_play "ဖွင့်ပါ">
+<!ENTITY media_pause "ခေတ္တရပ်တန့်ပါ">
 <!ENTITY media_stop "ရပ်ပါ">
 
 <!ENTITY contextmenu_open_new_tab "တပ်ဗ်အသစ်တစ်ခုဖွင့်ပါ">
@@ -487,9 +487,9 @@ size. -->
 <!ENTITY contextmenu_subscribe "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ">
 <!ENTITY contextmenu_site_settings "ဝဘ်ဆိုက်ဆိုင်ရာအပြင်အဆင်များကို ပြင်ရန်">
 <!ENTITY contextmenu_top_sites_edit "တည်းဖြတ်">
-<!ENTITY contextmenu_top_sites_pin "ဆိုဒ်အား တွဲပါ">
-<!ENTITY contextmenu_top_sites_unpin "ဆိုဒ်အားတွဲဖြုတ်ပါ">
-<!ENTITY contextmenu_add_search_engine "ရှာဖွေရေး ဝန်ဆောင်မှု ထည့်သွင်းပါ">
+<!ENTITY contextmenu_top_sites_pin "ဆိုဒ်ကို တွယ်ချိတ်ပါ">
+<!ENTITY contextmenu_top_sites_unpin "ဆိုဒ်ကို တွယ်ချိတ်မှုကနေ ဖြုတ်ပါ">
+<!ENTITY contextmenu_add_search_engine "ရှာဖွေရေး ဝန်ဆောင်မှုကို ထည့်သွင်းပါ">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -522,9 +522,9 @@ size. -->
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
-<!ENTITY page_removed " စာမျက်နှာအားဖယ်ပြီး">
+<!ENTITY page_removed "စာမျက်နှာကို ဖယ်ရှားပြီး">
 
-<!ENTITY bookmark_edit_title "စာအမှာအားပြင်">
+<!ENTITY bookmark_edit_title "စာမှတ်ကို ပြင်ရန်">
 <!ENTITY bookmark_edit_name "အမည်">
 <!ENTITY bookmark_edit_location "တည်နေရာ">
 <!ENTITY bookmark_edit_keyword "သော့ချက် စာလုံး">
@@ -546,9 +546,9 @@ size. -->
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "မဆောင်ရွက်ပါ">
-<!ENTITY button_yes "ကောင်းပြီ">
-<!ENTITY button_no "မလုပ်ဘူး">
-<!ENTITY button_clear_data "အချက်အလက်အားရှင်းပါ">
+<!ENTITY button_yes "လုပ်ဆောင်မည်">
+<!ENTITY button_no "မလုပ်ပါ">
+<!ENTITY button_clear_data "အချက်အလက်ကို ရှင်းပါ">
 <!ENTITY button_set "သတ်မှတ်ရန်">
 <!ENTITY button_clear "ရှင်းလင်းပါ">
 <!ENTITY button_copy "ကူးယူပါ">
@@ -556,7 +556,7 @@ size. -->
 <!ENTITY home_top_sites_title "ထိပ်တန်းဝဘ်ဆိုဒ်များ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "ဆိုက်တစ်ခု အားထည့်ပါ">
+<!ENTITY home_top_sites_add "ဆိုက်တစ်ခုကို ထည့်ပါ">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
@@ -568,7 +568,7 @@ size. -->
 <!ENTITY home_synced_devices_one "ကိရိယာ 1 ခု">
 <!ENTITY home_history_back_to2 "မှတ်တမ်းအပြည့်အစုံသို့ ပြန်သွားပါ">
 <!ENTITY home_clear_history_button "ဘယောက်ဆာ မှတ်တမ်းကို ရှင်းပါ">
-<!ENTITY home_clear_history_confirm "သင့် မှတ်တမ်းအား ဖျက်ပစ်မည်မှာ သေချာပြီလား?">
+<!ENTITY home_clear_history_confirm "သင့် မှတ်တမ်းကို ဖျက်ပစ်မည်မှာ သေချာပြီလား?">
 <!ENTITY home_bookmarks_empty "သင်မှတ်ထားသော လင်ခ့်များ ဒီနေရာတွင် ပြပါမည်။">
 <!ENTITY home_closed_tabs_title "မကြာသေးခင်က ပိတ်လိုက်သော တပ်ဗ်များ">
 <!ENTITY home_last_tabs_title "နောက်ဆုံးအကြိမ် သုံးခဲ့သော တပ်ဗ်များ">
@@ -591,10 +591,10 @@ size. -->
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
 
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; ပစ္စည်းများဖုံးထားသှ်">
+<!ENTITY home_remote_tabs_many_hidden_devices "ကိရိယာ &formatD; ခု ဖုံးကွယ်ထားသည်">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "ဖုံးကွယ်ထားသော ပစ္စည်းများ">
+<!ENTITY home_remote_tabs_hidden_devices_title "ဖုံးကွယ်ထားသော ကိရိယာများ">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "ရွေးထားသော ပစ္စည်းများအားဖွင့်ထားပါ">
@@ -603,11 +603,11 @@ size. -->
 <!ENTITY remote_tabs_panel_moved_desc "သင်၏ အခြားဖုန်းမှ တပ်ဗ်များကို လွယ်လွယ်ကူကူ သုံးစွဲနိုင်ရန် သင့်ပင်မစာမျက်နှာရှိ ရင်ပြင်တစ်ခုပေါ်သို့ ပို့ပေးလိုက်သည်။">
 <!ENTITY remote_tabs_panel_moved_link "ရင်ပြင်အသစ်သို့ ပို့ပေးပါ">
 
-<!ENTITY pin_site_dialog_hint "ရှာဖွေရေးကီးစာလုံး ထည့်ပါ">
+<!ENTITY pin_site_dialog_hint "ရှာဖွေရေးစာလုံး ထည့်ပါ">
 
 <!ENTITY filepicker_title "ဖိုင် ရွေးပါ">
 <!ENTITY filepicker_audio_title "အသံသွင်း သို့ အသံတစ်သံအားရွေးပါ">
-<!ENTITY filepicker_image_title "ဓာတ်ပုံ ရိုက်သို့  တစ်ပုံရွေးပါ">
+<!ENTITY filepicker_image_title "ဓာတ်ပုံရွေးပါ သို့မဟုတ် ရိုက်ပါ ">
 <!ENTITY filepicker_video_title "ဗီဒီယိုရိုက် သို့ ဗီဒီယိုတစ်ခုရွေးပါ">
 <!-- Site identity popup -->
 
@@ -644,15 +644,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY learn_more "ဆက်လက်ဖတ်ရှူရန်">
 <!ENTITY enable_protection "အကာအကွယ် ဖွင့်ထားပါ">
-<!ENTITY disable_protection "အကာအကွယ်အား ပိတ်ပါ">
+<!ENTITY disable_protection "အကာအကွယ်ကို ပိတ်ပါ">
 
 <!ENTITY private_data_success "တစ်ကိုယ်ရေသုံး အချက်အလက်များရှင်းပြီး">
 <!ENTITY private_data_fail "အချို့သော တစ်ကိုယ်ရေသုံးအချက်အလက်များ မရှင်းလိုက်နိုင်ပါ">
 
 <!ENTITY bookmarkhistory_button_import "တင်သွင်းပါ">
-<!ENTITY bookmarkhistory_import_both "စာအမှတ်များနှင့် မှတ်တမ်းများအား   ဖုန်းမှ ဆွဲယူနေသှ်">
+<!ENTITY bookmarkhistory_import_both "စာအမှတ်များနှင့် မှတ်တမ်းများကို ဖုန်းထံမှ ဆွဲယူနေသည်">
 <!ENTITY bookmarkhistory_import_bookmarks "စာအမှတ်များအား ဖုန်းမှ ဆွဲယူနေသှ် ">
-<!ENTITY bookmarkhistory_import_history "မှတ်တမ်းများအား ဖုန်းမှ ဆွဲယူနေသှ် ">
+<!ENTITY bookmarkhistory_import_history "Android ထဲမှ မှတ်တမ်းများကို ဆွဲယူနေသည်">
 <!ENTITY bookmarkhistory_import_wait "စောင့်နေပါ...">
 
 <!ENTITY suggestions_prompt3 "ရှာဖွေရေး အကြံပေးချက်များအား ဖွင့်ထားမည်လား?">
@@ -677,7 +677,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_downloading_title2 "&brandShortName; အားဒေါင်းလုဒ်ချနေသှ်">
 <!ENTITY updater_downloading_title_failed2 "ဒေါင်းလုဒ်ရယူမှု မအောင်မြင်">
-<!ENTITY updater_downloading_select2 "မွမ်းမံချက်အား ဒေါင်းလုဒ်ရယူ​ပြီး ချက်ခြင်း အသုံးချရန် ထိပါ">
+<!ENTITY updater_downloading_select2 "မွမ်းမံချက်ကို ဒေါင်းလုဒ်ရယူ​ပြီး ချက်ခြင်း အသုံးချရန် ထိပါ">
 <!ENTITY updater_downloading_retry2 "ပြန်လည်ကြိုးစားရန် ထိပါ">
 
 <!ENTITY updater_apply_title2 "&brandShortName; အတွက် မွမ်းမံချက်ရှိသည်">
