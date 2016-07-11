@@ -15,7 +15,7 @@
 <!ENTITY listEmpty.recentUpdates.label        "No ha habido actualizaciones recientes de ningún complemento">
 <!ENTITY listEmpty.findUpdates.label          "Buscar actualizaciones">
 <!ENTITY listEmpty.search.label               "No se pudo encontrar ningún complemento que coincida">
-<!ENTITY listEmpty.button.label               "Conocer más sobre complementos">
+<!ENTITY listEmpty.button.label               "Aprender más sobre complementos">
 <!ENTITY installAddonFromFile.label           "Instalar complemento desde archivo…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Herramientas para todos los complementos">
