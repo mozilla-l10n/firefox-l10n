@@ -169,9 +169,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "সম্প্রতি বুকমার্ক করা">
 <!ENTITY otherBookmarksCmd.label "অন্য বুকমার্কগুলো">
 <!ENTITY bookmarksToolbarChevron.tooltip "আরও বুকমার্ক প্রদর্শন">
-<!ENTITY showRecentlyBookmarked.label     "সাম্প্রতিক বুকমার্কসমূহ প্রদর্শন S">
-<!ENTITY showRecentlyBookmarked.accesskey "S">
-<!ENTITY hideRecentlyBookmarked.label     "সাম্প্রতিক বুকমার্কসমূহ লুকাও H">
+<!ENTITY showRecentlyBookmarked.label     "সাম্প্রতিক বুকমার্ক সমূহ প্রদর্শন">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "সাম্প্রতিক বুকমার্ক সমূহ লুকাও">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "পূর্ববর্তী">
@@ -560,7 +560,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Slow (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
-<!ENTITY mediaPlaybackRate100x2.label "স্বাভাবিক N">
+<!ENTITY mediaPlaybackRate100x2.label "স্বাভাবিক">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Fast (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
@@ -571,7 +571,7 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Ludicrous (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
-<!ENTITY mediaLoop.label             "পুনরাবৃত্তি L">
+<!ENTITY mediaLoop.label             "পুনরাবৃত্তি">
 <!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
@@ -737,15 +737,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.open.label                       "খুলুন O">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "নতুন ট্যাবে খুলুন (W)">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "W">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "নতুন উইন্ডোতে লিংক খোলা হবে (W)">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "W">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "একটি নতুন ব্যক্তিগত উইন্ডোতে লিংক খোলা হবে P">
+<!ENTITY syncedTabs.context.openInNewTab.label               "নতুন ট্যাবে খুলুন">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "নতুন উইন্ডোতে লিংক খোলা হবে">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "একটি নতুন ব্যক্তিগত উইন্ডোতে লিংক খোলা হবে">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "এই পৃষ্ঠা বুকমার্ক করা হবে…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "এ">
-<!ENTITY syncedTabs.context.copy.label                       "অনুলিপি C">
+<!ENTITY syncedTabs.context.copy.label                       "অনুলিপি">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 

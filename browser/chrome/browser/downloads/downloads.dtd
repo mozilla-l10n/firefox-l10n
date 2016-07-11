@@ -69,7 +69,7 @@
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
-<!ENTITY cmd.unblock2.label               "ডাউনলোড অনুমোদন o">
+<!ENTITY cmd.unblock2.label               "ডাউনলোড অনুমোদন">
 <!ENTITY cmd.unblock2.accesskey           "o">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
