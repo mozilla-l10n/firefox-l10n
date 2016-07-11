@@ -15,7 +15,7 @@
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Yhtään tiliä ei ole vielä määritelty">
 <!ENTITY accountManager.noAccount.description "Napsauttamalla &accountManager.newAccount.label; -painiketta voit määritellä &brandShortName;in avulla uuden tilin.">
-<!ENTITY account.autoSignOn.label     "Kirjudu käynnistäettäessä">
+<!ENTITY account.autoSignOn.label     "Kirjaudu käynnistettäessä">
 <!ENTITY account.autoSignOn.accesskey "K">
 <!ENTITY account.connect.label        "Yhdistä">
 <!ENTITY account.disconnect.label     "Katkaise yhteys">
