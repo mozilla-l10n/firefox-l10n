@@ -8,7 +8,7 @@
 <!ENTITY syncBrand.shortName.label "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
 <!-- Main titles. -->
 
-<!ENTITY sync.title.connect.label "&syncBrand.shortName.label;…အားတပ်ဆင်တော့မည်။">
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label;… ကို တပ်ဆင်တော့မည်။">
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "သင်၏ ဖုန်းအသစ်အား စသုံးရန် အတွင် \&quot;&syncBrand.shortName.label; အား တပ်ဆင်ပါ \&quot; ကို ဖုန်းတွင်ရွေးပါ">
