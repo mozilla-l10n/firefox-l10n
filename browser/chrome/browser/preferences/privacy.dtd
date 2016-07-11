@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY  trackingProtectionHeader.label       "പിന്തുടരല്‍ സുരക്ഷ ഉപയോഗിക്കുക">
+<!ENTITY  trackingProtectionAlways.label       "എപ്പോഴും">
+<!ENTITY  trackingProtectionAlways.accesskey   "ഴ">
+<!ENTITY  trackingProtectionPrivate.label      "സ്വകാര്യ ജാലകങ്ങളില്‍ മാത്രം">
+<!ENTITY  trackingProtectionPrivate.accesskey  "ത">
+<!ENTITY  trackingProtectionNever.label        "ഒരിക്കലുമില്ല">
+<!ENTITY  trackingProtectionNever.accesskey    "ഒ">
 <!ENTITY  trackingProtectionLearnMore.label    "കൂടുതല്‍ അറിയുക">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "വിട്ടുവീഴ്ചകള്‍…">
+<!ENTITY  trackingProtectionExceptions.accesskey "ക">
 
 <!ENTITY tracking.label                 "നിരീക്ഷണം">
 <!ENTITY trackingProtectionPBM5.label         "നിരീക്ഷിക്കല്‍ സംരക്ഷണം സ്വകാര്യ ജാലകത്തില്‍ ഉപയോഗിക്കുക">
