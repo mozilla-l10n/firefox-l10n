@@ -47,7 +47,7 @@
 <!ENTITY  crash_allow_contact2 "&vendorShortName; voi ottaa minuun yhteyttä ilmoituksen puitteissa">
 <!ENTITY  crash_email "Sähköpostiosoitteesi">
 <!ENTITY  crash_closing_alert "Lopetetaanko lähettämättä kaatumisilmoitusta?">
-<!ENTITY  sending_crash_report "Lähetään ilmoitusta\u2026">
+<!ENTITY  sending_crash_report "Lähetetään ilmoitusta\u2026">
 <!ENTITY  crash_close_label "Sulje">
 <!ENTITY  crash_restart_label "Käynnistä &brandShortName; uudestaan">
 
