@@ -20,6 +20,7 @@
 
 <!ENTITY rights.intro-point2-a "Το Ίδρυμα Mozilla όμως δεν σας παραχωρεί δικαιώματα στο όνομα και τα λογότυπα του Mozilla και του Firefox. Περισσότερες πληροφορίες για τα ονόματα και λογότυπα θα βρείτε ">
 <!ENTITY rights.intro-point2-b "εδώ">
+<!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
 <!ENTITY rights.intro-point2.5 "Μερικές λειτουργίες του &brandShortName;, όπως ο Crash Reporter, σας προσφέρουν την επιλογή υποβολής σχολίων στον &vendorShortName;. Επιλέγοντας να υποβάλετε σχόλια , δίνετε την άδεια στον &vendorShortName; να χρησιμοποιήσει τα σχόλια για να βελτιώσει τα προϊόντα του , να δημοσιεύσει και να μοιράσει τα σχόλια.">
@@ -27,6 +28,7 @@
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Ο τρόπος χρήσης των προσωπικών σας πληροφοριών και των σχολίων που υποβάλετε στον &vendorShortName; μέσω του &brandShortName; περιγράφεται στην  ">
 <!ENTITY rights2.intro-point3b "Πολιτική απορρήτου του &brandShortName;">
+<!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Όποιεσδήποτε σχετικές πολιτικές προστασίας απορρήτου μπορούν να αναφερθούν εδώ.">
@@ -34,6 +36,7 @@
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "Μερικές από τις λειτουργίες του &brandShortName; χρησιμοποιούν διαδικτυακές πληροφοριακές υπηρεσίες, για τις οποίες όμως δεν μπορούμε να εγγυηθούμε ότι είναι 100&#37; χωρίς σφάλματα. Περισσότερες πληροφορίες, μαζί με πληροφορίες για την απενεργοποίηση αυτών των υπηρεσιών μπορείτε να βρείτε στους ">
 <!ENTITY rights.intro-point4b "όρους υπηρεσίας">
+<!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Αν αυτό το προϊόν περιέχει ενσωματωμένες υπηρεσίες, όλοι οι όροι αυτών των υπηρεσιών θα πρέπει να οδηγούν στην ενότητα">

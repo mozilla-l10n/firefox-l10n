@@ -60,6 +60,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.cookies): This is the label displayed
   -  in the network details pane identifying the cookies tab. -->
+<!ENTITY netmonitorUI.tab.cookies         "Cookies">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.params): This is the label displayed
   -  in the network details pane identifying the params tab. -->
@@ -81,9 +82,11 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterHTML): This is the label displayed
   -  in the network details footer for the "HTML" filtering button. -->
+<!ENTITY netmonitorUI.footer.filterHTML   "HTML">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterCSS): This is the label displayed
   -  in the network details footer for the "CSS" filtering button. -->
+<!ENTITY netmonitorUI.footer.filterCSS    "CSS">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterJS): This is the label displayed
   -  in the network details footer for the "JS" filtering button. -->
