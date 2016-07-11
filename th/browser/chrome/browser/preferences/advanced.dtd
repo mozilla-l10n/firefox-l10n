@@ -10,8 +10,8 @@
 
 <!ENTITY useCursorNavigation.label       "ใช้ปุ่มลูกศรนำทางภายในหน้าเสมอ">
 <!ENTITY useCursorNavigation.accesskey   "ป">
-<!ENTITY searchStartTyping.label         "ค้นหาข้อความเมื่อเริ่มต้นพิมพ์">
-<!ENTITY searchStartTyping.accesskey     "ข">
+<!ENTITY searchStartTyping.label         "ค้นหาข้อความเมื่อฉันเริ่มพิมพ์">
+<!ENTITY searchStartTyping.accesskey     "ค">
 <!ENTITY blockAutoRefresh.label          "เตือนทุกครั้งเมื่อเว็บไซต์จะทำการเปลี่ยนเส้นทางหรือเรียกหน้าเว็บใหม่">
 <!ENTITY blockAutoRefresh.accesskey      "ว">
 <!ENTITY useOnScreenKeyboard.label       "แสดงแป้นพิมพ์สัมผัสเมื่อต้องการ">
@@ -95,8 +95,8 @@
 
 <!ENTITY offlineNotify.label             "แจ้งเมื่อเว็บไซต์ต้องการเก็บข้อมูลไว้ใช้ตอนออฟไลน์">
 <!ENTITY offlineNotify.accesskey         "จ">
-<!ENTITY offlineNotifyExceptions.label   "ยกเว้น…">
-<!ENTITY offlineNotifyExceptions.accesskey "ย">
+<!ENTITY offlineNotifyExceptions.label   "ข้อยกเว้น…">
+<!ENTITY offlineNotifyExceptions.accesskey "อ">
 
 <!ENTITY offlineAppsList2.label          "เว็บไซต์เหล่านี้ได้รับอนุญาตให้เก็บข้อมูลไว้ใช้ตอนออฟไลน์:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -115,5 +115,5 @@
 <!ENTITY enableOCSP.accesskey            "ข">
 <!ENTITY viewCerts.label                 "ดูใบรับรอง">
 <!ENTITY viewCerts.accesskey             "ด">
-<!ENTITY viewSecurityDevices.label       "กลไกความปลอดภัย">
-<!ENTITY viewSecurityDevices.accesskey   "ก">
+<!ENTITY viewSecurityDevices.label       "อุปกรณ์ความปลอดภัย">
+<!ENTITY viewSecurityDevices.accesskey   "อ">
