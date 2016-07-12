@@ -13,7 +13,7 @@
 
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
-<!ENTITY search_plus_content_description 'Agregar a la barra de búsqueda'>
+<!ENTITY search_plus_content_description 'Añadir a la barra de búsqueda'>
 
 <!ENTITY search_pref_title 'Ajustes'>
 <!ENTITY search_pref_button_content_description 'Ajustes'>
