@@ -70,7 +70,7 @@
 <!ENTITY updates.updating.label               "กำลังปรับรุ่นส่วนเสริม">
 <!ENTITY updates.installed.label              "ปรับรุ่นส่วนเสริมของคุณแล้ว">
 <!ENTITY updates.downloaded.label             "ดาวน์โหลดส่วนเสริมของคุณแล้ว">
-<!ENTITY updates.restart.label                "เริ่มใหม่เพื่อให้การติดตั้งสมบูรณ์">
+<!ENTITY updates.restart.label                "เริ่มการทำงานใหม่ตอนนี้เพื่อให้การติดตั้งเสร็จสมบูรณ์">
 <!ENTITY updates.noneFound.label              "ไม่พบการปรับรุ่น">
 <!ENTITY updates.manualUpdatesFound.label     "ดูการปรับรุ่นที่ตรวจพบ">
 <!ENTITY updates.updateSelected.label         "ติดตั้งการปรับรุ่น">
@@ -199,7 +199,7 @@
 <!ENTITY addon.undoAction.tooltip             "เลิกทำการกระทำนี้">
 <!ENTITY addon.undoRemove.label               "เลิกทำ">
 <!ENTITY addon.undoRemove.tooltip             "เก็บส่วนเสริมนี้ไว้">
-<!ENTITY addon.restartNow.label               "เริ่มใหม่เดี๋ยวนี้">
+<!ENTITY addon.restartNow.label               "เริ่มการทำงานใหม่ตอนนี้">
 <!ENTITY addon.install.label                  "ติดตั้ง">
 <!ENTITY addon.install.tooltip                "ติดตั้งส่วนเสริมนี้">
 <!ENTITY addon.updateNow.label                "ปรับรุ่นเดี๋ยวนี้">

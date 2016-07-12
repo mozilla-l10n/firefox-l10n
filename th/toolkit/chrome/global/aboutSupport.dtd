@@ -30,7 +30,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentHomepage "หน้าแรก">
 
 
-<!ENTITY aboutSupport.appBasicsTitle "แอปพลิเคชั่นพื้นฐาน">
+<!ENTITY aboutSupport.appBasicsTitle "พื้นฐานแอปพลิเคชัน">
 <!ENTITY aboutSupport.appBasicsName "ชื่อ">
 <!ENTITY aboutSupport.appBasicsVersion "รุ่น">
 <!ENTITY aboutSupport.appBasicsBuildID "Build ID">
@@ -105,7 +105,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "กระบะทราย">
 
 <!ENTITY aboutSupport.safeModeTitle "ลองใช้โหมดปลอดภัย">
-<!ENTITY aboutSupport.restartInSafeMode.label "เริ่มใหม่และปิดใช้งานส่วนเสริม…">
+<!ENTITY aboutSupport.restartInSafeMode.label "เริ่มการทำงานใหม่และปิดใช้งานส่วนเสริม…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "คุณลักษณะ">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "การวินิจฉัย">
