@@ -34,7 +34,7 @@
 <!ENTITY config.type.accesskey "T">
 <!ENTITY config.network.label "Sieć:">
 <!ENTITY config.network.hint "Znana nazwa sieci lub nazwa serwera">
-<!ENTITY config.network.accesskey "Z">
+<!ENTITY config.network.accesskey "S">
 <!ENTITY config.target.label "Cel:">
 <!ENTITY config.target.hint "Docelowy kanał lub nazwa użytkownika">
 <!ENTITY config.target.accesskey "C">
