@@ -129,7 +129,8 @@
 <!ENTITY unknownSocketType.title "Unferwacht antwurd fan de server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Soargje derfoar dat de persoanlike befeiligingsbehearder op jo systeem ynstallearre is.</li>
+  <li>Soargje derfoar dat de persoanlike befeiligingsbehearder op jo systeem 
+  ynstallearre is.</li>
   <li>Dit kin it gefolch wêze fan in net-standert konfiguraasje fan de server.</li>
 </ul>
 ">

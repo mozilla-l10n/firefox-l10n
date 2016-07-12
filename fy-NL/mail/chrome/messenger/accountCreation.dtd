@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard.title          "E-mailaccount ynstelle">
-<!ENTITY name.label                		 "Jo namme">
+<!ENTITY name.label                		   "Jo namme">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Foarnamme Achternamme">
 <!ENTITY name.text                       "Jo namme, as toant oan oaren">
@@ -20,8 +20,8 @@
 <!ENTITY imapLong.label                  "IMAP (mappen op in oare kompjûter)">
 <!ENTITY pop3Long.label                  "POP3 (e-mail op jo kompjûter bewarje)">
 
-<!ENTITY incoming.label		  			 "Ynkommend:">
-<!ENTITY outgoing.label             	 "Utgeand:">
+<!ENTITY incoming.label		  			       "Ynkommend:">
+<!ENTITY outgoing.label             	   "Utgeand:">
 <!ENTITY username.label                  "Brûkersnamme:">
 <!ENTITY hostname.label                  "Serverhostnamme">
 <!ENTITY port.label                      "Poarte">
@@ -41,7 +41,7 @@
 <!ENTITY advancedSetup.accesskey         "W">
 <!ENTITY cancel.label                    "Annulearje">
 <!ENTITY cancel.accesskey                "A">
-<!ENTITY continue.label                  "Fierder">
+<!ENTITY continue.label                  "Trochgean">
 <!ENTITY continue.accesskey              "F">
 <!ENTITY stop.label                      "Stop">
 <!ENTITY stop.accesskey                  "S">
@@ -49,7 +49,7 @@
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY half-manual-test.label          "Op 'e nij teste">
+<!ENTITY half-manual-test.label          "Opnij teste">
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Hânmjittich ynstelle">
 <!ENTITY manual-edit.accesskey           "H">
