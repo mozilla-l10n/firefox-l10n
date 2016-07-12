@@ -59,7 +59,7 @@
 <!ENTITY cellWrap.label                   "Rjochtsje">
 <!ENTITY cellNoWrap.label                 "Net rjochtsje">
 <!ENTITY cellAlignTop.label               "Boppe">
-<!ENTITY cellAlignMiddle.label            "Midden">
+<!ENTITY cellAlignMiddle.label            "Sintrearre">
 <!ENTITY cellAlignBottom.label            "Under">
 <!ENTITY cellAlignJustify.label           "Utfolje">
 <!ENTITY cellInheritColor.label           "(Tabelkleur trochskine litte)">

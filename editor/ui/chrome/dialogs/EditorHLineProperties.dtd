@@ -4,7 +4,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Horizontale-lijneigenskippen">
+<!ENTITY windowTitle.label "Horizontale-line-eigenskippen">
 
 <!ENTITY dimensionsBox.label "Ofmjittingen">
 <!ENTITY heightEditField.label "Hichte:">
