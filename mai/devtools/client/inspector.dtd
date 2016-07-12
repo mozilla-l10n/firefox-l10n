@@ -55,13 +55,13 @@
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
 
-<!ENTITY inspectorHTMLPasteLastChild.label       "अंतिम &amp; संतान जेंका">
+<!ENTITY inspectorHTMLPasteLastChild.label       "अंतिम संतान जेंका">
 <!ENTITY inspectorHTMLPasteLastChild.accesskey   "L">
 <!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
      shown in the inspector contextual-menu for the item that lets users scroll
      the current node into view -->
 
-<!ENTITY inspectorScrollNodeIntoView.label       "&amp; देखबा क लेल स्क्रॉल करू">
+<!ENTITY inspectorScrollNodeIntoView.label       "देखबा क लेल स्क्रॉल करू">
 <!ENTITY inspectorScrollNodeIntoView.accesskey   "S">
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
@@ -80,19 +80,19 @@
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
 
-<!ENTITY inspectorAddAttribute.label        "&amp; गुण जोड़ू">
+<!ENTITY inspectorAddAttribute.label        "गुण जोड़ू">
 <!ENTITY inspectorAddAttribute.accesskey    "A">
 <!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users edit attribute
      for current node -->
 
-<!ENTITY inspectorEditAttribute.label        "&amp; गुण संपादन करू">
+<!ENTITY inspectorEditAttribute.label        "गुण संपादन करू">
 <!ENTITY inspectorEditAttribute.accesskey    "E">
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
 
-<!ENTITY inspectorRemoveAttribute.label        "&amp; विशेषता मेटाबू">
+<!ENTITY inspectorRemoveAttribute.label        "विशेषता मेटाबू">
 <!ENTITY inspectorRemoveAttribute.accesskey    "R">
 
 <!ENTITY inspector.selectButton.tooltip     "माउस सँ तत्व चुनू">
