@@ -14,7 +14,7 @@
 <!ENTITY forwardButton.label            "Foarút">
 <!ENTITY forwardButton.accesskey        "F">
 <!ENTITY forwardButton.tooltip          "Gean ien side foarút">
-<!ENTITY copyCmd.label                  "Kopieare">
+<!ENTITY copyCmd.label                  "Kopiearje">
 <!ENTITY copyCmd.accesskey              "K">
 <!ENTITY selectAllCmd.label             "Alles selektearje">
 <!ENTITY selectAllCmd.accesskey         "A">

@@ -108,9 +108,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Fuortsmite">
 <!ENTITY cmd.uninstallAddon.accesskey         "F">
 <!ENTITY cmd.showPreferencesWin.label         "Opsjes">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Opsjes fan dizze add-on wizigje">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Opsjes fan dizze add-ons wizigje">
 <!ENTITY cmd.showPreferencesUnix.label        "Foarkarren">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Foarkarren fan dizze add-on wizigje">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Foarkarren fan dizze add-ons wizigje">
 <!ENTITY cmd.contribute.label                 "Bydrage">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Bydrage oan de ûntwikkeling fan dizze add-on">
