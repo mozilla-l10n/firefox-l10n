@@ -5,7 +5,7 @@
 <!ENTITY  updateWizard.title              "Actualizare &brandShortName;">
 
 <!ENTITY  offline.title                   "&brandShortName; e în modul offline">
-<!ENTITY  offline.description             "&brandShortName; trebuie să se conecteze online pentru a vedea dacă sunt actualizări disponibile pentru suplimentele dumneavoastră pentru a le face compatibile cu această versiune.">
+<!ENTITY  offline.description             "&brandShortName; trebuie să se conecteze online pentru a vedea dacă sunt actualizări disponibile pentru suplimentele tale pentru a le face compatibile cu această versiune.">
 <!ENTITY  offline.toggleOffline.label     "Mergeți online acum.">
 <!ENTITY  offline.toggleOffline.accesskey "g">
 
@@ -14,20 +14,20 @@
 <!ENTITY  mismatch.bottom.label           "&brandShortName; poate verifica dacă sunt disponibile versiuni noi, compatibile, ale acestor suplimente.">
 
 <!ENTITY  checking.wizard.title           "Se caută suplimente compatibile">
-<!ENTITY  checking.top.label              "Se caută actualizări pentru suplimentele dumneavoastră incompatibile…">
+<!ENTITY  checking.top.label              "Se caută actualizări pentru suplimentele incompatibile…">
 <!ENTITY  checking.status                 "Aceasta poate dura câteva minute">
 
 <!ENTITY  found.wizard.title               "S-au găsit suplimente compatibile">
-<!ENTITY  found.top.label                 "Selectați suplimentele pe care doriți să le instalați:">
+<!ENTITY  found.top.label                 "Selectează suplimentele pe care dorești să le instalezi:">
 <!ENTITY  found.disabledXPinstall.label   "Aceste actualizări nu pot fi instalate deoarece instalarea de programe este în prezent dezactivată. Puteți schimba această setare mai jos.">
 <!ENTITY  found.enableXPInstall.label     "Permite ca site-urile web să instaleze programe">
 <!ENTITY  found.enableXPInstall.accesskey "a">
 
 <!ENTITY  installing.wizard.title         "Instalare suplimente compatibile">
-<!ENTITY  installing.top.label            "Se descarcă și instalează actualizările suplimentelor dumneavoastră…">
+<!ENTITY  installing.top.label            "Se descarcă și instalează actualizările suplimentelor…">
 
 <!ENTITY  noupdates.wizard.title          "Nu s-au găsit suplimente compatibile">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; nu a putut găsi actualizări pentru suplimentele dumneavoastră incompatibile.">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; nu a putut găsi actualizări pentru suplimentele tale incompatibile.">
 <!ENTITY  noupdates.error.desc            "Au apărut niște probleme în timpul încercării de a găsi actualizări.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; va verifica periodic și vă va informa când sunt găsite actualizări compatibile pentru aceste suplimente.">
 
