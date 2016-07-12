@@ -5,9 +5,6 @@
 <!ENTITY updateWizard.title "Aggiornamento software">
 <!ENTITY checking.title "Controllo aggiornamenti">
 <!ENTITY updateCheck.label "Ricerca di nuove versioni di &brandShortName; in corso…">
-<!ENTITY pluginupdatesfound.title "Rilevati aggiornamenti per i plugin">
-<!ENTITY pluginupdatesfound.label "Sono disponibili una o più versioni aggiornate dei plugin in uso.">
-<!ENTITY pluginupdateslink.label "Scopri come aggiornare i plugin.">
 <!ENTITY noupdatesfound.title "Nessun aggiornamento trovato">
 <!ENTITY noupdatesautoenabled.intro "Non sono disponibili nuovi aggiornamenti. &brandShortName; controllerà periodicamente la presenza di aggiornamenti.">
 <!ENTITY noupdatesautodisabled.intro "Non sono disponibili nuovi aggiornamenti. Ricontrollare in un secondo momento o attivare il controllo automatico degli aggiornamenti di &brandShortName;.">

@@ -29,8 +29,6 @@
 <!ENTITY warning.updatesecurity.label "Il controllo sulla sicurezza degli aggiornamenti dei componenti aggiuntivi è disattivato. Il sistema potrebbe essere danneggiato da un aggiornamento.">
 <!ENTITY warning.updatesecurity.enable.label "Attiva">
 <!ENTITY warning.updatesecurity.enable.tooltip "Attiva il controllo sulla sicurezza degli aggiornamenti dei componenti aggiuntivi">
-<!ENTITY info.plugincheck.label "Verifica se i plugin sono aggiornati">
-<!ENTITY info.plugincheck.tooltip "Verifica se i plugin sono aggiornati">
 <!ENTITY view.search.label "Cerca">
 <!ENTITY view.discover.label "Esplora">
 <!ENTITY view.recentUpdates.label "Aggiornamenti recenti">
