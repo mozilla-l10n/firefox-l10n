@@ -50,6 +50,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.js-calltree "కాల్ ట్రీ">
+<!ENTITY performanceUI.toolbar.memory-calltree "కేటాయింపులు">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS ఫ్లేమ్ చార్ట్">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
