@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -17,8 +17,8 @@
 
 <!ENTITY appmenu.tooltip                     "Отваряне на меню">
 <!ENTITY navbarOverflow.label                "Още инструменти…">
-<!-- Tab context menu -->
 
+<!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Презареждане на подпрозорец">
 <!ENTITY  reloadTab.accesskey                "П">
 <!ENTITY  reloadAllTabs.label                "Презареждане всички подпрозорци">
@@ -30,12 +30,12 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "д">
 <!ENTITY  closeOtherTabs.label               "Затваряне на другите подпрозорци">
 <!ENTITY  closeOtherTabs.accesskey           "З">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
 <!ENTITY  pinTab.label                       "Закачане на подпрозореца">
 <!ENTITY  pinTab.accesskey                   "ч">
 <!ENTITY  unpinTab.label                     "Премахване от леснодостъпните приложения">
@@ -119,12 +119,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "л">
 <!ENTITY fullScreenExit.label "Изход от цял екран">
 <!ENTITY fullScreenExit.accesskey "ц">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "на цял екран">
 <!ENTITY fullscreenWarning.generic.label "Сега документът е на цял екран">
@@ -218,8 +218,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показване на историята">
 
 <!ENTITY searchItem.title             "Търсене">
-<!-- Toolbar items --> 
 
+<!-- Toolbar items --> 
 <!ENTITY homeButton.label             "Начална страница">
 
 <!ENTITY bookmarksButton.label          "Отметки">
@@ -231,10 +231,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Показване на лентата с отметки">
 
 <!ENTITY containersMenu.label "Контейнери">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
@@ -383,6 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "н">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Да">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "д">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -403,36 +404,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
-
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
-
 <!ENTITY contentSearchInput.label     "Заявка за търсене">
 <!ENTITY contentSearchSubmit.label    "Изпращане заявка за търсене">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-
 <!ENTITY searchFor.label              "Търсене на ">
 <!ENTITY searchWith.label             " с:">
+
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-
 <!ENTITY search.label                 "Търсене">
 <!ENTITY searchAfter.label            "">
+
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-
 <!ENTITY searchWithHeader.label       "Търсене с:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -457,7 +457,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Отваряне в нов прозорец">
 <!ENTITY openFrameCmd.accesskey       "п">
 <!ENTITY openLinkCmdInContainerTab.label "Отваряне на връзка в нов независим подпрозорец">
-<!ENTITY openLinkCmdInContainerTab.accesskey "C">
+<!ENTITY openLinkCmdInContainerTab.accesskey "О">
 <!ENTITY showOnlyThisFrameCmd.label     "Показване само на тази рамка">
 <!ENTITY showOnlyThisFrameCmd.accesskey "р">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -540,11 +540,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "е">
 <!ENTITY thisFrameMenu.label              "Тази рамка">
 <!ENTITY thisFrameMenu.accesskey          "р">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-
 <!ENTITY mediaPlay.label             "Изпълнение">
 <!ENTITY mediaPlay.accesskey         "И">
 <!ENTITY mediaPause.label            "Пауза">
@@ -591,18 +591,17 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "т">
 <!ENTITY videoHideStats.label        "Скриване на статистиката">
 <!ENTITY videoHideStats.accesskey    "т">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
 <!ENTITY fullZoomEnlargeCmd.label       "Увеличаване">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "У">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Намаляване">
@@ -684,14 +683,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified2 "Защитена връзка към този сайт, управляван от:">
 <!ENTITY identity.connectionInternal "Това е защитена страница на &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Данните за вход на тази страница може да са компрометирани.">
-<!-- Strings for connection state warnings. -->
 
+<!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; блокира части от страницата, които не са шифрирани.">
 <!ENTITY identity.passiveLoaded "Части от страницата, като например изображения, не са шифрирани.">
 <!ENTITY identity.activeLoaded "Изключихте защитата за тази страница.">
 <!ENTITY identity.weakEncryption "Тази странница използва слабо шифриране.">
-<!-- Strings for connection state warnings in the subview. -->
 
+<!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Връзката ви със сайта не е поверителна. Изпращаната информация, като например пароли, съобщения, кредитни карти и др., може да бъде видяна от други.">
 <!ENTITY identity.description.insecureLoginForms "Информацията за регистриране, която въведохте в тази страница, не е защитена и може да е компрометирана.">
 <!ENTITY identity.description.weakCipher "Връзката ви с този уебсайт използва слабо шифриране и не е поверителна.">
@@ -716,12 +715,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Права">
 <!ENTITY identity.permissionsEmpty "Не сте дали на този сайт никакви специални права.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-
 <!ENTITY tabsToolbar.label "Подпрозорци на браузъра">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "Синхронизирани подпрозорци">
 
 <!ENTITY syncedTabs.sidebar.label              "Синхронизирани подпрозорци">
@@ -846,35 +845,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Показване на всичко">
 <!ENTITY pluginNotification.showAll.accesskey "П">
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "Разрешаване само сега">
 <!ENTITY pluginActivateAlways.label "Разрешаване и запомняне">
 <!ENTITY pluginBlockNow.label "Блокиране на приставката">
+
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
-
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Затваряне">
 
 <!ENTITY appMenuSidebars.label         "Странични ленти">
+
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-
 <!ENTITY panicButton.view.mainTimeframeDesc       "Забравяне на последните:">
 <!ENTITY panicButton.view.5min                    "Пет митути">
 <!ENTITY panicButton.view.2hr                     "Два часа">
 <!ENTITY panicButton.view.day                     "24 часа">
+
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
 <!ENTITY panicButton.view.mainActionDesc          "Ако продължите ще бъдат:">
 <!ENTITY panicButton.view.deleteCookies           "Изтрити скорошните <html:strong>бисквитки</html:strong>">
 <!ENTITY panicButton.view.deleteHistory           "Изтрита скорошната <html:strong>история</html:strong>">
