@@ -149,9 +149,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "अधिक साझा सेवाओं का पता लगाएं ...">
-
+<!ENTITY sharePageCmd.label "इस पृष्ठ को साझा करें">
 <!ENTITY sharePageCmd.commandkey "S">
-
+<!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "इस कड़ी को साझा करें.">
 <!ENTITY shareLink.accesskey "h">
@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "हाल में पुस्तचिह्नित">
 <!ENTITY otherBookmarksCmd.label "अन्य पुस्तचिह्न">
 <!ENTITY bookmarksToolbarChevron.tooltip " अधिक पुस्तचिह्न दिखाएँ">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "हाल के पुस्तचिह्नित दिखाएँ">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "हाल के पुस्तचिह्नित छिपायें">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "पीछे ">
 <!ENTITY backButton.tooltip           " एक पृष्ठ पीछे जाएँ">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "पुस्तचिह्न बाज़ू पट्टी देखें">
 <!ENTITY viewBookmarksToolbar.label         " पुस्तचिह्न औज़ारपट्टी देखें">
 
+<!ENTITY containersMenu.label "पात्र">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -282,9 +283,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           " काटें">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "नक़ल करें">  
 <!ENTITY copyCmd.key            "सी">  
-
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           " चिपकाएँ">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -343,6 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "अभी तक! कोई समन्वयित टैब नहीं...">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "प्राथमिकताएँ सिंक कीजिए">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से साइन इन करें">
@@ -554,22 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           " मौन समाप्त करें">
 <!ENTITY mediaUnmute.accesskey       "m">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "खेल गति">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "धीमा (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "सामान्य">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "तेज (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "तेजी (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "बेतरतीब गति (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "लूप">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -678,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "रिमोट कनेक्शन">
 <!ENTITY identity.connectionNotSecure "आपका कनेक्शन असुरक्षित है">
 <!ENTITY identity.connectionFile "यह पेज आपके कंप्यूटर में सहेजा जाता हैं.">
-
+<!ENTITY identity.connectionVerified2 "आप इस साईट से सुरक्षित रूप से जुड़े है, चलाएँ जैसे :">
 <!ENTITY identity.connectionInternal "यह एक सुरक्षित &brandShortName; पेज हैं.">
 <!ENTITY identity.insecureLoginForms2 "इस पृष्ठ पर अंतरित लॉग-इन्स से समझौता किया जा सकता है.">
 <!-- Strings for connection state warnings. -->
@@ -722,8 +725,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "सिंक किये हुए टैब्स">
 
 <!ENTITY syncedTabs.sidebar.label              "सिंक हुए टैब्स">
-
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "अपने दूसरे उपकरणों से Firefox साइन इन कर उनके टैब देखें.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "अभी तक! कोई समन्वयित टैब नहीं...">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से साइन इन करें.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "कोई खुला टैब नहीं">
@@ -732,7 +735,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "टैब्स की सूची देखने हेतु अपने दुसरे उपकरणों से साइन इन करें.">
 
-
+<!ENTITY syncedTabs.context.open.label                       "खोलें">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "नए टैब में खोलें">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "नए विंडो में खोलें">
@@ -741,8 +745,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "यह टैब पुस्तचिह्नित करें...">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "नक़ल करें">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "सिंक">
