@@ -34,7 +34,7 @@
 
 <!ENTITY event.attendees.notify.label               "Cuir in iúl don lucht freastail">
 <!ENTITY event.attendees.notify.accesskey           "r">
-<!ENTITY event.attendees.notifyundisclosed.label    "Cuireadh ar léith do gach rannpháirtí">
+<!ENTITY event.attendees.notifyundisclosed.label    "Cuireadh ar leith do gach rannpháirtí">
 <!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Leis an rogha seo, seolfar teachtaireacht ar leith chuig gach rannpháirtí. Ní chuirfear ainmneacha ná seoltaí ríomhphoist na rannpháirtithe eile sa teachtaireacht.">
 <!-- Keyboard Shortcuts -->
