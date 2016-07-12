@@ -323,7 +323,7 @@
 <!ENTITY AlignPopupButton.tooltip "Tekstútlyning kieze">
 <!ENTITY InsertPopupButton.tooltip "In keppeling, ankerferwizing, ôfbylding, horizontale line of tabel ynfoegje">
 <!ENTITY alignLeftButton.tooltip "Tekst by de linkermarzje útlynje">
-<!ENTITY alignCenterButton.tooltip "Tekst útlynje yn it midden">
+<!ENTITY alignCenterButton.tooltip "Tekst sintrearre útlynje">
 <!ENTITY alignRightButton.tooltip "Tekst by de rjochtermarzje útlynje">
 <!ENTITY alignJustifyButton.tooltip "Tekst by de linker- en rjochtermarzje útlynje">
 
