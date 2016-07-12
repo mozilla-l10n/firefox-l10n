@@ -130,7 +130,7 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La página que estás intentando ver no puede ser mostrada debido a que se detectó un error en la transmisión de datos.</p><ul><li>Por favor, contacta a los dueños del sitio para avisarles del problema.</li></ul>">
 
 
-<!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción…">
+<!ENTITY securityOverride.exceptionButtonLabel "Añadir excepción…">
 
 <!ENTITY errorReporting.automatic2 "Reporta errores como este para ayudar a Mozilla a identificar y bloquear sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Aprender más…">
@@ -162,7 +162,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "Su conexión no es segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>utiliza tecnología de seguridad que es obsoleta y vulnerable a ataques. Un atacante fácilmente podría revelar información que creía estar a salvo. El administrador del sitio web tendrá que arreglar el servidor antes de que usted puede visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>utiliza tecnología de seguridad que es obsoleta y vulnerable a ataques. Un atacante fácilmente podría revelar información que creía estar a salvo. El administrador del sitio web tendrá que arreglar el servidor antes de que puedas visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY prefReset.longDesc "Parece que tus ajustes de seguridad de red están causando esto. ¿Quieres que se restauren los ajustes predeterminados?">
 <!ENTITY prefReset.label "Restaurar ajustes predeterminados">

@@ -10,10 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "Autoridades">
 <!ENTITY certmgr.tab.orphan2                  "Otros">
 
-<!ENTITY certmgr.mine                         "Usted tiene certificados de estas organizaciones que le identifican:">
-<!ENTITY certmgr.others                       "Usted tiene certificados que identifican a las siguientes personas:">
-<!ENTITY certmgr.websites2                    "Usted tiene certificados en archivo que identifican estos servidores:">
-<!ENTITY certmgr.cas                          "Usted tiene certificados que identifican a las siguientes autoridades:">
+<!ENTITY certmgr.mine                         "Tiene certificados de estas organizaciones que te identifican:">
+<!ENTITY certmgr.others                       "Tienes certificados que identifican a las siguientes personas:">
+<!ENTITY certmgr.websites2                    "Tienes certificados en archivo que identifican estos servidores:">
+<!ENTITY certmgr.cas                          "Tienes certificados que identifican a las siguientes autoridades:">
 <!ENTITY certmgr.orphans                      "Tiene certificados en el archivo que no calzan en las otras categorías:">
 
 <!ENTITY certmgr.detail.general_tab.title     "General">
@@ -78,7 +78,7 @@
 <!ENTITY certmgr.addException.label           "Añadir Excepción…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
-<!ENTITY exceptionMgr.title                   "Agregar Excepción de Seguridad">
+<!ENTITY exceptionMgr.title                   "Añadir Excepción de Seguridad">
 <!ENTITY exceptionMgr.exceptionButton.label   "Confirmar excepción de seguridad">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Los bancos, tiendas y otros sitios públicos legítimos no le pedirán hacer esto.">
