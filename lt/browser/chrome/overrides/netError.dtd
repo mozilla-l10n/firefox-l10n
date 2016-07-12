@@ -110,6 +110,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime "<p>Saugus ryšys su <span id='wrongSystemTime_URL'/> nėra galimas dėl galimai klaidingo jūsų laikrodžio laiko.</p> <p>Jūsų kompiuteris mano, kad dabar yra <span id='wrongSystemTime_systemDate'/>, kai turėtų būti <span id='wrongSystemTime_actualDate'/>. Norėdami tai sutvarkyti, pakeiskite savo datos ir laiko nuostatas nurodydami teisingą laiką.</p>">
+
 <!ENTITY certerror.pagetitle1  "Nesaugus ryšys">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ši svetainė „HTTP Strict Transport Security“ (HSTS) pagalba nurodė, kad „&brandShortName;“ prie jos jungtųsi tik saugiu ryšiu. Dėl to šiam liudijimui negalima sukurti išimties.">
 <!ENTITY certerror.copyToClipboard.label "Kopijuoti tekstą į iškarpinę">
@@ -119,4 +121,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> naudoja saugumo technologiją, kuri yra pasenusi ir pažeidžiama. Piktavalis lengvai galėtų pamatyti informaciją, kuri jums atrodė saugi. Kol svetainės administratorius jos nesutvarkys, negalėsite į šią svetainę užeiti.</p><p>Klaidos kodas: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "Panašu, kad taip galėjo nutikti dėl jūsų tinklo saugumo nuostatų. Ar norite atstatyti numatytąsias reikšmes?">
+<!ENTITY prefReset.label "Atstatyti numatytąsias nuostatas">
