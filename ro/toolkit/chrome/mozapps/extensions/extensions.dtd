@@ -68,8 +68,8 @@
 <!ENTITY updates.resetUpdatesToManual.label          "Resetează toate suplimentele să se actualizeze manual">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Se actualizează suplimentele">
-<!ENTITY updates.installed.label              "Suplimentele dumneavoastră au fost actualizate.">
-<!ENTITY updates.downloaded.label             "S-au descărcat actualizările pentru suplimentele dumneavoastră.">
+<!ENTITY updates.installed.label              "Suplimentele tale au fost actualizate.">
+<!ENTITY updates.downloaded.label             "S-au descărcat actualizările pentru suplimentele tale.">
 <!ENTITY updates.restart.label                "Repornește acum pentru a încheia instalarea">
 <!ENTITY updates.noneFound.label              "Nicio actualizare găsită">
 <!ENTITY updates.manualUpdatesFound.label     "Vezi actualizările disponibile">

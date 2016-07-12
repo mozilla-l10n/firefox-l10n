@@ -13,7 +13,7 @@
 
 <!ENTITY resetPasswordButtonLabel "Resetează">
 <!ENTITY resetPassword.title  "Resetare parolă generală">
-<!ENTITY resetPassword.text  "Dacă resetați parola generală, toate parolele de la site-urile web și conturile de e-mail pe care le-ați memorat, precum și datele formularelor, certificatele personale și cheile private, vor fi pierdute. Sigur doriți să resetați parola generală?">
+<!ENTITY resetPassword.text  "Dacă resetezi parola generală, toate parolele de la site-urile web și conturile de e-mail pe care le-ai memorat, precum și datele formularelor, certificatele personale și cheile private, vor fi pierdute. Sigur dorești să resetezi parola generală?">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Descărcare certificat">
