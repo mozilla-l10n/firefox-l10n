@@ -14,11 +14,11 @@
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "安装更新">
 <!ENTITY aboutPage.faq.label                    "常见问题">
 <!ENTITY aboutPage.support.label                "支持">
-<!ENTITY aboutPage.privacyPolicy.label          "隐私条款">
+<!ENTITY aboutPage.privacyPolicy.label          "隐私政策">
 <!ENTITY aboutPage.rights.label                 "了解您的权利">
 <!ENTITY aboutPage.relNotes.label               "发行说明">
 <!ENTITY aboutPage.credits.label                "贡献者">
 <!ENTITY aboutPage.license.label                "授权信息">
-<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 <!ENTITY aboutPage.logoTrademark                "Firefox 以及 Firefox 标志均为 Mozilla 基金会所有的商标。">
