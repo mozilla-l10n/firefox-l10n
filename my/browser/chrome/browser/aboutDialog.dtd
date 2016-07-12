@@ -12,36 +12,36 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "အ">
 <!ENTITY update.updateButton.label2                "အဆင့်မြှင့်တင်ရန် &brandShortName;ကို ပြန်ဖွင့်ပါ">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Aအသစ်များအားအသုံးချ ...">
+<!ENTITY update.applyButtonBillboard.label        "အဆင့်မြှင့်ခြင်း ဆောင်ရွက်ပါ…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
-<!ENTITY warningDesc.version        "&brandShortName; သည်စမ်းသပ်ဆဲ ကာလဖြစ်ပြီး မတည်ငြိမ်မှူဖြစ်ကောင်း ဖြစ်နိုင်သည်။">
+<!ENTITY warningDesc.version        "&brandShortName; သည် စမ်းသပ်ဆဲပစ္စည်းဖြစ်ပြီး မတည်ငြိမ်မှု ဖြစ်ကောင်းဖြစ်နိုင်သည်။">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "၎င်းသည် လုပ်ဆောင်ချက်များ ၊ သုံးစွဲပုံများ ၊ ပြင်ဆင်ချက်များအား &vendorShortName; သို့ &brandShortName; အားပိုကောင်းအောင် လုပ်ခြင်းတွင် ကူညီရန် ပြန်ပို့ပေးသည်။">
+<!ENTITY warningDesc.telemetryDesc  "&brandShortName; ကို ပိုမိုကောင်းမွန်လာစေရန် စွမ်းဆောင်ချက်၊ ဟဒ်ဝဲ၊ အသုံးပြုမှုနှင့် ပြင်ဆင်ချက် စသည့် အချက်အလက်များကို &vendorShortName; သို့ အလိုအလျောက် ပြန်လည်ပေးပို့ပါသည်။">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "စမ်းသပ်သော အမျိုးအစား ဖြစ်ပါသည်">
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       "is a">
+<!ENTITY community.exp.middle       " is a ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "ကမ္ဘာလုံးဆိုင်ရာ ကွန်မြူနတီ">
-<!ENTITY community.exp.end          "ဝတ်အား အများပိုင်ဖြစ်ရန် ၊ ပွင့်လင်းမြင်သာရန် ၊ သုံးဆွဲနိုင်ရန် လုပ်ဆောင်လျက်">
+<!ENTITY community.exp.end          " ဝဘ်ကို အများပိုင်ဖြစ်ရန် ၊ ပွင့်လင်းမြင်သာရန် ၊ အသုံးပြုနိုင်ရန် လုပ်ဆောင်လျက်">
 
-<!ENTITY community.start2           "&brandShortName; ကိုဒီဇိုင်းထုတ်သူမှာ">
+<!ENTITY community.start2           "&brandShortName; ကို ဒီဇိုင်းထုတ်သူမှာ ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "ကမ္ဘာလုံးဆိုင်ရာ ကွန်မြူနတီ">
-<!ENTITY community.end3             "   ဝတ်အား အများပိုင်ဖြစ်ရန် ၊ ပွင့်လင်းမြင်သာရန် ၊ သုံးဆွဲနိုင်ရန် လုပ်ဆောင်လျက်">
+<!ENTITY community.end3             " ဝဘ်ကို အများပိုင်ဖြစ်ရန် ၊ ပွင့်လင်းမြင်သာရန် ၊ အသုံးပြုနိုင်ရန် လုပ်ဆောင်လျက်">
 
-<!ENTITY helpus.start               "အကူအညီပေးချင်ပါသလား။">
+<!ENTITY helpus.start               "အကူအညီပေးချင်ပါသလား။ ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "လှူဒါန်းပါ">
-<!ENTITY helpus.middle              "  (သို့)  ">
+<!ENTITY helpus.middle              " သို့မဟုတ် ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "ပါဝင်ဆောင်ရွက်ပါ။">
 <!ENTITY helpus.end                 "အခုဗားရှင်း သည် အားလုံးဝိုင်းဝန်စုပေါင်း လုပ်ဆောင်ထားသော ရလဒ်ဖြစ်သည်">
@@ -52,15 +52,15 @@
 <!ENTITY bottomLinks.license        "လိုင်စင်အကြောင်းသိကောင်းစရာ">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "သုံးစွဲသူလိုက်နာရန်">
+<!ENTITY bottomLinks.rights         "သုံးစွဲသူ၏ အခွင့်အရေးများ">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "ကိုယ်ရေးကိုယ်တာ လုံခြုံမှူအရလိုက်နာရမည့် စည်းမျဉ်း">
+<!ENTITY bottomLinks.privacy        "ကိုယ်ရေးအချက်အလက်ကာကွယ်မှုမူဝါဒ">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "အသစ်ပြုပြင်ခြင်းများရှိနေပြီလားစစ်ဆေးနေပါသည်။">
+<!ENTITY update.checkingForUpdates  "မွမ်းမံချက် အသစ်ရှိမရှိ စစ်နေသည် ...">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; ဟာယခုဆိုရင်နောက်ဆုံးအသစ်ခေတ်မှီသွားပြီဖြစ်သည်။">
+<!ENTITY update.noUpdatesFound      "&brandShortName; သည် နောက်ဆုံးပေါ်အသစ် ဖြစ်သွားပြီဖြစ်သည်။">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "အဆင့်မြှင့်တင်ခြင်းအားသင်၏ကွန်ပျူတာ စနစ်ထိန်းချုပ်သူမှခွင့်မပြုထားပါ။">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
