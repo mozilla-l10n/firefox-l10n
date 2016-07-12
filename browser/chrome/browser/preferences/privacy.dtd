@@ -13,7 +13,7 @@
 <!ENTITY  trackingProtectionExceptions.label   "Excepciones…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
-<!ENTITY tracking.label                 "Rastreo">
+<!ENTITY tracking.label                 "Seguimiento">
 <!ENTITY trackingProtectionPBM5.label         "Usar protección de seguimiento en ventanas privadas">
 <!ENTITY trackingProtectionPBM5.accesskey     "y">
 <!ENTITY trackingProtectionPBMLearnMore.label "Aprender más">

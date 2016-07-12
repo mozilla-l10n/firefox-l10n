@@ -61,7 +61,7 @@
 <!ENTITY pairDevice.title.label             "Asociar un dispositivo">
 <!ENTITY addDevice.showMeHow.label          "Mostrarme cómo.">
 <!ENTITY addDevice.dontHaveDevice.label     "No tengo el dispositivo conmigo">
-<!ENTITY pairDevice.setup.description.label  "Para activar, selecciona &#x0022;Asociar un dispositivo&#x0022; en el otro dispositivo.">
+<!ENTITY pairDevice.setup.description.label  "Para activar, selecciona &#x0022;Asociar un dispositivo&#x0022; en tu otro dispositivo.">
 <!ENTITY addDevice.setup.enterCode.label    "Ahí ingresa este código:">
 <!ENTITY pairDevice.dialog.description.label "Para activar tu nuevo dispositivo, selecciona &#x0022;Configurar Sync&#x0022; en el dispositivo.">
 <!ENTITY addDevice.dialog.enterCode.label   "Ingresa el código que provee el dispositivo:">
