@@ -436,7 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "नव टैब मे खोजू">
 <!ENTITY searchInNewTab.accesskey     "T">
-<!ENTITY searchSetAsDefault.label     "तयशुदा सर्च इंजिन रूपेँ सेट करू (D)">
+<!ENTITY searchSetAsDefault.label     "तयशुदा सर्च इंजिन रूपेँ सेट करू">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "नव टैब मे कड़ी खोलू">
@@ -699,7 +699,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "ईमेल सुरक्षा सक्र‍िय करू">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "ई">
-<!ENTITY identity.disableMixedContentBlocking.label "आब सुरक्षा निष्क्रिय करू (D)">
+<!ENTITY identity.disableMixedContentBlocking.label "आब सुरक्षा निष्क्रिय करू">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "आओर जानू">
 
@@ -810,21 +810,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "ई साइट पर सुरक्षा निष्क्रिय करू (D)">
+<!ENTITY trackingProtection.unblock.label "ई साइट पर सुरक्षा निष्क्रिय करू">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "ई सत्र पर सुरक्षा निष्क्रिय करू(D)">
+<!ENTITY trackingProtection.unblockPrivate.label "ई सत्र पर सुरक्षा निष्क्रिय करू">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "सुरक्षा सक्रिय करू (E)">
+<!ENTITY trackingProtection.block2.label "सुरक्षा सक्रिय करू">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "ट्रैकिंग">
 <!ENTITY trackingContentBlocked.moreinfo "पृष्ठ केर हिस्सा जे अहाँक ऑनलाइन गतिविधि केँ ट्रैक करैत अछि केँ ब्लॉक कएल गेल अछि.">
 <!ENTITY trackingContentBlocked.learnMore "आओर जानू">
 <!ENTITY trackingContentBlocked.options "विकल्प">
-<!ENTITY trackingContentBlocked.unblock2.label "ई साइट पर सुरक्षा निष्क्रिय करू (D)">
+<!ENTITY trackingContentBlocked.unblock2.label "ई साइट पर सुरक्षा निष्क्रिय करू">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "ईमेल सुरक्षा">
 <!ENTITY trackingContentBlocked.block.accesskey "E">

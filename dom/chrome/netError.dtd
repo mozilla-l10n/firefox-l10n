@@ -14,7 +14,7 @@
 <!ENTITY deniedPortAccess.longDesc "<p>निवेदित पता एकटा पोर्ट निर्दिष्ट कएलक (उदाहरण  कलेल . <q>mozilla.org:80</q> 80 पर mozilla.org कलेल  पोर्ट) सामान्यतः वेब ब्राउजिंग सँ <em> आन </em> उद्देश्य  कलेल . ब्राउजर अहाँक सुरक्षा आ रक्षा कलेल आग्रह रद्द कए देलक.</p>">
 
 <!ENTITY dnsNotFound.title "पता मोजुद नहि त्रुटि">
-<!ENTITY dnsNotFound.longDesc "पता (URL) ज्ञात साइटक अनुरूप नहि अछि अथवा लोड नहि कएल जाए सकैत अछि. ई अक्षर विन्यासमे गलती अथवा साइट  मोजुद नहि होबाक कारण भए सकैत अछि . जँ पताक वैध होबाक ज्ञान अछि अथवा जँ समस्या बहुत साइटक लेल अछि, ई प्रोक्सी सेवा अथवा कोष्ठ-नाम सेवा लुकअपक विषय भए सकैत अछि  . एहि स्थिति मे सुविधानुसार अपन तंत्र दस्तावेज, व्यवस्थापक अथवा इंटरनेट सेवा प्रदानकर्ता (ISP) सँ परामर्श करू .">
+
 
 <!ENTITY fileNotFound.title "फाइल नहि भेटल त्रुटि">
 <!ENTITY fileNotFound.longDesc "<ul><li>की आइटम केर नाम कें बदलल गेल अछि, हटाओल गेल अछि, अथवा स्थान बदलल गेल?</li><li>की पता मे कोनो स्पेलिंग, पैघ अक्षर, अथवा आन टाइपो केर त्रुटि अछि</li><li>की अनुरोध केर संबंध मे अहाँक पहुँच केर पूरा अनुमति प्राप्त अछि </li></ul>">
@@ -75,7 +75,7 @@
 <!ENTITY cspBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "खराब सामग्री त्रुटि">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
 
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट मालिककेँ ई समस्याक संबंधमे सूचित करबाक लेल संपर्क करू.</li></ul></p>">
