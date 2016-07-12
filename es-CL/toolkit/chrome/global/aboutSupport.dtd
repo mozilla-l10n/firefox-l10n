@@ -11,13 +11,13 @@
   acerca de &brandShortName;, mire en nuestro <a id='supportLink'>sitio web de soporte</a>.
 ">
 
-<!ENTITY aboutSupport.crashes.title "Reportes de fallos">
+<!ENTITY aboutSupport.crashes.title "Informes de fallos">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID del informe">
 <!ENTITY aboutSupport.crashes.sendDate "Enviado">
-<!ENTITY aboutSupport.crashes.allReports "Todos los reportes de fallos">
-<!ENTITY aboutSupport.crashes.noConfig "Esta aplicación no ha sido configurada para mostrar reportes de fallos.">
+<!ENTITY aboutSupport.crashes.allReports "Todos los informes de fallos">
+<!ENTITY aboutSupport.crashes.noConfig "Esta aplicación no ha sido configurada para mostrar informes de fallos.">
 
 <!ENTITY aboutSupport.extensionsTitle "Extensiones">
 <!ENTITY aboutSupport.extensionName "Nombre">
@@ -42,8 +42,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Canal de actualización">
-<!ENTITY aboutSupport.appBasicsUpdateHistory "Historial de actualización">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Mostrar historial de actualización">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Historial de actualizaciones">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Mostrar historial de actualizaciones">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorio del perfil">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):

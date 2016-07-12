@@ -381,7 +381,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "No">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Si">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- 
