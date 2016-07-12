@@ -12,7 +12,10 @@ Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
 
 
+<!ENTITY searchreset.link.pageInfo2       "पृष्ठ सेटिंग">
 
+<!ENTITY searchreset.noChangeButton        "मत बदलें">
+<!ENTITY searchreset.noChangeButton.access "D">
 
-
-
+<!ENTITY searchreset.changeEngineButton        "खोज इंजिन बदलें">
+<!ENTITY searchreset.changeEngineButton.access "C">
