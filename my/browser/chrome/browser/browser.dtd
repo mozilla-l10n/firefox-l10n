@@ -13,22 +13,22 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(သီသန့် လှော်လှန်ခြင်း)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း)">
 
 <!ENTITY appmenu.tooltip                     "မီနူး ဖွင့်">
-<!ENTITY navbarOverflow.label                "More Tools...">
+<!ENTITY navbarOverflow.label                "အခြားတန်ဆာပလာများ…">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "စာမျက်နှာအားပြန်ဖွင့်မည်။">
-<!ENTITY  reloadTab.accesskey                "စ">
-<!ENTITY  reloadAllTabs.label                "(A) စာမျက်နှာအားလုံးအား ပြန်ဖွင့်မည်">
+<!ENTITY  reloadTab.label                    "တပ်ဗ်ကို ပြန်ဖွင့်ရန်">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "တပ်ဗ်အားလုံးကို ပြန်ဖွင့်ရန်">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "(i)ညာဘက်ဘေးကပ်မည်">
+<!ENTITY  closeTabsToTheEnd.label            "ညာဘက်ရှိတပ်ဗ်များကို ပိတ်ရန်">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "oအခြားစာမျက်နှာများအား ပိတ်ပစ်မည်။">
+<!ENTITY  closeOtherTabs.label               "အခြားတပ်ဗ်များကို ပိတ်ရန်">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -36,63 +36,63 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Pin Tab">
+<!ENTITY  pinTab.label                       "တပ်ဗ်ကို တွယ်ချိတ်ရန်">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "Unpin Tab">
+<!ENTITY  unpinTab.label                     "တပ်ဗ်ကို တွယ်ထားခြင်းမှ ဖြုတ်ရန်">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToNewWindow.label              "အသစ်ဖွင့်လှစ်ထားသောဝင်းဒိုးဆီသို့ရွေ့မည်။">
-<!ENTITY  moveToNewWindow.accesskey          "အ">
-<!ENTITY  bookmarkAllTabs.label              "(T) တပ်ဗ်အားလုံး စာအမှတ်ဖြစ်သုံးပါ...">
+<!ENTITY  moveToNewWindow.label              "ဝင်းဒိုးအသစ်ဆီသို့ ရွှေ့ပါ">
+<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  bookmarkAllTabs.label              "တပ်ဗ်အားလုံးကို မှတ်သားပါ…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "(U) ပိတ်လိုက်သည့် တပ်ဗ် ပြန်ဖွင့်">
+<!ENTITY  undoCloseTab.label                 "ပိတ်လိုက်သည့် တပ်ဗ်ကို ပြန်ဖွင့်ပါ">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "Close Tab">
+<!ENTITY  closeTab.label                     "တပ်ဗ်ကို ပိတ်ရန်">
 <!ENTITY  closeTab.accesskey                 "C">
 
-<!ENTITY  listAllTabs.label      "ဖွင့်လက်စ ဝတ်စာမျက်နှာများအားစီလိုက်ပါ။">
+<!ENTITY  listAllTabs.label      "တပ်ဗ်များအားလုံး၏ စာရင်းကို ပြပါ">
 
-<!ENTITY tabCmd.label "New Tab">
+<!ENTITY tabCmd.label "တပ်ဗ်အသစ်">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "တည်နေရာဖွင့်...">
-<!ENTITY openFileCmd.label "Oဖိုင်ဖွင့်...">
+<!ENTITY openFileCmd.label "ဖိုင်ကိုဖွင့်ရန်...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "uစာမျက်နှာပုံစံ...">
+<!ENTITY printSetupCmd.label "စာမျက်နှာ ပုံနှိပ်အပြင်အဆင်…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "vပရင့်အစမ်းမြင်ကွင်း">
+<!ENTITY printPreviewCmd.label "အကြိုပုံနှိပ်မြင်ကွင်း">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Pပုံနှိပ်...">
+<!ENTITY printCmd.label "ပုံနှိပ်ရန်...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "kချိတ်ဆက်မဲ့ သုံး">
+<!ENTITY goOfflineCmd.label "ချိတ်ဆက်မဲ့သုံးရန်">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-<!ENTITY menubarCmd.label "မီနူးစာရင်း">
-<!ENTITY menubarCmd.accesskey "မ">
-<!ENTITY navbarCmd.label "ကူးသန်းရန် ခလုတ်ဘား">
-<!ENTITY personalbarCmd.label "Bမှတ်သားချက်များ ခလုတ်တန်း">
+<!ENTITY menubarCmd.label "မီနူးအတန်း">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY navbarCmd.label "လမ်းညွှန်ကိရိယာအတန်း">
+<!ENTITY personalbarCmd.label "စာမှတ်များကိရိယာအတန်း">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "မှတ်သားချက်များ ခလုတ်တန်း အချက်များ">
+<!ENTITY bookmarksToolbarItem.label "စာမှတ်များကိရိယာအတန်းရှိ အရာများ">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "A တပ်ဗ်တွေအားလုံးကို ပြန်ဖွင့်ပါ">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "တပ်ဗ်အားလုံးကို ပြန်ဖွင့်ရန်">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "(T) တပ်ဗ်အားလုံးကို စာအမှတ်ဖြစ်သုံးပါ။">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "တပ်ဗ်အားလုံးကို မှတ်သားပါ…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "(U) ပိတ်လိုက်သည့် တပ်ဗ်ကို ပြန်ဖွင့်ပါ။">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "ပိတ်လိုက်သည့် တပ်ဗ်ကို ပြန်ဖွင့်ပါ">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
-<!ENTITY pageSourceCmd.label "Page Source">
+<!ENTITY pageSourceCmd.label "စာမျက်နှာရင်းမြစ်ကုဒ်">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Page Info">
+<!ENTITY pageInfoCmd.label "စာမျက်နှာအချက်အလက်">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "M မှန်တပ်ဗ်">
+<!ENTITY mirrorTabCmd.label "တပ်ဗ်ကို ပွားရန်">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -103,21 +103,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.label "ဖန်သားပြင်အပြည့်">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "ဖွင့်လက်စ စာမျက်နှာအားလုံးကိုပြပါ။">
-<!ENTITY showAllTabsCmd.accesskey "ဖ">
+<!ENTITY showAllTabsCmd.label "တပ်ဗ်အားလုံးကို ပြပါ">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
-<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; အားဝင်ပါ">
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; သို့ ဝင်ပါ">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; ၏ အပြင်အဆင်များကို ဖွင့်ပါ">
-<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; အား ပြန်လည် ဆက်သွယ်ပါ">
-<!ENTITY fxaUnverified.label "သင့်အကောင့် အားအတည်ပြုပါ။">
+<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; ကို ပြန်လည်ချိတ်ဆက်ပါ">
+<!ENTITY fxaUnverified.label "သင့်အကောင့်ကို အတည်ပြုပါ">
 
 
 <!ENTITY fullScreenMinimize.tooltip "ချုံ့ပါ">
 <!ENTITY fullScreenRestore.tooltip "ပြန်ဖွင့်ပါ">
-<!ENTITY fullScreenClose.tooltip "ပိတ်ပါ ">
-<!ENTITY fullScreenAutohide.label "Hခလုတ်တန်းများဖျောက်">
+<!ENTITY fullScreenClose.tooltip "ပိတ်ပါ">
+<!ENTITY fullScreenAutohide.label "ကိရိယာအတန်းများကို ဖျောက်ပါ">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "Fမျက်နှာပြင်အပြည့်စနစ်ပိတ်">
+<!ENTITY fullScreenExit.label "ဖန်သားပြင်အပြည့်ကြည့်ခြင်းမှ ထွက်ရန်">
 <!ENTITY fullScreenExit.accesskey "F">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -126,7 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "က မြင်ကွင်း အပြည့် ဖြစ်သွားပါပြီ။">
+<!ENTITY fullscreenWarning.afterDomain.label "ယခု မြင်ကွင်းအပြည့် ဖြစ်သွားပါပြီ">
 <!ENTITY fullscreenWarning.generic.label "ဒီမှတ်တမ်းက မြင်ကွင်း အပြည့် ဖြစ်သွားပါပြီ">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards

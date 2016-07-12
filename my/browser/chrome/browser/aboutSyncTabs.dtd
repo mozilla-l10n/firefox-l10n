@@ -4,17 +4,17 @@
 
 <!ENTITY tabs.otherDevices.label               "အခြားကိရိယာများ တွင် ဖွင့်ထားသော တပ်ဗ်များ ">
 
-<!ENTITY tabs.searchText.label                   "ဖွင့်လက်စစာမျက်နှာများကိုဤ နေရာတွင်ရိုက်ပြီးရှာပါ">
+<!ENTITY tabs.searchText.label                   "တပ်ဗ်များကို ဤနေရာတွင် ရိုက်ပြီးရှာပါ…">
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
 
-<!ENTITY tabs.context.openTab.label                   "ဤစာမျက်နှာအားဖွင့်ပါ။">
-<!ENTITY tabs.context.openTab.accesskey               "ဤ">
-<!ENTITY tabs.context.openMultipleTabs.label          "ရွေးချယ်ထားသော စာမျက်နှာများအားဖွင့်မည်။">
-<!ENTITY tabs.context.openMultipleTabs.accesskey      "ရ">
-<!ENTITY tabs.context.bookmarkSingleTab.label         "ဤစာမျက်နာလိပ်စာအားမှတ်သိမ်းထားမည်။">
-<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "ဤ">
-<!ENTITY tabs.context.bookmarkMultipleTabs.label      "ရွေးချယ်ထားသော စာမျက်နှာများအားမှတ်သိမ်းထားမည်။">
-<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "ရ">
-<!ENTITY tabs.context.refreshList.label               "စာရင်းအား ပြန်လည်သစ်ဆန်းမည်။">
-<!ENTITY tabs.context.refreshList.accesskey           "စ">
+<!ENTITY tabs.context.openTab.label                   "ဒီတပ်ဗ်ကို ဖွင့်ပါ">
+<!ENTITY tabs.context.openTab.accesskey               "O">
+<!ENTITY tabs.context.openMultipleTabs.label          "ရွေးချယ်ထားသော တပ်ဗ်များကို ဖွင့်မည်။">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "O">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "ဒီတပ်ဗ်ကို မှတ်သားပါ…">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "B">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "ရွေးထားသည့် တပ်ဗ်များကို မှတ်သားပါ…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "B">
+<!ENTITY tabs.context.refreshList.label               "စာရင်းကို လတ်လတ်ဆတ်ဆတ် ပြန်ပြပါ">
+<!ENTITY tabs.context.refreshList.accesskey           "R">

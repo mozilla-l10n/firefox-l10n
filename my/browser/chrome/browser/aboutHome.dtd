@@ -14,27 +14,27 @@
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "မီးမြေခွေးအားရွေးချယ်ခြင်းအတွက်ကျေးဇူးတင်ပါသည်!သင်၏ဘရောင်ဆာနှင့်အတူနောက်ဆုံးပေါ် လုပ်ဆောင်ချက်များကို ကြည့်ရှူရန် <a>latest features</a>ကိုဆက်လက်လေ့လာလိုက်ပါ။">
+<!ENTITY abouthome.defaultSnippet1.v1 "မီးမြေခွေးကို ရွေးချယ်သည့်အတွက် ကျေးဇူးတင်ပါသည်။ သင့်ဘရောင်ဇာ၏ စွမ်းရည်များကို ရယူအသုံးချနိုင်ရန် <a>စွမ်းဆောင်ရည်အသစ်များ</a> အကြောင်း ပိုမိုလေ့လာနိုင်ပါသည်။">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "သင့်စိတ်ကြိုက် မီးမြေခွေးအားလွယ်ကူစွာပြုပြင်သုံးစွဲနိုင်ပါသည်။ <a>ထောင်ပေါင်းများစွာသော ပေါင်းစပ် app များ ရွေးချယ်ရန်</a>">
+<!ENTITY abouthome.defaultSnippet2.v1 "သင့်စိတ်ကြိုက် မီးမြေခွေးအားလွယ်ကူစွာပြုပြင်သုံးစွဲနိုင်ပါသည်။ <a>ထောင်ပေါင်းများစွာသော ပေါင်းစပ်အတ်အွန်များ ရွေးချယ်ရန်</a>">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; သည် ပရဟိတအဖွဲ့အစည်း မိုဇီလာမှ အခမဲ့ ဖြန့်ဖြူးသော Open Source ဆော့ဝဲဖြစ်ပါတယ် <a>သိသင့်သောအချက်များ...</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; သည် အခမဲ့ဖြစ်ပြီး အကျိုးအမြတ်အတွက်မဟုတ်သော မော်ဇီလာဖောင်ဒေးရှင်းမှ Open Source ဆော့ဝဲဖြစ်ပါသည်။ <a>သိသင့်သောအချက်များ...</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "မှတ်သား လိပ်စာများ">
+<!ENTITY abouthome.bookmarksButton.label "စာမှတ်များ">
 <!ENTITY abouthome.historyButton.label   "မှတ်တမ်း">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
 <!ENTITY abouthome.preferencesButtonWin.label  "ရွေးစရာများ">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
-<!ENTITY abouthome.preferencesButtonUnix.label  "ဦးစားပေး အချက်များ">
+<!ENTITY abouthome.preferencesButtonUnix.label  "နှစ်သက်ရာအပြင်အဆင်များ">
 <!ENTITY abouthome.addonsButton.label    "ပေါင်းထည့်ဆော့ဝဲများ">
-<!ENTITY abouthome.downloadsButton.label "ဆွဲချစရာများ">
+<!ENTITY abouthome.downloadsButton.label "ဆွဲယူထားသည့်ဖိုင်များ">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
      the mozilla wordmark in the top-right corner that links to Mozilla's main
      about page. -->
 
-<!ENTITY abouthome.aboutMozilla.label    "မိုဇီလာအကြောင်း">
+<!ENTITY abouthome.aboutMozilla.label    "မော်ဇီလာအကြောင်း">

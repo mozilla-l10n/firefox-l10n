@@ -46,7 +46,7 @@
 <!ENTITY helpus.getInvolvedLink     "ပါဝင်ဆောင်ရွက်ပါ။">
 <!ENTITY helpus.end                 "အခုဗားရှင်း သည် အားလုံးဝိုင်းဝန်စုပေါင်း လုပ်ဆောင်ထားသော ရလဒ်ဖြစ်သည်">
 
-<!ENTITY releaseNotes.link          "ဘာအသစ်ထွက်။">
+<!ENTITY releaseNotes.link          "ဘာအသစ်တွေ ပါဝင်ပါသလဲ။">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "လိုင်စင်အကြောင်းသိကောင်းစရာ">
@@ -62,24 +62,24 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; သည် နောက်ဆုံးပေါ်အသစ် ဖြစ်သွားပြီဖြစ်သည်။">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "အဆင့်မြှင့်တင်ခြင်းအားသင်၏ကွန်ပျူတာ စနစ်ထိန်းချုပ်သူမှခွင့်မပြုထားပါ။">
+<!ENTITY update.adminDisabled       "အဆင့်မြှင့်တင်ခြင်းကို သင်၏ကွန်ပျူတာစနစ် ထိန်းချုပ်သူက ခွင့်မပြုပါ။">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; အားအခြားတစ်ဖက်မှာ အဆင့်မြှင့်ပေး နေပါသည်။">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; ကို အခြားတစ်ဖက်မှာ အဆင့်မြှင့်ပေးနေပါသည်။">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "အသစ်မြှင့်တင်ခြင်းမပြုလုပ်နိုင်ပါ။">
-<!ENTITY update.failed.linkText     "နောက်ဆုံးထွက် အားဒေါင်းလုဒ်ရယူမည်။">
+<!ENTITY update.failed.start        "အဆင့်မြှင့်တင်ခြင်း မပြုလုပ်နိုင်ပါ။ ">
+<!ENTITY update.failed.linkText     "နောက်ဆုံးထွက်ကို ဒေါင်းလုဒ်ရယူမည်။">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "အဆင့်မြှင့်တင်ခြင်းအား လုပ်နိုင်သောနေရာမှာ">
+<!ENTITY update.manual.start        "နောက်ဆုံးပေါ်ရနိုင်သောနေရာသည် ">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -88,7 +88,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "ယခုအသုံးပြုနေသော ကွန်ပျူတာ စနစ်မှာ ဆော့ဝဲအားနောက်ထပ် အဆင့်မြှင့်မပေးတော့ပါ ">
+<!ENTITY update.unsupported.start    "ဒီကွန်ပျူတာစနစ်တွင် နောင်လာမည့် အဆင့်မြှင့်တင်မှုများကို လုပ်ဆောင်နိုင်တော့မည် မဟုတ်ပါ။ ">
 <!ENTITY update.unsupported.linkText "ပိုမို လေ့လာပါ">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -97,13 +97,13 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "အဆင့်မြှင့်တင် ခြင်းအားရယူနေသည် ----  ">
-<!ENTITY update.downloading.end     "အဆင့်မမြှင်နိုင်">
+<!ENTITY update.downloading.start   "နောက်ဆုံးပေါ်ပြုပြင်ချက်ကို ရယူနေသည် — ">
+<!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "အပ်ဒိတ် လုပ်နေပါတယ်...">
+<!ENTITY update.applying            "အဆင့်မြှင့်တင်မှု ဆောင်ရွက်နေသည်…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "သင်ဟာယခုရှိနေသောနေရာမှာ  ">
-<!ENTITY channel.description.end    "  အဆင့်မြှင့်ပါ  ">
+<!ENTITY channel.description.start  "ယခု ရှိနေသောနေရာသည်">
+<!ENTITY channel.description.end    "နောက်ဆုံးပေါ်ရနိုင်သည့် လမ်းကြောင်း ဖြစ်သည်။">

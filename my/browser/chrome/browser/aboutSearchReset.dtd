@@ -21,7 +21,7 @@ their language. -->
 <!ENTITY searchreset.beforelink.pageInfo2 "သင်သည် မည်သည့်အချိန်တွင်မဆို ဒီအပြင်အဆင်များကို ပြောင်းလဲသတ်မှတ်နိုင်ပါသည်။ ">
 <!ENTITY searchreset.afterlink.pageInfo2  ".">
 
-<!ENTITY searchreset.link.pageInfo2       "အပြင်အဆင် စာမျက်နှာ">
+<!ENTITY searchreset.link.pageInfo2       "အပြင်အဆင်များ စာမျက်နှာ">
 
 <!ENTITY searchreset.noChangeButton        "မပြောင်းလဲပါနှင့်">
 <!ENTITY searchreset.noChangeButton.access "D">
