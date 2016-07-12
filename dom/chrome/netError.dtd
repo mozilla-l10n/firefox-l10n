@@ -27,10 +27,10 @@
 <!ENTITY generic.longDesc "<p>Actualmente no hay información adicional disponible para este problema o error.</p>">
 
 <!ENTITY malformedURI.title "La dirección no es válida">
-<!ENTITY malformedURI.longDesc "<p>La dirección proporcionada no está en un formato reconocido. Por favor, compruebe errores en la barra de direcciones y vuelva a intentarlo.</p>">
+<!ENTITY malformedURI.longDesc "<p>La dirección proporcionada no está en un formato reconocido. Por favor, comprueba errores en la barra de direcciones y vuelve a intentarlo.</p>">
 
 <!ENTITY netInterrupt.title "La transferencia de datos fue interrumpida">
-<!ENTITY netInterrupt.longDesc "<p>El navegador se conectó correctamente, pero se interrumpió la conexión mientras se estaba transfiriendo información. Por favor, vuelva a intentarlo.</p><ul><li>¿No puede navegar por otros sitios? Compruebe la conexión de red del computador.</li><li>¿Todavía con problemas? Consulte con su administrador de red o proveedor de Internet para obtener asistencia técnica.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>El navegador se conectó correctamente, pero se interrumpió la conexión mientras se estaba transfiriendo información. Por favor, vuelve a intentarlo.</p><ul><li>¿No puedes navegar por otros sitios? Comprueba la conexión de red del computador.</li><li>¿Todavía con problemas? Consulta con tu administrador de red o proveedor de Internet para obtener asistencia técnica.</li></ul>">
 
 <!ENTITY notCached.title "Documento expirado">
 <!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en caché del navegador.</p><ul><li>Como una precaución de seguridad, el navegador no reenvía automáticamente documentos sensibles.</li><li>Haga clic en Intente nuevamente para solicitar el documento al sitio web nuevamente.</li></ul>">
@@ -50,16 +50,16 @@
 <!ENTITY netReset.longDesc "<p>El enlace de red fue interrumpido mientras negociaba una conexión. Por favor intente nuevamente.</p>">
 
 <!ENTITY netTimeout.title "Se agotó el tiempo de espera">
-<!ENTITY netTimeout.longDesc "<p>El sitio solicitado no respondió a una petición de conexión y el navegador ha dejado de esperar una respuesta.</p><ul><li>¿Podría estar experimentando el servidor alta demanda o un corte temporal? Vuelva a intentarlo más tarde.</li><li>¿No puede navegar por otros sitios? Compruebe la conexión de red del computador.</li><li>¿Su computador está protegido por un proxy o un firewall? Una configuración incorrecta puede interferir con la navegación.</li><li>¿Todavía con problemas? Consulte con su administrador de red o proveedor de Internet para asistencia técnica.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>El sitio solicitado no respondió a una petición de conexión y el navegador ha dejado de esperar una respuesta.</p><ul><li>¿Podría estar experimentando el servidor alta demanda o un corte temporal? Vuelve a intentarlo más tarde.</li><li>¿No puedes navegar por otros sitios? Comprueba la conexión de red del computador.</li><li>¿Tu computador está protegido por un proxy o un firewall? Una configuración incorrecta puede interferir con la navegación.</li><li>¿Todavía con problemas? Consulta con tu administrador de red o proveedor de Internet para asistencia técnica.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Protocolo desconocido">
 <!ENTITY unknownProtocolFound.longDesc "<p>La dirección especifica un protocolo (por ej. <q>wxyz://</q>) que el navegador no reconoce, por esto el navegador no puede conectar adecuadamente al sitio.</p><ul><li>¿Está intentando acceder a servicios multimedia u otros que no sean de texto? Revise el sitio por requerimientos extra.</li><li>Algunos protocolos pueden requerir software de terceros o complementos antes de que el navegador pueda reconocerlos.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "El servidor proxy rechazó la conexión">
-<!ENTITY proxyConnectFailure.longDesc "<p>El navegador está configurado para usar un servidor proxy, pero el proxy rechazó la conexión.</p><ul><li>¿Es correcta la configuración del proxy del navegador? Compruebe la configuración y vuelva a intentarlo.</li><li>¿Permite el servicio proxy conexiones desde esta red?</li><li>¿Todavia con problemas? Consulte con su administrador de red o proveedor de Internet para asistencia técnica.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>El navegador está configurado para usar un servidor proxy, pero el proxy rechazó la conexión.</p><ul><li>¿Es correcta la configuración del proxy del navegador? Comprueba la configuración y vuelve a intentarlo.</li><li>¿Permite el servicio proxy conexiones desde esta red?</li><li>¿Todavía con problemas? Consulta con tu administrador de red o proveedor de Internet para asistencia técnica.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Servidor Proxy No Encontrado">
-<!ENTITY proxyResolveFailure.longDesc "<p>El navegador está configurado para usar un servidor proxy, pero no se pudo encontrar el servidor proxy.</p><ul><li>¿Es correcta la configuración del proxy del navegador? Compruebe la configuración y vuelva a intentarlo.</li><li>¿El computador está conectado a una red activa?</li><li>¿Todavía con problemas? Consulte con su administrador de red o proveedor de Internet para asistencia técnica.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>El navegador está configurado para usar un servidor proxy, pero no se pudo encontrar el servidor proxy.</p><ul><li>¿Es correcta la configuración del proxy del navegador? Comprueba la configuración y vuelve a intentarlo.</li><li>¿El computador está conectado a una red activa?</li><li>¿Todavía con problemas? Consulta con tu administrador de red o proveedor de Internet para asistencia técnica.</li></ul>">
 
 <!ENTITY redirectLoop.title "Bucle de redirección">
 <!ENTITY redirectLoop.longDesc "<p>El navegador se ha detenido intentando recuperar el elemento solicitado. El sitio está redirigiendo la solicitud de una forma que nunca se va a completar.</p><ul><li>¿Tiene desactivadas o bloqueadas las cookies requeridas por este sitio?</li><li><em>NOTA</em>: Si aceptar las cookies del sitio no resuelve el problema, probablemente es un problema de configuración del servidor y no de su computador.</li></ul>">

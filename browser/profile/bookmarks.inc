@@ -11,7 +11,7 @@
 #define bookmarks_heading Marcadores
 
 #define bookmarks_toolbarfolder Barra de herramientas de la carpeta de marcadores
-#define bookmarks_toolbarfolder_description Agregar los marcadores a esta carpeta para verlos en la barra de herramientas de marcadores
+#define bookmarks_toolbarfolder_description Añade marcadores a esta carpeta para verlos en la barra de herramientas de marcadores
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/

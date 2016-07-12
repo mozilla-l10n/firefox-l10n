@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Values for changepassword.xul -->
-<!ENTITY setPassword.title  "Cambiar la Contraseña maestra">
+<!ENTITY setPassword.title  "Cambiar la contraseña maestra">
 <!ENTITY setPassword.tokenName.label "Dispositivo de seguridad">
 <!ENTITY setPassword.oldPassword.label "Contraseña actual:">
 <!ENTITY setPassword.newPassword.label "Nueva contraseña:">
@@ -27,7 +27,7 @@
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Solicitud de identificación de usuario">
-<!ENTITY clientAuthAsk.message1 "Este sitio ha solicitado que usted se identifique con un certificado:">
+<!ENTITY clientAuthAsk.message1 "Este sitio ha solicitado que te identifiques con un certificado:">
 <!ENTITY clientAuthAsk.message2 "Seleccionar un certificado para presentar como identificación:">
 <!ENTITY clientAuthAsk.message3 "Detalles del certificado seleccionado:">
 

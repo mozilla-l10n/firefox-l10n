@@ -26,10 +26,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "Siempre puedes obtener la última versión de &brandShortName; en:">
 
 <!ENTITY  unsupported.title               "Sistema no soportado">
-<!ENTITY  unsupported.label               "Tu &brandShortName; está obsoleto, pero la última versión no está
-                                           soportada por tu sistema. Por favor, actualiza tu sistema y vuelve 
-                                           a intentarlo.
-                                           nos verás nuevamente este aviso, pero puedes">
+<!ENTITY  unsupported.label               "Tu &brandShortName; está obsoleto, pero la última versión no es soportada por tu sistema. Por favor, actualiza tu sistema y vuelve a intentarlo. No verás nuevamente este aviso, pero puedes">
 <!ENTITY  unsupportedLink.label           "aprender más.">
 
 <!ENTITY  clickHere.label                 "Ver más infromación sobre esta actualización">
