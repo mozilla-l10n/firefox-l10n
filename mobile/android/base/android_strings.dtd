@@ -27,7 +27,7 @@
 <!ENTITY firstrun_tabqueue_subtext_off "ఇతర ఆప్స్ ని నొక్కేటప్పుడు తరువాత &brandShortName; కోసం లింకులు సేవ్ చేయండి.">
 
 <!ENTITY firstrun_tabqueue_message_on "సఫలం!">
-<!ENTITY firstrun_tabqueue_subtext_on "మీరు ఎల్లప్పుడూ నేపథ్యంలో ఆఫ్ చెయ్యవచ్చు; కింద & pref_category_general;.">
+<!ENTITY firstrun_tabqueue_subtext_on "మీరు ఎల్లప్పుడూ నేపథ్యంలో ఆఫ్ చెయ్యవచ్చు; కింద &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "వ్యాసాలు">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
