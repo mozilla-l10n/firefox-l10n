@@ -124,8 +124,8 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "什么是附加组件？">
-<!ENTITY discover.description2                "附加组件是一些可以让您使用更多功能或样式来个性化 &brandShortName; 的应用程序。您可以试试快捷省时的侧边栏、天气通知或一个主题，将 &brandShortName; 变成独一无二的。">
-<!ENTITY discover.footer                      "在您连接到互联网的情况下，此面板将列出一些最好、最流行的附加组件供您尝试。">
+<!ENTITY discover.description2                "附加组件是一些帮助您个性化 &brandShortName; 的应用程序。使用附加组件可以让 &brandShortName; 拥有更加强大的功能和更加漂亮的外观。您可以试试帮您省时的侧边栏、天气通知或美观的主题，让 &brandShortName; 有您的个性。">
+<!ENTITY discover.footer                      "在您连上网络后，这里会为您推荐一些很棒或新潮的附加组件供您体验。">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "版本">
