@@ -9,4 +9,6 @@
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.cancel.label          "Ακύρωση">
+<!ENTITY button.cancel.accesskey      "Α">
 <!ENTITY button.ok.label              "Αποθήκευση αλλαγών">
+<!ENTITY button.ok.accesskey          "θ">
