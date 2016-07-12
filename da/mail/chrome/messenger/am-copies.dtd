@@ -10,7 +10,7 @@
 <!ENTITY fccReplyFollowsParent.accesskey "m">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Kopi til disse mailadresser:">
-<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddress.accesskey "p">
 <!ENTITY ccAddressList.placeholder "Adskil adresser med komma">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Skjult kopi til andre adresser:">
