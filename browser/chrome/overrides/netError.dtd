@@ -114,7 +114,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<P> సురక్షిత కనెక్షన్ <span id='wrongSystemTime_URL'/> కుదరదు మీ గడియారం తప్పు సమయంలో కనిపిస్తాయి.</p> <p>మీ కంప్యూటర్లో దీన్ని <span id='wrongSystemTime_systemDate'/>, అది <span id='wrongSystemTime_actualDate'/> ఉండాలి ఉన్నప్పుడు. సరైన సమయం మ్యాచ్ మీ తేదీ మరియు సమయం సెట్టింగ్లను మార్చడానికి, ఈ సమస్యను పరిష్కరించడానికి.</p>">
+<!ENTITY certerror.wrongSystemTime "<p> సురక్షిత కనెక్షన్ <span id='wrongSystemTime_URL'/> కుదరదు మీ గడియారం తప్పు సమయంలో కనిపిస్తాయి.</p> <p>మీ కంప్యూటర్లో దీన్ని <span id='wrongSystemTime_systemDate'/>, అది <span id='wrongSystemTime_actualDate'/> ఉండాలి ఉన్నప్పుడు. సరైన సమయం మ్యాచ్ మీ తేదీ మరియు సమయం సెట్టింగ్లను మార్చడానికి, ఈ సమస్యను పరిష్కరించడానికి.</p>">
 
 <!ENTITY certerror.pagetitle1  "అసురక్ష కనెక్షన్">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ఈ సైట్ HTTP

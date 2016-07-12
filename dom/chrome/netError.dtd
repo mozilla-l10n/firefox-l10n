@@ -78,7 +78,7 @@
 <!ENTITY cspBlocked.title "కాంటెంట్ సెక్యూరిటీ పాలసీ చేత నిరోధించబడింది">
 <!ENTITY cspBlocked.longDesc "<p>విహరిణి యీ పేజీ యీ మార్గంలో లోడవ్వుటనుండి నిరోధించుచున్నది యెంచేతంటే ఆ పేజీ కాంటెంట్ సెక్యూరిటీ పాలసీ కలిగివుంది అది దీనిని నిరాకరిస్తోంది.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "పాడైన విషయపు దోషంCorrupted Content Error">
+<!ENTITY corruptedContentErrorv2.title "పాడైన విషయపు దోషం">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>మీరు దర్శించుటకు ప్రయత్నిస్తున్న పేజీ చూపబడలేదు యెంచేతంటే దత్తాంశం బదలాయింపులో వొక దోషం గుర్తించబడింది</p><ul><li>దయచేసి వెబ్‌సైట్ యజమానులను సంప్రదించి వారికి యీ సమస్య గురించి తెలియపరచండి.</li></ul>">
 
 <!ENTITY remoteXUL.title "రిమోట్ XUL">
