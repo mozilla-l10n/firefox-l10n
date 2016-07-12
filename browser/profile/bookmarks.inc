@@ -16,7 +16,7 @@
 #define bookmarks_heading ที่คั่นหน้า
 
 
-#define bookmarks_toolbarfolder แถบเครื่องมือที่คั่นหน้า
+#define bookmarks_toolbarfolder โฟลเดอร์แถบเครื่องมือที่คั่นหน้า
 
 
 #define bookmarks_toolbarfolder_description เพิ่มที่คั่นหน้าลงในโฟลเดอร์นี้เพื่อให้แสดงในแถบเครื่องมือที่คั่นหน้า
