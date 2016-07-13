@@ -171,7 +171,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "আরও বুকমার্ক প্রদর্শন">
 <!ENTITY showRecentlyBookmarked.label     "সাম্প্রতিক বুকমার্ক সমূহ প্রদর্শন">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "সাম্প্রতিক বুকমার্ক সমূহ লুকাও">
+<!ENTITY hideRecentlyBookmarked.label     "সাম্প্রতিক বুকমার্ক লুকাও">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "পূর্ববর্তী">
