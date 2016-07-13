@@ -46,7 +46,7 @@
 
 # LOCALIZATION NOTE (seamonkey_dictionaries):
 # link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/dictionaries
-#define seamonkey_dictionaries Słowniki do sprawdzania pisownii
+#define seamonkey_dictionaries Słowniki do sprawdzania pisowni
 
 # LOCALIZATION NOTE (seamonkey_plugins):
 # link title for https://en-US.add-ons.mozilla.org/en-US/seamonkey/plugins
