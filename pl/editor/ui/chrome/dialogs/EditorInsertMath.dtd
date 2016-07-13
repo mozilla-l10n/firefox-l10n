@@ -4,7 +4,7 @@
 
 <!ENTITY windowTitle.label "Wstawianie wzorów matematycznych">
 
-<!ENTITY sourceEditField.label "Enter LaTeX source code:">
+<!ENTITY sourceEditField.label "Wprowadź kod źródłowy LaTeX:">
 
 <!ENTITY options.label "Ustawienia">
 <!ENTITY optionInline.label "Tryb bezpośredni">
