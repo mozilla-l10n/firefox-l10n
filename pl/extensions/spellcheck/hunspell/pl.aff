@@ -5816,13 +5816,15 @@ SFX V   0         tach      [^i]ê
 SFX V   ê         onach     miê
 SFX V   0         tach      [^m]iê
 
-SFX W Y 24
+SFX W Y 30
 SFX W   a         om        a
 SFX W   e         om        e
 SFX W   y         om        [^c]y
 SFX W   y         om        [^ayu]cy
 SFX W   cy        kom       [ayu]cy
-SFX W   i         om        [gkns]i
+SFX W   i         om        [gks]i
+SFX W   i         om        [^d]ni
+SFX W   0         om        dni
 SFX W   0         om        [^gkns]i
 SFX W   0         mi        [^i]a
 SFX W   0         mi        [^c]ia
@@ -5831,7 +5833,9 @@ SFX W   cia       æmi       cia
 SFX W   y         ami       [^c]y
 SFX W   y         ami       [^ayu]cy
 SFX W   cy        kami      [ayu]cy
-SFX W   i         ami       [gkns]i
+SFX W   i         ami       [gks]i
+SFX W   i         ami       [^d]ni
+SFX W   0         ami       dni
 SFX W   0         ami       [^gkns]i
 SFX W   0         ch        a
 SFX W   e         ach       e
@@ -5839,7 +5843,9 @@ SFX W   y         ach       [^c]y
 SFX W   y         ach       [^amyu]cy
 SFX W   y         zech      mcy
 SFX W   cy        kach      [ayu]cy
-SFX W   i         ach       [gkns]i
+SFX W   i         ach       [gks]i
+SFX W   i         ach       [^d]ni
+SFX W   0         ach       dni
 SFX W   0         ach       [^gkns]i
 
 SFX l Y 12
