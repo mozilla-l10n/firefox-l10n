@@ -73,7 +73,7 @@
 
 <!ENTITY update.failed.start        "Թարմացումը չհաջողվեց:">
 <!ENTITY update.failed.linkText     "Ներբեռնել վերջին տարբերակը">
-<!ENTITY update.failed.end          "">
+<!ENTITY update.failed.end          "թարմացումը ձախողվեց ավարտ">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
@@ -98,7 +98,7 @@
      example: Downloading update — 111 KB of 13 MB -->
 
 <!ENTITY update.downloading.start   "Թարմացման ներբեռնում — ">
-<!ENTITY update.downloading.end     "">
+<!ENTITY update.downloading.end     "թարմացումը բեռնվում է.ավարտ">
 
 <!ENTITY update.applying            "Թարմացման կիրառում...">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
