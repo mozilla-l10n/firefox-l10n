@@ -25,19 +25,21 @@
 <!ENTITY newevent.status.needsaction.label        "Изисква действие" >
 <!ENTITY newevent.status.inprogress.label         "В процес" >
 <!ENTITY newevent.status.completed.label          "Завършено на" >
-<!-- The following entity is for New Task dialog only -->
 
+<!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; завършено">
+
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-
 <!ENTITY event.attendees.notify.label               "Уведомяване на участниците">
 <!ENTITY event.attendees.notify.accesskey           "f">
 <!ENTITY event.attendees.notifyundisclosed.label    "Отделни покани за участниците">
-
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "д">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Тази опция изпраща по една покана за всеки участник. Всяка покана съдържа само адреса на получателя, така че други участници не се виждат.">
+
 <!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -50,8 +52,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-<!-- Menubar -->
 
+<!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Ново">
 <!ENTITY  event.menu.item.new.accesskey                   "Н">
 <!ENTITY  event.menu.item.new.event.label                 "Събитие">
@@ -139,11 +141,11 @@
 <!ENTITY event.email.tentative.attendees.label            "Създаване на писмо до нерешилите участници">
 <!ENTITY event.email.tentative.attendees.accesskey        "н">
 <!ENTITY event.remove.attendees.label2                    "Премахване на всички участници">
-
-
+<!ENTITY event.remove.attendees.accesskey                 "ч">
+<!ENTITY event.remove.attendee.label                      "Премахване на участник">
+<!ENTITY event.remove.attendee.accesskey                  "х">
 
 <!-- Toolbar -->
-
 <!ENTITY  event.toolbar.save.label                        "Запис и затваряне">
 <!ENTITY  event.toolbar.delete.label                      "Изтриване">
 <!ENTITY  event.toolbar.attendees.label                   "Поканване на участници">
@@ -157,8 +159,8 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Промяна на приоритета">
 <!ENTITY  event.toolbar.status.tooltip                    "Промяна на статуса">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Промяна на свободно/заето време">
-<!-- Main page -->
 
+<!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Заглавие:" >
 <!ENTITY event.title.textbox.accesskey                    "З">
 <!ENTITY event.location.label                             "Местоположение:" >
@@ -177,15 +179,15 @@
 <!ENTITY task.from.label                                  "Начало:" >
 <!ENTITY task.from.accesskey                              "Н">
 <!ENTITY event.to.label                                   "&amp;Край:" >
-
+<!ENTITY event.to.accesskey                               "р">
 <!ENTITY task.to.label                                    "Крайна дата:" >
 <!ENTITY task.to.accesskey                                "й">
 <!ENTITY task.status.label                                "Статус:" >
 <!ENTITY task.status.accesskey                            "у">
 <!ENTITY event.repeat.label                               "Повторение:" >
 <!ENTITY event.repeat.accesskey                           "в">
-<!ENTITY event.until.label                                "Д&amp;о:">
-
+<!ENTITY event.until.label                                "До:">
+<!ENTITY event.until.accesskey                            "Д">
 <!ENTITY event.reminder.label                             "Напомняне:" >
 <!ENTITY event.reminder.accesskey                         "м">
 <!ENTITY event.description.label                          "Описание:" >
@@ -224,8 +226,8 @@
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Отбелязване на времето като:">
 <!ENTITY event.statusbarpanel.privacy.label               "Поверителност:">
-<!-- Recurrence dialog -->
 
+<!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Редактиране на повторенията">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Без повторение">
@@ -274,6 +276,7 @@
 <!ENTITY event.recurrence.every.label                        "Всяка/На всеки" >
 <!ENTITY repeat.units.years.both                             "Година/Години" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Всеки" >
+
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -281,7 +284,6 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
-
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Януари" >
@@ -331,8 +333,8 @@
 <!ENTITY event.recurrence.appointments.label            "Среща/Срещи" >
 <!ENTITY event.repeat.until.label                       "Повтаряне до" >
 <!ENTITY event.recurrence.preview.label                 "Преглед">
-<!-- Attendees dialog -->
 
+<!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Поканване на участници">
 <!ENTITY event.organizer.label                  "Организатор">
 <!ENTITY event.freebusy.suggest.slot            "Предлагане на времеви пояс:">
@@ -353,12 +355,12 @@
 <!ENTITY event.attendee.usertype.resource       "Ресурс">
 <!ENTITY event.attendee.usertype.room           "Стая">
 <!ENTITY event.attendee.usertype.unknown        "Неизвестен">
-<!-- Timezone dialog -->
 
+<!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Моля, посочете времевата зона">
 <!ENTITY event.timezone.custom.label     "Още времеви зони…">
-<!-- Read-Only dialog -->
 
+<!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Основни">
 <!ENTITY read.only.title.label           "Заглавие:">
 <!ENTITY read.only.event.start.label     "Начална дата:">
