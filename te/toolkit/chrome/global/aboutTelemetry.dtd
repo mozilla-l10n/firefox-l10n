@@ -35,7 +35,9 @@
 
 <!ENTITY aboutTelemetry.choosePing "పింగ్ ఎంచుకోండి:">
 
-<!ENTITY aboutTelemetry.showNewerPing "&Lt; &lt; క్రొత్త పింగ్">
+<!ENTITY aboutTelemetry.showNewerPing "
+&lt;&lt; క్రొత్త పింగ్
+">
 
 <!ENTITY aboutTelemetry.showOlderPing "
 పాత పింగ్ &gt;&gt;
