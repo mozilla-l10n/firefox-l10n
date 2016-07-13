@@ -478,9 +478,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "छवि फिर लोड करें">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "देखें &amp; छवि">
+<!ENTITY viewImageCmd.label           "छवि देखें">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "छवि &amp; सूचना देखें">
+<!ENTITY viewImageInfoCmd.label       "छवि सूचना देखें">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "देखें विवरण  ">
 <!ENTITY viewImageDescCmd.accesskey   "व">
