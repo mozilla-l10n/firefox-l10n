@@ -32,10 +32,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "Activer">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activer la vérification de mises à jour de sécurité pour les modules complémentaires">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label "Vérifier si les plugins sont à jour">
-<!ENTITY info.plugincheck.tooltip "Vérifier si les plugins sont à jour">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Rechercher">
 <!ENTITY view.discover.label                  "Catalogue">
