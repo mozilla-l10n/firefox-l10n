@@ -31,8 +31,8 @@
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "5">
-<!ENTITY socksRemoteDNS.label "Zdalny DNS">
-<!ENTITY socksRemoteDNS.accesskey "Z">
+<!ENTITY socksRemoteDNS.label2 "Proxy DNS podczas używania SOCKS v5">
+<!ENTITY socksRemoteDNS.accesskey "x">
 <!ENTITY port.label "Port:">
 <!ENTITY HTTPport.accesskey "o">
 <!ENTITY SSLport.accesskey "r">
