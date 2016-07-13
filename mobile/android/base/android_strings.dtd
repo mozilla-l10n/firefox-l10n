@@ -187,7 +187,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "TIP: శోధన రంగంలో దీర్ఘ నొక్కడం మరియు అప్పుడు ఫార్మాట్ తాకడం ద్వారా శోధన ప్రొవైడర్లు మీ జాబితాకు ఏ వెబ్సైట్ జోడించు; చిహ్నం.">
+<!ENTITY pref_search_hint2 "చిట్కా: శోధన రంగంలో దీర్ఘ నొక్కడం మరియు అప్పుడు &formatI; తాకడం ద్వారా శోధన ప్రొవైడర్లు మీ జాబితాకు ఏ వెబ్సైట్ జోడించు చిహ్నం.">
 <!ENTITY pref_category_advanced "ఉన్నతం">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
