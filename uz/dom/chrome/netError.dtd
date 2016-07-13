@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "Fayl topilmadi">
 <!ENTITY fileNotFound.longDesc "<ul><li>Elementning nomi oʻzgartirilgan, oʻchirilgan yoki koʻchirilgan boʻlishi mumkinmi?</li><li>Manzilni yozisda imlo, katta-kichik harflarda xato yoki boshqa terishda xatolar bormi?</li><li>Soʻralgan elementga kirishga sizda yetarli huquq bormi?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "Fayldan foydalanishga ruxsat berilmadi">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>O‘chirib tashlangan, ko‘chirilgan yoki foydalanishga ruxsat berilmagan bo‘lishi mumkin.</li> </ul>">
 
 <!ENTITY generic.title "Soʻrov tugallanmadi">
 <!ENTITY generic.longDesc "<p>Hozirda mavjud boʻlmaganlik xatosi yoki muammosi haqida qoʻshimcha ma`lumoot</p>">
@@ -81,5 +82,7 @@
 <!ENTITY remoteXUL.title "Masofadagi XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ushbu muammo haqida xabar berish uchun veb sayt egasi bilan bogʻlaning.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Ulanish xavfsiz emas">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> hujumlarga chidamsiz va eskirgan xavfsizlik texnonolgiyasidan foydalanadi. Xakker siz xavfsiz deb o‘ylaydigan ma’lumotlarni osongina ochib ko‘rishi mumkin. Siz saytga kira olishingiz uchun, avvalo, sayt administratori serverni to‘g‘rilashi kerak.</p><p>Xatolik kodi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
