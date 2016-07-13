@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
 
 <!ENTITY pref.calendar.view.allview.caption "Главен">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Дневен и седмичен изглед">
@@ -14,8 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Първи ден от седмицата:">
 <!ENTITY pref.weekstarts.accesskey "П">
-
-
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Показване номера на седмицата в изгледите и минимесеца">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "с">
 <!ENTITY pref.daysoff.label "Включи тези дни в работната седмица">
 
 <!ENTITY pref.calendar.view.daystart.label "Денят започва в:">

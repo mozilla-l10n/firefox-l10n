@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Event Menu -->
 
+<!-- Event Menu -->
 <!ENTITY event.new.event                        "Ново събитие…">
 <!ENTITY event.new.event.accesskey              "с">
 
@@ -20,12 +20,12 @@
 
 <!ENTITY calendar.deletecalendar.label          "Изтриване на избрания календар…">
 <!ENTITY calendar.deletecalendar.accesskey      "И">
-
+<!ENTITY calendar.unsubscribecalendar.label     "Отписване от избрания календар…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "с">
 
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
       is the general action of removing it, while deleting means to clear the
       data and unsubscribing means just taking it out of the calendar list. -->
-
 <!ENTITY calendar.removecalendar.label          "Изтриване на избрания календар…">
 <!ENTITY calendar.removecalendar.accesskey      "И">
 
@@ -35,7 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Намиране на събития">
 <!ENTITY showUnifinderCmd.accesskey             "м">
-
+<!ENTITY showUnifinderCmd.tooltip               "Превключване на панела за търсене на събития">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Показване на задачите в календара">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "з">

@@ -8,31 +8,31 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Синхронизиране">
-
+<!ENTITY lightning.toolbar.sync.tooltip "Презареждане на календарите и синхронизиране на промените">
 <!ENTITY lightning.toolbar.delete.label "Изтриване">
 <!ENTITY lightning.toolbar.delete.tooltip "Изтриване на избраните събития или задачи">
 <!ENTITY lightning.toolbar.edit.label "Редактиране">
-
-
-
+<!ENTITY lightning.toolbar.edit.tooltip "Редактиране на избраното събитие или задача">
+<!ENTITY lightning.toolbar.gototoday.label "Преход към днешния ден">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Преход към днешния ден">
 <!ENTITY lightning.toolbar.print.label "Отпечатване">
 <!ENTITY lightning.toolbar.print.tooltip "Отпечатване на събития или задачи">
-<!-- Mode Toolbar -->
 
+<!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Календар">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Превключване към подпрозореца с календара">
 <!ENTITY lightning.toolbar.calendar.accesskey "К">
 <!ENTITY lightning.toolbar.task.label         "Задачи">
 <!ENTITY lightning.toolbar.task.tooltip       "Превключване към подпрозореца със задачи">
 <!ENTITY lightning.toolbar.task.accesskey     "З">
-<!-- Toolbar write button -->
 
+<!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Събитие">
 <!ENTITY lightning.toolbar.newevent.tooltip   "Създаване на ново събитие">
 <!ENTITY lightning.toolbar.newtask.label      "Задача">
 <!ENTITY lightning.toolbar.newtask.tooltip    "Създаване на нова задача">
-<!-- Calendar and Task Mode Toolbar -->
 
+<!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Ден">
 <!ENTITY lightning.toolbar.day.accesskey             "Д">
 <!ENTITY lightning.toolbar.week.label                "Седмица">
