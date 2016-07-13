@@ -130,8 +130,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.generic.label "Ce document est désormais en plein écran">
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "contrôle votre curseur. Appuyez sur Échap pour reprendre le contrôle.">
-<!ENTITY pointerlockWarning.generic.label "Ce document contrôle votre curseur. Appuyez sur Échap pour reprendre le contrôle.">
+<!ENTITY pointerlockWarning.afterDomain.label "contrôle votre pointeur. Appuyez sur Échap pour reprendre le contrôle.">
+<!ENTITY pointerlockWarning.generic.label "Ce document contrôle votre pointeur. Appuyez sur Échap pour reprendre le contrôle.">
 
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
