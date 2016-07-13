@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "환영합니다">
-<!ENTITY  onboard_start_message3 "&brandShortName;와 함께 하는 브라우징">
-<!ENTITY  onboard_start_subtext3 "나만의 모바일 웹 브라우징 경험을 만들어보세요.">
 
 <!ENTITY firstrun_urlbar_message "환영합니다 &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "쉽고 유용한 검색 추천으로 더 빠르게 찾으세요.">
@@ -20,20 +18,31 @@
 <!ENTITY firstrun_signin_message "연결 및 시작하기">
 <!ENTITY firstrun_signin_button "Sync 로그인">
 <!ENTITY  onboard_start_button_browser "브라우징 시작">
+<!ENTITY firstrun_button_notnow "다음에">
 <!ENTITY firstrun_button_next "다음">
 
-<!ENTITY  onboard_start_restricted1 "&brandShortName; 간소화 버전으로 더 쉽고 안전하고 사용하세요.">
+<!ENTITY firstrun_tabqueue_title "링크">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "탭 목록 활성화">
 
-<!ENTITY  reading_list_migration_title "읽기 목록 연결">
-<!ENTITY  reading_list_migration_subtext "읽기 목록이 이제부터 북마크에 추가됩니다">
-<!ENTITY  reading_list_migration_goto_bookmarks "북마크로 이동">
-<!ENTITY  reading_list_migration_bookmarks_hidden "북마크 패널이 숨겨졌습니다">
+<!ENTITY firstrun_tabqueue_message_on "성공!">
+<!ENTITY firstrun_tabqueue_subtext_on "언제든지 &settings; 의 &pref_category_general;에서 끌 수 있습니다.">
+
+<!ENTITY firstrun_readerview_title "문서">
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "심플하게 바꾸기">
+<!ENTITY firstrun_readerview_subtext "읽기 모드를 사용하면 문서를 더 읽기 좋게 만들어줍니다 \u2014 또한 오프라인에서도 볼 수 있습니다.">
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "사용자">
+<!ENTITY firstrun_account_message "다른 기기에서 &brandShortName; 를 사용하시나요?">
+
+<!ENTITY  onboard_start_restricted1 "&brandShortName; 간소화 버전으로 더 쉽고 안전하고 사용하세요.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "북마크">
 <!ENTITY  history_title "방문 기록">
-<!ENTITY  reading_list_title "읽기 목록">
 <!ENTITY  recent_tabs_title "최근 탭">
 
 <!ENTITY  switch_to_tab "탭 전환">
@@ -69,6 +78,11 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "스크린샷">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "읽기 목">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; 개 항목">
+<!ENTITY bookmark_folder_one_item "1개 항목">
 
 <!ENTITY reader_saved_offline "오프라인으로 저장됨">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +188,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "TIP: 검색어 입력창을 길게 누른 다음 &formatI; 아이콘을 터치하시면 어느 사이트든 검색 엔진으로 추가할 수 있습니다.">
 <!ENTITY pref_category_advanced "고급">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "탭 복구, 데이터 절약, 개발자 도구">
 <!ENTITY pref_category_notifications "알림">
 <!ENTITY pref_category_notifications_summary "새로운 기능, 웹사이트 업데이트">
@@ -225,6 +242,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "사용하기 (제3자 쿠키 제외)">
 <!ENTITY pref_cookies_disabled "사용 안 함">
 
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_data_saver "데이터 절약">
 <!ENTITY pref_category_media "미디어">
 <!ENTITY pref_category_developer_tools "개발자 도구">
@@ -287,7 +307,12 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; 웹사이트 업데이트 됨">
-<!ENTITY content_notification_action_settings "알림 설정">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "설정">
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "지금 읽기">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -538,6 +563,8 @@ size. -->
 <!ENTITY home_history_title "방문 기록">
 <!ENTITY home_synced_devices_smartfolder "동기화된 기기">
 <!ENTITY home_synced_devices_number "&formatD; 기기">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "기기 1대">
 <!ENTITY home_history_back_to2 "전체 이력으로 돌아가기">
 <!ENTITY home_clear_history_button "방문 기록 삭제">
 <!ENTITY home_clear_history_confirm "방문 기록을 삭제하시겠습니까?">
@@ -777,3 +804,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_title "오프라인으로 읽기">
 <!ENTITY helper_first_offline_bookmark_message "오프라인에서도 북마크된 읽기 모드 항목들을 볼 수 있습니다.">
 <!ENTITY helper_first_offline_bookmark_button "북마크로 이동">
+
+<!ENTITY helper_triple_readerview_open_title "오프라인에서 사용 가능">
+<!ENTITY helper_triple_readerview_open_message "오프라인에서 읽을 수 있도록 읽기 모드 항목들을 북마크합니다.">
+<!ENTITY helper_triple_readerview_open_button "북마크에 추가">
+
