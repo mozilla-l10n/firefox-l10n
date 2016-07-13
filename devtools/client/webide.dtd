@@ -152,6 +152,7 @@
 <!ENTITY devicepreference_title "העדפות התקן">
 <!ENTITY devicepreference_search "העדפות חיפוש">
 <!ENTITY devicepreference_newname "שם העדפה חדשה">
+<!ENTITY devicepreference_newtext "ערך העדפה">
 <!ENTITY devicepreference_addnew "הוספת העדפה חדשה">
 
 <!-- Device Settings -->
@@ -176,6 +177,7 @@
      devices that can't scan a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "מופיעה בפניך הצעה לסריקת QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 
@@ -189,6 +191,7 @@
 <!ENTITY simulator_profile "פרופיל">
 <!ENTITY simulator_hardware "חומרה">
 <!ENTITY simulator_device "התקן">
+<!ENTITY simulator_screenSize "מסך">
 <!ENTITY simulator_pixelRatio "יחס פיקסלים">
 <!ENTITY simulator_tv_data "הדמיית טלוויזיה">
 <!ENTITY simulator_tv_data_open "נתוני תצורה">

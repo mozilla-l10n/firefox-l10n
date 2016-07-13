@@ -16,6 +16,9 @@
 
 
 
+<!ENTITY aboutTelemetry.structured "
+מובנה
+">
 
 <!ENTITY aboutTelemetry.raw "
 JSON גולמי
