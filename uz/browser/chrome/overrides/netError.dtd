@@ -24,7 +24,8 @@
 <!ENTITY fileNotFound.title "Fayl topilmadi">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Fayl nomlarining katta-kichigligini va boshqa yozishdagi xatolarini tekshiring.</li> <li>Faylning o‘chirilganligi, nomi o‘zgartirilganligi va ko‘chirilganligini tekshirib ko‘ring.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Fayldan foydalanishga ruxsat berilmadi">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>O‘chirib tashlangan, ko‘chirilgan yoki foydalanishga ruxsat berilmagan bo‘lishi mumkin.</li> </ul>">
 
 <!ENTITY generic.title "Obbo.">
 <!ENTITY generic.longDesc "<p>&brandShortName; ushbu sahifani ba’zi sabablarga ko‘ra yuklay olmadi.</p>">
@@ -68,11 +69,14 @@
 <!ENTITY unknownSocketType.title "Serverdan kutilmagan javob">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Shaxsiy xavfsizlik boshqaruvchisi (PSM) tizimingizda o‘rnatilganligini tekshirib ko‘ring.</li> <li>Bu serveringizning nostandart moslanganligidan ham bo‘lishi mumkin.</li> </ul>">
 
+<!ENTITY nssFailure2.title "Xavfsiz ulanib bo‘lmadi">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Siz ko‘rmoqchi bo‘lgan sahifani ko‘rsatib bo‘lmaydi, chunki olingan fayllar tasdiqdan o‘tmagan.</li> <li>Ushbu muammo haqida xabar berish uchun vebsahifa egasi bilan bog‘laning.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "Ulanish xavfsiz emas">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/> egasi veb-saytini noto‘g‘ri sozlagan. Ma’lumotlaringizni o‘g‘irlanishdan himoyalash maqsadida, &brandShortName; bu veb-saytga ulanmadi.">
 
 <!ENTITY sharedLongDesc "<ul> <li>Bu sayt vaqtinchalik ishlamayotgan yoki juda band bo‘lishi mumkin. Bir ozdan so‘ng urinib ko‘ring.</li> <li>Agar birorta ham sahifa yuklanmasa, kompyuteringizni tarmoqqa ulanishini tekshirib ko‘ring.</li> <li>Agar kompyuter yoki tarmog‘ingiz fayervol yoki proksi bilan himoyalangan bo‘lsa, &brandShortName;ning internetga kirishi cheklanmaganligini tekshirib ko‘ring.</li> </ul>">
 
@@ -96,6 +100,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Qo‘shimcha ma’lumot: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Ulanish xavfsiz emas">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Qo‘shimcha ma’lumot: SSL_ERROR_NO_CYPHER_OVERLAP">

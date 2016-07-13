@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Xavfli va yolg‘on saytlarni bloklash">
+<!ENTITY  enableSafeBrowsing.accesskey    "b">
 
+<!ENTITY  blockDownloads.label            "Xavfli yuklab olishlarni bloklash">
+<!ENTITY  blockDownloads.accesskey        "X">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Keraksiz va ishonchsiz dasturiy ta’minot haqida menga ogohlantirish berilsin">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Istisnolar">
 <!ENTITY  addonExceptions.accesskey     "I">
