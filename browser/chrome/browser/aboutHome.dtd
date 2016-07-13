@@ -6,18 +6,19 @@
 %brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
+
 <!-- These strings are used in the about:home page -->
 
-
 <!ENTITY abouthome.pageTitle "&brandFullName; ప్రారంభపు పేజి">
+
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-
 <!ENTITY abouthome.defaultSnippet1.v1 "ఫైర్‌ఫాక్స్‌ను ఎంచుకున్నందుకు కృతజ్ఞతలు! <a>సరికొత్త సౌలభ్యాల</a> గురించి తెలుసుకొని, మీ విహారిణి నుండి అధిక ప్రయోజనం పొందండి.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
+<!ENTITY abouthome.defaultSnippet2.v1 "ఫైర్‌ఫాక్స్‌ను ఖచ్చితంగా మీకు కావలసినట్లు మలచుకొనడం తేలిక. <a>వేలాది పొడిగింతల నుండి ఎంచుకోండి</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; అనేది లాభాపేక్ష లేని మొజిల్లా ఫౌండేషన్ అందించే స్వేచ్ఛా మరియు బహిరంగాకర సాఫ్ట్‌వేర్. <a>మీ హక్కులను తెలుసుకోండి…</a>">
 
@@ -32,8 +33,8 @@
 <!ENTITY abouthome.addonsButton.label    "పొడిగింతలు">
 <!ENTITY abouthome.downloadsButton.label "దింపుకోళ్ళు">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
+
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
      the mozilla wordmark in the top-right corner that links to Mozilla's main
      about page. -->
-
 <!ENTITY abouthome.aboutMozilla.label    "మొజిల్లా గురించి">
