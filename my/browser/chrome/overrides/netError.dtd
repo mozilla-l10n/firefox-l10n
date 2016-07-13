@@ -113,11 +113,13 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTime "<p>ဒီ <span id='wrongSystemTime_URL'/> သို့ လုံခြုံသော ချိတ်ဆက်မှုသည် မဖြစ်နိုင်ပါ၊ အဘယ်ကြောင့်ဆိုသော် သင့်နာရီသည် အချိန်မှားယွင်းနိုင်ဖွယ်ရှိသည်။</p> <p>သင့်ကွန်ပျူတာသည် <span id='wrongSystemTime_systemDate'/>ကို အမှန်ထင်သော်လည်း အမှန်မှာမူ <span id='wrongSystemTime_actualDate'/> ဖြစ်သင့်သည်။ ဒီပြဿနာကိုဖြေရှင်းရန် သင့်ရက်စွဲနှင့် အချိန်အပြင်ဆင်များကို မှန်ကန်ကိုက်ညီစေရန် ပြောင်းလဲသတ်မှတ်ပါ။</p>">
 
 <!ENTITY certerror.pagetitle1  "မလုံခြုံသော ချိတ်ဆက်မှု">
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "&brandShortName; က ဒီဝဘ်ဆိုက်ကို လုံခြုံစွာ ချိတ်ဆက်နိုင်ခြင်းရှိမရှိ ဖော်ပြရန် ၎င်းဝဘ်ဆိုက်သည် HTTP Strict Transport Security (HSTS) ကို အသုံးပြုထားသည်။ ရလဒ်အနေနှင့် ဒီအထောက်အထားအတွက် ခြွင်းချက်အဖြစ်ထည့်ရန် မဖြစ်နိုင်ပါ။">
 <!ENTITY certerror.copyToClipboard.label "စာကို ကလစ်ဘုတ်သို့ ကူးပါ">
 
 <!ENTITY inadequateSecurityError.title "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>သည် အိုဟောင်းပြီး တိုက်ခိုက်ရန်လွယ်ကူသည့် လုံခြုံရေးနည်းပညာကို အသုံးပြုထားသည်။ တိုက်ခိုက်သူသည် သင်လုံခြုံသည်ဟုထင်သည့် အချက်အလက်များကို လွယ်ကူစွာ ဖော်ထုတ်နိုင်ပါလိမ့်မည်။ သင်လာရောက်မလည်ပတ်မီ ဝဘ်ဆိုဒ်စီမံခန့်ခွဲသူသည် ဆာဗာကို အရင်ဆုံး ပြုပြင်ဖြေရှင်းရန် လိုအပ်သည်။</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY prefReset.longDesc "သင့်ကွန်ယက်လုံခြုံရေးအပြင်အဆင်များတွင် ဒီပြဿနာဖြစ်နေသည် ထင်မြင်ရပါသည်။ သင်သည် မူလအပြင်အဆင်များအတိုင်း ပြန်လည်သတ်မှတ်လိုပါသလား။">
 <!ENTITY prefReset.label "မူလသတ်မှတ်ထားသည့်အတိုင်း ပြန်ထားပါ">

@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "ဖိုင် မတွေ့ရပါ">
 <!ENTITY fileNotFound.longDesc "<ul><li>သင်ရှည်သည့်ပစ္စည်းအားအမည်ပြောင်းလိုက်ခြင်းသော်လည်ကောင်းရွေးလိုက်ခြင်းသော်လည်းကောင်းလုပ်လိုက်သေးလား။</li><li>လိပ်စာရေးရာတွင်စာလုံးပေါင်းအကြီးအသေးသို့မဟုတ်တိုက်ပိုအမှားများရှိနေလား</li><li>သို့မဟုတ်သင့်မှာ လုံလောက်သောခွင့်ပြုချက်ရရှိထားပါသလား</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "ဖိုင်အသုံးပြုခြင်းကို တားမြစ်ထားသည်">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>၎င်းကို ဖျက်ထားခြင်း၊ ရွှေ့ထားခြင်း သို့မဟုတ် ဖိုင်အသုံးပြုမှုဆိုင်ရာမူဝါဒများက အသုံးမပြုနိုင်စေရန် တားမြစ်နေခြင်း ဖြစ်နိုင်ပါသည်။</li> </ul>">
 
 <!ENTITY generic.title "တောင်းဆိုချက်ကို မဖြည့်စွမ်းနိုင်ပါ">
 <!ENTITY generic.longDesc "<p>ဤမှားယွင်းမှူအတွက်နောက်ထပ်ဆက်လက်လေ့လာရန်အချက်အလက်များမရှိသေးပါ။</p>">
@@ -69,7 +70,8 @@
 <!ENTITY nssBadCert.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>This could be a problem with the server's configuration, or it could be someone trying to impersonate the server.</li> <li>If you have connected to this server successfully in the past, the error may be temporary, and you can try again later.</li> </ul>">
 
-
+<!ENTITY securityOverride.linkText "သို့မဟုတ် ခြွင်းချက်တစ်ခုအနေနှင့် ထားနိုင်ပါသည်…">
+<!ENTITY securityOverride.warningContent "<p>သင်အသုံးပြုနေသော အင်တာနက်ချိတ်ဆက်မှုကို လုံးဝယုံကြည်စိတ်ချမှု မရှိပါက သို့မဟုတ် ဒီဆာဗာမှ သတိပေးချက်ပေးချက်ကို မြင်တွေ့ရလေ့မရှိပါက သင်သည် ခြွင်းချက်အနေဖြင့် မထားသင့်ပါ။</p> <p>ဒီဆိုက်ကို ခြွင်းချက်ထားချင်သေးပါက သင်၏ အဆင့်မြင့်စာဝှက်ခြင်းအပြင်အဆင်များထဲတွင် ဆောင်ရွက်နိုင်ပါသည်။</p>">
 
 <!ENTITY cspBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
 <!ENTITY cspBlocked.longDesc "<p>လုံခြုံရေးမူဝါဒအရဤစာမျက်နှာအား ယခုကဲ့သို့သောနည်းလမ်းဖြင့်ဖွင့်လှစ်ခြင်းအားတားမြစ်ထားသည်</p>">
@@ -80,5 +82,7 @@
 <!ENTITY remoteXUL.title "အားဖယ်ပါ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်အားဤပြသာနားအားတင်ပြရန်ဆက်သွယ်ပါ</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>သည် အိုဟောင်းပြီး တိုက်ခိုက်ရန်လွယ်ကူသည့် လုံခြုံရေးနည်းပညာကို အသုံးပြုထားသည်။ တိုက်ခိုက်သူသည် သင်လုံခြုံသည်ဟုထင်သည့် အချက်အလက်များကို လွယ်ကူစွာ ဖော်ထုတ်နိုင်ပါလိမ့်မည်။ သင်လာရောက်မလည်ပတ်မီ ဝဘ်ဆိုဒ်စီမံခန့်ခွဲသူသည် ဆာဗာကို အရင်ဆုံး ပြုပြင်ဖြေရှင်းရန် လိုအပ်သည်။</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
