@@ -207,6 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "ניהול השיתוף של החלונות או המסך שלך עם האתר">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "החלון או המסך שלך משותפים כעת עם האתר">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "שינוי המצב האם לאפשר לאתר להסתיר את הסמן">
 <!ENTITY urlbar.servicesNotificationAnchor.label        "הצגת הודעת התקנת שירות">
 <!ENTITY urlbar.translateNotificationAnchor.label       "תרגום דף זה">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "ניהול תרגומי דפים">
@@ -672,6 +673,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "העמוד הזה מאוחסן במחשב שלך.">
 <!ENTITY identity.connectionVerified2 "התחברת לאתר זה באופן מאובטח, בבעלות:">
 <!ENTITY identity.connectionInternal "דף זה הנו דף מאובטח של &brandShortName;.">
+<!ENTITY identity.insecureLoginForms2 "פרטי גישה שמוזנים שעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; חסם חלקים שאינם בטוחים בדף זה.">
@@ -713,6 +715,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "לשוניות מסונכרנות">
 
 <!ENTITY syncedTabs.sidebar.label              "לשוניות מסונכרנות">
+<!ENTITY syncedTabs.sidebar.noclients.label    "יש להיכנס ל־Firefox מההתקנים האחרים שלך כדי לצפות בלשוניות שלהם כאן.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "אין לשוניות מסונכרנות… בינתיים!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "להציע כאן את הלשוניות שלך מהתקנים אחרים?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "יש להיכנס כדי לצפות ברשימת הלשוניות שלך מהתקנים אחרים.">
