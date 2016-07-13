@@ -761,7 +761,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY socialToolbar.title        "Սոցիալական Գործիքաշերտի կոճակը">
 
-<!ENTITY social.ok.label       "ԼԱՎ">
+<!ENTITY social.ok.label       "Լավ">
 <!ENTITY social.ok.accesskey   "Լ">
 
 <!ENTITY social.toggleSidebar.label "Ցուցադրել կողային վահանակը">
@@ -830,7 +830,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.label "Անջ. պաշտպանությունը ա/շրջանի համար">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "Ա">
 <!ENTITY trackingProtection.block2.label "Միացնել պաշտպանությունը">
-<!ENTITY trackingProtection.block2.accesskey "E">
+<!ENTITY trackingProtection.block2.accesskey "Մ">
 
 <!ENTITY trackingContentBlocked.message "Հետագծում">
 <!ENTITY trackingContentBlocked.moreinfo "Էջի հատվածները, որոնք հետևում են ձեր առցանց ակտիվությանը, արգելափակված են:">

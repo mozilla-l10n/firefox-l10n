@@ -56,7 +56,7 @@
   -  in the call tree headers for a recording. -->
 
 <!ENTITY performanceUI.table.selfDuration             "Ինքնակառավարման ժամ">
-
+<!ENTITY performanceUI.table.selfDuration.tooltip     "Ժամանակը ծախսվել է միայն այս գործառույթի ընթացքում։">
 
 
 
