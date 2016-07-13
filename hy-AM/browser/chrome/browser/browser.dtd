@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Վերջերս էջանշված">
 <!ENTITY otherBookmarksCmd.label "Այլ Էջանիշեր">
 <!ENTITY bookmarksToolbarChevron.tooltip "Ցուցադրել ավելի շատ էջանիշեր">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Ցուցադրել վերջերս էջանշվածը">
+<!ENTITY showRecentlyBookmarked.accesskey "ո">
+<!ENTITY hideRecentlyBookmarked.label     "Թաքցնել վերջերս էջանշվածը">
+<!ENTITY hideRecentlyBookmarked.accesskey "Թ">
 
 <!ENTITY backCmd.label                "Նախորդը">
 <!ENTITY backButton.tooltip           "Գնալ Նախորդ Էջ">
@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Դիտել էջանիշերի վահանակը">
 <!ENTITY viewBookmarksToolbar.label         "Դիտել էջանիշերի վահանակը">
 
+<!ENTITY containersMenu.label "Պարունակներ">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -555,22 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "Ա">
 <!ENTITY mediaUnmute.label           "Ձայնով">
 <!ENTITY mediaUnmute.accesskey       "ա">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "Նվագարկելու արագություն">
+<!ENTITY mediaPlaybackRate2.accesskey "ն">
+<!ENTITY mediaPlaybackRate050x2.label "Դանդաղ (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "Դ">
+<!ENTITY mediaPlaybackRate100x2.label "Նորմալ">
+<!ENTITY mediaPlaybackRate100x2.accesskey "Ն">
+<!ENTITY mediaPlaybackRate125x2.label "Արագ (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "Ա">
+<!ENTITY mediaPlaybackRate150x2.label "Ավելի արագ (1,5x)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "ա">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Անհավանական (2x)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "Ա">
+<!ENTITY mediaLoop.label             "Օղակում">
+<!ENTITY mediaLoop.accesskey         "Օ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -679,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Անվտանգ կապակցում">
 <!ENTITY identity.connectionNotSecure "Կապակցումը անվտանգ չէ">
 <!ENTITY identity.connectionFile "Այս էջը գտնվում է համակարգչում:">
-
+<!ENTITY identity.connectionVerified2 "Դուք անվտանգ կապակցված եք այս կայքին, որը աշխատեցնում է՝">
 <!ENTITY identity.connectionInternal "Սա անվտանգ &brandShortName; էջ է:">
 <!ENTITY identity.insecureLoginForms2 "Այս էջից մուտքագրումները վտանգված են:">
 <!-- Strings for connection state warnings. -->

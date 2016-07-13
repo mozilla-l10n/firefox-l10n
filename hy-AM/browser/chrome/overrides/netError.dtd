@@ -110,8 +110,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.pagetitle1  "Ոչ անվտանգ կապակցում">
+<!ENTITY certerror.wrongSystemTime "<p>Անվտանգ կապակցումը <span id='wrongSystemTime_URL'/>-ին հնարավոր չէ, քանի որ կարծես թե ժամանակը սխալ է:</p> <p>Ձեր համակարգիչը կարծում է, թե ժամը <span id='wrongSystemTime_systemDate'/> է, այնինչ այն պետք է լինի՝ <span id='wrongSystemTime_actualDate'/>: Այս խնդիրը ուղղելու համար փոխեք ամսաթիվը և ժամանակը:</p>">
 
+<!ENTITY certerror.pagetitle1  "Ոչ անվտանգ կապակցում">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Այս կայքը օգտագործում է HTTP Strict Transport Security (HSTS)՝ հատկորոշելու այն, որ &brandShortName;-ը կապակցվում է միայն անվտանգ: Որպես արդյունք՝ հնարավոր չէ ավելացնել բացառություն այս վկայագրի համար:">
 <!ENTITY certerror.copyToClipboard.label "Պատճենել մեկուսաշրջույթում">
 
 <!ENTITY inadequateSecurityError.title "Կապակցումն անվտանգ չէ">
@@ -119,4 +121,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> օգտագործում է անվտանգ տեխնոլոգիա, որը հնացած է և խոցելի հարձակումների համար: Հարձակվողը կարող է հեշտությամբ հայտնաբերել տեղեկություններ, որոնք ձեր կարծիքով ապահով են: Կայքի վարիչը պետք է նախ ուղղի սպասարկիչը, որպեսզի կարողանաք այցելել կայքը:</p><p>Սխալի կոդը՝ NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "Կարծես՝ ձեր ցանցի անվտանգության կարգավորումները առաջացնել սա: Վերականգնե՞լ հիմնական կարգավորումները:">
+<!ENTITY prefReset.label "Վերականգնել հիմնական կարգավորումները">

@@ -50,9 +50,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Միացված բաղադրիչներ ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Հավաքման ձևաչափ">
 <!ENTITY aboutSupport.appBasicsUserAgent "Օգտետերի Դիտարկիչը">
-
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Հիշողության ծավալ">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Արտադրողականություն">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Գրանցված Service Workers">
@@ -86,8 +86,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Գրաֆիկա">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Շտեմարաններ">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Ստուգել ամբողջությունը">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Գործադիր GC">
@@ -109,10 +109,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Օգտ. Ապահով կերպը">
 <!ENTITY aboutSupport.restartInSafeMode.label "Վերամեկնարկել՝ անջատելով հավելումները...">
 
-
-
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Յուրահատկություններ">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Ախտորոշում">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Ձախողման մատյան">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Որոշման մատյան">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Վթարի պաշտպանի անջատած յուրահատկություններ">
 

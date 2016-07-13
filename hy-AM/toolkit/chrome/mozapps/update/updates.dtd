@@ -55,7 +55,7 @@
 <!ENTITY  finishedBackground.name         "Թարմացնել.">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Թարմացումը կտեղադրվի &brandShortName;-ը հաջորդ անգամ բացելիս: Դուք կարող եք վերամեկնարկել &brandShortName;-ը հիմա կամ շարունակել աշխատանքը և վերամեկնարկել ավելի ուշ:">
-
+<!ENTITY  finishedBackground.moreElevated "Այս թարմացումը պահանջում է վարիչի արտոնություն: Թարմացումը կտեղադրվի հաջորդ անգամ &brandShortName;-ը բացելիս: Կարող եք հիմա վերամեկնարկել &brandShortName;-ը կամ շարունակել աշխատանքը և վերամեկնարկել հետո, կամ էլ մերժել այս թարմացումը:">
 
 <!ENTITY  update.details.label            "Մանրամասներ">
 <!ENTITY  update.installedOn.label        "Տեղադրված է.">
