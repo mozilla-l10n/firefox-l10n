@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "আরও জানুন…">
 
 <!ENTITY telemetryDesc.label             "&brandShortName;-কে আরও ভাল করে তুলতে আমাদের সাহায্য করার জন্য আপনার ব্রাউজারের কর্মক্ষমতা, ব্যবহার, হার্ডওয়্যার এবং স্বনির্ধারণ সম্পর্কিত তথ্য &vendorShortName;-কে জানায়">
-<!ENTITY enableTelemetryData.label       "সহযোগী ডেটা শেয়ার করুন (i.e &amp; telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "আরও জানুন…">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; ক্র্যাশ প্রতিবেদন জমা দিয়ে &vendorShortName; কে সাহায্য করে, এতে আপনার ব্রাউজারে আরো স্থিতিশীল ও নিরাপদ হয়">
