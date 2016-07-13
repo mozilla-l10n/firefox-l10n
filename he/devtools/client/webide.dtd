@@ -142,6 +142,7 @@
 <!ENTITY runtimedetails_privilegesWarning "(תבוצע הפעלה מחדש להתקן. נדרשת גישת root)">
 
 <!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "בוליאני">
 <!ENTITY device_typenumber "מספר שלם">
 <!ENTITY device_typestring "מחרוזת">
 <!ENTITY device_typeobject "עצם">

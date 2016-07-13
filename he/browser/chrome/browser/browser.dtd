@@ -198,6 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "ניהול נתוני ההתחברויות שלך">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "שמירת ססמה">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "ניהול השימוש בתוספים חיצוניים בדף זה">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "החלפת מצב קבלת התרעות מהאתר">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "ניהול השיתוף של המצלמה ו/או המיקרופון שלך עם האתר">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "המצלמה ו/או המיקרופון שלך משותפים כעת עם האתר">
@@ -209,6 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.servicesNotificationAnchor.label        "הצגת הודעת התקנת שירות">
 <!ENTITY urlbar.translateNotificationAnchor.label       "תרגום דף זה">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "ניהול תרגומי דפים">
+<!ENTITY urlbar.emeNotificationAnchor.label             "ניהול השימוש בתכניות DRM">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "הצגת היסטוריה">
 
@@ -712,11 +714,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "לשוניות מסונכרנות">
 <!ENTITY syncedTabs.sidebar.noclients.title    "אין לשוניות מסונכרנות… בינתיים!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "להציע כאן את הלשוניות שלך מהתקנים אחרים?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "יש להיכנס כדי לצפות ברשימת הלשוניות שלך מהתקנים אחרים.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "אין לשוניות פתוחות">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "פתיחת ההעדפות של &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "יש להפעיל סנכרון כדי לצפות ברשימת הלשוניות שלך מהתקנים אחרים.">
 
 <!ENTITY syncedTabs.context.open.label                       "פתיחה">
 <!ENTITY syncedTabs.context.open.accesskey                   "פ">
