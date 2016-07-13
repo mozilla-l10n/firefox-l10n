@@ -25,10 +25,10 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "కొన్ని పొడగింతలను తనిఖీ చేయలేకపోయాం">
 <!ENTITY showAllExtensions.button.label       "అన్ని పొడగింతలను చూపించు">
-
+<!ENTITY debugAddons.label                    "ఆడ్-ఆన్స్ డిబగ్ చేయుము">
+<!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
-
 <!ENTITY warning.safemode.label                    "అన్ని పొడిగింతలు సేఫ్ మోడ్ చేత అచేతనపరచ పడినవి.">
 <!ENTITY warning.checkcompatibility.label          "పొడిగింత సారూప్యతా పరిశీలన అచేతనమైంది. మీరు సారూప్యతలేని పొడిగింతలు కలిగివుండ వచ్చును.">
 <!ENTITY warning.checkcompatibility.enable.label   "చేతనపరచు">
@@ -36,18 +36,18 @@
 <!ENTITY warning.updatesecurity.label              "పొడిగింత నవీకరణ రక్షణ పరిశీలన అచేతనమైంది. మీ జోక్యంలేకుండా నవీకరణలు జరుగవచ్చు.">
 <!ENTITY warning.updatesecurity.enable.label       "చేతనపరచు">
 <!ENTITY warning.updatesecurity.enable.tooltip     "పొడిగింత నవీకరణ రక్షణ పరిశీలనను చేతనముచేయి">
-<!-- global informations -->
 
+<!-- global informations -->
 <!ENTITY info.plugincheck.label                 "మీ చొప్పింతలు తాజాగా వున్నాయో లేదో చూడుము">
 <!ENTITY info.plugincheck.tooltip               "మీ చొప్పింతలు తాజాగా వున్నాయో లేదో చూడుము">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "వెతకడం">
 <!ENTITY view.discover.label                  "పొడిగింతలు పొందుము">
 <!ENTITY view.recentUpdates.label             "ఇటీవలి నవీకరణలు">
 <!ENTITY view.availableUpdates.label          "అందుబాటులోని నవీకరణలు">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "నవీకరణల కొరకు పరిశీలించుము">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "ఇటీవలి నవీకరణలను దర్శించుము">
@@ -75,8 +75,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "అందుబాటులోని నవీకరణలను దర్శించుము">
 <!ENTITY updates.updateSelected.label         "నవీకరణలను సంస్థాపించుము">
 <!ENTITY updates.updateSelected.tooltip       "అందుబాటులోని నవీకరణలను యీ జాబితానందు సంస్థాపించుము">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "మరింత సమాచారమును చూపుము">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "నవీకరణలను కనుగొనుము">
@@ -119,15 +119,15 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "ఈ నవీకరణ కొరకు విడుదల నోట్స్ చూపుము">
 <!ENTITY cmd.hideReleaseNotes.label           "విడుదల నోట్స్ మరుగుపరచు">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "ఈ నవీకరణ కొరకు విడుదల నోట్స్ మరుగుపరచు">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "పొడిగింతలు అంటే యేవి?">
 <!ENTITY discover.description2                "పొడిగింతలు అనునవి వాటి యొక్క ప్రమేయత్వముతో లేదా శైలితో మీరు &brandShortName; ను మీకు నప్పినవిధంగా మాలచుకొనుటకు దోహదపడు అనువర్తనములు. మీ స్వంత &brandShortName; తయారు చేసుకొనుటకు, సమయాన్ని-ఆదాచేసే పక్కపట్టీను ప్రయత్నించండి, వాతావరణం తెలుపుదానిని యత్నించండి, లేదా ఐచ్ఛికశైలి(థీమ్) వుపయోగించి చూడండి.">
 <!ENTITY discover.footer                      "మీరు అంతర్జాలమునకు అనుసంధానమైనప్పుడు, యీ పేన్ మీకు కొన్ని మంచి మరియు పేరొందిన పొడిగింతలను మీరు ప్రయత్నించి చూడుటకు అందించును.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "వర్షన్">
 <!ENTITY detail.lastupdated.label             "చివరిగా నవీకరించింది">
 <!ENTITY detail.creator.label                 "అభివృద్దికారి">
@@ -156,17 +156,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "అభీష్టాలు">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "ఈ పొడిగింత యొక్క అభీష్టాలను మార్చుము">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "శ్రేష్టత">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "నిలుపు">
 <!ENTITY progress.cancel.tooltip              "రద్దుచేయి">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "పేరు">
 <!ENTITY sort.name.tooltip                    "పేరు ప్రకారం క్రమపరచు">
 <!ENTITY sort.dateUpdated.label               "చివరిగా నవీకరించింది">
@@ -219,12 +219,12 @@
 <!ENTITY eula.accept                          "ఆమోదించు మరియు సంస్థాపించు…">
 
 <!ENTITY settings.path.button.label           "విహరించు…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "ఇది ఏమిటి? టెలీమెట్రీ అప్పుడప్పుడూ ప్రయోగాలను స్థాపించి నడుపుతూండవచ్చు.">
 <!ENTITY experiment.info.learnmore "ఇంకా తెలుసుకోండి">
 <!ENTITY experiment.info.learnmore.accesskey "L">
