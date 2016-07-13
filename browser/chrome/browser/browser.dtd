@@ -108,7 +108,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "登录以&syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "打开 &syncBrand.shortName.label; 首选项">
-<!ENTITY fxaSignInError.label "重新连接 &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "重新连接&syncBrand.shortName.label;服务">
 <!ENTITY fxaUnverified.label "验证您的账号">
 
 
@@ -754,7 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "立即同步">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label         "重新连接 &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.label         "重新连接&syncBrand.shortName.label;服务…">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "同步">
 
