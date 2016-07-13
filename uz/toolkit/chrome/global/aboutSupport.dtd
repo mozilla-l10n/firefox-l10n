@@ -28,7 +28,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "Faol">
 <!ENTITY aboutSupport.experimentEndDate "Tugash sanasi">
 <!ENTITY aboutSupport.experimentHomepage "Uy sahifasi">
-
+<!ENTITY aboutSupport.experimentBranch "Shoxobcha">
 
 <!ENTITY aboutSupport.appBasicsTitle "Ilova dastur asoslari">
 <!ENTITY aboutSupport.appBasicsName "Nomi">
@@ -50,14 +50,18 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Yoqilgan plaginlar">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Tuzish konfiguratsiyasi">
 <!ENTITY aboutSupport.appBasicsUserAgent "Foydalanuvchi agent">
-
+<!ENTITY aboutSupport.appBasicsOS "OT">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Foydalanilgan xotira">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Samaradorlik">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Ro‘yxatdan o‘tgan Service Workers">
+
+<!ENTITY aboutSupport.appBasicsProfiles "Profillar">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multijarayon oynalari">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Xavfsiz rejim">
 
 <!ENTITY aboutSupport.showDir.label "Direktoriyani ochish">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -82,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "Ma’lumotlar bazasi joylashgan o‘rinlari">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Butunlik">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Butunligini tekshirish">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Qo‘shimcha GC">
@@ -105,10 +110,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Xavfsizlik usulida urinib ko‘ring">
 <!ENTITY aboutSupport.restartInSafeMode.label "Qo‘sh. dasturlarni o‘chirib ishga tushirish">
 
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Imkoniyatlar">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostika">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Xato ma’lumoti">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Qaror ma’lumoti">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Nosozlik soqchisini o‘chirish xususiyatlari">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Aylanma yo‘llar">

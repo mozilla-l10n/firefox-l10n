@@ -55,7 +55,7 @@
 <!ENTITY  finishedBackground.name         "Yangilash:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Yangilanish &brandShortName; keyingi safar ishga tushirilganda oʻrnatiladi. Siz&brandShortName;ni hozir yoki keyinroq qayta ishga tushirishingiz mumkin.">
-
+<!ENTITY  finishedBackground.moreElevated "Bu yangilashni amalga oshirish uchun administrator huquqi kerak. Yangilanish &brandShortName; keyingi safar ishga tushganda o‘rnatiladi. &brandShortName; bilan ishlashni davom ettirishingiz, qayta ishga tushirishingiz yoki yangilanishni rad etishingiz mumkin.">
 
 <!ENTITY  update.details.label            "Tafsilotlar">
 <!ENTITY  update.installedOn.label        "Oʻrnatilgan:">
