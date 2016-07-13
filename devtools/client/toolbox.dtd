@@ -180,7 +180,7 @@
 
 
 <!ENTITY options.sourceeditor.tabsize.label             "Ներդիրի չափը">
-<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "Ն">
 
 
 <!ENTITY options.sourceeditor.keybinding.default.label  "Լռելյայն">
