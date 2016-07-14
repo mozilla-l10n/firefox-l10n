@@ -167,6 +167,8 @@
 <!ENTITY pref_tracking_protection_disabled "Disattivata">
 <!ENTITY pref_whats_new_notification "Novità di &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Visualizza informazioni sulle nuove caratteristiche dopo un aggiornamento">
+<!ENTITY pref_custom_tabs "Schede personalizzate">
+<!ENTITY pref_custom_tabs_summary "Consenti alle app di terze parti di aprire URL con un aspetto personalizzato.">
 <!ENTITY tracking_protection_prompt_title "Ora con protezione antitracciamento">
 <!ENTITY tracking_protection_prompt_text "Blocca in modo attivo gli elementi traccianti, rimuovendo ogni preoccupazione per l’utente.">
 <!ENTITY tracking_protection_prompt_tip_text "Per ulteriori informazioni visita la sezione Privacy delle impostazioni">
