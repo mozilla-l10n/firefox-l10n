@@ -53,8 +53,6 @@
 
 
 
-<!ENTITY updateAutoAddonWarn.label       "Waarsku my as dit enige van my byvoegings sal deaktiveer">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
 <!ENTITY updateHistory.label             "Wys bywerkgeskiedenis">
 <!ENTITY updateHistory.accesskey         "W">
 

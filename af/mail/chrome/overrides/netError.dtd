@@ -86,3 +86,6 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
 
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
