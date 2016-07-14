@@ -25,8 +25,10 @@
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
 
+<!ENTITY firstrun_tabqueue_message_on "सफल!">
 
 
+<!ENTITY firstrun_readerview_title "लेखहरू">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
@@ -80,9 +82,11 @@
 <!ENTITY bookmark_folder_items "&formatD; वस्तुहरू">
 <!ENTITY bookmark_folder_one_item "1 वस्तु">
 
+<!ENTITY reader_saved_offline "अफलाइन सुरक्षित गरियो">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "परिर्वतन">
 
 <!ENTITY history_today_section "आज">
 <!ENTITY history_yesterday_section "हिजो">
@@ -116,11 +120,12 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "– &formatS; ध्वनी बजाउँदै">
 
 <!ENTITY settings "सेटिङहरू">
 <!ENTITY settings_title "सेटिङहरू">
 <!ENTITY pref_category_general "सामान्य">
-
+<!ENTITY pref_category_general_summary3 "गृह, भाषा, ट्याब लाम">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -159,15 +164,15 @@
 <!ENTITY overlay_no_synced_devices "कुनै पनि Firefox Account जडान भएका उपकरणहरू फेला परेन">
 
 <!ENTITY pref_category_search3 "खोजी गर्नुहोस्">
-
+<!ENTITY pref_category_search_summary2 "थप्नुहोस्, पूर्वनिर्धारित राख्नुहोस्, सुझाब देखाउनुहोस्">
 <!ENTITY pref_category_accessibility "पहुँचता">
 <!ENTITY pref_category_accessibility_summary2 "पाठ आकार, जुम, आवाज इनपुट">
 <!ENTITY pref_category_privacy_short "गोपनीयता">
-
+<!ENTITY pref_category_privacy_summary4 "ट्रयाकिङ, कुकीहरू, डाटा विकल्प">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName; बारे, सोधिने प्रश्न, सुझाव">
 <!ENTITY pref_category_datareporting "डाटा विकल्पहरू">
-
+<!ENTITY pref_category_logins "लग-इनहरू">
 <!ENTITY pref_learn_more "अझै जान्नुहोस्">
 <!ENTITY pref_category_installed_search_engines "स्थापित खोज इन्जिनहरू">
 <!ENTITY pref_category_add_search_providers "अरू खोज प्रदायकहरू थप्नुहोस्">
