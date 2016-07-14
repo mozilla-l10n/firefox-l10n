@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "Ս">
 <!ENTITY updateManual.label              "Երբեք չստուգել թարմացումները (խորհուրդ չի տրվում)">
 <!ENTITY updateManual.accesskey          "Ե">
-<!ENTITY updateAutoAddonWarn.label       "Զգուշացնել, եթե որևէ հավելում պետք է անջատվի">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
 <!ENTITY updateHistory.label             "Ցուցադրել թարմացումների պատմությունը">
 <!ENTITY updateHistory.accesskey         "ա">
 
