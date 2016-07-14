@@ -77,8 +77,8 @@
 <!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orrialde hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
 
-<!ENTITY corruptedContentError.title "Hondatutako edukiaren errorea">
-<!ENTITY corruptedContentError.longDesc "<p>Ikusten saiatzen ari zaren edukia ezin da erakutsi errore bat detektatu delako datu-transmisioan.</p><ul><li>Jarri harremanetan arduradunekin arazo honen berri emateko.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Hondatutako edukiaren errorea">
+
 
 <!ENTITY securityOverride.linkText "Edo salbuespen bat gehi dezakezu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Eraman hemendik at!">
@@ -93,3 +93,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Urruneko XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Jar zaitez webgunearen jabeekin harremanetan arazo honen berri emateko.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
