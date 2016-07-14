@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Altul:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!ENTITY specialFolders.label "Mesaje nefinalizate și șabloane">
-<!ENTITY keepDrafts.label "Păstrează mesajele nefinalizate în:">
+
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Dosarul „Mesaje nefinalizate” din:">
 <!ENTITY draftsFolderOn.accesskey "D">
