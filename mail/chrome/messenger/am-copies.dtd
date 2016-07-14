@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Այլ.">
 <!ENTITY archiveInOtherFolder.accesskey "h">
 <!ENTITY specialFolders.label "Սևագրեր և Նմուշներ">
-<!ENTITY keepDrafts.label "Պահել նամակի սևագիրը՝">
+
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;Drafts&quot; թղթապանակում՝">
 <!ENTITY draftsFolderOn.accesskey "D">
