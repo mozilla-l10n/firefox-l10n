@@ -78,8 +78,8 @@
 <!ENTITY cspBlocked.title "Արգելափակվել է Բովանդակության Անվտանգության Քաղաքականության կողմից">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;­­-ը խոչընդոտեց այս էջի բացումը, քանի որ էջի պարունակության անվտանգության կանոնակարգն արգելում է դա:</p>">
 
-<!ENTITY corruptedContentError.title "Բովանդակությունը վնասված է">
-<!ENTITY corruptedContentError.longDesc "<p>Բովանդակությունը, որը Դուք փորձում եք դիտել չի կարող ցուցադրվել, որովհետև սխալ է գրանցվել տվյալի փոխանցման ժամանակ:</p><ul><li>Կապնվեք սեփականատիրոջ հետ` այս խնդրի մասին հաղորդելու համար:</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Բովանդակությունը վնասված է">
+
 
 <!ENTITY securityOverride.linkText "Կամ դուք կարող էք ավելացնել բացառություն…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Դո՛ւրս բերեք ինձ այստեղից">
@@ -94,3 +94,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Հեռակա XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք կապնվել վեբ կայքի սեփականատերերի հետ` այս խնդրի մասին տեղեկացնելու համար:</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
