@@ -14,6 +14,8 @@
 <!ENTITY limit.tls12.label                  "TLS 1.2">
 <!ENTITY limit.tls12.accesskey              "2">
 
+
+
 <!ENTITY warn.description2                  "Programa „&brandShortName;“ gali informuoti apie skaitomo tinklalapio saugumą. Rodyti įspėjimus:">
 <!ENTITY warn.enteringsecure                "įkeliant tinklalapį, turintį šifravimo priemones">
 <!ENTITY warn.enteringsecure.accesskey      "k">

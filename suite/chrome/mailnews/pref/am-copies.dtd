@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "kitą aplanką:">
 <!ENTITY archiveInOtherFolder.accesskey "l">
 <!ENTITY specialFolders.label "Juodraščiai ir šablonai">
-<!ENTITY keepDrafts.label "Laiškų juodraščius dėti į:">
+
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "juodraščių aplanką">
 <!ENTITY draftsFolderOn.accesskey "u">

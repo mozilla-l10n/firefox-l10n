@@ -27,7 +27,5 @@
 <!ENTITY appWeekly.accesskey                  "v">
 <!ENTITY appModeAutomatic.label               "Naujinimus atsiųsti ir įdiegti automatiškai">
 <!ENTITY appModeAutomatic.accesskey           "m">
-<!ENTITY appModeAutoAddonWarn.label           "Įspėti, jeigu naujinimas nesuderinamas su įdiegtais priedais">
-<!ENTITY appModeAutoAddonWarn.accesskey       "n">
 <!ENTITY updateHistoryButton.label            "Rodyti atnaujinimo žurnalą…">
 <!ENTITY updateHistoryButton.accesskey        "R">
