@@ -79,7 +79,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; en deus miret ar bajennad-mañ ouzh bezañ pellgarget gant an doare-mañ rak reolennoù a-fet diogelroez ez eus er bajennad o tisaotren d'hen ober.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Fazi a-fet endalc'had bet kontronet">
-
+<!ENTITY corruptedContentErrorv2.longDesc "<p>An endalc'had emaoc'h o klask gwelout n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.</p><ul><li>Mar plij, kit e darempred gant ar berc'henned a-benn kelaouiñ anezho eus ar gudenn-mañ.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Pe un nemedenn a vez ouzhpennet ganeoc'h ">
 <!ENTITY securityOverride.getMeOutOfHereButton "Lamit kuit ac'hanon deus amañ !">
@@ -95,5 +95,7 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "XUL a-bell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn evit kelaouiñ anezho diwar-benn ar gudenn-mañ.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "N'eo ket diarvar ho kennask">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> a arver ur c'halverezh diogelroez diamzeret ha bresk. Gallout a rafe un tager dizoloiñ titouroù a gredec'h diarvar. Ret vo da verour al lec'hienn ratreañ an dafariad a-raok ma c'hallfec'h gweladenniñ al lec'hienn.</p><p>Boneg fazi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
