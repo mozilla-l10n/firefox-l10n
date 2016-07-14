@@ -78,8 +78,8 @@
 <!ENTITY cspBlocked.title "Harzet gant ur reolenn diogelroez a-fet endalc'hadoù">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; en deus miret ar bajennad-mañ ouzh bezañ pellgarget gant an doare-mañ rak reolennoù a-fet diogelroez ez eus er bajennad o tisaotren d'hen ober.</p>">
 
-<!ENTITY corruptedContentError.title "Fazi a-fet endalc'had bet kontronet">
-<!ENTITY corruptedContentError.longDesc "<p>An endalc'had emaoc'h o klask gwelout n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.</p><ul><li>Mar plij, kit e darempred gant ar berc'henned a-benn kelaouiñ anezho eus ar gudenn-mañ.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Fazi a-fet endalc'had bet kontronet">
+
 
 <!ENTITY securityOverride.linkText "Pe un nemedenn a vez ouzhpennet ganeoc'h ">
 <!ENTITY securityOverride.getMeOutOfHereButton "Lamit kuit ac'hanon deus amañ !">
@@ -94,3 +94,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "XUL a-bell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn evit kelaouiñ anezho diwar-benn ar gudenn-mañ.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

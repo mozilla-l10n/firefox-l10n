@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "All :">
 <!ENTITY archiveInOtherFolder.accesskey "A">
 <!ENTITY specialFolders.label "Brouilhedoù ha Patromoù">
-<!ENTITY keepDrafts.label "Mirout brouilhedoù ar c'hemennadennoù e-barzh :">
+
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Teuliad ar &quot;Brouilhedoù&quot; e-barzh :">
 <!ENTITY draftsFolderOn.accesskey "B">

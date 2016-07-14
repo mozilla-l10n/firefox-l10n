@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "G">
 <!ENTITY updateManual.label              "Na wiriañ biken mard ez eus hizivadurioù (ket erbedet : arvarus evit ho tiogelroez)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Kas keloù din hag-eñ e vo diweredekaet unan eus ma askouezhioù">
-<!ENTITY updateAutoAddonWarn.accesskey   "-">
 <!ENTITY updateHistory.label             "Diskouez roll istor an hizivadurioù">
 <!ENTITY updateHistory.accesskey         "u">
 
