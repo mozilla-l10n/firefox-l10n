@@ -46,5 +46,4 @@
 <!ENTITY showCurrentView.label                  "Vizualizare actuală">
 <!ENTITY showCurrentView.accesskey              "V">
 
-<!ENTITY calendar.properties.label              "Proprietăți calendar…">
-<!ENTITY calendar.properties.accesskey          "c">
+
