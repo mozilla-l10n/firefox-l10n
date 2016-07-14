@@ -46,5 +46,4 @@
 <!ENTITY showCurrentView.label                  "Dabartinis vaizdas">
 <!ENTITY showCurrentView.accesskey              "D">
 
-<!ENTITY calendar.properties.label              "Kalendoriaus savybės…">
-<!ENTITY calendar.properties.accesskey          "K">
+
