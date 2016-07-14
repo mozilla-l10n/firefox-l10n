@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Eile:">
 <!ENTITY archiveInOtherFolder.accesskey "E">
 <!ENTITY specialFolders.label "Dreachdan, tasg-lannan is teamplaidean">
-<!ENTITY keepDrafts.label "Cum dreachdan de theachdaireachdan ann an:">
+
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Pasgan nan &quot;dreachdan&quot; anns:">
 <!ENTITY draftsFolderOn.accesskey "d">
