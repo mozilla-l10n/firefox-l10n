@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Outro:">
 <!ENTITY archiveInOtherFolder.accesskey "r">
 <!ENTITY specialFolders.label "Rascunhos e modelos">
-
+<!ENTITY keepDrafts2.label "Manter mensagens de rascunho em:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Pasta &quot;Rascunhos&quot; em:">
 <!ENTITY draftsFolderOn.accesskey "c">
