@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "T">
 <!ENTITY updateManual.label              "Netikrinti, ar yra naujinimų (nerekomenduojama – galimos saugumo problemos)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Įspėti, jei naujinimas nesuderinamas su įdiegtais priedais">
-<!ENTITY updateAutoAddonWarn.accesskey   "s">
 <!ENTITY updateHistory.label             "Rodyti atnaujinimo žurnalą">
 <!ENTITY updateHistory.accesskey         "R">
 
