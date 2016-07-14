@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Druhe:">
 <!ENTITY archiveInOtherFolder.accesskey "h">
 <!ENTITY specialFolders.label "Naćiski a předłohi">
-
+<!ENTITY keepDrafts2.label "Naćiskowe powěsće wobchować w:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Rjadowaku &quot;Naćiski&quot; na:">
 <!ENTITY draftsFolderOn.accesskey "N">
