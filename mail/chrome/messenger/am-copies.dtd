@@ -31,7 +31,7 @@
 <!ENTITY archiveInOtherFolder.label "Ander:">
 <!ENTITY archiveInOtherFolder.accesskey "A">
 <!ENTITY specialFolders.label "Onvoltooid en sjablone">
-<!ENTITY keepDrafts.label "Hou onvoltooide boodskappe in:">
+
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 
 <!ENTITY draftInOtherFolder.label "Ander:">
