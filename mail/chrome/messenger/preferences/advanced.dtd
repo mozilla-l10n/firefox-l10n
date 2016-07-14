@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "d">
 <!ENTITY updateManual.label              "Güncellemeleri asla denetleme (önerilmez: güvenlik riski)">
 <!ENTITY updateManual.accesskey          "a">
-<!ENTITY updateAutoAddonWarn.label       "Bu işlem herhangi bir eklentimi devredışı bırakacaksa beni uyar">
-<!ENTITY updateAutoAddonWarn.accesskey   "B">
 <!ENTITY updateHistory.label             "Güncelleme geçmişini göster">
 <!ENTITY updateHistory.accesskey         "n">
 
