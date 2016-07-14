@@ -114,6 +114,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "డయాగ్నస్టిక్స్">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "వైఫల్యమైన లాగ్">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "డెసిషన్ లాగ్">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "క్రాష్ గార్డ్ యొక్క నిలిపివేసిన ఫీచర్స్">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "పరిష్కారాలను">
