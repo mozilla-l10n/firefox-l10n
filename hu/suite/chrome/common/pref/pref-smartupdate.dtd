@@ -27,7 +27,5 @@
 <!ENTITY appWeekly.accesskey                  "h">
 <!ENTITY appModeAutomatic.label               "Frissítések automatikus letöltése és telepítése">
 <!ENTITY appModeAutomatic.accesskey           "l">
-<!ENTITY appModeAutoAddonWarn.label           "Figyelmeztetés, ha a kiegészítők elérhetetlenek lesznek emiatt">
-<!ENTITY appModeAutoAddonWarn.accesskey       "F">
 <!ENTITY updateHistoryButton.label            "Frissítési előzmények megjelenítése…">
 <!ENTITY updateHistoryButton.accesskey        "F">
