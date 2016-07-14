@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Lainnya:">
 <!ENTITY archiveInOtherFolder.accesskey "L">
 <!ENTITY specialFolders.label "Konsep dan Templat">
-<!ENTITY keepDrafts.label "Letakkan pesan konsep di:">
+
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Folder &quot;Konsep&quot; di:">
 <!ENTITY draftsFolderOn.accesskey "d">
