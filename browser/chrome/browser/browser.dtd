@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Otvoriť nastavenia služby &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Obnoviť pripojenie k službe &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Overte svoj účet">
-<!ENTITY syncStartPanel2.heading "Synchronizácia je zapnutá">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; sa práve začína synchronizovať">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizovať okno">
@@ -171,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Nedávno pridané medzi záložky">
 <!ENTITY otherBookmarksCmd.label "Ostatné záložky">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobraziť ďalšie záložky">
+<!ENTITY showRecentlyBookmarked.label     "Zobraziť nedávno pridané záložky">
+<!ENTITY showRecentlyBookmarked.accesskey "Z">
+<!ENTITY hideRecentlyBookmarked.label     "Skryť nedávno pridané záložky">
+<!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Naspäť">
 <!ENTITY backButton.tooltip           "Späť o jednu stránku">
@@ -228,6 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Zobraziť bočný panel Záložky">
 <!ENTITY viewBookmarksToolbar.label         "Zobraziť panel nástrojov Záložky">
 
+<!ENTITY containersMenu.label "Kontajnery">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +265,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "S">
 <!ENTITY newUserContext.label             "Nová kontajnerová karta">
 <!ENTITY newUserContext.accesskey         "k">
-<!ENTITY userContextPersonal.label        "Osobné">
-<!ENTITY userContextPersonal.accesskey    "O">
-<!ENTITY userContextWork.label            "Pracovné">
-<!ENTITY userContextWork.accesskey        "P">
-<!ENTITY userContextBanking.label         "Bankovníctvo">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Nakupovanie">
-<!ENTITY userContextShopping.accesskey    "N">
 <!ENTITY newNavigatorCmd.label        "Nové okno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "o">
@@ -560,19 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "m">
 <!ENTITY mediaUnmute.label           "Zrušiť stlmenie">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate.label     "Rýchlosť prehrávania">
-<!ENTITY mediaPlaybackRate.accesskey "R">
-<!ENTITY mediaPlaybackRate050x.label "Spomalene (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "S">
-<!ENTITY mediaPlaybackRate100x.label "Normálna rýchlosť">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Zrýchlene (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "Z">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!ENTITY mediaPlaybackRate2.label     "Rýchlosť prehrávania">
+<!ENTITY mediaPlaybackRate2.accesskey "c">
+<!ENTITY mediaPlaybackRate050x2.label "Pomalá (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "o">
+<!ENTITY mediaPlaybackRate100x2.label "Normálna">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Rýchla (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "a">
+<!ENTITY mediaPlaybackRate150x2.label "Rýchlejšia (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "h">
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Vysoká rýchlosť (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "V">
+<!ENTITY mediaPlaybackRate200x2.label "Absurdná (2 ×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "b">
+<!ENTITY mediaLoop.label             "Slučka">
+<!ENTITY mediaLoop.accesskey         "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -680,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Zabezpečené pripojenie">
 <!ENTITY identity.connectionNotSecure "Pripojenie nie je zabezpečené">
 <!ENTITY identity.connectionFile "Táto stránka je uložená vo vašom počítači.">
-<!ENTITY identity.connectionVerified1 "Pripojenie k tejto stránke je zabezpečené. Spravuje ju:">
+<!ENTITY identity.connectionVerified2 "Pripojenie k tejto stránke je zabezpečené. Spravuje ju:">
 <!ENTITY identity.connectionInternal "Toto je bezpečná stránka prehliadača &brandShortName;">
 <!ENTITY identity.insecureLoginForms2 "Prihlasovacie údaje zadané na tejto stránke by mohli byť ohrozené.">
 
