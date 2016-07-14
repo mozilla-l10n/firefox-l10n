@@ -90,6 +90,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Databáza umiestnení">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "Integrita">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Skontrolovať integritu">
 
@@ -118,3 +119,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Záznam chýb">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Decision Log">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Zakázať funkcie Crash Guard">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Možné riešenia">
