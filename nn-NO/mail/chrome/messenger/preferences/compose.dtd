@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Bruk standard">
 <!ENTITY restoreHTMLDefaults.accesskey        "d">
-<!ENTITY enterKeyCreatesNewParagraph.label    "Ved bruk av avsnitt-formatet, lagar Enter-tasten eit nytt avsnitt">
-<!ENTITY enterKeyCreatesNewParagraph.accesskey "V">
+
+
 
 <!ENTITY spellCheck.label                     "Stavekontroll før meldingar vert sende">
 <!ENTITY spellCheck.accesskey                 "S">
