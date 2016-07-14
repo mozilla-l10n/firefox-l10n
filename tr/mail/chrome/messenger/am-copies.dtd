@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Diğer:">
 <!ENTITY archiveInOtherFolder.accesskey "D">
 <!ENTITY specialFolders.label "Taslaklar ve şablonlar">
-<!ENTITY keepDrafts.label "İleti taslaklarının tutulacağı yer:">
+
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;Taslak&quot; dizini:">
 <!ENTITY draftsFolderOn.accesskey "T">

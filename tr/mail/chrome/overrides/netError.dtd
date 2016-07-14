@@ -77,8 +77,8 @@
 <!ENTITY cspBlocked.title "İçerik güvenliği ilkesi uyarınca engellendi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
 
-<!ENTITY corruptedContentError.title "Hasarlı İçerik Hatası">
-<!ENTITY corruptedContentError.longDesc "<p>Veri aktarımında bir hata tespit edildiği için bakmak istediğiniz içerik gösterilemiyor.</p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Hasarlı İçerik Hatası">
+
 
 <!ENTITY securityOverride.linkText "İsterseniz ayrıcalık tanıyın…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Beni buradan uzak tut!">
@@ -93,3 +93,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Uzak XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
