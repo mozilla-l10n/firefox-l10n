@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Drugo:">
 <!ENTITY archiveInOtherFolder.accesskey "D">
 <!ENTITY specialFolders.label "Skice i predlošci">
-<!ENTITY keepDrafts.label "Drži skice poruka u:">
+
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Mapi &quot;Skice&quot; u:">
 <!ENTITY draftsFolderOn.accesskey "k">
