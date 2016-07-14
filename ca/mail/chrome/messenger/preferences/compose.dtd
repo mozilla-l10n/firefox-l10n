@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "f">
 <!ENTITY restoreHTMLDefaults.label            "Restaura els valors per defecte">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
-<!ENTITY enterKeyCreatesNewParagraph.label    "Quan s'utilitza el format de paràgraf, la tecla de retorn crea un paràgraf nou">
-<!ENTITY enterKeyCreatesNewParagraph.accesskey "p">
+
+
 
 <!ENTITY spellCheck.label                     "Comprova l'ortografia abans d'enviar">
 <!ENTITY spellCheck.accesskey                 "C">
