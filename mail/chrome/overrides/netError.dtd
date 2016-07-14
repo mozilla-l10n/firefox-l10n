@@ -77,8 +77,8 @@
 <!ENTITY cspBlocked.title "Құрамасының қауіпсіздік саясатымен блокталған">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; бұл парақтың осы жолмен жүктелуге жол бермеген, өйткені онда осыны рұқсат етпейтін қауіпсіздік саясаты бар.</p>">
 
-<!ENTITY corruptedContentError.title "Зақымдалған құрама қатесі">
-<!ENTITY corruptedContentError.longDesc "<p>Сіз қараймын деген құрама көрсетілмейді, өйткені деректер тасымалданған кезде қате анықталды.</p><ul><li>Веб сайт иелеріне осы мәселе жөнінде хабарлаңыз.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Зақымдалған құрама қатесі">
+
 
 <!ENTITY securityOverride.linkText "Немесе ерекше ереже енгізуіңіз мүмкін…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Осыдан кеткім келеді!">
@@ -93,3 +93,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Қашықтағы XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Бұл мәселе жөнінде веб сайт иесімен хабарласыңыз.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
