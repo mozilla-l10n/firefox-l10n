@@ -61,6 +61,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  دیرنویس‌ها">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "  اطلاعات نشست">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  نمودار هیستوگرام جمع‌آوری شده توسط افزونه‌ها">
 
