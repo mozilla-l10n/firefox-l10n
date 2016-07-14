@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "غير ذلك:">
 <!ENTITY archiveInOtherFolder.accesskey "ذ">
 <!ENTITY specialFolders.label "المسودات والقوالب">
-<!ENTITY keepDrafts.label "اترك مسودات الرّسائل في:">
+
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "مجلد ”المسودات“ في:">
 <!ENTITY draftsFolderOn.accesskey "س">
