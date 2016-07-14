@@ -46,5 +46,4 @@
 <!ENTITY showCurrentView.label                  "Aktiv visning">
 <!ENTITY showCurrentView.accesskey              "v">
 
-<!ENTITY calendar.properties.label              "Kalenderegenskaper …">
-<!ENTITY calendar.properties.accesskey          "K">
+
