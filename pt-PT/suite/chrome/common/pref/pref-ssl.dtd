@@ -17,6 +17,8 @@
 <!ENTITY limit.tls12.label                  "TLS 1.2">
 <!ENTITY limit.tls12.accesskey              "2">
 
+
+
 <!ENTITY warn.description2                  "O &brandShortName; pode alertar do estado de segurança da página web que está a visualizar. Configure o &brandShortName; para mostrar um aviso quando:">
 <!ENTITY warn.enteringsecure                "Carregar uma página que suporte encriptação">
 <!ENTITY warn.enteringsecure.accesskey      "C">
