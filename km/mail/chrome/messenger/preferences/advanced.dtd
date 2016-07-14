@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "កុំ​​ពិនិត្យមើល​​បច្ចុប្បន្នភាព (មិន​ត្រូវ​បាន​ផ្ដល់​អនុសាសន៍ ៖ ហានិភ័យ​សុវត្ថិភាព)">
 <!ENTITY updateManual.accesskey          "ក">
-<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
 <!ENTITY updateHistory.label             "បង្ហាញ​ប្រវត្តិ​បច្ចុប្បន្នភាព">
 <!ENTITY updateHistory.accesskey         "p">
 
