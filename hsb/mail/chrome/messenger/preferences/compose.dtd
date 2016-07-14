@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "z">
 <!ENTITY restoreHTMLDefaults.label            "Standardy wobnowić">
 <!ENTITY restoreHTMLDefaults.accesskey        "b">
-
-
+<!ENTITY defaultToParagraph.label             "Po standardźe wotstawkowy format město wobsahoweho teksta wužiwać">
+<!ENTITY defaultToParagraph.accesskey         "P">
 
 <!ENTITY spellCheck.label                     "Prawopis do słanja pruwować">
 <!ENTITY spellCheck.accesskey                 "s">
