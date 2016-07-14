@@ -46,5 +46,4 @@
 <!ENTITY showCurrentView.label                  "Vista actual">
 <!ENTITY showCurrentView.accesskey              "V">
 
-<!ENTITY calendar.properties.label              "Propietats del calendari…">
-<!ENTITY calendar.properties.accesskey          "P">
+
