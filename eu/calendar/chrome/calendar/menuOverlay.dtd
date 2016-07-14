@@ -46,5 +46,4 @@
 <!ENTITY showCurrentView.label                  "Uneko ikuspegia">
 <!ENTITY showCurrentView.accesskey              "U">
 
-<!ENTITY calendar.properties.label              "Egutegiaren propietateak…">
-<!ENTITY calendar.properties.accesskey          "E">
+
