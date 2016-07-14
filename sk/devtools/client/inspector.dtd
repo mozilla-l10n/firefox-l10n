@@ -7,22 +7,32 @@
 <!-- LOCALIZATION NOTE (inspectorCopyInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
+<!ENTITY inspectorCopyInnerHTML.label       "Vnútorné HTML">
+<!ENTITY inspectorCopyInnerHTML.accesskey   "V">
 
 <!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
+<!ENTITY inspectorCopyOuterHTML.label       "Vonkajšie HTML">
+<!ENTITY inspectorCopyOuterHTML.accesskey   "o">
 
 <!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
+<!ENTITY inspectorCopyCSSSelector.label "Selektor CSS">
+<!ENTITY inspectorCopyCSSSelector.accesskey "S">
 
 <!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
+<!ENTITY inspectorPasteOuterHTML.label      "Vonkajšie HTML">
+<!ENTITY inspectorPasteOuterHTML.accesskey  "o">
 
 <!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
+<!ENTITY inspectorPasteInnerHTML.label      "Vnútorné HTML">
+<!ENTITY inspectorPasteInnerHTML.accesskey  "V">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
@@ -76,12 +86,14 @@
      - add new attribute
      - edit attribute
      - remove attribute -->
+<!ENTITY inspectorAttributesSubmenu.label      "Atribúty">
+<!ENTITY inspectorAttributesSubmenu.accesskey  "A">
 
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
 <!ENTITY inspectorAddAttribute.label        "Pridať atribút">
-<!ENTITY inspectorAddAttribute.accesskey    "A">
+<!ENTITY inspectorAddAttribute.accesskey    "r">
 
 <!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users edit attribute
@@ -106,6 +118,7 @@
      the URL embedding the image data encoded in Base 64 (what we name
      here Image Data URL). For more information:
      https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
+<!ENTITY inspectorImageDataUri.label       "Dátová URL obrázka">
 
 <!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
      shown in the inspector contextual-menu for the item that lets users see

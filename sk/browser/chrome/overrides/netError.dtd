@@ -156,6 +156,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>Prehliadač &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Poškodený obsah stránky">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanú stránku nemožno zobraziť, pretože pri prenose údajov došlo k chybe.</p><ul><li>Kontaktujte prosím vlastníkov webového servera a informujte ich o tomto probléme.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Pridať výnimku…">
@@ -181,6 +182,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>Nie je možné naviazať zabezpečené pripojenie k <span id='wrongSystemTime_URL'/>, pretože sa zdá, že vaše hodiny ukazujú nesprávny čas.</p> <p>Váš počítač si myslí, že je <span id='wrongSystemTime_systemDate'/> a malo by byť <span id='wrongSystemTime_actualDate'/>. Pre vyriešenie tohto problému prosím opravte nastavenie dátumu a času.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nezabezpečené pripojenie">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Táto stránka používa HTTP
