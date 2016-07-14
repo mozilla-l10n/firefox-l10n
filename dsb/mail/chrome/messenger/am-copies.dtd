@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Drugem zarědniku:">
 <!ENTITY archiveInOtherFolder.accesskey "D">
 <!ENTITY specialFolders.label "Nacerjenja a pśedłogi">
-<!ENTITY keepDrafts.label "Powěsćowe nacerjenja wobchowaś w:">
+
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Zarědniku &quot;Nacerjenja&quot; na:">
 <!ENTITY draftsFolderOn.accesskey "N">

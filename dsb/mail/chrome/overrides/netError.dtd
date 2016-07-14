@@ -78,8 +78,8 @@
 <!ENTITY cspBlocked.title "Pśez wěstotne pšawidła za wopśimjeśe zablokěrowany">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; jo zacytowanjeju toś togo boka na toś ten nałog zajźował, dokulaž bok ma wěstotne pšawidła za wopśimjeśe, kótarež to njedowóluju.</p>">
 
-<!ENTITY corruptedContentError.title "Zmólka - wobškóźone wopśimjeśe">
-<!ENTITY corruptedContentError.longDesc "<p>Wopśimjeśe, kótarež wopytujośo se woglědaś, njedajo se pokazaś, dokulaž zmólka w pśenosowanju datow jo se namakała.</p><ul><li>Pšosym stajśo z wobsejźarjami do zwiska, aby jich wó toś tom problemje informował.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Zmólka - wobškóźone wopśimjeśe">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž jo se zmólka pśi pśenosowanju datow namakała.</p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Abo móžośo wuwześe pśidaś…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Cu how wen!">
@@ -94,3 +94,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Daloki XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby jich wó toś tom problemje informěrował.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
