@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Eile:">
 <!ENTITY archiveInOtherFolder.accesskey "E">
 <!ENTITY specialFolders.label "Dréachtaí agus Teimpléid">
-<!ENTITY keepDrafts.label "Coimeád dréacht-theachtaireachtaí i:">
+
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Fillteán &quot;Dréachtaí&quot; ar:">
 <!ENTITY draftsFolderOn.accesskey "D">

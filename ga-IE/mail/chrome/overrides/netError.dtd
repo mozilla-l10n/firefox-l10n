@@ -78,8 +78,8 @@
 <!ENTITY cspBlocked.title "Bactha ag an Polasaí Slándala Inneachair">
 <!ENTITY cspBlocked.longDesc "<p>Chuir &brandShortName; stad ar luchtú an leathanaigh seo toisc go bhfuil polasaí slándála inneachair ag an leathanach a dhícheadaíonn é.</p>">
 
-<!ENTITY corruptedContentError.title "Earráid: Ábhar Truaillithe">
-<!ENTITY corruptedContentError.longDesc "<p>An t-ábhar atá tú ag iarraidh a amharc, ní féidir é a thaispeáint toisc gur tharla earráid agus na sonraí á seoladh.</p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Earráid: Ábhar Truaillithe">
+
 
 <!ENTITY securityOverride.linkText "Nó is féidir leat eisceacht a chruthú…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Amach as seo liom!">
@@ -94,3 +94,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "XUL Cianda">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
