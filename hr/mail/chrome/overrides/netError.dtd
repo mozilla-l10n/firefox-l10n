@@ -78,8 +78,8 @@
 <!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je zaustavio učitavanje ove stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje.</p>">
 
-<!ENTITY corruptedContentError.title "Greška oštećenog sadržaja">
-<!ENTITY corruptedContentError.longDesc "<p>Sadržaj kojemu pokušavate pristupiti nije moguće prikazati zbog greške u prijenosu podataka.</p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Greška oštećenog sadržaja">
+
 
 <!ENTITY securityOverride.linkText "Ili možete dodati iznimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Izvuci me odavdje!">
@@ -94,3 +94,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Udaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
