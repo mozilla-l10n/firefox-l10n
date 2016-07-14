@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "Nu căuta niciodată actualizări (nerecomandat: risc de securitate)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Avertizează-mă dacă asta va duce la dezactivarea unora dintre suplimentele mele">
-<!ENTITY updateAutoAddonWarn.accesskey   "v">
 <!ENTITY updateHistory.label             "Arată istoricul actualizărilor">
 <!ENTITY updateHistory.accesskey         "t">
 
