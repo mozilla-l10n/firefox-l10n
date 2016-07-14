@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "ف">
 <!ENTITY restoreHTMLDefaults.label            "استعد المبدئيات">
 <!ENTITY restoreHTMLDefaults.accesskey        "م">
-<!ENTITY enterKeyCreatesNewParagraph.label    "عند استخدام تنسيق الفقرة، سيُنشيء مفتاح الإدخال فقرة جديدة">
-<!ENTITY enterKeyCreatesNewParagraph.accesskey "ق">
+
+
 
 <!ENTITY spellCheck.label                     "دقِّق الإملاء قبل الإرسال">
 <!ENTITY spellCheck.accesskey                 "د">

@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "ت">
 <!ENTITY updateManual.label              "لا تلتمس التحديثات أبدًا (غير منصوح به: مجازفة أمنية)">
 <!ENTITY updateManual.accesskey          "د">
-<!ENTITY updateAutoAddonWarn.label       "حذرني لو أن هذا سيعطل أيًا من ملحقاتي">
-<!ENTITY updateAutoAddonWarn.accesskey   "ذ">
 <!ENTITY updateHistory.label             "أظهر تأريخ التحديث">
 <!ENTITY updateHistory.accesskey         "ظ">
 

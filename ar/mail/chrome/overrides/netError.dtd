@@ -78,8 +78,8 @@
 <!ENTITY cspBlocked.title "منعته سياسة أمن المحتوى">
 <!ENTITY cspBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأن الصفحة تحتوي سياسة أمن محتوى تمنع ذلك.</p>">
 
-<!ENTITY corruptedContentError.title "خطأ محتوى فاسد">
-<!ENTITY corruptedContentError.longDesc "<p>تعذر عرض المحتوى الذي تحاول مشاهدته بسبب خطأ في نقل البيانات.</p><ul><li>الرجاء تبليغ مالك الموقع بهذه المشكلة.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "خطأ محتوى فاسد">
+
 
 <!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء…">
 <!ENTITY securityOverride.getMeOutOfHereButton "أخرجني من هنا!">
@@ -94,3 +94,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "XUL بعيد">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
