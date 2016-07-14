@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Annen:">
 <!ENTITY archiveInOtherFolder.accesskey "n">
 <!ENTITY specialFolders.label "Utkast og maler">
-<!ENTITY keepDrafts.label "Lagre meldingsutkast i:">
+
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "«Utkast»-mappen på:">
 <!ENTITY draftsFolderOn.accesskey "U">
