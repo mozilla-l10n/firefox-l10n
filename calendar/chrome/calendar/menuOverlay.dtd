@@ -44,5 +44,4 @@
 <!ENTITY showCurrentView.label                  "Tampilan Sekarang">
 <!ENTITY showCurrentView.accesskey              "T">
 
-<!ENTITY calendar.properties.label              "Properti Kalender…">
-<!ENTITY calendar.properties.accesskey          "K">
+
