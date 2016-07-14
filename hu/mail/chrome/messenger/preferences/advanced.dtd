@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "k">
 <!ENTITY updateManual.label              "Ne legyen frissítve (nem ajánlott a biztonsági kockázat miatt">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Figyelmeztetés, ha a kiegészítők elérhetetlenek lesznek emiatt">
-<!ENTITY updateAutoAddonWarn.accesskey   "F">
 <!ENTITY updateHistory.label             "Frissítési előzmények megjelenítése">
 <!ENTITY updateHistory.accesskey         "z">
 
