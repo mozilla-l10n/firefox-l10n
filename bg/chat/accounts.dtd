@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Account manager window for Instantbird -->
 
+<!-- Account manager window for Instantbird -->
 <!ENTITY accounts.title                      "Сметки - &brandShortName;">
 <!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
@@ -37,5 +37,5 @@
 <!ENTITY account.showDebugLog.label     "Показване на журнала">
 <!ENTITY account.showDebugLog.accesskey "П">
 <!ENTITY account.connecting           "Свързване…">
-
-
+<!ENTITY account.disconnecting        "Изключване…">
+<!ENTITY account.disconnected         "Извън мрежа">
