@@ -46,5 +46,4 @@
 <!ENTITY showCurrentView.label                  "Trenutni pogled">
 <!ENTITY showCurrentView.accesskey              "g">
 
-<!ENTITY calendar.properties.label              "Postavke kalendara…">
-<!ENTITY calendar.properties.accesskey          "v">
+
