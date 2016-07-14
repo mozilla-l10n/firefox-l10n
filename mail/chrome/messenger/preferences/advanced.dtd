@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "S">
 <!ENTITY updateManual.label              "Aldri søk etter oppdateringer (ikke anbefalt: sikkerhetsrisiko)">
 <!ENTITY updateManual.accesskey          "A">
-<!ENTITY updateAutoAddonWarn.label       "Advar meg dersom dette vil slå av noen installerte utvidelser">
-<!ENTITY updateAutoAddonWarn.accesskey   "d">
 <!ENTITY updateHistory.label             "Vis oppdateringshistorikk">
 <!ENTITY updateHistory.accesskey         "V">
 
