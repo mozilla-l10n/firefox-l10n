@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Bestelakoa:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!ENTITY specialFolders.label "Zirriborroak eta txantiloiak">
-<!ENTITY keepDrafts.label "Gorde zirriborroak hemen:">
+
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;Zirriborroak&quot; karpetan:">
 <!ENTITY draftsFolderOn.accesskey "Z">
