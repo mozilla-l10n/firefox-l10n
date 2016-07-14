@@ -78,8 +78,8 @@
 <!ENTITY cspBlocked.title "Sayt xavfsizlik siyosati tomonidan bloklandi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ushbu sahifani yuklanishini to‘xtatib qo‘ydi, chunki sahifadagi tarkib xavfsizlik siyosati bunga ruxsat bermaydi.</p>">
 
-<!ENTITY corruptedContentError.title "Sayt tarkibi buzilgan">
-<!ENTITY corruptedContentError.longDesc "<p>Siz ko‘rmoqchi bo‘lgan sayt tarkibi ko‘rsatilmaydi, chunki ma’lumotlarni uzatishda xatolik aniqlandi.</p><ul><li>Muammo haqida xabar berish uchun sayt egasi bilan bog‘laning.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Sayt tarkibi buzilgan">
+
 
 <!ENTITY securityOverride.linkText "Yoki istisno qo‘shishingiz mumkin…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Men bu yerdan ketaman!">
@@ -94,3 +94,6 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Masofadagi XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Muammo haqida xabar berish uchun veb sayt egasi bilan bog‘laning.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
