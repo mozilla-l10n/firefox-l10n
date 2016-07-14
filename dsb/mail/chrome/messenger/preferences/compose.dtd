@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "z">
 <!ENTITY restoreHTMLDefaults.label            "Standardy wótnowiś">
 <!ENTITY restoreHTMLDefaults.accesskey        "S">
-
-
+<!ENTITY defaultToParagraph.label             "Pó standarźe wótstawkowy format město wopśimjeśowego teksta wužywaś">
+<!ENTITY defaultToParagraph.accesskey         "P">
 
 <!ENTITY spellCheck.label                     "Pšawopis do słanja kontrolěrowaś">
 <!ENTITY spellCheck.accesskey                 "P">
