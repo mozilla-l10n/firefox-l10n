@@ -64,7 +64,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "การปรับปรุงถูกปิดใช้งานโดยผู้ดูแลระบบของคุณ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "โปรเซสอื่นได้ทำการปรับรุ่น &brandShortName; แล้ว">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; กำลังถูกปรับปรุงโดยอินสแตนซ์อื่น">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
