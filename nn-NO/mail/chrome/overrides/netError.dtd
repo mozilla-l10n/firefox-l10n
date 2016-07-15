@@ -95,5 +95,6 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstadseigarane for å informera dei om dette problemet.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Tilkoplinga di er ikkje trygg">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
