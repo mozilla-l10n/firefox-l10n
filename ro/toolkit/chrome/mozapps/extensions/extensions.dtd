@@ -231,7 +231,7 @@
 <!ENTITY experiment.info.changetelemetry "Configurări Telemetrie">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
-<!ENTITY setting.learnmore "Aflați mai multe…">
+<!ENTITY setting.learnmore "Află mai multe…">
 
 <!ENTITY disabledUnsigned.heading "Unele suplimente au fost dezactivate">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):

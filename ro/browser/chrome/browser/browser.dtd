@@ -766,8 +766,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.activated.description "Serviciile de la <label/> au fost activate. Puteți schimba setările pentru servicii în <label class='text-link'>Manager suplimente</label>.">
 <!ENTITY social.activated.undo.label "Upss, anulează asta!">
 <!ENTITY social.activated.undo.accesskey "U">
-<!ENTITY social.learnMore.label "Aflați mai multe…">
-<!ENTITY social.learnMore.accesskey "m">
+<!ENTITY social.learnMore.label "Află mai multe…">
+<!ENTITY social.learnMore.accesskey "l">
 <!ENTITY social.closeNotificationItem.label "Nu acum">
 
 <!ENTITY social.directory.label "Dosar de activări">
@@ -825,7 +825,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingContentBlocked.message "Urmărire">
 <!ENTITY trackingContentBlocked.moreinfo "Părți ale paginii care vă urmăresc activitatea online au fost blocate.">
-<!ENTITY trackingContentBlocked.learnMore "Aflați mai multe">
+<!ENTITY trackingContentBlocked.learnMore "Află mai multe">
 <!ENTITY trackingContentBlocked.options "Opțiuni">
 <!ENTITY trackingContentBlocked.unblock2.label "Dezactivează protecția pentru acest site">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
@@ -879,5 +879,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Navigare în siguranță!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Mulțumim!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Aflați mai multe despre DRM…">
+<!ENTITY emeLearnMoreContextMenu.label            "Află mai multe despre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
