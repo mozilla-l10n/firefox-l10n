@@ -87,7 +87,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Adaugă excepție…">
 
 <!ENTITY errorReporting.automatic2 "Raportează erori precum acestea pentru a ajuta Mozilla să identifice și să blocheze site-urile rău-intenționate">
-<!ENTITY errorReporting.learnMore "Aflați mai multe…">
+<!ENTITY errorReporting.learnMore "Află mai multe…">
 
 <!ENTITY remoteXUL.title "XUL la distanță">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Vă rugăm să contactați proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul></p>">

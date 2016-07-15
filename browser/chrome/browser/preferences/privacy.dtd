@@ -9,7 +9,7 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Niciodată">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
-<!ENTITY  trackingProtectionLearnMore.label    "Aflați mai multe">
+<!ENTITY  trackingProtectionLearnMore.label    "Află mai multe">
 <!ENTITY  trackingProtectionExceptions.label   "Excepții…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
