@@ -34,7 +34,7 @@
 
 
 <!ENTITY languages.label              "ภาษา">
-<!ENTITY chooseLanguage.label         "เลือกภาษาที่อยากให้แสดงในหน้าเว็บ">
+<!ENTITY chooseLanguage.label         "เลือกภาษาที่คุณต้องการสำหรับแสดงผลหน้า">
 <!ENTITY chooseButton.label           "เลือก…">
 <!ENTITY chooseButton.accesskey       "ล">
 
