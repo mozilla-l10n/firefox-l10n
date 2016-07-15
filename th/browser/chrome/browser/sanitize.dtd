@@ -58,8 +58,8 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "ช">
 <!ENTITY itemOfflineApps.label             "ข้อมูลเว็บไซต์ออฟไลน์">
 <!ENTITY itemOfflineApps.accesskey         "ข">
-<!ENTITY itemActiveLogins.label            "การล็อกอินที่ค้างอยู่">
-<!ENTITY itemActiveLogins.accesskey        "อ">
+<!ENTITY itemActiveLogins.label            "การเข้าสู่ระบบที่ค้างอยู่">
+<!ENTITY itemActiveLogins.accesskey        "ก">
 <!ENTITY itemSitePreferences.label         "การตั้งค่าไซต์">
 <!ENTITY itemSitePreferences.accesskey     "ต">
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
