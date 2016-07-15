@@ -50,14 +50,16 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "โปรแกรมเสริมที่ถูกเปิดใช้งาน">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
-
+<!ENTITY aboutSupport.appBasicsOS "ระบบปฏิบัติการ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "หน่วยความจำที่ใช้">
 <!ENTITY aboutSupport.appBasicsPerformance "ประสิทธิภาพ">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers ที่ลงทะเบียน">
+
 <!ENTITY aboutSupport.appBasicsProfiles "โพรไฟล์">
 
-<!ENTITY aboutSupport.appBasicsMultiProcessSupport "หน้าต่างหลายโปรเซส">
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "หน้าต่างแบบหลายโพรเซส">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "โหมดปลอดภัย">
 

@@ -98,7 +98,7 @@
 <!ENTITY offlineNotifyExceptions.label   "ข้อยกเว้น…">
 <!ENTITY offlineNotifyExceptions.accesskey "อ">
 
-<!ENTITY offlineAppsList2.label          "เว็บไซต์เหล่านี้ได้รับอนุญาตให้เก็บข้อมูลไว้ใช้ตอนออฟไลน์:">
+<!ENTITY offlineAppsList2.label          "เว็บไซต์ดังต่อไปนี้ได้รับอนุญาตให้จัดเก็บข้อมูลสำหรับการใช้งานออฟไลน์:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "เอาออก…">
 <!ENTITY offlineAppsListRemove.accesskey "เ">
