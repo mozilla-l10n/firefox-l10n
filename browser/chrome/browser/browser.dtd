@@ -282,7 +282,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "А"> 
 <!ENTITY viewSidebarMenu.label "Странична лента">
 <!ENTITY viewSidebarMenu.accesskey "н">
-<!ENTITY viewCustomizeToolbar.label       "Прилагоди…"> 
+<!ENTITY viewCustomizeToolbar.label       "Прилагодете …"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "р">
 
 <!ENTITY historyMenu.label "Историја">
@@ -295,7 +295,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Прикажи ја сета историја">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Прилагоди">
+<!ENTITY appMenuCustomize.label "Прилагодете">
+<!ENTITY appMenuCustomize.tooltip "Прилагодете ги менијата и алатниците">
+<!ENTITY appMenuCustomizeExit.label "Напуштете го прилагодувањето">
+<!ENTITY appMenuCustomizeExit.tooltip "Завршете со прилагодувањето">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -305,11 +308,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 
+<!ENTITY customizeMenu.addToToolbar.label "Додај во алатник">
+<!ENTITY customizeMenu.addToPanel.label "Додај во мени">
+<!ENTITY customizeMenu.moveToToolbar.label "Премести во алатник">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "Премести во мени">
+<!ENTITY customizeMenu.removeFromToolbar.label "Отстрани од алатник">
+<!ENTITY customizeMenu.removeFromMenu.label "Отстрани од мени">
+<!ENTITY customizeMenu.addMoreItems.label "Додадете повеќе елементи …">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Барај или внеси адреса">
@@ -618,6 +628,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY customizeMode.restoreDefaults "Врати основни прилагодувања">
+<!ENTITY customizeMode.toolbars "Прикажи / Скриј алатници">
+<!ENTITY customizeMode.lwthemes "Теми">
+<!ENTITY customizeMode.lwthemes.myThemes "Мои теми">
+<!ENTITY customizeMode.lwthemes.recommended "Препорачани">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Земете повеќе теми">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Фокус на разговорите">

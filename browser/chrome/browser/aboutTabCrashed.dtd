@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.header "Најпрво лошите вести: овој таб се урна">
-<!ENTITY tabCrashed.message "Сега добрите вести: слободно можете да го затворите или вратите овој таб, или да ги вратите сите урнати табови.">
+<!ENTITY tabCrashed.header "Најпрво лошите вести: ова јазиче се урна">
+<!ENTITY tabCrashed.message "Сега добрите вести: слободно можете да го затворите или вратите ова јазиче, или да ги вратите сите урнати јазичиња.">
 <!ENTITY tabCrashed.sendReport "Испратете извештај за уривање за да спречите дополнителни лоши вести">
 <!ENTITY tabCrashed.includeURL "Вклучи ја и адресата на страницата што ја имав отворено">
 <!ENTITY tabCrashed.commentPlaceholder "Додајте коментар (коментарите се видливи за сите)">
@@ -11,6 +11,6 @@
 <!ENTITY tabCrashed.emailMe "Испрати ми е-пошта кога ќе има повеќе информации за ова">
 <!ENTITY tabCrashed.crashReporter "Извештај за уривање на Mozilla">
 <!ENTITY tabCrashed.reportSent "Извештајот за уривање е веќе испратен; Ви благодариме што помагате &brandShortName; да биде подобар!">
-<!ENTITY tabCrashed.closeTab "Затвори го овој таб">
-<!ENTITY tabCrashed.restoreTab "Врати го овој таб">
-<!ENTITY tabCrashed.restoreAll "Врати ги сите урнати табови">
+<!ENTITY tabCrashed.closeTab "Затвори го ова јазиче">
+<!ENTITY tabCrashed.restoreTab "Врати го ова јазиче">
+<!ENTITY tabCrashed.restoreAll "Врати ги сите урнати јазичиња">
