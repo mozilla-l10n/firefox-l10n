@@ -201,6 +201,9 @@
 <!ENTITY pref_whats_new_notification "Nowości w przeglądarce &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Powiadamianie o nowych funkcjach po aktualizacji">
 
+<!ENTITY pref_custom_tabs "Niestandardowe karty">
+<!ENTITY pref_custom_tabs_summary "Zewnętrzne aplikacje mogą otwierać karty o niestandardowym wyglądzie.">
+
 <!ENTITY tracking_protection_prompt_title "Nowa ochrona przed śledzeniem">
 <!ENTITY tracking_protection_prompt_text "Aktywne blokowanie elementów śledzących aktywność użytkownika.">
 <!ENTITY tracking_protection_prompt_tip_text "Więcej informacji w ustawieniach prywatności">
