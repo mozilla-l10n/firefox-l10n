@@ -6,14 +6,15 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "ஒரு தனிப்பட்ட சாளரத்தைத் திற">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "த">
 
+<!ENTITY privateBrowsing.title                           "தனிப்பட்ட உலாவல்">
 <!ENTITY privateBrowsing.title.tracking                  "தடமறி பாதுகாப்புடன் கூடிய தனிப்பட்ட உலாவல்">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "நீங்கள் தனிப்பட்ட சாளரத்தில் உலாவும் போது, பயர்பாக்ஸ்">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "சேமிக்காது">
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "பார்த்த பக்கங்கள்">
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.searches              "தேடல்கள்">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "நினைவிகள்">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "தற்காலிக கோப்புகள்">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "பயர்பாக்ஸ் ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "சேமிக்கும்">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " உங்களுடைய:">
