@@ -63,14 +63,18 @@ da ima &brandShortName; pravico dostopati do spleta.</li>
 </ul>">
 
 <!ENTITY contentEncodingError.title "Napaka pri kodiranju vsebine">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Obrnite se na lastnike spletne strani, da jih obvestite o tej težavi.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>O napaki obvestite lastnike spletne strani.</li>
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "Nevarna vrsta datoteke">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Obrnite se na lastnike spletne strani, da jih obvestite o tej težavi.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>O napaki obvestite lastnike spletne strani.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Povezava je bila obnovljena">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -113,10 +117,12 @@ piškotkov.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Varna povezava ni uspela">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>Želene strani ni mogoče prikazati, ker pristnosti podatkov v njej ni bilo mogoče preveriti.</li> 
-<li>Obrnite se na lastnike spletne strani, da jih obvestite o tej težavi.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker ni mogoče preveriti pristnosti sprejetih podatkov.</li>
+  <li>O napaki obvestite lastnike spletne strani.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Varna povezava ni uspela">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -135,14 +141,14 @@ z omrežjem.</li>
 da ima &brandShortName; pravico dostopati do omrežja.</li> 
 </ul>">
 
-<!ENTITY cspBlocked.title "Blokirano zaradi Politike za varnost vsebin">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje te strani na ta način, kajti zanjo velja politika o varnosti vsebin, ki tega ne dovoljuje.</p>">
+<!ENTITY cspBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine strani.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Napaka pokvarjene vsebine">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je bila zaznana napaka pri prenosu podatkov.</p><ul><li>O težavi obvestite lastnike spletne strani.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je bila zaznana napaka pri prenosu podatkov.</p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo …">
-<!ENTITY securityOverride.getMeOutOfHereButton "Hočem vstran!">
+<!ENTITY securityOverride.getMeOutOfHereButton "Hočem stran!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo …">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -156,7 +162,7 @@ functionality specific to thunderbird. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Oddaljeni XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o tej težavi.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Vaša povezava ni varna">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate

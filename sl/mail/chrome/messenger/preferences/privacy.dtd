@@ -18,15 +18,15 @@
 <!ENTITY keepHistory.accesskey "Z">
 <!ENTITY acceptCookies.label "Dovoli stranem, da shranjujejo piškotke.">
 <!ENTITY acceptCookies.accesskey "s">
-<!ENTITY acceptThirdParty.pre.label "Dovoli piškotke tretjih oseb:">
+<!ENTITY acceptThirdParty.pre.label "Sprejemaj piškotke tretjih strani:">
 <!ENTITY acceptThirdParty.pre.accesskey "š">
 <!ENTITY acceptThirdParty.always.label "vedno">
 <!ENTITY acceptThirdParty.never.label "nikoli">
 <!ENTITY acceptThirdParty.visited.label "od obiskanih">
-<!ENTITY keepUntil.label "Obdrži jih dokler:">
+<!ENTITY keepUntil.label "Obdrži jih:">
 <!ENTITY keepUntil.accesskey "O">
-<!ENTITY expire.label "ne pretečejo">
-<!ENTITY close.label "ne zaprem &brandShortName;">
+<!ENTITY expire.label "dokler ne pretečejo">
+<!ENTITY close.label "dokler ne zaprem &brandShortName;a">
 <!ENTITY askEachTime.label "vsakokrat me vprašaj">
 <!ENTITY cookieExceptions.label "Izjeme …">
 <!ENTITY cookieExceptions.accesskey "z">
