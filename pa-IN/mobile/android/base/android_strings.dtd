@@ -189,6 +189,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "ਇਸ਼ਾਰਾ: ਖੋਜ ਵਿੱਚੋ ਆਪਣੇ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲੀਆਂ ਦੀ ਸੂਚੀ ਵਿੱਚ ਮੌਜੂਦ ਕਿਸੇ ਵੀ ਵੈੱਬ ਸਾਈਟ ਉੱਤੇ ਲੰਮਾ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਤਦ &formatI; ਆਈਕਾਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ">
 <!ENTITY pref_category_advanced "ਤਨਕੀਕੀ">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ਟੈਬਾਂ, ਡਾਟਾ ਬੱਚਤਕਰਤਾ, ਡਿਵੈਲਪਰ ਟੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ">
 <!ENTITY pref_category_notifications "ਸੂਚਨਾਵਾਂ">
 <!ENTITY pref_category_notifications_summary "ਨਵੇਂ ਫੀਚਰ, ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਅੱਪਡੇਟ">
@@ -240,6 +243,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "ਸੁਤੰਤਰ ਧਿਰ ਤੋਂ ਬਿਨਾਂ ਸਮਰੱਥ">
 <!ENTITY pref_cookies_disabled "ਅਸਮਰੱਥ ਹੈ">
 
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_data_saver "ਡਾਟਾ ਬੱਚਤਕਰਤਾ">
 <!ENTITY pref_category_media "ਮੀਡੀਆ">
 <!ENTITY pref_category_developer_tools "ਡਿਵੈਲਪਰ ਟੂਲ">
@@ -273,7 +279,7 @@
 <!ENTITY tab_queue_toast_action "ਹੁਣੇ ਖੋਲ੍ਹੋ">
 <!ENTITY tab_queue_prompt_title "ਕਈ ਲਿੰਕਾਂ ਨੂੰ ਖੋਲ੍ਹਣਾ ਹੈ?">
 <!ENTITY tab_queue_prompt_text4 "ਉਹਨਾਂ ਨੂੰ ਅਗਲੀ ਵਾਰ &brandShortName; ਖੋਲ੍ਹਣ ਤੱਕ ਸੰਭਾਲੋ">
-<!ENTITY tab_queue_prompt_tip_text2 "ਤੁਸੀਂ ਬਾਅਦ \'ਚ ਸੈਟਿੰਗਾਂ ਵਿੱਚੋਂ ਇਸ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ">
+<!ENTITY tab_queue_prompt_tip_text2 "ਤੁਸੀਂ ਬਾਅਦ \&apos;ਚ ਸੈਟਿੰਗਾਂ ਵਿੱਚੋਂ ਇਸ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "ਹੋਰ ਐਪਾਂ ਉੱਤੇ ਡਰਾਇੰਗ ਕਰਨਾ ਚਾਲੂ ਕਰੋ">
@@ -287,14 +293,14 @@
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural2 "&formatD; ਟੈਬਾਂ ਉਡੀਕ \'ਚ ਹਨ">
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ਟੈਬਾਂ ਉਡੀਕ \&apos;ਚ ਹਨ">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular2 "1 ਟੈਬ ਉਡੀਕ \'ਚ ਹੈ">
+<!ENTITY tab_queue_notification_text_singular2 "1 ਟੈਬ ਉਡੀਕ \&apos;ਚ ਹੈ">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "\&quot;ਕਈ ਲਿੰਕਾਂ ਨੂੰ ਖੋਲ੍ਹੋ\&quot; ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ &brandShortName; ਨੂੰ \'ਹੋਰ ਐਪਾਂ ਦੇ ਉੱਤੇ ਬਣਾਓ\' ਇਜ਼ਾਜ਼ਤ ਦਿਓ">
+<!ENTITY tab_queue_notification_settings "\&quot;ਕਈ ਲਿੰਕਾਂ ਨੂੰ ਖੋਲ੍ਹੋ\&quot; ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ &brandShortName; ਨੂੰ \&apos;ਹੋਰ ਐਪਾਂ ਦੇ ਉੱਤੇ ਬਣਾਓ\&apos; ਇਜ਼ਾਜ਼ਤ ਦਿਓ">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -346,7 +352,7 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!ENTITY pref_font_size_preview_text "ਸੰਤਰੀ ਲੂੰਬੜ ਆਪਣੀ ਗਤੀ, ਆਖੇ ਲੱਗਣ ਅਤੇ ਵੱਧ ਸੁਰੱਖਿਆ ਨਾਲ ਤੁਹਾਡੀਆਂ ਉਮੀਦ ਤੋਂ ਅੱਗੇ ਲੰਘ ਗਿਆ ਹੈ। ਗ਼ੈਰ-ਫਾਇਦੇਮੰਦ ਸੰਗਠਨ ਹੋਣ ਦੇ ਨਾਲ ਅਸੀਂ ਨਵੀਆਂ ਕਾਢਾਂ ਕੱਢਣ ਦੌਰਾਨ ਸਮਝੌਤਾ ਕਰਨ ਦੇ ਕਿਸੇ ਵੀ ਦਬਾਅ ਤੋਂ ਮੁਕਤ ਹਾਂ। ਇਸ ਨਾਲ ਤੁਹਾਨੂੰ ਵਧੀਆ ਤਜਰਬਾ ਦਿੰਦੇ ਹਾਂ ਅਤੇ ਵੈੱਬ ਲਈ ਵਧੀਆ ਭਵਿੱਖ ਬਣਦਾ ਹੈ।">
 
 <!ENTITY pref_media_autoplay_enabled "ਆਪਣੇ-ਆਪ ਚੱਲਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 <!ENTITY pref_media_autoplay_enabled_summary "ਕੰਟਰੋਲ ਕਰੋ ਕਿ ਕੀ ਵੈੱਬਸਾਈਟਾਂ ਆਪਣੇ-ਆਪ ਵੀਡੀਓ ਅਤੇ ਹੋਰ ਮੀਡੀਆ ਸਮੱਗਰੀ ਨੂੰ ਚਲਾ ਸਕਦੀਆਂ ਹਨ">
@@ -579,7 +585,7 @@ size. -->
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-<!ENTITY home_move_back_to_filter "&formatS; \'ਤੇ ਵਾਪਸ ਜਾਓ">
+<!ENTITY home_move_back_to_filter "&formatS; \&apos;ਤੇ ਵਾਪਸ ਜਾਓ">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
@@ -768,7 +774,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings "ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ">
 <!ENTITY restrictable_feature_advanced_settings_description "ਇਸ ਵਿੱਚ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇੰਪੋਰਟ ਕਰਨਾ, ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰਨਾ ਅਤੇ ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਕਰਨਾ ਸ਼ਾਮਲ ਹੈ। ਕਿਸੇ ਵੀ ਪਰਿਵਾਰਿਕ ਮੈਂਬਰ ਲਈ ਢੁੱਕਵੀਆਂ ਸਧਾਰਨ ਸੈਟਿੰਗਾਂ ਨੂੰ ਚਾਲੂ ਕਰੋ।">
 <!ENTITY restrictable_feature_camera_microphone "ਕੈਮਰਾ ਤੇ ਮਾਈਕਰੋਫ਼ੋਨ">
-<!ENTITY restrictable_feature_camera_microphone_description "ਪਰਿਵਾਰਿਕ ਮੈਂਬਰਾਂ ਨਾਲ ਵੈੱਬ ਸਾਈਟਾਂ ਉੱਤੇ ਮੌਕੇ \'ਤੇ ਸੰਚਾਰ ਕਰੋ">
+<!ENTITY restrictable_feature_camera_microphone_description "ਪਰਿਵਾਰਿਕ ਮੈਂਬਰਾਂ ਨਾਲ ਵੈੱਬ ਸਾਈਟਾਂ ਉੱਤੇ ਮੌਕੇ \&apos;ਤੇ ਸੰਚਾਰ ਕਰੋ">
 <!ENTITY restrictable_feature_block_list "ਪਾਬੰਦੀਸ਼ੁਦਾ ਦੀ ਸੂਚੀ">
 <!ENTITY restrictable_feature_block_list_description "ਵੈੱਬਸਾਈਟਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ, ਜਿਹਨਾਂ ਵਿੱਚ ਸੰਵੇਦਨਸ਼ੀਲ ਸਮੱਗਰੀ ਹੈ।">
 
@@ -806,3 +812,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "ਆਫ਼ਲਾਈਨ ਲਈ ਮੌਜੂਦ">
 <!ENTITY helper_triple_readerview_open_message "ਰੀਡਰ ਝਲਕ ਆਈਤਮਾਂ ਨੂੰ ਆਫ਼ਲਾਈਨ ਪੜ੍ਹਨ ਵਾਸਤੇ ਬੁੱਕਮਾਰਕ ਕਰੋ।">
 <!ENTITY helper_triple_readerview_open_button "ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਜੋੜੋ">
+
