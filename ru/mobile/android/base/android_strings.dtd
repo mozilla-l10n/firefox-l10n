@@ -166,6 +166,8 @@
 <!ENTITY pref_tracking_protection_disabled "Отключено">
 <!ENTITY pref_whats_new_notification "Что нового в &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Узнавать о новых возможностях после обновления">
+<!ENTITY pref_custom_tabs "Настраиваемые вкладки">
+<!ENTITY pref_custom_tabs_summary "Разрешить сторонним приложениям открывать вкладки с настроенным интерфейсом.">
 <!ENTITY tracking_protection_prompt_title "Теперь с Защитой от отслеживания">
 <!ENTITY tracking_protection_prompt_text "Активно блокируйте элементы отслеживания, чтобы не беспокоиться о слежке.">
 <!ENTITY tracking_protection_prompt_tip_text "Чтобы узнать больше, посетите параметры Приватности">
