@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "‌‍ನಿಬಂಧಿಸಿದ ಪಟ್ಟಿಗಳು">
-
+<!ENTITY window.width                 "55em">
 
 <!ENTITY treehead.list.label          "ಪಟ್ಟಿ">
 <!ENTITY windowClose.key              "w">
