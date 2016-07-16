@@ -322,8 +322,8 @@
 
 <!ENTITY cancelNewsMsgCmd.label "Atcelt ziņojumu">
 <!ENTITY cancelNewsMsgCmd.accesskey "c">
-
-
+<!ENTITY replyMsgCmd.label "Atbildēt">
+<!ENTITY replyMsgCmd.accesskey "A">
 
 
 
@@ -697,8 +697,8 @@
 
 
 
-
-
+<!ENTITY contextForwardAsAttachmentItem.label "Pielikums">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "P">
 
 
 
