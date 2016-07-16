@@ -68,7 +68,7 @@
 <!ENTITY updates.resetUpdatesToManual.label          "重设所有附加组件为手动更新">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "正在更新附加组件">
-<!ENTITY updates.installed.label              "您的附加组件已经更新。">
+<!ENTITY updates.installed.label              "您的附加组件更新完毕。">
 <!ENTITY updates.downloaded.label             "您的附加组件更新已经下载。">
 <!ENTITY updates.restart.label                "立即重启以完成安装">
 <!ENTITY updates.noneFound.label              "没有找到可用的更新">
