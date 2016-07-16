@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Odpelji me proč!">
+<!ENTITY safeb.palm.accept.label "Hočem stran!">
 <!ENTITY safeb.palm.decline.label "Prezri to opozorilo">
 <!ENTITY safeb.palm.reportPage.label "Zakaj je bila stran zavrnjena?">
 <!ENTITY safeb.palm.whyForbidden.label "Zakaj je bila stran zavrnjena?">
