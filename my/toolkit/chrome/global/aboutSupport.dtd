@@ -28,7 +28,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "ဖွင့်ထားပါ">
 <!ENTITY aboutSupport.experimentEndDate "နောက်ဆုံး ရက်">
 <!ENTITY aboutSupport.experimentHomepage "မူလအစ">
-
+<!ENTITY aboutSupport.experimentBranch "အခွဲ">
 
 <!ENTITY aboutSupport.appBasicsTitle "အပ္ပလီကေးရှင်း အခြေခံ">
 <!ENTITY aboutSupport.appBasicsName "အမည်">
@@ -50,13 +50,14 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ပက်လက်အင် အားဖွင့်ပါ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuration တည်ဆောက်ပါ">
 <!ENTITY aboutSupport.appBasicsUserAgent "အသုံးပြုသူ အေးဂျင့်">
-
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "မှတ်ဉာဏ်သုံးဆွဲမှူ">
-
+<!ENTITY aboutSupport.appBasicsPerformance "လုပ်ဆောင်မှု">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "စာရင်းပြုထားသည့် Service Workers">
 
+<!ENTITY aboutSupport.appBasicsProfiles "ပရိုဖိုင်များ">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "တစ်ပြိုင်နက်လုပ်ဆောင်ချက် ဝင်းဒိုးများ">
 
@@ -85,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "ဂရပ်ဖစ်">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "ဒေတာဘေ့စ်ထားရန်">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integrity">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Integrity ကို အတည်ပြုရန်">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC တိုးတက်မှု">
@@ -108,10 +110,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "လုံခြုံရေးသုံးပုံစံ အားသုံးကြည့်မည်">
 <!ENTITY aboutSupport.restartInSafeMode.label "ထပ်ပေါင်းဆော့ဝဲများ ပိတ်ပြီး ပြန်စမည်...">
 
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "လုပ်ဆောင်ချက်များ">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "ချွတ်ယွင်းချက်ဖော်ထုတ်မှုများ">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "အမှားဆိုင်ရာ မှတ်တမ်း">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "ဆုံးဖြတ်မှုဆိုင်ရာ မှတ်တမ်း">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "အပျက်အစီးကာကွယ်မှုစနစ်ကြောင့် ပိတ်ထားသည့် လုပ်ဆောင်ချက်များ">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "ယာယီအစားထိုးဆောင်ရွက်နိုင်သည်များ">

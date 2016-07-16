@@ -1,27 +1,38 @@
 <!-- LOCALIZATION NOTE (inspectorHTMLEdit.label): This is the label shown
      in the inspector contextual-menu for the item that lets users edit the
      (outer) HTML of the current node -->
-
+<!ENTITY inspectorHTMLEdit.label       "HTML အနေနှင့် တည်းဖြတ်ပါ">
+<!ENTITY inspectorHTMLEdit.accesskey   "E">
 <!-- LOCALIZATION NOTE (inspectorCopyInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
 
+<!ENTITY inspectorCopyInnerHTML.label       "Inner HTML">
+<!ENTITY inspectorCopyInnerHTML.accesskey   "I">
 <!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
 
+<!ENTITY inspectorCopyOuterHTML.label       "Outer HTML">
+<!ENTITY inspectorCopyOuterHTML.accesskey   "O">
 <!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
 
+<!ENTITY inspectorCopyCSSSelector.label "CSS ရွေးချယ်စရာ">
+<!ENTITY inspectorCopyCSSSelector.accesskey "S">
 <!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
+<!ENTITY inspectorPasteOuterHTML.label      "Outer HTML">
+<!ENTITY inspectorPasteOuterHTML.accesskey  "O">
 <!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
+<!ENTITY inspectorPasteInnerHTML.label      "Inner HTML">
+<!ENTITY inspectorPasteInnerHTML.accesskey  "I">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
@@ -30,26 +41,38 @@
      - as the first child of the current node
      - as the last child of the current node -->
 
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "ပွားယူပါ…">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "t">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
 
+<!ENTITY inspectorHTMLPasteBefore.label      "မတိုင်မီ">
+<!ENTITY inspectorHTMLPasteBefore.accesskey  "B">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
 
+<!ENTITY inspectorHTMLPasteAfter.label       "ပြီးနောက်">
+<!ENTITY inspectorHTMLPasteAfter.accesskey   "A">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the first child the current node -->
 
+<!ENTITY inspectorHTMLPasteFirstChild.label      "ပထမဆင်းသက်မှုအနေနှင့်">
+<!ENTITY inspectorHTMLPasteFirstChild.accesskey  "F">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
 
+<!ENTITY inspectorHTMLPasteLastChild.label       "နောက်ဆုံးဆင်းသက်မှုအနေနှင့်">
+<!ENTITY inspectorHTMLPasteLastChild.accesskey   "L">
 <!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
      shown in the inspector contextual-menu for the item that lets users scroll
      the current node into view -->
 
+<!ENTITY inspectorScrollNodeIntoView.label       "အမြင်ဗျူးထဲသို့ စခရိုးလ်ကြည့်ပါ">
+<!ENTITY inspectorScrollNodeIntoView.accesskey   "S">
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->
@@ -63,31 +86,45 @@
      - edit attribute
      - remove attribute -->
 
+<!ENTITY inspectorAttributesSubmenu.label      "တန်ဖိုးများ">
+<!ENTITY inspectorAttributesSubmenu.accesskey  "A">
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
 
+<!ENTITY inspectorAddAttribute.label        "တန်ဖိုးတစ်ခု ထည့်ပါ">
+<!ENTITY inspectorAddAttribute.accesskey    "A">
 <!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users edit attribute
      for current node -->
 
+<!ENTITY inspectorEditAttribute.label        "တန်ဖိုးတစ်ခုကို ပြင်ပါ">
+<!ENTITY inspectorEditAttribute.accesskey    "E">
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
 
+<!ENTITY inspectorRemoveAttribute.label        "တန်ဖိုးတစ်ခုကို ဖျက်ပါ">
+<!ENTITY inspectorRemoveAttribute.accesskey    "R">
 
 <!ENTITY inspector.selectButton.tooltip     "အရာ၀တ္ထုကို မောက်စ်နဲ့ ရွေးမှတ်ပါ။">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that is
      shown as the placeholder for the markup view search in the inspector. -->
+
+<!ENTITY inspectorSearchHTML.label3 "HTML ဖြင့် ရှာရန်">
 <!-- LOCALIZATION NOTE (inspectorImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the URL embedding the image data encoded in Base 64 (what we name
      here Image Data URL). For more information:
      https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
+
+<!ENTITY inspectorImageDataUri.label       "ရုပ်ပုံ Data-URL">
 <!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
      shown in the inspector contextual-menu for the item that lets users see
      the DOM properties of the current node. When triggered, this item
      opens the split Console and displays the properties in its side panel. -->
+
+<!ENTITY inspectorShowDOMProperties.label       "DOM တန်ဖိုးများကို ပြပါ">
 <!-- LOCALIZATION NOTE (inspectorUseInConsole.label): This is the label
      shown in the inspector contextual-menu for the item that outputs a
      variable for the current node to the console. When triggered,
