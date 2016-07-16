@@ -33,6 +33,11 @@
 <!ENTITY fontColor.accesskey                  "x">
 <!ENTITY bgColor.label                        "Fond :">
 <!ENTITY bgColor.accesskey                    "d">
+<!ENTITY defaultCompose.label                 "Format de composition par défaut :">
+<!ENTITY defaultBodyText.label                "Texte principal (La touche Entrée crée une nouvelle ligne)">
+<!ENTITY defaultBodyText.accesskey            "e">
+<!ENTITY defaultParagraph.label               "Paragraphe (La touche Entrée crée un nouveau paragraphe)">
+<!ENTITY defaultParagraph.accesskey           "P">
 
 <!ENTITY selectHeaderType.label               "Sélectionner le type de l’en-tête de réponse :">
 <!ENTITY selectHeaderType.accesskey           "e">
