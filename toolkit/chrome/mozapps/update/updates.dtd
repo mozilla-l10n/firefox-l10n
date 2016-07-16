@@ -5,9 +5,6 @@
 <!ENTITY updateWizard.title "Обновление программного обеспечения">
 <!ENTITY checking.title "Идёт проверка наличия обновлений…">
 <!ENTITY updateCheck.label "Идёт поиск новых версий &brandShortName;…">
-<!ENTITY pluginupdatesfound.title "Найдены обновления для плагинов">
-<!ENTITY pluginupdatesfound.label "Найдены новые версии одного или нескольких из ваших плагинов.">
-<!ENTITY pluginupdateslink.label "Узнайте как обновить свои плагины.">
 <!ENTITY noupdatesfound.title "Обновления отсутствуют">
 <!ENTITY noupdatesautoenabled.intro "Обновления отсутствуют. &brandShortName; будет периодически проверять наличие обновлений.">
 <!ENTITY noupdatesautodisabled.intro "Обновления отсутствуют. Пожалуйста, проверьте позже, или включите в &brandShortName; функцию автоматической проверки наличия обновлений.">

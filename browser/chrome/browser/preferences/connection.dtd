@@ -30,8 +30,8 @@
 <!ENTITY socks4.accesskey "4">
 <!ENTITY socks5.label "SOCKS 5">
 <!ENTITY socks5.accesskey "5">
-<!ENTITY socksRemoteDNS.label "Удалённый DNS">
-<!ENTITY socksRemoteDNS.accesskey "н">
+<!ENTITY socksRemoteDNS.label2 "Отправлять DNS-запросы через прокси при использовании SOCKS 5">
+<!ENTITY socksRemoteDNS.accesskey "я">
 <!ENTITY port.label "Порт:">
 <!ENTITY HTTPport.accesskey "о">
 <!ENTITY SSLport.accesskey "р">

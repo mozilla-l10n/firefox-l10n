@@ -88,13 +88,13 @@
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "теперь находится в полноэкранном режиме">
 <!ENTITY fullscreenWarning.generic.label "Этот документ теперь находится в полноэкранном режиме">
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "контролирует ваш указатель мыши. Нажмите Esc, чтобы вернуть себе контроль.">
-<!ENTITY pointerlockWarning.generic.label "Этот документ контролирует ваш указатель мыши. Нажмите Esc, чтобы вернуть себе контроль.">
 <!ENTITY exitDOMFullscreen.button "Выйти из полноэкранного режима (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Выйти из полноэкранного режима (esc)">
 <!ENTITY leaveDOMFullScreen.label "Выйти из полноэкранного режима">
 <!ENTITY leaveDOMFullScreen.accesskey "ы">
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "контролирует ваш указатель мыши. Нажмите Esc, чтобы вернуть себе контроль.">
+<!ENTITY pointerlockWarning.generic.label "Этот документ контролирует ваш указатель мыши. Нажмите Esc, чтобы вернуть себе контроль.">
 <!ENTITY closeWindow.label "Закрыть окно">
 <!ENTITY closeWindow.accesskey "а">
 <!ENTITY bookmarksMenu.label "Закладки">
