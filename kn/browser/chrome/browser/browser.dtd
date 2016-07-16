@@ -166,13 +166,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗು…">
 <!ENTITY addCurPagesCmd.label "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪುಟಗುರುತು ಮಾಡು...">
 <!ENTITY showAllBookmarks2.label "ಎಲ್ಲಾ ಪುಟಗುರುತುಗಳನ್ನು ತೋರಿಸು">
-
-
+<!ENTITY recentBookmarks.label "ಇತ್ತೀಚಿಗೆ ಮಾಡಲಾದ ಪುಟಗುರುತುಗಳು">
+<!ENTITY otherBookmarksCmd.label "ಇತರೆ ಪುಟಗುರುತುಗಳು">
 <!ENTITY bookmarksToolbarChevron.tooltip "ಇನ್ನಷ್ಟು ಪುಟಗುರುತುಗಳನ್ನು ತೋರಿಸು">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "ಇತ್ತೀಚಿನ ಪುಟಗುರುತುಗಳನ್ನು ತೋರಿಸು">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "ಇತ್ತೀಚಿನ ಪುಟಗುರುತುಗಳನ್ನು ಅಡಗಿಸು">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "ಹಿಂದೆ">
 <!ENTITY backButton.tooltip           "ಒಂದು ಪುಟ ಹಿಂದಕ್ಕೆ ಹೋಗು">
@@ -226,10 +226,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "ಪುಟಗುರುತುಗಳು">
-
+<!ENTITY bookmarksMenuButton.other.label "ಇತರೆ ಪುಟಗುರುತುಗಳು">
 <!ENTITY viewBookmarksSidebar2.label        "ಪುಟಗುರುತುಗಳ ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನೋಡು">
 <!ENTITY viewBookmarksToolbar.label         "ಪುಟಗುರುತುಗಳ ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನೋಡು">
 
+<!ENTITY containersMenu.label "ಸಂಗ್ರಹಾಗಾರಗಳು">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -282,9 +283,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "ಕತ್ತರಿಸು">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "ಪ್ರತಿ ಮಾಡು">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "ಅಂಟಿಸು">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -554,8 +555,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ಮೂಕವಾಗಿಸಬೇಡ">
 <!ENTITY mediaUnmute.accesskey       "m">
-
-
+<!ENTITY mediaPlaybackRate2.label     "ಚಾಲನೆಯ ವೇಗ">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
 
 
 
@@ -678,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "ಸುರಕ್ಷಿತ ಸಂಪರ್ಕ">
 <!ENTITY identity.connectionNotSecure "ಸಂಪರ್ಕವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ">
 <!ENTITY identity.connectionFile "ನಿಮ್ಮ ಗಣಕದಲ್ಲಿ ಈ ಪುಟವನ್ನು ಶೇಖರಿಸಿಡಲಾಗಿದೆ.">
-
+<!ENTITY identity.connectionVerified2 "ಈ ತಾಣಕ್ಕೆ ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕಿತಗೊಂಡಿದ್ದೀರಿ, ಇದನ್ನು ನೆಡೆಸುತ್ತಿರುವವರು:">
 <!ENTITY identity.connectionInternal "ಇದು ಸುರಕ್ಷಿತ &brandShortName; ಪುಟ">
 <!ENTITY identity.insecureLoginForms2 "ಈ ಪುಟದಲ್ಲಿ ನಮೂದಿಸಲಾದ ಲಾಗಿನ್‌ ವಿವರಗಳು ದುರ್ಬಳಕೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ.">
 <!-- Strings for connection state warnings. -->
@@ -722,7 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು">
 
 <!ENTITY syncedTabs.sidebar.label              "ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು">
-
+<!ENTITY syncedTabs.sidebar.noclients.label    "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿ ತೆರೆಯಲಾದ ಟ್ಯಾಬ್‌ಗಳನ್ನು ನೋಡಲು Firefox ಗೆ ಸೈನ್‌ ಇನ್ ಆಗಿ.">
 
 
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಸೈನ್‌ ಇನ್ ಮಾಡಿ.">
@@ -735,14 +736,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
+<!ENTITY syncedTabs.context.openInNewWindow.label            "ಹೊಸ Window ಯಲ್ಲಿ ತೆರೆ">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "W">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "ಹೊಸ Private ಕಿಟಕಿಯಲ್ಲಿ ತೆರೆ">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ಈ ಪುಟವನ್ನು ಪುಟಗುರುತು ಮಾಡು...">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-
-
+<!ENTITY syncedTabs.context.copy.label                       "ಪ್ರತಿ ಮಾಡು">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "ಸಿಂಕ್‌">
