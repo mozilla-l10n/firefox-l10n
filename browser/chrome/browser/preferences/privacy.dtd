@@ -35,12 +35,12 @@
 <!ENTITY  locbar.history.accesskey      "ป">
 <!ENTITY  locbar.bookmarks.label        "ที่คั่นหน้า">
 <!ENTITY  locbar.bookmarks.accesskey    "ค">
-<!ENTITY  locbar.openpage.label         "เปิดแท็บ">
-<!ENTITY  locbar.openpage.accesskey     "เ">
+<!ENTITY  locbar.openpage.label         "แท็บที่เปิด">
+<!ENTITY  locbar.openpage.accesskey     "แ">
 <!ENTITY  locbar.searches.label         "การค้นหาที่เกี่ยวข้องจากเครื่องมือค้นหาปริยาย">
 <!ENTITY  locbar.searches.accesskey     "ห">
 
-<!ENTITY  suggestionSettings.label      "เปลี่ยนการตั้งค่าสำหรับคำแนะนำจากเครื่องมือค้นหา…">
+<!ENTITY  suggestionSettings.label      "เปลี่ยนการตั้งค่าคำแนะนำจากเครื่องมือค้นหา…">
 <!ENTITY  suggestionSettings.accesskey  "ล">
 
 <!ENTITY  acceptCookies.label           "ยอมรับคุกกี้จากไซต์">
@@ -67,11 +67,11 @@
 <!ENTITY  historyHeader.pre.label          "&brandShortName; จะ:">
 <!ENTITY  historyHeader.pre.accesskey      "จ">
 <!ENTITY  historyHeader.remember.label     "จดจำประวัติ">
-<!ENTITY  historyHeader.dontremember.label "ไม่จดจำประวัติ">
+<!ENTITY  historyHeader.dontremember.label "ไม่จดจำประวัติเสมอ">
 <!ENTITY  historyHeader.custom.label       "ใช้การตั้งค่าที่กำหนดเองสำหรับประวัติ">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; จะจำประวัติการท่องเว็บ การดาวน์โหลด การกรอกฟอร์มและการค้นหา รวมไปถึงคุกกี้จากเว็บไซต์ที่คุณไปเยี่ยมชมเอาไว้">
+<!ENTITY  rememberDescription.label      "&brandShortName; จะจดจำประวัติการท่องเว็บ การดาวน์โหลด การกรอกฟอร์ม และการค้นหาของคุณ และเก็บคุกกี้จากเว็บไซต์ที่คุณเยี่ยมชม">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -82,7 +82,7 @@
 <!ENTITY  rememberActions.removeCookies.label "เอาคุกกี้ออกเอง">
 
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; จะใช้ค่าตั้งเดียวกับการท่องเว็บแบบส่วนตัวและจะไม่จำประวัติการท่องเว็บใด ๆ ของคุณ">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; จะใช้การตั้งค่าเดียวกับการท่องเว็บแบบส่วนตัวและจะไม่จดจำประวัติใด ๆ เมื่อคุณท่องเว็บ">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
