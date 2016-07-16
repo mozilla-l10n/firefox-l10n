@@ -43,8 +43,8 @@
 <!-- Settings Tab Panel -->
 <!ENTITY serverInfo.label             "Servera informācija">
 <!ENTITY loginInfo.label              "Pieteikšanās informācija">
-
-
+<!ENTITY siteName.label               "Vietnes nosaukums:">
+<!ENTITY siteName.accesskey           "e">
 
 
 
