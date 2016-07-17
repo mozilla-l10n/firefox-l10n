@@ -119,8 +119,8 @@
 <!ENTITY pref_category_notifications_summary "Nuevas funciones, actual. sitios web">
 <!ENTITY pref_content_notifications "Actualizaciones del sitio web">
 <!ENTITY pref_content_notifications_summary2 "Descubra nuevo contenido de los sitios admitidos">
-<!ENTITY pref_developer_remotedebugging_usb "Depuración remota mediante USB">
-<!ENTITY pref_developer_remotedebugging_wifi "Depuración remota mediante wifi">
+<!ENTITY pref_developer_remotedebugging_usb "Depuración remota USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Depuración remota wifi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "La depuración wifi requiere que su dispositivo tenga una aplicación lectora de códigos QR instalada.">
 <!ENTITY pref_remember_signons2 "Recordar credenciales">
 <!ENTITY pref_manage_logins "Administrar inicios de sesión">
