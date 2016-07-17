@@ -14,7 +14,7 @@
 <!ENTITY privatebrowsingpage.title.normal1 "ನೀವು ಖಾಸಗಿ ಜಾಲಾಟದಲ್ಲಿ ಇಲ್ಲ.">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; ನಿಮ್ಮ ಜಾಲಾಟದ ಜಾಡನ್ನು ಇರಿಸಿಕೊಳ್ಳುವ ಪುಟದ ಕೆಲವು ಭಾಗಗಳನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತಿದೆ.">
-
+<!ENTITY privatebrowsingpage.description.privateDetails "ನಾವು ಹಿಂದಿನ ಇತಿಹಾಸ ನೆನಪಿನಲ್ಲಿಡುವುದಿಲ್ಲ, ಆದರೆ ಡೌನ್ಲೋಡ್ ಮಾಡಿದ ಕಡತಗಳು ಮತ್ತು ಹೊಸ ಪುಟಗುರುತುಗಳು ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಉಳಿದುಕೊಳ್ಳುತ್ತವೆ.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
