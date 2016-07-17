@@ -8,5 +8,3 @@
 <!ENTITY selectedElementLabel "Elemento selezionato:">
 <!ENTITY togglePseudoClassPanel "Attiva/disattiva pseudoclassi">
 <!ENTITY noPropertiesFound "Nessuna proprietà CSS trovata.">
-<!ENTITY computedViewTitle "Calcolate">
-<!ENTITY ruleViewTitle "Regole">
