@@ -89,6 +89,8 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
 
+<!ENTITY performanceUI.showJITOptimizations             "Afichar l&amp;s optimizacions JIT">
+
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
@@ -115,4 +117,4 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
-
+<!ENTITY performanceUI.console.stopCommandEnd   "dins la consòla.">
