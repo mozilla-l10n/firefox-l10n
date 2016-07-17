@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchreset.tabtitle       "Restablir los paramètres de recèrca">
+
+<!ENTITY searchreset.pageTitle      "Restablir vòstres paramètres de recèrca ?">
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
@@ -13,6 +16,8 @@ their language. -->
 <!ENTITY searchreset.afterlink.pageInfo2  ".">
 
 
+<!ENTITY searchreset.noChangeButton        "Cambiar pas">
+<!ENTITY searchreset.noChangeButton.access "D">
 
-
-
+<!ENTITY searchreset.changeEngineButton        "Cambiar los motors de recèrca">
+<!ENTITY searchreset.changeEngineButton.access "C">

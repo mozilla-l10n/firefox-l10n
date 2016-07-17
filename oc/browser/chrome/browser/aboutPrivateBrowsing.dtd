@@ -9,14 +9,14 @@
 <!ENTITY privateBrowsing.title                           "Navigacion privada">
 
 
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "enregistra pas">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "paginas visitadas">
 <!ENTITY aboutPrivateBrowsing.info.searches              "Recèrcas">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Fichièrs temporaris">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
-
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "enregistrarà">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " vòstre :">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Telecargaments">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Marcapaginas">
