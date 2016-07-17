@@ -24,8 +24,8 @@
 <!ENTITY account.moveup.label         "Siirrä ylös">
 <!ENTITY account.movedown.label       "Siirrä alas">
 <!ENTITY account.cancelReconnection.label         "Keskeytä uudelleenyhdistäminen">
-<!ENTITY account.copyDebugLog.label     "Kopioi vikasietoloki">
-<!ENTITY account.showDebugLog.label     "Näytä vikasietoloki">
+<!ENTITY account.copyDebugLog.label     "Kopioi virheenpaikannusloki">
+<!ENTITY account.showDebugLog.label     "Näytä virheenpaikannusloki">
 <!ENTITY account.connecting           "Yhdistetään…">
 <!ENTITY account.disconnecting        "Katkaistaan yhteyttä…">
 <!ENTITY account.disconnected         "Ei yhdistetty">
