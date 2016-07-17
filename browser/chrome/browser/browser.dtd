@@ -42,6 +42,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Relâcher l’onglet">
 <!ENTITY  unpinTab.accesskey                 "R">
+<!ENTITY  sendTabToDevice.label              "Envoyer l’onglet à un appareil">
+<!ENTITY  sendTabToDevice.accesskey          "v">
+<!ENTITY  sendPageToDevice.label             "Envoyer la page à un appareil">
+<!ENTITY  sendPageToDevice.accesskey         "v">
+<!ENTITY  sendLinkToDevice.label             "Envoyer le lien à un appareil">
+<!ENTITY  sendLinkToDevice.accesskey         "v">
 <!ENTITY  moveToNewWindow.label              "Déplacer vers une nouvelle fenêtre">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Marquer tous les onglets…">
