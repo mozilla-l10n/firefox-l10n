@@ -765,11 +765,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "ಆಡ್-ಆನ್‌ಗಳು">
 <!ENTITY restrictable_feature_addons_installation_description "Firefoxಗೆ ವೈಶಿಷ್ಟ್ಯತೆಗಳನ್ನು ಅಥವಾ ಕಾರ್ಯಶೀಲತೆಗಳನ್ನು ಸೇರಿಸಿ: ಗಮನಿಸಿ: ಆಡ್-ಆನ್‌ಗಳು ಕೆಲವು ಅಡೆತಡೆಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಬಲ್ಲವು.">
 <!ENTITY restrictable_feature_private_browsing "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
-
+<!ENTITY restrictable_feature_private_browsing_description "ಕುಟುಂಬದ ಸದಸ್ಯರನ್ನು ತಾವು ಭೇಟಿ ನೀಡುವ ತಾಣಗಳ ಮತ್ತು ಪುಟಗಳ ಮಾಹಿತಿ ಉಳಿಸದೆ ಜಾಲಾಡುವುದನ್ನು ಅನುಮತಿಸಿ.">
 <!ENTITY restrictable_feature_clear_history "ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು">
-
+<!ENTITY restrictable_feature_clear_history_description "ಕುಟುಂಬದ ಸದಸ್ಯರನ್ನು ತಾವು ಭೇಟಿ ನೀಡುವ ತಾಣಗಳ ಮತ್ತು ಪುಟಗಳ ಮಾಹಿತಿ ಅಳಿಸುವುದನ್ನು ಅನುಮತಿಸಿ.">
 <!ENTITY restrictable_feature_advanced_settings "ಸುಧಾರಿತ ಸಿದ್ಧತೆಗಳು">
-
+<!ENTITY restrictable_feature_advanced_settings_description "ಇದು ಪುಟಗುರುತುಗಳನ್ನು ಆಮದುಮಾಡುವುದು, ಟ್ಯಾಬ್‍‍‍ಗಳನ್ನು ಮರಳಿಸುವುದು ಮತ್ತು ಸ್ವಯಂಚಾಲಿತ ಪರಿಷ್ಕರಣೆಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ. ಯಾವುದೇ ಕುಟುಂಬದ ಸದಸ್ಯರಿಗೆ ಸರಳೀಕರಿಸಿದ ಸಿದ್ಧತೆಗಳಿಗೆ ಇದನ್ನು ಆಫ್ ಮಾಡಿ.">
 <!ENTITY restrictable_feature_camera_microphone "ಕ್ಯಾಮೆರಾ &amp; ಮೈಕ್ರೋಫೋನ್">
 
 <!ENTITY restrictable_feature_block_list "‌‍ನಿಬಂಧಿಸಿದ ಪಟ್ಟಿ">
