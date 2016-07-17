@@ -20,6 +20,12 @@
 <!ENTITY pinTab.accesskey "h">
 <!ENTITY unpinTab.label "Sblocca scheda">
 <!ENTITY unpinTab.accesskey "h">
+<!ENTITY sendTabToDevice.label "Invia scheda a dispositivo">
+<!ENTITY sendTabToDevice.accesskey "d">
+<!ENTITY sendPageToDevice.label "Invia pagina a dispositivo">
+<!ENTITY sendPageToDevice.accesskey "d">
+<!ENTITY sendLinkToDevice.label "Invia link a dispositivo">
+<!ENTITY sendLinkToDevice.accesskey "d">
 <!ENTITY moveToNewWindow.label "Sposta in una nuova finestra">
 <!ENTITY moveToNewWindow.accesskey "f">
 <!ENTITY bookmarkAllTabs.label "Tutte le schede nei segnalibri…">
