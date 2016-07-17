@@ -344,6 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "ಸಿಂ ಮಾಡಿದ ಹಾಳೆಗಳಿಲ್ಲ…ಇನ್ನೂ!">
 
 <!ENTITY appMenuRemoteTabs.openprefs.label "ಸಿಂಕ್‌ನ ಆದ್ಯತೆಗಳು">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಸೈನ್‌ ಇನ್ ಮಾಡಿ.">
