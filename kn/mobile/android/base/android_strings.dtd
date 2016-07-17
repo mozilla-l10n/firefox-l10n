@@ -31,9 +31,12 @@
 
 <!ENTITY firstrun_readerview_title "ಲೇಖನಗಳು">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-
+<!ENTITY firstrun_readerview_message "ಕಗ್ಗಂಟನ್ನು ಸಡಿಲಿಸಿ">
+<!ENTITY firstrun_readerview_subtext "ಆಫ್‍‍ಲೈನ್‍ನಲ್ಲೂ ಲೇಖನಗಳನ್ನು ಉತ್ತಮವಾಗಿ ಓದುವಂತೆ \u2014 ಮಾಡಲು ಓದುಗ ನೋಟವನ್ನು ಬಳಸಿ.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!ENTITY firstrun_account_title "ನೀವು">
+<!ENTITY firstrun_account_message "ಬೇರಾವುದಾದರೂ ಸಾಧನದಲ್ಲಿ &brandShortName; ಇದೆಯೇ?">
 
 <!ENTITY  onboard_start_restricted1 "‍ಸರಳಗೊಳಿಸಿರುವ ‍&brandShortName; ಆವೃತ್ತಿಯಿಂದ ಸುರಕ್ಷಿತವಾಗಿರಿ ಮತ್ತು ಹತೋಟಿಯಲ್ಲಿರಿ.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -70,10 +73,11 @@
 <!ENTITY bookmark_removed "ಬುಕ್‌ಮಾರ್ಕನ್ನು ತೆಗೆಯಲಾಗಿದೆ">
 <!ENTITY bookmark_updated "ಬುಕ್‌ಮಾರ್ಕ್ ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ">
 <!ENTITY bookmark_options "ಆಯ್ಕೆಗಳು">
-
+<!ENTITY screenshot_added_to_bookmarks "ಪುಟಗುರುತುಗಳಿಗೆ ಸ್ಕ್ರೀನ್ಶಶಾಟ್ ಸೇರಿಸಲಾಗಿದೆ">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "ತೆರೆಚಿತ್ರಗಳು">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "ಓದಬೇಕಿರುವ ಪಟ್ಟಿ">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
@@ -163,7 +167,7 @@
 <!ENTITY overlay_no_synced_devices "Firefox ಖಾತೆ ಸಂಪರ್ಕಿತಗೊಂಡಿರುವ ಸಾಧನಗಳು ಕಂಡುಬಂದಿಲ್ಲ">
 
 <!ENTITY pref_category_search3 "ಹುಡುಕು">
-
+<!ENTITY pref_category_search_summary2 "ಸೇರಿಸು, ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ಹೊಂದಿಸು, ಸೂಚನೆಗ‌ಳನ್ನು ತೋರಿಸು">
 <!ENTITY pref_category_accessibility "ಸುಲಭಲಭ್ಯತೆ">
 <!ENTITY pref_category_accessibility_summary2 "ಪಠ್ಯದ ಗಾತ್ರ, ಹಿಗ್ಗಿಸು/ಕುಗ್ಗಿಸು, ಧ್ವನಿ ಊಡಿಕೆ">
 <!ENTITY pref_category_privacy_short "ಗೌಪ್ಯತೆ">
@@ -190,9 +194,9 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ಟ್ಯಾಬ್‌ಗಳನ್ನು, ದತ್ತಾಂಶ ಉಳಿಕೆ, ಡೆವೆಲಪರ್ ಸಲಕರಣೆಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ">
 <!ENTITY pref_category_notifications "ಸೂಚನೆಗಳು">
-
+<!ENTITY pref_category_notifications_summary "ಹೊಸ ವೈಶಿಷ್ಟ್ಯತೆಗಳು, ಜಾಲತಾಣ ಪರಿಷ್ಕರಣೆಗಳು">
 <!ENTITY pref_content_notifications "ತಾಣದ ಪರಿಷ್ಕರಣೆಗಳು">
-
+<!ENTITY pref_content_notifications_summary2 "ಬೆಂಬಲಿತ ತಾಣಗಳಿಂದ ಬರುವ ಹೊಸ ವಿಷಯಗಳನ್ನು ಶೋಧಿಸು">
 <!ENTITY pref_developer_remotedebugging_usb "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್ USB ಮೂಲಕ">
 <!ENTITY pref_developer_remotedebugging_wifi "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್ Wi-Fi ಮೂಲಕ">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ವೈ-ಫೈ ಡೀಬಗಿಂಗ್‌ಗೆ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ‌QR ಕೋಡ್ ರೀಡರ್ ಅಪ್ ಸ್ಥಾಪಿತಗೊಂಡಿರಬೇಕು.">
@@ -229,7 +233,7 @@
 <!ENTITY pref_header_search "ಹುಡುಕು">
 <!ENTITY pref_header_privacy_short "ಗೌಪ್ಯತೆ">
 <!ENTITY pref_header_accessibility "ಸುಲಭಲಭ್ಯತೆ">
-
+<!ENTITY pref_header_notifications "ಸೂಚನೆಗಳು">
 <!ENTITY pref_header_advanced "ಸುಧಾರಿತ">
 <!ENTITY pref_header_help "ಸಹಾಯ">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -252,7 +256,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "ನಿರ್ಬಂಧಿಸಲಾದ">
 
 <!ENTITY pref_show_web_fonts "ವೆಬ್ ಫಾಂಟ್‌ಗಳನ್ನು ತೋರಿಸು">
-
+<!ENTITY pref_show_web_fonts_summary2 "ಪುಟವನ್ನು ತುಂಬಿಸುವಾಗ ದೂರದ ಅಕ್ಷರ ಶೈಲಿಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿಕೊ">
 
 <!ENTITY pref_tracking_protection_title2 "ಜಾಡು ಇರಿಸುವಿಕೆ ಇಂದ ರಕ್ಷಣೆ">
 <!ENTITY pref_tracking_protection_summary3 "ಖಾಸಗಿ ವೀಕ್ಷಣೆಯಲ್ಲಿ ಸಕ್ರಿಯಗೊಳಿಸು">
@@ -264,7 +268,7 @@
 <!ENTITY pref_tracking_protection_disabled "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 
 <!ENTITY pref_whats_new_notification "&brandShortName; ನಲ್ಲಿ ಹೊಸತೇನಿದೆ">
-
+<!ENTITY pref_whats_new_notification_summary "ಪರಿಷ್ಕರಣೆಯ ನಂತರ ಹೊಸ ವೈಶಿಷ್ಟ್ಯತೆಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ">
 
 <!ENTITY tracking_protection_prompt_title "ಈಗ ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ ಜೊತೆಗೆ">
 <!ENTITY tracking_protection_prompt_text "ಸಕ್ರಿಯವಾಗಿ ಜಾಡುಹಿಡಿಯುವ ಅಂಶಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ ನೀವು ಚಿಂತಿಸುವುದನ್ನು ಬಿಡಬಹುದು.">
@@ -303,13 +307,17 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; ಜಾಲತಾಣಗಳನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "ಸಿದ್ಧತೆಗಳು">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "ಈಗ ಓದು">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "&formatS; ಮೇಲೆ ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ">
 
 <!ENTITY pref_char_encoding "ಅಕ್ಷರದ ಎನ್ಕೋಡಿಂಗ್">
 <!ENTITY pref_char_encoding_on "ಪರಿವಿಡಿ ತೋರಿಸು">
@@ -323,7 +331,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "ಯಾವ ಡೇಟಾ ತೆರವುಗೊಳಿಸಬೇಕು ಆಯ್ಕೆಮಾಡು">
 <!ENTITY pref_plugins "ಪ್ಲಗ್‌ಇನ್‌ಗಳು">
 <!ENTITY pref_plugins_enabled "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
-
+<!ENTITY pref_plugins_tap_to_play2 "ಆಡಲು ತಟ್ಟಿ">
 <!ENTITY pref_plugins_disabled "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY pref_text_size "ಪಠ್ಯದ ಗಾತ್ರ">
 <!ENTITY pref_restore_tabs "ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸು">
@@ -439,12 +447,12 @@ size. -->
 <!ENTITY share_image_failed "ಈ ಚಿತ್ರವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 <!ENTITY save_as_pdf "PDF ನಂತೆ ಉಳಿಸಿ">
 <!ENTITY print "ಮುದ್ರಿಸು">
-
-
+<!ENTITY find_in_page "ಪುಟದಲ್ಲಿ ಹುಡುಕು">
+<!ENTITY desktop_mode "ಡೆಸ್ಕ್‌ಟಾಪ್ ತಾಣವನ್ನು ಕೇಳಿ">
 <!ENTITY page "ಪುಟ">
 <!ENTITY tools "ಸಾಧನಗಳು">
-
-
+<!ENTITY new_tab "ಹೊಸ ಟ್ಯಾಬ್">
+<!ENTITY new_private_tab "ಹೊಸ ಖಾಸಗಿ ಟ್ಯಾಬ್">
 <!ENTITY close_all_tabs "ಎಲ್ಲ ಟ್ಯಾಬ್‍ಗಳನ್ನು ಮುಚ್ಚು">
 <!ENTITY close_private_tabs "ಖಾಸಗಿ ಹಾಳೆಗಳನ್ನು ಮುಚ್ಚು">
 <!ENTITY tabs_normal "ಟ್ಯಾಬ್‌ಗಳು">
@@ -454,6 +462,8 @@ size. -->
 <!ENTITY set_image_chooser_title "ಚಿತ್ರವನ್ನು ಹೀಗೆ ಉಳಿಸು">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "ಪುಟದಲ್ಲಿ ಹುಡುಕು">
 <!ENTITY find_prev "ಹಿಂದಿನ">
 <!ENTITY find_next "ಮುಂದೆ">
 <!ENTITY find_close "ಮುಚ್ಚು">
@@ -552,10 +562,11 @@ size. -->
 
 <!ENTITY home_title "‍&brandShortName; ಮುಖಪುಟ">
 <!ENTITY home_history_title "ಇತಿಹಾಸ">
-
-
+<!ENTITY home_synced_devices_smartfolder "ಸಿಂಕ್ ಮಾಡಲಾದ ಸಾಧನಗಳು">
+<!ENTITY home_synced_devices_number "&formatD; ಸಾಧನಗಳು">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-
+<!ENTITY home_synced_devices_one "೧ ಸಾಧನ">
+<!ENTITY home_history_back_to2 "ಪೂರ್ಣ ಇತಿಹಾಸಕ್ಕೆ ಮರಳು">
 <!ENTITY home_clear_history_button "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ">
 <!ENTITY home_clear_history_confirm "ನೀವು ಇತಿಹಾಸವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲು ಬಯಸಿದ್ದು ಖಚಿತವೆ?">
 <!ENTITY home_bookmarks_empty "ನೀವು ಉಳಿಸುವ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.">
@@ -788,9 +799,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "ಮುಖ್ಯ ತೆರೆಗೆ ಸೇರಿಸು">
 
+<!ENTITY helper_first_offline_bookmark_title "ಆಫ್‍‌‍ಲೈನ್ ಓದು">
 
+<!ENTITY helper_first_offline_bookmark_button "ಪುಟಗುರುತುಗಳಿಗೆ ಸಾಗು">
 
+<!ENTITY helper_triple_readerview_open_title "ಆಫ್‍‍ಲೈನ್ ಲಭ್ಯವಿದೆ">
 
-
-
+<!ENTITY helper_triple_readerview_open_button "ಪುಟಗುರುತುಗಳಿಗೆ ಸಾಗು">
 
