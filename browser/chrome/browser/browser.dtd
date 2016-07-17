@@ -348,6 +348,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "సింక్ చేయబడిన ట్యాబ్లు లేవు... ఇంకా!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "ఇక్కడ ఇతర పరికరాల నుండి మీ టాబ్లు చూడాలనుకుంటున్నారా?">
+<!ENTITY appMenuRemoteTabs.openprefs.label "సింక ప్రాధాన్యతలు">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి సైన్ ఇన్ అవ్వండి.">
+<!ENTITY appMenuRemoteTabs.signin.label "సింక్ లోనికి ప్రవేశించండి">
+<!ENTITY appMenuRemoteTabs.sidebar.label "సింక్ చేయబడిన టాబ్లు సైడ్బార్ చూడండి">
 
 <!ENTITY customizeMenu.addToToolbar.label "పనిముట్లపట్టీకి జతచేయి (A)">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -454,6 +460,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "ఫ్రేమ్ ని కొత్త విండోనందు తెరువుము">
 <!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openLinkCmdInContainerTab.label "లింకును కొత్త కంటైనర్ ట్యాబ్లో తెరువండి">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "ఈ ఫ్రేమ్ ను మాత్రమే చూపుము">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -674,6 +682,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "ఈ పేజీ మీ కంప్యూటర్ నందు వుంచబడును.">
 <!ENTITY identity.connectionVerified1 " ఈ సైటుకు మీరు సురక్షితంగా అనుసంధానమయ్యారు, సైటుని నడుపుతోంది:">
 <!ENTITY identity.connectionInternal "ఇది సురక్షిత &brandShortName; పేజీ.">
+<!ENTITY identity.insecureLoginForms2 "ఈ పేజీలోని ప్రవేశించిన లాగిన్ లు రాజీపడతాయి.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "సురక్షితంకాని భాగాలను &brandShortName; ఈ పేజీనందు నిరోధించినది.">
@@ -685,6 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "ఈ సైటుకు మీరు గుట్టుగా అనుసంధానం కావడంలేదు. మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డ్స్, మొదలగునవి).">
 <!ENTITY identity.description.insecureLoginForms "ఈ పేజీలో మీరు అందించిన లాగిన్ సమాచారం సురక్షితంకాదు మరియు రాజీపడవచ్చు.">
 <!ENTITY identity.description.weakCipher "ఈ వెబ్‌సైటుతో మీ అనుసంధానం బలహీనమైన ఎన్క్రిప్షన్‌తో వుంది మరియు గుట్టుగా లేదు.">
+<!ENTITY identity.description.weakCipher2 "ఇతరులు మీ సమాచారం చూడగలరు లేదా వెబ్‌సైట్ పనితీరుని మార్చగలరు.">
 <!ENTITY identity.description.activeBlocked "సురక్షితంకాని భాగాలను &brandShortName; ఈ పేజీలో నిరోధించినది.">
 <!ENTITY identity.description.passiveLoaded "ఈ సైటుకు మీరు గుట్టుగా అనుసంధానం కావడం మరియు మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు.">
 <!ENTITY identity.description.passiveLoaded2 "ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్ కలిగివుంది (చిత్రాలు వంటివి).">
@@ -698,6 +708,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "మరింత తెలుసుకోండి">
 
+<!ENTITY identity.removeCertException.label "ఎక్సెప్షన్ ను తొలగించు">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "మరింత సమాచారం">
 
@@ -711,9 +723,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "సింకైన ట్యాబులు">
 
+<!ENTITY syncedTabs.sidebar.label              "సింకైన ట్యాబులు">
+<!ENTITY syncedTabs.sidebar.noclients.label    "ఇక్కడ వారి టాబులు వీక్షించడానికి మీ ఇతర పరికరాల నుండి ఫైర్ఫాక్స్ సైన్ ఇన్ చేయండి.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "సింక్ చేయబడిన ట్యాబ్లు లేవు... ఇంకా!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "ఇక్కడ ఇతర పరికరాల నుండి మీ టాబ్లు చూడాలనుకుంటున్నారా?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి సైన్ ఇన్ అవ్వండి.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "తెరిచివున్న ట్యాబులు లేవు">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; ప్రాధాన్యతలు తెరవండి">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "మీ ఇతర పరికరాల నుండి ట్యాగ్ల జాబితాను వీక్షించడానికి టాబ్ సింక్ ను ఆన్ చేయండి.">
 
+<!ENTITY syncedTabs.context.open.label                       "తెరువు">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "కొత్త టాబ్‌నందు తెరువుము">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "కొత్త విండోనందు తెరువుము">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "కొత్త ప్రైవేట్ విండోలో తెరువు">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ఈ టాబ్ బుక్మార్క్ చెయ్యి...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "కాపీ చేయి">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "సింక్">
