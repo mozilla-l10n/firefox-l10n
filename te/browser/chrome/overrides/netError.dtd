@@ -9,8 +9,8 @@
 <!ENTITY retry.label "మరలా ప్రయత్నించు">
 <!ENTITY returnToPreviousPage.label "వెనక్కి వెళ్ళు">
 <!ENTITY advanced.label "ఉన్నతం">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "సంధానం సాధ్యం కావడంలేదు">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -19,23 +19,44 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "సేవిక కనబడలేదు">
-
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>టైపింగ్ లోపం ఉన్న చిరునామాలు వంటివి వెతకు
+    <strong>ww</strong>.example.com బదులుగా
+    <strong>www</strong>.example.com</li>
+  <li>మీరు ఏ పేజీలు లోడ్ పోతే, మీ కంప్యూటర్ యొక్క నెట్వర్క్ కనెక్షన్ను 
+తనిఖీ.</li>
+  <li>మీ కంప్యూటర్ లేదా నెట్వర్క్కు ఒక ఫైర్వాల్ లేదా ప్రాక్సీ ద్వారా రక్షించబడింది ఉంటే, ఖచ్చితంగా ఆ &brandShortName; వెబ్ యాక్సెస్ అనుమతి ఉంది</li>
+</ul>">
 
 <!ENTITY fileNotFound.title "ఫైల్  కనబడ లేదు">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ఫైల్  యొక్క కేపిటలైజేషన్ లేదా ఇతర టైపింగ్ తప్పును పరిశీలించండి.</li> <li>ఒకవేళ ఫైల్  కదల్చబడిందో,పునఃనామకరణ చేయబడిందో లేక తొలిగించబడిందో  పరిశీలించి చూడండి.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "ఫైలు యొక్క ఆక్సెస్ తిరస్కరించబడింది">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>దీన్ని తీసివేసి ఉండవచ్చు, తరలించి లేదా ఫైల్ అనుమతులు ప్రాప్యతను నిరోధిస్తుండవచ్చు.</li>
+</ul>
+">
 
 <!ENTITY generic.title "అయ్యో.">
+<!ENTITY generic.longDesc "<p>&brandShortName; ఏదోఒక కారణం వలన ఈ పేజీని లోడు చేయలేకపోతోంది.</p>">
 
-
-
+<!ENTITY malformedURI.title "ఈ చిరునామా సరైనది కాదు">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>వెబ్ చిరునామాలు సాధారణంగా ఇలా రాయబడుతాయి
+    <strong>http://www.example.com/</strong></li>
+  <li>మీరు ముందు స్లాష్లు వాడుతున్నారని నిశ్చయించుకోండి (i.e.
+    <strong>/</strong>).</li>
+</ul>
+">
 
 <!ENTITY netInterrupt.title "అనుసంధానంకు  భంగంకలిగింది">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "పత్రము గడువుతీరినది">
-
+<!ENTITY notCached.longDesc "<p>అభ్యర్దించిన పత్రము &brandShortName; యొక్క క్యాచీనందు అందుబాటులో లేదు.</p><ul><li> భద్రత కొరకు ముందస్తుజాగ్రత్తగా, &brandShortName; అనునది సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.</li><li>వెబ్‌సైట్ నుండి పత్రమును తిరిగి-అభ్యర్ధించుటకు మరలా ప్రయత్నించు నొక్కుము.</li></ul>">
 
 <!ENTITY netOffline.title "ఆఫ్‌లైన్ రీతి">
 <!ENTITY netOffline.longDesc2 "<ul> <li>ఆన్‌లైన్ రీతినకు మారి పేజీను తిరిగి లోడ్ చేయుటకు  &quot;మరలా ప్రయత్నించు&quot; వత్తుము.</li> </ul>">
@@ -52,6 +73,7 @@
 <!ENTITY netTimeout.title "అనుసంధానం సమయం అయిపోయింది.">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "ఆ చిరునామా అర్థం కాలేదు">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>ఈచిరునామాను తెరువుటకు మీరు వేరే సాఫ్టువేరును స్థాపించుకోవలిసిన అవసరం ఉండవచ్చు.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "ఆప్రోక్సీ సేవిక అనుసంధానాలను తిరస్కరిస్తోంది.">
@@ -60,17 +82,28 @@
 <!ENTITY proxyResolveFailure.title "ప్రోక్సీ సేవికను కనుగొనలేక పోయింది.">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>ప్రోక్సీ అమరికలు ఖచ్చితంగా సరైనవిగా ఉండునట్లు చేయుటకు పరిశీలించండి.</li> <li>మీ కంప్యూటర్ ఖచ్చితంగా పనిచేస్తున్న నెట్వర్క్  అనుసంధానం కలిగివుండునట్లు చేయుటకు పరిశీలించండి.</li> <li>మీ కంప్యూటర్గాని లేక నెట్వర్క్ గాని  ఫైర్‌వాల్ లేక ప్రోక్సీ చేత రక్షించబడుతుంటే, ఖచ్చితంగా  &brandShortName; వెబ్ వాడుకొనే అనుమతి  వుండునట్లు చూసుకోండి.</li> </ul>">
 
+<!ENTITY redirectLoop.title "పేజీ సరిగా తిరిగిపంప బడుటలేదు">
 <!ENTITY redirectLoop.longDesc "<ul> <li>ఈ సమస్య కు కారణం కొన్ని సమయాల్లో కుకీలఆమోదింపును అచేతనం చేయుటంకాని లేక తిరస్కరించుటకాని కావచ్చు.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "సేవికనుండి అనుకోని స్పందన">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>మీ సిస్టము నందు ఖచ్చితంగా వ్యక్తిగత రక్షణ నిర్వాహకి సంస్థాపించి వుండునట్లు చేయుటకు పరిశీలించండి.</li> <li>ఇది సేవికనందుగల ప్రామాణికం-కాని ఆకృతీకరణ వలన కావచ్చు.</li> </ul>">
 
+<!ENTITY nssFailure2.title "రక్షిత అనుసంధానం విఫలమైంది">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>మీరు దర్శించుటకు ప్రయత్నిస్తున్న పేజీ చూపబడబడదు ఎంచేతంటే అందినటువంటి సమాచారంయొక్క ధృవీకరణం నిర్ధారించబడిలేదు.</li> <li>దయచేసి వెబ్‌సైటు యజమానులను సంప్రదించి ఈ సమస్యగురించి తెలియజెప్పండి.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "మీ కనెక్షన్ సురక్షితమైనది కాదు">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/> యొక్క యజమాని సరిగ్గా వారి వెబ్సైట్ కాన్ఫిగర్ చేయలేదు. దొంగతనం నుండి మీ సమాచారాన్ని రక్షించడానికి, &brandShortName; ఈ వెబ్సైట్ కనెక్ట్ కాలేదు.">
 
+<!ENTITY sharedLongDesc "<ul> 
+<li>సైటు తాత్కాలికంగా అందుబాటులో  వుండివుండకపోవచ్చు  లేదా  వత్తిడిలో వుండివుండవచ్చు. కాసేపు ఆగి 
+ప్రయత్నించండి.</li> 
+<li>మీరు ఏ పేజీలను లోడు చేయలేక పోతుంటే, మీ కంప్యూటర్ యొక్క నెట్వర్క్  అనుసంధానంను 
+సరిచూసుకోండి.</li>
+<li>మీరు కంప్యూటర్గాని లేక నెట్వర్క్ గాని  ఫైర్‌వాల్ లేక ప్రోక్సీ  చేత రక్షించబడుతుంటే, ఖచ్చితంగా  &brandShortName; వెబ్ వాడుకొనే అనుమతి  ఉండునట్లు చూసుకోండి.</li> 
+</ul>">
 
 <!ENTITY cspBlocked.title "కాంటెంట్ రక్షణ విధానము చేత నిలిపివేయబడెను">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; యీ పేజీను యీ మార్గములో లోడగుటనుండి నిరోధిస్తోంది యెంచేతంటే యీ పేజీ కాంటెంట్ రక్షణ విధానమును కలిగివుంది అది దీనిని అనుమతించుటలేదు.</p>">
@@ -81,6 +114,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "మినహాయింపును చేర్చు…">
 
+<!ENTITY errorReporting.automatic2 "ఈ లోపాలు వంటి రిపోర్ట్ మొజిల్లా గుర్తించడానికి సహాయంగా మరియు హానికరమైన సైట్లను బ్లాక్ చేస్తుంది">
 <!ENTITY errorReporting.learnMore "మరింత తెలుసుకోండి…">
 
 <!ENTITY remoteXUL.title "రిమోట్ XUL">
@@ -91,6 +125,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ఉన్నత సమాచారం: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "మీ కనెక్షన్ సురక్షితమైనది కాదు">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "ఉన్నత సమాచారం: SSL_ERROR_NO_CYPHER_OVERLAP">
@@ -98,8 +133,11 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> పాతబడిన, దాడులకు అనువైన భద్రతా సాంకేతికను వాడుతోంది. మీరు భద్రం అనుకున్న సమాచారాన్ని అటాకర్లు తేలిగ్గా బయల్పరచగలరు.">
 <!ENTITY weakCryptoAdvanced.override "(సురక్షితం కాదు) <span class='hostname'></span>ను పాతబడిన భద్రతను వాడి తెరువు">
 
+<!ENTITY certerror.pagetitle1  "అసురక్ష కనెక్షన్">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ఈ సైట్ HTTP  స్ట్రిక్ట్ ట్రాన్స్‌పోర్ట్ సెక్యూరిటీ (HSTS) ఉపయోగించి &brandShortName; దానికి సురక్షితంగా మాత్రమే అనుసంధానమవునని తెలుపును. ఫలితంగా, ఈ దృవీకరణపత్రంకు ఆక్షేపణను జతచేయడం సాధ్యంకాదు.">
+<!ENTITY certerror.copyToClipboard.label "పాఠంను క్లిప్‌బోర్డునకు నకలుతీయుము">
 
-
-
+<!ENTITY inadequateSecurityError.title "మీ కనెక్షన్ సురక్షితమైనది కాదు">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> కాలం చెల్లిన మరియు దాడికి దుర్భలంగా అని భద్రతా సాంకేతికత ఉపయోగిస్తుంది. దాడి చేసినవారు సులభంగా మీరు సురక్షితంగా భావించిన సమాచారాన్ని బహిర్గతం కాలేదు. వెబ్సైట్ నిర్వాహకుడు మీరు సైట్ సందర్శించండి ముందు మొదటి సర్వర్ పరిష్కరించడానికి అవసరం.</p><p>లోపం కోడ్: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

@@ -2,7 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title                 "ట్రాక్ చెయ్యవద్దు">
+<!ENTITY window.width                 "40em">
+<!ENTITY window.height                "8em">
 
+<!ENTITY doNotTrackCheckbox.label     "ట్రాక్ చెయ్యవద్దుని ఉపయోగించు">
+<!ENTITY doNotTrackCheckbox.accesskey "U">
 
-
-
+<!ENTITY doNotTrackLearnMore.label    "మరింత తెలుసుకోండి">
