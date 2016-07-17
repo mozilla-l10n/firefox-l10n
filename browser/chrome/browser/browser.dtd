@@ -558,20 +558,21 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.label     "ಚಾಲನೆಯ ವೇಗ">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate050x2.label "ನಿಧಾನ (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "ಸಾಧಾರಣ">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "ವೇಗ (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
 
 
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "ಅತ್ಯಂತ ವೇಗ (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "ಲೂಪ್">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -725,7 +726,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು">
 <!ENTITY syncedTabs.sidebar.noclients.label    "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿ ತೆರೆಯಲಾದ ಟ್ಯಾಬ್‌ಗಳನ್ನು ನೋಡಲು Firefox ಗೆ ಸೈನ್‌ ಇನ್ ಆಗಿ.">
-
+<!ENTITY syncedTabs.sidebar.noclients.title    "ಸಿಂ ಮಾಡಿದ ಹಾಳೆಗಳಿಲ್ಲ…ಇನ್ನೂ!">
 
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಸೈನ್‌ ಇನ್ ಮಾಡಿ.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "ಯಾವುದೆ ತೆರೆದ ಟ್ಯಾಬ್‌ಗಳಿಲ್ಲ">
@@ -734,9 +735,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಿಂದ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಟ್ಯಾಬ್‌ ಸಿಂಕ್ ಮಾಡುವಿಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.">
 
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "ತೆರೆ">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.openInNewTab.label               "ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "ಹೊಸ Window ಯಲ್ಲಿ ತೆರೆ">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "W">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "ಹೊಸ Private ಕಿಟಕಿಯಲ್ಲಿ ತೆರೆ">
