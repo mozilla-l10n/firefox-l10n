@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "ట్రబుల్‌షూటింగ్ సమాచారము">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  మీరు వొక సమస్యను పరిష్కరించుటకు ప్రయత్నించునప్పుడు మీకు వుపయోగవంతంగా వుండగల సాంకేతిక సమాచారమును యీ పేజీ కలిగివుంటుంది. మీరు &brandShortName; గురించిన వుమ్మడి ప్రశ్నలకు సమాధానముల కొరకు చూస్తుంటే, మా <a id='supportLink'>తోడ్పాటు వెబ్ సైట్</a> చూడండి.">
 
 <!ENTITY aboutSupport.crashes.title "క్రాష్ నివేదికలు">
@@ -28,15 +28,15 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "క్రియాశీలం">
 <!ENTITY aboutSupport.experimentEndDate "ముగింపు తేది">
 <!ENTITY aboutSupport.experimentHomepage "నివాసపేజీ">
-
+<!ENTITY aboutSupport.experimentBranch "శాఖ">
 
 <!ENTITY aboutSupport.appBasicsTitle "అనువర్తనం ప్రాధమికాలు">
 <!ENTITY aboutSupport.appBasicsName "పేరు">
 <!ENTITY aboutSupport.appBasicsVersion "రూపాంతరం">
+<!ENTITY aboutSupport.appBasicsBuildID "బిల్డ్ ID">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "నవీకరణ ఛానల్">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "తాజాకరణ చరిత్ర">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "తాజాకరణ చరిత్రను చూపించు">
@@ -50,13 +50,17 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "చేతనపరచిన చొప్పింతలు">
 <!ENTITY aboutSupport.appBasicsBuildConfig "నిర్మామ ఆకృతీకరణ">
 <!ENTITY aboutSupport.appBasicsUserAgent "వాడుకరి ప్రతినిధి">
-
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "మెమొరీ వినియోగం">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "నమోదైన సర్వీస్ వర్కర్స్">
+
+<!ENTITY aboutSupport.appBasicsProfiles "ప్రొఫైల్స్">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "మల్టీప్రోసెస్ విండోలు">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "సురక్షిత రీతి">
 
 <!ENTITY aboutSupport.showDir.label "నిఘంటువు తెరువు">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -70,8 +74,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "ముఖ్యంగా సవరించిన అభీష్టాలు">
 <!ENTITY aboutSupport.modifiedPrefsName "పేరు">
 <!ENTITY aboutSupport.modifiedPrefsValue "విలువ">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js అభిరుచులు">
 <!ENTITY aboutSupport.userJSDescription "మీ ప్రొఫైల్ ఫోల్డర్ వొక <a id='prefs-user-js-link'>user.js ఫైలు</a> కలిగివుంది, అది &brandShortName; చే సృష్టించబడని అభీష్టాలను కలిగివుంటుంది.">
 
@@ -96,10 +100,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "పాఠంను క్లిప్‌బోర్డునకు నకలుతీయుము">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ముడి దత్తాంశంను క్లిప్‌బోర్డునకు నకలుతీయును">
 
+<!ENTITY aboutSupport.sandboxTitle "శాండ్ బాక్స్">
 
+<!ENTITY aboutSupport.safeModeTitle "సేఫ్ మోడ్ ప్రయత్నించండి">
 <!ENTITY aboutSupport.restartInSafeMode.label "పొడిగింతలను అచేతనించి పునఃప్రారంభించు…">
 
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "ఫీచర్‌లు">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "డయాగ్నస్టిక్స్">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "వైఫల్యమైన లాగ్">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
