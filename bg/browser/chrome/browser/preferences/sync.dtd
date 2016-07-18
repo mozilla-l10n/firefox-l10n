@@ -5,7 +5,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Настройка на &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "Н">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ви позволява от всяко ваше устройство да имате достъп до вашата история, отметки, пароли и отворени подпрозорци.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ви дава възможност да имате достъп до своята история, отметки, пароли и отворени раздели от всичките ви устройства.">
 
 <!-- The page shown when logged in... -->
 
@@ -25,7 +25,7 @@
 <!ENTITY syncMy.label               "Sync на моите">
 <!ENTITY engine.bookmarks.label     "Отметки">
 <!ENTITY engine.bookmarks.accesskey "О">
-<!ENTITY engine.tabs.label          "Подпрозорци">
+<!ENTITY engine.tabs.label          "Раздели">
 <!ENTITY engine.tabs.accesskey      "П">
 <!ENTITY engine.history.label       "История">
 <!ENTITY engine.history.accesskey   "И">
