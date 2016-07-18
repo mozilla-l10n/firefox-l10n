@@ -195,7 +195,7 @@
 <!ENTITY wifi_auth_yes_scanner "Имате ли подкана за сканиране на QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-<!ENTITY wifi_auth_token_request "Ако вашето друго устройство иска токен вместо сканиране на QR-код, моля въведете токена по-долу на другото устройство:">
+<!ENTITY wifi_auth_token_request "Ако вашето друго устройство иска токен вместо сканиране на QR-код, моля въведете по-долу токена на другото устройство:">
 <!ENTITY wifi_auth_qr_size_note "Ако QR кодът изглежда твърде малък за да бъде успешно осъществена връзката, опитайте да увеличите размера или да оголемите прозореца.">
 
 <!-- Logs panel -->
