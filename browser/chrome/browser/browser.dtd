@@ -79,11 +79,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "о">
 <!ENTITY bookmarksToolbarItem.label "Елементи на лентата с отметките">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Презареждане всички подпрозорци">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Презареждане всички раздели">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "в">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Отмятане всички подпрозорци…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Отмятане всички раздели…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "О">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Отмяна затварянето на подпрозорец">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Отмяна затварянето на раздел">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "О">
 
 <!ENTITY pageSourceCmd.label "Изходен код на страницата">
@@ -92,7 +92,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Информация за страницата">
 <!ENTITY pageInfoCmd.accesskey "И">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "Изпращане на подпрозореца">
+<!ENTITY mirrorTabCmd.label "Изпращане на раздела">
 <!ENTITY mirrorTabCmd.accesskey "И">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -103,7 +103,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.label "Цял екран">
 <!ENTITY fullScreenCmd.accesskey "Ц">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Показване на всички подпрозорци">
+<!ENTITY showAllTabsCmd.label "Показване на всички раздели">
 <!ENTITY showAllTabsCmd.accesskey "д">
 
 <!ENTITY fxaSignIn.label "Вписване в &syncBrand.shortName.label;">
@@ -164,7 +164,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "Абониране за тази страница">
 <!ENTITY subscribeToPageMenupopup.label "Абониране за тази страница">
 <!ENTITY subscribeToPageMenuitem.label "Абониране за тази страница…">
-<!ENTITY addCurPagesCmd.label "Отмятане всички подпрозорци…">
+<!ENTITY addCurPagesCmd.label "Отмятане на всички раздели…">
 <!ENTITY showAllBookmarks2.label "Показване на всички отметки">
 <!ENTITY recentBookmarks.label "Последни отметки">
 <!ENTITY otherBookmarksCmd.label "Други отметки">
@@ -263,7 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
-<!ENTITY newUserContext.label             "Нов контейнер за подпрозорец">
+<!ENTITY newUserContext.label             "Нов изолатор на раздели">
 <!ENTITY newUserContext.accesskey         "к">
 <!ENTITY newNavigatorCmd.label        "Нов прозорец">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -315,7 +315,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "История">
 <!ENTITY historyMenu.accesskey "с">
-<!ENTITY historyUndoMenu.label "Последно затворени подпрозорци">
+<!ENTITY historyUndoMenu.label "Последно затворени раздели">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Последно затворени прозорци">
 <!ENTITY historyRestoreLastSession.label "Възстановяване на предишната сесия">
@@ -334,22 +334,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Показване на страничната лента с история">
 <!ENTITY appMenuHelp.tooltip "Отваряне на меню с помощ">
 
-<!ENTITY appMenuRemoteTabs.label "Синхронизирани подпрозорци">
+<!ENTITY appMenuRemoteTabs.label "Синхронизирани раздели">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "Няма отворени подпрозорци">
+<!ENTITY appMenuRemoteTabs.notabs.label "Няма отворени раздели">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Включете синхронизирането на подпрозорци, за да видите списък с подпрозорците от други ваши устройства.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Включете синхронизирането на раздели, за да видите списък с разделите от други ваши устройства.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Няма синхронизирани подпрозорци… все още!">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Искате ли да видите свои подпрозорци от други устройства тук?">
+<!ENTITY appMenuRemoteTabs.noclients.title "Няма синхронизирани раздели… все още!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Искате ли да видите свои раздели от други устройства тук?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки на Sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Впишете се, за да видите списък с подпрозорци от други ваши устройства.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Впишете се, за да видите списък с раздели от други ваши устройства.">
 <!ENTITY appMenuRemoteTabs.signin.label "Вписване в Sync">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Преглед на странична лента със синхронизирани подпрозорци">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Преглед на странична лента със синхронизирани раздели">
 
 <!ENTITY customizeMenu.addToToolbar.label "Добавяне към лентата с инструменти">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
@@ -374,7 +374,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Търсене или въвеждане на адрес">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "Превключване към подпрозорец:">
+<!ENTITY urlbar.switchToTab.label     "Превключване към раздел:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Искате ли да се показват подсказки при въвеждане на думи за търсене?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Научете повече…">
@@ -439,12 +439,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Настройки на търсене">
 
-<!ENTITY searchInNewTab.label         "Търсене в нов подпрозорец">
+<!ENTITY searchInNewTab.label         "Търсене в нов раздел">
 <!ENTITY searchInNewTab.accesskey     "п">
 <!ENTITY searchSetAsDefault.label     "Задаване като стандартна търсачка">
 <!ENTITY searchSetAsDefault.accesskey "с">
 
-<!ENTITY openLinkCmdInTab.label       "Отваряне в нов подпрозорец">
+<!ENTITY openLinkCmdInTab.label       "Отваряне в раздел">
 <!ENTITY openLinkCmdInTab.accesskey   "д">
 <!ENTITY openLinkCmd.label            "Отваряне в нов прозорец">
 <!ENTITY openLinkCmd.accesskey        "п">
@@ -452,11 +452,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "п">
 <!ENTITY openLinkCmdInCurrent.label     "Отваряне на връзката">
 <!ENTITY openLinkCmdInCurrent.accesskey "ъ">
-<!ENTITY openFrameCmdInTab.label      "Отваряне в нов подпрозорец">
+<!ENTITY openFrameCmdInTab.label      "Отваряне в раздел">
 <!ENTITY openFrameCmdInTab.accesskey  "д">
 <!ENTITY openFrameCmd.label           "Отваряне в нов прозорец">
 <!ENTITY openFrameCmd.accesskey       "п">
-<!ENTITY openLinkCmdInContainerTab.label "Отваряне на връзка в нов независим подпрозорец">
+<!ENTITY openLinkCmdInContainerTab.label "Отваряне на връзка в независим раздел">
 <!ENTITY openLinkCmdInContainerTab.accesskey "О">
 <!ENTITY showOnlyThisFrameCmd.label     "Показване само на тази рамка">
 <!ENTITY showOnlyThisFrameCmd.accesskey "р">
@@ -718,25 +718,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Подпрозорци на браузъра">
+<!ENTITY tabsToolbar.label "Раздели на браузъра">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Синхронизирани подпрозорци">
+<!ENTITY syncTabsMenu3.label     "Синхронизирани раздели">
 
-<!ENTITY syncedTabs.sidebar.label              "Синхронизирани подпрозорци">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Впишете се във Firefox на друго устройство, за да видите тук техните подпрозорци.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Няма синхронизирани подпрозорци… все още!">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Искате ли да видите свои подпрозорци от други устройства тук?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Впишете се, за да видите тук подпрозорците в други ваши устройства.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Няма отворени подпрозорци">
+<!ENTITY syncedTabs.sidebar.label              "Синхронизирани раздели">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Впишете се във Firefox на друго устройство, за да видите тук неговите раздели.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Няма синхронизирани раздели… все още!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Искате ли да видите свои раздели от други устройства тук?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Впишете се, за да видите тук раздели от други ваши устройства.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Няма отворени раздели">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Настройки на &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Включете синхронизирането на подпрозорци, за да видите списък с подпрозорците от други ваши устройства.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Включете синхронизирането на раздели, за да видите списък с раздели от други ваши устройства.">
 
 <!ENTITY syncedTabs.context.open.label                       "Отваряне">
 <!ENTITY syncedTabs.context.open.accesskey                   "О">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Отваряне в нов подпрозорец">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Отваряне в раздел">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "д">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Отваряне в нов прозорец">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "п">
@@ -811,7 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "К">
 <!ENTITY getUserMedia.selectMicrophone.label "Микрофон за споделяне:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "М">
-<!ENTITY getUserMedia.audioCapture.label "Микрофонът ще бъде споделян от подпрозореца.">
+<!ENTITY getUserMedia.audioCapture.label "Звукът от раздела ще бъде споделен.">
 <!ENTITY getUserMedia.allWindowsShared.message "Всички видими прозорци на вашия екран ще бъдат споделени.">
 
 <!ENTITY trackingProtection.title "Защита от проследяване">
@@ -877,7 +877,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainActionDesc          "Ако продължите ще бъдат:">
 <!ENTITY panicButton.view.deleteCookies           "Изтрити скорошните <html:strong>бисквитки</html:strong>">
 <!ENTITY panicButton.view.deleteHistory           "Изтрита скорошната <html:strong>история</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Затворени всички <html:strong>подпрозорци</html:strong> и <html:strong>прозорци</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Затворени всички <html:strong>раздели</html:strong> и <html:strong>прозорци</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Отворен нов празен прозорец">
 
 <!ENTITY panicButton.view.undoWarning             "Това действие е необратимо.">

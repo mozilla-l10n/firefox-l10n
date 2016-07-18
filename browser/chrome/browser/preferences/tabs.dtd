@@ -8,7 +8,7 @@
 <!ENTITY warnCloseMultipleTabs.label  "Предупреждение при затваряне на няколко раздела">
 <!ENTITY warnCloseMultipleTabs.accesskey  "з">
 
-<!ENTITY warnOpenManyTabs.label       "Предупреждение, когато отварянето на няколко раздела може да забави &brandShortName;">
+<!ENTITY warnOpenManyTabs.label       "Предупреждаване, когато отварянето на няколко раздела може да забави &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "о">
 
 <!ENTITY switchToNewTabs.label        "При отваряне на препратка в раздел, да се превключи към него">
