@@ -22,13 +22,13 @@
 
 <!ENTITY downloads.label     "Изтегляния">
 
-<!ENTITY saveTo.label "Запазване в">
+<!ENTITY saveTo.label "Записване на файловете в">
 <!ENTITY saveTo.accesskey "З">
 <!ENTITY chooseFolderWin.label        "Разглеждане…">
 <!ENTITY chooseFolderWin.accesskey    "Р">
 <!ENTITY chooseFolderMac.label        "Избиране…">
 <!ENTITY chooseFolderMac.accesskey    "И">
-<!ENTITY alwaysAsk.label "Винаги да пита къде да бъдат запазени">
+<!ENTITY alwaysAsk.label "Винаги да се пита къде да се записват файловете">
 <!ENTITY alwaysAsk.accesskey "В">
 
 <!ENTITY alwaysCheckDefault2.label        "Проверяване дали &brandShortName; е стандартният браузър">
