@@ -19,16 +19,16 @@
 <!ENTITY navbarOverflow.label                "Още инструменти…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Презареждане на подпрозорец">
+<!ENTITY  reloadTab.label                    "Презареждане на раздел">
 <!ENTITY  reloadTab.accesskey                "П">
-<!ENTITY  reloadAllTabs.label                "Презареждане всички подпрозорци">
+<!ENTITY  reloadAllTabs.label                "Презареждане на всички раздели">
 <!ENTITY  reloadAllTabs.accesskey            "в">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Затваряне на подпрозорците отдясно">
+<!ENTITY  closeTabsToTheEnd.label            "Затваряне на разделите вдясно">
 <!ENTITY  closeTabsToTheEnd.accesskey        "д">
-<!ENTITY  closeOtherTabs.label               "Затваряне на другите подпрозорци">
+<!ENTITY  closeOtherTabs.label               "Затваряне на другите раздели">
 <!ENTITY  closeOtherTabs.accesskey           "З">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -36,22 +36,22 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Закачане на подпрозореца">
+<!ENTITY  pinTab.label                       "Закачане на раздела">
 <!ENTITY  pinTab.accesskey                   "ч">
 <!ENTITY  unpinTab.label                     "Премахване от леснодостъпните приложения">
 <!ENTITY  unpinTab.accesskey                 "П">
 <!ENTITY  moveToNewWindow.label              "Преместване в нов прозорец">
 <!ENTITY  moveToNewWindow.accesskey          "н">
-<!ENTITY  bookmarkAllTabs.label              "Отмятане всички подпрозорци…">
+<!ENTITY  bookmarkAllTabs.label              "Отмятане на всички раздели…">
 <!ENTITY  bookmarkAllTabs.accesskey          "О">
-<!ENTITY  undoCloseTab.label                 "Отмяна затварянето на подпрозорец">
+<!ENTITY  undoCloseTab.label                 "Отмяна на затварянето на раздел">
 <!ENTITY  undoCloseTab.accesskey             "О">
-<!ENTITY  closeTab.label                     "Затваряне на подпрозореца">
+<!ENTITY  closeTab.label                     "Затваряне на раздела">
 <!ENTITY  closeTab.accesskey                 "З">
 
-<!ENTITY  listAllTabs.label      "Показване на всички подпрозорци">
+<!ENTITY  listAllTabs.label      "Показване на всички раздели">
 
-<!ENTITY tabCmd.label "Нов подпрозорец">
+<!ENTITY tabCmd.label "Нов раздел">
 <!ENTITY tabCmd.accesskey "д">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
