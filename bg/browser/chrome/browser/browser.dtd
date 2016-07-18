@@ -81,7 +81,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Презареждане всички раздели">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "в">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Отмятане всички раздели…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Отмятане на всички раздели…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "О">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Отмяна затварянето на раздел">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "О">
@@ -264,7 +264,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newUserContext.label             "Нов изолатор на раздели">
-<!ENTITY newUserContext.accesskey         "к">
+<!ENTITY newUserContext.accesskey         "и">
 <!ENTITY newNavigatorCmd.label        "Нов прозорец">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "п">
