@@ -681,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "Връзката е незащитена">
 <!ENTITY identity.connectionFile "Страницата е запазена в компютъра.">
 <!ENTITY identity.connectionVerified2 "Защитена връзка към този сайт, управляван от:">
-<!ENTITY identity.connectionInternal "Това е защитена страница на &brandShortName;.">
+<!ENTITY identity.connectionInternal "Това е защитена страница на &brandShorterName;.">
 <!ENTITY identity.insecureLoginForms2 "Данните за вход на тази страница може да са компрометирани.">
 
 <!-- Strings for connection state warnings. -->
