@@ -68,8 +68,10 @@
 <!ENTITY unknownSocketType.title "ಪರಿಚಾರಕದಿಂದ ಅನಿರೀಕ್ಷಿತ ಪ್ರತಿಕ್ರಿಯೆ">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>ನಿಮ್ಮ ಗಣಕದಲ್ಲಿ ವೈಯಕ್ತಿಕ ಸುರಕ್ಷತಾ ವ್ಯವಸ್ಥಾಪಕವು ಅನುಸ್ಥಾಪಿತಗೊಂಡಿದೆ ಎಂಬುದನ್ನು ಪರೀಕ್ಷಿಸಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.</li> <li>ಪರಿಚಾರಕದ ಸ್ಟಾಂಡರ್ಡ ಅಲ್ಲದ ಸಂರಚನೆ ಇದಕ್ಕೆ ಕಾರಣವಾಗಿರಬಹುದು.</li> </ul>">
 
+<!ENTITY nssFailure2.title "ಸುರಕ್ಷಿತ ಸಂಪರ್ಕವು ವಿಫಲಗೊಂಡಿದೆ">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>ನೀವು ನೋಡಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವ ಪುಟವನ್ನು ತೋರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ ಏಕೆಂದರೆ ಪಡೆಯಲಾದ ಮಾಹಿತಿಯ ವಿಶ್ವಾಸಾರ್ಹತೆಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ .</li> <li>ದಯವಿಟ್ಟು ಈ ತೊಂದರೆಯ ಬಗ್ಗೆ ಜಾಲತಾಣದ ಮಾಲಿಕರಿಗೆ ತಿಳಿಸಿ.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "ನಿಮ್ಮ ಸಂಪರ್ಕವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ‍">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -96,6 +98,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ಸುಧಾರಿತ ಮಾಹಿತಿ: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "ನಿಮ್ಮ ಸಂಪರ್ಕವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ‍">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "ಸುಧಾರಿತ ಮಾಹಿತಿ: SSL_ERROR_NO_CYPHER_OVERLAP">
@@ -108,6 +111,7 @@ was trying to connect. -->
 
 
 
+<!ENTITY inadequateSecurityError.title "ನಿಮ್ಮ ಸಂಪರ್ಕವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ‍">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
