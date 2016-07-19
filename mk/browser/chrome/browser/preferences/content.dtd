@@ -7,6 +7,7 @@
 <!ENTITY  blockPopups.label           "Блокирај скокачки прозорци">
 <!ENTITY  blockPopups.accesskey       "л">
 
+<!ENTITY  notificationsPolicyDesc3.label       "Изберете на кои веб-сајтови им е дозволено да Ви испраќаат известувања">
 <!ENTITY  notificationsPolicyButton.label      "Изберете…">
 
 <!ENTITY  popupExceptions.label       "Исклучоци…">

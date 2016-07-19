@@ -628,6 +628,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете од илјадници додатоци">
 <!ENTITY customizeMode.restoreDefaults "Врати основни прилагодувања">
 <!ENTITY customizeMode.toolbars "Прикажи / Скриј алатници">
 <!ENTITY customizeMode.lwthemes "Теми">
