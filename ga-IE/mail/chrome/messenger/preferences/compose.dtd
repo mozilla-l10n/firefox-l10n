@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "l">
 <!ENTITY restoreHTMLDefaults.label            "Athchóirigh na Réamhshocruithe">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
-
-
+<!ENTITY defaultToParagraph.label             "Úsáid formáid an Ailt seachas Corpthéacs mar réamhshocrú">
+<!ENTITY defaultToParagraph.accesskey         "A">
 
 <!ENTITY spellCheck.label                     "Ceartaigh litriú sula seoltar teachtaireachtaí">
 <!ENTITY spellCheck.accesskey                 "C">

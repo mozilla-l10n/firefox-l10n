@@ -79,7 +79,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Chuir &brandShortName; stad ar luchtú an leathanaigh seo toisc go bhfuil polasaí slándála inneachair ag an leathanach a dhícheadaíonn é.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Earráid: Ábhar Truaillithe">
-
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ní féidir an leathanach a bhfuil tú ag iarraidh breathnú air a thaispeáint toisc gur aimsíodh earráid i seachadadh na sonraí.</p><ul><li>Téigh i dteagmháil le húinéirí an tsuímh agus cuir an fhadhb ar a súile dóibh.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Nó is féidir leat eisceacht a chruthú…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Amach as seo liom!">
@@ -95,5 +95,7 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "XUL Cianda">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Níl do cheangal slán">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p>Úsáideann <span class='hostname'></span> teicneolaíocht slándála atá as dáta agus leochaileach ar ionsaithe. D'fhéadfadh ionsaitheoir eolas a nochtadh go héasca áit ar shíl tú go raibh sé slán. Beidh ar riarthóir an tsuímh gréasáin an freastalaí a dheisiú sula mbeidh tú ábalta cuairt a thabhairt ar an suíomh. </p><p> Cód Earráide: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
