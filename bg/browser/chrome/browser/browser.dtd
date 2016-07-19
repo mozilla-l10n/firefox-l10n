@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Затваряне на разделите вдясно">
+<!ENTITY  closeTabsToTheEnd.label            "Затваряне на разделите отдясно">
 <!ENTITY  closeTabsToTheEnd.accesskey        "д">
 <!ENTITY  closeOtherTabs.label               "Затваряне на другите раздели">
 <!ENTITY  closeOtherTabs.accesskey           "З">
@@ -440,7 +440,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.button  "Настройки на търсене">
 
 <!ENTITY searchInNewTab.label         "Търсене в нов раздел">
-<!ENTITY searchInNewTab.accesskey     "п">
+<!ENTITY searchInNewTab.accesskey     "р">
 <!ENTITY searchSetAsDefault.label     "Задаване като стандартна търсачка">
 <!ENTITY searchSetAsDefault.accesskey "с">
 
