@@ -157,7 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareLink.accesskey "h">
 <!ENTITY shareImage.label "Comhroinn an íomhá seo">
 <!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "Comhroinn an roghnúchán seo">
+<!ENTITY shareSelect.label "Comhroinn an rogha seo">
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "Comhroinn an físeán seo">
 <!ENTITY shareVideo.accesskey "r">

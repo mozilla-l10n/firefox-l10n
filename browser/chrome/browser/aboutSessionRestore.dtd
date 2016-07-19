@@ -44,7 +44,7 @@ their language.
 -->
 
 
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Baineadh do chuid breiseán agus gnéithe saincheaptha, agus cuireadh an brabhsálaí ar ais go dtí na réamhshocruithe. Má tá fadhb agat fós, ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Baineadh do chuid breiseán agus gnéithe saincheaptha, agus cuireadh réamhshocruithe an bhrabhsálaí i bhfeidhm arís. Má tá fadhb agat fós, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "is féidir leat tuilleadh eolais a fháil anseo.">
