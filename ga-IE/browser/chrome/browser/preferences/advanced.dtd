@@ -30,12 +30,12 @@
 
 <!ENTITY dataChoicesTab.label            "Roghanna Sonraí">
 
-<!ENTITY healthReportDesc.label          "Cabhraíonn seo leat feidhmíocht do bhrabhsálaí a thuiscint, agus seolann sé sonraí maidir le sláinte do bhrabhsálaí chuig &vendorShortName;">
+<!ENTITY healthReportDesc.label          "Cabhraíonn seo leat feidhmíocht an bhrabhsálaí a thuiscint, agus seolann sé sonraí maidir le sláinte do leagan den bhrabhsálaí chuig &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Cumasaigh Tuairisc Shláinte &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "T">
 <!ENTITY healthReportLearnMore.label     "Tuilleadh Eolais">
 
-<!ENTITY telemetryDesc.label             "Seolann sé faisnéis maidir le feidhmíocht, úsáid, crua-earraí, agus saincheapadh chuig &vendorShortName; chun cabhrú linn feabhas a chur ar &brandShortName;.">
+<!ENTITY telemetryDesc.label             "Seolann sé faisnéis maidir le feidhmíocht, úsáid, crua-earraí, agus saincheapadh an bhrabhsálaí chuig &vendorShortName; chun cabhrú linn feabhas a chur ar &brandShortName;.">
 <!ENTITY enableTelemetryData.label       "Comhroinn sonraí breise (.i. Telemetry)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Tuilleadh Eolais">
