@@ -47,7 +47,7 @@
 <!ENTITY helpus.getInvolvedLink     "приклучете се!">
 <!ENTITY helpus.end                 "">
 
-<!ENTITY releaseNotes.link          "Што е ново">
+<!ENTITY releaseNotes.link          "Што е ново?">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Информации за лиценцирањето">

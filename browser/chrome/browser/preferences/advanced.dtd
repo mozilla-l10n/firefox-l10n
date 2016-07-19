@@ -78,7 +78,7 @@
 <!ENTITY updateApp.label                 "Надградби за &brandShortName;:">
 <!ENTITY updateAuto1.label               "Инсталирај надградби автоматски (препорачано: подобрена безбедност)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Проверувај, но остави да одберам дали сакам да ги инсталирам">
+<!ENTITY updateCheck.label               "Проверувај, но остави да изберам дали сакам да ги инсталирам">
 <!ENTITY updateCheck.accesskey           "р">
 <!ENTITY updateManual.label              "Никогаш не проверувај (не се препорачува заради безбедност)">
 <!ENTITY updateManual.accesskey          "Н">
