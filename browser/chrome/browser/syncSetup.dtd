@@ -33,7 +33,7 @@
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ha a cuore la privacy dei suoi utenti">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Per garantire la massima privacy, tutti i dati vengono cifrati prima della trasmissione. La chiave di ripristino necessaria per decifrarli non viene caricata sul server.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Per garantire la massima privacy, tutti i dati vengono crittati prima della trasmissione. La chiave di ripristino necessaria per decrittarli non viene caricata sul server.">
 <!ENTITY recoveryKeyEntry.label "Chiave di ripristino">
 <!ENTITY recoveryKeyEntry.accesskey "v">
 <!ENTITY syncGenerateNewKey.label "Genera una nuova chiave">

@@ -26,7 +26,7 @@
 <!ENTITY netmonitorUI.tab.security "Sicurezza">
 <!ENTITY netmonitorUI.security.error "Si è verificato un errore:">
 <!ENTITY netmonitorUI.security.protocolVersion "Versione del protocollo:">
-<!ENTITY netmonitorUI.security.cipherSuite "Pacchetto di cifratura:">
+<!ENTITY netmonitorUI.security.cipherSuite "Suite di cifratura:">
 <!ENTITY netmonitorUI.security.hsts "Sicurezza del trasporto HTTP ristretta (HSTS):">
 <!ENTITY netmonitorUI.security.hpkp "“Key Pinning” pubblico:">
 <!ENTITY netmonitorUI.security.connection "Connessione:">
@@ -62,7 +62,7 @@
 <!ENTITY netmonitorUI.timings.send "Invio:">
 <!ENTITY netmonitorUI.timings.wait "In attesa:">
 <!ENTITY netmonitorUI.timings.receive "Ricezione:">
-<!ENTITY netmonitorUI.security.warning.cipher "L’algoritmo utilizzato per la cifratura è deprecato e insicuro.">
+<!ENTITY netmonitorUI.security.warning.cipher "L’algoritmo utilizzato per la crittografia è deprecato e insicuro.">
 <!ENTITY netmonitorUI.context.perfTools "Inizia analisi prestazioni…">
 <!ENTITY netmonitorUI.context.perfTools.accesskey "I">
 <!ENTITY netmonitorUI.context.copyUrl "Copia URL">
