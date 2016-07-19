@@ -36,7 +36,7 @@
 <!ENTITY  locbar.bookmarks.label        "Отметки">
 <!ENTITY  locbar.bookmarks.accesskey    "О">
 <!ENTITY  locbar.openpage.label         "Отворените раздели">
-<!ENTITY  locbar.openpage.accesskey     "п">
+<!ENTITY  locbar.openpage.accesskey     "р">
 <!ENTITY  locbar.searches.label         "Подобни търсения в стандартната търсеща машина">
 <!ENTITY  locbar.searches.accesskey     "П">
 
