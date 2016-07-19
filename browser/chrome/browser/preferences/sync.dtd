@@ -40,9 +40,9 @@
 <!ENTITY syncDeviceName.label       "Име на устройството:">
 <!ENTITY syncDeviceName.accesskey   "И">
 <!ENTITY fxaSyncDeviceName.label       "Име на устройството">
-<!ENTITY changeSyncDeviceName.label "Промяна името на устройството…">
-<!ENTITY cancelChangeSyncDeviceName.label "Прекъсване">
-<!ENTITY saveChangeSyncDeviceName.label "Запис">
+<!ENTITY changeSyncDeviceName.label "Преименуване…">
+<!ENTITY cancelChangeSyncDeviceName.label "Отказ">
+<!ENTITY saveChangeSyncDeviceName.label "Запазване">
 <!ENTITY unlinkDevice.label           "Разкачване на устройството">
 
 <!-- Footer stuff -->
@@ -105,4 +105,4 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              " и синхронизирайте мобилното си устройство.">
+<!ENTITY mobilePromo3.end              ", за да синхронизирайте мобилното си устройство.">
