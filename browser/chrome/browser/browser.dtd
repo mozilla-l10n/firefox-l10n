@@ -318,7 +318,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "最近关闭的标签页">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "最近关闭的窗口">
-<!ENTITY historyRestoreLastSession.label "恢复先前的浏览状态">
+<!ENTITY historyRestoreLastSession.label "恢复上一次会话">
 
 <!ENTITY showAllHistoryCmd2.label "管理所有历史记录">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -330,7 +330,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.label "历史记录">
 <!ENTITY appMenuHistory.showAll.label "管理所有历史记录">
 <!ENTITY appMenuHistory.clearRecent.label "清除最近的历史记录…">
-<!ENTITY appMenuHistory.restoreSession.label "恢复先前的浏览状态">
+<!ENTITY appMenuHistory.restoreSession.label "恢复上一次会话">
 <!ENTITY appMenuHistory.viewSidebar.label "查看历史记录侧栏">
 <!ENTITY appMenuHelp.tooltip "打开帮助菜单">
 
