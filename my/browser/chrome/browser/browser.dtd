@@ -169,9 +169,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "မကြာသေးမီက မှတ်သားထားသောဝဘ်စာမျက်နှာများ">
 <!ENTITY otherBookmarksCmd.label "အခြား မှတ်သားချက်များ">
 <!ENTITY bookmarksToolbarChevron.tooltip "မှတ်သားချက်များကို ပိုမို ဖေါ်ပြသပါ">
-<!ENTITY showRecentlyBookmarked.label     "(S) လတ်တလော မှတ်ထားသည်များကို ပြရန်">
-<!ENTITY showRecentlyBookmarked.accesskey "S">
-<!ENTITY hideRecentlyBookmarked.label     "(H) လတ်တလော မှတ်ထားသည်များကို မပြရန်">
+<!ENTITY showRecentlyBookmarked.label     "လတ်တလော မှတ်ထားသည်များကို ပြရန်">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "လတ်တလော မှတ်ထားသည်များကို ခေတ္တ ပိတ်ပါ">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "နောက်">
@@ -261,20 +261,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "အသေးစိတ်ခွဲခြမ်းစိတ်ဖြာမည်။">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "(F)ဖိုင်"> 
+<!ENTITY fileMenu.label         "ဖိုင်"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "စာမျက်နှာစုစည်းမှု အသစ်">
 <!ENTITY newUserContext.accesskey         "C">
-<!ENTITY newNavigatorCmd.label        "(N)ဝင်းဒိုးအသစ်">
+<!ENTITY newNavigatorCmd.label        "ဝင်းဒိုးအသစ်">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "New Private Window">
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "Non-e10s ဝင်းဒိုးအသစ်">
 
-<!ENTITY editMenu.label         "(E)တည်းဖြတ်"> 
+<!ENTITY editMenu.label         "တည်းဖြတ်"> 
 <!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "(U)ပြန်ဖြည်ပါ">  
+<!ENTITY undoCmd.label            "မလုပ်တော့">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "Rပြန်လုပ်">  
@@ -283,7 +283,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "tဖြတ်ယူ">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "(C)ကူးယူရန်">  
+<!ENTITY copyCmd.label            "ကူးယူရန်">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Pပွား">  
@@ -310,10 +310,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "eဘေးတန်း">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "(C)စိတ်ကြိုက်ဖန်တီးပါ..."> 
+<!ENTITY viewCustomizeToolbar.label       "စိတ်ကြိုက်ပြင်ဆင်ရန်…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
-<!ENTITY historyMenu.label "(s)မှတ်တမ်း">
+<!ENTITY historyMenu.label "မှတ်တမ်း">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "လတ်တလော ပိတ်ထားတဲ့ စာအမှတ်များ">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
@@ -456,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Wဝင်းဒိုးအသစ်တွင်ဖွင့်ပါ">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "(C)ချိတ်ဆက်လင့်ကို ကွန်တိန်နာတဗ်အသစ်တွင် ဖွင့်ပါ">
+<!ENTITY openLinkCmdInContainerTab.label "ချိတ်ဆက်လင့်ကို ကွန်တိန်နာတပ်ဗ်အသစ်တွင် ဖွင့်ပါ">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "Sဒီဘောင်ကိုပဲ ပြပါ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
@@ -476,24 +476,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "View Frame Info">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "(R)ရုပ်ပုံကို ပြန်ဖွင့်ပါ">
+<!ENTITY reloadImageCmd.label         "ရုပ်ပုံကို ပြန်ဖွင့်ပါ">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "(I)ရုပ်ပုံကို ရှုမြင်ပါ">
+<!ENTITY viewImageCmd.label           "ရုပ်ပုံကို ဖွင့်ကြည့်ရန်">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "ပုံ၏သတင်းအချက်အလက်များ">
 <!ENTITY viewImageInfoCmd.accesskey   "ပ">
-<!ENTITY viewImageDescCmd.label       "(D) ဖော်ပြချက်အားကြည့်">
+<!ENTITY viewImageDescCmd.label       "ဖော်ပြချက်ကို ကြည့်ရှုရန်">
 <!ENTITY viewImageDescCmd.accesskey   "D">
-<!ENTITY viewVideoCmd.label           "(i)ဗွီဒီယို ရှုမြင်ပါ">
+<!ENTITY viewVideoCmd.label           "ဗီဒီယိုကို ဖွင့်ကြည့်ရန်">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "နောက်ခံ ရုပ်ပုံကို ရှုမြင်ပါ">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "(S)စားပွဲတင် နောက်ခံအဖြစ် သတ်မှတ်ပါ...">
+<!ENTITY setDesktopBackgroundCmd.label      "နောက်ခံပုံအဖြစ် သတ်မှတ်ရန်...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "ဒီစာမျက်နှာကို မှတ်သားပါ">
-<!ENTITY bookmarkThisLinkCmd.label      "(L)ဒီအချိတ်အဆက်ကို မှတ်သားပါ ...">
+<!ENTITY bookmarkThisLinkCmd.label      "ဒီလင့်ခ်ကို မှတ်သားပါ">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "(m)ဒီဘောင်ကို မှတ်သားပါ ...">
+<!ENTITY bookmarkThisFrameCmd.label      "ဒီဘောင်ကို မှတ်သားပါ">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "အီးမေးလ် လင့်...">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -518,8 +518,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "အီးမေးလ် ဗီဒီယို...">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "ဗွီဒီယိုကို ကိရိယာသို့ ပို့(E)ပါ">
-<!ENTITY castVideoCmd.accesskey       "E">
+<!ENTITY castVideoCmd.label           "ဗီဒီယိုကို ကိရိယာသို့ ပေးပို့ပါ">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "aအသံဖိုင်အားမေလ်းပို့မည်...">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "c ယခု ဖြည့်စွက် ပရိုဂရမ် ကို အသက်သွင်းစေ">
@@ -528,11 +528,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "အချိတ်အဆက် တည်နေရာ ကူးယူပါ">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "(o)ရုပ်ပုံ တည်နေရာ ကူးယူပါ">
+<!ENTITY copyImageCmd.label           "ရုပ်ပုံရှိရာ လမ်းကြောင်းကို ကူးယူပါ">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "(y)ရုပ်ပုံ ကူးယူပါ">
+<!ENTITY copyImageContentsCmd.label   "ရုပ်ပုံကို ကူးယူပါ">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
-<!ENTITY copyVideoURLCmd.label        "(o)ဗွီဒီယို တည်နေရာ ကူးယူပါ">
+<!ENTITY copyVideoURLCmd.label        "ဗီဒီယိုရှိရာ လမ်းကြောင်းကို ကူးယူပါ">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "အသံ တည်နေရာ ကူးယူပါ">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
@@ -556,20 +556,20 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "အသံ ပြန်ဖွင့်ပါ">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate2.label     "(d) ပြသနှုန်း">
+<!ENTITY mediaPlaybackRate2.label     "ပြသနှုန်း">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
-<!ENTITY mediaPlaybackRate050x2.label "(S)အနှေး(0.5×)">
+<!ENTITY mediaPlaybackRate050x2.label "အနှေး(0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
-<!ENTITY mediaPlaybackRate100x2.label "(N) ပုံမှန်">
+<!ENTITY mediaPlaybackRate100x2.label "ပုံမှန်">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
-<!ENTITY mediaPlaybackRate125x2.label "(F) အမြန် (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.label "အမြန် (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
-<!ENTITY mediaPlaybackRate150x2.label "(a) ပိုမြန် (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.label "ပိုမြန် (1.5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "(L)အင်မတန်မြန်(2×)">
+<!ENTITY mediaPlaybackRate200x2.label "အင်မတန်မြန်(2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
 <!ENTITY mediaLoop.label             "ပြန်ကျော့ရန်">
 <!ENTITY mediaLoop.accesskey         "L">
@@ -709,7 +709,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "ပိုမို လေ့လာပါ">
 
-<!ENTITY identity.removeCertException.label "(R)ခြွင်းချက် ဖယ်ရှားရန်">
+<!ENTITY identity.removeCertException.label "ခြွင်းချက်သတ်မှတ်ထားခြင်းမှ ဖယ်ရှားရန်">
 <!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "အချက်အလက် ပိုမိုကြည့်ရန်">
@@ -735,17 +735,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "သင့်အခြား ကိရိယာများမှ တပ်ဗ်စာရင်းကို ကြည့်ရန် တပ်ဗ်ထပ်တူပြုအသုံးပြုခြင်းကို ဖွင့်ပါ။">
 
-<!ENTITY syncedTabs.context.open.label                       "(O) ဖွင့်ပါ">
+<!ENTITY syncedTabs.context.open.label                       "ဖွင့်ပါ">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "(w) တပ်ဗ်အသစ်တစ်ခုတွင် ဖွင့်ပါ">
+<!ENTITY syncedTabs.context.openInNewTab.label               "တပ်ဗ်အသစ်တစ်ခုတွင် ဖွင့်ပါ">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "(N) ၀င်းဒိုးအသစ် တစ်ခုတွင် ဖွင့်ပါ">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "၀င်းဒိုးအသစ်တစ်ခုတွင် ဖွင့်ပါ">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "(P) သီးသန့် ဝင်းဒိုးအသစ်ထဲတွင် ဖွင့်ပါ။">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "သီးသန့် ဝင်းဒိုးအသစ်ထဲတွင် ဖွင့်ပါ။">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "(B) ဒီစာမျက်နှာကို မှတ်သားပါ…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ဒီတပ်ဗ်ကို မှတ်သားပါ…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-<!ENTITY syncedTabs.context.copy.label                       "(C) ကူးယူပါ">
+<!ENTITY syncedTabs.context.copy.label                       "ကူးယူပါ">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
@@ -773,9 +773,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "(U) အိုးဒါကိုမလုပ်တော့ဘူး!">
-<!ENTITY social.activated.undo.accesskey "U">
-<!ENTITY social.learnMore.label "(L)ဆက်လက်လေ့လာ">
+<!ENTITY social.activated.undo.label "အမလေး၊ ဒါကို မလုပ်ဆောင်တော့ပါ။">
+<!ENTITY social.activated.undo.accesskey "u">
+<!ENTITY social.learnMore.label "ဆက်လက်လေ့လာ…">
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "ယခု မဟုတ်သေးဘူး">
 
