@@ -17,7 +17,7 @@
 <!ENTITY newMessagesArrive.label "Po odebraniu nowej wiadomości:">
 <!ENTITY playSound.label "odtwarzaj dźwięk">
 <!ENTITY playSound1.accesskey "o">
-<!ENTITY showAnimatedAlert.label "wyświetlaj informację">
+<!ENTITY showAnimatedAlert.label "wyświetlaj powiadomienie">
 <!ENTITY showAnimatedAlert.accesskey "w">
 <!ENTITY customizeMailAlert.label "Dostosuj…">
 <!ENTITY customizeMailAlert.accesskey "s">
