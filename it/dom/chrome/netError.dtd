@@ -60,7 +60,7 @@
 <!ENTITY securityOverride.linkText "Oppure è possibile aggiungere un’eccezione…">
 <!ENTITY securityOverride.warningContent "
 <p>È sconsigliato aggiungere un’eccezione nel caso in cui si stia utilizzando una connessione non completamente affidabile oppure se è la prima volta che questi avvisi di sicurezza appaiono con questo server.</p>
-<p>È comunque possibile aggiungere un’eccezione per questo sito attraverso le opzioni avanzate per la cifratura.</p>
+<p>È comunque possibile aggiungere un’eccezione per questo sito attraverso le opzioni avanzate per la crittografia.</p>
 ">
 <!ENTITY cspBlocked.title "Bloccato dai criteri sulla sicurezza dei contenuti">
 <!ENTITY cspBlocked.longDesc "<p>Il browser ha bloccato il caricamento della pagina con questa modalità in quanto include dei criteri sulla sicurezza dei contenuti che lo impediscono.</p>">
