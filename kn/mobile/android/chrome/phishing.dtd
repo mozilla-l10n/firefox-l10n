@@ -15,7 +15,7 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "ವಂಚಕ ತಾಣ!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "ಈ ಜಾಲ ಪುಟವನ್ನು <span id='phishing_sitename'/> ನಲ್ಲಿನ ಒಂದು ಧಾಳಿಕಾರಕ ಪುಟ ಎಂದು ಪರಿಗಣಿಸಿ ನಿಮ್ಮ ಸುರಕ್ಷತಾ ಆದ್ಯತೆಗಳ ಅನುಸಾರವಾಗಿ ಇದನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
-
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>ದಾಳಿಕಾರಕ ತಾಣಗಳು ನಿಮ್ಮನ್ನು ಮೋಸಗೊಳಿಸಿ ಹಾನಿಕಾರಕವಾದದ್ದನ್ನು ಮಾಡಿಸುತ್ತವೆ, ತಂತ್ರಾಂಶ ಅನುಸ್ಥಾಪನೆ, ಅಥವಾ ನಿಮ್ಮ ವೈಯುಕ್ತಿಕ ಮಾಹಿತಿ ತೆರೆದಿಡುವಂತೆಯೋ, ಗುಪ್ತಪದಗಳು, ಫೋನ್ ಸಂಖ್ಯೆಗಳು ಅಥವಾ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್‌ಗಳಂತವು.</p><p>ಈ ಪುಟದಲ್ಲಿ ಯಾವುದೇ ಮಾಹಿತಿಯನ್ನು ಸೇರಿಸುವುದು ಗುರುತಿನ ಕಳ್ಳತನ ಅಥವಾ ಇತರೆ ವಂಚನೆಯಲ್ಲಿ ಕೊನೆಗೊಳ್ಳಬಹುದು.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "ಅವಶ್ಯವಿಲ್ಲದ ತಂತ್ರಾಂಶ ತಾಣವನ್ನು ವರದಿಮಾಡಿ!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
