@@ -18,14 +18,14 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "பயர்பாக்ஸ் ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "சேமிக்கும்">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " உங்களுடைய:">
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.downloads             "பதிவிறக்கங்கள்">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "புத்தகக்குறிகள்">
+<!ENTITY aboutPrivateBrowsing.note.before                "தனிப்பட்ட உலாவல் ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "உங்களை பெயரில்லாதவராக ஆக்காது">
 
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "அது பற்றி மேலும் அறிக">
-
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "தனிப்பட்ட உலாவல்">
 
 <!ENTITY trackingProtection.title                        "தடமறியல் பாதுகாப்பு">
 <!ENTITY trackingProtection.description2                 "சில தளங்கள் உங்கள் இணைய செயல்பாட்டை கண்காணிக்கும் தடமறிகளைப் பயன்படுத்துகிறது. தடமறி பாதுகாப்புடன் உங்கள் உலாவல் நடத்தையை சேகரிக்கும் தடமறிகளை பயர்பாக்ஸ் முடக்கும்.">
-
+<!ENTITY trackingProtection.startTour1                   "இது எப்படி செயல்படுகிறது என்று பார்க்கலாம்">
