@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDownloads.title                      "Hentede filer">
-<!ENTITY aboutDownloads.empty                      "Ingen hentede filer">
+<!ENTITY aboutDownloads.title                      "Gemte filer">
+<!ENTITY aboutDownloads.empty                      "Ingen gemte filer">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
@@ -19,6 +19,6 @@
 <!ENTITY cmd.removeFromHistory.accesskey           "F">
 <!ENTITY cmd.clearList.label                       "Ryd liste">
 <!ENTITY cmd.clearList.accesskey                   "R">
-<!ENTITY cmd.clearList.tooltip                     "Fjern alle hentede filer fra oversigten, undtagen dem der er ved at blive hentet.">
+<!ENTITY cmd.clearList.tooltip                     "Fjern alle gemte filer fra oversigten, undtagen dem der er ved at blive hentet.">
 <!ENTITY cmd.searchDownloads.label                 "Søg…">
 <!ENTITY cmd.searchDownloads.key                   "S">
