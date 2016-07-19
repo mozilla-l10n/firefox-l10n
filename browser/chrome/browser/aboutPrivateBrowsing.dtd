@@ -22,7 +22,7 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "বুকমার্কসমূহ">
 <!ENTITY aboutPrivateBrowsing.note.before                "ব্যাক্তিগত ব্রাউজিং ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "আপনাকে নামহীন করবে না ">
-<!ENTITY aboutPrivateBrowsing.note.after                 "  ইন্টারনেটে - আপনার নিয়োগকর্তা কিংবা ইন্টারনেট সেবা প্রদানকারী এখনও জানতে পারবে, আপনি কোন পেজে গিয়েছিলেন।">
+<!ENTITY aboutPrivateBrowsing.note.after                 "  ইন্টারনেটে - আপনার নিয়োগকর্তা কিংবা ইন্টারনেট সেবা প্রদানকারী এখনও জানতে পারবে, আপনি কোন পাতায় গিয়েছিলেন।">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "এই সম্পর্কে আরও জানুন">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "ব্যাক্তিগত ব্রাউজিং">
 
