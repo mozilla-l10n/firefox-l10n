@@ -19,6 +19,7 @@
 <!ENTITY playSound1.accesskey "o">
 <!ENTITY showAnimatedAlert.label "wyświetlaj powiadomienie">
 <!ENTITY showAnimatedAlert.accesskey "w">
+<!ENTITY notificationAlertSettings.label "Powiadomienia można wyłączyć w panelu Powiadomienia Preferencji systemowych.">
 <!ENTITY customizeMailAlert.label "Dostosuj…">
 <!ENTITY customizeMailAlert.accesskey "s">
 
