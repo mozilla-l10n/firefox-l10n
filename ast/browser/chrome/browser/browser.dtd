@@ -750,7 +750,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "Coneutase a &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.label             "Aniciar sesión en &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "C">
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
 <!ENTITY syncSyncNowItem.accesskey    "z">
