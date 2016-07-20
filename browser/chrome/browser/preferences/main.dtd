@@ -28,7 +28,7 @@
 <!ENTITY chooseFolderWin.accesskey    "Р">
 <!ENTITY chooseFolderMac.label        "Избиране…">
 <!ENTITY chooseFolderMac.accesskey    "И">
-<!ENTITY alwaysAsk.label "Винаги да се пита къде да се записват файловете">
+<!ENTITY alwaysAsk.label "Винаги да пита къде файловете да бъдат запазвани">
 <!ENTITY alwaysAsk.accesskey "В">
 
 <!ENTITY alwaysCheckDefault2.label        "Проверяване дали &brandShortName; е стандартният браузър">

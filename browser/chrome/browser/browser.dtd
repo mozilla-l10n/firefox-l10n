@@ -193,14 +193,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Показване на уведомление">
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Показване на известие">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "Показване заявката за местоположение">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "Показване инсталационното съобщение на добавката">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Показване съобщение за хранилището на приложение">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Управление на информацията за влизане">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Щракнете, ако искате паролата да се запомни">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Управление използването на приставката в тази страница">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Промяна на настройката дали да получавате уведомления от сайта">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Промяна на правото да получавате известия от сайта">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Управление споделянето на вашата камера и/или микрофон със сайта">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Споделяте вашата камера и/или микрофон със сайта">
