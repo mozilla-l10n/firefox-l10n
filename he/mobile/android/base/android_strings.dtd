@@ -265,6 +265,7 @@
 <!ENTITY pref_whats_new_notification_summary "למד אודות תכונות חדשות לאחר עדכון">
 
 <!ENTITY tracking_protection_prompt_title "עכשיו עם הגנת מעקב">
+<!ENTITY tracking_protection_prompt_text "מתבצעת חסימה פעילה של רכיבי מעקב כדי שלא תהיה לך סיבה לדאוג.">
 <!ENTITY tracking_protection_prompt_tip_text "נא לעבור אל הגדרות הפרטיות למידע נוסף">
 <!ENTITY tracking_protection_prompt_action_button "הבנתי!">
 
@@ -275,6 +276,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "ניתן לשנות זאת מאוחר יותר בהגדרות">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "הפעלת הרשאה לציור על יישומונים אחרים">
 <!ENTITY tab_queue_prompt_positive_action_button "הפעלה">
 <!ENTITY tab_queue_prompt_negative_action_button "לא כעת">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -567,9 +569,11 @@ size. -->
 <!ENTITY home_most_recent_empty "אתרים בהם ביקרת לאחרונה יופיעו כאן.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "פססט: שימוש בa &formatS1;לשונית פרטית חדשהb&formatS2; לא תשמור את ההיסטוריה שלך.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "לא ניתן למצוא תוכן עבור חלונית זו.">
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
@@ -759,6 +763,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings "הגדרות מתקדמות">
 <!ENTITY restrictable_feature_camera_microphone "מצלמה ומיקרופון">
 <!ENTITY restrictable_feature_camera_microphone_description "מאפשר לבני משפחה לתקשר בזמן אמת בעת גלישה באתרים.">
+<!ENTITY restrictable_feature_block_list "רשימת חסימות">
 <!ENTITY restrictable_feature_block_list_description "חסימת אתרים המכילים תוכן רגיש.">
 
 <!-- Default Bookmarks titles-->
@@ -769,6 +774,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: תמיכה">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "עזרה ותמיכה של Firefox עבור פרופילים מוגבלים על מחשבי לוח מסוג Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
