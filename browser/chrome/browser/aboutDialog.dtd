@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "Via sistema administratro malaktivigis la ĝisdatigojn">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; estas ĝisdatigata de alia instanco">
+<!ENTITY update.restarting          "Restarto…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into

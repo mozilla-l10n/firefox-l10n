@@ -88,6 +88,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafikoj">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Datumbazo de lokoj">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integreco">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Kontroli integrecon">
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Poioma GC">
 
@@ -114,4 +118,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Registro de decidoj">
-
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Trajtoj malŝaltitaj de la protekto kontraŭ paneoj">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Provizoraj solvoj">

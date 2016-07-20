@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Malfermi preferojn de Open &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconnect to &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Konfirmi vian konton">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; aktiva">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; komencos tre baldaŭ speguli.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Malplejgrandigi">
@@ -682,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Sekura konekto">
 <!ENTITY identity.connectionNotSecure "Nesekura konekto">
 <!ENTITY identity.connectionFile "Tiu ĉi paĝo estas konservita en via komputilo.">
-<!ENTITY identity.connectionVerified1 "Vi estas sekure konektita al tiu ĉi retejo, funkciigita de:">
+<!ENTITY identity.connectionVerified2 "Vi estas sekure konektita al tiu ĉi retejo, kies posedanto estas:">
 <!ENTITY identity.connectionInternal "Tiu ĉi estas sekura paĝo de &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Akreditiloj uzitaj en tiu ĉi paĝo povus esti riskitaj.">
 

@@ -6,7 +6,8 @@
 <!ENTITY window.width                 "40em">
 <!ENTITY window.height                "8em">
 
-<!ENTITY doNotTrackCheckbox.label     "Uzi Ne spuri">
-<!ENTITY doNotTrackCheckbox.accesskey "U">
+<!ENTITY doNotTrackCheckbox2.label    "Ĉiam apliki \'Ne spuri\'">
+<!ENTITY doNotTrackCheckbox2.accesskey "a">
 
+<!ENTITY doNotTrackTPInfo.description "Kiam la protekto kontraŭ spurado estas aktiva, &brandShortName; sciigos ĉiujn, ke vi ne volas esti spurata.">
 <!ENTITY doNotTrackLearnMore.label    "Pli da informo">
