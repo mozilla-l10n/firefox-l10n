@@ -71,7 +71,7 @@
 <!ENTITY addDevice.dialog.connected.label   "Preséu coneutáu">
 
 <!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Coneutase">
+<!ENTITY setup.signInPage.title.label "Aniciar sesión">
 <!ENTITY existingRecoveryKey.description "Pues consiguir una copia de la clave de recuperación nes opciones de &syncBrand.shortName.label; del otru preséu y esbillando 'La mio clave de recuperación' baxo 'Alministrar cuenta'.">
 <!ENTITY verifying.label              "Verificando…">
 <!ENTITY resetPassword.label          "Restablecer contraseña">

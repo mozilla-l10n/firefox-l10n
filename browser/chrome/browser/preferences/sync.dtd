@@ -70,7 +70,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Nun s'anició sesión.">
-<!ENTITY signIn.label                "Coneutar">
+<!ENTITY signIn.label                "Aniciar sesión">
 <!ENTITY profilePicture.tooltip      "Camudar imaxe de perfil">
 <!ENTITY verifiedManage.label        "Remanar cuenta">
 <!ENTITY disconnect.label            "Desconeutar…">
@@ -78,7 +78,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Escaez esti mensaxe">
 
 <!ENTITY welcome.description "Accede a les llingüetes, marcadores, contraseñes y más siempre qu'uses &brandShortName;.">
-<!ENTITY welcome.signIn.label "Coneutase">
+<!ENTITY welcome.signIn.label "Aniciar sesión">
 <!ENTITY welcome.createAccount.label "Crear cuenta">
 
 <!ENTITY welcome.useOldSync.label "¿Uses una versión vieya de Sync?">
