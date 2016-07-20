@@ -89,7 +89,7 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "0">
 
-<!ENTITY copyURLCmd.label     "Копиране на адреса на препратката">
+<!ENTITY copyURLCmd.label     "Копиране на адреса">
 <!ENTITY copyURLCmd.accesskey "а">
 
 <!ENTITY closeCmd.key         "W">

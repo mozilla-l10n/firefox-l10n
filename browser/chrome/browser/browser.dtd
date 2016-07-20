@@ -448,7 +448,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "д">
 <!ENTITY openLinkCmd.label            "Отваряне в нов прозорец">
 <!ENTITY openLinkCmd.accesskey        "п">
-<!ENTITY openLinkInPrivateWindowCmd.label "Отваряне в нов прозорец за поверително сърфиране">
+<!ENTITY openLinkInPrivateWindowCmd.label "Отваряне в прозорец за поверително сърфиране">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "п">
 <!ENTITY openLinkCmdInCurrent.label     "Отваряне на връзката">
 <!ENTITY openLinkCmdInCurrent.accesskey "ъ">
@@ -456,7 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "д">
 <!ENTITY openFrameCmd.label           "Отваряне в нов прозорец">
 <!ENTITY openFrameCmd.accesskey       "п">
-<!ENTITY openLinkCmdInContainerTab.label "Отваряне на връзка в независим раздел">
+<!ENTITY openLinkCmdInContainerTab.label "Отваряне в независим раздел">
 <!ENTITY openLinkCmdInContainerTab.accesskey "О">
 <!ENTITY showOnlyThisFrameCmd.label     "Показване само на тази рамка">
 <!ENTITY showOnlyThisFrameCmd.accesskey "р">
@@ -526,7 +526,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "т">
 <!ENTITY hidePluginCmd.label          "Скриване на тази приставка">
 <!ENTITY hidePluginCmd.accesskey      "С">
-<!ENTITY copyLinkCmd.label            "Копиране на адреса на препратката">
+<!ENTITY copyLinkCmd.label            "Копиране на адреса">
 <!ENTITY copyLinkCmd.accesskey        "а">
 <!ENTITY copyImageCmd.label           "Копиране адреса на изображението">
 <!ENTITY copyImageCmd.accesskey       "п">
@@ -536,7 +536,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "т">
 <!ENTITY copyAudioURLCmd.label        "Копиране адреса на аудиото">
 <!ENTITY copyAudioURLCmd.accesskey    "т">
-<!ENTITY copyEmailCmd.label           "Копиране на адреса за е-поща">
+<!ENTITY copyEmailCmd.label           "Копиране на електронния адрес">
 <!ENTITY copyEmailCmd.accesskey       "е">
 <!ENTITY thisFrameMenu.label              "Тази рамка">
 <!ENTITY thisFrameMenu.accesskey          "р">
