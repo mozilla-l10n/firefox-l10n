@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "C">
 <!ENTITY restoreHTMLDefaults.label            "Adfer y Rhagosodiad">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
-
-
+<!ENTITY defaultToParagraph.label             "Defnyddio'r Fformat Paragraff yn lle Testun Corff drwy ragosodiad">
+<!ENTITY defaultToParagraph.accesskey         "P">
 
 <!ENTITY spellCheck.label                     "Gwirio sillafu cyn anfon">
 <!ENTITY spellCheck.accesskey                 "s">
