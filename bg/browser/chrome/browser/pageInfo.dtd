@@ -74,11 +74,11 @@
 <!ENTITY  securityView.identity.verifier "Проверено от:">
 
 <!ENTITY  securityView.privacy.header                   "Поверителност и история">
-<!ENTITY  securityView.privacy.history                  "Посещавал ли съм този сайт някога, изключвайки днешния ден?">
+<!ENTITY  securityView.privacy.history                  "Посещавал ли съм този сайт и преди, изключвайки днес?">
 <!ENTITY  securityView.privacy.cookies                  "Съхранява ли този сайт информация (бисквитки) на компютъра ми?">
 <!ENTITY  securityView.privacy.viewCookies              "Преглед на бисквитките">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "б">
-<!ENTITY  securityView.privacy.passwords                "Запазих ли пароли за този сайт?">
+<!ENTITY  securityView.privacy.passwords                "Имам ли запазени пароли за този сайт?">
 <!ENTITY  securityView.privacy.viewPasswords            "Преглед на запазените пароли">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "п">
 
