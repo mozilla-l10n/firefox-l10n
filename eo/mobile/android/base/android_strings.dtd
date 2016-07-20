@@ -27,8 +27,16 @@
 <!ENTITY firstrun_tabqueue_subtext_off "Konservi ligilojn por posta vido en &brandShortName; kiam vi tuŝetas ilin en aliaj programoj.">
 
 <!ENTITY firstrun_tabqueue_message_on "Sukceso!">
+<!ENTITY firstrun_tabqueue_subtext_on "Vi povas ĉiam malŝalti tion ĉi en \'&settings;\' sub \'&pref_category_general;\'.">
 
-<!ENTITY firstrun_notifications_title "Blogoj">
+<!ENTITY firstrun_readerview_title "Artikoloj">
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Forigi la superfluon">
+<!ENTITY firstrun_readerview_subtext "Uzu legilan vidon por igi artikolojn facile legeblaj \u2014 eĉ malkonektite.">
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Vi">
+<!ENTITY firstrun_account_message "Ĉu vi havas &brandShortName; en alia aparato?">
 
 <!ENTITY  onboard_start_restricted1 "Estu sekura kaj regu vian retumadon per tiu ĉi simpligita versio de &brandShortName;.">
 
@@ -36,9 +44,11 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Legosignoj">
 <!ENTITY  history_title "Historio">
-<!ENTITY  recent_tabs_title "Freŝaj langetoj">
 
 <!ENTITY  switch_to_tab "Iri al langeto">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Malkonektita versio montrata">
 
 <!ENTITY  crash_reporter_title "Raportado de paneoj de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; havis problemon kaj paneis. Post restarto, viaj langetoj devus esti listitaj en la eka paĝo de  &brandShortName;.">
@@ -181,6 +191,14 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Konsileto: aldonu iun ajn retejon al via listo de serĉiloj per longa premo sur la serĉkampo kaj posta tuŝo de la emblemo &formatI;.">
 <!ENTITY pref_category_advanced "Spertulaj">
+<<<<<<< local
+<!-- Localization note (pref_category_advanced_summary3) : "data saver" means
+     "reduce the amount of data being transferred". -->
+=======
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
+>>>>>>> other
 <!ENTITY pref_category_advanced_summary3 "Restarigo de langetoj, datumŝparo, programistaj iloj">
 <!ENTITY pref_category_notifications "Sciigoj">
 <!ENTITY pref_category_notifications_summary "Novaj trajtoj, retejaj ĝisdatigoj">
@@ -232,6 +250,14 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktivaj, krom la nerektaj">
 <!ENTITY pref_cookies_disabled "Malaktiva">
 
+<<<<<<< local
+<!-- Localization note (pref_category_data_saver) : "data saver" means
+     "reduce the amount of data being transferred". -->
+=======
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
+>>>>>>> other
 <!ENTITY pref_category_data_saver "Datumŝparilo">
 <!ENTITY pref_category_media "Aŭdvidaĵoj">
 <!ENTITY pref_category_developer_tools "Programistaj iloj">
@@ -368,6 +394,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Spegulitaj langetoj">
 
 <!ENTITY pref_default_browser "Igi retumilon norma">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Vizitu la helpan paĝon de Mozilla">
 <!ENTITY pref_about_firefox "Pri &brandShortName;">
 <!ENTITY pref_vendor_faqs "Oftaj demandoj">
 <!ENTITY pref_vendor_feedback "Sendi komentojn">
@@ -556,10 +583,12 @@ size. -->
 <!ENTITY home_clear_history_button "Viŝi retuman historion">
 <!ENTITY home_clear_history_confirm "Ĉu vi certe volas viŝi vian historion?">
 <!ENTITY home_bookmarks_empty "Konservitaj legosignoj videblos ĉi tie.">
-<!ENTITY home_closed_tabs_title "Antaŭ nelonge fermitaj langetoj">
-<!ENTITY home_last_tabs_title "Lastfojaj langetoj">
+<!ENTITY home_closed_tabs_title2 "Ĵuse fermitaj">
 <!ENTITY home_last_tabs_empty "Tie ĉi videblos viaj langetoj el antaŭ nelonge.">
-<!ENTITY home_open_all "Malfermi ĉiujn">
+<!ENTITY home_restore_all "Restarigi ĉiujn">
+<!ENTITY home_closed_tabs_number "&formatD; langetoj">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "unu langeto">
 <!ENTITY home_most_recent_empty "La laste vizititaj retejoj aperas ĉi tie.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -611,7 +640,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Sekura konekto">
 <!ENTITY identity_connection_insecure "Nesekura konekto">
-<!ENTITY identity_login_insecure "Tiu ĉi paĝo ne estas sekura kaj viaj akreditiloj povus esti en danĝero.">
 <!ENTITY identity_connection_chromeui "Tiu ĉi estas sekura paĝo de &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
@@ -792,5 +820,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_message "Eĉ malkonektite, trovi inter la legosignoj viajn elementojn de legila vido.">
 <!ENTITY helper_first_offline_bookmark_button "Iri al legosignoj">
 
+<!ENTITY helper_triple_readerview_open_title "Malkonektite disponebla">
+<!ENTITY helper_triple_readerview_open_message "Aldoni al legosignoj elementojn de legila vido, por legi ilin malkonektite.">
 <!ENTITY helper_triple_readerview_open_button "Aldoni al legosignoj">
 

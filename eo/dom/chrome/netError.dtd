@@ -84,6 +84,9 @@
 <!ENTITY cspBlocked.title "Blokita de la sekureca politiko pri enhavo">
 <!ENTITY cspBlocked.longDesc "<p>La restesplorilo ne permesis ŝargi la paĝon ĉi tiel, ĉar la paĝo havas sekurecan politikon pri enhavo kiu malpermesas tion.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Eraro pro difektita enhavo">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La paĝo, kiun vi klopodas vidi, ne povas esti montrita ĉar okazis eraro dum la transmeto de datumoj.</p><ul><li>Bonvolu kontakti la posedantojn de la retejo por raporti al ili tiun ĉi problemon.</li></ul>">
+
 <!ENTITY remoteXUL.title "Fora XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Bonvolu kontakti la posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li></ul></p>">
 
