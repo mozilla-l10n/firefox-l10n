@@ -44,6 +44,8 @@
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 
+<!ENTITY options.collapseAttrs.label "DOM বৈশিষ্ট্য টার্নকেট করো">
+<!ENTITY options.collapseAttrs.tooltip "পরিদর্কের দীর্ঘ বৈশিষ্ট্য টার্নকেট করো">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
