@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Arall:">
 <!ENTITY archiveInOtherFolder.accesskey "r">
 <!ENTITY specialFolders.label "Drafftiau a Thempledi">
-
+<!ENTITY keepDrafts2.label "Cadw negeseuon drafft yn:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Ffolder &quot;Drafftiau&quot; yn:">
 <!ENTITY draftsFolderOn.accesskey "D">
