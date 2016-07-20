@@ -68,6 +68,7 @@
 <!ENTITY fxaccount_status_history 'היסטוריה'>
 <!ENTITY fxaccount_status_passwords2 'כניסות'>
 <!ENTITY fxaccount_status_tabs 'לשוניות פתוחות'>
+<!ENTITY fxaccount_status_legal 'מידע משפטי' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
