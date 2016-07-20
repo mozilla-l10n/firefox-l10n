@@ -18,9 +18,9 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Ulteriori informazioni">
 <!ENTITY changeBlockList.label "Seleziona elenco">
 <!ENTITY changeBlockList.accesskey "l">
-<!ENTITY  doNotTrack.pre.label "È inoltre possibile ">
-<!ENTITY  doNotTrack.settings.label "gestire le impostazioni relative a Do Not Track">
-<!ENTITY  doNotTrack.post.label ".">
+<!ENTITY doNotTrack.pre.label "È inoltre possibile ">
+<!ENTITY doNotTrack.settings.label "gestire le impostazioni relative a Do Not Track">
+<!ENTITY doNotTrack.post.label ".">
 <!ENTITY history.label "Cronologia">
 <!ENTITY locationBar.label "Barra degli indirizzi">
 <!ENTITY locbar.suggest.label "Nella barra degli indirizzi visualizza suggerimenti da:">
