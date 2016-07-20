@@ -19,10 +19,10 @@
 <!ENTITY  sans-serif.label                        "Безсерифен:">
 <!ENTITY  sans-serif.accesskey                    "Б">
 <!ENTITY  monospace.label                         "Равноширок:">
-<!ENTITY  monospace.accesskey                     "Р">
+<!ENTITY  monospace.accesskey                     "в">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Латински">
 <!ENTITY  font.langGroup.japanese                 "Японски">
 <!ENTITY  font.langGroup.trad-chinese             "Традиционен китайски (Тайван)">
@@ -56,18 +56,18 @@
 <!ENTITY minSize.label                            "Минимален размер:">
 <!ENTITY minSize.accesskey                        "М">
 <!ENTITY minSize.none                             "Няма">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Серифен">
 <!ENTITY  useDefaultFontSansSerif.label           "Безсерифен">
 
 <!ENTITY  allowPagesToUse.label                   "Позволяване на страниците да избират собствен шрифт вместо горните">
 <!ENTITY  allowPagesToUse.accesskey               "П">
 
-<!ENTITY languages.customize.Fallback2.grouplabel "Кодиране на текст за остаряло съдържание">
-<!ENTITY languages.customize.Fallback2.label      "Резервно кодиране на текст:">
-<!ENTITY languages.customize.Fallback2.accesskey  "т">
-<!ENTITY languages.customize.Fallback2.desc       "Това кодиране на текста се използва за съдържание, което не предоставя информация за кодирането.">
+<!ENTITY languages.customize.Fallback2.grouplabel "Кодиране на остаряло съдържание">
+<!ENTITY languages.customize.Fallback2.label      "Резервна кодировка:">
+<!ENTITY languages.customize.Fallback2.accesskey  "к">
+<!ENTITY languages.customize.Fallback2.desc       "Това кодиране ще се използва за съдържание, което не предоставя информация за своята кодировка.">
 
 <!ENTITY languages.customize.Fallback.auto        "Текущият локал да стане стандартен">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
