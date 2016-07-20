@@ -111,7 +111,7 @@
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
 <!ENTITY options.disableHTTPCache.label     "HTTP ক্যাশে নিষ্ক্রিয় করুন (টুলবক্স খোলা থাকাকালীন)">
-
+<!ENTITY options.disableHTTPCache.tooltip   "এই অপশনটি চালু করলে, যেসকল ট্যাব এর টুলবক্স খোলা রয়েছে, সেগুলোর HTTP ক্যাশে নিষ্ক্রিয় হয়ে যাবে। পরিসেবা কার্যক্রমে এই অপশনের কোন প্রভাব পরবে না।">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->

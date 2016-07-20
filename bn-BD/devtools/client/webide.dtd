@@ -196,7 +196,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "আপনার অন্য ডিভাইস যদি QR কোড স্ক্যানিং এর পরিবর্তে একটি টোকেন চায়, তবে অনুগ্রহ করে সেই ডিভাইসের নিচের মানটি অনুলিপি করে রাখুন:">
-
+<!ENTITY wifi_auth_qr_size_note "সফলভাবে সংযোগ করতে গিয়ে যদি কিউআর কোডের আকার ছোট মনে হয়, তাহলে উইন্ডো বড় করুন বা জুম করুন।">
 <!-- Logs panel -->
 
 <!ENTITY logs_title "প্রি-প্যাকেজ কমান্ড লগ">
