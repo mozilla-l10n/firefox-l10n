@@ -76,5 +76,6 @@
 <!ENTITY clearOnCloseSettings.label "Impostazioni…">
 <!ENTITY clearOnCloseSettings.accesskey "I">
 <!ENTITY browserContainersHeader.label "Schede contenitore">
+<!ENTITY browserContainersLearnMore.label "Ulteriori informazioni">
 <!ENTITY browserContainersEnabled.label "Attiva schede contenitore">
 <!ENTITY browserContainersEnabled.accesskey "h">
