@@ -37,7 +37,7 @@
 <!ENTITY fileNotFound.title "Nun s'alcontró'l ficheru">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Comprueba les mayúscules del nome'l ficheru u otros fallos d'escritura.</li>
+  <li>Comprueba les mayúscules u otros fallos d'escritura nel nome'l ficheru.</li>
   <li>Mira si'l ficheru se movió, renomó o desanició.</li>
 </ul>
 ">
