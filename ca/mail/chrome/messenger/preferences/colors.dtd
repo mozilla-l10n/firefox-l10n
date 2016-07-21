@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "48em">
 <!ENTITY  window.macWidth                 "51em">
 
-<!ENTITY  overridePageColors.label        "Sobreescriu els colors especificats pels continguts per la meva selecció:">
-<!ENTITY  overridePageColors.accesskey    "O">
+<!ENTITY  overridePageColors.label        "Sobreescriu els colors especificats pel contingut per la meva selecció:">
+<!ENTITY  overridePageColors.accesskey    "o">
 
 <!ENTITY  overridePageColors.always.label "Sempre">
 <!ENTITY  overridePageColors.auto.label   "Només amb temes de contrast alt">
