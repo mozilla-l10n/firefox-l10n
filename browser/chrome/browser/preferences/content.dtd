@@ -12,8 +12,8 @@
 <!ENTITY  notificationsPolicyDesc3.label       "Изберете на кои сайтове е разрешено да ви изпращат известия">
 <!ENTITY  notificationsPolicyButton.accesskey  "И">
 <!ENTITY  notificationsPolicyButton.label      "Избиране…">
-<!ENTITY  notificationsDoNotDisturb.label      "Зает">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "З">
+<!ENTITY  notificationsDoNotDisturb.label      "Не ме безпокойте">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "з">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Няма да бъдат показвани известия, докато не рестартирате &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Изключения…">
