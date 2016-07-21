@@ -79,7 +79,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je zaustavio učitavanje ove stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Greška oštećenog sadržaja">
-
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Stranicu kojoj pokušavate pristupiti nije moguće prikazati zbog greške u prijenosu podataka.</p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ili možete dodati iznimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Izvuci me odavdje!">
@@ -95,5 +95,7 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "Udaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Vaša veza nije sigurna">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje ste smatrali da su sigurne. Administrator web stranice će trebati popraviti poslužitelj prije nego možete posjetiti stranicu.</p><p>Kod greške: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

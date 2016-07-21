@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Vrati zadane postavke">
 <!ENTITY restoreHTMLDefaults.accesskey        "r">
-
-
+<!ENTITY defaultToParagraph.label             "Koristi kao zadano oblik odlomka umjesto teksta tijela">
+<!ENTITY defaultToParagraph.accesskey         "o">
 
 <!ENTITY spellCheck.label                     "Provjeri pravopis prije slanja">
 <!ENTITY spellCheck.accesskey                 "P">
