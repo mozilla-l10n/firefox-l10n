@@ -17,7 +17,7 @@
 <!ENTITY aboutProduct2.label      "Tocante a &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "T">
 <!ENTITY productHelp2.label       "Ayuda de &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "y">
+<!ENTITY productHelp2.accesskey   "A">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Atayos de tecláu">
