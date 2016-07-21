@@ -55,7 +55,7 @@
 <!ENTITY otherActionsOpenConversation1.accesskey "д">
 <!ENTITY otherActionsOpenInNewWindow1.label "Отваряне в нов прозорец">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "н">
-<!ENTITY otherActionsOpenInNewTab1.label "Отваряне в нов подпрозорец">
+<!ENTITY otherActionsOpenInNewTab1.label "Отваряне в раздел">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "п">
 <!ENTITY markAsReadMenuItem1.label "Отбелязване като прочетено">
 <!ENTITY markAsReadMenuItem1.accesskey "п">
@@ -67,12 +67,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "П">
 <!ENTITY otherActionsPrint1.label "Печат…">
 <!ENTITY otherActionsPrint1.accesskey "П">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Начално показване на панела с притурки">
 <!ENTITY startExpandedCmd.accesskey    "п">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Отваряне">
 <!ENTITY openAttachmentCmd.accesskey    "О">
 <!ENTITY saveAsAttachmentCmd.label    "Запис на всички…">
@@ -91,8 +91,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "з">
 
 <!ENTITY openAttachment.tooltip "Отваряне на прикрепения файл">
-<!-- Attachment toolbar items -->
 
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Запис">
 <!ENTITY saveAttachmentButton1.tooltip     "Запис на прикрепения файл">
 <!ENTITY saveAllAttachmentsButton1.label   "Запис на всички">
