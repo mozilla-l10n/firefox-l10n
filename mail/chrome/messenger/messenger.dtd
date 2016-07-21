@@ -114,8 +114,8 @@
 <!ENTITY folderPropsFolderCmd2.label "Propriedades da pasta">
 <!ENTITY folderPropsNewsgroupCmd2.label "Propriedades do grupo de notícias">
 <!ENTITY folderPropsCmd.accesskey "e">
-<!ENTITY undoDeleteMsgCmd.label "Anular (excluir mensagem)">
-<!ENTITY redoDeleteMsgCmd.label "Refazer (excluir mensagem)">
+<!ENTITY undoDeleteMsgCmd.label "Anular (apagar mensagem)">
+<!ENTITY redoDeleteMsgCmd.label "Refazer (apagar mensagem)">
 <!ENTITY undoMoveMsgCmd.label "Anular (mover mensagem)">
 <!ENTITY redoMoveMsgCmd.label "Refazer (mover mensagem)">
 <!ENTITY undoCopyMsgCmd.label "Anular (copiar mensagem)">
