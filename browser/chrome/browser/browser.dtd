@@ -38,7 +38,7 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Fixar llingüeta">
 <!ENTITY  pinTab.accesskey                   "F">
-<!ENTITY  unpinTab.label                     "Desaniciar llingüeta fixada">
+<!ENTITY  unpinTab.label                     "Desfixar llingüeta">
 <!ENTITY  unpinTab.accesskey                 "x">
 <!ENTITY  moveToNewWindow.label              "Mover a ventana nueva">
 <!ENTITY  moveToNewWindow.accesskey          "V">
@@ -171,7 +171,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Amosar más marcadores">
 <!ENTITY showRecentlyBookmarked.label     "Amosar marcadores de recién">
 <!ENTITY showRecentlyBookmarked.accesskey "m">
-<!ENTITY hideRecentlyBookmarked.label     "Anubrir marcadores de recién">
+<!ENTITY hideRecentlyBookmarked.label     "Anubrir marcadores d'apocaya">
 <!ENTITY hideRecentlyBookmarked.accesskey "n">
 
 <!ENTITY backCmd.label                "Atrás">
@@ -441,7 +441,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "Guetar en llingüeta nueva">
 <!ENTITY searchInNewTab.accesskey     "L">
-<!ENTITY searchSetAsDefault.label     "Afitar como motor de gueta predetermináu">
+<!ENTITY searchSetAsDefault.label     "Afitar como motor de gueta por defeutu">
 <!ENTITY searchSetAsDefault.accesskey "A">
 
 <!ENTITY openLinkCmdInTab.label       "Abrir enllaz en llingüeta nueva">
@@ -463,7 +463,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recargar marcu">
 <!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Ver códigu fonte seleicionáu">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Ver códigu fonte d'esbilla">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Ver el códigu fonte MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
@@ -526,15 +526,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "Anubrir esti plugin">
 <!ENTITY hidePluginCmd.accesskey      "t">
-<!ENTITY copyLinkCmd.label            "Copiar la ruta del enllaz">
+<!ENTITY copyLinkCmd.label            "Copiar allugamientu d'enllaz">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "Copiar la ruta de la imaxe">
+<!ENTITY copyImageCmd.label           "Copiar allugamientu d'imaxe">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Copiar imaxe">
 <!ENTITY copyImageContentsCmd.accesskey  "C"> 
-<!ENTITY copyVideoURLCmd.label        "Copiar direición del videu">
+<!ENTITY copyVideoURLCmd.label        "Copiar allugamientu del videu">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Copiar direición del audiu ">
+<!ENTITY copyAudioURLCmd.label        "Copiar allugamientu del audiu">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Copiar direición de corréu-e">
 <!ENTITY copyEmailCmd.accesskey       "E">
@@ -569,7 +569,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Ridícula (2 ×)">
+<!ENTITY mediaPlaybackRate200x2.label "Perrápida (2 ×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "i">
 <!ENTITY mediaLoop.label             "Repitir">
 <!ENTITY mediaLoop.accesskey         "R">
@@ -598,37 +598,37 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Aumentar">
+<!ENTITY fullZoomEnlargeCmd.label       "Averar">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "A">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Amenorgar">
+<!ENTITY fullZoomReduceCmd.label        "Alloñar">
 <!ENTITY fullZoomReduceCmd.accesskey    "e">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Aniciu">
+<!ENTITY fullZoomResetCmd.label         "Reaniciar">
 <!ENTITY fullZoomResetCmd.accesskey     "n">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Namái ampliar testu">
+<!ENTITY fullZoomToggleCmd.label        "Namái facer zoom al testu">
 <!ENTITY fullZoomToggleCmd.accesskey    "p">
-<!ENTITY fullZoom.label                 "Tamañu">
+<!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "m">
 
 <!ENTITY sidebarCloseButton.tooltip     "Zarra'l panel llateral">
 
-<!ENTITY quitApplicationCmdWin2.label       "Salir">
+<!ENTITY quitApplicationCmdWin2.label       "Colar">
 <!ENTITY quitApplicationCmdWin2.accesskey   "S">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Cola de &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Colar"> 
 <!ENTITY quitApplicationCmd.accesskey   "C">
-<!ENTITY quitApplicationCmdMac2.label   "Salir de &brandShorterName;">
+<!ENTITY quitApplicationCmdMac2.label   "Colar de &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -651,21 +651,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Editar preferencies de bloquéu de ventanes emerxentes…">
-<!ENTITY editPopupSettings.label "Editar opciones de bloquéu de ventanes emerxentes…">
+<!ENTITY editPopupSettingsUnix.label "Editar preferencies de bloquéu de ventanos emerxentes…">
+<!ENTITY editPopupSettings.label "Editar opciones de bloquéu de ventanos emerxentes…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "N">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Cambiar direición de la páxina">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Camudar direición de la páxina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Cambiar direición del testu">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Camudar direición del testu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "d">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Guetar nesta páxina…">
+<!ENTITY findOnCmd.label     "Alcontrar nesta páxina…">
 <!ENTITY findOnCmd.accesskey "G">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Repetir la gueta">
+<!ENTITY findAgainCmd.label  "Alcontrar de nueves">
 <!ENTITY findAgainCmd.accesskey "e">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
@@ -674,24 +674,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Amestar diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "Finar">
+<!ENTITY editBookmark.done.label                     "Fecho">
 <!ENTITY editBookmark.removeBookmark.accessKey       "r">
 
 <!ENTITY identity.connectionSecure "Conexón segura">
-<!ENTITY identity.connectionNotSecure "Conexón non segura">
-<!ENTITY identity.connectionFile "Esta páxina ta almacenada nel pc.">
-<!ENTITY identity.connectionVerified2 "La conexón a esti sitiu ye segura, fornío por:">
-<!ENTITY identity.connectionInternal "Esta ye una páxina &brandShortName; segura.">
-<!ENTITY identity.insecureLoginForms2 "Anicios de sesión ingresaos nesta páxina puen ser peligrosos.">
+<!ENTITY identity.connectionNotSecure "La conexón nun ye segura">
+<!ENTITY identity.connectionFile "Esta páxina ta atroxada nel to ordenador.">
+<!ENTITY identity.connectionVerified2 "Tas coneutáu de mou seguru a esti sitiu, propiedá de:">
+<!ENTITY identity.connectionInternal "Esta ye una páxina segura de &brandShortName;.">
+<!ENTITY identity.insecureLoginForms2 "Quiciabes se comprometieren los anicios de sesión introducíos nesta páxina.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; bloquió partes d'esta páxina que nun son segures.">
 <!ENTITY identity.passiveLoaded "Partes d'esta páxina nun son segures (cómo imáxenes).">
-<!ENTITY identity.activeLoaded "Deshabilitasti la proteición nesta páxina.">
-<!ENTITY identity.weakEncryption "Esta páxina usa encriptación feble.">
+<!ENTITY identity.activeLoaded "Deshabilitesti la proteición nesta páxina.">
+<!ENTITY identity.weakEncryption "Esta páxina usa cifráu feble.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "La conexón a esti sitiu nun ye privada. La información qu'unvies van poder vela otros (como contraseñes, mensaxes, tarxetes de creitu, etc.).">
+<!ENTITY identity.description.insecure "La to conexón a esti sitiu nun ye privada. La información qu'unvies, (como contraseñes, mensaxes, tarxetes de creitu... etc), quiciabes puean vela otros.">
 <!ENTITY identity.description.insecureLoginForms "La información del aniciu de sesión qu'inxertes nesta páxina nun ta segura y pue vese afeutada.">
 <!ENTITY identity.description.weakCipher "La conexón con esti sitiu web usa encriptación feble y nun ye privada.">
 <!ENTITY identity.description.weakCipher2 "Otres persones puen ver esta información o modificar el comportamientu del sitiu web.">

@@ -10,5 +10,5 @@
 <!ENTITY aboutAccountsConfig.useOldSync.label "¿Uses una versión vieya de Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Preferencies de Sync">
 <!ENTITY aboutAccounts.noConnection.title "Ensin conexón">
-<!ENTITY aboutAccounts.noConnection.description "Tienes de tar coneutáu a internet p'aniciar sesión.">
-<!ENTITY aboutAccounts.noConnection.retry "Tentalo de nueves">
+<!ENTITY aboutAccounts.noConnection.description "Has tar coneutáu a internet p'aniciar sesión.">
+<!ENTITY aboutAccounts.noConnection.retry "Tentar de nueves">

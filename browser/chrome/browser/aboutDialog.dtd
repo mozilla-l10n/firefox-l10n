@@ -10,7 +10,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Comprobar anovamientos">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2                "Reanicia &brandShortName; p'anovar">
+<!ENTITY update.updateButton.label2                "Reaniciar &brandShortName; p'anovar">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Aplicar anovamientu…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
@@ -28,7 +28,7 @@
 <!ENTITY community.exp.middle       " ye una ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "comunidá global">
-<!ENTITY community.exp.end          " que trabaya xunida pa caltener la Web abierta, pública y accesible pa toos.">
+<!ENTITY community.exp.end          " que trabaya xunida pa caltener la web abierta, pública y accesible pa toos.">
 
 <!ENTITY community.start2           "&brandShortName; ta diseñáu por ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -36,14 +36,14 @@
 <!ENTITY community.middle2          ", una ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "comunidá global">
-<!ENTITY community.end3             " que trabaya xunida pa caltener la Web abierta, pública y accesible pa toos.">
+<!ENTITY community.end3             " que trabaya xunida pa caltener la web abierta, pública y accesible pa toos.">
 
 <!ENTITY helpus.start               "¿Quies ayudar? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "¡Fai una donación">
 <!ENTITY helpus.middle              " o ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "involúcrate!">
+<!ENTITY helpus.getInvolvedLink     "andecha!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Qué hai nuevo">
@@ -52,7 +52,7 @@
 <!ENTITY bottomLinks.license        "Información de llicencia">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Derechos del usuariu final">
+<!ENTITY bottomLinks.rights         "Drechos del usuariu final">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Política de privacidá">
@@ -62,9 +62,9 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; ta anováu">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Anovamientos desactivaos pol to alministrador de sistemes">
+<!ENTITY update.adminDisabled       "Anovamientos deshabilitaos pol to alministrador de sistemes">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; ta anovándose por otra instancia">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; ta anovándose per otra instancia">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -79,7 +79,7 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Anovamientu disponible en ">
+<!ENTITY update.manual.start        "Anovamientos disponible en ">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
@@ -105,5 +105,5 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Anguaño tas na canal d'anovamientos ">
-<!ENTITY channel.description.end    " . ">
+<!ENTITY channel.description.start  "Anguaño tas na canal">
+<!ENTITY channel.description.end    " d'anovamientos. ">
