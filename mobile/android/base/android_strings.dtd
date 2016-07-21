@@ -767,7 +767,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_private_browsing "Navegação privada">
 <!ENTITY restrictable_feature_private_browsing_description "Permite que membros da família naveguem sem guardar informações sobre sites e páginas que eles visitaram.">
 <!ENTITY restrictable_feature_clear_history "Limpar histórico">
-<!ENTITY restrictable_feature_clear_history_description "Permite que membros da família eliminem informação sobre sites e páginas que eles visitaram.">
+<!ENTITY restrictable_feature_clear_history_description "Permite que membros da família apaguem as informações sobre sites e páginas que visitaram.">
 <!ENTITY restrictable_feature_advanced_settings "Definições avançadas">
 <!ENTITY restrictable_feature_advanced_settings_description "Isto inclui importação de marcadores, reposição de separadores e atualizações automáticas. Desative esta opção para definições simplificadas adequadas para qualquer membro da família.">
 <!ENTITY restrictable_feature_camera_microphone "Câmara e microfone">
