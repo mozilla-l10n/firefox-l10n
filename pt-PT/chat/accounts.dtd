@@ -24,8 +24,8 @@
 <!ENTITY account.connect.accesskey    "L">
 <!ENTITY account.disconnect.label     "Desligar">
 <!ENTITY account.disconnect.accesskey "i">
-<!ENTITY account.delete.label         "Eliminar">
-<!ENTITY account.delete.accesskey     "E">
+<!ENTITY account.delete.label         "Apagar">
+<!ENTITY account.delete.accesskey     "A">
 <!ENTITY account.edit.label           "Propriedades">
 <!ENTITY account.edit.accesskey       "P">
 <!ENTITY account.moveup.label         "Mover para cima">
