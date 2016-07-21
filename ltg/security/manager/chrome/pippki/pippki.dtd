@@ -19,7 +19,7 @@
 <!ENTITY downloadCert.title "Lejupīluodē sertifikatus">
 <!ENTITY downloadCert.message1 "Jiusim tīk vaicuots uzaticeitīs jaunai Sertifikatu Autoritatei (CA).">
 <!ENTITY downloadCert.trustSSL "Uzaticeitīs itai CA šķārsteikla vītņu identificiešonai.">
-<!ENTITY downloadCert.trustEmail "Uzaticeitīs itai CA e-posta lītuotuoju identificiešonai.">
+<!ENTITY downloadCert.trustEmail "Uzaticeitīs itai CA eposta lītuotuoju identificiešonai.">
 <!ENTITY downloadCert.trustObjSign "Uzaticeitīs itai CA programaturys izstruoduotuoju identificiešonai.">
 <!ENTITY downloadCert.message3 "Pyrms uzaticit itai CA sevkaidam mierkim, jiusim vajadzeitu izpieteit tuos sertifikatu i (nui pīejams) tuos sertifikatu izsnīgšonys politiku i procedurys.">
 <!ENTITY downloadCert.viewCert.label "Apsavērt">

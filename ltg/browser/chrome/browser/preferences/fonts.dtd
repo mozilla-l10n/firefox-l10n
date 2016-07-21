@@ -64,10 +64,10 @@
 <!ENTITY  allowPagesToUse.label                   "Ļaut lopom izavieleit pošom sovus fontus manis izavalātū fontu vītā">
 <!ENTITY  allowPagesToUse.accesskey               "a">
 
-<!ENTITY languages.customize.Fallback2.grouplabel "Rokstzeimju kodiejums nazynuomam saturam">
+<!ENTITY languages.customize.Fallback2.grouplabel "Simbolu kodiejums nazynuomam saturam">
 <!ENTITY languages.customize.Fallback2.label      "Fallback Text Encoding:">
 <!ENTITY languages.customize.Fallback2.accesskey  "T">
-<!ENTITY languages.customize.Fallback2.desc       "Itys rokstzeimju kodiejums tiks izmontuots saturam, kurs nazyņuos par sovu rokstu zeimu kodiejumu.">
+<!ENTITY languages.customize.Fallback2.desc       "Itys simbolu kodiejums tiks izmontuots saturam, kurs nazyņuos par sovu simbolu kodiejumu.">
 
 <!ENTITY languages.customize.Fallback.auto        "Nūkluseitī izavālātajai volūdai">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):

@@ -4,6 +4,7 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-<!ENTITY ChooseApp.description "Izavielit programu">
+<!ENTITY ChooseOtherApp.description "Izavielit programu">
 <!ENTITY ChooseApp.label "Izavieleit... ">
 <!ENTITY ChooseApp.accessKey "I">
+<!ENTITY accept "Attaiseit saiti">

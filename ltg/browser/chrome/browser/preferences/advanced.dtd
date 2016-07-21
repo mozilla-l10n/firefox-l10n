@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Napuorbaudeit atjaunynuojumu pīejameibu (nav īteicams: drūseibys risks)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Breidynuot, nui tys deaktivēs kaidu nu munim papyldynuojumym">
-<!ENTITY updateAutoAddonWarn.accesskey   "B">
-
 <!ENTITY updateHistory.label             "Paruodeit atjaunynuojumu viesturi">
 <!ENTITY updateHistory.accesskey         "P">
 

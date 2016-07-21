@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Attaiseit &syncBrand.shortName.label; īstatiejumus">
 <!ENTITY fxaSignInError.label "Atkuortuoti sasavīnuot ar &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Puorbaudit sovu kontu.">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; aktivāta">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; tiuleņ suoksīs.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizeit">
@@ -171,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Naseņ saglobuotuos">
 <!ENTITY otherBookmarksCmd.label "Cytys gruomotzeimes">
 <!ENTITY bookmarksToolbarChevron.tooltip "Ruodeit vairuok gruomotzeimju">
+<!ENTITY showRecentlyBookmarked.label     "Ruodeit naseņ saglobuotuos">
+<!ENTITY showRecentlyBookmarked.accesskey "n">
+<!ENTITY hideRecentlyBookmarked.label     "Slēpt naseņ saglobuotuos">
+<!ENTITY hideRecentlyBookmarked.accesskey "n">
 
 <!ENTITY backCmd.label                "Atpakaļ">
 <!ENTITY backButton.tooltip           "Paīt vīnu lopu atpakaļ">
@@ -227,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Cytys gruomotzeimes">
 <!ENTITY viewBookmarksSidebar2.label        "Attaiseit gruomotzeimes suonjūslā">
 <!ENTITY viewBookmarksToolbar.label         "Attāloj gruomotzeimes suonu juslā">
+
+<!ENTITY containersMenu.label "Containers">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +265,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "New Container Tab">
 <!ENTITY newUserContext.accesskey         "C">
-<!ENTITY userContextPersonal.label        "Personeigais">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Dorba">
-<!ENTITY userContextWork.accesskey        "D">
-<!ENTITY userContextBanking.label         "Finanšu">
-<!ENTITY userContextBanking.accesskey     "F">
-<!ENTITY userContextShopping.label        "Shopping">
-<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "Jauns lūgs">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -540,7 +536,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopēt audio adresu">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Kopēt e-posta adresu">
+<!ENTITY copyEmailCmd.label           "Kopēt eposta adresu">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Itys ītvors">
 <!ENTITY thisFrameMenu.accesskey          "I">
@@ -560,19 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "A">
 <!ENTITY mediaUnmute.label           "Atjaunuot">
 <!ENTITY mediaUnmute.accesskey       "A">
-<!ENTITY mediaPlaybackRate.label     "Atskaņuošonys uotrums">
-<!ENTITY mediaPlaybackRate.accesskey "t">
-<!ENTITY mediaPlaybackRate050x.label "Lānuok (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "L">
-<!ENTITY mediaPlaybackRate100x.label "Normalā uotrumā">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Uotri (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "r">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!ENTITY mediaPlaybackRate2.label     "Atskaņuošonys uotrums">
+<!ENTITY mediaPlaybackRate2.accesskey "o">
+<!ENTITY mediaPlaybackRate050x2.label "Slow (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "Normals">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Uotri (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "t">
+<!ENTITY mediaPlaybackRate150x2.label "Uotruok (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "t">
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Super uotri (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "S">
+<!ENTITY mediaPlaybackRate200x2.label "Super uotri (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "S">
+<!ENTITY mediaLoop.label             "Loop">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -681,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Drūss savīnuojums">
 <!ENTITY identity.connectionNotSecure "Savīnuojums nav drūss">
 <!ENTITY identity.connectionFile "Itei lopa ir saglobuota jiusu datorā.">
-<!ENTITY identity.connectionVerified1 "Jiusu savīnuojums ar itū lopu ir drūss. Lopa pīder:">
+<!ENTITY identity.connectionVerified2 "Jiusu savīnuojums ar itū lopu ir drūss, lopa pīder:">
 <!ENTITY identity.connectionInternal "Itei ir drūsa &brandShortName; lopa.">
 <!ENTITY identity.insecureLoginForms2 "Logins entered on this page could be compromised.">
 <!-- Strings for connection state warnings. -->

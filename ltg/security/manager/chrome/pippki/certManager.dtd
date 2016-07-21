@@ -27,7 +27,7 @@
 <!ENTITY certmgr.periodofvalidity.label       "Dereiguma termeņš" >
 <!ENTITY certmgr.fingerprints.label           "Pierstu nūspīdumi">
 <!ENTITY certmgr.certdetail.title             "Sertifikata detalis">
-<!ENTITY certmgr.certdetail.cn                "Parostais nūsaukums (CN)">
+<!ENTITY certmgr.certdetail.cn                "Nūsaukums (CN)">
 <!ENTITY certmgr.certdetail.o                 "Organizaceja (O)">
 <!ENTITY certmgr.certdetail.ou                "Organizatoriska vīneiba (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Serejis numurs">

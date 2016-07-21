@@ -23,24 +23,9 @@
 <!ENTITY  unsupported.label               "Jiusu &brandShortName; ir nūvacuojs, bet jaunuokuo verseja jiusu sistemā natīk pabaļsteita. Lyudzu atjaunynojit sovu sistemu i raugit vēļreiz. Itys paziņuojums natiks ruodeits atkuortuoti, bet jius varot ">
 <!ENTITY  unsupportedLink.label           "uzzynojit vairuok.">
 
-<!ENTITY  incompatibleCheck.title         "Puorbauda papyldynuojumu savītuojumu">
-<!ENTITY  incompatibleCheck.label         "Meklej jiusu papyldynuojumu jaunuokuos versejis…">
-
 <!ENTITY  clickHere.label                 "Vairuok informacejis par itū atjaunynuojumu">
 
 <!ENTITY  evangelism.desc                 "Itū &brandShortName; atjaunynuojumu byutu juouzstuoda piec īspiejis uotruok.">
-
-<!ENTITY  license.instructions            "Nui pīkreitit itei leiguma nūsacejumym, spīdit zamuok asūšū Es pīkreitu, i vareisit turpynuot atjaunynuojuma instaliešonu.">
-
-<!ENTITY  license.titleText               "Programaturys licences leigums.">
-<!ENTITY  license.introText               "Ituos programaturys lītuošonys nūsaciejumi.">
-<!ENTITY  license.instructionText         "Lyudzu, izlosit itū licences leigumu. Lītojit ritjūslu, kab apsavārtu vysu leiguma tekstu.">
-<!ENTITY  license.accept                  "Es pīkreitu licences leiguma nūsacejumym">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Es napīkreitu licences leiguma nūsacejumym">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Atrosti nasadereigi papyldynuojumi">
 
 <!ENTITY  downloadPage.title              "Lejupīluodē &brandShortName;">
 <!ENTITY  downloading.intro               "Lejupīluodē atjaunynuojumu...">
@@ -71,10 +56,10 @@
 <!ENTITY  finishedBackground.name         "Atjaunynuojums:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Spīdit Puorstarteit &brandShortName; tagad, kab tiuleņ instaleitu atjaunynuojumu.">
-
-<!ENTITY  installed.title                 "Atjaunynuojums uzinstaleits">
-<!ENTITY  installed.intro                 "Atjaunynuojums sekmeigi uzinstaleits.">
-<!ENTITY  whatsnew.label                  "Vairuok par jaunajom lītom...">
+<!ENTITY  finishedBackground.moreElevated "This update requires administrator privileges. The update will be
+                                           installed the next time &brandShortName; starts. You can restart
+                                           &brandShortName; now, continue working and restart later, or decline this
+                                           update.">
 
 <!ENTITY  update.details.label            "Seikuoka informaceja">
 <!ENTITY  update.installedOn.label        "Uzinstaleits:">

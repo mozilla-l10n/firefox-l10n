@@ -6,7 +6,8 @@
 <!ENTITY window.width                 "40em">
 <!ENTITY window.height                "8em">
 
-<!ENTITY doNotTrackCheckbox.label     "Use Do Not Track">
-<!ENTITY doNotTrackCheckbox.accesskey "U">
+<!ENTITY doNotTrackCheckbox2.label    "Vīnmār pīlītuot Do Not Track">
+<!ENTITY doNotTrackCheckbox2.accesskey "a">
 
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; will send a signal that you don’t want to be tracked whenever Tracking Protection is on.">
 <!ENTITY doNotTrackLearnMore.label    "Uzzynojit vairuok">

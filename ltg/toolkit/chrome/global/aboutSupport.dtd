@@ -52,6 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Lītuotuoja agents">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Atminis izmantuojums">
+<!ENTITY aboutSupport.appBasicsPerformance "Performance">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registered Service Workers">
@@ -85,6 +86,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Vītu datubāze">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integrity">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Puorbaudeit integritati">
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Inkrementalais GC">
 
@@ -110,3 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Failure Log">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Decision Log">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Crash Guard Disabled Features">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">

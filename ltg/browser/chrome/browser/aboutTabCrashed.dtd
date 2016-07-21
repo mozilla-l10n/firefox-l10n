@@ -7,7 +7,7 @@
 <!ENTITY tabCrashed.sendReport "Submit a crash report to help prevent more bad news">
 <!ENTITY tabCrashed.includeURL "Īkļaut attaiseituos šķārsteikla lopys adresu">
 <!ENTITY tabCrashed.commentPlaceholder "Pīvīnuot komentaru (komentari ir radzami publiski)">
-<!ENTITY tabCrashed.emailPlaceholder "Ite īvodit sovu e-posta adresu">
+<!ENTITY tabCrashed.emailPlaceholder "Ite īvodit sovu eposta adresu">
 <!ENTITY tabCrashed.emailMe "Paziņuot maņ kod ir pīejama papyldu informaceja">
 <!ENTITY tabCrashed.crashReporter "Mozilla avareju ziņuotuojs">
 <!ENTITY tabCrashed.reportSent "Crash report already submitted; thank you for helping make &brandShortName; better!">
