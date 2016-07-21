@@ -692,8 +692,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "La to conexón a esti sitiu nun ye privada. La información qu'unvies, (como contraseñes, mensaxes, tarxetes de creitu... etc), quiciabes puean vela otros.">
-<!ENTITY identity.description.insecureLoginForms "La información del aniciu de sesión qu'inxertes nesta páxina nun ta segura y pue vese afeutada.">
-<!ENTITY identity.description.weakCipher "La conexón con esti sitiu web usa encriptación feble y nun ye privada.">
+<!ENTITY identity.description.insecureLoginForms "La información del aniciu de sesión qu'introduzas nesta páxina nun ta segura y pue vese comprometida.">
+<!ENTITY identity.description.weakCipher "La conexón con esti sitiu web usa cifráu feble y nun ye privada.">
 <!ENTITY identity.description.weakCipher2 "Otres persones puen ver esta información o modificar el comportamientu del sitiu web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; bloquió partes d'esta páxina que nun son segures.">
 <!ENTITY identity.description.passiveLoaded "La conexón nun ye privada y la información que compartas col sitiu pue ser vista por otros.">
