@@ -28,8 +28,8 @@
 <!ENTITY            newButton.accesskey      "C">
 <!ENTITY            renameButton.label       "Gerir perfis…">
 <!ENTITY            renameButton.accesskey   "G">
-<!ENTITY            deleteButton.label       "Eliminar perfil...">
-<!ENTITY            deleteButton.accesskey   "E">
+<!ENTITY            deleteButton.label       "Apagar perfil...">
+<!ENTITY            deleteButton.accesskey   "A">
 
 <!ENTITY            offlineState.label       "Trabalhar offline">
 <!ENTITY            offlineState.accesskey   "o">

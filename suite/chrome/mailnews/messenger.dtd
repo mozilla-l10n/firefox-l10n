@@ -100,8 +100,8 @@
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY accountManagerCmd.label "Definições da conta de correio e grupos de notícias...">
 <!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY undoDeleteMsgCmd.label "Anular (excluir mensagem)">
-<!ENTITY redoDeleteMsgCmd.label "Refazer (excluir mensagem)">
+<!ENTITY undoDeleteMsgCmd.label "Anular (apagar mensagem)">
+<!ENTITY redoDeleteMsgCmd.label "Refazer (apagar mensagem)">
 <!ENTITY undoMoveMsgCmd.label "Anular movimentação de mensagem">
 <!ENTITY redoMoveMsgCmd.label "Refazer movimentação de mensagem">
 <!ENTITY undoCopyMsgCmd.label "Anular cópia de mensagem">
