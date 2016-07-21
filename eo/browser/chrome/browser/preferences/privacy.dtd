@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Agordoj…">
 <!ENTITY  clearOnCloseSettings.accesskey "g">
+
+<!ENTITY  browserContainersHeader.label         "Ingaj langetoj">
+<!ENTITY  browserContainersLearnMore.label      "Pli da informo">
+<!ENTITY  browserContainersEnabled.label        "Aktivigi ingajn langetojn">
+<!ENTITY  browserContainersEnabled.accesskey    "i">

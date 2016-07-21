@@ -36,7 +36,3 @@
   -  properties to display e.g. due to search criteria this message is
   -  displayed. -->
 <!ENTITY noPropertiesFound     "Ne estas atributoj de CSS.">
-
-<!-- FIXME: notes -->
-<!ENTITY computedViewTitle     "Komputitaj">
-<!ENTITY ruleViewTitle         "Reguloj">

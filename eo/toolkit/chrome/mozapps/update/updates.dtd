@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Kontrolado de ĝisdatigoj">
 <!ENTITY  updateCheck.label               "Serĉado de novaj versioj de &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Haveblas ĝisdatigoj por aldonaĵoj">
-<!ENTITY  pluginupdatesfound.label        "Haveblas novaj versioj de unu aŭ pluraj el viaj aldonaĵoj.">
-<!ENTITY  pluginupdateslink.label         "Lerni kiel ĝisdatigi viajn aldonaĵojn.">
-
 <!ENTITY  noupdatesfound.title            "Neniu ĝisdatigo trovita">
 <!ENTITY  noupdatesautoenabled.intro      "Ne estas ĝisdatigoj disponeblaj. &brandShortName; kontrolos periode ĉu ekzistas ĝisdatigoj.">
 <!ENTITY  noupdatesautodisabled.intro     "Ne estas ĝisdatigoj disponeblaj. Bonvolu kontroli poste aŭ aktivigu la aŭtomatan kontroladon de ĝisdatigoj de 
