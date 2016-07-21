@@ -7,7 +7,7 @@
 <!ENTITY firstrun_urlbar_message "&brandShortName; मा स्वागत छ">
 <!ENTITY firstrun_urlbar_subtext "उपयोगी खोज सुझावहरू, सर्टकटहरू प्रयोग गरि छिटो पत्ता लगाउनुहोस्।">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
-
+<!ENTITY firstrun_bookmarks_message "तपाइको फेभ्स, अगाडि र बीच">
 <!ENTITY firstrun_bookmarks_subtext "तपाईँले खोजी गर्दा तपाईँको बुकमार्क र इतिहासबाट परिणाम प्राप्त गर्नुहोस्।">
 <!ENTITY firstrun_data_title "डेटा">
 <!ENTITY firstrun_data_message "कम डाटा, अधिक बचत">
@@ -23,14 +23,16 @@
 
 <!ENTITY firstrun_tabqueue_title "लिङ्कहरू">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-
+<!ENTITY firstrun_tabqueue_message_off "ट्याब कतार सकि्रय">
+<!ENTITY firstrun_tabqueue_subtext_off "पछको लागि &brandShortName; लिङ्क सुरक्षित; जब अन्य एप्सहरूमा तिनीहरूलाई ट्याप गर्दा.">
 
 <!ENTITY firstrun_tabqueue_message_on "सफल!">
-
+<!ENTITY firstrun_tabqueue_subtext_on "&settings; मुनी &pref_category_general;मा यसलाई जतिखेर पनि बन्द गर्न सक्नुहुन्छ।">
 
 <!ENTITY firstrun_readerview_title "लेखहरू">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-
+<!ENTITY firstrun_readerview_message "अव्यवस्था गुमाउने">
+<!ENTITY firstrun_readerview_subtext "लेखहरु \u2014 अफलाइनमा पनि अझ राम्र्री पढ्न पाठक मोडमा प्रबेश गर्नुहोस।">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "तपाईं">
@@ -71,10 +73,11 @@
 <!ENTITY bookmark_removed "पुस्तकचिनो हटाइयो">
 <!ENTITY bookmark_updated "पुस्तकचिनो अपडेट गरियो">
 <!ENTITY bookmark_options "विकल्पहरू">
-
+<!ENTITY screenshot_added_to_bookmarks "स्क्रिन्सट् बुक्मार्कमा थपियो">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "स्क्रिनसट">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "पढ्ने सूची">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
@@ -184,6 +187,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "सुझाव: खोज क्षेत्र मा धेरैबेरथिचेर खोज प्रदायकहरूको सूचीमा कुनै पनि वेबसाइट थप्नुहोस् अनि त्यसपछि &formatI; अाइकनमा थिच्नुहोस्।">
 <!ENTITY pref_category_advanced "उन्नत">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
