@@ -9,7 +9,7 @@
 <!ENTITY privateBrowsing.title                           "Поверително сърфиране">
 <!ENTITY privateBrowsing.title.tracking                  "Поверително сърфиране със Защита от проследяване">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Когато сърфирате в поверителен прозорец, Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "няма да запазва">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "няма да запази">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "посетените страници">
 <!ENTITY aboutPrivateBrowsing.info.searches              "търсенията">
@@ -20,9 +20,9 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "изтеглянията">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "отметките">
-<!ENTITY aboutPrivateBrowsing.note.before                "Поверително сърфиране">
+<!ENTITY aboutPrivateBrowsing.note.before                "Поверителното сърфиране ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "не ви прави анонимни">
-<!ENTITY aboutPrivateBrowsing.note.after                 "Имайте предвид, че въпреки това вашият работодател или Интернет доставчик биха могли да проследят кои страници посещавате.">
+<!ENTITY aboutPrivateBrowsing.note.after                 " в Мрежата. Имайте предвид, че въпреки това вашият работодател или доставчик на Интернет биха могли да проследят кои страници посещавате.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Научете повече">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Поверително сърфиране">
 

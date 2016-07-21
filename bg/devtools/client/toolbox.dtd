@@ -15,7 +15,7 @@
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
   -  It allows you to switch the context of the whole toolbox. -->
-<!ENTITY toolboxFramesTooltip          "Избиране на вложена рамка като текущ целеви документ">
+<!ENTITY toolboxFramesTooltip          "Избиране на рамка като целеви документ">
 
 <!-- LOCALIZATION NOTE (toolboxNoAutoHideButton): This is the label for
   -  the button to force the popups/panels to stay visible on blur.
@@ -81,12 +81,12 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
-<!ENTITY options.context.triggersPageRefresh  "* Само на текущата сесия, презарежда страницата">
+<!ENTITY options.context.triggersPageRefresh  "* Само за текущата сесия, презарежда страницата">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label5    "Активиране на кутията с дебъгващи инструменти за браузърския хром и добавките">
+<!ENTITY options.enableChrome.label5    "Включване на кутията с дебъгващи инструменти за браузърния хром и добавките">
 <!ENTITY options.enableChrome.tooltip3  "Активирането на тази опция ще ви позволи да използвате различни развойни инструменти в контекста на браузъра (чрез Инструменти > Уеб разработчик > Кутия с инструменти) и за дебъгване на добавки от управлението на добавки">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
@@ -98,7 +98,7 @@
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "Активиране дебъгването на обслужващи нишки (в разработка)">
+<!ENTITY options.enableWorkers.label    "Включване на дебъгването на обслужващи нишки (в разработка)">
 <!ENTITY options.enableWorkers.tooltip  "Активирането на тази опция ще позволи развойните инструменти да дебъгват обслужващи нишки">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
@@ -116,7 +116,7 @@
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
-<!ENTITY options.enableServiceWorkersHTTP.label     "Активиране на обслужващи нишки през HTTP (когато кутията с инструменти е отворена)">
+<!ENTITY options.enableServiceWorkersHTTP.label     "Включване на обслужващите нишки през HTTP (при отворена кутия с инструменти)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "Отмятането на тази настройка ще включи обслужващите нишки през HTTP за всички раздели, които имат отворена кутия с инструменти.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
@@ -156,8 +156,8 @@
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
-<!ENTITY options.timestampMessages.label      "Включване на моментите от време">
-<!ENTITY options.timestampMessages.tooltip    "Ако активирате тази опция, командите и изхода от уеб конзолата ще извеждат момента от време">
+<!ENTITY options.timestampMessages.label      "Показване на времеви маркер">
+<!ENTITY options.timestampMessages.tooltip    "Ако е отметнато командите и изхода от уеб конзолата ще извеждат времеви маркер">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -167,7 +167,7 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 <!ENTITY options.stylesheetSourceMaps.label      "Показване на изходния код">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Показване на оригинален изходен код (напр. файлове Sass) в редактора и инспектора на стилове">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Показва се оригиналния изходен код (напр. файлове Sass) в редактора и инспектора на стилове">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -183,15 +183,15 @@
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Включване постоянните журнали">
-<!ENTITY options.enablePersistentLogs.tooltip  "Ако активирате тази настройка, уеб конзолата и мрежовия монитор няма да изчистват изхода си при всяко отиване на нова страница">
+<!ENTITY options.enablePersistentLogs.label    "Постоянни журнали">
+<!ENTITY options.enablePersistentLogs.tooltip  "Ако е отметнато уеб конзолата и мрежовия монитор няма да изчистват изхода си при всяко отваряне на нова страница">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 <!ENTITY options.showPlatformData.label    "Показване на данните от платформата Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Ако активирате тази настройка, докладите на профилаторът на JavaScriptще включват символите на платформата Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Ако е отметнато докладите на профилаторът на JavaScript ще включват символи от платформата Gecko">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
@@ -201,9 +201,9 @@
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Предполагане какъв е използваният отстъп, изследвайки съдържанието на сорса">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Автоматично затваряне на скоби">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Автоматично вмъкване на затваряща скоба">
-<!ENTITY options.sourceeditor.expandtab.label           "Отстъп, използвайки интервали">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "Използване на интервали вместо знака за табулация">
-<!ENTITY options.sourceeditor.tabsize.label             "Размер на табулацията">
+<!ENTITY options.sourceeditor.expandtab.label           "Интервали за отстъп">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Използване на интервали вместо табулатор">
+<!ENTITY options.sourceeditor.tabsize.label             "Размер на табулатора">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "Р">
 <!ENTITY options.sourceeditor.keybinding.label          "Клавишни комбинации">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "К">

@@ -127,9 +127,9 @@
 <!ENTITY prefs_options_templatesurl_tooltip "Списък на наличните шаблони">
 <!ENTITY prefs_options_showeditor "Показване на редактора">
 <!ENTITY prefs_options_showeditor_tooltip "Показване на вътрешния редактор">
-<!ENTITY prefs_options_tabsize "Размер на табулацията">
-<!ENTITY prefs_options_expandtab "Мека табулация">
-<!ENTITY prefs_options_expandtab_tooltip "Използване на интервали вместо знака за табулация">
+<!ENTITY prefs_options_tabsize "Размер на табулатора">
+<!ENTITY prefs_options_expandtab "Мек табулатор">
+<!ENTITY prefs_options_expandtab_tooltip "Използване на интервали вместо табулатор">
 <!ENTITY prefs_options_detectindentation "Автоматичен отстъп">
 <!ENTITY prefs_options_detectindentation_tooltip "Предполагане какъв е използваният отстъп, изследвайки съдържанието на сорса">
 <!ENTITY prefs_options_autocomplete "Автоматично довършване">

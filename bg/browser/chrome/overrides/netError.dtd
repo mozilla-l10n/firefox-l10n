@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Нов опит">
 <!ENTITY returnToPreviousPage.label "Връщане назад">
 <!ENTITY advanced.label "Допълнителни">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Не може да бъде установена връзка">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -78,7 +78,11 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Собственикът на <span class='hostname'/> е настроил техния уебсайт неправилно.  За да ви защити от кражба на информация, &brandShortName; не се свърза с този уебсайт.">
 
-<!ENTITY sharedLongDesc "<ul><li>Страницата може да е временно недостъпна или твърде заета. Опитайте пак след малко.</li><li>Ако не можете да заредите друга страница, проверете хардуера на компютъра.</li><li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверетедали на &brandShortName; е разрешен достъпът до Интернет.</li></ul>">
+<!ENTITY sharedLongDesc "<ul>
+  <li>Страницата може да е временно недостъпна или твърде заета. Опитайте пак след малко.</li>
+  <li>Ако не можете да заредите друга страница, проверете хардуера на компютъра.</li>
+  <li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете дали на &brandShortName; е разрешен достъпът до Интернет.</li>
+</ul>">
 
 <!ENTITY cspBlocked.title "Блокирано от политика за сигурност на страницата">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото страницата е с политика за сигурност, което го забранява.</p>">
@@ -107,9 +111,9 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.title "Допълнителни">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> използва технологии за защита, които са остарели и уязвими за атака. Атакуваща страна може да разкрие информация, която си мислите, че е в безопасност.">
 <!ENTITY weakCryptoAdvanced.override "(Не е защитено) Опит за зареждане на <span class='hostname'></span>, използвайки остарели нива на защита">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime "<p>Невъзможно е да се осъществи сигурна връзка с <span id='wrongSystemTime_URL'/>, защото изглежда, че вашият часовник е настроен неправилно.</p> <p>Вашият компютър показва време <span id='wrongSystemTime_systemDate'/>, докато трябва да показва <span id='wrongSystemTime_actualDate'/>. За да поправите проблема, променете датата и часа в настройките, така че да съвпадат с правилното време.</p>">
 
 <!ENTITY certerror.pagetitle1  "Несигурна връзка">
