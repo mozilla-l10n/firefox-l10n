@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "Lasu min foriri el ĉi tie!">
 <!ENTITY safeb.palm.decline.label "Ignori tiun ĉi atentigon">
 <!ENTITY safeb.palm.reportPage.label "Kial tiu ĉi retejo estis blokita?">
-<!ENTITY safeb.palm.whyForbidden.label "Kial tiu ĉi paĝo estis blokita?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Denuncita ataka retejo!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Tiu ĉi retpaĝo ĉe <span id='unwanted_sitename'/> estis denuncita kiel programtruda, kaj ĝi estis blokita surbaze de viaj sekurecaj preferoj.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Programtrudaj paĝoj klopodas instali programojn kiuj povas esti trompaj aŭ efiki neantaŭvideble sur via sistemo.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Blokita retejo">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "La retpaĝo ĉe <span id='forbidden_sitename'/> estis blokita de via administra profilo.">

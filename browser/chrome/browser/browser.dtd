@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "l">
 <!ENTITY  unpinTab.label                     "Depingli langeton">
 <!ENTITY  unpinTab.accesskey                 "D">
+<!ENTITY  sendTabToDevice.label              "Sendi langeton al aparato">
+<!ENTITY  sendTabToDevice.accesskey          "a">
+<!ENTITY  sendPageToDevice.label             "Sendi paĝon al aparato">
+<!ENTITY  sendPageToDevice.accesskey         "a">
+<!ENTITY  sendLinkToDevice.label             "Sendi ligilon al aparato">
+<!ENTITY  sendLinkToDevice.accesskey         "a">
 <!ENTITY  moveToNewWindow.label              "Movi al nova fenestro">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Aldoni legosignon por ĉiuj langetoj…">
@@ -128,6 +134,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "videblas nun plenekrane">
 <!ENTITY fullscreenWarning.generic.label "Tiu ĉi dokumento videbas nun plenekrane">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +142,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Eliri el plenekrana reĝimo (esk)">
 <!ENTITY leaveDOMFullScreen.label "Eliri el plenekrana reĝimo">
 <!ENTITY leaveDOMFullScreen.accesskey "e">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "regas vian musmontrilon. Premu Esk por repreni la regadon.">
+<!ENTITY pointerlockWarning.generic.label "Tiu ĉi dokumento regas vian musmontrilon. Premu Esk por repreni la regadon.">
 
 <!ENTITY closeWindow.label "Fermi fenestron">
 <!ENTITY closeWindow.accesskey "e">
@@ -771,12 +787,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Montri labortablajn sciigojn">
 <!ENTITY social.toggleNotifications.accesskey "M">
 
-<!ENTITY social.activated.description "Servoj el <label/> estis aktivigitaj. Vi povas ŝanĝi viajn agordojn de servoj en la <label class='text-link'>Administrado de aldonaĵoj</label>.">
-<!ENTITY social.activated.undo.label "Fuŝ!, malfaru tion!">
-<!ENTITY social.activated.undo.accesskey "m">
 <!ENTITY social.learnMore.label "Pli da informo…">
 <!ENTITY social.learnMore.accesskey "i">
-<!ENTITY social.closeNotificationItem.label "Nun ne">
 
 <!ENTITY social.directory.label "Dosierujo de aktivigoj">
 <!ENTITY social.directory.text "Vi povas aktivigi dividajn servojn el la dosierujo.">

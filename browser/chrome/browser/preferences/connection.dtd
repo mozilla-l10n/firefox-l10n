@@ -32,7 +32,7 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label          "Malloka DNS">
+<!ENTITY  socksRemoteDNS.label2         "Peranta DNS dum uzo de SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "Pordo:">
 <!ENTITY  HTTPport.accesskey            "P">
