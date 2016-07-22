@@ -46,7 +46,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/help/
 
 
-#define firefox_help Help and Tutorials
+#define firefox_help Tulong at mga Tutoryal
 
 
 # LOCALIZATION NOTE (firefox_customize):
@@ -55,7 +55,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 
 
-#define firefox_customize Customize Firefox
+#define firefox_customize I-customize ang Firefox
 
 
 # LOCALIZATION NOTE (firefox_community):
