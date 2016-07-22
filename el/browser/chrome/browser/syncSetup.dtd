@@ -27,13 +27,18 @@
 
 <!-- My Recovery Key dialog -->
 
+<!ENTITY button.syncKeyBackup.print.label     "Εκτύπωση…">
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY addDevice.dialog.tryAgain.label    "Παρακαλώ προσπαθήστε ξανά.">
 
 <!-- Existing Account Page 2: Manual Login -->
+<!ENTITY resetPassword.label          "Επαναφορά κωδικού">
 
 <!-- Sync Options -->
+<!ENTITY syncDeviceName.label       "Όνομα συσκευής:">
 
+<!ENTITY engine.addons.label        "Πρόσθετα">
 
 
 <!-- Confirm Merge Options -->

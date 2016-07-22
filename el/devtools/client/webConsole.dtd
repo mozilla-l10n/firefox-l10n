@@ -40,6 +40,7 @@
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
 
+<!ENTITY btnClear.label        "Εκκαθάριση">
 
  <!-- + is above this key on many keyboards -->
 

@@ -10,8 +10,11 @@
 <!ENTITY projectMenu_refreshTabs_label "Ανανέωση καρτελών">
 
 <!ENTITY runtimeMenu_disconnect_label "Αποσύνδεση">
+<!ENTITY runtimeMenu_showSettings_label "Ρυθμίσεις Συσκευής">
 
+<!ENTITY viewMenu_label "Προβολή">
 
+<!ENTITY projectButton_label "Άνοιγμα εφαρμογής">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->

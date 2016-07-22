@@ -100,9 +100,11 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterImages): This is the label displayed
   -  in the network details footer for the "Images" filtering button. -->
+<!ENTITY netmonitorUI.footer.filterImages "Εικόνες">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterMedia): This is the label displayed
   -  in the network details footer for the "Media" filtering button. -->
+<!ENTITY netmonitorUI.footer.filterMedia  "Πολυμέσα">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFlash): This is the label displayed
   -  in the network details footer for the "Flash" filtering button. -->
@@ -118,6 +120,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
+<!ENTITY netmonitorUI.footer.clear  "Εκκαθάριση">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
@@ -311,6 +314,8 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.cancel): This is the label displayed
   -  on the button which cancels and closes the custom request form -->
+<!ENTITY netmonitorUI.custom.cancel       "Ακύρωση">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.backButton): This is the label displayed
   -  on the button which exists the performance statistics view -->
+<!ENTITY netmonitorUI.backButton          "Πίσω">
