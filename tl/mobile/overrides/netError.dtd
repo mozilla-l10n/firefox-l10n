@@ -6,7 +6,7 @@
 %brandDTD;
 <!ENTITY retry.label "Ulitin">
 <!-- Specific error messages -->
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
-
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 
 
@@ -34,7 +34,7 @@
 <!ENTITY unsafeContentType.title "Hindi ligtas na file type">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Mangyaring makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito</li> </ul>">
 
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 
 
@@ -69,7 +69,7 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Paki-contact ang may-ari ng website para malaman nila ang problemang ito.</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->

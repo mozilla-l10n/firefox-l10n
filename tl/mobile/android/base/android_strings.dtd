@@ -78,7 +78,7 @@
 
 
 <!ENTITY search "Hanapin">
-
+<!ENTITY reload "I-reload">
 
 
 
@@ -102,7 +102,8 @@
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
 
-
+<!ENTITY settings "Settings">
+<!ENTITY settings_title "Settings">
 
 
 <!-- Localization note (pref_category_language) : This is the preferences
@@ -267,7 +268,7 @@
 
 
 
-
+<!ENTITY pref_text_size "Sukat ng teksto">
 
 
 
@@ -295,7 +296,7 @@ size. -->
 
 
 
-
+<!ENTITY pref_search_suggestions "Ipakita ang mga suhestiyon sa paghahanap">
 
 
 
@@ -363,7 +364,7 @@ size. -->
 
 
 
-
+<!ENTITY tools "Mga Tools">
 
 
 
@@ -435,7 +436,7 @@ size. -->
 
 
 
-
+<!ENTITY masterpassword_confirm "Ikumpirma ang password">
 
 <!ENTITY button_ok "OK">
 
@@ -519,6 +520,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!ENTITY bookmarkhistory_button_import "I-import">
 
 
 
