@@ -332,7 +332,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Стерти недавню історію…">
 <!ENTITY appMenuHistory.restoreSession.label "Відновити попередній сеанс">
 <!ENTITY appMenuHistory.viewSidebar.label "Показати панель історії">
-<!ENTITY appMenuHelp.tooltip "Відкрити меню допомоги">
+<!ENTITY appMenuHelp.tooltip "Відкрити меню довідки">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронізовані вкладки">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
