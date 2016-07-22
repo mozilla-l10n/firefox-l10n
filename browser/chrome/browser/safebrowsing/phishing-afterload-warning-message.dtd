@@ -24,5 +24,6 @@
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
+<!ENTITY safeb.blocked.forbiddenPage.title2 "Αποκλεισμένη σελίδα">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

@@ -21,15 +21,24 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
+<!ENTITY fileMenu.label               "Αρχείο">
+
+<!ENTITY newWindowCmd.label           "Νέο Παράθυρο">
+
+<!ENTITY openFileCmd.label            "Άνοιγμα Αρχείου…">
+
+<!ENTITY openRecentMenu.label         "Άνοιγμα Προσφάτων">
 
 
+<!ENTITY saveFileCmd.label            "Αποθήκευση">
 
+<!ENTITY saveFileAsCmd.label          "Αποθήκευση ως…">
 
+<!ENTITY closeCmd.label               "Κλείσιμο">
 
+<!ENTITY viewMenu.label               "Προβολή">
 
-
-
-
+<!ENTITY lineNumbers.label             "Εμφάνιση Αριθμών Γραμμής">
 
 
 

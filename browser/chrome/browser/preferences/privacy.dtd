@@ -16,7 +16,9 @@
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 <!ENTITY  doNotTrack.post.label         ".">
 
+<!ENTITY  history.label                 "Ιστορικό">
 
+<!ENTITY  locationBar.label             "Γραμμή διευθύνσεων">
 
 
 

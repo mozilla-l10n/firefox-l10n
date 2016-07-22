@@ -23,9 +23,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionEnabled "Ενεργές">
 <!ENTITY aboutSupport.extensionVersion "Έκδοση">
 
+<!ENTITY aboutSupport.experimentsTitle "Πειραματικές λειτουργίες">
 <!ENTITY aboutSupport.experimentName "Όνομα">
 <!ENTITY aboutSupport.experimentDescription "Περιγραφή">
 <!ENTITY aboutSupport.experimentActive "Ενεργό">
+<!ENTITY aboutSupport.experimentHomepage "Αρχική σελίδα">
 
 <!ENTITY aboutSupport.appBasicsTitle "Βασικά εφαρμογής">
 <!ENTITY aboutSupport.appBasicsName "Όνομα">

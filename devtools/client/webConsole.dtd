@@ -26,6 +26,8 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
+<!ENTITY btnConsoleErrors       "Σφάλματα">
+<!ENTITY btnConsoleWarnings     "Προειδοποιήσεις">
 
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
