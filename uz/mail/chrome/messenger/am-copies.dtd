@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Boshqa:">
 <!ENTITY archiveInOtherFolder.accesskey "B">
 <!ENTITY specialFolders.label "Qoralama va namunalar">
-
+<!ENTITY keepDrafts2.label "Qoralamalarni saqlash manzili:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;Qoralamalar&quot; jildi joylashuvi:">
 <!ENTITY draftsFolderOn.accesskey "Q">
