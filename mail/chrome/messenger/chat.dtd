@@ -29,7 +29,7 @@
 <!ENTITY deleteCmd.label               "Șterge contactul">
 <!ENTITY deleteCmd.accesskey           "t">
 
-<!ENTITY openConversationButton.tooltip  "Pornește o conversație">
+<!ENTITY openConversationButton.tooltip  "Începe o conversație">
 <!ENTITY closeConversationButton.tooltip "Închide conversația">
 
 <!ENTITY addBuddyButton.label          "Adaugă contact">

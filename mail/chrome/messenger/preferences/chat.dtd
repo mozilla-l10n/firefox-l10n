@@ -21,7 +21,7 @@ sentence. -->
 <!ENTITY  andSetStatusToAway.accesskey  "s">
 
 <!ENTITY  sendTyping.label              "Trimite notificări de tastare în conversații">
-<!ENTITY  sendTyping.accesskey          "T">
+<!ENTITY  sendTyping.accesskey          "t">
 
 <!ENTITY  chatNotifications.label             "Când mesajele direcționate spre dumneavoastră ajung:">
 <!ENTITY  desktopChatNotifications.label      "Arată o notificare:">
