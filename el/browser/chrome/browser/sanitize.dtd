@@ -52,6 +52,7 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "π">
 <!ENTITY itemFormSearchHistory.label       "Ιστορικό αναζήτησης &amp; φορμών">
 <!ENTITY itemFormSearchHistory.accesskey   "φ">
+<!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCache.label                   "Προσωρινή μνήμη">
 <!ENTITY itemCache.accesskey               "ω">
 <!ENTITY itemOfflineApps.label             "Δεδομένα ιστοσελίδων">

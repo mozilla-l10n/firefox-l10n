@@ -73,6 +73,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.preview): This is the label displayed
   -  in the network details pane identifying the preview tab. -->
+<!ENTITY netmonitorUI.tab.preview         "Προεπισκόπηση">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.security): This is the label displayed
   -  in the network details pane identifying the security tab. -->

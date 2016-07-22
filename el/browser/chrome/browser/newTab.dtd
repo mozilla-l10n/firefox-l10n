@@ -6,6 +6,7 @@
 <!ENTITY newtab.pageTitle "Νέα καρτέλα">
 <!ENTITY newtab.customize.classic "Εμφάνιση των δημοφιλέστερων σελίδων σου">
 <!ENTITY newtab.customize.cog.enhanced "Να συμπεριλαμβάνονται προτεινόμενες ιστοσελίδες">
+<!ENTITY newtab.customize.cog.learn "Μάθε για την Νέα Καρτέλα">
 <!ENTITY newtab.customize.blank2 "Εμφάνιση κενής σελίδας">
 <!ENTITY newtab.undo.undoButton "Αναίρεση.">
 <!ENTITY newtab.undo.restoreButton "Επαναφορά όλων.">
