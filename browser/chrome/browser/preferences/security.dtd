@@ -17,7 +17,7 @@
 <!ENTITY  blockDownloads.label            "Strašne sćehnjenja blokować">
 <!ENTITY  blockDownloads.accesskey        "s">
 
-<!ENTITY  blockUncommonUnwanted.label     "Njewitaneje a njewšědneje softwary dla warnować">
+<!ENTITY  blockUncommonUnwanted.label     "Před njewitanej a njewšědnej softwaru warnować">
 <!ENTITY  blockUncommonUnwanted.accesskey "w">
 
 <!ENTITY  addonExceptions.label         "Wuwzaća…">
