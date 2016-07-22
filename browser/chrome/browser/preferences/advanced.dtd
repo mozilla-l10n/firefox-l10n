@@ -28,7 +28,7 @@
 <!ENTITY checkSpelling.label             "Verfică ortografia pe măsură ce tastez">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY dataChoicesTab.label            "Împărtășirea de date">
+<!ENTITY dataChoicesTab.label            "Împărtășire de date">
 
 <!ENTITY healthReportDesc.label          "Ne ajută să înțelegem performanța browserului și împărtășește date cu &vendorShortName; privind stabilitatea browserului">
 <!ENTITY enableHealthReport.label        "Activează raportul de stare &brandShortName;">
