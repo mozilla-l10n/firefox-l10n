@@ -25,8 +25,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Unele extensii nu au putut fi verificate">
 <!ENTITY showAllExtensions.button.label       "Arată toate extensiile">
-
-
+<!ENTITY debugAddons.label                    "Depanează suplimente">
+<!ENTITY debugAddons.accesskey                "b">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Toate suplimentele sunt dezactivate în modul de siguranță.">
@@ -124,7 +124,7 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Ce sunt suplimentele?">
-<!ENTITY discover.description2                "Suplimentele sunt aplicații care vă permit să personalizați &brandShortName; cu funcții sau stiluri suplimentare. Economisiți timp cu o bară laterală, țineți prognoza meteo la îndemână sau folosiți o temă pentru a personaliza &brandShortName;.">
+<!ENTITY discover.description2                "Suplimentele sunt aplicații care îți permit să personalizezi &brandShortName; cu funcții sau stiluri suplimentare. Încearcă o bară laterală care economisește timp, un notificator pentru vreme sau o temă pentru a face din &brandShortName; o experiență unică.">
 <!ENTITY discover.footer                      "Când sunteți conectat la internet, acest panou va afișa cele mai utilizate și populare extensii pentru a vă permite să le încercați.">
 <!-- detail view -->
 

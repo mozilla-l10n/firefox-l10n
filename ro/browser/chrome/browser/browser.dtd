@@ -342,7 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Nicio filă sincronizată…încă!">
 
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferințe de sincronizare">
-
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Autentifică-te pentru a vedea o listă de file de pe celelalte dispozitive.">
 <!ENTITY appMenuRemoteTabs.signin.label "Autentifică-te la Sincronizare">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vezi bara laterală cu file sincronizate">
 
