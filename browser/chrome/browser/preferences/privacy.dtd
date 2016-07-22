@@ -23,7 +23,10 @@
 
 
 
+<!ENTITY  acceptThirdParty.always.label   "Πάντα">
+<!ENTITY  acceptThirdParty.never.label    "Ποτέ">
 
+<!ENTITY  keepUntil.label               "Διατήρηση μέχρι:">
 
 
 

@@ -74,6 +74,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Γραφικά">
 
 
+<!ENTITY aboutSupport.jsTitle "JavaScript">
 
 <!ENTITY aboutSupport.a11yTitle "Προσιτότητα">
 <!ENTITY aboutSupport.a11yActivated "Ενεργοποιήθηκε">
@@ -90,3 +91,4 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.restartInSafeMode.label "Επανεκκίνηση με τα πρόσθετα απενεργοποιημένα…">
 
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">

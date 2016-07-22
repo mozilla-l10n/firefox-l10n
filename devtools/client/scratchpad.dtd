@@ -42,10 +42,13 @@
 
 
 
+<!ENTITY largerFont.commandkey        "+">
  <!-- + is above this key on many keyboards -->
 
 
+<!ENTITY normalSize.label             "Κανονικό Μέγεθος">
 
+<!ENTITY editMenu.label               "Επεξεργασία">
 
 
 
@@ -66,10 +69,13 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
+<!ENTITY browserContext.label         "Περιηγητής">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
+<!ENTITY helpMenu.label               "Βοήθεια">
+<!ENTITY helpMenuWin.label            "Βοήθεια">
 
 
 
