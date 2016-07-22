@@ -9,4 +9,5 @@
 <!ENTITY doNotTrackCheckbox2.label    "Doimo &quot;Kuzatilmasin&quot; funksiyasi qo‘llansin">
 <!ENTITY doNotTrackCheckbox2.accesskey "D">
 
+<!ENTITY doNotTrackTPInfo.description "Kuzatishdan himoyalanish ishga tushirilganda &brandShortName; kuzatishlarini xohlamasligingiz haqidagi signal jo‘natadi.">
 <!ENTITY doNotTrackLearnMore.label    "Batafsil ma’lumot">
