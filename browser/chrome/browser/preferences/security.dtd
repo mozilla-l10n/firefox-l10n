@@ -17,7 +17,7 @@
 <!ENTITY  blockDownloads.label            "Tšašne ześěgnjenja blokěrowaś">
 <!ENTITY  blockDownloads.accesskey        "z">
 
-<!ENTITY  blockUncommonUnwanted.label     "Njewitaneje a njewšedneje softwary dla warnowaś">
+<!ENTITY  blockUncommonUnwanted.label     "Pśed njewitaneju a njewšedneju softwaru warnowaś">
 <!ENTITY  blockUncommonUnwanted.accesskey "w">
 
 <!ENTITY  addonExceptions.label         "Wuwześa…">
