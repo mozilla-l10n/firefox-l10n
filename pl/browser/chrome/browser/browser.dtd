@@ -23,6 +23,12 @@
 <!ENTITY  pinTab.accesskey                   "n">
 <!ENTITY  unpinTab.label                     "Odepnij kartę">
 <!ENTITY  unpinTab.accesskey                 "n">
+<!ENTITY  sendTabToDevice.label "Prześlij kartę do">
+<!ENTITY sendTabToDevice.accesskey "P">
+<!ENTITY sendPageToDevice.label "Prześlij stronę do">
+<!ENTITY sendPageToDevice.accesskey "P">
+<!ENTITY sendLinkToDevice.label "Prześlij odnośnik do">
+<!ENTITY sendLinkToDevice.accesskey "P">
 <!ENTITY  moveToNewWindow.label              "Przenieś do nowego okna">
 <!ENTITY  moveToNewWindow.accesskey          "o">
 <!ENTITY bookmarkAllTabs.label               "Dodaj zakładki do wszystkich kart…">
