@@ -17,6 +17,7 @@
 <!ENTITY playSound1.accesskey "в">
 <!ENTITY showAnimatedAlert.label "Показывать уведомление">
 <!ENTITY showAnimatedAlert.accesskey "к">
+<!ENTITY notificationAlertSettings.label "Уведомления могут быть отключены на Панели Уведомления в «Системных настройках».">
 <!ENTITY customizeMailAlert.label "Настроить…">
 <!ENTITY customizeMailAlert.accesskey "и">
 <!ENTITY showTrayIcon.label "Показать значок в трее">

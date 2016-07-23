@@ -29,4 +29,4 @@
 <!ENTITY showCookies.accesskey "з">
 <!ENTITY dntTrackingNotOkay.label2 "Сообщать сайтам, что я не хочу, чтобы меня отслеживали">
 <!ENTITY dntTrackingNotOkay.accesskey "о">
-<!ENTITY doNotTrackInfo.label "Подробнее об Отказе-от-отслеживания">
+<!ENTITY doNotTrackInfo.label "Подробнее о «Не отслеживать»">
