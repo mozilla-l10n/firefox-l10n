@@ -24,7 +24,8 @@
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite naziv datoteke, te postoji li pravopisna ili tipografska greška.</li> <li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Pristup datoteci je odbijen">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Možda je uklonjena, premještena ili dozvole za datoteku spriječavaju pristup.</li> </ul>">
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; iz nekog razloga ovu stranicu nije moguće učitati.</p>">
@@ -68,11 +69,14 @@
 <!ENTITY unknownSocketType.title "Neispravan odgovor">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Provjerite  ima li vaše računalo instaliran &quot;Personal Security Manager&quot; </li> <li>Moguće da je greška povezana s neuobičajenim postavkama servera.</li> </ul>">
 
+<!ENTITY nssFailure2.title "Neuspjeh otvaranja sigurne veze">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Stranica koju pokušavate otvoriti ne može biti prikazana jer autentičnost primljenih podataka nije moguće provjeriti.</li> <li>Kontaktirajte vlasnike stranice, te ih obavijestite o ovom problemu.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "Vaša veza nije sigurna">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Vlasnik <span class='hostname'/> je pogrešno podesio svoju stranicu.  Da bismo spriječili krađu informacija, &brandShortName; se nije povezao na ovu stranicu.">
 
 <!ENTITY sharedLongDesc "<ul> <li>Ova je stranica privremeno nedostupna ili prezauzeta. Pokušajte ponovno za nekoliko trenutaka.</li> <li>Ako ne možete učitati niti jednu stranicu, provjerite mrežne postavke vašeg računala.</li> <li>Ako je vaše računalo ili mreža zaštićena vatrozidom ili proxyem, provjerite ima li &brandShortName; dozvolu pristupiti Internetu.</li> </ul>">
 
@@ -96,6 +100,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Napredna informacija: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Vaša veza nije sigurna">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Napredna informacija: SSL_ERROR_NO_CYPHER_OVERLAP">
@@ -105,9 +110,13 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime "<p>Sigurna veza na <span id='wrongSystemTime_URL'/> nije moguća jer vaš sat izgleda pokazuje pogrešno vrijeme.</p> <p>Vaše računalo misli da je <span id='wrongSystemTime_systemDate'/>, dok bi vrijeme trebalo biti <span id='wrongSystemTime_actualDate'/>. Kako biste ovo ispravili, izmijenite datum i vrijeme vašeg računala da odgovara stvarnom vremenu.</p>">
 
+<!ENTITY certerror.pagetitle1  "Nesigurna veza">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ova stranica koristi HTTP Strict Transport Security (HSTS) da bi uputila &brandShortName; da uspostavi sigurnu vezu. Rezultat toga je onemogućeno dodavanje iznimke za ovaj certifikat.">
+<!ENTITY certerror.copyToClipboard.label "Kopiraj tekst u međuspremnik">
 
-
+<!ENTITY inadequateSecurityError.title "Vaša veza nije sigurna">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
