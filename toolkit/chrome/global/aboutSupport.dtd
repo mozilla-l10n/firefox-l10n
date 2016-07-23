@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Naršyklės identifikacinė eilutė">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Atminties naudojimas">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Našumas">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registruoti aptarnavimo scenarijai">
@@ -86,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "Vietų duomenų bazė">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Nepažeistumas">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Patikrinti nepažeistumą">
 
 <!ENTITY aboutSupport.jsTitle "„JavaScript“">
 <!ENTITY aboutSupport.jsIncrementalGC "Inkrementinis šiukšlių rinkimas">
@@ -114,6 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Klaidų žurnalas">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Sprendimų žurnalas">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Strigčių apsaugos išjungtos funkcijos">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Apėjimai">
