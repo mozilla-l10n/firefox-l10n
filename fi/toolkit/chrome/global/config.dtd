@@ -8,7 +8,7 @@
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "Tämä sivu on ladattu ja vaarallinen!">
 <!ENTITY aboutWarningText.label "Tällä sivulla olevien asetusten muuttamisella voi olla vahingollisia vaikutuksia tämän ohjelman turvallisuuteen, vakauteen ja suorituskykyyn. Älä koske näihin asetuksiin ellet tiedä tarkalleen, mitä olet tekemässä.">
-<!ENTITY aboutWarningButton.label "Lupaan olla varovainen">
+<!ENTITY aboutWarningButton2.label "Otan riskin!">
 <!ENTITY aboutWarningCheckbox.label "Näytä varoitus myös ensi kerralla">
 
 <!ENTITY searchPrefs.label "Etsi:">
