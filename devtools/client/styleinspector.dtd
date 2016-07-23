@@ -8,5 +8,3 @@
 <!ENTITY selectedElementLabel "Выбранный элемент:">
 <!ENTITY togglePseudoClassPanel "Показать/скрыть панель псевдоклассов">
 <!ENTITY noPropertiesFound "CSS-свойства не найдены.">
-<!ENTITY computedViewTitle "Вычислено">
-<!ENTITY ruleViewTitle "Правила">

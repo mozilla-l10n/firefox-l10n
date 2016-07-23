@@ -75,3 +75,7 @@
 <!ENTITY clearOnClose.accesskey "я">
 <!ENTITY clearOnCloseSettings.label "Параметры…">
 <!ENTITY clearOnCloseSettings.accesskey "ы">
+<!ENTITY browserContainersHeader.label "Вкладки в контейнере">
+<!ENTITY browserContainersLearnMore.label "Подробнее">
+<!ENTITY browserContainersEnabled.label "Включить «Вкладки в контейнере»">
+<!ENTITY browserContainersEnabled.accesskey "ч">

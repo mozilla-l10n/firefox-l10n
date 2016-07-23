@@ -20,6 +20,12 @@
 <!ENTITY pinTab.accesskey "к">
 <!ENTITY unpinTab.label "Открепить вкладку">
 <!ENTITY unpinTab.accesskey "п">
+<!ENTITY sendTabToDevice.label "Отправить вкладку на устройство">
+<!ENTITY sendTabToDevice.accesskey "п">
+<!ENTITY sendPageToDevice.label "Отправить страницу на устройство">
+<!ENTITY sendPageToDevice.accesskey "п">
+<!ENTITY sendLinkToDevice.label "Отправить ссылку на устройство">
+<!ENTITY sendLinkToDevice.accesskey "п">
 <!ENTITY moveToNewWindow.label "Переместить в новое окно">
 <!ENTITY moveToNewWindow.accesskey "е">
 <!ENTITY bookmarkAllTabs.label "Добавить все вкладки в закладки…">
@@ -315,7 +321,7 @@
 <!ENTITY openFrameCmdInTab.accesskey "в">
 <!ENTITY openFrameCmd.label "Открыть фрейм в новом окне">
 <!ENTITY openFrameCmd.accesskey "н">
-<!ENTITY openLinkCmdInContainerTab.label "Открыть ссылку в новой вкладке контейнера">
+<!ENTITY openLinkCmdInContainerTab.label "Открыть ссылку в новой вкладке в контейнере">
 <!ENTITY openLinkCmdInContainerTab.accesskey "е">
 <!ENTITY showOnlyThisFrameCmd.label "Показать только этот фрейм">
 <!ENTITY showOnlyThisFrameCmd.accesskey "П">
