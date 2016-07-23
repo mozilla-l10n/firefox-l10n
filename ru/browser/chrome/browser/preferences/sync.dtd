@@ -57,7 +57,7 @@
 <!ENTITY signedOut.accountBox.title "Соединитесь с Учётной записью Firefox">
 <!ENTITY signedOut.accountBox.create "Создать учётную запись">
 <!ENTITY signedOut.accountBox.signin "Войти">
-<!ENTITY signedIn.engines.label "Синхронизируйте со всеми устройствами">
+<!ENTITY signedIn.engines.label "Синхронизировать со всеми устройствами">
 <!ENTITY mobilePromo3.start "Загрузите Firefox для ">
 <!ENTITY mobilePromo3.androidLink "Android">
 <!ENTITY mobilePromo3.iOSBefore " или ">
