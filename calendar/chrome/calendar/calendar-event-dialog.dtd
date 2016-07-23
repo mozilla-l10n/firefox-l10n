@@ -216,7 +216,7 @@
 <!ENTITY event.priority2.label "Prioritet:">
 
 <!ENTITY event.reminder.none.label "Ingen påmindelse">
-<!ENTITY event.reminder.0minutes.before.label "0 minuter før" >
+<!ENTITY event.reminder.0minutes.before.label "0 minutter før" >
 <!ENTITY event.reminder.5minutes.before.label "5 minutter før">
 <!ENTITY event.reminder.15minutes.before.label "15 minutter før">
 <!ENTITY event.reminder.30minutes.before.label "30 minutter før">
