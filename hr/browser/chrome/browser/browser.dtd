@@ -96,8 +96,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "O">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Potpuni zaslon">
-<!ENTITY enterFullScreenCmd.accesskey "P">
+<!ENTITY enterFullScreenCmd.label "Koristi cijeli zaslon">
+<!ENTITY enterFullScreenCmd.accesskey "K">
 <!ENTITY exitFullScreenCmd.label "Napusti prikaz preko cijelog zaslona">
 <!ENTITY exitFullScreenCmd.accesskey "N">
 <!ENTITY fullScreenCmd.label "Potpuni zaslon">
