@@ -32,7 +32,7 @@
 <!ENTITY firstrun_readerview_title "Straipsniai">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Atsikratykite netvarkos">
-<!ENTITY firstrun_readerview_subtext "Naudodami „skaitymo rodinį“ galite skaityti straipsnius patogiau – net ir neprisijungę prie interneto.">
+<!ENTITY firstrun_readerview_subtext "Naudodami skaitymo rodinį, galite skaityti straipsnius patogiau – net ir neprisijungę prie interneto.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "Jūs">
@@ -806,6 +806,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_message "Raskite savo skaitymo rodinio įrašus adresyne, net ir neprisijungus.">
 <!ENTITY helper_first_offline_bookmark_button "Eiti į adresyną">
 
-
-
+<!ENTITY helper_triple_readerview_open_title "Pasiekiama neprisijungus">
+<!ENTITY helper_triple_readerview_open_message "Įtraukite skaitymo rodinio elementus į adresyną, kad galėtumėte juos skaityti neprisijungę.">
+<!ENTITY helper_triple_readerview_open_button "Įtraukti į adresyną">
 
