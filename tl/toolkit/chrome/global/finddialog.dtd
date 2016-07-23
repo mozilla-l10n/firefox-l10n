@@ -9,11 +9,11 @@
 <!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Match case">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
-
-
-
-
-
+<!ENTITY wrapCheckbox.label "Wrap">
+<!ENTITY wrapCheckbox.accesskey "W">
+<!ENTITY findButton.label "Hanapin ang Susunod">
+<!ENTITY findButton.accesskey "H">
+<!ENTITY cancelButton.label "I-cancel">
 <!ENTITY closeButton.label "Isara">
 <!ENTITY up.label "Itaas">
 <!ENTITY up.accesskey "I">
