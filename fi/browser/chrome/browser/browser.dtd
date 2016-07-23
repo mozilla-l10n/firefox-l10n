@@ -110,8 +110,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Avaa &syncBrand.shortName.label;-asetukset">
 <!ENTITY fxaSignInError.label "Palauta yhteys &syncBrand.shortName.label;-palveluun">
 <!ENTITY fxaUnverified.label "Vahvista tilisi">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; käytössä">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; aloittaa synkronoinnin hetken kuluttua.">
 
 
 <!ENTITY fullScreenMinimize.tooltip  "Pienennä ikkuna">
@@ -171,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Viimeksi lisätyt">
 <!ENTITY otherBookmarksCmd.label "Muut kirjanmerkit">
 <!ENTITY bookmarksToolbarChevron.tooltip "Näytä lisää kirjanmerkkejä">
+<!ENTITY showRecentlyBookmarked.label     "Näytä viimeksi lisätyt">
+<!ENTITY showRecentlyBookmarked.accesskey "v">
+<!ENTITY hideRecentlyBookmarked.label     "Piilota viimeksi lisätyt">
+<!ENTITY hideRecentlyBookmarked.accesskey "v">
 
 <!ENTITY backCmd.label                 "Edellinen">
 <!ENTITY backButton.tooltip            "Siirry sivu taaksepäin">
@@ -228,6 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Näytä kirjanmerkkien sivupaneeli">
 <!ENTITY viewBookmarksToolbar.label         "Näytä kirjanmerkkipalkki">
 
+<!ENTITY containersMenu.label "Luokitukset">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +265,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey        "T">
 <!ENTITY newUserContext.label             "Uusi luokiteltu välilehti">
 <!ENTITY newUserContext.accesskey         "l">
-<!ENTITY userContextPersonal.label        "Omat">
-<!ENTITY userContextPersonal.accesskey    "H">
-<!ENTITY userContextWork.label            "Työ">
-<!ENTITY userContextWork.accesskey        "T">
-<!ENTITY userContextBanking.label         "Raha">
-<!ENTITY userContextBanking.accesskey     "R">
-<!ENTITY userContextShopping.label        "Kaupat">
-<!ENTITY userContextShopping.accesskey    "K">
 <!ENTITY newNavigatorCmd.label         "Uusi ikkuna">
 <!ENTITY newNavigatorCmd.key         "N">
 <!ENTITY newNavigatorCmd.accesskey       "U">
@@ -550,7 +546,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Toista">
-<!ENTITY mediaPlay.accesskey         "T">
+<!ENTITY mediaPlay.accesskey         "o">
 <!ENTITY mediaPause.label            "Pysäytä">
 <!ENTITY mediaPause.accesskey        "y">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
@@ -560,19 +556,21 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Palauta ääni">
 <!ENTITY mediaUnmute.accesskey       "ä">
-<!ENTITY mediaPlaybackRate.label     "Toistonopeus">
-<!ENTITY mediaPlaybackRate.accesskey "n">
-<!ENTITY mediaPlaybackRate050x.label "Hidastettu (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "H">
-<!ENTITY mediaPlaybackRate100x.label "Normaali nopeus">
-<!ENTITY mediaPlaybackRate100x.accesskey "o">
-<!ENTITY mediaPlaybackRate150x.label "Nopeutettu (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "p">
+<!ENTITY mediaPlaybackRate2.label     "Toistonopeus">
+<!ENTITY mediaPlaybackRate2.accesskey "n">
+<!ENTITY mediaPlaybackRate050x2.label "Hidas (0,5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "H">
+<!ENTITY mediaPlaybackRate100x2.label "Normaali">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Nopea (1,25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "o">
+<!ENTITY mediaPlaybackRate150x2.label "Nopeampi (1,5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "p">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Älytön nopeus (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "Ä">
+<!ENTITY mediaPlaybackRate200x2.label "Älytön (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "Ä">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -680,7 +678,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Suojattu yhteys">
 <!ENTITY identity.connectionNotSecure "Yhteys ei ole suojattu">
 <!ENTITY identity.connectionFile "Sivu on tallennettu tietokoneellesi.">
-<!ENTITY identity.connectionVerified1 "Yhteys sivustoon on suojattu ja sivustoa hallinnoi:">
+<!ENTITY identity.connectionVerified2 "Yhteys sivustoon on suojattu ja sivuston omistaa:">
 <!ENTITY identity.connectionInternal "Tämä on suojattu &brandShortName;-sivu.">
 <!ENTITY identity.insecureLoginForms2 "Tällä sivulla kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.">
 

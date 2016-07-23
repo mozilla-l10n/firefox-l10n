@@ -31,26 +31,9 @@
                                            Tätä ilmoitusta ei näytetä enää uudestaan, mutta voi halutessasi">
 <!ENTITY  unsupportedLink.label           "lukea lisää.">
 
-<!ENTITY  incompatibleCheck.title         "Tarkistetaan lisäosien yhteensopivuutta">
-<!ENTITY  incompatibleCheck.label         "Haetaan uusi versioita lisäosista…">
-
 <!ENTITY  clickHere.label                 "Lue lisätietoja tästä päivityksestä">
 
 <!ENTITY  evangelism.desc                 "Suosittelemme, että &brandShortName; päivitetään ensi tilassa.">
-
-
-<!ENTITY  license.instructions             "Jos hyväksyt lisenssisopimuksen, jatka päivityksen asennusta
-                                            napsauttamalla Hyväksyn.">
-
-<!ENTITY  license.titleText               "Ohjelman lisenssisopimus">
-<!ENTITY  license.introText               "Ohjelman käyttöehdot.">
-<!ENTITY  license.instructionText         "Lue lisenssisopimus. Siirry sopimuksessa eteenpäin vierityspalkista.">
-<!ENTITY  license.accept                  "Hyväksyn lisenssisopimuksen">
-<!ENTITY  license.accept.accesskey        "H">
-<!ENTITY  license.decline                 "En hyväksy lisenssisopimusta">
-<!ENTITY  license.decline.accesskey       "E">
-
-<!ENTITY  incompatibleList.title          "Yhteensopimattomia lisäosia löytyi">
 
 <!ENTITY  downloadPage.title              "Ladataan &brandShortName;ia">
 <!ENTITY  downloading.intro                "Ladataan päivitystä…">
@@ -82,19 +65,21 @@
                                            turvallinen. Pyydä apua Internet-palveluntarjoajaltasi.">
 
 <!ENTITY  finishedPage.title              "Päivitys on valmis asennettavaksi">
-<!ENTITY  finishedPage.text               "Päivitys asennetaan, kun &brandShortName; käynnistetään uudelleen. Voit käynnistää 
-                                           &brandShortName;in nyt tai jatkaa selaamista ja käynnistää selaimen uudelleen myöhemmin.">
+<!ENTITY  finishedPage.text               "Päivitys asennetaan, kun &brandShortName; käynnistetään uudelleen. Voit
+                                           käynnistää &brandShortName;in uudelleen nyt tai jatkaa &brandShortName;in
+                                           käyttöä ja käynnistää sen uudelleen myöhemmin.">
 
 <!ENTITY  finishedBackgroundPage.text     "Turvallisuus- ja vakauspäivitys &brandShortName;iin
                                            on ladattu ja valmis asennettavaksi.">
 <!ENTITY  finishedBackground.name          "Päivitys:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Päivitys asennetaan, kun &brandShortName; käynnistetään uudelleen. Voit käynnistää 
-                                           &brandShortName;in nyt tai jatkaa selaamista ja käynnistää selaimen uudelleen myöhemmin.">
-
-<!ENTITY  installed.title                  "Päivitys asennettiin">
-<!ENTITY  installed.intro                  "Päivityksen asennus onnistui.">
-<!ENTITY  whatsnew.label                   "Lue enemmän muutoksista…">
+<!ENTITY  finishedBackground.more         "Päivitys asennetaan, kun &brandShortName; käynnistetään uudelleen. Voit
+                                           käynnistää &brandShortName;in uudelleen nyt tai jatkaa &brandShortName;in
+                                           käyttöä ja käynnistää sen uudelleen myöhemmin.">
+<!ENTITY  finishedBackground.moreElevated "Tämä päivitys vaatii järjestelmänvalvojan oikeudet. Päivitys asennetaan,
+                                           kun &brandShortName; käynnistetään uudelleen. Voit käynnistää
+                                           &brandShortName;in uudelleen nyt, jatkaa &brandShortName;in käyttöä ja
+                                           käynnistää sen uudelleen myöhemmin tai hylätä tämän päivityksen.">
 
 <!ENTITY  update.details.label             "Yksityiskohdat">
 <!ENTITY  update.installedOn.label         "Asennusaika:">

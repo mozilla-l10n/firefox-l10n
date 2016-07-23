@@ -32,6 +32,9 @@
 <!ENTITY Custom.label          "Oma…">
 <!ENTITY ShrinkToFit.label     "Sovita">
 <!ENTITY customPrompt.title    "Oma…">
+<!ENTITY simplifyPage.label   "Yksinkertaista sivua">
+<!ENTITY simplifyPage.enabled.tooltip  "Muuta sivun asettelua lukemisen helpottamiseksi">
+<!ENTITY simplifyPage.disabled.tooltip "Tätä sivua ei voi yksinkertaistaa automaattisesti">
 
 <!ENTITY homearrow.tooltip     "Ensimmäinen sivu">
 <!ENTITY endarrow.tooltip      "Viimeinen sivu">
