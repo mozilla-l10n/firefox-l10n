@@ -4,8 +4,8 @@
 
 <!ENTITY dialog.title                 "Opțiuni de trimitere">
 <!ENTITY sendMail.title               "Formatare text">
-
-
+<!ENTITY autoDowngrade.label          "Trimite mesaje ca text simplu când este posibil">
+<!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "Când trimiteți mesaje în format HTML și unul sau mai mulți destinatari nu sunt marcați ca fiind capabili să accepte HTML:">
 <!ENTITY askMe.label                  "Întreabă-mă ce să fac">
 <!ENTITY askMe.accesskey              "n">

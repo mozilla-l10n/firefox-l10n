@@ -22,7 +22,7 @@
 <!ENTITY otherUsersNamespace.accesskey "A">
 <!ENTITY overrideNamespaces.label "Permite serverului să suprascrie aceste nume de spații">
 <!ENTITY overrideNamespaces.accesskey "a">
-
+<!ENTITY pop3DeferringDesc.label "Când se descarcă mesajele de serverul acestui cont, folosește următorul dosar pentru mesajele noi:" >
 <!ENTITY accountInbox.label "Căsuță poștală pentru acest cont">
 <!ENTITY accountInbox.accesskey "s">
 <!ENTITY deferToServer.label "Căsuța poștală pentru cont diferit">

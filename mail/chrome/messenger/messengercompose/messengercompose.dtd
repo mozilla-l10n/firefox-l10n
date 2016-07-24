@@ -307,3 +307,5 @@
 <!ENTITY addressesSidebarTitle.label "Adrese">
 <!-- Identity popup customize menuitem -->
 
+<!ENTITY customizeFromAddress.label "Particularizează adresa de trimitere…">
+<!ENTITY customizeFromAddress.accesskey "a">

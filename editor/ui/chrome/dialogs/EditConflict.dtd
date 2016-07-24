@@ -5,6 +5,6 @@
 
 <!ENTITY windowTitle.label "Modificări">
 <!ENTITY conflictWarning.label "Această pagină a fost modificată de un alt program, însă și dumneavoastră aveți modificări nesalvate în Composer.">
-<!ENTITY conflictResolve.label "Selectați ce doriți să păstrați:">
+<!ENTITY conflictResolve.label "Selectează versiunea de păstrat">
 <!ENTITY keepCurrentPageButton.label "Păstrează-mi modificările actuale">
 <!ENTITY useOtherPageButton.label "Înlocuiește pagina cu celelalte modificări">

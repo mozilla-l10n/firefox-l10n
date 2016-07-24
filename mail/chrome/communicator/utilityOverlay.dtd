@@ -30,7 +30,7 @@
 <!ENTITY deleteCmd.accesskey        "g">
 <!ENTITY selectAllCmd.label          "Selectează tot">
 <!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "o">
+<!ENTITY selectAllCmd.accesskey        "a">
 <!ENTITY preferencesCmd2.label "Opțiuni">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Preferințe">

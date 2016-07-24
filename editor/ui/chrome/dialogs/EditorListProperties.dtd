@@ -17,4 +17,4 @@
 <!ENTITY changeEntireListRadio.label "Schimbă întreaga listă">
 <!ENTITY changeEntireListRadio.accessKey "S">
 <!ENTITY changeSelectedRadio.label "Schimbă doar elementele selectate">
-<!ENTITY changeSelectedRadio.accessKey "d">
+<!ENTITY changeSelectedRadio.accessKey "i">

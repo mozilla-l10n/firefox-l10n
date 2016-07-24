@@ -101,6 +101,7 @@
 <!ENTITY enableOCSP.label                "Interoghează serverele de răspuns OCSP pentru confirmarea valabilității actuale a certificatelor">
 <!ENTITY enableOCSP.accesskey            "e">
 
-
+<!ENTITY manageCertificates.label "Gestionează certificatele">
+<!ENTITY manageCertificates.accesskey "M">
 <!ENTITY viewSecurityDevices.label "Dispozitive de securitate">
 <!ENTITY viewSecurityDevices.accesskey "u">

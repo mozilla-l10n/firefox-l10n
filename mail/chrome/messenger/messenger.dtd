@@ -92,9 +92,9 @@
 <!ENTITY undeleteMsgCmd.label "Recuperează mesajul șters">
 <!ENTITY undeleteMsgCmd.accesskey "j">
 <!ENTITY deleteMsgsCmd.label "Șterge mesajele selectate">
-<!ENTITY deleteMsgsCmd.accesskey "g">
+<!ENTITY deleteMsgsCmd.accesskey "D">
 <!ENTITY undeleteMsgsCmd.label "Recuperează mesajele selectate">
-<!ENTITY undeleteMsgsCmd.accesskey "j">
+<!ENTITY undeleteMsgsCmd.accesskey "d">
 <!ENTITY deleteFolderCmd.label "Șterge dosar">
 <!ENTITY deleteFolderCmd.accesskey "d">
 <!ENTITY unsubscribeNewsgroupCmd.label "Dezabonare">
@@ -363,8 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Editare ca mesaj nou">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
-
-
+<!ENTITY editDraftMsgCmd.label "Editează mesajele ciornă">
+<!ENTITY editDraftMsgCmd.accesskey "d">
 <!ENTITY createFilter.label "Creează filtru din mesaj…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Mută în">
@@ -683,7 +683,7 @@
 <!ENTITY attachmentColumn.label "Atașamente">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser2.tooltip "Selectați coloanele de afișat">
+<!ENTITY columnChooser2.tooltip "Selectează coloanele de afișat">
 <!ENTITY threadColumn2.tooltip "Afișează mesajele grupate">
 <!ENTITY fromColumn2.tooltip "Sortează după expeditor">
 <!ENTITY recipientColumn2.tooltip "Sortează după destinatar">
@@ -720,7 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Editare ca mesaj nou">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
-
+<!ENTITY contextEditDraftMsg.label "Editează mesajul ciornă">
 <!ENTITY contextArchive.label "Arhivează">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Răspunde doar expeditorului">
@@ -865,8 +865,8 @@
 <!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Copiază adresa de e-mail">
 <!ENTITY CopyEmailAddress.accesskey "C">
-
-
+<!ENTITY CopyNameAndEmailAddress.label "Copiază numele și adresa de e-mail">
+<!ENTITY CopyNameAndEmailAddress.accesskey "n">
 <!ENTITY CopyNewsgroupName.label "Copiază numele grupului de discuții">
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Copiază URL-ul grupului de discuții">

@@ -31,7 +31,7 @@
 <!ENTITY stopFilters.label "Oprire">
 <!ENTITY stopFilters.accesskey "O">
 <!ENTITY folderPickerPrefix.label "Rulează filtrul(ele) selectate pe:">
-<!ENTITY folderPickerPrefix.accesskey "a">
+<!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY helpButton.label "Ajutor">
 <!ENTITY helpButton.accesskey "A">
 <!ENTITY closeCmd.key "w"> 
