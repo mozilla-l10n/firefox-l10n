@@ -76,14 +76,14 @@
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY size-smallCmd.label "Mazs">
+<!ENTITY size-smallCmd.accesskey "s">
+<!ENTITY size-mediumCmd.label "Vidējs">
+<!ENTITY size-mediumCmd.accesskey "V">
+<!ENTITY size-largeCmd.label "Liels">
+<!ENTITY size-largeCmd.accesskey "L">
+<!ENTITY size-extraLargeCmd.label "Ļoti liels">
+<!ENTITY size-extraLargeCmd.accesskey "o">
 
 
 <!-- Font Style SubMenu -->
