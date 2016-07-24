@@ -30,8 +30,8 @@
 <!ENTITY account.edit.accesskey       "p">
 <!ENTITY account.moveup.label         "Pārvietot augšup">
 <!ENTITY account.movedown.label       "Pārvietot lejup">
-
-
+<!ENTITY account.cancelReconnection.label         "Atcelt atkārtoto savienošanos">
+<!ENTITY account.cancelReconnection.accesskey     "A">
 <!ENTITY account.copyDebugLog.label     "Kopēt atkļūdošanas žurnālu">
 <!ENTITY account.copyDebugLog.accesskey "K">
 
