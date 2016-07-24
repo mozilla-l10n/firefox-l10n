@@ -96,7 +96,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Enter Full Screen">
+<!ENTITY enterFullScreenCmd.label "පූර්ණතිරය වෙත යන්න">
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "පූර්ණ තිරයෙන් ඉවත්වන්න">
 <!ENTITY exitFullScreenCmd.accesskey "F">
@@ -109,7 +109,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; වෙත පිවිසෙන්න">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; අභිප්‍රේත විවෘත කරන්න">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; වෙත නැවත සබඳවන්න">
-<!ENTITY fxaUnverified.label "ඔබේ ගිනුම තහවුරු කරන්න">
+<!ENTITY fxaUnverified.label "ඔබේ ගිණුම තහවුරු කරන්න">
 
 
 <!ENTITY fullScreenMinimize.tooltip "හකුළන්න">
@@ -133,7 +133,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "පූර්ණ තිරයෙන් පිටවන්න (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "පූර්ණ තිරයෙන් පිටවන්න (esc)">
-<!ENTITY leaveDOMFullScreen.label "Exit Full Screen">
+<!ENTITY leaveDOMFullScreen.label "පූර්ණ තිරයෙන් පිටවන්න">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!ENTITY closeWindow.label "කවුළුව වසන්න">
@@ -335,10 +335,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "විවෘත ටැබ නොමැත">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label " වෙනත් උපාංගයන්ගේ සිට ටැබ් ලැයිස්තුව බැලිමට ටැබ් සම්මුහුර්ථය අරින්න (Turn on).">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "සම්මුහුර්ථ ටැබ් මේ දක්වා… නැත!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "වෙනත් උපාංගයක සිට ඔබේ මෙම ටැබ් බැලීමට අවශ්‍යද?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync සැකසුම්">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "වෙනත් උපාංගයන්ගේ සිට ටැබ් ලැයිස්තුව බැලිමට ඇතුළු වන්න.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync වෙත පිවිසෙන්න">
 
 <!ENTITY customizeMenu.addToToolbar.label "මෙවලම් තීරුවට එක් කරන්න (A)">
@@ -366,6 +370,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ටැබයට මාරුවෙන්න:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "ඔබගේ සෙවුම් අත්දැකීම යෝජනා සමඟින් වැඩිදියුණු කර ගැනීමට ඔබ කැමතිද?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "තවත් දැනගන්න...">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "නැත">
@@ -502,9 +507,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "ශ්‍රව්‍ය සුරකින අයුර…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "රූපය තැපැල්... (g)">
+<!ENTITY emailImageCmd.label          "රූපය ඊමේල් කරන්න...(g)">
 <!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "වීඩියෝ තැපැල්... (a)">
+<!ENTITY emailVideoCmd.label          "වීඩියෝ ඊමේල් කරන්න...(a)">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "උපාංගයට වීඩියෝ යවන්න (e)">
 <!ENTITY castVideoCmd.accesskey       "e">
@@ -544,9 +549,14 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "නිහඬ නොකරන්න">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate050x2.label "සෙමින් (0.5×)">
+<!ENTITY mediaPlaybackRate100x2.label "සාමාන්‍ය">
+<!ENTITY mediaPlaybackRate125x2.label "වේගවත් (1.25×)">
+<!ENTITY mediaPlaybackRate150x2.label "වඩා වේගවත් (1.5×)">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaLoop.label             "ලූපය">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -556,7 +566,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "සමුපූර්ණ තිරය">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "Save Snapshot As…">
+<!ENTITY videoSaveImage.label        "ඡායාරූපය සුරකින්නේ මෙලෙස…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -654,10 +664,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "ආරක්ෂිත සබධතාවය">
 <!ENTITY identity.connectionNotSecure "සබධතාවය අනාරක්ෂිතයි">
 <!ENTITY identity.connectionFile "මෙම පිටුව ඔබේ පරිගණකයේ ගබඩා කර ඇත.">
+<!ENTITY identity.connectionVerified2 "ඔබ මෙම අඩවිය හා සුරක්ෂිතව සම්බන්ධ වී සිටියි, හිමිකාරත්වය දරන්නේ:">
+<!ENTITY identity.connectionInternal "මෙය ආරක්ෂිත &brandShortName; පිටුවකි.">
+<!ENTITY identity.insecureLoginForms2 "මෙම පිටුවට යොදන ප්‍රවේශ තොරතුරු නිසා ව්‍යකූලවීම් සිදුවිය හැකිය.">
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "ආරක්ෂිත නොවන නිසා මෙම පිටුවේ කොටස් &brandShortName; අවහිර කර ඇත.">
+<!ENTITY identity.passiveLoaded "මෙම පිටුවේ (පිංතූර වැනි) කොටස් ආරක්ෂිත නැත.">
+<!ENTITY identity.activeLoaded "මෙම පිටුව සඳහා ආරක්ෂාව ඔබ විසින් බල රහිත කර ඇත.">
+<!ENTITY identity.weakEncryption "මෙම පිටුව දුර්වල සංකේතනයක් භාවිතා කරයි.">
 
 <!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "මෙම පිටුවට වූ ඔබේ සම්බන්ධතාවය පෞද්ගලික නොවේ. ඔබ ලබාදෙන තොරතුරු වෙනත් අයෙකු බැලීමට ඉඩ ඇත (රහස්පද, පණිවුඩ, ණය කාඩ්පත් ආදී..).">
+<!ENTITY identity.description.insecureLoginForms "මෙම පිටුවට යොදන ප්‍රවේශ තොරතුරු ආරක්ෂිත නොවන නිසා ව්‍යකූලවීම් සිදුවිය හැකිය.">
+<!ENTITY identity.description.weakCipher "මෙම පිටුවට වන ඔබේ සම්බන්ධතාවය දුර්වල සංකේතනයක් භාවිතා කරයි එසේම එය පෞද්ගලික නොවේ.">
+<!ENTITY identity.description.activeBlocked "ආරක්ෂිත නොවන නිසා මෙම පිටුවේ කොටස් &brandShortName; අවහිර කර ඇත">
+<!ENTITY identity.description.passiveLoaded "ඔබගේ සම්බන්ධතාවය පෞද්ගලික නොවන නිසා ඔබ ඇතුළත් කරන් තොරතුරු වෙනත් අය බැලීමට ඉඩ ඇත.">
+<!ENTITY identity.description.passiveLoaded2 "මෙම පිටුවේ ආරක්ෂිත නොවන (පිංතූර වැනි) කොටස් අඩංගුය.">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; සමහර කොටස් අවහිර කළද තවමත් ආරක්ෂිත නොවන (පිංතූර වැනි) කොටස් අඩංගු විය හැකිය.">
+<!ENTITY identity.description.activeLoaded "මෙම පිටුවේ ආරක්ෂිත නොවන (scripts වැනි) කොටස් අඩංගුය එසේම ඔබගේ සම්බන්ධතාවය පෞද්ගලික නොවේ.">
+<!ENTITY identity.description.activeLoaded2 "මෙම අඩවියට ඔබ ලබාදෙන තොරතුරු වෙනත් අයෙකු බැලීමට ඉඩ ඇත (රහස්පද, පණිවුඩ, ණය කාඩ්පත් ආදී..).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "ආරක්ෂණය සක්‍රීය කරන්න">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
