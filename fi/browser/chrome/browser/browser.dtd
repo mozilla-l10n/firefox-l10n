@@ -571,6 +571,8 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Älytön (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "Ä">
+<!ENTITY mediaLoop.label             "Jatkuva toisto">
+<!ENTITY mediaLoop.accesskey         "J">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
