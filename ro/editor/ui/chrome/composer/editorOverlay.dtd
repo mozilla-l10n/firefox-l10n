@@ -280,7 +280,7 @@
 <!ENTITY tableSplitCell.label "Separă celula">
 <!ENTITY tableSplitCell.accesskey "S">
 <!ENTITY convertToTable.label "Creează tabel din selecție">
-<!ENTITY convertToTable.accesskey "C">
+<!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "Proprietăți tabel…">
 <!ENTITY tableProperties.accesskey "o">
 <!-- Toolbar-only items -->

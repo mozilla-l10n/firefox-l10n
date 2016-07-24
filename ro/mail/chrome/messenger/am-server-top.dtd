@@ -23,8 +23,8 @@
 <!ENTITY biffStart.label "Caută mesaje noi la fiecare ">
 <!ENTITY biffStart.accesskey "u">
 <!ENTITY biffEnd.label "Minute">
-
-
+<!ENTITY useIdleNotifications.label "Permite notificări imediate de la server atunci când apar mesaje noi">
+<!ENTITY useIdleNotifications.accesskey "w">
 <!ENTITY connectionSecurity.label "Securitatea conexiunii:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Niciuna">

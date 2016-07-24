@@ -29,8 +29,8 @@
 <!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Inițial bifat">
 <!ENTITY InputChecked.accesskey "b">
-<!ENTITY InputSelected.label "Inițial selectat">
-<!ENTITY InputSelected.accesskey "s">
+<!ENTITY InputSelected.label "Selectat inițial">
+<!ENTITY InputSelected.accesskey "S">
 <!ENTITY InputReadOnly.label "Doar-citire">
 <!ENTITY InputReadOnly.accesskey "D">
 <!ENTITY InputDisabled.label "Inactiv">

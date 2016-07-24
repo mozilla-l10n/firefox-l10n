@@ -17,7 +17,7 @@
 <!ENTITY workOffline.label "Lucrează offline imediat ce se termină descărcarea și sincronizarea">
 <!ENTITY workOffline.accesskey "e">
 <!ENTITY selectButton.label "Selectează…">
-<!ENTITY selectButton.accesskey "S">
+<!ENTITY selectButton.accesskey "e">
 <!ENTITY MsgSelectDesc.label "Alegeți dosarele de e-mail și grupurile de discuții pentru utilizare offline.">
 <!ENTITY MsgSelectInd.label "Descarcă">
 <!ENTITY MsgSelectItems.label "Dosare și grupuri de discuții">

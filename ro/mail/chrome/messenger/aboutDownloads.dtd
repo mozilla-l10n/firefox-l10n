@@ -19,6 +19,6 @@
 <!ENTITY cmd.removeFromHistory.accesskey           "E">
 <!ENTITY cmd.clearList.label                       "Curăță lista">
 <!ENTITY cmd.clearList.accesskey                   "u">
-
+<!ENTITY cmd.clearList.tooltip                     "Elimină toate elementele din lista fișierelor salvate, cu excepția descărcărilor în desfășurare.">
 <!ENTITY cmd.searchDownloads.label                 "Caută…">
 <!ENTITY cmd.searchDownloads.key                   "F">
