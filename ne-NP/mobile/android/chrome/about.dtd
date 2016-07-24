@@ -5,7 +5,7 @@
 <!ENTITY aboutPage.warningVersion               "&brandShortName; परिक्षणमा रहेको र अस्थिर हुन सक्ने।">
 
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-
+<!ENTITY aboutPage.telemetryEnd                 "&brandShortName; राम्रो बनाउन मद्दत।">
 
 
 
