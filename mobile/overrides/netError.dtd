@@ -28,6 +28,7 @@
 <!ENTITY generic.title "Ups.">
 
 
+<!ENTITY malformedURI.title "Alamat tidak valid">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -54,6 +55,7 @@
 <!ENTITY netTimeout.title "Tenggang waktu tersambung habis">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "Alamat tidak dipahami">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Anda mungkin perlu untuk menginstal perangkat lunak lain untuk membuka alamat ini.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Server proxy menolak sambungan">
@@ -64,6 +66,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Periksa pengaturan proxy, pastikan sudah benar.</li> <li>Pastikan sambungan data atau Wi-Fi perangkat Anda berjalan dengan baik. <button id='wifi'>Aktifkan Wi-Fi</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "Laman tidak teralihkan dengan benar">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Masalah ini kadangkala disebabkan karena mematikan fungsi atau menolak menerima kuki.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Jawaban yang tidak diharapkan dari server">
@@ -102,9 +105,11 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Info lebih lanjut: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Sambungan Anda tidak aman">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Info lebih lanjut: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "Sambungan Anda tidak aman">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
