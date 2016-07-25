@@ -17,6 +17,7 @@
 <!ENTITY playSound1.accesskey "o">
 <!ENTITY showAnimatedAlert.label "Mostrar una alerta">
 <!ENTITY showAnimatedAlert.accesskey "M">
+<!ENTITY notificationAlertSettings.label "Las alertas pueden desactivarse en el panel de notificaciones de las preferencias del sistema.">
 <!ENTITY customizeMailAlert.label "Personalizar…">
 <!ENTITY customizeMailAlert.accesskey "P">
 <!ENTITY showTrayIcon.label "Mostrar un icono en la bandeja">
