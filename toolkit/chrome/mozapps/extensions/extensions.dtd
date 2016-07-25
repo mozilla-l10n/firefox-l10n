@@ -29,8 +29,6 @@
 <!ENTITY warning.updatesecurity.label "La comprobación de seguridad de los complementos está desactivada. Puede ver su seguridad comprometida durante las actualizaciones.">
 <!ENTITY warning.updatesecurity.enable.label "Activar">
 <!ENTITY warning.updatesecurity.enable.tooltip "Activar comprobación de seguridad de complementos">
-<!ENTITY info.plugincheck.label "Pulse aquí para ver si sus plugins están actualizados">
-<!ENTITY info.plugincheck.tooltip "Pulse aquí para ver si sus plugins están actualizados">
 <!ENTITY view.search.label "Buscar">
 <!ENTITY view.discover.label "Obtener complementos">
 <!ENTITY view.recentUpdates.label "Actualizaciones recientes">
