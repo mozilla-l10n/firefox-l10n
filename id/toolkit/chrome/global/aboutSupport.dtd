@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Penggunaan Memori">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Kinerja">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Worker Terdaftar">
@@ -109,8 +109,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Coba Mode Aman">
 <!ENTITY aboutSupport.restartInSafeMode.label "Mulai Ulang dengan Pengaya Dinonaktifkan…">
 
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Fitur">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostik">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Log Kegagalan">
 
 
 
