@@ -51,7 +51,7 @@
 
 <!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Политика за личните данни">
-<!ENTITY determiningAcctStatus.label     "Определяне на състоянието на вашия профил…">
+<!ENTITY determiningAcctStatus.label     "Определяне на състоянието на вашата сметка…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -79,14 +79,14 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.description "С &brandShortName; навсякъде може да имате достъп до вашите раздели, отметки, пароли и други.">
 <!ENTITY welcome.signIn.label "Вписване">
-<!ENTITY welcome.createAccount.label "Създаване на регистрация">
+<!ENTITY welcome.createAccount.label "Създаване на сметка">
 
 <!ENTITY welcome.useOldSync.label "Използвате по-стара версия на Sync ли?">
 
 <!ENTITY signedOut.caption            "Вземете Мрежата със себе си">
 <!ENTITY signedOut.description        "Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.">
 <!ENTITY signedOut.accountBox.title   "Свържете ги с &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Създаване на профил">
+<!ENTITY signedOut.accountBox.create  "Създаване на сметка">
 <!ENTITY signedOut.accountBox.signin  "Вписване">
 
 <!ENTITY signedIn.engines.label       "Синхронизиране по всички устройства">
