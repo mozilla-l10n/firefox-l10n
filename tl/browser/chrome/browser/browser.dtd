@@ -15,13 +15,14 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
 
+<!ENTITY appmenu.tooltip                     "Buksan ang menu">
 
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "E-load ang Tab">
 <!ENTITY  reloadTab.accesskey                "E">
-
-
+<!ENTITY  reloadAllTabs.label                "I-reload ang Lahat ng mga Tabs">
+<!ENTITY  reloadAllTabs.accesskey            "L">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
