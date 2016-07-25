@@ -7,22 +7,32 @@
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
 
+<!ENTITY inspectorCopyInnerHTML.label       "ಒಳ HTML ‍">
+<!ENTITY inspectorCopyInnerHTML.accesskey   "I">
 <!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
 
+<!ENTITY inspectorCopyOuterHTML.label       "‍ಹೊರ HTML">
+<!ENTITY inspectorCopyOuterHTML.accesskey   "O">
 <!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
 
+<!ENTITY inspectorCopyCSSSelector.label "CSS ಆಯ್ಕೆಗಾರ">
+<!ENTITY inspectorCopyCSSSelector.accesskey "S">
 <!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
+<!ENTITY inspectorPasteOuterHTML.label      "‍ಹೊರ HTML">
+<!ENTITY inspectorPasteOuterHTML.accesskey  "O">
 <!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
+<!ENTITY inspectorPasteInnerHTML.label      "ಒಳ HTML ‍">
+<!ENTITY inspectorPasteInnerHTML.accesskey  "I">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
@@ -107,6 +117,8 @@
      the URL embedding the image data encoded in Base 64 (what we name
      here Image Data URL). For more information:
      https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
+
+<!ENTITY inspectorImageDataUri.label       "ಚಿತ್ರ ದತ್ತಾಂಶ-URL">
 <!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
      shown in the inspector contextual-menu for the item that lets users see
      the DOM properties of the current node. When triggered, this item
@@ -150,6 +162,8 @@
      - Copy Outer HTML
      - Copy Unique selector
      - Copy Image data URI -->
+
+<!ENTITY inspectorCopyHTMLSubmenu.label      "ನಕಲಿಸು">
 <!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
      paste items, which allow to:
@@ -159,3 +173,5 @@
      - After
      - As First Child
      - As Last Child -->
+
+<!ENTITY inspectorPasteHTMLSubmenu.label      "ಅಂಟಿಸು">
