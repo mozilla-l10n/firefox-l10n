@@ -6,9 +6,9 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description2 "Добре дошли! Ако никога преди не сте ползвали &syncBrand.fullName.label;, ще е нужно да създадете нов профил.">
-<!ENTITY button.createNewAccount.label "Създаване на нов акаунт">
-<!ENTITY button.haveAccount.label      "Имам регистрация">
+<!ENTITY setup.pickSetupType.description2 "Добре дошли! Ако никога преди не сте ползвали &syncBrand.fullName.label;, ще е нужно да създадете нова сметка.">
+<!ENTITY button.createNewAccount.label "Създаване на нова сметка">
+<!ENTITY button.haveAccount.label      "Имам сметка">
 
 <!ENTITY setup.choicePage.title.label     "Някога преди ползвали ли сте &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Никога преди не съм ползвал &syncBrand.shortName.label;">
@@ -18,15 +18,15 @@
 <!ENTITY server.label               "Сървър">
 <!ENTITY serverType.default.label      "Стандартен сървър: Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Използване на друг сървър…">
-<!ENTITY signIn.account2.label      "Акаунт">
-<!ENTITY signIn.account2.accesskey  "А">
+<!ENTITY signIn.account2.label      "Сметка">
+<!ENTITY signIn.account2.accesskey  "С">
 <!ENTITY signIn.password.label      "Парола">
 <!ENTITY signIn.password.accesskey  "П">
 <!ENTITY signIn.recoveryKey.label       "Ключ за възстановяване">
 <!ENTITY signIn.recoveryKey.accesskey   "К">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Подробности за акаунта">
+<!ENTITY setup.newAccountDetailsPage.title.label "Подробности за сметката">
 <!ENTITY setup.emailAddress.label     "Мейл адрес">
 <!ENTITY setup.emailAddress.accesskey "М">
 <!ENTITY setup.choosePassword.label      "Изберете парола">
@@ -72,7 +72,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Вписване">
-<!ENTITY existingRecoveryKey.description "Можете да получите копие на вашия ключ за възстановяване като отидете в Настройки на &syncBrand.shortName.label; на друго ваше устройство и изберете „Моят ключ за възстановяване“ под „Управление на профил“.">
+<!ENTITY existingRecoveryKey.description "Можете да получите копие на вашия ключ за възстановяване като отидете в Настройки на &syncBrand.shortName.label; на друго ваше устройство и изберете „Моят ключ за възстановяване“ под „Управление на сметка“.">
 <!ENTITY verifying.label              "Проверяване…">
 <!ENTITY resetPassword.label          "Нулиране на парола">
 <!ENTITY resetSyncKey.label           "Загубих другото си устройство.">
@@ -103,7 +103,7 @@
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Потвърждение">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; сега ще слее всички данни от този компютър във вашия профил в Sync.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; сега ще слее всички данни от този компютър във вашата сметка в Sync.">
 <!ENTITY confirm.client3.label         "Внимание: Следните данни на &brandShortName; ще бъдат изтрити от този компютър:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; след това ще копира вашите данни на &syncBrand.fullName.label; в този компютър.">
 <!ENTITY confirm.server2.label         "Внимание: Данните в следните устройства ще бъдат заменени с локалните данни:">
