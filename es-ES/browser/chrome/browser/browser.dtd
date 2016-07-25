@@ -20,6 +20,12 @@
 <!ENTITY pinTab.accesskey "F">
 <!ENTITY unpinTab.label "Soltar pestaña">
 <!ENTITY unpinTab.accesskey "ñ">
+<!ENTITY sendTabToDevice.label "Enviar pestaña al dispositivo">
+<!ENTITY sendTabToDevice.accesskey "v">
+<!ENTITY sendPageToDevice.label "Enviar página al dispositivo">
+<!ENTITY sendPageToDevice.accesskey "v">
+<!ENTITY sendLinkToDevice.label "Enviar enlace al dispositivo">
+<!ENTITY sendLinkToDevice.accesskey "v">
 <!ENTITY moveToNewWindow.label "Mover a una nueva ventana">
 <!ENTITY moveToNewWindow.accesskey "V">
 <!ENTITY bookmarkAllTabs.label "Añadir pestañas a marcadores…">
@@ -92,6 +98,9 @@
 <!ENTITY exitDOMFullscreenMac.button "Salir de pantalla completa (esc)">
 <!ENTITY leaveDOMFullScreen.label "Salir de la pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "p">
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "tiene el control de su puntero. Pulse Esc para recuperar el control.">
+<!ENTITY pointerlockWarning.generic.label "Este documento tiene el control del puntero. Pulse Esc para recuperar el control.">
 <!ENTITY closeWindow.label "Cerrar ventana">
 <!ENTITY closeWindow.accesskey "v">
 <!ENTITY bookmarksMenu.label "Marcadores">
@@ -555,12 +564,8 @@
 <!ENTITY social.addons.label "Administrar servicios…">
 <!ENTITY social.toggleNotifications.label "Mostrar notificaciones de escritorio">
 <!ENTITY social.toggleNotifications.accesskey "n">
-<!ENTITY social.activated.description "Los servicios de <label/> han sido activados. Puede cambiar la configuración de estos servicios en el <label class='text-link'>administrador de complementos</label>.">
-<!ENTITY social.activated.undo.label "¡Uy! Deshacer esto">
-<!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "Saber más…">
 <!ENTITY social.learnMore.accesskey "m">
-<!ENTITY social.closeNotificationItem.label "No ahora">
 <!ENTITY social.directory.label "Directorio de activaciones">
 <!ENTITY social.directory.text "Puede activar servicios de compartición del directorio.">
 <!ENTITY social.directory.button "¡Llévame allí!">
