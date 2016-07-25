@@ -8,3 +8,4 @@
 <!ENTITY inspectorSearchHTML.label3 "Cerca in HTML">
 <!ENTITY inspectorAddNode.label "Crea nuovo nodo">
 <!ENTITY inspectorAddNode.accesskey "C">
+<!ENTITY inspectorEyeDropper.label "Cattura un colore nella pagina">
