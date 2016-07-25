@@ -480,7 +480,7 @@ size. -->
 <!ENTITY contextmenu_remove "移除">
 <!ENTITY contextmenu_add_to_launcher "添加到主屏幕">
 <!ENTITY contextmenu_share "共享">
-<!ENTITY contextmenu_pasteandgo "粘贴并转到">
+<!ENTITY contextmenu_pasteandgo "粘贴并访问">
 <!ENTITY contextmenu_paste "粘贴">
 <!ENTITY contextmenu_copyurl "复制地址">
 <!ENTITY contextmenu_edit_bookmark "编辑">
