@@ -6,6 +6,7 @@
 <!ENTITY window.width                 "50em">
 <!ENTITY window.height                "10em">
 
-
+<!ENTITY doNotTrackCheckbox2.label    "Selalu aktifkan Jangan Lacak">
+<!ENTITY doNotTrackCheckbox2.accesskey "S">
 
 <!ENTITY doNotTrackLearnMore.label    "Lebih Lanjut">
