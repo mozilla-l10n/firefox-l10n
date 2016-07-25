@@ -109,10 +109,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "সুরক্ষিত মোডে চেষ্টা করুন">
 <!ENTITY aboutSupport.restartInSafeMode.label "অ্যাড-অন নিস্ক্রিয় করে রিস্টার্ট করুন…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "বৈশিষ্ট্যসমূহ">
 
-
-
-
+<!ENTITY aboutSupport.graphicsFailureLogTitle "ব্যর্থ হওয়ার লগ">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 
 
 

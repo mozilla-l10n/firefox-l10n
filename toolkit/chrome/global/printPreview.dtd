@@ -32,7 +32,7 @@
 <!ENTITY Custom.label         "স্বনির্ধারিত…">
 <!ENTITY ShrinkToFit.label    "মানানসই করার জন্য সংকোচন করা হবে">
 <!ENTITY customPrompt.title   "স্বনির্ধারিত আকার পরিবর্তন…">
-
+<!ENTITY simplifyPage.label   "পাতা সরলীকরণ">
 <!ENTITY simplifyPage.enabled.tooltip  "সহজ করে পড়ার জন্য লেআউট পরিবর্তন করুন ">
 
 
