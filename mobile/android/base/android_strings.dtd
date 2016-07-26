@@ -261,7 +261,7 @@
 <!ENTITY pref_tracking_protection_title2 "ट्रयाकिङ्ग सुरक्षा">
 <!ENTITY pref_tracking_protection_summary3 "निजी ब्राउजिङ्गमा सक्षम पारिएको">
 <!ENTITY pref_donottrack_title "ट्रयाक नगर्नुहोस्">
-
+<!ENTITY pref_donottrack_summary "&brandShortName; ले साइटहरूलाई तपाईंलाई नपछ्याउन अनुरोध गर्दछ">
 
 <!ENTITY pref_tracking_protection_enabled "सक्षम पारिएको">
 <!ENTITY pref_tracking_protection_enabled_pb "निजी ब्राउजिङ्गमा सक्षम पारिएको">
@@ -279,7 +279,7 @@
 <!ENTITY tab_queue_toast_action "अहिले खोल्नुहोस्">
 <!ENTITY tab_queue_prompt_title "धेरै लिंकहरू खोल्दै हुनुहुन्छ?">
 
-
+<!ENTITY tab_queue_prompt_tip_text2 "तपाईँले पछि पनि सेटिङहरूमा गएर यो परिवर्तन गर्न सक्नुहुन्छ">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "सक्षम पार्नुहोस्">
@@ -313,6 +313,7 @@
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
 
+<!ENTITY pref_char_encoding "वर्ण सङ्केतन">
 <!ENTITY pref_char_encoding_on "मेनु देखाउनुहोस्">
 <!ENTITY pref_char_encoding_off "मेनु नदेखाउनुहोस्">
 
