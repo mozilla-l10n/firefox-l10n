@@ -46,4 +46,5 @@
 <!ENTITY showCurrentView.label                  "Aktuális nézet">
 <!ENTITY showCurrentView.accesskey              "A">
 
-
+<!ENTITY calendar.properties.label              "Naptár tulajdonságai…">
+<!ENTITY calendar.properties.accesskey          "t">
