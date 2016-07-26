@@ -79,7 +79,7 @@
 <!ENTITY cspBlocked.longDesc "<p>A &brandShortName; nem engedte meg, hogy az oldalt ezen a módon betöltse, mert az oldal tartalombiztonsági irányelve ezt tiltja.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Sérült tartalom hiba">
-
+<!ENTITY corruptedContentErrorv2.longDesc "<p>A megtekinteni kívánt oldal nem jeleníthető meg, mert az adatátvitel közben hiba történt.</p><ul><li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Vagy hozzáadhat egy kivételt…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Oldal elhagyása">
@@ -95,5 +95,7 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "Távoli XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Értesítse a webhely tulajdonosait erről a problémáról.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "A kapcsolat nem biztonságos">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> olyan biztonsági technológiát használ, amely elavult, és sérülékeny a támadásokkal szemben. Egy támadó könnyen felfedhet olyan információkat, amelyeket biztonságosnak gondol. A weboldal rendszergazdájának ki kell javítania a kiszolgálót, mielőtt meglátogathatja az oldalt.</p><p>Hibakód: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
