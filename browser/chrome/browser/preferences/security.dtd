@@ -11,10 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Blokiraj opasni i zavaravajući sadržaj">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "Blokiraj opasna preuzimanja">
+<!ENTITY  blockDownloads.accesskey        "o">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Upozori me na neželjene ili neobične programe">
+<!ENTITY  blockUncommonUnwanted.accesskey "g">
 
 <!ENTITY  addonExceptions.label         "Iznimke...">
 <!ENTITY  addonExceptions.accesskey     "e">

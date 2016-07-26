@@ -29,7 +29,7 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Obmanjujuća stranica!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Web stranica <span id='phishing_sitename'/> je prijavljena kao obmanjujuća i blokirana je na temelju vaših sigurnosnih postavki.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Obmanjujuće će vas stranice pokušati natjerati da napravite nešto što inače ne biste.</p><p>Otkrivanjem bilo koje informacije na ovoj web stranici može rezultirati krađom identiteta ili drugom prijevarom.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Obmanjujuće će vas stranice pokušati natjerati da napravite ono što inače ne biste, recimo da instalirate neki program ili otkrite osobne informacije poput lozinki, telefonskih brojeva ili brojeva kreditnih kartica.</p><p>Otkrivanjem bilo koje informacije na ovoj stranici može rezultirati krađom identiteta ili kojom drugom vrstom prijevare.</p>">
 
 <!ENTITY safeb.blocked.forbiddenPage.title2 "Blokirana stranica">
 <!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
