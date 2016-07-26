@@ -47,6 +47,11 @@
 <!ENTITY  font.langGroup.khmer                    "Χμερ">
 <!ENTITY  font.langGroup.malayalam                "Μαλαισιανή">
 <!ENTITY  font.langGroup.math                     "Μαθηματικά">
+<!ENTITY  font.langGroup.oriya                    "Ορίγια">
+<!ENTITY  font.langGroup.telugu                   "Τελούγκου">
+<!ENTITY  font.langGroup.kannada                  "Κανάντα">
+<!ENTITY  font.langGroup.sinhala                  "Σινχάλα">
+<!ENTITY  font.langGroup.tibetan                  "Θιβετιανή">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Ελάχιστο μέγεθος γραμματοσειράς:">
 <!ENTITY minSize.accesskey                        "χ">
