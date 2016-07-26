@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "H">
 <!ENTITY restoreHTMLDefaults.label            "Alapértelmezett értékek visszaállítása">
 <!ENTITY restoreHTMLDefaults.accesskey        "A">
-
-
+<!ENTITY defaultToParagraph.label             "Alapértelmezésben a Bekezdés formátum használata Szövegtörzs helyett">
+<!ENTITY defaultToParagraph.accesskey         "B">
 
 <!ENTITY spellCheck.label                     "Helyesírás ellenőrzése küldés előtt">
 <!ENTITY spellCheck.accesskey                 "H">
