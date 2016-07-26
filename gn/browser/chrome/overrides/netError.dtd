@@ -16,7 +16,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Ko kundaharenda ndaikatúi eipuru">
-<!ENTITY deniedPortAccess.longDesc "">
+<!ENTITY deniedPortAccess.longDesc "Inglés">
 
 <!ENTITY dnsNotFound.title "Mohendahavusu ndojejuhúiva">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>Ehechajey kundaharape ndoguerekóipa jejavy ijehaípe <strong>ww</strong>.example.com <strong>www</strong>.example.com rendaguépe</li> <li>Ndaikatúiramo emyanyhẽ kuatiarogue, ehechajey jeikekatu nemohendaha ñanduti rehegua.</li> <li>Nemohendaha térã ñanduti oguerekóramo ñemo'ã peteĩ tatakytĩha térã proxy, ehecháke &brandShortName; oguerekópa ñemoneĩ oikekuaa hag̃ua ñandutípe.</li> </ul>">
@@ -109,6 +109,8 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.override "(Jeroviaha'ỹva) Eñeha'ã emyenyhẽ <span class='hostname'></span> eipurukuévo tekorosãrã ndoikovéimava">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
+
+<!ENTITY certerror.wrongSystemTime "<p>Eikekatu <span id='wrongSystemTime_URL'/> ndaikatúi pe aravopapaha noĩporãi rupi.</p> <p>Ko mohendaha oimo'ã ha'eha <span id='wrongSystemTime_systemDate'/>, ikatuhápe ha'e <span id='wrongSystemTime_actualDate'/>. Esẽ hag̃ua ko apañuãigui, emoambue arange ha aravo ñemboheko ojuehe hag̃ua aravo ha'etéva rehe.</p>">
 
 <!ENTITY certerror.pagetitle1  "Jeikekatu'ỹ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ko tenda oipuru HTTP Strict Transport Security (HSTS) ha omoha'eño &brandShortName; oike hag̃ua pype tekorosãme. Tembiapokuéramo, ndaikatúi embojoaju peteĩ oĩ'ỹva ko mboajepyrépe g̃uarã.">
