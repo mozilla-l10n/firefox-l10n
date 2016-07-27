@@ -16,7 +16,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Ko kundaharenda ndaikatúi eipuru">
-<!ENTITY deniedPortAccess.longDesc "Inglés">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Mohendahavusu ndojejuhúiva">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>Ehechajey kundaharape ndoguerekóipa jejavy ijehaípe <strong>ww</strong>.example.com <strong>www</strong>.example.com rendaguépe</li> <li>Ndaikatúiramo emyanyhẽ kuatiarogue, ehechajey jeikekatu nemohendaha ñanduti rehegua.</li> <li>Nemohendaha térã ñanduti oguerekóramo ñemo'ã peteĩ tatakytĩha térã proxy, ehecháke &brandShortName; oguerekópa ñemoneĩ oikekuaa hag̃ua ñandutípe.</li> </ul>">
