@@ -72,7 +72,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Eiképy">
-<!ENTITY existingRecoveryKey.description "Ikatu eguereko peteĩ monguatiapyre neñe&apos;ẽñemi jeguerujey ehóvo &syncBrand.shortName.label; poravorãme, ambue nemohendahápe ha eiporavo &quot;Che ñe&apos;ẽñemi jeguerujey&quot; &quot;Mba&apos;ete ñangarekoha&quot; poguýpe.">
+<!ENTITY existingRecoveryKey.description "Ikatu eguereko peteĩ monguatiapyre neñe&apos;ẽñemi jeguerujey ehóvo &syncBrand.shortName.label; poravorãme ambue nemohendahápe ha eiporavo &quot;Che ñe&apos;ẽñemi jeguerujey&quot; &quot;Mba&apos;ete ñangarekoha&quot; poguygua.">
 <!ENTITY verifying.label              "Ojehechajey...">
 <!ENTITY resetPassword.label          "Ñe'ẽñemi mbojevyjey">
 <!ENTITY resetSyncKey.label           "Okañy chehegui ambue che mba'e'oka.">

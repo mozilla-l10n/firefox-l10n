@@ -163,7 +163,7 @@
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
 <!ENTITY options.stylesheetSourceMaps.label      "Teñoiha añetéva jehechauka">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Teñoiha añetéva jehechauka (p.e., marandurenda Sass) mbosako'ihápe ha imoambuekuaahápe">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Teñoiha añetéva jehechauka (e.g. marandurenda Sass) mbosako'ihápe ha imoambuekuaahápe">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
