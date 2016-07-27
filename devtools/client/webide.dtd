@@ -30,7 +30,7 @@
 
 <!ENTITY runtimeMenu_label "Среда за приложения">
 <!ENTITY runtimeMenu_accesskey "д">
-<!ENTITY runtimeMenu_disconnect_label "Развързване">
+<!ENTITY runtimeMenu_disconnect_label "Изключване">
 <!ENTITY runtimeMenu_disconnect_accesskey "и">
 <!ENTITY runtimeMenu_showPermissionTable_label "Таблица на правата">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "Т">
