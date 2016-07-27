@@ -73,7 +73,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Вписване">
 <!ENTITY profilePicture.tooltip      "Промяна снимката на профила">
 <!ENTITY verifiedManage.label        "Управление на сметката">
-<!ENTITY disconnect.label            "Развързване…">
+<!ENTITY disconnect.label            "Изключване…">
 <!ENTITY verify.label                "Проверка на мейла">
 <!ENTITY forget.label                "Забравяне на този мейл">
 
