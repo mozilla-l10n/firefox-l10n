@@ -34,7 +34,7 @@
 <!ENTITY customPrompt.title   "Jupiha ñemomba'epyre…">
 <!ENTITY simplifyPage.label   "Kuatiarogue ñemomichĩ">
 <!ENTITY simplifyPage.enabled.tooltip  "Emoambue moha'ãnga ñemoñe'ẽ hasy'ỹve hag̃ua">
-
+<!ENTITY simplifyPage.disabled.tooltip "Ko kuatiarogue ndaikatúi oñemomichĩ ijehegui">
 
 <!ENTITY homearrow.tooltip    "Kuatiarogue peteïha">
 <!ENTITY endarrow.tooltip     "Kuatiarogue paha">
