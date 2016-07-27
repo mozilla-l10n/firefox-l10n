@@ -110,8 +110,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.pagetitle1  "Ceangal nach eil tèarainte">
+<!ENTITY certerror.wrongSystemTime "<p>Chan urrainn dhuinn ceangal tèarainte a dhèanamh ri <span id='wrongSystemTime_URL'/> a chionn ’s gu bheil an cleoc agad a’ sealltainn an ama chearr.</p> <p>Tha an coimpiutair agad dhen bheachd gu bheil e <span id='wrongSystemTime_systemDate'/> ach tha e <span id='wrongSystemTime_actualDate'/>. Cuir ceart an t-àm is an ceann-là gus an duilgheadas seo a chàradh.</p>">
 
+<!ENTITY certerror.pagetitle1  "Ceangal nach eil tèarainte">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tha an làrach seo a’ cleachdadh HTTP Strict Transport Security (HSTS) gus a chur an cèill nach urrainn dha &brandShortName; ceangal ris ach gu tèarainte. Ri linn sin, chan urrainnear eisgeachd a chur ris airson an teisteanais seo.">
 <!ENTITY certerror.copyToClipboard.label "Cuir lethbhreac dhen teacsa air an stòr-bhòrd">
 
 <!ENTITY inadequateSecurityError.title "Chan eil an ceangal agad tèarainte">
@@ -119,4 +121,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p>Tha <span class='hostname'></span> a’ cleachdadh seann-teicneolas tèarainteachd a tha so-leònte. Cha bhiodh e doirbh do chuideigin dàta a leigeil ris a bha tèarainte ’nad bheachd. Bidh aig rianaire na làraich am frithealaiche a chàradh mus urrainn dhut tadhal air an làrach.</p><p>Còd na mearachd: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "Tha coltas gur e roghainnean tèarainteachd an lìonraidh agad ag adhbharachadh seo. A bheil thu airson na roghainnean bunaiteach a thilleadh?">
+<!ENTITY prefReset.label "Aisig na roghainnean bunaiteach">
