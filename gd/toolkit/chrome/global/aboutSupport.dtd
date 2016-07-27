@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "UserAgent">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Cleachdadh na cuimhne">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Dèanadas">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Obraichean seirbheise clàraichte">
@@ -86,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafaigean">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "Stòr-dàta nan àitichean">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Treibhdhireas">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Dearbh an treibhdhireas">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC ceum air cheum">
@@ -114,6 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Loga nam fàilligidhean">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Loga nan co-dhùnaidhean">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Gleusan a chuir freiceadan nan tuislidhean à comas">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
