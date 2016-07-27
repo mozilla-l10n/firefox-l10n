@@ -24,7 +24,8 @@
 <!ENTITY fileNotFound.title "ಕಡತವು  ಕಂಡುಬಂದಿಲ್ಲ">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ಕ್ಯಾಪಿಟಲೈಸೇಶನ್‍ಗಾಗಿ ಅಥವ ಇತರೆ ಬೆರಳಚ್ಚು ದೋಷಗಳಿಗಾಗಿ ಕಡತದ ಹೆಸರನ್ನು ಪರೀಕ್ಷಿಸಿ.</li> <li>ಕಡತವು ಸ್ಥಳಾಂತರಿಸಲ್ಪಟ್ಟಿದೆಯೆ, ಹೆಸರು ಬದಲಾಯಿಸಲ್ಪಟ್ಟಿದೆಯೆ ಅಥವ ಅಳಿಸಲ್ಪಟಿದೆಯೆ ಎಂದು ಪರೀಕ್ಷಿಸಿ.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "ಕಡತ ಪ್ರವೇಶವನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>ಅದನ್ನು ತೆಗೆದುಹಾಕಿರಬಹುದು, ಜರುಗಿಸಿರಬಹುದು, ಅಥವಾ ಕಡತದ ಅನುಮತಿಗಳು ಪ್ರವೇಶವನ್ನು ತಡೆಹಿಡಿಯುತ್ತಿರಬಹುದು.</li></ul>">
 
 <!ENTITY generic.title "ಓಹ್.">
 <!ENTITY generic.longDesc "<p>&brandShortName; ಕ್ಕೆ ಈ ಪುಟವನ್ನು ಕೆಲವೊಂದು ಕಾರಣದಿಂದಾಗಿ ಲೋಡ್‍ ಮಾಡಲಾಗುವುದಿಲ್ಲ.</p>">
