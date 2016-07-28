@@ -30,7 +30,7 @@
   -  <style> tag -->
 
 <!ENTITY csscoverage.optimize.body1 "တစ်ခါတစ်ရံ ရွှေ့ပေးခြင်းအားဖြင့် ဖွင့်သည့်လုပ်ငန်းစဉ်ကို မြန်စေနိုင်သည်">
-
+<!ENTITY csscoverage.optimize.body2 "စာမျက်နှာအောက်ခြေရှိ တက်ဂ်များ၊ ထို့ပြင် အတွင်းဝင် စာကြောင်းအသစ်ကို ဖန်တီးနေသည်">
 
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
@@ -43,5 +43,5 @@
 
 <!ENTITY csscoverage.footer1 "ကြည့်ပါ">
 <!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
-
+<!ENTITY csscoverage.footer3 "CSSသတင်းယူကိရိယာရှိ MDN ဆောင်းပါး">
 
