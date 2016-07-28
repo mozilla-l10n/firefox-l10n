@@ -68,7 +68,7 @@
 <!-- location aware browsing points for branded builds -->
 
 <!ENTITY rights.locationawarebrowsing-a "Navigare conștientă de locație: ">
-<!ENTITY rights.locationawarebrowsing-b "e întotdeauna opțională.  Nu sunt transmise informații referitoare la locație niciodată fără permisiunea dumneavoastră.  Dacă doriți să dezactivați această funcționalitate complet, urmați acești pași:">
+<!ENTITY rights.locationawarebrowsing-b "este întotdeauna opțională.  Nu sunt transmise informații referitoare la locație niciodată fără permisiunea ta.  Dacă dorești să dezactivezi această funcționalitate complet, urmează acești pași:">
 <!ENTITY rights.locationawarebrowsing-term1a "În bara de adrese tastați ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Tastați geo.enabled în câmpul de căutare">
