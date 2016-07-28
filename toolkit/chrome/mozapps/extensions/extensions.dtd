@@ -98,7 +98,7 @@
 <!ENTITY cmd.disableTheme.accesskey           "N">
 <!ENTITY cmd.askToActivate.label              "Întreabă pentru activare">
 <!ENTITY cmd.askToActivate.tooltip            "Întreabă de fiecare dată pentru a utiliza acest supliment">
-<!ENTITY cmd.alwaysActivate.label             "Întotdeauna activat">
+<!ENTITY cmd.alwaysActivate.label             "Activează întotdeauna">
 <!ENTITY cmd.alwaysActivate.tooltip           "Utilizează întotdeauna această extensie">
 <!ENTITY cmd.neverActivate.label              "Nu activa niciodată">
 <!ENTITY cmd.neverActivate.tooltip            "Nu utiliza niciodată această extensie">
