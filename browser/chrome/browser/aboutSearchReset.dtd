@@ -18,6 +18,13 @@ searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
+<!ENTITY searchreset.beforelink.pageInfo2 "ამ პარამეტრების შეცვლა ნებისმიერ დროს შეგიძლიათ ">
+<!ENTITY searchreset.afterlink.pageInfo2  ".">
 
+<!ENTITY searchreset.link.pageInfo2       "პარამეტრების გვერდზე">
 
+<!ENTITY searchreset.noChangeButton        "არ შეიცვალოს">
+<!ENTITY searchreset.noChangeButton.access "ა">
 
+<!ENTITY searchreset.changeEngineButton        "საძიებო სისტემის შეცვლა">
+<!ENTITY searchreset.changeEngineButton.access "შ">
