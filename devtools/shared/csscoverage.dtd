@@ -42,6 +42,6 @@
   -  is clicked -->
 
 <!ENTITY csscoverage.footer1 "பார்">
-<!ENTITY csscoverage.footer2a "https://developer.mozilla.org/en-US/docs/Tools/CSS_Coverage">
+<!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
 <!ENTITY csscoverage.footer3 "CSS கவரேஜ் கருவியில் MDN கட்டுரை">
 <!ENTITY csscoverage.footer4 "இந்த அறிக்கையின் தோற்றத்தில் தற்கால நடவடிக்கை.">
