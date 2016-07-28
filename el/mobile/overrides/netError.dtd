@@ -23,7 +23,7 @@
 <ul>
   <li>Ελέγξτε τη διεύθυνση για τυπογραφικά λάθη όπως <strong>ww</strong>.example.com αντί για <strong>www</strong>.example.com</li>
     <div id='searchbox'>
-      <input id='searchtext' type='search'>
+      <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Αναζήτηση</button>
     </div>
   <li>Εάν δεν μπορείτε να φορτώσετε καμία σελίδα, ελέγξτε τη σύνδεση δεδομένων ή Wi-Fi της συσκευής σας.
