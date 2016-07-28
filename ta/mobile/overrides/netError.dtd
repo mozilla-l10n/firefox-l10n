@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.title "இந்த முகவரி தவறானது">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>இணைய முகவரிகள் பொதுவாக பின்வருமாறு எழுதப்படும் <strong>http://www.thamizha.org/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>தேடவும்</button> </div> <li>முன்னோக்கிய சாய்வுக் கோடுகள் பயன்படுத்துவதை உறுதிச்செய்யவும் (அதாவது, <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>இணைய முகவரிகள் பொதுவாக பின்வருமாறு எழுதப்படும் <strong>http://www.thamizha.org/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>தேடவும்</button> </div> <li>முன்னோக்கிய சாய்வுக் கோடுகள் பயன்படுத்துவதை உறுதிச்செய்யவும் (அதாவது, <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "இணைப்பில் தடங்கல் உள்ளது">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
