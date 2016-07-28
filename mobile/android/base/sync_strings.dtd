@@ -118,9 +118,9 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; nu este conectat">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Atinge pentru a te autentifica ca &formatS;">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Atinge ca să te autentifici ca &formatS;">
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "Ai termiant actualizarea &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text "Atinge pentru a te autentifica ca &formatS;">
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Atinge ca să te autentifici ca &formatS;">
