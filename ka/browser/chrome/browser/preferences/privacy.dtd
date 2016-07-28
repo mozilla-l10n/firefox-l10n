@@ -4,21 +4,21 @@
 
 <!ENTITY  trackingProtectionHeader.label       "თვალთვალისგან დაცვის გამოყენება">
 <!ENTITY  trackingProtectionAlways.label       "ყოველთვის">
-<!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionAlways.accesskey   "ყ">
 <!ENTITY  trackingProtectionPrivate.label      "მხოლოდ პირად ფანჯრებში">
-<!ENTITY  trackingProtectionPrivate.accesskey  "l">
+<!ENTITY  trackingProtectionPrivate.accesskey  "პ">
 <!ENTITY  trackingProtectionNever.label        "არასდროს">
-<!ENTITY  trackingProtectionNever.accesskey    "n">
+<!ENTITY  trackingProtectionNever.accesskey    "ა">
 <!ENTITY  trackingProtectionLearnMore.label    "შეიტყვეთ მეტი">
 <!ENTITY  trackingProtectionExceptions.label   "გამონაკლისები…">
-<!ENTITY  trackingProtectionExceptions.accesskey "x">
+<!ENTITY  trackingProtectionExceptions.accesskey "კ">
 
 <!ENTITY tracking.label                 "თვალთვალი">
 <!ENTITY trackingProtectionPBM5.label         "თვალთვალისგან დაცვა პირადი ფანჯრით სარგებლობისას">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBM5.accesskey     "რ">
 <!ENTITY trackingProtectionPBMLearnMore.label "შეიტყვეთ მეტი">
 <!ENTITY changeBlockList.label          "დაბლოკილთა სიის შეცვლა">
-<!ENTITY changeBlockList.accesskey      "C">
+<!ENTITY changeBlockList.accesskey      "შ">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
@@ -32,22 +32,22 @@
 
 <!ENTITY  locbar.suggest.label          "მისამართების ზოლის გამოყენებისას, შემოთავაზებები:">
 <!ENTITY  locbar.history.label          "ისტორია">
-<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.history.accesskey      "ი">
 <!ENTITY  locbar.bookmarks.label        "სანიშნები">
-<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.bookmarks.accesskey    "ს">
 <!ENTITY  locbar.openpage.label         "გახსნილი ჩანართები">
-<!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.openpage.accesskey     "გ">
 <!ENTITY  locbar.searches.label         "მსგავსი ძიებები ნაგულისხმევი საძიებო სისტემიდან">
-<!ENTITY  locbar.searches.accesskey     "d">
+<!ENTITY  locbar.searches.accesskey     "ს">
 
 <!ENTITY  suggestionSettings.label      "საძიებო სისტემის შემოთავაზებების პარამეტრები…">
-<!ENTITY  suggestionSettings.accesskey  "g">
+<!ENTITY  suggestionSettings.accesskey  "თ">
 
 <!ENTITY  acceptCookies.label           "ფუნთუშების მიღება საიტებიდან">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies.accesskey       "მ">
 
 <!ENTITY  acceptThirdParty.pre.label      "მესამე მხარის ფუნთუშების მიღება:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.pre.accesskey  "ღ">
 <!ENTITY  acceptThirdParty.always.label   "ყოველთვის">
 <!ENTITY  acceptThirdParty.never.label    "არასდროს">
 <!ENTITY  acceptThirdParty.visited.label  "მხოლოდ მონახულებულიდან">
@@ -59,13 +59,13 @@
 <!ENTITY  close.label                   "&brandShortName; დახურვამდე">
 
 <!ENTITY  cookieExceptions.label        "გამონაკლისები…">
-<!ENTITY  cookieExceptions.accesskey    "E">
+<!ENTITY  cookieExceptions.accesskey    "გ">
 
 <!ENTITY  showCookies.label             "ნაჭდევების ჩვენება…">
-<!ENTITY  showCookies.accesskey         "S">
+<!ENTITY  showCookies.accesskey         "ჩ">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ბრაუზერი:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.pre.accesskey      "ბ">
 <!ENTITY  historyHeader.remember.label     "დაიმახსოვრებს ისტორიას">
 <!ENTITY  historyHeader.dontremember.label "არასოდეს დაიმახსოვრებს ისტორიას">
 <!ENTITY  historyHeader.custom.label       "ისარგებლებს თქვენი მითითებებით ისტორიისთვის">
@@ -79,28 +79,28 @@
 <!ENTITY  rememberActions.pre.label           "შესაძლოა მოისურვოთ ">
 <!ENTITY  rememberActions.clearHistory.label  "თქვენი უახლესი ისტორიის გასუფთავება">
 <!ENTITY  rememberActions.middle.label        ", ან ">
-<!ENTITY  rememberActions.removeCookies.label "ცალკეული ჭდეების ამოღება">
+<!ENTITY  rememberActions.removeCookies.label "ცალკეული ფუნთუშების წაშლა?">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ბრაუზერი ისარგებლებს იგივე პარამეტრებით, რაც პირადი სეანსებისთვის და არ შეინახვს თქვენი მონახულებული საიტების ისტორიას.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "შესაძლოა ასევე მოისურვოთ ">
-<!ENTITY  dontrememberActions.clearHistory.label "სრულად გაასუფთავოთ მიმდინარე ისტორია">
+<!ENTITY  dontrememberActions.pre.label          "ხომ არ გსურთ ">
+<!ENTITY  dontrememberActions.clearHistory.label "მიმდინარე ისტორიის გასუფთავება">
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "ყოველთვის პირადი სეანსის გამოყენება">
-<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.accesskey "პ">
 
 <!ENTITY  rememberHistory2.label      "დათვალიერებული გვერდების და ჩამოტვირთვების ისტორიის დამახსოვრება">
-<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.accesskey  "დ">
 
 <!ENTITY  rememberSearchForm.label       "ძიებისა და ფორმების ისტორიის დამახსოვრება">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.accesskey   "ფ">
 
 <!ENTITY  clearOnClose.label             "ისტორიის გასუფთავება &brandShortName; ბრაუზერის დახურვისას">
-<!ENTITY  clearOnClose.accesskey         "r">
+<!ENTITY  clearOnClose.accesskey         "ც">
 
 <!ENTITY  clearOnCloseSettings.label     "პარამეტრები…">
-<!ENTITY  clearOnCloseSettings.accesskey "t">
+<!ENTITY  clearOnCloseSettings.accesskey "ტ">
