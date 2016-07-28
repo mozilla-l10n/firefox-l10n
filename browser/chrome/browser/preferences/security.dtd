@@ -14,9 +14,11 @@
 <!ENTITY  enableSafeBrowsing.label        "Blochează conținutul periculos și înșelător">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "Blochează descărcările periculoase">
+<!ENTITY  blockDownloads.accesskey        "d">
 
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Avertizează-mă despre programele nedorite și neobișnuite">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Excepții…">
 <!ENTITY  addonExceptions.accesskey     "E">
