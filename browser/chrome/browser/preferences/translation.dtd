@@ -10,7 +10,7 @@
 <!ENTITY treehead.languageName.label      "Idiomas">
 <!ENTITY removeLanguage.label             "Remover idioma">
 <!ENTITY removeLanguage.accesskey         "R">
-<!ENTITY removeAllLanguages.label         "Excluir todos os idiomas">
+<!ENTITY removeAllLanguages.label         "Remover todos os idiomas">
 <!ENTITY removeAllLanguages.accesskey     "E">
 
 <!ENTITY noTranslationForSites.label      "A tradução não será oferecida para estes sites:">
