@@ -112,7 +112,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "ವೈಶಿಷ್ಟ್ಯಗಳು">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "ತಪಾಸಣೆ">
-
+<!ENTITY aboutSupport.graphicsFailureLogTitle "ವಿಫಲತೆಯ ದಿನಚರಿ">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 
