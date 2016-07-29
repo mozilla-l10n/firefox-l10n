@@ -69,7 +69,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions           "Пауза при изключение">
-<!ENTITY debuggerUI.pauseExceptions.accesskey "E">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "и">
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->

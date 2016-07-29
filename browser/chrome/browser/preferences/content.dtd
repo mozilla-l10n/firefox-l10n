@@ -17,7 +17,7 @@
 <!ENTITY  notificationsDoNotDisturbDetails.value "Няма да бъдат показвани известия, докато не рестартирате &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Изключения…">
-<!ENTITY  popupExceptions.accesskey   "И">
+<!ENTITY  popupExceptions.accesskey   "з">
 
 <!ENTITY  fontsAndColors.label        "Шрифтове и цветове">
 
