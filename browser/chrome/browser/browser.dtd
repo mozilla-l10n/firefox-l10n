@@ -345,7 +345,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "ಸಿಂ ಮಾಡಿದ ಹಾಳೆಗಳಿಲ್ಲ…ಇನ್ನೂ!">
-
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಇಲ್ಲಿ ನೋಡಬೇಕೆ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ಸಿಂಕ್‌ನ ಆದ್ಯತೆಗಳು">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಸೈನ್‌ ಇನ್ ಮಾಡಿ.">
 <!ENTITY appMenuRemoteTabs.signin.label "ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್ ಆಗಿ">
@@ -564,8 +564,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "ವೇಗ (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
-
-
+<!ENTITY mediaPlaybackRate150x2.label "ವೇಗವಾಗಿ (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
@@ -727,7 +727,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು">
 <!ENTITY syncedTabs.sidebar.noclients.label    "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿ ತೆರೆಯಲಾದ ಟ್ಯಾಬ್‌ಗಳನ್ನು ನೋಡಲು Firefox ಗೆ ಸೈನ್‌ ಇನ್ ಆಗಿ.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "ಸಿಂ ಮಾಡಿದ ಹಾಳೆಗಳಿಲ್ಲ…ಇನ್ನೂ!">
-
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಇಲ್ಲಿ ನೋಡಬೇಕೆ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಸೈನ್‌ ಇನ್ ಮಾಡಿ.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "ಯಾವುದೆ ತೆರೆದ ಟ್ಯಾಬ್‌ಗಳಿಲ್ಲ">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; ಆದ್ಯತೆಗಳು ಅನ್ನು ತೆರೆ">
