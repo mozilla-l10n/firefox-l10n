@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ctrlTabRecentlyUsedOrder.label "Ordina le schede in base all’utilizzo recente per Ctrl+Tab">
+<!ENTITY ctrlTabRecentlyUsedOrder.label "Scorri le schede con Ctrl+Tab ordinandole in base all’utilizzo più recente">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey "z">
 <!ENTITY newWindowsAsTabs.label "Apri le nuove finestre in una nuova scheda">
 <!ENTITY newWindowsAsTabs.accesskey "A">
