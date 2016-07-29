@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "ш">
 <!ENTITY compactVersion.label "Компактен изглед">
 <!ENTITY compactVersion.accesskey "К">
+<!ENTITY folderPaneBar.label "Лента с инструменти за папки">
+<!ENTITY folderModeSelector.label "Изгледи на папки">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Подреждане по">
@@ -361,6 +363,8 @@
 <!ENTITY editAsNewMsgCmd.label "Редактиране като ново">
 <!ENTITY editAsNewMsgCmd.accesskey "н">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Редактиране на чернова на съобщение">
+<!ENTITY editDraftMsgCmd.accesskey "ч">
 <!ENTITY createFilter.label "Създаване на филтър от писмо…">
 <!ENTITY createFilter.accesskey "з">
 <!ENTITY moveMsgToMenu.label "Преместване в">
@@ -716,6 +720,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "п">
 <!ENTITY contextEditMsgAsNew.label "Редактиране като ново съобщение">
 <!ENTITY contextEditMsgAsNew.accesskey "Р">
+<!ENTITY contextEditDraftMsg.label "Редактиране на чернова на съобщение">
 <!ENTITY contextArchive.label "Архивиране">
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Отговор само до подателя">
