@@ -748,7 +748,9 @@
 <!ENTITY contextCopyMsgMenu.label "Копиране в">
 <!ENTITY contextCopyMsgMenu.accesskey "и">
 <!ENTITY contextKillThreadMenu.label "Пренебрегване на дискусия">
+<!ENTITY contextKillSubthreadMenu.accesskey "г">
 <!ENTITY contextKillThreadMenu.accesskey "П">
+<!ENTITY contextKillSubthreadMenu.label "Игнориране на поддискусия">
 <!ENTITY contextWatchThreadMenu.label "Наблюдаване на дискусия">
 <!--LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
    In the en-US locale we ran out of access keys, so there is an empty access key for
