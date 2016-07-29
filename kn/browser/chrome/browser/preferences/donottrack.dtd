@@ -6,6 +6,7 @@
 <!ENTITY window.width                 "50em">
 <!ENTITY window.height                "10em">
 
-
+<!ENTITY doNotTrackCheckbox2.label    "ಯಾವಾಗಲೂ ಜಾಡು ಹಿಡಿಯ ಬೇಡ ಅನ್ವಯಿಸಿ">
+<!ENTITY doNotTrackCheckbox2.accesskey "A">
 
 <!ENTITY doNotTrackLearnMore.label    "ಇನ್ನಷ್ಟು ಅರಿತುಕೊಳ್ಳಿ">

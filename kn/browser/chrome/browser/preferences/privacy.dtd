@@ -14,8 +14,8 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "ಜಾಡು ಇರಿಸುವಿಕೆ">
-
-
+<!ENTITY trackingProtectionPBM5.label         "ಖಾಸಗೀ ಕಿಟಕಿಗಳಲ್ಲಿ ಜಾಡುಹಿಡಿಯುವಿಕೆಯ ಸುರಕ್ಷತೆಯನ್ನು ಬಳಸಿ">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY changeBlockList.label          "Change ನಿರ್ಬಂಧಿತ ಪಟ್ಟಿ">
 <!ENTITY changeBlockList.accesskey      "C">
@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  doNotTrack.pre.label          "ನೀವೂ ಕೂಡ ">
-
+<!ENTITY  doNotTrack.settings.label     "ನಿಮ್ಮ ಜಾಡು ಹಿಡಿಯಬೇಡ ಸಿದ್ಧತೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "ಇತಿಹಾಸ">
@@ -40,7 +40,8 @@
 <!ENTITY  locbar.searches.label         "ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್‌ನಿಂದ Related ಹುಡುಕಾಟಗಳು">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-
+<!ENTITY  suggestionSettings.label      "ಹುಡುಕು ಯಂತ್ರಗಳ ಸಲಹೆಗಳ ಇಚ್ಛೆಗಳನ್ನು ಬದಲಾಯಿಸಿ…">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "ಈ ತಾಣದಿಂದ ಕುಕಿಗಳನ್ನು ಅನುಮತಿಸು">
 <!ENTITY  acceptCookies.accesskey       "A">

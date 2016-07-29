@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
-
+<!ENTITY privateBrowsing.title.tracking                  "ಖಾಸಗಿ ಜಾಲಾಟ ಜಾಡುಹಿಡಿಯುವಿಕೆ ಸುರಕ್ಷತೆಯೊಂದಿಗೆ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "ನೀವು ಖಾಸಗಿ ಕಿಟಕಿಯಲ್ಲಿ ಜಾಲಾಡುವಾಗ, ‌Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ಉಳಿಸಬೇಡ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
