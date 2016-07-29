@@ -517,7 +517,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary2 "捲動網頁時隱藏 &brandShortName; 工具列">
 
 <!ENTITY pref_tab_queue_title3 "分頁佇列">
-<!ENTITY pref_tab_queue_summary4 "儲存連結直至您下次開啟&brandShortName;">
+<!ENTITY pref_tab_queue_summary4 "儲存鏈結直至您下次開啟 &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
