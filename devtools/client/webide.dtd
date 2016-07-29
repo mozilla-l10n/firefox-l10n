@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "ಅಧಿಕ ಘಟಕಗಳನ್ನು ನಿರ್ವಹಿಸಿ">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-
+<!ENTITY projectMenu_refreshTabs_label "ಹಾಳೆಗಳನ್ನು ಪುನಶ್ಚೇತನಗೊಳಿಸು">
 
 <!ENTITY runtimeMenu_label "ಚಾಲನಾಸಮಯ">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -86,7 +86,7 @@
 <!ENTITY runtimePanel_installsimulator "ಸಿಮ್ಯುಲೇಟರ್ ಅನುಸ್ಥಾಪಿಸು">
 <!ENTITY runtimePanel_noadbhelper "ADB ಹೆಲ್ಪರ್ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಿ">
 <!ENTITY runtimePanel_nousbdevice "ನಿಮ್ಮ ಸಾಧನವು ಕಾಣಿಸುತ್ತಿಲ್ಲವೆ?">
-
+<!ENTITY runtimePanel_refreshDevices_label "ಸಾಧನಗಳನ್ನು ಪುನಶ್ಚೇತನಗೊಳಿಸು">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "ಮಾನ್ಯ">

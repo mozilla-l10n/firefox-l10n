@@ -28,7 +28,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "ಸಕ್ರಿಯ">
 <!ENTITY aboutSupport.experimentEndDate "ಅಂತ್ಯದ ದಿನಾಂಕ">
 <!ENTITY aboutSupport.experimentHomepage "ನೆಲೆಪುಟ">
-
+<!ENTITY aboutSupport.experimentBranch "ಶಾಖೆ">
 
 <!ENTITY aboutSupport.appBasicsTitle "ಅನ್ವಯದ ಮೂಲತತ್ವಗಳು">
 <!ENTITY aboutSupport.appBasicsName "ಹೆಸರು">
@@ -50,16 +50,18 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ಶಕ್ತಗೊಳಿಸು">
 <!ENTITY aboutSupport.appBasicsBuildConfig "ನಿರ್ಮಾಣದ ಸಂರಚನೆ">
 <!ENTITY aboutSupport.appBasicsUserAgent "ಬಳಕೆದಾರ ಮಧ್ಯವರ್ತಿ">
-
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "ಮೆಮೊರಿಯ ಬಳಕೆ">
-
+<!ENTITY aboutSupport.appBasicsPerformance "ಕಾರ್ಯಕ್ಷಮತೆ">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "ನೊಂದಾಯಿಸಿಕೊಂಡ ಸೇವಾ ಕೆಲಸಗಾರರು">
 
+<!ENTITY aboutSupport.appBasicsProfiles "ಪ್ರೊಫೈಲ್‌ಗಳು">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ಬಹುಪ್ರಕ್ರಿಯೆ ಕಿಟಕಿಗಳು">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "ಸುರಕ್ಷಾ ಸ್ಥಿತಿ">
 
 <!ENTITY aboutSupport.showDir.label "ಕೋಶವನ್ನು ತೆರೆ">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -84,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "ಗ್ರಾಫಿಕ್ಸ್‍">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "ಸ್ಥಳಗಳ ದತ್ತಸಂಚಯ">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "ಸಮಗ್ರತೆ">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "ಸಮಗ್ರತೆ ದೃಢಪಡಿಸು">
 
 <!ENTITY aboutSupport.jsTitle "ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್‍">
 <!ENTITY aboutSupport.jsIncrementalGC "ಏರಿಕೆಯ GC">
@@ -107,10 +110,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "ಸುರಕ್ಷಾ ಸ್ಥಿತಿ ಪ್ರಯತ್ನಿಸಿ">
 <!ENTITY aboutSupport.restartInSafeMode.label "ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿ ಆರಂಭಿಸು…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "ವೈಶಿಷ್ಟ್ಯಗಳು">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "ತಪಾಸಣೆ">
 
-
-
-
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 
 
 
