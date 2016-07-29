@@ -110,11 +110,13 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-
+<!ENTITY certerror.pagetitle1  "ಅಸುರಕ್ಷಿತ ಸಂಪರ್ಕ">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ಈ ತಾಣವು &brandShortName; ನೊಂದಿಗೆ ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕಹೊಂದು ಎಂದು ಸೂಚಿಸಲು HTTP ಸ್ಟ್ರಿಕ್ಟ್‌ ಟ್ರಾನ್ಸ್‌ಪೋರ್ಟ್ ಸೆಕ್ಯುರಿಟಿ (HSTS) ಅನ್ನು ಮಾತ್ರ ಬಳಸುತ್ತದೆ. ಈ ಕಾರಣದಿಂದಾಗಿ, ಈ ತಾಣದ ಪ್ರಮಾಣಪತ್ರಕ್ಕೆ ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.">
 <!ENTITY certerror.copyToClipboard.label "ಪಠ್ಯವನ್ನು ನಕಲುಫಲಕಕ್ಕೆ ಪ್ರತಿಮಾಡು">
 
 <!ENTITY inadequateSecurityError.title "ನಿಮ್ಮ ಸಂಪರ್ಕವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ‍">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>ಹಳತಾದ ಮತ್ತು ಆಕ್ರಮಣಕ್ಕೆ ಸಿಲುಕಬಹುದಾದ ಸುರಕ್ಷತಾ ತಂತ್ರಜ್ಞಾನವನ್ನು ಬಳಸುತ್ತಿದೆ. ಆಕ್ರಮಣಕಾರ ನಿಮಗೆ ಸುರಕ್ಷಿತ ಎನಿಸಬಹುದಾದ ಮಾಹಿತಿಯನ್ನು ಸುಲಭವಾಗಿ ಬಹಿರಂಗಪಡಿಸಬಲ್ಲ. ಜಾಲತಾಣದ ನಿರ್ವಾಹಕ ಈ ಸರ್ವರ್ ಅನ್ನು ನೀವು ಭೇಟಿ ನೀಡುವುದಕ್ಕಿಂತ ಮುಂಚೆ ಸರಿಪಡಿಸಬೇಕಿದೆ.</p><p>ದೋಷದ ಸಂಕೇತ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY prefReset.label "ಪೂರ್ವನಿಯೋಜಿತ ಸಿದ್ಧತೆಗಳನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">

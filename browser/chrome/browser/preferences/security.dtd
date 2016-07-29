@@ -11,8 +11,11 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "ಅಪಾಯಕಾರಿ ಮತ್ತು ವಂಚಕ ವಿಷಯಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
-
+<!ENTITY  blockDownloads.label            "ಅಪಾಯಕಾರಿ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ">
+<!ENTITY  blockDownloads.accesskey        "d">
 
 <!ENTITY  blockUncommonUnwanted.label     "ಬೇಡವಾದ ಮತ್ತು ಸಾಮಾನ್ಯವಲ್ಲದ ತಂತ್ರಾಂಶಗಳ ಬಗ್ಗೆ ಎಚ್ಚರಿಸು">
 <!ENTITY  blockUncommonUnwanted.accesskey "ಸ">
