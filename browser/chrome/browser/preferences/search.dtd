@@ -11,7 +11,7 @@
 
 <!ENTITY showURLBarSuggestions.label           "ಹುಡುಕಲು ಸಲಹೆಗಳನ್ನು ಸ್ಥಳದ ಪಟ್ಟಿಯಲ್ಲಿ ತೋರಿಸು">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
-
+<!ENTITY urlBarSuggestionsPermanentPB.label    "ಎಂದಿಗೂ ಸಹ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಡ ಎಂದು ನೀವು &brandShortName; ಅನ್ನು ಸಂರಚಿಸಿರುವುದರಿಂದ ಹುಡುಕುವಾಗ ಸ್ಥಳದ ಪಟ್ಟಿಯ ಫಲಿತಾಂಶಗಳಲ್ಲಿ ಯಾವುದೆ ಸಲಹೆಗಳನ್ನು ತೋರಿಸಲಾಗುವುದಿಲ್ಲ.">
 
 <!ENTITY redirectWindowsSearch.label "Windows ನಿಂದ ಹುಡುಕಲು ಈ ಹುಡುಕು ಎಂಜಿನನ್ನು ಬಳಸಿ">
 <!ENTITY redirectWindowsSearch.accesskey "W">
