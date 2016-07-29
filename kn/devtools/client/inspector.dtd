@@ -155,6 +155,8 @@
      the inspector toolbar for the button that lets users add elements to the
      DOM (as children of the currently selected element). -->
 
+<!ENTITY inspectorAddNode.label       "ಹೊಸ ನೋಡ್ ಸೃಷ್ಟಿಸು">
+<!ENTITY inspectorAddNode.accesskey   "C">
 <!-- LOCALIZATION NOTE (inspectorCopyHTMLSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
      copy items, which allow to:
