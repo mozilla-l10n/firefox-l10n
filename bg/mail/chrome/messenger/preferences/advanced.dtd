@@ -7,15 +7,15 @@
 <!ENTITY itemUpdate.label        "Обновяване">
 <!ENTITY itemNetworking.label    "Мрежа и дисково място">
 <!ENTITY itemCertificates.label  "Сертификати">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Разрешаване на глобално търсене и индексиране">
 <!ENTITY enableGlodaSearch.accesskey   "Р">
 <!ENTITY allowHWAccel.label            "Използване на хардуерно ускоряване, когато е налично">
 <!ENTITY allowHWAccel.accesskey        "х">
 <!ENTITY storeType.label               "Вид на съхранение на писмата за нови регистрации:">
 <!ENTITY storeType.accesskey           "T">
-<!ENTITY mboxStore2.label              "Файл в папка (mbox)">
+<!ENTITY mboxStore2.label              "Файл за всяка папка (mbox)">
 <!ENTITY maildirStore.label            "Файл за всяко писмо (maildir)">
 
 <!ENTITY scrolling.label               "Плъзгане">
@@ -37,8 +37,8 @@
 <!ENTITY returnReceiptsInfo.label      "Определяне как &brandShortName; обработва обратните разписки">
 <!ENTITY showReturnReceipts.label      "Обратни разписки…">
 <!ENTITY showReturnReceipts.accesskey  "б">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Телеметрия">
 <!ENTITY telemetryDesc.label             "Изпраща данни за производителността, използването, хардуера и персонализирането на вашия пощенски клиент на &vendorShortName;, за да спомогне за подобряването на &brandShortName;">
 <!ENTITY enableTelemetry.label           "Включване на Телеметрия">
@@ -50,8 +50,8 @@
 <!ENTITY enableCrashReporter.label       "Включване на отчетите">
 <!ENTITY enableCrashReporter.accesskey   "о">
 <!ENTITY crashReporterLearnMore.label    "Научете повече">
-<!-- Update -->
 
+<!-- Update -->
 <!ENTITY updateApp.label                 "Обновявания на &brandShortName;:">
 <!ENTITY updateAuto.label                "Автоматично инсталиране на обновявания (препоръчва се: подобрява безопасността)">
 <!ENTITY updateAuto.accesskey            "А">
@@ -59,15 +59,13 @@
 <!ENTITY updateCheck.accesskey           "П">
 <!ENTITY updateManual.label              "Никога не проверява за обновявания (не се препоръчва: риск по безопасността)">
 <!ENTITY updateManual.accesskey          "Н">
-<!ENTITY updateAutoAddonWarn.label       "Предупреждаване, ако това изключи коя да е от добавките">
-<!ENTITY updateAutoAddonWarn.accesskey   "П">
 <!ENTITY updateHistory.label             "Показване хронологията на обновяванията">
 <!ENTITY updateHistory.accesskey         "о">
 
 <!ENTITY useService.label                "Използване на фонова услуга за инсталиране на обновявания">
 <!ENTITY useService.accesskey            "ф">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Настройки…">
 <!ENTITY showSettings.accesskey        "й">
 <!ENTITY proxiesConfigure.label        "Определяне как &brandShortName; се свързва с Интернет">
@@ -81,20 +79,20 @@
 <!ENTITY offlineCompactFolders.label     "Уплътняване на папките, когато ще се спести над">
 <!ENTITY offlineCompactFolders.accesskey "У">
 <!ENTITY offlineCompactFoldersMB.label   "MB общо">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Използване не повече от">
 <!ENTITY useCacheBefore.accesskey        "п">
 <!ENTITY useCacheAfter.label             "МБ място за кеша">
 <!ENTITY clearCacheNow.label             "Изчистване">
 <!ENTITY clearCacheNow.accesskey         "ч">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Когато сървъра поиска личния ми сертификат:">
 <!ENTITY certs.auto                      "Автоматичен избор">
 <!ENTITY certs.auto.accesskey            "ч">
