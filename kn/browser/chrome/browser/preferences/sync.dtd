@@ -84,7 +84,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "ಹಳೆಯ ಆವೃತ್ತಿಯ ಸಿಂಕ್ ಬಳಸುತ್ತಿದ್ದೀರಾ?">
 
 <!ENTITY signedOut.caption            "ನಿಮ್ಮ ಜಾಲವನ್ನು ನಿಮ್ಮೊಂದಿಗೆ ಕೊಂಡೊಯ್ಯಿರಿ">
-
+<!ENTITY signedOut.description        "ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ ಜೊತೆ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು, ಇತಿಹಾಸ, ಹಾಳೆ, ಪ್ರವೇಶ ಪದ, ಆಡ್-ಆನ್‌ಗಳು, ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ನೊಂದಿಗೆ ಸಂಪರ್ಕಿಸು">
 <!ENTITY signedOut.accountBox.create  "ಖಾತೆಯನ್ನು ರಚಿಸಿ">
 <!ENTITY signedOut.accountBox.signin  "ಸೈನ್ ಇನ್">
@@ -105,3 +105,4 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
+<!ENTITY mobilePromo3.end              " ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದ ಜೊತೆ ಸಿಂಕ್ ಮಾಡಲು.">

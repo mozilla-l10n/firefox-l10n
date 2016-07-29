@@ -14,7 +14,8 @@
 
 
 
-
+<!ENTITY  blockUncommonUnwanted.label     "ಬೇಡವಾದ ಮತ್ತು ಸಾಮಾನ್ಯವಲ್ಲದ ತಂತ್ರಾಂಶಗಳ ಬಗ್ಗೆ ಎಚ್ಚರಿಸು">
+<!ENTITY  blockUncommonUnwanted.accesskey "ಸ">
 
 <!ENTITY  addonExceptions.label         "ವಿನಾಯಿತಿಗಳು...">
 <!ENTITY  addonExceptions.accesskey     "E">
