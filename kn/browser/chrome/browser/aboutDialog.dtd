@@ -41,7 +41,7 @@
 <!ENTITY helpus.start               "ಸಹಾಯ ಮಾಡಲು ಇಚ್ಛಿಸುವಿರಾ? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "ದೇಣಿಗೆಯನ್ನು ನೀಡಿ">
-<!ENTITY helpus.middle              "ಅಥವ">
+<!ENTITY helpus.middle              " ಅಥವ ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "ನೀವೂ ಪಾಲ್ಗೊಳ್ಳಿ!">
 <!ENTITY helpus.end                 "‌">

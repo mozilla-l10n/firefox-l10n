@@ -21,6 +21,7 @@
 <!ENTITY aboutTelemetry.showArchivedPingData "ಸಂಗ್ರಹಿಸಿದ ಪಿಂಗ್ ದತ್ತಾಂಶ">
 
 
+<!ENTITY aboutTelemetry.structured "ಸಂರಚಿತವಾಗಿ">
 
 
 <!ENTITY aboutTelemetry.showSubsessionData "ಉಪಅಧಿವೇಶನ ದತ್ತಾಂಶವನ್ನು ತೋರಿಸು">
@@ -74,4 +75,5 @@
 
 <!ENTITY aboutTelemetry.filterText "  ಸೋಸಕ (ಪದಸಮುಚ್ಚಯಗಳು ಅಥವ /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  ಮಾನ್ಯಸರಕು">
 
