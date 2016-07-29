@@ -11,3 +11,5 @@
 
 <!ENTITY inspectorAddNode.label "Utwórz nowy węzeł">
 <!ENTITY inspectorAddNode.accesskey "n">
+
+<!ENTITY inspectorEyeDropper.label "Pobierz kolor ze strony">
