@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Възникнал проблем при зареждане на страница">
 <!ENTITY retry.label "Отново">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Свързването е невъзможно">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -22,7 +22,12 @@
 <!ENTITY fileNotFound.title "Файла не е открит">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Проверете името на файла за главни букви или други грешки.</li> <li>Проверете дали файла не е преместен, преименуван или изтрит.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Отказан достъп до файл">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Може да е премахнат, преместен или файловите права да не позволяват достъп.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Опа.">
 <!ENTITY generic.longDesc "<p>По някаква причина &brandShortName; не може да зареди тази страница.</p>">
@@ -77,19 +82,24 @@
 <!ENTITY cspBlocked.title "Блокирано от Политика за Защитено Съдържание">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, понеже тя съдържа политика за защитено съдържание, което не позволява това.</p>">
 
-<!ENTITY corruptedContentError.title "Грешка поради повредено съдържание">
-<!ENTITY corruptedContentError.longDesc "<p>Това съдържание не може да бъде показано поради възникнала грешка при прехвърлнето на данните.</p><ul><li>Моля, свържете се със притежателите му, за да ги уведомите за проблема.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Грешка поради развалено съдържание">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата, която се опитвате да разгледате, не може да бъде показана, защото е открита грешка при предаването на данни.</p><ul><li>Обърнете се към собствениците на сайта, за да ги информирате за този проблем.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Или можете да добавите изключение…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Махам се оттук!">
 <!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
-
 <!ENTITY securityOverride.warningContent "<p>Вие не би трябвало да добавяте изключение, ако използвате интернет връзка, на която нямате пълно доверие или ако не сте виждали предупреждения за този сървър.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Отдалечен XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Вашата връзка е незащитена">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>използва технология за сигурност, която е остаряла и уязвими за атака. Един хакер може лесно да разкрие информация, която мислите, че е в безопасност. Уебсайт администраторът ще трябва първо да поправи сървъра, преди да можете да посещавате сайта.</p><p>Код на грешка: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
