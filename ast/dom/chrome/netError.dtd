@@ -36,7 +36,7 @@
 <!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse correcho, pero interrumpióse la conexón mientres se tresfería información. Por favor, vuelve a intentalo.</p><ul><li>¿Nun puedes restolar per otros sitios? Comprueba la conexón de rede del ordenador.</li><li>¿Entá con problemes? Consulta col to alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
 
 <!ENTITY notCached.title "Documentu caducáu">
-<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché del navegador.</p><ul><li>Por seguridá, el navegador nun va solicitar automáticamente documentos con información sensible.</li><li>Calca en Intentar pa solicitar el documentu dende la web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta na caché del restolador.</p><ul><li>Como midida de seguranza, el restolador nun va volver a solicitar documentos sensibles.</li><li>Primi de nueves pa volver a solicitar el documentu dende'l sitiu web.</li></ul>">
 
 <!ENTITY netOffline.title "Mou ensin conexón">
 <!ENTITY netOffline.longDesc2 "<p>El restolador web ta en mou ensin conexón y nun puede coneutase al elementu solicitáu.</p><ul><li>¿Ta l'equipu coneutáu a una rede activa?</li><li>Calca &quot;Intentar otra vegada&quot; pa pasar a mou en llinia y recargar la páxina.</li></ul>">
