@@ -30,7 +30,7 @@
 
 <!ENTITY dataChoicesTab.label            "Eleición de datos">
 
-<!ENTITY healthReportDesc.label          "Ayúdate a atalantar el rendimientu del navegador y comparte datos con &vendorShortName; sobre la salú d'ésti">
+<!ENTITY healthReportDesc.label          "Ayúdate a entender el rindimientu'l to restolador y comparte datos con &vendorShortName; tocante a la so salú">
 <!ENTITY enableHealthReport.label        "Activar l'informe de salú de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Deprender más">
