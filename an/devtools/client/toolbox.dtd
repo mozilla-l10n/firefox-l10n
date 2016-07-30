@@ -110,6 +110,8 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
+<!ENTITY options.disableHTTPCache.label     "Desactivar la caché HTTP (quan a caixa de ferramientas ye ubierta)">
+<!ENTITY options.disableHTTPCache.tooltip   "Activar ista opción desactiva la caché HTTP en totas las pestanyas que tienen la caixa de ferramientas ubierta. Los Service Workers no son afectaus por ista opción.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
