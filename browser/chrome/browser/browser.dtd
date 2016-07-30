@@ -682,7 +682,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Sivu on tallennettu tietokoneellesi.">
 <!ENTITY identity.connectionVerified2 "Yhteys sivustoon on suojattu ja sivuston omistaa:">
 <!ENTITY identity.connectionInternal "Tämä on suojattu &brandShortName;-sivu.">
-<!ENTITY identity.insecureLoginForms2 "Tällä sivulla kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.">
+<!ENTITY identity.insecureLoginForms2 "Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; on estänyt suojaamattoman sisällön näyttämisen.">
