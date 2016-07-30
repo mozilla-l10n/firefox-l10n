@@ -55,6 +55,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "მომხმარებლის აგენტი">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "მეხსიერების გამოყენება">
+<!ENTITY aboutSupport.appBasicsPerformance "წარმადობა">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "რეგისტრირებული Service Workers">
@@ -87,6 +88,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.lockedPrefsValue "მნიშვნელობა">
 
 <!ENTITY aboutSupport.graphicsTitle "გრაფიკები">
+
+<!ENTITY aboutSupport.placeDatabaseTitle "Places მონაცემთა ბაზა">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "თანმიმდევრული GC">

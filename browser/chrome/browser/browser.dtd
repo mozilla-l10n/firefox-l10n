@@ -569,6 +569,10 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "უაზრო სიჩქარე (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "ზ">
+<!ENTITY mediaLoop.label             "ციკლი">
+<!ENTITY mediaLoop.accesskey         "ც">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -676,6 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "დაცული კავშირი">
 <!ENTITY identity.connectionNotSecure "კავშირი დაუცველია">
 <!ENTITY identity.connectionFile "ეს გვერდი თქვენს კომპიუტერშია შენახული.">
+<!ENTITY identity.connectionVerified2 "თქვენ საიმედოდ ხართ დაკავშირებული საიტთან, რომელის მფლობელიცაა:">
 <!ENTITY identity.connectionInternal "ეს &brandShortName;-ს დაცული გვერდია.">
 <!ENTITY identity.insecureLoginForms2 "ამ გვერდზე შეყვანილი შესვლის ინფორმაცია შესაძლოა რისკის ქვეშ იყოს.">
 
