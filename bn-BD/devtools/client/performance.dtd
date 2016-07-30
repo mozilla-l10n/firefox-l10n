@@ -23,7 +23,7 @@
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
 
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "ফায়ারফক্সের নন-মাল্টিপ্রসেসে রিয়েলটাইম রেকর্ডিং-এর তথ্য নিষ্ক্রিয় করে দেয়।">
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Firefox এর নন-মাল্টিপ্রসেসে রিয়েলটাইম রেকর্ডিং-এর তথ্য নিষ্ক্রিয় করে দেয়।">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
