@@ -623,12 +623,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "පිට‌වෙන්න">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShortName; පිටවීම">
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; පිටවීම">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ඉවත් වන්න (Q)"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "&brandShortName; ඉවත් වන්න">
+<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; පිටවීම">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -732,6 +732,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; මනාපයන් විවෘත කරන්න">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ටැබ් වෙනත් උපාංගයක සිට බැලීමට ටැබ් සම්මුහුර්තකරණය ගන්න.">
 
 <!ENTITY syncedTabs.context.open.label                       "විවෘත කරන්න">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
@@ -815,6 +816,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "ලුහුබැඳීම් ආරක්ෂණය">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; විසින් මෙම පිටුවේ සමහර කොටස් ඔබගේ ගවේෂණයන් විමර්ශණය කරනු ඇතැයි සළකා ඒවා අවහිර කර ඇත.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "මෙම අඩවියේ ඔබගේ ගවේෂණයන් විමර්ශණය කරන කොටස් අන්තර්ගතය. ඔබ ආරක්ෂණය අබල කර ඇත.">
 <!ENTITY trackingProtection.notDetected3 "ගවේෂණයන් ලුහුබඳින කොටස් මෙම පිටුවේ සොයා නොගැණිනි.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
