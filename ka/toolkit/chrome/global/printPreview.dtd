@@ -32,6 +32,9 @@
 <!ENTITY Custom.label         "განსაზღვრული…">
 <!ENTITY ShrinkToFit.label    "გვერდის შევსება">
 <!ENTITY customPrompt.title   "მითითებული მასშტაბი…">
+<!ENTITY simplifyPage.label   "გვერდის გამარტივება">
+<!ENTITY simplifyPage.enabled.tooltip  "შეცვალეთ განლაგება გამარტივებული კითხვისთვის">
+<!ENTITY simplifyPage.disabled.tooltip "ეს გვერდი ავტომატურად ვერ გამარტივდება">
 
 <!ENTITY homearrow.tooltip    "პირველი გვერდი">
 <!ENTITY endarrow.tooltip     "ბოლო გვერდი">
