@@ -72,12 +72,12 @@
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<ul>
-  <li>Por favor, contacta a los dueños del sitio web para informales de este problema.</li>
+  <li>Por favor, contacta a los dueños del sitio para informales de este problema.</li>
 </ul>">
 
 <!ENTITY unsafeContentType.title "Tipo de archivo inseguro">
 <!ENTITY unsafeContentType.longDesc "<ul>
-  <li>Por favor, contacta a los dueños del sitio web para informales de este problema.</li>
+  <li>Por favor, contacta a los dueños del sitio para informales de este problema.</li>
 </ul>">
 
 <!ENTITY netReset.title "La conexión fue reiniciada">
@@ -119,8 +119,9 @@
 
 <!ENTITY nssFailure2.title "Falló la conexión segura">
 <!ENTITY nssFailure2.longDesc2 "<ul>
-  <li>La página que estás intentando ver no puede ser vista porque no se puede verificar la fuente de los datos recibidos.</li>
-  <li>Por favor, contacta a los dueños de la página para informar sobre estos problemas.</li></ul>">
+  <li>La página que intentas ver no puede ser mostrada porque la autenticidad de los datos recibidos no pudo ser verificada.</li>
+  <li>Por favor, contacta a los dueños del sitio para avisarles de este problema.</li>
+</ul>">
 
 <!ENTITY nssBadCert.title "Falló la conexión segura">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -139,7 +140,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; previno que esta página cargara de esta forma porque la página contiene una política de seguridad de contenido que no lo permite.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contenido corrupto">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>La página que estás intentando ver no puede ser mostrada por que se detectó un error en la transmisión de datos.</p><ul><li>Por favor, contacta al dueño del sitio web para informarle de este problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La página que estás intentando ver no puede ser mostrada por que se detectó un error en la transmisión de datos.</p><ul><li>Por favor, contacta a los dueños del sitio para informarles de este problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O puedes añadir una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sácame de aquí!">
