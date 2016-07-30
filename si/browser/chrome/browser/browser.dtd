@@ -169,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "මෑතදී පිටුසලකුණු කළ">
 <!ENTITY otherBookmarksCmd.label "වෙනත් පිටුසලකුණු">
 <!ENTITY bookmarksToolbarChevron.tooltip "තවත් පිටුසලකුණු පෙන්වන්න">
+<!ENTITY showRecentlyBookmarked.label     "මෑතක කළ පිටුසලකුණු පෙන්වන්න">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "මෑතක කළ පිටුසලකුණු සඟවන්න">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "ආපසු">
 <!ENTITY backButton.tooltip           "පිටුවක් පසුපසට">
@@ -226,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "පිටුලකුණු පැති තීරුව පෙන්වන්න">
 <!ENTITY viewBookmarksToolbar.label         "පිටුලකුණු මෙවලම්තීරුව පෙන්වන්න">
 
+<!ENTITY containersMenu.label "බහාලූම්">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -344,6 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync සැකසුම්">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "වෙනත් උපාංගයන්ගේ සිට ටැබ් ලැයිස්තුව බැලිමට ඇතුළු වන්න.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync වෙත පිවිසෙන්න">
+<!ENTITY appMenuRemoteTabs.sidebar.label "සම්මුහුර්ත ටැබ් පැති තීරුවේ පෙන්වන්න">
 
 <!ENTITY customizeMenu.addToToolbar.label "මෙවලම් තීරුවට එක් කරන්න (A)">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -450,6 +456,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "රාමුව නව කවුළුවක් තුළ විවෘත කරන්න">
 <!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openLinkCmdInContainerTab.label "සබැඳුම නව බහාලුම් ටැබයක විවෘත කරන්න">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "මෙම රාමුව පමණක් පෙන්වන්න">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
@@ -549,14 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "නිහඬ නොකරන්න">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate2.label     "වාදන වේගය">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "සෙමින් (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "සාමාන්‍ය">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "වේගවත් (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
 <!ENTITY mediaPlaybackRate150x2.label "වඩා වේගවත් (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Ludicrous (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
 <!ENTITY mediaLoop.label             "ලූපය">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -678,6 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "මෙම පිටුවට වූ ඔබේ සම්බන්ධතාවය පෞද්ගලික නොවේ. ඔබ ලබාදෙන තොරතුරු වෙනත් අයෙකු බැලීමට ඉඩ ඇත (රහස්පද, පණිවුඩ, ණය කාඩ්පත් ආදී..).">
 <!ENTITY identity.description.insecureLoginForms "මෙම පිටුවට යොදන ප්‍රවේශ තොරතුරු ආරක්ෂිත නොවන නිසා ව්‍යකූලවීම් සිදුවිය හැකිය.">
 <!ENTITY identity.description.weakCipher "මෙම පිටුවට වන ඔබේ සම්බන්ධතාවය දුර්වල සංකේතනයක් භාවිතා කරයි එසේම එය පෞද්ගලික නොවේ.">
+<!ENTITY identity.description.weakCipher2 "වෙනත් අයෙකු ඔබගේ තොරතුරු බැලීම හෝ වෙබ් අඩවියේ තොරතුරු වෙනස් කිරීම විය හැකිය.">
 <!ENTITY identity.description.activeBlocked "ආරක්ෂිත නොවන නිසා මෙම පිටුවේ කොටස් &brandShortName; අවහිර කර ඇත">
 <!ENTITY identity.description.passiveLoaded "ඔබගේ සම්බන්ධතාවය පෞද්ගලික නොවන නිසා ඔබ ඇතුළත් කරන් තොරතුරු වෙනත් අය බැලීමට ඉඩ ඇත.">
 <!ENTITY identity.description.passiveLoaded2 "මෙම පිටුවේ ආරක්ෂිත නොවන (පිංතූර වැනි) කොටස් අඩංගුය.">
@@ -707,6 +724,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "සම්මුහුර්ථ කළ ටැබ්">
 
 <!ENTITY syncedTabs.sidebar.label              "සම්මුහුර්ථ කළ ටැබ්">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Sign in to Firefox from your other devices to view their tabs here.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "සම්මුහුර්ත ටැබ් දැනට නැත!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "ඔබගේ ටැබ් වෙනත් උපාංගයක සිට බැලීමට අවශ්‍යද?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Sign in to view a list of tabs from your other devices.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "විවෘත කළ ටැබ් නැත">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; මනාපයන් විවෘත කරන්න">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
@@ -787,9 +810,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "බෙදාගන්නා මයික්‍රෆෝනය (M)">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "ටැබයේ හඩ බෙදා හදා ගනු ඇත.">
 <!ENTITY getUserMedia.allWindowsShared.message "ඔබේ තිරයේ දිස්වෙන සියළු කවුළු බෙදාගැනෙනු ඇත.">
 
 <!ENTITY trackingProtection.title "ලුහුබැඳීම් ආරක්ෂණය">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; විසින් මෙම පිටුවේ සමහර කොටස් ඔබගේ ගවේෂණයන් විමර්ශණය කරනු ඇතැයි සළකා ඒවා අවහිර කර ඇත.">
+<!ENTITY trackingProtection.notDetected3 "ගවේෂණයන් ලුහුබඳින කොටස් මෙම පිටුවේ සොයා නොගැණිනි.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -803,8 +829,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "ආරක්ෂණය සක්‍රීය කරන්න">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
-<!ENTITY trackingContentBlocked.message "Tracking">
-<!ENTITY trackingContentBlocked.moreinfo "ඔබේ අන්තර්ජාල ක්‍රියාකාරීත්වය විමසන පිටුවේ සමහර කොටස් අවහිර කර ඇති.">
+<!ENTITY trackingContentBlocked.message "ලුහුබැඳීම (Tracking)">
+<!ENTITY trackingContentBlocked.moreinfo "ඔබේ අන්තර්ජාල ක්‍රියාකාරීත්වය විමසන පිටුවේ සමහර කොටස් අවහිර කර ඇත.">
 <!ENTITY trackingContentBlocked.learnMore "තවත් ඉගෙනගන්න">
 <!ENTITY trackingContentBlocked.options "විකල්ප">
 <!ENTITY trackingContentBlocked.unblock2.label "මෙම අඩවිය සඳහා ආරක්ෂනය අක්‍රීය කරන්න">
