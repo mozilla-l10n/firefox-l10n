@@ -90,6 +90,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "გრაფიკები">
 
 <!ENTITY aboutSupport.placeDatabaseTitle "Places მონაცემთა ბაზა">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "მთლიანობა">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "მთლიანობის გადამოწმება">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "თანმიმდევრული GC">
@@ -116,3 +118,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "მარცხების ჟურნალი">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "გადაწყვეტილებების ჟურნალი">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "ავარიული დახურვის დაცვის მიერ გამორთული ფუნქციები">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "შემოვლითი გზები">
