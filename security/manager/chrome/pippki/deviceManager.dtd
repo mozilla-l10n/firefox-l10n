@@ -16,7 +16,7 @@
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "Salir">
 <!ENTITY devmgr.button.logout.accesskey         "S">
-<!ENTITY devmgr.button.changepw.label           "Cambiar Contraseña">
+<!ENTITY devmgr.button.changepw.label           "Cambiar contraseña">
 <!ENTITY devmgr.button.changepw.accesskey       "C">
 <!ENTITY devmgr.button.load.label               "Cargar">
 <!ENTITY devmgr.button.load.accesskey           "C">

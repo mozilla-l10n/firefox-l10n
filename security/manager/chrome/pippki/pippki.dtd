@@ -28,7 +28,7 @@
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Solicitud de identificación de usuario">
 <!ENTITY clientAuthAsk.message1 "Este sitio ha solicitado que te identifiques con un certificado:">
-<!ENTITY clientAuthAsk.message2 "Seleccionar un certificado para presentar como identificación:">
+<!ENTITY clientAuthAsk.message2 "Elije un certificado para presentar como identificación:">
 <!ENTITY clientAuthAsk.message3 "Detalles del certificado seleccionado:">
 
 <!-- Strings for the cert picker dialog -->
