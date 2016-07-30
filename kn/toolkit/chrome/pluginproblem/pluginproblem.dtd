@@ -11,6 +11,7 @@
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
+<!ENTITY missingPlugin                                       "ಈ ವಿಷಯವನ್ನು ತೋರಿಸಲು ಒಂದು ಪ್ಲಗ್‌ಇನ್‌ ಅಗತ್ಯವಿದೆ.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಇಲ್ಲಿ ಮೆಲ್ಲಗೆ ತಟ್ಟಿ.">
 <!ENTITY clickToActivatePlugin                               "ಪ್ಲಗ್ಇನ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು.">
@@ -27,6 +28,7 @@
 <!ENTITY reloadPlugin.middle                                 "ಪುಟವನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡಿ">
 <!ENTITY reloadPlugin.post                                   " ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಲು.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "ಕುಸಿತದ ವರದಿಯನ್ನು ಕಳುಹಿಸು">
 <!ENTITY report.submitting                                   "ವರದಿಯನ್ನು ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ…">
 <!ENTITY report.submitted                                    "ಕುಸಿತದ ವರದಿಯನ್ನು ಕಳುಹಿಸಲಾಗಿದೆ.">
 <!ENTITY report.disabled                                     "ಕುಸಿತದ ವರದಿಯನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.">
