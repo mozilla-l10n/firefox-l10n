@@ -8,6 +8,7 @@
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "ფრთხილად იყავით, ეს თოფი დატენილია!">
 <!ENTITY aboutWarningText.label "ამ დეტალური პარამეტრების შეცვლამ შესაძლოა პროგრამის სტაბილურობა, უდაფრთხოება და წარმადობა დააზიანოს. გააგრძელეთ მხოლოდ იმ შემთხვევაში, თუ დარწმუნებული ხართ იმაში რასაც აკეთებთ.">
+<!ENTITY aboutWarningButton2.label "ვცნობ რისკებს!">
 <!ENTITY aboutWarningCheckbox.label "ამ გაფრთხილების ჩვენება შემდგომ">
 
 <!ENTITY searchPrefs.label "ძიება:">

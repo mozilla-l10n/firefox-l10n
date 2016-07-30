@@ -169,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "ბოლოს ჩანიშნულები">
 <!ENTITY otherBookmarksCmd.label "სხვა სანიშნეები">
 <!ENTITY bookmarksToolbarChevron.tooltip "მეტი სანიშნების ჩვენება">
+<!ENTITY showRecentlyBookmarked.label     "ბოლოს ჩანიშნულების ჩვენება">
+<!ENTITY showRecentlyBookmarked.accesskey "ო">
+<!ENTITY hideRecentlyBookmarked.label     "ბოლოს ჩანიშნულების დამალვა">
+<!ENTITY hideRecentlyBookmarked.accesskey "დ">
 
 <!ENTITY backCmd.label                "უკან">
 <!ENTITY backButton.tooltip           "ერთი გვერდით უკან">
@@ -226,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "სანიშნეთა გვერდითი ზოლის ჩვენება">
 <!ENTITY viewBookmarksToolbar.label         "სანიშნეთა ხელსაწყოთა ზოლის ჩვენება">
 
+<!ENTITY containersMenu.label "სათავსოები">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -551,6 +556,16 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "ხმის ჩართვა">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate2.label     "დაკვრის სიჩქარე">
+<!ENTITY mediaPlaybackRate2.accesskey "ე">
+<!ENTITY mediaPlaybackRate050x2.label "ნელი (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "ნ">
+<!ENTITY mediaPlaybackRate100x2.label "ჩვეულებრივი">
+<!ENTITY mediaPlaybackRate100x2.accesskey "ჩ">
+<!ENTITY mediaPlaybackRate125x2.label "სწრაფი (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "ს">
+<!ENTITY mediaPlaybackRate150x2.label "უფრო სწრაფი (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "უ">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->

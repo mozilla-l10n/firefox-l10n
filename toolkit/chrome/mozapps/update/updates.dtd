@@ -75,6 +75,10 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "განახლება ჩაიდგმება &brandShortName; შემდეგ სეანსზე. შეგიძლიათ დახუროთ და ხელახლა 
 გახსნათ &brandShortName; ან გააგრძელოთ მუშაობა და გააკეთოთ ეს მოგვიანებით.">
+<!ENTITY  finishedBackground.moreElevated "ეს განახლება ადმინისტრატორის პრივილეგიებს მოითხოვს. განახლება დაყენდბეა
+                                           &brandShortName;-ის შემდეგი ჩართვისას. შეგიძლიათ
+                                           &brandShortName; ახლვე გადატვირთოთ, მუშაობა განაგრძოთ და მოგვიანებით გადატვირთოთ, ან უარყოთ
+                                           განახლება.">
 
 <!ENTITY  update.details.label            "დეტალები">
 <!ENTITY  update.installedOn.label        "ჩაიდგა:">
