@@ -192,6 +192,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>Osoitteeseen <span id='wrongSystemTime_URL'/> ei ole mahdollista muodostaa suojattua yhteyttä, tietokoneen kello näyttää olevan väärässä ajassa.</p> <p>Tietokoneesi mukaan kello on <span id='wrongSystemTime_systemDate'/>, kun sen pitäisi olla <span id='wrongSystemTime_actualDate'/>. Voit korjata ongelman asettamalla kellon oikeaan aikaan tietokoneen aika-asetuksista.</p>">
 
 <!ENTITY certerror.pagetitle1  "Suojaamaton yhteys">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tämä sivusto määrää
