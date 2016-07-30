@@ -165,6 +165,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Sisällön tietosuojakäytännön estämä">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; esti tämän sivun latautumisen tässä yhteydessä, koska sivun sisällön tietosuojakäytäntö kieltää sen.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Sisältö vioittunut -virhe">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Lisää poikkeus…">
