@@ -248,12 +248,12 @@
 <!ENTITY smiley4Cmd.label "Tong uitsteken">
 <!ENTITY smiley5Cmd.label "Lach">
 <!ENTITY smiley6Cmd.label "Verlegen">
-<!ENTITY smiley7Cmd.label "Twijfelend">
-<!ENTITY smiley8Cmd.label "Verbaasd">
+<!ENTITY smiley7Cmd.label "Twijfel">
+<!ENTITY smiley8Cmd.label "Verbazing">
 <!ENTITY smiley9Cmd.label "Kus">
 <!ENTITY smiley10Cmd.label "Schreeuw">
 <!ENTITY smiley11Cmd.label "Cool">
-<!ENTITY smiley12Cmd.label "Geldzucht">
+<!ENTITY smiley12Cmd.label "Hebzucht">
 <!ENTITY smiley13Cmd.label "Mond vol tanden">
 <!ENTITY smiley14Cmd.label "Onschuldig">
 <!ENTITY smiley15Cmd.label "Huilen">
