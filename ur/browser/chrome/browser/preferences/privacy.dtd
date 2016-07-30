@@ -24,7 +24,7 @@
 
 <!ENTITY  doNotTrack.pre.label          "آپ بھی ">
 <!ENTITY  doNotTrack.settings.label     "ٹریےک نہ کریں کی سیٹنگیں کو بندوبست کریں">
-
+<!ENTITY  doNotTrack.post.label         "۔">
 
 <!ENTITY  history.label                 "سابقات">
 

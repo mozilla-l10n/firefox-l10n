@@ -17,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "خطرناک ڈاؤن لوڈز کو بلاک کریں">
 <!ENTITY  blockDownloads.accesskey        "خ">
 
-
+<!ENTITY  blockUncommonUnwanted.label     "غیر عمومی سافٹ ویئر کے متعلق مجھیں خبردار کریں">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "استثنیات…">
 <!ENTITY  addonExceptions.accesskey     "ا">

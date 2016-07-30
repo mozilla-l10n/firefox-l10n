@@ -24,7 +24,8 @@
 <!ENTITY fileNotFound.title "مسل نہیں ملی">
 <!ENTITY fileNotFound.longDesc "<ul> <li>مسل نام کو کیپیٹل یا دوسرے ٹائپنگ نقص کے لیے چیک کریں</li> <li>چیک کریں کہ مسل ہٹائی، نام تبدیل یا ڈلیٹ تو نہیں کر دی گئی۔ </li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "مسل تک رسائی مسترد کردی گئی ہے">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>یہ شاید ہٹائی گئی ہو، منتقل کر دیا ہو یا مسل کی اجازت رسائ سے روک رہی ہو</li></ul>">
 
 <!ENTITY generic.title "اف">
 <!ENTITY generic.longDesc "<p>کسی وجہ سے یہ صفح لوڈ نہیں کر سکتا &brandShortName;</p>">
@@ -68,11 +69,13 @@
 <!ENTITY unknownSocketType.title "پیش کار کے غیر توقع رسپانس">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>چیک کریں کہ آپ کے سسٹم پر پرسنل سکیورٹی مینیجر  تنصیب ہے۔</li> <li>یہ پیش کار پر غیر سٹینڈرڈ تشکیل کی وجہ سے ہو سکتا ہے۔</li> </ul>">
 
+<!ENTITY nssFailure2.title "قابل بھروسا کنکشن ناکام ہو گیا ہے">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>جو صفحہ آپ دیکھنا چاہ رہے ہیں، دکھایا نہیں جا سکتا کیونکہ موصول قوائف کی اصلیت کی تصدیق نہیں ہو سکی۔</li> <li>ویب سائٹ کے مالک کو اس مسلے کا بتانے کے لیے ان سے رابطہ کریں۔</li> </ul>">
 
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/> کے مالک نے انکی ویب سائٹ نامناسب طرحہ سے تشکیل کی ہیں۔ آپکی معلومات کو چوری ہونے سے حفاظت کے لئے، &brandShortName; اس ویب سائٹ سے نہیں جڑا ہے۔">
 
 <!ENTITY sharedLongDesc "<ul> <li>سائٹ عارظی طور پر غیر موجود یا مصروف ہو سکتی ہے۔ کچھ دیر بعد پھر کوشش کریں۔</li> <li>اگر آپ کوئی بھی صفحے نہیں لوڈ کر پائیں تو اپنے کمپیوٹر کا نیٹورک کنکشن چیک کریں۔</li> <li>اگر آپ کا کمپیوٹر یا نیٹورک فصیل کے ذریعے محفوظ ہے تو چیک کریں کہ  ویب تک رسائی کر سکتا ہے۔&brandShortName;</li> </ul>">
 
@@ -96,6 +99,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "اعلی معلومات: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "آپکا کنکشن ناقابل بھروسا ہے">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "اعلی معلومات: SSL_ERROR_NO_CYPHER_OVERLAP">
@@ -105,10 +109,13 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.pagetitle1  "غیر مھفوظ کنکشن">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "یہ سائٹ HTTP سخت ٹرانسپورٹ سیکورٹی (HSTS) کہ &brandShortName; کی وضاحت کرنے کی استعمال کرتا ہے؛ صرف محفوظ طریقے سے اس سے رابطہ قائم کر سکتا ہے۔ نتیجے کے طور پر، اسے اس کی سند کے لئے ایک رعایت شامل کرنے کے لئے ممکن نہیں ہے۔">
+<!ENTITY certerror.copyToClipboard.label "متن کو تختہ تراشہ پر نقل کریں">
 
-
-
+<!ENTITY inadequateSecurityError.title "آپکا کنکشن ناقابل بھروسا ہے">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> سیکورٹی ٹیکنالوجی کا استعمال کرتا ہے جو کی فرسودہ اور حملے کا شکار ہے۔ حملہ آور آسانی سے اس معلومات کو ظاہر کر سکتا یے جسے آپ محفوظ سمجھ رہے ہے۔ آپکی سائٹ دورہ کرنے سے پہلے ویب سائٹ منتظمکار کو پیش کار ٹھک کرنا ہوگا۔</p><p> خرابی کا کوڈ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 
