@@ -119,3 +119,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Virheloki">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Päätösloki">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Kaatumisvahdin käytöstä poistamat ominaisuudet">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Hätäratkaisut">
