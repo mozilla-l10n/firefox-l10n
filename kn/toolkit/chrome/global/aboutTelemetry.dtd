@@ -20,9 +20,11 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "ಸಂಗ್ರಹಿಸಿದ ಪಿಂಗ್ ದತ್ತಾಂಶ">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "ಪ್ಲಗಿನ್ ಡೇಟಾ ಪ್ರದರ್ಶಕ:">
 
 <!ENTITY aboutTelemetry.structured "ಸಂರಚಿತವಾಗಿ">
 
+<!ENTITY aboutTelemetry.raw "ಸಂಸ್ಕರಿಸದ JSON">
 
 <!ENTITY aboutTelemetry.showSubsessionData "ಉಪಅಧಿವೇಶನ ದತ್ತಾಂಶವನ್ನು ತೋರಿಸು">
 
@@ -32,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "ಹಳೆಯ ಪಿಂಗ್ &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "ಸಂಸ್ಕರಿಸದ ಪಿಂಗ್ ಡೇಟಾ…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "ವಾರ">
 
@@ -77,3 +80,4 @@
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  ಮಾನ್ಯಸರಕು">
 
+<!ENTITY aboutTelemetry.rawPayload "  ಸಂಸ್ಕರಿಸದ ಪೇಲೋಡ್">

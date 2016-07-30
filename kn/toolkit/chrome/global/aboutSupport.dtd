@@ -115,6 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "ವಿಫಲತೆಯ ದಿನಚರಿ">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "ನಿರ್ಣಯ ದಿನಚರಿ">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "ಕುಸಿತ ರಕ್ಷಕ ವೈಶಿಷ್ಟ್ಯ ಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದೆ">
 
