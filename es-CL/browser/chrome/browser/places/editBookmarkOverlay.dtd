@@ -23,6 +23,6 @@
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Mostrar todas las etiquetas">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Cargar este marcador en el panel lateral">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "C">
-<!ENTITY editBookmarkOverlay.choose.label                    "Seleccionar…">
+<!ENTITY editBookmarkOverlay.choose.label                    "Elegir…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nueva carpeta">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">

@@ -18,7 +18,7 @@
 
 <!ENTITY  whichIs.label              "el cual es:">
 
-<!ENTITY  chooseHandlerMac.label      "Seleccionar…">
+<!ENTITY  chooseHandlerMac.label      "Elegir…">
 <!ENTITY  chooseHandlerMac.accesskey  "c">
 <!ENTITY  chooseHandler.label         "Examinar…">
 <!ENTITY  chooseHandler.accesskey     "E">

@@ -63,7 +63,7 @@
 <!ENTITY certmgr.delete2.accesskey            "E">
 <!ENTITY certmgr.delete_builtin.label         "Borrar o desconfiar…">
 <!ENTITY certmgr.delete_builtin.accesskey     "B">
-<!ENTITY certmgr.backup2.label                "Hacer un Respaldo…">
+<!ENTITY certmgr.backup2.label                "Hacer un respaldo…">
 <!ENTITY certmgr.backup2.accesskey            "H">
 <!ENTITY certmgr.backupall2.label             "Respaldar Todo…">
 <!ENTITY certmgr.backupall2.accesskey         "R">
@@ -75,7 +75,7 @@
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Jerarquía de Certificado">
 <!ENTITY certmgr.hierarchy.accesskey2         "H">
-<!ENTITY certmgr.addException.label           "Añadir Excepción…">
+<!ENTITY certmgr.addException.label           "Añadir excepción…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "Añadir Excepción de Seguridad">

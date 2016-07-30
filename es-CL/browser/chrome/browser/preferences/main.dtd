@@ -26,7 +26,7 @@
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "Examinar…">
 <!ENTITY chooseFolderWin.accesskey    "E">
-<!ENTITY chooseFolderMac.label        "Seleccionar…">
+<!ENTITY chooseFolderMac.label        "Elegir…">
 <!ENTITY chooseFolderMac.accesskey    "S">
 <!ENTITY alwaysAsk.label "Siempre preguntar donde guardar los archivos">
 <!ENTITY alwaysAsk.accesskey "p">
