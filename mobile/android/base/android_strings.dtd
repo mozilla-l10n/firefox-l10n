@@ -18,9 +18,11 @@
 <!ENTITY firstrun_signin_message "დაუკავშირდით და დაიწყეთ">
 <!ENTITY firstrun_signin_button "Sync-ში შესვლა">
 <!ENTITY  onboard_start_button_browser "დაიწყეთ სერფინგი">
+<!ENTITY firstrun_button_notnow "ახლა არა">
 <!ENTITY firstrun_button_next "შემდეგი">
 
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "ჩანართების რიგის ჩართვა">
 
 
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
