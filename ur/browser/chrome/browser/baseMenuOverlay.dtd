@@ -5,7 +5,7 @@
 <!ENTITY minimizeWindow.key       "م">
 <!ENTITY minimizeWindow.label     "چھوٹا کریں">
 <!ENTITY bringAllToFront.label    "تمام سامنے لائیں">
-<!ENTITY zoomWindow.label         "زوم">
+<!ENTITY zoomWindow.label         "زوم کریں">
 <!ENTITY windowMenu.label         "دریچہ">
 
 <!ENTITY helpMenu.label           "ہدایات"> 

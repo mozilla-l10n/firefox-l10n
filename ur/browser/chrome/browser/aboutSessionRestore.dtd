@@ -7,9 +7,9 @@
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle     "اف، مجھے شرمندگی ہو رہی ہے۔">
-<!ENTITY restorepage.problemDesc    "&brandShortName; کو آپ کے دریچے اور ٹیب بازیافت کرنے میں مشکل ہو رہی ہے۔ یہ عموماً حالیہ طور پر کھلے ہوئے ویب صفحہ کی وجہ سے ہوتا ہے.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; کو آپ کے ونڈوں اور ٹیب بازیافت کرنے میں مشکل ہو رہی ہے۔ یہ عموماً حالیہ طور پر کھلے ہوئے ویب صفحہ کی وجہ سے ہوتا ہے۔">
 <!ENTITY restorepage.tryThis        "آپ مندرجہ ذیل کوشش کر سکتے ہیں: ">
-<!ENTITY restorepage.restoreSome    "ایک یا زیادہ ٹیب ہٹا کر جن سے آپ کو لگتا ہے مسلہ ہو رہا ہو گا ">
+<!ENTITY restorepage.restoreSome    "ایک یا زیادہ ٹیب ہٹا رہے ہے جن سے آپ کو لگتا ہے مسلہ ہو رہا ہو گا ">
 <!ENTITY restorepage.startNew       "ایک بلکل نئی براؤزنگ سیشن شروع کر کے ">
 
 <!ENTITY restorepage.tryagainButton "بحال کریں">
@@ -35,7 +35,7 @@
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; چلنے کے لیے تیار ہے۔">
 
 <!ENTITY welcomeback2.label.restoreAll  "تمام دریچے اور ٹیب بحال کریں">
-<!ENTITY welcomeback2.label.restoreSome "صرف وہ بحال کریں جو آپ چاہتے ہیں">
+<!ENTITY welcomeback2.label.restoreSome "صرف وہی بحال کریں جو آپ چاہتے ہیں">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
@@ -47,7 +47,7 @@ their language.
 <!ENTITY welcomeback2.beforelink.pageInfo2  "آپ کے ایڈاون اور تخصیص کاریاں ہٹا دی گئی ہیں اور آپ کے براؤزر کی سیٹنگیں طے شدہ بحال کردی گئی ہیں۔ اگر اس سے آپ کا مسئلہ ٹھیک نہیں ہوا، ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
-<!ENTITY welcomeback2.link.pageInfo2        "مزید سیکھیں کہ آپ کیا کر سکتے ہیں۔">
+<!ENTITY welcomeback2.link.pageInfo2        "آپ کیا کر سکتے ہیں اس کے بارے میں مزید جانیں۔">
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
 
@@ -56,5 +56,5 @@ their language.
 <!ENTITY tabgroupsmigration.learnaboutaddons    "ٹیب گروپ متبادل ایڈ اون کے بارے میں اور سیکھیں۔">
 <!ENTITY tabgroupsmigration.description2        "&brandShortName; نے آپکے سبھی گروپ کو نشان زد کر دیا ہے تو آپنے کچھ بھی نہیں کھو یا ہے۔">
 <!ENTITY tabgroupsmigration.bookmarkbutton      "نشان زد ٹیب گروپ دکھائیں">
-<!ENTITY tabgroupsmigration.restoredescription  "آپ چن سکتے ہے کچھ یا سبھی پس منظر گروپ ونڈوز میں بحال کرنے کے لئے:">
+<!ENTITY tabgroupsmigration.restoredescription  "آپ بھی اب ونڈوز میں سے کچھ یا تمام پس منظر کے گروپوں کو بحال کرنے کے لئے منتخب کر سکتے ہیں:">
 
