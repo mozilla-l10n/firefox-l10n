@@ -710,6 +710,17 @@
   búsquedas, y el motor de búsqueda muestra los enlaces a las
   páginas web relevantes.</dd>
 
+<dt id="location_aware_browsing">navegación basada en ubicación</dt><dd>Un
+  método para determinar la ubicación de un usuario para proporcionar servicios
+  personalizados para la ubicación actual, o para el propósito de
+  <a href="#user_tracking">rastrear al usuario</a>. Además de la
+  <a href="#ip_address">dirección IP</a>, se usa información específica del
+  proveedor como puntos de acceso inalámbricos para determinar la longitud y
+  latitud y altitud así como la velocidad y dirección (si están disponibles)
+  que se entrega al <a href="#website">sitio web</a> solicitante. Es
+  proporcionada por un <a href="#geolocation_service">servicio de
+  geolocalización</a>.</dd>
+
 <dt id="caret_browsing">navegación con cursor</dt><dd>Una característica de
   &brandShortName; que le permite desplazarse por el texto en las páginas web y
   los mensajes de correo (o esta ventana de ayuda) con un cursor. Usando su
@@ -852,37 +863,41 @@
   <dd>El proceso de renovar un <a href=
   "#certificate">certificado</a> que está a punto de caducar.</dd>
 
-  <dt id="rss">RSS (Sindicación realmente simple)</dt><dd>Un formato de datos
+<dt id="rss">RSS (Sindicación realmente simple)</dt><dd>Un formato de datos
   <a href="#xml">XML</a> para <a href="#feed">feeds</a> web.</dd>
 
-  <dt id="server">servidor.</dt><dd>Es el software (como el que
+<dt id="geolocation_service">servicio de geolocalización</dt><dd>Un servicio
+  web para la <a href="#location_aware_browsing">navegación basada en
+  ubicación</a>.</dd>
+
+<dt id="server">servidor.</dt><dd>Es el software (como el que
   sirve páginas web) que recibe peticiones de un <a href=
   "#client">cliente</a> al que le manda la información solicitada, que
   normalmente se ejecuta en una máquina distinta. Una máquina en
   la que se ejecuta software de servidor, se le llama servidor.</dd>
 
-  <dt id="website">sitio web.</dt><dd>Un grupo de páginas
+<dt id="website">sitio web.</dt><dd>Un grupo de páginas
   web relacionadas vinculadas por hiperenlaces y gestionadas por una
   única compañía, organización, o particular. Un
   sitio web puede incluir texto, gráficos, ficheros de audio y
   vídeo, y enlaces a otros sitios web.</dd>
 
-  <dt id="spoofing">spoofing.</dt><dd>Aparentar ser alguien que no se es. Por
+<dt id="spoofing">spoofing.</dt><dd>Aparentar ser alguien que no se es. Por
   ejemplo, una persona puede aparentar tener la dirección de correo
   <tt>jdoe@mozilla.com</tt>, o una máquina puede identificarse como un sitio
   web llamado <tt>www.mozilla.com</tt> sin serlo en realidad. El spoofing es
   una forma de <a href="#misrepresentation">identificación falsa</a>.</dd>
 
-  <dt id="smtp">SMTP (protocolo de transferencia simple de correo).</dt>
+<dt id="smtp">SMTP (protocolo de transferencia simple de correo).</dt>
   <dd>Un protocolo que envía mensajes de correo electrónico
   a través de <a href="#internet">Internet</a>.</dd>
   
-  <dt id="socks">SOCKS</dt>
+<dt id="socks">SOCKS</dt>
   <dd>Un protocolo que un servidor <a href="#proxy">proxy</a> puede
   utilizar para aceptar solicitudes de usuarios cliente en una red
   interna y re-enviarlas a través de <a href="#internet">Internet</a>.</dd>
   
-  <dt id="ssl">SSL (capa de conexiones seguras).</dt>
+<dt id="ssl">SSL (capa de conexiones seguras).</dt>
   <dd>Un protocolo que permite una identificación recíproca
   entre un <a href="#client">cliente</a> y un <a href="#server">servidor</a>
   con la finalidad de establecer una conexión comprobada y cifrada.
@@ -899,7 +914,7 @@
   servidor que use <a href="#tls">TLS</a> en el mismo puerto TCP que las
   conexiones no seguras.</dd>
   
-  <dt id="smart_card">tarjeta inteligente.</dt><dd>Un
+<dt id="smart_card">tarjeta inteligente.</dt><dd>Un
   pequeño dispositivo, normalmente de tamaño similar a una
   tarjeta de crédito, que contiene un microprocesador y puede almacenar
   información criptográfica como claves y certificados,
@@ -908,7 +923,7 @@
   tarjeta inteligente es una clase de <a href="#security_device">dispositivo de
   seguridad</a>.</dd>
 
-  <dt id="tcp">TCP.</dt><dd>Ver <a href=
+<dt id="tcp">TCP.</dt><dd>Ver <a href=
   "#tcp_ip">TCP/IP (protocolo de control de la transmisión/protocolo
   de Internet</a>.</dd>
 
@@ -926,13 +941,13 @@
   Conexiones Seguras, Secure Sockets Layer). Ver también <a href="#ssl">SSL</a>
   y <a href="#encryption">cifrado</a>.</dd>
 
-  <dt id="token">token.</dt><dd>Ver <a href=
+<dt id="token">token.</dt><dd>Ver <a href=
   "#security_device">dispositivo de seguridad</a>.</dd>
 
-  <dt id="security_token"><em>token</em> de seguridad.</dt><dd>Ver
+<dt id="security_token"><em>token</em> de seguridad.</dt><dd>Ver
   <a href="#security_device">dispositivo de seguridad</a>.</dd>
 
-  <dt id="trust">trust.</dt><dd>Relación de confianza en una
+<dt id="trust">trust.</dt><dd>Relación de confianza en una
   persona u otra entidad. En el contexto de la <a href="#pki">PKI
   (infraestructura de clave pública)</a>, trust se refiere a la
   relación entre el usuario de un certificado y la <a
@@ -945,7 +960,7 @@
   autoridades del administrador de certificados se pueden especificar
   los tipos de certificados de las CAs en que confía o no.</dd>
 
-  <dt id="url">URL (localizador uniforme de recursos).</dt>
+<dt id="url">URL (localizador uniforme de recursos).</dt>
   <dd>El formato estándar de direcciones que le dice al navegador
   cómo localizar un archivo u otro recurso en la Web. Por
   ejemplo: <tt>http://www.mozilla.org.</tt>Se pueden escribir URLs en
@@ -955,7 +970,7 @@
   ir a otras al pinchar en ellos. También se conoce como
   dirección de Internet o dirección Web.</dd>
 
-  <dt id="certificate_verification">verificación de certificados.</dt>
+<dt id="certificate_verification">verificación de certificados.</dt>
   <dd>Cuando el <a href="#certificate_manager">administrador de
   certificados</a> verifica un
   certificado, confirma que la firma digital fue creada por una CA cuyo propio
@@ -972,19 +987,19 @@
   controles falla, el administrador de certificados marca el certificado como
   no verificado y no reconocerá la identidad a la que certifica.</dd>
 
-  <dt id="world_wide_web">World Wide Web.</dt><dd>También conocida
+<dt id="world_wide_web">World Wide Web.</dt><dd>También conocida
   como la Web. Una parte de <a href="#internet">Internet</a> que se
   refiere al conjunto de páginas web almacenadas en
   <a href="#server">servidores</a> web y mostradas en los
   <a href="#client">clientes</a> llamados navegadores web
   (como &brandShortName;).</dd>
   
-  <dt id="wpad">WPAD (autodescubrimiento de proxies web).</dt>
+<dt id="wpad">WPAD (autodescubrimiento de proxies web).</dt>
   <dd>Una propuesta de protocolo de Internet que permite a un
   navegador web localizar automáticamente y conversar con
   servidores <a href="#proxy">proxy</a> en una red.</dd>
 
-  <dt id="xml">XML (lenguaje extensible basado en marcas).</dt>
+<dt id="xml">XML (lenguaje extensible basado en marcas).</dt>
   <dd>Un estándar abierto para describir datos. A diferencia de
   HTML, XML permite al desarrollador de una página web definir
   marcas especiales. Para más información, vea el
@@ -992,11 +1007,11 @@
   <a href="http://www.w3.org/XML/">Lenguaje Extensible basado en
   Marcas (XML)</a>.</dd>
 
-  <dt id="xslt">XSLT (transformaciones del lenguaje extensible de hojas de estilo).</dt>
+<dt id="xslt">XSLT (transformaciones del lenguaje extensible de hojas de estilo).</dt>
   <dd>Un lenguaje usado para convertir un documento XML en otro
   documento XML o en otro formato.</dd>
 
-  <dt id="xul">XUL (Lenguaje de interfaz de usuario XML).</dt>
+<dt id="xul">XUL (Lenguaje de interfaz de usuario XML).</dt>
   <dd>Un lenguaje de marcas XML para crear interfaces de usuario en
   aplicaciones.</dd>
 </dl>

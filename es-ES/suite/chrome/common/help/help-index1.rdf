@@ -1447,6 +1447,11 @@
 	 nc:link="help_help.xhtml#finding_the_topic_you_want"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="location_aware_browsing"
+         nc:name="preferencias de navegación basada en ubicación"
+         nc:link="privsec_help.xhtml#location_aware_browsing"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="caret_browsing"
          nc:name="navegación con cursor"
    nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/>
