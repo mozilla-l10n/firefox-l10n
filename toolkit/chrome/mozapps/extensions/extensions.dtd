@@ -25,7 +25,7 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "ಕೆಲವು ವಿಸ್ತರಣಿಕೆಗಳನ್ನು ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ">
 <!ENTITY showAllExtensions.button.label       "ಎಲ್ಲ ವಿಸ್ತರಣಗಳನ್ನು ತೋರಿಸು">
-<!ENTITY debugAddons.label                    "ಆಡ್-ಆನ್‍ಗಳನ್ನು ಪರೀಕ್ಷಿಸಿ b">
+<!ENTITY debugAddons.label                    "ಆಡ್-ಆನ್‍ಗಳನ್ನು ಪರೀಕ್ಷಿಸಿ">
 <!ENTITY debugAddons.accesskey                "b">
 <!-- global warnings -->
 
