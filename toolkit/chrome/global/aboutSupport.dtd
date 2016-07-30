@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Achent d'usuario">
 <!ENTITY aboutSupport.appBasicsOS "SO">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Uso de memoria">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Rendimiento">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers rechistraus">
@@ -86,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Graficos">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "Base de datos de puestos">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integridat">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verificar Integridat">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Contexto grafico (GC) incremental">
@@ -114,6 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Rechistro de fallos">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Rechistro de decisions">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Caracteristicas Crash Guard desactivadas">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Solucions temporals">
