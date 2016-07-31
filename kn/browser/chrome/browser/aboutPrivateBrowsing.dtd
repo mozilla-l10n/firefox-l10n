@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
 
 <!ENTITY trackingProtection.title                        "ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ">
-
+<!ENTITY trackingProtection.description2                 "ಕೆಲವು ಜಾಲತಾಣಗಳು ಅಂತರಜಾಲದಲ್ಲಿ ನಿಮ್ಮ ಚಟುವಟಿಕೆಯ ಜಾಡನ್ನು ಇರಿಸಲು ಟ್ರ್ಯಾಕರ್‌ಗಳನ್ನು ಬಳಸುತ್ತವೆ. ಟ್ರ್ಯಾಕಿಂಗ್ ಸಂರಕ್ಷಣೆಯೊಂದಿಗೆ, ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಣಾ ವರ್ತನೆಯ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸುವ ಹಲವಾರು ಟ್ರ್ಯಾಕರ್‌ಗಳನ್ನು Firefox ನಿರ್ಬಂಧಿಸುತ್ತದೆ.">
 <!ENTITY trackingProtection.startTour1                   "ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂದು ನೋಡಿ">
