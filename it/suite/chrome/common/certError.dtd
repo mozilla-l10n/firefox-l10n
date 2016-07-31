@@ -9,7 +9,7 @@
 <!ENTITY certerror.whatShouldIDo.heading "Cosa devo fare?">
 <!ENTITY certerror.whatShouldIDo.content "Se ti connetti di solito a questo sito senza problemi, questo errore potrebbe indicare che qualcuno sta provando a sostituirsi al sito, e non dovresti proseguire.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Questo sito utilizza il protocollo HSTS (HTTP Strict Transport Security) per garantire che la connessione con &brandShortName; avvenga esclusivamente in modo sicuro. Per questo motivo non è possibile aggiungere un'eccezione per questo certificato.">
-<!ENTITY certerror.getMeOutOfHere.label "Mi suona male, portami piuttosto alla mia home">
+<!ENTITY certerror.getMeOutOfHere.label "Mi suona male, portami piuttosto alla mia pagina iniziale">
 <!ENTITY certerror.expert.heading "Ho capito i rischi">
 <!ENTITY certerror.expert.content "Se capisci cosa succede, puoi dire a &brandShortName; di ritenere affidabile l'identificazione di questo sito.
 <b>Anche se ti fidi di questo sito, questo errore potrebbe indicare che qualcuno sta cercando di manipolare la tua connessione.</b>">

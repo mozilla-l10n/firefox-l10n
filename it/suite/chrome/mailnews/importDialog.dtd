@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--null-->
 <!ENTITY importDialog.windowTitle "Importa">
 <!ENTITY importAll.label "Importa tutto">
 <!ENTITY importAll.accesskey "t">
@@ -27,6 +26,7 @@
 <!ENTITY selectDescription.accesskey "S">
 <!ENTITY acctName.label "Nome:">
 <!ENTITY acctName.accesskey "N">
+<!ENTITY noModulesFound.label "Non è stato trovato alcun file o applicazione da cui importare dati.">
 <!ENTITY back.label "&lt; Indietro">
 <!ENTITY forward.label "Avanti &gt;">
 <!ENTITY finish.label "Finito">

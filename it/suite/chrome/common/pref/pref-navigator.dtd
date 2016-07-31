@@ -10,7 +10,7 @@
 <!ENTITY newTabPageMenu.label "nella nuova scheda">
 <!ENTITY blankPageRadio.label "Pagina bianca">
 <!ENTITY blankPageRadio.accesskey "b">
-<!ENTITY homePageRadio.label "Pagina home">
+<!ENTITY homePageRadio.label "Pagina iniziale">
 <!ENTITY homePageRadio.accesskey "h">
 <!ENTITY lastPageRadio.label "Ultima pagina visitata">
 <!ENTITY lastPageRadio.accesskey "v">
@@ -24,7 +24,7 @@
 <!ENTITY restoreTabsAtATime.label "schede alla volta">
 <!ENTITY restoreDeferred.label "Ripristina le schede solo quando necessarie">
 <!ENTITY restoreDeferred.accesskey "c">
-<!ENTITY homePageIntro.label "La pressione del pulsante Home fa caricare questo gruppo di pagine:">
+<!ENTITY homePageIntro.label "La pressione del pulsante Pagina iniziale fa caricare questo gruppo di pagine:">
 <!ENTITY useCurrent.label "Utilizza pagina corrente">
 <!ENTITY useCurrent.accesskey "z">
 <!ENTITY useCurrentGroup.label "Utilizza gruppo corrente">

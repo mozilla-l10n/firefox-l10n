@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--null-->
 <!ENTITY addressbookWindow.title "Rubrica">
 <!ENTITY newContact.label "Contatto…">
 <!ENTITY newContact.accesskey "C">
@@ -74,7 +73,7 @@
 <!ENTITY newmsgButton.tooltip "Crea un nuovo messaggio">
 <!ENTITY newIM.tooltip "Spedisce un messaggio o avvia la chat">
 <!ENTITY deleteItemButton.tooltip "Rimuovi elemento selezionato">
-<!ENTITY throbber.tooltip "Vai alla pagina home di &vendorShortName;">
+<!ENTITY throbber.tooltip "Vai alla pagina iniziale di &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Apre la finestra di dialogo per la ricerca indirizzi">
 <!ENTITY dirTreeHeader.label "Rubriche">
 <!ENTITY contact.heading "Contatto">

@@ -36,7 +36,7 @@
 <!ENTITY goButton.tooltip "Inserire un indirizzo nel campo a sinistra e premere Vai">
 <!ENTITY printButton.label "Stampa">
 <!ENTITY printButton.tooltip "Stampa la pagina">
-<!ENTITY throbber.tooltip "Visita la pagina home di &vendorShortName;">
+<!ENTITY throbber.tooltip "Visita la pagina iniziale di &vendorShortName;">
 <!ENTITY locationBar.tooltip "Immissione indirizzo, ricerca o parola chiave">
 <!ENTITY locationBar.accesskey "n">
 <!ENTITY locationBar.title "Indirizzo">
@@ -44,7 +44,7 @@
 <!ENTITY searchItem.title "Cerca">
 <!ENTITY bookmarksButton.label "Segnalibri">
 <!ENTITY bookmarksButton.tooltip "Lista segnalibri">
-<!ENTITY homeButton.label "Home">
+<!ENTITY homeButton.label "Pagina iniziale">
 <!ENTITY bookmarksToolbarItem.label "Elementi barra dei segnalibri">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostra altri segnalibri">
 <!ENTITY statusText.label "Completato">
