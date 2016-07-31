@@ -9,5 +9,5 @@
 <!ENTITY doNotTrackCheckbox2.label    "Vedno uporabi Brez sledenja">
 <!ENTITY doNotTrackCheckbox2.accesskey "V">
 
-<!ENTITY doNotTrackTPInfo.description "&brandShortName; bo poslal signal, da ne želite sledenja, kadar je vključen način Brez sledenja.">
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; bo poslal sporočilo, da ne želite sledenja, kadar je vključen način Brez sledenja.">
 <!ENTITY doNotTrackLearnMore.label    "Več o tem">
