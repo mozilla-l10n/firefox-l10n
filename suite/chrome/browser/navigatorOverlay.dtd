@@ -103,15 +103,23 @@
 <!ENTITY cookieBlockImagesCmd.label "Blocca le immagini da questo sito">
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Le immagini da questo sito non saranno mai scaricate.">
-<!ENTITY cookieAllowPopupsCmd.label "Accetta pop-up da questo sito">
-<!ENTITY cookieAllowPopupsCmd.accesskey "A">
-<!ENTITY cookieManagePopups.label "Gestione pop-up">
-<!ENTITY cookieManagePopups.accesskey "G">
+<!ENTITY popupsMessageChangeTitle.label "Permessi per i pop-up cambiati">
+<!ENTITY popupAllowCmd.label "Permetti finestre pop-up da questo sito">
+<!ENTITY popupAllowCmd.accesskey "P">
+<!ENTITY popupAllowMsg.label "Le finestre pop-up da questo sito verrano sempre mostrate.">
+<!ENTITY popupDefaultCmd.label "Usa i permessi predefiniti per le finestre pop-up">
+<!ENTITY popupDefaultCmd.accesskey "U">
+<!ENTITY popupDefaultMsg.label "Le finestre pop-up per questo sito verranno mostrate in base alle impostazioni predefinite.">
+<!ENTITY popupBlockCmd.label "Blocca finestre pop-up da questo sito">
+<!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupBlockMsg.label "Le finestre pop-up da questo sito non verrano mostrate.">
+<!ENTITY popupsManage.label "Gestisci pop-up">
+<!ENTITY popupsManage.accesskey "G">
 <!ENTITY cookieCookieManager.label "Gestione cookie">
 <!ENTITY cookieCookieManager.accesskey "k">
 <!ENTITY cookieImageManager.label "Gestione immagini">
 <!ENTITY cookieImageManager.accesskey "I">
-<!ENTITY cookiePopupManager.label "Gestione pop-up">
-<!ENTITY cookiePopupManager.accesskey "G">
+<!ENTITY popupsManager.label "Gestione pop-up">
+<!ENTITY popupsManager.accesskey "e">
 <!ENTITY clearPrivateDataCmd.label "Elimina dati personali…">
 <!ENTITY clearPrivateDataCmd.accesskey "E">

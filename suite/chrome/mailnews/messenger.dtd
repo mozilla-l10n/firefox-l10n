@@ -407,7 +407,7 @@
 <!ENTITY undeleteButton.tooltip "Ripristina il messaggio selezionato">
 <!ENTITY markButton.tooltip "Marca i messaggi">
 <!ENTITY stopButton.tooltip "Interrompe il trasferimento in corso">
-<!ENTITY throbber.tooltip "Vai alla pagina home di &vendorShortName;">
+<!ENTITY throbber.tooltip "Vai alla pagina iniziale di &vendorShortName;">
 <!ENTITY junkButton.tooltip "Segna i messaggi selezionati come spam">
 <!ENTITY notJunkButton.tooltip "Segna i messaggi selezionati come non spam">
 <!ENTITY remoteContentOptionsAllowForMsg.label "Mostra il contenuto remoto in questo messaggio">

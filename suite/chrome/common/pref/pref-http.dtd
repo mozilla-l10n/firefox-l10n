@@ -19,3 +19,6 @@
 <!ENTITY prefUseragent.label "Stringa user agent">
 <!ENTITY prefFirefoxCompat.label "Pubblicizza compatibilità Firefox">
 <!ENTITY prefFirefoxCompat.accesskey "F">
+<!ENTITY prefLightningShow.label "Pubblicizza installazione di Lightning">
+<!ENTITY prefLightningShow.accesskey "P">
+<!ENTITY prefCompatWarning "ATTENZIONE: disabilitare queste impostazioni potrebbe provocare malfunzionamenti in siti o servizi web.">
