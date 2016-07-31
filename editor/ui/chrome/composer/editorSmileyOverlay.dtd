@@ -15,20 +15,20 @@
 <!ENTITY smiley3Cmd.label "Knipoog">
 <!ENTITY smiley3Cmd.accesskey "n">
 <!ENTITY smiley3Cmd.tooltip "Een knipogend gezicht invoegen">
-<!ENTITY smiley4Cmd.label "Sliepuit">
+<!ENTITY smiley4Cmd.label "Tong uitsteken">
 <!ENTITY smiley4Cmd.accesskey "u">
-<!ENTITY smiley4Cmd.tooltip "Een sliepuit-gezicht invoegen">
+<!ENTITY smiley4Cmd.tooltip "Een gezicht met uitgestoken tong invoegen">
 <!ENTITY smiley5Cmd.label "Lach">
 <!ENTITY smiley5Cmd.accesskey "L">
 <!ENTITY smiley5Cmd.tooltip "Een lachend gezicht invoegen">
-<!ENTITY smiley6Cmd.label "Bloos">
-<!ENTITY smiley6Cmd.accesskey "B">
+<!ENTITY smiley6Cmd.label "Verlegen">
+<!ENTITY smiley6Cmd.accesskey "V">
 <!ENTITY smiley6Cmd.tooltip "Een blozend gezicht invoegen">
 <!ENTITY smiley7Cmd.label "Twijfel">
 <!ENTITY smiley7Cmd.accesskey "T">
 <!ENTITY smiley7Cmd.tooltip "Een twijfelend gezicht invoegen">
 <!ENTITY smiley8Cmd.label "Verbazing">
-<!ENTITY smiley8Cmd.accesskey "V">
+<!ENTITY smiley8Cmd.accesskey "e">
 <!ENTITY smiley8Cmd.tooltip "Een verbaasd gezicht invoegen">
 <!ENTITY smiley9Cmd.label "Kus">
 <!ENTITY smiley9Cmd.accesskey "K">
@@ -48,10 +48,10 @@
 <!ENTITY smiley14Cmd.label "Onschuldig">
 <!ENTITY smiley14Cmd.accesskey "O">
 <!ENTITY smiley14Cmd.tooltip "Een onschuldig gezicht invoegen">
-<!ENTITY smiley15Cmd.label "Tranen">
-<!ENTITY smiley15Cmd.accesskey "r">
+<!ENTITY smiley15Cmd.label "Huilen">
+<!ENTITY smiley15Cmd.accesskey "n">
 <!ENTITY smiley15Cmd.tooltip "Een huilend gezicht invoegen">
-<!ENTITY smiley16Cmd.label "Lippen verzegeld">
-<!ENTITY smiley16Cmd.accesskey "p">
+<!ENTITY smiley16Cmd.label "Lippen zijn verzegeld">
+<!ENTITY smiley16Cmd.accesskey "z">
 <!ENTITY smiley16Cmd.tooltip "Een gezicht met verzegelde lippen invoegen">
 <!ENTITY SmileButton.tooltip "Een smiley invoegen">
