@@ -7,20 +7,20 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Ka i yenyo i Dirica me mung, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "pe gwoko">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "potbuk ma kilimo">
+<!ENTITY aboutPrivateBrowsing.info.searches              "yeny">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "angija">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "pwail pi tutunu">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "bi gwoko">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " yiti:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "gam">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "alamabuk">
+<!ENTITY aboutPrivateBrowsing.note.before                "Yeny i mung ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "pe weko i bedo ma pe ingene">
 
 
 
