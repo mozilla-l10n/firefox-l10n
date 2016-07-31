@@ -6,7 +6,7 @@
 <!ENTITY errFile.label "File sorgente:">
 <!ENTITY errLine.label "Riga:">
 <!ENTITY errColumn.label "Colonna:">
-<!ENTITY all.label "Tutto">
+<!ENTITY all.label "Tutti">
 <!ENTITY all.accesskey "T">
 <!ENTITY errors.label "Errori">
 <!ENTITY errors.accesskey "E">
