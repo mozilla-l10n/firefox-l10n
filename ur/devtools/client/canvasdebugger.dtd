@@ -22,7 +22,7 @@
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "پر کلک کریں">
-
+<!ENTITY canvasDebuggerUI.emptyNotice2    "ایک حرکت اندازی فریم اسٹیک کال ریکارڈ کرنے کے لئے بٹن۔">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 

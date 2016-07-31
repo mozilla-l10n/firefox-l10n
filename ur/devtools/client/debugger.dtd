@@ -35,11 +35,11 @@
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
 
-<!ENTITY debuggerUI.sources.blackBoxTooltip "ٹوگل سیاہ باکسنگ">
+<!ENTITY debuggerUI.sources.blackBoxTooltip "سیاہ باکسنگ ٹوگل کریں">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
 
-<!ENTITY debuggerUI.sources.prettyPrint "ماخذ سںوارنا ">
+<!ENTITY debuggerUI.sources.prettyPrint "ماخذ سواریں">
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
 
@@ -90,7 +90,7 @@
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 
-<!ENTITY debuggerUI.showOnlyEnum           "صرف شمار پزیر خواص دکھائیں">
+<!ENTITY debuggerUI.showOnlyEnum           "صرف قابل شمار پراپرٹیز دکھائیں">
 <!ENTITY debuggerUI.showOnlyEnum.accesskey "پ">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
@@ -101,6 +101,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
+
+<!ENTITY debuggerUI.autoBlackBox           "خودکار طور پر بلیک باکس minifiedذرائع">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
@@ -110,8 +112,8 @@
   -  in the source editor's context menu for the scripts search operation. -->
 
 <!ENTITY debuggerUI.searchFile           "نوشتہ فلٹر کریں">
-<!ENTITY debuggerUI.searchFile.key       "پی">
-<!ENTITY debuggerUI.searchFile.altkey    "او">
+<!ENTITY debuggerUI.searchFile.key       "P">
+<!ENTITY debuggerUI.searchFile.altkey    "O">
 <!ENTITY debuggerUI.searchFile.accesskey "پ">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
@@ -122,7 +124,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
-<!ENTITY debuggerUI.searchFunction           "تلاش براۓ تفائل تعریف">
+<!ENTITY debuggerUI.searchFunction           "تقریب تعریف کے لئے تلاش کریں">
 <!ENTITY debuggerUI.searchFunction.key       "ڈ">
 <!ENTITY debuggerUI.searchFunction.accesskey "د">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
@@ -147,7 +149,7 @@
   -  in the source editor's context menu for the variables focus operation. -->
 
 <!ENTITY debuggerUI.focusVariables           "متغیرہ شجر پر ماسکہ کریں">
-<!ENTITY debuggerUI.focusVariables.key       "وی">
+<!ENTITY debuggerUI.focusVariables.key       "V">
 <!ENTITY debuggerUI.focusVariables.accesskey "ط">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
@@ -167,6 +169,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 
+<!ENTITY debuggerUI.seEditMenuCondBreak     "مشروط بریک پوائنٹ کی تدوین کریں">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
@@ -191,7 +195,7 @@
 
 <!ENTITY debuggerUI.removeAllWatch           "تمام تراکیب نگہبانی ہٹائیں">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
-<!ENTITY debuggerUI.removeAllWatch.accesskey "ای">
+<!ENTITY debuggerUI.removeAllWatch.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
