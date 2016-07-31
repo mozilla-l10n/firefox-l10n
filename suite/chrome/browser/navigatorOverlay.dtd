@@ -23,7 +23,7 @@
 <!ENTITY printSetupCmd.accesskey "i">
 
 <!-- Edit Menu -->
-<!ENTITY findOnCmd.label "Zoeken in deze pagina…">
+<!ENTITY findOnCmd.label "Zoeken op deze pagina…">
 
 <!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Tonen/verbergen">

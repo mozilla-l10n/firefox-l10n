@@ -85,7 +85,7 @@
 <!ENTITY col.keyword.label       "Sleutelwoord">
 <!ENTITY col.description.label   "Beschrijving">
 <!ENTITY col.dateadded.label     "Toegevoegd">
-<!ENTITY col.lastmodified.label  "Laatste wijziging">
+<!ENTITY col.lastmodified.label  "Laatste gewijzigd">
 
 <!ENTITY search.label                              "Zoeken:">
 <!ENTITY search.placeholder                        "Bladwijzers doorzoeken">

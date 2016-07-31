@@ -26,11 +26,11 @@
 <!ENTITY autoTagPrefix.placeholder   "Voer een labelvoorvoegsel in">
 
 <!ENTITY locationValidate.label      "Valideren">
-<!ENTITY validateText.label          "Controleer validatie en haal een geldige URL op.">
+<!ENTITY validateText.label          "Validatie controleren en een geldige URL ophalen">
 
 <!ENTITY button.addFeed.label        "Toevoegen">
 <!ENTITY button.addFeed.accesskey    "o">
-<!ENTITY button.editFeed.label       "Bewerken">
+<!ENTITY button.editFeed.label       "Bijwerken">
 <!ENTITY button.editFeed.accesskey   "w">
 <!ENTITY button.removeFeed.label     "Verwijderen">
 <!ENTITY button.removeFeed.accesskey "V">

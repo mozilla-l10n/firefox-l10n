@@ -104,7 +104,7 @@
 <!ENTITY mediaPause.accesskey           "a">
 <!ENTITY mediaMute.label                "Dempen">
 <!ENTITY mediaMute.accesskey            "D">
-<!ENTITY mediaUnmute.label              "Dempen uitschakelen">
+<!ENTITY mediaUnmute.label              "Dempen opheffen">
 <!ENTITY mediaUnmute.accesskey          "D">
 <!ENTITY mediaPlaybackRate.label        "Afspeelsnelheid">
 <!ENTITY mediaPlaybackRate.accesskey    "s">
