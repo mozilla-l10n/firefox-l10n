@@ -55,7 +55,7 @@
 <!ENTITY  finishedBackground.name         "হালনাগাদ:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "এই হালনাগাদটি পরবর্তীতে &brandShortName; চালু হওয়ার সময় ইনস্টল করা হবে। আপনি &brandShortName; এখন পুনরায় শুরু করতে পারেন, অথবা এখন কাজ চালিয়ে যান এবং পরে পুনরায় শুরু করুন।">
-
+<!ENTITY  finishedBackground.moreElevated "এই হালনাগাদের জন্য আপনার অ্যাডমিনিস্ট্রেটর অধিকার প্রয়োজন হবে। এই হালনাগাদ &brandShortName; পরবর্তীতে শুরুর সময়ে ইন্সটল হবে। আপনি এখন &brandShortName; রিস্টার্ট করতে পারেন, কাজ চালিয়ে যেতে এবং পরে রিস্টার্ট করতে পারেন, অথবা হালনাগাদ উপেক্ষা করতে পারেন।">
 
 <!ENTITY  update.details.label            "বিস্তারিত">
 <!ENTITY  update.installedOn.label        "ইনস্টল করার তারিখ:">
