@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "ಜಾಲತಾಣಗಳು ಪುಟಗಳನ್ನು ಮರಳಿ  ನಿರ್ದೇಶಿಸಿದಾಗ ಅಥವ ಮತ್ತೊಮ್ಮೆ ಲೋಡ್‌ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿದಾಗ ನನಗೆ ತಿಳಿಸು">
 <!ENTITY blockAutoRefresh.accesskey      "b">
-
-
+<!ENTITY useOnScreenKeyboard.label       "ಅಗತ್ಯಬಿದ್ದಾಗ ಒಂದು ಟಚ್ ಕೀಲಮಣೆಯನ್ನು ತೋರಿಸು">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "ವೀಕ್ಷಣೆ">
 

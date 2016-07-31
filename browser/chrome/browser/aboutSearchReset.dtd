@@ -6,6 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "ನಿಮ್ಮ ಹುಡುಕು ಸಿದ್ಧತೆಗಳನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸಬೇಕೆ?">
 
+<!ENTITY searchreset.pageInfo1      "ನಿಮ್ಮ ಹುಡುಕಾಟದ ಸಿದ್ಧತೆಗಳು ಹಳೆಯದಾಗಿರಬಹುದು. &brandShortName; ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕಾಟದ ಸಿದ್ಧತೆಗಳನ್ನು ಮರಳಿಸ್ಥಾಪಿಸಲು ನಿಮಗೆ ನೆರವಾಗಬಲ್ಲದು.">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
 
