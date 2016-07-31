@@ -23,7 +23,7 @@ povezavo z <b>#1</b>, vendar ne moremo zagotoviti, da je vaša povezava res varn
 <!ENTITY certerror.whatShouldIDo.content "Če se na to stran
 ponavadi povezujete brez težav, jo morda kdo poskuša oponašati,
 zato vam nadaljevanje odsvetujemo.">
-<!ENTITY certerror.getMeOutOfHere.label "Hočem stran!">
+<!ENTITY certerror.getMeOutOfHere.label "Hočem vstran!">
 
 <!ENTITY certerror.expert.heading "Razumem tveganje">
 <!ENTITY certerror.expert.content "Če razumete, kaj se dogaja, lahko  
