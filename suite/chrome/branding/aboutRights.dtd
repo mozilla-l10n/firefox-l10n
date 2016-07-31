@@ -38,13 +38,13 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; biedt optionele diensten (‘Diensten’) aan, zoals de Add-on-suggestie en updateservice of de veilig surfen functie, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName; , zoals hieronder beschreven.  Deze diensten zijn standaard geactiveerd.  Als u de diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de functie of dienst(en) uitschakelen. Instructies over het uitschakelen van een bepaalde functie of dienst kunt u ">
+<!ENTITY rights2.webservices-a "&brandFullName; biedt optionele diensten (‘Diensten’) aan, zoals de Add-on-suggestie en updateservice of de veilig surfen functie, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName; , zoals hieronder beschreven. Deze diensten zijn standaard geactiveerd. Als u de diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u de functie of dienst(en) uitschakelen. Instructies over het uitschakelen van een bepaalde functie of dienst kunt u ">
 <!ENTITY rights2.webservices-b "hier">
 <!ENTITY rights2.webservices-c " vinden. Andere onderdelen en diensten kunnen worden uitgeschakeld in de voorkeuren van de toepassing.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Add-ondiensten: ">
-<!ENTITY rights.addons-b "standaard suggereert &brandShortName; add-ons op de &view.discover.label;-pagina en zal periodiek controleren op updates.  Als u de functie volledig wilt uitschakelen om informatie-uitwisseling over geïnstalleerde add-ons met de server te voorkomen, volg dan de volgende stappen:">
+<!ENTITY rights.addons-b "standaard zal &brandShortName; add-ons op de &view.discover.label;-pagina voorstellen en periodiek controleren op updates. Als u de functie volledig wilt uitschakelen om informatie-uitwisseling over geïnstalleerde add-ons met de server te voorkomen, volg dan de volgende stappen:">
 <!ENTITY rights.addons-term1 "Open de toepassingsvoorkeuren">
 <!ENTITY rights.addons-term2 "Selecteer in de &advance.label; categorie het &smart.label;-paneel ">
 <!ENTITY rights.addons-term3 "Vink de opties ‘&autoAddOnsUpdates.label;’ en ‘&enablePersonalized.label;’ uit">
