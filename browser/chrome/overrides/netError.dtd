@@ -34,7 +34,7 @@
 <!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Preverite, ali so bile velike in male črke v imenu datoteke pravilno natipkane in da ni drugih napak.</li>
+  <li>Preverite, ali so bile velike in male črke v imenu datoteke pravilno uporabljene in da ni drugih tipkarskih napak.</li>
   <li>Preverite, ali je bila datoteka premaknjena, preimenovana ali izbrisana.</li>
 </ul>">
 
@@ -162,7 +162,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine strani.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Napaka zaradi pokvarjene vsebine">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je bila zaznana napaka pri prenosu podatkov.</p><ul><li>O težavi obvestite lastnike spletne strani.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je bila zaznana napaka pri prenosu podatkov.</p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo...">

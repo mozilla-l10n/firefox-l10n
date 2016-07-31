@@ -72,8 +72,8 @@
                                            storite zdaj ali nadaljujete z delom in ga ponovno zaženete pozneje.">
 <!ENTITY  finishedBackground.moreElevated "Ta posodobitev zahteva skrbniška dovoljenja. Posodobitev bo
                                            nameščena, ko se &brandShortName; naslednjič zažene. &brandShortName;
-                                           lahko ponovno zaženete zdaj, nadaljujete z delom in ponovno zaženete
-                                           kasneje ali zavrnete to posodobitev.">
+                                           lahko ponovno zaženete zdaj, nadaljujete z delom in ga ponovno zaženete
+                                           pozneje ali zavrnete to posodobitev.">
 
 <!ENTITY  update.details.label            "Podrobnosti">
 <!ENTITY  update.installedOn.label        "Datum namestitve:">
