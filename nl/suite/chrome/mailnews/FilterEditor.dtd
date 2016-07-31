@@ -7,7 +7,7 @@
 <!ENTITY filterName.label "Filternaam:">
 <!ENTITY filterName.accesskey "F">
 
-<!ENTITY recentFolders.label "Recent">
+<!ENTITY recentFolders.label "Recente">
 
 <!ENTITY junk.label "Ongewenst bericht">
 <!ENTITY notJunk.label "Geen ongewenst bericht">

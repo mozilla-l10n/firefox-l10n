@@ -40,7 +40,7 @@
 
 <!ENTITY cookies.tree.host.label "Website">
 <!ENTITY cookies.tree.name.label "Cookienaam">
-<!ENTITY cookies.tree.expires.label "Verloopt">
+<!ENTITY cookies.tree.expires.label "Verloopt op">
 
 <!ENTITY cookies.infobox.label "Informatie over het geselecteerde cookie">
 

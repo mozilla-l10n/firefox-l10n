@@ -8,7 +8,7 @@
 <!ENTITY     div.cookiesonsystem.label      "Op uw computer opgeslagen cookies bekijken en verwijderen.">
 <!ENTITY     treehead.cookiename.label      "Cookienaam">
 <!ENTITY     treehead.cookiedomain.label    "Website">
-<!ENTITY     treehead.cookieexpires.label   "Verloopt">
+<!ENTITY     treehead.cookieexpires.label   "Verloopt op">
 <!ENTITY     treehead.infoselected.label    "Informatie over het geselecteerde cookie">
 <!ENTITY     button.removecookie.label      "Cookie verwijderen">
 <!ENTITY     button.removecookie.accesskey  "v">

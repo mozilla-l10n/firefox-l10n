@@ -77,7 +77,7 @@
 
 <!ENTITY viewSecurityInfo.label      "Beveiligingsinfo bekijken">
 <!ENTITY viewSecurityInfo.accesskey  "i">
-<!ENTITY viewCertificate.label       "Certificaten bekijken">
+<!ENTITY viewCertificate.label       "Certificaat bekijken">
 <!ENTITY viewCertificate.accesskey   "C">
 <!ENTITY viewCertManager.label       "Certificatenbeheerder openen">
 <!ENTITY viewCertManager.accesskey   "b">
