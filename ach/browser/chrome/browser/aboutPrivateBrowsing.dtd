@@ -21,10 +21,10 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "alamabuk">
 <!ENTITY aboutPrivateBrowsing.note.before                "Yeny i mung ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "pe weko i bedo ma pe ingene">
-
-
-
+<!ENTITY aboutPrivateBrowsing.note.after                 " i intanet. Lami ni tic onyo tic me intanet pud twero ngeno potbuk ma ilimo.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Nong ngec mapol ikom">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Yeny i mung">
 
 <!ENTITY trackingProtection.title                        "Gwokke ikom lubo kor">
 
-
+<!ENTITY trackingProtection.startTour1                   "Nen kit ma tiyo kwede">
