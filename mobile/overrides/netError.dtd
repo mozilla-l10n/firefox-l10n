@@ -37,7 +37,7 @@
 <!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Preverite, ali so bile velike in male črke v imenu datoteke pravilno natipkane in da ni drugih napak.</li>
+  <li>Preverite, ali so bile velike in male črke v imenu datoteke pravilno uporabljene in da ni drugih tipkarskih napak.</li>
   <li>Preverite, ali je bila datoteka premaknjena, preimenovana ali izbrisana.</li>
 </ul>">
 
