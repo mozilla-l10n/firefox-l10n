@@ -306,7 +306,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Nieuwe ankerverwijzing invoegen of eigenschappen van geselecteerde ankerverwijzing bewerken">
 <!ENTITY TextColorButton.tooltip "Kleur voor tekst kiezen">
 <!ENTITY BackgroundColorButton.tooltip "Kleur voor achtergrond kiezen">
-<!ENTITY throbber.tooltip "Naar de &vendorShortName;-beginpagina gaan">
+<!ENTITY throbber.tooltip "Naar de &vendorShortName;-startpagina">
 <!ENTITY HighlightColorButton.tooltip "Markeringskleur voor tekst kiezen">
 
 <!-- Editor toolbar -->
