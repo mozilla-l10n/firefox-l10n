@@ -179,7 +179,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine strani.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Napaka zaradi pokvarjene vsebine">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Strani, ki si jo poskušate ogledati, ni mogoče prikazati, ker je bila zaznana napaka v prenosu podatkov.</p><ul><li>O tej težavi obvestite lastnike spletne strani.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Strani, ki si jo poskušate ogledati, ni mogoče prikazati, ker je bila zaznana napaka v prenosu podatkov.</p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo ...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hočem stran!">

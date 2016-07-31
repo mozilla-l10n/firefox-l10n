@@ -810,6 +810,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "Odpri zaznamke">
 
 <!ENTITY helper_triple_readerview_open_title "Na voljo brez povezave">
-<!ENTITY helper_triple_readerview_open_message "Dodajte predmete bralnega pogleda med zaznamke, da jih boste brali tudi v načinu brez povezave.">
+<!ENTITY helper_triple_readerview_open_message "Dodajte predmete bralnega pogleda med zaznamke za branje brez povezave.">
 <!ENTITY helper_triple_readerview_open_button "Dodaj med zaznamke">
 
