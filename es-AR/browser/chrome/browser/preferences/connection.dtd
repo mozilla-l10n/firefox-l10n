@@ -32,7 +32,6 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label          "DNS remoto">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "Puerto:">
 <!ENTITY  HTTPport.accesskey            "P">
@@ -47,4 +46,3 @@
 <!ENTITY  autologinproxy.label          "No pedir autenticación si la contraseña está guardada">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Esta opción autentica silenciosamente a los proxys cuand se han gardado credenciales para ellos. Se pedirá si falla la autenticación.">
-
