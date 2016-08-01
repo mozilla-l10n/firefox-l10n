@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "බලැති (Enable) කරන්න">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ඇඩෝන යාවත්කාලීන කිරීමේ ආරක්ෂක සැකසුම් බලැතා (Enable) කරන්න">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "ඔබගේ ප්ලගීන යාවත්කාලීනව ඇත්නම් පරීක්ෂා කරන්න">
-<!ENTITY info.plugincheck.tooltip               "ඔබගේ ප්ලගීන යාවත්කාලීනව ඇත්නම් පරීක්ෂා කරන්න">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "සොයන්න">
 <!ENTITY view.discover.label                  "ඇඩෝන ලබා ගන්න">

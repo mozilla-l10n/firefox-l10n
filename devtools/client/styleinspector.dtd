@@ -33,7 +33,3 @@
   -  properties to display e.g. due to search criteria this message is
   -  displayed. -->
 <!ENTITY noPropertiesFound     "CSS ලක්ෂණයන් හමු නොවීය.">
-
-<!-- FIXME: notes -->
-<!ENTITY computedViewTitle     "ගණනය කළ">
-<!ENTITY ruleViewTitle         "රීති">

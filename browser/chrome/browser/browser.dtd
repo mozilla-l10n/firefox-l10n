@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "දැන් පූර්ණ තිරයේ">
 <!ENTITY fullscreenWarning.generic.label "මෙම ලේඛනය දැන් පූර්ණ තිරයේ">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +136,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "පූර්ණ තිරයෙන් පිටවන්න (esc)">
 <!ENTITY leaveDOMFullScreen.label "පූර්ණ තිරයෙන් පිටවන්න">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "කවුළුව වසන්න">
 <!ENTITY closeWindow.accesskey "d">
@@ -771,12 +778,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "වැඩතල දැන්වීම් (n)">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "<label/> වෙතින් ලැබෙන සේවාවන් සක්‍රීයයි. ඔබට <label class='text-link'>ඇඩෝන කළමණාකරු</label> හරහා සේවාවන් හි සැකසුම් වෙනස් කළ හැක.">
-<!ENTITY social.activated.undo.label "ඌපස්, මෙය අවලංගු කරන්න! (u)">
-<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "තවත් දැනගන්න... (L)">
 <!ENTITY social.learnMore.accesskey "L">
-<!ENTITY social.closeNotificationItem.label "දැන් නොවේ">
 
 <!ENTITY social.directory.label "සක්‍රීයකිරීම් නාමාවලිය">
 <!ENTITY social.directory.text "ඔබට නාමාවලිය වෙතින් බෙදාගැනීමේ සේවා සක්‍රීය කළ හැක.">

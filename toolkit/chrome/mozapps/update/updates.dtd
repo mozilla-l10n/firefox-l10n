@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "යාවත්කාල කිරීම් සඳහා පරික්ෂා කිරීම">
 <!ENTITY  updateCheck.label               "&brandShortName; හි නවතම වෙමක් සොයමින්…">
 
-<!ENTITY  pluginupdatesfound.title        "ප්ලගීන සඳහා යාවත්කාලීන හමුවිය">
-<!ENTITY  pluginupdatesfound.label        "ඔබගේ ප්ලගීන එකක් හෝ කිහිපයක් සඳහා නව නිකුතූන් හමුවිය.">
-<!ENTITY  pluginupdateslink.label         "ඔබගේ ප්ලගීන යාවත්කාලීන කරන්නේ කෙසේදැයි බලන්න.">
-
 <!ENTITY  noupdatesfound.title            "යාවත්කාල කිරීම් හමු නොවුනි">
 <!ENTITY  noupdatesautoenabled.intro      "යාවත් කිරීමට කිසිවක් නොමැත. &brandShortName; වරින් වර 
 යාවත් කිරීම් ඇත් දැයි සොයනු ඇත.">
