@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
- <!-- File Menu -->
+<!-- File Menu -->
 <!ENTITY tabCmd.label "Pestaña de navegador">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
@@ -44,8 +44,8 @@
 <!ENTITY useStyleSheetNone.accesskey "N">
 <!ENTITY useStyleSheetPersistentOnly.label "Estilo predefinido">
 <!ENTITY useStyleSheetPersistentOnly.accesskey "d">
-<!ENTITY bidiSwitchPageDirectionItem.label        "Cambiar dirección de la página">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchPageDirectionItem.label "Cambiar dirección de la página">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
 <!ENTITY pageSourceCmd.label "Código fuente de la página">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -58,9 +58,9 @@
 <!ENTITY goMenu.accesskey "I">
 <!ENTITY goHomeCmd.label "Inicio">
 <!ENTITY goHomeCmd.accesskey "I">
-<!ENTITY historyCmd.label           "Historial">  
-<!ENTITY historyCmd.accesskey       "i">
-<!ENTITY history.commandKey         "h">
+<!ENTITY historyCmd.label "Historial">
+<!ENTITY historyCmd.accesskey "i">
+<!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Pestañas cerradas recientemente">
 <!ENTITY recentTabs.accesskey "r">
 <!ENTITY recentTabs.commandkey "t">
@@ -69,7 +69,7 @@
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY historyRestoreLastSession.label "Restaurar sesión previa">
 <!ENTITY historyRestoreLastSession.accesskey "R">
-<!ENTITY syncTabsMenu.label         "Pestañas de otras computadoras">
+<!ENTITY syncTabsMenu.label "Pestañas de otras computadoras">
 <!ENTITY syncTabsMenu.accesskey "o">
 
 <!-- Bookmarks Menu -->
@@ -122,18 +122,11 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Las imágenes de este sitio no serán descargadas nunca.">
 
-<!ENTITY cookieAllowPopupsCmd.label                  "Permitir ventanas emergentes de este sitio">
-<!ENTITY cookieAllowPopupsCmd.accesskey              "a">
-<!ENTITY cookieManagePopups.label                    "Administrar ventanas emergentes">
-<!ENTITY cookieManagePopups.accesskey                "m">
 
 <!ENTITY cookieCookieManager.label "Administrador de cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Administrador de imágenes">
 <!ENTITY cookieImageManager.accesskey "i">
-<!ENTITY cookiePopupManager.label "Administrador de ventanas emergentes">
-<!ENTITY cookiePopupManager.accesskey "o">
 
 <!ENTITY clearPrivateDataCmd.label "Borrar datos privados…">
 <!ENTITY clearPrivateDataCmd.accesskey "B">
-
