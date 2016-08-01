@@ -52,7 +52,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "ব্যবহারকারী এজেন্ট">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "মেমোরির ব্যবহার">
-
+<!ENTITY aboutSupport.appBasicsPerformance "কার্যকারিতা">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "নিবন্ধিত সার্ভিস কর্মীরা">
@@ -86,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "গ্রাফিক্স">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "স্থান ডাটাবেজ">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "বিশুদ্ধতা">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "বিশুদ্ধতা যাচাই">
 
 <!ENTITY aboutSupport.jsTitle "জাভাস্ক্রিপ্ট">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
@@ -110,10 +111,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.restartInSafeMode.label "অ্যাড-অন নিস্ক্রিয় করে রিস্টার্ট করুন…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "বৈশিষ্ট্যসমূহ">
-
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "সমস্যা নির্নয়ক">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "ব্যর্থ হওয়ার লগ">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "সিদ্ধান্ত লগ">
 
 
