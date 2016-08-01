@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Comprobando anovamientos">
 <!ENTITY  updateCheck.label               "Guetando versiones nueves de &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Alcontráronse anovamientos pa los plugins">
-<!ENTITY  pluginupdatesfound.label        "Alcontráronse versiones de ún o más de los tos plugins.">
-<!ENTITY  pluginupdateslink.label         "Mira cómo anovar los tos plugins.">
-
 <!ENTITY  noupdatesfound.title            "Nun s'alcontraron anovamientos">
 <!ENTITY  noupdatesautoenabled.intro      "Nun hai anovamientos disponibles. &brandShortName;
                                            comprobará anovamientos davezu.">
