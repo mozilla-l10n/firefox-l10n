@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "离开这里！">
 <!ENTITY safeb.palm.decline.label "忽略此警告">
 <!ENTITY safeb.palm.reportPage.label "为什么拦截此页面？">
-<!ENTITY safeb.palm.whyForbidden.label "为什么拦截此页面？">
 
 <!ENTITY safeb.blocked.malwarePage.title "本页面被举报有攻击行为！">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "根据报告，位于 <span id='unwanted_sitename'/> 的此网页提供不安全的软件。现已根据您的安全选项予以拦截。">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "提供不安全的软件的网页可能会诱导您安装诈骗软件，或以其他难以预料的方式损害您的系统。">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "被拦截的站点">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "<span id='forbidden_sitename'/> 上的网页已被您的管理配置拦截。">
