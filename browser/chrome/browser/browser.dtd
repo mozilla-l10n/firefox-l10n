@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "ir pa visu ekrānu">
 <!ENTITY fullscreenWarning.generic.label "Šis dokuments ir pa visu ekrānu">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +136,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Iziet no pilnā ekrāna (esc)">
 <!ENTITY leaveDOMFullScreen.label "Iziet no pilnekrāna">
 <!ENTITY leaveDOMFullScreen.accesskey "n">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "Aizvērt logu">
 <!ENTITY closeWindow.accesskey "g">
@@ -771,12 +778,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Rādīt paziņojumus">
 <!ENTITY social.toggleNotifications.accesskey "d">
 
-<!ENTITY social.activated.description "Pakalpojumi no <label/> ir aktivēti. Pakalpojumu iestatījumus, Jūs varat mainīt <label class='text-link'>papildinājumu pārvaldniekā</label>.">
-<!ENTITY social.activated.undo.label "Uuups, atcelt šo!">
-<!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "Uzzināt vairāk…">
 <!ENTITY social.learnMore.accesskey "z">
-<!ENTITY social.closeNotificationItem.label "Ne tagad">
 
 <!ENTITY social.directory.label "Aktivāciju saraksts">
 <!ENTITY social.directory.text "Jūs varat aktivizēt dalīšanās pakalpojumus no šī saraksta.">

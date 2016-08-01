@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Pārbauda atjauninājumus">
 <!ENTITY  updateCheck.label               "Meklē jaunāku &brandShortName; versiju…">
 
-<!ENTITY  pluginupdatesfound.title        "Atrasti spraudņu atjauninājumi">
-<!ENTITY  pluginupdatesfound.label        "Vienam vai vairākiem spraudņiem atrastas jaunākas versijas.">
-<!ENTITY  pluginupdateslink.label         "Uzziniet kā atjaunināt spraudņus.">
-
 <!ENTITY  noupdatesfound.title            "Nav atrasti atjauninājumi">
 <!ENTITY  noupdatesautoenabled.intro      "Jaunu atjauninājumu nav. &brandShortName; ik pa brīdim pārbaudīs atjauninājumus.">
 <!ENTITY  noupdatesautodisabled.intro     "Jaunu atjauninājumu nav. Pārbaudiet tos vēlreiz vēlāk vai arī aktivizējiet &brandShortName; automātisko atjauninājumu pārbaudi.">
