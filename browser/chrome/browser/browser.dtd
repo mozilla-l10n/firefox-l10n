@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "ਹੁਣ ਪੂਰੀ ਸਕਰੀਨ \u0027ਤੇ ਹੈ">
 <!ENTITY fullscreenWarning.generic.label "ਇਹ ਦਸਤਾਵੇਜ਼ ਪੂਰੀ ਸਕਰੀਨ \u0027ਤੇ ਹੈ">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +136,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ ਜਾਓ (esc)">
 <!ENTITY leaveDOMFullScreen.label "ਪੂਰੀ ਸਕਰੀਨ ਬੰਦ ਕਰੋ">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰੋ">
 <!ENTITY closeWindow.accesskey "d">
@@ -173,7 +180,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.label     "ਤਾਜ਼ਾ ਬੁੱਕਮਾਰਕ ਕੀਤਿਆਂ ਨੂੰ ਛੁਪਾਓ">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
-
 
 <!ENTITY backCmd.label                "ਪਿੱਛੇ">
 <!ENTITY backButton.tooltip           "ਇੱਕ ਪਿਛਲੇ ਸਫ਼ੇ 'ਤੇ ਜਾਓ">
@@ -574,7 +580,6 @@ fast. -->
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
 <!ENTITY mediaLoop.label             "ਲੂਪ">
 <!ENTITY mediaLoop.accesskey         "L">
-
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -774,12 +779,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "ਡੈਸਕਟਾਪ ਸੂਚਨਾਵਾਂ ਨੂੰ ਵੇਖਾਓ">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "<label/> ਤੋਂ ਸੇਵਾਵਾਂ ਨੂੰ ਚਾਲੂ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ। ਤੁਸੀਂ ਸੇਵਾਵਾਂ ਨੂੰ <label class='text-link'>ਐਡ-ਆਨ ਮੈਨੇਜਰ</label> ਵਿੱਚੋਂ ਆਪਣੀ ਸੈਟਿੰਗ ਰਾਹੀਂ ਬਦਲ ਸਕਦੇ ਹੋ।">
-<!ENTITY social.activated.undo.label "ਓਹ, ਇਹ ਵਾਪਿਸ ਲਵੋ!">
-<!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "…ਹੋਰ ਜਾਣੋ">
 <!ENTITY social.learnMore.accesskey "l">
-<!ENTITY social.closeNotificationItem.label "ਹੁਣੇ ਨਹੀਂ">
 
 <!ENTITY social.directory.label "ਸਰਗਰਮ ਡਾਇਰੈਕਟਰੀ">
 <!ENTITY social.directory.text "ਤੁਸੀਂ ਡਾਇਰੈਕਟਰੀ ਨੂੰ ਸਾਂਝੀਆਂ ਸੇਵਾਵਾਂ ਨੂੰ ਸਰਗਰਮ ਕਰ ਸਕਦੇ ਹੋ।">

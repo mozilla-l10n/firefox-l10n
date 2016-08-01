@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY  updateCheck.label               "&brandShortName; ਦੇ ਨਵੇਂ ਵਰਜਨਾਂ ਲਈ ਖੋਜ ਜਾਰੀ…">
 
-<!ENTITY  pluginupdatesfound.title        "ਪਲੱਗਇਨ ਲਈ ਅੱਪਡੇਟ ਮਿਲੇ">
-<!ENTITY  pluginupdatesfound.label        "ਤੁਹਾਡੀਆਂ ਇੱਕ ਜਾਂ ਵੱਧ ਪਲੱਗਇਨ ਲਈ ਨਵੇਂ ਵਰਜਨ ਮਿਲੇ ਹਨ।">
-<!ENTITY  pluginupdateslink.label         "ਆਪਣੀ ਪਲੱਗਇਨ ਕਿਵੇਂ ਅੱਪਗਰੇਡ ਕਰਨੀ ਹੈ ਵੇਖੋ।">
-
 <!ENTITY  noupdatesfound.title            "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਮਿਲਿਆ ਹੈ">
 <!ENTITY  noupdatesautoenabled.intro      "ਕੋਈ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ। &brandShortName; ਅੱਪਡੇਟ ਲਈ ਲਗਾਤਾਰ ਚੈੱਕ ਕਰਦਾ ਰਹੇਗਾ।">
 <!ENTITY  noupdatesautodisabled.intro     "ਕੋਈ ਵੀ ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ। ਜਾਂ ਤਾਂ ਬਾਅਦ ਵਿੱਚ ਚੈੱਕ ਕਰੋ ਜਾਂ 
@@ -65,10 +61,10 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "ਅੱਪਡੇਟ ਨੂੰ ਅਗਲੀ ਵਾਰ &brandShortName; ਚਾਲੂ ਹੋਣ ਉੱਤੇ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ
                                             &brandShortName; ਨੂੰ ਹੁਣ ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਆਪਣਾ ਕੰਮ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ।">
-
 <!ENTITY  finishedBackground.moreElevated "ਇਸ ਅੱਪਡੇਟ ਲਈ ਪਰਸ਼ਾਸ਼ਕ ਅਧਿਕਾਰਾਂ ਦੀ ਲੋੜ ਹੈ। ਅੱਪਡੇਟ ਨੂੰ ਅਗਲੀ ਵਾਰ &brandShortName; ਸ਼ੁਰੂ ਹੋਣ ਉੱਤੇ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਹੁਣੇ 
                                            &brandShortName; ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ, ਕੰਮ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਤੇ ਬਾਅਦ ਵਿੱਚ ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਇਸ ਅੱਪਡੇਟ ਨੂੰ
                                            ਰੱਦ ਵੀ ਕਰ ਸਕਦੇ ਹੋ।">
+
 <!ENTITY  update.details.label            "ਵੇਰਵੇ">
 <!ENTITY  update.installedOn.label        "ਇੰਸਟਾਲ ਕੀਤੇ:">
 <!ENTITY  update.status.label             "ਹਾਲਤ:">
