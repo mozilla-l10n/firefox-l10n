@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "Povolit">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Povolí kontrolu bezpečné aktualizace doplňků">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Zkontrolovat aktuálnost zásuvných modulů">
-<!ENTITY info.plugincheck.tooltip               "Zkontroluje, zda jsou zásuvné moduly aktuální">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Hledat">
 <!ENTITY view.discover.label                  "Získání doplňků">
