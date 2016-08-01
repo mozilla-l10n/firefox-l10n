@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bainvegni">
-<!ENTITY  onboard_start_message3 "Navigar cun &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Adattescha il navigar mobil a tes giavischs.">
 
 <!ENTITY firstrun_urlbar_message "Bainvegni a &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Chattar pli spert quai che ti tschertgas – grazia a las propostas da tschertgar.">
@@ -21,17 +19,23 @@
 <!ENTITY  onboard_start_button_browser "Cumenzar a navigar">
 <!ENTITY firstrun_button_next "Enavant">
 
-<!ENTITY  onboard_start_restricted1 "Resta segir e mantegna la controlla cun questa versiun simplifitgada da &brandShortName;.">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
+
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+<!ENTITY  onboard_start_restricted1 "Resta segir e mantegna la controlla cun questa versiun simplifitgada da &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Segnapaginas">
 <!ENTITY  history_title "Cronologia">
-<!ENTITY  reading_list_title "Glista da lectura">
-<!ENTITY  recent_tabs_title "Ultims tabs">
 
 <!ENTITY  switch_to_tab "Midar al tab">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "Rapportader da collaps da &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; ha gì in problem ed è collabà. Tes tabs duessan vegnir mussads sin la pagina da partenza da &brandShortName; sche ti reavieschas.">
@@ -61,6 +65,9 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -159,6 +166,9 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_category_advanced "Avanzà">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_developer_remotedebugging_usb "Debugging a distanza via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Debugging a distanza via WLAN">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Per utilisar il debugging a distanza via WLAN sto tes apparat disponer dad ina applicaziun per leger codes QR.">
@@ -202,6 +212,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Activà, senza tals da terzs">
 <!ENTITY pref_cookies_disabled "Deactivà">
 
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 
 <!ENTITY pref_tap_to_load_images_title2 "Mussar maletgs">
 <!ENTITY pref_tap_to_load_images_enabled "Adina">
@@ -217,6 +230,15 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Activà en il modus privat">
 <!ENTITY pref_tracking_protection_disabled "Deactivà">
 
+
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY tracking_protection_prompt_title "Ussa cun protecziun cunter il fastizar">
 <!ENTITY tracking_protection_prompt_text "Bloccar activamain elements che fastizeschan per che ti na stos betg t\&apos;occupar dad els.">
@@ -254,6 +276,10 @@
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -495,13 +521,12 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "Partenza da &brandShortName;">
 <!ENTITY home_history_title "Cronologia">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_clear_history_button "Stizzar la cronologia">
 <!ENTITY home_clear_history_confirm "Vuls ti propi stizzar la cronologia?">
 <!ENTITY home_bookmarks_empty "Segnapaginas che ti memoriseschas cumparan qua.">
-<!ENTITY home_closed_tabs_title "Tabs serrads dacurt">
-<!ENTITY home_last_tabs_title "Tabs da l\&apos;ultima giada">
 <!ENTITY home_last_tabs_empty "Tabs averts dacurt cumparan qua.">
-<!ENTITY home_open_all "Avrir tuts">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Paginas visitadas dacurt cumparan qua.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -552,7 +577,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Connexiun segirada">
 <!ENTITY identity_connection_insecure "Connexiun betg segirada">
-<!ENTITY identity_login_insecure "Questa pagina n\&apos;è betg segira e tias datas d\&apos;annunzia pudessan esser periclitadas.">
 <!ENTITY identity_connection_chromeui "Quai è ina pagina segira da &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
@@ -725,5 +749,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+
+
 
 
