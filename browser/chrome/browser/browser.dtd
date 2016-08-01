@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "이 전체화면 표시 모드임">
 <!ENTITY fullscreenWarning.generic.label "이 문서는 전체 화면 표시 모드임">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +136,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "전체 화면 표시 모드 종료(esc)">
 <!ENTITY leaveDOMFullScreen.label "전체 화면 표시 모드 종료">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "창 닫기">
 <!ENTITY closeWindow.accesskey "d">
@@ -771,12 +778,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "데스크톱에서 알림 보기">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "<label/>의 서비스가 활성화되었습니다. <label class='text-link'>부가 기능 관리자</label>에서 이 서비스에 대한 설정을 바꿀 수 있습니다.">
-<!ENTITY social.activated.undo.label "앗, 되돌려 주세요!">
-<!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "더 알아보기…">
 <!ENTITY social.learnMore.accesskey "l">
-<!ENTITY social.closeNotificationItem.label "나중에">
 
 <!ENTITY social.directory.label "활성화 목록">
 <!ENTITY social.directory.text "이 목록에서 공유 서비스를 활성화할 수 있습니다.">
