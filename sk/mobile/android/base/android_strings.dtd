@@ -44,9 +44,10 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Záložky">
 <!ENTITY  history_title "História">
-<!ENTITY  recent_tabs_title "Nedávne karty">
 
 <!ENTITY  switch_to_tab "Prejsť na kartu">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "Oznamovateľ zlyhania prehliadača &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; zistil problém a zlyhal. Otvorené karty by mali byť po reštart dostupné na Úvodnej stránke &brandShortName;u.">
@@ -269,6 +270,15 @@
 
 <!ENTITY pref_whats_new_notification "Novinky v aplikácii &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Po aktualizácii si pozrite informácie o nových funkciách">
+
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY tracking_protection_prompt_title "Teraz s Ochranou pred sledovaním">
 <!ENTITY tracking_protection_prompt_text "Aktívne blokuje prvky umožňujúce sledovanie, takže sa už viac nemusíte obávať.">
@@ -570,10 +580,8 @@ size. -->
 <!ENTITY home_clear_history_button "Vymazať históriu prehliadania">
 <!ENTITY home_clear_history_confirm "Naozaj chcete vymazať svoju históriu prehliadania?">
 <!ENTITY home_bookmarks_empty "Tu sa zobrazujú uložené záložky">
-<!ENTITY home_closed_tabs_title "Nedávno zatvorené karty">
-<!ENTITY home_last_tabs_title "Karty z poslednej relácie">
 <!ENTITY home_last_tabs_empty "Tu sa zobrazujú karty otvorené pri ukončení poslednej relácie">
-<!ENTITY home_open_all "Otvoriť všetky">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Tu sa zobrazujú naposledy navštívené stránky">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +633,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Bezpečné pripojenie">
 <!ENTITY identity_connection_insecure "Nezabezpečené pripojenie">
-<!ENTITY identity_login_insecure "Táto stránka nie je zabezpečená a vaše prihlásenie môže byť prezradené.">
 <!ENTITY identity_connection_chromeui "Toto je bezpečná stránka prehliadača &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
