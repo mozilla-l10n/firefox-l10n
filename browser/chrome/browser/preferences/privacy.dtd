@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "设置…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY  browserContainersHeader.label         "容器标签页">
+<!ENTITY  browserContainersLearnMore.label      "详细了解">
+<!ENTITY  browserContainersEnabled.label        "启用容器标签页">
+<!ENTITY  browserContainersEnabled.accesskey    "n">

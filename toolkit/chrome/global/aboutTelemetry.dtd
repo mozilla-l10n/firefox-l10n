@@ -52,6 +52,10 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  线程挂起">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  标量
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "  直方图">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "键控直方图">
