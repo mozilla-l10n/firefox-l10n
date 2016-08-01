@@ -99,11 +99,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY leaveDOMFullScreen.label "Génn yambalaŋ">
 <!ENTITY leaveDOMFullScreen.accesskey "G">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "Tëj palanteer bi">
 <!ENTITY closeWindow.accesskey "T">
@@ -149,6 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Mandarga xët yi">
 <!ENTITY viewBookmarksToolbar.label         "Sa banqaasu bopp">
+
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -399,7 +407,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "u">
 <!ENTITY mediaUnmute.label           "Dektu">
 <!ENTITY mediaUnmute.accesskey       "e">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and

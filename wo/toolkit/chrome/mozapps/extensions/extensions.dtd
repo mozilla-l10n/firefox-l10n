@@ -4,7 +4,6 @@
 <!ENTITY addons.windowTitle                   "Saytukatu modili mottali yi">
 
 <!ENTITY search.placeholder                   "Wut ci biir modili yokk yépp">
-
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -25,7 +24,6 @@
 
 
 <!-- global warnings -->
-
 <!ENTITY warning.safemode.label                    "Anamu ñakk lajj suuxal na modili yokk yépp.">
 <!ENTITY warning.checkcompatibility.label          "Wóorliku andu modili mottali yi dafa suux. Xëyna dafa am ay modil yu mënula and.">
 <!ENTITY warning.checkcompatibility.enable.label   "Suqali">
@@ -33,16 +31,13 @@
 <!ENTITY warning.updatesecurity.label              "Wóoralu yeesali kaarange modili mottali yi dafa suux. Xëyna da nga am ay modili mottali yu wóorul.">
 <!ENTITY warning.updatesecurity.enable.label       "Suqali">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Suqali wóoralu yeesali kaaraange yu modili mottali yi">
-<!-- global informations -->
 
-<!ENTITY info.plugincheck.label                 "Seetal ndax plugins yi yees nañu">
-<!ENTITY info.plugincheck.tooltip               "Seetal ndax plugins yi yees nañu">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Katalog">
 <!ENTITY view.recentUpdates.label             "Yeesal">
 <!ENTITY view.availableUpdates.label          "Yeesal yi féex">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Wut ay yeesal">
 <!ENTITY updates.checkForUpdates.accesskey    "W">
 <!ENTITY updates.viewUpdates.label            "Wone yeesal yi bees">
@@ -70,8 +65,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Wone yeesal yi féex">
 <!ENTITY updates.updateSelected.label         "Samp yeesal yi">
 <!ENTITY updates.updateSelected.tooltip       "Samp yeesal yi féex ci lim bii">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Wone xibaar yi">
 <!ENTITY cmd.showDetails.accesskey            "W">
 <!ENTITY cmd.findUpdates.label                "Wut yeesal yi">
@@ -91,19 +86,10 @@
 <!ENTITY cmd.enableTheme.accesskey            "D">
 <!ENTITY cmd.disableTheme.label               "Dindi tem bi">
 <!ENTITY cmd.disableTheme.accesskey           "D">
-
-
-
-
-
-
-
 <!ENTITY cmd.installAddon.label               "Samp">
 <!ENTITY cmd.installAddon.accesskey           "S">
 <!ENTITY cmd.uninstallAddon.label             "Neenal">
 <!ENTITY cmd.uninstallAddon.accesskey         "N">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Tànnéef yi">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Soppali tànnéefi modili mottali yi">
 <!ENTITY cmd.showPreferencesUnix.label        "Taamu yi">
@@ -116,18 +102,18 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Wone karmati sumb bu yeesal bii">
 <!ENTITY cmd.hideReleaseNotes.label           "Nëbb karmati sumb ">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Nëbb karmati sumbu yeesal bii">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Yan ñooy modili mottali yi">
 <!ENTITY discover.description2                "Modili mottali yi ay jëfekaay lañu yu lay may nga solal &brandShortName; 
 ak gëddë walla melin yi yokku. Gañeel diir ak benn pano wet,seet metewo walla nga soppi melokaanu &brandShortName; 
 numu la neexe.">
 <!ENTITY discover.footer                      "Bu sa jokkoo internet suqallikoo, pano bi dina la may nga gis
 yenn ci modili mottali yi gën te gëna siiw.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Sumb">
 <!ENTITY detail.lastupdated.label             "Yeesal bi mujj">
 <!ENTITY detail.creator.label                 "Tallalkat">
@@ -156,17 +142,17 @@ yenn ci modili mottali yi gën te gëna siiw.">
 <!ENTITY detail.showPreferencesUnix.label     "Taamu yi">
 <!ENTITY detail.showPreferencesUnix.accesskey "T">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Soppi taamu modil bi">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Yëgg">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Tekkeeral">
 <!ENTITY progress.cancel.tooltip              "Neenal">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Tur">
 <!ENTITY sort.name.tooltip                    "Tànn turoo tur">
 <!ENTITY sort.dateUpdated.label               "Yeesal bi mujj">
@@ -219,6 +205,7 @@ yenn ci modili mottali yi gën te gëna siiw.">
 <!ENTITY eula.accept                          "Nangu te samp…">
 
 <!ENTITY settings.path.button.label           "Toppaatu…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
@@ -227,17 +214,9 @@ yenn ci modili mottali yi gën te gëna siiw.">
 <!ENTITY experiment.info.learnmore "Gën cee jàngaat">
 
 
-
-
-
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-
