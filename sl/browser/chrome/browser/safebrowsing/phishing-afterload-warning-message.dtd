@@ -14,7 +14,6 @@
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "z">
 <!ENTITY safeb.palm.reportPage.label "Zakaj je bila ta stran zavrnjena?">
-<!ENTITY safeb.palm.whyForbidden.label "Zakaj je bila ta stran zavrnjena?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Prijavljena napadalna stran!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -30,8 +29,4 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Spletna stran na <span id='malware_sitename'/> je bila prijavljena kot zavajajoča in je bila zavrnjena na podlagi vaših varnostnih nastavitev.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Zavajajoče strani so zasnovane, da vas napeljejo k nevarnemu dejanju, kot je npr. namestitev programske opreme ali razkritje svojih osebnih podatkov, kot so gesla, telefonske številke ali kreditne kartice.</p><p>Pri vnosu podatkov na to spletno stran lahko pride do kraje identitete ali druge prevare.</p>">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Zavrnjena stran">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Spletno stran na <span id='forbidden_sitename'/> je zavrnil vaš skrbniški profil.">
 
