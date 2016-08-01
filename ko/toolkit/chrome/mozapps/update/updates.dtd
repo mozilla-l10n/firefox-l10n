@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "새 업데이트 확인">
 <!ENTITY  updateCheck.label               "&brandShortName; 새 버전 찾기…">
 
-<!ENTITY  pluginupdatesfound.title        "신규 플러그인 업데이트">
-<!ENTITY  pluginupdatesfound.label        "설치 플러그인의 업데이트 버전이 있습니다.">
-<!ENTITY  pluginupdateslink.label         "플러그인의 업데이트 순서 확인">
-
 <!ENTITY  noupdatesfound.title            "새 업데이트 없음">
 <!ENTITY  noupdatesautoenabled.intro      "현재 업데이트가 없습니다. &brandShortName;는 주기적으로 업데이트를 확인하고 있습니다.">
 <!ENTITY  noupdatesautodisabled.intro     "현재 업데이트가 없습니다. 다시 확인 하거나 &brandShortName;가 자동 업데이트 확인을 하도록 설정하십시오.">

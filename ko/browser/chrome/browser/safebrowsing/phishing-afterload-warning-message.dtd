@@ -14,7 +14,6 @@
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
 <!ENTITY safeb.palm.reportPage.label "왜 이 페이지가 차단되었나요?">
-<!ENTITY safeb.palm.whyForbidden.label "왜 이 페이지가 차단되었나요?">
 
 <!ENTITY safeb.blocked.malwarePage.title "공격 사이트 보고!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -30,8 +29,4 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "이 <span id='phishing_sitename'/> 사이트의 웹 페이지는 가짜 사이트로 신고되었으며 당신의 보안 설정에 의해 차단했습니다.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>가짜 사이트는 프로그램을 설치하거나 비밀번호나 전화번호, 신용카드 정보와 같은 개인 정보를 가져갈 수 있도록 위험한 행동을 하게끔 속이도록 만들어 졌습니다.</p><p>웹 페이지에 정보를 입력하면 정보를 도난당하거나 다른 위협에 노출 될 수 있습니다.</p>">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "차단된 사이트">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "이 <span id='forbidden_sitename'/> 웹 페이지는 관리자 설정에 의해 차단되었습니다.">
 
