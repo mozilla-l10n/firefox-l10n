@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "ახლა სრულ ეკრანზეა">
 <!ENTITY fullscreenWarning.generic.label "ეს დოკუმენტი ახლა სრულ ეკრანზეა">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +136,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "სრული ეკრანიდან გამოსვლა (esc)">
 <!ENTITY leaveDOMFullScreen.label "სრულეკრანიანი რეჟიმიდან გამოსვლა">
 <!ENTITY leaveDOMFullScreen.accesskey "გ">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "ფანჯრის დახურვა">
 <!ENTITY closeWindow.accesskey "ხ">
@@ -771,12 +778,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "სამუშაო დაფის შეტყობინებების ჩვენება">
 <!ENTITY social.toggleNotifications.accesskey "ტ">
 
-<!ENTITY social.activated.description "<label/>-დან მომსახურებები ჩაირთო. მომსახურებების პარამეტრების შეცვლა შეგიძლიათ <label class='text-link'>მოდულების მმართველიდან</label>.">
-<!ENTITY social.activated.undo.label "ვაი, ამ მოქმედების დაბრუნება!">
-<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "გაიგეთ მეტი…">
 <!ENTITY social.learnMore.accesskey "გ">
-<!ENTITY social.closeNotificationItem.label "არა ახლა">
 
 <!ENTITY social.directory.label "აქტივაციების დირექტორია">
 <!ENTITY social.directory.text "თქვენ გაზიარების მომსახურებების გააქტიურება დირექტორიიდან შეგიძლიათ.">
