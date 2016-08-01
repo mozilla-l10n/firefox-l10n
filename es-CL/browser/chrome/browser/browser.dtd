@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "está ahora a pantalla completa">
 <!ENTITY fullscreenWarning.generic.label "Este documento está ahora a pantalla completa">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +136,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Salir de pantalla completa (esc)">
 <!ENTITY leaveDOMFullScreen.label "Salir de pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "Cerrar ventana">
 <!ENTITY closeWindow.accesskey "C">
@@ -771,12 +778,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Mostrar notificaciones de escritorio">
 <!ENTITY social.toggleNotifications.accesskey "">
 
-<!ENTITY social.activated.description "Los servicios de <label/> han sido activados. Puedes cambiar tus ajustes para los servicios en el <label class='text-link'>Administrador de complementos</label>.">
-<!ENTITY social.activated.undo.label "Chuta, ¡deshacer esto!">
-<!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "Aprender más…">
 <!ENTITY social.learnMore.accesskey "l">
-<!ENTITY social.closeNotificationItem.label "Ahora no">
 
 <!ENTITY social.directory.label "Directorio de activaciones">
 <!ENTITY social.directory.text "Puedes activar los servicios para compartir desde el directorio.">

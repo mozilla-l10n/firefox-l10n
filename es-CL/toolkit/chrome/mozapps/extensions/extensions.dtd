@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "Habilitar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Habilitar la verificación de actualizaciones de seguridad">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Verifica si tus complementos están actualizados">
-<!ENTITY info.plugincheck.tooltip               "Verifica si tus complementos están actualizados">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Buscar">
 <!ENTITY view.discover.label                  "Obtener complementos">
