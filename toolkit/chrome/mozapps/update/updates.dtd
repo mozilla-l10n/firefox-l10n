@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Перевіряється наявність оновлень…">
 <!ENTITY  updateCheck.label               "Пошук нових версій &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Знайдено оновлення плагінів">
-<!ENTITY  pluginupdatesfound.label        "Знайдено новіші версії одного чи кількох ваших плагінів.">
-<!ENTITY  pluginupdateslink.label         "Дізнайтесь як оновити ваші плагіни.">
-
 <!ENTITY  noupdatesfound.title            "Оновлення відсутні">
 <!ENTITY  noupdatesautoenabled.intro      "Оновлення відсутні. &brandShortName; буде періодично перевіряти наявніcть оновлень.">
 <!ENTITY  noupdatesautodisabled.intro     "Оновлення відсутні. Будь ласка, перевірте ще раз пізніше,
