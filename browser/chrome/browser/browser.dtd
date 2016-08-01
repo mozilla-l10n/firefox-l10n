@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "está em tela inteira">
 <!ENTITY fullscreenWarning.generic.label "Este documento está no modo de tela inteira">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +136,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Sair da tela inteira (esc)">
 <!ENTITY leaveDOMFullScreen.label "Sair da tela inteira">
 <!ENTITY leaveDOMFullScreen.accesskey "t">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "Fechar janela">
 <!ENTITY closeWindow.accesskey "h">
@@ -771,12 +778,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Mostrar notificações no desktop">
 <!ENTITY social.toggleNotifications.accesskey "E">
 
-<!ENTITY social.activated.description "Os serviços do <label/> foram ativados. Você pode alterar as configurações dos serviços no <label class='text-link'>Gerenciador de complementos</label>.">
-<!ENTITY social.activated.undo.label "Epa, desfazer isso!">
-<!ENTITY social.activated.undo.accesskey "E">
 <!ENTITY social.learnMore.label "Saiba mais…">
 <!ENTITY social.learnMore.accesskey "S">
-<!ENTITY social.closeNotificationItem.label "Agora não">
 
 <!ENTITY social.directory.label "Diretório de ativações">
 <!ENTITY social.directory.text "Você pode ativar serviços de compartilhamento a partir do diretório.">

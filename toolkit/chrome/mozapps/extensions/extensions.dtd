@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "Ativar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Ativar verificação de segurança da conexão de atualização">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Verificar atualizações dos plugins">
-<!ENTITY info.plugincheck.tooltip               "Verificar se os plugins estão atualizados">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Pesquisar">
 <!ENTITY view.discover.label                  "Adicionar">
