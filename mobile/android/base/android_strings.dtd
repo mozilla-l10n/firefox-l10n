@@ -44,9 +44,10 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Zaznamki">
 <!ENTITY  history_title "Zgodovina">
-<!ENTITY  recent_tabs_title "Nedavni zavihki">
 
 <!ENTITY  switch_to_tab "Preklopi na zavihek">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "Poročila o sesutju &brandShortName;a">
 <!ENTITY  crash_message2 "&brandShortName; se je zaradi napake sesul. Vaši zavihki so shranjeni na domači strani &brandShortName;a ob vnovičnem zagonu.">
@@ -269,6 +270,15 @@
 
 <!ENTITY pref_whats_new_notification "Kaj je novega v &brandShortName;u">
 <!ENTITY pref_whats_new_notification_summary "Spoznajte nove možnosti po posodobitvi">
+
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY tracking_protection_prompt_title "Zdaj z zaščito pred sledenjem">
 <!ENTITY tracking_protection_prompt_text "Aktivno zavračanje elementov sledenja, da vam ni potrebno skrbeti.">
@@ -570,10 +580,8 @@ size. -->
 <!ENTITY home_clear_history_button "Počisti zgodovino brskanja">
 <!ENTITY home_clear_history_confirm "Ste prepričani, da želite počistiti vašo zgodovino?">
 <!ENTITY home_bookmarks_empty "Tukaj se prikažejo shranjeni zaznamki.">
-<!ENTITY home_closed_tabs_title "Nedavno zaprti zavihki">
-<!ENTITY home_last_tabs_title "Nedavni zavihki">
 <!ENTITY home_last_tabs_empty "Tukaj se prikažejo vaši nedavni zavihki.">
-<!ENTITY home_open_all "Odpri vse">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Tukaj se prikažejo nedavno obiskane spletne strani.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +633,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Varna povezava">
 <!ENTITY identity_connection_insecure "Nevarna povezava">
-<!ENTITY identity_login_insecure "Ta stran ni varna, zato lahko vašo prijavo prestrežejo.">
 <!ENTITY identity_connection_chromeui "To je varna stran &brandShortName;a">
 
 <!-- Mixed content notifications in site identity popup -->
