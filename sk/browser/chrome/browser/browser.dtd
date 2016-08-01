@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "je teraz v režime Na celú obrazovku">
 <!ENTITY fullscreenWarning.generic.label "Tento dokument je teraz v režime Na celú obrazovku">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +136,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Ukončiť režim Na celú obrazovku (esc)">
 <!ENTITY leaveDOMFullScreen.label "Ukončiť režim Na celú obrazovku">
 <!ENTITY leaveDOMFullScreen.accesskey "U">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "Zavrieť okno">
 <!ENTITY closeWindow.accesskey "v">
@@ -771,12 +778,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Zobrazovať upozornenia">
 <!ENTITY social.toggleNotifications.accesskey "r">
 
-<!ENTITY social.activated.description "Služby z <label/> boli povolené. Služby môžete spravovať v okne <label class='text-link'>Správcu doplnkov</label>.">
-<!ENTITY social.activated.undo.label "Vrátiť späť">
-<!ENTITY social.activated.undo.accesskey "V">
 <!ENTITY social.learnMore.label "Ďalšie informácie…">
 <!ENTITY social.learnMore.accesskey "a">
-<!ENTITY social.closeNotificationItem.label "Teraz nie">
 
 <!ENTITY social.directory.label "Katalóg aktivácií">
 <!ENTITY social.directory.text "Služby zdieľania môžete aktivovať z katalógu.">

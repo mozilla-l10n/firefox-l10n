@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Vyhľadávajú sa aktualizácie">
 <!ENTITY  updateCheck.label               "Vyhľadáva sa novšia verzia programu &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Nájdené aktualizácie zásuvných modulov">
-<!ENTITY  pluginupdatesfound.label        "Bola nájdená novšia verzia jedného alebo viacerých vami používaných zásuvných modulov.">
-<!ENTITY  pluginupdateslink.label         "Pozrite sa, ako ich môžete aktualizovať.">
-
 <!ENTITY  noupdatesfound.title            "Nenájdené žiadne aktualizácie">
 <!ENTITY  noupdatesautoenabled.intro      "Neboli nájdené žiadne aktualizácie. &brandShortName; bude
                                            pravidelne zisťovať ich dostupnosť.">

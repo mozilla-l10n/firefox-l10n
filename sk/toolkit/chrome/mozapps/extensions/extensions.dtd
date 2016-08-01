@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "Zapnúť">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Povoliť kontrolu bezpečnosti aktualizácií doplnkov">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Skontrolovať aktualizácie zásuvných modulov">
-<!ENTITY info.plugincheck.tooltip               "Skontrolovať aktualizácie zásuvných modulov">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Vyhľadávanie">
 <!ENTITY view.discover.label                  "Získať doplnky">
