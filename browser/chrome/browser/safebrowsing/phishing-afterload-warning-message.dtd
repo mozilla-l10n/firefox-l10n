@@ -14,7 +14,6 @@
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
 <!ENTITY safeb.palm.reportPage.label "¿Por qué está bloqueda esta página?">
-<!ENTITY safeb.palm.whyForbidden.label "¿Por qué está bloqueda esta página?">
 
 <!ENTITY safeb.blocked.malwarePage.title "¡Página reportada como atacante!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -30,8 +29,4 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Esta página <span id='phishing_sitename'/> ha sido reportada como una falsificación y se bloqueó con base en tus preferencias de seguridad.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Los sitios fraudulentos están diseñados para engañarte y hacer algo peligroso, como instalar software, o revelar tu información personal, como contraseñas, números de teléfono o tarjetas de crédito.</p><p>Ingresando cualquier información en esta página web puede resultar en robo de identidad u otro fraude.</p>">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Sitio bloqueado">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "La página Web en <span id='forbidden_sitename'/> ha sido bloqueada por tu perfil de administrador.">
 
