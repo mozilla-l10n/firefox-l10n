@@ -44,9 +44,9 @@
 
 <!ENTITY  bookmarks_title "पुस्तकचिनोहरू">
 <!ENTITY  history_title "इतिहास">
-<!ENTITY  recent_tabs_title "हालैका ट्याबहरू">
 
 <!ENTITY  switch_to_tab "ट्याबमा स्विच गर्नुहोस्">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "&brandShortName; क्रयास रिपोर्टर">
 <!ENTITY  crash_message2 "&brandShortName; मा समस्या थियो त्यसैले क्रयास भयो। जब तपाईं &brandShortName; पुनः सुरु गर्नुहुन्छ, तपाईंको ट्याबहरू गृह पृष्ठमा सूचीकृत हुनेछ।">
@@ -106,10 +106,9 @@
 <!ENTITY edit_mode_cancel "रद्द गर्नुहोस्">
 
 <!ENTITY close_tab "ट्याब बन्द गर्नुहोस्">
-<!ENTITY one_tab "1 ट्याब">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; ट्याबहरू">
 <!ENTITY new_tab_opened "नयाँ ट्याब खुल्यो">
 <!ENTITY new_private_tab_opened "नयाँ निजी ट्याब खुल्यो">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -269,6 +268,14 @@
 
 <!ENTITY pref_whats_new_notification "&brandShortName; मा नयाँ के छ">
 <!ENTITY pref_whats_new_notification_summary "अद्यावधिक पछि नयाँ सुविधाहरूको बारेमा जान्नुहोस्">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "अब ट्रयाकिङ्ग सुरक्षाको साथ">
 
@@ -346,6 +353,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+<!ENTITY pref_media_autoplay_enabled "स्वचालित हुने अनुमति दिनुहोस् ">
 
 
 
@@ -371,6 +379,7 @@ size. -->
 
 <!ENTITY pref_private_data_downloadFiles2 "डाउनलोडहरू">
 <!ENTITY pref_private_data_syncedTabs "Sync गरिएका ट्याबहरू">
+
 
 <!ENTITY pref_about_firefox "&brandShortName; बारे">
 
@@ -531,10 +540,11 @@ size. -->
 <!ENTITY home_clear_history_button "ब्राउजिङ इतिहास खाली गर्नुहोस्">
 
 
-<!ENTITY home_closed_tabs_title "हालसालै बन्द गरिएका ट्याबहरु">
 
 
-<!ENTITY home_open_all "सबै खोल्नुहोस्">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -570,7 +580,6 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
 
 
 <!-- Mixed content notifications in site identity popup -->

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.connected.title "फायरफक्स एकाउन्टस्">
-
+<!ENTITY aboutAccounts.connected.description "को रुपमा तपाई यसमा जडान हुनुभएको छ।">
 <!ENTITY aboutAccounts.syncPreferences.label "सेटिङहरू समक्रमण गर्न यहा टयाप् गर्नुहोस्">
 
 <!ENTITY aboutAccounts.noConnection.title "इन्टरनेट सुविधा छैन">
