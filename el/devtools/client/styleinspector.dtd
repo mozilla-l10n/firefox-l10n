@@ -32,6 +32,3 @@
   -  properties to display e.g. due to search criteria this message is
   -  displayed. -->
 <!ENTITY noPropertiesFound     "Δεν βρέθηκαν ιδιότητες CSS.">
-
-<!-- FIXME: notes -->
-<!ENTITY ruleViewTitle         "Κανόνες">

@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "εκτελείται σε πλήρη οθόνη">
 <!ENTITY fullscreenWarning.generic.label "Αυτό το έγγραφο εκτελείται σε πλήρη οθόνη">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +136,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Έξοδος από πλήρη οθόνη (esc)">
 <!ENTITY leaveDOMFullScreen.label "Έξοδος από την πλήρη οθόνη">
 <!ENTITY leaveDOMFullScreen.accesskey "δ">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "Κλείσιμο παραθύρου">
 <!ENTITY closeWindow.accesskey "θ">
@@ -629,9 +636,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.addons.label "Διαχείριση υπηρεσιών…">
 
 
-<!ENTITY social.activated.undo.label "Ουπς, αναίρεση ενέργειας!">
 <!ENTITY social.learnMore.label "Μάθετε περισσότερα…">
-<!ENTITY social.closeNotificationItem.label "Όχι τώρα">
 
 <!ENTITY social.directory.button "Φύγαμε!">
 <!ENTITY social.directory.introText "Κάντε κλικ σε μια υπηρεσία για να την προσθέσετε στον &brandShortName;.">

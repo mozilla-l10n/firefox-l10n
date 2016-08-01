@@ -32,7 +32,6 @@
 <!ENTITY  socks4.accesskey              "k">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label          "Απομακρυσμένο DNS">
 <!ENTITY  socksRemoteDNS.accesskey      "π">
 <!ENTITY  port.label                    "Θύρα:">
 <!ENTITY  HTTPport.accesskey            "ρ">
