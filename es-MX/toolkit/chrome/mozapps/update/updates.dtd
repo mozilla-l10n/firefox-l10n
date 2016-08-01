@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Comprobando actualizaciones">
 <!ENTITY  updateCheck.label               "Buscando la versión más nueva de &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Actualizaciones para Plugins encontradas">
-<!ENTITY  pluginupdatesfound.label        "Versiones nuevas de una o más de tus plugins fueron encontrados.">
-<!ENTITY  pluginupdateslink.label         "Ver cómo actualizar sus plugins.">
-
 <!ENTITY  noupdatesfound.title            "No se encontraron actualizaciones">
 <!ENTITY  noupdatesautoenabled.intro      "No hay actualizaciones disponibles. &brandShortName; verifica su existencia periódicamente.">
 <!ENTITY  noupdatesautodisabled.intro     "No hay actualizaciones disponibles. Busque nuevamente en otra ocasión o active las actualizaciones automáticas de &brandShortName;.">
