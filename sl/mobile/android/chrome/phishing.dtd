@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "Hočem vstran!">
 <!ENTITY safeb.palm.decline.label "Prezri to opozorilo">
 <!ENTITY safeb.palm.reportPage.label "Zakaj je bila stran zavrnjena?">
-<!ENTITY safeb.palm.whyForbidden.label "Zakaj je bila stran zavrnjena?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Prijavljena napadalna stran!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Spletna stran na naslovu <span id='unwanted_sitename'/> je bila prijavljena, da vsebuje neželeno programsko opremo, zato je bila zavrnjena na podlagi vaših varnostnih nastavitev.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Strani z neželeno programsko opremo poskušajo namestiti programsko opremo, ki je lahko zavajajoča in lahko neželeno vpliva na vaš sistem.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Zavrnjena stran">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Spletno stran na naslovu <span id='forbidden_sitename'/> je zavrnil vaš skrbniški profil.">
