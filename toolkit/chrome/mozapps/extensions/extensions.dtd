@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "చేతనపరచు">
 <!ENTITY warning.updatesecurity.enable.tooltip     "పొడిగింత నవీకరణ రక్షణ పరిశీలనను చేతనముచేయి">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "మీ చొప్పింతలు తాజాగా వున్నాయో లేదో చూడుము">
-<!ENTITY info.plugincheck.tooltip               "మీ చొప్పింతలు తాజాగా వున్నాయో లేదో చూడుము">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "వెతకడం">
 <!ENTITY view.discover.label                  "పొడిగింతలు పొందుము">

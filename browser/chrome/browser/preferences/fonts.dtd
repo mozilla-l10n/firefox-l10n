@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "మోనోస్పేస్:">
 <!ENTITY  monospace.accesskey                     "M">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "లాటిన్">
 <!ENTITY  font.langGroup.japanese                 "జపనీ">
 <!ENTITY  font.langGroup.trad-chinese             "ట్రెడిషనల్ చైనీస్ (తైవాన్)">
@@ -47,7 +47,6 @@
 <!ENTITY  font.langGroup.khmer                    "ఖెమెర్">
 <!ENTITY  font.langGroup.malayalam                "మలయాళం">
 <!ENTITY  font.langGroup.math                     "గణితం">
-<!ENTITY  font.langGroup.oriya                    "ఒరియా">
 <!ENTITY  font.langGroup.telugu                   "తెలుగు ">
 <!ENTITY  font.langGroup.kannada                  "కన్నడ">
 <!ENTITY  font.langGroup.sinhala                  "సింహలా">
@@ -56,8 +55,8 @@
 <!ENTITY minSize.label                            "కనీస ఫాంటు పరిమాణం:">
 <!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "ఏదీకాదు">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "సెరీఫ్">
 <!ENTITY  useDefaultFontSansSerif.label           "సాన్ సెరీఫ్">
 
