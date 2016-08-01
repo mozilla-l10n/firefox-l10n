@@ -40,9 +40,10 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "סימניות">
 <!ENTITY  history_title "היסטוריה">
-<!ENTITY  recent_tabs_title "לשוניות אחרונות">
 
 <!ENTITY  switch_to_tab "מעבר ללשונית">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "מדווח הקריסות של &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; נתקל בבעיה וקרס. הלשוניות שלך אמורות להיות רשומות לאחר הפעלה מחדש בדף הפתיחה של &brandShortName;.">
@@ -263,6 +264,15 @@
 
 <!ENTITY pref_whats_new_notification "מה חדש ב־&brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "למד אודות תכונות חדשות לאחר עדכון">
+
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY tracking_protection_prompt_title "עכשיו עם הגנת מעקב">
 <!ENTITY tracking_protection_prompt_text "מתבצעת חסימה פעילה של רכיבי מעקב כדי שלא תהיה לך סיבה לדאוג.">
@@ -562,10 +572,8 @@ size. -->
 <!ENTITY home_clear_history_button "מחיקת היסטורית גלישה">
 <!ENTITY home_clear_history_confirm "האם ברצונך למחוק את ההיסטוריה שלך?">
 <!ENTITY home_bookmarks_empty "סימניות שנשמרו יופיעו כאן.">
-<!ENTITY home_closed_tabs_title "לשוניות שנסגרו לאחרונה">
-<!ENTITY home_last_tabs_title "לשוניות מפעם שעברה">
 <!ENTITY home_last_tabs_empty "הלשוניות האחרונות שלך יופיעו כאן.">
-<!ENTITY home_open_all "לפתוח הכול">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "אתרים בהם ביקרת לאחרונה יופיעו כאן.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -617,7 +625,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "חיבור מאובטח">
 <!ENTITY identity_connection_insecure "חיבור לא מאובטח">
-<!ENTITY identity_login_insecure "עמוד זה אינו מאובטח ויתכן כי פרטי הגישה שלך חשופים.">
 <!ENTITY identity_connection_chromeui "דף זה הנו דף מאובטח של &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->

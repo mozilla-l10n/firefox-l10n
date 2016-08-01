@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "קח אותי מפה!">
 <!ENTITY safeb.palm.decline.label "התעלם מהזהרה זו">
 <!ENTITY safeb.palm.reportPage.label "למה דף זה נחסם?">
-<!ENTITY safeb.palm.whyForbidden.label "למה דף זה נחסם?">
 
 <!ENTITY safeb.blocked.malwarePage.title "דף תקיפה מדווח!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,6 +20,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "הדף בכתובת <span id='unwanted_sitename'/> דווח כיוון שהוא מכיל תכנה בלתי רצויה ולכן נחסם בהתאם להעדפות האבטחה שלך.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "דפי תכנה בלתי רצויה מנסים להתקין תכניות שעשויות להוליך שולל ולהשפיע על המערכת שלך בדרכים בלתי צפויות.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "אתר חסום">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "העמוד <span id='forbidden_sitename'/> נחסם על־ידי פרופיל הניהול שלך.">
