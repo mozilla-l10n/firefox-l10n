@@ -65,10 +65,10 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "ਅੱਪਡੇਟ ਨੂੰ ਅਗਲੀ ਵਾਰ &brandShortName; ਚਾਲੂ ਹੋਣ ਉੱਤੇ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ
                                             &brandShortName; ਨੂੰ ਹੁਣ ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਆਪਣਾ ਕੰਮ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ।">
-
 <!ENTITY  finishedBackground.moreElevated "ਇਸ ਅੱਪਡੇਟ ਲਈ ਪਰਸ਼ਾਸ਼ਕ ਅਧਿਕਾਰਾਂ ਦੀ ਲੋੜ ਹੈ। ਅੱਪਡੇਟ ਨੂੰ ਅਗਲੀ ਵਾਰ &brandShortName; ਸ਼ੁਰੂ ਹੋਣ ਉੱਤੇ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਹੁਣੇ 
                                            &brandShortName; ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ, ਕੰਮ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਤੇ ਬਾਅਦ ਵਿੱਚ ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਇਸ ਅੱਪਡੇਟ ਨੂੰ
                                            ਰੱਦ ਵੀ ਕਰ ਸਕਦੇ ਹੋ।">
+
 <!ENTITY  update.details.label            "ਵੇਰਵੇ">
 <!ENTITY  update.installedOn.label        "ਇੰਸਟਾਲ ਕੀਤੇ:">
 <!ENTITY  update.status.label             "ਹਾਲਤ:">

@@ -174,7 +174,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.label     "ਤਾਜ਼ਾ ਬੁੱਕਮਾਰਕ ਕੀਤਿਆਂ ਨੂੰ ਛੁਪਾਓ">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
-
 <!ENTITY backCmd.label                "ਪਿੱਛੇ">
 <!ENTITY backButton.tooltip           "ਇੱਕ ਪਿਛਲੇ ਸਫ਼ੇ 'ਤੇ ਜਾਓ">
 <!ENTITY forwardCmd.label             "ਅੱਗੇ">
@@ -574,7 +573,6 @@ fast. -->
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
 <!ENTITY mediaLoop.label             "ਲੂਪ">
 <!ENTITY mediaLoop.accesskey         "L">
-
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
