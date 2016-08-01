@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "正在检查更新">
 <!ENTITY  updateCheck.label               "查找 &brandShortName; 的新版本…">
 
-<!ENTITY  pluginupdatesfound.title        "发现插件的更新">
-<!ENTITY  pluginupdatesfound.label        "发现一个或多个您的插件的新版本。">
-<!ENTITY  pluginupdateslink.label         "查看如何升级您的插件。">
-
 <!ENTITY  noupdatesfound.title            "没有找到可用的更新">
 <!ENTITY  noupdatesautoenabled.intro      "目前没有可用的更新。&brandShortName; 将定期地检查更新。">
 <!ENTITY  noupdatesautodisabled.intro     "目前没有可用的更新。请以后再检查，或者启用 &brandShortName; 的自动更新检查功能。">
