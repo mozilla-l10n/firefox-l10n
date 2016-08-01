@@ -9,7 +9,7 @@
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn’t suit traditions in your locale. -->
 <!ENTITY unsupportedPlatform.learnMore                       "Tetamäx ch'aqa' chik…">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
-<!ENTITY unsupportedPlatform.post                            "Kaqchikel">
+<!ENTITY unsupportedPlatform.post                            "">
 
 <!ENTITY missingPlugin                                       "Nik'atzin jun pluyin richin nik'utub'ëx pa re rupam re'.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 
-<!ENTITY reloadPlugin.pre                                    "Kaqchikel">
+<!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Tok chik pa ri ruxaq k'amaya'l">
 <!ENTITY reloadPlugin.post                                   " richin nitojtob'ëx chik.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
