@@ -25,7 +25,7 @@
 <!ENTITY fileAccessDenied.title "Отказан достъп до файл">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>Може да е премахнат, преместен или файловите права да не позволяват достъп.</li>
+  <li>Може да е премахнат, преместен или правата му да забраняват достъпа.</li>
 </ul>
 ">
 
@@ -102,4 +102,4 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.title "Вашата връзка е незащитена">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>използва технология за сигурност, която е остаряла и уязвими за атака. Един хакер може лесно да разкрие информация, която мислите, че е в безопасност. Уебсайт администраторът ще трябва първо да поправи сървъра, преди да можете да посещавате сайта.</p><p>Код на грешка: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>използва технология за сигурност, която е остаряла и уязвима от атака. Хакер може лесно да разкрие информация, която мислите, че е в безопасност. Администраторът на уеб сайта ще трябва първо да поправи сървъра, преди да можете да посещавате сайта.</p><p>Код на грешка: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
