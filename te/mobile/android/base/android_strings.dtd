@@ -44,9 +44,10 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "ఇష్టాంశాలు">
 <!ENTITY  history_title "చరిత్ర">
-<!ENTITY  recent_tabs_title "ఇటీవలి ట్యాబులు">
 
 <!ENTITY  switch_to_tab "ట్యాబుకు మారండి">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "&brandShortName; క్రాష్ రిపోర్టర్">
 <!ENTITY  crash_message2 "&brandShortName; ఏదో సమస్య వచ్చి క్రాషయ్యింది. పునఃప్రారంభించగానే మీ ట్యాబులు &brandShortName; మొదటి పేజీలో కనిపిస్తాయి.">
@@ -269,6 +270,15 @@
 
 <!ENTITY pref_whats_new_notification "&brandShortName;‌ లో కొత్తదనం ఏమిటి">
 <!ENTITY pref_whats_new_notification_summary "ఒక నవీకరణ తర్వాత కొత్త లక్షణాల గురించి తెలుసుకోండి">
+
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY tracking_protection_prompt_title "ఇప్పుడు ట్రాకింగ్ సంరక్షణతో ఉన్నది">
 <!ENTITY tracking_protection_prompt_text "కాబట్టి మీరు ఆందోళన చెందనవసరం లేదు చురుకుగా ట్రాకింగ్ అంశాలు బ్లాక్ చేయండి.">
@@ -570,10 +580,8 @@ size. -->
 <!ENTITY home_clear_history_button "విహరణ చరిత్రను తుడిచేయి">
 <!ENTITY home_clear_history_confirm "మీరు నిశ్చయంగా మీ చరిత్రను తుడిచేయాలని అనుకొంటున్నారా?">
 <!ENTITY home_bookmarks_empty "మీరు భద్రపరుచుకున్న ఇష్టాంశాలు ఇక్కడ ఉంటాయి.">
-<!ENTITY home_closed_tabs_title "ఇటీవల మూసిన ట్యాబులు">
-<!ENTITY home_last_tabs_title "చివరిసారి ట్యాబులు">
 <!ENTITY home_last_tabs_empty "మీ ఇటీవలి ట్యాబులు ఇక్కడ కనిపిస్తాయి.">
-<!ENTITY home_open_all "అన్నిటినీ తెరువు">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "మీరు ఇటీవల చూసిన వెబ్ సైట్లు ఇక్కడ కనిపిస్తాయి.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +633,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "సురక్షిత కనెక్షన్">
 <!ENTITY identity_connection_insecure "అసురక్ష కనెక్షన్">
-<!ENTITY identity_login_insecure "ఈ పేజీని సురక్షితమైనది కాదు మరియు మీ లాగిన్ హాని కావచ్చు.">
 <!ENTITY identity_connection_chromeui "ఇది సురక్షిత &brandShortName; పేజీ">
 
 <!-- Mixed content notifications in site identity popup -->
