@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "тепер у повноекранному режимі">
 <!ENTITY fullscreenWarning.generic.label "Цей документ тепер у повноекранному режимі">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +136,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Вийти з повноекранного режиму (esc)">
 <!ENTITY leaveDOMFullScreen.label "Вийти з повноекранного режиму">
 <!ENTITY leaveDOMFullScreen.accesskey "В">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "Закрити вікно">
 <!ENTITY closeWindow.accesskey "а">
@@ -771,12 +778,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Показувати сповіщення на робочому столі">
 <!ENTITY social.toggleNotifications.accesskey "с">
 
-<!ENTITY social.activated.description "Було увімкнено служби від <label/>. Ви можете змінити ваші налаштування служб у <label class='text-link'>Керівнику додатків</label>.">
-<!ENTITY social.activated.undo.label "Ой, відмінити це!">
-<!ENTITY social.activated.undo.accesskey "О">
 <!ENTITY social.learnMore.label "Подробиці…">
 <!ENTITY social.learnMore.accesskey "П">
-<!ENTITY social.closeNotificationItem.label "Не зараз">
 
 <!ENTITY social.directory.label "Каталог активації">
 <!ENTITY social.directory.text "Ви можете активувати засоби поширення з каталогу.">
