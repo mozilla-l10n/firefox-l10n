@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "Activar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activar comprobación de seguridá de complementos">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Marca pa ver si los plugins tán anovaos">
-<!ENTITY info.plugincheck.tooltip               "Marca pa ver si los plugins tán anovaos">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Guetar">
 <!ENTITY view.discover.label                  "Obtener complementos">

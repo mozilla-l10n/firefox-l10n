@@ -5,7 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Font Inspector strings.
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
-<!ENTITY fontInspectorTitle "Fontes">
 <!ENTITY showAllFonts "Ver toles fontes usaes nesta páxina">
 <!ENTITY usedAs "Úsase como: ">
 <!ENTITY system "sistema">
