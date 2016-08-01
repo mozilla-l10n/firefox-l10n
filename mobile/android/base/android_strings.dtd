@@ -44,9 +44,10 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Marcadores">
 <!ENTITY  history_title "Historial">
-<!ENTITY  recent_tabs_title "Pestañas recientes">
 
 <!ENTITY  switch_to_tab "Cambiar a la pestaña">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "Reporte de fallos de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; tuvo un problema. Tus pestañas deberían ser listadas en la página de inicio de &brandShortName; cuando lo reinicies. ">
@@ -269,6 +270,15 @@
 
 <!ENTITY pref_whats_new_notification "Qué hay de nuevo en &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Conoce las nuevas funciones después de una actualización">
+
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY tracking_protection_prompt_title "Ahora con protección de seguimiento">
 <!ENTITY tracking_protection_prompt_text "Bloquea activamente elementos de rastreo para que no te tengas que preocupar.">
@@ -570,10 +580,8 @@ size. -->
 <!ENTITY home_clear_history_button "Limpar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Estás seguro que deseas limpiar tu historial?">
 <!ENTITY home_bookmarks_empty "Los marcadores que guardas se muestran aquí.">
-<!ENTITY home_closed_tabs_title "Pestañas cerradas recientemente">
-<!ENTITY home_last_tabs_title "Pestañas de la última vez">
 <!ENTITY home_last_tabs_empty "Tus pestañas recientes son mostradas aquí.">
-<!ENTITY home_open_all "Abrir todas">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Los sitios visitados recientemente son mostrados aquí.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +633,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Conexión segura">
 <!ENTITY identity_connection_insecure "Conexión insegura">
-<!ENTITY identity_login_insecure "Esta página no es segura y tu conexión puede ser vulnerable.">
 <!ENTITY identity_connection_chromeui "Esta es una página segura de &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
