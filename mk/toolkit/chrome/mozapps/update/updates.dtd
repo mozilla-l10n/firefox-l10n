@@ -1,11 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY  updateWizard.title              "Надградба на софтвер">
 
 <!ENTITY  checking.title                  "Барање на надградби">
 <!ENTITY  updateCheck.label               "Барам нови верзии на &brandShortName;…">
-
-<!ENTITY  pluginupdatesfound.title        "Најдени се надградби за приклучоците">
-<!ENTITY  pluginupdatesfound.label        "Постојат понови верзии за еден или повеќе од Вашите приклучоци.">
-<!ENTITY  pluginupdateslink.label         "Погледнете како да ги надградите Вашите приклучоци.">
 
 <!ENTITY  noupdatesfound.title            "Не се пронајдени надградби">
 <!ENTITY  noupdatesautoenabled.intro      "Нема достапни надградби. &brandShortName; периодично ќе проверува за надградби.">
@@ -16,24 +15,10 @@
 <!ENTITY  manualUpdate.space.desc         "Достапна е препорачлива безбедносна и стабилносна надградба, но немате доволно место на дискот за да ја инсталирате.">
 <!ENTITY  manualUpdateGetMsg.label        "Секогаш можете да ја добиете последната верзија од &brandShortName; на:">
 
-<!ENTITY  incompatibleCheck.title         "Ја проверувам компатибилноста на додатоците">
-<!ENTITY  incompatibleCheck.label         "Барам нови верзии на Вашите додатоци…">
 
 <!ENTITY  clickHere.label                 "Видете повеќе информации за оваа надградба">
 
 <!ENTITY  evangelism.desc                 "Се препорачува да ја примените оваа надградба на &brandShortName; во најкус рок.">
-
-<!ENTITY  license.instructions            "Ако се согласувате со условите на овој договор, кликнете „Се согласувам“ за да продолжите со надградбата.">
-
-<!ENTITY  license.titleText               "Лиценцен договор за софтверот">
-<!ENTITY  license.introText               "Услови за користење на овој софтвер.">
-<!ENTITY  license.instructionText         "Прочитајте го следниов лиценцен договор. Користете го лизгачот за да го видите целиот договор.">
-<!ENTITY  license.accept                  "Ги прифаќам условите на лиценцниот договор">
-<!ENTITY  license.accept.accesskey        "ќ">
-<!ENTITY  license.decline                 "НЕ ги прифаќам условите на лиценцниот договор">
-<!ENTITY  license.decline.accesskey       "Н">
-
-<!ENTITY  incompatibleList.title          "Пронајдени се некомпатибилни додатоци">
 
 <!ENTITY  downloadPage.title              "Продолжува со вчитување на &brandShortName;">
 <!ENTITY  downloading.intro               "Надградбата се презема…">
@@ -66,10 +51,6 @@
 <!ENTITY  finishedBackground.name         "Надградба:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Надградбата ќе се инсталира при следното стартување на &brandShortName;. Можете да го рестартирате &brandShortName; сега, или да продолжите со работа и да го рестартирате подоцна.">
-
-<!ENTITY  installed.title                 "Надградбата е инсталирана">
-<!ENTITY  installed.intro                 "Надградбата е успешно инсталирана.">
-<!ENTITY  whatsnew.label                  "Прочитајте повеќе за тоа што е ново…">
 
 <!ENTITY  update.details.label            "Детали">
 <!ENTITY  update.installedOn.label        "Инсталирана на:">
