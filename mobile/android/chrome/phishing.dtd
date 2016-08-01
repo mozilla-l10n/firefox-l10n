@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "Vediet mani prom!">
 <!ENTITY safeb.palm.decline.label "Ignorēt šo brīdinājumu">
 <!ENTITY safeb.palm.reportPage.label "Kāpēc šī lapa tika bloķēta?">
-<!ENTITY safeb.palm.whyForbidden.label "Kāpēc šī lapa tika bloķēta?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Bīstama lapa!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Par lapu <span id='unwanted_sitename'/> ir saņemti ziņojumi, ka tā satur nevēlamu programmatūru un atbilstoši jūsu drošības iestatījumiem, lapa ir bloķēta.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Nevēlamas programmatūras lapas mēģina instalēt krāpnieciskas un citādi bīstamas programmas, kas var kaitēt jums.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Bloķēta lapa">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Lapa <span id='forbidden_sitename'/> ir bloķēta atbilstoši jūsu pārlūka iestatījumiem.">

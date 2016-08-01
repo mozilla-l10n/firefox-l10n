@@ -44,9 +44,10 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Grāmatzīmes">
 <!ENTITY  history_title "Vēsture">
-<!ENTITY  recent_tabs_title "Nesenās cilnes">
 
 <!ENTITY  switch_to_tab "Pāriet uz cilni">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "&brandShortName; Avārijas ziņojumi">
 <!ENTITY  crash_message2 "&brandShortName; saskārās ar problēmu un avarēja. Pēc pārstartēšanas jūsu cilnēm vajadzētu būt &brandShortName; sākuma lapā.">
@@ -269,6 +270,15 @@
 
 <!ENTITY pref_whats_new_notification "Kas jauns &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Uzziniet par jaunajām iespējām pēc atjauninājuma">
+
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY tracking_protection_prompt_title "Tagad ar izsekošanas aizsardzību">
 <!ENTITY tracking_protection_prompt_text "Aktīvi bloķē izsekošanas elementus, lai jums par to nav jāuztraucas.">
@@ -570,10 +580,8 @@ size. -->
 <!ENTITY home_clear_history_button "Notīrīt pārlūkošanas vēsturi">
 <!ENTITY home_clear_history_confirm "Vai tiešām vēlaties notīrīt pārlūkošanas vēsturi?">
 <!ENTITY home_bookmarks_empty "Saglabātās grāmatzīmes parādās te.">
-<!ENTITY home_closed_tabs_title "Nesen aizvērtās cilnes">
-<!ENTITY home_last_tabs_title "Cilnes no iepriekšējās reizes">
 <!ENTITY home_last_tabs_empty "Jūsu nesenās cilnes parādās te.">
-<!ENTITY home_open_all "Atvērt visu">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Nesen apmeklētās vietnes parādās te.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +633,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Drošs savienojums">
 <!ENTITY identity_connection_insecure "Nedrošs savienojums">
-<!ENTITY identity_login_insecure "Šī lapa nav droša un jūsu pieteikšanās dati var būt ievainojami.">
 <!ENTITY identity_connection_chromeui "Šī ir droša &brandShortName; lapa">
 
 <!-- Mixed content notifications in site identity popup -->
