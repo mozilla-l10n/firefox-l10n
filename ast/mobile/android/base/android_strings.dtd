@@ -44,9 +44,10 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Marcadores">
 <!ENTITY  history_title "Historial">
-<!ENTITY  recent_tabs_title "Llingüetes recientes">
 
 <!ENTITY  switch_to_tab "Camudar de llingüeta">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "Informador de casques de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; tuvo un problema y cascó. Les tos llingüetes deberíen llistase na páxina d\&apos;aniciu de &brandShortName; cuando reanicies.">
@@ -269,6 +270,15 @@
 
 <!ENTITY pref_whats_new_notification "Qué hai nuevo en &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Depriendi más tocante a les carauterístiques nueves dempués d\&apos;anovar">
+
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY tracking_protection_prompt_title "Agora con proteición de rastrexu">
 <!ENTITY tracking_protection_prompt_text "Bloquia activamente los elementos de rastrexu pa que nun t\&apos;esmolezas.">
@@ -570,10 +580,8 @@ size. -->
 <!ENTITY home_clear_history_button "Llimpiar historial de restolar">
 <!ENTITY home_clear_history_confirm "¿De xuru que quies llimpiar el to historial?">
 <!ENTITY home_bookmarks_empty "Equí amosaránse los tos marcadores.">
-<!ENTITY home_closed_tabs_title "Llingüetes zarraes apocayá">
-<!ENTITY home_last_tabs_title "Llingüetes de la cabera vegada">
 <!ENTITY home_last_tabs_empty "Equí amosaránse les tos llingüetes recientes.">
-<!ENTITY home_open_all "Abrir too">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Equí amosaránse los sitios web que más visitares.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +633,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Conexón segura">
 <!ENTITY identity_connection_insecure "Conexón insegura">
-<!ENTITY identity_login_insecure "Esta páxina nun ye segura y el to aniciu de sesión quiciabes seya vulnerable.">
 <!ENTITY identity_connection_chromeui "Esta ye una páxina segura de &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
