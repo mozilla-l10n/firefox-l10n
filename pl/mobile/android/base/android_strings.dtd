@@ -201,8 +201,13 @@
 <!ENTITY pref_whats_new_notification "Nowości w przeglądarce &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Powiadamianie o nowych funkcjach po aktualizacji">
 
+<!ENTITY pref_category_experimental "Funkcje eksperymentalne">
+
 <!ENTITY pref_custom_tabs "Niestandardowe karty">
 <!ENTITY pref_custom_tabs_summary "Zewnętrzne aplikacje mogą otwierać karty o niestandardowym wyglądzie.">
+
+<!ENTITY pref_activity_stream "Activity Stream">
+<!ENTITY pref_activity_stream_summary "Wizualna historia i nowa strona domowa, ułatwiające wyszukiwanie treści w przeglądarce &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Nowa ochrona przed śledzeniem">
 <!ENTITY tracking_protection_prompt_text "Aktywne blokowanie elementów śledzących aktywność użytkownika.">
