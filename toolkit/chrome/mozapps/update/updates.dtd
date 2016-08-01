@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Έλεγχος για ενημερώσεις">
 <!ENTITY  updateCheck.label               "Έλεγχος για νεότερες εκδόσεις του &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Βρέθηκαν ενημερώσεις για πρόσθετες λειτουργίες">
-<!ENTITY  pluginupdatesfound.label        "Βρέθηκαν νεότερες εκδόσεις για μια ή περισσότερες πρόσθετες λειτουργίες.">
-<!ENTITY  pluginupdateslink.label         "Δείτε τον τρόπο ενημέρωσης των πρόσθετων λειτουργιών σας.">
-
 <!ENTITY  noupdatesfound.title            "Δεν υπάρχουν ενημερώσεις">
 <!ENTITY  noupdatesautoenabled.intro      "Δεν υπάρχουν νέες ενημερώσεις διαθέσιμες. Ο &brandShortName; θα ελέγχει
                                            σε περιοδικά χρονικά διαστήματα για ενημερώσεις.">

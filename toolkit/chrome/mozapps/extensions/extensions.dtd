@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "Ενεργοποίηση">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Ενεργοποίηση ελέγχου ασφαλείας ενημερώσεων προσθέτων">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Έλεγχος για το αν είναι ενημερωμένες οι πρόσθετες λειτουργίες σας">
-<!ENTITY info.plugincheck.tooltip               "Έλεγχος για το αν είναι ενημερωμένες οι πρόσθετες λειτουργίες σας">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Αναζήτηση">
 <!ENTITY view.discover.label                  "Λήψη περισσότερων προσθέτων">
