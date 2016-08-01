@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "已进入全屏显示">
 <!ENTITY fullscreenWarning.generic.label "此文档现已全屏显示">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +136,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "退出全屏模式(Esc)">
 <!ENTITY leaveDOMFullScreen.label "退出全屏">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "关闭窗口">
 <!ENTITY closeWindow.accesskey "d">
@@ -771,12 +778,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "显示桌面通知">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "来自 <label/> 的服务已启用。您可以在<label class='text-link'>附加组件管理器</label>中更改服务设置。">
-<!ENTITY social.activated.undo.label "啊哦，撤销这个操作！">
-<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "详细了解…">
 <!ENTITY social.learnMore.accesskey "L">
-<!ENTITY social.closeNotificationItem.label "暂不操作">
 
 <!ENTITY social.directory.label "可用目录">
 <!ENTITY social.directory.text "您可以从目录激活“分享”服务。">
