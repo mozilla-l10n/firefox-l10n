@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "განახლებების შემოწმება">
 <!ENTITY  updateCheck.label               "&brandShortName; ბოლო ვერსიების შემოწმება…">
 
-<!ENTITY  pluginupdatesfound.title        "მოიძებნა განახლებები მოდულებისთვის">
-<!ENTITY  pluginupdatesfound.label        "მოიძებნა განახლებები თქვენი ერთი ან რამდენიმე მოდულისთვის.">
-<!ENTITY  pluginupdateslink.label         "ნახეთ როგორ ხდება თქვენი მოდულების განახლება.">
-
 <!ENTITY  noupdatesfound.title            "განახლება ვერ მოიძებნა">
 <!ENTITY  noupdatesautoenabled.intro      "შესაძლო განახლებები არაა. &brandShortName; ბრაუზერი 
 პერიოდულად შეამოწმებს განახლებებს.">

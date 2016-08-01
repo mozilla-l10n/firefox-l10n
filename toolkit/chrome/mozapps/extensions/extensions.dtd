@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "ჩართვა">
 <!ENTITY warning.updatesecurity.enable.tooltip     "დამატებების განახლების უსაფრთხოების შემოწმების ჩართვა">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "შეამოწმეთ მოდულები განახლებულია თუ არა">
-<!ENTITY info.plugincheck.tooltip               "შეამოწმეთ მოდულები განახლებულია თუ არა">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "ძიება">
 <!ENTITY view.discover.label                  "კატალოგი">
