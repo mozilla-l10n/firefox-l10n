@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "Заберіть мене звідси!">
 <!ENTITY safeb.palm.decline.label "Ігнорувати це попередження">
 <!ENTITY safeb.palm.reportPage.label "Чому цю сторінку заблоковано?">
-<!ENTITY safeb.palm.whyForbidden.label "Чому цю сторінку заблоковано?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Сторінка звітована як нападницька!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Веб-сторінка <span id='unwanted_sitename'/> відома як така, що розповсюджує небажане програмне забезпечення, і тому була заблокована згідно з вашими вподобаннями безпеки.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Сторінки такого типу намагаються встановити програмне забезпечення, яке може вас ввести в оману та призвести до непередбачуваних змін у системі.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Заблокований сайт">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Веб-сторінку <span id='forbidden_sitename'/> було заблоковано вашим профілем адміністратора.">
