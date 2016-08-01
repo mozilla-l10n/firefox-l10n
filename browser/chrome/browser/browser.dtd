@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "on nyt kokoruututilassa">
 <!ENTITY fullscreenWarning.generic.label "Dokumentti on nyt kokoruututilassa">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +136,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Poistu kokoruututilasta (esc)">
 <!ENTITY leaveDOMFullScreen.label "Poistu kokoruututilasta">
 <!ENTITY leaveDOMFullScreen.accesskey "P">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "Sulje ikkuna">
 <!ENTITY closeWindow.accesskey "i">
@@ -771,12 +778,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Näytä työpöytäilmoitukset">
 <!ENTITY social.toggleNotifications.accesskey "p">
 
-<!ENTITY social.activated.description "Palvelu <label/> on otettu käyttöön. Voit muokata palveluiden asetuksia <label class='text-link'>Liitännäisten hallinnasta</label>.">
-<!ENTITY social.activated.undo.label "Oho, peru muutos!">
-<!ENTITY social.activated.undo.accesskey "O">
 <!ENTITY social.learnMore.label "Lue lisää…">
 <!ENTITY social.learnMore.accesskey "L">
-<!ENTITY social.closeNotificationItem.label "Ei nyt">
 
 <!ENTITY social.directory.label "Aktivointihakemisto">
 <!ENTITY social.directory.text "Voit ottaa jakopalveluja käyttöön hakemistosta.">
