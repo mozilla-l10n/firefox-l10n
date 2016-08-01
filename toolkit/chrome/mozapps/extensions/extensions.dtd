@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "אפשר">
 <!ENTITY warning.updatesecurity.enable.tooltip     "הפעל בדיקות אבטחה לעדכוני תוספות">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "בדיקה שהתוספים החיצוניים שלך מעודכנים">
-<!ENTITY info.plugincheck.tooltip               "בדיקה שהתוספים החיצוניים שלך מעודכנים">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "חיפוש">
 <!ENTITY view.discover.label                  "קבל תוספות">

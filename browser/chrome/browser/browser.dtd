@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "כעת במסך מלא">
 <!ENTITY fullscreenWarning.generic.label "מסמך זה כעת במסך מלא">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +136,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "יציאה ממסך מלא (Esc)">
 <!ENTITY leaveDOMFullScreen.label "יציאה ממסך מלא">
 <!ENTITY leaveDOMFullScreen.accesskey "י">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "סגור חלון">
 <!ENTITY closeWindow.accesskey "ס">
@@ -762,12 +769,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "הצגת התראות שולחן עבודה">
 <!ENTITY social.toggleNotifications.accesskey "ת">
 
-<!ENTITY social.activated.description "שירותים מ־<label/> אופשרו. ניתן לשנות את ההגדרות שלך לשירותים <label class='text-link'>במנהל התוספות</label>.">
-<!ENTITY social.activated.undo.label "אופס, בטל את זה!">
-<!ENTITY social.activated.undo.accesskey "ב">
 <!ENTITY social.learnMore.label "מידע נוסף…">
 <!ENTITY social.learnMore.accesskey "מ">
-<!ENTITY social.closeNotificationItem.label "לא כעת">
 
 <!ENTITY social.directory.label "ספריית הפעלות">
 <!ENTITY social.directory.text "ניתן להפעיל את שירותי השיתוף מהספרייה.">
