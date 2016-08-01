@@ -122,17 +122,11 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Obrázky z tohoto serveru nebudou nikdy stahovány.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Povolit vyskakovací okna pro tento server">
-<!ENTITY cookieAllowPopupsCmd.accesskey "A">
-<!ENTITY cookieManagePopups.label "Správa vyskakovacích oken">
-<!ENTITY cookieManagePopups.accesskey "V">
 
 <!ENTITY cookieCookieManager.label "Správce cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Správce obrázků">
 <!ENTITY cookieImageManager.accesskey "o">
-<!ENTITY cookiePopupManager.label "Správce vyskakovacích oken">
-<!ENTITY cookiePopupManager.accesskey "v">
 
 <!ENTITY clearPrivateDataCmd.label "Vymazat důvěrná data">
 <!ENTITY clearPrivateDataCmd.accesskey "m">
