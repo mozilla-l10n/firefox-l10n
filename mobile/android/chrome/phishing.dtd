@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "웹 페이지 나가기">
 <!ENTITY safeb.palm.decline.label "경고 무시">
 <!ENTITY safeb.palm.reportPage.label "차단 이유 상세 정보">
-<!ENTITY safeb.palm.whyForbidden.label "왜 이 페이지가 차단되었나요?">
 
 <!ENTITY safeb.blocked.malwarePage.title "공격 사이트 보고!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> 서버의 웹페이지는 원치 않는 소프트웨어를 포함하고 있는 것으로 보고되어 사용자의 보안 설정에 맞춰 차단되었습니다.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "원치 않는 소프트웨어 페이지들은 예상치 못한 방식으로 사용자의 시스템에 피해를 줄 수 있는 소프트웨어를 설치하려 합니다.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "차단된 사이트">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "이 <span id='forbidden_sitename'/> 웹 페이지는 관리자 설정에 의해 차단되었습니다.">
