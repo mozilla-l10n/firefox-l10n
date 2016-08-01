@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "నవీకరణల  కొరకు  పరిశీలిస్తున్నది">
 <!ENTITY  updateCheck.label               "&brandShortName; ఇప్పుడు  నవీకరణల కొరకు  పరిశీలిస్తున్నది…">
 
-<!ENTITY  pluginupdatesfound.title        "చొప్పింతలు  కు నవీకరణలు  కనబడినవి">
-<!ENTITY  pluginupdatesfound.label        "ఒకటి లేక మరిన్న మీ చొప్పింతలు కి తాజా రూపాంతరములు  కనబడినవి.">
-<!ENTITY  pluginupdateslink.label         "మీ చొప్పింతలు  నవీకరించడం కోసం చూడండి.">
-
 <!ENTITY  noupdatesfound.title            "ఏ  నవీకరణలు  కనుగొనబడలేదు">
 <!ENTITY  noupdatesautoenabled.intro      "అక్కడ  ఏ  కొత్త  నవీకరణలు  అందుబాటులో  లేవు. &brandShortName; సమయానుసారం  కొత్తవాటి  కొరకు  పరశీలించవచ్చు.">
 <!ENTITY  noupdatesautodisabled.intro     "అక్కడ  ఏ  కొత్త  నవీకరణలు  అందుబాటులో  లేవు. తరువాత  మరలు వెతకండి లేక &brandShortName; స్వయంచాలనంగా కొత్తవాటి  కొరకు  పరశీలించటాన్ని  చేతనంచేయండి.">
