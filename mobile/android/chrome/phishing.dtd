@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "¡Sacáime d'equí!">
 <!ENTITY safeb.palm.decline.label "Inorar esta alvertencia">
 <!ENTITY safeb.palm.reportPage.label "¿Por qué se bloquió esta páxina?">
-<!ENTITY safeb.palm.whyForbidden.label "¿Por qué se bloquió esta páxina?">
 
 <!ENTITY safeb.blocked.malwarePage.title "¡Informóse de páxina atacante!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Informóse de la páxina web en <span id='unwanted_sitename'/> por contener software indeseyáu y bloquióse basándose nes tos preferencies de seguranza.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Les páxines de software indeseyáu tenten d'instalar software que pue ser fraudulentu y afeutar al to sistema de formes inesperaes.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Sitiu bloquiáu">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Bloquióse la páxina web en <span id='forbidden_sitename'/> pol to perfil d'alministración.">
