@@ -111,8 +111,6 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Boloke ak benn taxawayu kaaraange këmb">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; dafa tere yebum xët wi ci noonu ndax xët wi dafa am taxawaayu kaaraange këmb bu ko nanguwul.</p>">
 
-<!ENTITY corruptedContentError.title "Njumte ci këmb bu sankar">
-<!ENTITY corruptedContentError.longDesc "<p>Xët wi nga bëgg xool mënul wone wu ndax dafay jëfandikoo xeetu naj bu jagul walla kenn tëggaalewuko.</p><ul><li> Jokkool ak webmaster bu dal bi ngir yëgal ko jafe jafe bi.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Yokk lu kenn tëggaalewul…">
@@ -127,6 +125,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

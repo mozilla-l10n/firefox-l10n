@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Jumte ci fatum xët wi">
 <!ENTITY retry.label "Jéemaatal">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Jokkoo bi lajj na">
 <!ENTITY connectionFailure.longDesc "<p>Dal bi niru na lu baax, wante joowkat bi mënul jokkoo.</p>
@@ -35,6 +35,7 @@ ci bindum màkkaan bi ?</li>
 <li>Ndax am nga ay ndigali jot yu mët ci dencukaay bi ?</li> 
 </ul>">
 
+
 <!ENTITY generic.title "Laaj bi mënula sotti">
 <!ENTITY generic.longDesc "<p>Xamu ñu lu tax, Faayafoks mënula yeb xët wi</p>">
 
@@ -55,7 +56,6 @@ sa ordinatëër.</li>
 <!ENTITY notCached.longDesc "<p>Jukki bi ñu laaj féexul ci dambu jowkat bi.</p><ul><li>ngir kaarange, jowkat bi du tëb rekk laaj yenn jukki yi.</li><li> Cuqal ci Jéematal ngir laajaat jukki bi ci dalub web bi.</li></ul>">
 
 <!ENTITY netOffline.title "Anamu jokkoodiku">
-
 
 <!ENTITY contentEncodingError.title "Njumte ci suulaale këmb gi">
 <!ENTITY contentEncodingError.longDesc "<p>Xët wi nga bëgg mënul wone wu ndax dafay jëfandikoo xeetu naj bu jagul walla kenn tëggaalewuko.</p><ul><li> Jokkool ak webmaster bu dal bi ngir yëgal ko jafe jafe bi.</li></ul>">
@@ -95,26 +95,13 @@ Jéemaatal.</p>">
 <li>Lii mën nekk jafe jafe ci tabbin walla mu nekk nit kuy sacc dantite serwëër bi.</li><li>Su fekkee da nga jokkoo ci ni mu ware ak serwëër bi, xëyna njumte bi du yagg te mën nga jeemaat ci kanam.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Ragal nañu ni dal bi baaxul !">
-<!ENTITY malwareBlocked.longDesc "<p>Dal yu bon yi dañuy jéema samp ay tëralin yuy sacc say xibaari bopp, di jëfandikoo sa ordinatëër ngir song yeneen walla yaq sa sistem.</p> 
-<p>Boroom dal yi ñu tuumaal ni baaxuñu mën nañu <a href='http://www.stopbadware.org/home/reviewinfo'>laaj ñu seetaat loolu</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Dal bi royaal la !">
-<!ENTITY phishingBlocked.longDesc "<p>Dugal say xibaari bopp ci xët wile mën na indi saccum dantite walla foród.</p> 
-<p>Dali royaal yii dañuleen di faral di jëfandikoo ci ay e mail foród 
-ngir di song songu doolinka ngir toppandoo cosaan yi nga wóolu.</p>">
-
-
-
-
 
 <!ENTITY cspBlocked.title "Boloke ak benn taxawayu kaaraange këmb">
 <!ENTITY cspBlocked.longDesc "<p>Joowkat bi dafa tere yebum xët wi ci noonu ndax xët wi dafa am taxawaayu kaaraange këmb bu ko naguwul.</p>">
 
-<!ENTITY corruptedContentError.title "Njumte ci këmb bu sankar">
-<!ENTITY corruptedContentError.longDesc "<p>Xët wi nga bëgg mënul wonewu ndax dafay jëfandikoo xeetu naj bu jagul walla kenn tëggaalewuko.</p><ul><li> Jokkool ak webmaster bu dal bi ngir yëgal ko jafe jafe bi.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL bu sori">
 <!ENTITY remoteXUL.longDesc "<ul><li>Jokkool ak boroomi dalub web ngir yëgal leen jafe jafe bi.</li></ul>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

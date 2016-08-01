@@ -150,6 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "Mandarga xët yi">
 <!ENTITY viewBookmarksToolbar.label         "Sa banqaasu bopp">
 
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -399,7 +400,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "u">
 <!ENTITY mediaUnmute.label           "Dektu">
 <!ENTITY mediaUnmute.accesskey       "e">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and

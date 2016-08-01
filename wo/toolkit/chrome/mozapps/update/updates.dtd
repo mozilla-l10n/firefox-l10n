@@ -22,28 +22,10 @@ amuloo dendu disk bu mat.">
 <!ENTITY  manualUpdateGetMsg.label        "Mën nga am itam sumb bi mujj bu &brandShortName; ci :">
 
 
-
-
-<!ENTITY  incompatibleCheck.title         "Settantal ndax modili mottali yi dëppoo nañu">
-<!ENTITY  incompatibleCheck.label         "Wut sumb yu bees ci say modili mottali…">
-
 <!ENTITY  clickHere.label                 "Am yeneen xibaar ci yeesal bile">
 
 <!ENTITY  evangelism.desc                 "Digal nñu la bu baax nga jëfe yeesalu &brandShortName; 
 ci ni mu gëne gaawe.">
-
-<!ENTITY  license.instructions            "Su fekkee nangu nga deggoo bi, cuqal ci nangu naa 
-fii ci suuf ngir kontine samp yeesal gi.">
-
-<!ENTITY  license.titleText               "Deggoo yaatal xeltéef">
-<!ENTITY  license.introText               "Amam yi ngay jëfandikoo xeltéef bi.">
-<!ENTITY  license.instructionText         "Jangal deggoo yaatal bii. Jëfandikool banqaaasu yéeg ak wacc ngir gis desitu deggoo bi.">
-<!ENTITY  license.accept                  "Nangu naa ni deggoo yaatal bi tëdde ">
-<!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Nanguwuma ni deggoo yaatal bi tëdde">
-<!ENTITY  license.decline.accesskey       "T">
-
-<!ENTITY  incompatibleList.title          "Gis nañu ay modil yu dëppoowul">
 
 <!ENTITY  downloadPage.title              "Yebum &brandShortName;">
 <!ENTITY  downloading.intro               "Yebum yeesal…">
@@ -76,10 +58,6 @@ bu wóorul. Jéemal seet sa ubbikatu jokkoo ngir ndimbal.">
 <!ENTITY  finishedBackground.name         "Yeesal:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Yeesal gi dina sampu bu &brandShortName; tambaliwaatee. Mën nga tambaliwaat &brandShortName; léegi, walla nga kontine sa liggéey te tambaliwaat ci kanam.">
-
-<!ENTITY  installed.title                 "Yeesal bi sampu na">
-<!ENTITY  installed.intro                 "Yeesal bi sampu na ak ndam.">
-<!ENTITY  whatsnew.label                  "Gën cee xam ci bees bees yi…">
 
 <!ENTITY  update.details.label            "Benn bennal yi">
 <!ENTITY  update.installedOn.label        "Besu sampu :">
