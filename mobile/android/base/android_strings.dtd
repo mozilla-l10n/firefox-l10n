@@ -44,9 +44,10 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Mobile">
 <!ENTITY  history_title "Ιστορικό">
-<!ENTITY  recent_tabs_title "Πρόσφατες καρτέλες">
 
 <!ENTITY  switch_to_tab "Μετάβαση σε καρτέλα">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "Αναφορά σφαλμάτων &brandShortName;">
 <!ENTITY  crash_message2 "Ο &brandShortName; αντιμετώπισε ένα πρόβλημα και κατέρρευσε. Οι καρτέλες σας θα πρέπει να εμφανιστούν στην αρχική σελίδα του &brandShortName; όταν τον επανεκκινήσετε.">
@@ -269,6 +270,15 @@
 
 <!ENTITY pref_whats_new_notification "Τί νέο υπάρχει στον &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Μάθετε για τα νέα χαρακτηριστικά από μια ενημέρωση">
+
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY tracking_protection_prompt_title "Τώρα και με προστασία δεδομένων περιήγησης">
 <!ENTITY tracking_protection_prompt_text "Ενεργή φραγή της καταγραφής δεδομένων περιήγησης έτσι ώστε να μην χρειάζεται να ανησυχείτε.">
@@ -570,10 +580,8 @@ size. -->
 <!ENTITY home_clear_history_button "Εκκαθάριση ιστορικού περιήγησης">
 <!ENTITY home_clear_history_confirm "Θέλετε σίγουρα να διαγράψετε το ιστορικό σας;">
 <!ENTITY home_bookmarks_empty "Οι σελιδοδείκτες που αποθηκεύετε θα εμφανίζονται εδώ.">
-<!ENTITY home_closed_tabs_title "Πρόσφατα κλεισμένες καρτέλες">
-<!ENTITY home_last_tabs_title "Καρτέλες της προηγούμενης συνεδρίας">
 <!ENTITY home_last_tabs_empty "Οι πρόσφατες καρτέλες σας θα εμφανίζονται εδώ.">
-<!ENTITY home_open_all "Άνοιγμα όλων">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Οι ιστοσελίδες που επισκεφθήκατε πιο πρόσφατα θα εμφανίζονται εδώ.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +633,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ασφαλής σύνδεση">
 <!ENTITY identity_connection_insecure "Μη ασφαλής σύνδεση">
-<!ENTITY identity_login_insecure "Αυτή η σελίδα δεν είναι ασφαλής και τα στοιχεία σύνδεσης σας ενδέχεται να υποκλαπούν.">
 <!ENTITY identity_connection_chromeui "Αυτή είναι μια ασφαλής σελίδα του &brandShortName;.">
 
 <!-- Mixed content notifications in site identity popup -->

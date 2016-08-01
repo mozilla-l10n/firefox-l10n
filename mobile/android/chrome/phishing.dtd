@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "Μακριά από εδώ!">
 <!ENTITY safeb.palm.decline.label "Αγνόηση αυτής της προειδοποίησης">
 <!ENTITY safeb.palm.reportPage.label "Γιατί έχει γίνει φραγή αυτής της ιστοσελίδας;">
-<!ENTITY safeb.palm.whyForbidden.label "Γιατί έχει γίνει αποκλεισμός αυτής της ιστοσελίδας;">
 
 <!ENTITY safeb.blocked.malwarePage.title "Η σελίδα έχει αναφερθεί ως κακόβουλη!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Η ιστοσελίδα <span id='unwanted_sitename'/> έχει αναφερθεί ότι περιέχει ανεπιθύμητο λογισμικό και έχει αποκλειστεί σύμφωνα με τις προτιμήσεις ασφαλείας σας.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Οι σελίδες με ανεπιθύμητο λογισμικό επιχειρούν να εγκαταστήσουν λογισμικό το οποίο ενδέχεται να είναι παραπλανητικό και να επηρεάσει το σύστημα σας με μη αναμενόμενο τρόπο.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Αποκλεισμένη σελίδα">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Η ιστοσελίδα <span id='forbidden_sitename'/> έχει αποκλειστεί από το προφίλ διαχειριστή σας.">
