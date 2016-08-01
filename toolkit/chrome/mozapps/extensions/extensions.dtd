@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "Овозможи">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Овозможи проверување на безбедноста при надградба на додаток">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Проверете дали ги користите најновите приклучоци">
-<!ENTITY info.plugincheck.tooltip               "Проверете дали ги користите најновите приклучоци">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Барај…">
 <!ENTITY view.discover.label                  "Земи додатоци">

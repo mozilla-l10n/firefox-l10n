@@ -125,6 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 <!ENTITY fullscreenWarning.afterDomain.label "сега се прикажува на цел екран">
 <!ENTITY fullscreenWarning.generic.label "Овој документ сега се прикажува на цел екран">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -132,6 +133,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Излези од приказ на цел екран (Esc)">
 <!ENTITY leaveDOMFullScreen.label "Исклучи цел екран">
 <!ENTITY leaveDOMFullScreen.accesskey "у">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "Затвори го прозорецот">
 <!ENTITY closeWindow.accesskey "п">
