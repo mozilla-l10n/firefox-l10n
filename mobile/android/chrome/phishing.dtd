@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "ఇక్కడినుండి నన్ను బయటపడవేయి!">
 <!ENTITY safeb.palm.decline.label "ఈ హెచ్చరికను పట్టించుకోకండి">
 <!ENTITY safeb.palm.reportPage.label "ఎందుకు ఈ పేజీ నిరోధించబడింది?">
-<!ENTITY safeb.palm.whyForbidden.label "ఎందుకు ఈ పేజీ నిరోధించబడింది?">
 
 <!ENTITY safeb.blocked.malwarePage.title "మోసపూరిత సైటుగా నివేదించబడింది!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> వద్ద ఉన్న వెబ్‌సైటు మోసపూరితమైనదిగా నివేదించబడింది అందువల్ల మీ బధ్రత అభీష్టాల మేరకు నిరోధించబడింది.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "అవాంఛిత సాఫ్ట్‌వేర్ పేజీలు మోసపూరితమైన సాఫ్ట్‌వేర్‌ను సంస్థాపించుటకు ప్రయత్నించును మరియు ఊహించనిరీతిలో మీ సిస్టమ్‌పై ప్రభావంచూపును.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "నిరోధిత సైట్">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "ద వెబ్ పేజీ <span id='forbidden_sitename'/> వద్ మీ నిర్వాహక ప్రొఫైల్ ద్వారా నిరోధించబడింది.">
