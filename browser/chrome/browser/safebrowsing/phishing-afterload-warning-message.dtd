@@ -14,7 +14,6 @@
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "T">
 <!ENTITY safeb.palm.reportPage.label "Prečo bola táto stránka zablokovaná?">
-<!ENTITY safeb.palm.whyForbidden.label "Prečo bola táto stránka zablokovaná?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Nahlásená škodlivá stránka!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -30,8 +29,4 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Webová stránka <span id='phishing_sitename'/> bola označená ako podvodná a na základe nastavení zabezpečenia bola zablokovaná.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Podvodné stránky majú za úlohu vás ohroziť. Môžu nainštalovať do vášho počítača nebezpečný softvér, alebo ukradnúť vaše osobné údaje, ako sú heslá, telefónne čísla alebo kreditné karty.</p><p>Zadanie akýchkoľvek informácií na takejto webovej stránke môže pre vás znamenať krádež vašej totožnosti alebo vaše ohrozenie inými podvodmi.</p>">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Zablokovaná stránka">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Táto webová stránka <span id='forbidden_sitename'/> bola zablokovaná na základe konfigurácie vášho administrátorského profilu.">
 
