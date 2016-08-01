@@ -44,8 +44,8 @@
 <!ENTITY useStyleSheetNone.accesskey "n">
 <!ENTITY useStyleSheetPersistentOnly.label "Predvolený štýl">
 <!ENTITY useStyleSheetPersistentOnly.accesskey "d">
-<!ENTITY bidiSwitchPageDirectionItem.label        "Prepnúť smer textu stránky">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "x">
+<!ENTITY bidiSwitchPageDirectionItem.label "Prepnúť smer textu stránky">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "x">
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
 <!ENTITY pageSourceCmd.accesskey "Z">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -58,9 +58,9 @@
 <!ENTITY goMenu.accesskey "r">
 <!ENTITY goHomeCmd.label "Domov">
 <!ENTITY goHomeCmd.accesskey "m">
-<!ENTITY historyCmd.label           "História">
-<!ENTITY historyCmd.accesskey       "H">
-<!ENTITY history.commandKey         "H">
+<!ENTITY historyCmd.label "História">
+<!ENTITY historyCmd.accesskey "H">
+<!ENTITY history.commandKey "H">
 <!ENTITY recentTabs.label "Nedávno zatvorené karty">
 <!ENTITY recentTabs.accesskey "e">
 <!ENTITY recentTabs.commandkey "t">
@@ -69,7 +69,7 @@
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY historyRestoreLastSession.label "Obnoviť predchádzajúcu reláciu">
 <!ENTITY historyRestoreLastSession.accesskey "b">
-<!ENTITY syncTabsMenu.label         "Karty z ďalších počítačov">
+<!ENTITY syncTabsMenu.label "Karty z ďalších počítačov">
 <!ENTITY syncTabsMenu.accesskey "K">
 
 <!-- Bookmarks Menu -->
@@ -122,17 +122,11 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Obrázky z tejto stránky nebudú nikdy prevzaté.">
 
-<!ENTITY cookieAllowPopupsCmd.label                  "Povoliť vyskakovacie okná pre túto stránku">
-<!ENTITY cookieAllowPopupsCmd.accesskey              "P">
-<!ENTITY cookieManagePopups.label                    "Spravovať vyskakovacie okná">
-<!ENTITY cookieManagePopups.accesskey                "S">
 
 <!ENTITY cookieCookieManager.label "Správca cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Správca obrázkov">
 <!ENTITY cookieImageManager.accesskey "b">
-<!ENTITY cookiePopupManager.label "Správca vyskakovacích okien">
-<!ENTITY cookiePopupManager.accesskey "k">
 
 <!ENTITY clearPrivateDataCmd.label "Odstrániť súkromné údaje…">
 <!ENTITY clearPrivateDataCmd.accesskey "O">
