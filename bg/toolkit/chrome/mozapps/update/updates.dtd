@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Проверка за обновявания">
 <!ENTITY  updateCheck.label               "Преглеждане за по-нова версия на &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Намерени са обновявания за приставки">
-<!ENTITY  pluginupdatesfound.label        "Намерени са по-нови версии на една или повече от вашите приставки.">
-<!ENTITY  pluginupdateslink.label         "Вижте как да обновите приставките си.">
-
 <!ENTITY  noupdatesfound.title            "Не са открити обновявания">
 <!ENTITY  noupdatesautoenabled.intro      "Няма обновявания. &brandShortName; ще проверявапериодично за такива.">
 <!ENTITY  noupdatesautodisabled.intro     "Няма обновявания. Проверете друг път или включете функцията за автоматично обновяване на &brandShortName;.">
