@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "è ussa en il modus da maletg entir">
 <!ENTITY fullscreenWarning.generic.label "Quest document è ussa en il modus da maletg entir">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +136,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Bandunar il modus da maletg entir (esc)">
 <!ENTITY leaveDOMFullScreen.label "Bandunar il modus da maletg entir">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
 <!ENTITY closeWindow.label "Serrar la fanestra">
 <!ENTITY closeWindow.accesskey "r">
@@ -720,12 +727,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Mussar avis sin il desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Servetschs dal <label/> èn vegnids activads. Ti pos midar tia configuraziuns per servetschs en l'<label class='text-link'>administraziun da supplements</label>.">
-<!ENTITY social.activated.undo.label "Uups, revocar quai!">
-<!ENTITY social.activated.undo.accesskey "R">
 <!ENTITY social.learnMore.label "Dapli infurmaziuns…">
 <!ENTITY social.learnMore.accesskey "i">
-<!ENTITY social.closeNotificationItem.label "Betg ussa">
 
 <!ENTITY social.directory.label "Register da servetschs">
 <!ENTITY social.directory.text "Ti pos activar servetschs da cundivider en il register.">

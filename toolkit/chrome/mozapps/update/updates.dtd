@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Tschertgar actualisaziuns disponiblas">
 <!ENTITY  updateCheck.label               "Tschertgar novas versiuns da &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Chattà actualisaziuns per plug-ins">
-<!ENTITY  pluginupdatesfound.label        "Versiuns pli novas dad in u plirs da tes plug-ins èn vegnidas chattadas.">
-<!ENTITY  pluginupdateslink.label         "Legia co che ti po actualisar tes plug-ins.">
-
 <!ENTITY  noupdatesfound.title            "Naginas actualisaziuns disponiblas">
 <!ENTITY  noupdatesautoenabled.intro      "Naginas actualisaziuns novas disponiblas. &brandShortName; vegn a controllar regularmain,                               schebain actualisaziuns stattan a disposiziun.">
 <!ENTITY  noupdatesautodisabled.intro     "Naginas actualisaziuns novas disponiblas. Emprova per plaschair pli tard anc ina giada                                           u activescha l'opziun da tschertgar automaticamain actualisaziuns da &brandShortName;.">
