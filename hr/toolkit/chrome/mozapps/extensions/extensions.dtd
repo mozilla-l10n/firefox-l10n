@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Provjera dostupnosti sigurnosnih dopuna za dodatke je onemogućena. Dodacima možda nedostaju sigurnosne dopune.">
 <!ENTITY warning.updatesecurity.enable.label       "Omogući">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Omogući provjeru dostupnosti sigurnosnih dopuna za dodatke">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Provjerite jesu li vaši priključci ažurni">
-<!ENTITY info.plugincheck.tooltip               "Provjerite jesu li vaši priključci ažurni">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Traži">

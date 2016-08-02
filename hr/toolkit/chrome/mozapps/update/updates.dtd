@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Provjera za dopunama">
 <!ENTITY  updateCheck.label               "Traženje novije inačice &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Pronađene nadogradnje za priključke">
-<!ENTITY  pluginupdatesfound.label        "Pronađena je novija inačica jednog ili više vaših priključaka.">
-<!ENTITY  pluginupdateslink.label         "Pogledajte kako nadograditi vaše priključke.">
-
 <!ENTITY  noupdatesfound.title            "Nijedna dopuna nije pronađena">
 <!ENTITY  noupdatesautoenabled.intro      "Nema dostupnih dopuna. &brandShortName; će periodički provjeravati dostupnost dopuna.">
 <!ENTITY  noupdatesautodisabled.intro     "Nema dostupnih dopuna. Pokušajte ponovo kasnije ili omogućite &brandShortName;ovu automatsku provjeru dopuna.">
