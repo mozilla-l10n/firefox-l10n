@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Treu-me d'aquí!">
 <!ENTITY safeb.palm.decline.label "Ignora aquest avís">
-<!ENTITY safeb.palm.reportPage.label "Per què s'ha blocat aquesta pàgina?">
-<!ENTITY safeb.palm.whyForbidden.label "Per què s'ha blocat aquesta pàgina?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "S'ha informat que el lloc web és atacant!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "S'ha informat que aquesta pàgina web de <span id='unwanted_sitename'/> conté programari indesitjable i s'ha blocat d'acord amb les vostres preferències de seguretat.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Les pàgines amb programari indesitjable intenten instal·lar programari que pot portar a enganys i afectar el vostre sistema de formes inesperades.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Lloc blocat">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "La pàgina web de <span id='forbidden_sitename'/> s'ha blocat d'acord amb el vostre perfil d'administrador.">
