@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Chaidh an sgrùdadh tèarainteachd air ùrachadh nan tuilleadain a chur à comas. Dh'fhaodadh gun cuir ùrachaidhean cron ort.">
 <!ENTITY warning.updatesecurity.enable.label       "Cuir an comas">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Cuir an comas sgrùdadh tèarainteachd nan tuilleadan">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Thoir sùil ach a bheil na plugain agad cho ùr 's a ghabhas">
-<!ENTITY info.plugincheck.tooltip               "Thoir sùil ach a bheil na plugain agad cho ùr 's a ghabhas">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Lorg">

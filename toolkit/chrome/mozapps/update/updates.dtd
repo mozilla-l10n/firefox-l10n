@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "A' lorg ùrachaidhean">
 <!ENTITY  updateCheck.label               "A' lorg tionndaidhean nas ùire de &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Chaidh ùrachaidhean airson plugain a lorg">
-<!ENTITY  pluginupdatesfound.label        "Chaidh tionndaidhean nas ùire a lorg airson aon dhe na plugain agad air a' char as lugha.">
-<!ENTITY  pluginupdateslink.label         "Seall mar a dh'ùraicheas tu na plugain agad.">
-
 <!ENTITY  noupdatesfound.title            "Cha deach ùrachadh a lorg">
 <!ENTITY  noupdatesautoenabled.intro      "Chan eil ùrachaidhean ri am faighinn. Cuiridh &brandShortName; sùil o àm gu àm ach am bi ùrachadh ann.">
 <!ENTITY  noupdatesautodisabled.intro     "Chan eil ùrachaidhean ri am faighinn. Cuir sùil a-rithist an ceann tàmaill no leig le &brandShortName; ùrachaidhean a lorg leis fhèin.">
