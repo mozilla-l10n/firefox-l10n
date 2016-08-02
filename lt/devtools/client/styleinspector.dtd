@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "Paiešką tenkinančių stiliaus savybių nėra.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "Rezultatas">
-<!ENTITY ruleViewTitle         "Taisyklės">

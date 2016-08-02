@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "Vietoje naujų langų atverti naujas korteles">
-<!ENTITY newWindowsAsTabs.accesskey   "k">
+
+
 
 <!ENTITY warnCloseMultipleTabs.label  "Įspėti prieš užveriant langą, kuriame yra atvertų kortelių">
 <!ENTITY warnCloseMultipleTabs.accesskey  "ė">
