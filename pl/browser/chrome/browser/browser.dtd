@@ -90,6 +90,7 @@
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Wyświetl wszystkie karty">
 <!ENTITY showAllTabsCmd.accesskey "W">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Zaloguj się do &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Otwórz ustawienia &syncBrand.shortName.label;">
