@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label "Fayllarni qayerga saqlash doimo mendan so‘ralsin">
 <!ENTITY alwaysAsk.accesskey "d">
 
-<!ENTITY alwaysCheckDefault2.label        "Agar &brandShortName; standart brauzeringiz bo‘lsa, doimo tekshirilsin">
-<!ENTITY alwaysCheckDefault2.accesskey    "t">
+
 <!ENTITY setAsMyDefaultBrowser2.label     "Asosiy sifatida o‘rnatish">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "A">
 <!ENTITY isDefault.label                  "&brandShortName; - hozircha standart brauzeringiz">

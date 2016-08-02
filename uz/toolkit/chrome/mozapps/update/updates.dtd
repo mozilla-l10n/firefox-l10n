@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Yangilanishlar uchun tekshirish">
 <!ENTITY  updateCheck.label               "&brandShortName;ning yangi versiyalari izlanmoqda...">
 
-<!ENTITY  pluginupdatesfound.title        "Plaginlar uchun yangilanishlar topildi">
-<!ENTITY  pluginupdatesfound.label        " Bir yoki bir nechta plaginlar uchun yangi versiyalar topildi.">
-<!ENTITY  pluginupdateslink.label         "Plaginlaringizni qanday yangilanishini kuzating.">
-
 <!ENTITY  noupdatesfound.title            "Yangilanishlar topilmadi">
 <!ENTITY  noupdatesautoenabled.intro      "Yangilanishlar mavjud emas. &brandShortName; vaqti-vaqti bilan yangilanishlarni tekshirib turadi.">
 <!ENTITY  noupdatesautodisabled.intro     "Yangilanishlar mavjud emas. Sal keyinroq tekshirib koʻring yoki&brandShortName;'ning avtomatik yangilanishni tekshirishini yoqib qoʻying.">

@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Saytlardan kukilarga rozi bo‘lish">
 <!ENTITY  acceptCookies.accesskey       "r">
 
-<!ENTITY  acceptThirdParty.pre.label      "Begona taraf kukilariga ruxsat berish:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "r">
+
 <!ENTITY  acceptThirdParty.always.label   "Doimo">
 <!ENTITY  acceptThirdParty.never.label    "Hech qachon">
 <!ENTITY  acceptThirdParty.visited.label  "Kirilganlardan">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Sozlamalar…">
 <!ENTITY  clearOnCloseSettings.accesskey "l">
+
+
+
+

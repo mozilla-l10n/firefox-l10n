@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Qoʻshimcha dasturlarni xavfsiz yangilash oʻchirilgan. Yangilanishlar uchun xavf ostida boʻlishi mumkin.">
 <!ENTITY warning.updatesecurity.enable.label       "Yoqish">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Qoʻshimcha dasturni xavfsiz yangilashni tekshirishni yoqish">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Plaginlar yangilanganini tekshirib koʻrish">
-<!ENTITY info.plugincheck.tooltip               "Agar plaginlaringiz yangilangan boʻlsa tekshirish">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Izlash">
