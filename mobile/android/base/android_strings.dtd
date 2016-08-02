@@ -37,9 +37,9 @@
 
 <!ENTITY  bookmarks_title "বুকমার্কসমুহ">
 <!ENTITY  history_title "পূর্ববর্তী তথ্য">
-<!ENTITY  recent_tabs_title "সাম্প্রতিক ট্যাবগুলি">
 
 <!ENTITY  switch_to_tab "চিহ্নিত ট্যাবে যান">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "&brandShortName; ক্র্যাশ প্রতিবেদক">
 <!ENTITY  crash_message2 "&brandShortName; তে একটি সমস্যার দরুন সেটি ক্র্যাশ করেছে। পুনরায় চালু করার সময় আপনার ট্যাবসমূহ &brandShortName; এর শুরুর পৃষ্ঠে তালিকাভুক্ত করা থাকবে।">
@@ -94,10 +94,9 @@
 <!ENTITY edit_mode_cancel "বাতিল করুন">
 
 <!ENTITY close_tab "ট্যাব বন্ধ করুন">
-<!ENTITY one_tab "1 ট্যাব">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; ট্যাবসমূহ">
 <!ENTITY new_tab_opened "নতুন ট্যাব খোলা হয়েছে">
 <!ENTITY new_private_tab_opened "নতুন প্রাইভেট ট্যাব খোলা হয়েছে">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -242,6 +241,14 @@
 <!ENTITY pref_tracking_protection_disabled "নিষ্ক্রিয়">
 
 
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "এখন ট্র্যাকিং সুরক্ষার সঙ্গে">
 <!ENTITY tracking_protection_prompt_text "সক্রিয়ভাবে ট্র্যাকিং উপাদান অবরোধ করে, আপনাকে চিন্তা করতে হবে না।">
@@ -344,6 +351,7 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "সাইটের বৈশিষ্ট্যাবলী">
 <!ENTITY pref_private_data_downloadFiles2 "ডাউনলোডডাউনলোডসমূহ">
 <!ENTITY pref_private_data_syncedTabs "সিঙ্ক করা ট্যাবগুলি">
+
 
 <!ENTITY pref_about_firefox "&brandShortName; এর সম্পর্কে">
 <!ENTITY pref_vendor_faqs "FAQs">
@@ -525,10 +533,11 @@ size. -->
 <!ENTITY home_clear_history_button "ব্রাউসারের ইতিহাস মুছে ফেলুন">
 <!ENTITY home_clear_history_confirm "আপনি কি নিশ্চিতরূপে আপনার ইতিহাস মুছে ফেলতে ইচ্ছুক?">
 <!ENTITY home_bookmarks_empty "আপনি যেই বুকমার্কগুলি সংরক্ষণ করবেন সেগুলি এখানে দেখাবে।">
-<!ENTITY home_closed_tabs_title "সম্প্রতি বন্ধ করা ট্যাব">
-<!ENTITY home_last_tabs_title "শেষবারের ট্যাবগুলি">
+
 <!ENTITY home_last_tabs_empty "আপনার সাম্প্রতিক ট্যাবগুলি এখানে দেখাবে।">
-<!ENTITY home_open_all "সবগুলি খুলুন">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "আপনার সাম্প্রতিকতম পরিদর্শিত ওয়েবসাইট গুলি এখানে দেখতে পাবেন।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -577,7 +586,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "সুরক্ষিত সংযোগ">
 <!ENTITY identity_connection_insecure "নিরাপত্তাহীন সংযোগ">
-
 
 <!-- Mixed content notifications in site identity popup -->
 
