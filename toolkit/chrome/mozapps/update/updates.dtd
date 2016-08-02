@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "កំពុង​​ពិនិត្យមើល​បច្ចុប្បន្នភាព">
 <!ENTITY  updateCheck.label               "កំពុង​រក​មើល​កំណែ​ថ្មី​ជាង​របស់ &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "បាន​រក​ឃើញ​បច្ចុប្បន្នភាព​សម្រាប់​កម្មវិធី​ជំនួយ">
-<!ENTITY  pluginupdatesfound.label        "បាន​រក​ឃើញ​កំណែ​ថ្មី​នៃ​កម្មវិធី​ជំនួយ​របស់​អ្នក ។">
-<!ENTITY  pluginupdateslink.label         "មើល​អំពី​របៀប​ធ្វើឲ្យ​កម្មវិធី​ជំនួយ​របស់​អ្នក​ប្រសើរ​ឡើង ។">
-
 <!ENTITY  noupdatesfound.title            "រក​មិន​ឃើញ​​បច្ចុប្បន្នភាព">
 <!ENTITY  noupdatesautoenabled.intro      "មិន​មាន​បច្ចុប្បន្នភាព​ទេ ។ &brandShortName; នឹង​ពិនិត្យមើល​ បច្ចុប្បន្នភាព​យ៉ាង​ទៀងទាត់ ។">
 <!ENTITY  noupdatesautodisabled.intro     "មិន​មាន​បច្ចុប្បន្នភាព​ទេ ។ សូម​ពិនិត្យ​មើល​ម្ដងទៀត ឬ​បើក​ ការ​ពិនិត្យ​រកមើល​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ​របស់ &brandShortName; ។">

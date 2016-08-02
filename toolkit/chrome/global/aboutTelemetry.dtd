@@ -48,6 +48,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Thread Hangs">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "   គំនូស​តាង​ជា​របារ">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">

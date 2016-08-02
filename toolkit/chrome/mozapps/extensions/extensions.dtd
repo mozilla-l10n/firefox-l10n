@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "ការ​ត្រួតពិនិត្យ​សុវត្ថិភាព​នៃ​បច្ចុប្បន្នភាព​របស់​កម្មវិធី​បន្ថែម​ត្រូវ​បាន​បិទ ។ អ្នក​អាច​នឹង​ត្រូវ​បាន​សម្របសម្រួល​ទៅតាម​បច្ចុប្បន្នភាព ។">
 <!ENTITY warning.updatesecurity.enable.label       "បើក">
 <!ENTITY warning.updatesecurity.enable.tooltip     "បើក​ការ​ត្រួតពិនិត្យមើល​សុវត្ថិភាព​នៃ​បច្ចុប្បន្នភាព​របស់​កម្មវិធី​បន្ថែម">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "ពិនិត្យមើល​ថា​តើ​ កម្មវិធី​ជំនួយ​ទាន់សម័យ​ដែរ​ឬ​ទេ">
-<!ENTITY info.plugincheck.tooltip               "ពិនិត្យមើល​ថា​តើ​ កម្មវិធី​ជំនួយ​ទាន់សម័យ​ដែរ​ឬ​ទេ">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "ស្វែងរក">
