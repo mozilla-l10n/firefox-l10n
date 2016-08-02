@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Get me out of here!">
 <!ENTITY safeb.palm.decline.label "इस चेतावनी को अनदेखा करें">
-<!ENTITY safeb.palm.reportPage.label " यह पृष्ठ क्यों रोका गया था?">
-<!ENTITY safeb.palm.whyForbidden.label "क्यों यह पृष्ठ रोका गया है?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "This web page at <span id='unwanted_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "अवांछित सॉफ्टवेयर पृष्ठ वह सॉफ्टवेयर स्थापित करने का प्रयास करें जो भ्रामक हो सकता है और अप्रत्याशित तरीके में आपके तंत्र को प्रभावित कर सकता है.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "रोका गया अद्यतन">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "<span id='forbidden_sitename'/> पर वेब पृष्ठ आपके व्यवस्थापक प्रोफाइल द्वारा ब्लॉक किया गया हैं.">
