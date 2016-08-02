@@ -34,7 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Starši ping &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Hrube pingdaty ...">
+<!ENTITY aboutTelemetry.rawPingData "Hrube pingdaty…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Tydźeń">
 
@@ -51,6 +51,8 @@
 <!ENTITY aboutTelemetry.chromeHangsSection "  Wisanja wobhladowaka">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Wisanja nitkow">
+
+<!ENTITY aboutTelemetry.scalarsSection "  Skalary">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramy">
 

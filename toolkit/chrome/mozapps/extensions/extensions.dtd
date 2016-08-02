@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Přepruwowanje wěstoty aktualizacije je znjemóžnjene. Je móžno, zo aktualizacije wam wohrožuja.">
 <!ENTITY warning.updatesecurity.enable.label       "Zmóžnić">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Přepruwowanje wěstoty aktualizacije zmóžnić">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Přepruwujće, hač waše tykače su aktualne">
-<!ENTITY info.plugincheck.tooltip               "Přepruwujće, hač waše tykače su aktualne">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Pytać">

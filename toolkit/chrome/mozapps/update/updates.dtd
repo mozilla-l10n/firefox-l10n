@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Za aktualizacijemi pruwować">
 <!ENTITY  updateCheck.label               "Pytanje za nowymi wersijemi &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Aktualizacije za tykače namakane">
-<!ENTITY  pluginupdatesfound.label        "Nowše wersije jednoho tykača abo wjacorych tykačow namakane.">
-<!ENTITY  pluginupdateslink.label         "Hladać, kak so tykače aktualizuja.">
-
 <!ENTITY  noupdatesfound.title            "Žane aktualizacije namakane">
 <!ENTITY  noupdatesautoenabled.intro      "Aktualizacije k dispoziciji njesteja. &brandShortName; budźe periodisce za aktualizacijemi pruwować.">
 <!ENTITY  noupdatesautodisabled.intro     "Aktualizacije k dispoziciji njesteja. Prošu pruwujće pozdźišo hišće raz abo zmóžńće awtomatiske pruwowanje za aktualizacijemi &brandShortName;.">
