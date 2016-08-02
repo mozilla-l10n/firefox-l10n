@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Ta mig härifrån!">
 <!ENTITY safeb.palm.decline.label "Ignorera den här varningen">
-<!ENTITY safeb.palm.reportPage.label "Varför blockerades den här sidan?">
-<!ENTITY safeb.palm.whyForbidden.label "Varför blockerades den här sidan?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Angreppsrisk!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Webbsidan på <span id='unwanted_sitename'/> har rapporterats göra angrepp på telefoner/datorer och har därför blockerats enligt dina säkerhetsinställningar.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Oönskade programvarusidor kan försöka installera programvara som kan vara vilseledande och påverka ditt system på oväntade sätt.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Blockerad Webbplats">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Webbsidan på <span id='forbidden_sitename'/> har blivit blockerad av din administratörsprofil.">
