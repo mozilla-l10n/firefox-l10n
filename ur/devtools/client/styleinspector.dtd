@@ -30,7 +30,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "کوئی CSS خواص نہیں ملے۔">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "حساب لگا لیا">
-<!ENTITY ruleViewTitle         "قاعدے">

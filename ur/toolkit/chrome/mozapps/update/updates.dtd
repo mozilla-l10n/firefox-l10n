@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "تازہ کاریوں کے لیے پڑتال کر رہا ہے">
 <!ENTITY  updateCheck.label               "&brandShortName; کی نئی ورژن کے لیے تلاش کر رہا ہے...">
 
-<!ENTITY  pluginupdatesfound.title        "پلگ ان کے لیے تازہ کاریاں ملیں">
-<!ENTITY  pluginupdatesfound.label        "آپ کے ایک یا ایک سے زیادہ پلگ ان کے لیے نئے ورژن ملے ہیں۔">
-<!ENTITY  pluginupdateslink.label         "دیکھے کہ آپ اپنے پلگ ان کیسے اپ گریڈ کر سکتے ہیں۔">
-
 <!ENTITY  noupdatesfound.title            "کوئی تازہ کاریاں نہیں ملیں">
 <!ENTITY  noupdatesautoenabled.intro      "کوئی تازہ کاری کریاں دستیاب نہیں۔ &brandShortName; معیادی طور پر تازہ کاریوں کے لیے چیک کرے گا۔">
 <!ENTITY  noupdatesautodisabled.intro     "کوئی تازہ کاریاں دستیاب نہیں۔ آپ کچھ دیر بعد پھر چیک کر لیں یا &brandShortName; کی خودکار تازہ کاری چیکنگ اہل بنا دیں۔">

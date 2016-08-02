@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "ایڈ اون سلامتی پڑتال نا اہل ہے۔ آپ کو تازہ کاریوں سے مسلہ ہو سکتا ہے۔">
 <!ENTITY warning.updatesecurity.enable.label       "اہل بنائیں">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ایڈ اون تازہ کاری سلامتی پڑتال کو اہل بنائیں">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "چیک کریں کہ آپ کے پلگ انتازہ ترین ہیں">
-<!ENTITY info.plugincheck.tooltip               "چیک کریں کہ آپ کے پلگ انتازہ ترین ہیں">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "تلاش کریں">
