@@ -48,6 +48,8 @@
 <!ENTITY  switch_to_tab "Tendayképe jeva">
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!ENTITY  tab_offline_version "Peteĩchagua jeikekuaa\u0027ỹha hechauka">
+
 <!ENTITY  crash_reporter_title "&brandShortName; marandu jejavyguáva">
 <!ENTITY  crash_message2 "&brandShortName; iñapañuãi ha ombeti. Itendaykekuéra yjysyiva\u0027erã &brandShortName;-pe kuatiarogue ñepyrũme emoñepyrũjeývo.">
 <!ENTITY  crash_send_report_message3 "Emombe\u0027u &vendorShortName;-pe jejavy rehegua oñemoĩporã hag̃ua">
@@ -106,9 +108,10 @@
 <!ENTITY edit_mode_cancel "Heja">
 
 <!ENTITY close_tab "Tendayke mboty">
-
+<!ENTITY one_tab "1 tendayke">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; tendayke">
 <!ENTITY new_tab_opened "Tendayke pyahu ijurujáva">
 <!ENTITY new_private_tab_opened "Tendayke ñemigua pyahu ijuruja">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -270,12 +273,18 @@
 <!ENTITY pref_whats_new_notification_summary "Eikuaa tembiaporã pyahu ñembohekopyahu riregua">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+
+<!ENTITY pref_category_experimental "Hesegua ha\u0027ãramóva">
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!ENTITY pref_custom_tabs "Tendayke mba\u0027etéva">
+<!ENTITY pref_custom_tabs_summary "Emoneĩ tembipuru\u0027ĩ ambue mba\u0027évape ombojurujávo URLs peteĩ jejapopyre mba\u0027etéva rupi.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY pref_activity_stream "Tembiapokue ramovéva">
+<!ENTITY pref_activity_stream_summary "Tembiasakue guasu jehecharãva ha kuatiarogue ñepyrũ japopyre nombohasýiva ejuhu hag̃ua umi nde jeheka &brandShortName; pegua.">
 
 <!ENTITY tracking_protection_prompt_title "Ko\u0027ág̃a, jehapykueho ñemo\u0027ãha ndive">
 <!ENTITY tracking_protection_prompt_text "Ejoko mba\u0027epuru jehapykueho ani hag̃ua rejepy\u0027apy.">
@@ -389,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Tendayke ñembojuehepyre">
 
 <!ENTITY pref_default_browser "Ejapo kundahára ijypykuéva">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Eike Mozilla mombytahápe">
 <!ENTITY pref_about_firefox "&brandShortName; reheguaite">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Temiandu mondo">
@@ -578,7 +587,7 @@ size. -->
 <!ENTITY home_clear_history_button "Embogue kundahára rembiasakue">
 <!ENTITY home_clear_history_confirm "Emboguetese añetete tembiasakue?">
 <!ENTITY home_bookmarks_empty "Techaukaha ñongatupure ehecháta ápe.">
-
+<!ENTITY home_closed_tabs_title2 "Oñembotyramovéva">
 <!ENTITY home_last_tabs_empty "Ne tendayke ramovéva ehecháta ápe.">
 
 
