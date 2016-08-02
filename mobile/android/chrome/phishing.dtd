@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Išeiti">
 <!ENTITY safeb.palm.decline.label "Nepaisyti šio įspėjimo">
-<!ENTITY safeb.palm.reportPage.label "Kodėl šis tinklalapis užblokuotas?">
-<!ENTITY safeb.palm.whyForbidden.label "Kodėl šis tinklalapis užblokuotas?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Tinklalapis laikomas kenkėjišku!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Yra pranešta, jog tinklalapis adresu <span id='unwanted_sitename'/> yra kenkėjiškas, tad jis užblokuotas remiantis jūsų saugumo nuostatomis.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Kenkėjiški tinklalapiai siekia įdiegti programinę įrangą, kuri gali būti apgaulinga ir pakenkti jūsų kompiuteriui.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Užblokuota svetainė">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Tinklalapis adresu <span id='forbidden_sitename'/> buvo užblokuotas remiantis jūsų administravimo profiliu.">
