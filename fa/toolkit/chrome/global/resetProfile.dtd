@@ -9,7 +9,7 @@
 <!ENTITY refreshProfile.dialog.items.label2  "بازگرداندن تنظیمات مرورگر شما به حالت پیش فرض">
 <!ENTITY refreshProfile.dialog.button.label  "بازآوری &brandShortName;">
 
-<!ENTITY refreshProfile.title                "ارائه &brandShortName; جهت بازبینی کلی ">
+<!ENTITY refreshProfile.title                "&brandShortName; را تنظیم کنید">
 <!ENTITY refreshProfile.button.label         "بازآوری &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "تقریبا انجام شده است...">
