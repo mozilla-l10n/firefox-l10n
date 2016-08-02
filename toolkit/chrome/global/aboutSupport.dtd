@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Информация за отстраняване на неизправности">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "Тази страница съдържа техническа информация, която може да ви е от полза, когато се опитвате да решите проблем. Ако търсите отговори на често задавани въпроси за &brandShortName;, проверете в нашата <a id='supportLink'>страница за поддръжка</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Доклади за крашове">
@@ -17,7 +17,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.extensionsTitle "Разширения">
 <!ENTITY aboutSupport.extensionName "Име">
-<!ENTITY aboutSupport.extensionEnabled "Активирано">
+<!ENTITY aboutSupport.extensionEnabled "Включено">
 <!ENTITY aboutSupport.extensionVersion "Версия">
 <!ENTITY aboutSupport.extensionId "ID">
 
@@ -34,9 +34,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Име">
 <!ENTITY aboutSupport.appBasicsVersion "Версия">
 <!ENTITY aboutSupport.appBasicsBuildID "Build идентификатор">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Канал за обновяване">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "История на обновяванията">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Показване на историята на обновяванията">
@@ -53,8 +53,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "ОС">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Използване на паметта">
 <!ENTITY aboutSupport.appBasicsPerformance "Производителност">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Регистрирани скрити обслужващи страници">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Профили">
@@ -75,8 +75,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Важни променени настройки">
 <!ENTITY aboutSupport.modifiedPrefsName "Име">
 <!ENTITY aboutSupport.modifiedPrefsValue "Стойност">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Настройки от user.js">
 <!ENTITY aboutSupport.userJSDescription "Вашата профилна папка съдържа файл <a id='prefs-user-js-link'>user.js</a>, който съдържа настройките, които не са създадени от &brandShortName;.">
 
@@ -86,7 +86,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Изчертаване">
 
-<!ENTITY aboutSupport.placeDatabaseTitle "База от данни за места">
+<!ENTITY aboutSupport.placeDatabaseTitle "База от данни на Places">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "Цялост">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Проверка на целостта">
 
@@ -94,7 +94,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsIncrementalGC "Постепенен GC">
 
 <!ENTITY aboutSupport.a11yTitle "Достъпност">
-<!ENTITY aboutSupport.a11yActivated "Активирано">
+<!ENTITY aboutSupport.a11yActivated "Включено">
 <!ENTITY aboutSupport.a11yForceDisabled "Предотвратяване на достъпност">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Версии на библиотеки">
