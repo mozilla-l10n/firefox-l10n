@@ -9,8 +9,8 @@
 <!ENTITY treehead.status.label        "Imimerere">
 <!ENTITY removepermission.label       "Gukuraho Rubuga">
 <!ENTITY removepermission.accesskey   "k">
-<!ENTITY removeallpermissions.label   "Gukuraho Imbuga Zose">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
 
 
 <!ENTITY block.label                  "Kubuza">

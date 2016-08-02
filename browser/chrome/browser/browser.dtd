@@ -604,8 +604,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Guhinduranya Icyerekezo cya Paji">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "G">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Guhindura Icyerekezo cy'Inyandiko">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Gushaka kuri Iyi Paji...">
