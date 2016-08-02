@@ -473,7 +473,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "v">
 <!ENTITY openFrameCmd.label           "Çerçeveyi yeni pencerede aç">
 <!ENTITY openFrameCmd.accesskey       "e">
-
+<!ENTITY openLinkCmdInContainerTab.label "Bağlantıyı yeni kapsayıcı sekmede aç">
 
 <!ENTITY showOnlyThisFrameCmd.label     "Sadece bu çerçeveyi göster">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
