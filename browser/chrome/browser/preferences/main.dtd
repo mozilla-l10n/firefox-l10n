@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label "Demana'm sempre on desar els fitxers">
 <!ENTITY alwaysAsk.accesskey "a">
 
-<!ENTITY alwaysCheckDefault2.label        "Comprova sempre si el &brandShortName; és el navegador per defecte">
-<!ENTITY alwaysCheckDefault2.accesskey    "o">
+
 <!ENTITY setAsMyDefaultBrowser2.label     "Fes que sigui el navegador per defecte">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "d">
 <!ENTITY isDefault.label                  "Actualment el &brandShortName; és el navegador per defecte">

@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Cerca d'actualitzacions">
 <!ENTITY  updateCheck.label               "S'estan cercant versions més noves del &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "S'han trobat actualitzacions dels connectors">
-<!ENTITY  pluginupdatesfound.label        "S'han trobat versions noves d'un o més dels vostres connectors.">
-<!ENTITY  pluginupdateslink.label         "Consulteu com actualitzar els vostres connectors.">
-
 <!ENTITY  noupdatesfound.title            "No s'ha trobat cap actualització">
 <!ENTITY  noupdatesautoenabled.intro      "No hi ha cap actualització disponible. El &brandShortName; cercarà actualitzacions periòdicament.">
 <!ENTITY  noupdatesautodisabled.intro     "No hi ha cap actualització disponible. Torneu-ho a provar més endavant o activeu la cerca d'actualitzacions automàtica del &brandShortName;.">
