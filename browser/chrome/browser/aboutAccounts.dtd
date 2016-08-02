@@ -5,7 +5,7 @@
 <!ENTITY aboutAccounts.welcome "მოგესალმებათ &syncBrand.shortName.label;">
 <!ENTITY aboutAccounts.connected "ანგარიში დაკავშირებულია">
 
-<!ENTITY aboutAccountsConfig.description "შედით სისტემაში თქვენი ჩანართების, სანიშნების, პაროლების &amp; მეტის სინქრონიზაციისთვის.">
+<!ENTITY aboutAccountsConfig.description "შედით სისტემაში თქვენი ჩანართების, სანიშნეების, პაროლების &amp; მეტის სინქრონიზაციისთვის.">
 <!ENTITY aboutAccountsConfig.startButton.label "დაიწყეთ">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Sync-ის ძველ ვერსიას იყენებთ?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "სინქრონიზაციის პარამეტრები">

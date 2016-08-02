@@ -13,7 +13,7 @@
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
 -->
-<!ENTITY engine.bookmarks.label           "სანიშნები">
+<!ENTITY engine.bookmarks.label           "სანიშნეები">
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "ისტორია">
 <!ENTITY engine.history.accesskey         "r">

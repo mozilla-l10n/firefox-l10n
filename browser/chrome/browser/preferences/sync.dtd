@@ -5,7 +5,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "&syncBrand.fullName.label;-ის მოწყობა">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; თქვენი ისტორიის, სანიშნების, პაროლების და გახსნილი ჩანართების ყველა მოწყობილობიდან წვდომის საშუალებას გაძლევთ .">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; თქვენი ისტორიის, სანიშნეების, პაროლების და გახსნილი ჩანართების ყველა მოწყობილობიდან წვდომის საშუალებას გაძლევთ .">
 
 <!-- The page shown when logged in... -->
 
@@ -23,7 +23,7 @@
 <!ENTITY pairDevice.label             "მოწყობილობის შეწყვილება">
 
 <!ENTITY syncMy.label               "დასინქრონირდეს ჩემი">
-<!ENTITY engine.bookmarks.label     "სანიშნები">
+<!ENTITY engine.bookmarks.label     "სანიშნეები">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "ჩანართები">
 <!ENTITY engine.tabs.accesskey      "T">
@@ -84,7 +84,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "Sync-ის ძველ ვერსიას იყენებთ?">
 
 <!ENTITY signedOut.caption            "წაიყოლეთ თქვენი ინტერნეტი თან">
-<!ENTITY signedOut.description        "დაასინქრონირეთ თქვენი სანიშნები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.">
+<!ENTITY signedOut.description        "დაასინქრონირეთ თქვენი სანიშნეები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; - დაკავშირება">
 <!ENTITY signedOut.accountBox.create  "ანგარიშის შექმნა">
 <!ENTITY signedOut.accountBox.signin  "შესვლა">

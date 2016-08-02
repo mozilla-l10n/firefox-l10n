@@ -18,7 +18,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "ერთ-წკაპიანი საძიებო სისტემები">
 
-<!ENTITY chooseWhichOneToDisplay.label         "საძიებო ზოლი პირდაპირ სხვა სისტემებში ძიების საშუალებას გაძლევთ. აირჩიეთ, რომლების გამოჩენა გსურთ.">
+<!ENTITY chooseWhichOneToDisplay.label         "საძიებო ზოლი პირდაპირ სხვა სისტემებში ძიების საშუალებას გაძლევთ. აირჩიეთ, მათგან რომელი გამოჩნდეს.">
 
 <!ENTITY engineNameColumn.label                "საძიებო სისტემა">
 <!ENTITY engineKeywordColumn.label             "საკვანძო სიტყვა">

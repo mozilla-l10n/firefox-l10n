@@ -75,9 +75,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "მენიუს ზოლი">
 <!ENTITY menubarCmd.accesskey "მ">
 <!ENTITY navbarCmd.label "ნავიგაციის ხელსაწყოთა ზოლი">
-<!ENTITY personalbarCmd.label "სანიშნების ხელსაწყოთა ზოლი">
+<!ENTITY personalbarCmd.label "სანიშნეების ხელსაწყოთა ზოლი">
 <!ENTITY personalbarCmd.accesskey "ს">
-<!ENTITY bookmarksToolbarItem.label "სანიშნების ზოლის ელემენტები">
+<!ENTITY bookmarksToolbarItem.label "სანიშნეების ზოლის ელემენტები">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "ყველა ჩანართის განახლება">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ყ">
@@ -146,7 +146,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "ფანჯრის დახურვა">
 <!ENTITY closeWindow.accesskey "ხ">
 
-<!ENTITY bookmarksMenu.label "სანიშნები">
+<!ENTITY bookmarksMenu.label "სანიშნეები">
 <!ENTITY bookmarksMenu.accesskey "ს">
 <!ENTITY bookmarkThisPageCmd.label "ამ გვერდის ჩანიშვნა">
 <!ENTITY editThisBookmarkCmd.label "ამ სანიშნის რედაქტირება">
@@ -175,7 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "ყველა სანიშნის ჩვენება">
 <!ENTITY recentBookmarks.label "ბოლოს ჩანიშნულები">
 <!ENTITY otherBookmarksCmd.label "სხვა სანიშნეები">
-<!ENTITY bookmarksToolbarChevron.tooltip "მეტი სანიშნების ჩვენება">
+<!ENTITY bookmarksToolbarChevron.tooltip "მეტი სანიშნის ჩვენება">
 <!ENTITY showRecentlyBookmarked.label     "ბოლოს ჩანიშნულების ჩვენება">
 <!ENTITY showRecentlyBookmarked.accesskey "ო">
 <!ENTITY hideRecentlyBookmarked.label     "ბოლოს ჩანიშნულების დამალვა">
@@ -229,10 +229,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label             "სახლი">
 
-<!ENTITY bookmarksButton.label          "სანიშნები">
+<!ENTITY bookmarksButton.label          "სანიშნეები">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "სანიშნები">
+<!ENTITY bookmarksMenuButton.label          "სანიშნეები">
 <!ENTITY bookmarksMenuButton.other.label "სხვა სანიშნეები">
 <!ENTITY viewBookmarksSidebar2.label        "სანიშნეთა გვერდითი ზოლის ჩვენება">
 <!ENTITY viewBookmarksToolbar.label         "სანიშნეთა ხელსაწყოთა ზოლის ჩვენება">
@@ -277,7 +277,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "ა">
 <!ENTITY newPrivateWindow.label     "ახალი პირადი ფანჯარა">
 <!ENTITY newPrivateWindow.accesskey "ფ">
-<!ENTITY newNonRemoteWindow.label   "ახალი არა-e10s ფანჯარა">
+<!ENTITY newNonRemoteWindow.label   "ახალი ერთპროცესიანი ფანჯარა">
 
 <!ENTITY editMenu.label         "რედაქტირება"> 
 <!ENTITY editMenu.accesskey       "რ"> 
@@ -789,7 +789,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "დამატებითი ხელსაწყოები და ფუნქციები">
 <!ENTITY customizeMode.menuAndToolbars.empty "მეტი ხელსაწყო გსურთ?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "აირჩიეთ ათასობით დამატებიდან">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "აირჩიეთ სასურველი ათასობით დამატებიდან">
 <!ENTITY customizeMode.restoreDefaults "ნაგულისხმევების აღდგენა">
 <!ENTITY customizeMode.toolbars "ხელსაწყოთა ზოლების ჩვენება / დამალვა">
 <!ENTITY customizeMode.titlebar "სათაურის ზოლი">

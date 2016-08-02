@@ -33,7 +33,7 @@
 <!ENTITY  locbar.suggest.label          "მისამართების ზოლის გამოყენებისას, შემოთავაზებები:">
 <!ENTITY  locbar.history.label          "ისტორია">
 <!ENTITY  locbar.history.accesskey      "ი">
-<!ENTITY  locbar.bookmarks.label        "სანიშნები">
+<!ENTITY  locbar.bookmarks.label        "სანიშნეები">
 <!ENTITY  locbar.bookmarks.accesskey    "ს">
 <!ENTITY  locbar.openpage.label         "გახსნილი ჩანართები">
 <!ENTITY  locbar.openpage.accesskey     "გ">
@@ -104,3 +104,4 @@
 
 <!ENTITY  clearOnCloseSettings.label     "პარამეტრები…">
 <!ENTITY  clearOnCloseSettings.accesskey "ტ">
+
