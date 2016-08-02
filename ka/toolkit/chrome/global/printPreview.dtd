@@ -30,7 +30,7 @@
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "განსაზღვრული…">
-<!ENTITY ShrinkToFit.label    "გვერდის შევსება">
+<!ENTITY ShrinkToFit.label    "გვერდზე მორგება">
 <!ENTITY customPrompt.title   "მითითებული მასშტაბი…">
 <!ENTITY simplifyPage.label   "გვერდის გამარტივება">
 <!ENTITY simplifyPage.enabled.tooltip  "შეცვალეთ განლაგება გამარტივებული კითხვისთვის">
