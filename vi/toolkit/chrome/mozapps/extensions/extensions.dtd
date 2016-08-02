@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Việc kiểm tra tính an toàn của các cập nhật tiện ích đã bị vô hiệu hóa. Bạn có thể bị tổn hại nếu cập nhật.">
 <!ENTITY warning.updatesecurity.enable.label       "Bật">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Kích hoạt kiểm tra tính bảo mật của cập nhật cho tiện ích">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Kiểm tra xem các plugin của bạn đã là mới nhất chưa">
-<!ENTITY info.plugincheck.tooltip               "Kiểm tra xem các plugin của bạn đã là mới nhất chưa">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Tìm kiếm">

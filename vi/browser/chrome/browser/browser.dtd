@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Gỡ tab">
 <!ENTITY  unpinTab.accesskey                 "G">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Di chuyển sang cửa sổ mới">
 <!ENTITY  moveToNewWindow.accesskey          "c">
 <!ENTITY  bookmarkAllTabs.label              "Đánh dấu tất cả các tab…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Hiện tất cả các tab">
 <!ENTITY showAllTabsCmd.accesskey "H">
 
+
 <!ENTITY fxaSignIn.label "Đăng nhập vào &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Mở tùy chỉnh của &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Kết nối lại tới &syncBrand.shortName.label;">
@@ -134,6 +141,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "Thoát chế độ toàn màn hình">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Đóng cửa sổ">
 <!ENTITY closeWindow.accesskey "c">
@@ -663,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "T">
 
 <!ENTITY editBookmark.done.label                     "Xong">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "Kết nối an toàn">
 <!ENTITY identity.connectionNotSecure "Kết nối này không an toàn">
@@ -752,12 +768,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Hiển thị thông báo trên màn hình">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Các dịch vụ từ <label/> đã được bật. Bạn có thể thay đổi tùy chọn trong mục <label class='text-link'>Quản lý tiện ích</label>.">
-<!ENTITY social.activated.undo.label "Hủy thao tác này!">
-<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "Tìm hiểu thêm…">
 <!ENTITY social.learnMore.accesskey "L">
-<!ENTITY social.closeNotificationItem.label "Không phải bây giờ">
 
 <!ENTITY social.directory.label "Danh mục các dịch vụ mạng xã hội">
 <!ENTITY social.directory.text "Bạn có thể thêm các dịch vụ chia sẻ từ danh mục.">

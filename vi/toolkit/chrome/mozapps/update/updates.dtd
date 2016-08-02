@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Tìm các Bản Cập nhật">
 <!ENTITY  updateCheck.label               "Đang tìm phiên bản mới hơn của &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Đã tìm thấy cập nhật cho Phần bổ trợ">
-<!ENTITY  pluginupdatesfound.label        "Đã tìm thấy phiên bản mới hơn cho phần bổ trợ của bạn.">
-<!ENTITY  pluginupdateslink.label         "Xem cách nâng cấp cho phần bổ trợ của bạn.">
-
 <!ENTITY  noupdatesfound.title            "Không có bản Cập nhật nào">
 <!ENTITY  noupdatesautoenabled.intro      "Không có cập nhật nào. &brandShortName; sẽ thường xuyên kiểm tra các cập nhật.">
 <!ENTITY  noupdatesautodisabled.intro     "Không có cập nhật nào. Vui lòng kiểm tra lại sau hoặc kích hoạt chế độ kiểm tra cập nhật tự động của &brandShortName;.">

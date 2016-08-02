@@ -30,7 +30,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "Không tìm thấy đặc tính CSS.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "Computed (được tính toán)">
-<!ENTITY ruleViewTitle         "Các quy tắc">

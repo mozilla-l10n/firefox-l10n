@@ -33,6 +33,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Các lần treo thread">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Đường tần số">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
