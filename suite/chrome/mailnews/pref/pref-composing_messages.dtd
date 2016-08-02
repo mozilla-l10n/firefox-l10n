@@ -33,6 +33,11 @@
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "背景：">
 <!ENTITY bgColor.accesskey                    "B">
+<!ENTITY defaultCompose.label                 "默认撰写格式：">
+<!ENTITY defaultBodyText.label                "正文（回车键创建新行）">
+<!ENTITY defaultBodyText.accesskey            "o">
+<!ENTITY defaultParagraph.label               "段落（回车键创建新段落）">
+<!ENTITY defaultParagraph.accesskey           "P">
 
 <!ENTITY selectHeaderType.label               "选择回复的信头类型：">
 <!ENTITY selectHeaderType.accesskey           "e">

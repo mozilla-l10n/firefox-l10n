@@ -122,11 +122,25 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "来自此网站的图像将不会被下载。">
 
+<!ENTITY popupsMessageChangeTitle.label "弹出窗口权限已更改">
+<!ENTITY popupAllowCmd.label "允许此网站弹出窗口">
+<!ENTITY popupAllowCmd.accesskey "A">
+<!ENTITY popupAllowMsg.label "此网站的弹出窗口将会弹出显示。">
+<!ENTITY popupDefaultCmd.label "使用默认弹出窗口权限">
+<!ENTITY popupDefaultCmd.accesskey "U">
+<!ENTITY popupDefaultMsg.label "此网站的弹出窗口将基于默认设置显示。">
+<!ENTITY popupBlockCmd.label "拦截此网站的弹出窗口">
+<!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupBlockMsg.label "此网站的弹出窗口将不会显示。">
+<!ENTITY popupsManage.label "管理弹出窗口">
+<!ENTITY popupsManage.accesskey "M">
 
 <!ENTITY cookieCookieManager.label "Cookie 管理器">
 <!ENTITY cookieCookieManager.accesskey "C">
 <!ENTITY cookieImageManager.label "图像管理器">
 <!ENTITY cookieImageManager.accesskey "I">
+<!ENTITY popupsManager.label "弹出窗口管理器">
+<!ENTITY popupsManager.accesskey "o">
 
 <!ENTITY clearPrivateDataCmd.label "清除隐私数据…">
 <!ENTITY clearPrivateDataCmd.accesskey "e">
