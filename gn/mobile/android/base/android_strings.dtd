@@ -589,9 +589,10 @@ size. -->
 <!ENTITY home_bookmarks_empty "Techaukaha ñongatupure ehecháta ápe.">
 <!ENTITY home_closed_tabs_title2 "Oñembotyramovéva">
 <!ENTITY home_last_tabs_empty "Ne tendayke ramovéva ehecháta ápe.">
-
-
+<!ENTITY home_restore_all "Mbojevypa">
+<!ENTITY home_closed_tabs_number "&formatD; tendayke">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 tendayke">
 <!ENTITY home_most_recent_empty "Ñanduti renda eike ramove hague.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
