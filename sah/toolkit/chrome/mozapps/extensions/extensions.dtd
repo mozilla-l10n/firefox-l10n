@@ -35,10 +35,6 @@
 <!ENTITY warning.updatesecurity.label              "Эбиискэлэри саҥардарга арчылыыр сулууспа араарыллыбыт. Онон саҥартаххына ол бу буолуон сөп.">
 <!ENTITY warning.updatesecurity.enable.label       "Холбоо">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Саҥардыы кэмигэр арчылыыр сулууспаны холбоо">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Плагиннарыҥ саҥардыллыбыттарын көр">
-<!ENTITY info.plugincheck.tooltip               "Плагиннарыҥ саҥардыллыбыттарын көр">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Эбиискэлэри хачайдан">
 <!ENTITY view.recentUpdates.label             "Соторутааҥы саҥардыылар">

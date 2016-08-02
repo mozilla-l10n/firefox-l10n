@@ -39,8 +39,7 @@
 <!ENTITY  acceptCookies.label           "Ситим-сирдэртэн куукаларын ыларга">
 <!ENTITY  acceptCookies.accesskey       "ы">
 
-<!ENTITY  acceptThirdParty.pre.label      "Туора ситим-сирдэртэн куукаларын ыларга:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "л">
+
 
 <!ENTITY  acceptThirdParty.never.label    "Аны хаһан да">
 
@@ -96,3 +95,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Туруоруулар...">
 <!ENTITY  clearOnCloseSettings.accesskey "р">
+
+
+
+

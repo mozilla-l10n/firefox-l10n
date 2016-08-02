@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "К">
 <!ENTITY  unpinTab.label                     "Кыбытыгы өһүл">
 <!ENTITY  unpinTab.accesskey                 "ы">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Саҥа түннүккэ көһөр">
 <!ENTITY  moveToNewWindow.accesskey          "т">
 
@@ -104,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Бары кыбытыктары көрдөр">
 <!ENTITY showAllTabsCmd.accesskey "к">
 
+
 <!ENTITY fxaSignIn.label "Киир уонна &syncBrand.shortName.label;">
 
 <!ENTITY fxaSignInError.label "Маны хат холбоо &syncBrand.shortName.label;">
@@ -132,6 +139,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "Толору экраантан таҕыс">
 <!ENTITY leaveDOMFullScreen.accesskey "э">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Түннүгү сап">
 <!ENTITY closeWindow.accesskey "с">
@@ -723,12 +739,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Биллэриилэри көрдөрөр буол">
 <!ENTITY social.toggleNotifications.accesskey "к">
 
-<!ENTITY social.activated.description "Өҥөлөр <label/> холбоммуттар. Туруорууларын манна уларытыаххын сөп <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Һуук, кэбис төннөр!">
-<!ENTITY social.activated.undo.accesskey "к">
 <!ENTITY social.learnMore.label "Сиһилии…">
 <!ENTITY social.learnMore.accesskey "С">
-<!ENTITY social.closeNotificationItem.label "Кэнники">
 
 
 

@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Саҥардыы баарын көрүү...">
 <!ENTITY  updateCheck.label               "&brandShortName; саҥа барыллара баарын тургутуу бара турар…">
 
-<!ENTITY  pluginupdatesfound.title        "Плагииннар саҥардыылара баара көһүннэ">
-<!ENTITY  pluginupdatesfound.label        "Эн плагииннаргыттан биирдэстэригэр эбэтэр хаһыгар да саҥа барыллар баар буолбуттар.">
-<!ENTITY  pluginupdateslink.label         "Плагииннаргын хайдах саҥардар туһунан.">
-
 <!ENTITY  noupdatesfound.title            "Саҥардыы көстүбэтэ">
 <!ENTITY  noupdatesautoenabled.intro      "Саҥардыы көстүбэтэ. &brandShortName; саҥардыы баарын кэмиттэн кэмигэр тургутуо.">
 <!ENTITY  noupdatesautodisabled.intro     "Саҥардыылар суохтар. Бука диэн хойутуу тургутан көрөөр, эбэтэр &brandShortName; саҥардыылары бэйэтэ көрдүүрүн курдук гын.">
