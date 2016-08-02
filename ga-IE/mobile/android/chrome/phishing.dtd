@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Amach as seo liom!">
 <!ENTITY safeb.palm.decline.label "Ná bac leis an rabhadh seo">
-<!ENTITY safeb.palm.reportPage.label "Cén fáth ar cuireadh cosc ar an leathanach seo?">
-<!ENTITY safeb.palm.whyForbidden.label "Cén fáth ar cuireadh cosc ar an leathanach seo?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Tuairiscíodh gur Leathanach Ionsaithe é seo!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Tuairiscíodh gur leathanach ar a bhfuil bogearraí gan iarraidh é an leathanach Gréasáin <span id='unwanted_sitename'/> agus tá cosc curtha air de bharr do roghanna slándála.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Nuair a osclaíonn tú leathanach ar a bhfuil bogearraí gan iarraidh, déantar iarracht bogearraí a shuiteáil ar do ríomhaire a d'fhéadfadh dochar a dhéanamh do do chóras.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Suíomh Coiscthe">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Chuir do phróifíl riarthóra cosc ar an leathanach Gréasáin ag <span id='forbidden_sitename'/>">
