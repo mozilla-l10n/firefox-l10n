@@ -6,7 +6,6 @@
 <!ENTITY safeb.palm.decline.label "Ignoriši ovo upozorenje">
 
 
-
 <!ENTITY safeb.blocked.malwarePage.title "Prijavljena napadačka stranica!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Web stranica <span id='malware_sitename'/> je prijavljena kao napadačka stranica i blokirana je na osnovu vaših sigurnosnih preferenci.">
@@ -20,4 +19,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Web stranica <span id='unwanted_sitename'/> je prijavljena da sadrži neželjeni softver i blokirana je na osnovu vaših sigurnosnih postavki.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Nesigurne stranice pokušavaju instalirati programe koju su zavaravajući i mogu na neočekivane načine uticati na vaš sistem.">
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
