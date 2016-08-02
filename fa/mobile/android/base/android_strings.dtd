@@ -280,11 +280,11 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "زبانه‌های سفارشی">
-
+<!ENTITY pref_custom_tabs_summary "اجازه دادن به برنامه‌های ثالث برای باز کردن آدرس‌ها با نما و حالت شخصی‌سازی شده.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "جریان فعالیت‌ها">
-
+<!ENTITY pref_activity_stream_summary "یک فیدِ بصریِ غنی و یک صفحه‌خانگی جدید که پیدا کردن آنچه دنبالش هستید را از هر زمانی در &brandShortName; سریع‌تر می‌کند.">
 
 <!ENTITY tracking_protection_prompt_title "هم‌اکنون با قابلیت محافظت در برابر ردگیری">
 <!ENTITY tracking_protection_prompt_text "عناصر ردیابی به طور فعال مسدود می‌شود بنابراین جایی برای نگرانی وجود ندارد.">
