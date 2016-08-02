@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Kukagua visasaisho">
 <!ENTITY  updateCheck.label               "Kutafuta matoleo mapya ya &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Imepata Visasaisho vya Vifaa vya Nyongeza">
-<!ENTITY  pluginupdatesfound.label        "Matoleo mapya zaidi ya moja au zaidi ya vifaa vya nyongeza yamepatikana.">
-<!ENTITY  pluginupdateslink.label         "Angalia jinsi ya kuboresha vifaa vyako vya nyongeza.">
-
 <!ENTITY  noupdatesfound.title            "Hakuna Visasaisho Vimepatikana">
 <!ENTITY  noupdatesautoenabled.intro      "Hakuna visasaisho vimepatikana. &brandShortName; itakagua kupitia wakati kwa visasaisho.">
 <!ENTITY  noupdatesautodisabled.intro     "Hakuna visasaisho vimepatikana. Tafadhali angalia tena baadaye au wezesha kikaguzi cha kiotomatiki cha &brandShortName;.">

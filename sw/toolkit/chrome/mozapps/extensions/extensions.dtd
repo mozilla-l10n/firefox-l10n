@@ -35,10 +35,6 @@
 <!ENTITY warning.updatesecurity.label              "Ukaguzi wa usalama wa kisasaisho cha vifaa vya nyongeza. Waweza kuwa umeafikiwa na visasaisho.">
 <!ENTITY warning.updatesecurity.enable.label       "Wezesha">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Wezesha ukaguzi wa usalama wa visasaisho vya vifaa vya nyongeza">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Kagua kona ilkiwa grogramu-jalizi zako zimesasishwa">
-<!ENTITY info.plugincheck.tooltip               "Kagua kona ilkiwa grogramu-jalizi zako zimesasishwa">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Pata Vifaa vya nyongeza">
 <!ENTITY view.recentUpdates.label             "Visasaisho vya hivi karibuni">
