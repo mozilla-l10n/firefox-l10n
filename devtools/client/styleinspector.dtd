@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "CSS қасиеттері табылмады.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "Есептелді">
-<!ENTITY ruleViewTitle         "Ережелер">
