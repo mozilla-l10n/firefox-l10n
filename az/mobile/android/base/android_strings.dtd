@@ -44,9 +44,9 @@
 
 <!ENTITY  bookmarks_title "Əlfəcinlər">
 <!ENTITY  history_title "Tarixçə">
-<!ENTITY  recent_tabs_title "Son Vərəqlər">
 
 <!ENTITY  switch_to_tab "Vərəqə keç">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "&brandShortName; Çökmə Xəbərçisi">
 <!ENTITY  crash_message2 "&brandShortName; bir problemlə qarşılaşdı və çökdü. Sizin açdığınız vərəqlər &brandShortName;-in növbəti başladılması zamanı siyahıda görsənəcək.">
@@ -106,10 +106,9 @@
 <!ENTITY edit_mode_cancel "Ləğv et">
 
 <!ENTITY close_tab "Vərəqi Qapat">
-<!ENTITY one_tab "1 vərəq">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; vərəq">
 <!ENTITY new_tab_opened "Yeni vərəq açıldı">
 <!ENTITY new_private_tab_opened "Yeni məxfi vərəq açıldı">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -269,6 +268,14 @@
 
 <!ENTITY pref_whats_new_notification "&brandShortName; səyyahında yeniliklər">
 <!ENTITY pref_whats_new_notification_summary "Yeniləmədən sonra yeni özəlliklər haqqında öyrənin">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "Artıq İzləmə Qoruması ilə">
 <!ENTITY tracking_protection_prompt_text "Bütün izləmə elementlərini aktiv bloklayır və beləliklə sizin narahat olmanıza əsas qalmır.">
@@ -382,6 +389,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Sinxron vərəqlər">
 
 <!ENTITY pref_default_browser "Əsas səyyah et">
+
 <!ENTITY pref_about_firefox "&brandShortName; haqqında">
 <!ENTITY pref_vendor_faqs "ÇSS">
 <!ENTITY pref_vendor_feedback "Əks əlaqə göndər">
@@ -570,10 +578,11 @@ size. -->
 <!ENTITY home_clear_history_button "Səyahət tarixçəsini təmizlə">
 <!ENTITY home_clear_history_confirm "Tarixçəni təmizləmək istədiyinizə əminsiniz?">
 <!ENTITY home_bookmarks_empty "Saxladığınız əlfəcinlər burada görünür.">
-<!ENTITY home_closed_tabs_title "Son qapatılan vərəqlər">
-<!ENTITY home_last_tabs_title "Son ziyarətdəki vərəqlər">
+
 <!ENTITY home_last_tabs_empty "Son vərəqləriniz burada görünür.">
-<!ENTITY home_open_all "Hamısını aç">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Ən son ziyarət etdiyiniz saytlar burada göstərilir.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +634,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Təhlükəsiz Bağlantı">
 <!ENTITY identity_connection_insecure "Təhlükəli bağlantı">
-<!ENTITY identity_login_insecure "Bu səhifə qorunmur, sizin daxil olma təhlükəli ola bilər.">
 <!ENTITY identity_connection_chromeui "Bu təhlükəsiz &brandShortName; səhifəsidir">
 <!-- Mixed content notifications in site identity popup -->
 
