@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Söker efter uppdateringar">
 <!ENTITY  updateCheck.label               "Söker efter nyare versioner av &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Hittade uppdateringar till insticksmoduler">
-<!ENTITY  pluginupdatesfound.label        "En ny version av en eller flera av dina instickmoduler hittades.">
-<!ENTITY  pluginupdateslink.label         "Läs om hur du uppgraderar dina instickmoduler.">
-
 <!ENTITY  noupdatesfound.title            "Inga uppdateringar hittades">
 <!ENTITY  noupdatesautoenabled.intro      "Det finns inga uppdateringar att hämta. &brandShortName; kommer regelbundet att söka efter uppdateringar.">
 <!ENTITY  noupdatesautodisabled.intro     "Det finns inga uppdateringar tillgängliga. Prova igen senare eller aktivera den automatiska uppdateringskontrollen i &brandShortName;.">

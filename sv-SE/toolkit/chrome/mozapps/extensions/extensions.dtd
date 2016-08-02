@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Säkerhetskontroll av tilläggsuppdateringar är inaktiverat. Du är sårbar för skadliga uppdateringar.">
 <!ENTITY warning.updatesecurity.enable.label       "Aktivera">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Aktiverar säkerhetskontroll av tilläggsuppdateringar">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Kontrollera om dina instickmoduler är uppdaterade">
-<!ENTITY info.plugincheck.tooltip               "Kontrollera om dina instickmoduler är uppdaterade">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Sök">

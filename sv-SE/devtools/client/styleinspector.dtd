@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "Hittade inga CSS-egenskaper.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "Framräknade">
-<!ENTITY ruleViewTitle         "Regler">
