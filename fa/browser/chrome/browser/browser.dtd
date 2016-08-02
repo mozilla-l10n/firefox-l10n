@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "س">
 <!ENTITY  unpinTab.label                     "کندن زبانه">
 <!ENTITY  unpinTab.accesskey                 "b">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "ارسال زبانه به دستگاه">
+<!ENTITY  sendTabToDevice.accesskey          "د">
+<!ENTITY  sendPageToDevice.label             "ارسال صفحه به دستگاه">
+<!ENTITY  sendPageToDevice.accesskey         "د">
+<!ENTITY  sendLinkToDevice.label             "ارسال پیوند به دستگاه">
+<!ENTITY  sendLinkToDevice.accesskey         "د">
 <!ENTITY  moveToNewWindow.label              "انتقال به پنجرهٔ جدید">
 <!ENTITY  moveToNewWindow.accesskey          "پ">
 <!ENTITY  bookmarkAllTabs.label              "نشانک‌گذاری همه زبانه‌ها…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "نمایش همهٔ زبانه‌ها">
 <!ENTITY showAllTabsCmd.accesskey "ز">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "ورود به &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "باز کردن ترجیحات &syncBrand.shortName.label;">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "کنترل مکان‌نما شما را در دست دارد. برای پس گرفتن کنترل، Esc را فشار دهید.">
+<!ENTITY pointerlockWarning.generic.label "این سند کنترل مکان‌نما شما را در دست گرفته است. برای پس گرفتن کنترل، Esc را فشار دهید.">
 
 <!ENTITY closeWindow.label "بستن پنجره">
 <!ENTITY closeWindow.accesskey "ه">
@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ز">
 <!ENTITY openFrameCmd.label           "باز کردن چارچوب در پنجرهٔ جدید">
 <!ENTITY openFrameCmd.accesskey       "پ">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "باز کردن پیوند در زبانه حامل جدید">
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "فقط نمایش همین چارچوب">
 <!ENTITY showOnlyThisFrameCmd.accesskey "چ">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "ا">
 
 <!ENTITY editBookmark.done.label                     "انجام شد">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "اتصال امن">
 <!ENTITY identity.connectionNotSecure "اتصال امن نیست">
