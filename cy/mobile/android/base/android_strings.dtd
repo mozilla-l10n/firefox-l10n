@@ -44,9 +44,9 @@
 
 <!ENTITY  bookmarks_title "Nodau Tudalen">
 <!ENTITY  history_title "Hanes">
-<!ENTITY  recent_tabs_title "Tabiau Diweddar">
 
 <!ENTITY  switch_to_tab "Newid i\u0027r tab">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "Adroddwr Chwalu &brandShortName;">
 <!ENTITY  crash_message2 "Mae &brandShortName; wedi chwalu. Bydd eich tabiau yn cael eu rhestru ar dudalen cychwyn &brandShortName; pan fyddwch yn ailgychwyn.">
@@ -106,10 +106,9 @@
 <!ENTITY edit_mode_cancel "Diddymu">
 
 <!ENTITY close_tab "Cau Tab">
-<!ENTITY one_tab "1 tab">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "Tabiau &formatD;">
 <!ENTITY new_tab_opened "Tab newydd wedi ei agor">
 <!ENTITY new_private_tab_opened "Tab preifat newydd wedi ei agor">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -269,6 +268,14 @@
 
 <!ENTITY pref_whats_new_notification "Beth sy\u0027n newydd yn &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Dysgu am nodweddion newydd ar ôl diweddariad">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "Nawr gyda Diogelwch Rhag Tracio">
 <!ENTITY tracking_protection_prompt_text "Yn rhwystro elfennau tracio heb i chi orfod poeni.">
@@ -382,6 +389,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Tabiau wedi eu cydweddu">
 
 <!ENTITY pref_default_browser "Gwneud yn borwr rhagosodedig">
+
 <!ENTITY pref_about_firefox "Ynghylch &brandShortName;">
 <!ENTITY pref_vendor_faqs "Atebion">
 <!ENTITY pref_vendor_feedback "Rhoi adborth">
@@ -570,10 +578,11 @@ size. -->
 <!ENTITY home_clear_history_button "Clirio eich hanes pori">
 <!ENTITY home_clear_history_confirm "Ydych chi\u0027n siŵr eich bod chi eisiau clirio eich hanes?">
 <!ENTITY home_bookmarks_empty "Mae nodau tudalen i\u0027w gweld yma.">
-<!ENTITY home_closed_tabs_title "Tabiau wedi eu cau\u0027n ddiweddar">
-<!ENTITY home_last_tabs_title "Eich tabiau o’r tro diwethaf">
+
 <!ENTITY home_last_tabs_empty "Bydd eich tabiau diweddar i\u0027w gweld yma.">
-<!ENTITY home_open_all "Agor y cyfan">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Bydd gwefannau diweddar i\u0027w gweld yma.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +634,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Cysylltiad Diogel">
 <!ENTITY identity_connection_insecure "Cysylltiad anniogel">
-<!ENTITY identity_login_insecure "Nid yw\u0027r dudalen yn ddiogel a gall eich mewngofnod fod yn fregus.">
 <!ENTITY identity_connection_chromeui "Mae hon yn dudalen &brandShortName; diogel">
 <!-- Mixed content notifications in site identity popup -->
 
