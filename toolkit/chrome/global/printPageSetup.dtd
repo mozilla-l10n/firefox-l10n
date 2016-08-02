@@ -12,35 +12,35 @@
 
 <!ENTITY orientation.label   "ორიენტაცია:">
 <!ENTITY portrait.label      "პორტრეტი">
-<!ENTITY portrait.accesskey  "P">
+<!ENTITY portrait.accesskey  "პ">
 <!ENTITY landscape.label     "პეიზაჟი">
-<!ENTITY landscape.accesskey "L">
+<!ENTITY landscape.accesskey "ზ">
 
 <!ENTITY scale.label         "მასშტაბი:">
-<!ENTITY scale.accesskey     "S">
+<!ENTITY scale.accesskey     "მ">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "შემჭიდროება გვერდის სიგანეზე">
-<!ENTITY shrinkToFit.accesskey "W">
+<!ENTITY shrinkToFit.label   "შემჭიდროება ისე, რომ გვერდის სიგანეს დაემთხვეს">
+<!ENTITY shrinkToFit.accesskey "ს">
 
-<!ENTITY optionsGroup.label  "ოპციები">
+<!ENTITY optionsGroup.label  "პარამეტრები">
 
-<!ENTITY printBG.label       "">
-<!ENTITY printBG.accesskey   "B">
+<!ENTITY printBG.label       "ფონის დაბეჭდვა (ფერები და სურათები)">
+<!ENTITY printBG.accesskey   "ფ">
 
 <!ENTITY advanced.tab        "მინდვრები და ზედა კოლონტიტული/Footer">
 
 <!ENTITY marginGroup.label   "საზღვრები (#1)">
-<!ENTITY marginUnits.inches  "დუიმი">
-<!ENTITY marginUnits.metric  "მილიმეტრი">
+<!ENTITY marginUnits.inches  "დუიმებში">
+<!ENTITY marginUnits.metric  "მილიმეტრებში">
 <!ENTITY marginTop.label     "ზედა:">
-<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginTop.accesskey "ზ">
 <!ENTITY marginBottom.label  "ქვედა:">
-<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginBottom.accesskey "ქ">
 <!ENTITY marginLeft.label    "მარცხენა:">
-<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginLeft.accesskey "მ">
 <!ENTITY marginRight.label   "მარჯვენა:">
-<!ENTITY marginRight.accesskey "R">
+<!ENTITY marginRight.accesskey "ჯ">
 
 <!ENTITY headerFooter.label  "ზედა და ქვედა კოლონტიტულები">
 

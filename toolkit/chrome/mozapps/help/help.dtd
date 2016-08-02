@@ -51,6 +51,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.accesskey               "T">
 
 <!ENTITY fullZoomReduceBtn.label        "შემცირება">
-<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomReduceBtn.accesskey    "შ">
 <!ENTITY fullZoomEnlargeBtn.label       "გაზრდა">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "გ">
