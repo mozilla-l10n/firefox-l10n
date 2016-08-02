@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label "Nna o mpotsa ka nako tsotlhe gore di faele di bolokwe kae">
 <!ENTITY alwaysAsk.accesskey "N">
 
-<!ENTITY alwaysCheckDefault2.label        "Ka nako tsotlhe tlhola gore &brandShortName; ke sebatli sa thulaganyetsoruri">
-<!ENTITY alwaysCheckDefault2.accesskey    "K">
+
 <!ENTITY setAsMyDefaultBrowser2.label     "E dire Thulaganyetsoruri">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "T">
 <!ENTITY isDefault.label                  "&brandShortName; ga jaana ke sebatli sebatli sa gago sa thulaganyetsoruri">

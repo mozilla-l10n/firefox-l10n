@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Amogela dikhukhi go tsweng mo disaeteng">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Amogela dikhukhi ts ditokololo tse dingwe:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "A">
+
 <!ENTITY  acceptThirdParty.always.label   "Ka nako tsotlhe">
 <!ENTITY  acceptThirdParty.never.label    "O seka">
 <!ENTITY  acceptThirdParty.visited.label  "Go tsweng mo go tse di etetsweng">
@@ -76,6 +75,10 @@
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+
+
+
 
 
 
