@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Кеңейтулер жаңартуларын қауісіздікке тексеру сөндірулі. Жаңартулармен қор болуыңыз мүмкін.">
 <!ENTITY warning.updatesecurity.enable.label       "Іске қосу">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Кеңейтулер жаңартуларын қауісіздікке тексеруді іске қосу">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Плагиндеріңіздің барлығы жаңа ма, соны тексеріңіз">
-<!ENTITY info.plugincheck.tooltip               "Плагиндеріңіздің барлығы жаңа ма, соны тексеріңіз">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Іздеу">
