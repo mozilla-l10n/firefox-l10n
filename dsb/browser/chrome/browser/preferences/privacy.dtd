@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Cookieje ze sedłow akceptěrowaś">
 <!ENTITY  acceptCookies.accesskey       "c">
 
-<!ENTITY  acceptThirdParty.pre.label      "Cookieje tśeśich akceptěrowaś:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "t">
+
 <!ENTITY  acceptThirdParty.always.label   "Pśecej">
 <!ENTITY  acceptThirdParty.never.label    "Nigda">
 <!ENTITY  acceptThirdParty.visited.label  "Jano wót woglědanych tśeśich">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Nastajenja…">
 <!ENTITY  clearOnCloseSettings.accesskey "N">
+
+
+
+
