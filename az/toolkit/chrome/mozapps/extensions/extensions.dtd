@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Əlavə yeniləmə təhlükəsizliyinə  nəzarəti söndürülüb. Yeniləmələr təhlükəli ola bilər.">
 <!ENTITY warning.updatesecurity.enable.label       "Aktiv et">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Əlavə yeniləmə təhlükəsizliyinə  nəzarəti aktivləşdir">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Əlavə proqramların aktual olub olmadığını yoxlayın">
-<!ENTITY info.plugincheck.tooltip               "Əlavə proqramların aktual olub olmadığını yoxlayın">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Axtarış">

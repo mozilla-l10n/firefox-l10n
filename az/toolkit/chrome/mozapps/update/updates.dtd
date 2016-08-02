@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Yeniləmə yoxlaması">
 <!ENTITY  updateCheck.label               "Yeni &brandShortName; versiyaları axtarılır…">
 
-<!ENTITY  pluginupdatesfound.title        "Qoşmalar üçün yeniləmə tapıldı">
-<!ENTITY  pluginupdatesfound.label        "Qurulmuş əlavə proqramın daha yeni versiyası tapıldı.">
-<!ENTITY  pluginupdateslink.label         "Qoşmalarınızı necə yüksəldəcəyinizi öyrənin.">
-
 <!ENTITY  noupdatesfound.title            "Yeniləmə tapılmadı">
 <!ENTITY  noupdatesautoenabled.intro      "Heç bir yeniləmə yoxdur. &brandShortName; müəyyən fasilələrlə yeniləmələri yoxlayacaq.">
 <!ENTITY  noupdatesautodisabled.intro     "Heç bir yeniləmə yoxdur. Lütfən daha sonra yenidən yoxlayın ya da &brandShortName; proqramının yeniləmə yoxlamasını aktivləşdirin.">
