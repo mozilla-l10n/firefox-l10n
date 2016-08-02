@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Осыдан кеткім келеді!">
 <!ENTITY safeb.palm.decline.label "Осы ескертуді елемеу">
-<!ENTITY safeb.palm.reportPage.label "Бұл парақ неге блокталған?">
-<!ENTITY safeb.palm.whyForbidden.label "Бұл парақ неге блокталған?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Хабарланған шабуылшы парақ!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Бұл веб <span id='unwanted_sitename'/> парағы ұнамсыз бағдарламалық қамтаманы тарататыны ретінде белгілі, және сіздің қауіпсіздік баптауларыңызға сәйкес блокталған.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Ұнамсыз бағдарламалық қамтамасы бар беттер жүйеге зақым келтіре алатын және жүйенінің күтпеген жақтарына жағымсыз әсерін тигізетін БҚ-ны орнатқысы келеді.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Блокталған сайт">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "<span id='forbidden_sitename'/> адресі бойынша орналасқан вебсайт сіздің әкімші профиліңізбен блокталған.">
