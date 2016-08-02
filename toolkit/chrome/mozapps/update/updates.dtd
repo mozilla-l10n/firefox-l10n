@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "अद्ययावताकरीता तपासत आहे">
 <!ENTITY  updateCheck.label               "&brandShortName; च्या ननिन आवृत्ती करीता तपास करीत आहे…">
 
-<!ENTITY  pluginupdatesfound.title        "प्लगईन्स्करीता सुधारणा आढळले">
-<!ENTITY  pluginupdatesfound.label        "एक किंवा त्यापेक्षा जास्त प्लगईन्स्च्या नवीन आवृत्ती आढळले.">
-<!ENTITY  pluginupdateslink.label         "प्लगईन्स् कसे सुधारीत करायचे याकडे लक्ष्य द्या.">
-
 <!ENTITY  noupdatesfound.title            "अद्ययावत आढळले नाही">
 <!ENTITY  noupdatesautoenabled.intro      "अद्ययावत उपलब्ध नाही. &brandShortName; नियमीतपणे अद्ययावत करीता तपास करेल.">
 <!ENTITY  noupdatesautodisabled.intro     "अद्ययावत उपलब्ध नाही. कृपया पुन्हा तपासणी करा किंवा &brandShortName; चे आपोआप अद्ययावत तपासणी कार्यान्वीत करा.">

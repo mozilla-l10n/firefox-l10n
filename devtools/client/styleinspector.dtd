@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "CSS गुणधर्म आढळले नाही.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "कमप्युट केलेले">
-<!ENTITY ruleViewTitle         "नियम">
