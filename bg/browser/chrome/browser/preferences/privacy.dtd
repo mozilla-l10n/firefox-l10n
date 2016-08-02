@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Настройки…">
 <!ENTITY  clearOnCloseSettings.accesskey "Н">
+
+<!ENTITY  browserContainersHeader.label         "Изолатор на раздели">
+<!ENTITY  browserContainersLearnMore.label      "Научете повече">
+<!ENTITY  browserContainersEnabled.label        "Включване на изолатора на раздели">
+<!ENTITY  browserContainersEnabled.accesskey    "к">
