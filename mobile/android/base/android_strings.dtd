@@ -48,6 +48,7 @@
 <!ENTITY  switch_to_tab "ჩანართზე გადართვა">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "ნაჩვენებია კავშირგარეშე ვერსია">
 
 <!ENTITY  crash_reporter_title "&brandShortName; პრობლემის პატაკი">
 <!ENTITY  crash_message2 "&brandShortName; მუშაობა შეწყდა. თქვენი დაფები &brandShortName;-ის ხელახლა გახსნისას საწყის გვერდზე უნდა აისახოს.">
@@ -273,12 +274,17 @@
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "ექსპერიმენტული ფუნქციები">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "მორგებული ჩანართები">
+<!ENTITY pref_custom_tabs_summary "მესამე პირის აპებისთვის გვერდების საკუთარი გემოვნებით გახსნის უფლების მინიჭება.">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "აქტიურობის ნაკადი">
+<!ENTITY pref_activity_stream_summary "ისტორიის მდიდარი ვიზუალური ლენტი და საშინაო გვერდის განახლებული ხედი გეხმარებათ, &brandShortName;-ში უფრო მარტივად იპოვოთ ის, რასაც ეძებთ.">
 
 <!ENTITY tracking_protection_prompt_title "ახლა უკვე თვალთვალისგან დაცვით">
 <!ENTITY tracking_protection_prompt_text "მოთვალთვალე ელემენტების ინსტენსიური ბლოკვა, რათა თქვენ არ იდარდოთ.">
@@ -392,6 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "სინქრონირებული ჩანართები">
 
 <!ENTITY pref_default_browser "ნაგულისხმევი ბრაუზერი">
+<!ENTITY pref_default_browser_mozilla_support_tablet "ეწვიეთ Mozilla მხარდაჭერას">
 <!ENTITY pref_about_firefox "&brandShortName; ინფორმაცია">
 <!ENTITY pref_vendor_faqs "ფ.ა.კ.">
 <!ENTITY pref_vendor_feedback "გამოხმაურება">
@@ -580,8 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "დათვალიერების ისტორიის გასუფთავება">
 <!ENTITY home_clear_history_confirm "ნამდვილად გსურთ ამ თქვენი ისტორიის გასუფთავება?">
 <!ENTITY home_bookmarks_empty "თქვენ მიერ შენახული სანიშნეები აქ გამოჩნდება.">
+<!ENTITY home_closed_tabs_title2 "ახლახანს დახურული">
 <!ENTITY home_last_tabs_empty "თქვენი ბოლო ჩანართები აქ გამოჩნდება.">
+<!ENTITY home_restore_all "ყველას აღდგენა">
+<!ENTITY home_closed_tabs_number "&formatD; ჩანართი">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 ჩანართი">
 <!ENTITY home_most_recent_empty "თქვენ მიერ ყველაზე ბოლოს მონახულებული ვებ-საიტები აქ გამოჩნდება.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
