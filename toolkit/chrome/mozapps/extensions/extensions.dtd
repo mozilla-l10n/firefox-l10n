@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "ആഡ്-ഓണ്‍ പരിഷ്കരണ സുരക്ഷാ പരിശോധന പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു. ഉചിതമായ പരിഷ്കരണങ്ങള്‍ ലഭ്യമായില്ല.">
 <!ENTITY warning.updatesecurity.enable.label       "പ്രവര്‍ത്തന സജ്ജം">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ആഡ്-ഓണ്‍ പരിഷ്കരണ സുരക്ഷാ പരിശോധന പ്രവര്‍ത്തന സജ്ജമാക്കുക">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "നിങ്ങളുടെ പ്ലഗിനുകള്‍ ഏറ്റവും പുതിയതാണോ എന്നറിയുവാന്‍ പരിശോധിയ്ക്കുക">
-<!ENTITY info.plugincheck.tooltip               "നിങ്ങളുടെ പ്ലഗിനുകള്‍ ഏറ്റവും പുതിയതാണോ എന്നറിയുവാന്‍ പരിശോധിയ്ക്കുക">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "തെരയുക">

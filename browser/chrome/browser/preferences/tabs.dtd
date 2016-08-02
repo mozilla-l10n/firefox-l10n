@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "പുതിയ ജാലകങ്ങള്‍ ഒരു പുതിയ റ്റാബില്‍ തുറക്കുക">
-<!ENTITY newWindowsAsTabs.accesskey   "t">
+
+
 
 <!ENTITY warnCloseMultipleTabs.label  "ഒന്നിലധികം റ്റാബുകള്‍ അടയ്ക്കുമ്പോള്‍ മുന്നറിയിപ്പ്‌ നല്‍കുക">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
