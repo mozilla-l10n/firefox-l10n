@@ -34,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Blocatges dels fials d'execucion">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Istogramas">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Istogramas amb clau">

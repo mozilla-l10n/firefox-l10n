@@ -35,10 +35,6 @@
 <!ENTITY warning.updatesecurity.label              "La verificacion de compatibilitat pels moduls complementaris es desactivada. Es possible que d'unas mesas a jorn sián problematicas.">
 <!ENTITY warning.updatesecurity.enable.label       "Activar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activar la verificacion de mesas a jorn de seguretat pels moduls complementaris">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Verificar se los plugins son a jorn">
-<!ENTITY info.plugincheck.tooltip               "Verificar se los plugins son a jorn">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Recercar">
