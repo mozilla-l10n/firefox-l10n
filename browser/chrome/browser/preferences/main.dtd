@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label " हरदम हमरासँ पूछू जे फाइल कतए फाइल सहेजनाइ  अछि ">
 <!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY alwaysCheckDefault2.label        "जाँचू जे &brandShortName; अहाँक तयशुदा ब्राउज़र अछि">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+
 <!ENTITY setAsMyDefaultBrowser2.label     "तयशुदा बनाबू">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; अखन अहाँक तयशुदा ब्राउजर अछि">

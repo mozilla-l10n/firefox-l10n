@@ -42,8 +42,7 @@
 <!ENTITY  acceptCookies.label           "साइट सँ कुकीज स्वीकारू">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "तृतीय पक्षीय कुकीज़ स्वीकारू (c)">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+
 <!ENTITY  acceptThirdParty.always.label   "हमेशा">
 <!ENTITY  acceptThirdParty.never.label    "कखनो नहि">
 <!ENTITY  acceptThirdParty.visited.label  "भ्रमण कएलसँ">
@@ -100,3 +99,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "सेटिंग…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
+

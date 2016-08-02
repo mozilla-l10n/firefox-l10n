@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "सहयुक्ति अद्यतन सुरक्षा जाँच निष्क्रिय अछि. अहाँक सुरक्षा अद्यतनक द्वारा संदिग्ध भए सकैत अछि.">
 <!ENTITY warning.updatesecurity.enable.label       "सक्रिय  करू ">
 <!ENTITY warning.updatesecurity.enable.tooltip     "सहयुक्ति अद्यतन सुरक्षा जाँच सक्रिय करू">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "देखबाक लेल जाँचू जे अहाँक प्लगइन अद्यतन अछि अथवा नहि">
-<!ENTITY info.plugincheck.tooltip               "देखबाक लेल जाँचू जे अहाँक प्लगइन अद्यतन अछि अथवा नहि">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "खोजू">
