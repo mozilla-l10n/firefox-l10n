@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "إعدادات…">
 <!ENTITY  clearOnCloseSettings.accesskey "د">
+
+<!ENTITY  browserContainersHeader.label         "الألسنة الحاوية">
+<!ENTITY  browserContainersLearnMore.label      "اطّلع على المزيد">
+<!ENTITY  browserContainersEnabled.label        "فعل الألسنة الحاوية">
+<!ENTITY  browserContainersEnabled.accesskey    "ف">

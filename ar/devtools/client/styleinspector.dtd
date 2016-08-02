@@ -32,7 +32,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "لم يُعثر على خصائص CSS.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "محسوبة">
-<!ENTITY ruleViewTitle         "القواعد">

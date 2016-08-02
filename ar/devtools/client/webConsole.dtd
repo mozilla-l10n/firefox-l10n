@@ -57,7 +57,7 @@
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
 
-<!ENTITY btnServerErrors              "أخطاء">
+<!ENTITY btnServerErrors              "الأخطاء">
 <!ENTITY btnServerInfo                "معلومات">
 <!ENTITY btnServerWarnings            "تحذيرات">
 <!ENTITY btnServerLog                 "سجل">

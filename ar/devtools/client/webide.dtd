@@ -19,21 +19,21 @@
 <!ENTITY projectMenu_stop_label "أوقف التطبيق">
 <!ENTITY projectMenu_stop_accesskey "ق">
 <!ENTITY projectMenu_debug_label "نقّح التطبيق">
-
+<!ENTITY projectMenu_debug_accesskey "ن">
 <!ENTITY projectMenu_remove_label "أزل المشروع">
-
+<!ENTITY projectMenu_remove_accesskey "ض">
 <!ENTITY projectMenu_showPrefs_label "التفضيلات">
 <!ENTITY projectMenu_showPrefs_accesskey "ت">
 <!ENTITY projectMenu_manageComponents_label "أدر المكونات الإضافية">
-
-
+<!ENTITY projectMenu_manageComponents_accesskey "د">
+<!ENTITY projectMenu_refreshTabs_label "أنعش الألسنة">
 
 <!ENTITY runtimeMenu_label "بيئة التشغيل">
 
 <!ENTITY runtimeMenu_disconnect_label "اقطع الاتصال">
-
+<!ENTITY runtimeMenu_disconnect_accesskey "ص">
 <!ENTITY runtimeMenu_showPermissionTable_label "جدول الصلاحيات">
-
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "ج">
 <!ENTITY runtimeMenu_takeScreenshot_label "لقطة شاشة">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "ل">
 <!ENTITY runtimeMenu_showDetails_label "معلومات بيئة التشغيل">
