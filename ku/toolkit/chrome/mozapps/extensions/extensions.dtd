@@ -35,10 +35,6 @@
 <!ENTITY warning.updatesecurity.label              "Di rojanekirina add-onan de kontrolkirina ewlekariyê girtî ye. Dibe ku rojanekirin ne ewle bin.">
 <!ENTITY warning.updatesecurity.enable.label       "Çalakkirin">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Destûrê bide kontrolkirina ewlekariyê ya rojanekirina add-onan">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Binêre ka pêvekên te nû ne yan na">
-<!ENTITY info.plugincheck.tooltip               "Kontrol bike ka pêvekên te nû ne yan ya">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Add-onan bistîne">
 <!ENTITY view.recentUpdates.label             "Rojanekirin Nêz">

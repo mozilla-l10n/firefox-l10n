@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Li Rojanekirinan Digere">
 <!ENTITY  updateCheck.label               "Li versiyonên nû yên &brandShortName;ê digere…">
 
-<!ENTITY  pluginupdatesfound.title        "Ji bo Pluginan Rojanekirin hene">
-<!ENTITY  pluginupdatesfound.label        "Ji bo yek an jî zêdetir pluginên te guhertoya nûtir amade ye.">
-<!ENTITY  pluginupdateslink.label         "Bibîne ka plugin çawa tên bilindkirin.">
-
 <!ENTITY  noupdatesfound.title            "Tu Rojanekirin Nehat Dîtin">
 <!ENTITY  noupdatesautoenabled.intro      "Tu rojanekirin tune. &brandShortName; wê bi awayeke periyodîk venêre ji bo rojanekirinan.">
 <!ENTITY  noupdatesautodisabled.intro     "Tu rojanekirin tune. Dîsa biceribîne an jî &brandShortName; çalak bike ku jixweber rojane bike.">

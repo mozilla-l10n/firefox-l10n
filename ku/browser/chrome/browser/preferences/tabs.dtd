@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "Ji dêvla pencereyeke nû ve di hilpekîneke nû de veke">
-<!ENTITY newWindowsAsTabs.accesskey   "h">
+
+
 
 <!ENTITY warnCloseMultipleTabs.label  "Dema ku ji yekê zêdetir hilpekîn bên girtin min hişyar bike">
 <!ENTITY warnCloseMultipleTabs.accesskey  "p">
