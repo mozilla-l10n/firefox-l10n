@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Allan o fan hyn!">
 <!ENTITY safeb.palm.decline.label "Anwybyddu'r rhybudd">
-<!ENTITY safeb.palm.reportPage.label "Pam oedd y dudalen hon wedi ei rhwystro?">
-<!ENTITY safeb.palm.whyForbidden.label "Pam oedd y dudalen hon wedi ei rhwystro?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Adroddwyd Ymosodiad Tudalen!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Mae'r dudalen hon <span id='unwanted_sitename'/> wedi ei chofnodi i gynnwys meddalwedd digroeso ac mae wedi ei rhwystro yn seiliedig ar eich dewisiadau diogelwch.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Mae tudalennau meddalwedd digroeso yn ceisio gosod meddalwedd sy'n dwyllodrus ac yn effeithio ar eich system mewn ffyrdd anisgwyl.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Gwefan wedi ei Rhwystro">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Mae'r dudalen We hon yn <span id='forbidden_sitename'/> wedi ei rhwystro ar sail eich proffil gweinyddol.">
