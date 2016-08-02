@@ -6,7 +6,7 @@
 <!ENTITY enableStartPage.label            "Visa startsidan i förhandsgranskningen när &brandShortName; startar">
 <!ENTITY enableStartPage.accesskey        "ö">
 <!ENTITY location.label                   "Adress:">
-<!ENTITY location1.accesskey              "A">
+<!ENTITY location1.accesskey               "A">
 <!ENTITY useDefault.label                 "Återställ standard">
 <!ENTITY useDefault.accesskey             "Å">
 
@@ -16,9 +16,10 @@
 
 <!ENTITY newMessagesArrive.label          "När ny e-post kommer:">
 <!ENTITY playSound.label                  "Spela upp ett ljud">
-<!ENTITY playSound1.accesskey             "u">
+<!ENTITY playSound1.accesskey              "u">
 <!ENTITY showAnimatedAlert.label          "Visa en meddelanderuta">
 <!ENTITY showAnimatedAlert.accesskey      "V">
+<!ENTITY notificationAlertSettings.label  "Varningar kan inaktiveras på meddelandepanelen i Systeminställningar.">
 <!ENTITY customizeMailAlert.label         "Anpassa…">
 <!ENTITY customizeMailAlert.accesskey     "n">
 
