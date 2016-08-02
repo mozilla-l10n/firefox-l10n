@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Verificarea securității actualizărilor de suplimente este dezactivată. Ați putea primi actualizări compromise.">
 <!ENTITY warning.updatesecurity.enable.label       "Activează">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activează verificarea securității actualizărilor suplimentelor">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Verifică dacă pluginurile sunt actualizate">
-<!ENTITY info.plugincheck.tooltip               "Verifică dacă pluginurile sunt actualizate">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Căutare">
