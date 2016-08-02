@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "പരിഷ്കരണങ്ങള്‍ക്കായി  തെരയുന്നു ">
 <!ENTITY  updateCheck.label               "&brandShortName;-നുള്ള പുതിയ പതിപ്പുകള്‍ തെരയുക…">
 
-<!ENTITY  pluginupdatesfound.title        "പ്ലഗിനുകള്‍ക്കുള്ള പരിഷ്കരണങ്ങള്‍">
-<!ENTITY  pluginupdatesfound.label        "നിങ്ങളുടെ പ്ലഗിനുകള്‍ക്കുള്ള പരിഷ്കരണങ്ങള്‍ ലഭ്യമായിരിക്കുന്നു.">
-<!ENTITY  pluginupdateslink.label         "നിങ്ങളുടെ പ്ലഗിനുകള്‍ പരിഷ്കരിക്കുക.">
-
 <!ENTITY  noupdatesfound.title            "പരിഷ്കരണങ്ങള്‍ കണ്ടെത്തുവാന്‍ കഴിഞ്ഞില്ല ">
 <!ENTITY  noupdatesautoenabled.intro      "പരിഷ്കരണങ്ങള്‍ ഒന്നും ലഭ്യമല്ല. നിരന്തരമായി  &brandShortName; പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിക്കുന്നു.">
 <!ENTITY  noupdatesautodisabled.intro     "പരിഷ്കരണങ്ങള്‍ ഒന്നും ലഭ്യമല്ല. ദയവായി പിന്നീടു് പരിശോധിക്കുക. അല്ലെങ്കില്‍ &brandShortName;-നുള്ള പരിഷ്കാരങ്ങള്‍ സ്വയം പരിശോധിക്കുന്നതിനുള്ള ഉപാധി സജ്ജമാക്കുക.">

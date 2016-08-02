@@ -44,8 +44,7 @@
 <!ENTITY  acceptCookies.label           "സൈറ്റുകളില്‍ നിന്നും കുക്കികള്‍ അംഗീകരിക്കുക ">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "തേര്‍ഡ്-പാര്‍ട്ടി കുക്കികള്‍ അംഗീകരിക്കുക:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "അ">
+
 <!ENTITY  acceptThirdParty.always.label   "എപ്പോഴും">
 <!ENTITY  acceptThirdParty.never.label    "ഒരിക്കലും ഇല്ല">
 <!ENTITY  acceptThirdParty.visited.label  "സന്ദര്‍ശനം മുതല്‍">
@@ -102,3 +101,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "സജ്ജീകരണങ്ങള്‍ …">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
+

@@ -5,7 +5,6 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 
-<!ENTITY fontInspectorTitle "ഫോണ്ടുകള്‍">
 <!ENTITY showAllFonts "താളില്‍ ഉപയോഗിയ്ക്കുന്ന എല്ലാ അക്ഷരസഞ്ചയങ്ങളും കാണുക">
 <!ENTITY usedAs "ഇങ്ങനെ ഉപയോഗിയ്ക്കുന്നു: ">
 <!ENTITY system "സിസ്റ്റം">

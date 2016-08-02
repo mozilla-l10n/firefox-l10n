@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "സിസ്റ്റം അഡ്മിനിസ്ട്രേറ്റര്‍ പുതുക്കല്‍ അനുവദിക്കുന്നില്ല">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "മറ്റൊരു ഇന്‍സ്റ്റന്‍സ് &brandShortName; പുതുക്കുന്നു">
+
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
