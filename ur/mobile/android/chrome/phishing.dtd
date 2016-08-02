@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "مجھے یہاں سے نکالیں!">
 <!ENTITY safeb.palm.decline.label "اس تنبیہ کو نظر انداز کریں">
-<!ENTITY safeb.palm.reportPage.label "یہ صفحہ بلاک کیوں کیا گیا تھا؟">
-<!ENTITY safeb.palm.whyForbidden.label "یہ صفحہ بلاک کیوں کیا گیا تھا؟">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "رپورٹ شدہ اٹیک صفحہ!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "میں اس ویب صفحہ <span id='unwanted_sitename'/> ناپسندیدہ سافٹ ویئر پر مشتمل کی رپورٹ کیا گیا ہے اور آپ کی سلامتی کی ترجیحات کی بنیاد پر بلاک کر دیا گیا ہے۔">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "ناپسندیدہ سافٹ ویئر کے صفحات برامک ہو اور غیر متوقع طور طریقوں سے آپ کے سسٹم کو متاثر کر سکتا ہے کہ سافٹ ویئر کو انسٹال کرنے کی کوشش کری۔">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "بلاک کردہ سائٹ">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "ویب صفحہ <span id='forbidden_sitename'/> جو کی آپکے منتظم کی پروفائل کی حانب سے بلاک کردیا گیا ہے۔">
