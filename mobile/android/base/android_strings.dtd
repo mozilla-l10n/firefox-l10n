@@ -37,9 +37,9 @@
 
 <!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "History">
-<!ENTITY  recent_tabs_title "Recent Tabs">
 
 <!ENTITY  switch_to_tab "Switch to tab">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
 <!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
@@ -97,10 +97,9 @@
 <!ENTITY edit_mode_cancel "Cancel">
 
 <!ENTITY close_tab "Close Tab">
-<!ENTITY one_tab "1 tab">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; tabs">
 <!ENTITY new_tab_opened "New tab opened">
 <!ENTITY new_private_tab_opened "New private tab opened">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -260,6 +259,14 @@
 
 <!ENTITY pref_whats_new_notification "What\u0027s new in &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Learn about new features after an update">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "Now with Tracking Protection">
 <!ENTITY tracking_protection_prompt_text "Actively block tracking elements so you don\u0027t have to worry.">
@@ -371,6 +378,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Synced tabs">
 
 <!ENTITY pref_default_browser "Make default browser">
+
 <!ENTITY pref_about_firefox "About &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Give feedback">
@@ -556,10 +564,11 @@ size. -->
 <!ENTITY home_clear_history_button "Clear browsing history">
 <!ENTITY home_clear_history_confirm "Are you sure you want to clear your history?">
 <!ENTITY home_bookmarks_empty "Bookmarks you save show up here.">
-<!ENTITY home_closed_tabs_title "Recently closed tabs">
-<!ENTITY home_last_tabs_title "Tabs from last time">
+
 <!ENTITY home_last_tabs_empty "Your recent tabs show up here.">
-<!ENTITY home_open_all "Open all">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Websites you visited most recently show up here.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -611,7 +620,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Secure Connection">
 <!ENTITY identity_connection_insecure "Insecure connection">
-<!ENTITY identity_login_insecure "This page is not secure and your login could be vulnerable.">
 <!ENTITY identity_connection_chromeui "This is a secure &brandShortName; page">
 <!-- Mixed content notifications in site identity popup -->
 
