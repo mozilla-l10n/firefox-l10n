@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ଟ୍ୟାବର ପିନ ଖୋଲନ୍ତୁ">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "ନୂତନ ୱିଣ୍ଡୋକୁ ଯାଆନ୍ତୁ">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼କୁ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; କୁ ବ୍ୟବସ୍ଥା କରନ୍ତୁ">
 
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; ସହିତ ପୁଣି ସଂଯୋଗ କରନ୍ତୁ">
@@ -134,6 +141,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "ସମ୍ପୂର୍ଣ୍ଣ ପରଦାରୁ ପ୍ରସ୍ଥାନ କରନ୍ତୁ">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "ୱିଣ୍ଡୋ ବନ୍ଦ କରନ୍ତୁ">
 <!ENTITY closeWindow.accesskey "d">
@@ -736,12 +752,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "ଡେସ୍କଟପ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "<label/> ରୁ ସର୍ଭିସଗୁଡ଼ିକୁ ସକ୍ରିୟ କରାଯାଇଛି। ଆପଣ <label class='text-link'>ଏଡ଼-ଅନ ପରିଚାଳକ</label> ରେ ଥିବା ସର୍ଭିସଗୁଡ଼ିକ ପାଇଁ ଆପଣଙ୍କର ସଂରଚନାକୁ ପରିବର୍ତ୍ତନ କରିପାରିବେ।">
-<!ENTITY social.activated.undo.label "ଆହାଃ, ଏହାକୁ ବାତିଲ କରନ୍ତୁ!">
-<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "ଅଧିକ ଶିଖନ୍ତୁ…">
 <!ENTITY social.learnMore.accesskey "L">
-<!ENTITY social.closeNotificationItem.label "ବର୍ତ୍ତମାନ ନୁହଁ">
 
 <!ENTITY social.directory.label "ସକ୍ରିୟଣ ଡିରେକ୍ଟୋରୀ">
 <!ENTITY social.directory.text "ଏହି ଡିରେକ୍ଟୋରୀରୁ ସହଭାଗୀ ସର୍ଭିସଗୁଡ଼ିକୁ ସକ୍ରିୟ କରିପାରିବେ।">

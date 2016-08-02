@@ -39,8 +39,7 @@
 <!ENTITY  acceptCookies.label           "ସାଇଟରୁ କୁକିଗୁଡ଼ିକୁ ଗ୍ରହଣକରନ୍ତୁ">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "ତୃତୀୟ ପକ୍ଷ କୁକିଗୁଡ଼ିକୁ ଗ୍ରହଣ କରନ୍ତୁ:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+
 <!ENTITY  acceptThirdParty.always.label   "ସର୍ବଦା">
 <!ENTITY  acceptThirdParty.never.label    "କଦାପି ନୁହଁ">
 <!ENTITY  acceptThirdParty.visited.label  "ପରିଦର୍ଶନ କରିଥିବା ପୃଷ୍ଠାରୁ">
@@ -96,3 +95,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "ବିନ୍ୟାସ…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
+

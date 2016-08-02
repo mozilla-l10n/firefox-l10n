@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label "ଫାଇଲଗୁଡ଼ିକୁ କେଉଁଠି ସଂରକ୍ଷଣ କରାଯିବ ତାହା ସର୍ବାଦା ମୋତେ ପଚାରନ୍ତୁ">
 <!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY alwaysCheckDefault2.label        "&brandShortName; ପୂର୍ବନିର୍ଦ୍ଧାରିତ ବ୍ରାଉଜର କି ନୁହଁ ତାହା ସର୍ବଦା ଯାଞ୍ଚ କରନ୍ତୁ">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+
 <!ENTITY setAsMyDefaultBrowser2.label     "ଏହାକୁ ପୂର୍ବନିର୍ଦ୍ଧାରିତ କରନ୍ତୁ">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ପୂର୍ବନିର୍ଦ୍ଧାରିତ ବ୍ରାଉଜର ଅଟେ">
