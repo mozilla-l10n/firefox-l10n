@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Go lekola dikaonafatšo">
 <!ENTITY  updateCheck.label               "Go nyaka dikgatišo tše diswa tša &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Hweditše dikaonafatšo tša ditsebišo-koketšo">
-<!ENTITY  pluginupdatesfound.label        "Go hweditšwe dikgatišo tše diswa tša tsebišo-koketšo ya gago e tee goba go feta.">
-<!ENTITY  pluginupdateslink.label         "Bona kamoo o ka kaonafatšago ditsebišo-koketšo tša gago.">
-
 <!ENTITY  noupdatesfound.title            "Ga go dikaonafatšo tše hweditšwego">
 <!ENTITY  noupdatesautoenabled.intro      "Ga go na dikaonafatšo tšeo di lego gona. &brandShortName; e tla lekola dikaonafatšo nako le nako.">
 <!ENTITY  noupdatesautodisabled.intro     "Ga go na dikaonafatšo tšeo di lego gona. Hle lekola gape ka moragonyana goba o kgonagatše go lekola ga dikaonafatšo ga maitirišo ga &brandShortName;.">

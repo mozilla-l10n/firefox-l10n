@@ -1,76 +1,3 @@
-<!-- LOCALIZATION NOTE (inspectorHTMLEdit.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users edit the
-     (outer) HTML of the current node -->
-
-<!-- LOCALIZATION NOTE (inspectorCopyInnerHTML.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users copy the
-     inner HTML of the current node -->
-
-<!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users copy the
-     outer HTML of the current node -->
-
-<!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users copy
-     the CSS Selector of the current node -->
-
-<!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users paste outer
-     HTML in the current node -->
-
-<!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users paste inner
-     HTML in the current node -->
-
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
-     shown in the inspector contextual-menu for the sub-menu of the other Paste
-     items, which allow to paste HTML:
-     - before the current node
-     - after the current node
-     - as the first child of the current node
-     - as the last child of the current node -->
-
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users paste
-     the HTML before the current node -->
-
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users paste
-     the HTML after the current node -->
-
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users paste
-     the HTML as the first child the current node -->
-
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users paste
-     the HTML as the last child the current node -->
-
-<!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users scroll
-     the current node into view -->
-
-<!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
-     the inspector contextual-menu for the item that lets users delete the
-     current node -->
-
-<!ENTITY inspectorHTMLDelete.label          "Phumula senoko">
-<!ENTITY inspectorHTMLDelete.accesskey      "P">
-<!-- LOCALIZATION NOTE (inspectorAttributesSubmenu.label): This is the label
-     shown in the inspector contextual-menu for the sub-menu of the other
-     attribute items, which allow to:
-     - add new attribute
-     - edit attribute
-     - remove attribute -->
-
-<!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
-     the inspector contextual-menu for the item that lets users add attribute
-     to current node -->
-
-<!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
-     the inspector contextual-menu for the item that lets users edit attribute
-     for current node -->
-
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
@@ -78,50 +5,9 @@
 
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that is
      shown as the placeholder for the markup view search in the inspector. -->
-<!-- LOCALIZATION NOTE (inspectorImageDataUri.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users copy
-     the URL embedding the image data encoded in Base 64 (what we name
-     here Image Data URL). For more information:
-     https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
-<!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users see
-     the DOM properties of the current node. When triggered, this item
-     opens the split Console and displays the properties in its side panel. -->
-<!-- LOCALIZATION NOTE (inspectorUseInConsole.label): This is the label
-     shown in the inspector contextual-menu for the item that outputs a
-     variable for the current node to the console. When triggered,
-     this item opens the split Console. -->
-<!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
-     shown in the inspector contextual-menu for recursively expanding
-     mark-up elements -->
-<!-- LOCALIZATION NOTE (inspectorCollapseNode.label): This is the label
-     shown in the inspector contextual-menu for recursively collapsing
-     mark-up elements -->
-
-<!ENTITY inspectorCollapseNode.label       "Phuhlama">
-<!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users take
-     a screenshot of the currently selected node. -->
-<!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users
-     duplicate the currently selected node. -->
 <!-- LOCALIZATION NOTE (inspectorAddNode.label): This is the label shown in
      the inspector toolbar for the button that lets users add elements to the
      DOM (as children of the currently selected element). -->
 
-<!-- LOCALIZATION NOTE (inspectorCopyHTMLSubmenu.label): This is the label
-     shown in the inspector contextual-menu for the sub-menu of the other
-     copy items, which allow to:
-     - Copy Inner HTML
-     - Copy Outer HTML
-     - Copy Unique selector
-     - Copy Image data URI -->
-<!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
-     shown in the inspector contextual-menu for the sub-menu of the other
-     paste items, which allow to:
-     - Paste Inner HTML
-     - Paste Outer HTML
-     - Before
-     - After
-     - As First Child
-     - As Last Child -->
+<!-- LOCALIZATION NOTE (inspectorEyeDropper.label): A string displayed as the tooltip of
+     a button in the inspector which toggles the Eyedropper tool -->

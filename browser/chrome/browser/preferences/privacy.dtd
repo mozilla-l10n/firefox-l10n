@@ -39,8 +39,7 @@
 <!ENTITY  acceptCookies.label           "Amogela dikhukhi go tšwa disaeteng">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Amogela dikhukhi tša leloko la boraro:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "o">
+
 <!ENTITY  acceptThirdParty.always.label   "Ka mehla">
 <!ENTITY  acceptThirdParty.never.label    "Le gatee">
 <!ENTITY  acceptThirdParty.visited.label  "Go tšwa go tše etetšwego">
@@ -96,3 +95,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Dipeakanyo…">
 <!ENTITY  clearOnCloseSettings.accesskey "e">
+
+
+
+

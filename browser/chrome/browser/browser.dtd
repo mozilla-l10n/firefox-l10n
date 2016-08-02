@@ -38,6 +38,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "G">
 <!ENTITY  unpinTab.label                     "Gomaretšolla thepo">
 <!ENTITY  unpinTab.accesskey                 "a">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Šuthela go lefasetere le leswa">
 <!ENTITY  moveToNewWindow.accesskey          "w">
 
@@ -107,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY fullScreenMinimize.tooltip "Nyenyefatša">
 <!ENTITY fullScreenRestore.tooltip "Bušetša">
 
@@ -129,6 +136,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "Etšwa sekirining se tletšego">
 <!ENTITY leaveDOMFullScreen.accesskey "t">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Tswalela lefasetere">
 <!ENTITY closeWindow.accesskey "e">
@@ -718,12 +734,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Laetša tesekethopo le ditsebišo">
 <!ENTITY social.toggleNotifications.accesskey "d">
 
-<!ENTITY social.activated.description "Ditirelo tšeo di tšwago go <label/> di dumeletšwe. O ka fetoša dipeakanyo tša gago tša ditirelo go <label class='text-link'>Molaodi wa ditlaleletši</label>.">
-<!ENTITY social.activated.undo.label "O!O! dirolla se!">
-<!ENTITY social.activated.undo.accesskey "d">
 <!ENTITY social.learnMore.label "Ithute ka mo go oketšegilego...">
 <!ENTITY social.learnMore.accesskey "I">
-<!ENTITY social.closeNotificationItem.label "E sego bjale">
 
 
 

@@ -35,10 +35,6 @@
 <!ENTITY warning.updatesecurity.label              "Go lekola tšhireletšego ya mpshafatšo ya setlaleletši go šitišitšwe. O ka tsenywa mathateng ke dimpshafatšo.">
 <!ENTITY warning.updatesecurity.enable.label       "Kgontšha">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Kgontšha go lekola tšhireletšego ya mpshafatšo ya setlaleletši">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Lekola go bona ge e ba ditsebišo-koketšo tša gago e le nakong">
-<!ENTITY info.plugincheck.tooltip               "Lekola go bona ge e ba ditsebišo-koketšo tša gago di le nakong">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Hwetša ditlaleletši">
 <!ENTITY view.recentUpdates.label             "Dimpshafatšo tša moragobjale">
