@@ -5,10 +5,6 @@
 <!ENTITY  checking.title                  "Sinusuri para sa mga Update">
 <!ENTITY  updateCheck.label               "Hinahanap para sa bagong mga bersyon ng &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Hinanap ang Update para sa mga Plugin">
-<!ENTITY  pluginupdatesfound.label        "Bagong bersyon ng isa o marami pa ng iyong plugins ang nahanap.">
-<!ENTITY  pluginupdateslink.label         "Tingnan kung paano i-upgrade ang iyong plugins.">
-
 <!ENTITY  noupdatesfound.title            "Hindi Nahanap ang mga Update">
 <!ENTITY  noupdatesautoenabled.intro      "Walang mga update na magagamit. &brandShortName; ay magsusuri paminsan-minsan para sa mga update">
 <!ENTITY  noupdatesautodisabled.intro     "Walang mga update na magagamit. Mangyaring suriin muli sa paglaon o paganahin ang awtomatikong pagsusuri ng pagupdate ng  &brandShortName;.">

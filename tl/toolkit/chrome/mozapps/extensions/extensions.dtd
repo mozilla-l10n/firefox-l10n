@@ -33,8 +33,6 @@
 <!ENTITY warning.updatesecurity.label              "Naka-disable ang update security checking. Posibleng ma-compromise ka ng updates.">
 
 <!ENTITY warning.updatesecurity.enable.tooltip     "I-enable ang add-on security checking">
-<!-- global informations -->
-
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Kumuha ng Add-ons">
 <!ENTITY view.recentUpdates.label             "Mga Bagong Updates">
