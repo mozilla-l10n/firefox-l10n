@@ -44,9 +44,9 @@
 
 <!ENTITY  bookmarks_title "புத்தகக்குறிகள்">
 <!ENTITY  history_title "வரலாறு">
-<!ENTITY  recent_tabs_title "அண்மைய கீற்றுகள்">
 
 <!ENTITY  switch_to_tab "கீற்றுக்கு தாவு">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "&brandShortName; சிதைவு அறிக்கையாளர்">
 <!ENTITY  crash_message2 "&brandShortName; சிதைவடைந்துள்ளது. &brandShortName;ஐ மீள்துவங்கும் போது உங்கள் கீற்றுகள் துவக்கப் பக்கத்தில் பட்டியலிடப்பட்டிருக்கும்.">
@@ -106,10 +106,9 @@
 <!ENTITY edit_mode_cancel "ரத்து">
 
 <!ENTITY close_tab "கீற்றை மூடவும்">
-<!ENTITY one_tab "1 கீற்று">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; கீற்றுகள்">
 <!ENTITY new_tab_opened "புதிய கீற்று திறந்தது">
 <!ENTITY new_private_tab_opened "புதிய தனிப்பட்ட கீற்று திறந்தது">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -269,6 +268,14 @@
 
 <!ENTITY pref_whats_new_notification "&brandShortName; இதில் புதியது என்ன">
 <!ENTITY pref_whats_new_notification_summary "புதுப்பித்தப் பின் புதிய வசதிகளைப் பற்றி வாசிக்கவும்">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "தடமறியல் பாதுகாப்புடன் உள்ளது">
 <!ENTITY tracking_protection_prompt_text "நீங்கள் கவலை கொள்ள வேண்டாம் தடமறிதல் உடனடியாக முடக்கப்படுகிறது.">
@@ -382,6 +389,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "ஒத்திசைக்கப்பட்ட கீற்றுகள்">
 
 <!ENTITY pref_default_browser "முன்னிருப்பு உலாவியாக்குக">
+
 <!ENTITY pref_about_firefox "&brandShortName;வைப் பற்றி">
 <!ENTITY pref_vendor_faqs "அடிக்கடி கேட்கப்படும் கேள்விகளும் பதில்களும்">
 <!ENTITY pref_vendor_feedback "கருத்து தெரிவிக்கவும்">
@@ -570,10 +578,11 @@ size. -->
 <!ENTITY home_clear_history_button "உலாவி வரலாற்றை துடை">
 <!ENTITY home_clear_history_confirm "உங்களுடைய வரலாற்றை நிச்சையமாக துடைக்க வேண்டுமா?">
 <!ENTITY home_bookmarks_empty "நீங்கள் சேமித்து வைத்த புத்தகக்குறிகள் இங்கே காட்டும்.">
-<!ENTITY home_closed_tabs_title "சமீபத்தில் மூடப்பட்ட கீற்றுகள்">
-<!ENTITY home_last_tabs_title "இறுதியாகப் பயன்படுத்தியக் கீற்று">
+
 <!ENTITY home_last_tabs_empty "நீங்கள் அன்மையில் பயன்படுத்திய கீற்று இங்கு காணப்படும்.">
-<!ENTITY home_open_all "அனைத்தையும் திற">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "நீங்கள் அண்மையில் பார்த்த இணையத்தளங்கள் இங்கே காண்பிக்கப்படும்.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +634,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "பாதுகாப்பான இணைப்பு">
 <!ENTITY identity_connection_insecure "பாதுகாப்பற்ற இணைப்பு">
-<!ENTITY identity_login_insecure "இந்த பக்கம் பாதுகாப்பற்றது மேலும் உங்கள் நுழைவு பாதிக்கப்படக்கூடியது.">
 <!ENTITY identity_connection_chromeui "இது பாதுகாப்பான &brandShortName; பக்கம்">
 <!-- Mixed content notifications in site identity popup -->
 

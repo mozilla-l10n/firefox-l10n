@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "என்னை இங்கிருந்து வெளியேற்று!">
 <!ENTITY safeb.palm.decline.label "இந்த எச்சரிக்கையை தவிர்">
-<!ENTITY safeb.palm.reportPage.label "இந்தப் பக்கம் ஏன் தடுக்கப்பட்டது?">
-<!ENTITY safeb.palm.whyForbidden.label "இப்பக்கம் ஏன் தடுக்கப்பட்டது?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "தாக்கப்பட்ட இணைய தளம் என அறிக்கையிடப்பட்டுள்ளது!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "இந்த இணைய தளம் <span id='unwanted_sitename'/> தாக்கப்பட்டுள்ள தளம் என அறிக்கையிடப்பட்டுள்ளது மற்றும் உங்கள் பாதுகாப்பு முன்னுரிமையைக் கொண்டு தடுக்கப்பட்டுள்ளது.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "தேவையற்ற மென்பொருள் பக்கங்கள் ஏமாற்றக்கூடிய மற்றும் கணினியை எதிர்பாராத வகையில் தாக்கும் மென்பொருட்களை நிறுவ முயலாம்.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "தடுக்கப்பட்ட தளம்">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "<span id='forbidden_sitename'/> இல் உள்ள வலைப்பக்கம் உங்கள் நிர்வாகி கணக்கால் தடுக்கப்பட்டது.">
