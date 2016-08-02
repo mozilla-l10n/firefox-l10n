@@ -44,6 +44,8 @@
 <!ENTITY helpus.getInvolvedLink     "sa zapojte">
 <!ENTITY helpus.end                 ".">
 
+<!ENTITY releaseNotes.link          "Poznámky k vydaniu">
+
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Informácie o licenciách">
 
