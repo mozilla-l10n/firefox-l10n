@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "గుచ్చినటాబ్ తీయుము">
 <!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  sendTabToDevice.label              "ట్యాబ్ ను డివైజ్ కు పంపు">
+<!ENTITY  sendTabToDevice.accesskey          "డి">
+<!ENTITY  sendPageToDevice.label             "డివైజ్ కు పేజ్ ను పంపండి">
+<!ENTITY  sendPageToDevice.accesskey         "డి">
+<!ENTITY  sendLinkToDevice.label             "దివైజ్ కు లొంక్ పంపండి">
+<!ENTITY  sendLinkToDevice.accesskey         "డి">
 <!ENTITY  moveToNewWindow.label              "కొత్త విండోకు కదుపుము">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "అన్ని టాబ్‌లను యిష్టాంశము చేయి…">
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "అన్ని టాబ్లను చూపు">
 <!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY toggleReaderMode.key "ఆర్">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; లోనికి ప్రవేశించండి">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; అభీష్టాలు తెరువు">
