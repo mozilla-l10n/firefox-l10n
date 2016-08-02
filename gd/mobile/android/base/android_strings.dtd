@@ -44,9 +44,9 @@
 
 <!ENTITY  bookmarks_title "Comharran-lìn">
 <!ENTITY  history_title "Eachdraidh">
-<!ENTITY  recent_tabs_title "Tabaichean o chionn goirid">
 
 <!ENTITY  switch_to_tab "Gearr leum gun taba">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "Aithrisiche nan tuislidhean aig &brandShortName;">
 <!ENTITY  crash_message2 "Bha duilgheadas aig &brandShortName; is thuislich e. Bu chòir dhut na tabaichean agad fhaicinn air duilleag-thòiseachaidh &brandShortName; nuair a thòisicheas tu e a-rithist.">
@@ -106,10 +106,9 @@
 <!ENTITY edit_mode_cancel "Sguir dheth">
 
 <!ENTITY close_tab "Dùin an taba">
-<!ENTITY one_tab "1 taba">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; taba(ichean)">
 <!ENTITY new_tab_opened "Chaidh taba ùr fhosgladh">
 <!ENTITY new_private_tab_opened "Chaidh taba prìobhaideach ùr fhosgladh">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -269,6 +268,14 @@
 
 <!ENTITY pref_whats_new_notification "Na tha ùr ann am &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Fàs eòlach air gleusan ùra an cois ùrachaidh">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "Le dìon o thracadh a-nis">
 <!ENTITY tracking_protection_prompt_text "Dèan bacadh air eileamaidean tracaidh.">
@@ -382,6 +389,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Tabaichean sioncronaichte">
 
 <!ENTITY pref_default_browser "Cleachd mar am brabhsair bunaiteach">
+
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
 <!ENTITY pref_vendor_faqs "CÀBHA">
 <!ENTITY pref_vendor_feedback "Dè do bheachd?">
@@ -570,10 +578,11 @@ size. -->
 <!ENTITY home_clear_history_button "Falamhaich an eachdraidh brabhsaidh">
 <!ENTITY home_clear_history_confirm "A bheil thu cinnteach gu bheil thu airson an eachdraidh agad fhalamhadh?">
 <!ENTITY home_bookmarks_empty "Nochdaidh comharran-lìn a shàbhaileas tu an-seo.">
-<!ENTITY home_closed_tabs_title "Tabaichean a dhùin thu o chionn goirid">
-<!ENTITY home_last_tabs_title "Na tabaichean a bha agad turas mu dheireadh">
+
 <!ENTITY home_last_tabs_empty "Nochdaidh tabaichean a bha agad o chionn goirid an-seo.">
-<!ENTITY home_open_all "Fosgail a h-uile">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Nochdaidh làraichean-lìn air an do thadhail thu o chionn goirid an-seo.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +634,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ceangal tèarainte">
 <!ENTITY identity_connection_insecure "Ceangal nach eil tèarainte">
-<!ENTITY identity_login_insecure "Chan eil an duilleag seo tèarainte agus dh’fhaoidte gum bris cuideigin air a’ chlàradh agad.">
 <!ENTITY identity_connection_chromeui "’S e duilleag thèarainte &brandShortName; a tha seo">
 <!-- Mixed content notifications in site identity popup -->
 
