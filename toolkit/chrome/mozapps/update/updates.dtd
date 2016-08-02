@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Frissítések keresése">
 <!ENTITY  updateCheck.label               "A &brandShortName; újabb verzióinak keresése…">
 
-<!ENTITY  pluginupdatesfound.title        "Bővítményfrissítések érhetők el">
-<!ENTITY  pluginupdatesfound.label        "Egy vagy több bővítményfrissítés érhető el.">
-<!ENTITY  pluginupdateslink.label         "Kattintson ide a bővítmények frissítéséhez.">
-
 <!ENTITY  noupdatesfound.title            "Nincsenek frissítések">
 <!ENTITY  noupdatesautoenabled.intro      "Nincsenek frissítések. A &brandShortName; rendszeresen keresi az új frissítéseket.">
 <!ENTITY  noupdatesautodisabled.intro     "Nincsenek frissítések. Ellenőrizze később, vagy engedélyezze a &brandShortName; automatikus frissítés-ellenőrzőjét.">

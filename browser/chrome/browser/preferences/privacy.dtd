@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Sütik elfogadása webhelyekről">
 <!ENTITY  acceptCookies.accesskey       "w">
 
-<!ENTITY  acceptThirdParty.pre.label      "Harmadik féltől származó sütik elfogadása:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "H">
+
 <!ENTITY  acceptThirdParty.always.label   "Mindig">
 <!ENTITY  acceptThirdParty.never.label    "Soha">
 <!ENTITY  acceptThirdParty.visited.label  "Meglátogatottól">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Beállítások…">
 <!ENTITY  clearOnCloseSettings.accesskey "B">
+
+
+
+
