@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Trådheng">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histogrammer">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogrammer etter nøkler">

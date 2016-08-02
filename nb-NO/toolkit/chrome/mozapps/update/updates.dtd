@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Søker etter oppdateringer">
 <!ENTITY  updateCheck.label               "Søker etter nyere versjoner av &brandShortName; …">
 
-<!ENTITY  pluginupdatesfound.title        "Oppdateringer til programtillegg">
-<!ENTITY  pluginupdatesfound.label        "Nyere versjoner av en eller flere av programtilleggene dine ble funnet.">
-<!ENTITY  pluginupdateslink.label         "Se hvordan du kan oppgradere programtilleggene.">
-
 <!ENTITY  noupdatesfound.title            "Ingen oppdateringer funnet">
 <!ENTITY  noupdatesautoenabled.intro      "Ingen oppdateringer er tilgjengelige. &brandShortName; vil se etter nye oppdateringer ved jevne mellomrom.">
 <!ENTITY  noupdatesautodisabled.intro     "Ingen oppdateringer er tilgjengelig. Prøv igjen senere, eller slå på automatisk oppdateringssøk for &brandShortName;.">
