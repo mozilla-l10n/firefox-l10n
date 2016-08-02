@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "အတ်အွန် အဆင့်မြှင့်တင်ခြင်းလုံခြုံရေးစစ်ဆေးချက်အားပိတ်ထားသည်။သင်သည် အဆင့်မြှင့်တင်ခြင်းများနှင့်ပတ်သတ်ပြီးအံအားသင့်နိုင်သည်။">
 <!ENTITY warning.updatesecurity.enable.label       "လုပ်ဆောင်နိုင်စေမည်။">
 <!ENTITY warning.updatesecurity.enable.tooltip     "အက်အွန် အပ်ဒိပ် လုံခြုံရေး စစ်ဆေးခြင်းကို ဖွင့်ထားမယ်">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "သင်၏ပလပ်အင်များ အဆင့်မှီမမှီစစ်ဆေးမည်။">
-<!ENTITY info.plugincheck.tooltip               "သင်၏ပလပ်အင်များ အဆင့်မှီမမှီစစ်ဆေးမည်။">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "ရှာဖွေရန်">

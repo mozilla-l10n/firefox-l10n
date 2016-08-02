@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Thread Hangs">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histograms">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  ကီးများဖြင့် ဇယားကွက်">

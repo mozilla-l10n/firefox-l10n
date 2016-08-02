@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "မွမ်းမံချက်များကို စစ်ဆေးနေတယ်">
 <!ENTITY  updateCheck.label               "&brandShortName; မူအဆင့်သစ်များကို ရှာနေတယ်...">
 
-<!ENTITY  pluginupdatesfound.title        "Pluginsအတွက်အဆင့်မြင်တင်မှုအသစ်တွေ့ရှိပါသည်">
-<!ENTITY  pluginupdatesfound.label        "သင်၏ Pluginsများ အတွက် တခု သို့မဟုတ် တခုထက်ပိုသော versions အသစ်များကို ရှာဖွေတွေ့ရှိထားပါသည်။">
-<!ENTITY  pluginupdateslink.label         "ပလပ်အင် အားမည်သို့အဆင့်မြှင့်တင်ရန် ကြည့်ပါ">
-
 <!ENTITY  noupdatesfound.title            "မွမ်းမံချက်များ မတွေ့ရဘူး">
 <!ENTITY  noupdatesautoenabled.intro      "မွမ်းမံချက်များ မရှိဘူး။ &brandShortName; က မွမ်းမံချက်များကို အချိန်တိုင်း စစ်ဆေးပေးမယ်။">
 <!ENTITY  noupdatesautodisabled.intro     "မွမ်းမံချက်များ မရှိဘူး။ နောက်တခါ ထပ်ကြိုးစားပါ သို့ &brandShortName;  ရဲ့ အလိုအလျှောက် မွမ်းမံချက် စစ်ဆေးမှုကို ဖွင့်ထားပါ။">

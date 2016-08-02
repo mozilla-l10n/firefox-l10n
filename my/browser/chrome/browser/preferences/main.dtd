@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label "Aဖိုင်များ သိမ်းဆည်းမဲ့နေရာကို အမြဲ မေးမြန်းပါ">
 <!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY alwaysCheckDefault2.label        "&brandShortName; သည် မူသေဘရောင်ဇာ ဟုတ်/မဟုတ် အမြဲစစ်ဆေးပါ။ w">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+
 <!ENTITY setAsMyDefaultBrowser2.label     "မူသေ သတ်မှတ်ရန် D">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; က လက်ရှိ သင့်ရဲ့ အမြဲသုံးဘရောက်ဇာ ဖြစ်ပါတယ်">
