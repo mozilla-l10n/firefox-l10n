@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Degemer toupinoù adalek lec'hiennoù">
 <!ENTITY  acceptCookies.accesskey       "D">
 
-<!ENTITY  acceptThirdParty.pre.label      "Degemer toupinoù un trede :">
-<!ENTITY  acceptThirdParty.pre.accesskey  "g">
+
 <!ENTITY  acceptThirdParty.always.label   "Atav">
 <!ENTITY  acceptThirdParty.never.label    "Morse">
 <!ENTITY  acceptThirdParty.visited.label  "Adalek lec'hiennoù gweladennet">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Arventennoù…">
 <!ENTITY  clearOnCloseSettings.accesskey "v">
+
+
+
+

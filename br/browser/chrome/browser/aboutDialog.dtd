@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "Hizivadennoù diweredekaet gant hoc'h ardead reizhiad">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "Emañ &brandShortName; o vezañ hizivaet gant un eriol all">
+
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download

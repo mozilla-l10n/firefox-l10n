@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "O wiriañ an hizivadurioù">
 <!ENTITY  updateCheck.label               "Emañ &brandShortName; o klask an hizivadurioù…">
 
-<!ENTITY  pluginupdatesfound.title        "Hizivadurioù hegerz evit an enlugelladoù">
-<!ENTITY  pluginupdatesfound.label        "Handelvoù nevesoc'h zo hegerz evit unan pe meur a enlugellad.">
-<!ENTITY  pluginupdateslink.label         "Gwelout penaos hizivaat hoc'h enlugelladoù.">
-
 <!ENTITY  noupdatesfound.title            "Hizivadur ebet bet kavet">
 <!ENTITY  noupdatesautoenabled.intro      "N'eus hizivadur ebet hegerz. Gallout a ra &brandShortName; gwiriañ ur wech an amzer mard ez eus hizivadurioù hegerz.">
 <!ENTITY  noupdatesautodisabled.intro     "N'eus hizivadur ebet hegerz. Gwiriit en-dro diwezhatoc'h pe gweredekait gwiriadur emgefreek an hizivadurioù evit &brandShortName;.">

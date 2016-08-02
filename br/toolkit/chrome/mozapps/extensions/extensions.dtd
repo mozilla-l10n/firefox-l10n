@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Diweredekaet eo ar gwiriañ evit hizivaat an askouezhioù. Marteze e viot lakaet en arvar gant hizivadurioù.">
 <!ENTITY warning.updatesecurity.enable.label       "Gweredekaat">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Gweredekaat ar gwiriadur a-fet diogelroez hizivadur an askouezh">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Gwiriañ mard ez eo hizivaet hoc'h enlugelladoù">
-<!ENTITY info.plugincheck.tooltip               "Gwiriañ mard ez eo hizivaet hoc'h enlugelladoù">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Klask">
