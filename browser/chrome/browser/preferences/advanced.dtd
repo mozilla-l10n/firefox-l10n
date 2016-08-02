@@ -28,7 +28,7 @@
 <!ENTITY checkSpelling.label             "მართლწერის შემოწმება ტექსტის შეტანისას">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY dataChoicesTab.label            "მონაცემების არჩევნები">
+<!ENTITY dataChoicesTab.label            "მონაცემთა არჩევანი">
 
 <!ENTITY healthReportDesc.label          "გეხმარებათ თქვენი ბრაუზერის წარმადობის გაგებაში და მისი ჯანმრთელობის შესახებ მონაცემებს უზიარებს &vendorShortName;-ს">
 <!ENTITY enableHealthReport.label        "&brandShortName;-ის ჯანმრთელობის პატაკის ჩართვა">
