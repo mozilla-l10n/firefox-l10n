@@ -37,9 +37,9 @@
 
 <!ENTITY  bookmarks_title "Rɨgɨnoga">
 <!ENTITY  history_title "Jagaɨ">
-<!ENTITY  recent_tabs_title "Kómue jɨ́feiya">
 
 <!ENTITY  switch_to_tab "Jɨaɨe úitɨraɨ jóne">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "Fɨgóñede yote ie &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; fɨgoñede íe ɨbáika. Taɨnía rabeniko ó iutɨraɨ dɨno ífɨrede &brandShortName; Abɨdo taɨníamo.">
@@ -97,10 +97,9 @@
 <!ENTITY edit_mode_cancel "Fuitaka">
 
 <!ENTITY close_tab "Uitɨraɨ ɨbai">
-<!ENTITY one_tab "Da uitiraɨ">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; Úitɨraɨ">
 <!ENTITY new_tab_opened "Komue úitɨraɨ">
 <!ENTITY new_private_tab_opened "Dáma kue tuñoka Kómue úitɨraɨ">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -260,6 +259,14 @@
 
 <!ENTITY pref_whats_new_notification "Mɨnɨka komue iya &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Ñué fɨnoka éroiri kómue iyano">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "Jénuamo Bírui Énori.">
 <!ENTITY tracking_protection_prompt_text "Jénua ráa óni oiri ó ñue iyena.">
@@ -371,6 +378,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Dáamakɨ úitɨraɨ">
 
 <!ENTITY pref_default_browser "Dai iyano makara fɨno">
+
 <!ENTITY pref_about_firefox "Bíedo ie &brandShortName;">
 <!ENTITY pref_vendor_faqs "Abɨdo benomo jɨkanua ">
 <!ENTITY pref_vendor_feedback "Úriya óre ">
@@ -556,10 +564,11 @@ size. -->
 <!ENTITY home_clear_history_button "Makara jagaɨ óni oíri">
 <!ENTITY home_clear_history_confirm "¿Jagaɨ óni oiakade?">
 <!ENTITY home_bookmarks_empty "Jíyode Rɨgɨno benó eróide">
-<!ENTITY home_closed_tabs_title "Uitɨraɨ birui komo ɨbaiya">
-<!ENTITY home_last_tabs_title "Ɨkoɨdɨ uitɨraɨ">
+
 <!ENTITY home_last_tabs_empty "Beno eroide birui o uitɨraɨ">
-<!ENTITY home_open_all "Nana tuño">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Wed iyano biriu beno eroide">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -611,7 +620,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ñúe nítade">
 <!ENTITY identity_connection_insecure "Ñúe nitánoñede">
-<!ENTITY identity_login_insecure "Bíe íte rábeniko ñúeñede ó taɨneka jɨaɨmakɨ éroiye.">
 <!ENTITY identity_connection_chromeui "Bie rabe ñuede &brandShortName;">
 <!-- Mixed content notifications in site identity popup -->
 

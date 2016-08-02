@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "¡Benomo jáiri!">
 <!ENTITY safeb.palm.decline.label "Bíe úia jónega éroñeno">
-<!ENTITY safeb.palm.reportPage.label "¿Bíe rábe nɨbaɨ ɨbaika benomo?">
-<!ENTITY safeb.palm.whyForbidden.label "¿Bíe rábe nɨbaɨ ɨbaika benomo?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "¡Fúiride rábe já yóga!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Bie rabe ite  <span id='unwanted_sitename'/> ja yote mɨnikari software ñeiakade ja fuite o éenote.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Rábedo software ñeiakade joniakade software nate o sistema chípikaide. ">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Ja beno ɨbaika">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Bie rabe web <span id='forbidden_sitename'/> o Náama mamekɨ ñueñede.">
