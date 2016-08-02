@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "A verificação de compatibilidade de extras está desativada. Poderá estar comprometido com atualizações.">
 <!ENTITY warning.updatesecurity.enable.label       "Ativar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Ativar verificação de segurança de atualização do extra">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Verificar se os plugins estão atualizados">
-<!ENTITY info.plugincheck.tooltip               "Verificar se os plugins estão atualizados">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Pesquisar">
