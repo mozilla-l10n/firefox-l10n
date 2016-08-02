@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Desafixar separador">
 <!ENTITY  unpinTab.accesskey                 "r">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Enviar separador para dispositivo">
+<!ENTITY  sendTabToDevice.accesskey          "d">
+<!ENTITY  sendPageToDevice.label             "Enviar página para dispositivo">
+<!ENTITY  sendPageToDevice.accesskey         "d">
+<!ENTITY  sendLinkToDevice.label             "Enviar ligação para dispositivo">
+<!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  moveToNewWindow.label              "Mover para nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "j">
 <!ENTITY  bookmarkAllTabs.label              "Criar marcadores para todos os separadores…">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "tem controlo do seu apontador. Pressione Esc para tomar controlo de volta.">
+<!ENTITY pointerlockWarning.generic.label "Este documento tem controlo do seu apontador. Pressione Esc para tomar controlo de volta.">
 
 <!ENTITY closeWindow.label "Fechar janela">
 <!ENTITY closeWindow.accesskey "j">
@@ -473,7 +473,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "s">
 <!ENTITY openFrameCmd.label           "Abrir frame em nova janela">
 <!ENTITY openFrameCmd.accesskey       "j">
-
+<!ENTITY openLinkCmdInContainerTab.label "Abrir ligação em novo separador de contexto">
 
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas este frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">

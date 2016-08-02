@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "Aceitar cookies dos sites">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Aceitar cookies de terceiros:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
 <!ENTITY  acceptThirdParty.always.label   "Sempre">
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
 <!ENTITY  acceptThirdParty.visited.label  "Dos visitados">
@@ -104,6 +105,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Definições…">
 <!ENTITY  clearOnCloseSettings.accesskey "e">
 
-
+<!ENTITY  browserContainersLearnMore.label      "Saber mais">
 
 
