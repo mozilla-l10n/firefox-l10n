@@ -35,9 +35,9 @@
 
 <!ENTITY  bookmarks_title "Marcapaginas">
 <!ENTITY  history_title "Istoric">
-<!ENTITY  recent_tabs_title "Etiquetas recentas">
 
 <!ENTITY  switch_to_tab "Anar a l\u0027onglet">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "Rapòrt de fracàs de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; a fracassat. Vòstres onglets deurián aparéisser sus la pagina d\u0027aviada de &brandShortName; a son aviada que ven.">
@@ -96,10 +96,9 @@
 <!ENTITY edit_mode_cancel "Anullar">
 
 <!ENTITY close_tab "Tampar l\u0027onglet">
-<!ENTITY one_tab "1 onglet">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; onglets">
 <!ENTITY new_tab_opened "Novèl onglet dobèrt">
 
 <!-- Localization note (switch_button_message): This string should be as short
@@ -248,6 +247,14 @@
 <!ENTITY pref_tracking_protection_disabled "Desactivat">
 
 
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 
 
@@ -347,6 +354,7 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Paramètres del site">
 <!ENTITY pref_private_data_downloadFiles2 "Telecargaments">
 <!ENTITY pref_private_data_syncedTabs "Onglets sincronizats">
+
 
 <!ENTITY pref_about_firefox "A prepaus de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
@@ -525,9 +533,10 @@ size. -->
 
 
 
-<!ENTITY home_last_tabs_title "Vòstres darrièrs onglets dobèrts">
 
 
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Los sites visitats recentament s\u0027afichan aicí.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -568,7 +577,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Connexion securizada">
 <!ENTITY identity_connection_insecure "Connexion pas segura">
-
 
 <!-- Mixed content notifications in site identity popup -->
 
