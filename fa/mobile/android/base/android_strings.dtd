@@ -44,9 +44,9 @@
 
 <!ENTITY  bookmarks_title "نشانک‌ها">
 <!ENTITY  history_title "تاریخچه">
-<!ENTITY  recent_tabs_title "زبانه‌های اخیر">
 
 <!ENTITY  switch_to_tab "پرش به زبانه">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "گزارشگر فروپاشی &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; مشکلی داشت و فروپاشید. پس از راه‌اندازی مجدد، زبانه‌های شما باید در &brandShortName; در صفحه شروع فهرست شده باشند.">
@@ -106,10 +106,9 @@
 <!ENTITY edit_mode_cancel "انصراف">
 
 <!ENTITY close_tab "بستن زبانه">
-<!ENTITY one_tab "1 زبانه">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; زبانه">
 <!ENTITY new_tab_opened "زبانۀ جدید باز شد">
 <!ENTITY new_private_tab_opened "زبانه خصوصی جدیدی باز شد">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -269,6 +268,14 @@
 
 <!ENTITY pref_whats_new_notification "چیزهای جدید در &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "در مورد ویژیگی‌های جدید بعد از بروزرسانی یادبگیرید">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "هم‌اکنون با قابلیت محافظت در برابر ردگیری">
 <!ENTITY tracking_protection_prompt_text "عناصر ردیابی به طور فعال مسدود می‌شود بنابراین جایی برای نگرانی وجود ندارد.">
@@ -382,6 +389,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "زبانه‌های همگام‌سازی شده">
 
 <!ENTITY pref_default_browser "ایجاد مرورگر پیش فرض">
+
 <!ENTITY pref_about_firefox "درباره &brandShortName;">
 <!ENTITY pref_vendor_faqs "پرسش‌های متداول">
 <!ENTITY pref_vendor_feedback "دادن بازخورد">
@@ -570,10 +578,11 @@ size. -->
 <!ENTITY home_clear_history_button "پاک کردن تاریخچه مرور">
 <!ENTITY home_clear_history_confirm "آیا مطمئن هستید می‌خواهید تاریخچه مرور خود را پاک کنید؟">
 <!ENTITY home_bookmarks_empty "نشانک‌هایی که ذخیره می‌کنید، در اینجا نمایش داده می‌شوند.">
-<!ENTITY home_closed_tabs_title "زبانه‌هایی که اخیر بسته‌ شده‌اند">
-<!ENTITY home_last_tabs_title "زبانه‌های مربوط به آخرین بار">
+
 <!ENTITY home_last_tabs_empty "زبانه‌های اخیر شما در اینجا نمایش داده می‌شوند.">
-<!ENTITY home_open_all "بازکردن همه">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "وبسایت‌هایی را که اخیرا بیشتر بازدید کرده‌اید در اینجا نمایش داده می‌شوند.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +634,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "اتصال امن">
 <!ENTITY identity_connection_insecure "اتصال نا امن">
-<!ENTITY identity_login_insecure "این صفحه امن نیست و ورود شما ممکن است آسیپ پذیر باشد.">
 <!ENTITY identity_connection_chromeui "این صفحه امن &brandShortName; است">
 <!-- Mixed content notifications in site identity popup -->
 
