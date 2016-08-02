@@ -6,11 +6,11 @@
 <!ENTITY wizard.label             "Een nieuwe agenda maken" >
 <!ENTITY wizard.description       "Uw agenda lokaliseren" >
 
-<!ENTITY initialpage.description    "Uw agenda kan op uw eigen computer of op een andere computer worden opgeslagen, zodat deze op afstand te bereiken is door bijvoorbeeld vrienden of collega’s." >
+<!ENTITY initialpage.description    "Uw agenda kan op uw computer of op een server worden opgeslagen, zodat deze op afstand is te benaderen door vrienden of collega’s." >
 <!ENTITY initialpage.computer.label  "Op mijn computer">
 <!ENTITY initialpage.network.label  "Op het netwerk">
 
-<!ENTITY locationpage.description         "Informatie opgeven om toegang te krijgen tot uw agenda op een andere computer" >
+<!ENTITY locationpage.description         "Informatie opgeven om toegang te krijgen tot uw externe agenda" >
 <!ENTITY locationpage.login.description   "Optioneel: gebruikersnaam en wachtwoord invoeren" >
 <!ENTITY locationpage.username.label      "Gebruikersnaam:" >
 <!ENTITY locationpage.password.label      "Wachtwoord:" >
