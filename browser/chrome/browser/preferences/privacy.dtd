@@ -39,8 +39,7 @@
 <!ENTITY  acceptCookies.label           "સાઈટોમાંથી કુકીઓ સ્વીકારો">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "ત્રીજી-પાર્ટી કુકીઓને સ્વીકારો:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+
 <!ENTITY  acceptThirdParty.always.label   "હંમેશા">
 <!ENTITY  acceptThirdParty.never.label    "ક્યારેય નહિં">
 <!ENTITY  acceptThirdParty.visited.label  "મુલાકાત લીધેલ">
@@ -97,3 +96,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "સેટીંગ…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
+

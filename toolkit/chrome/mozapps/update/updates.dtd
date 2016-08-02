@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "સુધારાઓ માટે ચકાસી રહ્યા છીએ">
 <!ENTITY  updateCheck.label               "&brandShortName; ની નવી આવૃત્તિઓ માટે જોઈ રહ્યા છીએ…">
 
-<!ENTITY  pluginupdatesfound.title        "પ્લગઇનો માટે સુધારાઓ મળ્યા">
-<!ENTITY  pluginupdatesfound.label        "તમારા પ્લગઇનોની એક અથવા વધારે નવામાં નવી આવૃત્તિઓ મળી હતી.">
-<!ENTITY  pluginupdateslink.label         "જુઓ કેવી રીતે તમારા પ્લગઇનોને સુધારવા.">
-
 <!ENTITY  noupdatesfound.title            "કોઈ સુધારાઓ મળ્યા નહિં">
 <!ENTITY  noupdatesautoenabled.intro      "ત્યાં કોઈ સુધારાઓ ઉપલબ્ધ નથી. &brandShortName; સુધારાઓ માટે સામયિક રીતે ચકાસી શકશે.">
 <!ENTITY  noupdatesautodisabled.intro     "ત્યાં કોઈ સુધારો ઉપલબ્ધ નથી. મહેરબાની કરીને પછી ફરીથી ચકાસો અથવા &brandShortName; ના આપોઆપ સુધારા ચકાસણીને સક્રિય કરો.">

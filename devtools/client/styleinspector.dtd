@@ -30,7 +30,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "કોઇ CSS ગુણધર્મો મળ્યા નહિં.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "ગણતરી થયેલ">
-<!ENTITY ruleViewTitle         "નિયમો">
