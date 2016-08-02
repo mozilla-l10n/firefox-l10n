@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "ಆಡ್-ಆನ್ ಅಪ್‌ಡೇಟ್ ಸುರಕ್ಷತಾ ಪರಿಶೀಲನೆಯನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ. ನೀವು ಅಪ್‌ಡೇಟ್‌ಗಳಿಂದ ರಾಜಿ ಮಾಡಿಕೊಂಡಂತಾಗಬಹುದು.">
 <!ENTITY warning.updatesecurity.enable.label       "ಶಕ್ತಗೊಳಿಸು">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ಆಡ್-ಆನ್ ಅಪ್‌ಡೇಟ್ ಸುರಕ್ಷತಾ ಪರಿಶೀಲನೆಯನ್ನು ಶಕ್ತಗೊಳಿಸು">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "ನಿಮ್ಮ ಪ್ಲಗ್‌ಇನ್‌ಗಳು ಅಪ್‌ ಟು ಡೇಟ್ ಆಗಿದ್ದಾವೆಯೆ ಎಂದು ಪರಿಶೀಲಿಸಿ">
-<!ENTITY info.plugincheck.tooltip               "ನಿಮ್ಮ ಪ್ಲಗ್‌ಇನ್‌ಗಳು ಅಪ್‌ ಟು ಡೇಟ್ ಆಗಿದ್ದಾವೆಯೆ ಎಂದು ಪರಿಶೀಲಿಸಿ">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "ಹುಡುಕು">

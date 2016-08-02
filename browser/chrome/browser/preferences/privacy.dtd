@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "ಈ ತಾಣದಿಂದ ಕುಕಿಗಳನ್ನು ಅನುಮತಿಸು">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "ಥರ್ಡ್‌ ಪಾರ್ಟಿ ಕುಕಿಗಳನ್ನು ಅಂಗೀಕರಿಸು:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+
 <!ENTITY  acceptThirdParty.always.label   "ಯಾವಾಗಲೂ">
 <!ENTITY  acceptThirdParty.never.label    "ಎಂದಿಗೂ ಬೇಡ">
 <!ENTITY  acceptThirdParty.visited.label  "ಭೇಟಿ ಮಾಡಿದವುಗಳಿಂದ">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "ಸಿದ್ಧತೆಗಳು…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
+

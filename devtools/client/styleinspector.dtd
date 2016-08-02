@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "ಯಾವುದೆ CSS ಗುಣಗಳು ಕಂಡುಬಂದಿಲ್ಲ.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "ಲೆಕ್ಕಹಾಕಲಾದ">
-<!ENTITY ruleViewTitle         "ನಿಯಮಗಳು">

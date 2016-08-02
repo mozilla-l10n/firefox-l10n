@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "ನವೀಕರಣಗಳಿಗಾಗಿ ಹುಡುಕಲಾಗುತ್ತಿದೆ">
 <!ENTITY  updateCheck.label               "&brandShortName; ನ ಹೊಸ ಆವೃತ್ತಿಗಾಗಿ ಹುಡುಕಲಾಗುತ್ತಿದೆ…">
 
-<!ENTITY  pluginupdatesfound.title        "ಪ್ಲಗ್‌ಇನ್‌ಗಳಿಗಾಗಿ ಅಪ್‌ಡೇಟ್‌ಗಳು ಕಂಡುಬಂದಿವೆ">
-<!ENTITY  pluginupdatesfound.label        "ನಿಮ್ಮಲ್ಲಿರುವ ಒಂದು ಅಥವ ಹೆಚ್ಚಿನ ಪ್ಲಗ್‌ಇನ್‌ಗಳ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯು ಕಂಡುಬಂದಿದೆ.">
-<!ENTITY  pluginupdateslink.label         "ನಿಮ್ಮ ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ಹೇಗೆ ನವೀಕರಿಸುವುದು ಎನ್ನುವುದನ್ನು ನೋಡಿ.">
-
 <!ENTITY  noupdatesfound.title            "ಯಾವುದೆ ನವೀಕರಣಗಳು ಕಂಡು ಬಂದಿಲ್ಲ">
 <!ENTITY  noupdatesautoenabled.intro      "ಯಾವುದೆ ಅಪ್‌ಡೇಟ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ. &brandShortName; ಕಾಲಕಾಲಕ್ಕೆ ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಹುಡುಕುತ್ತದೆ.">
 <!ENTITY  noupdatesautodisabled.intro     "ಯಾವುದೆ ಅಪ್‌ಡೇಟ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಪ್ರಯತ್ನಿಸಿ ಅಥವ &brandShortName; ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸುವಂತೆ ಸಜ್ಜುಗೊಳಿಸಿ.">
