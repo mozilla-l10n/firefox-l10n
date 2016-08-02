@@ -37,9 +37,9 @@
 
 <!ENTITY  bookmarks_title "ଚିହ୍ନିତ ସ୍ଥାନମାନ">
 <!ENTITY  history_title "ପୁରୁଣା ତଥ୍ୟ">
-<!ENTITY  recent_tabs_title "ସାମ୍ପ୍ରତିକ ଟ୍ୟାବଗୁଡ଼ିକ">
 
 <!ENTITY  switch_to_tab "ଆଉ ଏକ ଟ୍ୟାବକୁ ଯା\u0027ନ୍ତୁ">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "&brandShortName; ବିନାଶ ଖବରକାରୀ">
 <!ENTITY  crash_message2 "&brandShortName; ଅସୁବିଧା ଥିବା ହେତୁ ବନ୍ଦ ହୋଇଗଲା । ଆପଣଙ୍କ ଟ୍ୟାବମାନ ପୁନରାରମ୍ଭ କଲାବେଳକୁ &brandShortName;ରେ ତାଲିକାଭୁକ୍ତ ହୋଇଥିବ ।">
@@ -94,10 +94,9 @@
 <!ENTITY edit_mode_cancel "ବାତିଲ">
 
 <!ENTITY close_tab "ଟ୍ୟାବ ବନ୍ଦକରନ୍ତୁ">
-<!ENTITY one_tab "1 ଟ୍ୟାବ">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; ଟ୍ୟାବଗୁଡ଼ିକ">
 <!ENTITY new_tab_opened "ନୂଆ ଟ୍ୟାବ ଖୋଲିଛି">
 <!ENTITY new_private_tab_opened "ନୂଆ ବ୍ୟକ୍ତିଗତ ଟ୍ୟାବ ଖୋଲାଗଲା">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -240,6 +239,14 @@
 
 
 
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 
 
@@ -335,6 +342,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "ଅଫ ଲାଇନ ୱେବସାଇଟ ତଥ୍ୟ">
 <!ENTITY pref_private_data_siteSettings2 "ସାଇଟ ସଂରଚନା">
 <!ENTITY pref_private_data_downloadFiles2 "ଆହରଣଗୁଡ଼ିକ">
+
 
 
 <!ENTITY pref_about_firefox "&brandShortName; ବିଷୟରେ">
@@ -507,10 +515,11 @@ size. -->
 <!ENTITY home_clear_history_button "ବ୍ରାଉଜିଙ୍ଗ ଇତିହାସ ସଫାକରନ୍ତୁ">
 <!ENTITY home_clear_history_confirm "ନିଜର ଇତିହାସ ସଫାକରିବା ବାବଦରେ ଆପଣ ନିଶ୍ଚିତ କି?">
 <!ENTITY home_bookmarks_empty "ଆପଣ ସାଇତିଥିବା ପୃଷ୍ଠାସଂକେତମାନ ଏଠାରେ ଦେଖାଯିବ ।">
-<!ENTITY home_closed_tabs_title "ନିକଟରେ ବନ୍ଦ ହୋଇଥିବା ଟ୍ୟାବଗୁଡ଼ିକ">
-<!ENTITY home_last_tabs_title "ଶେଷ ଥର ବ୍ୟବହୃତ ଟ୍ୟାବଗୁଡ଼ିକ">
+
 <!ENTITY home_last_tabs_empty "ନିକଟରେ ବ୍ୟବହୃତ ଟ୍ୟାବଗୁଡ଼ିକ ଏଠାରେ ଦେଖାଯିବ ।">
-<!ENTITY home_open_all "ସବୁଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "ଆପଣ ସବୁଠାରୁ ଅଧିକ ଥର ପଢ଼ିଥିବା ୱେବସାଇଟସବୁ ଏଠାରେ ଦେଖିପାରିବେ ।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -555,7 +564,6 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
 
 
 <!-- Mixed content notifications in site identity popup -->
