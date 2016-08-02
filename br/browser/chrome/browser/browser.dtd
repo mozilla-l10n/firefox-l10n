@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Dispilhennañ an ivinell">
 <!ENTITY  unpinTab.accesskey                 "s">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Kas an ivinell d'an trevnad">
+<!ENTITY  sendTabToDevice.accesskey          "t">
+<!ENTITY  sendPageToDevice.label             "Kas ar bajenn d'an trevnad">
+<!ENTITY  sendPageToDevice.accesskey         "t">
+<!ENTITY  sendLinkToDevice.label             "Kas an ere d'an trevnad">
+<!ENTITY  sendLinkToDevice.accesskey         "t">
 <!ENTITY  moveToNewWindow.label              "Dilec'hiañ en ur prenestr nevez">
 <!ENTITY  moveToNewWindow.accesskey          "D">
 <!ENTITY  bookmarkAllTabs.label              "Lakaat ur sined war an holl ivinelloù…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Diskouez an holl ivinelloù">
 <!ENTITY showAllTabsCmd.accesskey "a">
-
+<!ENTITY toggleReaderMode.key "A">
 
 <!ENTITY fxaSignIn.label "En em gennaskañ ouzh &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Digeriñ gwellvezioù &syncBrand.shortName.label;">
