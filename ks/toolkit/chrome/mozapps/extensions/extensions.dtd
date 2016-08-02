@@ -35,10 +35,6 @@
 <!ENTITY warning.updatesecurity.label              "ایڈ۔آن اپڈیٹ حفاظت چکینگ چھ ڈیسیبْل کرنْہ آمْژ۔ توہیہ ما أسیو کمپرومایز کورمُت اپڈیٹو ذریعہ۔">
 <!ENTITY warning.updatesecurity.enable.label       "مجاز">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ایڈ آن اپ ڈیٹ حفٲظتی جانچ بنٲویو ممكن">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "وچھیو تُہِند پلگ اِنس چھا تازئ">
-<!ENTITY info.plugincheck.tooltip               "وچھیو تُہِند پلگ اِنس چھا تازئ">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "ژھآنڈیو ">

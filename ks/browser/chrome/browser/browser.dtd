@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ٹیب كریو اَن پِن">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "نئو۪ی وِنڈئ منز پكنٲویو">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "سارنی ٹیبن تھٲویو نشان">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "سٲری ٹیبس ہٲویو">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
 <!ENTITY fxaSignIn.label " سیٹ اَپ  كریو  &syncBrand.shortName.label;…">
 
 <!ENTITY fxaSignInError.label " سیٹ اَپ  كریو  &syncBrand.shortName.label;…">
@@ -134,6 +141,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "پورئ پردئ كریو خٲرج">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "وِنڈو كریو بند">
 <!ENTITY closeWindow.accesskey "d">
@@ -739,12 +755,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "ڈیسْک ٹاپ نوٹیفیکیشن ہأیو&amp;">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "پیٹھ سْروس چھ اینیبْل کرنْہ آمژْ۔ توہیہ ہیکیو سْروس باپت پننِہ سیٹینگ تبدیل کْرتھ  <label class='text-link'>Add-on Manager</label>منز۔ <label/>">
-<!ENTITY social.activated.undo.label "اوپْس، یِہ کْریو انڈو!">
-<!ENTITY social.activated.undo.accesskey "ا">
 <!ENTITY social.learnMore.label "مزید ہیچھِو">
 <!ENTITY social.learnMore.accesskey "م">
-<!ENTITY social.closeNotificationItem.label "تئ وئنك۪ین نئ">
 
 <!ENTITY social.directory.label "ایکٹیویشن ڈاریکٹری">
 <!ENTITY social.directory.text "توہیہ ہیکیو ایکٹیویٹ کْرتھ شییر سْروس ڈاریکٹری پیٹھ۔">

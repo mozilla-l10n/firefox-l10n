@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  " اپڈیٹسن ہندئ خٲطرئ  وچھان">
 <!ENTITY  updateCheck.label               "&amp; برینڈ لكُٹ ناو; چھُ وچھان اپڈیٹس خٲطرئ ...">
 
-<!ENTITY  pluginupdatesfound.title        "پلگ اِنسن خٲطرئ آی اپڈیٹس اَتھ۪ی">
-<!ENTITY  pluginupdatesfound.label        "نئو ورجن آی تُہند۪ی اك۪ی یا زیادئ پلگ اِنسن خٲطرئ اَتھ۪ی">
-<!ENTITY  pluginupdateslink.label         "وچھیو پن۪ین پلگ اِنس كِتھ كئن چھَ اپگریڈ كر۪ین">
-
 <!ENTITY  noupdatesfound.title            "كہین  اپڈیٹ آینئ اتھ۪ی ">
 <!ENTITY  noupdatesautoenabled.intro      "کانہہ اپڈیٹ چُھ نْہ دستیاب۔&amp; برانڈ شاٹ ناو؛ کرِ چکپیرڈ پأٹھ اپڈیٹ۔">
 <!ENTITY  noupdatesautodisabled.intro     "کانہہ اپڈیٹ چُھ نْہ دستیاب۔ مہربأنی کْرتھ کْریو پتْہ چک دوبار یا کْریو اینیبْلبرانڈ شاٹ ناوْچ ؛ آٹو میٹِک اپڈیٹ چکینگ۔&amp;">

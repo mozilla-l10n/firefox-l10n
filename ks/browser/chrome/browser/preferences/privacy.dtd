@@ -41,8 +41,7 @@
 <!ENTITY  acceptCookies.label           "سیاٹئ پ۪یٹھئ كریو كوكیز منظور">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "قبول کْریو تھأرڈ پارٹی کوکی:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+
 <!ENTITY  acceptThirdParty.always.label   "ہمیشہ">
 <!ENTITY  acceptThirdParty.never.label    "زانہہ نْہ">
 <!ENTITY  acceptThirdParty.visited.label  "سْیر کرنْہ آمتِہ پیٹھ">
@@ -99,3 +98,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "سیٹینگس...">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
+

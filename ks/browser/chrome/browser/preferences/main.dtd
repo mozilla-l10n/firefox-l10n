@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label "می۪ی پر۪یژھیو ہمیشئ فایل كَت۪یتھ چھَ محفوظ تھاوِن">
 <!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY alwaysCheckDefault2.label        "ہمیشہ کْریو چک ذِ برانڈ شاٹ ناو؛ چُھ تُہند ڈیفالٹْہ براوزر">
-<!ENTITY alwaysCheckDefault2.accesskey    "ب">
+
 <!ENTITY setAsMyDefaultBrowser2.label     "ڈیفالٹْہ بنأیو &amp;">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "برینڈ لكُٹ ناو چھُ حالس تُہند ڈیفالٹ براوزر">
