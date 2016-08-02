@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label "Jɨkano nɨne jóneyena">
 <!ENTITY alwaysAsk.accesskey "n">
 
-<!ENTITY alwaysCheckDefault2.label        "Ñúe éroiri &brandShortName; ó makara ja beno íte">
-<!ENTITY alwaysCheckDefault2.accesskey    "Ñ">
+
 <!ENTITY setAsMyDefaultBrowser2.label     "Fɨ́no dɨno íyena">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "d">
 <!ENTITY isDefault.label                  "&brandShortName; ó makara ja beno íte">

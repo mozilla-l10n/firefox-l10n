@@ -45,6 +45,12 @@ can reach it easily. -->
 
 
 
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
@@ -96,6 +102,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY fullScreenClose.tooltip "Ɨ́baide">
 
 
@@ -114,6 +121,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
+
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
 
 
 
@@ -639,7 +655,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "Ú">
 
 <!ENTITY editBookmark.done.label                     "Fúitade">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "Ñúe nitáde">
 <!ENTITY identity.connectionNotSecure "Ñúe nitánoñede">
@@ -723,11 +739,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
 <!ENTITY social.learnMore.label "Aiyo onóde...">
 <!ENTITY social.learnMore.accesskey "o">
-<!ENTITY social.closeNotificationItem.label "Ena fúi">
 
 
 <!ENTITY social.directory.button "¡Dɨne kúe úi!">

@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Yɨno cookies">
 <!ENTITY  acceptCookies.accesskey       "Y">
 
-<!ENTITY  acceptThirdParty.pre.label      "Yɨno cookies jɨaɨmakɨ íe:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "j">
+
 <!ENTITY  acceptThirdParty.always.label   "Íide">
 <!ENTITY  acceptThirdParty.never.label    "Jáka">
 <!ENTITY  acceptThirdParty.visited.label  "Éroika">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Abɨdo  fɨnoka...">
 <!ENTITY  clearOnCloseSettings.accesskey "A">
+
+
+
+
