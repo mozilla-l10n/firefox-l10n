@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "बेनि सोलायै गोदान उइन्ड'सखौ गोदान टेबाव खेव (t)">
-<!ENTITY newWindowsAsTabs.accesskey   "t">
+
+
 
 <!ENTITY warnCloseMultipleTabs.label  "गोबां टेबखौ बन्द खालामनाय समाव आंखौ सांग्रां खालामना हो (m)">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">

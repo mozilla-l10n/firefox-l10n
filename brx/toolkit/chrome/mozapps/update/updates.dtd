@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "आपडेटफोरखौ आनजाद खालाम गासिनो दङ">
 <!ENTITY  updateCheck.label               "&brandShortName; नि गोदानथार लिरस्लायनायखौ नागिरगासिनो दं...">
 
-<!ENTITY  pluginupdatesfound.title        "प्लागिनफोरनि थाखाय आपडेटफोरखौ मोनबाय">
-<!ENTITY  pluginupdatesfound.label        "नोंथांनि मोनसे एबा गोबां प्लागिननि गोदानथार लिरस्लायनायखौ मोनबाय।">
-<!ENTITY  pluginupdateslink.label         "नोंथांनि प्लागिनखौ माबोरै आपग्रेड खालामनांगौ नाइ">
-
 <!ENTITY  noupdatesfound.title            "जेबो आपडेट मोनाखै">
 <!ENTITY  noupdatesautoenabled.intro      "आपडेटआ मोननो हाथाव नङा। &brandShortName; आआपडेटनि थाखाय सम सम आनजाद खालामगोन।">
 <!ENTITY  noupdatesautodisabled.intro     "आपडेटआ मोननो हाथाव नङा। अननानै उनाव आनजाद खालाम आरो &brandShortName;नि गावनोगाव आपडेट आनजादखौ हाहोनाय खालाम।">

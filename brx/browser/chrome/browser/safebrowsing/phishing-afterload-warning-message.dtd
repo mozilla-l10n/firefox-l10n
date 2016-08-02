@@ -13,7 +13,6 @@
   be used for them. -->
 
 
-
 <!ENTITY safeb.blocked.malwarePage.title "रिपर्ट होनाय गाग्लोबनाय बिलाइ!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> आव थानाय बे वेब बिलाइखौ मोनसे गाग्लोबनाय बिलाइ महरै रिपर्ट खालामबाय आरो नोंथांनि रैखाथि पसन्दआव सोनारनानै ब्लक खालामबाय।">
@@ -24,6 +23,4 @@
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
-
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

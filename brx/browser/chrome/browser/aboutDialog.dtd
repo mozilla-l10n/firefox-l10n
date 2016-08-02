@@ -64,6 +64,7 @@
 <!ENTITY update.adminDisabled       "आपडेटफोरखौ नोंथांनि सिस्टेम खुंगिरिजों लोरबां खालामनाय जाबाय">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; आ गुबुन मोनसे बिदिन्थिजों आपडेट खालामजागासिनो दं।">
+
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download

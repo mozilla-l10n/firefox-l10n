@@ -41,8 +41,7 @@
 <!ENTITY  acceptCookies.label           "साइट निफ्राय कुकिफोरखौ आजाव (A)">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "थामथि-हानजा कुकिखौ आजाव:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+
 <!ENTITY  acceptThirdParty.always.label   "अरायबो">
 <!ENTITY  acceptThirdParty.never.label    "माब्लाबाबो नङा">
 <!ENTITY  acceptThirdParty.visited.label  "थांखानाय निफ्राय">
@@ -99,3 +98,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "सेटिं....  (t)">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
+

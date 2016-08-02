@@ -35,10 +35,6 @@
 <!ENTITY warning.updatesecurity.label              "Add-on आपडेटखौ आनजाद खालामनायखौ लोरबां खालामनाय जायो। नोंथाङा आपडेटजों गोरोबना दं जानो हागौ।">
 <!ENTITY warning.updatesecurity.enable.label       "हाहोनाय खालाम">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Add-on आपडेट रैखाथि आनजाद आनजाद खालामनायखौ हाहोनाय खालाम">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "नोंथांनि प्लागिना गोदान नामा नाइनो आनजाद खालाम">
-<!ENTITY info.plugincheck.tooltip               "नोंथांनि प्लागिना गोदान नामा नाइनो आनजाद खालाम">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Add-ons खौ मोन">
 <!ENTITY view.recentUpdates.label             "दानि आपडेट">

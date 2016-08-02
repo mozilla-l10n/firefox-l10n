@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "टेबखौ आनपिन खालाम (b)">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "गोदान उइन्ड'याव थां (W)">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "गासै टेबखौ बुकमार्क खालाम (T)">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "गासै टेबखौ दिन्थि (A)">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; आव साइन-इन खालाम">
 
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; जों फिन फोनांजाब खालाम">
@@ -134,6 +141,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "आबुं स्क्रिन निफ्राय ओंखार लां">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "उइन्ड'खौ बन्द खालाम(d)">
 <!ENTITY closeWindow.accesskey "d">
@@ -737,12 +753,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "डेस्कटप मिथिसारहोनायखौ दिन्थि">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "<label/> निफ्राय सिबिथायखौ हाहोनाय खालामबाय। नोंथाङा सिबिथायनि थाखाय नोंथांनि सेटिंखौ <label class='text-link'>Add-on मेनेजार</label> आव सोलायनो हायो।">
-<!ENTITY social.activated.undo.label "हाय, बेखौ सिगांनि अबस्थायाव लाबोफिन!">
-<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "गोबां सोलों...">
 <!ENTITY social.learnMore.accesskey "L">
-<!ENTITY social.closeNotificationItem.label "दानो नङा">
 
 <!ENTITY social.directory.label "मावथि डिरेक्टरि">
 <!ENTITY social.directory.text "नोंथाङा शेयार सिबिथायखौ डिरेक्टरि निफ्राय मावथि खालामनो हायो।">

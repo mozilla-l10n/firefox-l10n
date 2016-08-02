@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label "बबेयाव सेब खालामनांगौ बेखौ जेब्लाबो आंनाव सों">
 <!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY alwaysCheckDefault2.label        "&brandShortName; आ नोंथांनि डिफल्ट ब्राउजार नामा अरायबो आनजाद खालाम">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+
 <!ENTITY setAsMyDefaultBrowser2.label     "डिफल्ट बानाय">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; आ दासान्दि नोंथांनि डिफल्ट ब्राउजार">
