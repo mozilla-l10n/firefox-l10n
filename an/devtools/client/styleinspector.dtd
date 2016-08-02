@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "No s'ha trobau garra propiedat CSS.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "Calculada">
-<!ENTITY ruleViewTitle         "Regles">

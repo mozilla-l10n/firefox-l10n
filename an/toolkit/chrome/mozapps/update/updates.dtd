@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Comprebación d'actualizacions">
 <!ENTITY  updateCheck.label               "Se son mirando versions mas nuevas de &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "S'han trobau actualizacions d'os suyos plugins">
-<!ENTITY  pluginupdatesfound.label        "S'han trobau nuevas versions d'un u mas d'os suyos plugins.">
-<!ENTITY  pluginupdateslink.label         "Veiga cómo actualizar os suyos plugins.">
-
 <!ENTITY  noupdatesfound.title            "No s'ha trobau garra actualización">
 <!ENTITY  noupdatesautoenabled.intro      "No i hai garra actualización disponible. &brandShortName; comprebará periodicament si i hai nuevas actualizacions.">
 <!ENTITY  noupdatesautodisabled.intro     "No i hai garra actualización disponible. Torna-lo a prebar mas entabant u activa a comprebación d'actualizacions automatica de &brandShortName;.">

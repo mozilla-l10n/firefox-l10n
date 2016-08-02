@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "A comprebación de seguranza d'os complementos ye desactivada. As actualizacions podrían meter-le en risque.">
 <!ENTITY warning.updatesecurity.enable.label       "Activar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activar a comprebación de seguranza d'os complementos">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Prete aquí ta veyer si os suyos plugins son actualizaus">
-<!ENTITY info.plugincheck.tooltip               "Prete aquí ta veyer si os suyos plugins son actualizaus">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Mirar">
