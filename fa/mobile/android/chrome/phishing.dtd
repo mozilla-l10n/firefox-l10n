@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "ترک این مکان!">
 <!ENTITY safeb.palm.decline.label "این هشدار نادیده گرفته شود">
-
+<!ENTITY safeb.palm.reportPage.label "چرا این صفحه مسدود شده بود؟">
 
 <!ENTITY safeb.blocked.malwarePage.title "صفحهٔ تهاجمی شناخته شده!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

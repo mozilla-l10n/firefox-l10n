@@ -283,6 +283,8 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY pref_activity_stream "جریان فعالیت‌ها">
+
 
 <!ENTITY tracking_protection_prompt_title "هم‌اکنون با قابلیت محافظت در برابر ردگیری">
 <!ENTITY tracking_protection_prompt_text "عناصر ردیابی به طور فعال مسدود می‌شود بنابراین جایی برای نگرانی وجود ندارد.">
@@ -396,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "زبانه‌های همگام‌سازی شده">
 
 <!ENTITY pref_default_browser "ایجاد مرورگر پیش فرض">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "بازدید از پشتیبانی موزیلا">
 <!ENTITY pref_about_firefox "درباره &brandShortName;">
 <!ENTITY pref_vendor_faqs "پرسش‌های متداول">
 <!ENTITY pref_vendor_feedback "دادن بازخورد">
@@ -585,11 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "پاک کردن تاریخچه مرور">
 <!ENTITY home_clear_history_confirm "آیا مطمئن هستید می‌خواهید تاریخچه مرور خود را پاک کنید؟">
 <!ENTITY home_bookmarks_empty "نشانک‌هایی که ذخیره می‌کنید، در اینجا نمایش داده می‌شوند.">
-
+<!ENTITY home_closed_tabs_title2 "زبانه‌های اخیر بسته شده">
 <!ENTITY home_last_tabs_empty "زبانه‌های اخیر شما در اینجا نمایش داده می‌شوند.">
-
-
+<!ENTITY home_restore_all "بازآوری همه">
+<!ENTITY home_closed_tabs_number "&formatD; زبانه">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "۱ زبانه">
 <!ENTITY home_most_recent_empty "وبسایت‌هایی را که اخیرا بیشتر بازدید کرده‌اید در اینجا نمایش داده می‌شوند.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
