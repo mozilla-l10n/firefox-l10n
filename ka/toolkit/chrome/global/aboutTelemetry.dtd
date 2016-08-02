@@ -94,6 +94,10 @@
   ნაკადის გაშეშებები
 ">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  სკალარები
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   ჰისტოგრამები
 ">

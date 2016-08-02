@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "მ">
 <!ENTITY  unpinTab.label                     "ჩანართის მოხსნა">
 <!ENTITY  unpinTab.accesskey                 "ხ">
+<!ENTITY  sendTabToDevice.label              "ჩანართის გაგზავნა მოწყობილობაზე">
+<!ENTITY  sendTabToDevice.accesskey          "მ">
+<!ENTITY  sendPageToDevice.label             "გვერდის გაგზავნა მოწყობილობაზე">
+<!ENTITY  sendPageToDevice.accesskey         "მ">
+<!ENTITY  sendLinkToDevice.label             "ბმულის გაგზავნა მოწყობილობაზე">
+<!ENTITY  sendLinkToDevice.accesskey         "მ">
 <!ENTITY  moveToNewWindow.label              "ახალ ფანჯარაში გადატანა">
 <!ENTITY  moveToNewWindow.accesskey          "ფ">
 <!ENTITY  bookmarkAllTabs.label              "ყველა ჩანართის ჩანიშვნა…">

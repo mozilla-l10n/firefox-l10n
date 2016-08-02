@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab ჩანართებში ციკლურად მოძრაობს ბოლოს გამოყენების მიხედვით">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "ც">
+
 <!ENTITY newWindowsAsTabs.label       "ახალი ფანჯრების ახალ ჩანართად გახსნა">
 <!ENTITY newWindowsAsTabs.accesskey   "ჩ">
 
