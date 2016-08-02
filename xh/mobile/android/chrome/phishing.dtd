@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Ndikhuphe apha!">
 <!ENTITY safeb.palm.decline.label "Sukusihoya esi silumkiso">
-<!ENTITY safeb.palm.reportPage.label "Kwakutheni ukuze liblokwe eli phepha?">
-<!ENTITY safeb.palm.whyForbidden.label "Kwakutheni ukuze liblokwe eli phepha?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Iphepha lohlaselo elichaziweyo!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Eli phepha lewebhu kwi-<span id='unwanted_sitename'/> lichazwe ukuba liqulethe i-software engafunekiyo kwaye lithintelwe ngokusekelwe kwiipriferensi zakho zokhuseleko.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Amaphepha e-software angafuneki azama ukufakela i-software enganako ukuqhatha kwaye achaphazele isistim yakho ngeendlela ezingalindelekanga.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Isayithi Eblokiweyo">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Iphepha leWebhu kwi <span id='forbidden_sitename'/> liblokwe yiprofayili yakho yolawulo.">
