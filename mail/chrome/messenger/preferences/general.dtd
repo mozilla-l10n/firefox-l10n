@@ -19,6 +19,7 @@
 <!ENTITY playSound1.accesskey              "d">
 <!ENTITY showAnimatedAlert.label "Vis en pop op-meddelelse">
 <!ENTITY showAnimatedAlert.accesskey "p">
+<!ENTITY notificationAlertSettings.label  "Meddelelser kan deaktiveres på meddelelsessiden i systemindstillingerne.">
 <!ENTITY customizeMailAlert.label         "Tilpas…">
 <!ENTITY customizeMailAlert.accesskey     "T">
 
