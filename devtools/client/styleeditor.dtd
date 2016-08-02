@@ -46,7 +46,7 @@
      in each stylesheet editor sidebar. -->
 <!ENTITY mediaRules.label           "Правила @media">
 
-<!ENTITY editorTextbox.placeholder  "Тук въведете CSS.">
+<!ENTITY editorTextbox.placeholder  "Въведете CSS.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
