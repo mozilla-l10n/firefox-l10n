@@ -18,6 +18,6 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "¡Sitio sospechoso de software indeseable!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Este sitio en <span id='unwanted_sitename'/> ha sido reportado por contener software no deseado y ha sido bloqueado en base a tus preferencias de seguridad.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "El sitio en <span id='unwanted_sitename'/> ha sido reportado por contener software no deseado y ha sido bloqueado en base a tus preferencias de seguridad.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Las páginas de software no deseado intentan instalar software que puede ser engañoso y afectar su sistema de formas inesperadas.">
 
