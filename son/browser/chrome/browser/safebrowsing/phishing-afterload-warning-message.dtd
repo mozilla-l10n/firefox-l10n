@@ -13,8 +13,7 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
-<!ENTITY safeb.palm.reportPage.label "Macin se moɲoo woo gagayandi?">
-<!ENTITY safeb.palm.whyForbidden.label "Macin se moɲoo woo gagayandi?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Hawgay, darga moo!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -30,8 +29,4 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Interneti moɲoo woo <span id='phishing_sitename'/> ga ga bayrandi ka tee darga moo nda a gagayndi war saajaw ibaayey bande.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Darga nungey n' ka tee ka war darga ka mise laala tee, sanda ka porogaram sinji wala ka war boŋ gundu alhabar bangandi, sanda šennikufal, talfon lanba wala garaw katta.</p><p>Nda war n'alhabar tana dam interneti moɲoo woo ga boro tana ga hin ka war tammaasawey zay wal'a ma war zanba.</p>">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Nungu gagayante">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Interneti moɲoo ne <span id='forbidden_sitename'/> ga, war juwalkaw alhaalo k'a gagay.">
 

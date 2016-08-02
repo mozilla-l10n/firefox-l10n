@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Dogey aleewawey taa">
 <!ENTITY  acceptCookies.accesskey       "t">
 
-<!ENTITY  acceptThirdParty.pre.label      "Aleewa waaney taa:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "t">
+
 <!ENTITY  acceptThirdParty.always.label   "Waati kul">
 <!ENTITY  acceptThirdParty.never.label    "Abada">
 <!ENTITY  acceptThirdParty.visited.label  "Kaŋ gunandi">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Kayandiyaney…">
 <!ENTITY  clearOnCloseSettings.accesskey "n">
+
+
+
+

@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Taagandirey guna">
 <!ENTITY  updateCheck.label               "Goo ma dumi taagayaŋ guna &brandShortName; še…">
 
-<!ENTITY  pluginupdatesfound.title        "Duu taagandiriyaŋ sukarey še">
-<!ENTITY  pluginupdatesfound.label        "Dumi taagayaŋ duwandi sukari foo wala ibooboyaŋ še.">
-<!ENTITY  pluginupdateslink.label         "Dii taka kaŋ nda sukarey ga taagandi.">
-
 <!ENTITY  noupdatesfound.title            "Taagandiri kul mana duwandi">
 <!ENTITY  noupdatesautoenabled.intro      "Taagandiriyaŋ kul ši bara. &brandShortName; ga guna waati foo-foo wala taagandiryaŋ ga bangay">
 <!ENTITY  noupdatesautodisabled.intro     "Taagandiriyaŋ kul ši bara. Taare wa guna koyne waati foo, wala war ma &brandShortName; boŋ-taagandi korošiyan tunandi.">
