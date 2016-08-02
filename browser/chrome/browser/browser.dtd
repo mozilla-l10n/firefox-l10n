@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "G">
 <!ENTITY  unpinTab.label                     "Gokolola Thebe">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Sutisetsa ko Window e Ntšha">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Tshwaatsebe Tsotlhe Dithebe...">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Supa Dithebe tsotlhe">
 <!ENTITY showAllTabsCmd.accesskey "D">
 
+
 <!ENTITY fxaSignIn.label "Tsena tirong mo &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Bula &syncBrand.shortName.label; dikgethwa">
 <!ENTITY fxaSignInError.label "Golaganya-gape le &syncBrand.shortName.label;">
@@ -131,10 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY exitDOMFullscreen.button "Tswaya mo sekerini se se tletseng (Tswaya)">
 <!ENTITY exitDOMFullscreenMac.button "Tswaya mo sekerini se se tletseng (tswaya)">
 <!ENTITY leaveDOMFullScreen.label "Tswaya mo Sekerini se se tletseng">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Tswala Window">
 <!ENTITY closeWindow.accesskey "d">
@@ -672,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "T">
 
 <!ENTITY editBookmark.done.label                     "Feditse">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "Kgolagano e Sireletsegileng">
 <!ENTITY identity.connectionNotSecure "Kgolagano e ga e a Sireletsega">
@@ -761,12 +778,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Supa Dikitsiso tsa Teseketopo">
 <!ENTITY social.toggleNotifications.accesskey "D">
 
-<!ENTITY social.activated.description "Ditirelo go tsweng <label/> di kgontshitswe. O ka fetola dithulaganyo tsa ditirelo mo <label class='text-link'>Seoketswa sa Motsamaise</label>.">
-<!ENTITY social.activated.undo.label "Oops, dirolola se!">
-<!ENTITY social.activated.undo.accesskey "d">
 <!ENTITY social.learnMore.label "Ithute mo go tseneletseng...">
 <!ENTITY social.learnMore.accesskey "I">
-<!ENTITY social.closeNotificationItem.label "Eseng Jaanong">
 
 <!ENTITY social.directory.label "Lenaneofaele la Ditiriso">
 <!ENTITY social.directory.text "O ka dirisa Kabo ya ditirelo go tswa mo lenaneofaele.">
