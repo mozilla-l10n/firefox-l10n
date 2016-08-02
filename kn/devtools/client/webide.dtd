@@ -138,7 +138,7 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "ಮುಚ್ಚುವ ಆವರಣ ಚಿಹ್ನೆಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸೇರಿಸು">
 <!ENTITY prefs_options_keybindings "ಕೀಲಿಬೈಂಡಿಂಗ್‌ಗಳು">
 <!ENTITY prefs_options_keybindings_default "ಪೂರ್ವನಿಯೋಜಿತ">
-
+<!ENTITY prefs_options_autosavefiles "‍ಕಡತಗಳನ್ನು ಸ್ವಯಂ ಉಳಿಸು">
 
 <!-- Permissions Table -->
 
