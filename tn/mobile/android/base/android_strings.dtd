@@ -32,7 +32,7 @@
      They are automatically converted to all caps by the Android platform. -->
 
 
-
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 
 
@@ -214,6 +214,14 @@
 
 
 
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 
 
@@ -301,6 +309,7 @@ size. -->
 
 
 <!ENTITY pref_private_data_cache "Khetšhe">
+
 
 
 
@@ -458,6 +467,7 @@ size. -->
 
 
 
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -493,7 +503,6 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
 
 
 <!-- Mixed content notifications in site identity popup -->
