@@ -32,7 +32,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "ไม่พบคุณสมบัติ CSS">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "คำนวณ">
-<!ENTITY ruleViewTitle         "กฎ">

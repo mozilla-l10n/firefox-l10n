@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "ยอมรับคุกกี้จากไซต์">
 <!ENTITY  acceptCookies.accesskey       "ย">
 
-<!ENTITY  acceptThirdParty.pre.label      "ยอมรับคุกกี้จากบุคคลที่สาม:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "อ">
+
 <!ENTITY  acceptThirdParty.always.label   "เสมอ">
 <!ENTITY  acceptThirdParty.never.label    "ไม่เลย">
 <!ENTITY  acceptThirdParty.visited.label  "จากที่เยี่ยม">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "การตั้งค่า…">
 <!ENTITY  clearOnCloseSettings.accesskey "ต">
+
+
+
+

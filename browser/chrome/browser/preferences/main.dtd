@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label "ถามฉันเสมอว่าจะบันทึกไฟล์ที่ไหน">
 <!ENTITY alwaysAsk.accesskey "ถ">
 
-<!ENTITY alwaysCheckDefault2.label        "ตรวจสอบเสมอว่า &brandShortName; เป็นเบราว์เซอร์ปริยายของคุณหรือไม่">
-<!ENTITY alwaysCheckDefault2.accesskey    "ร">
+
 <!ENTITY setAsMyDefaultBrowser2.label     "ทำให้เป็นค่าปริยาย">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "ค">
 <!ENTITY isDefault.label                  "&brandShortName; เป็นเบราว์เซอร์ปริยายของคุณในขณะนี้">
