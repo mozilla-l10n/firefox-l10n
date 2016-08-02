@@ -78,6 +78,8 @@
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 
+<!ENTITY debuggerUI.showOnlyEnum           "اعرض الخصائص التعدادية فقط">
+
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
@@ -155,19 +157,27 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "العاملون">
 <!ENTITY debuggerUI.tabs.sources        "المصادر">
 
 <!ENTITY debuggerUI.tabs.callstack      "مكدس الاستدعاء">
 <!ENTITY debuggerUI.tabs.variables      "المتغيّرات">
-
+<!ENTITY debuggerUI.tabs.events         "الأحداث">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
+
+<!ENTITY debuggerUI.seMenuAddWatch      "التحديد إلى تعبير مراقبة">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
 
+<!ENTITY debuggerUI.addWatch            "أضف تعبير مراقبة">
+
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
+
+<!ENTITY debuggerUI.removeAllWatch           "أزل كل تعبيرات المراقبة">
 
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that

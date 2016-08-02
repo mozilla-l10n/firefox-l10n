@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "التحقق من أمن التحديثات قد عُطّل. قد تشكل التهديدات عليك خطرًا.">
 <!ENTITY warning.updatesecurity.enable.label       "فعّل">
 <!ENTITY warning.updatesecurity.enable.tooltip     "فعّل التحقق من أمن تحديثات الإضافات">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "التمس لتعرف إذا كانت ملحقاتك محدّثة">
-<!ENTITY info.plugincheck.tooltip               "التمس لتعرف إذا كانت ملحقاتك محدّثة">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "ابحث">

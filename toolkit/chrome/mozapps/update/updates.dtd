@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "يجري التماس التحديثات">
 <!ENTITY  updateCheck.label               "يجري البحث عن إصدارات أحدث من &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "عُثر على تحديثات للملحقات">
-<!ENTITY  pluginupdatesfound.label        "عُثر على إصدارات أحدث لواحدة أو أكثر من ملحقاتك.">
-<!ENTITY  pluginupdateslink.label         "انقر لترى كيف ترقّي ملحقاتك.">
-
 <!ENTITY  noupdatesfound.title            "لم يُعثر على تحديثات">
 <!ENTITY  noupdatesautoenabled.intro      "لا تحديثات جديدة. سوف يلتمس &brandShortName; التحديثات بشكل دوري.">
 <!ENTITY  noupdatesautodisabled.intro     "لا توجد تحديثات متاحة. رجاءً تحقق ثانيةً في وقت لاحق أو فعّل التماس &brandShortName; للتحديث التلقائي.">

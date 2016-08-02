@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "ث">
 <!ENTITY  unpinTab.label                     "أفلِت اللسان">
 <!ENTITY  unpinTab.accesskey                 "ف">
+<!ENTITY  sendTabToDevice.label              "أرسِل اللسان إلى جهاز">
+<!ENTITY  sendTabToDevice.accesskey          "ه">
+<!ENTITY  sendPageToDevice.label             "أرسِل الصفحة إلى جهاز">
+<!ENTITY  sendPageToDevice.accesskey         "ه">
+<!ENTITY  sendLinkToDevice.label             "أرسل الرابط إلى جهاز">
+<!ENTITY  sendLinkToDevice.accesskey         "ه">
 <!ENTITY  moveToNewWindow.label              "انقل إلى نافذة جديدة">
 <!ENTITY  moveToNewWindow.accesskey          "ذ">
 <!ENTITY  bookmarkAllTabs.label              "علّم كل الألسنة…">
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "أظهِر كل الألسنة">
 <!ENTITY showAllTabsCmd.accesskey "ك">
+<!ENTITY toggleReaderMode.key "ق">
 
 <!ENTITY fxaSignIn.label "لِج إلى &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "افتح تفضيلات &syncBrand.shortName.label;">
@@ -131,10 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY exitDOMFullscreen.button "غادر ملء الشاشة (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "غادر ملء الشاشة (esc)">
 <!ENTITY leaveDOMFullScreen.label "غادر ملء الشاشة">
 <!ENTITY leaveDOMFullScreen.accesskey "م">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "يتحكم ">
+<!ENTITY pointerlockWarning.afterDomain.label "في مؤشرك. اضغط Esc لتستعيد التحكم.">
+<!ENTITY pointerlockWarning.generic.label "يتحكم هذا المستند في مؤشرك. اضغط Esc لتستعيد التحكم.">
 
 <!ENTITY closeWindow.label "أغلق النافذة">
 <!ENTITY closeWindow.accesskey "ن">
@@ -772,12 +789,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "أظهر تنبيهات سطح المكتب">
 <!ENTITY social.toggleNotifications.accesskey "ت">
 
-<!ENTITY social.activated.description "فُعّلت خدمات من <label/>. يمكنك تغيير إعداداتك للخدمات من <label class='text-link'>مدير الإضافات</label>.">
-<!ENTITY social.activated.undo.label "تراجع عن هذا!">
-<!ENTITY social.activated.undo.accesskey "ت">
 <!ENTITY social.learnMore.label "اطّلع على المزيد…">
 <!ENTITY social.learnMore.accesskey "ط">
-<!ENTITY social.closeNotificationItem.label "ليس الآن">
 
 <!ENTITY social.directory.label "دليل التفعيل">
 <!ENTITY social.directory.text "يمكنك تفعيل خدمات المشاركة من هذا الدليل.">

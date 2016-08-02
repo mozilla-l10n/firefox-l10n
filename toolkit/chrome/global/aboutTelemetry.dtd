@@ -7,6 +7,7 @@
 <!ENTITY aboutTelemetry.changeDataChoices "  غيّر">
 
 
+<!ENTITY aboutTelemetry.uploadDisabled "  رفع بيانات FHR <span>معطّل</span>.">
 
 
 
@@ -35,6 +36,7 @@
 <!ENTITY aboutTelemetry.chromeHangsSection "  تعليقات المتصفح">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  تعليقات الخيوط">
+
 
 <!ENTITY aboutTelemetry.histogramsSection "  رسوم بيانية">
 
