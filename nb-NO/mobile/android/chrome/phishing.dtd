@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Få meg bort herfra!">
 <!ENTITY safeb.palm.decline.label "Ignorer denne advarselen">
-<!ENTITY safeb.palm.reportPage.label "Hvorfor ble dette nettstedet blokkert?">
-<!ENTITY safeb.palm.whyForbidden.label "Hvorfor ble denne siden blokkert?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Rapportert som angrepsnettsted!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Denne nettsiden på <span id='unwanted_sitename'/> er rapportert som at den inneholder uønskede programmer, og er blokkert basert på sikkerhetsinnstillingene dine.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Uønskede program-sider forsøker å installere programmer som kan være misvisende og påvirke systemet ditt på uventede måter.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Blokkert nettsted">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Nettsiden på <span id='forbidden_sitename'/> ble blokkert av admin-profilen din.">
