@@ -44,9 +44,9 @@
 
 <!ENTITY  bookmarks_title "Semne de carte">
 <!ENTITY  history_title "Istoric">
-<!ENTITY  recent_tabs_title "File recente">
 
 <!ENTITY  switch_to_tab "Comută la filă">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "Raportor de defecțiuni &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; a întâlnit o problemă și s-a închis neașteptat. Filele ar trebui să fie listate pe pagina de start &brandShortName; după ce repornești browserul.">
@@ -106,10 +106,9 @@
 <!ENTITY edit_mode_cancel "Renunță">
 
 <!ENTITY close_tab "Închide fila">
-<!ENTITY one_tab "1 filă">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "file &formatD;">
 <!ENTITY new_tab_opened "Filă nouă deschisă">
 <!ENTITY new_private_tab_opened "Filă privată nouă deschisă">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -269,6 +268,14 @@
 
 <!ENTITY pref_whats_new_notification "Ce este nou în &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Află despre funcționalitățile noi după o actualizare">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "Acum cu protecție față de urmărire">
 <!ENTITY tracking_protection_prompt_text "Blochează în mod activ elementele care îți urmăresc navigarea astfel încât să nu-ți faci griji.">
@@ -382,6 +389,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Filele sincronizate">
 
 <!ENTITY pref_default_browser "Stabilește drept browser implicit">
+
 <!ENTITY pref_about_firefox "Despre &brandShortName;">
 <!ENTITY pref_vendor_faqs "Întrebări frecvente">
 <!ENTITY pref_vendor_feedback "Oferă feedback">
@@ -570,10 +578,11 @@ size. -->
 <!ENTITY home_clear_history_button "Șterge istoricul de navigare">
 <!ENTITY home_clear_history_confirm "Sigur dorești să ștergi istoricul?">
 <!ENTITY home_bookmarks_empty "Semnele de carte pe care le salvezi apar aici.">
-<!ENTITY home_closed_tabs_title "File închise recent">
-<!ENTITY home_last_tabs_title "Filele de ultima dată">
+
 <!ENTITY home_last_tabs_empty "Filele tale recente apar aici.">
-<!ENTITY home_open_all "Deschide toate">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Site-urile web pe care le-ai vizitat cel mai recent apar aici.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +634,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Conexiune securizată">
 <!ENTITY identity_connection_insecure "Conexiune nesecurizată">
-<!ENTITY identity_login_insecure "Această pagină nu este securizată și autentificarea ta poate fi vulnerabilă.">
 <!ENTITY identity_connection_chromeui "Aceasta este o pagină securizată &brandShortName;.">
 <!-- Mixed content notifications in site identity popup -->
 
