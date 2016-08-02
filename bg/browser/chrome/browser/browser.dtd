@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "ч">
 <!ENTITY  unpinTab.label                     "Премахване от леснодостъпните приложения">
 <!ENTITY  unpinTab.accesskey                 "П">
+<!ENTITY  sendTabToDevice.label              "Изпращане на раздела към устройство">
+<!ENTITY  sendTabToDevice.accesskey          "у">
+<!ENTITY  sendPageToDevice.label             "Изпращане на страницата към устройство">
+<!ENTITY  sendPageToDevice.accesskey         "у">
+<!ENTITY  sendLinkToDevice.label             "Изпращане на препратката към устройство">
+<!ENTITY  sendLinkToDevice.accesskey         "у">
 <!ENTITY  moveToNewWindow.label              "Преместване в нов прозорец">
 <!ENTITY  moveToNewWindow.accesskey          "н">
 <!ENTITY  bookmarkAllTabs.label              "Отмятане на всички раздели…">
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Показване на всички раздели">
 <!ENTITY showAllTabsCmd.accesskey "д">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Вписване в &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Отваряне настройките на &syncBrand.shortName.label;">
@@ -142,6 +149,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "контролира показалеца на мишката ви. Натиснете Esc, за да си възвърнете контрола.">
+<!ENTITY pointerlockWarning.generic.label "Този документ контролира показалеца на мишката ви. Натиснете Esc, за да си възвърнете контрола.">
 
 <!ENTITY closeWindow.label "Затваряне на прозореца">
 <!ENTITY closeWindow.accesskey "п">
