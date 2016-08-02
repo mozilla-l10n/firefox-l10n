@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ដោះ​​ខ្ទាស់​ផ្ទាំង">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "ផ្លាស់ទី​ទៅកាន់​បង្អួច​ថ្មី">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "ចំណាំ​ផ្ទាំង​​ទាំងអស់…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "បង្ហាញ​ផ្ទាំង​ទាំងអស់">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
 <!ENTITY fxaSignIn.label "ចូល​ទៅកាន់ &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "បើក​ចំណូលចិត្ត &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "តភ្ជាប់​ឡើង​វិញ​ទៅកាន់ &syncBrand.shortName.label;">
@@ -131,10 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY exitDOMFullscreen.button "បិទ​ពេញ​អេក្រង់ (គេច)">
 <!ENTITY exitDOMFullscreenMac.button "បិទ​ពេញ​អេក្រង់ (គេច)">
 <!ENTITY leaveDOMFullScreen.label "ចេញពីពេញ​អេក្រង់">
 <!ENTITY leaveDOMFullScreen.accesskey "ព">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "បិទបង្អួច">
 <!ENTITY closeWindow.accesskey "ប">
@@ -456,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ផ">
 <!ENTITY openFrameCmd.label           "បើក​ស៊ុម​ក្នុងបង្អួច​ថ្មី">
 <!ENTITY openFrameCmd.accesskey       "ប">
-<!ENTITY openLinkCmdInContainerTab.label "បើក​តំណ​នៅ​ក្នុង​ផ្ទាំង​ឧបករណ៍​ផ្ទុក​ថ្មី">
-<!ENTITY openLinkCmdInContainerTab.accesskey "C">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "បង្ហាញ​តែ​ស៊ុម​នេះ​ប៉ុណ្ណោះ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ប">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -676,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "ប">
 
 <!ENTITY editBookmark.done.label                     "ធ្វើ​រួច">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "ការ​តភ្ជាប់​ដែលមាន​សុវត្ថិភាព">
 <!ENTITY identity.connectionNotSecure "ការតភ្ជាប់​ពុំ​មាន​សុវត្ថិភាព">
@@ -772,12 +789,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "បង្ហាញការ​ជូន​ដំណឹង​លើ​ផ្ទៃតុ">
 <!ENTITY social.toggleNotifications.accesskey "ក">
 
-<!ENTITY social.activated.description "បាន​បើក​សេវាកម្ម​ពី <label/> ។ អ្នក​អាច​ប្ដូរ​ការ​កំណត់​របស់​អ្នក​សម្រាប់​សេវាកម្ម​ក្នុង <label class='text-link'>កម្មវិធី​គ្រប់គ្រង​ផ្នែក​បន្ថែម</label>។">
-<!ENTITY social.activated.undo.label "អូ! មិនធ្វើវិញ!">
-<!ENTITY social.activated.undo.accesskey "ម">
 <!ENTITY social.learnMore.label "ស្វែងយល់​បន្ថែម...">
 <!ENTITY social.learnMore.accesskey "ស">
-<!ENTITY social.closeNotificationItem.label "មិនមែន​ឥឡូវ">
 
 <!ENTITY social.directory.label "ថត​ការ​ធ្វើ​ឲ្យ​សកម្ម​នានា">
 <!ENTITY social.directory.text "អ្នក​អាច​ធ្វើ​ឲ្យ​សេវា​កម្ម​ចែករំលែក​សកម្ម​ពី​ថត។">
