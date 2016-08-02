@@ -7,6 +7,7 @@
 
 <!ENTITY importFromWin.label            "Importera inställningar, kontoinställningar, adressbok, filter och annan data från:">
 <!ENTITY importFromNonWin.label         "Importera inställningar, kontoinställningar, adressbok, filter och annan data från:">
+<!ENTITY importSourceNotFound.label     "Inget program för att importera data från hittades.">
 
 <!ENTITY importFromNothing.label        "Importera inte någonting">
 <!ENTITY importFromNothing.accesskey    "I">
@@ -16,8 +17,6 @@
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
-<!ENTITY importFromEudora.label         "Eudora">
-<!ENTITY importFromEudora.accesskey     "E">
 
 <!ENTITY importSource.title             "Importera inställningar och e-postmappar">
 <!ENTITY importItems.title              "Poster att importera">

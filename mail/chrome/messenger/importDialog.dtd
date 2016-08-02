@@ -38,6 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "V">
 <!ENTITY acctName.label           "Namn:">
 <!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "Inget program eller fil för att importera data från hittades.">
 
 <!ENTITY back.label               "&lt; Backa">
 <!ENTITY forward.label            "Nästa &gt;">
