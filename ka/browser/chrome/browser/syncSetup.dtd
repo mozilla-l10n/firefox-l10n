@@ -83,7 +83,7 @@
 <!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "დაასინქრონე">
-<!ENTITY engine.bookmarks.label     "სანიშნები">
+<!ENTITY engine.bookmarks.label     "სანიშნეები">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "ჩანართები">
 <!ENTITY engine.tabs.accesskey      "T">

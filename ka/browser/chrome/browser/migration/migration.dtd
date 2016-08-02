@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title          "შემოტანის ოსტატი">
 
-<!ENTITY importFrom.label               "შემოიტანეთ პარამეტრები, სანიშნები, ისტორია, პაროლები და სხვა მონაცემები ბრაუზერიდან:">
-<!ENTITY importFromUnix.label           "შემოიტანეთ პარამეტრები, სანიშნები, ისტორია, პაროლები და სხვა მონაცემები ბრაუზერიდან:">
+<!ENTITY importFrom.label               "შემოიტანეთ პარამეტრები, სანიშნეები, ისტორია, პაროლები და სხვა მონაცემები ბრაუზერიდან:">
+<!ENTITY importFromUnix.label           "შემოიტანეთ პარამეტრები, სანიშნეები, ისტორია, პაროლები და სხვა მონაცემები ბრაუზერიდან:">
 <!ENTITY importFromBookmarks.label      "სანიშნეთა შემოტანა:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
@@ -28,7 +28,7 @@
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "სანიშნების, ისტორიის ან პაროლის მონაცემთა შემცველი პროგრამები ვერ მოიძებნა.">
+<!ENTITY noMigrationSources.label       "სანიშნეების, ისტორიის ან პაროლის მონაცემთა შემცველი პროგრამები ვერ მოიძებნა.">
 
 <!ENTITY importSource.title             "პარამეტრებისა და მონაცემთა გადმოტანა">
 <!ENTITY importItems.title              "გადმოსატანი ელემენტები">
