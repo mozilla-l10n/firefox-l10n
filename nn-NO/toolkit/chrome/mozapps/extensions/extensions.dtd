@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Tryggingskontroll av utvidingsoppdateringar er slått av. Tryggleiken din kan bli sett i fare av oppdateringar.">
 <!ENTITY warning.updatesecurity.enable.label       "Slå på">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Slå på tryggingskontroll av utvidingsoppdateringar">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Kontroller om programtillegga dine er oppdaterte">
-<!ENTITY info.plugincheck.tooltip               "Kontroller om programtillegga dine er oppdaterte">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Søk">

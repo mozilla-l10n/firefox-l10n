@@ -10,6 +10,7 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Avslutt fullskjerm">
 <!ENTITY castingButton.castingLabel "Cast til skjerm">
 
+
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Dimensjon">
 <!ENTITY stats.activity "Aktivitet">
