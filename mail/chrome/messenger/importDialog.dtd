@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
@@ -38,6 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "V">
 <!ENTITY acctName.label           "Nom :">
 <!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "Aucune application ni aucun fichier à partir duquel ou de laquelle importer des données n’a été trouvé.">
 
 <!ENTITY back.label               "&lt; Précédent">
 <!ENTITY forward.label            "Suivant &gt;">
