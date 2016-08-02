@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "আপডেইটৰ বাবে পৰীক্ষা কৰা হৈছে">
 <!ENTITY  updateCheck.label               "&brandShortName; ৰ নতুন সংস্কৰণৰ কাৰণে বিচৰা হৈছে…">
 
-<!ENTITY  pluginupdatesfound.title        "প্লাগিনসমূহৰ কাৰণে আপডেইট পোৱা গৈছে">
-<!ENTITY  pluginupdatesfound.label        "আপোনাৰ এটা বা অধিক প্লাগিনৰ নতুন সংস্কৰণ পোৱা গৈছে।">
-<!ENTITY  pluginupdateslink.label         "আপোনাৰ প্লাগিনসমূহ কেনেকে উন্নত কৰিব লাগে চাওক।">
-
 <!ENTITY  noupdatesfound.title            "কোনো আপডেইট পোৱা নগল">
 <!ENTITY  noupdatesautoenabled.intro      "কোনো আপডেইট নাই। &brandShortName; এ সময়ে সময়ে আপডেইটৰ কাৰণে পৰীক্ষা কৰিব।">
 <!ENTITY  noupdatesautodisabled.intro     "কোনো আপডেইট নাই। পিছত আকৌ পৰীক্ষা কৰক বা &brandShortName; ৰ স্বয়ংক্ৰিয় আপডেইট পৰীক্ষা সক্ৰিয় কৰক।">
