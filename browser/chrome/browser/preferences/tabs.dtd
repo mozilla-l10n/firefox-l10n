@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "Buka tingkap dalam tab baru">
-<!ENTITY newWindowsAsTabs.accesskey   "t">
+
+
 
 <!ENTITY warnCloseMultipleTabs.label  "Ingatkan saya apabila menutup beberapa tab">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">

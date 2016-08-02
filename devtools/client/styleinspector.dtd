@@ -30,7 +30,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "Tiada CSS penyifatan dijumpai.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "Dikomputerasikan">
-<!ENTITY ruleViewTitle         "Peraturan">

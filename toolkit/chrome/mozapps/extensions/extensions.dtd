@@ -35,10 +35,6 @@
 <!ENTITY warning.updatesecurity.label              "Pemeriksaan keselamatan add-on telah dimatikan. Anda mungkin dikompromi ketika mengemaskini.">
 <!ENTITY warning.updatesecurity.enable.label       "Aktif Keupayaan">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Membenarkan pemeriksaan keselamatan kemaskini add-on">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Periksa untuk lihat sekiranya plugin anda adalah yang terkini">
-<!ENTITY info.plugincheck.tooltip               "Periksa untuk lihat sekiranya plugin anda adalah yang terkini">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Dapatkan Add-on">
 <!ENTITY view.recentUpdates.label             "Kemaskini terbaru">

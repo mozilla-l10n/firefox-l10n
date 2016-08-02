@@ -39,8 +39,7 @@
 <!ENTITY  acceptCookies.label           "Terima kuki dari laman web">
 <!ENTITY  acceptCookies.accesskey       "e">
 
-<!ENTITY  acceptThirdParty.pre.label      "Menerima kuki pihak ketiga:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "m">
+
 <!ENTITY  acceptThirdParty.always.label   "Sentiasa">
 <!ENTITY  acceptThirdParty.never.label    "Tidak sekali">
 <!ENTITY  acceptThirdParty.visited.label  "Daripada yang dilawati">
@@ -96,3 +95,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Tetapan…">
 <!ENTITY  clearOnCloseSettings.accesskey "T">
+
+
+
+
