@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Bloqueios de threads">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogramas teclados">
