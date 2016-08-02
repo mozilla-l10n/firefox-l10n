@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "कोई CSS विशेषता नहीं मिली.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "गणना किया हुआ">
-<!ENTITY ruleViewTitle         "नियम ">

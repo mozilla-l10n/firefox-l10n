@@ -13,8 +13,7 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
-<!ENTITY safeb.palm.reportPage.label "क्यों यह पृष्ठ रोका गया है?">
-<!ENTITY safeb.palm.whyForbidden.label "क्यों यह पृष्ठ रोका गया है?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -30,8 +29,4 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "यह वेब पेज <span id='phishing_sitename'/> को धोकादायक सूचित किआ गया है और आपके प्राथमिकता के अनुसार बंद कर दिया गया है">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>भ्रमकारी साइट्स आपको भ्रमित कर आपकी निजी जानकारी जैसे फ़ोन नंबर, पासवर्ड, क्रेडिट कार्ड का दुरुपयोग या आपके डिवाइस मैं आपत्तिजनक सॉफ्टवेयर इनस्टॉल करके आपको उलझाने हेतु डिज़ाइन की गई हैं।</p><p>वेब के माध्यम से दर्ज की गई कोई भी व्यक्तिगत जानकारी आपकी पहचान के लिए घातक हो सकती है।</p>">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "रोका गया अद्यतन">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "<span id='forbidden_sitename'/> पर वेब पृष्ठ आपके व्यवस्थापक प्रोफाइल द्वारा ब्लॉक किया गया हैं.">
 
