@@ -63,6 +63,10 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  థ్రెడ్ హ్యాంగులు">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  స్కేలార్ లు
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "  హిస్టోగ్రామ్స్">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
