@@ -104,9 +104,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Opciones">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Cambiar las opciones de este complemento">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Cambiar las opciones para este complemento">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferencias">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Cambiar las preferencias de este complemento">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Cambiar las preferencias para este complemento">
 <!ENTITY cmd.contribute.label                 "Contribuir">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuir al desarrollo de este complemento">

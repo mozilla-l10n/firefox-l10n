@@ -19,4 +19,4 @@
 
 <!-- LOCALIZATION NOTE (inspectorEyeDropper.label): A string displayed as the tooltip of
      a button in the inspector which toggles the Eyedropper tool -->
-<!ENTITY inspectorEyeDropper.label       "Tomar un color desde la página">
+<!ENTITY inspectorEyeDropper.label       "Tomar un color de la página">
