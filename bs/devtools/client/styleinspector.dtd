@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "CSS postavke nisu pronađene.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "Izračunato">
-<!ENTITY ruleViewTitle         "Pravila">

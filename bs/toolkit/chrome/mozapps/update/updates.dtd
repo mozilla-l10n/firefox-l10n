@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Provjeravam za update">
 <!ENTITY  updateCheck.label               "Tražim noviju verziju &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Pronađene nove verzije plugina">
-<!ENTITY  pluginupdatesfound.label        "Novije verzije jednog ili više vaših plugina su pronađene.">
-<!ENTITY  pluginupdateslink.label         "Saznajte kako možete nadograditi svoje plugine.">
-
 <!ENTITY  noupdatesfound.title            "Nijedan update nije pronađen">
 <!ENTITY  noupdatesautoenabled.intro      "Nema dostupnih updatea. &brandShortName; će povremeno provjeravati za update.">
 <!ENTITY  noupdatesautodisabled.intro     "Nema dostupnih updatea. Molimo provjerite ponovo poslije ili omogućite da &brandShortName; automatski provjerava postojanje updatea.">
