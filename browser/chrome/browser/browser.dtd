@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "Ñ">
 <!ENTITY  unpinTab.label                     "Yowtu Tabbere">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Dirtin to Henorde Hesere">
 <!ENTITY  moveToNewWindow.accesskey          "H">
 <!ENTITY  bookmarkAllTabs.label              "Maantoto Tabbe Kala…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Hollu Tabbe Fof">
 <!ENTITY showAllTabsCmd.accesskey "F">
 
+
 <!ENTITY fxaSignIn.label "Teelto &syncBrand.shortName.label;">
 
 <!ENTITY fxaSignInError.label "Teelto &syncBrand.shortName.label;">
@@ -134,6 +141,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "Yaltu Njaajeendi Yaynirde">
 <!ENTITY leaveDOMFullScreen.accesskey "a">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Uddu Henorde">
 <!ENTITY closeWindow.accesskey "d">
@@ -739,12 +755,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Hollir tintine biro">
 <!ENTITY social.toggleNotifications.accesskey "t">
 
-<!ENTITY social.activated.description "Carwe iwɗe to <label/> kurminaama. Aɗa waawi waylude teelte carwe ɗee to <label class='text-link'>Toppitorde Ɓeyditte</label>.">
-<!ENTITY social.activated.undo.label "Ee'bo, firtu ɗum!">
-<!ENTITY social.activated.undo.accesskey "f">
 <!ENTITY social.learnMore.label "Ɓeydu humpito…">
 <!ENTITY social.learnMore.accesskey "Ɓ">
-<!ENTITY social.closeNotificationItem.label "Wonaa Jooni">
 
 <!ENTITY social.directory.label "Runggere Caasnugol">
 <!ENTITY social.directory.text "Aɗa waawi Lollinde carwe iwɗe e ndee runngere.">

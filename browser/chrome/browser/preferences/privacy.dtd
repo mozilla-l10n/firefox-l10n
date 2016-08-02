@@ -41,8 +41,7 @@
 <!ENTITY  acceptCookies.label           "Jaɓ kukiiji iwɗi e lowe">
 <!ENTITY  acceptCookies.accesskey       "J">
 
-<!ENTITY  acceptThirdParty.pre.label      "Jaɓ kukiiji jiggaaɗi;">
-<!ENTITY  acceptThirdParty.pre.accesskey  "a">
+
 <!ENTITY  acceptThirdParty.always.label   "Sahaa kala">
 <!ENTITY  acceptThirdParty.never.label    "Hay sahaa">
 <!ENTITY  acceptThirdParty.visited.label  "Iwɗi e jillaaɗe">
@@ -99,3 +98,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Teelte…">
 <!ENTITY  clearOnCloseSettings.accesskey "e">
+
+
+
+

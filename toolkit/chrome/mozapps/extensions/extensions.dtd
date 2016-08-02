@@ -35,10 +35,6 @@
 <!ENTITY warning.updatesecurity.label              "Ƴeewtagol kisnal ɓeyditte koko daaƴaa. Aɗa waawi heɓde caɗe e kesɗitine.">
 <!ENTITY warning.updatesecurity.enable.label       "Daaƴtu">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Daaƴtu ƴeewtagol kisnal ɓeyditte">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Ƴeewto ngam yiyde so ceŋe maa ena kesɗiti">
-<!ENTITY info.plugincheck.tooltip               "Ƴeewto ngam yiyde so ceŋe maa ena kesɗiti">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Ɗaɓɓu Ɓeyditte">
 <!ENTITY view.recentUpdates.label             "Kesɗitine Cakkitiiɗe">
