@@ -48,6 +48,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Fire de execuție blocate">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histograme">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histograme de chei">

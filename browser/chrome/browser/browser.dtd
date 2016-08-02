@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "i">
 <!ENTITY  unpinTab.label                     "Anulează fixarea">
 <!ENTITY  unpinTab.accesskey                 "x">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Mută într-o fereastră nouă">
 <!ENTITY  moveToNewWindow.accesskey          "M">
 <!ENTITY  bookmarkAllTabs.label              "Pune semne de carte la toate filele…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Arată toate filele">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
 <!ENTITY fxaSignIn.label "Autentifică-te la &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Deschide preferințele &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectare la &syncBrand.shortName.label;">
@@ -134,6 +141,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "Revenire la ecran normal">
 <!ENTITY leaveDOMFullScreen.accesskey "v">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Închide fereastra">
 <!ENTITY closeWindow.accesskey "d">
@@ -669,7 +685,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "Gata">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "Conexiune securizată">
 <!ENTITY identity.connectionNotSecure "Conexiunea nu este securizată">
@@ -763,12 +779,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Arată notificările pe ecran">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Serviciile de la <label/> au fost activate. Puteți schimba setările pentru servicii în <label class='text-link'>Manager suplimente</label>.">
-<!ENTITY social.activated.undo.label "Upss, anulează asta!">
-<!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "Află mai multe…">
 <!ENTITY social.learnMore.accesskey "l">
-<!ENTITY social.closeNotificationItem.label "Nu acum">
 
 <!ENTITY social.directory.label "Dosar de activări">
 <!ENTITY social.directory.text "Puteți activa serviciile de partajare din dosar.">

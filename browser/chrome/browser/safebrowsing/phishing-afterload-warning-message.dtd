@@ -15,7 +15,6 @@
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
 
 
-
 <!ENTITY safeb.blocked.malwarePage.title "Pagină raportată ca fiind de atac!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Această pagină web de la <span id='malware_sitename'/> a fost raportată ca fiind o pagină de atac și a fost blocată pe baza preferințelor de securitate.">
@@ -30,7 +29,4 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Această pagină web de la <span id='phishing_sitename'/> a fost raportată ca fiind un site înșelător și a fost blocată pe baza preferințelor de securitate.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Site-urile înșelătoare sunt concepute pentru a te păcăli să faci ceva periculos, precum instalarea de programe sau dezvăluirea informațiilor personale, precum parolele, numerele de telefon sau cardurile de credit.</p><p>Introducerea oricărei informații pe această pagină web poate conduce la furt de identitate sau altă fraudă.</p>">
-
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Pagina web de la <span id='forbidden_sitename'/> a fost blocată de profilul de admin.">
 

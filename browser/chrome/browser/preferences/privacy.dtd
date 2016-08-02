@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Acceptă cookie-uri de la site-uri">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Acceptă cookie-uri terțe:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "k">
+
 <!ENTITY  acceptThirdParty.always.label   "Întotdeauna">
 <!ENTITY  acceptThirdParty.never.label    "Niciodată">
 <!ENTITY  acceptThirdParty.visited.label  "De la site-urile vizitate">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Setări…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
+

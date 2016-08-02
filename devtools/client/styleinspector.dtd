@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "Nicio proprietate CSS găsită.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "Evaluat">
-<!ENTITY ruleViewTitle         "Reguli">

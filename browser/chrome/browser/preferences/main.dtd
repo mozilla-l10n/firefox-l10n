@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label "Întreabă-mă întotdeauna unde să fie salvate fișierele">
 <!ENTITY alwaysAsk.accesskey "a">
 
-<!ENTITY alwaysCheckDefault2.label        "Verifică întotdeauna dacă &brandShortName; este browserul implicit">
-<!ENTITY alwaysCheckDefault2.accesskey    "V">
+
 <!ENTITY setAsMyDefaultBrowser2.label     "Stabilește drept implicit">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "d">
 <!ENTITY isDefault.label                  "&brandShortName; este în prezent browserul implicit">
