@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Kek'ulutäj taq kaxlanwey">
 <!ENTITY  acceptCookies.accesskey       "K">
 
-<!ENTITY  acceptThirdParty.pre.label      "Kek'ul taq kaxlanwey kichin aj rox winaqi':">
-<!ENTITY  acceptThirdParty.pre.accesskey  "k">
+
 <!ENTITY  acceptThirdParty.always.label   "Jantape'">
 <!ENTITY  acceptThirdParty.never.label    "Majub'ey">
 <!ENTITY  acceptThirdParty.visited.label  "Etz'eton">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Nuk’ulem…">
 <!ENTITY  clearOnCloseSettings.accesskey "N">
+
+
+
+

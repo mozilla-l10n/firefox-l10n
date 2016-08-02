@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Tajin ninik'öx ri taq k'exoj ruwäch">
 <!ENTITY  updateCheck.label               "Tajin nikanöx ri k'ak'a' ruwäch &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Taq k'exoj ruwäch pluyin xe'ilitäj ">
-<!ENTITY  pluginupdatesfound.label        "Xe'ilitäj k'ak'a' taq ruwäch kichin ri jun o ch'aqa' chik taq apluyin.">
-<!ENTITY  pluginupdateslink.label         "Tatz'eta' achike rub'eyal nak'ëx kiwäch ri taq apluyin.">
-
 <!ENTITY  noupdatesfound.title            "Majun taq k'exoj ruwäch xe'ilitäj ">
 <!ENTITY  noupdatesautoenabled.intro      "Majun k'exoj ruwäch k'o wakami. &brandShortName; junelïk xtunik'ola' we e k'o taq k'exoj ruwäch.">
 <!ENTITY  noupdatesautodisabled.intro     "Majun taq k'exoj ruwäch e k'o. Takanoj jun chik q'ij, ütz chuqa' natzïj ri ruyonil taq k'exoj ruwäch ri &brandShortName;.">
