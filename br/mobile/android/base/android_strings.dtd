@@ -48,6 +48,8 @@
 <!ENTITY  switch_to_tab "Mont d\u0027an ivinell">
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!ENTITY  tab_offline_version "O skrammañ an handelv ezlinenn">
+
 <!ENTITY  crash_reporter_title "Danevell Sac\u0027hadennoù &brandShortName;">
 <!ENTITY  crash_message2 "Ur gudenn ez eus bet gant &brandShortName; ha sac\u0027het eo. Hoc\u0027h ivinelloù a zlefe bezañ diskouezet war bajennad loc\u0027hañ  &brandShortName; pa loc\u0027hot ar meziant en-dro.">
 <!ENTITY  crash_send_report_message3 "Kemennit ar sac\u0027hadenn da &vendorShortName; a-benn ma vo ratreet.">
@@ -106,9 +108,10 @@
 <!ENTITY edit_mode_cancel "Nullañ">
 
 <!ENTITY close_tab "Serriñ an ivinell">
-
+<!ENTITY one_tab "1 ivinell">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; ivinell">
 <!ENTITY new_tab_opened "Digor eo an ivinell nevez">
 <!ENTITY new_private_tab_opened "Ivinell brevez nevez bet digoret">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -270,11 +273,17 @@
 <!ENTITY pref_whats_new_notification_summary "Gouzout hiroc\u0027h a-zivout ar c\u0027heweriusterioù nevez goude un hizivadenn">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+
+<!ENTITY pref_category_experimental "Keweriusterioù arnodel">
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!ENTITY pref_custom_tabs "Ivinelloù personelaet">
+<!ENTITY pref_custom_tabs_summary "Aotren arloadoù un trede da zigeriñ ereoù gant un neuz personelaet.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
+<!ENTITY pref_activity_stream "Lanv oberiantiz">
 
 
 <!ENTITY tracking_protection_prompt_title "Bremañ gant ar gwarez heuliañ">
@@ -389,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Ivinelloù goubredet">
 
 <!ENTITY pref_default_browser "Lakaat da verdeer dre ziouer">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Gweladennit Skor Mozilla">
 <!ENTITY pref_about_firefox "Diwar-benn &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAG">
 <!ENTITY pref_vendor_feedback "Reiñ evezhiadennoù">
@@ -578,11 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "Skarzhañ ar roll istor">
 <!ENTITY home_clear_history_confirm "Ha sur oc\u0027h e fell deoc\u0027h skarzhañ ho roll istor ?">
 <!ENTITY home_bookmarks_empty "Skrammet e vez ar sinedoù enrollet amañ.">
-
+<!ENTITY home_closed_tabs_title2 "Ivinelloù serret nevez zo">
 <!ENTITY home_last_tabs_empty "Skrammet e vez ho sinedoù nevesañ amañ.">
-
-
+<!ENTITY home_restore_all "Assav an ivinelloù">
+<!ENTITY home_closed_tabs_number "&formatD; ivinell">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 ivinell">
 <!ENTITY home_most_recent_empty "Skrammet e vez al lec\u0027hiennoù nevez gweladennet amañ.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
