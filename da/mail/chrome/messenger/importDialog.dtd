@@ -38,6 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescriptionB.label "Vælg en eksisterende konto eller opret en ny konto:">
 <!ENTITY acctName.label           "Navn:">
 <!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "Kunne ikke finde et program eller en fil til at importere data fra.">
 
 <!ENTITY back.label "&lt; Tilbage">
 <!ENTITY forward.label "Næste &gt;">

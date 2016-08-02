@@ -44,6 +44,8 @@
 <!ENTITY helpus.getInvolvedLink     "vær med!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Udgivelsesnoter">
+
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Licensinformation">
 
