@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "Placki ze sydłow akceptować">
 <!ENTITY  acceptCookies.accesskey       "c">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Placki třećich poskićowarjow akceptować:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "t">
 <!ENTITY  acceptThirdParty.always.label   "Přeco">
 <!ENTITY  acceptThirdParty.never.label    "Ženje">
 <!ENTITY  acceptThirdParty.visited.label  "Jenož wot wopytanych třećich">
@@ -104,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Nastajenja…">
 <!ENTITY  clearOnCloseSettings.accesskey "N">
 
-
-
-
+<!ENTITY  browserContainersHeader.label         "Kontejnerowe rajtarki">
+<!ENTITY  browserContainersLearnMore.label      "Dalše informacije">
+<!ENTITY  browserContainersEnabled.label        "Kontejnerowe rajtarki zmóžnić">
+<!ENTITY  browserContainersEnabled.accesskey    "m">
