@@ -13,8 +13,7 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "c">
-<!ENTITY safeb.palm.reportPage.label "Cén fáth ar cuireadh cosc ar an leathanach seo?">
-<!ENTITY safeb.palm.whyForbidden.label "Cén fáth ar cuireadh cosc ar an leathanach seo?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Tuairiscíodh gur Leathanach Ionsaithe é seo!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -30,8 +29,4 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Tuairiscíodh gur suíomh cealgach an leathanach <span id='phishing_sitename'/> agus cuireadh bac air de bharr do roghanna slándála.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Deartar suíomhanna cealgacha chun tú a mhealladh le rud éigin dainséarach a dhéanamh. Mar shampla: cuirtear ar dhaoine bogearra a shuiteáil nó sonraí pearsanta a nochtadh; cosúil le d'fhocal faire, d'uimhir ghutháin nó do chárta creidmheasa. </p><p>Tá baol ann go ndéanfar bradaíl aitheantais nó calaois eile ort má iontrálann sonra ar bith ar an suíomh seo.</p>">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Suíomh Coiscthe">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Chuir do phróifíl riarthóra cosc ar an leathanach Gréasáin ag <span id='forbidden_sitename'/>">
 

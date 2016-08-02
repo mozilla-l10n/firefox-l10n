@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Nuashonruithe á seiceáil">
 <!ENTITY  updateCheck.label               "Leaganacha nua de &brandShortName; á lorg…">
 
-<!ENTITY  pluginupdatesfound.title        "Aimsíodh nuashonruithe le haghaidh forlíontán">
-<!ENTITY  pluginupdatesfound.label        "Aimsíodh leagan nua de roinnt de do chuid forlíontán.">
-<!ENTITY  pluginupdateslink.label         "Taispeáin conas do chuid forlíontán a nuashonrú.">
-
 <!ENTITY  noupdatesfound.title            "Ní bhfuarthas nuashonruithe">
 <!ENTITY  noupdatesautoenabled.intro      "Níl nuashonrú ar bith le fáil. Seiceálfaidh &brandShortName; ó am go chéile an bhfuil nuashonruithe nua ann.">
 <!ENTITY  noupdatesautodisabled.intro     "Níl nuashonruithe ar fáil. Lorg arís iad níos déanaí, nó cumasaigh seiceáil nuashonruithe uathoibríoch &brandShortName;.">
