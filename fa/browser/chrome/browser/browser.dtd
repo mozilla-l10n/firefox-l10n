@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "س">
 <!ENTITY  unpinTab.label                     "کندن زبانه">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "انتقال به پنجرهٔ جدید">
 <!ENTITY  moveToNewWindow.accesskey          "پ">
 <!ENTITY  bookmarkAllTabs.label              "نشانک‌گذاری همه زبانه‌ها…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "نمایش همهٔ زبانه‌ها">
 <!ENTITY showAllTabsCmd.accesskey "ز">
 
+
 <!ENTITY fxaSignIn.label "ورود به &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "باز کردن ترجیحات &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "بازگشت به &syncBrand.shortName.label;…">
@@ -131,10 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY exitDOMFullscreen.button "خروج از حالت تمام‌صفحه (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "خروج از حالت تمام‌صفحه (Esc)">
 <!ENTITY leaveDOMFullScreen.label "خروج از حالت تمام‌صفحه">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "بستن پنجره">
 <!ENTITY closeWindow.accesskey "ه">
@@ -456,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ز">
 <!ENTITY openFrameCmd.label           "باز کردن چارچوب در پنجرهٔ جدید">
 <!ENTITY openFrameCmd.accesskey       "پ">
-<!ENTITY openLinkCmdInContainerTab.label "بازکردن پیوند در زبانه حامل جدید">
-<!ENTITY openLinkCmdInContainerTab.accesskey "C">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "فقط نمایش همین چارچوب">
 <!ENTITY showOnlyThisFrameCmd.accesskey "چ">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -676,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "ا">
 
 <!ENTITY editBookmark.done.label                     "انجام شد">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "اتصال امن">
 <!ENTITY identity.connectionNotSecure "اتصال امن نیست">
@@ -772,12 +789,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "نمایش میزکار و اطلاعیه‌ها">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "سرویس‌ها از <label/> فعال شده‌اند. شما می‌توانید تنظیمات سرویس‌ها را از <label class='text-link'> مدیریت افزودنی‌ها تغییر دهید</label>.">
-<!ENTITY social.activated.undo.label "اوه، این را برگردان!">
-<!ENTITY social.activated.undo.accesskey "ب">
 <!ENTITY social.learnMore.label "اطلاعات بیشتر…">
 <!ENTITY social.learnMore.accesskey "ط">
-<!ENTITY social.closeNotificationItem.label "اکنون نه">
 
 <!ENTITY social.directory.label "دایرکتوری فعالیتها">
 <!ENTITY social.directory.text "شما می توانید سرویس به اشتراک گذاری را از این دایرکتوری فعال کنید.">

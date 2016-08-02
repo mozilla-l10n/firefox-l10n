@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "مدیر سیستم‌ شما به‌روزرسانی‌ها را غیرفعال کرده است.">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; در بخش دیگری از برنامه در حال به‌روزرسانی است.">
+
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download

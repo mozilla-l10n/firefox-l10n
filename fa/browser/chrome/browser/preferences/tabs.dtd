@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "به جای نمایش پنجرهٔ جدید، یک زبانهٔ جدید باز شود">
-<!ENTITY newWindowsAsTabs.accesskey   "پ">
+
+
 
 <!ENTITY warnCloseMultipleTabs.label  "در هنگام بستن بیش از یک زبانه هشدار داده شود">
 <!ENTITY warnCloseMultipleTabs.accesskey  "ب">
