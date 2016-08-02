@@ -35,10 +35,6 @@
 <!ENTITY warning.updatesecurity.label              "கூடுதல் இணைப்பு புதுப்பித்தல் பாதுகாப்பு சரிபார்த்தல் செயல்நீக்கப்பட்டுள்ளது.நீங்கள் புதுப்பித்தல்களால் திருப்தியடையலாம்.">
 <!ENTITY warning.updatesecurity.enable.label       "செயல்படுத்து">
 <!ENTITY warning.updatesecurity.enable.tooltip     "கூடுதல் இணைப்பு மேம்படுத்தல் பாதுகாப்பு சரிபார்த்தலை செயல்படுத்து">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "உங்கள் செருகுநிரல்கள் இப்போது வரை புதுப்பிக்கப்பட்டுள்ளதா எனப் பார்க்க தேர்வு செய்யவும்">
-<!ENTITY info.plugincheck.tooltip               "உங்கள் செருகுநிரல்கள் இப்போது வரை புதுப்பிக்கப்பட்டுள்ளதா எனப் பார்க்க தேர்வு செய்யவும்">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "கூடுதல் இணைப்புகளை பெறு">
 <!ENTITY view.recentUpdates.label             "சமீபத்திய புதுப்பித்தல்கள்">

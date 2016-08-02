@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label "எங்கே கோப்புகளை சேமிக்க வேண்டுமென எப்போதும் என்னிடம் கேள்">
 <!ENTITY alwaysAsk.accesskey "எ">
 
-<!ENTITY alwaysCheckDefault2.label        "துவக்கத்தில் எப்போதும் &brandShortName; முன்னிருப்பு உலாவியாக இருக்கிறதா என சரி பார்">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+
 <!ENTITY setAsMyDefaultBrowser2.label     "முன்னிருப்பாக்கு">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; தற்போது உங்களுடைய இயல்புநிலை உலாவியாக உள்ளது">
