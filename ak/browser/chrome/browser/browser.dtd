@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "T">
 <!ENTITY  unpinTab.label                     "Yi tab ntim">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Soa-kɔ tokura foforo so">
 <!ENTITY  moveToNewWindow.accesskey          "f">
 
@@ -104,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Kyerɛ Ntab Nyinara">
 <!ENTITY showAllTabsCmd.accesskey "a">
 
+
 <!ENTITY fxaSignIn.label "Kɔ &syncBrand.shortName.label; mu">
 
 <!ENTITY fxaSignInError.label "San-kɔ &syncBrand.shortName.label; mu">
@@ -132,6 +139,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "Pue firi skreen tɛtrɛtɛɛ">
 <!ENTITY leaveDOMFullScreen.accesskey "f">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "To Tokuro Mu">
 <!ENTITY closeWindow.accesskey "k">
@@ -728,12 +744,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Kyerɛ dɛsktɔp asɛnka">
 <!ENTITY social.toggleNotifications.accesskey "s">
 
-<!ENTITY social.activated.description "Wɔadum asom firi <label/>. Wo bɛtumi asesa wo nhyɛhyɛe ma asom wɔ <label class='text-link'>Nkaho hwɛsofo</label> mu.">
-<!ENTITY social.activated.undo.label "Agyei, mma nnyɛ yi!">
-<!ENTITY social.activated.undo.accesskey "y">
 <!ENTITY social.learnMore.label "Sua bi ka ho…">
 <!ENTITY social.learnMore.accesskey "S">
-<!ENTITY social.closeNotificationItem.label "Nnyɛ Seiseiara">
 
 
 

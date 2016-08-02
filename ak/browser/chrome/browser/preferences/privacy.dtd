@@ -39,8 +39,7 @@
 <!ENTITY  acceptCookies.label           "Gye nkuki firi nsaet">
 <!ENTITY  acceptCookies.accesskey       "G">
 
-<!ENTITY  acceptThirdParty.pre.label      "Gye afoforofo wɔn nkuki:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "G">
+
 <!ENTITY  acceptThirdParty.always.label   "Bere-biara">
 <!ENTITY  acceptThirdParty.never.label    "Daabi da">
 <!ENTITY  acceptThirdParty.visited.label  "Firi bea a wɔasra">
@@ -96,3 +95,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Nhyehyɛe…">
 <!ENTITY  clearOnCloseSettings.accesskey "h">
+
+
+
+

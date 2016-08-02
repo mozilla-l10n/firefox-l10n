@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Rehwehwɛ ntoso">
 <!ENTITY  updateCheck.label               "Ɛrehwehwɛ &brandShortName; vɛɛhyɛn foforo…">
 
-<!ENTITY  pluginupdatesfound.title        "Ehu plag-in ntoso">
-<!ENTITY  pluginupdatesfound.label        "Ehu wo plag-in nom vɛɛhyɛn ahorow.">
-<!ENTITY  pluginupdateslink.label         "Hwɛ sɛnea yɛpagya aplag-in kɔ anim.">
-
 <!ENTITY  noupdatesfound.title            "Enhunuu ntoso biara">
 <!ENTITY  noupdatesautoenabled.intro      "Ntoso foforo biara nni hɔ. &brandShortName; bɛhwehwɛ ntoso bere-so-bere-so.">
 <!ENTITY  noupdatesautodisabled.intro     "Ntoso foforo biara nni hɔ. Hwehwɛ bi akyiri anaa ma &brandShortName; tumi sɛ ɔnhwehwɛ mma wo otomatikmu.">
