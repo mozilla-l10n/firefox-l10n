@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "एड-अनमा अद्यावधिक सुरक्षा जाँच असक्षम छ। तपाईं अद्यावधिकसँग सम्झौता गरिरहनुभएको छ।">
 <!ENTITY warning.updatesecurity.enable.label       "सक्षम पार्नुहोस्">
 <!ENTITY warning.updatesecurity.enable.tooltip     "एड-अन अद्यावधिक सुरक्षा जाँच सक्षम पार्नुहोस्">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "तपाईँका प्लगिनहरू अद्यावधिक छन् भनेर जान्नुहोस्">
-<!ENTITY info.plugincheck.tooltip               "तपाईँका प्लगिनहरू अद्यावधिक छन् भनेर जान्नुहोस्">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "खोजी गर्नुहोस्">
