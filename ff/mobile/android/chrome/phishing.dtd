@@ -6,7 +6,6 @@
 <!ENTITY safeb.palm.decline.label "Faalkiso ngoo reentino">
 
 
-
 <!ENTITY safeb.blocked.malwarePage.title "Jaŋtaama ko Hello Njangu!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Ngoo hello geese to <span id='malware_sitename'/> jaŋtaama ko hello njangu etee daaƴaama tugnaade e cuɓoraaɗe kisal maa.">
@@ -19,4 +18,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Ngoo hello geese to <span id='unwanted_sitename'/> jaŋtaama ko hello njangu etee daaƴaama tugnaade e cuɓoraaɗe kisal maa.">
 
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
