@@ -37,9 +37,9 @@
 
 <!ENTITY  bookmarks_title "Alama me buk">
 <!ENTITY  history_title "Gin mukato">
-<!ENTITY  recent_tabs_title "Dirica matino ma cokki">
 
 <!ENTITY  switch_to_tab "Lokke i dirica matidi">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "&brandShortName; Lami ngec me Bal ma time atura">
 <!ENTITY  crash_message2 "&brandShortName; obedo ki peko kadong opoto woko. Dirica matino ni myero gi obed i potbuk me acaki pa &brandShortName; ka i nwoyo cako.">
@@ -94,10 +94,9 @@
 <!ENTITY edit_mode_cancel "Juki">
 
 <!ENTITY close_tab "Lor Dirica matidi">
-<!ENTITY one_tab "dirica matidi 1">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "dirica matino &formatD;">
 <!ENTITY new_tab_opened "Kiyabo Tab manyen">
 <!ENTITY new_private_tab_opened "Kiyabo dirica matidi me mung manyen">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -246,6 +245,14 @@
 <!ENTITY pref_tracking_protection_disabled "Kijuko woko">
 
 
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "Kombedi ki gwokke ikom lubo kor">
 <!ENTITY tracking_protection_prompt_text "Geng matek jami ma lubo kor wek pe i par.">
@@ -349,6 +356,7 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Ter me kakube">
 <!ENTITY pref_private_data_downloadFiles2 "Gam">
 <!ENTITY pref_private_data_syncedTabs "Dirica matino ma kitimo marom">
+
 
 <!ENTITY pref_about_firefox "Makwako &brandShortName;">
 <!ENTITY pref_vendor_faqs "Lapeny ma pol kare">
@@ -533,10 +541,11 @@ size. -->
 <!ENTITY home_clear_history_button "Jwa yeny mukato">
 <!ENTITY home_clear_history_confirm "Imoko ada ni imito jwayo gin mukato ni?">
 <!ENTITY home_bookmarks_empty "Alamabuk ma i gwoko nyute kany.">
-<!ENTITY home_closed_tabs_title "Dirica matino ma kiloro cokki">
-<!ENTITY home_last_tabs_title "Dirica matino me ceng ca">
+
 <!ENTITY home_last_tabs_empty "Dirica matino ni ma cokki nyute kany.">
-<!ENTITY home_open_all "Yab weng">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Kakube ma ilimo cokki loyo nyute kany.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -587,7 +596,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Kube ma tye ki ber bedo">
 <!ENTITY identity_connection_insecure "Kube ma pe ki ber bedo">
-<!ENTITY identity_login_insecure "Kakube man pe tye ki ber bedo ki dony iyie ni twero bedo goro.">
 <!ENTITY identity_connection_chromeui "Man potbuk me &brandShortName; matye ki ber bedo">
 <!-- Mixed content notifications in site identity popup -->
 
