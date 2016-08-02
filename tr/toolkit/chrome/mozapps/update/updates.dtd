@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Güncellemeler Denetleniyor">
 <!ENTITY  updateCheck.label               "Yeni &brandShortName; sürümleri aranıyor…">
 
-<!ENTITY  pluginupdatesfound.title        "Yan uygulamaların güncellemeleri bulundu">
-<!ENTITY  pluginupdatesfound.label        "Kurulu yan uygulamanın daha yeni sürümü bulundu.">
-<!ENTITY  pluginupdateslink.label         "Yan uygulamaları nasıl güncelleyeceğinizi öğrenin.">
-
 <!ENTITY  noupdatesfound.title            "Güncelleme Bulunamadı">
 <!ENTITY  noupdatesautoenabled.intro      "Hiçbir güncelleme yok. &brandShortName; belirli aralıklarla güncellemelere bakacak.">
 <!ENTITY  noupdatesautodisabled.intro     "Hiçbir güncelleme yok. Lütfen daha sonra yeniden deneyin veya &brandShortName; uygulamasının otomatik güncelleme denetimini etkinleştirin.">
