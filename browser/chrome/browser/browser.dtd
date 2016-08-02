@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "S">
 <!ENTITY  unpinTab.label                     "Trek oortjie los">
 <!ENTITY  unpinTab.accesskey                 "t">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Skuif na nuwe venster">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Boekmerk alle oortjies…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Wys alle oortjies">
 <!ENTITY showAllTabsCmd.accesskey "a">
 
+
 <!ENTITY fxaSignIn.label "Meld aan by &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Open &syncBrand.shortName.label;-voorkeure">
 <!ENTITY fxaSignInError.label "Herkoppel aan &syncBrand.shortName.label;">
@@ -131,10 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY exitDOMFullscreen.button "Verlaat volskerm (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Verlaat volskerm (esc)">
 <!ENTITY leaveDOMFullScreen.label "Verlaat volskerm">
 <!ENTITY leaveDOMFullScreen.accesskey "o">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Sluit venster">
 <!ENTITY closeWindow.accesskey "v">
@@ -771,12 +788,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Wys werkskermkennisgewings">
 <!ENTITY social.toggleNotifications.accesskey "k">
 
-<!ENTITY social.activated.description "Dienste van <label/> is geaktiveer. Verander gerus instellings vir dienste in die <label class='text-link'>Byvoegingbestuurder</label>.">
-<!ENTITY social.activated.undo.label "Nee gits! Weg hiermee!">
-<!ENTITY social.activated.undo.accesskey "W">
 <!ENTITY social.learnMore.label "Meer inligting…">
 <!ENTITY social.learnMore.accesskey "M">
-<!ENTITY social.closeNotificationItem.label "Nie nou nie">
 
 <!ENTITY social.directory.label "Aktiveringsgids">
 <!ENTITY social.directory.text "Deel-dienste kan vanuit die gids geaktiveer word.">

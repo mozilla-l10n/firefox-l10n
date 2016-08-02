@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Aanvaar koekies van werwe">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Aanvaar derdeparty-koekies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "n">
+
 <!ENTITY  acceptThirdParty.always.label   "Altyd">
 <!ENTITY  acceptThirdParty.never.label    "Nooit">
 <!ENTITY  acceptThirdParty.visited.label  "Sedert besoek">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Opstelling…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
+

@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Kontrolering vir bywerkings vir byvoegings is gedeaktiveer. U kan dalk deur bywerkings gekompromitteer word.">
 <!ENTITY warning.updatesecurity.enable.label       "Aktiveer">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Aktiveer byvoegingsbywerking-beveiliging-kontrole">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Kontroleer of al die inproppe op datum is">
-<!ENTITY info.plugincheck.tooltip               "Kontroleer of al die inproppe op datum is">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Soek">

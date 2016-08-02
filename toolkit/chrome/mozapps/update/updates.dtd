@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Kontroleer vir bywerkings">
 <!ENTITY  updateCheck.label               "Soek tans vir jonger weergawes van &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Opdaterings vir inproppe is gevind">
-<!ENTITY  pluginupdatesfound.label        "Nuwer weergawes van een of meer van u inproppe is gevind.">
-<!ENTITY  pluginupdateslink.label         "Leer hoe om u inproppe op te gradeer.">
-
 <!ENTITY  noupdatesfound.title            "Geen bywerkings gevind nie">
 <!ENTITY  noupdatesautoenabled.intro      "Daar is geen bywerkings beskikbaar nie. &brandShortName; kan nou en dan kontroleer vir bywerkings.">
 <!ENTITY  noupdatesautodisabled.intro     "Daar is geen bywerkings nie. Kontroleer later weer, of aktiveer &brandShortName; se outomatiese kontrolering.">
