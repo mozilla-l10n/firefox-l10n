@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Nyahpin Tab">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Pindah ke Tetingkap Baru">
 <!ENTITY  moveToNewWindow.accesskey          "P">
 <!ENTITY  bookmarkAllTabs.label              "Tandabuku Semua Tab…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Pamer Semua Tab">
 <!ENTITY showAllTabsCmd.accesskey "S">
 
+
 <!ENTITY fxaSignIn.label "Daftar masuk ke &syncBrand.shortName.label;">
 
 <!ENTITY fxaSignInError.label "Sambung semula ke &syncBrand.shortName.label;">
@@ -134,6 +141,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "Keluar dari Muka Penuh">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Tutup Tetingkap">
 <!ENTITY closeWindow.accesskey "T">
@@ -661,7 +677,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "a">
 
 <!ENTITY editBookmark.done.label                     "Selesai">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "Sambungan Selamat">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Selamat">
@@ -750,12 +766,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Tunjukkan pemberitahuan desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Servis dari <label/> telah dilumpuhkan. Anda boleh mengubah tetapan untuk servis di <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, patah balik!">
-<!ENTITY social.activated.undo.accesskey "p">
 <!ENTITY social.learnMore.label "Ketahui Lanjut…">
 <!ENTITY social.learnMore.accesskey "K">
-<!ENTITY social.closeNotificationItem.label "Bukan Sekarang">
 
 <!ENTITY social.directory.label "Direktori Pengaktifan">
 <!ENTITY social.directory.text "Anda boleh mengaktifkan perkhidmatan Kongsi dari direktori. ">

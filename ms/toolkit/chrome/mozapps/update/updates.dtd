@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Memeriksa Kemaskinian">
 <!ENTITY  updateCheck.label               "Mencari versi &brandShortName; yang lebih baru">
 
-<!ENTITY  pluginupdatesfound.title        "Terdapat Kemas kini bagi Plugin">
-<!ENTITY  pluginupdatesfound.label        "Versi yang lebih baru  kepada satu atau lebih plugin anda telah dijumpai.">
-<!ENTITY  pluginupdateslink.label         "Lihat bagaimana untuk menaiktarafkan plugin anda.">
-
 <!ENTITY  noupdatesfound.title            "Tiada Kemaskinian Ditemui">
 <!ENTITY  noupdatesautoenabled.intro      "Tiada penambahbaikan yang boleh digunakan. &brandShortName; akan memeriksa  secara berkala bagi penambahbaikan.">
 <!ENTITY  noupdatesautodisabled.intro     "Tiada penambahbaikan yang boleh digunakan. Sila semak lain kali atau fungsikan  &brandShortName;'s penyemakan penambahbaikan automatik">
