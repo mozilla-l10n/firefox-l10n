@@ -206,11 +206,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "அச்சிடு">
 <!ENTITY printButton.tooltip          "இந்தப் பக்கத்தை அச்சிடு">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "தள தகவலினைப் பார்">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.label         "ஓர் அறிவிப்பினைப் பார்">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "இடக்கோரிக்கையைப் பார்">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "கூடுதல் இணைப்பு நிறுவல் செய்தியைப் பார்">
 
 
 
