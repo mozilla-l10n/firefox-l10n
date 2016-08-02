@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "আমাকে এখান থেকে বের কর!">
 <!ENTITY safeb.palm.decline.label "এই সতর্কবাণী উপেক্ষা করো">
-<!ENTITY safeb.palm.reportPage.label "এই পাতাটি কেন ব্লক করা হয়েছে?">
-<!ENTITY safeb.palm.whyForbidden.label "এই পাতাটি কেন ব্লক করা হয়েছে?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "আক্রমণ পৃষ্ঠা প্রতিবেদন করা হয়েছে!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "এই ওয়েবসাইটটি <span id='unwanted_sitename'/> অনাকাঙ্খিত সফটওয়ার বহন করে বলে, রিপোর্ট করা হয়েছে এবং আপনার নিরাপত্তা পছন্দ অনুযায়ী ব্লক করা হয়েছে।">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "অবাঞ্ছনীয় সফটওয়্যার পেজ গুলি এমন কিছু সফটওয়্যার ইন্সটল করতে চাইছে যা আপনার কম্পিউটারের সমুহ ক্ষতির সম্ভাবনার কারণ হতে পারে।">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "ব্লককৃত সাইট">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "<span id='forbidden_sitename'/> ওয়েবপেজটি আপনার এডমিন প্রোফাইল দ্বারা ব্লক করা হয়েছে।">
