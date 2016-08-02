@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "হালনাগাদ পরীক্ষা করা হচ্ছে">
 <!ENTITY  updateCheck.label               "&brandShortName; এর নতুন সংস্করণ খোঁজা হচ্ছে…">
 
-<!ENTITY  pluginupdatesfound.title        "প্লাগইনের জন্য হালনাগাদ পাওয়া গেছে">
-<!ENTITY  pluginupdatesfound.label        "আপনার ব্যবহৃত এক বা একাধিক প্লাগইনের নতুন সংস্করণ পাওয়া গেছে।">
-<!ENTITY  pluginupdateslink.label         "কিভাবে আপনার প্লাগইন আপগ্রেড করবেন দেখুন।">
-
 <!ENTITY  noupdatesfound.title            "কোনো হালনাগাদ পাওয়া যায়নি">
 <!ENTITY  noupdatesautoenabled.intro      "কোনো হালনাগাদ বিদ্যমান নেই। &brandShortName; নিয়মিতভাবে হালনাগাদের জন্য অনুসন্ধান করবে।">
 <!ENTITY  noupdatesautodisabled.intro     "কোনো হালনাগাদ বিদ্যমান নেই। অনুগ্রহ করে আবার পরীক্ষা করুন অথবা &brandShortName; এর স্বয়ংক্রিয় হালনাগাদ সক্রিয় করুন।">
