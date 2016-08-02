@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "¡Cheguenohẽ ko'águi!">
 <!ENTITY safeb.palm.decline.label "Eñembotavy ko mbokyhyjerãgui">
-<!ENTITY safeb.palm.reportPage.label "Mba'ére ojejoko ko kuatiarogue?">
-<!ENTITY safeb.palm.whyForbidden.label "Mba'ére ojejoko ko kuatiarogue?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "¿Ko tenda ha'e peteĩ ñanduti imarãva!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Ko ñanduti kuatiarogue <span id='unwanted_sitename'/> oñemomarandu hese oguerekoha software ivaíva ha ojejokóma hembiapoite hekotee'ỹgui.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Kuatiarogue software ivaíva omohendase software ikatúva nembotavy ha ombyai nde apopyvusu eha'ãrõ'ỹ rehe.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Tenda Jokopyre">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Ñanduti kuatiarogue <span id='forbidden_sitename'/> pegua ojokóma pe ñangarekohára mba'ete rupi.">
