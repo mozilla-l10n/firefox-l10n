@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Placki ze sydłow akceptować">
 <!ENTITY  acceptCookies.accesskey       "c">
 
-<!ENTITY  acceptThirdParty.pre.label      "Placki třećich akceptować:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "t">
+
 <!ENTITY  acceptThirdParty.always.label   "Přeco">
 <!ENTITY  acceptThirdParty.never.label    "Ženje">
 <!ENTITY  acceptThirdParty.visited.label  "Jenož wot wopytanych třećich">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Nastajenja…">
 <!ENTITY  clearOnCloseSettings.accesskey "N">
+
+
+
+
