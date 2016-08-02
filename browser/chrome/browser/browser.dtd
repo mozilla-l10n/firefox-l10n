@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ট্যাব আনপিন b">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "নতুন উইন্ডোতে স্থানান্তর W">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "সকল ট্যাব বুকমার্ক করুন T…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "সব ট্যাব দেখানো হবে (A)">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; এ সাইন ইন করুন">
 <!ENTITY fxaSignedIn.tooltip "পছন্দসমূহ &syncBrand.shortName.label; খুলুন">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; এ পুনরায় সংযুক্ত হউন">
@@ -131,10 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY exitDOMFullscreen.button "পূর্ণ পর্দা বন্ধ করুন (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "পূর্ণ পর্দা বন্ধ করুন (esc)">
 <!ENTITY leaveDOMFullScreen.label "পূর্ণ পর্দাজুড়ে প্রদর্শন মোড হতে প্রস্থান">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "উইন্ডো বন্ধ (d)">
 <!ENTITY closeWindow.accesskey "d">
@@ -456,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "নতুন উইন্ডোতে ফ্রেম খোলা হবে (W)">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "নতুন কন্টেইনার ট্যাবে লিঙ্ক খুলুন">
-<!ENTITY openLinkCmdInContainerTab.accesskey "C">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "শুধুমাত্র এই ফ্রেমটি প্রদর্শন করা হবে (S)">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -676,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "সম্পন্ন">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "নিরাপদ সংযোগ">
 <!ENTITY identity.connectionNotSecure "সংযোগ নিরাপদ নয়">
@@ -772,12 +789,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "ডেস্কটপ বার্তা প্রদর্শন করুন">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "<label/> এর পরিসেবাগুলি চালু করে দেওয়া হয়েছে। <label class='text-link'>অ্যাড-অন ব্যবস্থাপক</label> ব্যবহার করে আপনি আপনার পরিসেবার জন্য সেটিংগুলি পরিবর্তন করতে পারেন।">
-<!ENTITY social.activated.undo.label "ওহ, পূর্বাবস্থায় ফিরুন! u">
-<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "আরও জানুন… L">
 <!ENTITY social.learnMore.accesskey "L">
-<!ENTITY social.closeNotificationItem.label "এখন নয়">
 
 <!ENTITY social.directory.label "ডিরেক্টরির সক্রিয়করণব্যবস্থা">
 <!ENTITY social.directory.text "এই ডাইরেক্টরি থেকে আপনি শেয়ার পরিষেবা সক্রিয় করতে পারবেন।">

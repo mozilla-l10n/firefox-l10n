@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "সাইট হতে কুকি গ্রহণ করুন A">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "তৃতীয়-পক্ষের কুকি গ্রহণ করা হবে c">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+
 <!ENTITY  acceptThirdParty.always.label   "সবসময়">
 <!ENTITY  acceptThirdParty.never.label    "কখনো নয়">
 <!ENTITY  acceptThirdParty.visited.label  "প্রদর্শিত হতে">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "সেটিং… (t)">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
+
