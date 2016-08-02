@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Դուրս բեր ինձ այստեղից:">
 <!ENTITY safeb.palm.decline.label "Անտեսել այս զգուշացումը">
-<!ENTITY safeb.palm.reportPage.label "Ինչու՞ է այս էջը արգելափակված">
-<!ENTITY safeb.palm.whyForbidden.label "Ինչու՞ է այս էջը արգելափակված">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Բողոքել և պիտակել որպես հաձակողական էջ:">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Տեղեկություն կա այն մասին, որ <span id='unwanted_sitename'/> կայքը կիրառվում է համակարգիչների վրա գրոհելու համար: Համաձայն անվտանգության կարգավորումների՝ այն արգելափակված է:">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Անցանկալի ծրագրերի կայքը փորձում է տեղադրել ծրագիր, որը կարող է վնասել Ձեր համակարգիչը:">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Արգելափակված կայք">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Վեբ էջը <span id='forbidden_sitename'/>-ում արգելափակված է վարիչի ձեր պրոֆիլի կողմից:">
