@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Ihlola Okufakwe Muva">
 <!ENTITY  updateCheck.label               "Ukufuna izinguquko ezinye &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Kutholwe ukuvuselelwa kokungeziwe">
-<!ENTITY  pluginupdatesfound.label        "Izinguquko ezintsha zezinto ezizodwa noma eziningi ezingeziwe zakho zitholiwe.">
-<!ENTITY  pluginupdateslink.label         "Bona ukuthi ungathuthukisa kanjani okungeziwe kwakho.">
-
 <!ENTITY  noupdatesfound.title            "Akukho Okufakelwe Muva Okutholakele">
 <!ENTITY  noupdatesautoenabled.intro      "Akukho kuvuselelwa akukhona.I-&brandShortName; izohlola  ibanga lokuvuselela.">
 <!ENTITY  noupdatesautodisabled.intro     "Akukho kuvuselelwa okukhona. Sicela uhlole futhi ngesikhathi esizayo noma yenza kusebenze ukuhlola okuzenzakalelayo kokuvuselela kwe-&brandShortName;'.">

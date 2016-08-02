@@ -35,10 +35,6 @@
 <!ENTITY warning.updatesecurity.label              "Ukuvikeleka kokuhlola okungeziwe kukhutshaziwe. Unganikwa ukuvuselela.">
 <!ENTITY warning.updatesecurity.enable.label       "Nika amandla">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Nika amandla ukuhlola kokuvikeleka kokuvuselela">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Hlola ukubona ukuthi ama-plugins wakho asesikhathini samanje na">
-<!ENTITY info.plugincheck.tooltip               "Hlola ukubona ukuthi ama-plugins wakho asesikhathini samanje na">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Thola okungezwayo">
 <!ENTITY view.recentUpdates.label             "Ukuvuselela kwamanje">

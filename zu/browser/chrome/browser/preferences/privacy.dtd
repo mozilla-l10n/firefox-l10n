@@ -39,8 +39,7 @@
 <!ENTITY  acceptCookies.label           "Yamukela amakhukhi kumasayithi">
 <!ENTITY  acceptCookies.accesskey       "Y">
 
-<!ENTITY  acceptThirdParty.pre.label      "Yamukela amakhukhi avela eceleni:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "a">
+
 <!ENTITY  acceptThirdParty.always.label   "Njalo">
 <!ENTITY  acceptThirdParty.never.label    "Ungalokothi">
 <!ENTITY  acceptThirdParty.visited.label  "Kusuka kokuvakashelwe">
@@ -96,3 +95,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Izilungiselelo…">
 <!ENTITY  clearOnCloseSettings.accesskey "z">
+
+
+
+
