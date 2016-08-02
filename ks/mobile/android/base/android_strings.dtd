@@ -31,9 +31,9 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  history_title "مازی">
-<!ENTITY  recent_tabs_title "حالک ٹیبس">
 
 <!ENTITY  switch_to_tab "منتکل کرو بیکس تیبس کن">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "&brandShortName; کریش رپوٹر">
 <!ENTITY  crash_message2 " منز  &brandShortName; ایس مسلءتئ گو کریش۔ تھند ٹیبس  غسنِ  آسن &brandShortName; سٹارٹ صفس پیٹھ یل تھئ رسٹارٹ کرو">
@@ -87,10 +87,9 @@
 <!ENTITY edit_mode_cancel "منسوخ کرِو">
 
 <!ENTITY close_tab "ٹیب کرِو باند">
-<!ENTITY one_tab "1 ٹیب ">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; ٹیبس">
 <!ENTITY new_tab_opened "نو ٹیب خلیو">
 <!ENTITY new_private_tab_opened "نو پریویٹ ٹیب خلیو">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -232,6 +231,14 @@
 
 
 
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 
 
@@ -301,6 +308,7 @@ representation of the language it is used in that will help show the text in the
 size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+
 
 
 
@@ -479,6 +487,7 @@ size. -->
 
 
 
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -514,7 +523,6 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
 
 
 <!-- Mixed content notifications in site identity popup -->
