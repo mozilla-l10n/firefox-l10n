@@ -13,7 +13,6 @@
   be used for them. -->
 
 
-
 <!ENTITY safeb.blocked.malwarePage.title "Мэдээлсэн довтлогч хуудас!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Довтлогч хуудаснууд нь таны компьютер дээр програм суулгаж хувийн мэдээллийг тань хулгайлах, мөн эвдлэн сүйтгэх ажиллагаа үйлддэг. </p><p>Зарим довтлогч хуудаснууд нь хорлонтой програмуудыг шахаж бэлтгэсэн хэлбэрээр агуулж байдаг юмуу эсвэл эзэмжшигчийнх нь эрх юмуу түүнтэй холбогдох мэдээлэлгүй агуулагдаж байдаг. </p>">
@@ -23,6 +22,4 @@
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
-
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

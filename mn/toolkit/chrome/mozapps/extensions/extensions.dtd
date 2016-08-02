@@ -31,8 +31,6 @@
 <!ENTITY warning.updatesecurity.label              "Нэмэгдлийн аюулгүйн нууцлалын шинэчлэл тохиргоо хоригдсон байна. Шинэчлэх явцад танд анхааруулах болно.">
 
 
-<!-- global informations -->
-
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Нэмэгдлүүд авах">
 
