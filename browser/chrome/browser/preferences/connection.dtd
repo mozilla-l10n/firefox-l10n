@@ -33,7 +33,7 @@
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 
-
+<!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "ಸಂಪರ್ಕ ಸಾಧನ:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
