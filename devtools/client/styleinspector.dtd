@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "                  CSS հատկություններ չեն հայտնաբերվել:                                                 ">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "Հաշվարկված է">
-<!ENTITY ruleViewTitle         "Կանոններ">
