@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "นำฉันออกไปจากที่นี่!">
 <!ENTITY safeb.palm.decline.label "เพิกเฉยคำเตือนนี้">
-<!ENTITY safeb.palm.reportPage.label "ทำไมหน้านี้จึงถูกปิดกั้น?">
-<!ENTITY safeb.palm.whyForbidden.label "ทำไมหน้านี้จึงถูกปิดกั้น?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "หน้ารุกรานตามการรายงาน!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "หน้าเว็บนี้ที่ <span id='unwanted_sitename'/> ถูกรายงานว่ามีซอฟต์แวร์ไม่พึงประสงค์และถูกปิดกั้นตามการตั้งค่าความปลอดภัยของคุณ">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "หน้าที่มีซอฟต์แวร์ไม่พึงประสงค์จะพยายามติดตั้งซอฟต์แวร์ที่สามารถหลอกลวงและส่งผลกระทบกับระบบของคุณในทางที่ไม่คาดคิด">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "ไซต์ที่ถูกปิดกั้น">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "หน้าเว็บที่ <span id='forbidden_sitename'/> ถูกปิดกั้นโดยโพรไฟล์ของผู้ดูแลระบบของคุณ">
