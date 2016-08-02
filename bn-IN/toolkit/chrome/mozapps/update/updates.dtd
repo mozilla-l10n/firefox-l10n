@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "আপডেট পরীক্ষা করা হয়েছে">
 <!ENTITY  updateCheck.label               "&brandShortName;-র নতুন সংস্করণ অনুসন্ধান করা হচ্ছে…">
 
-<!ENTITY  pluginupdatesfound.title        "প্লাগ-ইনের আপডেট পাওয়া গিয়েছে">
-<!ENTITY  pluginupdatesfound.label        "এক অথবা একাধিক প্লাগ-ইনের নতুন সংস্করণ উপস্থিত রয়েছে।.">
-<!ENTITY  pluginupdateslink.label         "প্লাগ-ইন আপডেট করার প্রণালী দেখুন।">
-
 <!ENTITY  noupdatesfound.title            "কোনো আপডেট পাওয়া যায়নি">
 
 <!ENTITY  noupdatesautodisabled.intro     "কোনো আপডেট উপলব্ধ নেই। অনুগ্রহ করে পরে কোনো সময় পরীক্ষা করুন অথবা &brandShortName;-র স্বয়ংক্রিয় আপডেট পরীক্ষণ ব্যবস্থা সক্রিয় করুন।">

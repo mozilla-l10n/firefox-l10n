@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "অতিরিক্ত সামগ্রীর নিরাপত্তা পরীক্ষা নিষ্ক্রিয় করা হয়েছে। আপডেটের ফলে বিপদ দেখা দিতে পারে।">
 <!ENTITY warning.updatesecurity.enable.label       "সক্রিয় করুন">
 <!ENTITY warning.updatesecurity.enable.tooltip     "অতিরিক্ত সামগ্রীর আপডেটের নিরাপত্তা পরীক্ষা ব্যবস্থা সক্রিয় করা হবে">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "প্লাগ-ইনগুলি আপ-টু-ডেট রয়েছে কি না তা পরীক্ষা করুন">
-<!ENTITY info.plugincheck.tooltip               "প্লাগ-ইনগুলি আপ-টু-ডেট রয়েছে কি না তা পরীক্ষা করুন">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "অনুসন্ধান">
