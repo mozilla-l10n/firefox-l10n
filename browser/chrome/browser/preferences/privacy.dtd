@@ -39,8 +39,7 @@
 <!ENTITY  acceptCookies.label           "ছাইটসমূহৰ পৰা কুকি গ্ৰহণ কৰক">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "তৃতিয়-দল কুকিসমূহ গ্ৰহণ কৰক:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+
 <!ENTITY  acceptThirdParty.always.label   "সদায়">
 <!ENTITY  acceptThirdParty.never.label    "কেতিয়াও নহয়">
 <!ENTITY  acceptThirdParty.visited.label  "ভ্ৰমণ কৰা ছাইটসমূহৰ পৰা">
@@ -96,3 +95,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "সংহতিসমূহ…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
+

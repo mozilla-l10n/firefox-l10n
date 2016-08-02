@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "টেব আনপিন কৰক">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "নতুন উইন্ডোলে যাওক">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "সকলো টেব পত্ৰচিহ্ন কৰক…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "সকলো টেব দেখুৱাওক">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; লৈ ছাইন ইন কৰক">
 
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; লৈ পুনৰ সংযোগ কৰক">
@@ -134,6 +141,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "পূৰ্ণপৰ্দা ত্যাগ কৰক">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "উইন্ডো বন্ধ কৰক">
 <!ENTITY closeWindow.accesskey "d">
@@ -737,12 +753,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "ডেস্কটপ অধিসূচনাসমূহ দেখুৱাওক">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "<label/> ৰ পৰা সেৱাসমূহ সামৰ্থবান কৰা হৈছে। আপুনি সেৱাসমূহৰ বাবে আপোনাৰ সংহতিসমূহক <label class='text-link'>Add-on Manager</label> ত সলনি কৰিব পাৰিব।">
-<!ENTITY social.activated.undo.label "ইচ্ছ, ইয়াক বাতিল কৰক!">
-<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "অধিক জানক…">
 <!ENTITY social.learnMore.accesskey "L">
-<!ENTITY social.closeNotificationItem.label "এতিয়া নহয়">
 
 <!ENTITY social.directory.label "সক্ৰিয়কৰণ ডাইৰেকটৰি">
 <!ENTITY social.directory.text "আপুনি ডাইৰেকটৰিৰ পৰা অংশীদাৰী সেৱাসমূহ সক্ৰিয় কৰিব পাৰিব।">

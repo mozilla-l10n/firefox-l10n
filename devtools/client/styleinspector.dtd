@@ -30,7 +30,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "কোনো CSS বৈশিষ্ট পোৱা নগল।">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "গণনা কৰা আছে">
-<!ENTITY ruleViewTitle         "নিয়মসমূহ">

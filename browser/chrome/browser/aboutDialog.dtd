@@ -64,6 +64,7 @@
 <!ENTITY update.adminDisabled       "আপডেইটসমূহ আপোনাৰ চিস্টেম ব্যৱস্থাপকৰ দ্বাৰা অসামৰ্থবান কৰি থোৱা হৈছে">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; ক অন্য এটা উদাহৰণ দ্বাৰা আপডেইট কৰা হৈ আছে">
+
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download

@@ -35,10 +35,6 @@
 <!ENTITY warning.updatesecurity.label              "এড-অন আপডেইট সুৰক্ষা নীৰিক্ষণ অসামৰ্থবান কৰা আছে। আপুনি আপডেইটসমূহৰে আপোচ কৰিব লগিয়া হব পাৰে।">
 <!ENTITY warning.updatesecurity.enable.label       "সামৰ্থবান কৰক">
 <!ENTITY warning.updatesecurity.enable.tooltip     "এড-অন আপডেইট সুৰক্ষা নীৰিক্ষণ সামৰ্থবান কৰক">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "আপোনাৰ প্লাগিনসমূহ বৰ্তমান তাৰিখলে উন্নত নে চাবলে নীৰিক্ষণ কৰক">
-<!ENTITY info.plugincheck.tooltip               "আপোনাৰ প্লাগিনসমূহ বৰ্তমান তাৰিখলে উন্নত নে চাবলে নীৰিক্ষণ কৰক">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "এড-অনসমূহ প্ৰাপ্ত কৰক">
 <!ENTITY view.recentUpdates.label             "শেহতীয়া আপডেইটসমূহ">
