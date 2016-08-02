@@ -45,9 +45,11 @@
 <!ENTITY  bookmarks_title "Marque-pages">
 <!ENTITY bookmark_remove "Supprimer le marque-page">
 <!ENTITY  history_title "Historique">
-<!ENTITY  recent_tabs_title "Onglets récents">
 
 <!ENTITY  switch_to_tab "Aller à l’onglet">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Affichage de la version hors connexion">
 
 <!ENTITY  crash_reporter_title "Rapport de plantage de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; a rencontré un problème et a planté. Vos onglets devraient apparaître sur la page de démarrage de &brandShortName; à son prochain démarrage.">
@@ -265,6 +267,20 @@
 <!ENTITY pref_whats_new_notification "Nouveautés de &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Découvrir les nouvelles fonctionnalités après une mise à jour">
 
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!ENTITY pref_category_experimental "Fonctionnalités expérimentales">
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "Onglets personnalisés">
+<!ENTITY pref_custom_tabs_summary "Autoriser les applications tierces à ouvrir des adresses web avec une apparence personnalisée.">
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Flux d’activité">
+<!ENTITY pref_activity_stream_summary "Un historique visuel et une page d’accueil repensée vous permettent de trouver plus facilement ce que vous recherchez dans &brandShortName;.">
+
 <!ENTITY tracking_protection_prompt_title "Désormais avec protection contre le pistage">
 <!ENTITY tracking_protection_prompt_text "Les éléments pouvant pister votre navigation sont bloqués afin que vous n’ayez pas à vous en préoccuper.">
 <!ENTITY tracking_protection_prompt_tip_text "Consultez les paramètres de vie privée pour en savoir plus.">
@@ -373,6 +389,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Onglets synchronisés">
 
 <!ENTITY pref_default_browser "Définir comme navigateur par défaut">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Consulter l’assistance de Mozilla">
 <!ENTITY pref_about_firefox "À propos de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Donner votre avis">
@@ -561,10 +578,12 @@ size. -->
 <!ENTITY home_clear_history_button "Effacer l’historique de navigation">
 <!ENTITY home_clear_history_confirm "Voulez-vous vraiment effacer votre historique ?">
 <!ENTITY home_bookmarks_empty "Les marque-pages enregistrés s’affichent ici.">
-<!ENTITY home_closed_tabs_title "Onglets récemment fermés">
-<!ENTITY home_last_tabs_title "Onglets de la session précédente">
+<!ENTITY home_closed_tabs_title2 "Récemment fermés">
 <!ENTITY home_last_tabs_empty "Les onglets de la session précédente s’affichent ici.">
-<!ENTITY home_open_all "Tout ouvrir">
+<!ENTITY home_restore_all "Tout restaurer">
+<!ENTITY home_closed_tabs_number "&formatD; onglets">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 onglet">
 <!ENTITY home_most_recent_empty "Les sites récemment visités s’affichent ici.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -616,7 +635,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Connexion sécurisée">
 <!ENTITY identity_connection_insecure "Connexion non sécurisée">
-<!ENTITY identity_login_insecure "Cette page n’est pas sécurisée et votre identifiant pourrait être vulnérable.">
 <!ENTITY identity_connection_chromeui "Ceci est une page sécurisée de &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
