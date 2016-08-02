@@ -41,8 +41,7 @@
 <!ENTITY  acceptCookies.label           "Cho phép cookie từ các trang">
 <!ENTITY  acceptCookies.accesskey       "C">
 
-<!ENTITY  acceptThirdParty.pre.label      "Cho phép cookie từ bên thứ ba:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+
 <!ENTITY  acceptThirdParty.always.label   "Luôn luôn">
 <!ENTITY  acceptThirdParty.never.label    "Không bao giờ">
 <!ENTITY  acceptThirdParty.visited.label  "Từ các trang đã truy cập">
@@ -99,3 +98,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Thiết lập…">
 <!ENTITY  clearOnCloseSettings.accesskey "p">
+
+
+
+
