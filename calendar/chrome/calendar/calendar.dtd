@@ -57,7 +57,7 @@
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Sorteren op tijd tot einddatum">
 <!ENTITY calendar.unifinder.close.tooltip                  "Gebeurtenissen zoeken en gebeurtenissenlijst sluiten">
 
-<!ENTITY calendar.today.button.tooltip          "Naar Vandaag gaan" >
+<!ENTITY calendar.today.button.tooltip          "Naar vandaag gaan" >
 <!ENTITY calendar.todaypane.button.tooltip      "Venster Vandaag tonen" >
 
 <!ENTITY calendar.day.button.tooltip            "Wisselen naar dagoverzicht" >
