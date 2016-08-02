@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Hjálpaðu mér út héðan!">
 <!ENTITY safeb.palm.decline.label "Hunsa þessa aðvörun">
-<!ENTITY safeb.palm.reportPage.label "Hvers vegna var lokað á þessa síðu? ">
-<!ENTITY safeb.palm.whyForbidden.label "Hvers vegna var lokað á þessa síðu?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Tilkynna um árásar síðu!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Tilkynnt hefur verið að vefsíðan <span id='unwanted_sitename'/> innihaldi óæskilegan hugbúnaða og hefur því verið lokað á hana samkvæmt á öryggisstillingum þínum.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Síður með óæskilegum hugbúnaði reyna að innsetja hugbúnað á tækið þitt sem getur verið villandi og haft óvænt áhrif á kerfið þitt.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Lokað vefsvæði ">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Lokað hefur verið á vefsíðuna <span id='forbidden_sitename'/> vegna öryggisstillinga frá kerfistjóra.">
