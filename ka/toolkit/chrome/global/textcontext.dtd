@@ -10,8 +10,8 @@
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY undoCmd.label "დაბრუნება">
 <!ENTITY undoCmd.accesskey "U">
-<!ENTITY selectAllCmd.label "სრული მონიშვნა">
-<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY selectAllCmd.label "ყველაფრის მონიშვნა">
+<!ENTITY selectAllCmd.accesskey "ყ">
 <!ENTITY deleteCmd.label "წაშლა">
 <!ENTITY deleteCmd.accesskey "D">
 

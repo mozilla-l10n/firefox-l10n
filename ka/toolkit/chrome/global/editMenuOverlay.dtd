@@ -21,9 +21,9 @@
 <!ENTITY pasteCmd.accesskey        "P">
 <!ENTITY deleteCmd.label           "წაშლა">
 <!ENTITY deleteCmd.accesskey       "D">
-<!ENTITY selectAllCmd.label        "სრული მონიშვნა">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "A">
+<!ENTITY selectAllCmd.label        "ყველაფრის მონიშვნა">
+<!ENTITY selectAllCmd.key          "ყ">
+<!ENTITY selectAllCmd.accesskey    "ყ">
 <!ENTITY findCmd.label             "ძიება">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

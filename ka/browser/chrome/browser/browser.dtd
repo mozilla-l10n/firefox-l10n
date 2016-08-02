@@ -299,8 +299,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.label          "წაშლა">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "წ"> 
-<!ENTITY selectAllCmd.label         "სრული მონიშვნა">  
-<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.label         "ყველაფრის მონიშვნა">  
+<!ENTITY selectAllCmd.key         "ყ">  
 <!ENTITY selectAllCmd.accesskey       "მ"> 
 <!ENTITY preferencesCmd2.label       "პარამეტრები">
 <!ENTITY preferencesCmd2.accesskey     "პ">
@@ -616,7 +616,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "აღდგენა">
+<!ENTITY fullZoomResetCmd.label         "ჩვეულებრივი">
 <!ENTITY fullZoomResetCmd.accesskey     "ა">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
