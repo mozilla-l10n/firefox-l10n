@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "A kiegészítők biztonsági vizsgálata tiltva van. A frissítések biztonsági kockázatot hordoznak.">
 <!ENTITY warning.updatesecurity.enable.label       "Engedélyezés">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Kiegészítők frissítésekor a biztonsági ellenőrzés engedélyezése">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Bővítmények frissességének ellenőrzése">
-<!ENTITY info.plugincheck.tooltip               "Bővítmények frissességének ellenőrzése">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Keresés">

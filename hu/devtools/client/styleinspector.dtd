@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "Nincs CSS tulajdonság.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "Számított">
-<!ENTITY ruleViewTitle         "Szabályok">
