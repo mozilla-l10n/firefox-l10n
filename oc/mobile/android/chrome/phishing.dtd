@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Sortir d'aicí !">
 <!ENTITY safeb.palm.decline.label "Ignorar aqueste avertiment">
-<!ENTITY safeb.palm.reportPage.label "Perqué la pagina es blocada ?">
-<!ENTITY safeb.palm.whyForbidden.label "Perqué la pagina es blocada ?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Site d'atac raportat !">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -20,4 +19,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "La pagina web de <span id='unwanted_sitename'/> es estat raportat coma un site d'atac e l'avèm blocat en nos basant sus vòstras preferéncias de seguretat.">
 
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
