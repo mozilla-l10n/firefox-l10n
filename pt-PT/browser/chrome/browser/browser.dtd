@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Mostrar todos os separadores">
 <!ENTITY showAllTabsCmd.accesskey "t">
-
+<!ENTITY toggleReaderMode.key "L">
 
 <!ENTITY fxaSignIn.label "Iniciar sessão no &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Abrir as preferências do &syncBrand.shortName.label;">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "OK">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ligação segura">
 <!ENTITY identity.connectionNotSecure "Ligação não segura">
