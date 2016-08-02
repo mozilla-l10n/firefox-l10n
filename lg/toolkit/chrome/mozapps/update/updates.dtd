@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Okukebera ku by'okuzza Obugya">
 <!ENTITY  updateCheck.label               "Okunoonya ebika ebiggya bya &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Ezudde eby'Okuyingizaamu Ebiggya">
-<!ENTITY  pluginupdatesfound.label        "Ebika ebippya ebikwata ku by'okuyingizaamu bizuuliddwa.">
-<!ENTITY  pluginupdateslink.label         "Laba engeri gy'oyinza okuzza obuggya eby'okuyingizaamu.">
-
 <!ENTITY  noupdatesfound.title            "Tewali Kuzza Bugya Kuzuuliddwa">
 <!ENTITY  noupdatesautoenabled.intro      "Tewali bizza bugya bipya kati. &brandShortName; oyinza okukebera mukiseera ekigere ebizza obugya ebipya.">
 <!ENTITY  noupdatesautodisabled.intro     "Tewali bya kuzza buggya biriwo. Bambi ddamu ogezeeko eddakko oba lagira  &brandShortName; ekole okunoonya okwo.">

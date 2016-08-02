@@ -36,6 +36,12 @@ can reach it easily. -->
 
 <!ENTITY  unpinTab.label                     "Taggululako Tabu">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Teeka mu Ddirisa ppya">
 <!ENTITY  moveToNewWindow.accesskey          "D">
 
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY fullScreenMinimize.tooltip "Funza">
 <!ENTITY fullScreenRestore.tooltip "Zzawo">
 
@@ -127,6 +134,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "Fuluma Sikulini Enzijjuvu">
 <!ENTITY leaveDOMFullScreen.accesskey "E">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Ggalawo Endirisa">
 <!ENTITY closeWindow.accesskey "i">
@@ -707,10 +723,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.ok.label       "Kaale">
 <!ENTITY social.ok.accesskey   "K">
-
-
-
-
 
 
 
