@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ટૅબ છોડો">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "નવી વિન્ડોમાં ખસેડો">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "બધા ટૅબને બુકમાર્ક કરો…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "બધા ટૅબને બતાવો">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; માં પ્રવેશો">
 
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; સાથે પુન:જોડાવો">
@@ -134,6 +141,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "પૂર્ણ સ્ક્રીનમાંથી બહાર નીકળો">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "વિન્ડો બંધ કરો">
 <!ENTITY closeWindow.accesskey "d">
@@ -647,7 +663,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "પૂર્ણ થયું">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 
 
@@ -729,12 +745,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "ડેસ્કટોપ સૂચનો બતાવો">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "<label/> માંથી સેવાઓને સક્રિય કરી દેવામાં આવ્યુ છે. તમે <label class='text-link'>ઍડ-ઓન સંચાલક</label> માં સેવાઓ માટે તમારાં સેટીંગને બદલી શકો છો.">
-<!ENTITY social.activated.undo.label "અરે, આને ફરી પાછુ લાવો!">
-<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "વધારે શીખો…">
 <!ENTITY social.learnMore.accesskey "L">
-<!ENTITY social.closeNotificationItem.label "અત્યારે નહિં">
 
 
 
