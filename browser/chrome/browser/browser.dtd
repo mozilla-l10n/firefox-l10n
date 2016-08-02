@@ -43,6 +43,12 @@ can reach it easily. -->
 
 
 
+
+
+
+
+
+
 <!ENTITY tabCmd.label "Agafishi Gashya">
 <!ENTITY tabCmd.accesskey "f">
 
@@ -99,6 +105,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY fullScreenMinimize.tooltip "Kugabanya ingano">
 <!ENTITY fullScreenRestore.tooltip "Kugaruraho">
 
@@ -119,6 +126,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
+
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
 
 
 
@@ -648,10 +664,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-
-
-
-
 
 
 
