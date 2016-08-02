@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "การตรวจสอบความปลอดภัยของการปรับรุ่นส่วนเสริมถูกปิดไว้ คุณอาจถูกรุกล้ำความปลอดภัยจากการปรับรุ่นส่วนเสริม">
 <!ENTITY warning.updatesecurity.enable.label       "เปิดใช้งาน">
 <!ENTITY warning.updatesecurity.enable.tooltip     "เปิดใช้งานการตรวจสอบความปลอดภัยของการปรับรุ่นส่วนเสริม">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "ตรวจสอบว่าโปรแกรมเสริมของคุณปรับรุ่นแล้วหรือยัง">
-<!ENTITY info.plugincheck.tooltip               "ตรวจสอบว่าโปรแกรมเสริมของคุณเป็นรุ่นล่าสุดแล้วหรือยัง">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "ค้นหา">

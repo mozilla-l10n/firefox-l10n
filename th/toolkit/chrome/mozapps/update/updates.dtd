@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "ตรวจหาการปรับรุ่น">
 <!ENTITY  updateCheck.label               "กำลังตรวจหา &brandShortName; รุ่นใหม่…">
 
-<!ENTITY  pluginupdatesfound.title        "พบการปรับรุ่นของส่วนเสริม">
-<!ENTITY  pluginupdatesfound.label        "พบการปรับรุ่นของส่วนเสริมส่วนหนึ่งของคุณ">
-<!ENTITY  pluginupdateslink.label         "ดูวิธีการปรับรุ่นโปรแกรมเสริมของคุณ">
-
 <!ENTITY  noupdatesfound.title            "ไม่พบการปรับรุ่น">
 <!ENTITY  noupdatesautoenabled.intro      "ไม่พบการปรับรุ่นใหม่ &brandShortName; จะตรวจหาการปรับรุ่นเป็นระยะ">
 <!ENTITY  noupdatesautodisabled.intro     "ไม่พบการปรับรุ่นใหม่ โปรดตรวจสอบอีกครั้งในภายหลัง หรือเปิดใช้การตรวจหาการปรับรุ่นอัตโนมัติของ &brandShortName;">

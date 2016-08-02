@@ -33,6 +33,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  เธรดที่ค้าง">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  ฮิสโทแกรม">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">

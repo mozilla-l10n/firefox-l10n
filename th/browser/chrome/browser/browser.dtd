@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "ป">
 <!ENTITY  unpinTab.label                     "ถอดหมุดแท็บ">
 <!ENTITY  unpinTab.accesskey                 "บ">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "ย้ายไปหน้าต่างใหม่">
 <!ENTITY  moveToNewWindow.accesskey          "ป">
 <!ENTITY  bookmarkAllTabs.label              "คั่นแท็บทั้งหมด…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "แสดงแท็บทั้งหมด">
 <!ENTITY showAllTabsCmd.accesskey "ม">
 
+
 <!ENTITY fxaSignIn.label "ลงชื่อเข้าใช้ &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "เปิดการตั้งค่า &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "เชื่อมต่อกับ &syncBrand.shortName.label; ใหม่">
@@ -131,10 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY exitDOMFullscreen.button "ออกจากการแสดงผลเต็มจอ (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "ออกจากการแสดงผลเต็มจอ (esc)">
 <!ENTITY leaveDOMFullScreen.label "ออกจากการแสดงผลเต็มจอ">
 <!ENTITY leaveDOMFullScreen.accesskey "ม">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "ปิดหน้าต่าง">
 <!ENTITY closeWindow.accesskey "ด">
@@ -456,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ท">
 <!ENTITY openFrameCmd.label           "เปิดกรอบในหน้าต่างใหม่">
 <!ENTITY openFrameCmd.accesskey       "น">
-<!ENTITY openLinkCmdInContainerTab.label "เปิดลิงก์ในแท็บคอนเทนเนอร์ใหม่">
-<!ENTITY openLinkCmdInContainerTab.accesskey "ค">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "แสดงเฉพาะกรอบนี้">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ส">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -676,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "พ">
 
 <!ENTITY editBookmark.done.label                     "เสร็จสิ้น">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "การเชื่อมต่อปลอดภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่ปลอดภัย">
@@ -772,12 +789,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "แสดงการแจ้งเตือนเดสก์ท็อป">
 <!ENTITY social.toggleNotifications.accesskey "ต">
 
-<!ENTITY social.activated.description "บริการจาก<label/>ถูกเปิดใช้งานแล้ว คุณสามารถเปลี่ยนแปลงการตั้งค่าของบริการใน<label class='text-link'>ตัวจัดการส่วนเสริม</label>">
-<!ENTITY social.activated.undo.label "อุปส์ เลิกทำสิ่งนี้!">
-<!ENTITY social.activated.undo.accesskey "เ">
 <!ENTITY social.learnMore.label "เรียนรู้เพิ่มเติม…">
 <!ENTITY social.learnMore.accesskey "ร">
-<!ENTITY social.closeNotificationItem.label "ไม่ใช่ตอนนี้">
 
 <!ENTITY social.directory.label "ไดเรกทอรีการเปิดใช้งาน">
 <!ENTITY social.directory.text "คุณสามารถเปิดใช้งานบริการ Share จากไดเรกทอรี">
