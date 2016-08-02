@@ -16,7 +16,7 @@
 <!ENTITY  generalTab            "Общи">
 <!ENTITY  generalTab.accesskey  "О">
 <!ENTITY  generalURL            "Адрес:">
-<!ENTITY  generalType           "Тип:">
+<!ENTITY  generalType           "Вид:">
 <!ENTITY  generalMode           "Изчертаване:">
 <!ENTITY  generalSize           "Големина:">
 <!ENTITY  generalReferrer       "Препращащ адрес:">
@@ -32,7 +32,7 @@
 <!ENTITY  mediaText             "Описание:">
 <!ENTITY  mediaAltHeader        "Алтернативен текст">
 <!ENTITY  mediaAddress          "Адрес">
-<!ENTITY  mediaType             "Тип">
+<!ENTITY  mediaType             "Вид">
 <!ENTITY  mediaSize             "Големина">
 <!ENTITY  mediaCount            "Брой">
 <!ENTITY  mediaDimension        "Размер:">

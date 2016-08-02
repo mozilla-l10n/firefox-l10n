@@ -49,9 +49,9 @@
 <!ENTITY viewMenu_accesskey "И">
 <!ENTITY viewMenu_toggleEditor_label "Превключване на редактор">
 <!ENTITY viewMenu_toggleEditor_accesskey "П">
-<!ENTITY viewMenu_zoomin_label "Приближаване">
+<!ENTITY viewMenu_zoomin_label "Увеличаване">
 <!ENTITY viewMenu_zoomin_accesskey "П">
-<!ENTITY viewMenu_zoomout_label "Отдалечаване">
+<!ENTITY viewMenu_zoomout_label "Намаляване">
 <!ENTITY viewMenu_zoomout_accesskey "О">
 <!ENTITY viewMenu_resetzoom_label "Нулиране на мащабиране">
 <!ENTITY viewMenu_resetzoom_accesskey "Н">
@@ -159,7 +159,7 @@
 <!ENTITY device_typenumber "Целочислена">
 <!ENTITY device_typestring "Низ">
 <!ENTITY device_typeobject "Обект">
-<!ENTITY device_typenone "Избиране на тип">
+<!ENTITY device_typenone "Избиране на вид">
 
 <!-- Device Preferences -->
 <!ENTITY devicepreference_title "Настройки на устройството">
