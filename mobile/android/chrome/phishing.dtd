@@ -6,7 +6,6 @@
 <!ENTITY safeb.palm.decline.label "এই সকিয়নি আওকাণ কৰক">
 
 
-
 <!ENTITY safeb.blocked.malwarePage.title "প্ৰতিবেদন কৰা আক্ৰমণৰ ছাইট!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> ত থকা ৱেব ছাইট এটা আক্ৰমণৰ ছাইট হিচাপে প্ৰতিবেদন কৰা হৈছে আৰু আপোনাৰ সুৰক্ষাৰ পছন্দৰ মতে ৰোধ কৰা হৈছে।">
@@ -19,4 +18,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> ত অপ্ৰয়োজনীয় ছফ্টৱেৰ থকাৰ কথা প্ৰতিবেদন কৰা হৈছে আৰু আপোনাৰ সুৰক্ষাৰ পছন্দৰ ভিত্তিত প্ৰতিৰোধ কৰা হৈছে।">
 
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
