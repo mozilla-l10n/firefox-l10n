@@ -37,9 +37,9 @@
 
 <!ENTITY  bookmarks_title "Akllashka pankakuna">
 <!ENTITY  history_title "Mawka pankakuna">
-<!ENTITY  recent_tabs_title "Chayra chipiñakuna">
 
 <!ENTITY  switch_to_tab "Trukana chipiñakuna">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "Llankaywillay Witina chay &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; llakita charirka chay manta wicharka. Kanpak chipiñakuna rikuchirinakashka tsirpayupa kallarinapi &brandShortName; kutin kallarinkapak.">
@@ -97,10 +97,9 @@
 <!ENTITY edit_mode_cancel "Tukuchina">
 
 <!ENTITY close_tab "Chipiña Wichkana">
-<!ENTITY one_tab "1 chipiña">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; Chipiñakuna">
 <!ENTITY new_tab_opened "Mushuk chipiña pashkashka">
 <!ENTITY new_private_tab_opened "Ñukapak mushuk chipiña pashkashka">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -260,6 +259,14 @@
 
 <!ENTITY pref_whats_new_notification "Chipiña allichishka kai &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Yachahunki mushukta hipa kunanpayashkapi">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "Kunanka kamachay ama katichun">
 <!ENTITY tracking_protection_prompt_text "Shinshayashka kay nipakuna yupinata ama ñapiyuna kankichuk.">
@@ -371,6 +378,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Chipiñakuna paktañina">
 
 <!ENTITY pref_default_browser "Shinana wampuna shinarishka">
+
 <!ENTITY pref_about_firefox "Chay shimiyarik kay &brandShortName;">
 <!ENTITY pref_vendor_faqs "Ashtawan Tapuykuna">
 <!ENTITY pref_vendor_feedback "Kachana shimirimaykuna">
@@ -556,10 +564,11 @@ size. -->
 <!ENTITY home_clear_history_button "Kichuna mawka pankakuna wampunatak">
 <!ENTITY home_clear_history_confirm "Chikapachachu kuchunata munanki kanpak mawka pankakuna?">
 <!ENTITY home_bookmarks_empty "Akllashka pankakuna kaypi rikuchirinka.">
-<!ENTITY home_closed_tabs_title "Chairaya chipiñakuna wichkashka">
-<!ENTITY home_last_tabs_title "Puchuk chipiñakuna">
+
 <!ENTITY home_last_tabs_empty "Akllashka pankakuna kaypi rikuchirinka.">
-<!ENTITY home_open_all "Tukuyta paskana">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Kuska Web chayra napashamushkakunan kaypi rikuchirinka.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -611,7 +620,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Llamiray allikichina">
 <!ENTITY identity_connection_insecure "Llamiray mana allikichina">
-<!ENTITY identity_login_insecure "Kay panka na alli allikichirinchu chay tachury yanka pakiriklla.">
 <!ENTITY identity_connection_chromeui "Kayta shuk panka kana kay &brandShortName; ">
 <!-- Mixed content notifications in site identity popup -->
 

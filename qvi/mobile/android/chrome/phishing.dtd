@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Kaymanta llukchiway!">
 <!ENTITY safeb.palm.decline.label "Ama rikuychu kay willana">
-<!ENTITY safeb.palm.reportPage.label "Imashpa harkashka kay panka?">
-<!ENTITY safeb.palm.whyForbidden.label "Imashpa harkashka kay panka?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Panka willana hawrayakta!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Kay panka web chay <span id='unwanted_sitename'/> willanashka charimanta software mana alli sinshayashka kanpak munashka allikichinashka.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Pankakuna chay software mana alli munan llamitinkinata software wakllichinata ushanka kanpak llika tawka ñanta.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Kuska Sinshayashka">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Kay panka web chay <span id='forbidden_sitename'/> sinshayashka kanpak perfil kamachikanayta.">
