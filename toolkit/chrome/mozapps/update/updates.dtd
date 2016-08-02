@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Recèrca de mesas a jorn">
 <!ENTITY  updateCheck.label               "Recèrca de version novèlas de &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Mesas a jorn trobadas per d'ajustons">
-<!ENTITY  pluginupdatesfound.label        "Se son trobadas un version mai recenta d'un o mai ajustons.">
-<!ENTITY  pluginupdateslink.label         "Veire cossí metre a jorn vòstres ajustons.">
-
 <!ENTITY  noupdatesfound.title            "Cap de mesa a jorn pas trobada">
 <!ENTITY  noupdatesautoenabled.intro      "I a pas cap de mesa a jorn disponibla. &brandShortName; verificarà regularament se n'ia.">
 <!ENTITY  noupdatesautodisabled.intro     "I a pas cap de mesa a jorn disponibla. Tornatz verificar tornarmai pus tard, o activatz la verificacion de mesa de jorn automatica de &brandShortName;.">

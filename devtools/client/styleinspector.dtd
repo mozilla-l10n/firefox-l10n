@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "Cap de proprietat CSS es pas estada trobada.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "Calcultat">
-<!ENTITY ruleViewTitle         "Règlas">
