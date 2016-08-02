@@ -19,6 +19,7 @@
 <!ENTITY playSound1.accesskey              "з">
 <!ENTITY showAnimatedAlert.label          "Показувати сповіщення">
 <!ENTITY showAnimatedAlert.accesskey      "с">
+<!ENTITY notificationAlertSettings.label  "Попередження можна вимкнути в розділі сповіщень системних налаштувань.">
 <!ENTITY customizeMailAlert.label         "Налаштувати…">
 <!ENTITY customizeMailAlert.accesskey     "л">
 
