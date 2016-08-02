@@ -39,8 +39,7 @@
 <!ENTITY  acceptCookies.label           "Çerezên Malperan Bipejirîne">
 <!ENTITY  acceptCookies.accesskey       "e">
 
-<!ENTITY  acceptThirdParty.pre.label      "Çerezên partiya sêyemîn qebûl bike:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "e">
+
 <!ENTITY  acceptThirdParty.always.label   "Her tim">
 <!ENTITY  acceptThirdParty.never.label    "Qet">
 <!ENTITY  acceptThirdParty.visited.label  "Ji yên serdankirî">
@@ -96,3 +95,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Mîheng…">
 <!ENTITY  clearOnCloseSettings.accesskey "M">
+
+
+
+

@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "H">
 <!ENTITY  unpinTab.label                     "Hilpekînê nesabît bike">
 <!ENTITY  unpinTab.accesskey                 "i">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Biguheze pencereyeke din">
 <!ENTITY  moveToNewWindow.accesskey          "B">
 
@@ -104,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Hemû Hilpekînan Nîşan Bide">
 <!ENTITY showAllTabsCmd.accesskey "a">
 
+
 <!ENTITY fxaSignIn.label "Danişîna &syncBrand.shortName.label;ê veke">
 
 <!ENTITY fxaSignInError.label "Dîsa têkeve &syncBrand.shortName.label;ê">
@@ -132,6 +139,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "Ji moda Dîmender Tijî derkeve">
 <!ENTITY leaveDOMFullScreen.accesskey "m">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Pencereyê Bigire">
 <!ENTITY closeWindow.accesskey "P">
@@ -730,12 +746,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Danezanên sermaseyê nîşan bide">
 <!ENTITY social.toggleNotifications.accesskey "D">
 
-<!ENTITY social.activated.description "Servîsên <label/>ê hatin çalakirin. Dikarî eyarên servîsan di <label class='text-link'>Birêveberiya Add-onan</label> de biguherînî.">
-<!ENTITY social.activated.undo.label "Hahoo, vê vegerîne!">
-<!ENTITY social.activated.undo.accesskey "v">
 <!ENTITY social.learnMore.label "Zêdetir bizane…">
 <!ENTITY social.learnMore.accesskey "Z">
-<!ENTITY social.closeNotificationItem.label "Ne niha">
 
 
 
