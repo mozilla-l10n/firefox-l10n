@@ -4,7 +4,6 @@
 
 <!ENTITY safeb.palm.accept.label "យក​ខ្ញុំ​ចេញ​ពី​ទីនេះ!">
 <!ENTITY safeb.palm.decline.label "មិន​អើពើ​ការ​ព្រមាន​នេះ">
-<!ENTITY safeb.palm.reportPage.label "ហេតុអ្វី​បាន​ជា​ទំព័រ​នេះ​ត្រូវបាន​ទប់ស្កាត់?">
 
 
 <!ENTITY safeb.blocked.malwarePage.title "បាន​រាយការ​ទំព័រ​វាយប្រហារ !">
@@ -22,5 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "ទំព័រ​បណ្ដាញ​នេះ​នៅ <span id='unwanted_sitename'/> ត្រូវ​បាន​រាយការណ៍​ថា​មាន​កម្មវិធី​ដែល​មិន​ចង់​បាន និង​ត្រូវ​បាន​ទប់ស្កាត់​​អាស្រ័យ​​តាម​ចំណូលចិត្ត​សុវត្ថិភាព​របស់​អ្នក។">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "ទំព័រ​កម្មវិធី​ដែល​មិន​ចង់​បាន​​ព្យាយាម​ដំឡើង​កម្មវិធី​ដែល​អាច​ឆបោក និង​ប៉ះពាល់​ប្រព័ន្ធ​របស់​អ្នក​តាម​មធ្យោបាយ​ដែល​មិន​នឹក​​ស្មាន​ដល់។">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "វេបសាយ​ដែល​បាន​ទប់ស្កាត់">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

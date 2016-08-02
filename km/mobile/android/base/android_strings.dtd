@@ -38,9 +38,9 @@
 
 <!ENTITY  bookmarks_title "ចំណាំ">
 <!ENTITY  history_title "ប្រវត្តិ">
-<!ENTITY  recent_tabs_title "ផ្ទាំង​ថ្មីៗ">
 
 <!ENTITY  switch_to_tab "ប្ដូរ​ទៅ​ផ្ទាំង">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "កម្មវិធី​រាយការណ៍​កំហុស​របស់ &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; មាន​បញ្ហា និង​​​គាំង។ ផ្ទាំង​របស់​អ្នក​គួរតែ​បាន​រាយ​នៅ​លើ​ទំព័រ​ចាប់ផ្ដើម​របស់ &brandShortName; ពេល​អ្នក​ចាប់ផ្ដើម​ឡើងវិញ។">
@@ -95,10 +95,9 @@
 <!ENTITY edit_mode_cancel "បោះបង់">
 
 <!ENTITY close_tab "បិទ​ផ្ទាំង">
-<!ENTITY one_tab "ផ្ទាំង ១">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "ផ្ទាំង &formatD;">
 <!ENTITY new_tab_opened "បាន​បើក​ផ្ទាំង​ថ្មី">
 <!ENTITY new_private_tab_opened "បាន​បើក​ផ្ទាំង​ឯកជន​ថ្មី">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -242,6 +241,14 @@
 
 
 
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "ឥឡូវ​ដោយ​​​ប្រើ​ការ​ទប់ស្កាត់​ការ​តាមដាន">
 <!ENTITY tracking_protection_prompt_text "បិទ​ធាតុ​តាមដាន​ដែល​សកម្ម​ ដូច្នេះ​អ្នក​មិន​ត្រូវ​បារម្ភ​ទេ។">
@@ -344,6 +351,7 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "ការ​កំណត់​តំបន់បណ្ដាញ">
 <!ENTITY pref_private_data_downloadFiles2 "ទាញ​យក">
 <!ENTITY pref_private_data_syncedTabs "ផ្ទាំង​​បាន​ធ្វើ​សមកាលកម្ម">
+
 
 <!ENTITY pref_about_firefox "អំពី &brandShortName;">
 <!ENTITY pref_vendor_faqs "សំណួរ​ដែល​សួរ​រឿយៗ">
@@ -525,10 +533,11 @@ size. -->
 <!ENTITY home_clear_history_button "សម្អាត​ប្រវត្តិ​រុករក">
 <!ENTITY home_clear_history_confirm "តើ​អ្នក​ពិតជា​ចង់​សម្អាត​ប្រវត្តិ​របស់​អ្នក​មែនឬ?">
 <!ENTITY home_bookmarks_empty "ចំណាំ​ដែល​អ្នក​បាន​រក្សាទុក​គឺ​បង្ហាញ​នៅ​ទីនេះ។">
-<!ENTITY home_closed_tabs_title "ផ្ទាំង​បាន​បិទ​ថ្មីៗ">
-<!ENTITY home_last_tabs_title "ផ្ទាំង​ពី​ពេល​ចុងក្រោយ">
+
 <!ENTITY home_last_tabs_empty "ផ្ទាំង​បច្ចុប្បន្ន​របស់​អ្នក​បង្ហាញ​នៅ​ទីនេះ។">
-<!ENTITY home_open_all "បើក​ទាំងអស់">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "តំបន់បណ្ដាញ​ដែល​អ្នក​បាន​ទស្សនា​ថ្មីៗ​បំផុត បង្ហាញ​នៅ​ទីនេះ។">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -577,7 +586,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "ការ​ភ្ជាប់​ដោយ​សុវត្ថិភាព">
 <!ENTITY identity_connection_insecure "ការ​ភ្ជាប់​ដោយ​សុវត្ថិភាព">
-
 
 <!-- Mixed content notifications in site identity popup -->
 
