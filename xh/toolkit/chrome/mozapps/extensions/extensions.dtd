@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Uhlaziyo lwesongezelelo sokukhangela ukhuseleko luqhwalelisiwe. Ungahlangatyezwa luhlaziyo.">
 <!ENTITY warning.updatesecurity.enable.label       "Vumela">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Vumela uhlaziyo lwesongezelelo sokukhangela ukhuseleko">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Khangela ukuba zihlaziyiwe na iisoftwe ezincedisayo">
-<!ENTITY info.plugincheck.tooltip               "Khangela ukuba zihlaziyiwe na iisoftwe ezincedisayo">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Khangela">
