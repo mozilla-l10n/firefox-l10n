@@ -1,10 +1,10 @@
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
-<!ENTITY inspectorRemoveAttribute.label        "Remover atributo">
+<!ENTITY inspectorRemoveAttribute.label        "Remover el atributo">
 <!ENTITY inspectorRemoveAttribute.accesskey    "R">
 
-<!ENTITY inspector.selectButton.tooltip     "Seleccionar elemento con el mouse">
+<!ENTITY inspector.selectButton.tooltip     "Seleccionar un elemento con el mouse">
 
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that is
      shown as the placeholder for the markup view search in the inspector. -->
@@ -19,3 +19,4 @@
 
 <!-- LOCALIZATION NOTE (inspectorEyeDropper.label): A string displayed as the tooltip of
      a button in the inspector which toggles the Eyedropper tool -->
+<!ENTITY inspectorEyeDropper.label       "Tomar un color desde la página">
