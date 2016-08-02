@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label "Klausti, kur įrašyti kiekvieną atsiunčiamą failą">
 <!ENTITY alwaysAsk.accesskey "K">
 
-<!ENTITY alwaysCheckDefault2.label        "Visada tikrinti, ar „&brandShortName;“ yra jūsų numatytoji naršyklė">
-<!ENTITY alwaysCheckDefault2.accesskey    "d">
+
 <!ENTITY setAsMyDefaultBrowser2.label     "Padaryti numatytąja">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "n">
 <!ENTITY isDefault.label                  "„&brandShortName;“ šiuo metu yra numatytoji naršyklė">

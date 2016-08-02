@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "s">
 <!ENTITY  unpinTab.label                     "Išsegti kortelę">
 <!ENTITY  unpinTab.accesskey                 "s">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Perkelti į naują langą">
 <!ENTITY  moveToNewWindow.accesskey          "l">
 <!ENTITY  bookmarkAllTabs.label              "Įrašyti į adresyną visas korteles…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Rodyti visas korteles">
 <!ENTITY showAllTabsCmd.accesskey "k">
 
+
 <!ENTITY fxaSignIn.label "Jungtis prie „&syncBrand.shortName.label;“">
 <!ENTITY fxaSignedIn.tooltip "Atverti „&syncBrand.shortName.label;“ nuostatas">
 <!ENTITY fxaSignInError.label "Iš naujo jungtis prie „&syncBrand.shortName.label;“">
@@ -131,10 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY exitDOMFullscreen.button "Grįžti iš viso ekrano (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Grįžti iš viso ekrano (esc)">
 <!ENTITY leaveDOMFullScreen.label "Grįžti iš viso ekrano">
 <!ENTITY leaveDOMFullScreen.accesskey "G">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Užverti langą">
 <!ENTITY closeWindow.accesskey "g">
@@ -456,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "k">
 <!ENTITY openFrameCmd.label           "Atverti kadrą naujame lange">
 <!ENTITY openFrameCmd.accesskey       "l">
-<!ENTITY openLinkCmdInContainerTab.label "Atverti saitą naujoje sudėtinėje kortelėje">
-<!ENTITY openLinkCmdInContainerTab.accesskey "s">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Rodyti tik šį kadrą">
 <!ENTITY showOnlyThisFrameCmd.accesskey "t">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -676,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "D">
 
 <!ENTITY editBookmark.done.label                     "Įrašyti">
-<!ENTITY editBookmark.removeBookmark.accessKey       "š">
+
 
 <!ENTITY identity.connectionSecure "Saugus ryšys">
 <!ENTITY identity.connectionNotSecure "Ryšys nėra saugus">
@@ -772,12 +789,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Rodyti pranešimus">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Tarnybos „<label/>“ paslaugos įgalintos. Tarnybų nuostatas galite pakeisti <label class='text-link'>Priedų tvarkytuvėje</label>.">
-<!ENTITY social.activated.undo.label "Atšaukti">
-<!ENTITY social.activated.undo.accesskey "š">
 <!ENTITY social.learnMore.label "Išsamiau…">
 <!ENTITY social.learnMore.accesskey "I">
-<!ENTITY social.closeNotificationItem.label "Ne dabar">
 
 <!ENTITY social.directory.label "Aktyvinimų aplankas">
 <!ENTITY social.directory.text "Dalinimosi tarnybas galite aktyvinti iš aplanko.">
