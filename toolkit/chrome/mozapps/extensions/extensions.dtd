@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Sikkerhetskontroll av utvidelsesoppdateringer er avslått. Sikkerheten din kan bli satt i fare av oppdateringer.">
 <!ENTITY warning.updatesecurity.enable.label       "Slå på">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Slå på sikkerhetskontroll av utvidelsesoppdateringer">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Kontroller om programtillegg er oppdaterte">
-<!ENTITY info.plugincheck.tooltip               "Kontroller om programtillegg er oppdaterte">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Søk">

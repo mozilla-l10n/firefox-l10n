@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "Åpne nye vinduer som faner isteden">
-<!ENTITY newWindowsAsTabs.accesskey   "e">
+
+
 
 <!ENTITY warnCloseMultipleTabs.label  "Advar ved lukking av flere faner">
 <!ENTITY warnCloseMultipleTabs.accesskey  "A">
