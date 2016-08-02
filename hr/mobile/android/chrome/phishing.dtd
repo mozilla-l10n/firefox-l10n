@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Makni me odavdje!">
 <!ENTITY safeb.palm.decline.label "Zanemari ovo upozorenje">
-<!ENTITY safeb.palm.reportPage.label "Zašto je ova stranica blokirana?">
-<!ENTITY safeb.palm.whyForbidden.label "Zašto je ova stranica blokirana?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Prijavljena zloćudna stranica!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Web stranica <span id='unwanted_sitename'/> je prijavljena kao nesigurna stranica i blokirana je na temelju vaših sigurnosnih postavki.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Nesigurne stranice pokušavaju instalirati programe koju su zavaravajući i mogu utjecati na vaš sustav na neočekivane načine.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Blokirana stranica">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Web stranica <span id='forbidden_sitename'/> je blokirana od strane vašeg administratorskog profila.">
