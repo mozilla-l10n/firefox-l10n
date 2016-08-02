@@ -44,9 +44,9 @@
 
 <!ENTITY  bookmarks_title "Yakäl taq etal">
 <!ENTITY  history_title "Natab\u0027äl">
-<!ENTITY  recent_tabs_title "K\u0027ak\u0027a\u0027 taq Tabs">
 
 <!ENTITY  switch_to_tab "Tiq\u0027asäx pa ri ruwi\u0027">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "Rutzijol taq rusachoj &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; xuk\u0027ulwachij jun k\u0027ayewal ruma ri\u0027 xutz\u0027apij ri\u0027. Ri taq awi\u0027 yeq\u0027alajin ta ri\u0027 pa ri Tikirib\u0027al ruxaq ri &brandShortName; toq nutikirisaj chik el ri\u0027.">
@@ -106,10 +106,9 @@
 <!ENTITY edit_mode_cancel "Jumul tiq\u0027at">
 
 <!ENTITY close_tab "Titz\u0027apïx ruwi\u0027">
-<!ENTITY one_tab "1 ruwi\u0027">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; taq ruwi\u0027">
 <!ENTITY new_tab_opened "K\u0027ak\u0027a\u0027 ruwi\u0027 jaqon">
 <!ENTITY new_private_tab_opened "K\u0027ak\u0027a\u0027 ichinan ruwi\u0027 jaqon">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -269,6 +268,14 @@
 
 <!ENTITY pref_whats_new_notification "Achike ri k\u0027ak\u0027a\u0027 k\u0027o pa &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Tawetamaj ri k\u0027ak\u0027a\u0027 taq samaj chi rij jun k\u0027exoj ruwäch">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "Wakami rik\u0027in chajinem chuwäch kanoxïk">
 <!ENTITY tracking_protection_prompt_text "Q\u0027aton wakami ruch\u0027akulal kanoxïk, ruma ri\u0027 majun achike tamäy.">
@@ -382,6 +389,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Ximon taq ruwi\u0027">
 
 <!ENTITY pref_default_browser "Tib\u0027an chi tok jun okik\u0027amaya\u0027l ri kan ruk\u0027amon wi pe">
+
 <!ENTITY pref_about_firefox "Rutzijol &brandShortName;">
 <!ENTITY pref_vendor_faqs "Junelïk taq k\u0027utunïk">
 <!ENTITY pref_vendor_feedback "Titaq na\u0027oj">
@@ -570,10 +578,11 @@ size. -->
 <!ENTITY home_clear_history_button "Tiyuj el runatab\u0027al ri okik\u0027amaya\u0027l">
 <!ENTITY home_clear_history_confirm "¿La kan nawajo\u0027 nayüj el rupam ri natab\u0027äl?">
 <!ENTITY home_bookmarks_empty "Ri taq yakäl etal xe\u0027aköl, xkeq\u0027alajin pe wawe\u0027.">
-<!ENTITY home_closed_tabs_title "K\u0027ak\u0027a\u0027 taq ruwi\u0027 etz\u0027apin">
-<!ENTITY home_last_tabs_title "Taq ruwi\u0027 richin ri ruk\u0027isib\u0027äl mul">
+
 <!ENTITY home_last_tabs_empty "Ri k\u0027ak\u0027a\u0027 taq ruwi\u0027 awichin, xkeq\u0027alajin pe wawe\u0027.">
-<!ENTITY home_open_all "Kejaq konojel">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Ri taq ruxaq k\u0027amaya\u0027l k\u0027ak\u0027a\u0027 kitz\u0027etik, xekeq\u0027alajin pe wawe\u0027.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +634,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ütz okem">
 <!ENTITY identity_connection_insecure "Man ütz ta chi okem">
-<!ENTITY identity_login_insecure "Man ütz ta re ruxaq wuj re\u0027 ruma ri\u0027 ri atikirisaxik pa moloj rik\u0027in jub\u0027a\u0027 xtuya\u0027 k\u0027ayewal.">
 <!ENTITY identity_connection_chromeui "Re re\u0027 jun ütz ruxaq k\u0027amaya\u0027l richin &brandShortName;">
 <!-- Mixed content notifications in site identity popup -->
 
