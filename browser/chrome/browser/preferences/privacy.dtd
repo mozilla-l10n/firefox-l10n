@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Tillåt att webbplatser lagrar kakor">
 <!ENTITY  acceptCookies.accesskey       "w">
 
-<!ENTITY  acceptThirdParty.pre.label      "Tillåt tredjepartskakor:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "T">
+
 <!ENTITY  acceptThirdParty.always.label   "alltid">
 <!ENTITY  acceptThirdParty.never.label    "aldrig">
 <!ENTITY  acceptThirdParty.visited.label  "från platser jag besökt">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Inställningar…">
 <!ENTITY  clearOnCloseSettings.accesskey "n">
+
+
+
+
