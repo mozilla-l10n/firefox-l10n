@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label "हमेशा मुझसे पूछें कि फ़ाइल कहाँ सहेजनी है">
 <!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY alwaysCheckDefault2.label        "जाँचें कि &brandShortName; आपका तयशुदा ब्राउज़र है">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+
 <!ENTITY setAsMyDefaultBrowser2.label     "तयशुदा बनाएँ">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; अभी आपका तयशुदा ब्राउज़र है">
