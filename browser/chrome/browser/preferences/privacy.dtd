@@ -105,3 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "პარამეტრები…">
 <!ENTITY  clearOnCloseSettings.accesskey "ტ">
 
+<!ENTITY  browserContainersHeader.label         "სათავსო ჩანართები">
+<!ENTITY  browserContainersLearnMore.label      "შეიტყვეთ მეტი">
+<!ENTITY  browserContainersEnabled.label        "სათავსო ჩანართების ჩართვა">
+<!ENTITY  browserContainersEnabled.accesskey    "ჩ">
