@@ -9,6 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "სრული ეკრანი">
 <!ENTITY fullscreenButton.exitfullscreenlabel "სრულეკრანიანი რეჟიმიდან გამოსვლა">
 <!ENTITY castingButton.castingLabel "ეკრანზე გაშვება">
+<!ENTITY closedCaption.off "გამორთული">
 
 <!ENTITY stats.media "მედია">
 <!ENTITY stats.size "ზომა">
