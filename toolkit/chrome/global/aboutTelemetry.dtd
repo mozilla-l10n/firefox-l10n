@@ -51,6 +51,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  فروپاشی‌های Threadها">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  نمودارهای هیستوگرام">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  نمودارهای هیستوگرام کوک شده">

@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "ویژگی برای CSS یافت نشد.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "محاسبه شده">
-<!ENTITY ruleViewTitle         "قواعد">

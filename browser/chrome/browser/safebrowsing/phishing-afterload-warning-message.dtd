@@ -13,8 +13,7 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
-<!ENTITY safeb.palm.reportPage.label "چرا این صفحه مسدود شده است؟">
-<!ENTITY safeb.palm.whyForbidden.label "چرا این صفحه مسدود شده است؟">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "صفحهٔ تهاجمی شناخته شده!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -30,8 +29,4 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "این صفحه به نشانی <span id='phishing_sitename'/> به عنوان یک سایت گمراه‌کننده گزارش شده است و دسترسی به آن بر اساس ترجیحات امنیتی شما مسدود شده است.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>سایت‌های گمراه‌کننده طراحی شده‌اند تا شما را برای انجام کارهای خطرناک، مانند نصب نرم‌افزار، یا فاش کردن اطلاعات شخصی مثل گذرواژه‌ها، شماره‌های تلفن و اطلاعات کارت‌های اعتباری فریب دهند.</p><p>وارد کردن هر گونه اطلاعات در این صفحه ممکن است باعث دزدی هویت یا سایر اعمال کلاه‌بردارانه شود.</p>">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "پایگاه اینترنتی مسدود شده">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "این صفحه وب در <span id='forbidden_sitename'/> توسط پروفایل مدیر شما بسته شد.">
 

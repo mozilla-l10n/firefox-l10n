@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "به سایت‌ها اجازهٔ استفاده از کوکی داده شود">
 <!ENTITY  acceptCookies.accesskey       "ج">
 
-<!ENTITY  acceptThirdParty.pre.label      "پذیرفتن کوکی‌های شخص ثالث:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "ث">
+
 <!ENTITY  acceptThirdParty.always.label   "همیشه">
 <!ENTITY  acceptThirdParty.never.label    "هرگز">
 <!ENTITY  acceptThirdParty.visited.label  "از بازدید">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "تنظیمات">
 <!ENTITY  clearOnCloseSettings.accesskey "ت">
+
+
+
+

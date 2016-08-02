@@ -32,8 +32,8 @@
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "پیشکار SOCKS v5">
 <!ENTITY  socks5.accesskey              "5">
-<!ENTITY  socksRemoteDNS.label          "DNS دوردست">
-<!ENTITY  socksRemoteDNS.accesskey      "D">
+
+
 <!ENTITY  port.label                    "درگاه:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">

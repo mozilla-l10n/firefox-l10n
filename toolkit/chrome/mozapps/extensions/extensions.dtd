@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "بررسی امنیتی بروزرسانی افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های‌تان به صورت ناامن بروزرسانی شوند.">
 <!ENTITY warning.updatesecurity.enable.label       "فعال کردن">
 <!ENTITY warning.updatesecurity.enable.tooltip     "فعال کردن بررسی امنیتی بروزرسانی افزودنی‌ها">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "بررسی کن که آیا افزودنی‌ها به‌روز هستند">
-<!ENTITY info.plugincheck.tooltip               "بررسی اینکه آیا افزدونی‌های شما بروز هستند یا خیر">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "جست‌وجو">

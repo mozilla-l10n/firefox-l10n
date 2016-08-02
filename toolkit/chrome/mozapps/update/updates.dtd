@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "جستجو برای بروزرسانی‌ها">
 <!ENTITY  updateCheck.label               "جست‌وجو به دنبال نسخهٔ جدیدتری از &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "بروزرسانی برای افزونه‌ها موجود است">
-<!ENTITY  pluginupdatesfound.label        "نسخهٔ جدیدتری از یک یا چند متصل‌شونده موجود است.">
-<!ENTITY  pluginupdateslink.label         "روش ارتقاء افزونه‌ها را ملاحظه کنید.">
-
 <!ENTITY  noupdatesfound.title            "هیچ بروزرسانی‌ای پیدا نشد">
 <!ENTITY  noupdatesautoenabled.intro      "هیچ بروزرسانی‌ای موجود نیست. &brandShortName; به طور مرتب به دنبال بروزرسانی‌ها خواهد گشت.">
 <!ENTITY  noupdatesautodisabled.intro     "هیچ بروزرسانی‌ای موجود نیست. لطفاً بعداً دوباره تلاش کنید، و یا جست‌وجوی خودکار بروزرسانی‌های &brandShortName; را فعال سازید.">
