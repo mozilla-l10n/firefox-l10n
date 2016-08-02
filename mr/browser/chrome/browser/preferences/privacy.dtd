@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "स्थळांकडून कूकीज स्वीकारा">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "तिसरे-पक्षीय कूकिज स्वीकारा:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+
 <!ENTITY  acceptThirdParty.always.label   "नेहमी">
 <!ENTITY  acceptThirdParty.never.label    "कधीच नाही">
 <!ENTITY  acceptThirdParty.visited.label  "भेट दिलेल्यांमधून">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "सेटिंग्ज…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
+
