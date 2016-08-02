@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "Обновяванията са изключени от вашия системен администратор">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "Друг екземпляр на &brandShortName; е започнал обновяване">
+<!ENTITY update.restarting          "Рестартиране…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
