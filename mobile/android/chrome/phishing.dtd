@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Beni buradan kurtar!">
 <!ENTITY safeb.palm.decline.label "Bu uyarıyı yok say">
-<!ENTITY safeb.palm.reportPage.label "Bu sayfa neden engellendi?">
-<!ENTITY safeb.palm.whyForbidden.label "Bu sayfa neden engellendi?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Saldırgan olarak bildirilmiş site!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> adresindeki bu sayfanın istenmeyen yazılım içerdiği bildirilmiştir. Güvenlik tercihlerinize dayanılarak sayfa engellendi.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "İstenmeyen yazılım sayfaları, yanıltıcı olabilecek ve sisteminiz beklenmedik şekillerde etkileyebilecek yazılımlar yüklemeye çalışır.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Engellenmiş site">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "<span id='forbidden_sitename'/> adresindeki web sayfası yönetici profiliniz tarafından engellenmiştir.">
