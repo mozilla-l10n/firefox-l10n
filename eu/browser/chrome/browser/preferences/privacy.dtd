@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Onartu guneetako cookieak">
 <!ENTITY  acceptCookies.accesskey       "O">
 
-<!ENTITY  acceptThirdParty.pre.label      "Onartu hirugarrenen cookieak:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "n">
+
 <!ENTITY  acceptThirdParty.always.label   "Beti">
 <!ENTITY  acceptThirdParty.never.label    "Inoiz ez">
 <!ENTITY  acceptThirdParty.visited.label  "Bisitatutako guneetatik">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Ezarpenak…">
 <!ENTITY  clearOnCloseSettings.accesskey "r">
+
+
+
+
