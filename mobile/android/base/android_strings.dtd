@@ -44,9 +44,9 @@
 
 <!ENTITY  bookmarks_title "Bokmerke">
 <!ENTITY  history_title "Historikk">
-<!ENTITY  recent_tabs_title "Nylege faner">
 
 <!ENTITY  switch_to_tab "Byt til fane">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "&brandShortName; krasjrapportering">
 <!ENTITY  crash_message2 "&brandShortName; fekk eit problem og krasja. Faner som var opne vil vera tilgjengelege på &brandShortName; si Startside etter omstart.">
@@ -106,10 +106,9 @@
 <!ENTITY edit_mode_cancel "Avbryt">
 
 <!ENTITY close_tab "Lat att fane">
-<!ENTITY one_tab "1 fane">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; faner">
 <!ENTITY new_tab_opened "Ny fane opna">
 <!ENTITY new_private_tab_opened "Ny privat fane opna">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -269,6 +268,14 @@
 
 <!ENTITY pref_whats_new_notification "Kva er nytt i &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Les om nye funksjonar etter ei oppdatering">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "No med sporingsvern">
 <!ENTITY tracking_protection_prompt_text "Aktivt blokker sporingselement slik at du slepp å uroa deg.">
@@ -382,6 +389,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Synkroniserte faner">
 
 <!ENTITY pref_default_browser "Vel som standard nettlesar">
+
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ/OSS(Ofte Stilte Spørsmål)">
 <!ENTITY pref_vendor_feedback "Gje tilbakemelding">
@@ -570,10 +578,11 @@ size. -->
 <!ENTITY home_clear_history_button "Slett nettlesarhistorikk">
 <!ENTITY home_clear_history_confirm "Er du viss på at du vil sletta historikken?">
 <!ENTITY home_bookmarks_empty "Bokmerka dine vert viste her.">
-<!ENTITY home_closed_tabs_title "Nyleg attletne faner">
-<!ENTITY home_last_tabs_title "Faner frå førre gong">
+
 <!ENTITY home_last_tabs_empty "Nyleg brukte faner vert viste her.">
-<!ENTITY home_open_all "Opna alle">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Nettstad som du sist vitja vert vist her.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +634,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Trygt samband">
 <!ENTITY identity_connection_insecure "Utrygt samband">
-<!ENTITY identity_login_insecure "Denne innlogginga er ikkje trygg, og innlogginga di kan vera sårbar.">
 <!ENTITY identity_connection_chromeui "Dette er ei trygg &brandShortName;-side">
 <!-- Mixed content notifications in site identity popup -->
 
