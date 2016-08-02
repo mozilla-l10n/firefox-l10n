@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Hängningar i trådar">
 
+<!ENTITY aboutTelemetry.scalarsSection "  Skalärer">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 
