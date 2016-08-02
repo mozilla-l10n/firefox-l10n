@@ -111,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "ყველა ჩანართის ჩვენება">
 <!ENTITY showAllTabsCmd.accesskey "ყ">
+<!ENTITY toggleReaderMode.key "წ">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; - შესვლა">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label;-ის პარამეტრების გახსნა">
@@ -148,6 +149,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "თქვენს მიმთითებლს აკონტროლებს. კონტროლის დასაბრუნებლად დააჭირეთ Esc ღილაკს.">
+<!ENTITY pointerlockWarning.generic.label "ეს დოკუმენტი მიმთითებლს აკონტროლებს. კონტროლის დასაბრუნებლად დააჭირეთ Esc ღილაკს.">
 
 <!ENTITY closeWindow.label "ფანჯრის დახურვა">
 <!ENTITY closeWindow.accesskey "ხ">
