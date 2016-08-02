@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Öryggisuppfærslur fyrir viðbætur eru óvirkar. Þú gætir verið í hættu vegna uppfærslu.">
 <!ENTITY warning.updatesecurity.enable.label       "Virkja">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Virkja öryggisuppfærslur fyrir viðbætur">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Athuga hvort tengiforrit eru í nýjustu útgáfu">
-<!ENTITY info.plugincheck.tooltip               "Athuga hvort tengiforrit eru í nýjustu útgáfu">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Leita">

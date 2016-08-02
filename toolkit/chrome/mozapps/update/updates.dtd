@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Athuga með uppfærslur">
 <!ENTITY  updateCheck.label               "Leita að nýrri útgáfu af &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Fann uppfærslur fyrir tengiforrit">
-<!ENTITY  pluginupdatesfound.label        "Nýrri útgáfur af einu eða fleiri tengiforriti fundust.">
-<!ENTITY  pluginupdateslink.label         "Smelltu á til að sjá hvernig þú uppfærir tengiforrit.">
-
 <!ENTITY  noupdatesfound.title            "Engar uppfærslur fundust">
 <!ENTITY  noupdatesautoenabled.intro      "Engar uppfærslur eru til. &brandShortName; mun athuga reglulega hvort til eru uppfærslur.">
 <!ENTITY  noupdatesautodisabled.intro     "Engar uppfærslur eru til. Athugaðu aftur seinna eða virkjaðu sjálfvirkar uppfærslur fyrir &brandShortName;.">
