@@ -6,7 +6,6 @@
 <!ENTITY safeb.palm.decline.label "Abaikan amaran ini">
 
 
-
 <!ENTITY safeb.blocked.malwarePage.title "Laman Web Serangan Dilaporkan!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Laman web di <span id='malware_sitename'/> telah dilaporkan sebagai laman web serangan dan telah dihalangkan berdasarkan tetapan sekuriti anda.">
@@ -20,4 +19,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Laman web di <span id='unwanted_sitename'/> telah dilaporkan sebagai laman web serangan dan telah dihalangkan berdasarkan tetapan sekuriti anda.">
 
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
