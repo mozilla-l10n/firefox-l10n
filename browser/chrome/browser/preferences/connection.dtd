@@ -32,6 +32,7 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socksRemoteDNS.label2         "Proxy DNS al usar SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "Puerto:">
 <!ENTITY  HTTPport.accesskey            "P">

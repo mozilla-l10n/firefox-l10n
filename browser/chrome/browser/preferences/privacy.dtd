@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Ajustes…">
 <!ENTITY  clearOnCloseSettings.accesskey "g">
+
+<!ENTITY  browserContainersHeader.label         "Pestañas contenedoras">
+<!ENTITY  browserContainersLearnMore.label      "Aprender más">
+<!ENTITY  browserContainersEnabled.label        "Activar pestañas contenedoras">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
