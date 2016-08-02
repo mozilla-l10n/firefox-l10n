@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Ikhangela izihlaziyi">
 <!ENTITY  updateCheck.label               "Ikhangela iinguqulelo ezintshana ze-&brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Izifumene iZihlaziyi zeesoftwe ezincedisayo">
-<!ENTITY  pluginupdatesfound.label        "Iinguqulelo ezintshana zenye nangaphezulu zeesoftwe ezincedisayo zakho zifunyenwe.">
-<!ENTITY  pluginupdateslink.label         "Bona ukuba zihlaziywa njani na iisoftwe ezincedisayo zakho.">
-
 <!ENTITY  noupdatesfound.title            "Akukho luhlaziyo luFunyenweyo">
 <!ENTITY  noupdatesautoenabled.intro      "Akukho zihlaziyi zifumanekayo. Ze-&brandShortName; iya kukhangela izihlaziyi amaxesha ngamaxesha.">
 <!ENTITY  noupdatesautodisabled.intro     "Akukho zihlaziyi zifumanekayo. Nceda ukhangele kwakhona kamva okanye kwenze kusebenze ukukhangela kohlaziyo lwe-&brandShortName; okuzenzekelayo.">

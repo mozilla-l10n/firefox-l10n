@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Yamkela iikhukhi kwisayithi">
 <!ENTITY  acceptCookies.accesskey       "Y">
 
-<!ENTITY  acceptThirdParty.pre.label      "Yamkela iikhukhi zeqela lesithathu:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "m">
+
 <!ENTITY  acceptThirdParty.always.label   "Qho">
 <!ENTITY  acceptThirdParty.never.label    "Ungaze">
 <!ENTITY  acceptThirdParty.visited.label  "Isuka kwetyelelweyo">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Imimiselo…">
 <!ENTITY  clearOnCloseSettings.accesskey "m">
+
+
+
+
