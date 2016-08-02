@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Buang dari Tab Permanen">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Pindahkan ke Jendela Baru">
 <!ENTITY  moveToNewWindow.accesskey          "J">
 <!ENTITY  bookmarkAllTabs.label              "Markahi Semua Tab…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Tampilkan Semua Tab">
 <!ENTITY showAllTabsCmd.accesskey "S">
 
+
 <!ENTITY fxaSignIn.label "Masuk ke &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Buka preferensi &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Sambungkan ulang ke &syncBrand.shortName.label;">
@@ -131,10 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY exitDOMFullscreen.button "Keluar dari Layar Penuh (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Keluar dari Layar Penuh (esc)">
 <!ENTITY leaveDOMFullScreen.label "Keluar dari Mode Layar Penuh">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Tutup Jendela">
 <!ENTITY closeWindow.accesskey "d">
@@ -455,8 +472,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "g">
 <!ENTITY openFrameCmd.label           "Buka Bingkai di Jendela Baru">
 <!ENTITY openFrameCmd.accesskey       "i">
-<!ENTITY openLinkCmdInContainerTab.label "Buka Tab dalam Tab Kontainer Baru">
-<!ENTITY openLinkCmdInContainerTab.accesskey "K">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Hanya Tampilkan Bingkai yang Ini">
 <!ENTITY showOnlyThisFrameCmd.accesskey "n">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -674,7 +691,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "T">
 
 <!ENTITY editBookmark.done.label                     "Selesai">
-<!ENTITY editBookmark.removeBookmark.accessKey       "H">
+
 
 <!ENTITY identity.connectionSecure "Sambungan Aman">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Aman">
@@ -770,12 +787,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Tampilkan notifikasi desktop">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Layanan dari <label/> telah diaktifkan. Anda dapat mengubah pengaturan untuk layanan pada <label class='text-link'>Pengelola Pengaya</label>.">
-<!ENTITY social.activated.undo.label "Duh, salah! Urungkan ya!">
-<!ENTITY social.activated.undo.accesskey "g">
 <!ENTITY social.learnMore.label "Pelajari Lebih Lanjut…">
 <!ENTITY social.learnMore.accesskey "l">
-<!ENTITY social.closeNotificationItem.label "Jangan Sekarang">
 
 <!ENTITY social.directory.label "Direktori Aktivasi">
 <!ENTITY social.directory.text "Anda dapat mengaktifkan layanan Berbagi dari direktori ini.">
