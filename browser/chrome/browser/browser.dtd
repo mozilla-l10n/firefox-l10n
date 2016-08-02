@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "F">
 <!ENTITY  unpinTab.label                     "Gör om till vanlig flik">
 <!ENTITY  unpinTab.accesskey                 "G">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Skicka flik till enhet">
+<!ENTITY  sendTabToDevice.accesskey          "e">
+<!ENTITY  sendPageToDevice.label             "Skicka sida till enhet">
+<!ENTITY  sendPageToDevice.accesskey         "e">
+<!ENTITY  sendLinkToDevice.label             "Skicka länk till enhet">
+<!ENTITY  sendLinkToDevice.accesskey         "e">
 <!ENTITY  moveToNewWindow.label              "Flytta till nytt fönster">
 <!ENTITY  moveToNewWindow.accesskey          "t">
 <!ENTITY  bookmarkAllTabs.label              "Bokmärk alla flikar...">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Visa alla flikar">
 <!ENTITY showAllTabsCmd.accesskey "f">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Logga in till &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Öppna inställningar för &syncBrand.shortName.label;">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "har kontroll över pekaren. Tryck på Esc för att ta tillbaka kontrollen.">
+<!ENTITY pointerlockWarning.generic.label "Detta dokument har kontroll över pekaren. Tryck på Esc för att ta tillbaka kontrollen.">
 
 <!ENTITY closeWindow.label "Stäng fönster">
 <!ENTITY closeWindow.accesskey "t">
@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "n">
 <!ENTITY openFrameCmd.label           "Öppna ram i nytt fönster">
 <!ENTITY openFrameCmd.accesskey       "Ö">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Öppna länk i ny innehållsflik">
+<!ENTITY openLinkCmdInContainerTab.accesskey "h">
 <!ENTITY showOnlyThisFrameCmd.label     "Visa endast denna ram">
 <!ENTITY showOnlyThisFrameCmd.accesskey "e">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "L">
 
 <!ENTITY editBookmark.done.label                     "Klar">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Säker Anslutning">
 <!ENTITY identity.connectionNotSecure "Anslutningen är inte säker ">
@@ -726,7 +726,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "I">
 <!ENTITY identity.learnMore "Lär dig mer">
 
-<!ENTITY identity.removeCertException.label "Ta bort Undantag">
+<!ENTITY identity.removeCertException.label "Ta bort undantag">
 <!ENTITY identity.removeCertException.accesskey "T">
 
 <!ENTITY identity.moreInfoLinkText2 "Mer information">
