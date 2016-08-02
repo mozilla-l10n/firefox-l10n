@@ -38,6 +38,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "தத்தலை நீக்குக">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "புதிய சாளரத்திற்கு செல்க">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY fullScreenMinimize.tooltip "சுருக்குக">
 <!ENTITY fullScreenRestore.tooltip "மீளமை">
 
@@ -128,6 +135,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "முழுத்திரையிலிருந்து வெளியேறுக">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "சாளரத்தை மூடுக">
 <!ENTITY closeWindow.accesskey "d">
@@ -713,10 +729,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.accesskey "n">
 
 
-
-
-
-<!ENTITY social.closeNotificationItem.label "இப்போது இல்லை">
 
 
 
