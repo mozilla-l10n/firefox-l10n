@@ -35,10 +35,6 @@
 <!ENTITY warning.updatesecurity.label              "ଏଡ-ଅନ ଅଦ୍ୟତନ ସୁରକ୍ଷା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି। ଆପଣ ହୁଏତଃ ଅଦ୍ୟତନଗୁଡ଼ିକ ସହିତ ବୁଝାମଣା କରିଛନ୍ତି।">
 <!ENTITY warning.updatesecurity.enable.label       "ସକ୍ରିୟ">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ଏଡ-ଅନ ଅଦ୍ୟତନ ସୁରକ୍ଷା ଯାଞ୍ଚକୁ ସକ୍ରିୟ କରନ୍ତୁ">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "ଆପଣଙ୍କର ପ୍ଲଗଇନଗୁଡ଼ିକ ଠିକ ଅଛି କି ନାହିଁ  ଦେଖିବା ପାଇଁ ଯାଞ୍ଚକରନ୍ତୁ">
-<!ENTITY info.plugincheck.tooltip               "ଆପଣଙ୍କର ପ୍ଲଗଇନଗୁଡ଼ିକ ଠିକ ଅଛି କି ନାହିଁ  ଦେଖିବା ପାଇଁ ଯାଞ୍ଚକରନ୍ତୁ">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "ଏଡ-ଅନଗୁଡ଼ିକୁ ଗ୍ରହଣ କରନ୍ତୁ">
 <!ENTITY view.recentUpdates.label             "ସାମ୍ପ୍ରତିକ ଅଦ୍ୟତନଗୁଡ଼ିକ">

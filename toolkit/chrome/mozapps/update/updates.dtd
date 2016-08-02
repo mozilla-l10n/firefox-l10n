@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "ଅଦ୍ୟତନଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରୁଅଛି">
 <!ENTITY  updateCheck.label               "&brandShortName;ର ନୂତନ ସଂସ୍କରଣକୁ ଖୋଜୁଅଛି…">
 
-<!ENTITY  pluginupdatesfound.title        "ପ୍ଲଗଇନଗୁଡ଼ିକ ପାଇଁ ଅଦ୍ୟତନ ମିଳିଛି">
-<!ENTITY  pluginupdatesfound.label        "ଆପଣଙ୍କ ପ୍ଲଗଇନଗୁଡ଼ିକ ମଧ୍ଯରୁ ଗୋଟିଏ କିମ୍ବା ଅନେକ ନୂତନତମ ସଂସ୍କରଣ ମିଳିଛି।">
-<!ENTITY  pluginupdateslink.label         "ଆପଣଙ୍କ ପ୍ଲଗଇନକୁ  କିପରି ଉନ୍ନୟନ କରାଯିବ ତାହା ଦେଖନ୍ତୁ।">
-
 <!ENTITY  noupdatesfound.title            "କୌଣସି ଅଦ୍ୟତନ ମିଳିଲା ନାହିଁ">
 <!ENTITY  noupdatesautoenabled.intro      "ସେଠାରେ କୌଣସି ଅଦ୍ୟତନ ଉପଲବ୍ଧ ନାହିଁ। &brandShortName; ଅଦ୍ୟତନ ପାଇଁ ନିୟମିତ ଭାବେ ଯାଞ୍ଚ କରିବ।">
 <!ENTITY  noupdatesautodisabled.intro     "ସେଠାରେ କୌଣସି ଅଦ୍ୟତନ ଉପଲବ୍ଧ ନାହିଁ। ଦୟାକରି ପରେ ପୁଣିଥରେ ଯାଞ୍ଚ କରନ୍ତୁ କିମ୍ବା &brandShortName;ର ସ୍ୱୟଂଚାଳିତ ଅଦ୍ୟତନ ଯାଞ୍ଚକୁ ସକ୍ରିୟ କରନ୍ତୁ।">

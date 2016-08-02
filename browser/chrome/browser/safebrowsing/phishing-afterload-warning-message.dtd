@@ -13,7 +13,6 @@
   be used for them. -->
 
 
-
 <!ENTITY safeb.blocked.malwarePage.title "ଖବର କରାଯାଇଥିବା ଆକ୍ରମଣ ପୃଷ୍ଠା!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> ରେ ଥିବା ଏହି ୱେବ ପୃଷ୍ଠାକୁ  ଆକ୍ରମଣ ପୃଷ୍ଠା ଭାବରେ ଖବର କରାଯାଇଛି ଏବଂ  ଆପଣଙ୍କର ସୁରକ୍ଷା ପସନ୍ଦ ଉପରେ ଆଧାରକରି ଅଟକାଇ ଦିଆଯାଇଛି।">
@@ -25,6 +24,4 @@
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
-
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 

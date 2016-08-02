@@ -30,7 +30,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "କୌଣସି CSS ଗୁଣଧର୍ମ ମିଳୁନାହିଁ।">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "ହିସାବ ହୋଇଛି">
-<!ENTITY ruleViewTitle         "ନିୟମାବଳୀ">
