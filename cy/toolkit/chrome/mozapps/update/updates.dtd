@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Gwirio am Ddiweddariadau">
 <!ENTITY  updateCheck.label               "Chwilio am fersiwn newydd o &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Wedi canfod Diweddariadau Ategion">
-<!ENTITY  pluginupdatesfound.label        "Mae fersiynau mwy diweddar o un neu fwy o'ch ategion wedi eu canfod.">
-<!ENTITY  pluginupdateslink.label         "Sut mae diweddaru eich ategyn.">
-
 <!ENTITY  noupdatesfound.title            "Heb Ganfod Diweddariadau">
 <!ENTITY  noupdatesautoenabled.intro      "Nid oes diweddariad newydd ar gael, bydd &brandShortName; yn gwirio o bryd i'w gilydd am ddiweddariadau.">
 <!ENTITY  noupdatesautodisabled.intro     "Nid oes diweddariadau ar gael. Gwiriwch eto neu alluogi gwirio diweddariadau awtomatig &brandShortName;.">
