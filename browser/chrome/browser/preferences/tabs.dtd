@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab обикаля разредите в реда на използване">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "б">
+
 <!ENTITY newWindowsAsTabs.label       "Отваряне на новите прозорци в раздел">
 <!ENTITY newWindowsAsTabs.accesskey   "д">
 

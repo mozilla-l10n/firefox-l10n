@@ -105,7 +105,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Копиране на всичко в системния буфер">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Копиране необработени данни в системния буфер">
 
-<!ENTITY aboutSupport.sandboxTitle "Пясъчник">
+<!ENTITY aboutSupport.sandboxTitle "Виртуална среда">
 
 <!ENTITY aboutSupport.safeModeTitle "Пробвайте Надежден режим">
 <!ENTITY aboutSupport.restartInSafeMode.label "Рестартиране с изключени добавки…">
