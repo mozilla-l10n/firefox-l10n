@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Pemeriksaan keamanan pemutakhiran pengaya telah dimatikan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.">
 <!ENTITY warning.updatesecurity.enable.label       "Aktifkan">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Aktifkan pemeriksaan keamanan pemutakhiran pengaya">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Periksa apakah plugin Anda sudah dalam versi terbaru">
-<!ENTITY info.plugincheck.tooltip               "Periksa apakah plugin Anda sudah dalam versi terbaru">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Cari">

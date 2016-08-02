@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "Tidak ada properti CSS ditemukan.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "Komputasi">
-<!ENTITY ruleViewTitle         "Rule">

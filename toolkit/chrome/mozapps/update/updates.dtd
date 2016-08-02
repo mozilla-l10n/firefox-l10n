@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Memeriksa Versi Baru">
 <!ENTITY  updateCheck.label               "Memeriksa versi baru &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Versi Baru Plugin Ditemukan">
-<!ENTITY  pluginupdatesfound.label        "Versi baru untuk satu atau lebih plugin Anda telah ditemukan.">
-<!ENTITY  pluginupdateslink.label         "Tampilkan bagaimana cara memperbarui plugin Anda.">
-
 <!ENTITY  noupdatesfound.title            "Versi Baru Tidak Ditemukan">
 <!ENTITY  noupdatesautoenabled.intro      "Belum ada versi baru yang tersedia. &brandShortName; akan memeriksa versi baru secara periodik.">
 <!ENTITY  noupdatesautodisabled.intro     "Belum ada versi baru yang tersedia. Periksa kembali nanti atau aktifkan pemeriksaan versi baru otomatis pada &brandShortName;.">
