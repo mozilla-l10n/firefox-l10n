@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Odpni zavihek">
 <!ENTITY  unpinTab.accesskey                 "O">
+<!ENTITY  sendTabToDevice.label              "Pošlji zavihek v napravo">
+<!ENTITY  sendTabToDevice.accesskey          "N">
+<!ENTITY  sendPageToDevice.label             "Pošlji stran v napravo">
+<!ENTITY  sendPageToDevice.accesskey         "N">
+<!ENTITY  sendLinkToDevice.label             "Pošlji povezavo v napravo">
+<!ENTITY  sendLinkToDevice.accesskey         "N">
 <!ENTITY  moveToNewWindow.label              "Premakni v novo okno">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  bookmarkAllTabs.label              "Dodaj vse zavihke med zaznamke …">
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Prikaži vse zavihke">
 <!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY toggleReaderMode.key "B">
 
 <!ENTITY fxaSignIn.label "Prijava v &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Odpri nastavitve &syncBrand.shortName.label;">
