@@ -44,9 +44,9 @@
 
 <!ENTITY  bookmarks_title "Marcapachinas">
 <!ENTITY  history_title "Historial">
-<!ENTITY  recent_tabs_title "Pestanyas recients">
 
 <!ENTITY  switch_to_tab "Cambiar ta la pestanya">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "Informe de fallos d\u0027o &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; ha trobau un problema y se ye blocau. As suyas pestanyas habrán de listar-se en a pachina d\u0027inicio de &brandShortName; malas que reinicie.">
@@ -106,10 +106,9 @@
 <!ENTITY edit_mode_cancel "Cancelar">
 
 <!ENTITY close_tab "Zarrar a pestanya">
-<!ENTITY one_tab "1 pestanya">
+
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; pestanyas">
 <!ENTITY new_tab_opened "S\u0027ha ubierto una pestanya nueva">
 <!ENTITY new_private_tab_opened "S\u0027ha ubierto una pestanya privada nueva">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -269,6 +268,14 @@
 
 <!ENTITY pref_whats_new_notification "Pestanya alzada en &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Saber-ne mas sobre las nuevas caracteristicas dimpués d\u0027una actualización">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "Agora con Protección contra Seguimiento">
 <!ENTITY tracking_protection_prompt_text "Blocar activament os elementos que faigan seguimiento de manera que no t\u0027has de preocupar.">
@@ -382,6 +389,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Pestanyas sincronizadas">
 
 <!ENTITY pref_default_browser "Fer lo navegador por defecto">
+
 <!ENTITY pref_about_firefox "Quanto a &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Ninviar comentarios">
@@ -570,10 +578,11 @@ size. -->
 <!ENTITY home_clear_history_button "Limpiar l\u0027historial de navegacion">
 <!ENTITY home_clear_history_confirm "Yes seguro que quiers eliminar l\u0027historial?">
 <!ENTITY home_bookmarks_empty "Os marcadors que alce s\u0027amuestran aquí.">
-<!ENTITY home_closed_tabs_title "Pestanyas trancadas recientement">
-<!ENTITY home_last_tabs_title "Pestanyas d\u0027a zaguera sesión">
+
 <!ENTITY home_last_tabs_empty "As suyas pestanyas recients s\u0027amostrarán aquí.">
-<!ENTITY home_open_all "Ubrir tot">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Os puestos web que ha visitau en zagueras s\u0027amostrarán aquí.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +634,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Connexión segura">
 <!ENTITY identity_connection_insecure "Connexión insegura">
-<!ENTITY identity_login_insecure "Ista pachina no ye segura y la suya información d\u0027acceso podría estar vulnerable.">
 <!ENTITY identity_connection_chromeui "Isto ye una pachina &brandShortName; segura">
 <!-- Mixed content notifications in site identity popup -->
 
