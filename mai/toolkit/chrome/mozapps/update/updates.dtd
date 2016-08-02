@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "अद्यतन कलेल जाँच रहल अछि ">
 <!ENTITY  updateCheck.label               "&brandShortName; क नव संस्करण  कलेल  जाँच रहल  अछि ...…">
 
-<!ENTITY  pluginupdatesfound.title        "Found Updates for Plugins">
-<!ENTITY  pluginupdatesfound.label        "Newer versions of one or more of your plugins were found.">
-<!ENTITY  pluginupdateslink.label         "See how to upgrade your plugins.">
-
 <!ENTITY  noupdatesfound.title            "कोनो अद्यतन नहि भेटल">
 <!ENTITY  noupdatesautoenabled.intro      "कोनो अद्यतन उपलब्ध नहि अछि . &brandShortName; अद्यतन कलेल समय समय पर जाँचताह.">
 <!ENTITY  noupdatesautodisabled.intro     "कोनो अद्यतन उपलब्ध नहि अछि . कृपया फेर जाँचू अथवा &brandShortName; क स्वचालित अद्यतन जाँच क लेल चेक करू .">
