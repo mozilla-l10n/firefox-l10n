@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Kabur!">
 <!ENTITY safeb.palm.decline.label "Abaikan peringatan ini">
-<!ENTITY safeb.palm.reportPage.label "Mengapa laman ini diblokir?">
-<!ENTITY safeb.palm.whyForbidden.label "Mengapa laman ini diblokir?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Telah Dilaporkan sebagai Situs Penyerang!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Situs web di <span id='unwanted_sitename'/> telah dilaporkan melayani perangkat lunak yang tidak diinginkan dan telah diblokir berdasarkan pengaturan keamanan Anda.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Laman perangkat lunak yang tidak diinginkan mencoba menginstal perangkat lunak yang mungkin menipu dan mempengaruhi sistem Anda dalam cara yang tidak diinginkan.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Situs Terblokir">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Laman Web di <span id='forbidden_sitename'/> telah diblokir oleh profil admin Anda.">
