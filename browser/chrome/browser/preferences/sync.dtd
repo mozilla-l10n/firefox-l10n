@@ -14,8 +14,6 @@
 <!ENTITY resetPass.label              "Setel Ulang">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Kelola Akun">
-<!ENTITY manageAccount.accesskey      "n">
 <!ENTITY changePassword2.label        "Ganti Sandi…">
 <!ENTITY myRecoveryKey.label          "Kunci Pemulihan Saya">
 <!ENTITY resetSync2.label             "Setel Ulang Sinkronisasi…">
