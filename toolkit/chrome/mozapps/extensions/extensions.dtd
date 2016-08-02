@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Gehigarrien eguneraketa-segurtasuna egiaztatzea desgaituta dago. Eguneraketek arriskuan jar zaitzakete.">
 <!ENTITY warning.updatesecurity.enable.label       "Gaitu">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Gaitu gehigarrien eguneraketa-segurtasuna egiaztatzea">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Egiaztatu zure pluginak egunean dauden ikusteko">
-<!ENTITY info.plugincheck.tooltip               "Egiaztatu zure pluginak egunean dauden ikusteko">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Bilaketa">

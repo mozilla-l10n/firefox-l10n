@@ -13,8 +13,7 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "i">
-<!ENTITY safeb.palm.reportPage.label "Zergatik blokeatu da orri hau?">
-<!ENTITY safeb.palm.whyForbidden.label "Zergatik blokeatu da orri hau?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Ustezko orri erasotzailea!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -30,8 +29,4 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Web orri hau (<span id='phishing_sitename'/>) iruzurti gisa dago salatuta eta blokeatu egin da zure segurtasun-ezarpenetan oinarrituta.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Zerbait arriskutsua egin dezazun daude diseinatuta gune iruzurtiak, adibidez softwarea instalatzea edo zure informazio pertsonala ezagutzera ematea, hala nola telefono-zenbakiak edo kreditu-txartelak.</p><p>Web orri honetan edozein informazio sartzean identitate-lapurreta edo bestelako iruzurren bat gerta liteke.</p>">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Blokeatutako gunea">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "<span id='forbidden_sitename'/> helbideko orria zure administratzaile-profilak blokeatu du.">
 

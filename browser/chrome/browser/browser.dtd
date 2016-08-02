@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "A">
 <!ENTITY  unpinTab.label                     "Desainguratu fitxa">
 <!ENTITY  unpinTab.accesskey                 "a">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Eraman leiho berrira">
 <!ENTITY  moveToNewWindow.accesskey          "h">
 <!ENTITY  bookmarkAllTabs.label              "Egin fitxa guztien laster-marka…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Erakutsi fitxa guztiak">
 <!ENTITY showAllTabsCmd.accesskey "z">
 
+
 <!ENTITY fxaSignIn.label "Hasi saioa &syncBrand.shortName.label;(e)n">
 <!ENTITY fxaSignedIn.tooltip "Ireki &syncBrand.shortName.label; hobespenak">
 <!ENTITY fxaSignInError.label "Birkonektatu &syncBrand.shortName.label;(e)ra">
@@ -131,10 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY exitDOMFullscreen.button "Irten pantaila osotik (Esk)">
 <!ENTITY exitDOMFullscreenMac.button "Irten pantaila osotik (esk)">
 <!ENTITY leaveDOMFullScreen.label "Irten pantaila osotik">
 <!ENTITY leaveDOMFullScreen.accesskey "s">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Itxi leihoa">
 <!ENTITY closeWindow.accesskey "h">
@@ -456,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Ireki markoa leiho berrian">
 <!ENTITY openFrameCmd.accesskey       "m">
-<!ENTITY openLinkCmdInContainerTab.label "Ireki lotura edukiontzi-fitxa berrian">
-<!ENTITY openLinkCmdInContainerTab.accesskey "e">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Erakutsi marko hau bakarrik">
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -676,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "G">
 
 <!ENTITY editBookmark.done.label                     "Eginda">
-<!ENTITY editBookmark.removeBookmark.accessKey       "K">
+
 
 <!ENTITY identity.connectionSecure "Konexio segurua">
 <!ENTITY identity.connectionNotSecure "Konexioa ez da segurua">
@@ -772,12 +789,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Erakutsi mahaigaineko jakinarazpenak">
 <!ENTITY social.toggleNotifications.accesskey "m">
 
-<!ENTITY social.activated.description "<label/>(e)ko zerbitzuak gaitu egin dira. Zerbitzuen zure ezarpenak <label class='text-link'>Gehigarrien kudeatzailea</label>n alda ditzakezu.">
-<!ENTITY social.activated.undo.label "Ene, desegin hau!">
-<!ENTITY social.activated.undo.accesskey "d">
 <!ENTITY social.learnMore.label "Argibide gehiago…">
 <!ENTITY social.learnMore.accesskey "A">
-<!ENTITY social.closeNotificationItem.label "Une honetan ez">
 
 <!ENTITY social.directory.label "Aktibazioen direktorioa">
 <!ENTITY social.directory.text "Partekatzeko zerbitzuak direktoriotik parteka ditzakezu.">
