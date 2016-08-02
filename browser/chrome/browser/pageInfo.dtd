@@ -8,9 +8,9 @@
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "კოპირება">
 <!ENTITY  copy.accesskey        "C">
-<!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "სრული მონიშვნა">
-<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  selectall.key         "ყ">
+<!ENTITY  selectall.label       "ყველაფრის მონიშვნა">
+<!ENTITY  selectall.accesskey   "ყ">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "ძირითადი">
