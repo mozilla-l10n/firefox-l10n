@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Pśespytowanje wěstoty aktualizacije jo znjemóžnjone. Jo móžno, až aktualizacije wam wobgrozuju.">
 <!ENTITY warning.updatesecurity.enable.label       "Zmóžniś">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Pśespytowanje wěstoty aktualizacije zmóžniś">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Pśeglědajśo, lěc waše tykace su aktualne">
-<!ENTITY info.plugincheck.tooltip               "Pśegldajśo, lěc waše tykace su aktualne">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Pytaś">

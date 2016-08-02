@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "R">
 <!ENTITY  unpinTab.label                     "Rejtark wótpěś">
 <!ENTITY  unpinTab.accesskey                 "w">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Do nowego wokna pśesunuś">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Wšykne rejtarki ako cytańske znamjenja składowaś…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Wšykne rejtarki pokazaś">
 <!ENTITY showAllTabsCmd.accesskey "W">
 
+
 <!ENTITY fxaSignIn.label "Pla &syncBrand.shortName.label; pśizjawiś">
 <!ENTITY fxaSignedIn.tooltip "Nastajenja &syncBrand.shortName.label; wócyniś">
 <!ENTITY fxaSignInError.label "Z &syncBrand.shortName.label; znowego zwězaś">
@@ -131,10 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY exitDOMFullscreen.button "Połnu wobrazowku skóńcyś (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Połnu wobrazowku (esc) skóńcyś">
 <!ENTITY leaveDOMFullScreen.label "Połnu wobrazowku spušćiś">
 <!ENTITY leaveDOMFullScreen.accesskey "o">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Wokno zacyniś">
 <!ENTITY closeWindow.accesskey "z">
@@ -456,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "b">
 <!ENTITY openFrameCmd.label           "Wobłuk w nowem woknje wócyniś">
 <!ENTITY openFrameCmd.accesskey       "c">
-<!ENTITY openLinkCmdInContainerTab.label "Wótkaz w nowem kontejnerowem rejtarku wócyniś">
-<!ENTITY openLinkCmdInContainerTab.accesskey "k">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Jano w toś tom wobłuku pokazaś">
 <!ENTITY showOnlyThisFrameCmd.accesskey "J">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -676,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "S">
 
 <!ENTITY editBookmark.done.label                     "Dokóńcony">
-<!ENTITY editBookmark.removeBookmark.accessKey       "W">
+
 
 <!ENTITY identity.connectionSecure "Wěsty zwisk">
 <!ENTITY identity.connectionNotSecure "Zwisk njejo wěsty">
@@ -772,12 +789,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Desktopowe powěźeńki pokazaś">
 <!ENTITY social.toggleNotifications.accesskey "z">
 
-<!ENTITY social.activated.description "Słužby z <label/> su se zmóžnili. Móžośo swóje nastajenja za słužby w <label class='text-link'>Zastojniku</label> změniś.">
-<!ENTITY social.activated.undo.label "Hopla, anulěrujśo to!">
-<!ENTITY social.activated.undo.accesskey "H">
 <!ENTITY social.learnMore.label "Dalšne informacije…">
 <!ENTITY social.learnMore.accesskey "l">
-<!ENTITY social.closeNotificationItem.label "Nic něnto">
 
 <!ENTITY social.directory.label "Zapis aktiwěrowanjow">
 <!ENTITY social.directory.text "Móžośo źěleńske słužby ze zapisa aktiwěrowaś.">

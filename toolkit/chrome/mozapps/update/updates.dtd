@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Aktualizacije pytaś">
 <!ENTITY  updateCheck.label               "Pytanje za nowymi wersijami &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Aktualizacije za tykace namakane">
-<!ENTITY  pluginupdatesfound.label        "Nowše wersije jadnogo tykaca abo někotarych tykacow namakane.">
-<!ENTITY  pluginupdateslink.label         "Glědaś, kak se tykace aktualizěruju.">
-
 <!ENTITY  noupdatesfound.title            "Žedne aktualizacije namakane">
 <!ENTITY  noupdatesautoenabled.intro      "Aktualizacije njestoje k dispoziciji. &brandShortName; buźo periodiski za aktualizacijami pytaś.">
 <!ENTITY  noupdatesautodisabled.intro     "Aktualizacije njestoje k dispoziciji. Pšosym pytajśo pózdźej hyšći raz abo zmóžniśo awtomatiske pytanje za aktualizacijami &brandShortName;.">
