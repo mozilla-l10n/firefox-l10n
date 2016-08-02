@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Nana yiyloo kesɗitine">
 <!ENTITY  updateCheck.label               "Nana yiyloo jame &brandShortName; ɓurɗe hesɗude…">
 
-<!ENTITY  pluginupdatesfound.title        "Yiytii Kesɗitine ɗee Ceŋe">
-<!ENTITY  pluginupdatesfound.label        "Jame ɓurɗe hesɗude ceŋol walla ceŋe maa njiytaama.">
-<!ENTITY  pluginupdateslink.label         "Ƴeew no ceŋe maa kesɗitinirtee.">
-
 <!ENTITY  noupdatesfound.title            "Alaa Kesɗitine Njiytaa">
 <!ENTITY  noupdatesautoenabled.intro      "Alaa kesɗitine ngoodi. &brandShortName; maa ƴeewto saha sahaa kala.">
 <!ENTITY  noupdatesautodisabled.intro     "Alaa kesɗitine ngoodi. Tiiɗno ƴeewto goɗngol so ɓooyii walla daaƴtu ƴeewtagol jaajol &brandShortName;.">
