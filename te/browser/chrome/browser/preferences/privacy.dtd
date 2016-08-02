@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "అమరికలు…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY  browserContainersHeader.label         "కంటేనర్ ట్యాబ్స్">
+<!ENTITY  browserContainersLearnMore.label      "ఇంకా నేర్చుకో">
+<!ENTITY  browserContainersEnabled.label        "కంటేనర్ ట్యాబ్స్ ఎనేబల్ చేయి">
+<!ENTITY  browserContainersEnabled.accesskey    "ఎన్">
