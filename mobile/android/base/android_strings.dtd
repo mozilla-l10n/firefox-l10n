@@ -44,9 +44,11 @@
 
 <!ENTITY  bookmarks_title "ಬುಕ್‌ಮಾರ್ಕುಗಳು">
 <!ENTITY  history_title "ಇತಿಹಾಸ">
-<!ENTITY  recent_tabs_title "ಇತ್ತೀಚಿನ ಹಾಳೆಗಳು">
 
 <!ENTITY  switch_to_tab "ಟ್ಯಾಬ್‌ಗೆ ಬದಲಾಯಿಸು">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+
+<!ENTITY  tab_offline_version "ಆಫ್‍‍ಲೈನ್ ಆವೃತ್ತಿ ತೋರಿಸಲಾಗುತ್ತಿದೆ">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ಕ್ರಾಶ್ ರಿಪೋರ್ಟರ್">
 <!ENTITY  crash_message2 "&brandShortName; ನಲ್ಲಿ ತೊಂದರೆಯಾಗಿದ್ದು, ಕ್ರಾಶ್ ಆಗಿದೆ. ನೀವು &brandShortName; ಅನ್ನು ಮತ್ತೊಮ್ಮೆ ಆರಂಭಿಸಿದಾಗ, ಮುಖಪುಟದಲ್ಲಿ ನಿಮ್ಮ ಟ್ಯಾಬ್-ಗಳು ಪಟ್ಟಿಯಾಗಿರುತ್ತದೆ.">
@@ -269,6 +271,16 @@
 
 <!ENTITY pref_whats_new_notification "&brandShortName; ನಲ್ಲಿ ಹೊಸತೇನಿದೆ">
 <!ENTITY pref_whats_new_notification_summary "ಪರಿಷ್ಕರಣೆಯ ನಂತರ ಹೊಸ ವೈಶಿಷ್ಟ್ಯತೆಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+
+<!ENTITY pref_category_experimental "ಪ್ರಯೋಗಾತ್ಮಕ ವೈಶಿಷ್ಟ್ಯಗಳು">
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "ಈಗ ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ ಜೊತೆಗೆ">
 <!ENTITY tracking_protection_prompt_text "ಸಕ್ರಿಯವಾಗಿ ಜಾಡುಹಿಡಿಯುವ ಅಂಶಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ ನೀವು ಚಿಂತಿಸುವುದನ್ನು ಬಿಡಬಹುದು.">
@@ -382,6 +394,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "ಸಿಂಕ್ ಮಾಡಿದ ಹಾಳೆಗಳು">
 
 <!ENTITY pref_default_browser "ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವನ್ನಾಗಿ ಮಾಡಿ">
+
 <!ENTITY pref_about_firefox "&brandShortName; ಬಗ್ಗೆ">
 <!ENTITY pref_vendor_faqs "ಸಾಮಾನ್ಯವಾಗಿ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು">
 <!ENTITY pref_vendor_feedback "ಪ್ರತಿಕ್ರಿಯೆ ನೀಡು">
@@ -570,10 +583,11 @@ size. -->
 <!ENTITY home_clear_history_button "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ">
 <!ENTITY home_clear_history_confirm "ನೀವು ಇತಿಹಾಸವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲು ಬಯಸಿದ್ದು ಖಚಿತವೆ?">
 <!ENTITY home_bookmarks_empty "ನೀವು ಉಳಿಸುವ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.">
-<!ENTITY home_closed_tabs_title "ಇತ್ತೀಚೆಗೆ ಮುಚ್ಚಲಾದ ಟ್ಯಾಬ್‌ಗಳು">
-<!ENTITY home_last_tabs_title "ಕಡೆಯ ಸಾರ್ತಿಯ ಪುಟಗಳು">
+
 <!ENTITY home_last_tabs_empty "ನಿಮ್ಮ ಇತ್ತೀಚಿನ ಪುಟಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.">
-<!ENTITY home_open_all "ಎಲ್ಲವನ್ನೂ ತೆರೆ">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "ನೀವು ತೀರ ಇತ್ತೀಚೆಗೆ ಭೇಟಿಕೊಟ್ಟ ಅಂತರ್ಜಾಲ ಪುಟಗಳನ್ನು ಇಲ್ಲಿ ಪ್ರದರ್ಶಿಸಿ.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +639,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "ಸುರಕ್ಷಿತ ಸಂಪರ್ಕ">
 <!ENTITY identity_connection_insecure "ಅಸುರಕ್ಷಿತ ಸಂಪರ್ಕ">
-<!ENTITY identity_login_insecure "ಈ ಪುಟ ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ ಮತ್ತು ನಿಮ್ಮ ಲಾಗಿನ್ ‍ದಾಳಿಗೊಳಗಾಗಬಹುದು.">
 <!ENTITY identity_connection_chromeui "ಇದು ಸುರಕ್ಷಿತ &brandShortName; ಪುಟ">
 <!-- Mixed content notifications in site identity popup -->
 
