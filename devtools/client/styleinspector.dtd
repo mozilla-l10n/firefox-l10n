@@ -30,7 +30,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "CSS பண்புகள் இல்லை.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "கணிக்கப்பட்டது">
-<!ENTITY ruleViewTitle         "விதிகள்">

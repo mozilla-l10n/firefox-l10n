@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "மேம்படுத்தலுக்கு சரிபார்க்கிறது">
 <!ENTITY  updateCheck.label               "&brandShortName;இன் புதிய பதிப்பை தேடுகிறது…">
 
-<!ENTITY  pluginupdatesfound.title        "கூடுதல் இணைப்புகளுக்கு புதுப்பித்தல்கள் காணப்பட்டது">
-<!ENTITY  pluginupdatesfound.label        "உங்கள் ஒன்று அல்லது அதற்கு மேற்பட்ட கூடுதல் இணைப்புகளின் புதிய பதிப்புகள் காணப்படுகின்றன.">
-<!ENTITY  pluginupdateslink.label         "உங்கள் கூடுதல் இணைப்புகளை எவ்வாறு மேம்படுத்துவது என பார்க்கவும்.">
-
 <!ENTITY  noupdatesfound.title            "மேம்படுத்தல்கள் காணப்படவில்லை">
 <!ENTITY  noupdatesautoenabled.intro      "மேம்படுத்தல்கள் எதுவும் இல்லை. &brandShortName; கால வரையறை மேம்படுத்தல்களை சரிபார்க்கும்.">
 <!ENTITY  noupdatesautodisabled.intro     "மேம்படுத்தல்கள் எதுவும் இல்லை. மீண்டும் பின்னர் சரிபார்க்கவும் அல்லது &brandShortName;இன் தானியக்க மேம்படுத்தல் சரிபார்த்தலை செயல்படுத்தவும்.">

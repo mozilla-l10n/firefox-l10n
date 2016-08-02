@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "கீற்றை நீக்கு">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "புதிய சாளரத்திற்கு நகரவும்">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "அனைத்து கீற்றுகளையும் புத்தகக்குறியிடு…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "அனைத்து கீற்றுகளையும் காட்டு">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; வில் உள்நுழை">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; முன்னுரிமைகளைத் திற">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; உடன் மறுமுறை இணைக்கவும்">
@@ -131,10 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY exitDOMFullscreen.button "முழுத்திரையிலிருந்து வெளியேறுக (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "முழுத்திரையிலிருந்து வெளியேறுக (Esc)">
 <!ENTITY leaveDOMFullScreen.label "முழுத்திரை முறையிலிருந்து வெளியேறுக">
 <!ENTITY leaveDOMFullScreen.accesskey "ழ">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "சாளரத்தை மூடுக">
 <!ENTITY closeWindow.accesskey "d">
@@ -740,12 +757,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "பணிமேடை அறிவிப்புகளைக் காண்பி">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "<label/> இலிருந்து பெறும் சேவைகள் செயல்படுத்தப்பட்டுள்ளன. நீங்கள்சேவைகளுக்கான உங்கள் அமைவுகளை <label class='text-link'>துணை நிரல் நிர்வாகியில்</label> மாற்றியமைக்கலாம்.">
-<!ENTITY social.activated.undo.label "அச்சச்சோ, இதை செயல்தவிர்!">
-<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "மேலும் அறிய...">
 <!ENTITY social.learnMore.accesskey "ம">
-<!ENTITY social.closeNotificationItem.label "இப்போது வேண்டாம்">
 
 <!ENTITY social.directory.label "செயல்படுத்தும் அடைவு">
 <!ENTITY social.directory.text "நீங்கள் அடைவிலிருந்து பகிரும் சேவைகளை செயல்படுத்த முடியும்.">
