@@ -17,3 +17,6 @@
 <!ENTITY inspectorAddNode.accesskey   "C">
 <!-- LOCALIZATION NOTE (inspectorEyeDropper.label): A string displayed as the tooltip of
      a button in the inspector which toggles the Eyedropper tool -->
+
+
+<!ENTITY inspectorEyeDropper.label       "ಪುಟದಿಂದ ಒಂದು ಬಣ್ಣವನ್ನು ಸೆಳೆದುಕೊ">
