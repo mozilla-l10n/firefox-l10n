@@ -4,8 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Du-mă de aici!">
 <!ENTITY safeb.palm.decline.label "Ignoră acest avertisment">
-<!ENTITY safeb.palm.reportPage.label "De ce a fost blocată această pagină?">
-<!ENTITY safeb.palm.whyForbidden.label "De ce a fost blocată această pagină?">
+
 
 <!ENTITY safeb.blocked.malwarePage.title "Pagină raportată ca fiind de atac!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Această pagină web de la <span id='unwanted_sitename'/> a fost raportată că conține programe nedorite și a fost blocată pe baza preferințelor de securitate.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Paginile cu programe nedorite încearcă să instaleze programe care pot fi înșelătoare și îți afectează sistemul în moduri neașteptate.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Site blocat">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Pagina web de la <span id='forbidden_sitename'/> a fost blocată de profilul de admin.">
