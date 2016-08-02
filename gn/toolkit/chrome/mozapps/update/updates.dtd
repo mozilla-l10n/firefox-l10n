@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Ñembohekopyahu jehechajeýva">
 <!ENTITY  updateCheck.label               "Ojehekahína &brandShortName; ipyahuvéva…">
 
-<!ENTITY  pluginupdatesfound.title        "Mboguerã'i ñembohekopyahu juhupyre">
-<!ENTITY  pluginupdatesfound.label        "Ojejuhúma peteĩ térã hetave mba'ejoajurã rekopyahuvéva.">
-<!ENTITY  pluginupdateslink.label         "Ehecha mba'éichapa embohekopyahúta nemboguerã'i.">
-
 <!ENTITY  noupdatesfound.title            "Ndojejuhúi ñembohekopyahu">
 <!ENTITY  noupdatesautoenabled.intro      "Ndaipóri ñembohekopyahu ojepurukuaáva. &brandShortName; ohechajeýta tapiaite  oĩpa ñembohekopyahu.">
 <!ENTITY  noupdatesautodisabled.intro     "Ndaipóri ñembohekopyahu ojepurukuaáva. Eha'ãjey ag̃amieve térã  emyandy pe votõ ñembohekopyahu ijeheguíva &brandShortName; mba'éva.">

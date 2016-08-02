@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Kookie moneĩ">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Emoneĩ kookie ambue mba'éva:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+
 <!ENTITY  acceptThirdParty.always.label   "Katui">
 <!ENTITY  acceptThirdParty.never.label    "Araka'eve">
 <!ENTITY  acceptThirdParty.visited.label  "Jehopyre">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Ñemboheko…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
+

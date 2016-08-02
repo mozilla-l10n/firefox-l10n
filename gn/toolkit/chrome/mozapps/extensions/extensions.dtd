@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Tekorosãrã jehechajey moĩmbaha rehegua oñemongéma. Ikatu ehecha nde rekorosãrã oñembyaikuaáva embohekopyahu aja.">
 <!ENTITY warning.updatesecurity.enable.label       "Myandy">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Emyandy jehechajey moimbaha rekorosãrã reheguáva">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Ejopy ko'ápe ehecha hag̃ua hekopyahúpa mba'ejoajurã">
-<!ENTITY info.plugincheck.tooltip               "Ejopy ko'ápe ehecha hag̃ua hekopyahúmapa mba'ejoajurãnguéra">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Jeheka">

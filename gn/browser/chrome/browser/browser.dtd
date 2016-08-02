@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Tendayke mombytapy mbogue">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "Ovetã pyahúpe jegueraha">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Opaite tendayke mbojoapy…">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Opaite tendayke jehechauka">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
+
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label;-pe jeike">
 <!ENTITY fxaSignedIn.tooltip "Eike &syncBrand.shortName.label; oguerohoryvévape">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label;-pe jeikejey">
@@ -131,10 +138,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY exitDOMFullscreen.button "Esẽ mba'erechaha tuichavévagui (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Esẽ mba'erechaha tuichavévagui (esc)">
 <!ENTITY leaveDOMFullScreen.label "Mba'erechaha tuichavévagui ñesẽ">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "Ovetã mboty">
 <!ENTITY closeWindow.accesskey "d">
@@ -456,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Ovetã pyahu korápe jeike">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "Juajuha tendayke pyahu ñongatuhápe jeike">
-<!ENTITY openLinkCmdInContainerTab.accesskey "C">
+
+
 <!ENTITY showOnlyThisFrameCmd.label     "Ko kora año jehechauka">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -676,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "Mohu'ã">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "Jeikekatu">
 <!ENTITY identity.connectionNotSecure "Jeikekatu'ỹre">
@@ -772,12 +789,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Mopyenda momarandu jehechauka">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "<label/> mba'epytyvõrã oñemyendýma. Ikatu remoambue mba'epytyvõrã reko <label class='text-link'>-pe ha'éva moĩmbaha ñangarekoha </label>.">
-<!ENTITY social.activated.undo.label "¡Ndeee! Kóva emboguevi">
-<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "Kuaave…">
 <!ENTITY social.learnMore.accesskey "L">
-<!ENTITY social.closeNotificationItem.label "Ani ko'ág̃a">
 
 <!ENTITY social.directory.label "Marandurenda'aty myanydha">
 <!ENTITY social.directory.text "Ikatu omyendy mba'epytyvõrã marandurenda'aty rehegua.">
