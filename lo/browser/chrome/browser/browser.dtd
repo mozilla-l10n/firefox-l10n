@@ -38,6 +38,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ບໍ່ປັກແທັບ">
 <!ENTITY  unpinTab.accesskey                 "b">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "ຍ້າຍໄປຫນ້າຕ່າງໃຫມ່">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 
@@ -107,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY fullScreenMinimize.tooltip "ເຮັດໃຫ້ນ້ອຍລົງ">
 <!ENTITY fullScreenRestore.tooltip "ກູ້ຄືນ">
 
@@ -129,6 +136,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "ອອກຈາກໂມດເຕັມຫນ້າຈໍ">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "ປິດຫນ້າຕ່າງ">
 <!ENTITY closeWindow.accesskey "d">
@@ -711,10 +727,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.toggleNotifications.label "ສະແດງໜ້າຈໍຫຼັກ ແລະ ການແຈ້ງເຕືອນ">
 <!ENTITY social.toggleNotifications.accesskey "n">
-
-
-
-
 
 
 
