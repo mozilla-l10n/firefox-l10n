@@ -48,6 +48,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Bloquejos de fils">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histogrames">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogrames amb clau">

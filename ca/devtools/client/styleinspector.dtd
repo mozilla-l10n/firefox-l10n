@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "No s'ha trobat cap propietat CSS.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "Calculat">
-<!ENTITY ruleViewTitle         "Regles">
