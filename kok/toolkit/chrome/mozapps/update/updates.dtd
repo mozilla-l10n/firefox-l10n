@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  " सुदार तपासता">
 <!ENTITY  updateCheck.label               "आनी ब्रॅन्ड शॉर्ट नेमाचें नवें वर्जन पळयता;...">
 
-<!ENTITY  pluginupdatesfound.title        "प्लग इनाखातीर अपडेट मेळ्ळे">
-<!ENTITY  pluginupdatesfound.label        "तुमच्या एक वा चड प्लग इनाचीं नवीं वर्जना मेळ्ळीं.">
-<!ENTITY  pluginupdateslink.label         "तुमचे प्लग इन कशे अपग्रेड करपाचे तें पळयात.">
-
 <!ENTITY  noupdatesfound.title            "सुदार मेळूना.">
 <!ENTITY  noupdatesautoenabled.intro      "सुदार उपलब्ध ना. &brandShortName; ठराविक काळाउपरांतसुदार तपासतले.">
 <!ENTITY  noupdatesautodisabled.intro     "सुदार उपलब्ध ना. मात्शे थोड्या वेळान तपासात वो &brandShortName; चे आपसूक सुदार तपासपसक्रिय करात.">

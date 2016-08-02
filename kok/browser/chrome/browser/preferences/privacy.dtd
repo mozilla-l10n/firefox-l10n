@@ -41,8 +41,7 @@
 <!ENTITY  acceptCookies.label           "सायटीवयल्यो कुकीज स्विकारात">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "तिसऱ्या पार्टीची कुकी स्विकारात:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+
 <!ENTITY  acceptThirdParty.always.label   "सदाच">
 <!ENTITY  acceptThirdParty.never.label    "केन्नाच ना">
 <!ENTITY  acceptThirdParty.visited.label  "भेट दिल्ल्या कडल्यान">
@@ -99,3 +98,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "मांडावळी…">
 <!ENTITY  clearOnCloseSettings.accesskey "ड">
+
+
+
+

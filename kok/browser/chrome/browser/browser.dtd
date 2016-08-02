@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "टॅबाची पीन काडची">
 <!ENTITY  unpinTab.accesskey                 "ब">
+
+
+
+
+
+
 <!ENTITY  moveToNewWindow.label              "नव्या विंडोंत व्हरचें">
 <!ENTITY  moveToNewWindow.accesskey          "व">
 <!ENTITY  bookmarkAllTabs.label              "सगळे टॅब्स बूकमार्क करचे...">
@@ -106,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "सगळे टॅब्स दाखोवचे">
 <!ENTITY showAllTabsCmd.accesskey "स">
 
+
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; न सायन ईन करात">
 
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; कडे परत जुळात">
@@ -134,6 +141,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY leaveDOMFullScreen.label "पुराय पड्ड्यातल्यान वचात">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
 
 <!ENTITY closeWindow.label "जनेल बंद करात">
 <!ENTITY closeWindow.accesskey "d">
@@ -741,12 +757,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "डेस्कटॉप अधिसुचोवण्यो दाखयात">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "<label/> तल्यो सेवा सक्षम केल्यात. <label class='मजकूर-जोडणी'>अॅड-ऑन व्यवस्थापक</label> सेवांखातीर तुमी तुमची स्थापितां बदलुपाक शकता.">
-<!ENTITY social.activated.undo.label "उप्स, हे करू नाकात!">
-<!ENTITY social.activated.undo.accesskey "u">
 <!ENTITY social.learnMore.label "अदिक शिकात…">
 <!ENTITY social.learnMore.accesskey "L">
-<!ENTITY social.closeNotificationItem.label "आतां न्हय">
 
 <!ENTITY social.directory.label "सक्रिय करपाची निदेशिका">
 <!ENTITY social.directory.text "तुमी निदेशिकेतल्यान वाटून घेवपाच्यो सेवा सक्रिय करपाक शकता.">

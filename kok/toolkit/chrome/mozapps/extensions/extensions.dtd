@@ -35,10 +35,6 @@
 <!ENTITY warning.updatesecurity.label              "अॅड-ऑन सुदार सुरक्षा तपासणी अक्षम केल्या. तुमच्या सुदारांनी तडजोड केल्ली आसू येता.">
 <!ENTITY warning.updatesecurity.enable.label       "सक्षम">
 <!ENTITY warning.updatesecurity.enable.tooltip     "अँड-ऑन अपडेट सुरक्षा तपासणी समर्थ करा">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "तुमचे प्लगइन्स अद्यावत आसात जाल्यार तपासात">
-<!ENTITY info.plugincheck.tooltip               "तुमचे प्लगइन्स अद्यावत आसात जाल्यार तपासात">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "अँड-ऑन मेळयात">
 <!ENTITY view.recentUpdates.label             "हालींचे अपडेट">

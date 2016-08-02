@@ -64,6 +64,7 @@
 <!ENTITY update.adminDisabled       "तुमच्या यंत्रणा प्रशसकान अद्यावतां असक्रिय केल्यांत">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; हेर इंन्सन्स सुदारता">
+
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download

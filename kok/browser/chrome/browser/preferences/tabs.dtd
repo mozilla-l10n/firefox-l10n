@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "हाचे सुवातेर नव्या टॅबांत नवो विंडो उगडचो">
-<!ENTITY newWindowsAsTabs.accesskey   "ट">
+
+
 
 <!ENTITY warnCloseMultipleTabs.label  "बहुटॅब्ज बंद जातास्तना शिटकावणी दियात ">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">

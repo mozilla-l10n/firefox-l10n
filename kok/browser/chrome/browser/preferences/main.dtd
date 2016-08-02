@@ -31,8 +31,7 @@
 <!ENTITY alwaysAsk.label " प्रत्येक फायल खंय जतनाय करपाची ते माका विचारात">
 <!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY alwaysCheckDefault2.label        " &brandShortName; तुमचे मुळावे ब्रावजर आसा जाल्यार सदाच तपासात.">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+
 <!ENTITY setAsMyDefaultBrowser2.label     " मुळावे करात">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "म">
 <!ENTITY isDefault.label                  "&brandShortName; तुमचो सद्याचो मूळ ब्रावजर">
