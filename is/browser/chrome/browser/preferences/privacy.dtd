@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Þiggja smákökur frá vefsvæðum">
 <!ENTITY  acceptCookies.accesskey       "Þ">
 
-<!ENTITY  acceptThirdParty.pre.label      "Þiggja smákökur frá þriðja aðila:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "Þ">
+
 <!ENTITY  acceptThirdParty.always.label   "Alltaf">
 <!ENTITY  acceptThirdParty.never.label    "Aldrei">
 <!ENTITY  acceptThirdParty.visited.label  "Frá heimsóttum síðum">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Stillingar…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+
+
+
