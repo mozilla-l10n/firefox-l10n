@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "अद्यावधिकहरू जाँच गर्दै…">
 <!ENTITY  updateCheck.label               "&brandShortName;को नयाँ संस्करण खोज्दै…">
 
-<!ENTITY  pluginupdatesfound.title        "प्लगिनको लागि अपडेटहरू भेटियो">
-<!ENTITY  pluginupdatesfound.label        "तपाईँको एक या बढि प्लगइनहरूको अद्यावधि भेटियो।">
-<!ENTITY  pluginupdateslink.label         "तपाईँको प्लगइन अपग्रेड कसरी गर्ने भनेर हेर्नुहोस्।">
-
 <!ENTITY  noupdatesfound.title            "कुनै अद्यावधि पाइएन">
 <!ENTITY  noupdatesautoenabled.intro      "कुनै पनि अपडेट उपलब्ध छैन। &brandShortName; ले  समय समयमा अपडेटका लागि जाँच गर्ने छ।  ">
 
