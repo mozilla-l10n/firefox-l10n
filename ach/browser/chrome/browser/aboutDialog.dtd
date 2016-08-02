@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "Ngat ma loyo nyonyo ni ojuko ngec manyen woko">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; tye ka keto ngec manyen ki ka mukene">
+
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download

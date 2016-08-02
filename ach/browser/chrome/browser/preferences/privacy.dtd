@@ -44,8 +44,7 @@
 <!ENTITY  acceptCookies.label           "Ye angija ki bot kakube">
 <!ENTITY  acceptCookies.accesskey       "e">
 
-<!ENTITY  acceptThirdParty.pre.label      "Ye angija ki bot dul me adek:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "e">
+
 <!ENTITY  acceptThirdParty.always.label   "Jwijwi">
 <!ENTITY  acceptThirdParty.never.label    "Pe matwal">
 <!ENTITY  acceptThirdParty.visited.label  "Ki i ma kilimo">
@@ -102,3 +101,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Ter…">
 <!ENTITY  clearOnCloseSettings.accesskey "r">
+
+
+
+

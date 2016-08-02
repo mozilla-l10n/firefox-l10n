@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Roto pi ngec manyen">
 <!ENTITY  updateCheck.label               "Neno pi cik manyen me &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Ngec manyen pi larwak ononge">
-<!ENTITY  pluginupdatesfound.label        "Cik manyen maloyo pi acel onyo mukene pi rwako mamegi iyie kinongo gi.">
-<!ENTITY  pluginupdateslink.label         "Nen kite me yilo rwom me rwako iyie.">
-
 <!ENTITY  noupdatesfound.title            "Pe kinongo ngec manyen mo">
 <!ENTITY  noupdatesautoenabled.intro      "Ngec manyen pe tye. &brandShortName; bi roto karekare pi ngec manyen.">
 <!ENTITY  noupdatesautodisabled.intro     "Ngec manyen pe tye. Tim ber irot dok lacen onyo ye rot pire kene pa &brandShortName;.">

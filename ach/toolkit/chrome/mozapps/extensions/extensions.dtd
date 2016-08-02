@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Ngiyo ber bedo pa ngec manyen me med-ikome kijuko woko. Mogo nongo inongo peko ki bot ngec manyen.">
 <!ENTITY warning.updatesecurity.enable.label       "Ye">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Ye ngiyo ber bedo pa ngec mayen">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Ngi me neno kace larwak mamegi tye kakare">
-<!ENTITY info.plugincheck.tooltip               "Roti pi neno ka gi rwako ni tye kakare">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Yeny">
