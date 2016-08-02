@@ -1,109 +1,6 @@
-<!-- LOCALIZATION NOTE (inspectorHTMLEdit.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users edit the
-     (outer) HTML of the current node -->
-<!ENTITY inspectorHTMLEdit.label       "Cuir HTML in Eagar">
-<!ENTITY inspectorHTMLEdit.accesskey   "E">
-<!-- LOCALIZATION NOTE (inspectorCopyInnerHTML.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users copy the
-     inner HTML of the current node -->
-
-<!ENTITY inspectorCopyInnerHTML.label       "HTML Istigh">
-<!ENTITY inspectorCopyInnerHTML.accesskey   "I">
-<!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users copy the
-     outer HTML of the current node -->
-
-<!ENTITY inspectorCopyOuterHTML.label       "HTML Amuigh">
-<!ENTITY inspectorCopyOuterHTML.accesskey   "A">
-<!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users copy
-     the CSS Selector of the current node -->
-
-<!ENTITY inspectorCopyCSSSelector.label "Roghnóir CSS">
-<!ENTITY inspectorCopyCSSSelector.accesskey "S">
-<!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users paste outer
-     HTML in the current node -->
-
-<!ENTITY inspectorPasteOuterHTML.label      "HTML Amuigh">
-<!ENTITY inspectorPasteOuterHTML.accesskey  "A">
-<!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users paste inner
-     HTML in the current node -->
-
-<!ENTITY inspectorPasteInnerHTML.label      "HTML Istigh">
-<!ENTITY inspectorPasteInnerHTML.accesskey  "I">
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
-     shown in the inspector contextual-menu for the sub-menu of the other Paste
-     items, which allow to paste HTML:
-     - before the current node
-     - after the current node
-     - as the first child of the current node
-     - as the last child of the current node -->
-
-<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "Greamaigh…">
-<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "G">
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users paste
-     the HTML before the current node -->
-
-<!ENTITY inspectorHTMLPasteBefore.label      "Roimh">
-<!ENTITY inspectorHTMLPasteBefore.accesskey  "R">
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
-     in the inspector contextual-menu for the item that lets users paste
-     the HTML after the current node -->
-
-<!ENTITY inspectorHTMLPasteAfter.label       "Tar éis">
-<!ENTITY inspectorHTMLPasteAfter.accesskey   "a">
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users paste
-     the HTML as the first child the current node -->
-
-<!ENTITY inspectorHTMLPasteFirstChild.label      "Mar an chéad mhacnód">
-<!ENTITY inspectorHTMLPasteFirstChild.accesskey  "c">
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users paste
-     the HTML as the last child the current node -->
-
-<!ENTITY inspectorHTMLPasteLastChild.label       "Mar an macnód deireanach">
-<!ENTITY inspectorHTMLPasteLastChild.accesskey   "d">
-<!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users scroll
-     the current node into view -->
-
-<!ENTITY inspectorScrollNodeIntoView.label       "Scrollaigh isteach san Amharc">
-<!ENTITY inspectorScrollNodeIntoView.accesskey   "S">
-<!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
-     the inspector contextual-menu for the item that lets users delete the
-     current node -->
-
-<!ENTITY inspectorHTMLDelete.label          "Scrios Nód">
-<!ENTITY inspectorHTMLDelete.accesskey      "S">
-<!-- LOCALIZATION NOTE (inspectorAttributesSubmenu.label): This is the label
-     shown in the inspector contextual-menu for the sub-menu of the other
-     attribute items, which allow to:
-     - add new attribute
-     - edit attribute
-     - remove attribute -->
-
-<!ENTITY inspectorAttributesSubmenu.label      "Aitreabúidí">
-<!ENTITY inspectorAttributesSubmenu.accesskey  "A">
-<!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
-     the inspector contextual-menu for the item that lets users add attribute
-     to current node -->
-
-<!ENTITY inspectorAddAttribute.label        "Cuir Aitreabúid Leis">
-<!ENTITY inspectorAddAttribute.accesskey    "A">
-<!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
-     the inspector contextual-menu for the item that lets users edit attribute
-     for current node -->
-
-<!ENTITY inspectorEditAttribute.label        "Cuir Aitreabúid in Eagar">
-<!ENTITY inspectorEditAttribute.accesskey    "E">
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
-
 <!ENTITY inspectorRemoveAttribute.label        "Bain Aitreabúid">
 <!ENTITY inspectorRemoveAttribute.accesskey    "B">
 
@@ -112,68 +9,11 @@
      shown as the placeholder for the markup view search in the inspector. -->
 
 <!ENTITY inspectorSearchHTML.label3 "Cuardaigh HTML">
-<!-- LOCALIZATION NOTE (inspectorImageDataUri.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users copy
-     the URL embedding the image data encoded in Base 64 (what we name
-     here Image Data URL). For more information:
-     https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
-
-<!ENTITY inspectorImageDataUri.label       "URL ina bhfuil sonraí na híomhá">
-<!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users see
-     the DOM properties of the current node. When triggered, this item
-     opens the split Console and displays the properties in its side panel. -->
-
-<!ENTITY inspectorShowDOMProperties.label       "Taispeáin na hAiríonna DOM">
-<!-- LOCALIZATION NOTE (inspectorUseInConsole.label): This is the label
-     shown in the inspector contextual-menu for the item that outputs a
-     variable for the current node to the console. When triggered,
-     this item opens the split Console. -->
-
-<!ENTITY inspectorUseInConsole.label       "Úsáid i gConsól">
-<!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
-     shown in the inspector contextual-menu for recursively expanding
-     mark-up elements -->
-
-<!ENTITY inspectorExpandNode.label       "Leathnaigh Uile">
-<!-- LOCALIZATION NOTE (inspectorCollapseNode.label): This is the label
-     shown in the inspector contextual-menu for recursively collapsing
-     mark-up elements -->
-
-<!ENTITY inspectorCollapseNode.label       "Laghdaigh">
-<!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users take
-     a screenshot of the currently selected node. -->
-
-<!ENTITY inspectorScreenshotNode.label       "Glac Pictiúr den Nód">
-<!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
-     shown in the inspector contextual-menu for the item that lets users
-     duplicate the currently selected node. -->
-
-<!ENTITY inspectorDuplicateNode.label       "Cóipeáil an Nód">
 <!-- LOCALIZATION NOTE (inspectorAddNode.label): This is the label shown in
      the inspector toolbar for the button that lets users add elements to the
      DOM (as children of the currently selected element). -->
 
 <!ENTITY inspectorAddNode.label       "Cruthaigh Nód Nua">
 <!ENTITY inspectorAddNode.accesskey   "C">
-<!-- LOCALIZATION NOTE (inspectorCopyHTMLSubmenu.label): This is the label
-     shown in the inspector contextual-menu for the sub-menu of the other
-     copy items, which allow to:
-     - Copy Inner HTML
-     - Copy Outer HTML
-     - Copy Unique selector
-     - Copy Image data URI -->
-
-<!ENTITY inspectorCopyHTMLSubmenu.label      "Cóipeáil">
-<!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
-     shown in the inspector contextual-menu for the sub-menu of the other
-     paste items, which allow to:
-     - Paste Inner HTML
-     - Paste Outer HTML
-     - Before
-     - After
-     - As First Child
-     - As Last Child -->
-
-<!ENTITY inspectorPasteHTMLSubmenu.label      "Greamaigh">
+<!-- LOCALIZATION NOTE (inspectorEyeDropper.label): A string displayed as the tooltip of
+     a button in the inspector which toggles the Eyedropper tool -->

@@ -36,7 +36,3 @@
   -  displayed. -->
 
 <!ENTITY noPropertiesFound     "Níor aimsíodh aon airíonna CSS.">
-<!-- FIXME: notes -->
-
-<!ENTITY computedViewTitle     "Ríomhairithe">
-<!ENTITY ruleViewTitle         "Rialacha">

@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Tá seiceáil shlándáil na mbreiseán díchumasaithe. D'fhéadfadh nuashonruithe dochar a dhéanamh.">
 <!ENTITY warning.updatesecurity.enable.label       "Cumasaigh">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Cumasaigh seiceáil slándála nuashonrú na mbreiseán">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Seiceáil an bhfuil do chuid forlíontán cothrom le dáta">
-<!ENTITY info.plugincheck.tooltip               "Seiceáil an bhfuil do chuid forlíontán cothrom le dáta">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Cuardaigh">
