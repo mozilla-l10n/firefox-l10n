@@ -48,6 +48,7 @@
 <!ENTITY  switch_to_tab "ట్యాబుకు మారండి">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "ఆఫ్ లైన్ వెర్షన్ చూపించు">
 
 <!ENTITY  crash_reporter_title "&brandShortName; క్రాష్ రిపోర్టర్">
 <!ENTITY  crash_message2 "&brandShortName; ఏదో సమస్య వచ్చి క్రాషయ్యింది. పునఃప్రారంభించగానే మీ ట్యాబులు &brandShortName; మొదటి పేజీలో కనిపిస్తాయి.">
@@ -273,12 +274,17 @@
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "ప్రయోగాత్మక ఫీచర్‌లు">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "అనుకూలిత టాబ్‌లు">
+<!ENTITY pref_custom_tabs_summary "మూడవ పక్ష అనువర్తనాలు కస్టమ్ రూపాన్ని మరియు భావాన్ని తో URL లు తెరవడానికి అనుమతించు.">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "కార్యాచరణ స్ట్రీమ్">
+<!ENTITY pref_activity_stream_summary "ఘనమైన దృశ్య చరిత్రలో ఫీడ్ మరియు ఒక హోమ్ పేజీ మీరు &brandShortName; కోసం చూస్తున్నారా ఖచ్చితంగా కనుగొనడాన్ని గతంలో కంటే సులభం.">
 
 <!ENTITY tracking_protection_prompt_title "ఇప్పుడు ట్రాకింగ్ సంరక్షణతో ఉన్నది">
 <!ENTITY tracking_protection_prompt_text "కాబట్టి మీరు ఆందోళన చెందనవసరం లేదు చురుకుగా ట్రాకింగ్ అంశాలు బ్లాక్ చేయండి.">
@@ -392,6 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "సింకైన ట్యాబులు">
 
 <!ENTITY pref_default_browser "డీఫాల్ట్ బ్రౌజర్ గా చేయండి">
+<!ENTITY pref_default_browser_mozilla_support_tablet "మొజిల్లా మద్దతు సందర్శించండి">
 <!ENTITY pref_about_firefox "&brandShortName; గురించి">
 <!ENTITY pref_vendor_faqs "సందేహాలు">
 <!ENTITY pref_vendor_feedback "అభిప్రాయాన్ని తెలియజేయండి">
@@ -580,8 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "విహరణ చరిత్రను తుడిచేయి">
 <!ENTITY home_clear_history_confirm "మీరు నిశ్చయంగా మీ చరిత్రను తుడిచేయాలని అనుకొంటున్నారా?">
 <!ENTITY home_bookmarks_empty "మీరు భద్రపరుచుకున్న ఇష్టాంశాలు ఇక్కడ ఉంటాయి.">
+<!ENTITY home_closed_tabs_title2 "ఇటీవల మూసినవి">
 <!ENTITY home_last_tabs_empty "మీ ఇటీవలి ట్యాబులు ఇక్కడ కనిపిస్తాయి.">
+<!ENTITY home_restore_all "మొత్తం పునరుద్ధరించు">
+<!ENTITY home_closed_tabs_number "&formatD; ట్యాబులు">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 టాబ్">
 <!ENTITY home_most_recent_empty "మీరు ఇటీవల చూసిన వెబ్ సైట్లు ఇక్కడ కనిపిస్తాయి.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
