@@ -44,9 +44,11 @@
 
 <!ENTITY  bookmarks_title "Marcadores">
 <!ENTITY  history_title "Histórico">
-<!ENTITY  recent_tabs_title "Separadores recentes">
 
 <!ENTITY  switch_to_tab "Mudar para o separador">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+
+<!ENTITY  tab_offline_version "A mostrar versão offline">
 
 <!ENTITY  crash_reporter_title "Relator de falhas do &brandShortName;">
 <!ENTITY  crash_message2 "O &brandShortName; teve um problema e falhou. Os seus separadores deverão estar listados na página Inicial do &brandShortName; quando reiniciar.">
@@ -269,6 +271,14 @@
 
 <!ENTITY pref_whats_new_notification "Novidades no &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Saber sobre novas funcionalidades depois de uma atualização">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
 
 <!ENTITY tracking_protection_prompt_title "Agora com proteção contra-monitorização">
 <!ENTITY tracking_protection_prompt_text "Bloqueia ativamente os elementos de monitorização para que não tenha de se preocupar.">
@@ -382,6 +392,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Separadores sincronizados">
 
 <!ENTITY pref_default_browser "Tornar navegador predefinido">
+
 <!ENTITY pref_about_firefox "Acerca do &brandShortName;">
 <!ENTITY pref_vendor_faqs "Perguntas frequentes">
 <!ENTITY pref_vendor_feedback "Deixe a sua opinião">
@@ -570,10 +581,11 @@ size. -->
 <!ENTITY home_clear_history_button "Limpar histórico de navegação">
 <!ENTITY home_clear_history_confirm "Tem a certeza de que pretende apagar o histórico?">
 <!ENTITY home_bookmarks_empty "Os marcadores serão mostrados aqui.">
-<!ENTITY home_closed_tabs_title "Separadores fechados recentemente">
-<!ENTITY home_last_tabs_title "Separadores da última vez">
+
 <!ENTITY home_last_tabs_empty "Os seus separadores recentes.">
-<!ENTITY home_open_all "Abrir todos">
+
+
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Os sites mais visitados são mostrados aqui.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +637,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ligação segura">
 <!ENTITY identity_connection_insecure "Ligação não-segura">
-<!ENTITY identity_login_insecure "Esta página não é segura e as suas credenciais podem estar vulneráveis.">
 <!ENTITY identity_connection_chromeui "Esta é uma página segura do &brandShortName;.">
 <!-- Mixed content notifications in site identity popup -->
 
