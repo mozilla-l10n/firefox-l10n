@@ -6,7 +6,6 @@
 <!ENTITY safeb.palm.decline.label "આ ચેતવણી અવગણો">
 
 
-
 <!ENTITY safeb.blocked.malwarePage.title "અહેવાલ અપાયેલ હુમલા પાનું!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> આગળ આ પાનાંનો હુમલા પાના તરીકે અહેવાલ આપવામાં આવ્યો છે અને તમારી સુરક્ષા પસંદગીઓના આધારે તેને બ્લૉક કરવામાં આવ્યું છે.">
@@ -18,4 +17,3 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
