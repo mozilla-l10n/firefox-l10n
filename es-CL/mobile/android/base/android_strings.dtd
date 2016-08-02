@@ -48,6 +48,7 @@
 <!ENTITY  switch_to_tab "Cambiar a la pestaña">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Mostrando versión sin conexión">
 
 <!ENTITY  crash_reporter_title "Reporte de fallos de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; tuvo un problema. Tus pestañas deberían ser listadas en la página de inicio de &brandShortName; cuando lo reinicies. ">
@@ -273,12 +274,16 @@
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "Funciones experimentales">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "Pestañas personalizadas">
+<!ENTITY pref_custom_tabs_summary "Permitir a apps de terceros abrir URLs con una apariencia personalizada.">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Activity Stream">
 
 <!ENTITY tracking_protection_prompt_title "Ahora con protección de seguimiento">
 <!ENTITY tracking_protection_prompt_text "Bloquea activamente elementos de rastreo para que no te tengas que preocupar.">
@@ -392,6 +397,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Pestañas sincronizadas">
 
 <!ENTITY pref_default_browser "Establecer como navegador predeterminado">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Visita el soporte de Mozilla">
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_vendor_faqs "Preguntas frecuentes">
 <!ENTITY pref_vendor_feedback "Enviar comentario">
@@ -580,8 +586,12 @@ size. -->
 <!ENTITY home_clear_history_button "Limpar historial de navegación">
 <!ENTITY home_clear_history_confirm "¿Estás seguro que deseas limpiar tu historial?">
 <!ENTITY home_bookmarks_empty "Los marcadores que guardas se muestran aquí.">
+<!ENTITY home_closed_tabs_title2 "Cerradas recientemente">
 <!ENTITY home_last_tabs_empty "Tus pestañas recientes son mostradas aquí.">
+<!ENTITY home_restore_all "Restaurar todas">
+<!ENTITY home_closed_tabs_number "&formatD; pestañas">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 pestaña">
 <!ENTITY home_most_recent_empty "Los sitios visitados recientemente son mostrados aquí.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
