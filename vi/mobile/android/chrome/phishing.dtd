@@ -6,7 +6,6 @@
 <!ENTITY safeb.palm.decline.label "Bỏ qua cảnh báo này">
 
 
-
 <!ENTITY safeb.blocked.malwarePage.title "Trang web Ác ý Đã biết!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Trang web tại <span id='malware_sitename'/> được báo cáo là trang web ác ý và đã bị chặn dựa trên tùy chỉnh bảo mật của bạn.">
@@ -20,4 +19,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Trang web tại <span id='unwanted_sitename'/> được báo cáo là có chứa phần mềm không mong muốn và đã bị chặn dựa trên tùy chỉnh bảo mật của bạn.">
 
 
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
