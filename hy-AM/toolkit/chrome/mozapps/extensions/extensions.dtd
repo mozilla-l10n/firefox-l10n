@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Հավելումների թարմացման անվտանգության ստուգումը պասիվացված է: Թարմացումները կարող են վտանգավոր լինել ձեր համար:">
 <!ENTITY warning.updatesecurity.enable.label       "Միացնել">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Միացնել հավելման թարմացման անվտանգության ստուգումը">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Ստուգեք՝ արդյոք բոլոր բաղադրիչներն են թարմ վիճակում">
-<!ENTITY info.plugincheck.tooltip               "Ստուգեք՝ արդյոք բոլոր բաղադրիչներն են թարմ վիճակում">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Որոնում">

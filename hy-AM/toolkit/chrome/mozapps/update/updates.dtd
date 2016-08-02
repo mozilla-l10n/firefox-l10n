@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Ստուգվում են թարմացումները">
 <!ENTITY  updateCheck.label               "Փնտրվում է &brandShortName;-ի նոր տարբերակը…">
 
-<!ENTITY  pluginupdatesfound.title        "Գտնվել են բաղադրիչների թարմացումներ">
-<!ENTITY  pluginupdatesfound.label        "Գտնվել են թարմացումներ՝ մեկ կամ մի քանի բաղադրիչների համար:">
-<!ENTITY  pluginupdateslink.label         "Իմացեք, թե ինչպես կարելի է թարմացնել բաղադրիչները:">
-
 <!ENTITY  noupdatesfound.title            "Թարմացումներ չկան">
 <!ENTITY  noupdatesautoenabled.intro      "Գոյություն չունեն հասանելի թարմացումներ: &brandShortName;-ը պարբերաբար  կստուգի թարմացումների առկայությունը:">
 <!ENTITY  noupdatesautodisabled.intro     "Չկան հասանելի թարմացումներ: Ստուգեք ավելի ուշ կամ ակտիվացրեք  &brandShortName;-ի թարմացումների ինքնաշխատ ստուգումը:">

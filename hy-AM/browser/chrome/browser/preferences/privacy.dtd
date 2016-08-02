@@ -46,8 +46,7 @@
 <!ENTITY  acceptCookies.label           "Ընդունել cookie-ներ կայքերից">
 <!ENTITY  acceptCookies.accesskey       "Ը">
 
-<!ENTITY  acceptThirdParty.pre.label      "Ընդունել cookie-ներ կողմնակի կայքերից.">
-<!ENTITY  acceptThirdParty.pre.accesskey  "ն">
+
 <!ENTITY  acceptThirdParty.always.label   "Միշտ">
 <!ENTITY  acceptThirdParty.never.label    "Երբեք">
 <!ENTITY  acceptThirdParty.visited.label  "Այցելածներից">
@@ -104,3 +103,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Կարգավորումներ...">
 <!ENTITY  clearOnCloseSettings.accesskey "ր">
+
+
+
+
