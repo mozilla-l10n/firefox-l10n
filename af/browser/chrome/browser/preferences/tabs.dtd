@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newWindowsAsTabs.label       "Open nuwe vensters eerder in 'n nuwe oortjie">
-<!ENTITY newWindowsAsTabs.accesskey   "o">
+
+
 
 <!ENTITY warnCloseMultipleTabs.label  "Waarsku my wanneer ek meer as een oortjie sluit">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
