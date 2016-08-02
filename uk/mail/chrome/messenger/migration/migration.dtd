@@ -7,6 +7,7 @@
 
 <!ENTITY importFromWin.label            "Імпорт налаштувань, параметрів облікового запису, адресної книги, фільтрів та інших даних із:">
 <!ENTITY importFromNonWin.label         "Імпорт налаштувань, параметрів облікового запису, адресної книги, фільтрів та інших даних із:">
+<!ENTITY importSourceNotFound.label     "Не знайдено програми для імпорту даних.">
 
 <!ENTITY importFromNothing.label        "Не імпортувати нічого">
 <!ENTITY importFromNothing.accesskey    "н">
