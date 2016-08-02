@@ -36,10 +36,6 @@
 <!ENTITY warning.updatesecurity.label              "Mae gwirio diogelwch diweddariad wedi ei analluogi. Efallai eich bod o dan fygythiad gan ddiweddariad.">
 <!ENTITY warning.updatesecurity.enable.label       "Galluogi">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Galluogi gwirio diogelwch diweddariad ychwanegyn">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "Gwirio os yw eich ategion yn rhai diweddar">
-<!ENTITY info.plugincheck.tooltip               "Gwirio os yw eich ategion yn rhai diweddar">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Chwilio">
