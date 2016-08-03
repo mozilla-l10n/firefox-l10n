@@ -48,6 +48,8 @@
 <!ENTITY  switch_to_tab "Ichki oynaga o‘tish">
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!ENTITY  tab_offline_version "Oflayn versiyasini ko‘rsatish">
+
 <!ENTITY  crash_reporter_title "&brandShortName; nosozlik ma’lumot bergichi">
 <!ENTITY  crash_message2 "&brandShortName;da nosozlik yuz berdi. Ichki oylanaringiz ro‘yxati &brandShortName; boshlang‘ich sahifasini qayta ishga tushirganingizda ko‘rinishi kerak.">
 <!ENTITY  crash_send_report_message3 "&vendorShortName;ga ushbu nosozlik haqida ayting, shundan so‘ng ular uni to‘g‘rilashadi">
@@ -106,9 +108,10 @@
 <!ENTITY edit_mode_cancel "Bekor qilish">
 
 <!ENTITY close_tab "Ichki oynani yopish">
-
+<!ENTITY one_tab "1 ta ichki oyna">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; ta ichki oyna">
 <!ENTITY new_tab_opened "Yangi ichki oynalar ochildi">
 <!ENTITY new_private_tab_opened "Yangi maxfiy ichki oyna ochildi">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -270,12 +273,18 @@
 <!ENTITY pref_whats_new_notification_summary "Yangilangandan so‘ng yangi xususiyatlar haqida ma’lumot olish">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+
+<!ENTITY pref_category_experimental "Tajribaviy funksiyalar">
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!ENTITY pref_custom_tabs "Boshqa ichki oynalar">
+<!ENTITY pref_custom_tabs_summary "Begona ilova dasturlarga URL manzillarni qulay ko‘rinishda ochishga ruxsat berish.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY pref_activity_stream "Faoliyat oqimi">
+<!ENTITY pref_activity_stream_summary "&brandShortName; orqali izlayotgan narsangizni topishni osonlashtiradigan yangi ko‘rinishdagi bosh sahifa va tarix tasmasi.">
 
 <!ENTITY tracking_protection_prompt_title "Hozir kuzatishdan himoyalanish bilan">
 <!ENTITY tracking_protection_prompt_text "Kuzatish elementlari faol ravishda bloklanmoqda, shuning uchun xavotir olmang.">
@@ -389,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Sinxronlangan ichki oynalar">
 
 <!ENTITY pref_default_browser "Asosiy brauzer sifatida tayinlash">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla qo‘llab-quvvatlash xizmatiga kirish">
 <!ENTITY pref_about_firefox "&brandShortName; haqida">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Mulohaza bildiring">
@@ -578,11 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "Brauzer tarixini tozalash">
 <!ENTITY home_clear_history_confirm "Haqiqatan ham brauzer tarixini tozalamoqchimisiz?">
 <!ENTITY home_bookmarks_empty "Bu yerda ko‘rinishi uchun siz saqlagan xatcho‘plar.">
-
+<!ENTITY home_closed_tabs_title2 "Yaqinda yopilgan ichki oynalar">
 <!ENTITY home_last_tabs_empty "So‘nggi ichki oynalaringiz bu yerda ko‘rsatiladi.">
-
-
+<!ENTITY home_restore_all "Ichki oynalarni tiklash">
+<!ENTITY home_closed_tabs_number "&formatD; ta ichki oyna">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 ta ichki oyna">
 <!ENTITY home_most_recent_empty "So‘nggi tashrif buyurilgan saytlar bu yerda ko‘rinadi.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
