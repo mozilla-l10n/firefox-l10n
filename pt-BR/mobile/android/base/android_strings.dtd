@@ -178,7 +178,7 @@
 <!ENTITY pref_category_vendor_summary2 "Sobre o &brandShortName;, dúvidas, opinião">
 <!ENTITY pref_category_datareporting "Escolha de dados">
 <!ENTITY pref_category_logins "Logins">
-<!ENTITY pref_learn_more "Saiba mais">
+<!ENTITY pref_learn_more "Saber mais">
 <!ENTITY pref_category_installed_search_engines "Mecanismos de pesquisa instalados">
 <!ENTITY pref_category_add_search_providers "Adicionar mais mecanismos de pesquisa">
 <!ENTITY pref_category_search_restore_defaults "Restaurar mecanismos de pesquisa">
@@ -658,7 +658,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_message_disabled2 "Esta página contem elementos que podem rastrear sua navegação.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
-<!ENTITY learn_more "Saiba mais">
+<!ENTITY learn_more "Saber mais">
 <!ENTITY enable_protection "Ativar proteção">
 <!ENTITY disable_protection "Desativar proteção">
 
