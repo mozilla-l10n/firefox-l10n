@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "q">
 <!ENTITY  unpinTab.label                     "Qistirilgan ichki oynani olib tashlash">
 <!ENTITY  unpinTab.accesskey                 "k">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Ichki oynani qurilmaga uzatish">
+<!ENTITY  sendTabToDevice.accesskey          "q">
+<!ENTITY  sendPageToDevice.label             "Sahifani qurilmaga uzatish">
+<!ENTITY  sendPageToDevice.accesskey         "q">
+<!ENTITY  sendLinkToDevice.label             "Havolani qurilmaga uzatish">
+<!ENTITY  sendLinkToDevice.accesskey         "q">
 <!ENTITY  moveToNewWindow.label              "Yangi oynaga ko‘chirish">
 <!ENTITY  moveToNewWindow.accesskey          "y">
 <!ENTITY  bookmarkAllTabs.label              "Barcha ichki oynalarni xatcho‘plarga qo‘shish…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Barcha ichki oynalarni ko‘rsatish">
 <!ENTITY showAllTabsCmd.accesskey "a">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label;ga kirish">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; parametrlarini ochish">
