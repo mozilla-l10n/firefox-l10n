@@ -149,6 +149,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "మీ పాయింటర్ కు నియంత్రణ ఉంది. నియంత్రణ తిరిగి తీసుకోవడానికి Esc ను నొక్కండి.">
+<!ENTITY pointerlockWarning.generic.label "మీ పాయింటర్ కు నియంత్రణ ఉంది. నియంత్రణ తిరిగి తీసుకోవడానికి Esc ను నొక్కండి.">
 
 <!ENTITY closeWindow.label "విండో మూయి">
 <!ENTITY closeWindow.accesskey "d">
