@@ -389,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Términu de gueta o direición">
+<!ENTITY urlbar.placeholder2          "Guetar o introducir direición">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Camudar a la llingüeta:">
 
@@ -514,7 +514,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "Unviar enllaz…">
 <!ENTITY emailPageCmd.accesskey       "U">
-<!ENTITY savePageCmd.label            "Guardar como…">
+<!ENTITY savePageCmd.label            "Guardar páxina como…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "d">
@@ -571,7 +571,7 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Silenciar">
 <!ENTITY mediaMute.accesskey         "S">
-<!ENTITY mediaUnmute.label           "Restaurar soníu">
+<!ENTITY mediaUnmute.label           "Desilenciar">
 <!ENTITY mediaUnmute.accesskey       "s">
 <!ENTITY mediaPlaybackRate2.label     "Velocidá de reproducción">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
@@ -626,7 +626,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Reaniciar">
+<!ENTITY fullZoomResetCmd.label         "Reafitar">
 <!ENTITY fullZoomResetCmd.accesskey     "n">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
@@ -711,19 +711,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "La to conexón a esti sitiu nun ye privada. La información qu'unvies, (como contraseñes, mensaxes, tarxetes de creitu... etc), quiciabes puean vela otros.">
 <!ENTITY identity.description.insecureLoginForms "La información del aniciu de sesión qu'introduzas nesta páxina nun ta segura y pue vese comprometida.">
 <!ENTITY identity.description.weakCipher "La conexón con esti sitiu web usa cifráu feble y nun ye privada.">
-<!ENTITY identity.description.weakCipher2 "Otres persones puen ver esta información o modificar el comportamientu del sitiu web.">
+<!ENTITY identity.description.weakCipher2 "Otra xente pue ver la to información o midificar el comportamientu'l sitiu web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; bloquió partes d'esta páxina que nun son segures.">
 <!ENTITY identity.description.passiveLoaded "La conexón nun ye privada y la información que compartas col sitiu pue ser vista por otros.">
 <!ENTITY identity.description.passiveLoaded2 "Esti sitiu web contién conteníu que nun ye seguru (por exemplu: imáxenes).">
-<!ENTITY identity.description.passiveLoaded3 "Magar que &brandShortName; bloquiara daqué del conteníu, siempre esiste dalgún conteníu na páxina que nun ye seguru (como imáxenes).">
-<!ENTITY identity.description.activeLoaded "Esti sitiu web contién conteníu que nun ye seguru (por exemplu: scripts) y la conexón a esti nun ye privada.">
+<!ENTITY identity.description.passiveLoaded3 "Magar que &brandShortName; bloquiare daqué conteníu, entá hai conteníu na páxina que nun ye seguru (como imáxenes).">
+<!ENTITY identity.description.activeLoaded "Esti sitiu web contién conteníu que nun ye seguru (como scripts) y la to conexón a ella nun ye privada.">
 <!ENTITY identity.description.activeLoaded2 "La información que compartas con esti sitiu van poder vela otros (contraseñes, mensaxes, tarxetes de creitu, etc.).">
 
-<!ENTITY identity.enableMixedContentBlocking.label "Activar proteición">
+<!ENTITY identity.enableMixedContentBlocking.label "Habilitar proteición">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
-<!ENTITY identity.disableMixedContentBlocking.label "Desactivar proteición per agora">
+<!ENTITY identity.disableMixedContentBlocking.label "Deshabilitar proteición pel momentu">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-<!ENTITY identity.learnMore "Deprendi más">
+<!ENTITY identity.learnMore "Depriendi más">
 
 <!ENTITY identity.removeCertException.label "Desaniciar esceición">
 <!ENTITY identity.removeCertException.accesskey "D">
@@ -731,7 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Más información">
 
 <!ENTITY identity.permissions "Permisos">
-<!ENTITY identity.permissionsEmpty "Nun diste a esti sitiu nengún permisu especial.">
+<!ENTITY identity.permissionsEmpty "Nun-y concediesti permisu especial dalu a esti sitiu.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -744,12 +744,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.label    "Anicia sesión en Firefox dende otros preseos pa ver les llingüetes equí.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "¡Entá... nun hai llingüetes sincronizaes!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "¿Quies ver equí les tos llingüetes d'otros preseos?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Anicia sesión pa ver una llista de llingüetes de los otros preseos.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Anicia sesión pa ver un llistáu de llingüetes de los otros preseos de to.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nun hai llingüetes abiertes">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Abrir preferencies de &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activa la sinc de llingüetes pa ver una llista de llingüetes dende otros preseos.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activar sincronización de llingüetes pa ver un llistáu d'elles d'otros preseos de to.">
 
 <!ENTITY syncedTabs.context.open.label                       "Abrir">
 <!ENTITY syncedTabs.context.open.accesskey                   "A">
@@ -783,12 +783,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleSidebar.label "Amosar barra llateral">
 <!ENTITY social.toggleSidebar.accesskey "s">
 
-<!ENTITY social.addons.label "Alministrar servicios…">
+<!ENTITY social.addons.label "Xestionar servicios…">
 
-<!ENTITY social.toggleNotifications.label "Amosar notificaciones d'escritoriu">
-<!ENTITY social.toggleNotifications.accesskey "n">
+<!ENTITY social.toggleNotifications.label "Amosar avisos d'escritoriu">
+<!ENTITY social.toggleNotifications.accesskey "a">
 
-<!ENTITY social.learnMore.label "Deprender más…">
+<!ENTITY social.learnMore.label "Depriendi más…">
 <!ENTITY social.learnMore.accesskey "m">
 
 <!ENTITY social.directory.label "Direutoriu d'activaciones">
@@ -805,20 +805,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.titlebar "Barra de títulu">
 <!ENTITY customizeMode.lwthemes "Temes">
 <!ENTITY customizeMode.lwthemes.myThemes "Los mios temes">
-<!ENTITY customizeMode.lwthemes.recommended "Recomendaos">
-<!ENTITY customizeMode.lwthemes.menuManage "Alministrar">
+<!ENTITY customizeMode.lwthemes.recommended "Aconseyaos">
+<!ENTITY customizeMode.lwthemes.menuManage "Xestionar">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "L">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Consiguir más temes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "C">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Enfocar conversaciones">
+<!ENTITY social.chatBar.label "Enfocar charres">
 <!ENTITY social.chatBar.accesskey "c">
 
 <!ENTITY social.markpageMenu.accesskey "d">
 <!ENTITY social.markpageMenu.label "Guardar páxina en…">
 <!ENTITY social.marklinkMenu.accesskey "G">
-<!ENTITY social.marklinkMenu.label "Guardar enllaz como">
+<!ENTITY social.marklinkMenu.label "Guardar enllaz en…">
 
 <!ENTITY getUserMedia.selectCamera.label "Cámara pa compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -828,33 +828,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Van compartise toles ventanes visibles na to pantalla.">
 
 <!ENTITY trackingProtection.title "Proteición de rastrexu">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ta bloquiando partes de la páxina que quiciabes rastrexen la to actividá de navegación.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Esti sitiu inclúi elementos que puen rastrexar lo que faes. Tienes deshabilitada la proteición.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ta bloquiando partes de la páxina que quiciabes rastrexen la to actividá de restolar.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Esti sitiu inclúi elementos que puen rastrexar lo que restoles. Tienes deshabilitada la proteición.">
 <!ENTITY trackingProtection.notDetected3 "Nun se deteutaron elementos de rastrexu nesta páxina.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Desactivar proteición nesti sitiu">
+<!ENTITY trackingProtection.unblock.label "Deshabilitar proteición pa esti sitiu">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Desactivar proteición pa esta sesión">
+<!ENTITY trackingProtection.unblockPrivate.label "Deshabilitar proteición pa esta sesión">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "Activar proteición">
+<!ENTITY trackingProtection.block2.label "Habilitar proteición">
 <!ENTITY trackingProtection.block2.accesskey "A">
 
-<!ENTITY trackingContentBlocked.message "Rastréu">
-<!ENTITY trackingContentBlocked.moreinfo "Les partes d'esta páxina que rastrexen l'actividá en llinia tán bloquiaes.">
-<!ENTITY trackingContentBlocked.learnMore "Deprender más">
+<!ENTITY trackingContentBlocked.message "Rastrexu">
+<!ENTITY trackingContentBlocked.moreinfo "Bloquiáronse les partes de la páxina que rastrexen la to actividá en llinia.">
+<!ENTITY trackingContentBlocked.learnMore "Depriendi más">
 <!ENTITY trackingContentBlocked.options "Opciones">
-<!ENTITY trackingContentBlocked.unblock2.label "Desactivar proteición nesti sitiu">
+<!ENTITY trackingContentBlocked.unblock2.label "Deshabilitar proteición pa esti sitiu">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Activar proteición">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
-<!ENTITY trackingContentBlocked.disabled.message "La proteición escontra rastréu ta desactivada">
+<!ENTITY trackingContentBlocked.disabled.message "La proteición de rastrexu ta deshabilitada">
 
-<!ENTITY pointerLock.notification.message "Calca ESC (Escape) en cualquier momentu p'amosalu de nueves.">
+<!ENTITY pointerLock.notification.message "Primi ESC cuando quieras p'amosalu de nueves.">
 
 <!ENTITY pluginNotification.showAll.label "Amosar too">
 <!ENTITY pluginNotification.showAll.accesskey "M">
@@ -889,7 +889,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "Si sigues,">
 <!ENTITY panicButton.view.deleteCookies           "van desaniciase les <html:strong>cookies</html:strong> recientes">
-<!ENTITY panicButton.view.deleteHistory           "va desaniciase <html:strong>l'historial</html:strong> reciente">
+<!ENTITY panicButton.view.deleteHistory           "va desaniciase <html:strong>l'historial</html:strong> recién">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "van zarrase toles <html:strong>llingüetes</html:strong> y <html:strong>ventanes</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "va abrise una ventana nueva llimpia">
 
@@ -897,8 +897,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.forgetButton            "¡Escaecer!">
 
 <!ENTITY panicButton.thankyou.msg1                "Desanicióse l'historial recién">
-<!ENTITY panicButton.thankyou.msg2                "¡Navegación segura!">
+<!ENTITY panicButton.thankyou.msg2                "¡Restola seguro!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Gracies!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Más información tocante a DRM…">
+<!ENTITY emeLearnMoreContextMenu.label            "Depriendi más tocante al DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
