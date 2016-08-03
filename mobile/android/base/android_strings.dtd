@@ -284,6 +284,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "ਸਰਗਰਮੀ ਸਟਰੀਮ">
+<!ENTITY pref_activity_stream_summary "ਭਰਪੂਰ ਦਿੱਖ ਅਤੀਤ ਫੀਡ ਅਤੇ ਮੁੜ-ਤਿਆਰ ਕੀਤੇ ਮੁੱਖ ਸਫ਼ੇ ਨਾਲ &brandShortName; ਵਿੱਚ ਤੁਹਾਡੇ ਵਲੋਂ ਲੱਭਣੇ ਜਾਣ ਵਾਲਾ ਹੋਰ ਵੀ ਸੌਖਾ ਹੋ ਗਿਆ ਹੈ।">
 
 <!ENTITY tracking_protection_prompt_title "ਹੁਣ ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ ਦੇ ਨਾਲ">
 <!ENTITY tracking_protection_prompt_text "ਸਰਗਰਮ ਰੂਪ ਵਿੱਚ ਟਰੈਕ ਕੀਤੇ ਜਾਣ ਵਾਲੇ ਭਾਗਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਜਾਂਦੀ ਹੈ ਤਾਂ ਕਿ ਤੁਹਾਨੂੰ ਫ਼ਿਕਰ ਨਾ ਕਰਨਾ ਪਵੇ।">
