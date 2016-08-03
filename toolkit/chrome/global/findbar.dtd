@@ -14,3 +14,4 @@
 <!ENTITY caseSensitive.label "Diferenciar maiúsculas/minúsculas">
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "Pesquisar ignorando maiúsculas de minúsculas">
+<!ENTITY entireWord.label "Palavras completas">
