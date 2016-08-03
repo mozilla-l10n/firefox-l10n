@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Осыдан кеткім келеді!">
 <!ENTITY safeb.palm.decline.label "Осы ескертуді елемеу">
-
+<!ENTITY safeb.palm.reportPage.label "Бұл парақ неге блокталған?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Хабарланған шабуылшы парақ!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
