@@ -48,6 +48,8 @@
 <!ENTITY  switch_to_tab "ຍ້າຍໄປຫາແທັບ">
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!ENTITY  tab_offline_version "ກຳລັງສະແດງເວີຊັນທີ່ສາມາດອັອບໄລນ໌ໄດ້">
+
 <!ENTITY  crash_reporter_title "&brandShortName; ຜູ້ລາຍງານຂໍ້ຜິດພາດ">
 <!ENTITY  crash_message2 "&brandShortName; ໄດ້ເກີດມີບັນກາ ແລະ ຂໍ້ຜິດພາດ. ແທັບຂອງທ່ານຄ່ວນຈະລຽງຢູ່ໃນ &brandShortName; ຫນ້າທຳອິດເມື່ອທ່ານເລີ່ມລະບົບໃຫມ່.">
 <!ENTITY  crash_send_report_message3 "ບອກ &vendorShortName; ກ່ຽວກັບຂໍ້ຜິດພາດນີ້ເພື່ອເຮັດໃຫ້ພວກເຂົາແກ້ໄຂໄດ້">
@@ -106,9 +108,10 @@
 <!ENTITY edit_mode_cancel "ຍົກເລີກ">
 
 <!ENTITY close_tab "ປິດແທັບ">
-
+<!ENTITY one_tab "1 ແທັບ">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; ແທັບ">
 <!ENTITY new_tab_opened "ແທັບໃຫມ່ຖືກເປີດ">
 <!ENTITY new_private_tab_opened "ແທັບສ່ວນຕົວໃຫມ່ຖືກເປີດ ">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -270,11 +273,17 @@
 <!ENTITY pref_whats_new_notification_summary "ຮຽນຮູ້ກ່ຽວກັບຄຸນລັກສະນະໃຫມ່ຫລັງຈາກອັບເດດແລ້ວ">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+
+<!ENTITY pref_category_experimental "ຄຸນລັກສະນະການທົດລອງ">
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!ENTITY pref_custom_tabs "ການປັບແຕ່ງແທັບ">
+<!ENTITY pref_custom_tabs_summary "ອະນຸຍາດໃຫ້ແອັບອື່ນສາມາດເປີດ URLs ທີ່ສາມາດກຳນົດເອງໄດ້.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
+<!ENTITY pref_activity_stream "ກິດຈະກຳສະຕຣີມ">
 
 
 <!ENTITY tracking_protection_prompt_title "ຂະນະນີ້ມີການປ້ອງກັນການຕິດຕາມ">
@@ -389,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Synced ແທັບ">
 
 <!ENTITY pref_default_browser "ຕັ້ງໃຫ້ເປັນບຣາວ໌ເຊີຫລັກ">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "ເຂົ້າໄປທີ່ການສະຫນັບສະຫນູນຂອງ Mozilla">
 <!ENTITY pref_about_firefox "ກ່ຽວກັບ &brandShortName;">
 <!ENTITY pref_vendor_faqs "ຄຳຖາມທີພົບເປັນປະຈຳ">
 <!ENTITY pref_vendor_feedback "ໃຫ້ຄຳແນະນຳ">
@@ -578,11 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "ລົບລ້າງປະຫວັດຂອງການຊອກຫາ">
 <!ENTITY home_clear_history_confirm "ທ່ານຫມັ້ນໃຈແລ້ວບໍ່ວ່າທ່ານຕ້ອງການລົບລ້າງປະຫວັດການໃຊ້ງານຂອງທ່ານທີ່ຜ່ານມາ?">
 <!ENTITY home_bookmarks_empty "Bookmarks ທີ່ທ່ານບັນທຶກໄວ້ສະແດງຂື້ນຢູ່ນີ້.">
-
+<!ENTITY home_closed_tabs_title2 "ຫາກໍ່ປິດໄປມື້ກີ້ນີ້">
 <!ENTITY home_last_tabs_empty "ແທັບຂອງທ່ານມື້ກີ້ນີ້ໄດ້ສະແດງຂື້ນຢູ່ນີ້.">
-
-
+<!ENTITY home_restore_all "ກູ້ຄືນທຸກແທັບ">
+<!ENTITY home_closed_tabs_number "&formatD; ແທັບ">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 ແທັບ">
 <!ENTITY home_most_recent_empty "ເວັບໄຊຕ໌ທີ່ທ່ານຫາກໍ່ເຂົ້າໄປເບິງມື້ກີ້ນີ້ສະແດງຂື້ນຢູ່ທີ່ນີ້.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
