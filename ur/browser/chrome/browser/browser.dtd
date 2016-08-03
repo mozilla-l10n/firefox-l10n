@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "ل">
 <!ENTITY  unpinTab.label                     "ٹیب انپن کریں">
 <!ENTITY  unpinTab.accesskey                 "ٹ">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "ٹیبب کو آلہ پر ارسال کریں">
+<!ENTITY  sendTabToDevice.accesskey          "آ">
+<!ENTITY  sendPageToDevice.label             "صفحہ کو آلہ پر ارسال کریں">
+<!ENTITY  sendPageToDevice.accesskey         "آ">
+<!ENTITY  sendLinkToDevice.label             "ربط کو آلہ پر ارسال کریں">
+<!ENTITY  sendLinkToDevice.accesskey         "آ">
 <!ENTITY  moveToNewWindow.label              "نئے دریچے میں بڑھائیں">
 <!ENTITY  moveToNewWindow.accesskey          "د">
 <!ENTITY  bookmarkAllTabs.label              "تمام ٹیب بک مارک کریں…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "تمام ٹیب دکھائیں">
 <!ENTITY showAllTabsCmd.accesskey "ت">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; سائن ان کریں">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; ترجیحات کھولیں">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "آپ کے نشان کار کا کنٹرول ہے۔ Esc دبا کر کنٹرول واپس لیں">
+<!ENTITY pointerlockWarning.generic.label "اس دستاویز کہ پاس آپ کہ نشان کار کا کنٹرول ہے ۔ کنٹرول واپس حاصل کرنے کے لیے Esc دبائیں ۔">
 
 <!ENTITY closeWindow.label "دریچہ بند کریں">
 <!ENTITY closeWindow.accesskey "د">
@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ٹ">
 <!ENTITY openFrameCmd.label           "فریم نئے دریچے میں کھولیں">
 <!ENTITY openFrameCmd.accesskey       "د">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "ربط کو نئے حامل ٹیب میں کھولیں">
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "صرف یہ فریم دکھائیں">
 <!ENTITY showOnlyThisFrameCmd.accesskey "د">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -581,12 +581,13 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate100x2.accesskey "ع">
 <!ENTITY mediaPlaybackRate125x2.label "(1.25×) گنا تیز">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
-
-
+<!ENTITY mediaPlaybackRate150x2.label "تیز تر (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "ی">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
+<!ENTITY mediaPlaybackRate200x2.label "Ludicrous (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
 <!ENTITY mediaLoop.label             "دہراؤ">
 <!ENTITY mediaLoop.accesskey         "د">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
@@ -692,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "ا">
 
 <!ENTITY editBookmark.done.label                     "ہوگیا">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "بعید کنکشن">
 <!ENTITY identity.connectionNotSecure "کنکشن قابل بھروسا نہیں">

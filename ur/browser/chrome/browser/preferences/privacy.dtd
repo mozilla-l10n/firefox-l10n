@@ -104,6 +104,7 @@
 <!ENTITY  clearOnCloseSettings.label     "سیٹنگیں…">
 <!ENTITY  clearOnCloseSettings.accesskey "س">
 
+<!ENTITY  browserContainersHeader.label         "حامل ٹیبز">
 
-
-
+<!ENTITY  browserContainersEnabled.label        "حامل ٹہن بحال کریں">
+<!ENTITY  browserContainersEnabled.accesskey    "ح">

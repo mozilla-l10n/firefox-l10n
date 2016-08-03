@@ -32,8 +32,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS ورژن 5">
 <!ENTITY  socks5.accesskey              "و">
-
-
+<!ENTITY  socksRemoteDNS.label2         "پراکسی DNS جب استعمال کر رہے ہوں SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "پورٹ:">
 <!ENTITY  HTTPport.accesskey            "پ">
 <!ENTITY  SSLport.accesskey             "س">
