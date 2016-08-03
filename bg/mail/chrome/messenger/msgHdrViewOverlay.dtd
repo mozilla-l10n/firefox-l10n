@@ -56,7 +56,7 @@
 <!ENTITY otherActionsOpenInNewWindow1.label "Отваряне в нов прозорец">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "н">
 <!ENTITY otherActionsOpenInNewTab1.label "Отваряне в раздел">
-<!ENTITY otherActionsOpenInNewTab1.accesskey "п">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "р">
 <!ENTITY markAsReadMenuItem1.label "Отбелязване като прочетено">
 <!ENTITY markAsReadMenuItem1.accesskey "п">
 <!ENTITY markAsUnreadMenuItem1.label "Отбелязване като непрочетено">

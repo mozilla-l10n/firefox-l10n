@@ -6,6 +6,7 @@
 <!ENTITY rights.title            "Относно вашите права">
 <!ENTITY rights.intro-header     "Относно вашите права">
 <!ENTITY rights.intro "&brandFullName; е свободен софтуер с отворен код, разработван от хиляди хора по света. Има няколко неща, които е добре да знаете:">
+
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -14,7 +15,6 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-
 <!ENTITY rights.intro-point1a "&brandShortName; е достъпен според условията на ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Това означава, че може да използвате, копирате и давате на други &brandShortName;. Също така, да променяте програмния код според вашите специфични нужди. Лицензът „Mozilla Public License“ ви дава правото да разпространявате променени версии.">
@@ -22,47 +22,47 @@
 <!ENTITY rights.intro-point2a "Не ви се предоставят права върху търговските марки или логота на Mozilla и Thunderbird. Допълнителна информация за търговските марки може да бъде намерена ">
 <!ENTITY rights.intro-point2b "тук">
 <!ENTITY rights.intro-point2c ".">
-<!-- point 3 text for official branded builds -->
 
+<!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Политиката за поверителност на &vendorShortName; може да бъде намерена ">
 <!ENTITY rights.intro-point3b "тук">
 <!ENTITY rights.intro-point3c ".">
+
 <!-- point 3 text for unbranded builds -->
-
 <!ENTITY rights.intro-point3-unbranded "Всички приложими политики за поверителност трябва да бъдат изброени тук.">
-<!-- point 4 text for official branded builds -->
 
+<!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "&brandShortName; предлага допълнителни услуги, като обновяване на софтуера, без да се дава гаранция, че е 100&#037; точно или безгрешно. Подробности, включително информация как да се изключат тези услуги могат да се намерят в ">
 <!ENTITY rights.intro-point4b "условията на услугите">
 <!ENTITY rights.intro-point4c ".">
-<!-- point 4 text for unbranded builds -->
 
+<!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Ако този продукт включва уеб услуги, всички приложими условия на услугите трябва да имат препратки в раздела ">
 <!ENTITY rights.intro-point4b-unbranded "Услуги за уеб сайтове">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
 <!ENTITY rights.webservices-header "Услуги за уеб сайтове (&brandFullName;)">
+
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-
 <!ENTITY rights.webservices-a "&brandFullName; предлага допълнителни услуги (&quot;Услуги&quot;), като обновяване на софтуера. Те са достъпни от тази компилирана версия на &brandShortName; по начина, описан по-долу. Ако не искате да използвате услугите или условията са неприемливи за вас, можете да изключите обновяването от настройките в раздела ">
 <!ENTITY rights.webservices-b "Разширени">
 <!ENTITY rights.webservices-c " и подраздела ">
 <!ENTITY rights.webservices-d "Обновяване">
 <!ENTITY rights.webservices-e ", като махнете отметката за някой от вариантите на &quot;Автоматична проверка за обновления на&quot;.">
+
 <!-- intro paragraph for unbranded builds -->
-
 <!ENTITY rights.webservices-unbranded "Тук трябва да има общ преглед на услугите за уеб сайтове и инструкции как да се изключат.">
+
 <!-- point 1 text for unbranded builds -->
-
 <!ENTITY rights.webservices-term1-unbranded "Всички приложими условия на услугите трябва да са изброени тук.">
-<!-- points 1-7 text for branded builds -->
 
+<!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; може да прекъсне или промени услугите по свое усмотрение.">
-<!ENTITY rights.webservices-term2 "Приветстваме ви да използвате услугите на тази версия на браузъра - имате нужните права да го правите. &vendorShortName; си запазва всички останали права върху услугите. Тези условия не са предназначени да ограничават каквито и да е права на лицензите за отворен код и съответните версии от изходен код.">
+<!ENTITY rights.webservices-term2 "Приветстваме ви, че използвате тези Услуги предоставени от &brandShortName; и &vendorShortName; ви дава това право. &vendorShortName; и нейните лицензодатели запазват всички други права върху Услугите. Тези условия нямат за цел да ви лишат от права дадени ви от лицензите за отворен код отнасящи се до &brandShortName; и до изходните кодове на съответната версия на &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Тези услуги се предоставят „както са си“. &vendorShortName;, сътрудниците, юристите и разпространителите не дават никакви гаранции, явни или косвени, включително, че услугите ще отговарят на вашите специфични нужди. Вие носите целия риск от използването им за собствени цели, както и от качеството и производителността на услугите. Някои юрисдикции не позволяват изключване или ограничаване на косвените гаранции, така че това ограничаване на отговорността може да не важи за вас.">
 <!ENTITY rights.webservices-term4 "Освен когато законът го изисква, &vendorShortName; сътрудниците, юристите и разпространителите не могат да бъдат подведени под отговорност за каквито и да е косвени, специални, инцидентни, произтичащи, наказателни или типични щети в резултат на или по какъвто и да е начин свързани с използването на &brandShortName; и услугите. Общата отговорност на тези условия не надвишава 500 USD (петстотин американски долара). Някои юрисдикции не позволяват изключването или ограничаването при определени щети, така че това изключване и ограничаване може да не важи за вас.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; може да обновява тези условия от време на време. Тези условия не могат да бъдат променяни или прекъсвани без писменото разрешение на &vendorShortName;.">
