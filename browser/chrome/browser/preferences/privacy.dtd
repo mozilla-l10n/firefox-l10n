@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "Tillat infokapslar">
 <!ENTITY  acceptCookies.accesskey       "T">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Tillat infokapslar frå tredjepart:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "T">
 <!ENTITY  acceptThirdParty.always.label   "Alltid">
 <!ENTITY  acceptThirdParty.never.label    "Aldri">
 <!ENTITY  acceptThirdParty.visited.label  "Frå besøkte">
@@ -104,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Innstillingar …">
 <!ENTITY  clearOnCloseSettings.accesskey "I">
 
+<!ENTITY  browserContainersHeader.label         "Innhaldsfaner">
 <!ENTITY  browserContainersLearnMore.label      "Les meir">
-
-
+<!ENTITY  browserContainersEnabled.label        "Aktiver innehaldsfaner">
+<!ENTITY  browserContainersEnabled.accesskey    "k">
