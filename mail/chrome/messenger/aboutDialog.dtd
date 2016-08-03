@@ -44,6 +44,8 @@
 <!ENTITY helpus.getInvolvedLink     "se nam pridružite!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Opombe ob izdaji">
+
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Dovoljenja">
 
