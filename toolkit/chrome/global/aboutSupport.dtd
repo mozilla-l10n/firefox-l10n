@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "عمّال الخدمة المسجلين">
 
+<!ENTITY aboutSupport.appBasicsProfiles "ملفات الإعدادات">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "نوافذ متعددة السيرورات">
 
@@ -85,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "الرسوميات">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "قاعدة بيانات الأماكن">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "التكامل">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "تحقّق من التكامل">
 
 <!ENTITY aboutSupport.jsTitle "جافاسكربت">
 <!ENTITY aboutSupport.jsIncrementalGC "جامع القمامة التزايدي">
@@ -108,10 +110,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "جرّب الوضع الآمن">
 <!ENTITY aboutSupport.restartInSafeMode.label "أعِد التشغيل مع تعطيل الإضافات…">
 
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "الميزات">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "التشخيص">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "سجل الأعطال">
+<!ENTITY aboutSupport.graphicsGPU1Title "معالج الرسوميات #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "معالج الرسوميات #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "سجل القرارات">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "خصائص حامي التحطم المعطَّلة">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "الحلول الالتفافية">
