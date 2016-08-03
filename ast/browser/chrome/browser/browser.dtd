@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "F">
 <!ENTITY  unpinTab.label                     "Desfixar llingüeta">
 <!ENTITY  unpinTab.accesskey                 "x">
+<!ENTITY  sendTabToDevice.label              "Unviar llingüeta a preséu">
+<!ENTITY  sendTabToDevice.accesskey          "P">
+<!ENTITY  sendPageToDevice.label             "Unviar páxina al preséu">
+<!ENTITY  sendPageToDevice.accesskey         "P">
+<!ENTITY  sendLinkToDevice.label             "Unviar enllaz al preséu">
+<!ENTITY  sendLinkToDevice.accesskey         "P">
 <!ENTITY  moveToNewWindow.label              "Mover a ventana nueva">
 <!ENTITY  moveToNewWindow.accesskey          "V">
 <!ENTITY  bookmarkAllTabs.label              "Amestar toles llingüetes a marcadores…">
@@ -105,11 +111,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "c">
 <!ENTITY showAllTabsCmd.label "Amosar toles llingüetes">
 <!ENTITY showAllTabsCmd.accesskey "t">
+<!ENTITY toggleReaderMode.key "L">
 
 <!ENTITY fxaSignIn.label "Aniciar sesión en &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Abrir preferencies de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconeutase a &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Verifica la to cuenta">
+<!ENTITY fxaUnverified.label "Verificar la to cuenta">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
@@ -142,6 +149,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "tien el control del to punteru. Primi Esc pa recuperalu.">
+<!ENTITY pointerlockWarning.generic.label "Esti documentu tien el control del to punteru. Primi Esc pa recuperalu.">
 
 <!ENTITY closeWindow.label "Zarrar ventana">
 <!ENTITY closeWindow.accesskey "v">
@@ -332,7 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "Personalizar">
 <!ENTITY appMenuCustomize.tooltip "Personaliza'l menú y barres de ferramientes">
-<!ENTITY appMenuCustomizeExit.label "Finar personalización">
+<!ENTITY appMenuCustomizeExit.label "Colar de personalización">
 <!ENTITY appMenuCustomizeExit.tooltip "Fina la personalización">
 <!ENTITY appMenuHistory.label "Historial">
 <!ENTITY appMenuHistory.showAll.label "Amosar tol historial">
