@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Провера надоградњи">
 <!ENTITY  updateCheck.label               "Тражимо ново издање програма &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Пронађене су надоградње за прикључке">
-<!ENTITY  pluginupdatesfound.label        "Пронађена су новија издања једног или више прикључака.">
-<!ENTITY  pluginupdateslink.label         "Погледајте како да надоградите прикључке.">
-
 <!ENTITY  noupdatesfound.title            "Надоградње нису пронађене">
 <!ENTITY  noupdatesautoenabled.intro      "Нема нових надоградњи. &brandShortName;
                                            ће периодичнo проверавати надоградње.">

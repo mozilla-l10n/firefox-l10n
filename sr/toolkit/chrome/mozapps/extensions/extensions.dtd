@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "Омогући">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Омогући проверавање безбедности додатка">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Проверите да ли су прикључци ажурни">
-<!ENTITY info.plugincheck.tooltip               "Проверите да ли су прикључци ажурни">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Тражи">
 <!ENTITY view.discover.label                  "Набави додатке">

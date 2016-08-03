@@ -100,6 +100,10 @@ Ping
   Нит губи везу
 ">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Скалари
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Хистограми
 ">
