@@ -9,6 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Користи цео екран">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Изађи из целог екрана">
 <!ENTITY castingButton.castingLabel "Пребаци на екран">
+<!ENTITY closedCaption.off "Искључено">
 
 <!ENTITY stats.media "Медији">
 <!ENTITY stats.size "Величина">
