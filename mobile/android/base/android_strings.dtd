@@ -282,6 +282,7 @@
 <!ENTITY pref_custom_tabs "Abas personalizadas">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Fluxo de atividade">
 
 <!ENTITY tracking_protection_prompt_title "Agora com proteção contra rastreamento">
 <!ENTITY tracking_protection_prompt_text "Bloqueia elementos de rastreamento para que você não precise se preocupar.">
