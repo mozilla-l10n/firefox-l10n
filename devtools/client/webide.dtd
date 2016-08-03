@@ -4,98 +4,98 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
-<!ENTITY projectMenu_label "Projeto">
+<!ENTITY projectMenu_label "Project">
 <!ENTITY projectMenu_accesskey "P">
-<!ENTITY projectMenu_newApp_label "Novo aplicativo…">
+<!ENTITY projectMenu_newApp_label "New App…">
 <!ENTITY projectMenu_newApp_accesskey "N">
-<!ENTITY projectMenu_importPackagedApp_label "Abrir aplicativo empacotado…">
-<!ENTITY projectMenu_importPackagedApp_accesskey "b">
-<!ENTITY projectMenu_importHostedApp_label "Abrir aplicativo hospedado…">
-<!ENTITY projectMenu_importHostedApp_accesskey "r">
-<!ENTITY projectMenu_selectApp_label "Abrir aplicativo…">
-<!ENTITY projectMenu_selectApp_accesskey "A">
-<!ENTITY projectMenu_play_label "Instalar e executar">
+<!ENTITY projectMenu_importPackagedApp_label "Open Packaged App…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "Open Hosted App…">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "Open App…">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "Install and Run">
 <!ENTITY projectMenu_play_accesskey "I">
-<!ENTITY projectMenu_stop_label "Parar aplicativo">
-<!ENTITY projectMenu_stop_accesskey "P">
-<!ENTITY projectMenu_debug_label "Depurar aplicativo">
+<!ENTITY projectMenu_stop_label "Stop App">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "Debug App">
 <!ENTITY projectMenu_debug_accesskey "D">
-<!ENTITY projectMenu_remove_label "Remover projeto">
-<!ENTITY projectMenu_remove_accesskey "x">
-<!ENTITY projectMenu_showPrefs_label "Preferências">
+<!ENTITY projectMenu_remove_label "Remove Project">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "Preferences">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
-<!ENTITY projectMenu_manageComponents_label "Gerenciar componentes extras">
+<!ENTITY projectMenu_manageComponents_label "Manage Extra Components">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-<!ENTITY projectMenu_refreshTabs_label "Atualizar abas">
+<!ENTITY projectMenu_refreshTabs_label "Refresh Tabs">
 
-<!ENTITY runtimeMenu_label "Ambiente de execução">
-<!ENTITY runtimeMenu_accesskey "m">
-<!ENTITY runtimeMenu_disconnect_label "Desconectar">
+<!ENTITY runtimeMenu_label "Runtime">
+<!ENTITY runtimeMenu_accesskey "R">
+<!ENTITY runtimeMenu_disconnect_label "Disconnect">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_showPermissionTable_label "Tabela de permissões">
-<!ENTITY runtimeMenu_showPermissionTable_accesskey "T">
-<!ENTITY runtimeMenu_takeScreenshot_label "Imagem da página">
-<!ENTITY runtimeMenu_takeScreenshot_accesskey "I">
-<!ENTITY runtimeMenu_showDetails_label "Propriedades do ambiente de execução">
-<!ENTITY runtimeMenu_showDetails_accesskey "P">
-<!ENTITY runtimeMenu_showMonitor_label "Monitorar">
+<!ENTITY runtimeMenu_showPermissionTable_label "Permissions Table">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
+<!ENTITY runtimeMenu_takeScreenshot_label "Screenshot">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "Runtime Info">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-<!ENTITY runtimeMenu_showDevicePrefs_label "Preferência do dispositivo">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Device Preferences">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-<!ENTITY runtimeMenu_showSettings_label "Configurações do dispositivo">
+<!ENTITY runtimeMenu_showSettings_label "Device Settings">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
-<!ENTITY viewMenu_label "Exibir">
-<!ENTITY viewMenu_accesskey "x">
-<!ENTITY viewMenu_toggleEditor_label "Alternar editor">
-<!ENTITY viewMenu_toggleEditor_accesskey "A">
-<!ENTITY viewMenu_zoomin_label "Aumentar zoom">
+<!ENTITY viewMenu_label "View">
+<!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_toggleEditor_label "Toggle Editor">
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
+<!ENTITY viewMenu_zoomin_label "Zoom In">
 <!ENTITY viewMenu_zoomin_accesskey "I">
-<!ENTITY viewMenu_zoomout_label "Diminuir zoom">
+<!ENTITY viewMenu_zoomout_label "Zoom Out">
 <!ENTITY viewMenu_zoomout_accesskey "O">
-<!ENTITY viewMenu_resetzoom_label "Redefinir zoom">
+<!ENTITY viewMenu_resetzoom_label "Reset Zoom">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
-<!ENTITY projectButton_label "Abrir aplicativo">
-<!ENTITY runtimeButton_label "Selecionar ambiente de execução">
+<!ENTITY projectButton_label "Open App">
+<!ENTITY runtimeButton_label "Select Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-<!ENTITY key_quit "w">
+<!ENTITY key_quit "W">
 <!-- open menu -->
-<!ENTITY key_showProjectPanel "o">
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
-<!ENTITY key_play "r">
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "b">
+<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
 
-<!ENTITY projectPanel_myProjects "Meus projetos">
-<!ENTITY projectPanel_runtimeApps "Aplicativos do ambiente de execução">
-<!ENTITY projectPanel_tabs "Abas">
-<!ENTITY runtimePanel_usb "Dispositivos USB">
-<!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
-<!ENTITY runtimePanel_simulator "Simuladores">
-<!ENTITY runtimePanel_other "Outros">
-<!ENTITY runtimePanel_installsimulator "Instalar Simulator">
-<!ENTITY runtimePanel_noadbhelper "Instalar ADB Helper">
-<!ENTITY runtimePanel_nousbdevice "Não consegue ver seu dispositivo?">
-<!ENTITY runtimePanel_refreshDevices_label "Atualizar dispositivos">
+<!ENTITY projectPanel_myProjects "My Projects">
+<!ENTITY projectPanel_runtimeApps "Runtime Apps">
+<!ENTITY projectPanel_tabs "Tabs">
+<!ENTITY runtimePanel_usb "USB Devices">
+<!ENTITY runtimePanel_wifi "Wi-Fi Devices">
+<!ENTITY runtimePanel_simulator "Simulators">
+<!ENTITY runtimePanel_other "Other">
+<!ENTITY runtimePanel_installsimulator "Install Simulator">
+<!ENTITY runtimePanel_noadbhelper "Install ADB Helper">
+<!ENTITY runtimePanel_nousbdevice "Can’t see your device?">
+<!ENTITY runtimePanel_refreshDevices_label "Refresh Devices">
 
 <!-- Lense -->
-<!ENTITY details_valid_header "válido">
-<!ENTITY details_warning_header "alertas">
-<!ENTITY details_error_header "erros">
-<!ENTITY details_description "Descrição">
-<!ENTITY details_location "Localização">
-<!ENTITY details_manifestURL "ID do aplicativo">
-<!ENTITY details_removeProject_button "Remover projeto">
+<!ENTITY details_valid_header "valid">
+<!ENTITY details_warning_header "warnings">
+<!ENTITY details_error_header "errors">
+<!ENTITY details_description "Description">
+<!ENTITY details_location "Location">
+<!ENTITY details_manifestURL "App ID">
+<!ENTITY details_removeProject_button "Remove Project">
 <!ENTITY details_showPrepackageLog_button "Show Pre-package Log">
 
 <!-- New App -->
