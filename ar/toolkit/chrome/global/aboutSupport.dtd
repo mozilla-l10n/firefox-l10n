@@ -50,10 +50,12 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "الملحقات المفعّلة">
 <!ENTITY aboutSupport.appBasicsBuildConfig "إعدادات البناء">
 <!ENTITY aboutSupport.appBasicsUserAgent "عميل المستخدم">
-
+<!ENTITY aboutSupport.appBasicsOS "نظام التشغيل">
 <!ENTITY aboutSupport.appBasicsMemoryUse "استخدام الذاكرة">
-
+<!ENTITY aboutSupport.appBasicsPerformance "الأداء">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+<!ENTITY aboutSupport.appBasicsServiceWorkers "عمّال الخدمة المسجلين">
 
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "نوافذ متعددة السيرورات">
