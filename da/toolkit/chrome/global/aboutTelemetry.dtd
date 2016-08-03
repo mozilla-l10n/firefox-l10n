@@ -99,6 +99,10 @@ Ping
   Tråd-frysninger
 ">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Skalarer
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrammer
 ">

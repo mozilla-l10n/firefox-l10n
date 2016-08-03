@@ -16,3 +16,6 @@
 <!ENTITY caseSensitive.label "Forskel på store og små bogstaver">
 <!ENTITY caseSensitive.accesskey "b">
 <!ENTITY caseSensitive.tooltiptext "Søg med forskel på store og små bogstaver">
+<!ENTITY entireWord.label "Hele ord">
+<!ENTITY entireWord.accesskey "H">
+<!ENTITY entireWord.tooltiptext "Søg kun efter hele ord">

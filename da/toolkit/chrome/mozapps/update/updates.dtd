@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Søger efter opdateringer">
 <!ENTITY  updateCheck.label               "Søger efter nyere versioner af &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Fandt opdateringer til plugins">
-<!ENTITY  pluginupdatesfound.label        "Nyere versioner af en eller flere af dine plugins blev fundet.">
-<!ENTITY  pluginupdateslink.label         "Se hvordan du kan opgradere dine plugins.">
-
 <!ENTITY  noupdatesfound.title            "Ingen opdateringer fundet">
 <!ENTITY  noupdatesautoenabled.intro      "Der er ikke nogle opdateringer tilgængelige.
                                            &brandShortName; vil periodisk undersøge om der er tilgængelige opdateringer.">
