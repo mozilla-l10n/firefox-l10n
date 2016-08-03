@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "সাইট হতে কুকি গ্রহণ করুন A">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "তৃতীয়-পক্ষের কুকি গ্রহণ করা হবে">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "সবসময়">
 <!ENTITY  acceptThirdParty.never.label    "কখনো নয়">
 <!ENTITY  acceptThirdParty.visited.label  "প্রদর্শিত হতে">
@@ -105,6 +106,6 @@
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  browserContainersHeader.label         "কন্টেইনার ট্যাব">
-
+<!ENTITY  browserContainersLearnMore.label      "আরো জানতে">
 <!ENTITY  browserContainersEnabled.label        "কন্টেইনার ট্যাব সক্রিয় করুন">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
