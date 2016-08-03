@@ -473,7 +473,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "নতুন উইন্ডোতে ফ্রেম খোলা হবে (W)">
 <!ENTITY openFrameCmd.accesskey       "W">
-
+<!ENTITY openLinkCmdInContainerTab.label "লিংক নতুন কন্টেইনার ট্যাবে খুলুন">
 <!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "শুধুমাত্র এই ফ্রেমটি প্রদর্শন করা হবে (S)">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "সম্পন্ন">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "নিরাপদ সংযোগ">
 <!ENTITY identity.connectionNotSecure "সংযোগ নিরাপদ নয়">
