@@ -9,6 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Celá obrazovka">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Ukončit režim celé obrazovky">
 <!ENTITY castingButton.castingLabel "Přehrát na obrazovce">
+<!ENTITY closedCaption.off "Vypnuto">
 
 <!ENTITY stats.media "Média">
 <!ENTITY stats.size "Velikost">

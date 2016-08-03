@@ -96,6 +96,9 @@ Ping
   Zatuhnutí vláken
 ">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Skaláry">
+
 <!ENTITY aboutTelemetry.histogramsSection "Histogramy">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
