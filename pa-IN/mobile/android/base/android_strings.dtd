@@ -48,6 +48,7 @@
 <!ENTITY  switch_to_tab "ਟੈਬ ਉੱਤੇ ਜਾਓ">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "ਆਫ਼ਲਾਈਨ ਵਰਜ਼ਨ ਦਿਖਾਇਆ ਜਾ ਰਿਹਾ ਹੈ">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟ">
 <!ENTITY  crash_message2 "&brandShortName; ਨੂੰ ਸਮੱਸਿਆ ਆਈ ਹੈ ਅਤੇ ਕਰੈਸ਼ ਕੀਤਾ ਹੈ। ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਉੱਤੇ &brandShortName; ਸ਼ੁਰੂ ਸਫ਼ੇ ਉੱਤੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।">
@@ -273,12 +274,16 @@
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "ਤਜਰਬੇ ਅਧੀਨ ਫੀਚਰ">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "ਕਸਟਮ ਟੈਬਾਂ">
+<!ENTITY pref_custom_tabs_summary "ਤੀਜੀ ਧਿਰ ਐਪਾਂ ਨੂੰ ਪਸੰਦ ਮੁਤਾਬਕ ਬਣਾਈ ਦਿੱਖ ਅਤੇ ਪ੍ਰਭਾਵ ਨਾਲ URL ਖੋਲ੍ਹਣ ਦੀ ਇਜ਼ਾਜ਼ਤ ਦਿਓ।">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "ਸਰਗਰਮੀ ਸਟਰੀਮ">
 
 <!ENTITY tracking_protection_prompt_title "ਹੁਣ ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ ਦੇ ਨਾਲ">
 <!ENTITY tracking_protection_prompt_text "ਸਰਗਰਮ ਰੂਪ ਵਿੱਚ ਟਰੈਕ ਕੀਤੇ ਜਾਣ ਵਾਲੇ ਭਾਗਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਜਾਂਦੀ ਹੈ ਤਾਂ ਕਿ ਤੁਹਾਨੂੰ ਫ਼ਿਕਰ ਨਾ ਕਰਨਾ ਪਵੇ।">
@@ -392,6 +397,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ">
 
 <!ENTITY pref_default_browser "ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ">
+<!ENTITY pref_default_browser_mozilla_support_tablet "ਮੋਜ਼ੀਲਾ ਸਹਿਯੋਗ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY pref_about_firefox "&brandShortName; ਬਾਰੇ">
 <!ENTITY pref_vendor_faqs "ਸਵਾਲ-ਜਵਾਬ">
 <!ENTITY pref_vendor_feedback "ਸੁਝਾਅ ਦਿਓ">
@@ -580,8 +586,12 @@ size. -->
 <!ENTITY home_clear_history_button "ਬਰਾਊਜ਼ਿੰਗ ਦੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY home_clear_history_confirm "ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY home_bookmarks_empty "ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇੱਥੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।">
+<!ENTITY home_closed_tabs_title2 "ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੇ">
 <!ENTITY home_last_tabs_empty "ਤੁਹਾਡੀਆਂ ਹਾਲ ਦੀਆਂ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।">
+<!ENTITY home_restore_all "ਸਭ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ">
+<!ENTITY home_closed_tabs_number "&formatD; ਟੈਬਾਂ">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 ਟੈਬ">
 <!ENTITY home_most_recent_empty "ਵੈੱਬਸਾਈਟਾਂ, ਜੋ ਕਿ ਤੁਸੀਂ ਆਮ ਤੌਰ ਉੱਤੇ ਹਾਲ ਵਿੱਚ ਹੀ ਖੋਲ੍ਹੀਆਂ ਹਨ, ਨੂੰ ਇੱਥੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
