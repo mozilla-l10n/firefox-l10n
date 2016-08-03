@@ -48,6 +48,7 @@
 <!ENTITY  switch_to_tab "Camudar de llingüeta">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Amosando versión fuera de llinia">
 
 <!ENTITY  crash_reporter_title "Informador de casques de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; tuvo un problema y cascó. Les tos llingüetes deberíen llistase na páxina d\&apos;aniciu de &brandShortName; cuando reanicies.">
@@ -273,12 +274,16 @@
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "Carauteurístiques esperimentales">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "Llingüetes personalizaes">
+<!ENTITY pref_custom_tabs_summary "Permite a aplicaciones de terceros qu\&apos;abran URLs con un aspeutu y sentir personalizáu.">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Fluxu d\&apos;actividá">
 
 <!ENTITY tracking_protection_prompt_title "Agora con proteición de rastrexu">
 <!ENTITY tracking_protection_prompt_text "Bloquia activamente los elementos de rastrexu pa que nun t\&apos;esmolezas.">
@@ -580,8 +585,12 @@ size. -->
 <!ENTITY home_clear_history_button "Llimpiar historial de restolar">
 <!ENTITY home_clear_history_confirm "¿De xuru que quies llimpiar el to historial?">
 <!ENTITY home_bookmarks_empty "Equí amosaránse los tos marcadores.">
+<!ENTITY home_closed_tabs_title2 "Zarrao apocayá">
 <!ENTITY home_last_tabs_empty "Equí amosaránse les tos llingüetes recientes.">
+<!ENTITY home_restore_all "Restaurar too">
+<!ENTITY home_closed_tabs_number "&formatD; llingüetes">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 llingüeta">
 <!ENTITY home_most_recent_empty "Equí amosaránse los sitios web que más visitares.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
