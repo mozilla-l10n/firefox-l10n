@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "Тази страница съдържа техническа информация, която може да ви е от полза, когато се опитвате да решите проблем. Ако търсите отговори на често задавани въпроси за &brandShortName;, проверете в нашата <a id='supportLink'>страница за поддръжка</a>.">
 
-<!ENTITY aboutSupport.crashes.title "Доклади за крашове">
+<!ENTITY aboutSupport.crashes.title "Доклади за сривове">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID на доклад">
@@ -25,7 +25,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentName "Име">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Описание">
-<!ENTITY aboutSupport.experimentActive "Активен">
+<!ENTITY aboutSupport.experimentActive "Включен">
 <!ENTITY aboutSupport.experimentEndDate "Крайна дата">
 <!ENTITY aboutSupport.experimentHomepage "Начална страница">
 <!ENTITY aboutSupport.experimentBranch "Клон">
@@ -70,7 +70,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Показване в търсачката">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "Показване на папка">
+<!ENTITY aboutSupport.showWin.label "Отваряне на папката">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Важни променени настройки">
 <!ENTITY aboutSupport.modifiedPrefsName "Име">
@@ -78,7 +78,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Настройки от user.js">
-<!ENTITY aboutSupport.userJSDescription "Вашата профилна папка съдържа файл <a id='prefs-user-js-link'>user.js</a>, който съдържа настройките, които не са създадени от &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "Папката с вашия профил съдържа файла <a id='prefs-user-js-link'>user.js</a>, в който има потребителски, не създадени от &brandShortName; настройки.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Важни заключени настройки">
 <!ENTITY aboutSupport.lockedPrefsName "Име">
@@ -111,7 +111,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.restartInSafeMode.label "Рестартиране с изключени добавки…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Възможности">
-<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Диагностики">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Диагностика">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Журнал на грешките">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">

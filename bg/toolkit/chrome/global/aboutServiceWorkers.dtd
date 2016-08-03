@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.title                     "Относно скритите обслужващи страници">
+<!ENTITY aboutServiceWorkers.title                     "Относно Service Workers">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.maintitle                 "Регистрирани скрити обслужващи страници">
+<!ENTITY aboutServiceWorkers.maintitle                 "Регистрирани Service Workers">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.warning_not_enabled       "Скритите обслужващи страници не са активирани.">
+<!ENTITY aboutServiceWorkers.warning_not_enabled       "Service Workers не са включени.">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "Няма регистрирани скрити обслужващи страници.">
+<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "Няма регистрирани Service Workers.">
