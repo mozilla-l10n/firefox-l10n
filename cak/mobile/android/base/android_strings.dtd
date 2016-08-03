@@ -48,6 +48,8 @@
 <!ENTITY  switch_to_tab "Tiq\u0027asäx pa ri ruwi\u0027">
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!ENTITY  tab_offline_version "Tajin nik\u0027ut ri chupül ruwäch">
+
 <!ENTITY  crash_reporter_title "Rutzijol taq rusachoj &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; xuk\u0027ulwachij jun k\u0027ayewal ruma ri\u0027 xutz\u0027apij ri\u0027. Ri taq awi\u0027 yeq\u0027alajin ta ri\u0027 pa ri Tikirib\u0027al ruxaq ri &brandShortName; toq nutikirisaj chik el ri\u0027.">
 <!ENTITY  crash_send_report_message3 "Tiya\u0027 rutzijol chi re ri &vendorShortName; chi rij re sachoj re\u0027 richin tub\u0027ana\u0027 rutzil">
@@ -106,9 +108,10 @@
 <!ENTITY edit_mode_cancel "Jumul tiq\u0027at">
 
 <!ENTITY close_tab "Titz\u0027apïx ruwi\u0027">
-
+<!ENTITY one_tab "1 ruwi\u0027">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; taq ruwi\u0027">
 <!ENTITY new_tab_opened "K\u0027ak\u0027a\u0027 ruwi\u0027 jaqon">
 <!ENTITY new_private_tab_opened "K\u0027ak\u0027a\u0027 ichinan ruwi\u0027 jaqon">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -270,9 +273,13 @@
 <!ENTITY pref_whats_new_notification_summary "Tawetamaj ri k\u0027ak\u0027a\u0027 taq samaj chi rij jun k\u0027exoj ruwäch">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+
+<!ENTITY pref_category_experimental "Soltojtob\u0027enel taq rub\u0027anikil">
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!ENTITY pref_custom_tabs "Ichinan taq ruwi\u0027">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
