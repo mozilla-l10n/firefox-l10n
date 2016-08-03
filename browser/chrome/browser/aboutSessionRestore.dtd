@@ -47,7 +47,7 @@ their language.
 <!ENTITY welcomeback2.beforelink.pageInfo2  "Seus complementos e personalizações foram removidos e as configurações do navegador foram restauradas. Se isto não resolver seu problema, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
-<!ENTITY welcomeback2.link.pageInfo2        "saiba o que mais pode fazer.">
+<!ENTITY welcomeback2.link.pageInfo2        "saber mais sobre o que posso fazer.">
 
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
