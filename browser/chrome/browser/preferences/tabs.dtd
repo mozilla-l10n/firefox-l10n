@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY newWindowsAsTabs.label       "নতুন উইন্ডোগুলো, নতুন ট্যাব-এ খোলা হবে">
+<!ENTITY newWindowsAsTabs.accesskey   "w">
 
 <!ENTITY warnCloseMultipleTabs.label  "একাধিক ট্যাব বন্ধ করার চেষ্টা করা হলে সতর্ক করা হবে (m)">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
