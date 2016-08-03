@@ -60,7 +60,7 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Veilig surfen: ">
-<!ENTITY rights.safebrowsing-b "uitschakelen van de functie Veilig surfen wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:">
+<!ENTITY rights.safebrowsing-b "uitschakelen van de functie Veilig surfen wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de functie volledig wilt uitschakelen, volg dan deze stappen:">
 <!ENTITY rights.safebrowsing-term1 "Open de toepassingsvoorkeuren">
 <!ENTITY rights.safebrowsing-term2 "Selecteer de sectie Beveiliging">
 <!ENTITY rights2.safebrowsing-term3 "Vink de optie ‘&enableSafeBrowsing.label;’ uit">
@@ -68,7 +68,7 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Locatiebewust navigeren: ">
-<!ENTITY rights.locationawarebrowsing-b "vraagt altijd om toestemming. Er worden nooit locatiegegevens verzonden zonder uw toestemming. Als u de functie volledig wilt uitschakelen, volg dan de volgende stappen:">
+<!ENTITY rights.locationawarebrowsing-b "vraagt altijd om toestemming. Er worden nooit locatiegegevens verzonden zonder uw toestemming. Als u de functie volledig wilt uitschakelen, volg dan deze stappen:">
 <!ENTITY rights.locationawarebrowsing-term1a "Typ in de URL-balk ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Typ geo.enabled">

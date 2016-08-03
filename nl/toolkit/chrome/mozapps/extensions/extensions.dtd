@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "Inschakelen">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Add-on-veiligheidscontrole inschakelen">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Controleren of uw plug-ins up-to-date zijn">
-<!ENTITY info.plugincheck.tooltip               "Controleren of uw plug-ins up-to-date zijn">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Doorzoeken">
 <!ENTITY view.discover.label                  "Add-ons verkrijgen">

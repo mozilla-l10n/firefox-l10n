@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "Controleren op updates">
 <!ENTITY  updateCheck.label               "Controleren op nieuwere versies van &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Updates voor plug-ins gevonden">
-<!ENTITY  pluginupdatesfound.label        "Er zijn nieuwere versies van een of meerdere plug-ins gevonden.">
-<!ENTITY  pluginupdateslink.label         "Lees hoe u uw plug-ins kunt bijwerken.">
-
 <!ENTITY  noupdatesfound.title            "Geen updates gevonden">
 <!ENTITY  noupdatesautoenabled.intro      "Er zijn geen updates beschikbaar. &brandShortName; zal periodiek
                                            controleren op updates.">

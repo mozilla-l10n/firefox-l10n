@@ -9,6 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Volledig scherm">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Volledig scherm verlaten">
 <!ENTITY castingButton.castingLabel "Casten naar scherm">
+<!ENTITY closedCaption.off "Uit">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Grootte">
