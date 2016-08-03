@@ -33,17 +33,17 @@
 <!ENTITY healthReportDesc.label          "Ajuda você a entender o desempenho do navegador e compartilha dados com a &vendorShortName; sobre a integridade do navegador">
 <!ENTITY enableHealthReport.label        "Ativar Relatório de Integridade do &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "I">
-<!ENTITY healthReportLearnMore.label     "Saiba mais">
+<!ENTITY healthReportLearnMore.label     "Saber mais">
 
 <!ENTITY telemetryDesc.label             "Compartilha com a &vendorShortName; informações sobre o navegador que ajudarão a melhorar o &brandShortName;: dados sobre desempenho, padrões de uso, hardware e personalizações.">
 <!ENTITY enableTelemetryData.label       "Compartilhar dados adicionais (Telemetria)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Saiba mais">
+<!ENTITY telemetryLearnMore.label        "Saber mais">
 
 <!ENTITY crashReporterDesc.label         "O &brandShortName; envia relatórios de travamento para ajudar a &vendorShortName; a tornar o seu navegador mais estável e seguro">
 <!ENTITY enableCrashReporter.label       "Ativar Crash Reporter">
 <!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "Saiba mais">
+<!ENTITY crashReporterLearnMore.label    "Saber mais">
 
 <!ENTITY networkTab.label                "Rede">
 
@@ -82,9 +82,6 @@
 <!ENTITY updateCheck.accesskey           "V">
 <!ENTITY updateManual.label              "Nunca verificar (não recomendado: risco de segurança)">
 <!ENTITY updateManual.accesskey          "N">
-
-<!ENTITY updateAutoAddonWarn.label       "Alertar caso desative alguma extensão ou tema">
-<!ENTITY updateAutoAddonWarn.accesskey   "A">
 
 <!ENTITY updateHistory.label             "Histórico de atualizações">
 <!ENTITY updateHistory.accesskey         "H">

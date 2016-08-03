@@ -142,7 +142,7 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
 
 <!ENTITY errorReporting.automatic2 "Relatar erros como este para ajudar a Mozilla a identificar e bloquear sites maliciosos">
-<!ENTITY errorReporting.learnMore "Saiba mais…">
+<!ENTITY errorReporting.learnMore "Saber mais…">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul></p>">

@@ -9,14 +9,14 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Nunca">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
-<!ENTITY  trackingProtectionLearnMore.label    "Saiba mais">
+<!ENTITY  trackingProtectionLearnMore.label    "Saber mais">
 <!ENTITY  trackingProtectionExceptions.label   "Exceções…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "Rastreamento">
 <!ENTITY trackingProtectionPBM5.label         "Usar proteção contra rastreamento em janelas privativas">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!ENTITY trackingProtectionPBMLearnMore.label "Saiba mais">
+<!ENTITY trackingProtectionPBMLearnMore.label "Saber mais">
 <!ENTITY changeBlockList.label          "Alterar Lista de Bloqueios">
 <!ENTITY changeBlockList.accesskey      "A">
 
@@ -104,3 +104,5 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Configurar…">
 <!ENTITY  clearOnCloseSettings.accesskey "C">
+
+<!ENTITY  browserContainersLearnMore.label      "Saber mais">

@@ -23,7 +23,7 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "A navegação privativa ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "não o torna anônimo">
 <!ENTITY aboutPrivateBrowsing.note.after                 " na internet. Seu empregador ou provedor de acesso à internet ainda podem saber quais páginas você visita.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Saiba mais sobre">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Saber mais sobre">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Navegação privativa">
 
 <!ENTITY trackingProtection.title                        "Proteção contra rastreamento">

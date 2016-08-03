@@ -25,7 +25,7 @@ não tem espaço disponível para a instalar.">
 <!ENTITY  unsupported.label               "O &brandShortName; está desatualizado mas o seu sistema operacional 
 não possui suporte à versão mais recente. Atualize o seu sistema e tente novamente. 
 Este aviso não será mostrado de novo, mas você pode">
-<!ENTITY  unsupportedLink.label           "obter mais informações.">
+<!ENTITY  unsupportedLink.label           "saber mais.">
 
 <!ENTITY  clickHere.label                 "Mais informações sobre esta atualização">
 
