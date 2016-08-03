@@ -18,7 +18,7 @@
 
 <!ENTITY layoutViewTitle          "بوکس موڈل">
 <!ENTITY margin.tooltip           "حاشیہ">
-
+<!ENTITY border.tooltip           "سرحد">
 <!ENTITY padding.tooltip          "بھرتی">
 <!ENTITY content.tooltip          "مواد">
 <!-- LOCALIZATION NOTE: This label is displayed as a tooltip that appears when
