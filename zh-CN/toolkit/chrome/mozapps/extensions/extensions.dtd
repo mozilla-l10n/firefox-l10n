@@ -175,7 +175,7 @@
 <!ENTITY search.filter2.label                 "搜索：">
 <!ENTITY search.filter2.installed.label       "我的附加组件">
 <!ENTITY search.filter2.installed.tooltip     "显示已安装附加组件">
-<!ENTITY search.filter2.available.label       "可用附加组件">
+<!ENTITY search.filter2.available.label       "其他可用的附加组件">
 <!ENTITY search.filter2.available.tooltip     "显示可安装附加组件">
 
 <!ENTITY addon.homepage                       "主页">
