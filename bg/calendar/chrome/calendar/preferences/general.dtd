@@ -13,9 +13,9 @@
 <!ENTITY pref.dateformat.long "Дълъг" >
 <!ENTITY pref.dateformat.short "Кратък"  >
 
-<!ENTITY pref.timezones.caption "Часова зона">
-<!ENTITY pref.timezones.label "Изберете най-близкия град във вашата часова зона:">
-<!ENTITY pref.timezones.accesskey "S">
+<!ENTITY pref.timezones.caption "Часови пояс">
+<!ENTITY pref.timezones.label "Изберете най-близкия град във вашия часови пояс:">
+<!ENTITY pref.timezones.accesskey "г">
 
 <!ENTITY pref.defaults.label "Стандартни стойности за нови елементи">
 <!ENTITY pref.events.label "Събития">
