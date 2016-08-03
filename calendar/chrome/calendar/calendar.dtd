@@ -241,8 +241,8 @@
       list. -->
 <!ENTITY calendar.context.removeserver.label           "Изтриване на календар…">
 <!ENTITY calendar.context.removeserver.accesskey       "з">
-<!ENTITY calendar.context.unsubscribeserver.label      "Абонамент за календари…">
-<!ENTITY calendar.context.unsubscribeserver.accesskey  "U">
+<!ENTITY calendar.context.unsubscribeserver.label      "Отписване от календар…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "О">
 <!ENTITY calendar.context.synccalendars.label          "Синхронизиране на календари">
 <!ENTITY calendar.context.synccalendars.accesskey      "С">
 <!ENTITY calendar.context.publish.label                "Публикуване на календар…">
