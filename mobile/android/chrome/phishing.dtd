@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Få meg bort herifrå!">
 <!ENTITY safeb.palm.decline.label "Ignorer denne åtvaringa">
-
+<!ENTITY safeb.palm.reportPage.label "Kvifor vart denne sida blokkert?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Rapportert som åtaksnettstad!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
