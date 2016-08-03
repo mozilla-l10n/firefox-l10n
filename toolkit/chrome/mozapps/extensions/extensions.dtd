@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "Aktiver">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Aktiver sikkerhedstjek ved opdatering af tilføjelser">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Kontroller om du har de seneste nye plugins">
-<!ENTITY info.plugincheck.tooltip               "Kontroller om du har de seneste nye plugins">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Søg">
 <!ENTITY view.discover.label                  "Find tilføjelser">
