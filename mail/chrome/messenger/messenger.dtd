@@ -612,7 +612,7 @@
 <!ENTITY folderContextOpenInNewWindow.label "Отваряне в нов прозорец">
 <!ENTITY folderContextOpenInNewWindow.accesskey "О">
 <!ENTITY folderContextOpenNewTab.label "Отваряне в раздел">
-<!ENTITY folderContextOpenNewTab.accesskey "ц">
+<!ENTITY folderContextOpenNewTab.accesskey "р">
 <!ENTITY folderContextNew.label "Нова подпапка…">
 <!ENTITY folderContextNew.accesskey "Н">
 <!ENTITY folderContextRename.label "Преименуване">
@@ -713,7 +713,7 @@
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Отваряне на писмото раздел">
-<!ENTITY contextOpenNewTab.accesskey "ц">
+<!ENTITY contextOpenNewTab.accesskey "р">
 <!ENTITY contextOpenConversation.label "Отваряне на писмото в диалога">
 <!ENTITY contextOpenConversation.accesskey "я">
 <!ENTITY contextOpenContainingFolder.label "Отваряне на съдържащата папка">
