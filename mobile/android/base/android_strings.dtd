@@ -48,6 +48,8 @@
 <!ENTITY  switch_to_tab "Byt till flik">
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!ENTITY  tab_offline_version "Visar offline version">
+
 <!ENTITY  crash_reporter_title "&brandShortName; kraschrapportör">
 <!ENTITY  crash_message2 "&brandShortName; fick ett problem och kraschade. Dina flikar kommer att listas på sidan &brandShortName; Start när du startat om.">
 <!ENTITY  crash_send_report_message3 "Meddela &vendorShortName; om den här kraschen så att de kan fixa den">
@@ -106,9 +108,10 @@
 <!ENTITY edit_mode_cancel "Avbryt">
 
 <!ENTITY close_tab "Stäng flik">
-
+<!ENTITY one_tab "1 flik">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; flikar">
 <!ENTITY new_tab_opened "Ny flik öppnades">
 <!ENTITY new_private_tab_opened "Ny privat flik öppnad">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -270,11 +273,15 @@
 <!ENTITY pref_whats_new_notification_summary "Läs mer om nya funktioner efter en uppdatering">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+
+<!ENTITY pref_category_experimental "Experimentella funktioner">
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
+<!ENTITY pref_activity_stream "Aktivitetsflöde">
 
 
 <!ENTITY tracking_protection_prompt_title "Nu med Spårningsskydd">
@@ -389,7 +396,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Synkade flikar">
 
 <!ENTITY pref_default_browser "Gör till standardwebbläsare">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Besök Mozilla Support">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "Vanliga frågor">
 <!ENTITY pref_vendor_feedback "Ge synpunkter">
@@ -578,11 +585,12 @@ size. -->
 <!ENTITY home_clear_history_button "Töm bläddringshistorik">
 <!ENTITY home_clear_history_confirm "Är du säker på att du vill rensa historiken?">
 <!ENTITY home_bookmarks_empty "Bokmärken som du sparat visas här.">
-
+<!ENTITY home_closed_tabs_title2 "Nyligen stängda">
 <!ENTITY home_last_tabs_empty "Dina flikar från senast visas här.">
-
-
+<!ENTITY home_restore_all "Återställ alla">
+<!ENTITY home_closed_tabs_number "&formatD; flikar">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 flik">
 <!ENTITY home_most_recent_empty "Webbplatser du senast besökt visas här.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
