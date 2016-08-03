@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "นำฉันออกไปจากที่นี่!">
 <!ENTITY safeb.palm.decline.label "เพิกเฉยคำเตือนนี้">
-
+<!ENTITY safeb.palm.reportPage.label "ทำไมหน้านี้จึงถูกปิดกั้น?">
 
 <!ENTITY safeb.blocked.malwarePage.title "หน้ารุกรานตามการรายงาน!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
