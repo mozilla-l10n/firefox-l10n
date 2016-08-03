@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "a">
 <!ENTITY  unpinTab.label                     "Odepnout panel">
 <!ENTITY  unpinTab.accesskey                 "a">
+<!ENTITY  sendTabToDevice.label              "Odeslat panel na zařízení">
+<!ENTITY  sendTabToDevice.accesskey          "e">
+<!ENTITY  sendPageToDevice.label             "Odeslat stránku na zařízení">
+<!ENTITY  sendPageToDevice.accesskey         "e">
+<!ENTITY  sendLinkToDevice.label             "Odeslat odkaz do zařízení">
+<!ENTITY  sendLinkToDevice.accesskey         "e">
 <!ENTITY  moveToNewWindow.label              "Přesunout do nového okna">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  bookmarkAllTabs.label              "Přidat všechny panely do záložek…">
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Zobrazit všechny panely">
 <!ENTITY showAllTabsCmd.accesskey "b">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Přihlášení k &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Otevřít předvolby &syncBrand.shortName.label;">
@@ -142,6 +149,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "má kontrolu nad vaším kurzorem. Pro odebrání kontroly stiskněte klávesu Esc.">
+<!ENTITY pointerlockWarning.generic.label "Tento dokument má kontrolu nad vaším kurzorem. Pro odebrání kontroly stiskněte klávesu Esc.">
 
 <!ENTITY closeWindow.label "Zavřít okno">
 <!ENTITY closeWindow.accesskey "v">
