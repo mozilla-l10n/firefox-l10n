@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Taispeáin Gach Cluaisín">
 <!ENTITY showAllTabsCmd.accesskey "a">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Logáil isteach i &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Oscail sainroghanna &syncBrand.shortName.label;">
@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "C">
 <!ENTITY openFrameCmd.label           "Oscail an Fráma i bhFuinneog Nua">
 <!ENTITY openFrameCmd.accesskey       "F">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Oscail an Nasc i gCluaisín Coimeadáin Nua">
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Ná Taispeáin ach an Fráma Seo">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "C">
 
 <!ENTITY editBookmark.done.label                     "Déanta">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ceangal Slán">
 <!ENTITY identity.connectionNotSecure "Ní Ceangal Slán é seo">

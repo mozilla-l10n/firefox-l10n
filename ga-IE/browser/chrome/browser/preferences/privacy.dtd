@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "Glac le fianáin ó shuímh">
 <!ENTITY  acceptCookies.accesskey       "a">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Glac le fianáin tríú páirtí:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
 <!ENTITY  acceptThirdParty.always.label   "I gCónaí">
 <!ENTITY  acceptThirdParty.never.label    "Riamh">
 <!ENTITY  acceptThirdParty.visited.label  "Ó shuímh fheicthe">
@@ -104,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Socruithe…">
 <!ENTITY  clearOnCloseSettings.accesskey "c">
 
-
-
-
+<!ENTITY  browserContainersHeader.label         "Cluaisíní Coimeádáin">
+<!ENTITY  browserContainersLearnMore.label      "Tuilleadh eolais">
+<!ENTITY  browserContainersEnabled.label        "Cumasaigh Cluaisíní Coimeádáin">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
