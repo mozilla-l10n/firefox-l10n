@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Грешка при зареждане на страница">
 <!ENTITY retry.label "Нов опит">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Грешка при свързване">
 <!ENTITY connectionFailure.longDesc "<p>Въпреки че страницата изглежда валидна, браузърът не можа да установи връзка.</p><ul><li>Дали е временно недостъпен? Опитайте отново по-късно.</li><li>Можете ли да разглеждате други страници? Проверете дали компютърът ви е свързан с Интернет.</li><li>Намира ли се компютърът зад защитна стена или прокси? Неправилните настройки могат да попречат на сърфирането.</li></ul>">
@@ -82,7 +82,7 @@
 <!ENTITY remoteXUL.title "Отдалечен XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, свържете се със собственика на страницата и го информирайте за този проблем.</li></ul></p>">
 
-<!ENTITY inadequateSecurityError.title "Връзка е незащитена">
+<!ENTITY inadequateSecurityError.title "Връзката е незащитена">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> използва остаряла технология за сигурност, уязвима към атаки. Такива атаки може лесно да разкрият информация, която мислите, че е защитена. Администраторът на сайта трябва да поправи сървъра преди да може да използвате сайта.</p><p>Код на грешка: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

@@ -71,23 +71,23 @@
 <!ENTITY certmgr.restore2.accesskey           "В">
 <!ENTITY certmgr.details.label                "Полета на сертификата">
 <!ENTITY certmgr.details.accesskey            "П">
-<!ENTITY certmgr.fields.label                 "Стойност на поле">
+<!ENTITY certmgr.fields.label                 "Стойност на полето">
 <!ENTITY certmgr.fields.accesskey             "С">
-<!ENTITY certmgr.hierarchy.label              "Certificate Hierarchy">
-<!ENTITY certmgr.hierarchy.accesskey2         "H">
+<!ENTITY certmgr.hierarchy.label              "Йерархия на сертификата">
+<!ENTITY certmgr.hierarchy.accesskey2         "е">
 <!ENTITY certmgr.addException.label           "Добавяне на изключение…">
 <!ENTITY certmgr.addException.accesskey       "к">
 
 <!ENTITY exceptionMgr.title                   "Добавяне на изключение по безопасността">
 <!ENTITY exceptionMgr.exceptionButton.label   "Потвърждаване на изключение по безопасността">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "П">
-<!ENTITY exceptionMgr.supplementalWarning     "Законни банки, магазини или други публични сайтове не би изискват това.">
+<!ENTITY exceptionMgr.supplementalWarning     "Законни банки, магазини и други публични сайтове няма да искат да го правите.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Сървър">
 <!ENTITY exceptionMgr.certlocation.url        "Адрес:">
-<!ENTITY exceptionMgr.certlocation.download   "Изтегляне на сертификат">
+<!ENTITY exceptionMgr.certlocation.download   "Изтегляне на сертификата">
 <!ENTITY exceptionMgr.certlocation.accesskey  "И">
 <!ENTITY exceptionMgr.certstatus.caption      "Състояние на сертификата">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Преглед…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "П">
-<!ENTITY exceptionMgr.permanent.label         "Запомняне за постоянно на това изключение">
+<!ENTITY exceptionMgr.permanent.label         "Запазване като постоянно изключение">
 <!ENTITY exceptionMgr.permanent.accesskey     "З">
