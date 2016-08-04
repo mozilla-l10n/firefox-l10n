@@ -14,6 +14,6 @@
 <!ENTITY caseSensitive.label "ಕೇಸನ್ನು Match">
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "ಕೇಸ್‌ನ ಸಂವೇದನೆಯೊಂದಿಗೆ ಹುಡುಕಿ">
-
-
-
+<!ENTITY entireWord.label "ಸಂಪೂರ್ಣ ಪದಗಳು">
+<!ENTITY entireWord.accesskey "W">
+<!ENTITY entireWord.tooltiptext "ಸಂಪೂರ್ಣ ಪದಗಳನ್ನು ಮಾತ್ರ ಹುಡುಕು">
