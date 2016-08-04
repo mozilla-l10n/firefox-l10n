@@ -181,8 +181,8 @@
 <!ENTITY simulator_profile "پروفائل">
 
 <!ENTITY simulator_device "آلہ">
-
-
+<!ENTITY simulator_screenSize "سکرین">
+<!ENTITY simulator_pixelRatio "دانہ کا تناسب">
 
 
 
