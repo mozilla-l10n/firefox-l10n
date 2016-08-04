@@ -48,6 +48,8 @@
 <!ENTITY  switch_to_tab "မျက်နှာစာ ပြောင်းကြည့်ပါ">
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!ENTITY  tab_offline_version "အော့ဖ်လိုင်းဗားရှင်းကို ပြနေသည်">
+
 <!ENTITY  crash_reporter_title "&brandShortName; အပျက်အစီး အစီရင်ခံစာ">
 <!ENTITY  crash_message2 "&brandShortName; တွင့် ပြဿနာ နှင့် အပျက်အစီးအချို့ရှိခဲ့သည်။ ဖွင့်ထားသော စာမျက်နှာကို သင်ပြန်ဖွင့်သော အချိန်တွင် &brandShortName; အစ စာမျက်နှာ၌ စာရင်းပြုပေးထားပါမည်။">
 <!ENTITY  crash_send_report_message3 "&vendorShortName;အား ယခုဖြစ်ရပ်အတွက် ပြင်ဆင်နိုင်စေရန် ဆက်သွယ်ပြောကြားပါ။">
@@ -106,9 +108,10 @@
 <!ENTITY edit_mode_cancel "ပယ်​ဖျက်ပါ">
 
 <!ENTITY close_tab "စာအမှတ်ကို ပိတ်ပါ">
-
+<!ENTITY one_tab "စာအမှတ် ၁ခု">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; တပ်ဗ်များ">
 <!ENTITY new_tab_opened "စာအမှတ်အသစ် ဖွင့်ပြီး">
 <!ENTITY new_private_tab_opened "တစ်ကိုယ်ရေသုံး တပ်ဗ်တစ်ခုဖွင့်ထားပြီး">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -270,11 +273,17 @@
 <!ENTITY pref_whats_new_notification_summary "မြှင့်တင်မှု ဆောင်ရွက်ပြီးပါက စွမ်းဆောင်ရည်အသစ်များအကြောင်း ပိုမိုလေ့လာပါ">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+
+<!ENTITY pref_category_experimental "စမ်းသပ်နေဆဲ လုပ်ဆောင်ချက်များ">
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!ENTITY pref_custom_tabs "စိတ်ကြိုက်တပ်ဗ်များ">
+<!ENTITY pref_custom_tabs_summary "ပြုပြင်ထားသောအမြင်နှင့်အတူ URL များကို ဖွင့်ရန် ကြားခံအက်ပ်များကို ဆောင်ရွက်ခွင့်ပေးပါ။">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
+<!ENTITY pref_activity_stream "ကိစ္စအဖုံဖုံ">
 
 
 <!ENTITY tracking_protection_prompt_title "ယခု ခြေရာခံ ကာကွယ်မှုစနစ် ပါဝင်ပါသည်">
@@ -389,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
 
 <!ENTITY pref_default_browser "ပုံသေအသုံးပြုမည့် ဘရောက်ဇာအဖြစ် သတ်မှတ်ပါ">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "မော်ဇီလာ အထောက်အပံ့သို့ လည်ပတ်ကြည့်ရှုပါ">
 <!ENTITY pref_about_firefox "&brandShortName; အကြောင်း">
 <!ENTITY pref_vendor_faqs "မေးလေ့ရှိသော မေးခွန်းများ">
 <!ENTITY pref_vendor_feedback "အကြံပေးပါ">
@@ -578,11 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "ဘယောက်ဆာ မှတ်တမ်းကို ရှင်းပါ">
 <!ENTITY home_clear_history_confirm "သင့် မှတ်တမ်းကို ဖျက်ပစ်မည်မှာ သေချာပြီလား?">
 <!ENTITY home_bookmarks_empty "သင်မှတ်ထားသော လင်ခ့်များ ဒီနေရာတွင် ပြပါမည်။">
-
+<!ENTITY home_closed_tabs_title2 "မကြာသေးခင်က ပိတ်လိုက်သော တပ်ဗ်များ">
 <!ENTITY home_last_tabs_empty "သင်လတ်တစ်လောသုံးနေသော တပ်ဗ်များ">
-
-
+<!ENTITY home_restore_all "တပ်ဗ်များကို ပြန်လည်အသုံးပြုရန်">
+<!ENTITY home_closed_tabs_number "&formatD; တပ်ဗ်များ">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "စာအမှတ် ၁ခု">
 <!ENTITY home_most_recent_empty "သင်လတ်တလော လေ့လာခဲ့သော ဝတ်ဆိုဒ်များ">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
