@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY newWindowsAsTabs.label       "Fes que les finestres noves s'obrin en pestanyes noves">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "Avisa'm en tancar diverses pestanyes de cop">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">

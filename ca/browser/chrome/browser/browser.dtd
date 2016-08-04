@@ -473,7 +473,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Obre el marc en una finestra nova">
 <!ENTITY openFrameCmd.accesskey       "O">
-
+<!ENTITY openLinkCmdInContainerTab.label "Obre l'enllaç en una pestanya de contenidor nova">
 
 <!ENTITY showOnlyThisFrameCmd.label     "Mostra només aquest marc">
 <!ENTITY showOnlyThisFrameCmd.accesskey "M">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "Fet">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "r">
 
 <!ENTITY identity.connectionSecure "Connexió segura">
 <!ENTITY identity.connectionNotSecure "La connexió no és segura">
