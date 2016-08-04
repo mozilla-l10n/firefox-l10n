@@ -61,7 +61,7 @@
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: zmóžnjeny">
 <!ENTITY fxaccount_status_needs_verification2 "Waše konto dyrbi so přepruwować. Podótkńće so, zo byšće přepruwowansku e-mejl znowa pósłał.">
-<!ENTITY fxaccount_status_needs_credentials "Zwisk njemóžno. Podótkńće so, zo byšće so přizjewił.">
+<!ENTITY fxaccount_status_needs_credentials "Zwisk móžny njeje. Podótkńće so, zo byšće so přizjewił.">
 <!ENTITY fxaccount_status_needs_upgrade "Dyrbiće &brandShortName; aktualizować, zo byšće so přizjewił.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće “Daty awtomatisce synchronizować” w Androidowych nastajenjach &gt; Wužiwanje datow.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće „Daty awtomatisce synchronizować“ w meniju Androidowych nastajenjow a kontow.">
