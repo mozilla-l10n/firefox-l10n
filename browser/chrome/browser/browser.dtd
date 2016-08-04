@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "П">
 <!ENTITY  unpinTab.label                     "Відкріпити вкладку">
 <!ENTITY  unpinTab.accesskey                 "В">
+<!ENTITY  sendTabToDevice.label              "Відправити вкладку на пристрій">
+<!ENTITY  sendTabToDevice.accesskey          "т">
+<!ENTITY  sendPageToDevice.label             "Відправити сторінку на пристрій">
+<!ENTITY  sendPageToDevice.accesskey         "с">
+<!ENTITY  sendLinkToDevice.label             "Відправити посилання на пристрій">
+<!ENTITY  sendLinkToDevice.accesskey         "л">
 <!ENTITY  moveToNewWindow.label              "Перенести в нове вікно">
 <!ENTITY  moveToNewWindow.accesskey          "е">
 <!ENTITY  bookmarkAllTabs.label              "Закласти всі вкладки…">
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Показати всі вкладки">
 <!ENTITY showAllTabsCmd.accesskey "в">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Увійти в Синхронізацію">
 <!ENTITY fxaSignedIn.tooltip "Відкрити налаштування Синхронізації">
@@ -142,6 +149,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "отримав контроль над вашим вказівником. Натисніть Esc для повернення контролю.">
+<!ENTITY pointerlockWarning.generic.label "Цей документ отримав контроль над вашим вказівником. Натисніть Esc для повернення контролю.">
 
 <!ENTITY closeWindow.label "Закрити вікно">
 <!ENTITY closeWindow.accesskey "а">
