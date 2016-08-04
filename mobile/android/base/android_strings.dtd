@@ -99,9 +99,10 @@
 <!ENTITY edit_mode_cancel "Cancel·la">
 
 <!ENTITY close_tab "Tanca la pestanya">
-
+<!ENTITY one_tab "1 pestanya">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; pestanyes">
 <!ENTITY new_tab_opened "S\u0027ha obert una pestanya nova">
 <!ENTITY new_private_tab_opened "S\u0027ha obert una pestanya privada nova">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -560,11 +561,12 @@ size. -->
 <!ENTITY home_clear_history_button "Neteja l\u0027historial de navegació">
 <!ENTITY home_clear_history_confirm "Esteu segur que voleu netejar l\u0027historial?">
 <!ENTITY home_bookmarks_empty "Aquí es mostren les adreces d\u0027interès que deseu.">
-
+<!ENTITY home_closed_tabs_title2 "Tancades recentment">
 <!ENTITY home_last_tabs_empty "Aquí es mostren les pestanyes recents.">
-
-
+<!ENTITY home_restore_all "Restaura-les totes">
+<!ENTITY home_closed_tabs_number "&formatD; pestanyes">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 pestanya">
 <!ENTITY home_most_recent_empty "Aquí es mostren els llocs web que heu visitat recentment.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
