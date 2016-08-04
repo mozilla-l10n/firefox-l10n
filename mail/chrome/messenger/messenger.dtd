@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
 
@@ -204,10 +204,10 @@
 
 
 
+<!ENTITY expandAllThreadsCmd.key "*">
 
 
-
-
+<!ENTITY collapseAllThreadsCmd.key "\">
 
 
 
@@ -288,10 +288,10 @@
 
 
 
+<!ENTITY goForwardCmd.commandKey "]">
 
 
-
-
+<!ENTITY goBackCmd.commandKey "[">
 
 
 
@@ -825,7 +825,7 @@
 
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 
 
