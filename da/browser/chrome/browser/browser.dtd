@@ -571,8 +571,8 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. Og det hed så "Latterlig hastighed" i den danske oversættelse af filmen -->
 <!ENTITY mediaPlaybackRate200x.label "Latterlig (2×)">
 <!ENTITY mediaPlaybackRate200x.accesskey "t">
-<!ENTITY mediaLoop.label             "Sløjfe">
-<!ENTITY mediaLoop.accesskey         "j">
+<!ENTITY mediaLoop.label             "Gentag">
+<!ENTITY mediaLoop.accesskey         "G">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
