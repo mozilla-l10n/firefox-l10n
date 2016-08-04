@@ -104,7 +104,7 @@ when there are no windows but Firefox is still running. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Intrați în ecran complet">
 <!ENTITY enterFullScreenCmd.accesskey "r">
-<!ENTITY exitFullScreenCmd.label "Ieșiți din ecran complet">
+<!ENTITY exitFullScreenCmd.label "Ieși din ecranul complet">
 <!ENTITY exitFullScreenCmd.accesskey "r">
 <!ENTITY fullScreenCmd.label "Ecran complet">
 <!ENTITY fullScreenCmd.accesskey "r">
@@ -124,8 +124,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Închide">
 <!ENTITY fullScreenAutohide.label "Ascunde barele de unelte">
 <!ENTITY fullScreenAutohide.accesskey "A">
-<!ENTITY fullScreenExit.label "Ieșiți din modul ecran complet">
-<!ENTITY fullScreenExit.accesskey "r">
+<!ENTITY fullScreenExit.label "Ieși din modul ecran complet">
+<!ENTITY fullScreenExit.accesskey "F">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -139,8 +139,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
-<!ENTITY leaveDOMFullScreen.label "Revenire la ecran normal">
-<!ENTITY leaveDOMFullScreen.accesskey "v">
+<!ENTITY exitDOMFullscreen.button "Ieși din ecran complet (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Ieși din ecran complet (esc)">
+<!ENTITY leaveDOMFullScreen.label "Ieși din ecranul complet">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.

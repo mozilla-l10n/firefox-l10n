@@ -12,7 +12,7 @@
 
 <!ENTITY  manualUpdate.title              "Imposibil de actualizat">
 <!ENTITY  manualUpdate.desc               "O actualizare de securitate și stabilitate este disponibilă, dar nu aveți permisiunile necesare pentru a o instala. Vă rugăm să contactați administratorul de sistem sau să încercați din nou dintr-un alt cont care are permisiunea de a instala programe pe acest calculator.">
-<!ENTITY  manualUpdate.space.desc         "E disponibilă o actualizare de securitate și stabilitate, dar nu aveți suficient spațiu liber să o instalați.">
+<!ENTITY  manualUpdate.space.desc         "Este disponibilă o actualizare de securitate și stabilitate, dar nu ai suficient spațiu liber să o instalezi.">
 <!ENTITY  manualUpdateGetMsg.label        "Puteți obține oricând ultima versiune de &brandShortName; la:">
 
 <!ENTITY  unsupported.title               "Sistem nesuportat">
