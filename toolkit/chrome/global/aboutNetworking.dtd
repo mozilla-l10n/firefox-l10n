@@ -11,7 +11,7 @@
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "Опресняване">
-<!ENTITY aboutNetworking.autoRefresh           "Автоматично опресняване на всеки 3 секунди">
+<!ENTITY aboutNetworking.autoRefresh           "Oпресняване на всеки 3 секунди">
 <!ENTITY aboutNetworking.hostname              "Име на хост">
 <!ENTITY aboutNetworking.port                  "Порт">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
@@ -22,7 +22,7 @@
 <!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "Изпратени">
 <!ENTITY aboutNetworking.received              "Получени">
-<!ENTITY aboutNetworking.family                "Фамилия">
+<!ENTITY aboutNetworking.family                "Поколение">
 <!ENTITY aboutNetworking.addresses             "Адреси">
 <!ENTITY aboutNetworking.expires               "Изтича (секунди)">
 <!ENTITY aboutNetworking.messagesSent          "Изпратени съобщения">
