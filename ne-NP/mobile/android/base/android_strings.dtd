@@ -106,9 +106,10 @@
 <!ENTITY edit_mode_cancel "रद्द गर्नुहोस्">
 
 <!ENTITY close_tab "ट्याब बन्द गर्नुहोस्">
-
+<!ENTITY one_tab "१ ट्याब">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; ट्याबहरू">
 <!ENTITY new_tab_opened "नयाँ ट्याब खुल्यो">
 <!ENTITY new_private_tab_opened "नयाँ निजी ट्याब खुल्यो">
 <!-- Localization note (switch_button_message): This string should be as short
