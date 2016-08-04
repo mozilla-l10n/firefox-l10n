@@ -9,7 +9,7 @@
 <!ENTITY encryptionChoiceLabel.label "Standardne zaklučowanje za słanje powěsće:">
 <!ENTITY neverEncrypt.label "Ženje (zaklučowanje njewužiwać)">
 <!ENTITY neverEncrypt.accesskey "n">
-<!ENTITY alwaysEncryptMessage.label "Trěbne (njemóžno powěsć słać, chibazo bychu wšitcy přijimarjo certifikaty měli)">
+<!ENTITY alwaysEncryptMessage.label "Trěbne (njeje móžno powěsć słać, chibazo bychu wšitcy přijimarjo certifikaty měli)">
 <!ENTITY alwaysEncryptMessage.accesskey "T">
 <!ENTITY encryptionCert.message "Tutón certifikat wužić, zo byšće připósłane powěsće zaklučował a dešifrował:">
 <!ENTITY digitalSign.certificate.button "Wubrać…">
