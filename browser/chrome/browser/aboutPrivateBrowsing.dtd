@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "निजी ब्राउजिङ">
-
+<!ENTITY privateBrowsing.title.tracking                  "ट्रयाकिङ् सुरक्षाको साथ निजी ब्राउजिङ">
 
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "बचत गर्दैन">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
