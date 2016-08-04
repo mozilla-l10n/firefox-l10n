@@ -5,6 +5,7 @@
 <!ENTITY Contact.tab                     "联系人">
 <!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "类别">
+
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -12,16 +13,15 @@
  but they should not be translated (same applied to phonetic id).
  Make sure the translation of label corresponds to the order of id.
 -->
+
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-
-
-<!ENTITY NameField1.id                  "FirstName">
+<!ENTITY NameField1.id                  "姓氏">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName">
+<!ENTITY NameField2.id                  "名字">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName">
+<!ENTITY PhoneticField1.id              "姓氏读音">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName">
+<!ENTITY PhoneticField2.id              "名字读音">
 
 <!ENTITY NameField1.label               "名字：">
 <!ENTITY NameField1.accesskey           "F">
