@@ -32,12 +32,13 @@
 <!ENTITY malformedURI.title "پتہ جائز نہیں ہے">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>ویب پتے عام طور پر اس طرح لکھے جاتے ہیں <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>تلاش</button> </div> <li>دیکھ لیں کہ آپ سیدھی سلیش ہی ڈال رہے ہوں (یعنی کہ <strong>/</strong>)۔</li> </ul>">
 
 <!ENTITY netInterrupt.title "کنکشن خراب ہو گیا">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "دستاویز زائدالمدت">
-
+<!ENTITY notCached.longDesc "<p> درخواست کردہ دستاویز &brandShortName; کے کیسے میں دستیاب نہیں۔ </p><ul><li> احتیاط کے لیے &brandShortName; حساس دستاویز خود بخود دوبارہ نہیں مانگتا۔ </li><li> ویب سائٹ سے دستاویز پھر مانگنے کے لیے &quot;پھر کوشش کریں&quot; پر کلک کریں۔</li></ul>">
 
 <!ENTITY netOffline.title "آف لائن موڈ">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -67,6 +68,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>مختار سیٹنگوں کی پڑتال کرنے کے لیے اثبات کریں کہ وہ صحیح ہیں۔</li> <li>پڑتال کرنے کے لیے اثبات کریں کہ آپ کے آلہ کے کوائف یا وائی فائی کنکشن کام کر رہے ہیں۔ <button id='wifi'>وائی فائی اہل بنائیں</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "پہ صفحہ صجہج طرج سے دوسری سمت نہیں جا رہا">
 <!ENTITY redirectLoop.longDesc "<ul> <li>یہ مسلہ کبھی کبھی کوکیاں نااہل کرنے یا انہیں قبول کہ کرنے کی وجہ سے ہو سکتی ہے۔</li> </ul>">
 
 <!ENTITY unknownSocketType.title "پیش کار کے غیر توقع رسپانس">
@@ -110,5 +112,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "اعلی معلومات: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "آپکا کنکشن ناقابل بھروسا ہے">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> سیکورٹی ٹیکنالوجی کا استعمال کرتا ہے جو کی فرسودہ اور حملے کا شکار ہے۔ حملہ آور آسانی سے اس معلومات کو ظاہر کر سکتا یے جسے آپ محفوظ سمجھ رہے ہے۔ آپکی سائٹ دورہ کرنے سے پہلے ویب سائٹ منتظمکار کو پیش کار ٹھک کرنا ہوگا۔</p><p> خرابی کا کوڈ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
