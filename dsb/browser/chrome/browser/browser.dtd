@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "R">
 <!ENTITY  unpinTab.label                     "Rejtark wótpěś">
 <!ENTITY  unpinTab.accesskey                 "w">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Rejtark na rěd pósłaś">
+<!ENTITY  sendTabToDevice.accesskey          "R">
+<!ENTITY  sendPageToDevice.label             "Bok na rěd pósłaś">
+<!ENTITY  sendPageToDevice.accesskey         "B">
+<!ENTITY  sendLinkToDevice.label             "Wótkaz na rěd pósłaś">
+<!ENTITY  sendLinkToDevice.accesskey         "W">
 <!ENTITY  moveToNewWindow.label              "Do nowego wokna pśesunuś">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Wšykne rejtarki ako cytańske znamjenja składowaś…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Wšykne rejtarki pokazaś">
 <!ENTITY showAllTabsCmd.accesskey "W">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Pla &syncBrand.shortName.label; pśizjawiś">
 <!ENTITY fxaSignedIn.tooltip "Nastajenja &syncBrand.shortName.label; wócyniś">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "ma kontrolu nad wašeju špěrku. Tłocćo Esc, aby kontrolu slědk dostał.">
+<!ENTITY pointerlockWarning.generic.label "Toś ten dokument ma kontrolu nad wašeju špěrku. Tłocćo Esc, aby kontrolu slědk dostał.">
 
 <!ENTITY closeWindow.label "Wokno zacyniś">
 <!ENTITY closeWindow.accesskey "z">
@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "b">
 <!ENTITY openFrameCmd.label           "Wobłuk w nowem woknje wócyniś">
 <!ENTITY openFrameCmd.accesskey       "c">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Wótkaz w nowem kontejnerowem rejtarku wócyniś">
+<!ENTITY openLinkCmdInContainerTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Jano w toś tom wobłuku pokazaś">
 <!ENTITY showOnlyThisFrameCmd.accesskey "J">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "S">
 
 <!ENTITY editBookmark.done.label                     "Dokóńcony">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "w">
 
 <!ENTITY identity.connectionSecure "Wěsty zwisk">
 <!ENTITY identity.connectionNotSecure "Zwisk njejo wěsty">
