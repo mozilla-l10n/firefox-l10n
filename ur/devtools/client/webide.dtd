@@ -5,9 +5,9 @@
 
 <!ENTITY projectMenu_newApp_label "نیا اپلی کیشن…">
 
-<!ENTITY projectMenu_importPackagedApp_label "پیکیج ایپلیکیشن کھولیں…">
+<!ENTITY projectMenu_importPackagedApp_label "پیکیجڈ اپلی کیشن کھولیں">
 
-
+<!ENTITY projectMenu_importHostedApp_label "مءیزبان ایپلیکیشن… کھولیں">
 
 <!ENTITY projectMenu_selectApp_label "ایپلیکیشن… کھولیں">
 
@@ -86,7 +86,7 @@
 <!ENTITY details_location "محل وقوع">
 <!ENTITY details_manifestURL "اپلی کیشن آئی ڈی">
 
-
+<!ENTITY details_showPrepackageLog_button "پہلے سے پیکیج شدپ لاگ دکھائیں">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "نیا اپلی کیشن">
@@ -100,7 +100,7 @@
 <!ENTITY deck_close "بند کریں">
 <!-- Addons -->
 
-<!ENTITY addons_title "فالتو جزو">
+<!ENTITY addons_title "اضافی اجزاء">
 <!ENTITY addons_aboutaddons "ایڈ اون مینیجر کھولیں">
 <!-- Prefs -->
 <!ENTITY prefs_editor_title "تدوین کار">
@@ -108,7 +108,7 @@
 
 <!ENTITY prefs_manage_components "فالتوجزوبندوبست کریں">
 
-
+<!ENTITY prefs_options_autoconnectruntime_tooltip "پچھلے چلنے کی سے پھر جڑیں جب ویبIDE  شروع  ہو">
 
 <!ENTITY prefs_options_rememberlastproject_tooltip "گزشتہ منصوبے کو بحال کریں جب ویب ائ ڈی ای شروع ہوتا ہے">
 
