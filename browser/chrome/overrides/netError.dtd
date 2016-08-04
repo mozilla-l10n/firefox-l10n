@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Проблем при зареждане на страница">
 <!ENTITY retry.label "Нов опит">
 <!ENTITY returnToPreviousPage.label "Връщане назад">
-<!ENTITY advanced.label "Допълнителни">
+<!ENTITY advanced.label "Допълнително">
 
 <!-- Specific error messages -->
 
@@ -72,11 +72,11 @@
 <!ENTITY nssFailure2.title "Грешка в шифрованата връзка">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата, която искате да видите, не може да бъде показана, защото достоверността на получените данни не може да бъде проверена.</li> <li>Моля, свържете се със собствениците на уебсайта и ги информирайте за този проблем.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "Връзка е незащитена">
+<!ENTITY certerror.longpagetitle1 "Връзката е незащитена">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Собственикът на <span class='hostname'/> е настроил техния уебсайт неправилно.  За да ви защити от кражба на информация, &brandShortName; не се свърза с този уебсайт.">
+<!ENTITY certerror.introPara "Собственикът на <span class='hostname'/> е настроил уеб сайта неправилно. За да ви защити от кражба на информация, &brandShortName; отказа връзката със сайта.">
 
 <!ENTITY sharedLongDesc "<ul>
   <li>Страницата може да е временно недостъпна или твърде заета. Опитайте пак след малко.</li>
@@ -104,11 +104,11 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Допълнителна информация: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Връзка е незащитена">
+<!ENTITY weakCryptoUsed.title "Връзката е незащитена">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Допълнителна информация: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Допълнителни">
+<!ENTITY weakCryptoAdvanced.title "Допълнително">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> използва технологии за защита, които са остарели и уязвими за атака. Атакуваща страна може да разкрие информация, която си мислите, че е в безопасност.">
 <!ENTITY weakCryptoAdvanced.override "(Не е защитено) Опит за зареждане на <span class='hostname'></span>, използвайки остарели нива на защита">
 
@@ -116,11 +116,11 @@ was trying to connect. -->
      please leave them unchanged. -->
 <!ENTITY certerror.wrongSystemTime "<p>Невъзможно е да се осъществи сигурна връзка с <span id='wrongSystemTime_URL'/>, защото изглежда, че вашият часовник е настроен неправилно.</p> <p>Вашият компютър показва време <span id='wrongSystemTime_systemDate'/>, докато трябва да показва <span id='wrongSystemTime_actualDate'/>. За да поправите проблема, променете датата и часа в настройките, така че да съвпадат с правилното време.</p>">
 
-<!ENTITY certerror.pagetitle1  "Несигурна връзка">
+<!ENTITY certerror.pagetitle1  "Незащитена връзка">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Сайтът използва HTTP Strict Transport Security (HSTS), за да укаже на &brandShortName; да се свързва само по сигурен начин. В резултат на това не може да се добави изключение за този сертификат.">
 <!ENTITY certerror.copyToClipboard.label "Копиране на текста в системния буфер">
 
-<!ENTITY inadequateSecurityError.title "Връзка е незащитена">
+<!ENTITY inadequateSecurityError.title "Връзката е незащитена">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> използва остаряла технология за сигурност, уязвима към атаки. Такива атаки може лесно да разкрият информация, която мислите, че е защитена. Администраторът на сайта трябва да поправи сървъра преди да може да използвате сайта.</p><p>Код на грешка: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
