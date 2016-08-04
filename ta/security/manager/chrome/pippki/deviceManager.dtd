@@ -12,7 +12,7 @@
 <!ENTITY devmgr.details.title                   "விளக்கங்கள்">
 <!ENTITY devmgr.details.title2                  "மதிப்பு">
 
-<!ENTITY devmgr.button.login.label              "உள் செல்">
+<!ENTITY devmgr.button.login.label              "புகுப்பதிகை">
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "வெளியேறு">
 <!ENTITY devmgr.button.logout.accesskey         "O">
