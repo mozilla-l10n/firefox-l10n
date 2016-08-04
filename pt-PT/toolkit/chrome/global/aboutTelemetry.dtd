@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Bloqueios de threads">
 
+<!ENTITY aboutTelemetry.scalarsSection "  Escalares">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
 
