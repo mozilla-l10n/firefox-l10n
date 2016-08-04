@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "Оновлення вимкнені системним адміністратором">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "Оновлення &brandShortName; проводиться іншим процесом">
+<!ENTITY update.restarting          "Перезапуск…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
