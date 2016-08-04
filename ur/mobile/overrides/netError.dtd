@@ -19,15 +19,16 @@
 <!ENTITY dnsNotFound.title "پیش کار نہیں ملا">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>ٹائپنگ نقائص کے لیے چیک کریں جیسے کی <strong>ww</strong>.example.com بجائے <strong>www</strong>.example.com</li> کے <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>تلاش</button> </div> <li>اگر آپ کوئی بھی صفحات لوڈ کرنے میں ناکام ہیں، تو اپنے آلے کی کوائف یا وائی فائی کنکشن چیک کریں۔ <button id='wifi'>وائی فائی اہل کریں</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "مسل نہیں ملی">
 <!ENTITY fileNotFound.longDesc "<ul> <li>مسل نام کو کیپیٹل یا دوسرے ٹائپنگ نقص کے لیے چیک کریں</li> <li>چیک کریں کہ مسل ہٹائی، نام تبدیل یا ڈلیٹ تو نہیں کر دی گئی۔ </li> </ul>">
 
 <!ENTITY fileAccessDenied.title "مسل تک رسائی نہیں دی گئی">
-
+<!ENTITY fileAccessDenied.longDesc "<ul><li>یہ شاید ہٹائی گئی ہو، منتقل کر دیا ہو یا مسل کی اجازت رسائ سے روک رہی ہو</li></ul>">
 
 <!ENTITY generic.title "اف">
-
+<!ENTITY generic.longDesc "<p>کسی وجہ سے یہ صفح لوڈ نہیں کر سکتا &brandShortName;</p>">
 
 <!ENTITY malformedURI.title "پتہ جائز نہیں ہے">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
@@ -78,9 +79,11 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>جو صفح آپ دیکھنا چاہ رہے ہیں وہ نہیں دکھایا جاسکتا کیونکہ موصولہ قوائف کی توثیق کی تصدیق نہیں کی جا سکتی۔</li> <li>برائے مہربانی ویب سائٹ کے مالکان سے رابطہ کریں انہیں اس مسئلے سے آگاہ کرنے کے لیے۔</li> </ul>">
 
 <!ENTITY nssBadCert.title "قابل بھروسا کنکشن ناکام">
-
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>یہ پیسکار کی تشکیل کے ساتھ کچھ مسلہ ہو سکتا ہے، یا پھر کوئی پیش کار کی نقل کرے کی کوشش کر رہا ہو سکتا ہے۔</li> <li>اگر آپ پہلے کامیابی سے اس پیش کار سے جڑ چکے ہیں تو نقص عارظی ہو سکتا ہے اور آپ کچھ دیر میں پھر کوشش کر سکتے ہیں۔</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY sharedLongDesc3 "<ul> <li>سائٹ عارضی طور پر عدم دستیاب ہوسکتی ہے یا بہت مصروف۔ کچھ لمحوں میں پھر کوشش کریں۔</li> <li>اگر آپ صفحات لوڈ کرنے میں ناکام ہیں، تو اپنے موبائل آلہ کے کوائف یا وائی فائی کنکشن کی پڑتال کریں۔ <button id='wifi'>وائی فائی اہل بنائیں</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "مواد سیکیورٹی پالسی کے تحت بلاک">
 <!ENTITY cspBlocked.longDesc "<p> نے اس صفحے کو اس طریقے سے لوڈ نہیں ہونے دیا کیونکہ اس صفحے کی مواد سکیورٹی پالیسی ہے جو اس کی اجازت نہیں دیتی۔ &brandShortName;</p>">

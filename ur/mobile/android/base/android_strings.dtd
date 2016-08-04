@@ -284,7 +284,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "سرگرمی سٹریم">
-
+<!ENTITY pref_activity_stream_summary "ایک بھرپور بصری تاریخی فیڈ، اور ایک دوبارہ خیال کریں گھر کہ صفحہ اس کو ہمیشہ سے زیادہ آسان بناتا ہے تاکہ آُپ وہ ڈھونڈ سکیں جسکی آپ تلاش کر رہے ہیں &brandShortName;. میں">
 
 <!ENTITY tracking_protection_prompt_title "اب سراغ کاری حفاظت کے ساتھ">
 <!ENTITY tracking_protection_prompt_text "خود سے سراغ کاری عناصر بلات کریں تاکہ آپ کو پریشانی نہ ہو۔">
@@ -825,6 +825,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "نشانیوں پر جائیں">
 
 <!ENTITY helper_triple_readerview_open_title "آف لائن دستیاب">
-
+<!ENTITY helper_triple_readerview_open_message "نشانی پڑھنے والا شہ کا نظارہ کریں تاکہ آفلائین پڑھ سکیں۔۔">
 <!ENTITY helper_triple_readerview_open_button "نشانیوں میں اضافہ کریں">
 
