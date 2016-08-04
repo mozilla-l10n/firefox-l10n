@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY newWindowsAsTabs.label       "ಬದಲಿಗೆ ಹೊಸ ವಿಂಡೋಗಳನ್ನು ಹೊಸ ಟ್ಯಾಬ್‍‍ನಲ್ಲಿ ತೆರೆ">
+<!ENTITY newWindowsAsTabs.accesskey   "w">
 
 <!ENTITY warnCloseMultipleTabs.label  "ಅನೇಕ ಹಾಳೆಗಳನ್ನು ಮುಚ್ಚುವಾಗ ನನ್ನನ್ನು ಎಚ್ಚರಿಸು">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
