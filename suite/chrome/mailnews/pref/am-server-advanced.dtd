@@ -4,7 +4,7 @@
 
 <!ENTITY serverAdvanced.label "高级帐户设置">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY serverDirectory.label "IMAP server directory:">
+<!ENTITY serverDirectory.label "IMAP 服务器目录：">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "仅显示已订阅的文件夹">
 <!ENTITY usingSubscription.accesskey "w">
@@ -13,7 +13,7 @@
 <!ENTITY maximumConnectionsNumber.label "最大服务器连接缓冲数">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
+<!ENTITY namespaceDesc.label "这些首选项指定您的 IMAP 服务器上的命名空间">
 <!ENTITY personalNamespace.label "个人名字空间：">
 <!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "公共 （共享）：">
