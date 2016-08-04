@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "سائٹوں پر سے کوکی قبول کریں">
 <!ENTITY  acceptCookies.accesskey       "ق">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "سہ فریقی کوکیاں قبول کریں:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "ہمیشہ">
 <!ENTITY  acceptThirdParty.never.label    "کبھی نہیں">
 <!ENTITY  acceptThirdParty.visited.label  "ملاحظہ شدہ سے">
@@ -105,6 +106,6 @@
 <!ENTITY  clearOnCloseSettings.accesskey "س">
 
 <!ENTITY  browserContainersHeader.label         "حامل ٹیبز">
-
+<!ENTITY  browserContainersLearnMore.label      "مزید سیکھیں">
 <!ENTITY  browserContainersEnabled.label        "حامل ٹہن بحال کریں">
 <!ENTITY  browserContainersEnabled.accesskey    "ح">

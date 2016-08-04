@@ -66,7 +66,8 @@
 
 
 
-
+<!ENTITY normalSize.label             "عام ناپ">
+<!ENTITY normalSize.accesskey         "ع">
 
 
 <!ENTITY editMenu.label               "تدوین">

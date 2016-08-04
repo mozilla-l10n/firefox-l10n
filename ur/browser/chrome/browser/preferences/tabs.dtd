@@ -5,7 +5,8 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab ٹہبس کے زرِیعے دورہ حالیہ اسرتعمال شدپ ترغیب میں">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-
+<!ENTITY newWindowsAsTabs.label       "نیا دریچہ نئے ٹیب میں کھولیں">
+<!ENTITY newWindowsAsTabs.accesskey   "ا">
 
 <!ENTITY warnCloseMultipleTabs.label  "زیادہ ٹیب ایک ساتھ بند کرنے پر مجھ سے سوال کیجیے">
 <!ENTITY warnCloseMultipleTabs.accesskey  "م">
