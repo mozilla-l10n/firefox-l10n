@@ -10,7 +10,7 @@
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
 
-
+<!ENTITY error.suggest.after ".">
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
