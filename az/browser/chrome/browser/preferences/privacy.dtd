@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "Saytlardan çərəzləri qəbul et">
 <!ENTITY  acceptCookies.accesskey       "e">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Üçüncü tərəf çərəzlərini qəbul et:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "l">
 <!ENTITY  acceptThirdParty.always.label   "Hər zaman">
 <!ENTITY  acceptThirdParty.never.label    "Heç zaman">
 <!ENTITY  acceptThirdParty.visited.label  "Baxılanlardan">
@@ -104,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Nizamlar…">
 <!ENTITY  clearOnCloseSettings.accesskey "a">
 
-
-
-
+<!ENTITY  browserContainersHeader.label         "Konteyner Vərəqləri">
+<!ENTITY  browserContainersLearnMore.label      "Ətraflı öyrən">
+<!ENTITY  browserContainersEnabled.label        "Konteyner Vərəqlərini Aktivləşdir">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
