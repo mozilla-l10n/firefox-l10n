@@ -17,14 +17,14 @@
 
 
 
-
+<!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
 
-
+<!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
 <!-- point 4 text for official branded builds -->
 
-
+<!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 
 
