@@ -5,14 +5,16 @@
      a better place to live. -->
 
 <!ENTITY syncBrand.fullName.label "फारयफक्स सिंक">
-<!ENTITY syncBrand.shortName.label "समक्रमण">
+<!ENTITY syncBrand.shortName.label "सिङ्क">
 <!-- Main titles. -->
 
-<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; संग जडान गर्नुहोस्">
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; सँग जडान गर्नुहोस्">
 <!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "आफ्नो नयाँ उपकरण सक्रिय गर्न, त्यो उपकरणमा “Set up &syncBrand.shortName.label;” छनोट गर्नुहोस्।">
 <!ENTITY sync.subtitle.pair.label "सक्रिय गर्नलाई, \&quot;उपकरणसँग जोडि बनाउनुहोस् \&quot; छान्नुहोस्।">
-
-
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.link.nodevice.label "म सँग उपकरण साथमा छैन...">
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.tabs "ट्याबहरू">
@@ -21,24 +23,31 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS2; मा &formatS1;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "पुस्तकचिनोको मेनु">
 <!ENTITY bookmarks.folder.places.label ''>
-
+<!ENTITY bookmarks.folder.tags.label "ट्यागहरू">
 
 
 
 
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "पिन लगाइएको">
 <!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 
 
+<!ENTITY fxaccount_back_to_browsing "ब्राउजिङमा फिर्ता जानुहोस् ">
 
-
+<!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; मा स्वागत छ ">
+<!ENTITY fxaccount_getting_started_description2 "आफ्नो ट्याबहरू, पुस्तकचिनो, लगिनहरु र थप सिङ्क गर्न साइन इन गर्नुहोस्।">
+<!ENTITY fxaccount_getting_started_get_started "सुरु गर्नुहोस्">
+<!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; को पुरानो संस्करण प्रयोग गरि रहनु भएको छ ?  ">
 
 
 
