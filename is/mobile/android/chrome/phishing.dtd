@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Hjálpaðu mér út héðan!">
 <!ENTITY safeb.palm.decline.label "Hunsa þessa aðvörun">
-
+<!ENTITY safeb.palm.reportPage.label "Hvers vegna var lokað á þessa síðu? ">
 
 <!ENTITY safeb.blocked.malwarePage.title "Tilkynna um árásar síðu!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
