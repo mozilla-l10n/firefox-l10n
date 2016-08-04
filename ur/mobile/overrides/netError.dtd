@@ -29,6 +29,7 @@
 <!ENTITY generic.title "اف">
 
 
+<!ENTITY malformedURI.title "پتہ جائز نہیں ہے">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -55,6 +56,7 @@
 <!ENTITY netTimeout.title "کنکشن ٹائم آوٹ ہو گیا ہے">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "پتہ سمجھ نہیں آیا">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>آپ کو یہ پتہ کھولنے کے لیے دیگر سافٹ ویئر تنصیب کرنے کی ضرورت پڑھ سکتی ہے۔</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "پراکسی پیش کار کنکشن واپس کر رہا ہے">
@@ -103,6 +105,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "اعلی معلومات: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "آپکا کنکشن ناقابل بھروسا ہے">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "اعلی معلومات: SSL_ERROR_NO_CYPHER_OVERLAP">

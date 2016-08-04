@@ -29,10 +29,13 @@
 <!ENTITY firstrun_tabqueue_message_on "کامیابی!">
 <!ENTITY firstrun_tabqueue_subtext_on "آپ پمیشہ &amp;سیٹکگیں؛ سے پند کرسکتے ہیں &pref_category_general;. کے نیچے">
 
+<!ENTITY firstrun_readerview_title "مضامین">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "بے ترتیبی کو کھوئیں">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+<!ENTITY firstrun_account_title "آپ">
 
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; کی اس سادہ کردہ ورژن کے ساتھ محفوظ رہیں اور کنٹرول اپنے ہاتھ میں رکھیں۔">
@@ -74,14 +77,19 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "سکرین شاٹس">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "پڑھنے کی فہرست">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+
+<!ENTITY bookmark_folder_items "&formatD; شہ">
 <!ENTITY bookmark_folder_one_item "۱ شہ">
 
+<!ENTITY reader_saved_offline "آف لائن محفوظ کردیا گیا">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "سوئچ">
 
 <!ENTITY history_today_section "آج">
 <!ENTITY history_yesterday_section "کل">
@@ -162,7 +170,7 @@
 <!ENTITY pref_category_accessibility "رسائی پذیری">
 <!ENTITY pref_category_accessibility_summary2 "متن سائز، زوم، آواز ان پٹ">
 <!ENTITY pref_category_privacy_short "رازداری">
-
+<!ENTITY pref_category_privacy_summary4 "سراغ راہ ، لگ ان ، کوائف کی پسند">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "کے بارے میں &brandShortName;، عمومی سوالات، رائے">
 <!ENTITY pref_category_datareporting "کوائف پسندیں">
@@ -236,8 +244,8 @@
      “storing data”. -->
 
 <!ENTITY pref_category_data_saver "کوائف محفوظ کرنے والا">
-
-
+<!ENTITY pref_category_media "میڈیا">
+<!ENTITY pref_category_developer_tools "تخلیق کار ٹول">
 
 <!ENTITY pref_tap_to_load_images_title2 "نقوش دکھائیں">
 <!ENTITY pref_tap_to_load_images_enabled "ہمیشہ">
@@ -245,8 +253,9 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "بلاک کیا گیا">
 
 <!ENTITY pref_show_web_fonts "ویب فانٹ نمائش کریں">
+<!ENTITY pref_show_web_fonts_summary2 "حب صفحہ لوڈ ہو رہا ہو بعیدفانٹ کو ڈاؤن لوڈ کریں">
 
-
+<!ENTITY pref_tracking_protection_title2 "سراغ راہ سے حفاظت">
 <!ENTITY pref_tracking_protection_summary3 "نجی براؤزنگ میں اہل کردہ">
 <!ENTITY pref_donottrack_title "میرا سراغ نہ لگائیں">
 <!ENTITY pref_donottrack_summary "&brandShortName; سائٹوں کو بتائے گا کہ آپ اپنا سراغ نہیں لگوانا چاہتے">
@@ -298,6 +307,7 @@
 
 <!ENTITY tab_queue_notification_settings "\&quot;ایک سے زیادہ لنک کھولنے\&quot; کے لئے، براہ مہربانی \u0027Draw over other apps\u0027 &brandShortName; کے لئے اجازت کو اہل بنائے">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
@@ -306,6 +316,7 @@
      Clicking the action will jump to the notification settings of the app. -->
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "ابھی پڑھیں">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -438,12 +449,12 @@ size. -->
 <!ENTITY share_image_failed "یہ نقش شیئر کرنے میں ناکام">
 <!ENTITY save_as_pdf "بطور PDF محفوظ کریں">
 <!ENTITY print "پرنٹ کریں">
-
+<!ENTITY find_in_page "صفحہ میں ڈھونڈیں">
 <!ENTITY desktop_mode "ڈیسک ٹاپ سائٹ کی درخواست کریں">
 <!ENTITY page "صفحہ">
 <!ENTITY tools "ٹول">
 
-
+<!ENTITY new_private_tab "نیا نجی ٹیب">
 <!ENTITY close_all_tabs "تمام ٹیب بند کریں">
 <!ENTITY close_private_tabs "نجی ٹیب بند کریں">
 <!ENTITY tabs_normal "ٹیب">
@@ -595,6 +606,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "تلاش کلیدی لفظ داخل کریں">
 
+<!ENTITY filepicker_title "مسل منتخب کریں">
 <!ENTITY filepicker_audio_title "آواز چنیں یا ریکارڈ کریں">
 <!ENTITY filepicker_image_title "تصویر چنیں یا ریکارڈ کریں">
 <!ENTITY filepicker_video_title "وڈیو چنیں یا ریکارڈ کریں">
@@ -622,6 +634,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded1 "اس صفحہ کے حصے قابل بھروسا نہیں ہیں (جیسے کہ نقوش)۔">
 <!ENTITY mixed_content_protection_disabled1 "آپ نے ناقابل بھروسا مواد سے حفاظت کو نا اہل بنا دیا ہے۔">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "سراغ راہ سے حفاظت">
 <!ENTITY doorhanger_tracking_state_enabled "اہل بنایا گیا">
 <!ENTITY doorhanger_tracking_state_disabled "نا اہل بنائیں">
 <!ENTITY doorhanger_tracking_message_enabled1 "آپ کے آن لائن رویہ کی سراغ راہ کی کوشش کرنے والے کو بلاک کر دیا گیا ہے۔">
@@ -786,6 +800,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; تازہ ترین ہے">
 <!ENTITY whatsnew_notification_summary "ڈھونڈیں اس ورژن میں کیا نیا ہے">
 
+<!ENTITY promotion_add_to_homescreen "ہوم اسکرین میں شامل کریں">
 
 <!ENTITY helper_first_offline_bookmark_message "اپنا پڑھینے کا نظارے کی شہ نشانیوں میں ڈھونڈیں ، ہتہ کہ آفلئن ہوں">
 
