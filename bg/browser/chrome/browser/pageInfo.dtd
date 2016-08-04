@@ -51,7 +51,7 @@
 <!ENTITY  permTab               "Права">
 <!ENTITY  permTab.accesskey     "П">
 <!ENTITY  permUseDefault        "Както е по подразбиране">
-<!ENTITY  permAskAlways         "Винаги да се пита">
+<!ENTITY  permAskAlways         "Винаги да пита">
 <!ENTITY  permAllow             "Разрешаване">
 <!ENTITY  permAllowSession      "Разрешаване за сесията">
 <!ENTITY  permBlock             "Блокиране">
