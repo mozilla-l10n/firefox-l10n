@@ -48,6 +48,7 @@
 <!ENTITY  switch_to_tab "Preklopi na zavihek">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Prikazovanje različice brez povezave">
 
 <!ENTITY  crash_reporter_title "Poročila o sesutju &brandShortName;a">
 <!ENTITY  crash_message2 "&brandShortName; se je zaradi napake sesul. Vaši zavihki so shranjeni na domači strani &brandShortName;a ob vnovičnem zagonu.">
@@ -273,12 +274,16 @@
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "Eksperimentalne funkcije">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "Zavihki po meri">
+<!ENTITY pref_custom_tabs_summary "Omogoči odpiranje URL-jev drugim aplikacijam za prilagojen videz.">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Tok dejavnosti">
 
 <!ENTITY tracking_protection_prompt_title "Zdaj z zaščito pred sledenjem">
 <!ENTITY tracking_protection_prompt_text "Aktivno zavračanje elementov sledenja, da vam ni potrebno skrbeti.">
@@ -392,6 +397,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Sinhronizirani zavihki">
 
 <!ENTITY pref_default_browser "Nastavi kot privzeti brskalnik">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Obišičite Mozillino podporo">
 <!ENTITY pref_about_firefox "O &brandShortName;u">
 <!ENTITY pref_vendor_faqs "Pogosta vprašanja">
 <!ENTITY pref_vendor_feedback "Sporočite nam svoje mnenje">
@@ -580,8 +586,12 @@ size. -->
 <!ENTITY home_clear_history_button "Počisti zgodovino brskanja">
 <!ENTITY home_clear_history_confirm "Ste prepričani, da želite počistiti vašo zgodovino?">
 <!ENTITY home_bookmarks_empty "Tukaj se prikažejo shranjeni zaznamki.">
+<!ENTITY home_closed_tabs_title2 "Nedavno zaprto">
 <!ENTITY home_last_tabs_empty "Tukaj se prikažejo vaši nedavni zavihki.">
+<!ENTITY home_restore_all "Obnovi vse">
+<!ENTITY home_closed_tabs_number "&formatD; zavihkov">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 zavihek">
 <!ENTITY home_most_recent_empty "Tukaj se prikažejo nedavno obiskane spletne strani.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
