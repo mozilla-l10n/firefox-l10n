@@ -32,6 +32,7 @@
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS 5">
 <!ENTITY  socks5.accesskey              "5">
+<!ENTITY  socksRemoteDNS.label2         "Проксі DNS при використанні SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "Порт:">
 <!ENTITY  HTTPport.accesskey            "о">
