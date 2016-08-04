@@ -12,18 +12,18 @@
 <!ENTITY firstrun_data_title "डेटा">
 <!ENTITY firstrun_data_message "कम डाटा, अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "तपाईँले प्रयोग गर्ने हरेक साइटमा कम डाटा खर्च गर्न तस्विरहरू बन्द गर्नुहोस्।">
-<!ENTITY firstrun_sync_title "समक्रमण">
+<!ENTITY firstrun_sync_title "सिङ्क">
 <!ENTITY firstrun_sync_message "&brandShortName;, सधैं तपाईँको पक्षमा">
 <!ENTITY firstrun_sync_subtext "आफ्नो ट्याब, पासवर्ड सिङ्क गरि सबैतिर यसलाई प्रयोग गर्नुहोस्।">
 <!ENTITY firstrun_signin_message "जडान गरि, सुरु हुनुहोस्">
-<!ENTITY firstrun_signin_button "सिङ्क गर्न साइन इन गर्नुहोस्">
+<!ENTITY firstrun_signin_button "सिङ्क मा साइन इन गर्नुहोस्">
 <!ENTITY  onboard_start_button_browser "ब्राउजिङ सुरु गर्नुहोस्">
 <!ENTITY firstrun_button_notnow "अहिले हैन">
 <!ENTITY firstrun_button_next "अर्को">
 
 <!ENTITY firstrun_tabqueue_title "लिङ्कहरू">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "ट्याब कतार सकि्रय">
+<!ENTITY firstrun_tabqueue_message_off "ट्याब कतार सक्रिय पार्नुहोस्">
 <!ENTITY firstrun_tabqueue_subtext_off "पछको लागि &brandShortName; लिङ्क सुरक्षित; जब अन्य एप्सहरूमा तिनीहरूलाई ट्याप गर्दा.">
 
 <!ENTITY firstrun_tabqueue_message_on "सफल!">
@@ -47,6 +47,8 @@
 
 <!ENTITY  switch_to_tab "ट्याबमा स्विच गर्नुहोस्">
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+
+<!ENTITY  tab_offline_version "अफलाइन संस्करण देखाइदै">
 
 <!ENTITY  crash_reporter_title "&brandShortName; क्रयास रिपोर्टर">
 <!ENTITY  crash_message2 "&brandShortName; मा समस्या थियो त्यसैले क्रयास भयो। जब तपाईं &brandShortName; पुनः सुरु गर्नुहुन्छ, तपाईंको ट्याबहरू गृह पृष्ठमा सूचीकृत हुनेछ।">
@@ -83,7 +85,7 @@
      in the folder. -->
 
 <!ENTITY bookmark_folder_items "&formatD; वस्तुहरू">
-<!ENTITY bookmark_folder_one_item "1 वस्तु">
+<!ENTITY bookmark_folder_one_item "१ वस्तु">
 
 <!ENTITY reader_saved_offline "अफलाइन सुरक्षित गरियो">
 <!-- Localization note (reader_switch_to_bookmarks) : This
