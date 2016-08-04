@@ -37,7 +37,7 @@
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 
-<!ENTITY performanceUI.unavailableNoticePB "Registrowanje profila tuchwilu móžno njeje. Prošu začińće wšě priwatne wokna a spytajće hišće raz.">
+<!ENTITY performanceUI.unavailableNoticePB "Registrowanje profila tuchwilu móžne njeje. Prošu začińće wšě priwatne wokna a spytajće hišće raz.">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
 

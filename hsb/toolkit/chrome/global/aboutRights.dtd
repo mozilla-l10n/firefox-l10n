@@ -76,7 +76,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Přehladowanje z lokalizaciju stejnišća je nětko znjemóžnjene">
 <!-- intro paragraph for unbranded builds -->
 
-<!ENTITY rights.webservices-unbranded "Přehlad websydłowych słužbow, kotrež produkt wobsahuje, hromadźe z instrukciejemi, kak hodźa so znjemóžnić, jeli móžno, měł so tu zapřijeć.">
+<!ENTITY rights.webservices-unbranded "Přehlad websydłowych słužbow, kotrež produkt wobsahuje, hromadźe z instrukciejemi, kak hodźa so znjemóžnić, je-li móžno, měł so tu zapřijeć.">
 <!-- point 1 text for unbranded builds -->
 
 <!ENTITY rights.webservices-term1-unbranded "Nałožujomne wužiwanske wuměnjenja za tutón produkt měli so tu podać.">

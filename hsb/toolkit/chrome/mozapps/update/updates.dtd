@@ -10,7 +10,7 @@
 <!ENTITY  noupdatesautoenabled.intro      "Aktualizacije k dispoziciji njesteja. &brandShortName; budźe periodisce za aktualizacijemi pruwować.">
 <!ENTITY  noupdatesautodisabled.intro     "Aktualizacije k dispoziciji njesteja. Prošu pruwujće pozdźišo hišće raz abo zmóžńće awtomatiske pruwowanje za aktualizacijemi &brandShortName;.">
 
-<!ENTITY  manualUpdate.title              "Aktualizowanje njemóžno">
+<!ENTITY  manualUpdate.title              "Aktualizowanje móžne njeje">
 <!ENTITY  manualUpdate.desc               "Doporučena aktualizacija wěstoty a stabilnosće steji k dispoziciji, ale nimaće systemowe prawa, kotrež su za jeje instalaciju trěbne. Prošu stajće so ze swojim systemowym administratorom do zwiska abo spytajće hišće raz z konta, kotrež ma prawo softwaru na tutym ličaku instalować.">
 <!ENTITY  manualUpdate.space.desc         "Doporučena wěstotna a stabilnostna aktualizacija k dispoziciji steji, ale nimaće dosć składowanskeho ruma za instalowanje.">
 <!ENTITY  manualUpdateGetMsg.label        "Móžeće přeco najnowšu wersiju &brandShortName; dóstać na:">

@@ -12,7 +12,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Zwisk móžno njeje">
+<!ENTITY connectionFailure.title "Zwisk móžny njeje">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Tuta adresa je wobmjezowana">
@@ -60,7 +60,7 @@
 <!ENTITY proxyConnectFailure.title "Proksy-serwer zwiski wotpokazuje">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Přepruwujće proksy-nastajenja, zo by so zawěsćiło, zo wone su korektne.</li> <li>Skontaktujće swojeho syćoweho administratora, zo by so zawěsćiło, zo proksy-serwer dźěła.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Njemóžno proksy-serwer namakać">
+<!ENTITY proxyResolveFailure.title "Njeje móžno, proksy-serwer namakać">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Přepruwujće proksy-nastajenja, zo by so zawěsćiło, zo su korektne.</li> <li>Pruwujće, hač waš ličak ma fungowacy syćowy zwisk.</li> <li>Jeli waš ličak abo syć so z wohnjowej murju abo proksy škita, zawěsćće, zo &brandShortName; smě na Web přistup měć.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Strona njesprawje posrědkuje">
@@ -69,7 +69,7 @@
 <!ENTITY unknownSocketType.title "Njewočakowana wotmołwa ze serwera">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Pruwujće, hač Personal Security Manager je instalowany na wašim systemje.</li> <li>Přičina je snano njestandardna konfiguracija na wašim serwerje.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Wěsty zwisk njemóžno">
+<!ENTITY nssFailure2.title "Wěsty zwisk móžny njeje">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Strona, kotruž chceće sej wobhladać, njeda so pokazać, dokelž awtentiskosć přijatych datow njeda so přepruwować.</li> <li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Waš zwisk wěsty njeje">
@@ -95,7 +95,7 @@ was trying to connect. -->
 <!ENTITY remoteXUL.title "Zdaleny XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo problemje informował.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Wěsty zwisk móžno njeje">
+<!ENTITY sslv3Used.title "Wěsty zwisk móžny njeje">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Rozšěrjena info: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -110,10 +110,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Wěsty zwisk z <span id='wrongSystemTime_URL'/> móžno njeje, dokelž waš časnik po zdaću wopačny čas pokazuje.</p> <p>Waš ličak mysli, zo je <span id='wrongSystemTime_systemDate'/>, byrnjež <span id='wrongSystemTime_actualDate'/> było. Zo byšće tutón problem rozrisał, změńće swoje datumowe a časowe nastajenja, zo byšće korektny čas nastajił.</p>">
+<!ENTITY certerror.wrongSystemTime "<p>Wěsty zwisk z <span id='wrongSystemTime_URL'/> móžny njeje, dokelž waš časnik po zdaću wopačny čas pokazuje.</p> <p>Waš ličak mysli, zo je <span id='wrongSystemTime_systemDate'/>, byrnjež <span id='wrongSystemTime_actualDate'/> było. Zo byšće tutón problem rozrisał, změńće swoje datumowe a časowe nastajenja, zo byšće korektny čas nastajił.</p>">
 
 <!ENTITY certerror.pagetitle1  "Njewěsty zwisk">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tute sydło wužiwa HTTP Strict Transport Security (HSTS), zo by podało, zo &brandShortName; ma jenož wěsće z nim zwjazać. Potajkim njeje móžno wuwzaće za tutón certifikat přidać.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tute sydło wužiwa HTTP Strict Transport Security (HSTS), zo by podało, zo &brandShortName; ma jenož wěsće z nim zwjazać. Potajkim njeje móžno, wuwzaće za tutón certifikat přidać.">
 <!ENTITY certerror.copyToClipboard.label "Tekst do mjezyskłada kopěrować">
 
 <!ENTITY inadequateSecurityError.title "Waš zwisk wěsty njeje">
