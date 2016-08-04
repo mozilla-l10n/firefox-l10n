@@ -213,9 +213,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.label         "ஓர் அறிவிப்பினைப் பார்">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "இடக்கோரிக்கையைப் பார்">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "கூடுதல் இணைப்பு நிறுவல் செய்தியைப் பார்">
-
-
-
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "இணைப்பில்லா செயலியின் சேமிப்பு செய்தியைப் பார்">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "உங்கள் உழ்நுழைவு தகவலை நிர்வகிக்கவும்">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "உங்கள் கடவுசொல்லினை சேமிக்க சரிபாருங்கள்">
 
 
 
