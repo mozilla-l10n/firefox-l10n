@@ -7,7 +7,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Zwisk njemóžno">
+<!ENTITY connectionFailure.title "Zwisk móžny njeje">
 <!ENTITY connectionFailure.longDesc "<p>Hačrunjež sydło zda so płaćiwe być, wobhladowak njemóže zwisk wutworić.</p><ul><li>Njeje sydło snano nachwilu k dispoziciji? Spytajcé pozdźišo hišće raz.</li><li>Njemóžeće druhe sydła přehladać? Skontrolujće syćowy zwisk swojeho ličaka.</li><li>Škita so waš ličak abo waša syć z wohnjowej murju abo proksy? Njekorektne nastajenja móža webpřehladowanju wadźić.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Port z přičinow wěstoty wobmjezowany">
@@ -64,10 +64,10 @@
 <!ENTITY unknownSocketType.title "Njekorektna wotmołwa">
 <!ENTITY unknownSocketType.longDesc "<p>Sydło wotmołwi na naprašowanje syće na njewočakowane wašnje a wobhladowak njemóže pokročować.</p>">
 
-<!ENTITY nssFailure2.title "Wěsty zwisk njemóžno">
+<!ENTITY nssFailure2.title "Wěsty zwisk móžny njeje">
 <!ENTITY nssFailure2.longDesc2 "<p>Strona, kotruž chceće sej wobhladać, njeda so pokazać, dokelž awtentiskosć přijatych datow njeda so přepruwować.</p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li></ul>">
 
-<!ENTITY nssBadCert.title "Wěsty zwisk njemóžno">
+<!ENTITY nssBadCert.title "Wěsty zwisk móžny njeje">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>To móhło problem z konfiguraciju serwera być, abo něchtó pospytuje, serwer imitować.</li> <li>Jeli sće w zańdźenosći ze serwerom wuspěšnje zwjazany był, móže zmylk nachwilny być a móžeće pozdźišo hišće raz spytać.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Abo móžeće wuwzaće přidać…">
