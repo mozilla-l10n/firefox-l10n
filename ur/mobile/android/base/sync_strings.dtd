@@ -33,7 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "ٹیگ">
 <!ENTITY bookmarks.folder.toolbar.label "نشانیاں ٹول بار">
-
+<!ENTITY bookmarks.folder.other.label "دیگر نشانیاں">
 <!ENTITY bookmarks.folder.desktop.label "ڈیسک ٹاپ نشانیاں">
 <!ENTITY bookmarks.folder.mobile.label "متحرک نشانیاں">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->

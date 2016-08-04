@@ -23,6 +23,7 @@
 <!ENTITY fileNotFound.title "مسل نہیں ملی">
 <!ENTITY fileNotFound.longDesc "<ul> <li>مسل نام کو کیپیٹل یا دوسرے ٹائپنگ نقص کے لیے چیک کریں</li> <li>چیک کریں کہ مسل ہٹائی، نام تبدیل یا ڈلیٹ تو نہیں کر دی گئی۔ </li> </ul>">
 
+<!ENTITY fileAccessDenied.title "مسل تک رسائی نہیں دی گئی">
 
 
 <!ENTITY generic.title "اف">
