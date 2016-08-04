@@ -19,10 +19,10 @@
 <!ENTITY search_pref_button_content_description "सेटिङ्हरु">
 
 <!ENTITY pref_clearHistory_confirmation "इतिहास खाली">
-
-
+<!ENTITY pref_clearHistory_dialogMessage "यस उपकरणबाट सबै खोज इतिहास मेटाउने?">
+<!ENTITY pref_clearHistory_title "खोज इतिहास मेटाउनुहोस्">
 
 <!ENTITY search_widget_button_label "खोजी गर्नुहोस्">
 
 <!ENTITY network_error_title "इन्टरनेट जडान छैन">
-
+<!ENTITY network_error_message "आफ्नो नेटवर्क सेटिङ जाँच गर्न यहाँ दबाउनुहोस्">

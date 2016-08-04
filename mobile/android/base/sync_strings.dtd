@@ -3,8 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "फारयफक्स सिंक">
 <!ENTITY syncBrand.shortName.label "समक्रमण">
 <!-- Main titles. -->
+
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; संग जडान गर्नुहोस्">
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.pair.label "सक्रिय गर्नलाई, \&quot;उपकरणसँग जोडि बनाउनुहोस् \&quot; छान्नुहोस्।">
 
