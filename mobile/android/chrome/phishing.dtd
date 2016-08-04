@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "Få mig væk herfra!">
 <!ENTITY safeb.palm.decline.label "Ignorer denne advarsel">
 <!ENTITY safeb.palm.reportPage.label "Hvorfor blev denne side blokeret?">
-<!ENTITY safeb.palm.whyForbidden.label "Hvorfor blev denne side blokeret?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Anmeldt angrebswebsted!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,7 +20,3 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Webstedet <span id='unwanted_sitename'/> er blevet anmeldt for at indeholde uønsket software og er blevet blokeret på grund af dine sikkerhedsindstillinger.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Websteder med uønsket software prøver at lokke dig til at installere software, der kan påvirke dit system på uventede måder.">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Blokeret websted">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Websiden på <span id='forbidden_sitename'/> er blevet blokeret af din admin-profil.">

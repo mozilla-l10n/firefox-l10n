@@ -44,9 +44,11 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Bogmærker">
 <!ENTITY  history_title "Historik">
-<!ENTITY  recent_tabs_title "Seneste faneblade">
 
 <!ENTITY  switch_to_tab "Skift til faneblad">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Viser offline-version">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Fejlrapportør">
 <!ENTITY  crash_message2 "&brandShortName; stødte på en fejl og gik ned. Dine åbne faneblade bør blive vist på startskærmen, når du genstarter.">
@@ -265,6 +267,20 @@
 <!ENTITY pref_whats_new_notification "Nyheder i &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Læs mere om nyhederne efter en opdatering">
 
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!ENTITY pref_category_experimental "Eksperimentelle funktioner">
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "Tilpassede faneblade">
+<!ENTITY pref_custom_tabs_summary "Gør det muligt for tredjepart apps at åbne URL'er med tilpasset udseende og funktionalitet.">
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Aktivitetsstrøm">
+<!ENTITY pref_activity_stream_summary "En udvidet historik, der gør det nemmere at finde, hvad du leder efter i &brandShortName;.">
+
 <!ENTITY tracking_protection_prompt_title "Nu med beskyttelse mod sporing">
 <!ENTITY tracking_protection_prompt_text "Sporingselementer blokeres automatisk, så du ikke behøver at bekymre dig.">
 <!ENTITY tracking_protection_prompt_tip_text "Læs mere i indstillingerne for privatliv">
@@ -377,6 +393,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Synkroniserede faneblade">
 
 <!ENTITY pref_default_browser "Angiv som standardbrowser">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Besøg Mozilla Support">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Giv os din mening">
@@ -562,10 +579,12 @@ size. -->
 <!ENTITY home_clear_history_button "Ryd browserhistorik">
 <!ENTITY home_clear_history_confirm "Er du sikker på, at du vil rydde historikken?">
 <!ENTITY home_bookmarks_empty "Gemte bogmærker vises her.">
-<!ENTITY home_closed_tabs_title "Senest lukkede faneblade">
-<!ENTITY home_last_tabs_title "Dine faneblade fra sidst">
+<!ENTITY home_closed_tabs_title2 "Senest lukkede">
 <!ENTITY home_last_tabs_empty "Dine seneste faneblade vises her.">
-<!ENTITY home_open_all "Åbn alle">
+<!ENTITY home_restore_all "Gendan alle">
+<!ENTITY home_closed_tabs_number "&formatD; faneblade">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 faneblad">
 <!ENTITY home_most_recent_empty "Dine senest besøgte websteder vises her.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -621,7 +640,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Sikker forbindelse">
 <!ENTITY identity_connection_insecure "Usikker forbindelse">
-<!ENTITY identity_login_insecure "Denne webside er ikke sikker, og dit login kan være sårbart.">
 <!ENTITY identity_connection_chromeui "Dette er en sikker &brandShortName;-webside">
 
 <!-- Mixed content notifications in site identity popup -->
