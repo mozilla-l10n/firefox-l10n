@@ -14,6 +14,6 @@
 <!ENTITY caseSensitive.label "কেশ মেলাও c">
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "কেস সেনসিটিভিটি দিয়ে খুঁজুন">
-
-
+<!ENTITY entireWord.label "সম্পূর্ণ শব্দ">
+<!ENTITY entireWord.accesskey "W">
 <!ENTITY entireWord.tooltiptext "শুধুমাত্র সম্পূর্ণ শব্দ অনুসন্ধান">
