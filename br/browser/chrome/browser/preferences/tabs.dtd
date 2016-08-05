@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY newWindowsAsTabs.label       "Digeriñ un ivinell nevez e-lec'h ur prenestr nevez">
+<!ENTITY newWindowsAsTabs.accesskey   "D">
 
 <!ENTITY warnCloseMultipleTabs.label  "Kas keloù din pa vez serret meur a ivinell war un taol">
 <!ENTITY warnCloseMultipleTabs.accesskey  "K">
