@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY newWindowsAsTabs.label       "Ireki leiho berriak fitxa berrietan">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "Abisatu hainbat fitxa ixterakoan">
 <!ENTITY warnCloseMultipleTabs.accesskey  "b">
