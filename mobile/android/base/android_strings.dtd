@@ -388,7 +388,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Descărcările">
 <!ENTITY pref_private_data_syncedTabs "Filele sincronizate">
 
-<!ENTITY pref_default_browser "Stabilește drept browser implicit">
+<!ENTITY pref_default_browser "Desemnează ca browser implicit">
 
 <!ENTITY pref_about_firefox "Despre &brandShortName;">
 <!ENTITY pref_vendor_faqs "Întrebări frecvente">
