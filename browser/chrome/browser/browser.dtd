@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "ป">
 <!ENTITY  unpinTab.label                     "ถอดหมุดแท็บ">
 <!ENTITY  unpinTab.accesskey                 "บ">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "ส่งแท็บไปยังอุปกรณ์">
+<!ENTITY  sendTabToDevice.accesskey          "อ">
+<!ENTITY  sendPageToDevice.label             "ส่งหน้าไปยังอุปกรณ์">
+<!ENTITY  sendPageToDevice.accesskey         "อ">
+<!ENTITY  sendLinkToDevice.label             "ส่งลิงก์ไปยังอุปกรณ์">
+<!ENTITY  sendLinkToDevice.accesskey         "อ">
 <!ENTITY  moveToNewWindow.label              "ย้ายไปหน้าต่างใหม่">
 <!ENTITY  moveToNewWindow.accesskey          "ป">
 <!ENTITY  bookmarkAllTabs.label              "คั่นแท็บทั้งหมด…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "แสดงแท็บทั้งหมด">
 <!ENTITY showAllTabsCmd.accesskey "ม">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "ลงชื่อเข้าใช้ &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "เปิดการตั้งค่า &syncBrand.shortName.label;">
@@ -474,7 +474,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "เปิดกรอบในหน้าต่างใหม่">
 <!ENTITY openFrameCmd.accesskey       "น">
 
-
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "แสดงเฉพาะกรอบนี้">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ส">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "พ">
 
 <!ENTITY editBookmark.done.label                     "เสร็จสิ้น">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "การเชื่อมต่อปลอดภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่ปลอดภัย">
