@@ -42,7 +42,7 @@
 <!ENTITY setup.tosAgree2.label      "وعلى">
 <!ENTITY setup.ppLink.label         "سياسة الخصوصية">
 <!ENTITY setup.tosAgree3.label      "​">
-<!ENTITY setup.tosAgree2.accesskey  "​">
+<!ENTITY setup.tosAgree2.accesskey  "">
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; يهتم بخصوصيتك">
