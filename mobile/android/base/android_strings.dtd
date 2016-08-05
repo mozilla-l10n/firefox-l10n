@@ -44,9 +44,11 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "行動書籤">
 <!ENTITY  history_title "瀏覽紀錄">
-<!ENTITY  recent_tabs_title "最近開啟的分頁">
 
 <!ENTITY  switch_to_tab "切換到分頁">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "顯示離線版本">
 
 <!ENTITY  crash_reporter_title "&brandShortName; 錯誤回報員">
 <!ENTITY  crash_message2 "&brandShortName; 意外碰上問題而自行關閉。您的分頁將會在重新啟動後被列在 &brandShortName; 的開始頁。">
@@ -106,7 +108,7 @@
 <!ENTITY edit_mode_cancel "取消">
 
 <!ENTITY close_tab "關閉分頁">
-<!ENTITY one_tab "一個分頁">
+<!ENTITY one_tab "1 個分頁">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; 個分頁">
@@ -270,6 +272,20 @@
 <!ENTITY pref_whats_new_notification "&brandShortName; 有什麼新鮮事">
 <!ENTITY pref_whats_new_notification_summary "在更新後了解有那些新功能">
 
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!ENTITY pref_category_experimental "實驗中功能">
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "自訂分頁">
+<!ENTITY pref_custom_tabs_summary "允許第三方應用程式以自訂外觀與樣式開啟網址。">
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Activity Stream">
+<!ENTITY pref_activity_stream_summary "將您的上網紀錄視覺化並重新發想首頁設計，讓您可以更簡單在 &brandShortName; 找到想找的東西。">
+
 <!ENTITY tracking_protection_prompt_title "現在開始提供追蹤保護功能">
 <!ENTITY tracking_protection_prompt_text "主動封鎖網頁中的追蹤元素，這樣您就不用再擔心了。">
 <!ENTITY tracking_protection_prompt_tip_text "前往隱私設定了解更多資訊">
@@ -382,6 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "已同步的分頁">
 
 <!ENTITY pref_default_browser "設為預設瀏覽器">
+<!ENTITY pref_default_browser_mozilla_support_tablet "前往 Mozilla 技術支援站">
 <!ENTITY pref_about_firefox "關於 &brandShortName;">
 <!ENTITY pref_vendor_faqs "常見問題">
 <!ENTITY pref_vendor_feedback "提供意見回饋">
@@ -570,10 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "清除瀏覽紀錄">
 <!ENTITY home_clear_history_confirm "您確定要清除瀏覽紀錄？">
 <!ENTITY home_bookmarks_empty "您儲存的書籤將會顯示於此處。">
-<!ENTITY home_closed_tabs_title "最近關閉的分頁">
-<!ENTITY home_last_tabs_title "上次開啟的分頁">
+<!ENTITY home_closed_tabs_title2 "最近關閉">
 <!ENTITY home_last_tabs_empty "您最近的分頁將會顯示於此。">
-<!ENTITY home_open_all "開啟全部">
+<!ENTITY home_restore_all "全部還原">
+<!ENTITY home_closed_tabs_number "&formatD; 個分頁">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 個分頁">
 <!ENTITY home_most_recent_empty "您最近瀏覽的網頁將會顯示於此。">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +644,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "安全連線">
 <!ENTITY identity_connection_insecure "不安全的連線">
-<!ENTITY identity_login_insecure "此頁面並不安全，您的登入資訊可能會有風險。">
 <!ENTITY identity_connection_chromeui "此頁面為安全的&brandShortName;頁面">
 
 <!-- Mixed content notifications in site identity popup -->
@@ -769,7 +787,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "清除瀏覽記錄">
 <!ENTITY restrictable_feature_clear_history_description "讓家人可以刪除造訪過的網站資訊。">
 <!ENTITY restrictable_feature_advanced_settings "進階設定">
-<!ENTITY restrictable_feature_advanced_settings_description "包含匯入書籤、恢復分頁和自動更新。關閉此選項可簡化家人使用時需設定的內容。">
+<!ENTITY restrictable_feature_advanced_settings_description "包含匯入書籤、還原分頁和自動更新。關閉此選項可簡化家人使用時需設定的內容。">
 <!ENTITY restrictable_feature_camera_microphone "攝影機與麥克風">
 <!ENTITY restrictable_feature_camera_microphone_description "讓家人可以透過網站即時溝通。">
 <!ENTITY restrictable_feature_block_list "封鎖清單">

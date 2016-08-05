@@ -21,4 +21,7 @@
 <!ENTITY prefUseragent.label                 "使用者代理字串">
 <!ENTITY prefFirefoxCompat.label             "宣告 Firefox 相容性">
 <!ENTITY prefFirefoxCompat.accesskey         "F">
+<!ENTITY prefLightningShow.label             "通知已安裝 Lightning">
+<!ENTITY prefLightningShow.accesskey         "L">
+<!ENTITY prefCompatWarning                   "警告: 關閉這些設定可能會造成網站或服務無法正常使用。">
 

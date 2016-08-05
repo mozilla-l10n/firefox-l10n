@@ -6,10 +6,6 @@
 <!ENTITY  checking.title                  "正在檢查是否有更新檔">
 <!ENTITY  updateCheck.label               "正在尋找更新版的 &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "找到外掛程式更新">
-<!ENTITY  pluginupdatesfound.label        "找到外掛程式的更新版本。">
-<!ENTITY  pluginupdateslink.label         "了解如何升級您使用的外掛程式。">
-
 <!ENTITY  noupdatesfound.title            "無任何更新">
 <!ENTITY  noupdatesautoenabled.intro      "目前沒有新的更新檔。 &brandShortName; 會定期檢查是否有更新。">
 <!ENTITY  noupdatesautodisabled.intro     "目前沒有新的更新檔。請在稍後再檢查或是啟用 &brandShortName; 的自動檢查更新功能。">

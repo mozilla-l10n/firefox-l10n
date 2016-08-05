@@ -149,7 +149,7 @@
 
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey        "p">
-<!ENTITY showPopupManager.label       "管理彈出型視窗 (Popup)">
+<!ENTITY showPopupManager.label       "管理彈出型視窗">
 <!ENTITY showPopupManager.accesskey   "M">
 <!ENTITY dontShowMessage.label        "在彈出型視窗被封鎖時不要顯示此訊息">
 <!ENTITY dontShowMessage.accesskey    "D">

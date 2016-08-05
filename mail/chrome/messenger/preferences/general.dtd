@@ -19,6 +19,7 @@
 <!ENTITY playSound1.accesskey              "d">
 <!ENTITY showAnimatedAlert.label          "顯示警告視窗">
 <!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY notificationAlertSettings.label  "可在系統偏好設定的通知窗格中關閉警示。">
 <!ENTITY customizeMailAlert.label         "自訂…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 

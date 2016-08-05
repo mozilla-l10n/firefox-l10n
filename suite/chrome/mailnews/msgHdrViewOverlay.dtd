@@ -26,7 +26,7 @@
 <!ENTITY editMessage.label                 "編輯草稿…">
 <!ENTITY editMessage.accesskey             "d">
 
-<!ENTITY attachmentsTree.label             "附加檔案:">
+<!ENTITY attachmentsTree.label             "附件:">
 <!ENTITY attachmentsTree.accesskey         "c">
 <!ENTITY openAttachmentCmd.label           "開啟">
 <!ENTITY openAttachmentCmd.accesskey       "O">
