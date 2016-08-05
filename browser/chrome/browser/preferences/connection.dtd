@@ -33,7 +33,7 @@
 <!ENTITY  socks5.label                  "SOCKS v5 (v)">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "SOCKS v5 ব্যবহারের সময় Proxy DNS">
-
+<!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "পোর্ট (P):">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
