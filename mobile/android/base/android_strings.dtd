@@ -8,13 +8,13 @@
 <!ENTITY firstrun_urlbar_subtext "উপরকারী অনুসন্ধান প্রস্তাবনা শর্টকার্টের মাধ্যমে আরও দ্রুত বিভিন্ন জিনিষ খুঁজে নিন।">
 <!ENTITY firstrun_bookmarks_title "ইতিহাস">
 <!ENTITY firstrun_bookmarks_message "আপনার পছন্দ, সামনে এবং মাঝখানে">
-<!ENTITY firstrun_bookmarks_subtext "আপনার বুকমার্ক ও ইতিহাস থেকে ফলাফল পান যখন আপনি অনুসন্ধান করছে।">
+<!ENTITY firstrun_bookmarks_subtext "আপনার বুকমার্ক ও ইতিহাস থেকে ফলাফল পান যখন আপনি অনুসন্ধান করছেন।">
 <!ENTITY firstrun_data_title "ডাটা">
 <!ENTITY firstrun_data_message "কম ডাটা, বেশি সঞ্চয়">
 <!ENTITY firstrun_data_subtext2 "আপানার পরিদর্শন করা প্রতিটি সাইটে কম ডাটা ব্যবহার করতে ছবি প্রতিরোধ করুন।">
 <!ENTITY firstrun_sync_title "সিঙ্ক">
 <!ENTITY firstrun_sync_message "&brandShortName;, সবসময় আপনার পাশে">
-<!ENTITY firstrun_sync_subtext "আপনি যেখানেই ব্যবহার করুন আপনার ট্যাব, পাসওয়ার্ড এবং আরো অনেক কিছু সিঙ্ক করুন।">
+<!ENTITY firstrun_sync_subtext "আপনি যেখানেই ব্যবহার করুন না কেন আপনার ট্যাব, পাসওয়ার্ড এবং আরো অনেক কিছু সিঙ্ক করুন।">
 <!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
 <!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
@@ -398,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "সিঙ্ককৃত ট্যাব">
 
 <!ENTITY pref_default_browser "ডিফল্ট ব্রাউজার নির্ধারণ কুরুন">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support দেখুন">
 <!ENTITY pref_about_firefox "&brandShortName; সম্পর্কে">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "ফীডব্যাক প্রদান করুন">
