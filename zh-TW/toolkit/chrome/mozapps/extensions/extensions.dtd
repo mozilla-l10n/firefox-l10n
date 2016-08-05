@@ -37,10 +37,6 @@
 <!ENTITY warning.updatesecurity.enable.label       "啟用">
 <!ENTITY warning.updatesecurity.enable.tooltip     "啟用附加元件更新安全檢查">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "檢查您是否使用最新版本的外掛程式">
-<!ENTITY info.plugincheck.tooltip               "檢查您是否使用最新版本的外掛程式">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "搜尋">
 <!ENTITY view.discover.label                  "取得元件">

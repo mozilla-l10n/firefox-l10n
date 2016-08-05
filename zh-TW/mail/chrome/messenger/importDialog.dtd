@@ -38,6 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "P">
 <!ENTITY acctName.label           "名稱:">
 <!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "沒有找到可匯入資料的應用程式或檔案。">
 
 <!ENTITY back.label               "&lt; 上一步">
 <!ENTITY forward.label            "下一步 &gt;">

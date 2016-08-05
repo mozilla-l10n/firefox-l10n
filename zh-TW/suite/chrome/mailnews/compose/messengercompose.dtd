@@ -9,7 +9,7 @@
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY subject.label  "主旨:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "附加檔案:">
+<!ENTITY attachments.label "附件:">
 <!ENTITY attachments.accesskey "c">
 
 <!-- menu items:  the . means that the menu item isn't implemented yet -->

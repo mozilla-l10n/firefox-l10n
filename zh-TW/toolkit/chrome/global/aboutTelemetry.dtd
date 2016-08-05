@@ -52,6 +52,8 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "執行緒遲滯">
 
+<!ENTITY aboutTelemetry.scalarsSection "Scalars">
+
 <!ENTITY aboutTelemetry.histogramsSection "柱狀圖">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Keyed Histograms">

@@ -37,7 +37,3 @@
   -  displayed. -->
 <!ENTITY noPropertiesFound     "找不到 CSS 屬性。">
 
-<!-- FIXME: notes -->
-<!ENTITY computedViewTitle     "計算樣式">
-<!ENTITY ruleViewTitle         "規則">
-
