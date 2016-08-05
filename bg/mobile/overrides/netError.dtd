@@ -53,6 +53,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "Грешка в кодировката на съдържанието">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
 
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
