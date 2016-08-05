@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "x">
 <!ENTITY  unpinTab.label                     "Desafixar aba">
 <!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  sendTabToDevice.label              "Enviar aba para o dispositivo">
+<!ENTITY  sendTabToDevice.accesskey          "d">
+<!ENTITY  sendPageToDevice.label             "Enviar página para o dispositivo">
+<!ENTITY  sendPageToDevice.accesskey         "d">
+<!ENTITY  sendLinkToDevice.label             "Enviar Link para o dispositivo">
+<!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  moveToNewWindow.label              "Mover para nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Adicionar todas as abas…">
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Mostrar todas as abas">
 <!ENTITY showAllTabsCmd.accesskey "x">
+<!ENTITY toggleReaderMode.key "">
 
 <!ENTITY fxaSignIn.label "Entrar no &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Abrir preferências &syncBrand.shortName.label;">
@@ -142,6 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
 
 <!ENTITY closeWindow.label "Fechar janela">
 <!ENTITY closeWindow.accesskey "h">
