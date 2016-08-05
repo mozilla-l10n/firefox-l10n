@@ -192,7 +192,7 @@
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "描述:" >
 <!ENTITY event.description.accesskey                      "p">
-<!ENTITY event.attachments.label                          "附加檔案:" >
+<!ENTITY event.attachments.label                          "附件:" >
 <!ENTITY event.attachments.accesskey                      "h" >
 <!ENTITY event.attachments.menubutton.label               "附件">
 <!ENTITY event.attachments.menubutton.accesskey           "A">
