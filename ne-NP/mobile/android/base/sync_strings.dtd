@@ -30,10 +30,10 @@
 <!ENTITY bookmarks.folder.menu.label "पुस्तकचिनोको मेनु">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "ट्यागहरू">
-
-
-
-
+<!ENTITY bookmarks.folder.toolbar.label "पुस्तकचिनो टुलबार">
+<!ENTITY bookmarks.folder.other.label "अन्य पुस्तकचिनोहरू">
+<!ENTITY bookmarks.folder.desktop.label "डेस्कटप पुस्तकचिनोहरू">
+<!ENTITY bookmarks.folder.mobile.label "मोबाइल पुस्तकचिनोहरू">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "पिन लगाइएको">
 <!-- Firefox Account strings. -->
