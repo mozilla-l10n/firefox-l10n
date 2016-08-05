@@ -5,44 +5,84 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY loadError.label "Проблем при зареждане на страница">
+<!ENTITY retry.label "Нов опит">
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.title "Не може да бъде установена връзка">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY deniedPortAccess.title "Този адрес е ограничен">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.title "Сървърът не е намерен">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul>
+  <li>Проверете адреса за правописни грешки, като например <strong>ww</strong>. example.com вместо <strong>www</strong>. example.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Търсене</button>
+    </div>
+  <li>Ако не можете да заредите каквато и да е страница, проверете връзката за данни или Wi-Fi връзката.
+    <button id='wifi'>Включване на Wi-Fi</button>
+  </li>
+</ul>">
 
+<!ENTITY fileNotFound.title "Файлът не е намерен">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Проверете името на файла за големи/малки букви или други грешки при въвеждане.</li> <li>Проверете дали файлът не е преместен, преименуван или изтрит.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "Достъпът до файла беше отказан">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Може да е премахнат, преместен или правата му да ограничават достъпа.</li></ul>">
 
+<!ENTITY generic.title "Ооох.">
+<!ENTITY generic.longDesc "<p>&brandShortName; не може да зареди тази страница.</p>">
 
+<!ENTITY malformedURI.title "Адресът е невалиден">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY netInterrupt.title "Връзката беше прекъсната">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY notCached.title "Документът е с изтекъл срок на валидност">
 
+<!ENTITY netOffline.title "Работа извън мрежата">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY contentEncodingError.title "Грешка в кодировката на съдържанието">
 
 
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "Адресът не е разпознат">
 
 
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
 
+<!ENTITY unknownSocketType.title "Неочакван отговор от сървъра">
+<!ENTITY unknownSocketType.longDesc "<ul><li>Проверете дали системата има инсталиран Personal Security Manager.</li><li>Настройките на сървъра може да са нестандартни.</li></ul>">
 
+<!ENTITY nssFailure2.title "Неуспешно установяване на шифрована връзка">
 
+<!ENTITY nssBadCert.title "Неуспешно установяване на шифрована връзка">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY cspBlocked.title "Блокирано от Content Security Policy">
 
+<!ENTITY corruptedContentErrorv2.title "Грешка поради развалено съдържание">
 
+<!ENTITY securityOverride.linkText "Или можете да добавите изключение…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Махнете ме от тук!">
+<!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
@@ -50,13 +90,17 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
+<!ENTITY remoteXUL.title "Отдалечен XUL">
 
+<!ENTITY sslv3Used.title "Невъзможно създаване на защитена връзка">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Допълнителна информация: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "Връзката е незащитена">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Допълнителна информация: SSL_ERROR_NO_CYPHER_OVERLAP">
 
 <!ENTITY inadequateSecurityError.title "Връзката е незащитена">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
