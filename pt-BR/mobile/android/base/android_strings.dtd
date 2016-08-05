@@ -280,9 +280,11 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "Abas personalizadas">
+<!ENTITY pref_custom_tabs_summary "Permitir que aplicativos de terceiros abram URLs com uma aparência personalizada.">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Fluxo de atividade">
+<!ENTITY pref_activity_stream_summary "Um visual impressionante do histórico e uma pagina inicial reimaginada tornam mais fácil do que nunca encontrar exatamente o que você está procurando no &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Agora com proteção contra rastreamento">
 <!ENTITY tracking_protection_prompt_text "Bloqueia elementos de rastreamento para que você não precise se preocupar.">
