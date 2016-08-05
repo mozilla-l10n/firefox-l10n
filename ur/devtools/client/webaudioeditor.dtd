@@ -28,8 +28,12 @@
   -  AudioNode inspector view. -->
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
   -  AudioNode inspector view empty message. -->
+
+<!ENTITY webAudioEditorUI.inspectorEmpty  "کوئی آڈیو نوڈ منتخب نہیں کی گئی">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
   -  AudioNode inspector view properties tab empty message. -->
+
+<!ENTITY webAudioEditorUI.propertiesEmpty "نوڈ کی کوئی خصوصیات نہیں ہیں۔">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationEmpty): This is the title for the
   -  AudioNode inspector view automation tab empty message. -->
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationNoEvents): This is the title for the

@@ -44,7 +44,7 @@
   -  console.error(). -->
 
 <!ENTITY btnPageLogging.label   "لاگینگ">
-
+<!ENTITY btnPageLogging.tooltip "لاگ پیغام دریچہ کنسول آبجیکٹ کو ارسال کیا گیا">
 <!ENTITY btnPageLogging.accesskey3 "L">
 <!ENTITY btnConsoleErrors       "نقائص">
 <!ENTITY btnConsoleInfo         "معلومات">
@@ -57,7 +57,7 @@
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
 <!ENTITY btnServerLogging.label       "پیش کار">
-
+<!ENTITY btnServerLogging.tooltip     "لاگ پیغام ویب سرور سے وصول پایا">
 <!ENTITY btnServerLogging.accesskey   "پ">
 <!ENTITY btnServerErrors              "نقص">
 <!ENTITY btnServerInfo                "معلومات">
@@ -96,7 +96,7 @@
 <!ENTITY closeCmd.key         "و">
 <!ENTITY findCmd.key          "ف">
 <!ENTITY clearOutputCtrl.key  "ل">
-
-
-
-
+<!ENTITY openInVarViewCmd.label "متغیرہ نظارہ میں کھولیں">
+<!ENTITY openInVarViewCmd.accesskey "م">
+<!ENTITY storeAsGlobalVar.label "ذخیرہ کریں عالمی متغیرہ کی طرز پر">
+<!ENTITY storeAsGlobalVar.accesskey "ذ">
