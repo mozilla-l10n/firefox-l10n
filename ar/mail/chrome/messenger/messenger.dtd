@@ -756,7 +756,7 @@
    In the en-US locale we ran out of access keys, so there is an empty access key for
    Watch Thread. Localizers can pick a suitable key
   -->
-<!ENTITY contextWatchThreadMenu.accesskey "​">
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "احفظ ك‍…">
 <!ENTITY contextSaveAs.accesskey "ح">
 <!ENTITY contextPrint.label "اطبع…">
