@@ -151,7 +151,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 
-
+<!ENTITY pointerlockWarning.generic.label "Dokumentu honek zure erakuslearen kontrola dauka. Kontrola berreskuratzeko, sakatu eskape tekla.">
 
 <!ENTITY closeWindow.label "Itxi leihoa">
 <!ENTITY closeWindow.accesskey "h">
