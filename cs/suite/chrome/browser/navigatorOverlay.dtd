@@ -122,11 +122,25 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Obrázky z tohoto serveru nebudou nikdy stahovány.">
 
+<!ENTITY popupsMessageChangeTitle.label "Oprávnění k vyskakovacím oknům změněno">
+<!ENTITY popupAllowCmd.label "Povolit vyskakovací okna pro tento server">
+<!ENTITY popupAllowCmd.accesskey "a">
+<!ENTITY popupAllowMsg.label "Vyskakovací okna z tohoto serveru budou vždy povolena.">
+<!ENTITY popupDefaultCmd.label "Použít výchozí oprávnění pro vyskakovací okna">
+<!ENTITY popupDefaultCmd.accesskey "u">
+<!ENTITY popupDefaultMsg.label "Vyskakovací okna z tohoto serveru budou zobrazována na základě výchozího nastavení.">
+<!ENTITY popupBlockCmd.label "Blokovat vyskakovací okna pro tento server">
+<!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupBlockMsg.label "Vyskakovací okna z tohoto serveru nebudou zobrazována.">
+<!ENTITY popupsManage.label "Správa vyskakovacích oken">
+<!ENTITY popupsManage.accesskey "S">
 
 <!ENTITY cookieCookieManager.label "Správce cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Správce obrázků">
 <!ENTITY cookieImageManager.accesskey "o">
+<!ENTITY popupsManager.label "Správce vyskakovacích oken">
+<!ENTITY popupsManager.accesskey "v">
 
 <!ENTITY clearPrivateDataCmd.label "Vymazat důvěrná data">
 <!ENTITY clearPrivateDataCmd.accesskey "m">
