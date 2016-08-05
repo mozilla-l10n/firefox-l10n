@@ -105,4 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Configurar…">
 <!ENTITY  clearOnCloseSettings.accesskey "C">
 
+<!ENTITY  browserContainersHeader.label         "Abas container">
 <!ENTITY  browserContainersLearnMore.label      "Saber mais">
+<!ENTITY  browserContainersEnabled.label        "Ativar abas container">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
