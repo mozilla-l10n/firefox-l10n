@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
 
+<!-- extracted from am-server-top.xul -->
 
 <!ENTITY messageStorage.label "Съхранение на съобщения">
 <!ENTITY securitySettings.label "Настройки за защита">
@@ -23,8 +23,8 @@
 <!ENTITY biffStart.label "Проверка за нови писма на всеки ">
 <!ENTITY biffStart.accesskey "к">
 <!ENTITY biffEnd.label "минути">
-<!ENTITY useIdleNotifications.label "Позволява незабавно уведомление от сървъра, когато постъпят нови писма">
-<!ENTITY useIdleNotifications.accesskey "w">
+<!ENTITY useIdleNotifications.label "Позволява незабавно известие от сървъра при ново писмо">
+<!ENTITY useIdleNotifications.accesskey "в">
 <!ENTITY connectionSecurity.label "Сигурност на връзката:">
 <!ENTITY connectionSecurity.accesskey "у">
 <!ENTITY connectionSecurityType-0.label "Без">

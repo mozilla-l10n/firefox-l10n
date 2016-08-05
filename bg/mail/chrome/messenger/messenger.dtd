@@ -433,7 +433,7 @@
 <!ENTITY openConversationCmd.accesskey "г">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Притурки">
-<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openAttachmentListCmd.accesskey "т">
 <!ENTITY openFeedMessage1.label "При отваряне на съобщения от емисия">
 <!ENTITY openFeedMessage1.accesskey "о">
 <!ENTITY openFeedWebPage.label "Отваряне като уеб страница">
