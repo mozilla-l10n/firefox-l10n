@@ -55,16 +55,19 @@
 
 
 
+<!ENTITY wordWrap.label                "متن لپیٹیں">
+<!ENTITY wordWrap.accesskey            "ل">
 
 
 
-
-
+<!ENTITY largerFont.label             "بڑا تر فانٹ">
+<!ENTITY largerFont.accesskey         "ڑ">
 
 <!-- + is above this key on many keyboards -->
 
-
-
+<!ENTITY smallerFont.label            "چھوٹا تر فانٹ">
+<!ENTITY smallerFont.accesskey        "و">
+<!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "عام ناپ">
 <!ENTITY normalSize.accesskey         "ع">
