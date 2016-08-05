@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "පද්ධති පරිපාලක විසින් යාවත්කාලීන කිරීම අබල (disable) කර ඇත">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "බාහිරව ක්‍රියාකාරිත්වයක් මඟින් &brandShortName; යාවත් වී ඇත.">
+<!ENTITY update.restarting          "නැවත අරඹමින්…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
