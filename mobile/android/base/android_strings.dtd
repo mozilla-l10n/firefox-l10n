@@ -283,7 +283,7 @@
 <!ENTITY pref_custom_tabs_summary "允許第三方應用程式以自訂外觀與樣式開啟網址。">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Activity Stream">
+<!ENTITY pref_activity_stream "活動流">
 <!ENTITY pref_activity_stream_summary "將您的上網紀錄視覺化並重新發想首頁設計，讓您可以更簡單在 &brandShortName; 找到想找的東西。">
 
 <!ENTITY tracking_protection_prompt_title "現在開始提供追蹤保護功能">
