@@ -104,9 +104,9 @@
 
 <!ENTITY setup.optionsConfirmPage.title "Confirmare">
 <!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; va îmbina acum toate datele browserului de pe acest dispozitiv cu contul de sincronizare.">
-<!ENTITY confirm.client3.label         "Atenție: Următoarele date &brandShortName; de pe acest dispozitiv vor fi șterse:">
+<!ENTITY confirm.client3.label         "Avertisment: Următoarele date &brandShortName; de pe acest dispozitiv vor fi șterse:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; va copia datele &syncBrand.fullName.label; pe acest dispozitiv.">
-<!ENTITY confirm.server2.label         "Atenție: Următoarele dispozitive vor fi suprascrise cu datele dumneavoastră locale:">
+<!ENTITY confirm.server2.label         "Avertisment: Următoarele dispozitive vor fi suprascrise cu datele dumneavoastră locale:">
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "Configurare finalizată">

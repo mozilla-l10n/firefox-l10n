@@ -75,8 +75,8 @@
 
 <!ENTITY cmd.showDetails.label                "Arată mai multe informații">
 <!ENTITY cmd.showDetails.accesskey            "A">
-<!ENTITY cmd.findUpdates.label                "Găsește actualizări">
-<!ENTITY cmd.findUpdates.accesskey            "G">
+<!ENTITY cmd.findUpdates.label                "Caută actualizări">
+<!ENTITY cmd.findUpdates.accesskey            "F">
 <!ENTITY cmd.preferencesWin.label             "Opțiuni">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferințe">

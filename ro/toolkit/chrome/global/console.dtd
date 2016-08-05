@@ -13,7 +13,7 @@
 <!ENTITY errors.label       "Erori">
 <!ENTITY errors.accesskey   "E">
 <!ENTITY warnings.label     "Avertismente">
-<!ENTITY warnings.accesskey "v">
+<!ENTITY warnings.accesskey "W">
 <!ENTITY messages.label     "Mesaje">
 <!ENTITY messages.accesskey "M">
 <!ENTITY clear.label        "Curăță">
