@@ -110,6 +110,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime "<p>ایک قابل بھروسا کنکشن برائے <span id='wrongSystemTime_URL'/> ممکن نہیں کیونکہ آپکی گھڑی بظاہر غلظ وقت دکھاتی ہے۔</p><p>آپکا کمپیوٹر سوجتا ہے  یہ <span id='wrongSystemTime_systemDate'/>، جبکہ اسے ایسا ہونا چاہئیے<span id='wrongSystemTime_actualDate'/>۔ اس مسلہ کو حل کرنے کے لیئے، اپنی تاریخ اور وقت کی سیٹکگیں کوتبدیل کریں  تاکہ درست وقت  کہ ساتھ مشابہ ہو ۔</p>">
+
 <!ENTITY certerror.pagetitle1  "غیر مھفوظ کنکشن">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "یہ سائٹ HTTP سخت ٹرانسپورٹ سیکورٹی (HSTS) کہ &brandShortName; کی وضاحت کرنے کی استعمال کرتا ہے؛ صرف محفوظ طریقے سے اس سے رابطہ قائم کر سکتا ہے۔ نتیجے کے طور پر، اسے اس کی سند کے لئے ایک رعایت شامل کرنے کے لئے ممکن نہیں ہے۔">
 <!ENTITY certerror.copyToClipboard.label "متن کو تختہ تراشہ پر نقل کریں">

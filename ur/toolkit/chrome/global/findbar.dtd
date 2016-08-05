@@ -14,6 +14,6 @@
 <!ENTITY caseSensitive.label "کیس میچ کریں">
 <!ENTITY caseSensitive.accesskey "م">
 <!ENTITY caseSensitive.tooltiptext "کیس حساسیت کے ساتھ تلاش کریں">
-
-
-
+<!ENTITY entireWord.label "تمام الفاظ">
+<!ENTITY entireWord.accesskey "ت">
+<!ENTITY entireWord.tooltiptext "صرف پورے الفاظ تلاش کریں">
