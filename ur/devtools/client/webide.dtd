@@ -103,10 +103,10 @@
 <!ENTITY addons_title "اضافی اجزاء">
 <!ENTITY addons_aboutaddons "ایڈ اون مینیجر کھولیں">
 <!-- Prefs -->
-<!ENTITY prefs_editor_title "تدوین کار">
+<!ENTITY prefs_editor_title "ایڈیٹر">
 <!ENTITY prefs_general_title "عمومی">
 
-<!ENTITY prefs_manage_components "فالتوجزوبندوبست کریں">
+<!ENTITY prefs_manage_components "فالتو جزو بندوبست کریں">
 
 <!ENTITY prefs_options_autoconnectruntime_tooltip "پچھلے چلنے کی سے پھر جڑیں جب ویبIDE  شروع  ہو">
 
