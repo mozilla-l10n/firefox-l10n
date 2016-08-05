@@ -15,7 +15,7 @@
 
 <!ENTITY saveTo.label                 "Salvează fișierele în">
 <!ENTITY saveTo.accesskey             "S">
-<!ENTITY alwaysAsk.label              "Întreabă-mă întotdeauna unde să fie salvate fișierele">
+<!ENTITY alwaysAsk.label              "Întreabă-mă întotdeauna unde să se salveze fișierele">
 <!ENTITY alwaysAsk.accesskey          "a">
 <!ENTITY chooseFolderWin.label        "Răsfoiește…">
 <!ENTITY chooseFolderWin.accesskey    "f">
