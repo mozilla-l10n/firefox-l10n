@@ -10,11 +10,16 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
+<!ENTITY certerror.pagetitle  "Недоверена връзка">
+<!ENTITY certerror.longpagetitle "Връзката е недоверена">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY certerror.whatShouldIDo.heading "Какво да направя?">
 <!ENTITY certerror.getMeOutOfHere.label "Махнете ме от тук!">
 
+<!ENTITY certerror.expert.heading "Разбирам риска">
 
+<!ENTITY certerror.technical.heading "Технически подробности">
