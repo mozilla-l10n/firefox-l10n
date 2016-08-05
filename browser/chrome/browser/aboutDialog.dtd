@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "Aktualizácie boli vypnuté správcom systému">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; sa práve aktualizuje v inej inštancii">
+<!ENTITY update.restarting          "Reštartovanie…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
