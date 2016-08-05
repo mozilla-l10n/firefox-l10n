@@ -10,7 +10,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Zwisk njejo móžno">
+<!ENTITY connectionFailure.title "Zwisk njejo móžny">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Toś ta adresa jo wobgranicowana">
@@ -58,7 +58,7 @@
 <!ENTITY proxyConnectFailure.title "Proksy-serwer wótpokazujo zwiski">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Pśekontrolěrujśo proksy-nastajenja, aby zawěsćił, až wóne su korektne.</li> <li>Stajśo ze swójm seśowym administratorom do zwiska, aby zawěsćił, až proksy-serwer źěła.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Njemóžno proksy-serwer namakaś">
+<!ENTITY proxyResolveFailure.title "Njejo móžno, proksy-serwer namakaś">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Pśeglědajśo proksy-nastajenja, aby zawěsćił, až su korektne.</li> <li>Pśekontrolěrujśo, lěc wašo licadło ma funkcioněrujucy seśowy zwisk.</li> <li>Jolic wašo licadło abo seś šćita se z wognjoweju murju abo proksy, zawěsććo, až &brandShortName; smějo pśistup na web měś.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Bok njepósrědnja pórědnje">
@@ -67,7 +67,7 @@
 <!ENTITY unknownSocketType.title "Njewócakane wótegrono ze serwera">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Kontrolěrujśo, lěc Personal Security Manager jo instalěrowany na wašom systemje.</li> <li>Pśicyna jo snaź njestandardna konfiguracija na wašom serwerje.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Wěsty zwisk njemóžno">
+<!ENTITY nssFailure2.title "Wěsty zwisk njejo móžny">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž awtentiskosć dostanych datow njedajo se kontrolěrowaś.</li> <li>Pśosym stajśo z wobsejźarjami websedła do zwiska, aby wy jich wó toś tom problemje informěrował.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Wěsty zwisk njemóžno">
