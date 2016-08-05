@@ -14,7 +14,7 @@
 <!ENTITY allowHWAccel.label            "Използване на хардуерно ускоряване, когато е налично">
 <!ENTITY allowHWAccel.accesskey        "х">
 <!ENTITY storeType.label               "Вид на съхранение на писмата за нови регистрации:">
-<!ENTITY storeType.accesskey           "T">
+<!ENTITY storeType.accesskey           "В">
 <!ENTITY mboxStore2.label              "Файл за всяка папка (mbox)">
 <!ENTITY maildirStore.label            "Файл за всяко писмо (maildir)">
 
