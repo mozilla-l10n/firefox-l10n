@@ -10,6 +10,7 @@
 <!-- Main titles. -->
 
 <!-- J-PAKE Key Screen -->
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.link.nodevice.label 'Устройството не е у мен в момента…'>
 
 <!-- Configure Engines -->
