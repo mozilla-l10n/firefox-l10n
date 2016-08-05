@@ -10,20 +10,29 @@
 <!-- Main titles. -->
 
 <!-- J-PAKE Key Screen -->
+<!ENTITY sync.link.nodevice.label 'Устройството не е у мен в момента…'>
 
 <!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.history 'История'>
+<!ENTITY sync.configure.engines.title.tabs 'Подпрозорци'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1; на &formatS2;'>
 
 <!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'Меню с отметки'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Етикети'>
 <!ENTITY bookmarks.folder.toolbar.label 'Лента с отметки'>
+<!ENTITY bookmarks.folder.other.label 'Други отметки'>
+<!ENTITY bookmarks.folder.desktop.label 'Настолни отметки'>
+<!ENTITY bookmarks.folder.mobile.label 'Мобилни отметки'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Закачени'>
 
 <!-- Firefox Account strings. -->
 
@@ -31,34 +40,69 @@
      created or signed in to an account, and take the user back to
      Firefox. -->
 
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Добре дошли при &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description2 'Впишете се, за да бъдат синхронизирани вашите подпрозорци, отметки, пароли и др.'>
+<!ENTITY fxaccount_getting_started_get_started 'Въведение'>
 
+<!ENTITY fxaccount_status_manage_account 'Управление на сметката'>
+<!ENTITY fxaccount_status_sync_now 'Синхронизирайте сега'>
+<!ENTITY fxaccount_status_syncing2 'Синхронизиране…'>
+<!ENTITY fxaccount_status_device_name 'Име на устройството'>
+<!ENTITY fxaccount_status_sync_server 'Сървър на Sync'>
+<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
+<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: включен'>
+<!ENTITY fxaccount_status_bookmarks 'Отметки'>
+<!ENTITY fxaccount_status_history 'История'>
+<!ENTITY fxaccount_status_tabs 'Отворени раздели'>
+<!ENTITY fxaccount_status_legal 'Правни въпроси' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos2 'Условия за услугата'>
+<!ENTITY fxaccount_status_linkprivacy2 'Политика за личните данни'>
+<!ENTITY fxaccount_status_more 'Още&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Изключване&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title 'Премахване на Firefox Account?'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ще спре синхронизацията с вашата сметка, но няма да изтрива данни за сърфирането от устройството.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast 'Firefox Account &formatS; е премахнат.'>
 
+<!ENTITY fxaccount_enable_debug_mode 'Включване на режима за дебъгване'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
+<!ENTITY fxaccount_options_title 'Настройки на &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_options_configure_title 'Настройки на &syncBrand.shortName.label;'>
 
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Трябва да обновите Firefox'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Съществуваща регистрация. &formatS1;'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Невалиден имейл или парола'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Невалиден имейл или парола'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Сметката не е потвърдена'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Сървърът е зает, опитайте по-късно'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Сървърът е зает, опитайте по-късно'>
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Възникна проблем'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Сметката е заключена. &formatS1;'>
 
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; не е свързан'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Завършване на обновяването на &syncBrand.shortName.label;?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
