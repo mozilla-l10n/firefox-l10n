@@ -36,7 +36,7 @@
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; móžo periodiski pytaś a was informěrowaś, gaž aktualizacije namakaju se za dodanki.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; buźo periodiski pytaś a was informěrowaś, gaž aktualizacije namakaju se za dodanki.">
 
-<!ENTITY  adminDisabled.wizard.title      "Njejo móžno za aktualizacijami pytaś">
+<!ENTITY  adminDisabled.wizard.title      "Njejo móžno, za aktualizacijami pytaś">
 <!ENTITY  adminDisabled.warning.label     "Njejo móžno, za aktualizacijami za inkompatibelne dodanki pytaś, dokulaž instalacija softwary za &brandShortName; jo se znjemóžniła. Pšosym stajśo se ze swójim systemowym administratorom za pódpěru do zwiska.">
 
 <!ENTITY  versioninfo.wizard.title        "Kompatibelnosć dodankow pśespytowaś">
