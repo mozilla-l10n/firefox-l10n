@@ -25,7 +25,7 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Проверете името на файла за големи/малки букви или други грешки при въвеждане.</li> <li>Проверете дали файлът не е преместен, преименуван или изтрит.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Достъпът до файла беше отказан">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>Може би е изтрит, преместен или правата на файла ограничават достъпа.</li></ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Може да е премахнат, преместен или правата му да ограничават достъпа.</li></ul>">
 
 <!ENTITY generic.title "Опа.">
 <!ENTITY generic.longDesc "<p>&brandShortName; не може да зареди тази страница.</p>">
@@ -39,14 +39,14 @@
 <!ENTITY notCached.title "Документът е с изтекъл срок на валидност">
 <!ENTITY notCached.longDesc "<p>Исканият документ не е наличен в кеша на &brandShortName;.</p><ul><li>Като мярка за безопасност, &brandShortName; не изтегля наново сенситивни документи.</li><li>Натиснете Опит отново за ново изтегляне на документа от сайта.</li></ul>">
 
-<!ENTITY netOffline.title "Режим на работа извън мрежата">
+<!ENTITY netOffline.title "Работа извън мрежата">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Натиснете „Нов опит“, за да превключите към режим с връзка и да презаредите страницата.</li> </ul>">
 
-<!ENTITY contentEncodingError.title "Грешка в кодирането на съдържанието">
+<!ENTITY contentEncodingError.title "Грешка в кодировката на съдържанието">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Опасен вид файл">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта и ги информирайте за проблема.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
 <!ENTITY netReset.title "Връзката беше прекъсната">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -69,8 +69,8 @@
 <!ENTITY unknownSocketType.title "Неочакван отговор от сървъра">
 <!ENTITY unknownSocketType.longDesc "<ul><li>Проверете дали системата има инсталиран Personal Security Manager.</li><li>Настройките на сървъра може да са нестандартни.</li></ul>">
 
-<!ENTITY nssFailure2.title "Грешка в шифрованата връзка">
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата, която искате да видите, не може да бъде показана, защото достоверността на получените данни не може да бъде проверена.</li> <li>Моля, свържете се със собствениците на уебсайта и ги информирайте за този проблем.</li> </ul>">
+<!ENTITY nssFailure2.title "Неуспешно установяване на шифрована връзка">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата, която искате да видите, не може да бъде показана, защото достоверността на получените данни не може да бъде проверена.</li> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Връзката е незащитена">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
@@ -84,11 +84,11 @@ was trying to connect. -->
   <li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете дали на &brandShortName; е разрешен достъпът до Интернет.</li>
 </ul>">
 
-<!ENTITY cspBlocked.title "Блокирано от политика за сигурност на страницата">
+<!ENTITY cspBlocked.title "Блокирано от Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото страницата е с политика за сигурност, което го забранява.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Грешка на развалено съдържание">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Не може да се покаже страницата, която се опитвате на видите, защото беше открита грешка при прехвърлянето на данни.</p><ul><li>Моля, свържете се със собствениците на сайта и ги информирайте за проблема.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Не може да се покаже страницата, която се опитвате на видите, защото беше открита грешка при прехвърлянето на данни.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
@@ -97,7 +97,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Научете повече…">
 
 <!ENTITY remoteXUL.title "Отдалечен XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, свържете се със собствениците на сайта и ги информирайте за проблема.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Невъзможно създаване на защитена връзка">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
