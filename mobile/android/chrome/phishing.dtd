@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Du-mă de aici!">
 <!ENTITY safeb.palm.decline.label "Ignoră acest avertisment">
-
+<!ENTITY safeb.palm.reportPage.label "De ce a fost blocată această pagină?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Pagină raportată ca fiind de atac!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
