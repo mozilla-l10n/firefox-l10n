@@ -94,6 +94,10 @@
   Зависання потоків
 ">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Величини
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Гістограми
 ">
