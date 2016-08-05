@@ -10,7 +10,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Zwisk njejo móžno">
+<!ENTITY connectionFailure.title "Zwisk njejo móžny">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Toś ta adresa jo wobgranicowana">
@@ -64,7 +64,7 @@
 <!ENTITY proxyConnectFailure.title "Proksyjowy serwer wótpokazujo zwiski">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Pśeglědajśo proksyjowe nastajenja, aby se zawěsćiło, až wóne su korektne.</li> <li>Stajśo se ze swójim seśowym administratorom, aby se zawěsćiło, až proksyjowy serwer źěła.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Njejo móžno proksyjowy serwer namakaś">
+<!ENTITY proxyResolveFailure.title "Njejo móžno, proksyjowy serwer namakaś">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Pśeglědajśo proksyjowe nastajenja, aby zawěsćił, až su korektne.</li> <li>Pśegldajśo, aby zawěsćił, až waš rěd ma funkcioněrujucy datowy abo WLAN-zwisk. <button id='wifi'>WLAN zmóžniś</button> </li> </ul>">
@@ -75,10 +75,10 @@
 <!ENTITY unknownSocketType.title "Njewótcakane wótegrono ze serwera">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Pséglědajśo, lěc Personal Security Manager jo zainstalěrowany na wašom systemje.</li> <li>Pśicyna jo snaź njestandardna konfiguracija na wašom serwerje.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Wěsty zwisk njemóžno">
+<!ENTITY nssFailure2.title "Wěsty zwisk njejo móžny">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž awtentiskosć dostanych datow njedajo se pśeglědaś.</li> <li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby jich wó toś tym problemje informěrował.</li> </ul>">
 
-<!ENTITY nssBadCert.title "Wěsty zwisk njemóžno">
+<!ENTITY nssBadCert.title "Wěsty zwisk njejo móžny">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>To by mógło problem z konfiguraciju serwera byś, abo by mógło byś, až něchten wopytujo serwer imitěrowaś.</li> <li>Jolic sćo ze serwerom w zachadnosći wuspěšnje zwězany był, by mógła zmólka snaź nachylna byś a móžośo pózdźej hyšći raz wopytaś.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
@@ -105,7 +105,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Daloki XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby jich wó problemje informěrował.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Wěsty zwisk njejo móžno">
+<!ENTITY sslv3Used.title "Wěsty zwisk njejo móžny">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Rozšyrjona info: SSL_ERROR_UNSUPPORTED_VERSION">
