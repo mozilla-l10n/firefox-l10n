@@ -9,7 +9,7 @@
 <!ENTITY encryptionChoiceLabel.label "Nastajenje standardnego šifrěrowanja pśi słanju powěsćow:">
 <!ENTITY neverEncrypt.label "Nigdy (žedno šifrěrowanje wužywaś)">
 <!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Trěbny (njemóžno powěsć słaś, snaźkuli wšykne dostawarje maju certifikaty)">
+<!ENTITY alwaysEncryptMessage.label "Trěbny (njejo móžno powěsć słaś, snaźkuli wšykne dostawarje maju certifikaty)">
 <!ENTITY alwaysEncryptMessage.accesskey "T">
 <!ENTITY encryptionCert.message "Toś ten certifikata wužywaś, aby se powěsći, kótarež su se pśipósłali, šifrěrowali a dešifrěrowali:">
 <!ENTITY digitalSign.certificate.button "Wubraś…">
