@@ -154,7 +154,7 @@
 <!ENTITY  event.toolbar.save.tooltip                      "Salvesta ja sulge">
 <!ENTITY  event.toolbar.delete.tooltip                    "Kustuta">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Kutsu osalejaid">
-<!ENTITY  event.toolbar.attachments.tooltip               "Kaasa veebilehti">
+<!ENTITY  event.toolbar.attachments.tooltip               "Lisa veebilehti">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Muuda privaatsust">
 <!ENTITY  event.toolbar.priority.tooltip                  "Muuda prioriteeti">
 <!ENTITY  event.toolbar.status.tooltip                    "Muuda seisundit">
@@ -192,14 +192,14 @@
 <!ENTITY event.reminder.accesskey                         "M">
 <!ENTITY event.description.label                          "Kirjeldus:" >
 <!ENTITY event.description.accesskey                      "j">
-<!ENTITY event.attachments.label                          "Kaasatud failid:" >
+<!ENTITY event.attachments.label                          "Manused:" >
 <!ENTITY event.attachments.accesskey                      "f" >
 
 <!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
   but I want to land Filelink support for Lightning soon. The attach
   button will become a dropdown button that allows to attach links
   as usual, but also files via the Filelink providers. -->
-<!ENTITY event.attachments.menubutton.label               "Kaasa">
+<!ENTITY event.attachments.menubutton.label               "Lisa">
 <!ENTITY event.attachments.menubutton.accesskey           "K">
 <!ENTITY event.attachments.url.label                      "Veebileht…">
 <!ENTITY event.attachments.url.accesskey                  "V">
@@ -210,7 +210,7 @@
 <!ENTITY event.attachments.popup.open.accesskey           "A" >
 <!ENTITY event.attachments.popup.removeAll.label          "Eemalda kõik" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "m">
-<!ENTITY event.attachments.popup.attachPage.label         "Kaasa veebileht…" >
+<!ENTITY event.attachments.popup.attachPage.label         "Lisa veebileht…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "v" >
 <!ENTITY event.url.label                                  "Seotud viide:" >
 <!ENTITY event.priority2.label                            "Prioriteet:">

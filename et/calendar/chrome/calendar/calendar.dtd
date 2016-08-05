@@ -138,7 +138,7 @@
 <!ENTITY calendar.task-details.status.label          "Seisund:">
 <!ENTITY calendar.task-details.category.label        "Kategooria:">
 <!ENTITY calendar.task-details.repeat.label          "Kordumine:">
-<!ENTITY calendar.task-details.attachments.label     "Kaasatud failid:">
+<!ENTITY calendar.task-details.attachments.label     "Manused:">
 <!ENTITY calendar.task-details.start.label           "Alguskuupäev">
 <!ENTITY calendar.task-details.due.label             "Tähtaeg">
 
