@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "ยอมรับคุกกี้จากไซต์">
 <!ENTITY  acceptCookies.accesskey       "ย">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "ยอมรับคุกกี้จากบุคคลที่สาม:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "บ">
 <!ENTITY  acceptThirdParty.always.label   "เสมอ">
 <!ENTITY  acceptThirdParty.never.label    "ไม่เลย">
 <!ENTITY  acceptThirdParty.visited.label  "จากที่เยี่ยม">
@@ -104,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "การตั้งค่า…">
 <!ENTITY  clearOnCloseSettings.accesskey "ต">
 
-
-
-
+<!ENTITY  browserContainersHeader.label         "แท็บคอนเทนเนอร์">
+<!ENTITY  browserContainersLearnMore.label      "เรียนรู้เพิ่มเติม">
+<!ENTITY  browserContainersEnabled.label        "เปิดใช้งานแท็บคอนเทนเนอร์">
+<!ENTITY  browserContainersEnabled.accesskey    "ใ">
