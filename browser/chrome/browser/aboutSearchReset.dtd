@@ -6,6 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "เรียกคืนการตั้งค่าการค้นหาของคุณ?">
 
+<!ENTITY searchreset.pageInfo1      "การตั้งค่าการค้นหาของคุณอาจล้าสมัย &brandShortName; สามารถช่วยคุณเรียกคืนการตั้งค่าการค้นหาปริยาย">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
 

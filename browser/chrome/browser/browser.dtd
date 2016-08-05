@@ -473,7 +473,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ท">
 <!ENTITY openFrameCmd.label           "เปิดกรอบในหน้าต่างใหม่">
 <!ENTITY openFrameCmd.accesskey       "น">
-
+<!ENTITY openLinkCmdInContainerTab.label "เปิดลิงก์ในแท็บคอนเทนเนอร์ใหม่">
 <!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "แสดงเฉพาะกรอบนี้">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ส">
