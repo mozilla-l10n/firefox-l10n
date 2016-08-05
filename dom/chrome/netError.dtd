@@ -7,7 +7,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Zwisk njemóžno">
+<!ENTITY connectionFailure.title "Zwisk njejo móžny">
 <!ENTITY connectionFailure.longDesc "<p>Lěcrownož sedło zda se płaśiwe byś, wobglědowak njamóžo zwisk napóraś.</p><ul><li>Njejo sedło snaź nachylu k dispoziciji? Wopytajśo pózdźej hyšći raz.</li><li>Njamóžośo druge sedła pśeglědaś? Skontrolěrujśo seśowy zwisk swójogo licadła.</li><li>Šćita se wašo licadło abo waša seś z wognjoweju murju ab proksy? Njekorektne nastajenja mógu webpśeglědowanjeju zajźowaś.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Port z pśicynow wěstoty wobgranicowany">
@@ -64,10 +64,10 @@
 <!ENTITY unknownSocketType.title "Njekorektne wótegrono">
 <!ENTITY unknownSocketType.longDesc "<p>Sedło jo na napšašowanje seśi na njewócakowany nałog wótegroniło a wobglědowak njamóžo pókšacowaś.</p>">
 
-<!ENTITY nssFailure2.title "Wěsty zwisk njemóžno">
+<!ENTITY nssFailure2.title "Wěsty zwisk njejo móžny">
 <!ENTITY nssFailure2.longDesc2 "<p>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž awtentiskosć dostanych datow njedajo se pśeglědaś.</p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li></ul>">
 
-<!ENTITY nssBadCert.title "Wěsty zwisk njemóžno">
+<!ENTITY nssBadCert.title "Wěsty zwisk njejo móžny">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>To by mógło problem z konfiguraciju serwera byś, abo by mógło byś, až něchten wopytujo serwer imitěrowaś.</li> <li>Jolic sćo był ze serwerom w zachadnosći wuspěšnje zwězany, by mógła zmólka snaź nachylna byś a móžośo pózdźej hyšći raz wopytaś.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Abo móžośo wuwześe pśidaś…">

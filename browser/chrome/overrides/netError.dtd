@@ -12,7 +12,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Zwisk njejo móžno">
+<!ENTITY connectionFailure.title "Zwisk njejo móžny">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Toś ta adresa jo wobgranicowana">
@@ -60,7 +60,7 @@
 <!ENTITY proxyConnectFailure.title "Proksy-serwer wótpokazujo zwiski">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Pśekontrolěrujśo proksy-nastajenja, aby se zawěsćiło, až wóne su korektne.</li> <li>Stajśo ze swójim seśowym administratorom, aby zawěsćił, až proksy-serwer źěła.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Njejo móžno proksy-serwer namakaś">
+<!ENTITY proxyResolveFailure.title "Njejo móžno, proksy-serwer namakaś">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Pśekontrolěrujśo proksy-nastajenja, aby zawěsćił, až su korektne.</li> <li>Skontrolěrujśo, lěc wašo licadło ma funkcioněrujucy seśowy zwisk.</li> <li>Jolic wašo licadło abo waša seś šćita se z wognjoweju murju abo proksy, zawěsććo, až &brandShortName; ma pšawo na Web pśistup měś.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Bok pšawje njepósrědnja">
@@ -69,7 +69,7 @@
 <!ENTITY unknownSocketType.title "Njewótčakane wótegrono ze serwera">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Skontrolěrujśo, lěc Personal Security Manager jo instalěrowany na wašom systemje.</li> <li>Pśicyna jo snaź njestandardna konfiguracija na serwerje.</li> </ul>">
 
-<!ENTITY nssFailure2.title "Wěsty zwisk njemóžno">
+<!ENTITY nssFailure2.title "Wěsty zwisk njejo móžny">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž awtentiskosć dostanych datow njedajo se pśeglědaś.</li> <li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Waš zwisk njejo wěsty">
@@ -95,7 +95,7 @@ was trying to connect. -->
 <!ENTITY remoteXUL.title "Daloki XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó problemje informěrował.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Wěsty zwisk njejo móžno">
+<!ENTITY sslv3Used.title "Wěsty zwisk njejo móžny">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Rozšyrjona info: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -110,7 +110,7 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime "<p>Wěsty zwisk z <span id='wrongSystemTime_URL'/> njejo móžno, dokulaž waš zeger pó zdaśu pokazujo wopacny cas.</p> <p>Wašo licadło mysli, až jo <span id='wrongSystemTime_systemDate'/>, lěcrownož <span id='wrongSystemTime_actualDate'/> było. Aby toś ten problem rozwězał, změńśo swoje datumowe a casowe nastajenja, aby korektny cas nastajił.</p>">
+<!ENTITY certerror.wrongSystemTime "<p>Wěsty zwisk z <span id='wrongSystemTime_URL'/> njejo móžny, dokulaž waš zeger pó zdaśu pokazujo wopacny cas.</p> <p>Wašo licadło mysli, až jo <span id='wrongSystemTime_systemDate'/>, lěcrownož <span id='wrongSystemTime_actualDate'/> było. Aby toś ten problem rozwězał, změńśo swoje datumowe a casowe nastajenja, aby korektny cas nastajił.</p>">
 
 <!ENTITY certerror.pagetitle1  "Njewěsty zwisk">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Toś to sedło wužywa HTTP Strict Transport Security (HSTS), aby pódało, až &brandShortName; ma jano wěsćej z nim zwězaś. Pótakem njejo móžno, wuwześe za toś ten certifikat pśidaś.">
