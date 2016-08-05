@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "সব ট্যাব দেখানো হবে (A)">
 <!ENTITY showAllTabsCmd.accesskey "A">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; এ সাইন ইন করুন">
 <!ENTITY fxaSignedIn.tooltip "পছন্দসমূহ &syncBrand.shortName.label; খুলুন">
