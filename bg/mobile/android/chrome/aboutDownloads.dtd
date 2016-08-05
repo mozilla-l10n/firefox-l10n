@@ -2,5 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutDownloads.title                      "Изтегляния">
+<!ENTITY aboutDownloads.header                     "Изтеглени файлове">
+<!ENTITY aboutDownloads.empty                      "Няма изтегляния">
 
-<!ENTITY aboutDownloads.removeAll                  "Изтриване на всичко">
+<!ENTITY aboutDownloads.open                       "Отваряне">
+<!ENTITY aboutDownloads.remove                     "Изтриване">
+<!ENTITY aboutDownloads.removeAll                  "Изтриване на всички">
+<!ENTITY aboutDownloads.pause                      "На пауза">
+<!ENTITY aboutDownloads.resume                     "Продължаване">
+<!ENTITY aboutDownloads.cancel                     "Прекъсване">
+<!ENTITY aboutDownloads.retry                      "Нов опит">
