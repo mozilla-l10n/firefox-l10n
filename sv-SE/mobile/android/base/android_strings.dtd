@@ -279,10 +279,12 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!ENTITY pref_custom_tabs "Anpassade flikar">
+<!ENTITY pref_custom_tabs_summary "Tillåt appar från tredje part att öppna webbadresser med anpassat utseende och känsla.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Aktivitetsflöde">
-
+<!ENTITY pref_activity_stream_summary "En rik visuell historik och en återskapad startsida gör det enklare än någonsin att hitta exakt vad du letar efter i &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Nu med Spårningsskydd">
 <!ENTITY tracking_protection_prompt_text "Aktivt blockera spårningselement så att du inte behöver oroa dig.">
