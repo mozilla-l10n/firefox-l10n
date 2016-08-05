@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab সাম্প্রতিক ব্যবহৃত ট্যাবগুলোর মধ্যে ক্রমান্বয়ে ঘুড়বে।">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
 <!ENTITY newWindowsAsTabs.label       "নতুন উইন্ডোগুলো, নতুন ট্যাব-এ খোলা হবে">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
