@@ -63,7 +63,7 @@
 <!ENTITY HomeAddress.label              "العنوان:">
 <!ENTITY HomeAddress.accesskey          "ن">
 <!ENTITY HomeAddress2.label             "​">
-<!ENTITY HomeAddress2.accesskey         "​">
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "المدينة:">
 <!ENTITY HomeCity.accesskey             "ة">
 <!ENTITY HomeState.label                "الولاية/المحافظة:">
@@ -93,7 +93,7 @@
 <!ENTITY WorkAddress.label              "العنوان:">
 <!ENTITY WorkAddress.accesskey          "ل">
 <!ENTITY WorkAddress2.label             "​">
-<!ENTITY WorkAddress2.accesskey         "​">
+<!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "المدينة:">
 <!ENTITY WorkCity.accesskey             "د">
 <!ENTITY WorkState.label                "الولاية/المحافظة:">
