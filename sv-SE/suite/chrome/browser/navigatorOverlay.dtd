@@ -122,17 +122,25 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Bilder från denna webbplats kommer aldrig hämtas.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Tillåt extrafönster från denna webbplats">
-<!ENTITY cookieAllowPopupsCmd.accesskey "T">
-<!ENTITY cookieManagePopups.label "Hantera extrafönster">
-<!ENTITY cookieManagePopups.accesskey "H">
+<!ENTITY popupsMessageChangeTitle.label "Inställningar för popupfönster ändrade">
+<!ENTITY popupAllowCmd.label "Tillåt popupfönster från denna webbplats">
+<!ENTITY popupAllowCmd.accesskey "T">
+<!ENTITY popupAllowMsg.label "Popupfönster från denna webbplats kommer alltid att visas.">
+<!ENTITY popupDefaultCmd.label "Använd förinställningar för popupfönster">
+<!ENTITY popupDefaultCmd.accesskey "A">
+<!ENTITY popupDefaultMsg.label "Popupsfönster från denna webbplats kommer att hämtas enligt förinställningarna.">
+<!ENTITY popupBlockCmd.label "Blockera popupfönster från denna webbplats">
+<!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupBlockMsg.label "Popupfönster från denna webbplats kommer aldrig visas.">
+<!ENTITY popupsManage.label "Hantera popupfönster">
+<!ENTITY popupsManage.accesskey "H">
 
 <!ENTITY cookieCookieManager.label "Hantera kakor">
 <!ENTITY cookieCookieManager.accesskey "k">
 <!ENTITY cookieImageManager.label "Hantera bilder">
 <!ENTITY cookieImageManager.accesskey "b">
-<!ENTITY cookiePopupManager.label "Hantera extrafönster">
-<!ENTITY cookiePopupManager.accesskey "e">
+<!ENTITY popupsManager.label "Hantera popupfönster">
+<!ENTITY popupsManager.accesskey "p">
 
 <!ENTITY clearPrivateDataCmd.label "Rensa ut personliga uppgifter…">
 <!ENTITY clearPrivateDataCmd.accesskey "a">
