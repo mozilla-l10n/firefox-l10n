@@ -48,7 +48,7 @@
 <!ENTITY  switch_to_tab "Пребаци на језичак">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
-<!ENTITY  tab_offline_version "Приказујем верзију ван мреже">
+<!ENTITY  tab_offline_version "Приказујем ван мрежну верзију">
 
 <!ENTITY  crash_reporter_title "&brandShortName; извештач рушења">
 <!ENTITY  crash_message2 "&brandShortName; је имао проблем и срушио се. Ваши језичци ће бити излистани на &brandShortName; почетној страници при поновном покретању.">
