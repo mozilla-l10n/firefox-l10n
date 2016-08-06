@@ -44,9 +44,11 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Забелешке">
 <!ENTITY  history_title "Историјат">
-<!ENTITY  recent_tabs_title "Недавни језичци">
 
 <!ENTITY  switch_to_tab "Пребаци на језичак">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Приказујем верзију ван мреже">
 
 <!ENTITY  crash_reporter_title "&brandShortName; извештач рушења">
 <!ENTITY  crash_message2 "&brandShortName; је имао проблем и срушио се. Ваши језичци ће бити излистани на &brandShortName; почетној страници при поновном покретању.">
@@ -270,6 +272,20 @@
 <!ENTITY pref_whats_new_notification "&brandShortName; новости">
 <!ENTITY pref_whats_new_notification_summary "Сазнајте више о новом могућностима">
 
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!ENTITY pref_category_experimental "Експерименталне могућности">
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "Прилагођени језичци">
+<!ENTITY pref_custom_tabs_summary "Дозвољава апликацијама трећих лица да отварају странице са прилагођеним изгледом.">
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Ток активости">
+<!ENTITY pref_activity_stream_summary "Богат визуелни извор историје и побољшана почетна страница која ће вам помоћи да нађете све што тражите у &brandShortName;-у.">
+
 <!ENTITY tracking_protection_prompt_title "Сада са заштитом од праћења">
 <!ENTITY tracking_protection_prompt_text "Активно блокира елементе који вас прате, немате бриге.">
 <!ENTITY tracking_protection_prompt_tip_text "Посетите поставке приватности да сазнате више">
@@ -382,6 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Синхронизовани језичци">
 
 <!ENTITY pref_default_browser "Учини подразумеваним прегледачем">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Посети Mozilla подршку">
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_vendor_faqs "ЧПП">
 <!ENTITY pref_vendor_feedback "Пошаљи повратне информације">
@@ -570,10 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "Избриши податке прегледавања">
 <!ENTITY home_clear_history_confirm "Да ли сте сигурни да желите да обришете историјат?">
 <!ENTITY home_bookmarks_empty "Забелешке које сте снимили су приказане овде.">
-<!ENTITY home_closed_tabs_title "Недавно затворени језичци">
-<!ENTITY home_last_tabs_title "Језичци из последње сесије">
+<!ENTITY home_closed_tabs_title2 "Недавно затворени">
 <!ENTITY home_last_tabs_empty "Ваши недавни језичци су приказани овде.">
-<!ENTITY home_open_all "Отвори све">
+<!ENTITY home_restore_all "Обнови све">
+<!ENTITY home_closed_tabs_number "&formatD; језичака">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 језичак">
 <!ENTITY home_most_recent_empty "Веб сајтови које сте недавно посетили су приказани овде.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +644,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Сигурна веза">
 <!ENTITY identity_connection_insecure "Несигурна веза">
-<!ENTITY identity_login_insecure "Ова страница није сигурна и ваша пријава је угрожена.">
 <!ENTITY identity_connection_chromeui "Ово је безбедна &brandShortName; страница">
 
 <!-- Mixed content notifications in site identity popup -->
