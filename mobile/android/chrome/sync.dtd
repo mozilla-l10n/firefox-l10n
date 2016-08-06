@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "Sync">
+<!ENTITY sync.details               "Подробности">
 <!ENTITY sync.deviceName            "Това устройство">
 
 

@@ -15,7 +15,7 @@
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.history 'История'>
-<!ENTITY sync.configure.engines.title.tabs 'Подпрозорци'>
+<!ENTITY sync.configure.engines.title.tabs 'Раздели'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
