@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "Updates zijn uitgeschakeld door uw systeembeheerder">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; wordt door een ander exemplaar bijgewerkt">
+<!ENTITY update.restarting          "Herstarten…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into

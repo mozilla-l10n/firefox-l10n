@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Instellingen…">
 <!ENTITY  clearOnCloseSettings.accesskey "s">
+
+<!ENTITY  browserContainersHeader.label         "Containertabbladen">
+<!ENTITY  browserContainersLearnMore.label      "Meer info">
+<!ENTITY  browserContainersEnabled.label        "Containertabbladen inschakelen">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
