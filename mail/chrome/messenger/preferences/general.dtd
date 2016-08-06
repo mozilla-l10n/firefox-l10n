@@ -19,6 +19,7 @@
 <!ENTITY playSound1.accesskey              "e">
 <!ENTITY showAnimatedAlert.label          "prikaži opozorilo">
 <!ENTITY showAnimatedAlert.accesskey      "o">
+<!ENTITY notificationAlertSettings.label  "Opozorila lahko onemogočite na plošči obvestil sistemskih nastavitev.">
 <!ENTITY customizeMailAlert.label         "Prilagodi …">
 <!ENTITY customizeMailAlert.accesskey     "a">
 
