@@ -32,7 +32,7 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label          "Удаљен DNS">
+<!ENTITY  socksRemoteDNS.label2         "Proxy DNS када се користи SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "Порт:">
 <!ENTITY  HTTPport.accesskey            "П">

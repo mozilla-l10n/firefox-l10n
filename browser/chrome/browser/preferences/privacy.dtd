@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Поставке…">
 <!ENTITY  clearOnCloseSettings.accesskey "П">
+
+<!ENTITY  browserContainersHeader.label         "Контејнер језичци">
+<!ENTITY  browserContainersLearnMore.label      "Сазнајте више">
+<!ENTITY  browserContainersEnabled.label        "Омогући контејнер језичке">
+<!ENTITY  browserContainersEnabled.accesskey    "к">
