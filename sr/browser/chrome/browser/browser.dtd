@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "а">
 <!ENTITY  unpinTab.label                     "Откачи језичак">
 <!ENTITY  unpinTab.accesskey                 "т">
+<!ENTITY  sendTabToDevice.label              "Пошаљи језичак на уређај">
+<!ENTITY  sendTabToDevice.accesskey          "у">
+<!ENTITY  sendPageToDevice.label             "Пошаљи страницу на уређај">
+<!ENTITY  sendPageToDevice.accesskey         "у">
+<!ENTITY  sendLinkToDevice.label             "Пошаљи везу на уређај">
+<!ENTITY  sendLinkToDevice.accesskey         "у">
 <!ENTITY  moveToNewWindow.label              "Премести у нови прозор">
 <!ENTITY  moveToNewWindow.accesskey          "н">
 <!ENTITY  bookmarkAllTabs.label              "Забележи све језичке…">
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Прикажи све језичке">
 <!ENTITY showAllTabsCmd.accesskey "П">
+<!ENTITY toggleReaderMode.key "Р">
 
 <!ENTITY fxaSignIn.label "Пријави се на &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Отвори &syncBrand.shortName.label; поставке">
@@ -135,6 +142,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Изађи из приказа преко целог екрана (esc)">
 <!ENTITY leaveDOMFullScreen.label "Обустави приказ преко целог екрана">
 <!ENTITY leaveDOMFullScreen.accesskey "к">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "управља са вашим показивачем. Притисните Esc да преузмете контролу.">
+<!ENTITY pointerlockWarning.generic.label "Овај документ управља са вашим показивачем. Притисните Esc да преузмете контролу.">
 
 <!ENTITY closeWindow.label "Затвори прозор">
 <!ENTITY closeWindow.accesskey "З">
@@ -771,12 +787,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Прикажи обавештења на радној површини">
 <!ENTITY social.toggleNotifications.accesskey "о">
 
-<!ENTITY social.activated.description "Сервиси од <label/> су омогућени. Можете да промените поставке за сервисе у <label class='text-link'>Управљачу додацима</label>.">
-<!ENTITY social.activated.undo.label "Упс, поништи ово!">
-<!ENTITY social.activated.undo.accesskey "У">
 <!ENTITY social.learnMore.label "Сазнајте више…">
 <!ENTITY social.learnMore.accesskey "С">
-<!ENTITY social.closeNotificationItem.label "Не сад">
 
 <!ENTITY social.directory.label "Фасцикла активација">
 <!ENTITY social.directory.text "Можете активирати сервисе за дељење из фасцикле.">
