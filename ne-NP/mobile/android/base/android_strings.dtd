@@ -337,15 +337,15 @@
 <!ENTITY pref_clear_private_data_now_tablet "अहिले खाली गर्नुहोस्">
 <!ENTITY pref_clear_on_exit_title3 "बन्द गर्दा निजी डेटा हटाउनुहोस्">
 
-
+<!ENTITY pref_clear_on_exit_dialog_title "कुन डाटा खाली गर्ने चयन गर्नुहोस्">
 <!ENTITY pref_plugins "प्लगइनहरू">
 <!ENTITY pref_plugins_enabled "सक्षम पारिएको">
 
 <!ENTITY pref_plugins_disabled "अक्षम पारिएको">
 <!ENTITY pref_text_size "पाठ साइज">
-
-
-
+<!ENTITY pref_restore_tabs "ट्याबहरू पुनर्स्थापना गर्नुहोस् ">
+<!ENTITY pref_restore_always "सधैँ पुनर्स्थापना गर्नुहोस्">
+<!ENTITY pref_restore_quit "&brandShortName; बन्द गरेपछि पुनर्स्थापना नगर्नुहोस् ">
 <!ENTITY pref_font_size_tiny "अति सानो">
 <!ENTITY pref_font_size_small "सानो">
 <!ENTITY pref_font_size_medium "मध्यम">
