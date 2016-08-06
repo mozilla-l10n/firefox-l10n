@@ -371,7 +371,7 @@ size. -->
 
 
 <!ENTITY pref_use_master_password "मुख्य पासवर्ड प्रयोग गर्नुहोस्">
-
+<!ENTITY pref_sync2 "साइन इन">
 
 <!ENTITY pref_search_suggestions "खोजि सुझाबहरु देखाउनुहोस्">
 <!ENTITY pref_history_search_suggestions "खोजी इतिहास देखाउनुहोस्">
@@ -380,14 +380,15 @@ size. -->
 <!ENTITY pref_private_data_history2 "ब्राउजिङ इतिहास">
 <!ENTITY pref_private_data_searchHistory "खोजी इतिहास">
 <!ENTITY pref_private_data_formdata2 "फारम इतिहास">
-
+<!ENTITY pref_private_data_cookies2 "कुकिज र सक्रिय लगइनहरु">
 <!ENTITY pref_private_data_passwords2 "सङ्ग्रहित लग-इनहरू">
 <!ENTITY pref_private_data_cache "क्यास">
 <!ENTITY pref_private_data_offlineApps "अफलाइन वेबसाइट डाटा">
-
+<!ENTITY pref_private_data_siteSettings2 "साइट सेटिङ">
 <!ENTITY pref_private_data_downloadFiles2 "डाउनलोडहरू">
 <!ENTITY pref_private_data_syncedTabs "Sync गरिएका ट्याबहरू">
 
+<!ENTITY pref_default_browser "पूर्वनिर्धारित ब्राउजर बनाउनुहोस्">
 
 <!ENTITY pref_about_firefox "&brandShortName; बारे">
 
@@ -404,8 +405,10 @@ size. -->
 <!ENTITY pref_panels_move_up "माथि सार्नुहोस्">
 <!ENTITY pref_panels_move_down "तल सार्नुहोस्">
 
-
+<!ENTITY datareporting_notification_title "&brandShortName; तथ्यांक र डेटा">
+<!ENTITY datareporting_notification_action "बाँड्ने कुराहरू छान्नुहोस्">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "बाँड्ने जानकारीहरु छान्नुहोस्">
 
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
@@ -415,6 +418,8 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "&brandShortName; स्वास्थ्य विवरण">
 
 
 <!ENTITY datareporting_telemetry_title "टेलीमेट्री">
