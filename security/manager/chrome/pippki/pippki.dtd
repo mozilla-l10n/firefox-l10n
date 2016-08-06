@@ -18,7 +18,7 @@
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Изтегляне на сертификат">
 <!ENTITY downloadCert.message1 "Поискано е да се доверите на нов удостоверител на сертификати (CA).">
-<!ENTITY downloadCert.trustSSL "Доверяване на този CA за идентифициране на уебсайтове.">
+<!ENTITY downloadCert.trustSSL "Доверяване на този CA за идентифициране на уеб сайтове.">
 <!ENTITY downloadCert.trustEmail "Доверяване на този CA за идентифициране на потребители на е-поща.">
 <!ENTITY downloadCert.trustObjSign "Доверяване на този CA за идентифициране на софтуерни разработчици.">
 <!ENTITY downloadCert.message3 "Преди да се доверите на този CA за каквато и да е цел, трябва да изследвате сертификата му, както и политиката и процедурите на издателя, ако са налични.">
