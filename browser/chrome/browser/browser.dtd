@@ -41,14 +41,17 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "Irrota välilehti">
 <!ENTITY  unpinTab.accesskey                 "I">
 <!ENTITY  sendTabToDevice.label              "Lähetä välilehti laitteeseen">
+<!ENTITY  sendTabToDevice.accesskey          "L">
 <!ENTITY  sendPageToDevice.label             "Lähetä sivu laitteeseen">
+<!ENTITY  sendPageToDevice.accesskey         "L">
 <!ENTITY  sendLinkToDevice.label             "Lähetä linkki laitteeseen">
+<!ENTITY  sendLinkToDevice.accesskey         "L">
 <!ENTITY  moveToNewWindow.label              "Siirrä uuteen ikkunaan">
 <!ENTITY  moveToNewWindow.accesskey          "S">
 <!ENTITY  bookmarkAllTabs.label              "Lisää välilehdet kirjanmerkkeihin…">
 <!ENTITY  bookmarkAllTabs.accesskey          "i">
-<!ENTITY  undoCloseTab.label                 "Kumoa Sulje välilehti">
-<!ENTITY  undoCloseTab.accesskey             "L">
+<!ENTITY  undoCloseTab.label                 "Kumoa välilehden sulkeminen">
+<!ENTITY  undoCloseTab.accesskey             "u">
 <!ENTITY  closeTab.label                     "Sulje välilehti">
 <!ENTITY  closeTab.accesskey                 "S">
 
@@ -86,7 +89,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ä">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Lisää välilehdet kirjanmerkkeihin…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Kumoa Sulje välilehti">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Kumoa välilehden sulkeminen">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "m">
 
 <!ENTITY pageSourceCmd.label "Sivun lähdekoodi">
@@ -108,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Näytä kaikki välilehdet">
 <!ENTITY showAllTabsCmd.accesskey "N">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Kirjaudu sisään &syncBrand.shortName.label;-palveluun">
 <!ENTITY fxaSignedIn.tooltip "Avaa &syncBrand.shortName.label;-asetukset">
