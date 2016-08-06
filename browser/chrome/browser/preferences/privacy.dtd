@@ -107,3 +107,5 @@
 
 <!ENTITY  browserContainersHeader.label         "Luokitellut välilehdet">
 <!ENTITY  browserContainersLearnMore.label      "Lue lisää">
+<!ENTITY  browserContainersEnabled.label        "Käytä luokiteltuja välilehtiä">
+<!ENTITY  browserContainersEnabled.accesskey    "v">

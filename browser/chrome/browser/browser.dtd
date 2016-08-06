@@ -455,7 +455,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "v">
 <!ENTITY openLinkCmd.label            "Avaa uuteen ikkunaan">
 <!ENTITY openLinkCmd.accesskey        "i">
-<!ENTITY openLinkInPrivateWindowCmd.label "Avaa linkki uuteen yksityiseen ikkunaan">
+<!ENTITY openLinkInPrivateWindowCmd.label "Avaa uuteen yksityiseen ikkunaan">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "y">
 <!ENTITY openLinkCmdInCurrent.label     "Avaa">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
