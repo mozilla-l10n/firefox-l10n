@@ -40,6 +40,9 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "K">
 <!ENTITY  unpinTab.label                     "Irrota välilehti">
 <!ENTITY  unpinTab.accesskey                 "I">
+<!ENTITY  sendTabToDevice.label              "Lähetä välilehti laitteeseen">
+<!ENTITY  sendPageToDevice.label             "Lähetä sivu laitteeseen">
+<!ENTITY  sendLinkToDevice.label             "Lähetä linkki laitteeseen">
 <!ENTITY  moveToNewWindow.label              "Siirrä uuteen ikkunaan">
 <!ENTITY  moveToNewWindow.accesskey          "S">
 <!ENTITY  bookmarkAllTabs.label              "Lisää välilehdet kirjanmerkkeihin…">
