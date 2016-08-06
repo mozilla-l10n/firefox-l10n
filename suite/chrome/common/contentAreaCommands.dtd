@@ -67,7 +67,7 @@
 <!ENTITY bookmarkFrameCmd.accesskey   "d">
 <!ENTITY savePageAsCmd.label          "Uložit stránku jako…">
 <!ENTITY savePageCmd.label            "Uložit stránku">
-<!ENTITY savePageCmd.accesskey        "j">
+<!ENTITY savePageCmd.accesskey        "U">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameAsCmd.label         "Uložit rám jako…">
 <!ENTITY saveFrameCmd.label           "Uložit rám jako…">
