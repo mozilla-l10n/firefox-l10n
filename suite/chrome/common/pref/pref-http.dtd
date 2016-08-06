@@ -21,3 +21,6 @@
 <!ENTITY prefUseragent.label                 "Användaragentsträng">
 <!ENTITY prefFirefoxCompat.label             "Uppträd som Firefox-kompatibel">
 <!ENTITY prefFirefoxCompat.accesskey         "F">
+<!ENTITY prefLightningShow.label             "Visa Lightning-installationen">
+<!ENTITY prefLightningShow.accesskey         "L">
+<!ENTITY prefCompatWarning                   "VARNING: att stänga av dessa inställningar kan leda till att webbplatser eller tjänster inte fungerar korrekt.">

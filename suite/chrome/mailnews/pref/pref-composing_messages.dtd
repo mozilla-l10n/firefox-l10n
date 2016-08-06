@@ -33,6 +33,11 @@
 <!ENTITY fontColor.accesskey                  "x">
 <!ENTITY bgColor.label                        "Bakgrund:">
 <!ENTITY bgColor.accesskey                    "B">
+<!ENTITY defaultCompose.label                 "Förvalt skrivsätt:">
+<!ENTITY defaultBodyText.label                "Brödtext (Returtangenten skapar en ny rad)">
+<!ENTITY defaultBodyText.accesskey            "r">
+<!ENTITY defaultParagraph.label               "Stycke (Returtangenten skapar ett nytt stycke)">
+<!ENTITY defaultParagraph.accesskey           "y">
 
 <!ENTITY selectHeaderType.label               "Välj rubrik till ursprungsmeddelanden:">
 <!ENTITY selectHeaderType.accesskey           "r">
