@@ -5,28 +5,25 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Възникнал проблем при зареждане на страница">
-<!ENTITY retry.label "Отново">
+<!ENTITY loadError.label "Проблем при зареждане на страница">
+<!ENTITY retry.label "Нов опит">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Свързването е невъзможно">
+<!ENTITY connectionFailure.title "Не може да бъде установена връзка">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Този адрес е забранен">
+<!ENTITY deniedPortAccess.title "Този адрес е ограничен">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Сървъра не е открит">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>Проверете как сте написали адреса, възможни са грешки като <strong>ww</strong>.example.com вместо <strong>www</strong>.example.com</li> <li>Ако не можете да заредите нито една страница, проверете мрежовата свързаност на компютъра ви.</li> <li>Ако вашия компютър или мрежа е зад защитна стена или прокси, уверете се, че &brandShortName; има право на достъп до Мрежата.</li> </ul>">
 
-<!ENTITY fileNotFound.title "Файла не е открит">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Проверете името на файла за главни букви или други грешки.</li> <li>Проверете дали файла не е преместен, преименуван или изтрит.</li> </ul>">
+<!ENTITY fileNotFound.title "Файлът не е намерен">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Проверете името на файла за големи/малки букви или други грешки при въвеждане.</li> <li>Проверете дали файлът не е преместен, преименуван или изтрит.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Отказан достъп до файл">
-<!ENTITY fileAccessDenied.longDesc "
-<ul>
-  <li>Може да е премахнат, преместен или правата му да забраняват достъпа.</li>
-</ul>
+<!ENTITY fileAccessDenied.title "Достъпът до файла беше отказан">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Може да е премахнат, преместен или правата му да забраняват достъпа.</li></ul>
 ">
 
 <!ENTITY generic.title "Опа.">
@@ -41,10 +38,10 @@
 <!ENTITY notCached.title "Документът е изтекъл">
 <!ENTITY notCached.longDesc "<p>Търсеният документ липсва в кеша.</p><ul><li>Като защитна мярка, &brandShortName; няма автоматично отново да изтегля документи с чувствителна информация.</li><li>Щракнете на Отново, за да заявите документът от уебсайта.</li></ul>">
 
-<!ENTITY netOffline.title "Режим без мрежа">
+<!ENTITY netOffline.title "Работа извън мрежата">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Натиснете &quot;Отново&quot;, за да превключите в режим на линия и да презаредите страницата.</li> </ul>">
 
-<!ENTITY contentEncodingError.title "Грешка в кодирането на съдържанието">
+<!ENTITY contentEncodingError.title "Грешка в кодировката на съдържанието">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Опасен тип на файл">
@@ -69,24 +66,24 @@
 <!ENTITY redirectLoop.longDesc "<ul> <li>Проблемът понякога се предизвиква от изключването или отхвърлянето приема на бисквитки.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Неочакван отговор от сървъра">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Уверете се, че имате инсталиран Personal Security Manager на вашата система.</li> <li>Това може да се дължи на нестандартна конфигурация на сървъра.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul><li>Проверете дали системата има инсталиран Personal Security Manager.</li><li>Настройките на сървъра може да са нестандартни.</li></ul>">
 
-<!ENTITY nssFailure2.title "Неуспешна защитена връзка">
+<!ENTITY nssFailure2.title "Неуспешно установяване на шифрована връзка">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата, която се опитвате да видите, не може да бъде показана, защото автентичността на получените данни не може да бъде потвърдена.</li> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
-<!ENTITY nssBadCert.title "Неуспешна защитена връзка">
+<!ENTITY nssBadCert.title "Неуспешно установяване на шифрована връзка">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Това може да е проблем с конфигурацията на сървъра или може някой се опитва да се представя за сървъра.</li> <li>Ако преди сте се свързвали към този сървър успешно, проблема може да е временен, затова опитайте отново по-късно.</li> </ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Сайтът временно е недостъпен или е твърде натоварен. Опитайте отново след кратко време.</li> <li>Ако не успявате да заредите нито една страница, проверете мрежовата свързаност на вашия компютър.</li> <li>Ако вашия компютър или мрежа е зад защитна стена или прокси, уверете се, че &brandShortName; има право на достъп до Мрежата.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Блокирано от Политика за Защитено Съдържание">
+<!ENTITY cspBlocked.title "Блокирано от Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, понеже тя съдържа политика за защитено съдържание, което не позволява това.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Грешка поради развалено съдържание">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата, която се опитвате да разгледате, не може да бъде показана, защото е открита грешка при предаването на данни.</p><ul><li>Обърнете се към собствениците на сайта, за да ги информирате за този проблем.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата, която се опитвате да разгледате, не може да бъде показана, защото е открита грешка при предаването на данни.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Или можете да добавите изключение…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Махам се оттук!">
+<!ENTITY securityOverride.getMeOutOfHereButton "Махнете ме от тук!">
 <!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
