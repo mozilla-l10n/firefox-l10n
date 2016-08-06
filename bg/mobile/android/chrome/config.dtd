@@ -5,8 +5,12 @@
 
 <!ENTITY toolbar.searchPlaceholder     "Търсене">
 
+<!ENTITY newPref.namePlaceholder       "Име">
 
+<!ENTITY newPref.valueString           "Низ">
+<!ENTITY newPref.valueInteger          "Цяло число">
 
 <!ENTITY newPref.stringPlaceholder     "Въведете низ">
 
+<!ENTITY newPref.cancelButton          "Отказ">
 

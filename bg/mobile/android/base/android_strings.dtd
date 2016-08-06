@@ -4,6 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "Добре дошли">
 
+<!ENTITY firstrun_urlbar_message "Добре дошли в &brandShortName;">
+<!ENTITY firstrun_bookmarks_title "История">
+<!ENTITY firstrun_data_title "Данни">
 
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
@@ -17,6 +20,7 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  history_title "История">
 
+<!ENTITY  switch_to_tab "Превключване към раздел">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
@@ -28,6 +32,8 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Снимки на екрана">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Списък за четене">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
@@ -36,7 +42,10 @@
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
 
+<!ENTITY history_today_section "Днес">
+<!ENTITY history_yesterday_section "Вчера">
 
+<!ENTITY search "Търсене">
 
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->

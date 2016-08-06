@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDevices.title              "Устройства">
+<!ENTITY aboutDevices.header             "Вашите устройства">
+<!ENTITY aboutDevices.addDeviceHeader    "Добавяне на устройство">
 <!ENTITY aboutDevices.chromecast         "Chromecast">
 <!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
      user prompting them to input the IP address of a casting device. -->
