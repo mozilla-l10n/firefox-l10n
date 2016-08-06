@@ -72,6 +72,7 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Добавяне към &brandShortName;">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
@@ -214,6 +215,7 @@ size. -->
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
+<!ENTITY page_removed "Страницата е премахната">
 
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
