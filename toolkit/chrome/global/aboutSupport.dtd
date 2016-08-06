@@ -56,6 +56,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent       "Identifikaator">
 <!ENTITY aboutSupport.appBasicsOS              "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse       "Mälukasutus">
+<!ENTITY aboutSupport.appBasicsPerformance     "Jõudlus">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers  "Registreeritud Service Workerid">
@@ -89,6 +90,11 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle            "Graafika">
 
+<!ENTITY aboutSupport.placeDatabaseTitle       "Asukohtade andmebaas">
+<!ENTITY aboutSupport.placeDatabaseIntegrity   "Terviklus">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verifitseeri terviklus
+">
+
 <!ENTITY aboutSupport.jsTitle                  "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC          "Inkrementaalne GC">
 
@@ -114,3 +120,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle   "Vealogi">
 <!ENTITY aboutSupport.graphicsGPU1Title         "1. GPU">
 <!ENTITY aboutSupport.graphicsGPU2Title         "2. GPU">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle  "Otsuste logi">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle  "Vigade vältimise tõttu keelatud funktsionaalsused">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle  "Hädalahendused">

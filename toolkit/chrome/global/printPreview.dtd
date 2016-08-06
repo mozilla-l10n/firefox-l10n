@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY print.label           "Prindi...">
+<!ENTITY print.label           "Prindi…">
 <!ENTITY print.accesskey       "P">
-<!ENTITY pageSetup.label       "Lehekülje sätted...">
+<!ENTITY pageSetup.label       "Lehekülje sätted…">
 <!ENTITY pageSetup.accesskey   "j">
 <!ENTITY page.label            "Lehekülg:">
 <!ENTITY page.accesskey        "l">
@@ -29,9 +29,12 @@
 <!ENTITY p150.label            "150&#037;">
 <!ENTITY p175.label            "175&#037;">
 <!ENTITY p200.label            "200&#037;">
-<!ENTITY Custom.label          "Kohandatud...">
+<!ENTITY Custom.label          "Kohandatud…">
 <!ENTITY ShrinkToFit.label     "Mahuta lehele">
-<!ENTITY customPrompt.title    "Kohandatud mõõtkava...">
+<!ENTITY customPrompt.title    "Kohandatud mõõtkava…">
+<!ENTITY simplifyPage.label   "Lihtsustatud vaade">
+<!ENTITY simplifyPage.enabled.tooltip  "Muuda paigutus paremini loetavaks">
+<!ENTITY simplifyPage.disabled.tooltip "Selle lehe vaadet pole võimalik automaatselt lihtsustada">
 
 <!ENTITY homearrow.tooltip     "Esimene lehekülg">
 <!ENTITY endarrow.tooltip      "Viimane lehekülg">

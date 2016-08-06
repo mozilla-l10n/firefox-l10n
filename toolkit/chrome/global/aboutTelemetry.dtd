@@ -104,6 +104,10 @@ Ping
   Histogrammid
 ">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Skalaarid
+">
+
 <!ENTITY aboutTelemetry.keyedHistogramsSection    "
   Võtmepõhised histogrammid
 ">
