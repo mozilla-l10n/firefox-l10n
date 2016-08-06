@@ -82,6 +82,7 @@
 <!ENTITY remoteXUL.title "بعید XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ویب سائٹ کے مالکین کو اس مسلے کا بتانے کے لیے ان سے رابطہ کریں۔</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "آپکا کنکشن اقابل بھروسا نہیں ہے">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> سیکورٹی ٹیکنالوجی کا استعمال کرتا ہے جو کی فرسودہ اور حملے کا شکار ہے۔ حملہ آور آسانی سے اس معلومات کو ظاہر کر سکتا یے جسے آپ محفوظ سمجھ رہے ہے۔ آپکی سائٹ دورہ کرنے سے پہلے ویب سائٹ منتظمکار کو پیش کار ٹھک کرنا ہوگا۔</p><p> خرابی کا کوڈ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
