@@ -147,12 +147,12 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-<!ENTITY overlay_share_label "Додај &brandShortName;-у">
+<!ENTITY overlay_share_label "Додај на &brandShortName;">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "Забелешка">
+<!ENTITY overlay_share_bookmark_btn_label "Забележи">
 <!ENTITY overlay_share_bookmark_btn_label_already "Већ је забележен">
 <!ENTITY overlay_share_send_other "Пошаљи другом уређају">
 
