@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "Системски администратор је онемогућио надоградње">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; се ажурира ">
+<!ENTITY update.restarting          "Поново покрећем…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
