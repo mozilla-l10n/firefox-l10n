@@ -284,6 +284,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Fluxu d\&apos;actividá">
+<!ENTITY pref_activity_stream_summary "Una visión del hestóricu y una páxina inicial reimaxinada pa facer más fácil que nunca la gueta de lo que quies atopar en &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Agora con proteición de rastrexu">
 <!ENTITY tracking_protection_prompt_text "Bloquia activamente los elementos de rastrexu pa que nun t\&apos;esmolezas.">
@@ -397,6 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Llingüetes sincronizaes">
 
 <!ENTITY pref_default_browser "Predeterminar restolador">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Visita Mozilla Support">
 <!ENTITY pref_about_firefox "Tocante a &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Dar feedback">
