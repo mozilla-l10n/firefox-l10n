@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label "Haal me hier vandaan!">
 <!ENTITY safeb.palm.decline.label "Deze waarschuwing negeren">
 <!ENTITY safeb.palm.reportPage.label "Waarom werd deze pagina geblokkeerd?">
-<!ENTITY safeb.palm.whyForbidden.label "Waarom werd deze pagina geblokkeerd?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Gerapporteerde aanvalpagina!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,7 +20,3 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Deze webpagina op <span id='unwanted_sitename'/> is gerapporteerd als een webpagina die ongewenste software bevat en is geblokkeerd op basis van uw beveiligingsvoorkeuren.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Pagina’s met ongewenste software proberen software te installeren die misleidend kan zijn en uw systeem op onverwachte manieren kan beïnvloeden.">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2 "Geblokkeerde website">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "De webpagina op <span id='forbidden_sitename'/> is geblokkeerd door uw beheerdersprofiel.">

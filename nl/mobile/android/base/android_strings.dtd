@@ -44,12 +44,14 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Bladwijzers">
 <!ENTITY  history_title "Geschiedenis">
-<!ENTITY  recent_tabs_title "Recente tabbladen">
 
 <!ENTITY  switch_to_tab "Wisselen naar tabblad">
 
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Offlineversie getoond">
+
 <!ENTITY  crash_reporter_title "&brandShortName;-crashreporter">
-<!ENTITY  crash_message2 "&brandShortName; ondervond een probleem en is vastgelopen. Uw tabbladen worden op de &brandShortName;-startpagina vermeld als u opnieuw start.">
+<!ENTITY  crash_message2 "&brandShortName; ondervond een probleem en is vastgelopen. Bij herstarten ervan worden uw tabbladen op de &brandShortName;-startpagina vermeld.">
 <!ENTITY  crash_send_report_message3 "&vendorShortName; van deze crash op de hoogte stellen, zodat dit kan worden verholpen">
 <!ENTITY  crash_include_url2 "Het adres van de bezochte pagina bijvoegen">
 <!ENTITY  crash_sorry "Het spijt ons">
@@ -270,6 +272,20 @@
 <!ENTITY pref_whats_new_notification "Wat is er nieuw in &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Meer info over nieuwe functies na een update">
 
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!ENTITY pref_category_experimental "Experimentele functies">
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "Eigen tabbladen">
+<!ENTITY pref_custom_tabs_summary "Toestaan dat apps van derden URL’s openen met een eigen vormgeving">
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Activiteitenstroom">
+<!ENTITY pref_activity_stream_summary "Een rijke visuele geschiedenisfeed en een opnieuw opgezette startpagina maken het makkelijker dan ooit om in &brandShortName; precies dat te vinden wat u zoekt">
+
 <!ENTITY tracking_protection_prompt_title "Nu met Bescherming tegen volgen">
 <!ENTITY tracking_protection_prompt_text "Blokkeer actief volgelementen, zodat u zich geen zorgen hoeft te maken.">
 <!ENTITY tracking_protection_prompt_tip_text "Bezoek Privacyinstellingen voor meer info">
@@ -382,6 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Gesynchroniseerde tabbladen">
 
 <!ENTITY pref_default_browser "Standaardbrowser maken">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support bezoeken">
 <!ENTITY pref_about_firefox "Over &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ’s">
 <!ENTITY pref_vendor_feedback "Feedback geven">
@@ -570,10 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "Geschiedenis wissen">
 <!ENTITY home_clear_history_confirm "Weet u zeker dat u uw geschiedenis wilt wissen?">
 <!ENTITY home_bookmarks_empty "Hier verschijnen uw opgeslagen bladwijzers.">
-<!ENTITY home_closed_tabs_title "Onlangs gesloten tabbladen">
-<!ENTITY home_last_tabs_title "Tabbladen van de vorige keer">
+<!ENTITY home_closed_tabs_title2 "Onlangs gesloten">
 <!ENTITY home_last_tabs_empty "Hier verschijnen uw recente tabbladen.">
-<!ENTITY home_open_all "Alle openen">
+<!ENTITY home_restore_all "Alle herstellen">
+<!ENTITY home_closed_tabs_number "&formatD; tabbladen">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 tabblad">
 <!ENTITY home_most_recent_empty "Hier verschijnen uw meest recent bezochte websites.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -625,7 +644,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Beveiligde verbinding">
 <!ENTITY identity_connection_insecure "Niet-beveiligde verbinding">
-<!ENTITY identity_login_insecure "Deze pagina is niet beveiligd, en uw aanmelding zou kwetsbaar kunnen zijn.">
 <!ENTITY identity_connection_chromeui "Dit is een beveiligde &brandShortName;-pagina">
 
 <!-- Mixed content notifications in site identity popup -->
