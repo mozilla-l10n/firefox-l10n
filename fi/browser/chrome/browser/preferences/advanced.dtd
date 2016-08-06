@@ -65,7 +65,7 @@
 -->
 <!ENTITY limitCacheSizeBefore.label      "Rajoita väliaikaistiedostojen viemä tila">
 <!ENTITY limitCacheSizeBefore.accesskey  "R">
-<!ENTITY limitCacheSizeAfter.label       "Mt:un">
+<!ENTITY limitCacheSizeAfter.label       "megatavuun">
 <!ENTITY clearCacheNow.label             "Tyhjennä heti">
 <!ENTITY clearCacheNow.accesskey         "T">
 <!ENTITY clearOfflineAppCacheNow.label   "Tyhjennä heti">
@@ -83,9 +83,6 @@
 <!ENTITY updateManual.label              "Älä hae päivityksiä (ei suositeltu: turvallisuusriski)">
 <!ENTITY updateManual.accesskey          "Ä">
 
-<!ENTITY updateAutoAddonWarn.label       "Varoita, jos päivitys poistaa käytöstä lisäosia">
-<!ENTITY updateAutoAddonWarn.accesskey   "V">
-
 <!ENTITY updateHistory.label             "Näytä päivityshistoria">
 <!ENTITY updateHistory.accesskey         "N">
 
@@ -101,7 +98,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Poikkeukset…">
 <!ENTITY offlineNotifyExceptions.accesskey "P">
 
-<!ENTITY offlineAppsList2.label          "Seuraavilla verkkosivustoilla on lupa tallentaa tietoja yhteydetöntä tilaa varten:">
+<!ENTITY offlineAppsList2.label          "Seuraavilla sivustoilla on lupa tallentaa tietoja yhteydetöntä tilaa varten:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Poista…">
 <!ENTITY offlineAppsListRemove.accesskey "s">
