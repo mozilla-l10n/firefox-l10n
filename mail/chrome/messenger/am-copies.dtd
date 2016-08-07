@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Altres:">
 <!ENTITY archiveInOtherFolder.accesskey "r">
 <!ENTITY specialFolders.label "Esborranys i plantilles">
-
+<!ENTITY keepDrafts2.label "Conserva els esborranys a:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Carpeta «Esborranys» de:">
 <!ENTITY draftsFolderOn.accesskey "b">
