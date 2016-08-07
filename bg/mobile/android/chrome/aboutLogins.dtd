@@ -4,4 +4,7 @@
 <!ENTITY % brandDTD
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
+<!ENTITY aboutLogins.title                       "Регистрации">
 <!ENTITY aboutLogins.update                      "Обновяване">
+<!ENTITY aboutLogins.emptyLoginText              "Пазете вашите регистрации">
+<!ENTITY aboutLogins.emptyLoginHint              "Данните за вход и идентификационните данни запазени от &brandShortName; ще бъдат показани тук.">

@@ -4,7 +4,11 @@
 
 <!ENTITY aboutDevices.title              "Устройства">
 <!ENTITY aboutDevices.header             "Вашите устройства">
+<!ENTITY aboutDevices.refresh            "Опресняване">
 <!ENTITY aboutDevices.addDeviceHeader    "Добавяне на устройство">
+<!ENTITY aboutDevices.roku               "Roku">
 <!ENTITY aboutDevices.chromecast         "Chromecast">
 <!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
      user prompting them to input the IP address of a casting device. -->
+<!ENTITY aboutDevices.placeholder        "IP адрес">
+<!ENTITY aboutDevices.connectManually    "Ръчно свързване">
