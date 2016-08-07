@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "f">
 <!ENTITY restoreHTMLDefaults.label            "Restaura els valors per defecte">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
-
-
+<!ENTITY defaultToParagraph.label             "Utilitza per defecte el format de «Paràgraf» en lloc de «Text del cos»">
+<!ENTITY defaultToParagraph.accesskey         "f">
 
 <!ENTITY spellCheck.label                     "Comprova l'ortografia abans d'enviar">
 <!ENTITY spellCheck.accesskey                 "C">
