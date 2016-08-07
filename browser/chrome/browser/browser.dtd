@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "F">
 <!ENTITY  unpinTab.label                     "Dífheistigh an Cluaisín">
 <!ENTITY  unpinTab.accesskey                 "D">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Seol an Cluaisín Chuig Gléas">
+<!ENTITY  sendTabToDevice.accesskey          "G">
+<!ENTITY  sendPageToDevice.label             "Seol an Leathanach chuig Gléas">
+<!ENTITY  sendPageToDevice.accesskey         "G">
+<!ENTITY  sendLinkToDevice.label             "Seol an Nasc chuig Gléas">
+<!ENTITY  sendLinkToDevice.accesskey         "G">
 <!ENTITY  moveToNewWindow.label              "Bog go Fuinneog Nua">
 <!ENTITY  moveToNewWindow.accesskey          "N">
 <!ENTITY  bookmarkAllTabs.label              "Leabharmharcáil Gach Cluaisín…">
@@ -132,8 +132,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label " - ar lánscáileán anois">
+<!ENTITY fullscreenWarning.beforeDomain.label "Tá">
+<!ENTITY fullscreenWarning.afterDomain.label "ar lánscáileán anois">
 <!ENTITY fullscreenWarning.generic.label "Tá an cháipéis seo ar lánscáileán anois">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
@@ -149,9 +149,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.beforeDomain.label "Tá">
+<!ENTITY pointerlockWarning.afterDomain.label "i gceannas ar do chúrsóir faoi láthair. Brúigh Esc chun dul i gceannas air arís.">
+<!ENTITY pointerlockWarning.generic.label "Tá an cháipéis seo i gceannas ar do chúrsóir faoi láthair. Brúigh Esc chun dul i gceannas air arís.">
 
 <!ENTITY closeWindow.label "Dún an Fhuinneog">
 <!ENTITY closeWindow.accesskey "F">
