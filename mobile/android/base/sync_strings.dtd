@@ -14,6 +14,7 @@
 <!ENTITY sync.link.nodevice.label 'Устройството не е у мен в момента…'>
 
 <!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.passwords2 'Регистрации'>
 <!ENTITY sync.configure.engines.title.history 'История'>
 <!ENTITY sync.configure.engines.title.tabs 'Раздели'>
 

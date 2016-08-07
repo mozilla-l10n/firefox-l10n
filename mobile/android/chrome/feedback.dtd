@@ -4,5 +4,10 @@
 
 <!ENTITY feedbackHeader2.label          "Инструменти за обратна връзка">
 
+<!ENTITY feedback.feedback.title        "Дайте обратна връзка">
+<!ENTITY feedback.feedback.good         "Добро">
+<!ENTITY feedback.feedback.bad          "Лошо">
 
 <!ENTITY feedback.tools.title           "Инструменти">
+<!ENTITY feedback.allowTelemetry.title  "Изпращане на данни за производителността">
+<!ENTITY feedback.errorConsole.title    "Включване на конзолата за грешки">

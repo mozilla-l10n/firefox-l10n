@@ -19,4 +19,7 @@
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "Докато сърфирате поверително историята и бисквитките няма да бъдат запазвани. Отметките и изтеглените файлове ще бъдат запазени на вашето устройство.">
 
+<!ENTITY privatebrowsingpage.link.private "Искате ли да научите повече?">
+<!ENTITY privatebrowsingpage.link.normal "Отваряне на поверителен раздел">

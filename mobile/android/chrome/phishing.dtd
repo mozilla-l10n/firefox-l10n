@@ -7,8 +7,14 @@
 <!ENTITY safeb.palm.reportPage.label "Защо е блокирана тази страница?">
 
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Сайтът <span id='malware_sitename'/> е докладван като враждебен и е блокиран, според вашите настройки на сигурността.">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Измамнически сайт!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Страницата <span id='phishing_sitename'/> е докладвана като измамническа и беше блокирана според настройките ви за безопасност.">
 
+<!ENTITY safeb.blocked.unwantedPage.title "Докладвана страница с нежелан софтуер!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Страницата <span id='unwanted_sitename'/> е докладвана за сервиране на нежелан софтуер и беше блокирана според настройките ви за безопасност.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Страниците с нежелан софтуер се опитват да инсталират софтуер, който подвежда и влияе по неочакван начин на вашия компютър.">
 
