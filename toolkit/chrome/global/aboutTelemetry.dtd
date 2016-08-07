@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "Szállefagyások">
 
+<!ENTITY aboutTelemetry.scalarsSection "  Skalárok">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Hisztogramok">
 
