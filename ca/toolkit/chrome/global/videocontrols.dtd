@@ -9,7 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Pantalla completa">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Surt de la pantalla completa">
 <!ENTITY castingButton.castingLabel "Transmet a la pantalla">
-
+<!ENTITY closedCaption.off "Desactivat">
 
 <!ENTITY stats.media "Suports">
 <!ENTITY stats.size "Mida">
