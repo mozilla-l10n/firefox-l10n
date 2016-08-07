@@ -105,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Paràmetres…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
+<!ENTITY  browserContainersHeader.label         "Pestanyes de contenidor">
 <!ENTITY  browserContainersLearnMore.label      "Més informació">
-
-
+<!ENTITY  browserContainersEnabled.label        "Habilita les pestanyes de contenidor">
+<!ENTITY  browserContainersEnabled.accesskey    "H">
