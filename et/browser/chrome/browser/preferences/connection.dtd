@@ -32,7 +32,7 @@
 <!ENTITY socks4.accesskey           "V">
 <!ENTITY socks5.label               "SOCKS v5">
 <!ENTITY socks5.accesskey           "5">
-<!ENTITY socksRemoteDNS.label       "Puhverserveri DNS">
+<!ENTITY socksRemoteDNS.label2      "Puhverserveri DNS, kui kasutusel on SOCKS v5">
 <!ENTITY socksRemoteDNS.accesskey   "e">
 <!ENTITY port.label                 "Port:">
 <!ENTITY HTTPport.accesskey         "r">

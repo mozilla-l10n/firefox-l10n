@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "Uuendused on süsteemiadministraatori poolt keelatud">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName;i uuendatakse teise protsessi poolt">
+<!ENTITY update.restarting          "Taaskäivitamine…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into

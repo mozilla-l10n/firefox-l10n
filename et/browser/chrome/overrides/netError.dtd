@@ -165,8 +165,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title                      "Blokitud sisu kaitsva turvareegliga">
 <!ENTITY cspBlocked.longDesc                   "<p>&brandShortName; keeldus lehe laadimisest sellisel moel, sest lehe sisu kaitsvate turvareeglite kohaselt on see keelatud.</p>">
 
-<!ENTITY corruptedContentError.title           "Vigane sisu">
-<!ENTITY corruptedContentError.longDesc        "<p>Andmete edastamisel esinenud vea tõttu pole soovitud lehte võimalik kuvada.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title        "Vigane sisu">
+<!ENTITY corruptedContentErrorv2.longDesc      "<p>Andmete edastamisel esinenud vea tõttu pole soovitud lehte võimalik kuvada.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Lisa erand…">
@@ -190,6 +190,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc           "<span class='hostname'></span> kasutab turvalisuse tehnoloogiaid, mis on aegunud ja avatud rünnakutele. Ründaja võib suurema vaevata pääseda ligi teabele, mis sinu arvates on kaitstud.">
 <!ENTITY weakCryptoAdvanced.override           "(Ebaturvaline!) Proovi laadida saiti <span class='hostname'></span>, kasutades aegunud turvalisuse tehnoloogiaid">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime             "<p>Turvaline ühendus aadressiga <span id='wrongSystemTime_URL'/> pole võimalik, sest sinu kell näib vale aega näitavat.</p> <p>Sinu arvuti arvab ajaks olevat <span id='wrongSystemTime_systemDate'/>, kui see peaks olema <span id='wrongSystemTime_actualDate'/>. Probleemi lahendamiseks muuda oma kuupäeva ja kellaaja sätteid nii, et need kattuks õige ajaga.</p>">
+
 <!ENTITY certerror.pagetitle1                  "Ebaturvaline ühendus">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "See sait kasutab HTTP
 Strict Transport Security (HSTS) tehnoloogiat, et sundida &brandShortName; ühenduma ainult
@@ -201,3 +205,6 @@ võimalik.">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> kasutab turvalisuse tehnoloogiaid, mis on aegunud ja avatud rünnakutele. Ründaja võib suurema vaevata pääseda ligi teabele, mis sinu arvates on kaitstud. Saidi külastamiseks peab saidi administraator selle serveri kõigepealt ära parandama.</p><p>Veakood: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY prefReset.longDesc                    "Paistab, et sinu võrgu turvalisuse sätted võivad olla selle probleemi põhjuseks. Kas soovid taastada vaikesätted?">
+<!ENTITY prefReset.label                       "Taasta vaikesätted">
