@@ -3,7 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Относно &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; е изпитателна версия и може да е нестабилен.">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryStart               " С цел подобряване на &brandShortName; към &vendorShortName; се изпраща автоматично информация за производителността, хардуера, използваните и настройки.">
+<!ENTITY aboutPage.telemetryMozillaLink         "">
+<!ENTITY aboutPage.telemetryEnd                 "">
 <!ENTITY aboutPage.checkForUpdates.link         "Проверка за обновявания »">
+<!ENTITY aboutPage.checkForUpdates.checking     "Проверка за обновявания…">
+<!ENTITY aboutPage.checkForUpdates.none         "Няма налични обновявания">
+<!ENTITY aboutPage.checkForUpdates.available2   "Изтегляне на обновяване">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Изтегляне на обновяване…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Инсталиране на обновяване">
+<!ENTITY aboutPage.faq.label                    "ЧЗВ">
+<!ENTITY aboutPage.support.label                "Поддръжка">
+<!ENTITY aboutPage.privacyPolicy.label          "Политика за личните данни">
+<!ENTITY aboutPage.rights.label                 "Познавайте своите права">
+<!ENTITY aboutPage.relNotes.label               "Бележки по изданието">
+<!ENTITY aboutPage.credits.label                "Заслуги">
+<!ENTITY aboutPage.license.label                "Лицензна информация">
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+<!ENTITY aboutPage.logoTrademark                "Firefox и логата на Firefox са търговски марки на Mozilla Foundation.">
