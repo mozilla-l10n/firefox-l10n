@@ -5,7 +5,6 @@
 <!ENTITY safeb.palm.accept.label              "Aita mind siit välja!">
 <!ENTITY safeb.palm.decline.label             "Eira hoiatust">
 <!ENTITY safeb.palm.reportPage.label          "Miks see leht blokiti?">
-<!ENTITY safeb.palm.whyForbidden.label        "Miks see leht blokiti?">
 
 <!ENTITY safeb.blocked.malwarePage.title      "Ründava veebilehe hoiatus!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,6 +21,3 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Aadressil <span id='unwanted_sitename'/> asuv veebileht levitab teadete kohaselt soovimatut tarkvara ja see blokiti vastavalt sinu turvasätetele.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc  "Soovimatut tarkvara levitavad veebilehed üritavad paigaldada tarkvara, mis võib olla petlik ja mõjutada süsteemi ootamatul viisil.">
 
-<!ENTITY safeb.blocked.forbiddenPage.title2   "Sait on blokitud">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Veebileht aadressil <span id='forbidden_sitename'/> on administraatori profiili poolt blokitud.">
