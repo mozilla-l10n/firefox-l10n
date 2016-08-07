@@ -389,7 +389,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Sync गरिएका ट्याबहरू">
 
 <!ENTITY pref_default_browser "पूर्वनिर्धारित ब्राउजर बनाउनुहोस्">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support खोल्नुहोस्">
 <!ENTITY pref_about_firefox "&brandShortName; बारे">
 
 <!ENTITY pref_vendor_feedback "पुनर्निवेश दिनुहोस्">
