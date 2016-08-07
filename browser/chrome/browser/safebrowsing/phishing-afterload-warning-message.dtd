@@ -13,7 +13,7 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "g">
-
+<!ENTITY safeb.palm.reportPage.label "Kodėl šis tinklalapis užblokuotas?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Tinklalapis laikomas kenkėjišku!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

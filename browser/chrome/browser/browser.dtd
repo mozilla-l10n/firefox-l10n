@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "s">
 <!ENTITY  unpinTab.label                     "Išsegti kortelę">
 <!ENTITY  unpinTab.accesskey                 "s">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Nusiųsti kortelę į įrenginį">
+<!ENTITY  sendTabToDevice.accesskey          "r">
+<!ENTITY  sendPageToDevice.label             "Nusiųsti tinklalapį į įrenginį">
+<!ENTITY  sendPageToDevice.accesskey         "r">
+<!ENTITY  sendLinkToDevice.label             "Nusiųsti saitą į įrenginį">
+<!ENTITY  sendLinkToDevice.accesskey         "r">
 <!ENTITY  moveToNewWindow.label              "Perkelti į naują langą">
 <!ENTITY  moveToNewWindow.accesskey          "l">
 <!ENTITY  bookmarkAllTabs.label              "Įrašyti į adresyną visas korteles…">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "valdo jūsų žymeklį. Spustelėkite Esc, norėdami atgauti valdymą.">
+<!ENTITY pointerlockWarning.generic.label "Šis dokumentas valdo jūsų žymeklį. Spustelėkite Esc, norėdami atgauti valdymą.">
 
 <!ENTITY closeWindow.label "Užverti langą">
 <!ENTITY closeWindow.accesskey "g">
@@ -473,7 +473,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "k">
 <!ENTITY openFrameCmd.label           "Atverti kadrą naujame lange">
 <!ENTITY openFrameCmd.accesskey       "l">
-
+<!ENTITY openLinkCmdInContainerTab.label "Atverti saitą naujoje sudėtinėje kortelėje">
 
 <!ENTITY showOnlyThisFrameCmd.label     "Rodyti tik šį kadrą">
 <!ENTITY showOnlyThisFrameCmd.accesskey "t">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "D">
 
 <!ENTITY editBookmark.done.label                     "Įrašyti">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "š">
 
 <!ENTITY identity.connectionSecure "Saugus ryšys">
 <!ENTITY identity.connectionNotSecure "Ryšys nėra saugus">
