@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "F">
 <!ENTITY  unpinTab.label                     "Frigør faneblad">
 <!ENTITY  unpinTab.accesskey                 "F">
+<!ENTITY  sendTabToDevice.label              "Send faneblad til enhed">
+<!ENTITY  sendTabToDevice.accesskey          "S">
+<!ENTITY  sendPageToDevice.label             "Send side til enhed">
+<!ENTITY  sendPageToDevice.accesskey         "S">
+<!ENTITY  sendLinkToDevice.label             "Send link til enhed">
+<!ENTITY  sendLinkToDevice.accesskey         "S">
 <!ENTITY  moveToNewWindow.label              "Flyt til nyt vindue">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Bogmærk alle faneblade…">
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Vis alle faneblade">
 <!ENTITY showAllTabsCmd.accesskey "a">
+<!ENTITY toggleReaderMode.key "L">
 
 <!ENTITY fxaSignIn.label "Log ind på &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Åbn indstillinger for &syncBrand.shortName.label;">
@@ -128,6 +135,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "vises nu i fuld skærm">
 <!ENTITY fullscreenWarning.generic.label "Dokumentet vises nu i fuld skærm">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +143,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Afslut fuld skærm (esc)">
 <!ENTITY leaveDOMFullScreen.label "Afslut fuld skærm">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "kontrollerer din markør. Tryk Esc for at overtage kontrollen igen.">
+<!ENTITY pointerlockWarning.generic.label "Dette dokument kontrollerer din markør. Tryk Esc for at overtage kontrollen igen.">
 
 <!ENTITY closeWindow.label "Luk vindue">
 <!ENTITY closeWindow.accesskey "k">
@@ -569,8 +586,8 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. Og det hed så "Latterlig hastighed" i den danske oversættelse af filmen -->
-<!ENTITY mediaPlaybackRate200x.label "Latterlig (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "t">
+<!ENTITY mediaPlaybackRate200x2.label "Latterlig (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "t">
 <!ENTITY mediaLoop.label             "Gentag">
 <!ENTITY mediaLoop.accesskey         "G">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
@@ -771,12 +788,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Vis systembeskeder">
 <!ENTITY social.toggleNotifications.accesskey "s">
 
-<!ENTITY social.activated.description "Tjenester fra <label/> er blevet aktiveret. Du kan ændre indstillingerne for tjenester i <label class='text-link'>fanebladet Tilføjelser</label>.">
-<!ENTITY social.activated.undo.label "Fortryd">
-<!ENTITY social.activated.undo.accesskey "F">
 <!ENTITY social.learnMore.label "Læs mere…">
 <!ENTITY social.learnMore.accesskey "L">
-<!ENTITY social.closeNotificationItem.label "Ikke nu">
 
 <!ENTITY social.directory.label "Delings-tjenester">
 <!ENTITY social.directory.text "Du har ingen aktive delings-tjenester">
