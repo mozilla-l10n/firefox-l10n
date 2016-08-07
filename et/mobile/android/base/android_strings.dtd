@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome    "Tere tulemast!">
-<!ENTITY  onboard_start_message3         "Sirvi veebi &brandShortName;iga">
-<!ENTITY  onboard_start_subtext3         "Muuda mobiilne veebilehitsemine tõeliselt isikupäraseks.">
 
 <!ENTITY firstrun_urlbar_message         "Tere tulemast &brandShortName;i">
 <!ENTITY firstrun_urlbar_subtext         "Leia asjad kiiremini abistavate otsingusoovituste abil.">
@@ -20,23 +18,37 @@
 <!ENTITY firstrun_signin_message         "Tee algust ja loo ühendus">
 <!ENTITY firstrun_signin_button          "Logi Synci sisse">
 <!ENTITY onboard_start_button_browser    "Alusta veebilehitsemist">
+<!ENTITY firstrun_button_notnow          "Mitte praegu">
 <!ENTITY firstrun_button_next            "Edasi">
 
-<!ENTITY onboard_start_restricted1       "See lihtsustatud &brandShortName;i versioon tagab turvalisuse, jättes ohjad sinu kätte.">
+<!ENTITY firstrun_tabqueue_title         "Lingid">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off   "Luba ootel kaartide nimekiri">
+<!ENTITY firstrun_tabqueue_subtext_off   "Teistes äppides avatud lingid salvestatakse nimekirja, et neid hiljem &brandShortName;is vaadata.">
 
-<!ENTITY reading_list_migration_title    "Lugemisnimekiri ühendati järjehoidjatega">
-<!ENTITY reading_list_migration_subtext  "Sinu lugemisnimekirja asjad lisatakse nüüd ka järjehoidjatesse">
-<!ENTITY reading_list_migration_goto_bookmarks "Mine järjehoidjate juurde">
-<!ENTITY reading_list_migration_bookmarks_hidden "Sinu järjehoidjate paneel on peidetud">
+<!ENTITY firstrun_tabqueue_message_on    "Õnnestus!">
+<!ENTITY firstrun_tabqueue_subtext_on    "Sa võid selle funktsionaalsuse alati välja lülitada, liikudes &settings; -> &pref_category_general;.">
+
+<!ENTITY firstrun_readerview_title       "Artiklid">
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message     "Vabane virvarrist">
+<!ENTITY firstrun_readerview_subtext     "Lugemisvaade muudab artiklite lugemise lihtsamaks \u2014 ka võrguta režiimis.">
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title          "Sina">
+<!ENTITY firstrun_account_message        "Kas sul on &brandShortName; olemas ka mõnel muul seadmel?">
+
+<!ENTITY onboard_start_restricted1       "See lihtsustatud &brandShortName;i versioon tagab turvalisuse, jättes ohjad sinu kätte.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title                "Järjehoidjad">
 <!ENTITY  history_title                  "Ajalugu">
-<!ENTITY  reading_list_title             "Lugemisnimekiri">
-<!ENTITY  recent_tabs_title              "Viimatised kaardid">
 
 <!ENTITY  switch_to_tab                  "Lülitu kaardile">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version            "Kuvatakse võrguta režiimi jaoks loodud lehte">
 
 <!ENTITY  crash_reporter_title           "&brandShortName;i vigadest teatamise rakendus">
 <!ENTITY  crash_message2                 "&brandShortName; lõpetas veaga. Sinu kaardid kuvatakse pärast taaskäivitamist &brandShortName;i avalehel.">
@@ -69,6 +81,11 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Ekraanipildid">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Lugemisnimekiri">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+<!ENTITY bookmark_folder_items           "&formatD; faili">
+<!ENTITY bookmark_folder_one_item        "üks fail">
 
 <!ENTITY reader_saved_offline            "Salvestatud võrguta režiimis kasutamiseks">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -174,6 +191,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2               "Vihje: otsingumootoriks võib lisada iga veebisaidi. Lihtsalt puuduta ja hoia näppu selle otsinguväljal ning puuduta siis ikooni &formatI;.">
 <!ENTITY pref_category_advanced          "Edasijõudnuile">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "kaartide taastamine, andmemahu säästmine, arendaja tööriistad">
 <!ENTITY pref_category_notifications     "Teavitused">
 <!ENTITY pref_category_notifications_summary "uus funktsionaalsus, veebilehe uuendused">
@@ -225,6 +245,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "lubatud, välja arvatud kolmandad osapooled">
 <!ENTITY pref_cookies_disabled           "keelatud">
 
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_data_saver        "Andmemahu säästmine">
 <!ENTITY pref_category_media             "Meedia">
 <!ENTITY pref_category_developer_tools   "Arendaja tööriistad">
@@ -248,6 +271,20 @@
 
 <!ENTITY pref_whats_new_notification      "Mis on uut &brandShortName;is?">
 <!ENTITY pref_whats_new_notification_summary "uuendamisjärgsed teavitused uue funktsionaalsuse kohta">
+
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!ENTITY pref_category_experimental       "Eksperimentaalne funktsionaalsus">
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs                 "Kohandatud kaardid">
+<!ENTITY pref_custom_tabs_summary         "Kolmanda osapoole äppidel lubatakse URLe avada kohandatud väljanägemise ja funktsionaalsusega.">
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream             "Tegevuste voog">
+<!ENTITY pref_activity_stream_summary     "Rikkalikult visuaalne ajaloovoog ja ümberkujundatud avaleht teevad otsitu leidmise &brandShortName;is lihtsamaks kui kunagi varem.">
 
 <!ENTITY tracking_protection_prompt_title "Nüüd jälitamisvastase kaitsega">
 <!ENTITY tracking_protection_prompt_text "Tegevust jälitavad elemendid blokitakse automaatselt, nii et sina ei pea muretsema.">
@@ -287,7 +324,12 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "uuendati &formatD; veebilehte">
-<!ENTITY content_notification_action_settings "Teavituste sätted">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Sätted">
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Vaata">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -356,6 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs     "Sünkroniseeritud kaardid">
 
 <!ENTITY pref_default_browser             "Määra vaikebrauseriks">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Külasta Mozilla abikeskust">
 <!ENTITY pref_about_firefox               "&brandShortName;ist">
 <!ENTITY pref_vendor_faqs                 "KKK">
 <!ENTITY pref_vendor_feedback             "Anna tagasisidet">
@@ -538,14 +581,18 @@ size. -->
 <!ENTITY home_history_title              "Ajalugu">
 <!ENTITY home_synced_devices_smartfolder "Sünkroniseeritud seadmed">
 <!ENTITY home_synced_devices_number      "&formatD; seadet">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one         "üks seade">
 <!ENTITY home_history_back_to2           "Mine tagasi täieliku ajaloo juurde">
 <!ENTITY home_clear_history_button       "Kustuta lehitsemise ajalugu">
 <!ENTITY home_clear_history_confirm      "Kas oled kindel, et soovid ajaloo kustutada?">
 <!ENTITY home_bookmarks_empty            "Lisatud järjehoidjad ilmuvad siia.">
-<!ENTITY home_closed_tabs_title          "Viimati suletud kaardid">
-<!ENTITY home_last_tabs_title            "Kaardid eelmisest korrast">
+<!ENTITY home_closed_tabs_title2         "Viimati suletud">
 <!ENTITY home_last_tabs_empty            "Viimati külastatud kaardid ilmuvad siia.">
-<!ENTITY home_open_all                   "Viimatine ajalugu">
+<!ENTITY home_restore_all                "Taasta kõik">
+<!ENTITY home_closed_tabs_number         "&formatD; kaarti">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one            "üks kaart">
 <!ENTITY home_most_recent_empty          "Viimati külastatud veebisaidid ilmuvad siia.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -597,7 +644,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure      "Ühendus on turvaline">
 <!ENTITY identity_connection_insecure    "Ühendus on ebaturvaline">
-<!ENTITY identity_login_insecure         "See leht pole turvaline ja sinu kasutajatunnused võivad sattuda ohtu.">
 <!ENTITY identity_connection_chromeui    "See on turvaline &brandShortName;i leht">
 
 <!-- Mixed content notifications in site identity popup -->
@@ -780,3 +826,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_title "Võrguta režiimis lugemine">
 <!ENTITY helper_first_offline_bookmark_message "Leia oma lugemisnimekirja asjad järjehoidjatest, ka võrguta režiimis olles.">
 <!ENTITY helper_first_offline_bookmark_button "Mine järjehoidjatesse">
+
+<!ENTITY helper_triple_readerview_open_title "Võrguta režiimis kättesaadavaks tegemine">
+<!ENTITY helper_triple_readerview_open_message "Lisa lugemisvaatesse lisatud lehed järjehoidjatesse, et lugeda neid ka võrguta režiimis.">
+<!ENTITY helper_triple_readerview_open_button "Lisa järjehoidjatesse">
+
