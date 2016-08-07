@@ -55,8 +55,8 @@
 
 
 
-<!ENTITY wordWrap.label                "متن لپیٹیں">
-<!ENTITY wordWrap.accesskey            "ل">
+<!ENTITY wordWrap.label                "اختتامی کلمات">
+<!ENTITY wordWrap.accesskey            "ا">
 
 
 
@@ -67,7 +67,7 @@
 
 <!ENTITY smallerFont.label            "چھوٹا تر فانٹ">
 <!ENTITY smallerFont.accesskey        "و">
-<!ENTITY smallerFont.commandkey       "-">
+<!ENTITY smallerFont.commandkey       "- ">
 
 <!ENTITY normalSize.label             "عام ناپ">
 <!ENTITY normalSize.accesskey         "ع">
