@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label      "Muu:">
 <!ENTITY archiveInOtherFolder.accesskey  "M">
 <!ENTITY specialFolders.label            "Mustandid ja mallid">
-<!ENTITY keepDrafts.label                "Kirja mustandeid hoitakse kaustas:">
+<!ENTITY keepDrafts2.label               "Mustandeid hoitakse kaustas:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label            "&quot;Mustandid&quot; kontos:">
 <!ENTITY draftsFolderOn.accesskey        "N">
