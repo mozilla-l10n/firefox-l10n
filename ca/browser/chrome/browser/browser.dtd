@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "No fixis la pestanya">
 <!ENTITY  unpinTab.accesskey                 "f">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Envia la pestanya al dispositiu">
+<!ENTITY  sendTabToDevice.accesskey          "d">
+<!ENTITY  sendPageToDevice.label             "Envia la pàgina al dispositiu">
+<!ENTITY  sendPageToDevice.accesskey         "d">
+<!ENTITY  sendLinkToDevice.label             "Envia l'enllaç al dispositiu">
+<!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  moveToNewWindow.label              "Mou a una finestra nova">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Afegeix totes les pestanyes a les adreces d'interès…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Mostra totes les pestanyes">
 <!ENTITY showAllTabsCmd.accesskey "a">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Inicia la sessió al &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Obre les preferències del &syncBrand.shortName.label;">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "té el control del punter. Premeu Esc per recuperar el control.">
+<!ENTITY pointerlockWarning.generic.label "Aquest document té el control del punter. Premeu Esc per recuperar el control.">
 
 <!ENTITY closeWindow.label "Tanca la finestra">
 <!ENTITY closeWindow.accesskey "f">
@@ -474,7 +474,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Obre el marc en una finestra nova">
 <!ENTITY openFrameCmd.accesskey       "O">
 <!ENTITY openLinkCmdInContainerTab.label "Obre l'enllaç en una pestanya de contenidor nova">
-
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostra només aquest marc">
 <!ENTITY showOnlyThisFrameCmd.accesskey "M">
 <!ENTITY reloadCmd.commandkey         "r">
