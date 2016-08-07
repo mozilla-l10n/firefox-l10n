@@ -48,6 +48,7 @@
 <!ENTITY  switch_to_tab "탭 전환">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "오프라인 버전 표시">
 
 <!ENTITY  crash_reporter_title "&brandShortName; 문제점 보고">
 <!ENTITY  crash_message2 "&brandShortName;가 문제가 생겨 예기치 않게 종료하였습니다. 다시 시작하면 현재 탭 목록이 &brandShortName; 첫 화면에 보일 것입니다.">
@@ -273,12 +274,17 @@
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "실험적인 기능">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "사용자 정의 탭">
+<!ENTITY pref_custom_tabs_summary "서드 파티 앱이 URL을 자신만의 모습으로 열 수 있도록 허용해 줍니다.">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "활동 스트림">
+<!ENTITY pref_activity_stream_summary "풍부한 시각적인 방문 내역 피드와 재구성된 홈 페이지를 통해 &brandShortName; 에서 여러분의 진짜로 기대하는 것을 더 쉽게 찾을 수 있도록 만들어줍니다.">
 
 <!ENTITY tracking_protection_prompt_title "추적 방지 시작">
 <!ENTITY tracking_protection_prompt_text "적극적으로 추척 요소들을 차단합니다. 더 이상 걱정할 필요 없습니다.">
@@ -392,6 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "동기화된 탭">
 
 <!ENTITY pref_default_browser "기본 브라우저로 지정">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla 도움말 방문">
 <!ENTITY pref_about_firefox "&brandShortName; 정보">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "피드백 보내기">
@@ -580,8 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "방문 기록 삭제">
 <!ENTITY home_clear_history_confirm "방문 기록을 삭제하시겠습니까?">
 <!ENTITY home_bookmarks_empty "저장한 북마크가 여기에 표시됩니다.">
+<!ENTITY home_closed_tabs_title2 "최근에 닫음">
 <!ENTITY home_last_tabs_empty "이전 종료 시 방문한 탭이 여기에 표시됩니다.">
+<!ENTITY home_restore_all "모두 복원">
+<!ENTITY home_closed_tabs_number "&formatD; 개의 탭">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 개의 탭">
 <!ENTITY home_most_recent_empty "가장 최근에 방문한 웹사이트가 여기에 표시됩니다.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
