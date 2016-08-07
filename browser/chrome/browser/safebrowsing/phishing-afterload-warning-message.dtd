@@ -14,7 +14,6 @@
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey    "b">
 <!ENTITY safeb.palm.reportPage.label          "Miks see leht blokiti?">
-<!ENTITY safeb.palm.whyForbidden.label        "Miks see leht blokiti?">
 
 <!ENTITY safeb.blocked.malwarePage.title      "Ründava veebilehe hoiatus!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -30,8 +29,4 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Aadressil <span id='phishing_sitename'/> asuv veebileht on teadete kohaselt veebivõltsingut sisaldav leht ja see blokiti vastavalt sinu turvasätetele.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Veebivõltsingud on loodud sinu ülekavaldamiseks, et panna sind tegema midagi ohtlikku, näiteks paigaldama tarkvara või avaldama privaatset teavet (paroolid, telefoninumbrid või krediitkaardi andmed).</p><p>Sellistele lehtedele andmete sisestamine võib kaasa tuua identiteedivarguse või muu pettuse.</p>">
-
-<!ENTITY safeb.blocked.forbiddenPage.title2   "Blokitud sait">
-<!-- Localization note (safeb.blocked.forbiddenPage.shortDesc2) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.forbiddenPage.shortDesc2 "Veebileht aadressil <span id='forbidden_sitename'/> on administraatori profiili poolt blokitud.">
 

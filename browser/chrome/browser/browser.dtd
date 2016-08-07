@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                       "e">
 <!ENTITY  unpinTab.label                         "Tee tavakaardiks">
 <!ENTITY  unpinTab.accesskey                     "d">
+<!ENTITY  sendTabToDevice.label                  "Saada kaart seadmesse">
+<!ENTITY  sendTabToDevice.accesskey              "a">
+<!ENTITY  sendPageToDevice.label                 "Saada leht seadmesse">
+<!ENTITY  sendPageToDevice.accesskey             "h">
+<!ENTITY  sendLinkToDevice.label                 "Saada link seadmesse">
+<!ENTITY  sendLinkToDevice.accesskey             "i">
 <!ENTITY  moveToNewWindow.label                  "Liiguta uude aknasse">
 <!ENTITY  moveToNewWindow.accesskey              "k">
 <!ENTITY  bookmarkAllTabs.label                  "Lisa kõik kaardid järjehoidjatesse…">
@@ -105,13 +111,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey             "f">
 <!ENTITY showAllTabsCmd.label                    "Kuva kõiki kaarte">
 <!ENTITY showAllTabsCmd.accesskey                "K">
+<!ENTITY toggleReaderMode.key                    "R">
 
 <!ENTITY fxaSignIn.label                         "Logi &syncBrand.shortName.label;i sisse">
 <!ENTITY fxaSignedIn.tooltip                     "Ava &syncBrand.shortName.label;i sätted">
 <!ENTITY fxaSignInError.label                    "Ühenda &syncBrand.shortName.label;iga uuesti">
 <!ENTITY fxaUnverified.label                     "Kinnita oma konto">
-<!ENTITY syncStartPanel2.heading                 "&syncBrand.shortName.label; on lubatud">
-<!ENTITY syncStartPanel2.subTitle                "&brandShortName; alustab kohe sünkroniseerimist.">
 
 
 <!ENTITY fullScreenMinimize.tooltip              "Minimeeri">
@@ -130,6 +135,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label    "Sait">
 <!ENTITY fullscreenWarning.afterDomain.label     "on nüüd täisekraanirežiimis">
 <!ENTITY fullscreenWarning.generic.label         "See dokument on nüüd täisekraanirežiimis">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -137,6 +143,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button             "Välju täisekraanirežiimist (esc)">
 <!ENTITY leaveDOMFullScreen.label                "Välju täisekraanirežiimist">
 <!ENTITY leaveDOMFullScreen.accesskey            "t">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label   "Sait ">
+<!ENTITY pointerlockWarning.afterDomain.label    " omab kontrolli sinu kursori üle. Kontrolli tagasivõtmiseks vajuta klahvile Esc.">
+<!ENTITY pointerlockWarning.generic.label        "See dokument omab kontrolli sinu kursori üle. Kontrolli tagasivõtmiseks vajuta klahvile Esc.">
 
 <!ENTITY closeWindow.label                       "Sulge aken">
 <!ENTITY closeWindow.accesskey                   "S">
@@ -171,6 +186,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label                   "Viimati järjehoidjatesse lisatud">
 <!ENTITY otherBookmarksCmd.label                 "Muud järjehoidjad">
 <!ENTITY bookmarksToolbarChevron.tooltip         "Veel järjehoidjaid">
+<!ENTITY showRecentlyBookmarked.label            "Kuva viimati järjehoidjatesse lisatud linke">
+<!ENTITY showRecentlyBookmarked.accesskey        "i">
+<!ENTITY hideRecentlyBookmarked.label            "Peida viimati järjehoidjatesse lisatud lingid">
+<!ENTITY hideRecentlyBookmarked.accesskey        "i">
 
 <!ENTITY backCmd.label                           "Tagasi">
 <!ENTITY backButton.tooltip                      "Tagasi üks leht">
@@ -228,6 +247,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label             "Kuva järjehoidjate külgriba">
 <!ENTITY viewBookmarksToolbar.label              "Kuva järjehoidjariba">
 
+<!ENTITY containersMenu.label                    "Konteinerid">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -261,14 +282,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey                      "F">
 <!ENTITY newUserContext.label                    "Uus konteinerkaart">
 <!ENTITY newUserContext.accesskey                "o">
-<!ENTITY userContextPersonal.label               "Isiklik">
-<!ENTITY userContextPersonal.accesskey           "I">
-<!ENTITY userContextWork.label                   "Töö">
-<!ENTITY userContextWork.accesskey               "T">
-<!ENTITY userContextBanking.label                "Pangandus">
-<!ENTITY userContextBanking.accesskey            "n">
-<!ENTITY userContextShopping.label               "Poodlemine">
-<!ENTITY userContextShopping.accesskey           "l">
 <!ENTITY newNavigatorCmd.label                   "Uus aken">
 <!ENTITY newNavigatorCmd.key                     "N">
 <!ENTITY newNavigatorCmd.accesskey               "U">
@@ -556,23 +569,27 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label                         "Summutatud">
+<!ENTITY mediaMute.label                         "Summuta">
 <!ENTITY mediaMute.accesskey                     "S">
-<!ENTITY mediaUnmute.label                       "Summutus maha">
+<!ENTITY mediaUnmute.label                       "Võta summutamine maha">
 <!ENTITY mediaUnmute.accesskey                   "m">
-<!ENTITY mediaPlaybackRate.label                 "Esitamise kiirus">
-<!ENTITY mediaPlaybackRate.accesskey             "k">
-<!ENTITY mediaPlaybackRate050x.label             "Aegluubis (0,5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey         "g">
-<!ENTITY mediaPlaybackRate100x.label             "Tavaline">
-<!ENTITY mediaPlaybackRate100x.accesskey         "T">
-<!ENTITY mediaPlaybackRate150x.label             "Kiirendatud (1,5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey         "i">
+<!ENTITY mediaPlaybackRate2.label                "Esitamise kiirus">
+<!ENTITY mediaPlaybackRate2.accesskey            "k">
+<!ENTITY mediaPlaybackRate050x2.label            "Aegluubis (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey        "g">
+<!ENTITY mediaPlaybackRate100x2.label            "Tavaline">
+<!ENTITY mediaPlaybackRate100x2.accesskey        "T">
+<!ENTITY mediaPlaybackRate125x2.label            "Kiirendatud (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey        "i">
+<!ENTITY mediaPlaybackRate150x2.label            "Veel rohkem kiirendatud (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey        "e">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label             "Naeruväärselt kiire (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey         "N">
+<!ENTITY mediaPlaybackRate200x2.label            "Naeruväärselt kiire (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey        "N">
+<!ENTITY mediaLoop.label                         "Kordamine">
+<!ENTITY mediaLoop.accesskey                     "o">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -580,8 +597,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey             "N">
 <!ENTITY mediaHideControls.label                 "Peida juhtnupud">
 <!ENTITY mediaHideControls.accesskey             "e">
-<!ENTITY videoFullScreen.label                   "Täisekraanirežiim">
-<!ENTITY videoFullScreen.accesskey               "T">
+<!ENTITY videoFullScreen.label                   "Lülitu täisekraanirežiimi">
+<!ENTITY videoFullScreen.accesskey               "t">
 <!ENTITY videoSaveImage.label                    "Salvesta hetkvõte kui…">
 <!ENTITY videoSaveImage.accesskey                "a">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -680,7 +697,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure               "Turvaline ühendus">
 <!ENTITY identity.connectionNotSecure            "Ebaturvaline ühendus">
 <!ENTITY identity.connectionFile                 "See leht on loodud arvutisse salvestatud faili põhjal.">
-<!ENTITY identity.connectionVerified1            "Ühenduse selle saidiga on turvaline. Saiti hooldab ">
+<!ENTITY identity.connectionVerified2            "Ühenduse selle saidiga on turvaline. Saidi omanik on ">
 <!ENTITY identity.connectionInternal             "See on turvaline &brandShortName;i leht.">
 <!ENTITY identity.insecureLoginForms2            "Sellele lehele sisestatavad kasutajakonto andmed võivad ohus olla.">
 
@@ -770,12 +787,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label        "Kuvatakse töölauateavitusi">
 <!ENTITY social.toggleNotifications.accesskey    "v">
 
-<!ENTITY social.activated.description            "Teenusepakkuja <label/> teenused on nüüd lubatud. Teenuste sätteid on võimalik muuta <label class='text-link'>lisade halduris</label>.">
-<!ENTITY social.activated.undo.label             "Ups, võta tagasi">
-<!ENTITY social.activated.undo.accesskey         "U">
 <!ENTITY social.learnMore.label                  "Rohkem teavet…">
 <!ENTITY social.learnMore.accesskey              "R">
-<!ENTITY social.closeNotificationItem.label      "Mitte praegu">
 
 <!ENTITY social.directory.label                  "Teenuste kataloog">
 <!ENTITY social.directory.text                   "Kataloogist on võimalik aktiveerida jagamise teenuseid.">

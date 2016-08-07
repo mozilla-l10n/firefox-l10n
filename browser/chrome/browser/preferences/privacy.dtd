@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label             "Sätted…">
 <!ENTITY  clearOnCloseSettings.accesskey         "t">
+
+<!ENTITY  browserContainersHeader.label          "Konteinerkaardid">
+<!ENTITY  browserContainersLearnMore.label       "Rohkem teavet">
+<!ENTITY  browserContainersEnabled.label         "Konteinerkaardid lubatakse">
+<!ENTITY  browserContainersEnabled.accesskey     "o">
