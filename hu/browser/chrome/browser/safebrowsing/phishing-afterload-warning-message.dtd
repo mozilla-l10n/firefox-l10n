@@ -7,11 +7,13 @@
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
+<!ENTITY safeb.palm.notdeceptive.label "Ez nem félrevezető oldal…">
 <!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
   safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
-
+<!ENTITY safeb.palm.notdeceptive.accesskey "n">
+<!ENTITY safeb.palm.reportPage.label "Miért nem jelenik meg ez a weboldal?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Bejelentett támadó weboldal!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
