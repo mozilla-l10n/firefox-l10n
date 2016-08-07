@@ -5,5 +5,13 @@
 <!ENTITY sync.title                 "Sync">
 <!ENTITY sync.details               "Подробности">
 <!ENTITY sync.deviceName            "Това устройство">
+<!ENTITY sync.disconnect            "Изключване">
 
+<!ENTITY sync.account               "Име на сметката">
+<!ENTITY sync.password              "Парола">
+<!ENTITY sync.recoveryKey           "Ключ за възстановяване">
+<!ENTITY sync.setup.connect         "Свързване">
+<!ENTITY sync.setup.cancel          "Отказ">
 
+<!ENTITY sync.pair.title            "Сдвояване на устройство">
+<!ENTITY sync.setup.close           "Затваряне">
