@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "Opdateringer er deaktiveret af din systemadministrator">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; er ved at blive opdateret af en anden instans">
+<!ENTITY update.restarting          "Genstarter…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
