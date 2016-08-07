@@ -2,8 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "A Ctrl+Tab a legutóbbi használat sorrendjében lépked körbe a lapokon">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-
+<!ENTITY newWindowsAsTabs.label       "Új ablakok megnyitása új lapokon">
+<!ENTITY newWindowsAsTabs.accesskey   "a">
 
 <!ENTITY warnCloseMultipleTabs.label  "Figyelmeztetés több lap bezárása előtt">
 <!ENTITY warnCloseMultipleTabs.accesskey  "t">
