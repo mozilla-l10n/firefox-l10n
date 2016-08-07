@@ -9,6 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Pantalla completa">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Colar de pantalla completa">
 <!ENTITY castingButton.castingLabel "Tresmitir a pantalla">
+<!ENTITY closedCaption.off "Desactiváu">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Tamañu">
