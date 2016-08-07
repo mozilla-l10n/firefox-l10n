@@ -167,8 +167,8 @@ ja sa võid hiljem uuesti proovida.</li>
 <!ENTITY cspBlocked.title                      "Blokitud sisu kaitsva turvareegliga">
 <!ENTITY cspBlocked.longDesc                   "<p>&brandShortName; keeldus lehe laadimisest sellisel moel, sest lehe sisu kaitsvate turvareeglite kohaselt on see keelatud.</p>">
 
-<!ENTITY corruptedContentError.title           "Vigane sisu">
-<!ENTITY corruptedContentError.longDesc        "<p>Andmete edastamisel esinenud vea tõttu pole soovitud lehte võimalik kuvada.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title         "Vigane sisu">
+<!ENTITY corruptedContentErrorv2.longDesc      "<p>Andmete edastamisel esinenud vea tõttu pole soovitud lehte võimalik kuvada.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
 
 <!ENTITY securityOverride.linkText             "Või võid ka lisada erandi...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Aita mind siit välja!">
@@ -188,3 +188,8 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title         "Ühendus pole turvaline">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc      "<p><span class='hostname'></span> kasutab turvalisuse tehnoloogiaid, mis on aegunud ja avatud rünnakutele. Ründaja võib suurema vaevata pääseda ligi teabele, mis sinu arvates on kaitstud. Saidi külastamiseks peab saidi administraator selle serveri kõigepealt ära parandama.</p><p>Veakood: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

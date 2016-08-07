@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                     "v">
 <!ENTITY restoreHTMLDefaults.label             "Lähtesta">
 <!ENTITY restoreHTMLDefaults.accesskey         "a">
-<!ENTITY enterKeyCreatesNewParagraph.label     "Lõiguvormingu kasutamisel loob Enter klahv uue lõigu">
-<!ENTITY enterKeyCreatesNewParagraph.accesskey "E">
+<!ENTITY defaultToParagraph.label              "Vaikimisi kasututatakse lõiguvormingut">
+<!ENTITY defaultToParagraph.accesskey          "e">
 
 <!ENTITY spellCheck.label                    "Enne saatmist kontrollitakse õigekirja">
 <!ENTITY spellCheck.accesskey                "E">

@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey            "K">
 <!ENTITY updateManual.label               "Uuenduste olemasolu ei kontrollita (pole soovitatav: turvarisk)">
 <!ENTITY updateManual.accesskey           "U">
-<!ENTITY updateAutoAddonWarn.label        "Hoiatatakse, kui see keelab mõne lisa">
-<!ENTITY updateAutoAddonWarn.accesskey    "H">
 <!ENTITY updateHistory.label              "Näita uuenduste ajalugu">
 <!ENTITY updateHistory.accesskey          "j">
 
