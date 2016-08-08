@@ -15,3 +15,5 @@
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "Pesquisar ignorando maiúsculas de minúsculas">
 <!ENTITY entireWord.label "Palavras completas">
+<!ENTITY entireWord.accesskey "w">
+<!ENTITY entireWord.tooltiptext "Pesquisar palavras inteiras somente">
