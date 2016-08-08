@@ -31,13 +31,13 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; не може да зареди тази страница.</p>">
 
 <!ENTITY malformedURI.title "Адресът е невалиден">
-<!ENTITY malformedURI.longDesc "<ul><li>Обикновено адресите изглеждат така:<strong>http://www.example.com/</strong></li><li>Проверете дали използвате наклонени черти(т.е. <strong>/</strong>).</li></ul>">
+<!ENTITY malformedURI.longDesc "<ul><li>Адресите обикновено изглеждат така <strong>http://www.example.com/</strong></li><li>Уверете се, че използвате наклонени черти(т.е. <strong>/</strong>).</li></ul>">
 
 <!ENTITY netInterrupt.title "Връзката беше прекъсната">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Документът е с изтекъл срок на валидност">
-<!ENTITY notCached.longDesc "<p>Исканият документ не е наличен в кеша на &brandShortName;.</p><ul><li>Като мярка за безопасност, &brandShortName; не изтегля наново сенситивни документи.</li><li>Натиснете Опит отново за ново изтегляне на документа от сайта.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Търсеният документ не е наличен в кеша на &brandShortName;.</p><ul><li>Като предпазна мярка &brandShortName; не прави повторна заявка на документи с поверително съдържание.</li><li>Натиснете Нов опит за нова заявка на документа от сайта.</li></ul>">
 
 <!ENTITY netOffline.title "Работа извън мрежата">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Натиснете „Нов опит“, за да превключите към режим с връзка и да презаредите страницата.</li> </ul>">
@@ -70,7 +70,7 @@
 <!ENTITY unknownSocketType.longDesc "<ul><li>Проверете дали системата има инсталиран Personal Security Manager.</li><li>Настройките на сървъра може да са нестандартни.</li></ul>">
 
 <!ENTITY nssFailure2.title "Неуспешно установяване на шифрована връзка">
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата, която искате да видите, не може да бъде показана, защото достоверността на получените данни не може да бъде проверена.</li> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата не може да бъде показана, защото достоверността на получените данни не може да бъде проверена.</li> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Връзката е незащитена">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
