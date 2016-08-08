@@ -40,7 +40,7 @@
 <!ENTITY contentEncodingError.title "Грешка в кодировката на съдържанието">
 <!ENTITY contentEncodingError.longDesc "<p>Страницата не може да бъде показана, защото използва невалиден или неподдържан вид компресия.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Несигурен вид файл">
+<!ENTITY unsafeContentType.title "Опасен вид файл">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
 <!ENTITY netReset.title "Връзката е прекъсната">
@@ -74,7 +74,7 @@
 <!ENTITY securityOverride.warningContent "<p>Не трябва да добавяте изключение, ако не се доверявате на сигурността на вашата свързаност с Интернет или не очаквате да виждате такова предупреждение от този сървър.</p> <p>Ако все пак искате да добавите изключение, можете да го направите от разширените настройки на шифроването.</p>">
 
 <!ENTITY cspBlocked.title "Блокирано от Content Security Policy">
-<!ENTITY cspBlocked.longDesc "<p>Браузърът попречи на страницата да се зареди по този начин, защото на страницата има политика за сигурност, която го забранява.</p>">
+<!ENTITY cspBlocked.longDesc "<p>Браузърът предотврати зареждането на страницата по този начин, защото тя има политика за сигурност, която го забранява.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Грешка поради развалено съдържание">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата не може да бъде показана поради грешка в прехвърлянето на данните.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
@@ -85,4 +85,4 @@
 <!ENTITY inadequateSecurityError.title "Връзката е незащитена">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> използва остаряла технология за сигурност, уязвима към атаки. Такива атаки може лесно да разкрият информация, която мислите, че е защитена. Администраторът на сайта трябва да поправи сървъра преди да може да използвате сайта.</p><p>Код на грешка: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> използва остаряла технология за сигурност, уязвима към атаки. Такива атаки могат лесно да разкрият информация, която мислите, че е защитена. Администраторът на сайта трябва да поправи сървъра преди да може да използвате сайта.</p><p>Код на грешка: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
