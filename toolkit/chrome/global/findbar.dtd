@@ -14,3 +14,4 @@
 <!ENTITY caseSensitive.label "ਅੱਖਰ ਆਕਾਰ ਮਿਲਦਾ">
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "ਲੱਭਣ ਲਈ ਅੱਖਰ ਆਕਾਰ ਵੀ ਮਿਲਾਓ">
+<!ENTITY entireWord.accesskey "w">
