@@ -133,8 +133,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "已进入全屏显示">
-<!ENTITY fullscreenWarning.generic.label "此文档现已全屏显示">
+<!ENTITY fullscreenWarning.afterDomain.label "已进入全屏模式">
+<!ENTITY fullscreenWarning.generic.label "此文档已进入全屏模式">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
