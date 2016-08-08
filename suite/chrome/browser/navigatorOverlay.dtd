@@ -122,22 +122,25 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "As imagens deste site nunca serão baixadas.">
 
-<!ENTITY popupsMessageChangeTitle.label "Permissão da Janela de Diálogo Trocada">
-<!ENTITY popupAllowCmd.label "Permitir Janelas de Diálogo desse Website">
+<!ENTITY popupsMessageChangeTitle.label "Permissão da Janela Popup alterada">
+<!ENTITY popupAllowCmd.label "Permitir Popups desse Website">
 <!ENTITY popupAllowCmd.accesskey "A">
-<!ENTITY popupAllowMsg.label "Janelas de diálogo desse website sempre serão exibidas.">
-<!ENTITY popupDefaultCmd.label "Usar as Permissões de Diálogo Padrão">
+<!ENTITY popupAllowMsg.label "Popups desse website sempre serão exibidas.">
+<!ENTITY popupDefaultCmd.label "Usar as Permissões de Popup Padrão">
 <!ENTITY popupDefaultCmd.accesskey "U">
-<!ENTITY popupDefaultMsg.label "Janelas de diálogo desse site serão mostradas baseado nas configurações padrão.">
-<!ENTITY popupBlockCmd.label "Bloquear Janelas de Diálogo desse Website">
+<!ENTITY popupDefaultMsg.label "Popups desse site serão mostradas baseado nas configurações padrão.">
+<!ENTITY popupBlockCmd.label "Bloquear Popups desse Website">
 <!ENTITY popupBlockCmd.accesskey "B">
-<!ENTITY popupBlockMsg.label "Janelas de diálogo deste website não serão exibidas.">
-<!ENTITY popupsManage.label "Gerenciar Janelas de Diálogo">
+<!ENTITY popupBlockMsg.label "Popups deste website não serão exibidas.">
+<!ENTITY popupsManage.label "Gerenciar Janelas Popups">
+<!ENTITY popupsManage.accesskey "M">
 
 <!ENTITY cookieCookieManager.label "Gerenciador de cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Gerenciador de imagens">
 <!ENTITY cookieImageManager.accesskey "i">
+<!ENTITY popupsManager.label "Gerenciador de Popups">
+<!ENTITY popupsManager.accesskey "o">
 
-<!ENTITY clearPrivateDataCmd.label "Limpar dados privados">
+<!ENTITY clearPrivateDataCmd.label "Limpar dados privados…">
 <!ENTITY clearPrivateDataCmd.accesskey "e">

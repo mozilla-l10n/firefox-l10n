@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.http.title                     "HTTP">
-<!-- Network-->
 
+<!-- Network-->
 <!ENTITY prefDirect.label                    "Conexão direta">
 <!ENTITY prefProxy.label                     "Conexão com proxy">
 <!ENTITY prefEnableHTTP10.label              "Usar HTTP 1.0">
@@ -21,3 +21,6 @@
 <!ENTITY prefUseragent.label                 "Agente do usuário">
 <!ENTITY prefFirefoxCompat.label             "Anunciar a compatibilidade com o Firefox">
 <!ENTITY prefFirefoxCompat.accesskey         "F">
+<!ENTITY prefLightningShow.label             "Anunciar instalação do Lightning">
+<!ENTITY prefLightningShow.accesskey         "L">
+<!ENTITY prefCompatWarning                   "AVISO: desativando essas configurações pode resultar em sites ou serviços com funcionamento incorreto.">
