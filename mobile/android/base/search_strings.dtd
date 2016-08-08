@@ -8,12 +8,21 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint 'Търсене с &formatS;'>
 
+<!ENTITY search_empty_title2 'Започнете да търсите'>
+<!ENTITY search_empty_message 'Бързо търсене, на каквото и да е'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description 'Добавяне към лентата за търсене'>
 
 <!ENTITY search_pref_title 'Настройки'>
 <!ENTITY search_pref_button_content_description 'Настройки'>
 
+<!ENTITY pref_clearHistory_confirmation 'Историята е премахната'>
+<!ENTITY pref_clearHistory_dialogMessage 'Изтриване на историята на търсене от устройството?'>
+<!ENTITY pref_clearHistory_title 'Изчистване историята на търсенето'>
 
+<!ENTITY search_widget_button_label 'Търсене'>
 
+<!ENTITY network_error_title 'Няма връзка с Интернет'>
+<!ENTITY network_error_message 'Докоснете тук, за да проверите настройките на мрежата'>

@@ -46,6 +46,7 @@
 <!ENTITY fxaccount_getting_started_description2 'Впишете се, за да бъдат синхронизирани вашите подпрозорци, отметки, пароли и др.'>
 <!ENTITY fxaccount_getting_started_get_started 'Въведение'>
 
+<!ENTITY fxaccount_status_signed_in_as 'Вписани сте като'>
 <!ENTITY fxaccount_status_manage_account 'Управление на сметката'>
 <!ENTITY fxaccount_status_sync_now 'Синхронизирайте сега'>
 <!ENTITY fxaccount_status_syncing2 'Синхронизиране…'>
@@ -55,6 +56,7 @@
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: включен'>
 <!ENTITY fxaccount_status_bookmarks 'Отметки'>
 <!ENTITY fxaccount_status_history 'История'>
+<!ENTITY fxaccount_status_passwords2 'Регистрации'>
 <!ENTITY fxaccount_status_tabs 'Отворени раздели'>
 <!ENTITY fxaccount_status_legal 'Правни въпроси' >
 <!-- Localization note: when tapped, the following two strings link to
@@ -104,7 +106,9 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; не е свързан'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Докоснете, за да се впишете като &formatS;'>
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title 'Завършване на обновяването на &syncBrand.shortName.label;?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Докоснете, за да се впишете като &formatS;'>
