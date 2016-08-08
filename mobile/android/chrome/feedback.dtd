@@ -10,4 +10,5 @@
 
 <!ENTITY feedback.tools.title           "Инструменти">
 <!ENTITY feedback.allowTelemetry.title  "Изпращане на данни за производителността">
+<!ENTITY feedback.forceCompat.title     "Налагане на съвместимост с добавките">
 <!ENTITY feedback.errorConsole.title    "Включване на конзолата за грешки">

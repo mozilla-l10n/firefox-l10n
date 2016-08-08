@@ -9,10 +9,12 @@
 <!ENTITY safeb.blocked.malwarePage.title "Страница докладвана като враждебна!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Сайтът <span id='malware_sitename'/> е докладван като враждебен и беше блокиран според вашите настройки за безопасност.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Атакуващите страници се опитват да инсталират програми, които крадат лична информация, повреждат компютъра ви или го използват за атака на други компютри.</p><p>Някои от тези страници го правят съзнателно, но много са просто жертва и собствениците им не знаят нищо за това.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Измамнически сайт!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Сайтът <span id='phishing_sitename'/> е докладван като измамнически и беше блокиран според вашите настройки за безопасност.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Заблуждаващите сайтове са направени да ви подмамят да направите нещо опасно, например инсталиране на софтуер или да разкриете лична информация като пароли, телефонни номера или кредитни карти.</p><p>Въвеждането на каквато и да е информация в тази уебстраница може да доведе на кражба на идентичността или друга измама.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Докладвана страница с нежелан софтуер!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
