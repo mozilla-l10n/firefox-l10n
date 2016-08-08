@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Dadbinio Tab">
 <!ENTITY  unpinTab.accesskey                 "D">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Anfon Tab i Ddyfais">
+<!ENTITY  sendTabToDevice.accesskey          "D">
+<!ENTITY  sendPageToDevice.label             "Anfon Tudalen i Ddyfais">
+<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendLinkToDevice.label             "Anfon Dolen i Ddyfais">
+<!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "Symud i Ffenestr Newydd">
 <!ENTITY  moveToNewWindow.accesskey          "N">
 <!ENTITY  bookmarkAllTabs.label              "Nod Tudalen i Bob Tab…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "S">
 <!ENTITY showAllTabsCmd.label "Dangos Pob Tab">
 <!ENTITY showAllTabsCmd.accesskey "a">
-
+<!ENTITY toggleReaderMode.key "D">
 
 <!ENTITY fxaSignIn.label "Mewngofnodi i &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Agor dewisiadau &syncBrand.shortName.label;">
