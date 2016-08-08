@@ -25,7 +25,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Търсене</button>
     </div>
-  <li>Ако не можете да заредите каквато и да е страница, проверете връзката за данни или Wi-Fi връзката.
+  <li>Ако не можете да заредите друга страница, проверете връзката за мобилни данни или Wi-Fi.
     <button id='wifi'>Включване на Wi-Fi</button>
   </li>
 </ul>">
@@ -80,6 +80,12 @@
 <!ENTITY proxyResolveFailure.title "Прокси сървърът не може да бъде открит">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul>
+  <li>Уверете се, че настройките на прокси сървъра са правилни.</li>
+  <li>Уверете се, че устройството ви има работеща връзка за данни или Wi-Fi.
+    <button id='wifi'>Включване на Wi-Fi</button>
+  </li>
+</ul>">
 
 <!ENTITY redirectLoop.title "Страницата не пренасочва правилно">
 <!ENTITY redirectLoop.longDesc "<ul><li>Такъв проблем може да е причинен от изключване или забраняване на бисквитки.</li></ul>">
@@ -93,6 +99,12 @@
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "<ul>
+  <li>Сайтът може да е временно недостъпен или натоварен. Опитайте пак след малко.</li>
+  <li>Ако не можете да заредите друга страница, проверете връзката за мобилни данни или Wi-Fi.
+    <button id='wifi'>Включване на Wi-Fi</button>
+  </li>
+</ul>">
 
 <!ENTITY cspBlocked.title "Блокирано от Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото тя има политика за сигурност, която го забранява.</p>">

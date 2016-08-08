@@ -13,6 +13,7 @@
 
 <!ENTITY sync.setup.title           "Свързване към Sync">
 <!ENTITY sync.fallback              "Не съм близо до компютъра си…">
+<!ENTITY sync.setup.manual          "Въведете своята сметка в Sync">
 <!ENTITY sync.account               "Име на сметката">
 <!ENTITY sync.password              "Парола">
 <!ENTITY sync.recoveryKey           "Ключ за възстановяване">

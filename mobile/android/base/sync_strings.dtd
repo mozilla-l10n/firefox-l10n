@@ -8,6 +8,7 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
+<!ENTITY sync.title.connect.label 'Свързване с &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
@@ -41,6 +42,7 @@
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
+<!ENTITY fxaccount_back_to_browsing 'Назад'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Добре дошли в &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'Впишете се, за да бъдат синхронизирани вашите подпрозорци, отметки, пароли и др.'>
@@ -48,6 +50,7 @@
 
 <!ENTITY fxaccount_status_signed_in_as 'Вписани сте като'>
 <!ENTITY fxaccount_status_manage_account 'Управление на сметката'>
+<!ENTITY fxaccount_status_auth_server 'Сървър на сметката'>
 <!ENTITY fxaccount_status_sync_now 'Синхронизирайте сега'>
 <!ENTITY fxaccount_status_syncing2 'Синхронизиране…'>
 <!ENTITY fxaccount_status_device_name 'Име на устройството'>
@@ -56,6 +59,7 @@
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: включен'>
 <!ENTITY fxaccount_status_needs_verification2 'Сметката трябва да бъде проверена. Докоснете за повторно изпращане на писмото за потвърждение.'>
 <!ENTITY fxaccount_status_needs_credentials 'Не може да бъде осъществена връзка. Докоснете за вписване.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Докоснете, за да се впишете в новия си Firefox Account.'>
 <!ENTITY fxaccount_status_bookmarks 'Отметки'>
 <!ENTITY fxaccount_status_history 'История'>
 <!ENTITY fxaccount_status_passwords2 'Регистрации'>
