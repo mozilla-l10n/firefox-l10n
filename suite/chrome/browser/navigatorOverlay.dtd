@@ -62,7 +62,7 @@
 <!ENTITY historyCmd.accesskey "s">
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Abas fechadas recentemente">
-<!ENTITY recentTabs.accesskey "c">
+<!ENTITY recentTabs.accesskey "C">
 <!ENTITY recentTabs.commandkey "t">
 <!ENTITY recentWindows.label "Janelas fechadas recentemente">
 <!ENTITY recentWindows.accesskey "n">
@@ -77,12 +77,12 @@
 <!ENTITY bookmarksMenu.accesskey "F">
 <!ENTITY addCurPageCmd.label "Adicionar aos favoritos">
 <!ENTITY addCurPageCmd.accesskey "v">
-<!ENTITY addCurPageAsCmd.label "Adicionar arquivo aos favoritos">
+<!ENTITY addCurPageAsCmd.label "Adicionar arquivo aos favoritos…">
 <!ENTITY addCurPageAsCmd.accesskey "o">
 <!ENTITY addCurPageAsCmd.commandkey "d">
 <!ENTITY addCurTabsAsCmd.label "Adicionar grupo aos favoritos...">
 <!ENTITY addCurTabsAsCmd.accesskey "g">
-<!ENTITY manBookmarksCmd.label "Gerenciar favoritos">
+<!ENTITY manBookmarksCmd.label "Gerenciar favoritos…">
 <!ENTITY manBookmarksCmd.accesskey "G">
 <!ENTITY manBookmarksCmd.commandkey "b">
 
@@ -95,7 +95,7 @@
 
 <!ENTITY cookieMessageTitle.label "Permissões dos cookies alteradas">
 <!ENTITY cookieDisplayCookiesCmd.label "Gerenciar cookies armazenados">
-<!ENTITY cookieDisplayCookiesCmd.accesskey "m">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "M">
 <!ENTITY cookieAllowCookiesCmd.label "Permitir cookies deste site">
 <!ENTITY cookieAllowCookiesCmd.accesskey "d">
 <!ENTITY cookieAllowCookiesMsg.label "Todos cookies deste site serão permitidos.">
@@ -122,6 +122,17 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "As imagens deste site nunca serão baixadas.">
 
+<!ENTITY popupsMessageChangeTitle.label "Permissão da Janela de Diálogo Trocada">
+<!ENTITY popupAllowCmd.label "Permitir Janelas de Diálogo desse Website">
+<!ENTITY popupAllowCmd.accesskey "A">
+<!ENTITY popupAllowMsg.label "Janelas de diálogo desse website sempre serão exibidas.">
+<!ENTITY popupDefaultCmd.label "Usar as Permissões de Diálogo Padrão">
+<!ENTITY popupDefaultCmd.accesskey "U">
+<!ENTITY popupDefaultMsg.label "Janelas de diálogo desse site serão mostradas baseado nas configurações padrão.">
+<!ENTITY popupBlockCmd.label "Bloquear Janelas de Diálogo desse Website">
+<!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupBlockMsg.label "Janelas de diálogo deste website não serão exibidas.">
+<!ENTITY popupsManage.label "Gerenciar Janelas de Diálogo">
 
 <!ENTITY cookieCookieManager.label "Gerenciador de cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
