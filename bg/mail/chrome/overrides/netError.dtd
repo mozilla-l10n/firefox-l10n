@@ -30,13 +30,13 @@
 <!ENTITY generic.longDesc "<p>По някаква причина &brandShortName; не може да зареди тази страница.</p>">
 
 <!ENTITY malformedURI.title "Този адрес не е верен">
-<!ENTITY malformedURI.longDesc "<ul> <li>Уеб адресите обикновено се пишат така <strong>http://www.example.com/</strong></li> <li>Обърнете внимание дали използвате дясно наклонени черти (т.е. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul><li>Адресите обикновено изглеждат така <strong>http://www.example.com/</strong></li><li>Уверете се, че използвате наклонени черти(т.е. <strong>/</strong>).</li></ul>">
 
 <!ENTITY netInterrupt.title "Връзката беше прекъсната">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Документът е изтекъл">
-<!ENTITY notCached.longDesc "<p>Търсеният документ липсва в кеша.</p><ul><li>Като защитна мярка, &brandShortName; няма автоматично отново да изтегля документи с чувствителна информация.</li><li>Щракнете на Отново, за да заявите документът от уебсайта.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Търсеният документ не е наличен в кеша на &brandShortName;.</p><ul><li>Като предпазна мярка &brandShortName; не прави повторна заявка на документи с поверително съдържание.</li><li>Натиснете Нов опит за нова заявка на документа от сайта.</li></ul>">
 
 <!ENTITY netOffline.title "Работа извън мрежата">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Натиснете &quot;Отново&quot;, за да превключите в режим на линия и да презаредите страницата.</li> </ul>">
@@ -44,26 +44,26 @@
 <!ENTITY contentEncodingError.title "Грешка в кодировката на съдържанието">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "Опасен тип на файл">
+<!ENTITY unsafeContentType.title "Опасен вид файл">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
-<!ENTITY netReset.title "Връзката беше нулирана">
+<!ENTITY netReset.title "Връзката беше прекъсната">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Изтече времето за свързване">
+<!ENTITY netTimeout.title "Времето за изчакване при свързване изтече">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Адресът не беше разпознат">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Ще ви е необходим друг софтуер, за да отворите този адрес.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Вероятно ще трябва да инсталирате друг софтуер, за да отворите този адрес.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Прокси сървърът отхвърля връзките">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Проверете настройките на проксито, за да уверите, че са правилни.</li> <li>Свържете се с мрежовия ви администратор, за да се уверите, че прокси сървъра работи.</li> </ul>">
+<!ENTITY proxyConnectFailure.title "Прокси сървърът отказва връзката">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Уверете се, че настройките на прокси сървъра са правилни.</li> <li>Свържете се с мрежовия администратор и проверете дали прокси сървърът работи.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Прокси сървърът не е открит">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Проверете настройките на проксито, за да уверите, че са правилни..</li> <li>Уверете се, че вашия компютър има работеща мрежова връзка.</li> <li>Ако компютъра или мрежата ви са зад защитна стена или прокси уверете се, че &brandShortName; има право на достъп до Мрежата.</li> </ul>">
+<!ENTITY proxyResolveFailure.title "Прокси сървърът не може да бъде открит">
+<!ENTITY proxyResolveFailure.longDesc "<ul><li>Проверете дали настройките на прокси сървъра са правилни.</li><li>Проверете дали връзката на компютъра с мрежата е наред.</li><li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете дали на &brandShortName; е разрешен достъпът до Интернет.</li></ul>">
 
 <!ENTITY redirectLoop.title "Страницата не пренасочва правилно">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Проблемът понякога се предизвиква от изключването или отхвърлянето приема на бисквитки.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul><li>Такъв проблем може да е причинен от изключване или забраняване на бисквитки.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Неочакван отговор от сървъра">
 <!ENTITY unknownSocketType.longDesc "<ul><li>Проверете дали системата има инсталиран Personal Security Manager.</li><li>Настройките на сървъра може да са нестандартни.</li></ul>">
@@ -74,13 +74,17 @@
 <!ENTITY nssBadCert.title "Неуспешно установяване на шифрована връзка">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Това може да е проблем с конфигурацията на сървъра или може някой се опитва да се представя за сървъра.</li> <li>Ако преди сте се свързвали към този сървър успешно, проблема може да е временен, затова опитайте отново по-късно.</li> </ul>">
 
-<!ENTITY sharedLongDesc "<ul> <li>Сайтът временно е недостъпен или е твърде натоварен. Опитайте отново след кратко време.</li> <li>Ако не успявате да заредите нито една страница, проверете мрежовата свързаност на вашия компютър.</li> <li>Ако вашия компютър или мрежа е зад защитна стена или прокси, уверете се, че &brandShortName; има право на достъп до Мрежата.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul>
+  <li>Сайтът може да е временно недостъпен или натоварен. Опитайте отново след малко.</li>
+  <li>Ако не можете да заредите друга страница, проверете връзката с Интернет.</li>
+  <li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете дали на &brandShortName; е разрешен достъпът до Интернет.</li>
+</ul>">
 
 <!ENTITY cspBlocked.title "Блокирано от Content Security Policy">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, понеже тя съдържа политика за защитено съдържание, което не позволява това.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото тя има политика за сигурност, която го забранява.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Грешка поради развалено съдържание">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата, която се опитвате да разгледате, не може да бъде показана, защото е открита грешка при предаването на данни.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата не може да бъде показана поради грешка при прехвърлянето на данните.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Или можете да добавите изключение…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Махнете ме от тук!">
@@ -91,7 +95,7 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningContent "<p>Вие не би трябвало да добавяте изключение, ако използвате интернет връзка, на която нямате пълно доверие или ако не сте виждали предупреждения за този сървър.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "<p>Не трябва да добавяте изключение, ако използвате интернет връзка на която не се доверявате напълно или ако не сте виждали предупреждение от този сървър.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Отдалечен XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul></p>">
@@ -99,4 +103,4 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.title "Вашата връзка е незащитена">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>използва технология за сигурност, която е остаряла и уязвима от атака. Хакер може лесно да разкрие информация, която мислите, че е в безопасност. Администраторът на уеб сайта ще трябва първо да поправи сървъра, преди да можете да посещавате сайта.</p><p>Код на грешка: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> използва остаряла технология за сигурност, уязвима към атаки. Такива атаки могат лесно да разкрият информация, която мислите, че е защитена. Администраторът на сайта трябва да поправи сървъра преди да може да използвате сайта.</p><p>Код на грешка: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
