@@ -111,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Montri ĉiujn langetojn">
 <!ENTITY showAllTabsCmd.accesskey "m">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Komenci seancon en &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Malfermi preferojn de Open &syncBrand.shortName.label;">
