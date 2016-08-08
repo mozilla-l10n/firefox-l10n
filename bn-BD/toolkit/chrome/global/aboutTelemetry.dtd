@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "   থ্রেড হ্যাং">
 
+<!ENTITY aboutTelemetry.scalarsSection "  স্ক্যালারস">
 
 <!ENTITY aboutTelemetry.histogramsSection "  বারলেখ">
 
