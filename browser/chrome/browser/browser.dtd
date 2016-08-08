@@ -172,8 +172,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "এই লিংক শেয়ার করুন h">
 <!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "এই ছবি শেয়ার করুন s">
-<!ENTITY shareImage.accesskey "s">
+<!ENTITY shareImage.label "এই ছবি শেয়ার করুন">
+<!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "নির্বাচিত অংশ শেয়ার করুন S">
 <!ENTITY shareSelect.accesskey "S">
 <!ENTITY shareVideo.label "এই ভিডিওটি শেয়ার করুন s">
@@ -493,13 +493,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ফ্রেম সংক্রান্ত তথ্য (I)">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "ছবি আবার লোড করা হবে (R)">
+<!ENTITY reloadImageCmd.label         "ছবি আবার লোড করা হবে">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "ছবি প্রদর্শন (I)">
+<!ENTITY viewImageCmd.label           "ছবি প্রদর্শন">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "ছবির তথ্য প্রদর্শন (f)">
+<!ENTITY viewImageInfoCmd.label       "ছবির তথ্য প্রদর্শন">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "বর্ণনা দেখুন D">
+<!ENTITY viewImageDescCmd.label       "বর্ণনা দেখুন">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "ভিডিও প্রদর্শন (i)">
 <!ENTITY viewVideoCmd.accesskey       "i">
