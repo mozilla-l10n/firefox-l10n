@@ -15,3 +15,8 @@
      DOM (as children of the currently selected element). -->
 <!ENTITY inspectorAddNode.label       "Krei novan nodon">
 <!ENTITY inspectorAddNode.accesskey   "K">
+
+
+<!-- LOCALIZATION NOTE (inspectorEyeDropper.label): A string displayed as the tooltip of
+     a button in the inspector which toggles the Eyedropper tool -->
+<!ENTITY inspectorEyeDropper.label       "Preni koloron el la paĝo">

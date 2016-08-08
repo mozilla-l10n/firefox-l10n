@@ -100,6 +100,10 @@ Semajno
   Paneoj de fadenoj
 ">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Skalaroj
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Grafikaĵoj
 ">
