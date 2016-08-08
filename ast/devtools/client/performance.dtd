@@ -51,10 +51,14 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+<!ENTITY performanceUI.toolbar.memory-calltree "Allugamientos">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Amuesa u s'allugó la memoria na grabación.">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.selfDuration.tooltip     "La cantidá de tiempu gastao namái nesta función.">
+<!ENTITY performanceUI.table.samples                  "Amueses">
+<!ENTITY performanceUI.table.function                 "Función">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
