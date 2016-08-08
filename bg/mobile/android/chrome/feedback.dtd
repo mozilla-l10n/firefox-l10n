@@ -4,6 +4,7 @@
 
 <!ENTITY feedbackHeader2.label          "Инструменти за обратна връзка">
 
+<!ENTITY feedback.communicate.title     "Разкажете ни!">
 <!ENTITY feedback.feedback.title        "Дайте обратна връзка">
 <!ENTITY feedback.feedback.good         "Добро">
 <!ENTITY feedback.feedback.bad          "Лошо">

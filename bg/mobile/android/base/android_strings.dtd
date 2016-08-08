@@ -5,9 +5,17 @@
 <!ENTITY firstrun_panel_title_welcome "Добре дошли">
 
 <!ENTITY firstrun_urlbar_message "Добре дошли в &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Намирайте нещата бързо с удобни подсказки при търсене.">
 <!ENTITY firstrun_bookmarks_title "История">
+<!ENTITY firstrun_bookmarks_message "Любимите ви неща най-напред">
+<!ENTITY firstrun_bookmarks_subtext "Показване на резултати от отметките и историята при търсене.">
 <!ENTITY firstrun_data_title "Данни">
 <!ENTITY firstrun_data_message "По-малко данни, повече спестявания">
+<!ENTITY firstrun_data_subtext2 "Изключете изображенията, за да пестите данни от всяка посетена страница.">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, винаги до вас">
+<!ENTITY firstrun_sync_subtext "Синхронизирайте разделите, паролите и всичко друго където и да сте.">
+<!ENTITY firstrun_signin_message "Свържете се, започнете">
 
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
@@ -47,6 +55,7 @@
 <!ENTITY history_yesterday_section "Вчера">
 
 <!ENTITY search "Търсене">
+<!ENTITY edit_mode_cancel "Отказ">
 
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -87,6 +96,8 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 
+<!ENTITY pref_category_privacy_summary4 "Проследяване, регистрации, избор на данни">
+<!ENTITY pref_category_logins "Регистрации">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -95,6 +106,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_manage_logins "Управление на регистрации">
 
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -169,6 +181,8 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 
+<!ENTITY pref_sync_summary2 "Синхронизиране на раздели, отметки, регистрации, история">
+<!ENTITY pref_private_data_passwords2 "Запазени регистрации">
 
 
 
@@ -193,6 +207,7 @@ size. -->
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 
+<!ENTITY logins "Регистрации">
 
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -205,6 +220,10 @@ size. -->
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_edit_username_hint "Потребителско име">
+<!ENTITY doorhanger_login_edit_password_hint "Парола">
+<!ENTITY doorhanger_login_edit_toggle "Показване на паролата">
+<!ENTITY doorhanger_login_select_title "Копиране на паролата от">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
@@ -221,11 +240,13 @@ size. -->
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_cancel       "Отказ">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
 
+<!ENTITY button_cancel "Отказ">
 
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
@@ -290,6 +311,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 
+<!ENTITY updater_downloading_title_failed2 "Грешка при изтегляне">
 
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
@@ -298,6 +320,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 
     <!-- Guest mode -->
+<!ENTITY guest_session_dialog_cancel "Отказ">
 
 
 <!-- Miscellaneous -->
