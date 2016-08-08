@@ -12,7 +12,7 @@
 <!ENTITY host       "Сървър:">
 <!ENTITY port       "Порт:">
 <!ENTITY connect    "Свързване">
-<!ENTITY connecting "В процес на свързване…">
+<!ENTITY connecting "Свързване…">
 <!ENTITY availableAddons "Достъпни отдалечени добавки:">
 <!ENTITY availableTabs "Достъпни отдалечени раздели:">
 <!ENTITY availableProcesses "Достъпни отдалечени процеси:">

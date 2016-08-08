@@ -51,17 +51,17 @@
 <!ENTITY netReset.title "Връзката беше прекъсната">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Просрочено време на връзката">
+<!ENTITY netTimeout.title "Времето за изчакване при свързване изтече">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Адресът не е разпознат">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Може би трябва да инсталирате друг софтуер, за да отворите този адрес.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Вероятно ще трябва да инсталирате друг софтуер, за да отворите този адрес.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Прокси сървърът отказва свързване">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Проверете дали настройките на проксито са правилни.</li> <li>Свържете се с мрежовия администратор и проверете дали прокси сървърът работи.</li> </ul>">
+<!ENTITY proxyConnectFailure.title "Прокси сървърът отказва връзката">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Уверете се, че настройките на прокси сървъра са правилни.</li> <li>Свържете се с мрежовия администратор и проверете дали прокси сървърът работи.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Прокси сървърът не може да бъде намерен">
-<!ENTITY proxyResolveFailure.longDesc "<ul><li>Проверете дали настройките на прокси сървъра са правилни.</li><li>Проверете дали връзката на компютъра с мрежата е наред.</li><li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверетедали на &brandShortName; е разрешен достъпът до Интернет.</li></ul>">
+<!ENTITY proxyResolveFailure.title "Прокси сървърът не може да бъде открит">
+<!ENTITY proxyResolveFailure.longDesc "<ul><li>Уверете се, че настройките на прокси сървъра са правилни.</li><li>Проверете дали връзката на компютъра с мрежата е наред.</li><li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете дали на &brandShortName; е разрешен достъпът до Интернет.</li></ul>">
 
 <!ENTITY redirectLoop.title "Страницата не пренасочва правилно">
 <!ENTITY redirectLoop.longDesc "<ul><li>Такъв проблем може да е причинен от изключване или забраняване на бисквитки.</li></ul>">
@@ -79,13 +79,13 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "Собственикът на <span class='hostname'/> е настроил уеб сайта неправилно. За да ви защити от кражба на информация, &brandShortName; отказа връзката със сайта.">
 
 <!ENTITY sharedLongDesc "<ul>
-  <li>Страницата може да е временно недостъпна или твърде заета. Опитайте пак след малко.</li>
-  <li>Ако не можете да заредите друга страница, проверете хардуера на компютъра.</li>
+  <li>Сайтът може да е временно недостъпен или натоварен. Опитайте отново след малко.</li>
+  <li>Ако не можете да заредите друга страница, проверете връзката с Интернет.</li>
   <li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете дали на &brandShortName; е разрешен достъпът до Интернет.</li>
 </ul>">
 
 <!ENTITY cspBlocked.title "Блокирано от Content Security Policy">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото страницата е с политика за сигурност, което го забранява.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото тя има политика за сигурност, която го забранява.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Грешка на развалено съдържание">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Не може да се покаже страницата, която се опитвате на видите, защото беше открита грешка при прехвърлянето на данни.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
@@ -109,7 +109,7 @@ was trying to connect. -->
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Допълнителна информация: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Допълнително">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> използва технологии за защита, които са остарели и уязвими за атака. Атакуваща страна може да разкрие информация, която си мислите, че е в безопасност.">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> използва остаряла технология за сигурност, уязвима към атаки. Такива атаки могат лесно да разкрият информация, която мислите, че е защитена.">
 <!ENTITY weakCryptoAdvanced.override "(Не е защитено) Опит за зареждане на <span class='hostname'></span>, използвайки остарели нива на защита">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
@@ -123,7 +123,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "Връзката е незащитена">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> използва остаряла технология за сигурност, уязвима към атаки. Такива атаки може лесно да разкрият информация, която мислите, че е защитена. Администраторът на сайта трябва да поправи сървъра преди да може да използвате сайта.</p><p>Код на грешка: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> използва остаряла технология за сигурност, уязвима към атаки. Такива атаки могат лесно да разкрият информация, която мислите, че е защитена. Администраторът на сайта трябва да поправи сървъра преди да може да използвате сайта.</p><p>Код на грешка: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY prefReset.longDesc "Изглежда вашите настройките на сигурността може да са предизвикали това. Искате ли да възстановите оригиналните настройки?">
 <!ENTITY prefReset.label "Възстановяване на оригиналните настройки">

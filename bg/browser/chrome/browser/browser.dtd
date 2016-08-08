@@ -115,7 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Вписване в &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Отваряне настройките на &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Свържете се наново в &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Свързване наново с &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Проверка на сметка">
 
 
