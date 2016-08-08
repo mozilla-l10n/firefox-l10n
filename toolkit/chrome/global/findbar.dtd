@@ -14,3 +14,6 @@
 <!ENTITY caseSensitive.label "Groß-/Kleinschreibung">
 <!ENTITY caseSensitive.accesskey "G">
 <!ENTITY caseSensitive.tooltiptext "Bei der Suche zwischen Groß- und Kleinschreibung unterscheiden">
+<!ENTITY entireWord.label "Ganze Wörter">
+<!ENTITY entireWord.accesskey "W">
+<!ENTITY entireWord.tooltiptext "Nur nach vollständig übereinstimmenden Wörtern suchen">
