@@ -6,7 +6,7 @@
 <!ENTITY safeb.palm.decline.label "Пренебрегване на предупреждението">
 <!ENTITY safeb.palm.reportPage.label "Защо е блокирана тази страница?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Докладвана враждебна страница!">
+<!ENTITY safeb.blocked.malwarePage.title "Страница докладвана като враждебна!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Сайтът <span id='malware_sitename'/> е докладван като враждебен и беше блокиран според вашите настройки за безопасност.">
 

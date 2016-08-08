@@ -55,17 +55,23 @@
 <!ENTITY contentEncodingError.title "Грешка в кодировката на съдържанието">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
+<!ENTITY unsafeContentType.title "Опасен вид файл">
 
+<!ENTITY netReset.title "Връзката беше прекъсната">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY netTimeout.title "Времето за изчакване при свързване изтече">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Адресът не е разпознат">
 
+<!ENTITY proxyConnectFailure.title "Прокси сървърът отказва връзката">
 
+<!ENTITY proxyResolveFailure.title "Прокси сървърът не може да бъде открит">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY redirectLoop.title "Страницата не пренасочва правилно">
 
 <!ENTITY unknownSocketType.title "Неочакван отговор от сървъра">
 <!ENTITY unknownSocketType.longDesc "<ul><li>Проверете дали системата има инсталиран Personal Security Manager.</li><li>Настройките на сървъра може да са нестандартни.</li></ul>">

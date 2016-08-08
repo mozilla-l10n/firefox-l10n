@@ -3,10 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Несвързан">
+<!ENTITY sync.connect               "Свързване">
+<!ENTITY sync.connected             "Свързан">
 <!ENTITY sync.details               "Подробности">
 <!ENTITY sync.deviceName            "Това устройство">
 <!ENTITY sync.disconnect            "Изключване">
+<!ENTITY sync.syncNow               "Синхронизиране">
 
+<!ENTITY sync.setup.title           "Свързване към Sync">
+<!ENTITY sync.fallback              "Не съм близо до компютъра си…">
 <!ENTITY sync.account               "Име на сметката">
 <!ENTITY sync.password              "Парола">
 <!ENTITY sync.recoveryKey           "Ключ за възстановяване">
@@ -15,3 +21,4 @@
 
 <!ENTITY sync.pair.title            "Сдвояване на устройство">
 <!ENTITY sync.setup.close           "Затваряне">
+<!ENTITY sync.setup.waitingdownload "Вашите данни се изтеглят във фонов режим. Можете да затворите този прозорец по всяко време.">

@@ -7,6 +7,7 @@
 <!ENTITY firstrun_urlbar_message "Добре дошли в &brandShortName;">
 <!ENTITY firstrun_bookmarks_title "История">
 <!ENTITY firstrun_data_title "Данни">
+<!ENTITY firstrun_data_message "По-малко данни, повече спестявания">
 
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
