@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "Derbyn cwcis o wefannau">
 <!ENTITY  acceptCookies.accesskey       "w">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Derbyn cwcis trydydd parti:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "t">
 <!ENTITY  acceptThirdParty.always.label   "Bob tro">
 <!ENTITY  acceptThirdParty.never.label    "Byth">
 <!ENTITY  acceptThirdParty.visited.label  "O'r ymwelwyd">
@@ -104,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Gosodiadau…">
 <!ENTITY  clearOnCloseSettings.accesskey "G">
 
-
-
-
+<!ENTITY  browserContainersHeader.label         "Tabiau Cynwysyddion">
+<!ENTITY  browserContainersLearnMore.label      "Dysgu rhagor">
+<!ENTITY  browserContainersEnabled.label        "Galluogi Tabiau Cynwysyddion">
+<!ENTITY  browserContainersEnabled.accesskey    "G">

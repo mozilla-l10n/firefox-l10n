@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "reolaeth o'ch pwyntydd. Pwyswch Esc i adennill rheolaeth.">
+<!ENTITY pointerlockWarning.generic.label "Mae gan y ddogfen hon reolaeth o'ch pwyntydd. Pwyswch Esc i adennill rheolaeth.">
 
 <!ENTITY closeWindow.label "Cau Ffenestr">
 <!ENTITY closeWindow.accesskey "F">
@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Agor Ffrâm mewn Ffenestr Newydd">
 <!ENTITY openFrameCmd.accesskey       "F">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Agor Dolen mewn Cynhwysydd Newydd">
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Dangos y Ffrâm yma'n Unig">
 <!ENTITY showOnlyThisFrameCmd.accesskey "D">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "G">
 
 <!ENTITY editBookmark.done.label                     "Gorffen">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "T">
 
 <!ENTITY identity.connectionSecure "Cysylltiad Pell">
 <!ENTITY identity.connectionNotSecure "Nid yw'r Cysylltiad yn Ddiogel">
