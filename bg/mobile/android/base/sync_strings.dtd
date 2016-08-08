@@ -54,6 +54,8 @@
 <!ENTITY fxaccount_status_sync_server 'Сървър на Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: включен'>
+<!ENTITY fxaccount_status_needs_verification2 'Сметката трябва да бъде проверена. Докоснете за повторно изпращане на писмото за потвърждение.'>
+<!ENTITY fxaccount_status_needs_credentials 'Не може да бъде осъществена връзка. Докоснете за вписване.'>
 <!ENTITY fxaccount_status_bookmarks 'Отметки'>
 <!ENTITY fxaccount_status_history 'История'>
 <!ENTITY fxaccount_status_passwords2 'Регистрации'>
