@@ -14,3 +14,6 @@
 <!ENTITY caseSensitive.label "Concasar mayúscules">
 <!ENTITY caseSensitive.accesskey "C">
 <!ENTITY caseSensitive.tooltiptext "Fai concasar les mayúscules">
+<!ENTITY entireWord.label "Pallabres completes">
+<!ENTITY entireWord.accesskey "a">
+<!ENTITY entireWord.tooltiptext "Guetar namái pallabres completes">

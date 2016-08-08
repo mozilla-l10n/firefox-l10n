@@ -94,6 +94,10 @@ Ping
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Escalares
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrames
 ">
