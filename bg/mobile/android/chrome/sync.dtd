@@ -17,6 +17,7 @@
 <!ENTITY sync.account               "Име на сметката">
 <!ENTITY sync.password              "Парола">
 <!ENTITY sync.recoveryKey           "Ключ за възстановяване">
+<!ENTITY sync.customServer          "Използване на друг сървър">
 <!ENTITY sync.setup.connect         "Свързване">
 <!ENTITY sync.setup.cancel          "Отказ">
 
