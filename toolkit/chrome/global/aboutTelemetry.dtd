@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  فروپاشی‌های Threadها">
 
+<!ENTITY aboutTelemetry.scalarsSection "  عددی">
 
 <!ENTITY aboutTelemetry.histogramsSection "  نمودارهای هیستوگرام">
 
