@@ -8,7 +8,7 @@
 <!ENTITY projectMenu_importPackagedApp_label "پیکیجڈ اپلی کیشن کھولیں">
 
 <!ENTITY projectMenu_importHostedApp_label "مءیزبان ایپلیکیشن… کھولیں">
-
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "ایپلیکیشن… کھولیں">
 
 <!ENTITY projectMenu_play_label "تنصیب کریں اور چلائے">
@@ -25,12 +25,13 @@
 
 <!ENTITY projectMenu_refreshTabs_label "ٹیب تازہ کریں">
 
+<!ENTITY runtimeMenu_label "چلنے کی">
 
 <!ENTITY runtimeMenu_disconnect_label "منقطع کریں">
 
+<!ENTITY runtimeMenu_showPermissionTable_label "اجازتیں جدول">
 
-
-
+<!ENTITY runtimeMenu_takeScreenshot_label "سکرین شوٹ">
 
 <!ENTITY runtimeMenu_showDetails_label "چلنے کی معلومات">
 
@@ -38,7 +39,7 @@
 
 <!ENTITY runtimeMenu_showDevicePrefs_label "آلہ ترجیحات">
 
-
+<!ENTITY runtimeMenu_showSettings_label "آلہ کی سیٹکگیں">
 
 
 <!ENTITY viewMenu_label "نظارہ">
@@ -114,75 +115,93 @@
 
 
 
+<!ENTITY prefs_options_showeditor_tooltip "اندرونی تدوین کار دکھائیں">
+<!ENTITY prefs_options_tabsize "ٹیب سائز">
+<!ENTITY prefs_options_expandtab "نرم ٹیب">
+<!ENTITY prefs_options_expandtab_tooltip "ٹیب کے کریکٹر کے بجائے وقفے کا استعمال کریں">
+<!ENTITY prefs_options_detectindentation "خودکار حاشیہ">
+<!ENTITY prefs_options_detectindentation_tooltip "گمان پوٹ اساس پر ماخذ مواد">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY prefs_options_autocomplete_tooltip "کوڈ خودکار تکمیل اہل بنائیں">
+<!ENTITY prefs_options_autoclosebrackets "خودکار بند خطوط وحدانی">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "خود کار طریقے سے بند خطوط وحدانی داخل کریں">
+<!ENTITY prefs_options_keybindings "کلیدی باندھ">
 <!ENTITY prefs_options_keybindings_default "طے شدہ">
-
-
+<!ENTITY prefs_options_autosavefiles "خودکار محفوظ مسل">
+<!ENTITY prefs_options_autosavefiles_tooltip "پہلے پراجیکٹ چلائے خود کار طریقے سے اس منصوبےکو مسل کو تدوین کریں">
 <!-- Permissions Table -->
+
+<!ENTITY permissionstable_title "جدول اجازتیں">
 
 <!-- Runtime Details -->
 
+<!ENTITY runtimedetails_title "چلنے کے وقت معلومات">
 
-
-
-
-
+<!ENTITY runtimedetails_summonADBRoot "جڑ آلہ">
+<!ENTITY runtimedetails_ADBRootWarning "(کھلے بوٹلوڈر کی طلب ہے)">
+<!ENTITY runtimedetails_unrestrictedPrivileges "غیر محدود DevTools استحقاق:">
+<!ENTITY runtimedetails_requestPrivileges "اعلی استحقاق کی درخواست کریں">
+<!ENTITY runtimedetails_privilegesWarning "(آلہ دوبارہ شروع کرے گا. جڑ تک رسائی کی طلب ہے.)">
 <!-- Device Preferences and Settings -->
 
 <!ENTITY device_typeboolean "بولیائی">
 <!ENTITY device_typenumber "سالم عدد">
 <!ENTITY device_typestring "سٹرنگ">
 <!ENTITY device_typeobject "آبجیکٹ">
-
+<!ENTITY device_typenone "ایک قسم منتخب کریں">
 <!-- Device Preferences -->
 
 <!ENTITY devicepreference_title "آلہ ترجیحات">
+<!ENTITY devicepreference_search "ترجیحات تلاش کریں">
+<!ENTITY devicepreference_newname "نیا ترجیح کا نام">
 
-
-
-
+<!ENTITY devicepreference_addnew "نئے ترجیح میں اضافہ کریں">
 <!-- Device Settings -->
 
+<!ENTITY devicesetting_title "آلہ سیٹکگیں">
 
 
-
+<!ENTITY devicesetting_newtext "سیٹنگ قدر">
+<!ENTITY devicesetting_addnew "نئی سیٹ کے لئے اضافہ کریں">
 <!-- Monitor -->
+
+<!ENTITY monitor_title "مانیٹر">
 <!ENTITY monitor_help "مدد">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+
+<!ENTITY wifi_auth_header "کلائنٹ کی شناخت">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "نقطہ اختتام سے آپ کے لئے منسلک کر رہے ہیں اس سلسلے کی توثیق کرنے کو مزید معلومات درکار. آپ کی دوسری ڈیوائس پر فوری طور پر کے ذریعے ذیل میں QR کوڈ کو اسکین کریں.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "کوئی QR سکینر کی ترغیب نہیں؟">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "ایک QR سکینر کی ترغیب؟">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-
+<!ENTITY wifi_auth_token_request "اپنے دوسرے آلہ کے بجائے ایک QR کوڈ کو سکین کا ٹوکن مانگے تو دوسرے آلہ کے لئے ذیل میں قدر کو کاپی کریں براہ مہربانی:">
+<!ENTITY wifi_auth_qr_size_note "اگر کنکشن کی کامیابی کے لیئے QR کوڈ بہت چھوٹا نظر آئے تو زوم کرنے کی کوشش کریں تاکہ دریچہ بڑا ہو.">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "پری پیکیجنگ حکم لاگز">
 <!-- Simulator Options -->
 
+<!ENTITY simulator_title "سملیٹر اختیارات">
+<!ENTITY simulator_remove "سملیٹر حذف کریں">
 
 
-
+<!ENTITY simulator_software "سافٹ ویئر">
 <!ENTITY simulator_version "ورژن">
 <!ENTITY simulator_profile "پروفائل">
 
 <!ENTITY simulator_device "آلہ">
 <!ENTITY simulator_screenSize "سکرین">
 <!ENTITY simulator_pixelRatio "دانہ کا تناسب">
-
-
-
+<!ENTITY simulator_tv_data "ٹی وی تخروپن">
+<!ENTITY simulator_tv_data_open "موافقت پذیری ڈیٹا">
+<!ENTITY simulator_tv_data_open_button "کھولیں تشکیل ڈائرکٹری ...">
