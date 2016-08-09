@@ -18,6 +18,8 @@
   -  along with the button that triggers a page refresh. -->
 <!-- LOCALIZATION NOTE (webAudioEditorUI.emptyNotice): This is the label shown
   -  while the page is refreshing and the tool waits for a audio context. -->
+
+<!ENTITY webAudioEditorUI.emptyNotice     "آڈیو  کے سیاق کے بننے کا انتظار کر رہا ہے…">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.tab.properties2): This is the label shown
   -  for the properties tab view. -->
 

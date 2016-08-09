@@ -26,12 +26,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "فعال">
 <!ENTITY aboutSupport.experimentEndDate "تاریخ اختتام">
 <!ENTITY aboutSupport.experimentHomepage "ابتدائی صفحہ">
-
+<!ENTITY aboutSupport.experimentBranch "شاخ">
 
 <!ENTITY aboutSupport.appBasicsTitle "ایپلی کیشن BASIC">
 <!ENTITY aboutSupport.appBasicsName "نام">
 <!ENTITY aboutSupport.appBasicsVersion "ورژن">
-
+<!ENTITY aboutSupport.appBasicsBuildID "بلڈ-آی ڈی">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "سابقات تازہ کریں">

@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "یہ محض تجرباتی ہے- صرف کسی بڑے کی موجودگی میں استعمال کریں-">
 <!ENTITY aboutNetworking.showNextTime          "اگلی بار یہ تنبیہ نمائش کریں">
 <!ENTITY aboutNetworking.ok                    "ٹھیک ہے">
-
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "ساکٹس">
 <!ENTITY aboutNetworking.dns                   "ڈی این ایس">
 <!ENTITY aboutNetworking.websockets            "ویب ساکٹس">
@@ -30,6 +30,6 @@
 <!ENTITY aboutNetworking.bytesSent             "بائیٹس بھیج دئیے گیے">
 <!ENTITY aboutNetworking.bytesReceived         "بائیٹس وصولے گیے">
 
-
+<!ENTITY aboutNetworking.dnsLookupButton       "حل کریں">
 
 

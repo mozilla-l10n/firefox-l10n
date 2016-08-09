@@ -17,9 +17,9 @@
 
 <!ENTITY projectMenu_debug_label "ایپلی کیشن ٹھیک کریں">
 
+<!ENTITY projectMenu_remove_label "پراجیکٹ ہٹائیں">
 
-
-
+<!ENTITY projectMenu_showPrefs_label "ترجیحات">
 
 <!ENTITY projectMenu_manageComponents_label "فالتوجزوبندوبست کریں">
 
@@ -66,7 +66,7 @@
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
-
+<!ENTITY key_zoomout "-">
 
 
 <!ENTITY projectPanel_myProjects "میرے منصوبے">
@@ -81,6 +81,8 @@
 <!ENTITY runtimePanel_nousbdevice "آپ کے آلے کو نہیں دیکھ سکتے؟">
 <!ENTITY runtimePanel_refreshDevices_label " الات تازہ کریں">
 <!-- Lense -->
+
+<!ENTITY details_valid_header "جائز">
 
 
 <!ENTITY details_description "تصریح">
@@ -132,7 +134,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "جدول اجازتیں">
-
+<!ENTITY permissionstable_name_header "نام">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "چلنے کے وقت معلومات">
