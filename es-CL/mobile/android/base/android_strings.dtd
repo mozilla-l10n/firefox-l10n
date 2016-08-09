@@ -284,6 +284,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Activity Stream">
+<!ENTITY pref_activity_stream_summary "Una vista espectacular del historial y una página de inicio reimaginada hacen que sea más fácil que nunca buscar exactamente lo que necesitas en &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Ahora con protección de seguimiento">
 <!ENTITY tracking_protection_prompt_text "Bloquea activamente elementos de rastreo para que no te tengas que preocupar.">
