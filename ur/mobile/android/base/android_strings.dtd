@@ -24,14 +24,14 @@
 <!ENTITY firstrun_tabqueue_title "روابط">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "ٹیب کی قطار چالو کریں">
-<!ENTITY firstrun_tabqueue_subtext_off "بعد کے لیئے ربط مہفوظ کریں &brandShortName; میں جب انکو دوسری ایپس میں تھاپیں">
+<!ENTITY firstrun_tabqueue_subtext_off "بعد میں میں اور برانڈ مختصر نام کے لئے لنکس کو محفوظ کریں؛ دیگر اطلاقات میں ان ٹائپ جب.">
 
 <!ENTITY firstrun_tabqueue_message_on "کامیابی!">
 <!ENTITY firstrun_tabqueue_subtext_on "آپ پمیشہ &amp;سیٹکگیں؛ سے پند کرسکتے ہیں &pref_category_general;. کے نیچے">
 
 <!ENTITY firstrun_readerview_title "مضامین">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-<!ENTITY firstrun_readerview_message "بے ترتیبی کو کھوئیں">
+<!ENTITY firstrun_readerview_message "بے ترتیبی سے کھو دیں">
 <!ENTITY firstrun_readerview_subtext "پڑھنے ولے کے تاثرات کا نظارہ کریں تاکہ عبارت بہتر طریقے سے پڑھیں \u2014 حتہ کہ آف لائن">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
@@ -91,7 +91,7 @@
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
-<!ENTITY reader_switch_to_bookmarks "سوئچ">
+<!ENTITY reader_switch_to_bookmarks "تبدیل">
 
 <!ENTITY history_today_section "آج">
 <!ENTITY history_yesterday_section "کل">
@@ -260,7 +260,7 @@
 <!ENTITY pref_show_web_fonts "ویب فانٹ نمائش کریں">
 <!ENTITY pref_show_web_fonts_summary2 "حب صفحہ لوڈ ہو رہا ہو بعیدفانٹ کو ڈاؤن لوڈ کریں">
 
-<!ENTITY pref_tracking_protection_title2 "سراغ راہ سے حفاظت">
+<!ENTITY pref_tracking_protection_title2 "ٹریکنگ حفاظت">
 <!ENTITY pref_tracking_protection_summary3 "نجی براؤزنگ میں اہل کردہ">
 <!ENTITY pref_donottrack_title "میرا سراغ نہ لگائیں">
 <!ENTITY pref_donottrack_summary "&brandShortName; سائٹوں کو بتائے گا کہ آپ اپنا سراغ نہیں لگوانا چاہتے">
@@ -329,11 +329,11 @@
 <!ENTITY content_notification_action_settings2 "سیٹنگیں">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "ابھی پڑھیں">
+<!ENTITY content_notification_action_read_now "اب پڑھیں">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "&formatS; پر تازہ کاری کریں">
+<!ENTITY content_notification_updated_on "تازہ کاری مکمل &formatS;">
 
 <!ENTITY pref_char_encoding "کریکٹر ضابطہ بندی">
 <!ENTITY pref_char_encoding_on "مینیو دکھائیں">
@@ -464,7 +464,7 @@ size. -->
 <!ENTITY share_image_failed "یہ نقش شیئر کرنے میں ناکام">
 <!ENTITY save_as_pdf "بطور PDF محفوظ کریں">
 <!ENTITY print "پرنٹ کریں">
-<!ENTITY find_in_page "صفحہ میں ڈھونڈیں">
+<!ENTITY find_in_page "صفحہ میں تلاش کریں">
 <!ENTITY desktop_mode "ڈیسک ٹاپ سائٹ کی درخواست کریں">
 <!ENTITY page "صفحہ">
 <!ENTITY tools "ٹول">
@@ -653,7 +653,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "آپ نے ناقابل بھروسا مواد سے حفاظت کو نا اہل بنا دیا ہے۔">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY doorhanger_tracking_title2 "سراغ راہ سے حفاظت">
+<!ENTITY doorhanger_tracking_title2 "سراغ راہ حفاظت">
 <!ENTITY doorhanger_tracking_state_enabled "اہل بنایا گیا">
 <!ENTITY doorhanger_tracking_state_disabled "نا اہل بنائیں">
 <!ENTITY doorhanger_tracking_message_enabled1 "آپ کے آن لائن رویہ کی سراغ راہ کی کوشش کرنے والے کو بلاک کر دیا گیا ہے۔">
@@ -821,10 +821,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "ہوم اسکرین میں شامل کریں">
 
 <!ENTITY helper_first_offline_bookmark_title "آف لائن پڑھیں">
-<!ENTITY helper_first_offline_bookmark_message "اپنا پڑھینے کا نظارے کی شہ نشانیوں میں ڈھونڈیں ، ہتہ کہ آفلئن ہوں">
+<!ENTITY helper_first_offline_bookmark_message "نشانیاں میں اپنے قارئین کے لنک اشیاء، بھی آف لائن تلاش کریں.">
 <!ENTITY helper_first_offline_bookmark_button "نشانیوں پر جائیں">
 
 <!ENTITY helper_triple_readerview_open_title "آف لائن دستیاب">
-<!ENTITY helper_triple_readerview_open_message "نشانی پڑھنے والا شہ کا نظارہ کریں تاکہ آفلائین پڑھ سکیں۔۔">
+<!ENTITY helper_triple_readerview_open_message "نشانی پڑھنے والا شہ کا نظارہ کریں تاکہ آفلائین پڑھ سکیں۔">
 <!ENTITY helper_triple_readerview_open_button "نشانیوں میں اضافہ کریں">
 
