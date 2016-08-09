@@ -95,9 +95,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "تختہ تراشہ پر خام کوائف نقل کریں">
 
 
+<!ENTITY aboutSupport.safeModeTitle "محفوظ موڈ آزمائیں">
 
 
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "فیچر">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "تشخیصیات">
 
 
 

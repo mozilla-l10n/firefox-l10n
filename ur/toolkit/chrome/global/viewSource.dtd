@@ -71,7 +71,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "د">
 <!ENTITY findAgainCmd.commandkey "گ">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY backCmd.label "واپس">
 <!ENTITY backCmd.accesskey "و">
@@ -80,6 +80,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "]">
 <!ENTITY goForwardCmd.commandKey "[">
 
-
+<!ENTITY copyLinkCmd.label "ربط محل وقوع نقل کریں">
+<!ENTITY copyLinkCmd.accesskey "ر">
 <!ENTITY copyEmailCmd.label "ای میل پتہ نقل کریں">
 <!ENTITY copyEmailCmd.accesskey "ا">
