@@ -9,3 +9,4 @@
 <!ENTITY inspectorAddNode.label "Crea nuovo nodo">
 <!ENTITY inspectorAddNode.accesskey "C">
 <!ENTITY inspectorEyeDropper.label "Cattura un colore nella pagina">
+<!ENTITY inspectorBreadcrumbsGroup "Barra di navigazione">
