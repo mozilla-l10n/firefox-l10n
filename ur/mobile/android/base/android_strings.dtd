@@ -24,7 +24,7 @@
 <!ENTITY firstrun_tabqueue_title "روابط">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "ٹیب کی قطار چالو کریں">
-<!ENTITY firstrun_tabqueue_subtext_off "بعد میں میں اور برانڈ مختصر نام کے لئے لنکس کو محفوظ کریں؛ دیگر اطلاقات میں ان ٹائپ جب.">
+<!ENTITY firstrun_tabqueue_subtext_off "بعد میں میں اور &brandShortName; لئے لنکس کو محفوظ کریں؛ دیگر اطلاقات میں ان ٹیپ.">
 
 <!ENTITY firstrun_tabqueue_message_on "کامیابی!">
 <!ENTITY firstrun_tabqueue_subtext_on "آپ پمیشہ &amp;سیٹکگیں؛ سے پند کرسکتے ہیں &pref_category_general;. کے نیچے">
