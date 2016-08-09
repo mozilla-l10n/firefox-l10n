@@ -19,6 +19,7 @@
 <!ENTITY playSound1.accesskey              "у">
 <!ENTITY showAnimatedAlert.label          "Показване на известие">
 <!ENTITY showAnimatedAlert.accesskey      "и">
+<!ENTITY notificationAlertSettings.label  "Можете да изключите предупрежденията от панела Уведомяване в Системни настройки.">
 <!ENTITY customizeMailAlert.label         "Нагласяване…">
 <!ENTITY customizeMailAlert.accesskey     "Н">
 
