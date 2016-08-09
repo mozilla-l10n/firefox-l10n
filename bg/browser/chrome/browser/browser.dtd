@@ -513,7 +513,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Отмятане на рамката">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
 <!ENTITY emailPageCmd.label           "Препратка по ел. поща">
-<!ENTITY emailPageCmd.accesskey       "П">
+<!ENTITY emailPageCmd.accesskey       "е">
 <!ENTITY savePageCmd.label            "Запазване на страницата като…">
 <!ENTITY savePageCmd.accesskey        "З">
 <!-- alternate for content area context menu -->
