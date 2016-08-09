@@ -32,17 +32,17 @@
 
 <!ENTITY healthReportDesc.label          "Помага за разбирането на производителността на браузъра и поделя данни с &vendorShortName; за изправността му">
 <!ENTITY enableHealthReport.label        "Включване на Доклада за изправност на &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "Д">
+<!ENTITY enableHealthReport.accesskey    "и">
 <!ENTITY healthReportLearnMore.label     "Научете повече">
 
 <!ENTITY telemetryDesc.label             "Споделя анонимни данни за използването, производителността, хардуера, настройките на браузъра ви с &vendorShortName; за да ни помогне да направим &brandShortName; по-добър">
 <!ENTITY enableTelemetryData.label       "Споделяне на допълнителни данни (напр. Телеметрия)">
-<!ENTITY enableTelemetryData.accesskey   "д">
+<!ENTITY enableTelemetryData.accesskey   "С">
 <!ENTITY telemetryLearnMore.label        "Научете повече">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; изпраща информация за сривовете, за да помогне на &vendorShortName; да направи този браузър по-добър и по-сигурен">
 <!ENTITY enableCrashReporter.label       "Включване на Доклад за срив">
-<!ENTITY enableCrashReporter.accesskey   "Д">
+<!ENTITY enableCrashReporter.accesskey   "с">
 <!ENTITY crashReporterLearnMore.label    "Научете повече">
 
 <!ENTITY networkTab.label                "Мрежа">
