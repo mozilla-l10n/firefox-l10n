@@ -283,6 +283,8 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY pref_activity_stream "Aktivitetsstarum">
+
 
 <!ENTITY tracking_protection_prompt_title "No med sporingsvern">
 <!ENTITY tracking_protection_prompt_text "Aktivt blokker sporingselement slik at du slepp å uroa deg.">
@@ -396,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Synkroniserte faner">
 
 <!ENTITY pref_default_browser "Vel som standard nettlesar">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Besøk Mozilla Support">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ/OSS(Ofte Stilte Spørsmål)">
 <!ENTITY pref_vendor_feedback "Gje tilbakemelding">
