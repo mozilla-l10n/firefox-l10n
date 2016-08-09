@@ -280,7 +280,7 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "Ichinan taq ruwi\u0027">
-
+<!ENTITY pref_custom_tabs_summary "Tiya\u0027 q\u0027ij chi ri kichokoy aj rox winäq kejaq ri URLs rik\u0027in jun ichinan chuqa\u0027 ütz wachib\u0027enïk.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 
