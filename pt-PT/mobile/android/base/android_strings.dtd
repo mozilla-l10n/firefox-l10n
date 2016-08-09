@@ -18,7 +18,7 @@
 <!ENTITY firstrun_signin_message "Ligue-se para começar">
 <!ENTITY firstrun_signin_button "Iniciar sessão no Sync">
 <!ENTITY  onboard_start_button_browser "Iniciar navegação">
-<!ENTITY firstrun_button_notnow "Não agora">
+<!ENTITY firstrun_button_notnow "Agora não">
 <!ENTITY firstrun_button_next "Seguinte">
 
 <!ENTITY firstrun_tabqueue_title "Ligações">
@@ -36,7 +36,7 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "Você">
-<!ENTITY firstrun_account_message "Instalou o &brandShortName; em outros dispositivos?">
+<!ENTITY firstrun_account_message "Instalou o &brandShortName; noutro dispositivo?">
 
 <!ENTITY  onboard_start_restricted1 "Mantenha-se seguro e em controlo com esta versão simplificada do &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
