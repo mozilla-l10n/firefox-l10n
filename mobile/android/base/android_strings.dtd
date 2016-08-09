@@ -280,9 +280,11 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "Egyéni lapok">
-
+<!ENTITY pref_custom_tabs_summary "Külső appok megnyithatnak URL-eket egyéni megjelenéssel.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY pref_activity_stream "Tevékenységfolyam">
+<!ENTITY pref_activity_stream_summary "A részletes előzményfolyam és az újratervezett kezdőlap mindennél egyszerűbbé teszik mindannak megtalálását, amit a &brandShortName;ban keres.">
 
 <!ENTITY tracking_protection_prompt_title "Most követés elleni védelemmel">
 <!ENTITY tracking_protection_prompt_text "Aktívan blokkolja a követő elemeket, hogy ne kelljen aggódnia.">
@@ -396,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Szinkronizált lapok">
 
 <!ENTITY pref_default_browser "Alapértelmezett böngészővé tétel">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla támogatás">
 <!ENTITY pref_about_firefox "A &brandShortName; névjegye">
 <!ENTITY pref_vendor_faqs "GYIK">
 <!ENTITY pref_vendor_feedback "Visszajelzés">
@@ -585,11 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "Böngészési előzmények törlése">
 <!ENTITY home_clear_history_confirm "Biztosan törölni kívánja az előzményeket?">
 <!ENTITY home_bookmarks_empty "A mentett könyvjelzők itt jelennek meg.">
-
+<!ENTITY home_closed_tabs_title2 "Legutóbb bezárt">
 <!ENTITY home_last_tabs_empty "Itt jelennek meg a legutóbbi lapok.">
-
-
+<!ENTITY home_restore_all "Összes visszaállítása">
+<!ENTITY home_closed_tabs_number "&formatD; lap">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 lap">
 <!ENTITY home_most_recent_empty "A legutóbb meglátogatott weboldalak itt jelennek meg.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
