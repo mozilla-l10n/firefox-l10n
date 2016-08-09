@@ -51,7 +51,7 @@
 <!ENTITY  finishedBackground.name         "تازہ کاری:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "یہ تازہ کاری &brandShortName; کے اگلی بار چلنے پر تنصیب کی جائے گی۔ آپ &brandShortName; کو ابھی پھر چلا سکتے ہیں، یا کام جاری رکھ کر بعد میں پھر چلا سکتے ہیں۔">
-
+<!ENTITY  finishedBackground.moreElevated "اس تازہ کاری کومنتظم کی استحقاق درکار ہے۔ تازہ کاری کی تنصیب اگلی مرتبہ ہو جائے گی جب &brandShortName; شروع ہوگا۔ آپ &brandShortName; کو ابھِی دوباره شروع کرسکتے ہیں، کام جاری رکھیں اور بعد میں دوبارہ شروع کریں، یا یہ تازہ کاری سے انکار کر دیں۔">
 
 <!ENTITY  update.details.label            "تفصیلات">
 <!ENTITY  update.installedOn.label        "تنصیب شدہ از:">

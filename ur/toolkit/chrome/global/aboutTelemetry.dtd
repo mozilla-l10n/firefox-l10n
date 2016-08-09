@@ -42,6 +42,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  دیرانہ لکھائی">
 
+<!ENTITY aboutTelemetry.sessionInfoSection " سیشن کی معلومات">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ایڈ اون کے ذریعے جمع کیے گئے ہسٹوگرام">
 

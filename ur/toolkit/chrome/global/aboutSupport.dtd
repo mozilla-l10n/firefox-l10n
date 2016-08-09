@@ -34,6 +34,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsBuildID "بلڈ-آی ڈی">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "چینل کی تازہ کاری کریں">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "سابقات تازہ کریں">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "تبدیلیوں کی تاریخ دکھائیں">
 
@@ -46,13 +48,15 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "چالو پلگ ان">
 <!ENTITY aboutSupport.appBasicsBuildConfig "بلڈ تشکیل">
 <!ENTITY aboutSupport.appBasicsUserAgent "صارف ایجنٹ">
-
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse " میموری استعمال کریں">
-
+<!ENTITY aboutSupport.appBasicsPerformance "کارکردگی">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsProfiles "پروفا ئلز">
 
 
+<!ENTITY aboutSupport.appBasicsSafeMode "محفوظ موڈ">
 
 <!ENTITY aboutSupport.showDir.label "ڈائریکٹری کھولیں">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -76,8 +80,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "گرافکس">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseIntegrity "تکمیلیت">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "تکمیلیت کی توثیق کریں">
 
 <!ENTITY aboutSupport.jsTitle "جاوا سکرپٹ">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
@@ -101,8 +105,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFeaturesTitle "فیچر">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "تشخیصیات">
 
-
-
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 
 
 
