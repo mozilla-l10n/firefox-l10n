@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "Q">
 <!ENTITY  unpinTab.label                     "Khulula iithebhu">
 <!ENTITY  unpinTab.accesskey                 "b">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Thumela iThebhu kwiSixhobo">
+<!ENTITY  sendTabToDevice.accesskey          "k">
+<!ENTITY  sendPageToDevice.label             "Thumela iPhepha kwiSixhobo">
+<!ENTITY  sendPageToDevice.accesskey         "k">
+<!ENTITY  sendLinkToDevice.label             "Thumela iLinki kwiSixhobo">
+<!ENTITY  sendLinkToDevice.accesskey         "k">
 <!ENTITY  moveToNewWindow.label              "Yise kwifestile entsha">
 <!ENTITY  moveToNewWindow.accesskey          "f">
 <!ENTITY  bookmarkAllTabs.label              "Faka iibhukhmakhi kuzo zonke iithebhu…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Bonisa zonke iithebhu">
 <!ENTITY showAllTabsCmd.accesskey "z">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Ngena &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Vula &syncBrand.shortName.label; iipriferensi">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "ilawula ipoyinta yakho. Cofa uEsc ukuze uphinde uthathe ulawulo.">
+<!ENTITY pointerlockWarning.generic.label "Olu xwebhu lulawula ipoyinta yakho. Cofa uEsc ukuze uphinde uthathe ulawulo.">
 
 <!ENTITY closeWindow.label "Vala iFestile">
 <!ENTITY closeWindow.accesskey "s">
@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "k">
 <!ENTITY openFrameCmd.label           "Vula isakhelo kwifestile entsha">
 <!ENTITY openFrameCmd.accesskey       "k">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Vula iLinki kwiThebhu Entsha Yekhonteyina">
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Bonisa Esi Sakhelo Kuphela">
 <!ENTITY showOnlyThisFrameCmd.accesskey "B">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "Y">
 
 <!ENTITY editBookmark.done.label                     "Kwenziwe">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Unxibelelwano lonxibelelwano">
 <!ENTITY identity.connectionNotSecure "Unxibelelwano alukhuselekanga">
