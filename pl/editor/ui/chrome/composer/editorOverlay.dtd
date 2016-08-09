@@ -25,9 +25,9 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label         "Wstaw">
 <!ENTITY insertMenu.accesskey     "s">
-<!ENTITY insertLinkCmd.label      "Odnośnik…">
-<!ENTITY insertLinkCmd.accesskey  "O">
-<!ENTITY insertLinkCmd.key        "L">
+<!ENTITY insertLinkCmd2.label "Odnośnik…">
+<!ENTITY insertLinkCmd2.accesskey "O">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label    "Kotwicę…">
 <!ENTITY insertAnchorCmd.accesskey "K">
 <!ENTITY insertImageCmd.label "Obraz…">
