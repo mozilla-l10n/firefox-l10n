@@ -283,6 +283,8 @@
 <!ENTITY pref_custom_tabs_summary "Tiya\u0027 q\u0027ij chi ri kichokoy aj rox winäq kejaq ri URLs rik\u0027in jun ichinan chuqa\u0027 ütz wachib\u0027enïk.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY pref_activity_stream "Ruk\u0027isib\u0027al taq samaj">
+<!ENTITY pref_activity_stream_summary "Jun jeb\u0027ël b\u0027anob\u0027äl ütz chi re ri awäch chuqa\u0027 jun rutikirib\u0027al ruxaq ri wachib\u0027en nub\u0027än chi man k\u0027ayew ta nawïl ri tajin nakanoj pan etal chuqa\u0027 pa &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Wakami rik\u0027in chajinem chuwäch kanoxïk">
 <!ENTITY tracking_protection_prompt_text "Q\u0027aton wakami ruch\u0027akulal kanoxïk, ruma ri\u0027 majun achike tamäy.">
@@ -396,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Ximon taq ruwi\u0027">
 
 <!ENTITY pref_default_browser "Tib\u0027an chi tok jun okik\u0027amaya\u0027l ri kan ruk\u0027amon wi pe">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Tab\u0027etz\u0027eta\u0027 Ruto\u0027ik Mozilla">
 <!ENTITY pref_about_firefox "Rutzijol &brandShortName;">
 <!ENTITY pref_vendor_faqs "Junelïk taq k\u0027utunïk">
 <!ENTITY pref_vendor_feedback "Titaq na\u0027oj">
