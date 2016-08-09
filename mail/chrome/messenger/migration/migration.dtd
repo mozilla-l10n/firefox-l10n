@@ -7,6 +7,7 @@
 
 <!ENTITY importFromWin.label            "Внасяне на настройки, настройки на регистрация, адресник, филтри и други данни от:">
 <!ENTITY importFromNonWin.label         "Внасяне на настройки, настройки на регистрация, адресник, филтри и други данни от:">
+<!ENTITY importSourceNotFound.label     "Не е намерено приложение, от което да бъдат внесени данни.">
 
 <!ENTITY importFromNothing.label        "Нищо не се внася">
 <!ENTITY importFromNothing.accesskey    "Н">
