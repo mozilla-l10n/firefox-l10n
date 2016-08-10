@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Tehtävät" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Näytä suoritetut tehtävät">
 
-<!ENTITY calendar.today.button.label       "Tänään">
+<!ENTITY calendar.today.button.label          "Tänään">
 <!ENTITY calendar.tomorrow.button.label       "Huomenna">
-<!ENTITY calendar.soon.button.label           "Pian">
+<!ENTITY calendar.upcoming.button.label       "Tulevat">
 
 <!ENTITY calendar.events.filter.all.label "Kaikki tapahtumat">
 <!ENTITY calendar.events.filter.today.label "Tämän päivän tapahtumat">
@@ -149,7 +149,6 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Merkitse valitut tehtävät suoritetuksi">
 <!ENTITY calendar.task.priority.button.tooltip  "Muuta tärkeysastetta">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Suodata tehtäviä… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
@@ -232,8 +231,11 @@
 <!ENTITY calendar.context.newserver.accesskey          "n">
 <!ENTITY calendar.context.findcalendar.label           "Etsi kalenteri…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "E" >
-<!ENTITY calendar.context.deleteserver.label           "Poista kalenteri">
-<!ENTITY calendar.context.deleteserver.accesskey       "P">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
 <!ENTITY calendar.context.synccalendars.label          "Synkronoi kalenterit">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Julkaise kalenteri…">
@@ -242,6 +244,15 @@
 <!ENTITY calendar.context.export.accesskey             "e">
 <!ENTITY calendar.context.properties.label             "Ominaisuudet">
 <!ENTITY calendar.context.properties.accesskey         "O">
+
+<!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
+     This is the access key used for the showCalendar string -->
+
+<!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
+     This is the access key used for the hideCalendar string -->
+
+<!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
+     This is the access key used for the showOnlyCalendar string -->
 
 <!ENTITY calendar.context.convertmenu.label              "Muunna">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
