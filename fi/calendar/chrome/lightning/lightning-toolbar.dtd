@@ -14,7 +14,9 @@
 <!ENTITY lightning.toolbar.edit.label "Muokkaa">
 <!ENTITY lightning.toolbar.edit.tooltip "Muokkaa valittua tapahtumaa tai tehtävää">
 <!ENTITY lightning.toolbar.gototoday.label "Siirry nykypäivään">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Siirry tähän päivään">
 <!ENTITY lightning.toolbar.print.label "Tulosta">
+<!ENTITY lightning.toolbar.print.tooltip "Tulosta tapahtumat tai tehtävät">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Kalenteri">

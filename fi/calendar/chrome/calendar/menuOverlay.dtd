@@ -20,6 +20,15 @@
 
 <!ENTITY calendar.deletecalendar.label          "Poista valittu kalenteri…">
 <!ENTITY calendar.deletecalendar.accesskey      "P">
+<!ENTITY calendar.unsubscribecalendar.label     "Peruuta valitun kalenterin tilaus…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "v">
+
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label          "Poista valittu kalenteri…">
+<!ENTITY calendar.removecalendar.accesskey      "P">
+
 
 <!ENTITY calendar.menu.customize.label          "Muokkaa…">
 <!ENTITY calendar.menu.customize.accesskey      "M">
