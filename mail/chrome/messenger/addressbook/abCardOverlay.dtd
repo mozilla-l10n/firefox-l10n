@@ -139,7 +139,7 @@
 <!ENTITY IRC.label                      "Far-ainm IRC:">
 <!ENTITY IRC.accesskey                  "R">
 
-<!ENTITY Photo.tab                      "Fotograf">
+<!ENTITY Photo.tab                      "Dealbh">
 <!ENTITY Photo.accesskey                "o">
 <!ENTITY PhotoDesc.label                "Tagh aon dhe na leanas:">
 <!ENTITY GenericPhoto.label             "Fotograf gnèitheach">
