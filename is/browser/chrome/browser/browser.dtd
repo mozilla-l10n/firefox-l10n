@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Losa flipa">
 <!ENTITY  unpinTab.accesskey                 "L">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Senda flipa á tæki">
+<!ENTITY  sendTabToDevice.accesskey          "æ">
+<!ENTITY  sendPageToDevice.label             "Senda síðu á tæki">
+<!ENTITY  sendPageToDevice.accesskey         "æ">
+<!ENTITY  sendLinkToDevice.label             "Senda tengil á tæki">
+<!ENTITY  sendLinkToDevice.accesskey         "æ">
 <!ENTITY  moveToNewWindow.label              "Færa yfir í nýjan glugga">
 <!ENTITY  moveToNewWindow.accesskey          "g">
 <!ENTITY  bookmarkAllTabs.label              "Setja flipa í bókamerki…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Sýna alla flipa">
 <!ENTITY showAllTabsCmd.accesskey "a">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Skráðu þig inn í &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Opna &syncBrand.shortName.label; stillingar">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "hefur stjórn á bendi. Ýttu á Esc til að taka aftur yfir stjórn.">
+<!ENTITY pointerlockWarning.generic.label "Þetta skjal hefur nú stjórnina á bendi. Ýttu á Esc til að taka aftur yfir stjórn.">
 
 <!ENTITY closeWindow.label "Loka glugga">
 <!ENTITY closeWindow.accesskey "k">
@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "f">
 <!ENTITY openFrameCmd.label           "Opna ramma í nýjum glugga">
 <!ENTITY openFrameCmd.accesskey       "g">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Opna tengil í nýjum innihaldsflipa">
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Sýna einungis þennan ramma">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "B">
 
 <!ENTITY editBookmark.done.label                     "Ljúka">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Örugg tenging">
 <!ENTITY identity.connectionNotSecure "Tenging er ekki örugg">
