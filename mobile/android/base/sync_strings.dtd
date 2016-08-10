@@ -16,7 +16,7 @@
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "म सँग उपकरण साथमा छैन...">
 <!-- Configure Engines -->
-
+<!ENTITY sync.configure.engines.title.history "इतिहास">
 <!ENTITY sync.configure.engines.title.tabs "ट्याबहरू">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -55,8 +55,8 @@
 
 
 
-
-
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;">
 
 
 
