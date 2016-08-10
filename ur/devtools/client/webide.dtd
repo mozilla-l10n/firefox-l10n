@@ -10,7 +10,7 @@
 <!ENTITY projectMenu_importHostedApp_label "مءیزبان ایپلیکیشن… کھولیں">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "ایپلیکیشن… کھولیں">
-
+<!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "تنصیب کریں اور چلائے">
 
 <!ENTITY projectMenu_stop_label "ایپلی کیشن رکیں">
