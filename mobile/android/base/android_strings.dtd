@@ -2,9 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY firstrun_panel_title_welcome "Selamat Datang">
+
 <!ENTITY firstrun_urlbar_message "Selamat Datang ke &brandShortName;">
-
-
+<!ENTITY firstrun_urlbar_subtext "Mencari perkara lebih cepat dengan dibantu pintasan carian cadangan.">
+<!ENTITY firstrun_bookmarks_title "Sejarah">
 
 
 
