@@ -12,6 +12,7 @@
 <!ENTITY lightning.toolbar.delete.label "Poista">
 <!ENTITY lightning.toolbar.delete.tooltip "Poista valitut tapahtumat tai tehtävät">
 <!ENTITY lightning.toolbar.edit.label "Muokkaa">
+<!ENTITY lightning.toolbar.edit.tooltip "Muokkaa valittua tapahtumaa tai tehtävää">
 <!ENTITY lightning.toolbar.gototoday.label "Siirry nykypäivään">
 <!ENTITY lightning.toolbar.print.label "Tulosta">
 
