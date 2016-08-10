@@ -14,6 +14,6 @@
 <!ENTITY caseSensitive.label "Stafrétt">
 <!ENTITY caseSensitive.accesskey "S">
 <!ENTITY caseSensitive.tooltiptext "Leita miðað við stafsöðu">
-
-
-
+<!ENTITY entireWord.label "Stök orð">
+<!ENTITY entireWord.accesskey "ð">
+<!ENTITY entireWord.tooltiptext "Leita aðeins að stökum orðum">
