@@ -28,7 +28,9 @@
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Tapahtuma">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Luo uusi tapahtuma">
 <!ENTITY lightning.toolbar.newtask.label      "Tehtävä">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Luo uusi tehtävä">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Päivä">
