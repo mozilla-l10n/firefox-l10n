@@ -34,6 +34,8 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Suhteessa seuraavaan tasatuntiin">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Tänään-ruutu">
+<!ENTITY pref.soondays.label "Tulevat-luettelo näyttää seuraavat:">
+<!ENTITY pref.soondays.accesskey "u">
 
 <!ENTITY pref.accessibility.label "Esteettömyys" >
 <!ENTITY pref.systemcolors.label "Optimoi värit esteettömyyttä varten" >

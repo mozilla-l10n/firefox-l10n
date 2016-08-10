@@ -33,7 +33,9 @@
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Ilmoita osallistujille">
+<!ENTITY event.attendees.notify.accesskey           "i">
 <!ENTITY event.attendees.notifyundisclosed.label    "Erilliset kutsut jokaiselle osallistujalle">
+<!ENTITY event.attendees.notifyundisclosed.accesskey  "j">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Jos tämä on valittu, niin jokaiselle osallistujalle lähetetään yksi sähköpostiviesti. Jokaisessa kutsussa on mainittu vain osallistuja, joka on vastaanottanut sen. Näin muiden osallistujien henkilöllisyydet eivät paljastu.">
 
 <!-- Keyboard Shortcuts -->
@@ -138,6 +140,10 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Kirjoita viesti epävarmoille osallistujille…">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
+<!ENTITY event.remove.attendees.label2                    "Poista kaikki osallistujat">
+<!ENTITY event.remove.attendees.accesskey                 "k">
+<!ENTITY event.remove.attendee.label                      "Poista osallistuja">
+<!ENTITY event.remove.attendee.accesskey                  "o">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Tallenna ja sulje">
@@ -165,7 +171,7 @@
 <!ENTITY event.calendar.label                             "Kalenteri:" >
 <!ENTITY event.calendar.accesskey                         "e">
 <!ENTITY event.attendees.label                            "Osallistujat:" >
-<!ENTITY event.attendees.accesskey                        "j" >
+<!ENTITY event.attendees.accesskey                        "j">
 <!ENTITY event.alldayevent.label                          "Koko päivän tapahtuma" >
 <!ENTITY event.alldayevent.accesskey                      "p">
 <!ENTITY event.from.label                                 "Alkaa:" >
@@ -347,6 +353,7 @@
 <!ENTITY event.attendee.usertype.group          "Ryhmä">
 <!ENTITY event.attendee.usertype.resource       "Resurssi">
 <!ENTITY event.attendee.usertype.room           "Huone">
+<!ENTITY event.attendee.usertype.unknown        "Tuntematon">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Määritä aikavyöhyke">
