@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Pitkä" >
 <!ENTITY pref.dateformat.short "Lyhyt"  >
 
+<!ENTITY pref.timezones.caption "Aikavyöhyke">
+<!ENTITY pref.timezones.label "Valitse lähin kaupunki aikavyöhykkeelläsi:">
+<!ENTITY pref.timezones.accesskey "k">
+
 <!ENTITY pref.defaults.label "Oletusarvot uusille merkinnöille">
 <!ENTITY pref.events.label "Tapahtumat">
 <!ENTITY pref.tasks.label "Tehtävät">
@@ -28,6 +32,7 @@
 <!ENTITY pref.default_task_offset_current.label "Suhteessa nykyiseen aikaan">
 <!ENTITY pref.default_task_offset_start.label "Suhteessa alkuun">
 <!ENTITY pref.default_task_offset_next_hour.label "Suhteessa seuraavaan tasatuntiin">
+
 
 <!ENTITY pref.accessibility.label "Esteettömyys" >
 <!ENTITY pref.systemcolors.label "Optimoi värit esteettömyyttä varten" >

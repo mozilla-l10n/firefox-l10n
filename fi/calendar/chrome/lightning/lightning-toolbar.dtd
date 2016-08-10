@@ -8,7 +8,9 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Synkronoi">
+<!ENTITY lightning.toolbar.sync.tooltip "Lataa kalenterit uudelleen ja synkronoi muutokset">
 <!ENTITY lightning.toolbar.delete.label "Poista">
+<!ENTITY lightning.toolbar.delete.tooltip "Poista valitut tapahtumat tai tehtävät">
 <!ENTITY lightning.toolbar.edit.label "Muokkaa">
 <!ENTITY lightning.toolbar.gototoday.label "Siirry nykypäivään">
 <!ENTITY lightning.toolbar.print.label "Tulosta">
@@ -34,10 +36,10 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "M">
 <!ENTITY lightning.toolbar.month.label               "Kuukausi">
 <!ENTITY lightning.toolbar.month.accesskey           "K">
-<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Sovellusvalikko">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "Avaa &brandShortName;-valikon">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Avaa &brandShortName;-valikon">
 <!ENTITY lightning.toolbar.calendarmenu.label        "Kalenteripaneeli">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "K">
 <!ENTITY lightning.toolbar.calendarpane.label        "Näytä kalenteripaneeli">

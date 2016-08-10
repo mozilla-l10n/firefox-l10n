@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Viikko alkaa:">
 <!ENTITY pref.weekstarts.accesskey "V">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Näytä viikkonumero näkymissä ja pienoiskuukaudessa">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "ä">
 <!ENTITY pref.daysoff.label "Seuraavat päivät kuuluvat työviikkoon:">
 
 <!ENTITY pref.calendar.view.daystart.label "Päivä alkaa:">

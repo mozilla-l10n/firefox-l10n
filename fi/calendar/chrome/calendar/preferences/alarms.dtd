@@ -14,8 +14,7 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "K">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Selaa…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "S">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Esikuuntele">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "E">
+<!ENTITY pref.calendar.alarms.sound.play.label "Toista">
 <!ENTITY pref.showalarmbox "Näytä huomautus">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "N">
 <!ENTITY pref.missedalarms "Näytä ohitetut huomautukset">
