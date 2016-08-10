@@ -279,7 +279,11 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!ENTITY pref_custom_tabs "अनुकुल ट्याबहरू">
+
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
+<!ENTITY pref_activity_stream "गतिविधि धारा">
 
 
 <!ENTITY tracking_protection_prompt_title "अब ट्रयाकिङ्ग सुरक्षाको साथ">
@@ -432,15 +436,18 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "स्वचालित अद्यावधिकहरु">
+<!ENTITY pref_update_autodownload_wifi "केवल वाइफाइको माध्यमबाट">
 
-
-
+<!ENTITY pref_update_autodownload_always "सधै">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "सहयोग">
 
 
 <!ENTITY addons "एड-अनहरु">
-
-
+<!ENTITY logins "लग-इनहरू">
+<!ENTITY downloads "डाउनलोडहरू">
 <!ENTITY char_encoding "वर्ण सङ्केतन">
 
 <!ENTITY share "साझेदारी">
@@ -448,11 +455,11 @@ size. -->
 
 <!ENTITY save_as_pdf "PDFको रूपमा बचत गर्नुहोस्">
 <!ENTITY print "मुद्रण गर्नुहोस्">
-
+<!ENTITY find_in_page "पृष्ठमा फेला पार्नुहोस्">
 
 <!ENTITY page "पृष्ठ">
 
-
+<!ENTITY new_tab "नयाँ ट्याब">
 
 <!ENTITY close_all_tabs "सबै ट्याब बन्द गर्नुहोस्">
 
@@ -463,6 +470,8 @@ size. -->
 <!ENTITY set_image_chooser_title "यस रूपमा छवि सेट गर्नुहोस्">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "पृष्ठमा फेला पार्नुहोस्">
 <!ENTITY find_prev "अघिल्लो">
 <!ENTITY find_next "अर्को">
 <!ENTITY find_close "बन्द गर्नुहोस्">
@@ -470,13 +479,13 @@ size. -->
      as alternate text for accessibility. They are not visible in the UI. -->
 
 
-
+<!ENTITY media_stop "रोक्नुहोस्">
 
 <!ENTITY contextmenu_open_new_tab "नयाँ ट्याबमा खोल्नुहोस्">
 <!ENTITY contextmenu_open_private_tab "निजि ट्याबमा खोल्नुहोस्">
 <!ENTITY contextmenu_remove "हटाउनुहोस्">
 <!ENTITY contextmenu_add_to_launcher "गृह पर्दामा थप्नुहोस">
-
+<!ENTITY contextmenu_share "साझा गर्ने">
 <!ENTITY contextmenu_pasteandgo "टाँस्नुहोस् र जानुहोस्">
 <!ENTITY contextmenu_paste "टाँस्नुहोस्">
 <!ENTITY contextmenu_copyurl "ठेगाना प्रतिलिपि गर्नुहोस्">
@@ -545,6 +554,8 @@ size. -->
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "&brandShortName; गृह">
 <!ENTITY home_history_title "इतिहास">
 
 
@@ -553,11 +564,12 @@ size. -->
 <!ENTITY home_clear_history_button "ब्राउजिङ इतिहास खाली गर्नुहोस्">
 
 
+<!ENTITY home_closed_tabs_title2 "भर्खरै बन्द गरिएका ट्याबहरु">
 
 
-
-
+<!ENTITY home_closed_tabs_number "&formatD; ट्याबहरू">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 ट्याब">
 
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -578,6 +590,7 @@ size. -->
 
 
 
+<!ENTITY filepicker_title "फाइल रोज्नुहोस्">
 
 
 
@@ -601,18 +614,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 
-
+<!ENTITY doorhanger_tracking_title2 "ट्रयाकिङ सुरक्षा">
+<!ENTITY doorhanger_tracking_state_enabled "सक्षम पारिएको छ">
+<!ENTITY doorhanger_tracking_state_disabled "अक्षम पारिएको छ">
 
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 
+<!ENTITY learn_more "अझै जान्नुहोस्">
 
 
 
 
 
 
-
+<!ENTITY bookmarkhistory_import_bookmarks "पुस्तकचिनो एन्ड्रोइडबाट आयात गरिदै">
+<!ENTITY bookmarkhistory_import_history "इतिहासहरु एन्ड्रोइडबाट आयात गरिदै">
 
 
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -641,7 +658,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Guest mode -->
 
 <!ENTITY guest_session_dialog_continue "जारी राख्नुहोस्">
-
+<!ENTITY guest_session_dialog_cancel "रद्द गर्नुहोस्">
 
 
 
@@ -653,6 +670,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
@@ -661,6 +681,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "सुची">
 
 <!-- Voice search in the awesome bar -->
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
@@ -691,6 +713,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restrictable_feature_addons_installation "एड-अनहरु">
+
 
 
 
@@ -716,6 +740,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 
 
+<!ENTITY promotion_add_to_homescreen "गृह पर्दामा थप्नुहोस">
 
 
 
