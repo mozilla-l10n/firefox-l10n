@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Allan o fan hyn!">
 <!ENTITY safeb.palm.decline.label "Anwybyddu'r rhybudd">
-
+<!ENTITY safeb.palm.reportPage.label "Pam oedd y dudalen hon wedi ei rhwystro?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Adroddwyd Ymosodiad Tudalen!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
