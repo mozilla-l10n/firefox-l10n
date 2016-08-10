@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Trywydd Crog">
 
+<!ENTITY aboutTelemetry.scalarsSection "  Scalarau">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramau">
 
