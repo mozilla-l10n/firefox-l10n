@@ -158,11 +158,8 @@
 <!ENTITY urlbar.pluginsNotificationAnchor.label "Gestisci l’utilizzo dei plugin in questa pagina">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label "Decidi se ricevere notifiche da questo sito">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Gestisci la condivisione di fotocamera e/o microfono con il sito">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label "La fotocamera e/o il microfono sono condivisi con il sito">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label "Gestisci la condivisione del microfono con il sito">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Il microfono è condiviso con il sito">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label "Gestisci la condivisione delle finestre o dello schermo con il sito">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label "Una finestra o lo schermo sono condivisi con il sito">
 <!ENTITY urlbar.pointerLockNotificationAnchor.label "Decidi se il sito può nascondere il puntatore">
 <!ENTITY urlbar.servicesNotificationAnchor.label "Visualizza il messaggio di installazione servizio">
 <!ENTITY urlbar.translateNotificationAnchor.label "Traduci questa pagina">
