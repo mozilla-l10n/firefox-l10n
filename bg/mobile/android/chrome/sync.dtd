@@ -19,9 +19,13 @@
 <!ENTITY sync.password              "Парола">
 <!ENTITY sync.recoveryKey           "Ключ за възстановяване">
 <!ENTITY sync.customServer          "Използване на друг сървър">
+<!ENTITY sync.serverURL             "Адрес на сървъра">
 <!ENTITY sync.setup.connect         "Свързване">
 <!ENTITY sync.setup.cancel          "Отказ">
+<!ENTITY sync.setup.tutorial        "Покажете как">
+<!ENTITY sync.setup.waiting2        "Изчакване на друго устройство…">
 
 <!ENTITY sync.pair.title            "Сдвояване на устройство">
+<!ENTITY sync.pair.description      "За активиране на новото ву устройство изберете „Настройване на Sync“ на устройството.">
 <!ENTITY sync.setup.close           "Затваряне">
 <!ENTITY sync.setup.waitingdownload "Вашите данни се изтеглят във фонов режим. Можете да затворите този прозорец по всяко време.">
