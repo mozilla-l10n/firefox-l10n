@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab le dul trí na cluaisíní san ord ar bhain tú úsáid astu le déanaí">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
 <!ENTITY newWindowsAsTabs.label       "Oscail fuinneoga nua i gcluaisín nua">
 <!ENTITY newWindowsAsTabs.accesskey   "g">
