@@ -201,7 +201,7 @@
 <!ENTITY pref_content_notifications_summary2 "Upptäck nytt innehåll från webbplatser som stöds">
 <!ENTITY pref_developer_remotedebugging_usb "Fjärrfelsökning via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Fjärrfelsökning via Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi-felsökning kräver att din enhet har en QR kodsläsar app installerad.">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi-felsökning kräver att din enhet har en app för QR-kodläsning installerad.">
 <!ENTITY pref_remember_signons2 "Kom ihåg inloggningar">
 <!ENTITY pref_manage_logins "Hantera inloggningar">
 
@@ -376,7 +376,7 @@ size. -->
 <!ENTITY pref_zoom_force_enabled_summary "Åsidosätt så att du kan zooma på vilken sida som helst">
 <!ENTITY pref_voice_input "Röstinmatning">
 <!ENTITY pref_voice_input_summary2 "Tillåt röstdiktering i adressfältet">
-<!ENTITY pref_qrcode_enabled "QR-Kods läsare">
+<!ENTITY pref_qrcode_enabled "QR-kodläsare">
 <!ENTITY pref_qrcode_enabled_summary2 "Tillåt QR skanner i adressfältet">
 
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
