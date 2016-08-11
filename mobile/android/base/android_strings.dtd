@@ -284,7 +284,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Sruth Gníomhaíochta">
-
+<!ENTITY pref_activity_stream_summary "Le stair shaibhir radharcach agus leathanach baile athdheartha, tá sé níos éasca ná riamh teacht ar an rud atá uait in &brandShortName;">
 
 <!ENTITY tracking_protection_prompt_title "Anois le Cosaint ar Lorgaireacht">
 <!ENTITY tracking_protection_prompt_text "Cuir cosc ar eilimintí lorgaireachta sa chaoi nach mbeidh imní ort.">
