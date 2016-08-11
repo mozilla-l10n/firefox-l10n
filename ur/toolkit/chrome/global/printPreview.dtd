@@ -34,7 +34,7 @@
 <!ENTITY customPrompt.title   "مخصوص پیمانہ...">
 <!ENTITY simplifyPage.label   "صفحہ کو سادہ بنائیں">
 <!ENTITY simplifyPage.enabled.tooltip  "آسانی سے پڑہنے کے لیئے  لے آؤٹ تبدیل کریں">
-
+<!ENTITY simplifyPage.disabled.tooltip "اس صفحہ کو خود بخود آسان نہیں کیا جا سکتا">
 
 <!ENTITY homearrow.tooltip    "پہلا صفحہ">
 <!ENTITY endarrow.tooltip     "آخری صفحہ">
