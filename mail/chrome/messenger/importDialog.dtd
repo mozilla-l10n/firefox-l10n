@@ -38,6 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY selectDescription.accesskey "S">
 <!ENTITY acctName.label           "Naam:">
 <!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "Er is geen toepassing of bestand gevonden om gegevens uit te importeren.">
 
 <!ENTITY back.label               "&lt; Vorige">
 <!ENTITY forward.label            "Volgende &gt;">

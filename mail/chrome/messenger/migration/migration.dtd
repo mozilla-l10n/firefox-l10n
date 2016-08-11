@@ -7,6 +7,7 @@
 
 <!ENTITY importFromWin.label            "Opties, accountinstellingen, adresboek, filters en andere gegevens importeren uit:">
 <!ENTITY importFromNonWin.label         "Voorkeuren, accountinstellingen, adresboek en andere gegevens importeren uit:">
+<!ENTITY importSourceNotFound.label     "Er is geen toepassing gevonden om gegevens uit te importeren.">
 
 <!ENTITY importFromNothing.label        "Niets importeren">
 <!ENTITY importFromNothing.accesskey    "t">

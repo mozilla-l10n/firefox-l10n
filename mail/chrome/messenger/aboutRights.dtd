@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "Privacybeleidsregels die op dit product van toepassing zijn, dienen hier te worden vermeld.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; biedt tevens optionele diensten, zoals de add-on-updateservice; we kunnen echter niet garanderen dat deze 100&#37; nauwkeurig of foutvrij zijn. Meer details, waaronder informatie over het uitschakelen van de diensten, is te vinden in de ">
+<!ENTITY rights.intro-point4a "&brandShortName; biedt tevens optionele diensten, zoals de add-on-updateservice; we kunnen echter niet garanderen dat deze 100&#37; nauwkeurig of foutvrij zijn. Meer details, waaronder informatie over het uitschakelen van de diensten, zijn te vinden in de ">
 <!ENTITY rights.intro-point4b "servicevoorwaarden">
 <!ENTITY rights.intro-point4c ".">
 
