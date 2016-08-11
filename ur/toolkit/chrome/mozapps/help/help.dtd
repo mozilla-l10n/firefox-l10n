@@ -21,11 +21,12 @@
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "گھر">
-
+<!ENTITY homeButton.tooltip             "مدد صفحہ شروع کرنے کے لئے جاؤ">
 <!ENTITY printButton.label              "چھاپیں">
 <!ENTITY printButton.tooltip            "یہ صفحہ چھاپیں">
 <!ENTITY closeWindow.commandkey         "و">
 
+<!ENTITY search.emptytext               "تلاش کریں">
 <!ENTITY searchHeader.label             "تلاش کے نتائج">
 <!ENTITY toctab.label                   "مشمولات">
 <!ENTITY toctab.accesskey               "م">
@@ -34,6 +35,9 @@ fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
