@@ -19,6 +19,7 @@
 <!ENTITY playSound1.accesskey             "u">
 <!ENTITY showAnimatedAlert.label          "Een waarschuwing tonen">
 <!ENTITY showAnimatedAlert.accesskey      "t">
+<!ENTITY notificationAlertSettings.label  "Waarschuwingen kunnen worden uitgeschakeld via het paneel Berichtgeving in Systeemvoorkeuren.">
 <!ENTITY customizeMailAlert.label         "Aanpassen…">
 <!ENTITY customizeMailAlert.accesskey     "A">
 
