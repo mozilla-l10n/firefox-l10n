@@ -589,7 +589,7 @@ size. -->
 <!ENTITY home_closed_tabs_title2 "Nedáno zavřené">
 <!ENTITY home_last_tabs_empty "Vaše poslední panely se ukáží zde.">
 <!ENTITY home_restore_all "Obnovit vše">
-<!ENTITY home_closed_tabs_number "&formatD; panelů">
+<!ENTITY home_closed_tabs_number "panely: &formatD;">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 panel">
 <!ENTITY home_most_recent_empty "Webové stránky, které jste nedávno navštívili, se zobrazí zde.">
