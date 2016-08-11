@@ -32,9 +32,11 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  ڈوری پھنس جاتی ہے">
 
+<!ENTITY aboutTelemetry.scalarsSection "سکیلر ">
 
 <!ENTITY aboutTelemetry.histogramsSection "  ہسٹو گرام">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "کلید شدہ ہسٹوگرامز">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  سادہ پیمائشیں">
 
@@ -58,4 +60,6 @@
 
 <!ENTITY aboutTelemetry.filterText "  فلٹر (سٹرنگز یا /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "پیلوڈ">
 
+<!ENTITY aboutTelemetry.rawPayload "خام پیلوڈ">
