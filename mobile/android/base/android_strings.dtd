@@ -344,7 +344,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "कुन डाटा खाली गर्ने चयन गर्नुहोस्">
 <!ENTITY pref_plugins "प्लगइनहरू">
 <!ENTITY pref_plugins_enabled "सक्षम पारिएको">
-
+<!ENTITY pref_plugins_tap_to_play2 "प्ले गर्न छुनुहोस्">
 <!ENTITY pref_plugins_disabled "अक्षम पारिएको">
 <!ENTITY pref_text_size "पाठ साइज">
 <!ENTITY pref_restore_tabs "ट्याबहरू पुनर्स्थापना गर्नुहोस् ">
@@ -630,23 +630,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY bookmarkhistory_import_bookmarks "पुस्तकचिनो एन्ड्रोइडबाट आयात गरिदै">
 <!ENTITY bookmarkhistory_import_history "इतिहासहरु एन्ड्रोइडबाट आयात गरिदै">
+<!ENTITY bookmarkhistory_import_wait "कृपया प्रतीक्षा गर्नुहोस्...">
 
-
+<!ENTITY suggestions_prompt3 "तपाईं खोज सुझावहरू लिन चाहनुहुन्छ?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "&formatS; बाट खोज्नुहोस्">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
 <!ENTITY searchable_description "पुस्तकचिनो र इतिहास">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
 
+<!ENTITY updater_start_title2 "&brandShortName; को लागि अद्यावधिक उपलब्ध छ">
+<!ENTITY updater_start_select2 "डाउनलोड गर्न छुनुहोस्">
 
-
+<!ENTITY updater_downloading_title2 "&brandShortName; डाउनलोड गरिँदै">
+<!ENTITY updater_downloading_title_failed2 "डाउनलोड असफल भयो">
 
 
 
@@ -655,15 +660,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!-- Guest mode -->
+<!ENTITY updater_permission_allow "अनुमति दिनुहोस्">
+<!-- Guest mode -->    
 
+<!ENTITY new_guest_session "नयाँ अतिथि सत्र">
+<!ENTITY exit_guest_session "अतिथि सत्रबाट बाहिर निस्कनुहोस्">
 <!ENTITY guest_session_dialog_continue "जारी राख्नुहोस्">
 <!ENTITY guest_session_dialog_cancel "रद्द गर्नुहोस्">
+<!ENTITY new_guest_session_title "&brandShortName; पुन: सुचारू हुन्छ">
 
+<!ENTITY guest_browsing_notification_title "अतिथि ब्राउजिङ सक्षम पारिएको छ">
+<!ENTITY guest_browsing_notification_text "बाहिर निस्कन छुनुहोस्">
 
-
-
-
+<!ENTITY exit_guest_session_title "&brandShortName; पुन: सुचारू हुन्छ">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -679,18 +688,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "सुची">
-
+<!ENTITY actionbar_done "पूरा भयो">
 <!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "बोल्नुहोस्">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "&formatS; मा अन्तिम पटक सिङ्क गरिएको">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
