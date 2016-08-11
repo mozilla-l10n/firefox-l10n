@@ -11,7 +11,7 @@
 <!ENTITY initialpage.network.label  "Ar an Líonra">
 
 <!ENTITY locationpage.description         "Tabhair eolas faoina bhfuil de dhíth le do chianfhéilire a rochtain" >
-<!ENTITY locationpage.login.description   "Roghnach: iontráil ainm úsáideora agus focal faire" >
+<!ENTITY locationpage.login.description   "Roghnach: cuir isteach ainm úsáideora agus focal faire" >
 <!ENTITY locationpage.username.label      "Ainm úsáideora:" >
 <!ENTITY locationpage.password.label      "Focal Faire:" >
 
