@@ -47,6 +47,7 @@
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Добре дошли в &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'Впишете се, за да бъдат синхронизирани вашите подпрозорци, отметки, пароли и др.'>
 <!ENTITY fxaccount_getting_started_get_started 'Въведение'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Използвате ли стара версия на &syncBrand.shortName.label;?'>
 
 <!ENTITY fxaccount_status_signed_in_as 'Вписани сте като'>
 <!ENTITY fxaccount_status_manage_account 'Управление на сметката'>
