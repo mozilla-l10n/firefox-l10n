@@ -46,4 +46,5 @@
 <!ENTITY showCurrentView.label                  "An sealladh làithreach">
 <!ENTITY showCurrentView.accesskey              "A">
 
-
+<!ENTITY calendar.properties.label              "Roghainnean a’ mhìosachain…">
+<!ENTITY calendar.properties.accesskey          "c">
