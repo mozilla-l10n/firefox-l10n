@@ -11,6 +11,8 @@
 <!ENTITY sync.title.connect.label 'Свързване с &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'За активиране на вашето ново устройство изберете „Настройване на &syncBrand.shortName.label;“ на устройството.'>
+<!ENTITY sync.subtitle.pair.label 'За активиране, изберете „Сдвояване на устройството“ на вашето устройство.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.link.nodevice.label 'Устройството не е у мен в момента…'>
 
@@ -60,6 +62,9 @@
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: включен'>
 <!ENTITY fxaccount_status_needs_verification2 'Сметката трябва да бъде проверена. Докоснете за повторно изпращане на писмото за потвърждение.'>
 <!ENTITY fxaccount_status_needs_credentials 'Не може да бъде осъществена връзка. Докоснете за вписване.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Трябва да обновите &brandShortName;, за да се впишете.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; е настроен, но не се синхронизира автоматично. Включете „Auto-sync data“ в Настройки на Android &gt; Използване на данни.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; е настроен, но не се синхронизира автоматично. Включете „Auto-sync data“ в менюто на Настройки на Android &gt; Профили.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Докоснете, за да се впишете в новия си Firefox Account.'>
 <!ENTITY fxaccount_status_bookmarks 'Отметки'>
 <!ENTITY fxaccount_status_history 'История'>

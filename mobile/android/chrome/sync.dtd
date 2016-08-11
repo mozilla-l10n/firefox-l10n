@@ -12,6 +12,7 @@
 <!ENTITY sync.syncNow               "Синхронизиране">
 
 <!ENTITY sync.setup.title           "Свързване към Sync">
+<!ENTITY sync.setup.pair            "За активиране, изберете „Сдвояване на устройството“ на другото си устройство.">
 <!ENTITY sync.fallback              "Не съм близо до компютъра си…">
 <!ENTITY sync.setup.manual          "Въведете своята сметка в Sync">
 <!ENTITY sync.account               "Име на сметката">
