@@ -16,6 +16,8 @@
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "म सँग उपकरण साथमा छैन...">
 <!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.passwords2 "भित्र छिर्ने">
 <!ENTITY sync.configure.engines.title.history "इतिहास">
 <!ENTITY sync.configure.engines.title.tabs "ट्याबहरू">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
@@ -49,7 +51,7 @@
 <!ENTITY fxaccount_getting_started_get_started "सुरु गर्नुहोस्">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; को पुरानो संस्करण प्रयोग गरि रहनु भएको छ ?  ">
 
-
+<!ENTITY fxaccount_status_manage_account "खाता ब्य्वस्थापन">
 
 
 
@@ -79,6 +81,7 @@
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "Firefox खाता &FormatS; हताइयो ।">
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
