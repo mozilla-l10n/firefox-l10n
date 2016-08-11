@@ -48,6 +48,7 @@
 <!ENTITY  switch_to_tab "Prejsť na kartu">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Zobrazuje sa offline verzia">
 
 <!ENTITY  crash_reporter_title "Oznamovateľ zlyhania prehliadača &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; zistil problém a zlyhal. Otvorené karty by mali byť po reštart dostupné na Úvodnej stránke &brandShortName;u.">
@@ -273,6 +274,7 @@
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "Experimentálne funkcie">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
@@ -580,8 +582,12 @@ size. -->
 <!ENTITY home_clear_history_button "Vymazať históriu prehliadania">
 <!ENTITY home_clear_history_confirm "Naozaj chcete vymazať svoju históriu prehliadania?">
 <!ENTITY home_bookmarks_empty "Tu sa zobrazujú uložené záložky">
+<!ENTITY home_closed_tabs_title2 "Nedávno zatvorené">
 <!ENTITY home_last_tabs_empty "Tu sa zobrazujú karty otvorené pri ukončení poslednej relácie">
+<!ENTITY home_restore_all "Obnoviť všetky">
+<!ENTITY home_closed_tabs_number "Počet kariet: &formatD;">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 karta">
 <!ENTITY home_most_recent_empty "Tu sa zobrazujú naposledy navštívené stránky">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
