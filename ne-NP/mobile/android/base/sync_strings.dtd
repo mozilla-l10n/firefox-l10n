@@ -81,7 +81,7 @@
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Firefox खाता &FormatS; हताइयो ।">
+<!ENTITY fxaccount_remove_account_toast "Firefox खाता &formatS; हटाइयो।">
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
