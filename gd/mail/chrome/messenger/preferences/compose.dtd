@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "b">
 <!ENTITY restoreHTMLDefaults.label            "Aisig na roghainnean bunaiteach">
 <!ENTITY restoreHTMLDefaults.accesskey        "r">
-
-
+<!ENTITY defaultToParagraph.label             "Cleachd fòrmat pharagrafan a ghnàth seach teacsa bodhaig">
+<!ENTITY defaultToParagraph.accesskey         "p">
 
 <!ENTITY spellCheck.label                     "Ceartaich an litreachadh mus dèid a chur">
 <!ENTITY spellCheck.accesskey                 "C">
