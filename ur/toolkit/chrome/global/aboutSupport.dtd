@@ -80,6 +80,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "گرافکس">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "مقامات ڈیٹا بیس">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "تکمیلیت">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "تکمیلیت کی توثیق کریں">
 
@@ -98,6 +99,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "متن کو تختہ تراشہ پر نقل کریں">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "تختہ تراشہ پر خام کوائف نقل کریں">
 
+<!ENTITY aboutSupport.sandboxTitle "سینڈ باکس">
 
 <!ENTITY aboutSupport.safeModeTitle "محفوظ موڈ آزمائیں">
 
@@ -108,5 +110,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 
-
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "حادثے گارڈ معذور خصوصیات">
 
