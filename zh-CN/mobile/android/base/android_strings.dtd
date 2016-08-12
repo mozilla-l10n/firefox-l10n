@@ -206,14 +206,14 @@
 <!ENTITY pref_manage_logins "管理登录信息">
 
 <!ENTITY pref_category_home "首页">
-<!ENTITY pref_category_home_summary "自定义您的首页">
+<!ENTITY pref_category_home_summary "自定义您的主页">
 <!ENTITY pref_category_home_panels "面板">
 <!ENTITY pref_category_home_add_ons "附加组件">
 <!ENTITY pref_home_updates2 "内容更新">
 <!ENTITY pref_home_updates_enabled "启用">
 <!ENTITY pref_home_updates_wifi "仅通过 Wi-Fi">
-<!ENTITY pref_category_home_homepage "首页">
-<!ENTITY home_homepage_title "设置首页">
+<!ENTITY pref_category_home_homepage "主页">
+<!ENTITY home_homepage_title "设置主页">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -228,7 +228,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "输入网址或者搜索字段">
+<!ENTITY home_homepage_hint_user_address "输入网址或搜索关键词">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "常规">
