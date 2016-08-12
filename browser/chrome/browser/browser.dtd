@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "r">
 <!ENTITY  unpinTab.label                     "Zrušiť pripnutie karty">
 <!ENTITY  unpinTab.accesskey                 "r">
+<!ENTITY  sendTabToDevice.label              "Odoslať kartu do zariadenia">
+<!ENTITY  sendTabToDevice.accesskey          "a">
+<!ENTITY  sendPageToDevice.label             "Odoslať stránku do zariadenia">
+<!ENTITY  sendPageToDevice.accesskey         "a">
+<!ENTITY  sendLinkToDevice.label             "Odoslať odkaz do zariadenia">
+<!ENTITY  sendLinkToDevice.accesskey         "a">
 <!ENTITY  moveToNewWindow.label              "Presunúť do nového okna">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  bookmarkAllTabs.label              "Pridať všetky karty medzi záložky…">
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Zobraziť všetky karty">
 <!ENTITY showAllTabsCmd.accesskey "a">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Prihlásiť sa k službe &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Otvoriť nastavenia služby &syncBrand.shortName.label;">
@@ -142,6 +149,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "má kontrolu nad vašim kurzorom. Ovládanie kurzora prevezmete stlačením klávesy Esc.">
+<!ENTITY pointerlockWarning.generic.label "Tento dokument má kontrolu nad vašim kurzorom. Ovládanie kurzora prevezmete stlačením klávesy Esc.">
 
 <!ENTITY closeWindow.label "Zavrieť okno">
 <!ENTITY closeWindow.accesskey "v">
@@ -888,7 +898,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY panicButton.thankyou.msg1                "Vaša nedávna história je teraz vymazaná.">
 <!ENTITY panicButton.thankyou.msg2                "Prajeme bezpečné prehliadanie!">
-<!ENTITY panicButton.thankyou.buttonlabel         "Ďakujem!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Ďakujeme!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Ďalšie informácie o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
