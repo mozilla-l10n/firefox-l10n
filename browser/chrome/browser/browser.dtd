@@ -739,7 +739,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.noclients.title    "Nicio filă sincronizată…încă!">
 
-
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Autentifică-te pentru a vedea o listă de file de pe celelalte dispozitive.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nicio filă deschisă">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Deschide preferințele &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown

@@ -110,6 +110,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Încearcă modul în siguranță">
 <!ENTITY aboutSupport.restartInSafeMode.label "Repornește cu suplimente dezactivate…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Funcționalități">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostic">
 
 
