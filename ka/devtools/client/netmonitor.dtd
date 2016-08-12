@@ -13,31 +13,31 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2/3): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
-<!ENTITY netmonitorUI.perfNotice1         "• დააწკაპუნეთ">
-<!ENTITY netmonitorUI.perfNotice2         "ღილაკზე წარმადობის ანალიზის დასაწყებად.">
+<!ENTITY netmonitorUI.perfNotice1         "• Click on the">
+<!ENTITY netmonitorUI.perfNotice2         "button to start performance analysis.">
 <!ENTITY netmonitorUI.perfNotice3         "Analyze">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
-<!ENTITY netmonitorUI.reloadNotice1       "• გააკეთეთ მოთხოვნა">
-<!ENTITY netmonitorUI.reloadNotice2       "განაახლეთ">
-<!ENTITY netmonitorUI.reloadNotice3       "გვერდი ქსელის აქტივობაზე დამატებითი ინფორმაციის სანახავად.">
+<!ENTITY netmonitorUI.reloadNotice1       "• Perform a request or">
+<!ENTITY netmonitorUI.reloadNotice2       "Reload">
+<!ENTITY netmonitorUI.reloadNotice3       "the page to see detailed information about network activity.">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
-<!ENTITY netmonitorUI.toolbar.status3     "სტატუსი">
+<!ENTITY netmonitorUI.toolbar.status3     "Status">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.method): This is the label displayed
   -  in the network table toolbar, above the "method" column. -->
-<!ENTITY netmonitorUI.toolbar.method      "მეთოდი">
+<!ENTITY netmonitorUI.toolbar.method      "Method">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.file): This is the label displayed
   -  in the network table toolbar, above the "file" column. -->
-<!ENTITY netmonitorUI.toolbar.file        "ფაილი">
+<!ENTITY netmonitorUI.toolbar.file        "File">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
-<!ENTITY netmonitorUI.toolbar.domain      "დომეინი">
+<!ENTITY netmonitorUI.toolbar.domain      "Domain">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.cause): This is the label displayed
   -  in the network table toolbar, above the "cause" column. -->
@@ -45,17 +45,17 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
-<!ENTITY netmonitorUI.toolbar.type        "ტიპი">
+<!ENTITY netmonitorUI.toolbar.type        "Type">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.transferred): This is the label displayed
   -  in the network table toolbar, above the "transferred" column, which is the
   -  compressed / encoded size. -->
-<!ENTITY netmonitorUI.toolbar.transferred "მიმოცვლილი">
+<!ENTITY netmonitorUI.toolbar.transferred "Transferred">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
   -  in the network table toolbar, above the "size" column, which is the
   -  uncompressed / decoded size. -->
-<!ENTITY netmonitorUI.toolbar.size        "ზომა">
+<!ENTITY netmonitorUI.toolbar.size        "Size">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
   -  in the network table toolbar, above the "waterfall" column. -->
@@ -67,7 +67,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.cookies): This is the label displayed
   -  in the network details pane identifying the cookies tab. -->
-<!ENTITY netmonitorUI.tab.cookies         "ნაჭდევები">
+<!ENTITY netmonitorUI.tab.cookies         "Cookies">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.params): This is the label displayed
   -  in the network details pane identifying the params tab. -->
@@ -83,7 +83,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.preview): This is the label displayed
   -  in the network details pane identifying the preview tab. -->
-<!ENTITY netmonitorUI.tab.preview         "ესკიზი">
+<!ENTITY netmonitorUI.tab.preview         "Preview">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.security): This is the label displayed
   -  in the network details pane identifying the security tab. -->
@@ -111,7 +111,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFonts): This is the label displayed
   -  in the network details footer for the "Fonts" filtering button. -->
-<!ENTITY netmonitorUI.footer.filterFonts  "შრიფტები">
+<!ENTITY netmonitorUI.footer.filterFonts  "Fonts">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterImages): This is the label displayed
   -  in the network details footer for the "Images" filtering button. -->
@@ -119,7 +119,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterMedia): This is the label displayed
   -  in the network details footer for the "Media" filtering button. -->
-<!ENTITY netmonitorUI.footer.filterMedia  "მედია">
+<!ENTITY netmonitorUI.footer.filterMedia  "Media">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFlash): This is the label displayed
   -  in the network details footer for the "Flash" filtering button. -->
@@ -168,7 +168,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.version): This is the label displayed
   -  in the network details headers tab identifying the http version. -->
-<!ENTITY netmonitorUI.summary.version     "ვერსია:">
+<!ENTITY netmonitorUI.summary.version     "Version:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.size): This is the label displayed
   -  in the network details headers tab identifying the headers size. -->
@@ -176,11 +176,11 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.response.name): This is the label displayed
   -  in the network details response tab identifying an image's file name. -->
-<!ENTITY netmonitorUI.response.name       "სახელი:">
+<!ENTITY netmonitorUI.response.name       "Name:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.response.dimensions): This is the label displayed
   -  in the network details response tab identifying an image's dimensions. -->
-<!ENTITY netmonitorUI.response.dimensions "ზომები:">
+<!ENTITY netmonitorUI.response.dimensions "Dimensions:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.response.mime): This is the label displayed
   -  in the network details response tab identifying an image's mime. -->
@@ -247,7 +247,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
-<!ENTITY netmonitorUI.security.certificate "სერთიფიკატი:">
+<!ENTITY netmonitorUI.security.certificate "Certificate:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
@@ -393,8 +393,8 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.cancel): This is the label displayed
   -  on the button which cancels and closes the custom request form -->
-<!ENTITY netmonitorUI.custom.cancel       "გაუქმება">
+<!ENTITY netmonitorUI.custom.cancel       "Cancel">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.backButton): This is the label displayed
   -  on the button which exists the performance statistics view -->
-<!ENTITY netmonitorUI.backButton          "უკან">
+<!ENTITY netmonitorUI.backButton          "Back">
