@@ -3,33 +3,33 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY projectMenu_label "پراجیکٹ">
-
+<!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "نیا اپلی کیشن…">
-
+<!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_label "پیکیجڈ اپلی کیشن کھولیں…">
-
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
 <!ENTITY projectMenu_importHostedApp_label "مءیزبان ایپلیکیشن… کھولیں">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "ایپلیکیشن… کھولیں">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "تنصیب کریں اور چلائے">
-
+<!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "ایپلی کیشن رکیں">
-
+<!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "ایپلی کیشن ٹھیک کریں">
-
+<!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "پراجیکٹ ہٹائیں">
-
+<!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "ترجیحات">
-
+<!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "فالتوجزوبندوبست کریں">
-
+<!ENTITY projectMenu_manageComponents_accesskey "M">
 <!ENTITY projectMenu_refreshTabs_label "ٹیب تازہ کریں">
 
 <!ENTITY runtimeMenu_label "چلنے کی">
-
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "منقطع کریں">
-
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_showPermissionTable_label "اجازتیں جدول">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "سکرین شوٹ">
@@ -61,15 +61,18 @@
 
 <!ENTITY key_quit "W">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
-
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "میرے منصوبے">
 <!ENTITY projectPanel_runtimeApps "چلنے کی ایپلیکیشن">
@@ -79,7 +82,7 @@
 <!ENTITY runtimePanel_simulator "سمیلیٹرز">
 <!ENTITY runtimePanel_other "دیگر">
 <!ENTITY runtimePanel_installsimulator "سمیولیٹر کو تنصیب کریں">
-
+<!ENTITY runtimePanel_noadbhelper "ADB مددگار تنصیب کریں">
 <!ENTITY runtimePanel_nousbdevice "آپ کے آلے کو نہیں دیکھ سکتے؟">
 <!ENTITY runtimePanel_refreshDevices_label " الات تازہ کریں">
 <!-- Lense -->
@@ -90,7 +93,7 @@
 <!ENTITY details_description "تصریح">
 <!ENTITY details_location "محل وقوع">
 <!ENTITY details_manifestURL "اپلی کیشن آئی ڈی">
-
+<!ENTITY details_removeProject_button "پراجیکٹ ہٹائیں">
 <!ENTITY details_showPrepackageLog_button "پہلے سے پیکیج شدپ لاگ دکھائیں">
 <!-- New App -->
 
@@ -108,9 +111,11 @@
 <!ENTITY addons_title "فالتو اجزاء">
 <!ENTITY addons_aboutaddons "ایڈ اون مینیجر کھولیں">
 <!-- Prefs -->
+
+<!ENTITY prefs_title "ترجیحات">
 <!ENTITY prefs_editor_title "تدوین کار">
 <!ENTITY prefs_general_title "عمومی">
-
+<!ENTITY prefs_restore "طےشدہ بحال کریں">
 <!ENTITY prefs_manage_components "فالتو جزو بندوبست کریں">
 
 <!ENTITY prefs_options_autoconnectruntime_tooltip "پچھلے چلنے کی سے پھر جڑیں جب ویبIDE  شروع  ہو">
@@ -125,7 +130,7 @@
 <!ENTITY prefs_options_expandtab_tooltip "ٹیب کے کریکٹر کے بجائے وقفے کا استعمال کریں">
 <!ENTITY prefs_options_detectindentation "خودکار حاشیہ">
 <!ENTITY prefs_options_detectindentation_tooltip "گمان پوٹ اساس پر ماخذ مواد">
-
+<!ENTITY prefs_options_autocomplete "خودکار مکمل">
 <!ENTITY prefs_options_autocomplete_tooltip "کوڈ خودکار تکمیل اہل بنائیں">
 <!ENTITY prefs_options_autoclosebrackets "خودکار بند خطوط وحدانی">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "خود کار طریقے سے بند خطوط وحدانی داخل کریں">
@@ -158,12 +163,12 @@
 <!ENTITY devicepreference_title "آلہ ترجیحات">
 <!ENTITY devicepreference_search "ترجیحات تلاش کریں">
 <!ENTITY devicepreference_newname "نیا ترجیح کا نام">
-
+<!ENTITY devicepreference_newtext "ترجیح کی قدر">
 <!ENTITY devicepreference_addnew "نئے ترجیح میں اضافہ کریں">
 <!-- Device Settings -->
 
 <!ENTITY devicesetting_title "آلہ سیٹکگیں">
-
+<!ENTITY devicesetting_search "تلاش کی سیٹکگیں">
 <!ENTITY devicesetting_newname "نیا سیٹگ کا نام">
 <!ENTITY devicesetting_newtext "سیٹنگ قدر">
 <!ENTITY devicesetting_addnew "نئی سیٹ کے لئے اضافہ کریں">
@@ -197,12 +202,12 @@
 
 <!ENTITY simulator_title "سملیٹر اختیارات">
 <!ENTITY simulator_remove "سملیٹر حذف کریں">
-
-
+<!ENTITY simulator_reset "طےشدہ بحال کریں">
+<!ENTITY simulator_name "نام">
 <!ENTITY simulator_software "سافٹ ویئر">
 <!ENTITY simulator_version "ورژن">
 <!ENTITY simulator_profile "پروفائل">
-
+<!ENTITY simulator_hardware "ہاڑڈویئر">
 <!ENTITY simulator_device "آلہ">
 <!ENTITY simulator_screenSize "سکرین">
 <!ENTITY simulator_pixelRatio "دانہ کا تناسب">

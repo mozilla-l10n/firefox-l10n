@@ -76,7 +76,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSDescription "آپ کے پروفائل میں ایک<a id='prefs-user-js-link'> user.js مسل</a> ہے، جس میں وہ ترجیحات شامپ ہیں جو &brandShortName; نے نہیں بنائیں تھیں۔">
 
 
-
+<!ENTITY aboutSupport.lockedPrefsValue "قدر">
 
 <!ENTITY aboutSupport.graphicsTitle "گرافکس">
 
@@ -106,7 +106,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "فیچر">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "تشخیصیات">
-
+<!ENTITY aboutSupport.graphicsFailureLogTitle "ناکامی لاگ">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 
