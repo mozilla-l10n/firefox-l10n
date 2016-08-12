@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Ndikhuphe apha!">
 <!ENTITY safeb.palm.decline.label "Sukusihoya esi silumkiso">
-
+<!ENTITY safeb.palm.reportPage.label "Kwakutheni ukuze liblokwe eli phepha?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Iphepha lohlaselo elichaziweyo!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

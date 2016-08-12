@@ -48,6 +48,8 @@
 <!ENTITY  switch_to_tab "Tshintshela kwithebhu">
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!ENTITY  tab_offline_version "Ibonisa udidi lwangaphandle kwe-intanethi">
+
 <!ENTITY  crash_reporter_title "I-&brandShortName; Umniki-ngxelo wokonakala">
 <!ENTITY  crash_message2 "I-&brandShortName; ibe nengxaki yaza yacima. Iithebhu zakho zimele zidweliswe i-&brandShortName; Qalisa iphepha xa uqalisa kwakhona.">
 <!ENTITY  crash_send_report_message3 "Xelela i-&vendorShortName; ngalo monakalo ukuze bawulungise">
@@ -106,9 +108,10 @@
 <!ENTITY edit_mode_cancel "Rhoxisa">
 
 <!ENTITY close_tab "Vala Ithebhu">
-
+<!ENTITY one_tab "Ithebhu e-1">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "I-&formatD; iithebhu">
 <!ENTITY new_tab_opened "Iithebhu ezintsha zivuliwe">
 <!ENTITY new_private_tab_opened "Ithebhu yangasese entsha ivuliwe">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -270,12 +273,18 @@
 <!ENTITY pref_whats_new_notification_summary "Funda ngeefitsha ezintsha emva kohlaziyo">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+
+<!ENTITY pref_category_experimental "Iifitsha zokubonisa">
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!ENTITY pref_custom_tabs "Iithebhu zeKhastom">
+<!ENTITY pref_custom_tabs_summary "Vumela ii-app zomntu wesithathu ukuba zivule ii-URL ngenkangeleko nemvakalo ekhastomayiziweyo.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY pref_activity_stream "Istrimu Somsebenzi">
+<!ENTITY pref_activity_stream_summary "Ifidi etyebileyo yembali yokubona nephepha eliphezulu eliphinda licingelwe lenza kube lula kunangaphambili ukufumana eyona nto uyikhangelayo kwi-&brandShortName;">
 
 <!ENTITY tracking_protection_prompt_title "Ngoku inoKhuseleko Lokutreka">
 <!ENTITY tracking_protection_prompt_text "Bhloka ngokuzimisela ii-elementi zokutreka ukuze ungazikhathazi nganto">
@@ -389,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Iithebhu ezingqamanisiweyo">
 
 <!ENTITY pref_default_browser "Yenze ibrawza yedifolti">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Tyelela iNkxaso yeMozilla">
 <!ENTITY pref_about_firefox "Malunga ne-&brandShortName;">
 <!ENTITY pref_vendor_faqs "Ii-FAQ">
 <!ENTITY pref_vendor_feedback "Nika ingxelo">
@@ -578,11 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "Susa imbali yokubhrawuza">
 <!ENTITY home_clear_history_confirm "Uqinisekile ukuba ufuna ukususa imbali yakho?">
 <!ENTITY home_bookmarks_empty "Ibhukhmakhi ozigcinileyo zibonakala apha.">
-
+<!ENTITY home_closed_tabs_title2 "Ivalwe kutshanje">
 <!ENTITY home_last_tabs_empty "Iithebhu zakho zakutshanje zibonakala apha.">
-
-
+<!ENTITY home_restore_all "Buyisela zonke">
+<!ENTITY home_closed_tabs_number "I-&formatD; iithebhu">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "Ithebhu e-1">
 <!ENTITY home_most_recent_empty "Iiwebhusayithi ozityelele kutshanje zibonakala apha.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
