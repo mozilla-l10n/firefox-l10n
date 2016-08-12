@@ -10,7 +10,7 @@
      A good criteria is the language in which you'd find the best documentation
      on web development on the web. -->
 
-<!ENTITY newButton.label            "ახალი">
+<!ENTITY newButton.label            "New">
 <!ENTITY newButton.tooltip          "Create and append a new style sheet to the document">
 <!ENTITY newButton.accesskey        "N">
 

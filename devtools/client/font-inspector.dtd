@@ -5,11 +5,11 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Font Inspector strings.
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
-<!ENTITY showAllFonts "იხილეთ გვერდზე გამოყენებული ყველა შრიფტი">
-<!ENTITY usedAs "გამოყენებული როგორც:  ">
-<!ENTITY system "სისტემა">
-<!ENTITY remote "დისტანციური">
+<!ENTITY showAllFonts "See all the fonts used in the page">
+<!ENTITY usedAs "Used as: ">
+<!ENTITY system "system">
+<!ENTITY remote "remote">
 
 <!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
      placeholder in font inspector preview text box. -->
-<!ENTITY previewHint "ტექსტის გადახედვა">
+<!ENTITY previewHint "Preview Text">
