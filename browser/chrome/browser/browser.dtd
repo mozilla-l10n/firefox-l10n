@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "S">
 <!ENTITY  unpinTab.label                     "Normal sekmeye dönüştür">
 <!ENTITY  unpinTab.accesskey                 "N">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Sekmeyi cihaza gönder">
+<!ENTITY  sendTabToDevice.accesskey          "c">
+<!ENTITY  sendPageToDevice.label             "Sayfayı cihaza gönder">
+<!ENTITY  sendPageToDevice.accesskey         "c">
+<!ENTITY  sendLinkToDevice.label             "Bağlantıyı cihaza gönder">
+<!ENTITY  sendLinkToDevice.accesskey         "c">
 <!ENTITY  moveToNewWindow.label              "Yeni pencereye taşı">
 <!ENTITY  moveToNewWindow.accesskey          "Y">
 <!ENTITY  bookmarkAllTabs.label              "Tüm sekmeleri yer imlerine ekle…">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "işaretçinizi kontrol ediyor. Kontrolü geri almak için Esc tuşuna basın.">
+<!ENTITY pointerlockWarning.generic.label "Bu belge işaretçinizi kontrol ediyor. Kontrolü geri almak için Esc tuşuna basın.">
 
 <!ENTITY closeWindow.label "Pencereyi kapat">
 <!ENTITY closeWindow.accesskey "P">
