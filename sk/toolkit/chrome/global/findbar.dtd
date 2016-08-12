@@ -14,3 +14,6 @@
 <!ENTITY caseSensitive.label "Rozlišovať veľké/malé písmená">
 <!ENTITY caseSensitive.accesskey "R">
 <!ENTITY caseSensitive.tooltiptext "Vyhľadáva s rozlišovaním malých a veľkých písmen">
+<!ENTITY entireWord.label "Celé slová">
+<!ENTITY entireWord.accesskey "C">
+<!ENTITY entireWord.tooltiptext "Vyhľadáva len celé slová">
