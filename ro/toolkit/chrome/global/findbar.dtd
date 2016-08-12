@@ -14,6 +14,6 @@
 <!ENTITY caseSensitive.label "Potrivește literele mari și mici">
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "Caută cu potrivirea literelor mari și mici">
-
-
-
+<!ENTITY entireWord.label "Cuvinte întregi">
+<!ENTITY entireWord.accesskey "W">
+<!ENTITY entireWord.tooltiptext "Caută numai cuvinte întregi">
