@@ -74,7 +74,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos2 "सेवाका सर्तहरू">
+<!ENTITY fxaccount_status_linktos2 "सेवाको सर्तहरू">
 
 
 
@@ -87,7 +87,7 @@
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
-<!ENTITY fxaccount_account_type_label "Firefox">
+<!ENTITY fxaccount_account_type_label "FireFox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
