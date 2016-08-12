@@ -4,7 +4,9 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Údaje telemetrie">
 
-<!ENTITY aboutTelemetry.changeDataChoices "Zmeniť">
+<!ENTITY aboutTelemetry.changeDataChoices "
+  Zmeniť
+">
 
 <!ENTITY aboutTelemetry.uploadEnabled "Odosielanie údajov FHR je <span>povolené</span>.">
 
@@ -51,6 +53,7 @@
 <!ENTITY aboutTelemetry.chromeHangsSection "Zlyhania prehliadača">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "Zlyhania vlákien">
+
 
 <!ENTITY aboutTelemetry.histogramsSection "Histogramy">
 
