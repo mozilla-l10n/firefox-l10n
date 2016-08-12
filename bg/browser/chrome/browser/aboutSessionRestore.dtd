@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Извинявайте за невъзстановената предишна сесия.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; не може да възстанови предишните ви прозорци и раздели. Обикновено причината е в последната отворена страница.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; не можа да възстанови предишните ви прозорци и раздели. Обикновено причината е в последната отворена страница.">
 <!ENTITY restorepage.tryThis        "Можете да опитате:">
 <!ENTITY restorepage.restoreSome    "Да затворите един или повече раздели, които смятате, че причиняват проблема">
 <!ENTITY restorepage.startNew       "Да започнете нова сесия">
