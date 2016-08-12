@@ -12,7 +12,7 @@
 <!ENTITY accountManager.newAccount.label     "Nieuwe account">
 <!ENTITY accountManager.newAccount.accesskey "N">
 <!ENTITY accountManager.close.label          "Sluiten">
-<!ENTITY accountManager.close.accesskey      "l">
+<!ENTITY accountManager.close.accesskey      "S">
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
