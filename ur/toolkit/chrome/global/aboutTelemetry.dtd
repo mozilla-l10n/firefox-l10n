@@ -11,9 +11,13 @@
 
 
 
+<!ENTITY aboutTelemetry.showArchivedPingData "محفوظہ پنگ کوائف">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "پنگ کوائف کی نمائش کریں:">
 
+<!ENTITY aboutTelemetry.structured "ساخت شدہ">
 
+<!ENTITY aboutTelemetry.raw "خام JSON">
 
 
 

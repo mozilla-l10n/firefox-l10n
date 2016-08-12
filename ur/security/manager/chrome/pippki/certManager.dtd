@@ -81,7 +81,7 @@
 <!ENTITY exceptionMgr.title                   "سلامتی استثنا شامل کریں">
 <!ENTITY exceptionMgr.exceptionButton.label   "تصدیق شدہ حفاظتی استثنا">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "ت">
-
+<!ENTITY exceptionMgr.supplementalWarning     "جائز بینکوں، دکانوں، اور دیگر عوامی سائٹس ایسا کرنے کو کہہ نہیں کریں گے.">
 <!ENTITY exceptionMgr.certlocation.caption2   "پیش کار">
 <!ENTITY exceptionMgr.certlocation.url        "محل وقوع:">
 <!ENTITY exceptionMgr.certlocation.download   "تصدیق نامہ لائیں">

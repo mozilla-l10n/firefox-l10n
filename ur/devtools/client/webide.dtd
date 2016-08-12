@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY projectMenu_label "پراجیکٹ">
 
 <!ENTITY projectMenu_newApp_label "نیا اپلی کیشن…">
 
@@ -30,7 +31,7 @@
 <!ENTITY runtimeMenu_disconnect_label "منقطع کریں">
 
 <!ENTITY runtimeMenu_showPermissionTable_label "اجازتیں جدول">
-
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
 <!ENTITY runtimeMenu_takeScreenshot_label "سکرین شوٹ">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "چلنے کی معلومات">
@@ -53,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_label "زوم پھر سیٹ کریں">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
+<!ENTITY projectButton_label "کھولیں ایپلی کیشن">
 <!ENTITY runtimeButton_label "منتخب کریں چلنے کی">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
