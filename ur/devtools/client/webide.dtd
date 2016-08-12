@@ -32,26 +32,26 @@
 <!ENTITY runtimeMenu_showPermissionTable_label "اجازتیں جدول">
 
 <!ENTITY runtimeMenu_takeScreenshot_label "سکرین شوٹ">
-
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "چلنے کی معلومات">
-
-
-
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "مانیٹر">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "آلہ ترجیحات">
-
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "آلہ کی سیٹکگیں">
-
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "نظارہ">
-
+<!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "تدوین کار ٹوگل کریں">
-
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "اندر زوم کریں">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "باہر زوم کریں">
-
+<!ENTITY viewMenu_zoomout_accesskey "O">
 <!ENTITY viewMenu_resetzoom_label "زوم پھر سیٹ کریں">
-
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY runtimeButton_label "منتخب کریں چلنے کی">
 <!-- We try to repicate Firefox' bindings: -->
@@ -112,11 +112,11 @@
 <!ENTITY prefs_manage_components "فالتو جزو بندوبست کریں">
 
 <!ENTITY prefs_options_autoconnectruntime_tooltip "پچھلے چلنے کی سے پھر جڑیں جب ویبIDE  شروع  ہو">
-
+<!ENTITY prefs_options_rememberlastproject "آخری منصوبے یاد رکھیں">
 <!ENTITY prefs_options_rememberlastproject_tooltip "گزشتہ منصوبے کو بحال کریں جب ویب ائ ڈی ای شروع ہوتا ہے">
-
-
-
+<!ENTITY prefs_options_templatesurl "یو آر ال سانچے">
+<!ENTITY prefs_options_templatesurl_tooltip "دستیاب سانچوں کے اشارے">
+<!ENTITY prefs_options_showeditor "تدوین کار دکھائیں">
 <!ENTITY prefs_options_showeditor_tooltip "اندرونی تدوین کار دکھائیں">
 <!ENTITY prefs_options_tabsize "ٹیب سائز">
 <!ENTITY prefs_options_expandtab "نرم ٹیب">
@@ -138,7 +138,7 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "چلنے کے وقت معلومات">
-
+<!ENTITY runtimedetails_adbIsRoot "ADB کی جڑ ہے:">
 <!ENTITY runtimedetails_summonADBRoot "جڑ آلہ">
 <!ENTITY runtimedetails_ADBRootWarning "(کھلے بوٹلوڈر کی طلب ہے)">
 <!ENTITY runtimedetails_unrestrictedPrivileges "غیر محدود DevTools استحقاق:">
@@ -162,7 +162,7 @@
 
 <!ENTITY devicesetting_title "آلہ سیٹکگیں">
 
-
+<!ENTITY devicesetting_newname "نیا سیٹگ کا نام">
 <!ENTITY devicesetting_newtext "سیٹنگ قدر">
 <!ENTITY devicesetting_addnew "نئی سیٹ کے لئے اضافہ کریں">
 <!-- Monitor -->
