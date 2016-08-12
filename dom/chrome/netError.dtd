@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>Fayl köçürülmüş, silinmiş ya da adı dəyişmiş ola bilər.</li><li>Ünvan səhv yazılmış ola bilər.</li><li>İstədiyiniz obyektə müraciət üçün icazəniz olmaya bilər.</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Faylın işlədilməsinə icazə verilmədi">
-
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Fayl silinmiş, yeri dəyişdirilmiş və ya icazə yetərsizliyi ola bilər.</li></ul>">
 
 <!ENTITY generic.title "İstək yerinə yetirilə bilmir">
 <!ENTITY generic.longDesc "<p>Bu xəta və problem haqqında ətraflı məlumat mövcud deyil</p>">
@@ -85,3 +85,4 @@
 <!ENTITY inadequateSecurityError.title "Bağlantınız güvənilir deyil">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> vaxtı keçmiş texnologiya işlədir və hücumlara açıqdır. Hücumçu güvənilir olduğunu düşündüyünüz məlumatı əldə edə bilər. Saytın administratoru problemi həll etdikdən sonra təkrar daxil ola bilərsiz.</p><p>Xəta kodu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
