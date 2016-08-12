@@ -54,7 +54,7 @@
 <!ENTITY fxaccount_status_manage_account "खाता ब्य्वस्थापन">
 
 
-
+<!ENTITY fxaccount_status_syncing2 "सिङ्क गरिँदै…">
 
 
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
@@ -64,7 +64,7 @@
 
 
 
-
+<!ENTITY fxaccount_status_needs_finish_migrating "Firefox को नयाँ खातामा जानको लागि लगिन गर्न यहाँ छुनुहोस्">
 <!ENTITY fxaccount_status_bookmarks "पुस्तकचिनो">
 
 
@@ -74,6 +74,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos2 "सेवाका सर्तहरू">
 
 
 
@@ -85,6 +86,8 @@
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
