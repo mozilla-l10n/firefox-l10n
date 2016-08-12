@@ -32,14 +32,14 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-
-
+<!ENTITY  socksRemoteDNS.label2         "SOCKS v5 kullanırken vekil sunucu DNS’i">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "İletișim noktası:">
 <!ENTITY  HTTPport.accesskey            "n">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "k">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Vekil sunucu kullanma:">
+<!ENTITY  noproxy.label                 "Vekil sunucu kullanılmasın:">
 <!ENTITY  noproxy.accesskey             "k">
 <!ENTITY  noproxyExplain.label          "Örnek: .mozilla.org, .com.tr, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Tüm iletişim kuralları için bu vekil sunucuyu kullan">

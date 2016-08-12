@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY newWindowsAsTabs.label       "Yeni pencere yerine yeni sekme aç">
+<!ENTITY newWindowsAsTabs.accesskey   "Y">
 
 <!ENTITY warnCloseMultipleTabs.label  "Çok sayıda sekme kapatılırken beni uyar">
 <!ENTITY warnCloseMultipleTabs.accesskey  "o">

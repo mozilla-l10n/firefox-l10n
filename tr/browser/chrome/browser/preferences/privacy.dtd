@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "Sitelerden çerezleri kabul et">
 <!ENTITY  acceptCookies.accesskey       "k">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Üçüncü taraf çerezlerini kabul et:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
 <!ENTITY  acceptThirdParty.always.label   "Her zaman">
 <!ENTITY  acceptThirdParty.never.label    "Asla">
 <!ENTITY  acceptThirdParty.visited.label  "Ziyaret edilenlerden">
@@ -104,6 +105,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Ayarlar…">
 <!ENTITY  clearOnCloseSettings.accesskey "A">
 
-
+<!ENTITY  browserContainersLearnMore.label      "Daha fazla bilgi al">
 
 
