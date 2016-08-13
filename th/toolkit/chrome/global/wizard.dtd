@@ -16,8 +16,8 @@
 <!ENTITY  button-finish-unix.label     "เสร็จ">
 <!ENTITY  button-cancel-unix.label     "ยกเลิก">
 
-<!ENTITY  button-back-win.label        "&lt; ก่อนหน้า">
-<!ENTITY  button-back-win.accesskey    "ก">
+<!ENTITY  button-back-win.label        "&lt; ย้อนกลับ">
+<!ENTITY  button-back-win.accesskey    "ย">
 <!ENTITY  button-next-win.label        "ถัดไป &gt;">
 <!ENTITY  button-next-win.accesskey    "ถ">
 <!ENTITY  button-finish-win.label      "เสร็จ">

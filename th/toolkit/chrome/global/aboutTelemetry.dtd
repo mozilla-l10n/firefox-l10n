@@ -57,6 +57,6 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  แสดงข้อมูลดิบจากการค้าง">
 
-<!ENTITY aboutTelemetry.filterText "  ตัวกรอง (สตริง หรือ /นิพจน์ปรกติ/)">
+<!ENTITY aboutTelemetry.filterText "  ตัวกรอง (สตริงหรือ /regexp/)">
 
 
