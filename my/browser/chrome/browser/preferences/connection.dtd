@@ -32,8 +32,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-
-
+<!ENTITY  socksRemoteDNS.label2         "SOCKS v5 ကို အသုံးပြုလျှင် DNS ကို ပရောင်ဇီလုပ်ပေးပါ">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "Port:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
@@ -42,7 +42,7 @@
 <!ENTITY  noproxy.label                 "No Proxy for:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "ဥပမာ-.mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Use this proxy server for all protocols">
+<!ENTITY  shareproxy.label              "ပရိုတိုကောလ်အားလုံးတွင် ဒီပရောက်ဇီကို အသုံးပြုပါ">
 <!ENTITY  shareproxy.accesskey          "s">
 <!ENTITY  autologinproxy.label          "လျှို့ဝှက်စကားလုံး သိမ်းထားပြီးသားရှိပါက (i)ဝင်ရောက်သုံးဆွဲခြင်း အတွက် ထပ်မတောင်းပါနှင့်">
 <!ENTITY  autologinproxy.accesskey      "i">

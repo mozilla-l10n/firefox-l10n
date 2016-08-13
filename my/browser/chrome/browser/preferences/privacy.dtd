@@ -19,9 +19,9 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "ပိုမိုလေ့လာရန်">
 <!ENTITY changeBlockList.label          "ပိတ်ပင်ထားသည့် စာရင်းကို ပြင်ရန် C">
 <!ENTITY changeBlockList.accesskey      "C">
+
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
 <!ENTITY  doNotTrack.pre.label          "သင်သည်">
 <!ENTITY  doNotTrack.settings.label     "ခြေရာမခံပါနှင့် အပြင်အဆင်များကို စီမံနိုင်ပါသည်">
 <!ENTITY  doNotTrack.post.label         ".">
@@ -31,22 +31,23 @@
 <!ENTITY  locationBar.label             "တည်နေရာ အတန်း">
 
 <!ENTITY  locbar.suggest.label          "တည်နေရာဘားတန်းကို အသုံးပြုပါက အကြံပေးလိုပါသည်၊">
-<!ENTITY  locbar.history.label          "မှတ်တမ်း H">
+<!ENTITY  locbar.history.label          "မှတ်တမ်း">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "စာမှတ်များ">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
-<!ENTITY  locbar.openpage.label         "ဖွင့်ထားသည့် စာမျက်နှာများ O">
+<!ENTITY  locbar.openpage.label         "ဖွင့်ထားသည့် စာမျက်နှာများ">
 <!ENTITY  locbar.openpage.accesskey     "O">
-<!ENTITY  locbar.searches.label         "မူသေ ရှာဖွေရေးအင်ဂျင်မှ ဆက်စပ်သည့် ရှာဖွေမှုများ d">
+<!ENTITY  locbar.searches.label         "မူသေ ရှာဖွေရေးအင်ဂျင်မှ ဆက်စပ်သည့် ရှာဖွေမှုများ">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "ရှာဖွေရေးအင်ဂျင်၏ အကြံပေးချက်များအတွက် အပြင်အဆင်ကို ပြောင်းလဲရန် g">
+<!ENTITY  suggestionSettings.label      "ရှာဖွေရေးအင်ဂျင်၏ အကြံပေးချက်များအတွက် အပြင်အဆင်ကို ပြောင်းလဲရန်…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Aကွန်ရက်များမှ ကွတ်ကီးများကို လက်ခံပါ။">
+<!ENTITY  acceptCookies.label           "ဝဘ်ဆိုက်များထံမှ ကွတ်ကီးများကို လက်ခံပါ">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "ကြားခံဝန်ဆောင်မှုများထံမှ ကွတ်ကီးများကို လက်ခံပါ">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "အစဉ်အမြဲ">
 <!ENTITY  acceptThirdParty.never.label    "ဘယ်တော့မှ">
 <!ENTITY  acceptThirdParty.visited.label  "လည်ပတ်ကြည့်ရှုပီးသည်မှ">
@@ -71,10 +72,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; သည်သင်၏ရှာဖွေမှူများကိုမှတ်သားထားပေးမည်ဖြစ်သည်။">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "သင်အလိုရှိနိုင်တာက">
 <!ENTITY  rememberActions.clearHistory.label  "ရှာဖွေရေး မှတ်တမ်းကို ရှင်းလင်းပါ">
 <!ENTITY  rememberActions.middle.label        "၊ (သို့)">
@@ -82,9 +83,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; က တူညီတဲ့ အပြင်အဆင်များကို သီးသန့် လှော်လှန်မှုအဖြစ် သုံးစွဲမှာ ဖြစ်ပြီး၊ ကွန်ရက်ကို သင်လှော်လှန်နေစဉ် ဘယ် မှတ်တမ်းကိုမှ မှတ်သားထားမှာ မဟုတ်ဘူး။">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "သင်လည်း အလိုရှိနိုင်တာက">
 <!ENTITY  dontrememberActions.clearHistory.label "ရှာဖွေရေး မှတ်တမ်းကို ရှင်းလင်းပါ">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -104,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "t အပြင်အဆင်များ...">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-
-
-
+<!ENTITY  browserContainersHeader.label         "ကွန်တိန်နာတပ်ဗ်များ">
+<!ENTITY  browserContainersLearnMore.label      "ပိုမိုလေ့လာရန်">
+<!ENTITY  browserContainersEnabled.label        "ကွန်တိန်နာတပ်ဗ်များအသုံးပြုခြင်းကို ဖွင့်ရန်">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
