@@ -5,3 +5,4 @@
 <!ENTITY inspectorAddNode.label "Создать новый узел">
 <!ENTITY inspectorAddNode.accesskey "з">
 <!ENTITY inspectorEyeDropper.label "Захватить цвет со страницы">
+<!ENTITY inspectorBreadcrumbsGroup "Навигационная цепочка">

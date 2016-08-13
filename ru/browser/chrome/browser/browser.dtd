@@ -158,11 +158,8 @@
 <!ENTITY urlbar.pluginsNotificationAnchor.label "Управление запуском плагина на этой странице">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label "Изменение того, можете ли вы получать уведомления с сайта">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Управление доступом сайта к вашей камере и/или микрофону">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label "Сайт имеет доступ к вашей камере и/или микрофону">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label "Управление доступом сайта к вашему микрофону">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Сайт имеет доступ к вашему микрофону">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label "Управление доступом сайта к вашим окнам или экрану">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label "Сайт имеет доступ к окну или вашему экрану">
 <!ENTITY urlbar.pointerLockNotificationAnchor.label "Изменение того, может ли сайт скрывать указатель">
 <!ENTITY urlbar.servicesNotificationAnchor.label "Просмотреть сообщение об установке службы">
 <!ENTITY urlbar.translateNotificationAnchor.label "Перевод этой страницы">
