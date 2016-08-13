@@ -4,9 +4,9 @@
 
 <!ENTITY aboutNetworking.title                 "เกี่ยวกับเครือข่าย">
 <!ENTITY aboutNetworking.warning               "ยังอยู่ในช่วงทดสอบ โปรดใช้งานภายใต้การดูแลของผู้ปกครอง">
-<!ENTITY aboutNetworking.showNextTime          "แสดงการเตือนนี้ทุกครั้ง">
+<!ENTITY aboutNetworking.showNextTime          "แสดงคำเตือนนี้ในครั้งถัดไป">
 <!ENTITY aboutNetworking.ok                    "ตกลง">
-
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "Sockets">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
@@ -17,7 +17,7 @@
 <!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "ทำงาน">
-<!ENTITY aboutNetworking.idle                  "หยุดรอ">
+<!ENTITY aboutNetworking.idle                  "ว่าง">
 <!ENTITY aboutNetworking.host                  "โฮสต์">
 <!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "ส่ง">
@@ -25,11 +25,11 @@
 <!ENTITY aboutNetworking.family                "Family">
 <!ENTITY aboutNetworking.addresses             "ที่อยู่">
 <!ENTITY aboutNetworking.expires               "หมดอายุ (วินาที)">
-<!ENTITY aboutNetworking.messagesSent          "ข้อความถูกส่ง">
-<!ENTITY aboutNetworking.messagesReceived      "ได้รับข้อความ">
+<!ENTITY aboutNetworking.messagesSent          "ข้อความที่ส่ง">
+<!ENTITY aboutNetworking.messagesReceived      "ข้อความที่รับ">
 <!ENTITY aboutNetworking.bytesSent             "จำนวนไบต์ที่ส่ง">
 <!ENTITY aboutNetworking.bytesReceived         "จำนวนไบต์ที่รับ">
 
 
-
+<!ENTITY aboutNetworking.dnsDomain             "โดเมน">
 

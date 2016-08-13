@@ -21,7 +21,7 @@
 <!ENTITY  generalSize           "ขนาด:">
 <!ENTITY  generalReferrer       "URL อ้างอิง:">
 <!ENTITY  generalSource         "ที่มาแคช:">
-<!ENTITY  generalModified       "แก้ไขเมื่อ:">
+<!ENTITY  generalModified       "เปลี่ยนแปลงเมื่อ:">
 <!ENTITY  generalEncoding2      "รหัสอักขระ:">
 <!ENTITY  generalMetaName       "ชื่อ">
 <!ENTITY  generalMetaContent    "เนื้อหา">
@@ -41,7 +41,7 @@
 <!ENTITY  mediaSaveAs           "บันทึกเป็น…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "ตัวอย่างสื่อ:">
+<!ENTITY  mediaPreview          "แสดงตัวอย่างสื่อ:">
 
 <!ENTITY  feedTab               "ฟีด">
 <!ENTITY  feedTab.accesskey     "F">
@@ -49,7 +49,7 @@
 <!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "การอนุญาต">
-<!ENTITY  permTab.accesskey     "ส">
+<!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "ใช้ค่าปริยาย">
 <!ENTITY  permAskAlways         "ถามเสมอ">
 <!ENTITY  permAllow             "อนุญาต">
@@ -65,7 +65,7 @@
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "ดูใบรับรอง">
 <!ENTITY  securityView.accesskey "V">
-<!ENTITY  securityView.unknown   "ไม่ทราบ">
+<!ENTITY  securityView.unknown   "ไม่รู้จัก">
 
 
 <!ENTITY  securityView.identity.header   "อัตลักษณ์เว็บไซต์">
@@ -74,13 +74,13 @@
 <!ENTITY  securityView.identity.verifier "ยืนยันโดย:">
 
 <!ENTITY  securityView.privacy.header                   "ความเป็นส่วนตัวและประวัติ">
-<!ENTITY  securityView.privacy.history                  "ฉันเคยเข้าเว็บไซต์นี้มาก่อนหรือไม่">
-<!ENTITY  securityView.privacy.cookies                  "เว็บไซต์นี้เก็บข้อมูล (คุกกี้) บนคอมพิวเตอร์ของฉันหรือไม่">
+<!ENTITY  securityView.privacy.history                  "ฉันเคยเยี่ยมชมเว็บไซต์นี้ก่อนหน้าวันนี้หรือไม่?">
+<!ENTITY  securityView.privacy.cookies                  "เว็บไซต์นี้จัดเก็บข้อมูล (คุกกี้) ลงในคอมพิวเตอร์ของฉันหรือไม่?">
 <!ENTITY  securityView.privacy.viewCookies              "ดูคุกกี้">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "ค">
-<!ENTITY  securityView.privacy.passwords                "ฉันได้บันทึกรหัสผ่านสำหรับเว็บไซต์นี้ไว้หรือไม่">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "ฉันเคยบันทึกรหัสผ่านใด ๆ สำหรับเว็บไซต์นี้หรือไม่?">
 <!ENTITY  securityView.privacy.viewPasswords            "ดูรหัสผ่านที่บันทึกไว้">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "ร">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "รายละเอียดทางเทคนิค">
 
