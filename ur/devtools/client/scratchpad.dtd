@@ -64,6 +64,7 @@
 <!ENTITY largerFont.accesskey         "ڑ">
 
 <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey2       "="> 
 
 <!ENTITY smallerFont.label            "چھوٹا تر فانٹ">
 <!ENTITY smallerFont.accesskey        "و">
@@ -71,7 +72,7 @@
 
 <!ENTITY normalSize.label             "عام ناپ">
 <!ENTITY normalSize.accesskey         "ع">
-
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "تدوین">
 <!ENTITY editMenu.accesskey           "ت">
@@ -148,4 +149,6 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
+<!ENTITY evalFunction.label "موجودہ تقریب کا اندازہ کریں">
+<!ENTITY evalFunction.accesskey "v">
 <!ENTITY evalFunction.key "ع">
