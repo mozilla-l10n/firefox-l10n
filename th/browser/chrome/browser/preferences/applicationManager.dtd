@@ -5,4 +5,4 @@
 <!ENTITY appManager.title     "รายละเอียดแอปพลิเคชัน">
 <!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "เอาออก">
-<!ENTITY remove.accesskey     "อ">
+<!ENTITY remove.accesskey     "เ">
