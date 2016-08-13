@@ -23,7 +23,7 @@
 <!ENTITY helpKeyboardShortcuts.label     "Pintasan Papan Kekunci">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "Mulakan semula tanpa Addon…">
+<!ENTITY helpSafeMode.label       "Mulakan semula tanpa Add-ons…">
 <!ENTITY helpSafeMode.accesskey   "M">
 <!ENTITY helpSafeMode.stop.label       "Mulakan semula dengan Add-ons">
 <!ENTITY helpSafeMode.stop.accesskey   "M">
@@ -35,7 +35,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey  "M">
 
 <!ENTITY helpFeedbackPage.label      "Hantar Maklumbalas…">
-<!ENTITY helpFeedbackPage.accesskey  "s">
+<!ENTITY helpFeedbackPage.accesskey  "H">
 
 <!ENTITY helpShowTour2.label            "&brandShorterName; Lawatan">
 <!ENTITY helpShowTour2.accesskey        "w">
@@ -43,7 +43,7 @@
 <!ENTITY preferencesCmdMac.label        "Keutamaan…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label          "Servis">
+<!ENTITY servicesMenuMac.label          "Perkhidmatan">
 
 <!ENTITY hideThisAppCmdMac2.label       "Sorok &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
@@ -51,4 +51,4 @@
 <!ENTITY hideOtherAppsCmdMac.label      "Sorok yang lain-lain">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Pamer semua">
+<!ENTITY showAllAppsCmdMac.label        "Pamer Semua">

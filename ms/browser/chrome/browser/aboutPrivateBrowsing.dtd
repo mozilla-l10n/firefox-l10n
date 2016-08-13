@@ -6,25 +6,26 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Buka satu tetingkap sulit">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
+<!ENTITY privateBrowsing.title                           "Pelayaran Peribadi">
 <!ENTITY privateBrowsing.title.tracking                  "Pelayaran Peribadi dengan Perlindungan Penjejakan">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Apabila anda belayar dalam Tetingkap Peribadi, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "tidak menyimpan">
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "halaman yang dilawati">
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.searches              "Carian">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "kuki">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "fail sementara">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "akan menyimpan">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " anda:">
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.info.downloads             "muat turun">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "penandabuku">
+<!ENTITY aboutPrivateBrowsing.note.before                "Pelayaran Peribadi ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "tidak membuat anda tanpa nama">
+<!ENTITY aboutPrivateBrowsing.note.after                 " dalam internet. Majikan atau perkhidmatan pembekal Internet anda masih boleh tahu apa halaman yang anda lawati.">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Belajar lebih lanjut">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Pelayaran Peribadi">
 
 <!ENTITY trackingProtection.title                        "Perlindungan Penjejakan">
-
-
+<!ENTITY trackingProtection.description2                 "Beberapa laman web menggunakan pengesan yang boleh memantau aktiviti anda di Internet. Dengan Perlindungan Penjejakan Firefox akan menyekat banyak pengesan yang boleh mengumpul maklumat mengenai tingkah laku pelayaran anda.">
+<!ENTITY trackingProtection.startTour1                   "Ketahui cara ia berfungsi">

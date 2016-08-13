@@ -12,8 +12,8 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "M">
 <!ENTITY update.updateButton.label2                "Ulang mula &brandShortName; untuk Kemaskini">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Terapkan Kemaskini…">
-<!ENTITY update.applyButtonBillboard.accesskey    "a">
+<!ENTITY update.applyButtonBillboard.label        "Memohon Kemaskini...">
+<!ENTITY update.applyButtonBillboard.accesskey    "M">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
@@ -28,7 +28,7 @@
 <!ENTITY community.exp.middle       " adalah ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "komuniti global">
-<!ENTITY community.exp.end          " bekerjasama agar Web sentiasa terbuka, awam dan boleh dicapai oleh semua.">
+<!ENTITY community.exp.end          " bekerjasama supaya Web ini terbuka, awam dan boleh diakses oleh semua.">
 
 <!ENTITY community.start2           "&brandShortName; direka oleh ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -65,7 +65,7 @@
 <!ENTITY update.adminDisabled       "Kemaskini dihalang oleh pentadbir sistem anda">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; sedang dikemaskini oleh pemegang lain">
-
+<!ENTITY update.restarting          "Memulakan semula...">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
