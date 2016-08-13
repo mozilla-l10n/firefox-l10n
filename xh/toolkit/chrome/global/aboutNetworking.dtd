@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "Apha kusalingwa. Ungayisebenzisi ungajongwanga ngumntu omdala.">
 <!ENTITY aboutNetworking.showNextTime          "Bonisa esi silumkiso kwixesha elizayo">
 <!ENTITY aboutNetworking.ok                    "KULUNGILE">
-
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "Iisokethi">
 <!ENTITY aboutNetworking.dns                   "I-DNS">
 <!ENTITY aboutNetworking.websockets            "IiSokethi ZeWebhu">
@@ -30,6 +30,6 @@
 <!ENTITY aboutNetworking.bytesSent             "IiByte Zithunyelwe">
 <!ENTITY aboutNetworking.bytesReceived         "IiByte Zifunyenwe">
 <!ENTITY aboutNetworking.dnsLookup             "Ukhangelo LweDNS">
-
-
+<!ENTITY aboutNetworking.dnsLookupButton       "Combulula">
+<!ENTITY aboutNetworking.dnsDomain             "Idomeyini">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">

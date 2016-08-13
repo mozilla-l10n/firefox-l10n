@@ -52,11 +52,12 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "IArhente yomsebenzisi">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Ukusetyenziswa kwememori">
-
+<!ENTITY aboutSupport.appBasicsPerformance "Ukusebenza">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Abasebenzisi beNkonzo Ababhalisiweyo ">
 
+<!ENTITY aboutSupport.appBasicsProfiles "Iiprofayile">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "IWindows yeenkqubo ezininzi">
 
@@ -85,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Iigrafikhi">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "Ibeka Oovimba">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Intembeko">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Qinisekisa Intembeko">
 
 <!ENTITY aboutSupport.jsTitle "I-JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "I-GC eyandayo">
@@ -108,10 +110,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Zama iMo yokuSebenza eKhuselekileyo">
 <!ENTITY aboutSupport.restartInSafeMode.label "Qalisa kwakhona izongezelelo zenziwe azasebenza…">
 
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Iifitsha">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Iidayagnostiki">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Isilele ukuLoga">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Ilogi Yesigqibo">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Isilondolozi Sokukresha Siyekise Iifitsha">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Ukusebenza">

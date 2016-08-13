@@ -31,7 +31,8 @@
 <!ENTITY alwaysAsk.label "Ndibuze qho ngendawo emazigcinwe kuyo iifayile">
 <!ENTITY alwaysAsk.accesskey "q">
 
-
+<!ENTITY alwaysCheckDefault2.label        "Khangela qho ukuba i-&brandShortName; iyibhrawuza yakho esisiseko">
+<!ENTITY alwaysCheckDefault2.accesskey    "o">
 <!ENTITY setAsMyDefaultBrowser2.label     "Yenza Ibeyemiselweyo">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "I">
 <!ENTITY isDefault.label                  "I-&brandShortName; kungokunje iyibhrawuza yakho esisiseko">
