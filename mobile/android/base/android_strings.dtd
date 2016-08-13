@@ -166,8 +166,11 @@
 <!ENTITY pref_tracking_protection_disabled "Desactivada">
 <!ENTITY pref_whats_new_notification "Novedades en &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Conoza las nuevas funciones tras una actualización">
+<!ENTITY pref_category_experimental "Características experimentales">
 <!ENTITY pref_custom_tabs "Pestañas personalizadas">
 <!ENTITY pref_custom_tabs_summary "Permitir a aplicaciones de terceros abrir URL con un aspecto personalizado.">
+<!ENTITY pref_activity_stream "Flujo de actividad">
+<!ENTITY pref_activity_stream_summary "Un canal visual enriquecido del historial y una página de inicio rediseñada que hacen más fácil que nunca encontrar exactamente lo que estás buscando en &brandShortName;.">
 <!ENTITY tracking_protection_prompt_title "Ahora con protección contra rastreo">
 <!ENTITY tracking_protection_prompt_text "Bloquear activamente los elementos de rastreo para que no tenga que preocuparse.">
 <!ENTITY tracking_protection_prompt_tip_text "Visite los ajustes de privacidad para más información">
