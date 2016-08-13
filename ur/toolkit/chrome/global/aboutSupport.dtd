@@ -109,6 +109,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "ناکامی لاگ">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "فیصلہ لاگ">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "حادثے گارڈ معذور خصوصیات">
 

@@ -4,12 +4,19 @@
 
 <!ENTITY aboutTelemetry.pageTitle "ٹیلیمٹری کوائف">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  تبدیل کریں">
 
+<!ENTITY aboutTelemetry.uploadEnabled "  FHR اعداد و شمار کی اپ لوڈ <span>اہل بنائیں</span>">
 
+<!ENTITY aboutTelemetry.uploadDisabled "  FHR اعداد و شمار کی اپ لوڈ<span>نااہل بنائیں</span>">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "توسیعی ٹیلیمیٹری ریکارڈنگ<span>اہل بنائیں</span>">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  توسیعی ٹیلیمیٹری ریکارڈنگ<span>نااہل بنائیں</span>">
 
+<!ENTITY aboutTelemetry.pingDataSource "کوائف ماخذ کو پنگ کریں">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "موجودہ پنگ کے کوائف">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "محفوظہ پنگ کوائف">
 
@@ -19,16 +26,23 @@
 
 <!ENTITY aboutTelemetry.raw "خام JSON">
 
+<!ENTITY aboutTelemetry.showSubsessionData "ذیلی سیشن کوائف دکھائیں">
+
+<!ENTITY aboutTelemetry.choosePing "پنگ کا انتخاب کریں">
 
 
 
+<!ENTITY aboutTelemetry.rawPingData "خام پنگ ڈیٹا…">
 
-
+<!ENTITY aboutTelemetry.archiveWeekHeader "ہفتہ">
 
 <!ENTITY aboutTelemetry.archivePingHeader "پینگ">
 
+<!ENTITY aboutTelemetry.generalDataSection "  جنرل کوائف">
 
+<!ENTITY aboutTelemetry.environmentDataSection "ماحولیاتی کوائف">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "  ٹیلیمیٹری لاگ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  سست SQL سٹیٹمنٹ">
 
