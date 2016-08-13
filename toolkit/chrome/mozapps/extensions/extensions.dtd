@@ -119,13 +119,13 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-<!ENTITY discover.title                       "ส่วนเสริมคืออะไร ?">
+<!ENTITY discover.title                       "ส่วนเสริมคืออะไร?">
 <!ENTITY discover.description2                "ส่วนเสริมคือโปรแกรมที่ทำให้คุณปรับแต่งความสามารถพิเศษหรือรูปโฉมของ &brandShortName; ได้ ลองใช้แถบข้างที่ช่วยประหยัดเวลาใช้งาน ส่วนเสริมเตือนสภาพอากาศ หรือชุดตกแต่งเพื่อสร้าง &brandShortName; ที่เป็นของคุณเองดูสิ">
 <!ENTITY discover.footer                      "เมื่อคุณเชื่อมต่ออินเทอร์เน็ต ช่องนี้จะแสดงส่วนเสริมยอดเยี่ยมและส่วนเสริมยอดนิยมให้คุณลองใช้ดู">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "รุ่น">
-<!ENTITY detail.lastupdated.label             "ปรับรุ่นแล้ว">
+<!ENTITY detail.lastupdated.label             "ปรับปรุงล่าสุด">
 <!ENTITY detail.creator.label                 "ผู้พัฒนา">
 <!ENTITY detail.homepage.label                "หน้าแรก">
 <!ENTITY detail.numberOfDownloads.label       "จำนวนดาวน์โหลด">
@@ -165,7 +165,7 @@
 
 <!ENTITY sort.name.label                      "ชื่อ">
 <!ENTITY sort.name.tooltip                    "เรียงตามชื่อ">
-<!ENTITY sort.dateUpdated.label               "ปรับรุ่นล่าสุด">
+<!ENTITY sort.dateUpdated.label               "ปรับปรุงล่าสุด">
 <!ENTITY sort.dateUpdated.tooltip             "เรียงตามวันปรับรุ่น">
 <!ENTITY sort.relevance.label                 "ตรงกันที่สุด">
 <!ENTITY sort.relevance.tooltip               "เรียงตามความตรงกัน">

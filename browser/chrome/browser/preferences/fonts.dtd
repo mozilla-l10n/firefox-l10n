@@ -5,7 +5,7 @@
 <!ENTITY  fontsDialog.title                       "แบบอักษร">
 
 <!ENTITY  language.label                          "แบบอักษรสำหรับ:">
-<!ENTITY  language.accesskey                      "F">
+<!ENTITY  language.accesskey                      "แ">
 
 <!ENTITY  size.label                              "ขนาด:">
 <!ENTITY  sizeProportional.accesskey              "z">
@@ -66,7 +66,7 @@
 
 <!ENTITY languages.customize.Fallback2.grouplabel "รหัสอักขระสำหรับเนื้อหาเก่า">
 <!ENTITY languages.customize.Fallback2.label      "รหัสอักขระตัวทางเลือก:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback2.accesskey  "ร">
 <!ENTITY languages.customize.Fallback2.desc       "รหัสอักขระนี้ถูกใช้สำหรับเนื้อหาเก่าที่ขัดข้องจากการกำหนดอักขระ">
 
 <!ENTITY languages.customize.Fallback.auto        "ค่าปริยายสำหรับภาษาถิ่นปัจจุบัน">

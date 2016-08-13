@@ -17,7 +17,7 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "ไฟล์ชั่วคราว">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "จะบันทึก">
-<!ENTITY aboutPrivateBrowsing.info.saved.after2          " :">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "ดาวน์โหลด">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "ที่คั่นหน้า">
 <!ENTITY aboutPrivateBrowsing.note.before                "การท่องเว็บแบบส่วนตัว ">

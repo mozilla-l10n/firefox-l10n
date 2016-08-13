@@ -8,6 +8,6 @@
 <!ENTITY allow           "อนุญาตให้ติดตั้ง">
 <!ENTITY later           "คุณสามารถเปลี่ยนการตัดสินใจได้ในภายหลัง โดยไปที่ ตัวจัดการส่วนเสริม">
 <!ENTITY continue        "ทำต่อ">
-<!ENTITY restartMessage  "คุณต้องเริ่ม &brandShortName; ใหม่เพื่อให้การติดตั้งเสร็จสิ้น">
-<!ENTITY restartButton   "เริ่ม &brandShortName; ใหม่">
+<!ENTITY restartMessage  "คุณต้องเริ่มการทำงาน &brandShortName; ใหม่เพื่อเสร็จสิ้นการติดตั้งส่วนเสริมนี้">
+<!ENTITY restartButton   "เริ่มการทำงาน &brandShortName; ใหม่">
 <!ENTITY cancelButton    "ยกเลิก">
