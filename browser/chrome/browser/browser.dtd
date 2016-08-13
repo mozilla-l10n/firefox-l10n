@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Melungsur Secara Peribadi)">
 
 <!ENTITY appmenu.tooltip                     "Menu buka">
-<!ENTITY navbarOverflow.label                "Lagi alatan…">
+<!ENTITY navbarOverflow.label                "Alatan seterusnya…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Memuat Semula Tab">
