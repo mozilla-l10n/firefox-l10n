@@ -20,9 +20,9 @@
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY insertMenu.label "Вставить">
 <!ENTITY insertMenu.accesskey "с">
-<!ENTITY insertLinkCmd.label "Ссылку…">
-<!ENTITY insertLinkCmd.accesskey "ы">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd2.label "Ссылку…">
+<!ENTITY insertLinkCmd2.accesskey "ы">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Якорь с именем…">
 <!ENTITY insertAnchorCmd.accesskey "к">
 <!ENTITY insertImageCmd.label "Изображение…">
