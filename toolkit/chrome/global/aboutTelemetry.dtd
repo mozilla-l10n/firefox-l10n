@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Snàithlean reòite">
 
+<!ENTITY aboutTelemetry.scalarsSection "  Scalars">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histograms">
 
