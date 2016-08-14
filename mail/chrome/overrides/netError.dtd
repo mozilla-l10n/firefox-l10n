@@ -79,7 +79,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;­­-ը խոչընդոտեց այս էջի բացումը, քանի որ էջի պարունակության անվտանգության կանոնակարգն արգելում է դա:</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Բովանդակությունը վնասված է">
-
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Էջը, որ փորձում եք դիտել՝ չի կարող ցուցադրվել, որովհետև սխալ է գրանցվել տվյալի փոխանցման ժամանակ:</p><ul><li>Կապնվեք սեփականատիրոջ հետ` այս խնդրի մասին հաղորդելու համար:</li></ul>">
 
 <!ENTITY securityOverride.linkText "Կամ դուք կարող էք ավելացնել բացառություն…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Դո՛ւրս բերեք ինձ այստեղից">
@@ -95,5 +95,7 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "Հեռակա XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք կապնվել վեբ կայքի սեփականատերերի հետ` այս խնդրի մասին տեղեկացնելու համար:</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Կապակցումն անվտանգ չէ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> օգտագործում է անվտանգ տեխնոլոգիա, որը հնացած է և խոցելի՝ հարձակումների համար: Հարձակվողը կարող է հեշտությամբ հայտնաբերել տեղեկություններ, որոնք ձեր կարծիքով ապահով են: Կայքի վարիչը պետք է նախ ուղղի սպասարկիչը, որպեսզի կարողանաք այցելել կայքը:</p><p>Սխալի կոդը՝ NS_ERROR_NET_INADEQUATE_SECURITY</p>">
