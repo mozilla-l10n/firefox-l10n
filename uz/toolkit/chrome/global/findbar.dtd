@@ -14,6 +14,6 @@
 <!ENTITY caseSensitive.label "Katta-kichik harflarni farqlash">
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "Harflar katta-kichikligini farqlab izlash">
-
-
-
+<!ENTITY entireWord.label "Butun so‘zlar">
+<!ENTITY entireWord.accesskey "B">
+<!ENTITY entireWord.tooltiptext "Faqat butun so‘zlar izlansin">
