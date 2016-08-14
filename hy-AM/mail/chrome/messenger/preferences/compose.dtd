@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Ըստ ծրագրայինի">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
-
-
+<!ENTITY defaultToParagraph.label             "Օգտագործեք Պարբերություն ձևաչափը՝ Հիմնական գրվածքի փոխարեն">
+<!ENTITY defaultToParagraph.accesskey         "Պ">
 
 <!ENTITY spellCheck.label                     "Ուղարկելուց առաջ ստուգել ուղղագրությունը">
 <!ENTITY spellCheck.accesskey                 "C">
