@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "Գ">
 <!ENTITY  unpinTab.label                     "Ապագամել ներդիրը">
 <!ENTITY  unpinTab.accesskey                 "դ">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Ուղարկել ներդիրը սարքին">
+<!ENTITY  sendTabToDevice.accesskey          "ս">
+<!ENTITY  sendPageToDevice.label             "Ուղարկել էջը սարքին">
+<!ENTITY  sendPageToDevice.accesskey         "ս">
+<!ENTITY  sendLinkToDevice.label             "Ուղարկել հղումը սարքին">
+<!ENTITY  sendLinkToDevice.accesskey         "ս">
 <!ENTITY  moveToNewWindow.label              "Տեղափոխել Նոր Պատուհան">
 <!ENTITY  moveToNewWindow.accesskey          "Պ">
 <!ENTITY  bookmarkAllTabs.label              "Էջանշել բոլոր ներդիրները...">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Ցուցադրել բոլոր ներդիրները">
 <!ENTITY showAllTabsCmd.accesskey "բ">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Մուտք գործել &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Բացել &syncBrand.shortName.label;-ի կարգավորումները">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "ղեկավարում է ձեր ցուցիչը: Սեղմեք Esc՝ ղեկավարումը հետ վերադարձնելու համար:">
+<!ENTITY pointerlockWarning.generic.label "Այս փաստաթուղթը ղեկավարում է ձեր ցուցիչը: Սեղմեք Esc՝ ղեկավարումը հետ վերադարձնելու համար:">
 
 <!ENTITY closeWindow.label "Փակել Պատուհանը">
 <!ENTITY closeWindow.accesskey "տ">
@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "Շ">
 <!ENTITY openFrameCmd.label           "Շրջանակը բացել նոր պատուհանում">
 <!ENTITY openFrameCmd.accesskey       "Շ">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Բացել հղումը Նոր պարունակ ներդիրում">
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Ցուցադրել միայն այս շրջանակը">
 <!ENTITY showOnlyThisFrameCmd.accesskey "Ց">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "Ա">
 
 <!ENTITY editBookmark.done.label                     "Պատրաստ է">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Անվտանգ կապակցում">
 <!ENTITY identity.connectionNotSecure "Կապակցումը անվտանգ չէ">

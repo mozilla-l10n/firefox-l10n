@@ -2,8 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab՝ պտտվում է ներդիրների միջև՝ ըստ վերջին օգտագործածի">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-
+<!ENTITY newWindowsAsTabs.label       "Բացել նո&amp;ր պատուհաններ՝  նոր ներդիրների փոխարեն">
+<!ENTITY newWindowsAsTabs.accesskey   "ն">
 
 <!ENTITY warnCloseMultipleTabs.label  "Զգուշացնել բազմաթիվ ներդիրներ փակելուց">
 <!ENTITY warnCloseMultipleTabs.accesskey  "Զ">
