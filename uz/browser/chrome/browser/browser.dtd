@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "ko‘rsatkichingiz ustidan nazorat o‘rnatgan. Nazoratni qo‘lga olish uchun Esc tugmasini bosing.">
+<!ENTITY pointerlockWarning.generic.label "Bu hujat ko‘rsatkichingiz ustidan nazorat o‘rnatgan. Nazoratni qo‘lga olish uchun Esc tugmasini bosing.">
 
 <!ENTITY closeWindow.label "Oynani yopish">
 <!ENTITY closeWindow.accesskey "y">
@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "i">
 <!ENTITY openFrameCmd.label           "Kadrni yangi oynada ochish">
 <!ENTITY openFrameCmd.accesskey       "o">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Havolani yangi Konteyner ichki oynasida ochish">
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Faqat ushbu kadrni ko‘rsatish">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "q">
 
 <!ENTITY editBookmark.done.label                     "Tayyor">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Xavfsiz ulanish">
 <!ENTITY identity.connectionNotSecure "Ulanish – xavfsiz emas">
