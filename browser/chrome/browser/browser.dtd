@@ -58,14 +58,14 @@ can reach it easily. -->
 <!ENTITY  listAllTabs.label      "Listează toate filele">
 
 <!ENTITY tabCmd.label "Filă nouă">
-<!ENTITY tabCmd.accesskey "F">
+<!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Deschide o adresă…">
-<!ENTITY openFileCmd.label "Deschide un fișier…">
-<!ENTITY openFileCmd.accesskey "u">
+<!ENTITY openFileCmd.label "Deschide fișierul…">
+<!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey "g">
@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele…">
 <!ENTITY showAllBookmarks2.label "Arată toate semnele de carte">
 <!ENTITY recentBookmarks.label "Recent însemnate">
-
+<!ENTITY otherBookmarksCmd.label "Alte semne de carte">
 <!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe semne de carte">
 
 
@@ -215,7 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.addonsNotificationAnchor.label          "Vezi mesajul de instalare al suplimentului">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Vezi mesajul de stocare offline al aplicației">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Gestionează informațiile de autentificare">
-
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Bifează dacă dorești să salvezi parola">
 
 
 
@@ -241,7 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Semne de carte">
-
+<!ENTITY bookmarksMenuButton.other.label "Alte semne de carte">
 <!ENTITY viewBookmarksSidebar2.label        "Arată bara cu semne de carte">
 <!ENTITY viewBookmarksToolbar.label         "Arată bara cu semne de carte">
 
