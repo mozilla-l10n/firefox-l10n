@@ -19,16 +19,16 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY account.connect.label        "ಸಂಪರ್ಕಿಸು">
+<!ENTITY account.connect.accesskey    "o">
+<!ENTITY account.disconnect.label     "ಸಂಪರ್ಕ ತೆಗೆ">
+<!ENTITY account.disconnect.accesskey "i">
+<!ENTITY account.delete.label         "ಅಳಿಸು">
+<!ENTITY account.delete.accesskey     "D">
+<!ENTITY account.edit.label           "ಲಕ್ಷಣಗಳು">
+<!ENTITY account.edit.accesskey       "P">
+<!ENTITY account.moveup.label         "ಮೇಲಕ್ಕೆ ಜರುಗಿಸು">
+<!ENTITY account.movedown.label       "ಕೆಳಕ್ಕೆ ಜರುಗಿಸು">
 
 
 
