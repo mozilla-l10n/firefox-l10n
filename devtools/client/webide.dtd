@@ -213,6 +213,6 @@
 <!ENTITY simulator_device "ಸಾಧನ">
 <!ENTITY simulator_screenSize "ಪರದೆ">
 <!ENTITY simulator_pixelRatio "ಪಿಕ್ಸೆಲ್ ರೇಶ್ಯೋ">
-
-
-
+<!ENTITY simulator_tv_data "TV ಸಿಮ್ಯುಲೇಶನ್">
+<!ENTITY simulator_tv_data_open "ಡೇಟಾ ಸಂಯೋಜನೆ">
+<!ENTITY simulator_tv_data_open_button "ಸಂಯೋಜನೆ ಸೂಚಿ ತೆರೆ…">

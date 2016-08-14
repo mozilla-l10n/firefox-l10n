@@ -57,7 +57,7 @@
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
 <!ENTITY btnServerLogging.label       "ಸರ್ವರ್">
-
+<!ENTITY btnServerLogging.tooltip     "ವೆಬ್ ಸರ್ವರ್ ನಿಂದ ಪಡೆಯಲಾದ ದಿನಚರಿ ಸಂದೇಶಗಳು">
 <!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "ದೋಷಗಳು">
 <!ENTITY btnServerInfo                "ಮಾಹಿತಿ">
@@ -98,5 +98,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Variables ನೋಟದಲ್ಲಿ ತೆರೆಯಿರಿ">
 <!ENTITY openInVarViewCmd.accesskey "V">
-
-
+<!ENTITY storeAsGlobalVar.label "ಜಾಗತಿಕ ಚರಾಂಶವಾಗಿ ಶೇಖರಿಸಿ">
+<!ENTITY storeAsGlobalVar.accesskey "S">
