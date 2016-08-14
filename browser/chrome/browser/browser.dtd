@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "ж">
 <!ENTITY  unpinTab.label                     "Бетті босату">
 <!ENTITY  unpinTab.accesskey                 "Б">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Бетті құрылғыға жіберу">
+<!ENTITY  sendTabToDevice.accesskey          "ы">
+<!ENTITY  sendPageToDevice.label             "Парақты құрылғыға жіберу">
+<!ENTITY  sendPageToDevice.accesskey         "ы">
+<!ENTITY  sendLinkToDevice.label             "Сілтемені құрылғыға жіберу">
+<!ENTITY  sendLinkToDevice.accesskey         "ы">
 <!ENTITY  moveToNewWindow.label              "Жаңа терезеге жылжыту">
 <!ENTITY  moveToNewWindow.accesskey          "е">
 <!ENTITY  bookmarkAllTabs.label              "Барлық беттерді бетбелгілерге қосу…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Барлық беттерді көрсету">
 <!ENTITY showAllTabsCmd.accesskey "а">
-
+<!ENTITY toggleReaderMode.key "о">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; ішіне кіру">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; баптауларын ашу">
@@ -150,7 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
+<!ENTITY pointerlockWarning.afterDomain.label "курсорыңызды басқаруда. Басқаруды қайта алу үшін Esc басыңыз.">
 
 
 <!ENTITY closeWindow.label "Терезені жабу">
