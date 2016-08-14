@@ -4,8 +4,8 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "เกี่ยวกับสิทธิ์ของคุณ">
-<!ENTITY rights.intro "&brandFullName; เป็นซอฟต์แวร์เสรีและโอเพนซอร์สซึ่งร่วมกันสร้างโดยชุมชนผู้ร่วมสมทบนับพันจากทั่วโลก มีเรื่องบางเรื่องที่คุณควรรู้ :">
+<!ENTITY rights.intro-header    "เกี่ยวกับสิทธิของคุณ">
+<!ENTITY rights.intro "&brandFullName; เป็นซอฟต์แวร์ฟรีและเปิดต้นฉบับ สร้างขึ้นโดยชุมชนของคนนับพันจากทั่วโลก มีบางสิ่งที่คุณควรทราบ:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -15,7 +15,7 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 
-<!ENTITY rights.intro-point1a "คุณสามารถนำ &brandShortName; ไปใช้ได้ภายใต้เงื่อนไขสัญญาอนุญาต ">
+<!ENTITY rights.intro-point1a "&brandShortName; ให้คุณใช้งานภายใต้เงื่อนไขของ ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c " นั่นหมายความว่าคุณสามารถใช้งาน ทำซ้ำ และเผยแพร่ &brandShortName; แก่ผู้อื่นได้ อีกทั้งคุณยังสามารถที่จะแก้ไขต้นรหัสโปรแกรมของ &brandShortName; เพื่อให้ตรงตามความต้องการของคุณได้ นอกจากนี้ Mozilla Public License ยังให้สิทธิ์แก่คุณที่จะเผยแพร่โปรแกรมรุ่นที่คุณแก้ไขไปแล้วได้เช่นกัน">
 
