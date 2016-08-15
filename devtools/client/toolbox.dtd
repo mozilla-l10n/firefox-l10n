@@ -45,7 +45,7 @@
   -  panel. -->
 
 <!ENTITY options.collapseAttrs.label "DOM ಗುಣವಿಶೇಷಗಳನ್ನು ಕಿರಿದಾಗಿಸಿ">
-
+<!ENTITY options.collapseAttrs.tooltip "ಪರಿಶೀಲಕನಲ್ಲಿ ಉದ್ದ ಗುಣವಿಶೇಷಗಳನ್ನು ಕಿರಿದಾಗಿಸಿ">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -58,6 +58,8 @@
 <!ENTITY options.defaultColorUnit.accesskey "u">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+
+<!ENTITY options.defaultColorUnit.authored "‍ಆಗಿ ರಚಿಸಲಾಗಿದೆ">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 
@@ -109,7 +111,7 @@
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
 <!ENTITY options.disableHTTPCache.label     "HTTP ಕ್ಯಾಶೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು (ಉಪಕರಣಪೆಟ್ಟಿಗೆಯು ತೆರೆದಾಗ)">
-
+<!ENTITY options.disableHTTPCache.tooltip   "‍ಈ ಆಯ್ಕೆಯನ್ನು ಆನ್ ಮಾಡುವುದರಿಂದ ಟೂಲ್‌ಬಾಕ್ಸ್ ತೆರೆದಿರುವ ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳಲ್ಲಿ HTTP ಕ್ಯಾಶೆ ನಿಷ್ಕ್ರಿಯಗೊಳ್ಳುತ್ತವೆ. ‍ಸರ್ವೀಸ್ ವರ್ಕರ್‌ಗಳು ಈ ಆಯ್ಕೆಯಿಂದ ತೊಂದರೆಗೊಳಗಾಗುವುದಿಲ್ಲ.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
