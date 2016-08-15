@@ -297,9 +297,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Taie">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "T"> 
-
+<!ENTITY copyCmd.label            "Copiază">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Lipește">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "p"> 
@@ -754,8 +754,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 
 
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Copiază">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sincronizare">
