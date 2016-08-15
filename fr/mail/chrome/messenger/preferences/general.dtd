@@ -19,6 +19,7 @@
 <!ENTITY playSound1.accesskey             "J">
 <!ENTITY showAnimatedAlert.label          "Afficher un avertissement">
 <!ENTITY showAnimatedAlert.accesskey      "f">
+<!ENTITY notificationAlertSettings.label  "Les alertes peuvent être désactivées depuis le panneau Notifications situé dans les préférences système.">
 <!ENTITY customizeMailAlert.label         "Personnaliser…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
