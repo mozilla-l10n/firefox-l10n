@@ -60,7 +60,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Documento expirado">
-<!ENTITY notCached.longDesc "<p>El documento solicitado no está disponble en el caché de &brandShortName;.</p><ul><li>Como una precaución de seguridad, &brandShortName; no vuelve a solicitar automáticamente documentos sensibles. </li><li>Haz clic para volver a solicitar el documento al sitio web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en la caché de &brandShortName;.</p><ul><li>Como una precaución de seguridad, &brandShortName; no vuelve a solicitar automáticamente documentos sensibles.</li><li>Aprieta el botón de volver a intentar para volver a solicitar el documento desde el sitio web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sin conexión">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
