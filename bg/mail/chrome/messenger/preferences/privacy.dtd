@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "Съдържание на писмата">
 
 <!ENTITY acceptRemoteContent.label "Разрешаване на отдалечено съдържание в съобщенията">
@@ -10,15 +10,15 @@
 <!ENTITY remoteContentExceptions.label "Изключения…">
 <!ENTITY remoteContentExceptions.accesskey "к">
 <!ENTITY acceptRemoteContentInfo.label "Научете повече за проблемите с поверителността и отдалеченото съдържание">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Уеб съдържание">
 
 <!ENTITY keepHistory.label "Запомняне на посетените уеб-страници и връзки">
 <!ENTITY keepHistory.accesskey "З">
 <!ENTITY acceptCookies.label "Разрешаване на бисквитки от сайтове">
 <!ENTITY acceptCookies.accesskey "б">
-<!ENTITY acceptThirdParty.pre.label "Разрешаване на бисквитки от сайтове на трети страни:">
+<!ENTITY acceptThirdParty.pre.label "Разрешаване на бисквитки от трети страни:">
 <!ENTITY acceptThirdParty.pre.accesskey "т">
 <!ENTITY acceptThirdParty.always.label "Винаги">
 <!ENTITY acceptThirdParty.never.label "Никога">
