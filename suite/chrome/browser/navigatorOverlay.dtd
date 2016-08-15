@@ -122,11 +122,19 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Las imágenes de este sitio no serán descargadas nunca.">
 
+<!ENTITY popupAllowCmd.label "Permitir ventanas emergentes de este sitio">
+<!ENTITY popupAllowCmd.accesskey "e">
+<!ENTITY popupBlockCmd.label "Bloquear ventanas emergentes de este sitio">
+<!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupsManage.label "Administrar ventanas emergentes">
+<!ENTITY popupsManage.accesskey "m">
 
 <!ENTITY cookieCookieManager.label "Administrador de cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Administrador de imágenes">
 <!ENTITY cookieImageManager.accesskey "i">
+<!ENTITY popupsManager.label "Administrador de ventanas emergentes">
+<!ENTITY popupsManager.accesskey "o">
 
 <!ENTITY clearPrivateDataCmd.label "Borrar datos privados…">
 <!ENTITY clearPrivateDataCmd.accesskey "B">
