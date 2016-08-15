@@ -21,3 +21,6 @@
 <!ENTITY prefUseragent.label                 "Chaîne d’agent utilisateur">
 <!ENTITY prefFirefoxCompat.label             "Mentionner la compatibilité avec Firefox">
 <!ENTITY prefFirefoxCompat.accesskey         "F">
+<!ENTITY prefLightningShow.label             "Annoncer l’installation de Lightning">
+<!ENTITY prefLightningShow.accesskey         "L">
+<!ENTITY prefCompatWarning                   "AVERTISSEMENT : désactiver ces paramètres peut empêcher certains services ou sites web de fonctionner correctement.">
