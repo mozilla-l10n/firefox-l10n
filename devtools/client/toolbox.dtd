@@ -202,7 +202,7 @@
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Autocerrar corchetes">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Automáticamente insertar corchetes de cierre">
 <!ENTITY options.sourceeditor.expandtab.label           "Sangría usando espacios">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "Usar espacios en lugar del caracter tabulador">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Usar espacios en lugar del caracter de tabulación">
 <!ENTITY options.sourceeditor.tabsize.label             "Tamaño de la tabulación">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Combinaciones de teclas">
