@@ -56,8 +56,8 @@
 <!ENTITY cmd.showMac.label                "Finderdə göstər">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "Təkrar yoxla">
-<!ENTITY cmd.goToDownloadPage.label       "Yükləmə səhifəsinə get">
-<!ENTITY cmd.goToDownloadPage.accesskey   "s">
+<!ENTITY cmd.goToDownloadPage.label       "Endirmə səhifəsinə get">
+<!ENTITY cmd.goToDownloadPage.accesskey   "g">
 <!ENTITY cmd.copyDownloadLink.label       "Endirmə keçidini köçür">
 <!ENTITY cmd.copyDownloadLink.accesskey   "k">
 <!ENTITY cmd.removeFromHistory.label      "Siyahıdan sil">
@@ -116,7 +116,7 @@
      is displayed inside a browser tab.
      -->
 
-<!ENTITY downloadsListEmpty.label         "Yükləmə yoxdur.">
+<!ENTITY downloadsListEmpty.label         "Endirmə yoxdur.">
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
@@ -127,4 +127,4 @@
      results in the Downloads view.
      -->
 
-<!ENTITY downloadsListNoMatch.label       "Uyğun yükləmə tapılmadı.">
+<!ENTITY downloadsListNoMatch.label       "Uyğun endirmə tapılmadı.">

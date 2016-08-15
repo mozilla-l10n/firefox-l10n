@@ -12,8 +12,8 @@
 <!ENTITY useCursorNavigation.accesskey   "S">
 <!ENTITY searchStartTyping.label         "Yazmağa başlayan kimi axtar">
 <!ENTITY searchStartTyping.accesskey     "z">
-<!ENTITY blockAutoRefresh.label          "Saytlar səhifəni yönləndirmək və ya yenidən yükləmək istəyəndə məni xəbərdar et">
-<!ENTITY blockAutoRefresh.accesskey      "r">
+<!ENTITY blockAutoRefresh.label          "Saytlar səhifəni yönləndirmək və ya yeniləmək istədikdə məni xəbərdar et">
+<!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY useOnScreenKeyboard.label       "Lazım olduqda toxunmalı klaviaturanı göstər">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
