@@ -508,7 +508,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Поставяне като фон на работния плот…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "П">
 <!ENTITY bookmarkPageCmd2.label       "Отмятане на страницата">
-<!ENTITY bookmarkThisLinkCmd.label      "Отмятане на връзката">
+<!ENTITY bookmarkThisLinkCmd.label      "Отмятане на препратката">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "О">
 <!ENTITY bookmarkThisFrameCmd.label      "Отмятане на рамката">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">

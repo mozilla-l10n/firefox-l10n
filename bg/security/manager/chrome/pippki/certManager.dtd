@@ -14,7 +14,7 @@
 <!ENTITY certmgr.others                       "Имате сертификати във файл, които идентифицират следните хора:">
 <!ENTITY certmgr.websites2                    "Във файла имате сертификати, идентифициращи следните сървъри:">
 <!ENTITY certmgr.cas                          "Имате сертификати във файл, които идентифицират следните сертификатни удостоверители:">
-<!ENTITY certmgr.orphans                      "Във файла имате сертификати, които не попадат в никоя от следните категории:">
+<!ENTITY certmgr.orphans                      "Във файла имате сертификати, които не попадат в никоя от другите категории:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Общи">
 <!ENTITY certmgr.detail.general_tab.accesskey "О">

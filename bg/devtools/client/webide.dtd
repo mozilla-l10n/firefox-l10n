@@ -10,7 +10,7 @@
 <!ENTITY projectMenu_newApp_accesskey "Н">
 <!ENTITY projectMenu_importPackagedApp_label "Отваряне на пакетирано приложение…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "к">
-<!ENTITY projectMenu_importHostedApp_label "Отваряне на хостнато приложение…">
+<!ENTITY projectMenu_importHostedApp_label "Отваряне на хоствано приложение…">
 <!ENTITY projectMenu_importHostedApp_accesskey "х">
 <!ENTITY projectMenu_selectApp_label "Отваряне на приложение…">
 <!ENTITY projectMenu_selectApp_accesskey "О">
