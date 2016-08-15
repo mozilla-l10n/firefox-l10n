@@ -71,7 +71,7 @@
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY outgoingServer.description "Introduceți numele serverului de trimitere (SMTP) (de exemplu, „smtp.example.net”).">
 <!ENTITY outgoingServer.label "Server de trimitere:">
-<!ENTITY outgoingServer.accesskey "t">
+<!ENTITY outgoingServer.accesskey "S">
 <!ENTITY outgoingUsername.description "Introduceți numele de utilizator pentru trimitere, dat de furnizorul dumneavoastră de e-mail (de obicei este același cu numele de utilizator pentru primire).">
 <!ENTITY outgoingUsername.label "Nume de utilizator pentru trimitere:">
 <!ENTITY outgoingUsername.accesskey "u">
