@@ -14,6 +14,6 @@
 <!ENTITY caseSensitive.label "ตรงทุกตัวอักษร">
 <!ENTITY caseSensitive.accesskey "ท">
 <!ENTITY caseSensitive.tooltiptext "ค้นหาโดยคำนึงถึงขนาดตัวอักษร">
-
-
-
+<!ENTITY entireWord.label "ตรงกันทุกคำ">
+<!ENTITY entireWord.accesskey "ต">
+<!ENTITY entireWord.tooltiptext "ค้นหาแบบตรงกันทุกคำเท่านั้น">
