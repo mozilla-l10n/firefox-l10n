@@ -61,7 +61,7 @@
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-<!ENTITY key_quit "w">
+<!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "o">
 <!-- reload app -->
