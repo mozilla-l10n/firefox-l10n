@@ -109,6 +109,19 @@
 <!ENTITY cookieBlockCookiesCmd.accesskey "I">
 <!ENTITY cookieBlockCookiesMsg.label "Les cookies de ce site seront systématiquement rejetés.">
 
+<!ENTITY popupsMessageChangeTitle.label "Permissions de popup modifiées">
+<!ENTITY popupAllowCmd.label "Autoriser les fenêtres popup pour ce site">
+<!ENTITY popupAllowCmd.accesskey "A">
+<!ENTITY popupAllowMsg.label "Les fenêtres popup de ce site seront toujours affichées.">
+<!ENTITY popupDefaultCmd.label "Utiliser les permissions de popups par défaut">
+<!ENTITY popupDefaultCmd.accesskey "U">
+<!ENTITY popupDefaultMsg.label "Les fenêtres popup de ce site seront affichées selon les paramètres par défaut.">
+<!ENTITY popupBlockCmd.label "Bloquer les popups de ce site">
+<!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupBlockMsg.label "Les fenêtres popup de ce site ne seront pas affichées.">
+<!ENTITY popupsManage.label "Gérer les fenêtres popup">
+<!ENTITY popupsManage.accesskey "G">
+
 <!ENTITY cookieImageMessageTitle.label "Permissions des images">
 <!ENTITY cookieDisplayImagesCmd.label "Gérer les permissions sur les images">
 <!ENTITY cookieDisplayImagesCmd.accesskey "G">
@@ -122,17 +135,12 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Les images de ce site ne seront jamais chargées.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Autoriser les fenêtres popup de ce site">
-<!ENTITY cookieAllowPopupsCmd.accesskey "A">
-<!ENTITY cookieManagePopups.label "Gérer les fenêtres popup">
-<!ENTITY cookieManagePopups.accesskey "G">
-
 <!ENTITY cookieCookieManager.label "Cookies">
 <!ENTITY cookieCookieManager.accesskey "o">
 <!ENTITY cookieImageManager.label "Images">
 <!ENTITY cookieImageManager.accesskey "I">
-<!ENTITY cookiePopupManager.label "Fenêtres popup">
-<!ENTITY cookiePopupManager.accesskey "p">
+<!ENTITY popupsManager.label "Gestionnaire de fenêtres popup">
+<!ENTITY popupsManager.accesskey "p">
 
 <!ENTITY clearPrivateDataCmd.label "Effacer mes traces…">
 <!ENTITY clearPrivateDataCmd.accesskey "f">
