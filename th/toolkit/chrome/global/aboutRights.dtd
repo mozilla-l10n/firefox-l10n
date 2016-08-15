@@ -19,20 +19,20 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c " สิ่งนี้หมายถึงคุณอาจใช้งาน คัดลอก และแจกจ่าย &brandShortName; ให้กับผู้อื่น  คุณยังสามารถแก้ไขโค้ดต้นฉบับของ &brandShortName; ตามที่คุณต้องการเพื่อให้ตรงกับความต้องการของคุณ Mozilla Public License ยังให้สิทธิคุณในการแจกจ่ายรุ่นที่คุณแก้ไขอีกด้วย">
 
-<!ENTITY rights.intro-point2-a "Mozilla มิได้มอบสิทธิ์ใด ๆ ในเครื่องหมายการค้าและสัญลักษณ์ Mozilla และ Firefox แก่คุณ ข้อมูลเพิ่มเติมเกี่ยวกับเครื่องหมายการค้าสามารถอ่านได้">
+<!ENTITY rights.intro-point2-a "คุณไม่ได้รับสิทธิหรือใบอนุญาตในเครื่องหมายการค้าใด ๆ ที่เป็นเครื่องหมายการค้าของมูลนิธิ Mozilla หรือบุคคลใด ๆ ไม่จำกัดทั้งชื่อหรือโลโก้ของ Firefox ข้อมูลเพิ่มเติมเกี่ยวกับเครื่องหมายการค้าอาจพบได้ ">
 <!ENTITY rights.intro-point2-b "ที่นี่">
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
 
-<!ENTITY rights.intro-point2.5 "บางความสามารถใน &brandShortName; เช่น Crash Reporter ที่เพิ่มทางเลือกให้คุณในการส่งคำแนะนำกลับมายัง &vendorShortName; เมื่อคุณเลือกที่จะส่งคำแนะนำ นั่นหมายถึงคุณอนุญาตให้ &vendorShortName; ใช้ข้อมูลเหล่านั้นในการพัฒนาผลิตภัณฑ์ ตีพิมพ์คำแนะนำนั้นบนเว็บไซต์และเผยแพร่คำแนะนำ">
+<!ENTITY rights.intro-point2.5 "บางคุณลักษณะใน &brandShortName; อย่างตัวรายงานข้อขัดข้อง ให้ตัวเลือกคุณในการเสนอข้อคิดเห็นมายัง &vendorShortName; โดยการเลือกส่งข้อคิดเห็นหมายถึงคุณให้อนุญาต &vendorShortName; ในการใช้ข้อคิดเห็นนั้นเพื่อปรับปรุงผลิตภัณฑ์ เผยแพร่ข้อคิดเห็นบนเว็บไซต์ และแจกจ่ายข้อคิดเห็น">
 <!-- point 3 text for official branded builds -->
 
-<!ENTITY rights2.intro-point3a "มีการอธิบายวิธีการใช้งานข้อมูลส่วนตัวและข้อแนะนำของคุณที่ส่งมายัง &vendorShortName; ผ่าน &brandShortName; ไว้ที่ ">
+<!ENTITY rights2.intro-point3a "วิธีที่เราใช้ข้อมูลส่วนบุคคลและข้อคิดเห็นของคุณที่ส่งมายัง &vendorShortName; ผ่าน &brandShortName; ได้รับการอธิบายไว้ใน ">
 <!ENTITY rights2.intro-point3b "นโยบายความเป็นส่วนตัว &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
 
-<!ENTITY rights.intro-point3-unbranded "นโยบายความเป็นส่วนตัวใด ๆ ของผลิตภัณฑ์นี้ที่สามารถนำไปปรับใช้ได้ ควรถูกลงรายการไว้ที่นี่">
+<!ENTITY rights.intro-point3-unbranded "นโยบายความเป็นส่วนตัวใด ๆ ที่บังคับใช้สำหรับผลิตภัณฑ์นี้ควรถูกแสดงรายการไว้ที่นี่">
 <!-- point 4 text for official branded builds -->
 
 <!ENTITY rights2.intro-point4a "บางคุณสมบัติของ &brandShortName; ใช้บริการข้อมูลจากเว็บภายนอก อย่างไรก็ตาม เราไม่สามารถรับประกันได้ว่าบริการเหล่านั้นจะทำงานได้ถูกต้อง 100&#037; หรือปราศจากความผิดพลาด รายละเอียดเพิ่มเติมรวมไปถึงวิธียกเลิกใช้บริการเหล่านั้น สามารถอ่านได้ที่ ">
