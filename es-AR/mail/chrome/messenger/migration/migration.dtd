@@ -7,6 +7,7 @@
 
 <!ENTITY importFromWin.label            "Importar opciones, configuración de la cuenta, libreta de direcciones y otros datos de:">
 <!ENTITY importFromNonWin.label         "Importar preferencias, configuración de la cuenta, libreta de direcciones y otros datos de:">
+<!ENTITY importSourceNotFound.label     "No se encontró ninguna aplicación para importar datos.">
 
 <!ENTITY importFromNothing.label        "No importar nada">
 <!ENTITY importFromNothing.accesskey    "D">
