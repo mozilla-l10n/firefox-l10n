@@ -26,8 +26,8 @@
 
 <!ENTITY button.addFeed.label "Dodaj">
 <!ENTITY button.addFeed.accesskey "D">
-<!ENTITY button.editFeed.label "Edytuj">
-<!ENTITY button.editFeed.accesskey "E">
+<!ENTITY button.updateFeed.label "Uaktualnij">
+<!ENTITY button.updateFeed.accesskey "a">
 <!ENTITY button.removeFeed.label "Usuń">
 <!ENTITY button.removeFeed.accesskey "U">
 <!ENTITY button.importOPML.label "Importuj">
