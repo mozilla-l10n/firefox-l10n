@@ -6,7 +6,7 @@
 
 <!ENTITY dialog.title            "Instalación de software">
 <!ENTITY dialog.style            "width: 47em">
-<!ENTITY warningPrimary.label    "Instala complementos únicamente de autores en los que confíes.">
+<!ENTITY warningPrimary.label    "Instale complementos solamente de autores en los que confíes.">
 <!ENTITY warningSecondary.label  "Software malicioso puede dañar tu computador o violar tu privacidad.">
 
 <!ENTITY from.label "de:">

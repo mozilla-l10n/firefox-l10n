@@ -893,7 +893,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Cerrar todas las <html:strong>pestañas</html:strong> y <html:strong>ventanas</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Abrir una nueva ventana en blanco">
 
-<!ENTITY panicButton.view.undoWarning             "Esta acción no puede ser deshecha.">
+<!ENTITY panicButton.view.undoWarning             "Esta acción no puede revertirse.">
 <!ENTITY panicButton.view.forgetButton            "¡Olvidar!">
 
 <!ENTITY panicButton.thankyou.msg1                "Tu historial reciente ha sido limpiado.">
