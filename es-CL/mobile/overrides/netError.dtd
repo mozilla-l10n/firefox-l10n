@@ -72,12 +72,12 @@
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<ul>
-  <li>Por favor, contacta a los dueños del sitio para informales de este problema.</li>
+  <li>Por favor, contacta a los dueños del sitio para avisarles de este problema.</li>
 </ul>">
 
 <!ENTITY unsafeContentType.title "Tipo de archivo inseguro">
 <!ENTITY unsafeContentType.longDesc "<ul>
-  <li>Por favor, contacta a los dueños del sitio para informales de este problema.</li>
+  <li>Por favor, contacta a los dueños del sitio para avisarles de este problema.</li>
 </ul>">
 
 <!ENTITY netReset.title "La conexión fue reiniciada">

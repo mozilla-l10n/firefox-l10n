@@ -557,7 +557,7 @@ size. -->
 <!ENTITY page_action_dropmarker_description "Acciones adicionales">
 
 <!ENTITY masterpassword_create_title "Crear contraseña maestra">
-<!ENTITY masterpassword_remove_title "Remover contraseña maestra">
+<!ENTITY masterpassword_remove_title "Remover la contraseña maestra">
 <!ENTITY masterpassword_password "Contraseña">
 <!ENTITY masterpassword_confirm "Confirmar contraseña">
 
