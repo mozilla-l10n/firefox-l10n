@@ -848,7 +848,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.moreinfo "Partes de esta página que siguen tu actividad en línea han sido bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Aprender más">
 <!ENTITY trackingContentBlocked.options "Opciones">
-<!ENTITY trackingContentBlocked.unblock2.label "Desactivar protección para este sitio">
+<!ENTITY trackingContentBlocked.unblock2.label "Desactivar la protección para este sitio">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Activar protección">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
