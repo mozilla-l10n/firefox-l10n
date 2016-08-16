@@ -21,14 +21,14 @@
 <!ENTITY dnsNotFound.title "Nun s'alcontro'l sirvidor">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Comprueba los fallos d'escritura na direición como
+  <li>Comprueba los fallos d'escritura na direición como
     <strong>ww</strong>.example.com en cuentes de
     <strong>www</strong>.example.com</li>
-  <li>Si nun yes a cargar páxina dala, comprueba la to conexón d'internet.</li>
-  <li>Si'l to ordenador o rede ta protexíu por un tornafueos, asegúrate
-    que &brandShortName; tien permitíu l'accesu a la web.</li>
-</ul>
-">
+  <li>Si nun yes a cargar páxina dala, comprueba la conexón a internet del
+    ordenador.</li>
+  <li>Si'l to ordenador o rede tán protexíos por un tornafuéu o proxy, asegúrate
+    que &brandShortName; tien permisu p'acceder a la web.</li>
+</ul>">
 
 <!ENTITY fileNotFound.title "Nun s'alcontró'l ficheru">
 <!ENTITY fileNotFound.longDesc "
