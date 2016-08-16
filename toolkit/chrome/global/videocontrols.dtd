@@ -4,7 +4,7 @@
 
 <!ENTITY playButton.playLabel "Възпроизвеждане">
 <!ENTITY playButton.pauseLabel "Пауза">
-<!ENTITY muteButton.muteLabel "Заглушаване">
+<!ENTITY muteButton.muteLabel "Без звук">
 <!ENTITY muteButton.unmuteLabel "Със звук">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Цял екран">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Изход от цял екран">
