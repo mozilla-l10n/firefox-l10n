@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "R">
 <!ENTITY  unpinTab.label                     "Ruyujïk ruwi' kajtz'ik">
 <!ENTITY  unpinTab.accesskey                 "t">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Titaq ri ruwi' pa Okisaxel">
+<!ENTITY  sendTabToDevice.accesskey          "O">
+<!ENTITY  sendPageToDevice.label             "Titaq ruxaq pa Okisaxel">
+<!ENTITY  sendPageToDevice.accesskey         "O">
+<!ENTITY  sendLinkToDevice.label             "Titaq Ximojri'ïl pa Okisaxel">
+<!ENTITY  sendLinkToDevice.accesskey         "O">
 <!ENTITY  moveToNewWindow.label              "Rujalik pa jun k'aka' ruwi' kajtz'ïk">
 <!ENTITY  moveToNewWindow.accesskey          "l">
 <!ENTITY  bookmarkAllTabs.label              "Ketz'aqatisäx taq ruwi' pa taq yaketal…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Ruk'utik ronojel ruwi' kajtz'ïk">
 <!ENTITY showAllTabsCmd.accesskey "t">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Tok pa &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Tajin yejaq ri rajowaxïk &syncBrand.shortName.label;">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "chajin ruma ri retal ch'oy. Tapitz'a' Esc richin nachajij chik el.">
+<!ENTITY pointerlockWarning.generic.label "Re ruxaq wuj re' chajin ruma ri retal ch'oy. Tapitz'a' Esc richin nachajij chik el.">
 
 <!ENTITY closeWindow.label "Rutz'apixik kajtz'ïk">
 <!ENTITY closeWindow.accesskey "k">
@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "w">
 <!ENTITY openFrameCmd.label           "Tijaq ri ruchi' pa jun k'ak'a' tzuwäch">
 <!ENTITY openFrameCmd.accesskey       "t">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Tijaq ximonel pa k'ak'a' ajk'wayöl ruwi'">
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Tik'ut pe xa xe re ruchi' re'">
 <!ENTITY showOnlyThisFrameCmd.accesskey "T">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "R">
 
 <!ENTITY editBookmark.done.label                     "K'isoj">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ütz Okem">
 <!ENTITY identity.connectionNotSecure "Itzel chi Okem">

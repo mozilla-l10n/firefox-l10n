@@ -31,7 +31,8 @@
 <!ENTITY alwaysAsk.label "Jantape' tik'utüx pe chwe akuchi' yeyak wi kan ri taq yakb'äl">
 <!ENTITY alwaysAsk.accesskey "J">
 
-
+<!ENTITY alwaysCheckDefault2.label        "Junelïk tinik'öx we &brandShortName; ja ri' ri awokik'amaya'l">
+<!ENTITY alwaysCheckDefault2.accesskey    "e">
 <!ENTITY setAsMyDefaultBrowser2.label     "Tib'an kan richin wi chi re">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "k">
 <!ENTITY isDefault.label                  "&brandShortName; ja awokik'amaya'l kan k'o wi">
