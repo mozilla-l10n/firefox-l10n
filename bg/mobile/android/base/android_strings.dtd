@@ -16,6 +16,7 @@
 <!ENTITY firstrun_sync_message "&brandShortName;, винаги до вас">
 <!ENTITY firstrun_sync_subtext "Синхронизирайте разделите, паролите и всичко друго където и да сте.">
 <!ENTITY firstrun_signin_message "Свържете се, започнете">
+<!ENTITY  onboard_start_button_browser "Започнете да сърфирате">
 
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
@@ -127,6 +128,7 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_media "Медия">
 
 
 
