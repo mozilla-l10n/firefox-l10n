@@ -24,7 +24,7 @@
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Dalgunes carauterístiques en &brandShortName;, como axente de fallos, dante la opción de proporcionar información a &vendorShortName;. Al elexir unviar esa información, concedes a &vendorShortName; permisu pa usar la mesma p'ameyorar los sos productos, pa espublizar esa información nos sos sitios web y pa distribuyila.">
+<!ENTITY rights.intro-point2.5 "Delles carauterístiques en &brandShortName;, como por exemplu l'informador de casques, dante la opción d'apurrir feedback a &vendorShortName;. Escoyendo unvialu, das-y a &vendorShortName; permisu pa usar el feedback p'ameyorar los sos productos, pa espublizalu nos sos sitios web y pa distribuyilu.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "La manera na qu'usamos la to información personal y les opiniones unviaes a &vendorShortName; a traviés de &brandShortName; descríbese na ">
@@ -54,7 +54,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; usa servicios d'información basaos en web (&quot;servicios&quot;) pa proporcionar dalgunes de les carauterístiques ufríes pal so usu con esta versión binaria de &brandShortName; baxo los términos descritos a continuación. Si nun quies usar ún o más de los servicios o los términos que siguen nun son aceutables, pues desactivar la carauterística o serviciu(os). Les instrucciones tocante a cómo desactivar una carauterística o serviciu concretos puen alcontrase ">
+<!ENTITY rights2.webservices-a "&brandFullName;&brandFullName; usa servicios d'información basaos na web («Servicios») pa fornir delles carauterístiques apurríes pol to usu con esta versión binaria de &brandShortName; so los términos descritos embaxo. Si nun quies usar ún o más de los Servicios, o los términos d'embaxo son inaceutables, quiciabes quieras deshabilitar la carauterística Serviciu(os). Quciabes alcuentres les instrucciones en cómo deshabilitar la carauterística o Serviciu ">
 <!ENTITY rights2.webservices-b "equí">
 <!ENTITY rights3.webservices-c ". Otres carauterístiques y servicios puen desactivase nes preferencies de l'aplicación.">
 
