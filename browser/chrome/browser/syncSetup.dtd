@@ -64,7 +64,7 @@
 <!ENTITY pairDevice.setup.description.label  "P'activar, seleiciona 'Emparexar preséu' nel otru preséu.">
 <!ENTITY addDevice.setup.enterCode.label    "Dempués, introduz esti códigu:">
 <!ENTITY pairDevice.dialog.description.label "P'activar el nuevu preséu calca en 'Configurar Sync' nel preséu.">
-<!ENTITY addDevice.dialog.enterCode.label   "Escribi'l códigu que proporciona'l preséu:">
+<!ENTITY addDevice.dialog.enterCode.label   "Introduz el códigu qu'el preséu apurre:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Por favor, prueba otra vegada.">
 <!ENTITY addDevice.dialog.successful.label  "Esti preséu amestóse correutamente. Esta sincronización inicial pue tardar dellos minutos y va finar de fondu.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "P'activar esti preséu necesites introducir la clave de recuperación. Por favor, imprenta o guarda esta clave y llévala contigo.">
