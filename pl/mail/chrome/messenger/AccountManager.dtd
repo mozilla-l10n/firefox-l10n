@@ -21,4 +21,4 @@
 <!ENTITY removeButton.accesskey "U">
 
 <!ENTITY accountManager.size "width: 111ch; height: 55em;">
-<!ENTITY accountTree.width "width: 26ch;">
+<!ENTITY accountTree.width "width: 32ch;">
