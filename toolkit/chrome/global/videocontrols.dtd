@@ -11,7 +11,7 @@
 <!ENTITY castingButton.castingLabel "Пускане на екрана">
 <!ENTITY closedCaption.off "Изключено">
 
-<!ENTITY stats.media "Медиа">
+<!ENTITY stats.media "Медия">
 <!ENTITY stats.size "Големина">
 <!ENTITY stats.activity "Активност">
 <!ENTITY stats.activityPaused "Пауза">
