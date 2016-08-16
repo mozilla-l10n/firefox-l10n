@@ -19,6 +19,7 @@
 <!ENTITY playSound1.accesskey              "P">
 <!ENTITY showAnimatedAlert.label          "Zobrazit upozornění">
 <!ENTITY showAnimatedAlert.accesskey      "Z">
+<!ENTITY notificationAlertSettings.label  "Upozornění můžete zakázat v systémovém nastavení panelu upozornění.">
 <!ENTITY customizeMailAlert.label         "Přizpůsobit…">
 <!ENTITY customizeMailAlert.accesskey     "b">
 
