@@ -6,6 +6,9 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "  เปลี่ยน">
 
+<!ENTITY aboutTelemetry.uploadEnabled "  การอัปโหลดข้อมูล FHR <span>ถูกเปิดใช้งาน</span>">
+
+<!ENTITY aboutTelemetry.uploadDisabled "  การอัปโหลดข้อมูล FHR <span>ถูกปิดใช้งาน</span>">
 
 
 
@@ -14,7 +17,7 @@
 
 
 
-
+<!ENTITY aboutTelemetry.raw "JSON ดิบ">
 
 
 
@@ -47,6 +50,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  การเขียนทีหลัง">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "  ข้อมูลวาระ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  ฮิสโทแกรมที่เก็บโดยส่วนเสริม">
 
