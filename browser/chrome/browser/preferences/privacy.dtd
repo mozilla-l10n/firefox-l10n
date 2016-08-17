@@ -19,9 +19,9 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Uzzināt vairāk">
 <!ENTITY changeBlockList.label          "Mainīt bloķēto sarakstu">
 <!ENTITY changeBlockList.accesskey      "M">
+
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
 <!ENTITY  doNotTrack.pre.label          "Jūs varat arī ">
 <!ENTITY  doNotTrack.settings.label     "pārvaldīt savus izsekošanas iestatījumus">
 <!ENTITY  doNotTrack.post.label         ".">
@@ -72,10 +72,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; atcerēsies jūsu pārlūkošanas, lejupielāžu, aizpildīto formu un meklēšanu vēsturi, kā arī saglabās apmeklēto lapu sīkdatnes.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Iespējams jūs vēlaties ">
 <!ENTITY  rememberActions.clearHistory.label  "dzēst nesenās pārlūkošanas vēsturi">
 <!ENTITY  rememberActions.middle.label        " vai ">
@@ -83,9 +83,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; izmantos tādus pat iestatījumus kā privātās pārlūkošanas režīmā un pārlūkojot internetu nesaglabās vēsturi.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "Jūs varētu vēlēties arī ">
 <!ENTITY  dontrememberActions.clearHistory.label "dzēst šobrīd saglabāto vēsturi">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Iestatījumi…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY  browserContainersHeader.label         "Saturošās cilnes">
+<!ENTITY  browserContainersLearnMore.label      "Uzzināt vairāk">
+<!ENTITY  browserContainersEnabled.label        "Aktivēt saturošās cilnes">
+<!ENTITY  browserContainersEnabled.accesskey    "u">
