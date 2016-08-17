@@ -185,6 +185,7 @@
 <!ENTITY urlbar.translatedNotificationAnchor.label "Zarządzaj ustawieniami tłumaczenia">
 <!ENTITY urlbar.emeNotificationAnchor.label "Zarządzaj ustawieniami DRM">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Wyświetl historię">
+<!ENTITY urlbar.zoomReset.tooltip "Przywróć oryginalny rozmiar">
 
 <!ENTITY searchItem.title "Znajdź" >
 
