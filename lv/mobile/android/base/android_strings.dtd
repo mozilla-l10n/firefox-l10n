@@ -48,6 +48,7 @@
 <!ENTITY  switch_to_tab "Pāriet uz cilni">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Rādīt bezsaistes versiju">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Avārijas ziņojumi">
 <!ENTITY  crash_message2 "&brandShortName; saskārās ar problēmu un avarēja. Pēc pārstartēšanas jūsu cilnēm vajadzētu būt &brandShortName; sākuma lapā.">
@@ -273,12 +274,17 @@
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "Eksperimentāla iespēja">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "Pielāgotās cilnes">
+<!ENTITY pref_custom_tabs_summary "Atļaut trešo pušu lietotnēm atvērt adreses ar pielāgotu izskatu.">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Darbību plūsma">
+<!ENTITY pref_activity_stream_summary "Iespējām bagāta vēstures josla un pārstrādāta sākumlapa ļauj vieglāk kā jebkad atrast vajadzīgo &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Tagad ar izsekošanas aizsardzību">
 <!ENTITY tracking_protection_prompt_text "Aktīvi bloķē izsekošanas elementus, lai jums par to nav jāuztraucas.">
@@ -392,6 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Sinhronizētās cilnes">
 
 <!ENTITY pref_default_browser "Lietot kā noklusēto pārlūku">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Apmeklējiet Mozilla atbalstu">
 <!ENTITY pref_about_firefox "Par &brandShortName;">
 <!ENTITY pref_vendor_faqs "BUJ">
 <!ENTITY pref_vendor_feedback "Iesniegt atsauksmi">
@@ -580,8 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "Notīrīt pārlūkošanas vēsturi">
 <!ENTITY home_clear_history_confirm "Vai tiešām vēlaties notīrīt pārlūkošanas vēsturi?">
 <!ENTITY home_bookmarks_empty "Saglabātās grāmatzīmes parādās te.">
+<!ENTITY home_closed_tabs_title2 "Nesen aizvērtās">
 <!ENTITY home_last_tabs_empty "Jūsu nesenās cilnes parādās te.">
+<!ENTITY home_restore_all "Atjaunot visu">
+<!ENTITY home_closed_tabs_number "&formatD; cilnes">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 cilne">
 <!ENTITY home_most_recent_empty "Nesen apmeklētās vietnes parādās te.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
