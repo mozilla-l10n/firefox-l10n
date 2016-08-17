@@ -52,6 +52,10 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Pavedienu uzkāršanās">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Skalāri
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histogrammas">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Atzīmētās histogrammas">
