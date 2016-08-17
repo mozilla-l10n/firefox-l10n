@@ -33,7 +33,7 @@
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "DNS milliþjónn ef notað er SOCKS v5">
-
+<!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "Gátt:">
 <!ENTITY  HTTPport.accesskey            "G">
 <!ENTITY  SSLport.accesskey             "t">
