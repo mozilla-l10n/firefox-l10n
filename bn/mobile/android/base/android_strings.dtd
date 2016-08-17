@@ -280,7 +280,7 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "স্বনির্ধারিত ট্যাব">
-
+<!ENTITY pref_custom_tabs_summary "তৃতীয়-পক্ষীয় কোন অ্যাপকে স্বনির্ধারিত লুক এন্ড ফিলসহ URL খোলার অনুমোদন দিন।">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Activity Stream">
