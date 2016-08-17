@@ -177,11 +177,8 @@
 <!ENTITY urlbar.pluginsNotificationAnchor.label "Zarządzaj wtyczkami używanymi na tej stronie">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label "Określ, czy strona ma prawo wyświetlać powiadomienia">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Zarządzaj udostępnianiem tej stronie kamery i mikrofonu">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label "Udostępniasz tej stronie obraz z kamery i/lub dźwięk dźwięk z mikrofonu">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label "Zarządzaj udostępnianiem mikrofonu tej stronie">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Udostępniasz tej stronie dźwięk z mikrofonu">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label "Zarządzaj udostępnianiem tej stronie okien i ekranu">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label "Udostępniasz tej stronie okno lub ekran">
 <!ENTITY urlbar.pointerLockNotificationAnchor.label "Określ, czy strona ma prawo ukrywać kursor">
 <!ENTITY urlbar.servicesNotificationAnchor.label "Wyświetl zapytanie instalacji usługi">
 <!ENTITY urlbar.translateNotificationAnchor.label "Przetłumacz tę stronę">
