@@ -7,6 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "Modus privat">
+<!ENTITY privateBrowsing.title.tracking                  "Modus privat cun protecziun cunter il fastizar">
 <!ENTITY aboutPrivateBrowsing.info.searches              "Tschertgas">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Datotecas temporaras">
@@ -14,4 +15,5 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Segnapaginas">
 
 <!ENTITY trackingProtection.title                        "Protecziun cunter il fastizar:">
+<!ENTITY trackingProtection.description2                 "Tschertas paginas d'internet utiliseschan trackers che suandan tias activitads en l'internet. Sche la protecziun cunter il fastizar è activada blochescha Firefox blers trackers che rimnan infurmaziuns davart tias activitads en l'internet.">
 <!ENTITY trackingProtection.startTour1                   "Mussar co che quai funcziunescha">
