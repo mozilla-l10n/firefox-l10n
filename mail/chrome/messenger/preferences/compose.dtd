@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "ف">
 <!ENTITY restoreHTMLDefaults.label            "استعد المبدئيات">
 <!ENTITY restoreHTMLDefaults.accesskey        "م">
-
-
+<!ENTITY defaultToParagraph.label             "استخدم تنسيق الفقرات بدلا من متن النص مبدئيًا">
+<!ENTITY defaultToParagraph.accesskey         "ف">
 
 <!ENTITY spellCheck.label                     "دقِّق الإملاء قبل الإرسال">
 <!ENTITY spellCheck.accesskey                 "د">
