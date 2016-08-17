@@ -377,7 +377,7 @@
 <!-- Tools Menu -->
 <!ENTITY searchMailCmd.label "Berichten zoeken…">
 <!ENTITY searchMailCmd.accesskey "z">
-<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchMailCmd.key "s">
 <!ENTITY searchAddressesCmd.label "Adressen zoeken…">
 <!ENTITY searchAddressesCmd.accesskey "r">
 <!ENTITY filtersCmd.label "Berichtenfilters…">
