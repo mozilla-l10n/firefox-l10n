@@ -13,7 +13,7 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
-
+<!ENTITY safeb.palm.reportPage.label "Bu sahifa nega bloklangan?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Hujumkor sahifa sifatida ma`lumot berilgan!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,7 +22,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "Shubhali dasturiy ta’minot sayti haqida xabar berildi!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> veb sahifasi hujum sayti sifatida xabar berilgan va shu sababli xavfsizlik moslamalaringizga asoslanib, bloklangan.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> manzilidagi veb-sahifasi tarkibida shubhali dasturiy ta’minot borligi xabar berilgan va shu sababli xavfsizlik parametrlariga ko‘ra bloklangan.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Shubhali dasturiy mahsulot bor sahifalar sizni aldaydigan va tizimingizga kutilmagan yo‘llar bilan ta’sir ko‘rsatuvchi dasturlarni o‘rnatishga urinib ko‘radi.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Qalbaki sayt!">
