@@ -40,6 +40,9 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Atbrīvot cilni">
 <!ENTITY  unpinTab.accesskey                 "c">
+<!ENTITY  sendTabToDevice.label              "Sūtīt cilni uz ierīci">
+<!ENTITY  sendTabToDevice.accesskey          "T">
+<!ENTITY  sendPageToDevice.label             "Sūtīt lapu uz ierīci">
 <!ENTITY  moveToNewWindow.label              "Pāriet uz jaunu logu">
 <!ENTITY  moveToNewWindow.accesskey          "P">
 <!ENTITY  bookmarkAllTabs.label              "Saglabāt visas cilnes grāmatzīmēs…">
