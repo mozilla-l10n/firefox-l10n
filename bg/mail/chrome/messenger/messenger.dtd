@@ -887,7 +887,7 @@
 <!ENTITY saveImageAsCmd.accesskey "ж">
 <!ENTITY copyLinkCmd.label "Копиране адреса на връзката">
 <!ENTITY copyLinkCmd.accesskey "К">
-<!ENTITY copyImageAllCmd.label "Копиране на изображение">
+<!ENTITY copyImageAllCmd.label "Копиране на изображението">
 <!ENTITY copyImageAllCmd.accesskey "и">
 <!ENTITY copyEmailCmd.label "Копиране на пощенския адрес">
 <!ENTITY copyEmailCmd.accesskey "К">
