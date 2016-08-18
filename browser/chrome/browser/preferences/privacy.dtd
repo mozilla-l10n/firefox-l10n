@@ -105,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Ayarlar…">
 <!ENTITY  clearOnCloseSettings.accesskey "A">
 
+<!ENTITY  browserContainersHeader.label         "Kapsayıcı sekmeler">
 <!ENTITY  browserContainersLearnMore.label      "Daha fazla bilgi al">
-
-
+<!ENTITY  browserContainersEnabled.label        "Kapsayıcı sekmeleri etkinleştir">
+<!ENTITY  browserContainersEnabled.accesskey    "K">

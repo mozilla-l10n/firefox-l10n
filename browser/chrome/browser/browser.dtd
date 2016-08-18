@@ -247,7 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Yer İmleri kenar çubuğunu göster">
 <!ENTITY viewBookmarksToolbar.label         "Yer İmleri araç çubuğunu göster">
 
-<!ENTITY containersMenu.label "Taşıyıcılar">
+<!ENTITY containersMenu.label "Kapsayıcılar">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -474,7 +474,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Çerçeveyi yeni pencerede aç">
 <!ENTITY openFrameCmd.accesskey       "e">
 <!ENTITY openLinkCmdInContainerTab.label "Bağlantıyı yeni kapsayıcı sekmede aç">
-
+<!ENTITY openLinkCmdInContainerTab.accesskey "s">
 <!ENTITY showOnlyThisFrameCmd.label     "Sadece bu çerçeveyi göster">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "S">
 
 <!ENTITY editBookmark.done.label                     "Tamam">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "s">
 
 <!ENTITY identity.connectionSecure "Güvenli bağlantı">
 <!ENTITY identity.connectionNotSecure "Bağlantı güvenli değil">
