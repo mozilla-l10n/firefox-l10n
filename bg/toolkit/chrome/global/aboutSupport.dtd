@@ -102,7 +102,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "История на инсталирането">
 <!ENTITY aboutSupport.updateHistoryTitle "История на обновяванията">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Копиране на всичко в системния буфер">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Копиране на текста в системния буфер">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Копиране необработени данни в системния буфер">
 
 <!ENTITY aboutSupport.sandboxTitle "Виртуална среда">
