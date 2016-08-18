@@ -5,8 +5,8 @@
 <!ENTITY firstrun_panel_title_welcome "សូម​ស្វាគមន៍">
 
 <!ENTITY firstrun_urlbar_message "សូម​ស្វាគមន៍​មកកាន់ &brandShortName;!">
-
-
+<!ENTITY firstrun_urlbar_subtext "រក​ឃើញ​លឿន​ជាង​មុន​ដោយ​ប្រើ​ផ្លូវកាត់​ការ​ផ្ដល់​យោបល់​ស្វែងរក​ដែល​មាន​ប្រយោជន៍">
+<!ENTITY firstrun_bookmarks_title "ប្រវត្តិ">
 
 <!ENTITY firstrun_bookmarks_subtext "ទទួលបាន​លទ្ធផល​ពី​ការ​ចំណាំ​និង​ប្រវត្តិ​ស្វែងរក​របស់​អ្នក នៅ​ពេល​អ្នក​ស្វែងរក​អ្វី​មួយ។">
 <!ENTITY firstrun_data_title "ទិន្នន័យ">
