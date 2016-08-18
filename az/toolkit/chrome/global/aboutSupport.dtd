@@ -18,7 +18,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionsTitle "Uzantılar">
 <!ENTITY aboutSupport.extensionName "Ad">
 <!ENTITY aboutSupport.extensionEnabled "Aktivdir">
-<!ENTITY aboutSupport.extensionVersion "Sürüm">
+<!ENTITY aboutSupport.extensionVersion "Buraxılış">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Eksperimental Özəlliklər">
@@ -32,7 +32,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.appBasicsTitle "Proqramın əsasları">
 <!ENTITY aboutSupport.appBasicsName "Ad">
-<!ENTITY aboutSupport.appBasicsVersion "Sürüm">
+<!ENTITY aboutSupport.appBasicsVersion "Buraxılış">
 <!ENTITY aboutSupport.appBasicsBuildID "Quruluş İdentifikatoru">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->

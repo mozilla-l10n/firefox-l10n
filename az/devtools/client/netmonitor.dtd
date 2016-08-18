@@ -120,7 +120,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.version): This is the label displayed
   -  in the network details headers tab identifying the http version. -->
 
-<!ENTITY netmonitorUI.summary.version     "Sürüm:">
+<!ENTITY netmonitorUI.summary.version     "Buraxılış:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.size): This is the label displayed
   -  in the network details headers tab identifying the headers size. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.response.name): This is the label displayed

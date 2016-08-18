@@ -124,7 +124,7 @@
 <!ENTITY discover.footer                      "İnternetə bağlananda bu bölmədə baxmağınız üçün ən çox istifadə olunana əlavələrin bəziləri önə çıxarılacaq.">
 <!-- detail view -->
 
-<!ENTITY detail.version.label                 "Sürüm">
+<!ENTITY detail.version.label                 "Buraxılış">
 <!ENTITY detail.lastupdated.label             "Son yenilənmə">
 <!ENTITY detail.creator.label                 "İnkişaf etdirici">
 <!ENTITY detail.homepage.label                "Ana səhifə">
