@@ -111,7 +111,7 @@
 <!ENTITY one_tab "1 pestaña">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "pestañas de &formatD;">
+<!ENTITY num_tabs2 "&formatD; pestañas">
 <!ENTITY new_tab_opened "Nueva pestaña abierta">
 <!ENTITY new_private_tab_opened "Nueva pestaña privada abierta">
 <!-- Localization note (switch_button_message): This string should be as short
