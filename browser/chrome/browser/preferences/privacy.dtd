@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Nastavenia…">
 <!ENTITY  clearOnCloseSettings.accesskey "N">
+
+<!ENTITY  browserContainersHeader.label         "Kontajnerové karty">
+<!ENTITY  browserContainersLearnMore.label      "Ďalšie informácie">
+<!ENTITY  browserContainersEnabled.label        "Povoliť kontajnerové karty">
+<!ENTITY  browserContainersEnabled.accesskey    "o">
