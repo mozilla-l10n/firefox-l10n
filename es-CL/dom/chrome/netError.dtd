@@ -17,7 +17,7 @@
 <!ENTITY dnsNotFound.longDesc "<p>El navegador no pudo encontrar el servidor para la dirección proporcionada.</p><ul><li>¿Cometió un error al escribir el dominio? (p. ej. <q><strong>ww</strong>.mozilla.org</q> en vez de <q><strong>www</strong>.mozilla.org</q>)</li><li>¿Está seguro de que existe este dominio?  Su fecha de registro puede haber vencido.</li><li>¿No es capaz de navegar por otros sitios? Compruebe la conexión de red y la configuración del servidor DNS.</li><li>¿Su computador está protegido por un proxy o un firewall? Una configuración incorrecta puede interferir la navegación.</li></ul>">
 
 <!ENTITY fileNotFound.title "Archivo no encontrado">
-<!ENTITY fileNotFound.longDesc "<ul><li>¿Es posible que el elemento se haya renombrado, eliminado o cambiado de ruta?</li><li>¿Hay algún error de ortografía, mayúsculas o cualquier otro error al escribir la dirección?</li><li>¿Tiene privilegios de acceso sufficientes para el elemento solicitado?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>¿Es posible que el elemento haya sido renombrado, eliminado o cambiado de ubicación?</li><li>¿Hay algún error de ortografía, mayúsculas o cualquier otro error al escribir la dirección?</li><li>¿Tienes privilegios de acceso suficientes para el elemento solicitado?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "El acceso al archivo fue denegado">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Puede haber sido removido o movido, o puede que los permisos del archivo prevengan el acceso.</li></ul>
