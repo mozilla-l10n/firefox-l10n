@@ -7,13 +7,13 @@
 <!ENTITY firstrun_urlbar_message "សូម​ស្វាគមន៍​មកកាន់ &brandShortName;!">
 <!ENTITY firstrun_urlbar_subtext "រក​ឃើញ​លឿន​ជាង​មុន​ដោយ​ប្រើ​ផ្លូវកាត់​ការ​ផ្ដល់​យោបល់​ស្វែងរក​ដែល​មាន​ប្រយោជន៍">
 <!ENTITY firstrun_bookmarks_title "ប្រវត្តិ">
-
+<!ENTITY firstrun_bookmarks_message "ចំណូលចិត្ត​របស់​អ្នក ខាងមុខ និង​កណ្ដាល">
 <!ENTITY firstrun_bookmarks_subtext "ទទួលបាន​លទ្ធផល​ពី​ការ​ចំណាំ​និង​ប្រវត្តិ​ស្វែងរក​របស់​អ្នក នៅ​ពេល​អ្នក​ស្វែងរក​អ្វី​មួយ។">
 <!ENTITY firstrun_data_title "ទិន្នន័យ">
 <!ENTITY firstrun_data_message "ប្រើ​ទិន្នន័យ​តិច, សន្សំ​បាន​ច្រើន">
 <!ENTITY firstrun_data_subtext2 "បិទ​រូបភាព​នៅ​គ្រប់​វេបសាយ​ដែល​អ្នក​ចូល​មើល ដើម្បី​សន្សំសំចៃ​ទិន្នន័យ​របស់​អ្នក។">
 <!ENTITY firstrun_sync_title "ធ្វើ​សមកាលកម្ម">
-
+<!ENTITY firstrun_sync_message "&brandShortName;, តែងតែ​នៅ​ក្បែរ​អ្នក​ជានិច្ច">
 
 
 
