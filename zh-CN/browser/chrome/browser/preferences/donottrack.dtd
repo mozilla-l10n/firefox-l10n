@@ -9,5 +9,5 @@
 <!ENTITY doNotTrackCheckbox2.label    "始终应用请勿跟踪">
 <!ENTITY doNotTrackCheckbox2.accesskey "A">
 
-<!ENTITY doNotTrackTPInfo.description "在跟踪保护开启时，&brandShortName; 将发送一个信号标明您不想被跟踪。">
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; 将发送一个表明您不想被跟踪的信号，不论跟踪保护是否已开启。">
 <!ENTITY doNotTrackLearnMore.label    "详细了解">
