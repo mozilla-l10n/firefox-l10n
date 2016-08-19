@@ -15,3 +15,4 @@
   - documentation on web development on the web. -->
 
 <!ENTITY gotoLineCmd.label         "Μετάβαση στη γραμμή…">
+<!ENTITY gotoLineCmd.key           "J">
