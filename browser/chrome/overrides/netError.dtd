@@ -191,16 +191,19 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Nun ye dable una conexón segura a <span id='wrongSystemTime_URL'/> porque'l reló paez tar amosando la hora incorreuta.</p><p>La computadora camienta que ye <span id='wrongSystemTime_systemDate'/> cuando tendría ser <span id='wrongSystemTime_actualDate'/>. Pa iguar el fallu, camuda la data y hora pa que concasen coles correutes.</p>">
+<!ENTITY certerror.wrongSystemTime "<p>Nun ye posible una conexón segura a <span id='wrongSystemTime_URL'/> porque'l reló paez tar amosando la hora incorreuta.</p> <p>EL to ordenador cuida que ye <span id='wrongSystemTime_systemDate'/>, cuando debería ser <span id='wrongSystemTime_actualDate'/>. Pa iguar esti problema, camuda los tos axustes de data y hora pa que concasen colo correuto.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conexón insegura">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Esti sitiu usa HTTP Strict Transport Security (HSTS) pa especificar que &brandShortName; namái se coneuta a él de mou seguru. Como resultáu, nun ye dable amestar una esceición pa esti certificáu.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Esti sitiu usa HTTP
+Strict Transport Security (HSTS) pa especificar que &brandShortName; namái se
+coneuta a elli de mou seguru. Como resultáu, nun ye posible amestar una esceición pa
+esti certificáu.">
 <!ENTITY certerror.copyToClipboard.label "Copiar testu al cartafueyu">
 
 <!ENTITY inadequateSecurityError.title "La to conexón nun ye segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>usa teunoloxía de seguranza obsoleta y vulnerable a ataques. Un atacante pue, de mou cenciellu, revelar información que pensabes que taba a salvu. L'alministrador del sitiu web tendría d'iguar el sirvidor enantes de que puedas visitar esti sitiu.</p><p>Códigu de fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una teunoloxía de seguranza que nun ta anovada y ye vulnerable a ataques. Un atacante podría, de mou cenciellu, revelar información personal que pensabes que taba segura. L'alministrador del sitiu web precisará iguar el sirvidor enantes que pueas visitalu.</p><p>Códigu de fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY prefReset.longDesc "Paez que la configuración de seguranza de la rede pue tar faciendo esto. ¿Quies que se restaure la configuración predeterminada?">
-<!ENTITY prefReset.label "Restaurar configuración predeterminada">
+<!ENTITY prefReset.longDesc "Paez que los tos axustes de seguranza de rede puen tar causando esto. ¿Quies reafitalos?">
+<!ENTITY prefReset.label "Reafitar axustes">
