@@ -9,7 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Chijun ruwa kematz'ib'">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Tel pa chijun ruwa kematz'ib'">
 <!ENTITY castingButton.castingLabel "Titaq el pa ruwäch">
-
+<!ENTITY closedCaption.off "Chupül">
 
 <!ENTITY stats.media "K'ïy k'oxom">
 <!ENTITY stats.size "Nimilem">
