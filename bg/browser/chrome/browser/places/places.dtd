@@ -50,7 +50,7 @@
 
 <!ENTITY cmd.open.label                  "Отваряне">
 <!ENTITY cmd.open.accesskey              "О">
-<!ENTITY cmd.open_window.label           "Отваряне в нов прозорец">
+<!ENTITY cmd.open_window.label           "Отваряне в прозорец">
 <!ENTITY cmd.open_window.accesskey       "п">
 <!ENTITY cmd.open_private_window.label     "Отваряне в нов поверителен прозорец">
 <!ENTITY cmd.open_private_window.accesskey "п">

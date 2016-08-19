@@ -37,9 +37,9 @@
 <!ENTITY engine.addons.accesskey    "б">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Име на сегашното устройството:">
+<!ENTITY syncDeviceName.label       "Име на текущото устройство:">
 <!ENTITY syncDeviceName.accesskey   "И">
-<!ENTITY fxaSyncDeviceName.label       "Име на сегашното устройство">
+<!ENTITY fxaSyncDeviceName.label       "Име на текущото устройство">
 <!ENTITY changeSyncDeviceName.label "Преименуване…">
 <!ENTITY cancelChangeSyncDeviceName.label "Отказ">
 <!ENTITY saveChangeSyncDeviceName.label "Запазване">
