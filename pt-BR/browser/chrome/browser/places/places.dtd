@@ -12,7 +12,7 @@
 
 <!ENTITY file.close.label               "Fechar">
 <!ENTITY file.close.accesskey           "F">
-<!ENTITY cmd.close.key                  "W">
+<!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Exibir">
 <!ENTITY views.accesskey                "x">
 <!ENTITY views.tooltip                  "Alterar o modo de exibição">
@@ -45,7 +45,7 @@
 <!ENTITY cmd.bookmarkLink.accesskey     "d">
 <!ENTITY cmd.delete.label               "Excluir esta página">
 <!ENTITY cmd.delete.accesskey           "x">
-<!ENTITY cmd.deleteDomainData.label     "Limpar tudo sobre este site">
+<!ENTITY cmd.deleteDomainData.label     "Esquecer este site">
 <!ENTITY cmd.deleteDomainData.accesskey "L">
 
 <!ENTITY cmd.open.label                  "Abrir">

@@ -14,7 +14,7 @@
 
 <!ENTITY fileMenu.label "Arquivo">
 <!ENTITY fileMenu.accesskey "A">
-<!ENTITY savePageCmd.label "Salvar como…">
+<!ENTITY savePageCmd.label "Salvar página como…">
 <!ENTITY savePageCmd.accesskey "v">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Configurar página…">
@@ -64,7 +64,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label     "Localizar…">
+<!ENTITY findOnCmd.label     "Localizar nesta página…">
 <!ENTITY findOnCmd.accesskey "z">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Localizar próxima">
