@@ -40,9 +40,9 @@
      -->
 <!ENTITY downloadsSummary.minWidth2       "22ch">
 
-<!ENTITY cmd.pause.label                  "Pausa">
+<!ENTITY cmd.pause.label                  "Pausar">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Resumir">
+<!ENTITY cmd.resume.label                 "Continuar">
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Cancelar">
 <!ENTITY cmd.cancel.accesskey             "C">
@@ -55,8 +55,8 @@
 <!ENTITY cmd.show.accesskey               "r">
 <!ENTITY cmd.showMac.label                "Mostrar no Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.retry.label                  "Reiniciar">
-<!ENTITY cmd.goToDownloadPage.label       "Abrir página de download">
+<!ENTITY cmd.retry.label                  "Repetir">
+<!ENTITY cmd.goToDownloadPage.label       "Ir para a página de download">
 <!ENTITY cmd.goToDownloadPage.accesskey   "b">
 <!ENTITY cmd.copyDownloadLink.label       "Copiar link do download">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">

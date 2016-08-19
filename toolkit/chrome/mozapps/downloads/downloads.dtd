@@ -13,7 +13,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY downloads.title                  "Downloads">
 
-<!ENTITY cmd.pause.label                  "Pausa">
+<!ENTITY cmd.pause.label                  "Pausar">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Continuar">
 <!ENTITY cmd.resume.accesskey             "o">
@@ -27,9 +27,9 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.open.accesskey               "A">
 <!ENTITY cmd.openWith.label               "Abrir com…">
 <!ENTITY cmd.openWith.accesskey           "A">
-<!ENTITY cmd.retry.label                  "Reiniciar">
+<!ENTITY cmd.retry.label                  "Repetir">
 <!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.goToDownloadPage.label       "Abrir página de download">
+<!ENTITY cmd.goToDownloadPage.label       "Ir para a página de download">
 <!ENTITY cmd.goToDownloadPage.accesskey   "b">
 <!ENTITY cmd.copyDownloadLink.label       "Copiar link do download">
 <!ENTITY cmd.copyDownloadLink.accesskey   "C">

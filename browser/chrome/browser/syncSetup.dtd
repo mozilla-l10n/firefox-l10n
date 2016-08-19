@@ -50,7 +50,7 @@
 <!ENTITY recoveryKeyEntry.label        "Sua chave de recuperação">
 <!ENTITY recoveryKeyEntry.accesskey    "u">
 <!ENTITY syncGenerateNewKey.label  "Gerar nova chave">
-<!ENTITY recoveryKeyBackup.description "Sua chave de recuperação é necessária para acessar o &syncBrand.fullName.label; em outros dispositivos. Por favor, faça um backup. Não poderemos auxiliá-lo caso a perca.">
+<!ENTITY recoveryKeyBackup.description "Sua chave de recuperação é necessária para acessar o &syncBrand.fullName.label; em outras máquinas. Por favor, faça um backup. Não poderemos ajudá-lo caso a perca.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir…">
 <!ENTITY button.syncKeyBackup.print.accesskey "I">
