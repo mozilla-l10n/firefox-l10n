@@ -16,7 +16,7 @@
 <!ENTITY resetPassword.text  "Si restableces tu contraseña maestra, todas las contraseñas de webs y de correo electrónico, los datos de los formularios, certificados personales y llaves privadas almacenados serán olvidados. ¿Estás seguro de que quieres restablecer tu contraseña maestra?">
 
 <!-- Downloading a cert -->
-<!ENTITY downloadCert.title "Descargando certificado">
+<!ENTITY downloadCert.title "Bajando certificado">
 <!ENTITY downloadCert.message1 "Se te ha pedido que confíes en una nueva autoridad de certificación (CA).">
 <!ENTITY downloadCert.trustSSL "Confiar en esta CA para identificar sitios web.">
 <!ENTITY downloadCert.trustEmail "Confiar en este CA para identificar usuarios de email.">

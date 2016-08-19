@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY selectBookmark.title
-  "Poner página de Inicio">
+  "Poner de página de inicio">
 <!ENTITY selectBookmark.label
   "Elige el marcador que será tu página de inicio. Si eliges una carpeta, los marcadores en esa carpeta serán abiertos en varias pestañas.">
 
