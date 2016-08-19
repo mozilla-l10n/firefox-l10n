@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Hangandi þræðir">
 
+<!ENTITY aboutTelemetry.scalarsSection "  Kvarðar">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Súlurit">
 
