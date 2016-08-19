@@ -76,7 +76,7 @@
 <li>Si ha conectado a este servidor con éxito en el pasado, el error podría ser temporal, y podrá volver a intentarlo más tarde.</li>
 </ul>">
 
-<!ENTITY securityOverride.linkText "O puede añadir una excepción…">
+<!ENTITY securityOverride.linkText "O puedes añadir una excepción…">
 <!ENTITY securityOverride.warningContent "
 <p>No debiera añadir una excepción si está usando una conexión a internet en la cual no confía plenamente o si no está acostumbrado a ver una advertencia para este servidor.</p>
 <p>Si aún desea añadir una excepción para este sitio, puede hacerlo en los ajustes de cifrado avanzados.</p>
@@ -94,4 +94,4 @@
 <!ENTITY inadequateSecurityError.title "Tu conexión no es segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>utiliza tecnología de seguridad que es antigua y vulnerable a ataques. Un atacante podría fácilmente revelar información que creía estar segura. El administrador del sitio web deberá arreglar el servidor antes de que pueda visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>utiliza tecnología de seguridad que es obsoleta y vulnerable a ataques. Un atacante fácilmente podría revelar información que creías estaba a salvo. El administrador del sitio web tendrá que arreglar el servidor antes de que puedas visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

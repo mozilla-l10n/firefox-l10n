@@ -38,7 +38,7 @@
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Acepto los">
 <!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Terminos del servicio">
+<!ENTITY setup.tosLink.label        "Términos del servicio">
 <!ENTITY setup.tosAgree2.label      "y la">
 <!ENTITY setup.ppLink.label         "Política de privacidad">
 <!ENTITY setup.tosAgree3.label      "">

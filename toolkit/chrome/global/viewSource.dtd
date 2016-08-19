@@ -67,7 +67,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.label     "Buscar en esta página…">
 <!ENTITY findOnCmd.accesskey "B">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Buscar de nuevo">
+<!ENTITY findAgainCmd.label  "Volver a buscar">
 <!ENTITY findAgainCmd.accesskey "B">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
@@ -80,7 +80,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
+<!ENTITY copyLinkCmd.label "Copiar ubicación del enlace">
 <!ENTITY copyLinkCmd.accesskey "l">
 <!ENTITY copyEmailCmd.label "Copiar email">
 <!ENTITY copyEmailCmd.accesskey "e">

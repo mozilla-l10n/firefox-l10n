@@ -58,7 +58,7 @@
 <!ENTITY cmd.retry.label                  "Reintentar">
 <!ENTITY cmd.goToDownloadPage.label       "Ir a la página de la descarga">
 <!ENTITY cmd.goToDownloadPage.accesskey   "I">
-<!ENTITY cmd.copyDownloadLink.label       "Copiar enlace de descarga">
+<!ENTITY cmd.copyDownloadLink.label       "Copiar el enlace de descarga">
 <!ENTITY cmd.copyDownloadLink.accesskey   "E">
 <!ENTITY cmd.removeFromHistory.label      "Eliminar del historial">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
