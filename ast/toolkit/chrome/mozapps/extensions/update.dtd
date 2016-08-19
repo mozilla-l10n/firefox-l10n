@@ -46,7 +46,7 @@
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; va guetar periódicamente ya informaráte
                                            cuandu alcuentre anovamientos pa los complementos.">
 
-<!ENTITY  adminDisabled.wizard.title      "Nun se puen guetar anovamientos">
+<!ENTITY  adminDisabled.wizard.title      "Nun puen comprobase anovamientos">
 <!ENTITY  adminDisabled.warning.label     "Nun ye dable guetar anovamientos de los complementos incompatibles
                                            porque la instalación de software en &brandShortName; desactivóse.
                                            Por favor, contauta col alministrador del sistema pa obtener ayuda.">
