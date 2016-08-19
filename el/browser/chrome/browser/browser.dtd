@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "ρ">
 <!ENTITY  unpinTab.label                     "Ξεκαρφίτσωμα καρτέλας">
 <!ENTITY  unpinTab.accesskey                 "κ">
+<!ENTITY  sendTabToDevice.label              "Αποστολή καρτέλας σε συσκευή">
+<!ENTITY  sendTabToDevice.accesskey          "σ">
+<!ENTITY  sendPageToDevice.label             "Αποστολή σελίδας σε συσκευή">
+<!ENTITY  sendPageToDevice.accesskey         "δ">
+<!ENTITY  sendLinkToDevice.label             "Αποστολή συνδέσμου σε συσκευή">
+<!ENTITY  sendLinkToDevice.accesskey         "μ">
 <!ENTITY  moveToNewWindow.label              "Μετακίνηση σε νέο παράθυρο">
 <!ENTITY  moveToNewWindow.accesskey          "π">
 <!ENTITY  bookmarkAllTabs.label              "Όλες οι καρτέλες σε σελιδοδείκτη…">
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Προβολή όλων των καρτελών">
 <!ENTITY showAllTabsCmd.accesskey "λ">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Συνδεθείτε για να χρησιμοποιήσετε το &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Άνοιγμα προτιμήσεων &syncBrand.shortName.label;">
@@ -142,6 +149,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "Ο τομέας">
+<!ENTITY pointerlockWarning.afterDomain.label "ελέγχει τον κέρσορά σας. Πατήστε Esc για ανάκτηση ελέγχου.">
+<!ENTITY pointerlockWarning.generic.label "Αυτό το έγγραφο ελέγχει τον κέρσορά σας. Πατήστε Esc για ανάκτηση ελέγχου.">
 
 <!ENTITY closeWindow.label "Κλείσιμο παραθύρου">
 <!ENTITY closeWindow.accesskey "θ">
@@ -237,6 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Προβολή πλευρικής στήλης σελιδοδεικτών">
 <!ENTITY viewBookmarksToolbar.label         "Προβολή εργαλειοθήκης σελιδοδεικτών">
 
+<!ENTITY containersMenu.label "Περιβάλλοντα">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -263,7 +274,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Έλεγχος αντικειμένου">
 
 <!ENTITY fileMenu.label         "Αρχείο"> 
-<!ENTITY newUserContext.label             "Νέα καρτέλα σε περιβάλλον">
+<!ENTITY newUserContext.label             "Νέα καρτέλα εντός περιβάλλοντος">
 <!ENTITY newNavigatorCmd.label        "Νέο παράθυρο">
 <!ENTITY newPrivateWindow.label     "Νέο παράθυρο ιδιωτικής περιήγησης">
 <!ENTITY newNonRemoteWindow.label   "Νέο Παράθυρο χωρίς την λειτουργία ηλεκτρόλυσης">
@@ -428,7 +439,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInCurrent.label     "Άνοιγμα δεσμού">
 <!ENTITY openFrameCmdInTab.label      "Άνοιγμα πλαισίου σε νέα καρτέλα">
 <!ENTITY openFrameCmd.label           "Άνοιγμα πλαισίου σε νέο παράθυρο">
-<!ENTITY openLinkCmdInContainerTab.label "Άνοιγμα δεσμού σε νέα καρτέλα σε περιβάλλον">
+<!ENTITY openLinkCmdInContainerTab.label "Άνοιγμα δεσμού σε νέα καρτέλα εντός περιβάλλοντος">
 <!ENTITY showOnlyThisFrameCmd.label     "Προβολή μόνο αυτού του πλαισίου">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Ανανέωση πλαισίου">

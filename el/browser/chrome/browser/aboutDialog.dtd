@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "Οι ενημερώσεις έχουν απενεργοποιηθεί από τον διαχειριστή του συστήματος σας">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "Γίνεται ήδη ενημέρωση του &brandShortName; από μια άλλη συνεδρία">
+<!ENTITY update.restarting          "Επανεκκίνηση…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
