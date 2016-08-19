@@ -64,12 +64,12 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Documentu caducáu">
-<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché de &brandShortName;.</p><ul><li>Por seguridá, &brandShortName; nun va solicitar automáticamente documentos con información sensible.</li><li>Calca en Intentar pa solicitar el documentu dende la web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché de &brandShortName;.</p><ul><li>Como midida de seguranza, &brandShortName; nun vuelve a solicitar documentos sensibles.</li><li>Primi «Tentar de nueves» pa volver a solicitar el documentu del sitiu web.</li></ul>">
 
 <!ENTITY netOffline.title "Mou ensin conexón">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-<li>Calca &quot;Intentar otra vegada&quot; pa pasar al mou en llinia y recargar la páxina.</li>
+  <li>Primi «Tentar de nueves» pa camudar al mou en llinia y recargar la páxinaess.</li>
 </ul>
 ">
 
@@ -80,34 +80,70 @@
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "Tipu de ficheru non seguru">
-<!ENTITY unsafeContentType.longDesc "<ul>
-  <li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li>
-</ul>">
+<!ENTITY unsafeContentType.title "Triba de ficheru insegura">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Reanicióse la conexón">
 <!ENTITY netReset.longDesc "<p>L'enllaz cola rede interrumpióse mientres se negociaba una conexón. Por favor, vuelvi a intentalo.</p>">
 
-<!ENTITY netTimeout.title "La conexón caducó">
-<!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun respondió a una petición de conexón y el restolador dexó d'esperar una rempuesta.</p><ul><li>¿Podría tar esperimentando el sirvidor alta demanda o un corte temporal? Vuelvi a intentalo más sero.</li><li>¿Nun pues navegar per otros sitios? Comprueba la conexón de rede del equipu.</li><li>¿Ta l'equipu protexíu por un proxy o un tornafueos? Una configuración incorreuta pue interferir na navegación.</li><li>¿Entá tienes problemes? Consulta col alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
+<!ENTITY netTimeout.title "Escosóse'l tiempu de conexón">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "La direición nun resulta entendible">
-<!ENTITY unknownProtocolFound.longDesc "">
+<!ENTITY unknownProtocolFound.title "Nun s'entendió la direición">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Quiciabes precises instalar otru software p'abrir esta direicón.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "El sirvidor proxy ta refugando les conexones">
-<!ENTITY proxyConnectFailure.longDesc "<p>El restolador ta configuráu pa usar un sirvidor proxy, pero'l proxy refugó la conexón.</p><ul><li>¿Ye correuta la configuración del proxy del restolador? Comprueba la configuración y vuelvi a intentalo.</li><li>¿Dexa'l serviciu proxy conexones dende esta rede?</li><li>¿Entá tienes problemes? Consulta col so alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Comprueba los axustes del proxy y asegúrate que tán bien.</li>
+  <li>Contauta col to alministrador de rede p'asegurar que'l sirvidor proxy
+    ta furrulando.</li>
+</ul>
+">
 
 <!ENTITY proxyResolveFailure.title "Nun pue alcontrase'l sirvidor proxy">
-<!ENTITY proxyResolveFailure.longDesc "<p>El restolador ta configuráu pa usar un sirvidor proxy, pero nun se pudo alcontrar el sirvidor proxy.</p><ul><li>¿Ye correuta la configuración del proxy del restolador? Comprueba la configuración y vuelvi a intentalo.</li><li>¿Ta l'equipu coneutáu a una rede activa?</li><li>¿Entá tienes problemes? Consulta col alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Comprueba los axustes del proxy y asegúrate que tán bien.</li>
+  <li>Asegúrate que'l to ordenador tien una conexón a internet que furrula.</li>
+  <li>Si'l to ordenador o rede tán protexíos por un tornafuéu o proxy, asegúrate
+    que &brandShortName; tien permisu p'acceder a la web.</li>
+</ul>
+">
 
-<!ENTITY redirectLoop.title "Bucle de redireición">
-<!ENTITY redirectLoop.longDesc "<p>El restolador detúvose intentando recuperar l'elementu solicitáu. El sitiu ta redirixendo la solicitú d'una forma qu'enxamás se va a completar.</p><ul><li>¿Tienes desactivaes o bloquiaes les cookies requeríes por esti sitiu?</li><li><em>NOTA</em>: Si aceutar les cookies del sitiu nun igua'l problema, dablemente ye un problema de configuración del sirvidor y non del to equipu.</li></ul>">
+<!ENTITY redirectLoop.title "La páxina nun ta redirixendo de mou afayadizu">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>A vegaes esti problema pue tar causáu por deshabilitar o refugar
+    l'aceutación de cookies.</li>
+</ul>
+">
 
-<!ENTITY unknownSocketType.title "Rempuesta incorreuta">
-<!ENTITY unknownSocketType.longDesc "<p>El sitiu respondió a la solicitú de rede d'una forma inesperada y el restolador nun pue continuar.</p>">
+<!ENTITY unknownSocketType.title "Rempuesta inesperada del sirvidor">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Comprueba que'l to sistema tien instaláu'l Xestor de Seguranza
+    Personal.</li>
+  <li>Esto quiciabes seya pola mor d'una configuración non estándar
+    nel sirvidor.</li>
+</ul>
+">
 
-<!ENTITY nssFailure2.title "Conexón segura fallida">
-<!ENTITY nssFailure2.longDesc2 "">
+<!ENTITY nssFailure2.title "Falló la conexón segura">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Nun pue amosase la páxina que tas tentando de ver porque nun pudo verificase l'autenticidá de los datos recibíos.</li>
+  <li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema.</li>
+</ul>
+">
 
 <!ENTITY certerror.longpagetitle1 "La to conexón nun ye segura">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
@@ -117,18 +153,16 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>El sitiu podría nun tar disponible temporalmente o
-   enforma ocupáu. Vuelvi a intentalo nun momentu.</li>
-  <li>Si nun pues cargar denguna páxina, comprueba la conexón
-   de rede del equipu.</li>
-  <li>Si l'equipu o rede tán protexíos por un tornafueos
-   o proxy, asegúrate de que &brandShortName; tien permisu
-   p'acceder a la web.</li>
+  <li>El sitiu podría tar perocupáu o nun tar disponible temporalmente. Volvi
+    tentalo nun momentu.</li>
+  <li>Si nun yes a cargar páxina dala, comprueba la conexón del to ordenador.</li>
+  <li>Si'l to ordenador ta protexíu por un tornafuéu o proxy, asegúrate que
+    &brandShortName; tien permisu p'acceder a la web.</li>
 </ul>
- ">
+">
 
-<!ENTITY cspBlocked.title "Bloquiáu pola política de seguridá de conteníu">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina se cargue d'esta forma porque la páxina tien una política de seguridá de conteníu que nun lo permite.</p>">
+<!ENTITY cspBlocked.title "Bloquiáu pola política de seguranza de conteníu">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina cargue d'esti mou porque tien una política de seguranza de conteníu que nun lo permite.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Fallu de conteníu toyíu">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Nun pue amosase la páxina que tas tentando de ver porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Contauta colos dueños del sitiu pa informa-yos d'esti problema, por favor.</li></ul>">
@@ -140,9 +174,9 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Depriendi más…">
 
 <!ENTITY remoteXUL.title "XUL Remotu">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta col alministrador del sitiu web pa informalu d'esti problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Nun ye dable coneutar de mou seguru">
+<!ENTITY sslv3Used.title "Nun pue coneutase de mou seguru">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -153,7 +187,7 @@ was trying to connect. -->
 <!ENTITY weakCryptoUsed.longDesc2 "Información avanzada: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Avanzao">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa teunoloxía de seguranza obsoleta y vulnerable p'atacar. Un atacante pue revelar, de mou mui cenciellu, información que se pensaba que taba segura.">
-<!ENTITY weakCryptoAdvanced.override "(Non seguro) Tratando de cargar <span class='hostname'></span> usando seguridá obsoleta">
+<!ENTITY weakCryptoAdvanced.override "(Non seguro) Tentando de cargar <span class='hostname'></span> usando seguranza obsoleta">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
