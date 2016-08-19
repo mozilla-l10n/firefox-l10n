@@ -6,7 +6,7 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Bono, esto da daqué de vergoña.">
+<!ENTITY restorepage.errorTitle     "Bono, esto ye vergoñoso.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; ta teniendo problemes recuperando les tos llingüetes y ventanes. Esto cáusalo davezu una páxina abierta apocayá.">
 <!ENTITY restorepage.tryThis        "Pues tentar de:">
 <!ENTITY restorepage.restoreSome    "Desaniciar una o más llingüetes que camientes que quiciabes causen el problema">
