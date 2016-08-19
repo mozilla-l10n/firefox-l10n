@@ -259,7 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Εργαλεία">
- 
+<!ENTITY toolsMenu.accesskey          "γ"> 
 
 <!ENTITY keywordfield.label           "Προσθέστε μια λέξη-κλειδί για αυτή την αναζήτηση…">
 
