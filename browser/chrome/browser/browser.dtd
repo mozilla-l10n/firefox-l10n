@@ -280,13 +280,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
-<!ENTITY newUserContext.label             "Нов изолатор на раздели">
+<!ENTITY newUserContext.label             "Нов изолиран раздел">
 <!ENTITY newUserContext.accesskey         "и">
 <!ENTITY newNavigatorCmd.label        "Нов прозорец">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "п">
-<!ENTITY newPrivateWindow.label     "Нов прозорец за поверително сърфиране">
-<!ENTITY newPrivateWindow.accesskey "с">
+<!ENTITY newPrivateWindow.label     "Нов поверителен прозорец">
+<!ENTITY newPrivateWindow.accesskey "в">
 <!ENTITY newNonRemoteWindow.label   "Нов еднопроцесен прозорец">
 
 <!ENTITY editMenu.label         "Редактиране"> 
@@ -366,7 +366,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки на Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Впишете се, за да видите списък с раздели от други ваши устройства.">
 <!ENTITY appMenuRemoteTabs.signin.label "Вписване в Sync">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Преглед на странична лента със синхронизирани раздели">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Странична лента със синх. раздели">
 
 <!ENTITY customizeMenu.addToToolbar.label "Добавяне към лентата с инструменти">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
@@ -463,18 +463,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openLinkCmdInTab.label       "Отваряне в раздел">
 <!ENTITY openLinkCmdInTab.accesskey   "д">
-<!ENTITY openLinkCmd.label            "Отваряне в нов прозорец">
+<!ENTITY openLinkCmd.label            "Отваряне в прозорец">
 <!ENTITY openLinkCmd.accesskey        "п">
-<!ENTITY openLinkInPrivateWindowCmd.label "Отваряне в прозорец за поверително сърфиране">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "с">
+<!ENTITY openLinkInPrivateWindowCmd.label "Отваряне в поверителен прозорец">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "в">
 <!ENTITY openLinkCmdInCurrent.label     "Отваряне на връзката">
 <!ENTITY openLinkCmdInCurrent.accesskey "ъ">
 <!ENTITY openFrameCmdInTab.label      "Отваряне в раздел">
 <!ENTITY openFrameCmdInTab.accesskey  "д">
-<!ENTITY openFrameCmd.label           "Отваряне в нов прозорец">
+<!ENTITY openFrameCmd.label           "Отваряне в прозорец">
 <!ENTITY openFrameCmd.accesskey       "п">
 <!ENTITY openLinkCmdInContainerTab.label "Отваряне в изолиран раздел">
-<!ENTITY openLinkCmdInContainerTab.accesskey "О">
+<!ENTITY openLinkCmdInContainerTab.accesskey "и">
 <!ENTITY showOnlyThisFrameCmd.label     "Показване само на тази рамка">
 <!ENTITY showOnlyThisFrameCmd.accesskey "р">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -555,7 +555,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.accesskey    "т">
 <!ENTITY copyEmailCmd.label           "Копиране на електронния адрес">
 <!ENTITY copyEmailCmd.accesskey       "е">
-<!ENTITY thisFrameMenu.label              "Тази рамка">
+<!ENTITY thisFrameMenu.label              "Рамка">
 <!ENTITY thisFrameMenu.accesskey          "р">
 
 <!-- Media (video/audio) controls -->
@@ -755,9 +755,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.open.accesskey                   "О">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Отваряне в раздел">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "д">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Отваряне в нов прозорец">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Отваряне в прозорец">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "п">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Отваряне в нов прозорец за поверително сърфиране">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Отваряне в поверителен прозорец">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "п">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Отмятане на страницата…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "т">

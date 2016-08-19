@@ -4,7 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Нов раздел">
-<!ENTITY newtab.customize.classic "Вашите най-посещавани">
+<!ENTITY newtab.customize.classic "Най-посещавани страници">
 <!ENTITY newtab.customize.cog.enhanced "Вкл. предложени страници">
 <!ENTITY newtab.customize.cog.title2 "ПРИ НОВ РАЗДЕЛ">
 <!ENTITY newtab.customize.cog.learn "Научете за новия раздел">
