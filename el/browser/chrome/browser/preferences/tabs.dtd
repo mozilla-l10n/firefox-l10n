@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Το Ctrl+Tab εναλλάσσει τις καρτέλες με σειρά πιο πρόσφατης χρήσης">
+
 <!ENTITY newWindowsAsTabs.label       "Άνοιγμα νέων παραθύρων σε νέα καρτέλα">
 <!ENTITY newWindowsAsTabs.accesskey   "τ">
 
