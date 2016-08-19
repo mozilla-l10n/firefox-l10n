@@ -5,3 +5,7 @@
 #filter substitution
 
 pref("general.useragent.locale", "@AB_CD@");
+
+# LOCALIZATION NOTE: this preference is set to true only for a specific set of
+# locales, without this line the setting is set to false by default.
+pref("browser.search.geoSpecificDefaults", true);
