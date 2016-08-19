@@ -12,7 +12,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Nun se pue coneutar">
+<!ENTITY connectionFailure.title "Nun pue coneutase">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Esta direición ta restrinxida">
