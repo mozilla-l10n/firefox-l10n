@@ -150,7 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
+<!ENTITY pointerlockWarning.afterDomain.label "(e)k zure erakuslearen kontrola dauka. Kontrola berreskuratzeko, sakatu eskape tekla.">
 <!ENTITY pointerlockWarning.generic.label "Dokumentu honek zure erakuslearen kontrola dauka. Kontrola berreskuratzeko, sakatu eskape tekla.">
 
 <!ENTITY closeWindow.label "Itxi leihoa">
