@@ -570,7 +570,7 @@ size. -->
 <!ENTITY button_clear "Limpar">
 <!ENTITY button_copy "Copiar">
 
-<!ENTITY home_top_sites_title "Sites principais">
+<!ENTITY home_top_sites_title "Sites preferidos">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Adicionar um site">
