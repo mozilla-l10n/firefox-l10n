@@ -11,7 +11,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "End. do site:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "E">
 <!ENTITY editBookmarkOverlay.folder.label                    "Pasta:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Exibir todas as pastas dos favoritos">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Mostrar todas as pastas de favoritos">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ocultar">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etiquetas:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "t">

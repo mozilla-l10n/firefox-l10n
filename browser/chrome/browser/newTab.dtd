@@ -9,8 +9,8 @@
 <!ENTITY newtab.customize.cog.title2 "NOVOS CONTROLES DE ABAS">
 <!ENTITY newtab.customize.cog.learn "Saiba mais sobre a nova aba">
 <!ENTITY newtab.customize.title "Personalize sua página de nova aba">
-<!ENTITY newtab.customize.suggested "Mostrar sugestões e os melhores sites">
-<!ENTITY newtab.customize.topsites "Mostrar os melhores sites">
+<!ENTITY newtab.customize.suggested "Mostrar sugestões e seus sites preferidos">
+<!ENTITY newtab.customize.topsites "Mostrar os seus sites preferidos">
 <!ENTITY newtab.customize.blank2 "Mostrar página em branco">
 <!ENTITY newtab.undo.removedLabel "Miniatura removida.">
 <!ENTITY newtab.undo.undoButton "Desfazer.">
