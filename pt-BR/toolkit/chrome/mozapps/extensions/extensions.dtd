@@ -123,8 +123,8 @@
 <!ENTITY discover.description2                "Complementos são aplicativos que personalizam o &brandShortName; com 
 funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, um notificador sobre o clima ou um tema para tornar seu &brandShortName; 
 único.">
-<!ENTITY discover.footer                      "Quando você estiver conectado à internet, este painel exibirá alguns dos 
-melhores e mais populares complementos para você experimentar.">
+<!ENTITY discover.footer                      "Quando estiver conectado à internet, este painel apresentará alguns 
+  dos melhores e mais populares complementos para você experimentar.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versão">
