@@ -4,7 +4,7 @@
 
 <!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "Camudar contraseña maestra">
-<!ENTITY setPassword.tokenName.label "Preséu de seguridá">
+<!ENTITY setPassword.tokenName.label "Preséu de seguranza">
 <!ENTITY setPassword.oldPassword.label "Contraseña actual:">
 <!ENTITY setPassword.newPassword.label "Nueva contraseña:">
 <!ENTITY setPassword.reenterPassword.label "Nueva contraseña (confirmar):">
@@ -15,12 +15,6 @@
 <!ENTITY resetPassword.title  "Restablecer la contraseña maestra">
 <!ENTITY resetPassword.text  "Si restableces la contraseña maestra, escaeceránse toles contraseñes web y de corréu electrónicu guardaes, los datos de los formularios, certificaos personales y claves privaes. ¿Daveres que quies restablecer la contraseña maestra?">
 
-<!-- Values for getpassword.xul -->
-
-<!-- These should be common -->
-
-<!-- Prefs panel strings -->
-
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Descargando certificáu">
 <!ENTITY downloadCert.message1 "Pidiste l'enfotu nuna nueva Autoridá Certificadora (CA).">
@@ -30,8 +24,6 @@
 <!ENTITY downloadCert.message3 "Enantes d'enfotase nesta CA pa cualesquier propósitu, tienes de desaminar el certificáu, política y procedimientos de la CA (si tán disponibles).">
 <!ENTITY downloadCert.viewCert.label "Ver">
 <!ENTITY downloadCert.viewCert.text "Desaminar certificáu de CA">
-
-<!-- Certificate Exists in database -->
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Petición d'identificación d'usuariu">
@@ -50,21 +42,15 @@
 <!ENTITY pkcs12.setpassword.label2 "Contraseña de respaldu del certificáu (confirmar):">
 <!ENTITY pkcs12.setpassword.reminder "Importante: si escaeces la contraseña de respaldu del certificáu, nun podrás restaurar esta copia de respaldu más sero. Por favor, guárdala nun llugar seguru.">
 
-
 <!ENTITY chooseToken.title  "Diálogu de seleición d'oxetu">
 <!ENTITY chooseToken.message1 "Por favor, escueyi un oxetu.">
-
-
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Xenerando una clave privada">
 <!ENTITY createCertInfo.msg1 "Xeneración de la clave en progresu… Esto pue llevar unos minutos…">
 <!ENTITY createCertInfo.msg2 "Por favor, aguarda…">
 
-<!-- Form Signing confirmation prompt -->
-
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Identificación protexida por token">
 <!ENTITY protectedAuth.msg "Por favor, identifícate col token. El métodu d'identificación depende del tipu del token.">
 <!ENTITY protectedAuth.tokenName.label "Identificador:">
-
