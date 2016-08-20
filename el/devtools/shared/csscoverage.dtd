@@ -26,6 +26,7 @@
   -  csscoverage.preload3): These 3 are part of a paragraph with 1 and 2
   -  separated by a styled <link> tag and 2 and 3 separated by a styled
   -  <style> tag -->
+<!ENTITY csscoverage.optimize.body3 "το στοιχείο με τα στυλ χρειάζεται να βρίσκεται στην κορυφή πριν το συμβάν της φόρτωσης. Εδώ είναι τα αναγκαία τμήματα του στυλ:">
 
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
