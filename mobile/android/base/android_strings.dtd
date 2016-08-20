@@ -27,13 +27,15 @@
 <!ENTITY firstrun_tabqueue_subtext_off "&brandShortName; লিংকগুলিকে পরের জন্য সংরক্ষণ করুন যখন তাদের অন্যান্য অ্যাপ্লিকেশনে ট্যাপ করছেন।">
 
 <!ENTITY firstrun_tabqueue_message_on "সফল!">
-<!ENTITY firstrun_tabqueue_subtext_on "আপনি সবসময় এগুলিকে &settings; under &pref_category_general; এ বন্ধ করতে পারেন। ">
+<!ENTITY firstrun_tabqueue_subtext_on "আপনি সবসময় এগুলিকে &settings; under &pref_category_general; এ বন্ধ করতে পারেন।">
 
 <!ENTITY firstrun_readerview_title "প্রবন্ধগুলি">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "এলোমেলো অবস্থা দূর করুন">
-
+<!ENTITY firstrun_readerview_subtext "প্রবন্ধগুলি আরও সুন্দর ভাবে \u2014 অফলাইনে পরতে রিডার ভিউ ব্যাবহার করুন।">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+<!ENTITY firstrun_account_title "আপনি">
 
 
 <!ENTITY  onboard_start_restricted1 "নিরাপদ থাকুন ও &brandShortName; -এর সরলীকৃত সংস্করণ সঙ্গে নিয়ন্ত্রণ করুন।">
