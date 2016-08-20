@@ -5,28 +5,33 @@
 <!ENTITY firstrun_panel_title_welcome "সুস্বাগতম">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; এ স্বাগতম!">
-
-
-
-
-
-
-
+<!ENTITY firstrun_urlbar_subtext "সহায়ক অনুসন্ধান পরামর্শ শর্টকাটের সঙ্গে দ্রুত জিনিষ খুঁজে পান">
+<!ENTITY firstrun_bookmarks_title "পূর্ববর্তী তথ্য">
+<!ENTITY firstrun_bookmarks_message "আপনার পছন্দের জিনিসগুলি, সামনে এবং কেন্দ্রে">
+<!ENTITY firstrun_bookmarks_subtext "আপনার বুকমার্ক এবং ইতিহাস থেকে ফলাফল পান যখন আপনি অনুসন্ধান করছেন">
+<!ENTITY firstrun_data_title "তথ্য">
+<!ENTITY firstrun_data_message "কম তথ্য, আরও সঞ্চয়">
+<!ENTITY firstrun_data_subtext2 "যে সাইটে যাবেন সেখানে কম তথ্য ব্যয় করতে ছবিগুলিকে বন্ধ করুন">
 <!ENTITY firstrun_sync_title "সিঙ্ক">
-
-
-
-
+<!ENTITY firstrun_sync_message "&brandShortName;, সর্বদা আপনার পাশে">
+<!ENTITY firstrun_sync_subtext "আপনার ট্যাবস,পাসওয়ার্ডস,ও আর যা কিছু ব্যাবহার করেন তা সুসঙ্গত করুন।">
+<!ENTITY firstrun_signin_message "সংযোগ করুন, শুরু করুন">
+<!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
-
+<!ENTITY firstrun_button_notnow "এখনি নয়">
 <!ENTITY firstrun_button_next "পরবর্তী">
 
+<!ENTITY firstrun_tabqueue_title "লিংকসমূহ">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "ট্যাব সারিগুলি চালু করুন">
+<!ENTITY firstrun_tabqueue_subtext_off "&brandShortName; লিংকগুলিকে পরের জন্য সংরক্ষণ করুন যখন তাদের অন্যান্য অ্যাপ্লিকেশনে ট্যাপ করছেন।">
 
+<!ENTITY firstrun_tabqueue_message_on "সফল!">
+<!ENTITY firstrun_tabqueue_subtext_on "আপনি সবসময় এগুলিকে &settings; under &pref_category_general; এ বন্ধ করতে পারেন। ">
 
-
-
+<!ENTITY firstrun_readerview_title "প্রবন্ধগুলি">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "এলোমেলো অবস্থা দূর করুন">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
