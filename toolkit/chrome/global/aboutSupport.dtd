@@ -39,7 +39,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 "Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Канал за обновяване">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "История на обновяванията">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Показване на историята на обновяванията">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Отваряне">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Директория на профила">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
