@@ -54,8 +54,8 @@
 <!ENTITY debuggerUI.searchVariable.accesskey "z">
 <!ENTITY debuggerUI.searchVariable.key "V">
 
-<!ENTITY debuggerUI.focusVariables "Ustaw fokus na drzewo zmiennych">
-<!ENTITY debuggerUI.focusVariables.accesskey "f">
+<!ENTITY debuggerUI.focusVariables "Ustaw zaznaczenie na drzewo zmiennych">
+<!ENTITY debuggerUI.focusVariables.accesskey "w">
 <!ENTITY debuggerUI.focusVariables.key "V">
 
 <!ENTITY debuggerUI.condBreakPanelTitle "Ten punkt wstrzymania zatrzyma wykonywanie tylko, jeśli następujące wyrażenie będzie miało wartość true">
