@@ -10,8 +10,8 @@
 <!ENTITY blocklist.softandhard       "ส่วนเสริมเหล่านี้ถูกปิดกั้นเพราะมีความเสี่ยงสูงที่จะก่อให้เกิดปัญหาด้านเสถียรภาพและความปลอดภัย ส่วนเสริมอื่น ๆ นั้นมีความเสี่ยงต่ำกว่า แต่เราแนะนำให้คุณปิดใช้งานส่วนเสริมเหล่านั้นและเริ่มเบราเซอร์ใหม่">
 <!ENTITY blocklist.moreinfo          "ข้อมูลเพิ่มเติม">
 
-<!ENTITY blocklist.accept.label      "เริ่ม &brandShortName; ใหม่">
-<!ENTITY blocklist.accept.accesskey  "ร">
+<!ENTITY blocklist.accept.label      "เริ่มการทำงาน &brandShortName; ใหม่">
+<!ENTITY blocklist.accept.accesskey  "เ">
 
 <!ENTITY blocklist.blocked.label     "ถูกปิดกั้น">
 <!ENTITY blocklist.checkbox.label    "ปิดใช้งาน">
