@@ -11,7 +11,7 @@
 
 
 <!ENTITY updatePass.label             "ปรับปรุง">
-<!ENTITY resetPass.label              "ตั้งใหม่">
+<!ENTITY resetPass.label              "กลับค่าเดิม">
 <!-- Manage Account -->
 
 <!ENTITY manageAccount.label          "จัดการบัญชี">

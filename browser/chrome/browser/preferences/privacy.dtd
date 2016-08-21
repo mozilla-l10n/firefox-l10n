@@ -62,7 +62,7 @@
 <!ENTITY  cookieExceptions.accesskey    "ข">
 
 <!ENTITY  showCookies.label             "แสดงคุกกี้…">
-<!ENTITY  showCookies.accesskey         "ส">
+<!ENTITY  showCookies.accesskey         "แ">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; จะ:">
 <!ENTITY  historyHeader.pre.accesskey      "จ">
