@@ -444,6 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
 <!ENTITY search.label                 "Αναζήτηση ">
+<!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -740,17 +741,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Συγχρονισμένες καρτέλλες">
 
 <!ENTITY syncedTabs.sidebar.label              "Συγχρονισμένες καρτέλλες">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Συνδεθείτε στο Firefox από τις άλλες συσκευές σας για να δείτε τις καρτέλες τους εδώ.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Μη συγχρονισμένες καρτέλες… ακόμη!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Θέλετε να δείτε τις καρτέλες σας από άλλες συσκευές εδώ;">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Συνδεθείτε για να δείτε μια λίστα καρτελών από τις άλλες συσκευές σας.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Δεν υπάρχουν ανοικτές καρτέλες">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Ανοίξτε τις προτιμήσεις του &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ενεργοποιήστε τον συγχρονισμό καρτελών για να δείτε μια λίστα από καρτέλες από τις άλλες σας συσκευές.">
 
+<!ENTITY syncedTabs.context.open.label                       "Άνοιγμα">
 <!ENTITY syncedTabs.context.open.accesskey                   "Ο">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Άνοιγμα σε νέα καρτέλα">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "κ">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Άνοιγμα σε νέο παράθυρο">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "ν">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Άνοιγμα σε νέο παράθυρο ιδιωτικής περιήγησης">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "Π">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Η καρτέλα ως σελιδοδείκτης…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "Β">
+<!ENTITY syncedTabs.context.copy.label                       "Αντιγραφή">
 <!ENTITY syncedTabs.context.copy.accesskey                   "α">
 
 
+<!ENTITY syncBrand.shortName.label    "Συγχρονισμός">
 
 <!ENTITY syncSignIn.label             "Είσοδος στο &syncBrand.shortName.label; …">
 <!ENTITY syncSignIn.accesskey         "Υ">
@@ -758,7 +773,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.accesskey    "Σ">
 <!ENTITY syncReAuthItem.label         "Επανασύνδεση στο &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "Ρ">
+<!ENTITY syncToolbarButton.label      "Συγχρονισμός">
 
+<!ENTITY socialToolbar.title        "Κουμπί εργαλειοθήκης κοινωνικής δικτύωσης">
 
 <!ENTITY social.ok.label       "ΟΚ">
 <!ENTITY social.ok.accesskey   "Ο">
@@ -768,11 +785,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.addons.label "Διαχείριση υπηρεσιών…">
 
+<!ENTITY social.toggleNotifications.label "Προβολή ειδοποιήσεων">
 <!ENTITY social.toggleNotifications.accesskey "ν">
 
 <!ENTITY social.learnMore.label "Μάθετε περισσότερα…">
 <!ENTITY social.learnMore.accesskey "λ">
 
+<!ENTITY social.directory.label "Κατάλογος Ενεργοποιήσεων">
+<!ENTITY social.directory.text "Μπορείτε να ενεργοποιήσετε τις υπηρεσίες Κοινοποίησης από τον κατάλογο.">
 <!ENTITY social.directory.button "Φύγαμε!">
 <!ENTITY social.directory.introText "Κάντε κλικ σε μια υπηρεσία για να την προσθέσετε στον &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Εμφάνιση περισσότερων">
@@ -792,6 +812,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "γ">
 
 <!ENTITY social.chatBar.commandkey "c">
+<!ENTITY social.chatBar.label "Εστίαση στις συζητήσεις">
 <!ENTITY social.chatBar.accesskey "ψ">
 
 <!ENTITY social.markpageMenu.accesskey "Π">
@@ -823,6 +844,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Ενεργοποίηση προστασίας">
 <!ENTITY trackingProtection.block2.accesskey "Ε">
 
+<!ENTITY trackingContentBlocked.message "Παρακολούθηση">
 <!ENTITY trackingContentBlocked.moreinfo "Έχουν εμποδιστεί τμήματα αυτής της σελίδας που μπορούν να καταγράψουν τη διαδικτυακή συμπεριφορά σας.">
 <!ENTITY trackingContentBlocked.learnMore "Μάθετε περισσότερα">
 <!ENTITY trackingContentBlocked.options "Επιλογές">
@@ -847,6 +869,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
+<!ENTITY pluginNotification.width "32em">
 
 <!ENTITY uiTour.infoPanel.close "Κλείσιμο">
 
@@ -871,6 +894,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.openNewWindow           "ανοίξει ένα νέο παράθυρο">
 
 <!ENTITY panicButton.view.undoWarning             "Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.">
+<!ENTITY panicButton.view.forgetButton            "Ξέχασέ το!">
 
 <!ENTITY panicButton.thankyou.msg1                "Έγινε εκκαθάριση του πρόσφατου ιστορικού σας.">
 <!ENTITY panicButton.thankyou.msg2                "Καλή και ασφαλή περιήγηση!">
