@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "Cookies қабылдау">
 <!ENTITY  acceptCookies.accesskey       "д">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Ү&amp;шінші жақты cookies қабылдау:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "б">
 <!ENTITY  acceptThirdParty.always.label   "Әрқашан">
 <!ENTITY  acceptThirdParty.never.label    "Ешқашан">
 <!ENTITY  acceptThirdParty.visited.label  "Мен болған жерден ғана">
@@ -104,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Баптау…">
 <!ENTITY  clearOnCloseSettings.accesskey "п">
 
-
-
-
+<!ENTITY  browserContainersHeader.label         "Контейнер беттері">
+<!ENTITY  browserContainersLearnMore.label      "Көбірек білу">
+<!ENTITY  browserContainersEnabled.label        "Контейнер беттерін іске қосу">
+<!ENTITY  browserContainersEnabled.accesskey    "е">
