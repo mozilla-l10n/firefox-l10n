@@ -151,7 +151,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 <!ENTITY pointerlockWarning.afterDomain.label "курсорыңызды басқаруда. Басқаруды қайта алу үшін Esc басыңыз.">
-
+<!ENTITY pointerlockWarning.generic.label "Бұл құжат курсорыңызды басқаруда. Басқаруды қайта алу үшін Esc басыңыз.">
 
 <!ENTITY closeWindow.label "Терезені жабу">
 <!ENTITY closeWindow.accesskey "б">
@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "б">
 <!ENTITY openFrameCmd.label           "Фреймді жаңа терезеде ашу">
 <!ENTITY openFrameCmd.accesskey       "Ф">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Сілтемені жаңа контейнер бетінде ашу">
+<!ENTITY openLinkCmdInContainerTab.accesskey "ш">
 <!ENTITY showOnlyThisFrameCmd.label     "Тек осы фреймді көрсету">
 <!ENTITY showOnlyThisFrameCmd.accesskey "о">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "С">
 
 <!ENTITY editBookmark.done.label                     "Дайын">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "ш">
 
 <!ENTITY identity.connectionSecure "Қауіпсіз байланыс">
 <!ENTITY identity.connectionNotSecure "Байланыс қауіпсіз емес">
