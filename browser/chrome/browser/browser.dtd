@@ -280,8 +280,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ไฟล์"> 
 <!ENTITY fileMenu.accesskey       "ฟ">
-<!ENTITY newUserContext.label             "แท็บคอนเทนเนอร์ใหม่">
-<!ENTITY newUserContext.accesskey         "ค">
+<!ENTITY newUserContext.label             "แท็บแยกตัวตนใหม่">
+<!ENTITY newUserContext.accesskey         "แ">
 <!ENTITY newNavigatorCmd.label        "หน้าต่างใหม่">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ม">
@@ -473,7 +473,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ท">
 <!ENTITY openFrameCmd.label           "เปิดกรอบในหน้าต่างใหม่">
 <!ENTITY openFrameCmd.accesskey       "น">
-<!ENTITY openLinkCmdInContainerTab.label "เปิดลิงก์ในแท็บคอนเทนเนอร์ใหม่">
+<!ENTITY openLinkCmdInContainerTab.label "เปิดลิงก์ในแท็บแยกตัวตนใหม่">
 <!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "แสดงเฉพาะกรอบนี้">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ส">
