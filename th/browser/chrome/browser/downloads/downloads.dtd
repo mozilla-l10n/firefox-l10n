@@ -42,8 +42,8 @@
 
 <!ENTITY cmd.pause.label                  "หยุดชั่วคราว">
 <!ENTITY cmd.pause.accesskey              "ห">
-<!ENTITY cmd.resume.label                 "โหลดต่อ">
-<!ENTITY cmd.resume.accesskey             "ต">
+<!ENTITY cmd.resume.label                 "ทำต่อ">
+<!ENTITY cmd.resume.accesskey             "ท">
 <!ENTITY cmd.cancel.label                 "ยกเลิก">
 <!ENTITY cmd.cancel.accesskey             "ย">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,

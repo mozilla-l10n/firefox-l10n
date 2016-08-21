@@ -16,9 +16,9 @@
 <!ENTITY availableAddons "ส่วนเสริมระยะไกลที่มี:">
 <!ENTITY availableTabs "แท็บระยะไกลที่มี:">
 <!ENTITY availableProcesses "โพรเซสทางไกลที่มี:">
-<!ENTITY connectionError "ผิดพลาด:">
-<!ENTITY errorTimeout "ผิดพลาด: การเชื่อมต่อหมดเวลารอ">
-<!ENTITY errorRefused "ผิดพลาด: การเชื่อมต่อถูกปฏิเสธ">
+<!ENTITY connectionError "ข้อผิดพลาด:">
+<!ENTITY errorTimeout "ข้อผิดพลาด: การเชื่อมต่อหมดเวลา">
+<!ENTITY errorRefused "ข้อผิดพลาด: การเชื่อมต่อถูกปฏิเสธ">
 <!ENTITY errorUnexpected "ข้อผิดพลาดที่ไม่ได้คาดไว้">
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
