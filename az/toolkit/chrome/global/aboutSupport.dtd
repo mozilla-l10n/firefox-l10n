@@ -86,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Təchizat məlumatlar">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "Yerlər Məlumat Bazası">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Bütünlük">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Bütünlüyü təsdiqlə">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Əlavə GC">
@@ -114,6 +115,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Xəta Qeydi">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Qərar qeydi">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Çökmə qoruyucusu tərəfindən söndürülən özəlliklər">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Həllər">

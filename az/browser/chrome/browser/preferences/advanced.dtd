@@ -35,7 +35,7 @@
 <!ENTITY enableHealthReport.accesskey    "h">
 <!ENTITY healthReportLearnMore.label     "Ətraflı">
 
-<!ENTITY telemetryDesc.label             "&brandShortName; səyyahınızı yaxşılaşdırmağımıza kömək etmək üçün səyyahınızla haqqında olan səmərəlilik, istifadə, təchizat və şəxsiləşdirmə məlumatlarını &vendorShortName; ilə paylaşır">
+<!ENTITY telemetryDesc.label             "&brandShortName; səyyahınızı yaxşılaşdırmağımıza kömək etmək üçün səyyahınız haqqında olan performans, istifadə, avadanlıq və fərdiləşdirmə məlumatlarını &vendorShortName; ilə paylaşır">
 <!ENTITY enableTelemetryData.label       "Ətraflı məlumat paylaş (məs. Telemetriya)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Ətraflı">
