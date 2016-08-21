@@ -5,7 +5,7 @@
 
 <!ENTITY setupButton.label          "&syncBrand.fullName.label; Quraşdır">
 <!ENTITY setupButton.accesskey      "Q">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; bütün cihazlarınızda keçmişinizdən, əlfəcinlərinizdən, şifrələrinizdən və açıq səhifələrinizdən istifadə etmə imkanı verir.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; bütün cihazlarınızda keçmişinizdən, əlfəcinlərinizdən, parollarınızdan və açıq səhifələrinizdən istifadə etmə imkanı verir.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
@@ -16,7 +16,7 @@
 
 <!ENTITY manageAccount.label          "Hesabı idarə et">
 <!ENTITY manageAccount.accesskey      "ə">
-<!ENTITY changePassword2.label        "Şifrəni dəyiş…">
+<!ENTITY changePassword2.label        "Parolu Dəyiş…">
 <!ENTITY myRecoveryKey.label          "Bərpa açarım">
 <!ENTITY resetSync2.label             "Sinxronlaşdırmanı sıfırla…">
 
@@ -29,8 +29,8 @@
 <!ENTITY engine.tabs.accesskey      "V">
 <!ENTITY engine.history.label       "Keçmiș">
 <!ENTITY engine.history.accesskey   "i">
-<!ENTITY engine.passwords.label     "Şifrələr">
-<!ENTITY engine.passwords.accesskey "f">
+<!ENTITY engine.passwords.label     "Parollar">
+<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Nizamlamalar">
 <!ENTITY engine.prefs.accesskey     "l">
 <!ENTITY engine.addons.label        "Əlavələr">
@@ -77,7 +77,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.label                "E-poçtu Təstiqlə">
 <!ENTITY forget.label                "Bu e-poçtu unut">
 
-<!ENTITY welcome.description "Harda &brandShortName; işlətsəniz vərəqləriniz, əlfəcinləriniz, şifrələriniz və s. sizinlə olsun.">
+<!ENTITY welcome.description "Harda &brandShortName; işlətsəniz vərəqləriniz, əlfəcinləriniz, parollarınız və s. sizinlə olsun.">
 <!ENTITY welcome.signIn.label "Daxil ol">
 <!ENTITY welcome.createAccount.label "Hesab Aç">
 
