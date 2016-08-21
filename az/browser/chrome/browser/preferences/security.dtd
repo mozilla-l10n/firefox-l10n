@@ -31,9 +31,9 @@
 <!ENTITY  passwordExceptions.label      "İstisnalar…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 
-<!ENTITY  useMasterPassword.label        "Master-Şifrə istifadə et">
+<!ENTITY  useMasterPassword.label        "Ana parol istifadə et">
 <!ENTITY  useMasterPassword.accesskey    "i">
-<!ENTITY  changeMasterPassword.label     "Ana şifrəni dəyiş…">
+<!ENTITY  changeMasterPassword.label     "Ana parolu dəyişdir…">
 <!ENTITY  changeMasterPassword.accesskey "d">
 
 <!ENTITY  savedLogins.label              "Saxlanmış Daxil olmalar…">
