@@ -35,8 +35,3 @@
 <!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
   -  properties to display e.g. due to search criteria this message is
   -  displayed. -->
-<!ENTITY noPropertiesFound     "Ingen CSS-egenskab fundet.">
-
-<!-- FIXME: notes -->
-<!ENTITY computedViewTitle     "Beregnet">
-<!ENTITY ruleViewTitle         "Regler">
