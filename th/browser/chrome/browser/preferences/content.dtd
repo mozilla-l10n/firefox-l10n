@@ -41,7 +41,7 @@
 <!ENTITY translateWebPages.label      "แปลเนื้อหาเว็บ">
 <!ENTITY translateWebPages.accesskey  "แ">
 <!ENTITY translateExceptions.label    "ข้อยกเว้น…">
-<!ENTITY translateExceptions.accesskey "ข">
+<!ENTITY translateExceptions.accesskey "อ">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
