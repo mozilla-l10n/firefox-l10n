@@ -280,7 +280,7 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "Tilpassa faner">
-
+<!ENTITY pref_custom_tabs_summary "Tillat tredjepartsprogram å opna URL-adresser med ein tilpassa utsjånad.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Aktivitetsstarum">
