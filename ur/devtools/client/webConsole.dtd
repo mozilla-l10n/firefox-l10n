@@ -43,7 +43,7 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
-<!ENTITY btnPageLogging.label   "لاگینگ">
+<!ENTITY btnPageLogging.label   "لاگنگ">
 <!ENTITY btnPageLogging.tooltip "لاگ پیغام دریچہ کنسول آبجیکٹ کو ارسال کیا گیا">
 <!ENTITY btnPageLogging.accesskey3 "L">
 <!ENTITY btnConsoleErrors       "نقائص">
@@ -57,7 +57,7 @@
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
 <!ENTITY btnServerLogging.label       "پیش کار">
-<!ENTITY btnServerLogging.tooltip     "لاگ پیغام ویب سرور سے وصول پایا">
+<!ENTITY btnServerLogging.tooltip     "لاگ ہپیغام ویب پیش کار سے وصول پایا">
 <!ENTITY btnServerLogging.accesskey   "پ">
 <!ENTITY btnServerErrors              "نقص">
 <!ENTITY btnServerInfo                "معلومات">
@@ -66,7 +66,7 @@
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
-<!ENTITY btnConsoleSharedWorkers "Shared Workers">
+<!ENTITY btnConsoleSharedWorkers "مشترکہ کارکنان">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
 <!ENTITY btnConsoleServiceWorkers "خدمت کے کارکنان">

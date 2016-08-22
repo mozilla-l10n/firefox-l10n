@@ -61,8 +61,8 @@
 <!ENTITY certmgr.export.accesskey             "د">
 <!ENTITY certmgr.delete2.label                "حذف کریں...">
 <!ENTITY certmgr.delete2.accesskey            "ح">
-
-
+<!ENTITY certmgr.delete_builtin.label         "حذف کریں یا بد اعتمادی ...">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
 
 
 <!ENTITY certmgr.backupall2.label             "تمام پشتارہ کریں...">
