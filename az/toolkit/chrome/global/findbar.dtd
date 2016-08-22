@@ -14,6 +14,6 @@
 <!ENTITY caseSensitive.label "Reqistri nəzərə al">
 <!ENTITY caseSensitive.accesskey "n">
 <!ENTITY caseSensitive.tooltiptext "Böyük/kiçik hərf həssaslığı ilə axtar">
-
-
-
+<!ENTITY entireWord.label "Tam Sözlər">
+<!ENTITY entireWord.accesskey "T">
+<!ENTITY entireWord.tooltiptext "Sadəcə tam sözləri axtar">
