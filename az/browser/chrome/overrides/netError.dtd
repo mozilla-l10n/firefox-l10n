@@ -25,7 +25,7 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Faylın adını böyük hərf və ya digər yazı xətaları üçün yoxlayın.</li> <li>Faylın köçürülmüş, adı dəyişdirilmiş və ya silinmiş olmasını yoxlayın.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Faylın işlədilməsinə icazə verilmədi">
-
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Fayl ya silindiyi, ya yeri dəyişdirildiyi, ya da icazələri dəyişdirildiyi üçün əlaqə mümkün deyil.</li> </ul>">
 
 <!ENTITY generic.title "Uups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; bəzi səbəblərə görə bu səhifəni yükləyə bilmir.</p>">
@@ -76,6 +76,7 @@
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/> sahibi web saytı düzgün quraşdırmayıb. Məlumatlarınızın oğurlanmasının qarşısın almaq üçün &brandShortName; bu web sayta qoşulmadı.">
 
 <!ENTITY sharedLongDesc "<ul> <li>Sayt müvəqqəti olaraq qapalı ya da çox məşğul ola bilər. Bir az gözləyib təzədən yoxlayın.</li> <li>Heç bir səhifə açılmırsa, kompüterinizin internet bağlantısını yoxlayın.</li> <li>Əgər kompüteriniz ya da şəbəkəniz Firewall və ya proxy ilə qorunursa, &brandShortName; proqramının internetə bağlanma icazəsinin olduğuna əmin olun.</li> </ul>">
 
