@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Tervetuloa">
-<!ENTITY  onboard_start_message3 "Selaa &brandShortName;in kanssa">
-<!ENTITY  onboard_start_subtext3 "Selaa verkkoa omalla tavallasi, missä vain.">
 
 <!ENTITY firstrun_urlbar_message "Tervetuloa &brandShortName;iin">
 <!ENTITY firstrun_urlbar_subtext "Löydä asioita nopeammin hakuehdotusten pikakuvakkeiden avulla.">
@@ -20,14 +18,28 @@
 <!ENTITY firstrun_signin_message "Yhdistä ja aloita">
 <!ENTITY firstrun_signin_button "Kirjaudu sisään Synciin">
 <!ENTITY  onboard_start_button_browser "Aloita selaaminen">
+<!ENTITY firstrun_button_notnow "Ei nyt">
 <!ENTITY firstrun_button_next "Seuraava">
 
-<!ENTITY  onboard_start_restricted1 "Surffaa turvallisin mielin ja tukevasti kontrollissa tämän yksinkertaisemman &brandShortName;in kanssa.">
+<!ENTITY firstrun_tabqueue_title "Linkit">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Ota välilehtijono käyttöön">
+<!ENTITY firstrun_tabqueue_subtext_off "Tallenna linkit &brandShortName;iin myöhempää käyttöä varten muissa sovelluksissa.">
 
-<!ENTITY  reading_list_migration_title "Lukulista yhdistetty">
-<!ENTITY  reading_list_migration_subtext "Lukulistan kohteet lisätään nyt kirjanmerkkeihin">
-<!ENTITY  reading_list_migration_goto_bookmarks "Siirry kirjanmerkkeihin">
-<!ENTITY  reading_list_migration_bookmarks_hidden "Kirjanmerkit-paneeli on piilotettu">
+<!ENTITY firstrun_tabqueue_message_on "Valmista!">
+<!ENTITY firstrun_tabqueue_subtext_on "Voit aina ottaa tämän pois käytöstä kohdasta &settings; -> &pref_category_general;.">
+
+<!ENTITY firstrun_readerview_title "Artikkelit">
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Hankkiudu eroon sotkusta">
+<!ENTITY firstrun_readerview_subtext "Käytä lukunäkymää saadaksesi artikkelit näyttämään lukukelpoisimmilta \u2014 jopa yhteydettömässä tilassa.">
+
+
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Sinä">
+<!ENTITY firstrun_account_message "Onko sinulla &brandShortName; toisella laitteella?">
+
+<!ENTITY  onboard_start_restricted1 "Surffaa turvallisin mielin ja tukevasti kontrollissa tämän yksinkertaisemman &brandShortName;in kanssa.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -37,6 +49,9 @@
 <!ENTITY  recent_tabs_title "Viimeiset välilehdet">
 
 <!ENTITY  switch_to_tab "Siirry välilehteen">
+
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Näytetään yhteydettömän tilan versio">
 
 <!ENTITY  crash_reporter_title "&brandShortName;in kaatumisilmoitusohjelma">
 <!ENTITY  crash_message2 "&brandShortName; kohtasi odottamattoman ongelman ja kaatui. Avoinna olleiden välilehtien pitäisi olla listattuna aloitussivulla kun käynnistät &brandShortName;in uudestaan">
@@ -69,6 +84,11 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Kuvakaappaukset">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Lukulista">
+
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; kohdetta">
+<!ENTITY bookmark_folder_one_item "1 kohde">
 
 <!ENTITY reader_saved_offline "Tallennettiin verkotta luettavaksi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -249,6 +269,20 @@
 <!ENTITY pref_whats_new_notification "Mitä uutta &brandShortName;issa">
 <!ENTITY pref_whats_new_notification_summary "Lue lisää uusista ominaisuuksista päivittämisen jälkeen">
 
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!ENTITY pref_category_experimental "Kokeelliset ominaisuudet">
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "Omat välilehdet">
+<!ENTITY pref_custom_tabs_summary "Salli kolmansien osapuolten sovellusten avata osoitteita, joiden ulkoasu on mukautettu.">
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Toimintavirta">
+<!ENTITY pref_activity_stream_summary "Monipuolinen visuaalinen historiasyöte ja uudenlainen kotisivu tekevät entistä helpommaksi löytää juuri sen, mitä etsit &brandShortName;ista.">
+
 <!ENTITY tracking_protection_prompt_title "Seurannan suojauksen tuki nyt mukana">
 <!ENTITY tracking_protection_prompt_text "Estää seurantaelementit aktiivisesti, jotta sinun ei tarvitse huolehtia niistä.">
 <!ENTITY tracking_protection_prompt_tip_text "Avaa suojausasetukset lukeaksesi lisää">
@@ -287,7 +321,12 @@
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!ENTITY content_notification_title_plural "&formatD; sivustoa päivitetty">
-<!ENTITY content_notification_action_settings "Ilmoitusten asetukset">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Ilmoitusten asetukset">
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Lue nyt">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -356,6 +395,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Synkronoidut välilehdet">
 
 <!ENTITY pref_default_browser "Aseta oletusselaimeksi">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Käy Mozillan tukisivustossa">
 <!ENTITY pref_about_firefox "Tietoja &brandShortName;ista">
 <!ENTITY pref_vendor_faqs "UKK">
 <!ENTITY pref_vendor_feedback "Anna palautetta">
@@ -535,14 +575,18 @@ size. -->
 <!ENTITY home_history_title "Sivuhistoria">
 <!ENTITY home_synced_devices_smartfolder "Synkronoidut laitteet">
 <!ENTITY home_synced_devices_number "&formatD; laitetta">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 laite">
 <!ENTITY home_history_back_to2 "Takaisin koko historiaan">
 <!ENTITY home_clear_history_button "Tyhjennä selaushistoria">
 <!ENTITY home_clear_history_confirm "Tyhjennetäänkö selaushistoria?">
 <!ENTITY home_bookmarks_empty "Asetetut kirjanmerkit näkyvät tässä.">
-<!ENTITY home_closed_tabs_title "Viimeiseksi suljetut välilehdet">
-<!ENTITY home_last_tabs_title "Välilehdet viime kerralta">
+<!ENTITY home_closed_tabs_title2 "Viimeiseksi suljetut">
 <!ENTITY home_last_tabs_empty "Äskettäin avoimet välilehdet näkyvät tässä.">
-<!ENTITY home_open_all "Avaa kaikki">
+<!ENTITY home_restore_all "Palauta kaikki">
+<!ENTITY home_closed_tabs_number "&formatD; välilehteä">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 välilehti">
 <!ENTITY home_most_recent_empty "Viimeisimmät vieraillut sivustot näkyvät tässä.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -594,7 +638,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Suojattu yhteys">
 <!ENTITY identity_connection_insecure "Suojaamaton yhteys">
-<!ENTITY identity_login_insecure "Tämä sivu ei ole suojattu ja kirjautumistietosi voivat olla vaarassa.">
 <!ENTITY identity_connection_chromeui "Tämä on suojattu &brandShortName;-sivu">
 
 <!-- Mixed content notifications in site identity popup -->
@@ -777,3 +820,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_title "Lue yhteydettömässä tilassa">
 <!ENTITY helper_first_offline_bookmark_message "Löydä lukunäkymäsi kohteet kirjanmerkeistä, jopa yhteydettömässä tilassa.">
 <!ENTITY helper_first_offline_bookmark_button "Siirry kirjanmerkkeihin">
+
+<!ENTITY helper_triple_readerview_open_title "Saatavilla yhteydettömässä tilassa">
+<!ENTITY helper_triple_readerview_open_message "Lisää lukunäkymä kirjanmerkkeihin lukeaksesi kohteita yhteydettömässä tilassa.">
+<!ENTITY helper_triple_readerview_open_button "Lisää kirjanmerkkeihin">
