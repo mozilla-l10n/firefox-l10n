@@ -5,16 +5,16 @@
 <!ENTITY firstrun_panel_title_welcome "Bienllegáu">
 
 <!ENTITY firstrun_urlbar_message "Bienllegáu a &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Alcuentra coses aína per duana de los atayos y suxerencies de gueta.">
+<!ENTITY firstrun_urlbar_subtext "Alcuentra coses aína per duana de los atayos de suxerencies de gueta.">
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Los favoritos, al frente y nel centru">
-<!ENTITY firstrun_bookmarks_subtext "Consigui resultaos de los marcadores ya historial cuando faigas busques.">
+<!ENTITY firstrun_bookmarks_subtext "Consigui resultaos de los tos marcadores ya historial al guetar.">
 <!ENTITY firstrun_data_title "Datos">
 <!ENTITY firstrun_data_message "Menos datos, más aforru">
 <!ENTITY firstrun_data_subtext2 "Desactiva les imáxenes pa nun marafundiar datos en cada sitiu que visites.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, siempres al to llau">
-<!ENTITY firstrun_sync_subtext "Sincroniza llingüetes y contraseñes en tolos llaos que lu uses.">
+<!ENTITY firstrun_sync_subtext "Sincroniza les tos llingüetes, contraseñes y más en tolos llaos que lu uses.">
 <!ENTITY firstrun_signin_message "Conéutate, entama">
 <!ENTITY firstrun_signin_button "Aniciar sesión en Sync">
 <!ENTITY  onboard_start_button_browser "Entamar a restolar">
@@ -32,7 +32,7 @@
 <!ENTITY firstrun_readerview_title "Artículos">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Fina col desorde">
-<!ENTITY firstrun_readerview_subtext "Usa la Vista de Llectura pa facer más agradables de lleer los artículos \u2014 inclusu fuera de llinia.">
+<!ENTITY firstrun_readerview_subtext "Usa la Vista de Llectura pa facer más agradables de lleer los artículos \u2014 incluso ensin conexón.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Tu">
@@ -48,7 +48,7 @@
 <!ENTITY  switch_to_tab "Camudar de llingüeta">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
-<!ENTITY  tab_offline_version "Amosando versión fuera de llinia">
+<!ENTITY  tab_offline_version "Amosando versión ensin conexón">
 
 <!ENTITY  crash_reporter_title "Informador de casques de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; tuvo un problema y cascó. Les llingüetes deberíen llistase na páxina d\&apos;aniciu de &brandShortName; cuando reanicies.">
@@ -392,7 +392,7 @@ size. -->
 <!ENTITY pref_private_data_cookies2 "Cookies y anicios de sesión activos">
 <!ENTITY pref_private_data_passwords2 "Anicios de sesión guardaos">
 <!ENTITY pref_private_data_cache "Caché">
-<!ENTITY pref_private_data_offlineApps "Datos de sitiu web fuera de llinia">
+<!ENTITY pref_private_data_offlineApps "Datos de sitiu web ensin conexón">
 <!ENTITY pref_private_data_siteSettings2 "Axustes del sitiu">
 <!ENTITY pref_private_data_downloadFiles2 "Descargues">
 <!ENTITY pref_private_data_syncedTabs "Llingüetes sincronizaes">
@@ -660,7 +660,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_message_disabled2 "Esta páxina inclúi elementos que quiciabes rastrexen el to restolar.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
-<!ENTITY learn_more "Deprendi más">
+<!ENTITY learn_more "Depriendi más">
 <!ENTITY enable_protection "Habilitar proteición">
 <!ENTITY disable_protection "Deshabilitar proteición">
 
@@ -806,7 +806,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "L\&apos;ayuda y sofitu de Firefox tán restrinxíos a perfiles en tabletes d\&apos;Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "Deprendi la web: Mozilla Webmaker">
+<!ENTITY bookmarks_restricted_webmaker "Depriendi la web: Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
@@ -824,7 +824,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Amestar a la pantalla d\&apos;aniciu">
 
 <!ENTITY helper_first_offline_bookmark_title "Lleer fuera de llinia">
-<!ENTITY helper_first_offline_bookmark_message "Alcuentra los elementos del to visor de llectura en Marcadores, inclusu fuera de llinia.">
+<!ENTITY helper_first_offline_bookmark_message "Alcuentra los elementos del to visor de llectura en Marcadores, incluso ensin conexón.">
 <!ENTITY helper_first_offline_bookmark_button "Dir a Marcadores">
 
 <!ENTITY helper_triple_readerview_open_title "Disponible fuera de llinia">
