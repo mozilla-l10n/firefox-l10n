@@ -284,7 +284,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Aktivitetsstrøm">
-
+<!ENTITY pref_activity_stream_summary "En utvidet visuell historikk gjør det enklere enn noen sinne  finne akkurat det du leter etter i &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Nå med sporingsbeskyttelse">
 <!ENTITY tracking_protection_prompt_text "Blokkerer sporingselementer aktivt, slik at du ikke trenger bekymre deg.">
@@ -398,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Synkroniserte faner">
 
 <!ENTITY pref_default_browser "Velg som standard nettleser">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Besøk Mozilla Support">
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Gi tilbakemelding">
@@ -587,11 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "Slett nettleserhistorikk">
 <!ENTITY home_clear_history_confirm "Er du sikker på at du vil slette historikken?">
 <!ENTITY home_bookmarks_empty "Bokmerkene dine vises her.">
-
+<!ENTITY home_closed_tabs_title2 "Nylig lukket">
 <!ENTITY home_last_tabs_empty "Nylig brukte faner vises her.">
-
-
+<!ENTITY home_restore_all "Gjenopprett alle">
+<!ENTITY home_closed_tabs_number "&formatD; faner">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 fane">
 <!ENTITY home_most_recent_empty "Nettsted som du sist besøkte visese her.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
