@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab rota las pestañas según su uso reciente">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
+
 <!ENTITY newWindowsAsTabs.label       "Abrir páginas nuevas en nuevas pestañas">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
