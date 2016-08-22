@@ -12,15 +12,17 @@
 
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>ठेगानालाई लेखाइको गल्तीहरुको लागि जाच्नुहोस् जस्तै<strong>www</strong>.example.com को साटो<strong>ww</strong>.example.com</li><div id='searchbox'><input id='searchtext' type='search'></input><button id='searchbutton'>खोज</button></div><li>यदी तपाईं कुनै पृष्‍ठहरु लोड गर्न असफल हुनुभएमा तपाईंको उपकरणहरुको डाटा ईन्टरनेट अथवा Wi-Fi जडान जांच्नुहोस्।<button id='wifi'>Wi-Fi अन गर्ने</button></li> </ul>">
 
 
 
-
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>यो हटाइएको, सारीएको, अथवा फाइलको अनुमतीले गर्दा पहुंछ नहुन सक्छ।</li> </ul>">
 
 
 
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>वेब ठेगानाहरु सामान्यतया यसरी लेखिन्छ<strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>खोज</button> </div> <li>कृपया तपाईं अगाडिपट्तीको Slash प्रयोग गर्नुभएको छ भन्ने निस्चित गर्नुहोस् (जस्तै <strong>/</strong>)</li> </ul>↔ बुझाउने">
 
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
@@ -28,6 +30,7 @@
 
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul> <li>फेरी प्रयास गर्नुहोस्। &brandShortName; ले पेज जडान सुरु गर्न र पुन: लोड गर्न प्रयास गर्ने छ। <button id='wifi'>Wi-Fi अन गर्ने</button> </li> </ul>">
 
 
 
