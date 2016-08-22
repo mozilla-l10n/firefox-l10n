@@ -510,16 +510,16 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "पासवर्ड देखाउनुहोस्">
 <!ENTITY doorhanger_login_edit_toast_error "लग-इन बचत गर्न असफल भयो">
 
-
+<!ENTITY doorhanger_login_select_toast_copy "क्लिपबोर्डबाट गोप्यशब्द नक्कल गरियो। ">
 <!ENTITY doorhanger_login_select_toast_copy_error "पासवर्ड प्रतिलिपि गर्न सकिएन">
-
+<!ENTITY doorhanger_login_select_action_text "अर्को लगिन रोज्नुहोस्">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
+<!ENTITY pref_scroll_title_bar_summary2 "पेजको तल जानेबेला &brandShortName; टूलबार लुकाउनुहोस्। ">
 
 
 <!-- Localization note (page_removed): This string appears in a toast message when
@@ -561,19 +561,20 @@ size. -->
 <!ENTITY home_title "&brandShortName; गृह">
 <!ENTITY home_history_title "इतिहास">
 
-
+<!ENTITY home_synced_devices_number "&formatD; उपकरणहरु ">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-
+<!ENTITY home_synced_devices_one "१ उपकरण">
+<!ENTITY home_history_back_to2 "पहिलेको सबै ईतिहासमा जाने">
 <!ENTITY home_clear_history_button "ब्राउजिङ इतिहास खाली गर्नुहोस्">
 
 
 <!ENTITY home_closed_tabs_title2 "भर्खरै बन्द गरिएका ट्याबहरु">
 
-
+<!ENTITY home_restore_all "सबैलाई पुन:स्थापित गर्ने ">
 <!ENTITY home_closed_tabs_number "&formatD; ट्याबहरू">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ट्याब">
-
+<!ENTITY home_most_recent_empty "तपाईं भर्खरै जानुभएको वेबसाईटहरु यहाँ देखिन्छ। ">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!-- Localization note (home_default_empty): This string is used as the default text when there
@@ -586,12 +587,16 @@ size. -->
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "लुकेको उपकरणहरु">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "रोजिएको उपकरणहरुलाई नलुकाउनुहोस्। ">
 
+<!ENTITY remote_tabs_panel_moved_title "मेरो ट्याबहरु कहाँ गयो? ">
 
+<!ENTITY remote_tabs_panel_moved_link "मलाई मेरो नयाँ नामावलीमा लैजानुहोस्। ">
 
-
+<!ENTITY pin_site_dialog_hint "सर्च गर्ने शब्द लेख्नुहोस्। ">
 
 <!ENTITY filepicker_title "फाइल रोज्नुहोस्">
 
@@ -613,7 +618,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ले पेजमा भएको असुरक्षित कुरा रोकेको छ। ">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ले पेजमा भएको केही असुरक्षित कुरा रोकेको छ। ">
+<!ENTITY mixed_content_display_loaded1 "पेजको यो भागहरु स्रक्षित छैन (जस्तैकी फोटो)">
 
 <!-- Tracking content notifications in site identity popup -->
 
