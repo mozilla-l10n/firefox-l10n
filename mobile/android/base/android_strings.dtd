@@ -284,7 +284,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Aktivitetsstarum">
-
+<!ENTITY pref_activity_stream_summary "Ein utvida visuell historikk gjer det enklare enn nokon gong å finna akkurat det du leitar etter i &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "No med sporingsvern">
 <!ENTITY tracking_protection_prompt_text "Aktivt blokker sporingselement slik at du slepp å uroa deg.">
