@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "kursorunuzu idarə edir. İdarəni geri almaq üçün Esc düyməsinə basın.">
+<!ENTITY pointerlockWarning.generic.label "Bu sənəd kursorunuzu idarə edir. İdarəni geri almaq üçün Esc düyməsinə basın.">
 
 <!ENTITY closeWindow.label "Pəncərəni Qapat">
 <!ENTITY closeWindow.accesskey "r">
@@ -473,7 +473,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "V">
 <!ENTITY openFrameCmd.label           "Çərçivəni Yeni Pəncərədə Aç">
 <!ENTITY openFrameCmd.accesskey       "P">
-
+<!ENTITY openLinkCmdInContainerTab.label "Keçidi yeni konteyner vərəqində aç">
 
 <!ENTITY showOnlyThisFrameCmd.label     "Sadəcə bu çərçivəni göstər">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
