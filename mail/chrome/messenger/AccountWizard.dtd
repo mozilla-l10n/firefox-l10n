@@ -121,4 +121,4 @@
 <!ENTITY deferStorage.label "Utilizza 'Posta in arrivo' globale (posta nelle 'Cartelle Locali')">
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Fare clic su Fine per salvare queste impostazioni e uscire dalla creazione guidata dell'account.">
-<!ENTITY clickFinish.labelMac "Fare clic su Fine per salvare queste impostazioni e uscire dalla creazione guidata del nuovo account.">
+<!ENTITY clickFinish.labelMac "Fare clic su Fatto per salvare queste impostazioni e uscire dalla creazione guidata del nuovo account.">
