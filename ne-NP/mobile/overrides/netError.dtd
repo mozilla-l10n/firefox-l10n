@@ -40,7 +40,7 @@
 
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>तपाईंले यो ठेगाना खोल्नको लागि अरु सफ्टवेर राख्नुपर्ने हुन सक्छ। </li> </ul>">
 
 
 
