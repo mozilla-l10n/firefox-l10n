@@ -7,6 +7,7 @@
 
 <!ENTITY importFromWin.label		"オプション、アカウント設定、アドレス帳、フィルタ、その他のデータのインポートする対象を選んでください:">
 <!ENTITY importFromNonWin.label		"設定、アカウント設定、アドレス帳、フィルタ、その他のデータのインポートする対象を選んでください:">
+<!ENTITY importSourceNotFound.label	"データのインポート元のアプリケーションが見つかりませんでした。">
 
 <!ENTITY importFromNothing.label	"設定をインポートしない">
 <!ENTITY importFromNothing.accesskey	"D">
