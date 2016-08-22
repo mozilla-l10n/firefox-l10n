@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label   "Sait ">
-<!ENTITY pointerlockWarning.afterDomain.label    " omab kontrolli sinu kursori üle. Kontrolli tagasivõtmiseks vajuta klahvile Esc.">
-<!ENTITY pointerlockWarning.generic.label        "See dokument omab kontrolli sinu kursori üle. Kontrolli tagasivõtmiseks vajuta klahvile Esc.">
+<!ENTITY pointerlockWarning.afterDomain.label    " kontrollib sinu kursori tegevust. Kontrolli tagasivõtmiseks vajuta klahvile Esc.">
+<!ENTITY pointerlockWarning.generic.label        "See dokument kontrollib sinu kursori tegevust. Kontrolli tagasivõtmiseks vajuta klahvile Esc.">
 
 <!ENTITY closeWindow.label                       "Sulge aken">
 <!ENTITY closeWindow.accesskey                   "S">

@@ -121,5 +121,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title         "1. GPU">
 <!ENTITY aboutSupport.graphicsGPU2Title         "2. GPU">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle  "Otsuste logi">
-<!ENTITY aboutSupport.graphicsCrashGuardsTitle  "Vigade vältimise tõttu keelatud funktsionaalsused">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle  "Vigade vältimise tõttu keelatud funktsionaalsus">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle  "Hädalahendused">
