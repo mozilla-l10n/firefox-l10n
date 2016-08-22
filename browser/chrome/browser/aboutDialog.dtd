@@ -1,25 +1,25 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "Tentang &brandFullName;">
+<!ENTITY aboutDialog.title          "Darihal &brandFullName;">
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-<!ENTITY update.checkForUpdatesButton.label       "Menyemak kemaskinian">
-<!ENTITY update.checkForUpdatesButton.accesskey   "M">
-<!ENTITY update.updateButton.label2                "Ulang mula &brandShortName; untuk Kemaskini">
+<!ENTITY update.checkForUpdatesButton.label       "Semak pengemaskinian">
+<!ENTITY update.checkForUpdatesButton.accesskey   "S">
+<!ENTITY update.updateButton.label2                "Ulang semula &brandShortName; untuk Dikemas kini">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Memohon Kemaskini...">
-<!ENTITY update.applyButtonBillboard.accesskey    "M">
+<!ENTITY update.applyButtonBillboard.label        "Laksanakan Kemaskini...">
+<!ENTITY update.applyButtonBillboard.accesskey    "L">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
-<!ENTITY warningDesc.version        "&brandShortName; sedang dieksperimen dan ia masih tidak stabil.">
+<!ENTITY warningDesc.version        "&brandShortName; masih dalam percubaan dan mungkin tidak stabil.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ia secara automatik menghantar maklumat mengenai prestasi, perkakasan, pengunaan dan penyesuaian ke &vendorShortName; untuk membantu menjadikan &brandShortName; lebih baik.">
+<!ENTITY warningDesc.telemetryDesc  "Maklumat prestasi, perkakasan, pengunaan dan penyesuaian dihantar secara automatik ke &vendorShortName; untuk membantu menjadikan &brandShortName; lebih baik.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -43,7 +43,7 @@
 <!ENTITY helpus.donateLink          "Hulurkan derma">
 <!ENTITY helpus.middle              " atau ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "libatkan diri anda!">
+<!ENTITY helpus.getInvolvedLink     "Sertainya!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Yang terbaru">
@@ -58,7 +58,7 @@
 <!ENTITY bottomLinks.privacy        "Dasar Privasi">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Menyemak untuk dikemaskini…">
+<!ENTITY update.checkingForUpdates  "Sedang menyemak pengemaskinian…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; adalah yang terkini">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
