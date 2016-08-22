@@ -284,7 +284,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "गतिविधि धारा">
-
+<!ENTITY pref_activity_stream_summary "पुरानो ईतिहासको धेरै तथ्याङ्क र पुन:संरचित गृह पृष्‍ठले &brandShortName; मा के खोज्नुभएको भन्ने हुबहु भेटाउन धेरै सजिलो बनाएको छ। ">
 
 <!ENTITY tracking_protection_prompt_title "अब ट्रयाकिङ्ग सुरक्षाको साथ">
 
@@ -298,6 +298,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "तपाईँले पछि पनि सेटिङहरूमा गएर यो परिवर्तन गर्न सक्नुहुन्छ">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "अरु एप्लिकेसन भन्दा माथि चल्नको लाई सहमती जनाउन अन गर्नुहोस्। ">
 <!ENTITY tab_queue_prompt_positive_action_button "सक्षम पार्नुहोस्">
 <!ENTITY tab_queue_prompt_negative_action_button "अहिले होइन">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -370,9 +371,9 @@ size. -->
 
 
 <!ENTITY pref_voice_input "आवाज आगत">
-
-
-
+<!ENTITY pref_voice_input_summary2 "URLबारमा आवाज भेटाउन दिनुहोस्। ">
+<!ENTITY pref_qrcode_enabled "QR कोड रिडर ">
+<!ENTITY pref_qrcode_enabled_summary2 "QR कोड रिडरलाई URL बारमा हुनदिनुहोस्।  ">
 
 <!ENTITY pref_use_master_password "मुख्य पासवर्ड प्रयोग गर्नुहोस्">
 <!ENTITY pref_sync2 "साइन इन">
@@ -380,7 +381,7 @@ size. -->
 <!ENTITY pref_search_suggestions "खोजि सुझाबहरु देखाउनुहोस्">
 <!ENTITY pref_history_search_suggestions "खोजी इतिहास देखाउनुहोस्">
 <!ENTITY pref_import_options "आयात विकल्पहरू">
-
+<!ENTITY pref_import_android_summary "मुल ब्रावजरबाट त्यहाँ भएको बुकमार्क र ईतिहास भित्र्याउनुहोस्। ">
 <!ENTITY pref_private_data_history2 "ब्राउजिङ इतिहास">
 <!ENTITY pref_private_data_searchHistory "खोजी इतिहास">
 <!ENTITY pref_private_data_formdata2 "फारम इतिहास">
@@ -395,13 +396,14 @@ size. -->
 <!ENTITY pref_default_browser "पूर्वनिर्धारित ब्राउजर बनाउनुहोस्">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support खोल्नुहोस्">
 <!ENTITY pref_about_firefox "&brandShortName; बारे">
-
+<!ENTITY pref_vendor_faqs "FAQहरु">
 <!ENTITY pref_vendor_feedback "पुनर्निवेश दिनुहोस्">
 
 <!ENTITY pref_dialog_set_default "पूर्वनिर्धारितको रूपमा सेट गर्नुहोस्">
 <!ENTITY pref_dialog_default "पूर्वनिर्धारित">
 <!ENTITY pref_dialog_remove "हटाउनुहोस्">
 
+<!ENTITY pref_search_last_toast "अघिल्लो सर्च ईन्जिनलाई हटाउन तथा निस्कृय पार्न सक्नुहुन्न। ">
 
 <!ENTITY pref_panels_show "देखाउनुहोस्">
 <!ENTITY pref_panels_hide "लुकाउनुहोस्">
@@ -413,9 +415,10 @@ size. -->
 <!ENTITY datareporting_notification_action "बाँड्ने कुराहरू छान्नुहोस्">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "बाँड्ने जानकारीहरु छान्नुहोस्">
-
+<!ENTITY datareporting_notification_summary "तपाईंको अनुभब राम्रो बनाउनको लागि &brandShortName; ले स्वत: रुपमा केही आंकडा &vendorShortName; लाई पठाउछ। ">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -424,8 +427,8 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; स्वास्थ्य विवरण">
-
-
+<!ENTITY datareporting_fhr_summary2 "तपाईंको ब्रावजरको स्वास्थ्य अवस्था &vendorShortName; सँग बांड्छ, तपाईंलाई आफ्नो ब्रावजरको प्रदर्सनको बारेमा बुझाउनको लागि। ">
+<!ENTITY datareporting_abouthr_title "मेरो स्वास्थ्य अवस्था हेर्नुहोस्। ">
 <!ENTITY datareporting_telemetry_title "टेलीमेट्री">
 
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ले &vendorShortName; लाई तपाईको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि सहयोगार्थ पतन प्रतिवेदनहरु पेश गर्छ">
@@ -460,7 +463,7 @@ size. -->
 <!ENTITY page "पृष्ठ">
 
 <!ENTITY new_tab "नयाँ ट्याब">
-
+<!ENTITY new_private_tab "नयाँ निजी ट्याब">
 <!ENTITY close_all_tabs "सबै ट्याब बन्द गर्नुहोस्">
 
 <!ENTITY tabs_normal "ट्याबहरू">
