@@ -27,5 +27,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "haqqında ətraflı öyrənin">
 
 <!ENTITY trackingProtection.title                        "İzlənmə Qoruması">
-
+<!ENTITY trackingProtection.description2                 "Bəzi web saytlar, İnternetdə səyahət edərkən fəaliyyətinizi izləyə biləcək izləyicilərdən istifadə edirlər. Firefox-un İzlənmə Qoruması, fəalliyətiniz haqqında məlumat toplaya biləcək izləyicilərin çoxunu əngəlləyə bilər.">
 <!ENTITY trackingProtection.startTour1                   "Necə işlədiyini görün">
