@@ -251,7 +251,7 @@
 
 
 <!ENTITY tab_queue_toast_action "Buka sekarang">
-
+<!ENTITY tab_queue_prompt_title "Buka berbilang pautan?">
 
 
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
