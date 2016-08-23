@@ -586,3 +586,7 @@
 <!ENTITY helper_triple_readerview_open_title "Czytanie w trybie offline">
 <!ENTITY helper_triple_readerview_open_message "Dodanie zakładki umożliwia czytanie strony bez Internetu.">
 <!ENTITY helper_triple_readerview_open_button "Dodaj zakładkę">
+
+<!ENTITY activity_stream_topsites "Popularne">
+<!ENTITY activity_stream_highlights "Wyróżnione">
+<!ENTITY activity_stream_more "Więcej">
