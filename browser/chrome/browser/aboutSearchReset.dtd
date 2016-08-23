@@ -6,16 +6,24 @@
 
 <!ENTITY searchreset.pageTitle      "Pulihkan tetapan carian anda?">
 
+<!ENTITY searchreset.pageInfo1      "Tetapan carian anda sudah lapok. &brandShortName; boleh membantu mengembalikan tetapan piawai carian anda.">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
+
+
+<!ENTITY searchreset.selector.label "Tindakan ini akan menetapkan enjin piawai carian anda secara lalai">
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
 
+<!ENTITY searchreset.beforelink.pageInfo2 "Anda boleh menukar tetapan pada bila-bila masa dari ">
+
+
+<!ENTITY searchreset.link.pageInfo2       "Tetapan halaman">
 
 
 
-
+<!ENTITY searchreset.changeEngineButton        "Tukar Enjin Carian">
 
