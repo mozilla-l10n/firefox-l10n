@@ -100,6 +100,9 @@ Ping
   Colgadas del hilo
 ">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+ Escalares">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogramas
 ">
@@ -128,7 +131,6 @@ Ping
   Histogramas recolectados por complementos
 ">
 
-
 <!ENTITY aboutTelemetry.toggle "
   Clic para intercambiar sección
 ">
@@ -148,7 +150,6 @@ Ping
 <!ENTITY aboutTelemetry.hideSymbols "
   Show raw data from hangs
 ">
-
 
 <!ENTITY aboutTelemetry.filterText "
   Filtro (cadenas o /regexp/)
