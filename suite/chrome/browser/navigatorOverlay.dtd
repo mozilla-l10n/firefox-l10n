@@ -122,10 +122,16 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Las imágenes de este sitio no serán descargadas nunca.">
 
+<!ENTITY popupsMessageChangeTitle.label "Permisos de ventana emergente cambiados">
 <!ENTITY popupAllowCmd.label "Permitir ventanas emergentes de este sitio">
 <!ENTITY popupAllowCmd.accesskey "e">
+<!ENTITY popupAllowMsg.label "Siempre se mostrarán ventanas emergentes de este sitio.">
+<!ENTITY popupDefaultCmd.label "Usar permisos predeterminados de ventanas emergentes">
+<!ENTITY popupDefaultCmd.accesskey "U">
+<!ENTITY popupDefaultMsg.label "Las ventanas emergentes de este sitio web se mostrarán según la configuración predeterminada.">
 <!ENTITY popupBlockCmd.label "Bloquear ventanas emergentes de este sitio">
 <!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupBlockMsg.label "No se mostrarán ventanas emergentes de este sitio.">
 <!ENTITY popupsManage.label "Administrar ventanas emergentes">
 <!ENTITY popupsManage.accesskey "m">
 

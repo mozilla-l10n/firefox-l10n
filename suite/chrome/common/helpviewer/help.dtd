@@ -50,3 +50,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.label                   "Siempre visible">
 <!ENTITY zLevel.accesskey               "v">
 
+<!ENTITY fullZoomReduceBtn.label        "Alejar">
+<!ENTITY fullZoomReduceBtn.accesskey    "A">
+<!ENTITY fullZoomEnlargeBtn.label       "Acercar">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "r">

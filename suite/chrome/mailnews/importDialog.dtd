@@ -30,6 +30,7 @@
 <!ENTITY selectDescription.accesskey "S">
 <!ENTITY acctName.label           "Nombre:">
 <!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "No se encontró ninguna aplicación o archivo para importar datos.">
 
 <!ENTITY back.label               "&lt; Atrás">
 <!ENTITY forward.label            "Siguiente &gt;">
@@ -40,4 +41,3 @@
 
 <!ENTITY title.label              "Título">
 <!ENTITY processing.label         "Importando…">
-
