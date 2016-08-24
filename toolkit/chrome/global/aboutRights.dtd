@@ -67,13 +67,13 @@
 <!ENTITY rights.safebrowsing-term4 "Agora la navegación segura ta desactivada">
 
 <!-- location aware browsing points for branded builds -->
-<!ENTITY rights.locationawarebrowsing-a "Navegación basada na llocalización: ">
+<!ENTITY rights.locationawarebrowsing-a "Restolar según l'allugamientu: ">
 <!ENTITY rights.locationawarebrowsing-b "siempre son a eleición del usuariu. Enxamás s'unvia información tocante a la llocalización ensin el to permiso. Si quies desactivar la carauterística por completu, sigui estos pasos:">
 <!ENTITY rights.locationawarebrowsing-term1a "Na barra de direiciones, escribi ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Escribi geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Fai dible clic na preferencia geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term4 "Agora la navegación basada na llocalización ta desactivada">
+<!ENTITY rights.locationawarebrowsing-term4 "Agora'l restolar según l'allugamientu ta deshabilitáu">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Equí tien qu'incluyise un repasu de los servicios de sitiu web qu'incorpora'l productu, xunto con instrucciones sobre como deshabilitalos, de ser posible.">
