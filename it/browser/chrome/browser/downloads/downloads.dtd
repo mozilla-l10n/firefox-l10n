@@ -22,8 +22,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey "C">
 <!ENTITY cmd.removeFromHistory.label "Elimina dalla cronologia">
 <!ENTITY cmd.removeFromHistory.accesskey "m">
-<!ENTITY cmd.clearList.label "Cancella elenco">
-<!ENTITY cmd.clearList.accesskey "o">
+<!ENTITY cmd.clearList2.label "Svuota pannello anteprima">
+<!ENTITY cmd.clearList2.accesskey "o">
 <!ENTITY cmd.clearDownloads.label "Cancella elenco download">
 <!ENTITY cmd.clearDownloads.accesskey "n">
 <!ENTITY cmd.unblock2.label "Consenti download">
@@ -35,6 +35,7 @@
 <!ENTITY learnMore.label "Ulteriori informazioni">
 <!ENTITY downloadsHistory.label "Visualizza tutti i download">
 <!ENTITY downloadsHistory.accesskey "V">
+<!ENTITY openDownloadsFolder.label "Apri la cartella dei download">
 <!ENTITY clearDownloadsButton.label "Cancella elenco download">
 <!ENTITY clearDownloadsButton.tooltip "Rimuovi dall’elenco i download completati, annullati o non riusciti">
 <!ENTITY downloadsListEmpty.label "Non sono presenti download.">
