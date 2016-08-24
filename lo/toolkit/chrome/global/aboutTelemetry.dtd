@@ -2,42 +2,71 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutTelemetry.pageTitle "ຂໍ້ມູນ Telemetry">
+
+<!ENTITY aboutTelemetry.changeDataChoices "  ປ່ຽນ">
+
+<!ENTITY aboutTelemetry.uploadEnabled "  ການອັບໂຫລດຂໍ້ມູນ FHR ແມ່ນ <span>ຖືກເປີດໃຊ້ງານຢູ່</span>.">
+
+<!ENTITY aboutTelemetry.uploadDisabled "  ການອັບໂຫລດຂໍ້ມູນ FHR ແມ່ນ <span>ຖືກປິດໃຊ້ງານຢູ່</span>.">
+
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  ການບັນທຶກ Extended Telemetry ແມ່ນ <span>ຖືກເປີດໃຊ້ງານຢູ່</span>.">
+
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  ການບັນທຶກ Extended Telemetry ແມ່ນ <span>ຖືກປິດໃຊ້ງານຢູ່</span>.">
 
 
 
 
 
+<!ENTITY aboutTelemetry.structured "ໂຄງສ້າງ">
+
+<!ENTITY aboutTelemetry.raw "Raw JSON">
+
+<!ENTITY aboutTelemetry.showSubsessionData "ສະແດງຂໍ້ມູນ Subsession">
+
+<!ENTITY aboutTelemetry.choosePing "ເລືອກປີ້ງ:">
+
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; ປີ້ງທີ່ໃຫມ່ກວ່າ">
+
+<!ENTITY aboutTelemetry.showOlderPing "ປີ້ງທີ່ເກົ່າກວ່າ &gt;&gt;">
+
+
+<!ENTITY aboutTelemetry.archiveWeekHeader "ອາທິດ">
+
+<!ENTITY aboutTelemetry.archivePingHeader "ປີ້ງ">
+
+<!ENTITY aboutTelemetry.generalDataSection "  ຂໍ້ມູນທົ່ວໄປ">
+
+<!ENTITY aboutTelemetry.environmentDataSection "  ຂໍ້ມູນສະພາບແວດລ້ອມ">
+
+<!ENTITY aboutTelemetry.telemetryLogSection "  ລັອກ Telemetry">
+
+<!ENTITY aboutTelemetry.slowSqlSection "  ຄຳສັ່ງ SQL ທີ່ເຮັດວຽກຊ້າ">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "  ບຣາວເຊີຄ້າງ">
+
+
+
+<!ENTITY aboutTelemetry.histogramsSection "  Histograms">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  ການວັດແທກທີ່ງ່າຍດາຍ">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "  ລາຍລະອຽດຂອງ Add-on">
+
+
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Histograms ທີ່ຖືກເກັບໂດຍ Add-ons">
+
+
+<!ENTITY aboutTelemetry.emptySection "  (ບໍ່ໄດ້ເກັບຂໍ້ມູນໄວ້)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  ຫມາຍເຫດ: ການດີບັກ SQL ທີ່ເຮັດວຽກຊ້າໄດ້ຖືກເປີດໃຊ້ງານຢູ່. ຄຳສັ່ງ SQL ແບບເຕັມອາດຈະຖືກສະແດງໄວ້ດ້ານລຸ່ມ ແຕ່ຈະບໍ່ຖືກສົ່ງອອກໄປຫາ Telemetry.">
 
 
 
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutTelemetry.rawPayload "  Raw Payload">

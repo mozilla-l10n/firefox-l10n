@@ -18,41 +18,57 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 
 
+<!ENTITY aboutSupport.experimentEndDate "ມື້ສິ້ນສຸດ">
+<!ENTITY aboutSupport.experimentHomepage "ຫນ້າຫລັກ">
+<!ENTITY aboutSupport.experimentBranch "ສາ​ຂາ">
 
-
-
-
-
-
-
+<!ENTITY aboutSupport.appBasicsTitle "ແອັບພຣິເຄຊັນພື້ນຖານ">
+<!ENTITY aboutSupport.appBasicsName "ຊື່​">
+<!ENTITY aboutSupport.appBasicsVersion "ລູ້ນ​">
+<!ENTITY aboutSupport.appBasicsBuildID "Build ID">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
+<!ENTITY aboutSupport.appBasicsUpdateChannel "ຊ່ອງທາງອັບເດດ">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "ປະຫວັດການອັບເດດ">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "ສະແດງປະຫວັດການອັບເດດ">
 
-
+<!ENTITY aboutSupport.appBasicsProfileDir "ໄດເລັກທໍລີໂປຣໄຟລ໌">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "ໂຟຣເດີໂປຣໄຟລ໌">
 
-
-
-
-
-
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "ເປີດການໃຊ້ງານ Plugins ແລ້ວ">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsOS "ລະບົບປະຕິບັດການ">
+<!ENTITY aboutSupport.appBasicsMemoryUse "ກາານໃຊ້ຫນ່ວຍຄວາມຈຳ">
+<!ENTITY aboutSupport.appBasicsPerformance "ປະສິດທິພາບ">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "ລົງທະບຽນ Service Workers ແລ້ວ">
 
+<!ENTITY aboutSupport.appBasicsProfiles "ໂປ​ຣ​ໄຟ​ລ໌">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "ວິນໂດ Multiprocess">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "ໂຫມດປອດໄພ">
+
+<!ENTITY aboutSupport.showDir.label "ເປີດໄດເລັກທໍລີ">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "ສະແດງໃນ Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "ສະແດງໂຟຣເດີ">
 
-
-
+<!ENTITY aboutSupport.modifiedPrefsName "ຊື່​">
+<!ENTITY aboutSupport.modifiedPrefsValue "ຄ່າ​​​">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "ການຕັ້ງຄ່າ user.js">
 
 
 
