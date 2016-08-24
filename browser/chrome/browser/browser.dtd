@@ -220,11 +220,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Ŝanĝi, ĉu vi povas ricevi sciigojn el tiu ĉi retejo">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administri la dividon de via filmilo kaj/aŭ mikrofono kun la retejo">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Vi dividas vian filmilon kaj/aŭ mikrofonon kun la retejo">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Administri la dividon de via mikrofono kun la retejo">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Vi dividas vian mikrofonon kun la retejo">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Administri la dividon de viaj fenestroj aŭ via ekrano kun la retejo">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Vi dividas fenestron aŭ vian ekranon kun la retejo">
 
 <!ENTITY urlbar.pointerLockNotificationAnchor.label     "Elekti ĉu la retejo povas kaŝi la musmontrilon">
 <!ENTITY urlbar.servicesNotificationAnchor.label        "Vidi la mesaĝon de instalo de la servo">
@@ -233,6 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.label             "Administri la uzon de programaron DRM">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Montri historion">
+
+<!ENTITY urlbar.zoomReset.tooltip     "Remeti normalan grandon">
 
 <!ENTITY searchItem.title             "Serĉi">
 
@@ -247,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Montri flankan strion de legosignoj">
 <!ENTITY viewBookmarksToolbar.label         "Montri ilaron de legosignoj">
 
-<!ENTITY containersMenu.label "Ujoj">
+<!ENTITY containersMenu.label "Ingoj">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -280,7 +279,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Dosiero"> 
 <!ENTITY fileMenu.accesskey       "o">
-<!ENTITY newUserContext.label             "Nova entena langeto">
+<!ENTITY newUserContext.label             "Nova inga langeto">
 <!ENTITY newUserContext.accesskey         "e">
 <!ENTITY newNavigatorCmd.label        "Nova fenestro">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -473,7 +472,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "l">
 <!ENTITY openFrameCmd.label           "Malfermi kadron en nova fenestro">
 <!ENTITY openFrameCmd.accesskey       "F">
-<!ENTITY openLinkCmdInContainerTab.label "Malfermi ligilon en nova entenanta langeto">
+<!ENTITY openLinkCmdInContainerTab.label "Malfermi ligilon en nova inga langeto">
 <!ENTITY openLinkCmdInContainerTab.accesskey "e">
 <!ENTITY showOnlyThisFrameCmd.label     "Montri nur tiun ĉi kadron">
 <!ENTITY showOnlyThisFrameCmd.accesskey "T">

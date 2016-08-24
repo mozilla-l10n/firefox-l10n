@@ -6,6 +6,7 @@
   - The Font Inspector is the panel accessible in the Inspector sidebar. -->
 
 <!ENTITY showAllFonts "Vidi tiparojn uzitaj en la paĝo">
+<!ENTITY showAllFontsUsed "Montri ĉiujn uzatajn tiparojn">
 <!ENTITY usedAs "Uzita kiel: ">
 <!ENTITY system "sistema">
 <!ENTITY remote "fora">
