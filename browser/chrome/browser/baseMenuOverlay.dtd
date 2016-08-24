@@ -21,7 +21,7 @@
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Pintasan Papan Kekunci">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
+<!ENTITY helpKeyboardShortcuts.accesskey "P">
 
 <!ENTITY helpSafeMode.label       "Mulakan semula tanpa Add-ons…">
 <!ENTITY helpSafeMode.accesskey   "M">
