@@ -4,8 +4,6 @@
 
 
 <!ENTITY  connectionsDialog.title       "Agordoj de konektado">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Agordi retperantojn por atingi la reton">
 <!ENTITY  noProxyTypeRadio.label        "Sen retperanto">
