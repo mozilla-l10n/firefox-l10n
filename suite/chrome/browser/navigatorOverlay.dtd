@@ -122,17 +122,25 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "k">
 <!ENTITY cookieBlockImagesMsg.label "Afbeeldingen van deze website zullen nooit worden gedownload.">
 
-<!ENTITY cookieAllowPopupsCmd.label                  "Pop-ups van deze website toestaan">
-<!ENTITY cookieAllowPopupsCmd.accesskey              "P">
-<!ENTITY cookieManagePopups.label                    "Pop-ups beheren">
-<!ENTITY cookieManagePopups.accesskey                "b">
+<!ENTITY popupsMessageChangeTitle.label "Pop-uptoestemmingen gewijzigd">
+<!ENTITY popupAllowCmd.label "Pop-ups van deze website toestaan">
+<!ENTITY popupAllowCmd.accesskey "P">
+<!ENTITY popupAllowMsg.label "Pop-ups van deze website zullen altijd worden getoond.">
+<!ENTITY popupDefaultCmd.label "Standaard pop-uptoestemmingen gebruiken">
+<!ENTITY popupDefaultCmd.accesskey "S">
+<!ENTITY popupDefaultMsg.label "Pop-ups van deze website zullen worden getoond op basis van de standaardinstellingen.">
+<!ENTITY popupBlockCmd.label "Pop-ups van deze website blokkeren">
+<!ENTITY popupBlockCmd.accesskey "w">
+<!ENTITY popupBlockMsg.label "Pop-ups van deze website zullen niet worden getoond.">
+<!ENTITY popupsManage.label "Pop-ups beheren">
+<!ENTITY popupsManage.accesskey "b">
 
 <!ENTITY cookieCookieManager.label "Cookiebeheerder">
 <!ENTITY cookieCookieManager.accesskey "C">
 <!ENTITY cookieImageManager.label "Afbeeldingenbeheerder">
 <!ENTITY cookieImageManager.accesskey "f">
-<!ENTITY cookiePopupManager.label "Pop-upbeheerder">
-<!ENTITY cookiePopupManager.accesskey "o">
+<!ENTITY popupsManager.label "Pop-upbeheerder">
+<!ENTITY popupsManager.accesskey "o">
 
 <!ENTITY clearPrivateDataCmd.label "Privégegevens wissen">
 <!ENTITY clearPrivateDataCmd.accesskey "P">

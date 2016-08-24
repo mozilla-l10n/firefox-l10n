@@ -33,6 +33,11 @@
 <!ENTITY fontColor.accesskey                  "e">
 <!ENTITY bgColor.label                        "Achtergrond:">
 <!ENTITY bgColor.accesskey                    "A">
+<!ENTITY defaultCompose.label                 "Standaard tekstopmaak:">
+<!ENTITY defaultBodyText.label                "Tekst (Enter-toets creëert een nieuwe regel)">
+<!ENTITY defaultBodyText.accesskey            "k">
+<!ENTITY defaultParagraph.label               "Alinea (Enter-toets crëert een nieuwe alinea)">
+<!ENTITY defaultParagraph.accesskey           "n">
 
 <!ENTITY selectHeaderType.label               "Antwoordregeltype selecteren:">
 <!ENTITY selectHeaderType.accesskey           "e">

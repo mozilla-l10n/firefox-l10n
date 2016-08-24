@@ -2,14 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
-languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurances of the word 
-"&brandShortName;" below.
--->
-
 <!ENTITY importDialog.windowTitle "Importeren">
 <!ENTITY importAll.label          "Alles importeren">
 <!ENTITY importAll.accesskey      "s">
@@ -38,6 +30,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY selectDescription.accesskey "S">
 <!ENTITY acctName.label           "Naam:">
 <!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "Er is geen toepassing of bestand gevonden om gegevens uit te importeren.">
 
 <!ENTITY back.label               "&lt; Vorige">
 <!ENTITY forward.label            "Volgende &gt;">
