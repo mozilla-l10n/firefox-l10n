@@ -2,6 +2,7 @@
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
 <!ENTITY inspectorRemoveAttribute.label        "הסרת תכונה">
+<!ENTITY inspectorRemoveAttribute.accesskey    "ס">
 
 <!ENTITY inspector.selectButton.tooltip     "בחירת רכיב עם העכבר">
 

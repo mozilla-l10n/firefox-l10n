@@ -4,10 +4,25 @@
 
 <!ENTITY aboutTelemetry.pageTitle "נתוני Telemetry">
 
+<!ENTITY aboutTelemetry.changeDataChoices "
+  שינוי
+">
 
+<!ENTITY aboutTelemetry.uploadEnabled "
+  העלאת נתוני FHR <span>מופעלת</span>.
+">
 
+<!ENTITY aboutTelemetry.uploadDisabled "
+  העלאת נתוני FHR <span>מנוטרלת</span>.
+">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "
+  רישום Telemetry מורחב <span>מופעל</span>.
+">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "
+  רישום Telemetry מורחב <span>מנוטרל</span>.
+">
 
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
@@ -55,6 +70,7 @@ JSON גולמי
 <!ENTITY aboutTelemetry.chromeHangsSection "  תקיעות דפדפן">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  תקיעות תהליכונים">
+
 
 <!ENTITY aboutTelemetry.histogramsSection "  היסטוגרמות">
 
