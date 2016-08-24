@@ -19,11 +19,12 @@ Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
 
 <!ENTITY searchreset.beforelink.pageInfo2 "Anda boleh menukar tetapan pada bila-bila masa dari ">
-
+<!ENTITY searchreset.afterlink.pageInfo2  ".">
 
 <!ENTITY searchreset.link.pageInfo2       "Tetapan halaman">
 
-
+<!ENTITY searchreset.noChangeButton        "Jangan Ubah">
+<!ENTITY searchreset.noChangeButton.access "D">
 
 <!ENTITY searchreset.changeEngineButton        "Tukar Enjin Carian">
-
+<!ENTITY searchreset.changeEngineButton.access "C">
