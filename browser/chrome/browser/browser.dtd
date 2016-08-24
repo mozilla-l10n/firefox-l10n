@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Nyahpin Tab">
 <!ENTITY  unpinTab.accesskey                 "b">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Hantar Tab Ke Peranti">
+<!ENTITY  sendTabToDevice.accesskey          "P">
+<!ENTITY  sendPageToDevice.label             "Hantar Halaman ke Peranti">
+<!ENTITY  sendPageToDevice.accesskey         "P">
+<!ENTITY  sendLinkToDevice.label             "Hantar Penghubung ke Peranti">
+<!ENTITY  sendLinkToDevice.accesskey         "P">
 <!ENTITY  moveToNewWindow.label              "Pindah ke Tetingkap Baru">
 <!ENTITY  moveToNewWindow.accesskey          "P">
 <!ENTITY  bookmarkAllTabs.label              "Tandabuku Semua Tab…">
@@ -116,7 +116,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Daftar masuk ke &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Buka &syncBrand.shortName.label; keutamaan">
 <!ENTITY fxaSignInError.label "Sambung semula ke &syncBrand.shortName.label;">
-
+<!ENTITY fxaUnverified.label "Sahkan Akaun Anda">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Pengurangan">
@@ -133,12 +133,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "kini skrin penuh">
+<!ENTITY fullscreenWarning.generic.label "Dokumen ini skrin penuh">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
+<!ENTITY exitDOMFullscreen.button "Keluar dari Skrin Penuh (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Keluar dari Skrin Penuh (esc)">
 <!ENTITY leaveDOMFullScreen.label "Keluar dari Muka Penuh">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
@@ -148,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "mempunyai kawalan ke atas penunjuk anda. Tekan Esc untuk mengambil kembali kawalan.">
+<!ENTITY pointerlockWarning.generic.label "Dokumen ini mempunyai kawalan ke atas penunjuk anda. Tekan Esc untuk mengambil kembali kawalan.">
 
 <!ENTITY closeWindow.label "Tutup Tetingkap">
 <!ENTITY closeWindow.accesskey "T">
@@ -176,18 +178,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "i">
 <!ENTITY shareVideo.label "Kongsi Video Ini">
 <!ENTITY shareVideo.accesskey "i">
-
-
+<!ENTITY feedsMenu2.label "Langgan ke Laman Ini">
+<!ENTITY subscribeToPageMenupopup.label "Langgan ke Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Langgan ke Laman Ini…">
 <!ENTITY addCurPagesCmd.label "Tandabuku Semua Tab…">
 <!ENTITY showAllBookmarks2.label "Pamer Semua Penandabuku">
-
-
+<!ENTITY recentBookmarks.label "Baru-baru Ini Ditandabukukan">
+<!ENTITY otherBookmarksCmd.label "Lain-lain Penandabuku">
 <!ENTITY bookmarksToolbarChevron.tooltip "Pamer lebih penandabuku">
-
-
-
-
+<!ENTITY showRecentlyBookmarked.label     "Papar Penandabuku Baru-baru Ini">
+<!ENTITY showRecentlyBookmarked.accesskey "p">
+<!ENTITY hideRecentlyBookmarked.label     "Sembunyikan Penandabuku Baru-baru Ini">
+<!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Kembali">
 <!ENTITY backButton.tooltip           "Undur sehalaman">
@@ -204,28 +206,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Cetak">
 <!ENTITY printButton.tooltip          "Cetak laman ini">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Lihat maklumat tapak">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Lihat notifikasi">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Lihat permintaan lokasi">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Lihat add-on memasang mesej">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Lihat penyimpanan mesej app-offline">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Mengurus maklumat log masuk anda">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Periksa sama ada anda mahu menyimpan kata laluan anda">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Mengurus plugin yang digunakan untuk halaman ini">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Menukar sama ada anda boleh menerima pemberitahuan dari laman web ini">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Mengurus perkongsian kamera dan/atau mikrofon anda dengan laman web ini">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Anda kini sedang berkongsi kamera dan/atau mikrofon dengan halaman ini.">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Mengurus perkongsian mikrofon anda dengan laman web ini">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Anda kini sedang berkongsi mikrofon dengan halaman ini.">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Mengurus perkongsian tingkap atau skrin anda dengan laman web ini">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Anda kini sedang berkongsi tingkap atau skrin anda dengan laman web ini">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Tukar sama ada laman web ini boleh menyembunyikan penunjuk">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Lihat perkhidmatan memasang mesej">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Terjemahkan halaman ini">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Mengurus terjemahan halaman">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Menguruskan penggunaan perisian DRM">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Papar sejarah">
 
 <!ENTITY searchItem.title             "Carian">
 <!-- Toolbar items --> 
@@ -236,10 +243,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Penandabuku">
-
+<!ENTITY bookmarksMenuButton.other.label "Lain-lain Penandabuku">
 <!ENTITY viewBookmarksSidebar2.label        "Lihat Penandabuku Bar Sisi">
 <!ENTITY viewBookmarksToolbar.label         "Lihat Penandabuku Bar Alatan">
 
+<!ENTITY containersMenu.label "Bekas">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -259,7 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Muat Turun">
 <!ENTITY downloads.accesskey          "T">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Add-ons">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
@@ -272,14 +280,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fail"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.label             "Baru Bekas Tab">
+<!ENTITY newUserContext.accesskey         "B">
 <!ENTITY newNavigatorCmd.label        "Tetingkap Baru">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Tetingkap Persendirian Baharu">
 <!ENTITY newPrivateWindow.accesskey "B">
-
+<!ENTITY newNonRemoteWindow.label   "Tetingkap Non-e10s Baru">
 
 <!ENTITY editMenu.label         "Ubah"> 
 <!ENTITY editMenu.accesskey       "U"> 
@@ -292,9 +300,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Potong">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-
+<!ENTITY copyCmd.label            "Salin">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "S"> 
 <!ENTITY pasteCmd.label           "Tampal">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "T"> 
@@ -343,18 +351,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Lihat Bar Sisi Sejarah">
 <!ENTITY appMenuHelp.tooltip "Buka Menu Bantuan">
 
+<!ENTITY appMenuRemoteTabs.label "Tab Diselaras">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Tiada tab terbuka">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Menghidupkan penyelarasan tab untuk melihat senarai tab dari peranti anda yang lain.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
-
-
+<!ENTITY appMenuRemoteTabs.noclients.title "Tiada tab yang diselaraskan... lagi!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Sync keutamaan">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Daftar masuk untuk melihat senarai tab dari peranti anda yang lain.">
+<!ENTITY appMenuRemoteTabs.signin.label "Daftar masuk untuk Sync">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Papar Peyelarasan Tab Sidebar">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tambah ke Bar Alatan">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -383,11 +395,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Adakah anda ingin meningkatkan pengalaman carian anda dengan cadangan?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ketahui lebih lanjut…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Tidak">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ya">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -415,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
+
+<!ENTITY contentSearchInput.label     "Cari pertanyaan">
 <!ENTITY contentSearchSubmit.label    "Hantar carian">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -442,9 +456,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Ubah Tetapan Carian">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Cari dalam Tab Baru">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "Tetapkan sebagai Enjin Carian Lalai">
+<!ENTITY searchSetAsDefault.accesskey "L">
 
 <!ENTITY openLinkCmdInTab.label       "Buka Pautan dalam Tab Baru">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -458,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Buka Bingkai dalam Tetingkap Baru">
 <!ENTITY openFrameCmd.accesskey       "n">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Buka Pautan di Tab Bekas Baru">
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Pamer Hanya Bingkai Ini">
 <!ENTITY showOnlyThisFrameCmd.accesskey "H">
 <!ENTITY reloadCmd.commandkey         "m">
@@ -558,26 +573,27 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "B">
 <!ENTITY mediaUnmute.label           "Nyahbisu">
 <!ENTITY mediaUnmute.accesskey       "N">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.label     "Kelajuan Permainan">
+<!ENTITY mediaPlaybackRate2.accesskey "l">
+<!ENTITY mediaPlaybackRate050x2.label "Perlahan (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "P">
+<!ENTITY mediaPlaybackRate100x2.label "Normal">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Laju (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "L">
+<!ENTITY mediaPlaybackRate150x2.label "Laju (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.label "Merepek (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "M">
+<!ENTITY mediaLoop.label             "Gelung">
+<!ENTITY mediaLoop.accesskey         "G">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Tunjukan Kawalan">
+<!ENTITY mediaShowControls.label     "Tunjuk Kawalan">
 <!ENTITY mediaShowControls.accesskey "K">
 <!ENTITY mediaHideControls.label     "Sembunyi Kawalan">
 <!ENTITY mediaHideControls.accesskey "S">
@@ -677,14 +693,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "a">
 
 <!ENTITY editBookmark.done.label                     "Selesai">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Sambungan Selamat">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Selamat">
 <!ENTITY identity.connectionFile "Halaman ini disimpan dalam komputer anda.">
-
+<!ENTITY identity.connectionVerified2 "Anda disambungkan dengan selamat ke laman web ini, yang dimiliki oleh:">
 <!ENTITY identity.connectionInternal "Ini adalah halaman &brandShortName; yang selamat.">
-
+<!ENTITY identity.insecureLoginForms2 "Login dimasukkan pada halaman ini boleh dikompromi.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; telah menghalang sebahagian halaman ini yang tidak selamat">
@@ -694,7 +710,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Sambungan anda ke laman ini adalah terbuka. Maklumat yang anda hantar mampu dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).">
-
+<!ENTITY identity.description.insecureLoginForms "Maklumat login anda masukkan pada halaman ini tidak selamat dan boleh dikompromi.">
 <!ENTITY identity.description.weakCipher "Sambungan anda ke halaman ini menggunakan enkripsi yang lemah dan bukan secara persendirian.">
 <!ENTITY identity.description.weakCipher2 "Orang lain boleh melihat maklumat anda atau mengubah tingkah laku laman web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; telah menyekat sebahagian halaman ini yang tidak selamat">
@@ -710,43 +726,50 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "L">
 <!ENTITY identity.learnMore "Ketahui Lebih Lanjut">
 
-
+<!ENTITY identity.removeCertException.label "Buang Pengecualian">
+<!ENTITY identity.removeCertException.accesskey "B">
 
 <!ENTITY identity.moreInfoLinkText2 "Lebih Banyak Maklumat">
 
 <!ENTITY identity.permissions "Kebenaran">
-
+<!ENTITY identity.permissionsEmpty "Anda tidak diberikan tapak ini mana-mana kebenaran khas.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
 <!ENTITY tabsToolbar.label "Tab-tab pelayar">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
+<!ENTITY syncTabsMenu3.label     "Tab Diselaras">
 
-
-
-
-
-
+<!ENTITY syncedTabs.sidebar.label              "Tab Diselaras">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Daftar masuk ke Firefox dari peranti anda yang lain untuk melihat tab di sini.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Tiada tab yang diselaraskan... lagi!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Daftar masuk untuk melihat senarai tab dari peranti anda yang lain.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Tiada tab terbuka">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Buka &syncBrand.shortName.label; Keutamaan">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Menghidupkan penyelarasan tab untuk melihat senarai tab dari peranti anda yang lain.">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.open.label                       "Buka">
+<!ENTITY syncedTabs.context.open.accesskey                   "B">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Buka di Tab Baru">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "k">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Buka di Tetingkap Baru">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "B">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Buka dalam Tetingkap Persendirian Baru">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Menandabuku Tab Ini...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "M">
+<!ENTITY syncedTabs.context.copy.label                       "Salin">
+<!ENTITY syncedTabs.context.copy.accesskey                   "S">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-
+<!ENTITY syncSignIn.label             "Daftar Masuk Ke &syncBrand.shortName.label;...">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Selarikan Sekarang">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Sambung semula ke &syncBrand.shortName.label;…">
@@ -855,6 +878,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+
+<!ENTITY panicButton.view.mainTimeframeDesc       "Lupakan untuk:">
 <!ENTITY panicButton.view.5min                    "Lima minit">
 <!ENTITY panicButton.view.2hr                     "Dua jam">
 <!ENTITY panicButton.view.day                     "24 jam">
@@ -863,8 +888,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
+<!ENTITY panicButton.view.mainActionDesc          "Dengan meneruskan akan:">
+<!ENTITY panicButton.view.deleteCookies           "Padam <html:strong>Kukis</html:strong> Terkini">
+<!ENTITY panicButton.view.deleteHistory           "Padam <html:strong>Sejarah</html:strong> Terkini">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Semua <html:strong>Tab</html:strong> dan <html:strong>Tetingkap</html:strong> akan ditutup">
 <!ENTITY panicButton.view.openNewWindow           "Buka tetingkap pelayar yang baru">
 
 <!ENTITY panicButton.view.undoWarning             "Tindakan ini tidak dapat dilakukan.">
