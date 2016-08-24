@@ -9,7 +9,7 @@
 <!ENTITY firstrun_bookmarks_title "Sejarah">
 
 
-
+<!ENTITY firstrun_data_title "Data">
 
 
 <!ENTITY firstrun_sync_title "Sync">
@@ -19,16 +19,21 @@
 
 <!ENTITY  onboard_start_button_browser "Mulakan Pelayaran">
 
+<!ENTITY firstrun_button_next "Berikutnya">
 
-
+<!ENTITY firstrun_tabqueue_title "Pautan">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
 
+<!ENTITY firstrun_tabqueue_message_on "Berjaya!">
 
 
+<!ENTITY firstrun_readerview_title "Artikel">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+<!ENTITY firstrun_account_title "Anda">
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -56,11 +61,12 @@
 <!ENTITY url_bar_default_text2 "Carian atau masukkan alamat">
 
 <!ENTITY bookmark "Penanda buku">
-
+<!ENTITY bookmark_remove "Buang tandabuku">
 <!ENTITY bookmark_added "Penandabuku ditambah">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Tersedia ditanda bukukan">
 <!ENTITY bookmark_removed "Penandabuku dikeluarkan">
 <!ENTITY bookmark_updated "Penandabuku dikemaskini">
 <!ENTITY bookmark_options "Pilihan">
@@ -68,19 +74,21 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-
+<!ENTITY screenshot_folder_label_in_bookmarks "Cakupan skrin">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Senarai Bacaan">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-
+<!ENTITY bookmark_folder_one_item "1 item">
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Tukar">
 
 <!ENTITY history_today_section "Hari Ini">
 <!ENTITY history_yesterday_section "Semalam">
-
-
+<!ENTITY history_week_section3 "7 hari lalu">
+<!ENTITY history_older_section3 "Lebih dari 6 bulan">
 
 <!ENTITY search "Carian">
 <!ENTITY reload "Ulang muat">
@@ -92,9 +100,10 @@
 <!ENTITY edit_mode_cancel "Batal">
 
 <!ENTITY close_tab "Tutup Tab">
-
+<!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; tab">
 <!ENTITY new_tab_opened "Tab baru dibuka">
 <!ENTITY new_private_tab_opened "Tab peribadi baru dibuka">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -116,6 +125,8 @@
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Bahasa">
 <!ENTITY pref_category_language_summary "Ubah bahasa pelayar anda">
 <!ENTITY pref_browser_locale "Bahasa pelayar">
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -133,7 +144,7 @@
      "to bookmark", not the noun "a bookmark". -->
 
 <!ENTITY overlay_share_bookmark_btn_label "Tanda buku">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Tersedia ditanda bukukan">
 <!ENTITY overlay_share_send_other "Hantar ke peranti lain">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
