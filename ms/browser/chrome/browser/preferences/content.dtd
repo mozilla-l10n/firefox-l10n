@@ -7,10 +7,10 @@
 <!ENTITY  blockPopups.label           "Sekat tetingkap timbul">
 <!ENTITY  blockPopups.accesskey       "t">
 
+<!ENTITY  notificationsPolicyLearnMore.label   "Ketahui lanjut">
 
-
-
-
+<!ENTITY  notificationsPolicyButton.accesskey  "i">
+<!ENTITY  notificationsPolicyButton.label      "Pilih…">
 
 
 
@@ -54,4 +54,4 @@
 
 
 
-
+<!ENTITY  playDRMContent.learnMore.label "Ketahui lanjut">

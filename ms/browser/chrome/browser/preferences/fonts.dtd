@@ -64,15 +64,16 @@
 <!ENTITY  allowPagesToUse.label                   "Benarkan laman untuk memilih fontnya, bukannya pilihan saya di atas">
 <!ENTITY  allowPagesToUse.accesskey               "B">
 
+<!ENTITY languages.customize.Fallback2.grouplabel "Enkod Karakter untuk Legasi Maklumat">
 
 
-
+<!ENTITY languages.customize.Fallback2.desc       "Pengekodan aksara ini digunakan untuk kandungan legasi yang gagal diisyhtiharkan pengekodannya.">
 
 <!ENTITY languages.customize.Fallback.auto        "Lalai untuk Locale Semasa">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Arab">
-
+<!ENTITY languages.customize.Fallback.baltic      "Baltik">
 <!ENTITY languages.customize.Fallback.ceiso       "Eropah Tengah, ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "Eropah Tengah, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -99,6 +100,7 @@
 <!ENTITY languages.customize.Fallback.thai        "Thai">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "Turki">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vietnam">

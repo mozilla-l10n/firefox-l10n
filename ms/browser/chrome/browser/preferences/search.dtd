@@ -12,6 +12,7 @@
 
 
 
+<!ENTITY engineNameColumn.label                "Enjin Carian">
 <!ENTITY engineKeywordColumn.label             "Kata kunci">
 
 
@@ -19,3 +20,4 @@
 <!ENTITY removeEngine.label                    "Singkir">
 <!ENTITY removeEngine.accesskey                "r">
 
+<!ENTITY addMoreSearchEngines.label            "Dapatkan lebih lagi enjin carian...">
