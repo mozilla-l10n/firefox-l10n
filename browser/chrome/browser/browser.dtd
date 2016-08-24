@@ -111,10 +111,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Pamer Semua Tab">
 <!ENTITY showAllTabsCmd.accesskey "S">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Daftar masuk ke &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "Buka &syncBrand.shortName.label; keutamaan">
 <!ENTITY fxaSignInError.label "Sambung semula ke &syncBrand.shortName.label;">
 
 
