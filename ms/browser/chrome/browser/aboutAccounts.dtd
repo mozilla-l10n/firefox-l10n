@@ -7,7 +7,7 @@
 
 <!ENTITY aboutAccountsConfig.description "Daftar masuk untuk sync tab anda, penanda halaman, kata laluan &amp; lain-lain.">
 <!ENTITY aboutAccountsConfig.startButton.label "Mulakan">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Gunakan versi lama untuk Sync?">
+<!ENTITY aboutAccountsConfig.useOldSync.label "Gunakan Sync versi lama?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Sync keutamaan">
 <!ENTITY aboutAccounts.noConnection.title "Tiada sambungan">
 <!ENTITY aboutAccounts.noConnection.description "Anda mesti ada sambungan Internet untuk mendaftar masuk.">
