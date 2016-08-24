@@ -14,3 +14,4 @@
 <!ENTITY caseSensitive.label "התאמת אותיות גדולות/קטנות">
 <!ENTITY caseSensitive.accesskey "ת">
 <!ENTITY caseSensitive.tooltiptext "חיפוש עם רגישות לאותיות גדולות">
+<!ENTITY entireWord.label "מילים שלמות">
