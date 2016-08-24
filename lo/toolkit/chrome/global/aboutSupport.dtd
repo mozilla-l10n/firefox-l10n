@@ -5,21 +5,25 @@
 <!ENTITY aboutSupport.pageTitle "​ຂໍ້ມູນການແກ້ໄຂບັນຫາ">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.crashes.title "ລາຍງານຂໍ້ຜິດພາດ">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "ລາຍງານ ID">
+<!ENTITY aboutSupport.crashes.sendDate "ສົ່ງຂໍ້ມູນແລ້ວ">
+<!ENTITY aboutSupport.crashes.allReports "ລາຍງານຂໍ້ຜິດພາດທັງຫມົດ">
+<!ENTITY aboutSupport.crashes.noConfig "ແອັບພລິເຄຊັນນີ້ບໍ່ໄດ້ຮັບການຕັ້ງຄ່າໃຫ້ສະແດງຜົນລາຍງານຂໍ້ຜິດພາດ.">
 
+<!ENTITY aboutSupport.extensionsTitle "Extensions">
+<!ENTITY aboutSupport.extensionName "ຊື່​">
+<!ENTITY aboutSupport.extensionEnabled "ເປີດໃຊ້ງານແລ້ວ">
+<!ENTITY aboutSupport.extensionVersion "ລູ້ນ​">
+<!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.experimentsTitle "ຄຸນລັກສະນະການທົດລອງ">
+<!ENTITY aboutSupport.experimentName "ຊື່">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "ຄຳອະທິບາຍ">
+<!ENTITY aboutSupport.experimentActive "ເຮັດວຽກ">
 <!ENTITY aboutSupport.experimentEndDate "ມື້ສິ້ນສຸດ">
 <!ENTITY aboutSupport.experimentHomepage "ຫນ້າຫລັກ">
 <!ENTITY aboutSupport.experimentBranch "ສາ​ຂາ">
@@ -93,15 +97,19 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "ປະຫວັດການຕິດຕັ້ງ">
 <!ENTITY aboutSupport.updateHistoryTitle "ປະຫວັດການອັບເດດ">
 
+<!ENTITY aboutSupport.copyTextToClipboard.label "ສຳເນົາຂໍ້ຄວາມໄປໄວ້ທີ່ Clipboard">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "ສຳເນົາຂໍ້ມູນດິບໄປໄວ້ທີ່ Clipboard ">
+
+<!ENTITY aboutSupport.sandboxTitle "Sandbox">
+
+<!ENTITY aboutSupport.safeModeTitle "ລອງໃຊ້ໂຫມດປອດໄພ">
 
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "ຄຸນລັກສະນະ">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "ການວິນິດໄສ">
+
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 
 
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
