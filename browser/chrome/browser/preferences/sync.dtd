@@ -39,7 +39,7 @@
 
 <!ENTITY syncDeviceName.label       "Nama Peranti:">
 <!ENTITY syncDeviceName.accesskey   "m">
-
+<!ENTITY fxaSyncDeviceName.label       "Nama Peranti">
 
 <!ENTITY cancelChangeSyncDeviceName.label "Batal">
 <!ENTITY saveChangeSyncDeviceName.label "Simpan">
@@ -72,14 +72,14 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Anda tidak mendaftar masuk.">
 <!ENTITY signIn.label                "Daftar masuk">
 
-
+<!ENTITY verifiedManage.label        "Pengurusan Akaun">
 <!ENTITY disconnect.label            "Terputus…">
 <!ENTITY verify.label                "Sahkan Emel">
 <!ENTITY forget.label                "Lupakan Emel ini">
 
 <!ENTITY welcome.description "Capai tab anda, penandabuku, kata laluan dan lagi apabila anda menggunakan &brandShortName;.">
-
-
+<!ENTITY welcome.signIn.label "Daftar Masuk">
+<!ENTITY welcome.createAccount.label "Cipta Akaun">
 
 <!ENTITY welcome.useOldSync.label "Menggunakan versi lama Sync?">
 

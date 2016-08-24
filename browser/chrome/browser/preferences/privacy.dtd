@@ -1,36 +1,38 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY  trackingProtectionAlways.label       "Sentiasa">
+<!ENTITY  trackingProtectionAlways.accesskey   "a">
 
 
-
-
-
-
-
-
-
+<!ENTITY  trackingProtectionNever.label        "Tidak sekali">
+<!ENTITY  trackingProtectionNever.accesskey    "T">
+<!ENTITY  trackingProtectionLearnMore.label    "Ketahui Lanjut">
+<!ENTITY  trackingProtectionExceptions.label   "Pengecualian…">
+<!ENTITY  trackingProtectionExceptions.accesskey "e">
 
 <!ENTITY tracking.label                 "Penjejakan">
 
 
-
+<!ENTITY trackingProtectionPBMLearnMore.label "Ketahui Lanjut">
 
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
+<!ENTITY  doNotTrack.post.label         ".">
 
-
+<!ENTITY  history.label                 "Sejarah">
 
 <!ENTITY  locationBar.label             "Bar Lokasi">
 
-
-
-
-
-
-
+<!ENTITY  locbar.suggest.label          "Semasa menggunakan bar lokasi, cadang:">
+<!ENTITY  locbar.history.label          "Sejarah">
+<!ENTITY  locbar.history.accesskey      "S">
+<!ENTITY  locbar.bookmarks.label        "Tandabuku">
+<!ENTITY  locbar.bookmarks.accesskey    "a">
+<!ENTITY  locbar.openpage.label         "Buka tab">
+<!ENTITY  locbar.openpage.accesskey     "B">
 
 
 
@@ -39,12 +41,14 @@
 <!ENTITY  acceptCookies.label           "Terima kuki dari laman web">
 <!ENTITY  acceptCookies.accesskey       "e">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Menerima kuki pihak ketiga:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "k">
 <!ENTITY  acceptThirdParty.always.label   "Sentiasa">
 <!ENTITY  acceptThirdParty.never.label    "Tidak sekali">
 <!ENTITY  acceptThirdParty.visited.label  "Daripada yang dilawati">
 
-
+<!ENTITY  keepUntil.label               "Kekalkan sehingga:">
+<!ENTITY  keepUntil.accesskey           "s">
 
 <!ENTITY  expire.label                  "ianya luput">
 <!ENTITY  close.label                   "Saya tutup &brandShortName;">
@@ -96,6 +100,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Tetapan…">
 <!ENTITY  clearOnCloseSettings.accesskey "T">
 
-
+<!ENTITY  browserContainersLearnMore.label      "Ketahui Lanjut">
 
 
