@@ -7,6 +7,7 @@
 
 <!ENTITY importFromWin.label            "Увезите опције, подешавања налога, именике, филтере и друге податке из:">
 <!ENTITY importFromNonWin.label         "Увезите поставке, подешавања налога, именике, филтере и друге податке из:">
+<!ENTITY importSourceNotFound.label     "Није нађен ниједан програм из којег је могућ увоз података.">
 
 <!ENTITY importFromNothing.label        "Не увози ништа">
 <!ENTITY importFromNothing.accesskey    "Н">

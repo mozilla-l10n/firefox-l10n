@@ -38,6 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "И">
 <!ENTITY acctName.label           "Име:">
 <!ENTITY acctName.accesskey       "м">
+<!ENTITY noModulesFound.label     "Није нађен ниједан програм или датотека из којих би био могућ увоз података.">
 
 <!ENTITY back.label               "&lt; Назад">
 <!ENTITY forward.label            "Следеће &gt;">
