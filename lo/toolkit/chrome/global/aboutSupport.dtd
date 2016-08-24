@@ -69,22 +69,27 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "ການຕັ້ງຄ່າ user.js">
+<!ENTITY aboutSupport.userJSDescription "ໂຟລເດີໂປຣໄຟລ໌ຂອງທ່ານປະກອບມີ <a id='prefs-user-js-link'>ໄຟລ໌ user.js</a>, ຊຶ່ງລວມມີການຕັ້ງຄ່າທີ່ບໍ່ໄດ້ຮັບການສ້າງຂື້ນມາໂດຍ &brandShortName;.">
 
+<!ENTITY aboutSupport.lockedPrefsName "ຊື່​">
+<!ENTITY aboutSupport.lockedPrefsValue "ຄ່າ​​​​">
 
+<!ENTITY aboutSupport.graphicsTitle "ກຣາບຟິກ">
 
+<!ENTITY aboutSupport.placeDatabaseIntegrity "ຄວາມສົມບູນ">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "ກວດສອບຄວາມສົມບູນ">
 
+<!ENTITY aboutSupport.jsTitle "JavaScript​">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
+<!ENTITY aboutSupport.a11yTitle "ການຊ່ວຍເຂົ້າເຖິງ">
+<!ENTITY aboutSupport.a11yActivated "ເປີດໃຊ້ງານແລ້ວ">
+<!ENTITY aboutSupport.a11yForceDisabled "ປ້ອງກັນການຊ່ວຍເຂົ້າເຖິງ">
 
+<!ENTITY aboutSupport.libraryVersionsTitle "ລຸ້ນ Library">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.installationHistoryTitle "ປະຫວັດການຕິດຕັ້ງ">
+<!ENTITY aboutSupport.updateHistoryTitle "ປະຫວັດການອັບເດດ">
 
 
 
