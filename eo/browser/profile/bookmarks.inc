@@ -37,9 +37,4 @@
 # link title for http://en-US.www.mozilla.com/en-US/about/
 #define firefox_about Pri ni
 
-# LOCALIZATION NOTE (firefox_feedback):
-# link title for browser feedback page
-# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
-#define firefox_feedback Komentarii
-
 #unfilter emptyLines
