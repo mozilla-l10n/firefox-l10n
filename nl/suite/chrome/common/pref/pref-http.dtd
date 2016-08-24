@@ -21,3 +21,6 @@
 <!ENTITY prefUseragent.label                 "Useragent-string">
 <!ENTITY prefFirefoxCompat.label             "Bekendmaken als Firefox-compatibel">
 <!ENTITY prefFirefoxCompat.accesskey         "F">
+<!ENTITY prefLightningShow.label             "Lightninginstallatie bekendmaken">
+<!ENTITY prefLightningShow.accesskey         "L">
+<!ENTITY prefCompatWarning                   "WAARSCHUWING: het uitschakelen van deze instellingen kan ertoe leiden dat websites of services niet goed werken.">
