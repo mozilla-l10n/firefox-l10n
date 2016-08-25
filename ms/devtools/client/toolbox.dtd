@@ -96,10 +96,12 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
+<!ENTITY options.disableHTTPCache.label     "Lumpuhkan Cache (ketika kekotak alat dibuka)">
+
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
-
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Mematikan pilihan ini akan membolehkan kerja perkhidmatan melalui HTTP untuk semua tab yang mempunyai toolbox terbuka.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -182,7 +184,7 @@
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Auto tutup pendakap">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Menyelitkan tutup pendakap secara automatik">
 <!ENTITY options.sourceeditor.expandtab.label           "Inden menggunakan ruang">
-
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Gunakan ruang dan bukannya aksara tab">
 <!ENTITY options.sourceeditor.tabsize.label             "Saiz tab">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "t">
 <!ENTITY options.sourceeditor.keybinding.label          "Keybindings">
