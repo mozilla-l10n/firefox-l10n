@@ -280,8 +280,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Datoteka"> 
 <!ENTITY fileMenu.accesskey       "D">
-<!ENTITY newUserContext.label             "Nova sadržajna kartica">
-<!ENTITY newUserContext.accesskey         "d">
+
+
 <!ENTITY newNavigatorCmd.label        "Novi prozor">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
