@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Korea">
 <!ENTITY  font.langGroup.cyrillic                 "Cyril">
 <!ENTITY  font.langGroup.el                       "Yunani">
-
+<!ENTITY  font.langGroup.other                    "Sistem Penulisan Lain">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Ibrani">
 <!ENTITY  font.langGroup.arabic                   "Arab">
@@ -46,8 +46,8 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Cambodian">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
-
+<!ENTITY  font.langGroup.math                     "Matematik">
+<!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUse.accesskey               "B">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Enkod Karakter untuk Legasi Maklumat">
-
-
+<!ENTITY languages.customize.Fallback2.label      "Jatuh Balik Pengekodan Teks:">
+<!ENTITY languages.customize.Fallback2.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Pengekodan aksara ini digunakan untuk kandungan legasi yang gagal diisyhtiharkan pengekodannya.">
 
 <!ENTITY languages.customize.Fallback.auto        "Lalai untuk Locale Semasa">

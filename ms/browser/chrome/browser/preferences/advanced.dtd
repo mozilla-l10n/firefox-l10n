@@ -14,8 +14,8 @@
 <!ENTITY searchStartTyping.accesskey     "s">
 <!ENTITY blockAutoRefresh.label          "Ingatkan saya jika laman web cuba untuk mengalihkan atau mengulang muat laman">
 <!ENTITY blockAutoRefresh.accesskey      "b">
-
-
+<!ENTITY useOnScreenKeyboard.label       "Menunjukkan papan kekunci sentuh apabila perlu">
+<!ENTITY useOnScreenKeyboard.accesskey   "p">
 
 <!ENTITY browsing.label                  "Melungsur">
 
@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Pelajari Lagi">
 
 <!ENTITY telemetryDesc.label             "Kongsi data prestasi, penggunaan, perkakasan dan pelangganan berkaitan pelayar anda dengan &vendorShortName; untuk membantu kami menjadikan &brandShortName; lebih baik">
-
-
+<!ENTITY enableTelemetryData.label       "Kongsi data tambahan (i.e., Telemetri)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Pelajari Lagi">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; menghantar laporan ranap untuk membantu &vendorShortName; menjadikan pelayar anda lebih stabil dan selamat">

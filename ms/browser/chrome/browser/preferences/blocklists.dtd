@@ -6,8 +6,9 @@
 <!ENTITY window.width                 "55em">
 
 <!ENTITY treehead.list.label          "Senarai">
+<!ENTITY windowClose.key              "w">
 
-
-
-
-
+<!ENTITY button.cancel.label          "Batal">
+<!ENTITY button.cancel.accesskey      "B">
+<!ENTITY button.ok.label              "Simpan Perubahan">
+<!ENTITY button.ok.accesskey          "S">
