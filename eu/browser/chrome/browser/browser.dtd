@@ -280,8 +280,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fitxategia"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.label             "Edukiontzi-fitxa berria">
+<!ENTITY newUserContext.accesskey         "E">
 <!ENTITY newNavigatorCmd.label        "Leiho berria">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "L">
