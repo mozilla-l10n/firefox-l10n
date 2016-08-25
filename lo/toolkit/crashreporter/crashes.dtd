@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY crashes.title              "ສົ່ງລາຍງານຂໍ້ຜິດພາດ">
-
-
-
+<!ENTITY id.heading                 "ID ຂອງລາຍງານ">
+<!ENTITY date.heading               "ວັນທີ່ສົ່ງລາຍງານ">
+<!ENTITY noReports.label            "ຍັງບໍ່ເຄີຍສົ່ງລາຍງານຂໍ້ຜິດພາດຈັກເທື່ອ.">
 
 
 

@@ -103,7 +103,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
 <!ENTITY aboutSupport.safeModeTitle "ລອງໃຊ້ໂຫມດປອດໄພ">
-
+<!ENTITY aboutSupport.restartInSafeMode.label "Restart ແລະ ປິດການໃຊ້ງານ Add-ons">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "ຄຸນລັກສະນະ">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "ການວິນິດໄສ">
