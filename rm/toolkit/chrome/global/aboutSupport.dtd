@@ -54,6 +54,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plug-ins activads">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuraziun dal build">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilisaziun da la capacitad da memorisar">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
@@ -88,6 +89,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafica">
 
+
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC incremental">
 
@@ -108,3 +110,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Empruvar il modus segirà">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reaviar cun supplements deactivads…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Funcziuns">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostica">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Protocol d'errurs">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">

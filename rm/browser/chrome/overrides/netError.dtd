@@ -37,6 +37,12 @@
   <li>Controllescha sche la datoteca è vegnida renumnada, stizzada u spustada.</li>
 </ul>">
 
+<!ENTITY fileAccessDenied.title "Refusà l'access a la datoteca">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Forsa è ella stizzada, spustada u che ti n'es betg autorisà per l'access.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Oh Dieu!">
 <!ENTITY generic.longDesc "<p>&brandShortName; na po betg chargiar questa pagina per tscherts motivs.</p>">
