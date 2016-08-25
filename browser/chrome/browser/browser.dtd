@@ -279,8 +279,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Faele"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "Thebe ya Seduti e Ntšha">
-<!ENTITY newUserContext.accesskey         "T">
+
+
 <!ENTITY newNavigatorCmd.label        "Window e Ntšha">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "W">
