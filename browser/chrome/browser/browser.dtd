@@ -161,10 +161,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "s">
 <!ENTITY shareVideo.label "Cundivider quest video">
 <!ENTITY shareVideo.accesskey "s">
+<!ENTITY feedsMenu2.label "Abunar questa pagina">
 <!ENTITY subscribeToPageMenupopup.label "Abunar questa pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abunar questa pagina…">
 <!ENTITY addCurPagesCmd.label "Agiuntar segnapaginas per tut ils tabs…">
 <!ENTITY showAllBookmarks2.label "Mussar tut ils segnapaginas">
+<!ENTITY recentBookmarks.label "Tschernì dacurt sco segnapagina">
+<!ENTITY otherBookmarksCmd.label "Auters segnapaginas">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mussar dapli segnapaginas">
 
 <!ENTITY backCmd.label                "Enavos">
@@ -219,6 +222,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Segnapaginas">
+<!ENTITY bookmarksMenuButton.other.label "Auters segnapaginas">
 <!ENTITY viewBookmarksSidebar2.label        "Mussar la trav laterala da segnapaginas">
 <!ENTITY viewBookmarksToolbar.label         "Mussar la trav d'utensils da segnapaginas">
 
@@ -335,9 +339,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "Nagins tabs sincronisads… anc!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Vuls ti vesair qua tes tabs dad auters apparats?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferenzas da la sincronisaziun">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "S'annunziar per vesair ina glista dals tabs da tes auters apparats.">
 <!ENTITY appMenuRemoteTabs.signin.label "S'annunziar tar Sync">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Mussar la trav laterala dals tabs sincronisads">
 
 <!ENTITY customizeMenu.addToToolbar.label "Agiuntar a la trav d'utensils">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -444,6 +451,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Avrir il frame en ina nova fanestra">
 <!ENTITY openFrameCmd.accesskey       "f">
+<!ENTITY openLinkCmdInContainerTab.label "Avrir la colliaziun en in nov tab da container">
+<!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "Mussar mo quest frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "M">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -679,6 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Ulteriuras infurmaziuns">
 
+<!ENTITY identity.removeCertException.label "Allontanar l'excepziun">
 
 <!ENTITY identity.moreInfoLinkText2 "Mussar detagls">
 
@@ -692,9 +702,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "Tabs sincronisads">
 
+<!ENTITY syncedTabs.sidebar.label              "Tabs sincronisads">
+<!ENTITY syncedTabs.sidebar.noclients.label    "T'annunzia era sin tes auters apparats tar Firefox per vesair qua lur tabs.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Nagins tabs sincronisads… anc!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Vuls ti vesair qua tes tabs dad auters apparats?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "T'annunzia per vesair ina glista dals tabs da tes auters apparats.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Nagins tabs averts">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Avrir las preferenzas da &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
+<!ENTITY syncedTabs.context.open.label                       "Avrir">
+<!ENTITY syncedTabs.context.open.accesskey                   "A">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Avrir en in nov tab">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "v">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Avrir en ina nova fanestra">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Avrir en ina nova fanestra privata">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Agiuntar in segnapagina per quest tab…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "s">
+<!ENTITY syncedTabs.context.copy.label                       "Copiar">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
