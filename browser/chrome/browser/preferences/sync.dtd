@@ -85,8 +85,8 @@ both, to better adapt this sentence to their language.
 
 
 
-
-
+<!ENTITY signedOut.accountBox.create  "Cipta Akaun">
+<!ENTITY signedOut.accountBox.signin  "Daftar Masuk">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
