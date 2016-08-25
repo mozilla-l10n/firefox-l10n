@@ -11,6 +11,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Retschaiver resultats ord ils segnapaginas e la cronologia cura che ti tschertgas.">
 <!ENTITY firstrun_data_title "Datas">
 <!ENTITY firstrun_data_message "Pli paucas datas, pli grond respargn">
+<!ENTITY firstrun_data_subtext2 "Deactivar maletgs per consumar main datas per mintga pagina che ti visitas.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, adina cun tai">
 <!ENTITY firstrun_sync_subtext "Sincronisescha tes tabs, tes pleds-clav e dapli – nua ch\&apos;i saja.">
@@ -221,6 +222,7 @@
 <!ENTITY pref_tap_to_load_images_data "Mo via WLAN">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloccà">
 
+<!ENTITY pref_show_web_fonts "Mussar scrittiras dal web">
 
 <!ENTITY pref_tracking_protection_summary3 "Activà en il modus privat">
 <!ENTITY pref_donottrack_title "Betg suandar mes fastizs">
