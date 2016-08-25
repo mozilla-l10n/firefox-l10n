@@ -9,7 +9,7 @@
 <!ENTITY importFromUnix.label           "从下列来源导入首选项、书签、历史记录、密码以及其他数据：">
 <!ENTITY importFromBookmarks.label      "导入书签，从：">
 
-<!ENTITY importFromIE.label             "微软 Internet Explorer">
+<!ENTITY importFromIE.label             "微软 IE 浏览器">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
