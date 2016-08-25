@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "L">
 <!ENTITY  unpinTab.label                     "Lås opp fane">
 <!ENTITY  unpinTab.accesskey                 "o">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Send fane til enhet">
+<!ENTITY  sendTabToDevice.accesskey          "e">
+<!ENTITY  sendPageToDevice.label             "Send sida til enhet">
+<!ENTITY  sendPageToDevice.accesskey         "e">
+<!ENTITY  sendLinkToDevice.label             "Send lenke til enhet">
+<!ENTITY  sendLinkToDevice.accesskey         "e">
 <!ENTITY  moveToNewWindow.label              "Flytt til et nytt vindu">
 <!ENTITY  moveToNewWindow.accesskey          "t">
 <!ENTITY  bookmarkAllTabs.label              "Bokmerk alle faner …">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Vis alle faner">
 <!ENTITY showAllTabsCmd.accesskey "V">
-
+<!ENTITY toggleReaderMode.key "L">
 
 <!ENTITY fxaSignIn.label "Logg inn på &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Åpne &syncBrand.shortName.label;-innstillinger">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "har kontroll over musepekeren din. Trykk Esc for å ta tilbake kontrollen.">
+<!ENTITY pointerlockWarning.generic.label "Dette dokumentet har kontroll over musepekeren din. Trykk på Esc for å ta tilbake kontrollen.">
 
 <!ENTITY closeWindow.label "Lukk vindu">
 <!ENTITY closeWindow.accesskey "L">
@@ -280,8 +280,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fil"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "Ny container-fane">
-<!ENTITY newUserContext.accesskey         "c">
+<!ENTITY newUserContext.label             "Ny innholdsfane">
+<!ENTITY newUserContext.accesskey         "i">
 <!ENTITY newNavigatorCmd.label        "Nytt vindu">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "r">
 <!ENTITY openFrameCmd.label           "Åpne ramme i nytt vindu">
 <!ENTITY openFrameCmd.accesskey       "Å">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Åpne lenke i ny innholdsfane">
+<!ENTITY openLinkCmdInContainerTab.accesskey "h">
 <!ENTITY showOnlyThisFrameCmd.label     "Vis bare denne rammen">
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "L">
 
 <!ENTITY editBookmark.done.label                     "Ferdig">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Sikker tilkobling">
 <!ENTITY identity.connectionNotSecure "Tilkoblingen er ikke sikker">
