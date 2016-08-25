@@ -17,9 +17,9 @@
 
 
 
+<!ENTITY projectMenu_remove_label "Buang Projek">
 
-
-
+<!ENTITY projectMenu_showPrefs_label "Keutamaan">
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "Keutamaan Peranti">
 
 
 
@@ -62,11 +62,11 @@
 <!-- toggle sidebar -->
 <!-- zoom -->
 
+<!ENTITY key_zoomout "-">
 
 
 
-
-
+<!ENTITY projectPanel_tabs "Tab">
 
 
 
@@ -77,11 +77,13 @@
 
 <!-- Lense -->
 
-
+<!ENTITY details_valid_header "sah">
+<!ENTITY details_warning_header "amaran">
+<!ENTITY details_error_header "ralat">
 <!ENTITY details_description "Huraian">
 <!ENTITY details_location "Lokasi">
 
-
+<!ENTITY details_removeProject_button "Buang Projek">
 
 <!-- New App -->
 
@@ -96,6 +98,10 @@
 <!ENTITY addons_aboutaddons "Buka Pengurus Add-on ">
 <!-- Prefs -->
 
+<!ENTITY prefs_title "Keutamaan">
+
+<!ENTITY prefs_general_title "Umum">
+<!ENTITY prefs_restore "Pulihkan kepada lalai">
 
 
 
@@ -105,23 +111,21 @@
 
 
 
+<!ENTITY prefs_options_tabsize "Saiz tab">
 
-
-
-
-
+<!ENTITY prefs_options_expandtab_tooltip "Gunakan ruang dan bukannya aksara tab">
 
 <!ENTITY prefs_options_detectindentation_tooltip "Mengandai berasaskan inden pada konteks sumber">
-
+<!ENTITY prefs_options_autocomplete "Autolengkap">
 
 <!ENTITY prefs_options_autoclosebrackets "Auto tutup pendakap">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Menyelitkan tutup pendakap secara automatik">
-
+<!ENTITY prefs_options_keybindings "Keybindings">
 <!ENTITY prefs_options_keybindings_default "Lalai">
 
 
 <!-- Permissions Table -->
-
+<!ENTITY permissionstable_name_header "Nama">
 <!-- Runtime Details -->
 
 
@@ -131,16 +135,20 @@
 
 <!-- Device Preferences and Settings -->
 
-
+<!ENTITY device_typeboolean "Boolean">
+<!ENTITY device_typenumber "Integer">
+<!ENTITY device_typestring "Rentetan">
 <!ENTITY device_typeobject "Objek">
-
+<!ENTITY device_typenone "Pilih jenis yang">
 <!-- Device Preferences -->
 
+<!ENTITY devicepreference_title "Keutamaan Peranti">
 
 
+<!ENTITY devicepreference_newtext "Keutamaan nilai">
 
 <!-- Device Settings -->
-
+<!ENTITY devicesetting_search "Tetapan carian">
 
 
 
@@ -162,11 +170,11 @@
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
-
-
+<!ENTITY simulator_reset "Pulihkan kepada lalai">
+<!ENTITY simulator_name "Nama">
 
 <!ENTITY simulator_version "Versi">
-
+<!ENTITY simulator_profile "Profil">
 
 <!ENTITY simulator_device "Peranti">
 
