@@ -87,7 +87,7 @@
   <li>Contacta al administrador de tu red para asegurarte de que el servidor proxy está funcionando.</li>
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "Imposible encontrar el servidor proxy">
+<!ENTITY proxyResolveFailure.title "No se pudo encontrar el servidor proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul>
   <li>Revisa los ajustes del servidor proxy para asegurarte de que son correctos.</li>
   <li>Asegúrate de que el computador tiene una conexión de red funcionando.</li>
