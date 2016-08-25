@@ -1,10 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  trackingProtectionHeader.label       "Gunakan Pelindungan Penjejak">
 <!ENTITY  trackingProtectionAlways.label       "Sentiasa">
 <!ENTITY  trackingProtectionAlways.accesskey   "a">
-
-
+<!ENTITY  trackingProtectionPrivate.label      "Cuma didalam tertingkap persendirian">
+<!ENTITY  trackingProtectionPrivate.accesskey  "m">
 <!ENTITY  trackingProtectionNever.label        "Tidak sekali">
 <!ENTITY  trackingProtectionNever.accesskey    "T">
 <!ENTITY  trackingProtectionLearnMore.label    "Ketahui Lanjut">
@@ -12,11 +14,11 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "e">
 
 <!ENTITY tracking.label                 "Penjejakan">
-
-
+<!ENTITY trackingProtectionPBM5.label         "Guna Perlindungan Penjejakan dalam Tetingkap Persendirian">
+<!ENTITY trackingProtectionPBM5.accesskey     "s">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ketahui Lanjut">
-
-
+<!ENTITY changeBlockList.label          "Tukar Senarai Halangan">
+<!ENTITY changeBlockList.accesskey      "T">
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
