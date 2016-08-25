@@ -280,8 +280,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Marandurenda"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "Guerekoha tendayke pyahu">
-<!ENTITY newUserContext.accesskey         "C">
+
+
 <!ENTITY newNavigatorCmd.label        "Ovetã pyahu">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
