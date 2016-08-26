@@ -24,7 +24,7 @@ their language. -->
 <!ENTITY searchreset.link.pageInfo2       "siden Indstillinger">
 
 <!ENTITY searchreset.noChangeButton        "Nej">
-<!ENTITY searchreset.noChangeButton.access "L">
+<!ENTITY searchreset.noChangeButton.access "N">
 
 <!ENTITY searchreset.changeEngineButton        "Skift søgetjeneste">
 <!ENTITY searchreset.changeEngineButton.access "S">
