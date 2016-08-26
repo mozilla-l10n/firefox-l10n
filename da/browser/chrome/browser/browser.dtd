@@ -569,8 +569,8 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. Og det hed så "Latterlig hastighed" i den danske oversættelse af filmen -->
-<!ENTITY mediaPlaybackRate200x.label "Latterlig (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "t">
+<!ENTITY mediaPlaybackRate200x2.label "Latterlig (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "t">
 <!ENTITY mediaLoop.label             "Sløjfe">
 <!ENTITY mediaLoop.accesskey         "j">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and

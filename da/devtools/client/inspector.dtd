@@ -4,35 +4,35 @@
 <!ENTITY inspectorHTMLEdit.label       "Rediger som HTML">
 <!ENTITY inspectorHTMLEdit.accesskey   "R">
 
-<!-- LOCALIZATION NOTE (inspectorHTMLCopyInner.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorCopyInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
-<!ENTITY inspectorHTMLCopyInner.label       "Kopier indre HTML">
-<!ENTITY inspectorHTMLCopyInner.accesskey   "i">
+<!ENTITY inspectorCopyInnerHTML.label       "Indre HTML">
+<!ENTITY inspectorCopyInnerHTML.accesskey   "I">
 
-<!-- LOCALIZATION NOTE (inspectorHTMLCopyOuter.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorCopyOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
-<!ENTITY inspectorHTMLCopyOuter.label       "Kopier ydre HTML">
-<!ENTITY inspectorHTMLCopyOuter.accesskey   "y">
+<!ENTITY inspectorCopyOuterHTML.label       "Ydre HTML">
+<!ENTITY inspectorCopyOuterHTML.accesskey   "Y">
 
-<!-- LOCALIZATION NOTE (inspectorCopyUniqueSelector.label): This is the label
+<!-- LOCALIZATION NOTE (inspectorCopyCSSSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
-<!ENTITY inspectorCopyUniqueSelector.label       "Kopier unik selector">
-<!ENTITY inspectorCopyUniqueSelector.accesskey   "u">
+<!ENTITY inspectorCopyCSSSelector.label "CSS-selektor">
+<!ENTITY inspectorCopyCSSSelector.accesskey "S">
 
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteOuter.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorPasteOuterHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
-<!ENTITY inspectorHTMLPasteOuter.label      "Indsæt ydre HTML">
-<!ENTITY inspectorHTMLPasteOuter.accesskey  "æ">
+<!ENTITY inspectorPasteOuterHTML.label      "Ydre HTML">
+<!ENTITY inspectorPasteOuterHTML.accesskey  "d">
 
-<!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
+<!-- LOCALIZATION NOTE (inspectorPasteInnerHTML.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
-<!ENTITY inspectorHTMLPasteInner.label      "Indsæt indre HTML">
-<!ENTITY inspectorHTMLPasteInner.accesskey  "N">
+<!ENTITY inspectorPasteInnerHTML.label      "Indre HTML">
+<!ENTITY inspectorPasteInnerHTML.accesskey  "n">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
@@ -79,14 +79,15 @@
      current node -->
 <!ENTITY inspectorHTMLDelete.label          "Slet node">
 <!ENTITY inspectorHTMLDelete.accesskey      "S">
-<!-- LOCALIZATION NOTE (inspectorAttributeSubmenu.label): This is the label
+
+<!-- LOCALIZATION NOTE (inspectorAttributesSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other
      attribute items, which allow to:
      - add new attribute
      - edit attribute
      - remove attribute -->
-<!ENTITY inspectorAttributeSubmenu.label      "Attribut">
-<!ENTITY inspectorAttributeSubmenu.accesskey  "A">
+<!ENTITY inspectorAttributesSubmenu.label      "Attributter">
+<!ENTITY inspectorAttributesSubmenu.accesskey  "A">
 
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
@@ -108,22 +109,16 @@
 
 <!ENTITY inspector.selectButton.tooltip     "Vælg element med musen">
 
-<!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
-     the placeholder in inspector search box -->
-<!ENTITY inspectorSearchHTML.label2          "Søg med CSS-selektorer">
-<!ENTITY inspectorSearchHTML.key            "H">
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will
+     be shown as the placeholder in the future, once the inspector search box
+<!ENTITY inspectorSearchHTML.label3 "Søg i HTML">
 
-<!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
+<!-- LOCALIZATION NOTE (inspectorImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the URL embedding the image data encoded in Base 64 (what we name
      here Image Data URL). For more information:
      https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
-<!ENTITY inspectorCopyImageDataUri.label       "Kopier billedets data-URL">
-
-<!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will
-     be shown as the placeholder in the future, once the inspector search box
-     supports the full text HTML search in Bug 835896. -->
-<!ENTITY inspectorSearchHTML.label3 "Søg i HTML">
+<!ENTITY inspectorImageDataUri.label       "Billedets data-URL">
 
 <!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
      shown in the inspector contextual-menu for the item that lets users see
@@ -162,3 +157,23 @@
      DOM (as children of the currently selected element). -->
 <!ENTITY inspectorAddNode.label       "Opret ny node">
 <!ENTITY inspectorAddNode.accesskey   "O">
+
+<!-- LOCALIZATION NOTE (inspectorCopyHTMLSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     copy items, which allow to:
+     - Copy Inner HTML
+     - Copy Outer HTML
+     - Copy Unique selector
+     - Copy Image data URI -->
+<!ENTITY inspectorCopyHTMLSubmenu.label      "Kopier">
+
+<!-- LOCALIZATION NOTE (inspectorPasteHTMLSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     paste items, which allow to:
+     - Paste Inner HTML
+     - Paste Outer HTML
+     - Before
+     - After
+     - As First Child
+     - As Last Child -->
+<!ENTITY inspectorPasteHTMLSubmenu.label      "Indsæt">

@@ -165,8 +165,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blokeret grundet indholdssikkerhedspolitik">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde da den har en indholdssikkerhedspolitik, der forbyder dette.</p>">
 
-<!ENTITY corruptedContentError.title "Fejlbehæftet indhold">
-<!ENTITY corruptedContentError.longDesc "<p>Siden, du forsøger at se, kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Fejlbehæftet indhold">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Siden, du forsøger at se, kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Tilføj undtagelse…">
@@ -190,6 +190,10 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> bruger forældet sikkerheds-teknologi, der er sårbar overfor angreb. En angriber ville nemt kunne afsløre information, som du troede var sikker.">
 <!ENTITY weakCryptoAdvanced.override "USIKKERT: Forsøg at indlæse <span class='hostname'></span>, selvom den bruger forældet sikkerheds-teknologi">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
+     please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>Det er ikke muligt at oprette en sikker forbindelse til <span id='wrongSystemTime_URL'/>, fordi din computers ur lader til at være forkert indstillet.</p> <p>Din computer mener, at det er <span id='wrongSystemTime_systemDate'/>, men det burde være <span id='wrongSystemTime_actualDate'/>. Indstil dato og klokkeslæt korrekt for at løse dette problem.</p>">
+
 <!ENTITY certerror.pagetitle1  "Usikker forbindelse">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Webstedet bruger  HTTP
 Strict Transport Security (HSTS) til at angive at &brandShortName; kun
@@ -201,3 +205,6 @@ tilføje en undtagelse for dette certifikat.">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> bruger forældet sikkerheds-teknologi, der er sårbar overfor angreb. En angriber kan derfor nemt få adgang til information, som du troede var sikker. Webstedets administrator er nødt til at løse problemerne på serveren, før du kan besøge webstedet.</p><p>Fejlkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY prefReset.longDesc "Det ser ud til, at dine indstillinger for netværkssikkerhed forårsager dette. Vil du gendanne til standard-indstillinger?">
+<!ENTITY prefReset.label "Gendan indstillinger til standard">
