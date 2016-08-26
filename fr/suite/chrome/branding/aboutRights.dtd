@@ -39,9 +39,9 @@
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "&brandFullName; met à disposition des services facultatifs (« Services »), comme la suggestion et la mise à jour de modules complémentaires ou la fonctionnalité de blocage de sites malveillants, qui sont mis à votre disposition dans cette version binaire de &brandShortName; comme décrit ci-dessous. Ces services sont activés par défaut. Si vous ne voulez pas utiliser Les Services ou si vous trouvez que les modalités ci-dessous ne sont pas acceptables, les instructions pour désactiver un service ou une fonctionnalité en particulier sont disponibles ">
-<!ENTITY rights2.webservices-b "ici">
-<!ENTITY rights2.webservices-c ". Les autres fonctionnalités ou services peuvent être désactivés depuis les préférences de l’application.">
+<!ENTITY rights3.webservices-a "&brandFullName; met à disposition des services facultatifs (« Services »), comme la suggestion et la mise à jour de modules complémentaires, la fonctionnalité de blocage de sites malveillants, ou la Navigation géolocalisée, qui sont mis à votre disposition dans cette version binaire de &brandShortName; comme décrit ci-dessous. Ces services sont activés par défaut. Si vous ne voulez pas utiliser Les Services ou si vous trouvez que les modalités ci-dessous ne sont pas acceptables, les instructions pour désactiver un service ou une fonctionnalité en particulier sont disponibles ">
+<!ENTITY rights3.webservices-b "ici">
+<!ENTITY rights3.webservices-c ". Les autres fonctionnalités ou services peuvent être désactivés depuis les préférences de l’application.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Services de modules complémentaires&#x00A0;: ">
