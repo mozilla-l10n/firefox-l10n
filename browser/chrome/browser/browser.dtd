@@ -182,7 +182,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Підписатися на цю сторінку">
 <!ENTITY subscribeToPageMenuitem.label "Підписатися на цю сторінку…">
 <!ENTITY addCurPagesCmd.label "Закласти всі вкладки…">
-<!ENTITY showAllBookmarks2.label "Показати всі вкладки">
+<!ENTITY showAllBookmarks2.label "Показати всі закладки">
 <!ENTITY recentBookmarks.label "Недавно закладені">
 <!ENTITY otherBookmarksCmd.label "Інші закладки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показати інші закладки">
