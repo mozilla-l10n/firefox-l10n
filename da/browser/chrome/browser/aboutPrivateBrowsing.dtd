@@ -18,7 +18,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "gemmer">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " dine:">
-<!ENTITY aboutPrivateBrowsing.info.downloads             "filhentninger">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "hentede filer">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "bogmærker">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privat browsing ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "sikrer ikke din anonymitet">

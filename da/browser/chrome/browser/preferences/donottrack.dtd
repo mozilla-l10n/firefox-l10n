@@ -4,7 +4,7 @@
 
 <!ENTITY window.title                 "Spor mig ikke">
 <!ENTITY window.width                 "40em">
-<!ENTITY window.height                "8em">
+<!ENTITY window.height                "10em">
 
 <!ENTITY doNotTrackCheckbox2.label    "Brug altid Spor mig ikke">
 <!ENTITY doNotTrackCheckbox2.accesskey "B">
