@@ -113,7 +113,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTime "<p>การเชื่อมต่อปลอดภัยไปยัง <span id='wrongSystemTime_URL'/> เป็นไปไม่ได้เนื่องจากนาฬิกาของคุณดูเหมือนจะแสดงเวลาผิด</p> <p>คอมพิวเตอร์ของคุณคิดว่าคือ <span id='wrongSystemTime_systemDate'/> ขณะที่ควรจะเป็น <span id='wrongSystemTime_actualDate'/> เพื่อแก้ปัญหานี้ เปลี่ยนการตั้งค่าวันที่และเวลาของคุณเพื่อให้ตรงกับเวลาที่ถูกต้อง</p>">
 
 <!ENTITY certerror.pagetitle1  "การเชื่อมต่อไม่ปลอดภัย">
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ไซต์นี้ใช้ HTTP Strict Transport Security (HSTS) เพื่อระบุให้ &brandShortName; นั้นเชื่อมต่ออย่างนิรภัยเท่านั้น ผลที่ตามมาคือจะไม่สามารถเพิ่มข้อยกเว้นให้ใบรับรองนี้ได้">
 <!ENTITY certerror.copyToClipboard.label "คัดลอกข้อความไปยังคลิปบอร์ด">
 
 <!ENTITY inadequateSecurityError.title "การเชื่อมต่อของคุณไม่ปลอดภัย">
