@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Sac'hadennoù neudennoù">
 
+<!ENTITY aboutTelemetry.scalarsSection "  Skeuliadoù">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Tellunioù">
 
