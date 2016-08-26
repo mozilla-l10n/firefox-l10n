@@ -28,9 +28,9 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Insérer">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "Lien…">
-<!ENTITY insertLinkCmd.accesskey "L">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd2.label "Lien…">
+<!ENTITY insertLinkCmd2.accesskey "L">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Ancre…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Image…">
