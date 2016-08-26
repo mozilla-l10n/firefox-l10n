@@ -23,7 +23,7 @@
 <!ENTITY homeButton.label               "Inicio">
 <!ENTITY homeButton.tooltip             "Ir a la página principal de la Ayuda">
 <!ENTITY printButton.label              "Imprimir">
-<!ENTITY printButton.tooltip            "Imprime esta página">
+<!ENTITY printButton.tooltip            "Imprimir esta página">
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Buscar">
