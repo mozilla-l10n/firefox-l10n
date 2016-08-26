@@ -53,7 +53,7 @@
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "P">
 <!ENTITY updates.resetUpdatesToManual.label          "Przestaw wszystkie dodatki na ręczną aktualizację">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "P">
-<!ENTITY updates.updating.label               "Aktualizacja dodatków">
+<!ENTITY updates.updating.label "Aktualizowanie dodatków…">
 <!ENTITY updates.installed.label "Dodatki zostały uaktualnione.">
 <!ENTITY updates.downloaded.label             "Pobrano aktualizacje dodatków.">
 <!ENTITY updates.restart.label                "Uruchom ponownie, by dokończyć instalację">
