@@ -58,6 +58,10 @@
 <!ENTITY  finishedBackground.name         "עדכון:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "העדכון יותקן בהפעלה הבאה של &brandShortName;. תוכל להפעיל מחדש את &brandShortName; כעת, או להמשיך לעבוד ולהפעיל מחדש מאוחר יותר.">
+<!ENTITY  finishedBackground.moreElevated "עדכון זה דורש הרשאות מנהל. העדכון
+                                           יותקן בפעם הבאה ש־&brandShortName; יופעל. ניתן להפעיל מחדש
+                                           את &brandShortName; כעת, להמשיך בעבודה ולהפעיל מחדש מאוחר יותר, או לסרב
+                                           לעדכון זה.">
 
 <!ENTITY  update.details.label            "פרטים">
 <!ENTITY  update.installedOn.label        "הותקן בתאריך:">

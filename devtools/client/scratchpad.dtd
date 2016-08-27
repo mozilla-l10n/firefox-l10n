@@ -60,6 +60,7 @@
 <!ENTITY highlightTrailingSpace.label     "הדגשת רווחים עוקבים">
 
 <!ENTITY largerFont.label             "גופן גדול יותר">
+<!ENTITY largerFont.commandkey        "+">
  <!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "גופן קטן יותר">

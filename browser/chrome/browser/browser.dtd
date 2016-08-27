@@ -41,6 +41,8 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "ביטול נעיצה של לשונית">
 <!ENTITY  unpinTab.accesskey                 "ב">
 <!ENTITY  sendTabToDevice.label              "שליחת לשונית להתקן">
+<!ENTITY  sendPageToDevice.label             "שליחת דף להתקן">
+<!ENTITY  sendLinkToDevice.label             "שליחת קישור להתקן">
 <!ENTITY  moveToNewWindow.label              "העבר לחלון חדש">
 <!ENTITY  moveToNewWindow.accesskey          "ה">
 <!ENTITY  bookmarkAllTabs.label              "צור סימנייה לכל הלשוניות…">
