@@ -61,11 +61,13 @@
 
 <!ENTITY largerFont.label             "גופן גדול יותר">
 <!ENTITY largerFont.commandkey        "+">
- <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "גופן קטן יותר">
+<!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "גודל רגיל">
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "עריכה">
 <!ENTITY editMenu.accesskey           "ע">
@@ -141,3 +143,4 @@
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
+<!ENTITY evalFunction.key "e">

@@ -108,6 +108,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "הצג את כל הלשוניות">
 <!ENTITY showAllTabsCmd.accesskey "כ">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "התחברות אל &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "פתיחת ההעדפות של &syncBrand.shortName.label;">
