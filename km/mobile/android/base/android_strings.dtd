@@ -14,19 +14,22 @@
 <!ENTITY firstrun_data_subtext2 "បិទ​រូបភាព​នៅ​គ្រប់​វេបសាយ​ដែល​អ្នក​ចូល​មើល ដើម្បី​សន្សំសំចៃ​ទិន្នន័យ​របស់​អ្នក។">
 <!ENTITY firstrun_sync_title "ធ្វើ​សមកាលកម្ម">
 <!ENTITY firstrun_sync_message "&brandShortName;, តែងតែ​នៅ​ក្បែរ​អ្នក​ជានិច្ច">
-
-
-
+<!ENTITY firstrun_sync_subtext "ធ្វើ​សមកាលកម្ម​ផ្ទាំង ពាក្យ​សម្ងាត់ និងផ្សេងៗ​ទៀត​ នៅ​គ្រប់​កន្លែង​ដែល​អ្នក​ប្រើ។">
+<!ENTITY firstrun_signin_message "ឲ្យ​តែ​មាន​អ៊ិនធឺណិត​អាច​ប្រើ​បាន​ភ្លាម">
+<!ENTITY firstrun_signin_button "ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម">
 <!ENTITY  onboard_start_button_browser "ចាប់​ផ្ដើម​រុករក">
 <!ENTITY firstrun_button_notnow "ពេល​ក្រោយ">
 <!ENTITY firstrun_button_next "បន្ទាប់">
 
 <!ENTITY firstrun_tabqueue_title "តំណ">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "បើកដំណើរ​ការផ្ទាំងជា​ជួរ">
+<!ENTITY firstrun_tabqueue_subtext_off "រក្សា​តំណ​សម្រាប់​ពេល​ក្រោយ​នៅ​ក្នុង &brandShortName; នៅ​ពេល​អ្នក​ចង់​ចុច​វា​នៅ​ក្នុង​កម្មវិធី​ផ្សេង​ទៀត។">
 
+<!ENTITY firstrun_tabqueue_message_on "ជោគជ័យ!">
+<!ENTITY firstrun_tabqueue_subtext_on "អ្នក​អាចបិទ​មុខងារ​នេះ​បាន​គ្រប់​ពេល នៅ​ក្នុង &settings; រួច &pref_category_general;។">
 
-
-
+<!ENTITY firstrun_readerview_title "អត្ថបទ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
