@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  brandShorterName      "Firefox">
-<!ENTITY  brandShortName        "فائرفاکس">
-<!ENTITY  brandFullName         "موزیلا فایرفاکس">
+<!ENTITY  brandShortName        "Firefox">
+<!ENTITY  brandFullName         "Mozilla Firefox">
 <!ENTITY  vendorShortName       "موزیلا">
 <!ENTITY  trademarkInfo.part1   "Firefox اور Firefox کی لوگو Mozilla Foundation کے تجارتی نشان ہیں۔">

@@ -55,7 +55,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 
 
-#define firefox_customize تخصیص کریں
+#define firefox_customize Firefox کی تخصیص کریں
 
 
 # LOCALIZATION NOTE (firefox_community):
