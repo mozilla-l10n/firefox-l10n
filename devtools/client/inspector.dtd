@@ -5,3 +5,4 @@
 <!ENTITY inspectorAddNode.label "Crear nodo nuevo">
 <!ENTITY inspectorAddNode.accesskey "n">
 <!ENTITY inspectorEyeDropper.label "Capturar un color de la página">
+<!ENTITY inspectorBreadcrumbsGroup "Migas de pan">

@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY showAllFonts "Mostrar todas las tipografías usadas en esta página">
+<!ENTITY showAllFontsUsed "Mostrar todas las tipografías usadas">
 <!ENTITY usedAs "Usada como: ">
 <!ENTITY system "sistema">
 <!ENTITY remote "Eliminar">

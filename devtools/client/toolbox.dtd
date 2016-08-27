@@ -27,7 +27,7 @@
 <!ENTITY options.enableChrome.label5 "Activar cajas herr. depur. chrome del navegador y de complementos">
 <!ENTITY options.enableChrome.tooltip3 "Activar esta opción le permitirá usar varias herramientas de desarrollador en el contexto del navegador (a través de Herramientas > Desarrollador web > Caja de herramientas del navegador) y depurar complementos desde el administrador de complementos">
 <!ENTITY options.enableRemote.label3 "Activar depuración remota">
-<!ENTITY options.enableRemote.tooltip "Activar esta opción permitirá a las herramientas de desarrollador depurar instancias remotas de Firefox, como Firefox OS">
+<!ENTITY options.enableRemote.tooltip2 "Activar esta opción permitirá a las herramientas de desarrollo depurar una instancia remota como Firefox OS">
 <!ENTITY options.enableWorkers.label "Activar depuración del worker (en desarrollo)">
 <!ENTITY options.enableWorkers.tooltip "Activar esta opción permitirá a las herramientas de desarrollo depurar los workers">
 <!ENTITY options.disableJavaScript.label "Desactivar JavaScript *">
@@ -36,7 +36,7 @@
 <!ENTITY options.disableHTTPCache.tooltip "Activar esta opción desactivará el caché HTTP en todas las pestañas que tengan abierta la caja de herramientas. Los Service Workers no se ven afectados por esta opción.">
 <!ENTITY options.enableServiceWorkersHTTP.label "Activar service workers bajo HTTP (si la caja de herramientas está abierta)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip "Activar esta opción permitirá funcionar a los service workers bajo HTTP en todas las pestañas que tengan abierta la caja de herramientas.">
-<!ENTITY options.selectDefaultTools.label "Herr. desarr. Firefox predeterminadas">
+<!ENTITY options.selectDefaultTools.label2 "Herramientas de desarrollo por defecto">
 <!ENTITY options.selectAdditionalTools.label "Herr. desarr. instaladas por complementos">
 <!ENTITY options.selectEnabledToolboxButtons.label "Botones en la caja de herramientas">
 <!ENTITY options.toolNotSupported.label "* No compatible con el elemento actual de la caja de herramientas">
