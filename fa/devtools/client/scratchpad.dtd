@@ -56,7 +56,7 @@
 
 
 
-
+<!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY largerFont.commandkey2       "="> 
 
@@ -73,18 +73,18 @@
 
 <!ENTITY run.label                    "اجرا کردن">
 <!ENTITY run.accesskey                "R">
-
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "وارسی">
 <!ENTITY inspect.accesskey            "و">
-
+<!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "نمایش">
 <!ENTITY display.accesskey            "ن">
-
+<!ENTITY display.key                  "l">
 
 <!ENTITY pprint.label                 "چاپ زیبا">
-
+<!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "P">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -93,8 +93,12 @@
   -  (browser).
   -->
 
+<!ENTITY environmentMenu.label        "محیط:">
+<!ENTITY environmentMenu.accesskey    "م">
 
 
+<!ENTITY contentContext.label         "محتوا">
+<!ENTITY contentContext.accesskey     "م">
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
   -  to content. This is a feature for browser and addon developers and only
@@ -108,8 +112,10 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 
-
-
+<!ENTITY helpMenu.label               "راهنما">
+<!ENTITY helpMenu.accesskey           "ر">
+<!ENTITY helpMenuWin.label            "راهنما">
+<!ENTITY helpMenuWin.accesskey        "ر">
 
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
