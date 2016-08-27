@@ -45,9 +45,10 @@ that require it.  -->
 <!ENTITY historySection.label         "Lịch sử">
 <!ENTITY dataSection.label            "Dữ liệu">
 
-
-
-
+<!ENTITY itemHistoryAndDownloads.label     "Lược sử duyệt web &amp; tải về">
+<!ENTITY itemHistoryAndDownloads.accesskey "d">
+<!ENTITY itemFormSearchHistory.label       "Lược sử biểu mẫu &amp; tìm kiếm">
+<!ENTITY itemFormSearchHistory.accesskey   "b">
 <!ENTITY itemCookies.label                 "Cookie">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Đệm">
