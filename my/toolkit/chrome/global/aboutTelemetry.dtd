@@ -52,6 +52,10 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Thread Hangs">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  
+  Scalars
+  ">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histograms">
 

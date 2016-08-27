@@ -1,0 +1,35 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutNetworking.title                 "ချိတ်ဆက်မှုအကြောင်း">
+<!ENTITY aboutNetworking.warning               "ဒီဟာသည် လုံးဝ စမ်းသပ်ဆဲဖြစ်ပါသည်။ အုပ်ချုပ်သူ၏ ထိန်းကွပ်မှုမပါပဲ အသုံးမပြုပါနှင့်။">
+<!ENTITY aboutNetworking.showNextTime          "ယခု သတိပေးချက်အား နောက်တစ်ခါတွင်ပါ">
+<!ENTITY aboutNetworking.ok                    "အိုကေ">
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
+<!ENTITY aboutNetworking.sockets               "Sockets">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.websockets            "WebSockets">
+<!ENTITY aboutNetworking.refresh               "ပြန်စ">
+<!ENTITY aboutNetworking.autoRefresh           "အလိုအလျောက် 3 စက္ကန့်တစ်ခါ ပြန်စပါ">
+<!ENTITY aboutNetworking.hostname              "လက်ခံအမည်">
+<!ENTITY aboutNetworking.port                  "ပေါ့">
+<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.ssl                   "SSL">
+<!ENTITY aboutNetworking.active                "ဖွင့်ထားသှ်">
+<!ENTITY aboutNetworking.idle                  "ငြိမ်နေသှ်">
+<!ENTITY aboutNetworking.host                  "လက်ခံ">
+<!ENTITY aboutNetworking.tcp                   "TCP">
+<!ENTITY aboutNetworking.sent                  "ပို့ပြီး">
+<!ENTITY aboutNetworking.received              "လက်ခံပြီး">
+<!ENTITY aboutNetworking.family                "မိသားစု">
+<!ENTITY aboutNetworking.addresses             "လိပ်စာများ">
+<!ENTITY aboutNetworking.expires               "အချိန်လွန်(စက္ကန့်များ)">
+<!ENTITY aboutNetworking.messagesSent          "စာတိုပို့ပြီး">
+<!ENTITY aboutNetworking.messagesReceived      "စာတိုလက်ခံရရှိပြီး">
+<!ENTITY aboutNetworking.bytesSent             "ပို့ပြီးဘိုက်ပ်">
+<!ENTITY aboutNetworking.bytesReceived         "လက်ခံရရှိသောဘိုက်ပ်">
+<!ENTITY aboutNetworking.dnsLookup             "DNS ကြည့်">
+<!ENTITY aboutNetworking.dnsLookupButton       "ဖြေရှင်းပါ">
+<!ENTITY aboutNetworking.dnsDomain             "ဒိုမိန်း">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">

@@ -4,6 +4,7 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_label "စီမံကိန်း">
 
 <!ENTITY runtimeMenu_disconnect_label "ချိတ်ဆက်ဖြုတ်">
 <!ENTITY runtimeMenu_takeScreenshot_label "မျက်နှာပြင်ရိုက်ချက်">
