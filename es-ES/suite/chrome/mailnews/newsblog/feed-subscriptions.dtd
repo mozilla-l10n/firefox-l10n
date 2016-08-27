@@ -22,8 +22,8 @@
 <!ENTITY autoTagPrefix.placeholder "Introduzca un prefijo de etiqueta">
 <!ENTITY button.addFeed.label "Añadir">
 <!ENTITY button.addFeed.accesskey "A">
-<!ENTITY button.editFeed.label "Actualizar">
-<!ENTITY button.editFeed.accesskey "u">
+<!ENTITY button.updateFeed.label "Actualizar">
+<!ENTITY button.updateFeed.accesskey "c">
 <!ENTITY button.removeFeed.label "Eliminar">
 <!ENTITY button.removeFeed.accesskey "E">
 <!ENTITY button.importOPML.label "Importar">
