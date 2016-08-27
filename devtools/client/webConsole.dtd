@@ -7,9 +7,14 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
+
+<!ENTITY window.title "Web əmr sətri">
+<!ENTITY browserConsole.title "Səyyah əmr sətri">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
+<!ENTITY openURL.label     "Keçidi Yeni Vərəqdə Aç">
+<!ENTITY openURL.accesskey "V">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
@@ -36,9 +41,9 @@
   -  console.error(). -->
 
 
+<!ENTITY btnConsoleErrors       "Xətalar">
 
-
-
+<!ENTITY btnConsoleWarnings     "Xəbərdarlıqlar">
 
 
 
@@ -47,9 +52,9 @@
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
 
+<!ENTITY btnServerErrors              "Xətalar">
 
-
-
+<!ENTITY btnServerWarnings            "Xəbərdarlıqlar">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
@@ -65,6 +70,7 @@
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.commandkey2   "">
