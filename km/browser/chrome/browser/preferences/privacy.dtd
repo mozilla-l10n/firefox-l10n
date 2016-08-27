@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "ទទួលយក​ខូគី​ពី​តំបន់​បណ្ដាញ">
 <!ENTITY  acceptCookies.accesskey       "ញ">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "ព្រម​ទទួល​ខូគី​ភាគី​ទីបី៖">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "ជានិច្ច">
 <!ENTITY  acceptThirdParty.never.label    "កុំ">
 <!ENTITY  acceptThirdParty.visited.label  "ពី​អ្វី​ដែល​ទស្សនា">
@@ -104,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "កំពុង​កំណត់…">
 <!ENTITY  clearOnCloseSettings.accesskey "ង">
 
+<!ENTITY  browserContainersHeader.label         "ផ្ទាំង​ឧបករណ៍​ផ្ទុក">
 
 
 
