@@ -17,11 +17,11 @@
 <!ENTITY accountManager.close.commandkey     "​">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "គ្មាន​គណនី​បាន​កំណត់​រចនាសម្ព័ន្ធ​នៅ​ឡើយ​ទេ">
-
-
-
-
-
+<!ENTITY accountManager.noAccount.description "ចុច​លើ​ប៊ូតុង &accountManager.newAccount.label; ដើម្បី​អនុញ្ញាត្តិ​ឲ្យ &brandShortName; ណែនាំាំ​អ្នក​ពី​ដំណើរការ​នៃ​ការ​កំណត់​រចនា​សម្ព័ន្ធ។">
+<!ENTITY account.autoSignOn.label     "ចូល​ពេល​ចាប់ផ្ដើម">
+<!ENTITY account.autoSignOn.accesskey "S">
+<!ENTITY account.connect.label        "តភ្ជាប់​">
+<!ENTITY account.connect.accesskey    "o">
 
 
 
