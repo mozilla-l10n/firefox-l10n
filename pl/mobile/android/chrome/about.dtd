@@ -7,7 +7,7 @@
 <!ENTITY aboutPage.telemetryMozillaLink "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd ", aby uczynić program &brandShortName; lepszym.">
 <!ENTITY aboutPage.checkForUpdates.link "Aktualizuj">
-<!ENTITY aboutPage.checkForUpdates.checking "Poszukiwanie aktualizacji">
+<!ENTITY aboutPage.checkForUpdates.checking "Poszukiwanie aktualizacji…">
 <!ENTITY aboutPage.checkForUpdates.none "Brak aktualizacji">
 <!ENTITY aboutPage.checkForUpdates.available2 "Pobierz aktualizację">
 <!ENTITY aboutPage.checkForUpdates.downloading "Pobieranie aktualizacji…">
