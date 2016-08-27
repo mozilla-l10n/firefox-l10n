@@ -130,6 +130,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; מונע מדף זה להיטען בצורה זו מאחר שהדף כולל מדיניות אבטחת תוכן שמונעת זאת.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "שגיאת תוכן פגום">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>לא ניתן להציג דף זה מכיון שאותרה שגיאה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי לדווח להם על בעיה זו.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "הוסף חריגה…">
@@ -155,6 +157,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>חיבור מאובטח אל <span id='wrongSystemTime_URL'/> אינו אפשרי מכיוון שנראה שהשעון שלך מוגדר על השעה הלא נכונה.</p> <p>המחשב שלך חושב שהשעה היא <span id='wrongSystemTime_systemDate'/>, בעוד שהיא אמורה להיות <span id='wrongSystemTime_actualDate'/>. לתיקון בעיה זו, יש לשנות את הגדרות התאריך והשעה כדי שיותאמו לשעה הנכונה.</p>">
 
 <!ENTITY certerror.pagetitle1  "חיבור בלתי מאובטח">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "אתר זה משתמש ב־HTTP
@@ -167,4 +170,5 @@ Strict Transport Security (HSTS) כדי לציין ש־&brandShortName; יוכל
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY prefReset.longDesc "נראה שהגדרות אבטחת הרשת שלך עשוי לגרום לכך. האם ברצונך לשחזר להגדרות ברירת מחדל?">
 <!ENTITY prefReset.label "שחזור הגדרות בררת המחדל">
