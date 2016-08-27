@@ -2,55 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY windowTitle "Firefox WebIDE">
 
 
 <!ENTITY runtimeMenu_disconnect_label "ချိတ်ဆက်ဖြုတ်">
-
-
-
 <!ENTITY runtimeMenu_takeScreenshot_label "မျက်နှာပြင်ရိုက်ချက်">
 
-
-
-
-
-
-
-
-
-
 <!ENTITY viewMenu_label "ရှုမြင်ချက်">
-
-
-
 <!ENTITY viewMenu_zoomin_label "ချဲ့ပါ">
-
 <!ENTITY viewMenu_zoomout_label "ချုံ့ပါ">
-
-
-
 
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -62,90 +22,39 @@
 <!-- toggle sidebar -->
 <!-- zoom -->
 
-
-
-
-
 <!ENTITY projectPanel_tabs "ခလုပ်ပြားများ">
 
-
-
-
-
-
-
-
 <!-- Lense -->
-
-
 <!ENTITY details_description "ဖေါ်ပြချက်">
 <!ENTITY details_location "တည်နေရာ">
-
-
 
 <!-- New App -->
 
 
-
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "ပိတ်">
+
 <!-- Addons -->
 
 <!-- Prefs -->
-
 <!ENTITY prefs_general_title "အထွေထွေ">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY prefs_options_keybindings_default "မူရင်းအခြေအနေ">
-
 
 <!-- Permissions Table -->
 
 <!-- Runtime Details -->
 
-
-
-
-
-
 <!-- Device Preferences and Settings -->
-
-
 <!ENTITY device_typeobject "အရာဝတ္ထု">
 
 <!-- Device Preferences -->
 
-
-
-
 <!-- Device Settings -->
-
-
-
 
 <!-- Monitor -->
 <!ENTITY monitor_help "အကူအညီ">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -160,17 +69,7 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
+
 <!-- Simulator Options -->
-
-
-
-
 <!ENTITY simulator_version "မူအဆင့်">
-
-
 <!ENTITY simulator_device "စက်ကိရိယာ">
-
-
-
-
-

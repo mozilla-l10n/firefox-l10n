@@ -2,10 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+tab သည် အရင်သုံးခဲ့ဖူးသည့် တပ်ဗ်များကို အစဉ်လိုက် ပြောင်းပေးသွားမည်">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
+<!ENTITY newWindowsAsTabs.label       "အသစ်ဖွင်ထားသော ဝင်းဒိုးများအား တပ်ဗ်အသစ် တစ်ခုတွင်သာဖွင့်ထားမည်">
+<!ENTITY newWindowsAsTabs.accesskey   "w">
 
-
-<!ENTITY warnCloseMultipleTabs.label  "m စာအမှတ်အများကို ပိတ်တဲ့အခါ သတိပေးပါ">
+<!ENTITY warnCloseMultipleTabs.label  "စာအမှတ်အများကို ပိတ်တဲ့အခါ သတိပေးပါ">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOpenManyTabs.label       "စာမျက်နှာအများအပြားဖွင့်ခြင်းသည် &brandShortName; ကို နှေးကွေးစေနိုင်လျှင် ကျွန်တော်/မကို သတိပေးပါ d">
@@ -14,6 +17,6 @@
 <!ENTITY switchToNewTabs.label        "လင့်ခ်တစ်ခုကို စာမျက်နှာအသစ်တွင် ဖွင့်လိုက်ပါက ထိုစာမျက်နှာကို ချက်ခြင်း ပြပါ h">
 <!ENTITY switchToNewTabs.accesskey    "h">
 
-<!ENTITY showTabsInTaskbar.label          "kဝင်းဒိုးတက်စ်ဘားတွင်တပ်များအားဖော်ပြထားမည်">
+<!ENTITY showTabsInTaskbar.label          "ဝင်းဒိုးတက်စ်ဘားတွင်တပ်များအားဖော်ပြထားမည်">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
 <!ENTITY tabsGroup.label          "ခလုပ်ပြားများ">
