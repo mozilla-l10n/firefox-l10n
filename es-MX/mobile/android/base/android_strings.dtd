@@ -283,6 +283,8 @@
 <!ENTITY pref_custom_tabs_summary "Permitir a aplicaciones de terceros abrir URLs con una apariencia personalizada.">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Flujo de actividad">
+<!ENTITY pref_activity_stream_summary "Una vista espectacular del historial y una página de inicio reimaginada hacen que sea más fácil que nunca buscar exactamente lo que necesitas en &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Ahora con protección de rastreo">
 <!ENTITY tracking_protection_prompt_text "Activamente bloqueando elementos de rastreo, así que no tienes de que preocuparte.">
