@@ -54,6 +54,9 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "Zlyhania vlákien">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Skaláre
+">
 
 <!ENTITY aboutTelemetry.histogramsSection "Histogramy">
 
