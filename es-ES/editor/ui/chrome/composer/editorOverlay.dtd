@@ -20,9 +20,9 @@
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY insertMenu.label "Insertar">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "Enlace…">
-<!ENTITY insertLinkCmd.accesskey "L">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd2.label "Enlace…">
+<!ENTITY insertLinkCmd2.accesskey "L">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Enlace interno con nombre…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Imagen…">
