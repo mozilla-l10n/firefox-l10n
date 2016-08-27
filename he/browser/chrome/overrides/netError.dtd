@@ -157,6 +157,10 @@ was trying to connect. -->
      please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "חיבור בלתי מאובטח">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "אתר זה משתמש ב־HTTP
+Strict Transport Security (HSTS) כדי לציין ש־&brandShortName; יוכל
+להתחבר אליו
+באופן מאובטח בלבד. כתוצאה מכך, לא ניתן להוסיף חריגה עבור אישור זה.">
 <!ENTITY certerror.copyToClipboard.label "העתקת טקסט ללוח">
 
 <!ENTITY inadequateSecurityError.title "החיבור שלך אינו בטוח">
