@@ -8,8 +8,6 @@
 <!ENTITY update.checkForUpdatesButton.accesskey "S">
 <!ENTITY update.updateButton.label2 "Uruchom ponownie, aby uaktualnić">
 <!ENTITY update.updateButton.accesskey "U">
-<!ENTITY update.applyButtonBillboard.label "Uaktualnij…">
-<!ENTITY update.applyButtonBillboard.accesskey "U">
 
 <!ENTITY warningDesc.version "Program &brandShortName; jest wersją rozwojową i może być niestabilny.">
 <!ENTITY warningDesc.telemetryDesc "Dane o wydajności, wykorzystaniu, modyfikacjach oraz o sprzęcie, na którym działa, są wysyłane do organizacji &vendorShortName;, aby ulepszać program &brandShortName;.">
