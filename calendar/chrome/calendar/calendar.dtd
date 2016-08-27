@@ -187,7 +187,7 @@
 <!ENTITY calendar.context.postpone.accesskey          "s">
 <!--=percent sign-->
 
-<!ENTITY percnt "&#037;" >
+<!ENTITY percnt "&#38;#37;" >
 
 <!ENTITY calendar.context.markcompleted.label     "Tandai Sudah Selesai">
 <!ENTITY calendar.context.markcompleted.accesskey "i">
