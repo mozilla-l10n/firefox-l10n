@@ -280,8 +280,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fayl"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.label             "Yeni Konteyner Vərəqi">
+<!ENTITY newUserContext.accesskey         "K">
 <!ENTITY newNavigatorCmd.label        "Yeni Pəncərə">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Y">
@@ -474,7 +474,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Çərçivəni Yeni Pəncərədə Aç">
 <!ENTITY openFrameCmd.accesskey       "P">
 <!ENTITY openLinkCmdInContainerTab.label "Keçidi yeni konteyner vərəqində aç">
-
+<!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Sadəcə bu çərçivəni göstər">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "ə">
 
 <!ENTITY editBookmark.done.label                     "Bitdi">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Təhlükəsiz Əlaqə">
 <!ENTITY identity.connectionNotSecure "Əlaqə Təhlükəsiz deyil">
