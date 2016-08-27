@@ -284,6 +284,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "ກິດຈະກຳສະຕຣີມ">
+<!ENTITY pref_activity_stream_summary "ດ້ວຍຄວາມອຸດົມສົມບູນໄປດ້ວຍຄວາມສາມາດໃນການຄົ້ນຫາທີ່ຫລາກຫລາຍ ແລະ ຫນ້າລັກຮູບແບບໃຫມ່ທີ່ເຮັດໃຫ້ທ່ານສາມາດຊອກຫາສິ່ງທີ່ທ່ານຕ້ອງການຄົ້ນຫາໄດ້ຢ່າງງ່າຍດາຍ &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "ຂະນະນີ້ມີການປ້ອງກັນການຕິດຕາມ">
 <!ENTITY tracking_protection_prompt_text "ບັອກອົງປະກອບການຕິດຕາມເພື່ອເຮັດໃຫ້ທ່ານບໍ່ຕ້ອງກັງວົນ.">
