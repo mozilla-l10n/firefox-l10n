@@ -23,11 +23,20 @@
 
 <!ENTITY firstrun_tabqueue_title "Tautan">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Nyalakan Tab antrian">
+<!ENTITY firstrun_tabqueue_subtext_off "Simpan tautan untuk nanti di &brandShortName; ketika mengetuknya di aplikasi lain.">
 
+<!ENTITY firstrun_tabqueue_message_on "Sukses!">
+<!ENTITY firstrun_tabqueue_subtext_on "Anda dapat selalu mematikan ini di &settings; di bawah &pref_category_general;.">
 
+<!ENTITY firstrun_readerview_title "Artikel">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Hilangkan kerumitan">
+<!ENTITY firstrun_readerview_subtext "Gunakan Tampilan Baca untuk membuat artikel lebih nyaman dibaca \u2014 bahkan ketika luring.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Anda">
+<!ENTITY firstrun_account_message "Punya &brandShortName; di perangkat lainnya?">
 
 <!ENTITY  onboard_start_restricted1 "Tetap aman dan dalam kendali dengan versi yang disederhanakan dari &brandShortName; ini.">
 
@@ -39,6 +48,7 @@
 <!ENTITY  switch_to_tab "Pindah ke tab">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Menampilkan versi luring">
 
 <!ENTITY  crash_reporter_title "Pelapor Kerusakan &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; bermasalah dan mati tiba-tiba. Daftar tab Anda akan tampil pada Laman Awal &brandShortName; setelah memulai ulang.">
@@ -70,9 +80,12 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Tangkapan layar">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Daftar Bacaan">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; item">
+<!ENTITY bookmark_folder_one_item "1 item">
 
 <!ENTITY reader_saved_offline "Simpan luring">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -95,8 +108,10 @@
 <!ENTITY edit_mode_cancel "Batal">
 
 <!ENTITY close_tab "Tutup Tab">
+<!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; tab">
 <!ENTITY new_tab_opened "Tab baru dibuka">
 <!ENTITY new_private_tab_opened "Tab pribadi baru dibuka">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -115,6 +130,7 @@
 <!ENTITY settings "Pengaturan">
 <!ENTITY settings_title "Pengaturan">
 <!ENTITY pref_category_general "Umum">
+<!ENTITY pref_category_general_summary3 "Beranda, bahasa, tab antrian">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -156,9 +172,11 @@
 <!ENTITY pref_category_accessibility "Aksesibilitas">
 <!ENTITY pref_category_accessibility_summary2 "Ukuran teks, perbesaran, input suara">
 <!ENTITY pref_category_privacy_short "Privasi">
+<!ENTITY pref_category_privacy_summary4 "Pelacakan, log-masuk, pilihan data">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Tentang &brandShortName;, tanya jawab, saran">
 <!ENTITY pref_category_datareporting "Pilihan data">
+<!ENTITY pref_category_logins "Log-masuk">
 <!ENTITY pref_learn_more "Pelajari lebih lanjut">
 <!ENTITY pref_category_installed_search_engines "Mesin pencari terpasang">
 <!ENTITY pref_category_add_search_providers "Tambahkan penyedia pencarian lainnya">
@@ -170,10 +188,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "TIP: Tambahkan situs web apaapun ke daftar penyedia pencarian dengan menekan-lama pada bidang pencarian dan lalu sentuh ikon &formatI; .">
 <!ENTITY pref_category_advanced "Tingkat Lanjut">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "Pulihkan tab, penghemat data, alat pengembang">
 <!ENTITY pref_category_notifications "Notifikasi">
 <!ENTITY pref_category_notifications_summary "Fitur baru, pembaruan situs web">
 <!ENTITY pref_content_notifications "Pembaruan situs web">
@@ -229,6 +249,7 @@
      “storing data”. -->
 <!ENTITY pref_category_data_saver "Penghemat data">
 <!ENTITY pref_category_media "Media">
+<!ENTITY pref_category_developer_tools "Alat pengembang">
 
 <!ENTITY pref_tap_to_load_images_title2 "Tampilkan gambar">
 <!ENTITY pref_tap_to_load_images_enabled "Selalu">
@@ -236,6 +257,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Terblokir">
 
 <!ENTITY pref_show_web_fonts "Tampilkan font web">
+<!ENTITY pref_show_web_fonts_summary2 "Unduh font daring ketika memuat halaman">
 
 <!ENTITY pref_tracking_protection_title2 "Perlindungan Pelacakan">
 <!ENTITY pref_tracking_protection_summary3 "Aktifkan di Penjelajahan Pribadi">
