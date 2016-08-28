@@ -8,15 +8,15 @@
 
 <!ENTITY privateBrowsing.title                           "Brabhsáil Phríobháideach">
 <!ENTITY privateBrowsing.title.tracking                  "Brabhsáil Phríobháideach le Cosaint ar Lorgaireacht">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Nuair a dhéanann tú brabhsáil i bhFuinneog Phríobháideach, ní shábhálann Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "does not save">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Nuair a dhéanann tú brabhsáil i bhFuinneog Phríobháideach, ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ní shábhálann Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "stair bhrabhsála">
 <!ENTITY aboutPrivateBrowsing.info.searches              "cuardaigh">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "fianáin">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "comhaid shealadacha">
-<!ENTITY aboutPrivateBrowsing.info.saved.before          "Sábhálann Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "will save">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Ach ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "sábhálann Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " do chuid:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "íosluchtuithe">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "leabharmharcanna">
@@ -24,7 +24,7 @@
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ní bheidh tú anaithnid">
 <!ENTITY aboutPrivateBrowsing.note.after                 " ar an Idirlíon. Is féidir le d'fhostaí nó le do sholáthraí seirbhíse na leathanaigh a dtugann tú cuairt orthu a fheiceáil mar sin féin.">
 <!ENTITY aboutPrivateBrowsing.learnMore2                 "Tuilleadh eolais faoi">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Brabhsáil Phríobháideach">
+<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Bhrabhsáil Phríobháideach">
 
 <!ENTITY trackingProtection.title                        "Cosaint ar Lorgaireacht">
 <!ENTITY trackingProtection.description2                 "Úsáideann suímh áirithe lorgairí a choinníonn súil ar a ndéanann tú ar an nGréasán. Le Cosaint ar Lorgaireacht, cuireann Firefox bac ar go leor lorgairí a bhailíonn faisnéis faoi d'iompar brabhsála.">
