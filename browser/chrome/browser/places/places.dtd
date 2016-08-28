@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "ห้องสมุด">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -102,8 +102,8 @@
 
 <!ENTITY forwardButton.tooltip  "ถัดไป">
 
-<!ENTITY detailsPane.more.label "ขยาย">
-<!ENTITY detailsPane.more.accesskey "ข">
+<!ENTITY detailsPane.more.label "เพิ่มเติม">
+<!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "ย่อ">
 <!ENTITY detailsPane.less.accesskey "ย">
 <!ENTITY detailsPane.selectAnItemText.description "เลือกรายการเพื่อแสดงและแก้ไขคุณสมบัติของมัน">
