@@ -480,3 +480,6 @@
 <!ENTITY helper_triple_readerview_open_title "Disponible sin conexión">
 <!ENTITY helper_triple_readerview_open_message "Añada a Marcadores elementos de la vista de lectura para leerlos sin conexión.">
 <!ENTITY helper_triple_readerview_open_button "Añadir a marcadores">
+<!ENTITY activity_stream_topsites "Frecuentes">
+<!ENTITY activity_stream_highlights "Destacados">
+<!ENTITY activity_stream_more "Más">
