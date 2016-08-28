@@ -205,7 +205,7 @@
 <!ENTITY addon.checkingForUpdates.label       "Ieškoma naujinimų…">
 <!ENTITY addon.releaseNotes.label             "Laidos apžvalga:">
 <!ENTITY addon.loadingReleaseNotes.label      "Įkeliama…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Atsiprašome, bet įkeliant laidos apžvalgą, įvyko klaida.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Atsiprašome, bet įkeliant laidos apžvalgą įvyko klaida.">
 
 <!ENTITY addon.createdBy.label                "priedą sukūrė ">
 

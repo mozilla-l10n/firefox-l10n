@@ -105,7 +105,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopijuoti tekstą į iškarpinę">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopijuoti neapdorotus duomenis į iškarpinę">
 
-<!ENTITY aboutSupport.sandboxTitle "Smėliadėžė">
+<!ENTITY aboutSupport.sandboxTitle "Izoliavimas">
 
 <!ENTITY aboutSupport.safeModeTitle "Išbandykite ribotąją veikseną">
 <!ENTITY aboutSupport.restartInSafeMode.label "Perleisti išjungus priedus…">
