@@ -10,7 +10,7 @@
 <!ENTITY pref.categories.add.title "Tambah Kategori">
 <!ENTITY pref.categories.addButton.label "Tambah…">
 <!ENTITY pref.categories.addButton.accesskey "T">
-<!ENTITY pref.categories.edit.title "Ubah Kategori">
+<!ENTITY pref.categories.edit.title "Edit Kategori">
 <!ENTITY pref.categories.editButton.label "Ubah…">
 <!ENTITY pref.categories.editButton.accesskey "U">
 <!ENTITY pref.categories.removeButton.label "Hapus">

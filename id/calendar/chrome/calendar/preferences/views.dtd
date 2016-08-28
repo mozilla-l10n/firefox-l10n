@@ -7,7 +7,7 @@
   -->
 
 
-<!ENTITY pref.calendar.view.allview.caption "Utama">
+<!ENTITY pref.calendar.view.allview.caption "Umum">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Tampilan Harian dan Mingguan">
 <!ENTITY pref.calendar.view.multiweekview.caption "Tampilan Multiminggu">
 <!ENTITY pref.calendar.view.workweek.caption "Minggu Kerja">
@@ -23,14 +23,14 @@
 <!ENTITY pref.calendar.view.dayend.label "Hari berakhir pada:">
 <!ENTITY pref.calendar.view.dayend.accesskey "H">
 <!ENTITY pref.calendar.view.visiblehours.label "Tampilkan:">
-<!ENTITY pref.calendar.view.visiblehours.accesskey "T">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "i">
 <!ENTITY pref.calendar.view.visiblehoursend.label "jam sekaligus">
 
 <!ENTITY pref.numberofweeks.label "Jumlah minggu yang ditampilkan (termasuk minggu sebelumnya):">
 <!ENTITY pref.numberofweeks.accesskey "m">
-<!ENTITY pref.numberofpreviousweeks.label "Jumlah minggu sebelumnya yang ditampilkan:">
+<!ENTITY pref.numberofpreviousweeks.label "Minggu sebelumnya untuk ditampilkan:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "s">
-<!ENTITY pref.numberofweeks.0 "tidak ada">
+<!ENTITY pref.numberofweeks.0 "nihil">
 <!ENTITY pref.numberofweeks.1 "1 minggu">
 <!ENTITY pref.numberofweeks.2 "2 minggu">
 <!ENTITY pref.numberofweeks.3 "3 minggu">
