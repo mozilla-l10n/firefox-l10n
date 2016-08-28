@@ -21,7 +21,7 @@
 <!ENTITY     props.path.label               "เส้นทาง:">
 <!ENTITY     props.secure.label             "ส่งสำหรับ:">
 <!ENTITY     props.expires.label            "หมดอายุ:">
-<!ENTITY     props.container.label          "คอนเทนเนอร์:">
+<!ENTITY     props.container.label          "แยกตัวตน:">
 
 <!ENTITY     window.title                   "คุกกี้">
 <!ENTITY     windowClose.key                "w">
