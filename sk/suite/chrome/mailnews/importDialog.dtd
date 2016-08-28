@@ -30,6 +30,7 @@
 <!ENTITY selectDescription.accesskey "v">
 <!ENTITY acctName.label           "Názov:">
 <!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "Nenašli sa žiadne aplikácie alebo súbory, z ktorých by sa dali importovať údaje.">
 
 <!ENTITY back.label               "&lt; Naspäť">
 <!ENTITY forward.label            "Ďalej &gt;">
