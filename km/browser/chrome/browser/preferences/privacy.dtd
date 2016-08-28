@@ -19,9 +19,9 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "ស្វែងយល់​បន្ថែម​">
 <!ENTITY changeBlockList.label          "ផ្លាស់ប្ដូរ​បញ្ជី​ទប់​ស្កាត់">
 <!ENTITY changeBlockList.accesskey      "C">
+
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
 <!ENTITY  doNotTrack.pre.label          "អ្នក​ក៏​អាច ">
 <!ENTITY  doNotTrack.settings.label     "គ្រប់គ្រង​ការ​កំណត់ &quot;កុំ​តាមដាន&quot; របស់​អ្នក">
 <!ENTITY  doNotTrack.post.label         ".">
@@ -72,10 +72,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; នឹង​ចងចាំ​ការ​រកមើល​ ការ​ទាញ​យក ប្រវត្តិ​ស្វែងរក និង​សំណុំ​បែបបទ​របស់​អ្នក ហើយ​នឹង​រក្សាទុក​ខូគី​ឲ្យ​ឆ្ងាយ​ពី​តំបន់បណ្ដាញ​ដែល​អ្នក​ទស្សនា ។">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "អ្នក​អាច​ចង់ ">
 <!ENTITY  rememberActions.clearHistory.label  "សម្អាត​ប្រវត្តិ​ថ្មីៗ">
 <!ENTITY  rememberActions.middle.label        " ឬ">
@@ -83,9 +83,9 @@
 <!ENTITY  rememberActions.post.label          "។">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; នឹង​ប្រើ​ការ​កំណត់​ដូច​គ្នា​ជា​ការ​​រក​មើល​ឯកជន ហើយ​នឹង​មិន​ចងចាំ​ប្រវត្តិ​ណាមួយ ពេល​ដែល​អ្នក​រក​មើល​តំបន់​បណ្ដាញ​នោះ​ទេ ។">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "អ្នក​ក៏​អាច​ចង់">
 <!ENTITY  dontrememberActions.clearHistory.label "សម្អាត​ប្រវត្តិ​ថ្មីៗ​ទាំងអស់">
 <!ENTITY  dontrememberActions.post.label         "។">
@@ -106,6 +106,6 @@
 <!ENTITY  clearOnCloseSettings.accesskey "ង">
 
 <!ENTITY  browserContainersHeader.label         "ផ្ទាំង​ឧបករណ៍​ផ្ទុក">
-
-
-
+<!ENTITY  browserContainersLearnMore.label      "ស្វែងយល់​បន្ថែម">
+<!ENTITY  browserContainersEnabled.label        "បើក​ផ្ទាំង​ឧបករណ៍​ផ្ទុក">
+<!ENTITY  browserContainersEnabled.accesskey    "​">
