@@ -17,15 +17,15 @@
 
 
 <!ENTITY pref.showalarmbox "Tampilkan kotak alarm">
-<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "k">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
 <!ENTITY pref.missedalarms "Tampilkan alarm yang terlewati">
-<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "w">
+<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Default Alarm">
 <!ENTITY pref.defalarm4events.label "Pengaturan alarm default untuk acara:">
 <!ENTITY pref.defalarm4events.accesskey "a">
 <!ENTITY pref.defalarm4todos.label "Pengaturan alarm default untuk tugas:">
 <!ENTITY pref.defalarm4todos.accesskey "t">
-<!ENTITY pref.alarm.on "Hidup">
+<!ENTITY pref.alarm.on "Aktif">
 <!ENTITY pref.alarm.off "Mati">
 <!ENTITY pref.defalarmlen4events.label "Waktu alarm mati default sebelum acara:">
 <!ENTITY pref.defalarmlen4events.accesskey "a">

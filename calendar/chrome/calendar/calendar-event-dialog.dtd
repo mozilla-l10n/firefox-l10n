@@ -219,7 +219,7 @@
 <!ENTITY event.reminder.1week.before.label                "1 minggu sebelumnya" >
 <!ENTITY event.reminder.custom.label                      "Ubahsuai…" >
 
-<!ENTITY event.reminder.multiple.label                    "Multialarm…" >
+<!ENTITY event.reminder.multiple.label                    "Pengingat Berganda…" >
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Waktu sebagai:">
 <!ENTITY event.statusbarpanel.privacy.label               "Privasi:">
@@ -343,8 +343,8 @@
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentatif" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Tidak di Kantor" >
 <!ENTITY event.freebusy.legend.unknown          "Tidak ada keterangan" >
-<!ENTITY event.attendee.role.required           "Undangan yang Wajib">
-<!ENTITY event.attendee.role.optional           "Undangan yang Opsional">
+<!ENTITY event.attendee.role.required           "Undangan Wajib">
+<!ENTITY event.attendee.role.optional           "Undangan Opsional">
 <!ENTITY event.attendee.role.chair              "Pimpinan">
 <!ENTITY event.attendee.role.nonparticipant     "Bukan Peserta">
 <!ENTITY event.attendee.usertype.individual     "Pribadi">
@@ -363,17 +363,17 @@
 <!ENTITY read.only.event.start.label     "Tanggal Mulai:">
 <!ENTITY read.only.task.start.label      "Tanggal Mulai:">
 <!ENTITY read.only.event.end.label       "Tanggal Selesai:">
-<!ENTITY read.only.task.due.label        "Tanggal Selesai:">
+<!ENTITY read.only.task.due.label        "Tanggal Berakhir:">
 <!ENTITY read.only.repeat.label          "Perulangan:">
-<!ENTITY read.only.location.label        "Tempat:">
+<!ENTITY read.only.location.label        "Lokasi:">
 <!ENTITY read.only.category.label        "Kategori:">
-<!ENTITY read.only.organizer.label       "Organizer:">
+<!ENTITY read.only.organizer.label       "Penyelenggara:">
 <!ENTITY read.only.reply.label           "Balas:">
 <!ENTITY read.only.accept.label          "Saya akan hadir">
 <!ENTITY read.only.decline.label         "Saya tidak bisa hadir">
 <!ENTITY read.only.tentative.label       "Mungkin saya hadir">
 <!ENTITY read.only.needs.action.label    "Akan saya konfirmasi nanti">
-<!ENTITY read.only.reminder.label        "Alarm:">
+<!ENTITY read.only.reminder.label        "Pengingat:">
 <!ENTITY read.only.attendees.label       "Undangan">
 <!ENTITY read.only.description.label     "Keterangan">
 <!ENTITY read.only.link.label            "Tautan terkait">
