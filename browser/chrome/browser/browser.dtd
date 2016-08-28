@@ -109,7 +109,6 @@
 <!ENTITY bookmarkThisPageCmd.label "Añadir esta página a marcadores">
 <!ENTITY editThisBookmarkCmd.label "Editar este marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!ENTITY findShareServices.label "Encontrar más servicios de compartición…">
 <!ENTITY sharePageCmd.label "Compartir esta página">
 <!ENTITY sharePageCmd.commandkey "S">
@@ -158,17 +157,15 @@
 <!ENTITY urlbar.pluginsNotificationAnchor.label "Administrar uso de plugins en esta página">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label "Cambiar si puede recibir notificaciones del sitio">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Administrar compartición de su cámara o micrófono con el sitio">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label "Está compartiendo su cámara o micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label "Administrar compartición de su micrófono con el sitio">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Está compartiendo su micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label "Administrar compartición de sus ventanas o pantalla con el sitio">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label "Está compartiendo una ventana o su pantalla con el sitio">
 <!ENTITY urlbar.pointerLockNotificationAnchor.label "Cambiar si el sitio puede ocultar el puntero">
 <!ENTITY urlbar.servicesNotificationAnchor.label "Ver el mensaje de instalación de servicio">
 <!ENTITY urlbar.translateNotificationAnchor.label "Traducir esta página">
 <!ENTITY urlbar.translatedNotificationAnchor.label "Administrar traducción de la página">
 <!ENTITY urlbar.emeNotificationAnchor.label "Administrar uso del software DRM">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Mostrar historial">
+<!ENTITY urlbar.zoomReset.tooltip "Restablecer nivel de aumento">
 <!ENTITY searchItem.title "Buscar">
 <!ENTITY homeButton.label "Inicio">
 <!ENTITY bookmarksButton.label "Marcadores">
@@ -199,8 +196,8 @@
 <!ENTITY inspectContextMenu.accesskey "l">
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
-<!ENTITY newUserContext.label "Nueva pestaña contenedor">
-<!ENTITY newUserContext.accesskey "C">
+<!ENTITY newUserContext.label "Nueva pestaña contenedora">
+<!ENTITY newUserContext.accesskey "v">
 <!ENTITY newNavigatorCmd.label "Nueva ventana">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
@@ -527,6 +524,7 @@
 <!ENTITY identity.moreInfoLinkText2 "Más información">
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No ha concedido ningún permiso especial a este sitio.">
+<!ENTITY identity.permissionsReloadHint "Puede que necesite recargar la página para que se apliquen los cambios.">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu3.label "Pestañas sincronizadas">
 <!ENTITY syncedTabs.sidebar.label "Pestañas sincronizadas">
@@ -557,16 +555,7 @@
 <!ENTITY syncReAuthItem.label "Reconectar a &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey "R">
 <!ENTITY syncToolbarButton.label "Sync">
-<!ENTITY socialToolbar.title "Botón de la barra de herramientas social">
-<!ENTITY social.ok.label "Aceptar">
-<!ENTITY social.ok.accesskey "A">
-<!ENTITY social.toggleSidebar.label "Mostrar barra lateral">
-<!ENTITY social.toggleSidebar.accesskey "s">
 <!ENTITY social.addons.label "Administrar servicios…">
-<!ENTITY social.toggleNotifications.label "Mostrar notificaciones de escritorio">
-<!ENTITY social.toggleNotifications.accesskey "n">
-<!ENTITY social.learnMore.label "Saber más…">
-<!ENTITY social.learnMore.accesskey "m">
 <!ENTITY social.directory.label "Directorio de activaciones">
 <!ENTITY social.directory.text "Puede activar servicios de compartición del directorio.">
 <!ENTITY social.directory.button "¡Llévame allí!">
@@ -585,13 +574,6 @@
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Conseguir más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "C">
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Enfocar conversaciones">
-<!ENTITY social.chatBar.accesskey "c">
-<!ENTITY social.markpageMenu.accesskey "d">
-<!ENTITY social.markpageMenu.label "Guardar página en…">
-<!ENTITY social.marklinkMenu.accesskey "G">
-<!ENTITY social.marklinkMenu.label "Guardar enlace como">
 <!ENTITY getUserMedia.selectCamera.label "Cámara para compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono para compartir:">
