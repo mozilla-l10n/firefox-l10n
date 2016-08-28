@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Rodyti visas korteles">
 <!ENTITY showAllTabsCmd.accesskey "k">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Jungtis prie „&syncBrand.shortName.label;“">
 <!ENTITY fxaSignedIn.tooltip "Atverti „&syncBrand.shortName.label;“ nuostatas">
@@ -280,8 +280,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Failas"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.label             "Nauja sudėtinė kortelė">
+<!ENTITY newUserContext.accesskey         "s">
 <!ENTITY newNavigatorCmd.label        "Naujas langas">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "l">
@@ -474,7 +474,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Atverti kadrą naujame lange">
 <!ENTITY openFrameCmd.accesskey       "l">
 <!ENTITY openLinkCmdInContainerTab.label "Atverti saitą naujoje sudėtinėje kortelėje">
-
+<!ENTITY openLinkCmdInContainerTab.accesskey "n">
 <!ENTITY showOnlyThisFrameCmd.label     "Rodyti tik šį kadrą">
 <!ENTITY showOnlyThisFrameCmd.accesskey "t">
 <!ENTITY reloadCmd.commandkey         "r">
