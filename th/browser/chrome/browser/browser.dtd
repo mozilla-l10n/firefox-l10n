@@ -113,7 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "ม">
 <!ENTITY toggleReaderMode.key "R">
 
-<!ENTITY fxaSignIn.label "ลงชื่อเข้าใช้ &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "ลงชื่อเข้า &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "เปิดการตั้งค่า &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "เชื่อมต่อกับ &syncBrand.shortName.label; ใหม่">
 <!ENTITY fxaUnverified.label "ยืนยันบัญชีของคุณ">
@@ -365,7 +365,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "การตั้งค่า Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ลงชื่อเข้าเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
-<!ENTITY appMenuRemoteTabs.signin.label "ลงชื่อเข้าใช้ Sync">
+<!ENTITY appMenuRemoteTabs.signin.label "ลงชื่อเข้า Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ดูแถบข้างแท็บที่ซิงค์">
 
 <!ENTITY customizeMenu.addToToolbar.label "เพิ่มไปยังแถบเครื่องมือ">
@@ -545,7 +545,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.accesskey      "ซ">
 <!ENTITY copyLinkCmd.label            "คัดลอกที่ตั้งลิงก์">
 <!ENTITY copyLinkCmd.accesskey        "ต">
-<!ENTITY copyImageCmd.label           "คัดลอกที่ตั้งภาพ">
+<!ENTITY copyImageCmd.label           "คัดลอกตำแหน่งที่ตั้งภาพ">
 <!ENTITY copyImageCmd.accesskey       "ด">
 <!ENTITY copyImageContentsCmd.label   "คัดลอกภาพ">
 <!ENTITY copyImageContentsCmd.accesskey  "ล"> 
@@ -741,7 +741,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "แท็บที่ซิงค์">
 
 <!ENTITY syncedTabs.sidebar.label              "แท็บที่ซิงค์">
-<!ENTITY syncedTabs.sidebar.noclients.label    "ลงชื่อเข้าใช้ Firefox จากอุปกรณ์อื่น ๆ ของคุณเพื่อดูแท็บของอุปกรณ์เหล่านั้นที่นี่">
+<!ENTITY syncedTabs.sidebar.noclients.label    "ลงชื่อเข้า Firefox จากอุปกรณ์อื่น ๆ ของคุณเพื่อดูแท็บของอุปกรณ์เหล่านั้นที่นี่">
 <!ENTITY syncedTabs.sidebar.noclients.title    "ยังไม่มีแท็บที่ซิงค์…!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ลงชื่อเข้าเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
@@ -767,7 +767,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "ลงชื่อเข้าใช้ &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.label             "ลงชื่อเข้า &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "ซิงค์ตอนนี้">
 <!ENTITY syncSyncNowItem.accesskey    "ซ">

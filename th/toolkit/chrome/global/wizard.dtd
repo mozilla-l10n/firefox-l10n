@@ -4,7 +4,7 @@
 
 <!ENTITY  button-back-mac.label        "ย้อนกลับ">
 <!ENTITY  button-back-mac.accesskey    "ย">
-<!ENTITY  button-next-mac.label        "ทำต่อ">
+<!ENTITY  button-next-mac.label        "ดำเนินการต่อ">
 <!ENTITY  button-next-mac.accesskey    "ท">
 <!ENTITY  button-finish-mac.label      "เสร็จ">
 <!ENTITY  button-cancel-mac.label      "ยกเลิก">

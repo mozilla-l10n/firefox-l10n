@@ -27,8 +27,8 @@
 <!ENTITY showAllExtensions.button.label       "แสดงส่วนขยายทั้งหมด">
 <!ENTITY debugAddons.label                    "ดีบั๊กส่วนเสริม">
 <!ENTITY debugAddons.accesskey                "บ">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "ส่วนเสริมทั้งหมดถูกปิดใช้งานเมื่ออยู่ในโหมดปลอดภัย">
 <!ENTITY warning.checkcompatibility.label          "การตรวจสอบความเข้ากันได้ของส่วนเสริมถูกปิดไว้ คุณอาจมีส่วนเสริมบางตัวที่เข้ากันไม่ได้กับโปรแกรมรุ่นนี้">
 <!ENTITY warning.checkcompatibility.enable.label   "เปิดใช้งาน">
@@ -36,14 +36,14 @@
 <!ENTITY warning.updatesecurity.label              "การตรวจสอบความปลอดภัยของการปรับรุ่นส่วนเสริมถูกปิดไว้ คุณอาจถูกรุกล้ำความปลอดภัยจากการปรับรุ่นส่วนเสริม">
 <!ENTITY warning.updatesecurity.enable.label       "เปิดใช้งาน">
 <!ENTITY warning.updatesecurity.enable.tooltip     "เปิดใช้งานการตรวจสอบความปลอดภัยของการปรับรุ่นส่วนเสริม">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "ค้นหา">
 <!ENTITY view.discover.label                  "ติดตั้งส่วนเสริม">
 <!ENTITY view.recentUpdates.label             "การปรับรุ่นเมื่อเร็ว ๆ นี้">
 <!ENTITY view.availableUpdates.label          "การปรับรุ่นที่ตรวจพบ">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "ตรวจสอบการปรับรุ่น">
 <!ENTITY updates.checkForUpdates.accesskey    "ต">
 <!ENTITY updates.viewUpdates.label            "ดูการปรับรุ่นเมื่อเร็ว ๆ นี้">
@@ -71,8 +71,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "ดูการปรับรุ่นที่ตรวจพบ">
 <!ENTITY updates.updateSelected.label         "ติดตั้งการปรับรุ่น">
 <!ENTITY updates.updateSelected.tooltip       "ติดตั้งการปรับรุ่นทั้งหมดในรายการนี้">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "แสดงข้อมูลเพิ่มเติม">
 <!ENTITY cmd.showDetails.accesskey            "ส">
 <!ENTITY cmd.findUpdates.label                "ค้นหาการปรับรุ่น">
@@ -115,18 +115,18 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "แสดงบันทึกประจำรุ่นสำหรับการปรับรุ่นครั้งนี้">
 <!ENTITY cmd.hideReleaseNotes.label           "ซ่อนบันทึกประจำรุ่น">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "ซ่อนบันทึกประจำรุ่นสำหรับการปรับรุ่นครั้งนี้">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "ส่วนเสริมคืออะไร?">
 <!ENTITY discover.description2                "ส่วนเสริมคือโปรแกรมที่ทำให้คุณปรับแต่งความสามารถพิเศษหรือรูปโฉมของ &brandShortName; ได้ ลองใช้แถบข้างที่ช่วยประหยัดเวลาใช้งาน ส่วนเสริมเตือนสภาพอากาศ หรือชุดตกแต่งเพื่อสร้าง &brandShortName; ที่เป็นของคุณเองดูสิ">
 <!ENTITY discover.footer                      "เมื่อคุณเชื่อมต่ออินเทอร์เน็ต ช่องนี้จะแสดงส่วนเสริมยอดเยี่ยมและส่วนเสริมยอดนิยมให้คุณลองใช้ดู">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "รุ่น">
 <!ENTITY detail.lastupdated.label             "ปรับปรุงล่าสุด">
-<!ENTITY detail.creator.label                 "ผู้พัฒนา">
+<!ENTITY detail.creator.label                 "นักพัฒนา">
 <!ENTITY detail.homepage.label                "หน้าแรก">
 <!ENTITY detail.numberOfDownloads.label       "จำนวนดาวน์โหลด">
 
@@ -152,17 +152,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "การตั้งค่า">
 <!ENTITY detail.showPreferencesUnix.accesskey "ก">
 <!ENTITY detail.showPreferencesUnix.tooltip   "เปลี่ยนการตั้งค่าของส่วนเสริมนี้">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "คะแนน">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "หยุดชั่วคราว">
 <!ENTITY progress.cancel.tooltip              "ยกเลิก">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "ชื่อ">
 <!ENTITY sort.name.tooltip                    "เรียงตามชื่อ">
 <!ENTITY sort.dateUpdated.label               "ปรับปรุงล่าสุด">
@@ -215,12 +215,12 @@
 <!ENTITY eula.accept                          "ยอมรับและติดตั้ง…">
 
 <!ENTITY settings.path.button.label           "เรียกดู…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "นี้คืออะไร? การวัดและส่งข้อมูลทางไกลจะถูกทดลองติดตั้งและทำงานเป็นครั้งคราว">
 <!ENTITY experiment.info.learnmore "เรียนรู้เพิ่มเติม">
 <!ENTITY experiment.info.learnmore.accesskey "L">
