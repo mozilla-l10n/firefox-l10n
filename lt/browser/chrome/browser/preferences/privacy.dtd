@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "Leisti įrašyti slapukus">
 <!ENTITY  acceptCookies.accesskey       "L">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Leisti trečiųjų šalių slapukus:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "t">
 <!ENTITY  acceptThirdParty.always.label   "visada">
 <!ENTITY  acceptThirdParty.never.label    "niekada">
 <!ENTITY  acceptThirdParty.visited.label  "tik lankytoms svetainėms">
@@ -104,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Nuostatos…">
 <!ENTITY  clearOnCloseSettings.accesskey "u">
 
-
-
-
+<!ENTITY  browserContainersHeader.label         "Sudėtinės kortelės">
+<!ENTITY  browserContainersLearnMore.label      "Sužinoti daugiau">
+<!ENTITY  browserContainersEnabled.label        "Įjungti sudėtines korteles">
+<!ENTITY  browserContainersEnabled.accesskey    "n">

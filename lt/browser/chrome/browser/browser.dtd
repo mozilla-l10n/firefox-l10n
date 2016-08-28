@@ -474,7 +474,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Atverti kadrą naujame lange">
 <!ENTITY openFrameCmd.accesskey       "l">
 <!ENTITY openLinkCmdInContainerTab.label "Atverti saitą naujoje sudėtinėje kortelėje">
-<!ENTITY openLinkCmdInContainerTab.accesskey "n">
+<!ENTITY openLinkCmdInContainerTab.accesskey "s">
 <!ENTITY showOnlyThisFrameCmd.label     "Rodyti tik šį kadrą">
 <!ENTITY showOnlyThisFrameCmd.accesskey "t">
 <!ENTITY reloadCmd.commandkey         "r">
