@@ -4,7 +4,7 @@
 
 
 <!ENTITY  connectionsDialog.title       "Nastavenie pripojenia">
-<!ENTITY  window.width                  "43em">
+<!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "43em">
 
 <!ENTITY  proxyTitle.label              "Nastavenie serverov proxy pre prístup k sieti Internet">
@@ -40,7 +40,7 @@
 <!ENTITY  SOCKSport.accesskey           "">
 <!ENTITY  noproxy.label                 "Nepoužívať proxy pre:">
 <!ENTITY  noproxy.accesskey             "N">
-<!ENTITY  noproxyExplain.label          "Príklad: .mozilla.org, .net.nz">
+<!ENTITY  noproxyExplain.label          "Príklad: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Použiť tento server proxy pre všetky protokoly">
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "Nevyžadovať zadanie autorizačných údajov, ak ich má prehliadač uložené">
