@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "យក​ខ្ញុំ​ចេញ​ពី​ទីនេះ!">
 <!ENTITY safeb.palm.decline.label "មិន​អើពើ​ការ​ព្រមាន​នេះ">
-
+<!ENTITY safeb.palm.reportPage.label "ហេតុអ្វី​បាន​ជា​ទំព័រ​នេះ​ត្រូវ​បានទប់​ស្កាត់?">
 
 <!ENTITY safeb.blocked.malwarePage.title "បាន​រាយការ​ទំព័រ​វាយប្រហារ !">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
