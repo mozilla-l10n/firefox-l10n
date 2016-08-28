@@ -122,11 +122,25 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Obrázky z tejto stránky nebudú nikdy prevzaté.">
 
+<!ENTITY popupsMessageChangeTitle.label "Povolenia pre vyskakovacie okná zmenené">
+<!ENTITY popupAllowCmd.label "Povoliť vyskakovacie okná pre túto stránku">
+<!ENTITY popupAllowCmd.accesskey "a">
+<!ENTITY popupAllowMsg.label "Vyskakovacie okná z tejto stránky budú vždy zobrazené.">
+<!ENTITY popupDefaultCmd.label "Použiť predvolené povolenia pre vyskakovacie okná">
+<!ENTITY popupDefaultCmd.accesskey "u">
+<!ENTITY popupDefaultMsg.label "Vyskakovacie okná z tejto stránky budú zobrazované podľa predvolených nastavení.">
+<!ENTITY popupBlockCmd.label "Blokovať vyskakovacie okná z tejto stránky">
+<!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupBlockMsg.label "Vyskakovacie okná z tejto stránky nebudú zobrazené.">
+<!ENTITY popupsManage.label "Spravovať vyskakovacie okná">
+<!ENTITY popupsManage.accesskey "S">
 
 <!ENTITY cookieCookieManager.label "Správca cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Správca obrázkov">
 <!ENTITY cookieImageManager.accesskey "b">
+<!ENTITY popupsManager.label "Správca vyskakovacích okien">
+<!ENTITY popupsManager.accesskey "v">
 
 <!ENTITY clearPrivateDataCmd.label "Odstrániť súkromné údaje…">
 <!ENTITY clearPrivateDataCmd.accesskey "O">
