@@ -342,6 +342,7 @@ size. -->
 <!ENTITY share_title "Kongsi melalui">
 <!ENTITY share_image_failed "Imej tidak berjaya dikongsi">
 <!ENTITY save_as_pdf "Simpan sebagai PDF">
+<!ENTITY desktop_mode "Pinta laman desktop">
 <!ENTITY page "Halaman">
 <!ENTITY tools "Alatan">
 <!ENTITY close_all_tabs "Tutup Semua Tab">
@@ -387,6 +388,7 @@ size. -->
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Besarkan pautan dan borang apabila medan berhampirannya disentuh">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
