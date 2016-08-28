@@ -6,16 +6,25 @@
 
 <!ENTITY searchreset.pageTitle      "Kembalikan pengaturan pencarian Anda?">
 
+<!ENTITY searchreset.pageInfo1      "Pengaturan pencarian Anda mungkin telah kadaluarsa. &brandShortName; dapat membantu Anda mengembalikan pengaturan pencarian baku.">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
+
+
+<!ENTITY searchreset.selector.label "Ini akan mengatur mesin pencari utama Anda ke">
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
 
+<!ENTITY searchreset.beforelink.pageInfo2 "Anda dapat mengganti pengaturan ini kapanpun dari ">
 
 
+<!ENTITY searchreset.link.pageInfo2       "Laman pengaturan">
 
+<!ENTITY searchreset.noChangeButton        "Jangan Ganti">
+<!ENTITY searchreset.noChangeButton.access "D">
 
-
+<!ENTITY searchreset.changeEngineButton        "Ganti Mesin Pencari">
+<!ENTITY searchreset.changeEngineButton.access "C">
