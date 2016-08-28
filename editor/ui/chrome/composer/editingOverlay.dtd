@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Simpan sebagai…">
 <!ENTITY saveAsCmd.accesskey "a">
-
-
+<!ENTITY saveAsChangeEncodingCmd2.label "Simpan dan Ubah Teks Pengodean Karakter">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "P">
 <!ENTITY publishCmd.label "Terbitkan">
 <!ENTITY publishCmd.accesskey "T">
 <!ENTITY publishCmd.key "S">
