@@ -283,6 +283,8 @@
 <!ENTITY pref_custom_tabs_summary "Үшінші жақты қолданбаларға сілтемелерді бапталған сыртқы түрімен ашуды рұқсат ету.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY pref_activity_stream "Белсенділік ағыны">
+<!ENTITY pref_activity_stream_summary "&brandShortName; ішінен не табуға қалауларыңызды көрсете алатын визуалды тариз таспасы және қайта жасалған үй парағы.">
 
 <!ENTITY tracking_protection_prompt_title "Енді бақылаудан қорғанысы бар">
 <!ENTITY tracking_protection_prompt_text "Бақылайтын элементтерді белсенді түрде блоктайды.">
