@@ -280,8 +280,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fitxer"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.label             "Pestanya de contenidor nova">
+<!ENTITY newUserContext.accesskey         "v">
 <!ENTITY newNavigatorCmd.label        "Finestra nova">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
