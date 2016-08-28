@@ -14,6 +14,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.startRecording/performanceUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 <!ENTITY performanceUI.startRecording "Pencapaian mula direkod">
+<!ENTITY performanceUI.stopRecording  "Berhenti Merekod Prestasi">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->

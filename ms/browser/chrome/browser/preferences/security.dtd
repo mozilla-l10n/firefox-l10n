@@ -6,21 +6,26 @@
 
 <!ENTITY  warnAddonInstall.label        "Beri amaran kepada saya apabila laman cuba melencong atau memuatkan halaman">
 <!ENTITY  warnAddonInstall.accesskey    "a">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  blockDownloads.label            "Sekat muat turun berbahaya">
+<!ENTITY  blockDownloads.accesskey        "D">
 
-
-
-
+<!ENTITY  blockUncommonUnwanted.label     "Beri amaran mengenai perisian yang tidak dikehendaki dan yang luar biasa">
+<!ENTITY  blockUncommonUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "Pengecualian…">
 <!ENTITY  addonExceptions.accesskey     "P">
 
 
+<!ENTITY  logins.label                  "Log masuk">
 
+<!ENTITY  rememberLogins.label          "Ingat log masuk untuk laman ini">
+<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "Pengecualian…">
 <!ENTITY  passwordExceptions.accesskey  "e">
 
@@ -29,4 +34,4 @@
 <!ENTITY  changeMasterPassword.label     "Tukar Katalaluan Induk…">
 <!ENTITY  changeMasterPassword.accesskey "T">
 
-
+<!ENTITY  savedLogins.label              "Login Tersimpan…">

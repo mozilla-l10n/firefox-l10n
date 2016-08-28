@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "Enjin Carian Piawai">
 
+<!ENTITY chooseYourDefaultSearchEngine.label   "Pilih enjin carian piawai anda. &brandShortname; menggunakannya dalam bar lokasi, bar carian, dan laman mula.">
 
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
@@ -20,6 +22,8 @@
 <!ENTITY engineNameColumn.label                "Enjin Carian">
 <!ENTITY engineKeywordColumn.label             "Kata kunci">
 
+<!ENTITY restoreDefaultSearchEngines.label     "Kembalikan Enjin Carian Piawai">
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
 <!ENTITY removeEngine.label                    "Singkir">
 <!ENTITY removeEngine.accesskey                "r">

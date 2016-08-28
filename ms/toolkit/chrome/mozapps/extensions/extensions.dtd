@@ -4,7 +4,6 @@
 <!ENTITY addons.windowTitle                   "Pengurus Add-on">
 
 <!ENTITY search.placeholder                   "Cari semua add-on">
-
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -23,11 +22,9 @@
 <!ENTITY cmd.back.tooltip                     "Pergi kembali laman sebelum">
 <!ENTITY cmd.forward.tooltip                  "Pergi ke halaman seterusnya">
 
-
-
+<!ENTITY showUnsignedExtensions.button.label  "Beberapa sambungan tidap dapat disahkan">
 
 <!-- global warnings -->
-
 <!ENTITY warning.safemode.label                    "Semua add-ons telah dimatikan oleh safe mode.">
 <!ENTITY warning.checkcompatibility.label          "Pemeriksaan kesesuaian add-on telah dimatikan. Anda mungkin mempunya add-on yang tidak sesuai.">
 <!ENTITY warning.checkcompatibility.enable.label   "Aktif Keupayaan">
@@ -35,12 +32,13 @@
 <!ENTITY warning.updatesecurity.label              "Pemeriksaan keselamatan add-on telah dimatikan. Anda mungkin dikompromi ketika mengemaskini.">
 <!ENTITY warning.updatesecurity.enable.label       "Aktif Keupayaan">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Membenarkan pemeriksaan keselamatan kemaskini add-on">
+
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Dapatkan Add-on">
 <!ENTITY view.recentUpdates.label             "Kemaskini terbaru">
 <!ENTITY view.availableUpdates.label          "Kemaskini tersedia">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Semakan pengemaskinian terkini">
 <!ENTITY updates.checkForUpdates.accesskey    "S">
 <!ENTITY updates.viewUpdates.label            "Lihat kemaskini terbaru">
@@ -68,8 +66,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Lihat pengemaskinian yang sedia ada">
 <!ENTITY updates.updateSelected.label         "Pasang pengemaskinian terkini">
 <!ENTITY updates.updateSelected.tooltip       "Pasangkan kemaskini yang sedia ada di dalam senarai ini">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Papar Maklumat Tambahan">
 <!ENTITY cmd.showDetails.accesskey            "P">
 <!ENTITY cmd.findUpdates.label                "Cari Kemaskini">
@@ -112,15 +110,15 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Tunjuk nota pelepasan bagi kemas kini ini">
 <!ENTITY cmd.hideReleaseNotes.label           "Sorok Nota Pelepasan">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Sorok nota pelepasan untuk kemaskini ini">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Apakah Add-ons?">
 <!ENTITY discover.description2                "Tambahan adalah aplikasi yang membenarkan anda memperibadikan &brandShortName; with kefungsian lebih atau stail. Cubalah bar tepi yang menjimatkan masa, sebuah pemberitahu cuaca, atau sebuah tema lihat untuk buat &brandShortName; anda sendiri.">
 <!ENTITY discover.footer                      "Apabila anda telah disambungkan ke internet, anak tetingkap ini akan  memaparkan beberapa aplikasi tambahan yang menarik dan popular untuk anda cuba.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Versi">
 <!ENTITY detail.lastupdated.label             "Pengemaskinian terakhir">
 <!ENTITY detail.creator.label                 "Pembangun">
@@ -149,17 +147,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Keutamaan">
 <!ENTITY detail.showPreferencesUnix.accesskey "K">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Tukarkan keutamaan add-on's ini">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Kadaran">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Jeda">
 <!ENTITY progress.cancel.tooltip              "Batal">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Nama">
 <!ENTITY sort.name.tooltip                    "Susun mengikut nama">
 <!ENTITY sort.dateUpdated.label               "Pengemaskinian terakhir">
@@ -212,27 +210,31 @@
 <!ENTITY eula.accept                          "Terima dan Pasang ...">
 
 <!ENTITY settings.path.button.label           "Carian…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "Apakah ini? Telemetri mungkin dipasang dan melaksanakan eksperimen dari semasa ke semasa.">
 <!ENTITY experiment.info.learnmore "Pelajari Lagi">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Tetapan Telemetri">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Ketahui Lebih Lanjut…">
 
+<!ENTITY disabledUnsigned.heading "Beberapa add-on telah dinyahdayakan">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "Add-on berikut belum disahkan untuk digunakan dalam &brandShortName;. Anda boleh ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "cari pengganti">
+<!ENTITY disabledUnsigned.description.end " atau tanya pembangun untuk mengesahkannya.">
+<!ENTITY disabledUnsigned.learnMore "Ketahui lebih lanjut mengenai usaha kami untuk memastikan anda selamat dalam talian.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-
+<!ENTITY disabledUnsigned.devInfo.start "Pembangun yang berminat untuk mengesahkan add-on mereka boleh meneruskan dengan membaca ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
+<!ENTITY disabledUnsigned.devInfo.end ".">

@@ -4,6 +4,7 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_label "Projek">
 <!ENTITY projectMenu_remove_label "Buang Projek">
 <!ENTITY projectMenu_showPrefs_label "Keutamaan">
 
