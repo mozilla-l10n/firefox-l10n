@@ -222,15 +222,23 @@
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "ផ្ទាល់​ខ្លួន">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "បញ្ចូល​អាសយដ្ឋាន ឬ​ពាក្យ​ស្វែងរក">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "ទូទៅ">
+<!ENTITY pref_header_search "ស្វែងរក">
 <!ENTITY pref_header_privacy_short "ភាព​ឯកជន">
+<!ENTITY pref_header_accessibility "មធ្យោបាយ​ងាយស្រួល">
+<!ENTITY pref_header_notifications "ការ​ជូន​ដំណឹង">
+<!ENTITY pref_header_advanced "កម្រិត​ខ្ពស់">
 <!ENTITY pref_header_help "ជំនួយ">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "​ខូគី">
 <!ENTITY pref_cookies_accept_all "បាន​បើក">
@@ -240,22 +248,43 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_data_saver "ការ​សំចៃ​ទិន្នន័យ">
+<!ENTITY pref_category_media "មេឌា">
+<!ENTITY pref_category_developer_tools "ឧបករណ៍​អ្នក​អភិវឌ្ឍ">
 
+<!ENTITY pref_tap_to_load_images_title2 "បង្ហាញ​រូបភាព">
+<!ENTITY pref_tap_to_load_images_enabled "ជានិច្ច">
+<!ENTITY pref_tap_to_load_images_data "ពេល​មាន Wi-Fi តែ​ប៉ុណ្ណោះ">
+<!ENTITY pref_tap_to_load_images_disabled2 "ប្លុក">
 
+<!ENTITY pref_show_web_fonts "បង្ហាញ​ពុម្ព​អក្សរ​វេប">
+<!ENTITY pref_show_web_fonts_summary2 "ទាញ​យក​ពុម្ពអក្សរ​វេបសាយ​ពេល​កំពុង​ផ្ទុក​ទំព័រ">
 
+<!ENTITY pref_tracking_protection_title2 "ការ​ការពារ​ការ​តាមដាន">
+<!ENTITY pref_tracking_protection_summary3 "បាន​បើក​ដំណើរការ​ក្នុងការ​រុក​រក​ជា​ឯកជន">
 <!ENTITY pref_donottrack_title "កុំ​តាមដាន">
 <!ENTITY pref_donottrack_summary "&brandShortName; នឹង​ប្រាប់​តំបន់បណ្ដាញ​ថា​អ្នក​មិន​ចង់​ឲ្យ​តាមដាន​ទេ">
 
+<!ENTITY pref_tracking_protection_enabled "បាន​បើក​ដំណើរការ">
+<!ENTITY pref_tracking_protection_enabled_pb "បាន​បើក​ដំណើរការ​ក្នុងការ​រុក​រក​ជា​ឯកជន">
+<!ENTITY pref_tracking_protection_disabled "បាន​បិទ">
 
+<!ENTITY pref_whats_new_notification "អ្វី​ដែល​ថ្មី​នៅ​ &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "ស្វែង​យល់​អំពី​មុខងារ​ថ្មីៗ​បន្ទាប់​ពី​ធ្វើ​បច្ចុប្បន្នភាព">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "មុខងារ​ដកពិសោធន៍">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "ផ្ទាំង​ផ្ទាល់​ខ្លួន">
+<!ENTITY pref_custom_tabs_summary "អនុញ្ញាត​ឲ្យ​កម្មវិធី​ទី៣​បើក URLs ជាមួយ​នឹង​រូបរាង​និង​អារម្មណ៍​ផ្ទាល់​ខ្លួន">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "ការ​ផ្សាយ​សកម្មភាព">
+<!ENTITY pref_activity_stream_summary "ព័ត៌មាន​ប្រវត្តិ​ដែល​សម្បូរ​បែប និង​ទំព័រដើម​តាម​ការ​ចង់បាន នឹង​រឹតតែ​ធ្វើ​ឲ្យ​អ្នក​កាន់​តែ​ងាយ​ស្រួល​ស្វែង​រក​អ្វី​ដែល​អ្នក​ចង់​បាន​នៅ​ក្នុង &brandShortName;។">
 
 <!ENTITY tracking_protection_prompt_title "ឥឡូវ​ដោយ​​​ប្រើ​ការ​ទប់ស្កាត់​ការ​តាមដាន">
 <!ENTITY tracking_protection_prompt_text "បិទ​ធាតុ​តាមដាន​ដែល​សកម្ម​ ដូច្នេះ​អ្នក​មិន​ត្រូវ​បារម្ភ​ទេ។">
@@ -269,10 +298,13 @@
 <!ENTITY tab_queue_prompt_tip_text2 "អ្នក​អាច​ផ្លាស់ប្ដូរ​វា​បាន​ពេល​ក្រោយ​នៅ​ក្នុង​ការ​កំណត់">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "បើក​ការ​អនុញ្ញាត​ទាញ​មក​ប្រើ​លើ​កម្មវិធី​ផ្សេងៗ">
 <!ENTITY tab_queue_prompt_positive_action_button "បើក​ដំណើរការ">
 <!ENTITY tab_queue_prompt_negative_action_button "​មិនមែន​ឥឡូវ">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "ទៅ​កាន់​ការ​កំណត់">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -284,31 +316,41 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "ដើម្បី «បើក​តំណ​ច្រើន» សូម​បើក​ដំណើរការ «ទាញ​មក​ប្រើ​លើ​កម្មវិធី​ផ្សេងៗ» សម្រាប់ &brandShortName;">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "វេបសាយ &formatD; បាន​ធ្វើ​បច្ចុប្បន្នភាព">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "ការ​កំណត់">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "អាន​ឥឡូវ">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "បាន​ធ្វើ​បច្ចុប្បន្នភាព​នៅ">
 
 <!ENTITY pref_char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
 <!ENTITY pref_char_encoding_on "បង្ហាញ​ម៉ឺនុយ">
 <!ENTITY pref_char_encoding_off "កុំ​បង្ហាញ​ម៉ឺនុយ">
+<!ENTITY pref_clear_private_data2 "សម្អាត​ទិន្នន័យ​ឯកជន">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "សម្អាត​ឥឡូវ​">
+<!ENTITY pref_clear_on_exit_title3 "សម្អាត​ទិន្នន័យ​ឯកជន​នៅ​ពេល​បិទ">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; នឹង​សម្អាត​ទិន្នន័យ​របស់​អ្នក​ដោយ​ស្វ័យ​ប្រវត្តិ នៅ​ពេលណា​​ដែល​អ្នក​ជ្រើស \u0022ចេញ\u0022 ពី​ម៉ឺនុយ​មេ">
 <!ENTITY pref_clear_on_exit_dialog_title "ជ្រើស​ទិន្នន័យ​ណា​មួយ​ដើម្បី​សម្អាត">
 <!ENTITY pref_plugins "កម្មវិធី​ជំនួយ">
 <!ENTITY pref_plugins_enabled "បាន​បើក">
+<!ENTITY pref_plugins_tap_to_play2 "ប៉ះ​ដើម្បី​លេង">
 <!ENTITY pref_plugins_disabled "បាន​បិទ">
 <!ENTITY pref_text_size "ទំហំ​អត្ថបទ">
+<!ENTITY pref_restore_tabs "ស្ដារ​ផ្ទាំង">
 <!ENTITY pref_restore_always "ស្ដារ​ជានិច្ច">
 <!ENTITY pref_restore_quit "កុំ​ស្ដារ​បន្ទាប់ពី​បិទ &brandShortName;">
 <!ENTITY pref_font_size_tiny "ល្អិត">
@@ -333,11 +375,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "បើក​ការ​ពង្រីក​ជានិច្ច">
 <!ENTITY pref_zoom_force_enabled_summary "បង្ខំ​បដិសេធ ដូច្នេះ​អ្នក​អាច​ពង្រីក​ទំព័រ​ណាមួយ​ក៏​បាន">
 <!ENTITY pref_voice_input "ការ​បញ្ចូល​ជា​សំឡេង">
+<!ENTITY pref_voice_input_summary2 "អនុញ្ញាត​ការ​បញ្ចូល​ជា​សម្លេង​នៅ​ក្នុងរបារ URL">
 <!ENTITY pref_qrcode_enabled "កម្មវិធី​អាន​កូដ QR">
+<!ENTITY pref_qrcode_enabled_summary2 "អនុញ្ញាត​ប្រដាប់​ស្កេន QR នៅ​ក្នុង​របារ URL">
 
 <!ENTITY pref_use_master_password "ប្រើ​ពាក្យ​សម្ងាត់​មេ ">
+<!ENTITY pref_sync2 "ចូល">
 <!ENTITY pref_sync_summary2 "ធ្វើ​សមកាលកម្ម​ផ្ទាំង​, ចំណាំ, ការ​ចូល, ប្រវត្តិ​របស់​អ្នក">
 <!ENTITY pref_search_suggestions "បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក">
+<!ENTITY pref_history_search_suggestions "បង្ហាញ​ប្រវត្ត​ស្វែងរក">
+<!ENTITY pref_import_options "ជម្រើស​ការ​នាំចូល">
 <!ENTITY pref_import_android_summary "នាំចូល​ចំណាំ និង​ប្រវត្តិ​ពី​កម្មវិធី​អ៊ីនធឺណិត​ដើម">
 <!ENTITY pref_private_data_history2 "​ប្រវត្តិ​រក​មើល">
 <!ENTITY pref_private_data_searchHistory "ប្រវត្តិ​ស្វែងរក">
@@ -350,6 +397,8 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "ទាញ​យក">
 <!ENTITY pref_private_data_syncedTabs "ផ្ទាំង​​បាន​ធ្វើ​សមកាលកម្ម">
 
+<!ENTITY pref_default_browser "ដាក់​ជាកម្មវិធី​អ៊ីនធឺណិត​លំនាំ​ដើម">
+<!ENTITY pref_default_browser_mozilla_support_tablet "ចូល​ទៅ​កាន់​ក្រុម​ជំនួយ​ Mozilla">
 <!ENTITY pref_about_firefox "អំពី &brandShortName;">
 <!ENTITY pref_vendor_faqs "សំណួរ​ដែល​សួរ​រឿយៗ">
 <!ENTITY pref_vendor_feedback "ផ្ដល់​មតិ​ត្រឡប់">
@@ -395,14 +444,18 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "បច្ចុប្បន្នកម្ម​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_update_autodownload_wifi "តាម​វ៉ាយហ្វាយ​តែប៉ុណ្ណោះ">
 <!ENTITY pref_update_autodownload_never "កុំ">
+<!ENTITY pref_update_autodownload_always "ជានិច្ច">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "ជំនួយ">
 
 <!ENTITY quit "ចេញ">
 
+<!ENTITY addons "កម្មវិធី​បន្ថែម">
+<!ENTITY logins "ចូល">
 <!ENTITY downloads "ទាញ​យក">
 <!ENTITY char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
 
@@ -411,10 +464,15 @@ size. -->
 <!ENTITY share_image_failed "មិន​អាច​ចែករំលែក​រូបភាព​នេះ">
 <!ENTITY save_as_pdf "រក្សាទុក​ជា PDF">
 <!ENTITY print "បោះពុម្ព">
+<!ENTITY find_in_page "ស្វែងរក​ក្នុង​ទំព័រ">
+<!ENTITY desktop_mode "ស្នើ​ទម្រង់​កុំព្យូទ័រ">
 <!ENTITY page "ទំព័រ">
 <!ENTITY tools "ឧបករណ៍">
+<!ENTITY new_tab "ផ្ទាំង​ថ្មី">
+<!ENTITY new_private_tab "ផ្ទាំង​ឯកជន​ថ្មី">
 <!ENTITY close_all_tabs "បិទ​ផ្ទាំង​ទាំងអស់">
 <!ENTITY close_private_tabs "បិទ​ផ្ទាំង​ឯកជន">
+<!ENTITY tabs_normal "ផ្ទាំង">
 <!ENTITY tabs_private "ឯកជន">
 <!ENTITY set_image_fail "មិន​អាច​កំណត់​រូបភាព">
 <!ENTITY set_image_path_fail "មិន​អាច​រក្សាទុក​រូបភាព">
@@ -422,6 +480,7 @@ size. -->
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "ស្វែងរក​ក្នុង​ទំព័រ">
 <!ENTITY find_prev "មុន">
 <!ENTITY find_next "បន្ទាប់">
 <!ENTITY find_close "បិទ">
@@ -467,11 +526,15 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "ពង្រីក​តំបន់​ដែល​តូច">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "ពង្រីក​តំណ និង​ប្រឡោះបញ្ចូល​ព័ត៌មាន​នៅ​ពេល​ប៉ះ​ក្បែរ​វា">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "ការ​រុករក​ពេញ​អេក្រង់">
+<!ENTITY pref_scroll_title_bar_summary2 "លាក់របារ​ឧបករណ៍ &brandShortName; នៅ​ពេល​រំកិល​ទំព័រ​ចុុះ​ក្រោម">
 
+<!ENTITY pref_tab_queue_title3 "ជួរ​ផ្ទាំង">
+<!ENTITY pref_tab_queue_summary4 "រក្សា​តំណ​រហូត​ដល់​ពេល​អ្នក​បើក &brandShortName; ម្ដង​ទៀត">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -514,13 +577,22 @@ size. -->
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "ទំព័រ​ដើម &brandShortName;">
 <!ENTITY home_history_title "ប្រវត្តិ">
+<!ENTITY home_synced_devices_smartfolder "ឧបករណ៍​ដែល​បាន​​ធ្វើ​សមកាល">
+<!ENTITY home_synced_devices_number "ឧបករណ៍ &formatD;">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "ឧបករណ៍ 1">
+<!ENTITY home_history_back_to2 "ត្រឡប់​ទៅ​ប្រវត្ត​ពេញ">
 <!ENTITY home_clear_history_button "សម្អាត​ប្រវត្តិ​រុករក">
 <!ENTITY home_clear_history_confirm "តើ​អ្នក​ពិតជា​ចង់​សម្អាត​ប្រវត្តិ​របស់​អ្នក​មែនឬ?">
 <!ENTITY home_bookmarks_empty "ចំណាំ​ដែល​អ្នក​បាន​រក្សាទុក​គឺ​បង្ហាញ​នៅ​ទីនេះ។">
+<!ENTITY home_closed_tabs_title2 "ដែល​ទើប​តែ​បិទ">
 <!ENTITY home_last_tabs_empty "ផ្ទាំង​បច្ចុប្បន្ន​របស់​អ្នក​បង្ហាញ​នៅ​ទីនេះ។">
+<!ENTITY home_restore_all "បើក​ឡើងវិញ​ទាំង​អស់">
+<!ENTITY home_closed_tabs_number "ផ្ទាំង &formatD;">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "ផ្ទាំង 1">
 <!ENTITY home_most_recent_empty "តំបន់បណ្ដាញ​ដែល​អ្នក​បាន​ទស្សនា​ថ្មីៗ​បំផុត បង្ហាញ​នៅ​ទីនេះ។">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -532,6 +604,7 @@ size. -->
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_back_to_filter "ត្រឡប់​ទៅ &formatS;">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
@@ -551,6 +624,7 @@ size. -->
 
 <!ENTITY pin_site_dialog_hint "បញ្ចូល​ពាក្យ​គន្លឹះ​ស្វែងរក">
 
+<!ENTITY filepicker_title "ជ្រើស​រើស​ឯកសារ">
 <!ENTITY filepicker_audio_title "ជ្រើស ឬ​ថត​សំឡេង">
 <!ENTITY filepicker_image_title "ជ្រើស ឬ​ថត​រូបភាព">
 <!ENTITY filepicker_video_title "ជ្រើស ឬ​ថត​វីដេអូ">
@@ -570,6 +644,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "ការ​ភ្ជាប់​ដោយ​សុវត្ថិភាព">
 <!ENTITY identity_connection_insecure "ការ​ភ្ជាប់​ដោយ​សុវត្ថិភាព">
+<!ENTITY identity_connection_chromeui "នេះ​ជា​ទំព័រ &brandShortName; ដែល​មាន​សុវត្ថិភាព">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; បាន​ទប់ស្កាត់​ធាតុ​ដែល​គ្មាន​សុវត្ថិភាព​នៅ​លើ​ទំព័រ​នេះ។">
@@ -578,6 +653,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "អ្នក​បាន​បិទ​ការ​ការពារ​ពី​​មាតិកា​ដែល​មិន​មាន​​សុវត្ថិភាព។">
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "ការ​ការពារ​ការតាមដាន">
 <!ENTITY doorhanger_tracking_state_enabled "បាន​​បើក​ដំណើរការ">
 <!ENTITY doorhanger_tracking_state_disabled "បាន​បិទ​ដំណើរការ">
 <!ENTITY doorhanger_tracking_message_enabled1 "បាន​បិទ​ការ​ប៉ុនប៉ង​តាមដាន​សកម្មភាព​លើ​បណ្ដាញ​របស់​អ្នក។">
@@ -591,6 +667,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "បាន​សម្អាត​ទិន្នន័យ​ឯកជន">
 <!ENTITY private_data_fail "ទិន្នន័យ​ឯកជន​មួយ​ចំនួន​មិន​អាច​សម្អាត​បាន​ទេ">
 
+<!ENTITY bookmarkhistory_button_import "នាំចូល">
 <!ENTITY bookmarkhistory_import_both "កំពុង​នាំចូល​ចំណាំ និង​ប្រវត្តិ ពី Android">
 <!ENTITY bookmarkhistory_import_bookmarks "កំពុង​នាំចូល​ចំណាំ ពី Android">
 <!ENTITY bookmarkhistory_import_history "កំពុង​នាំចូល​ប្រវត្តិ ពី Android">
