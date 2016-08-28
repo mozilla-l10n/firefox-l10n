@@ -135,8 +135,8 @@
 
 <!ENTITY event.email.attendees.label                      "Buat Surel untuk Semua Peserta…">
 <!ENTITY event.email.attendees.accesskey                  "S">
-<!ENTITY event.email.tentative.attendees.label            "Buat Surel untuk Semua Peserta yang Belum Pasti…">
-<!ENTITY event.email.tentative.attendees.accesskey        "u">
+<!ENTITY event.email.tentative.attendees.label            "Buat Surel untuk Peserta yang Belum Pasti…">
+<!ENTITY event.email.tentative.attendees.accesskey        "P">
 <!ENTITY event.remove.attendees.label2                    "Hapus semua peserta">
 <!ENTITY event.remove.attendees.accesskey                 "r">
 <!ENTITY event.remove.attendee.label                      "Hapus peserta">
@@ -155,7 +155,7 @@
 <!ENTITY  event.toolbar.privacy.tooltip                   "Ubah Privasi">
 <!ENTITY  event.toolbar.priority.tooltip                  "Ubah Prioritas">
 <!ENTITY  event.toolbar.status.tooltip                    "Ubah Status">
-<!ENTITY  event.toolbar.freebusy.tooltip                  "Ubah waktu Bebas/Sibuk">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Ubah waktu Bebas/Sibuk ">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Judul:" >
@@ -191,10 +191,10 @@
 <!ENTITY event.description.accesskey                      "p">
 <!ENTITY event.attachments.label                          "Lampiran:" >
 <!ENTITY event.attachments.accesskey                      "L" >
-
-
-
-
+<!ENTITY event.attachments.menubutton.label               "Lampirkan">
+<!ENTITY event.attachments.menubutton.accesskey           "a">
+<!ENTITY event.attachments.url.label                      "Halaman Web...">
+<!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "Hapus" >
 <!ENTITY event.attachments.popup.remove.accesskey         "H" >
 <!ENTITY event.attachments.popup.open.label               "Buka" >
@@ -206,7 +206,7 @@
 <!ENTITY event.url.label                                  "Tautan Terkait:" >
 <!ENTITY event.priority2.label                            "Prioritas:">
 
-<!ENTITY event.reminder.none.label                        "Tidak ada" >
+<!ENTITY event.reminder.none.label                        "Tidak ada pengingat " >
 <!ENTITY event.reminder.0minutes.before.label             "0 menit sebelumnya" >
 <!ENTITY event.reminder.5minutes.before.label             "5 menit sebelumnya" >
 <!ENTITY event.reminder.15minutes.before.label            "15 menit sebelumnya" >
@@ -217,11 +217,12 @@
 <!ENTITY event.reminder.1day.before.label                 "1 hari sebelumnya" >
 <!ENTITY event.reminder.2days.before.label                "2 hari sebelumnya" >
 <!ENTITY event.reminder.1week.before.label                "1 minggu sebelumnya" >
-<!ENTITY event.reminder.custom.label                      "Suka-suka…" >
+<!ENTITY event.reminder.custom.label                      "Ubahsuai…" >
 
 <!ENTITY event.reminder.multiple.label                    "Multialarm…" >
 
-
+<!ENTITY event.statusbarpanel.freebusy.label              "Waktu sebagai:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privasi:">
 <!-- Recurrence dialog -->
 
 <!ENTITY recurrence.title.label                         "Ubah Perulangan">
@@ -233,7 +234,7 @@
 <!ENTITY event.repeat.bi.weekly.label                   "2-Mingguan">
 <!ENTITY event.repeat.monthly.label                     "Bulanan">
 <!ENTITY event.repeat.yearly.label                      "Tahunan">
-<!ENTITY event.repeat.custom.label                      "Suka-suka…">
+<!ENTITY event.repeat.custom.label                      "Ubahsuai…">
 
 <!ENTITY event.recurrence.pattern.label                 "Pola perulangan">
 <!ENTITY event.recurrence.occurs.label                  "Ulang" >
@@ -331,8 +332,8 @@
 <!ENTITY event.recurrence.preview.label                 "Pratinjau">
 <!-- Attendees dialog -->
 
-<!ENTITY invite.title.label                     "Undang Undangan">
-<!ENTITY event.organizer.label                  "Organizer">
+<!ENTITY invite.title.label                     "Undang Peserta">
+<!ENTITY event.organizer.label                  "Penyelenggara">
 <!ENTITY event.freebusy.suggest.slot            "Sarankan rentang waktu:">
 
 
