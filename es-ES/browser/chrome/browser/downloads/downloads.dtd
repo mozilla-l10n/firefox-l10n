@@ -22,8 +22,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey "L">
 <!ENTITY cmd.removeFromHistory.label "Eliminar del historial">
 <!ENTITY cmd.removeFromHistory.accesskey "e">
-<!ENTITY cmd.clearList.label "Limpiar lista">
-<!ENTITY cmd.clearList.accesskey "a">
+<!ENTITY cmd.clearList2.label "Limpiar panel de vista previa">
+<!ENTITY cmd.clearList2.accesskey "A">
 <!ENTITY cmd.clearDownloads.label "Limpiar descargas">
 <!ENTITY cmd.clearDownloads.accesskey "D">
 <!ENTITY cmd.unblock2.label "Permitir descarga">
@@ -35,6 +35,7 @@
 <!ENTITY learnMore.label "Saber más">
 <!ENTITY downloadsHistory.label "Mostrar todas las descargas">
 <!ENTITY downloadsHistory.accesskey "S">
+<!ENTITY openDownloadsFolder.label "Abrir carpeta de descargas">
 <!ENTITY clearDownloadsButton.label "Limpiar descargas">
 <!ENTITY clearDownloadsButton.tooltip "Limpia las descargas completas, canceladas y fallidas">
 <!ENTITY downloadsListEmpty.label "No hay descargas.">
