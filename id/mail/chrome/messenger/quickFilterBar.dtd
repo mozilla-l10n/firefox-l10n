@@ -110,7 +110,7 @@
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
 
-<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 pesan">
+<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 pesan;#1 pesan">
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
