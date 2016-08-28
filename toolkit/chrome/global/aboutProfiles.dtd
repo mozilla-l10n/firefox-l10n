@@ -2,7 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
+<!ENTITY aboutProfiles.title "Maklumat Profil">
+<!ENTITY aboutProfiles.subtitle "Laman ini membantu anda untuk menguruskan profil. Setiap profil adalah entiti berbeza yang mengandungi perkataan, sejarah, penanda buku, tetapan dan add-on yang berasingan.">

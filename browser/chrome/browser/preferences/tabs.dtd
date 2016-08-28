@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Pusingan Ctrl+Tab melalui tab dalam turutan yang baru digunaka">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
 <!ENTITY newWindowsAsTabs.label       "Buka tingkap dalam tab baru">
 <!ENTITY newWindowsAsTabs.accesskey   "r">
