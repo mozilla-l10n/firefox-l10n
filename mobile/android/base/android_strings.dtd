@@ -7,42 +7,30 @@
 <!ENTITY firstrun_urlbar_message "Selamat Datang ke &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Mencari perkara lebih cepat dengan dibantu pintasan carian cadangan.">
 <!ENTITY firstrun_bookmarks_title "Sejarah">
-
-
 <!ENTITY firstrun_data_title "Data">
-
-
 <!ENTITY firstrun_sync_title "Sync">
-
-
-
-
 <!ENTITY  onboard_start_button_browser "Mulakan Pelayaran">
-
 <!ENTITY firstrun_button_next "Berikutnya">
 
 <!ENTITY firstrun_tabqueue_title "Pautan">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
-
 <!ENTITY firstrun_tabqueue_message_on "Berjaya!">
-
 
 <!ENTITY firstrun_readerview_title "Artikel">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
-
 <!ENTITY firstrun_account_title "Anda">
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-
 <!ENTITY  bookmarks_title "Penandabuku">
 <!ENTITY  history_title "Sejarah">
 
 <!ENTITY  switch_to_tab "Tukar ke tab">
+
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "&brandShortName; Pelapor Nahas">
@@ -70,12 +58,12 @@
 <!ENTITY bookmark_removed "Penandabuku dikeluarkan">
 <!ENTITY bookmark_updated "Penandabuku dikemaskini">
 <!ENTITY bookmark_options "Pilihan">
-
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Cakupan skrin">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Senarai Bacaan">
+
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 <!ENTITY bookmark_folder_one_item "1 item">
@@ -125,32 +113,31 @@
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
 <!ENTITY pref_category_language "Bahasa">
 <!ENTITY pref_category_language_summary "Ubah bahasa pelayar anda">
 <!ENTITY pref_browser_locale "Bahasa pelayar">
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-
 <!ENTITY locale_system_default "Lalai sistem">
+
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-
 <!ENTITY overlay_share_label "Tambah ke &brandShortName;">
+
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
 <!ENTITY overlay_share_bookmark_btn_label "Tanda buku">
 <!ENTITY overlay_share_bookmark_btn_label_already "Tersedia ditanda bukukan">
 <!ENTITY overlay_share_send_other "Hantar ke peranti lain">
+
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 <!ENTITY overlay_share_send_tab_btn_label "Hantar ke peranti lain">
 <!ENTITY overlay_share_no_url "Tiada pautan ditemui di dalam kongsian ini">
 <!ENTITY overlay_share_select_device "Pilih peranti">
@@ -160,15 +147,8 @@
 <!ENTITY overlay_no_synced_devices "Peranti Firefox akaun yang bersambung tidak dapat dijumpai">
 
 <!ENTITY pref_category_search3 "Carian">
-
-
-
 <!ENTITY pref_category_privacy_short "Privasi">
-
-
-
 <!ENTITY pref_category_datareporting "Pilihan data">
-
 <!ENTITY pref_learn_more "Ketahui lagi">
 <!ENTITY pref_category_installed_search_engines "Enjin carian dipasang">
 <!ENTITY pref_category_add_search_providers "Tambah lagi penyedia carian">
@@ -180,29 +160,16 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
-
-
-
-
-
-
-
 <!ENTITY pref_manage_logins "Urus log masuk">
 
 <!ENTITY pref_category_home "Utama">
 <!ENTITY pref_category_home_summary "Menyesuai laman utama anda">
 <!ENTITY pref_category_home_panels "Panel">
-
-
 <!ENTITY pref_home_updates_enabled "Dibolehkan">
 <!ENTITY pref_home_updates_wifi "Hanya melalui Wi-Fi">
-
-
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -215,29 +182,19 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-
 <!ENTITY pref_header_privacy_short "Privasi">
-
-
-
 <!ENTITY pref_header_help "Bantuan">
-
 
 <!ENTITY pref_cookies_menu "Kuki">
 <!ENTITY pref_cookies_accept_all "Dibolehkan">
 <!ENTITY pref_cookies_not_accept_foreign "Dibolehkan, tidak termasuk pihak ke-3">
 <!ENTITY pref_cookies_disabled "Dilumpuhkan">
+
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
-
-
-
-
-
-
 
 
 
@@ -246,10 +203,9 @@
 
 
 
-
-
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
@@ -257,27 +213,19 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 
-
-
-
-
 <!ENTITY tab_queue_toast_action "Buka sekarang">
 <!ENTITY tab_queue_prompt_title "Buka berbilang pautan?">
-
-
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-
-
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
@@ -296,19 +244,15 @@
 <!ENTITY pref_char_encoding "Pengekodan aksara">
 <!ENTITY pref_char_encoding_on "Papar menu">
 <!ENTITY pref_char_encoding_off "Jangan papar menu">
-
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Padam sekarang">
-
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan memadam data anda secara automatik apabila anda memilih \u0022Berhenti\u0022 daripada menu utama">
 <!ENTITY pref_clear_on_exit_dialog_title "Pilih data yang ingin dipadam">
 <!ENTITY pref_plugins "Plugin">
 <!ENTITY pref_plugins_enabled "Dibolehkan">
-
 <!ENTITY pref_plugins_disabled "Dilumpuhkan">
 <!ENTITY pref_text_size "Saiz teks">
-
 <!ENTITY pref_restore_always "Sentiasa memulihkan">
 <!ENTITY pref_restore_quit "Jangan memulihkan selepas berhenti &brandShortName;">
 <!ENTITY pref_font_size_tiny "Sangat Kecil">
@@ -323,9 +267,9 @@ same character/combination is used to increase the preview font size. It should 
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
 <!ENTITY pref_font_size_adjust_char "A">
+
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-
 <!ENTITY pref_font_size_preview_text "Musang oren yang pantas melompat melebihi jangkaan anda dengan kelajuan yang lebih, lebih fleksibiliti dan lebih keselamatan. Sebagai organisasi tanpa untung, kami bebas untuk melakukan pembaharuan bagi pihak anda tanpa sebarang tekanan untuk berkompromi. Ini bermakna pengalaman yang lebih baik untuk anda dan masa depan yang lebih cerah untuk Web.">
 
 <!ENTITY pref_media_autoplay_enabled "Benarkan auto main">
@@ -333,28 +277,14 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Sentiasa bolehkan zum">
 <!ENTITY pref_zoom_force_enabled_summary "Paksa langkauan supaya anda boleh zum sebarang laman">
 
-
-
-
-
 <!ENTITY pref_use_master_password "Guna kata laluan induk">
-
-
 <!ENTITY pref_search_suggestions "Tunjuk cadangan carian">
-
-
-
 <!ENTITY pref_private_data_history2 "Sejarah pelungsuran">
-
-
 <!ENTITY pref_private_data_cookies2 "Kuki &amp; log masuk aktif">
-
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Data laman web luar talian">
 <!ENTITY pref_private_data_siteSettings2 "Tetapan laman">
 <!ENTITY pref_private_data_downloadFiles2 "Muat turun">
-
-
 
 <!ENTITY pref_about_firefox "Mengenai &brandShortName;">
 <!ENTITY pref_vendor_faqs "Soalan Lazim">
@@ -380,13 +310,13 @@ size. -->
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-
 <!ENTITY datareporting_fhr_title "&brandShortName; Laporan Kesihatan">
 <!ENTITY datareporting_fhr_summary2 "Kongsi data dengan &vendorShortName; tentang kesihatan pelayar anda dan membantu anda memahami prestasi pelayar anda">
 <!ENTITY datareporting_abouthr_title "Lihat Laporan Kesihatan saya">
@@ -397,18 +327,14 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Laporan Kecelakaan">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Lokasi Perkhidmatan">
-
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
 <!ENTITY pref_update_autodownload_never "Tidak sekali">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "Keluar">
-
-
 
 <!ENTITY char_encoding "Pengekodan Aksara">
 
@@ -416,32 +342,23 @@ size. -->
 <!ENTITY share_title "Kongsi melalui">
 <!ENTITY share_image_failed "Imej tidak berjaya dikongsi">
 <!ENTITY save_as_pdf "Simpan sebagai PDF">
-
-
-
 <!ENTITY page "Halaman">
 <!ENTITY tools "Alatan">
-
-
 <!ENTITY close_all_tabs "Tutup Semua Tab">
 <!ENTITY close_private_tabs "Tutup Tab Peribadi">
-
 <!ENTITY tabs_private "Persendirian">
 <!ENTITY set_image_fail "Tidak dapat menetapkan imej">
-
 <!ENTITY set_image_chooser_title "Tetapkan Imej Sebagai">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_prev "Sebelumnya">
 
-
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY media_sending_to "Menghantar ke Peranti">
 <!ENTITY media_play "Memainkan">
 <!ENTITY media_pause "Jeda">
-
 
 <!ENTITY contextmenu_open_new_tab "Buka di Tab Baru">
 <!ENTITY contextmenu_open_private_tab "Buka dalam Tab Persendirian">
@@ -458,50 +375,44 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Pin Laman">
 <!ENTITY contextmenu_top_sites_unpin "Nyahsemat Laman">
 <!ENTITY contextmenu_add_search_engine "Tambah Enjin Carian">
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
 <!ENTITY doorhanger_login_no_username "[No username]">
 <!ENTITY doorhanger_login_edit_title "Sunting log masuk">
 <!ENTITY doorhanger_login_edit_username_hint "Nama Pengguna">
 <!ENTITY doorhanger_login_edit_password_hint "Katalaluan">
 <!ENTITY doorhanger_login_edit_toggle "Tunjuk katalaluan">
 
-
-
-
-
-
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
 <!ENTITY pref_scroll_title_bar2 "Pelayaran Skrin-penuh ">
+<!ENTITY pref_scroll_title_bar_summary2 "Sorok bar alat &brandShortName; apabila skrol ke bawah halaman">
 
-
+<!ENTITY pref_tab_queue_summary4 "Simpan pautan sehingga anda buka lagi sekali &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-
 <!ENTITY page_removed "Halaman dikeluarkan">
 
 <!ENTITY bookmark_edit_title "Sunting PenandaBuku">
 <!ENTITY bookmark_edit_name "Nama">
 <!ENTITY bookmark_edit_location "Lokasi">
 <!ENTITY bookmark_edit_keyword "Kata kunci">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
 <!ENTITY site_settings_title3       "Tetapan Laman">
 <!ENTITY site_settings_cancel       "Batal">
 <!ENTITY site_settings_clear        "Bersih">
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-
 <!ENTITY page_action_dropmarker_description "Tindakan Tambahan">
 
 <!ENTITY masterpassword_create_title "Cipta Kata Laluan Induk">
@@ -522,36 +433,32 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Tambah sebuah laman">
+
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_history_title "Sejarah">
-
-
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-
 <!ENTITY home_clear_history_button "Bersihkan sejarah pelayaran">
 <!ENTITY home_clear_history_confirm "Adakah anda pasti anda mahu memadam sejarah anda?">
 <!ENTITY home_bookmarks_empty "Penandabuku yang anda simpan dipaparkan di sini.">
-
 <!ENTITY home_last_tabs_empty "Tab terbaru anda dipaparkan di sini.">
-
-
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Laman web yang kerap anda lawati baru-baru ini akan dipaparkan di sini.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: Menggunakan &formatS1; Tab swasta baru&formatS2; tidak akan menyimpan sejarah anda.">
+
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-
 <!ENTITY home_default_empty "Tiada kandungan yang ditemui untuk panel ini.">
+
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; peranti tersembunyi">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -569,8 +476,8 @@ size. -->
 <!ENTITY filepicker_audio_title "Pilih atau rekod bunyi">
 <!ENTITY filepicker_image_title "Pilih atau ambil gambar">
 <!ENTITY filepicker_video_title "Pilih atau rekod video">
-<!-- Site identity popup -->
 
+<!-- Site identity popup -->
 <!ENTITY identity_connected_to "Anda telah disambungkan ke">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -583,19 +490,15 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
+<!ENTITY identity_connection_chromeui "Halaman ini adalah halaman &brandShortName; yang selamat">
 
 <!-- Mixed content notifications in site identity popup -->
-
-
+<!ENTITY mixed_content_protection_disabled1 "Anda telah menyahaktif perlindungan daripada kandungan yang tidak selamat.">
 
 <!-- Tracking content notifications in site identity popup -->
-
-
-
+<!ENTITY doorhanger_tracking_message_disabled2 "Halaman ini mengandungi elemen yang boleh menjejak pelayaran anda.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
-
 <!ENTITY learn_more "Ketahui Lanjut">
 <!ENTITY enable_protection "Bolehkan perlindungan">
 <!ENTITY disable_protection "Lumpuhkan pelindungan">
@@ -616,15 +519,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
 <!ENTITY search_bar_item_desc "Carian dengan &formatS;">
+
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-
 <!ENTITY suggestion_for_engine "Cari &formatS1; untuk &formatS2;">
 
 <!ENTITY searchable_description "Penandabuku dan sejarah">
-<!-- Updater notifications --> 
 
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Kemaskini tersedia untuk &brandShortName;">
 <!ENTITY updater_start_select2 "Sentuh untuk muat turun">
 
@@ -635,52 +538,56 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title2 "Kemaskini tersedia untuk &brandShortName;">
 <!ENTITY updater_apply_select2 "Sentuh untuk kemas kini">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "Untuk memuat turun fail dan pengemaskinian, beri &brandShortName; kebenaran untuk mengakses simpanan.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!-- Guest mode -->    
 
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "Sesi Tetamu Baru">
 <!ENTITY exit_guest_session "Keluar Sesi Tetamu">
 <!ENTITY guest_session_dialog_continue "Sambung">
 <!ENTITY guest_session_dialog_cancel "Batal">
 <!ENTITY new_guest_session_title "&brandShortName; akan mula semula sekarang">
-
 <!ENTITY guest_browsing_notification_title "Pelayaran tetamu adalah dibenarkan">
 <!ENTITY guest_browsing_notification_text "Tap untuk keluar">
 
 <!ENTITY exit_guest_session_text "Data pelayaran dari sesi ini anda dihapuskan.">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-
 <!ENTITY ellipsis "...">
 
 <!ENTITY colon ":">
+
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Selesai">
-<!-- Voice search in the awesome bar -->
 
+<!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Bersuara sekarang">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-
 <!ENTITY remote_tabs_last_synced "Terakhir disync: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Akhir disync: tiada">
+
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
@@ -692,32 +599,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
 <!ENTITY restrictable_feature_private_browsing "Melungsur Secara Peribadi">
-
-
-
-
-
-
-
-
+<!ENTITY restrictable_feature_camera_microphone_description "Izinkan ahli keluarga berkomunikasi dalam masa sebenar dalam laman web.">
+<!ENTITY restrictable_feature_block_list_description "Sekat laman web yang mengandungi kandungan sensitif.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Sesuaikan dengan ciri tambahan">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
@@ -725,12 +629,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName; adalah yang terkini">
 
 
 
-
-
-
-
-
+<!ENTITY helper_triple_readerview_open_title "Tersedia di luar talian">
+<!ENTITY helper_triple_readerview_open_message "Tanda buku item Reader View untuk dibaca di luar talian.">
 
