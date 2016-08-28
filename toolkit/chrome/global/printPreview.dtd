@@ -32,9 +32,8 @@
 <!ENTITY Custom.label         "Adat...">
 <!ENTITY ShrinkToFit.label    "Mengecil Untuk Muat">
 <!ENTITY customPrompt.title   "Skala Penyesuaian...">
-
-
-
+<!ENTITY simplifyPage.enabled.tooltip  "Tukar susun atur untuk pembacaan mudah">
+<!ENTITY simplifyPage.disabled.tooltip "Laman ini tidak dapat dipermudahkan secara automatik">
 
 <!ENTITY homearrow.tooltip    "Laman Pertama">
 <!ENTITY endarrow.tooltip     "Laman Terakhir">
