@@ -11,8 +11,9 @@
 <!ENTITY pref.dateformat.label "Format Tanggal:" >
 <!ENTITY pref.dateformat.accesskey "t">
 <!ENTITY pref.dateformat.long "Panjang" >
-<!ENTITY pref.dateformat.short "Short"  >
+<!ENTITY pref.dateformat.short "Pendek"  >
 
+<!ENTITY pref.timezones.caption "Zona Waktu">
 
 
 
@@ -21,8 +22,9 @@
 
 
 
-
-
+<!ENTITY pref.default_task_none.label "Nihil">
+<!ENTITY pref.default_task_start_of_day.label "Awal Hari">
+<!ENTITY pref.default_task_end_of_day.label "Akhir Hari">
 <!ENTITY pref.default_task_tomorrow.label "Besok">
 
 
