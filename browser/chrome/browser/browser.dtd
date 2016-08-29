@@ -574,7 +574,7 @@
 <!ENTITY social.directory.viewmore.text "Показать ещё">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Дополнительные инструменты и функции">
 <!ENTITY customizeMode.menuAndToolbars.empty "Нужно больше инструментов?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Выбирайте из тысяч дополнений">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Выберите нужные вам дополнения">
 <!ENTITY customizeMode.restoreDefaults "По умолчанию">
 <!ENTITY customizeMode.toolbars "Показать / Скрыть панели">
 <!ENTITY customizeMode.titlebar "Заголовок">
