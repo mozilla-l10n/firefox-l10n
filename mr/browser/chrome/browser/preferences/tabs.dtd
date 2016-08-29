@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY newWindowsAsTabs.label       "त्याऐवजी नविन चौकटांना नविन टॅबमध्ये उघडा">
+<!ENTITY newWindowsAsTabs.accesskey   "w">
 
 <!ENTITY warnCloseMultipleTabs.label  "एकापेक्षा जास्त टॅब बंद करतेवेळी मला सावध करा">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
