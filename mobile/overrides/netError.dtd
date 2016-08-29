@@ -185,7 +185,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; esti sivua latautumasta tällä tavalla, koska sivulle asetettu sisällön turvallisuuskäytäntö estää sen.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Sisältö vioittunut -virhe">
-<!ENTITY corruptedContentError.longDesc "<p>Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Tai lisää poikkeussääntö…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Siirry pois sivulta">
