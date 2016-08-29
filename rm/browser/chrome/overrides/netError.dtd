@@ -106,9 +106,11 @@
 <!ENTITY nssFailure2.title "La connexiun segira n'è betg reussida">
 <!ENTITY nssFailure2.longDesc2 "<p>La pagina dumandada na po betg vegnir mussada, perquai che l'autenticitad da las datas na po betg vegnir verifitgada.</p><ul><li>Contactescha per plaschair ils administraturs da la website per infurmar els davart quest problem.</li></ul>">
 
+<!ENTITY certerror.longpagetitle1 "Tia connexiun n'è betg segira">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Il possessur da <span class='hostname'/> ha configurà malamain sia website.  Per proteger tias infurmaziuns dad enguladitschs n'ha &brandShortName; betg stabilì ina connexiun cun questa website.">
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>Eventualmain n'è la website temporarmain betg cuntanschibla. Emprova per plaschair pli tard anc ina giada.</li> 
@@ -119,6 +121,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Bloccà da las directivas per la segirezza dal cuntegn">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha impedì che questa pagina chargia en tala maniera perquai che la pagina cuntegna directivas per la segirezza dal cuntegn (content security policy) che scumondan quai.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Errur da cuntegn donnegià">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Impussibel da visualisar la pagina che ti vuls chargiar perquai ch'ina errur è sa mussada en la transmissiun da datas.</p><ul><li>Contactescha per plaschair ils possessurs da la website per als infurmar davart quest problem.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Agiuntar in'excepziun…">
