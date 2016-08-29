@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Harien esekitzeak">
 
+<!ENTITY aboutTelemetry.scalarsSection "  Eskalarrak">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogramak">
 
