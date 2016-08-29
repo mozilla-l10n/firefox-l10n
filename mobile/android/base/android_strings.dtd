@@ -740,9 +740,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY restrictable_feature_addons_installation "एड-अनहरु">
 
+<!ENTITY restrictable_feature_private_browsing "निजी ब्राउजिङ">
 
-
-
+<!ENTITY restrictable_feature_clear_history "इतिहास हटाउनुहोस्">
 
 
 
@@ -756,20 +756,26 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "वेबको बारेमा सिक्नुहोस्: Mozilla Webmaker">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-
+<!ENTITY eol_notification_title2 "&brandShortName; अब अद्यावधिक हुँदैन">
+<!ENTITY eol_notification_summary "अरू जान्नको लागि यहाँ थिच्नुहोस्">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
+<!ENTITY whatsnew_notification_title "&brandShortName; अप टु डेट छ">
+<!ENTITY whatsnew_notification_summary "यो संस्करणमा नयाँ के छ जान्नुहोस्">
 
 <!ENTITY promotion_add_to_homescreen "गृह पर्दामा थप्नुहोस">
 
+<!ENTITY helper_first_offline_bookmark_title "अफलाइन पढ्नुहोस्">
 
+<!ENTITY helper_first_offline_bookmark_button "पुस्तकचिनोहरूमा जानुहोस्">
 
+<!ENTITY helper_triple_readerview_open_title "अफलाइन उपलब्ध छ">
 
-
-
+<!ENTITY helper_triple_readerview_open_button "पुस्तकचिनोहरूमा थप्नुहोस्">
 
