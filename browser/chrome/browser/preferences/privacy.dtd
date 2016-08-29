@@ -17,7 +17,6 @@
 <!ENTITY trackingProtectionPBM5.label         "ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "ਹੋਰ ਜਾਣੋ">
-
 <!ENTITY changeBlockList.label          "ਪਾਬੰਦੀ ਸੂਚੀ ਨੂੰ ਬਦਲੋ">
 <!ENTITY changeBlockList.accesskey      "C">
 
@@ -105,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "…ਸੈਟਿੰਗਾਂ">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY  browserContainersHeader.label         "ਕਨਟੇਨਰ ਟੈਬ">
+<!ENTITY  browserContainersLearnMore.label      "ਹੋਰ ਜਾਣੋ">
+<!ENTITY  browserContainersEnabled.label        "ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
