@@ -23,7 +23,7 @@
 
 <!ENTITY firstrun_tabqueue_title "Tautan">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Nyalakan Tab antrian">
+<!ENTITY firstrun_tabqueue_message_off "Nyalakan Antrian tab">
 <!ENTITY firstrun_tabqueue_subtext_off "Simpan tautan untuk nanti di &brandShortName; ketika mengetuknya di aplikasi lain.">
 
 <!ENTITY firstrun_tabqueue_message_on "Sukses!">
@@ -130,7 +130,7 @@
 <!ENTITY settings "Pengaturan">
 <!ENTITY settings_title "Pengaturan">
 <!ENTITY pref_category_general "Umum">
-<!ENTITY pref_category_general_summary3 "Beranda, bahasa, tab antrian">
+<!ENTITY pref_category_general_summary3 "Beranda, bahasa, antrian tab">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -516,7 +516,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Penjelajahan layar penuh">
 <!ENTITY pref_scroll_title_bar_summary2 "Sembunyikan bilah judul &brandShortName; saat menggulir laman ke bawah">
 
-<!ENTITY pref_tab_queue_title3 "Tab antrian">
+<!ENTITY pref_tab_queue_title3 "Antrian tab">
 <!ENTITY pref_tab_queue_summary4 "Simpan tautan hingga nanti Anda membuka &brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
