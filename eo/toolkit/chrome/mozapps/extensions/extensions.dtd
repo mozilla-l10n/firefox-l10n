@@ -109,7 +109,7 @@
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Ŝanĝi la preferojn de tiu ĉi aldonaĵo">
 <!ENTITY cmd.contribute.label                 "Kontribui">
 <!ENTITY cmd.contribute.accesskey             "K">
-<!ENTITY cmd.contribute.tooltip               "Kontribui al la disvolvigado de tiu ĉi aldonaĵo">
+<!ENTITY cmd.contribute.tooltip               "Kontribui al la disvolvo de tiu ĉi aldonaĵo">
 
 <!ENTITY cmd.showReleaseNotes.label           "Montri liverajn notojn">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Montri la liverajn notojn de tiu ĉi ĝisdatigo">
@@ -130,7 +130,7 @@
 <!ENTITY detail.homepage.label                "Ĉefpaĝo">
 <!ENTITY detail.numberOfDownloads.label       "Elŝutoj">
 
-<!ENTITY detail.contributions.description     "La disvolviganto de tiu ĉi aldonaĵo petas al vi subteni la daŭran disvolvigadon per eta kontribuo.">
+<!ENTITY detail.contributions.description     "La programisto de tiu ĉi aldonaĵo petas al vi subteni la daŭran disvolvon per eta kontribuo.">
 
 <!ENTITY detail.updateType                    "Aŭtomataj ĝisdatigoj">
 <!ENTITY detail.updateDefault.label           "Ĉefa">
@@ -235,11 +235,11 @@
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "La jenaj aldonaĵoj ne estis kontrolitaj por uzo en &brandShortName;. Vi povas ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "trovi anstataŭojn">
-<!ENTITY disabledUnsigned.description.end " aŭ peti al la disvolvanto igi ilin kontrolitaj.">
+<!ENTITY disabledUnsigned.description.end " aŭ peti al la programisto kontroli ilin.">
 <!ENTITY disabledUnsigned.learnMore "Pli da informo pri niaj penoj helpi vin plu esti sekura en la reto.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Disvolvantoj, kiuj volas ke iliaj aldonaĵoj estu kontrolitaj povas komenci per legado de nia ">
+<!ENTITY disabledUnsigned.devInfo.start "Programistoj, kiuj volas ke iliaj aldonaĵoj estu kontrolitaj povas komenci per legado de nia ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manlibro">
 <!ENTITY disabledUnsigned.devInfo.end ".">

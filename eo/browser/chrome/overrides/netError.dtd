@@ -30,7 +30,7 @@ certiĝu ke &brandShortName; rajtas aliri la TTT-n.</li> </ul>">
 <!ENTITY fileNotFound.title "Dosiero ne trovita">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Kontrolu ĉu la dosiernomo estas ĝuste literumita (majuskloj kaj minuskloj) kaj ĉu estas tajperaroj.</li> 
-<li>Kontrolu ĉu la dosiero estis movita, renomita aŭ forviŝita.</li> 
+<li>Kontrolu ĉu la dosiero estis movita, renomita aŭ forigita.</li> 
 </ul>">
 
 <!ENTITY fileAccessDenied.title "Rifuzita aliro al dosiero">
@@ -152,7 +152,7 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Spertula informo: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Altnivela">
+<!ENTITY weakCryptoAdvanced.title "Spertula">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> uzas sekurecan teĥnologion, kiu estas kaduka kaj sendefenda. Atakanto povas facile elmeti informojn, kiujn vi opiniis sekuraj.">
 <!ENTITY weakCryptoAdvanced.override "(Ne sekura) Klopodi ŝargi <span class='hostname'></span> kun kaduka sekureco">
 

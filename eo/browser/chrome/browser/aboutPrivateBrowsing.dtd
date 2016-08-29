@@ -6,7 +6,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Malfermi privatan fenestron">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
-<!ENTITY privateBrowsing.title                           "Privata retumado">
+<!ENTITY privateBrowsing.title                           "Privata retumo">
 <!ENTITY privateBrowsing.title.tracking                  "Privata retumo kun protekto kontraŭ spurado">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Dum vi retumas en privata fenestro, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ne konservas">
