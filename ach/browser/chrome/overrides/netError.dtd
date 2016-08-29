@@ -68,6 +68,7 @@
 <!ENTITY unknownSocketType.title "Lagam ma pe kibedo ka kuro ki bot lapok tic">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Ngi me neno ni ki keto Lalor gwoko kuc pa dano i nyonyo ni.</li> <li>Man twero bedo pi ter mogo mape ki ye i lapok tic.</li> </ul>">
 
+<!ENTITY nssFailure2.title "Kube maber pe olare">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Pot buk ma i tye ka temo neno ne ni pe kitwero nyuto ne pien twero pi tic ma kinongo ni pe ki romo moko.</li> <li>Tim ber i kube ki wegi kakube man pi mini gi ngec me peko man.</li> </ul>">
 
 <!-- Localization note (certerror.introPara) - The text content of the span tag

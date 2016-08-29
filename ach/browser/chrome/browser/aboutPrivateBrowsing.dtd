@@ -6,6 +6,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Yab dirica me mung">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
 
+<!ENTITY privateBrowsing.title                           "Yeny i mung">
 
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Ka i yenyo i Dirica me mung, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "pe gwoko">

@@ -299,9 +299,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Ngol">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "o"> 
-
+<!ENTITY copyCmd.label            "Lok">  
 <!ENTITY copyCmd.key            "C">  
-
+<!ENTITY copyCmd.accesskey          "L"> 
 <!ENTITY pasteCmd.label           "Mwon">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "M"> 
@@ -569,8 +569,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "N">
 <!ENTITY mediaUnmute.label           "Yab dwone">
 <!ENTITY mediaUnmute.accesskey       "d">
-
-
+<!ENTITY mediaPlaybackRate2.label     "Dwiro me Tuko">
+<!ENTITY mediaPlaybackRate2.accesskey "T">
 
 
 
@@ -688,12 +688,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "M">
 
 <!ENTITY editBookmark.done.label                     "Otum">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Kube maber">
 <!ENTITY identity.connectionNotSecure "Kube pe tye ki ber bedo">
 <!ENTITY identity.connectionFile "Kigwoko potbuk man i kompiuta mamegi.">
-
+<!ENTITY identity.connectionVerified2 "Itye ki kube maber ki kakube man, rwode aye:">
 <!ENTITY identity.connectionInternal "Man potbuk me &brandShortName; matye ki ber bedo.">
 
 <!-- Strings for connection state warnings. -->
@@ -747,14 +747,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Yab i dirica manyen">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "m">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Yab i dirica manyen me mung">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "m">
 
 
-
-
-
-
-
-
+<!ENTITY syncedTabs.context.copy.label                       "Lok">
+<!ENTITY syncedTabs.context.copy.accesskey                   "L">
 
 
 <!ENTITY syncBrand.shortName.label    "Tim marom">
