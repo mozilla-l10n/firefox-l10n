@@ -27,7 +27,7 @@
 <!ENTITY options.enableChrome.label5 "Включить инструменты отладки browser chrome и дополнений">
 <!ENTITY options.enableChrome.tooltip3 "Включение этой опции позволит вам использовать различные инструменты разработчика в контексте браузера (через Инструменты > Веб-разработка > Инструменты браузера) и отлаживать дополнения из окна Управления дополнениями">
 <!ENTITY options.enableRemote.label3 "Включить удалённую отладку">
-<!ENTITY options.enableRemote.tooltip "Включение этой опции позволит использовать инструменты разработчика для отладки удаленного экземпляра Firefox, такого как Firefox OS">
+<!ENTITY options.enableRemote.tooltip2 "Включение этой опции позволит использовать инструменты разработчика для отладки удалённого экземпляра, такого как Firefox OS">
 <!ENTITY options.enableWorkers.label "Включить отладку worker (в разработке)">
 <!ENTITY options.enableWorkers.tooltip "Включение этой опции позволит использовать инструменты разработчика для отладки workers">
 <!ENTITY options.disableJavaScript.label "Отключить JavaScript *">
@@ -36,7 +36,7 @@
 <!ENTITY options.disableHTTPCache.tooltip "Включение этой опции отключит HTTP-кэш для всех вкладок, в которых открыта панель инструментов. Эта опция не влияет на Service Workers.">
 <!ENTITY options.enableServiceWorkersHTTP.label "Включить Service Workers поверх HTTP (когда открыта панель инструментов)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip "Включение этой опции включит service workers поверх HTTP для всех вкладок, в которых открыта панель инструментов.">
-<!ENTITY options.selectDefaultTools.label "Инструменты разработчика Firefox по умолчанию">
+<!ENTITY options.selectDefaultTools.label2 "Инструменты разработчика по умолчанию">
 <!ENTITY options.selectAdditionalTools.label "Инструменты разработчика установленные дополнениями">
 <!ENTITY options.selectEnabledToolboxButtons.label "Доступные кнопки инструментов">
 <!ENTITY options.toolNotSupported.label "* Не поддерживается для текущей цели инструмента">

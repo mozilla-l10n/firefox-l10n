@@ -109,7 +109,6 @@
 <!ENTITY bookmarkThisPageCmd.label "Добавить страницу">
 <!ENTITY editThisBookmarkCmd.label "Редактировать эту закладку">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!ENTITY findShareServices.label "Найти другие службы Обмена…">
 <!ENTITY sharePageCmd.label "Поделиться этой страницей">
 <!ENTITY sharePageCmd.commandkey "S">
@@ -166,6 +165,7 @@
 <!ENTITY urlbar.translatedNotificationAnchor.label "Управление переводом страницы">
 <!ENTITY urlbar.emeNotificationAnchor.label "Управление запуском программы DRM">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Показать историю">
+<!ENTITY urlbar.zoomReset.tooltip "Сбросить масштаб">
 <!ENTITY searchItem.title "Поиск">
 <!ENTITY homeButton.label "Домой">
 <!ENTITY bookmarksButton.label "Закладки">
@@ -524,6 +524,7 @@
 <!ENTITY identity.moreInfoLinkText2 "Подробнее">
 <!ENTITY identity.permissions "Разрешения">
 <!ENTITY identity.permissionsEmpty "Вы не давали этому сайту каких-либо специальных разрешений.">
+<!ENTITY identity.permissionsReloadHint "Чтобы изменения возымели действие, вам, возможно, потребуется перезагрузить страницу.">
 <!ENTITY tabsToolbar.label "Вкладки браузера">
 <!ENTITY syncTabsMenu3.label "Облачные вкладки">
 <!ENTITY syncedTabs.sidebar.label "Облачные вкладки">
@@ -554,16 +555,7 @@
 <!ENTITY syncReAuthItem.label "Присоединиться заново к Синхронизации…">
 <!ENTITY syncReAuthItem.accesskey "и">
 <!ENTITY syncToolbarButton.label "Синхро­низация">
-<!ENTITY socialToolbar.title "Кнопка социальной панели">
-<!ENTITY social.ok.label "OK">
-<!ENTITY social.ok.accesskey "O">
-<!ENTITY social.toggleSidebar.label "Показать боковую панель">
-<!ENTITY social.toggleSidebar.accesskey "з">
 <!ENTITY social.addons.label "Управление службами…">
-<!ENTITY social.toggleNotifications.label "Отображать уведомления на десктопе">
-<!ENTITY social.toggleNotifications.accesskey "а">
-<!ENTITY social.learnMore.label "Подробнее…">
-<!ENTITY social.learnMore.accesskey "о">
 <!ENTITY social.directory.label "Каталог Служб">
 <!ENTITY social.directory.text "Вы можете активировать службы Обмена из этого каталога.">
 <!ENTITY social.directory.button "Перенести меня туда!">
@@ -582,13 +574,6 @@
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "п">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Получить больше тем">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "о">
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Переключаться на чаты">
-<!ENTITY social.chatBar.accesskey "ч">
-<!ENTITY social.markpageMenu.accesskey "о">
-<!ENTITY social.markpageMenu.label "Сохранить страницу в…">
-<!ENTITY social.marklinkMenu.accesskey "а">
-<!ENTITY social.marklinkMenu.label "Сохранить ссылку в…">
 <!ENTITY getUserMedia.selectCamera.label "Доступ к камере:">
 <!ENTITY getUserMedia.selectCamera.accesskey "к">
 <!ENTITY getUserMedia.selectMicrophone.label "Доступ к микрофону:">

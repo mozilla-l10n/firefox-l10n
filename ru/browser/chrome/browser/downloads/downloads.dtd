@@ -22,8 +22,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey "п">
 <!ENTITY cmd.removeFromHistory.label "Удалить из истории">
 <!ENTITY cmd.removeFromHistory.accesskey "л">
-<!ENTITY cmd.clearList.label "Очистить список">
-<!ENTITY cmd.clearList.accesskey "ч">
+<!ENTITY cmd.clearList2.label "Очистить панель Предпросмотра">
+<!ENTITY cmd.clearList2.accesskey "ч">
 <!ENTITY cmd.clearDownloads.label "Очистить загрузки">
 <!ENTITY cmd.clearDownloads.accesskey "и">
 <!ENTITY cmd.unblock2.label "Разрешить загрузку">
@@ -35,6 +35,7 @@
 <!ENTITY learnMore.label "Подробнее">
 <!ENTITY downloadsHistory.label "Показать все загрузки">
 <!ENTITY downloadsHistory.accesskey "а">
+<!ENTITY openDownloadsFolder.label "Открыть папку Загрузки">
 <!ENTITY clearDownloadsButton.label "Очистить загрузки">
 <!ENTITY clearDownloadsButton.tooltip "Очистить завершённые, отменённые и неудавшиеся загрузки">
 <!ENTITY downloadsListEmpty.label "Загрузок нет">
