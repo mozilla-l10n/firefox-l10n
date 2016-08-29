@@ -477,3 +477,6 @@
 <!ENTITY helper_triple_readerview_open_title "Доступно без подключения">
 <!ENTITY helper_triple_readerview_open_message "Добавьте пункты Списка для чтения в Закладки, чтобы читать их без подключения к Интернету.">
 <!ENTITY helper_triple_readerview_open_button "Добавить в закладки">
+<!ENTITY activity_stream_topsites "Топ сайтов">
+<!ENTITY activity_stream_highlights "Главное">
+<!ENTITY activity_stream_more "Больше">
