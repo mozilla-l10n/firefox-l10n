@@ -169,6 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Tschernì dacurt sco segnapagina">
 <!ENTITY otherBookmarksCmd.label "Auters segnapaginas">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mussar dapli segnapaginas">
+<!ENTITY showRecentlyBookmarked.label     "Mussar ils segnapaginas agiuntads dacurt">
+<!ENTITY showRecentlyBookmarked.accesskey "M">
+<!ENTITY hideRecentlyBookmarked.label     "Zuppentar ils segnapaginas agiuntads dacurt">
+<!ENTITY hideRecentlyBookmarked.accesskey "Z">
 
 <!ENTITY backCmd.label                "Enavos">
 <!ENTITY backButton.tooltip           "Ina pagina enavos">
@@ -226,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Mussar la trav laterala da segnapaginas">
 <!ENTITY viewBookmarksToolbar.label         "Mussar la trav d'utensils da segnapaginas">
 
+<!ENTITY containersMenu.label "Containers">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -551,9 +556,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Cun tun">
 <!ENTITY mediaUnmute.accesskey       "C">
+<!ENTITY mediaPlaybackRate2.label     "Sveltezza da reproducziun">
+<!ENTITY mediaPlaybackRate2.accesskey "v">
+<!ENTITY mediaPlaybackRate050x2.label "Plaun (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "P">
+<!ENTITY mediaPlaybackRate100x2.label "Normal">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Svelt (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "S">
+<!ENTITY mediaPlaybackRate150x2.label "Pli svelt (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "l">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Stravagà (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "t">
+<!ENTITY mediaLoop.label             "Repeter">
+<!ENTITY mediaLoop.accesskey         "R">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -661,6 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Connexiun segirada">
 <!ENTITY identity.connectionNotSecure "Questa connexiun n'è betg segirada">
 <!ENTITY identity.connectionFile "Questa pagina è memorisada sin tes computer.">
+<!ENTITY identity.connectionVerified2 "Ti es connectà a moda segira cun questa pagina che appartegna a:">
 <!ENTITY identity.connectionInternal "Quai è ina pagina segira da &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "Infurmaziuns d'annunzia endatadas sin questa pagina èn eventualmain periclitadas.">
 
@@ -689,6 +709,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.learnMore "Ulteriuras infurmaziuns">
 
 <!ENTITY identity.removeCertException.label "Allontanar l'excepziun">
+<!ENTITY identity.removeCertException.accesskey "r">
 
 <!ENTITY identity.moreInfoLinkText2 "Mussar detagls">
 
@@ -717,6 +738,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewTab.label               "Avrir en in nov tab">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "v">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Avrir en ina nova fanestra">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Avrir en ina nova fanestra privata">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Agiuntar in segnapagina per quest tab…">
