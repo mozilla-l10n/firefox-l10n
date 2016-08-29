@@ -42,8 +42,8 @@
 
 <!ENTITY cmd.pause.label                  "Oedi">
 <!ENTITY cmd.pause.accesskey              "O">
-<!ENTITY cmd.resume.label                 "Ailgychwyn">
-<!ENTITY cmd.resume.accesskey             "A">
+<!ENTITY cmd.resume.label                 "Parhau">
+<!ENTITY cmd.resume.accesskey             "P">
 <!ENTITY cmd.cancel.label                 "Diddymu">
 <!ENTITY cmd.cancel.accesskey             "D">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
