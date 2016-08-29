@@ -114,7 +114,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Komenci seancon en &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Malfermi preferojn de Open &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Malfermi preferojn de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconnect to &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Konfirmi vian konton">
 
@@ -141,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Eliri el plenekrana reĝimo (Esk)">
 <!ENTITY exitDOMFullscreenMac.button "Eliri el plenekrana reĝimo (esk)">
-<!ENTITY leaveDOMFullScreen.label "Eliri el plenekrana reĝimo">
+<!ENTITY leaveDOMFullScreen.label "Eliri el ekranplena reĝimo">
 <!ENTITY leaveDOMFullScreen.accesskey "e">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,

@@ -17,7 +17,7 @@
 <!ENTITY firstrun_sync_subtext "Speguli viajn langetojn, pasvortojn kaj pli, ĉie kie vi ĝin uzas.">
 <!ENTITY firstrun_signin_message "Komencu seancon kaj eku">
 <!ENTITY firstrun_signin_button "Komenci seancon en Speguli">
-<!ENTITY  onboard_start_button_browser "Komenci retesporon">
+<!ENTITY  onboard_start_button_browser "Komenci retumi">
 <!ENTITY firstrun_button_notnow "Nun ne">
 <!ENTITY firstrun_button_next "Antaŭen">
 
@@ -276,7 +276,7 @@
 <!ENTITY pref_donottrack_summary "&brandShortName; informos al la retejoj ke vi ne volas esti spurita">
 
 <!ENTITY pref_tracking_protection_enabled "Aktiva">
-<!ENTITY pref_tracking_protection_enabled_pb "Aktiva en privata retumado">
+<!ENTITY pref_tracking_protection_enabled_pb "Aktiva en privata retumo">
 <!ENTITY pref_tracking_protection_disabled "Malaktiva">
 
 <!ENTITY pref_whats_new_notification "Novaĵoj en &brandShortName;">
@@ -667,7 +667,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_state_enabled "Aktiva">
 <!ENTITY doorhanger_tracking_state_disabled "Malaktiva">
 <!ENTITY doorhanger_tracking_message_enabled1 "Provoj spuri vian retumadon estis blokitaj.">
-<!ENTITY doorhanger_tracking_message_disabled2 "Tiu ĉi paĝo enahavas elementojn kiuj povus spuri vian retumadon.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Tiu ĉi paĝo enahavas elementojn, kiuj povus spuri vian retumadon.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Pli da informo">

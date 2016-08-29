@@ -78,7 +78,7 @@
 <!ENTITY fxaccount_status_linktos2 'Kondiĉoj de uzo'>
 <!ENTITY fxaccount_status_linkprivacy2 'Rimarko pri privateco'>
 <!ENTITY fxaccount_status_more 'Pli&ellipsis;'>
-<!ENTITY fxaccount_remove_account 'Malkonekti ...'>
+<!ENTITY fxaccount_remove_account 'Malkonekti …'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Ĉu forigi konton de Firefox?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ne plu spegulos kun via konto, sed ĝi ne forigos iun ajn retuman datumon el tiu ĉi aparato.'>
