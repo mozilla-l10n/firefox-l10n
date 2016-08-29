@@ -578,12 +578,13 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate100x2.accesskey "M">
 <!ENTITY mediaPlaybackRate125x2.label "Oyot (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "O">
-
-
+<!ENTITY mediaPlaybackRate150x2.label "Oyot adada (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "O">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
+<!ENTITY mediaPlaybackRate200x2.label "Dwiro ne dong gwa (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "D">
 
 
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
@@ -737,7 +738,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Dirica matino ma kitimo marom">
 
 
-
+<!ENTITY syncedTabs.sidebar.noclients.title    "Dirica matino ma kitimo marom pud petye!">
 
 
 
