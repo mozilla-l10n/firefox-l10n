@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "Tye ki twero i kom lacim ma megi. Dii Esc me dwoko twero cen bot in.">
+<!ENTITY pointerlockWarning.generic.label "Jami eni Tye ki twero i kom lacim ma megi. Dii Esc me dwoko twero cen bot in.">
 
 <!ENTITY closeWindow.label "Lor dirica">
 <!ENTITY closeWindow.accesskey "c">
@@ -184,12 +184,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Ket alama buk i dirica matino weng…">
 <!ENTITY showAllBookmarks2.label "Nyut alama buk weng">
 
-
+<!ENTITY otherBookmarksCmd.label "Alamabuk Mukene">
 <!ENTITY bookmarksToolbarChevron.tooltip "Nyut alama buk mukene">
 
 
-
-
+<!ENTITY hideRecentlyBookmarked.label     "kan ma kiketo Alama me buk kombedi">
+<!ENTITY hideRecentlyBookmarked.accesskey "k">
 
 <!ENTITY backCmd.label                "Cen">
 <!ENTITY backButton.tooltip           "Dok cen pot buk acel">
@@ -247,6 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Nen gintic alama buk ma inget">
 <!ENTITY viewBookmarksToolbar.label         "Nen gintic alama buk">
 
+<!ENTITY containersMenu.label "Lamak Jami">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -358,7 +359,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "imito neno dirica matino ki nyonyo mukene?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ter me timo marom">
 
 <!ENTITY appMenuRemoteTabs.signin.label "Dony iyie me timo marom">
@@ -469,7 +470,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "d">
 <!ENTITY openFrameCmd.label           "Yab pem i dirica manyen">
 <!ENTITY openFrameCmd.accesskey       "d">
-
+<!ENTITY openLinkCmdInContainerTab.label "Yab lakub kin jami i Dirica me Lamak Jami Manyen">
 
 <!ENTITY showOnlyThisFrameCmd.label     "Nyut pem man keken">
 <!ENTITY showOnlyThisFrameCmd.accesskey "N">
@@ -571,12 +572,12 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "d">
 <!ENTITY mediaPlaybackRate2.label     "Dwiro me Tuko">
 <!ENTITY mediaPlaybackRate2.accesskey "T">
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate050x2.label "Mot (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "M">
+<!ENTITY mediaPlaybackRate100x2.label "Ma Ladyere">
+<!ENTITY mediaPlaybackRate100x2.accesskey "M">
+<!ENTITY mediaPlaybackRate125x2.label "Oyot (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "O">
 
 
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
