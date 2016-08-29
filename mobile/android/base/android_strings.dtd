@@ -280,9 +280,11 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "Fitxa pertsonalizatuak">
-
+<!ENTITY pref_custom_tabs_summary "Baimendu hirugarren aplikazioei pertsonalizatutako itxura duten URLak irekitzea.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY pref_activity_stream "Jardueren korrontea">
+<!ENTITY pref_activity_stream_summary "Historia modu ikusgarrian erakusten duen jarioak eta birpentsatutako hasiera-orriak &brandShortName;(e)n bila zabiltzana aurkitzea sekula baino errazagoa egiten dute.">
 
 <!ENTITY tracking_protection_prompt_title "Orain jarraipenaren babesarekin">
 <!ENTITY tracking_protection_prompt_text "Blokeatu modu aktiboan jarraipena egiten duten elementuak.">
