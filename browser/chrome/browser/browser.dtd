@@ -42,10 +42,10 @@ can reach it easily. -->
 <!ENTITY  unpinTab.accesskey                 "b">
 
 
-
-
-
-
+<!ENTITY  sendPageToDevice.label             "Device ला पृष्ठ पाठवा">
+<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendLinkToDevice.label             "Device ला दुवा पाठवा">
+<!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "नवीन पटलाकडे हलवा">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "सर्व टॅब्जना वाचनखूण लावा…">
@@ -247,6 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "वाचनखूणा साधनपट्टी दृष्य">
 <!ENTITY viewBookmarksToolbar.label         "वाचनखूणा साधनपट्टी दृष्य">
 
+<!ENTITY containersMenu.label "धारक:">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -587,8 +588,8 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "अतिशय जलद (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
-
-
+<!ENTITY mediaLoop.label             "Loop">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

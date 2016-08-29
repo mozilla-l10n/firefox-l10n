@@ -110,8 +110,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.pagetitle1  "असुरक्षित जोडणी">
+<!ENTITY certerror.wrongSystemTime "<p>आपले घड्याळ चुकीची वेळ दर्शवित आहे त्यामुळे <span id='wrongSystemTime_URL'/>ला सुरक्षित जोडणी करू शकत नाही.</p><p>आपल्या संगणकाच्या दृष्टीने <span id='wrongSystemTime_actualDate'/> तारीख आहे पण खरंतर ती<span id='wrongSystemTime_actualDate'/> पाहिजे. हि समस्या सोडविण्यासाठी तुमची दिनांक आणि वेळ ह्यांची सेटिंग अचूक वेळेप्रमाणे बदला.</p> ">
 
+<!ENTITY certerror.pagetitle1  "असुरक्षित जोडणी">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ही साईट HTTP वापरते कठोर वाहतूक सुरक्षा (HSTS) असे निर्देशित करते की &brandShortName;हिच्याशी फक्त सुरक्षितपणे जोडणी करू शकतो. परिणामी, या एका प्रमाणपत्रासाठी अपवाद समाविष्ट करणे  शक्य नाही.">
 <!ENTITY certerror.copyToClipboard.label "क्लिपबोर्डमध्ये मजकूरचे प्रत बनवा">
 
 <!ENTITY inadequateSecurityError.title "आपली जोडणी सुरक्षीत नाही">
@@ -119,4 +121,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरत आहे. आक्रमणकर्ता सहजपणे आपण सुरक्षित समजत असलेली माहिती मिळवू शकतो. वेबसाइट प्रशासकाने सर्व्हर निर्दोष केल्यावरच आपण साइटला भेट देऊ शकता. </p><p>त्रुटी कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "असे दिसते की आपल्या नेटवर्क सुरक्षा सेटिंग्ज या साठी कारणीभूत असू शकते.आपण पूर्वनिर्धारित सेटिंग्ज पुनर्संचयित करू इच्छिता का?">
+<!ENTITY prefReset.label "मूलभूत संयोजना पुनर्स्थापित करा">
