@@ -15,7 +15,7 @@
 
 <!ENTITY netmonitorUI.perfNotice1         "• यावर क्लिक करा">
 <!ENTITY netmonitorUI.perfNotice2         "कामगिरी विश्लेषण सुरू करण्यासाठी बटन.">
-
+<!ENTITY netmonitorUI.perfNotice3         "विश्लेषण करा">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 
@@ -40,6 +40,8 @@
 <!ENTITY netmonitorUI.toolbar.domain      "डोमेन">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.cause): This is the label displayed
   -  in the network table toolbar, above the "cause" column. -->
+
+<!ENTITY netmonitorUI.toolbar.cause        "कारण">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 
