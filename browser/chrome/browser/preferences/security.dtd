@@ -11,8 +11,14 @@
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+<!ENTITY  enableSafeBrowsing.label        "Bloccar cuntegn privlus ed engianaivel">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "Bloccar telechargiadas privlusas">
+<!ENTITY  blockDownloads.accesskey        "p">
 
+<!ENTITY  blockUncommonUnwanted.label     "M'avertir da programs nungiavischads e nunusitads">
+<!ENTITY  blockUncommonUnwanted.accesskey "a">
 
 <!ENTITY  addonExceptions.label         "Excepziuns…">
 <!ENTITY  addonExceptions.accesskey     "E">
