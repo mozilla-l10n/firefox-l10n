@@ -6,11 +6,11 @@
 <!ENTITY wizard.label             "In nije aginda meitsje" >
 <!ENTITY wizard.description       "Jo aginda lokalisearje" >
 
-<!ENTITY initialpage.description    "Jo aginda kin op jo eigen kompjûter of op in oare kompjûter bewarre wurde, sadat dizze op ôfstân berikber is foar bygelyks freonen of kollega’s." >
+<!ENTITY initialpage.description    "Jo aginda kin op jo kompjûter of op in server bewarre wurde, sadat dizze op ôfstân berikber is foar bygelyks freonen of kollega’s." >
 <!ENTITY initialpage.computer.label  "Op myn kompjûter">
 <!ENTITY initialpage.network.label  "Op it netwurk">
 
-<!ENTITY locationpage.description         "Ynformaasje opjaan om tagong te krijen ta jo aginda op in oare kompjûter" >
+<!ENTITY locationpage.description         "Ynformaasje opjaan om tagong te krijen ta jo eksterne aginda" >
 <!ENTITY locationpage.login.description   "Opsjoneel: brûkersnamme en wachtwurd ynfiere" >
 <!ENTITY locationpage.username.label      "Brûkersnamme:" >
 <!ENTITY locationpage.password.label      "Wachtwurd:" >
