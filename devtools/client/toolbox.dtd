@@ -93,7 +93,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Ebligi foran sencimigon">
-<!ENTITY options.enableRemote.tooltip   "Ŝalto de tiu ĉi elekteblo permesos al la iloj por disvolvantoj la sencimigon de foraj instancoj de Firefox, kiel Firefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Ŝalto de tiu ĉi elekteblo permesos al la programistaj iloj sencimigon de foraj instancoj, kiel tiuj de Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
@@ -119,10 +119,10 @@
 <!ENTITY options.enableServiceWorkersHTTP.label     "Aktivigi Service Workers sur HTTP (kiam la ilujo estas malfermita)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "Ŝalto de tiu ĉi elekteblo aktivigos la service workers su HTTP por ĉiuj langetoj kiuj havas la ilujon malfermita.">
 
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label     "Normaj iloj de Firefox por disvolvantoj">
+<!ENTITY options.selectDefaultTools.label2    "Normaj iloj por programistoj">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools

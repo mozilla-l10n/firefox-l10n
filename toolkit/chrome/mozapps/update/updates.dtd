@@ -46,9 +46,6 @@ do ĝi elŝutas nun la tutan ĝisdatigan pakon.">
 &brandShortName; klopodos denove per elŝutado de kompleta ĝisdatigo.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ne povas eltrovi ĉu ekistas havebla ĝisdatigo. Bonvolu konfirmi ĉu vi havas la lastan version de &brandShortName; en:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Io evitas ke &brandShortName; sekure ĝisdatiĝu.
-                                           Bonvolu konfirmi ke vi havas la lastan version de &brandShortName; en:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Io provas trompi &brandShortName; por ke ĝi akceptu nesekuran ĝisdatigon. Bonvolu kontakti vian retan provizanton kaj serĉi helpon.">
 
 <!ENTITY  finishedPage.title              "Preta instali ĝisdatigon">
 <!ENTITY  finishedPage.text               "La ĝisdatigo estos instalita kiam &brandShortName; startos denove. Vi 

@@ -62,8 +62,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "Forigi el la historio">
 <!ENTITY cmd.removeFromHistory.accesskey  "h">
-<!ENTITY cmd.clearList.label              "Viŝi liston">
-<!ENTITY cmd.clearList.accesskey          "v">
+<!ENTITY cmd.clearList2.label             "Viŝi antaŭvidan panelon">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Viŝi elŝutojn">
 <!ENTITY cmd.clearDownloads.accesskey     "e">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +108,8 @@
      -->
 <!ENTITY downloadsHistory.label           "Montri ĉiujn elŝutojn">
 <!ENTITY downloadsHistory.accesskey       "M">
+
+<!ENTITY openDownloadsFolder.label       "Malfermi dosierujon de elŝutoj">
 
 <!ENTITY clearDownloadsButton.label       "Viŝi elŝutojn">
 <!ENTITY clearDownloadsButton.tooltip     "Viŝi finintajn, nuligitajn kaj malsukcesajn elŝutojn">
