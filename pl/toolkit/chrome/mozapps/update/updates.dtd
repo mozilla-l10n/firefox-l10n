@@ -42,10 +42,6 @@
 <!ENTITY  genericBackgroundError.label    "&brandShortName; nie może ustalić, czy dostępna jest aktualizacja.
                                            Proszę upewnić się, że używana jest najnowsza wersja programu &brandShortName; z:">
 
-<!ENTITY errorCertAttrNoUpdate2.label "Nie można bezpiecznie uaktualnić programu &brandShortName;. Proszę upewnić się, że używana jest najnowsza wersja programu &brandShortName; z:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Próba wymuszenia na programie &brandShortName; akceptacji niebezpiecznej aktualizacji.
-                                           Proszę skontaktować się z dostawcą usług sieciowych i poszukać pomocy.">
-
 <!ENTITY  finishedPage.title              "Aktualizacja gotowa do zainstalowania">
 <!ENTITY  finishedPage.text               "Aktualizacja zostanie zainstalowana przy następnym uruchomieniu programu &brandShortName;. Uruchom teraz ponownie program &brandShortName; lub kontynuuj pracę i zainstaluj aktualizację później.">
 
