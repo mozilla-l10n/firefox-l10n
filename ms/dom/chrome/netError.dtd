@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Ralat Memuatkan Laman">
 <!ENTITY retry.label "Cuba Lagi">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Tidak dapat Menyambung">
 <!ENTITY connectionFailure.longDesc "<p>Walaupun tapak itu kelihatan sah, tetapi pelungsur tidak dapat mendirikan sambungan.</p><ul><li>Mungkinkah tapak itu tidak wujud buat sementata waktu? Cuba lagi kemudian.</li><li>Adakah anda juga tidak dapat melayari tapak lain?  Periksa sambungan rangkaian komputer anda.</li><li>Adakah komputer atau rangkaian anda dilindungi firewall atau proksi? Tetapan yang tidak betul boleh mengganggu pelayaran Web.</li></ul>">
@@ -19,7 +19,7 @@
 <!ENTITY fileNotFound.title "Fail tidak ditemui">
 <!ENTITY fileNotFound.longDesc "<ul><li>Adakah item telah dinamakan, disingkir, atau dipindahkan?</li><li>Adakah terdapat kesilapan ejaan, penggunaan huruf besar, atau menaip dalam alamat?</li><li>Adakah anda memiliki keizinan yang mencukupi untuk memohon item?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "Akses kepada fail ditolak">
 
 <!ENTITY generic.title "Gagal Menyudahkan Permintaan">
 <!ENTITY generic.longDesc "<p>Maklumat tambahan perihal masalah atau ralat ini belum lagi wujud.</p>">
@@ -68,7 +68,6 @@
 
 <!ENTITY nssBadCert.title "Sambungan yang selamat gagal">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Ini kemungkinan masalah pada konfigurasi server, atau mungkin seseorang cuba menyamar server tersebut</li> <li>Jikalau anda berjaya bersambung dengan server dahulu, kesalahan ini mungkin berlaku seketika, anda boleh cuba semula nanti.</li> </ul>">
-
 
 
 <!ENTITY cspBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">

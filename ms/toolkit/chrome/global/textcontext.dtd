@@ -27,7 +27,10 @@
 
 <!ENTITY searchTextBox.clear.label "Kosongkan">
 
+<!ENTITY fillLoginMenu.label          "Isikan Log masuk">
+<!ENTITY fillLoginMenu.accesskey      "F">
 <!ENTITY fillPasswordMenu.label       "Isi Kata Laluan">
 <!ENTITY fillPasswordMenu.accesskey   "I">
+<!ENTITY fillUsernameMenu.accesskey   "F">
 <!ENTITY noLoginSuggestions.label     "(Tiada Cadangan Log Masuk)">
 <!ENTITY viewSavedLogins.label        "Lihat Log Masuk Tersimpan">

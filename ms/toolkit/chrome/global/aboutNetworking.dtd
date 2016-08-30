@@ -29,3 +29,6 @@
 <!ENTITY aboutNetworking.messagesReceived      "Mesej Diterima">
 <!ENTITY aboutNetworking.bytesSent             "Bait Dihantar">
 <!ENTITY aboutNetworking.bytesReceived         "Bait Diterima">
+<!ENTITY aboutNetworking.dnsLookup             "Carian DNS">
+<!ENTITY aboutNetworking.dnsDomain             "Domain">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">

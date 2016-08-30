@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Menyelesaikan masalah Informasi">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Halaman ini mengandungi maklumat teknikal yang mungkin beguna apabila andacuba menyelesaikan masalah. Jika anda mencari jawapan untuk soalan-soalan lazim &brandShortName;, semak <a id='supportLink'>laman web sokongan</a> kami.">
 
 <!ENTITY aboutSupport.crashes.title "Laporan Kerosakan">
@@ -29,7 +29,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentEndDate "Tarikh Akhir">
 <!ENTITY aboutSupport.experimentHomepage "Homepage">
 
-
 <!ENTITY aboutSupport.appBasicsTitle "Aplikasi asas">
 <!ENTITY aboutSupport.appBasicsName "Nama">
 <!ENTITY aboutSupport.appBasicsVersion "Versi">
@@ -48,11 +47,13 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Mengaktifkan Plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "membina Konfigurasi">
 <!ENTITY aboutSupport.appBasicsUserAgent "Ejen pengguna">
-
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Kegunaan Memori">
+<!ENTITY aboutSupport.appBasicsPerformance "Prestasi">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsProfiles "Profil">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Tetingkap Multiproses">
 
@@ -69,8 +70,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Pengubahan rujukan pilihan yang penting">
 <!ENTITY aboutSupport.modifiedPrefsName "Nama">
 <!ENTITY aboutSupport.modifiedPrefsValue "Nilai">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Keutamaan user.js">
 <!ENTITY aboutSupport.userJSDescription "Profil folder anda mengandungi satu <a id='prefs-user-js-link'>fail user.js</a>, dimana termasuk tetapan yang tidak dilakukan oleh &brandShortName; .">
 
@@ -80,8 +81,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafik">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integriti">
 
 <!ENTITY aboutSupport.jsTitle "JavaSkrip">
 <!ENTITY aboutSupport.jsIncrementalGC "Penambahan GC">
@@ -98,13 +98,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Salin teks ke clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Salin data mentah kepada clipboard">
 
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
 

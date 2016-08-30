@@ -22,17 +22,34 @@
 <!ENTITY aboutTelemetry.showArchivedPingData "Data ping diarkibkan">
 
 
+<!ENTITY aboutTelemetry.structured "
+Berstruktur">
+
+<!ENTITY aboutTelemetry.raw "
+JSON Mentah
+">
+
+<!ENTITY aboutTelemetry.showSubsessionData "
+Pamer data subsesi">
+
+
+<!ENTITY aboutTelemetry.showNewerPing "
+&lt;&lt; Ping lebih baru">
+
+
+<!ENTITY aboutTelemetry.rawPingData "
+Data ping mentah…">
+
+<!ENTITY aboutTelemetry.archiveWeekHeader "Minggu">
+
+<!ENTITY aboutTelemetry.archivePingHeader "
+Ping ">
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY aboutTelemetry.telemetryLogSection "
+  
+  Log Telemetri">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Penyata SQL Lambat">
 
@@ -40,6 +57,9 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Bebenang Tergantung">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Skala
+">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 
