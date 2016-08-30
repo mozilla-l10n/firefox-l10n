@@ -8,7 +8,8 @@
 <!ENTITY muteButton.unmuteLabel "Lûd oan">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Folslein skerm">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Folslein skerm ferlitte">
-<!ENTITY castingButton.castingLabel "Fersjoer nei skerm">
+<!ENTITY castingButton.castingLabel "Nei skerm caste">
+<!ENTITY closedCaption.off "Ut">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Grutte">
