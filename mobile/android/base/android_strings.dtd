@@ -430,18 +430,18 @@ size. -->
 <!ENTITY datareporting_fhr_summary2 "तपाईंको ब्रावजरको स्वास्थ्य अवस्था &vendorShortName; सँग बांड्छ, तपाईंलाई आफ्नो ब्रावजरको प्रदर्सनको बारेमा बुझाउनको लागि। ">
 <!ENTITY datareporting_abouthr_title "मेरो स्वास्थ्य अवस्था हेर्नुहोस्। ">
 <!ENTITY datareporting_telemetry_title "टेलीमेट्री">
-
+<!ENTITY datareporting_telemetry_summary "हामीलाई &brandShortName; राम्रो बनाउनका निम्ति; हिस्सा प्रदर्शन, प्रायोजन, यन्त्र र तपाईको ब्राउजरले बनाएका तथ्याङ्क &vendorShortName; संग बाड्दछ">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ले &vendorShortName; लाई तपाईको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि सहयोगार्थ पतन प्रतिवेदनहरु पेश गर्छ">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; स्थान सेवा ">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "स्वचालित अद्यावधिकहरु">
 <!ENTITY pref_update_autodownload_wifi "केवल वाइफाइको माध्यमबाट">
-
+<!ENTITY pref_update_autodownload_never "कहिले पनि">
 <!ENTITY pref_update_autodownload_always "सधै">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
@@ -454,20 +454,20 @@ size. -->
 <!ENTITY char_encoding "वर्ण सङ्केतन">
 
 <!ENTITY share "साझेदारी">
-
-
+<!ENTITY share_title "मार्फत बाड्नुहोस्">
+<!ENTITY share_image_failed "यो फोटो बाड्न असफल भयो। ">
 <!ENTITY save_as_pdf "PDFको रूपमा बचत गर्नुहोस्">
 <!ENTITY print "मुद्रण गर्नुहोस्">
 <!ENTITY find_in_page "पृष्ठमा फेला पार्नुहोस्">
-
+<!ENTITY desktop_mode "डेस्कटप साईट अनुरोध गर्नुहोस्। ">
 <!ENTITY page "पृष्ठ">
-
+<!ENTITY tools "उपकरणहरू">
 <!ENTITY new_tab "नयाँ ट्याब">
 <!ENTITY new_private_tab "नयाँ निजी ट्याब">
 <!ENTITY close_all_tabs "सबै ट्याब बन्द गर्नुहोस्">
-
+<!ENTITY close_private_tabs "निजी ट्याबहरू बन्द गर्नुहोस्">
 <!ENTITY tabs_normal "ट्याबहरू">
-
+<!ENTITY tabs_private "नीजि">
 <!ENTITY set_image_fail "छवि सेट गर्न असक्षम भयो">
 <!ENTITY set_image_path_fail "छवि बचत गर्न असक्षम भयो">
 <!ENTITY set_image_chooser_title "यस रूपमा छवि सेट गर्नुहोस्">
@@ -481,7 +481,9 @@ size. -->
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-
+<!ENTITY media_sending_to "उपकरणमा पठाउदै">
+<!ENTITY media_play "प्ले गर्नुहोस्">
+<!ENTITY media_pause "पज गर्नुहोस्">
 <!ENTITY media_stop "रोक्नुहोस्">
 
 <!ENTITY contextmenu_open_new_tab "नयाँ ट्याबमा खोल्नुहोस्">
@@ -496,20 +498,20 @@ size. -->
 <!ENTITY contextmenu_subscribe "यस पृष्ठको सदस्यता लिनुहोस्">
 <!ENTITY contextmenu_site_settings "साइट सेटिङहरू सम्पादन गर्नुहोस्">
 <!ENTITY contextmenu_top_sites_edit "सम्पादन गर्नुहोस्">
-
-
+<!ENTITY contextmenu_top_sites_pin "साईट पिन गर्नुहोस्। ">
+<!ENTITY contextmenu_top_sites_unpin "साईट अनपिन गर्नुहोस्। ">
 <!ENTITY contextmenu_add_search_engine "खोजी इन्जिन थप्नुहोस्">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_no_username "[प्रयोगकर्ता नाम छैन]">
-
+<!ENTITY doorhanger_login_edit_title "लगिन काट्छाट गर्नुहोस्। ">
 <!ENTITY doorhanger_login_edit_username_hint "प्रयोगकर्ता नाम">
 <!ENTITY doorhanger_login_edit_password_hint "पासवर्ड">
 <!ENTITY doorhanger_login_edit_toggle "पासवर्ड देखाउनुहोस्">
 <!ENTITY doorhanger_login_edit_toast_error "लग-इन बचत गर्न असफल भयो">
-
+<!ENTITY doorhanger_login_select_message "पासवर्ड &formatS; बाट कपी गर्ने? ">
 <!ENTITY doorhanger_login_select_toast_copy "क्लिपबोर्डबाट गोप्यशब्द नक्कल गरियो। ">
 <!ENTITY doorhanger_login_select_toast_copy_error "पासवर्ड प्रतिलिपि गर्न सकिएन">
 <!ENTITY doorhanger_login_select_action_text "अर्को लगिन रोज्नुहोस्">
@@ -519,9 +521,12 @@ size. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+
+<!ENTITY pref_scroll_title_bar2 "पूर्ण-पर्दा ब्रावजिङ">
 <!ENTITY pref_scroll_title_bar_summary2 "पेजको तल जानेबेला &brandShortName; टूलबार लुकाउनुहोस्। ">
 
-
+<!ENTITY pref_tab_queue_title3 "ट्याबको ताती ">
+<!ENTITY pref_tab_queue_summary4 "अर्को पटक &brandShortName; नखोल्दा सम्मको लागि बचत गर्नुहोस् ।">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -539,6 +544,8 @@ size. -->
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
+<!ENTITY page_action_dropmarker_description "थप कृयाकलापहरु">
+
 <!ENTITY masterpassword_create_title "मुख्य पासवर्ड सिर्जना गर्नुहोस्">
 <!ENTITY masterpassword_remove_title "मुख्य पासवर्ड मेटाउनुहोस्">
 <!ENTITY masterpassword_password "पासवर्ड">
@@ -548,19 +555,21 @@ size. -->
 <!ENTITY button_cancel "रद्द गर्नुहोस्">
 <!ENTITY button_yes "हो">
 <!ENTITY button_no "होेइन">
-
+<!ENTITY button_clear_data "आकडा हताउने">
 <!ENTITY button_set "सेट गर्नुहोस्">
 <!ENTITY button_clear "खाली गर्नुहोस्">
 <!ENTITY button_copy "प्रतिलिपि बनाउनुहोस्">
 
+<!ENTITY home_top_sites_title "शीर्ष साईटहरु">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "साईट थप्नुहोस्। ">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "&brandShortName; गृह">
 <!ENTITY home_history_title "इतिहास">
-
+<!ENTITY home_synced_devices_smartfolder "सिङ्क गरिएको उपकरणहरू">
 <!ENTITY home_synced_devices_number "&formatD; उपकरणहरु ">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "१ उपकरण">
@@ -603,6 +612,8 @@ size. -->
 
 
 <!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "तपाई यसमा जडान हुनुभएको छ:">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -614,14 +625,15 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
-
+<!ENTITY identity_connection_secure "जडानलाई सुरक्षित बनाउनुहोस्">
+<!ENTITY identity_connection_insecure "असुरक्षित जडान">
+<!ENTITY identity_connection_chromeui "यो सुरक्षित &brandShortName; पाना हो।">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ले पेजमा भएको असुरक्षित कुरा रोकेको छ। ">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; ले पेजमा भएको केही असुरक्षित कुरा रोकेको छ। ">
 <!ENTITY mixed_content_display_loaded1 "पेजको यो भागहरु स्रक्षित छैन (जस्तैकी फोटो)">
-
+<!ENTITY mixed_content_protection_disabled1 "तपाईंले असुरक्षित कुराहरुबाट सुरक्षा बन्द गर्नुभयो। ">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title2 "ट्रयाकिङ सुरक्षा">
