@@ -28,7 +28,7 @@
 <!ENTITY error.network "视频播放因网络错误中止。">
 <!ENTITY error.decode "视频无法播放，因为该文件已损坏。">
 <!ENTITY error.srcNotSupported "视频格式或 MIME 类型不支持。">
-<!ENTITY error.noSource2 "没有发现支持的视频格式和 MIME 类型。">
+<!ENTITY error.noSource2 "没有找到支持的视频格式和 MIME 类型。">
 <!ENTITY error.generic "视频播放因未知错误中止。">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
