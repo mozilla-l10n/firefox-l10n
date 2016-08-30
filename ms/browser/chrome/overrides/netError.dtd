@@ -7,10 +7,10 @@
 
 <!ENTITY loadError.label "Masalah memuatkan laman">
 <!ENTITY retry.label "Cuba Lagi">
-
+<!ENTITY returnToPreviousPage.label "Undur">
+<!ENTITY advanced.label "Lanjutan">
 
 <!-- Specific error messages -->
-
 
 <!ENTITY connectionFailure.title "Tidak dapat menyambung">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -23,7 +23,6 @@
 
 <!ENTITY fileNotFound.title "Fail tidak ditemui">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Periksa nama fail untuk huruf besar atau ralat menaip lain.</li> <li>Periksa juga jika fail telah dipindahkan, dinamakan atau dipadam.</li> </ul>">
-
 
 
 <!ENTITY generic.title "Oops.">
@@ -97,15 +96,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
-
-
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
 
-
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-
 

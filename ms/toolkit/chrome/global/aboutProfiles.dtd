@@ -4,3 +4,6 @@
 
 <!ENTITY aboutProfiles.title "Maklumat Profil">
 <!ENTITY aboutProfiles.subtitle "Laman ini membantu anda untuk menguruskan profil. Setiap profil adalah entiti berbeza yang mengandungi perkataan, sejarah, penanda buku, tetapan dan add-on yang berasingan.">
+<!ENTITY aboutProfiles.create "Cipta Profil Baru">
+<!ENTITY aboutProfiles.restart.title "Mulakan semula">
+<!ENTITY aboutProfiles.restart.inSafeMode "Mula semula dengan Add-on Dinyahdaya…">

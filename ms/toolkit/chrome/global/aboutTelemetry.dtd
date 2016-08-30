@@ -10,6 +10,9 @@
 
 <!ENTITY aboutTelemetry.uploadEnabled "Muat naik data FHR <span>dibolehkan</span>.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "
+  
+  FHR memuat naik data <span> dinyahdaya</span>.">
 
 
 
