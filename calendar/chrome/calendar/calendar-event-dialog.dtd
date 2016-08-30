@@ -72,7 +72,7 @@
 <!ENTITY  event.menu.item.saveandclose.accesskey          "п">
 <!ENTITY  event.menu.item.delete.label                    "Изтриване…">
 <!ENTITY  event.menu.item.delete.accesskey                "И">
-<!ENTITY  event.menu.item.page.setup.label                "Конфигуриране на страница">
+<!ENTITY  event.menu.item.page.setup.label                "Настройка на страницата">
 <!ENTITY  event.menu.item.page.setup.accesskey            "К">
 <!ENTITY  event.menu.item.print.label                     "Печат">
 <!ENTITY  event.menu.item.print.accesskey                 "П">
@@ -347,7 +347,7 @@
 <!ENTITY event.freebusy.legend.busy_unavailable "Извън офиса" >
 <!ENTITY event.freebusy.legend.unknown          "Няма информация" >
 <!ENTITY event.attendee.role.required           "Задълчителни участници">
-<!ENTITY event.attendee.role.optional           "Допълнителни участници">
+<!ENTITY event.attendee.role.optional           "Допълнителен участник">
 <!ENTITY event.attendee.role.chair              "Председател">
 <!ENTITY event.attendee.role.nonparticipant     "Не е участник">
 <!ENTITY event.attendee.usertype.individual     "Личност">
