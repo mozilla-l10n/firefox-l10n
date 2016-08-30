@@ -7,8 +7,14 @@
 <!ENTITY firstrun_urlbar_message "Selamat Datang ke &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Mencari perkara lebih cepat dengan dibantu pintasan carian cadangan.">
 <!ENTITY firstrun_bookmarks_title "Sejarah">
+<!ENTITY firstrun_bookmarks_message "Kegemaran anda, hadapan dan tengah">
+<!ENTITY firstrun_bookmarks_subtext "Dapatkan keputusan daripada penanda buku dan sejarah anda semasa melakukan carian.">
 <!ENTITY firstrun_data_title "Data">
+<!ENTITY firstrun_data_message "Kurang data, lebih penjimatan">
+<!ENTITY firstrun_data_subtext2 "Nyahaktifkan imej dalam setiap laman yang anda lawati untuk mengurangkan kadar penggunaan data.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, sentiasa di samping anda">
+<!ENTITY firstrun_sync_subtext "Sync tab, kata laluan, dan banyak lagi di mana sahaja anda memerlukannya.">
 <!ENTITY  onboard_start_button_browser "Mulakan Pelayaran">
 <!ENTITY firstrun_button_next "Berikutnya">
 
