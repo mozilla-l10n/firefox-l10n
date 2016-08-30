@@ -9,6 +9,7 @@
 <!ENTITY projectMenu_newApp_label "App Baru…">
 <!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_remove_label "Buang Projek">
 <!ENTITY projectMenu_showPrefs_label "Keutamaan">
 

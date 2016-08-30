@@ -20,6 +20,7 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Laman web di <span id='malware_sitename'/> telah dilaporkan sebagai laman web serangan dan telah dihalangkan berdasarkan tetapan sekuriti anda.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Halaman serangan cuba untuk memasang perisian yang mencuri maklumat peribadi, mengguna komputer anda untuk menyerang yang lain, atau merosakkan sistem anda.</p><p>Sebahagian halaman serangan secara sengaja menyebarkan perisian merbahaya, tetapi banyak berlaku tanpa pengetahuan dan keizinan pemiliknya.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "Halaman Dilaporkan mempunyai Perisian Tidak Diingini!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Laman web di <span id='unwanted_sitename'/> telah dilaporkan sebagai laman web serangan dan telah dihalangkan berdasarkan tetapan sekuriti anda.">
 
