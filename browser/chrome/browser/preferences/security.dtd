@@ -12,6 +12,7 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 <!ENTITY  enableSafeBrowsing.label        "Sekat isi kandung berbahaya dan memperdayakan">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 <!ENTITY  blockDownloads.label            "Sekat muat turun berbahaya">
 <!ENTITY  blockDownloads.accesskey        "D">
