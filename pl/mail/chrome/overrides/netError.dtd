@@ -57,7 +57,7 @@
 <!ENTITY proxyResolveFailure.title "Nie odnaleziono serwera proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul><li>Należy sprawdzić, czy ustawienia serwerów proxy są prawidłowe.</li><li>Należy sprawdzić, czy połączenie z siecią komputera użytkownika funkcjonuje prawidłowo.</li><li>Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, należy sprawdzić, czy program &brandShortName; jest uprawniony do łączenia się z Internetem.</li></ul>">
 
-<!ENTITY redirectLoop.title "Nieprawidłowe przekierowanie">
+<!ENTITY redirectLoop.title "Pętla przekierowań">
 <!ENTITY redirectLoop.longDesc "<ul><li>Problem ten może się pojawić w wyniku zablokowania lub odrzucenia ciasteczek.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Nieoczekiwana odpowiedź serwera">

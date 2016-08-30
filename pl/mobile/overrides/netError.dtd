@@ -59,7 +59,7 @@
 <!ENTITY proxyResolveFailure.title "Nie odnaleziono serwera proxy">
 <!ENTITY proxyResolveFailure.longDesc3 "<ul><li>Upewnij się, że ustawienia serwera proxy są poprawne.</li><li>Upewnij się, że połączenie sieciowe działa poprawnie. <button id='wifi'>Włącz Wi-Fi</button></li></ul>">
 
-<!ENTITY redirectLoop.title "Ta strona nie przekierowuje poprawnie">
+<!ENTITY redirectLoop.title "Pętla przekierowań">
 <!ENTITY redirectLoop.longDesc "<ul><li>Problem ten może się pojawić w wyniku zablokowania lub odrzucenia ciasteczek.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Nieoczekiwana odpowiedź serwera">
