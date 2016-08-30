@@ -37,3 +37,4 @@
 <!ENTITY  changeMasterPassword.accesskey "T">
 
 <!ENTITY  savedLogins.label              "Login Tersimpan…">
+<!ENTITY  savedLogins.accesskey          "L">

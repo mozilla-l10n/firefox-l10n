@@ -24,6 +24,7 @@
 <!ENTITY cmd.forward.tooltip                  "Pergi ke halaman seterusnya">
 
 <!ENTITY showUnsignedExtensions.button.label  "Beberapa sambungan tidap dapat disahkan">
+<!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Semua add-ons telah dimatikan oleh safe mode.">

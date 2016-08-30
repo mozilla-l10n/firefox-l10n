@@ -25,6 +25,8 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Muat semula halaman">
+<!ENTITY reloadPlugin.post                                   " untuk mencuba lagi.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Hantar laporan ranap">
 <!ENTITY report.submitting                                   "Menghantar laporan…">
@@ -35,4 +37,5 @@
 <!ENTITY report.comment                                      "Tambah komen (komen boleh dilihat oleh awam)">
 <!ENTITY report.pageURL                                      "Termasuk URL laman">
 
+<!ENTITY plugin.file                                         "Fail">
 <!ENTITY plugin.mimeTypes                                    "MIME Jenis">

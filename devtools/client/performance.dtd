@@ -57,7 +57,10 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
+<!ENTITY performanceUI.table.totalDuration            "Jumlah Masa">
+<!ENTITY performanceUI.table.totalPercentage          "Jumlah Kos">
 <!ENTITY performanceUI.table.samples                  "Contoh">
+<!ENTITY performanceUI.table.function                 "Fungsi">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->

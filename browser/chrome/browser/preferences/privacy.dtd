@@ -19,11 +19,10 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Ketahui Lanjut">
 <!ENTITY changeBlockList.label          "Tukar Senarai Halangan">
 <!ENTITY changeBlockList.accesskey      "T">
+
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
 <!ENTITY  doNotTrack.pre.label          "Anda juga boleh ">
-
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Sejarah">
@@ -37,10 +36,9 @@
 <!ENTITY  locbar.bookmarks.accesskey    "a">
 <!ENTITY  locbar.openpage.label         "Buka tab">
 <!ENTITY  locbar.openpage.accesskey     "B">
+<!ENTITY  locbar.searches.accesskey     "d">
 
-
-
-
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Terima kuki dari laman web">
 <!ENTITY  acceptCookies.accesskey       "e">
@@ -71,10 +69,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; akan mengingati sejarah pelayaran web, muat turun, borang dan carian anda, dan menyimpan kuki daripada laman-laman web yang anda lawati.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Anda mungkin mahu ">
 <!ENTITY  rememberActions.clearHistory.label  "hapuskan sejarah layaran terkini anda">
 <!ENTITY  rememberActions.middle.label        ", atau ">
@@ -82,9 +80,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; akan menggunakan tetapan yang sama untuk layaran peribadi dan tidak akan mengingati sejarah layaran semasa anda melayari Web.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "Anda mungkin juga mahu ">
 <!ENTITY  dontrememberActions.clearHistory.label "hapuskan semua sejarah layaran semasa">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -105,5 +103,3 @@
 <!ENTITY  clearOnCloseSettings.accesskey "T">
 
 <!ENTITY  browserContainersLearnMore.label      "Ketahui Lanjut">
-
-

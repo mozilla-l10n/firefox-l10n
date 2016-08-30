@@ -15,3 +15,4 @@
 <!ENTITY caseSensitive.accesskey "a">
 <!ENTITY caseSensitive.tooltiptext "Cari dengan sensitiviti klausa">
 <!ENTITY entireWord.label "Seluruh Perkataan">
+<!ENTITY entireWord.accesskey "w">
