@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "Ini mungkin membatalkan jaminan anda!">
 <!ENTITY aboutWarningText.label "Mengubah tetapan lanjut ini boleh membahayakan kestabilan, keselamatan dan  prestasi aplikasi. Teruskan, jika anda tahu apa yang anda sedang lakukan.">
-
+<!ENTITY aboutWarningButton2.label "Saya terima risikonya!">
 <!ENTITY aboutWarningCheckbox.label "Tunjukkan amaran ini pada waktu lain">
 
 <!ENTITY searchPrefs.label "Carian:">
@@ -16,17 +16,16 @@
 <!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
-
 <!ENTITY prefColumn.label "Nama Keutamaan">
 <!ENTITY lockColumn.label "Status">
 <!ENTITY typeColumn.label "Jenis">
 <!ENTITY valueColumn.label "Nilai">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Klik untuk isih"> 
 <!ENTITY columnChooser.tooltip "Klik untuk pilih kolum dipapar"> 
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY copyPref.key "S">
 <!ENTITY copyPref.label "Salin">
 <!ENTITY copyPref.accesskey "S">
