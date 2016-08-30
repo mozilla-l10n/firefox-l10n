@@ -21,6 +21,8 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Data ping diarkibkan">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "
+Paparan data ping:">
 
 <!ENTITY aboutTelemetry.structured "
 Berstruktur">
@@ -32,10 +34,14 @@ JSON Mentah
 <!ENTITY aboutTelemetry.showSubsessionData "
 Pamer data subsesi">
 
+<!ENTITY aboutTelemetry.choosePing "
+Pilih ping:">
 
 <!ENTITY aboutTelemetry.showNewerPing "
 &lt;&lt; Ping lebih baru">
 
+<!ENTITY aboutTelemetry.showOlderPing "
+Ping lebih lama &gt;&gt;">
 
 <!ENTITY aboutTelemetry.rawPingData "
 Data ping mentah…">
@@ -45,7 +51,12 @@ Data ping mentah…">
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping ">
 
+<!ENTITY aboutTelemetry.generalDataSection "
+  
+  Data Umum">
 
+<!ENTITY aboutTelemetry.environmentDataSection "
+  Data Persekitaran">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "
   
@@ -70,6 +81,8 @@ Ping ">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Tulis Lewat">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  Maklumat Sesi">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogram Dikumpul oleh Add-on">
 
