@@ -118,6 +118,14 @@
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>វេបសាយ​អាច​មិន​ដំណើរ​កា​មួយ​រយៈ ឬ​មាន​ភាព​មមាញឹក​ពេក។ សូម​ព្យាយាម​ម្ដង​ទៀត​នៅ​ពេល​បន្តិច​ទៀត។</li>
+  <li>ប្រសិន​បើ​អ្នក​មិន​អាច​ផ្ទុក​ទំព័រ​ណា​មួយ​បាន សូម​ពិនិត្យ​ការ​តភ្ជាប់​ទិន្នន័យ ឬ Wi-Fi របស់​អ្នក។
+    <button id='wifi'>បើក Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY cspBlocked.title "បាន​ទប់ស្កាត់​ដោយ​គោលការណ៍​អំពី​សុវត្ថិភាព​មាតិកា">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; បាន​រារាំង​ទំព័រ​នេះ​មិន​ឲ្យ​ផ្ទុក​តាម​មធ្យោបាយ​នេះ​ទេ ពីព្រោះ​ទំព័រ​មាន​គោលការណ៍​អំពី​សុវត្ថិភាព​មាតិកា​ដែល​មិន​អនុញ្ញាត​ចំពោះ​វា ។</p>">
@@ -152,3 +160,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "ការ​តភ្ជាប់​របស់​អ្នក​មិន​មាន​សុវត្ថិភាព​ទេ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ប្រើប្រាស់​បច្ចេក​វិទ្យា​សុវត្ថិភាព​ដែល​មិន​ទាន់​សម័យ​ហើយ​អាច​ងាយ​នឹង​រង​នូវ​ការ​វាយ​ប្រហារ។ អ្នក​វាយ​ប្រហារ​អាច​លួច​យក​ព័ត៌មាន​ដែល​អ្នក​គិត​ថា​មាន​សុវត្ថិភាព​បាន​យ៉ាង​ងាយ។ អ្នក​គ្រប់គ្រង​វេបសាយ​ចាំបាច់​ត្រូវ​ជួសជុល​ម៉ាស៊ីន​មេ​ជាមុន ទើប​អ្នក​អាច​ចូល​វេបសាយ​នេះ​បាន។</p><p>កូដ​កំហុស៖ NS_ERROR_NET_INADEQUATE_SECURITY</p>">
