@@ -32,9 +32,9 @@
 <!ENTITY alwaysAsk.accesskey           "f">
 
 <!ENTITY alwaysCheckDefault2.label        "Altyd kontrolearje oft &brandShortName; de standertbrowser is">
-<!ENTITY alwaysCheckDefault2.accesskey    "A">
+<!ENTITY alwaysCheckDefault2.accesskey    "k">
 <!ENTITY setAsMyDefaultBrowser2.label     "Standert meitsje">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "m">
 <!ENTITY isDefault.label                  "&brandShortName; is op dit stuit jo standertbrowser">
 <!ENTITY isNotDefault.label               "&brandShortName; is net jo standertbrowser">
 

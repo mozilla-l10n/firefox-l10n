@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Ynstellingen…">
 <!ENTITY  clearOnCloseSettings.accesskey "Y">
+
+<!ENTITY  browserContainersHeader.label         "Kontenerljepblêden">
+<!ENTITY  browserContainersLearnMore.label      "Mear ynfo">
+<!ENTITY  browserContainersEnabled.label        "Kontenerljepblêden ynskeakelje">
+<!ENTITY  browserContainersEnabled.accesskey    "n">

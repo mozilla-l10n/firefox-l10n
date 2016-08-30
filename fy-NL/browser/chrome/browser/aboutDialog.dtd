@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "Fernijingen útskeakele troch jo systeembehearder">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; wurdt fernijd troch in oare sesje">
+<!ENTITY update.restarting          "Werstarte…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
