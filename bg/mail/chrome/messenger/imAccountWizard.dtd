@@ -19,7 +19,7 @@
 
 <!ENTITY accountAdvancedTitle.label   "За напреднали">
 <!ENTITY accountAdvancedInfo.label    "Можете да пропуснете тази стъпка, ако искате.">
-<!ENTITY accountAdvanced.newMailNotification.label   "Уведомяване при нова поща">
+<!ENTITY accountAdvanced.newMailNotification.label   "Известяване при нова поща">
 <!ENTITY accountAliasGroupbox.caption "Локален псевдоним">
 <!ENTITY accountAliasField.label      "Псевдоним:">
 <!ENTITY accountAliasInfo.label       "Ще бъде показвано само във вашите разговори докато говорите, отдалечените контакти няма да го виждат.">

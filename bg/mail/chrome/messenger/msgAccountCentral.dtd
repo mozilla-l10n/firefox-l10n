@@ -25,4 +25,4 @@
 <!ENTITY searchMsgsLink.label         "Търсене на писма">
 <!ENTITY filtersLink.label            "Управление на филтрирането">
 <!ENTITY junkSettings.label           "Настройки за нежелана поща">
-<!ENTITY offlineLink.label            "Настройки за работа без мрежа">
+<!ENTITY offlineLink.label            "Настройки за работа извън мрежа">

@@ -71,7 +71,7 @@
 <!ENTITY proxiesConfigure.label        "Определяне как &brandShortName; се свързва с Интернет">
 <!ENTITY connectionsInfo.caption       "Връзка">
 <!ENTITY offlineInfo.caption           "Без връзка">
-<!ENTITY offlineInfo.label             "Конфигуриране настройките за работа без връзка">
+<!ENTITY offlineInfo.label             "Конфигуриране настройките за работа извън мрежа">
 <!ENTITY showOffline.label             "Без връзка…">
 <!ENTITY showOffline.accesskey         "Б">
 
