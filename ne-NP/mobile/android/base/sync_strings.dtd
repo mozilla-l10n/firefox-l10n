@@ -57,11 +57,11 @@
 <!ENTITY fxaccount_status_sync_now "अब सिङ्क गर्नुहोस्">
 <!ENTITY fxaccount_status_syncing2 "सिङ्क गरिँदै…">
 <!ENTITY fxaccount_status_device_name "यन्त्रको नाम">
-
+<!ENTITY fxaccount_status_sync_server "साधनको नामः">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;">
 
-
+<!ENTITY fxaccount_status_needs_credentials "संपर्क सफल भएन। भित्र जान यहाँ छुनुहोस्  ">
 
 
 
@@ -75,7 +75,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos2 "सेवाको सर्तहरू">
+<!ENTITY fxaccount_status_linktos2 "सेवाका सर्तहरू">
 <!ENTITY fxaccount_status_linkprivacy2 "गोपनीयता नीति">
 
 
@@ -119,3 +119,4 @@
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; भएर भित्र जान छुनुहोस्। ">
