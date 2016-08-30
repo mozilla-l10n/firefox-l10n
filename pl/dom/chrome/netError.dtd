@@ -24,7 +24,7 @@
 <!ENTITY malformedURI.title "Nieprawidłowy adres">
 <!ENTITY malformedURI.longDesc "<p>Podano adres w nierozpoznawalnym formacie. Należy sprawdzić, czy w pasku adresu nie ma błędów, a następnie spróbuj ponownie.</p>">
 
-<!ENTITY netInterrupt.title "Przerwano przesyłanie danych">
+<!ENTITY netInterrupt.title "Przerwane połączenie">
 <!ENTITY netInterrupt.longDesc "<p>Przeglądarka nawiązała połączenie, ale zostało ono przerwane podczas przesyłania informacji. Należy spróbować ponownie.</p><ul><li>Nie można oglądać innych witryn? Należy sprawdzić swoje połączenie z siecią.</li><li>Jeśli nadal występują problemy, należy skonsultować się z administratorem sieci lub dostawcą usług internetowych.</li></ul>">
 
 <!ENTITY notCached.title "Dokument wygasł">

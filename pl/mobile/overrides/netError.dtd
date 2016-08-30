@@ -29,7 +29,7 @@
 <!ENTITY malformedURI.title "Nieprawidłowy adres">
 <!ENTITY malformedURI.longDesc2 "<ul><li>Adresy internetowe są zwykle postaci <strong>http://www.example.com/</strong></li><div id='searchbox'><input id='searchtext' type='search'></input> <button id='searchbutton'>Wyszukaj</button></div><li>Należy sprawdzić, czy adres zawiera prawidłowe ukośniki (tzn. <strong>/</strong>).</li></ul>">
 
-<!ENTITY netInterrupt.title "Przerwano przesyłanie danych">
+<!ENTITY netInterrupt.title "Przerwane połączenie">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokument wygasł">
