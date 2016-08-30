@@ -9,9 +9,6 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "R">
 <!ENTITY update.updateButton.label2               "Redémarrer &brandShortName; pour appliquer la mise à jour">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Appliquer la mise à jour…">
-<!ENTITY update.applyButtonBillboard.accesskey    "A">
-
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; est expérimental et peut être instable.">
