@@ -16,7 +16,7 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies               "الكعكات">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "الملفات المؤقتة">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "​">
-<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "سيحفظ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "سيحفظ ">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          "فَيَرفُكس:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "تنزيلاتك">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "علاماتك">
