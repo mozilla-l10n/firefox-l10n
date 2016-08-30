@@ -13,6 +13,9 @@
 
 <!ENTITY missingPlugin                                       "Plugin diperlukan untuk memaparkan kandungan ini.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Sentuh sini untuk aktifkan plugin.">
+<!ENTITY clickToActivatePlugin                               "Aktifkan plugin.">
+<!ENTITY checkForUpdates                                     "Semak pengemaskinian…">
 <!ENTITY managePlugins                                       "Urus plugin…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
