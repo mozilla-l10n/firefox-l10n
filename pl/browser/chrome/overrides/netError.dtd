@@ -44,7 +44,7 @@
 <!ENTITY unsafeContentType.title "Niebezpieczny typ pliku">
 <!ENTITY unsafeContentType.longDesc "<ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul>">
 
-<!ENTITY netReset.title "Połączenie zostało zresetowane">
+<!ENTITY netReset.title "Przerwane połączenie">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Przekroczono limit czasu połączenia">
