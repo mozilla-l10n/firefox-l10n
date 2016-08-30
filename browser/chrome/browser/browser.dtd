@@ -40,16 +40,22 @@ can reach it easily. -->
 <!ENTITY pinTab.accesskey               "L">
 <!ENTITY unpinTab.label                 "Ljepblêd losmeitsje">
 <!ENTITY unpinTab.accesskey             "b">
+<!ENTITY  sendTabToDevice.label         "Ljepblêd nei apparaat ferstjoere">
+<!ENTITY  sendTabToDevice.accesskey     "p">
+<!ENTITY  sendPageToDevice.label        "Side nei apparaat ferstjoere">
+<!ENTITY  sendPageToDevice.accesskey    "p">
+<!ENTITY  sendLinkToDevice.label        "Keppeling nei apparaat ferstjoere">
+<!ENTITY  sendLinkToDevice.accesskey    "p">
 <!ENTITY moveToNewWindow.label          "Ferpleatse nei nij finster">
 <!ENTITY moveToNewWindow.accesskey      "f">
-<!ENTITY bookmarkAllTabs.label       	"Blêdwizer foar alle ljepblêden meitsje…">
-<!ENTITY bookmarkAllTabs.accesskey   	"B">
-<!ENTITY undoCloseTab.label          	"Ljepblêd slute ûngedien meitsje">
-<!ENTITY undoCloseTab.accesskey      	"m">
-<!ENTITY closeTab.label         		"Ljepblêd slute">
-<!ENTITY closeTab.accesskey        		"s">
+<!ENTITY bookmarkAllTabs.label       	  "Blêdwizer foar alle ljepblêden meitsje…">
+<!ENTITY bookmarkAllTabs.accesskey   	  "B">
+<!ENTITY undoCloseTab.label          	  "Ljepblêd slute ûngedien meitsje">
+<!ENTITY undoCloseTab.accesskey        	"m">
+<!ENTITY closeTab.label         		    "Ljepblêd slute">
+<!ENTITY closeTab.accesskey        	  	"s">
 
-<!ENTITY listAllTabs.label				"Alle ljepblêdtitels werjaan">
+<!ENTITY listAllTabs.label				      "Alle ljepblêdtitels werjaan">
 
 <!ENTITY tabCmd.label "Nij ljepblêd">
 <!ENTITY tabCmd.accesskey "L">
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Alle ljepblêden toane">
 <!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Oanmelde by &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label;-foarkarren iepenje">
@@ -128,6 +135,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "brûkt no it folsleine skerm">
 <!ENTITY fullscreenWarning.generic.label "Dit dokumint brûkt no it folsleine skerm">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -135,6 +143,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Folslein skerm ferlitte (esc)">
 <!ENTITY leaveDOMFullScreen.label "Folsleinskerm ferlitte">
 <!ENTITY leaveDOMFullScreen.accesskey "f">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "hat de kontrôle oer jo oanwizer. Druk op Esc om de kontrôle wer oer te nimmen.">
+<!ENTITY pointerlockWarning.generic.label "Dit dokumint hat de kontrôle oer jo oanwizer. Druk op Esc om de kontrôle wer oer te nimmen.">
 
 <!ENTITY closeWindow.label "Finster slute">
 <!ENTITY closeWindow.accesskey "s">
