@@ -30,6 +30,8 @@
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!ENTITY firstrun_account_title "in">
+
 
 <!ENTITY  onboard_start_restricted1 "Bed maber kadong iloc ki kit &brandShortName; man ma kiyubo ma yoti.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -40,6 +42,8 @@
 
 <!ENTITY  switch_to_tab "Lokke i dirica matidi">
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+
+<!ENTITY  tab_offline_version "Nyutu kit jami ma pe iyamo">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Lami ngec me Bal ma time atura">
 <!ENTITY  crash_message2 "&brandShortName; obedo ki peko kadong opoto woko. Dirica matino ni myero gi obed i potbuk me acaki pa &brandShortName; ka i nwoyo cako.">
@@ -66,18 +70,19 @@
 <!ENTITY bookmark_removed "Kikwanyo woko Alama me buk">
 <!ENTITY bookmark_updated "Kimedo Alama me buk">
 <!ENTITY bookmark_options "Me ayera">
-
+<!ENTITY screenshot_added_to_bookmarks "Cal me wang kio kimedo i alama me buk">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Jami akwana">
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-
+<!ENTITY bookmark_folder_one_item "Jami 1">
 
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Loke">
 
 <!ENTITY history_today_section "Tin">
 <!ENTITY history_yesterday_section "Lawo">
@@ -114,8 +119,8 @@
 
 <!ENTITY settings "Tero">
 <!ENTITY settings_title "Ter">
-
-
+<!ENTITY pref_category_general "Weng">
+<!ENTITY pref_category_general_summary3 "Gang, Leb, Yoo me dirica ma tidi">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -156,9 +161,9 @@
 <!ENTITY pref_category_search3 "Yeny">
 
 <!ENTITY pref_category_accessibility "Kit me nongo">
-
+<!ENTITY pref_category_accessibility_summary2 "Size pa coc, Medi, Kaketo dwan">
 <!ENTITY pref_category_privacy_short "Mung">
-
+<!ENTITY pref_category_privacy_summary4 "Lubu, Donyo iyie, yer me Jami ma ogure">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Ikom &brandShortName;, Lapeny me pol kare, adwogi">
 <!ENTITY pref_category_datareporting "Yer me data">
