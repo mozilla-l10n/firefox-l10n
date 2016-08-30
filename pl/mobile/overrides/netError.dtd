@@ -53,7 +53,7 @@
 <!ENTITY unknownProtocolFound.title "Nieznany protokół">
 <!ENTITY unknownProtocolFound.longDesc "<ul><li>Aby otworzyć ten adres, może być konieczna instalacja innego programu.</li></ul>">
 
-<!ENTITY proxyConnectFailure.title "Serwer proxy odrzucił połączenie">
+<!ENTITY proxyConnectFailure.title "Serwer proxy odrzuca połączenia">
 <!ENTITY proxyConnectFailure.longDesc "<ul><li>Należy sprawdzić, czy ustawienia serwerów proxy są prawidłowe.</li><li>Należy zapytać administratora sieci, czy serwer proxy funkcjonuje prawidłowo.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Nie odnaleziono serwera proxy">
