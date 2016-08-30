@@ -17,7 +17,7 @@
 <!ENTITY options.toolNotSupported.label "* Nieobsługiwane dla bieżącego celu narzędzi">
 <!ENTITY options.context.triggersPageRefresh "* Tylko bieżąca sesja, przeładowuje stronę">
 
-<!ENTITY options.selectDefaultTools.label "Domyślne narzędzia dla programistów">
+<!ENTITY options.selectDefaultTools.label2 "Domyślne narzędzia dla programistów">
 <!ENTITY options.selectAdditionalTools.label "Narzędzia dla programistów zainstalowane przez dodatki">
 <!ENTITY options.selectEnabledToolboxButtons.label "Przyciski narzędzi dla programistów">
 
