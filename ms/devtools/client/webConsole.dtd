@@ -92,3 +92,4 @@
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.accesskey "V">
+<!ENTITY storeAsGlobalVar.accesskey "S">

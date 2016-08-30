@@ -39,6 +39,7 @@
 
 <!ENTITY viewMenu_label "Lihat">
 <!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_toggleEditor_label "Editor Togol">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Zum Masuk">
 <!ENTITY viewMenu_zoomin_accesskey "I">
@@ -46,6 +47,7 @@
 <!ENTITY viewMenu_zoomout_accesskey "O">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
+<!ENTITY projectButton_label "Buka App">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -57,9 +59,12 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_tabs "Tab">
 <!ENTITY runtimePanel_usb "Peranti USB">
@@ -77,6 +82,8 @@
 <!ENTITY details_removeProject_button "Buang Projek">
 
 <!-- New App -->
+<!ENTITY newAppWindowTitle "App Baru">
+<!ENTITY newAppProjectName "Nama Projek:">
 
 
 <!-- Decks -->
@@ -88,6 +95,7 @@
 
 <!-- Prefs -->
 <!ENTITY prefs_title "Keutamaan">
+<!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Umum">
 <!ENTITY prefs_restore "Pulihkan kepada lalai">
 <!ENTITY prefs_options_tabsize "Saiz tab">
@@ -116,6 +124,7 @@
 <!ENTITY devicepreference_newtext "Keutamaan nilai">
 
 <!-- Device Settings -->
+<!ENTITY devicesetting_title "Tetapan Peranti">
 <!ENTITY devicesetting_search "Tetapan carian">
 
 <!-- Monitor -->
@@ -139,6 +148,11 @@
 <!-- Simulator Options -->
 <!ENTITY simulator_reset "Pulihkan kepada lalai">
 <!ENTITY simulator_name "Nama">
+<!ENTITY simulator_software "Perisian">
 <!ENTITY simulator_version "Versi">
 <!ENTITY simulator_profile "Profil">
+<!ENTITY simulator_hardware "Perkakasan">
 <!ENTITY simulator_device "Peranti">
+<!ENTITY simulator_screenSize "Skrin">
+<!ENTITY simulator_pixelRatio "Nisbah Piksel">
+<!ENTITY simulator_tv_data "Simulasi TV">
