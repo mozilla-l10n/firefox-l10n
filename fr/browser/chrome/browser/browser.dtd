@@ -157,7 +157,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Marquer cette page">
 <!ENTITY editThisBookmarkCmd.label "Modifier ce marque-page">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -227,6 +226,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.label             "Gérer l’utilisation des logiciels DRM">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afficher l’historique">
+
+<!ENTITY urlbar.zoomReset.tooltip     "Réinitialiser le niveau de zoom">
 
 <!ENTITY searchItem.title             "Rechercher">
 
@@ -722,6 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!ENTITY identity.permissions "Permissions">
 <!ENTITY identity.permissionsEmpty "Vous n’avez pas accordé de permission particulière à ce site.">
+<!ENTITY identity.permissionsReloadHint "Vous devrez peut-être actualiser la page pour que les changements prennent effet.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -764,21 +766,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY syncReAuthItem.accesskey     "r">
 <!ENTITY syncToolbarButton.label      "Synchroniser">
 
-<!ENTITY socialToolbar.title        "Bouton de la barre sociale">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Afficher le panneau latéral">
-<!ENTITY social.toggleSidebar.accesskey "A">
-
 <!ENTITY social.addons.label "Gérer les services…">
-
-<!ENTITY social.toggleNotifications.label "Afficher les notifications sur le bureau">
-<!ENTITY social.toggleNotifications.accesskey "n">
-
-<!ENTITY social.learnMore.label "En savoir plus…">
-<!ENTITY social.learnMore.accesskey "s">
 
 <!ENTITY social.directory.label "Répertoire d’activation">
 <!ENTITY social.directory.text "Vous pouvez activer des services de partage depuis le répertoire.">
@@ -799,15 +787,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtenir plus de thèmes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Sélectionner les discussions">
-<!ENTITY social.chatBar.accesskey "S">
-
-<!ENTITY social.markpageMenu.accesskey "e">
-<!ENTITY social.markpageMenu.label "Envoyer la page à…">
-<!ENTITY social.marklinkMenu.accesskey "e">
-<!ENTITY social.marklinkMenu.label "Envoyer le lien à…">
 
 <!ENTITY getUserMedia.selectCamera.label "Caméra à partager :">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
