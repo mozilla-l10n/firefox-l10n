@@ -16,6 +16,9 @@
 <!ENTITY tapToPlayPlugin                                     "Sentuh sini untuk aktifkan plugin.">
 <!ENTITY clickToActivatePlugin                               "Aktifkan plugin.">
 <!ENTITY checkForUpdates                                     "Semak pengemaskinian…">
+<!ENTITY disabledPlugin                                      "Plugin ini dinyahdayakan.">
+<!ENTITY blockedPlugin.label                                 "Plugin ini telah disekat demi keselamatan anda.">
+<!ENTITY hidePluginBtn.label                                 "Sorok plugin">
 <!ENTITY managePlugins                                       "Urus plugin…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
