@@ -10,7 +10,8 @@
 
 <!ENTITY connectionFailure.title "Nie udało się nawiązać połączenia">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-<!ENTITY deniedPortAccess.title "Ten adres jest zastrzeżony">
+
+<!ENTITY deniedPortAccess.title "Zastrzeżony adres">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nie odnaleziono serwera">

@@ -8,7 +8,7 @@
 <!ENTITY connectionFailure.title "Nie udało się nawiązać połączenia">
 <!ENTITY connectionFailure.longDesc "<p>Pomimo że adres witryny wydaje się prawidłowy, przeglądarka nie była w stanie nawiązać połączenia.</p><ul><li>Witryna jest tymczasowo niedostępna? Jeśli tak, należy spróbować ponownie później.</li><li>Nie można przeglądać również innych witryn? Jeśli tak, należy sprawdzić, czy połączenie z siecią funkcjonuje prawidłowo.</li><li>Czy ten komputer lub sieć są chronione przez serwer proxy albo zaporę sieciową? Ich nieprawidłowa konfiguracja może powodować problemy z przeglądaniem witryn internetowych.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Port zastrzeżony z przyczyn bezpieczeństwa">
+<!ENTITY deniedPortAccess.title "Zastrzeżony adres">
 <!ENTITY deniedPortAccess.longDesc "<p>Żądany adres zawiera numer portu (np. w adresie <q>mozilla.org:80</q> liczba 80 to port na serwerze mozilla.org), który zazwyczaj <em>nie jest</em> wykorzystywany do przeglądania witryn WWW. Przeglądarka anulowała to żądanie ze względów bezpieczeństwa.</p>">
 
 <!ENTITY dnsNotFound.title "Nie odnaleziono adresu">

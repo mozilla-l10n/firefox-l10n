@@ -11,7 +11,7 @@
 <!ENTITY connectionFailure.title "Nie udało się nawiązać połączenia">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY deniedPortAccess.title "Port zastrzeżony z przyczyn bezpieczeństwa">
+<!ENTITY deniedPortAccess.title "Zastrzeżony adres">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nie odnaleziono adresu">
