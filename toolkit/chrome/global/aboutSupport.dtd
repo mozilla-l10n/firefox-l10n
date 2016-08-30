@@ -90,6 +90,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafica">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Banca da datas «Places»">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integritad">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verifitgar l'integritad">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC incremental">
@@ -116,3 +119,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Protocol d'errurs">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Protocol da decisiuns">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funcziunalitads deactivadas da la protecziun cunter collaps">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Soluziuns">

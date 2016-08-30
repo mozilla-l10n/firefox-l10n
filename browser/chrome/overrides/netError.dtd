@@ -148,8 +148,17 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime "<p>Impussibel da stabilir ina connexiun segirada cun <span id='wrongSystemTime_URL'/> perquai che tia ura na para betg da mussar il temp correct.</p> <p>Tes computer pensa ch'i saja las <span id='wrongSystemTime_systemDate'/>, fertant ch'i stuess esser las <span id='wrongSystemTime_actualDate'/>. Curregia la data ed il temp da tes computer per schliar il problem.</p>">
 
+<!ENTITY certerror.pagetitle1  "Connexiun betg segirada">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Questa website utilisescha HTTP
+Strict Transport Security (HSTS) per inditgar che &brandShortName; dastgia mo connectar a moda segirada. Damain èsi impussibel dad agiuntar ina excepziun per quest certificat.">
+<!ENTITY certerror.copyToClipboard.label "Copiar il text en l'archiv provisoric">
 
+<!ENTITY inadequateSecurityError.title "Tia connexiun n'è betg segirada">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utilisescha tecnologia da segirezza ch'è obsoleta e qua tras vulnerabla. In attatgader pudess revelar a moda simpla infurmaziuns che ti has considerà sco segiradas. L'administratur da la website vegn a stuair metter en urden ses server avant che ti possias visitar la website.</p><p>Code d'errur: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY prefReset.longDesc "I para che la configuraziun da la segirezza da tia rait chaschunia quest problem. Vuls ti restaurar la configuraziun da standard?">
+<!ENTITY prefReset.label "Restaurar il standard">
