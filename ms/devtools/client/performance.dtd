@@ -36,6 +36,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "Rakaman profil tidak dapat dibuat pada masa ini. Sila tutup semua tetingkap pelayar peribadi dan cuba lagi.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
@@ -43,6 +44,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
+<!ENTITY performanceUI.recordButton.tooltip "Togol keadaan prestasi rakaman.">
 
 <!-- LOCALIZATION NOTE (performanceUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
