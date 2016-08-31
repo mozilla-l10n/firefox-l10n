@@ -25,6 +25,7 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Beberapa sambungan tidap dapat disahkan">
 <!ENTITY showAllExtensions.button.label       "Pamerkan semua penambahan">
+<!ENTITY debugAddons.label                    "Add-on Nyahpepijat">
 <!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
@@ -37,6 +38,7 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Membenarkan pemeriksaan keselamatan kemaskini add-on">
 
 <!-- categories / views -->
+<!ENTITY view.search.label                    "Cari">
 <!ENTITY view.discover.label                  "Dapatkan Add-on">
 <!ENTITY view.recentUpdates.label             "Kemaskini terbaru">
 <!ENTITY view.availableUpdates.label          "Kemaskini tersedia">

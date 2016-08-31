@@ -30,5 +30,6 @@
 <!ENTITY aboutNetworking.bytesSent             "Bait Dihantar">
 <!ENTITY aboutNetworking.bytesReceived         "Bait Diterima">
 <!ENTITY aboutNetworking.dnsLookup             "Carian DNS">
+<!ENTITY aboutNetworking.dnsLookupButton       "Uraikan">
 <!ENTITY aboutNetworking.dnsDomain             "Domain">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
