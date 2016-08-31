@@ -36,7 +36,7 @@
 <!ENTITY defaultCompose.label                 "Standaard tekstopmaak:">
 <!ENTITY defaultBodyText.label                "Tekst (Enter-toets creëert een nieuwe regel)">
 <!ENTITY defaultBodyText.accesskey            "k">
-<!ENTITY defaultParagraph.label               "Alinea (Enter-toets crëert een nieuwe alinea)">
+<!ENTITY defaultParagraph.label               "Alinea (Enter-toets creëert een nieuwe alinea)">
 <!ENTITY defaultParagraph.accesskey           "n">
 
 <!ENTITY selectHeaderType.label               "Antwoordregeltype selecteren:">
