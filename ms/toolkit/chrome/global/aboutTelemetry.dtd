@@ -14,7 +14,13 @@
   
   FHR memuat naik data <span> dinyahdaya</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "
+  Rakaman Telemetri Lanjutan <span>didayakan</span>.
+">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "
+  Rakaman Telemetri Lanjutan <span>dinyahdayakan</span>.
+">
 
 <!ENTITY aboutTelemetry.pingDataSource "Sumber data ping:">
 
