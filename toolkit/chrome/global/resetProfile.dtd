@@ -5,10 +5,11 @@
 <!ENTITY refreshProfile.dialog.title         "Muat mula &brandShortName;">
 <!ENTITY refreshProfile.dialog.description1  "Mulakan semula untuk membaiki masalah dan mengembalikan prestasi.">
 <!ENTITY refreshProfile.dialog.description2  "Ini akan:">
-<!ENTITY refreshProfile.dialog.items.label1  "Alih keluar add-on dan penyesuaian anda">
+<!ENTITY refreshProfile.dialog.items.label1  "Alih keluar add-ons dan penyesuaian anda">
 <!ENTITY refreshProfile.dialog.items.label2  "Kembalikan tetapan pelayar anda kepada piawai">
 <!ENTITY refreshProfile.dialog.button.label  "Muat mula &brandShortName;">
 
+<!ENTITY refreshProfile.title                "Beri &brandShortName; talaan">
 <!ENTITY refreshProfile.button.label         "Muat mula &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "Hampir selesai…">

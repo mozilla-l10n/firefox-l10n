@@ -101,4 +101,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
+<!ENTITY aboutSupport.restartInSafeMode.label "Mula semula dengan Add-ons Dinyahdayakan…">
 
