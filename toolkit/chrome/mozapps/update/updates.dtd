@@ -51,9 +51,9 @@
 <!ENTITY  finishedBackground.name         "Pemutakhiran:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Pemutakhiran akan dipasang saat &brandShortName; dimulai lagi. Anda dapat memulai ulang &brandShortName; sekarang juga atau tetap bekerja dan memulai ulang nanti.">
-<!ENTITY  finishedBackground.moreElevated "Pemutakhiran ini membutuhkan izin administrator. Pembaharuan akan 
-                                           dipasang saat &brandShortName; kembali dinyalakan. Anda dapat memulai ulang 
-                                           &brandShortName; sekarang, melanjutkan pekerjaan dan memulai ulang nanti, atau tolak 
+<!ENTITY  finishedBackground.moreElevated "Pemutakhiran ini membutuhkan izin administrator. Pemutakhiran akan 
+                                           dipasang saat &brandShortName; dimulai kembali. Anda dapat memulai ulang 
+                                           &brandShortName; sekarang juga, melanjutkan pekerjaan dan memulai ulang nanti, atau menolak 
                                            pemutakhiran ini.">
 
 <!ENTITY  update.details.label            "Detail">
