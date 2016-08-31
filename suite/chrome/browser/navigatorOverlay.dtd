@@ -104,7 +104,7 @@
 <!ENTITY cookieAllowSessionCookiesMsg.label "Deze website kan alleen cookies instellen voor de huidige sessie.">
 <!ENTITY cookieCookiesDefaultCmd.label "Standaard cookietoestemmingen gebruiken">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "d">
-<!ENTITY cookieCookiesDefaultMsg.label "Cookies van deze website zullen worden geaccepteerd of geweigerd op basis van de standaardinstellingen.">
+<!ENTITY cookieCookiesDefaultMsg.label "Cookies van deze website zullen op basis van de standaardinstellingen worden geaccepteerd of geweigerd.">
 <!ENTITY cookieBlockCookiesCmd.label "Cookies van deze website blokkeren">
 <!ENTITY cookieBlockCookiesCmd.accesskey "k">
 <!ENTITY cookieBlockCookiesMsg.label "Cookies van deze website zullen altijd worden geweigerd.">
@@ -117,7 +117,7 @@
 <!ENTITY cookieAllowImagesMsg.label "Afbeeldingen van deze website zullen altijd worden gedownload.">
 <!ENTITY cookieImagesDefaultCmd.label "Standaard afbeeldingstoestemmingen gebruiken">
 <!ENTITY cookieImagesDefaultCmd.accesskey "d">
-<!ENTITY cookieImagesDefaultMsg.label "Afbeeldingen van deze website zullen worden gedownload op basis van de standaardinstellingen.">
+<!ENTITY cookieImagesDefaultMsg.label "Afbeeldingen van deze website zullen op basis van de standaardinstellingen worden gedownload.">
 <!ENTITY cookieBlockImagesCmd.label "Afbeeldingen van deze website blokkeren">
 <!ENTITY cookieBlockImagesCmd.accesskey "k">
 <!ENTITY cookieBlockImagesMsg.label "Afbeeldingen van deze website zullen nooit worden gedownload.">
@@ -128,7 +128,7 @@
 <!ENTITY popupAllowMsg.label "Pop-ups van deze website zullen altijd worden getoond.">
 <!ENTITY popupDefaultCmd.label "Standaard pop-uptoestemmingen gebruiken">
 <!ENTITY popupDefaultCmd.accesskey "S">
-<!ENTITY popupDefaultMsg.label "Pop-ups van deze website zullen worden getoond op basis van de standaardinstellingen.">
+<!ENTITY popupDefaultMsg.label "Pop-ups van deze website zullen op basis van de standaardinstellingen worden getoond.">
 <!ENTITY popupBlockCmd.label "Pop-ups van deze website blokkeren">
 <!ENTITY popupBlockCmd.accesskey "w">
 <!ENTITY popupBlockMsg.label "Pop-ups van deze website zullen niet worden getoond.">
