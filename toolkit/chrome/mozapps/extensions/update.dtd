@@ -27,7 +27,7 @@
 <!ENTITY  installing.top.label            "A descarregar e instalar atualizações para os seus extras…">
 
 <!ENTITY  noupdates.wizard.title          "Não foram encontrados extras compatíveis">
-<!ENTITY  noupdates.intro.desc            "O &brandShortName; não conseguiu encontrar atualizações para os extras incompatíveis.">
+<!ENTITY  noupdates.intro.desc            "O &brandShortName; não conseguiu encontrar atualizações para os seus extras incompatíveis.">
 <!ENTITY  noupdates.error.desc            "Ocorreram alguns problemas durante a procura de atualizações.">
 <!ENTITY  noupdates.checkEnabled.desc     "O &brandShortName; verificará periodicamente e informá-lo-á quando atualizações compatíveis para estes extras forem encontradas.">
 
