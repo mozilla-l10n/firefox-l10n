@@ -5,17 +5,17 @@
 <!ENTITY firstrun_panel_title_welcome "خوش آمدید">
 
 <!ENTITY firstrun_urlbar_message "به &brandShortName; خوش‌آمدید">
-<!ENTITY firstrun_urlbar_subtext "با میانبرهای پیشنهادی جست‌و‌جو سریعتر پیدا کنید.">
+<!ENTITY firstrun_urlbar_subtext "چیزهایی که میخواهید را با پیشنهادهای جست‌وجوی مفید، سریع‌تر پیدا کنید.">
 <!ENTITY firstrun_bookmarks_title "تاریخچه">
-<!ENTITY firstrun_bookmarks_message "همه‌ی علایق شما، روبرو و مرکز">
-<!ENTITY firstrun_bookmarks_subtext "دریافت نتایج از نشانک ها و تاریخچه وقتی که شما جست‌و‌جو می‌کنید.">
+<!ENTITY firstrun_bookmarks_message "علایق شما، در مرکز و تیر رس توجه شما">
+<!ENTITY firstrun_bookmarks_subtext "هنگام جست‌وجو نتایجی از نشانک‌ها و تاریخچهٔ را هم ببینید.">
 <!ENTITY firstrun_data_title "داده">
-<!ENTITY firstrun_data_message "داده‌کم‌تر،صرفه‌جویی بشتر">
-<!ENTITY firstrun_data_subtext2 "برای دریافت داده کمتر در هنگام مشاهده سایت‌هایی که بازدید می‌کنید، تصاویر را خاموش کنید.">
+<!ENTITY firstrun_data_message "داده کم‌تر،صرفه‌جویی بیشتر">
+<!ENTITY firstrun_data_subtext2 "تصاویر را خاموش کنید تا داده کمتری در هنگام مشاهده هر سایت صرف کنید.">
 <!ENTITY firstrun_sync_title "هم‌گام‌سازی">
-<!ENTITY firstrun_sync_message "&brandShortName;, همیشه در سمت شماست">
-<!ENTITY firstrun_sync_subtext "همگام‌سازی زبانه‌ها‌،‌گذرواژه‌ها، و چیزهای دیگر هر کجا که مایل باشید از آن استفاده کنید.">
-<!ENTITY firstrun_signin_message "وصل شوید،‌شروع کنید">
+<!ENTITY firstrun_sync_message "&brandShortName;، همیشه طرف شماست">
+<!ENTITY firstrun_sync_subtext "زبانه‌ها‌،‌ گذرواژه‌ها، و هر چیز دیگری را هر جا که مایل به استفاده از آن هستید، همگام‌سازی کنید.">
+<!ENTITY firstrun_signin_message "متصل شوید،‌ شروع کنید">
 <!ENTITY firstrun_signin_button "برای همگام‌سازی وارد شوید">
 <!ENTITY  onboard_start_button_browser "شروع وب‌گردی">
 <!ENTITY firstrun_button_notnow "هم‌اکنون نه">
@@ -587,7 +587,7 @@ size. -->
 <!ENTITY home_clear_history_button "پاک کردن تاریخچه مرور">
 <!ENTITY home_clear_history_confirm "آیا مطمئن هستید می‌خواهید تاریخچه مرور خود را پاک کنید؟">
 <!ENTITY home_bookmarks_empty "نشانک‌هایی که ذخیره می‌کنید، در اینجا نمایش داده می‌شوند.">
-<!ENTITY home_closed_tabs_title2 "زبانه‌های اخیر بسته شده">
+<!ENTITY home_closed_tabs_title2 "زبانه‌های به تازگی بسته شده">
 <!ENTITY home_last_tabs_empty "زبانه‌های اخیر شما در اینجا نمایش داده می‌شوند.">
 <!ENTITY home_restore_all "بازآوری همه">
 <!ENTITY home_closed_tabs_number "&formatD; زبانه">
