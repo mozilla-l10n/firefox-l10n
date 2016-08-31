@@ -1,0 +1,52 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
+close to the golden ratio (1.618:1) while making sure it's wide enough for long
+file names and tall enough to hint that there are more downloads in the list -->
+<!ENTITY window.width2                    "485">
+<!ENTITY window.height                    "300"> 
+
+<!ENTITY starting.label                   "Po fillohet…">
+<!ENTITY scanning.label                   "Po kontrollohet për viruse…">
+
+<!ENTITY downloads.title                  "Shkarkime">
+
+<!ENTITY cmd.pause.label                  "Ndalesë">
+<!ENTITY cmd.pause.accesskey              "N">
+<!ENTITY cmd.resume.label                 "Rimerre">
+<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.cancel.label                 "Anuloje">
+<!ENTITY cmd.cancel.accesskey             "A">
+<!ENTITY cmd.show.label                   "Hap Dosjen Që e Përmban">
+<!ENTITY cmd.show.accesskey               "D">
+<!ENTITY cmd.showMac.label                "Shfaqe në Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.open.label                   "Hape">
+<!ENTITY cmd.open.accesskey               "H">
+<!ENTITY cmd.openWith.label               "Hapeni Me…">
+<!ENTITY cmd.openWith.accesskey           "h">
+<!ENTITY cmd.retry.label                  "Riprovo">
+<!ENTITY cmd.retry.accesskey              "R">
+<!ENTITY cmd.goToDownloadPage.label       "Shko te Faqja e Shkarkimit">
+<!ENTITY cmd.goToDownloadPage.accesskey   "S">
+<!ENTITY cmd.copyDownloadLink.label       "Kopjo Lidhjen e Shkarkimit">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.removeFromList.label         "Hiqe Prej Liste">
+<!ENTITY cmd.removeFromList.accesskey     "q">
+
+<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY cmd.close2.commandKey            "j">
+<!ENTITY cmd.close2Unix.commandKey        "y">
+<!ENTITY cmd.clearList.label              "Pastroje Listën">
+<!ENTITY cmd.clearList.tooltip            "Heq prej listës shkarkime të plotësuara, të anuluara  dhe të dështuara">
+<!ENTITY cmd.clearList.accesskey          "P">
+<!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
+
+<!ENTITY closeWhenDone.label              "Mbylle kur shkarkimet plotësohen">
+<!ENTITY closeWhenDone.tooltip            "Mbyll dritaren e Shkarkimeve kur përfundon shkarkimi i krejt kartelave">
+
+<!ENTITY showFolder.label                 "Shfaq këtë dosje">
+<!ENTITY searchBox.label                  "Kërkoni…">

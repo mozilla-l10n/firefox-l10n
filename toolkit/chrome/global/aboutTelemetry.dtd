@@ -157,7 +157,3 @@ Ping
 <!ENTITY aboutTelemetry.rawPingData "
 Të dhëna të papërpunuara pingjesh ...
 ">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Të dhëna të Papërpunuara Ngarkese
-">

@@ -22,8 +22,8 @@
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Kontrolloni adresën për gabime shkrimi si, p.sh.,
-    <strong>ww</strong>.shembull.com në vend të
-    <strong>www</strong>.shembull.com</li>
+    <strong>ww</strong>.example.com në vend të
+    <strong>www</strong>.example.com</li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Kërkoni</button>
@@ -53,7 +53,7 @@
 <!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Adresat Web zakonisht shkruhen si
-    <strong>http://www.shembull.com/</strong></li>
+    <strong>http://www.example.com/</strong></li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Kërkoni</button>

@@ -37,7 +37,7 @@
 <!ENTITY emailLabel.accesskey "A">
 
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Jepni emrin e shërbyesit tuaj për postë ardhëse (për shembull, &quot;mail.shembull.net&quot;).">
+<!ENTITY incomingServer.description "Jepni emrin e shërbyesit tuaj për postë ardhëse (për shembull, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServer.label "Shërbyes për Ardhësen:">
 <!ENTITY incomingServer.accesskey "A">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
@@ -130,7 +130,7 @@
 
 <!ENTITY outgoingTitle.label "Të dhëna Shërbyesi për të Dërguarën">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Jepni emrin e shërbyesit tuaj për postën e dërguar (SMTP) (për shembull, &quot;smtp.shembull.net&quot;).">
+<!ENTITY outgoingServer.description "Jepni emrin e shërbyesit tuaj për postën e dërguar (SMTP) (për shembull, &quot;smtp.example.net&quot;).">
 <!ENTITY outgoingServer.label "Shërbyesi Dërgues:">
 <!ENTITY outgoingServer.accesskey "S">
 <!ENTITY outgoingUsername.description "Jepni emër përdoruesi për dërguesin ashtu si ju është dhënë nga mundësuesi juaj i email-it (zakonisht ky është i njëjtë me emrin tuaj të përdoruesit për postën ardhëse).">
