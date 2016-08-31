@@ -44,12 +44,14 @@
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Blêdwizers">
 <!ENTITY  history_title "Skiednis">
-<!ENTITY  recent_tabs_title "Resinte ljepblêden">
 
 <!ENTITY  switch_to_tab "Wikselje nei ljepblêd">
 
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Offlineferzje toand">
+
 <!ENTITY  crash_reporter_title "&brandShortName;-ûngelokrapportearder">
-<!ENTITY  crash_message2 "&brandShortName; hie in probleem en is fêstrûn. Jo ljepblêden soene toand wurde moatte op jo &brandShortName;-startside as jo werstarte.">
+<!ENTITY  crash_message2 "&brandShortName; hie in probleem en is fêstrûn.  By werstarte derfan wurde jo ljepblêden op de &brandShortName;-startside fermeld.">
 <!ENTITY  crash_send_report_message3 "&vendorShortName; fan dit ûngelok op de hichte stelle, sadat se dit ferhelpe kinne">
 <!ENTITY  crash_include_url2 "It adres fan de besochte side tafoegje">
 <!ENTITY  crash_sorry "It spyt ús">
@@ -270,6 +272,20 @@
 <!ENTITY pref_whats_new_notification "Wat is der nij yn &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Mear ynfo oer nije funksjes nei in fernijing">
 
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+<!ENTITY pref_category_experimental "Eksperimintele funksjes">
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "Eigen ljepblêden">
+<!ENTITY pref_custom_tabs_summary "Tastean dat apps fan tredden URL’s iepenje mei in eigen foarmjouwing">
+
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Aktiviteitenstream">
+<!ENTITY pref_activity_stream_summary "In rike fisuele skiednisfeed en in opnij opsette startside meitsje it makliker as ea om yn &brandShortName; presys dat te finen wat jo sykje">
+
 <!ENTITY tracking_protection_prompt_title "No mei Beskerming tsjin folgjen">
 <!ENTITY tracking_protection_prompt_text "Blokkearje aktyf folcheleminten, sadat jo jo gjin soargen hoege te meitsjen.">
 <!ENTITY tracking_protection_prompt_tip_text "Besykje Privacyynstellingen foar mear ynfo">
@@ -383,6 +399,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Syngronisearre ljepblêden">
 
 <!ENTITY pref_default_browser "Standertbrowser meitsje">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support besykje">
 <!ENTITY pref_about_firefox "Oer &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ’s">
 <!ENTITY pref_vendor_feedback "Kommentaar jaan">
@@ -571,11 +588,13 @@ size. -->
 <!ENTITY home_clear_history_button "Skiednis wiskje">
 <!ENTITY home_clear_history_confirm "Binne jo wis dat jo jo skiednis wiskje wolle?">
 <!ENTITY home_bookmarks_empty "Bewarre blêdwizers komme hjir.">
-<!ENTITY home_closed_tabs_title "Koartlyn sluten ljepblêden">
-<!ENTITY home_last_tabs_title "Ljepblêden fan de foarige kear">
+<!ENTITY home_closed_tabs_title2 "Koartlyn sluten">
 <!ENTITY home_last_tabs_empty "Jo resinte ljepblêden komme hjir.">
-<!ENTITY home_open_all "Iepenje alle">
-<!ENTITY home_most_recent_empty "Meast resint besochte websites komme hjir.">
+<!ENTITY home_restore_all "Alle werstelle">
+<!ENTITY home_closed_tabs_number "&formatD; ljepblêden">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 ljepblêd">
+<!ENTITY home_most_recent_empty "Hjir ferskine jo meast resint besochte websites.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
        The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: in &formatS1;Nij priveeljepblêd&formatS2; iepenje sil gjin skiednis fan jo bewarje.">
@@ -626,7 +645,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Befeilige ferbining">
 <!ENTITY identity_connection_insecure "Net-befeilige ferbining">
-<!ENTITY identity_login_insecure "Dizze side is net befeilige, en jo oanmelding soe kwetsber wêze kinne .">
 <!ENTITY identity_connection_chromeui "Dit is in befeilige &brandShortName;-side">
 
 <!-- Mixed content notifications in site identity popup -->
