@@ -6,5 +6,8 @@
 <!ENTITY window.width                 "40em">
 <!ENTITY window.height                "8em">
 
+<!ENTITY doNotTrackCheckbox2.label    "Adina applitgar «Betg fastizar»">
+<!ENTITY doNotTrackCheckbox2.accesskey "A">
 
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; trametta in signal che di che ti na veglias betg vegnir persequità sche la protecziun cunter il fastizar è activada.">
 <!ENTITY doNotTrackLearnMore.label    "Ulteriuras infurmaziuns">

@@ -53,6 +53,10 @@
 <!ENTITY  finishedBackground.name         "Actualisaziun:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "L'actualisaziun vegn installada la proxima giada che &brandShortName; vegn avià. Ti pos ussa reaviar &brandShortName; u cuntinuar a lavurar e reaviar pli tard.">
+<!ENTITY  finishedBackground.moreElevated "Questa actualisaziun pretenda dretgs d'administratur. L'actualisaziun vegn
+                                           installada la proxima giada che &brandShortName; vegn avià. Ti pos ussa reaviar
+                                           &brandShortName;, cuntinuar cun la lavur e reaviar pli tard u refusar questa
+                                           actualisaziun.">
 
 <!ENTITY  update.details.label            "Detagls">
 <!ENTITY  update.installedOn.label        "Installà ils:">
