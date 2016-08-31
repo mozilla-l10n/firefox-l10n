@@ -54,6 +54,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Skedë e Re">
 <!ENTITY tabCmd.accesskey "S">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Hapni Vendndodhje…">
 <!ENTITY openFileCmd.label "Hapni Kartelë…">
 <!ENTITY openFileCmd.accesskey "K">
@@ -158,10 +161,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "N">
 <!ENTITY shareVideo.label "Ndajeni Këtë Video Me të Tjerët">
 <!ENTITY shareVideo.accesskey "N">
-<!ENTITY feedsMenu.label "Pajtohuni">
+<!ENTITY feedsMenu2.label "Pajtohuni te Kjo Faqe">
 <!ENTITY subscribeToPageMenupopup.label "Pajtohuni te Kjo Faqe">
 <!ENTITY subscribeToPageMenuitem.label "Pajtohuni te Kjo Faqe…">
-
 <!ENTITY addCurPagesCmd.label "Faqeruajini Krejt Skedat…">
 <!ENTITY showAllBookmarks2.label "Shfaqni Krejt Faqerojtësit">
 <!ENTITY recentBookmarks.label "Faqeruajtur Së Fundi">
@@ -186,7 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY goEndCap.tooltip             "Shkoni te adresa e dhënë te Shtylla e Vendeve">
 <!ENTITY printButton.label            "Shtype">
 <!ENTITY printButton.tooltip          "Shtypeni këtë faqe">
-<!ENTITY searchItem.title             "Kërkoni">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Shihni të dhëna sajti">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
@@ -208,14 +209,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Administroni ndarjen me sajtin të dritares ose skenës tuaj">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Po ndani me sajtin dritaren ose skenën tuaj">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Change whether the site can hide the pointer">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "View the service install message">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Translate this page">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Manage page translation">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Manage use of DRM software">
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Ndryshoni zgjedhjen për shfaqje apo jo nga sajti të treguesit">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Shihni mesazhin mbi instalimin e shërbimit">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Përkthejeni këtë faqe">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Administroni përkthim faqeje">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Administroni përdorim software-i DRM">
 
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Show history">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Shfaq historikun">
 
+<!ENTITY searchItem.title             "Kërkoni">
 
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label             "Kreu">
@@ -432,6 +434,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Kërko me:">
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Ndryshoji Rregullimet e Kërkimit">
 
 <!ENTITY searchInNewTab.label         "Kërkoni në Skedë të Re">
@@ -451,6 +456,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "S">
 <!ENTITY openFrameCmd.label           "Hape Kornizën në Dritare të Re">
 <!ENTITY openFrameCmd.accesskey       "D">
+<!ENTITY openLinkCmdInContainerTab.label "Hape Lidhjen në Skedë të Re Kontejneri">
+<!ENTITY openLinkCmdInContainerTab.accesskey "K">
 <!ENTITY showOnlyThisFrameCmd.label     "Trego Vetëm Këtë Kornizë">
 <!ENTITY showOnlyThisFrameCmd.accesskey "T">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -461,8 +468,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPartialSourceCmd.accesskey "S">
 <!ENTITY viewPageSourceCmd.label      "Shihni Burim Faqeje">
+<!ENTITY viewPageSourceCmd.accesskey "S">
 <!ENTITY viewPageSourceCmd.accesskey  "u">
 <!ENTITY viewFrameSourceCmd.label     "Shihni Burim Kornize">
 <!ENTITY viewFrameSourceCmd.accesskey "B">
@@ -639,6 +646,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.accesskey "P">
 <!ENTITY pageStylePersistentOnly.label "Stil Bazik Faqeje">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
+
 <!ENTITY pageReportIcon.tooltip            "Ndryshoni rregullime bllokimi flluskash për këtë sajt">
 
 <!ENTITY allowPopups.accesskey "L">
@@ -702,6 +710,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "Ç">
 <!ENTITY identity.learnMore "Mësoni Më Tepër">
 
+<!ENTITY identity.removeCertException.label "Hiqeni Përjashtimin">
+<!ENTITY identity.removeCertException.accesskey "H">
+
 <!ENTITY identity.moreInfoLinkText2 "Më Tepër të Dhëna">
 
 <!ENTITY identity.permissions "Leje">
@@ -713,7 +724,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu and history panel -->
 <!ENTITY syncTabsMenu3.label     "Skeda të Njëkohësuara">
-
 
 <!ENTITY syncedTabs.sidebar.label              "Skeda të Njëkohësuara">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Bëni hyrjen te llogaritë tuaja Firefox prej pajisjeve tuaja të tjera që të shihni këtu skedat e tyre.">
@@ -737,6 +747,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Faqeruajeni Këtë Skedë…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "F">
 <!ENTITY syncedTabs.context.copy.label                       "Kopjoje">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -802,8 +813,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon për ndarje me të tjerët:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.allWindowsShared.message "Do të ndahen me të tjerët krejt dritaret e dukshme në ekranin tuaj.">
 <!ENTITY getUserMedia.audioCapture.label "Audio prej skedës do të ndahet me të tjerët.">
+<!ENTITY getUserMedia.allWindowsShared.message "Do të ndahen me të tjerët krejt dritaret e dukshme në ekranin tuaj.">
 
 <!ENTITY trackingProtection.title "Mbrojtje Nga Gjurmimet">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName;-i po bllokon pjesë të këasj faqeje që mund të ndjekin shfletimin tuaj.">
@@ -851,10 +862,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Mbylle">
 
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 <!ENTITY appMenuSidebars.label         "Anështylla">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
