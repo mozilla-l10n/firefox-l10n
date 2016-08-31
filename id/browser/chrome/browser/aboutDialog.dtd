@@ -106,5 +106,5 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Anda sedang berada di ">
-<!ENTITY channel.description.end    " kanal pemutakhiran. ">
+<!ENTITY channel.description.start  "Anda sedang berada di kanal pemutakhiran ">
+<!ENTITY channel.description.end    ". ">
