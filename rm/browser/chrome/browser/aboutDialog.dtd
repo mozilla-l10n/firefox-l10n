@@ -65,6 +65,7 @@
 <!ENTITY update.adminDisabled       "La funcziun dad actualisaziuns è deactivada da tes administratur da sistem">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; vegn actualisà d'ina autra instanza">
+<!ENTITY update.restarting          "Reaviar…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
