@@ -535,8 +535,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY thisFrameMenu.label              "Këtë Kornizë">
 <!ENTITY thisFrameMenu.accesskey          "z">
 
-
-===================================================================
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -671,7 +669,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "S">
 
 <!ENTITY editBookmark.done.label                      "U bë">
-<!ENTITY editBookmark.cancel.label                   "Anuloje">
 <!ENTITY editBookmark.removeBookmark.accessKey       "H">
 
 <!ENTITY identity.connectionSecure "Lidhje e Sigurt">
@@ -778,7 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Klikoni mbi një shërbim që të shtohet te &brandShortName;-i.">
 <!ENTITY social.directory.viewmore.text "Shihni Më Tepër">
 
-<!ENTITY customizeMode.tabTitle "Personalizojeni &brandShortName;-in">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Mjete dhe Veçori Shtesë">
 <!ENTITY customizeMode.menuAndToolbars.empty "Doni më tepër mjete?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Zgjidhni prej mijëra shtesave">
@@ -888,7 +884,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Mësoni më tepër rreth DRM-s…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "Jo tani">
-<!ENTITY emeNotificationsNotNow.accesskey         "J">
-<!ENTITY emeNotificationsDontAskAgain.label       "Mos më pyet sërish">
-<!ENTITY emeNotificationsDontAskAgain.accesskey   "M">
