@@ -8,6 +8,7 @@
 <!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "App Baru…">
 <!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "Buka Pakej App…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "Buka App…">
