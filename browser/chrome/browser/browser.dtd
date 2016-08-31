@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY pinTab.accesskey               "L">
 <!ENTITY unpinTab.label                 "Ljepblêd losmeitsje">
 <!ENTITY unpinTab.accesskey             "b">
-<!ENTITY  sendTabToDevice.label         "Ljepblêd nei apparaat ferstjoere">
-<!ENTITY  sendTabToDevice.accesskey     "p">
-<!ENTITY  sendPageToDevice.label        "Side nei apparaat ferstjoere">
-<!ENTITY  sendPageToDevice.accesskey    "p">
-<!ENTITY  sendLinkToDevice.label        "Keppeling nei apparaat ferstjoere">
-<!ENTITY  sendLinkToDevice.accesskey    "p">
+<!ENTITY sendTabToDevice.label         "Ljepblêd nei apparaat ferstjoere">
+<!ENTITY sendTabToDevice.accesskey     "p">
+<!ENTITY sendPageToDevice.label        "Side nei apparaat ferstjoere">
+<!ENTITY sendPageToDevice.accesskey    "p">
+<!ENTITY sendLinkToDevice.label        "Keppeling nei apparaat ferstjoere">
+<!ENTITY sendLinkToDevice.accesskey    "p">
 <!ENTITY moveToNewWindow.label          "Ferpleatse nei nij finster">
 <!ENTITY moveToNewWindow.accesskey      "f">
 <!ENTITY bookmarkAllTabs.label       	  "Blêdwizer foar alle ljepblêden meitsje…">
@@ -788,12 +788,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "Desktopnotifikaasjes toane">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "Tsjinsten fan <label/> binne ynskeakele. Jo kinne jo ynstellingen wizigje foar tsjinsten yn de <label class='text-link'>Add-on behearder</label>.">
-<!ENTITY social.activated.undo.label "Oeps, dit ungedien meitsje!">
-<!ENTITY social.activated.undo.accesskey "O">
 <!ENTITY social.learnMore.label "Lês mear…">
 <!ENTITY social.learnMore.accesskey "L">
-<!ENTITY social.closeNotificationItem.label "No net">
+
 
 <!ENTITY social.directory.label "Aktivaasjemap">
 <!ENTITY social.directory.text "Jo kinne dieltsjinsten aktivearje út de map.">
