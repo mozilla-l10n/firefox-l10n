@@ -39,3 +39,4 @@
 
 <!ENTITY plugin.file                                         "Fail">
 <!ENTITY plugin.mimeTypes                                    "MIME Jenis">
+<!ENTITY plugin.flashProtectedMode.label                     "Dayakan mod terpelihara Adobe Flash">

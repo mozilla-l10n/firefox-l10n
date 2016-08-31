@@ -22,9 +22,11 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Keutamaan">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "Urus Komponen Tambahan">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 <!ENTITY projectMenu_refreshTabs_label "Muat semula Tab">
 
+<!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Nyahsambung">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
