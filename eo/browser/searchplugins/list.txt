@@ -1,6 +1,5 @@
 amazondotcom
 bing
-eBay
 google
 reta-vortaro
 wikipedia-eo
