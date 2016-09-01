@@ -118,6 +118,9 @@
 <!ENTITY permissionstable_name_header "Nama">
 
 <!-- Runtime Details -->
+<!ENTITY runtimedetails_adbIsRoot "ADB ialah root: ">
+<!ENTITY runtimedetails_summonADBRoot "root peranti">
+<!ENTITY runtimedetails_privilegesWarning "(Akan but semula peranti. Memerlukan akses root.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">

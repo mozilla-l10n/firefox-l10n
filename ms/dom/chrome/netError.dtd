@@ -82,3 +82,4 @@
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi keselamatan yang sudah usang dan terdedah kepada serangan. Penyerang boleh mendedahkan maklumat yang anda fikir selamat. Pentadbir laman web perlu membaik pulih pelayan terlebih dulu sebelum anda boleh melawat laman web ini. </p><p> Kod ralat: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
