@@ -19,12 +19,13 @@
 <!ENTITY sync.password              "पासवर्ड">
 <!ENTITY sync.recoveryKey           "पुनर्स्थापना साँचो">
 <!ENTITY sync.customServer          "अनुकूल सर्भर प्रयोग गर्नुहोस्">
-
-
+<!ENTITY sync.serverURL             "सर्भर URL">
+<!ENTITY sync.setup.connect         "जडान गर्नुहोस्">
 <!ENTITY sync.setup.cancel          "रद्द गर्नुहोस्">
+<!ENTITY sync.setup.tutorial        "कसरी मलाई देखाउनुहोस्।">
+<!ENTITY sync.setup.waiting2        "अरु यन्त्रलाई पर्खदैँ...">
 
-
-
-
+<!ENTITY sync.pair.title            "यन्त्रसँग जोड्नुहोस्">
+<!ENTITY sync.pair.description      "तपाईँको नयाँ उपकरण सक्रिय गराउन, उपकरणमा &quot;सिङ्क सेट अप&quot; चयन गर्नुहोस्।">
 <!ENTITY sync.setup.close           "बन्द गर्नुहोस्">
 
