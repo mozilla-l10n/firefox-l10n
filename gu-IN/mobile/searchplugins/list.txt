@@ -1,6 +1,5 @@
 amazon-in
 bing
-eBay-in
 google
 wikipedia-gu
 yahoo-in
