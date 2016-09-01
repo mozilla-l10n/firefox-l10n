@@ -11,4 +11,11 @@
 
 <!ENTITY     button.allow.label             "ອະນຸຍາດ">
 <!ENTITY     button.allow.accesskey         "A">
+<!ENTITY     button.session.label           "ອະນຸຍາດສຳລັບແຊສຊັນນີ້:">
+<!ENTITY     button.session.accesskey       "S">
+<!ENTITY     button.deny.label              "ປະຕິເສດ">
+<!ENTITY     button.deny.accesskey          "D">
 
+<!ENTITY     dialog.title                   "ຍືນຍັນການຕັ້ງຄ່າຄຸກກີ້">
+<!ENTITY     dialog.remember.label          "ໃຊ້ຕົວເລືອກຂອງຂ້ອຍສຳລັບທຸກໆຄຸກກີ້ຈາກເວັບໄຊຕ໌ນີ້">
+<!ENTITY     dialog.remember.accesskey      "U">
