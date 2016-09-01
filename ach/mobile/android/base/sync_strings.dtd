@@ -109,8 +109,8 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Email onyo mung me donyo ma pe atir">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Email onyo mung me donyo ma pe atir">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Pe ki moko akaunt">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Lapok tic tye ki tic, tem doki cokki.">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Lapok tic tye ki tic, tem doki cokki.">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Lapok tic tye ki tic, tem doki cokki">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Lapok tic tye ki tic, tem doki cokki">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Peko obedo tye">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Kiloro akaunt woko. &formatS1;">
 

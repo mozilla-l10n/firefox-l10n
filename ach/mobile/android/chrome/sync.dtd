@@ -13,7 +13,7 @@
 
 <!ENTITY sync.setup.title           "Kub i Sync">
 <!ENTITY sync.setup.pair            "Me cako, yer &quot;Rib Nyonyo&quot; ki i nyonyo ni mukene ni.">
-<!ENTITY sync.fallback              "Ape acok ki kompiuta mamega...">
+<!ENTITY sync.fallback              "Ape cok ki komputa mamega...">
 <!ENTITY sync.setup.manual          "Ket ngec me akaunti pa Sync mamegi">
 <!ENTITY sync.account               "Nying akaunti">
 <!ENTITY sync.password              "I cwil me donyo">
@@ -22,7 +22,7 @@
 <!ENTITY sync.serverURL             "Lapok tic me URL">
 <!ENTITY sync.setup.connect         "Kub">
 <!ENTITY sync.setup.cancel          "Juk">
-<!ENTITY sync.setup.tutorial        "Nyuta yore mene.">
+<!ENTITY sync.setup.tutorial        "Nyuta kit mene">
 <!ENTITY sync.setup.waiting2        "Tye ka kuro nyonyo mukene...">
 
 <!ENTITY sync.pair.title            "Ket Nyonyo Aryo Aryo">
