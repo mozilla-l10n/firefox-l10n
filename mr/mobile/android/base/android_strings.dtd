@@ -280,7 +280,7 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "ऐच्छिक टॅब्स">
-
+<!ENTITY pref_custom_tabs_summary "URLs चा सानुकूलित दृष्टिक्षेप आणि अनुभव घेण्यासाठी तृतीय पक्ष अँप्सना परवानगी द्या">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "उपक्रम मालिका">
@@ -398,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "ताळमेळीत झालेले टॅब्स">
 
 <!ENTITY pref_default_browser "मुलभूत ब्राउझर म्हणून वापरा">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla सपोर्टला भेट द्या">
 <!ENTITY pref_about_firefox "&brandShortName;बद्दल">
 <!ENTITY pref_vendor_faqs "नेहमीचे प्रश्न">
 <!ENTITY pref_vendor_feedback "प्रतिक्रिया द्या">
