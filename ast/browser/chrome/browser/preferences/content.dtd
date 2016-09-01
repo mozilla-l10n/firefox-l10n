@@ -35,7 +35,7 @@
 
 <!ENTITY languages.label              "Llingües">
 <!ENTITY chooseLanguage.label         "Escoyer llingua preferida p'amosar les páxines web">
-<!ENTITY chooseButton.label           "Seleicionar…">
+<!ENTITY chooseButton.label           "Escoyer…">
 <!ENTITY chooseButton.accesskey       "o">
 
 <!ENTITY translateWebPages.label      "Traducir conteníu web">

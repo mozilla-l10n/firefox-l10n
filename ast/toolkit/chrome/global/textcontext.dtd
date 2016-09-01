@@ -10,7 +10,7 @@
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY undoCmd.label "Desfacer">
 <!ENTITY undoCmd.accesskey "s">
-<!ENTITY selectAllCmd.label "Seleicionar too">
+<!ENTITY selectAllCmd.label "Esbillar too">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Desaniciar">
 <!ENTITY deleteCmd.accesskey "e">
