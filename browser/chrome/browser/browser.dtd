@@ -54,6 +54,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Skedë e Re">
 <!ENTITY tabCmd.accesskey "S">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Hapni Vendndodhje…">
 <!ENTITY openFileCmd.label "Hapni Kartelë…">
 <!ENTITY openFileCmd.accesskey "K">
@@ -107,8 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Hapni parapëlqimet mbi &syncBrand.shortName.label;-un">
 <!ENTITY fxaSignInError.label "Rilidhuni te &syncBrand.shortName.label;-u">
 <!ENTITY fxaUnverified.label "Verifikoni Llogarinë Tuaj">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label;-u u aktivizua">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; do të fillojë menjëherë të njëkohësojë.">
+
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizojeni">
 <!ENTITY fullScreenRestore.tooltip "Rikthejeni">
@@ -164,8 +166,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Pajtohuni te Kjo Faqe…">
 <!ENTITY addCurPagesCmd.label "Faqeruajini Krejt Skedat…">
 <!ENTITY showAllBookmarks2.label "Shfaqni Krejt Faqerojtësit">
-<!ENTITY unsortedBookmarksCmd.label "Faqerojtës të Parenditur">
+<!ENTITY recentBookmarks.label "Faqeruajtur Së Fundi">
+<!ENTITY otherBookmarksCmd.label "Faqerojtës të Tjerë">
 <!ENTITY bookmarksToolbarChevron.tooltip "Shfaqni më tepër faqerojtës">
+<!ENTITY showRecentlyBookmarked.label     "Shfaqni të Faqeruajtur Së Fundi">
+<!ENTITY showRecentlyBookmarked.accesskey "f">
+<!ENTITY hideRecentlyBookmarked.label     "Fshihni të Faqeruajtur Së Fundi">
+<!ENTITY hideRecentlyBookmarked.accesskey "F ">
 
 <!ENTITY backCmd.label                "Mbrapsht">
 <!ENTITY backButton.tooltip           "Shkoni mbrapsht një faqe">
@@ -181,7 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY goEndCap.tooltip             "Shkoni te adresa e dhënë te Shtylla e Vendeve">
 <!ENTITY printButton.label            "Shtype">
 <!ENTITY printButton.tooltip          "Shtypeni këtë faqe">
-<!ENTITY searchItem.title             "Kërkoni">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Shihni të dhëna sajti">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
@@ -193,7 +199,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Shihni mesazhin për depozitim jashtë linje nga aplikacioni">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Administroni të dhënat tuaja për hyrje">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "I vini shenjë nëse doni të ruhet fjalëkalimi juaj">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Shihni mesazhin e instalimit të aplikacionit">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Administroni përdorim shtojcash në këtë faqe">
 <!ENTITY urlbar.webNotsNotificationAnchor3.label        "Ndryshoni zgjedhjen për nëse mund të merrni njoftime prej sajtit apo jo">
 
@@ -204,23 +209,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Administroni ndarjen me sajtin të dritares ose skenës tuaj">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Po ndani me sajtin dritaren ose skenën tuaj">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Change whether the site can hide the pointer">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "View the service install message">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Translate this page">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Manage page translation">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Manage use of DRM software">
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Ndryshoni zgjedhjen për shfaqje apo jo nga sajti të treguesit">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Shihni mesazhin mbi instalimin e shërbimit">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Përkthejeni këtë faqe">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Administroni përkthim faqeje">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Administroni përdorim software-i DRM">
 
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Show history">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Shfaq historikun">
 
+<!ENTITY searchItem.title             "Kërkoni">
 
 <!-- Toolbar items --> 
 <!ENTITY homeButton.label             "Kreu">
+
 <!ENTITY bookmarksButton.label          "Faqerojtës">
 <!ENTITY bookmarksCmd.commandkey "b">
+
 <!ENTITY bookmarksMenuButton.label          "Faqerojtës">
-<!ENTITY bookmarksMenuButton.unsorted.label "Faqerojtës të Parenditur">
-<!ENTITY viewBookmarksSidebar2.label         "Shfaq Anështyllë Faqerojtësish">
-<!ENTITY viewBookmarksToolbar.label         "Shfaq Panel Faqerojtësish">
+<!ENTITY bookmarksMenuButton.other.label "Faqerojtës të Tjerë">
+<!ENTITY viewBookmarksSidebar2.label         "Shihni Anështyllë Faqerojtësish">
+<!ENTITY viewBookmarksToolbar.label         "Shihni Panel Faqerojtësish">
+
+<!ENTITY containersMenu.label "Kontejner">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -248,90 +258,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Zhvillues Web">
 <!ENTITY webDeveloperMenu.accesskey   "Z">
 
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY devtoolsConnect.label        "Lidhuni…">
-<!ENTITY devtoolsConnect.accesskey    "L">
-
-<!ENTITY errorConsoleCmd.label        "Konsol Gabimesh">
-<!ENTITY errorConsoleCmd.accesskey    "G">
-
-<!ENTITY remoteWebConsoleCmd.label    "Konsol Web e Largët">
-
-<!ENTITY browserConsoleCmd.label      "Konsol Shfletuesi">
-<!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "K">
-
 <!ENTITY inspectContextMenu.label     "Shqyrtoje Elementin">
 <!ENTITY inspectContextMenu.accesskey "E">
-
-<!ENTITY responsiveDesignTool.label   "Pamje Hartimi Reagues">
-<!ENTITY responsiveDesignTool.accesskey "H">
-<!ENTITY responsiveDesignTool.commandkey "M">
-
-<!ENTITY eyedropper.label   "Pikatore">
-<!ENTITY eyedropper.accesskey "P">
-
-
-<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
-  -  in the Tools menu. See bug 653093.
-  -  The Scratchpad is intended to provide a simple text editor for creating
-  -  and evaluating bits of JavaScript code for the purposes of function
-  -  prototyping, experimentation and convenient scripting.
-  -
-  -  It's quite possible that you won't have a good analogue for the word
-  -  "Scratchpad" in your locale. You should feel free to find a close
-  -  approximation to it or choose a word (or words) that means
-  -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Fletë e Papastër">
-<!ENTITY scratchpad.accesskey         "F">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
-
-<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
-<!ENTITY browserToolboxMenu.label     "Grup Mjetesh Shfletuesi">
-<!ENTITY browserToolboxMenu.accesskey "G">
-<!ENTITY browserToolboxCmd.commandkey "i">
-
-<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
-  -  application menu item that opens the browser content toolbox UI in the Tools menu.
-  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
-<!ENTITY browserContentToolboxMenu.label     "Grup Mjetesh Lënde Shfletuesi">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
-
-<!ENTITY devToolbarCloseButton.tooltiptext "Mbylleni Panelin e Zhvilluesit">
-<!ENTITY devToolbarMenu.label              "Paneli i Zhvilluesit">
-<!ENTITY devToolbarMenu.accesskey          "Z">
-<!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
-<!ENTITY webide.keycode                    "VK_F8">
-<!ENTITY webide.keytext                    "F8">
-<!ENTITY devToolbar.keycode                "VK_F2">
-<!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Shfaqni/Fshihni Mjete">
-<!ENTITY devToolboxMenuItem.accesskey      "S">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-
-<!ENTITY devToolbarToolsButton.tooltip     "Shfaqni/Fshihni mjetet e zhvilluesit">
-<!ENTITY devToolbarOtherToolsButton.label  "Më Tepër Mjete">
-
-<!ENTITY getMoreDevtoolsCmd.label        "Merrni Më Tepër Mjete">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "Kartelë"> 
 <!ENTITY fileMenu.accesskey       "K">
 <!ENTITY newUserContext.label             "Skedë e Re Kontejneri">
 <!ENTITY newUserContext.accesskey         "o">
-<!ENTITY userContextPersonal.label        "Personale">
-<!ENTITY userContextPersonal.accesskey    "P">
-<!ENTITY userContextWork.label            "Pune">
-<!ENTITY userContextWork.accesskey        "u">
-<!ENTITY userContextBanking.label         "Bankash">
-<!ENTITY userContextBanking.accesskey     "B">
-<!ENTITY userContextShopping.label        "Blerje">
-<!ENTITY userContextShopping.accesskey    "l">
 <!ENTITY newNavigatorCmd.label        "Dritare e Re">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "D">
@@ -390,10 +323,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Shfaq Krejt Historikun">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Përshtateni">
-<!ENTITY appMenuCustomize.tooltip "Përshtatni Menunë dhe Panelet">
-<!ENTITY appMenuCustomizeExit.label "Dilni nga Përshtatja">
-<!ENTITY appMenuCustomizeExit.tooltip "Përfundojeni Përshtatjen">
+<!ENTITY appMenuCustomize.label "Personalizoni">
+<!ENTITY appMenuCustomize.tooltip "Personalizoni Menunë dhe Panelet">
+<!ENTITY appMenuCustomizeExit.label "Dilni nga Personalizimi">
+<!ENTITY appMenuCustomizeExit.tooltip "Përfundojeni Personalizimin">
 <!ENTITY appMenuHistory.label "Historik">
 <!ENTITY appMenuHistory.showAll.label "Shfaqni Krejt Historikun">
 <!ENTITY appMenuHistory.clearRecent.label "Pastrojeni Historikun Së Fundi…">
@@ -402,7 +335,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.tooltip "Hapni Menunë e Ndihmës">
 
 <!ENTITY appMenuRemoteTabs.label "Skeda të njëkohësuara">
-<!ENTITY appMenuRemoteTabs.fetching.label "Po sillen Skeda të Njëkohësuara…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "S&apos;ka skeda të hapura">
@@ -412,7 +344,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.label "Bëni hyrjen në Firefox prej pajisjesh të tjera që të shihni këtu skeda prej tyre.">
+<!ENTITY appMenuRemoteTabs.noclients.title "Ende pa skeda të njëkohësuara!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Doni të shihni këtu skedat tuaja prej pajisjesh të tjera?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Parapëlqime Njëkohësimi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Bëni hyrjen që të shihni një listë skedash prej pajisjesh tuajat të tjera.">
 <!ENTITY appMenuRemoteTabs.signin.label "Hyni në Sync">
@@ -501,6 +434,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Kërko me:">
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Ndryshoji Rregullimet e Kërkimit">
 
 <!ENTITY searchInNewTab.label         "Kërkoni në Skedë të Re">
@@ -532,8 +468,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPartialSourceCmd.accesskey "S">
 <!ENTITY viewPageSourceCmd.label      "Shihni Burim Faqeje">
+<!ENTITY viewPageSourceCmd.accesskey "S">
 <!ENTITY viewPageSourceCmd.accesskey  "u">
 <!ENTITY viewFrameSourceCmd.label     "Shihni Burim Kornize">
 <!ENTITY viewFrameSourceCmd.accesskey "B">
@@ -621,19 +557,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "z">
 <!ENTITY mediaUnmute.label           "Me Zë">
 <!ENTITY mediaUnmute.accesskey       "z">
-<!ENTITY mediaPlaybackRate.label     "Shpejtësi Loje">
-<!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "Lëvizje e Ngadaltë (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "a">
-<!ENTITY mediaPlaybackRate100x.label "Shpejtësi Normale">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Shpejtësi e Madhe (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "M">
-<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+<!ENTITY mediaPlaybackRate2.label     "Shpejtësi Loje">
+<!ENTITY mediaPlaybackRate2.accesskey "e">
+<!ENTITY mediaPlaybackRate050x2.label "Ngadalë (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "a">
+<!ENTITY mediaPlaybackRate100x2.label "Normale">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Shpejt (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "TF">
+<!ENTITY mediaPlaybackRate150x2.label "Më shpejt (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "ë">
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "Shpejtësi Marramendëse (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "r">
+<!ENTITY mediaPlaybackRate200x2.label "Marramendëse (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "M">
+<!ENTITY mediaLoop.label             "Loop">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -706,6 +646,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.accesskey "P">
 <!ENTITY pageStylePersistentOnly.label "Stil Bazik Faqeje">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
+
 <!ENTITY pageReportIcon.tooltip            "Ndryshoni rregullime bllokimi flluskash për këtë sajt">
 
 <!ENTITY allowPopups.accesskey "L">
@@ -741,7 +682,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Lidhje e Sigurt">
 <!ENTITY identity.connectionNotSecure "Lidhja S&apos;është e Sigurt">
 <!ENTITY identity.connectionFile "Kjo është faqe e depozituar në kompjuterin tuaj.">
-<!ENTITY identity.connectionVerified1 "Jeni i lidhur në mënyrë të sigurt te ky sajt, që xhirohet nga:">
+<!ENTITY identity.connectionVerified2 "Jeni i lidhur në mënyrë të sigurt te ky sajt, pronë e:">
 <!ENTITY identity.connectionInternal "Kjo është një faqe &brandShortName; e sigurt.">
 <!ENTITY identity.insecureLoginForms2 "Kredencialet e hyrjeve të dhëna në këtë faqe mund të komprometohen.">
 
@@ -769,6 +710,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "Ç">
 <!ENTITY identity.learnMore "Mësoni Më Tepër">
 
+<!ENTITY identity.removeCertException.label "Hiqeni Përjashtimin">
+<!ENTITY identity.removeCertException.accesskey "H">
+
 <!ENTITY identity.moreInfoLinkText2 "Më Tepër të Dhëna">
 
 <!ENTITY identity.permissions "Leje">
@@ -782,19 +726,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Skeda të Njëkohësuara">
 
 <!ENTITY syncedTabs.sidebar.label              "Skeda të Njëkohësuara">
-<!ENTITY syncedTabs.sidebar.fetching.label     "Po sillen Skedat e NjëkohësuaraâŠ">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Hyni në Firefox prej pajisjesh të tjera që të shihni këtu skedat prej tyre.">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Hyni që të shihni një listë skedash prej pajisjesh tuajat të tjera.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Bëni hyrjen te llogaritë tuaja Firefox prej pajisjeve tuaja të tjera që të shihni këtu skedat e tyre.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Ende pa skeda të njëkohësuara!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Doni të shihni këtu skedat tuaja prej pajisjesh të tjera?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Bëni hyrjen që të shihni një listë skedash nga pajisjet tuaja të tjera.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "S&apos;ka skeda të hapura">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Hapni Parapëlqimet për &syncBrand.shortName.label;">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Hapni Parapëlqimet për &syncBrand.shortName.label;-un">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivizoni njëkohësim skedash që të shihni një listë të skedave tuaja nga të tjera pajisjet tuajat.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Turn on tab syncing to view a list of tabs from your other devices.">
 
-<!ENTITY syncedTabs.context.openTab.label                   "Hape Këtë Skedë">
-<!ENTITY syncedTabs.context.openTab.accesskey               "H">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label         "Faqeruajeni Këtë SkedëâŠ">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey     "F">
+<!ENTITY syncedTabs.context.open.label                       "Hape">
+<!ENTITY syncedTabs.context.open.accesskey                   "H">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Hape në Skedë të Re">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "s">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Hape në Dritare të Re">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "D">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Hape në Dritare Private">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Faqeruajeni Këtë Skedë…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "F">
+<!ENTITY syncedTabs.context.copy.label                       "Kopjoje">
+<!ENTITY syncedTabs.context.copy.accesskey                   "K">
+
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -859,8 +813,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon për ndarje me të tjerët:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.allWindowsShared.message "Do të ndahen me të tjerët krejt dritaret e dukshme në ekranin tuaj.">
 <!ENTITY getUserMedia.audioCapture.label "Audio prej skedës do të ndahet me të tjerët.">
+<!ENTITY getUserMedia.allWindowsShared.message "Do të ndahen me të tjerët krejt dritaret e dukshme në ekranin tuaj.">
 
 <!ENTITY trackingProtection.title "Mbrojtje Nga Gjurmimet">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName;-i po bllokon pjesë të këasj faqeje që mund të ndjekin shfletimin tuaj.">
@@ -908,10 +862,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Mbylle">
 
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 <!ENTITY appMenuSidebars.label         "Anështylla">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
@@ -941,9 +891,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Mësoni më tepër rreth DRM-s…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
-<!ENTITY devtoolsServiceWorkers.label      "Service Workers">
-<!ENTITY devtoolsServiceWorkers.accesskey  "k">
-
-<!ENTITY identity.removeCertException.label "Hiqe Përjashtimin">
-<!ENTITY identity.removeCertException.accesskey "H">
