@@ -11,7 +11,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Ymportearje">
-<!ENTITY importAll.label    	  "Alles ymportearje">
+<!ENTITY importAll.label    	    "Alles ymportearje">
 <!ENTITY importAll.accesskey      "A">
 <!ENTITY importMail.label         "E-mail">
 <!ENTITY importMail.accesskey     "E">
@@ -28,16 +28,17 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "&brandShortName;-ymportearhelper">
-<!ENTITY importShortDesc.label    "E-mail, adresboeken, ynstellingen en filters fan oanre programma’s ymportearje">
+<!ENTITY importShortDesc.label    "E-mail, adresboeken, ynstellingen en filters fan oare programma’s ymportearje">
 
 <!ENTITY importDescription1.label "Dizze helper sil e-mailberjochten, adresboekgegevens, foarkarren en/of filters fan oare e-mailprogramma’s en bekende adresboekformaten ymportearje yn &brandShortName;.">
-<!ENTITY importDescription2.label "As dizze ien kear ymportearre binne kinne jo se brûke yn &brandShortName;.">
+<!ENTITY importDescription2.label "As dizze ien kear ymportearre binne, kinne jo se brûke yn &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Selektearje it type bestân dat jo ymportearje wolle:">
 <!ENTITY selectDescriptionB.label "Selektearje in besteand account of meitsje in nije oan:">
 <!ENTITY selectDescription.accesskey "P">
 <!ENTITY acctName.label           "Namme:">
 <!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "Der is gjin tapassing of bestân fûn om gegevens út te ymportearjen.">
 
 <!ENTITY back.label               "&lt; Foarige">
 <!ENTITY forward.label            "Folgjende &gt;">

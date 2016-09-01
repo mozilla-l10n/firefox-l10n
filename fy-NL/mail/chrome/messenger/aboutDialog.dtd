@@ -15,7 +15,7 @@
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; is eksperimenteel en kin net stabyl wêze.">
+<!ENTITY warningDesc.version        "&brandShortName; is eksperimenteel en kin ynstabyl wêze.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "Der wurde automatysk gegevens oer prestaasjes, hardware, gebrûk en persoanlike oanpassingen nei &vendorShortName; ferstjoerd, sadat &brandShortName; ferbettere wurde kin.">
 
@@ -43,6 +43,8 @@
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "doch mei!">
 <!ENTITY helpus.end                 "">
+
+<!ENTITY releaseNotes.link          "Utjefeopmerkingen">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Lisinsje-ynformaasje">
