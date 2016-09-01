@@ -50,3 +50,4 @@
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationNoEvents): This is the title for the
   -  AudioNode inspector view automation tab message when there are no automation
   -  events. -->
+<!ENTITY webAudioEditorUI.automationNoEvents "AudioParam tiada peristiwa animasi.">
