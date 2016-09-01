@@ -1,7 +1,6 @@
 amazon-in
 bing
 duckduckgo
-eBay-in
 google
 wikipedia-ta
 wiktionary-ta
