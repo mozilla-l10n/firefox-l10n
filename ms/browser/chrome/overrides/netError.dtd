@@ -99,7 +99,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Sambungan internet yang selamat ke <span id='wrongSystemTime_URL'/> tidak berjaya kerana jam anda menunjukkan masa yang salah.</p> <p>Komputer anda fikir masa sekarang ialah <span id='wrongSystemTime_systemDate'/>, yang sepatutnya <span id='wrongSystemTime_actualDate'/>. Untuk menyelesaikan masalah ini, tukar tetapan tarikh dan masa anda untuk menyesuaikan masa yang betul.">
+<!ENTITY certerror.wrongSystemTime "<p>Sambungan internet yang selamat ke <span id='wrongSystemTime_URL'/> tidak berjaya kerana jam anda menunjukkan masa yang salah.</p> <p>Komputer anda mengira masa sekarang ialah <span id='wrongSystemTime_systemDate'/>, yang sepatutnya <span id='wrongSystemTime_actualDate'/>. Untuk menyelesaikan masalah ini, tukar tetapan tarikh dan masa anda untuk menyesuaikan masa yang betul.</p>">
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate

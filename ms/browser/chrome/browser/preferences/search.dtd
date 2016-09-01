@@ -4,7 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Enjin Carian Piawai">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Pilih enjin carian piawai anda. &brandShortName; menggunakannya dalam bar lokasi, bar carian, dan laman mula.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Pilih enjin carian piawai anda. &brandShortName; menggunakannya dalam bar lokasi, bar carian, dan halaman utama.">
 
 <!ENTITY provideSearchSuggestions.label        "Sediakan cadangan carian">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
