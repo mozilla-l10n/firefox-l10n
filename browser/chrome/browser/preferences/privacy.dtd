@@ -104,6 +104,7 @@
 <!ENTITY  clearOnCloseSettings.label     "सेटिंग्ज…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
+<!ENTITY  browserContainersHeader.label         "कंटेनर टॅब्स">
 <!ENTITY  browserContainersLearnMore.label      "आणखी शिका">
 
 

@@ -33,7 +33,7 @@
 <!ENTITY  socks5.label                  "सॉक्स(SOCKS) v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "SOCKS v5 वापरताना DNS ची प्रॉक्सी करा">
-
+<!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "तळ, पोर्ट(Port):">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
