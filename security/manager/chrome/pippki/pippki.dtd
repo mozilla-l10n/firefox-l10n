@@ -29,12 +29,12 @@
 <!ENTITY clientAuthAsk.title "Petición d'identificación d'usuariu">
 <!ENTITY clientAuthAsk.message1 "El siguiente sitiu pidió que t'identifiques con un certificáu:">
 <!ENTITY clientAuthAsk.message2 "Escueyi un certificáu pa presentalu como identificación:">
-<!ENTITY clientAuthAsk.message3 "Detalles del certificáu seleicionáu:">
+<!ENTITY clientAuthAsk.message3 "Detalles del certificáu esbilláu:">
 
 <!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.title "Seleicionar certificáu">
+<!ENTITY certPicker.title "Esbillar certificáu">
 <!ENTITY certPicker.info  "Certificaú:">
-<!ENTITY certPicker.detailsLabel "Detalles del certificáu seleicionáu:">
+<!ENTITY certPicker.detailsLabel "Detalles del certificáu esbilláu:">
 
 <!ENTITY pkcs12.setpassword.title  "Escoyer una contraseña de respaldu pal certificáu">
 <!ENTITY pkcs12.setpassword.message  "La contraseña del certificáu de respaldu que pongas equí protexerá'l ficheru de respaldu que tas a piques de crear. Tienes de poner esta contraseña pa proceder cola copia de respaldu.">
