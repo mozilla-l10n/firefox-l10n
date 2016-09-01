@@ -1,6 +1,5 @@
-google
 bing
-yahoo-es
-eBay-es
-wikipedia-ast
 diccionariu-alla
+google
+wikipedia-ast
+yahoo-es
