@@ -287,7 +287,7 @@
 <!ENTITY pref_activity_stream_summary "पुरानो ईतिहासको धेरै तथ्याङ्क र पुन:संरचित गृह पृष्‍ठले &brandShortName; मा के खोज्नुभएको भन्ने हुबहु भेटाउन धेरै सजिलो बनाएको छ। ">
 
 <!ENTITY tracking_protection_prompt_title "अब ट्रयाकिङ्ग सुरक्षाको साथ">
-
+<!ENTITY tracking_protection_prompt_text "तपाईँलाई ट्रयाक गर्न सक्ने बस्तुहरु रोक्नुहोस।">
 <!ENTITY tracking_protection_prompt_tip_text "थप जान्न को लागि गोपनीयता सेटिङमा भ्रमण गर्नुहोस्">
 <!ENTITY tracking_protection_prompt_action_button "पाएँ!">
 
@@ -316,6 +316,8 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY tab_queue_notification_settings "\&quot;बिभिन्न लिकंहरू एकैचोटि खोल्न\&quot; का निमित्त \u0027Draw over other apps\u0027 भन्ने अनुमति &brandShortName; लाई दिनुहोस्।">
+
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
@@ -341,7 +343,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "अहिले खाली गर्नुहोस्">
 <!ENTITY pref_clear_on_exit_title3 "बन्द गर्दा निजी डेटा हटाउनुहोस्">
-
+<!ENTITY pref_clear_on_exit_summary2 "तपाईँले मुख्य मेनु बाट \u0022बाहिर निस्कनुहोस\u0022 थिच्नुभयो भने &brandShortName; ले तपाईँको सबै डाटाहरू स्वत: हटाउनेछ">
 <!ENTITY pref_clear_on_exit_dialog_title "कुन डाटा खाली गर्ने चयन गर्नुहोस्">
 <!ENTITY pref_plugins "प्लगइनहरू">
 <!ENTITY pref_plugins_enabled "सक्षम पारिएको">
@@ -366,10 +368,12 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+<!ENTITY pref_font_size_preview_text "रातो फ्याउरोले तपाईँलाई तिब्र गति, धेरै लचकता र धेरै सुरक्षा प्रदान गर्छ। एउटा गैर-नाफामूलक संस्था भएको नाताले हामि तपाईँको तर्फबाट नयाँ नयाँ कुरा निर्माण गर्न सक्छौ। यसले तपाईँलाई राम्रो अनुभव र वेबलाई उज्यालो भविष्य प्रदान गर्छ।">
+
 <!ENTITY pref_media_autoplay_enabled "स्वचालित हुने अनुमति दिनुहोस् ">
-
-
-
+<!ENTITY pref_media_autoplay_enabled_summary "कुनै वेबसाइटले भिडियो अथवा कुनै अरू मिडिया सामग्री स्वत: चलाउन सक्ने नसक्ने नियन्त्रण गर्नुहोस">
+<!ENTITY pref_zoom_force_enabled "zoom लाई सधै सक्षम पार्नुहोस">
+<!ENTITY pref_zoom_force_enabled_summary " कुनै पनि पेज zoom गर्न अधिरोहण गर्नुहोस">
 <!ENTITY pref_voice_input "आवाज आगत">
 <!ENTITY pref_voice_input_summary2 "URLबारमा आवाज भेटाउन दिनुहोस्। ">
 <!ENTITY pref_qrcode_enabled "QR कोड रिडर ">
@@ -377,7 +381,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "मुख्य पासवर्ड प्रयोग गर्नुहोस्">
 <!ENTITY pref_sync2 "साइन इन">
-
+<!ENTITY pref_sync_summary2 "ट्याबहरू, पुस्तकचीनोहरू, लग-ईनहरू, र ईतिहासहरू Sync गर्नुहोस्">
 <!ENTITY pref_search_suggestions "खोजि सुझाबहरु देखाउनुहोस्">
 <!ENTITY pref_history_search_suggestions "खोजी इतिहास देखाउनुहोस्">
 <!ENTITY pref_import_options "आयात विकल्पहरू">
@@ -434,8 +438,9 @@ size. -->
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ले &vendorShortName; लाई तपाईको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि सहयोगार्थ पतन प्रतिवेदनहरु पेश गर्छ">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "क्र्यास प्रतिवेदक">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; स्थान सेवा ">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; लाई विश्व नक्साकरण गर्न मद्दत गर्नुहोस्। तपाईको अनुमानित स्थानका बारेमा हामिलाई जानकारि गराएर हाम्रो भौगोलिक स्थान सेवा सुधार गर्न सहयोग गर्नुहोस्।">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -447,6 +452,7 @@ size. -->
 
 <!ENTITY help_menu "सहयोग">
 
+<!ENTITY quit "बाहिर निस्कनुहोस्">
 
 <!ENTITY addons "एड-अनहरु">
 <!ENTITY logins "लग-इनहरू">
@@ -519,6 +525,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "सानो क्षेत्रहरूलाई ठुलो बनाउनुहोस">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "लिंकहरू र फर्म को फिल्डहरू को नजिक जाँदा ठुलो पार्नुहोस्">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -539,6 +547,8 @@ size. -->
 <!ENTITY bookmark_edit_keyword "शब्दकुञ्जी">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
+<!ENTITY site_settings_title3       "साइट सेटिङ">
 <!ENTITY site_settings_cancel       "रद्द गर्नुहोस्">
 <!ENTITY site_settings_clear        "खाली गर्नुहोस्">
 <!-- Localization note : These strings are used as alternate text for accessibility.
@@ -575,10 +585,10 @@ size. -->
 <!ENTITY home_synced_devices_one "१ उपकरण">
 <!ENTITY home_history_back_to2 "पहिलेको सबै ईतिहासमा जाने">
 <!ENTITY home_clear_history_button "ब्राउजिङ इतिहास खाली गर्नुहोस्">
-
-
+<!ENTITY home_clear_history_confirm "तपाईँ इतिहास बिर्सन निश्चित हुनुहुन्छ?">
+<!ENTITY home_bookmarks_empty "तपाईँले सन्चित गरेक पुस्तकचीनोहरू यहाँ देखा पर्दछ।">
 <!ENTITY home_closed_tabs_title2 "भर्खरै बन्द गरिएका ट्याबहरु">
-
+<!ENTITY home_last_tabs_empty "तपाईँको हालसालैको ट्याबहरू यहाँ देखा पर्छ।">
 <!ENTITY home_restore_all "सबैलाई पुन:स्थापित गर्ने ">
 <!ENTITY home_closed_tabs_number "&formatD; ट्याबहरू">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
@@ -586,14 +596,21 @@ size. -->
 <!ENTITY home_most_recent_empty "तपाईं भर्खरै जानुभएको वेबसाईटहरु यहाँ देखिन्छ। ">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "&formatS1;नयाँ प्राईभेट ट्याब&formatS2; खोल्दा कुनै इतिहास सन्चित हुँदैन।">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "यो प्यानलका लागि कुनै चिज भेटिएन।">
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "&formatS; मा पछाडि जानुहोस्">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; उपकरणहरु लुकेका छन्">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "लुकेको उपकरणहरु">
