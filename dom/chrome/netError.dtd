@@ -20,6 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>Adakah item telah dinamakan, disingkir, atau dipindahkan?</li><li>Adakah terdapat kesilapan ejaan, penggunaan huruf besar, atau menaip dalam alamat?</li><li>Adakah anda memiliki keizinan yang mencukupi untuk memohon item?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Akses kepada fail ditolak">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>mungkin telah dialih keluar, dipindah, atau keizinan fail yang menyekat aksesnya.</li></ul> ">
 
 <!ENTITY generic.title "Gagal Menyudahkan Permintaan">
 <!ENTITY generic.longDesc "<p>Maklumat tambahan perihal masalah atau ralat ini belum lagi wujud.</p>">
