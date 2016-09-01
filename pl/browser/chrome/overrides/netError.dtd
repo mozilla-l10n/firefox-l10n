@@ -73,7 +73,7 @@
 <!ENTITY certerror.longpagetitle1 "Połączenie nie jest bezpieczne">
 <!ENTITY certerror.introPara "Właściciel witryny <span class='hostname'/> niepoprawnie ją skonfigurował. Program &brandShortName; nie połączył się z nią, aby chronić użytkownika przed kradzieżą informacji.">
 
-<!ENTITY sharedLongDesc "<ul><li>Witryna może być tymczasowo niedostępna lub zbyt obciążona. Spróbuj ponownie za kilka minut.</li><li>Jeśli nie można otworzyć żadnej strony, należy sprawdzić swoje połączenie sieciowe.</li><li>Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, należy sprawdzić, czy program &brandShortName; jest uprawniony do łączenia się z Internetem.</li></ul>">
+<!ENTITY sharedLongDesc "<ul><li>Witryna może być tymczasowo niedostępna lub przeciążona. Spróbuj ponownie za pewien czas.</li><li>Jeśli nie możesz otworzyć żadnej strony, sprawdź swoje połączenie sieciowe.</li><li>Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, należy sprawdzić, czy program &brandShortName; jest uprawniony do łączenia się z Internetem.</li></ul>">
 
 <!ENTITY cspBlocked.title "Zablokowane przez politykę bezpieczeństwa treści">
 <!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; uniemożliwił tej stronie wczytanie treści w ten sposób, ponieważ jej polityka bezpieczeństwa treści na to nie pozwala.</p>">
