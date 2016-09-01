@@ -33,8 +33,8 @@
 <!ENTITY rights.intro-point3-unbranded "Tapaste privacy betingsten foar dit produkt soenen hjir toant wurde moatte.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; biedt ek opsjonele webstee ynformaasje tsjinsten, lykas de SafeBrowsing tsjinst; mar, wy kinne net garandearje dat se 100&#37; akkuraat of flater-frij binne. Mear details, ynklusief ynformaasje oer hoe't jo de tsjinsten útskeakelje kinne, kin fûn wurde yn de ">
-<!ENTITY rights.intro-point4b "tsjinsttermen">
+<!ENTITY rights.intro-point4a "&brandShortName; biedt ek opsjonele tsjinsten, lykas de add-on-fernijingtsjinst; wy kinne echter net garandearje dat dizze 100&#37; nauwkeurig of flaterfrij binne. Mear details, wêrûnder ynformaasje oer it útskeakeljen fan de tsjinsten, binne te finen yn de ">
+<!ENTITY rights.intro-point4b "tsjinstbetingsten">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
@@ -49,7 +49,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; biedt opsjonele tsjinsten (&quot;Tsjinsten&quot;), lykas de fernijingstsjinst foar tafoegingen, dy't beskiber binne foar jo gebrûk mei dizze binaire ferszje fan &brandShortName; sa as hjirûnder beskreaun. As jo de Tsjinsten net brûke wolle of de betingsten hjiûnder net akseptabel binne, kinne jo de fernijingstsjinst foar tafoegingen útskeakelje troch by foarkarren ">
+<!ENTITY rights.webservices-a "&brandFullName; biedt opsjonele tsjinsten (&quot;Tsjinsten&quot;), lykas de fernijingstsjinst foar tafoegingen, dy't beskikber binne foar jo gebrûk mei dizze binêre ferzje fan &brandShortName; sa as hjirûnder beskreaun. As jo de Tsjinsten net brûke wolle of de betingsten hjiûnder net akseptabel fine, kinne jo de fernijingstsjinst foar tafoegingen útskeakelje troch by foarkarren ">
 <!ENTITY rights.webservices-b "Avansearre">
 <!ENTITY rights.webservices-c " te selektearjen, folge troch it ljepblêd">
 <!ENTITY rights.webservices-d "Fernijing">

@@ -19,6 +19,7 @@
 <!ENTITY playSound1.accesskey             "l">
 <!ENTITY showAnimatedAlert.label          "In melding toane">
 <!ENTITY showAnimatedAlert.accesskey      "t">
+<!ENTITY notificationAlertSettings.label  "Warskôgingen kinne útskeakele wurde fia it paniel Berjochtjouwing yn Systeemfoarkarren.">
 <!ENTITY customizeMailAlert.label         "Oanpasse…">
 <!ENTITY customizeMailAlert.accesskey     "O">
 
