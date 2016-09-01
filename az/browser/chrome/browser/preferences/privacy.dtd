@@ -77,10 +77,10 @@
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
 <!ENTITY  rememberActions.pre.label           "İstəsəniz ">
-<!ENTITY  rememberActions.clearHistory.label  "yaxın tarixçənizi silin">
+<!ENTITY  rememberActions.clearHistory.label  "yaxın tarixçənizi">
 <!ENTITY  rememberActions.middle.label        " və ya ">
-<!ENTITY  rememberActions.removeCookies.label "fərdi çərəzləri sil">
-<!ENTITY  rememberActions.post.label          "açıqlanmışdır.">
+<!ENTITY  rememberActions.removeCookies.label "fərdi çərəzləri silə">
+<!ENTITY  rememberActions.post.label          " bilərsiz.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; gizli baxışdakı nizamlamalardan istifadə edəcək və siz Web-də gəzərkən keçmişlə bağlı heçnə xatırlamayacaq.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
