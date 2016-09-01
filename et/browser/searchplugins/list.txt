@@ -1,4 +1,3 @@
-eBay
 google
 neti-ee
 osta-ee
