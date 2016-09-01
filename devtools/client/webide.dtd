@@ -33,7 +33,7 @@
 <!ENTITY runtimeMenu_disconnect_label "Nyahsambung">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
-<!ENTITY runtimeMenu_takeScreenshot_label "Cakupan skrin">
+<!ENTITY runtimeMenu_takeScreenshot_label "Skrinshot">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
@@ -70,6 +70,7 @@
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
 
+<!ENTITY projectPanel_runtimeApps "Aplikasi Runtime">
 <!ENTITY projectPanel_tabs "Tab">
 <!ENTITY runtimePanel_usb "Peranti USB">
 <!ENTITY runtimePanel_wifi "Peranti Wi-Fi">
