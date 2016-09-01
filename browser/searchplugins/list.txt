@@ -1,5 +1,4 @@
 amazon-en-GB
-eBay-en-GB
 google
 tearma
 twitter
