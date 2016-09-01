@@ -1,6 +1,5 @@
-google
 amazon-en-GB
 bing
-eBay-en-GB
-yahoo
+google
 wikipedia-el
+yahoo
