@@ -1,5 +1,4 @@
 amazondotcom
-eBay-in
 google
 rediff
 wikipedia-mr
