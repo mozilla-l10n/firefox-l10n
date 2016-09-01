@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName; को बारेमा जान्नुहोस्">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; परिक्षणमा रहेको र अस्थिर हुन सक्ने।">
-
+<!ENTITY aboutPage.telemetryStart               "एस्ले आफै सम्पादन, हार्डवेयर,प्रथा र कस्टोमाइजेसन को बारेमा सूचना फिरता    ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 "&brandShortName; राम्रो बनाउन मद्दत।">
 <!ENTITY aboutPage.checkForUpdates.link         "अद्यावधिकहरूका लागि जाँच गर्नुहोस्»">
