@@ -19,7 +19,7 @@ Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
 
 <!ENTITY searchreset.beforelink.pageInfo2 "इथून आपण ह्या सेटिंग्ज कधीही बदलू शकता">
-
+<!ENTITY searchreset.afterlink.pageInfo2  ".">
 
 <!ENTITY searchreset.link.pageInfo2       "सेटिंग्ज पृष्ठ">
 
@@ -27,4 +27,4 @@ their language. -->
 <!ENTITY searchreset.noChangeButton.access "D">
 
 <!ENTITY searchreset.changeEngineButton        "शोध यंत्र बदला">
-
+<!ENTITY searchreset.changeEngineButton.access "C">
