@@ -20,7 +20,7 @@
 <!ENTITY fileAccessDenied.title "Odmowa dostępu do pliku">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Plik mógł zostać usunięty, przeniesiony lub jego uprawnienia uniemożliwiają dostęp.</li></ul>">
 
-<!ENTITY generic.title "Nie można ukończyć żądania">
+<!ENTITY generic.title "Wystąpił błąd">
 <!ENTITY generic.longDesc "<p>Dodatkowe informacje o tym problemie lub błędzie nie są obecnie dostępne.</p>">
 
 <!ENTITY malformedURI.title "Nieprawidłowy adres">
