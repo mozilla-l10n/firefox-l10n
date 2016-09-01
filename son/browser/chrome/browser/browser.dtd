@@ -40,10 +40,10 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "k">
 <!ENTITY  unpinTab.label                     "Nor loku bukandi">
 <!ENTITY  unpinTab.accesskey                 "b">
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Kanjoo sanba jinaa ga">
+<!ENTITY  sendTabToDevice.accesskey          "j">
+<!ENTITY  sendPageToDevice.label             "Moɲoo sanba jinaa ga">
+<!ENTITY  sendPageToDevice.accesskey         "j">
 
 
 <!ENTITY  moveToNewWindow.label              "Ganandi zanfun taagaa ra">
