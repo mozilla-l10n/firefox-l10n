@@ -105,4 +105,6 @@ Ping ">
 
 <!ENTITY aboutTelemetry.filterText "  Penapis (rentetan atau /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Muat beban">
 

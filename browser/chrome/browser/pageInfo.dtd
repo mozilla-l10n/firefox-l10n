@@ -68,7 +68,7 @@
 <!ENTITY  securityView.unknown   "Tidak diketahui">
 
 
-<!ENTITY  securityView.identity.header   "Web Site Identity">
+<!ENTITY  securityView.identity.header   "Identiti Laman web">
 <!ENTITY  securityView.identity.owner    "Pemilik:">
 <!ENTITY  securityView.identity.domain   "Web site:">
 <!ENTITY  securityView.identity.verifier "Disahkan oleh:">
@@ -82,6 +82,6 @@
 <!ENTITY  securityView.privacy.viewPasswords            "Papar kata laluan yang telah disimpan">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "P">
 
-<!ENTITY  securityView.technical.header                 "Maklumat Teknikal">
+<!ENTITY  securityView.technical.header                 "Butiran Teknikal">
 
 <!ENTITY  helpButton.label                              "Bantuan">

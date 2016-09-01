@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Gunakan Pelindungan Penjejak">
+<!ENTITY  trackingProtectionHeader.label       "Gunakan Pelindungan Penjejakan">
 <!ENTITY  trackingProtectionAlways.label       "Sentiasa">
 <!ENTITY  trackingProtectionAlways.accesskey   "a">
 <!ENTITY  trackingProtectionPrivate.label      "Cuma didalam tertingkap persendirian">
@@ -65,7 +65,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "k">
 <!ENTITY  historyHeader.remember.label     "Mengingati sejarah">
 <!ENTITY  historyHeader.dontremember.label "Jangan ingat sejarah">
-<!ENTITY  historyHeader.custom.label       "Guna tetapan sendiri untuk sejarah">
+<!ENTITY  historyHeader.custom.label       "Guna tetapan penyesuaian untuk sejarah">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; akan mengingati sejarah pelayaran web, muat turun, borang dan carian anda, dan menyimpan kuki daripada laman-laman web yang anda lawati.">
@@ -102,4 +102,5 @@
 <!ENTITY  clearOnCloseSettings.label     "Tetapan…">
 <!ENTITY  clearOnCloseSettings.accesskey "T">
 
+<!ENTITY  browserContainersHeader.label         "Tab Penyimpan">
 <!ENTITY  browserContainersLearnMore.label      "Ketahui Lanjut">
