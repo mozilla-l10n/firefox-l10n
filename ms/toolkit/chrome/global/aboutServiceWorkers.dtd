@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.title                     "Mengenai Service Workers">
+<!ENTITY aboutServiceWorkers.title                     "Perihal Service Workers">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.maintitle                 "Service Worker Berdaftar">
+<!ENTITY aboutServiceWorkers.maintitle                 "Service Workers Berdaftar">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutServiceWorkers.warning_not_enabled       "Service Workers tidak didayakan.">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "Tiada Service Worker didaftar.">
+<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "Tiada Service Workers didaftar.">

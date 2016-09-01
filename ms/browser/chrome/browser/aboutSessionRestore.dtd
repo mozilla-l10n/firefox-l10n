@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "Sesi Pulih">
+
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-
 <!ENTITY restorepage.errorTitle     "Nampaknya ini agak memalukan.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; sedang mengalami masalah untuk mendapatkan semula tetingkap dan tab anda. Kebiasaanya ini berpunca dari laman web terkini yang dibuka.">
 <!ENTITY restorepage.tryThis        "Anda boleh cuba:">
@@ -17,14 +17,14 @@
 <!ENTITY restorepage.closeButton    "Tutup">
 <!ENTITY restorepage.close.access   "C">
 
-<!ENTITY restorepage.restoreHeader  "Baik pulih">
+<!ENTITY restorepage.restoreHeader  "Kembalian">
 <!ENTITY restorepage.listHeader     "Tetingkap dan Tab">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Tetingkap &#037;S">
+
+
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
 
 <!ENTITY welcomeback2.restoreButton  "Jom!">
 <!ENTITY welcomeback2.restoreButton.access "L">
@@ -36,21 +36,21 @@
 
 <!ENTITY welcomeback2.label.restoreAll  "Pulihkan semua Tetingkap dan Tab">
 <!ENTITY welcomeback2.label.restoreSome "Simpan semula orang-orang yang hanya anda mahu">
+
+
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
 <!ENTITY welcomeback2.beforelink.pageInfo2  "Add-ons dan penyesuaian anda telah dikeluarkan dan tetapan pelayar anda telah dipulihkan kepada lalai. Jika ini tidak menyelesaikan masalah ada, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "ketahui lebih lanjut tentang apa yang boleh anda lakukan.">
+
 <!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
      the tab groups (panorama) migration page, not about:sessionrestore -->
-
 <!ENTITY tabgroupsmigration.tabtitle            "Pindahkan Kumpulan Tab anda yang lain">
 <!ENTITY tabgroupsmigration.pagetitle2          "Kami telah mengalih keluar Kumpulan Tab, tapi menyimpan tab anda">
 <!ENTITY tabgroupsmigration.learnaboutaddons    "Ketahui lebih lanjut mengenai penggantian add-ons Kumpulan Tab.">

@@ -159,6 +159,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.address): This is the label displayed
   -  in the network details headers tab identifying the remote address. -->
+<!ENTITY netmonitorUI.summary.address     "Alamat remote:">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
@@ -276,7 +277,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
-<!ENTITY netmonitorUI.context.copyRequestHeaders     "Salin Permintaan Pengepala">
+<!ENTITY netmonitorUI.context.copyRequestHeaders     "Salin Pengepala Permintaan">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
@@ -284,7 +285,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
   -  on the context menu that copies the selected item's response headers -->
-<!ENTITY netmonitorUI.context.copyResponseHeaders     "Salin Sambutan Pengepala">
+<!ENTITY netmonitorUI.context.copyResponseHeaders     "Salin Pengepala Respon">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
   -  for the Copy Response Headers menu item displayed in the context menu for a response -->
@@ -322,7 +323,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
-<!ENTITY netmonitorUI.summary.editAndResend "Sunting dan Hantar Semula">
+<!ENTITY netmonitorUI.summary.editAndResend "Edit dan Hantar semula">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend.accesskey): This is the access key
   -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
@@ -331,6 +332,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders): This is the label displayed
   -  on the button in the headers tab that toggle view for raw request/response headers
      from the currently displayed request -->
+<!ENTITY netmonitorUI.summary.rawHeaders "Pengepala mentah">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.requestHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw request headers textarea -->
