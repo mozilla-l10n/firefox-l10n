@@ -9,7 +9,7 @@
 <!ENTITY name.text                       "Emri juaj, siç do të shihet nga të tjerët">
 <!ENTITY email.label                     "Adresë email:">
 <!ENTITY email.accesskey                 "d">
-<!ENTITY email.placeholder               "email@shembull.com">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Fjalëkalim:">
 <!ENTITY password.accesskey              "F">
 <!ENTITY password.placeholder            "Fjalëkalim">

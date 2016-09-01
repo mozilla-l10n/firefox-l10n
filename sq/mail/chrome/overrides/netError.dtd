@@ -46,7 +46,7 @@
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Adresat Web zakonisht shkruhen si
-    <strong>http://www.shembull.com/</strong></li>
+    <strong>http://www.example.com/</strong></li>
   <li>Sigurohuni që i keni përdorur pjerraket djathtas (p.sh.
     <strong>/</strong>).</li>
 </ul>
