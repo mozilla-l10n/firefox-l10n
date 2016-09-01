@@ -1,7 +1,6 @@
-google
 bing
+google
 rediff
-eBay-in
+webdunia
 wikipedia
 wikipedia-ml
-webdunia
