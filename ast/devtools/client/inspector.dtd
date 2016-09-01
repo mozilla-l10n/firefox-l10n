@@ -4,7 +4,7 @@
 <!ENTITY inspectorRemoveAttribute.label        "Renomar atributu">
 <!ENTITY inspectorRemoveAttribute.accesskey    "R">
 
-<!ENTITY inspector.selectButton.tooltip     "Seleicionar un elementu col mur">
+<!ENTITY inspector.selectButton.tooltip     "Esbillar un elementu col mur">
 
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that is
      shown as the placeholder for the markup view search in the inspector. -->
