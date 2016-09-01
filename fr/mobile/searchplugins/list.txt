@@ -1,6 +1,5 @@
 bing
 duckduckgo
-eBay-france
 google
 qwant
 twitter
