@@ -1,5 +1,4 @@
 amazondotcom
-eBay-in
 google
 wikipedia-te
 wiktionary-te
