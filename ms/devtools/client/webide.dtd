@@ -88,6 +88,8 @@
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "App Baru">
+<!ENTITY newAppHeader "Pilih templat">
+<!ENTITY newAppLoadingTemplate "Memuat templat…">
 <!ENTITY newAppProjectName "Nama Projek:">
 
 
@@ -147,6 +149,7 @@
      devices that can scan a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_qr_size_note "Jika kod QR kelihatan terlalu kecil untuk mendapatkan sambungan, cuba zum atau besarkan tetingkap.">
 
 <!-- Logs panel -->
 
