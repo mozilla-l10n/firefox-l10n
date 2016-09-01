@@ -13,7 +13,7 @@
 <!ENTITY file.close.label               "Fechar">
 <!ENTITY file.close.accesskey           "F">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "Exibir">
+<!ENTITY views.label                    "Visualizações">
 <!ENTITY views.accesskey                "x">
 <!ENTITY views.tooltip                  "Alterar o modo de exibição">
 <!ENTITY view.columns.label             "Colunas">
