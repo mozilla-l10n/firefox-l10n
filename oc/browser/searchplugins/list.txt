@@ -1,7 +1,6 @@
-google
 amazon-france
 bing
+google
 wikipedia-oc
-eBay-france
-yahoo-france
 wiktionary-oc
+yahoo-france
