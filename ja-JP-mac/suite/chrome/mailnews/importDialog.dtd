@@ -31,6 +31,8 @@
 <!ENTITY acctName.label           "アカウント名:">
 <!ENTITY acctName.accesskey       "N">
 
+<!ENTITY noModulesFound.label     "データの読み込み元のアプリケーションまたはファイルが見つかりませんでした。">
+
 <!ENTITY back.label               "&lt; 戻る">
 <!ENTITY forward.label            "続ける &gt;">
 <!ENTITY finish.label             "完了">
