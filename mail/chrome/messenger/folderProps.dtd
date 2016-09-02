@@ -31,7 +31,6 @@
 <!ENTITY retentionKeepRecent.label "Slet alle undtagen de seneste">
 <!ENTITY retentionKeepRecent.accesskey "a">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Slet altid læste meddelelser (tilsidesætter indstillinger for alder)">
 <!ENTITY retentionApplyToFlagged.label "Behold altid stjernemarkerede meddelelser">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

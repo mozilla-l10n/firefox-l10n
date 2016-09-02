@@ -18,5 +18,5 @@
 <!ENTITY background.accessKey "B">
 <!ENTITY table.label "Tabel">
 <!ENTITY table.accessKey "T">
-<!ENTITY cell.label "Celler">
+<!ENTITY cell.label "Celle(r)">
 <!ENTITY cell.accessKey "C">

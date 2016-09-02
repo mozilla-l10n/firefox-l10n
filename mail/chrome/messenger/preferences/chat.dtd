@@ -33,7 +33,7 @@ sentence. -->
 <!ENTITY  chatSound.label                     "Afspil lyd">
 <!ENTITY  play.label                          "Afspil">
 <!ENTITY  play.accesskey                      "A">
-<!ENTITY  systemSound.label                   "Standardlyd for ny meddelelse">
+<!ENTITY  systemSound.label                   "Standard systemlyd ved modtagelse af ny mail">
 <!ENTITY  systemSound.accesskey               "S">
 <!ENTITY  customsound.label                   "Brug denne lydfil">
 <!ENTITY  customsound.accesskey               "B">

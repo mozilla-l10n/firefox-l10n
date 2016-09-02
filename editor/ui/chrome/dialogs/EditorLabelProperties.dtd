@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Egenskaber for etikette ">
+<!ENTITY windowTitle.label "Egenskaber for etiket">
 <!ENTITY Settings.label "Indstillinger">
 <!ENTITY Settings.accesskey "I">
 <!ENTITY EditLabelText.label "Rediger tekst:">
 <!ENTITY EditLabelText.accesskey "R">
 <!ENTITY LabelFor.label "Kontrol:">
 <!ENTITY LabelFor.accesskey "K">
-<!ENTITY AccessKey.label "Tilgængelighedsnøgle:">
+<!ENTITY AccessKey.label "Genvejstast:">
 <!ENTITY AccessKey.accesskey "T">
-<!ENTITY RemoveLabel.label "Fjern etikette">
+<!ENTITY RemoveLabel.label "Fjern etiket">
 <!ENTITY RemoveLabel.accesskey "F">

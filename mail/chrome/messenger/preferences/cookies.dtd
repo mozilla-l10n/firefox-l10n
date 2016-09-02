@@ -18,6 +18,7 @@
 <!ENTITY props.path.label                  "Sti:">
 <!ENTITY props.secure.label                "Send for:">
 <!ENTITY props.expires.label               "Udløber:">
+<!ENTITY props.container.label             "Container:">
 
 <!ENTITY window.title                      "Cookies">
 <!ENTITY windowClose.key                   "w">

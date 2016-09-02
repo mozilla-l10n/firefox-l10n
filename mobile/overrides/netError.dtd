@@ -42,10 +42,16 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Filen kunne ikke tilgås">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Den kan være blevet slettet, flyttet eller fil-tilladelserne kan forhindre adgang.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Hovsa.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; kan ikke indlæse denne webside af en eller anden grund.</p>
+<p>&brandShortName; kan ikke indlæse denne side af en eller anden grund.</p>
 ">
 
 <!ENTITY malformedURI.title "Adressen er ikke gyldig">
@@ -67,7 +73,7 @@
 <!ENTITY netInterrupt.title "Forbindelsen blev afbrudt">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY notCached.title "Websiden er udløbet">
+<!ENTITY notCached.title "Siden er udløbet">
 <!ENTITY notCached.longDesc "<p>Den forespurgte webside er ikke tilgængelig i cacheen.</p><ul><li>Af sikkerhedshensyn henter &brandShortName; ikke automatisk følsomme sider igen.</li><li>Klik for at prøve at hente siden igen fra webstedet.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-tilstand">
@@ -84,14 +90,14 @@
 <!ENTITY contentEncodingError.title "Indholdskodningsfejl">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Kontakt venligst ejerne af webstedet omkring dette problem.</li>
+  <li>Kontakt ejerne af webstedet omkring dette problem.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Usikker filtype">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Kontakt venligst ejerne af webstedet omkring dette problem.</li>
+  <li>Kontakt ejerne af webstedet omkring dette problem.</li>
 </ul>
 ">
 
@@ -104,15 +110,15 @@
 <!ENTITY unknownProtocolFound.title "Adressen kunne ikke forstås">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Du er nødt til at installere andet software for at åbne denne adresse.</li>
+  <li>Du er måske nødt til at installere andet software for at åbne denne adresse.</li>
 </ul>
 ">
 
 <!ENTITY proxyConnectFailure.title "Proxyserveren afviser forbindelser">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Undersøg proxy-indstillingerne og vær sikker på at de er korrekte.</li>
-  <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren
+  <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
+  <li>Kontakt din netværks-administrator for at sikre dig, at proxyserveren
     fungerer.</li>
 </ul>
 ">
@@ -142,25 +148,25 @@
 <ul>
   <li>Undersøg om dit system har Personal Security Manager
     installeret.</li>
-  <li>Dette kan skyldes en ikke-standard opsætning af serveren.</li>
+  <li>Dette kan skyldes en ikke-standardopsætning af serveren.</li>
 </ul>
 ">
 
 <!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>Websiden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
-  <li>Informer ejeren af webstedet om problemet.</li>
+  <li>Siden kunne ikke vises, da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
+  <li>Kontakt ejerne af webstedet omkring dette problem.</li>
 </ul>
 ">
 
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>Dette kan være et problem med serverens konfiguration eller det kan betyde
-    at nogen forsøger at give sig ud for at være serveren.</li>
-  <li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være
-    midlertidligt og du anbefales at prøve igen senere.</li>
+  <li>Dette kan være et problem med serverens konfiguration, eller det kan betyde,
+at nogen forsøger at give sig ud for at være serveren.</li>
+  <li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være midlertidligt
+og du anbefales at prøve igen senere.</li>
 </ul>
 ">
 
@@ -178,8 +184,8 @@
 <!ENTITY cspBlocked.title "Blokeret grundet indholdssikkerhedspolitik">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindrede denne webside i at blive indlæst på denne måde da den har en indholdssikkerhedspolitik, der forbyder dette.</p>">
 
-<!ENTITY corruptedContentError.title "Fejlbehæftet indhold">
-<!ENTITY corruptedContentError.longDesc "<p>Websiden kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "Fejlbehæftet indhold">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Websiden kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Eller du kan tilføje en undtagelse…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få mig væk herfra!">
@@ -198,14 +204,19 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Kan ikke oprette sikker forbindelse">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Avanceret info: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Din forbindelse er ikke sikker">
+<!ENTITY weakCryptoUsed.title "Usikker forbindelse">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Avanceret info: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Usikker forbindelse">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc " <p><span class='hostname'></span> bruger sikkerhed, der er forældet eller sårbart for angreb. En angriber kan nemt få adgang til informationer, som du ellers tror er sikre. Webstedets administrator er nødt til at rette problemet på serveren, før du kan besøge dette websted.</p><p>Fejlmeddelelse: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
