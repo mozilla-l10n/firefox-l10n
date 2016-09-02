@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Išeiti">
 <!ENTITY safeb.palm.decline.label "Nepaisyti šio įspėjimo">
-
+<!ENTITY safeb.palm.reportPage.label "Kodėl šis tinklalapis užblokuotas?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Tinklalapis laikomas kenkėjišku!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
