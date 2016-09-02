@@ -21,3 +21,6 @@
 <!ENTITY prefUseragent.label                 "Reťazec User Agent">
 <!ENTITY prefFirefoxCompat.label             "Indikovať kompatibilitu s prehliadačom Firefox">
 <!ENTITY prefFirefoxCompat.accesskey         "F">
+<!ENTITY prefLightningShow.label             "Odporúčať inštaláciu doplnku Lightning">
+<!ENTITY prefLightningShow.accesskey         "L">
+<!ENTITY prefCompatWarning                   "UPOZORNENIE: vypnutie týchto nastavení môže spôsobiť, že webové stránky alebo služby nebudú pracovať správne.">

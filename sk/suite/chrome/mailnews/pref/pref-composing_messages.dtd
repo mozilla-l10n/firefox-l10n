@@ -33,6 +33,11 @@
 <!ENTITY fontColor.accesskey                  "F">
 <!ENTITY bgColor.label                        "Farba pozadia:">
 <!ENTITY bgColor.accesskey                    "z">
+<!ENTITY defaultCompose.label                 "Predvolený formát písania správ:">
+<!ENTITY defaultBodyText.label                "Text (klávesom Enter začnete nový riadok)">
+<!ENTITY defaultBodyText.accesskey            "o">
+<!ENTITY defaultParagraph.label               "Odsek (klávesom Enter začnete nový odsek)">
+<!ENTITY defaultParagraph.accesskey           "d">
 
 <!ENTITY selectHeaderType.label               "Typ hlavičky odpovede:">
 <!ENTITY selectHeaderType.accesskey           "h">
