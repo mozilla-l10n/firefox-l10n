@@ -4,7 +4,7 @@
 
 
 <!ENTITY  connectionsDialog.title       "Nastavenie pripojenia">
-<!ENTITY  window.width                  "37em">
+<!ENTITY  window.width                  "43em">
 <!ENTITY  window.macWidth               "43em">
 
 <!ENTITY  proxyTitle.label              "Nastavenie serverov proxy pre prístup k sieti Internet">
@@ -32,6 +32,7 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socksRemoteDNS.label2         "Použiť server proxy pre DNS pri použití SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "l">
 <!ENTITY  port.label                    "Port:">
 <!ENTITY  HTTPport.accesskey            "t">
