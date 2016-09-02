@@ -48,6 +48,8 @@
 <!ENTITY  switch_to_tab "Pereiti į kortelę">
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!ENTITY  tab_offline_version "Rodoma įrenginyje išsaugota kopija">
+
 <!ENTITY  crash_reporter_title "„&brandShortName;“ strigčių pranešiklis">
 <!ENTITY  crash_message2 "Programa „&brandShortName;“ susidūrė su problema ir užstrigo. Strigties metu atvertos kortelės turėtų būti išvardintos „&brandShortName;“ pradžios tinklalapyje, paleidus programą iš naujo.">
 <!ENTITY  crash_send_report_message3 "Praneškite „&vendorShortName;i“ apie šią strigtį">
@@ -106,9 +108,10 @@
 <!ENTITY edit_mode_cancel "Atsisakyti">
 
 <!ENTITY close_tab "Užverti kortelę">
-
+<!ENTITY one_tab "1 kortelė">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; kortelės (-ių)">
 <!ENTITY new_tab_opened "Atverta nauja kortelė">
 <!ENTITY new_private_tab_opened "Atverta nauja privačioji kortelė">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -197,8 +200,8 @@
 <!ENTITY pref_content_notifications "Svetainių atnaujinimai">
 <!ENTITY pref_content_notifications_summary2 "Atraskite naują turinį iš palaikomų svetainių">
 <!ENTITY pref_developer_remotedebugging_usb "Nuotolinis derinimas per USB">
-<!ENTITY pref_developer_remotedebugging_wifi "Nuotolinis derinimas per Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Derinimui per Wi-Fi reikia jūsų įrenginyje turėti QR kodų skaitlį.">
+<!ENTITY pref_developer_remotedebugging_wifi "Nuotolinis derinimas per belaidį tinklą">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Derinimui per belaidį tinklą jūsų įrenginyje turi būti įdiegtas QR kodų skaitytuvas.">
 <!ENTITY pref_remember_signons2 "Įsiminti prisijungimus">
 <!ENTITY pref_manage_logins "Tvarkyti prisijungimus">
 
@@ -270,12 +273,18 @@
 <!ENTITY pref_whats_new_notification_summary "Sužinokite apie naujas galimybes po atnaujinimo">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+
+<!ENTITY pref_category_experimental "Eksperimentinės funkcijos">
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!ENTITY pref_custom_tabs "Tinkintos kortelės">
+<!ENTITY pref_custom_tabs_summary "Leisti trečiųjų šalių programoms atverti URL adresus tinkintoje aplinkoje.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY pref_activity_stream "Veiklos srautas">
+<!ENTITY pref_activity_stream_summary "Vizualus naršymo žurnalo srautas ir perdarytas pradžios tinklalapis leidžia dar lengviau rasti tai, ko ieškote „&brandShortName;“.">
 
 <!ENTITY tracking_protection_prompt_title "Dabar ir su apsauga nuo stebėjimo">
 <!ENTITY tracking_protection_prompt_text "Aktyviai blokuoti stebėjimo elementus, kad jums nereikėtų jaudintis.">
@@ -367,8 +376,8 @@ size. -->
 <!ENTITY pref_zoom_force_enabled_summary "Priverstinai įgalinti artinimą visuose tinklalapiuose">
 <!ENTITY pref_voice_input "Balsinė įvestis">
 <!ENTITY pref_voice_input_summary2 "Leisti diktavimą balsu adreso juostoje">
-<!ENTITY pref_qrcode_enabled "QR kodų skaitlys">
-<!ENTITY pref_qrcode_enabled_summary2 "Leisti QR kodų skaitlį adreso juostoje">
+<!ENTITY pref_qrcode_enabled "QR kodų skaitytuvas">
+<!ENTITY pref_qrcode_enabled_summary2 "Leisti QR kodų skaitytuvą adreso juostoje">
 
 <!ENTITY pref_use_master_password "Naudoti pagrindinį slaptažodį">
 <!ENTITY pref_sync2 "Prisijungti">
@@ -389,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Sinchronizuotos kortelės">
 
 <!ENTITY pref_default_browser "Padaryti numatytąja naršykle">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Aplankyti „Mozillos“ žinyną">
 <!ENTITY pref_about_firefox "Apie „&brandShortName;“">
 <!ENTITY pref_vendor_faqs "Dažni klausimai">
 <!ENTITY pref_vendor_feedback "Palikti atsiliepimą">
@@ -578,11 +587,12 @@ size. -->
 <!ENTITY home_clear_history_button "Valyti naršymo žurnalą">
 <!ENTITY home_clear_history_confirm "Ar tikrai norite išvalyti naršymo žurnalą?">
 <!ENTITY home_bookmarks_empty "Čia išvardijami į adresyną įtraukti tinklalapiai.">
-
+<!ENTITY home_closed_tabs_title2 "Paskiausiai užverta">
 <!ENTITY home_last_tabs_empty "Čia rodomos neseniai naudotos kortelės.">
-
-
+<!ENTITY home_restore_all "Atkurti visas">
+<!ENTITY home_closed_tabs_number "&formatD; kortelės (-ių)">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 kortelė">
 <!ENTITY home_most_recent_empty "Čia išvardijamos jūsų paskiausiai lankytos svetainės.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
