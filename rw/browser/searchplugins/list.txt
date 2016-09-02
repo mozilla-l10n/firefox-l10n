@@ -1,4 +1,3 @@
 amazondotcom
-eBay
 google
 yahoo
