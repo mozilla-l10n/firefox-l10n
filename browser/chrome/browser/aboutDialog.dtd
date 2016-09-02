@@ -64,6 +64,7 @@
 <!ENTITY update.adminDisabled       "Përditësimet janë çaktivizuar nga përgjegjësi i sistemit tuaj">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName;-i po përditësohet nga një tjetër provë">
+<!ENTITY update.restarting          "Po riniset…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
