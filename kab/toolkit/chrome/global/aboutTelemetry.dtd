@@ -1,0 +1,74 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "Isefka n tilisɣelt">
+
+<!ENTITY aboutTelemetry.changeDataChoices "  Snifel">
+
+<!ENTITY aboutTelemetry.uploadEnabled "Asali n isefka FHR <span>irmed</span>.">
+
+<!ENTITY aboutTelemetry.uploadDisabled "Asali n isefka FHR <span>itturemed</span>.">
+
+
+
+<!ENTITY aboutTelemetry.pingDataSource "Aɣbalu n isefka n Ping:">
+
+<!ENTITY aboutTelemetry.showCurrentPingData "Isefkan Ping amiran">
+
+<!ENTITY aboutTelemetry.showArchivedPingData "Isefka n Ping ittwaɣebṛen">
+
+<!ENTITY aboutTelemetry.pingDataDisplay "Askan n isefka n Ping:">
+
+
+<!ENTITY aboutTelemetry.raw "Izirig JSON">
+
+<!ENTITY aboutTelemetry.showSubsessionData "Sken isefka n adtiɣimit">
+
+<!ENTITY aboutTelemetry.choosePing "Fren ping:">
+
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping amaynut">
+
+<!ENTITY aboutTelemetry.showOlderPing "Ping aqbuṛ &gt;&gt;">
+
+
+<!ENTITY aboutTelemetry.archiveWeekHeader "Dduṛt">
+
+
+<!ENTITY aboutTelemetry.generalDataSection "  Isefka imatuten">
+
+<!ENTITY aboutTelemetry.environmentDataSection "  Isefka n twennaṭ">
+
+<!ENTITY aboutTelemetry.telemetryLogSection "  Aɣmis n tilisɣelt">
+
+<!ENTITY aboutTelemetry.slowSqlSection "  Tuţriwin SQL tiẓayanin">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "  Asewḥel n iminig">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Asewḥel n tinelli n uselken">
+
+
+<!ENTITY aboutTelemetry.histogramsSection "  Imazrudlifen">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Imazrudlifen s wawalen n tsura">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Iktazalen iḥerfiyen">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "  Aglam leqqayen n izegrar imernan">
+
+<!ENTITY aboutTelemetry.lateWritesSection "  tira tineggura">
+
+<!ENTITY aboutTelemetry.sessionInfoSection "  Talɣut n tɣimit">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  udlif amazray id d-leqḍen izegrar imernan">
+
+<!ENTITY aboutTelemetry.toggle "  Sit ɣef Snefli/Fneẓ tigezmi">
+
+<!ENTITY aboutTelemetry.emptySection "  (ulac isefk d iţugemren)">
+
+
+
+<!ENTITY aboutTelemetry.hideSymbols "  Sken isefka irewwayen n isewḥal">
+
+
+

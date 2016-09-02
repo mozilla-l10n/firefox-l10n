@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  general.label                 "Amatu">
+
+<!ENTITY  warnAddonInstall.label        "Lɣu ticki isemlen ţaɛraḍen asebdeb n izegrar isemmadanen">
+<!ENTITY  warnAddonInstall.accesskey    "L">
+<!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
+  It is important that wording follows the guidelines outlined on this page:
+  https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+-->
+
+<!ENTITY  enableSafeBrowsing.label        "Block dangerous and deceptive content">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
+
+<!ENTITY  blockDownloads.label            "Block dangerous downloads">
+<!ENTITY  blockDownloads.accesskey        "d">
+
+<!ENTITY  blockUncommonUnwanted.label     "Warn me about unwanted and uncommon software">
+<!ENTITY  blockUncommonUnwanted.accesskey "c">
+
+<!ENTITY  addonExceptions.label         "Tisuraf…">
+<!ENTITY  addonExceptions.accesskey     "s">
+
+
+<!ENTITY  logins.label                  "Inekcumen">
+
+<!ENTITY  rememberLogins.label          "Kles inekcumen ɣer isemlen">
+<!ENTITY  rememberLogins.accesskey      "K">
+<!ENTITY  passwordExceptions.label      "Tisuraft…">
+<!ENTITY  passwordExceptions.accesskey  "x">
+
+<!ENTITY  useMasterPassword.label        "Seqdec awal uffir agejdan">
+<!ENTITY  useMasterPassword.accesskey    "S">
+<!ENTITY  changeMasterPassword.label     "Snifel awal uffir agejdan…">
+<!ENTITY  changeMasterPassword.accesskey "a">
+
+<!ENTITY  savedLogins.label              "Inekcumen ikelsen…">
+<!ENTITY  savedLogins.accesskey          "e">
