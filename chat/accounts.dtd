@@ -28,9 +28,13 @@
 <!ENTITY account.delete.accesskey     "D">
 <!ENTITY account.edit.label           "លក្ខណសម្បត្តិ">
 <!ENTITY account.edit.accesskey       "P">
+<!ENTITY account.moveup.label         "ផ្លាស់ទី​ទៅ​លើ">
+<!ENTITY account.movedown.label       "ផ្លាស់​ទី​ចុះ​ក្រោម">
 <!ENTITY account.cancelReconnection.label         "បោះបង់​ការ​តភ្ជាប់​ឡើង​វិញ">
 <!ENTITY account.cancelReconnection.accesskey     "A">
+<!ENTITY account.copyDebugLog.label     "ចម្លង​កំណត់​ហេតុ​ការកែ​បញ្ហា">
 <!ENTITY account.copyDebugLog.accesskey "C">
+<!ENTITY account.showDebugLog.label     "បង្ហាញ​កំណត់ហេតុ​ការកែ​បញ្ហា">
 <!ENTITY account.showDebugLog.accesskey "H">
 <!ENTITY account.connecting           "កំពុង​តភ្ជាប់​…">
 <!ENTITY account.disconnecting        "កំពុង​ផ្ដាច់​…">
