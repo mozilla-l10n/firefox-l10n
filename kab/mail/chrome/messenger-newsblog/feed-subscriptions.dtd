@@ -1,0 +1,43 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Subscription Dialog -->
+
+<!ENTITY feedSubscriptions.label     "Imultaɣen n usuddem">
+<!ENTITY learnMore.label             "Issin ugar ɣef isuddam">
+
+<!ENTITY feedTitle.label             "Azwel">
+<!ENTITY feedTitle.accesskey         "z">
+
+<!ENTITY feedLocation.label          "Tansa URL n usuddem:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Sekcem url n usuddem ameɣtu ad ternuḍ">
+<!ENTITY locationValidate.label      "Seɣbel">
+<!ENTITY validateText.label          "Senqed aseɣbel u nadi url ameɣtu.">
+
+<!ENTITY feedFolder.label            "Kles imagraden di:">
+<!ENTITY feedFolder.accesskey        "K">
+
+<!ENTITY quickMode.label             "Sken agzul n umagrad deg umḍiq n usali n usebtar web">
+<!ENTITY quickMode.accesskey         "S">
+
+<!ENTITY autotagEnable.label         "Rnu tibzimin s wudem awurman seg ismawen n &lt;taggayt&gt; n isuddam">
+<!ENTITY autotagEnable.accesskey     "b">
+<!ENTITY autotagUsePrefix.label      "Rnu azwir i tebzimin s:">
+<!ENTITY autotagUsePrefix.accesskey  "R">
+<!ENTITY autoTagPrefix.placeholder   "Sekcem azwir n tebzimt">
+
+<!ENTITY button.addFeed.label        "Rnu">
+<!ENTITY button.addFeed.accesskey    "R">
+<!ENTITY button.editFeed.label       "Leqqem">
+<!ENTITY button.editFeed.accesskey   "L">
+<!ENTITY button.removeFeed.label     "Kkes">
+<!ENTITY button.removeFeed.accesskey "K">
+<!ENTITY button.importOPML.label     "Kter">
+<!ENTITY button.importOPML.accesskey "r">
+<!ENTITY button.exportOPML.label     "Sifeḍ">
+<!ENTITY button.exportOPML.accesskey "S">
+<!ENTITY button.exportOPML.tooltip   "Sifeḍ isuddam s tɣessa n ukaram;ctrl sit neɣ ctrl kcem akken ad tessifḍeḍ isuddam am tebdart">
+
+<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Mdel">

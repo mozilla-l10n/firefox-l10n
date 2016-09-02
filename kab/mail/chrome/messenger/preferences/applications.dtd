@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  typeColumn.label            "Tawsit n ugbur">
+<!ENTITY  typeColumn.accesskey        "g">
+
+<!ENTITY  actionColumn2.label         "Tigawt">
+<!ENTITY  actionColumn2.accesskey     "g">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.placeholder          "Nadi">
+
+<!ENTITY saveTo.label                 "Kles ifuyla ɣeṛ">
+<!ENTITY saveTo.accesskey             "K">
+<!ENTITY alwaysAsk.label              "Suter yal tikelt anda atkelseḍ ifuyla">
+<!ENTITY alwaysAsk.accesskey          "S">
+<!ENTITY chooseFolderWin.label        "Ḍum…">
+<!ENTITY chooseFolderWin.accesskey    "Ḍ">
+<!ENTITY chooseFolderMac.label        "Fren...">
+<!ENTITY chooseFolderMac.accesskey    "F">
+
+<!ENTITY attachments.incoming.label   "Ad yekcem">
+<!ENTITY attachments.outgoing.label   "Ad yeffeɣ">
+
+<!ENTITY addCloudFileAccount.label        "Rnu">
+<!ENTITY addCloudFileAccount.accesskey    "R">
+<!ENTITY addCloudFileAccount.description  "Rnu ameẓlu n usekles n useɣwen n ufaylu amaynut">
+<!ENTITY removeCloudFileAccount.label     "Kkes">
+<!ENTITY removeCloudFileAccount.accesskey "K">
+<!ENTITY authRequired.description         "Tasiregt tettwasra akken ad twaliḍ iɣewwaṛen n umeẓlu agi n usekles.">
+<!ENTITY authRequired.button.label        "Sireg">
+<!ENTITY authRequired.button.accesskey    "g">
+
+<!ENTITY enableCloudFileAccountOffer.label "Asumer n beṭṭu n ifuyla ugar n">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

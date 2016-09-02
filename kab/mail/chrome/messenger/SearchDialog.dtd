@@ -1,0 +1,80 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- for SearchDialog.xul -->
+
+<!ENTITY searchHeading.label         "Nadi iznan di:">
+<!ENTITY searchHeading.accesskey     "d">
+<!ENTITY searchSubfolders.label      "Nadi ad-ikaramen">
+<!ENTITY searchSubfolders.accesskey  "d">
+<!ENTITY searchOnServer.label        "Selkem anadi ɣef uqeddac">
+<!ENTITY searchOnServer.accesskey    "k">
+<!ENTITY resetButton.label           "Sfeḍ">
+<!ENTITY resetButton.accesskey       "S">
+<!ENTITY openButton.label            "Ldi">
+<!ENTITY openButton.accesskey        "L">
+<!ENTITY deleteButton.label          "Kkes">
+<!ENTITY deleteButton.accesskey      "K">
+<!ENTITY searchDialogTitle.label     "Nadi iznan">
+<!ENTITY results.label               "Igmaḍ">
+<!ENTITY moveButton.label            "Senkez ɣer">
+<!ENTITY moveButton.accesskey        "k">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Ldi ɣef ukaram">
+<!ENTITY openInFolder.accesskey      "r">
+<!ENTITY saveAsVFButton.label        "Sekles am ukaram n unadi">
+<!ENTITY saveAsVFButton.accesskey    "l">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label       "Nadi di:">
+<!ENTITY abSearchHeading.accesskey   "d">
+<!ENTITY propertiesButton.label      "Taɣaṛa">
+<!ENTITY propertiesButton.accesskey  "T">
+<!ENTITY composeButton.label         "Aru">
+<!ENTITY composeButton.accesskey     "A">
+<!ENTITY deleteCardButton.label      "Kkes">
+<!ENTITY deleteCardButton.accesskey  "K">
+<!ENTITY abSearchDialogTitle.label   "Anadi leqqayen n imedlis n tensa">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Akala afessas">
+<!ENTITY fromColumn.label "Si">
+<!ENTITY recipientColumn.label "Anarmas">
+<!ENTITY correspondentColumn.label "Inmeɣṛa">
+<!ENTITY subjectColumn.label "Amgay">
+<!ENTITY dateColumn.label "Azemz">
+<!ENTITY priorityColumn.label "Tazwart">
+<!ENTITY tagsColumn.label "Tibzimin">
+<!ENTITY accountColumn.label "Amiḍan">
+<!ENTITY statusColumn.label "Addad">
+<!ENTITY sizeColumn.label "Teɣzi">
+<!ENTITY junkStatusColumn.label "Addad n uspam">
+<!ENTITY unreadColumn.label "Ur ittwaɣṛi ara">
+<!ENTITY totalColumn.label "Asemday">
+<!ENTITY readColumn.label "Ittwaɣṛa">
+<!ENTITY receivedColumn.label "Iţwarmes">
+<!ENTITY starredColumn.label "Ɣur-s itri">
+<!ENTITY locationColumn.label "Adig">
+<!ENTITY idColumn.label "Taladna tettwarmes">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser2.tooltip "Fren tigejda ad-sekneḍ">
+<!ENTITY threadColumn2.tooltip "Sken ikalan ifessasen n yizen">
+<!ENTITY fromColumn2.tooltip "Asmizzwer s Si">
+<!ENTITY recipientColumn2.tooltip "Asmizzwer s unarmas">
+<!ENTITY correspondentColumn2.tooltip "Asmizzwer s inmeɣṛa">
+<!ENTITY subjectColumn2.tooltip "Asmizzwer s umgay">
+<!ENTITY dateColumn2.tooltip "Asmizzwer s wazemz">
+<!ENTITY priorityColumn2.tooltip "Asmizzwer s tezwart">
+<!ENTITY tagsColumn2.tooltip "Asmizzwer s tebzimin">
+<!ENTITY accountColumn2.tooltip "Asmizzwer s umiḍan">
+<!ENTITY statusColumn2.tooltip "Asmizzwer s waddad">
+<!ENTITY sizeColumn2.tooltip "Asmizzwer s teɣzi">
+<!ENTITY junkStatusColumn2.tooltip "Smi&amp;zzwer s wddad n uspam">
+<!ENTITY unreadColumn2.tooltip "Amḍan n yeznan ur nettqaɛri ara deg ukala afessas">
+<!ENTITY totalColumn2.tooltip "Amḍan n yeznan deg ukala afessas">
+<!ENTITY readColumn2.tooltip "Asmizzwer s tɣruṛi">
+<!ENTITY receivedColumn2.tooltip "Asmizzwer s wazemz n urmas">
+<!ENTITY starredColumn2.tooltip "Asmizzwer s yetri">
+<!ENTITY locationColumn2.tooltip "Asmizzwer s wadig">
+<!ENTITY idColumn2.tooltip "Asmizzwer s wazemz n urmas">

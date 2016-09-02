@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dockOptionsDialog.title               "Iɣewwaṛen n tignit n usnas">
+<!ENTITY window.macWidth                       "35em">
+
+
+<!ENTITY newMessagesCountDock.label            "Asiḍen n iznan imaynuten">
+<!ENTITY newMessagesCountDock.accesskey        "s">
+<!ENTITY showAllUnreadMessagesCount.label      "Asiḍen n iznan ur nettwaɣri ara">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "s">
+
+
+

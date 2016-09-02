@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.appBasicsAppBuildID "Asulay ID n ukaras n usnas">
+
+<!ENTITY aboutSupport.accountsTitle "Imaḍanen n tirawt n isallen">
+<!ENTITY aboutSupport.showPrivateData.mainText "Seddu ismawen n umiḍan">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(talɣut n usulu i yezemren ad tili)">
+<!ENTITY aboutSupport.accountsID "Asulay ID">
+<!ENTITY aboutSupport.accountsName "ISem">
+<!ENTITY aboutSupport.accountsIncomingServer "Aqeddac ukcim">
+<!ENTITY aboutSupport.accountsOutgoingServers "Iqeddacen uffiɣen">
+<!ENTITY aboutSupport.accountsServerName "Isem">
+<!ENTITY aboutSupport.accountsConnSecurity "Taɣellist n tuqqna">
+<!ENTITY aboutSupport.accountsAuthMethod "Tarrayt n usesteb">
+<!ENTITY aboutSupport.accountsDefault "Amezwer?">
+<!ENTITY aboutSupport.identityName "Tamagit">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Azem s yimayl">

@@ -1,0 +1,67 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemFormatting.label             "Amsal">
+<!ENTITY itemTags.label                   "Tibzimin">
+<!ENTITY itemAdvanced.label               "Talɣut leqqayen">
+
+<!ENTITY style.label                      "Aɣanib:">
+<!ENTITY style.accesskey                  "b">
+<!ENTITY regularStyle.label               "Amagnu">
+<!ENTITY bold.label                       "Zur">
+<!ENTITY italic.label                     "Uknan">
+<!ENTITY boldItalic.label                 "Uknan azuran">
+<!ENTITY size.label                       "Teɣzi:">
+<!ENTITY size.accesskey                   "T">
+<!ENTITY regularSize.label                "Amagnu">
+<!ENTITY bigger.label                     "Muqqaṛ">
+<!ENTITY smaller.label                    "Meẓẓi">
+<!ENTITY quotedTextColor.label            "Tiɣmi:">
+<!ENTITY quotedTextColor.accesskey        "m">
+<!ENTITY displayWidth.label               "Iznan n udris ačuṛan">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+
+<!-- labels -->
+<!ENTITY addTagButton.label        "Rnu">
+<!ENTITY addTagButton.accesskey    "R">
+<!ENTITY editTagButton.label       "Ẓreg">
+<!ENTITY editTagButton.accesskey   "Ẓ">
+<!ENTITY removeTagButton.label     "Kkes">
+<!ENTITY removeTagButton.accesskey "K">
+<!-- Fonts and Colors -->
+
+<!ENTITY fontsAndColors1.label   "Tise&amp;fsiyin d tiɣmiyin">
+<!ENTITY defaultFont.label       "Tasefsit tamezwert:">
+<!ENTITY defaultFont.accesskey   "T">
+<!ENTITY defaultSize.label       "Teɣzi:">
+<!ENTITY defaultSize.accesskey   "T">
+<!ENTITY fontOptions.accesskey   "T">
+<!ENTITY fontOptions.label       "Talɣut leqqayen…">
+<!ENTITY colorButton.label       "Tiɣmiyin…">
+<!ENTITY colorButton.accesskey   "m">
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "Taɣuṛi">
+<!ENTITY display.caption                  "Sken">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+
+<!ENTITY secondsLabel.label               "tasinin">
+<!ENTITY openMsgIn.label                  "Ldi iznan di:">
+<!ENTITY openMsgInNewTab.label            "Iccer amaynut">
+<!ENTITY openMsgInNewTab.accesskey        "y">
+<!ENTITY reuseExpRadio0.label             "Asfaylu n yizen amaynut">
+<!ENTITY reuseExpRadio0.accesskey         "f">
+<!ENTITY reuseExpRadio1.label             "Asfaylu n yizen yellan">
+<!ENTITY reuseExpRadio1.accesskey         "z">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Mdel asfaylu/iccer n yizen deg unkaz neɣ di tukksa">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "M">

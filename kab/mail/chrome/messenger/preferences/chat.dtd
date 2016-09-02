@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  startupAction.label         "Di tnekra n &brandShortName;:">
+<!ENTITY  startupAction.accesskey     "D">
+<!ENTITY  startupOffline.label        "Eǧǧ amiḍan inu n udiwenni usrid di war  tuqqna">
+<!ENTITY  startupConnectAuto.label    "Qqen amiḍan inu n udiwenni s srid s wudem awurman">
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+
+
+
+<!ENTITY  andSetStatusToAway.label      "u sbadu addad inu ɣer Ulac-it s yizen agi n waddad">
+<!ENTITY  andSetStatusToAway.accesskey  "U">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY  play.label                          "Urar">
+<!ENTITY  play.accesskey                      "U">
+
+
+<!ENTITY  customsound.label                   "Seqdec afaylu agi n imesli">
+<!ENTITY  customsound.accesskey               "S">
+<!ENTITY  browse.label                        "Ḍum…">
+<!ENTITY  browse.accesskey                    "Ḍ">
+

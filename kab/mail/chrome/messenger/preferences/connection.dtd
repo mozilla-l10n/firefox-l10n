@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  connectionsDialog.title       "Iɣewwaṛen n tuqqna">
+
+<!ENTITY  proxyTitle.label              "Tawila n uqeddac aseɣẓan agrayan i wenekcum ɣeṛ Internet">
+<!ENTITY  noProxyTypeRadio.label        "Ulac aseɣẓan agrayan">
+<!ENTITY  noProxyTypeRadio.accesskey    "l">
+<!ENTITY  systemTypeRadio.label         "Seqdec iɣewwaṛen n useɣẓan agrayan n unagraw">
+<!ENTITY  systemTypeRadio.accesskey     "S">
+<!ENTITY  WPADTypeRadio.label           "Tifin tawurmant n iɣewwaṛen n useɣẓan agrayan n uẓeṭṭa agi">
+<!ENTITY  WPADTypeRadio.accesskey       "T">
+<!ENTITY  manualTypeRadio.label         "Tawila s ufus n useɣẓan agrayan:">
+<!ENTITY  manualTypeRadio.accesskey     "w">
+<!ENTITY  autoTypeRadio.label           "Tansa n twila tawurmant n useɣẓan agrayan:">
+<!ENTITY  autoTypeRadio.accesskey       "n">
+<!ENTITY  reload.label                  "Smiren">
+<!ENTITY  reload.accesskey              "S">
+<!ENTITY  http.label                    "Aseɣẓan agrayan HTTP:">
+<!ENTITY  http.accesskey                "A">
+<!ENTITY  ssl.label                     "Aseɣẓan agrayan SSL:">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "Asenneftaɣ SOCKS:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS L4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS L5">
+<!ENTITY  socks5.accesskey              "L">
+<!ENTITY  HTTPport.label                "Tabburt:">
+<!ENTITY  HTTPport.accesskey            "b">
+<!ENTITY  SSLport.label                 "Tabburt:">
+<!ENTITY  SSLport.accesskey             "a">
+<!ENTITY  SOCKSport.label               "Tabburt:">
+<!ENTITY  SOCKSport.accesskey           "r">
+<!ENTITY  noproxy.label                 "Ulac aseɣẓan agrayan i:">
+<!ENTITY  noproxy.accesskey             "U">
+<!ENTITY  noproxyExplain.label          "Amedya: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Seqdec aqeddac agi n useɣẓan agrayan i yal aneggaf">
+<!ENTITY  shareproxy.accesskey          "c">

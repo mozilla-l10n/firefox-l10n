@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY securityTitle.label "Taɣellist">
+<!ENTITY securityTab.label "Taɣellist">
+<!ENTITY securityHeading.label "Akken ad tzzneḍ u ad tremseḍ iznan yettwazemlen neɣ yettwawgelhen, yessefk ad d-muddeḍ aselkin n uzmul umdin akked uselkin n uwgelhen.">
+<!ENTITY encryptionGroupTitle.label "Awgelhen">
+<!ENTITY encryptionChoiceLabel.label "Aɣewwaṛ n uwgelhen amezwer di tuzzna nyeznan:">
+<!ENTITY neverEncrypt.label "Werǧin (ur seqdac ara awgelhen)">
+<!ENTITY neverEncrypt.accesskey "W">
+<!ENTITY alwaysEncryptMessage.label "Yettawsra(ur yezmir ara ad yazen izen arama akk iɣewaḍen ɣur-sen iselkan)">
+<!ENTITY alwaysEncryptMessage.accesskey "u">
+<!ENTITY encryptionCert.message "Seqdec aselkin agi akken i uwgelhen &amp; azmak n yeznan i d-remseḍ:">
+<!ENTITY digitalSign.certificate.button "Fren...">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "Sfeḍ">
+<!ENTITY digitalSign.certificate_clear.accesskey "C">
+<!ENTITY encryption.certificate.button "Fren...">
+<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate_clear.button "Sfeḍ">
+<!ENTITY encryption.certificate_clear.accesskey "e">
+<!ENTITY signingGroupTitle.label "Azmul umḍin">
+<!ENTITY signMessage.label "Zmel s wudem umḍin iznan (amezwer)">
+<!ENTITY signMessage.accesskey "Z">
+<!ENTITY signingCert.message "Seqdec aselkin agi i uzmel s wudem umḍin n yeznan i d-remseḍ:">
+
+<!ENTITY certificates.label "Iselkan">
+<!ENTITY manageCerts2.label "Sefrek iselkan">
+<!ENTITY manageCerts2.accesskey "f">
+<!ENTITY manageDevices.label "Ibenkan n tɣellist">
+<!ENTITY manageDevices.accesskey "k">
