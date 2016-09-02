@@ -31,7 +31,7 @@
 <!ENTITY certmgr.certdetail.o                 "تنظیم (O)">
 <!ENTITY certmgr.certdetail.ou                "تنظیمی یونٹ (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "تسلسلی نمبر">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 انگلی کے نشان">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 انگلیوں کے نشان">
 
 <!ENTITY certmgr.editcacert.title             "CA تصدیق نامہ بھروسا سیٹنگیں تدوین کریں">
@@ -63,8 +63,8 @@
 <!ENTITY certmgr.delete2.accesskey            "ح">
 <!ENTITY certmgr.delete_builtin.label         "حذف کریں یا بد اعتمادی ...">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
-
-
+<!ENTITY certmgr.backup2.label                "پشتارہ...">
+<!ENTITY certmgr.backup2.accesskey            "پ">
 <!ENTITY certmgr.backupall2.label             "تمام پشتارہ کریں...">
 <!ENTITY certmgr.backupall2.accesskey         "پ">
 <!ENTITY certmgr.restore2.label               "درآمد کریں...">
