@@ -167,6 +167,11 @@
 <!ENTITY debuggerUI.seMenuCondBreak     "Tilføj betinget breakpoint">
 <!ENTITY debuggerUI.seMenuCondBreak.key "b">
 
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+  -  appears in the source editor context menu for editing a breakpoint. -->
+<!ENTITY debuggerUI.seEditMenuCondBreak     "Rediger betinget breakpoint">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "b">
+
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
   <!ENTITY debuggerUI.tabs.workers        "Workers">

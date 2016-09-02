@@ -12,8 +12,8 @@
 <!ENTITY TextAreaCols.accessKey "K">
 <!ENTITY TextAreaReadOnly.label "Skrivebeskyttet">
 <!ENTITY TextAreaReadOnly.accessKey "S">
-<!ENTITY TextAreaDisabled.label "Slået fra">
-<!ENTITY TextAreaDisabled.accessKey "l">
+<!ENTITY TextAreaDisabled.label "Deaktiveret">
+<!ENTITY TextAreaDisabled.accessKey "D">
 <!ENTITY TextAreaTabIndex.label "Tabulatorindrykning:">
 <!ENTITY TextAreaTabIndex.accessKey "i">
 <!ENTITY TextAreaAccessKey.label "Genvejstast:">

@@ -7,7 +7,7 @@
 
 <!ENTITY newPref.namePlaceholder       "Navn">
 
-<!ENTITY newPref.valueBoolean          "Boolsk">
+<!ENTITY newPref.valueBoolean          "Boolsk værdi">
 <!ENTITY newPref.valueString           "Streng">
 <!ENTITY newPref.valueInteger          "Heltal">
 

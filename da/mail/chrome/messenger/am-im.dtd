@@ -5,7 +5,7 @@
 <!ENTITY accountWindow.title           "Kontoindstillinger">
 <!ENTITY accountWindow.width           "300">
 <!ENTITY account.general               "Generelt">
-<!ENTITY account.advanced              "Avanceret">
+<!ENTITY account.advanced              "Avancerede indstillinger">
 <!ENTITY account.name                  "Brugernavn:">
 <!ENTITY account.password              "Adgangskode:">
 <!ENTITY account.alias                 "Alias:">

@@ -99,6 +99,10 @@ Ping
   Tråd-frysninger
 ">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Skalarer
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrammer
 ">
@@ -153,4 +157,8 @@ Ping
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Payload
+">
+
+<!ENTITY aboutTelemetry.rawPayload "
+  Rå Payload
 ">

@@ -5,12 +5,12 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 <!ENTITY viewPicker.label "Vis:">
-<!ENTITY viewPicker.accesskey "i">
+<!ENTITY viewPicker.accesskey "s">
 <!ENTITY viewAll.label "Alle">
 <!ENTITY viewAll.accesskey "A">
 <!ENTITY viewUnread.label "Ulæste">
 <!ENTITY viewUnread.accesskey "U">
-<!ENTITY viewNotDeleted.label "Ikke slettet">
+<!ENTITY viewNotDeleted.label "Ikke slettede">
 <!ENTITY viewNotDeleted.accesskey "I">
 <!ENTITY viewTags.label "Mærkater">
 <!ENTITY viewTags.accesskey "M">

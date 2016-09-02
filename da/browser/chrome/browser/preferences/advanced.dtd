@@ -40,7 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Læs mere">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; sender fejlrapporter for at hjælpe  &vendorShortName; med at gøre din browser mere stabil og sikker">
+<!ENTITY crashReporterDesc.label         "&brandShortName; sender fejlrapporter for at hjælpe &vendorShortName; med at gøre din browser mere stabil og sikker">
 <!ENTITY enableCrashReporter.label       "Aktiver fejlrapportering">
 <!ENTITY enableCrashReporter.accesskey   "F">
 <!ENTITY crashReporterLearnMore.label    "Læs mere">
@@ -82,9 +82,6 @@
 <!ENTITY updateCheck.accesskey           "S">
 <!ENTITY updateManual.label              "Søg aldrig efter opdateringer (frarådes, sikkerhedsrisiko)">
 <!ENTITY updateManual.accesskey          "N">
-
-<!ENTITY updateAutoAddonWarn.label       "Advar mig, hvis dette vil deaktivere nogle af mine tilføjelser">
-<!ENTITY updateAutoAddonWarn.accesskey   "t">
 
 <!ENTITY updateHistory.label             "Vis opdateringshistorik">
 <!ENTITY updateHistory.accesskey         "V">

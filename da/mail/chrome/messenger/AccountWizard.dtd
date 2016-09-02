@@ -47,7 +47,7 @@
 
 <!ENTITY outgoingTitle.label "Oplysninger om udgående server">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Indtast navnet på din udgående server (SMTP) (f.eks, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.description "Indtast navnet på din udgående server (SMTP) (f.eks, &quot;smtp.eksempel.dk&quot;).">
 <!ENTITY outgoingServer.label "Udgående server:">
 <!ENTITY outgoingServer.accesskey "U">
 <!ENTITY outgoingUsername.description "Indtast det brugernavn for udgående server, som din mailudbyder har oplyst dig (det er typisk det samme som brugernavnet for indgående server).">

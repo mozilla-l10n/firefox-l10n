@@ -165,7 +165,7 @@
 <!ENTITY calendar.context.newtodo.accesskey "y">
 <!ENTITY calendar.context.deletetask.label "Slet opgave">
 <!ENTITY calendar.context.deletetask.accesskey "S">
-<!ENTITY calendar.context.deleteevent.label "Slet valgte begivenhed">
+<!ENTITY calendar.context.deleteevent.label "Slet begivenhed">
 <!ENTITY calendar.context.deleteevent.accesskey "b">
 <!ENTITY calendar.context.cutevent.label "Klip">
 <!ENTITY calendar.context.cutevent.accesskey "k">
@@ -337,7 +337,7 @@
 <!ENTITY calendar.publish.publish.button "Udgiv">
 <!ENTITY calendar.publish.close.button "Luk">
 
-<!ENTITY calendar.publish.example.url.description "Fx http://www.myserver.com/webdav/test.ics">
+<!ENTITY calendar.publish.example.url.description "Fx http://www.eksempel.dk/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title "Vælg kalender">
@@ -363,7 +363,7 @@
 <!ENTITY calendar.error.detail "Detaljer…">
 <!ENTITY calendar.error.code "Fejlkode:">
 <!ENTITY calendar.error.description "Beskrivelse:">
-<!ENTITY calendar.error.title "Der er opstået en fejl">
+<!ENTITY calendar.error.title "Der opstod en fejl">
 
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "Tilføj som begivenhed">

@@ -4,7 +4,7 @@
 
 <!ENTITY AdvancedEditButton.label "Avanceret redigering…">
 <!ENTITY AdvancedEditButton.accessKey "A">
-<!ENTITY AdvancedEditButton.tooltip "Tilføj eller ændr HTML-attributter, stil-attributter og JavaScript">
+<!ENTITY AdvancedEditButton.tooltip "Tilføj eller rediger HTML-attributter, CSS-attributter og JavaScript">
 <!ENTITY chooseFileButton.label "Vælg fil…">
 <!ENTITY chooseFileButton.accessKey "F">
 <!ENTITY chooseFileLinkButton.label "Vælg fil…">
