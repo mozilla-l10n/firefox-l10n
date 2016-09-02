@@ -40,10 +40,10 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "கீற்றை நீக்கு">
 <!ENTITY  unpinTab.accesskey                 "b">
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "கீற்றை சாதனங்களுக்கு அனுப்பவும்">
+<!ENTITY  sendTabToDevice.accesskey          "D">
+<!ENTITY  sendPageToDevice.label             "பக்கத்தைச் சாதனத்திற்கு அனுப்பவும்">
+<!ENTITY  sendPageToDevice.accesskey         "D">
 
 
 <!ENTITY  moveToNewWindow.label              "புதிய சாளரத்திற்கு நகரவும்">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "அனைத்து கீற்றுகளையும் காட்டு">
 <!ENTITY showAllTabsCmd.accesskey "A">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; வில் உள்நுழை">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; முன்னுரிமைகளைத் திற">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "உங்கள் சுட்டியைக் கட்டுப்படுத்துகிறது. கட்டுப்பாட்டை எடுக்க Esc விசையை அழுத்தவும்.">
+<!ENTITY pointerlockWarning.generic.label "இந்த ஆவணம் உங்கள் சுட்டியைக் கட்டுப்பாட்டில் வைத்திருக்கிறது. கட்டுப்பாட்டைத் திரும்ப எடுக்க Esc விசையை அழுத்தவும்.">
 
 <!ENTITY closeWindow.label "சாளரத்தை மூடுக">
 <!ENTITY closeWindow.accesskey "d">
@@ -216,20 +216,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "இணைப்பில்லா செயலியின் சேமிப்பு செய்தியைப் பார்">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "உங்கள் உழ்நுழைவு தகவலை நிர்வகிக்கவும்">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "உங்கள் கடவுசொல்லினை சேமிக்க சரிபாருங்கள்">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "இப்பக்கத்தில் கூடுதல் வசதி பயனளவை நிர்வகி">
+<!ENTITY urlbar.webNotsNotificationAnchor3.label        "இத்தளத்திலிருந்து அறிவிப்புகளை உங்களால் பெற முடிகிறதா என மாற்று">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "தளத்துடன் உங்கள் படக்கருவி மேலும்/அல்லது ஒலிவாங்கியை பகிர்வதை நிர்வகி">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "தளத்துடன் உங்கள் படக்கருவி/ அல்லது ஒளிவாங்கியினை நீங்கள் பகிர்ந்து கொள்கிறீர்கள்">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "தளத்துடன் உங்கள் ஒலிவாங்கியை பகிர்வதை நிர்வகி">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "நீங்கள் தளத்துடன் உங்கள் ஒலிவாங்கியை பகிர்கிறீர்கள்">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "உங்கள் விண்டோஸ் அல்லது திரையை தளத்துடன் பகிர்வதை நிர்வகி">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "நீங்கள் விண்டோ அல்லது திரையை தளத்துடன் பகிர்கிறீர்கள்">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "தளம் சுட்டியை மறைக்கலாமா என்பதை மாற்று">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "சேவை நிறுவல் செய்தியைக் காண் ">
+<!ENTITY urlbar.translateNotificationAnchor.label       "இப்பக்கத்தை மொழிபெயர்க்கவும்">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "பக்க மொழிபெயர்ப்புகளை நிர்வகி">
+<!ENTITY urlbar.emeNotificationAnchor.label             "DRM மென்பொருள் பயன்பாட்டை நிர்வகிக்கவும்">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "வரலாற்றைக் காட்டு">
 
 <!ENTITY searchItem.title             "தேடுதல்">
 <!-- Toolbar items --> 
@@ -240,10 +243,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "புத்தகக்குறிகள்">
-
+<!ENTITY bookmarksMenuButton.other.label "பிற புத்தகக்குறிகள்">
 <!ENTITY viewBookmarksSidebar2.label        "புத்தகக்குறிகள் பக்கப்பட்டையைக் காட்டு">
 <!ENTITY viewBookmarksToolbar.label         "புத்தகக்குறிகள் கருவிப்பட்டையைக் காட்டு">
 
+<!ENTITY containersMenu.label "கலன்கள்">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -263,7 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "பதிவிறக்கங்கள்">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "கூடுதல் இணைப்புகள்">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
@@ -283,7 +287,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "புதிய தனிப்பட்ட சாளரம்">
 <!ENTITY newPrivateWindow.accesskey "W">
-
+<!ENTITY newNonRemoteWindow.label   "புதிய e10s இல்லா சாளரம்">
 
 <!ENTITY editMenu.label         "தொகு"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -347,8 +351,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "வரலாறுப் பக்கப்பட்டையை பார்க்க">
 <!ENTITY appMenuHelp.tooltip "உதவிப் பட்டியை திற">
 
+<!ENTITY appMenuRemoteTabs.label "ஒத்திசைத்த கீற்றுகள்">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "திறந்த கீற்றுகள் இல்லை">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
