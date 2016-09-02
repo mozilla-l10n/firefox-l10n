@@ -17,25 +17,33 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; ຖືກສ້າງຂື້ນມາໂດຍພາຍໃຕ້ເງື່ອໄຂຂອງ  ">
 <!ENTITY rights.intro-point1b "ລິຂະສິດສຳລັບຜູ້ໃຊ້ທົ່ວໄປຂອງ Mozilla">
+<!ENTITY rights.intro-point1c ". ສິ່ງນີ້ຫມາຍເຖິງວ່າທ່ານອາດຈະໃຊ້ງານຕົວສຳເນົາ ແລະ ແຈກຈ່າຍ &brandShortName; ໃຫ້ກັບຜູ້ອື່ນ.  ທ່ານຍັງສາມາດແກ້ໄຂໂຄດຕົ້ນແບບຂອງ &brandShortName; ໄດ້ຕາມທີ່ທ່ານຕ້ອງການເພື່ອໃຫ້ກົງກັບສິ່ງທີ່ທ່ານຕ້ອງການ. Mozilla Public License ຍັງໃຫ້ສິດທິແກ່ທ່ານໃນການແຈກຈ່າຍລຸ້ນທີ່ທ່ານແກ້ໄຂໄດ້ອີກດ້ວຍ.">
 
+<!ENTITY rights.intro-point2-a "ທ່ານບໍ່ໄດ້ຮັບສິດທິ ຫລື ໃບອະນຸຍາດໃຫ້ນຳໃຊ້ເຄື່ອງຫມາຍທາງການຄ້າຂອງມູນນິທິ Mozilla ຫລື ອື່ນໆປະກອບດ້ວຍຊື່ ແລະ ໂລໂກ້ຂອງ Firefox. ຂໍ້ມູນເພີ່ມເຕີ່ມກ່ຽວກັບເຄື່ອງຫມາຍທາງການຄ້າອາດຈະພົບໄດ້ທີ່ ">
 <!ENTITY rights.intro-point2-b "ທີ່ນີ້">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
+<!ENTITY rights.intro-point2.5 "ບາງຄຸນລັກສະນະໃນ &brandShortName; ເຊັ່ນວ່າ: ຕົວລາຍງານຂໍ້ຂັດຂ້ອງ ຈະໃຫ້ຕົວເລືອກແກ່ທ່ານໃນການສະເຫນີຄຳຄິດເຫັນມາຫາ &vendorShortName;. ໂດຍການເລືອກສົ່ງຄຳຄິດເຫັນ ຫມາຍເຖິງວ່າທ່ານໄດ້ອະນຸຍາດໃຫ້ &vendorShortName; ນຳໃຊ້ຄຳຄິດເຫັນຂອງທ່ານເຂົ້າໃນການປັບປຸງພະລິດຕະຜັນ, ເຜີຍແຜ່ຄຳຄິດເຫັນໃນເວັບໄຊຕ໌ ແລະ ເພື່ອແຈກຈ່າຍຄຳຄິດເຫັນ.">
 
 <!-- point 3 text for official branded builds -->
+<!ENTITY rights2.intro-point3a "ວິທີການທີ່ພວກເຮົານຳໃຊ້ຂໍ້ມູນສ່ວນຕົວ ແລະ ຄຳຄິດເຫັນຂອງທ່ານທີ່ໄດ້ສົ່ງມາຫາ &vendorShortName; ຜ່ານ &brandShortName; ໄດ້ຮັບການອະທິບາຍໄວ້ທີ່ ">
 <!ENTITY rights2.intro-point3b "&brandShortName; ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຕ່າງໆທີ່ຖືກບັງຄັບໃຫ້ໃຊ້ສຳລັບພະລິດຕະຜັນນີ້ຄວນຈະສະແດງໄວ້ຢູ່ທີ່ນີ້.">
 
 <!-- point 4 text for official branded builds -->
+<!ENTITY rights2.intro-point4a "ບາງຄຸນສົມບັດຂອງ &brandShortName; ນຳໃຊ້ບໍລິການຂໍ້ມູນຈາກເວັບພາຍນອກ ແນວໃດກໍຕາມພວກເຮົາບໍ່ສາມາດຮັບປະກັນໄດ້ວ່າບໍລິການເຫລົ່ານັ້ນຈະເຮັດວຽກໄດ້ຢ່າງຖືກຕ້ອງ 100&#37; ໂດຍປາສະຈາກຄວາມຜິດພາດ. ລາຍລະອຽດເພີ່ມເຕີມ ລວມໄປເຖິງວິທີປິດການນຳໃຊ້ບໍລິການເຫລົ່ານັ້ນ ສາມາດອ່ານໄດ້ທີ່ ">
 <!ENTITY rights.intro-point4b "ເງື່ອນໄຂໃນການໃຫ້ບໍລິການ">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4b-unbranded "ເວັບໄຊຕ໌ໃຫ້ບໍລິການ">
 <!ENTITY rights.intro-point4c-unbranded " ແຊສຊັນ.">
 
+<!ENTITY rights2.webservices-header "ບໍລິການຂໍ້ມູນຜ່ານເວັບ &brandFullName;">
 
 <!-- point 5 -->
 
