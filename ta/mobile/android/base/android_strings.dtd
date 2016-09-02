@@ -280,8 +280,10 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "தனிபயன் கீற்றுகள்">
-
+<!ENTITY pref_custom_tabs_summary "தனிபயன் பார்வையில் உணர்வுடன் மூன்றாம் தரப்பு பயன்பாடுகள் URL களை திறக்க அனுமதி.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+
+<!ENTITY pref_activity_stream "செயல்பாட்டு ஓடை">
 
 
 <!ENTITY tracking_protection_prompt_title "தடமறியல் பாதுகாப்புடன் உள்ளது">
@@ -396,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "ஒத்திசைக்கப்பட்ட கீற்றுகள்">
 
 <!ENTITY pref_default_browser "முன்னிருப்பு உலாவியாக்குக">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "மொசில்லா ஆதரவை பார்வையிடு">
 <!ENTITY pref_about_firefox "&brandShortName;வைப் பற்றி">
 <!ENTITY pref_vendor_faqs "அடிக்கடி கேட்கப்படும் கேள்விகளும் பதில்களும்">
 <!ENTITY pref_vendor_feedback "கருத்து தெரிவிக்கவும்">
