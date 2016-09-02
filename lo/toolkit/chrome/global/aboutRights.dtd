@@ -46,6 +46,7 @@
 <!ENTITY rights2.webservices-header "ບໍລິການຂໍ້ມູນຜ່ານເວັບ &brandFullName;">
 
 <!-- point 5 -->
+<!ENTITY rights.intro-point5 "ເພື່ອເປີດເນື້ອຫາວິດີໂອບາງຊະນິດ &brandShortName; ດາວໂຫລດໂມດູນຖອດລະຫັດເນື້ອຫາບາງສ່ວນຈາກ 3 parties.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
