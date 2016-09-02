@@ -521,7 +521,7 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy "क्लिपबोर्डबाट गोप्यशब्द नक्कल गरियो। ">
 <!ENTITY doorhanger_login_select_toast_copy_error "पासवर्ड प्रतिलिपि गर्न सकिएन">
 <!ENTITY doorhanger_login_select_action_text "अर्को लगिन रोज्नुहोस्">
-
+<!ENTITY doorhanger_login_select_title "बाट पासवर्ड सार्नुहोस्">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
