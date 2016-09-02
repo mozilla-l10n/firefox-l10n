@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "​ຂໍ້ມູນການແກ້ໄຂບັນຫາ">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  ຫນ້ານີ້ປະກອບມີຂໍ້ມູນທາງເທັກນິິດທີ່ອາດຈະເປັນປະໂຫຍດຕໍ່ທ່ານທີກຳລັງພະຍາຍາມຈະແກ້ໄຂບັນຫາ ຫາກວ່າທ່ານກຳລັງຊອກຫາຄຳຕອບສຳລັບຄຳຖາມທີ່ທ່ານມັກພົບຕະລອດກ່ຽວກັບ &brandShortName;, ໃຫ້ໄປກວດເບິງ <a id='supportLink'>ເວັບໄຊຕ໌ທີ່ໃຫ້ຂໍ້ມູນສະຫນັບສະຫນູນ</a>.">
 
 <!ENTITY aboutSupport.crashes.title "ລາຍງານຂໍ້ຜິດພາດ">
@@ -34,9 +34,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "ຊື່​">
 <!ENTITY aboutSupport.appBasicsVersion "ລູ້ນ​">
 <!ENTITY aboutSupport.appBasicsBuildID "Build ID">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "ຊ່ອງທາງອັບເດດ">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "ປະຫວັດການອັບເດດ">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "ສະແດງປະຫວັດການອັບເດດ">
@@ -53,8 +53,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "ລະບົບປະຕິບັດການ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "ກາານໃຊ້ຫນ່ວຍຄວາມຈຳ">
 <!ENTITY aboutSupport.appBasicsPerformance "ປະສິດທິພາບ">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "ລົງທະບຽນ Service Workers ແລ້ວ">
 
 <!ENTITY aboutSupport.appBasicsProfiles "ໂປ​ຣ​ໄຟ​ລ໌">
@@ -72,18 +72,21 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin.label "ສະແດງໂຟຣເດີ">
 
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ການຕັ້ງຄ່າສຳຄັນທີ່ຖືກປ່ຽນແປງ">
 <!ENTITY aboutSupport.modifiedPrefsName "ຊື່​">
 <!ENTITY aboutSupport.modifiedPrefsValue "ຄ່າ​​​">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "ການຕັ້ງຄ່າ user.js">
 <!ENTITY aboutSupport.userJSDescription "ໂຟລເດີໂປຣໄຟລ໌ຂອງທ່ານປະກອບມີ <a id='prefs-user-js-link'>ໄຟລ໌ user.js</a>, ຊຶ່ງລວມມີການຕັ້ງຄ່າທີ່ບໍ່ໄດ້ຮັບການສ້າງຂື້ນມາໂດຍ &brandShortName;.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "ການຕັ້ງຄ່າສຳຄັນທີ່ຖືກລັອກ">
 <!ENTITY aboutSupport.lockedPrefsName "ຊື່​">
 <!ENTITY aboutSupport.lockedPrefsValue "ຄ່າ​​​​">
 
 <!ENTITY aboutSupport.graphicsTitle "ກຣາບຟິກ">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Places Database">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "ຄວາມສົມບູນ">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "ກວດສອບຄວາມສົມບູນ">
 
@@ -109,9 +112,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "ຄຸນລັກສະນະ">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "ການວິນິດໄສ">
-
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Failure Log">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Decision Log">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Crash Guard Disabled Features">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
