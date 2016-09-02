@@ -9,6 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "フルスクリーン">
 <!ENTITY fullscreenButton.exitfullscreenlabel "フルスクリーンを解除">
 <!ENTITY castingButton.castingLabel "画面に映す">
+<!ENTITY closedCaption.off "オフ">
 
 <!ENTITY stats.media "メディア">
 <!ENTITY stats.size "サイズ">
