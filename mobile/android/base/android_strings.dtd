@@ -133,7 +133,7 @@
 <!ENTITY pref_home_updates_wifi "Только через Wi-Fi">
 <!ENTITY pref_category_home_homepage "Домашняя страница">
 <!ENTITY home_homepage_title "Установка домашней страницы">
-<!ENTITY home_homepage_radio_default "Стартовая страница &brandShortName;">
+<!ENTITY home_homepage_radio_default "Домашняя страница &brandShortName;">
 <!ENTITY home_homepage_radio_user_address "Другая">
 <!ENTITY home_homepage_hint_user_address "Введите адрес или поисковый запрос">
 <!ENTITY pref_header_general "Основные">
@@ -361,7 +361,7 @@
 <!ENTITY button_copy "Копировать">
 <!ENTITY home_top_sites_title "Топ сайтов">
 <!ENTITY home_top_sites_add "Добавить сайт">
-<!ENTITY home_title "Стартовая страница &brandShortName;">
+<!ENTITY home_title "Домашняя страница &brandShortName;">
 <!ENTITY home_history_title "История">
 <!ENTITY home_synced_devices_smartfolder "Облачные устройства">
 <!ENTITY home_synced_devices_number "&formatD; устройств(а)">
@@ -383,7 +383,7 @@
 <!ENTITY home_remote_tabs_hidden_devices_title "Скрытые устройства">
 <!ENTITY home_remote_tabs_unhide_selected_devices "Показать выбранные скрытые устройства">
 <!ENTITY remote_tabs_panel_moved_title "Куда делись мои вкладки?">
-<!ENTITY remote_tabs_panel_moved_desc "Мы переместили вкладки с других устройств на панель на вашей стартовой странице, которая легко доступна при каждом открытии вами новой вкладки.">
+<!ENTITY remote_tabs_panel_moved_desc "Мы переместили вкладки с других устройств на панель на вашей домашней странице, которая легко доступна при каждом открытии вами новой вкладки.">
 <!ENTITY remote_tabs_panel_moved_link "Перенести меня на мою новую панель.">
 <!ENTITY pin_site_dialog_hint "Введите поисковый запрос">
 <!ENTITY filepicker_title "Выбрать файл">
