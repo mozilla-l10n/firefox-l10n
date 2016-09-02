@@ -26,12 +26,12 @@
 <!ENTITY firstrun_tabqueue_message_off "Укључи низ језичака">
 <!ENTITY firstrun_tabqueue_subtext_off "Сачувајте везе за касније у &brandShortName;-у при додиру у другим апликацијама.">
 
-<!ENTITY firstrun_tabqueue_message_on "Успех!">
+<!ENTITY firstrun_tabqueue_message_on "Браво!">
 <!ENTITY firstrun_tabqueue_subtext_on "Можете увек да искључите ову могућност у &settings; под &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Чланци">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-<!ENTITY firstrun_readerview_message "Уклони претпан приказ">
+<!ENTITY firstrun_readerview_message "Уклоните пренатрпан приказ">
 <!ENTITY firstrun_readerview_subtext "Користите приказ читача да учините чланке лакше читљивим \u2014 чак и ван мреже.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
@@ -298,14 +298,14 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Ово можете променити касније у Поставкама">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Дозвола за превлачење преко других апликација"> 
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Дозвола за превлачење преко других апликација">
 <!ENTITY tab_queue_prompt_positive_action_button "Дозволи">
 <!ENTITY tab_queue_prompt_negative_action_button "Не сада">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Отвори поставке">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
@@ -711,7 +711,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Дозволи">
 
-<!-- Guest mode -->
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "Нова сесија за госте">
 <!ENTITY exit_guest_session "Изађи из сесије за госте">
 <!ENTITY guest_session_dialog_continue "Настави">
@@ -740,7 +740,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      This entity is used in the zoomed view to display the zoom factor-->
 <!ENTITY percent "&formatS;&#37;&#37;">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Мени">
 <!ENTITY actionbar_done "Готово">
