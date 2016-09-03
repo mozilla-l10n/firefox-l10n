@@ -82,9 +82,6 @@
 <!ENTITY updateManual.label              "Mos kontrollo kurrë për përditësime (e pakëshillueshme: rrezik sigurie)">
 <!ENTITY updateManual.accesskey          "o">
 
-<!ENTITY updateAutoAddonWarn.label       "Sinjalizomë nëse kjo do të çaktivizojë ndonjë shtesë">
-<!ENTITY updateAutoAddonWarn.accesskey   "S">
-
 <!ENTITY updateHistory.label             "Shfaq Historik Përditësimesh">
 <!ENTITY updateHistory.accesskey         "H">
 

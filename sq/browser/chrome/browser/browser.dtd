@@ -43,7 +43,7 @@ can reach it easily. -->
 <!ENTITY  sendTabToDevice.label              "Dërgoje Skedën te Pajisja">
 <!ENTITY  sendTabToDevice.accesskey          "P">
 <!ENTITY  sendPageToDevice.label             "Dërgoje Faqen te Pajisja">
-<!ENTITY  sendPageToDevice.accesskey         "PD">
+<!ENTITY  sendPageToDevice.accesskey         "P">
 <!ENTITY  sendLinkToDevice.label             "Dërgoje Lidhjen te Pajisja">
 <!ENTITY  sendLinkToDevice.accesskey         "P">
 <!ENTITY  moveToNewWindow.label              "Kaloje në Dritare të Re">
