@@ -42,7 +42,10 @@
 <!ENTITY  finished.top.label              "&brandShortName; ໄດ້ຕິດຕັ້ງຕົວອັບເດດສຳລັບ Add-ons ຂອງທ່ານແລ້ວ.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; ສາມາດກວດສອບເປັນໄລຍະ ແລະ ແຈ້ງທ່ານ
                                            ເມື່ອພົບການອັບເດດສຳລັບ Add-ons.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; ຈະກວດສອບເປັນໄລຍະ ແລະ ແຈ້ງທ່ານ
+                                           ເມື່ອພົບການອັບເດດສຳລັບ Add-ons.">
 
+<!ENTITY  adminDisabled.wizard.title      "ບໍ່ສາມາດກວດເບິງວ່າມີຕົວອັບເດດ">
 
 
 
