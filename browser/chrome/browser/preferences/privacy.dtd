@@ -105,3 +105,8 @@
 <!ENTITY  doNotTrack.pre.label          "Mundeni edhe ">
 <!ENTITY  doNotTrack.settings.label     "të administroni rregullimet tuaja për Mos Më Gjurmoni">
 <!ENTITY  doNotTrack.post.label         ".">
+
+<!ENTITY  browserContainersHeader.label         "Skeda Kontejneri">
+<!ENTITY  browserContainersLearnMore.label      "Mësoni më tepër">
+<!ENTITY  browserContainersEnabled.label        "Aktivizoni Skeda Kontejneri">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
