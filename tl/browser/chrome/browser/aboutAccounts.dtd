@@ -7,8 +7,8 @@
 
 <!ENTITY aboutAccountsConfig.description "Mag sign-in para maging konektado ang iyong tab, bookmarks, password at iba pa.">
 <!ENTITY aboutAccountsConfig.startButton.label "Simulan na">
-
-
+<!ENTITY aboutAccountsConfig.useOldSync.label "Gumagamit ka ng lumang bersyon ng Sync?">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Mga kagustuhan sa pag-sync">
 <!ENTITY aboutAccounts.noConnection.title "Walang koneksyon">
 <!ENTITY aboutAccounts.noConnection.description "Kailangang nakakonekta ka sa Internet upang makapag sign in">
 <!ENTITY aboutAccounts.noConnection.retry "Muling subukan">

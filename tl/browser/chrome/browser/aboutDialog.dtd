@@ -22,7 +22,7 @@
 <!ENTITY warningDesc.telemetryDesc  "Ito ay direktang nagpapadala ng impormasyon tungkol sa performance, hardware, pag-gamit at pag-aangkop pabalik sa &vendorShortName; upang matulungan na mapa-buti ang &brandShortName;">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "">
+<!ENTITY community.exp.start        "Ingles">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "ay isang">
@@ -65,7 +65,7 @@
 <!ENTITY update.adminDisabled       "Ang pagdadagdag ng mga pagbabago ay pinawalang bisa ng iyong system administrator. ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; ay kasalukuyang I-naupdate ng isa pang instance">
-
+<!ENTITY update.restarting          "Simulan ulit...">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
