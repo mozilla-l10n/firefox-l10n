@@ -45,16 +45,18 @@
 
 <!ENTITY reading.caption                  "Taɣuṛi">
 <!ENTITY display.caption                  "Sken">
+<!ENTITY showCondensedAddresses.label     "Sken kan isem iyemdanen yellan deg imedlis inu n tensa">
+<!ENTITY showCondensedAddresses.accesskey "S">
 
-
-
-
-
-
+<!ENTITY autoMarkAsRead.label             "Creḍ s wudem awurman iznan amzun ttwaɣran">
+<!ENTITY autoMarkAsRead.accesskey         "C">
+<!ENTITY markAsReadNoDelay.label          "Imir imir deg uskan">
+<!ENTITY markAsReadNoDelay.accesskey      "d">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-
+<!ENTITY markAsReadDelay.label            "Ticki yettwaskan di">
+<!ENTITY markAsReadDelay.accesskey        "T">
 <!ENTITY secondsLabel.label               "tasinin">
 <!ENTITY openMsgIn.label                  "Ldi iznan di:">
 <!ENTITY openMsgInNewTab.label            "Iccer amaynut">

@@ -8,10 +8,10 @@
 
 
 
-
-
-
-
+<!ENTITY radioAskState.label "Suter-iyi-d ɣef waddad uqqin">
+<!ENTITY radioAskState.accesskey "u">
+<!ENTITY radioAlwaysOnlineState.label "Iqqen">
+<!ENTITY radioAlwaysOnlineState.accesskey "I">
 <!ENTITY radioAlwaysOffline.label "Aruqqin">
 <!ENTITY radioAlwaysOffline.accesskey "r">
 

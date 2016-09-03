@@ -13,24 +13,28 @@ reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
 
-
+<!ENTITY  reportIdleAfter.label         "Eǧǧ inermisen-iw ad ẓren d akken ulac-iyi di">
+<!ENTITY  reportIdleAfter.accesskey     "I">
+<!ENTITY  idleTime                      "tisdatin anda ulac-iyi">
 
 <!ENTITY  andSetStatusToAway.label      "u sbadu addad inu ɣer Ulac-it s yizen agi n waddad">
 <!ENTITY  andSetStatusToAway.accesskey  "U">
 
+<!ENTITY  sendTyping.label              "Azen alɣu ticki ttaruɣ deg udiwenni">
+<!ENTITY  sendTyping.accesskey          "c">
 
-
-
-
-
-
-
-
-
+<!ENTITY  chatNotifications.label             "Ticki iznan ttuwelhen mara d-awḍen:">
+<!ENTITY  desktopChatNotifications.label      "Sken alɣu:">
+<!ENTITY  desktopChatNotifications.accesskey  "ɣ">
+<!ENTITY  completeNotification.label          "s yisem n umazan akked teskant n yizen">
+<!ENTITY  buddyInfoOnly.label                 "S yisem n umazan kan">
+<!ENTITY  dummyNotification.label             "swar talɣut">
+<!ENTITY  chatSound.accesskey                 "l">
+<!ENTITY  chatSound.label                     "Urar imesli">
 <!ENTITY  play.label                          "Urar">
 <!ENTITY  play.accesskey                      "U">
-
-
+<!ENTITY  systemSound.label                   "Imesli n unagraw amezwer i yimayl amaynut">
+<!ENTITY  systemSound.accesskey               "m">
 <!ENTITY  customsound.label                   "Seqdec afaylu agi n imesli">
 <!ENTITY  customsound.accesskey               "S">
 <!ENTITY  browse.label                        "Ḍum…">
