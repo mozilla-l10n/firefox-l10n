@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Prepínať karty pomocou Ctrl+Tab v poradí podľa posledného otvorenia">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "k">
+
 <!ENTITY newWindowsAsTabs.label       "Nové okná otvárať ako novú kartu">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
