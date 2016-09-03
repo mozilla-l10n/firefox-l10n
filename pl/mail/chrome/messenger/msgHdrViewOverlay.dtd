@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Do">
 <!ENTITY fromField4.label "Od">
 <!ENTITY senderField4.label "Wysyłane przez">
+<!ENTITY author.label "Autor">
 <!ENTITY organizationField4.label "Organizacja">
 <!ENTITY replyToField4.label "Odp. do">
 
@@ -68,11 +69,9 @@
 <!ENTITY otherActionsPrint1.label "Drukuj…">
 <!ENTITY otherActionsPrint1.accesskey "D">
 
-<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label "Wyświetlaj listę załączników">
 <!ENTITY startExpandedCmd.accesskey "W">
 
-<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Otwórz">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY saveAsAttachmentCmd.label "Zapisz jako…">
@@ -92,7 +91,6 @@
 
 <!ENTITY openAttachment.tooltip "Otwórz załączony plik">
 
-<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label "Zapisz">
 <!ENTITY saveAttachmentButton1.tooltip "Zapisz załącznik">
 <!ENTITY saveAllAttachmentsButton1.label "Zapisz wszystkie">
