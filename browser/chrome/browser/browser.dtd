@@ -40,6 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "F">
 <!ENTITY  unpinTab.label                     "Betg pli fixar il tab">
 <!ENTITY  unpinTab.accesskey                 "B">
+<!ENTITY  sendTabToDevice.label              "Trametter il tab ad in apparat">
+<!ENTITY  sendTabToDevice.accesskey          "a">
+<!ENTITY  sendPageToDevice.label             "Trametter la pagina ad in apparat">
+<!ENTITY  sendPageToDevice.accesskey         "a">
+<!ENTITY  sendLinkToDevice.label             "Trametter la colliaziun ad in apparat">
+<!ENTITY  sendLinkToDevice.accesskey         "a">
 <!ENTITY  moveToNewWindow.label              "Spustar en ina nova fanestra">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Agiuntar in segnapagina per mintga tab…">
@@ -105,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Mussar tut ils tabs">
 <!ENTITY showAllTabsCmd.accesskey "t">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "S'annunziar tar &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Avrir las preferenzas da &syncBrand.shortName.label;">
@@ -142,6 +149,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "controllescha il punctader. Smatga ESC per reacquistar la controlla.">
+<!ENTITY pointerlockWarning.generic.label "Quest document controllescha il punctader. Smatga ESC per reacquistar la controlla.">
 
 <!ENTITY closeWindow.label "Serrar la fanestra">
 <!ENTITY closeWindow.accesskey "r">

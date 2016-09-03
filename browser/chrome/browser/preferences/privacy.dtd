@@ -104,3 +104,8 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Preferenzas…">
 <!ENTITY  clearOnCloseSettings.accesskey "z">
+
+<!ENTITY  browserContainersHeader.label         "Tabs da container">
+<!ENTITY  browserContainersLearnMore.label      "Ulteriuras infurmaziuns">
+<!ENTITY  browserContainersEnabled.label        "Activar ils tabs da container">
+<!ENTITY  browserContainersEnabled.accesskey    "r">
