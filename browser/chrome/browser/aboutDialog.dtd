@@ -10,7 +10,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Провери за ажурирања">
 <!ENTITY update.checkForUpdatesButton.accesskey   "П">
-<!ENTITY update.updateButton.label2                "Ресетирај &brandShortName; за да се ажурира">
+<!ENTITY update.updateButton.label2                "Рестартирај за &brandShortName; да се ажурира">
 <!ENTITY update.updateButton.accesskey            "Р">
 <!ENTITY update.applyButtonBillboard.label        "Постави ажурирање...">
 <!ENTITY update.applyButtonBillboard.accesskey    "а">
@@ -66,6 +66,7 @@
 <!ENTITY update.adminDisabled       "Вашиот систем администратор ги има оневозможено надградбите">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; се ажурира од друга инстанца">
+<!ENTITY update.restarting          "Рестартирам…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
