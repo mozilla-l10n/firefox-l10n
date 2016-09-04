@@ -16,4 +16,4 @@
 <!ENTITY caseSensitive.tooltiptext "केस संवेदनशीलता सहित खोजी गर्नुहोस्">
 <!ENTITY entireWord.label "पूरै शब्द">
 <!ENTITY entireWord.accesskey "W">
-
+<!ENTITY entireWord.tooltiptext "सम्पूर्ण शब्दहरू मात्र खोज्नुहोस्">
