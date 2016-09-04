@@ -14,6 +14,6 @@
 <!ENTITY caseSensitive.label "Skill mellom store/små bokstaver">
 <!ENTITY caseSensitive.accesskey "k">
 <!ENTITY caseSensitive.tooltiptext "Skill mellom store/små bokstaver i søket">
-
-
-
+<!ENTITY entireWord.label "Hele ord">
+<!ENTITY entireWord.accesskey "H">
+<!ENTITY entireWord.tooltiptext "Søk bare etter hele ord">
