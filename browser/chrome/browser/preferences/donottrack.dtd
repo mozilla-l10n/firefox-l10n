@@ -9,4 +9,5 @@
 <!ENTITY doNotTrackCheckbox2.label    "Selalu aktifkan Jangan Lacak">
 <!ENTITY doNotTrackCheckbox2.accesskey "S">
 
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; akan mengirimkan sebuah isyarat bahwa Anda tidak ingin dilacak kapanpun ketika Perlindungan Pelacakan sedang aktif.">
 <!ENTITY doNotTrackLearnMore.label    "Lebih Lanjut">

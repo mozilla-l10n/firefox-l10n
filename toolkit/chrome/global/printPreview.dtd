@@ -32,9 +32,9 @@
 <!ENTITY Custom.label         "Kesukaan…">
 <!ENTITY ShrinkToFit.label    "Kecilkan Supaya Muat">
 <!ENTITY customPrompt.title   "Skala Suka-suka…">
-
-
-
+<!ENTITY simplifyPage.label   "Sederhanakan Halaman">
+<!ENTITY simplifyPage.enabled.tooltip  "Ubah tata letak agar mudah dibaca">
+<!ENTITY simplifyPage.disabled.tooltip "Halaman ini tidak dapat disederhanakan secara otomatis">
 
 <!ENTITY homearrow.tooltip    "Laman pertama">
 <!ENTITY endarrow.tooltip     "Laman terakhir">
