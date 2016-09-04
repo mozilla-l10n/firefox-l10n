@@ -625,9 +625,9 @@ size. -->
 <!ENTITY pin_site_dialog_hint "सर्च गर्ने शब्द लेख्नुहोस्। ">
 
 <!ENTITY filepicker_title "फाइल रोज्नुहोस्">
-
-
-
+<!ENTITY filepicker_audio_title "छनौट वा आवाज रेकर्ड">
+<!ENTITY filepicker_image_title "छनौट वा फोटो खिच्ने">
+<!ENTITY filepicker_video_title "छनौट वा भिडियो रेकर्ड">
 <!-- Site identity popup -->
 
 <!ENTITY identity_connected_to "तपाई यसमा जडान हुनुभएको छ:">
@@ -656,17 +656,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "ट्रयाकिङ सुरक्षा">
 <!ENTITY doorhanger_tracking_state_enabled "सक्षम पारिएको छ">
 <!ENTITY doorhanger_tracking_state_disabled "अक्षम पारिएको छ">
-
-
+<!ENTITY doorhanger_tracking_message_enabled1 "तपाइको अनलाइन व्यवहार ट्रयाक गर्ने प्रयासहरु अवरुद्ध भएका छन्।">
+<!ENTITY doorhanger_tracking_message_disabled2 "यो पृष्ठमा तपाईंको ब्राउजिङ ट्र्याक गर्न सक्ने तत्वहरु रहेका छन्।">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "अझै जान्नुहोस्">
+<!ENTITY enable_protection "सुरक्षा सुचारु गर्नुहोस्">
+<!ENTITY disable_protection "सुरक्षा बन्द गर्नुहोस् ">
 
+<!ENTITY private_data_success "निजी डेटा हटाइयो">
+<!ENTITY private_data_fail "केही निजी डाटा हटाउन सकिएन">
 
-
-
-
-
+<!ENTITY bookmarkhistory_button_import "आयात">
+<!ENTITY bookmarkhistory_import_both "बुक्मार्कहरु र इतिहास एन्ड्रोइडबाट आयात गरिदै">
 <!ENTITY bookmarkhistory_import_bookmarks "पुस्तकचिनो एन्ड्रोइडबाट आयात गरिदै">
 <!ENTITY bookmarkhistory_import_history "इतिहासहरु एन्ड्रोइडबाट आयात गरिदै">
 <!ENTITY bookmarkhistory_import_wait "कृपया प्रतीक्षा गर्नुहोस्...">
@@ -683,6 +685,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
+<!ENTITY suggestion_for_engine "&formatS2;को लागी &formatS1; खोज्ने">
+
 <!ENTITY searchable_description "पुस्तकचिनो र इतिहास">
 <!-- Updater notifications --> 
 
@@ -691,10 +695,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_downloading_title2 "&brandShortName; डाउनलोड गरिँदै">
 <!ENTITY updater_downloading_title_failed2 "डाउनलोड असफल भयो">
+<!ENTITY updater_downloading_select2 "डाउनलोड पुरा भइपछि अद्यावधिक लागू गर्न छुनुहोस्">
+<!ENTITY updater_downloading_retry2 "पून: प्रयास गर्न छुनुहोस्">
 
-
-
-
+<!ENTITY updater_apply_title2 "&brandShortName; को लागि अद्यावधिक उपलब्ध छ">
+<!ENTITY updater_apply_select2 "अद्यावधिक गर्न छुनुहोस्">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
