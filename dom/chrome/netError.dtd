@@ -85,3 +85,4 @@
 <!ENTITY inadequateSecurityError.title "तपाईँको जडान सुरक्षित छैन">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ले सुरक्षा टेक्नोलोजी चलाउछ जून मिति गुज्रेको छ र आक्रमण प्रति असुरक्षित छ. हमलाकरिले गोप्य कुरा सजिलै खोल्न सक्छ जून तपाईले सुरक्षित छ भनेर सोच्नु हुन्छ. वेबसाइट मुख्य प्रबन्धकले साइट हेर्नु भन्दा पहिले सर्भर निर्धारित गर्नु पर्छ.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
