@@ -7,8 +7,8 @@
 <!ENTITY checkAutoDetect.label "Ḍfeṛ s wudem awurman addad s srid i yettwafen">
 <!ENTITY checkAutoDetect.accesskey "d">
 <!ENTITY titleStartUp "Addad s ufus di tnekra:">
-
-
+<!ENTITY radioRememberPrevState.label "Cfu ɣef waddad s srid  yezrin">
+<!ENTITY radioRememberPrevState.accesskey "C">
 <!ENTITY radioAskState.label "Suter-iyi-d ɣef waddad uqqin">
 <!ENTITY radioAskState.accesskey "u">
 <!ENTITY radioAlwaysOnlineState.label "Iqqen">

@@ -160,6 +160,8 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+
+<!ENTITY quickFilterBar.booleanMode.tooltip "Err tabzimt i uskar n uzizdeg">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
@@ -168,6 +170,8 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Ɣarsum yiwen seg isebdaden n tebzimint yettwafernen ad imeɣru">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
@@ -176,6 +180,8 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Yessefk akk isebdaden n tebzimin yettwafernen ad meɣrun">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
      Choose this value so that the emptyText fits nicely with a little bit of

@@ -17,8 +17,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "K">
 <!ENTITY markAsReadOnSpam.label "Creḍ iznan ispamen amzun ttwaɣṛan">
 <!ENTITY markAsReadOnSpam.accesskey "C">
-
-
+<!ENTITY enableAdaptiveJunkLogging.label "Rmed asniɣmes n imzizdig aspam aserwestan">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "R">
 <!ENTITY openJunkLog.label "Sken aɣmis">
 <!ENTITY openJunkLog.accesskey "k">
 <!ENTITY resetTrainingData.label "Wennez isefka yinek n ukayad">
@@ -43,6 +43,6 @@
 <!-- Anti Virus -->
 
 <!ENTITY antiVirus.intro      "&brandShortName; yezmer ad t-yessifusu i umgal avirus akken ad yesleḍ iznan n tirawt ukcimen ɣef ivirusen send ad ttwakelsen.">
-
-
+<!ENTITY antiVirus.label      "Sireg imsaɣen n imgal ivirusen akked ad ɛezlen iznan d-ikecmen">
+<!ENTITY antiVirus.accesskey  "S">
 
