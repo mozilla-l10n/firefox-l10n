@@ -19,6 +19,7 @@
 <!ENTITY playSound1.accesskey              "з">
 <!ENTITY showAnimatedAlert.label          "Прикажи узбуну">
 <!ENTITY showAnimatedAlert.accesskey      "б">
+<!ENTITY notificationAlertSettings.label  "Узбуне могу бити искључене у обавештајној површи системских поставки.">
 <!ENTITY customizeMailAlert.label         "Прилагоди…">
 <!ENTITY customizeMailAlert.accesskey     "д">
 
