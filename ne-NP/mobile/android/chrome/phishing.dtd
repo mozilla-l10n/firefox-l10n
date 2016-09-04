@@ -11,9 +11,11 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/>मा यो साइट आक्रामक साइट भएको प्रतिवेदन दिइएको छ र तपाईंको सुरक्षा प्राथमिकताहरूका अनुसार बन्द गरिएको छ ।">
 
 
+<!ENTITY safeb.blocked.phishingPage.title3 "छल गर्ने साइट!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
+<!ENTITY safeb.blocked.unwantedPage.title "अवाञ्छित सफ्टवेयर साइटबारे प्रतिवेदन पठाइयो!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
