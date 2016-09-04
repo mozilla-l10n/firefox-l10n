@@ -13,13 +13,13 @@
 #define bookmarks_title पुस्तकचिनोहरू
 
 
-#define bookmarks_heading पुस्तकचिनोहरू
+#define bookmarks_heading पुस्तकचिनाहरू
 
 
-#define bookmarks_toolbarfolder पुस्तकचिनोहरू उपकरणपट्टी फोल्डर
+#define bookmarks_toolbarfolder पुस्तकचिनाहरू उपकरणतर्फ फोल्डर
 
 
-#define bookmarks_toolbarfolder_description पुस्तकचिनोहरू उपकरणपट्टीमा देखिनको लागि यो फोल्डरमा तिनीहरू थप्नुहोस्
+#define bookmarks_toolbarfolder_description पुस्तकचिनाहरू उपकरणतर्फ देखिनको लागि यो फोल्डरमा तिनीहरू थप्नुहोस्
 
 
 # LOCALIZATION NOTE (getting_started):

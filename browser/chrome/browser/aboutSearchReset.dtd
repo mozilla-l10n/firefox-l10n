@@ -6,6 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "तपाईको खोज सेटिङ पुनर्स्थापना गर्नुहुन्छ?">
 
+<!ENTITY searchreset.pageInfo1      "तपाईको खोजि सेटिङ्गहरु मिति गुज्रेका हुन सक्छन। &brandShortName; ले तपाईलाई पूर्वनिर्धारित खोज सेटिङ्गहरु पुनर्स्थापना गर्न मद्दत गर्न सक्छ।">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
 

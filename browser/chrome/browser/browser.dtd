@@ -42,10 +42,10 @@ can reach it easily. -->
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "साधन मा ट्याब पठाउनुहोस">
 <!ENTITY  sendTabToDevice.accesskey          "स">
-<!ENTITY  sendPageToDevice.label             "साधन मा पृष्ठ पठाउनुहोस">
-<!ENTITY  sendPageToDevice.accesskey         "स">
-<!ENTITY  sendLinkToDevice.label             "साधन मा लिङ्क पठाउनुहोस">
-<!ENTITY  sendLinkToDevice.accesskey         "स">
+<!ENTITY  sendPageToDevice.label             "उपकरणमा पृष्ठ पठाउनुहोस">
+<!ENTITY  sendPageToDevice.accesskey         "उ">
+<!ENTITY  sendLinkToDevice.label             "उपकरणमा लिङ्क पठाउनुहोस">
+<!ENTITY  sendLinkToDevice.accesskey         "उ">
 <!ENTITY  moveToNewWindow.label              "नयाँ सञ्झ्यालमा सार्नुहोस्">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "सबै ट्याबहरूलाई पुस्तकचिनो गर्नुहोस्…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "सबै ट्याबहरू देखाउनुहोस्">
 <!ENTITY showAllTabsCmd.accesskey "A">
-<!ENTITY toggleReaderMode.key "र">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; मा साइन इन गर्नुहोस">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; को प्राथमिकताहरू खोल्नुहोस्">
@@ -151,7 +151,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 <!ENTITY pointerlockWarning.afterDomain.label "तपाईको सूचक नियन्त्रण बाहिर छ । नियन्त्रण आफ्नो कब्जामा ल्याउन इस्केप Esc थिच्नुहोस।">
-<!ENTITY pointerlockWarning.generic.label "तपाईको सूचक को नियन्त्रण यो कागजात ले गरेको छ। नियन्त्रण आफ्नो कब्जामा ल्याउन इस्केप Esc थिच्नुहोस।">
+<!ENTITY pointerlockWarning.generic.label "तपाईको पोइन्टरको नियन्त्रण यो कागजातले गरेको छ। नियन्त्रण फिर्ता ल्याउन Esc थिच्नुहोस्।">
 
 <!ENTITY closeWindow.label "सञ्झ्याल बन्द गर्नुहोस्">
 <!ENTITY closeWindow.accesskey "d">
@@ -280,8 +280,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "फाइल"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.label             "नयाँ कन्टेनर ट्याब">
+<!ENTITY newUserContext.accesskey         "b">
 <!ENTITY newNavigatorCmd.label        "नयाँ सञ्झ्याल">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -474,7 +474,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "फ्रेमलाई नयाँ सञ्झ्यालमा खोल्नुहोस्">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "नयाँ कन्टेनर ट्याबमा लिङ्क खोल्नुहोस">
-<!ENTITY openLinkCmdInContainerTab.accesskey "ज">
+<!ENTITY openLinkCmdInContainerTab.accesskey "Z">
 <!ENTITY showOnlyThisFrameCmd.label     "यो फ्रेम मात्र देखाउनुहोस्">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -588,8 +588,8 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "अति छिटो (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
-
-
+<!ENTITY mediaLoop.label             "लूप">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
