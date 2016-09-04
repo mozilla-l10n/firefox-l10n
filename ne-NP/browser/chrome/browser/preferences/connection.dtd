@@ -32,7 +32,7 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label2         "SOCKS v5 प्रयोग गर्दा DNS प्रोक्सी गर्नुहोस">
+<!ENTITY  socksRemoteDNS.label2         "SOCKS v5 प्रयोग गर्दा DNS प्रोक्सी गर्नुहोस्">
 <!ENTITY  socksRemoteDNS.accesskey      "द ">
 <!ENTITY  port.label                    "पोर्ट:">
 <!ENTITY  HTTPport.accesskey            "P">
@@ -46,4 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "s">
 <!ENTITY  autologinproxy.label          "यदि पासवर्ड सङ्ग्रह गरिएको छ भने पासवर्ड प्रमाणीकरणको लागि झक्झक्याउने नगर्नुहोस्">
 <!ENTITY  autologinproxy.accesskey      "i">
-
+<!ENTITY  autologinproxy.tooltip        "यो विकल्पले तपाईंलाई सुचना नदिई प्रोक्सीहरु सामू तपाईंको पहिचान स्थापना गराउँछ यदी ती प्रोक्सीहरुका प्रमाणपत्र सङ्ग्रह गर्नुभएको खण्डमा। पहिचान स्थापना गराउन असफल भएमा तपाईंलाई सुचना दिइनेछ।">

@@ -46,7 +46,8 @@
 <!ENTITY  acceptCookies.label           "साइटहरूबाट कुकी स्वीकार गर्नुहुोस्">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "तेस्रो-पक्षबाट आउने कुकीहरू स्वीकार गर्नुहुोस्:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "सधैँ">
 <!ENTITY  acceptThirdParty.never.label    "कहिले पनि होइन">
 <!ENTITY  acceptThirdParty.visited.label  "पहिले हेरिएकोबाट">
@@ -104,6 +105,7 @@
 <!ENTITY  clearOnCloseSettings.label     "ढाँचाहरू...">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-
-
-
+<!ENTITY  browserContainersHeader.label         "कन्टेनर ट्याबहरु">
+<!ENTITY  browserContainersLearnMore.label      "अझै जान्नुहोस्">
+<!ENTITY  browserContainersEnabled.label        "कन्टेनर ट्याबहरु सकृय गर्नुहोस ">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
