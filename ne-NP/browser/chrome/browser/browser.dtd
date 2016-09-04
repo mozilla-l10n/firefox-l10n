@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ट्याबलाई अनपिन गर्नुहोस्">
 <!ENTITY  unpinTab.accesskey                 "b">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "साधन मा ट्याब पठाउनुहोस">
+<!ENTITY  sendTabToDevice.accesskey          "स">
+<!ENTITY  sendPageToDevice.label             "साधन मा पृष्ठ पठाउनुहोस">
+<!ENTITY  sendPageToDevice.accesskey         "स">
+<!ENTITY  sendLinkToDevice.label             "साधन मा लिङ्क पठाउनुहोस">
+<!ENTITY  sendLinkToDevice.accesskey         "स">
 <!ENTITY  moveToNewWindow.label              "नयाँ सञ्झ्यालमा सार्नुहोस्">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "सबै ट्याबहरूलाई पुस्तकचिनो गर्नुहोस्…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "सबै ट्याबहरू देखाउनुहोस्">
 <!ENTITY showAllTabsCmd.accesskey "A">
-
+<!ENTITY toggleReaderMode.key "र">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; मा साइन इन गर्नुहोस">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; को प्राथमिकताहरू खोल्नुहोस्">
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
+<!ENTITY pointerlockWarning.afterDomain.label "तपाईको सूचक नियन्त्रण बाहिर छ । नियन्त्रण आफ्नो कब्जामा ल्याउन इस्केप Esc थिच्नुहोस।">
+<!ENTITY pointerlockWarning.generic.label "तपाईको सूचक को नियन्त्रण यो कागजात ले गरेको छ। नियन्त्रण आफ्नो कब्जामा ल्याउन इस्केप Esc थिच्नुहोस।">
 
 <!ENTITY closeWindow.label "सञ्झ्याल बन्द गर्नुहोस्">
 <!ENTITY closeWindow.accesskey "d">
@@ -473,8 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "फ्रेमलाई नयाँ सञ्झ्यालमा खोल्नुहोस्">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "नयाँ कन्टेनर ट्याबमा लिङ्क खोल्नुहोस">
+<!ENTITY openLinkCmdInContainerTab.accesskey "ज">
 <!ENTITY showOnlyThisFrameCmd.label     "यो फ्रेम मात्र देखाउनुहोस्">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -693,12 +693,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "सम्पन्न भयो">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "र">
 
 <!ENTITY identity.connectionSecure "जडानलाई सुरक्षित बनाउनुहोस्">
 <!ENTITY identity.connectionNotSecure "जडान सुरक्षित छैन">
 <!ENTITY identity.connectionFile "यो पृष्ठ तपाईँको कम्प्युटरमा भण्डारण छ।">
-
+<!ENTITY identity.connectionVerified2 "तपाईं सुरक्षित रूपमा यो साइटमा जोडिनु भएको छ, मालिक:">
 <!ENTITY identity.connectionInternal "यो सुरक्षित &brandShortName; पाना हो।">
 <!ENTITY identity.insecureLoginForms2 "यस पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।">
 <!-- Strings for connection state warnings. -->
