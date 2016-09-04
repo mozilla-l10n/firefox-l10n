@@ -7,7 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overridePageColors.label        "पानाले तोकेको रगंलाई मैले छनोट गरेको रगंले बिस्थापित गर्नुहोस्।">
-<!ENTITY  overridePageColors.accesskey    "O">
+<!ENTITY  overridePageColors.accesskey    "प">
 
 <!ENTITY  overridePageColors.always.label "सधैँ">
 <!ENTITY  overridePageColors.auto.label   "उच्च कन्ट्र्यास्ट आवरणहरूसँग मात्र">

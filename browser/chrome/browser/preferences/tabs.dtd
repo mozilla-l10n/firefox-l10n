@@ -5,7 +5,8 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab ले हालसालै प्रयोग गरिएका ट्याबहरु मा चक्र लगाउछ">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-
+<!ENTITY newWindowsAsTabs.label       "नयाँ सञ्झ्यालहरू नयाँ ट्याबमा खोल्नुहोस्">
+<!ENTITY newWindowsAsTabs.accesskey   "w">
 
 <!ENTITY warnCloseMultipleTabs.label  "बहुविध ट्याबहरू बन्द गर्न खोज्दा मलाई सचेत गर्नुहोस्">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
