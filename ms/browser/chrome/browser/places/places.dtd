@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Perpustakaan">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -106,7 +106,7 @@
 <!ENTITY detailsPane.more.accesskey "T">
 <!ENTITY detailsPane.less.label "Kurangkan">
 <!ENTITY detailsPane.less.accesskey "K">
-<!ENTITY detailsPane.selectAnItemText.description "Pilihlah satu butiran dan suntingkan ciri-cirinya">
+<!ENTITY detailsPane.selectAnItemText.description "Pilih satu item untuk dilihat dan diedit sifatnya">
 
 <!ENTITY find.label               "Carian:">
 <!ENTITY find.accesskey           "C">
