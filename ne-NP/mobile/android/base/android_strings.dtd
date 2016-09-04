@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "स्वागत छ">
+<!ENTITY firstrun_panel_title_welcome "स्वागतम">
 
-<!ENTITY firstrun_urlbar_message "स्वागत छ &brandShortName;मा">
-<!ENTITY firstrun_urlbar_subtext "उपयोगी खोज सुझावहरू, सर्टकटहरू प्रयोग गरि छिटो पत्ता लगाउनुहोस।">
+<!ENTITY firstrun_urlbar_message "&brandShortName; मा स्वागत छ">
+<!ENTITY firstrun_urlbar_subtext "उपयोगी खोज सुझावहरू, सर्टकटहरू प्रयोग गरि छिटो पत्ता लगाउनुहोस्।">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
-<!ENTITY firstrun_bookmarks_message "तपाइको फेभ्स, अगाडि र बीच">
+<!ENTITY firstrun_bookmarks_message "तपाईंको मन पर्ने, अगाडि र केन्द्र">
 <!ENTITY firstrun_bookmarks_subtext "तपाईँले खोजी गर्दा तपाईँको बुकमार्क र इतिहासबाट परिणाम प्राप्त गर्नुहोस।">
 <!ENTITY firstrun_data_title "डाटा">
 <!ENTITY firstrun_data_message "कम डाटा, अधिक बचतहरु">
@@ -31,11 +31,11 @@
 
 <!ENTITY firstrun_readerview_title "लेखहरू">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-<!ENTITY firstrun_readerview_message "अव्यवस्था गुमाउने">
-<!ENTITY firstrun_readerview_subtext "लेखहरु \u2014 अफलाइनमा पनि अझ राम्र्री पढ्न पाठक मोडमा प्रबेश गर्नुहोस।">
+<!ENTITY firstrun_readerview_message "अव्यवस्था गुमाउनुहोस">
+<!ENTITY firstrun_readerview_subtext "लेखहरु \u2014 अफलाइनमा पनि अझ राम्ररी पढ्न पाठक मोडमा प्रबेश गर्नुहोस।">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
-<!ENTITY firstrun_account_title "तपाईं">
+<!ENTITY firstrun_account_title "तपाई">
 <!ENTITY firstrun_account_message "के तपाईंसँग अर्को उपकरणमा &brandShortName; छ?">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; को यो सरल सँस्करणसँग सुरक्षित र आफ्नो नियन्त्रणमा रहनुहोस्।">
