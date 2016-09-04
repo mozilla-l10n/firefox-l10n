@@ -13,7 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "तपाईं निजी ब्रावोजिङमा हुनु हुन्न।">
 
-
+<!ENTITY privatebrowsingpage.description.trackingProtection "तपाईंको ब्राउजिङ गतिविधि ट्रयाक गर्न सक्ने पृष्ठहरूमा &brandShortName; ले बन्देज गर्नेछ।">
+<!ENTITY privatebrowsingpage.description.privateDetails "हामीलाई कुनै पनि इतिहास याद हुनेछैन, तर डाउनलोड फाइल र नयाँ पुस्तकचिनो तपाइंको उपकरणमा सुरक्षित गरिनेछ।">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
