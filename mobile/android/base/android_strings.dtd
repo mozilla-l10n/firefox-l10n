@@ -619,7 +619,7 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "रोजिएको उपकरणहरुलाई नलुकाउनुहोस्। ">
 
 <!ENTITY remote_tabs_panel_moved_title "मेरो ट्याबहरु कहाँ गयो? ">
-
+<!ENTITY remote_tabs_panel_moved_desc "तपाइले हरेक पटक नयाँ ट्याब खोल्दा पहुंच सहज बनाउन तपाइको अन्य उपकरणहरुबाट ट्याबहरु तपाइको गृह पृष्ठको एउटा प्यानलमा सारिसकेका छाैं।">
 <!ENTITY remote_tabs_panel_moved_link "मलाई मेरो नयाँ नामावलीमा लैजानुहोस्। ">
 
 <!ENTITY pin_site_dialog_hint "सर्च गर्ने शब्द लेख्नुहोस्। ">
@@ -703,6 +703,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "फाइल र अद्यावधिक डाउनलोड गर्न, &brandShortName; अनुमतिलाइ भण्डारण पहँचको अनुमति दिनुहोस्।">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "अनुमति दिनुहोस्">
 <!-- Guest mode -->    
@@ -712,12 +714,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "जारी राख्नुहोस्">
 <!ENTITY guest_session_dialog_cancel "रद्द गर्नुहोस्">
 <!ENTITY new_guest_session_title "&brandShortName; पुन: सुचारू हुन्छ">
-
+<!ENTITY new_guest_session_text2 "यो प्रयोग गर्ने व्यक्तिले तपाइको कुनै पनि निजि ब्राऊउजिङ डाटा (जस्तै सुरक्षित लगइनहरू, इतिहास वा बुक्मार्कहरु)।\n\nजब तपाइको अतिथिको कार्य पुरा हुन्छ, उनको ब्राउजिङ डाटा मेटाइन्छ र तपाइको सत्र पुनर्स्थापित हुनेछ।">
 <!ENTITY guest_browsing_notification_title "अतिथि ब्राउजिङ सक्षम पारिएको छ">
 <!ENTITY guest_browsing_notification_text "बाहिर निस्कन छुनुहोस्">
 
 <!ENTITY exit_guest_session_title "&brandShortName; पुन: सुचारू हुन्छ">
-
+<!ENTITY exit_guest_session_text "यस सत्रबाट ब्राउजिङ डाटा मेटाइनेछ।">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
@@ -751,10 +753,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "&formatS; मा अन्तिम पटक सिङ्क गरिएको">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "अन्तिम सिङ्क: कहिल्यै गरिएन">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+
+<!ENTITY intent_uri_private_browsing_prompt "यो लिङ्क &formatS;मा खुल्नेछ। के तपाइ निजि ब्राउजिङबाट पक्का बाहिर निस्कन चाहनुहुन्छ?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -762,38 +767,48 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "निजि ब्राउजिङबाट बाहिर निस्कने?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "तपाइको अन्य उपकरणमा प्रदर्शित QR कोड स्क्यान गरिदै।">
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "एड-अनहरु">
-
+<!ENTITY restrictable_feature_addons_installation_description "फायरफक्समा विशेषताहरू वा कार्यात्मकता थप्नुहोस्। नोट: एडअनहरुले केही प्रतिबन्धहरु अक्षम गर्न सक्छन्।">
 <!ENTITY restrictable_feature_private_browsing "निजी ब्राउजिङ">
-
+<!ENTITY restrictable_feature_private_browsing_description "परिवारका सदस्यहरूले भ्रमण गर्नुभएका साइटहरू र पृष्ठहरू बारेमा जानकारी बचत नगरी भ्रमण गर्न अनुमति दिन्छ।">
 <!ENTITY restrictable_feature_clear_history "इतिहास हटाउनुहोस्">
-
-
-
-
-
-
-
+<!ENTITY restrictable_feature_clear_history_description "परिवारका सदस्यहरूले भ्रमण गर्नुभएका साइटहरू र पृष्ठहरू बारेमा रहेका जानकारी मेटाउन अनुमति दिन्छ।">
+<!ENTITY restrictable_feature_advanced_settings "अत्याधुनिक सेटिङ्हरु">
+<!ENTITY restrictable_feature_advanced_settings_description "यसमा बुकमार्क आयात गर्ने, ट्याबहरू पुनस्थापना गर्ने र स्वचालित अद्यावधिकहरु समावेश छन्। कुनै पनि उपयुक्त परिवारको सदस्यका लागि सरलीकृत सेटिङहरूका लागि बन्द गर्नुहोस्।">
+<!ENTITY restrictable_feature_camera_microphone "क्यामेरा र माइक्रोफोन">
+<!ENTITY restrictable_feature_camera_microphone_description "परिवारका सदस्यहरूलाइ वेबसाइटहरूमा वास्तविक समय संचारमा संलग्न गर्न अनुमति दिन्छ।">
+<!ENTITY restrictable_feature_block_list "रोक सूचीहरू">
+<!ENTITY restrictable_feature_block_list_description "संवेदनशील सामग्री समावेश भएका वेबसाइटहरु ब्लक गर्नुहोस्।">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "फायरफक्स: तपाइको ब्राउजरको बारेमा">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "फायरफक्स: एडअनहरुको साथ अनुकूलित बनाउनुहोस्">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "फायरफक्स: समर्थन">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "एन्ड्रोइड पाटीमा प्रतिबन्धित प्रोफाइलका लागि फायरफक्स सहायता र समर्थन">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "वेबको बारेमा सिक्नुहोस्: Mozilla Webmaker">
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+
+<!ENTITY unsupported_sdk_version "माफ गर्नुहोस्! यो &brandShortName; यस उपकरणमा काम गर्ने छैन (&formatS1;, &formatS2;)। कृपया सही संस्करण डाउनलोड गर्नुहोस्।">
 
 <!ENTITY eol_notification_title2 "&brandShortName; अब अद्यावधिक हुँदैन">
 <!ENTITY eol_notification_summary "अरू जान्नको लागि यहाँ थिच्नुहोस्">
@@ -806,10 +821,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "गृह पर्दामा थप्नुहोस">
 
 <!ENTITY helper_first_offline_bookmark_title "अफलाइन पढ्नुहोस्">
-
+<!ENTITY helper_first_offline_bookmark_message "बुक्मार्कसमा तपाईंको पाठक वस्तुहरू भेट्टाउनुहोस्, अफलाइन हुंदा पनि।">
 <!ENTITY helper_first_offline_bookmark_button "पुस्तकचिनोहरूमा जानुहोस्">
 
 <!ENTITY helper_triple_readerview_open_title "अफलाइन उपलब्ध छ">
-
+<!ENTITY helper_triple_readerview_open_message "अफलाइन पढ्नका लागि बुक्मार्क पाठक वस्तुहरु।">
 <!ENTITY helper_triple_readerview_open_button "पुस्तकचिनोहरूमा थप्नुहोस्">
 

@@ -2,10 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY feedbackHeader2.label          "प्रतिक्रिया उपकरणहरु">
 
+<!ENTITY feedback.communicate.title     "हामीसंग अन्तरकृिया गर्नुहोस्!">
+<!ENTITY feedback.feedback.title        "प्रतिकृिया दिनुहोस्">
+<!ENTITY feedback.feedback.good         "राम्रो">
+<!ENTITY feedback.feedback.bad          "खराब">
 
-
-
-
-
-
+<!ENTITY feedback.tools.title           "उपकरणहरु">
+<!ENTITY feedback.allowTelemetry.title  "प्रदर्शन डाटा पठाउनुहोस्">
+<!ENTITY feedback.forceCompat.title     "एडअन अनुकूलतामा जबरजस्ती गर्ने">
+<!ENTITY feedback.errorConsole.title    "त्रुटि कन्सोल सक्षम पार्नुहोस्">

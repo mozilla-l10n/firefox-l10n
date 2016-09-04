@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sync.title                 "समक्रमण">
-
+<!ENTITY sync.notconnected          "जडान गरिएको छैन">
 <!ENTITY sync.connect               "जडान गर्नुहोस्">
 <!ENTITY sync.connected             "जडान भयो">
 <!ENTITY sync.details               "विवरणहरू">
@@ -14,8 +14,8 @@
 <!ENTITY sync.setup.title           "सिङ्कमा जडान गर्नुहोस्">
 <!ENTITY sync.setup.pair            "सक्रिय गर्नलाई, &quot;उपकरणसँग जोडि बनाउनुहोस् &quot; छान्नुहोस्।">
 <!ENTITY sync.fallback              "म मेरो कम्प्युटर नजिक छैन…">
-
-
+<!ENTITY sync.setup.manual          "तपाईंको सिंङ्क खाताको जानकारी दिनुहोस्">
+<!ENTITY sync.account               "खाताको नाम">
 <!ENTITY sync.password              "पासवर्ड">
 <!ENTITY sync.recoveryKey           "पुनर्स्थापना साँचो">
 <!ENTITY sync.customServer          "अनुकूल सर्भर प्रयोग गर्नुहोस्">
@@ -28,4 +28,4 @@
 <!ENTITY sync.pair.title            "यन्त्रसँग जोड्नुहोस्">
 <!ENTITY sync.pair.description      "तपाईँको नयाँ उपकरण सक्रिय गराउन, उपकरणमा &quot;सिङ्क सेट अप&quot; चयन गर्नुहोस्।">
 <!ENTITY sync.setup.close           "बन्द गर्नुहोस्">
-
+<!ENTITY sync.setup.waitingdownload "तपाईंको डाटा अब पृष्ठभूमिमा डाउनलोड भइरहेको छ। तपाईंले कुनै पनि समयमा यो सन्झयाल बन्द गर्न सक्नुहुन्छ।">
