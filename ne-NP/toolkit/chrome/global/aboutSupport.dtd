@@ -25,9 +25,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentId "आईडी">
 <!ENTITY aboutSupport.experimentDescription "वर्णन">
 <!ENTITY aboutSupport.experimentActive "सक्रिय पार्नुहोस्">
-
+<!ENTITY aboutSupport.experimentEndDate "समाप्ति मिति">
 <!ENTITY aboutSupport.experimentHomepage "गृहपृष्ठ">
-
+<!ENTITY aboutSupport.experimentBranch "शाखा">
 
 <!ENTITY aboutSupport.appBasicsTitle "अनुप्रयोगका आधारहरू">
 <!ENTITY aboutSupport.appBasicsName "नाम">
@@ -35,6 +35,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "अद्यावधिक प्रणाली">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "अद्यावधिक इतिहास">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "अद्यावधिक इतिहास देखाउनुहोस्">
 
@@ -47,13 +49,14 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "सक्षम गरिएका प्लगइनहरू">
 <!ENTITY aboutSupport.appBasicsBuildConfig "कन्फिगरेसन बनाउनुहोस्">
 <!ENTITY aboutSupport.appBasicsUserAgent "प्रयोगकर्ता-प्रतिनिधि">
-
+<!ENTITY aboutSupport.appBasicsOS "ओ एस्">
 <!ENTITY aboutSupport.appBasicsMemoryUse "स्मृति प्रयोग">
-
+<!ENTITY aboutSupport.appBasicsPerformance "कार्यसम्पादन">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "दर्ता भएका Service Workers">
 
+<!ENTITY aboutSupport.appBasicsProfiles "प्रोफाइलहरू">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "बहुप्रक्रिया सञ्झ्यालहरू">
 
