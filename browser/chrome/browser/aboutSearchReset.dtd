@@ -6,7 +6,6 @@
 
 <!ENTITY searchreset.pageTitle      "तपाईको खोज सेटिङ पुनर्स्थापना गर्नुहुन्छ?">
 
-<!ENTITY searchreset.pageInfo1      "सायद तपाईको खोज सेटिङ मिति भन्दा बाहिर छ। फायरफक्सले; यसलाई पुनर्स्थापना गर्न मदत्त गर्नसक्छ।">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
 
