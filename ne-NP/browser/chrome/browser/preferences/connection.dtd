@@ -32,8 +32,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-
-
+<!ENTITY  socksRemoteDNS.label2         "SOCKS v5 प्रयोग गर्दा DNS प्रोक्सी गर्नुहोस">
+<!ENTITY  socksRemoteDNS.accesskey      "द ">
 <!ENTITY  port.label                    "पोर्ट:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
