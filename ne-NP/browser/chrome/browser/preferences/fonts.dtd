@@ -47,7 +47,7 @@
 <!ENTITY  font.langGroup.khmer                    "खमेर">
 <!ENTITY  font.langGroup.malayalam                "मलायलम">
 <!ENTITY  font.langGroup.math                     "गणित">
-
+<!ENTITY  font.langGroup.odia                     "उडिया">
 <!ENTITY  font.langGroup.telugu                   "तेल्गु">
 <!ENTITY  font.langGroup.kannada                  "कन्नाडा">
 <!ENTITY  font.langGroup.sinhala                  "सिन्हाली">
@@ -65,9 +65,9 @@
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "पुरानो सामग्रीको लागि वर्ण एन्कोडिंग">
-
-
-
+<!ENTITY languages.customize.Fallback2.label      "निवर्तमान र पाठ सङ्केतन">
+<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback2.desc       "आफ्नो संकेतन देखाउन नसक्ने सामग्रीमा यो संकेतन प्रयोग गरिन्छ।">
 
 <!ENTITY languages.customize.Fallback.auto        "वर्तमान स्थानीयका लागि पूर्वनिर्धारित">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):

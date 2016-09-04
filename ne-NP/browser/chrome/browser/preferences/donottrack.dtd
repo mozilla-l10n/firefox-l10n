@@ -6,6 +6,8 @@
 
 
 
+<!ENTITY doNotTrackCheckbox2.label    "सधैँ पिछा नगर्नु लागु गर्नुहोस">
+<!ENTITY doNotTrackCheckbox2.accesskey "स">
 
-
+<!ENTITY doNotTrackTPInfo.description "जहिले ट्रयाकिङ्ग सुरक्षा चालु रहन्छ तब &brandShortName; ले तपाईलाई पिछा नगर्न संकेत पठाउने छ। ">
 <!ENTITY doNotTrackLearnMore.label    "अझ जान्नुहोस्">
