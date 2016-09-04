@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY newWindowsAsTabs.label       "Dobrir las fenèstras novèlas puslèu dins un onglet novèl">
+<!ENTITY newWindowsAsTabs.accesskey   "g">
 
 <!ENTITY warnCloseMultipleTabs.label  "M'alertar quand tampi mai d'un onglet">
 <!ENTITY warnCloseMultipleTabs.accesskey  "a">
