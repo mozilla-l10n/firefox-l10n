@@ -18,5 +18,6 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "अवाञ्छित सफ्टवेयर साइटबारे प्रतिवेदन पठाइयो!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "यो साइटमा <span id='unwanted_sitename'/>अनावस्यक सफ्टवेयर भएको प्रतिवेदन दिइएको छ र तपाईंको सुरक्षा प्राथमिकताहरूका अनुसार अबरुद्द गरिएको छ।">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "अनावस्यक सफ्टवेयर पृष्ठहरूले जाली र तपाईँको प्रणालीलाई हानी गर्ने सफ्टवेयरहरू स्थापना गर्न सक्छ।">
 

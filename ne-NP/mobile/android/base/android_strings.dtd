@@ -2,32 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "स्वागतम">
+<!ENTITY firstrun_panel_title_welcome "स्वागत छ">
 
-<!ENTITY firstrun_urlbar_message "&brandShortName; मा स्वागत छ">
-<!ENTITY firstrun_urlbar_subtext "उपयोगी खोज सुझावहरू, सर्टकटहरू प्रयोग गरि छिटो पत्ता लगाउनुहोस्।">
+<!ENTITY firstrun_urlbar_message "स्वागत छ &brandShortName;मा">
+<!ENTITY firstrun_urlbar_subtext "उपयोगी खोज सुझावहरू, सर्टकटहरू प्रयोग गरि छिटो पत्ता लगाउनुहोस।">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
 <!ENTITY firstrun_bookmarks_message "तपाइको फेभ्स, अगाडि र बीच">
-<!ENTITY firstrun_bookmarks_subtext "तपाईँले खोजी गर्दा तपाईँको बुकमार्क र इतिहासबाट परिणाम प्राप्त गर्नुहोस्।">
-<!ENTITY firstrun_data_title "डेटा">
-<!ENTITY firstrun_data_message "कम डाटा, अधिक बचत">
-<!ENTITY firstrun_data_subtext2 "तपाईँले प्रयोग गर्ने हरेक साइटमा कम डाटा खर्च गर्न तस्विरहरू बन्द गर्नुहोस्।">
+<!ENTITY firstrun_bookmarks_subtext "तपाईँले खोजी गर्दा तपाईँको बुकमार्क र इतिहासबाट परिणाम प्राप्त गर्नुहोस।">
+<!ENTITY firstrun_data_title "डाटा">
+<!ENTITY firstrun_data_message "कम डाटा, अधिक बचतहरु">
+<!ENTITY firstrun_data_subtext2 "तपाईँले प्रयोग गर्ने हरेक साइटमा कम डाटा खर्च गर्न तस्विरहरू बन्द गर्नुहोस।">
 <!ENTITY firstrun_sync_title "सिङ्क">
 <!ENTITY firstrun_sync_message "&brandShortName;, सधैं तपाईँको पक्षमा">
 <!ENTITY firstrun_sync_subtext "आफ्नो ट्याब, पासवर्ड सिङ्क गरि सबैतिर यसलाई प्रयोग गर्नुहोस्।">
 <!ENTITY firstrun_signin_message "जडान गरि, सुरु हुनुहोस्">
-<!ENTITY firstrun_signin_button "सिङ्क मा साइन इन गर्नुहोस्">
-<!ENTITY  onboard_start_button_browser "ब्राउजिङ सुरु गर्नुहोस्">
+<!ENTITY firstrun_signin_button "सिङ्क मा साइन इन गर्नुहोस">
+<!ENTITY  onboard_start_button_browser "ब्राउजिङ सुरु गर्नुहोस">
 <!ENTITY firstrun_button_notnow "अहिले हैन">
 <!ENTITY firstrun_button_next "अर्को">
 
 <!ENTITY firstrun_tabqueue_title "लिङ्कहरू">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "ट्याब कतार सक्रिय पार्नुहोस्">
-<!ENTITY firstrun_tabqueue_subtext_off "पछको लागि &brandShortName; लिङ्क सुरक्षित; जब अन्य एप्सहरूमा तिनीहरूलाई ट्याप गर्दा.">
+<!ENTITY firstrun_tabqueue_message_off "ट्याब कतार सक्रिय पार्नुहोस">
+<!ENTITY firstrun_tabqueue_subtext_off "पछिको लागि &brandShortName; लिङ्कहरु सुरक्षित; जब अन्य एप्सहरूमा तिनीहरूलाई ट्याप गर्दा.">
 
 <!ENTITY firstrun_tabqueue_message_on "सफल!">
-<!ENTITY firstrun_tabqueue_subtext_on "&settings; मुनी &pref_category_general;मा यसलाई जतिखेर पनि बन्द गर्न सक्नुहुन्छ।">
+<!ENTITY firstrun_tabqueue_subtext_on "&settings; मुनी &pref_category_general;मा यसलाई जतिखेर पनि बन्द गर्न सक्नुहुनेछ।">
 
 <!ENTITY firstrun_readerview_title "लेखहरू">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
