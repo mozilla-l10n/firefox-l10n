@@ -4,8 +4,9 @@
 
 <!ENTITY offlineDialog.title "Iɣewwaṛen n uskar aruqqin">
 
-
-
+<!ENTITY checkAutoDetect.label "Ḍfeṛ s wudem awurman addad s srid i yettwafen">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "Addad s ufus di tnekra:">
 
 
 <!ENTITY radioAskState.label "Suter-iyi-d ɣef waddad uqqin">

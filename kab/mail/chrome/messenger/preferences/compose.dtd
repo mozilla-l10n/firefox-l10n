@@ -10,7 +10,7 @@
 
 <!ENTITY forwardMsg.label                     "Welleh iznan:">
 <!ENTITY forwardMsg.accesskey                 "z">
-
+<!ENTITY inline.label                         "Deg umnaḍ">
 <!ENTITY asAttachment.label                   "Am umedday">
 <!ENTITY addExtension.label                   "Rnu asi qzef i yisem n ufaylu">
 <!ENTITY addExtension.accesskey               "e">

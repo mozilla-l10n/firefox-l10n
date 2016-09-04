@@ -63,7 +63,7 @@
 <!-- fonts in message -->
 
 <!ENTITY  fontControl.label                       "Asenqed n tsefsit">
-
+<!ENTITY  useFixedWidthForPlainText.label         "Seqdec tehri tusbiṭ i yeznan n uḍris aččuran">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Sireg iznan akken ad sqedcen tisefsiyin nniḍen.">
 <!ENTITY  useDocumentFonts.accesskey              "S">

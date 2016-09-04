@@ -20,10 +20,14 @@
 <!ENTITY quotedTextColor.label            "Tiɣmi:">
 <!ENTITY quotedTextColor.accesskey        "m">
 <!ENTITY displayWidth.label               "Iznan n udris ačuṛan">
-
+<!ENTITY displayText.label                "Ticki teskaneḍ-d iznan n uḍris aččuran i yettwabedren:">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!ENTITY convertEmoticons.label        "Skeyn iẓuyaṛ am idlifen">
+<!ENTITY convertEmoticons.accesskey    "ẓ">
 <!-- labels -->
+
+<!ENTITY displayTagsText.label     "Tibzimin zemrent ad ttwasqedcent akken ad gent taggayin neɣ ad smizzewrent iznan inek.">
 <!ENTITY addTagButton.label        "Rnu">
 <!ENTITY addTagButton.accesskey    "R">
 <!ENTITY editTagButton.label       "Ẓreg">

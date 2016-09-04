@@ -78,10 +78,10 @@
 <!ENTITY pasteCmd.accesskey "n">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-
+<!ENTITY editRewrapCmd.accesskey "Z">
 <!ENTITY deleteCmd.label "Kkes">
 <!ENTITY deleteCmd.accesskey "K">
-
+<!ENTITY editRewrapCmd.label "Zzi-yas i uḍris tikelt nniḍen">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Snifel isem n tceqquft yeddan…">
 <!ENTITY renameAttachmentCmd.accesskey "f">
@@ -135,8 +135,8 @@
 <!ENTITY checkSpellingCmd2.accesskey "S">
 <!ENTITY enableInlineSpellChecker.label "Senqed taɣdira mara  teţaruḍ">
 <!ENTITY enableInlineSpellChecker.accesskey "q">
-
-
+<!ENTITY quoteCmd.label "Bder-d izen">
+<!ENTITY quoteCmd.accesskey "B">
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
 <!ENTITY attachVCard.label "Seddu takarda tudmawant (vCard)">
@@ -211,7 +211,7 @@
 
 <!ENTITY sendButton.tooltip "Azen Izen agi tura">
 <!ENTITY sendlaterButton.tooltip "Azen izen agi ticki">
-
+<!ENTITY quoteButton.tooltip "Bder-d izen yezrin">
 <!ENTITY addressButton.tooltip "Fren aɣerwaḍ seg imedlis n tensa">
 <!ENTITY attachButton.tooltip "Seddu amedday">
 <!ENTITY spellingButton.tooltip "Seɣti taɣdira n ufran neɣ izen imeṛṛa">
