@@ -60,11 +60,11 @@
 <!ENTITY fxaccount_status_sync_server "साधनको नामः">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;">
-
+<!ENTITY fxaccount_status_needs_verification2 "तपाईंको खाता प्रमाणिकरण गर्न आवश्यक छ। प्रमाणीकरण ईमेल पुन: पठाउन ट्याप गर्नुहोस्।">
 <!ENTITY fxaccount_status_needs_credentials "संपर्क सफल भएन। भित्र जान यहाँ छुनुहोस्  ">
-
-
-
+<!ENTITY fxaccount_status_needs_upgrade "तपाईंले साइन इन गर्नको लागि &brandShortName; स्तरवृद्धि गर्न आवश्यक छ।">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; सेटअप छ, तर सिङ्किङ स्वचालित छैन। एन्ड्रोइड सेटिङहरू &gt; डाटा उपयोगमा \&quot;स्वचालित सिङ्क डेटा\&quot; टोगल गर्नुहोस्।">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; सेटअप छ, तर सिङ्किङ स्वचालित छैन। एन्ड्रोइड सेटिङहरू &gt;खाताहरुमा \&quot;स्वचालित सिङ्क डेटा\&quot; टोगल गर्नुहोस्।">
 <!ENTITY fxaccount_status_needs_finish_migrating "Firefox को नयाँ खातामा जानको लागि लगिन गर्न यहाँ छुनुहोस्">
 <!ENTITY fxaccount_status_bookmarks "पुस्तकचिनो">
 <!ENTITY fxaccount_status_history "इतिहास">
@@ -77,14 +77,16 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 "सेवाका सर्तहरू">
 <!ENTITY fxaccount_status_linkprivacy2 "गोपनीयता नीति">
+<!ENTITY fxaccount_status_more "अझै&ellipsis;">
+<!ENTITY fxaccount_remove_account "जडान अन्त&ellipsis;">
 
-
-
-
+<!ENTITY fxaccount_remove_account_dialog_title "फायरफक्स खाता हटाउने?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;ले तपाईँको खातासँग समन्वयन गर्न रोक्नेछ, तर यो कम्प्युटरमा तपाईँको ब्राउजिङ डेटा मेटिने छैन।">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox खाता &formatS; हटाइयो।">
 
+<!ENTITY fxaccount_enable_debug_mode "त्रुटि मोड सक्षम पार्नुहोस्">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
@@ -105,18 +107,20 @@
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "खाता पहिले नै छ। &formatS1;">
-
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "अमान्य इ-मेल ठेगाना वा पासवर्ड">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "अमान्य प्रयोगकर्ता नाम वा पासवर्ड">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "खाता प्रमाणित छैन">
-
-
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "सर्भर व्यस्त, छिट्टै पून:प्रयास गर्नुहोस्">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "सर्भर व्यस्त, छिट्टै पून:प्रयास गर्नुहोस्">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "त्यहाँ समस्या थियो">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "खाता बन्द गरिएको छ। &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; जडान भएको छैन">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; भएर भित्र जान छुनुहोस्। ">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; अपग्रेड गरेर सिद्धियो?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; भएर भित्र जान छुनुहोस्। ">
