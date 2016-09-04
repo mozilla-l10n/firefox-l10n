@@ -45,7 +45,8 @@
 <!ENTITY  acceptCookies.label           "Acceptar de cookies de sites">
 <!ENTITY  acceptCookies.accesskey       "c">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Acceptar los cookies tèrces :">
+<!ENTITY  acceptThirdParty.pre.accesskey  "t">
 <!ENTITY  acceptThirdParty.always.label   "Totjorn">
 <!ENTITY  acceptThirdParty.never.label    "Pas jamai">
 <!ENTITY  acceptThirdParty.visited.label  "dempuèi los sites visitats">
@@ -103,6 +104,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Paramètres…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-
+<!ENTITY  browserContainersLearnMore.label      "Ne saber mai">
 
 
