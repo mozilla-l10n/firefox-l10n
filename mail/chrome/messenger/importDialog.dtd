@@ -34,6 +34,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "V">
 <!ENTITY acctName.label "Nafn:">
 <!ENTITY acctName.accesskey "N">
+<!ENTITY noModulesFound.label "Engin skrá eða forrit fannst til að flytja inn gögn.">
 <!ENTITY back.label "&lt; Til baka">
 <!ENTITY forward.label "Áfram &gt;">
 <!ENTITY finish.label "Ljúka">

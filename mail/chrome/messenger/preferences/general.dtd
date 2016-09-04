@@ -17,6 +17,7 @@
 <!ENTITY playSound1.accesskey "h">
 <!ENTITY showAnimatedAlert.label "Sýna glugga">
 <!ENTITY showAnimatedAlert.accesskey "g">
+<!ENTITY notificationAlertSettings.label "Hægt er að gera viðvaranir óvirkar á tilkynningarflipa í kerfisvalkostum.">
 <!ENTITY customizeMailAlert.label "Sérsníða…">
 <!ENTITY customizeMailAlert.accesskey "S">
 <!ENTITY showTrayIcon.label "Sýna sem táknmynd í bakka">
