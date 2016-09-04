@@ -110,13 +110,16 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 
-<!ENTITY certerror.pagetitle1  "असुरक्षित जडान">
+<!ENTITY certerror.wrongSystemTime "<p>यस्मा <span id='wrongSystemTime_URL'/> सुरक्षित जडान सम्भव छैन किनभने तपाईंको घडीले गलत समय देखाएको जस्तो देखिन्छ।</p><p>तपाईको सुसांख्य यन्त्र ले यो सोच्दै छ <span id='wrongSystemTime_systemDate'/> जब कि यो <span id='wrongSystemTime_actualDate'/>हुनु पर्थ्यो। यो समस्या समाधान गर्न, तपाईको मिति र समय सेटिङ्गहरुलाई सही समयमा परिवर्तन गर्नुहोस।</p>">
 
+<!ENTITY certerror.pagetitle1  "असुरक्षित जडान">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "यो साइटले &brandShortName; निर्दिष्ट गर्न HTTP Strict Transport Security (HSTS) प्रयोग गर्छ। केवल सुरक्षित जडान को लागि । फलस्वरूप, यो प्रमाणपत्रको लागि अपवाद थप्न सम्भव छैन।">
 <!ENTITY certerror.copyToClipboard.label "क्लिपबोर्डमा पाठ प्रतिलिपि गर्नुहोस्">
 
 <!ENTITY inadequateSecurityError.title "तपाईँको जडान सुरक्षित छैन">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ले सुरक्षा टेक्नोलोजी चलाउछ जून मिति गुज्रेको छ र आक्रमण प्रति असुरक्षित छ. हमलाकरिले गोप्य कुरा सजिलै खोल्न सक्छ जून तपाईले सुरक्षित छ भनेर सोच्नु हुन्छ. वेबसाइट मुख्य प्रबन्धकले साइट हेर्नु भन्दा पहिले सर्भर निर्धारित गर्नु पर्छ.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>   .    ">
 
 <!ENTITY prefReset.longDesc "तपाईको नेटवर्क सुरक्षा सेटिङ्हरूका कारण यो पैदा भएको जस्तो देखिन्छ। के तपाईं पूर्वनिर्धारित सेटिङहरू पुनःस्थापित गर्न चाहनुहुन्छ?">
 <!ENTITY prefReset.label "पूर्वनिर्धारित सेटिङहरू पूर्वावस्थामा ल्याउनुहोस्">
