@@ -11,11 +11,6 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (performanceUI.startRecording/performanceUI.stopRecording): These are
-  -  the labels shown on the main recording buttons to start/stop recording. -->
-<!ENTITY performanceUI.startRecording "Lancer l’enregistrement des performances">
-<!ENTITY performanceUI.stopRecording  "Arrêter l’enregistrement des performances">
-
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "Le profileur stocke les échantillons dans un tampon circulaire. Une fois que la limite de ce tampon est atteinte lors d’un enregistrement, les nouveaux échantillons commencent à remplacer les premiers échantillons de l’enregistrement.">
@@ -42,18 +37,6 @@
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 <!ENTITY performanceUI.loadingNotice "Chargement…">
-
-<!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed
-  -  on a button that starts a new profile. -->
-<!ENTITY performanceUI.recordButton.tooltip "Enregistrer les appels de fonctions JavaScript.">
-
-<!-- LOCALIZATION NOTE (performanceUI.importButton): This string is displayed
-  -  on a button that opens a dialog to import a saved profile data file. -->
-<!ENTITY performanceUI.importButton "Importer…">
-
-<!-- LOCALIZATION NOTE (performanceUI.clearButton): This string is displayed
-  -  on a button that removes all the recordings. -->
-<!ENTITY performanceUI.clearButton "Effacer">
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
