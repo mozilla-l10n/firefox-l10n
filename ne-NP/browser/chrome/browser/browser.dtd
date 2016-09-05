@@ -42,8 +42,8 @@ can reach it easily. -->
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "साधन मा ट्याब पठाउनुहोस">
 <!ENTITY  sendTabToDevice.accesskey          "स">
-<!ENTITY  sendPageToDevice.label             "उपकरणमा पृष्ठ पठाउनुहोस">
-<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendPageToDevice.label             "उपकरणमा पृष्ठ पठाउनुहोस्">
+<!ENTITY  sendPageToDevice.accesskey         "उ">
 <!ENTITY  sendLinkToDevice.label             "उपकरणमा लिङ्क पठाउनुहोस">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "नयाँ सञ्झ्यालमा सार्नुहोस्">

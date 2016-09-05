@@ -39,7 +39,7 @@
 <!ENTITY setup.tosAgree1.label      "म सहमत">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "सेवाको सर्तहरू">
-<!ENTITY setup.tosAgree2.label      "र">
+<!ENTITY setup.tosAgree2.label      "र यो">
 <!ENTITY setup.ppLink.label         "गोपनीयता निति">
 <!ENTITY setup.tosAgree3.label      "‌">
 <!ENTITY setup.tosAgree2.accesskey  "‌">
