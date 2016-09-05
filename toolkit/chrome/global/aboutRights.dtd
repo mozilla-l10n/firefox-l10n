@@ -17,12 +17,14 @@
 
 <!ENTITY rights.intro-point1a "&brandShortName; यी शर्तहरू अन्तर्गत उपलब्ध छ ">
 <!ENTITY rights.intro-point1b "मोजिल्ला सार्वजनिक इजाजतपत्र">
-
+<!ENTITY rights.intro-point1c "। यसको अर्थ, तपाईले &brandShortName; प्रयोग गर्नुका साथै, प्रतिलिपि बनाउन र अरुलाई बाँड्न पनि सक्नुहुन्छ।  &brandShortName; को स्रोत कोडलाई अाफ्नो चाहना अनुरुप बदल्न पनि तपाईलाई स्वागत छ। मोजिल्ला सार्वजनिक अधिकारले तपाईको बदलिएको संस्करणहारु बाड्ने अधिकार पनि तपाईलाई दिएको छ।">
 
 <!ENTITY rights.intro-point2-a "तपाईँ Mozilla Foundation वा कुनै पनि पार्टीको ट्रेडमार्क अधिकार वा लाइसेन्स प्रदान गरिएको छैन। साथै तपाईँलाई Firefox को नाम र लोगो पनि प्रयोगमा पनि असीमित अधिकार छैन। ट्रेडमार्क सम्बन्धी थप जानकारी पाउन सकिन्छ। ">
 <!ENTITY rights.intro-point2-b "यहाँ">
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
+
+<!ENTITY rights.intro-point2.5 "&brandShortName; को केहि मा सुविधाहरु जस्तै क्र्यास रिपोर्टरले &vendorShortName; लाई पृष्ठपोषण पठाउने विकल्प तपाईलाई दिन्छन्। पृष्ठपोषण निवेदन छानेर, तपाईले &vendorShortName; लाई पृष्ठपोषण प्रयोग गरेर उत्पादन सुधार्ने, वेबसाइटमा पृष्ठपोषण प्रकाशन गर्ने र पृष्ठपोषण वितरण गर्ने अनुमति दिनसक्नुहुन्छ ।">
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3b "&brandShortName; गोपनीयता निति">
 <!ENTITY rights.intro-point3c ".">
