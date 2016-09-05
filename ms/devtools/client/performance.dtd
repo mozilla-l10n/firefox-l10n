@@ -59,8 +59,10 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Waterfall">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Tunjukkan operasi berbeza yang dilaksanakan pelayar semasa rakaman, disusun secara berurutan sebagai waterfall.">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Serlahkan fungsi JavaScript masa pelayar yang paling banyak digunakan semasa rakaman.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Peruntukan">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Carta JS Flame">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Pamer susunan panggilan JavaScript sepanjang rakaman.">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -68,6 +70,7 @@
 <!ENTITY performanceUI.table.totalPercentage          "Jumlah Kos">
 <!ENTITY performanceUI.table.samples                  "Contoh">
 <!ENTITY performanceUI.table.function                 "Fungsi">
+<!ENTITY performanceUI.table.function.tooltip         "Nama dan sumber lokasi fungsi yang menjadi sampel.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
