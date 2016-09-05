@@ -98,6 +98,10 @@ Ping
   Bloccadas dal thread
 ">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Scalars
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Istograms
 ">
