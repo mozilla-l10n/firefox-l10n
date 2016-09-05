@@ -759,7 +759,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "B">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Buka dalam Tetingkap Persendirian Baru">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Menandabuku Tab Ini...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Tanda buku Tab Ini...">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "M">
 <!ENTITY syncedTabs.context.copy.label                       "Salin">
 <!ENTITY syncedTabs.context.copy.accesskey                   "S">
@@ -769,7 +769,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Daftar Masuk Ke &syncBrand.shortName.label;...">
 <!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "Selarikan Sekarang">
+<!ENTITY syncSyncNowItem.label        "Sync Sekarang">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Sambung semula ke &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "S">
