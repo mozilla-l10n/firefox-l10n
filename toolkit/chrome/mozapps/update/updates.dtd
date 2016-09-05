@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "यो आंशिक अद्यावधिक लागु गर्न सकिएन। &brandShortName; ले पुरा अद्यावधिक डाउनलोड गरेर पुन प्रयास गर्नेछ।">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ले कुनै अद्यावधिक उपलब्ध छ भन्ने निर्धारण गर्न असमर्थ भयो। कृपया तपाईसँग &brandShortName; को नविनतम संस्करण छ भन्ने पक्का गर्नुहोस यहाँ बाट :">
-
+<!ENTITY  errorCertAttrNoUpdate2.label    "कुनै चीजले &brandShortName; सुरक्षित संग अध्यावधिक हुनबाट रोकिरहेको छ। कृपया तपाईसंग &brandShortName; को नविनतम संस्करण भएको वा नभएको बारेमा निम्न बाट जान्नुहोस:">
 <!ENTITY  errorCertAttrHasUpdate.label    "केही चिजले &brandShortName; लाई असुरक्षित अद्यावधिक लिन झुक्याई रहेको छ। कृपया तपाईंको संजाल प्रदानकर्तासँग सम्पर्क रखी सहयोग लिनुहोस्।">
 
 <!ENTITY  finishedPage.title              "अद्यावधिक स्थापना गर्न तयार">
@@ -50,7 +50,8 @@
 <!ENTITY  finishedBackgroundPage.text     "&brandShortName; को लागी सुरक्षा र स्थिरता अद्यावधिक डाउनलोड भएको छ र यो स्थापित हुन तयार छ।">
 <!ENTITY  finishedBackground.name         "अद्यावधिकः">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-
+<!ENTITY  finishedBackground.more         "यो अद्यावधिक अर्को समय &brandShortName; सुरू हुँदा स्थापना हुनेछ। तपाईंँले &brandShortName; लाई अहिले वा पछी पुनः सुचारू गर्न सक्नुहुन्छ।">
+<!ENTITY  finishedBackground.moreElevated "यो अद्यावधिकलाई प्रशासकको बिशेश अधिकारहरू अावश्यक पर्छ। यो अद्यावधिक अर्को समय &brandShortName; सुचारु हुँदा स्थापना हुनेछ। तपाईं &brandShortName; लाई अहिले वा पछी पुनः सुचारू गर्न सक्नुहुन्छ।">
 
 <!ENTITY  update.details.label            "विवरण">
 <!ENTITY  update.installedOn.label        "स्थापना मिति:">
