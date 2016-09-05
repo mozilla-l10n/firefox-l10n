@@ -23,7 +23,7 @@
 <!ENTITY helpKeyboardShortcuts.label     "ကီးဘုတ်အမြန်သုံးခလုတ်များ">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "အတ်အွန်များကို ပိတ်ပြီး ပြန်စတင်ပါ။…">
+<!ENTITY helpSafeMode.label       "အတ်အွန်များကို ပိတ်ပြီး ပြန်စပါ…">
 <!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "အတ်အွန်များဖွင့်ပြီး ပြန်စတင်ပါ">
 <!ENTITY helpSafeMode.stop.accesskey   "R">

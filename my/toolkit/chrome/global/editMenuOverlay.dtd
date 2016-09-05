@@ -4,10 +4,10 @@
 
 <!ENTITY editMenu.label            "တည်းဖြတ်ပါ">
 <!ENTITY editMenu.accesskey        "E">
-<!ENTITY undoCmd.label             "ပြန်ဖြည်ပါ">
+<!ENTITY undoCmd.label             "မလုပ်တော့ပါ">
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "U">
-<!ENTITY redoCmd.label             "ပြန်ပြင်ပါ">
+<!ENTITY redoCmd.label             "ပြန်လုပ်ပါ">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "R">
 <!ENTITY cutCmd.label              "ဖြတ်ယူပါ ">
@@ -19,7 +19,7 @@
 <!ENTITY pasteCmd.label            "ပွားပါ">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "P">
-<!ENTITY deleteCmd.label           "ပယ်ဖျက်ပါ">
+<!ENTITY deleteCmd.label           "ဖျက်ပါ">
 <!ENTITY deleteCmd.accesskey       "D">
 <!ENTITY selectAllCmd.label        "အားလုံး ရွေးချယ်ပါ">
 <!ENTITY selectAllCmd.key          "A">
@@ -31,5 +31,5 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "g">
-<!ENTITY findPreviousCmd.label     "အရင်က ရှာဖွေပါ">
+<!ENTITY findPreviousCmd.label     "နောက်ပြန် ရှာပါ">
 <!ENTITY findPreviousCmd.accesskey "v">
