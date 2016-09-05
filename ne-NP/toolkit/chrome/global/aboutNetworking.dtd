@@ -10,7 +10,7 @@
 <!ENTITY aboutNetworking.sockets               "सकेटहरू">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
-
+<!ENTITY aboutNetworking.refresh               "ताजा पार्नुहोस्">
 <!ENTITY aboutNetworking.autoRefresh           "हरेक ३ सेकेन्डमा आँफै ताजा पार्नुहोस् ।">
 <!ENTITY aboutNetworking.hostname              "Hostname">
 <!ENTITY aboutNetworking.port                  "पोर्ट">
