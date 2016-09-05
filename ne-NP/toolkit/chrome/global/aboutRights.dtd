@@ -26,6 +26,8 @@
 
 <!ENTITY rights.intro-point2.5 "&brandShortName; को केहि मा सुविधाहरु जस्तै क्र्यास रिपोर्टरले &vendorShortName; लाई पृष्ठपोषण पठाउने विकल्प तपाईलाई दिन्छन्। पृष्ठपोषण निवेदन छानेर, तपाईले &vendorShortName; लाई पृष्ठपोषण प्रयोग गरेर उत्पादन सुधार्ने, वेबसाइटमा पृष्ठपोषण प्रकाशन गर्ने र पृष्ठपोषण वितरण गर्ने अनुमति दिनसक्नुहुन्छ ।">
 <!-- point 3 text for official branded builds -->
+
+<!ENTITY rights2.intro-point3a "&brandShortName; मार्फत &vendorShortName;मा पेश गरिएको तपाईंको व्यक्तिगत जानकारी र प्रतिक्रिया हामी कसरी प्रयोग गर्छौं भन्ने कुराको विस्तृत जानकारी">
 <!ENTITY rights2.intro-point3b "&brandShortName; गोपनीयता निति">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
