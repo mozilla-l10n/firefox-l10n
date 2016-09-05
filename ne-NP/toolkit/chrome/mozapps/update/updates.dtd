@@ -8,12 +8,12 @@
 
 <!ENTITY  noupdatesfound.title            "कुनै अद्यावधि पाइएन">
 <!ENTITY  noupdatesautoenabled.intro      "कुनै पनि अपडेट उपलब्ध छैन। &brandShortName; ले  समय समयमा अपडेटका लागि जाँच गर्ने छ।  ">
-<!ENTITY  noupdatesautodisabled.intro     "कुनै पनि अपडेट उपलब्ध छैनन। कृपया केहि समय पछि पुन:प्रयास गर्नुहोस वा  &brandShortName; को स्वतः अद्यावधिक सक्षम पार्नुहोस्। ">
+<!ENTITY  noupdatesautodisabled.intro     "कुनै पनि अद्यावधिक उपलब्ध छैनन। कृपया केहि समय पछि पुन:प्रयास गर्नुहोस वा &brandShortName; को स्वतः अद्यावधिक सक्षम पार्नुहोस्।">
 
 <!ENTITY  manualUpdate.title              "अद्यावधिक गर्न सकिएन">
-
+<!ENTITY  manualUpdate.desc               "सिफारिस गरिएको सुरक्षा र स्थिरता अद्यावधिक उपलब्ध छ तर त्यो स्थापना गर्न तपाई सँग आवस्यक प्रणाली अनुमति छैन। कृपया तपाईको प्रणाली प्रशासकलाई सम्पर्क गर्नुहोस्, वा यो कम्प्युटरमा सफ्टवेयर स्थापना गर्न अनुमति भएको खाता बाट पुन: प्रयास गर्नुहोस्।">
 <!ENTITY  manualUpdate.space.desc         "एउटा सिफारिस गरिएको सुरक्षा र स्थिरता अद्यावधिक उपलब्ध छ, तर तपाइँसँग यो स्थापना गर्न पर्याप्त ठाउँ छैन।">
-
+<!ENTITY  manualUpdateGetMsg.label        "तपाईले सधैँ &brandShortName; को नयाँ संस्करण यहाँ बाट लिन सक्नुहुनेछ:">
 
 <!ENTITY  unsupported.title               "सिस्टम असमर्थित">
 
@@ -25,7 +25,7 @@
 <!ENTITY  downloadPage.title              " &brandShortName; डाउनलोड गरिदै">
 <!ENTITY  downloading.intro               "अद्यावधि डाउनलोड गर्दै…">
 <!ENTITY  connecting.label                "सर्भरसँग जडान गर्दै…">
-
+<!ENTITY  verificationFailedText.label    "&brandShortName; ले डाउनलोड गरेको बृद्दी अद्यावधिक को समग्रता रूजु गर्न असमर्थ भयो त्यसैले अब पुरा अद्यावधिक प्याकेज डाउनलोड गर्दैछ।">
 
 <!ENTITY  viewDetails.tooltip             "यो अद्यावधिकको विवरण हेर्नुहोस्">
 
@@ -33,9 +33,13 @@
 
 <!ENTITY  error.title                     "अद्यावधि असफल भयो।">
 
+<!ENTITY  error.label                     "यो अद्यावधिक जाँच गर्न, डाउनलोड गर्न, वा स्थापना गर्न समस्या देखियो। &brandShortName; अद्यावधिक गर्न सकिदैन किनकि:">
+                                           
+<!ENTITY  errorManual.label               "यो लिंक मा गएर नविनतम संस्करण डाउनलोड गरि तपाईले &brandShortName; लाई आफैले अद्यावधिक गर्न सक्नु हुन्छ">
+                                           
+<!ENTITY  errorpatching.intro             "यो आंशिक अद्यावधिक लागु गर्न सकिएन। &brandShortName; ले पुरा अद्यावधिक डाउनलोड गरेर पुन प्रयास गर्नेछ।">
 
-
-
+<!ENTITY  genericBackgroundError.label    "&brandShortName; ले कुनै अद्यावधिक उपलब्ध छ भन्ने निर्धारण गर्न असमर्थ भयो। कृपया तपाईसँग &brandShortName; को नविनतम संस्करण छ भन्ने पक्का गर्नुहोस यहाँ बाट :">
 
 
 
