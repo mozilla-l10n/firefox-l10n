@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Cari teks frasa berkenaan yang berikut">
 <!ENTITY previous.tooltip "Cari teks frasa berkenaan yang terdahulu">
 <!ENTITY findCloseButton.tooltip "Tutup Bar Carian">
-<!ENTITY highlightAll.label "Serlahkan semua">
-<!ENTITY highlightAll.accesskey "s">
+<!ENTITY highlightAll.label "Serlahkan Semua">
+<!ENTITY highlightAll.accesskey "a">
 <!ENTITY highlightAll.tooltiptext "Serlahkan semua frasa berkenaan">
 <!ENTITY caseSensitive.label "Sepadan kes">
 <!ENTITY caseSensitive.accesskey "a">
