@@ -36,6 +36,7 @@
 <!ENTITY  locbar.bookmarks.accesskey    "a">
 <!ENTITY  locbar.openpage.label         "Buka tab">
 <!ENTITY  locbar.openpage.accesskey     "B">
+<!ENTITY  locbar.searches.label         "Carian berkaitan dari enjin carian piawai">
 <!ENTITY  locbar.searches.accesskey     "d">
 
 <!ENTITY  suggestionSettings.accesskey  "g">

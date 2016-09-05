@@ -68,6 +68,7 @@
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "Jumlah Masa">
 <!ENTITY performanceUI.table.totalPercentage          "Jumlah Kos">
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "Peratusan masa yang digunakan hanya dalam fungsi ini.">
 <!ENTITY performanceUI.table.samples                  "Contoh">
 <!ENTITY performanceUI.table.function                 "Fungsi">
 <!ENTITY performanceUI.table.function.tooltip         "Nama dan sumber lokasi fungsi yang menjadi sampel.">
