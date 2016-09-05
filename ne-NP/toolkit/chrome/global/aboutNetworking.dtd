@@ -3,16 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "सञ्जालीकरणको बारेमा">
-
+<!ENTITY aboutNetworking.warning               "यो धेरै प्रयोगात्मक छ . कुनै वयस्कको पर्यवेक्षणको  बिना उपयोग नगर्नुहोस् ">
 <!ENTITY aboutNetworking.showNextTime          "यो चेतावनी अर्को पटक देखाउनुहोस्">
 <!ENTITY aboutNetworking.ok                    "ठिक छ">
-
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "सकेटहरू">
-
+<!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 
 <!ENTITY aboutNetworking.autoRefresh           "हरेक ३ सेकेन्डमा आँफै ताजा पार्नुहोस् ।">
-
+<!ENTITY aboutNetworking.hostname              "Hostname">
 <!ENTITY aboutNetworking.port                  "पोर्ट">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
@@ -29,7 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "सन्देश प्राप्त भयो">
 <!ENTITY aboutNetworking.bytesSent             "बाइट्स पठाइयो">
 <!ENTITY aboutNetworking.bytesReceived         "बाइट्स प्राप्त भयो">
-
-
-
-
+<!ENTITY aboutNetworking.dnsLookup             "DNS लुकअप">
+<!ENTITY aboutNetworking.dnsLookupButton       "Resolve">
+<!ENTITY aboutNetworking.dnsDomain             "डोमेन">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IP हरू">
