@@ -61,6 +61,7 @@
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Tunjukkan operasi berbeza yang dilaksanakan pelayar semasa rakaman, disusun secara berurutan sebagai waterfall.">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Serlahkan fungsi JavaScript masa pelayar yang paling banyak digunakan semasa rakaman.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Peruntukan">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Pamer kedudukan memori semasa rakaman.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Carta JS Flame">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Pamer susunan panggilan JavaScript sepanjang rakaman.">
 
