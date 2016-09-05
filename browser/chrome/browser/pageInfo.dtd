@@ -13,7 +13,7 @@
 <!ENTITY  selectall.accesskey   "a">
 <!ENTITY  closeWindow.key       "w">
 
-<!ENTITY  generalTab            "Am">
+<!ENTITY  generalTab            "Umum">
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "Alamat:">
 <!ENTITY  generalType           "Jenis:">
