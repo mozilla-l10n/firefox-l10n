@@ -4,8 +4,8 @@
 
 <!ENTITY  button-back-mac.label        "पछाडि जानुहोस्">
 <!ENTITY  button-back-mac.accesskey    "B">
-
-
+<!ENTITY  button-next-mac.label        "जारी राख्नुहोस्">
+<!ENTITY  button-next-mac.accesskey    "C">
 <!ENTITY  button-finish-mac.label      "सम्पन्न भयो">
 <!ENTITY  button-cancel-mac.label      "रद्द गर्नुहोस्">
 
@@ -14,10 +14,10 @@
 <!ENTITY  button-next-unix.label       "पछिल्लो">
 <!ENTITY  button-next-unix.accesskey   "N">
 <!ENTITY  button-finish-unix.label     "समाप्त">
+<!ENTITY  button-cancel-unix.label     "रद्द गर्नुहोस्">
 
 
 
 
-
-
-
+<!ENTITY  button-finish-win.label      "समाप्त">
+<!ENTITY  button-cancel-win.label      "रद्द गर्नुहोस">
