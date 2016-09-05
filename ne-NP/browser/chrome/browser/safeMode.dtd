@@ -13,3 +13,5 @@
 
 <!ENTITY refreshProfileInstead.label  "तपाई निवारण प्रकृया लाई छोड्न पनि सक्नु हुन्छ र &brandShortName; ताजा बनाउने प्रयास गर्न सक्नु हुन्छ।">
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; सुरु गर्दा अकस्मात बन्द भयो। यो एड-अनहरु अथवा अन्य समस्या का कारण भएको हुन सक्छ। यो समस्या समाधान सुरक्षित प्रणालीद्वारा निवारण प्रयास गर्न सक्नुहुन्छ।">
