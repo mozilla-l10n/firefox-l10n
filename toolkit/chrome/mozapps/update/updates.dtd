@@ -51,7 +51,7 @@
 <!ENTITY  finishedBackground.name         "अद्यावधिकः">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "यो अद्यावधिक अर्को समय &brandShortName; सुरू हुँदा स्थापना हुनेछ। तपाईंँले &brandShortName; लाई अहिले वा पछी पुनः सुचारू गर्न सक्नुहुन्छ।">
-<!ENTITY  finishedBackground.moreElevated "यो अद्यावधिकलाई प्रशासकको बिशेश अधिकारहरू अावश्यक पर्छ। यो अद्यावधिक अर्को समय &brandShortName; सुचारु हुँदा स्थापना हुनेछ। तपाईं &brandShortName; लाई अहिले वा पछी पुनः सुचारू गर्न सक्नुहुन्छ।">
+<!ENTITY  finishedBackground.moreElevated "यो अद्यावधिकलाई प्रशासकको बिशेश अधिकारहरू अावश्यक पर्छ। यो अद्यावधिक अर्को समय &brandShortName; सुचारु हुँदा स्थापना हुनेछ। तपाईँ &brandShortName; लाई अहिले वा पछी पुनः सुचारू गर्न सक्नुहुन्छ।">
 
 <!ENTITY  update.details.label            "विवरण">
 <!ENTITY  update.installedOn.label        "स्थापना मिति:">
