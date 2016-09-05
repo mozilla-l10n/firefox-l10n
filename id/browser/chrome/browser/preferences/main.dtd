@@ -31,7 +31,7 @@
 <!ENTITY alwaysAsk.label "Selalu tanyakan lokasi penyimpanan berkas">
 <!ENTITY alwaysAsk.accesskey "l">
 
-
+<!ENTITY alwaysCheckDefault2.accesskey    "S">
 <!ENTITY setAsMyDefaultBrowser2.label     "Jadikan Peramban Baku">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "B">
 <!ENTITY isDefault.label                  "&brandShortName; adalah peramban baku Anda">
