@@ -32,9 +32,9 @@
 <!ENTITY Custom.label         "अनुकूल…">
 <!ENTITY ShrinkToFit.label    "ठीक हुनलाई खुम्च्याउनुहोस्">
 <!ENTITY customPrompt.title   "अनुकूल स्केल…">
-
-
-
+<!ENTITY simplifyPage.label   "पृष्ठ सरलिकृत गर्नुहोस ">
+<!ENTITY simplifyPage.enabled.tooltip  "सजिलो पढाइ लागि आवरण परिवर्तन गर्नुहोस्">
+<!ENTITY simplifyPage.disabled.tooltip "यो पृष्ठ स्वतः सरलीकृत गर्न सकिंदैन">
 
 <!ENTITY homearrow.tooltip    "पहिलो पृष्ठ">
 <!ENTITY endarrow.tooltip     "अन्तिम पृष्ठ">
