@@ -81,6 +81,9 @@ Ping ">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "
+  Keyed Histograms
+">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Pengukuran Mudah">
 
