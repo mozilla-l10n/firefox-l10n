@@ -30,7 +30,7 @@
 <!ENTITY community.exp.creditsLink  "विश्वव्यापी समुदाय">
 <!ENTITY community.exp.end          " वेबलाई खुल्ला, र सबै सम्म पहुँच पुर्‍याउन लागि सहकार्यमा काम गर्दै।">
 
-<!ENTITY community.start2           "&brandShortName; लाई परिकल्पना गर्ने  ">
+<!ENTITY community.start2           "&brandShortName; परिकल्पनाकार ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", एउटा ">
@@ -38,10 +38,10 @@
 <!ENTITY community.creditsLink      "विश्वब्यापी समुदाय">
 <!ENTITY community.end3             "जसले वेबलाई खुल्ला, सार्वजनिक र सबैमा पहुँचको लागि सहकार्यमा काम गर्दैछ।">
 
-<!ENTITY helpus.start               "सहयोग गर्न चाहनुहुन्छ?  ">
+<!ENTITY helpus.start               "सहयोग गर्न चाहनुहुन्छ? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "दान गर्नुहोस्">
-<!ENTITY helpus.middle              "  अथवा  ">
+<!ENTITY helpus.middle              " अथवा ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "सहभागी हुनुहोस्!">
 <!ENTITY helpus.end                 "">

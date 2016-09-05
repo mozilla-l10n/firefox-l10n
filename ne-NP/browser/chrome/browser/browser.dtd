@@ -882,7 +882,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainTimeframeDesc       "अन्तिमलाई बिर्सनुहोस्:">
 <!ENTITY panicButton.view.5min                    "पाँच मिनेट">
 <!ENTITY panicButton.view.2hr                     "दुई घन्टा">
-<!ENTITY panicButton.view.day                     "२४ घन्टा">
+<!ENTITY panicButton.view.day                     "२४ घण्टा">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".

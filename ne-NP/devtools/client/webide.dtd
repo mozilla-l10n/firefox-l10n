@@ -37,11 +37,11 @@
 
 
 
-
+<!ENTITY runtimeMenu_showMonitor_label "मनिटर">
 
 <!ENTITY runtimeMenu_showDevicePrefs_label "उपकरण प्राथमिकताहरू">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-
+<!ENTITY runtimeMenu_showSettings_label "उपकरण सेटिङहरू">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "दृश्य">
@@ -69,7 +69,7 @@
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 
-
+<!ENTITY key_zoomout "-">
 
 
 <!ENTITY projectPanel_myProjects "मेरो परियोजनाहरू">
@@ -110,7 +110,7 @@
 
 <!ENTITY prefs_general_title "सामान्य">
 <!ENTITY prefs_restore "पूर्वानिर्धारित अवस्थामा ल्याउनुहोस्">
-
+<!ENTITY prefs_manage_components "अतिरिक्त अवयव व्यवस्थापन">
 
 
 

@@ -147,6 +147,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 
+<!ENTITY debuggerUI.seEditMenuCondBreak     "ससर्त ब्रेकपोइन्ट">
+
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.sources        "स्रोतहरू">
