@@ -30,7 +30,7 @@
 
 <!ENTITY dataChoicesTab.label            "Isefka i d-yettumegren">
 
-<!ENTITY healthReportDesc.label          "Ak d-imudd tallalt iwakken aţegzuḍ timellit n iminig inek w-ad yazen i &vendorShortName; talɣut ɣef adddad n tezmert n iminig inek.">
+<!ENTITY healthReportDesc.label          "Ak d-imudd tallalt iwakken ad tegzuḍ timellit n iminig inek w-ad yazen i &vendorShortName; talɣut ɣef adddad n tezmert n iminig inek.">
 <!ENTITY enableHealthReport.label        "Rmed tacrawt n tezmert n &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Issin ugar">

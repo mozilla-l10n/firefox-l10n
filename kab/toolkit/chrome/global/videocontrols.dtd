@@ -28,7 +28,7 @@
 <!ENTITY error.network "Urar n temwalit terken acku tella tuccḍa deg uẓeṭṭa.">
 <!ENTITY error.decode "Ur tezmireḍ ara ad twaliḍ tavidyutt acku afaylu dirit.">
 <!ENTITY error.srcNotSupported "Amasal tamwalit neɣ tawsit MIME ur ţusefraken ara.">
-<!ENTITY error.noSource2 "Ulac tamwalit yeţwaffen anda tawsit MIME t-ţusefrak.">
+<!ENTITY error.noSource2 "Ulac tamwalit yettwafen anda tawsit MIME tettusefrak.">
 <!ENTITY error.generic "Urar n temwalit yerken acku tella tuccḍa tarussint.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
