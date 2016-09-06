@@ -25,6 +25,11 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Periksa nama fail untuk huruf besar atau ralat menaip lain.</li> <li>Periksa juga jika fail telah dipindahkan, dinamakan atau dipadam.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Akses kepada fail ditolak">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Mungkin telah dialih keluar, dipindah atau keizinan fail yang menyekat akses.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>&brandShortName; tidak dapat memuatkan laman ini kerana sebab tertentu.</p>">
