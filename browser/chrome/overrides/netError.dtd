@@ -75,6 +75,7 @@
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Pemilik <span class='hostname'/> telah mengkonfigurasi laman web mereka dengan tidak betul.  Untuk meliindungi maklumat anda daripada dicuri, &brandShortName; tidak membuat sambungan dengan laman web ini.">
 
 <!ENTITY sharedLongDesc "<ul> <li>tidak wujud buat sementara waktu atau terlalu sibuk. Cuba beberapa ketika lagi.</li> <li>Jika anda gagal memuatkan sebarang laman, periksa sambungan rangkaian komputer anda.</li> <li>Jika komputer atau rangkaian anda dilindungi firewall atau proksi, pastikan yang &brandShortName; dibenarkan untuk mencapai Web.</li> </ul>">
 
@@ -97,11 +98,13 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoAdvanced.title "Lanjutan">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->
 <!ENTITY certerror.wrongSystemTime "<p>Sambungan internet yang selamat ke <span id='wrongSystemTime_URL'/> tidak berjaya kerana jam anda menunjukkan masa yang salah.</p> <p>Komputer anda mengira masa sekarang ialah <span id='wrongSystemTime_systemDate'/>, yang sepatutnya <span id='wrongSystemTime_actualDate'/>. Untuk menyelesaikan masalah ini, tukar tetapan tarikh dan masa anda untuk menyesuaikan masa yang betul.</p>">
 
+<!ENTITY certerror.pagetitle1  "Sambungan Tidak selamat">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

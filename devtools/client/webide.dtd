@@ -39,6 +39,7 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Keutamaan Peranti">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showSettings_label "Tetapan Peranti">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "Lihat">
@@ -77,6 +78,7 @@
 <!ENTITY runtimePanel_simulator "Pensimulasi">
 <!ENTITY runtimePanel_other "Lain-lain">
 <!ENTITY runtimePanel_installsimulator "Pasang Simulasi">
+<!ENTITY runtimePanel_nousbdevice "Tidak nampak peranti anda?">
 
 <!-- Lense -->
 <!ENTITY details_valid_header "sah">
@@ -105,6 +107,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Umum">
 <!ENTITY prefs_restore "Pulihkan kepada lalai">
+<!ENTITY prefs_options_templatesurl "Templat URL">
 <!ENTITY prefs_options_tabsize "Saiz tab">
 <!ENTITY prefs_options_expandtab_tooltip "Gunakan ruang dan bukannya aksara tab">
 <!ENTITY prefs_options_detectindentation_tooltip "Mengandai berasaskan inden pada konteks sumber">
@@ -132,13 +135,20 @@
 
 <!-- Device Preferences -->
 <!ENTITY devicepreference_title "Keutamaan Peranti">
+<!ENTITY devicepreference_search "Cari keutamaan">
+<!ENTITY devicepreference_newname "Nama keutamaan baru">
 <!ENTITY devicepreference_newtext "Keutamaan nilai">
+<!ENTITY devicepreference_addnew "Tambah keutamaan baru">
 
 <!-- Device Settings -->
 <!ENTITY devicesetting_title "Tetapan Peranti">
 <!ENTITY devicesetting_search "Tetapan carian">
+<!ENTITY devicesetting_newname "Nama tetapan baru">
+<!ENTITY devicesetting_newtext "Nilai tetapan">
+<!ENTITY devicesetting_addnew "Tambah tetapan baru">
 
 <!-- Monitor -->
+<!ENTITY monitor_title "Monitor">
 <!ENTITY monitor_help "Bantuan">
 
 <!-- WiFi Authentication -->
