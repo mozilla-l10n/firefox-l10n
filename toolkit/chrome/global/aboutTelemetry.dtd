@@ -52,8 +52,9 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Utas Macet">
 
-<!ENTITY aboutTelemetry.scalarsSection "Skalar
-  ">
+<!ENTITY aboutTelemetry.scalarsSection "
+  Skalar
+">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
 
