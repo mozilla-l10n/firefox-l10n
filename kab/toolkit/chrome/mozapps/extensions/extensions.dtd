@@ -11,7 +11,7 @@
 
 <!ENTITY loading.label                        "Asali…">
 <!ENTITY listEmpty.installed.label            "Ur ɣur-k ara azegrir yettwasebden n tewsit agi ">
-<!ENTITY listEmpty.availableUpdates.label     "ulac ileqman yeţwafen">
+<!ENTITY listEmpty.availableUpdates.label     "ulac ileqman yettwafen">
 <!ENTITY listEmpty.recentUpdates.label        "Acḥal aya ur tesnifleḍ ara izegrar-ik">
 <!ENTITY listEmpty.findUpdates.label          "Senqed ma llan ileqman">
 <!ENTITY listEmpty.search.label               "Ulac azegrir amernan anmeɣṛu">
@@ -67,7 +67,7 @@
 <!ENTITY updates.installed.label              "Izegrar-inek imernan ţwaleqmen.">
 <!ENTITY updates.downloaded.label             "Ileqman n izegrar-inek imernan ţwazedmen.">
 <!ENTITY updates.restart.label                "Senker i tikelt nniḍen tura iwakken aţfakeḍ asebded">
-<!ENTITY updates.noneFound.label              "ulac ileqman yeţwafen">
+<!ENTITY updates.noneFound.label              "ulac ileqman yettwafen">
 <!ENTITY updates.manualUpdatesFound.label     "Sken ileqman yellan">
 <!ENTITY updates.updateSelected.label         "Sebded ileqman">
 <!ENTITY updates.updateSelected.tooltip       "Sebded ileqman yellan di tebdart agi">
