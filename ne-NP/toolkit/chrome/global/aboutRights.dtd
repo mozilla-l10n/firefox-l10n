@@ -76,6 +76,8 @@
 
 <!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
 <!-- point 1 text for unbranded builds -->
+
+<!ENTITY rights.webservices-term1-unbranded "यो उत्पादनको लागि कुनै पनि गोपनीयता नीति यहाँ सूचीबद्ध गर्नुपर्छ।">
 <!-- points 1-7 text for branded builds -->
 
 

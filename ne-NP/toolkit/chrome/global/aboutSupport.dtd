@@ -60,6 +60,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "बहुप्रक्रिया सञ्झ्यालहरू">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "सुरक्षित मोड">
 
 <!ENTITY aboutSupport.showDir.label "डाइरेक्टरी खोल्नुहोस्">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -84,8 +85,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "ग्राफिक्स">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseIntegrity "समग्रता">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "समग्रता रूजु गर्नुहोस्">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "बढोत्तरी जीसी">
@@ -104,6 +105,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.restartInSafeMode.label "एड-अनहरू अक्षम पारेर पुनः सुरु गर्नुहोस...">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "विशेषताविशेषताहरु">
 
 
 
