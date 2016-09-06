@@ -280,9 +280,11 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "Boŋ-se kanjey ">
-
+<!ENTITY pref_custom_tabs_summary "Naŋ porogaramey waaney ma URL-ey feeri nda tammaasa suubante.">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY pref_activity_stream "Goyyan ceebandu">
+<!ENTITY pref_activity_stream_summary "Taariki leebante nda šintin moo kaŋ fasalandi taaga hala war ma hin ka dii nda faala woo kaŋ war goo m\u0027a ceeci &brandShortName; ra.">
 
 <!ENTITY tracking_protection_prompt_title "Sohõ nda ganayan jejebu">
 <!ENTITY tracking_protection_prompt_text "Ga hayizey kaŋyaŋ ga war gana gagay, adiši war ma ši joote.">
@@ -396,7 +398,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Kanje cere-hangantey">
 
 <!ENTITY pref_default_browser "A tee tilasu ceecikaw">
-
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla faaba dogoo guna">
 <!ENTITY pref_about_firefox "&brandShortName; ga">
 <!ENTITY pref_vendor_faqs "Hãayan nda zaabi">
 <!ENTITY pref_vendor_feedback "War goy-banda laasaaboo sanba">
@@ -585,7 +587,7 @@ size. -->
 <!ENTITY home_clear_history_button "Ceeciyan taariki tuusu">
 <!ENTITY home_clear_history_confirm "Alhakiika war ga boona ka taarikoo tuusu?">
 <!ENTITY home_bookmarks_empty "War doo-šilbay gaabuntey ga cebe ne.">
-
+<!ENTITY home_closed_tabs_title2 "Kanjey kaŋ kokor ka daaba">
 <!ENTITY home_last_tabs_empty "War doŋ kanjey bangay ne.">
 <!ENTITY home_restore_all "Ikul yeeti">
 <!ENTITY home_closed_tabs_number "Kanji &formatD;">
