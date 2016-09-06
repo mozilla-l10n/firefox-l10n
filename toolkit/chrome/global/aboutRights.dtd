@@ -39,11 +39,15 @@
 <!ENTITY rights.intro-point4b "सेवाका सर्तहरू">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
+
+<!ENTITY rights.intro-point4a-unbranded "यदी यस उत्पादनले वेब सेवाहरू शामील गरेमा, कुनै सेवालाई लागू हुने सेवा शर्तहरू यहाँ जोडिनु पर्छ">
 <!ENTITY rights.intro-point4b-unbranded "Web Site Services">
 <!ENTITY rights.intro-point4c-unbranded " खण्ड।">
 
 <!ENTITY rights2.webservices-header "&brandFullName; वेबमा आधारित जानकारी सेवाहरू">
 <!-- point 5 -->
+
+<!ENTITY rights.intro-point5 "केहि प्रकारका चलदृश्य सामग्री पुन: बजाउन &brandShortName; ले केहि सामाग्री गुप्तिकरण उल्टाउने मोड्युल तेश्रो पक्ष बाट डाउनलोड गर्छ। ">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
