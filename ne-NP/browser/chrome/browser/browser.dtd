@@ -43,7 +43,7 @@ can reach it easily. -->
 <!ENTITY  sendTabToDevice.label              "साधन मा ट्याब पठाउनुहोस">
 <!ENTITY  sendTabToDevice.accesskey          "स">
 <!ENTITY  sendPageToDevice.label             "उपकरणमा पृष्ठ पठाउनुहोस्">
-<!ENTITY  sendPageToDevice.accesskey         "उ">
+<!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "उपकरणमा लिङ्क पठाउनुहोस">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "नयाँ सञ्झ्यालमा सार्नुहोस्">
@@ -151,7 +151,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 <!ENTITY pointerlockWarning.afterDomain.label "तपाईको सूचक नियन्त्रण बाहिर छ । नियन्त्रण आफ्नो कब्जामा ल्याउन इस्केप Esc थिच्नुहोस।">
-<!ENTITY pointerlockWarning.generic.label "तपाईको पोइन्टरको नियन्त्रण यो कागजातले गरेको छ। नियन्त्रण फिर्ता ल्याउन Esc थिच्नुहोस्।">
+<!ENTITY pointerlockWarning.generic.label "तपाईको कागजात यो पोइन्टरको नियन्त्रणमा रहेको छ। नियन्त्रण फिर्ता ल्याउन Esc थिच्नुहोस्।">
 
 <!ENTITY closeWindow.label "सञ्झ्याल बन्द गर्नुहोस्">
 <!ENTITY closeWindow.accesskey "d">
