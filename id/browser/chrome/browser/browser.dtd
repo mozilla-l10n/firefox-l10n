@@ -41,9 +41,9 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "Buang dari Tab Permanen">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendPageToDevice.label             "Kirim Laman ke Perangkat">
-<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendPageToDevice.accesskey         "L">
 <!ENTITY  sendLinkToDevice.label             "Kirim Tautan ke Perangkat">
-<!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendLinkToDevice.accesskey         "T">
 <!ENTITY  moveToNewWindow.label              "Pindahkan ke Jendela Baru">
 <!ENTITY  moveToNewWindow.accesskey          "J">
 <!ENTITY  bookmarkAllTabs.label              "Markahi Semua Tab…">
@@ -182,8 +182,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Baru Saja Dibuat Markah">
 <!ENTITY otherBookmarksCmd.label "Markah Lain">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tampilkan markah lainnya">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.accesskey "H">
+<!ENTITY showRecentlyBookmarked.label     "Tampilkan yang Baru Saja Dimarkahi">
+<!ENTITY showRecentlyBookmarked.accesskey "t">
+<!ENTITY hideRecentlyBookmarked.label     "Sembunyikan yang Baru Saja Dimarkahi">
+<!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Mundur">
 <!ENTITY backButton.tooltip           "Mundur satu laman">
@@ -273,7 +275,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Berkas"> 
 <!ENTITY fileMenu.accesskey       "B">
-<!ENTITY newUserContext.accesskey         "B">
+<!ENTITY newUserContext.label             "Tab Kontainer Baru">
+<!ENTITY newUserContext.accesskey         "K">
 <!ENTITY newNavigatorCmd.label        "Jendela Baru">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "J">
@@ -465,7 +468,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "g">
 <!ENTITY openFrameCmd.label           "Buka Bingkai di Jendela Baru">
 <!ENTITY openFrameCmd.accesskey       "i">
-<!ENTITY openLinkCmdInContainerTab.accesskey "z">
+<!ENTITY openLinkCmdInContainerTab.label "Buka Tautan dalam Tab Kontainer Baru">
+<!ENTITY openLinkCmdInContainerTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Hanya Tampilkan Bingkai yang Ini">
 <!ENTITY showOnlyThisFrameCmd.accesskey "n">
 <!ENTITY reloadCmd.commandkey         "r">
