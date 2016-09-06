@@ -34,6 +34,8 @@
 
 <!ENTITY rights.intro-point3-unbranded "यो उत्पादन लागि कुनै पनि गोपनीयता नीति यहाँ सूचीबद्ध गर्नुपर्छ।">
 <!-- point 4 text for official branded builds -->
+
+<!ENTITY rights2.intro-point4a "केही &brandShortName; का विशषताहरूले वेब अाधारित सेवाहरुको प्रयोग गर्छन्, तर तिनिहरू सत प्रतिशत सही वा त्रुटी मुक्त छन् भनेर हामी निश्चित छैनौं। यो सेवाहरू प्रयोग गर्ने विशषताहरूलाई बन्द गर्ने लगायत थप जानकारी यहाँ प्राप्त हुनेछ">
 <!ENTITY rights.intro-point4b "सेवाका सर्तहरू">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
