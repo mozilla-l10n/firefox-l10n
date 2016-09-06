@@ -40,6 +40,7 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "ຖ້າພະລິດຕະຜັນນີ້ໄດ້ຮວບຮ່ວມບໍລິການຂອງເວັບໄວ້, ເງື່ອນໄຂການນຳໃຊ້ຂອງການໃຫ້ບໍລິການສຳລັບບໍລິການນັ້ນໆສາມາດລີ້ງໄປຫາ ">
 <!ENTITY rights.intro-point4b-unbranded "ເວັບໄຊຕ໌ໃຫ້ບໍລິການ">
 <!ENTITY rights.intro-point4c-unbranded " ແຊສຊັນ.">
 
