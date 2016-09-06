@@ -11,9 +11,9 @@
 
 <!ENTITY loading.label                        "ଧାରଣ କରୁଅଛି…">
 <!ENTITY listEmpty.installed.label            "ଆପଣଙ୍କ ପାଖରେ ଏହି ପ୍ରକାରର କୌଣସି ଏଡ-ଅନ ସ୍ଥାପିତ ନାହିଁ">
-<!ENTITY listEmpty.availableUpdates.label     "କୌଣସି ଅଦ୍ୟତନ ମିଳିଲା ନାହିଁ">
-<!ENTITY listEmpty.recentUpdates.label        "ଆପଣ ନିକଟରେ କୌଣସି ଏଡ-ଅନକୁ ଅଦ୍ୟତନ କରିନାହାନ୍ତି">
-<!ENTITY listEmpty.findUpdates.label          "ଅଦ୍ୟତନଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ">
+<!ENTITY listEmpty.availableUpdates.label     "କୌଣସି ଅପଡେଟ ମିଳିଲା ନାହିଁ">
+<!ENTITY listEmpty.recentUpdates.label        "ଆପଣ ନିକଟରେ କୌଣସି ଆଡ଼-ଅନ ଅପଡେଟ କରିନାହାନ୍ତି">
+<!ENTITY listEmpty.findUpdates.label          "ଅପଡେଟଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ">
 <!ENTITY listEmpty.search.label               "କୌଣସି ସାଦୃଶ୍ୟ ଏଡ-ଅନ ମିଳିଲା ନାହିଁ">
 <!ENTITY listEmpty.button.label               "ଏଡ-ଅନଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
 <!ENTITY installAddonFromFile.label           "ଫାଇଲରୁ ଏଡ-ଅନକୁ ସ୍ଥାପନ କରନ୍ତୁ…">
@@ -32,23 +32,23 @@
 <!ENTITY warning.checkcompatibility.label          "ଏଡ-ଅନ ସୁସଙ୍ଗତତା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି। ଆପଣଙ୍କ ପାଖରେ ହୁଏତଃ ଅସଙ୍ଗତ ଏଡ-ଅନ ଅଛି।">
 <!ENTITY warning.checkcompatibility.enable.label   "ସକ୍ରିୟ">
 <!ENTITY warning.checkcompatibility.enable.tooltip "ଏଡ-ଅନ ସୁସଙ୍ଗତତା ଯାଞ୍ଚକୁ ସକ୍ରିୟ କରନ୍ତୁ">
-<!ENTITY warning.updatesecurity.label              "ଏଡ-ଅନ ଅଦ୍ୟତନ ସୁରକ୍ଷା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି। ଆପଣ ହୁଏତଃ ଅଦ୍ୟତନଗୁଡ଼ିକ ସହିତ ବୁଝାମଣା କରିଛନ୍ତି।">
+<!ENTITY warning.updatesecurity.label              "ଆଡ଼-ଅନ ଅପଡେଟ ସୁରକ୍ଷା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି । ଆପଣ ହୁଏତ ଅପଡେଟଗୁଡ଼ିକ ସହିତ ବୁଝାମଣା କରିଛନ୍ତି ।">
 <!ENTITY warning.updatesecurity.enable.label       "ସକ୍ରିୟ">
-<!ENTITY warning.updatesecurity.enable.tooltip     "ଏଡ-ଅନ ଅଦ୍ୟତନ ସୁରକ୍ଷା ଯାଞ୍ଚକୁ ସକ୍ରିୟ କରନ୍ତୁ">
+<!ENTITY warning.updatesecurity.enable.tooltip     "ଆଡ଼-ଅନ ଅପଡେଟ ସୁରକ୍ଷା ଯାଞ୍ଚକୁ ସକ୍ରିୟ କରନ୍ତୁ">
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "ଏଡ-ଅନଗୁଡ଼ିକୁ ଗ୍ରହଣ କରନ୍ତୁ">
-<!ENTITY view.recentUpdates.label             "ସାମ୍ପ୍ରତିକ ଅଦ୍ୟତନଗୁଡ଼ିକ">
-<!ENTITY view.availableUpdates.label          "ଉପଲବ୍ଧ ଅଦ୍ୟତନଗୁଡ଼ିକ">
+<!ENTITY view.recentUpdates.label             "ନିକଟର ଅପଡେଟଗୁଡ଼ିକ">
+<!ENTITY view.availableUpdates.label          "ଉପଲବ୍ଧ ଅପଡେଟଗୁଡ଼ିକ">
 <!-- addon updates -->
 
-<!ENTITY updates.checkForUpdates.label        "ଅଦ୍ୟତନଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚକରନ୍ତୁ">
+<!ENTITY updates.checkForUpdates.label        "ଅପଡେଟଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚକରନ୍ତୁ">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
-<!ENTITY updates.viewUpdates.label            "ସାମ୍ପ୍ରତିକ ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ">
+<!ENTITY updates.viewUpdates.label            "ନିକଟର ଅପଡେଟଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଏଡ-ଅନଗୁଡ଼ିକୁ ଅଦ୍ୟତନ କରନ୍ତୁ">
+<!ENTITY updates.updateAddonsAutomatically.label     "ସ୍ୱୟଂଚାଳିତ ଭାବେ ଅଡ଼-ଅନଗୁଡ଼ିକୁ ଅପଡେଟ କରନ୍ତୁ">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
