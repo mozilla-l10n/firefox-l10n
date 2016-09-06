@@ -4,6 +4,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "टेलीमेटरी डाटा">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  परिवर्तन">
 
 
 
@@ -15,6 +16,7 @@
 
 <!ENTITY aboutTelemetry.structured "संरचना">
 
+<!ENTITY aboutTelemetry.raw "कच्चा JSON">
 
 
 
@@ -24,7 +26,9 @@
 <!ENTITY aboutTelemetry.archiveWeekHeader "हप्ता">
 
 
+<!ENTITY aboutTelemetry.generalDataSection "  सामान्य डाटा">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  परिवेश डाटा">
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "  ढिलो SQL विवरणहरू">
@@ -57,4 +61,6 @@
 
 <!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रिङहरू वा /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  पेलोड">
 
+<!ENTITY aboutTelemetry.rawPayload "  कच्चा पेलोड">
