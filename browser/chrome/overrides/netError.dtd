@@ -93,6 +93,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
 
+<!ENTITY errorReporting.automatic2 "Laporkan ralat seperti ini untuk membantu Mozilla mengenal pasti dan menyekat laman web berbahaya">
 <!ENTITY errorReporting.learnMore "Ketahui lanjut…">
 
 <!ENTITY remoteXUL.title "XUL Tempat Lain">
@@ -106,6 +107,8 @@ was trying to connect. -->
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Maklumat lanjut: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Lanjutan">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> menggunakan teknologi keselamatan yang ketinggalan zaman dan terdedah kepada serangan. Penyerang dengan mudah boleh mendedahkan maklumat yang anda fikir selamat.">
+<!ENTITY weakCryptoAdvanced.override "(Tidak selamat) Cuba memuatkan <span class='hostname'></span> menggunakan keselamatan ketinggalan zaman">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
      please leave them unchanged. -->

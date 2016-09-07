@@ -72,6 +72,7 @@
 <!ENTITY btnConsoleServiceWorkers "Service Workers">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Add-on atau Chrome Workers">
 
 <!ENTITY filterOutput.placeholder "Penapis output">
 <!ENTITY btnClear.label        "Bersih">
