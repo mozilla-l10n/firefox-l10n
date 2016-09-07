@@ -25,6 +25,6 @@
 
 
 <!ENTITY sync.pair.title            "I-pares sa isa pang Aparato">
-
+<!ENTITY sync.pair.description      "To activate your new device, select &quot;Set Up Sync&quot; on the device.">
 <!ENTITY sync.setup.close           "Isarado">
 

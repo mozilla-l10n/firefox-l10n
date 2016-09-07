@@ -15,7 +15,7 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Sinubukan mong mag-connect sa <b>#1</b>, pero hindi kami sigurado kung ligtas ang connection na ito.">
+<!ENTITY certerror.introPara1 "You have asked &brandShortName; to connect securely to <b>#1</b>, but we can't confirm that your connection is secure.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Anong dapat kong gawin?">
 <!ENTITY certerror.whatShouldIDo.content "Maaaring hindi totoo ang website na pinupuntahan mo. Mas maigi na huwag ka nang tumuloy.">
