@@ -13,7 +13,7 @@
 <!ENTITY  selectall.accesskey   "в">
 <!ENTITY  closeWindow.key       "w">
 
-<!ENTITY  generalTab            "Общи">
+<!ENTITY  generalTab            "Основни">
 <!ENTITY  generalTab.accesskey  "О">
 <!ENTITY  generalURL            "Адрес:">
 <!ENTITY  generalType           "Вид:">

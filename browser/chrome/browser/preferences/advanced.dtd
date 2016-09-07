@@ -4,7 +4,7 @@
 
 <!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label                "Общи">
+<!ENTITY generalTab.label                "Основни">
 
 <!ENTITY accessibility.label             "Достъпност">
 
