@@ -13,7 +13,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "प्रतिवेदन आईडी">
 <!ENTITY aboutSupport.crashes.sendDate "पेश गरियो">
 <!ENTITY aboutSupport.crashes.allReports "सबै क्र्यास प्रतिवेदनहरू">
-
+<!ENTITY aboutSupport.crashes.noConfig "यो अनुप्रयोग क्र्यास प्रतिवेदनहरू प्रदर्शन गर्नका लागि कन्फिगर गरिएको छैन।">
 
 <!ENTITY aboutSupport.extensionsTitle "विस्तारहरू">
 <!ENTITY aboutSupport.extensionName "नाम">
@@ -21,6 +21,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "संस्करण">
 <!ENTITY aboutSupport.extensionId "आईडी">
 
+<!ENTITY aboutSupport.experimentsTitle "प्रयोगात्मक विशेषताहरु">
 <!ENTITY aboutSupport.experimentName "नाम">
 <!ENTITY aboutSupport.experimentId "आईडी">
 <!ENTITY aboutSupport.experimentDescription "वर्णन">
@@ -77,7 +78,7 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js प्राथमिकताहरू">
-
+<!ENTITY aboutSupport.userJSDescription "तपाईको प्रोफाइल फोल्डरमा <a id='prefs-user-js-link'>user.js फाइल</a> छ जुनमा &brandShortName; ले सिर्जना नगरेका प्राथमिकताहरु समावेश छन्। ">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "महत्वपूर्ण ताल्चा लगाइएका प्राथमिकताहरू">
 <!ENTITY aboutSupport.lockedPrefsName "नाम">
@@ -85,6 +86,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "ग्राफिक्स">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "ठाउँहरूको डाटाबेस">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "समग्रता">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "समग्रता रूजु गर्नुहोस्">
 
@@ -92,11 +94,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsIncrementalGC "बढोत्तरी जीसी">
 
 <!ENTITY aboutSupport.a11yTitle "पहुँचता">
-
+<!ENTITY aboutSupport.a11yActivated "सक्रिय गरिएको">
 <!ENTITY aboutSupport.a11yForceDisabled "पहुँच सेटिङ रोक्नुहोस">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "लाईब्रेरी संस्करणहरू">
 
+<!ENTITY aboutSupport.installationHistoryTitle "स्थापना इतिहास">
 <!ENTITY aboutSupport.updateHistoryTitle "अद्यावधिक इतिहास">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "क्लिपबोर्डमा पाठ प्रतिलिपि गर्नुहोस्">
