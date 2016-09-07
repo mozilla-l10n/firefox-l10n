@@ -18,7 +18,9 @@
 
 <!ENTITY aboutTelemetry.showCurrentPingData "ຂໍ້ມູນການປີ້ງປະຈຸບັນ">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "ບັນທຶກຂໍ້ມູນການປີ້ງແລ້ວ">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "ສະແດງຂໍ້ມູນການປີ້ງ:">
 
 <!ENTITY aboutTelemetry.structured "ໂຄງສ້າງ">
 
@@ -32,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "ປີ້ງທີ່ເກົ່າກວ່າ &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "ຂໍ້ມູນດິບການປີ້ງ…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "ອາທິດ">
 
@@ -47,7 +50,11 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  ບຣາວເຊີຄ້າງ">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection "Thread ຄ້າງ
+  ">
 
+<!ENTITY aboutTelemetry.scalarsSection "Scalars
+  ">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histograms">
 
@@ -57,17 +64,29 @@
 
 <!ENTITY aboutTelemetry.addonDetailsSection "  ລາຍລະອຽດຂອງ Add-on">
 
+<!ENTITY aboutTelemetry.lateWritesSection "
+  ການຂຽນພາຍຫລັງ">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  ຂໍ້ມູນຂອງແຊສຊັນ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histograms ທີ່ຖືກເກັບໂດຍ Add-ons">
 
+<!ENTITY aboutTelemetry.toggle "
+  ຄລິກເພື່ອເຊື່ອງ/ສະແດງພາກສ່ວນນີ້">
 
 <!ENTITY aboutTelemetry.emptySection "  (ບໍ່ໄດ້ເກັບຂໍ້ມູນໄວ້)">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  ຫມາຍເຫດ: ການດີບັກ SQL ທີ່ເຮັດວຽກຊ້າໄດ້ຖືກເປີດໃຊ້ງານຢູ່. ຄຳສັ່ງ SQL ແບບເຕັມອາດຈະຖືກສະແດງໄວ້ດ້ານລຸ່ມ ແຕ່ຈະບໍ່ຖືກສົ່ງອອກໄປຫາ Telemetry.">
 
+<!ENTITY aboutTelemetry.fetchSymbols "
+  ດຶງຊື່ຂອງຟັງຊັນສຳລັບ stack ທີ່ຄ້າງ">
 
+<!ENTITY aboutTelemetry.hideSymbols "
+  ສະແດງຂໍ້ມູນດິບທີ່ເກີດຈາກການຄ້າງ">
 
+<!ENTITY aboutTelemetry.filterText "
+  ຕົວກັ່ນຕອງ (ສະຕລິງ ຫລື /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
 
