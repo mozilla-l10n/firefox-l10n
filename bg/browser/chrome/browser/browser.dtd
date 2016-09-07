@@ -19,7 +19,7 @@
 <!ENTITY navbarOverflow.label                "Още инструменти…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Презареждане на раздел">
+<!ENTITY  reloadTab.label                    "Презареждане на раздела">
 <!ENTITY  reloadTab.accesskey                "П">
 <!ENTITY  reloadAllTabs.label                "Презареждане на всички раздели">
 <!ENTITY  reloadAllTabs.accesskey            "в">
