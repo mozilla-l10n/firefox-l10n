@@ -104,7 +104,7 @@ when there are no windows but Firefox is still running. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Masukkan Skrin Penuh">
 <!ENTITY enterFullScreenCmd.accesskey "S">
-<!ENTITY exitFullScreenCmd.label "Keluar Muka Penuh">
+<!ENTITY exitFullScreenCmd.label "Keluar Skrin Penuh">
 <!ENTITY exitFullScreenCmd.accesskey "M">
 <!ENTITY fullScreenCmd.label "Skrin Penuh">
 <!ENTITY fullScreenCmd.accesskey "S">
@@ -141,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Keluar dari Skrin Penuh (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Keluar dari Skrin Penuh (esc)">
-<!ENTITY leaveDOMFullScreen.label "Keluar dari Muka Penuh">
+<!ENTITY leaveDOMFullScreen.label "Keluar Skrin Penuh">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
